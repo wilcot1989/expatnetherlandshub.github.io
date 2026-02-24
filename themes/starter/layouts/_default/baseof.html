@@ -1,0 +1,254 @@
+<!DOCTYPE html>
+<html lang="{{ .Site.LanguageCode }}">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>{{ if not .IsHome }}{{ .Title }} | {{ end }}{{ .Site.Title }}</title>
+  <meta name="description" content="{{ with .Description }}{{ . }}{{ else }}{{ .Site.Params.description }}{{ end }}">
+  <link rel="icon" href="/favicon.svg" type="image/svg+xml">
+  <link rel="canonical" href="{{ .Permalink }}">
+  <meta name="robots" content="index, follow">
+  <meta name="author" content="{{ .Site.Params.author }}">
+  {{ with .Params.keywords }}<meta name="keywords" content="{{ delimit . ", " }}">{{ end }}
+  {{ with .OutputFormats.Get "RSS" }}<link rel="alternate" type="application/rss+xml" title="{{ $.Site.Title }}" href="{{ .RelPermalink }}">{{ end }}
+
+  <!-- Open Graph -->
+  <meta property="og:title" content="{{ if not .IsHome }}{{ .Title }}{{ else }}{{ .Site.Title }} — {{ .Site.Params.tagline }}{{ end }}">
+  <meta property="og:description" content="{{ with .Description }}{{ . }}{{ else }}{{ .Site.Params.description }}{{ end }}">
+  <meta property="og:url" content="{{ .Permalink }}">
+  <meta property="og:site_name" content="{{ .Site.Title }}">
+  <meta property="og:type" content="{{ if .IsPage }}article{{ else }}website{{ end }}">
+  <meta property="og:locale" content="en_US">
+  {{ with .Params.featured_image }}<meta property="og:image" content="{{ $.Site.BaseURL }}{{ strings.TrimPrefix "/" . }}">
+  <meta property="og:image:width" content="1200">
+  <meta property="og:image:height" content="630">{{ end }}
+  {{ if .IsPage }}
+  <meta property="article:published_time" content="{{ .Date.Format "2006-01-02T15:04:05Z07:00" }}">
+  <meta property="article:modified_time" content="{{ .Lastmod.Format "2006-01-02T15:04:05Z07:00" }}">
+  {{ range .Params.tags }}<meta property="article:tag" content="{{ . }}">
+  {{ end }}
+  {{ end }}
+
+  <!-- Twitter Card -->
+  <meta name="twitter:card" content="summary_large_image">
+  <meta name="twitter:title" content="{{ if not .IsHome }}{{ .Title }}{{ else }}{{ .Site.Title }}{{ end }}">
+  <meta name="twitter:description" content="{{ with .Description }}{{ . }}{{ else }}{{ .Site.Params.description }}{{ end }}">
+  {{ with .Params.featured_image }}<meta name="twitter:image" content="{{ $.Site.BaseURL }}{{ strings.TrimPrefix "/" . }}">{{ end }}
+
+  <!-- JSON-LD Structured Data -->
+  {{ if .IsHome }}
+  <script type="application/ld+json">
+  {
+    "@context": "https://schema.org",
+    "@type": "WebSite",
+    "name": "{{ .Site.Title }}",
+    "url": "{{ .Site.BaseURL }}",
+    "description": "{{ .Site.Params.description }}",
+    "publisher": {
+      "@type": "Organization",
+      "name": "{{ .Site.Title }}",
+      "url": "{{ .Site.BaseURL }}"
+    },
+    "potentialAction": {
+      "@type": "SearchAction",
+      "target": "{{ .Site.BaseURL }}?q={search_term_string}",
+      "query-input": "required name=search_term_string"
+    }
+  }
+  </script>
+  {{ else if .IsPage }}
+  <script type="application/ld+json">
+  {
+    "@context": "https://schema.org",
+    "@type": "{{ if .Params.affiliate }}ReviewNewsArticle{{ else }}Article{{ end }}",
+    "headline": "{{ .Title }}",
+    "description": "{{ .Description }}",
+    "datePublished": "{{ .Date.Format "2006-01-02T15:04:05Z07:00" }}",
+    "dateModified": "{{ .Lastmod.Format "2006-01-02T15:04:05Z07:00" }}",
+    "author": {
+      "@type": "Organization",
+      "name": "{{ .Site.Params.author }}",
+      "url": "{{ .Site.BaseURL }}"
+    },
+    "publisher": {
+      "@type": "Organization",
+      "name": "{{ .Site.Title }}",
+      "url": "{{ .Site.BaseURL }}"
+    },
+    "mainEntityOfPage": {
+      "@type": "WebPage",
+      "@id": "{{ .Permalink }}"
+    }
+  }
+  </script>
+  {{ if .Params.faq }}
+  <script type="application/ld+json">
+  {
+    "@context": "https://schema.org",
+    "@type": "FAQPage",
+    "mainEntity": [
+      {{ range $i, $item := .Params.faq }}{{ if $i }},{{ end }}
+      {
+        "@type": "Question",
+        "name": "{{ $item.q }}",
+        "acceptedAnswer": {
+          "@type": "Answer",
+          "text": "{{ $item.a }}"
+        }
+      }{{ end }}
+    ]
+  }
+  </script>
+  {{ end }}
+  {{ end }}
+
+  <!-- Google Analytics with Consent Mode v2 -->
+  <script>
+    window.dataLayer = window.dataLayer || [];
+    function gtag(){dataLayer.push(arguments);}
+    gtag('consent','default',{
+      'analytics_storage': localStorage.getItem('cookie-consent')==='true' ? 'granted' : 'denied'
+    });
+    gtag('js', new Date());
+    gtag('config', 'G-7FD0CG0FDL');
+  </script>
+  <script async src="https://www.googletagmanager.com/gtag/js?id=G-7FD0CG0FDL"></script>
+
+  <style>
+    :root { --primary: #0f172a; --accent: #2563eb; --bg: #ffffff; --text: #334155; --light: #f8fafc; --border: #e2e8f0; }
+    * { margin: 0; padding: 0; box-sizing: border-box; }
+    body { font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif; color: var(--text); line-height: 1.7; background: var(--bg); }
+    a { color: var(--accent); text-decoration: none; }
+    a:hover { text-decoration: underline; }
+    .container { max-width: 800px; margin: 0 auto; padding: 0 1.5rem; }
+    .wide { max-width: 1100px; }
+    header { background: var(--primary); color: white; padding: 1rem 0; }
+    header .container { display: flex; justify-content: space-between; align-items: center; flex-wrap: wrap; }
+    header a { color: white; }
+    .logo { font-size: 1.4rem; font-weight: 700; }
+    .logo span { color: #60a5fa; }
+    nav a { margin-left: 1.5rem; font-size: 0.9rem; opacity: 0.85; }
+    nav a:hover { opacity: 1; text-decoration: none; }
+    main { padding: 2rem 0; min-height: 60vh; }
+    h1 { color: var(--primary); font-size: 2rem; margin-bottom: 1rem; line-height: 1.3; }
+    h2 { color: var(--primary); font-size: 1.5rem; margin: 2rem 0 0.75rem; }
+    h3 { color: var(--primary); font-size: 1.2rem; margin: 1.5rem 0 0.5rem; }
+    p { margin-bottom: 1rem; }
+    ul, ol { margin: 0 0 1rem 1.5rem; }
+    li { margin-bottom: 0.3rem; }
+    img { max-width: 100%; height: auto; border-radius: 8px; }
+    .hero { background: linear-gradient(135deg, #0f172a 0%, #1e3a5f 100%); color: white; padding: 4rem 0; text-align: center; }
+    .hero h1 { color: white; font-size: 2.5rem; }
+    .hero p { font-size: 1.2rem; opacity: 0.9; max-width: 600px; margin: 1rem auto; }
+    .card { background: var(--light); border: 1px solid var(--border); border-radius: 12px; padding: 1.5rem; margin-bottom: 1.5rem; transition: box-shadow 0.2s; }
+    .card:hover { box-shadow: 0 4px 12px rgba(0,0,0,0.08); }
+    .card h2 { margin-top: 0; font-size: 1.3rem; }
+    .card h2 a { color: var(--primary); }
+    .meta { color: #64748b; font-size: 0.85rem; margin-bottom: 0.5rem; }
+    .tags { margin-top: 0.5rem; }
+    .tag { display: inline-block; background: #e0e7ff; color: #1e40af; padding: 0.2rem 0.6rem; border-radius: 4px; font-size: 0.8rem; margin-right: 0.3rem; }
+    .cta { display: inline-block; background: var(--accent); color: white; padding: 0.75rem 1.5rem; border-radius: 8px; font-weight: 600; margin: 0.5rem 0.5rem 0.5rem 0; }
+    .cta:hover { background: #1d4ed8; text-decoration: none; }
+    .cta-outline { background: transparent; border: 2px solid var(--accent); color: var(--accent); }
+    .cta-outline:hover { background: var(--accent); color: white; }
+    .pros-cons { display: grid; grid-template-columns: 1fr 1fr; gap: 1rem; margin: 1rem 0; }
+    .pros, .cons { padding: 1rem; border-radius: 8px; }
+    .pros { background: #f0fdf4; border: 1px solid #bbf7d0; }
+    .cons { background: #fef2f2; border: 1px solid #fecaca; }
+    .rating { font-size: 1.5rem; color: #f59e0b; }
+    table { width: 100%; border-collapse: collapse; margin: 1rem 0; }
+    th, td { padding: 0.75rem; text-align: left; border-bottom: 1px solid var(--border); }
+    th { background: var(--light); font-weight: 600; }
+    footer { background: var(--primary); color: #94a3b8; padding: 2rem 0; margin-top: 3rem; text-align: center; font-size: 0.85rem; }
+    footer a { color: #60a5fa; text-decoration: underline; }
+    .affiliate-disclosure { color: #64748b; font-size: 0.78rem; margin-bottom: 1.5rem; padding: 0; border: none; background: none; }
+    .breadcrumb { font-size: 0.85rem; color: #64748b; margin-bottom: 1rem; }
+    .breadcrumb a { color: #64748b; }
+    .related-articles { background: var(--light); border: 1px solid var(--border); border-radius: 12px; padding: 1.5rem; margin-top: 2rem; }
+    .related-articles h3 { margin-top: 0; }
+    .related-articles ul { list-style: none; margin-left: 0; }
+    .related-articles li { margin-bottom: 0.5rem; }
+    .author-box { display: flex; align-items: center; gap: 1rem; background: var(--light); border: 1px solid var(--border); border-radius: 12px; padding: 1.5rem; margin-top: 2rem; }
+    .author-box .author-info { flex: 1; }
+    .author-box .author-name { font-weight: 700; color: var(--primary); }
+    .author-box .author-bio { font-size: 0.9rem; color: var(--text); margin-top: 0.25rem; }
+    .article-hero { background-size: cover; background-position: center; background-repeat: no-repeat; margin-top: -2rem; }
+    .article-hero-overlay { background: rgba(15,23,42,0.55); padding: 4rem 0 3rem; }
+    .article-hero-title { color: #fff; font-size: 2.2rem; margin-bottom: 0.5rem; }
+    .breadcrumb-light a, .breadcrumb-light { color: rgba(255,255,255,0.7); }
+    .breadcrumb-light a:hover { color: #fff; }
+    .meta-light { color: rgba(255,255,255,0.75); }
+    .card-thumb { display: block; width: calc(100% + 3rem); max-width: calc(100% + 3rem); height: 220px; object-fit: cover; border-radius: 8px 8px 0 0; margin: -1.5rem -1.5rem 1rem; background: linear-gradient(135deg, #0f172a 0%, #1e3a5f 100%); padding: 0; }
+    @media (max-width: 768px) {
+      .hero h1 { font-size: 2rem; }
+      .hero { padding: 3rem 0; }
+      table { font-size: 0.85rem; }
+      th, td { padding: 0.5rem; }
+    }
+    @media (max-width: 600px) {
+      .hero h1 { font-size: 1.8rem; }
+      .pros-cons { grid-template-columns: 1fr; }
+      nav { width: 100%; margin-top: 0.5rem; }
+      nav a { margin: 0 1rem 0 0; }
+      .author-box { flex-direction: column; text-align: center; }
+    }
+    .faq-section { margin-top: 2.5rem; }
+    .faq-section h2 { font-size: 1.4rem; margin-bottom: 1rem; }
+    .faq-item { border: 1px solid var(--border); border-radius: 8px; margin-bottom: 0.5rem; }
+    .faq-item summary { padding: 1rem 1.25rem; cursor: pointer; font-weight: 600; color: var(--primary); list-style: none; display: flex; justify-content: space-between; align-items: center; }
+    .faq-item summary::after { content: "+"; font-size: 1.2rem; color: var(--accent); flex-shrink: 0; margin-left: 1rem; }
+    .faq-item[open] summary::after { content: "−"; }
+    .faq-item summary::-webkit-details-marker { display: none; }
+    .faq-item p { padding: 0 1.25rem 1rem; color: var(--text); margin: 0; }
+    .cookie-banner { position: fixed; bottom: 0; left: 0; right: 0; background: var(--primary); color: #cbd5e1; padding: 1rem; z-index: 9999; display: none; }
+    .cookie-banner.show { display: block; }
+    .cookie-inner { max-width: 1100px; margin: 0 auto; display: flex; align-items: center; justify-content: space-between; gap: 1rem; flex-wrap: wrap; }
+    .cookie-inner p { margin: 0; font-size: 0.85rem; flex: 1; }
+    .cookie-inner a { color: #60a5fa; text-decoration: underline; }
+    .cookie-btn { padding: 0.5rem 1.25rem; border-radius: 6px; border: none; cursor: pointer; font-weight: 600; font-size: 0.85rem; }
+    .cookie-accept { background: var(--accent); color: white; }
+    .cookie-decline { background: transparent; color: #94a3b8; border: 1px solid #475569; }
+  </style>
+</head>
+<body>
+  <header>
+    <div class="container wide">
+      <a href="/" class="logo">Digital<span>Shield</span>Pro</a>
+      <nav>
+        {{ range .Site.Menus.main }}
+        <a href="{{ .URL }}">{{ .Name }}</a>
+        {{ end }}
+      </nav>
+    </div>
+  </header>
+  <main>
+    {{ block "main" . }}{{ end }}
+  </main>
+  <footer>
+    <div class="container">
+      <p>&copy; {{ now.Year }} Digital Shield Pro. All rights reserved.</p>
+      <p>We may earn commissions from qualifying purchases through affiliate links.</p>
+      <p><a href="/privacy/">Privacy Policy</a> · <a href="/about/">About</a></p>
+    </div>
+  </footer>
+  <div class="cookie-banner" id="cookieBanner">
+    <div class="cookie-inner">
+      <p>We use cookies and analytics to improve your experience. By clicking "Accept", you consent to our use of Google Analytics. <a href="/privacy/">Privacy Policy</a></p>
+      <div>
+        <button class="cookie-btn cookie-decline" onclick="document.getElementById('cookieBanner').classList.remove('show');localStorage.setItem('cookie-consent','false')">Decline</button>
+        <button class="cookie-btn cookie-accept" onclick="acceptCookies()">Accept</button>
+      </div>
+    </div>
+  </div>
+  <script>
+    function acceptCookies(){
+      localStorage.setItem('cookie-consent','true');
+      document.getElementById('cookieBanner').classList.remove('show');
+      gtag('consent','update',{'analytics_storage':'granted'});
+    }
+    if(!localStorage.getItem('cookie-consent')){
+      document.getElementById('cookieBanner').classList.add('show');
+    }
+  </script>
+</body>
+</html>

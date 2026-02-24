@@ -1,0 +1,53 @@
+baseURL = "https://expatnetherlandshub.com/"
+languageCode = "en-us"
+title = "Expat Netherlands Hub"
+theme = "starter"
+
+[params]
+  description = "Your complete guide to moving to and living in the Netherlands. Insurance, banking, language, housing and more."
+  author = "Expat Netherlands Hub"
+  tagline = "Your Complete Guide to Living in the Netherlands"
+
+[markup]
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+      unsafe = true
+
+[menu]
+  [[menu.main]]
+    name = "Moving Guide"
+    url = "/categories/relocation/"
+    weight = 1
+  [[menu.main]]
+    name = "Learn Dutch"
+    url = "/categories/language/"
+    weight = 2
+  [[menu.main]]
+    name = "Insurance & Banking"
+    url = "/categories/finance/"
+    weight = 3
+  [[menu.main]]
+    name = "Daily Life"
+    url = "/categories/daily-life/"
+    weight = 4
+  [[menu.main]]
+    name = "About"
+    url = "/about/"
+    weight = 5
+
+[outputs]
+  home = ["HTML", "RSS"]
+
+[sitemap]
+  changefreq = "weekly"
+  priority = 0.5
+
+[params.sitemapPriorities]
+  home = 1.0
+  posts = 0.8
+  categories = 0.6
+  tags = 0.4
+
+[taxonomies]
+  category = "categories"
+  tag = "tags"

@@ -1,0 +1,21 @@
+# Affiliate partner credentials - NEVER commit
+partners/
+
+# Google service account keys - NEVER commit
+google/
+
+# Generated reports
+reports/
+*.xlsx
+~$*
+
+# Hugo build output
+public/
+resources/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Environment
+.env

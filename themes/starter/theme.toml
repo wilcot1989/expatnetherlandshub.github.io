@@ -1,0 +1,6 @@
+name = "Starter"
+license = "MIT"
+description = "Minimal affiliate blog theme"
+
+[author]
+  name = "Digital Shield Pro"

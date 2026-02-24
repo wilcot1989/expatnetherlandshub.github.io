@@ -1,0 +1,73 @@
+{{ define "main" }}
+{{ if .Params.featured_image }}
+<div class="article-hero" style="background-image: url('{{ .Params.featured_image }}');">
+  <div class="article-hero-overlay">
+    <div class="container">
+      <div class="breadcrumb breadcrumb-light">
+        <a href="/">Home</a> &rsaquo;
+        {{ range .Params.categories }}<a href="/categories/{{ . }}/">{{ . | humanize | title }}</a>{{ end }}
+        &rsaquo; {{ .Title }}
+      </div>
+      <h1 class="article-hero-title">{{ .Title }}</h1>
+      {{ if not .Date.IsZero }}<div class="meta meta-light">{{ .Date.Format "January 2, 2006" }} · {{ .ReadingTime }} min read</div>{{ end }}
+    </div>
+  </div>
+</div>
+<div class="container">
+  <article>
+{{ else }}
+<div class="container">
+  <article>
+    <div class="breadcrumb">
+      <a href="/">Home</a> &rsaquo;
+      {{ range .Params.categories }}<a href="/categories/{{ . }}/">{{ . | humanize | title }}</a>{{ end }}
+      &rsaquo; {{ .Title }}
+    </div>
+    {{ if not .Date.IsZero }}<div class="meta">{{ .Date.Format "January 2, 2006" }} · {{ .ReadingTime }} min read · Updated {{ .Lastmod.Format "January 2, 2006" }}</div>{{ end }}
+    <h1>{{ .Title }}</h1>
+{{ end }}
+    {{ if .Params.affiliate }}
+    <div class="affiliate-disclosure">
+      This article contains affiliate links. We may earn a commission at no extra cost to you.
+    </div>
+    {{ end }}
+    {{ .Content }}
+    {{ if .Params.tags }}
+    <div class="tags" style="margin-top:2rem;">
+      {{ range .Params.tags }}<span class="tag">{{ . }}</span>{{ end }}
+    </div>
+    {{ end }}
+
+    {{ if .Params.faq }}
+    <div class="faq-section">
+      <h2>Frequently Asked Questions</h2>
+      {{ range .Params.faq }}
+      <details class="faq-item">
+        <summary>{{ .q }}</summary>
+        <p>{{ .a }}</p>
+      </details>
+      {{ end }}
+    </div>
+    {{ end }}
+
+    <div class="author-box">
+      <div class="author-info">
+        <div class="author-name">Digital Shield Pro Editorial Team</div>
+        <div class="author-bio">Our team tests and reviews cybersecurity products hands-on. Every recommendation is backed by real-world testing, not just spec sheets. We use the tools we recommend.</div>
+      </div>
+    </div>
+
+    {{ $related := where (where .Site.RegularPages "Type" "posts") ".Permalink" "ne" .Permalink | first 4 }}
+    {{ if $related }}
+    <div class="related-articles">
+      <h3>Related Security Guides</h3>
+      <ul>
+        {{ range $related }}
+        <li><a href="{{ .RelPermalink }}">{{ .Title }}</a></li>
+        {{ end }}
+      </ul>
+    </div>
+    {{ end }}
+  </article>
+</div>
+{{ end }}
