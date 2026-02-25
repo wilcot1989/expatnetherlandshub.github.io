@@ -294,12 +294,6 @@ The Netherlands has extensive public WiFi, especially on NS trains, in Albert He
 
 ---
 
-## What About DigitalShieldPro?
-
-Some expats ask about DigitalShieldPro as a VPN alternative. While it offers some privacy features, it functions more as a broader digital security suite than a dedicated VPN. For pure VPN functionality, including streaming access, speed, and server variety, we recommend sticking with dedicated VPN providers like [NordVPN]({{nordvpn_link}}) or [Surfshark]({{surfshark_link}}). If you are interested in comprehensive digital security beyond VPN (such as identity monitoring, password management, and dark web scanning), DigitalShieldPro may complement your VPN as an additional layer of protection.
-
----
-
 ## Our Final Recommendation
 
 For most expats in the Netherlands, we recommend **[NordVPN]({{nordvpn_link}})**. It offers the best combination of speed, streaming reliability, privacy, and ease of use. At around EUR 3.49 per month on the two-year plan, it costs less than a single koffie verkeerd per month.
