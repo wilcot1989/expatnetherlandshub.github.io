@@ -1,17 +1,28 @@
 ---
 title: "About Us"
-description: "About Expat Netherlands Hub — your complete guide to moving to and living in the Netherlands."
+description: "Learn more about Expat Netherlands Hub and our team"
 layout: "single"
 ---
 
-# About Expat Netherlands Hub
+## About Expat Netherlands Hub
 
-Expat Netherlands Hub is the definitive English-language resource for anyone moving to or living in the Netherlands. We cover everything from finding housing and opening a bank account to learning Dutch and navigating the healthcare system.
+Expat Netherlands Hub is an independent resource helping internationals navigate life in the Netherlands. From finding housing and opening a bank account to learning Dutch and understanding the tax system — we provide practical, up-to-date guides for every step of your journey.
 
-## Our Mission
+### Our Mission
 
-Moving to a new country is exciting but overwhelming. We provide practical, up-to-date guides to help you settle in the Netherlands with confidence.
+Moving to a new country is exciting but overwhelming. We make the transition easier by creating clear, honest guides based on real expat experiences. No fluff, no outdated info — just practical advice you can act on today.
 
-## How We Earn
+### How We Work
 
-This site contains affiliate links. When you purchase a product or service through our links, we may receive a commission at no extra cost to you. This does not influence our recommendations.
+- **Written by expats** — Our team has first-hand experience living in the Netherlands
+- **Independently researched** — We test products and services ourselves
+- **Regularly updated** — We keep our guides current with the latest rules and regulations
+- **Transparent** — We always disclose when we use affiliate links
+
+### Affiliate Disclaimer
+
+Some links on this website are affiliate links. This means we may earn a small commission if you make a purchase through our link. This comes at no extra cost to you and does not influence our reviews or recommendations. These earnings help us keep this website running and continue creating free content.
+
+### Contact
+
+Have questions or suggestions? Email us at [info@expatnetherlandshub.com](mailto:info@expatnetherlandshub.com).
