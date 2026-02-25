@@ -128,7 +128,7 @@ Health insurance is **mandatory** for everyone living and working in the Netherl
 
 The basic package is standardized by the government and covers essential medical care, including GP visits, hospital care, prescription medication, and mental health care. Premiums in 2026 range from approximately EUR 140-175 per month.
 
-You can also opt for supplementary insurance (aanvullende verzekering) for things like dental care, physiotherapy, and alternative medicine.
+You can also opt for supplementary insurance (aanvullende verzekering) for things like dental care, physiotherapy, and alternative medicine. Use <a href="https://www.awin1.com/awclick.php?mid=8558&id=2776410" rel="nofollow sponsored" target="_blank">Independer.nl</a> to compare policies from all major Dutch insurers.
 
 For a detailed breakdown of Dutch insurers, coverage options, and how to choose the right policy, read our [complete guide to Dutch health insurance for expats](/posts/dutch-health-insurance-guide-expats-2026/).
 

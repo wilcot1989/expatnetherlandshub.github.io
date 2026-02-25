@@ -105,7 +105,7 @@ Children under 18 are covered **free** under a parent's basic insurance. This is
 
 If your income is below approximately EUR 38,000 per year (single) or EUR 48,000 (couple), you may qualify for zorgtoeslag, a monthly healthcare allowance of up to EUR 150 per person. This can reduce your effective health insurance cost to near zero.
 
-For a detailed comparison of Dutch health insurers, see our [complete guide to Dutch health insurance for expats](/posts/dutch-health-insurance-guide-expats-2026/).
+Compare premiums from all Dutch insurers on <a href="https://www.awin1.com/awclick.php?mid=8558&id=2776410" rel="nofollow sponsored" target="_blank">Independer.nl</a>. For a detailed comparison, see our [complete guide to Dutch health insurance for expats](/posts/dutch-health-insurance-guide-expats-2026/).
 
 ### Temporary Coverage
 

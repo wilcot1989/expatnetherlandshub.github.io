@@ -102,9 +102,11 @@ While the basic coverage is the same everywhere, there are differences between i
 
 Use these Dutch comparison websites to find the best policy for your situation:
 
-- **Independer.nl**: The most popular comparison site for health insurance
+- <a href="https://www.awin1.com/awclick.php?mid=8558&id=2776410" rel="nofollow sponsored" target="_blank">**Independer.nl**</a>: The most popular comparison site for health insurance
 - **Zorgwijzer.nl**: Clear overviews and annual comparisons
 - **Consumentenbond.nl**: Consumer association with detailed testing
+
+<a href="https://www.awin1.com/awclick.php?mid=8558&id=2776410" class="cta" rel="nofollow sponsored" target="_blank">Compare Dutch Health Insurance on Independer.nl</a>
 
 ---
 
@@ -248,7 +250,7 @@ Here is the complete process from arrival to being fully insured:
 
 ### Week 2-3: Research and Compare
 
-3. Use Independer.nl or Zorgwijzer.nl to compare basic insurance premiums
+3. Use <a href="https://www.awin1.com/awclick.php?mid=8558&id=2776410" rel="nofollow sponsored" target="_blank">Independer.nl</a> or Zorgwijzer.nl to compare basic insurance premiums
 4. Check if your employer offers a group discount (collectiviteitskorting) with a specific insurer
 5. Decide whether you need supplementary insurance (dental, physiotherapy, etc.)
 
@@ -332,7 +334,7 @@ Dutch health insurance may seem complicated at first, but the system is logical 
 For expats just arriving, the most important steps are:
 
 1. Get temporary coverage through <a href="https://safetywing.com/nomad-insurance/?referenceID=26482728&utm_source=26482728&utm_medium=Ambassador" rel="nofollow sponsored" target="_blank">SafetyWing</a> if there will be any gap before your Dutch insurance starts
-2. Compare policies on Independer.nl once you have your BSN
+2. Compare policies on <a href="https://www.awin1.com/awclick.php?mid=8558&id=2776410" rel="nofollow sponsored" target="_blank">Independer.nl</a> once you have your BSN
 3. Sign up within your first few weeks, well before the 4-month deadline
 4. Register with a GP immediately after your insurance is active
 5. Apply for zorgtoeslag if your income qualifies
