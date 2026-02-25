@@ -1,6 +1,6 @@
 ---
 title: "Best Bank Accounts for Expats in the Netherlands 2026"
-date: 2026-02-27T11:00:00+01:00
+date: 2026-02-24T11:00:00+01:00
 description: "Compare the best bank accounts for expats in the Netherlands in 2026: ING, ABN AMRO, Bunq, Wise, N26, Revolut, and Rabobank."
 categories: ["finance"]
 tags: ["dutch bank account", "expat banking", "wise", "bunq", "n26", "ing netherlands", "abn amro"]

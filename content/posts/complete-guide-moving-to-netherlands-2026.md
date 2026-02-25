@@ -1,6 +1,6 @@
 ---
 title: "Complete Guide to Moving to the Netherlands in 2026"
-date: 2026-02-25T11:00:00+01:00
+date: 2026-02-24T11:00:00+01:00
 description: "Everything you need to know about moving to the Netherlands in 2026: visas, housing, BSN, health insurance, banking, and more."
 categories: ["relocation"]
 tags: ["moving to netherlands", "expat relocation", "netherlands visa", "BSN number", "dutch housing", "expat checklist"]
