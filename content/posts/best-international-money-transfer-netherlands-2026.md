@@ -85,7 +85,7 @@ The difference is stark. A traditional bank transfer in this example costs rough
 
 ## Wise: Best Overall for International Transfers
 
-[Wise]({{wise_link}}) (formerly TransferWise) has become the default recommendation for international money transfers, and for good reason.
+<a href="https://wise.com/invite/ihpc/willemt52" rel="nofollow sponsored" target="_blank">Wise</a> (formerly TransferWise) has become the default recommendation for international money transfers, and for good reason.
 
 ### How Wise Works
 
@@ -133,7 +133,9 @@ Fees vary by currency corridor. EUR to GBP and EUR to USD are among the cheapest
 
 Wise is our top recommendation for expats in the Netherlands. Whether you are sending money home monthly, receiving payments from abroad, or simply need a multi-currency account, Wise delivers the best combination of cost, speed, and convenience.
 
-[Open a Wise account here]({{wise_link}}) -- it is free to create an account.
+[Open a Wise account here](https://wise.com/invite/ihpc/willemt52) -- it is free to create an account.
+
+<a href="https://wise.com/invite/ihpc/willemt52" class="cta" rel="nofollow sponsored" target="_blank">Open Your Free Wise Account</a>
 
 ---
 
@@ -382,8 +384,8 @@ SWIFT transfers are expensive due to the layering of fees from multiple banks in
 
 | Your Situation | Recommended Service |
 |---------------|-------------------|
-| Regular monthly transfers (e.g., sending money home) | [Wise]({{wise_link}}) (scheduled recurring transfers) |
-| Large one-off transfer (over EUR 10,000) | OFX or [Wise]({{wise_link}}) (compare both) |
+| Regular monthly transfers (e.g., sending money home) | [Wise](https://wise.com/invite/ihpc/willemt52) (scheduled recurring transfers) |
+| Large one-off transfer (over EUR 10,000) | OFX or [Wise](https://wise.com/invite/ihpc/willemt52) (compare both) |
 | Everyday spending in multiple currencies | Revolut |
 | EUR-to-EUR within Europe | SEPA bank transfer (free) |
 | Speed-priority to specific countries | Remitly |
@@ -399,7 +401,7 @@ Based on our experience and research, here is the combination we recommend for e
 
 ### Essential (Set Up Immediately)
 
-1. **[Wise]({{wise_link}}) multi-currency account**: Your primary tool for international transfers. Open this before you even move to the Netherlands. You get a European IBAN, a debit card, and the ability to hold and convert 50+ currencies at the mid-market rate. [Open a Wise account here]({{wise_link}}).
+1. **[Wise](https://wise.com/invite/ihpc/willemt52) multi-currency account**: Your primary tool for international transfers. Open this before you even move to the Netherlands. You get a European IBAN, a debit card, and the ability to hold and convert 50+ currencies at the mid-market rate. [Open a Wise account here](https://wise.com/invite/ihpc/willemt52).
 
 2. **Dutch bank account (ING, ABN AMRO, Rabobank, or Bunq)**: For salary, rent payments, Dutch direct debits (automatische incasso), and government payments. You need a BSN to open an account at traditional banks. See our [moving to the Netherlands guide](/posts/complete-guide-moving-to-netherlands-2026/) for details.
 
@@ -442,10 +444,12 @@ International transfers themselves are not taxed, but the underlying income or a
 
 International money transfers do not need to be expensive or complicated. The key insight is simple: avoid traditional bank SWIFT transfers whenever possible. The combination of high fees and poor exchange rates makes them the most expensive option for nearly every scenario.
 
-For most expats in the Netherlands, [Wise]({{wise_link}}) is the single best tool for international transfers. It offers the mid-market exchange rate, transparent fees, fast delivery, and a multi-currency account that simplifies life across borders.
+For most expats in the Netherlands, <a href="https://wise.com/invite/ihpc/willemt52" rel="nofollow sponsored" target="_blank">Wise</a> is the single best tool for international transfers. It offers the mid-market exchange rate, transparent fees, fast delivery, and a multi-currency account that simplifies life across borders.
 
 Set up your Wise account before you move, add a Dutch bank account once you have your BSN, and you will have a financial setup that handles international life efficiently and affordably.
 
-[Open your free Wise account here]({{wise_link}}).
+<a href="https://wise.com/invite/ihpc/willemt52" rel="nofollow sponsored" target="_blank">Open your free Wise account here</a>.
+
+<a href="https://wise.com/invite/ihpc/willemt52" class="cta" rel="nofollow sponsored" target="_blank">Start Saving on International Transfers with Wise</a>
 
 For more on managing your finances in the Netherlands, see our guide to the [30% ruling](/posts/30-percent-ruling-netherlands-2026/) and our [complete guide to moving to the Netherlands in 2026](/posts/complete-guide-moving-to-netherlands-2026/).

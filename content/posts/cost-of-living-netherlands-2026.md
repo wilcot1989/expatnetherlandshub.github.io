@@ -109,7 +109,9 @@ For a detailed comparison of Dutch health insurers, see our [complete guide to D
 
 ### Temporary Coverage
 
-If you are in a waiting period before your Dutch insurance starts, [SafetyWing]({{safetywing_link}}) offers international health coverage from around USD 45 per month, designed specifically for expats and remote workers.
+If you are in a waiting period before your Dutch insurance starts, <a href="https://safetywing.com/nomad-insurance/?referenceID=26482728&utm_source=26482728&utm_medium=Ambassador" rel="nofollow sponsored" target="_blank">SafetyWing</a> offers international health coverage from around USD 45 per month, designed specifically for expats and remote workers.
+
+<a href="https://safetywing.com/nomad-insurance/?referenceID=26482728&utm_source=26482728&utm_medium=Ambassador" class="cta" rel="nofollow sponsored" target="_blank">Get SafetyWing Temporary Coverage from $45/month</a>
 
 ---
 
@@ -347,9 +349,11 @@ If you receive income from abroad or send money to family in your home country, 
 
 Traditional banks charge 2-5% in hidden exchange rate markups, plus flat fees. For a EUR 1,000 transfer, this can mean EUR 20-50 in unnecessary costs every single time.
 
-We strongly recommend [Wise]({{wise_link}}) (formerly TransferWise) for international money transfers. Wise uses the real mid-market exchange rate with transparent, low fees typically ranging from 0.3-1.5%. Over a year of regular transfers, this can save you hundreds or even thousands of euros compared to traditional banks.
+We strongly recommend <a href="https://wise.com/invite/ihpc/willemt52" rel="nofollow sponsored" target="_blank">Wise</a> (formerly TransferWise) for international money transfers. Wise uses the real mid-market exchange rate with transparent, low fees typically ranging from 0.3-1.5%. Over a year of regular transfers, this can save you hundreds or even thousands of euros compared to traditional banks.
 
 Wise also offers a multi-currency account with a Dutch IBAN, which is useful if you are managing money across countries. See our full [guide to bank accounts for expats](/posts/best-bank-account-expats-netherlands-2026/).
+
+<a href="https://wise.com/invite/ihpc/willemt52" class="cta" rel="nofollow sponsored" target="_blank">Save on International Transfers with Wise</a>
 
 ---
 
@@ -437,7 +441,7 @@ The Netherlands is expensive by European standards but offers excellent value wh
 
 2. **Apply for toeslagen early**. If you are eligible for government allowances, apply through Mijn Toeslagen (via DigiD) as soon as possible. Backdated payments are limited.
 
-3. **Use [Wise]({{wise_link}}) for international transfers**. If you are converting currency regularly, the savings over traditional banks add up quickly.
+3. **Use <a href="https://wise.com/invite/ihpc/willemt52" rel="nofollow sponsored" target="_blank">Wise</a> for international transfers**. If you are converting currency regularly, the savings over traditional banks add up quickly.
 
 4. **Get the 30% ruling if you qualify**. Discuss eligibility with your employer before you start working. It must be applied for within 4 months of starting employment.
 

@@ -296,7 +296,7 @@ If you also need home internet, some providers offer discounts when you bundle m
 
 As a newly arrived expat, you are creating accounts on dozens of new platforms, often on unfamiliar public WiFi networks in hotels, coworking spaces, and cafes. Protecting your digital privacy is important. A VPN encrypts your internet connection and can also let you access streaming content from your home country.
 
-We recommend [NordVPN]({{nordvpn_link}}) for expats in the Netherlands. Read our full [VPN guide for expats in the Netherlands](/posts/best-vpn-netherlands-expats-2026/) for detailed comparisons.
+We recommend <a href="https://go.nordvpn.net/aff_c?offer_id=612&aff_id=141337&url_id=14830" rel="nofollow sponsored" target="_blank">NordVPN</a> for expats in the Netherlands. Read our full [VPN guide for expats in the Netherlands](/posts/best-vpn-netherlands-expats-2026/) for detailed comparisons.
 
 ---
 

@@ -52,17 +52,17 @@ We compared the 7 most popular banking options for expats in the Netherlands in 
 
 Before diving into each bank in detail, here are our top picks:
 
-1. **Best first account (open before you arrive)**: [Wise]({{wise_link}})
+1. **Best first account (open before you arrive)**: [Wise](https://wise.com/invite/ihpc/willemt52)
 2. **Best digital bank for daily use in the Netherlands**: [Bunq]({{bunq_link}})
 3. **Best traditional bank for long-term residents**: ING
 
-Most expats benefit from having two accounts: a [Wise account]({{wise_link}}) for international transfers and currency conversion, plus either a traditional Dutch bank or Bunq for everyday Dutch banking.
+Most expats benefit from having two accounts: a [Wise account](https://wise.com/invite/ihpc/willemt52) for international transfers and currency conversion, plus either a traditional Dutch bank or Bunq for everyday Dutch banking.
 
 ---
 
 ## 1. Wise -- Best First Account for Expats
 
-[Wise]({{wise_link}}) (formerly TransferWise) is the single best financial tool for anyone moving to the Netherlands. It solves the biggest problem new expats face: you need a bank account before you have a BSN, and you need to transfer money internationally without getting destroyed by exchange rate markups.
+[Wise](https://wise.com/invite/ihpc/willemt52) (formerly TransferWise) is the single best financial tool for anyone moving to the Netherlands. It solves the biggest problem new expats face: you need a bank account before you have a BSN, and you need to transfer money internationally without getting destroyed by exchange rate markups.
 
 ### Key Features
 
@@ -92,7 +92,9 @@ The ability to open an account before arriving in the Netherlands is invaluable.
 
 ### Our Verdict
 
-Every expat moving to the Netherlands should open a [Wise account]({{wise_link}}). Even if you eventually set up a traditional Dutch bank account, Wise remains essential for international transfers and multi-currency management.
+Every expat moving to the Netherlands should open a <a href="https://wise.com/invite/ihpc/willemt52" rel="nofollow sponsored" target="_blank">Wise account</a>. Even if you eventually set up a traditional Dutch bank account, Wise remains essential for international transfers and multi-currency management.
+
+<a href="https://wise.com/invite/ihpc/willemt52" class="cta" rel="nofollow sponsored" target="_blank">Open Your Free Wise Account</a>
 
 ---
 
@@ -317,13 +319,13 @@ Revolut is a useful secondary account for travel and multi-currency spending, bu
 
 ## How to Open Your First Dutch Bank Account: Step by Step
 
-1. **Before you move**: Open a [Wise account]({{wise_link}}) to get a Dutch IBAN immediately. Transfer initial funds from your home country at the best exchange rate.
+1. **Before you move**: Open a [Wise account](https://wise.com/invite/ihpc/willemt52) to get a Dutch IBAN immediately. Transfer initial funds from your home country at the best exchange rate.
 
 2. **After registration at the gemeente**: Once you have your BSN, apply for a traditional Dutch bank (ING or ABN AMRO recommended) or a full-featured digital bank ([Bunq]({{bunq_link}}) or [N26]({{n26_link}})).
 
 3. **Set up direct debits**: Link your health insurance, rent (if paid by direct debit), and utility payments to your Dutch bank account.
 
-4. **Keep Wise for international transfers**: Continue using [Wise]({{wise_link}}) whenever you need to send money internationally or convert currencies. The savings compared to traditional bank transfers add up quickly.
+4. **Keep Wise for international transfers**: Continue using [Wise](https://wise.com/invite/ihpc/willemt52) whenever you need to send money internationally or convert currencies. The savings compared to traditional bank transfers add up quickly.
 
 ---
 
@@ -347,9 +349,11 @@ If you shop online frequently in the Netherlands, having a bank account with iDE
 
 For most expats arriving in the Netherlands in 2026, we recommend this two-account setup:
 
-1. **[Wise]({{wise_link}})** as your first and international account (open before you arrive)
+1. **[Wise](https://wise.com/invite/ihpc/willemt52)** as your first and international account (open before you arrive)
 2. **ING or [Bunq]({{bunq_link}})** as your primary Dutch bank for everyday use (open after receiving your BSN)
 
 This combination gives you the best of both worlds: low-cost international transfers and multi-currency management with Wise, plus full Dutch banking integration (iDEAL, direct debits, ATMs) with your Dutch bank.
 
-Start by opening your [Wise account today]({{wise_link}}) so you are ready to hit the ground running when you arrive.
+Start by opening your <a href="https://wise.com/invite/ihpc/willemt52" rel="nofollow sponsored" target="_blank">Wise account today</a> so you are ready to hit the ground running when you arrive.
+
+<a href="https://wise.com/invite/ihpc/willemt52" class="cta" rel="nofollow sponsored" target="_blank">Get Your Free Wise Account with Dutch IBAN</a>

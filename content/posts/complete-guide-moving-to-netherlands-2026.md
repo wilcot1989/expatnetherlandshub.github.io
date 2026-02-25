@@ -134,7 +134,9 @@ For a detailed breakdown of Dutch insurers, coverage options, and how to choose 
 
 ### Temporary Coverage Before Registration
 
-If you have just arrived and are not yet eligible for Dutch health insurance, or if you are waiting for your BSN, consider temporary international health coverage through [SafetyWing]({{safetywing_link}}). SafetyWing offers flexible monthly plans designed for expats and digital nomads, starting from around USD 45 per month. It provides solid coverage while you sort out your Dutch registration.
+If you have just arrived and are not yet eligible for Dutch health insurance, or if you are waiting for your BSN, consider temporary international health coverage through <a href="https://safetywing.com/nomad-insurance/?referenceID=26482728&utm_source=26482728&utm_medium=Ambassador" rel="nofollow sponsored" target="_blank">SafetyWing</a>. SafetyWing offers flexible monthly plans designed for expats and digital nomads, starting from around USD 45 per month. It provides solid coverage while you sort out your Dutch registration.
+
+<a href="https://safetywing.com/nomad-insurance/?referenceID=26482728&utm_source=26482728&utm_medium=Ambassador" class="cta" rel="nofollow sponsored" target="_blank">Get SafetyWing Temporary Health Coverage from $45/month</a>
 
 ---
 
@@ -144,7 +146,7 @@ You will need a Dutch bank account (or at least an IBAN) to receive your salary,
 
 ### Recommended First Step: Wise
 
-Before you even leave your home country, set up a [Wise account]({{wise_link}}). Wise (formerly TransferWise) gives you a multi-currency account with a Dutch IBAN, which is incredibly useful during the transition period. You can:
+Before you even leave your home country, set up a [Wise account](https://wise.com/invite/ihpc/willemt52). Wise (formerly TransferWise) gives you a multi-currency account with a Dutch IBAN, which is incredibly useful during the transition period. You can:
 
 - Receive your first salary before opening a traditional Dutch bank account
 - Transfer money between countries at the real exchange rate with low fees
@@ -152,6 +154,8 @@ Before you even leave your home country, set up a [Wise account]({{wise_link}}).
 - Pay with a Wise debit card anywhere in the Netherlands
 
 Once you have your BSN, you can open an account at a traditional Dutch bank like ING, ABN AMRO, or Rabobank, or stay with a modern bank like Bunq or N26. For a full comparison, see our guide to the [best bank accounts for expats in the Netherlands](/posts/best-bank-account-expats-netherlands-2026/).
+
+<a href="https://wise.com/invite/ihpc/willemt52" class="cta" rel="nofollow sponsored" target="_blank">Open Your Free Wise Account Before You Move</a>
 
 ---
 
@@ -168,7 +172,7 @@ You can buy a prepaid SIM card at Mediamarkt, phone stores, or supermarkets. If 
 
 ### Protect Your Online Privacy
 
-When settling into a new country, you are likely signing up for dozens of new services and sharing personal information across many platforms. A VPN is a smart investment for protecting your privacy, especially when using public Wi-Fi at cafes, trains, or coworking spaces. [NordVPN]({{nordvpn_link}}) is our recommended choice for expats in the Netherlands, offering fast speeds, servers in over 60 countries, and the ability to access content from your home country when needed.
+When settling into a new country, you are likely signing up for dozens of new services and sharing personal information across many platforms. A VPN is a smart investment for protecting your privacy, especially when using public Wi-Fi at cafes, trains, or coworking spaces. [NordVPN](https://go.nordvpn.net/aff_c?offer_id=612&aff_id=141337&url_id=14830) is our recommended choice for expats in the Netherlands, offering fast speeds, servers in over 60 countries, and the ability to access content from your home country when needed.
 
 ---
 
@@ -274,6 +278,6 @@ Moving to the Netherlands is a big step, but the country rewards those who make 
 
 The key to a smooth transition is preparation. Handle your visa and housing early, register at your gemeente as soon as possible, and set up your essential services, banking, insurance, phone, and transport, in the first two weeks.
 
-For banking, start with [Wise]({{wise_link}}) before you arrive. For temporary health coverage, consider [SafetyWing]({{safetywing_link}}) until your Dutch insurance kicks in. And protect your digital life with [NordVPN]({{nordvpn_link}}) from day one.
+For banking, start with [Wise](https://wise.com/invite/ihpc/willemt52) before you arrive. For temporary health coverage, consider [SafetyWing](https://safetywing.com/nomad-insurance/?referenceID=26482728&utm_source=26482728&utm_medium=Ambassador) until your Dutch insurance kicks in. And protect your digital life with [NordVPN](https://go.nordvpn.net/aff_c?offer_id=612&aff_id=141337&url_id=14830) from day one.
 
 Welcome to the Netherlands. Welkom in Nederland.

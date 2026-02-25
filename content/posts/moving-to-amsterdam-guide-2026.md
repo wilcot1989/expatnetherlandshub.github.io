@@ -48,10 +48,12 @@ If you qualify for the 30% ruling, a significant portion of your salary is tax-f
 
 Before arriving in Amsterdam:
 
-1. **Open a Wise account** to get a Dutch IBAN before you arrive. This allows you to receive salary payments and set up direct debits from day one. Read our guide on the [best bank accounts for expats](/posts/best-bank-account-expats-netherlands-2026/).
+1. **Open a <a href="https://wise.com/invite/ihpc/willemt52" rel="nofollow sponsored" target="_blank">Wise account</a>** to get a Dutch IBAN before you arrive. This allows you to receive salary payments and set up direct debits from day one. Read our guide on the [best bank accounts for expats](/posts/best-bank-account-expats-netherlands-2026/).
 2. **Budget for upfront housing costs**: Expect to pay 2-3 months' rent upfront (first month plus deposit). For an average Amsterdam apartment, that means EUR 2,400-6,000 available immediately.
 3. **Arrange health insurance**: Dutch health insurance (zorgverzekering) is mandatory. Research options before arriving. See our [Dutch health insurance guide for expats](/posts/dutch-health-insurance-guide-expats-2026/).
-4. **Transfer money at good rates**: Use [Wise]({{wise_link}}) or a similar service for international transfers instead of traditional banks. Read our [international money transfer guide](/posts/best-international-money-transfer-netherlands-2026/).
+4. **Transfer money at good rates**: Use <a href="https://wise.com/invite/ihpc/willemt52" rel="nofollow sponsored" target="_blank">Wise</a> or a similar service for international transfers instead of traditional banks. Read our [international money transfer guide](/posts/best-international-money-transfer-netherlands-2026/).
+
+<a href="https://wise.com/invite/ihpc/willemt52" class="cta" rel="nofollow sponsored" target="_blank">Open Your Free Wise Account Before Moving to Amsterdam</a>
 
 ---
 
@@ -296,6 +298,6 @@ Amsterdam offers a rich cultural life:
 
 Amsterdam is an outstanding city for expats who value culture, cycling, and an international environment. The challenges are real -- housing is expensive and competitive, the weather is not always pleasant, and building deep social connections takes time. But for most expats, the quality of life, career opportunities, and the experience of living in one of Europe's most vibrant cities more than compensate.
 
-Start your Amsterdam journey by reading our [Complete Guide to Moving to the Netherlands 2026](/posts/complete-guide-moving-to-netherlands-2026/) for the full relocation roadmap, and set up your finances with [Wise]({{wise_link}}) before you arrive.
+Start your Amsterdam journey by reading our [Complete Guide to Moving to the Netherlands 2026](/posts/complete-guide-moving-to-netherlands-2026/) for the full relocation roadmap, and set up your finances with <a href="https://wise.com/invite/ihpc/willemt52" rel="nofollow sponsored" target="_blank">Wise</a> before you arrive.
 
 Welcome to Amsterdam.

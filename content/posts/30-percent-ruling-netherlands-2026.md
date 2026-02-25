@@ -239,7 +239,9 @@ Your social security contributions are based on your taxable salary (after the 3
 
 With lower taxable income during the ruling period, your pension accrual may be lower. Consider supplementing with private pension savings or investments. This is particularly important if you plan to stay in the Netherlands long-term.
 
-For help managing international finances during your time in the Netherlands, a multi-currency account like [Wise]({{wise_link}}) can be useful for handling money in multiple countries. See our [complete guide to moving to the Netherlands in 2026](/posts/complete-guide-moving-to-netherlands-2026/) for more on setting up your financial life.
+For help managing international finances during your time in the Netherlands, a multi-currency account like <a href="https://wise.com/invite/ihpc/willemt52" rel="nofollow sponsored" target="_blank">Wise</a> can be useful for handling money in multiple countries. See our [complete guide to moving to the Netherlands in 2026](/posts/complete-guide-moving-to-netherlands-2026/) for more on setting up your financial life.
+
+<a href="https://wise.com/invite/ihpc/willemt52" class="cta" rel="nofollow sponsored" target="_blank">Manage Your International Finances with Wise</a>
 
 ---
 
