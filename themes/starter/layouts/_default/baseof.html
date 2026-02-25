@@ -104,17 +104,17 @@
   {{ end }}
   {{ end }}
 
-  <!-- Google Analytics - TODO: eigen GA4 property aanmaken -->
-  <!--
+  <!-- Google Analytics with Consent Mode v2 -->
   <script>
     window.dataLayer = window.dataLayer || [];
     function gtag(){dataLayer.push(arguments);}
-    gtag('consent','default',{'analytics_storage':'denied'});
+    gtag('consent','default',{
+      'analytics_storage': localStorage.getItem('cookie-consent')==='true' ? 'granted' : 'denied'
+    });
     gtag('js', new Date());
-    gtag('config', 'G-XXXXXXXXXX');
+    gtag('config', 'G-2TJSDJB4CG');
   </script>
-  <script async src="https://www.googletagmanager.com/gtag/js?id=G-XXXXXXXXXX"></script>
-  -->
+  <script async src="https://www.googletagmanager.com/gtag/js?id=G-2TJSDJB4CG"></script>
 
   <link rel="preconnect" href="https://fonts.googleapis.com">
   <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
@@ -294,6 +294,7 @@
     function acceptCookies(){
       localStorage.setItem('cookie-consent','true');
       document.getElementById('cookieBanner').classList.remove('show');
+      gtag('consent','update',{'analytics_storage':'granted'});
     }
     if(!localStorage.getItem('cookie-consent')){
       document.getElementById('cookieBanner').classList.add('show');
