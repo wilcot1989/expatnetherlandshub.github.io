@@ -58,7 +58,10 @@
       </div>
     </div>
 
-    {{ $related := where (where .Site.RegularPages "Type" "posts") ".Permalink" "ne" .Permalink | first 4 }}
+    {{ $allOther := where (where .Site.RegularPages "Type" "posts") ".Permalink" "ne" .Permalink }}
+    {{ $related := where $allOther ".Params.categories" "intersect" .Params.categories }}
+    {{ if not $related }}{{ $related = $allOther }}{{ end }}
+    {{ $related = first 4 $related }}
     {{ if $related }}
     <div class="related-articles">
       <h3>Related Expat Guides</h3>

@@ -3,8 +3,9 @@
   <h1>{{ .Title }}</h1>
   {{ .Content }}
   {{ range .Pages }}
+  {{ $pageTitle := .Title }}
   <div class="card">
-    {{ with .Params.featured_image }}<img src="{{ . }}" alt="{{ $.Title }}" class="card-thumb">{{ end }}
+    {{ with .Params.featured_image }}<img src="{{ . }}" alt="{{ $pageTitle }}" class="card-thumb">{{ end }}
     <div class="meta">{{ .Date.Format "January 2, 2006" }} &middot; {{ .ReadingTime }} min read</div>
     <h2><a href="{{ .RelPermalink }}">{{ .Title }}</a></h2>
     <p>{{ .Summary }}</p>

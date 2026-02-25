@@ -1,0 +1,151 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 630">
+  <defs>
+    <linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#1e293b"/>
+      <stop offset="100%" stop-color="#0f172a"/>
+    </linearGradient>
+    <linearGradient id="orangeGrad" x1="0%" y1="0%" x2="0%" y2="100%">
+      <stop offset="0%" stop-color="#f97316"/>
+      <stop offset="100%" stop-color="#ea580c"/>
+    </linearGradient>
+    <linearGradient id="orangeGrad2" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#fb923c"/>
+      <stop offset="100%" stop-color="#f97316"/>
+    </linearGradient>
+  </defs>
+
+  <!-- Background -->
+  <rect width="1200" height="630" fill="url(#bg)"/>
+
+  <!-- Subtle wave pattern -->
+  <g opacity="0.04">
+    <path d="M0,100 Q300,50 600,100 Q900,150 1200,100" fill="none" stroke="white" stroke-width="2"/>
+    <path d="M0,200 Q300,150 600,200 Q900,250 1200,200" fill="none" stroke="white" stroke-width="2"/>
+    <path d="M0,300 Q300,250 600,300 Q900,350 1200,300" fill="none" stroke="white" stroke-width="2"/>
+    <path d="M0,400 Q300,350 600,400 Q900,450 1200,400" fill="none" stroke="white" stroke-width="2"/>
+    <path d="M0,500 Q300,450 600,500 Q900,550 1200,500" fill="none" stroke="white" stroke-width="2"/>
+  </g>
+
+  <!-- Decorative arcs -->
+  <circle cx="600" cy="315" r="230" fill="none" stroke="#f97316" stroke-width="1" opacity="0.06"/>
+  <circle cx="600" cy="315" r="290" fill="none" stroke="#f97316" stroke-width="0.5" opacity="0.04"/>
+
+  <!-- 1. LARGE SPEECH BUBBLE (left) -->
+  <g transform="translate(80, 120)">
+    <!-- Main bubble -->
+    <rect x="0" y="0" width="250" height="160" rx="30" fill="url(#orangeGrad)" opacity="0.9"/>
+    <!-- Tail -->
+    <polygon points="40,158 80,158 30,210" fill="#ea580c" opacity="0.9"/>
+    <!-- Dots inside representing speech -->
+    <circle cx="80" cy="65" r="14" fill="white" opacity="0.8"/>
+    <circle cx="125" cy="65" r="14" fill="white" opacity="0.6"/>
+    <circle cx="170" cy="65" r="14" fill="white" opacity="0.4"/>
+    <!-- Lines representing text -->
+    <rect x="40" y="100" width="170" height="8" rx="4" fill="white" opacity="0.3"/>
+    <rect x="40" y="120" width="120" height="8" rx="4" fill="white" opacity="0.2"/>
+  </g>
+
+  <!-- 2. SMALLER SPEECH BUBBLE (response, upper right area) -->
+  <g transform="translate(800, 80)">
+    <!-- Reply bubble -->
+    <rect x="0" y="0" width="200" height="120" rx="25" fill="white" opacity="0.9"/>
+    <!-- Tail pointing right -->
+    <polygon points="160,118 200,118 210,160" fill="white" opacity="0.9"/>
+    <!-- Lines inside -->
+    <rect x="30" y="35" width="140" height="8" rx="4" fill="#f97316" opacity="0.5"/>
+    <rect x="30" y="55" width="100" height="8" rx="4" fill="#f97316" opacity="0.4"/>
+    <rect x="30" y="75" width="130" height="8" rx="4" fill="#f97316" opacity="0.3"/>
+  </g>
+
+  <!-- 3. OPEN BOOK (center) -->
+  <g transform="translate(430, 230)">
+    <!-- Left page -->
+    <path d="M170,0 L170,220 Q85,200 0,220 L0,20 Q85,0 170,0 Z" fill="white" opacity="0.9"/>
+    <!-- Right page -->
+    <path d="M170,0 L170,220 Q255,200 340,220 L340,20 Q255,0 170,0 Z" fill="white" opacity="0.8"/>
+    <!-- Spine shadow -->
+    <rect x="165" y="0" width="10" height="220" fill="#1e293b" opacity="0.1"/>
+    <!-- Left page lines -->
+    <rect x="25" y="40" width="120" height="5" rx="2.5" fill="#f97316" opacity="0.25"/>
+    <rect x="25" y="60" width="110" height="5" rx="2.5" fill="#f97316" opacity="0.2"/>
+    <rect x="25" y="80" width="125" height="5" rx="2.5" fill="#f97316" opacity="0.25"/>
+    <rect x="25" y="100" width="100" height="5" rx="2.5" fill="#f97316" opacity="0.2"/>
+    <rect x="25" y="120" width="120" height="5" rx="2.5" fill="#f97316" opacity="0.25"/>
+    <rect x="25" y="140" width="90" height="5" rx="2.5" fill="#f97316" opacity="0.2"/>
+    <rect x="25" y="160" width="115" height="5" rx="2.5" fill="#f97316" opacity="0.25"/>
+    <rect x="25" y="180" width="105" height="5" rx="2.5" fill="#f97316" opacity="0.2"/>
+    <!-- Right page lines -->
+    <rect x="195" y="40" width="120" height="5" rx="2.5" fill="#1e293b" opacity="0.1"/>
+    <rect x="195" y="60" width="110" height="5" rx="2.5" fill="#1e293b" opacity="0.08"/>
+    <rect x="195" y="80" width="125" height="5" rx="2.5" fill="#1e293b" opacity="0.1"/>
+    <rect x="195" y="100" width="100" height="5" rx="2.5" fill="#1e293b" opacity="0.08"/>
+    <rect x="195" y="120" width="120" height="5" rx="2.5" fill="#1e293b" opacity="0.1"/>
+    <rect x="195" y="140" width="90" height="5" rx="2.5" fill="#1e293b" opacity="0.08"/>
+    <rect x="195" y="160" width="115" height="5" rx="2.5" fill="#1e293b" opacity="0.1"/>
+    <rect x="195" y="180" width="105" height="5" rx="2.5" fill="#1e293b" opacity="0.08"/>
+    <!-- Bookmark ribbon -->
+    <polygon points="280,0 280,50 270,40 260,50 260,0" fill="#ea580c" opacity="0.7"/>
+  </g>
+
+  <!-- 4. LETTERS A B C (scattered, decorative) -->
+  <g transform="translate(880, 280)">
+    <!-- Letter A -->
+    <g transform="translate(0, 0)">
+      <polygon points="40,0 80,90 65,90 55,65 25,65 15,90 0,90" fill="url(#orangeGrad)" opacity="0.9"/>
+      <polygon points="30,50 50,50 40,20" fill="#1e293b" opacity="0.15"/>
+      <!-- Crossbar -->
+      <rect x="22" y="52" width="36" height="10" fill="url(#orangeGrad)"/>
+    </g>
+    <!-- Letter B -->
+    <g transform="translate(90, 10)">
+      <rect x="0" y="0" width="16" height="80" rx="2" fill="white" opacity="0.9"/>
+      <path d="M16,0 L45,0 Q65,0 65,20 Q65,40 45,40 L16,40" fill="none" stroke="white" stroke-width="14" opacity="0.9" stroke-linejoin="round"/>
+      <path d="M16,40 L50,40 Q72,40 72,60 Q72,80 50,80 L16,80" fill="none" stroke="white" stroke-width="14" opacity="0.8" stroke-linejoin="round"/>
+    </g>
+    <!-- Letter C -->
+    <g transform="translate(180, 20)">
+      <path d="M65,5 Q20,-5 8,35 Q-4,75 40,80 Q58,82 70,70" fill="none" stroke="#fb923c" stroke-width="16" stroke-linecap="round" opacity="0.85"/>
+    </g>
+  </g>
+
+  <!-- 5. DUTCH FLAG (bottom left) -->
+  <g transform="translate(100, 430)">
+    <!-- Flag pole -->
+    <rect x="0" y="-20" width="6" height="190" fill="white" opacity="0.6"/>
+    <!-- Pole knob -->
+    <circle cx="3" cy="-22" r="8" fill="#fb923c" opacity="0.7"/>
+    <!-- Flag -->
+    <g transform="translate(6, 0)">
+      <!-- Slight wave effect via clip -->
+      <rect x="0" y="0" width="160" height="35" fill="#c1272d" opacity="0.9"/>
+      <rect x="0" y="35" width="160" height="35" fill="white" opacity="0.9"/>
+      <rect x="0" y="70" width="160" height="35" fill="#1e3a8a" opacity="0.9"/>
+      <!-- Flag wave shadow -->
+      <rect x="50" y="0" width="15" height="105" fill="white" opacity="0.05"/>
+      <rect x="110" y="0" width="15" height="105" fill="black" opacity="0.05"/>
+    </g>
+  </g>
+
+  <!-- 6. TRANSLATION ARROWS (decorative connector) -->
+  <g transform="translate(340, 100)">
+    <!-- Arrow right -->
+    <line x1="0" y1="20" x2="60" y2="20" stroke="#fb923c" stroke-width="4" opacity="0.5"/>
+    <polygon points="58,10 78,20 58,30" fill="#fb923c" opacity="0.5"/>
+    <!-- Arrow left -->
+    <line x1="78" y1="40" x2="18" y2="40" stroke="white" stroke-width="4" opacity="0.3"/>
+    <polygon points="20,30 0,40 20,50" fill="white" opacity="0.3"/>
+  </g>
+
+  <!-- Extra: Small scattered letter-like shapes -->
+  <g opacity="0.12">
+    <rect x="960" cy="500" y="500" width="20" height="20" rx="3" fill="#f97316" transform="rotate(15, 960, 500)"/>
+    <circle cx="1050" cy="470" r="12" fill="#fb923c"/>
+    <rect x="1080" y="520" width="18" height="18" rx="3" fill="white" transform="rotate(-10, 1080, 520)"/>
+  </g>
+
+  <!-- Corner accents -->
+  <line x1="30" y1="30" x2="100" y2="30" stroke="#f97316" stroke-width="2" opacity="0.3"/>
+  <line x1="30" y1="30" x2="30" y2="100" stroke="#f97316" stroke-width="2" opacity="0.3"/>
+  <line x1="1170" y1="600" x2="1100" y2="600" stroke="#f97316" stroke-width="2" opacity="0.3"/>
+  <line x1="1170" y1="600" x2="1170" y2="530" stroke="#f97316" stroke-width="2" opacity="0.3"/>
+</svg>

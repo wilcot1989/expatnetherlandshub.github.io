@@ -49,11 +49,6 @@
       "@type": "Organization",
       "name": "{{ .Site.Title }}",
       "url": "{{ .Site.BaseURL }}"
-    },
-    "potentialAction": {
-      "@type": "SearchAction",
-      "target": "{{ .Site.BaseURL }}?q={search_term_string}",
-      "query-input": "required name=search_term_string"
     }
   }
   </script>
@@ -61,7 +56,7 @@
   <script type="application/ld+json">
   {
     "@context": "https://schema.org",
-    "@type": "{{ if .Params.affiliate }}ReviewNewsArticle{{ else }}Article{{ end }}",
+    "@type": "Article",
     "headline": "{{ .Title }}",
     "description": "{{ .Description }}",
     "inLanguage": "en",
@@ -104,14 +99,17 @@
   {{ end }}
   {{ end }}
 
-  <!-- Google tag (gtag.js) -->
-  <script async src="https://www.googletagmanager.com/gtag/js?id=G-2TJSDJB4CG"></script>
+  <!-- Google Analytics with Consent Mode v2 -->
   <script>
     window.dataLayer = window.dataLayer || [];
     function gtag(){dataLayer.push(arguments);}
+    gtag('consent','default',{
+      'analytics_storage': localStorage.getItem('cookie-consent')==='true' ? 'granted' : 'denied'
+    });
     gtag('js', new Date());
     gtag('config', 'G-2TJSDJB4CG');
   </script>
+  <script async src="https://www.googletagmanager.com/gtag/js?id=G-2TJSDJB4CG"></script>
 
   <link rel="preconnect" href="https://fonts.googleapis.com">
   <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
@@ -291,6 +289,7 @@
     function acceptCookies(){
       localStorage.setItem('cookie-consent','true');
       document.getElementById('cookieBanner').classList.remove('show');
+      gtag('consent','update',{'analytics_storage':'granted'});
     }
     if(!localStorage.getItem('cookie-consent')){
       document.getElementById('cookieBanner').classList.add('show');
