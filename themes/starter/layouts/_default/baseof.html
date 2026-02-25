@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<html lang="{{ .Site.LanguageCode }}">
+<html lang="en">
 <head>
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1">
@@ -44,6 +44,7 @@
     "name": "{{ .Site.Title }}",
     "url": "{{ .Site.BaseURL }}",
     "description": "{{ .Site.Params.description }}",
+    "inLanguage": "en",
     "publisher": {
       "@type": "Organization",
       "name": "{{ .Site.Title }}",
@@ -63,6 +64,7 @@
     "@type": "{{ if .Params.affiliate }}ReviewNewsArticle{{ else }}Article{{ end }}",
     "headline": "{{ .Title }}",
     "description": "{{ .Description }}",
+    "inLanguage": "en",
     "datePublished": "{{ .Date.Format "2006-01-02T15:04:05Z07:00" }}",
     "dateModified": "{{ .Lastmod.Format "2006-01-02T15:04:05Z07:00" }}",
     "author": {
@@ -102,83 +104,144 @@
   {{ end }}
   {{ end }}
 
-  <!-- Google Analytics with Consent Mode v2 -->
+  <!-- Google Analytics - TODO: eigen GA4 property aanmaken -->
+  <!--
   <script>
     window.dataLayer = window.dataLayer || [];
     function gtag(){dataLayer.push(arguments);}
-    gtag('consent','default',{
-      'analytics_storage': localStorage.getItem('cookie-consent')==='true' ? 'granted' : 'denied'
-    });
+    gtag('consent','default',{'analytics_storage':'denied'});
     gtag('js', new Date());
-    gtag('config', 'G-7FD0CG0FDL');
+    gtag('config', 'G-XXXXXXXXXX');
   </script>
-  <script async src="https://www.googletagmanager.com/gtag/js?id=G-7FD0CG0FDL"></script>
+  <script async src="https://www.googletagmanager.com/gtag/js?id=G-XXXXXXXXXX"></script>
+  -->
+
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&display=swap" rel="stylesheet">
 
   <style>
-    :root { --primary: #0f172a; --accent: #2563eb; --bg: #ffffff; --text: #334155; --light: #f8fafc; --border: #e2e8f0; }
+    :root {
+      --primary: #1e293b;
+      --primary-dark: #0f172a;
+      --accent: #ea580c;
+      --accent-hover: #c2410c;
+      --bg: #ffffff;
+      --text: #334155;
+      --light: #fff7ed;
+      --border: #fed7aa;
+      --tag-bg: #ffedd5;
+      --tag-text: #c2410c;
+      --hero-from: #1e293b;
+      --hero-to: #9a3412;
+    }
     * { margin: 0; padding: 0; box-sizing: border-box; }
-    body { font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif; color: var(--text); line-height: 1.7; background: var(--bg); }
+    body { font-family: 'Inter', -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif; color: var(--text); line-height: 1.7; background: var(--bg); }
     a { color: var(--accent); text-decoration: none; }
     a:hover { text-decoration: underline; }
     .container { max-width: 800px; margin: 0 auto; padding: 0 1.5rem; }
     .wide { max-width: 1100px; }
-    header { background: var(--primary); color: white; padding: 1rem 0; }
+
+    /* Header */
+    header { background: var(--primary-dark); color: white; padding: 1rem 0; border-bottom: 3px solid var(--accent); }
     header .container { display: flex; justify-content: space-between; align-items: center; flex-wrap: wrap; }
     header a { color: white; }
-    .logo { font-size: 1.4rem; font-weight: 700; }
-    .logo span { color: #60a5fa; }
-    nav a { margin-left: 1.5rem; font-size: 0.9rem; opacity: 0.85; }
+    .logo { font-size: 1.3rem; font-weight: 700; display: flex; align-items: center; gap: 0.5rem; }
+    .logo-icon { width: 32px; height: 32px; background: var(--accent); border-radius: 8px; display: flex; align-items: center; justify-content: center; font-size: 0.9rem; font-weight: 800; color: white; }
+    .logo span { color: #fb923c; }
+    nav a { margin-left: 1.5rem; font-size: 0.9rem; opacity: 0.85; transition: opacity 0.2s; }
     nav a:hover { opacity: 1; text-decoration: none; }
+
+    /* Main */
     main { padding: 2rem 0; min-height: 60vh; }
-    h1 { color: var(--primary); font-size: 2rem; margin-bottom: 1rem; line-height: 1.3; }
-    h2 { color: var(--primary); font-size: 1.5rem; margin: 2rem 0 0.75rem; }
-    h3 { color: var(--primary); font-size: 1.2rem; margin: 1.5rem 0 0.5rem; }
+    h1 { color: var(--primary-dark); font-size: 2rem; margin-bottom: 1rem; line-height: 1.3; }
+    h2 { color: var(--primary-dark); font-size: 1.5rem; margin: 2rem 0 0.75rem; }
+    h3 { color: var(--primary-dark); font-size: 1.2rem; margin: 1.5rem 0 0.5rem; }
     p { margin-bottom: 1rem; }
     ul, ol { margin: 0 0 1rem 1.5rem; }
     li { margin-bottom: 0.3rem; }
     img { max-width: 100%; height: auto; border-radius: 8px; }
-    .hero { background: linear-gradient(135deg, #0f172a 0%, #1e3a5f 100%); color: white; padding: 4rem 0; text-align: center; }
+
+    /* Hero */
+    .hero { background: linear-gradient(135deg, var(--hero-from) 0%, var(--hero-to) 100%); color: white; padding: 4rem 0; text-align: center; }
     .hero h1 { color: white; font-size: 2.5rem; }
     .hero p { font-size: 1.2rem; opacity: 0.9; max-width: 600px; margin: 1rem auto; }
-    .card { background: var(--light); border: 1px solid var(--border); border-radius: 12px; padding: 1.5rem; margin-bottom: 1.5rem; transition: box-shadow 0.2s; }
-    .card:hover { box-shadow: 0 4px 12px rgba(0,0,0,0.08); }
+
+    /* Cards */
+    .card { background: var(--light); border: 1px solid var(--border); border-radius: 12px; padding: 1.5rem; margin-bottom: 1.5rem; transition: box-shadow 0.2s, transform 0.2s; }
+    .card:hover { box-shadow: 0 4px 16px rgba(234,88,12,0.12); transform: translateY(-2px); }
     .card h2 { margin-top: 0; font-size: 1.3rem; }
-    .card h2 a { color: var(--primary); }
+    .card h2 a { color: var(--primary-dark); }
     .meta { color: #64748b; font-size: 0.85rem; margin-bottom: 0.5rem; }
     .tags { margin-top: 0.5rem; }
-    .tag { display: inline-block; background: #e0e7ff; color: #1e40af; padding: 0.2rem 0.6rem; border-radius: 4px; font-size: 0.8rem; margin-right: 0.3rem; }
-    .cta { display: inline-block; background: var(--accent); color: white; padding: 0.75rem 1.5rem; border-radius: 8px; font-weight: 600; margin: 0.5rem 0.5rem 0.5rem 0; }
-    .cta:hover { background: #1d4ed8; text-decoration: none; }
+    .tag { display: inline-block; background: var(--tag-bg); color: var(--tag-text); padding: 0.2rem 0.6rem; border-radius: 4px; font-size: 0.8rem; margin-right: 0.3rem; }
+
+    /* CTAs */
+    .cta { display: inline-block; background: var(--accent); color: white; padding: 0.75rem 1.5rem; border-radius: 8px; font-weight: 600; margin: 0.5rem 0.5rem 0.5rem 0; transition: background 0.2s; }
+    .cta:hover { background: var(--accent-hover); text-decoration: none; }
     .cta-outline { background: transparent; border: 2px solid var(--accent); color: var(--accent); }
     .cta-outline:hover { background: var(--accent); color: white; }
+
+    /* Pros/Cons */
     .pros-cons { display: grid; grid-template-columns: 1fr 1fr; gap: 1rem; margin: 1rem 0; }
     .pros, .cons { padding: 1rem; border-radius: 8px; }
     .pros { background: #f0fdf4; border: 1px solid #bbf7d0; }
     .cons { background: #fef2f2; border: 1px solid #fecaca; }
     .rating { font-size: 1.5rem; color: #f59e0b; }
+
+    /* Tables */
     table { width: 100%; border-collapse: collapse; margin: 1rem 0; }
     th, td { padding: 0.75rem; text-align: left; border-bottom: 1px solid var(--border); }
-    th { background: var(--light); font-weight: 600; }
-    footer { background: var(--primary); color: #94a3b8; padding: 2rem 0; margin-top: 3rem; text-align: center; font-size: 0.85rem; }
-    footer a { color: #60a5fa; text-decoration: underline; }
+    th { background: var(--light); font-weight: 600; color: var(--primary-dark); }
+
+    /* Footer */
+    footer { background: var(--primary-dark); color: #94a3b8; padding: 2rem 0; margin-top: 3rem; text-align: center; font-size: 0.85rem; }
+    footer a { color: #fb923c; text-decoration: underline; }
+
     .affiliate-disclosure { color: #64748b; font-size: 0.78rem; margin-bottom: 1.5rem; padding: 0; border: none; background: none; }
     .breadcrumb { font-size: 0.85rem; color: #64748b; margin-bottom: 1rem; }
     .breadcrumb a { color: #64748b; }
+
+    /* Related & Author */
     .related-articles { background: var(--light); border: 1px solid var(--border); border-radius: 12px; padding: 1.5rem; margin-top: 2rem; }
-    .related-articles h3 { margin-top: 0; }
+    .related-articles h3 { margin-top: 0; color: var(--primary-dark); }
     .related-articles ul { list-style: none; margin-left: 0; }
     .related-articles li { margin-bottom: 0.5rem; }
     .author-box { display: flex; align-items: center; gap: 1rem; background: var(--light); border: 1px solid var(--border); border-radius: 12px; padding: 1.5rem; margin-top: 2rem; }
+    .author-box .author-avatar { width: 56px; height: 56px; background: linear-gradient(135deg, var(--hero-from), var(--hero-to)); border-radius: 50%; display: flex; align-items: center; justify-content: center; color: white; font-weight: 700; font-size: 1.1rem; flex-shrink: 0; }
     .author-box .author-info { flex: 1; }
-    .author-box .author-name { font-weight: 700; color: var(--primary); }
+    .author-box .author-name { font-weight: 700; color: var(--primary-dark); }
     .author-box .author-bio { font-size: 0.9rem; color: var(--text); margin-top: 0.25rem; }
+
+    /* Article Hero */
     .article-hero { background-size: cover; background-position: center; background-repeat: no-repeat; margin-top: -2rem; }
-    .article-hero-overlay { background: rgba(15,23,42,0.55); padding: 4rem 0 3rem; }
+    .article-hero-overlay { background: rgba(15,23,42,0.7); padding: 4rem 0 3rem; }
     .article-hero-title { color: #fff; font-size: 2.2rem; margin-bottom: 0.5rem; }
     .breadcrumb-light a, .breadcrumb-light { color: rgba(255,255,255,0.7); }
     .breadcrumb-light a:hover { color: #fff; }
     .meta-light { color: rgba(255,255,255,0.75); }
-    .card-thumb { display: block; width: calc(100% + 3rem); max-width: calc(100% + 3rem); height: 220px; object-fit: cover; border-radius: 8px 8px 0 0; margin: -1.5rem -1.5rem 1rem; background: linear-gradient(135deg, #0f172a 0%, #1e3a5f 100%); padding: 0; }
+    .card-thumb { display: block; width: calc(100% + 3rem); max-width: calc(100% + 3rem); height: 220px; object-fit: cover; border-radius: 8px 8px 0 0; margin: -1.5rem -1.5rem 1rem; background: linear-gradient(135deg, var(--hero-from) 0%, var(--hero-to) 100%); padding: 0; }
+
+    /* FAQ */
+    .faq-section { margin-top: 2.5rem; }
+    .faq-section h2 { font-size: 1.4rem; margin-bottom: 1rem; }
+    .faq-item { border: 1px solid var(--border); border-radius: 8px; margin-bottom: 0.5rem; }
+    .faq-item summary { padding: 1rem 1.25rem; cursor: pointer; font-weight: 600; color: var(--primary-dark); list-style: none; display: flex; justify-content: space-between; align-items: center; }
+    .faq-item summary::after { content: "+"; font-size: 1.2rem; color: var(--accent); flex-shrink: 0; margin-left: 1rem; }
+    .faq-item[open] summary::after { content: "\2212"; }
+    .faq-item summary::-webkit-details-marker { display: none; }
+    .faq-item p { padding: 0 1.25rem 1rem; color: var(--text); margin: 0; }
+
+    /* Cookie Banner */
+    .cookie-banner { position: fixed; bottom: 0; left: 0; right: 0; background: var(--primary-dark); color: #cbd5e1; padding: 1rem; z-index: 9999; display: none; }
+    .cookie-banner.show { display: block; }
+    .cookie-inner { max-width: 1100px; margin: 0 auto; display: flex; align-items: center; justify-content: space-between; gap: 1rem; flex-wrap: wrap; }
+    .cookie-inner p { margin: 0; font-size: 0.85rem; flex: 1; }
+    .cookie-inner a { color: #fb923c; text-decoration: underline; }
+    .cookie-btn { padding: 0.5rem 1.25rem; border-radius: 6px; border: none; cursor: pointer; font-weight: 600; font-size: 0.85rem; }
+    .cookie-accept { background: var(--accent); color: white; }
+    .cookie-decline { background: transparent; color: #94a3b8; border: 1px solid #475569; }
+
     @media (max-width: 768px) {
       .hero h1 { font-size: 2rem; }
       .hero { padding: 3rem 0; }
@@ -192,28 +255,15 @@
       nav a { margin: 0 1rem 0 0; }
       .author-box { flex-direction: column; text-align: center; }
     }
-    .faq-section { margin-top: 2.5rem; }
-    .faq-section h2 { font-size: 1.4rem; margin-bottom: 1rem; }
-    .faq-item { border: 1px solid var(--border); border-radius: 8px; margin-bottom: 0.5rem; }
-    .faq-item summary { padding: 1rem 1.25rem; cursor: pointer; font-weight: 600; color: var(--primary); list-style: none; display: flex; justify-content: space-between; align-items: center; }
-    .faq-item summary::after { content: "+"; font-size: 1.2rem; color: var(--accent); flex-shrink: 0; margin-left: 1rem; }
-    .faq-item[open] summary::after { content: "−"; }
-    .faq-item summary::-webkit-details-marker { display: none; }
-    .faq-item p { padding: 0 1.25rem 1rem; color: var(--text); margin: 0; }
-    .cookie-banner { position: fixed; bottom: 0; left: 0; right: 0; background: var(--primary); color: #cbd5e1; padding: 1rem; z-index: 9999; display: none; }
-    .cookie-banner.show { display: block; }
-    .cookie-inner { max-width: 1100px; margin: 0 auto; display: flex; align-items: center; justify-content: space-between; gap: 1rem; flex-wrap: wrap; }
-    .cookie-inner p { margin: 0; font-size: 0.85rem; flex: 1; }
-    .cookie-inner a { color: #60a5fa; text-decoration: underline; }
-    .cookie-btn { padding: 0.5rem 1.25rem; border-radius: 6px; border: none; cursor: pointer; font-weight: 600; font-size: 0.85rem; }
-    .cookie-accept { background: var(--accent); color: white; }
-    .cookie-decline { background: transparent; color: #94a3b8; border: 1px solid #475569; }
   </style>
 </head>
 <body>
   <header>
     <div class="container wide">
-      <a href="/" class="logo">Digital<span>Shield</span>Pro</a>
+      <a href="/" class="logo">
+        <div class="logo-icon">NL</div>
+        Expat<span>NL</span>Hub
+      </a>
       <nav>
         {{ range .Site.Menus.main }}
         <a href="{{ .URL }}">{{ .Name }}</a>
@@ -226,14 +276,14 @@
   </main>
   <footer>
     <div class="container">
-      <p>&copy; {{ now.Year }} Digital Shield Pro. All rights reserved.</p>
-      <p>We may earn commissions from qualifying purchases through affiliate links.</p>
-      <p><a href="/privacy/">Privacy Policy</a> · <a href="/about/">About</a></p>
+      <p>&copy; {{ now.Year }} Expat Netherlands Hub. All rights reserved.</p>
+      <p>This site contains affiliate links. We may earn a commission at no extra cost to you.</p>
+      <p><a href="/privacy/">Privacy Policy</a> &middot; <a href="/about/">About</a></p>
     </div>
   </footer>
   <div class="cookie-banner" id="cookieBanner">
     <div class="cookie-inner">
-      <p>We use cookies and analytics to improve your experience. By clicking "Accept", you consent to our use of Google Analytics. <a href="/privacy/">Privacy Policy</a></p>
+      <p>We use cookies to improve your experience. By clicking "Accept", you consent to the use of analytics cookies. <a href="/privacy/">Privacy Policy</a></p>
       <div>
         <button class="cookie-btn cookie-decline" onclick="document.getElementById('cookieBanner').classList.remove('show');localStorage.setItem('cookie-consent','false')">Decline</button>
         <button class="cookie-btn cookie-accept" onclick="acceptCookies()">Accept</button>
@@ -244,7 +294,6 @@
     function acceptCookies(){
       localStorage.setItem('cookie-consent','true');
       document.getElementById('cookieBanner').classList.remove('show');
-      gtag('consent','update',{'analytics_storage':'granted'});
     }
     if(!localStorage.getItem('cookie-consent')){
       document.getElementById('cookieBanner').classList.add('show');
