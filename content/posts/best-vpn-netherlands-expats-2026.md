@@ -35,7 +35,7 @@ The day I moved to the Netherlands and tried to watch BBC iPlayer, I got that dr
 | VPN | Best For | Monthly Price | Servers | Devices | Streaming | Speed |
 |-----|----------|---------------|---------|---------|-----------|-------|
 | **[NordVPN](https://go.nordvpn.net/aff_c?offer_id=612&aff_id=141337&url_id=14830)** | Overall best for expats | EUR 3.49-12.99 | 6,400+ in 111 countries | 10 | Excellent | Very Fast |
-| **[Surfshark]({{surfshark_link}})** | Best value | EUR 2.19-15.45 | 3,200+ in 100 countries | Unlimited | Excellent | Fast |
+| **[Surfshark](https://surfshark.com/)** | Best value | EUR 2.19-15.45 | 3,200+ in 100 countries | Unlimited | Excellent | Fast |
 | **ExpressVPN** | Easiest to use | EUR 6.67-12.95 | 3,000+ in 105 countries | 8 | Excellent | Very Fast |
 | **CyberGhost** | Best for streaming | EUR 2.19-12.99 | 11,500+ in 100 countries | 7 | Good | Fast |
 | **ProtonVPN** | Best for privacy | EUR 0-9.99 | 4,800+ in 110 countries | 10 | Good | Fast |
@@ -109,7 +109,7 @@ Some online services, including flights, hotels, and software subscriptions, sho
 
 ### 2. Surfshark -- Best Value for Expats
 
-[Surfshark]({{surfshark_link}}) offers nearly everything NordVPN does at a lower price point, plus the major advantage of unlimited simultaneous device connections.
+[Surfshark](https://surfshark.com/) offers nearly everything NordVPN does at a lower price point, plus the major advantage of unlimited simultaneous device connections.
 
 **Why expats love it:**
 - **Unlimited devices**: Connect every device in your household with one subscription. Ideal for families or if you have many devices
@@ -128,7 +128,7 @@ Some online services, including flights, hotels, and software subscriptions, sho
 - Speeds are slightly slower than NordVPN on some distant servers
 - Newer company with a shorter track record than NordVPN
 
-**My verdict**: The best value VPN. If unlimited devices and low cost are priorities, [Surfshark]({{surfshark_link}}) is an outstanding choice.
+**My verdict**: The best value VPN. If unlimited devices and low cost are priorities, [Surfshark](https://surfshark.com/) is an outstanding choice.
 
 ### 3. ExpressVPN -- Easiest to Use
 
@@ -231,7 +231,7 @@ Mullvad is a unique VPN focused entirely on anonymity. You do not even need an e
 | Use Case | Best Choice | Why |
 |----------|-------------|-----|
 | Streaming home content | [NordVPN](https://go.nordvpn.net/aff_c?offer_id=612&aff_id=141337&url_id=14830) | Most reliable for unblocking Netflix, BBC iPlayer, Hulu |
-| Best value / families | [Surfshark]({{surfshark_link}}) | Unlimited devices, cheapest premium option |
+| Best value / families | [Surfshark](https://surfshark.com/) | Unlimited devices, cheapest premium option |
 | Simple and reliable | ExpressVPN | Best interface, consistently fast |
 | Privacy above all | ProtonVPN | Swiss-based, open source, free tier |
 | Budget streaming | CyberGhost | Labeled streaming servers, affordable |
@@ -245,7 +245,7 @@ Setting up a VPN takes less than five minutes.
 
 ### Step 1: Choose and Subscribe
 
-Pick a VPN from our recommendations. We suggest starting with [NordVPN](https://go.nordvpn.net/aff_c?offer_id=612&aff_id=141337&url_id=14830) for the best all-around experience or [Surfshark]({{surfshark_link}}) for the best value.
+Pick a VPN from our recommendations. We suggest starting with [NordVPN](https://go.nordvpn.net/aff_c?offer_id=612&aff_id=141337&url_id=14830) for the best all-around experience or [Surfshark](https://surfshark.com/) for the best value.
 
 ### Step 2: Download and Install
 
@@ -298,7 +298,7 @@ The Netherlands has extensive public WiFi, especially on NS trains, in Albert He
 
 For most expats in the Netherlands, I recommend **[NordVPN](https://go.nordvpn.net/aff_c?offer_id=612&aff_id=141337&url_id=14830)**. It offers the best combination of speed, streaming reliability, privacy, and ease of use. At around EUR 3.49 per month on the two-year plan, it costs less than a single koffie verkeerd per month.
 
-If budget is your primary concern or you have a large household with many devices, **[Surfshark]({{surfshark_link}})** is the better choice, offering unlimited connections at an even lower price.
+If budget is your primary concern or you have a large household with many devices, **[Surfshark](https://surfshark.com/)** is the better choice, offering unlimited connections at an even lower price.
 
 Whatever you choose, getting a VPN set up should be one of your first steps as an expat. It keeps you connected to home, protects your privacy on Dutch public WiFi, and ensures you can access your financial accounts without issues.
 

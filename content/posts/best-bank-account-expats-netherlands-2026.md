@@ -51,7 +51,7 @@ When I arrived in the Netherlands, I spent two weeks without a functioning bank 
 Before diving into each bank in detail, here are our top picks:
 
 1. **Best first account (open before you arrive)**: [Wise](https://wise.com/invite/ihpc/willemt52)
-2. **Best digital bank for daily use in the Netherlands**: [Bunq]({{bunq_link}})
+2. **Best digital bank for daily use in the Netherlands**: [Bunq](https://www.bunq.com/nl)
 3. **Best traditional bank for long-term residents**: ING
 
 Most expats benefit from having two accounts: a [Wise account](https://wise.com/invite/ihpc/willemt52) for international transfers and currency conversion, plus either a traditional Dutch bank or Bunq for everyday Dutch banking.
@@ -98,7 +98,7 @@ Every expat moving to the Netherlands should open a <a href="https://wise.com/in
 
 ## 2. Bunq -- Best Digital Bank for Dutch Daily Life
 
-[Bunq]({{bunq_link}}) is a Dutch-born digital bank that has built a strong following among expats and tech-savvy locals. It offers a full banking experience with features that traditional banks are still catching up to.
+[Bunq](https://www.bunq.com/nl) is a Dutch-born digital bank that has built a strong following among expats and tech-savvy locals. It offers a full banking experience with features that traditional banks are still catching up to.
 
 ### Key Features
 
@@ -135,13 +135,13 @@ Bunq was designed for the digital-first generation. The app is intuitive, fully 
 
 ### Our Verdict
 
-If you want a modern, fully digital banking experience that works seamlessly in the Netherlands, [Bunq]({{bunq_link}}) is the best option. The Easy Money plan offers exceptional value for the features provided.
+If you want a modern, fully digital banking experience that works seamlessly in the Netherlands, [Bunq](https://www.bunq.com/nl) is the best option. The Easy Money plan offers exceptional value for the features provided.
 
 ---
 
 ## 3. N26 -- Best Free Digital Bank Account
 
-[N26]({{n26_link}}) is a German digital bank with a significant presence across Europe, including the Netherlands. Its free tier makes it an attractive option for budget-conscious expats.
+[N26](https://n26.com/en-nl) is a German digital bank with a significant presence across Europe, including the Netherlands. Its free tier makes it an attractive option for budget-conscious expats.
 
 ### Key Features
 
@@ -179,7 +179,7 @@ The free tier is genuinely useful. You get a real bank account with a German IBA
 
 ### Our Verdict
 
-N26 is a solid free option for a secondary account or for expats who also spend time in other European countries. However, the German IBAN can cause practical issues in the Netherlands, so I recommend pairing it with a Wise or Bunq account. [Open an N26 account here]({{n26_link}}).
+N26 is a solid free option for a secondary account or for expats who also spend time in other European countries. However, the German IBAN can cause practical issues in the Netherlands, so I recommend pairing it with a Wise or Bunq account. [Open an N26 account here](https://n26.com/en-nl).
 
 ---
 
@@ -319,7 +319,7 @@ Revolut is a useful secondary account for travel and multi-currency spending, bu
 
 1. **Before you move**: Open a [Wise account](https://wise.com/invite/ihpc/willemt52) to get a Dutch IBAN immediately. Transfer initial funds from your home country at the best exchange rate.
 
-2. **After registration at the gemeente**: Once you have your BSN, apply for a traditional Dutch bank (ING or ABN AMRO recommended) or a full-featured digital bank ([Bunq]({{bunq_link}}) or [N26]({{n26_link}})).
+2. **After registration at the gemeente**: Once you have your BSN, apply for a traditional Dutch bank (ING or ABN AMRO recommended) or a full-featured digital bank ([Bunq](https://www.bunq.com/nl) or [N26](https://n26.com/en-nl)).
 
 3. **Set up direct debits**: Link your health insurance, rent (if paid by direct debit), and utility payments to your Dutch bank account.
 
@@ -348,7 +348,7 @@ If you shop online frequently in the Netherlands, having a bank account with iDE
 For most expats arriving in the Netherlands in 2026, I recommend this two-account setup:
 
 1. **[Wise](https://wise.com/invite/ihpc/willemt52)** as your first and international account (open before you arrive)
-2. **ING or [Bunq]({{bunq_link}})** as your primary Dutch bank for everyday use (open after receiving your BSN)
+2. **ING or [Bunq](https://www.bunq.com/nl)** as your primary Dutch bank for everyday use (open after receiving your BSN)
 
 This combination gives you the best of both worlds: low-cost international transfers and multi-currency management with Wise, plus full Dutch banking integration (iDEAL, direct debits, ATMs) with your Dutch bank.
 

@@ -46,7 +46,7 @@ Even with a Dutch mother, I spent my first year in the Netherlands smiling and n
 
 ## 1. Babbel -- Best Overall for Learning Dutch
 
-[Babbel]({{babbel_link}}) is our top pick for expats serious about learning Dutch. Unlike one-size-fits-all apps, Babbel builds each language course from the ground up, and its Dutch course is genuinely well-crafted.
+[Babbel](https://www.babbel.com/) is our top pick for expats serious about learning Dutch. Unlike one-size-fits-all apps, Babbel builds each language course from the ground up, and its Dutch course is genuinely well-crafted.
 
 ### What Makes Babbel Stand Out
 
@@ -77,7 +77,7 @@ The app teaches grammar in context rather than through abstract rules. You learn
 
 ### Verdict
 
-If you are going to invest in one paid app, make it Babbel. The quality of the Dutch-specific content justifies the price. [Start your Babbel Dutch course here]({{babbel_link}}).
+If you are going to invest in one paid app, make it Babbel. The quality of the Dutch-specific content justifies the price. [Start your Babbel Dutch course here](https://www.babbel.com/).
 
 ---
 
@@ -118,7 +118,7 @@ Duolingo is an excellent starting point and a great supplement to other learning
 
 ## 3. Pimsleur -- Best for Speaking and Pronunciation
 
-[Pimsleur]({{pimsleur_link}}) takes a radically different approach. It is almost entirely audio-based, built on the principle that language is fundamentally a spoken skill.
+[Pimsleur](https://www.pimsleur.com/) takes a radically different approach. It is almost entirely audio-based, built on the principle that language is fundamentally a spoken skill.
 
 ### What Makes Pimsleur Stand Out
 
@@ -149,13 +149,13 @@ The result is that after a few weeks of Pimsleur, you can actually speak Dutch i
 
 ### Verdict
 
-Pimsleur is the best choice if you want to speak Dutch with confidence. It is particularly effective when combined with a text-based app like Babbel for reading and writing skills. [Try Pimsleur Dutch here]({{pimsleur_link}}).
+Pimsleur is the best choice if you want to speak Dutch with confidence. It is particularly effective when combined with a text-based app like Babbel for reading and writing skills. [Try Pimsleur Dutch here](https://www.pimsleur.com/).
 
 ---
 
 ## 4. Mondly -- Best for Visual and Interactive Learners
 
-[Mondly]({{mondly_link}}) offers a visually polished experience with some innovative features including augmented reality and chatbot conversations.
+[Mondly](https://www.mondly.com/) offers a visually polished experience with some innovative features including augmented reality and chatbot conversations.
 
 ### What Makes Mondly Stand Out
 
@@ -184,7 +184,7 @@ Mondly uses a conversation-first approach. Each lesson begins with a dialogue th
 
 ### Verdict
 
-Mondly is a good choice if you learn best through visual and interactive content. The chatbot and AR features add engagement that other apps lack. [Start learning Dutch with Mondly]({{mondly_link}}).
+Mondly is a good choice if you learn best through visual and interactive content. The chatbot and AR features add engagement that other apps lack. [Start learning Dutch with Mondly](https://www.mondly.com/).
 
 ---
 
@@ -300,8 +300,8 @@ Based on my testing, here is the combination I recommend for expats learning Dut
 
 ### For Serious Learners (Best Results)
 
-1. **[Babbel]({{babbel_link}})** for daily structured lessons (15 minutes per day)
-2. **[Pimsleur]({{pimsleur_link}})** for pronunciation and speaking practice (30 minutes, 3-4 times per week)
+1. **[Babbel](https://www.babbel.com/)** for daily structured lessons (15 minutes per day)
+2. **[Pimsleur](https://www.pimsleur.com/)** for pronunciation and speaking practice (30 minutes, 3-4 times per week)
 3. **italki** for weekly conversation practice with a tutor (1 hour per week)
 4. **Dutch podcasts and TV** for passive immersion (whenever possible)
 
@@ -314,9 +314,9 @@ Based on my testing, here is the combination I recommend for expats learning Dut
 
 ### For Busy Professionals (Minimum Time Investment)
 
-1. **[Pimsleur]({{pimsleur_link}})** during your commute (30 minutes per day, no screen required)
+1. **[Pimsleur](https://www.pimsleur.com/)** during your commute (30 minutes per day, no screen required)
 2. **Duolingo** for 5-minute sessions during breaks (free)
-3. **[Mondly]({{mondly_link}})** daily lesson reminders to maintain consistency
+3. **[Mondly](https://www.mondly.com/)** daily lesson reminders to maintain consistency
 
 ---
 
@@ -342,6 +342,6 @@ If you are still in the planning stages of your move, check out our [complete gu
 
 There is no single "best" app for everyone. The right choice depends on your learning style, budget, and goals. What matters most is consistency: 15 minutes of daily practice with any of these apps will deliver meaningful results over time.
 
-For most expats in the Netherlands, I recommend starting with [Babbel]({{babbel_link}}) as your primary learning tool. It offers the best balance of structure, practical content, and Dutch-specific material. Supplement it with [Pimsleur]({{pimsleur_link}}) for speaking practice and Duolingo for quick daily review sessions.
+For most expats in the Netherlands, I recommend starting with [Babbel](https://www.babbel.com/) as your primary learning tool. It offers the best balance of structure, practical content, and Dutch-specific material. Supplement it with [Pimsleur](https://www.pimsleur.com/) for speaking practice and Duolingo for quick daily review sessions.
 
 Whatever you choose, start today. Your future Dutch-speaking self will thank you.

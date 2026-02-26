@@ -81,7 +81,7 @@ Buying a secondhand bike is the most popular and cost-effective choice for most 
 
 ### Option 2: Swapfiets -- Bicycle Subscription
 
-[Swapfiets]({{swapfiets_link}}) is a Dutch bicycle subscription service that provides a well-maintained bike for a monthly fee. It is enormously popular among students and expats.
+[Swapfiets](https://swapfiets.nl/en) is a Dutch bicycle subscription service that provides a well-maintained bike for a monthly fee. It is enormously popular among students and expats.
 
 **How it works:**
 1. Sign up at swapfiets.nl or in the app
@@ -123,7 +123,7 @@ Buying a secondhand bike is the most popular and cost-effective choice for most 
 **Who should choose Swapfiets?**
 Swapfiets is ideal for expats staying 6-18 months, people who do not want to deal with maintenance, and anyone who values convenience over cost savings.
 
-[Sign up for Swapfiets]({{swapfiets_link}})
+[Sign up for Swapfiets](https://swapfiets.nl/en)
 
 ### Option 3: Buy a New Bicycle
 
@@ -330,7 +330,7 @@ Cycling in the Netherlands is more than transport -- it is a way of life. As an 
 
 **Our recommendation for new expats:**
 
-1. **First two weeks**: Use a [Swapfiets subscription]({{swapfiets_link}}) for immediate mobility. No hassle, no research needed.
+1. **First two weeks**: Use a [Swapfiets subscription](https://swapfiets.nl/en) for immediate mobility. No hassle, no research needed.
 2. **After settling in**: Decide whether to continue with Swapfiets or buy your own bike based on your planned length of stay.
 3. **If staying 2+ years**: Buy a quality secondhand or new Dutch city bike from a local shop. It will be cheaper over time.
 

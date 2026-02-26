@@ -51,7 +51,7 @@ Language apps are the most accessible starting point for learning Dutch. They wo
 
 ### Babbel -- Best Structured App for Dutch
 
-[Babbel]({{babbel_link}}) is our top recommendation among language apps for learning Dutch. Its Dutch course is purpose-built by linguists and language teachers, with thorough grammar explanations, practical vocabulary, and real-world scenarios relevant to life in the Netherlands.
+[Babbel](https://www.babbel.com/) is our top recommendation among language apps for learning Dutch. Its Dutch course is purpose-built by linguists and language teachers, with thorough grammar explanations, practical vocabulary, and real-world scenarios relevant to life in the Netherlands.
 
 #### Key Features
 
@@ -89,7 +89,7 @@ Language apps are the most accessible starting point for learning Dutch. They wo
 
 #### Our Verdict
 
-[Babbel]({{babbel_link}}) is the best app for expats who are serious about building a solid Dutch foundation. Pair it with conversation practice on italki or Preply for the fastest progress. [Start your Babbel Dutch course here]({{babbel_link}}).
+[Babbel](https://www.babbel.com/) is the best app for expats who are serious about building a solid Dutch foundation. Pair it with conversation practice on italki or Preply for the fastest progress. [Start your Babbel Dutch course here](https://www.babbel.com/).
 
 For a detailed comparison with Duolingo, read our [Babbel vs Duolingo for Learning Dutch](/posts/babbel-vs-duolingo-learn-dutch-2026/) guide.
 
@@ -142,7 +142,7 @@ One-on-one tutoring is the fastest way to improve your spoken Dutch. These platf
 
 ### Preply -- Best for Structured Online Tutoring
 
-[Preply]({{preply_link}}) connects you with professional Dutch tutors who offer structured, personalized lessons. Tutors create custom learning plans based on your goals, level, and schedule.
+[Preply](https://preply.com/) connects you with professional Dutch tutors who offer structured, personalized lessons. Tutors create custom learning plans based on your goals, level, and schedule.
 
 #### Key Features
 
@@ -178,13 +178,13 @@ One-on-one tutoring is the fastest way to improve your spoken Dutch. These platf
 
 #### Our Verdict
 
-[Preply]({{preply_link}}) is the best online tutoring option for expats who want structured, professional Dutch lessons from home. It is particularly valuable for exam preparation and for learners who need to work on specific skills like pronunciation or business Dutch. [Find a Dutch tutor on Preply]({{preply_link}}).
+[Preply](https://preply.com/) is the best online tutoring option for expats who want structured, professional Dutch lessons from home. It is particularly valuable for exam preparation and for learners who need to work on specific skills like pronunciation or business Dutch. [Find a Dutch tutor on Preply](https://preply.com/).
 
 ---
 
 ### italki -- Best for Affordable Conversation Practice
 
-[italki]({{italki_link}}) is the largest language tutoring marketplace, offering both professional teachers and community tutors at a range of price points. It is ideal for affordable conversation practice to complement your other learning methods.
+[italki](https://www.italki.com/) is the largest language tutoring marketplace, offering both professional teachers and community tutors at a range of price points. It is ideal for affordable conversation practice to complement your other learning methods.
 
 #### Key Features
 
@@ -221,7 +221,7 @@ One-on-one tutoring is the fastest way to improve your spoken Dutch. These platf
 
 #### Our Verdict
 
-[italki]({{italki_link}}) is the best value for conversation practice. Book weekly sessions with a community tutor for EUR 10-15 per hour to practice speaking alongside your Babbel or Duolingo study. For serious structured learning, consider a professional teacher or Preply instead. [Book your first italki Dutch lesson]({{italki_link}}).
+[italki](https://www.italki.com/) is the best value for conversation practice. Book weekly sessions with a community tutor for EUR 10-15 per hour to practice speaking alongside your Babbel or Duolingo study. For serious structured learning, consider a professional teacher or Preply instead. [Book your first italki Dutch lesson](https://www.italki.com/).
 
 ---
 
@@ -384,8 +384,8 @@ The NT2 Staatsexamen (State Exam Dutch as a Second Language) comes in two levels
 1. **Start early**: Give yourself at least 6-12 months of preparation for NT2-I, longer for NT2-II
 2. **Practice all four skills equally**: Reading, writing, listening, and speaking are all tested separately
 3. **Use official practice exams**: Available at inburgeren.nl and duo.nl
-4. **Supplement with apps**: Use [Babbel]({{babbel_link}}) for grammar and vocabulary building
-5. **Book tutoring sessions**: Practice speaking with a tutor on [Preply]({{preply_link}}) or [italki]({{italki_link}}) in the months before the exam
+4. **Supplement with apps**: Use [Babbel](https://www.babbel.com/) for grammar and vocabulary building
+5. **Book tutoring sessions**: Practice speaking with a tutor on [Preply](https://preply.com/) or [italki](https://www.italki.com/) in the months before the exam
 6. **Join conversation groups**: Libraries and community centers often host free Dutch conversation practice
 
 For a complete guide to the civic integration process, read our [Inburgeringsexamen Preparation Guide 2026](/posts/inburgeringsexamen-preparation-guide-2026/).
@@ -398,15 +398,15 @@ For expats who want to reach conversational Dutch as efficiently as possible, he
 
 ### Months 1-3: Build Your Foundation
 
-- **Daily**: 15-20 minutes on [Babbel]({{babbel_link}}) for structured grammar and vocabulary
+- **Daily**: 15-20 minutes on [Babbel](https://www.babbel.com/) for structured grammar and vocabulary
 - **Daily**: 5 minutes on Duolingo for extra vocabulary practice and streak motivation
-- **Weekly**: 1-2 sessions on [italki]({{italki_link}}) with a community tutor for basic conversation practice
+- **Weekly**: 1-2 sessions on [italki](https://www.italki.com/) with a community tutor for basic conversation practice
 - **Daily**: Set your phone language to Dutch, listen to Dutch radio, read signs and menus
 
 ### Months 3-6: Develop Conversational Skills
 
 - **Continue**: Daily Babbel and Duolingo practice
-- **Increase**: 2-3 italki or [Preply]({{preply_link}}) sessions per week, focusing on speaking
+- **Increase**: 2-3 italki or [Preply](https://preply.com/) sessions per week, focusing on speaking
 - **Add**: A group course at a Taalhuis or language school for social learning
 - **Practice**: Watch Dutch TV shows on NPO Start with Dutch subtitles, read NOS.nl news
 
@@ -439,12 +439,12 @@ For expats who want to reach conversational Dutch as efficiently as possible, he
 
 The best Dutch language course is the one you will actually use consistently. Here is our bottom line:
 
-- **Best app for structured self-study**: [Babbel]({{babbel_link}})
+- **Best app for structured self-study**: [Babbel](https://www.babbel.com/)
 - **Best free option**: Duolingo
-- **Best for personalized online tutoring**: [Preply]({{preply_link}})
-- **Best for affordable conversation practice**: [italki]({{italki_link}})
+- **Best for personalized online tutoring**: [Preply](https://preply.com/)
+- **Best for affordable conversation practice**: [italki](https://www.italki.com/)
 - **Best in-person school (academic quality)**: UvA Talen
 - **Best immersive classroom experience**: Direct Dutch
 - **Best community-based program**: Taalhuis at your local library
 
-Most successful Dutch learners combine multiple methods: an app for daily practice, a tutor for speaking, and real-world immersion for everything else. Start with [Babbel]({{babbel_link}}) today, book your first [italki]({{italki_link}}) session this week, and commit to speaking a little Dutch every day. In six months, you will be amazed at your progress.
+Most successful Dutch learners combine multiple methods: an app for daily practice, a tutor for speaking, and real-world immersion for everything else. Start with [Babbel](https://www.babbel.com/) today, book your first [italki](https://www.italki.com/) session this week, and commit to speaking a little Dutch every day. In six months, you will be amazed at your progress.

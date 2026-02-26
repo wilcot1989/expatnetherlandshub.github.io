@@ -139,7 +139,7 @@ The eigen risico (own risk) is the Dutch equivalent of a deductible. In 2026, th
 
 You can choose to increase your eigen risico by EUR 100, 200, 300, or 500 (to a maximum of EUR 885) in exchange for a lower monthly premium. This makes sense if you are young, healthy, and rarely visit specialists. However, if you do need care, you will pay more out of pocket.
 
-**Our advice for new expats**: Stick with the standard EUR 385 eigen risico in your first year. You do not yet know the Dutch healthcare system, and unexpected medical needs can arise during a stressful relocation period.
+**My advice for new expats**: Stick with the standard EUR 385 eigen risico in your first year. You do not yet know the Dutch healthcare system, and unexpected medical needs can arise during a stressful relocation period.
 
 ---
 

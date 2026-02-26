@@ -186,7 +186,7 @@ Under the Wi2021 system, you complete ONA activities as part of your integration
 
 ### Months 1-3: Build Your Foundation
 
-1. **Start learning Dutch immediately** when you arrive (or even before you move). Use a structured app like [Babbel]({{babbel_link}}) to build vocabulary and grammar from day one. Babbel's Dutch course is designed by linguists and focuses on practical conversation skills, making it ideal for building the foundation you need for the exam.
+1. **Start learning Dutch immediately** when you arrive (or even before you move). Use a structured app like [Babbel](https://www.babbel.com/) to build vocabulary and grammar from day one. Babbel's Dutch course is designed by linguists and focuses on practical conversation skills, making it ideal for building the foundation you need for the exam.
 
 2. **Register with your municipality** and attend the broad intake assessment. This determines your learning route.
 
@@ -198,7 +198,7 @@ Under the Wi2021 system, you complete ONA activities as part of your integration
 
 1. **Follow your municipality's learning route**. Under Wi2021, your municipality connects you with a language school and monitors your progress.
 
-2. **Supplement with self-study**. Use [Pimsleur]({{pimsleur_link}}) for speaking and listening practice. Pimsleur's audio-based method is particularly effective for the speaking and listening components of the exam, as it trains you to produce and understand Dutch in real-time conversations.
+2. **Supplement with self-study**. Use [Pimsleur](https://www.pimsleur.com/) for speaking and listening practice. Pimsleur's audio-based method is particularly effective for the speaking and listening components of the exam, as it trains you to produce and understand Dutch in real-time conversations.
 
 3. **Start taking DUO practice exams**. The official practice exams are the closest thing to the real exam and are available for free on the DUO website. Take one early to identify your weak areas.
 
@@ -236,8 +236,8 @@ Under the Wi2021 system, you complete ONA activities as part of your integration
 
 | Resource | Best For | Cost |
 |----------|----------|------|
-| [Babbel]({{babbel_link}}) | Structured Dutch course, grammar, vocabulary | ~EUR 7-13/month |
-| [Pimsleur]({{pimsleur_link}}) | Speaking and listening practice | ~EUR 15-20/month |
+| [Babbel](https://www.babbel.com/) | Structured Dutch course, grammar, vocabulary | ~EUR 7-13/month |
+| [Pimsleur](https://www.pimsleur.com/) | Speaking and listening practice | ~EUR 15-20/month |
 | "Naar Nederland" package | Official preparation for all exam components | ~EUR 100-150 |
 | "De Delftse Methode" textbook | Structured self-study Dutch textbook | ~EUR 35-50 |
 | Language school courses | Full preparation with teacher guidance | EUR 1,000-5,000 |
@@ -292,7 +292,7 @@ For newcomers who are unlikely to reach B1 level within the deadline, often due 
 |-----------|--------|
 | Week 1-4 | Register at municipality, attend broad intake assessment |
 | Month 1-2 | PIP (Personal Integration and Participation Plan) created |
-| Month 1-3 | Begin language classes and start self-study with [Babbel]({{babbel_link}}) or [Pimsleur]({{pimsleur_link}}) |
+| Month 1-3 | Begin language classes and start self-study with [Babbel](https://www.babbel.com/) or [Pimsleur](https://www.pimsleur.com/) |
 | Month 3-6 | Intensive language learning, begin KNM study |
 | Month 6-12 | Continue language learning, start taking practice exams |
 | Month 12-18 | Take KNM exam, continue language preparation |
