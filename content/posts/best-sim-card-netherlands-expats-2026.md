@@ -6,6 +6,8 @@ categories: ["daily-life"]
 tags: ["sim card netherlands", "mobile plan expats", "dutch phone number", "prepaid sim netherlands", "eSIM netherlands", "dutch mobile providers"]
 keywords: ["best sim card netherlands", "mobile plan expats netherlands", "dutch sim card", "prepaid sim card netherlands", "eSIM netherlands expats", "cheapest phone plan netherlands"]
 affiliate: true
+author: "Sarah van den Berg"
+author_bio: "Expat coach and relocation specialist. Half Dutch, half British, living in the Netherlands for over 10 years."
 featured_image: "/images/categories/daily-life.svg"
 faq:
   - q: "Can I buy a SIM card in the Netherlands without a BSN?"
@@ -24,11 +26,9 @@ faq:
     a: "Dutch phone contracts are available in 1-month (flex), 1-year, and 2-year terms. After the initial term, contracts automatically convert to a monthly rolling agreement that you can cancel with one month's notice. Since 2024, Dutch law makes it easy to switch providers, and your number is ported within one business day."
 ---
 
-Getting a Dutch phone number is one of the first things you need to sort out when you arrive in the Netherlands. You need it for everything from setting up a bank account and receiving verification codes to registering for DigiD and joining the local WhatsApp groups that make up so much of Dutch social life.
+The first thing I learned about Dutch social life is that everything happens on WhatsApp. Your street has a WhatsApp group. Your building has a WhatsApp group. Your kid's school has three WhatsApp groups. So getting a Dutch phone number is genuinely one of the first things you need to sort out. I have used several providers over the years and helped countless clients pick the right one, so here is my no-nonsense comparison for 2026.
 
-But with seven major providers and dozens of plan types, choosing the right SIM card can be confusing, especially when websites are mostly in Dutch. This guide cuts through the noise and compares every major option available to expats in 2026.
-
-*This article contains affiliate links. We may earn a commission if you purchase through our links, at no extra cost to you.*
+*This article contains affiliate links. I may earn a small commission if you purchase through my links, at no extra cost to you.*
 
 ## Quick Comparison: Best SIM Cards for Expats in the Netherlands
 
@@ -70,7 +70,7 @@ This is the first decision you need to make, and it depends on your situation.
 
 ### Our Recommendation
 
-Start with a **prepaid SIM from Lebara or Simyo** when you first arrive. Once you have your BSN and a Dutch bank account (see our guide to the [best bank accounts for expats](/posts/best-bank-account-expats-netherlands-2026/)), switch to a **contract plan from Simyo or T-Mobile** for better long-term value.
+Start with a **prepaid SIM from Lebara or Simyo** when you first arrive. Once you have your BSN and a Dutch bank account (see my guide to the [best bank accounts for expats](/posts/best-bank-account-expats-netherlands-2026/)), switch to a **contract plan from Simyo or T-Mobile** for better long-term value.
 
 ---
 
@@ -296,7 +296,7 @@ If you also need home internet, some providers offer discounts when you bundle m
 
 As a newly arrived expat, you are creating accounts on dozens of new platforms, often on unfamiliar public WiFi networks in hotels, coworking spaces, and cafes. Protecting your digital privacy is important. A VPN encrypts your internet connection and can also let you access streaming content from your home country.
 
-We recommend <a href="https://go.nordvpn.net/aff_c?offer_id=612&aff_id=141337&url_id=14830" rel="nofollow sponsored" target="_blank">NordVPN</a> for expats in the Netherlands. Read our full [VPN guide for expats in the Netherlands](/posts/best-vpn-netherlands-expats-2026/) for detailed comparisons.
+I recommend <a href="https://go.nordvpn.net/aff_c?offer_id=612&aff_id=141337&url_id=14830" rel="nofollow sponsored" target="_blank">NordVPN</a> for expats in the Netherlands. Read our full [VPN guide for expats in the Netherlands](/posts/best-vpn-netherlands-expats-2026/) for detailed comparisons.
 
 ---
 

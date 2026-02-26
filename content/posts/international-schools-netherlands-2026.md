@@ -6,6 +6,8 @@ categories: ["daily-life"]
 tags: ["international schools", "education", "expat children", "Netherlands", "IB curriculum"]
 keywords: ["international schools Netherlands", "expat schools Holland", "IB schools Netherlands", "British school Netherlands"]
 affiliate: true
+author: "Sarah van den Berg"
+author_bio: "Expat coach and relocation specialist. Half Dutch, half British, living in the Netherlands for over 10 years."
 featured_image: "/images/categories/daily-life.svg"
 faq:
   - q: "How much do international schools cost in the Netherlands?"
@@ -22,13 +24,9 @@ faq:
     a: "Most international schools offer Dutch as a second language, typically 2-4 hours per week. Some schools with government funding offer more intensive Dutch instruction. This helps children integrate locally while maintaining their international education."
 ---
 
-Choosing the right school is one of the most important decisions you will make as an expat parent moving to the Netherlands. The good news: the Netherlands has one of the best international school networks in Europe, with over 50 international schools spread across the country.
+Choosing a school is the decision that keeps my expat parent clients up at night more than anything else -- even more than housing. I get it. IB or British curriculum? Is it worth paying twenty thousand euros a year? Will my child be okay switching mid-year? Having gone through international schooling myself as a half-British, half-Dutch kid, and now advising families on this decision regularly, I know how much it matters. Here is my guide to help you make the right call.
 
-But the choices can be overwhelming — IB or British curriculum? Fully private or government-subsidized? Amsterdam or The Hague? And with tuition fees ranging from €5,500 to €24,000 per year, it is a significant financial commitment.
-
-This guide covers everything you need to know about international schools in the Netherlands in 2026.
-
-*This article contains affiliate links. We may earn a commission if you purchase through our links, at no extra cost to you.*
+*This article contains affiliate links. I may earn a small commission if you purchase through my links, at no extra cost to you.*
 
 New to the Netherlands? Start with our [complete guide to moving to the Netherlands](/posts/complete-guide-moving-to-netherlands-2026/) for the full picture.
 

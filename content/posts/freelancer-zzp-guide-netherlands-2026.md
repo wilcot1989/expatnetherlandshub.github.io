@@ -6,6 +6,8 @@ categories: ["career"]
 tags: ["ZZP", "freelancer", "self-employed", "KvK registration", "Dutch taxes"]
 keywords: ["ZZP Netherlands", "freelancer Netherlands guide", "self-employed expat NL", "KvK registration freelancer"]
 affiliate: true
+author: "Sarah van den Berg"
+author_bio: "Expat coach and relocation specialist. Half Dutch, half British, living in the Netherlands for over 10 years."
 featured_image: "/images/categories/career.svg"
 faq:
   - q: "What is a ZZP in the Netherlands?"
@@ -22,11 +24,9 @@ faq:
     a: "Mandatory: basic health insurance (zorgverzekering). Strongly recommended: liability insurance (aansprakelijkheidsverzekering, €3-5/month), professional liability insurance (beroepsaansprakelijkheid, €15-50/month), and disability insurance (arbeidsongeschiktheid, €50-200/month). Disability insurance is crucial since you have no employer safety net."
 ---
 
-The Netherlands has over 1.2 million ZZP freelancers — and the number keeps growing. The Dutch freelance ecosystem is mature, well-structured, and welcoming to expats. Whether you are a developer, consultant, designer, translator, or any other professional, freelancing in the Netherlands can be both financially rewarding and personally fulfilling.
+When I registered as a ZZP at the KvK, the whole process took less than an hour. I walked in, answered some questions, paid the fee, and walked out as an officially registered Dutch freelancer. It was shockingly easy compared to the bureaucratic nightmare I had expected. The harder part comes after: figuring out taxes, insurance, invoicing, and the infamous VAT returns. I have been freelancing in the Netherlands for years and I coach other expats through it regularly. Here is the complete guide.
 
-This guide covers everything you need to know: from registration and taxes to invoicing and building your client base.
-
-*This article contains affiliate links. We may earn a commission if you purchase through our links, at no extra cost to you.*
+*This article contains affiliate links. I may earn a small commission if you purchase through my links, at no extra cost to you.*
 
 New to the Netherlands? Start with our [complete expat guide](/posts/moving-to-netherlands-guide-2026/) and set up your [DigiD](/posts/digid-guide-expats-2026/).
 
@@ -125,7 +125,7 @@ The standard VAT rate is 21%. You charge this on your invoices and remit it quar
 
 ### Recommended Accounting Software
 
-For Dutch freelancers, we recommend these tools that are designed for Dutch tax requirements:
+For Dutch freelancers, I recommend these tools that are designed for Dutch tax requirements:
 
 | Tool | Price | Dutch Tax Filing | Best For |
 |------|-------|-----------------|----------|

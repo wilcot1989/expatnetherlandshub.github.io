@@ -6,6 +6,8 @@ categories: ["culture"]
 tags: ["Dutch holidays", "King's Day", "Sinterklaas", "Dutch traditions", "public holidays"]
 keywords: ["Dutch holidays 2026", "Netherlands public holidays", "King's Day guide", "Dutch traditions expats"]
 affiliate: true
+author: "Sarah van den Berg"
+author_bio: "Expat coach and relocation specialist. Half Dutch, half British, living in the Netherlands for over 10 years."
 featured_image: "/images/categories/culture.svg"
 faq:
   - q: "How many public holidays does the Netherlands have?"
@@ -22,11 +24,9 @@ faq:
     a: "Carnival is a 3-day celebration (Sunday-Tuesday before Ash Wednesday, usually in February) mainly in the southern provinces (Noord-Brabant and Limburg). Cities like Den Bosch, Eindhoven, Maastricht, and Breda transform into non-stop parties with costumes, parades, and music. It's not a national holiday but many southerners take days off."
 ---
 
-One of the best parts of living in the Netherlands is experiencing Dutch traditions firsthand. From the nationwide orange party of King's Day to the magical arrival of Sinterklaas, Dutch holidays offer unique cultural experiences you won't find anywhere else.
+My first King's Day in the Netherlands, I walked outside in a normal outfit and was immediately swallowed by a sea of orange. Thousands of people in orange wigs, orange suits, orange face paint -- selling old junk on blankets and dancing on boats in the canals. Nobody had warned me. That is the thing about Dutch holidays: they are wonderfully bizarre, and as a half-Dutch person who grew up in the UK, even I was caught off guard. Here is your heads-up for every major holiday and tradition so you will not be surprised by a closed supermarket or an unexpected orange invasion.
 
-This guide covers every major holiday and tradition, so you'll never be caught off guard by a closed supermarket or an unexpected orange invasion.
-
-*This article contains affiliate links. We may earn a commission if you purchase through our links, at no extra cost to you.*
+*This article contains affiliate links. I may earn a small commission if you purchase through my links, at no extra cost to you.*
 
 New to the Netherlands? Start with our [complete expat guide](/posts/moving-to-netherlands-guide-2026/).
 

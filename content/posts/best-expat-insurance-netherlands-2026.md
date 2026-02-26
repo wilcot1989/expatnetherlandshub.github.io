@@ -6,6 +6,8 @@ categories: ["insurance"]
 tags: ["expat insurance", "health insurance Netherlands", "zorgverzekering", "liability insurance", "expat life"]
 keywords: ["expat insurance Netherlands", "health insurance expats NL", "best insurance for expats", "zorgverzekering international"]
 affiliate: true
+author: "Sarah van den Berg"
+author_bio: "Expat coach and relocation specialist. Half Dutch, half British, living in the Netherlands for over 10 years."
 featured_image: "/images/categories/insurance.svg"
 faq:
   - q: "Is health insurance mandatory for expats in the Netherlands?"
@@ -22,11 +24,9 @@ faq:
     a: "As a ZZP (freelancer), you need: basic health insurance (mandatory), liability insurance (strongly recommended), professional liability insurance (beroepsaansprakelijkheidsverzekering), and disability insurance (arbeidsongeschiktheidsverzekering). Disability insurance is the most expensive but crucial since ZZPers have no employer safety net."
 ---
 
-Moving to the Netherlands means navigating a new insurance landscape. The Dutch insurance system is comprehensive but different from what most expats are used to. Some insurances are mandatory, others are technically optional but considered essential by nearly every Dutch resident.
+I learned about Dutch liability insurance the hard way -- my bicycle knocked over a parked scooter in my first month, and suddenly I owed someone several hundred euros. Turns out, nearly every Dutch person has a three-euro-per-month policy that would have covered it. That was just one of many insurance surprises in a system that works brilliantly once you understand it. Here is the full breakdown of every insurance you need as an expat, from the mandatory to the "technically optional but you really should."
 
-This guide explains every insurance you need as an expat, how to choose the right providers, and how to avoid common mistakes that cost newcomers money.
-
-*This article contains affiliate links. We may earn a commission if you purchase through our links, at no extra cost to you.*
+*This article contains affiliate links. I may earn a small commission if you purchase through my links, at no extra cost to you.*
 
 New to the Netherlands? Start with our [complete expat guide](/posts/moving-to-netherlands-guide-2026/) and make sure you have your [DigiD set up](/posts/digid-guide-expats-2026/).
 

@@ -6,6 +6,8 @@ categories: ["language"]
 tags: ["dutch language course", "learn dutch", "NT2 exam", "dutch classes", "online dutch course", "dutch language school", "taalhuis", "preply dutch"]
 keywords: ["dutch language course", "learn dutch course", "NT2 course", "best dutch course online", "dutch language school netherlands", "learn dutch expat 2026"]
 affiliate: true
+author: "Sarah van den Berg"
+author_bio: "Expat coach and relocation specialist. Half Dutch, half British, living in the Netherlands for over 10 years."
 featured_image: "/images/categories/language.svg"
 faq:
   - q: "What is the fastest way to learn Dutch as an expat?"
@@ -24,11 +26,9 @@ faq:
     a: "For English speakers, Dutch is one of the easiest languages to learn. With consistent daily study (30-60 minutes), most learners reach basic conversational level (A2) within 3-6 months and comfortable conversational level (B1) within 6-12 months. The Foreign Service Institute classifies Dutch as a Category I language, estimating approximately 600-750 hours of study to reach proficiency. Your speed depends on study intensity, exposure to Dutch in daily life, and whether you practice speaking regularly."
 ---
 
-Learning Dutch is one of the most rewarding investments you can make as an expat in the Netherlands. While the Dutch are famously good at English, speaking even basic Dutch transforms your daily experience: you connect with colleagues on a deeper level, navigate bureaucracy more easily, understand what is happening around you, and show your commitment to your new home.
+I have tried almost every method of learning Dutch: apps on the train, evening classes after work, a private tutor who patiently corrected my "g" sound for months, and even watching Dutch reality TV with subtitles. Some worked brilliantly. Others were a waste of time and money. After more than a decade of trial, error, and coaching other expats through the same process, I have put together this comparison of the best Dutch language courses available in 2026 so you can skip the mistakes I made.
 
-Whether you prefer structured classroom learning, flexible online courses, one-on-one tutoring, or self-paced apps, there is a Dutch language course that fits your learning style and budget. This guide compares the best options available in 2026, from popular language apps to established Dutch language schools and online tutoring platforms.
-
-*This article contains affiliate links. We may earn a commission if you purchase through our links, at no extra cost to you.*
+*This article contains affiliate links. I may earn a small commission if you purchase through my links, at no extra cost to you.*
 
 ## Quick Comparison Table
 

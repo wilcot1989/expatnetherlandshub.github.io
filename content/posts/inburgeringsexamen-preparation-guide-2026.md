@@ -6,6 +6,8 @@ categories: ["language"]
 tags: ["inburgeringsexamen", "dutch integration exam", "inburgering", "civic integration", "learn dutch", "KNM exam", "ONA exam"]
 keywords: ["inburgeringsexamen preparation", "dutch integration exam", "inburgering guide", "civic integration netherlands", "inburgeringsexamen 2026", "how to pass inburgeringsexamen"]
 affiliate: true
+author: "Sarah van den Berg"
+author_bio: "Expat coach and relocation specialist. Half Dutch, half British, living in the Netherlands for over 10 years."
 featured_image: "/images/categories/language.svg"
 faq:
   - q: "Who is exempt from the inburgeringsexamen?"
@@ -24,11 +26,9 @@ faq:
     a: "No. The inburgeringsexamen tests Dutch at A2-B1 level as part of civic integration requirements. The NT2 (Nederlands als Tweede Taal) is a separate, higher-level exam at B1-B2 level, recognized by Dutch educational institutions and employers. Passing NT2 State Exam II can exempt you from the language components of the inburgeringsexamen. If you plan to study at a Dutch university or need formal proof of Dutch proficiency for employment, NT2 is the more widely recognized qualification."
 ---
 
-If you are a non-EU citizen living in the Netherlands, there is a high chance you will need to pass the inburgeringsexamen, the Dutch civic integration exam. It is one of the most important milestones in your life as an expat, affecting your right to stay in the Netherlands permanently and eventually apply for Dutch citizenship.
+As a half-Dutch, half-British person, I am technically exempt from the inburgeringsexamen. But I have coached so many clients through it that I practically know the KNM exam by heart. The biggest thing I have learned: it is not as scary as people think, but the preparation matters enormously. I have seen well-educated professionals fail because they underestimated it, and I have seen others with less formal education pass on the first try because they prepared strategically. Here is how to approach it.
 
-This guide explains everything you need to know about the inburgeringsexamen in 2026: what it involves, who needs to take it, how to prepare effectively, and how to avoid common pitfalls that trip up even well-prepared candidates.
-
-*This article contains affiliate links. We may earn a commission if you purchase through our links, at no extra cost to you.*
+*This article contains affiliate links. I may earn a small commission if you purchase through my links, at no extra cost to you.*
 
 ## What Is the Inburgeringsexamen?
 
@@ -242,7 +242,7 @@ Under the Wi2021 system, you complete ONA activities as part of your integration
 | "De Delftse Methode" textbook | Structured self-study Dutch textbook | ~EUR 35-50 |
 | Language school courses | Full preparation with teacher guidance | EUR 1,000-5,000 |
 
-For a broader overview of language learning apps, see our guide to the [best apps for learning Dutch in 2026](/posts/best-apps-learn-dutch-2026/).
+For a broader overview of language learning apps, see my guide to the [best apps for learning Dutch in 2026](/posts/best-apps-learn-dutch-2026/).
 
 ---
 

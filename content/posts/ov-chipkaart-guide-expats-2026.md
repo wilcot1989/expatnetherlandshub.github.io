@@ -6,6 +6,8 @@ categories: ["daily-life"]
 tags: ["ov-chipkaart", "public transport netherlands", "ns trains", "dutch trains", "gvb amsterdam", "ov-fiets", "ns flex", "9292 app"]
 keywords: ["ov-chipkaart guide", "public transport netherlands", "ns train netherlands", "ov-chipkaart how to use", "dutch public transport expat", "ns flex subscription 2026"]
 affiliate: true
+author: "Sarah van den Berg"
+author_bio: "Expat coach and relocation specialist. Half Dutch, half British, living in the Netherlands for over 10 years."
 featured_image: "/images/categories/daily-life.svg"
 faq:
   - q: "What is an OV-chipkaart and do I need one?"
@@ -24,11 +26,9 @@ faq:
     a: "Dutch public transport is generally very reliable by international standards. NS trains run frequently (every 10-30 minutes on most routes) and on-time performance is typically 90-93%. Trams and buses in major cities run frequently during the day but less so in evenings and weekends. However, disruptions can occur due to weather, maintenance, and incidents. Always check the NS app or 9292 app before traveling, especially in winter when ice and storms can affect service."
 ---
 
-The Netherlands has one of the best public transport systems in Europe. Trains, trams, buses, and metro connect the entire country, and for a small, densely populated nation, the coverage is remarkably comprehensive. As an expat, mastering the Dutch public transport system will save you money, reduce your stress, and give you the freedom to explore the country without a car.
+The first time I tried to use Dutch public transport, I tapped my anonymous OV-chipkaart, got on the train, and promptly forgot to check out. That little mistake cost me twenty euros in "boarding fare." I have since become a public transport expert out of pure self-defense. After ten years of trains, trams, buses, and the glorious OV-fiets, I know every trick to save money and avoid the pitfalls. Here is everything you need to know.
 
-This guide covers everything you need to know about the OV-chipkaart, NS trains, city transport, bike rentals, subscriptions, and the apps that make it all work.
-
-*This article contains affiliate links. We may earn a commission if you purchase through our links, at no extra cost to you.*
+*This article contains affiliate links. I may earn a small commission if you purchase through my links, at no extra cost to you.*
 
 ## The OV-chipkaart: Your Key to Dutch Public Transport
 

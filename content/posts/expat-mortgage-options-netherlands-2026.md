@@ -6,6 +6,8 @@ categories: ["housing"]
 tags: ["mortgage", "hypotheek", "expat housing", "buying property", "30% ruling"]
 keywords: ["expat mortgage Netherlands", "hypotheek expat", "buying house Netherlands expat", "30% ruling mortgage"]
 affiliate: true
+author: "Sarah van den Berg"
+author_bio: "Expat coach and relocation specialist. Half Dutch, half British, living in the Netherlands for over 10 years."
 featured_image: "/images/categories/housing.svg"
 faq:
   - q: "Can expats get a mortgage in the Netherlands?"
@@ -22,11 +24,9 @@ faq:
     a: "Budget 4-6% of the purchase price for additional costs: transfer tax (overdrachtsbelasting, 2% for primary residence, 10.4% for investment), notary fees (€1,000-€2,000), mortgage advisor (€2,000-€3,500), valuation report (€500-€750), and structural survey (€300-€500)."
 ---
 
-Buying a home in the Netherlands as an expat is entirely possible — and often makes financial sense compared to renting long-term. Mortgage rates are competitive, the buying process is well-structured, and several lenders specialize in serving international clients.
+After years of renting in the Netherlands, I finally decided to buy -- and immediately discovered that the 30% ruling, which had been saving me money on taxes, was now working against me when it came to mortgage borrowing capacity. Nobody had warned me about that. The process of buying a house as an expat is completely doable, but it comes with a few surprises. Here is the step-by-step guide I put together from my own experience and from helping clients through the process.
 
-However, there are unique challenges: the 30% ruling's impact on borrowing capacity, temporary contracts, and navigating a process in Dutch. This guide walks you through everything step by step.
-
-*This article contains affiliate links. We may earn a commission if you purchase through our links, at no extra cost to you.*
+*This article contains affiliate links. I may earn a small commission if you purchase through my links, at no extra cost to you.*
 
 New to the Netherlands? Start with our [complete expat guide](/posts/moving-to-netherlands-guide-2026/) and explore [neighborhoods in The Hague](/posts/moving-to-the-hague-guide-2026/).
 

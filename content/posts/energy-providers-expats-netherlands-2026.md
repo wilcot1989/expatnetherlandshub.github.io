@@ -6,6 +6,8 @@ categories: ["housing"]
 tags: ["energy provider", "gas electricity", "Vattenfall", "Eneco", "expat utilities"]
 keywords: ["energy provider Netherlands expat", "Dutch energy contract", "cheapest energy Netherlands", "gas electricity NL"]
 affiliate: true
+author: "Sarah van den Berg"
+author_bio: "Expat coach and relocation specialist. Half Dutch, half British, living in the Netherlands for over 10 years."
 featured_image: "/images/categories/housing.svg"
 faq:
   - q: "How do I choose an energy provider in the Netherlands?"
@@ -22,11 +24,9 @@ faq:
     a: "A smart meter (slimme meter) sends your consumption data digitally to your provider, enabling accurate billing (no estimates) and is required for dynamic contracts. Your network operator installs it for free upon request. Over 90% of Dutch households now have one."
 ---
 
-Setting up energy (gas and electricity) is one of the first practical tasks when moving to the Netherlands. The Dutch energy market is fully liberalized — you can choose any provider, switch anytime, and there are no setup fees.
+I accidentally left my energy contract on the default provider for six months after moving into my apartment and massively overpaid. Turns out, switching energy providers in the Netherlands is free and takes five minutes -- I just did not know that. It is one of those things nobody tells you when you arrive. Here is how to choose the right energy contract from the start so you do not repeat my expensive mistake.
 
-This guide helps expats navigate the energy market, choose the right contract type, and avoid overpaying.
-
-*This article contains affiliate links. We may earn a commission if you purchase through our links, at no extra cost to you.*
+*This article contains affiliate links. I may earn a small commission if you purchase through my links, at no extra cost to you.*
 
 New to the Netherlands? Start with our [complete expat guide](/posts/moving-to-netherlands-guide-2026/).
 

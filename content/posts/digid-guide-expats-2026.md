@@ -6,6 +6,8 @@ categories: ["daily-life"]
 tags: ["DigiD", "digital identity", "Dutch bureaucracy", "government services", "BSN"]
 keywords: ["DigiD Netherlands", "DigiD expat", "how to get DigiD", "Dutch digital identity"]
 affiliate: true
+author: "Sarah van den Berg"
+author_bio: "Expat coach and relocation specialist. Half Dutch, half British, living in the Netherlands for over 10 years."
 featured_image: "/images/categories/daily-life.svg"
 faq:
   - q: "What is DigiD?"
@@ -22,11 +24,9 @@ faq:
     a: "No, the app is not mandatory, but it is highly recommended. The app provides a higher security level and allows you to log in by scanning a QR code instead of entering your password. Some government services now require the DigiD app or SMS verification for extra security."
 ---
 
-If you have lived in the Netherlands for more than a few weeks, you have probably been asked: "Do you have a DigiD?" This little digital identity is your key to almost all government services in the Netherlands — from filing taxes and checking your health insurance to applying for subsidies and viewing your pension.
+The first time someone asked me "Do you have a DigiD?" I had absolutely no idea what they were talking about. Turns out, it is the key to basically everything official in the Netherlands -- taxes, health insurance, subsidies, you name it. I put off setting mine up for weeks and regretted it immediately. Do not make my mistake. Here is how to get your DigiD sorted quickly and painlessly.
 
-Without DigiD, you are essentially locked out of Dutch digital life. The good news: getting one is free and straightforward. Here is everything you need to know.
-
-*This article contains affiliate links. We may earn a commission if you purchase through our links, at no extra cost to you.*
+*This article contains affiliate links. I may earn a small commission if you purchase through my links, at no extra cost to you.*
 
 Just arrived? Start with our [complete guide to moving to the Netherlands](/posts/complete-guide-moving-to-netherlands-2026/).
 

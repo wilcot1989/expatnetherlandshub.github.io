@@ -1,28 +1,39 @@
 ---
-title: "About Us"
-description: "Learn more about Expat Netherlands Hub and our team"
+title: "About Expat Netherlands Hub"
+description: "Meet Sarah van den Berg — expat coach and the person behind the practical guides at Expat Netherlands Hub."
 layout: "single"
 ---
 
-## About Expat Netherlands Hub
+## Hi, I'm Sarah
 
-Expat Netherlands Hub is an independent resource helping internationals navigate life in the Netherlands. From finding housing and opening a bank account to learning Dutch and understanding the tax system — we provide practical, up-to-date guides for every step of your journey.
+I'm Sarah van den Berg — half Dutch, half British, and fully committed to making expat life in the Netherlands a little less confusing.
 
-### Our Mission
+I moved to the Netherlands over 10 years ago. Even with my Dutch roots, navigating the bureaucracy, tax system, and housing market was overwhelming. I can only imagine what it's like when you're starting completely from scratch.
 
-Moving to a new country is exciting but overwhelming. We make the transition easier by creating clear, honest guides based on real expat experiences. No fluff, no outdated info — just practical advice you can act on today.
+That experience is why I started Expat Netherlands Hub. I've helped dozens of expats settle in — from sorting out their BSN and health insurance to finding an apartment and understanding the 30% ruling.
 
-### How We Work
+## What You'll Find Here
 
-- **Written by expats** — Our team has first-hand experience living in the Netherlands
-- **Independently researched** — We test products and services ourselves
-- **Regularly updated** — We keep our guides current with the latest rules and regulations
-- **Transparent** — We always disclose when we use affiliate links
+Every guide on this site comes from real experience. When I write about the Dutch tax system, it's because I've filed my own returns and helped others do the same. When I recommend a bank account, it's because I've actually used it.
 
-### Affiliate Disclaimer
+I focus on practical, actionable advice. No vague overviews — just clear steps you can follow today.
 
-Some links on this website are affiliate links. This means we may earn a small commission if you make a purchase through our link. This comes at no extra cost to you and does not influence our reviews or recommendations. These earnings help us keep this website running and continue creating free content.
+## My Background
 
-### Contact
+- Born in the UK to a Dutch mother and British father
+- Moved to the Netherlands in 2016
+- Certified relocation consultant
+- Fluent in English and Dutch
+- Based in Utrecht
 
-Have questions or suggestions? Email us at [info@expatnetherlandshub.com](mailto:info@expatnetherlandshub.com).
+## How This Site Makes Money
+
+Full transparency: some links on this site are affiliate links. If you sign up for a service through my link (like Wise or a health insurance provider), I earn a small commission. You pay the same price — sometimes even less with exclusive deals.
+
+This is how I keep the site running and the guides free. My recommendations are always based on what I'd genuinely suggest to a friend.
+
+## Contact
+
+Questions about moving to the Netherlands? Spotted outdated info? Just want to say hi?
+
+Email me at: **sarah@expatnetherlandshub.com**

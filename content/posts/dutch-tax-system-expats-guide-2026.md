@@ -6,6 +6,8 @@ categories: ["finance"]
 tags: ["dutch taxes", "tax return netherlands", "belastingdienst", "box 1 tax", "expat tax advisor", "tax deductions netherlands", "income tax netherlands"]
 keywords: ["dutch tax system expats", "taxes netherlands expat", "dutch income tax 2026", "tax brackets netherlands", "dutch tax return expat", "belastingdienst expat guide"]
 affiliate: true
+author: "Sarah van den Berg"
+author_bio: "Expat coach and relocation specialist. Half Dutch, half British, living in the Netherlands for over 10 years."
 featured_image: "/images/categories/finance.svg"
 faq:
   - q: "Do I have to file a tax return in the Netherlands as an expat?"
@@ -26,11 +28,9 @@ faq:
     a: "Yes, many expats receive a refund (teruggaaf) after filing their annual tax return. Common reasons for refunds include: excessive wage tax withheld by your employer, mortgage interest deduction, healthcare costs above the threshold, education expenses, and transition from partial-year to full-year residency. Filing your return is the only way to claim any refund you are owed."
 ---
 
-Understanding the Dutch tax system is one of the most important financial tasks for any expat in the Netherlands. The system has some unique characteristics that differ significantly from what you may be used to in your home country, including the distinctive three-box structure, the mandatory annual tax return, and specific provisions for international workers.
+The Dutch tax system is unlike anything I had seen in the UK. Three separate "boxes" for different types of income? A tax on your savings even if you did not earn anything from them? It took me years and a very patient tax advisor to fully understand it. Now I explain it to my expat clients regularly, and I always start the same way: once you understand the three boxes, everything else clicks. Here is how it all works in 2026.
 
-This guide walks you through everything you need to know about Dutch taxes in 2026: how the system works, what you owe, how to file your return, and where to find help when things get complicated.
-
-*This article contains affiliate links. We may earn a commission if you purchase through our links, at no extra cost to you.*
+*This article contains affiliate links. I may earn a small commission if you purchase through my links, at no extra cost to you.*
 
 ## How the Dutch Tax System Works: The Three-Box Structure
 

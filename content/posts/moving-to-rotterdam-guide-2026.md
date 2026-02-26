@@ -6,6 +6,8 @@ categories: ["relocation"]
 tags: ["rotterdam", "moving to rotterdam", "rotterdam expat", "rotterdam neighborhoods", "rotterdam housing", "relocation"]
 keywords: ["moving to rotterdam", "rotterdam expat guide", "living in rotterdam", "rotterdam relocation", "rotterdam neighborhoods expats"]
 affiliate: true
+author: "Sarah van den Berg"
+author_bio: "Expat coach and relocation specialist. Half Dutch, half British, living in the Netherlands for over 10 years."
 featured_image: "/images/categories/relocation.svg"
 faq:
   - q: "Is Rotterdam cheaper than Amsterdam?"
@@ -24,13 +26,11 @@ faq:
     a: "Register at a Stadswinkel (City Office) within 5 days of arrival. Book an appointment online via rotterdam.nl. Bring your passport, rental contract, birth certificate (apostilled), and marriage certificate if applicable. You will receive your BSN at registration."
 ---
 
-Rotterdam is the Netherlands' second-largest city and its most dynamic. While Amsterdam draws tourists with its canals and historic charm, Rotterdam attracts people with its modern architecture, entrepreneurial spirit, and gritty energy. The city was almost entirely rebuilt after World War II, resulting in a skyline of bold, contemporary architecture that is unique in the Netherlands.
-
-For expats, Rotterdam offers something increasingly rare in the Randstad: a major, international city where housing is still relatively affordable and the quality of life is excellent. This guide covers everything you need to know about moving to Rotterdam in 2026.
+Rotterdam is the Dutch city that surprises everyone. My clients often arrive expecting a smaller version of Amsterdam and discover something completely different -- modern skyline, incredible food scene, and a no-nonsense energy that feels more like a real city than a postcard. I spent two years living in Rotterdam and honestly loved it. The housing is more affordable, the people are more direct (which is saying something for the Netherlands), and the architecture is unlike anything else in the country. Here is my guide to making the move.
 
 For a broader overview of relocating to the Netherlands, read our [Complete Guide to Moving to the Netherlands 2026](/posts/complete-guide-moving-to-netherlands-2026/).
 
-*This article contains affiliate links. We may earn a commission if you purchase through our links, at no extra cost to you.*
+*This article contains affiliate links. I may earn a small commission if you purchase through my links, at no extra cost to you.*
 
 ## Why Choose Rotterdam?
 

@@ -6,6 +6,8 @@ categories: ["relocation"]
 tags: ["moving to netherlands", "expat relocation", "netherlands visa", "BSN number", "dutch housing", "expat checklist"]
 keywords: ["moving to netherlands", "relocating to netherlands 2026", "expat guide netherlands", "how to move to netherlands", "netherlands relocation checklist"]
 affiliate: true
+author: "Sarah van den Berg"
+author_bio: "Expat coach and relocation specialist. Half Dutch, half British, living in the Netherlands for over 10 years."
 featured_image: "/images/categories/relocation.svg"
 faq:
   - q: "How long does it take to get a BSN number in the Netherlands?"
@@ -24,11 +26,9 @@ faq:
     a: "Spring (April-May) and early autumn (September) are ideal. The weather is milder, and the housing market tends to have slightly more availability. Avoid moving in July-August when many landlords and officials are on vacation, potentially slowing down administrative processes."
 ---
 
-Moving to the Netherlands is one of the most exciting decisions you can make. With its high quality of life, excellent infrastructure, vibrant international communities, and central location in Europe, the Netherlands consistently ranks among the best countries for expats. But the practicalities of relocation can feel overwhelming, from visa applications and finding housing to navigating Dutch bureaucracy.
+When I moved to the Netherlands over ten years ago, I thought having a Dutch mother would make everything easy. Spoiler: it did not. The bureaucracy, the housing market, the endless paperwork -- I had to figure it all out the hard way. Now, as a relocation specialist, I walk expats through this process every single week. This guide is everything I wish someone had told me before I arrived.
 
-This comprehensive guide walks you through every step of moving to the Netherlands in 2026, based on the latest rules and requirements.
-
-*This article contains affiliate links. We may earn a commission if you purchase through our links, at no extra cost to you.*
+*This article contains affiliate links. I may earn a small commission if you purchase through my links, at no extra cost to you.*
 
 ## Quick Overview: Your Moving Checklist
 
@@ -153,7 +153,7 @@ Before you even leave your home country, set up a [Wise account](https://wise.co
 - Hold and convert over 50 currencies
 - Pay with a Wise debit card anywhere in the Netherlands
 
-Once you have your BSN, you can open an account at a traditional Dutch bank like ING, ABN AMRO, or Rabobank, or stay with a modern bank like Bunq or N26. For a full comparison, see our guide to the [best bank accounts for expats in the Netherlands](/posts/best-bank-account-expats-netherlands-2026/).
+Once you have your BSN, you can open an account at a traditional Dutch bank like ING, ABN AMRO, or Rabobank, or stay with a modern bank like Bunq or N26. For a full comparison, see my guide to the [best bank accounts for expats in the Netherlands](/posts/best-bank-account-expats-netherlands-2026/).
 
 <a href="https://wise.com/invite/ihpc/willemt52" class="cta" rel="nofollow sponsored" target="_blank">Open Your Free Wise Account Before You Move</a>
 

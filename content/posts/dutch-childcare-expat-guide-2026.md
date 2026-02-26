@@ -6,6 +6,8 @@ categories: ["family"]
 tags: ["childcare", "kinderopvang", "daycare", "BSO", "expat family"]
 keywords: ["childcare Netherlands expat", "kinderopvang costs", "Dutch daycare", "childcare subsidy Netherlands"]
 affiliate: true
+author: "Sarah van den Berg"
+author_bio: "Expat coach and relocation specialist. Half Dutch, half British, living in the Netherlands for over 10 years."
 featured_image: "/images/categories/family.svg"
 faq:
   - q: "How much does childcare cost in the Netherlands?"
@@ -22,11 +24,9 @@ faq:
     a: "Some daycare centers offer bilingual (Dutch/English) programs, especially in expat-heavy areas like Amsterdam, The Hague, and Eindhoven. Fully English-only daycare is rare. Most experts recommend Dutch-language childcare to help children integrate and learn the language."
 ---
 
-The Dutch childcare system is well-regulated, widely available, and generously subsidized. Understanding how it works can save you thousands of euros per year and help your children integrate into Dutch society.
+If there is one thing I tell expat parents immediately, it is this: register for daycare now. Not when you arrive, not when you are settled -- now. Waiting lists in Dutch cities can be over a year, and I have seen families scramble for emergency childcare because they did not register in time. The Dutch childcare system is actually excellent once you understand it, and the subsidies can save you thousands. Here is the guide I wish I could hand to every expat parent at the airport.
 
-This guide covers everything expat parents need to know: types of childcare, costs, subsidies, and how to find the right option for your family.
-
-*This article contains affiliate links. We may earn a commission if you purchase through our links, at no extra cost to you.*
+*This article contains affiliate links. I may earn a small commission if you purchase through my links, at no extra cost to you.*
 
 New to the Netherlands? Start with our [complete expat guide](/posts/moving-to-netherlands-guide-2026/) and set up your [DigiD](/posts/digid-guide-expats-2026/) (needed for subsidy applications).
 

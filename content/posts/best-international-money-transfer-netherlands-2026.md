@@ -6,6 +6,8 @@ categories: ["finance"]
 tags: ["money transfer", "wise", "revolut", "international transfer", "SEPA", "SWIFT", "expat finance"]
 keywords: ["money transfer netherlands", "send money to netherlands", "wise vs revolut", "international money transfer 2026", "best money transfer service netherlands"]
 affiliate: true
+author: "Sarah van den Berg"
+author_bio: "Expat coach and relocation specialist. Half Dutch, half British, living in the Netherlands for over 10 years."
 featured_image: "/images/categories/finance.svg"
 faq:
   - q: "What is the cheapest way to transfer money to the Netherlands?"
@@ -24,13 +26,9 @@ faq:
     a: "Yes. Wise offers scheduled recurring transfers, which is useful for sending a fixed amount home each month or making regular payments in another currency. Revolut also supports scheduled transfers. Traditional banks can set up standing orders for SEPA transfers. For recurring SWIFT transfers, most banks can arrange this, though the fees make it expensive over time. Wise's recurring transfer feature with the mid-market exchange rate is the most cost-effective option for regular international payments."
 ---
 
-Whether you are sending money home to family, receiving your salary in a foreign currency, paying off a mortgage in your home country, or simply moving funds between your accounts in different countries, international money transfers are a regular part of expat life in the Netherlands.
+I still wince thinking about the first time I transferred money from my British account to the Netherlands through my traditional bank. The fees and exchange rate markup cost me over a hundred euros on a single transfer. Ten years later, I have tried every major transfer service on the market and helped hundreds of expat clients stop overpaying for something that should be simple. Here is my comparison of the best ways to move money to and from the Netherlands in 2026.
 
-The difference between a good and bad transfer service can cost you hundreds or even thousands of euros per year. Banks charge hefty fees and use unfavorable exchange rates. Dedicated transfer services offer dramatically better value, but not all of them are equal.
-
-This guide compares the best ways to transfer money to and from the Netherlands in 2026, covering fees, exchange rates, speed, ease of use, and which service is best for different situations.
-
-*This article contains affiliate links. We may earn a commission if you purchase through our links, at no extra cost to you.*
+*This article contains affiliate links. I may earn a small commission if you purchase through my links, at no extra cost to you.*
 
 ## Quick Comparison Table
 
@@ -397,7 +395,7 @@ SWIFT transfers are expensive due to the layering of fees from multiple banks in
 
 ## Setting Up Your International Finance Stack
 
-Based on our experience and research, here is the combination we recommend for expats in the Netherlands:
+Based on our experience and research, here is the combination I recommend for expats in the Netherlands:
 
 ### Essential (Set Up Immediately)
 
@@ -452,4 +450,4 @@ Set up your Wise account before you move, add a Dutch bank account once you have
 
 <a href="https://wise.com/invite/ihpc/willemt52" class="cta" rel="nofollow sponsored" target="_blank">Start Saving on International Transfers with Wise</a>
 
-For more on managing your finances in the Netherlands, see our guide to the [30% ruling](/posts/30-percent-ruling-netherlands-2026/) and our [complete guide to moving to the Netherlands in 2026](/posts/complete-guide-moving-to-netherlands-2026/).
+For more on managing your finances in the Netherlands, see my guide to the [30% ruling](/posts/30-percent-ruling-netherlands-2026/) and our [complete guide to moving to the Netherlands in 2026](/posts/complete-guide-moving-to-netherlands-2026/).

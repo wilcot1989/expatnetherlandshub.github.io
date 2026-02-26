@@ -6,6 +6,8 @@ categories: ["relocation"]
 tags: ["cost of living netherlands", "expat budget netherlands", "rent amsterdam", "living expenses netherlands", "30 percent ruling", "monthly costs netherlands"]
 keywords: ["cost of living netherlands", "living expenses netherlands 2026", "budget expat netherlands", "rent prices netherlands", "how much does it cost to live in netherlands"]
 affiliate: true
+author: "Sarah van den Berg"
+author_bio: "Expat coach and relocation specialist. Half Dutch, half British, living in the Netherlands for over 10 years."
 featured_image: "/images/categories/relocation.svg"
 faq:
   - q: "How much money do I need to live comfortably in the Netherlands?"
@@ -24,11 +26,9 @@ faq:
     a: "A single person spending moderately should budget EUR 250-350 per month for groceries. A couple should budget EUR 400-550. Budget supermarkets like Lidl and Aldi can reduce costs by 20-30% compared to Albert Heijn or Jumbo. Buying seasonal produce at local markets (markt) is also cheaper. If you eat organic or specialty international foods, add 30-50% to these estimates."
 ---
 
-Understanding the true cost of living in the Netherlands is essential for planning your move and managing your finances as an expat. The Netherlands offers a high quality of life, but it comes with a price tag that varies significantly depending on where you live and how you choose to spend your money.
+Before I moved here, I Googled "cost of living Netherlands" and found numbers that turned out to be wildly inaccurate. The reality is more nuanced -- your monthly expenses depend hugely on which city you pick, whether you cycle or drive, and how often you resist the call of a terrasje on a sunny afternoon. After more than a decade of living here and helping clients plan their budgets, I have put together the most realistic breakdown I can for 2026.
 
-This guide provides a detailed, realistic breakdown of every major expense you will face in 2026, based on current prices and trends. We include monthly budget tables for different scenarios and explain how the 30% ruling can dramatically change your financial picture.
-
-*This article contains affiliate links. We may earn a commission if you purchase through our links, at no extra cost to you.*
+*This article contains affiliate links. I may earn a small commission if you purchase through my links, at no extra cost to you.*
 
 ## Monthly Cost Summary: At a Glance
 

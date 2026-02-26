@@ -6,6 +6,8 @@ categories: ["language"]
 tags: ["babbel", "duolingo", "learn dutch", "dutch language apps", "language learning", "babbel vs duolingo"]
 keywords: ["babbel vs duolingo dutch", "babbel or duolingo", "learn dutch app comparison", "babbel dutch course review", "duolingo dutch course review"]
 affiliate: true
+author: "Sarah van den Berg"
+author_bio: "Expat coach and relocation specialist. Half Dutch, half British, living in the Netherlands for over 10 years."
 featured_image: "/images/categories/language.svg"
 faq:
   - q: "Is Babbel or Duolingo better for learning Dutch?"
@@ -24,11 +26,9 @@ faq:
     a: "Babbel has noticeably better speech recognition technology for Dutch. It provides feedback on your pronunciation and requires you to speak words and phrases aloud in most exercises. Duolingo also includes speaking exercises, but they are less frequent and the speech recognition is less precise, particularly for challenging Dutch sounds like the hard g and the ui diphthong. For the best pronunciation practice, consider adding Pimsleur to either app."
 ---
 
-Choosing between Babbel and Duolingo is one of the first decisions expats in the Netherlands face when they decide to learn Dutch. Both apps are well-known, widely used, and available on iOS and Android. But they take fundamentally different approaches to language learning, and the differences matter more for Dutch than for many other languages.
+Growing up half-Dutch, I thought I had a head start on the language. I did not. When I moved to the Netherlands, I tried both Babbel and Duolingo to fill in the embarrassing gaps in my Dutch, and I was surprised how different the experience was on each. I have since recommended both apps to hundreds of expat clients, and the question I get most is: "Which one should I actually use?" Here is my honest side-by-side comparison after years of testing and real-world feedback.
 
-This guide compares Babbel and Duolingo side by side across every dimension that matters: teaching method, Dutch course quality, pricing, gamification, speech recognition, offline access, and more. By the end, you will know exactly which app fits your learning goals, your schedule, and your budget.
-
-*This article contains affiliate links. We may earn a commission if you purchase through our links, at no extra cost to you.*
+*This article contains affiliate links. I may earn a small commission if you purchase through my links, at no extra cost to you.*
 
 ## Quick Comparison Table
 
@@ -182,13 +182,13 @@ Dutch pronunciation presents unique challenges for English speakers. The guttura
 
 ### Babbel's Speech Recognition
 
-Babbel integrates speaking exercises into most lessons. The app uses speech recognition to evaluate your pronunciation and provides feedback on accuracy. In our testing, the system was reasonably good at catching major pronunciation errors and encouraging correct Dutch sounds.
+Babbel integrates speaking exercises into most lessons. The app uses speech recognition to evaluate your pronunciation and provides feedback on accuracy. In my testing, the system was reasonably good at catching major pronunciation errors and encouraging correct Dutch sounds.
 
 Importantly, Babbel requires you to speak aloud frequently, which builds the muscle memory needed for real conversations.
 
 ### Duolingo's Speech Recognition
 
-Duolingo includes speaking exercises where you repeat sentences into your microphone. However, these exercises are less frequent than in Babbel, and the speech recognition feels less precise. In our testing, Duolingo sometimes accepted clearly mispronounced Dutch words, particularly the "g" and "r" sounds that differ most from English.
+Duolingo includes speaking exercises where you repeat sentences into your microphone. However, these exercises are less frequent than in Babbel, and the speech recognition feels less precise. In my testing, Duolingo sometimes accepted clearly mispronounced Dutch words, particularly the "g" and "r" sounds that differ most from English.
 
 You can also skip speaking exercises in Duolingo, which many learners do in public places, but this undermines pronunciation development.
 
@@ -259,7 +259,7 @@ Duolingo is the right choice if you:
 
 ## The Best Approach: Use Both
 
-Here is the strategy we recommend for most expats learning Dutch in the Netherlands:
+Here is the strategy I recommend for most expats learning Dutch in the Netherlands:
 
 1. **Use [Babbel]({{babbel_link}}) as your primary learning tool**: Dedicate 15-20 minutes per day to structured lessons
 2. **Use Duolingo as a daily supplement**: Spend 5 minutes on Duolingo during breaks to reinforce vocabulary and maintain your streak

@@ -6,6 +6,8 @@ categories: ["finance"]
 tags: ["pension", "AOW", "retirement", "employer pension", "expat finance"]
 keywords: ["Dutch pension system expat", "AOW pension Netherlands", "employer pension NL", "retirement planning Netherlands"]
 affiliate: true
+author: "Sarah van den Berg"
+author_bio: "Expat coach and relocation specialist. Half Dutch, half British, living in the Netherlands for over 10 years."
 featured_image: "/images/categories/finance.svg"
 faq:
   - q: "How does the Dutch pension system work?"
@@ -22,11 +24,9 @@ faq:
     a: "Yes, especially if you haven't lived in the Netherlands long enough for a full AOW, or if you plan to retire in a country with a higher cost of living. Consider tax-advantaged options: jaarruimte (annual contribution space), lijfrente (annuity), and investing via a low-cost broker. A financial advisor specialized in expats can help optimize your strategy."
 ---
 
-The Netherlands has one of the best pension systems in the world, consistently ranked in the top 3 globally. But for expats, understanding how it works — and what you're actually entitled to — can be confusing.
+I did not think about my Dutch pension for the first five years I lived here. Big mistake. When I finally looked into it, I realised I had been building up AOW rights without knowing it, my employer had been contributing to a pension fund I had never checked, and I had no idea what any of it meant. If you are an expat wondering whether any of this matters to you -- it does, even if you are not planning to retire here. Let me break it down.
 
-This guide breaks down the three pillars of the Dutch pension system and what they mean for your retirement planning.
-
-*This article contains affiliate links. We may earn a commission if you purchase through our links, at no extra cost to you.*
+*This article contains affiliate links. I may earn a small commission if you purchase through my links, at no extra cost to you.*
 
 New to Dutch finances? Start with our [Dutch tax system guide](/posts/dutch-tax-system-expats-2026/).
 

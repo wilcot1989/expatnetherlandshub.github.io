@@ -6,6 +6,8 @@ categories: ["daily-life"]
 tags: ["cycling", "bicycle netherlands", "swapfiets", "bike rules", "dutch cycling", "ov-fiets", "bike theft"]
 keywords: ["cycling netherlands", "buy bicycle netherlands", "swapfiets review", "dutch bike rules", "cycling expat guide"]
 affiliate: true
+author: "Sarah van den Berg"
+author_bio: "Expat coach and relocation specialist. Half Dutch, half British, living in the Netherlands for over 10 years."
 featured_image: "/images/categories/daily-life.svg"
 faq:
   - q: "Do I need to buy a bicycle in the Netherlands?"
@@ -24,11 +26,9 @@ faq:
     a: "OV-fiets is a public rental bike system connected to the OV-chipkaart. You can rent a bike at most train stations for EUR 4.55 per 24 hours. It is perfect for the last mile between a train station and your destination. You need a personal OV-chipkaart with the OV-fiets feature activated."
 ---
 
-If there is one thing that defines daily life in the Netherlands, it is the bicycle. The Netherlands has more bicycles than people -- approximately 23 million bikes for 18 million residents. Cycling is not a hobby here; it is the primary mode of transport for millions of Dutch people for commuting, shopping, socializing, and everything in between.
+My Dutch mother cycles everywhere in any weather without a second thought. When I moved here from the UK, I thought I could do the same. My first ride through Amsterdam rush hour nearly ended me -- three near-misses, a wrong turn into a tram lane, and the discovery that hand signals are not optional. A decade later, I cannot imagine life without my bike. Here is everything I have learned about cycling in the Netherlands so your transition is smoother than mine.
 
-As an expat, embracing cycling will transform your experience in the Netherlands. This guide covers everything you need to know: buying or renting a bike, understanding traffic rules, staying safe, and navigating Dutch cycling culture.
-
-*This article contains affiliate links. We may earn a commission if you purchase through our links, at no extra cost to you.*
+*This article contains affiliate links. I may earn a small commission if you purchase through my links, at no extra cost to you.*
 
 ## Why Cycling is Essential in the Netherlands
 

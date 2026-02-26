@@ -6,6 +6,8 @@ categories: ["daily-life"]
 tags: ["grocery delivery", "albert heijn", "jumbo", "picnic", "flink", "supermarket netherlands", "food delivery"]
 keywords: ["grocery delivery netherlands", "albert heijn delivery", "picnic app", "best supermarket netherlands", "online grocery shopping netherlands"]
 affiliate: true
+author: "Sarah van den Berg"
+author_bio: "Expat coach and relocation specialist. Half Dutch, half British, living in the Netherlands for over 10 years."
 featured_image: "/images/categories/daily-life.svg"
 faq:
   - q: "Which grocery delivery service is cheapest in the Netherlands?"
@@ -24,13 +26,9 @@ faq:
     a: "Albert Heijn and Jumbo offer same-day delivery if you order early enough (usually before noon). Picnic delivers the next day at the earliest. Flash delivery services (Flink, Getir) deliver within minutes on the same day but have limited product ranges."
 ---
 
-The Netherlands has one of the most developed grocery delivery ecosystems in Europe. Whether you prefer planned weekly deliveries, same-day orders, or groceries at your door within 15 minutes, there is a service that fits your lifestyle.
+In my first week in the Netherlands, I tried to carry four bags of groceries up three flights of those impossibly steep Dutch stairs. Never again. That is when I discovered the wonderful world of Dutch grocery delivery, and honestly, it has been one of the small luxuries that makes expat life easier. I have tested every major service over the years, and here is my comparison to help you find the one that fits your shopping habits.
 
-For expats, grocery delivery is particularly useful in the first weeks after arrival. You might not have a bicycle with a crate yet, you are still learning where the nearest supermarket is, and carrying heavy bags up steep Dutch stairs is no fun.
-
-This guide compares the best grocery delivery services available in the Netherlands in 2026, with practical tips for expats.
-
-*This article contains affiliate links. We may earn a commission if you purchase through our links, at no extra cost to you.*
+*This article contains affiliate links. I may earn a small commission if you purchase through my links, at no extra cost to you.*
 
 ## Quick Comparison
 

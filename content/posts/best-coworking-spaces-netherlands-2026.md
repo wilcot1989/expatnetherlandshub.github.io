@@ -6,6 +6,8 @@ categories: ["work"]
 tags: ["coworking", "remote work", "office space", "freelance", "expat work"]
 keywords: ["coworking Netherlands", "best coworking Amsterdam", "coworking space expats", "remote work Netherlands"]
 affiliate: true
+author: "Sarah van den Berg"
+author_bio: "Expat coach and relocation specialist. Half Dutch, half British, living in the Netherlands for over 10 years."
 featured_image: "/images/categories/work.svg"
 faq:
   - q: "How much does coworking cost in the Netherlands?"
@@ -22,11 +24,9 @@ faq:
     a: "Key factors: location (near public transport), internet speed (minimum 100 Mbps), community and networking events, meeting room availability, flexible contracts (monthly cancellable), kitchen/coffee facilities, printing, and whether the atmosphere matches your work style (quiet vs social)."
 ---
 
-Whether you're a freelancer, remote worker, or building a startup, coworking spaces offer more than just a desk. They provide community, networking opportunities, and a professional environment — all essential when you're building a life in a new country.
+After years of working from my tiny Amsterdam apartment -- hunched over a kitchen table, fighting for WiFi with my housemates -- I finally tried a coworking space. It changed everything. Not just for productivity, but for my social life as an expat. Some of my closest friends in the Netherlands are people I met at a shared desk. Here is my guide to the best coworking spaces for expats across the country.
 
-The Netherlands has a thriving coworking scene, especially in the Randstad. Here's our guide to the best spaces for expats.
-
-*This article contains affiliate links. We may earn a commission if you purchase through our links, at no extra cost to you.*
+*This article contains affiliate links. I may earn a small commission if you purchase through my links, at no extra cost to you.*
 
 Working as a freelancer? Read our [complete ZZP guide](/posts/freelancer-zzp-guide-netherlands-2026/) for registration and taxes.
 

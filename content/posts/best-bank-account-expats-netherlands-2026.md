@@ -6,6 +6,8 @@ categories: ["finance"]
 tags: ["dutch bank account", "expat banking", "wise", "bunq", "n26", "ing netherlands", "abn amro"]
 keywords: ["best bank expats netherlands", "dutch bank account expat", "open bank account netherlands", "best bank netherlands english", "expat banking netherlands 2026"]
 affiliate: true
+author: "Sarah van den Berg"
+author_bio: "Expat coach and relocation specialist. Half Dutch, half British, living in the Netherlands for over 10 years."
 featured_image: "/images/categories/finance.svg"
 faq:
   - q: "Can I open a Dutch bank account without a BSN?"
@@ -24,13 +26,9 @@ faq:
     a: "Wise is not a traditional bank, but an authorized Electronic Money Institution regulated in Europe. Your Wise account comes with a genuine Dutch IBAN that works for salary deposits, direct debits, and all standard banking functions in the Netherlands. For most expats, it functions identically to a traditional bank account for daily use."
 ---
 
-Opening a bank account is one of the first practical steps when you move to the Netherlands. You need it to receive your salary, pay rent, set up health insurance direct debits, and handle everyday purchases in a country where cash is increasingly rare.
+When I arrived in the Netherlands, I spent two weeks without a functioning bank account -- which meant no salary payment, no iDEAL for online shopping, and my British card being declined at the Albert Heijn self-checkout. It was a mess. I have since opened accounts at almost every bank on this list, and I guide my expat clients through this decision every week. Here are the 7 best banking options for expats in 2026 and which one suits your situation.
 
-But which bank should you choose? The Dutch banking landscape offers a mix of established traditional banks and modern digital alternatives, each with different strengths for expats.
-
-We compared the 7 most popular banking options for expats in the Netherlands in 2026 across the criteria that matter most: ease of opening, fees, English-language support, international transfer capabilities, and app quality.
-
-*This article contains affiliate links. We may earn a commission if you purchase through our links, at no extra cost to you.*
+*This article contains affiliate links. I may earn a small commission if you purchase through my links, at no extra cost to you.*
 
 ## Quick Comparison Table
 
@@ -181,7 +179,7 @@ The free tier is genuinely useful. You get a real bank account with a German IBA
 
 ### Our Verdict
 
-N26 is a solid free option for a secondary account or for expats who also spend time in other European countries. However, the German IBAN can cause practical issues in the Netherlands, so we recommend pairing it with a Wise or Bunq account. [Open an N26 account here]({{n26_link}}).
+N26 is a solid free option for a secondary account or for expats who also spend time in other European countries. However, the German IBAN can cause practical issues in the Netherlands, so I recommend pairing it with a Wise or Bunq account. [Open an N26 account here]({{n26_link}}).
 
 ---
 
@@ -347,7 +345,7 @@ If you shop online frequently in the Netherlands, having a bank account with iDE
 
 ## Final Recommendation
 
-For most expats arriving in the Netherlands in 2026, we recommend this two-account setup:
+For most expats arriving in the Netherlands in 2026, I recommend this two-account setup:
 
 1. **[Wise](https://wise.com/invite/ihpc/willemt52)** as your first and international account (open before you arrive)
 2. **ING or [Bunq]({{bunq_link}})** as your primary Dutch bank for everyday use (open after receiving your BSN)

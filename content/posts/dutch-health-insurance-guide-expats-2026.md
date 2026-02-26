@@ -6,6 +6,8 @@ categories: ["finance"]
 tags: ["dutch health insurance", "basisverzekering", "zorgtoeslag", "expat insurance", "eigen risico", "health insurance netherlands"]
 keywords: ["dutch health insurance expats", "health insurance netherlands", "basisverzekering expats", "dutch health insurance 2026", "mandatory health insurance netherlands"]
 affiliate: true
+author: "Sarah van den Berg"
+author_bio: "Expat coach and relocation specialist. Half Dutch, half British, living in the Netherlands for over 10 years."
 featured_image: "/images/categories/finance.svg"
 faq:
   - q: "Is health insurance mandatory in the Netherlands?"
@@ -24,11 +26,9 @@ faq:
     a: "You can switch your basic health insurance provider once per year during the open enrollment period, which runs from mid-November to December 31. Your new policy starts on January 1 of the following year. You do not need to give a reason for switching, and the new insurer must accept you regardless of your health status. Supplementary insurance can be switched at the same time, but the new insurer may reject your supplementary application based on health screening."
 ---
 
-The Dutch healthcare system is consistently ranked among the best in the world. It combines universal access with competition between private insurers, resulting in high-quality care for everyone. But for expats arriving in the Netherlands, the system can seem confusing at first, especially the mandatory insurance requirement, the terminology, and the process of choosing a provider.
+Dutch health insurance confused me more than almost anything else when I first moved here. Basisverzekering, eigen risico, zorgtoeslag -- the terminology alone is enough to make your head spin. And then you find out it is mandatory and you have only four months to sort it out. After navigating the system myself and helping hundreds of clients choose the right policy, I can tell you it is actually one of the best healthcare setups in the world. You just need to know how it works.
 
-This guide explains everything you need to know about Dutch health insurance as an expat in 2026, from the legal requirements to practical advice on choosing the right policy.
-
-*This article contains affiliate links. We may earn a commission if you purchase through our links, at no extra cost to you.*
+*This article contains affiliate links. I may earn a small commission if you purchase through my links, at no extra cost to you.*
 
 ## How the Dutch Health Insurance System Works: Overview
 

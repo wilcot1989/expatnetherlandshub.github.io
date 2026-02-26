@@ -51,11 +51,19 @@
     {{ end }}
 
     <div class="author-box">
+      {{ if .Params.author }}
+      <div class="author-avatar">{{ index (split .Params.author " ") 0 | truncate 1 "" }}{{ index (split .Params.author " ") 1 | truncate 1 "" }}</div>
+      <div class="author-info">
+        <div class="author-name">{{ .Params.author }}</div>
+        <div class="author-bio">{{ with .Params.author_bio }}{{ . }}{{ else }}Expat coach and relocation specialist at Expat Netherlands Hub.{{ end }}</div>
+      </div>
+      {{ else }}
       <div class="author-avatar">ENH</div>
       <div class="author-info">
         <div class="author-name">Expat Netherlands Hub Team</div>
-        <div class="author-bio">Our team of expats and local experts creates practical guides to help you navigate life in the Netherlands. Every recommendation is based on first-hand experience.</div>
+        <div class="author-bio">Our team of expats and local experts creates practical guides to help you navigate life in the Netherlands.</div>
       </div>
+      {{ end }}
     </div>
 
     {{ $allOther := where (where .Site.RegularPages "Type" "posts") ".Permalink" "ne" .Permalink }}

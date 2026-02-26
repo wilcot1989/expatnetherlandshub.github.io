@@ -6,6 +6,8 @@ categories: ["relocation"]
 tags: ["housing netherlands", "rent apartment netherlands", "expat housing", "dutch rental market", "funda", "pararius"]
 keywords: ["finding housing netherlands", "rent apartment netherlands expat", "housing netherlands expat", "dutch housing market 2026", "rent in amsterdam expat"]
 affiliate: true
+author: "Sarah van den Berg"
+author_bio: "Expat coach and relocation specialist. Half Dutch, half British, living in the Netherlands for over 10 years."
 featured_image: "/images/categories/relocation.svg"
 faq:
   - q: "How much does it cost to rent an apartment in the Netherlands in 2026?"
@@ -24,11 +26,9 @@ faq:
     a: "In major cities like Amsterdam, The Hague, and Utrecht, expect the search to take 4-8 weeks in a competitive market. In smaller cities, 2-4 weeks is more realistic. The timeline depends on your budget, flexibility on location, and how quickly you can respond to new listings. Having all documents ready, being available for immediate viewings, and considering a slightly wider search area all speed up the process significantly."
 ---
 
-Finding a place to live is consistently ranked as the single biggest challenge for expats moving to the Netherlands. The Dutch housing market is tight, competitive, and in many cities, expensive. Demand far outstrips supply, particularly in the Randstad (Amsterdam, Rotterdam, The Hague, and Utrecht), and the process of securing a rental property can be stressful for newcomers unfamiliar with the system.
+Finding housing in the Netherlands nearly defeated me. I spent six weeks refreshing Funda and Pararius obsessively, lost out on three apartments because I was five minutes too slow to respond, and almost fell for a scam listing that seemed too good to be true (because it was). It is, without question, the hardest part of moving here. But after going through it myself and guiding hundreds of clients through the same process, I know it is absolutely doable if you have the right strategy. Here is everything I have learned.
 
-But it is far from impossible. With the right strategy, realistic expectations, and advance preparation, you can find a good home in the Netherlands. This guide covers everything you need to know: where to search, how much to budget, what to watch out for, and how to navigate the Dutch rental market successfully.
-
-*This article contains affiliate links. We may earn a commission if you purchase through our links, at no extra cost to you.*
+*This article contains affiliate links. I may earn a small commission if you purchase through my links, at no extra cost to you.*
 
 ## The Dutch Housing Market in 2026: An Overview
 

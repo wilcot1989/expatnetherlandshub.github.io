@@ -6,6 +6,8 @@ categories: ["finance"]
 tags: ["tax return", "belastingaangifte", "30% ruling", "tax deductions", "expat tax"]
 keywords: ["Dutch tax return expat", "file taxes Netherlands", "belastingaangifte expat", "30% ruling tax return"]
 affiliate: true
+author: "Sarah van den Berg"
+author_bio: "Expat coach and relocation specialist. Half Dutch, half British, living in the Netherlands for over 10 years."
 featured_image: "/images/categories/finance.svg"
 faq:
   - q: "Do I need to file a tax return in the Netherlands as an expat?"
@@ -22,11 +24,9 @@ faq:
     a: "Recommended in these situations: your first year in the Netherlands (M-form is complex), you have the 30% ruling, you have income from multiple countries, you own property in the Netherlands or abroad, or you're a freelancer (ZZP). Tax advisors specialized in expats cost €150-€500 for a standard return. They often find deductions that more than cover their fee."
 ---
 
-Filing your Dutch tax return (belastingaangifte) can be surprisingly complex as an expat — between the M-form, 30% ruling, international income, and unfamiliar deductions. But it's also an opportunity: many expats are entitled to a refund and don't know it.
+My first Dutch tax return took me an entire weekend and two panicked calls to a friend who is an accountant. The M-form alone nearly broke me. But here is the thing -- I got a refund of over eight hundred euros that year, money I would have left on the table if I had not filed. I have since helped many clients through the process, and most of them get money back too. Here is exactly how to file your Dutch tax return, step by step.
 
-This guide walks you through the entire process, step by step.
-
-*This article contains affiliate links. We may earn a commission if you purchase through our links, at no extra cost to you.*
+*This article contains affiliate links. I may earn a small commission if you purchase through my links, at no extra cost to you.*
 
 For background on the Dutch tax system, read our [tax system overview](/posts/dutch-tax-system-expats-2026/).
 

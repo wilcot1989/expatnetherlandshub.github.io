@@ -6,6 +6,8 @@ categories: ["housing"]
 tags: ["The Hague", "Den Haag", "expat housing", "international city", "relocation"]
 keywords: ["moving to The Hague", "The Hague expat guide", "living in Den Haag", "The Hague neighborhoods"]
 affiliate: true
+author: "Sarah van den Berg"
+author_bio: "Expat coach and relocation specialist. Half Dutch, half British, living in the Netherlands for over 10 years."
 featured_image: "/images/categories/housing.svg"
 faq:
   - q: "Is The Hague a good city for expats?"
@@ -22,11 +24,9 @@ faq:
     a: "The Hague has excellent public transport. By train: Amsterdam (50 min), Rotterdam (25 min), Utrecht (40 min), Leiden (15 min). The Hague has two main stations (Centraal and HS) with frequent intercity connections. Schiphol Airport is 30 minutes by train."
 ---
 
-The Hague (Den Haag) is the Netherlands' city of peace and justice — home to the International Court of Justice, over 200 international organizations, and the largest international community in the country. While Amsterdam gets the tourist attention, The Hague is where many expats choose to live.
+If I had to recommend one Dutch city for expat families, it would be The Hague. I know that is a bold statement, but hear me out: the largest international community in the Netherlands, excellent international schools, a beach you can cycle to in fifteen minutes, and housing prices that will not make you cry (as much as Amsterdam). Many of my clients end up here, and almost none of them regret it. Here is why -- and how to make the move.
 
-With its beach access, elegant architecture, international schools, and a cost of living lower than Amsterdam, The Hague offers a quality of life that is hard to beat for international professionals and families.
-
-*This article contains affiliate links. We may earn a commission if you purchase through our links, at no extra cost to you.*
+*This article contains affiliate links. I may earn a small commission if you purchase through my links, at no extra cost to you.*
 
 New to the Netherlands? Start with our [complete moving guide](/posts/moving-to-netherlands-guide-2026/) and set up your [DigiD](/posts/digid-guide-expats-2026/).
 
@@ -145,7 +145,7 @@ Benoordenhout is where many ambassadors and diplomats live. It borders the Haags
 - **Your income should be 3x the monthly rent** — This is a standard requirement
 - **International real estate agents** — VGM NL, JANSEN International, and Expat Housing Network specialize in expat rentals
 - **Housing scams exist** — Never transfer money before viewing a property in person
-- **Check the energy label** — Higher labels mean lower energy costs. See our guide on the [Dutch energy market](/posts/energy-providers-expats-netherlands-2026/)
+- **Check the energy label** — Higher labels mean lower energy costs. See my guide on the [Dutch energy market](/posts/energy-providers-expats-netherlands-2026/)
 
 ### Buying Property
 

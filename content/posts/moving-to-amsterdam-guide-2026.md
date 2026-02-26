@@ -6,6 +6,8 @@ categories: ["relocation"]
 tags: ["amsterdam", "moving to amsterdam", "amsterdam expat", "amsterdam neighborhoods", "amsterdam housing", "relocation"]
 keywords: ["moving to amsterdam", "amsterdam expat guide", "living in amsterdam", "amsterdam relocation", "amsterdam neighborhoods expats"]
 affiliate: true
+author: "Sarah van den Berg"
+author_bio: "Expat coach and relocation specialist. Half Dutch, half British, living in the Netherlands for over 10 years."
 featured_image: "/images/categories/relocation.svg"
 faq:
   - q: "How much does it cost to live in Amsterdam?"
@@ -24,13 +26,11 @@ faq:
     a: "Spring (April-May) and late summer (August-September) are the most popular times. The housing market is slightly less competitive in winter (November-February), which can be advantageous. If you have children, aim to arrive before the school year starts in late August or early September."
 ---
 
-Amsterdam is one of the most popular destinations for expats moving to the Netherlands. The city combines historic charm with a progressive, international atmosphere. Canals, world-class museums, a thriving food scene, and easy access to the rest of Europe make it an attractive place to live.
-
-But moving to Amsterdam also comes with challenges: finding housing in a notoriously tight market, navigating Dutch bureaucracy, and adjusting to the cost of living. This guide covers everything you need to know to make your move to Amsterdam successful in 2026.
+Amsterdam is where I landed when I first moved to the Netherlands, and I have a complicated relationship with it. I love the canals, the energy, the fact that you can cycle everywhere. I do not love the housing prices, the tourist crowds in the Centrum, or the time I spent three months looking for an apartment and nearly gave up. But there is a reason most expats are drawn here, and once you are settled, it is a brilliant city to call home. Here is the honest guide I wish I had when I arrived.
 
 For a broader perspective on moving to the Netherlands as a whole, read our [Complete Guide to Moving to the Netherlands 2026](/posts/complete-guide-moving-to-netherlands-2026/).
 
-*This article contains affiliate links. We may earn a commission if you purchase through our links, at no extra cost to you.*
+*This article contains affiliate links. I may earn a small commission if you purchase through my links, at no extra cost to you.*
 
 ## Before You Move: Essential Preparation
 
@@ -48,7 +48,7 @@ If you qualify for the 30% ruling, a significant portion of your salary is tax-f
 
 Before arriving in Amsterdam:
 
-1. **Open a <a href="https://wise.com/invite/ihpc/willemt52" rel="nofollow sponsored" target="_blank">Wise account</a>** to get a Dutch IBAN before you arrive. This allows you to receive salary payments and set up direct debits from day one. Read our guide on the [best bank accounts for expats](/posts/best-bank-account-expats-netherlands-2026/).
+1. **Open a <a href="https://wise.com/invite/ihpc/willemt52" rel="nofollow sponsored" target="_blank">Wise account</a>** to get a Dutch IBAN before you arrive. This allows you to receive salary payments and set up direct debits from day one. Read my guide on the [best bank accounts for expats](/posts/best-bank-account-expats-netherlands-2026/).
 2. **Budget for upfront housing costs**: Expect to pay 2-3 months' rent upfront (first month plus deposit). For an average Amsterdam apartment, that means EUR 2,400-6,000 available immediately.
 3. **Arrange health insurance**: Dutch health insurance (zorgverzekering) is mandatory. Research options before arriving. See our [Dutch health insurance guide for expats](/posts/dutch-health-insurance-guide-expats-2026/).
 4. **Transfer money at good rates**: Use <a href="https://wise.com/invite/ihpc/willemt52" rel="nofollow sponsored" target="_blank">Wise</a> or a similar service for international transfers instead of traditional banks. Read our [international money transfer guide](/posts/best-international-money-transfer-netherlands-2026/).
@@ -254,7 +254,7 @@ Amsterdam has a vibrant professional networking scene:
 
 While Amsterdam is highly English-friendly, learning Dutch enriches your experience and demonstrates respect for local culture. It also opens career opportunities outside the international bubble.
 
-- Read our guide on the [best apps to learn Dutch](/posts/best-apps-learn-dutch-2026/)
+- Read my guide on the [best apps to learn Dutch](/posts/best-apps-learn-dutch-2026/)
 - Compare [Babbel vs Duolingo for learning Dutch](/posts/babbel-vs-duolingo-learn-dutch-2026/)
 - Explore [Dutch language courses](/posts/best-dutch-language-courses-2026/)
 

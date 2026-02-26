@@ -6,6 +6,8 @@ categories: ["relocation"]
 tags: ["Utrecht", "moving to Utrecht", "expat city guide", "Netherlands cities", "relocation"]
 keywords: ["moving to Utrecht expat", "Utrecht expat guide 2026", "living in Utrecht", "Utrecht neighborhoods expats"]
 affiliate: true
+author: "Sarah van den Berg"
+author_bio: "Expat coach and relocation specialist. Half Dutch, half British, living in the Netherlands for over 10 years."
 featured_image: "/images/categories/relocation.svg"
 faq:
   - q: "Is Utrecht good for expats?"
@@ -22,11 +24,9 @@ faq:
     a: "Search on Funda.nl, Pararius.nl (English), and Kamernet.nl. Use a rental agent (makelaar) for faster results — they charge 1 month's rent. Average response time is 2-4 weeks. Arrive with documents ready: employment contract, ID, salary slips, employer letter. The rental market is competitive but less extreme than Amsterdam."
 ---
 
-Utrecht is often called the Netherlands' best-kept secret. While Amsterdam gets the headlines, Utrecht offers the same Dutch charm — historic canals, vibrant culture, excellent cycling infrastructure — at lower costs, with less tourist crowds and a warmer community feel.
+Every time I visit Utrecht, I think about moving there. It has everything I love about Amsterdam -- the canals, the cafe culture, the cycling -- but without the tourist crowds and with a community feel that is hard to find in bigger cities. It is also the most central city in the Netherlands, which means everywhere is a short train ride away. More and more of my clients are choosing Utrecht over Amsterdam, and I completely understand why.
 
-Located at the geographic center of the Netherlands, Utrecht puts every major city within 30-60 minutes by train. It's no wonder the city is attracting more international talent every year.
-
-*This article contains affiliate links. We may earn a commission if you purchase through our links, at no extra cost to you.*
+*This article contains affiliate links. I may earn a small commission if you purchase through my links, at no extra cost to you.*
 
 New to the Netherlands? Start with our [complete expat guide](/posts/moving-to-netherlands-guide-2026/).
 

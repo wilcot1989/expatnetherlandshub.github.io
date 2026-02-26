@@ -6,6 +6,8 @@ categories: ["relocation"]
 tags: ["highly skilled migrant", "kennismigrant", "work visa", "IND", "immigration"]
 keywords: ["highly skilled migrant visa Netherlands", "kennismigrant visa", "work permit Netherlands", "IND visa application"]
 affiliate: true
+author: "Sarah van den Berg"
+author_bio: "Expat coach and relocation specialist. Half Dutch, half British, living in the Netherlands for over 10 years."
 featured_image: "/images/categories/relocation.svg"
 faq:
   - q: "What is the salary requirement for a highly skilled migrant visa in 2026?"
@@ -22,11 +24,9 @@ faq:
     a: "Yes, after 5 years of continuous legal residence in the Netherlands, you can apply for permanent residency or Dutch citizenship. Note that for citizenship, you will need to pass the inburgeringsexamen, which includes a Dutch language test at A2 level."
 ---
 
-The highly skilled migrant visa (kennismigrantenregeling) is the most popular route for skilled professionals to live and work in the Netherlands. It is used by tech workers, engineers, researchers, and other professionals recruited by Dutch companies. In 2025 alone, more than 25,000 highly skilled migrant permits were granted.
+Most of my expat clients come to the Netherlands on a highly skilled migrant visa, and the good news is that it is one of the smoother immigration processes I have seen. Your employer does most of the heavy lifting, and the turnaround is surprisingly fast. That said, I have watched a few applications hit unnecessary snags because of avoidable mistakes. Here is the step-by-step guide I give every client to make sure everything goes right the first time.
 
-The process is relatively straightforward compared to many other countries — your employer handles most of the paperwork, and the typical processing time is just 2-4 weeks. But there are important requirements and steps to understand before you begin.
-
-*This article contains affiliate links. We may earn a commission if you purchase through our links, at no extra cost to you.*
+*This article contains affiliate links. I may earn a small commission if you purchase through my links, at no extra cost to you.*
 
 Planning your move? Read our [complete guide to moving to the Netherlands](/posts/complete-guide-moving-to-netherlands-2026/) for the full picture.
 
@@ -142,7 +142,7 @@ Your partner can apply for a dependent residence permit simultaneously. They wil
 - Notarized cohabitation agreement
 
 ### Children
-Children under 18 can join you on dependent permits. They can attend school immediately — see our guide to [international schools](/posts/international-schools-netherlands-2026/) or the Dutch education system.
+Children under 18 can join you on dependent permits. They can attend school immediately — see my guide to [international schools](/posts/international-schools-netherlands-2026/) or the Dutch education system.
 
 ### Parents/Other Family
 Parents and other extended family members generally cannot join you under the highly skilled migrant scheme. They would need to apply under the regular family reunification rules, which have stricter income requirements.

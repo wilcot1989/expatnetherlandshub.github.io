@@ -6,6 +6,8 @@ categories: ["finance"]
 tags: ["30 percent ruling", "dutch taxes", "expat tax benefit", "highly skilled migrant", "netherlands tax", "30% ruling"]
 keywords: ["30 percent ruling netherlands", "30% ruling 2026", "dutch tax ruling expats", "30 percent ruling eligibility", "30 percent ruling salary threshold"]
 affiliate: true
+author: "Sarah van den Berg"
+author_bio: "Expat coach and relocation specialist. Half Dutch, half British, living in the Netherlands for over 10 years."
 featured_image: "/images/categories/finance.svg"
 faq:
   - q: "What is the 30% ruling in the Netherlands?"
@@ -24,11 +26,7 @@ faq:
     a: "While it is possible to handle the 30% ruling application through your employer's HR department, hiring a tax advisor who specializes in expat taxation is highly recommended, particularly if your situation involves complications such as income from multiple countries, a partner who also works, investment income, or real estate. A good tax advisor typically costs EUR 150-500 for an initial consultation and can save you thousands in optimized tax planning."
 ---
 
-The 30% ruling is one of the most valuable financial benefits available to expats in the Netherlands. For qualifying highly skilled migrants, it can reduce your effective income tax by thousands of euros per year, making the Netherlands even more attractive as a destination for international talent.
-
-But the ruling is also one of the most frequently misunderstood aspects of Dutch expat life. Eligibility criteria are strict, the rules have changed repeatedly in recent years, and the interaction with other tax provisions can be complex.
-
-This guide covers everything you need to know about the 30% ruling in 2026: what it is, who qualifies, how to apply, how much you save, and what recent legislative changes mean for current and future applicants.
+I still remember the look on my face when I first saw my Dutch payslip and realised how much of my salary was going to the Belastingdienst. If only I had known about the 30% ruling sooner. Over the past decade, I have helped dozens of expat clients navigate this tax benefit -- and I have watched the rules change more times than I can count. This guide breaks down everything you need to know about the 30% ruling in 2026: who qualifies, how to apply, what has changed, and how to avoid the mistakes I see people make every year.
 
 ## What is the 30% Ruling?
 

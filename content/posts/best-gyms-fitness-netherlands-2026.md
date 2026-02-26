@@ -6,6 +6,8 @@ categories: ["lifestyle"]
 tags: ["gym Netherlands", "fitness", "sports club", "Basic-Fit", "expat fitness"]
 keywords: ["best gym Netherlands", "fitness Netherlands expat", "gym membership NL", "sports clubs Netherlands"]
 affiliate: true
+author: "Sarah van den Berg"
+author_bio: "Expat coach and relocation specialist. Half Dutch, half British, living in the Netherlands for over 10 years."
 featured_image: "/images/categories/lifestyle.svg"
 faq:
   - q: "How much does a gym membership cost in the Netherlands?"
@@ -22,11 +24,9 @@ faq:
     a: "Daily cycling for transport provides a great baseline of cardio fitness — the average Dutch person cycles 3 km/day. However, cycling at commuting pace doesn't fully replace strength training, flexibility work, or intense cardio. Many Dutch people combine daily cycling with gym, running, or sports club membership."
 ---
 
-Staying fit in the Netherlands is easy — cycling is built into daily life, parks are everywhere, and there's a gym or sports club on almost every corner. But navigating the Dutch fitness landscape as an expat can be confusing: which gym chain is worth it? What's a sportvereniging? And why is everyone playing field hockey?
+When I first moved here, I assumed all the cycling would keep me fit. It does help, but after a year of only biking to the supermarket, I realised I needed something more. I have since tried everything from Basic-Fit to a local hockey club -- yes, field hockey, the Dutch obsession I never expected to love. Here is my guide to staying fit in the Netherlands as an expat.
 
-Here's your complete guide to fitness in the Netherlands.
-
-*This article contains affiliate links. We may earn a commission if you purchase through our links, at no extra cost to you.*
+*This article contains affiliate links. I may earn a small commission if you purchase through my links, at no extra cost to you.*
 
 ## Best Gym Chains in the Netherlands
 

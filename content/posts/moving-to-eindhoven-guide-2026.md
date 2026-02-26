@@ -6,6 +6,8 @@ categories: ["housing"]
 tags: ["Eindhoven", "expat guide", "tech hub", "Brainport", "relocation"]
 keywords: ["moving to Eindhoven", "Eindhoven expat guide", "living in Eindhoven", "Brainport region"]
 affiliate: true
+author: "Sarah van den Berg"
+author_bio: "Expat coach and relocation specialist. Half Dutch, half British, living in the Netherlands for over 10 years."
 featured_image: "/images/categories/housing.svg"
 faq:
   - q: "Is Eindhoven good for expats?"
@@ -22,11 +24,9 @@ faq:
     a: "Yes, the International School Eindhoven (ISE) offers IB curriculum from age 4-18. The Mondial College has an International Transition Class. Tuition at ISE ranges from €8,000-€18,000/year. Many tech companies cover or subsidize school fees as part of relocation packages."
 ---
 
-Eindhoven has transformed from a quiet industrial city into the Netherlands' thriving tech hub. Known as the heart of the Brainport region, it is home to ASML (the world's most valuable tech company), Philips, NXP, and a booming startup ecosystem that attracts thousands of international professionals each year.
+I will be honest: when I first visited Eindhoven years ago, I did not get the hype. It felt quiet compared to Amsterdam. Then I started working with clients relocating there for ASML, Philips, and the tech startups popping up everywhere, and I saw what they saw -- affordable housing, a genuinely international community, and a city that is growing fast without the chaos of the Randstad. I have come to really appreciate Eindhoven, and if you are moving there, you are in for a pleasant surprise.
 
-If you are moving to Eindhoven for work at ASML, a tech startup, or the Eindhoven University of Technology, this guide covers everything you need to know.
-
-*This article contains affiliate links. We may earn a commission if you purchase through our links, at no extra cost to you.*
+*This article contains affiliate links. I may earn a small commission if you purchase through my links, at no extra cost to you.*
 
 New to the Netherlands? Start with our [complete expat guide](/posts/moving-to-netherlands-guide-2026/) and work permit information in our [highly skilled migrant visa guide](/posts/highly-skilled-migrant-visa-netherlands-2026/).
 
