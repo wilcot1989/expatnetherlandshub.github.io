@@ -28,7 +28,6 @@ faq:
 
 My first Dutch tax return took me an entire weekend and two panicked calls to a friend who is an accountant. The M-form alone nearly broke me. But here is the thing -- I got a refund of over eight hundred euros that year, money I would have left on the table if I had not filed. I have since helped many clients through the process, and most of them get money back too. Here is exactly how to file your Dutch tax return, step by step.
 
-*This article contains affiliate links. I may earn a small commission if you purchase through my links, at no extra cost to you.*
 
 For background on the Dutch tax system, read our [tax system overview](/posts/dutch-tax-system-expats-2026/).
 

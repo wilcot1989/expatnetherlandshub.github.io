@@ -30,7 +30,6 @@ faq:
 
 When I arrived in the Netherlands, I spent two weeks without a functioning bank account -- which meant no salary payment, no iDEAL for online shopping, and my British card being declined at the Albert Heijn self-checkout. It was a mess. I have since opened accounts at almost every bank on this list, and I guide my expat clients through this decision every week. Here are the 7 best banking options for expats in 2026 and which one suits your situation.
 
-*This article contains affiliate links. I may earn a small commission if you purchase through my links, at no extra cost to you.*
 
 ## Quick Comparison Table
 

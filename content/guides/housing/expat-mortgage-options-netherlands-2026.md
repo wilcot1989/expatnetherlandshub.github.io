@@ -28,7 +28,6 @@ faq:
 
 After years of renting in the Netherlands, I finally decided to buy -- and immediately discovered that the 30% ruling, which had been saving me money on taxes, was now working against me when it came to mortgage borrowing capacity. Nobody had warned me about that. The process of buying a house as an expat is completely doable, but it comes with a few surprises. Here is the step-by-step guide I put together from my own experience and from helping clients through the process.
 
-*This article contains affiliate links. I may earn a small commission if you purchase through my links, at no extra cost to you.*
 
 New to the Netherlands? Start with our [complete expat guide](/posts/moving-to-netherlands-guide-2026/) and explore [neighborhoods in The Hague](/posts/moving-to-the-hague-guide-2026/).
 

@@ -30,7 +30,6 @@ faq:
 
 Even with a Dutch mother, I spent my first year in the Netherlands smiling and nodding through conversations I only half understood. That is what motivated me to test every Dutch learning app I could find -- and I have been recommending them to my expat clients ever since. Here are the 7 best apps for learning Dutch in 2026, based on years of personal use and real feedback from hundreds of learners.
 
-*This article contains affiliate links. I may earn a small commission if you purchase through my links, at no extra cost to you.*
 
 ## Quick Comparison Table
 

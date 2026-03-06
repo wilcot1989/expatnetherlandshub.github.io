@@ -28,7 +28,6 @@ faq:
 
 After years of working from my tiny Amsterdam apartment -- hunched over a kitchen table, fighting for WiFi with my housemates -- I finally tried a coworking space. It changed everything. Not just for productivity, but for my social life as an expat. Some of my closest friends in the Netherlands are people I met at a shared desk. Here is my guide to the best coworking spaces for expats across the country.
 
-*This article contains affiliate links. I may earn a small commission if you purchase through my links, at no extra cost to you.*
 
 Working as a freelancer? Read our [complete ZZP guide](/posts/freelancer-zzp-guide-netherlands-2026/) for registration and taxes.
 

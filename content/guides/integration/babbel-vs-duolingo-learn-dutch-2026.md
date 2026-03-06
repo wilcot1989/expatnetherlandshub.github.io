@@ -30,7 +30,6 @@ faq:
 
 Growing up half-Dutch, I thought I had a head start on the language. I did not. When I moved to the Netherlands, I tried both Babbel and Duolingo to fill in the embarrassing gaps in my Dutch, and I was surprised how different the experience was on each. I have since recommended both apps to hundreds of expat clients, and the question I get most is: "Which one should I actually use?" Here is my honest side-by-side comparison after years of testing and real-world feedback.
 
-*This article contains affiliate links. I may earn a small commission if you purchase through my links, at no extra cost to you.*
 
 ## Quick Comparison Table
 

@@ -28,7 +28,6 @@ faq:
 
 The first time someone asked me "Do you have a DigiD?" I had absolutely no idea what they were talking about. Turns out, it is the key to basically everything official in the Netherlands -- taxes, health insurance, subsidies, you name it. I put off setting mine up for weeks and regretted it immediately. Do not make my mistake. Here is how to get your DigiD sorted quickly and painlessly.
 
-*This article contains affiliate links. I may earn a small commission if you purchase through my links, at no extra cost to you.*
 
 Just arrived? Start with our [complete guide to moving to the Netherlands](/posts/complete-guide-moving-to-netherlands-2026/).
 

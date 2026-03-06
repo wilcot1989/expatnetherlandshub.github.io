@@ -28,7 +28,6 @@ faq:
 
 If there is one thing I tell expat parents immediately, it is this: register for daycare now. Not when you arrive, not when you are settled -- now. Waiting lists in Dutch cities can be over a year, and I have seen families scramble for emergency childcare because they did not register in time. The Dutch childcare system is actually excellent once you understand it, and the subsidies can save you thousands. Here is the guide I wish I could hand to every expat parent at the airport.
 
-*This article contains affiliate links. I may earn a small commission if you purchase through my links, at no extra cost to you.*
 
 New to the Netherlands? Start with our [complete expat guide](/posts/moving-to-netherlands-guide-2026/) and set up your [DigiD](/posts/digid-guide-expats-2026/) (needed for subsidy applications).
 

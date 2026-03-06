@@ -28,7 +28,6 @@ faq:
 
 Choosing a school is the decision that keeps my expat parent clients up at night more than anything else -- even more than housing. I get it. IB or British curriculum? Is it worth paying twenty thousand euros a year? Will my child be okay switching mid-year? Having gone through international schooling myself as a half-British, half-Dutch kid, and now advising families on this decision regularly, I know how much it matters. Here is my guide to help you make the right call.
 
-*This article contains affiliate links. I may earn a small commission if you purchase through my links, at no extra cost to you.*
 
 New to the Netherlands? Start with our [complete guide to moving to the Netherlands](/posts/complete-guide-moving-to-netherlands-2026/) for the full picture.
 

@@ -28,7 +28,6 @@ faq:
 
 I accidentally left my energy contract on the default provider for six months after moving into my apartment and massively overpaid. Turns out, switching energy providers in the Netherlands is free and takes five minutes -- I just did not know that. It is one of those things nobody tells you when you arrive. Here is how to choose the right energy contract from the start so you do not repeat my expensive mistake.
 
-*This article contains affiliate links. I may earn a small commission if you purchase through my links, at no extra cost to you.*
 
 New to the Netherlands? Start with our [complete expat guide](/posts/moving-to-netherlands-guide-2026/).
 

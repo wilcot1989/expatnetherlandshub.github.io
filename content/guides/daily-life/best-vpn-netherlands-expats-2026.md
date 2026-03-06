@@ -30,7 +30,6 @@ faq:
 
 The day I moved to the Netherlands and tried to watch BBC iPlayer, I got that dreaded "not available in your region" message. Ten years on, I still use a VPN almost daily -- for streaming British telly, accessing my UK bank account without getting flagged, and protecting my data on cafe WiFi. It is one of those expat essentials nobody tells you about until you need it. Here are the VPNs I actually recommend to my clients in 2026.
 
-*This article contains affiliate links. I may earn a small commission if you purchase through my links, at no extra cost to you.*
 
 ## Quick Comparison: Best VPNs for Expats in the Netherlands
 

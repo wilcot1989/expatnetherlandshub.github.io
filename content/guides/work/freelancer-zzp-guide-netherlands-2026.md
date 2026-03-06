@@ -28,7 +28,6 @@ faq:
 
 When I registered as a ZZP at the KvK, the whole process took less than an hour. I walked in, answered some questions, paid the fee, and walked out as an officially registered Dutch freelancer. It was shockingly easy compared to the bureaucratic nightmare I had expected. The harder part comes after: figuring out taxes, insurance, invoicing, and the infamous VAT returns. I have been freelancing in the Netherlands for years and I coach other expats through it regularly. Here is the complete guide.
 
-*This article contains affiliate links. I may earn a small commission if you purchase through my links, at no extra cost to you.*
 
 New to the Netherlands? Start with our [complete expat guide](/posts/moving-to-netherlands-guide-2026/) and set up your [DigiD](/posts/digid-guide-expats-2026/).
 

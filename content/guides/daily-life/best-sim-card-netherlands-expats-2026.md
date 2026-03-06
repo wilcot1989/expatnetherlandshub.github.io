@@ -30,7 +30,6 @@ faq:
 
 The first thing I learned about Dutch social life is that everything happens on WhatsApp. Your street has a WhatsApp group. Your building has a WhatsApp group. Your kid's school has three WhatsApp groups. So getting a Dutch phone number is genuinely one of the first things you need to sort out. I have used several providers over the years and helped countless clients pick the right one, so here is my no-nonsense comparison for 2026.
 
-*This article contains affiliate links. I may earn a small commission if you purchase through my links, at no extra cost to you.*
 
 ## Quick Comparison: Best SIM Cards for Expats in the Netherlands
 

@@ -30,7 +30,6 @@ faq:
 
 As a half-Dutch, half-British person, I am technically exempt from the inburgeringsexamen. But I have coached so many clients through it that I practically know the KNM exam by heart. The biggest thing I have learned: it is not as scary as people think, but the preparation matters enormously. I have seen well-educated professionals fail because they underestimated it, and I have seen others with less formal education pass on the first try because they prepared strategically. Here is how to approach it.
 
-*This article contains affiliate links. I may earn a small commission if you purchase through my links, at no extra cost to you.*
 
 ## What Is the Inburgeringsexamen?
 

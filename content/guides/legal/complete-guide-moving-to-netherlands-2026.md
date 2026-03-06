@@ -30,7 +30,6 @@ faq:
 
 When I moved to the Netherlands over ten years ago, I thought having a Dutch mother would make everything easy. Spoiler: it did not. The bureaucracy, the housing market, the endless paperwork -- I had to figure it all out the hard way. Now, as a relocation specialist, I walk expats through this process every single week. This guide is everything I wish someone had told me before I arrived.
 
-*This article contains affiliate links. I may earn a small commission if you purchase through my links, at no extra cost to you.*
 
 ## Quick Overview: Your Moving Checklist
 

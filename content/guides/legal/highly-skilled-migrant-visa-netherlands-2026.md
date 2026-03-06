@@ -28,7 +28,6 @@ faq:
 
 Most of my expat clients come to the Netherlands on a highly skilled migrant visa, and the good news is that it is one of the smoother immigration processes I have seen. Your employer does most of the heavy lifting, and the turnaround is surprisingly fast. That said, I have watched a few applications hit unnecessary snags because of avoidable mistakes. Here is the step-by-step guide I give every client to make sure everything goes right the first time.
 
-*This article contains affiliate links. I may earn a small commission if you purchase through my links, at no extra cost to you.*
 
 Planning your move? Read our [complete guide to moving to the Netherlands](/posts/complete-guide-moving-to-netherlands-2026/) for the full picture.
 

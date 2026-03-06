@@ -30,7 +30,6 @@ faq:
 
 The first time I tried to use Dutch public transport, I tapped my anonymous OV-chipkaart, got on the train, and promptly forgot to check out. That little mistake cost me twenty euros in "boarding fare." I have since become a public transport expert out of pure self-defense. After ten years of trains, trams, buses, and the glorious OV-fiets, I know every trick to save money and avoid the pitfalls. Here is everything you need to know.
 
-*This article contains affiliate links. I may earn a small commission if you purchase through my links, at no extra cost to you.*
 
 ## The OV-chipkaart: Your Key to Dutch Public Transport
 

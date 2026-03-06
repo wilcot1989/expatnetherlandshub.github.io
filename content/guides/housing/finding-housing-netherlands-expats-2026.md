@@ -30,7 +30,6 @@ faq:
 
 Finding housing in the Netherlands nearly defeated me. I spent six weeks refreshing Funda and Pararius obsessively, lost out on three apartments because I was five minutes too slow to respond, and almost fell for a scam listing that seemed too good to be true (because it was). It is, without question, the hardest part of moving here. But after going through it myself and guiding hundreds of clients through the same process, I know it is absolutely doable if you have the right strategy. Here is everything I have learned.
 
-*This article contains affiliate links. I may earn a small commission if you purchase through my links, at no extra cost to you.*
 
 ## The Dutch Housing Market in 2026: An Overview
 

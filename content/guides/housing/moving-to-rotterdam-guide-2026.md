@@ -32,7 +32,6 @@ Rotterdam is the Dutch city that surprises everyone. My clients often arrive exp
 
 For a broader overview of relocating to the Netherlands, read our [Complete Guide to Moving to the Netherlands 2026](/posts/complete-guide-moving-to-netherlands-2026/).
 
-*This article contains affiliate links. I may earn a small commission if you purchase through my links, at no extra cost to you.*
 
 ## Why Choose Rotterdam?
 

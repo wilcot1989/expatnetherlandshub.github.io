@@ -30,7 +30,6 @@ faq:
 
 My Dutch mother cycles everywhere in any weather without a second thought. When I moved here from the UK, I thought I could do the same. My first ride through Amsterdam rush hour nearly ended me -- three near-misses, a wrong turn into a tram lane, and the discovery that hand signals are not optional. A decade later, I cannot imagine life without my bike. Here is everything I have learned about cycling in the Netherlands so your transition is smoother than mine.
 
-*This article contains affiliate links. I may earn a small commission if you purchase through my links, at no extra cost to you.*
 
 ## Why Cycling is Essential in the Netherlands
 

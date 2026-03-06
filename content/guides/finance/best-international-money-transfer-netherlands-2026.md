@@ -30,7 +30,6 @@ faq:
 
 I still wince thinking about the first time I transferred money from my British account to the Netherlands through my traditional bank. The fees and exchange rate markup cost me over a hundred euros on a single transfer. Ten years later, I have tried every major transfer service on the market and helped hundreds of expat clients stop overpaying for something that should be simple. Here is my comparison of the best ways to move money to and from the Netherlands in 2026.
 
-*This article contains affiliate links. I may earn a small commission if you purchase through my links, at no extra cost to you.*
 
 ## Quick Comparison Table
 

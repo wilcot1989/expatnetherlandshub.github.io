@@ -30,7 +30,6 @@ faq:
 
 I have tried almost every method of learning Dutch: apps on the train, evening classes after work, a private tutor who patiently corrected my "g" sound for months, and even watching Dutch reality TV with subtitles. Some worked brilliantly. Others were a waste of time and money. After more than a decade of trial, error, and coaching other expats through the same process, I have put together this comparison of the best Dutch language courses available in 2026 so you can skip the mistakes I made.
 
-*This article contains affiliate links. I may earn a small commission if you purchase through my links, at no extra cost to you.*
 
 ## Quick Comparison Table
 

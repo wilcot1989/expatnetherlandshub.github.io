@@ -30,7 +30,6 @@ faq:
 
 Before I moved here, I Googled "cost of living Netherlands" and found numbers that turned out to be wildly inaccurate. The reality is more nuanced -- your monthly expenses depend hugely on which city you pick, whether you cycle or drive, and how often you resist the call of a terrasje on a sunny afternoon. After more than a decade of living here and helping clients plan their budgets, I have put together the most realistic breakdown I can for 2026.
 
-*This article contains affiliate links. I may earn a small commission if you purchase through my links, at no extra cost to you.*
 
 ## Monthly Cost Summary: At a Glance
 

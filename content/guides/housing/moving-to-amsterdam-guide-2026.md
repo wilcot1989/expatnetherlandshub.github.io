@@ -32,7 +32,6 @@ Amsterdam is where I landed when I first moved to the Netherlands, and I have a 
 
 For a broader perspective on moving to the Netherlands as a whole, read our [Complete Guide to Moving to the Netherlands 2026](/posts/complete-guide-moving-to-netherlands-2026/).
 
-*This article contains affiliate links. I may earn a small commission if you purchase through my links, at no extra cost to you.*
 
 ## Before You Move: Essential Preparation
 

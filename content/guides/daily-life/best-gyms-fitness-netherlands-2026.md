@@ -28,7 +28,6 @@ faq:
 
 When I first moved here, I assumed all the cycling would keep me fit. It does help, but after a year of only biking to the supermarket, I realised I needed something more. I have since tried everything from Basic-Fit to a local hockey club -- yes, field hockey, the Dutch obsession I never expected to love. Here is my guide to staying fit in the Netherlands as an expat.
 
-*This article contains affiliate links. I may earn a small commission if you purchase through my links, at no extra cost to you.*
 
 ## Best Gym Chains in the Netherlands
 

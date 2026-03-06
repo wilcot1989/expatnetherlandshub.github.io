@@ -30,7 +30,6 @@ faq:
 
 Dutch health insurance confused me more than almost anything else when I first moved here. Basisverzekering, eigen risico, zorgtoeslag -- the terminology alone is enough to make your head spin. And then you find out it is mandatory and you have only four months to sort it out. After navigating the system myself and helping hundreds of clients choose the right policy, I can tell you it is actually one of the best healthcare setups in the world. You just need to know how it works.
 
-*This article contains affiliate links. I may earn a small commission if you purchase through my links, at no extra cost to you.*
 
 ## How the Dutch Health Insurance System Works: Overview
 

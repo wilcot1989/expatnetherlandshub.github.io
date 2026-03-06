@@ -28,7 +28,6 @@ faq:
 
 I will be honest: when I first visited Eindhoven years ago, I did not get the hype. It felt quiet compared to Amsterdam. Then I started working with clients relocating there for ASML, Philips, and the tech startups popping up everywhere, and I saw what they saw -- affordable housing, a genuinely international community, and a city that is growing fast without the chaos of the Randstad. I have come to really appreciate Eindhoven, and if you are moving there, you are in for a pleasant surprise.
 
-*This article contains affiliate links. I may earn a small commission if you purchase through my links, at no extra cost to you.*
 
 New to the Netherlands? Start with our [complete expat guide](/posts/moving-to-netherlands-guide-2026/) and work permit information in our [highly skilled migrant visa guide](/posts/highly-skilled-migrant-visa-netherlands-2026/).
 

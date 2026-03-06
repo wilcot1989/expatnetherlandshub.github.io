@@ -28,7 +28,6 @@ faq:
 
 I did not think about my Dutch pension for the first five years I lived here. Big mistake. When I finally looked into it, I realised I had been building up AOW rights without knowing it, my employer had been contributing to a pension fund I had never checked, and I had no idea what any of it meant. If you are an expat wondering whether any of this matters to you -- it does, even if you are not planning to retire here. Let me break it down.
 
-*This article contains affiliate links. I may earn a small commission if you purchase through my links, at no extra cost to you.*
 
 New to Dutch finances? Start with our [Dutch tax system guide](/posts/dutch-tax-system-expats-2026/).
 

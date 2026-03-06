@@ -28,7 +28,6 @@ faq:
 
 If I had to recommend one Dutch city for expat families, it would be The Hague. I know that is a bold statement, but hear me out: the largest international community in the Netherlands, excellent international schools, a beach you can cycle to in fifteen minutes, and housing prices that will not make you cry (as much as Amsterdam). Many of my clients end up here, and almost none of them regret it. Here is why -- and how to make the move.
 
-*This article contains affiliate links. I may earn a small commission if you purchase through my links, at no extra cost to you.*
 
 New to the Netherlands? Start with our [complete moving guide](/posts/moving-to-netherlands-guide-2026/) and set up your [DigiD](/posts/digid-guide-expats-2026/).
 

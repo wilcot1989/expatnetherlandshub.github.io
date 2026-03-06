@@ -30,7 +30,6 @@ faq:
 
 In my first week in the Netherlands, I tried to carry four bags of groceries up three flights of those impossibly steep Dutch stairs. Never again. That is when I discovered the wonderful world of Dutch grocery delivery, and honestly, it has been one of the small luxuries that makes expat life easier. I have tested every major service over the years, and here is my comparison to help you find the one that fits your shopping habits.
 
-*This article contains affiliate links. I may earn a small commission if you purchase through my links, at no extra cost to you.*
 
 ## Quick Comparison
 

@@ -28,7 +28,6 @@ faq:
 
 My first King's Day in the Netherlands, I walked outside in a normal outfit and was immediately swallowed by a sea of orange. Thousands of people in orange wigs, orange suits, orange face paint -- selling old junk on blankets and dancing on boats in the canals. Nobody had warned me. That is the thing about Dutch holidays: they are wonderfully bizarre, and as a half-Dutch person who grew up in the UK, even I was caught off guard. Here is your heads-up for every major holiday and tradition so you will not be surprised by a closed supermarket or an unexpected orange invasion.
 
-*This article contains affiliate links. I may earn a small commission if you purchase through my links, at no extra cost to you.*
 
 New to the Netherlands? Start with our [complete expat guide](/posts/moving-to-netherlands-guide-2026/).
 

@@ -28,7 +28,6 @@ faq:
 
 I resisted getting a car in the Netherlands for years -- the cycling is great, the trains are excellent, and owning a car here is eye-wateringly expensive. But when I started needing to visit clients outside the Randstad, I finally had to figure out Dutch driving rules, license exchange, and why everyone seems to be in a traffic jam on the A2 at the same time. Here is what I have learned.
 
-*This article contains affiliate links. I may earn a small commission if you purchase through my links, at no extra cost to you.*
 
 New to the Netherlands? Start with our [complete expat guide](/posts/moving-to-netherlands-guide-2026/).
 

@@ -28,7 +28,6 @@ faq:
 
 Every time I visit Utrecht, I think about moving there. It has everything I love about Amsterdam -- the canals, the cafe culture, the cycling -- but without the tourist crowds and with a community feel that is hard to find in bigger cities. It is also the most central city in the Netherlands, which means everywhere is a short train ride away. More and more of my clients are choosing Utrecht over Amsterdam, and I completely understand why.
 
-*This article contains affiliate links. I may earn a small commission if you purchase through my links, at no extra cost to you.*
 
 New to the Netherlands? Start with our [complete expat guide](/posts/moving-to-netherlands-guide-2026/).
 

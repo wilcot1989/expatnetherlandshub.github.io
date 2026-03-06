@@ -30,7 +30,6 @@ faq:
 
 One of the few things that genuinely impressed me when I moved to the Netherlands was the internet speed. Coming from the UK, where buffering was a way of life, Dutch fiber felt like magic. But actually choosing a provider? That part was confusing -- Dutch-only websites, unclear bundles, and conflicting advice from colleagues. After a decade of switching providers and helping clients set up their connections, here is my comparison of the 6 best options in 2026.
 
-*This article contains affiliate links. I may earn a small commission if you purchase through my links, at no extra cost to you.*
 
 ## Quick Comparison Table
 
