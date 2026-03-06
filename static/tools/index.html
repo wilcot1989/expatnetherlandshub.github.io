@@ -214,6 +214,10 @@
     .hero .breadcrumb { margin-bottom: 1rem; }
     .hero .breadcrumb, .hero .breadcrumb a { color: rgba(255,255,255,0.7); }
     .hero .breadcrumb a:hover { color: #fff; }
+    .hero-top { display: flex; align-items: center; justify-content: space-between; gap: 2rem; }
+    .hero-text { flex: 1; text-align: left; }
+    .hero-icon { width: 100px; height: 100px; flex-shrink: 0; color: rgba(255,255,255,0.25); }
+    .hero-icon svg { width: 100%; height: 100%; }
     .hero h1 { font-size: 2.2rem; margin-bottom: 0.75rem; }
     .hero p { font-size: 1.1rem; color: rgba(255,255,255,.85); max-width: 650px; margin-bottom: 1.5rem; }
     .hero-badge {
@@ -424,6 +428,8 @@
     /* Mobile */
     @media (max-width: 768px) {
       .hero h1 { font-size: 1.6rem; }
+      .hero-top { flex-direction: column; text-align: left; }
+      .hero-icon { display: none; }
       .hero-stats { gap: 1.5rem; }
       .hero-stat .num { font-size: 1.4rem; }
       .tool-grid { grid-template-columns: 1fr; }
@@ -463,10 +469,17 @@
       <a href="/">Home</a> &rsaquo;
       <span>Free Expat Tools</span>
     </nav>
-    <div class="hero-badge">Free &bull; Updated March 2026</div>
-    <h1>Free Expat Tools for the Netherlands</h1>
-    <p>Interactive calculators, checkers, and planners to help you navigate taxes, visas, insurance, and daily life as an expat in the Netherlands.</p>
-    <div class="meta-hero">10 free tools &middot; No signup required &middot; By Sarah van den Berg</div>
+    <div class="hero-top">
+      <div class="hero-text">
+        <div class="hero-badge">Free &bull; Updated March 2026</div>
+        <h1>Free Expat Tools for the Netherlands</h1>
+        <p>Interactive calculators, checkers, and planners to help you navigate taxes, visas, insurance, and daily life as an expat in the Netherlands.</p>
+        <div class="meta-hero">10 free tools &middot; No signup required &middot; By Sarah van den Berg</div>
+      </div>
+      <div class="hero-icon" aria-hidden="true">
+        <svg viewBox="0 0 80 80" fill="none" xmlns="http://www.w3.org/2000/svg"><rect x="8" y="8" width="28" height="28" rx="6" stroke="currentColor" stroke-width="2.5"/><rect x="44" y="8" width="28" height="28" rx="6" stroke="currentColor" stroke-width="2.5"/><rect x="8" y="44" width="28" height="28" rx="6" stroke="currentColor" stroke-width="2.5"/><rect x="44" y="44" width="28" height="28" rx="6" stroke="currentColor" stroke-width="2.5"/><path d="M18 18l8 8M26 18l-8 8" stroke="currentColor" stroke-width="2" stroke-linecap="round" opacity=".6"/><path d="M54 18h8M58 14v8" stroke="currentColor" stroke-width="2" stroke-linecap="round" opacity=".6"/><circle cx="22" cy="58" r="5" stroke="currentColor" stroke-width="2" opacity=".6"/><path d="M52 56l4 4 6-8" stroke="currentColor" stroke-width="2" stroke-linecap="round" opacity=".6"/></svg>
+      </div>
+    </div>
     <div class="hero-stats">
       <div class="hero-stat"><div class="num">10</div><div class="label">Free Tools</div></div>
       <div class="hero-stat"><div class="num">2026</div><div class="label">Rules & Data</div></div>

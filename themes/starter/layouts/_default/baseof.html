@@ -1001,10 +1001,66 @@
     .card-title a { color: var(--expat-primary-dark); }
     .card-title a:hover { color: var(--expat-primary); text-decoration: none; }
     .card-desc { font-size: 0.88rem; color: var(--expat-muted); margin: 0 0 0.5rem; line-height: 1.5; }
-    .list-header { margin: 1.5rem 0 1rem; }
-    .list-count { font-weight: 400; color: var(--expat-muted); font-size: 0.85em; }
-    .list-description { font-size: 1.05rem; color: var(--expat-muted); margin-top: 0.5rem; }
+    .list-count { font-weight: 400; color: rgba(255,255,255,0.6); font-size: 0.85em; }
     .list-content { margin-bottom: 1rem; }
+
+    /* ============================================================
+       LIST PAGE HERO
+    ============================================================ */
+    .list-hero {
+      background:
+        url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='80' height='80'%3E%3Ccircle cx='40' cy='40' r='1.5' fill='%23ffffff' opacity='0.07'/%3E%3Ccircle cx='0' cy='0' r='1' fill='%23ffffff' opacity='0.05'/%3E%3Ccircle cx='80' cy='0' r='1' fill='%23ffffff' opacity='0.05'/%3E%3Ccircle cx='0' cy='80' r='1' fill='%23ffffff' opacity='0.05'/%3E%3Ccircle cx='80' cy='80' r='1' fill='%23ffffff' opacity='0.05'/%3E%3Cpath d='M0 40h80M40 0v80' stroke='%23ffffff' stroke-width='0.3' opacity='0.04'/%3E%3C/svg%3E"),
+        linear-gradient(135deg, var(--expat-primary-dark) 0%, var(--expat-primary) 50%, #2D9B6A 100%);
+      color: #fff;
+      padding: 3rem 0 2.5rem;
+      position: relative;
+      overflow: hidden;
+    }
+    .list-hero::before {
+      content: '';
+      position: absolute;
+      top: -50%;
+      right: -20%;
+      width: 500px;
+      height: 500px;
+      border-radius: 50%;
+      background: radial-gradient(circle, rgba(232,131,42,0.10) 0%, transparent 70%);
+      pointer-events: none;
+    }
+    .list-hero-inner {
+      position: relative;
+      z-index: 1;
+    }
+    .list-hero .breadcrumb { margin-bottom: 1rem; }
+    .list-hero .breadcrumb,
+    .list-hero .breadcrumb a { color: rgba(255,255,255,0.7); }
+    .list-hero .breadcrumb a:hover { color: #fff; }
+    .list-hero-content {
+      display: flex;
+      align-items: center;
+      justify-content: space-between;
+      gap: 2rem;
+    }
+    .list-hero-text { flex: 1; }
+    .list-hero h1 { color: #fff; font-size: 2.1rem; margin-bottom: 0.5rem; }
+    .list-hero-desc { color: rgba(255,255,255,0.85); font-size: 1.05rem; margin: 0 0 0.5rem; max-width: 600px; line-height: 1.6; }
+    .list-hero .meta { color: rgba(255,255,255,0.6); }
+    .list-hero-icon {
+      width: 100px;
+      height: 100px;
+      flex-shrink: 0;
+      color: rgba(255,255,255,0.25);
+    }
+    .list-hero-icon svg { width: 100%; height: 100%; }
+
+    /* Category-specific accent tints */
+    .list-hero--finance::before { background: radial-gradient(circle, rgba(232,131,42,0.15) 0%, transparent 70%); }
+    .list-hero--health::before { background: radial-gradient(circle, rgba(16,185,129,0.18) 0%, transparent 70%); }
+    .list-hero--housing::before { background: radial-gradient(circle, rgba(59,130,246,0.12) 0%, transparent 70%); }
+    .list-hero--legal::before { background: radial-gradient(circle, rgba(139,92,246,0.12) 0%, transparent 70%); }
+    .list-hero--work::before { background: radial-gradient(circle, rgba(245,158,11,0.14) 0%, transparent 70%); }
+    .list-hero--daily-life::before { background: radial-gradient(circle, rgba(236,72,153,0.10) 0%, transparent 70%); }
+    .list-hero--integration::before { background: radial-gradient(circle, rgba(20,184,166,0.14) 0%, transparent 70%); }
     .list-empty { text-align: center; color: var(--expat-muted); padding: 3rem 0; }
 
     /* ============================================================
@@ -1170,6 +1226,11 @@
       .article-sidebar { position: static; max-height: none; }
       .related-grid { grid-template-columns: 1fr; }
       .card-grid { grid-template-columns: 1fr; }
+
+      /* List hero: stack icon below on mobile */
+      .list-hero-content { flex-direction: column; text-align: left; }
+      .list-hero-icon { width: 64px; height: 64px; display: none; }
+      .list-hero h1 { font-size: 1.6rem; }
 
       .footer-grid { grid-template-columns: repeat(2, 1fr); }
 

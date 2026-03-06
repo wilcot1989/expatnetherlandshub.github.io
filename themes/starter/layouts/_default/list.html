@@ -34,28 +34,59 @@
 }
 </script>
 
-<div class="container">
+{{/* ── Determine category icon SVG based on section ── */}}
+{{ $section := "" }}
+{{ if .Parent }}{{ $section = .Parent.File.Dir }}{{ else }}{{ with .File }}{{ $section = .Dir }}{{ end }}{{ end }}
+{{ $sectionSlug := path.Base (strings.TrimSuffix "/" .RelPermalink) }}
 
-  {{/* ── Breadcrumb ── */}}
-  <nav class="breadcrumb" aria-label="Breadcrumb">
-    <a href="/">Home</a> &rsaquo;
-    {{ if .Parent }}
-    <a href="{{ .Parent.RelPermalink }}">{{ .Parent.Title }}</a> &rsaquo;
-    <span>{{ .Title }}</span>
-    {{ else }}
-    <span>{{ .Title }}</span>
-    {{ end }}
-  </nav>
+{{/* ── HERO SECTION ── */}}
+<div class="list-hero list-hero--{{ $sectionSlug }}">
+  <div class="list-hero-inner wide">
+    <nav class="breadcrumb" aria-label="Breadcrumb">
+      <a href="/">Home</a> &rsaquo;
+      {{ if .Parent }}
+      <a href="{{ .Parent.RelPermalink }}">{{ .Parent.Title }}</a> &rsaquo;
+      <span>{{ .Title }}</span>
+      {{ else }}
+      <span>{{ .Title }}</span>
+      {{ end }}
+    </nav>
 
-  {{/* ── Hub page header ── */}}
-  <div class="list-header">
-    <h1>{{ .Title }}{{ if .IsNode }} <span class="list-count">({{ len .Pages }} {{ if eq (len .Pages) 1 }}guide{{ else }}guides{{ end }})</span>{{ end }}</h1>
-    {{ with .Description }}
-    <p class="list-description">{{ . }}</p>
-    {{ end }}
+    <div class="list-hero-content">
+      <div class="list-hero-text">
+        <h1>{{ .Title }}{{ if .IsNode }} <span class="list-count">({{ len .Pages }} {{ if eq (len .Pages) 1 }}guide{{ else }}guides{{ end }})</span>{{ end }}</h1>
+        {{ with .Description }}
+        <p class="list-hero-desc">{{ . }}</p>
+        {{ end }}
+        <div class="meta">Updated March 2026 &middot; By Sarah van den Berg</div>
+      </div>
+      <div class="list-hero-icon" aria-hidden="true">
+        {{ if eq $sectionSlug "finance" }}
+        <svg viewBox="0 0 80 80" fill="none" xmlns="http://www.w3.org/2000/svg"><rect x="12" y="28" width="56" height="40" rx="4" stroke="currentColor" stroke-width="2.5"/><path d="M12 38h56" stroke="currentColor" stroke-width="2.5"/><circle cx="40" cy="52" r="8" stroke="currentColor" stroke-width="2.5"/><path d="M38 49v6M42 49v6M36 52h8" stroke="currentColor" stroke-width="1.5" opacity=".6"/><path d="M24 28V20a4 4 0 014-4h24a4 4 0 014 4v8" stroke="currentColor" stroke-width="2.5"/></svg>
+        {{ else if eq $sectionSlug "health" }}
+        <svg viewBox="0 0 80 80" fill="none" xmlns="http://www.w3.org/2000/svg"><rect x="16" y="12" width="48" height="56" rx="6" stroke="currentColor" stroke-width="2.5"/><path d="M32 12v-0a8 8 0 0116 0v0" stroke="currentColor" stroke-width="2.5"/><path d="M40 32v16M32 40h16" stroke="currentColor" stroke-width="3" stroke-linecap="round"/><circle cx="40" cy="40" r="14" stroke="currentColor" stroke-width="1.5" opacity=".3"/></svg>
+        {{ else if eq $sectionSlug "housing" }}
+        <svg viewBox="0 0 80 80" fill="none" xmlns="http://www.w3.org/2000/svg"><path d="M8 38L40 12l32 26" stroke="currentColor" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round"/><path d="M16 34v30a4 4 0 004 4h40a4 4 0 004-4V34" stroke="currentColor" stroke-width="2.5"/><rect x="30" y="48" width="12" height="20" rx="1" stroke="currentColor" stroke-width="2"/><rect x="48" y="40" width="10" height="10" rx="1" stroke="currentColor" stroke-width="1.5" opacity=".6"/></svg>
+        {{ else if eq $sectionSlug "legal" }}
+        <svg viewBox="0 0 80 80" fill="none" xmlns="http://www.w3.org/2000/svg"><rect x="18" y="8" width="44" height="58" rx="4" stroke="currentColor" stroke-width="2.5"/><path d="M28 24h24M28 34h24M28 44h16" stroke="currentColor" stroke-width="2" stroke-linecap="round"/><circle cx="52" cy="54" r="14" stroke="currentColor" stroke-width="2.5"/><path d="M52 47v7l4 3" stroke="currentColor" stroke-width="2" stroke-linecap="round"/></svg>
+        {{ else if eq $sectionSlug "work" }}
+        <svg viewBox="0 0 80 80" fill="none" xmlns="http://www.w3.org/2000/svg"><rect x="8" y="24" width="64" height="44" rx="4" stroke="currentColor" stroke-width="2.5"/><path d="M28 24V16a4 4 0 014-4h16a4 4 0 014 4v8" stroke="currentColor" stroke-width="2.5"/><path d="M8 40h64" stroke="currentColor" stroke-width="2" opacity=".4"/><circle cx="40" cy="40" r="6" stroke="currentColor" stroke-width="2.5"/></svg>
+        {{ else if eq $sectionSlug "daily-life" }}
+        <svg viewBox="0 0 80 80" fill="none" xmlns="http://www.w3.org/2000/svg"><circle cx="40" cy="32" r="16" stroke="currentColor" stroke-width="2.5"/><path d="M40 24v8l6 4" stroke="currentColor" stroke-width="2.5" stroke-linecap="round"/><path d="M20 58c0-11 9-20 20-20s20 9 20 20" stroke="currentColor" stroke-width="2.5"/><rect x="28" y="58" width="24" height="12" rx="3" stroke="currentColor" stroke-width="2" opacity=".5"/></svg>
+        {{ else if eq $sectionSlug "integration" }}
+        <svg viewBox="0 0 80 80" fill="none" xmlns="http://www.w3.org/2000/svg"><rect x="12" y="16" width="40" height="52" rx="4" stroke="currentColor" stroke-width="2.5"/><path d="M22 30h20M22 38h20M22 46h14" stroke="currentColor" stroke-width="2" stroke-linecap="round"/><path d="M56 28l12 12-12 12" stroke="currentColor" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round"/><circle cx="58" cy="56" r="10" stroke="currentColor" stroke-width="2" opacity=".4"/><path d="M55 56l3 3 5-6" stroke="currentColor" stroke-width="2" stroke-linecap="round" opacity=".6"/></svg>
+        {{ else if eq $sectionSlug "guides" }}
+        <svg viewBox="0 0 80 80" fill="none" xmlns="http://www.w3.org/2000/svg"><path d="M40 16v52" stroke="currentColor" stroke-width="2"/><path d="M40 16c-4-4-12-6-24-6v48c12 0 20 2 24 6" stroke="currentColor" stroke-width="2.5"/><path d="M40 16c4-4 12-6 24-6v48c-12 0-20 2-24 6" stroke="currentColor" stroke-width="2.5"/><path d="M24 28h10M24 36h10M24 44h8" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" opacity=".5"/><path d="M46 28h10M46 36h10M46 44h8" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" opacity=".5"/></svg>
+        {{ else }}
+        <svg viewBox="0 0 80 80" fill="none" xmlns="http://www.w3.org/2000/svg"><circle cx="40" cy="40" r="28" stroke="currentColor" stroke-width="2.5"/><path d="M40 12a28 28 0 010 56M40 12a28 28 0 000 56" stroke="currentColor" stroke-width="1.5" opacity=".4"/><path d="M12 40h56" stroke="currentColor" stroke-width="1.5" opacity=".4"/><path d="M16 24h48M16 56h48" stroke="currentColor" stroke-width="1" opacity=".25"/></svg>
+        {{ end }}
+      </div>
+    </div>
   </div>
+</div>
 
-  {{/* ── Hub page editorial content (SEO text above grid) ── */}}
+{{/* ── Hub page editorial content (SEO text above grid) ── */}}
+<div class="container">
   {{ with .Content }}
   <div class="list-content">
     {{ . }}
