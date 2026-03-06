@@ -161,7 +161,7 @@
       <p class="section-sub">Practical, up-to-date articles written by Sarah van den Berg, expat coach.</p>
     </div>
     <div class="guide-grid">
-      {{ range (where .Site.RegularPages "Type" "posts").ByDate.Reverse | first 6 }}
+      {{ range .Site.RegularPages.ByDate.Reverse | first 6 }}
       {{ $pageTitle := .Title }}
       <a href="{{ .RelPermalink }}" class="card guide-card">
         {{ with .Params.featured_image }}
