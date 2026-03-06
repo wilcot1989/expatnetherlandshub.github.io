@@ -246,6 +246,23 @@
       position: relative;
       z-index: 1;
     }
+    .tool-hero-content {
+      display: flex;
+      align-items: center;
+      justify-content: space-between;
+      gap: 2rem;
+    }
+    .tool-hero-text { flex: 1; }
+    .tool-hero-icon {
+      width: 100px;
+      height: 100px;
+      flex-shrink: 0;
+      color: rgba(255,255,255,0.25);
+    }
+    .tool-hero-icon svg { width: 100%; height: 100%; }
+    @media (max-width: 768px) {
+      .tool-hero-icon { display: none; }
+    }
     .tool-hero .breadcrumb { margin-bottom: 1rem; }
     .tool-hero .breadcrumb,
     .tool-hero .breadcrumb a { color: rgba(255,255,255,0.7); }
@@ -726,10 +743,17 @@
       <a href="/tools/">Tools</a> &rsaquo;
       <span>Bank Account Chooser</span>
     </nav>
-    <span class="hero-badge">Free Tool &bull; Updated March 2026</span>
-    <h1>Bank Account Chooser Netherlands 2026</h1>
-    <p class="hero-subtitle">Compare Dutch banks and find the best account for expats based on your needs.</p>
-    <div class="meta">Free &middot; No signup required &middot; By Sarah van den Berg</div>
+    <div class="tool-hero-content">
+      <div class="tool-hero-text">
+        <span class="hero-badge">Free Tool &bull; Updated March 2026</span>
+        <h1>Bank Account Chooser Netherlands 2026</h1>
+        <p class="hero-subtitle">Compare Dutch banks and find the best account for expats based on your needs.</p>
+        <div class="meta">Free &middot; No signup required &middot; By Sarah van den Berg</div>
+      </div>
+      <div class="tool-hero-icon" aria-hidden="true">
+        <svg viewBox="0 0 80 80" fill="none" xmlns="http://www.w3.org/2000/svg"><path d="M40 8L8 28h64L40 8z" stroke="currentColor" stroke-width="2.5" stroke-linejoin="round"/><rect x="8" y="60" width="64" height="8" rx="2" stroke="currentColor" stroke-width="2.5"/><path d="M18 28v32M32 28v32M48 28v32M62 28v32" stroke="currentColor" stroke-width="3" stroke-linecap="round" opacity=".5"/><circle cx="40" cy="20" r="4" stroke="currentColor" stroke-width="1.5" opacity=".4"/></svg>
+      </div>
+    </div>
   </div>
 </div>
 

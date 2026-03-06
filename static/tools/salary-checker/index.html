@@ -260,6 +260,23 @@
       position: relative;
       z-index: 1;
     }
+    .tool-hero-content {
+      display: flex;
+      align-items: center;
+      justify-content: space-between;
+      gap: 2rem;
+    }
+    .tool-hero-text { flex: 1; }
+    .tool-hero-icon {
+      width: 100px;
+      height: 100px;
+      flex-shrink: 0;
+      color: rgba(255,255,255,0.25);
+    }
+    .tool-hero-icon svg { width: 100%; height: 100%; }
+    @media (max-width: 768px) {
+      .tool-hero-icon { display: none; }
+    }
     .tool-hero .breadcrumb { margin-bottom: 1rem; }
     .tool-hero .breadcrumb,
     .tool-hero .breadcrumb a { color: rgba(255,255,255,0.7); }
@@ -880,10 +897,17 @@
         <a href="/tools/">Tools</a> &rsaquo;
         <span>HSM Salary Checker</span>
       </nav>
-      <span class="hero-badge">Free Tool &bull; Updated March 2026</span>
-      <h1>HSM Salary Checker Netherlands 2026</h1>
-      <p class="hero-subtitle">Check if your salary meets the Highly Skilled Migrant threshold for all IND permit categories.</p>
-      <div class="meta">Free &middot; No signup required &middot; By Sarah van den Berg</div>
+      <div class="tool-hero-content">
+        <div class="tool-hero-text">
+          <span class="hero-badge">Free Tool &bull; Updated March 2026</span>
+          <h1>HSM Salary Checker Netherlands 2026</h1>
+          <p class="hero-subtitle">Check if your salary meets the Highly Skilled Migrant threshold for all IND permit categories.</p>
+          <div class="meta">Free &middot; No signup required &middot; By Sarah van den Berg</div>
+        </div>
+        <div class="tool-hero-icon" aria-hidden="true">
+          <svg viewBox="0 0 80 80" fill="none" xmlns="http://www.w3.org/2000/svg"><circle cx="36" cy="40" r="24" stroke="currentColor" stroke-width="2.5"/><path d="M28 34h12a8 8 0 010 12H28" stroke="currentColor" stroke-width="2.5" stroke-linecap="round"/><path d="M26 37h14M26 43h14" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" opacity=".4"/><circle cx="58" cy="58" r="14" stroke="currentColor" stroke-width="2.5"/><path d="M52 58l4 4 8-8" stroke="currentColor" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round"/></svg>
+        </div>
+      </div>
     </div>
   </div>
 

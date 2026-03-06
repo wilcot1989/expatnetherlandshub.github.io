@@ -227,6 +227,20 @@ header { position: sticky; top: 0; z-index: 1000; background: var(--expat-primar
   position: relative;
   z-index: 1;
 }
+.tool-hero-content {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: 2rem;
+}
+.tool-hero-text { flex: 1; }
+.tool-hero-icon {
+  width: 100px;
+  height: 100px;
+  flex-shrink: 0;
+  color: rgba(255,255,255,0.25);
+}
+.tool-hero-icon svg { width: 100%; height: 100%; }
 .tool-hero .breadcrumb { margin-bottom: 1rem; }
 .tool-hero .breadcrumb,
 .tool-hero .breadcrumb a { color: rgba(255,255,255,0.7); }
@@ -756,6 +770,7 @@ select:focus { outline: none; border-color: #1B6B4A; }
   .hamburger-label { display: flex; }
   .mega-menu { display: none !important; }
   .footer-grid { grid-template-columns: repeat(2, 1fr); }
+  .tool-hero-icon { display: none; }
   .tool-hero h1 { font-size: 1.45rem; }
   .step-body { padding: 20px 18px 24px; }
   .result-meta { grid-template-columns: 1fr; }
@@ -807,10 +822,17 @@ select:focus { outline: none; border-color: #1B6B4A; }
       <a href="/tools/">Tools</a> &rsaquo;
       <span>Visa &amp; Permit Finder</span>
     </nav>
-    <span class="hero-badge">Free Tool &bull; Updated March 2026</span>
-    <h1>Visa &amp; Permit Finder Netherlands 2026</h1>
-    <p class="hero-subtitle">Answer a few questions to find exactly which Dutch visa or residence permit you need.</p>
-    <div class="meta">Free &middot; No signup required &middot; By Sarah van den Berg</div>
+    <div class="tool-hero-content">
+      <div class="tool-hero-text">
+        <span class="hero-badge">Free Tool &bull; Updated March 2026</span>
+        <h1>Visa &amp; Permit Finder Netherlands 2026</h1>
+        <p class="hero-subtitle">Answer a few questions to find exactly which Dutch visa or residence permit you need.</p>
+        <div class="meta">Free &middot; No signup required &middot; By Sarah van den Berg</div>
+      </div>
+      <div class="tool-hero-icon" aria-hidden="true">
+        <svg viewBox="0 0 80 80" fill="none" xmlns="http://www.w3.org/2000/svg"><rect x="16" y="8" width="36" height="52" rx="4" stroke="currentColor" stroke-width="2.5"/><circle cx="34" cy="28" r="8" stroke="currentColor" stroke-width="2" opacity=".5"/><path d="M24 42h20M24 48h14" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" opacity=".4"/><rect x="44" y="40" width="24" height="24" rx="4" stroke="currentColor" stroke-width="2.5"/><path d="M50 52h12M50 56h8" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" opacity=".5"/><circle cx="56" cy="47" r="2" fill="currentColor" opacity=".4"/></svg>
+      </div>
+    </div>
   </div>
 </div>
 
