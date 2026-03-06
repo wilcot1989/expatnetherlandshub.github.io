@@ -35,8 +35,6 @@
 </script>
 
 {{/* ── Determine category icon SVG based on section ── */}}
-{{ $section := "" }}
-{{ if .Parent }}{{ $section = .Parent.File.Dir }}{{ else }}{{ with .File }}{{ $section = .Dir }}{{ end }}{{ end }}
 {{ $sectionSlug := path.Base (strings.TrimSuffix "/" .RelPermalink) }}
 
 {{/* ── HERO SECTION ── */}}
