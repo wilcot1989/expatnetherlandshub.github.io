@@ -122,9 +122,9 @@
 
     /* Header */
     .site-header {
-      background: var(--expat-primary);
+      background: #1B6B4A;
       padding: 1rem 0;
-      border-bottom: 3px solid var(--expat-accent);
+      border-bottom: 3px solid #E8832A;
     }
     .site-header .wrap {
       max-width: 1100px;
@@ -144,8 +144,8 @@
       align-items: center;
       gap: 0.5rem;
     }
-    .logo svg { width: 28px; height: 28px; stroke: #fff; fill: none; stroke-width: 1.5; }
-    .logo .suffix { color: var(--expat-accent); }
+    .logo svg { width: 28px; height: 28px; }
+    .logo .suffix { color: #E8832A; }
     .header-nav a {
       color: rgba(255,255,255,.85);
       text-decoration: none;
@@ -302,7 +302,7 @@
     }
 
     /* SEO content */
-    .seo-content { max-width: 800px; margin: 0 auto; }
+    .seo-content { max-width: 960px; margin: 0 auto; }
     .seo-content h2 { font-size: 1.4rem; color: var(--expat-primary-dark); margin: 2.5rem 0 0.75rem; }
     .seo-content h3 { font-size: 1.1rem; margin: 1.5rem 0 0.5rem; }
     .seo-content p { margin-bottom: 1rem; color: #444; }
@@ -370,7 +370,7 @@
 
     /* Footer */
     .site-footer {
-      background: var(--expat-primary-dark);
+      background: #145236;
       color: rgba(255,255,255,.7);
       padding: 2rem 0;
       text-align: center;
@@ -395,7 +395,7 @@
 <header class="site-header">
   <div class="wrap">
     <a href="/" class="logo">
-      <svg viewBox="0 0 24 24"><circle cx="12" cy="12" r="9"/><path d="M12 3a15 15 0 0 1 0 18M12 3a15 15 0 0 0 0 18M3 12h18"/></svg>
+      <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.5"><circle cx="12" cy="12" r="9"/><path d="M12 3a15 15 0 0 1 0 18M12 3a15 15 0 0 0 0 18M3 12h18"/></svg>
       expatnetherlandshub<span class="suffix">.com</span>
     </a>
     <nav class="header-nav">
@@ -455,20 +455,20 @@
   <!-- VISA & LEGAL TOOLS -->
   <div class="category-label">Visa & Legal</div>
   <div class="tool-grid">
-    <div class="tool-card coming-soon">
-      <span class="badge-soon">Coming Soon</span>
+    <a href="/tools/visa-permit-finder/" class="tool-card">
+      <span class="badge-live">Live</span>
       <div class="tool-card-icon">&#128196;</div>
       <div class="tool-card-title">Visa & Permit Finder</div>
       <div class="tool-card-desc">Answer a few questions about your situation and get a personalised recommendation for which Dutch visa or residence permit to apply for.</div>
-      <div class="tool-card-cta">Coming soon</div>
-    </div>
-    <div class="tool-card coming-soon">
-      <span class="badge-soon">Coming Soon</span>
+      <div class="tool-card-cta">Find your visa &rarr;</div>
+    </a>
+    <a href="/tools/bsn-planner/" class="tool-card">
+      <span class="badge-live">Live</span>
       <div class="tool-card-icon">&#128197;</div>
       <div class="tool-card-title">BSN Appointment Planner</div>
       <div class="tool-card-desc">Plan your BSN registration timeline. Get a step-by-step checklist with exact documents, gemeente appointment tips, and estimated waiting times.</div>
-      <div class="tool-card-cta">Coming soon</div>
-    </div>
+      <div class="tool-card-cta">Plan your BSN &rarr;</div>
+    </a>
     <div class="tool-card coming-soon">
       <span class="badge-soon">Coming Soon</span>
       <div class="tool-card-icon">&#127891;</div>
@@ -488,13 +488,13 @@
       <div class="tool-card-desc">Find the right Dutch health insurance (zorgverzekering) based on your needs: basic vs supplementary, own risk level, GP preferences, and expat-friendly providers.</div>
       <div class="tool-card-cta">Find your plan &rarr;</div>
     </a>
-    <div class="tool-card coming-soon">
-      <span class="badge-soon">Coming Soon</span>
+    <a href="/tools/insurance-chooser/" class="tool-card">
+      <span class="badge-live">Live</span>
       <div class="tool-card-icon">&#128737;</div>
       <div class="tool-card-title">Expat Insurance Chooser</div>
       <div class="tool-card-desc">Compare international health insurance, liability insurance, and home contents insurance for expats. Get a personalised recommendation based on your coverage needs.</div>
-      <div class="tool-card-cta">Coming soon</div>
-    </div>
+      <div class="tool-card-cta">Build your package &rarr;</div>
+    </a>
   </div>
 
   <!-- INTEGRATION TOOLS -->
@@ -524,8 +524,8 @@
     <h3>HSM Salary Checker</h3>
     <p>The <a href="/tools/salary-checker/">HSM salary checker</a> instantly verifies whether your salary meets the IND kennismigrant threshold. It covers all five categories (30+, under 30, orientation year, EU Blue Card, scientific researcher), adjusts for holiday allowance inclusion, and shows what happens with the 30% ruling threshold reduction. If you fail, it tells you exactly how much more you need.</p>
 
-    <h3>Coming Soon: 6 More Tools</h3>
-    <p>We are building a complete toolkit covering every major decision point in the expat journey. The next tools in development are the Visa &amp; Permit Finder (personalised visa recommendations), BSN Appointment Planner, and Housing Budget Checker. All tools will be free, require no registration, and use 2026 data.</p>
+    <h3>Coming Soon: 3 More Tools</h3>
+    <p>We are building a complete toolkit covering every major decision point in the expat journey. The remaining tools in development are the Housing Budget Checker, Inburgering Route Builder, and Diploma Evaluation Planner. All tools will be free, require no registration, and use 2026 data.</p>
 
     <table class="compare-table">
       <thead>
@@ -541,9 +541,9 @@
         <tr><td><a href="/tools/salary-checker/">HSM Salary Checker</a></td><td>Finance</td><td>Live</td><td>P0</td></tr>
         <tr><td><a href="/tools/health-insurance-wizard/">Health Insurance Wizard</a></td><td>Insurance</td><td>Live</td><td>P0</td></tr>
         <tr><td><a href="/tools/bank-account-chooser/">Bank Account Chooser</a></td><td>Finance</td><td>Live</td><td>P0</td></tr>
-        <tr><td>Visa & Permit Finder</td><td>Legal</td><td>Planned</td><td>P1</td></tr>
-        <tr><td>BSN Appointment Planner</td><td>Legal</td><td>Planned</td><td>P1</td></tr>
-        <tr><td>Expat Insurance Chooser</td><td>Insurance</td><td>Planned</td><td>P1</td></tr>
+        <tr><td><a href="/tools/visa-permit-finder/">Visa & Permit Finder</a></td><td>Legal</td><td>Live</td><td>P1</td></tr>
+        <tr><td><a href="/tools/bsn-planner/">BSN Appointment Planner</a></td><td>Legal</td><td>Live</td><td>P1</td></tr>
+        <tr><td><a href="/tools/insurance-chooser/">Expat Insurance Chooser</a></td><td>Insurance</td><td>Live</td><td>P1</td></tr>
         <tr><td>Housing Budget Checker</td><td>Finance</td><td>Planned</td><td>P2</td></tr>
         <tr><td>Inburgering Route Builder</td><td>Integration</td><td>Planned</td><td>P2</td></tr>
         <tr><td>Diploma Evaluation Planner</td><td>Legal</td><td>Planned</td><td>P2</td></tr>

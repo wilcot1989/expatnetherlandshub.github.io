@@ -176,6 +176,18 @@ More useful in Eindhoven than in Amsterdam, especially for reaching surrounding 
 - **ASML Social Clubs** — If you work at ASML, many activity groups exist
 - **TU/e International Community** — University-linked events
 
+### Eindhoven's International Community
+
+Eindhoven has one of the most developed international support networks outside of Amsterdam and The Hague — largely because Brainport's growth depends on attracting international talent, and the region's institutions have invested accordingly.
+
+**Brainport Expat Centre** is the starting point for most newly arrived internationals. Run jointly by the regional municipalities and Brainport Development, the centre offers free support with registration, housing, and bureaucratic questions. Staff are English-speaking and experienced with HSM visa holders. They can help you navigate the IND appointment system, understand your rights as an international employee, and connect you with relevant services. It is not widely advertised, but it is one of the best free resources available to expats in the region.
+
+**Expat meetups and social life:** The international community in Eindhoven is large but more professionally oriented than socially, compared to Amsterdam. Internations Eindhoven runs monthly events and is well-attended. Many tech companies — ASML in particular — have active internal social clubs covering sports, cultural events, and family activities. The Eindhoven Expat Hub organises networking events throughout the year, and the TU/e (Eindhoven University of Technology) has a strong international student and researcher community that hosts regular events open to the wider expat population.
+
+**International School Eindhoven (ISE)** serves the largest concentration of expat families in the region, offering the International Baccalaureate from age 4 to 18. Tuition ranges from €8,000 to €18,000 per year depending on age group, and many Brainport employers — particularly ASML, ASML suppliers, and Philips — contribute to or fully cover school fees as part of relocation packages. If you are arriving with school-age children, contact ISE and your employer's HR department at the same time. Waiting lists are real but often shorter than at Amsterdam international schools. Woensel-Zuid is the most convenient neighbourhood for ISE families.
+
+Wondering how your salary stacks up in the Brainport market? Our [salary checker](/tools/salary-checker/) benchmarks tech and engineering roles in the Eindhoven region.
+
 ## The Brainport Ecosystem: What It Means for Your Career
 
 Eindhoven's "Brainport" label is not marketing — it is a measurable reality. The region generates more patent applications per capita than Silicon Valley, and the density of deep-tech companies is unlike anywhere else in the Netherlands.

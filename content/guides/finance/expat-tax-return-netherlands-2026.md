@@ -203,6 +203,42 @@ If you are managing money across borders — paying foreign taxes, transferring 
 
 <a href="https://wise.com/" target="_blank" rel="noopener noreferrer" class="cta-affiliate">Send money abroad with Wise →</a>
 
+## Common Deductions Expats Miss
+
+Most employed expats have relatively simple tax situations, which is why the deductions below often go unclaimed. Each one is worth checking before you submit.
+
+### Mortgage Interest (Hypotheekrenteaftrek)
+If you own a Dutch property, the interest portion of your mortgage is fully deductible from Box 1 income. This is often the single largest deduction available. You must also add a notional rental value (eigenwoningforfait, typically 0.35% of the WOZ value) as income, but for most mortgages the net result is a significant reduction in taxable income. If you have a mortgage and have not filed a return, you are almost certainly leaving money on the table.
+
+### Study and Professional Development Costs
+Costs for education or training directly related to your current profession are deductible, up to a maximum of €15,000 per year. This includes tuition fees, course materials, and in some cases travel. The deduction does not apply to general education unrelated to your work, and it has been restricted in recent years — a tax advisor can help you establish what qualifies in your specific situation.
+
+### Healthcare Costs (Specifieke Zorgkosten)
+Out-of-pocket medical expenses above a certain threshold are partially deductible. This includes costs not reimbursed by your insurer — dental care, specialist visits, prescribed aids, and certain travel costs for medical treatment. There is a standard deductible (drempel) based on income, so this only becomes worthwhile above a certain level of healthcare spending. Many expats with chronic conditions or large dental bills qualify without realising it.
+
+### Charitable Donations (Giftenaftrek)
+Donations to Dutch ANBI-registered charities are deductible if they exceed 1% of your income (minimum €60). For large or recurring donations, the benefit is considerable. Importantly, gifts to foreign charities are only deductible if the charity holds ANBI status in the Netherlands — check the Belastingdienst ANBI register before assuming a donation qualifies.
+
+---
+
+### Filing as a Non-Resident (Buitenlands Belastingplichtige)
+
+If you live outside the Netherlands but earn income in the Netherlands — for example, you work remotely for a Dutch employer while based abroad, or you receive Dutch rental income — you are a non-resident taxpayer (buitenlands belastingplichtig). This is a genuinely different tax situation.
+
+**When non-resident status applies:**
+- You did not live in the Netherlands for the majority of the tax year
+- You have Dutch-source income (employment, property, business)
+- You are in the year of arrival or departure (combined with the M-form)
+
+**The 90% rule (kwalificerende buitenlandse belastingplichtige):**
+If 90% or more of your total worldwide income is taxable in the Netherlands, you can choose to be treated as a "qualifying non-resident" (kwalificerend buitenlands belastingplichtige). This entitles you to most of the same deductions as a resident taxpayer — including mortgage interest, pension contributions, and personal allowances — even though you live abroad. You will need to prove your income split, typically with a tax certificate from your home country.
+
+If you do not meet the 90% threshold, you are a standard non-resident and can only deduct expenses directly connected to your Dutch income. The return must still be filed in the Netherlands for any Dutch-source income.
+
+This is one of the more complex areas of Dutch tax law, and I strongly recommend using a specialist expat tax advisor if you are in this situation. Errors in non-resident returns are common and can trigger interest charges or penalties.
+
+Want to check the impact of the 30% ruling on your tax position? Run the numbers with our [30% ruling calculator](/tools/30-percent-ruling-calculator/).
+
 ## Explore More Expat Guides
 
 - **[Dutch Tax System for Expats](/posts/dutch-tax-system-expats-2026/)** — Tax overview

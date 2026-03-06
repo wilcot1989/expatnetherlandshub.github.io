@@ -188,6 +188,57 @@ The Netherlands has several IND Expat Centers that provide a one-stop-shop for h
 
 **Tip:** Book your Expat Center appointment before arriving in the Netherlands. Slots fill up weeks in advance.
 
+## HSM Visa vs EU Blue Card: Which Should You Choose?
+
+If you are a non-EU national considering a move to the Netherlands, you may have heard of both the Highly Skilled Migrant (HSM) permit and the EU Blue Card. Both allow you to live and work in the Netherlands, but they serve different purposes and suit different situations.
+
+| | HSM Permit | EU Blue Card |
+|---|---|---|
+| **Issued by** | Netherlands only | EU-wide (valid in NL) |
+| **Salary requirement (2026)** | €5,331/month (30+) | ~€5,331/month (same threshold in NL) |
+| **Education requirement** | None | University degree or 5+ years experience |
+| **EU mobility** | ❌ No | ✅ After 12 months |
+| **Processing time** | 2-4 weeks | 2-4 weeks |
+| **Family reunification** | ✅ Yes | ✅ Yes (often faster) |
+| **30% ruling eligibility** | ✅ Yes | ✅ Yes |
+| **Path to permanent residency** | 5 years | 5 years |
+
+**My honest take:** For most international professionals coming to the Netherlands specifically, the HSM permit is the simpler choice. The EU Blue Card's main advantage — the right to move to another EU country after 12 months without starting from scratch — is genuinely useful if you think you might relocate within Europe. If the Netherlands is your destination and your employer is already a recognised IND sponsor, stick with the HSM permit.
+
+**When the EU Blue Card makes sense:**
+- You are not sure whether you will stay in the Netherlands long-term
+- Your employer operates across multiple EU countries
+- You want the flexibility to move to Germany, France, or another EU country in future
+- You have a university degree (required for the Blue Card)
+
+**When the HSM permit wins:**
+- Your employer is already an IND-recognised sponsor
+- You plan to stay in the Netherlands for the medium to long term
+- You do not have a formal degree but meet the salary threshold
+- Speed and simplicity are priorities
+
+---
+
+### Changing Employers on an HSM Permit
+
+One question I get asked constantly: what happens to my visa if I change jobs?
+
+The short answer is: your residence permit does not disappear, but you cannot simply start a new job without your new employer taking action.
+
+**How the process works:**
+
+1. **Your new employer must be an IND-recognised sponsor.** Before you accept an offer, verify this using the [IND public register](https://ind.nl/en/public-register-recognised-sponsors). If your new employer is not yet recognised, factor in 4-8 weeks for them to obtain that status.
+
+2. **Your new employer submits a new HSM application** on your behalf before your start date — or as close to it as possible.
+
+3. **The 3-month grace period.** If you leave a job involuntarily (redundancy, contract ending), you have three months during which your residence permit remains valid. You can remain in the Netherlands legally and look for a new employer. However, you cannot start working for a new employer until the new application is approved.
+
+4. **Salary continuity.** Your new role must also meet the HSM salary threshold. If you are taking a step down in salary, check the 2026 minimums before signing.
+
+**What I tell clients:** Never resign without first confirming your new employer's sponsor status. I have seen people in very stressful situations because they assumed the new company was registered when it was not. A two-minute check on the IND website can save months of complications.
+
+Not sure whether your Dutch salary is competitive for your role and experience level? Use our [salary checker](/tools/salary-checker/) to benchmark your offer, and our [30% ruling calculator](/tools/30-percent-ruling-calculator/) to understand your take-home pay.
+
 ## Related Guides
 
 - **[Complete Guide to Moving to the Netherlands](/posts/complete-guide-moving-to-netherlands-2026/)** — The big picture of relocating

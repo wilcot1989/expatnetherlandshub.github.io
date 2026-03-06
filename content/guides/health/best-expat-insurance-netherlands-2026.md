@@ -217,6 +217,46 @@ Compare health insurance options easily through <a href="https://www.awin1.com/a
 5. **Ignoring disability insurance as ZZP** — The biggest financial risk for freelancers
 6. **Over-insuring** — You do not need every supplementary insurance available
 
+## Insurance for ZZP'ers and Freelancers
+
+Working as a self-employed professional (ZZP) in the Netherlands is increasingly common among expats — and it comes with a completely different insurance picture compared to being an employee. There is no employer to provide sick pay, occupational health support, or group insurance. You are responsible for everything yourself.
+
+### AOV: Disability Insurance (Arbeidsongeschiktheidsverzekering)
+
+The AOV is the most important and most expensive insurance for freelancers. If you are ill or injured and cannot work, your income stops immediately. There is no employer to cover your first two years of sick leave. The Dutch social safety net (WIA/bijstand) for ZZP'ers is minimal and only kicks in after you have depleted most of your savings.
+
+**Why it matters in numbers:** A freelancer earning €60,000 per year who becomes seriously ill at age 40 could lose over €1 million in income before retirement. An AOV policy paying 70-80% of your income could cost €80-€180 per month — a fraction of that risk.
+
+**How premiums are calculated:**
+- Your age (younger = cheaper)
+- Your profession (risk category — office work vs physical labour)
+- Your desired coverage level (typically 70-80% of profit)
+- The waiting period before payouts begin (30, 90, or 365 days)
+
+**Reducing the cost:** The most practical way to keep premiums manageable is to choose a longer waiting period — 90 or 180 days — and maintain 3-6 months of savings as a personal buffer. The premium difference between a 30-day and 180-day waiting period can be €60-€100 per month.
+
+**2027 update:** The Dutch government has been working on mandatory AOV for ZZP'ers for several years. Legislation was expected to come into force in 2027. If you are currently self-employed without disability cover, do not wait for the mandate — compare options now.
+
+---
+
+### Liability Insurance: Why Every Landlord Requires It
+
+If you are renting in the Netherlands, you have probably seen "aansprakelijkheidsverzekering" listed as a requirement in rental contracts. This is not unusual — the vast majority of Dutch private landlords include it as a standard clause, and many housing corporations do too.
+
+The reason is practical: in an apartment building, you share walls, floors, and pipes with your neighbours. A burst washing machine hose, an overflowing bath, or a fire starting in your kitchen can cause tens of thousands of euros in damage to adjacent properties. Without liability insurance, you are personally responsible for every euro.
+
+**What it covers in a rental context:**
+- Water damage you cause to a downstairs neighbour's apartment
+- Accidental fire damage to shared areas
+- Damage you or your household members cause to the landlord's property
+- Your pet causing injury or damage to another person
+
+At €3-€5 per month, this is the easiest insurance decision you will make in the Netherlands. I tell every client to arrange it within their first week — before signing a lease if possible, so you are covered from day one.
+
+**What it does not cover:** Your own possessions. For that, you need a separate home contents policy (inboedelverzekering). The two work together: contents covers what is yours, liability covers what you owe others.
+
+Not sure which insurance package suits your situation? Use our [insurance chooser](/tools/insurance-chooser/) for a personalised recommendation, or start with our [health insurance wizard](/tools/health-insurance-wizard/) to sort your mandatory coverage first.
+
 ## Explore More Expat Guides
 
 - **[Complete Guide to Moving to the Netherlands](/posts/moving-to-netherlands-guide-2026/)** — Everything you need to know

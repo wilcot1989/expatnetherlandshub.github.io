@@ -187,6 +187,44 @@ Within the EU, you may be able to transfer your Dutch pension to a pension fund 
 6. **Get specialized advice** — An expat financial advisor can optimize across countries
 7. **Plan for currency risk** — If retiring in a non-euro country
 
+## The 2026 Pension Reform (Wet Toekomst Pensioenen)
+
+The Dutch pension system is in the middle of its biggest reform in decades. The Wet Toekomst Pensioenen (WTP — Future Pensions Act) passed in 2023 and pension funds have until January 2028 to complete their transition to the new system. In practice, the shift is already underway, and if you are building up a Dutch employer pension right now, it is worth understanding what is changing.
+
+**The core shift: from defined benefit to defined contribution**
+
+Under the old system, your employer pension promised a defined benefit — a guaranteed income at retirement based on your salary and years of service. The new system replaces this with a defined contribution model, where your employer contributes a fixed percentage of your salary to an individual pension account. What you receive at retirement depends on how that pot has grown over time.
+
+| Old System | New System (WTP) |
+|---|---|
+| Guaranteed pension amount | Investment-based pot |
+| Collective risk sharing | Individual accounts |
+| Accrual rate × years × salary | Contribution % × salary |
+| Hard to see your balance | Full transparency, visible balance |
+| Less sensitive to markets | Returns depend on investment performance |
+
+**What this means for expats specifically:**
+
+The new system is, in many ways, more expat-friendly. Your pension pot is now a clearly defined individual account — when you leave the Netherlands, you know exactly what you have accumulated. Transparency around transfer value, coverage, and projected payout is much improved.
+
+The downside is that investment risk shifts to you. If markets perform poorly in the years before your retirement, your pension income will be lower than a traditional defined-benefit scheme would have provided.
+
+---
+
+### Transferring Your Pension When Leaving the Netherlands
+
+One of the most common questions I get from clients who are planning to leave is: what do I do with my Dutch pension?
+
+You have several options, and the right choice depends on where you are going and how long you plan to stay there.
+
+**Option 1: Leave it in the Netherlands.** Your pension pot stays with the Dutch pension fund and is paid out at Dutch retirement age (currently 67), anywhere in the world. This is the default option and involves the least effort. The main drawback is currency risk if you retire outside the Eurozone.
+
+**Option 2: EU value transfer (waardeoverdracht).** If you move to another EU country and start working there, you may be able to transfer your Dutch employer pension to a pension fund in your new country. This must be requested within one year of starting new employment abroad. Both pension funds must agree, and the process can take 6-18 months. The practical reality: not all foreign pension funds accept Dutch transfers, so check with your new employer's pension scheme first.
+
+**Option 3: Leave it and monitor.** For shorter stays in the Netherlands (under 5 years), leaving the pension in place and monitoring it via mijnpensioenoverzicht.nl is often the most practical approach.
+
+**Tax implications when leaving:** The Netherlands has tax treaties with most countries that determine where pension income is taxed. In most cases, the country where you reside at the time of payment has the taxing right — not the Netherlands. However, if the pension exceeds certain thresholds or the country lacks a treaty with the Netherlands, Dutch withholding tax may apply. This is worth checking with a cross-border tax specialist before you relocate.
+
 ## Explore More Expat Guides
 
 - **[Dutch Tax System for Expats](/posts/dutch-tax-system-expats-2026/)** — Taxes and deductions

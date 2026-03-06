@@ -1,0 +1,1145 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Expat Insurance Chooser Netherlands 2026 — Build Your Coverage Package</title>
+  <meta name="description" content="Find the right insurance package as an expat in the Netherlands. Get personalised recommendations for liability, home contents, travel, legal expenses, and international health insurance.">
+  <meta name="robots" content="index, follow">
+  <link rel="canonical" href="https://expatnetherlandshub.com/tools/insurance-chooser/">
+
+  <!-- Open Graph -->
+  <meta property="og:title" content="Expat Insurance Chooser Netherlands 2026">
+  <meta property="og:description" content="Build your complete insurance package as an expat in the Netherlands — personalised recommendations in 2 minutes.">
+  <meta property="og:type" content="website">
+  <meta property="og:url" content="https://expatnetherlandshub.com/tools/insurance-chooser/">
+
+  <!-- Google Fonts -->
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=DM+Sans:wght@500;700&family=Inter:wght@400;500;600&display=swap" rel="stylesheet">
+
+  <!-- GA4 -->
+  <script async src="https://www.googletagmanager.com/gtag/js?id=G-2TJSDJB4CG"></script>
+  <script>
+    window.dataLayer = window.dataLayer || [];
+    function gtag(){dataLayer.push(arguments);}
+    gtag('js', new Date());
+    gtag('config', 'G-2TJSDJB4CG');
+  </script>
+
+  <!-- JSON-LD Schemas -->
+  <script type="application/ld+json">
+  {
+    "@context": "https://schema.org",
+    "@type": "WebApplication",
+    "name": "Expat Insurance Chooser Netherlands 2026",
+    "url": "https://expatnetherlandshub.com/tools/insurance-chooser/",
+    "description": "Interactive wizard to help expats in the Netherlands choose the right insurance package beyond basic health insurance.",
+    "applicationCategory": "FinanceApplication",
+    "operatingSystem": "Any",
+    "offers": {
+      "@type": "Offer",
+      "price": "0",
+      "priceCurrency": "EUR"
+    },
+    "publisher": {
+      "@type": "Organization",
+      "name": "ExpatNetherlandsHub",
+      "url": "https://expatnetherlandshub.com"
+    }
+  }
+  </script>
+  <script type="application/ld+json">
+  {
+    "@context": "https://schema.org",
+    "@type": "FAQPage",
+    "mainEntity": [
+      {
+        "@type": "Question",
+        "name": "Do expats in the Netherlands need insurance beyond health insurance?",
+        "acceptedAnswer": {
+          "@type": "Answer",
+          "text": "Yes. While health insurance (zorgverzekering) is mandatory in the Netherlands, most landlords require liability insurance (aansprakelijkheidsverzekering) and renters should consider home contents insurance. ZZP'ers (freelancers) also need disability insurance since they have no employer safety net."
+        }
+      },
+      {
+        "@type": "Question",
+        "name": "Is liability insurance mandatory in the Netherlands?",
+        "acceptedAnswer": {
+          "@type": "Answer",
+          "text": "Liability insurance is not legally mandatory in the Netherlands, but it is widely considered essential. Most landlords require tenants to have it, and it costs only €3–5 per month. It covers damage you accidentally cause to other people or their property."
+        }
+      },
+      {
+        "@type": "Question",
+        "name": "What is the difference between home contents and buildings insurance?",
+        "acceptedAnswer": {
+          "@type": "Answer",
+          "text": "Home contents insurance (inboedelverzekering) covers your personal belongings — furniture, electronics, clothes — against theft, fire, and water damage. Buildings insurance (opstalverzekering) covers the structure of the property itself and is typically the landlord's responsibility for renters."
+        }
+      },
+      {
+        "@type": "Question",
+        "name": "When do expats need international health insurance in the Netherlands?",
+        "acceptedAnswer": {
+          "@type": "Answer",
+          "text": "You need international health insurance if you are not yet enrolled in the Dutch zorgverzekering system — for example, if you have just arrived, are staying for less than 4 months, or are covered by your employer's international policy. Once registered and working in the Netherlands, you must get a Dutch health insurance policy within 4 months of arrival."
+        }
+      },
+      {
+        "@type": "Question",
+        "name": "What AOV disability insurance do ZZP'ers in the Netherlands need?",
+        "acceptedAnswer": {
+          "@type": "Answer",
+          "text": "Self-employed workers (ZZP'ers) in the Netherlands have no automatic disability coverage. An arbeidsongeschiktheidsverzekering (AOV) covers up to 80% of your income if you become unable to work due to illness or injury. Popular providers include Movir (especially for medical professionals) and De Amersfoortse (general ZZP'ers). Monthly premiums range from €100–€400 depending on income and coverage level."
+        }
+      },
+      {
+        "@type": "Question",
+        "name": "Is legal expenses insurance worth it for expats in the Netherlands?",
+        "acceptedAnswer": {
+          "@type": "Answer",
+          "text": "Legal expenses insurance (rechtsbijstandsverzekering) is particularly valuable for expats navigating the Dutch legal system in an unfamiliar language. It covers legal disputes related to employment, housing, and traffic — areas where expats frequently encounter issues. Costs are €7–15 per month and can save thousands in lawyer fees."
+        }
+      }
+    ]
+  }
+  </script>
+
+  <style>
+    *, *::before, *::after { box-sizing: border-box; margin: 0; padding: 0; }
+
+    :root {
+      --green: #1B6B4A;
+      --green-dark: #145236;
+      --orange: #E8832A;
+      --orange-dark: #C96B1A;
+      --bg: #F8FAF9;
+      --card: #FFFFFF;
+      --border: #E5E7EB;
+      --text: #1A1A1A;
+      --text-muted: #6B7280;
+      --radius-card: 14px;
+      --radius-btn: 10px;
+      --shadow-card: 0 2px 12px rgba(0,0,0,.08);
+    }
+
+    html { scroll-behavior: smooth; }
+    body { font-family: 'Inter', sans-serif; font-size: 16px; line-height: 1.6; color: var(--text); background: var(--bg); }
+
+    /* ─── HEADER ─── */
+    .site-header { background: var(--green); border-bottom: 3px solid var(--orange); position: sticky; top: 0; z-index: 100; }
+    .site-header .wrap { max-width: 1100px; margin: 0 auto; padding: 0 20px; height: 58px; display: flex; align-items: center; justify-content: space-between; }
+    .logo { display: flex; align-items: center; gap: 10px; color: #fff; text-decoration: none; font-family: 'DM Sans', sans-serif; font-weight: 700; font-size: 1.05rem; }
+    .logo svg { width: 28px; height: 28px; fill: none; stroke: #fff; stroke-width: 1.5; }
+    .logo .suffix { color: var(--orange); }
+    .header-nav { display: flex; gap: 24px; }
+    .header-nav a { color: rgba(255,255,255,.85); text-decoration: none; font-size: .9rem; font-weight: 500; transition: color .2s; }
+    .header-nav a:hover { color: #fff; }
+    @media (max-width: 768px) { .header-nav { display: none; } }
+
+    /* ─── LAYOUT ─── */
+    .page-wrap { max-width: 840px; margin: 0 auto; padding: 0 20px; }
+
+    /* ─── HERO ─── */
+    .tool-hero { text-align: center; padding: 40px 20px 28px; }
+    .tool-hero h1 { font-family: 'DM Sans', sans-serif; font-weight: 700; font-size: clamp(1.5rem, 4vw, 2.1rem); color: var(--green); line-height: 1.2; margin-bottom: 12px; }
+    .tool-hero p { color: var(--text-muted); font-size: 1.05rem; max-width: 600px; margin: 0 auto; }
+
+    /* ─── STEP INDICATOR ─── */
+    .step-indicator { display: flex; align-items: center; justify-content: center; gap: 0; margin: 28px 0 32px; }
+    .step-dot { width: 36px; height: 36px; border-radius: 50%; background: var(--border); border: 2px solid var(--border); display: flex; align-items: center; justify-content: center; font-family: 'DM Sans', sans-serif; font-weight: 700; font-size: .9rem; color: var(--text-muted); transition: all .3s; position: relative; flex-shrink: 0; }
+    .step-dot.active { background: var(--green); border-color: var(--green); color: #fff; }
+    .step-dot.done { background: var(--green); border-color: var(--green); color: #fff; }
+    .step-dot.done::after { content: '✓'; }
+    .step-dot.done .step-num { display: none; }
+    .step-line { flex: 1; max-width: 80px; height: 2px; background: var(--border); transition: background .3s; }
+    .step-line.done { background: var(--green); }
+    .step-label { font-size: .78rem; color: var(--text-muted); text-align: center; position: absolute; top: calc(100% + 6px); white-space: nowrap; }
+    .step-dot.active .step-label { color: var(--green); font-weight: 600; }
+    .step-wrapper { display: flex; flex-direction: column; align-items: center; position: relative; }
+
+    /* ─── WIZARD CARD ─── */
+    .wizard-card { background: var(--card); border-radius: var(--radius-card); box-shadow: var(--shadow-card); border: 1px solid var(--border); padding: 32px; margin-bottom: 24px; }
+    .wizard-card h2 { font-family: 'DM Sans', sans-serif; font-weight: 700; font-size: 1.3rem; color: var(--green); margin-bottom: 6px; }
+    .wizard-card .step-desc { color: var(--text-muted); font-size: .95rem; margin-bottom: 24px; }
+
+    /* ─── FORM ELEMENTS ─── */
+    .field-group { margin-bottom: 24px; }
+    .field-label { font-weight: 600; font-size: .95rem; color: var(--text); margin-bottom: 10px; display: block; }
+    .radio-group, .checkbox-group { display: flex; flex-direction: column; gap: 10px; }
+    .radio-option, .checkbox-option { display: flex; align-items: flex-start; gap: 12px; padding: 12px 16px; border: 1.5px solid var(--border); border-radius: 10px; cursor: pointer; transition: all .2s; background: var(--bg); }
+    .radio-option:hover, .checkbox-option:hover { border-color: var(--green); background: #f0f7f4; }
+    .radio-option.selected, .checkbox-option.selected { border-color: var(--green); background: #eef6f2; }
+    .radio-option input, .checkbox-option input { margin-top: 3px; accent-color: var(--green); width: 16px; height: 16px; flex-shrink: 0; cursor: pointer; }
+    .option-text strong { display: block; font-size: .95rem; color: var(--text); }
+    .option-text span { font-size: .85rem; color: var(--text-muted); }
+
+    /* ─── CHECKBOX OPTION (step 2) ─── */
+    .checkbox-option { align-items: flex-start; }
+    .checkbox-badge { margin-left: auto; flex-shrink: 0; font-size: .72rem; font-weight: 600; padding: 2px 8px; border-radius: 20px; white-space: nowrap; }
+    .badge-essential { background: #fef3e2; color: #92400e; }
+    .badge-zzp { background: #ede9fe; color: #5b21b6; }
+    .badge-popular { background: #d1fae5; color: #065f46; }
+
+    /* ─── NAV BUTTONS ─── */
+    .wizard-nav { display: flex; justify-content: space-between; align-items: center; gap: 12px; margin-top: 28px; }
+    .btn-back { background: none; border: 1.5px solid var(--border); color: var(--text-muted); padding: 11px 22px; border-radius: var(--radius-btn); font-family: 'Inter', sans-serif; font-size: .95rem; font-weight: 500; cursor: pointer; transition: all .2s; }
+    .btn-back:hover { border-color: var(--green); color: var(--green); }
+    .btn-next { background: var(--green); color: #fff; border: none; padding: 12px 28px; border-radius: var(--radius-btn); font-family: 'Inter', sans-serif; font-size: .95rem; font-weight: 600; cursor: pointer; transition: background .2s; flex: 1; max-width: 220px; }
+    .btn-next:hover { background: var(--green-dark); }
+    .btn-next:disabled { background: var(--border); color: var(--text-muted); cursor: not-allowed; }
+
+    /* ─── RESULTS ─── */
+    .results-wrap { display: none; }
+    .results-wrap.visible { display: block; }
+
+    /* Summary card */
+    .summary-card { background: var(--green); color: #fff; border-radius: var(--radius-card); padding: 24px 28px; margin-bottom: 24px; box-shadow: var(--shadow-card); }
+    .summary-card h2 { font-family: 'DM Sans', sans-serif; font-weight: 700; font-size: 1.2rem; margin-bottom: 16px; }
+    .summary-stats { display: flex; flex-wrap: wrap; gap: 16px; margin-bottom: 16px; }
+    .stat-item { background: rgba(255,255,255,.12); border-radius: 10px; padding: 12px 18px; flex: 1; min-width: 140px; }
+    .stat-item .stat-value { font-family: 'DM Sans', sans-serif; font-weight: 700; font-size: 1.6rem; }
+    .stat-item .stat-label { font-size: .82rem; opacity: .85; }
+    .summary-note { font-size: .88rem; opacity: .82; background: rgba(255,255,255,.1); border-radius: 8px; padding: 10px 14px; }
+    .summary-note strong { color: #ffd97a; }
+
+    /* Affiliate CTA bar */
+    .cta-bar { background: var(--card); border: 1.5px solid var(--orange); border-radius: var(--radius-card); padding: 20px 24px; margin-bottom: 24px; display: flex; flex-wrap: wrap; align-items: center; gap: 12px; }
+    .cta-bar p { flex: 1; font-size: .92rem; color: var(--text-muted); min-width: 180px; }
+    .cta-affiliate { background: var(--orange); color: #fff; text-decoration: none; padding: 11px 20px; border-radius: var(--radius-btn); font-weight: 600; font-size: .9rem; white-space: nowrap; transition: background .2s; }
+    .cta-affiliate:hover { background: var(--orange-dark); }
+    .cta-secondary { color: var(--green); text-decoration: none; font-weight: 500; font-size: .9rem; border: 1.5px solid var(--green); padding: 10px 18px; border-radius: var(--radius-btn); white-space: nowrap; transition: all .2s; }
+    .cta-secondary:hover { background: var(--green); color: #fff; }
+
+    /* Result category sections */
+    .result-category { margin-bottom: 28px; }
+    .category-header { font-family: 'DM Sans', sans-serif; font-weight: 700; font-size: 1.05rem; color: var(--green); border-bottom: 2px solid var(--border); padding-bottom: 10px; margin-bottom: 16px; display: flex; align-items: center; gap: 8px; }
+    .category-header svg { width: 20px; height: 20px; }
+    .result-cards { display: grid; grid-template-columns: repeat(auto-fit, minmax(280px, 1fr)); gap: 16px; }
+    .result-card { background: var(--card); border: 1.5px solid var(--border); border-radius: var(--radius-card); padding: 20px; box-shadow: var(--shadow-card); position: relative; overflow: hidden; }
+    .result-card.highlight { border-color: var(--orange); }
+    .result-card.highlight::before { content: 'RECOMMENDED'; position: absolute; top: 12px; right: -28px; background: var(--orange); color: #fff; font-size: .65rem; font-weight: 700; padding: 3px 32px; transform: rotate(35deg); letter-spacing: .05em; }
+    .card-provider { font-family: 'DM Sans', sans-serif; font-weight: 700; font-size: 1.05rem; color: var(--text); margin-bottom: 4px; }
+    .card-price { font-size: 1.25rem; font-weight: 700; color: var(--green); font-family: 'DM Sans', sans-serif; margin-bottom: 4px; }
+    .card-best-for { display: inline-block; font-size: .78rem; font-weight: 600; background: #eef6f2; color: var(--green); border-radius: 20px; padding: 2px 10px; margin-bottom: 12px; }
+    .card-coverage { list-style: none; margin-bottom: 12px; }
+    .card-coverage li { font-size: .88rem; color: var(--text-muted); padding: 3px 0 3px 20px; position: relative; }
+    .card-coverage li::before { content: '✓'; color: var(--green); font-weight: 700; position: absolute; left: 0; }
+    .card-why { font-size: .85rem; color: var(--text-muted); background: var(--bg); border-radius: 8px; padding: 8px 12px; font-style: italic; margin-bottom: 14px; }
+    .card-cta { display: block; text-align: center; background: var(--orange); color: #fff; text-decoration: none; padding: 10px 16px; border-radius: var(--radius-btn); font-weight: 600; font-size: .88rem; transition: background .2s; }
+    .card-cta:hover { background: var(--orange-dark); }
+
+    /* Alert */
+    .alert { background: #fffbeb; border: 1.5px solid #fcd34d; border-radius: 10px; padding: 14px 18px; margin-bottom: 20px; font-size: .9rem; color: #78350f; }
+    .alert strong { display: block; margin-bottom: 4px; color: #92400e; }
+
+    /* Reset btn */
+    .btn-reset { display: block; margin: 0 auto 40px; background: none; border: 1.5px solid var(--border); color: var(--text-muted); padding: 10px 24px; border-radius: var(--radius-btn); font-size: .9rem; cursor: pointer; transition: all .2s; }
+    .btn-reset:hover { border-color: var(--green); color: var(--green); }
+
+    /* ─── SEO CONTENT ─── */
+    .seo-content { background: var(--card); border-radius: var(--radius-card); box-shadow: var(--shadow-card); border: 1px solid var(--border); padding: 40px; margin: 48px 0; }
+    .seo-content h2 { font-family: 'DM Sans', sans-serif; font-weight: 700; font-size: 1.4rem; color: var(--green); margin: 32px 0 12px; }
+    .seo-content h2:first-child { margin-top: 0; }
+    .seo-content h3 { font-family: 'DM Sans', sans-serif; font-weight: 700; font-size: 1.1rem; color: var(--text); margin: 24px 0 8px; }
+    .seo-content p { color: var(--text-muted); font-size: .97rem; margin-bottom: 14px; }
+    .seo-content a { color: var(--green); }
+    .seo-content ul { margin: 0 0 16px 20px; }
+    .seo-content ul li { color: var(--text-muted); font-size: .97rem; margin-bottom: 6px; }
+    .seo-content .info-box { background: var(--bg); border-left: 4px solid var(--green); border-radius: 0 10px 10px 0; padding: 14px 18px; margin: 16px 0 20px; }
+    .seo-content .info-box p { margin: 0; font-size: .92rem; }
+    .seo-content table { width: 100%; border-collapse: collapse; margin: 16px 0 24px; font-size: .9rem; }
+    .seo-content th { background: var(--green); color: #fff; padding: 10px 14px; text-align: left; font-weight: 600; }
+    .seo-content td { padding: 9px 14px; border-bottom: 1px solid var(--border); color: var(--text-muted); }
+    .seo-content tr:nth-child(even) td { background: var(--bg); }
+
+    /* ─── FOOTER ─── */
+    .site-footer { background: #111827; color: rgba(255,255,255,.6); text-align: center; padding: 28px 20px; margin-top: 60px; font-size: .88rem; }
+    .footer-links { display: flex; flex-wrap: wrap; justify-content: center; gap: 16px; margin-bottom: 12px; }
+    .footer-links a { color: rgba(255,255,255,.7); text-decoration: none; transition: color .2s; }
+    .footer-links a:hover { color: #fff; }
+
+    /* ─── UTILITIES ─── */
+    .hidden { display: none !important; }
+    @media (max-width: 768px) {
+      .wizard-card { padding: 22px 18px; }
+      .seo-content { padding: 24px 18px; }
+      .result-cards { grid-template-columns: 1fr; }
+      .summary-stats { gap: 10px; }
+      .cta-bar { flex-direction: column; }
+      .step-indicator { gap: 0; }
+      .step-line { max-width: 48px; }
+    }
+  </style>
+</head>
+<body>
+
+  <!-- HEADER -->
+  <header class="site-header">
+    <div class="wrap">
+      <a href="/" class="logo">
+        <svg viewBox="0 0 24 24"><circle cx="12" cy="12" r="9"/><path d="M12 3a15 15 0 0 1 0 18M12 3a15 15 0 0 0 0 18M3 12h18"/></svg>
+        expatnetherlandshub<span class="suffix">.com</span>
+      </a>
+      <nav class="header-nav"><a href="/tools/">Tools</a><a href="/guides/">Guides</a><a href="/about/">About</a></nav>
+    </div>
+  </header>
+
+  <!-- MAIN CONTENT -->
+  <main>
+    <div class="page-wrap">
+
+      <!-- HERO -->
+      <div class="tool-hero">
+        <h1>Expat Insurance Chooser Netherlands 2026</h1>
+        <p>Answer 2 quick steps and get personalised insurance recommendations for your situation — liability, home contents, travel, legal, and more.</p>
+      </div>
+
+      <!-- STEP INDICATOR -->
+      <div class="step-indicator" id="stepIndicator">
+        <div class="step-wrapper">
+          <div class="step-dot active" id="dot1"><span class="step-num">1</span><span class="step-label">Your Situation</span></div>
+        </div>
+        <div class="step-line" id="line1"></div>
+        <div class="step-wrapper">
+          <div class="step-dot" id="dot2"><span class="step-num">2</span><span class="step-label">What You Need</span></div>
+        </div>
+        <div class="step-line" id="line2"></div>
+        <div class="step-wrapper">
+          <div class="step-dot" id="dot3"><span class="step-num">3</span><span class="step-label">Results</span></div>
+        </div>
+      </div>
+
+      <!-- ═══════ STEP 1 ═══════ -->
+      <div id="step1" class="wizard-card">
+        <h2>Step 1: Your Situation</h2>
+        <p class="step-desc">Tell us about your life in the Netherlands so we can tailor recommendations to you.</p>
+
+        <!-- Q1: Duration -->
+        <div class="field-group">
+          <label class="field-label">How long are you planning to stay in the Netherlands?</label>
+          <div class="radio-group" id="q-duration">
+            <label class="radio-option">
+              <input type="radio" name="duration" value="short">
+              <div class="option-text"><strong>Less than 1 year</strong><span>Temporary stay, student exchange, or short assignment</span></div>
+            </label>
+            <label class="radio-option">
+              <input type="radio" name="duration" value="medium">
+              <div class="option-text"><strong>1–3 years</strong><span>Fixed-term contract, expat assignment, or studying</span></div>
+            </label>
+            <label class="radio-option">
+              <input type="radio" name="duration" value="long">
+              <div class="option-text"><strong>3+ years / permanent</strong><span>Long-term stay or settling in the Netherlands</span></div>
+            </label>
+          </div>
+        </div>
+
+        <!-- Q2: Employment -->
+        <div class="field-group">
+          <label class="field-label">What is your employment situation?</label>
+          <div class="radio-group" id="q-employment">
+            <label class="radio-option">
+              <input type="radio" name="employment" value="employed">
+              <div class="option-text"><strong>Employed by a Dutch company</strong><span>Permanent or temporary contract (loondienst)</span></div>
+            </label>
+            <label class="radio-option">
+              <input type="radio" name="employment" value="zzp">
+              <div class="option-text"><strong>Self-employed / ZZP'er</strong><span>Freelancer, sole trader, or independent contractor</span></div>
+            </label>
+            <label class="radio-option">
+              <input type="radio" name="employment" value="student">
+              <div class="option-text"><strong>Student</strong><span>Full-time student at a Dutch institution</span></div>
+            </label>
+            <label class="radio-option">
+              <input type="radio" name="employment" value="notworking">
+              <div class="option-text"><strong>Not working / partner visa</strong><span>Accompanying spouse, job seeker, or not yet employed</span></div>
+            </label>
+          </div>
+        </div>
+
+        <!-- Q3: Health insurance -->
+        <div class="field-group">
+          <label class="field-label">Do you have Dutch health insurance (zorgverzekering)?</label>
+          <div class="radio-group" id="q-health">
+            <label class="radio-option">
+              <input type="radio" name="health" value="yes">
+              <div class="option-text"><strong>Yes, I have a Dutch zorgverzekering</strong><span>Enrolled with a Dutch insurer (e.g. Zilveren Kruis, CZ, VGZ)</span></div>
+            </label>
+            <label class="radio-option">
+              <input type="radio" name="health" value="no">
+              <div class="option-text"><strong>No, not yet</strong><span>Recently arrived or haven't enrolled yet</span></div>
+            </label>
+            <label class="radio-option">
+              <input type="radio" name="health" value="employer">
+              <div class="option-text"><strong>Covered by employer internationally</strong><span>My employer provides international health coverage</span></div>
+            </label>
+          </div>
+        </div>
+
+        <!-- Q4: Living situation -->
+        <div class="field-group">
+          <label class="field-label">What is your living situation?</label>
+          <div class="radio-group" id="q-living">
+            <label class="radio-option">
+              <input type="radio" name="living" value="furnished">
+              <div class="option-text"><strong>Renting furnished</strong><span>Apartment or room with furniture included</span></div>
+            </label>
+            <label class="radio-option">
+              <input type="radio" name="living" value="unfurnished">
+              <div class="option-text"><strong>Renting unfurnished</strong><span>Empty property — you have your own furniture and belongings</span></div>
+            </label>
+            <label class="radio-option">
+              <input type="radio" name="living" value="own">
+              <div class="option-text"><strong>Own home</strong><span>You own the property (or are buying)</span></div>
+            </label>
+          </div>
+        </div>
+
+        <div class="wizard-nav">
+          <span></span>
+          <button class="btn-next" id="nextBtn1" onclick="goToStep2()">Next: What do you need? →</button>
+        </div>
+      </div>
+
+      <!-- ═══════ STEP 2 ═══════ -->
+      <div id="step2" class="wizard-card hidden">
+        <h2>Step 2: What Do You Need?</h2>
+        <p class="step-desc">Select all insurance types you want to explore. We'll show you the best options for each.</p>
+
+        <div class="field-group">
+          <div class="checkbox-group" id="q-needs">
+            <label class="checkbox-option" id="opt-liability">
+              <input type="checkbox" name="needs" value="liability">
+              <div class="option-text">
+                <strong>Liability insurance <em>(aansprakelijkheidsverzekering)</em></strong>
+                <span>Covers damage you accidentally cause to other people or their property</span>
+              </div>
+              <span class="checkbox-badge badge-essential">Essential</span>
+            </label>
+            <label class="checkbox-option" id="opt-contents">
+              <input type="checkbox" name="needs" value="contents">
+              <div class="option-text">
+                <strong>Home contents insurance <em>(inboedelverzekering)</em></strong>
+                <span>Covers your belongings against theft, fire, and water damage</span>
+              </div>
+              <span class="checkbox-badge badge-popular">Popular</span>
+            </label>
+            <label class="checkbox-option" id="opt-travel">
+              <input type="checkbox" name="needs" value="travel">
+              <div class="option-text">
+                <strong>Travel / repatriation insurance</strong>
+                <span>Emergency return home, travel medical, trip cancellation</span>
+              </div>
+              <span class="checkbox-badge badge-popular">Popular</span>
+            </label>
+            <label class="checkbox-option" id="opt-legal">
+              <input type="checkbox" name="needs" value="legal">
+              <div class="option-text">
+                <strong>Legal expenses insurance <em>(rechtsbijstandsverzekering)</em></strong>
+                <span>Covers employment, housing, and traffic legal disputes</span>
+              </div>
+            </label>
+            <label class="checkbox-option" id="opt-intlhealth">
+              <input type="checkbox" name="needs" value="intlhealth">
+              <div class="option-text">
+                <strong>International health insurance</strong>
+                <span>For those not yet covered by Dutch zorgverzekering</span>
+              </div>
+            </label>
+            <label class="checkbox-option" id="opt-aov">
+              <input type="checkbox" name="needs" value="aov">
+              <div class="option-text">
+                <strong>Disability insurance <em>(arbeidsongeschiktheidsverzekering / AOV)</em></strong>
+                <span>Covers loss of income if you cannot work due to illness or injury</span>
+              </div>
+              <span class="checkbox-badge badge-zzp">ZZP essential</span>
+            </label>
+          </div>
+        </div>
+
+        <div class="wizard-nav">
+          <button class="btn-back" onclick="goToStep1()">← Back</button>
+          <button class="btn-next" onclick="showResults()">See My Recommendations →</button>
+        </div>
+      </div>
+
+      <!-- ═══════ STEP 3: RESULTS ═══════ -->
+      <div id="resultsSection" class="results-wrap">
+
+        <!-- Summary -->
+        <div class="summary-card" id="summaryCard">
+          <h2>Your Personalised Insurance Package</h2>
+          <div class="summary-stats" id="summaryStats">
+            <!-- filled by JS -->
+          </div>
+          <div class="summary-note" id="summaryNote"></div>
+        </div>
+
+        <!-- Alerts -->
+        <div id="alertZZP" class="alert hidden">
+          <strong>ZZP'er — disability cover is critical</strong>
+          As a self-employed worker in the Netherlands, you have no employer sick pay or WIA coverage. An AOV policy is your financial safety net if you become unable to work.
+        </div>
+        <div id="alertHealth" class="alert hidden">
+          <strong>No Dutch health insurance yet?</strong>
+          You must register for a zorgverzekering within 4 months of starting work in the Netherlands. Until then, international health insurance fills the gap. <a href="/guides/health/health-insurance-netherlands-2026/">Read our guide →</a>
+        </div>
+
+        <!-- CTA Bar -->
+        <div class="cta-bar">
+          <p>Compare all Dutch insurance policies and get instant quotes in one place.</p>
+          <a href="https://www.awin1.com/awclick.php?mid=8558&id=2776410" target="_blank" rel="nofollow sponsored" class="cta-affiliate">Compare on Independer →</a>
+          <a href="/guides/health/best-expat-insurance-netherlands-2026/" class="cta-secondary">Read expat insurance guide →</a>
+        </div>
+
+        <!-- Result categories — filled by JS -->
+        <div id="resultCategories"></div>
+
+        <!-- Secondary CTAs -->
+        <div class="cta-bar" style="margin-top:8px;">
+          <p>Need help finding Dutch health insurance (zorgverzekering)?</p>
+          <a href="/tools/health-insurance-wizard/" class="cta-secondary">Find Dutch health insurance →</a>
+        </div>
+
+        <button class="btn-reset" onclick="resetWizard()">← Start over</button>
+      </div>
+
+      <!-- ─── SEO CONTENT ─── -->
+      <article class="seo-content">
+        <h2>Why Expats in the Netherlands Need More Than Health Insurance</h2>
+        <p>
+          Moving to the Netherlands involves a checklist that most expats focus on: find housing, register at the gemeente, get a BSN number, open a bank account, and sort out your Dutch health insurance (zorgverzekering). But health insurance is only the beginning. The Netherlands has a well-developed insurance culture — most Dutch residents carry 3–5 insurance policies as a matter of course — and for good reason.
+        </p>
+        <p>
+          This guide covers the five types of insurance that expats most commonly overlook, when you actually need them, and what they cost.
+        </p>
+
+        <h2>Liability Insurance: Effectively Mandatory</h2>
+        <p>
+          Liability insurance (aansprakelijkheidsverzekering, or AVP) is not legally required in the Netherlands — but in practice, it is non-negotiable. Here is why:
+        </p>
+        <ul>
+          <li><strong>Most landlords require it.</strong> Private rental contracts in the Netherlands almost universally include a clause requiring tenants to hold valid liability insurance. Without it, you can be refused or evicted.</li>
+          <li><strong>The cost is negligible.</strong> Basic liability coverage costs €3–5 per month, often less as part of a bundle. It is one of the cheapest forms of insurance available.</li>
+          <li><strong>The risk is significant.</strong> If you accidentally damage someone's car, break a landlord's window, or injure someone — even a small incident can result in thousands of euros in liability. Without insurance, you pay out of pocket.</li>
+        </ul>
+        <div class="info-box">
+          <p>Coverage limits for Dutch liability policies are substantial. Centraal Beheer offers up to €1.25 million; Interpolis covers up to €2.5 million. Both include worldwide coverage, meaning you are protected even when travelling outside the Netherlands.</p>
+        </div>
+
+        <h2>Home Contents Insurance: Who Really Needs It?</h2>
+        <p>
+          Home contents insurance (inboedelverzekering) covers your personal belongings against fire, water damage, theft, and accidental damage. Whether you need it depends largely on your living situation.
+        </p>
+        <h3>Furnished renters</h3>
+        <p>
+          If you are renting a furnished apartment — common for expats in cities like Amsterdam, Rotterdam, and The Hague — the furniture belongs to your landlord, not you. Their insurance covers it. However, your own belongings (laptop, clothes, bicycle, camera) are not covered under the landlord's policy. A contents policy costing €8–15 per month covers these.
+        </p>
+        <h3>Unfurnished renters and homeowners</h3>
+        <p>
+          If you have rented or bought an unfurnished property and have accumulated furniture, electronics, and appliances, home contents insurance becomes much more important. Replacement value policies (Allianz, €10–25/month) pay out what it costs to buy new replacements, not depreciated value.
+        </p>
+
+        <h2>Legal Expenses Insurance: Navigating Dutch Disputes</h2>
+        <p>
+          The Netherlands has a complex legal and administrative system that can be particularly challenging for expats unfamiliar with Dutch law. Legal expenses insurance (rechtsbijstandsverzekering) covers the cost of legal assistance in disputes involving:
+        </p>
+        <ul>
+          <li>Employment — wrongful dismissal, contract disputes, non-payment</li>
+          <li>Housing — landlord disputes, deposit return, repair obligations</li>
+          <li>Traffic — accident fault disputes, fines</li>
+          <li>Consumer rights — warranty and purchase disputes</li>
+        </ul>
+        <p>
+          DAS is the market leader in the Netherlands and offers comprehensive coverage across all dispute types for €8–15 per month. Legal fees in the Netherlands can run €150–€300 per hour — a single employment dispute can easily cost €3,000–€10,000 in lawyer fees without insurance.
+        </p>
+        <div class="info-box">
+          <p><strong>Expat tip:</strong> Many Dutch employment disputes arise from misunderstandings about probation periods, notice requirements, or performance improvement procedures. Legal expenses insurance is especially valuable during your first few years in the Netherlands.</p>
+        </div>
+
+        <h2>AOV Disability Insurance for ZZP'ers: The Hidden Essential</h2>
+        <p>
+          If you are self-employed (ZZP'er) in the Netherlands, disability insurance is arguably the most important coverage you can buy — yet it is the most commonly skipped. Here is why this is a serious mistake:
+        </p>
+        <ul>
+          <li>As a ZZP'er, you are not covered by the Dutch WIA (Work and Income Act) that protects employed workers.</li>
+          <li>You have no employer sick pay — if you cannot work, your income stops.</li>
+          <li>The Dutch government's voluntary AOV scheme (via UWV) is available but restrictive and often insufficient.</li>
+        </ul>
+        <p>
+          A private arbeidsongeschiktheidsverzekering (AOV) covers up to 80% of your declared income if illness or injury prevents you from working. Premiums vary based on your profession, income level, and the waiting period you choose:
+        </p>
+        <table>
+          <thead>
+            <tr><th>Provider</th><th>Best For</th><th>Monthly Premium Range</th></tr>
+          </thead>
+          <tbody>
+            <tr><td>Movir</td><td>Medical professionals, specialists</td><td>€150–€400/mo</td></tr>
+            <tr><td>De Amersfoortse</td><td>General ZZP'ers, flexible coverage</td><td>€100–€350/mo</td></tr>
+          </tbody>
+        </table>
+        <p>
+          A longer waiting period (the period before payouts begin — typically 30, 60, or 90 days) significantly reduces your premium. Many ZZP'ers combine a 90-day waiting period with a 3-month emergency fund.
+        </p>
+        <p>
+          For more information on freelancing in the Netherlands, read our guide on <a href="/guides/health/best-expat-insurance-netherlands-2026/">insurance for expats in the Netherlands</a>.
+        </p>
+
+        <h2>International Health Insurance: When You Need It vs. the Dutch System</h2>
+        <p>
+          The Dutch health insurance system (zorgverzekering) is mandatory for anyone who works or lives in the Netherlands. However, there is a gap period — and some expats fall outside the Dutch system entirely.
+        </p>
+        <h3>When you need international health insurance</h3>
+        <ul>
+          <li>You have just arrived in the Netherlands and have not yet enrolled in a zorgverzekering</li>
+          <li>You are staying for fewer than 4 months and do not qualify for the Dutch system</li>
+          <li>You are a digital nomad without a work permit or BSN</li>
+          <li>You need coverage in your home country or while travelling internationally beyond what Dutch supplementary insurance covers</li>
+        </ul>
+        <h3>Enrol in Dutch zorgverzekering as soon as eligible</h3>
+        <p>
+          Once you are employed or registered in the Netherlands, enrolling in a Dutch zorgverzekering is almost always more cost-effective than international health insurance for primary Dutch healthcare. The Dutch system offers excellent primary care through your huisarts (GP) and specialist referral system.
+        </p>
+        <p>
+          Read our complete guide: <a href="/guides/health/health-insurance-netherlands-2026/">Dutch health insurance explained for expats</a>.
+        </p>
+
+        <h2>Building Your Complete Insurance Package</h2>
+        <p>
+          Most expats in the Netherlands end up with a core package of 2–3 policies. Use the tool above to get personalised recommendations, then compare prices on Independer — the leading Dutch insurance comparison platform with access to all major Dutch insurers.
+        </p>
+        <p>
+          A typical long-term expat package with a Dutch job might include:
+        </p>
+        <ul>
+          <li>Liability insurance (AVP): €3–5/month — essentially everyone</li>
+          <li>Home contents (inboedel): €8–20/month — unfurnished renters and homeowners</li>
+          <li>Legal expenses (rechtsbijstand): €8–15/month — highly recommended</li>
+        </ul>
+        <p>
+          Total for a core package: approximately €19–40 per month — less than a typical monthly streaming bill.
+        </p>
+        <p>
+          For more personalised guidance, use our <a href="/tools/insurance-chooser/">expat insurance chooser above</a> or read our in-depth <a href="/guides/health/best-expat-insurance-netherlands-2026/">guide to expat insurance in the Netherlands</a>.
+        </p>
+      </article>
+
+    </div><!-- /page-wrap -->
+  </main>
+
+  <!-- FOOTER -->
+  <footer class="site-footer">
+    <div class="footer-links">
+      <a href="/">Home</a><a href="/tools/">Tools</a><a href="/guides/">Guides</a><a href="/about/">About</a><a href="/privacy/">Privacy</a>
+    </div>
+    <p>&copy; 2026 expatnetherlandshub.com &middot; This site contains affiliate links.</p>
+  </footer>
+
+  <script>
+  // ─────────────────────────────────────────────
+  //  STATE
+  // ─────────────────────────────────────────────
+  const state = {
+    duration: null,
+    employment: null,
+    health: null,
+    living: null,
+    needs: []
+  };
+
+  // ─────────────────────────────────────────────
+  //  INSURANCE DATA
+  // ─────────────────────────────────────────────
+  const insuranceData = {
+    liability: {
+      label: 'Liability Insurance',
+      labelNL: 'Aansprakelijkheidsverzekering',
+      icon: '<svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M12 22s8-4 8-10V5l-8-3-8 3v7c0 6 8 10 8 10z"/></svg>',
+      options: [
+        {
+          id: 'cb-liability',
+          provider: 'Centraal Beheer',
+          price: '€3–5/month',
+          budgetMin: 4,
+          bestFor: 'Budget',
+          highlight: false,
+          coverage: [
+            'Coverage up to €1.25 million',
+            'Worldwide coverage included',
+            'Covers damage to third parties',
+            'Family members included'
+          ],
+          why: 'The most affordable option from one of the largest Dutch insurers — solid coverage at a minimal cost.',
+          cta: 'https://www.awin1.com/awclick.php?mid=8558&id=2776410'
+        },
+        {
+          id: 'interpolis-liability',
+          provider: 'Interpolis',
+          price: '€3–5/month',
+          budgetMin: 5,
+          bestFor: 'Most coverage',
+          highlight: true,
+          coverage: [
+            'Coverage up to €2.5 million',
+            'Worldwide coverage included',
+            'New-for-old damage claims',
+            'Optional extras available'
+          ],
+          why: 'Double the coverage limit of budget options for barely any extra cost — the smart choice for peace of mind.',
+          cta: 'https://www.awin1.com/awclick.php?mid=8558&id=2776410'
+        }
+      ]
+    },
+    contents: {
+      label: 'Home Contents Insurance',
+      labelNL: 'Inboedelverzekering',
+      icon: '<svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M3 9l9-7 9 7v11a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2z"/><polyline points="9 22 9 12 15 12 15 22"/></svg>',
+      options: [
+        {
+          id: 'cb-contents',
+          provider: 'Centraal Beheer',
+          price: '€8–20/month',
+          budgetMin: 10,
+          bestFor: 'Budget',
+          highlight: false,
+          coverage: [
+            'Theft, fire, and water damage',
+            'Coverage based on home size',
+            'Electronics and valuables covered',
+            'Can add bicycle coverage'
+          ],
+          why: 'Straightforward coverage with a strong digital claims process and competitive pricing for standard apartments.',
+          cta: 'https://www.awin1.com/awclick.php?mid=8558&id=2776410'
+        },
+        {
+          id: 'allianz-contents',
+          provider: 'Allianz',
+          price: '€10–25/month',
+          budgetMin: 15,
+          bestFor: 'Premium / replacement value',
+          highlight: true,
+          coverage: [
+            'Full replacement value (new for old)',
+            'All-risk option available',
+            'High-value items and jewellery',
+            'International claims support'
+          ],
+          why: 'Replacement value coverage means you receive the cost of a new item, not its depreciated value — essential for electronics.',
+          cta: 'https://www.awin1.com/awclick.php?mid=8558&id=2776410'
+        }
+      ]
+    },
+    travel: {
+      label: 'Travel / Repatriation Insurance',
+      labelNL: 'Reis- en repatrieringsverzekering',
+      icon: '<svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M22 16.92v3a2 2 0 0 1-2.18 2 19.79 19.79 0 0 1-8.63-3.07A19.5 19.5 0 0 1 4.64 13a19.79 19.79 0 0 1-3.07-8.67A2 2 0 0 1 3.55 2h3a2 2 0 0 1 2 1.72c.127.96.361 1.903.7 2.81a2 2 0 0 1-.45 2.11L8.09 9.91a16 16 0 0 0 6 6l1.27-1.27a2 2 0 0 1 2.11-.45c.907.339 1.85.573 2.81.7A2 2 0 0 1 22 16.92z"/></svg>',
+      options: [
+        {
+          id: 'safetywing-travel',
+          provider: 'SafetyWing Nomad',
+          price: '€40–80/month',
+          budgetMin: 50,
+          bestFor: 'Digital nomads / budget',
+          highlight: false,
+          coverage: [
+            'Global travel medical coverage',
+            'Emergency repatriation included',
+            'Cancel and restart monthly',
+            'Coverage in 185+ countries'
+          ],
+          why: 'Flexible month-to-month coverage ideal for digital nomads or expats who travel frequently between countries.',
+          cta: 'https://www.awin1.com/awclick.php?mid=8558&id=2776410'
+        },
+        {
+          id: 'cigna-travel',
+          provider: 'Cigna Global',
+          price: '€150–400/month',
+          budgetMin: 200,
+          bestFor: 'Long-term expats / families',
+          highlight: true,
+          coverage: [
+            'Comprehensive international coverage',
+            'Emergency repatriation + family return',
+            'Trip cancellation and interruption',
+            'Mental health support included'
+          ],
+          why: 'Industry-leading expat travel insurance with comprehensive benefits and a dedicated multilingual support team.',
+          cta: 'https://www.awin1.com/awclick.php?mid=8558&id=2776410'
+        }
+      ]
+    },
+    legal: {
+      label: 'Legal Expenses Insurance',
+      labelNL: 'Rechtsbijstandsverzekering',
+      icon: '<svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M14 2H6a2 2 0 0 0-2 2v16a2 2 0 0 0 2 2h12a2 2 0 0 0 2-2V8z"/><polyline points="14 2 14 8 20 8"/><line x1="12" y1="18" x2="12" y2="12"/><line x1="9" y1="15" x2="15" y2="15"/></svg>',
+      options: [
+        {
+          id: 'interpolis-legal',
+          provider: 'Interpolis',
+          price: '€7–12/month',
+          budgetMin: 9,
+          bestFor: 'Budget',
+          highlight: false,
+          coverage: [
+            'Employment disputes',
+            'Housing and rental disputes',
+            'Traffic and accident disputes',
+            'Up to €25,000 legal costs covered'
+          ],
+          why: 'Solid basic legal coverage from a trusted Dutch insurer — covers the most common expat dispute scenarios.',
+          cta: 'https://www.awin1.com/awclick.php?mid=8558&id=2776410'
+        },
+        {
+          id: 'das-legal',
+          provider: 'DAS',
+          price: '€8–15/month',
+          budgetMin: 12,
+          bestFor: 'Comprehensive coverage',
+          highlight: true,
+          coverage: [
+            'All areas: employment, housing, traffic, consumer',
+            'In-house legal team — fast response',
+            'Coverage from day 1 for accidents',
+            'English-speaking legal advisors available'
+          ],
+          why: 'The market leader in Dutch legal insurance with a dedicated in-house team — especially valuable for expats navigating Dutch bureaucracy.',
+          cta: 'https://www.awin1.com/awclick.php?mid=8558&id=2776410'
+        }
+      ]
+    },
+    intlhealth: {
+      label: 'International Health Insurance',
+      labelNL: 'International Health Insurance',
+      icon: '<svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M22 12h-4l-3 9L9 3l-3 9H2"/></svg>',
+      options: [
+        {
+          id: 'safetywing-health',
+          provider: 'SafetyWing',
+          price: '€40–90/month',
+          budgetMin: 55,
+          bestFor: 'Budget / digital nomads',
+          highlight: false,
+          coverage: [
+            'Hospital and emergency coverage',
+            'Basic outpatient care',
+            'Repatriation included',
+            'Coverage in 185+ countries'
+          ],
+          why: 'The most affordable international health option — ideal as a gap measure while awaiting Dutch zorgverzekering.',
+          cta: 'https://www.awin1.com/awclick.php?mid=8558&id=2776410'
+        },
+        {
+          id: 'allianzcare-health',
+          provider: 'Allianz Care',
+          price: '€120–300/month',
+          budgetMin: 180,
+          bestFor: 'Families / long-term expats',
+          highlight: true,
+          coverage: [
+            'Comprehensive inpatient and outpatient',
+            'Dental and vision options',
+            'Strong Netherlands network',
+            'Maternity coverage available'
+          ],
+          why: 'Excellent Dutch hospital network and comprehensive benefits make this the top pick for expat families.',
+          cta: 'https://www.awin1.com/awclick.php?mid=8558&id=2776410'
+        }
+      ]
+    },
+    aov: {
+      label: 'Disability Insurance (AOV)',
+      labelNL: 'Arbeidsongeschiktheidsverzekering',
+      icon: '<svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M20.84 4.61a5.5 5.5 0 0 0-7.78 0L12 5.67l-1.06-1.06a5.5 5.5 0 0 0-7.78 7.78l1.06 1.06L12 21.23l7.78-7.78 1.06-1.06a5.5 5.5 0 0 0 0-7.78z"/></svg>',
+      options: [
+        {
+          id: 'deamersfoortse-aov',
+          provider: 'De Amersfoortse',
+          price: '€100–350/month',
+          budgetMin: 150,
+          bestFor: 'General ZZP'ers',
+          highlight: false,
+          coverage: [
+            'Flexible coverage percentage (60–80% income)',
+            'Choice of waiting period (30–90 days)',
+            'Coverage until age 67',
+            'Both accident and illness covered'
+          ],
+          why: 'Flexible and well-regarded policy for general ZZP'ers with customisable waiting periods to manage premium costs.',
+          cta: 'https://www.awin1.com/awclick.php?mid=8558&id=2776410'
+        },
+        {
+          id: 'movir-aov',
+          provider: 'Movir',
+          price: '€150–400/month',
+          budgetMin: 200,
+          bestFor: 'Medical / specialist ZZP'ers',
+          highlight: true,
+          coverage: [
+            'Up to 80% of declared income',
+            'Specialist occupational disability definition',
+            'Coverage continues if partially disabled',
+            'Premium waived during claims'
+          ],
+          why: 'The preferred AOV provider for medical professionals and specialists who need accurate occupational disability definitions.',
+          cta: 'https://www.awin1.com/awclick.php?mid=8558&id=2776410'
+        }
+      ]
+    }
+  };
+
+  // ─────────────────────────────────────────────
+  //  RADIO / CHECKBOX INTERACTION
+  // ─────────────────────────────────────────────
+  function initRadios() {
+    document.querySelectorAll('.radio-option input[type="radio"]').forEach(input => {
+      input.addEventListener('change', function() {
+        const group = this.closest('.radio-group');
+        group.querySelectorAll('.radio-option').forEach(opt => opt.classList.remove('selected'));
+        this.closest('.radio-option').classList.add('selected');
+        state[this.name] = this.value;
+      });
+    });
+    document.querySelectorAll('.checkbox-option input[type="checkbox"]').forEach(input => {
+      input.addEventListener('change', function() {
+        if (this.checked) {
+          this.closest('.checkbox-option').classList.add('selected');
+          if (!state.needs.includes(this.value)) state.needs.push(this.value);
+        } else {
+          this.closest('.checkbox-option').classList.remove('selected');
+          state.needs = state.needs.filter(v => v !== this.value);
+        }
+      });
+    });
+  }
+
+  // ─────────────────────────────────────────────
+  //  NAVIGATION
+  // ─────────────────────────────────────────────
+  function goToStep2() {
+    if (!state.duration || !state.employment || !state.health || !state.living) {
+      alert('Please answer all questions before continuing.');
+      return;
+    }
+    // Pre-tick smart suggestions
+    smartPreselect();
+
+    document.getElementById('step1').classList.add('hidden');
+    document.getElementById('step2').classList.remove('hidden');
+    setDot(2);
+    window.scrollTo({ top: document.getElementById('stepIndicator').offsetTop - 80, behavior: 'smooth' });
+
+    gtag('event', 'wizard_step', { step: 2, employment: state.employment, health: state.health });
+  }
+
+  function goToStep1() {
+    document.getElementById('step2').classList.add('hidden');
+    document.getElementById('step1').classList.remove('hidden');
+    setDot(1);
+    window.scrollTo({ top: document.getElementById('stepIndicator').offsetTop - 80, behavior: 'smooth' });
+  }
+
+  function smartPreselect() {
+    // Always pre-suggest liability
+    const liabilityInput = document.querySelector('#opt-liability input');
+    if (!liabilityInput.checked) {
+      liabilityInput.checked = true;
+      document.getElementById('opt-liability').classList.add('selected');
+      if (!state.needs.includes('liability')) state.needs.push('liability');
+    }
+
+    // If ZZP — suggest AOV
+    if (state.employment === 'zzp') {
+      const aovInput = document.querySelector('#opt-aov input');
+      if (!aovInput.checked) {
+        aovInput.checked = true;
+        document.getElementById('opt-aov').classList.add('selected');
+        if (!state.needs.includes('aov')) state.needs.push('aov');
+      }
+    }
+
+    // If no Dutch health insurance — suggest international health
+    if (state.health === 'no' || state.health === 'employer') {
+      const healthInput = document.querySelector('#opt-intlhealth input');
+      if (!healthInput.checked) {
+        healthInput.checked = true;
+        document.getElementById('opt-intlhealth').classList.add('selected');
+        if (!state.needs.includes('intlhealth')) state.needs.push('intlhealth');
+      }
+    }
+
+    // If unfurnished or own home — suggest contents
+    if (state.living === 'unfurnished' || state.living === 'own') {
+      const contentsInput = document.querySelector('#opt-contents input');
+      if (!contentsInput.checked) {
+        contentsInput.checked = true;
+        document.getElementById('opt-contents').classList.add('selected');
+        if (!state.needs.includes('contents')) state.needs.push('contents');
+      }
+    }
+  }
+
+  function showResults() {
+    if (state.needs.length === 0) {
+      alert('Please select at least one insurance type to continue.');
+      return;
+    }
+
+    document.getElementById('step2').classList.add('hidden');
+    const resultsSection = document.getElementById('resultsSection');
+    resultsSection.classList.add('visible');
+    setDot(3);
+
+    buildResults();
+    window.scrollTo({ top: document.getElementById('stepIndicator').offsetTop - 80, behavior: 'smooth' });
+
+    gtag('event', 'wizard_complete', {
+      needs: state.needs.join(','),
+      employment: state.employment,
+      num_categories: state.needs.length
+    });
+  }
+
+  function resetWizard() {
+    // Reset state
+    state.duration = null;
+    state.employment = null;
+    state.health = null;
+    state.living = null;
+    state.needs = [];
+
+    // Reset form
+    document.querySelectorAll('input[type="radio"]').forEach(i => { i.checked = false; });
+    document.querySelectorAll('input[type="checkbox"]').forEach(i => { i.checked = false; });
+    document.querySelectorAll('.radio-option, .checkbox-option').forEach(el => el.classList.remove('selected'));
+
+    document.getElementById('resultsSection').classList.remove('visible');
+    document.getElementById('step1').classList.remove('hidden');
+    setDot(1);
+    window.scrollTo({ top: document.getElementById('stepIndicator').offsetTop - 80, behavior: 'smooth' });
+  }
+
+  // ─────────────────────────────────────────────
+  //  STEP DOTS
+  // ─────────────────────────────────────────────
+  function setDot(active) {
+    for (let i = 1; i <= 3; i++) {
+      const dot = document.getElementById('dot' + i);
+      dot.classList.remove('active', 'done');
+      if (i < active) dot.classList.add('done');
+      else if (i === active) dot.classList.add('active');
+    }
+    if (active > 1) document.getElementById('line1').classList.add('done');
+    else document.getElementById('line1').classList.remove('done');
+    if (active > 2) document.getElementById('line2').classList.add('done');
+    else document.getElementById('line2').classList.remove('done');
+  }
+
+  // ─────────────────────────────────────────────
+  //  BUILD RESULTS
+  // ─────────────────────────────────────────────
+  function buildResults() {
+    // Alerts
+    document.getElementById('alertZZP').classList.toggle('hidden', state.employment !== 'zzp' || state.needs.includes('aov'));
+    document.getElementById('alertHealth').classList.toggle('hidden', !(state.health === 'no' && !state.needs.includes('intlhealth')));
+
+    // Order: intlhealth first if no Dutch health insurance
+    let orderedNeeds = [...state.needs];
+    if (state.health !== 'yes' && orderedNeeds.includes('intlhealth')) {
+      orderedNeeds = ['intlhealth', ...orderedNeeds.filter(n => n !== 'intlhealth')];
+    }
+    if (state.employment === 'zzp' && orderedNeeds.includes('aov')) {
+      const rest = orderedNeeds.filter(n => n !== 'aov');
+      orderedNeeds = [rest[0], 'aov', ...rest.slice(1)];
+    }
+
+    // Calculate total budget cost
+    let totalMin = 0;
+    orderedNeeds.forEach(need => {
+      if (insuranceData[need]) {
+        totalMin += insuranceData[need].options[0].budgetMin;
+      }
+    });
+
+    // Summary
+    const statsEl = document.getElementById('summaryStats');
+    statsEl.innerHTML = `
+      <div class="stat-item">
+        <div class="stat-value">€${totalMin}+</div>
+        <div class="stat-label">Estimated monthly cost (budget options)</div>
+      </div>
+      <div class="stat-item">
+        <div class="stat-value">${orderedNeeds.length}</div>
+        <div class="stat-label">Coverage areas selected</div>
+      </div>
+    `;
+
+    const suggestions = [];
+    const allTypes = ['liability','contents','travel','legal','intlhealth','aov'];
+    allTypes.forEach(t => {
+      if (!state.needs.includes(t)) {
+        if (t === 'liability') suggestions.push('liability insurance (highly recommended)');
+        if (t === 'aov' && state.employment === 'zzp') suggestions.push('AOV disability coverage (critical for ZZP'ers)');
+        if (t === 'intlhealth' && state.health !== 'yes') suggestions.push('international health cover');
+      }
+    });
+
+    const noteEl = document.getElementById('summaryNote');
+    if (suggestions.length > 0) {
+      noteEl.innerHTML = `<strong>Consider also adding:</strong> ${suggestions.join(', ')}.`;
+    } else {
+      noteEl.innerHTML = `<strong>Your insurance package looks comprehensive.</strong> Compare prices on Independer to find the best deal.`;
+    }
+
+    // Build category cards
+    const container = document.getElementById('resultCategories');
+    container.innerHTML = '';
+
+    orderedNeeds.forEach(need => {
+      const data = insuranceData[need];
+      if (!data) return;
+
+      const section = document.createElement('div');
+      section.className = 'result-category';
+
+      let cardsHtml = '';
+      data.options.forEach(opt => {
+        cardsHtml += `
+          <div class="result-card ${opt.highlight ? 'highlight' : ''}">
+            <div class="card-provider">${opt.provider}</div>
+            <div class="card-price">${opt.price}</div>
+            <div class="card-best-for">Best for: ${opt.bestFor}</div>
+            <ul class="card-coverage">
+              ${opt.coverage.map(c => `<li>${c}</li>`).join('')}
+            </ul>
+            <div class="card-why">${opt.why}</div>
+            <a href="${opt.cta}" target="_blank" rel="nofollow sponsored" class="card-cta" onclick="trackCTA('${need}','${opt.provider}')">Get a quote →</a>
+          </div>
+        `;
+      });
+
+      section.innerHTML = `
+        <div class="category-header">
+          ${data.icon}
+          ${data.label} <span style="font-weight:400;color:var(--text-muted);font-size:.88rem;">(${data.labelNL})</span>
+        </div>
+        <div class="result-cards">${cardsHtml}</div>
+      `;
+      container.appendChild(section);
+    });
+  }
+
+  function trackCTA(category, provider) {
+    gtag('event', 'cta_click', { category: category, provider: provider, tool: 'insurance-chooser' });
+  }
+
+  // ─────────────────────────────────────────────
+  //  INIT
+  // ─────────────────────────────────────────────
+  document.addEventListener('DOMContentLoaded', function() {
+    initRadios();
+  });
+  </script>
+</body>
+</html>

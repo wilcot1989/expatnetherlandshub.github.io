@@ -139,49 +139,36 @@
 
     /* ── HEADER ── */
     .site-header {
-      background: var(--green);
-      border-bottom: 3px solid var(--orange);
-      position: sticky;
-      top: 0;
-      z-index: 100;
+      background: #1B6B4A;
+      padding: 1rem 0;
+      border-bottom: 3px solid #E8832A;
     }
     .site-header .wrap {
       max-width: 1100px;
       margin: 0 auto;
-      padding: 0 20px;
-      height: 60px;
+      padding: 0 1.5rem;
       display: flex;
       align-items: center;
       justify-content: space-between;
-      gap: 16px;
     }
     .logo {
-      display: flex;
-      align-items: center;
-      gap: 8px;
       color: #fff;
       text-decoration: none;
       font-family: 'DM Sans', sans-serif;
       font-weight: 700;
-      font-size: 1.05rem;
-      letter-spacing: -0.3px;
-      white-space: nowrap;
+      font-size: 1.1rem;
+      display: flex;
+      align-items: center;
+      gap: 0.5rem;
     }
-    .logo svg {
-      width: 26px;
-      height: 26px;
-      fill: none;
-      stroke: #fff;
-      stroke-width: 1.5;
-    }
-    .logo .suffix { opacity: 0.75; font-weight: 500; }
-    .header-nav { display: flex; gap: 20px; }
+    .logo svg { width: 28px; height: 28px; }
+    .logo .suffix { color: #E8832A; }
     .header-nav a {
-      color: rgba(255,255,255,0.88);
+      color: rgba(255,255,255,.85);
       text-decoration: none;
-      font-size: 0.9rem;
+      margin-left: 1.5rem;
+      font-size: 0.95rem;
       font-weight: 500;
-      transition: color .2s;
     }
     .header-nav a:hover { color: #fff; }
 
@@ -479,7 +466,7 @@
 
     /* ── SEO CONTENT ── */
     .seo-content {
-      max-width: 820px;
+      max-width: 960px;
       margin: 0 auto;
       padding: 0 20px 80px;
     }
@@ -579,25 +566,19 @@
 
     /* ── FOOTER ── */
     .site-footer {
-      background: #111827;
-      color: rgba(255,255,255,0.65);
+      background: #145236;
+      color: rgba(255,255,255,.7);
+      padding: 2rem 0;
       text-align: center;
-      padding: 28px 20px;
-      font-size: 0.85rem;
+      font-size: 0.9rem;
     }
-    .footer-links {
-      display: flex;
-      justify-content: center;
-      gap: 20px;
-      flex-wrap: wrap;
-      margin-bottom: 10px;
-    }
-    .footer-links a {
-      color: rgba(255,255,255,0.7);
+    .site-footer a {
+      color: rgba(255,255,255,.85);
       text-decoration: none;
-      transition: color .2s;
+      margin: 0 0.75rem;
     }
-    .footer-links a:hover { color: #fff; }
+    .site-footer a:hover { color: #fff; }
+    .footer-links { margin-bottom: 0.75rem; }
 
     /* ── RESPONSIVE ── */
     @media (max-width: 768px) {
@@ -627,7 +608,7 @@
 <header class="site-header">
   <div class="wrap">
     <a href="/" class="logo">
-      <svg viewBox="0 0 24 24"><circle cx="12" cy="12" r="9"/><path d="M12 3a15 15 0 0 1 0 18M12 3a15 15 0 0 0 0 18M3 12h18"/></svg>
+      <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.5"><circle cx="12" cy="12" r="9"/><path d="M12 3a15 15 0 0 1 0 18M12 3a15 15 0 0 0 0 18M3 12h18"/></svg>
       expatnetherlandshub<span class="suffix">.com</span>
     </a>
     <nav class="header-nav">
@@ -885,7 +866,7 @@
     <a href="/about/">About</a>
     <a href="/privacy/">Privacy</a>
   </div>
-  <p>&copy; 2026 expatnetherlandshub.com &middot; This site contains affiliate links.</p>
+  <p>&copy; 2026 expatnetherlandshub.com &middot; This site contains affiliate links. We may earn a commission at no extra cost to you.</p>
 </footer>
 
 <script>

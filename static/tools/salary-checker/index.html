@@ -151,32 +151,43 @@
       font-size: 16px;
     }
 
-    /* ── NAV ── */
-    .site-nav {
-      background: var(--expat-primary);
+    /* ── HEADER ── */
+    .site-header {
+      background: #1B6B4A;
+      padding: 1rem 0;
+      border-bottom: 3px solid #E8832A;
+    }
+    .site-header .wrap {
+      max-width: 1100px;
+      margin: 0 auto;
       padding: 0 1.5rem;
       display: flex;
       align-items: center;
       justify-content: space-between;
-      height: 56px;
     }
-    .site-nav a {
+    .logo {
       color: #fff;
       text-decoration: none;
-      font-weight: 600;
+      font-family: 'DM Sans', sans-serif;
+      font-weight: 700;
       font-size: 1.1rem;
-      letter-spacing: -0.01em;
-    }
-    .site-nav .nav-links {
       display: flex;
-      gap: 1.5rem;
+      align-items: center;
+      gap: 0.5rem;
     }
-    .site-nav .nav-links a {
-      font-size: 0.9rem;
-      font-weight: 400;
-      opacity: 0.9;
+    .logo svg { width: 28px; height: 28px; }
+    .logo .suffix { color: #E8832A; }
+    .header-nav a {
+      color: rgba(255,255,255,.85);
+      text-decoration: none;
+      margin-left: 1.5rem;
+      font-size: 0.95rem;
+      font-weight: 500;
     }
-    .site-nav .nav-links a:hover { opacity: 1; }
+    .header-nav a:hover { color: #fff; }
+    @media (max-width: 768px) {
+      .header-nav { display: none; }
+    }
 
     /* ── HERO ── */
     .page-hero {
@@ -716,15 +727,20 @@
     .faq-answer p:last-child { margin-bottom: 0; }
 
     /* Footer */
-    .page-footer {
-      background: var(--expat-primary-dark);
-      color: rgba(255,255,255,0.7);
+    .site-footer {
+      background: #145236;
+      color: rgba(255,255,255,.7);
+      padding: 2rem 0;
       text-align: center;
-      padding: 2rem 1.5rem;
-      font-size: 0.82rem;
-      margin-top: 4rem;
+      font-size: 0.9rem;
     }
-    .page-footer a { color: rgba(255,255,255,0.85); }
+    .site-footer a {
+      color: rgba(255,255,255,.85);
+      text-decoration: none;
+      margin: 0 0.75rem;
+    }
+    .site-footer a:hover { color: #fff; }
+    .footer-links { margin-bottom: 0.75rem; }
 
     /* Responsive */
     @media (max-width: 600px) {
@@ -737,14 +753,20 @@
 </head>
 <body>
 
-  <!-- NAV -->
-  <nav class="site-nav" aria-label="Site navigation">
-    <a href="/">Expat Netherlands Hub</a>
-    <div class="nav-links">
-      <a href="/tools/">Tools</a>
-      <a href="/guides/">Guides</a>
+  <!-- HEADER -->
+  <header class="site-header">
+    <div class="wrap">
+      <a href="/" class="logo">
+        <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.5"><circle cx="12" cy="12" r="9"/><path d="M12 3a15 15 0 0 1 0 18M12 3a15 15 0 0 0 0 18M3 12h18"/></svg>
+        expatnetherlandshub<span class="suffix">.com</span>
+      </a>
+      <nav class="header-nav">
+        <a href="/tools/">Tools</a>
+        <a href="/guides/">Guides</a>
+        <a href="/about/">About</a>
+      </nav>
     </div>
-  </nav>
+  </header>
 
   <!-- HERO -->
   <header class="page-hero">
@@ -1075,9 +1097,15 @@
   </main>
 
   <!-- FOOTER -->
-  <footer class="page-footer">
-    <p>&copy; 2026 Expat Netherlands Hub &bull; <a href="/about/">About</a> &bull; <a href="/tools/">Tools</a> &bull; <a href="/guides/">Guides</a></p>
-    <p style="margin-top:0.5rem;">This tool is for informational purposes only. Always verify with <a href="https://ind.nl" target="_blank" rel="noopener noreferrer">IND.nl</a> before making visa decisions.</p>
+  <footer class="site-footer">
+    <div class="footer-links">
+      <a href="/">Home</a>
+      <a href="/tools/">Tools</a>
+      <a href="/guides/">Guides</a>
+      <a href="/about/">About</a>
+      <a href="/privacy/">Privacy</a>
+    </div>
+    <p>&copy; 2026 expatnetherlandshub.com &middot; This site contains affiliate links. We may earn a commission at no extra cost to you.</p>
   </footer>
 
   <script>
