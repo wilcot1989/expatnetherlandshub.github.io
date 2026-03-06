@@ -119,6 +119,17 @@
       --text-muted: #6B7280;
       --radius: 14px;
       --shadow: 0 2px 12px rgba(0,0,0,.08);
+      /* Expat design system aliases (used by header/footer) */
+      --expat-primary: #1B6B4A;
+      --expat-primary-light: #2D9B6A;
+      --expat-primary-dark: #145236;
+      --expat-accent: #E8832A;
+      --expat-accent-light: #F5A623;
+      --expat-bg: #FAFBF9;
+      --expat-card: #FFFFFF;
+      --expat-text: #1A1A2E;
+      --expat-muted: #6B7280;
+      --expat-border: #E5E7EB;
     }
 
     body {
@@ -137,40 +148,63 @@
     a { color: var(--green); text-decoration: underline; }
     a:hover { color: var(--green-dark); }
 
-    /* ── HEADER ── */
-    .site-header {
-      background: #1B6B4A;
-      padding: 1rem 0;
-      border-bottom: 3px solid #E8832A;
-    }
-    .site-header .wrap {
-      max-width: 1100px;
-      margin: 0 auto;
-      padding: 0 1.5rem;
-      display: flex;
-      align-items: center;
-      justify-content: space-between;
-    }
-    .logo {
-      color: #fff;
-      text-decoration: none;
-      font-family: 'DM Sans', sans-serif;
-      font-weight: 700;
-      font-size: 1.1rem;
-      display: flex;
-      align-items: center;
-      gap: 0.5rem;
-    }
-    .logo svg { width: 28px; height: 28px; }
-    .logo .suffix { color: #E8832A; }
-    .header-nav a {
-      color: rgba(255,255,255,.85);
-      text-decoration: none;
-      margin-left: 1.5rem;
-      font-size: 0.95rem;
-      font-weight: 500;
-    }
-    .header-nav a:hover { color: #fff; }
+    #nav-toggle { display: none; }
+    header { position: sticky; top: 0; z-index: 1000; background: var(--expat-primary-dark); color: #fff; border-bottom: 3px solid var(--expat-accent); box-shadow: 0 2px 12px rgba(0,0,0,0.18); }
+    .header-inner { display: flex; align-items: center; justify-content: space-between; gap: 1rem; padding: 0.75rem 1.5rem; max-width: 1100px; margin: 0 auto; }
+    .logo { display: flex; align-items: center; gap: 0.55rem; text-decoration: none; flex-shrink: 0; }
+    .logo:hover { text-decoration: none; }
+    .logo-icon { width: 28px; height: 28px; color: var(--expat-accent); flex-shrink: 0; }
+    .logo-text { font-family: 'DM Sans', sans-serif; font-size: 1.15rem; font-weight: 700; color: #fff; letter-spacing: -0.01em; }
+    .logo-text span { color: var(--expat-accent-light); }
+    .primary-nav { display: flex; align-items: center; gap: 0; list-style: none; margin: 0; }
+    .nav-item { position: relative; }
+    .nav-item > a, .nav-item > .nav-link { display: flex; align-items: center; gap: 0.3rem; padding: 0.65rem 0.9rem; font-size: 0.92rem; font-weight: 500; color: rgba(255,255,255,0.88); white-space: nowrap; cursor: pointer; border: none; background: none; font-family: inherit; line-height: 1; transition: color 0.15s; text-decoration: none; }
+    .nav-item > a:hover, .nav-item > .nav-link:hover { color: #fff; text-decoration: none; }
+    .nav-arrow { font-size: 0.65rem; opacity: 0.7; transition: transform 0.2s; display: inline-block; }
+    .nav-item:hover .nav-arrow { transform: rotate(180deg); }
+    .mega-menu { display: none; position: absolute; top: calc(100% + 3px); left: 50%; transform: translateX(-50%); background: #fff; border: 1px solid var(--expat-border); border-radius: 12px; box-shadow: 0 16px 48px rgba(0,0,0,0.16); padding: 1.5rem; z-index: 2000; color: var(--expat-text); min-width: 540px; }
+    .nav-item:hover .mega-menu { display: block; }
+    .mega-menu::before { content: ''; position: absolute; top: -7px; left: 50%; transform: translateX(-50%); width: 14px; height: 7px; background: #fff; clip-path: polygon(50% 0%, 0% 100%, 100% 100%); }
+    .mega-cols { display: grid; gap: 1.75rem; }
+    .mega-cols-3 { grid-template-columns: repeat(3, minmax(160px, 1fr)); }
+    .mega-cols-1 { grid-template-columns: 1fr; }
+    .mega-col-title { font-family: 'DM Sans', sans-serif; font-size: 0.72rem; font-weight: 700; letter-spacing: 0.08em; text-transform: uppercase; color: var(--expat-primary); margin-bottom: 0.5rem; padding-left: 1.1rem; }
+    .mega-col ul { list-style: none; margin: 0; padding: 0; }
+    .mega-col ul li { margin-bottom: 0.15rem; }
+    .mega-col ul li a { font-size: 0.9rem; color: var(--expat-text); display: block; padding: 0.35rem 0.65rem; padding-left: 1.1rem; border-radius: 6px; transition: color 0.15s, background 0.15s; text-decoration: none; position: relative; line-height: 1.35; }
+    .mega-col ul li a:hover { color: var(--expat-primary); background: #F0FDF4; text-decoration: none; }
+    .mega-col ul li a::before { content: ''; width: 5px; height: 5px; border-radius: 50%; background: var(--expat-accent); position: absolute; left: 0; top: 50%; transform: translateY(-50%); }
+    .city-pills { display: flex; flex-wrap: wrap; gap: 0.5rem; min-width: 320px; }
+    .city-pill { display: inline-block; background: #D1FAE5; color: var(--expat-primary-dark); border: 1px solid #A7F3D0; padding: 0.35rem 0.85rem; border-radius: 999px; font-size: 0.85rem; font-weight: 500; transition: background 0.15s, color 0.15s; }
+    .city-pill:hover { background: var(--expat-primary); color: #fff; text-decoration: none; border-color: var(--expat-primary); }
+    .header-cta { display: inline-flex; align-items: center; gap: 0.4rem; background: var(--expat-accent); color: #fff; padding: 0.55rem 1.1rem; border-radius: 8px; font-size: 0.88rem; font-weight: 600; font-family: 'DM Sans', sans-serif; white-space: nowrap; transition: background 0.15s; flex-shrink: 0; }
+    .header-cta:hover { background: #C96B1A; text-decoration: none; color: #fff; }
+    .hamburger-label { display: none; flex-direction: column; gap: 5px; cursor: pointer; padding: 6px; }
+    .hamburger-label span { display: block; width: 24px; height: 2px; background: #fff; border-radius: 2px; transition: transform 0.25s, opacity 0.25s; }
+    #nav-toggle:checked ~ .header-inner .hamburger-label span:nth-child(1) { transform: translateY(7px) rotate(45deg); }
+    #nav-toggle:checked ~ .header-inner .hamburger-label span:nth-child(2) { opacity: 0; }
+    #nav-toggle:checked ~ .header-inner .hamburger-label span:nth-child(3) { transform: translateY(-7px) rotate(-45deg); }
+    .mobile-nav { display: none; background: var(--expat-primary-dark); padding: 0.5rem 1.5rem 1rem; border-top: 1px solid rgba(255,255,255,0.1); }
+    #nav-toggle:checked ~ .mobile-nav { display: block; }
+    .mobile-nav a { display: block; color: rgba(255,255,255,0.88); padding: 0.55rem 0; font-size: 0.95rem; border-bottom: 1px solid rgba(255,255,255,0.07); }
+    .mobile-nav a:hover { color: #fff; text-decoration: none; }
+    .mobile-nav .mobile-section-title { font-size: 0.72rem; font-weight: 700; text-transform: uppercase; letter-spacing: 0.07em; color: var(--expat-accent-light); margin: 0.9rem 0 0.3rem; }
+    .breadcrumb { font-size: 0.85rem; color: var(--expat-muted); margin-bottom: 1rem; }
+    .breadcrumb a { color: var(--expat-muted); text-decoration: none; }
+    .breadcrumb a:hover { color: var(--expat-primary); }
+    .site-footer { background: var(--expat-primary-dark); color: #94A3B8; padding: 3.5rem 0 1.5rem; margin-top: 4rem; font-size: 0.88rem; }
+    .footer-grid { display: grid; grid-template-columns: repeat(4, 1fr); gap: 2rem; margin-bottom: 2.5rem; }
+    .footer-col-title { font-family: 'DM Sans', sans-serif; font-size: 0.75rem; font-weight: 700; letter-spacing: 0.08em; text-transform: uppercase; color: #fff; margin-bottom: 0.9rem; }
+    .site-footer ul { list-style: none; margin: 0; padding: 0; }
+    .site-footer ul li { margin-bottom: 0.45rem; }
+    .site-footer ul li a { color: #94A3B8; transition: color 0.15s; }
+    .site-footer ul li a:hover { color: #fff; text-decoration: none; }
+    .footer-bottom { border-top: 1px solid rgba(255,255,255,0.1); padding-top: 1.25rem; display: flex; align-items: center; justify-content: space-between; flex-wrap: wrap; gap: 0.75rem; }
+    .footer-bottom p { margin: 0; font-size: 0.8rem; }
+    .footer-disclosure { font-size: 0.78rem; color: #64748B; max-width: 700px; }
+    .footer-links-bottom a { color: #94A3B8; margin-left: 1.1rem; }
+    .footer-links-bottom a:hover { color: #fff; }
+    @media (max-width: 768px) { .primary-nav, .header-cta { display: none; } .hamburger-label { display: flex; } .mega-menu { display: none !important; } .footer-grid { grid-template-columns: repeat(2, 1fr); } }
 
     /* ── HERO ── */
     .tool-hero {
@@ -598,26 +632,44 @@
       .score-badge { top: 14px; right: 14px; }
       .bank-card-footer { flex-direction: column; }
       .cta-affiliate, .cta-secondary { text-align: center; }
-      .header-nav { display: none; }
     }
   </style>
 </head>
 <body>
 
-<!-- HEADER -->
-<header class="site-header">
-  <div class="wrap">
-    <a href="/" class="logo">
-      <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.5"><circle cx="12" cy="12" r="9"/><path d="M12 3a15 15 0 0 1 0 18M12 3a15 15 0 0 0 0 18M3 12h18"/></svg>
-      expatnetherlandshub<span class="suffix">.com</span>
+<input type="checkbox" id="nav-toggle" aria-hidden="true">
+
+<header>
+  <div class="header-inner">
+    <a href="/" class="logo" aria-label="Expat Netherlands Hub — home">
+      <svg class="logo-icon" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><circle cx="12" cy="12" r="9"/><path d="M12 3a15 15 0 0 1 0 18M12 3a15 15 0 0 0 0 18M3 12h18"/></svg>
+      <span class="logo-text">expatnetherlandshub<span>.com</span></span>
     </a>
-    <nav class="header-nav">
-      <a href="/tools/">Tools</a>
-      <a href="/guides/">Guides</a>
-      <a href="/about/">About</a>
-    </nav>
+    <ul class="primary-nav" role="navigation" aria-label="Main navigation">
+      <li class="nav-item"><span class="nav-link">Tools <span class="nav-arrow">&#9660;</span></span><div class="mega-menu"><div class="mega-cols mega-cols-3"><div class="mega-col"><div class="mega-col-title">Financial Tools</div><ul><li><a href="/tools/30-percent-ruling-calculator/">30% Ruling Calculator</a></li><li><a href="/tools/salary-checker/">Salary Checker</a></li><li><a href="/tools/housing-budget-checker/">Housing Budget Checker</a></li></ul></div><div class="mega-col"><div class="mega-col-title">Registration Tools</div><ul><li><a href="/tools/visa-permit-finder/">Visa &amp; Permit Finder</a></li><li><a href="/tools/bsn-planner/">BSN Planner</a></li><li><a href="/tools/diploma-evaluator/">Diploma Evaluator</a></li></ul></div><div class="mega-col"><div class="mega-col-title">Insurance &amp; Banking</div><ul><li><a href="/tools/health-insurance-wizard/">Health Insurance Wizard</a></li><li><a href="/tools/bank-account-chooser/">Bank Account Chooser</a></li><li><a href="/tools/insurance-chooser/">Expat Insurance Chooser</a></li><li><a href="/tools/">All Tools &rarr;</a></li></ul></div></div></div></li>
+      <li class="nav-item"><span class="nav-link">Guides <span class="nav-arrow">&#9660;</span></span><div class="mega-menu"><div class="mega-cols mega-cols-3"><div class="mega-col"><div class="mega-col-title">Money &amp; Admin</div><ul><li><a href="/guides/finance/">Finance &amp; Tax</a></li><li><a href="/guides/legal/">Visa &amp; Legal</a></li><li><a href="/guides/work/">Work &amp; Career</a></li></ul></div><div class="mega-col"><div class="mega-col-title">Living in NL</div><ul><li><a href="/guides/housing/">Housing &amp; Cities</a></li><li><a href="/guides/health/">Health &amp; Insurance</a></li><li><a href="/guides/daily-life/">Daily Life</a></li></ul></div><div class="mega-col"><div class="mega-col-title">Settling In</div><ul><li><a href="/guides/integration/">Integration &amp; Language</a></li><li><a href="/guides/">All Guides &rarr;</a></li></ul></div></div></div></li>
+      <li class="nav-item"><span class="nav-link">Cities <span class="nav-arrow">&#9660;</span></span><div class="mega-menu"><div class="mega-cols mega-cols-1"><div class="mega-col"><div class="mega-col-title">Expat Guides by City</div><div class="city-pills"><a href="/cities/amsterdam/" class="city-pill">Amsterdam</a><a href="/cities/rotterdam/" class="city-pill">Rotterdam</a><a href="/cities/the-hague/" class="city-pill">The Hague</a><a href="/cities/eindhoven/" class="city-pill">Eindhoven</a><a href="/cities/utrecht/" class="city-pill">Utrecht</a><a href="/cities/groningen/" class="city-pill">Groningen</a><a href="/cities/leiden/" class="city-pill">Leiden</a><a href="/cities/maastricht/" class="city-pill">Maastricht</a></div></div></div></div></li>
+      <li class="nav-item"><a href="/categories/daily-life/">Services</a></li>
+      <li class="nav-item"><a href="/about/">About</a></li>
+    </ul>
+    <a href="/tools/30-percent-ruling-calculator/" class="header-cta">30% Calculator &#8594;</a>
+    <label class="hamburger-label" for="nav-toggle" aria-label="Toggle navigation menu"><span></span><span></span><span></span></label>
   </div>
+  <nav class="mobile-nav" aria-label="Mobile navigation">
+    <div class="mobile-section-title">Tools</div><a href="/tools/30-percent-ruling-calculator/">30% Ruling Calculator</a><a href="/tools/salary-checker/">Salary Checker</a><a href="/tools/housing-budget-checker/">Housing Budget Checker</a><a href="/tools/visa-permit-finder/">Visa &amp; Permit Finder</a><a href="/tools/bsn-planner/">BSN Planner</a><a href="/tools/health-insurance-wizard/">Health Insurance Wizard</a>
+    <div class="mobile-section-title">Guides</div><a href="/guides/finance/">Finance &amp; Tax</a><a href="/guides/health/">Health &amp; Insurance</a><a href="/guides/housing/">Housing &amp; Living</a><a href="/guides/legal/">Legal &amp; Registration</a><a href="/guides/work/">Work &amp; Career</a><a href="/guides/integration/">Integration</a>
+    <div class="mobile-section-title">Cities</div><a href="/cities/amsterdam/">Amsterdam</a><a href="/cities/rotterdam/">Rotterdam</a><a href="/cities/the-hague/">The Hague</a><a href="/cities/eindhoven/">Eindhoven</a><a href="/cities/utrecht/">Utrecht</a><a href="/cities/groningen/">Groningen</a><a href="/cities/leiden/">Leiden</a><a href="/cities/maastricht/">Maastricht</a>
+    <div class="mobile-section-title">More</div><a href="/categories/daily-life/">Services</a><a href="/about/">About</a><a href="/privacy/">Privacy Policy</a>
+  </nav>
 </header>
+
+<div class="wide" style="padding-top: 1rem;">
+  <nav class="breadcrumb" aria-label="Breadcrumb">
+    <a href="/">Home</a> &rsaquo;
+    <a href="/tools/">Tools</a> &rsaquo;
+    <span>Bank Account Chooser</span>
+  </nav>
+</div>
 
 <!-- HERO -->
 <div class="tool-hero">
@@ -857,16 +909,19 @@
   </div>
 </section>
 
-<!-- FOOTER -->
 <footer class="site-footer">
-  <div class="footer-links">
-    <a href="/">Home</a>
-    <a href="/tools/">Tools</a>
-    <a href="/guides/">Guides</a>
-    <a href="/about/">About</a>
-    <a href="/privacy/">Privacy</a>
+  <div class="wide">
+    <div class="footer-grid">
+      <div><div class="footer-col-title">Tools</div><ul><li><a href="/tools/30-percent-ruling-calculator/">30% Ruling Calculator</a></li><li><a href="/tools/salary-checker/">Salary Checker</a></li><li><a href="/tools/housing-budget-checker/">Housing Budget Checker</a></li><li><a href="/tools/visa-permit-finder/">Visa &amp; Permit Finder</a></li><li><a href="/tools/bsn-planner/">BSN Planner</a></li><li><a href="/tools/health-insurance-wizard/">Health Insurance Wizard</a></li><li><a href="/tools/bank-account-chooser/">Bank Account Chooser</a></li></ul></div>
+      <div><div class="footer-col-title">Popular Guides</div><ul><li><a href="/guides/legal/">Moving to the Netherlands</a></li><li><a href="/guides/finance/">Banking &amp; Tax Guide</a></li><li><a href="/guides/health/">Health Insurance Guide</a></li><li><a href="/guides/housing/">Finding a Home</a></li><li><a href="/guides/work/">Working in the Netherlands</a></li></ul></div>
+      <div><div class="footer-col-title">Cities</div><ul><li><a href="/cities/amsterdam/">Amsterdam</a></li><li><a href="/cities/rotterdam/">Rotterdam</a></li><li><a href="/cities/the-hague/">The Hague</a></li><li><a href="/cities/eindhoven/">Eindhoven</a></li><li><a href="/cities/utrecht/">Utrecht</a></li><li><a href="/cities/groningen/">Groningen</a></li><li><a href="/cities/leiden/">Leiden</a></li><li><a href="/cities/maastricht/">Maastricht</a></li></ul></div>
+      <div><div class="footer-col-title">About</div><ul><li><a href="/about/">About Sarah</a></li><li><a href="/contact/">Contact</a></li><li><a href="/privacy/">Privacy Policy</a></li><li><a href="/disclaimer/">Disclaimer</a></li></ul></div>
+    </div>
+    <div class="footer-bottom">
+      <p class="footer-disclosure">This site contains affiliate links. We may earn a commission at no extra cost to you. All recommendations are based on honest research and personal experience.</p>
+      <div class="footer-links-bottom"><span>&copy; 2026 Expat Netherlands Hub</span><a href="/privacy/">Privacy</a><a href="/disclaimer/">Disclaimer</a><a href="/contact/">Contact</a></div>
+    </div>
   </div>
-  <p>&copy; 2026 expatnetherlandshub.com &middot; This site contains affiliate links. We may earn a commission at no extra cost to you.</p>
 </footer>
 
 <script>
