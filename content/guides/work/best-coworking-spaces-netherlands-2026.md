@@ -1,6 +1,6 @@
 ---
 title: "Best Coworking Spaces in the Netherlands 2026: Guide for Expats"
-date: 2026-06-07T10:00:00+01:00
+date: 2026-04-23T10:00:00+01:00
 description: "The best coworking spaces in the Netherlands for expats and remote workers. Amsterdam, Rotterdam, The Hague, Utrecht, and Eindhoven. Prices, facilities, and tips."
 categories: ["work"]
 tags: ["coworking", "remote work", "office space", "freelance", "expat work"]

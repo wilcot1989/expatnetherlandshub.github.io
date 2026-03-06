@@ -1,6 +1,6 @@
 ---
 title: "Dutch Childcare System 2026: Complete Guide for Expat Parents"
-date: 2026-05-17T10:00:00+01:00
+date: 2026-04-12T10:00:00+01:00
 description: "Complete guide to childcare in the Netherlands for expat parents. Types, costs, subsidies, and how to find the best daycare, BSO, or childminder."
 categories: ["family"]
 tags: ["childcare", "kinderopvang", "daycare", "BSO", "expat family"]

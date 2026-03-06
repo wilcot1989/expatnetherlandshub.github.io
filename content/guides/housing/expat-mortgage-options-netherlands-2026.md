@@ -1,6 +1,6 @@
 ---
 title: "Expat Mortgage Options Netherlands 2026: Complete Guide"
-date: 2026-05-07T10:00:00+01:00
+date: 2026-04-08T10:00:00+01:00
 description: "Complete guide to getting a mortgage in the Netherlands as an expat. Types, requirements, 30% ruling impact, and step-by-step application process in 2026."
 categories: ["housing"]
 tags: ["mortgage", "hypotheek", "expat housing", "buying property", "30% ruling"]

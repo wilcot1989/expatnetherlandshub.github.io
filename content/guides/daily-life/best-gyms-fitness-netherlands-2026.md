@@ -1,6 +1,6 @@
 ---
 title: "Best Gyms and Fitness Options in the Netherlands 2026"
-date: 2026-06-22T10:00:00+01:00
+date: 2026-04-28T10:00:00+01:00
 description: "Complete guide to gyms and fitness in the Netherlands for expats. Best gym chains, pricing, outdoor fitness, sports clubs, and how to stay active in the Dutch way."
 categories: ["lifestyle"]
 tags: ["gym Netherlands", "fitness", "sports club", "Basic-Fit", "expat fitness"]
