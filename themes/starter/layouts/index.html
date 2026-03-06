@@ -4,7 +4,7 @@
      HERO SECTION
      ═══════════════════════════════════════════════════ -->
 <div class="hero">
-  <div class="container">
+  <div class="wide">
     <p class="hero-eyebrow">The Netherlands Expat Decision Engine</p>
     <h1>Moving to the Netherlands?</h1>
     <p>Your step-by-step decision engine. Free tools, honest guides, and real answers — written by an expat coach who's been through it all.</p>
@@ -289,14 +289,42 @@
 
   /* ── Hero ──────────────────────────────────────── */
   .hero {
-    background: linear-gradient(135deg, var(--expat-primary-dark) 0%, var(--expat-primary) 100%);
+    background:
+      url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='80' height='80'%3E%3Ccircle cx='40' cy='40' r='1.5' fill='%23ffffff' opacity='0.07'/%3E%3Ccircle cx='0' cy='0' r='1' fill='%23ffffff' opacity='0.05'/%3E%3Ccircle cx='80' cy='0' r='1' fill='%23ffffff' opacity='0.05'/%3E%3Ccircle cx='0' cy='80' r='1' fill='%23ffffff' opacity='0.05'/%3E%3Ccircle cx='80' cy='80' r='1' fill='%23ffffff' opacity='0.05'/%3E%3Cpath d='M0 40h80M40 0v80' stroke='%23ffffff' stroke-width='0.3' opacity='0.04'/%3E%3C/svg%3E"),
+      linear-gradient(135deg, var(--expat-primary-dark) 0%, var(--expat-primary) 50%, #2D9B6A 100%);
     padding: 5rem 0 4rem;
     text-align: center;
+    position: relative;
+    overflow: hidden;
   }
+  .hero::before {
+    content: '';
+    position: absolute;
+    top: -50%;
+    right: -20%;
+    width: 600px;
+    height: 600px;
+    border-radius: 50%;
+    background: radial-gradient(circle, rgba(232,131,42,0.12) 0%, transparent 70%);
+    pointer-events: none;
+  }
+  .hero::after {
+    content: '';
+    position: absolute;
+    bottom: -40%;
+    left: -15%;
+    width: 500px;
+    height: 500px;
+    border-radius: 50%;
+    background: radial-gradient(circle, rgba(45,155,106,0.15) 0%, transparent 70%);
+    pointer-events: none;
+  }
+  .hero > .wide { position: relative; z-index: 1; }
   .hero-eyebrow {
     display: inline-block;
     background: rgba(255,255,255,0.12);
-    color: rgba(255,255,255,0.85);
+    border: 1px solid rgba(255,255,255,0.15);
+    color: rgba(255,255,255,0.9);
     font-size: 0.8rem;
     font-weight: 600;
     letter-spacing: 0.1em;
@@ -310,11 +338,14 @@
     font-size: 3rem;
     line-height: 1.15;
     margin-bottom: 1rem;
+    max-width: 800px;
+    margin-left: auto;
+    margin-right: auto;
   }
-  .hero > .container > p {
+  .hero > .wide > p {
     color: rgba(255,255,255,0.88);
     font-size: 1.15rem;
-    max-width: 560px;
+    max-width: 640px;
     margin: 0 auto 2rem;
     line-height: 1.7;
   }

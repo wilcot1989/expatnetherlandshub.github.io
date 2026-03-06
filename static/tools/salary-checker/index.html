@@ -220,25 +220,79 @@
       .footer-grid { grid-template-columns: repeat(2, 1fr); }
     }
 
-    /* ── HERO ── */
-    .page-hero {
-      background: linear-gradient(135deg, var(--expat-primary-dark) 0%, var(--expat-primary) 60%, var(--expat-primary-light) 100%);
+    /* ============================================================
+       ARTICLE-STYLE HERO
+    ============================================================ */
+    .tool-hero {
+      background:
+        url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='80' height='80'%3E%3Ccircle cx='40' cy='40' r='1.5' fill='%23ffffff' opacity='0.07'/%3E%3Ccircle cx='0' cy='0' r='1' fill='%23ffffff' opacity='0.05'/%3E%3Ccircle cx='80' cy='0' r='1' fill='%23ffffff' opacity='0.05'/%3E%3Ccircle cx='0' cy='80' r='1' fill='%23ffffff' opacity='0.05'/%3E%3Ccircle cx='80' cy='80' r='1' fill='%23ffffff' opacity='0.05'/%3E%3Cpath d='M0 40h80M40 0v80' stroke='%23ffffff' stroke-width='0.3' opacity='0.04'/%3E%3C/svg%3E"),
+        linear-gradient(135deg, var(--expat-primary-dark, #145236) 0%, var(--expat-primary, #1B6B4A) 50%, #2D9B6A 100%);
       color: #fff;
       padding: 3rem 1.5rem 2.5rem;
-      text-align: center;
+      position: relative;
+      overflow: hidden;
     }
-    .page-hero h1 {
-      font-size: clamp(1.6rem, 4vw, 2.4rem);
-      font-weight: 800;
-      line-height: 1.2;
-      margin-bottom: 0.75rem;
-      letter-spacing: -0.02em;
+    .tool-hero::before {
+      content: '';
+      position: absolute;
+      top: -50%;
+      right: -20%;
+      width: 500px;
+      height: 500px;
+      border-radius: 50%;
+      background: radial-gradient(circle, rgba(232,131,42,0.12) 0%, transparent 70%);
+      pointer-events: none;
     }
-    .page-hero p {
-      font-size: 1.05rem;
-      opacity: 0.9;
-      max-width: 600px;
+    .tool-hero::after {
+      content: '';
+      position: absolute;
+      bottom: -40%;
+      left: -15%;
+      width: 400px;
+      height: 400px;
+      border-radius: 50%;
+      background: radial-gradient(circle, rgba(45,155,106,0.15) 0%, transparent 70%);
+      pointer-events: none;
+    }
+    .tool-hero-inner {
+      max-width: 1100px;
       margin: 0 auto;
+      position: relative;
+      z-index: 1;
+    }
+    .tool-hero .breadcrumb { margin-bottom: 1rem; }
+    .tool-hero .breadcrumb,
+    .tool-hero .breadcrumb a { color: rgba(255,255,255,0.7); }
+    .tool-hero .breadcrumb a:hover { color: #fff; }
+    .tool-hero h1 {
+      color: #fff;
+      font-size: 2.1rem;
+      margin-bottom: 0.6rem;
+      max-width: 700px;
+    }
+    .tool-hero .hero-subtitle {
+      color: rgba(255,255,255,0.85);
+      font-size: 1.1rem;
+      margin-bottom: 0;
+      max-width: 580px;
+    }
+    .tool-hero .meta {
+      color: rgba(255,255,255,0.7);
+      font-size: 0.85rem;
+      margin-top: 0.75rem;
+    }
+    .hero-badge {
+      display: inline-block;
+      background: rgba(232,131,42,0.2);
+      border: 1px solid rgba(232,131,42,0.5);
+      color: #F5A623;
+      font-size: 0.8rem;
+      font-weight: 600;
+      letter-spacing: 0.05em;
+      text-transform: uppercase;
+      padding: 0.3rem 0.9rem;
+      border-radius: 20px;
+      margin-bottom: 1rem;
     }
     .updated-badge {
       display: inline-flex;
@@ -755,7 +809,7 @@
 
     /* Responsive */
     @media (max-width: 600px) {
-      .page-hero { padding: 2rem 1rem 1.75rem; }
+      .tool-hero { padding: 2rem 1rem 1.75rem; }
       .page-body { padding: 1.5rem 1rem 3rem; }
       .card { padding: 1.25rem; }
       .result-card { padding: 1.25rem; }
@@ -819,23 +873,18 @@
     </nav>
   </header>
 
-  <!-- HERO -->
-  <header class="page-hero">
-    <h1>HSM Salary Checker Netherlands 2026</h1>
-    <p>Check instantly if your salary meets the highly skilled migrant (kennismigrant) threshold &mdash; including 30% ruling and holiday allowance.</p>
-    <div class="updated-badge">
-      <svg width="12" height="12" viewBox="0 0 12 12" fill="none" aria-hidden="true"><circle cx="6" cy="6" r="5.5" stroke="currentColor"/><path d="M6 3.5V6l2 1.5" stroke="currentColor" stroke-linecap="round"/></svg>
-      Updated March 2026 &bull; Based on official IND thresholds
+  <div class="tool-hero">
+    <div class="tool-hero-inner">
+      <nav class="breadcrumb" aria-label="Breadcrumb">
+        <a href="/">Home</a> &rsaquo;
+        <a href="/tools/">Tools</a> &rsaquo;
+        <span>HSM Salary Checker</span>
+      </nav>
+      <span class="hero-badge">Free Tool &bull; Updated March 2026</span>
+      <h1>HSM Salary Checker Netherlands 2026</h1>
+      <p class="hero-subtitle">Check if your salary meets the Highly Skilled Migrant threshold for all IND permit categories.</p>
+      <div class="meta">Free &middot; No signup required &middot; By Sarah van den Berg</div>
     </div>
-  </header>
-
-  <!-- BREADCRUMB -->
-  <div class="wide" style="padding-top: 1rem;">
-    <nav class="breadcrumb" aria-label="Breadcrumb">
-      <a href="/">Home</a> &rsaquo;
-      <a href="/tools/">Tools</a> &rsaquo;
-      <span>HSM Salary Checker</span>
-    </nav>
   </div>
 
   <!-- MAIN -->
