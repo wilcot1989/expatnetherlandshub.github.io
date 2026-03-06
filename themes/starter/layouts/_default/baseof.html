@@ -466,7 +466,8 @@
       padding: 0.5rem 1.5rem 1rem;
       border-top: 1px solid rgba(255,255,255,0.1);
     }
-    #nav-toggle:checked ~ header .mobile-nav { display: block; }
+    #nav-toggle:checked ~ header .mobile-nav { display: block; max-height: calc(100vh - 60px); overflow-y: auto; }
+    #nav-toggle:checked ~ header { position: fixed; width: 100%; top: 0; z-index: 10000; }
     .mobile-nav a {
       display: block;
       color: rgba(255,255,255,0.88);

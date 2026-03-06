@@ -54,16 +54,16 @@ grocery delivery, cycling, NL vs DE, OV-chipkaart
 
 | # | Actie | Impact | Effort | Status |
 |---|---|---|---|---|
-| 1 | Tag pagina's noindex of taxonomy disablen | Kritiek | Laag | TODO |
-| 2 | Article + FAQPage schema op single.html | Hoog | Medium | TODO |
-| 3 | WebSite + Organization schema homepage | Hoog | Laag | TODO |
-| 4 | Ontbrekende category SVGs aanmaken (7) | Hoog | Laag | TODO |
-| 5 | Search Console indexing push | Kritiek | Laag | TODO |
-| 6 | 4 artikelen internal links toevoegen | Medium | Laag | TODO |
-| 7 | About page uitbreiden (E-E-A-T, 800+ woorden) | Medium | Laag | TODO |
-| 8 | /services/ pagina bouwen of nav verwijderen | Medium | Laag | TODO |
-| 9 | Sitemap priorities fixen | Laag | Medium | TODO |
-| 10 | hreflang toevoegen | Laag | Laag | TODO |
+| 1 | Tag pagina's noindex of taxonomy disablen | Kritiek | Laag | DONE (d39b250) |
+| 2 | Article + FAQPage schema op single.html | Hoog | Medium | DONE (d39b250) |
+| 3 | WebSite + Organization schema homepage | Hoog | Laag | DONE (d39b250) |
+| 4 | Ontbrekende category SVGs aanmaken (8) | Hoog | Laag | DONE (d39b250) |
+| 5 | Search Console indexing push | Kritiek | Laag | SCRIPT KLAAR — handmatig uitvoeren |
+| 6 | 4 artikelen internal links toevoegen | Medium | Laag | DONE (d39b250) |
+| 7 | About page uitbreiden (E-E-A-T, 1000+ woorden) | Medium | Laag | DONE (d39b250) |
+| 8 | /services/ pagina bouwen | Medium | Laag | DONE (d39b250) |
+| 9 | Sitemap priorities fixen | Laag | Medium | DONE (d39b250) |
+| 10 | hreflang toevoegen | Laag | Laag | DONE (d39b250) |
 
 ---
 
