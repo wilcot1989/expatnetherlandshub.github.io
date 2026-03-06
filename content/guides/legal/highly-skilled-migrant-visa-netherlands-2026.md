@@ -239,9 +239,56 @@ The short answer is: your residence permit does not disappear, but you cannot si
 
 Not sure whether your Dutch salary is competitive for your role and experience level? Use our [salary checker](/tools/salary-checker/) to benchmark your offer, and our [30% ruling calculator](/tools/30-percent-ruling-calculator/) to understand your take-home pay.
 
+## HSM Salary Thresholds 2026: All Categories
+
+The salary requirement is the single most important eligibility criterion for the highly skilled migrant permit, and it is reviewed and adjusted annually by the IND. The amounts below are the gross monthly figures excluding the 8% holiday allowance (vakantiegeld) — so your actual total monthly compensation can be higher.
+
+| Category | Minimum Gross Monthly Salary (2026) |
+|----------|--------------------------------------|
+| **HSM aged 30 and over** | €5,331 |
+| **HSM under 30** | €3,909 |
+| **Orientation year visa (zoekjaar) graduates** | €2,801 |
+| **EU Blue Card** | €5,331 (same as HSM 30+ in NL) |
+| **Researchers (directive 2016/801)** | No minimum salary — must be adequate |
+| **Medical training (AIOS/arts-assistent)** | Separate scale applies |
+
+**A note on the 8% holiday allowance:** Dutch employers are required by law to pay a holiday allowance (vakantiegeld) of at least 8% of annual gross salary, typically paid in May. The IND threshold is exclusive of this amount. So if your contract states €5,331/month, the holiday allowance on top brings your effective annual salary well above the minimum. However, if you are moving from a country where holiday allowance is included in the monthly figure, make sure your Dutch contract separates it correctly — otherwise you may inadvertently fall below the threshold.
+
+**The age cut-off matters:** The under-30 threshold applies to your age at the time of application, not at the start of employment. If you turn 30 during the permit period, the higher threshold does not automatically kick in mid-permit. But if you change employers or renew your permit after your 30th birthday, the higher rate will apply to your new application.
+
+**Part-time positions:** If you are working part-time, the threshold is applied pro-rata to a full-time equivalent. A 0.8 FTE contract must still meet 100% of the relevant threshold on a full-time equivalent basis — part-time does not reduce the minimum. This catches people out more than almost anything else I see.
+
+Use our [salary checker](/tools/salary-checker/) to benchmark whether your offer is competitive for your role and location, and our [30% ruling calculator](/tools/30-percent-ruling-calculator/) to see your actual take-home after tax.
+
+---
+
+## What Happens If You Lose Your Job on an HSM Visa
+
+Job loss is stressful everywhere, but on a Dutch HSM permit it adds an immigration layer that not enough people plan for in advance. Here is exactly what happens and what your options are.
+
+**The 3-month grace period.** If your employment ends — whether you were made redundant, your contract expired, or you resigned — your HSM residence permit does not immediately expire. You have a three-month grace period during which you can legally remain in the Netherlands and search for a new employer. During this time you cannot work, but you are in valid legal status.
+
+**You must notify the IND.** This is the step many people miss. When your employment ends, your former employer is supposed to notify the IND, which triggers the grace period officially. If for any reason that notification does not happen, contact the IND yourself. Do not assume the clock has not started.
+
+**What counts during the three months:**
+- You can remain in the Netherlands and continue your job search
+- You cannot take on paid work, freelance contracts, or interim employment
+- You remain entitled to healthcare (your Dutch health insurance stays valid)
+- Your family members on dependent permits also retain their status during this period
+
+**Finding a new sponsor.** Your new employer must be an IND-recognised sponsor. Before accepting any offer, verify this on the IND public register. Your new employer then submits a fresh HSM application on your behalf. If the new application is submitted before your grace period ends, you can typically remain in the Netherlands without interruption while it is processed.
+
+**What if three months is not enough?** If you have not secured a new position by the end of the grace period, your right to remain in the Netherlands ends. You would need to leave and, if you later find a new Dutch employer, restart the process from outside the Netherlands. This is genuinely disruptive — all the more reason to start your job search immediately after your employment ends, not a month in.
+
+**Practical tip:** I always recommend that my clients maintain an emergency fund of at least 3-6 months of expenses precisely because the grace period is finite. If you are spending half the grace period in stress, it is much harder to interview well.
+
+For the full picture of arriving, settling, and protecting your status, our [complete guide to moving to the Netherlands](/guides/legal/complete-guide-moving-to-netherlands-2026/) covers everything from housing to BSN registration to healthcare. And once you have found your new role, use the [visa permit finder](/tools/visa-permit-finder/) to check which permit category applies to your new employment arrangement.
+
+---
+
 ## Related Guides
 
-- **[Complete Guide to Moving to the Netherlands](/posts/complete-guide-moving-to-netherlands-2026/)** — The big picture of relocating
+- **[Complete Guide to Moving to the Netherlands](/guides/legal/complete-guide-moving-to-netherlands-2026/)** — The big picture of relocating
 - **[The 30% Ruling Explained](/posts/30-percent-ruling-netherlands-2026/)** — Save thousands on taxes
 - **[Dutch Tax System for Expats](/posts/dutch-tax-system-expats-guide-2026/)** — Understanding your tax obligations
 - **[Best Bank Accounts for Expats](/posts/best-bank-account-expats-netherlands-2026/)** — Where to open your Dutch account

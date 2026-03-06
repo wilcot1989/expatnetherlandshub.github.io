@@ -80,7 +80,7 @@ Housing is by far the largest expense for expats in the Netherlands, and prices 
 3. **House-sharing**: Common among young expats, especially in Amsterdam, and can cut housing costs by 30-50%
 4. **Social housing (sociale huur)**: If your income qualifies, regulated housing is much cheaper, though waiting lists can be years long
 
-For a complete guide to finding housing, see our [guide to moving to the Netherlands](/posts/complete-guide-moving-to-netherlands-2026/).
+For a complete guide to finding housing, see our [finding housing in the Netherlands guide](/guides/housing/finding-housing-netherlands-expats-2026/). Before you start your search, use our [housing budget checker](/tools/housing-budget-checker/) to calculate how much rent you can realistically afford based on your income and other Dutch costs.
 
 ---
 
@@ -329,7 +329,7 @@ If you qualify for the 30% ruling, 30% of your gross salary is paid as a tax-fre
 | **Net monthly income** | **~EUR 3,583** | **~EUR 4,292** |
 | **Monthly benefit** | - | **~EUR 709** |
 
-The 30% ruling makes a substantial difference. At higher salaries, the benefit is even more significant because a larger portion of income would otherwise be taxed at the top 49.50% rate.
+The 30% ruling makes a substantial difference. At higher salaries, the benefit is even more significant because a larger portion of income would otherwise be taxed at the top 49.50% rate. Use our [30% ruling calculator](/tools/30-percent-ruling-calculator/) to estimate your personal benefit based on your gross salary.
 
 ### Government Allowances
 

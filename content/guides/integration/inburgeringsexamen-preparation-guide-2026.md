@@ -334,7 +334,7 @@ Once you pass all components of the inburgeringsexamen, several doors open:
 4. **Not using practice exams**. The DUO practice exams closely mirror the real exam. Familiarity with the format is half the battle.
 5. **Studying in isolation**. Language learning is faster and more sustainable when combined with real-world use. Volunteer, join clubs, talk to neighbors.
 
-For more on settling into the Netherlands, see our [complete guide to moving to the Netherlands](/posts/complete-guide-moving-to-netherlands-2026/) and our [guide to Dutch health insurance](/posts/dutch-health-insurance-guide-expats-2026/), which covers a topic you will encounter in the KNM exam.
+For more on settling into the Netherlands, see our [complete guide to moving to the Netherlands](/posts/complete-guide-moving-to-netherlands-2026/) and our [guide to Dutch health insurance](/posts/dutch-health-insurance-guide-expats-2026/), which covers a topic you will encounter in the KNM exam. If you are looking for a structured course to support your preparation, our [best Dutch language courses guide](/guides/integration/best-dutch-language-courses-2026/) compares in-person schools, online tutors, and exam prep programs.
 
 Not sure which integration route applies to you? Use our inburgering route builder to find the right learning path based on your situation.
 

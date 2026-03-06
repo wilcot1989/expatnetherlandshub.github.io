@@ -31,6 +31,49 @@ After years of renting in the Netherlands, I finally decided to buy -- and immed
 
 New to the Netherlands? Start with our [complete expat guide](/posts/moving-to-netherlands-guide-2026/) and explore [neighborhoods in The Hague](/posts/moving-to-the-hague-guide-2026/).
 
+## How Much Can You Borrow? The Rules Explained
+
+Before you start viewing properties on Funda, you need a realistic number for your maximum mortgage. In the Netherlands, that number is determined by three things: your income, the interest rate, and any existing debts. Here is how it works in practice.
+
+### The 4.5x Rule
+
+The standard rule of thumb is that you can borrow approximately 4.5 times your gross annual income. This is not a fixed ratio — it varies depending on interest rates and lender policy — but it is a reliable starting point:
+
+| Gross annual salary | Approximate maximum mortgage |
+|--------------------|-----------------------------|
+| €45,000 | ~€200,000 |
+| €60,000 | ~€265,000 |
+| €80,000 | ~€355,000 |
+| €100,000 | ~€440,000 |
+| €120,000 | ~€490,000 |
+| €70K + €50K (couple) | ~€500,000 |
+
+These are gross salary figures using standard income. The picture changes significantly with the 30% ruling or a study debt.
+
+### The 30% Ruling Impact on Your Mortgage
+
+The 30% ruling reduces your taxable income, which is great for your monthly take-home pay — but it creates a problem when applying for a mortgage. Standard Dutch lenders calculate borrowing capacity based on your **taxable** income, not your gross income. If you have the 30% ruling, your taxable income is only 70% of your gross salary.
+
+**Practical example:** On a €90,000 gross salary with the 30% ruling, most lenders calculate your mortgage capacity based on €63,000 (70% of gross). That gives you approximately €275,000 in borrowing capacity, rather than the ~€390,000 you would get without the ruling.
+
+The good news: some expat-specialist mortgage advisors work with lenders who accept the **full gross salary** for calculation purposes, even for 30% ruling holders. This is one of the most important reasons to use an advisor who specialises in expat mortgages rather than a standard Dutch bank. The difference in borrowing capacity can be €100,000+.
+
+Use our [30% ruling calculator](/tools/30-percent-ruling-calculator/) to see exactly what your taxable income looks like, then talk to a specialist advisor about which lenders will accept your full gross salary.
+
+### Studieschuld (Student Debt) Impact
+
+If you have a DUO student loan (or equivalent foreign student debt that a Dutch lender is aware of), it reduces your maximum mortgage. The calculation works like this: every €10,000 in outstanding studieschuld reduces your maximum mortgage by approximately €25,000-€30,000, depending on the repayment period and lender.
+
+This catches many expats off guard. If you studied in the Netherlands on a loan, or if you are disclosing foreign student debt, factor this into your budget before you start house-hunting. A mortgage advisor can run the calculation precisely.
+
+### Two-Income Households
+
+If you are buying with a partner, lenders combine both incomes, but not always at 100% of the second income. Typically:
+- **Primary income:** 100% used
+- **Secondary income (if lower):** up to 90-100% used, depending on lender
+
+Two-income households generally have significantly more purchasing power than the 4.5x rule applied to one salary alone.
+
 ## Can You Get a Mortgage as an Expat?
 
 ### Requirements
@@ -189,10 +232,22 @@ You can deduct mortgage interest from your taxable income for up to 30 years:
 
 If you are transferring savings from abroad for your down payment or additional costs, use <a href="https://wise.com/invite/dic/digitalshieldpro" rel="nofollow sponsored" target="_blank">Wise</a> to get the real exchange rate. Banks typically add 2-5% in hidden markups on large transfers — on a €20,000 transfer, that could cost you €400-€1,000.
 
+## Tools for Expat Buyers
+
+### [Housing Budget Checker](/tools/housing-budget-checker/)
+Before you talk to a mortgage advisor, use this to get a baseline budget. It combines your gross salary, Dutch income tax, the 30% ruling (if applicable), and expected running costs to show you a realistic monthly mortgage payment you can sustain. It also lets you compare renting vs buying at different price points — useful if you are on the fence.
+
+### [30% Ruling Calculator](/tools/30-percent-ruling-calculator/)
+If you have (or are applying for) the 30% ruling, this calculator shows your actual taxable income — the number lenders use for mortgage calculations. Use it before your first advisor meeting so you walk in knowing your numbers. It also shows how the ruling affects your net salary over time, which matters for planning a multi-year mortgage commitment.
+
+For context on buying in specific cities, read our [finding housing guide](/guides/housing/finding-housing-netherlands-expats-2026/) and the [Dutch tax system guide](/guides/finance/dutch-tax-system-expats-guide-2026/) to understand how mortgage interest deduction (hypotheekrenteaftrek) works in practice.
+
 ## Explore More Expat Guides
 
 - **[Complete Guide to Moving to the Netherlands](/posts/moving-to-netherlands-guide-2026/)** — Getting started
 - **[Moving to The Hague](/posts/moving-to-the-hague-guide-2026/)** — Best neighborhoods and costs
+- **[Finding Housing in the Netherlands](/guides/housing/finding-housing-netherlands-expats-2026/)** — Rental and buying search guide
+- **[Dutch Tax System for Expats](/guides/finance/dutch-tax-system-expats-guide-2026/)** — Hypotheekrenteaftrek and income tax explained
 - **[Best Expat Insurance](/posts/best-expat-insurance-netherlands-2026/)** — Home and liability coverage
 - **[Freelancer ZZP Guide](/posts/freelancer-zzp-guide-netherlands-2026/)** — Self-employed mortgage options
 - **[DigiD Guide](/posts/digid-guide-expats-2026/)** — Essential for tax declarations

@@ -159,7 +159,93 @@ Prices fluctuate, but here is a realistic snapshot of what you will pay for a va
 
 Always verify on [gaslicht.com](https://www.gaslicht.com) before signing — prices update daily.
 
-Also worth knowing: if you are still figuring out your broader budget, check out our [cost of living guide](/posts/cost-of-living-netherlands-2026/) for a full picture of monthly expenses in the Netherlands.
+## Understanding Your Dutch Energy Bill
+
+When my first Dutch energy bill arrived, I stared at it for five minutes and understood almost nothing. The format is genuinely confusing if you have not seen one before. Here is what every line means.
+
+### The Four Main Components
+
+**1. Leveringskosten (Supply costs)**
+
+This is what you pay to your energy supplier — the price per kWh of electricity and per m³ of gas that you actually consume. It is the part that varies between providers and that comparison sites focus on. In 2026, expect roughly:
+
+- Electricity: **€0.30–€0.40/kWh** depending on contract type
+- Gas: **€1.40–€1.60/m³** on most variable contracts
+
+**2. Netwerkkosten (Network/grid costs)**
+
+You pay this to your netbeheerder (grid operator — Liander, Stedin, or Enexis depending on your region) regardless of which supplier you chose. You cannot shop around for this — it is set by your region. Typically **€25–€45/month** covering both electricity and gas networks.
+
+**3. Energiebelasting (Energy tax)**
+
+This is a Dutch government tax on energy consumption, designed to encourage conservation. It is baked into the per-kWh and per-m³ prices you see advertised. In 2026, the electricity tax rate is approximately **€0.12/kWh** and the gas tax is around **€0.60/m³** — yes, the gas tax alone adds a significant chunk to every cubic metre you burn.
+
+**4. ODE (Opslag Duurzame Energie, Sustainable Energy Surcharge)**
+
+The ODE was a separate surcharge for financing renewable energy subsidies. From 2023, it was merged into the energiebelasting for most consumers, so you may see it as a combined line on older bills or as part of your energy tax total on newer ones.
+
+### What the Bill Actually Looks Like
+
+A typical monthly energy bill for a 2-bedroom apartment in 2026 might read:
+
+| Line | Amount |
+|------|--------|
+| Electricity supply (250 kWh × €0.32) | €80 |
+| Gas supply (60 m³ × €1.50) | €90 |
+| Network costs (electricity + gas) | €35 |
+| Monthly fixed supply fee (vastrecht) | €20 |
+| **Total** | **€225** |
+
+**Vastrecht** is a fixed monthly fee your supplier charges regardless of consumption — think of it as a standing charge. It covers administration and meter costs. Ranges from €12–€25/month.
+
+**Voorschot vs. nakeuring:** Most suppliers take a monthly direct debit based on an estimate of your annual consumption (voorschot). At year end, they reconcile actual vs. estimated — you either get money back or pay extra. If you are moving into a new property, give them your meter readings on day one to start the estimate accurately.
+
+## Fixed vs Variable Energy Contracts: Which Is Right for You?
+
+This is the question I get most often from expats setting up their first Dutch energy contract. The honest answer depends on your risk tolerance, how long you plan to stay, and how much time you want to spend thinking about energy prices.
+
+### Fixed Contracts (Vast Contract)
+
+You lock in a price per kWh and per m³ for 1, 2, or 3 years. The advantage is total predictability — your leveringskosten will not change regardless of what happens in European energy markets.
+
+**In 2026, a fixed contract looks like:**
+- Electricity: €0.32–€0.38/kWh
+- Gas: €1.45–€1.65/m³
+- Contract lock-in: typically 1 year minimum
+
+Fixed contracts carry an early cancellation fee if you leave during the contract period. Most charge 1–2 months of supply costs, so read the small print before signing.
+
+**Best for:** Expats who want certainty and do not want to monitor energy prices. Also sensible if you think market prices will rise.
+
+### Variable Contracts (Variabel Contract)
+
+Prices adjust monthly or quarterly based on market rates. In stable or falling markets, variable contracts can be cheaper than fixed — but when gas prices spike (as they did dramatically in 2021–2022), they expose you to those spikes in real time.
+
+**In 2026:** The market is considerably calmer than the crisis years. Variable contracts are currently competitive with fixed.
+
+- Electricity: €0.27–€0.33/kWh
+- Gas: €1.35–€1.55/m³
+- Notice period: typically 1 month
+
+**Best for:** Expats who are comfortable with some price variation and may want to switch providers if a better deal appears.
+
+### Dynamic Contracts (Dynamisch Contract)
+
+Prices change hourly based on the real-time European energy exchange (EPEX SPOT). This is the option Tibber and Frank Energie specialise in. Average annual savings of 10–25% are realistic for people who can shift consumption to off-peak hours — running the dishwasher at midnight, charging an EV when wind energy is abundant.
+
+**This requires:** A smart meter (slimme meter), some willingness to track cheap hours, and the understanding that prices occasionally spike to €0.80+/kWh during cold winter evenings when demand surges.
+
+**Average costs in 2026:** Dynamic electricity averages roughly **€0.28–€0.35/kWh** annually, but the hour-by-hour range is enormous.
+
+**Best for:** Tech-savvy expats, EV owners, people with solar panels, and those with flexible schedules.
+
+### My Recommendation
+
+For most expats arriving in the Netherlands: start with a **variable contract** from Vattenfall or Eneco for simplicity and English support. After your first year — once you understand your consumption patterns and have a smart meter — consider whether a dynamic contract from Tibber makes financial sense.
+
+For your overall housing budget, check our [cost of living guide](/guides/housing/cost-of-living-netherlands-2026/) and our [finding housing guide](/guides/housing/finding-housing-netherlands-expats-2026/) which covers energy labels and what to look for in a Dutch rental.
+
+Also worth knowing: if you are still figuring out your broader budget, check out our [cost of living guide](/guides/housing/cost-of-living-netherlands-2026/) for a full picture of monthly expenses in the Netherlands.
 
 ## Explore More Expat Guides
 

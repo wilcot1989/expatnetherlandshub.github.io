@@ -166,12 +166,68 @@ If you stream workouts, music, or podcasts while at the gym, NordVPN also unlock
 
 <a href="https://go.nordvpn.net/aff_c?offer_id=612&aff_id=141337&url_id=" target="_blank" rel="noopener nofollow sponsored" class="cta-affiliate">Get NordVPN — access your home country content →</a>
 
+## Gym Pricing by Category: The Full 2026 Picture
+
+The tables earlier give you per-gym figures. Here is how the categories stack up when you factor in everything — joining fees, annual price increases, and what is actually included.
+
+| Category | Examples | Monthly Range | Contract | What's Included |
+|----------|---------|--------------|----------|----------------|
+| **Budget** | Basic-Fit, Fit For Free | €20–€30 | Monthly or annual | Equipment, app, some classes |
+| **Mid-range** | TrainMore, Sportcity | €40–€60 | Monthly or 12-month | Equipment + group classes + pool (some) |
+| **Premium chain** | David Lloyd | €80–€120 | Monthly | Pool, tennis, spa, kids club |
+| **Boutique** | CrossFit boxes, Rocycle, YogaRoom | €80–€150/month | Per class or monthly | Small group, specialist instruction |
+| **Multi-access** | Urban Sports Club M/L | €49–€79 | Monthly | Hundreds of studios + gyms |
+
+**The boutique maths:** A single CrossFit class is €15–€20, which means 5 classes a month hits €75–€100. For regular attendees, a monthly boutique membership at €100–€150 for unlimited access is better value. Most boutique gyms in Amsterdam and Rotterdam offer a 2-week trial — always use it.
+
+**City price differences:** Amsterdam memberships run 15–25% higher than other Dutch cities. A Basic-Fit Premium in Amsterdam costs around €30/month; the same plan in Eindhoven or Breda is closer to €22–€25. Mid-range gyms show an even bigger gap — TrainMore-equivalent quality in Rotterdam or Utrecht runs €35–€45 versus €50–€60 in central Amsterdam.
+
+Fitness costs are one piece of the broader monthly budget puzzle. See our [cost of living guide](/guides/housing/cost-of-living-netherlands-2026/) for a realistic picture of what you will spend across all categories.
+
+## Cancelling Your Gym Membership: What You Need to Know
+
+Dutch gym cancellation rules trip up more expats than almost anything else in this guide. I have coached clients through disputes with Basic-Fit, Sportcity, and David Lloyd — here is how to do it correctly.
+
+### The Legal Framework
+
+Under Dutch consumer law, gym memberships have a minimum contract period (usually 12 months) and a cancellation notice period of **1 month (opzegtermijn)**. This means:
+
+- If you signed a 12-month contract, you can cancel from **month 11**, with the cancellation taking effect at the end of month 12
+- After the minimum period, you can cancel anytime with 1 month's notice
+- Monthly rolling contracts can be cancelled with 1 month's notice at any point
+
+**Always cancel in writing.** Email is acceptable, but keep proof. Many gyms claim they did not receive verbal cancellations. Some have an online cancellation form — use it AND send a follow-up email.
+
+### How to Cancel Each Major Chain
+
+**Basic-Fit:** Log into the app or website, go to "My Account" → "End membership." You will receive a confirmation email. If you do not receive confirmation within 24 hours, call or go in person.
+
+**Trainmore:** Cancel via the member portal or in writing at the front desk. They request 1 month's notice in writing.
+
+**Sportcity:** Email your home location or use their online member portal. 1-month notice required.
+
+**David Lloyd:** Written notice to your home club. They are known for being strict about this — certified mail is not a bad idea if you are cancelling an expensive membership.
+
+### Early Cancellation
+
+Leaving the Netherlands before your contract ends? Most gyms allow early termination for genuine relocation. You will need:
+- Proof of deregistration from the municipality (uitschrijving gemeente)
+- A written cancellation request citing your move abroad
+
+Some gyms charge 1–2 months' fees anyway; others waive the remainder. It depends on the chain and individual club.
+
+### The Urban Sports Club Exception
+
+Urban Sports Club uses monthly rolling contracts with 30 days' notice. No minimum commitment. This is one reason it is worth the slightly higher price if you are uncertain about your stay length or gym preferences.
+
+For a broader view of Dutch fitness culture and free alternatives, check our [cycling guide](/guides/daily-life/cycling-netherlands-expat-guide-2026/) — because honest, cycling daily in the Netherlands does count as exercise.
+
 ## Explore More Expat Guides
 
-- **[Cost of Living Netherlands](/posts/cost-of-living-netherlands-2026/)** — Budget planning
+- **[Cost of Living Netherlands](/guides/housing/cost-of-living-netherlands-2026/)** — Budget planning
+- **[Cycling in the Netherlands](/guides/daily-life/cycling-netherlands-expat-guide-2026/)** — Your daily workout
 - **[Best Coworking Spaces](/posts/best-coworking-spaces-netherlands-2026/)** — Work-life balance
 - **[Dutch Holidays and Traditions](/posts/dutch-holidays-traditions-expat-guide-2026/)** — Cultural calendar
-- **[Moving to Amsterdam](/posts/moving-to-amsterdam-guide-2026/)** — City fitness options
 - **[Dutch Health Insurance](/posts/dutch-health-insurance-expats-2026/)** — Some policies cover gym
 
 ---

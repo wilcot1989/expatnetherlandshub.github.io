@@ -257,9 +257,67 @@ At €3-€5 per month, this is the easiest insurance decision you will make in 
 
 Not sure which insurance package suits your situation? Use our [insurance chooser](/tools/insurance-chooser/) for a personalised recommendation, or start with our [health insurance wizard](/tools/health-insurance-wizard/) to sort your mandatory coverage first.
 
+## Comparing SafetyWing vs Cigna vs Allianz for Expats
+
+Before you are eligible for Dutch health insurance — or if you are in the Netherlands on a visa that does not require it — you will need international health coverage. I get asked constantly which provider to go with. The honest answer is that it depends on where you are in your expat journey and how long you plan to stay.
+
+### SafetyWing Nomad Insurance
+
+SafetyWing is built for digital nomads and short-to-medium-term expats. It works on a rolling monthly subscription model, you can start and stop coverage at any time, and it is priced to be accessible — around USD 45-56 per month for under-40s as of 2026.
+
+**Where it works well:** Gap coverage between arriving in the Netherlands and getting your BSN and Dutch insurance sorted. Also excellent if you travel extensively outside the Netherlands while living here. It covers medical emergencies, hospital stays, and evacuation.
+
+**Where it falls short:** SafetyWing is not a substitute for Dutch basisverzekering from a legal standpoint. If the Dutch CAK determines you should have registered for Dutch health insurance, SafetyWing does not satisfy that requirement. Also, it does not cover pre-existing conditions and has annual limits that are lower than Cigna or Allianz.
+
+### Cigna Global
+
+Cigna is one of the most widely used international health insurance providers among corporate expats — particularly those on expat packages. Coverage is comprehensive and genuinely international, with a large network of hospitals worldwide and strong customer service in English.
+
+**Where it works well:** Senior executives, frequent international travellers, and expats who split time between multiple countries. Cigna's plans include outpatient coverage, dental, vision, and maternity as add-ons. Claims processing is solid.
+
+**Where it falls short:** Price. Cigna plans start from around EUR 200-350 per month for a standard individual plan, and comprehensive coverage for a family can reach EUR 700-1,200. It is priced for employer-sponsored arrangements.
+
+### Allianz Care
+
+Allianz Care (the international health division of Allianz) sits between SafetyWing and Cigna in terms of coverage depth and price. Their ModuMED plans are popular with expats who want more than a travel-emergency policy but do not need full corporate-level coverage.
+
+**Where it works well:** Medium-term expats (1-3 years), freelancers working internationally, and families who want reliable maternity and child coverage. Allianz has a strong claims track record and a straightforward online portal.
+
+**Where it falls short:** Plan customisation is more complex than SafetyWing, and some policyholders report slower claims turnaround for outpatient costs.
+
+| Provider | Best For | Monthly Cost (approx.) | Pre-existing Conditions |
+|----------|----------|----------------------|------------------------|
+| **SafetyWing** | Short-term, budget-conscious, digital nomads | USD 45-56 | Not covered |
+| **Cigna Global** | Corporate expats, comprehensive cover | EUR 200-350+ | Covered (with assessment) |
+| **Allianz Care** | Mid-term expats, families | EUR 100-250 | Covered (some exclusions) |
+
+---
+
+## When to Switch from International to Dutch Insurance
+
+This is the transition that most expats handle either too early or too late. The timing matters both financially and legally.
+
+**You must switch when:**
+- You become an employee in the Netherlands (the obligation kicks in from your first day of work, with a four-month window to register)
+- You become a self-employed ZZP'er with a Dutch business registration
+- You obtain a residency permit that requires Dutch health insurance
+
+**The four-month rule:** Dutch law gives you four months from the date you first fall under the obligation (typically your employment start date) to register with a Dutch insurer. If you register late, you face a CAK fine and may be back-billed for premiums from the date the obligation started.
+
+**Why switching can feel expensive:** Dutch basisverzekering at EUR 120-145/month plus the EUR 385 annual deductible can feel like more than you were paying for international cover. But you also get access to Dutch GP care, specialist referrals, and hospital treatment at no or low marginal cost — the system is genuinely good value once you use it.
+
+**When international cover still makes sense alongside Dutch insurance:** If you travel frequently — more than 8-10 trips per year, or long stays outside the EU — a supplementary international travel insurance or SafetyWing plan on top of your Dutch basisverzekering makes sense. Dutch health insurance covers you within the Netherlands and has limited out-of-EU coverage. The combination gives you comprehensive worldwide protection without paying for full international health insurance.
+
+**Practical tip for the transition period:** Do not cancel your international insurance until your Dutch insurance is confirmed and active. There is typically a 2-4 week gap between applying for Dutch insurance and receiving your policy documents. Keep overlap coverage during that window.
+
+Not sure which Dutch insurance package is right for your situation? Our [health insurance wizard](/tools/health-insurance-wizard/) walks you through the key questions and gives you a personalised recommendation. For a broader view of all insurance types you need as an expat in the Netherlands, our [Dutch health insurance guide](/guides/health/dutch-health-insurance-guide-expats-2026/) covers the full basisverzekering system in detail.
+
+---
+
 ## Explore More Expat Guides
 
 - **[Complete Guide to Moving to the Netherlands](/posts/moving-to-netherlands-guide-2026/)** — Everything you need to know
+- **[Dutch Health Insurance Guide](/guides/health/dutch-health-insurance-guide-expats-2026/)** — The full basisverzekering breakdown
 - **[DigiD Guide for Expats](/posts/digid-guide-expats-2026/)** — Essential for applying for zorgtoeslag
 - **[Freelancer ZZP Guide](/posts/freelancer-zzp-guide-netherlands-2026/)** — Self-employment in the Netherlands
 - **[Highly Skilled Migrant Visa](/posts/highly-skilled-migrant-visa-netherlands-2026/)** — Work permit essentials

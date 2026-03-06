@@ -143,7 +143,7 @@ We cover the 30% ruling in full detail in our dedicated guide: [The 30% Ruling i
 - Must be applied for by your employer within 4 months of your start date
 - Can be transferred to a new employer with no gap exceeding 3 months
 
-If you think you might qualify, review the full guide and discuss it with your employer's HR department as soon as possible.
+If you think you might qualify, review the full guide and discuss it with your employer's HR department as soon as possible. You can also use the [salary checker](/tools/salary-checker/) to see exactly what your net pay looks like with and without the ruling applied.
 
 <a href="/tools/30-percent-ruling-calculator/" class="cta-affiliate">Calculate your 30% ruling benefit →</a>
 
@@ -309,6 +309,8 @@ A good tax advisor will:
 - [Best Bank Accounts for Expats in the Netherlands 2026](/posts/best-bank-account-expats-netherlands-2026/) -- set up your Dutch banking
 - [Complete Guide to Moving to the Netherlands in 2026](/posts/complete-guide-moving-to-netherlands-2026/) -- your full relocation checklist
 - [Cost of Living in the Netherlands 2026](/posts/cost-of-living-netherlands-2026/) -- budget for your Dutch life
+- [Expat Tax Return Netherlands 2026](/guides/finance/expat-tax-return-netherlands-2026/) -- step-by-step guide to filing your annual return
+- [Dutch Pension System for Expats 2026](/guides/finance/dutch-pension-system-expats-2026/) -- understand how your pension builds during your time here
 
 ---
 

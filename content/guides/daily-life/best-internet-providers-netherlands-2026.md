@@ -370,4 +370,4 @@ For most expats arriving in the Netherlands in 2026, I recommend this approach:
 
 3. **For remote workers**: Prioritize fiber internet for the symmetrical upload speeds that make video calls and file uploads smooth. KPN's 500 Mbps plan is the sweet spot for most home offices.
 
-Check what is available at your address, pick the plan that matches your household needs, and you will be online within a week or two. The Netherlands has excellent internet infrastructure, so whichever provider you choose, you are unlikely to be disappointed.
+Check what is available at your address, pick the plan that matches your household needs, and you will be online within a week or two. The Netherlands has excellent internet infrastructure, so whichever provider you choose, you are unlikely to be disappointed. Internet is just one piece of your monthly budget — see our [cost of living in the Netherlands guide](/guides/housing/cost-of-living-netherlands-2026/) for a full breakdown of what to expect.

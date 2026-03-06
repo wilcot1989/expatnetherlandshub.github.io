@@ -231,6 +231,67 @@ The Hague hosts major international organizations:
 ### Money Transfer
 For transferring money internationally (salary, savings, paying bills in your home country), use <a href="https://wise.com/invite/dic/digitalshieldpro" rel="nofollow sponsored" target="_blank">Wise (formerly TransferWise)</a> to save on exchange rate fees. Traditional banks charge 2-5% in hidden fees.
 
+## Cost of Living in The Hague: Specific 2026 Numbers
+
+The headline figure — 10-15% cheaper than Amsterdam — understates the actual difference in some categories. The Hague's savings are concentrated in rent and leisure. Day-to-day supermarket shopping is similar across Dutch cities (same chains, same prices), but the rent gap is real.
+
+### Rent by Neighbourhood (2026)
+
+| Neighbourhood | Studio / 1-bed | 2-bedroom | 3-bedroom |
+|---------------|---------------|-----------|-----------|
+| Statenkwartier | €1,100-€1,600 | €1,500-€2,200 | €2,000-€3,000 |
+| Bezuidenhout | €1,000-€1,400 | €1,200-€1,800 | €1,700-€2,400 |
+| Scheveningen | €1,000-€1,500 | €1,200-€2,000 | €1,800-€2,800 |
+| Archipelbuurt | €1,100-€1,600 | €1,400-€2,200 | €2,000-€3,000 |
+| Benoordenhout | €1,200-€1,800 | €1,500-€2,500 | €2,200-€3,500 |
+| Laakkwartier | €750-€1,000 | €900-€1,300 | €1,200-€1,700 |
+
+### Everyday Costs
+
+| Item | The Hague | Amsterdam |
+|------|----------|-----------|
+| Coffee (café) | €3.00 | €3.50 |
+| Restaurant meal (main course) | €17-€22 | €20-€28 |
+| Monthly tram/bus (OV-chipkaart) | €85-€110 | €90-€120 |
+| Gym membership | €30-€42 | €40-€55 |
+| Beer in a bar | €4.50-€5.50 | €5.50-€6.50 |
+| Weekly groceries (AH, 1 person) | €85-€125 | €90-€130 |
+
+### Buying Property in The Hague
+
+The Hague's property market is meaningfully more accessible than Amsterdam's:
+- **Average price per m²:** €4,000-€5,500 (vs €6,500-€9,000 in Amsterdam)
+- **Typical 2-bedroom apartment:** €350,000-€600,000
+- **Benoordenhout detached house:** €700,000-€1,200,000+
+- **Laakkwartier flat:** €220,000-€350,000
+
+For diplomatic families or international organization employees who expect to stay 5+ years, buying is increasingly worth considering. Use the [housing budget checker](/tools/housing-budget-checker/) to run the numbers against your actual salary and savings.
+
+## More on Key Neighbourhoods
+
+**Bezuidenhout** deserves more than the "practical" label it usually gets. It sits between Den Haag Centraal and the diplomatic and court quarter, which makes the morning commute trivially short for many international organization employees. The neighbourhood has seen consistent investment — newer apartment buildings alongside the older housing stock, a growing number of cafés and restaurants on Benoordenhoutseweg, and easy tram connections to Scheveningen for weekend beach runs. It is not the most characterful area, but for someone arriving alone and wanting to be set up efficiently, it is one of the most pragmatic choices in The Hague. Two-bedroom apartments run €1,200-€1,800/month.
+
+**Scheveningen** is more than a beach suburb. The Harbour area (Scheveningse Haven) has an increasingly year-round food and social scene, with restaurants and bars that are not dependent on summer tourists. If you surf, kitesurf, or simply want to run along the North Sea before work, living here makes that effortlessly possible. The main downside is the journey into the city centre — it is manageable by tram (20-25 minutes to Centraal) but noticeable daily. Winter on the coast is genuinely cold and windier than inland. Rent: €1,200-€2,000/month for a two-bedroom.
+
+**Statenkwartier** is the neighbourhood most expats aspire to. The architecture — elegant early-20th-century villas and apartment buildings on tree-lined streets — is the most beautiful in The Hague outside the diplomat quarter. The Frederikstraat and Fred. Hendriklaan offer good independent shopping. The beach is a ten-minute cycle. It commands a premium, but for couples or families with a solid income, the quality of life here is exceptional.
+
+**Laakkwartier** is the most underrated neighbourhood in this guide. It is multicultural, transit-connected (direct tram to Centraal), and significantly more affordable than anything closer to the centre. The area around Laakhaven is being redeveloped, with new residential buildings and a growing food scene along the waterfront. For expats on a tighter budget or those who want to save aggressively in their first years, Laakkwartier makes practical sense. Two-bedroom apartments: €900-€1,300/month.
+
+## Tools for Your Hague Move
+
+Getting set up in The Hague efficiently means getting ahead of the bureaucracy. These tools help.
+
+### [Housing Budget Checker](/tools/housing-budget-checker/)
+The Hague's rent range is wide — from €750/month in Laakkwartier to €2,500+ in Benoordenhout. Before committing to a neighbourhood, use this tool to establish what you can actually afford on your Dutch take-home pay. It accounts for the 30% ruling, Dutch income tax rates, and mandatory costs like health insurance.
+
+### [BSN Planner](/tools/bsn-planner/)
+Registration at the gemeente in The Hague is the first bureaucratic step, and getting your BSN (burgerservicenummer) unlocks everything else — bank account, health insurance, salary payment. The BSN Planner walks you through exactly what documents to bring, how to book at the Den Haag municipality, and what to expect. The Hague International Centre also offers support for internationals, but the BSN Planner covers the practical sequence step by step.
+
+### [Visa and Permit Finder](/tools/visa-permit-finder/)
+Many people moving to The Hague are arriving for international organizations, diplomatic posts, or government-linked roles — which sometimes involve different permit categories than standard employment. The Visa Finder helps identify the right permit for your situation and outlines what your employer or organization needs to sponsor.
+
+For a full picture of costs beyond rent, read our [cost of living guide](/guides/housing/cost-of-living-netherlands-2026/) and [finding housing guide](/guides/housing/finding-housing-netherlands-expats-2026/).
+
 ## Our Verdict
 
 The Hague is the best city in the Netherlands for expats who want a high quality of life with a strong international community. It offers everything Amsterdam does — culture, dining, cycling, public transport — but with lower costs, less crowding, and the bonus of beach access.

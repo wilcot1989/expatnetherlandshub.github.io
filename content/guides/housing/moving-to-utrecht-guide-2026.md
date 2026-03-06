@@ -223,6 +223,62 @@ Utrecht's tech and startup ecosystem does not get the international attention th
 
 For your language learning as you settle into student-city Utrecht, see our [best apps to learn Dutch](/posts/best-apps-learn-dutch-2026/) guide — and for the financial setup, our [cost of living guide](/posts/cost-of-living-netherlands-2026/) gives a full Utrecht breakdown.
 
+## Cost of Living in Utrecht: 2026 Numbers
+
+Utrecht sits in an interesting middle position: cheaper than Amsterdam, more expensive than Rotterdam or Eindhoven, and closer in cost to The Hague. The difference from Amsterdam is meaningful — roughly 15-20% on rent — but Utrecht is not cheap by European standards. Here is what to actually expect.
+
+### Rent by Neighbourhood (2026)
+
+| Neighbourhood | Studio / 1-bed | 2-bedroom | 3-bedroom |
+|---------------|---------------|-----------|-----------|
+| Wittevrouwen | €1,000-€1,400 | €1,300-€1,800 | €1,800-€2,500 |
+| Lombok | €850-€1,200 | €1,000-€1,500 | €1,400-€2,000 |
+| Oudwijk | €1,100-€1,500 | €1,400-€2,000 | €2,000-€2,800 |
+| Leidsche Rijn | €950-€1,300 | €1,100-€1,600 | €1,500-€2,200 |
+| Zuilen | €800-€1,100 | €950-€1,400 | €1,300-€1,800 |
+| De Uithof | €750-€1,100 | €1,000-€1,400 | — |
+
+### Everyday Costs
+
+| Item | Utrecht | Amsterdam | Rotterdam |
+|------|---------|-----------|-----------|
+| Coffee (café) | €3.20 | €3.50 | €3.00 |
+| Restaurant main course | €16-€22 | €20-€28 | €15-€20 |
+| Monthly OV (bus/tram) | €80-€100 | €90-€120 | €80-€100 |
+| Beer in a bar | €4.50-€5.50 | €5.50-€6.50 | €4.00-€5.00 |
+| Gym membership | €30-€42 | €40-€55 | €28-€40 |
+| Weekly groceries (1 person) | €85-€130 | €90-€135 | €80-€125 |
+
+### Buying Property
+
+Utrecht's property market is competitive. Prices have risen significantly but remain below Amsterdam:
+- **Average per m²:** €4,500-€6,500 (vs €6,500-€9,000 in Amsterdam)
+- **Wittevrouwen 2-bedroom apartment:** €400,000-€650,000
+- **Leidsche Rijn family house:** €450,000-€750,000
+- **Lombok flat:** €300,000-€500,000
+
+Use the [housing budget checker](/tools/housing-budget-checker/) to see what you can borrow and afford in Utrecht based on your salary and situation.
+
+## More on Key Neighbourhoods
+
+**Lombok** is the neighbourhood that surprises people most. The name alone puts off some expats, but it is genuinely one of the best urban areas in the Netherlands for food, community, and value. Kanaalstraat is the main artery — a long, busy street with Turkish, Moroccan, South American, and Asian restaurants, bakeries, and shops. The weekend market is excellent. Rent is lower than in Wittevrouwen or Oudwijk, and the tram and bus connections to Utrecht Centraal are fast. For younger expats or couples who care more about eating well than having polished architecture, Lombok is hard to beat. Two-bedroom apartments: €1,000-€1,500/month.
+
+**Wittevrouwen** is the neighbourhood that looks best in Instagram photos — narrow streets with bricked facades, independent coffee shops, and a café culture that feels authentic rather than performative. It is central enough that you cycle to Utrecht Centraal in eight minutes, and the housing stock (mostly smaller apartments in older buildings) suits couples and young professionals well. The downside is that apartments tend to be small and parking impossible, which matters if you have children. Two-bedroom apartments: €1,300-€1,800/month.
+
+**Leidsche Rijn** is Utrecht's largest recent development — a planned neighbourhood west of the city that offers the kind of space and modern construction you simply cannot find inside the old ring. Families get actual gardens, three-bedroom houses with parking, and a large urban park (Leidsche Rijn Park) for weekends. The trade-off is that it still has a slightly incomplete feel — some of the local shops and services that make a neighbourhood feel lived-in are still developing. The tram connects to the centre in around 20 minutes. It is the right choice for families who need space and cannot afford (or do not want) Oudwijk prices. Three-bedroom houses: €1,500-€2,200/month.
+
+**Zuilen** sits northwest of the centre and is one of Utrecht's more affordable established neighbourhoods. It has a working-class history and a genuinely mixed population. The architecture is less distinguished than Wittevrouwen, but the housing stock is spacious by Utrecht standards and the bus connections are solid. For expats who want a quiet residential base without paying Oudwijk prices, Zuilen is worth considering. Two-bedroom apartments: €950-€1,400/month.
+
+## Tools for Your Utrecht Move
+
+### [Housing Budget Checker](/tools/housing-budget-checker/)
+Utrecht's rental market is competitive and prices have risen steadily. Before you start viewing apartments, use this to establish your actual affordable rent based on Dutch take-home pay — including income tax, health insurance, and the 30% ruling if you qualify. A gross salary of €60,000 translates to very different take-home pay depending on your tax situation.
+
+### [BSN Planner](/tools/bsn-planner/)
+Registration at the Utrecht gemeente and getting your BSN is step one. The BSN Planner covers what documents to bring, how to book the appointment at the Utrecht Expat Centre (which combines registration support with practical advice), and what to do immediately after you receive your number. It also covers the sequence of tasks that depend on BSN — bank account, health insurance, employer administration.
+
+For the full housing search process in Utrecht's competitive market, read our [finding housing guide](/guides/housing/finding-housing-netherlands-expats-2026/).
+
 ## Explore More Expat Guides
 
 - **[Complete Guide to Moving to the Netherlands](/posts/moving-to-netherlands-guide-2026/)** — Getting started
@@ -230,6 +286,8 @@ For your language learning as you settle into student-city Utrecht, see our [bes
 - **[Moving to The Hague](/posts/moving-to-the-hague-guide-2026/)** — International city
 - **[Moving to Eindhoven](/posts/moving-to-eindhoven-guide-2026/)** — Tech hub guide
 - **[Best Bank Accounts for Expats](/posts/best-bank-accounts-expats-netherlands-2026/)** — Finances setup
+- **[Finding Housing in the Netherlands](/guides/housing/finding-housing-netherlands-expats-2026/)** — Rental search strategy
+- **[Cost of Living in the Netherlands](/guides/housing/cost-of-living-netherlands-2026/)** — Full city comparison
 
 ---
 

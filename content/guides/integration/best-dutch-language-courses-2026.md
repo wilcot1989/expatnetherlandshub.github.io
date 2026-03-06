@@ -393,7 +393,7 @@ The NT2 Staatsexamen (State Exam Dutch as a Second Language) comes in two levels
 5. **Book tutoring sessions**: Practice speaking with a tutor on [Preply](https://preply.com/) or [italki](https://www.italki.com/) in the months before the exam
 6. **Join conversation groups**: Libraries and community centers often host free Dutch conversation practice
 
-For a complete guide to the civic integration process, read our [Inburgeringsexamen Preparation Guide 2026](/posts/inburgeringsexamen-preparation-guide-2026/).
+For a complete guide to the civic integration process, read our [Inburgeringsexamen Preparation Guide 2026](/posts/inburgeringsexamen-preparation-guide-2026/). Unsure which learning route applies to your visa and situation? Our [inburgering route builder](/tools/inburgering-route-builder/) helps you identify the right path in under two minutes.
 
 ---
 

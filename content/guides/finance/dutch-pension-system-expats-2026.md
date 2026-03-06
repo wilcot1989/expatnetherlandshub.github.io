@@ -225,9 +225,93 @@ You have several options, and the right choice depends on where you are going an
 
 **Tax implications when leaving:** The Netherlands has tax treaties with most countries that determine where pension income is taxed. In most cases, the country where you reside at the time of payment has the taxing right — not the Netherlands. However, if the pension exceeds certain thresholds or the country lacks a treaty with the Netherlands, Dutch withholding tax may apply. This is worth checking with a cross-border tax specialist before you relocate.
 
+## AOW and the Gap Years Problem
+
+One thing I wish someone had explained to me early on: every year you spend outside the Netherlands between age 15 and 67 is a year of AOW you do not build up. The Dutch state pension is calculated on physical residency — not on working in the Netherlands, and not on contributing to the system in another country.
+
+If you arrive in the Netherlands at 35 and stay until 67, that is 32 years of AOW accrual — 64% of the full amount, roughly €852/month gross as a single person in 2026. If you then leave at 50 and retire elsewhere, you are down to 30 years of accrual, or 60%, around €798/month. That gap adds up over a 20-year retirement.
+
+**The gap years are not automatically filled.** There is no mechanism in the Dutch system where contributions to a UK, US, or German pension substitute for missing AOW years. Each country's state pension is calculated independently, which means expats who have split their working lives across multiple countries often end up with several partial state pensions — each smaller than a full one.
+
+### Voluntary AOW Contributions: Worth It?
+
+If you leave the Netherlands before reaching 67, you can continue building AOW voluntarily through the SVB (Sociale Verzekeringsbank). The cost in 2026 depends on your income, ranging from approximately €600 to €6,000 per year. The breakeven point is typically 10-12 years after you start contributing, assuming you live long enough to collect.
+
+Whether it makes sense depends on:
+- How many gap years you will have (the more, the more valuable it becomes)
+- Your health and family longevity
+- Whether you plan to retire in a country with a good tax treaty with the Netherlands
+- The cost vs the guaranteed inflation-linked income
+
+My general advice: if you have more than 15 gap years and you are in your 40s or early 50s, voluntary AOW contributions are worth running the numbers on seriously. Request a quote from the SVB at svb.nl/en.
+
+**Deadline:** You must apply for voluntary AOW continuation within one year of leaving the Netherlands. Miss that window, and those gap years are permanently unfilled.
+
+---
+
+## Building Private Pension as an Expat
+
+For most expats, the employer pension and AOW will not be enough — especially if you have accumulated gap years or plan to retire somewhere with a higher cost of living than the Netherlands. Private pension savings fill that gap, and the Dutch tax system gives you meaningful incentives to use them.
+
+### Lijfrente: The Main Tax-Advantaged Option
+
+Lijfrente is the primary private pension vehicle in the Netherlands. You make contributions to an approved insurance company, bank (banksparen), or investment product, and those contributions are deductible from your taxable income in Box 1. The money grows largely free of tax and is paid out as a series of regular income payments from retirement age — at which point it is taxed as income, usually at a lower rate because your income is lower.
+
+**Key points for 2026:**
+- Contributions up to your jaarruimte limit are fully deductible
+- The deduction applies in the year you contribute — so paying before December 31 each year matters
+- You can also use accumulated jaarruimte from the previous seven years (reserveringsruimte) — many expats discover they have unused space from years when they were not aware of it
+- Providers: Brand New Day, ASR, Centraal Beheer, and several investment platforms now offer low-cost lijfrente products
+
+The jaarruimte formula is: 30% of your pensionable income minus the pension already accrued through your employer. For a typical employed expat earning €70,000, this often works out to €4,000-€10,000 per year in deductible contributions. Use the Belastingdienst calculator at belastingdienst.nl to find your exact figure, or run your salary through our [salary checker](/tools/salary-checker/) first to make sure you understand your gross/net position.
+
+### The Wet Toekomst Pensioenen (WTP) and Private Pensions
+
+The WTP reform — which pension funds have until January 2028 to implement — does not directly change the lijfrente rules, but it does affect the context. As employer pensions move from defined-benefit guarantees to defined-contribution individual accounts, the investment risk shifts to employees. This makes private pension savings more important, not less, because your employer pension outcome is now less certain.
+
+For expats specifically, the WTP's increased transparency is helpful: you can now see exactly how much is in your individual pension account at mijnpensioenoverzicht.nl, which makes calculating how much private savings you need considerably easier.
+
+### Should You Invest in a Lijfrente or Just Invest Directly?
+
+The tax deduction on contributions is the main argument for lijfrente. If you are in the 49.5% tax bracket, a €5,000 contribution effectively costs you €2,525 after the deduction. The downside is illiquidity — you cannot withdraw lijfrente before retirement age without significant penalties.
+
+If you might need the money before retirement (career change, leaving the Netherlands, major purchase), a taxable investment account via a low-cost broker gives you more flexibility. DeGiro and Meesman are popular among expats for index fund investing outside a pension wrapper.
+
+Not sure how the 30% ruling interacts with your pension contributions? Our [30% ruling calculator](/tools/30-percent-ruling-calculator/) shows your effective tax rate and can help you decide whether the lijfrente deduction is worth it in your specific situation.
+
+---
+
+## What Happens to Your Dutch Pension When You Leave
+
+This is one of the most common questions I get from clients who are thinking about returning home or moving on to a third country. The short answer: your pension does not disappear, but you need to take a few specific steps to protect it.
+
+### Your AOW
+
+Your accumulated AOW rights are preserved and will be paid out from Dutch retirement age (currently 67) wherever in the world you live. The SVB pays AOW internationally in almost every country. In some countries, a tax treaty with the Netherlands means the AOW is taxed in your country of residence; in others, Dutch withholding tax applies. The SVB will deduct Dutch wage tax unless your country of residence has a tax treaty that assigns the taxing right elsewhere.
+
+**Action before you leave:** Register your foreign address with the SVB and make the voluntary continuation decision (see the gap years section above).
+
+### Your Employer Pension
+
+Your employer pension stays with the Dutch pension fund. It will be paid out at the fund's retirement age — typically 67, though some older schemes still use 65 — to a bank account you specify, in euros. The main risks are:
+- **Currency risk** — If you retire in a non-euro country, the value of your Dutch pension in local currency will fluctuate
+- **Inflation risk** — Not all pension funds index their payments to inflation, and this risk has increased under the WTP
+- **Administrative continuity** — Pension funds close, merge, and restructure. Keep your pension fund contact details updated and check mijnpensioenoverzicht.nl every few years
+
+**EU value transfer:** If you move to another EU country and start working there, you may be able to transfer your Dutch employer pension to your new country's pension fund. This must be done within one year of starting new employment. It is worth checking, but in practice relatively few foreign pension funds accept incoming Dutch transfers — your new employer's HR team can advise.
+
+### What I Do With My Clients
+
+Before a client leaves the Netherlands, I always go through a pension exit checklist: download the full overview from mijnpensioenoverzicht.nl, note every fund's contact details, confirm the SVB voluntary continuation decision, and check whether value transfer is worth exploring. Read our [Dutch tax system guide](/guides/finance/dutch-tax-system-expats-guide-2026/) to understand how pension income will be taxed in the years leading up to retirement.
+
+For the tax return implications — particularly if you have pension income from both the Netherlands and another country — our [expat tax return guide](/guides/finance/expat-tax-return-netherlands-2026/) covers how to report foreign and Dutch pension income correctly.
+
+---
+
 ## Explore More Expat Guides
 
-- **[Dutch Tax System for Expats](/posts/dutch-tax-system-expats-2026/)** — Taxes and deductions
+- **[Dutch Tax System for Expats](/guides/finance/dutch-tax-system-expats-guide-2026/)** — Taxes and deductions
+- **[Expat Tax Return Netherlands](/guides/finance/expat-tax-return-netherlands-2026/)** — How to file step by step
 - **[The 30% Ruling](/posts/30-percent-ruling-netherlands-2026/)** — Tax advantage explained
 - **[Best Bank Accounts for Expats](/posts/best-bank-accounts-expats-netherlands-2026/)** — Where to save
 - **[Working as a Freelancer (ZZP)](/posts/freelancer-zzp-guide-netherlands-2026/)** — Pension as self-employed

@@ -303,6 +303,53 @@ Rotterdam offers a rich cultural scene:
 
 ---
 
+## Rotterdam vs Amsterdam: The Real Cost Comparison
+
+The cost difference between Rotterdam and Amsterdam is not marginal. It is the kind of gap that, over a few years, means a different savings rate, a mortgage earlier, or a genuinely less stressed financial life. Here is what the numbers actually look like in 2026.
+
+### Rent Comparison
+
+| Property type | Rotterdam | Amsterdam | Saving |
+|---------------|-----------|-----------|--------|
+| Studio / 1-bed (centre) | €1,000-€1,500 | €1,400-€2,000 | ~25-30% |
+| 1-bed (outer areas) | €800-€1,200 | €1,100-€1,600 | ~25% |
+| 2-bed (centre) | €1,300-€2,000 | €1,800-€2,800 | ~25-30% |
+| 3-bed family | €1,500-€2,500 | €2,200-€3,500 | ~25-30% |
+| Buying (per m²) | €3,500-€5,500 | €6,500-€9,000 | ~40% |
+
+On a €70,000 salary, you might pay €1,300/month for a comfortable two-bedroom in Kralingen or Delfshaven. The equivalent in Amsterdam's De Pijp would be €1,900-€2,200. That €600-€900/month difference — €7,200-€10,800/year — is not trivial.
+
+### Neighbourhood Rent Breakdown (Rotterdam, 2026)
+
+| Neighbourhood | 1-bed | 2-bed | Character |
+|---------------|-------|-------|-----------|
+| Kralingen | €1,100-€1,600 | €1,400-€2,000 | Green, upscale |
+| Centrum | €1,100-€1,600 | €1,300-€1,900 | Urban, convenient |
+| Katendrecht | €1,000-€1,500 | €1,200-€1,800 | Trendy, waterfront |
+| Delfshaven | €750-€1,100 | €900-€1,400 | Diverse, affordable |
+| Blijdorp | €850-€1,250 | €1,000-€1,500 | Family-friendly |
+| Hillegersberg | €950-€1,400 | €1,200-€1,700 | Suburban, spacious |
+
+### Everyday Cost Comparison
+
+| Item | Rotterdam | Amsterdam |
+|------|-----------|-----------|
+| Coffee (café) | €3.00 | €3.50 |
+| Restaurant main course | €15-€20 | €20-€28 |
+| Beer in a bar | €4.00-€5.00 | €5.50-€6.50 |
+| Monthly OV | €80-€100 | €90-€120 |
+| Gym membership | €28-€40 | €40-€55 |
+
+## Tools for Your Rotterdam Move
+
+### [Housing Budget Checker](/tools/housing-budget-checker/)
+Even in Rotterdam, where rents are more reasonable, it is easy to overspend on housing in your first months — before you fully understand Dutch tax and the income requirements. The housing budget checker takes your gross salary and shows your realistic monthly housing budget after Dutch income tax, health insurance, and (if applicable) the 30% ruling. It is particularly useful if you are comparing Rotterdam to Amsterdam and want a like-for-like financial picture.
+
+### [BSN Planner](/tools/bsn-planner/)
+Registration at the Rotterdam Stadswinkel and getting your BSN is the first admin task that makes everything else possible. The BSN Planner covers which documents to bring, how to book online at rotterdam.nl, and how to use the Rotterdam Expat Centre if your employer qualifies. It also covers what happens next — bank account, health insurance, employer HR — in the right order.
+
+For a detailed guide to searching Rotterdam's rental market, read our [finding housing guide](/guides/housing/finding-housing-netherlands-expats-2026/). And for a full cost comparison across Dutch cities, the [cost of living guide](/guides/housing/cost-of-living-netherlands-2026/) covers Rotterdam in detail alongside Amsterdam, Utrecht, and The Hague.
+
 ## Conclusion
 
 Rotterdam is one of Europe's most underrated cities for expats. It offers affordability that Amsterdam cannot match, a bold and modern urban environment, a strong job market anchored by the world-class port, and a growing international community that is welcoming to newcomers. The city has its own distinct identity -- less polished than Amsterdam, more raw and energetic -- and many expats who initially planned to live in Amsterdam end up preferring Rotterdam's authentic character.

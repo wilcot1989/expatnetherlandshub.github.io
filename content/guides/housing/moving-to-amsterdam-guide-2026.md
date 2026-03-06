@@ -295,10 +295,61 @@ Amsterdam offers a rich cultural life:
 
 ---
 
+## Amsterdam Costs in 2026: The Real Numbers
+
+The cost of living table earlier gives broad ranges. Here are the specific numbers that matter most when you are making decisions.
+
+### Rent: What You Actually Pay
+
+Amsterdam's rent market has stabilised somewhat since the 2024 reforms but remains the most expensive in the Netherlands:
+
+- **1-bedroom apartment, city centre (De Pijp, Jordaan, Oud-Zuid):** €1,500-€2,100/month
+- **1-bedroom apartment, outer areas (Noord, Oost, Nieuw-West):** €1,100-€1,600/month
+- **2-bedroom apartment, city centre:** €1,800-€2,800/month — average around €2,200
+- **2-bedroom apartment, outer areas:** €1,500-€2,200/month
+- **3-bedroom family apartment, city centre:** €2,500-€3,800/month
+- **Amstelveen (suburban, good international schools):** €1,300-€2,000 for a 2-bed
+
+The income requirement is typically 3x monthly rent in gross salary. For a €1,650/month one-bedroom, you need a gross income of around €4,950/month (approximately €59,000/year). Many expats find this the binding constraint — not income, but the ratio.
+
+### Utilities and Other Recurring Costs
+
+| Expense | Monthly estimate |
+|---------|-----------------|
+| Gas + electricity (average apartment) | €150-€220 |
+| Water | €25-€35 |
+| Internet (fibre, 500Mbps) | €35-€50 |
+| Mobile (unlimited data + calls) | €25-€45 |
+| Health insurance (base + supplementary) | €130-€175 |
+| OV-chipkaart (heavy user) | €90-€120 |
+
+### Buying Property in Amsterdam
+
+Amsterdam property prices remain very high, though growth has slowed:
+- **Average price per m²:** €6,500-€9,000 (central) / €5,000-€7,000 (outer districts)
+- **Typical 2-bedroom canal house apartment:** €450,000-€750,000
+- **De Pijp 1-bedroom:** €350,000-€550,000
+- **Amsterdam-Noord 2-bedroom:** €350,000-€550,000
+
+For detailed cost comparisons with other Dutch cities, read our [cost of living guide](/guides/housing/cost-of-living-netherlands-2026/). And for the housing search itself, our [finding housing guide](/guides/housing/finding-housing-netherlands-expats-2026/) covers the Amsterdam market specifically.
+
+## Tools for Your Amsterdam Move
+
+Amsterdam's bureaucracy is extensive and the sequence matters. Getting your BSN before you open a bank account before you start health insurance before you register at the gemeente — missing a step costs you weeks. I built these tools specifically to avoid those delays.
+
+### [Housing Budget Checker](/tools/housing-budget-checker/)
+Amsterdam rents are high enough that what feels affordable at first glance often is not sustainable once you account for Dutch income tax, the 30% ruling (if applicable), health insurance, and utilities. This tool takes your gross salary, applies the actual Dutch tax calculations, and shows you a realistic housing budget. It prevents the common mistake of signing a lease you cannot comfortably afford because you were working from gross salary figures.
+
+### [BSN Planner](/tools/bsn-planner/)
+Your BSN (burgerservicenummer) is the key that unlocks everything in the Netherlands — bank account, health insurance, salary payment. In Amsterdam, registration appointments at Stadsloket fill up fast. The BSN Planner tells you exactly what documents to prepare (apostilled birth certificate, rental contract with registered address, passport), where to book in Amsterdam, and how to use the Expatcenter Amsterdam shortcut if your employer is a recognised sponsor. Getting this right in week one saves you significant frustration.
+
+### [Bank Account Chooser](/tools/bank-account-chooser/)
+Amsterdam has good options for expat banking — Bunq, Revolut (Dutch IBAN), ING, ABN AMRO — but they suit different situations. The chooser asks about your employer type, whether you are freelance or employed, how many international transfers you need per month, and whether you need a physical card immediately. It then recommends the right bank for your specific situation. This matters because some employers only pay to specific bank types, and some mortgage lenders require a Dutch bank account from one of the main traditional banks.
+
 ## Conclusion
 
 Amsterdam is an outstanding city for expats who value culture, cycling, and an international environment. The challenges are real -- housing is expensive and competitive, the weather is not always pleasant, and building deep social connections takes time. But for most expats, the quality of life, career opportunities, and the experience of living in one of Europe's most vibrant cities more than compensate.
 
-Start your Amsterdam journey by reading our [Complete Guide to Moving to the Netherlands 2026](/posts/complete-guide-moving-to-netherlands-2026/) for the full relocation roadmap, and set up your finances with <a href="https://wise.com/invite/ihpc/willemt52" rel="nofollow sponsored" target="_blank">Wise</a> before you arrive.
+Start your Amsterdam journey by reading our [Complete Guide to Moving to the Netherlands 2026](/posts/complete-guide-moving-to-netherlands-2026/) for the full relocation roadmap, set up your finances with <a href="https://wise.com/invite/ihpc/willemt52" rel="nofollow sponsored" target="_blank">Wise</a> before you arrive, and use the [housing budget checker](/tools/housing-budget-checker/) to make sure your Amsterdam rent is genuinely sustainable.
 
 Welcome to Amsterdam.

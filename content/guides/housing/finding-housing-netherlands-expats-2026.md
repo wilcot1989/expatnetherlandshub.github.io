@@ -359,7 +359,7 @@ While this guide focuses on renting, some expats consider buying property in the
 
 Finding housing in the Netherlands takes patience, preparation, and persistence. The market is competitive, but thousands of expats successfully find homes every year. Your best strategies are: start searching early, prepare your documents in advance, set up alerts on multiple platforms, respond to listings immediately, and be flexible on location.
 
-If you are still planning your move, our [complete guide to moving to the Netherlands in 2026](/posts/complete-guide-moving-to-netherlands-2026/) walks you through every step from visa to settling in. And once you are settled, start building your new life by [learning Dutch](/posts/best-apps-learn-dutch-2026/) -- it will help with everything, including negotiating with landlords.
+If you are still planning your move, our [complete guide to moving to the Netherlands in 2026](/posts/complete-guide-moving-to-netherlands-2026/) walks you through every step from visa to settling in. And once you are settled, start building your new life by [learning Dutch](/posts/best-apps-learn-dutch-2026/) -- it will help with everything, including negotiating with landlords. To understand how housing costs fit into your overall budget, see our [cost of living in the Netherlands guide](/guides/housing/cost-of-living-netherlands-2026/).
 
 Need to transfer your rental deposit or first month's rent from abroad? Wise is significantly cheaper than a standard international bank transfer — many expats save EUR 50-150 on their first deposit alone.
 

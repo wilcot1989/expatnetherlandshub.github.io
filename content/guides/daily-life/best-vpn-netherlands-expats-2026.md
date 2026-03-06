@@ -305,4 +305,4 @@ Whatever you choose, getting a VPN set up should be one of your first steps as a
 
 <a href="https://go.nordvpn.net/aff_c?offer_id=612&aff_id=141337&url_id=14830" class="cta" rel="nofollow sponsored" target="_blank">Get NordVPN -- Our #1 Pick for Expats in the Netherlands</a>
 
-For more on getting set up in the Netherlands, see our [complete relocation guide](/posts/complete-guide-moving-to-netherlands-2026/) and my guide to the [best SIM cards for expats](/posts/best-sim-card-netherlands-expats-2026/).
+For more on getting set up in the Netherlands, see our [complete relocation guide](/posts/complete-guide-moving-to-netherlands-2026/), my guide to the [best SIM cards for expats](/posts/best-sim-card-netherlands-expats-2026/), and our [best internet providers in the Netherlands guide](/guides/daily-life/best-internet-providers-netherlands-2026/) — a fast, reliable home connection pairs well with a VPN for the full streaming and privacy setup.

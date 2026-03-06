@@ -193,13 +193,68 @@ Use our housing budget tool to model your full monthly costs including parking, 
 
 <a href="/tools/housing-budget-checker/" class="cta-affiliate">Model your full monthly costs →</a>
 
+## Converting Your Foreign Driving Licence: A Closer Look
+
+I put this section near the end because the earlier tables cover the basics — but several situations come up repeatedly with expat clients that deserve more detail.
+
+### EU/EEA Licence Holders: No Action Needed (Mostly)
+
+If you have a driving licence from an EU or EEA country, it is valid in the Netherlands indefinitely. You do not need to exchange it. When it expires, renew it at your Dutch gemeente — they will issue a Dutch licence in exchange, which takes 1–4 weeks and costs around €42.
+
+The only exception: if your licence was issued by a country that has since left the EU, or if you are unsure of your country's current status, check at rdw.nl.
+
+### 30% Ruling Holders with Non-EU Licences
+
+This is a question I get constantly: does having the 30% ruling affect my licence exchange? The short answer is no — the 30% ruling is a tax arrangement and has no bearing on your driving licence status. What matters is your country of origin.
+
+However, 30% ruling holders are typically highly skilled migrants on a residence permit, which means they have full residence rights. That residence is what triggers the 185-day window: you have 185 days from your first BRP registration to either exchange your licence (if eligible) or take the Dutch exam. Many expats do not realise the clock starts at BRP registration, not at the date they start driving.
+
+### Countries Without Exchange Agreements: What the Exam Involves
+
+If your country does not have an exchange agreement with the Netherlands — Australia, India, Brazil, most African countries, and many others — you must take the full Dutch driving exam. This is what it involves in 2026:
+
+**Theory exam (Theorieexamen)**
+- Booked at CBR (Centraal Bureau Rijvaardigheidsbewijzen) via cbr.nl
+- Cost: **€37** per attempt
+- 65 multiple-choice questions, 54 correct required to pass
+- Available in English (also in Turkish, Arabic, and other languages)
+- Study material: Official CBR app, theorieexamen.nl
+
+**Practical exam (Praktijkexamen)**
+- Cost: **€130** for a standard car exam (category B)
+- 35–45 minutes on Dutch roads with a CBR examiner
+- Must be accompanied to the test by your instructor in their registered school vehicle
+- Fail rate for first-time candidates is around 55% — significantly higher than in most other countries
+
+**Driving lessons**
+The most expensive part. Standard CBR-registered instructors (rijinstructeurs) charge **€50–€70/hour** in 2026. The number of lessons needed varies enormously:
+- Experienced driver from a right-hand-drive country: 15–25 lessons (€750–€1,750)
+- Experienced driver, same-side traffic, unfamiliar with Dutch rules: 10–20 lessons
+- New driver or returning driver: 30–50 lessons (€1,500–€3,500)
+
+**Total realistic budget:**
+- Minimum (experienced driver, first-attempt pass): €700–€1,200
+- Average: €1,500–€2,500
+- High end (multiple exam attempts, many lessons): €3,000+
+
+**My advice:** Do not skip lessons to save money. The Dutch practical exam is genuinely difficult — examiners are strict about cyclist priority, mirror checks, and roundabout etiquette. I have seen expats who drove confidently for 10 years in their home country fail twice before passing. Book at least the CBR-recommended minimum number of lessons.
+
+### The 185-Day Deadline
+
+Whether you are exchanging or planning to take the exam, act within 185 days. After that, your foreign licence is no longer valid in the Netherlands. Driving on an expired-validity foreign licence is the same as driving without a licence — it voids your insurance and carries a fine and potential criminal charge.
+
+If you miss the 185-day window, you must apply for a temporary driving licence (rijbewijs verklaring) at your gemeente, pass the theory exam, and take the practical exam, regardless of how long you have been driving.
+
+Car ownership is expensive. If you are weighing the costs, see our [cost of living guide](/guides/housing/cost-of-living-netherlands-2026/) for a full budget picture. And if you are considering skipping a car entirely — a very valid choice in the Netherlands — our [cycling guide](/guides/daily-life/cycling-netherlands-expat-guide-2026/) covers how far you can realistically get on two wheels.
+
 ## Explore More Expat Guides
 
 - **[Complete Guide to Moving to the Netherlands](/posts/moving-to-netherlands-guide-2026/)** — Getting started
+- **[Cost of Living Netherlands](/guides/housing/cost-of-living-netherlands-2026/)** — Car ownership in context
+- **[Cycling in the Netherlands](/guides/daily-life/cycling-netherlands-expat-guide-2026/)** — The alternative to a car
 - **[Moving to The Hague](/posts/moving-to-the-hague-guide-2026/)** — City guide
-- **[Moving to Eindhoven](/posts/moving-to-eindhoven-guide-2026/)** — Tech hub guide
 - **[Best Expat Insurance](/posts/best-expat-insurance-netherlands-2026/)** — Car and liability coverage
-- **[DigiD Guide](/posts/digid-guide-expats-2026/)** — Needed for license applications
+- **[DigiD Guide](/posts/digid-guide-expats-2026/)** — Needed for licence applications
 
 ---
 

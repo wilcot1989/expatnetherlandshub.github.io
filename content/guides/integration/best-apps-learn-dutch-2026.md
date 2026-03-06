@@ -343,7 +343,7 @@ If you are still in the planning stages of your move, check out our [complete gu
 
 **Formal courses alongside apps:** Apps build vocabulary and grammar habits, but a structured classroom course with a teacher accelerates speaking confidence significantly. See our [best Dutch language courses guide](/posts/best-dutch-language-courses-2026/) for a full comparison — including which providers are eligible for employer reimbursement and which offer Saturday options for working professionals.
 
-**Integration exam:** If you are on a long-term visa and required to pass the civic integration exam, see our [inburgeringsexamen preparation guide](/posts/inburgeringsexamen-preparation-guide-2026/). Apps like Babbel and Duolingo can support your preparation, but the exam requires specific targeted practice that dedicated inburgering courses provide.
+**Integration exam:** If you are on a long-term visa and required to pass the civic integration exam, see our [inburgeringsexamen preparation guide](/posts/inburgeringsexamen-preparation-guide-2026/). Apps like Babbel and Duolingo can support your preparation, but the exam requires specific targeted practice that dedicated inburgering courses provide. Not sure which integration route applies to you? Use our [inburgering route builder](/tools/inburgering-route-builder/) to find out before you start preparing.
 
 **Cycling to practice:** One of my favourite things about the Netherlands is that you can reinforce Dutch while cycling — listening to Dutch podcasts or Pimsleur audio on your commute. Read our [cycling guide for expats](/posts/cycling-netherlands-expat-guide-2026/) to get started with the transport mode that defines daily life here.
 

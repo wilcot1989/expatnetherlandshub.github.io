@@ -136,17 +136,84 @@ For remote workers on video calls, internet speed is crucial. Ask about:
 - Dedicated business line vs shared residential
 - Backup connection
 
-## Tax Deductions for Coworking
+## Coworking Prices by City: What You Will Actually Pay in 2026
 
-As a ZZP'er (freelancer), you can deduct coworking costs:
+The per-space tables earlier give you individual prices. Here is a city-level summary so you can budget before you even start researching specific spaces.
 
-| Expense | Deductible | Category |
-|---------|-----------|----------|
-| Membership fee | ✅ 100% | Kantoorkosten |
-| Meeting room rental | ✅ 100% | Kantoorkosten |
-| Coffee/lunch at space | ✅ 80% | Representatiekosten |
-| Travel to coworking | ✅ €0.23/km | Reiskosten |
-| Virtual office/address | ✅ 100% | Kantoorkosten |
+### Amsterdam
+
+The most expensive coworking market in the Netherlands, reflecting both real estate costs and the density of international companies and freelancers.
+
+| Plan Type | Price Range | Notes |
+|-----------|------------|-------|
+| Hot desk | €200–€400/month | Premium locations (Centrum, Zuidas) hit the top |
+| Dedicated desk | €350–€550/month | Includes storage |
+| Private office (1–2 people) | €600–€1,200/month | WeWork, Mindspace, Spaces |
+| Day pass | €20–€35 | Worth it for occasional use |
+
+**Budget tip:** Amsterdam Noord (NDSM wharf area) and West (Oud-West, De Baarsjes) are 20–30% cheaper than Centrum or Zuidas. You trade a canal view for better value.
+
+### Rotterdam
+
+Rotterdam has grown significantly as a coworking destination, driven by its startup scene and growing international community. Prices are meaningfully lower than Amsterdam.
+
+| Plan Type | Price Range | Notes |
+|-----------|------------|-------|
+| Hot desk | €150–€300/month | Wide range by location quality |
+| Dedicated desk | €250–€400/month | Good availability |
+| Private office (1–2 people) | €400–€800/month | Less demand than Amsterdam |
+| Day pass | €15–€25 | Very competitive |
+
+### Other Cities
+
+| City | Hot Desk Range | Notes |
+|------|---------------|-------|
+| **The Hague** | €175–€275/month | International community premium |
+| **Utrecht** | €175–€300/month | Central Station premium (Spaces) |
+| **Eindhoven** | €150–€250/month | Tech-community focused pricing |
+| **Groningen, Nijmegen, Tilburg** | €100–€200/month | Smaller markets, good availability |
+
+**The pattern:** Amsterdam runs 40–60% above the national average. Rotterdam sits about 20–30% below Amsterdam. The Hague, Utrecht, and Eindhoven are broadly similar to Rotterdam. Smaller cities like Groningen or Breda offer the lowest prices.
+
+## Tax Deductions for Coworking: The ZZP'er's Guide
+
+One of the genuine advantages of coworking over a home office is the deductibility. If you are registered as a ZZP'er (eenmanszaak), your coworking membership is a legitimate business expense — and the Dutch tax rules on this are quite generous.
+
+### What You Can Deduct
+
+| Expense | Deductible Amount | Tax Category |
+|---------|------------------|-------------|
+| Monthly membership fee | 100% | Kantoorkosten (office costs) |
+| Day passes | 100% | Kantoorkosten |
+| Meeting room rental | 100% | Kantoorkosten |
+| Virtual office / business address | 100% | Kantoorkosten |
+| Coffee and lunches at the space | 80% | Representatiekosten |
+| Travel to the coworking space | €0.23/km | Reiskosten (business travel) |
+| Coworking-related parking | 100% | Overige bedrijfskosten |
+
+### How It Works in Practice
+
+You deduct these costs from your business profit before the MKB-winstvrijstelling (14% profit exemption) is applied. This means every €100 of coworking costs reduces your taxable income by €100, saving you roughly €30–€40 in income tax depending on your bracket.
+
+**Example:** Annual coworking membership at €3,000 (€250/month hot desk in Rotterdam).
+
+| Without deduction | With deduction |
+|-------------------|---------------|
+| Taxable profit: €70,000 | Taxable profit: €67,000 |
+| Tax payable (approximate): ~€20,000 | Tax payable (approximate): ~€19,100 |
+| **Coworking effectively costs:** | **~€1,900/year (€158/month)** |
+
+At a 36.97% marginal rate, the Belastingdienst is covering roughly 37 cents of every euro you spend on coworking.
+
+### The Home Office Comparison
+
+Many ZZP'ers work from home and assume they can deduct a portion of their rent or mortgage. Dutch tax rules on home office deduction are actually quite restrictive: you can only deduct home office costs if the space is a separate room used exclusively for business, with its own entrance. Most home offices do not qualify. A coworking membership is therefore often more tax-efficient than a home office for many freelancers.
+
+### Record-Keeping
+
+Keep all invoices for 7 years (Dutch tax records requirement). Your accounting software (Moneybird, e-Boekhouden, etc.) should store these automatically when you connect your bank account. The category for membership fees is "kantoorkosten."
+
+For the full picture of ZZP taxes and deductions, read our [freelancer ZZP guide](/guides/work/freelancer-zzp-guide-netherlands-2026/) and the [Dutch tax system guide](/guides/finance/dutch-tax-system-expats-guide-2026/).
 
 ## Remote Work Tips for Expats in the Netherlands
 
@@ -172,8 +239,8 @@ Wherever you work in the Netherlands, protect your data on shared networks with 
 
 ## Explore More Expat Guides
 
-- **[Freelancer (ZZP) Guide](/posts/freelancer-zzp-guide-netherlands-2026/)** — Registration and taxes
-- **[Dutch Tax System for Expats](/posts/dutch-tax-system-expats-2026/)** — Deductions and filing
+- **[Freelancer (ZZP) Guide](/guides/work/freelancer-zzp-guide-netherlands-2026/)** — Registration and taxes
+- **[Dutch Tax System for Expats](/guides/finance/dutch-tax-system-expats-guide-2026/)** — Deductions and filing
 - **[Moving to Amsterdam](/posts/moving-to-amsterdam-guide-2026/)** — City guide
 - **[Moving to The Hague](/posts/moving-to-the-hague-guide-2026/)** — International city
 - **[Moving to Eindhoven](/posts/moving-to-eindhoven-guide-2026/)** — Tech hub guide

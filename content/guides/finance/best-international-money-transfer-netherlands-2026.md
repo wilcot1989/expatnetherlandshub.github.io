@@ -402,7 +402,7 @@ Based on our experience and research, here is the combination I recommend for ex
 
 1. **[Wise](https://wise.com/invite/ihpc/willemt52) multi-currency account**: Your primary tool for international transfers. Open this before you even move to the Netherlands. You get a European IBAN, a debit card, and the ability to hold and convert 50+ currencies at the mid-market rate. [Open a Wise account here](https://wise.com/invite/ihpc/willemt52).
 
-2. **Dutch bank account (ING, ABN AMRO, Rabobank, or Bunq)**: For salary, rent payments, Dutch direct debits (automatische incasso), and government payments. You need a BSN to open an account at traditional banks. See our [moving to the Netherlands guide](/posts/complete-guide-moving-to-netherlands-2026/) for details.
+2. **Dutch bank account (ING, ABN AMRO, Rabobank, or Bunq)**: For salary, rent payments, Dutch direct debits (automatische incasso), and government payments. You need a BSN to open an account at traditional banks. See our [guide to the best bank accounts for expats in the Netherlands](/guides/finance/best-bank-account-expats-netherlands-2026/) for a full comparison, or use the [bank account chooser](/tools/bank-account-chooser/) to find the right option for your situation.
 
 ### Recommended Additions
 

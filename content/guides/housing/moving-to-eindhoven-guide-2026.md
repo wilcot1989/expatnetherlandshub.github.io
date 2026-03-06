@@ -198,6 +198,67 @@ Eindhoven's "Brainport" label is not marketing — it is a measurable reality. T
 
 For the financial side of your move — banking, health insurance, and transfers — start with our [best bank accounts guide](/posts/best-bank-account-expats-netherlands-2026/) and [international money transfer guide](/posts/best-international-money-transfer-netherlands-2026/).
 
+## Cost of Living in Eindhoven vs Other Dutch Cities
+
+One of the main reasons clients choose Eindhoven over Amsterdam or Utrecht is cost. The difference is significant enough to meaningfully affect quality of life — or to put you in a position to save more, pay off a mortgage faster, or simply work fewer hours.
+
+### Rent Comparison (2026)
+
+| Property type | Eindhoven | Utrecht | Amsterdam | The Hague |
+|---------------|-----------|---------|-----------|-----------|
+| Studio / 1-bed | €700-€1,050 | €950-€1,400 | €1,200-€1,800 | €900-€1,300 |
+| 2-bedroom | €1,000-€1,500 | €1,200-€1,800 | €1,600-€2,400 | €1,200-€1,800 |
+| 3-bedroom family | €1,200-€1,900 | €1,600-€2,400 | €2,100-€3,200 | €1,600-€2,400 |
+| Buying (per m²) | €3,500-€5,000 | €4,500-€6,500 | €6,500-€9,000 | €4,000-€5,500 |
+
+The rent gap between Eindhoven and Amsterdam is real and substantial — you can typically rent a two-bedroom apartment in Eindhoven for what a one-bedroom costs in central Amsterdam. For ASML employees on high salaries, that difference often goes straight into savings or a down payment fund.
+
+### Everyday Costs
+
+| Item | Eindhoven | Amsterdam |
+|------|-----------|-----------|
+| Supermarket basket (Albert Heijn, weekly) | €90-€130 | €95-€135 |
+| Coffee (café) | €3.00 | €3.50 |
+| Restaurant main course | €16-€20 | €20-€28 |
+| Monthly public transport (OV-chipkaart) | €80-€110 | €90-€120 |
+| Gym membership | €28-€40 | €40-€55 |
+| Beer in a bar | €4.50 | €5.50-€6.50 |
+
+Groceries are roughly comparable across Dutch cities — you shop at the same Albert Heijn or Lidl. The savings come mostly from rent, dining, and leisure. Transport within Eindhoven is also cheaper simply because distances are shorter, so many residents cycle everywhere and barely use public transport at all.
+
+### What the Savings Mean Practically
+
+On an ASML engineer's salary of €80,000 gross, the take-home pay is roughly the same wherever you live in the Netherlands. But living in Veldhoven or Gestel versus Amsterdam means you might pay €1,200/month in rent rather than €1,900. That €700/month difference — €8,400/year — either goes towards savings, a mortgage, or a genuinely higher quality of life on the same income.
+
+Use the [housing budget checker](/tools/housing-budget-checker/) to model your specific situation with current Eindhoven rent prices and your actual salary.
+
+## Best Tools for Your Eindhoven Move
+
+Moving to Eindhoven involves a sequence of admin tasks that catch most expats off guard. I have put together tools that walk you through each step so you do not miss anything or end up in the wrong health insurance plan for three years.
+
+### [Housing Budget Checker](/tools/housing-budget-checker/)
+Before you sign a rental contract in Eindhoven, use this to make sure the rent fits your take-home pay. It factors in Dutch income tax, health insurance, and the 30% ruling if applicable — so you get a realistic view of what you can afford, not just what looks good on paper. ASML and Philips salaries are substantial but the Dutch tax system takes a significant chunk before the 30% ruling kicks in.
+
+### [BSN Planner](/tools/bsn-planner/)
+Your BSN (burgerservicenummer) is the first thing you need when you arrive — without it you cannot open a bank account, start health insurance, or get paid. The BSN Planner tells you exactly which documents to bring to the Stadskantoor, how to book the appointment in Eindhoven, and what happens next. It also walks you through the Brainport Expat Centre registration process, which overlaps with BSN registration for many incoming professionals.
+
+### [Health Insurance Wizard](/tools/health-insurance-wizard/)
+Dutch health insurance is mandatory and you have four months from registration to arrange it. The wizard asks about your expected healthcare use, income level, and whether you have a chronic condition, then recommends the right combination of base insurance and supplementary coverage. Given that Eindhoven has strong healthcare facilities (Catharina Ziekenhuis, Máxima MC), understanding what is covered matters.
+
+For the full financial picture — not just insurance but banking, salary, and tax — read our [cost of living guide](/guides/housing/cost-of-living-netherlands-2026/) alongside your Eindhoven planning.
+
+### More Detail on Key Neighbourhoods
+
+**Strijp-S** has changed significantly in the past five years. What was once a post-industrial space with a handful of events is now one of the most complete urban neighbourhoods in Eindhoven, with the Microlab coworking space, the Veem building (studios and galleries), GLOW festival installations, and an expanding range of restaurants and bars on Torenallee. Rent has risen accordingly — expect to pay a premium for the location and atmosphere. The apartment stock skews modern and smaller (former factory conversions), so if you need space for a family, Strijp-S is better as a starting point than a long-term home.
+
+**Woensel-Zuid** is worth more attention than its name suggests. It is not a glamorous neighbourhood, but it is functional in a way that family expats deeply appreciate: the International School Eindhoven is here, Winkelcentrum Woensel is a ten-minute walk for groceries, and the bus connections to the city centre are reliable. Families who need to run school drop-offs before heading to ASML in Veldhoven find the geography genuinely convenient. Rents remain reasonable at €950-€1,400/month for a two-bedroom.
+
+**Gestel** sits south of the centre with access to Genneper Parken — a large green area with sports facilities, a farm, and walking routes. The housing stock here is older and more spacious than in Strijp-S, meaning you get more square metres for the money. It attracts established expat families who have been in Eindhoven for several years and want roots rather than a trendy postcode.
+
+**Tongelre** (east of the centre, not always mentioned in expat guides) is worth considering for families. It is quieter than Woensel, well-served by buses, and has a mix of 1970s houses and newer developments. Two-bedroom apartments run €950-€1,350/month. It is not cycling distance from ASML, but train and bus connections to the city centre are solid.
+
+For detailed housing search advice, read our [finding housing in the Netherlands guide](/guides/housing/finding-housing-netherlands-expats-2026/).
+
 ## Explore More Expat Guides
 
 - **[Complete Guide to Moving to the Netherlands](/posts/moving-to-netherlands-guide-2026/)** — Getting started
@@ -205,6 +266,8 @@ For the financial side of your move — banking, health insurance, and transfers
 - **[Highly Skilled Migrant Visa](/posts/highly-skilled-migrant-visa-netherlands-2026/)** — Work permits
 - **[Best Expat Insurance](/posts/best-expat-insurance-netherlands-2026/)** — Essential coverage
 - **[DigiD Guide](/posts/digid-guide-expats-2026/)** — Government services access
+- **[Finding Housing in the Netherlands](/guides/housing/finding-housing-netherlands-expats-2026/)** — How to search and secure a rental
+- **[Cost of Living in the Netherlands](/guides/housing/cost-of-living-netherlands-2026/)** — Full budget breakdown by city
 
 ---
 

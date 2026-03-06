@@ -196,13 +196,131 @@ Once you activate MijnOverheid (linked to DigiD), the government sends official 
 
 5. **Keep your phone number updated** — If you change your Dutch phone number, update it in DigiD immediately.
 
+## What You Can Do with DigiD: The Full Picture
+
+Once you have your DigiD set up, it unlocks a surprising amount. I always tell expats: think of it less as "a login" and more as the key to your entire life as a Dutch resident. Here is what it actually gives you access to.
+
+### Belastingdienst (Dutch Tax Authority)
+
+Via **mijn.belastingdienst.nl**, your DigiD lets you:
+- File your annual income tax return (aangifte inkomstenbelasting)
+- View and pay any preliminary assessments (voorlopige aanslag)
+- Apply for and manage all toeslagen (allowances — see below)
+- Check your tax letters and correspondence history
+- Request a tax deferral or installment plan
+
+If you are new to the Netherlands and wonder why everyone talks about the Belastingdienst so much — it is because it handles not just taxes but the entire subsidy system. Without DigiD, you cannot access any of it digitally.
+
+### Toeslagen (Government Allowances)
+
+Via **toeslagen.nl**, DigiD gives access to:
+- **Zorgtoeslag** — Health insurance allowance (up to €155/month for singles, higher for partners, based on income)
+- **Huurtoeslag** — Rent allowance for low-to-middle income renters
+- **Kinderopvangtoeslag** — Childcare subsidy covering 33–96% of daycare costs
+- **Kinderbijslag** — Child benefit via SVB (different portal, also requires DigiD)
+
+These are not small amounts. A single person on €32,000/year can claim about €115/month in zorgtoeslag. A family using 3 days of daycare at median income saves €500–€900/month through kinderopvangtoeslag.
+
+### MijnOverheid — Your Digital Mailbox
+
+**mijn.overheid.nl** is your centralised inbox for all government correspondence. Once activated, official letters from the Belastingdienst, your municipality, the RDW, and other agencies arrive here digitally instead of by post. This is genuinely useful: you will not miss letters because you were travelling or had a mailbox issue.
+
+Set up MijnOverheid immediately after activating your DigiD — it takes 2 minutes.
+
+### Healthcare Portals
+
+Most Dutch health insurers and healthcare providers now integrate DigiD for login:
+- **mijnverzekerdegegevens.nl** — Check your health insurance status, see what care costs have been declared, verify your deductible (eigen risico) usage
+- Hospital patient portals (virtually every Dutch hospital uses DigiD for their patient portal)
+- GP practice portals for appointment booking and referrals
+- Pharmacy portals for prescription history
+
+### Other Government Services
+
+| Service | What You Can Do |
+|---------|----------------|
+| **Gemeente (municipality)** | Request certificates, register a change of address, parking permits |
+| **DUO** | Diploma recognition, student loan status |
+| **RDW** | Vehicle registration, driving licence status, road tax |
+| **UWV** | Unemployment benefit applications, sick leave notifications |
+| **SVB** | AOW pension statements, kinderbijslag claims |
+| **Kadaster** | Property ownership records |
+
+## DigiD App vs SMS Verification: Which Should You Use?
+
+When you log in to a government site, you will be asked for a security level beyond just your username and password. You have two main options: SMS verification or the DigiD app. Here is how they differ and when each is used.
+
+### SMS Verification (Level: Midden)
+
+After entering your username and password, a 6-digit code is sent to your registered Dutch mobile number. You enter it on the website to confirm your identity. This satisfies the "Midden" security level, which covers most everyday tasks: tax returns, toeslagen applications, health insurance portals.
+
+**Pros:** Simple, works on any phone, no app required
+**Cons:** Requires a Dutch SIM, slightly slower, cannot be used for higher-security services
+
+If you do not yet have a Dutch phone number, you can use DigiD with SMS temporarily pointing to an international number — but getting a Dutch number is strongly recommended.
+
+### DigiD App (Levels: Substantieel and Hoog)
+
+The app authenticates you by:
+1. Scanning a QR code on the government website
+2. Unlocking the app with your PIN or biometrics
+3. Optionally: confirming with your ID document NFC chip
+
+This satisfies "Substantieel" and "Hoog" security levels — required for services like changing health insurance, accessing detailed financial records, and some municipality services. As government services have upgraded security requirements in 2025–2026, the app has become effectively essential for many tasks.
+
+**My experience:** I tried to switch health insurers in January using just SMS verification and got blocked — the insurer's portal now requires DigiD app level. Set up the app from day one.
+
+**Pros:** Faster than SMS once set up, works offline, higher security level, required for an increasing number of services
+**Cons:** Requires NFC-enabled phone, need your passport/ID card to activate
+
+**The ID scan step:** When you first activate the DigiD app at "Substantieel" level, you scan your passport or Dutch ID card using your phone's NFC chip. Most modern smartphones (post-2018) support this. If the scan fails, try: removing your phone case, enabling NFC in settings, using your Dutch ID card rather than your passport (the chip is easier to read), and holding your document still against the back of your phone for 5–10 seconds.
+
+## Common DigiD Problems and Fixes
+
+Even after years of using DigiD, I still occasionally run into issues. Here are the ones I see most often with expat clients — and exactly how to fix them.
+
+### Problem: "BSN not found" When Applying
+
+**Cause:** You are not yet registered in the Basisregistratie Personen (BRP) at your municipality, or the registration has not propagated through the system yet.
+
+**Fix:** Confirm you have completed your inschrijving at the gemeente. If you registered less than 3 working days ago, wait and try again. If it has been over a week, contact your gemeente to confirm your BSN and BRP entry are correct.
+
+Use our [BSN planner](/tools/bsn-planner/) to walk through the municipality registration steps in order.
+
+### Problem: Activation Letter Not Arriving
+
+**Cause:** Usually a mismatch between the address you entered and your BRP registration — even a minor difference like "Straat" vs "str." can cause issues.
+
+**Fix:** Log into digid.nl and request a new activation letter. Before doing so, double-check your registered address on DigID.nl matches your BRP record exactly. If in doubt, request a uittreksel (official extract) from your gemeente to confirm the exact address format.
+
+### Problem: Account Locked After Failed Attempts
+
+DigiD locks after 3 consecutive failed login attempts. You will see: "Your account has been temporarily blocked."
+
+**Fix:** Wait 15 minutes and try again with the correct password. If you have forgotten your password, use the "Password forgotten" link on digid.nl — you will need your BSN and registered email. If your email has also changed, you will need to request a new activation letter and go through the full process again.
+
+### Problem: DigiD App Cannot Connect / QR Code Timeout
+
+**Cause:** Usually a time-sync issue on your phone, or a slow internet connection.
+
+**Fix:** Check that automatic time and timezone are enabled on your phone (Settings → General → Date & Time → Set Automatically). A 30-second clock discrepancy is enough to invalidate the app's authentication tokens. Also try on WiFi rather than mobile data.
+
+### Problem: Two-Step Verification Code Not Arriving by SMS
+
+**Cause:** Wrong phone number registered, or your Dutch SIM is inactive.
+
+**Fix:** Log into digid.nl and check your registered phone number under "Personal Details." If you have changed your Dutch phone number and not updated DigiD, update it immediately — this is the second most common DigiD problem I see after activation letters.
+
+For more on setting up your Dutch digital life after DigiD, see our [expat tax return guide](/guides/finance/expat-tax-return-netherlands-2026/) for how to actually use DigiD to file your taxes, and our [complete guide to moving to the Netherlands](/guides/legal/complete-guide-moving-to-netherlands-2026/) for the full sequence of bureaucratic steps.
+
 ## Related Guides
 
-- **[Complete Guide to Moving to the Netherlands](/posts/complete-guide-moving-to-netherlands-2026/)** — The essential relocation guide
+- **[Complete Guide to Moving to the Netherlands](/guides/legal/complete-guide-moving-to-netherlands-2026/)** — The essential relocation guide
+- **[BSN Planner](/tools/bsn-planner/)** — Step-by-step BSN registration
+- **[Expat Tax Return Netherlands](/guides/finance/expat-tax-return-netherlands-2026/)** — Filing with DigiD
 - **[Dutch Health Insurance for Expats](/posts/dutch-health-insurance-guide-expats-2026/)** — You'll need DigiD to manage your insurance
 - **[Dutch Tax System Explained](/posts/dutch-tax-system-expats-guide-2026/)** — Filing taxes with DigiD
 - **[Best Bank Accounts for Expats](/posts/best-bank-account-expats-netherlands-2026/)** — Setting up your finances
-- **[Best Apps to Learn Dutch](/posts/best-apps-learn-dutch-2026/)** — Make navigating DigiD easier in Dutch
 
 ---
 

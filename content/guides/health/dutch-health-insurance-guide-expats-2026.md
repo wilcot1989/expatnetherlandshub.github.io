@@ -101,6 +101,8 @@ While the basic coverage is the same everywhere, there are differences between i
 
 ### Comparison Tools
 
+Not sure where to start? Our [health insurance wizard](/tools/health-insurance-wizard/) guides you through a short questionnaire and recommends the policy type that fits your situation, while the [insurance chooser](/tools/insurance-chooser/) helps you compare supplementary coverage options side by side.
+
 Use these Dutch comparison websites to find the best policy for your situation:
 
 - <a href="https://www.awin1.com/awclick.php?mid=8558&id=2776410" rel="nofollow sponsored" target="_blank">**Independer.nl**</a>: The most popular comparison site for health insurance
@@ -325,6 +327,7 @@ Children under 18 are covered free of charge under their parent's basic insuranc
 - [Complete Guide to Moving to the Netherlands in 2026](/posts/complete-guide-moving-to-netherlands-2026/) -- your full relocation checklist including insurance timelines
 - [Best Bank Accounts for Expats in the Netherlands 2026](/posts/best-bank-account-expats-netherlands-2026/) -- you will need a bank account to pay your premiums
 - [7 Best Apps to Learn Dutch in 2026](/posts/best-apps-learn-dutch-2026/) -- useful for understanding healthcare correspondence
+- [Best Expat Insurance Netherlands 2026](/guides/health/best-expat-insurance-netherlands-2026/) -- expat-specific insurance options beyond the standard basisverzekering
 
 ---
 

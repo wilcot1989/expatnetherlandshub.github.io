@@ -241,6 +241,8 @@ With lower taxable income during the ruling period, your pension accrual may be 
 
 For help managing international finances during your time in the Netherlands, a multi-currency account like <a href="https://wise.com/invite/ihpc/willemt52" rel="nofollow sponsored" target="_blank">Wise</a> can be useful for handling money in multiple countries. See our [complete guide to moving to the Netherlands in 2026](/posts/complete-guide-moving-to-netherlands-2026/) for more on setting up your financial life.
 
+Want to know how much you could save? Use our [30% ruling calculator](/tools/30-percent-ruling-calculator/) to estimate your tax benefit based on your salary, or run your figures through the [salary checker](/tools/salary-checker/) to see your net take-home pay. For a broader picture of how Dutch taxes work, our [Dutch tax system guide for expats](/guides/finance/dutch-tax-system-expats-guide-2026/) explains the full three-box structure.
+
 <a href="https://wise.com/invite/ihpc/willemt52" class="cta" rel="nofollow sponsored" target="_blank">Manage Your International Finances with Wise</a>
 
 ---

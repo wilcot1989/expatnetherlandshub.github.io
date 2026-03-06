@@ -273,11 +273,67 @@ Many municipalities also offer free or subsidized Dutch language courses (inburg
 
 ---
 
+## Your First 30 Days: A Practical Checklist
+
+The first month in the Netherlands is genuinely intense administratively. I walk every client through this sequence because the order matters — many things depend on steps that need to happen first.
+
+**Week 1**
+- Register at your gemeente and receive your BSN — book this appointment before you arrive if possible
+- Get a Dutch SIM card so you have a local number for account registrations
+- Set up a Wise account for international transfers while you wait for a Dutch bank account
+- If you are on an HSM permit, attend your IND biometrics appointment
+
+**Week 2**
+- Open a Dutch bank account (requires BSN)
+- Apply for Dutch health insurance — you have four months, but do not leave it longer than necessary; start comparing options now with the [health insurance wizard](/tools/health-insurance-wizard/)
+- Apply for DigiD at digid.nl — the activation code arrives by post in about five days
+- Choose the right bank for your needs with the [bank account chooser](/tools/bank-account-chooser/)
+
+**Week 3**
+- Once DigiD is active: apply for zorgtoeslag (healthcare allowance) if your income qualifies
+- Ask your employer to submit the 30% ruling application — the deadline is four months from your start date, no exceptions
+- Set up OV-chipkaart or register your bank card for OVpay
+- Buy a bicycle (yes, now — this is not optional)
+
+**Week 4**
+- Check your housing budget for the medium term: use the [housing budget checker](/tools/housing-budget-checker/) to see what you can realistically afford to rent or buy after Dutch taxes
+- Confirm your pension setup with HR — are you enrolled in the employer pension fund? Is your pension calculated on your full salary or on the 30%-ruling-reduced amount?
+- Check your BSN planner for any missed appointments: the [BSN planner](/tools/bsn-planner/) helps you track gemeente waiting times and appointment slots in your city
+
+**Ongoing from month 1**
+- Register with a huisarts (family doctor) — most practices have waitlists, so do this early
+- Start learning Dutch — even basic phrases dramatically improve daily interactions
+- Save every official letter you receive; the Dutch system generates a lot of correspondence in the first three months
+
+---
+
+## All the Tools You Need in One Place
+
+Over the years, I have built out a set of free tools specifically for expats going through the Dutch administrative process. Here is what we have and when each one is most useful:
+
+**[30% Ruling Calculator](/tools/30-percent-ruling-calculator/)** — Enter your gross salary and see your take-home pay with and without the 30% ruling. Useful before and after arriving to understand whether the ruling makes a material difference to your offer.
+
+**[Salary Checker](/tools/salary-checker/)** — Compare your salary offer against market data for your role, industry, and experience level in the Netherlands. Particularly useful when negotiating a Dutch contract or checking whether you meet the HSM salary threshold.
+
+**[Visa & Permit Finder](/tools/visa-permit-finder/)** — Answer a few questions about your nationality, job type, and employer and get a recommendation for which Dutch residence permit you should apply for.
+
+**[BSN Planner](/tools/bsn-planner/)** — Tracks appointment availability across Dutch municipalities and helps you find the earliest slot for your gemeente registration.
+
+**[Health Insurance Wizard](/tools/health-insurance-wizard/)** — Walks you through the key questions about your health, budget, and priorities to recommend the right Dutch health insurance package and supplementary cover.
+
+**[Bank Account Chooser](/tools/bank-account-chooser/)** — Compares Dutch and international banking options based on your needs: digital-first vs branch access, international transfer frequency, creditworthiness for mortgages.
+
+**[Housing Budget Checker](/tools/housing-budget-checker/)** — Calculates what you can realistically spend on rent or a mortgage in the Netherlands based on your net income, and breaks down the full cost picture including utilities and service costs.
+
+For a detailed walkthrough of Dutch health insurance specifically — which insurer, which package, and what the eigen risico means for your wallet — read our [complete Dutch health insurance guide for expats](/guides/health/dutch-health-insurance-guide-expats-2026/).
+
+---
+
 ## Final Thoughts
 
 Moving to the Netherlands is a big step, but the country rewards those who make the effort. With excellent infrastructure, a strong economy, a central European location, and a welcoming (if sometimes blunt) culture, it is a fantastic place to build a new chapter.
 
-The key to a smooth transition is preparation. Handle your visa and housing early, register at your gemeente as soon as possible, and set up your essential services, banking, insurance, phone, and transport, in the first two weeks.
+The key to a smooth transition is preparation. Handle your visa and housing early, register at your gemeente as soon as possible, and set up your essential services — banking, insurance, phone, and transport — in the first two weeks.
 
 For banking, start with [Wise](https://wise.com/invite/ihpc/willemt52) before you arrive. For temporary health coverage, consider [SafetyWing](https://safetywing.com/nomad-insurance/?referenceID=26482728&utm_source=26482728&utm_medium=Ambassador) until your Dutch insurance kicks in. And protect your digital life with [NordVPN](https://go.nordvpn.net/aff_c?offer_id=612&aff_id=141337&url_id=14830) from day one.
 

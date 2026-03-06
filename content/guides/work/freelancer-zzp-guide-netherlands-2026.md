@@ -223,6 +223,95 @@ As a ZZP, you have no employer pension. Options:
 
 **Rule of thumb:** Save 10-15% of your gross income for retirement.
 
+## ZZP Tax Obligations in Detail
+
+The tax section above gives you the numbers — here is how it actually works in practice, because the mechanics trip up a lot of expat freelancers I work with.
+
+### BTW (VAT) Returns
+
+As a ZZP'er, you file a BTW-aangifte (VAT return) quarterly unless your taxable turnover is very low or very high, in which case you may file monthly or annually. The deadlines are:
+
+| Quarter | Period | Filing Deadline |
+|---------|--------|----------------|
+| Q1 | Jan–Mar | April 30 |
+| Q2 | Apr–Jun | July 31 |
+| Q3 | Jul–Sep | October 31 |
+| Q4 | Oct–Dec | January 31 |
+
+You file electronically via **mijn.belastingdienst.nl** using your DigiD. The process takes about 10 minutes once you have your figures ready. Your accounting software (Moneybird, e-Boekhouden, etc.) can generate the BTW report automatically.
+
+**What you pay:** You collect 21% VAT from clients, pay 21% VAT on your own purchases, and remit the difference to the Belastingdienst. If you spent more on VAT than you collected (common in your first months), the Belastingdienst refunds you.
+
+**Late filing fine:** €68 for the first offence, rising to €1,377 for repeated non-compliance. Set calendar reminders now.
+
+### Inkomstenbelasting (Income Tax)
+
+Your annual income tax return (aangifte inkomstenbelasting) covers the full previous year and is due by **1 May** (you can request an extension). The Belastingdienst pre-fills some information, but as a ZZP'er you will need to add your business profit yourself.
+
+**Voorlopige aanslag (provisional assessment):** Once you have been filing for a year or two, the Belastingdienst will estimate your next year's tax and ask you to pay monthly installments. This avoids a large lump-sum bill the following year. I always recommend opting in — it keeps your cash flow more predictable.
+
+### The 2026 Deductions: Real Numbers
+
+The zelfstandigenaftrek has been gradually reducing year by year. For 2026 the deduction is **€2.470** — down from higher levels in previous years as the government slowly phases it out. The startersaftrek adds **€2.123** on top for your first three years. These are not small amounts — on a profit of €60,000, the combined deductions reduce your taxable income by over €4,500 before the 14% MKB-winstvrijstelling kicks in.
+
+**Hours requirement:** You must work at least 1,225 hours per year in your business to claim the zelfstandigenaftrek. Keep a digital hours log — a simple spreadsheet or Toggl is fine. The Belastingdienst does audit this.
+
+Use our [30% ruling calculator](/tools/30-percent-ruling-calculator/) if your employer has offered you this arrangement — it significantly changes the tax picture and interacts with your ZZP income if you run both simultaneously.
+
+For the full picture of how Dutch taxes work, read our [Dutch tax system guide](/guides/finance/dutch-tax-system-expats-guide-2026/).
+
+## Insurance for ZZP'ers
+
+This is the section most expat freelancers skip and then regret. When you are employed, your employer arranges much of your protection automatically. As a ZZP'er, it is entirely on you.
+
+### The Four Insurances You Need to Know About
+
+**1. Health insurance (Zorgverzekering) — Mandatory**
+
+You must have Dutch health insurance if you live and work in the Netherlands. The basic premium is €120–€145/month in 2026, plus a compulsory excess (eigen risico) of €385/year. As a ZZP'er, you pay the full premium yourself — there is no employer contribution, though you may qualify for zorgtoeslag (health insurance allowance) if your income is below roughly €38,000.
+
+**2. Liability insurance (Aansprakelijkheidsverzekering Bedrijven / AVB) — Strongly recommended**
+
+If you accidentally damage a client's property or cause an accident during a client visit, your personal liability policy (aansprakelijkheidsverzekering particulier) does NOT cover business-related incidents. A separate business liability policy costs just **€3–€5/month** and covers damage to third parties. Almost no excuse not to have it.
+
+**3. Professional indemnity (Beroepsaansprakelijkheidsverzekering) — Essential for knowledge workers**
+
+If your advice, design, code, or written work causes financial loss to a client, beroepsaansprakelijkheid covers the claim. Costs **€15–€50/month** depending on your sector and coverage level. Required if you work in finance, law, IT consulting, or architecture. I make this a non-negotiable recommendation for virtually all knowledge-based ZZP'ers.
+
+**4. Disability insurance (Arbeidsongeschiktheidsverzekering / AOV) — Your most important financial decision**
+
+If you cannot work due to illness or injury, you have no sick pay, no employer support, and no WW (unemployment benefit). The AOV replaces 70–80% of your income. The premium ranges from **€50–€200/month** depending on your age, health, and waiting period. A 30-year-old in good health might pay €80/month for solid coverage.
+
+The Dutch government has been discussing mandatory AOV for ZZP'ers since 2025 — by the time you read this, a mandatory scheme may have been introduced. Check the current status at kvk.nl.
+
+Use our [insurance chooser](/tools/insurance-chooser/) to compare AOV, liability, and health insurance options side by side based on your ZZP profile.
+
+## Opening a Business Bank Account
+
+You are not legally required to have a separate business bank account as an eenmanszaak — but every accountant, including mine, will tell you to open one anyway. Mixing personal and business finances makes your bookkeeping a nightmare and raises flags if the Belastingdienst ever audits you.
+
+### Your Options in 2026
+
+| Bank | Monthly Fee | English App | KvK Required | Notes |
+|------|------------|-------------|-------------|-------|
+| **Bunq Business** | €7.99–€29/month | ✅ | ✅ | Fast setup, excellent app |
+| **Knab** | €5–€10/month | Partial | ✅ | Dutch-focused, cheap |
+| **ABN AMRO** | €7–€12/month | ✅ | ✅ | Full-service, many branches |
+| **Rabobank** | €9–€15/month | Partial | ✅ | Strong SME support |
+| **ING** | €8–€13/month | Partial | ✅ | Largest network |
+| **N26 Business** | €0–€16.90/month | ✅ | No | Limited Dutch features, no iDEAL |
+
+**My recommendation for expat ZZP'ers:** Bunq Business is the easiest to open in English and has the best app experience. If you need iDEAL integration for Dutch clients (which you almost certainly do), choose a Dutch bank like ABN AMRO or Knab.
+
+**What you need to open a business account:**
+- KVK number (your Chamber of Commerce registration)
+- BSN number
+- Valid passport or ID
+- Dutch address
+- Sometimes: a description of your business activities
+
+Most accounts can be opened online in 15–30 minutes once you have your KVK number. Use our [bank account chooser](/tools/bank-account-chooser/) to find the right account for your business type and international needs.
+
 ## Common Mistakes to Avoid
 
 1. **Not keeping personal and business finances separate** — Makes administration a nightmare
@@ -239,7 +328,10 @@ As a ZZP, you have no employer pension. Options:
 - **[Best Expat Insurance](/posts/best-expat-insurance-netherlands-2026/)** — Health, liability, disability
 - **[DigiD Guide for Expats](/posts/digid-guide-expats-2026/)** — Essential for tax filing
 - **[Highly Skilled Migrant Visa](/posts/highly-skilled-migrant-visa-netherlands-2026/)** — Work permit options
-- **[Best VPN for Expats](/posts/best-vpn-expats-netherlands-2026/)** — Protect your online work
+- **[Dutch Tax System Guide](/guides/finance/dutch-tax-system-expats-guide-2026/)** — How taxes work for expats
+- **[30% Ruling Calculator](/tools/30-percent-ruling-calculator/)** — Check your eligibility
+- **[Insurance Chooser](/tools/insurance-chooser/)** — Compare AOV, liability, health
+- **[Bank Account Chooser](/tools/bank-account-chooser/)** — Find the right business bank
 
 ---
 

@@ -187,13 +187,107 @@ Heading abroad during a Dutch public holiday? Use our tools to check what your c
 
 <a href="/tools/" class="cta-affiliate">Explore our expat budget tools →</a>
 
+## School Holidays 2026: What Expat Parents Need to Know
+
+Dutch school holidays follow a regional stagger system — not all schools have holidays at the same time. This was introduced deliberately to spread holiday travel and reduce motorway congestion. The country is divided into three regions: **Noord** (north), **Midden** (middle/central), and **Zuid** (south).
+
+Your school's region determines exactly when holidays fall. Here are the confirmed 2026 dates:
+
+### Meivakantie (May Holiday) 2026
+
+| Region | Dates |
+|--------|-------|
+| Noord | 27 April – 8 May |
+| Midden | 27 April – 8 May |
+| Zuid | 4 May – 15 May |
+
+The meivakantie overlaps with King's Day (April 27) and Liberation Day (May 5), making it a popular period for family travel. Book early — accommodation in popular destinations (the coast, Zeeland, Drenthe) fills up months in advance.
+
+### Zomervakantie (Summer Holiday) 2026
+
+The longest holiday — 6 weeks. Staggered by region to avoid everyone moving at once.
+
+| Region | Dates |
+|--------|-------|
+| Noord | 11 July – 23 August |
+| Midden | 18 July – 30 August |
+| Zuid | 25 July – 6 September |
+
+**For expat families:** If your children attend an international school, check the school's own calendar — many follow a slightly different timetable not fully aligned with the national regional system.
+
+### Other Holidays 2026
+
+| Holiday | Dates | Notes |
+|---------|-------|-------|
+| Herfstvakantie (autumn) | ~24 Oct – 1 Nov | Regional variation, typically 1 week |
+| Kerstvakantie (Christmas) | 26 Dec – 9 Jan 2027 | 2 weeks, all regions similar |
+| Krokusvakantie (February) | 21 Feb – 1 Mar | Not all schools; 1 week |
+| Voorjaarsvakantie (spring) | ~27 Feb – 7 Mar | Some schools only |
+
+Check your municipality's school calendar at **scholenopdekaart.nl** or your child's school directly — dates can shift by a day or two each year.
+
+### BSO During School Holidays
+
+BSO (after-school care) typically offers full-day care during school holidays (7:30–18:30) at no extra charge if your child has a holiday care contract. Confirm this with your BSO provider — not all contracts automatically include holiday coverage.
+
+## Planning Around Dutch Holidays as an Expat
+
+Dutch public holidays are more disruptive to daily life than in many other countries, partly because they are genuinely observed. Here is what actually closes and what stays open — and how to plan around the biggest days.
+
+### What Closes on Public Holidays
+
+**Everything meaningful closes on King's Day, Easter Monday, Ascension Day, Whit Monday, and Christmas.** I mean supermarkets, most shops, pharmacies (except emergency duty pharmacies), banks, most restaurants (some open in tourist areas), and most services.
+
+**Government offices and municipalities** are closed on all public holidays plus Good Friday in most cities.
+
+**Albert Heijn, Jumbo, Lidl:** Most supermarkets are closed on Christmas Day. Some open on Boxing Day (Tweede Kerstdag). On King's Day, essentially all supermarkets close. Stock up the day before.
+
+### King's Day (April 27): Practical Survival Guide
+
+King's Day deserves special mention because it is genuinely unlike any other day in the Netherlands. My first year, I had nothing in the house and spent the day hungry because I hadn't thought to shop the day before.
+
+**Before Koningsdag:**
+- Do your grocery shopping on April 26
+- Get cash — most of the vrijmarkt is cash-only
+- Plan your transport, because public transport runs to a limited schedule and roads in Amsterdam are closed to cars
+
+**On the day:**
+- Wear orange. Anything orange. You will feel deeply conspicuous if you do not
+- The vrijmarkt (street market) starts early — by 10:00, the best spots in Amsterdam are already taken
+- Amsterdam fills with 800,000+ people for the biggest celebrations; smaller cities like Utrecht, Groningen, or Haarlem have equally fun atmospheres with fewer crowds
+- The Royal Family visits one Dutch city each year — check in advance if you want to see them
+- Tompouce (the orange-cream pastry) is mandatory. Try oranje bitter (orange liqueur) if you are feeling adventurous
+
+**Leaving the city:** Trains run but are packed. Book tickets in advance. Driving out of Amsterdam on King's Day is virtually impossible for several hours.
+
+### Ascension Day: The Bridge Day Opportunity
+
+Ascension Day (Hemelvaartsdag) is always a Thursday, which means the Friday becomes the most popular bridge day (brugdag) in the Netherlands. Most Dutch workers take it off, creating a 4-day weekend.
+
+**In 2026: Ascension Day is 14 May, bridge day is 15 May.**
+
+Book this long weekend early if you want to travel — trains and holiday parks fill up fast. If you are an employer or employee, note that bridge days are taken from personal vacation days, not public holidays.
+
+### Christmas in the Netherlands: Lower Key than You Expect
+
+Coming from the UK, I found Dutch Christmas surprisingly low-key the first time. Sinterklaas (December 5) is where all the gift-giving energy goes. Christmas Day and Boxing Day (both public holidays) are quieter — focused on family dinners, walks, and the television.
+
+**What changes around Christmas:**
+- Most shops close December 25 and often December 26
+- Restaurants are open but booked out weeks in advance
+- Supermarkets close or run limited hours December 25
+
+**What continues:** The Christmas markets in Maastricht, Amsterdam, Rotterdam, and dozens of smaller cities run from late November through mid-December.
+
+For getting around during public holidays — especially if you want to explore by bike — see our [cycling guide](/guides/daily-life/cycling-netherlands-expat-guide-2026/). And if you are still working through the integration process alongside Dutch cultural life, our [inburgeringsexamen preparation guide](/guides/integration/inburgeringsexamen-preparation-guide-2026/) covers the cultural knowledge component of the civic integration exam.
+
 ## Explore More Expat Guides
 
 - **[Complete Guide to Moving to the Netherlands](/posts/moving-to-netherlands-guide-2026/)** — Getting started
-- **[Cost of Living Netherlands](/posts/cost-of-living-netherlands-2026/)** — Budget planning
-- **[Dutch Tax System for Expats](/posts/dutch-tax-system-expats-2026/)** — Vacation allowance and taxes
-- **[Moving to Amsterdam](/posts/moving-to-amsterdam-guide-2026/)** — King's Day capital
-- **[Dutch Childcare Guide](/posts/dutch-childcare-expat-guide-2026/)** — School holidays
+- **[Cost of Living Netherlands](/guides/housing/cost-of-living-netherlands-2026/)** — Budget planning
+- **[Cycling in the Netherlands](/guides/daily-life/cycling-netherlands-expat-guide-2026/)** — Getting around on holidays
+- **[Inburgeringsexamen Preparation](/guides/integration/inburgeringsexamen-preparation-guide-2026/)** — Dutch culture and society
+- **[Dutch Childcare Guide](/posts/dutch-childcare-expat-guide-2026/)** — School holidays planning
 
 ---
 

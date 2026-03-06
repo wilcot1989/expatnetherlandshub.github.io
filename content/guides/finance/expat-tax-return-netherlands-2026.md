@@ -239,11 +239,47 @@ This is one of the more complex areas of Dutch tax law, and I strongly recommend
 
 Want to check the impact of the 30% ruling on your tax position? Run the numbers with our [30% ruling calculator](/tools/30-percent-ruling-calculator/).
 
+## M-Form vs P-Form: Which Do You File?
+
+This is one of the most common sources of confusion I hear from clients, and the answer is simpler than it sounds.
+
+**The P-form (P-biljet)** is the standard annual tax return for people who lived in the Netherlands for the entire calendar year. If you arrived in the Netherlands before 1 January of the tax year and were still a resident on 31 December, you file a P-form. It can be submitted online via Mijn Belastingdienst using your DigiD.
+
+**The M-form (M-biljet)** is for the year you arrived in or left the Netherlands — any year where you were a resident for only part of the calendar year. M stands for migration, and the form covers both the period you lived in the Netherlands and asks about your worldwide income for the full year, which is used to determine the tax rate applicable to your Dutch income.
+
+| Situation | Form | Can File Online? |
+|-----------|------|-----------------|
+| Full year in the Netherlands | P-form | Yes |
+| Arrived mid-year | M-form | No — paper or advisor |
+| Left mid-year | M-form | No — paper or advisor |
+| First year AND last year (transiting) | M-form | No |
+| Full non-resident with Dutch income | C-form | No |
+
+### Why the M-Form Is More Complicated
+
+The M-form cannot be filed online. You either download it from belastingdienst.nl as a PDF, request a paper copy by phone (0800-0543), or use a tax advisor. The form is long — typically 40-60 pages — and is only available in Dutch. Most expats filing an M-form for the first time end up hiring an advisor, which I strongly recommend. The cost is €300-€500, and advisors consistently find deductions that cover their fee.
+
+The key decision within the M-form is your taxpayer status for the partial year:
+
+- **Binnenlands belastingplichtige (resident):** Taxed on worldwide income; entitled to all Dutch deductions including personal allowances
+- **Buitenlands belastingplichtige (non-resident):** Taxed only on Dutch income; limited deductions
+- **Kwalificerend buitenlands belastingplichtige:** Non-resident who earns 90%+ of worldwide income in the Netherlands — entitled to resident-level deductions
+
+If you had the 30% ruling in your arrival or departure year, there is an additional layer: you may be able to opt for partial non-resident status, which exempts your foreign assets from Box 3 tax. See our [30% ruling guide](/guides/finance/30-percent-ruling-netherlands-2026/) for detail on how this interacts with the M-form.
+
+### One More Thing: You Cannot Undo a Filed M-Form Easily
+
+Once submitted, the M-form creates a tax assessment that is difficult to revise. If you made the wrong taxpayer status election, you can object (bezwaar) within 6 weeks of receiving the assessment, but it adds significant time and stress. Get it right the first time — the investment in a specialist advisor is worth it.
+
+For context on how pension income, foreign income, and Dutch earnings interact across your full tax picture, the [Dutch pension system guide](/guides/finance/dutch-pension-system-expats-2026/) explains the cross-border implications in detail.
+
+---
+
 ## Explore More Expat Guides
 
-- **[Dutch Tax System for Expats](/posts/dutch-tax-system-expats-2026/)** — Tax overview
-- **[The 30% Ruling](/posts/30-percent-ruling-netherlands-2026/)** — Tax advantage explained
-- **[Dutch Pension System](/posts/dutch-pension-system-expats-2026/)** — Retirement planning
+- **[Dutch Tax System for Expats](/guides/finance/dutch-tax-system-expats-guide-2026/)** — Tax overview
+- **[The 30% Ruling](/guides/finance/30-percent-ruling-netherlands-2026/)** — Tax advantage explained
+- **[Dutch Pension System](/guides/finance/dutch-pension-system-expats-2026/)** — Retirement planning
 - **[Freelancer (ZZP) Guide](/posts/freelancer-zzp-guide-netherlands-2026/)** — Self-employed taxes
 - **[Best Bank Accounts for Expats](/posts/best-bank-accounts-expats-netherlands-2026/)** — Banking setup
 

@@ -147,6 +147,114 @@ The Hague has the highest concentration of international schools due to its role
 - Most schools offer a buddy system for new students
 - Schools typically provide Dutch language support for students who need it
 
+## Dutch Schools with English Streams: The Affordable Alternative
+
+Not every expat family needs a fully private international school. If you are planning to stay in the Netherlands for several years — or permanently — Dutch schools with English-language programs are worth serious consideration. They are significantly cheaper and, in many cases, academically excellent.
+
+### Tweetalig Onderwijs (TTO): Bilingual Schools
+
+The Netherlands has a well-developed network of **tweetalig (bilingual)** secondary schools (TTO), where at least 50% of lessons are taught in English. These are regular Dutch secondary schools (often VWO, the university-preparatory track) that have been certified to offer bilingual education.
+
+**Key facts:**
+- Tuition: Free (government-funded, part of the regular Dutch school system)
+- Language: Dutch + English instruction
+- Curriculum: Dutch national curriculum (not IB)
+- Qualification: Dutch diploma (VWO/HAVO), recognised throughout Europe
+- Availability: 150+ certified TTO schools across the Netherlands
+
+TTO schools are excellent for expat children who will complete secondary school in the Netherlands and go on to a Dutch or European university. They are not suitable for children who may need to transfer to another international school system mid-way.
+
+Search for certified TTO schools at **nuffic.nl** or via the **Stichting Tweetalig Onderwijs**.
+
+### International Departments in Dutch State Schools
+
+Several municipalities have created **international departments (ISK and schakelklassen)** within regular Dutch primary schools. These offer English as a medium of instruction alongside intensive Dutch language acquisition, with subsidised fees.
+
+Examples:
+- **Amsterdam International Community School (AICS)** — Subsidised, €6,000–€8,000/year, open to non-EU families
+- **International School of The Hague (ISH) primary** — Government-subsidised; significantly cheaper than fully private schools
+- **International School Eindhoven (ISE)** — Partly subsidised, strong value especially for STEM families
+
+**Why this matters financially:** A subsidised international department at €6,000–€8,000/year versus a private international school at €15,000–€22,000/year is a difference of €7,000–€14,000 per child per year. Over a 4-year secondary school period, that is up to €56,000 per child.
+
+### Primary School Age: The Strongest Case for Dutch Schools
+
+For children under 8, I consistently recommend Dutch primary schools to expat parents who expect to stay more than 2 years. Children at this age acquire languages incredibly quickly — most are fluent conversational Dutch within 6–9 months. The Dutch primary school curriculum (groep 1–8) is well-structured, play-based in the early years, and free.
+
+The main challenge is settling-in support. Ask the school about:
+- Dutch language support classes (NT2, Dutch as a second language)
+- Whether there are other international children in the class
+- How the school communicates with parents (many use apps like Parro or Social Schools — check for English options)
+
+## Tuition Fees: A Realistic Cost Breakdown
+
+The headline tuition numbers earlier give you the range. Here is what total annual cost actually looks like when you add the extras — and they add up fast.
+
+### Primary School (Ages 4–12)
+
+| Cost Item | Low End | High End |
+|-----------|---------|---------|
+| Tuition | €5,500 | €15,000 |
+| Registration fee (one-time) | €500 | €2,000 |
+| Capital levy (one-time) | €500 | €3,000 |
+| School trips | €150 | €600 |
+| Lunch | €400 | €1,200 |
+| After-school activities | €200 | €800 |
+| School bus | €0 | €3,000 |
+| **Annual total (ex. one-time fees)** | **~€6,250** | **~€20,600** |
+
+### Secondary School (Ages 12–18)
+
+| Cost Item | Low End | High End |
+|-----------|---------|---------|
+| Tuition | €8,000 | €25,000 |
+| Registration fee (one-time) | €1,000 | €3,000 |
+| Capital levy (one-time) | €1,000 | €5,000 |
+| School trips and exchanges | €300 | €1,500 |
+| IB exam fees (DP years) | €700 | €1,000 |
+| Lunch | €400 | €1,200 |
+| Activities and sports | €300 | €1,500 |
+| **Annual total (ex. one-time fees)** | **~€9,700** | **~€30,200** |
+
+**Two children in secondary school at a private international school in Amsterdam: €40,000–€60,000+/year in total costs.** This is why employer packages and the 30% ruling matter so much.
+
+Use our [30% ruling calculator](/tools/30-percent-ruling-calculator/) to see exactly how much extra net income the tax benefit adds — for many highly skilled migrant families, it effectively covers primary school fees.
+
+## The 30% Ruling and School Fee Deductions
+
+The 30% ruling does not directly deduct school fees — but it substantially increases your take-home pay, making those fees more manageable. Here is how it works in practice.
+
+### How the 30% Ruling Helps
+
+Under the 30% ruling, 30% of your salary is paid as a tax-free expense reimbursement. On a €100,000 gross salary, roughly €30,000 becomes tax-free — saving approximately €11,000–€15,000 in income tax annually depending on your bracket.
+
+That extra net income is yours to allocate however you choose, including school fees. For many families, the 30% ruling effectively offsets the cost of one child's primary school tuition.
+
+**Calculate your benefit:** Use our [30% ruling calculator](/tools/30-percent-ruling-calculator/) to see your specific net gain.
+
+### International School Fee Allowance from Your Employer
+
+This is separate from the 30% ruling and worth negotiating before you accept a Dutch position. Many large employers — particularly multinationals, tech companies, and financial institutions — include an **international school fee allowance** in their expat packages. This can cover:
+
+- 50–100% of tuition for one or more children
+- Sometimes capped at a specific annual amount (e.g., €15,000 per child)
+- Usually paid directly to the school or reimbursed against invoices
+
+The school fee allowance paid by your employer is not directly deductible by you — it is an employer benefit (often included in your CLA or individual contract). Under the 30% ruling, this benefit may be structured as a tax-free reimbursement if it falls within the "extraterritorial costs" category. Ask your company's HR or a tax advisor.
+
+### What Cannot Be Deducted
+
+Personal school fee payments are not directly deductible from your Dutch income tax. The old "scholingsuitgaven" (education expenses) deduction was abolished in 2022. The subsidy picture for private international school fees is therefore:
+
+- No government subsidy for tuition
+- No personal income tax deduction
+- Possible employer reimbursement (employer's cost, potentially structured tax-efficiently)
+- 30% ruling increases net income but does not specifically earmark school fees
+
+The exception: if your child attends a **government-subsidised international school** (AICS, ISH primary, ISE), you are already benefiting from public funding — their lower fees reflect the subsidy.
+
+For context on how school fees fit into your full family budget in the Netherlands, see our [cost of living guide](/guides/housing/cost-of-living-netherlands-2026/).
+
 ## Dutch Schools vs International Schools
 
 | Factor | Dutch School | International School |

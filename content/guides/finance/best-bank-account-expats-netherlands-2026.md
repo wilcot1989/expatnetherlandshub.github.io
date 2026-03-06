@@ -341,10 +341,13 @@ If you shop online frequently in the Netherlands, having a bank account with iDE
 - [Complete Guide to Moving to the Netherlands in 2026](/posts/complete-guide-moving-to-netherlands-2026/) -- your full relocation checklist
 - [Dutch Health Insurance for Expats: Complete Guide 2026](/posts/dutch-health-insurance-guide-expats-2026/) -- understand mandatory insurance
 - [7 Best Apps to Learn Dutch in 2026](/posts/best-apps-learn-dutch-2026/) -- start learning the language
+- [DigiD Guide for Expats 2026](/guides/legal/digid-guide-expats-2026/) -- set up your digital identity, needed for DigiD-verified banking tasks
 
 ---
 
 ## Final Recommendation
+
+Not sure which banking setup suits your situation? Our [bank account chooser](/tools/bank-account-chooser/) asks a few quick questions about your needs and recommends the right combination for you.
 
 For most expats arriving in the Netherlands in 2026, I recommend this two-account setup:
 
