@@ -1,0 +1,124 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 630">
+  <defs>
+    <linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#1e293b"/>
+      <stop offset="100%" stop-color="#0f172a"/>
+    </linearGradient>
+    <linearGradient id="orangeGrad" x1="0%" y1="0%" x2="0%" y2="100%">
+      <stop offset="0%" stop-color="#f97316"/>
+      <stop offset="100%" stop-color="#ea580c"/>
+    </linearGradient>
+    <linearGradient id="orangeGrad2" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#fb923c"/>
+      <stop offset="100%" stop-color="#f97316"/>
+    </linearGradient>
+    <linearGradient id="trainGrad" x1="0%" y1="0%" x2="0%" y2="100%">
+      <stop offset="0%" stop-color="#fb923c"/>
+      <stop offset="100%" stop-color="#f97316"/>
+    </linearGradient>
+  </defs>
+
+  <!-- Background -->
+  <rect width="1200" height="630" fill="url(#bg)"/>
+
+  <!-- Track lines (subtle) -->
+  <g opacity="0.04">
+    <line x1="0" y1="480" x2="1200" y2="480" stroke="white" stroke-width="4"/>
+    <line x1="0" y1="500" x2="1200" y2="500" stroke="white" stroke-width="4"/>
+    <!-- Sleepers -->
+    <line x1="50" y1="470" x2="50" y2="510" stroke="white" stroke-width="8"/>
+    <line x1="130" y1="470" x2="130" y2="510" stroke="white" stroke-width="8"/>
+    <line x1="210" y1="470" x2="210" y2="510" stroke="white" stroke-width="8"/>
+    <line x1="290" y1="470" x2="290" y2="510" stroke="white" stroke-width="8"/>
+    <line x1="370" y1="470" x2="370" y2="510" stroke="white" stroke-width="8"/>
+    <line x1="450" y1="470" x2="450" y2="510" stroke="white" stroke-width="8"/>
+    <line x1="530" y1="470" x2="530" y2="510" stroke="white" stroke-width="8"/>
+    <line x1="610" y1="470" x2="610" y2="510" stroke="white" stroke-width="8"/>
+    <line x1="690" y1="470" x2="690" y2="510" stroke="white" stroke-width="8"/>
+    <line x1="770" y1="470" x2="770" y2="510" stroke="white" stroke-width="8"/>
+    <line x1="850" y1="470" x2="850" y2="510" stroke="white" stroke-width="8"/>
+    <line x1="930" y1="470" x2="930" y2="510" stroke="white" stroke-width="8"/>
+    <line x1="1010" y1="470" x2="1010" y2="510" stroke="white" stroke-width="8"/>
+    <line x1="1090" y1="470" x2="1090" y2="510" stroke="white" stroke-width="8"/>
+    <line x1="1170" y1="470" x2="1170" y2="510" stroke="white" stroke-width="8"/>
+  </g>
+
+  <!-- Decorative circles -->
+  <circle cx="600" cy="315" r="230" fill="none" stroke="#f97316" stroke-width="1" opacity="0.06"/>
+  <circle cx="600" cy="315" r="290" fill="none" stroke="#f97316" stroke-width="0.5" opacity="0.04"/>
+
+  <!-- 1. TRAIN (center, large) -->
+  <g transform="translate(220, 130)">
+    <!-- Train body -->
+    <rect x="0" y="0" width="520" height="260" rx="30" fill="url(#trainGrad)" opacity="0.85"/>
+    <!-- Front nose -->
+    <path d="M490,0 L520,0 Q570,0 570,130 Q570,260 520,260 L490,260 Z" fill="#ea580c" opacity="0.9"/>
+    <!-- Windscreen -->
+    <rect x="460" y="30" width="80" height="100" rx="15" fill="#0f172a" opacity="0.7"/>
+    <!-- Windscreen glare -->
+    <path d="M468,35 Q490,35 495,65" fill="none" stroke="white" stroke-width="3" opacity="0.3"/>
+    <!-- Windows row -->
+    <rect x="30" y="40" width="80" height="60" rx="8" fill="#0f172a" opacity="0.65"/>
+    <rect x="130" y="40" width="80" height="60" rx="8" fill="#0f172a" opacity="0.65"/>
+    <rect x="230" y="40" width="80" height="60" rx="8" fill="#0f172a" opacity="0.65"/>
+    <rect x="330" y="40" width="80" height="60" rx="8" fill="#0f172a" opacity="0.65"/>
+    <!-- Door -->
+    <rect x="180" y="140" width="60" height="120" rx="6" fill="#ea580c" opacity="0.7"/>
+    <rect x="300" y="140" width="60" height="120" rx="6" fill="#ea580c" opacity="0.7"/>
+    <!-- Stripe line -->
+    <rect x="0" y="120" width="570" height="14" rx="0" fill="white" opacity="0.2"/>
+    <!-- Wheels -->
+    <circle cx="80" cy="268" r="28" fill="white" opacity="0.85"/>
+    <circle cx="80" cy="268" r="14" fill="#1e293b" opacity="0.5"/>
+    <circle cx="200" cy="268" r="28" fill="white" opacity="0.85"/>
+    <circle cx="200" cy="268" r="14" fill="#1e293b" opacity="0.5"/>
+    <circle cx="360" cy="268" r="28" fill="white" opacity="0.85"/>
+    <circle cx="360" cy="268" r="14" fill="#1e293b" opacity="0.5"/>
+    <circle cx="480" cy="268" r="28" fill="white" opacity="0.85"/>
+    <circle cx="480" cy="268" r="14" fill="#1e293b" opacity="0.5"/>
+    <!-- NS logo hint -->
+    <rect x="20" y="155" width="50" height="30" rx="6" fill="white" opacity="0.15"/>
+    <text x="45" y="176" text-anchor="middle" font-family="sans-serif" font-size="16" font-weight="700" fill="white" opacity="0.5">NS</text>
+  </g>
+
+  <!-- 2. OV-CHIPKAART (bottom left) -->
+  <g transform="translate(60, 450)">
+    <rect x="0" y="0" width="180" height="115" rx="12" fill="url(#orangeGrad2)" opacity="0.75"/>
+    <rect x="15" y="25" width="30" height="22" rx="4" fill="#fb923c" opacity="0.7"/>
+    <rect x="15" y="65" width="140" height="6" rx="3" fill="white" opacity="0.3"/>
+    <rect x="15" y="78" width="110" height="5" rx="2" fill="white" opacity="0.2"/>
+    <!-- OV chip circle -->
+    <circle cx="145" cy="40" r="20" fill="none" stroke="white" stroke-width="3" opacity="0.4"/>
+    <circle cx="145" cy="40" r="10" fill="white" opacity="0.2"/>
+  </g>
+
+  <!-- 3. BICYCLE (far right) -->
+  <g transform="translate(870, 350)">
+    <!-- Back wheel -->
+    <circle cx="55" cy="120" r="50" fill="none" stroke="url(#orangeGrad)" stroke-width="6"/>
+    <circle cx="55" cy="120" r="6" fill="#f97316"/>
+    <line x1="55" y1="70" x2="55" y2="170" stroke="#f97316" stroke-width="1.5" opacity="0.4"/>
+    <line x1="5" y1="120" x2="105" y2="120" stroke="#f97316" stroke-width="1.5" opacity="0.4"/>
+    <!-- Front wheel -->
+    <circle cx="220" cy="120" r="50" fill="none" stroke="url(#orangeGrad)" stroke-width="6"/>
+    <circle cx="220" cy="120" r="6" fill="#f97316"/>
+    <line x1="220" y1="70" x2="220" y2="170" stroke="#f97316" stroke-width="1.5" opacity="0.4"/>
+    <line x1="170" y1="120" x2="270" y2="120" stroke="#f97316" stroke-width="1.5" opacity="0.4"/>
+    <!-- Frame -->
+    <line x1="55" y1="120" x2="137" y2="75" stroke="white" stroke-width="5" stroke-linecap="round" opacity="0.85"/>
+    <line x1="120" y1="22" x2="137" y2="75" stroke="white" stroke-width="5" stroke-linecap="round" opacity="0.85"/>
+    <line x1="120" y1="22" x2="200" y2="42" stroke="white" stroke-width="5" stroke-linecap="round" opacity="0.85"/>
+    <line x1="137" y1="75" x2="220" y2="120" stroke="white" stroke-width="5" stroke-linecap="round" opacity="0.75"/>
+    <line x1="55" y1="120" x2="120" y2="22" stroke="white" stroke-width="4" stroke-linecap="round" opacity="0.55"/>
+    <line x1="200" y1="42" x2="220" y2="120" stroke="white" stroke-width="5" stroke-linecap="round" opacity="0.85"/>
+    <line x1="185" y1="30" x2="218" y2="38" stroke="white" stroke-width="5" stroke-linecap="round" opacity="0.7"/>
+    <ellipse cx="115" cy="18" rx="20" ry="7" fill="#ea580c"/>
+    <circle cx="137" cy="75" r="9" fill="white" opacity="0.75"/>
+  </g>
+
+  <!-- Corner accents -->
+  <line x1="30" y1="30" x2="100" y2="30" stroke="#f97316" stroke-width="2" opacity="0.3"/>
+  <line x1="30" y1="30" x2="30" y2="100" stroke="#f97316" stroke-width="2" opacity="0.3"/>
+  <line x1="1170" y1="600" x2="1100" y2="600" stroke="#f97316" stroke-width="2" opacity="0.3"/>
+  <line x1="1170" y1="600" x2="1170" y2="530" stroke="#f97316" stroke-width="2" opacity="0.3"/>
+</svg>

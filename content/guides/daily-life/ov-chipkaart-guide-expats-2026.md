@@ -304,7 +304,7 @@ Dutch trains are reliable, but disruptions happen. Here is how to handle them:
 
 ### Bike + Train: The Dutch Commute
 
-The most common Dutch commute combines cycling and train travel:
+The most common Dutch commute combines cycling and train travel. If you haven't got your bike sorted yet, our [cycling guide](/guides/daily-life/cycling-netherlands-expat-guide-2026/) covers everything from buying secondhand to Swapfiets subscriptions to Dutch traffic rules.
 
 1. **Cycle to your local station** (store your personal bike in the stalling, the bicycle parking garage)
 2. **Take the train** to your destination city
@@ -384,6 +384,6 @@ Public transport in the Netherlands is efficient, affordable, and comprehensive.
 
 Welcome to the Dutch commute. Grab your OV-chipkaart, download 9292, and explore everything the Netherlands has to offer by train, tram, bus, and bicycle.
 
-Want to see how your commute costs compare to housing, food, and other expenses? Our budget tool gives you the full monthly picture.
+Want to see how your commute costs compare to housing, food, and other expenses? Our [cost of living guide](/guides/housing/cost-of-living-netherlands-2026/) breaks down average monthly spending by category, and our budget tool lets you model your own numbers.
 
 <a href="/tools/housing-budget-checker/" class="cta-affiliate">Check your total cost of living →</a>

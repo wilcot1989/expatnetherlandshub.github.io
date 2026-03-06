@@ -1,5 +1,32 @@
 {{ define "main" }}
 
+{{/* ── WebSite + Organization JSON-LD ── */}}
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "WebSite",
+  "name": "{{ .Site.Title }}",
+  "url": "{{ .Site.BaseURL }}",
+  "description": "{{ .Site.Params.description }}",
+  "potentialAction": {
+    "@type": "SearchAction",
+    "target": "{{ .Site.BaseURL }}guides/?q={search_term_string}",
+    "query-input": "required name=search_term_string"
+  }
+}
+</script>
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "Organization",
+  "name": "{{ .Site.Title }}",
+  "url": "{{ .Site.BaseURL }}",
+  "logo": "{{ .Site.BaseURL }}favicon.svg",
+  "description": "{{ .Site.Params.description }}",
+  "sameAs": []
+}
+</script>
+
 <!-- ═══════════════════════════════════════════════════
      HERO SECTION
      ═══════════════════════════════════════════════════ -->

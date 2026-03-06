@@ -1,0 +1,113 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 630">
+  <defs>
+    <linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#1e293b"/>
+      <stop offset="100%" stop-color="#0f172a"/>
+    </linearGradient>
+    <linearGradient id="orangeGrad" x1="0%" y1="0%" x2="0%" y2="100%">
+      <stop offset="0%" stop-color="#f97316"/>
+      <stop offset="100%" stop-color="#ea580c"/>
+    </linearGradient>
+    <linearGradient id="tulipGrad" x1="0%" y1="0%" x2="0%" y2="100%">
+      <stop offset="0%" stop-color="#fb923c"/>
+      <stop offset="60%" stop-color="#ea580c"/>
+    </linearGradient>
+  </defs>
+
+  <!-- Background -->
+  <rect width="1200" height="630" fill="url(#bg)"/>
+
+  <!-- Subtle hex pattern -->
+  <g opacity="0.03">
+    <polygon points="100,50 150,25 200,50 200,100 150,125 100,100" fill="none" stroke="white" stroke-width="1"/>
+    <polygon points="200,50 250,25 300,50 300,100 250,125 200,100" fill="none" stroke="white" stroke-width="1"/>
+    <polygon points="900,50 950,25 1000,50 1000,100 950,125 900,100" fill="none" stroke="white" stroke-width="1"/>
+    <polygon points="1000,50 1050,25 1100,50 1100,100 1050,125 1000,100" fill="none" stroke="white" stroke-width="1"/>
+    <polygon points="150,125 200,100 250,125 250,175 200,200 150,175" fill="none" stroke="white" stroke-width="1"/>
+    <polygon points="850,450 900,425 950,450 950,500 900,525 850,500" fill="none" stroke="white" stroke-width="1"/>
+    <polygon points="950,450 1000,425 1050,450 1050,500 1000,525 950,500" fill="none" stroke="white" stroke-width="1"/>
+  </g>
+
+  <!-- Decorative circles -->
+  <circle cx="600" cy="315" r="230" fill="none" stroke="#f97316" stroke-width="1" opacity="0.06"/>
+  <circle cx="600" cy="315" r="290" fill="none" stroke="#f97316" stroke-width="0.5" opacity="0.04"/>
+
+  <!-- 1. LARGE TULIP (center-left) -->
+  <g transform="translate(120, 80)">
+    <!-- Stem -->
+    <line x1="90" y1="200" x2="90" y2="440" stroke="#4ade80" stroke-width="10" stroke-linecap="round" opacity="0.6"/>
+    <!-- Left leaf -->
+    <path d="M90,340 Q30,300 45,250 Q60,265 90,320" fill="#4ade80" opacity="0.5"/>
+    <!-- Right leaf -->
+    <path d="M90,380 Q150,340 135,290 Q120,305 90,360" fill="#4ade80" opacity="0.5"/>
+    <!-- Tulip petals - center -->
+    <path d="M90,60 Q90,200 90,200 Q60,145 35,80 Q50,30 90,60 Z" fill="url(#tulipGrad)"/>
+    <path d="M90,60 Q90,200 90,200 Q120,145 145,80 Q130,30 90,60 Z" fill="#f97316" opacity="0.9"/>
+    <!-- Outer petals -->
+    <path d="M35,80 Q15,120 30,190 Q48,175 60,148 Q50,115 35,80 Z" fill="#ea580c" opacity="0.8"/>
+    <path d="M145,80 Q165,120 150,190 Q132,175 120,148 Q130,115 145,80 Z" fill="#fb923c" opacity="0.7"/>
+    <!-- Center petal highlight -->
+    <path d="M83,80 Q90,175 97,80 Q93,68 83,80 Z" fill="white" opacity="0.15"/>
+  </g>
+
+  <!-- 2. WINDMILL (center) -->
+  <g transform="translate(430, 120)">
+    <!-- Mill body -->
+    <polygon points="75,140 175,140 165,360 85,360" fill="white" opacity="0.88"/>
+    <!-- Mill top cap -->
+    <ellipse cx="125" cy="140" rx="60" ry="20" fill="white" opacity="0.9"/>
+    <!-- Door -->
+    <rect x="100" y="290" width="50" height="70" rx="25" fill="#f97316" opacity="0.6"/>
+    <!-- Windows -->
+    <rect x="95" y="180" width="30" height="30" rx="5" fill="#f97316" opacity="0.4"/>
+    <rect x="135" y="180" width="30" height="30" rx="5" fill="#f97316" opacity="0.4"/>
+    <rect x="105" y="230" width="40" height="30" rx="5" fill="#f97316" opacity="0.3"/>
+    <!-- Blades center hub -->
+    <circle cx="125" cy="142" r="16" fill="#f97316" opacity="0.8"/>
+    <circle cx="125" cy="142" r="8" fill="#1e293b" opacity="0.5"/>
+    <!-- Blade 1 (top) -->
+    <rect x="118" y="10" width="14" height="120" rx="7" fill="white" opacity="0.85" transform="rotate(15, 125, 142)"/>
+    <!-- Blade 2 (right) -->
+    <rect x="118" y="10" width="14" height="120" rx="7" fill="white" opacity="0.75" transform="rotate(105, 125, 142)"/>
+    <!-- Blade 3 (bottom) -->
+    <rect x="118" y="10" width="14" height="120" rx="7" fill="white" opacity="0.75" transform="rotate(195, 125, 142)"/>
+    <!-- Blade 4 (left) -->
+    <rect x="118" y="10" width="14" height="120" rx="7" fill="white" opacity="0.85" transform="rotate(285, 125, 142)"/>
+    <!-- Ground line -->
+    <rect x="50" y="360" width="150" height="12" rx="6" fill="#4ade80" opacity="0.3"/>
+  </g>
+
+  <!-- 3. DUTCH FLAG STRIPE (decorative, right) -->
+  <g transform="translate(850, 200)">
+    <!-- Flag background -->
+    <rect x="0" y="0" width="200" height="135" rx="8" fill="white" opacity="0.08"/>
+    <!-- Red stripe -->
+    <rect x="0" y="0" width="200" height="45" rx="8" fill="#ae1c28" opacity="0.7"/>
+    <rect x="0" y="30" width="200" height="15" fill="#ae1c28" opacity="0.7"/>
+    <!-- White stripe -->
+    <rect x="0" y="45" width="200" height="45" fill="white" opacity="0.8"/>
+    <!-- Blue stripe -->
+    <rect x="0" y="90" width="200" height="45" rx="8" fill="#21468b" opacity="0.7"/>
+    <rect x="0" y="90" width="200" height="15" fill="#21468b" opacity="0.7"/>
+    <!-- Flag pole -->
+    <rect x="-10" y="-20" width="10" height="175" rx="5" fill="white" opacity="0.4"/>
+  </g>
+
+  <!-- 4. CHEESE (bottom right, Dutch cliche) -->
+  <g transform="translate(880, 400)">
+    <!-- Cheese wheel -->
+    <ellipse cx="100" cy="30" rx="100" ry="30" fill="#fb923c" opacity="0.7"/>
+    <rect x="0" y="30" width="200" height="60" rx="0" fill="#f97316" opacity="0.75"/>
+    <ellipse cx="100" cy="90" rx="100" ry="30" fill="#ea580c" opacity="0.6"/>
+    <!-- Holes in cheese -->
+    <ellipse cx="50" cy="60" rx="15" ry="10" fill="#1e293b" opacity="0.3"/>
+    <ellipse cx="110" cy="50" rx="18" ry="12" fill="#1e293b" opacity="0.3"/>
+    <ellipse cx="160" cy="65" rx="14" ry="9" fill="#1e293b" opacity="0.3"/>
+  </g>
+
+  <!-- Corner accents -->
+  <line x1="30" y1="30" x2="100" y2="30" stroke="#f97316" stroke-width="2" opacity="0.3"/>
+  <line x1="30" y1="30" x2="30" y2="100" stroke="#f97316" stroke-width="2" opacity="0.3"/>
+  <line x1="1170" y1="600" x2="1100" y2="600" stroke="#f97316" stroke-width="2" opacity="0.3"/>
+  <line x1="1170" y1="600" x2="1170" y2="530" stroke="#f97316" stroke-width="2" opacity="0.3"/>
+</svg>

@@ -72,7 +72,7 @@ Here is what that looks like in practice:
 | Social contributions | ~EUR 5,200 | ~EUR 9,800 |
 | **Approximate net income** | **~EUR 49,000** | **~EUR 37,700** |
 
-On the same gross salary, the 30% ruling gives you roughly EUR 11,000 more per year in take-home pay. Over the 5-year duration of the ruling, that amounts to over EUR 55,000 in additional income. Read our [complete guide to the 30% ruling](/posts/30-percent-ruling-netherlands-2026/) for full details on eligibility and how to apply.
+On the same gross salary, the 30% ruling gives you roughly EUR 11,000 more per year in take-home pay. Over the 5-year duration of the ruling, that amounts to over EUR 55,000 in additional income. Use our [30% ruling calculator](/tools/30-percent-ruling-calculator/) to run the numbers for your specific salary and situation, and read our [complete guide to the Dutch tax system](/guides/finance/dutch-tax-system-expats-guide-2026/) for full details on eligibility, application timelines, and what happens when the ruling expires.
 
 ### Germany's Tax Structure
 
@@ -130,7 +130,7 @@ For a more detailed breakdown of Dutch housing costs, see our [guide to finding 
 
 ### The Netherlands
 
-The Dutch healthcare system is based on mandatory private insurance. Every resident must purchase a basic health insurance policy (basisverzekering) from a private insurer. Key facts for 2026:
+The Dutch healthcare system is based on mandatory private insurance. Every resident must purchase a basic health insurance policy (basisverzekering) from a private insurer. Our [health insurance wizard](/tools/health-insurance-wizard/) can help you compare policies once you've decided on the Netherlands. Key facts for 2026:
 
 - Basic premium: approximately EUR 140-175 per month
 - Mandatory annual deductible (eigen risico): EUR 385
@@ -282,4 +282,6 @@ Whatever you decide, take the time to visit both countries, speak to expats alre
 - [Complete Guide to Moving to the Netherlands](/posts/complete-guide-moving-to-netherlands-2026/)
 - [The 30% Ruling Explained](/posts/30-percent-ruling-netherlands-2026/)
 - [Dutch Health Insurance Guide for Expats](/posts/dutch-health-insurance-guide-expats-2026/)
-- [Cost of Living in the Netherlands 2026](/posts/cost-of-living-netherlands-2026/)
+- [Cost of Living in the Netherlands 2026](/guides/housing/cost-of-living-netherlands-2026/)
+- [30% Ruling Calculator](/tools/30-percent-ruling-calculator/)
+- [Health Insurance Wizard](/tools/health-insurance-wizard/)

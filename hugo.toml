@@ -58,7 +58,6 @@ theme = "starter"
 
 [taxonomies]
   category = "categories"
-  tag = "tags"
 
 [related]
   includeNewer = true

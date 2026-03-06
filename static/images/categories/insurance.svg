@@ -1,0 +1,101 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 630">
+  <defs>
+    <linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#1e293b"/>
+      <stop offset="100%" stop-color="#0f172a"/>
+    </linearGradient>
+    <linearGradient id="orangeGrad" x1="0%" y1="0%" x2="0%" y2="100%">
+      <stop offset="0%" stop-color="#f97316"/>
+      <stop offset="100%" stop-color="#ea580c"/>
+    </linearGradient>
+    <linearGradient id="orangeGrad2" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#fb923c"/>
+      <stop offset="100%" stop-color="#f97316"/>
+    </linearGradient>
+    <linearGradient id="shieldGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#fb923c"/>
+      <stop offset="100%" stop-color="#ea580c"/>
+    </linearGradient>
+  </defs>
+
+  <!-- Background -->
+  <rect width="1200" height="630" fill="url(#bg)"/>
+
+  <!-- Subtle pattern -->
+  <g opacity="0.03">
+    <line x1="0" y1="0" x2="1200" y2="630" stroke="white" stroke-width="1"/>
+    <line x1="200" y1="0" x2="1200" y2="520" stroke="white" stroke-width="1"/>
+    <line x1="0" y1="200" x2="1000" y2="630" stroke="white" stroke-width="1"/>
+  </g>
+
+  <!-- Decorative circles -->
+  <circle cx="600" cy="315" r="230" fill="none" stroke="#f97316" stroke-width="1" opacity="0.06"/>
+  <circle cx="600" cy="315" r="290" fill="none" stroke="#f97316" stroke-width="0.5" opacity="0.04"/>
+
+  <!-- 1. LARGE SHIELD WITH CHECKMARK (center) -->
+  <g transform="translate(380, 80)">
+    <!-- Shield background glow -->
+    <ellipse cx="220" cy="270" rx="180" ry="160" fill="#f97316" opacity="0.06"/>
+    <!-- Shield shape -->
+    <path d="M220,10 L420,80 L420,250 Q420,420 220,500 Q20,420 20,250 L20,80 Z" fill="url(#shieldGrad)" opacity="0.85"/>
+    <!-- Shield inner border -->
+    <path d="M220,40 L390,100 L390,250 Q390,395 220,465 Q50,395 50,250 L50,100 Z" fill="none" stroke="white" stroke-width="4" opacity="0.3"/>
+    <!-- Checkmark -->
+    <path d="M110,250 L185,330 L340,150" fill="none" stroke="white" stroke-width="28" stroke-linecap="round" stroke-linejoin="round" opacity="0.95"/>
+    <!-- Shield shine -->
+    <path d="M220,40 Q290,50 350,100 Q340,55 270,40 Z" fill="white" opacity="0.12"/>
+  </g>
+
+  <!-- 2. UMBRELLA (left, protection symbol) -->
+  <g transform="translate(60, 200)">
+    <!-- Umbrella canopy -->
+    <path d="M0,110 Q120,-20 240,110" fill="url(#orangeGrad)" opacity="0.75"/>
+    <!-- Canopy ribs -->
+    <line x1="120" y1="0" x2="120" y2="110" stroke="white" stroke-width="3" opacity="0.4"/>
+    <line x1="120" y1="5" x2="30" y2="100" stroke="white" stroke-width="2" opacity="0.3"/>
+    <line x1="120" y1="5" x2="210" y2="100" stroke="white" stroke-width="2" opacity="0.3"/>
+    <line x1="120" y1="5" x2="0" y2="95" stroke="white" stroke-width="2" opacity="0.25"/>
+    <line x1="120" y1="5" x2="240" y2="95" stroke="white" stroke-width="2" opacity="0.25"/>
+    <!-- Umbrella pole -->
+    <line x1="120" y1="110" x2="120" y2="300" stroke="white" stroke-width="8" stroke-linecap="round" opacity="0.8"/>
+    <!-- Curved handle -->
+    <path d="M120,300 Q120,340 85,340" fill="none" stroke="white" stroke-width="8" stroke-linecap="round" opacity="0.8"/>
+    <!-- Rain drops -->
+    <ellipse cx="30" cy="160" rx="5" ry="10" fill="#f97316" opacity="0.3"/>
+    <ellipse cx="60" cy="200" rx="5" ry="10" fill="#f97316" opacity="0.25"/>
+    <ellipse cx="20" cy="220" rx="4" ry="8" fill="#f97316" opacity="0.2"/>
+    <ellipse cx="200" cy="150" rx="5" ry="10" fill="#f97316" opacity="0.3"/>
+    <ellipse cx="230" cy="190" rx="4" ry="8" fill="#f97316" opacity="0.25"/>
+  </g>
+
+  <!-- 3. DOCUMENT / POLICY (right) -->
+  <g transform="translate(870, 170)">
+    <!-- Paper -->
+    <rect x="0" y="0" width="180" height="240" rx="12" fill="white" opacity="0.88"/>
+    <!-- Header bar -->
+    <rect x="0" y="0" width="180" height="40" rx="12" fill="url(#orangeGrad)" opacity="0.85"/>
+    <rect x="0" y="28" width="180" height="12" fill="url(#orangeGrad)" opacity="0.85"/>
+    <!-- Small shield icon in header -->
+    <path d="M80,6 L100,12 L100,22 Q100,30 90,34 Q80,30 80,22 L80,12 Z" fill="white" opacity="0.6"/>
+    <!-- Lines of text -->
+    <rect x="15" y="55" width="150" height="7" rx="3" fill="#1e293b" opacity="0.15"/>
+    <rect x="15" y="72" width="130" height="6" rx="3" fill="#1e293b" opacity="0.12"/>
+    <rect x="15" y="87" width="145" height="6" rx="3" fill="#1e293b" opacity="0.12"/>
+    <rect x="15" y="110" width="150" height="6" rx="3" fill="#1e293b" opacity="0.1"/>
+    <rect x="15" y="125" width="120" height="6" rx="3" fill="#1e293b" opacity="0.1"/>
+    <rect x="15" y="140" width="140" height="6" rx="3" fill="#1e293b" opacity="0.1"/>
+    <!-- Coverage amount highlight -->
+    <rect x="15" y="165" width="150" height="25" rx="5" fill="#f97316" opacity="0.15"/>
+    <rect x="25" y="170" width="100" height="6" rx="3" fill="#f97316" opacity="0.5"/>
+    <rect x="25" y="181" width="70" height="5" rx="2" fill="#f97316" opacity="0.4"/>
+    <!-- Signature line -->
+    <line x1="15" y1="220" x2="165" y2="220" stroke="#1e293b" stroke-width="1" opacity="0.15"/>
+    <path d="M20,216 Q35,208 50,218 Q65,226 80,215" fill="none" stroke="#ea580c" stroke-width="2" stroke-linecap="round" opacity="0.5"/>
+  </g>
+
+  <!-- Corner accents -->
+  <line x1="30" y1="30" x2="100" y2="30" stroke="#f97316" stroke-width="2" opacity="0.3"/>
+  <line x1="30" y1="30" x2="30" y2="100" stroke="#f97316" stroke-width="2" opacity="0.3"/>
+  <line x1="1170" y1="600" x2="1100" y2="600" stroke="#f97316" stroke-width="2" opacity="0.3"/>
+  <line x1="1170" y1="600" x2="1170" y2="530" stroke="#f97316" stroke-width="2" opacity="0.3"/>
+</svg>

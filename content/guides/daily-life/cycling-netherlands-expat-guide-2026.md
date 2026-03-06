@@ -163,7 +163,7 @@ The OV-fiets is a public bicycle rental system integrated with public transport.
 4. Return the bike to any OV-fiets location within 24 hours
 5. Cost: EUR 4.55 per 24-hour period (charged to your bank account)
 
-The OV-fiets is not a daily commuter bike but an excellent supplement for travel days. Read our [OV-chipkaart guide](/posts/ov-chipkaart-guide-expats-2026/) for setup instructions.
+The OV-fiets is not a daily commuter bike but an excellent supplement for travel days. Read our [OV-chipkaart guide](/guides/daily-life/ov-chipkaart-guide-expats-2026/) for setup instructions — it covers exactly how to activate OV-fiets on your card and what to expect on your first rental.
 
 ---
 
@@ -341,7 +341,7 @@ Cycling in the Netherlands is more than transport -- it is a way of life. As an 
 
 Invest in a good lock (or two), install your lights, learn the right-of-way rules, and enjoy. Within a few weeks, cycling will feel as natural as walking.
 
-Also worth checking: does cycling fit your commute? Use our tools to compare transport options and living costs in your city.
+Also worth checking: does cycling fit your commute? Use our tools to compare transport options and living costs in your city. Our [cost of living guide](/guides/housing/cost-of-living-netherlands-2026/) shows how transport fits into the full monthly picture, and the [housing budget checker](/tools/housing-budget-checker/) lets you model costs by city so you can choose a neighborhood with cycling distance to work in mind.
 
 <a href="/tools/" class="cta-affiliate">Plan your Dutch transport budget →</a>
 

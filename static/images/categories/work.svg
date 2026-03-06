@@ -1,0 +1,134 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 630">
+  <defs>
+    <linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#1e293b"/>
+      <stop offset="100%" stop-color="#0f172a"/>
+    </linearGradient>
+    <linearGradient id="orangeGrad" x1="0%" y1="0%" x2="0%" y2="100%">
+      <stop offset="0%" stop-color="#f97316"/>
+      <stop offset="100%" stop-color="#ea580c"/>
+    </linearGradient>
+    <linearGradient id="orangeGrad2" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#fb923c"/>
+      <stop offset="100%" stop-color="#f97316"/>
+    </linearGradient>
+    <linearGradient id="screenGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#1e3a5f"/>
+      <stop offset="100%" stop-color="#0f172a"/>
+    </linearGradient>
+  </defs>
+
+  <!-- Background -->
+  <rect width="1200" height="630" fill="url(#bg)"/>
+
+  <!-- Subtle pattern -->
+  <g opacity="0.04">
+    <line x1="0" y1="0" x2="1200" y2="630" stroke="white" stroke-width="1"/>
+    <line x1="200" y1="0" x2="1200" y2="520" stroke="white" stroke-width="1"/>
+    <line x1="400" y1="0" x2="1200" y2="400" stroke="white" stroke-width="1"/>
+    <line x1="0" y1="200" x2="1000" y2="630" stroke="white" stroke-width="1"/>
+  </g>
+
+  <!-- Decorative circles -->
+  <circle cx="600" cy="315" r="230" fill="none" stroke="#f97316" stroke-width="1" opacity="0.06"/>
+  <circle cx="600" cy="315" r="290" fill="none" stroke="#f97316" stroke-width="0.5" opacity="0.04"/>
+
+  <!-- 1. LAPTOP (center-left, large) -->
+  <g transform="translate(80, 140)">
+    <!-- Screen lid -->
+    <rect x="0" y="0" width="420" height="280" rx="16" fill="white" opacity="0.88"/>
+    <!-- Screen border -->
+    <rect x="0" y="0" width="420" height="280" rx="16" fill="none" stroke="white" stroke-width="3" opacity="0.6"/>
+    <!-- Screen display -->
+    <rect x="18" y="18" width="384" height="244" rx="8" fill="url(#screenGrad)" opacity="0.95"/>
+    <!-- Webcam -->
+    <circle cx="210" cy="10" r="5" fill="#1e293b" opacity="0.6"/>
+    <!-- Screen content - code editor look -->
+    <rect x="30" y="30" width="100" height="8" rx="3" fill="#f97316" opacity="0.7"/>
+    <rect x="30" y="48" width="240" height="6" rx="3" fill="white" opacity="0.25"/>
+    <rect x="30" y="62" width="200" height="6" rx="3" fill="white" opacity="0.2"/>
+    <rect x="46" y="76" width="180" height="6" rx="3" fill="#4ade80" opacity="0.5"/>
+    <rect x="46" y="90" width="220" height="6" rx="3" fill="white" opacity="0.2"/>
+    <rect x="46" y="104" width="160" height="6" rx="3" fill="#fb923c" opacity="0.45"/>
+    <rect x="30" y="118" width="200" height="6" rx="3" fill="white" opacity="0.2"/>
+    <rect x="30" y="140" width="80" height="6" rx="3" fill="#f97316" opacity="0.5"/>
+    <rect x="30" y="154" width="250" height="6" rx="3" fill="white" opacity="0.15"/>
+    <rect x="46" y="168" width="190" height="6" rx="3" fill="white" opacity="0.18"/>
+    <rect x="46" y="182" width="140" height="6" rx="3" fill="#4ade80" opacity="0.4"/>
+    <!-- Chart in bottom right of screen -->
+    <rect x="270" y="140" width="120" height="100" rx="6" fill="white" opacity="0.05"/>
+    <rect x="278" y="195" width="16" height="38" rx="3" fill="#ea580c" opacity="0.7"/>
+    <rect x="300" y="178" width="16" height="55" rx="3" fill="#f97316" opacity="0.8"/>
+    <rect x="322" y="165" width="16" height="68" rx="3" fill="#fb923c" opacity="0.85"/>
+    <rect x="344" y="150" width="16" height="83" rx="3" fill="#f97316"/>
+    <!-- Laptop base/keyboard -->
+    <rect x="-20" y="278" width="460" height="28" rx="8" fill="white" opacity="0.85"/>
+    <!-- Keyboard keys suggestion -->
+    <rect x="20" y="283" width="360" height="12" rx="3" fill="#1e293b" opacity="0.2"/>
+    <!-- Trackpad -->
+    <rect x="155" y="282" width="110" height="18" rx="4" fill="#1e293b" opacity="0.15"/>
+    <!-- Laptop hinge -->
+    <rect x="-20" y="302" width="460" height="10" rx="5" fill="white" opacity="0.6"/>
+    <!-- Desk surface suggestion -->
+    <rect x="-60" y="310" width="540" height="8" rx="4" fill="white" opacity="0.25"/>
+  </g>
+
+  <!-- 2. SMARTPHONE (right of laptop) -->
+  <g transform="translate(650, 200)">
+    <!-- Phone body -->
+    <rect x="0" y="0" width="130" height="240" rx="18" fill="url(#orangeGrad2)" opacity="0.82"/>
+    <!-- Screen -->
+    <rect x="8" y="28" width="114" height="185" rx="6" fill="#0f172a" opacity="0.9"/>
+    <!-- Top notch -->
+    <rect x="38" y="10" width="54" height="9" rx="4" fill="#1e293b" opacity="0.6"/>
+    <!-- Screen content - dashboard look -->
+    <rect x="16" y="36" width="98" height="30" rx="5" fill="white" opacity="0.08"/>
+    <rect x="22" y="44" width="40" height="6" rx="3" fill="white" opacity="0.3"/>
+    <rect x="22" y="54" width="60" height="4" rx="2" fill="white" opacity="0.2"/>
+    <!-- Stat cards -->
+    <rect x="16" y="76" width="44" height="40" rx="6" fill="#f97316" opacity="0.25"/>
+    <rect x="70" y="76" width="44" height="40" rx="6" fill="white" opacity="0.08"/>
+    <rect x="16" y="125" width="44" height="40" rx="6" fill="white" opacity="0.08"/>
+    <rect x="70" y="125" width="44" height="40" rx="6" fill="#fb923c" opacity="0.2"/>
+    <!-- Notification dots -->
+    <circle cx="100" cy="78" r="5" fill="#f97316" opacity="0.8"/>
+    <!-- Home indicator -->
+    <rect x="42" y="220" width="46" height="4" rx="2" fill="white" opacity="0.3"/>
+  </g>
+
+  <!-- 3. DESK LAMP (background, right) -->
+  <g transform="translate(870, 130)">
+    <!-- Lamp shade -->
+    <path d="M40,80 L0,140 L120,140 Z" fill="url(#orangeGrad)" opacity="0.6"/>
+    <!-- Lamp neck -->
+    <line x1="80" y1="80" x2="80" y2="30" stroke="white" stroke-width="10" stroke-linecap="round" opacity="0.7"/>
+    <line x1="80" y1="30" x2="130" y2="30" stroke="white" stroke-width="10" stroke-linecap="round" opacity="0.7"/>
+    <line x1="130" y1="30" x2="130" y2="200" stroke="white" stroke-width="10" stroke-linecap="round" opacity="0.7"/>
+    <!-- Base -->
+    <ellipse cx="130" cy="205" rx="50" ry="14" fill="white" opacity="0.7"/>
+    <!-- Light glow -->
+    <ellipse cx="60" cy="180" rx="80" ry="60" fill="#f97316" opacity="0.05"/>
+    <!-- Light beam lines -->
+    <line x1="60" y1="140" x2="30" y2="200" stroke="#fb923c" stroke-width="1" opacity="0.1"/>
+    <line x1="60" y1="140" x2="60" y2="210" stroke="#fb923c" stroke-width="1" opacity="0.1"/>
+    <line x1="60" y1="140" x2="90" y2="200" stroke="#fb923c" stroke-width="1" opacity="0.1"/>
+  </g>
+
+  <!-- 4. COFFEE CUP (small, on desk) -->
+  <g transform="translate(870, 410)">
+    <ellipse cx="55" cy="100" rx="58" ry="15" fill="white" opacity="0.2"/>
+    <path d="M10,25 L18,92 Q18,105 55,105 Q92,105 92,92 L100,25 Z" fill="white" opacity="0.8"/>
+    <ellipse cx="55" cy="25" rx="45" ry="10" fill="white" opacity="0.9"/>
+    <ellipse cx="55" cy="29" rx="38" ry="7" fill="#92400e" opacity="0.5"/>
+    <path d="M96,38 Q126,38 126,62 Q126,86 96,86" fill="none" stroke="white" stroke-width="8" stroke-linecap="round" opacity="0.7"/>
+    <path d="M36,15 Q32,-2 38,-12" fill="none" stroke="white" stroke-width="2.5" stroke-linecap="round" opacity="0.25"/>
+    <path d="M55,12 Q51,-7 57,-20" fill="none" stroke="white" stroke-width="2.5" stroke-linecap="round" opacity="0.3"/>
+    <path d="M74,15 Q70,-2 76,-12" fill="none" stroke="white" stroke-width="2.5" stroke-linecap="round" opacity="0.25"/>
+  </g>
+
+  <!-- Corner accents -->
+  <line x1="30" y1="30" x2="100" y2="30" stroke="#f97316" stroke-width="2" opacity="0.3"/>
+  <line x1="30" y1="30" x2="30" y2="100" stroke="#f97316" stroke-width="2" opacity="0.3"/>
+  <line x1="1170" y1="600" x2="1100" y2="600" stroke="#f97316" stroke-width="2" opacity="0.3"/>
+  <line x1="1170" y1="600" x2="1170" y2="530" stroke="#f97316" stroke-width="2" opacity="0.3"/>
+</svg>

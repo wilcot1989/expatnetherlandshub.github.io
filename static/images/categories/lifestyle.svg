@@ -1,0 +1,102 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 630">
+  <defs>
+    <linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#1e293b"/>
+      <stop offset="100%" stop-color="#0f172a"/>
+    </linearGradient>
+    <linearGradient id="orangeGrad" x1="0%" y1="0%" x2="0%" y2="100%">
+      <stop offset="0%" stop-color="#f97316"/>
+      <stop offset="100%" stop-color="#ea580c"/>
+    </linearGradient>
+    <linearGradient id="orangeGrad2" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#fb923c"/>
+      <stop offset="100%" stop-color="#f97316"/>
+    </linearGradient>
+  </defs>
+
+  <!-- Background -->
+  <rect width="1200" height="630" fill="url(#bg)"/>
+
+  <!-- Subtle hex pattern -->
+  <g opacity="0.03">
+    <polygon points="100,50 150,25 200,50 200,100 150,125 100,100" fill="none" stroke="white" stroke-width="1"/>
+    <polygon points="200,50 250,25 300,50 300,100 250,125 200,100" fill="none" stroke="white" stroke-width="1"/>
+    <polygon points="900,450 950,425 1000,450 1000,500 950,525 900,500" fill="none" stroke="white" stroke-width="1"/>
+    <polygon points="1000,450 1050,425 1100,450 1100,500 1050,525 1000,500" fill="none" stroke="white" stroke-width="1"/>
+  </g>
+
+  <!-- Decorative circles -->
+  <circle cx="600" cy="315" r="230" fill="none" stroke="#f97316" stroke-width="1" opacity="0.06"/>
+  <circle cx="600" cy="315" r="290" fill="none" stroke="#f97316" stroke-width="0.5" opacity="0.04"/>
+
+  <!-- 1. LARGE COFFEE CUP (center-left) -->
+  <g transform="translate(90, 160)">
+    <!-- Saucer -->
+    <ellipse cx="150" cy="330" rx="170" ry="40" fill="white" opacity="0.35"/>
+    <!-- Cup body -->
+    <path d="M30,60 L50,290 Q50,320 150,320 Q250,320 250,290 L270,60 Z" fill="white" opacity="0.88"/>
+    <!-- Cup rim -->
+    <ellipse cx="150" cy="60" rx="120" ry="28" fill="white" opacity="0.95"/>
+    <!-- Coffee inside -->
+    <ellipse cx="150" cy="68" rx="105" ry="20" fill="#92400e" opacity="0.65"/>
+    <!-- Coffee crema swirl -->
+    <path d="M120,68 Q150,55 180,68" fill="none" stroke="#fb923c" stroke-width="3" opacity="0.4"/>
+    <!-- Handle -->
+    <path d="M265,100 Q330,100 330,175 Q330,250 265,250" fill="none" stroke="white" stroke-width="18" stroke-linecap="round" opacity="0.8"/>
+    <!-- Steam lines -->
+    <path d="M100,40 Q88,-10 102,-40" fill="none" stroke="white" stroke-width="5" stroke-linecap="round" opacity="0.3"/>
+    <path d="M150,30 Q135,-25 152,-60" fill="none" stroke="white" stroke-width="5" stroke-linecap="round" opacity="0.35"/>
+    <path d="M200,40 Q188,-10 202,-40" fill="none" stroke="white" stroke-width="5" stroke-linecap="round" opacity="0.3"/>
+    <!-- Cup logo/decoration -->
+    <circle cx="150" cy="185" r="35" fill="none" stroke="#f97316" stroke-width="3" opacity="0.25"/>
+    <path d="M135,185 Q150,170 165,185" fill="none" stroke="#f97316" stroke-width="3" opacity="0.3"/>
+  </g>
+
+  <!-- 2. BICYCLE (center-right, matches daily-life theme) -->
+  <g transform="translate(530, 220)">
+    <!-- Back wheel -->
+    <circle cx="70" cy="160" r="60" fill="none" stroke="url(#orangeGrad)" stroke-width="7"/>
+    <circle cx="70" cy="160" r="7" fill="#f97316"/>
+    <line x1="70" y1="100" x2="70" y2="220" stroke="#f97316" stroke-width="2" opacity="0.4"/>
+    <line x1="10" y1="160" x2="130" y2="160" stroke="#f97316" stroke-width="2" opacity="0.4"/>
+    <line x1="28" y1="118" x2="112" y2="202" stroke="#f97316" stroke-width="2" opacity="0.4"/>
+    <line x1="112" y1="118" x2="28" y2="202" stroke="#f97316" stroke-width="2" opacity="0.4"/>
+    <!-- Front wheel -->
+    <circle cx="270" cy="160" r="60" fill="none" stroke="url(#orangeGrad)" stroke-width="7"/>
+    <circle cx="270" cy="160" r="7" fill="#f97316"/>
+    <line x1="270" y1="100" x2="270" y2="220" stroke="#f97316" stroke-width="2" opacity="0.4"/>
+    <line x1="210" y1="160" x2="330" y2="160" stroke="#f97316" stroke-width="2" opacity="0.4"/>
+    <line x1="228" y1="118" x2="312" y2="202" stroke="#f97316" stroke-width="2" opacity="0.4"/>
+    <line x1="312" y1="118" x2="228" y2="202" stroke="#f97316" stroke-width="2" opacity="0.4"/>
+    <!-- Frame -->
+    <line x1="70" y1="160" x2="170" y2="100" stroke="white" stroke-width="7" stroke-linecap="round" opacity="0.9"/>
+    <line x1="150" y1="30" x2="170" y2="100" stroke="white" stroke-width="7" stroke-linecap="round" opacity="0.9"/>
+    <line x1="150" y1="30" x2="250" y2="55" stroke="white" stroke-width="7" stroke-linecap="round" opacity="0.9"/>
+    <line x1="170" y1="100" x2="270" y2="160" stroke="white" stroke-width="6" stroke-linecap="round" opacity="0.8"/>
+    <line x1="70" y1="160" x2="150" y2="30" stroke="white" stroke-width="5" stroke-linecap="round" opacity="0.6"/>
+    <line x1="250" y1="55" x2="270" y2="160" stroke="white" stroke-width="7" stroke-linecap="round" opacity="0.9"/>
+    <!-- Handlebars -->
+    <line x1="232" y1="40" x2="270" y2="50" stroke="white" stroke-width="6" stroke-linecap="round" opacity="0.8"/>
+    <!-- Seat -->
+    <ellipse cx="145" cy="25" rx="24" ry="8" fill="#ea580c"/>
+    <!-- Pedal area -->
+    <circle cx="170" cy="100" r="11" fill="white" opacity="0.8"/>
+  </g>
+
+  <!-- 3. TULIP BUD (far right, decorative) -->
+  <g transform="translate(970, 200)">
+    <line x1="60" y1="160" x2="60" y2="340" stroke="#4ade80" stroke-width="7" stroke-linecap="round" opacity="0.5"/>
+    <path d="M60,250 Q25,225 35,195 Q45,208 60,238" fill="#4ade80" opacity="0.45"/>
+    <path d="M60,280 Q95,255 85,225 Q75,238 60,268" fill="#4ade80" opacity="0.45"/>
+    <path d="M60,55 Q60,155 60,155 Q42,118 25,72 Q35,30 60,55 Z" fill="#fb923c" opacity="0.85"/>
+    <path d="M60,55 Q60,155 60,155 Q78,118 95,72 Q85,30 60,55 Z" fill="#f97316" opacity="0.8"/>
+    <path d="M25,72 Q12,100 22,148 Q32,136 40,115 Q34,90 25,72 Z" fill="#ea580c" opacity="0.7"/>
+    <path d="M95,72 Q108,100 98,148 Q88,136 80,115 Q86,90 95,72 Z" fill="#fb923c" opacity="0.65"/>
+  </g>
+
+  <!-- Corner accents -->
+  <line x1="30" y1="30" x2="100" y2="30" stroke="#f97316" stroke-width="2" opacity="0.3"/>
+  <line x1="30" y1="30" x2="30" y2="100" stroke="#f97316" stroke-width="2" opacity="0.3"/>
+  <line x1="1170" y1="600" x2="1100" y2="600" stroke="#f97316" stroke-width="2" opacity="0.3"/>
+  <line x1="1170" y1="600" x2="1170" y2="530" stroke="#f97316" stroke-width="2" opacity="0.3"/>
+</svg>
