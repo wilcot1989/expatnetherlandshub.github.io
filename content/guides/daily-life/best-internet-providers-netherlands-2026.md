@@ -1,6 +1,6 @@
 ---
 title: "Best Internet Providers in the Netherlands 2026"
-date: 2026-03-17T12:00:00+01:00
+date: 2026-03-06T12:00:00+01:00
 description: "Compare the best internet providers in the Netherlands in 2026: KPN, Ziggo, T-Mobile, Odido, Budget Thuis, and Online.nl. Speeds, pricing, and English support."
 categories: ["daily-life"]
 tags: ["internet netherlands", "dutch internet provider", "fiber netherlands", "ziggo", "kpn internet", "wifi netherlands expat"]

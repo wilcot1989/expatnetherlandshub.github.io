@@ -1,6 +1,6 @@
 ---
 title: "Best Ways to Transfer Money to/from the Netherlands 2026"
-date: 2026-03-14T11:00:00+01:00
+date: 2026-03-06T11:00:00+01:00
 description: "Compare the best ways to transfer money to and from the Netherlands in 2026. Wise, Revolut, OFX, Remitly, and more compared on fees and speed."
 categories: ["finance"]
 tags: ["money transfer", "wise", "revolut", "international transfer", "SEPA", "SWIFT", "expat finance"]

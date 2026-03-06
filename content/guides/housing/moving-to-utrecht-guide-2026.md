@@ -1,6 +1,6 @@
 ---
 title: "Moving to Utrecht 2026: Complete Expat Guide"
-date: 2026-06-12T10:00:00+01:00
+date: 2026-03-06T10:00:00+01:00
 description: "Complete expat guide to moving to Utrecht in 2026. Neighborhoods, housing costs, international schools, transport, and why Utrecht is the Netherlands' best-kept secret."
 categories: ["relocation"]
 tags: ["Utrecht", "moving to Utrecht", "expat city guide", "Netherlands cities", "relocation"]
