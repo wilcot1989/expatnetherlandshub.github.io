@@ -1,85 +1,212 @@
 {{ define "main" }}
+
+{{/* ── BreadcrumbList JSON-LD ── */}}
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "BreadcrumbList",
+  "itemListElement": [
+    {
+      "@type": "ListItem",
+      "position": 1,
+      "name": "Home",
+      "item": "{{ .Site.BaseURL }}"
+    }{{ with .Params.categories }},
+    {
+      "@type": "ListItem",
+      "position": 2,
+      "name": "{{ index . 0 | humanize | title }}",
+      "item": "{{ $.Site.BaseURL }}categories/{{ index . 0 }}/"
+    },
+    {
+      "@type": "ListItem",
+      "position": 3,
+      "name": "{{ $.Title }}",
+      "item": "{{ $.Permalink }}"
+    }{{ else }},
+    {
+      "@type": "ListItem",
+      "position": 2,
+      "name": "{{ $.Title }}",
+      "item": "{{ $.Permalink }}"
+    }{{ end }}
+  ]
+}
+</script>
+
+{{/* ── Hero: with featured_image → dark overlay; without → plain header ── */}}
 {{ if .Params.featured_image }}
 <div class="article-hero" style="background-image: url('{{ .Params.featured_image }}');">
   <div class="article-hero-overlay">
     <div class="container">
-      <div class="breadcrumb breadcrumb-light">
+      <nav class="breadcrumb breadcrumb-light" aria-label="Breadcrumb">
         <a href="/">Home</a> &rsaquo;
-        {{ range .Params.categories }}<a href="/categories/{{ . }}/">{{ . | humanize | title }}</a>{{ end }}
-        &rsaquo; {{ .Title }}
-      </div>
+        {{ range .Params.categories }}
+        <a href="/categories/{{ . }}/">{{ . | humanize | title }}</a> &rsaquo;
+        {{ end }}
+        <span>{{ .Title }}</span>
+      </nav>
       <h1 class="article-hero-title">{{ .Title }}</h1>
-      {{ if not .Date.IsZero }}<div class="meta meta-light">{{ .Date.Format "January 2, 2006" }} &middot; {{ .ReadingTime }} min read</div>{{ end }}
+      <div class="meta meta-light">
+        {{ if not .Date.IsZero }}{{ .Date.Format "January 2, 2006" }} &middot; {{ end }}
+        {{ .ReadingTime }} min read
+        {{ with .Params.author }} &middot; {{ . }}{{ end }}
+      </div>
     </div>
   </div>
 </div>
-<div class="container">
-  <article>
 {{ else }}
-<div class="container">
-  <article>
-    <div class="breadcrumb">
+<div class="article-header">
+  <div class="container">
+    <nav class="breadcrumb" aria-label="Breadcrumb">
       <a href="/">Home</a> &rsaquo;
-      {{ range .Params.categories }}<a href="/categories/{{ . }}/">{{ . | humanize | title }}</a>{{ end }}
-      &rsaquo; {{ .Title }}
-    </div>
-    {{ if not .Date.IsZero }}<div class="meta">{{ .Date.Format "January 2, 2006" }} &middot; {{ .ReadingTime }} min read &middot; Updated {{ .Lastmod.Format "January 2, 2006" }}</div>{{ end }}
+      {{ range .Params.categories }}
+      <a href="/categories/{{ . }}/">{{ . | humanize | title }}</a> &rsaquo;
+      {{ end }}
+      <span>{{ .Title }}</span>
+    </nav>
     <h1>{{ .Title }}</h1>
-{{ end }}
-    {{ if .Params.affiliate }}
-    <div class="affiliate-disclosure">
-      This article contains affiliate links. We may earn a commission at no extra cost to you.
+    <div class="meta">
+      {{ if not .Date.IsZero }}{{ .Date.Format "January 2, 2006" }}{{ end }}
+      {{ if not .Lastmod.IsZero }} &middot; Updated {{ .Lastmod.Format "January 2, 2006" }}{{ end }}
+      &middot; {{ .ReadingTime }} min read
+      {{ with .Params.author }} &middot; {{ . }}{{ end }}
     </div>
-    {{ end }}
-    {{ .Content }}
-    {{ if .Params.tags }}
-    <div class="tags" style="margin-top:2rem;">
-      {{ range .Params.tags }}<span class="tag">{{ . }}</span>{{ end }}
-    </div>
-    {{ end }}
-
-    {{ if .Params.faq }}
-    <div class="faq-section">
-      <h2>Frequently Asked Questions</h2>
-      {{ range .Params.faq }}
-      <details class="faq-item">
-        <summary>{{ .q }}</summary>
-        <p>{{ .a }}</p>
-      </details>
-      {{ end }}
-    </div>
-    {{ end }}
-
-    <div class="author-box">
-      {{ if .Params.author }}
-      <div class="author-avatar">{{ index (split .Params.author " ") 0 | truncate 1 "" }}{{ index (split .Params.author " ") 1 | truncate 1 "" }}</div>
-      <div class="author-info">
-        <div class="author-name">{{ .Params.author }}</div>
-        <div class="author-bio">{{ with .Params.author_bio }}{{ . }}{{ else }}Expat coach and relocation specialist at Expat Netherlands Hub.{{ end }}</div>
-      </div>
-      {{ else }}
-      <div class="author-avatar">ENH</div>
-      <div class="author-info">
-        <div class="author-name">Expat Netherlands Hub Team</div>
-        <div class="author-bio">Our team of expats and local experts creates practical guides to help you navigate life in the Netherlands.</div>
-      </div>
-      {{ end }}
-    </div>
-
-    {{ $allOther := where (where .Site.RegularPages "Type" "posts") ".Permalink" "ne" .Permalink }}
-    {{ $related := where $allOther ".Params.categories" "intersect" .Params.categories }}
-    {{ if not $related }}{{ $related = $allOther }}{{ end }}
-    {{ $related = first 4 $related }}
-    {{ if $related }}
-    <div class="related-articles">
-      <h3>Related Expat Guides</h3>
-      <ul>
-        {{ range $related }}
-        <li><a href="{{ .RelPermalink }}">{{ .Title }}</a></li>
-        {{ end }}
-      </ul>
-    </div>
-    {{ end }}
-  </article>
+  </div>
 </div>
+{{ end }}
+
+{{/* ── Main layout: article + sidebar ── */}}
+<div class="container">
+  <div class="article-layout">
+
+    {{/* ── ARTICLE COLUMN ── */}}
+    <article class="article-body">
+
+      {{/* Affiliate disclosure */}}
+      {{ if .Params.affiliate }}
+      <div class="affiliate-disclosure">
+        This article contains affiliate links. If you click and make a purchase, we may earn a small commission at no extra cost to you.
+      </div>
+      {{ end }}
+
+      {{/* Main content */}}
+      {{ .Content }}
+
+      {{/* Tags */}}
+      {{ with .Params.tags }}
+      <div class="tags" style="margin-top: 2rem;">
+        {{ range . }}<span class="tag">{{ . }}</span>{{ end }}
+      </div>
+      {{ end }}
+
+      {{/* FAQ section */}}
+      {{ with .Params.faq }}
+      <div class="faq-section">
+        <h2>Frequently Asked Questions</h2>
+        {{ range . }}
+        <details class="faq-item">
+          <summary>{{ .q }}</summary>
+          <p>{{ .a }}</p>
+        </details>
+        {{ end }}
+      </div>
+      {{ end }}
+
+      {{/* Author box */}}
+      <div class="author-box">
+        {{ if .Params.author }}
+        {{ $parts := split .Params.author " " }}
+        <div class="author-avatar">{{ index $parts 0 | truncate 1 "" }}{{ if gt (len $parts) 1 }}{{ index $parts 1 | truncate 1 "" }}{{ end }}</div>
+        <div class="author-info">
+          <div class="author-name">{{ .Params.author }}</div>
+          <div class="author-bio">{{ with .Params.author_bio }}{{ . }}{{ else }}Expat coach and relocation specialist at Expat Netherlands Hub.{{ end }}</div>
+        </div>
+        {{ else }}
+        <div class="author-avatar">ENH</div>
+        <div class="author-info">
+          <div class="author-name">Expat Netherlands Hub Team</div>
+          <div class="author-bio">Our team of expats and local experts creates practical guides to help you navigate life in the Netherlands.</div>
+        </div>
+        {{ end }}
+      </div>
+
+      {{/* Related articles — bottom of article on mobile, mirrors sidebar on desktop */}}
+      {{ $allOther := where (where .Site.RegularPages "Type" "posts") ".Permalink" "ne" .Permalink }}
+      {{ $related := where $allOther ".Params.categories" "intersect" .Params.categories }}
+      {{ if not $related }}{{ $related = $allOther }}{{ end }}
+      {{ $related = first 3 $related }}
+      {{ if $related }}
+      <div class="related-articles related-articles-bottom">
+        <h3>Related Expat Guides</h3>
+        <div class="related-grid">
+          {{ range $related }}
+          <a href="{{ .RelPermalink }}" class="related-card">
+            {{ with .Params.featured_image }}
+            <img src="{{ . }}" alt="{{ $.Title }}" class="related-card-thumb" loading="lazy">
+            {{ end }}
+            <div class="related-card-body">
+              <div class="meta">{{ .Date.Format "January 2, 2006" }}</div>
+              <div class="related-card-title">{{ .Title }}</div>
+            </div>
+          </a>
+          {{ end }}
+        </div>
+      </div>
+      {{ end }}
+
+    </article>
+
+    {{/* ── SIDEBAR ── */}}
+    <aside class="article-sidebar">
+
+      {{/* Table of Contents */}}
+      {{ if .TableOfContents }}
+      <div class="sidebar-widget sidebar-toc">
+        <div class="sidebar-widget-title">In this guide</div>
+        {{ .TableOfContents }}
+      </div>
+      {{ end }}
+
+      {{/* Tool CTA — only if tool_link is set in front matter */}}
+      {{ with .Params.tool_link }}
+      <div class="sidebar-widget sidebar-tool-cta">
+        <div class="sidebar-widget-title">Free Tool</div>
+        <p>{{ with $.Params.tool_description }}{{ . }}{{ else }}Use our free tool to make your move easier.{{ end }}</p>
+        <a href="{{ . }}" class="cta cta-block" target="_blank" rel="noopener noreferrer">
+          Try {{ with $.Params.tool_name }}{{ . }}{{ else }}the free tool{{ end }} &rarr;
+        </a>
+      </div>
+      {{ end }}
+
+      {{/* Related articles in sidebar — visible on desktop only */}}
+      {{ $allOtherSide := where (where .Site.RegularPages "Type" "posts") ".Permalink" "ne" .Permalink }}
+      {{ $relatedSide := where $allOtherSide ".Params.categories" "intersect" .Params.categories }}
+      {{ if not $relatedSide }}{{ $relatedSide = $allOtherSide }}{{ end }}
+      {{ $relatedSide = first 3 $relatedSide }}
+      {{ if $relatedSide }}
+      <div class="sidebar-widget sidebar-related">
+        <div class="sidebar-widget-title">Related Guides</div>
+        <ul class="sidebar-related-list">
+          {{ range $relatedSide }}
+          <li><a href="{{ .RelPermalink }}">{{ .Title }}</a></li>
+          {{ end }}
+        </ul>
+      </div>
+      {{ end }}
+
+      {{/* Email signup */}}
+      <div class="sidebar-widget sidebar-email-signup">
+        <div class="sidebar-widget-title">Free Expat Checklist</div>
+        <p>Get our complete moving-to-NL checklist delivered to your inbox.</p>
+        <form class="sidebar-email-form" action="#" method="post" onsubmit="return false;">
+          <input type="email" name="email" placeholder="your@email.com" required class="sidebar-email-input">
+          <button type="submit" class="cta cta-block">Get the checklist</button>
+        </form>
+      </div>
+
+    </aside>
+  </div>
+</div>
+
 {{ end }}

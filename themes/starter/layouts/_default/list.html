@@ -1,18 +1,113 @@
 {{ define "main" }}
+
+{{/* ── BreadcrumbList JSON-LD ── */}}
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "BreadcrumbList",
+  "itemListElement": [
+    {
+      "@type": "ListItem",
+      "position": 1,
+      "name": "Home",
+      "item": "{{ .Site.BaseURL }}"
+    }{{ if .Parent }},
+    {
+      "@type": "ListItem",
+      "position": 2,
+      "name": "{{ .Parent.Title }}",
+      "item": "{{ .Parent.Permalink }}"
+    },
+    {
+      "@type": "ListItem",
+      "position": 3,
+      "name": "{{ .Title }}",
+      "item": "{{ .Permalink }}"
+    }{{ else }},
+    {
+      "@type": "ListItem",
+      "position": 2,
+      "name": "{{ .Title }}",
+      "item": "{{ .Permalink }}"
+    }{{ end }}
+  ]
+}
+</script>
+
 <div class="container">
-  <h1>{{ .Title }}</h1>
-  {{ .Content }}
-  {{ range .Pages }}
-  {{ $pageTitle := .Title }}
-  <div class="card">
-    {{ with .Params.featured_image }}<img src="{{ . }}" alt="{{ $pageTitle }}" class="card-thumb">{{ end }}
-    <div class="meta">{{ .Date.Format "January 2, 2006" }} &middot; {{ .ReadingTime }} min read</div>
-    <h2><a href="{{ .RelPermalink }}">{{ .Title }}</a></h2>
-    <p>{{ .Summary }}</p>
-    <div class="tags">
-      {{ range .Params.tags }}<span class="tag">{{ . }}</span>{{ end }}
-    </div>
+
+  {{/* ── Breadcrumb ── */}}
+  <nav class="breadcrumb" aria-label="Breadcrumb">
+    <a href="/">Home</a> &rsaquo;
+    {{ if .Parent }}
+    <a href="{{ .Parent.RelPermalink }}">{{ .Parent.Title }}</a> &rsaquo;
+    <span>{{ .Title }}</span>
+    {{ else }}
+    <span>{{ .Title }}</span>
+    {{ end }}
+  </nav>
+
+  {{/* ── Hub page header ── */}}
+  <div class="list-header">
+    <h1>{{ .Title }}{{ if .IsNode }} <span class="list-count">({{ len .Pages }} {{ if eq (len .Pages) 1 }}guide{{ else }}guides{{ end }})</span>{{ end }}</h1>
+    {{ with .Description }}
+    <p class="list-description">{{ . }}</p>
+    {{ end }}
+  </div>
+
+  {{/* ── Hub page editorial content (SEO text above grid) ── */}}
+  {{ with .Content }}
+  <div class="list-content">
+    {{ . }}
   </div>
   {{ end }}
+
+  {{/* ── Article grid ── */}}
+  {{ if .Pages }}
+  <div class="card-grid">
+    {{ range .Pages }}
+    <article class="card card-grid-item">
+      {{/* Thumbnail */}}
+      {{ $cardPage := . }}
+      {{ with .Params.featured_image }}
+      <a href="{{ $cardPage.RelPermalink }}" tabindex="-1" aria-hidden="true">
+        <img src="{{ . }}" alt="{{ $cardPage.Title }}" class="card-thumb" loading="lazy">
+      </a>
+      {{ else }}
+      <div class="card-thumb card-thumb-placeholder"></div>
+      {{ end }}
+
+      <div class="card-body">
+        {{/* Date + reading time */}}
+        <div class="meta">
+          {{ if not .Date.IsZero }}{{ .Date.Format "January 2, 2006" }}{{ end }}
+          &middot; {{ .ReadingTime }} min read
+        </div>
+
+        {{/* Title */}}
+        <h2 class="card-title"><a href="{{ .RelPermalink }}">{{ .Title }}</a></h2>
+
+        {{/* Description / Summary */}}
+        {{ with .Description }}
+        <p class="card-desc">{{ . }}</p>
+        {{ else }}
+        <p class="card-desc">{{ .Summary | truncate 160 }}</p>
+        {{ end }}
+
+        {{/* Tags */}}
+        {{ with .Params.tags }}
+        <div class="tags">
+          {{ range first 3 . }}<span class="tag">{{ . }}</span>{{ end }}
+        </div>
+        {{ end }}
+      </div>
+    </article>
+    {{ end }}
+  </div>
+  {{ else }}
+  <p class="list-empty">No guides published yet. Check back soon.</p>
+  {{ end }}
+
 </div>
+
 {{ end }}
