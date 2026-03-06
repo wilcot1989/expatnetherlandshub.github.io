@@ -38,7 +38,7 @@ Before getting into the practical details, it is worth explaining why Haarlem ke
 
 **Beach access.** Zandvoort is eight kilometres from Haarlem, and in summer the train runs directly from Haarlem Centraal in twelve minutes. On a warm August afternoon that matters more than most people expect. For expats from coastal countries especially, having the North Sea within cycling distance makes a genuine difference to wellbeing.
 
-**The flower fields.** Between late March and early May, the bulb fields around Haarlem and running towards Keukenhof are in bloom. This is not just pretty to look at — it is one of those things that reminds you that the Netherlands has a genuine, distinctive landscape and character. Cycling through those fields on an April morning never completely stops being extraordinary, no matter how many years you have done it.
+**The flower fields.** Between late March and early May, the bulb fields around Haarlem and running towards Keukenhof are in bloom. This is not just pretty to look at — it is one of those things that reminds you that the Netherlands has a genuine, distinctive character all its own. Cycling through those fields on an April morning never completely stops being extraordinary, no matter how many years you have done it.
 
 **Scale.** Haarlem has a population of around 162,000. It is a real city — it has a hospital, a university of applied sciences (Hogeschool Inholland), sports facilities, a cinema, theatres — but you can cycle across it in twenty minutes. You learn the layout quickly. You start recognising people. That sense of being part of a place, rather than anonymous in it, is something Amsterdam rarely offers.
 

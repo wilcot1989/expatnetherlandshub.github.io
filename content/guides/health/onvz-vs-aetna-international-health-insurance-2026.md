@@ -233,7 +233,7 @@ For expats who do not speak Dutch and want a smooth, English-language experience
 - You are **primarily based in the Netherlands** and travel occasionally rather than living a genuinely multi-country life
 - You want **Dutch hospital direct billing** and seamless access to the full range of contracted Dutch healthcare providers
 - You prefer a **Dutch-law regulated product** with Dutch consumer protections and an NZa-supervised claims process
-- Your **budget is more constrained** but you still want comprehensive international-quality coverage
+- Your **budget is more constrained** but you still want strong international-quality coverage
 - You are comfortable dealing with a primarily **Dutch-language insurer** and have sufficient Dutch or are happy using translation tools
 
 ### Choose Aetna International if:

@@ -28,7 +28,7 @@ The Dutch supermarket sector is genuinely competitive and, by European standards
 
 ---
 
-## The Dutch Supermarket Landscape at a Glance
+## The Dutch Supermarket Market at a Glance
 
 The Netherlands has a concentrated grocery market. Albert Heijn dominates with around 35% market share, followed by Jumbo with around 22%. Together they account for well over half of all grocery spending. But the remaining market is contested by budget chains, neighbourhood stores, and regional players — and some of them are genuinely excellent value.
 

@@ -20,7 +20,7 @@ faq:
     a: "American expats face significant restrictions due to US tax law. The main issues are FATCA (Foreign Account Tax Compliance Act) reporting requirements and the PFIC (Passive Foreign Investment Company) rules. Most non-US ETFs and mutual funds are classified as PFICs, and investing in them triggers punitive US tax treatment — often meaning the IRS taxes gains at the highest ordinary income rate plus an interest charge. As a result, US persons in the Netherlands are generally limited to US-listed ETFs (such as those on NYSE Arca) or individual stocks. Interactive Brokers is one of the few platforms that will accept US persons. Before investing anything, US expats should consult a dual-qualified US-Dutch tax advisor."
 ---
 
-When I arrived in the Netherlands from London, I had a modest ISA, a work pension I was not sure what to do with, and a vague sense that I should be "doing something" with money beyond leaving it in a current account. The Dutch tax system turned out to be entirely different from what I knew back home, and the investing landscape — which platforms existed, how gains were taxed, what was even legal — required a complete rethink.
+When I arrived in the Netherlands from London, I had a modest ISA, a work pension I was not sure what to do with, and a vague sense that I should be "doing something" with money beyond leaving it in a current account. The Dutch tax system turned out to be entirely different from what I knew back home, and the investing world — which platforms existed, how gains were taxed, what was even legal — required a complete rethink.
 
 A decade on, I have helped dozens of expat clients sort out their investing approach after moving here. The questions are always similar: Where do I open an account? Will I be taxed on gains? What about my ISA back home? Should I keep investing in my old country? This guide covers what I wish someone had told me in my first year.
 
@@ -212,7 +212,7 @@ If you have investments in your home country — an ISA, a 401(k), a brokerage a
 **Arguments for leaving them where they are:**
 - Tax-advantaged accounts (ISA, 401k, IRA) may lose their advantages if transferred or closed
 - If you plan to return home, keeping assets there avoids unnecessary transfer costs
-- Some accounts are straightforward to maintain from abroad
+- Some accounts are easy to maintain from abroad
 
 **Arguments for consolidating in the Netherlands:**
 - Simpler tax reporting (no foreign accounts to declare in Box 3)
@@ -325,7 +325,7 @@ If you have just arrived in the Netherlands and want to start investing sensibly
 
 ## Final Thoughts
 
-Investing in the Netherlands as an expat is genuinely manageable once you understand the Box 3 framework and the platform landscape. For most people, the practical answer is simpler than they expect: open a DEGIRO or Meesman account, buy a broad global ETF, invest consistently, and stay below or track your Box 3 threshold. Get a tax advisor for year one and make sure you have elected the right status on the 30% ruling if it applies to you.
+Investing in the Netherlands as an expat is genuinely manageable once you understand the Box 3 framework and the platform options available to you. For most people, the practical answer is simpler than they expect: open a DEGIRO or Meesman account, buy a broad global ETF, invest consistently, and stay below or track your Box 3 threshold. Get a tax advisor for year one and make sure you have elected the right status on the 30% ruling if it applies to you.
 
 What it does not require is a complex multi-account strategy, constant trading, or products that were designed for a different country's tax system. The Dutch approach to wealth taxation — taxing a deemed return rather than actual gains — actually removes much of the tax motivation to fiddle with your portfolio. Let it sit, let it grow, and file your Box 3 declaration once a year.
 

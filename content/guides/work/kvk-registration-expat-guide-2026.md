@@ -201,7 +201,7 @@ The KvK offers an online pre-registration process at kvk.nl. You fill in your pe
 
 ### Step 3 — Attend Your Appointment
 
-Arrive on time with your documents. The appointment typically runs 30–60 minutes for a straightforward eenmanszaak.
+Arrive on time with your documents. The appointment typically runs 30–60 minutes for a standard eenmanszaak.
 
 During the appointment, a KvK employee will:
 - Verify your identity documents
@@ -449,7 +449,7 @@ The Dutch system has more support resources for new entrepreneurs than most peop
 
 **KvK Business Desk (Ondernemersdesk):** Free advice from KvK consultants on starting a business. Available in English. Book via kvk.nl.
 
-**Belastingdienst:** Has an English-language section on its website and a phone line for business tax queries. Patient and useful for straightforward questions.
+**Belastingdienst:** Has an English-language section on its website and a phone line for business tax queries. Patient and useful for basic tax questions.
 
 **Qredits:** The Dutch government-backed microcredit organisation offers free coaching for new entrepreneurs, including courses on bookkeeping, tax, and business planning.
 

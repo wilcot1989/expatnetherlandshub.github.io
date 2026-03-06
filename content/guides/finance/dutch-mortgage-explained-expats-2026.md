@@ -360,7 +360,7 @@ For most cities outside the Randstad, NHG is applicable to a larger proportion o
 
 ## Finding the Right Mortgage Advisor
 
-I cannot emphasise this enough: use a qualified, independent mortgage advisor (hypotheekadviseur) who specialises in expats. Not because the system is impossible to navigate alone, but because the difference between a general high-street advisor and a specialist can amount to €50,000–€100,000 in borrowing capacity and tens of thousands in interest saved over the term.
+I cannot emphasise this enough: use a qualified, independent mortgage advisor (hypotheekadviseur) who specialises in expats. Not because the system is impossible to work through alone, but because the difference between a general high-street advisor and a specialist can amount to €50,000–€100,000 in borrowing capacity and tens of thousands in interest saved over the term.
 
 ### What to Look For
 

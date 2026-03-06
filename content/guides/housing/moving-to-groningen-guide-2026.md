@@ -1,7 +1,7 @@
 ---
 title: "Moving to Groningen as an Expat: Complete City Guide 2026"
 date: 2026-03-22T10:00:00+01:00
-description: "Everything expats need to know about moving to Groningen in 2026. Housing costs, neighbourhoods, transport, university life, and why this northern city is worth considering."
+description: "Everything expats need to know about moving to Groningen in 2026. Housing costs, neighbourhoods, transport, university life, and why it is worth considering."
 categories: ["housing"]
 tags: ["Groningen", "city guide", "moving to Groningen", "expat Groningen", "student city"]
 keywords: ["moving to Groningen expat", "Groningen expat guide 2026", "living in Groningen", "Groningen housing"]

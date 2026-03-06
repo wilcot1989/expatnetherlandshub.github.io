@@ -223,7 +223,7 @@ If you are actively learning Dutch, say so. Dutch people genuinely appreciate th
 
 If you qualify for the 30% ruling — a Dutch tax benefit for highly skilled migrants — your LinkedIn profile is one of the places where mentioning it makes practical sense. A brief note in your About section, such as "I currently hold a 30% tax ruling valid until [year]", is useful information for recruiters and hiring managers who are calculating cost packages.
 
-Some recruiters will ask about it in their first message. Being upfront about it saves time and demonstrates that you understand the Dutch employment landscape.
+Some recruiters will ask about it in their first message. Being upfront about it saves time and demonstrates that you understand the Dutch employment market.
 
 If you are unsure whether you qualify, or want to understand how it affects your net salary and negotiating position, our [30% ruling guide](/guides/finance/30-percent-ruling-guide-2026/) explains the full criteria and application process.
 

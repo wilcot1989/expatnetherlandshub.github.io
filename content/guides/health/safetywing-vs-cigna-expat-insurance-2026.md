@@ -15,7 +15,7 @@ faq:
   - q: "Is Cigna Global accepted by Dutch hospitals and GPs?"
     a: "Yes, in most cases. Cigna Global is a well-recognised international insurer and most Dutch private clinics and hospitals are familiar with it. However, the standard Dutch healthcare pathway still applies: you typically register with a huisarts (GP) first and receive a referral before seeing a specialist. Cigna Global does not bypass the GP referral system in practice, even if the policy technically allows direct specialist access. For planned private treatment, always confirm with the clinic in advance that they accept Cigna Global direct billing, as not every provider does."
   - q: "Which is cheaper — SafetyWing or Cigna Global?"
-    a: "SafetyWing is significantly cheaper. A standard SafetyWing Nomad Insurance plan costs roughly $45-60 USD per month for someone under 40, while Cigna Global premiums typically start around EUR 150-200 per month for a basic plan and can exceed EUR 400 per month for comprehensive coverage including the USA. The price difference reflects a fundamental difference in what each product is: SafetyWing covers emergencies and acute illness while travelling; Cigna Global covers ongoing primary care, specialist treatment, chronic conditions, mental health, and much more. You are comparing a travel insurance product with a full international health insurance policy."
+    a: "SafetyWing is significantly cheaper. A standard SafetyWing Nomad Insurance plan costs roughly $45-60 USD per month for someone under 40, while Cigna Global premiums typically start around EUR 150-200 per month for a basic plan and can exceed EUR 400 per month for full coverage including the USA. The price difference reflects a fundamental difference in what each product is: SafetyWing covers emergencies and acute illness while travelling; Cigna Global covers ongoing primary care, specialist treatment, chronic conditions, mental health, and much more. You are comparing a travel insurance product with a full international health insurance policy."
   - q: "What should a digital nomad or remote worker moving to the Netherlands actually do about health insurance?"
     a: "It depends on your legal status. If you register as a resident (ingeschreven in the BRP) and work from the Netherlands — including as a freelancer or ZZP'er — you will generally be required to take out Dutch basisverzekering. In that case, SafetyWing is not sufficient, and Cigna Global, while excellent, also does not substitute for the Dutch legal requirement. You would typically need a Dutch basisverzekering plus optionally an aanvullende verzekering (supplementary plan) for extras. If you are genuinely nomadic, spending fewer than four months per year in the Netherlands without registering as a resident, SafetyWing may be a practical short-term option — but once you register and intend to stay, you must sort out the Dutch system."
 ---
@@ -112,7 +112,7 @@ For an overview of how these costs compare with mainstream options, the [best ex
 
 **SafetyWing** covers hospitalisation due to acute illness or injury, emergency surgery, and emergency evacuation. The coverage limits are meaningful — up to $250,000 USD per policy period for most plans — but there are restrictions. Pre-existing conditions are generally excluded. There is a per-illness deductible of $250. Chronic and ongoing conditions are not covered.
 
-**Cigna Global** covers hospitalisation comprehensively across its range of plans. There are no per-illness caps on higher-tier plans. Emergency care, planned surgery, and specialist treatment in hospital are all included. The inpatient coverage on Cigna Global is genuinely robust and would not leave you facing large uncovered bills for a serious condition.
+**Cigna Global** covers hospitalisation fully across its range of plans. There are no per-illness caps on higher-tier plans. Emergency care, planned surgery, and specialist treatment in hospital are all included. The inpatient coverage on Cigna Global is genuinely robust and would not leave you facing large uncovered bills for a serious condition.
 
 **Verdict on hospital cover:** Cigna Global is significantly stronger. For a major illness or surgery, SafetyWing may leave gaps that matter.
 
@@ -173,7 +173,7 @@ For an overview of how these costs compare with mainstream options, the [best ex
 | **Product type** | Travel/emergency insurance | International private medical insurance |
 | **Target user** | Digital nomads, short-term travellers | Expats, assignees, globally mobile professionals |
 | **Monthly cost (est. under 40)** | ~$45–60 USD | ~EUR 150–300 |
-| **Emergency hospitalisation** | Yes (up to $250k) | Yes (comprehensive) |
+| **Emergency hospitalisation** | Yes (up to $250k) | Yes (full cover) |
 | **GP / primary care** | No | Yes (on most plans) |
 | **Specialist / outpatient** | Emergency-related only | Yes (plan dependent) |
 | **Dental** | Emergency only | Optional add-on |
@@ -194,17 +194,17 @@ For an overview of how these costs compare with mainstream options, the [best ex
 
 ### SafetyWing Claims
 
-SafetyWing operates a reimbursement model for most claims — you pay upfront and submit receipts for reimbursement. The claims process is online and relatively simple for straightforward cases, with a $250 deductible applying per claim. Response times vary; simple claims can be processed in a few days, but more complex ones can take weeks. Customer service is primarily chat and email-based, which works well for standard queries but can feel slow in urgent situations.
+SafetyWing operates a reimbursement model for most claims — you pay upfront and submit receipts for reimbursement. The claims process is online and relatively simple for routine cases, with a $250 deductible applying per claim. Response times vary; simple claims can be processed in a few days, but more complex ones can take weeks. Customer service is primarily chat and email-based, which works well for standard queries but can feel slow in urgent situations.
 
 For emergency hospitalisation, SafetyWing can arrange direct payment to hospitals in some cases, but this is not guaranteed, and you should not assume it will happen automatically.
 
 ### Cigna Global Claims
 
-Cigna Global offers both direct billing and reimbursement. For planned treatment at a network provider, direct billing is generally available — the insurer pays the hospital or clinic directly and you simply show your insurance card. For reimbursement claims, the MyCigna portal and app make it straightforward to submit invoices and track status.
+Cigna Global offers both direct billing and reimbursement. For planned treatment at a network provider, direct billing is generally available — the insurer pays the hospital or clinic directly and you simply show your insurance card. For reimbursement claims, the MyCigna portal and app make it easy to submit invoices and track status.
 
 Cigna has a 24/7 medical helpline that can authorise treatment and help you find network providers. For a serious medical situation, having a team to call who can help arrange everything is genuinely valuable — particularly when you are in a foreign country and may not speak Dutch fluently. Pre-authorisation is required for elective surgery and some specialist treatments; in my experience this is standard for international insurers at this level.
 
-**Verdict on claims:** Cigna Global offers a meaningfully better claims experience, particularly for anything more complex than a standard emergency. SafetyWing is functional for straightforward cases.
+**Verdict on claims:** Cigna Global offers a meaningfully better claims experience, particularly for anything more complex than a standard emergency. SafetyWing is functional for simple cases.
 
 ---
 
@@ -212,7 +212,7 @@ Cigna has a 24/7 medical helpline that can authorise treatment and help you find
 
 **SafetyWing** has a functional mobile app and online member portal. You can manage your subscription, view your coverage, and submit claims. It is not particularly polished but it works.
 
-**MyCigna** (Cigna's member portal and app) is more comprehensive. You can search for network providers, view your benefits in detail, submit and track claims, access your digital insurance card, and contact customer support. For a premium product at this price point, the digital experience is what you would expect.
+**MyCigna** (Cigna's member portal and app) is more feature-rich. You can search for network providers, view your benefits in detail, submit and track claims, access your digital insurance card, and contact customer support. For a premium product at this price point, the digital experience is what you would expect.
 
 ---
 
@@ -264,7 +264,7 @@ SafetyWing and Cigna Global are both legitimate products — but they serve very
 
 <a href="https://safetywing.com/?referenceID=digitalshieldpro" rel="nofollow sponsored" target="_blank">SafetyWing</a> is affordable, flexible, and genuinely useful for the nomad or short-stay traveller who needs emergency coverage without committing to a long-term policy. It is not a health insurance plan. It will not cover your GP visits, your prescriptions, your mental health therapy, or your pregnancy. If you are living in the Netherlands as a registered resident, it is not a legal substitute for basisverzekering.
 
-Cigna Global is a proper international health insurance product with strong coverage, a good global network, and the customer service infrastructure to handle serious medical situations well. It is also expensive. For expats who are genuinely legally exempt from the Dutch system and want comprehensive private coverage, it is one of the better options in the market.
+Cigna Global is a proper international health insurance product with strong coverage, a good global network, and the customer service infrastructure to handle serious medical situations well. It is also expensive. For expats who are genuinely legally exempt from the Dutch system and want full-spectrum private coverage, it is one of the better options in the market.
 
 For the majority of expats settling in the Netherlands — registering, getting a BSN, starting work — neither of these products is the primary answer. Dutch basisverzekering is. The question then becomes whether to add a supplementary plan on top, and which one.
 
