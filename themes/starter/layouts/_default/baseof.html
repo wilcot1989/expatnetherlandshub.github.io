@@ -353,38 +353,45 @@
     /* Dropdown columns */
     .mega-cols {
       display: grid;
-      gap: 1.5rem;
+      gap: 1.75rem;
     }
-    .mega-cols-3 { grid-template-columns: repeat(3, 1fr); }
+    .mega-cols-3 { grid-template-columns: repeat(3, minmax(160px, 1fr)); }
     .mega-cols-1 { grid-template-columns: 1fr; }
     .mega-col-title {
       font-family: 'DM Sans', sans-serif;
-      font-size: 0.75rem;
+      font-size: 0.72rem;
       font-weight: 700;
-      letter-spacing: 0.07em;
+      letter-spacing: 0.08em;
       text-transform: uppercase;
       color: var(--expat-primary);
-      margin-bottom: 0.6rem;
+      margin-bottom: 0.5rem;
+      padding-left: 1.1rem;
     }
     .mega-col ul { list-style: none; margin: 0; padding: 0; }
-    .mega-col ul li { margin-bottom: 0.3rem; }
+    .mega-col ul li { margin-bottom: 0.15rem; }
     .mega-col ul li a {
       font-size: 0.9rem;
       color: var(--expat-text);
-      display: flex;
-      align-items: center;
-      gap: 0.4rem;
-      padding: 0.25rem 0;
-      transition: color 0.15s;
+      display: block;
+      padding: 0.35rem 0.65rem;
+      padding-left: 1.1rem;
+      border-radius: 6px;
+      transition: color 0.15s, background 0.15s;
+      text-decoration: none;
+      position: relative;
+      line-height: 1.35;
     }
-    .mega-col ul li a:hover { color: var(--expat-primary); text-decoration: none; }
+    .mega-col ul li a:hover { color: var(--expat-primary); background: #F0FDF4; text-decoration: none; }
     .mega-col ul li a::before {
       content: '';
       width: 5px;
       height: 5px;
       border-radius: 50%;
       background: var(--expat-accent);
-      flex-shrink: 0;
+      position: absolute;
+      left: 0;
+      top: 50%;
+      transform: translateY(-50%);
     }
 
     /* Cities pills in dropdown */
@@ -1202,11 +1209,12 @@
                 </ul>
               </div>
               <div class="mega-col">
-                <div class="mega-col-title">Living in NL</div>
+                <div class="mega-col-title">Insurance &amp; Banking</div>
                 <ul>
                   <li><a href="/tools/health-insurance-wizard/">Health Insurance Wizard</a></li>
                   <li><a href="/tools/bank-account-chooser/">Bank Account Chooser</a></li>
-                  <li><a href="/tools/insurance-chooser/">Insurance Chooser</a></li>
+                  <li><a href="/tools/insurance-chooser/">Expat Insurance Chooser</a></li>
+                  <li><a href="/tools/">All Tools &rarr;</a></li>
                 </ul>
               </div>
             </div>
@@ -1219,21 +1227,26 @@
           <div class="mega-menu" role="region" aria-label="Guides menu">
             <div class="mega-cols mega-cols-3">
               <div class="mega-col">
+                <div class="mega-col-title">Money &amp; Admin</div>
                 <ul>
-                  <li><a href="/categories/finance/">Finance &amp; Tax</a></li>
-                  <li><a href="/categories/health/">Health &amp; Insurance</a></li>
+                  <li><a href="/guides/finance/">Finance &amp; Tax</a></li>
+                  <li><a href="/guides/legal/">Visa &amp; Legal</a></li>
+                  <li><a href="/guides/work/">Work &amp; Career</a></li>
                 </ul>
               </div>
               <div class="mega-col">
+                <div class="mega-col-title">Living in NL</div>
                 <ul>
-                  <li><a href="/categories/housing/">Housing &amp; Living</a></li>
-                  <li><a href="/categories/relocation/">Legal &amp; Registration</a></li>
+                  <li><a href="/guides/housing/">Housing &amp; Cities</a></li>
+                  <li><a href="/guides/health/">Health &amp; Insurance</a></li>
+                  <li><a href="/guides/daily-life/">Daily Life</a></li>
                 </ul>
               </div>
               <div class="mega-col">
+                <div class="mega-col-title">Settling In</div>
                 <ul>
-                  <li><a href="/categories/work/">Work &amp; Career</a></li>
-                  <li><a href="/categories/language/">Integration</a></li>
+                  <li><a href="/guides/integration/">Integration &amp; Language</a></li>
+                  <li><a href="/guides/">All Guides &rarr;</a></li>
                 </ul>
               </div>
             </div>
