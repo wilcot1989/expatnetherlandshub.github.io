@@ -1,6 +1,7 @@
 ---
 title: "DigiD for Expats 2026: What It Is and How to Get It"
 date: 2026-03-06T10:00:00+01:00
+lastmod: 2026-03-06T10:00:00+01:00
 description: "Everything expats need to know about DigiD in the Netherlands: what it is, why you need it, how to apply step by step, and setting up the DigiD app."
 categories: ["daily-life"]
 tags: ["DigiD", "digital identity", "Dutch bureaucracy", "government services", "BSN"]
@@ -10,7 +11,7 @@ author: "Sarah van den Berg"
 author_bio: "Expat coach and relocation specialist. Half Dutch, half British, living in the Netherlands for over 10 years."
 featured_image: "/images/categories/daily-life.svg"
 aliases:
-  - /posts/digid-guide-expats-2026/
+  - /guides/legal/digid-guide-expats-2026/
 faq:
   - q: "What is DigiD?"
     a: "DigiD (Digital Identity) is the Dutch government's online identification system. It is a username and password that verifies your identity when accessing government services online, similar to a digital passport for the internet. You need it to file taxes, access healthcare portals, check your pension, and interact with most government agencies."
@@ -29,7 +30,7 @@ faq:
 The first time someone asked me "Do you have a DigiD?" I had absolutely no idea what they were talking about. Turns out, it is the key to basically everything official in the Netherlands -- taxes, health insurance, subsidies, you name it. I put off setting mine up for weeks and regretted it immediately. Do not make my mistake. Here is how to get your DigiD sorted quickly and painlessly.
 
 
-Just arrived? Start with our [complete guide to moving to the Netherlands](/posts/complete-guide-moving-to-netherlands-2026/).
+Just arrived? Start with our [complete guide to moving to the Netherlands](/guides/legal/complete-guide-moving-to-netherlands-2026/).
 
 ## What Is DigiD?
 
@@ -139,7 +140,7 @@ Most government services require at least "Midden" level (SMS verification).
 
 ### Filing Your Tax Return
 
-Every year (typically March-April), you file your Dutch tax return at **mijn.belastingdienst.nl** using DigiD. The system pre-fills much of your information. Learn more in our [Dutch tax system guide](/posts/dutch-tax-system-expats-guide-2026/).
+Every year (typically March-April), you file your Dutch tax return at **mijn.belastingdienst.nl** using DigiD. The system pre-fills much of your information. Learn more in our [Dutch tax system guide](/guides/finance/dutch-tax-system-expats-guide-2026/).
 
 ### Applying for Toeslagen (Subsidies)
 
@@ -153,7 +154,7 @@ All applications go through **toeslagen.nl**, which requires DigiD.
 
 ### Checking Your Health Insurance
 
-Access **mijnverzekerdegegevens.nl** to verify your health insurance status, check your deductible usage, and see which care costs have been declared. Compare plans using <a href="https://www.awin1.com/awclick.php?mid=8558&id=2776410" rel="nofollow sponsored" target="_blank">Independer.nl</a>. Read our [health insurance guide](/posts/dutch-health-insurance-guide-expats-2026/).
+Access **mijnverzekerdegegevens.nl** to verify your health insurance status, check your deductible usage, and see which care costs have been declared. Compare plans using <a href="https://www.awin1.com/awclick.php?mid=8558&id=2776410" rel="nofollow sponsored" target="_blank">Independer.nl</a>. Read our [health insurance guide](/guides/health/dutch-health-insurance-guide-expats-2026/).
 
 ### MijnOverheid — Your Digital Mailbox
 
@@ -318,9 +319,9 @@ For more on setting up your Dutch digital life after DigiD, see our [expat tax r
 - **[Complete Guide to Moving to the Netherlands](/guides/legal/complete-guide-moving-to-netherlands-2026/)** — The complete relocation guide
 - **[BSN Planner](/tools/bsn-planner/)** — Step-by-step BSN registration
 - **[Expat Tax Return Netherlands](/guides/finance/expat-tax-return-netherlands-2026/)** — Filing with DigiD
-- **[Dutch Health Insurance for Expats](/posts/dutch-health-insurance-guide-expats-2026/)** — You'll need DigiD to manage your insurance
-- **[Dutch Tax System Explained](/posts/dutch-tax-system-expats-guide-2026/)** — Filing taxes with DigiD
-- **[Best Bank Accounts for Expats](/posts/best-bank-account-expats-netherlands-2026/)** — Setting up your finances
+- **[Dutch Health Insurance for Expats](/guides/health/dutch-health-insurance-guide-expats-2026/)** — You'll need DigiD to manage your insurance
+- **[Dutch Tax System Explained](/guides/finance/dutch-tax-system-expats-guide-2026/)** — Filing taxes with DigiD
+- **[Best Bank Accounts for Expats](/guides/finance/best-bank-account-expats-netherlands-2026/)** — Setting up your finances
 
 ---
 

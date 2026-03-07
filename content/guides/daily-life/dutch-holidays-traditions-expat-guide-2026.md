@@ -1,7 +1,8 @@
 ---
 title: "Dutch Holidays and Traditions 2026: What Every Expat Should Know"
 date: 2026-04-25T10:00:00+01:00
-description: "Complete guide to Dutch holidays, traditions, and cultural events for expats. King's Day, Sinterklaas, Carnival, public holidays, and work-free days in 2026."
+lastmod: 2026-04-25T10:00:00+01:00
+description: "Complete guide to Dutch holidays and traditions for expats. King's Day, Sinterklaas, Carnival, and all public holidays in 2026."
 categories: ["culture"]
 tags: ["Dutch holidays", "King's Day", "Sinterklaas", "Dutch traditions", "public holidays"]
 keywords: ["Dutch holidays 2026", "Netherlands public holidays", "King's Day guide", "Dutch traditions expats"]
@@ -10,7 +11,7 @@ author: "Sarah van den Berg"
 author_bio: "Expat coach and relocation specialist. Half Dutch, half British, living in the Netherlands for over 10 years."
 featured_image: "/images/categories/culture.svg"
 aliases:
-  - /posts/dutch-holidays-traditions-expat-guide-2026/
+  - /guides/daily-life/dutch-holidays-traditions-expat-guide-2026/
 faq:
   - q: "How many public holidays does the Netherlands have?"
     a: "The Netherlands has approximately 8-10 public holidays per year, though not all are official days off by law. Most employers give 7-8 days off: New Year's Day, King's Day (Apr 27), Good Friday (varies), Easter Monday, Liberation Day (May 5, once every 5 years), Ascension Day, Whit Monday, Christmas Day, and Boxing Day."
@@ -29,7 +30,7 @@ faq:
 My first King's Day in the Netherlands, I walked outside in a normal outfit and was immediately swallowed by a sea of orange. Thousands of people in orange wigs, orange suits, orange face paint -- selling old junk on blankets and dancing on boats in the canals. Nobody had warned me. That is the thing about Dutch holidays: they are wonderfully bizarre, and as a half-Dutch person who grew up in the UK, even I was caught off guard. Here is your heads-up for every major holiday and tradition so you will not be surprised by a closed supermarket or an unexpected orange invasion.
 
 
-New to the Netherlands? Start with our [complete expat guide](/posts/moving-to-netherlands-guide-2026/).
+New to the Netherlands? Start with our [complete expat guide](/guides/legal/complete-guide-moving-to-netherlands-2026/).
 
 ## Public Holidays 2026
 
@@ -181,7 +182,7 @@ Dutch employment contracts typically include more leave than most expats expect.
 
 **Liberation Day (May 5):** Officially a national holiday every year, but only a *paid* day off once every five years (next: 2030). However, many employers grant it annually as a company benefit. Check your collective labor agreement (CAO) or employment contract.
 
-For a broader picture of your finances as an employee in the Netherlands, read our [Dutch tax system guide](/posts/dutch-tax-system-expats-guide-2026/) and check the [30% ruling](/posts/30-percent-ruling-netherlands-2026/) if you were hired from abroad.
+For a broader picture of your finances as an employee in the Netherlands, read our [Dutch tax system guide](/guides/finance/dutch-tax-system-expats-guide-2026/) and check the [30% ruling](/guides/finance/30-percent-ruling-netherlands-2026/) if you were hired from abroad.
 
 Heading abroad during a Dutch public holiday? Use our tools to check what your cost of living looks like month-to-month — including those May vakantiegeld months when your budget looks very different.
 
@@ -283,11 +284,11 @@ For getting around during public holidays — especially if you want to explore 
 
 ## Explore More Expat Guides
 
-- **[Complete Guide to Moving to the Netherlands](/posts/moving-to-netherlands-guide-2026/)** — Getting started
+- **[Complete Guide to Moving to the Netherlands](/guides/legal/complete-guide-moving-to-netherlands-2026/)** — Getting started
 - **[Cost of Living Netherlands](/guides/housing/cost-of-living-netherlands-2026/)** — Budget planning
 - **[Cycling in the Netherlands](/guides/daily-life/cycling-netherlands-expat-guide-2026/)** — Getting around on holidays
 - **[Inburgeringsexamen Preparation](/guides/integration/inburgeringsexamen-preparation-guide-2026/)** — Dutch culture and society
-- **[Dutch Childcare Guide](/posts/dutch-childcare-expat-guide-2026/)** — School holidays planning
+- **[Dutch Childcare Guide](/guides/daily-life/dutch-childcare-expat-guide-2026/)** — School holidays planning
 
 ---
 

@@ -1,6 +1,7 @@
 ---
 title: "Moving to Amsterdam 2026: The Ultimate Expat Guide"
 date: 2026-03-06T12:00:00+01:00
+lastmod: 2026-03-06T12:00:00+01:00
 description: "Everything you need to know about moving to Amsterdam in 2026. Housing, neighborhoods, registration, costs, transport, and practical tips for expats."
 categories: ["relocation"]
 tags: ["amsterdam", "moving to amsterdam", "amsterdam expat", "amsterdam neighborhoods", "amsterdam housing", "relocation"]
@@ -10,7 +11,7 @@ author: "Sarah van den Berg"
 author_bio: "Expat coach and relocation specialist. Half Dutch, half British, living in the Netherlands for over 10 years."
 featured_image: "/images/categories/relocation.svg"
 aliases:
-  - /posts/moving-to-amsterdam-guide-2026/
+  - /guides/housing/moving-to-amsterdam-guide-2026/
 faq:
   - q: "How much does it cost to live in Amsterdam?"
     a: "A single expat should budget approximately EUR 2,200-3,500 per month excluding rent. Rent for a one-bedroom apartment ranges from EUR 1,200-2,000 in the city center and EUR 900-1,500 outside the center. A couple should budget EUR 3,000-5,000 per month excluding rent. These figures include health insurance, groceries, transport, and utilities."
@@ -30,7 +31,7 @@ faq:
 
 Amsterdam is where I landed when I first moved to the Netherlands, and I have a complicated relationship with it. I love the canals, the energy, the fact that you can cycle everywhere. I do not love the housing prices, the tourist crowds in the Centrum, or the time I spent three months looking for an apartment and nearly gave up. But there is a reason most expats are drawn here, and once you are settled, it is a brilliant city to call home. Here is the honest guide I wish I had when I arrived.
 
-For a broader perspective on moving to the Netherlands as a whole, read our [Complete Guide to Moving to the Netherlands 2026](/posts/complete-guide-moving-to-netherlands-2026/).
+For a broader perspective on moving to the Netherlands as a whole, read our [Complete Guide to Moving to the Netherlands 2026](/guides/legal/complete-guide-moving-to-netherlands-2026/).
 
 
 ## Before You Move: Key Preparation
@@ -43,16 +44,16 @@ Your visa requirements depend on your nationality:
 - **Non-EU citizens**: You typically need a work permit, sponsored by your employer. The most common routes are the Highly Skilled Migrant visa (kennismigrant) and the EU Blue Card.
 - **Self-employed**: You can apply for a self-employment visa, but the requirements are strict.
 
-If you qualify for the 30% ruling, a significant portion of your salary is tax-free. Read our detailed guide on the [30% Ruling in the Netherlands 2026](/posts/30-percent-ruling-netherlands-2026/).
+If you qualify for the 30% ruling, a significant portion of your salary is tax-free. Read our detailed guide on the [30% Ruling in the Netherlands 2026](/guides/finance/30-percent-ruling-netherlands-2026/).
 
 ### Financial Preparation
 
 Before arriving in Amsterdam:
 
-1. **Open a <a href="https://wise.com/invite/ihpc/willemt52" rel="nofollow sponsored" target="_blank">Wise account</a>** to get a Dutch IBAN before you arrive. This allows you to receive salary payments and set up direct debits from day one. Read my guide on the [best bank accounts for expats](/posts/best-bank-account-expats-netherlands-2026/).
+1. **Open a <a href="https://wise.com/invite/ihpc/willemt52" rel="nofollow sponsored" target="_blank">Wise account</a>** to get a Dutch IBAN before you arrive. This allows you to receive salary payments and set up direct debits from day one. Read my guide on the [best bank accounts for expats](/guides/finance/best-bank-account-expats-netherlands-2026/).
 2. **Budget for upfront housing costs**: Expect to pay 2-3 months' rent upfront (first month plus deposit). For an average Amsterdam apartment, that means EUR 2,400-6,000 available immediately.
-3. **Arrange health insurance**: Dutch health insurance (zorgverzekering) is mandatory. Research options before arriving. See our [Dutch health insurance guide for expats](/posts/dutch-health-insurance-guide-expats-2026/).
-4. **Transfer money at good rates**: Use <a href="https://wise.com/invite/ihpc/willemt52" rel="nofollow sponsored" target="_blank">Wise</a> or a similar service for international transfers instead of traditional banks. Read our [international money transfer guide](/posts/best-international-money-transfer-netherlands-2026/).
+3. **Arrange health insurance**: Dutch health insurance (zorgverzekering) is mandatory. Research options before arriving. See our [Dutch health insurance guide for expats](/guides/health/dutch-health-insurance-guide-expats-2026/).
+4. **Transfer money at good rates**: Use <a href="https://wise.com/invite/ihpc/willemt52" rel="nofollow sponsored" target="_blank">Wise</a> or a similar service for international transfers instead of traditional banks. Read our [international money transfer guide](/guides/finance/best-international-money-transfer-netherlands-2026/).
 
 <a href="https://wise.com/invite/ihpc/willemt52" class="cta" rel="nofollow sponsored" target="_blank">Open Your Free Wise Account Before Moving to Amsterdam</a>
 
@@ -79,7 +80,7 @@ Key statistics for 2026:
 - **Facebook groups**: "Amsterdam Apartments for Rent" and similar groups can yield results.
 - **Relocation agents**: Consider hiring an agent if budget allows (fee is typically one month's rent).
 
-For more detail, read our complete guide to [finding housing in the Netherlands as an expat](/posts/finding-housing-netherlands-expats-2026/).
+For more detail, read our complete guide to [finding housing in the Netherlands as an expat](/guides/housing/finding-housing-netherlands-expats-2026/).
 
 ### Tips for Success
 
@@ -173,7 +174,7 @@ After registration, apply for a DigiD -- your digital identity for Dutch governm
 
 ### Health Insurance
 
-Dutch health insurance is mandatory from the day you start working. You have 4 months after registration to arrange it. Read our [Dutch health insurance guide for expats](/posts/dutch-health-insurance-guide-expats-2026/) for a detailed comparison.
+Dutch health insurance is mandatory from the day you start working. You have 4 months after registration to arrange it. Read our [Dutch health insurance guide for expats](/guides/health/dutch-health-insurance-guide-expats-2026/) for a detailed comparison.
 
 ---
 
@@ -198,7 +199,7 @@ Amsterdam has an excellent public transport network:
 - **Bus**: Extensive network covering the entire city and region
 - **Ferry**: Free ferries across the IJ river to Amsterdam-Noord
 
-All public transport uses the OV-chipkaart. Read our [OV-chipkaart guide for expats](/posts/ov-chipkaart-guide-expats-2026/) for setup instructions.
+All public transport uses the OV-chipkaart. Read our [OV-chipkaart guide for expats](/guides/daily-life/ov-chipkaart-guide-expats-2026/) for setup instructions.
 
 ### Car
 
@@ -219,7 +220,7 @@ Having a car in Amsterdam is generally unnecessary and expensive. Parking costs 
 | Internet & phone | EUR 50-70 | EUR 50-70 |
 | **Total (excl. rent)** | **EUR 770-1,190** | **EUR 1,190-1,810** |
 
-For a detailed breakdown, read our [Cost of Living in the Netherlands 2026](/posts/cost-of-living-netherlands-2026/) guide.
+For a detailed breakdown, read our [Cost of Living in the Netherlands 2026](/guides/housing/cost-of-living-netherlands-2026/) guide.
 
 ---
 
@@ -237,7 +238,7 @@ Amsterdam is a major hub for:
 
 ### The 30% Ruling
 
-If you meet the requirements, the 30% ruling allows your employer to pay 30% of your salary tax-free as a reimbursement for extraterritorial costs. This effectively reduces your income tax significantly. Read our detailed [30% ruling guide](/posts/30-percent-ruling-netherlands-2026/).
+If you meet the requirements, the 30% ruling allows your employer to pay 30% of your salary tax-free as a reimbursement for extraterritorial costs. This effectively reduces your income tax significantly. Read our detailed [30% ruling guide](/guides/finance/30-percent-ruling-netherlands-2026/).
 
 ### Networking
 
@@ -255,9 +256,9 @@ Amsterdam has a vibrant professional networking scene:
 
 While Amsterdam is highly English-friendly, learning Dutch enriches your experience and demonstrates respect for local culture. It also opens career opportunities outside the international bubble.
 
-- Read my guide on the [best apps to learn Dutch](/posts/best-apps-learn-dutch-2026/)
-- Compare [Babbel vs Duolingo for learning Dutch](/posts/babbel-vs-duolingo-learn-dutch-2026/)
-- Explore [Dutch language courses](/posts/best-dutch-language-courses-2026/)
+- Read my guide on the [best apps to learn Dutch](/guides/integration/best-apps-learn-dutch-2026/)
+- Compare [Babbel vs Duolingo for learning Dutch](/guides/integration/babbel-vs-duolingo-learn-dutch-2026/)
+- Explore [Dutch language courses](/guides/integration/best-dutch-language-courses-2026/)
 
 ---
 
@@ -287,9 +288,9 @@ Amsterdam offers a rich cultural life:
 
 ## Practical Checklist: First 30 Days in Amsterdam
 
-1. **Week 1**: Register at the gemeente, receive your BSN, open a [Dutch bank account](/posts/best-bank-account-expats-netherlands-2026/)
-2. **Week 1-2**: Arrange [health insurance](/posts/dutch-health-insurance-guide-expats-2026/), buy a bicycle, get an OV-chipkaart
-3. **Week 2-3**: Apply for DigiD, set up [internet at home](/posts/best-internet-providers-netherlands-2026/), get a [Dutch SIM card](/posts/best-sim-card-netherlands-expats-2026/)
+1. **Week 1**: Register at the gemeente, receive your BSN, open a [Dutch bank account](/guides/finance/best-bank-account-expats-netherlands-2026/)
+2. **Week 1-2**: Arrange [health insurance](/guides/health/dutch-health-insurance-guide-expats-2026/), buy a bicycle, get an OV-chipkaart
+3. **Week 2-3**: Apply for DigiD, set up [internet at home](/guides/daily-life/best-internet-providers-netherlands-2026/), get a [Dutch SIM card](/guides/daily-life/best-sim-card-netherlands-expats-2026/)
 4. **Week 3-4**: Explore your neighborhood, join a Dutch language class, attend an expat meetup
 5. **Ongoing**: Learn Dutch, build your social network, explore the city and the rest of the Netherlands
 
@@ -350,6 +351,6 @@ Amsterdam has good options for expat banking — Bunq, Revolut (Dutch IBAN), ING
 
 Amsterdam is an outstanding city for expats who value culture, cycling, and an international environment. The challenges are real -- housing is expensive and competitive, the weather is not always pleasant, and building deep social connections takes time. But for most expats, the quality of life, career opportunities, and the experience of living in one of Europe's most vibrant cities more than compensate.
 
-Start your Amsterdam journey by reading our [Complete Guide to Moving to the Netherlands 2026](/posts/complete-guide-moving-to-netherlands-2026/) for the full relocation roadmap, set up your finances with <a href="https://wise.com/invite/ihpc/willemt52" rel="nofollow sponsored" target="_blank">Wise</a> before you arrive, and use the [housing budget checker](/tools/housing-budget-checker/) to make sure your Amsterdam rent is genuinely sustainable.
+Start your Amsterdam journey by reading our [Complete Guide to Moving to the Netherlands 2026](/guides/legal/complete-guide-moving-to-netherlands-2026/) for the full relocation roadmap, set up your finances with <a href="https://wise.com/invite/ihpc/willemt52" rel="nofollow sponsored" target="_blank">Wise</a> before you arrive, and use the [housing budget checker](/tools/housing-budget-checker/) to make sure your Amsterdam rent is genuinely sustainable.
 
 Welcome to Amsterdam.

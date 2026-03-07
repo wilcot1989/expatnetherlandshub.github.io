@@ -1,7 +1,8 @@
 ---
 title: "Best Gyms and Fitness Options in the Netherlands 2026"
 date: 2026-04-28T10:00:00+01:00
-description: "Complete guide to gyms and fitness in the Netherlands for expats. Best gym chains, pricing, outdoor fitness, sports clubs, and how to stay active in the Dutch way."
+lastmod: 2026-04-28T10:00:00+01:00
+description: "Complete guide to gyms and fitness in the Netherlands for expats. Best gym chains, pricing, sports clubs, and how to stay active the Dutch way."
 categories: ["lifestyle"]
 tags: ["gym Netherlands", "fitness", "sports club", "Basic-Fit", "expat fitness"]
 keywords: ["best gym Netherlands", "fitness Netherlands expat", "gym membership NL", "sports clubs Netherlands"]
@@ -10,7 +11,7 @@ author: "Sarah van den Berg"
 author_bio: "Expat coach and relocation specialist. Half Dutch, half British, living in the Netherlands for over 10 years."
 featured_image: "/images/categories/lifestyle.svg"
 aliases:
-  - /posts/best-gyms-fitness-netherlands-2026/
+  - /guides/daily-life/best-gyms-fitness-netherlands-2026/
 faq:
   - q: "How much does a gym membership cost in the Netherlands?"
     a: "Gym membership costs range from €15-€80/month. Budget gyms: Basic-Fit (€20-€30), Fit For Free (€15-€25). Mid-range: Trainmore (€30-€50), Sportcity (€35-€50). Premium: David Lloyd (€80-€120), Virgin Active (€60-€80). Most gyms have no registration fee if you commit to 12 months."
@@ -160,7 +161,7 @@ The Netherlands has an underrated outdoor fitness scene that costs nothing:
 - **Zwemwater.nl:** Find safe open-water swimming spots during summer. Free, and a quintessentially Dutch experience
 - **Cycle-training routes:** The Utrechtse Heuvelrug and Veluwe are the closest thing to mountains in the Netherlands — great for serious cyclists looking for a challenge
 
-For transport between fitness spots, read our [OV-chipkaart guide](/posts/ov-chipkaart-guide-expats-2026/) — it covers how to get around by public transport cheaply.
+For transport between fitness spots, read our [OV-chipkaart guide](/guides/daily-life/ov-chipkaart-guide-expats-2026/) — it covers how to get around by public transport cheaply.
 
 If you stream workouts, music, or podcasts while at the gym, NordVPN also unlocks content from your home country — useful for keeping your favorite fitness apps and channels when the Dutch geo-restrictions kick in.
 
@@ -226,9 +227,9 @@ For a broader view of Dutch fitness culture and free alternatives, check our [cy
 
 - **[Cost of Living Netherlands](/guides/housing/cost-of-living-netherlands-2026/)** — Budget planning
 - **[Cycling in the Netherlands](/guides/daily-life/cycling-netherlands-expat-guide-2026/)** — Your daily workout
-- **[Best Coworking Spaces](/posts/best-coworking-spaces-netherlands-2026/)** — Work-life balance
-- **[Dutch Holidays and Traditions](/posts/dutch-holidays-traditions-expat-guide-2026/)** — Cultural calendar
-- **[Dutch Health Insurance](/posts/dutch-health-insurance-expats-2026/)** — Some policies cover gym
+- **[Best Coworking Spaces](/guides/work/best-coworking-spaces-netherlands-2026/)** — Work-life balance
+- **[Dutch Holidays and Traditions](/guides/daily-life/dutch-holidays-traditions-expat-guide-2026/)** — Cultural calendar
+- **[Dutch Health Insurance](/guides/health/dutch-health-insurance-guide-expats-2026/)** — Some policies cover gym
 
 ---
 

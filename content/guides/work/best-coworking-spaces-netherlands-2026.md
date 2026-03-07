@@ -1,7 +1,8 @@
 ---
 title: "Best Coworking Spaces in the Netherlands 2026: Guide for Expats"
 date: 2026-04-23T10:00:00+01:00
-description: "The best coworking spaces in the Netherlands for expats and remote workers. Amsterdam, Rotterdam, The Hague, Utrecht, and Eindhoven. Prices, facilities, and tips."
+lastmod: 2026-04-23T10:00:00+01:00
+description: "Best coworking spaces in the Netherlands for expats. Amsterdam, Rotterdam, The Hague, Utrecht and Eindhoven compared."
 categories: ["work"]
 tags: ["coworking", "remote work", "office space", "freelance", "expat work"]
 keywords: ["coworking Netherlands", "best coworking Amsterdam", "coworking space expats", "remote work Netherlands"]
@@ -10,7 +11,7 @@ author: "Sarah van den Berg"
 author_bio: "Expat coach and relocation specialist. Half Dutch, half British, living in the Netherlands for over 10 years."
 featured_image: "/images/categories/work.svg"
 aliases:
-  - /posts/best-coworking-spaces-netherlands-2026/
+  - /guides/work/best-coworking-spaces-netherlands-2026/
 faq:
   - q: "How much does coworking cost in the Netherlands?"
     a: "Prices vary by city and plan: hot desk (flexible seating) costs €150-€350/month, dedicated desk €250-€500/month, and a private office €400-€1,500/month. Day passes cost €15-€35. Amsterdam is the most expensive, while cities like Eindhoven and Utrecht are 20-30% cheaper."
@@ -29,7 +30,7 @@ faq:
 After years of working from my tiny Amsterdam apartment -- hunched over a kitchen table, fighting for WiFi with my housemates -- I finally tried a coworking space. It changed everything. Not just for productivity, but for my social life as an expat. Some of my closest friends in the Netherlands are people I met at a shared desk. Here is my guide to the best coworking spaces for expats across the country.
 
 
-Working as a freelancer? Read our [complete ZZP guide](/posts/freelancer-zzp-guide-netherlands-2026/) for registration and taxes.
+Working as a freelancer? Read our [complete ZZP guide](/guides/work/freelancer-zzp-guide-netherlands-2026/) for registration and taxes.
 
 ## Best Coworking Chains in the Netherlands
 
@@ -223,11 +224,11 @@ Working remotely in the Netherlands has some practical dimensions worth knowing 
 
 **Noise levels vary enormously.** Dutch coworking culture tends toward open-plan, social environments. If you need deep focus for long stretches, ask specifically about quiet zones before signing. B.Amsterdam and The Hague Tech both have designated silent areas; busier WeWork Amsterdam centrum locations can be noisy during the day.
 
-**Your employer may cover the cost.** Many international companies in the Netherlands — especially in tech and finance — include a remote work or home office allowance of €50-€200/month. Check your employment contract. If you are a highly skilled migrant, your [30% ruling](/posts/30-percent-ruling-netherlands-2026/) may also give you extra net income to cover it.
+**Your employer may cover the cost.** Many international companies in the Netherlands — especially in tech and finance — include a remote work or home office allowance of €50-€200/month. Check your employment contract. If you are a highly skilled migrant, your [30% ruling](/guides/finance/30-percent-ruling-netherlands-2026/) may also give you extra net income to cover it.
 
-**Consider a virtual office if you are a ZZP'er.** For €50-€100/month, most coworking spaces offer a professional business address for your KvK registration. This avoids using your home address publicly — something most freelancers prefer. Read our [ZZP guide](/posts/freelancer-zzp-guide-netherlands-2026/) for the full registration process.
+**Consider a virtual office if you are a ZZP'er.** For €50-€100/month, most coworking spaces offer a professional business address for your KvK registration. This avoids using your home address publicly — something most freelancers prefer. Read our [ZZP guide](/guides/work/freelancer-zzp-guide-netherlands-2026/) for the full registration process.
 
-**Coworking as networking.** For expats building a professional network, the right space is one of the fastest ways to meet people. See the [cost of living guide](/posts/cost-of-living-netherlands-2026/) to understand how a coworking membership fits into your overall monthly budget.
+**Coworking as networking.** For expats building a professional network, the right space is one of the fastest ways to meet people. See the [cost of living guide](/guides/housing/cost-of-living-netherlands-2026/) to understand how a coworking membership fits into your overall monthly budget.
 
 ## Conclusion
 
@@ -241,9 +242,9 @@ Wherever you work in the Netherlands, protect your data on shared networks with 
 
 - **[Freelancer (ZZP) Guide](/guides/work/freelancer-zzp-guide-netherlands-2026/)** — Registration and taxes
 - **[Dutch Tax System for Expats](/guides/finance/dutch-tax-system-expats-guide-2026/)** — Deductions and filing
-- **[Moving to Amsterdam](/posts/moving-to-amsterdam-guide-2026/)** — City guide
-- **[Moving to The Hague](/posts/moving-to-the-hague-guide-2026/)** — International city
-- **[Moving to Eindhoven](/posts/moving-to-eindhoven-guide-2026/)** — Tech hub guide
+- **[Moving to Amsterdam](/guides/housing/moving-to-amsterdam-guide-2026/)** — City guide
+- **[Moving to The Hague](/guides/housing/moving-to-the-hague-guide-2026/)** — International city
+- **[Moving to Eindhoven](/guides/housing/moving-to-eindhoven-guide-2026/)** — Tech hub guide
 
 ---
 

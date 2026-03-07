@@ -1,7 +1,8 @@
 ---
 title: "Moving to Rotterdam 2026: The Complete Expat Guide"
 date: 2026-03-06T12:00:00+01:00
-description: "Complete guide to moving to Rotterdam in 2026. Housing, neighborhoods, costs, transport, and practical tips for expats relocating to the Netherlands' second city."
+lastmod: 2026-03-06T12:00:00+01:00
+description: "Complete guide to moving to Rotterdam as an expat in 2026. Housing, neighborhoods, costs, transport, and practical relocation tips."
 categories: ["relocation"]
 tags: ["rotterdam", "moving to rotterdam", "rotterdam expat", "rotterdam neighborhoods", "rotterdam housing", "relocation"]
 keywords: ["moving to rotterdam", "rotterdam expat guide", "living in rotterdam", "rotterdam relocation", "rotterdam neighborhoods expats"]
@@ -10,7 +11,7 @@ author: "Sarah van den Berg"
 author_bio: "Expat coach and relocation specialist. Half Dutch, half British, living in the Netherlands for over 10 years."
 featured_image: "/images/categories/relocation.svg"
 aliases:
-  - /posts/moving-to-rotterdam-guide-2026/
+  - /guides/housing/moving-to-rotterdam-guide-2026/
 faq:
   - q: "Is Rotterdam cheaper than Amsterdam?"
     a: "Yes, significantly. Rent in Rotterdam is approximately 20-35% lower than in Amsterdam. A one-bedroom apartment in the center of Rotterdam costs EUR 1,000-1,500 per month compared to EUR 1,400-2,000 in Amsterdam. Groceries, dining out, and general living costs are also moderately lower."
@@ -30,7 +31,7 @@ faq:
 
 Rotterdam is the Dutch city that surprises everyone. My clients often arrive expecting a smaller version of Amsterdam and discover something completely different -- modern skyline, incredible food scene, and a no-nonsense energy that feels more like a real city than a postcard. I spent two years living in Rotterdam and honestly loved it. The housing is more affordable, the people are more direct (which is saying something for the Netherlands), and the architecture is unlike anything else in the country. Here is my guide to making the move.
 
-For a broader overview of relocating to the Netherlands, read our [Complete Guide to Moving to the Netherlands 2026](/posts/complete-guide-moving-to-netherlands-2026/).
+For a broader overview of relocating to the Netherlands, read our [Complete Guide to Moving to the Netherlands 2026](/guides/legal/complete-guide-moving-to-netherlands-2026/).
 
 
 ## Why Choose Rotterdam?
@@ -62,14 +63,14 @@ The same visa and work permit requirements apply as anywhere in the Netherlands:
 
 - **EU/EEA citizens**: Free to live and work
 - **Non-EU citizens**: Need a work permit (Highly Skilled Migrant visa is the most common route)
-- **30% ruling**: Available for eligible employees. Read our [30% ruling guide](/posts/30-percent-ruling-netherlands-2026/)
+- **30% ruling**: Available for eligible employees. Read our [30% ruling guide](/guides/finance/30-percent-ruling-netherlands-2026/)
 
 ### Financial Setup
 
-1. **Open a bank account**: Set up a <a href="https://wise.com/invite/ihpc/willemt52" rel="nofollow sponsored" target="_blank">Wise account</a> before arriving for a Dutch IBAN. See our [best bank accounts for expats guide](/posts/best-bank-account-expats-netherlands-2026/).
+1. **Open a bank account**: Set up a <a href="https://wise.com/invite/ihpc/willemt52" rel="nofollow sponsored" target="_blank">Wise account</a> before arriving for a Dutch IBAN. See our [best bank accounts for expats guide](/guides/finance/best-bank-account-expats-netherlands-2026/).
 2. **Budget for housing deposits**: Expect 1-2 months' deposit plus first month's rent upfront.
-3. **Arrange health insurance**: Mandatory from your first day of employment. Read our [health insurance guide](/posts/dutch-health-insurance-guide-expats-2026/).
-4. **Transfer savings**: Use <a href="https://wise.com/invite/ihpc/willemt52" rel="nofollow sponsored" target="_blank">Wise</a> for the best exchange rates on international transfers. See our [money transfer guide](/posts/best-international-money-transfer-netherlands-2026/).
+3. **Arrange health insurance**: Mandatory from your first day of employment. Read our [health insurance guide](/guides/health/dutch-health-insurance-guide-expats-2026/).
+4. **Transfer savings**: Use <a href="https://wise.com/invite/ihpc/willemt52" rel="nofollow sponsored" target="_blank">Wise</a> for the best exchange rates on international transfers. See our [money transfer guide](/guides/finance/best-international-money-transfer-netherlands-2026/).
 
 <a href="https://wise.com/invite/ihpc/willemt52" class="cta" rel="nofollow sponsored" target="_blank">Open Your Free Wise Account Before Moving to Rotterdam</a>
 
@@ -95,7 +96,7 @@ Rotterdam's housing market is competitive but significantly more accessible than
 - **Housinganywhere.com**: International-focused platform
 - **Facebook groups**: "Rotterdam Housing" and "Expats in Rotterdam" groups
 
-For a full guide, read our article on [finding housing in the Netherlands](/posts/finding-housing-netherlands-expats-2026/).
+For a full guide, read our article on [finding housing in the Netherlands](/guides/housing/finding-housing-netherlands-expats-2026/).
 
 ---
 
@@ -201,7 +202,7 @@ Rotterdam's public transport is operated by RET and includes:
 - **Bus**: Full network covering the city and region
 - **Waterbus**: Ferry service along the Maas and to Dordrecht/Kinderdijk
 
-Use an OV-chipkaart for all public transport. Read our [OV-chipkaart guide](/posts/ov-chipkaart-guide-expats-2026/).
+Use an OV-chipkaart for all public transport. Read our [OV-chipkaart guide](/guides/daily-life/ov-chipkaart-guide-expats-2026/).
 
 ### Train Connections
 
@@ -228,7 +229,7 @@ Rotterdam Centraal is a major railway hub:
 | Internet & phone | EUR 50-70 | EUR 50-70 |
 | **Total (excl. rent)** | **EUR 710-1,090** | **EUR 1,110-1,690** |
 
-For a full breakdown, see our [Cost of Living in the Netherlands 2026](/posts/cost-of-living-netherlands-2026/) guide.
+For a full breakdown, see our [Cost of Living in the Netherlands 2026](/guides/housing/cost-of-living-netherlands-2026/) guide.
 
 ---
 
@@ -260,9 +261,9 @@ Rotterdam's economy is anchored by:
 
 While English is widely spoken, learning Dutch is more beneficial in Rotterdam than in Amsterdam. More daily interactions (shops, services, bureaucracy) happen in Dutch, and your social integration improves significantly with even basic Dutch skills.
 
-- [Best apps to learn Dutch](/posts/best-apps-learn-dutch-2026/)
-- [Babbel vs Duolingo for Dutch](/posts/babbel-vs-duolingo-learn-dutch-2026/)
-- [Best Dutch language courses](/posts/best-dutch-language-courses-2026/)
+- [Best apps to learn Dutch](/guides/integration/best-apps-learn-dutch-2026/)
+- [Babbel vs Duolingo for Dutch](/guides/integration/babbel-vs-duolingo-learn-dutch-2026/)
+- [Best Dutch language courses](/guides/integration/best-dutch-language-courses-2026/)
 
 ---
 
@@ -294,9 +295,9 @@ Rotterdam offers a rich cultural scene:
 
 ## Practical Checklist: First 30 Days in Rotterdam
 
-1. **Week 1**: Register at Stadswinkel, receive BSN, open a [bank account](/posts/best-bank-account-expats-netherlands-2026/)
-2. **Week 1-2**: Arrange [health insurance](/posts/dutch-health-insurance-guide-expats-2026/), buy or rent a bicycle, get an [OV-chipkaart](/posts/ov-chipkaart-guide-expats-2026/)
-3. **Week 2**: Set up [internet](/posts/best-internet-providers-netherlands-2026/) and get a [Dutch SIM card](/posts/best-sim-card-netherlands-expats-2026/)
+1. **Week 1**: Register at Stadswinkel, receive BSN, open a [bank account](/guides/finance/best-bank-account-expats-netherlands-2026/)
+2. **Week 1-2**: Arrange [health insurance](/guides/health/dutch-health-insurance-guide-expats-2026/), buy or rent a bicycle, get an [OV-chipkaart](/guides/daily-life/ov-chipkaart-guide-expats-2026/)
+3. **Week 2**: Set up [internet](/guides/daily-life/best-internet-providers-netherlands-2026/) and get a [Dutch SIM card](/guides/daily-life/best-sim-card-netherlands-expats-2026/)
 4. **Week 2-3**: Apply for DigiD, explore neighborhoods, find a supermarket routine
 5. **Week 3-4**: Join a Dutch language class, attend an expat meetup, discover local restaurants and parks
 6. **Ongoing**: Build your social network, learn Dutch, explore the city and beyond
@@ -356,4 +357,4 @@ Rotterdam is one of Europe's most underrated cities for expats. It offers afford
 
 If you are considering a move to the Netherlands and want a city that combines quality of life with affordability, Rotterdam deserves serious consideration.
 
-Start your preparation with our [Complete Guide to Moving to the Netherlands 2026](/posts/complete-guide-moving-to-netherlands-2026/), and set up your finances with <a href="https://wise.com/invite/ihpc/willemt52" rel="nofollow sponsored" target="_blank">Wise</a> before arriving.
+Start your preparation with our [Complete Guide to Moving to the Netherlands 2026](/guides/legal/complete-guide-moving-to-netherlands-2026/), and set up your finances with <a href="https://wise.com/invite/ihpc/willemt52" rel="nofollow sponsored" target="_blank">Wise</a> before arriving.

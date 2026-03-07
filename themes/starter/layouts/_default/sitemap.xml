@@ -1,5 +1,5 @@
 {{ printf "<?xml version=\"1.0\" encoding=\"utf-8\" standalone=\"yes\"?>" | safeHTML }}
-<urlset xmlns="http://www.w3.org/2000/Sitemaps/0.9"
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   {{- range .Data.Pages }}
   {{- if not (eq .Kind "taxonomy") }}
@@ -15,4 +15,55 @@
   {{- end }}
   {{- end }}
   {{- end }}
+  {{- /* Static tool pages — not in Hugo content pipeline */ -}}
+  <url>
+    <loc>https://expatnetherlandshub.com/tools/30-percent-ruling-calculator/</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.9</priority>
+  </url>
+  <url>
+    <loc>https://expatnetherlandshub.com/tools/salary-checker/</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.9</priority>
+  </url>
+  <url>
+    <loc>https://expatnetherlandshub.com/tools/health-insurance-wizard/</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.9</priority>
+  </url>
+  <url>
+    <loc>https://expatnetherlandshub.com/tools/bank-account-chooser/</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.9</priority>
+  </url>
+  <url>
+    <loc>https://expatnetherlandshub.com/tools/visa-permit-finder/</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.9</priority>
+  </url>
+  <url>
+    <loc>https://expatnetherlandshub.com/tools/bsn-planner/</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.9</priority>
+  </url>
+  <url>
+    <loc>https://expatnetherlandshub.com/tools/insurance-chooser/</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.9</priority>
+  </url>
+  <url>
+    <loc>https://expatnetherlandshub.com/tools/housing-budget-checker/</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.9</priority>
+  </url>
+  <url>
+    <loc>https://expatnetherlandshub.com/tools/inburgering-route-builder/</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.9</priority>
+  </url>
+  <url>
+    <loc>https://expatnetherlandshub.com/tools/diploma-evaluator/</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.9</priority>
+  </url>
 </urlset>

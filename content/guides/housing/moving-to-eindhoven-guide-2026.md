@@ -1,6 +1,7 @@
 ---
 title: "Moving to Eindhoven 2026: Complete Expat Guide"
 date: 2026-03-06T10:00:00+01:00
+lastmod: 2026-03-06T10:00:00+01:00
 description: "Complete guide to moving to Eindhoven as an expat. Neighborhoods, tech industry, housing, costs, and practical tips for the Netherlands' Silicon Valley."
 categories: ["housing"]
 tags: ["Eindhoven", "expat guide", "tech hub", "Brainport", "relocation"]
@@ -10,7 +11,7 @@ author: "Sarah van den Berg"
 author_bio: "Expat coach and relocation specialist. Half Dutch, half British, living in the Netherlands for over 10 years."
 featured_image: "/images/categories/housing.svg"
 aliases:
-  - /posts/moving-to-eindhoven-guide-2026/
+  - /guides/housing/moving-to-eindhoven-guide-2026/
 faq:
   - q: "Is Eindhoven good for expats?"
     a: "Eindhoven is excellent for tech and engineering expats. The Brainport region houses ASML, Philips, NXP, and hundreds of tech startups. The international community is large and growing, housing is more affordable than Amsterdam, and the quality of life is high. The main downside is less cultural variety compared to Amsterdam."
@@ -29,7 +30,7 @@ faq:
 I will be honest: when I first visited Eindhoven years ago, I did not get the hype. It felt quiet compared to Amsterdam. Then I started working with clients relocating there for ASML, Philips, and the tech startups popping up everywhere, and I saw what they saw -- affordable housing, a genuinely international community, and a city that is growing fast without the chaos of the Randstad. I have come to really appreciate Eindhoven, and if you are moving there, you are in for a pleasant surprise.
 
 
-New to the Netherlands? Start with our [complete expat guide](/posts/moving-to-netherlands-guide-2026/) and work permit information in our [highly skilled migrant visa guide](/posts/highly-skilled-migrant-visa-netherlands-2026/).
+New to the Netherlands? Start with our [complete expat guide](/guides/legal/complete-guide-moving-to-netherlands-2026/) and work permit information in our [highly skilled migrant visa guide](/guides/legal/highly-skilled-migrant-visa-netherlands-2026/).
 
 ## Why Eindhoven?
 
@@ -139,7 +140,7 @@ Eindhoven's Brainport region generates more patents per capita than anywhere in 
 | Mechanical Engineer (ASML) | €55,000-€95,000 |
 | Senior Engineer (ASML) | €80,000-€120,000 |
 
-**Note:** Many Brainport companies offer the 30% ruling, which significantly boosts your net income. See our [visa guide](/posts/highly-skilled-migrant-visa-netherlands-2026/).
+**Note:** Many Brainport companies offer the 30% ruling, which significantly boosts your net income. See our [visa guide](/guides/legal/highly-skilled-migrant-visa-netherlands-2026/).
 
 ### Coworking and Startups
 - **High Tech Campus** — "The Smartest km² in Europe," 235+ companies, 12,500 researchers
@@ -165,8 +166,8 @@ More useful in Eindhoven than in Amsterdam, especially for reaching surrounding 
 ### When You Arrive
 1. **Register at the municipality** — Stadskantoor, Stadhuisplein. Book online at [eindhoven.nl](https://www.eindhoven.nl)
 2. **Get BSN** — Assigned at registration
-3. **Health insurance** — Arrange within 4 months. See our [insurance guide](/posts/best-expat-insurance-netherlands-2026/)
-4. **DigiD** — Required for government services. See our [DigiD guide](/posts/digid-guide-expats-2026/)
+3. **Health insurance** — Arrange within 4 months. See our [insurance guide](/guides/health/best-expat-insurance-netherlands-2026/)
+4. **DigiD** — Required for government services. See our [DigiD guide](/guides/legal/digid-guide-expats-2026/)
 5. **Bank account** — ING, Rabobank, or Bunq. For international transfers, use <a href="https://wise.com/invite/ihpc/willemt52" rel="nofollow sponsored" target="_blank">Wise</a>
 
 ### International Community
@@ -192,11 +193,11 @@ Wondering how your salary stacks up in the Brainport market? Our [salary checker
 
 Eindhoven's "Brainport" label is not marketing — it is a measurable reality. The region generates more patent applications per capita than Silicon Valley, and the density of deep-tech companies is unlike anywhere else in the Netherlands.
 
-**ASML** deserves particular attention. With over 42,000 employees worldwide and roughly 20,000 in the Eindhoven region alone, ASML is the single largest driver of Eindhoven's growth. The company makes EUV lithography machines — the only technology capable of printing the world's most advanced chips. Every major chip manufacturer (TSMC, Samsung, Intel) depends on ASML machines. ASML actively recruits internationally and sponsors highly skilled migrant visas for most roles. Salaries are competitive: senior engineers earn €80,000-€120,000+, and the company offers strong relocation packages. Many ASML employees live in Veldhoven (company headquarters) or Woensel-Zuid. The 30% ruling applies to most international hires — see our [30% ruling guide](/posts/30-percent-ruling-netherlands-2026/) to understand the tax benefit.
+**ASML** deserves particular attention. With over 42,000 employees worldwide and roughly 20,000 in the Eindhoven region alone, ASML is the single largest driver of Eindhoven's growth. The company makes EUV lithography machines — the only technology capable of printing the world's most advanced chips. Every major chip manufacturer (TSMC, Samsung, Intel) depends on ASML machines. ASML actively recruits internationally and sponsors highly skilled migrant visas for most roles. Salaries are competitive: senior engineers earn €80,000-€120,000+, and the company offers strong relocation packages. Many ASML employees live in Veldhoven (company headquarters) or Woensel-Zuid. The 30% ruling applies to most international hires — see our [30% ruling guide](/guides/finance/30-percent-ruling-netherlands-2026/) to understand the tax benefit.
 
 **Beyond ASML**, the Brainport ecosystem includes over 800 high-tech companies within a 30-minute radius. Supply chain companies serving ASML (optics, mechatronics, software) are actively hiring. The TU/e (Eindhoven University of Technology) produces a constant pipeline of engineering graduates and runs joint research programs with industry. If you are considering Eindhoven for a tech career, the opportunity density is genuine.
 
-For the financial side of your move — banking, health insurance, and transfers — start with our [best bank accounts guide](/posts/best-bank-account-expats-netherlands-2026/) and [international money transfer guide](/posts/best-international-money-transfer-netherlands-2026/).
+For the financial side of your move — banking, health insurance, and transfers — start with our [best bank accounts guide](/guides/finance/best-bank-account-expats-netherlands-2026/) and [international money transfer guide](/guides/finance/best-international-money-transfer-netherlands-2026/).
 
 ## Cost of Living in Eindhoven vs Other Dutch Cities
 
@@ -261,11 +262,11 @@ For detailed housing search advice, read our [finding housing in the Netherlands
 
 ## Explore More Expat Guides
 
-- **[Complete Guide to Moving to the Netherlands](/posts/moving-to-netherlands-guide-2026/)** — Getting started
-- **[Moving to The Hague](/posts/moving-to-the-hague-guide-2026/)** — Alternative expat city
-- **[Highly Skilled Migrant Visa](/posts/highly-skilled-migrant-visa-netherlands-2026/)** — Work permits
-- **[Best Expat Insurance](/posts/best-expat-insurance-netherlands-2026/)** — Key coverage
-- **[DigiD Guide](/posts/digid-guide-expats-2026/)** — Government services access
+- **[Complete Guide to Moving to the Netherlands](/guides/legal/complete-guide-moving-to-netherlands-2026/)** — Getting started
+- **[Moving to The Hague](/guides/housing/moving-to-the-hague-guide-2026/)** — Alternative expat city
+- **[Highly Skilled Migrant Visa](/guides/legal/highly-skilled-migrant-visa-netherlands-2026/)** — Work permits
+- **[Best Expat Insurance](/guides/health/best-expat-insurance-netherlands-2026/)** — Key coverage
+- **[DigiD Guide](/guides/legal/digid-guide-expats-2026/)** — Government services access
 - **[Finding Housing in the Netherlands](/guides/housing/finding-housing-netherlands-expats-2026/)** — How to search and secure a rental
 - **[Cost of Living in the Netherlands](/guides/housing/cost-of-living-netherlands-2026/)** — Full budget breakdown by city
 

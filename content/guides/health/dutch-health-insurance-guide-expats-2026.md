@@ -1,6 +1,7 @@
 ---
 title: "Dutch Health Insurance for Expats: Complete Guide 2026"
 date: 2026-02-24T11:00:00+01:00
+lastmod: 2026-02-24T11:00:00+01:00
 description: "Everything expats need to know about Dutch health insurance in 2026: basisverzekering, eigen risico, zorgtoeslag, and how to choose."
 categories: ["finance"]
 tags: ["dutch health insurance", "basisverzekering", "zorgtoeslag", "expat insurance", "eigen risico", "health insurance netherlands"]
@@ -10,7 +11,7 @@ author: "Sarah van den Berg"
 author_bio: "Expat coach and relocation specialist. Half Dutch, half British, living in the Netherlands for over 10 years."
 featured_image: "/images/categories/finance.svg"
 aliases:
-  - /posts/dutch-health-insurance-guide-expats-2026/
+  - /guides/health/dutch-health-insurance-guide-expats-2026/
 faq:
   - q: "Is health insurance mandatory in the Netherlands?"
     a: "Yes. Everyone who legally lives or works in the Netherlands is required by law to have a basic health insurance policy (basisverzekering). You must arrange this within 4 months of your registration date. If you fail to do so, the CAK (Central Administration Office) will assign you a policy and you may face a fine."
@@ -324,9 +325,9 @@ Children under 18 are covered free of charge under their parent's basic insuranc
 
 ## Related Guides
 
-- [Complete Guide to Moving to the Netherlands in 2026](/posts/complete-guide-moving-to-netherlands-2026/) -- your full relocation checklist including insurance timelines
-- [Best Bank Accounts for Expats in the Netherlands 2026](/posts/best-bank-account-expats-netherlands-2026/) -- you will need a bank account to pay your premiums
-- [7 Best Apps to Learn Dutch in 2026](/posts/best-apps-learn-dutch-2026/) -- useful for understanding healthcare correspondence
+- [Complete Guide to Moving to the Netherlands in 2026](/guides/legal/complete-guide-moving-to-netherlands-2026/) -- your full relocation checklist including insurance timelines
+- [Best Bank Accounts for Expats in the Netherlands 2026](/guides/finance/best-bank-account-expats-netherlands-2026/) -- you will need a bank account to pay your premiums
+- [7 Best Apps to Learn Dutch in 2026](/guides/integration/best-apps-learn-dutch-2026/) -- useful for understanding healthcare correspondence
 - [Best Expat Insurance Netherlands 2026](/guides/health/best-expat-insurance-netherlands-2026/) -- expat-specific insurance options beyond the standard basisverzekering
 
 ---

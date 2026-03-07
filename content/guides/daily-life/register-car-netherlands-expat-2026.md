@@ -1,6 +1,7 @@
 ---
 title: "How to Register a Car in the Netherlands as an Expat (2026)"
 date: 2026-04-01T10:00:00+01:00
+lastmod: 2026-04-01T10:00:00+01:00
 description: "Step-by-step guide to registering a car in the Netherlands as an expat. RDW, APK, BPM tax, insurance, and all the costs explained for 2026."
 categories: ["daily-life"]
 tags: ["car registration Netherlands", "RDW registration", "BPM tax", "APK inspection", "expat car Netherlands"]

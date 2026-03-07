@@ -1,6 +1,7 @@
 ---
 title: "Best Expat Insurance in the Netherlands 2026: Complete Guide"
 date: 2026-03-06T10:00:00+01:00
+lastmod: 2026-03-06T10:00:00+01:00
 description: "Complete guide to expat insurance in the Netherlands. Health insurance, liability, home contents, and international coverage options for expats in 2026."
 categories: ["insurance"]
 tags: ["expat insurance", "health insurance Netherlands", "zorgverzekering", "liability insurance", "expat life"]
@@ -10,7 +11,7 @@ author: "Sarah van den Berg"
 author_bio: "Expat coach and relocation specialist. Half Dutch, half British, living in the Netherlands for over 10 years."
 featured_image: "/images/categories/insurance.svg"
 aliases:
-  - /posts/best-expat-insurance-netherlands-2026/
+  - /guides/health/best-expat-insurance-netherlands-2026/
 faq:
   - q: "Is health insurance mandatory for expats in the Netherlands?"
     a: "Yes, if you live and work in the Netherlands, you are legally required to have Dutch basic health insurance (basisverzekering) within 4 months of arriving. This applies to employees, self-employed workers, and their dependents. Students from EU countries may be exempt if they have a European Health Insurance Card (EHIC)."
@@ -29,7 +30,7 @@ faq:
 I learned about Dutch liability insurance the hard way -- my bicycle knocked over a parked scooter in my first month, and suddenly I owed someone several hundred euros. Turns out, nearly every Dutch person has a three-euro-per-month policy that would have covered it. That was just one of many insurance surprises in a system that works brilliantly once you understand it. Here is the full breakdown of every insurance you need as an expat, from the mandatory to the "technically optional but you really should."
 
 
-New to the Netherlands? Start with our [complete expat guide](/posts/moving-to-netherlands-guide-2026/) and make sure you have your [DigiD set up](/posts/digid-guide-expats-2026/).
+New to the Netherlands? Start with our [complete expat guide](/guides/legal/complete-guide-moving-to-netherlands-2026/) and make sure you have your [DigiD set up](/guides/legal/digid-guide-expats-2026/).
 
 ## Insurance Overview for Expats
 
@@ -87,7 +88,7 @@ If your income is below a certain threshold, you may qualify for healthcare allo
 - **Single person:** Income up to ~€38,000 → up to €175/month
 - **Couple:** Combined income up to ~€48,000 → up to €175/month per person
 
-Apply via [toeslagen.nl](https://www.toeslagen.nl) — you need a DigiD. See our [DigiD guide for expats](/posts/digid-guide-expats-2026/).
+Apply via [toeslagen.nl](https://www.toeslagen.nl) — you need a DigiD. See our [DigiD guide for expats](/guides/legal/digid-guide-expats-2026/).
 
 ### Supplementary Insurance: Do You Need It?
 
@@ -169,7 +170,7 @@ If you are self-employed (ZZP) in the Netherlands, disability insurance is criti
 
 **Tip:** Choose a longer waiting period (90-180 days) to reduce premiums, and keep 3-6 months of savings as a buffer.
 
-Read more about freelancing in the Netherlands in our [ZZP freelancer guide](/posts/freelancer-zzp-guide-netherlands-2026/).
+Read more about freelancing in the Netherlands in our [ZZP freelancer guide](/guides/work/freelancer-zzp-guide-netherlands-2026/).
 
 ## 6. Legal Expenses Insurance (Rechtsbijstandverzekering) — Optional
 
@@ -316,12 +317,12 @@ Not sure which Dutch insurance package is right for your situation? Our [health 
 
 ## Explore More Expat Guides
 
-- **[Complete Guide to Moving to the Netherlands](/posts/moving-to-netherlands-guide-2026/)** — Everything you need to know
+- **[Complete Guide to Moving to the Netherlands](/guides/legal/complete-guide-moving-to-netherlands-2026/)** — Everything you need to know
 - **[Dutch Health Insurance Guide](/guides/health/dutch-health-insurance-guide-expats-2026/)** — The full basisverzekering breakdown
-- **[DigiD Guide for Expats](/posts/digid-guide-expats-2026/)** — Necessary for applying for zorgtoeslag
-- **[Freelancer ZZP Guide](/posts/freelancer-zzp-guide-netherlands-2026/)** — Self-employment in the Netherlands
-- **[Highly Skilled Migrant Visa](/posts/highly-skilled-migrant-visa-netherlands-2026/)** — Work permit essentials
-- **[Best VPN for Expats](/posts/best-vpn-expats-netherlands-2026/)** — Protect your online privacy
+- **[DigiD Guide for Expats](/guides/legal/digid-guide-expats-2026/)** — Necessary for applying for zorgtoeslag
+- **[Freelancer ZZP Guide](/guides/work/freelancer-zzp-guide-netherlands-2026/)** — Self-employment in the Netherlands
+- **[Highly Skilled Migrant Visa](/guides/legal/highly-skilled-migrant-visa-netherlands-2026/)** — Work permit essentials
+- **[Best VPN for Expats](/guides/daily-life/best-vpn-netherlands-expats-2026/)** — Protect your online privacy
 
 ---
 

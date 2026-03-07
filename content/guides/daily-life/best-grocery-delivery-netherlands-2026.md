@@ -1,7 +1,8 @@
 ---
 title: "Best Grocery Delivery Services in the Netherlands 2026"
 date: 2026-03-31T12:00:00+01:00
-description: "Compare the best grocery delivery services in the Netherlands in 2026: Albert Heijn, Jumbo, Picnic, Flink, Getir, and Crisp. Prices, delivery, and expat tips."
+lastmod: 2026-03-31T12:00:00+01:00
+description: "Compare the best grocery delivery services in the Netherlands 2026: Albert Heijn, Jumbo, Picnic, Flink, and Crisp. Prices and expat tips."
 categories: ["daily-life"]
 tags: ["grocery delivery", "albert heijn", "jumbo", "picnic", "flink", "supermarket netherlands", "food delivery"]
 keywords: ["grocery delivery netherlands", "albert heijn delivery", "picnic app", "best supermarket netherlands", "online grocery shopping netherlands"]
@@ -10,7 +11,7 @@ author: "Sarah van den Berg"
 author_bio: "Expat coach and relocation specialist. Half Dutch, half British, living in the Netherlands for over 10 years."
 featured_image: "/images/categories/daily-life.svg"
 aliases:
-  - /posts/best-grocery-delivery-netherlands-2026/
+  - /guides/daily-life/best-grocery-delivery-netherlands-2026/
 faq:
   - q: "Which grocery delivery service is cheapest in the Netherlands?"
     a: "Picnic generally offers the lowest prices, as they match the lowest supermarket prices and have no delivery fees (with a minimum order of EUR 35). Albert Heijn and Jumbo have competitive prices but charge delivery fees of EUR 4-8 per order unless you subscribe to a delivery pass."
@@ -382,4 +383,4 @@ Want to see how your grocery budget fits into the bigger picture? Our housing an
 
 <a href="/tools/housing-budget-checker/" class="cta-affiliate">Calculate your full monthly budget →</a>
 
-For more practical guides on settling into Dutch daily life, read our articles on the [best internet providers](/posts/best-internet-providers-netherlands-2026/), [cost of living](/posts/cost-of-living-netherlands-2026/), and [best SIM cards for expats](/posts/best-sim-card-netherlands-expats-2026/). If you're still figuring out your budget before arrival, our [cost of living guide](/guides/housing/cost-of-living-netherlands-2026/) breaks down what groceries, housing, and transport actually cost month to month. And once you've sorted your shopping routine, our [cycling guide](/guides/daily-life/cycling-netherlands-expat-guide-2026/) covers the other daily-life must-have in the Netherlands.
+For more practical guides on settling into Dutch daily life, read our articles on the [best internet providers](/guides/daily-life/best-internet-providers-netherlands-2026/), [cost of living](/guides/housing/cost-of-living-netherlands-2026/), and [best SIM cards for expats](/guides/daily-life/best-sim-card-netherlands-expats-2026/). If you're still figuring out your budget before arrival, our [cost of living guide](/guides/housing/cost-of-living-netherlands-2026/) breaks down what groceries, housing, and transport actually cost month to month. And once you've sorted your shopping routine, our [cycling guide](/guides/daily-life/cycling-netherlands-expat-guide-2026/) covers the other daily-life must-have in the Netherlands.

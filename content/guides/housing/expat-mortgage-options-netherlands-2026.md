@@ -1,6 +1,7 @@
 ---
 title: "Expat Mortgage Options Netherlands 2026: Complete Guide"
 date: 2026-04-08T10:00:00+01:00
+lastmod: 2026-04-08T10:00:00+01:00
 description: "Complete guide to getting a mortgage in the Netherlands as an expat. Types, requirements, 30% ruling impact, and step-by-step application process in 2026."
 categories: ["housing"]
 tags: ["mortgage", "hypotheek", "expat housing", "buying property", "30% ruling"]
@@ -10,7 +11,7 @@ author: "Sarah van den Berg"
 author_bio: "Expat coach and relocation specialist. Half Dutch, half British, living in the Netherlands for over 10 years."
 featured_image: "/images/categories/housing.svg"
 aliases:
-  - /posts/expat-mortgage-options-netherlands-2026/
+  - /guides/housing/expat-mortgage-options-netherlands-2026/
 faq:
   - q: "Can expats get a mortgage in the Netherlands?"
     a: "Yes, expats can get mortgages in the Netherlands, even without permanent residency. You typically need a valid residence/work permit, employment contract (preferably permanent), and BSN number. Some lenders specialize in expat mortgages and are more flexible with requirements."
@@ -29,7 +30,7 @@ faq:
 After years of renting in the Netherlands, I finally decided to buy -- and immediately discovered that the 30% ruling, which had been saving me money on taxes, was now working against me when it came to mortgage borrowing capacity. Nobody had warned me about that. The process of buying a house as an expat is completely doable, but it comes with a few surprises. Here is the step-by-step guide I put together from my own experience and from helping clients through the process.
 
 
-New to the Netherlands? Start with our [complete expat guide](/posts/moving-to-netherlands-guide-2026/) and explore [neighborhoods in The Hague](/posts/moving-to-the-hague-guide-2026/).
+New to the Netherlands? Start with our [complete expat guide](/guides/legal/complete-guide-moving-to-netherlands-2026/) and explore [neighborhoods in The Hague](/guides/housing/moving-to-the-hague-guide-2026/).
 
 ## How Much Can You Borrow? The Rules Explained
 
@@ -95,7 +96,7 @@ If you are self-employed, you typically need:
 - Tax returns for the last 3 years
 - Average of last 3 years' profit used for calculation
 
-See our [ZZP freelancer guide](/posts/freelancer-zzp-guide-netherlands-2026/) for more on self-employment.
+See our [ZZP freelancer guide](/guides/work/freelancer-zzp-guide-netherlands-2026/) for more on self-employment.
 
 ## How Much Can You Borrow?
 
@@ -244,13 +245,13 @@ For context on buying in specific cities, read our [finding housing guide](/guid
 
 ## Explore More Expat Guides
 
-- **[Complete Guide to Moving to the Netherlands](/posts/moving-to-netherlands-guide-2026/)** — Getting started
-- **[Moving to The Hague](/posts/moving-to-the-hague-guide-2026/)** — Best neighborhoods and costs
+- **[Complete Guide to Moving to the Netherlands](/guides/legal/complete-guide-moving-to-netherlands-2026/)** — Getting started
+- **[Moving to The Hague](/guides/housing/moving-to-the-hague-guide-2026/)** — Best neighborhoods and costs
 - **[Finding Housing in the Netherlands](/guides/housing/finding-housing-netherlands-expats-2026/)** — Rental and buying search guide
 - **[Dutch Tax System for Expats](/guides/finance/dutch-tax-system-expats-guide-2026/)** — Hypotheekrenteaftrek and income tax explained
-- **[Best Expat Insurance](/posts/best-expat-insurance-netherlands-2026/)** — Home and liability coverage
-- **[Freelancer ZZP Guide](/posts/freelancer-zzp-guide-netherlands-2026/)** — Self-employed mortgage options
-- **[DigiD Guide](/posts/digid-guide-expats-2026/)** — Required for tax declarations
+- **[Best Expat Insurance](/guides/health/best-expat-insurance-netherlands-2026/)** — Home and liability coverage
+- **[Freelancer ZZP Guide](/guides/work/freelancer-zzp-guide-netherlands-2026/)** — Self-employed mortgage options
+- **[DigiD Guide](/guides/legal/digid-guide-expats-2026/)** — Required for tax declarations
 
 ---
 

@@ -1,6 +1,7 @@
 ---
 title: "The 30% Ruling in the Netherlands 2026: Complete Guide"
 date: 2026-03-06T11:00:00+01:00
+lastmod: 2026-03-06T11:00:00+01:00
 description: "Complete guide to the 30% ruling in the Netherlands for 2026. Eligibility, salary thresholds, application process, recent changes, and tax savings."
 categories: ["finance"]
 tags: ["30 percent ruling", "dutch taxes", "expat tax benefit", "highly skilled migrant", "netherlands tax", "30% ruling"]
@@ -10,7 +11,7 @@ author: "Sarah van den Berg"
 author_bio: "Expat coach and relocation specialist. Half Dutch, half British, living in the Netherlands for over 10 years."
 featured_image: "/images/categories/finance.svg"
 aliases:
-  - /posts/30-percent-ruling-netherlands-2026/
+  - /guides/finance/30-percent-ruling-netherlands-2026/
 faq:
   - q: "What is the 30% ruling in the Netherlands?"
     a: "The 30% ruling is a Dutch tax benefit for highly skilled migrants recruited from abroad. It allows your employer to pay up to 30% of your gross salary as a tax-free allowance, intended to compensate for the additional costs of relocating to and living in the Netherlands. This effectively reduces your taxable income by 30%, resulting in significant tax savings."
@@ -239,7 +240,7 @@ Your social security contributions are based on your taxable salary (after the 3
 
 With lower taxable income during the ruling period, your pension accrual may be lower. Consider supplementing with private pension savings or investments. This is particularly important if you plan to stay in the Netherlands long-term.
 
-For help managing international finances during your time in the Netherlands, a multi-currency account like <a href="https://wise.com/invite/ihpc/willemt52" rel="nofollow sponsored" target="_blank">Wise</a> can be useful for handling money in multiple countries. See our [complete guide to moving to the Netherlands in 2026](/posts/complete-guide-moving-to-netherlands-2026/) for more on setting up your financial life.
+For help managing international finances during your time in the Netherlands, a multi-currency account like <a href="https://wise.com/invite/ihpc/willemt52" rel="nofollow sponsored" target="_blank">Wise</a> can be useful for handling money in multiple countries. See our [complete guide to moving to the Netherlands in 2026](/guides/legal/complete-guide-moving-to-netherlands-2026/) for more on setting up your financial life.
 
 Want to know how much you could save? Use our [30% ruling calculator](/tools/30-percent-ruling-calculator/) to estimate your tax benefit based on your salary, or run your figures through the [salary checker](/tools/salary-checker/) to see your net take-home pay. For a broader picture of how Dutch taxes work, our [Dutch tax system guide for expats](/guides/finance/dutch-tax-system-expats-guide-2026/) explains the full three-box structure.
 
@@ -252,7 +253,7 @@ Want to know how much you could save? Use our [30% ruling calculator](/tools/30-
 Here is a practical timeline for managing the 30% ruling alongside your other arrival tasks:
 
 1. **Before arrival**: Confirm with your employer that they will apply for the 30% ruling and ensure your salary meets the threshold
-2. **Week 1**: Register at your gemeente and receive your BSN (see our [relocation guide](/posts/complete-guide-moving-to-netherlands-2026/))
+2. **Week 1**: Register at your gemeente and receive your BSN (see our [relocation guide](/guides/legal/complete-guide-moving-to-netherlands-2026/))
 3. **Week 1-2**: Provide your BSN to your employer for the 30% ruling application
 4. **Month 1**: Employer submits the joint application to the Belastingdienst (within the 4-month window)
 5. **Month 1-2**: Employer can begin applying the 30% reduction provisionally in your payslip
@@ -285,4 +286,4 @@ The 30% ruling remains one of the most significant financial advantages of worki
 
 The key is to act early: negotiate your salary with the threshold in mind, ensure your employer submits the application within 4 months of your start date, and seek professional tax advice for complex situations.
 
-If you are planning your move to the Netherlands, our [complete guide to moving to the Netherlands in 2026](/posts/complete-guide-moving-to-netherlands-2026/) covers all the other key steps, from visas and housing to health insurance and banking. And if you are ready to start learning the language, check out the [best apps for learning Dutch in 2026](/posts/best-apps-learn-dutch-2026/).
+If you are planning your move to the Netherlands, our [complete guide to moving to the Netherlands in 2026](/guides/legal/complete-guide-moving-to-netherlands-2026/) covers all the other key steps, from visas and housing to health insurance and banking. And if you are ready to start learning the language, check out the [best apps for learning Dutch in 2026](/guides/integration/best-apps-learn-dutch-2026/).

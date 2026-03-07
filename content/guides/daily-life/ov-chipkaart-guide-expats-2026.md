@@ -1,6 +1,7 @@
 ---
 title: "OV-chipkaart Guide 2026: Public Transport in the Netherlands"
 date: 2026-03-06T12:00:00+01:00
+lastmod: 2026-03-06T12:00:00+01:00
 description: "Complete OV-chipkaart guide for expats in 2026. How to use NS trains, trams, buses, metro, OV-fiets, NS Flex subscriptions, and the 9292 app."
 categories: ["daily-life"]
 tags: ["ov-chipkaart", "public transport netherlands", "ns trains", "dutch trains", "gvb amsterdam", "ov-fiets", "ns flex", "9292 app"]
@@ -10,7 +11,7 @@ author: "Sarah van den Berg"
 author_bio: "Expat coach and relocation specialist. Half Dutch, half British, living in the Netherlands for over 10 years."
 featured_image: "/images/categories/daily-life.svg"
 aliases:
-  - /posts/ov-chipkaart-guide-expats-2026/
+  - /guides/daily-life/ov-chipkaart-guide-expats-2026/
 faq:
   - q: "What is an OV-chipkaart and do I need one?"
     a: "The OV-chipkaart is the smart card used for all public transport in the Netherlands, including trains, trams, buses, and metro. While you can also use contactless bank cards (debit or credit cards with NFC) to check in on most transport services in 2026, a personal OV-chipkaart is still recommended if you commute regularly, want to load subscriptions, or plan to use OV-fiets bike rental. It costs EUR 7.50 and is valid for 5 years."
@@ -366,10 +367,10 @@ For casual travelers and tourists, OVpay is the easiest option. For regular comm
 
 ## Related Guides
 
-- [Best SIM Cards and Mobile Plans for Expats in the Netherlands 2026](/posts/best-sim-card-netherlands-expats-2026/) -- stay connected while commuting
-- [Complete Guide to Moving to the Netherlands in 2026](/posts/complete-guide-moving-to-netherlands-2026/) -- your full relocation checklist
-- [Cost of Living in the Netherlands 2026](/posts/cost-of-living-netherlands-2026/) -- budget for transport and daily expenses
-- [Finding Housing in the Netherlands as an Expat 2026](/posts/finding-housing-netherlands-expats-2026/) -- consider transport connections when choosing where to live
+- [Best SIM Cards and Mobile Plans for Expats in the Netherlands 2026](/guides/daily-life/best-sim-card-netherlands-expats-2026/) -- stay connected while commuting
+- [Complete Guide to Moving to the Netherlands in 2026](/guides/legal/complete-guide-moving-to-netherlands-2026/) -- your full relocation checklist
+- [Cost of Living in the Netherlands 2026](/guides/housing/cost-of-living-netherlands-2026/) -- budget for transport and daily expenses
+- [Finding Housing in the Netherlands as an Expat 2026](/guides/housing/finding-housing-netherlands-expats-2026/) -- consider transport connections when choosing where to live
 
 ---
 

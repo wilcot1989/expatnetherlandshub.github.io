@@ -1,6 +1,7 @@
 ---
 title: "Complete Guide to Moving to the Netherlands in 2026"
 date: 2026-02-24T11:00:00+01:00
+lastmod: 2026-02-24T11:00:00+01:00
 description: "Everything you need to know about moving to the Netherlands in 2026: visas, housing, BSN, health insurance, banking, and more."
 categories: ["relocation"]
 tags: ["moving to netherlands", "expat relocation", "netherlands visa", "BSN number", "dutch housing", "expat checklist"]
@@ -10,7 +11,7 @@ author: "Sarah van den Berg"
 author_bio: "Expat coach and relocation specialist. Half Dutch, half British, living in the Netherlands for over 10 years."
 featured_image: "/images/categories/relocation.svg"
 aliases:
-  - /posts/complete-guide-moving-to-netherlands-2026/
+  - /guides/legal/complete-guide-moving-to-netherlands-2026/
 faq:
   - q: "How long does it take to get a BSN number in the Netherlands?"
     a: "You typically receive your BSN (Burgerservicenummer) immediately at the end of your registration appointment at the gemeente. However, booking the appointment itself can take 2-6 weeks depending on the municipality. In Amsterdam and Rotterdam, waiting times are often longer."
@@ -131,7 +132,7 @@ The basic package is standardized by the government and covers key medical care,
 
 You can also opt for supplementary insurance (aanvullende verzekering) for things like dental care, physiotherapy, and alternative medicine. Use <a href="https://www.awin1.com/awclick.php?mid=8558&id=2776410" rel="nofollow sponsored" target="_blank">Independer.nl</a> to compare policies from all major Dutch insurers.
 
-For a detailed breakdown of Dutch insurers, coverage options, and how to choose the right policy, read our [complete guide to Dutch health insurance for expats](/posts/dutch-health-insurance-guide-expats-2026/).
+For a detailed breakdown of Dutch insurers, coverage options, and how to choose the right policy, read our [complete guide to Dutch health insurance for expats](/guides/health/dutch-health-insurance-guide-expats-2026/).
 
 ### Temporary Coverage Before Registration
 
@@ -154,7 +155,7 @@ Before you even leave your home country, set up a [Wise account](https://wise.co
 - Hold and convert over 50 currencies
 - Pay with a Wise debit card anywhere in the Netherlands
 
-Once you have your BSN, you can open an account at a traditional Dutch bank like ING, ABN AMRO, or Rabobank, or stay with a modern bank like Bunq or N26. For a full comparison, see my guide to the [best bank accounts for expats in the Netherlands](/posts/best-bank-account-expats-netherlands-2026/).
+Once you have your BSN, you can open an account at a traditional Dutch bank like ING, ABN AMRO, or Rabobank, or stay with a modern bank like Bunq or N26. For a full comparison, see my guide to the [best bank accounts for expats in the Netherlands](/guides/finance/best-bank-account-expats-netherlands-2026/).
 
 <a href="https://wise.com/invite/ihpc/willemt52" class="cta" rel="nofollow sponsored" target="_blank">Open Your Free Wise Account Before You Move</a>
 
@@ -236,7 +237,7 @@ While the Netherlands is famous for its high level of English proficiency, learn
 - Understanding cultural nuances
 - Handling situations where English is less common (hospitals, government offices, smaller towns)
 
-Check out our [guide to the 7 best apps for learning Dutch in 2026](/posts/best-apps-learn-dutch-2026/) to find the right tool for your learning style.
+Check out our [guide to the 7 best apps for learning Dutch in 2026](/guides/integration/best-apps-learn-dutch-2026/) to find the right tool for your learning style.
 
 Many municipalities also offer free or subsidized Dutch language courses (inburgering) for newcomers. Ask your gemeente about available programs.
 

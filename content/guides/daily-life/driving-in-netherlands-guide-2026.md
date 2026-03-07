@@ -1,6 +1,7 @@
 ---
 title: "Driving in the Netherlands 2026: License, Rules, and Tips for Expats"
 date: 2026-04-15T10:00:00+01:00
+lastmod: 2026-04-15T10:00:00+01:00
 description: "Complete guide to driving in the Netherlands as an expat. License exchange, Dutch driving rules, car ownership costs, and practical tips for 2026."
 categories: ["transport"]
 tags: ["driving Netherlands", "driver's license", "car ownership", "Dutch traffic rules", "expat transport"]
@@ -10,7 +11,7 @@ author: "Sarah van den Berg"
 author_bio: "Expat coach and relocation specialist. Half Dutch, half British, living in the Netherlands for over 10 years."
 featured_image: "/images/categories/transport.svg"
 aliases:
-  - /posts/driving-in-netherlands-guide-2026/
+  - /guides/daily-life/driving-in-netherlands-guide-2026/
 faq:
   - q: "Can I drive with my foreign license in the Netherlands?"
     a: "EU/EEA licenses are valid indefinitely. Non-EU licenses are valid for 185 days after registration. After that, you must exchange your license (if your country has an agreement) or take the Dutch driving exam. Some countries (USA, Canada, Japan, South Korea) have exchange agreements."
@@ -29,7 +30,7 @@ faq:
 I resisted getting a car in the Netherlands for years -- the cycling is great, the trains are excellent, and owning a car here is eye-wateringly expensive. But when I started needing to visit clients outside the Randstad, I finally had to figure out Dutch driving rules, license exchange, and why everyone seems to be in a traffic jam on the A2 at the same time. Here is what I have learned.
 
 
-New to the Netherlands? Start with our [complete expat guide](/posts/moving-to-netherlands-guide-2026/).
+New to the Netherlands? Start with our [complete expat guide](/guides/legal/complete-guide-moving-to-netherlands-2026/).
 
 ## Driver's License: What You Need
 
@@ -187,7 +188,7 @@ City parking costs have risen sharply. In 2026, expect:
 - **Utrecht centrum:** €4-€5/hour
 - **P+R facilities:** €1-€8/day (includes OV return trip in some cities)
 
-**Practical tip:** Most Dutch city-centre apartments do not come with parking. If you need a car, factor parking costs into your housing budget — or consider living just outside the ring roads where parking is free or cheap. Read our [finding housing guide](/posts/finding-housing-netherlands-expats-2026/) for more on navigating this trade-off.
+**Practical tip:** Most Dutch city-centre apartments do not come with parking. If you need a car, factor parking costs into your housing budget — or consider living just outside the ring roads where parking is free or cheap. Read our [finding housing guide](/guides/housing/finding-housing-netherlands-expats-2026/) for more on navigating this trade-off.
 
 Use our housing budget tool to model your full monthly costs including parking, and see whether a car is financially worth it in your specific city.
 
@@ -249,12 +250,12 @@ Car ownership is expensive. If you are weighing the costs, see our [cost of livi
 
 ## Explore More Expat Guides
 
-- **[Complete Guide to Moving to the Netherlands](/posts/moving-to-netherlands-guide-2026/)** — Getting started
+- **[Complete Guide to Moving to the Netherlands](/guides/legal/complete-guide-moving-to-netherlands-2026/)** — Getting started
 - **[Cost of Living Netherlands](/guides/housing/cost-of-living-netherlands-2026/)** — Car ownership in context
 - **[Cycling in the Netherlands](/guides/daily-life/cycling-netherlands-expat-guide-2026/)** — The alternative to a car
-- **[Moving to The Hague](/posts/moving-to-the-hague-guide-2026/)** — City guide
-- **[Best Expat Insurance](/posts/best-expat-insurance-netherlands-2026/)** — Car and liability coverage
-- **[DigiD Guide](/posts/digid-guide-expats-2026/)** — Needed for licence applications
+- **[Moving to The Hague](/guides/housing/moving-to-the-hague-guide-2026/)** — City guide
+- **[Best Expat Insurance](/guides/health/best-expat-insurance-netherlands-2026/)** — Car and liability coverage
+- **[DigiD Guide](/guides/legal/digid-guide-expats-2026/)** — Needed for licence applications
 
 ---
 

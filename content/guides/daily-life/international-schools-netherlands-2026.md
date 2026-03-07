@@ -1,6 +1,7 @@
 ---
 title: "International Schools in the Netherlands 2026: Complete Guide"
 date: 2026-04-06T10:00:00+01:00
+lastmod: 2026-04-06T10:00:00+01:00
 description: "Complete guide to international schools in the Netherlands for expat families. Costs, top schools by city, curriculum types, and enrollment tips for 2026."
 categories: ["daily-life"]
 tags: ["international schools", "education", "expat children", "Netherlands", "IB curriculum"]
@@ -10,7 +11,7 @@ author: "Sarah van den Berg"
 author_bio: "Expat coach and relocation specialist. Half Dutch, half British, living in the Netherlands for over 10 years."
 featured_image: "/images/categories/daily-life.svg"
 aliases:
-  - /posts/international-schools-netherlands-2026/
+  - /guides/daily-life/international-schools-netherlands-2026/
 faq:
   - q: "How much do international schools cost in the Netherlands?"
     a: "Annual tuition fees range from €5,500 to €24,000 depending on the school and age group. Primary school fees are typically €5,500-€15,000 per year, while secondary and IB Diploma fees range from €12,000-€24,000. Additional costs include registration fees (€500-€3,000), school trips, uniforms, and lunch programs."
@@ -29,7 +30,7 @@ faq:
 Choosing a school is the decision that keeps my expat parent clients up at night more than anything else -- even more than housing. I get it. IB or British curriculum? Is it worth paying twenty thousand euros a year? Will my child be okay switching mid-year? Having gone through international schooling myself as a half-British, half-Dutch kid, and now advising families on this decision regularly, I know how much it matters. Here is my guide to help you make the right call.
 
 
-New to the Netherlands? Start with our [complete guide to moving to the Netherlands](/posts/complete-guide-moving-to-netherlands-2026/) for the full picture.
+New to the Netherlands? Start with our [complete guide to moving to the Netherlands](/guides/legal/complete-guide-moving-to-netherlands-2026/) for the full picture.
 
 ## Cost Overview
 
@@ -291,7 +292,7 @@ For context on how school fees fit into your full family budget in the Netherlan
 While fully private international schools receive no government funding, there are ways to reduce costs:
 
 - **Employer packages** — The most significant source of financial help. Always negotiate.
-- **30% ruling** — If you qualify for the [30% ruling](/posts/30-percent-ruling-netherlands-2026/), your effective income is higher, making school fees more affordable.
+- **30% ruling** — If you qualify for the [30% ruling](/guides/finance/30-percent-ruling-netherlands-2026/), your effective income is higher, making school fees more affordable.
 - **Government-subsidized international departments** — Schools like AICS (Amsterdam), ISH (The Hague primary), and ISE (Eindhoven) are partly funded, with tuition of €5,000-€8,000.
 - **Kinderopvangtoeslag** — Childcare subsidies (for BSO/after-school care) are available for international school children, based on income.
 - **Sibling discounts** — Some schools offer 5-15% discounts for second and subsequent children.
@@ -302,11 +303,11 @@ When your child transitions to an international school, helping them connect wit
 
 ## Related Guides
 
-- **[Complete Guide to Moving to the Netherlands 2026](/posts/complete-guide-moving-to-netherlands-2026/)** — Everything you need to know about relocating
-- **[Cost of Living in the Netherlands 2026](/posts/cost-of-living-netherlands-2026/)** — Budget planning including education costs
-- **[Moving to Amsterdam 2026](/posts/moving-to-amsterdam-guide-2026/)** — City-specific guide including school options
-- **[Moving to Rotterdam 2026](/posts/moving-to-rotterdam-guide-2026/)** — Rotterdam-specific relocation guide
-- **[The 30% Ruling Explained](/posts/30-percent-ruling-netherlands-2026/)** — Tax benefit that helps offset school costs
+- **[Complete Guide to Moving to the Netherlands 2026](/guides/legal/complete-guide-moving-to-netherlands-2026/)** — Everything you need to know about relocating
+- **[Cost of Living in the Netherlands 2026](/guides/housing/cost-of-living-netherlands-2026/)** — Budget planning including education costs
+- **[Moving to Amsterdam 2026](/guides/housing/moving-to-amsterdam-guide-2026/)** — City-specific guide including school options
+- **[Moving to Rotterdam 2026](/guides/housing/moving-to-rotterdam-guide-2026/)** — Rotterdam-specific relocation guide
+- **[The 30% Ruling Explained](/guides/finance/30-percent-ruling-netherlands-2026/)** — Tax benefit that helps offset school costs
 
 ---
 

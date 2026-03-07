@@ -1,7 +1,8 @@
 ---
 title: "Dutch Tax System Explained for Expats 2026"
 date: 2026-03-06T12:00:00+01:00
-description: "Complete guide to the Dutch tax system for expats in 2026. Box 1, 2, and 3 explained, tax brackets, deductions, DigiD, annual returns, and expat tax advisors."
+lastmod: 2026-03-06T12:00:00+01:00
+description: "Complete guide to the Dutch tax system for expats in 2026. Box 1, 2, and 3 explained, tax brackets, deductions, DigiD, and annual returns."
 categories: ["finance"]
 tags: ["dutch taxes", "tax return netherlands", "belastingdienst", "box 1 tax", "expat tax advisor", "tax deductions netherlands", "income tax netherlands"]
 keywords: ["dutch tax system expats", "taxes netherlands expat", "dutch income tax 2026", "tax brackets netherlands", "dutch tax return expat", "belastingdienst expat guide"]
@@ -10,7 +11,7 @@ author: "Sarah van den Berg"
 author_bio: "Expat coach and relocation specialist. Half Dutch, half British, living in the Netherlands for over 10 years."
 featured_image: "/images/categories/finance.svg"
 aliases:
-  - /posts/dutch-tax-system-expats-guide-2026/
+  - /guides/finance/dutch-tax-system-expats-guide-2026/
 faq:
   - q: "Do I have to file a tax return in the Netherlands as an expat?"
     a: "If you are a tax resident of the Netherlands (registered at a Dutch address and living here for the majority of the year), you are generally required to file an annual tax return (aangifte inkomstenbelasting). The Belastingdienst may also send you an invitation to file. Even if you are not required, filing voluntarily can be beneficial if you are entitled to deductions or refunds, such as mortgage interest deduction or healthcare costs."
@@ -135,7 +136,7 @@ If you arrived in the Netherlands partway through the year, you are a partial-ye
 
 The 30% ruling is the most significant tax benefit available to qualifying expats. If you are eligible, your employer can pay up to 30% of your gross salary as a tax-free allowance, substantially reducing your effective tax rate.
 
-We cover the 30% ruling in full detail in our dedicated guide: [The 30% Ruling in the Netherlands 2026: Complete Guide](/posts/30-percent-ruling-netherlands-2026/). Key points:
+We cover the 30% ruling in full detail in our dedicated guide: [The 30% Ruling in the Netherlands 2026: Complete Guide](/guides/finance/30-percent-ruling-netherlands-2026/). Key points:
 
 - Available to highly skilled migrants recruited from abroad
 - Minimum salary threshold applies (approximately EUR 46,107 in 2026, or EUR 35,048 for under-30s with a qualifying master's degree)
@@ -304,11 +305,11 @@ A good tax advisor will:
 
 ## Related Guides
 
-- [The 30% Ruling in the Netherlands 2026: Complete Guide](/posts/30-percent-ruling-netherlands-2026/) -- maximize your expat tax benefit
-- [Dutch Health Insurance for Expats: Complete Guide 2026](/posts/dutch-health-insurance-guide-expats-2026/) -- understand your mandatory insurance
-- [Best Bank Accounts for Expats in the Netherlands 2026](/posts/best-bank-account-expats-netherlands-2026/) -- set up your Dutch banking
-- [Complete Guide to Moving to the Netherlands in 2026](/posts/complete-guide-moving-to-netherlands-2026/) -- your full relocation checklist
-- [Cost of Living in the Netherlands 2026](/posts/cost-of-living-netherlands-2026/) -- budget for your Dutch life
+- [The 30% Ruling in the Netherlands 2026: Complete Guide](/guides/finance/30-percent-ruling-netherlands-2026/) -- maximize your expat tax benefit
+- [Dutch Health Insurance for Expats: Complete Guide 2026](/guides/health/dutch-health-insurance-guide-expats-2026/) -- understand your mandatory insurance
+- [Best Bank Accounts for Expats in the Netherlands 2026](/guides/finance/best-bank-account-expats-netherlands-2026/) -- set up your Dutch banking
+- [Complete Guide to Moving to the Netherlands in 2026](/guides/legal/complete-guide-moving-to-netherlands-2026/) -- your full relocation checklist
+- [Cost of Living in the Netherlands 2026](/guides/housing/cost-of-living-netherlands-2026/) -- budget for your Dutch life
 - [Expat Tax Return Netherlands 2026](/guides/finance/expat-tax-return-netherlands-2026/) -- step-by-step guide to filing your annual return
 - [Dutch Pension System for Expats 2026](/guides/finance/dutch-pension-system-expats-2026/) -- understand how your pension builds during your time here
 

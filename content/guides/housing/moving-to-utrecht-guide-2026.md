@@ -1,7 +1,8 @@
 ---
 title: "Moving to Utrecht 2026: Complete Expat Guide"
 date: 2026-03-06T10:00:00+01:00
-description: "Complete expat guide to moving to Utrecht in 2026. Neighborhoods, housing costs, international schools, transport, and why Utrecht is the Netherlands' best-kept secret."
+lastmod: 2026-03-06T10:00:00+01:00
+description: "Complete expat guide to moving to Utrecht in 2026. Neighborhoods, housing costs, international schools, and transport links explained."
 categories: ["relocation"]
 tags: ["Utrecht", "moving to Utrecht", "expat city guide", "Netherlands cities", "relocation"]
 keywords: ["moving to Utrecht expat", "Utrecht expat guide 2026", "living in Utrecht", "Utrecht neighborhoods expats"]
@@ -10,7 +11,7 @@ author: "Sarah van den Berg"
 author_bio: "Expat coach and relocation specialist. Half Dutch, half British, living in the Netherlands for over 10 years."
 featured_image: "/images/categories/relocation.svg"
 aliases:
-  - /posts/moving-to-utrecht-guide-2026/
+  - /guides/housing/moving-to-utrecht-guide-2026/
 faq:
   - q: "Is Utrecht good for expats?"
     a: "Yes, Utrecht is excellent for expats. It's the 4th largest Dutch city with a vibrant international community, beautiful historic center, excellent public transport (central hub of NL rail network), lower housing costs than Amsterdam, and some of the best quality of life rankings in Europe. The university attracts international talent."
@@ -29,7 +30,7 @@ faq:
 Every time I visit Utrecht, I think about moving there. It has everything I love about Amsterdam -- the canals, the cafe culture, the cycling -- but without the tourist crowds and with a community feel that is hard to find in bigger cities. It is also the most central city in the Netherlands, which means everywhere is a short train ride away. More and more of my clients are choosing Utrecht over Amsterdam, and I completely understand why.
 
 
-New to the Netherlands? Start with our [complete expat guide](/posts/moving-to-netherlands-guide-2026/).
+New to the Netherlands? Start with our [complete expat guide](/guides/legal/complete-guide-moving-to-netherlands-2026/).
 
 ## Why Utrecht?
 
@@ -205,7 +206,7 @@ Utrecht has a dimension that is easy to underestimate: it is one of Europe's gre
 **What the university presence means for expats:**
 
 - **Language:** Utrecht is highly English-friendly, particularly in professional and academic settings
-- **Housing competition:** Students and expats compete for the same housing stock — the rental market is tight, especially for smaller apartments. Start your search early with our [finding housing guide](/posts/finding-housing-netherlands-expats-2026/)
+- **Housing competition:** Students and expats compete for the same housing stock — the rental market is tight, especially for smaller apartments. Start your search early with our [finding housing guide](/guides/housing/finding-housing-netherlands-expats-2026/)
 - **Energy and culture:** More independent shops, bookshops, coffee bars, and events than you would find in a similarly sized city without a major university
 - **Job market:** UMC Utrecht, the university itself, and affiliated research bodies are major employers. Healthcare professionals in particular find strong opportunities here
 
@@ -219,9 +220,9 @@ Utrecht's tech and startup ecosystem does not get the international attention th
 
 **The Science Park ecosystem** extends well beyond the university itself. The area houses research institutes, spin-off companies, and innovation labs from the likes of TNO (Netherlands Organisation for Applied Scientific Research), and is increasingly attracting scale-ups looking for talent from Utrecht University's graduate pool. If you work in health-tech, biotech, or data science, the concentration of relevant companies and expertise here is significant.
 
-**Why Utrecht suits remote workers and freelancers:** Utrecht Centraal connects you to every major Dutch city within 45 minutes, which means you can maintain client relationships across the Randstad without relocating. Rents are lower than Amsterdam, coworking options are genuinely good (UtrechtInc, Seats2Meet, and several independent spaces), and the city's quality of life makes long days at a desk more bearable. If you are considering freelancing in the Netherlands, our [ZZP freelancer guide](/posts/freelancer-zzp-guide-netherlands-2026/) and [30% ruling calculator](/tools/30-percent-ruling-calculator/) are good places to start planning the financial side.
+**Why Utrecht suits remote workers and freelancers:** Utrecht Centraal connects you to every major Dutch city within 45 minutes, which means you can maintain client relationships across the Randstad without relocating. Rents are lower than Amsterdam, coworking options are genuinely good (UtrechtInc, Seats2Meet, and several independent spaces), and the city's quality of life makes long days at a desk more bearable. If you are considering freelancing in the Netherlands, our [ZZP freelancer guide](/guides/work/freelancer-zzp-guide-netherlands-2026/) and [30% ruling calculator](/tools/30-percent-ruling-calculator/) are good places to start planning the financial side.
 
-For your language learning as you settle into student-city Utrecht, see our [best apps to learn Dutch](/posts/best-apps-learn-dutch-2026/) guide — and for the financial setup, our [cost of living guide](/posts/cost-of-living-netherlands-2026/) gives a full Utrecht breakdown.
+For your language learning as you settle into student-city Utrecht, see our [best apps to learn Dutch](/guides/integration/best-apps-learn-dutch-2026/) guide — and for the financial setup, our [cost of living guide](/guides/housing/cost-of-living-netherlands-2026/) gives a full Utrecht breakdown.
 
 ## Cost of Living in Utrecht: 2026 Numbers
 
@@ -281,11 +282,11 @@ For the full housing search process in Utrecht's competitive market, read our [f
 
 ## Explore More Expat Guides
 
-- **[Complete Guide to Moving to the Netherlands](/posts/moving-to-netherlands-guide-2026/)** — Getting started
-- **[Moving to Amsterdam](/posts/moving-to-amsterdam-guide-2026/)** — Capital city guide
-- **[Moving to The Hague](/posts/moving-to-the-hague-guide-2026/)** — International city
-- **[Moving to Eindhoven](/posts/moving-to-eindhoven-guide-2026/)** — Tech hub guide
-- **[Best Bank Accounts for Expats](/posts/best-bank-accounts-expats-netherlands-2026/)** — Finances setup
+- **[Complete Guide to Moving to the Netherlands](/guides/legal/complete-guide-moving-to-netherlands-2026/)** — Getting started
+- **[Moving to Amsterdam](/guides/housing/moving-to-amsterdam-guide-2026/)** — Capital city guide
+- **[Moving to The Hague](/guides/housing/moving-to-the-hague-guide-2026/)** — International city
+- **[Moving to Eindhoven](/guides/housing/moving-to-eindhoven-guide-2026/)** — Tech hub guide
+- **[Best Bank Accounts for Expats](/guides/finance/best-bank-account-expats-netherlands-2026/)** — Finances setup
 - **[Finding Housing in the Netherlands](/guides/housing/finding-housing-netherlands-expats-2026/)** — Rental search strategy
 - **[Cost of Living in the Netherlands](/guides/housing/cost-of-living-netherlands-2026/)** — Full city comparison
 

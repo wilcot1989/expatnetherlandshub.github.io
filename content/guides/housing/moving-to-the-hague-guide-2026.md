@@ -1,6 +1,7 @@
 ---
 title: "Moving to The Hague 2026: Complete Expat Guide"
 date: 2026-03-06T10:00:00+01:00
+lastmod: 2026-03-06T10:00:00+01:00
 description: "Everything you need to know about moving to The Hague as an expat. Neighborhoods, housing, international community, costs of living, and practical tips."
 categories: ["housing"]
 tags: ["The Hague", "Den Haag", "expat housing", "international city", "relocation"]
@@ -10,7 +11,7 @@ author: "Sarah van den Berg"
 author_bio: "Expat coach and relocation specialist. Half Dutch, half British, living in the Netherlands for over 10 years."
 featured_image: "/images/categories/housing.svg"
 aliases:
-  - /posts/moving-to-the-hague-guide-2026/
+  - /guides/housing/moving-to-the-hague-guide-2026/
 faq:
   - q: "Is The Hague a good city for expats?"
     a: "The Hague is arguably the best city in the Netherlands for expats. It hosts over 200 international organizations (including the International Court of Justice and Europol), has the largest international community in the country, and offers a cosmopolitan atmosphere with beach access. English is widely spoken everywhere."
@@ -29,7 +30,7 @@ faq:
 If I had to recommend one Dutch city for expat families, it would be The Hague. I know that is a bold statement, but hear me out: the largest international community in the Netherlands, excellent international schools, a beach you can cycle to in fifteen minutes, and housing prices that will not make you cry (as much as Amsterdam). Many of my clients end up here, and almost none of them regret it. Here is why -- and how to make the move.
 
 
-New to the Netherlands? Start with our [complete moving guide](/posts/moving-to-netherlands-guide-2026/) and set up your [DigiD](/posts/digid-guide-expats-2026/).
+New to the Netherlands? Start with our [complete moving guide](/guides/legal/complete-guide-moving-to-netherlands-2026/) and set up your [DigiD](/guides/legal/digid-guide-expats-2026/).
 
 ## Why Expats Love The Hague
 
@@ -146,7 +147,7 @@ Benoordenhout is where many ambassadors and diplomats live. It borders the Haags
 - **Your income should be 3x the monthly rent** — This is a standard requirement
 - **International real estate agents** — VGM NL, JANSEN International, and Expat Housing Network specialize in expat rentals
 - **Housing scams exist** — Never transfer money before viewing a property in person
-- **Check the energy label** — Higher labels mean lower energy costs. See my guide on the [Dutch energy market](/posts/energy-providers-expats-netherlands-2026/)
+- **Check the energy label** — Higher labels mean lower energy costs. See my guide on the [Dutch energy market](/guides/housing/energy-providers-expats-netherlands-2026/)
 
 ### Buying Property
 
@@ -155,7 +156,7 @@ The Hague's property market is more accessible than Amsterdam:
 - **Mortgage available for expats:** Yes, with a permanent contract and residence permit
 - **30% ruling bonus:** If you have the 30% ruling, your purchasing power increases significantly
 
-Read our [expat mortgage guide](/posts/expat-mortgage-options-netherlands-2026/) for details.
+Read our [expat mortgage guide](/guides/housing/expat-mortgage-options-netherlands-2026/) for details.
 
 ## International Schools
 
@@ -172,7 +173,7 @@ The Hague has the highest concentration of international schools in the Netherla
 
 **Important:** Many employers (international organizations, embassies) cover school tuition as part of the relocation package. Always negotiate this.
 
-For more details, see our [international schools guide](/posts/international-schools-netherlands-2026/).
+For more details, see our [international schools guide](/guides/daily-life/international-schools-netherlands-2026/).
 
 ## Getting Around
 
@@ -224,8 +225,8 @@ The Hague hosts major international organizations:
 ### When You First Arrive
 1. **Register at the municipality (gemeente)** — Book online at [denhaag.nl](https://www.denhaag.nl), bring passport, rental contract, birth certificate
 2. **Get BSN (burgerservicenummer)** — Assigned at municipality registration
-3. **Get health insurance** — Within 4 months. See our [expat insurance guide](/posts/best-expat-insurance-netherlands-2026/)
-4. **Apply for DigiD** — Required for government services. See our [DigiD guide](/posts/digid-guide-expats-2026/)
+3. **Get health insurance** — Within 4 months. See our [expat insurance guide](/guides/health/best-expat-insurance-netherlands-2026/)
+4. **Apply for DigiD** — Required for government services. See our [DigiD guide](/guides/legal/digid-guide-expats-2026/)
 5. **Open a bank account** — ING, ABN AMRO, or Bunq (most expat-friendly)
 
 ### Money Transfer
@@ -300,11 +301,11 @@ If you work in an international organization, government, or simply want a cosmo
 
 ## Explore More Expat Guides
 
-- **[Complete Guide to Moving to the Netherlands](/posts/moving-to-netherlands-guide-2026/)** — Everything you need
-- **[International Schools in the Netherlands](/posts/international-schools-netherlands-2026/)** — Full school comparison
-- **[Best Expat Insurance](/posts/best-expat-insurance-netherlands-2026/)** — Health and other key insurance
-- **[Highly Skilled Migrant Visa](/posts/highly-skilled-migrant-visa-netherlands-2026/)** — Work permit information
-- **[Netherlands vs Germany for Expats](/posts/netherlands-vs-germany-expats-2026/)** — Country comparison
+- **[Complete Guide to Moving to the Netherlands](/guides/legal/complete-guide-moving-to-netherlands-2026/)** — Everything you need
+- **[International Schools in the Netherlands](/guides/daily-life/international-schools-netherlands-2026/)** — Full school comparison
+- **[Best Expat Insurance](/guides/health/best-expat-insurance-netherlands-2026/)** — Health and other key insurance
+- **[Highly Skilled Migrant Visa](/guides/legal/highly-skilled-migrant-visa-netherlands-2026/)** — Work permit information
+- **[Netherlands vs Germany for Expats](/guides/integration/netherlands-vs-germany-expats-2026/)** — Country comparison
 
 ---
 

@@ -1,6 +1,7 @@
 ---
 title: "Best Dutch Language Courses 2026: Online & In-Person"
 date: 2026-03-06T12:00:00+01:00
+lastmod: 2026-03-06T12:00:00+01:00
 description: "Compare the best Dutch language courses in 2026: Babbel, Duolingo, Preply, italki, Taalhuis, UvA Talen, Direct Dutch, and NT2 exam prep options reviewed."
 categories: ["language"]
 tags: ["dutch language course", "learn dutch", "NT2 exam", "dutch classes", "online dutch course", "dutch language school", "taalhuis", "preply dutch"]
@@ -10,7 +11,7 @@ author: "Sarah van den Berg"
 author_bio: "Expat coach and relocation specialist. Half Dutch, half British, living in the Netherlands for over 10 years."
 featured_image: "/images/categories/language.svg"
 aliases:
-  - /posts/best-dutch-language-courses-2026/
+  - /guides/integration/best-dutch-language-courses-2026/
 faq:
   - q: "What is the fastest way to learn Dutch as an expat?"
     a: "The fastest approach combines structured learning with immersion. Take an intensive in-person course (15-20 hours per week) for the initial foundation, supplement with a language app like Babbel for daily practice, book weekly conversation sessions on italki or Preply, and immerse yourself by setting your phone to Dutch, watching Dutch TV, and practicing with colleagues. Most dedicated learners reach conversational level within 6-12 months using this combined approach."
@@ -94,7 +95,7 @@ Language apps are the most accessible starting point for learning Dutch. They wo
 
 <a href="https://www.babbel.com/" target="_blank" rel="noopener noreferrer" class="cta-affiliate">Start your Babbel Dutch course →</a>
 
-For a detailed comparison with Duolingo, read our [Babbel vs Duolingo for Learning Dutch](/posts/babbel-vs-duolingo-learn-dutch-2026/) guide.
+For a detailed comparison with Duolingo, read our [Babbel vs Duolingo for Learning Dutch](/guides/integration/babbel-vs-duolingo-learn-dutch-2026/) guide.
 
 ---
 
@@ -135,7 +136,7 @@ Duolingo offers a complete Dutch course for free, making it the most accessible 
 
 Duolingo is an excellent free supplement to a more structured learning method. Use it for daily vocabulary maintenance and streak motivation, but do not rely on it as your sole learning tool if you are serious about becoming conversational.
 
-For a deeper comparison, see our [Babbel vs Duolingo for Learning Dutch](/posts/babbel-vs-duolingo-learn-dutch-2026/) article. For other app options including Pimsleur, Mondly, and Rosetta Stone, check our [7 Best Apps to Learn Dutch in 2026](/posts/best-apps-learn-dutch-2026/) guide.
+For a deeper comparison, see our [Babbel vs Duolingo for Learning Dutch](/guides/integration/babbel-vs-duolingo-learn-dutch-2026/) article. For other app options including Pimsleur, Mondly, and Rosetta Stone, check our [7 Best Apps to Learn Dutch in 2026](/guides/integration/best-apps-learn-dutch-2026/) guide.
 
 ---
 
@@ -393,7 +394,7 @@ The NT2 Staatsexamen (State Exam Dutch as a Second Language) comes in two levels
 5. **Book tutoring sessions**: Practice speaking with a tutor on [Preply](https://preply.com/) or [italki](https://www.italki.com/) in the months before the exam
 6. **Join conversation groups**: Libraries and community centers often host free Dutch conversation practice
 
-For a complete guide to the civic integration process, read our [Inburgeringsexamen Preparation Guide 2026](/posts/inburgeringsexamen-preparation-guide-2026/). Unsure which learning route applies to your visa and situation? Our [inburgering route builder](/tools/inburgering-route-builder/) helps you identify the right path in under two minutes.
+For a complete guide to the civic integration process, read our [Inburgeringsexamen Preparation Guide 2026](/guides/integration/inburgeringsexamen-preparation-guide-2026/). Unsure which learning route applies to your visa and situation? Our [inburgering route builder](/tools/inburgering-route-builder/) helps you identify the right path in under two minutes.
 
 ---
 
@@ -433,10 +434,10 @@ For expats who want to reach conversational Dutch as efficiently as possible, he
 
 ## Related Guides
 
-- [Babbel vs Duolingo for Learning Dutch 2026](/posts/babbel-vs-duolingo-learn-dutch-2026/) -- detailed comparison of the two most popular apps
-- [7 Best Apps to Learn Dutch in 2026](/posts/best-apps-learn-dutch-2026/) -- full review of all major language apps
-- [Inburgeringsexamen Preparation Guide 2026](/posts/inburgeringsexamen-preparation-guide-2026/) -- everything about the civic integration exam
-- [Complete Guide to Moving to the Netherlands in 2026](/posts/complete-guide-moving-to-netherlands-2026/) -- your full relocation checklist
+- [Babbel vs Duolingo for Learning Dutch 2026](/guides/integration/babbel-vs-duolingo-learn-dutch-2026/) -- detailed comparison of the two most popular apps
+- [7 Best Apps to Learn Dutch in 2026](/guides/integration/best-apps-learn-dutch-2026/) -- full review of all major language apps
+- [Inburgeringsexamen Preparation Guide 2026](/guides/integration/inburgeringsexamen-preparation-guide-2026/) -- everything about the civic integration exam
+- [Complete Guide to Moving to the Netherlands in 2026](/guides/legal/complete-guide-moving-to-netherlands-2026/) -- your full relocation checklist
 
 ---
 

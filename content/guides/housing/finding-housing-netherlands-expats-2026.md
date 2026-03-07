@@ -1,6 +1,7 @@
 ---
 title: "Finding Housing in the Netherlands as an Expat: Complete Guide 2026"
 date: 2026-03-06T11:00:00+01:00
+lastmod: 2026-03-06T11:00:00+01:00
 description: "Complete guide to finding housing in the Netherlands as an expat in 2026. Rental platforms, costs per city, contracts, scam warnings, and tips."
 categories: ["relocation"]
 tags: ["housing netherlands", "rent apartment netherlands", "expat housing", "dutch rental market", "funda", "pararius"]
@@ -10,7 +11,7 @@ author: "Sarah van den Berg"
 author_bio: "Expat coach and relocation specialist. Half Dutch, half British, living in the Netherlands for over 10 years."
 featured_image: "/images/categories/relocation.svg"
 aliases:
-  - /posts/finding-housing-netherlands-expats-2026/
+  - /guides/housing/finding-housing-netherlands-expats-2026/
 faq:
   - q: "How much does it cost to rent an apartment in the Netherlands in 2026?"
     a: "Rental costs vary significantly by city. In Amsterdam, expect EUR 1,500-2,500 per month for a one-bedroom apartment in the private sector. The Hague and Utrecht range from EUR 1,200-1,800. Eindhoven and Groningen are more affordable at EUR 900-1,400. Smaller cities and towns can be as low as EUR 700-1,100. These figures are for unfurnished apartments in the private rental sector."
@@ -334,7 +335,7 @@ In practice, most expats earning highly skilled migrant salaries do not qualify 
 
 Once you have secured your housing, handle these tasks quickly:
 
-1. **Register at the gemeente**: You need your rental contract and address to register and receive your BSN. See our [complete guide to moving to the Netherlands](/posts/complete-guide-moving-to-netherlands-2026/) for the full registration process.
+1. **Register at the gemeente**: You need your rental contract and address to register and receive your BSN. See our [complete guide to moving to the Netherlands](/guides/legal/complete-guide-moving-to-netherlands-2026/) for the full registration process.
 2. **Set up utilities**: If utilities are not included, arrange gas, electricity, and water with a provider like Vattenfall, Eneco, or Budget Energie. Comparing before you sign takes five minutes and can save EUR 200-400 per year.
 
    <a href="https://www.awin1.com/cread.php?awinmid=8558&awinaffid=2776410&ued=https%3A%2F%2Fwww.independer.nl%2Fenergie" rel="nofollow sponsored" target="_blank" class="cta">Compare Energy Providers on Independer →</a>
@@ -356,7 +357,7 @@ While this guide focuses on renting, some expats consider buying property in the
 - Mortgage interest is tax-deductible (hypotheekrenteaftrek), making buying financially attractive
 - The housing purchase market is also very competitive, with bidding wars common in popular areas
 - Most buyers use a mortgage advisor (hypotheekadviseur) and a notary (notaris) to handle the transaction
-- If you hold the [30% ruling](/posts/30-percent-ruling-netherlands-2026/), be aware that banks may assess your mortgage capacity based on your salary after the ruling expires
+- If you hold the [30% ruling](/guides/finance/30-percent-ruling-netherlands-2026/), be aware that banks may assess your mortgage capacity based on your salary after the ruling expires
 
 ---
 
@@ -364,7 +365,7 @@ While this guide focuses on renting, some expats consider buying property in the
 
 Finding housing in the Netherlands takes patience, preparation, and persistence. The market is competitive, but thousands of expats successfully find homes every year. Your best strategies are: start searching early, prepare your documents in advance, set up alerts on multiple platforms, respond to listings immediately, and be flexible on location.
 
-If you are still planning your move, our [complete guide to moving to the Netherlands in 2026](/posts/complete-guide-moving-to-netherlands-2026/) walks you through every step from visa to settling in. And once you are settled, start building your new life by [learning Dutch](/posts/best-apps-learn-dutch-2026/) -- it will help with everything, including negotiating with landlords. To understand how housing costs fit into your overall budget, see our [cost of living in the Netherlands guide](/guides/housing/cost-of-living-netherlands-2026/).
+If you are still planning your move, our [complete guide to moving to the Netherlands in 2026](/guides/legal/complete-guide-moving-to-netherlands-2026/) walks you through every step from visa to settling in. And once you are settled, start building your new life by [learning Dutch](/guides/integration/best-apps-learn-dutch-2026/) -- it will help with everything, including negotiating with landlords. To understand how housing costs fit into your overall budget, see our [cost of living in the Netherlands guide](/guides/housing/cost-of-living-netherlands-2026/).
 
 Need to transfer your rental deposit or first month's rent from abroad? Wise is significantly cheaper than a standard international bank transfer — many expats save EUR 50-150 on their first deposit alone.
 

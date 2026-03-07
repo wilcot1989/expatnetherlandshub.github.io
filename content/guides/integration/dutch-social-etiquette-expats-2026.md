@@ -1,6 +1,7 @@
 ---
 title: "Dutch Social Etiquette: Unwritten Rules Every Expat Should Know"
 date: 2026-04-14T10:00:00+01:00
+lastmod: 2026-04-14T10:00:00+01:00
 description: "Dutch social etiquette for expats: directness, birthday circles, agenda culture, splitting bills, and the unwritten rules you need to know."
 categories: ["integration"]
 tags: ["Dutch culture", "social etiquette", "expat life", "Netherlands", "integration"]
@@ -10,7 +11,7 @@ author: "Sarah van den Berg"
 author_bio: "Expat coach and relocation specialist. Half Dutch, half British, living in the Netherlands for over 10 years."
 featured_image: "/images/categories/integration.svg"
 aliases:
-  - /posts/dutch-social-etiquette-expats-2026/
+  - /guides/integration/dutch-social-etiquette-expats-2026/
 faq:
   - q: "Why are Dutch people so direct?"
     a: "Dutch directness comes from a cultural value called 'doe maar gewoon' — just act normal — combined with a deep respect for honesty. It is not rudeness. Dutch people consider it a sign of respect to tell you the truth rather than wrap it in polite cushioning. Once you understand this, interactions become much easier."

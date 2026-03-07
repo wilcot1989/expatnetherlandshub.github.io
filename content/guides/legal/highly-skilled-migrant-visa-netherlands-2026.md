@@ -1,7 +1,8 @@
 ---
 title: "Highly Skilled Migrant Visa Netherlands 2026: Step-by-Step Application Guide"
 date: 2026-03-06T10:00:00+01:00
-description: "Complete guide to the Dutch Highly Skilled Migrant (Kennismigrant) visa in 2026. Salary requirements, application process, timeline, and tips for a successful application."
+lastmod: 2026-03-06T10:00:00+01:00
+description: "Complete guide to the Dutch Highly Skilled Migrant (Kennismigrant) visa in 2026. Salary requirements, application process, and timeline explained."
 categories: ["relocation"]
 tags: ["highly skilled migrant", "kennismigrant", "work visa", "IND", "immigration"]
 keywords: ["highly skilled migrant visa Netherlands", "kennismigrant visa", "work permit Netherlands", "IND visa application"]
@@ -10,7 +11,7 @@ author: "Sarah van den Berg"
 author_bio: "Expat coach and relocation specialist. Half Dutch, half British, living in the Netherlands for over 10 years."
 featured_image: "/images/categories/relocation.svg"
 aliases:
-  - /posts/highly-skilled-migrant-visa-netherlands-2026/
+  - /guides/legal/highly-skilled-migrant-visa-netherlands-2026/
 faq:
   - q: "What is the salary requirement for a highly skilled migrant visa in 2026?"
     a: "For applicants aged 30 and over, the minimum gross monthly salary is €5,331 (excluding 8% holiday allowance). For those under 30, it is €3,909. Reduced rates apply for certain categories like researchers and recent graduates from Dutch universities. These amounts are adjusted annually by the IND."
@@ -29,7 +30,7 @@ faq:
 Most of my expat clients come to the Netherlands on a highly skilled migrant visa, and the good news is that it is one of the smoother immigration processes I have seen. Your employer does most of the heavy lifting, and the turnaround is surprisingly fast. That said, I have watched a few applications hit unnecessary snags because of avoidable mistakes. Here is the step-by-step guide I give every client to make sure everything goes right the first time.
 
 
-Planning your move? Read our [complete guide to moving to the Netherlands](/posts/complete-guide-moving-to-netherlands-2026/) for the full picture.
+Planning your move? Read our [complete guide to moving to the Netherlands](/guides/legal/complete-guide-moving-to-netherlands-2026/) for the full picture.
 
 ## Requirements at a Glance
 
@@ -101,14 +102,14 @@ After arriving in the Netherlands:
 ### Step 6: Set Up Dutch Life
 
 With your BSN and residence permit, you can:
-- Open a [Dutch bank account](/posts/best-bank-account-expats-netherlands-2026/)
-- Get [Dutch health insurance](/posts/dutch-health-insurance-guide-expats-2026/) (mandatory within 4 months)
-- Apply for the [30% ruling](/posts/30-percent-ruling-netherlands-2026/) (tax benefit)
+- Open a [Dutch bank account](/guides/finance/best-bank-account-expats-netherlands-2026/)
+- Get [Dutch health insurance](/guides/health/dutch-health-insurance-guide-expats-2026/) (mandatory within 4 months)
+- Apply for the [30% ruling](/guides/finance/30-percent-ruling-netherlands-2026/) (tax benefit)
 - Register with a huisarts (family doctor)
 
 ## The 30% Ruling: Do Not Miss This
 
-If you qualify for the highly skilled migrant visa, you almost certainly qualify for the [30% ruling](/posts/30-percent-ruling-netherlands-2026/). This tax benefit makes 30% of your gross salary tax-free for up to 5 years, significantly increasing your take-home pay.
+If you qualify for the highly skilled migrant visa, you almost certainly qualify for the [30% ruling](/guides/finance/30-percent-ruling-netherlands-2026/). This tax benefit makes 30% of your gross salary tax-free for up to 5 years, significantly increasing your take-home pay.
 
 **Example:** On a €70,000 gross salary, the 30% ruling saves you approximately €8,000-€10,000 per year in taxes.
 
@@ -143,7 +144,7 @@ Your partner can apply for a dependent residence permit simultaneously. They wil
 - Notarized cohabitation agreement
 
 ### Children
-Children under 18 can join you on dependent permits. They can attend school immediately — see my guide to [international schools](/posts/international-schools-netherlands-2026/) or the Dutch education system.
+Children under 18 can join you on dependent permits. They can attend school immediately — see my guide to [international schools](/guides/daily-life/international-schools-netherlands-2026/) or the Dutch education system.
 
 ### Parents/Other Family
 Parents and other extended family members generally cannot join you under the highly skilled migrant scheme. They would need to apply under the regular family reunification rules, which have stricter income requirements.
@@ -164,13 +165,13 @@ Parents and other extended family members generally cannot join you under the hi
 
 Once you have your BSN and residence permit, complete these steps:
 
-- **Banking:** Open a Dutch account — use <a href="https://wise.com/invite/ihpc/willemt52" rel="nofollow sponsored" target="_blank">Wise</a> for international transfers while waiting for your Dutch account. See our [best bank accounts guide](/posts/best-bank-account-expats-netherlands-2026/).
+- **Banking:** Open a Dutch account — use <a href="https://wise.com/invite/ihpc/willemt52" rel="nofollow sponsored" target="_blank">Wise</a> for international transfers while waiting for your Dutch account. See our [best bank accounts guide](/guides/finance/best-bank-account-expats-netherlands-2026/).
 
-- **Health insurance:** Compare and choose your plan. Use <a href="https://www.awin1.com/awclick.php?mid=8558&id=2776410" rel="nofollow sponsored" target="_blank">Independer.nl</a> to compare Dutch health insurance plans. Read our [complete health insurance guide](/posts/dutch-health-insurance-guide-expats-2026/). If you are still in the gap period before your Dutch registration is finalised and you need temporary emergency medical coverage, <a href="https://safetywing.com/?referenceID=digitalshieldpro" rel="nofollow sponsored" target="_blank">SafetyWing</a> offers affordable short-term cover from around $45/month — useful as a stop-gap, though it does not replace the Dutch basisverzekering you will be required to hold once you are registered.
+- **Health insurance:** Compare and choose your plan. Use <a href="https://www.awin1.com/awclick.php?mid=8558&id=2776410" rel="nofollow sponsored" target="_blank">Independer.nl</a> to compare Dutch health insurance plans. Read our [complete health insurance guide](/guides/health/dutch-health-insurance-guide-expats-2026/). If you are still in the gap period before your Dutch registration is finalised and you need temporary emergency medical coverage, <a href="https://safetywing.com/?referenceID=digitalshieldpro" rel="nofollow sponsored" target="_blank">SafetyWing</a> offers affordable short-term cover from around $45/month — useful as a stop-gap, though it does not replace the Dutch basisverzekering you will be required to hold once you are registered.
 
-- **Taxes:** Understand the [Dutch tax system](/posts/dutch-tax-system-expats-guide-2026/) and make sure the 30% ruling is applied.
+- **Taxes:** Understand the [Dutch tax system](/guides/finance/dutch-tax-system-expats-guide-2026/) and make sure the 30% ruling is applied.
 
-- **Language:** Start learning Dutch early with one of the [best apps to learn Dutch](/posts/best-apps-learn-dutch-2026/).
+- **Language:** Start learning Dutch early with one of the [best apps to learn Dutch](/guides/integration/best-apps-learn-dutch-2026/).
 
 <a href="https://wise.com/invite/ihpc/willemt52" class="cta" rel="nofollow sponsored" target="_blank">Open Your Free Wise Account — Send Money Internationally</a>
 
@@ -289,10 +290,10 @@ For the full picture of arriving, settling, and protecting your status, our [com
 ## Related Guides
 
 - **[Complete Guide to Moving to the Netherlands](/guides/legal/complete-guide-moving-to-netherlands-2026/)** — The big picture of relocating
-- **[The 30% Ruling Explained](/posts/30-percent-ruling-netherlands-2026/)** — Save thousands on taxes
-- **[Dutch Tax System for Expats](/posts/dutch-tax-system-expats-guide-2026/)** — Understanding your tax obligations
-- **[Best Bank Accounts for Expats](/posts/best-bank-account-expats-netherlands-2026/)** — Where to open your Dutch account
-- **[Dutch Health Insurance Guide](/posts/dutch-health-insurance-guide-expats-2026/)** — Your mandatory coverage explained
+- **[The 30% Ruling Explained](/guides/finance/30-percent-ruling-netherlands-2026/)** — Save thousands on taxes
+- **[Dutch Tax System for Expats](/guides/finance/dutch-tax-system-expats-guide-2026/)** — Understanding your tax obligations
+- **[Best Bank Accounts for Expats](/guides/finance/best-bank-account-expats-netherlands-2026/)** — Where to open your Dutch account
+- **[Dutch Health Insurance Guide](/guides/health/dutch-health-insurance-guide-expats-2026/)** — Your mandatory coverage explained
 
 ---
 

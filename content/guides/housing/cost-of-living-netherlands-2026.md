@@ -1,6 +1,7 @@
 ---
 title: "Cost of Living in the Netherlands 2026: Complete Breakdown"
 date: 2026-03-04T11:00:00+01:00
+lastmod: 2026-03-04T11:00:00+01:00
 description: "Complete breakdown of living costs in the Netherlands for 2026. Rent, groceries, transport, insurance, and monthly budgets for expats."
 categories: ["relocation"]
 tags: ["cost of living netherlands", "expat budget netherlands", "rent amsterdam", "living expenses netherlands", "30 percent ruling", "monthly costs netherlands"]
@@ -10,7 +11,7 @@ author: "Sarah van den Berg"
 author_bio: "Expat coach and relocation specialist. Half Dutch, half British, living in the Netherlands for over 10 years."
 featured_image: "/images/categories/relocation.svg"
 aliases:
-  - /posts/cost-of-living-netherlands-2026/
+  - /guides/housing/cost-of-living-netherlands-2026/
 faq:
   - q: "How much money do I need to live comfortably in the Netherlands?"
     a: "A single person needs approximately EUR 2,200-3,500 per month depending on the city, excluding rent. Including rent, budget EUR 3,500-5,500 per month in Amsterdam or EUR 2,800-4,200 per month in cities like Eindhoven or Groningen. Couples should add approximately 40-50% to these figures, and families with children should budget EUR 5,000-7,500+ per month including rent."
@@ -106,7 +107,7 @@ Children under 18 are covered **free** under a parent's basic insurance. This is
 
 If your income is below approximately EUR 38,000 per year (single) or EUR 48,000 (couple), you may qualify for zorgtoeslag, a monthly healthcare allowance of up to EUR 150 per person. This can reduce your effective health insurance cost to near zero.
 
-Compare premiums from all Dutch insurers on <a href="https://www.awin1.com/awclick.php?mid=8558&id=2776410" rel="nofollow sponsored" target="_blank">Independer.nl</a>. For a detailed comparison, see our [complete guide to Dutch health insurance for expats](/posts/dutch-health-insurance-guide-expats-2026/).
+Compare premiums from all Dutch insurers on <a href="https://www.awin1.com/awclick.php?mid=8558&id=2776410" rel="nofollow sponsored" target="_blank">Independer.nl</a>. For a detailed comparison, see our [complete guide to Dutch health insurance for expats](/guides/health/dutch-health-insurance-guide-expats-2026/).
 
 ### Temporary Coverage
 
@@ -245,7 +246,7 @@ Most Dutch homes have access to fiber or cable internet delivering speeds of 100
 
 ### Mobile Phone
 
-Budget EUR 10-25 per month for a SIM-only mobile plan with 5-15 GB of data. See our detailed [guide to the best SIM cards for expats](/posts/best-sim-card-netherlands-expats-2026/) for a full comparison.
+Budget EUR 10-25 per month for a SIM-only mobile plan with 5-15 GB of data. See our detailed [guide to the best SIM cards for expats](/guides/daily-life/best-sim-card-netherlands-expats-2026/) for a full comparison.
 
 ---
 
@@ -356,7 +357,7 @@ Traditional banks charge 2-5% in hidden exchange rate markups, plus flat fees. F
 
 We strongly recommend <a href="https://wise.com/invite/ihpc/willemt52" rel="nofollow sponsored" target="_blank">Wise</a> (formerly TransferWise) for international money transfers. Wise uses the real mid-market exchange rate with transparent, low fees typically ranging from 0.3-1.5%. Over a year of regular transfers, this can save you hundreds or even thousands of euros compared to traditional banks.
 
-Wise also offers a multi-currency account with a Dutch IBAN, which is useful if you are managing money across countries. See our full [guide to bank accounts for expats](/posts/best-bank-account-expats-netherlands-2026/).
+Wise also offers a multi-currency account with a Dutch IBAN, which is useful if you are managing money across countries. See our full [guide to bank accounts for expats](/guides/finance/best-bank-account-expats-netherlands-2026/).
 
 <a href="https://wise.com/invite/ihpc/willemt52" class="cta" rel="nofollow sponsored" target="_blank">Save on International Transfers with Wise</a>
 
@@ -454,4 +455,4 @@ The Netherlands is expensive by European standards but offers excellent value wh
 
 6. **Budget for the unexpected**. The eigen risico (EUR 385 annual healthcare deductible), bike repairs, and the occasional municipal fee will catch you off guard if you do not plan for them.
 
-For a complete guide to setting yourself up in the Netherlands, including visas, housing, banking, and insurance, see our [complete guide to moving to the Netherlands in 2026](/posts/complete-guide-moving-to-netherlands-2026/).
+For a complete guide to setting yourself up in the Netherlands, including visas, housing, banking, and insurance, see our [complete guide to moving to the Netherlands in 2026](/guides/legal/complete-guide-moving-to-netherlands-2026/).

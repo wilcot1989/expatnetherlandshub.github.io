@@ -1,6 +1,7 @@
 ---
 title: "Best SIM Cards & Mobile Plans for Expats in the Netherlands 2026"
 date: 2026-03-01T11:00:00+01:00
+lastmod: 2026-03-01T11:00:00+01:00
 description: "Compare the best SIM cards and mobile plans for expats in the Netherlands. KPN, T-Mobile, Vodafone, Simyo, Lebara, Ben, and Lyca reviewed."
 categories: ["daily-life"]
 tags: ["sim card netherlands", "mobile plan expats", "dutch phone number", "prepaid sim netherlands", "eSIM netherlands", "dutch mobile providers"]
@@ -10,7 +11,7 @@ author: "Sarah van den Berg"
 author_bio: "Expat coach and relocation specialist. Half Dutch, half British, living in the Netherlands for over 10 years."
 featured_image: "/images/categories/daily-life.svg"
 aliases:
-  - /posts/best-sim-card-netherlands-expats-2026/
+  - /guides/daily-life/best-sim-card-netherlands-expats-2026/
 faq:
   - q: "Can I buy a SIM card in the Netherlands without a BSN?"
     a: "Yes. You can buy a prepaid SIM card at supermarkets, electronics stores, or provider shops without a BSN. However, since September 2023, Dutch regulations require identity verification for prepaid SIMs, so you will need to show a valid passport or ID. For postpaid contracts, most providers require a BSN and a Dutch bank account."
@@ -71,7 +72,7 @@ This is the first decision you need to make, and it depends on your situation.
 
 ### Our Recommendation
 
-Start with a **prepaid SIM from Lebara or Simyo** when you first arrive. Once you have your BSN and a Dutch bank account (see my guide to the [best bank accounts for expats](/posts/best-bank-account-expats-netherlands-2026/)), switch to a **contract plan from Simyo or T-Mobile** for better long-term value.
+Start with a **prepaid SIM from Lebara or Simyo** when you first arrive. Once you have your BSN and a Dutch bank account (see my guide to the [best bank accounts for expats](/guides/finance/best-bank-account-expats-netherlands-2026/)), switch to a **contract plan from Simyo or T-Mobile** for better long-term value.
 
 ---
 
@@ -297,7 +298,7 @@ If you also need home internet, some providers offer discounts when you bundle m
 
 As a newly arrived expat, you are creating accounts on dozens of new platforms, often on unfamiliar public WiFi networks in hotels, coworking spaces, and cafes. Protecting your digital privacy is important. A VPN encrypts your internet connection and can also let you access streaming content from your home country.
 
-I recommend <a href="https://go.nordvpn.net/aff_c?offer_id=612&aff_id=141337&url_id=14830" rel="nofollow sponsored" target="_blank">NordVPN</a> for expats in the Netherlands. Read our full [VPN guide for expats in the Netherlands](/posts/best-vpn-netherlands-expats-2026/) for detailed comparisons.
+I recommend <a href="https://go.nordvpn.net/aff_c?offer_id=612&aff_id=141337&url_id=14830" rel="nofollow sponsored" target="_blank">NordVPN</a> for expats in the Netherlands. Read our full [VPN guide for expats in the Netherlands](/guides/daily-life/best-vpn-netherlands-expats-2026/) for detailed comparisons.
 
 ---
 
@@ -312,4 +313,4 @@ I recommend <a href="https://go.nordvpn.net/aff_c?offer_id=612&aff_id=141337&url
 | Frequent international calls | **Lebara or Lyca Mobile** | Cheapest international rates included |
 | Want dual SIM with eSIM | **KPN or T-Mobile eSIM** | Best eSIM experience, keep home SIM active |
 
-Getting your Dutch SIM card is one of the first steps in settling into the Netherlands. Combine it with a [Dutch bank account](/posts/best-bank-account-expats-netherlands-2026/) and [health insurance](/posts/dutch-health-insurance-guide-expats-2026/), and you will have the essentials covered in your first week. For a complete overview of everything you need to do when you arrive, see our [complete guide to moving to the Netherlands](/posts/complete-guide-moving-to-netherlands-2026/). Once you have your mobile plan sorted, the next step is setting up home broadband — see our [best internet providers in the Netherlands guide](/guides/daily-life/best-internet-providers-netherlands-2026/) for a full comparison of KPN, Ziggo, and budget alternatives.
+Getting your Dutch SIM card is one of the first steps in settling into the Netherlands. Combine it with a [Dutch bank account](/guides/finance/best-bank-account-expats-netherlands-2026/) and [health insurance](/guides/health/dutch-health-insurance-guide-expats-2026/), and you will have the essentials covered in your first week. For a complete overview of everything you need to do when you arrive, see our [complete guide to moving to the Netherlands](/guides/legal/complete-guide-moving-to-netherlands-2026/). Once you have your mobile plan sorted, the next step is setting up home broadband — see our [best internet providers in the Netherlands guide](/guides/daily-life/best-internet-providers-netherlands-2026/) for a full comparison of KPN, Ziggo, and budget alternatives.

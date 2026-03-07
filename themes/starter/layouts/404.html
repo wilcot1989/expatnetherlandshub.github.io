@@ -1,0 +1,29 @@
+{{ define "main" }}
+
+<div class="error-page">
+  <div class="container" style="text-align: center; padding: 5rem 1rem;">
+    <h1 style="font-size: 4rem; color: var(--expat-primary); margin-bottom: 0.5rem;">404</h1>
+    <h2 style="font-size: 1.5rem; margin-bottom: 1rem;">Page Not Found</h2>
+    <p style="color: var(--expat-muted); max-width: 500px; margin: 0 auto 2rem; line-height: 1.7;">
+      The page you're looking for doesn't exist or may have moved.
+      Try one of these instead:
+    </p>
+    <div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 0.75rem; margin-bottom: 3rem;">
+      <a href="/" class="cta">Go to Homepage</a>
+      <a href="/guides/" class="cta cta-outline-green">Browse Guides</a>
+      <a href="/tools/" class="cta cta-outline-green">Free Tools</a>
+    </div>
+
+    <h3 style="font-size: 1.1rem; margin-bottom: 1.5rem;">Popular Guides</h3>
+    <div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 0.5rem 1.5rem; max-width: 600px; margin: 0 auto;">
+      <a href="/guides/finance/30-percent-ruling-netherlands-2026/">30% Ruling</a>
+      <a href="/guides/health/dutch-health-insurance-guide-expats-2026/">Health Insurance</a>
+      <a href="/guides/legal/highly-skilled-migrant-visa-netherlands-2026/">HSM Visa</a>
+      <a href="/guides/housing/finding-housing-netherlands-expats-2026/">Finding Housing</a>
+      <a href="/guides/finance/best-bank-account-expats-netherlands-2026/">Best Bank</a>
+      <a href="/guides/work/freelancer-zzp-guide-netherlands-2026/">ZZP Guide</a>
+    </div>
+  </div>
+</div>
+
+{{ end }}

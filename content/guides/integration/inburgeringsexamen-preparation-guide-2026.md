@@ -1,6 +1,7 @@
 ---
 title: "Inburgeringsexamen 2026: Complete Preparation Guide for Expats"
 date: 2026-03-02T11:00:00+01:00
+lastmod: 2026-03-02T11:00:00+01:00
 description: "Complete guide to the Dutch inburgeringsexamen. Exam components, study materials, costs, exemptions, and preparation tips for 2026."
 categories: ["language"]
 tags: ["inburgeringsexamen", "dutch integration exam", "inburgering", "civic integration", "learn dutch", "KNM exam", "ONA exam"]
@@ -10,7 +11,7 @@ author: "Sarah van den Berg"
 author_bio: "Expat coach and relocation specialist. Half Dutch, half British, living in the Netherlands for over 10 years."
 featured_image: "/images/categories/language.svg"
 aliases:
-  - /posts/inburgeringsexamen-preparation-guide-2026/
+  - /guides/integration/inburgeringsexamen-preparation-guide-2026/
 faq:
   - q: "Who is exempt from the inburgeringsexamen?"
     a: "EU/EEA and Swiss citizens are exempt. Other exemptions include those who completed Dutch-language education (such as a Dutch high school diploma or university degree), people under 16 or over the state pension age, those who hold a residence permit as a highly skilled migrant (kennismigrant) or European Blue Card holder, and people who can prove they are unable to take the exam due to a physical or mental disability. The IND and DUO can advise on your specific situation."
@@ -245,7 +246,7 @@ Under the Wi2021 system, you complete ONA activities as part of your integration
 | "De Delftse Methode" textbook | Structured self-study Dutch textbook | ~EUR 35-50 |
 | Language school courses | Full preparation with teacher guidance | EUR 1,000-5,000 |
 
-For a broader overview of language learning apps, see my guide to the [best apps for learning Dutch in 2026](/posts/best-apps-learn-dutch-2026/).
+For a broader overview of language learning apps, see my guide to the [best apps for learning Dutch in 2026](/guides/integration/best-apps-learn-dutch-2026/).
 
 ---
 
@@ -334,7 +335,7 @@ Once you pass all components of the inburgeringsexamen, several doors open:
 4. **Not using practice exams**. The DUO practice exams closely mirror the real exam. Familiarity with the format is half the battle.
 5. **Studying in isolation**. Language learning is faster and more sustainable when combined with real-world use. Volunteer, join clubs, talk to neighbors.
 
-For more on settling into the Netherlands, see our [complete guide to moving to the Netherlands](/posts/complete-guide-moving-to-netherlands-2026/) and our [guide to Dutch health insurance](/posts/dutch-health-insurance-guide-expats-2026/), which covers a topic you will encounter in the KNM exam. If you are looking for a structured course to support your preparation, our [best Dutch language courses guide](/guides/integration/best-dutch-language-courses-2026/) compares in-person schools, online tutors, and exam prep programs.
+For more on settling into the Netherlands, see our [complete guide to moving to the Netherlands](/guides/legal/complete-guide-moving-to-netherlands-2026/) and our [guide to Dutch health insurance](/guides/health/dutch-health-insurance-guide-expats-2026/), which covers a topic you will encounter in the KNM exam. If you are looking for a structured course to support your preparation, our [best Dutch language courses guide](/guides/integration/best-dutch-language-courses-2026/) compares in-person schools, online tutors, and exam prep programs.
 
 Not sure which integration route applies to you? Use our inburgering route builder to find the right learning path based on your situation.
 

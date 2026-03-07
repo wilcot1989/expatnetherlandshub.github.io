@@ -1,6 +1,7 @@
 ---
 title: "7 Best Apps to Learn Dutch in 2026: Tested & Compared"
 date: 2026-02-24T11:00:00+01:00
+lastmod: 2026-02-24T11:00:00+01:00
 description: "We tested the 7 best apps to learn Dutch in 2026. Compare Babbel, Duolingo, Pimsleur, Mondly, and more with pricing, pros, cons."
 categories: ["language"]
 tags: ["learn dutch", "dutch language apps", "language learning", "babbel", "duolingo", "pimsleur"]
@@ -10,7 +11,7 @@ author: "Sarah van den Berg"
 author_bio: "Expat coach and relocation specialist. Half Dutch, half British, living in the Netherlands for over 10 years."
 featured_image: "/images/categories/language.svg"
 aliases:
-  - /posts/best-apps-learn-dutch-2026/
+  - /guides/integration/best-apps-learn-dutch-2026/
 faq:
   - q: "What is the best app to learn Dutch for complete beginners?"
     a: "For complete beginners, Babbel is our top recommendation. Its structured curriculum is specifically designed for each language it teaches, so the Dutch course covers practical vocabulary and grammar from day one. The lessons are bite-sized (10-15 minutes) and build on each other logically. Duolingo is also a good free option for getting started, but Babbel provides more depth and context."
@@ -337,15 +338,15 @@ Based on my testing, here is the combination I recommend for expats learning Dut
 
 6. **Do not wait until you are "ready"**: Start speaking from day one, even if it is just "Hallo" and "Dank je wel" at the supermarket. Every interaction builds confidence.
 
-If you are still in the planning stages of your move, check out our [complete guide to moving to the Netherlands in 2026](/posts/complete-guide-moving-to-netherlands-2026/) for everything you need to know about visas, housing, and registration.
+If you are still in the planning stages of your move, check out our [complete guide to moving to the Netherlands in 2026](/guides/legal/complete-guide-moving-to-netherlands-2026/) for everything you need to know about visas, housing, and registration.
 
-**Complement your app learning with real Dutch encounters:** The fastest way to progress past A2 is to use the language in practical situations. Your [DigiD](/posts/digid-guide-expats-2026/) gives you access to Dutch government portals — navigating these in Dutch is surprisingly good practice. Commuting by [OV-chipkaart](/posts/ov-chipkaart-guide-expats-2026/) and reading station signs forces you to engage with the language daily.
+**Complement your app learning with real Dutch encounters:** The fastest way to progress past A2 is to use the language in practical situations. Your [DigiD](/guides/legal/digid-guide-expats-2026/) gives you access to Dutch government portals — navigating these in Dutch is surprisingly good practice. Commuting by [OV-chipkaart](/guides/daily-life/ov-chipkaart-guide-expats-2026/) and reading station signs forces you to engage with the language daily.
 
-**Formal courses alongside apps:** Apps build vocabulary and grammar habits, but a structured classroom course with a teacher accelerates speaking confidence significantly. See our [best Dutch language courses guide](/posts/best-dutch-language-courses-2026/) for a full comparison — including which providers are eligible for employer reimbursement and which offer Saturday options for working professionals.
+**Formal courses alongside apps:** Apps build vocabulary and grammar habits, but a structured classroom course with a teacher accelerates speaking confidence significantly. See our [best Dutch language courses guide](/guides/integration/best-dutch-language-courses-2026/) for a full comparison — including which providers are eligible for employer reimbursement and which offer Saturday options for working professionals.
 
-**Integration exam:** If you are on a long-term visa and required to pass the civic integration exam, see our [inburgeringsexamen preparation guide](/posts/inburgeringsexamen-preparation-guide-2026/). Apps like Babbel and Duolingo can support your preparation, but the exam requires specific targeted practice that dedicated inburgering courses provide. Not sure which integration route applies to you? Use our [inburgering route builder](/tools/inburgering-route-builder/) to find out before you start preparing.
+**Integration exam:** If you are on a long-term visa and required to pass the civic integration exam, see our [inburgeringsexamen preparation guide](/guides/integration/inburgeringsexamen-preparation-guide-2026/). Apps like Babbel and Duolingo can support your preparation, but the exam requires specific targeted practice that dedicated inburgering courses provide. Not sure which integration route applies to you? Use our [inburgering route builder](/tools/inburgering-route-builder/) to find out before you start preparing.
 
-**Cycling to practice:** One of my favourite things about the Netherlands is that you can reinforce Dutch while cycling — listening to Dutch podcasts or Pimsleur audio on your commute. Read our [cycling guide for expats](/posts/cycling-netherlands-expat-guide-2026/) to get started with the transport mode that defines daily life here.
+**Cycling to practice:** One of my favourite things about the Netherlands is that you can reinforce Dutch while cycling — listening to Dutch podcasts or Pimsleur audio on your commute. Read our [cycling guide for expats](/guides/daily-life/cycling-netherlands-expat-guide-2026/) to get started with the transport mode that defines daily life here.
 
 ---
 

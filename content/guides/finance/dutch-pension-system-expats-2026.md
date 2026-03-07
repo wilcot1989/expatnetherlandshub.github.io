@@ -1,7 +1,8 @@
 ---
 title: "Dutch Pension System for Expats 2026: AOW, Employer Pensions & Planning"
 date: 2026-04-21T10:00:00+01:00
-description: "Complete guide to the Dutch pension system for expats. AOW state pension, employer pension funds, tax benefits, and retirement planning for internationals in the Netherlands."
+lastmod: 2026-04-21T10:00:00+01:00
+description: "Complete guide to the Dutch pension system for expats. AOW state pension, employer pension funds, tax benefits, and retirement planning in the Netherlands."
 categories: ["finance"]
 tags: ["pension", "AOW", "retirement", "employer pension", "expat finance"]
 keywords: ["Dutch pension system expat", "AOW pension Netherlands", "employer pension NL", "retirement planning Netherlands"]
@@ -10,7 +11,7 @@ author: "Sarah van den Berg"
 author_bio: "Expat coach and relocation specialist. Half Dutch, half British, living in the Netherlands for over 10 years."
 featured_image: "/images/categories/finance.svg"
 aliases:
-  - /posts/dutch-pension-system-expats-2026/
+  - /guides/finance/dutch-pension-system-expats-2026/
 faq:
   - q: "How does the Dutch pension system work?"
     a: "The Dutch pension system has three pillars: (1) AOW — state pension for everyone who lived/worked in the Netherlands, currently about €1,330/month for singles. (2) Employer pension — occupational pension through your employer's pension fund, typically 60-70% of your salary after 40 years. (3) Private pension — individual savings and investments with tax advantages."
@@ -29,7 +30,7 @@ faq:
 I did not think about my Dutch pension for the first five years I lived here. Big mistake. When I finally looked into it, I realised I had been building up AOW rights without knowing it, my employer had been contributing to a pension fund I had never checked, and I had no idea what any of it meant. If you are an expat wondering whether any of this matters to you -- it does, even if you are not planning to retire here. Let me break it down.
 
 
-New to Dutch finances? Start with our [Dutch tax system guide](/posts/dutch-tax-system-expats-2026/).
+New to Dutch finances? Start with our [Dutch tax system guide](/guides/finance/dutch-tax-system-expats-guide-2026/).
 
 ## The Three Pillars
 
@@ -312,10 +313,10 @@ For the tax return implications — particularly if you have pension income from
 
 - **[Dutch Tax System for Expats](/guides/finance/dutch-tax-system-expats-guide-2026/)** — Taxes and deductions
 - **[Expat Tax Return Netherlands](/guides/finance/expat-tax-return-netherlands-2026/)** — How to file step by step
-- **[The 30% Ruling](/posts/30-percent-ruling-netherlands-2026/)** — Tax advantage explained
-- **[Best Bank Accounts for Expats](/posts/best-bank-accounts-expats-netherlands-2026/)** — Where to save
-- **[Working as a Freelancer (ZZP)](/posts/freelancer-zzp-guide-netherlands-2026/)** — Pension as self-employed
-- **[Best Expat Insurance](/posts/best-expat-insurance-netherlands-2026/)** — Protection planning
+- **[The 30% Ruling](/guides/finance/30-percent-ruling-netherlands-2026/)** — Tax advantage explained
+- **[Best Bank Accounts for Expats](/guides/finance/best-bank-account-expats-netherlands-2026/)** — Where to save
+- **[Working as a Freelancer (ZZP)](/guides/work/freelancer-zzp-guide-netherlands-2026/)** — Pension as self-employed
+- **[Best Expat Insurance](/guides/health/best-expat-insurance-netherlands-2026/)** — Protection planning
 
 ---
 

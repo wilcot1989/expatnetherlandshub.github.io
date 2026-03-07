@@ -1,6 +1,7 @@
 ---
 title: "Babbel vs Duolingo for Learning Dutch 2026: Which is Better?"
 date: 2026-03-08T11:00:00+01:00
+lastmod: 2026-03-08T11:00:00+01:00
 description: "Babbel vs Duolingo for learning Dutch in 2026. We compare teaching methods, pricing, Dutch course quality, and features to help you choose."
 categories: ["language"]
 tags: ["babbel", "duolingo", "learn dutch", "dutch language apps", "language learning", "babbel vs duolingo"]
@@ -10,7 +11,7 @@ author: "Sarah van den Berg"
 author_bio: "Expat coach and relocation specialist. Half Dutch, half British, living in the Netherlands for over 10 years."
 featured_image: "/images/categories/language.svg"
 aliases:
-  - /posts/babbel-vs-duolingo-learn-dutch-2026/
+  - /guides/integration/babbel-vs-duolingo-learn-dutch-2026/
 faq:
   - q: "Is Babbel or Duolingo better for learning Dutch?"
     a: "For most expats serious about learning Dutch, Babbel is the better choice. Its Dutch course is purpose-built with thorough grammar explanations, practical vocabulary, and structured progression. Duolingo is better if you want a free option for casual learning or daily vocabulary maintenance. The ideal approach for many learners is to use Babbel as the primary tool and Duolingo as a free supplement for quick daily practice."
@@ -271,9 +272,9 @@ Here is the strategy I recommend for most expats learning Dutch in the Netherlan
 
 This combined approach gives you the structured depth of Babbel, the daily motivation of Duolingo, and the real-world practice that neither app can provide on its own.
 
-**Going deeper on Dutch:** Once you have solid A2-B1 foundations from an app, a structured classroom course accelerates progress significantly. See our [best Dutch language courses guide](/posts/best-dutch-language-courses-2026/) for a comparison of classroom, online, and private options — including which providers qualify for employer reimbursement. If you have a specific integration deadline, also read our [inburgeringsexamen preparation guide](/posts/inburgeringsexamen-preparation-guide-2026/). If you need to integrate formally, use our [inburgering route builder](/tools/inburgering-route-builder/) to find out which learning path applies to your visa and circumstances.
+**Going deeper on Dutch:** Once you have solid A2-B1 foundations from an app, a structured classroom course accelerates progress significantly. See our [best Dutch language courses guide](/guides/integration/best-dutch-language-courses-2026/) for a comparison of classroom, online, and private options — including which providers qualify for employer reimbursement. If you have a specific integration deadline, also read our [inburgeringsexamen preparation guide](/guides/integration/inburgeringsexamen-preparation-guide-2026/). If you need to integrate formally, use our [inburgering route builder](/tools/inburgering-route-builder/) to find out which learning path applies to your visa and circumstances.
 
-**Context for your move:** Dutch language learning does not happen in isolation. You will practice at the supermarkt, with your neighbors, and at government appointments. For those practical encounters, make sure you have your [DigiD](/posts/digid-guide-expats-2026/) set up and understand how to use [public transport with an OV-chipkaart](/posts/ov-chipkaart-guide-expats-2026/) — both involve reading Dutch instructions that will reinforce your learning.
+**Context for your move:** Dutch language learning does not happen in isolation. You will practice at the supermarkt, with your neighbors, and at government appointments. For those practical encounters, make sure you have your [DigiD](/guides/legal/digid-guide-expats-2026/) set up and understand how to use [public transport with an OV-chipkaart](/guides/daily-life/ov-chipkaart-guide-expats-2026/) — both involve reading Dutch instructions that will reinforce your learning.
 
 If Babbel's structured approach sounds right for you, getting started takes less than two minutes. If you prefer human feedback on your speaking, a tutor on Preply can help you reach conversational Dutch faster.
 
@@ -281,7 +282,7 @@ If Babbel's structured approach sounds right for you, getting started takes less
 
 <a href="https://preply.com/" target="_blank" rel="noopener noreferrer" class="cta-affiliate">Find a Dutch tutor on Preply →</a>
 
-For a broader comparison including Pimsleur, Mondly, Rosetta Stone, and more, read our full guide to the [7 best apps to learn Dutch in 2026](/posts/best-apps-learn-dutch-2026/). And if you are still planning your move, check out our [complete guide to moving to the Netherlands in 2026](/posts/complete-guide-moving-to-netherlands-2026/).
+For a broader comparison including Pimsleur, Mondly, Rosetta Stone, and more, read our full guide to the [7 best apps to learn Dutch in 2026](/guides/integration/best-apps-learn-dutch-2026/). And if you are still planning your move, check out our [complete guide to moving to the Netherlands in 2026](/guides/legal/complete-guide-moving-to-netherlands-2026/).
 
 ---
 

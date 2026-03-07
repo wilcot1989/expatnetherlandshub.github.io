@@ -1,7 +1,8 @@
 ---
 title: "Netherlands vs Germany for Expats 2026: Where Should You Move?"
 date: 2026-04-10T10:00:00+01:00
-description: "Netherlands vs Germany for expats: detailed comparison of salary, taxes, housing, healthcare, language, and quality of life to help you decide where to move in 2026."
+lastmod: 2026-04-10T10:00:00+01:00
+description: "Netherlands vs Germany for expats: comparison of salary, taxes, housing, healthcare, and quality of life to help you decide where to move."
 categories: ["relocation"]
 tags: ["Netherlands", "Germany", "expat comparison", "relocation", "Europe"]
 keywords: ["Netherlands vs Germany expats", "move to Netherlands or Germany", "expat comparison", "Netherlands Germany quality of life"]
@@ -10,7 +11,7 @@ author: "Sarah van den Berg"
 author_bio: "Expat coach and relocation specialist. Half Dutch, half British, living in the Netherlands for over 10 years."
 featured_image: "/images/categories/relocation.svg"
 aliases:
-  - /posts/netherlands-vs-germany-expats-2026/
+  - /guides/integration/netherlands-vs-germany-expats-2026/
 faq:
   - q: "Is it better to live in the Netherlands or Germany as an expat?"
     a: "It depends on your priorities. The Netherlands offers higher English proficiency, the 30% tax ruling for skilled migrants, and a more international work culture. Germany offers lower housing costs (outside Munich and Frankfurt), higher salaries in engineering and manufacturing, and more job opportunities due to its larger economy."
@@ -122,7 +123,7 @@ Both countries face housing shortages, but the Dutch market is generally conside
 
 One practical difference: many Dutch rentals are offered unfurnished (kaal), meaning no flooring, light fixtures, or curtains. German rentals can also be bare, but furnished and semi-furnished options are more commonly available, particularly in cities with large expat populations.
 
-For a more detailed breakdown of Dutch housing costs, see our [guide to finding housing in the Netherlands](/posts/finding-housing-netherlands-expats-2026/).
+For a more detailed breakdown of Dutch housing costs, see our [guide to finding housing in the Netherlands](/guides/housing/finding-housing-netherlands-expats-2026/).
 
 ---
 
@@ -151,7 +152,7 @@ Germany uses a dual public-private system. If your gross salary is below EUR 69,
 
 German healthcare offers more freedom of choice, including direct access to specialists and a wider range of private options. The Dutch system is simpler and generally cheaper for younger expats, but the gatekeeper model requires patience.
 
-For full details on the Dutch side, read our [Dutch health insurance guide for expats](/posts/dutch-health-insurance-guide-expats-2026/).
+For full details on the Dutch side, read our [Dutch health insurance guide for expats](/guides/health/dutch-health-insurance-guide-expats-2026/).
 
 ---
 
@@ -221,7 +222,7 @@ Germany's EU Blue Card is the primary route for skilled non-EU workers:
 
 The Dutch system is generally faster and more streamlined, partly because recognized sponsors can submit applications directly to the IND. The German process involves more bureaucratic steps and varies significantly between federal states (Bundesländer).
 
-For a full walkthrough of the Dutch immigration process, see our [complete guide to moving to the Netherlands](/posts/complete-guide-moving-to-netherlands-2026/).
+For a full walkthrough of the Dutch immigration process, see our [complete guide to moving to the Netherlands](/guides/legal/complete-guide-moving-to-netherlands-2026/).
 
 ---
 
@@ -279,9 +280,9 @@ Whatever you decide, take the time to visit both countries, speak to expats alre
 
 ## Related Articles
 
-- [Complete Guide to Moving to the Netherlands](/posts/complete-guide-moving-to-netherlands-2026/)
-- [The 30% Ruling Explained](/posts/30-percent-ruling-netherlands-2026/)
-- [Dutch Health Insurance Guide for Expats](/posts/dutch-health-insurance-guide-expats-2026/)
+- [Complete Guide to Moving to the Netherlands](/guides/legal/complete-guide-moving-to-netherlands-2026/)
+- [The 30% Ruling Explained](/guides/finance/30-percent-ruling-netherlands-2026/)
+- [Dutch Health Insurance Guide for Expats](/guides/health/dutch-health-insurance-guide-expats-2026/)
 - [Cost of Living in the Netherlands 2026](/guides/housing/cost-of-living-netherlands-2026/)
 - [30% Ruling Calculator](/tools/30-percent-ruling-calculator/)
 - [Health Insurance Wizard](/tools/health-insurance-wizard/)

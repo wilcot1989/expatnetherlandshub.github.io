@@ -1,6 +1,7 @@
 ---
 title: "Dutch Childcare System 2026: Complete Guide for Expat Parents"
 date: 2026-04-12T10:00:00+01:00
+lastmod: 2026-04-12T10:00:00+01:00
 description: "Complete guide to childcare in the Netherlands for expat parents. Types, costs, subsidies, and how to find the best daycare, BSO, or childminder."
 categories: ["family"]
 tags: ["childcare", "kinderopvang", "daycare", "BSO", "expat family"]
@@ -10,7 +11,7 @@ author: "Sarah van den Berg"
 author_bio: "Expat coach and relocation specialist. Half Dutch, half British, living in the Netherlands for over 10 years."
 featured_image: "/images/categories/family.svg"
 aliases:
-  - /posts/dutch-childcare-expat-guide-2026/
+  - /guides/daily-life/dutch-childcare-expat-guide-2026/
 faq:
   - q: "How much does childcare cost in the Netherlands?"
     a: "Before subsidy, daycare costs €8-€10 per hour (€1,200-€2,000/month for 3 days/week). After kinderopvangtoeslag (childcare subsidy), you pay €200-€800/month depending on your income. Lower-income families pay as little as €100-€200/month after subsidy."
@@ -29,7 +30,7 @@ faq:
 If there is one thing I tell expat parents immediately, it is this: register for daycare now. Not when you arrive, not when you are settled -- now. Waiting lists in Dutch cities can be over a year, and I have seen families scramble for emergency childcare because they did not register in time. The Dutch childcare system is actually excellent once you understand it, and the subsidies can save you thousands. Here is the guide I wish I could hand to every expat parent at the airport.
 
 
-New to the Netherlands? Start with our [complete expat guide](/posts/moving-to-netherlands-guide-2026/) and set up your [DigiD](/posts/digid-guide-expats-2026/) (needed for subsidy applications).
+New to the Netherlands? Start with our [complete expat guide](/guides/legal/complete-guide-moving-to-netherlands-2026/) and set up your [DigiD](/guides/legal/digid-guide-expats-2026/) (needed for subsidy applications).
 
 ## Types of Childcare
 
@@ -126,7 +127,7 @@ Childcare is one of the biggest variable costs for expat families. Before choosi
 
 ### How to Apply for Subsidy
 
-1. You need a **DigiD** — See our [DigiD guide](/posts/digid-guide-expats-2026/)
+1. You need a **DigiD** — See our [DigiD guide](/guides/legal/digid-guide-expats-2026/)
 2. Both parents must **work or study** (minimum hours requirement)
 3. Childcare provider must be **registered** (check landelijkregisterkinderopvang.nl)
 4. Apply at [toeslagen.nl](https://www.toeslagen.nl)
@@ -189,9 +190,9 @@ Waiting lists are the single biggest frustration I hear from expat parents. Here
 
 The subsidy system has been gradually increasing its maximum hourly rates, which affects the subsidy calculation. For 2026, the maximum hourly rate for daycare that the government subsidizes is approximately **€9.65/hour**. If your provider charges more than this, you pay the difference out of pocket — unsubsidized.
 
-Always check the current maximum rates at [toeslagen.nl](https://www.toeslagen.nl) before signing a childcare contract. If you are new to the Netherlands, you will also need your [DigiD](/posts/digid-guide-expats-2026/) and BSN to apply for the subsidy — set these up as a priority.
+Always check the current maximum rates at [toeslagen.nl](https://www.toeslagen.nl) before signing a childcare contract. If you are new to the Netherlands, you will also need your [DigiD](/guides/legal/digid-guide-expats-2026/) and BSN to apply for the subsidy — set these up as a priority.
 
-For context on your overall financial situation as an expat parent, see our [cost of living guide](/posts/cost-of-living-netherlands-2026/) and the [30% ruling overview](/posts/30-percent-ruling-netherlands-2026/) if your employer offers it — it can meaningfully increase your take-home pay.
+For context on your overall financial situation as an expat parent, see our [cost of living guide](/guides/housing/cost-of-living-netherlands-2026/) and the [30% ruling overview](/guides/finance/30-percent-ruling-netherlands-2026/) if your employer offers it — it can meaningfully increase your take-home pay.
 
 Ready to map out all your family costs — childcare, housing, utilities, and more?
 
@@ -290,12 +291,12 @@ For a full picture of family costs in the Netherlands — childcare, housing, he
 
 ## Explore More Expat Guides
 
-- **[Complete Guide to Moving to the Netherlands](/posts/moving-to-netherlands-guide-2026/)** — Getting started
-- **[International Schools in the Netherlands](/posts/international-schools-netherlands-2026/)** — School options
+- **[Complete Guide to Moving to the Netherlands](/guides/legal/complete-guide-moving-to-netherlands-2026/)** — Getting started
+- **[International Schools in the Netherlands](/guides/daily-life/international-schools-netherlands-2026/)** — School options
 - **[DigiD Guide for Expats](/guides/legal/digid-guide-expats-2026/)** — Needed for toeslagen applications
 - **[Cost of Living Netherlands](/guides/housing/cost-of-living-netherlands-2026/)** — Full family budget
-- **[Best Expat Insurance](/posts/best-expat-insurance-netherlands-2026/)** — Family health coverage
-- **[Moving to The Hague](/posts/moving-to-the-hague-guide-2026/)** — Family-friendly neighborhoods
+- **[Best Expat Insurance](/guides/health/best-expat-insurance-netherlands-2026/)** — Family health coverage
+- **[Moving to The Hague](/guides/housing/moving-to-the-hague-guide-2026/)** — Family-friendly neighborhoods
 
 ---
 

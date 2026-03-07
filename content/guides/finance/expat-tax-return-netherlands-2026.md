@@ -1,6 +1,7 @@
 ---
 title: "Expat Tax Return Netherlands 2026: How to File Step by Step"
 date: 2026-04-30T10:00:00+01:00
+lastmod: 2026-04-30T10:00:00+01:00
 description: "Step-by-step guide to filing your Dutch tax return as an expat. Deadlines, deductions, 30% ruling, M-form, online filing, and when you need a tax advisor."
 categories: ["finance"]
 tags: ["tax return", "belastingaangifte", "30% ruling", "tax deductions", "expat tax"]
@@ -10,7 +11,7 @@ author: "Sarah van den Berg"
 author_bio: "Expat coach and relocation specialist. Half Dutch, half British, living in the Netherlands for over 10 years."
 featured_image: "/images/categories/finance.svg"
 aliases:
-  - /posts/expat-tax-return-netherlands-2026/
+  - /guides/finance/expat-tax-return-netherlands-2026/
 faq:
   - q: "Do I need to file a tax return in the Netherlands as an expat?"
     a: "If you lived in the Netherlands for the full year: yes, if you're invited by the Belastingdienst (tax authority) or if you expect a refund. If you arrived or left mid-year: you must file an M-form (migration form). Employed expats with only salary income and no deductions may have already paid the correct amount via payroll tax."
@@ -29,7 +30,7 @@ faq:
 My first Dutch tax return took me an entire weekend and two panicked calls to a friend who is an accountant. The M-form alone nearly broke me. But here is the thing -- I got a refund of over eight hundred euros that year, money I would have left on the table if I had not filed. I have since helped many clients through the process, and most of them get money back too. Here is exactly how to file your Dutch tax return, step by step.
 
 
-For background on the Dutch tax system, read our [tax system overview](/posts/dutch-tax-system-expats-2026/).
+For background on the Dutch tax system, read our [tax system overview](/guides/finance/dutch-tax-system-expats-guide-2026/).
 
 ## Key Dates 2026
 
@@ -196,8 +197,8 @@ Missing a deadline costs money. Here is the complete picture:
 5. **Missing the deadline** — File or request extension before May 1
 6. **Not checking pre-filled data** — The tax authority's data can be incomplete
 7. **Underestimating toeslagen income** — If you receive childcare subsidy or rent allowance, the tax authority reconciles based on your actual income. Underestimating leads to a repayment demand
-8. **Ignoring the 30% ruling election** — If you qualify, you must actively choose partial non-resident status on each return. It is not automatic. See our [30% ruling guide](/posts/30-percent-ruling-netherlands-2026/) for detail
-9. **Not using a DigiD** — Everything in the Dutch tax system requires DigiD authentication. If you do not have one yet, our [DigiD guide](/posts/digid-guide-expats-2026/) walks you through the setup
+8. **Ignoring the 30% ruling election** — If you qualify, you must actively choose partial non-resident status on each return. It is not automatic. See our [30% ruling guide](/guides/finance/30-percent-ruling-netherlands-2026/) for detail
+9. **Not using a DigiD** — Everything in the Dutch tax system requires DigiD authentication. If you do not have one yet, our [DigiD guide](/guides/legal/digid-guide-expats-2026/) walks you through the setup
 
 If you are managing money across borders — paying foreign taxes, transferring savings, or receiving income from your home country — Wise is the most cost-effective way to move money internationally. Far cheaper than Dutch bank wire fees.
 
@@ -280,8 +281,8 @@ For context on how pension income, foreign income, and Dutch earnings interact a
 - **[Dutch Tax System for Expats](/guides/finance/dutch-tax-system-expats-guide-2026/)** — Tax overview
 - **[The 30% Ruling](/guides/finance/30-percent-ruling-netherlands-2026/)** — Tax advantage explained
 - **[Dutch Pension System](/guides/finance/dutch-pension-system-expats-2026/)** — Retirement planning
-- **[Freelancer (ZZP) Guide](/posts/freelancer-zzp-guide-netherlands-2026/)** — Self-employed taxes
-- **[Best Bank Accounts for Expats](/posts/best-bank-accounts-expats-netherlands-2026/)** — Banking setup
+- **[Freelancer (ZZP) Guide](/guides/work/freelancer-zzp-guide-netherlands-2026/)** — Self-employed taxes
+- **[Best Bank Accounts for Expats](/guides/finance/best-bank-account-expats-netherlands-2026/)** — Banking setup
 
 ---
 

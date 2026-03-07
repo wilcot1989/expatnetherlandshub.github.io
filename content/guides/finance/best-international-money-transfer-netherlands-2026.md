@@ -1,6 +1,7 @@
 ---
 title: "Best Ways to Transfer Money to/from the Netherlands 2026"
 date: 2026-03-06T11:00:00+01:00
+lastmod: 2026-03-06T11:00:00+01:00
 description: "Compare the best ways to transfer money to and from the Netherlands in 2026. Wise, Revolut, OFX, Remitly, and more compared on fees and speed."
 categories: ["finance"]
 tags: ["money transfer", "wise", "revolut", "international transfer", "SEPA", "SWIFT", "expat finance"]
@@ -10,7 +11,7 @@ author: "Sarah van den Berg"
 author_bio: "Expat coach and relocation specialist. Half Dutch, half British, living in the Netherlands for over 10 years."
 featured_image: "/images/categories/finance.svg"
 aliases:
-  - /posts/best-international-money-transfer-netherlands-2026/
+  - /guides/finance/best-international-money-transfer-netherlands-2026/
 faq:
   - q: "What is the cheapest way to transfer money to the Netherlands?"
     a: "For most currencies and transfer amounts, Wise (formerly TransferWise) offers the lowest total cost, combining a small transparent fee with the mid-market exchange rate. For EUR-to-EUR transfers within Europe, SEPA bank transfers are essentially free or very low cost (typically under EUR 1). For large transfers over EUR 10,000, OFX may offer slightly better exchange rates with no transfer fees. Always compare the total cost (fee plus exchange rate markup) rather than just the advertised fee."
@@ -421,7 +422,7 @@ Based on our experience and research, here is the combination I recommend for ex
 International transfers themselves are not taxed, but the underlying income or assets may have tax implications:
 
 - **Income from abroad**: Must be declared in your Dutch tax return if you are a Dutch tax resident
-- **Foreign assets**: Reported in Box 3 of your tax return (unless you have the [30% ruling](/posts/30-percent-ruling-netherlands-2026/) with partial non-resident status)
+- **Foreign assets**: Reported in Box 3 of your tax return (unless you have the [30% ruling](/guides/finance/30-percent-ruling-netherlands-2026/) with partial non-resident status)
 - **Large transfers**: May trigger anti-money-laundering questions from your bank. Keep documentation of the source and purpose of large transfers.
 - **Gifts**: Receiving large gifts from abroad may be subject to Dutch gift tax (schenkbelasting). Consult a tax advisor for specifics.
 
@@ -451,4 +452,4 @@ Set up your Wise account before you move, add a Dutch bank account once you have
 
 <a href="https://wise.com/invite/ihpc/willemt52" class="cta" rel="nofollow sponsored" target="_blank">Start Saving on International Transfers with Wise</a>
 
-For more on managing your finances in the Netherlands, see my guide to the [30% ruling](/posts/30-percent-ruling-netherlands-2026/) and our [complete guide to moving to the Netherlands in 2026](/posts/complete-guide-moving-to-netherlands-2026/).
+For more on managing your finances in the Netherlands, see my guide to the [30% ruling](/guides/finance/30-percent-ruling-netherlands-2026/) and our [complete guide to moving to the Netherlands in 2026](/guides/legal/complete-guide-moving-to-netherlands-2026/).

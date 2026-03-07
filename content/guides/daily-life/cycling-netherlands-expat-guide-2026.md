@@ -1,7 +1,8 @@
 ---
 title: "Cycling in the Netherlands: Complete Expat Guide 2026"
 date: 2026-04-02T12:00:00+01:00
-description: "Everything expats need to know about cycling in the Netherlands: buying a bike, traffic rules, safety tips, bike subscriptions, and cycling culture in 2026."
+lastmod: 2026-04-02T12:00:00+01:00
+description: "Everything expats need to know about cycling in the Netherlands: buying a bike, traffic rules, safety tips, and cycling culture in 2026."
 categories: ["daily-life"]
 tags: ["cycling", "bicycle netherlands", "swapfiets", "bike rules", "dutch cycling", "ov-fiets", "bike theft"]
 keywords: ["cycling netherlands", "buy bicycle netherlands", "swapfiets review", "dutch bike rules", "cycling expat guide"]
@@ -10,7 +11,7 @@ author: "Sarah van den Berg"
 author_bio: "Expat coach and relocation specialist. Half Dutch, half British, living in the Netherlands for over 10 years."
 featured_image: "/images/categories/daily-life.svg"
 aliases:
-  - /posts/cycling-netherlands-expat-guide-2026/
+  - /guides/daily-life/cycling-netherlands-expat-guide-2026/
 faq:
   - q: "Do I need to buy a bicycle in the Netherlands?"
     a: "While not legally required, a bicycle is practically a necessity for daily life in the Netherlands. The country is designed around cycling, and for trips under 5-7 km, a bicycle is often the fastest way to get around. Over 85% of Dutch residents own at least one bicycle."
@@ -323,9 +324,9 @@ The Netherlands is exceptionally bike-friendly for families:
 
 ## Related Guides
 
-- [OV-chipkaart Guide for Expats](/posts/ov-chipkaart-guide-expats-2026/) -- public transport setup
-- [Complete Guide to Moving to the Netherlands](/posts/complete-guide-moving-to-netherlands-2026/) -- full relocation checklist
-- [Cost of Living in the Netherlands 2026](/posts/cost-of-living-netherlands-2026/) -- budgeting guide
+- [OV-chipkaart Guide for Expats](/guides/daily-life/ov-chipkaart-guide-expats-2026/) -- public transport setup
+- [Complete Guide to Moving to the Netherlands](/guides/legal/complete-guide-moving-to-netherlands-2026/) -- full relocation checklist
+- [Cost of Living in the Netherlands 2026](/guides/housing/cost-of-living-netherlands-2026/) -- budgeting guide
 
 ---
 

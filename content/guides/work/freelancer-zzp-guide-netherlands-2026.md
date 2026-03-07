@@ -1,6 +1,7 @@
 ---
 title: "Freelancer ZZP Guide Netherlands 2026: Complete Expat Guide"
 date: 2026-03-06T10:00:00+01:00
+lastmod: 2026-03-06T10:00:00+01:00
 description: "Complete guide to freelancing as a ZZP in the Netherlands. Registration, taxes, insurance, invoicing, and tips for expat freelancers in 2026."
 categories: ["career"]
 tags: ["ZZP", "freelancer", "self-employed", "KvK registration", "Dutch taxes"]
@@ -10,7 +11,7 @@ author: "Sarah van den Berg"
 author_bio: "Expat coach and relocation specialist. Half Dutch, half British, living in the Netherlands for over 10 years."
 featured_image: "/images/categories/career.svg"
 aliases:
-  - /posts/freelancer-zzp-guide-netherlands-2026/
+  - /guides/work/freelancer-zzp-guide-netherlands-2026/
 faq:
   - q: "What is a ZZP in the Netherlands?"
     a: "ZZP stands for Zelfstandige Zonder Personeel — a self-employed person without employees. It is the Dutch equivalent of a sole proprietor or freelancer. ZZP is the most common business structure in the Netherlands with over 1.2 million registered ZZPers."
@@ -29,7 +30,7 @@ faq:
 When I registered as a ZZP at the KvK, the whole process took less than an hour. I walked in, answered some questions, paid the fee, and walked out as an officially registered Dutch freelancer. It was shockingly easy compared to the bureaucratic nightmare I had expected. The harder part comes after: figuring out taxes, insurance, invoicing, and the infamous VAT returns. I have been freelancing in the Netherlands for years and I coach other expats through it regularly. Here is the complete guide.
 
 
-New to the Netherlands? Start with our [complete expat guide](/posts/moving-to-netherlands-guide-2026/) and set up your [DigiD](/posts/digid-guide-expats-2026/).
+New to the Netherlands? Start with our [complete expat guide](/guides/legal/complete-guide-moving-to-netherlands-2026/) and set up your [DigiD](/guides/legal/digid-guide-expats-2026/).
 
 ## Step 1: Check Your Right to Freelance
 
@@ -43,7 +44,7 @@ You need one of the following:
 - **Partner/spouse visa with open work permit** — Allows self-employment
 - **Dutch nationality or permanent residence** — Full freedom to freelance
 
-Read our [highly skilled migrant visa guide](/posts/highly-skilled-migrant-visa-netherlands-2026/) for details on work permits.
+Read our [highly skilled migrant visa guide](/guides/legal/highly-skilled-migrant-visa-netherlands-2026/) for details on work permits.
 
 ## Step 2: Register at KvK
 
@@ -135,7 +136,7 @@ For Dutch freelancers, I recommend these tools that are designed for Dutch tax r
 | **e-Boekhouden** | €16-€23/mnd | ✅ BTW + IB | Budget option |
 | **FreshBooks** | $15-$50/mnd | Partial | International freelancers |
 
-Read our [Exact Online vs Twinfield comparison](/posts/exact-online-vs-twinfield-2026/) and [best accounting software guide](/posts/beste-boekhoudsoftware-2026/) for more options.
+All three offer English-language interfaces suitable for expat freelancers. Exact Online and Twinfield are the most popular choices for growing ZZP businesses.
 
 ### Invoice Requirements
 
@@ -163,7 +164,7 @@ Every invoice must include:
 
 **Disability insurance is your biggest decision.** As a ZZP, if you cannot work due to illness or injury, you have no employer to fall back on. Disability insurance replaces 70-80% of your income.
 
-Read our [complete expat insurance guide](/posts/best-expat-insurance-netherlands-2026/) for details.
+Read our [complete expat insurance guide](/guides/health/best-expat-insurance-netherlands-2026/) for details.
 
 ## Step 6: Find Clients
 
@@ -330,10 +331,10 @@ Most accounts can be opened online in 15–30 minutes once you have your KVK num
 
 ## Explore More Expat Guides
 
-- **[Complete Guide to Moving to the Netherlands](/posts/moving-to-netherlands-guide-2026/)** — Everything you need
-- **[Best Expat Insurance](/posts/best-expat-insurance-netherlands-2026/)** — Health, liability, disability
-- **[DigiD Guide for Expats](/posts/digid-guide-expats-2026/)** — Needed for tax filing
-- **[Highly Skilled Migrant Visa](/posts/highly-skilled-migrant-visa-netherlands-2026/)** — Work permit options
+- **[Complete Guide to Moving to the Netherlands](/guides/legal/complete-guide-moving-to-netherlands-2026/)** — Everything you need
+- **[Best Expat Insurance](/guides/health/best-expat-insurance-netherlands-2026/)** — Health, liability, disability
+- **[DigiD Guide for Expats](/guides/legal/digid-guide-expats-2026/)** — Needed for tax filing
+- **[Highly Skilled Migrant Visa](/guides/legal/highly-skilled-migrant-visa-netherlands-2026/)** — Work permit options
 - **[Dutch Tax System Guide](/guides/finance/dutch-tax-system-expats-guide-2026/)** — How taxes work for expats
 - **[30% Ruling Calculator](/tools/30-percent-ruling-calculator/)** — Check your eligibility
 - **[Insurance Chooser](/tools/insurance-chooser/)** — Compare AOV, liability, health

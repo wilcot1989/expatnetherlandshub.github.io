@@ -1,6 +1,7 @@
 ---
 title: "Best Bank Accounts for Expats in the Netherlands 2026"
 date: 2026-02-24T11:00:00+01:00
+lastmod: 2026-02-24T11:00:00+01:00
 description: "Compare the best bank accounts for expats in the Netherlands in 2026: ING, ABN AMRO, Bunq, Wise, N26, Revolut, and Rabobank."
 categories: ["finance"]
 tags: ["dutch bank account", "expat banking", "wise", "bunq", "n26", "ing netherlands", "abn amro"]
@@ -10,7 +11,7 @@ author: "Sarah van den Berg"
 author_bio: "Expat coach and relocation specialist. Half Dutch, half British, living in the Netherlands for over 10 years."
 featured_image: "/images/categories/finance.svg"
 aliases:
-  - /posts/best-bank-account-expats-netherlands-2026/
+  - /guides/finance/best-bank-account-expats-netherlands-2026/
 faq:
   - q: "Can I open a Dutch bank account without a BSN?"
     a: "Traditional Dutch banks (ING, ABN AMRO, Rabobank) require a BSN to open an account. However, Wise allows you to get a Dutch IBAN without a BSN, and Bunq may let you start the process before your BSN is issued. We recommend opening a Wise account before arriving in the Netherlands so you have a functioning account from day one."
@@ -338,9 +339,9 @@ If you shop online frequently in the Netherlands, having a bank account with iDE
 
 ## Related Guides
 
-- [Complete Guide to Moving to the Netherlands in 2026](/posts/complete-guide-moving-to-netherlands-2026/) -- your full relocation checklist
-- [Dutch Health Insurance for Expats: Complete Guide 2026](/posts/dutch-health-insurance-guide-expats-2026/) -- understand mandatory insurance
-- [7 Best Apps to Learn Dutch in 2026](/posts/best-apps-learn-dutch-2026/) -- start learning the language
+- [Complete Guide to Moving to the Netherlands in 2026](/guides/legal/complete-guide-moving-to-netherlands-2026/) -- your full relocation checklist
+- [Dutch Health Insurance for Expats: Complete Guide 2026](/guides/health/dutch-health-insurance-guide-expats-2026/) -- understand mandatory insurance
+- [7 Best Apps to Learn Dutch in 2026](/guides/integration/best-apps-learn-dutch-2026/) -- start learning the language
 - [DigiD Guide for Expats 2026](/guides/legal/digid-guide-expats-2026/) -- set up your digital identity, needed for DigiD-verified banking tasks
 
 ---

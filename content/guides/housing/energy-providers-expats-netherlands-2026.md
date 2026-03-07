@@ -1,7 +1,8 @@
 ---
 title: "Best Energy Providers for Expats in the Netherlands 2026"
 date: 2026-04-18T10:00:00+01:00
-description: "Guide to choosing an energy provider in the Netherlands as an expat. Fixed vs dynamic contracts, best providers, costs, and tips for saving on your energy bill."
+lastmod: 2026-04-18T10:00:00+01:00
+description: "How to choose an energy provider in the Netherlands as an expat. Fixed vs dynamic contracts, best providers, and tips to save on your bill."
 categories: ["housing"]
 tags: ["energy provider", "gas electricity", "Vattenfall", "Eneco", "expat utilities"]
 keywords: ["energy provider Netherlands expat", "Dutch energy contract", "cheapest energy Netherlands", "gas electricity NL"]
@@ -10,7 +11,7 @@ author: "Sarah van den Berg"
 author_bio: "Expat coach and relocation specialist. Half Dutch, half British, living in the Netherlands for over 10 years."
 featured_image: "/images/categories/housing.svg"
 aliases:
-  - /posts/energy-providers-expats-netherlands-2026/
+  - /guides/housing/energy-providers-expats-netherlands-2026/
 faq:
   - q: "How do I choose an energy provider in the Netherlands?"
     a: "Compare providers on comparison sites like Gaslicht.com, Pricewise.nl, or Independer.nl. Key factors: contract type (fixed vs variable vs dynamic), price per kWh, monthly fixed costs, and contract duration. Most contracts are monthly cancellable. Switch anytime for free."
@@ -29,7 +30,7 @@ faq:
 I accidentally left my energy contract on the default provider for six months after moving into my apartment and massively overpaid. Turns out, switching energy providers in the Netherlands is free and takes five minutes -- I just did not know that. It is one of those things nobody tells you when you arrive. Here is how to choose the right energy contract from the start so you do not repeat my expensive mistake.
 
 
-New to the Netherlands? Start with our [complete expat guide](/posts/moving-to-netherlands-guide-2026/).
+New to the Netherlands? Start with our [complete expat guide](/guides/legal/complete-guide-moving-to-netherlands-2026/).
 
 ## How the Dutch Energy Market Works
 
@@ -259,11 +260,11 @@ Also worth knowing: if you are still figuring out your broader budget, check out
 
 ## Explore More Expat Guides
 
-- **[Complete Guide to Moving to the Netherlands](/posts/moving-to-netherlands-guide-2026/)** — Getting started
-- **[Best Expat Insurance](/posts/best-expat-insurance-netherlands-2026/)** — Key coverage
-- **[DigiD Guide for Expats](/posts/digid-guide-expats-2026/)** — Government services
-- **[Moving to The Hague](/posts/moving-to-the-hague-guide-2026/)** — City neighborhoods
-- **[Moving to Eindhoven](/posts/moving-to-eindhoven-guide-2026/)** — Brainport region
+- **[Complete Guide to Moving to the Netherlands](/guides/legal/complete-guide-moving-to-netherlands-2026/)** — Getting started
+- **[Best Expat Insurance](/guides/health/best-expat-insurance-netherlands-2026/)** — Key coverage
+- **[DigiD Guide for Expats](/guides/legal/digid-guide-expats-2026/)** — Government services
+- **[Moving to The Hague](/guides/housing/moving-to-the-hague-guide-2026/)** — City neighborhoods
+- **[Moving to Eindhoven](/guides/housing/moving-to-eindhoven-guide-2026/)** — Brainport region
 
 ---
 
