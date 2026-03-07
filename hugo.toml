@@ -2,7 +2,7 @@ baseURL = "https://expatnetherlandshub.com/"
 languageCode = "en-us"
 title = "Expat Netherlands Hub"
 theme = "starter"
-buildFuture = true
+buildFuture = false
 
 [params]
   description = "Free tools and expert guides for expats moving to the Netherlands. Calculate your 30% ruling, compare health insurance, find the best bank, and more."
