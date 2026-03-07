@@ -23,7 +23,7 @@ faq:
   - q: "Can I freelance on a 30% ruling?"
     a: "Yes, but it is complex. The 30% ruling is typically linked to an employment contract. As a ZZP, you would need to set up a BV (private limited company) and pay yourself a director's salary to potentially qualify. Consult a tax advisor specializing in expat taxation."
   - q: "What insurance do I need as a freelancer in the Netherlands?"
-    a: "Mandatory: basic health insurance (zorgverzekering). Strongly recommended: liability insurance (aansprakelijkheidsverzekering, €3-5/month), professional liability insurance (beroepsaansprakelijkheid, €15-50/month), and disability insurance (arbeidsongeschiktheid, €50-200/month). Disability insurance is crucial since you have no employer safety net."
+    a: "Mandatory: basic health insurance (zorgverzekering). Strongly recommended: liability insurance (aansprakelijkheidsverzekering, €3-5/month), professional liability insurance (beroepsaansprakelijkheid, €15-50/month), and disability insurance (arbeidsongeschiktheid, €50-200/month). Disability insurance is vital since you have no employer safety net."
 ---
 
 When I registered as a ZZP at the KvK, the whole process took less than an hour. I walked in, answered some questions, paid the fee, and walked out as an officially registered Dutch freelancer. It was shockingly easy compared to the bureaucratic nightmare I had expected. The harder part comes after: figuring out taxes, insurance, invoicing, and the infamous VAT returns. I have been freelancing in the Netherlands for years and I coach other expats through it regularly. Here is the complete guide.
@@ -152,13 +152,13 @@ Every invoice must include:
 
 ## Step 5: Get Insurance
 
-### Essential Insurance for ZZP
+### Key Insurance for ZZP
 
 | Insurance | Monthly Cost | Priority |
 |-----------|-------------|----------|
 | **Health insurance** (mandatory) | €120-€145 | Immediate |
-| **Liability** (aansprakelijkheid) | €3-€5 | Essential |
-| **Professional liability** (beroepsaansprakelijkheid) | €15-€50 | Essential |
+| **Liability** (aansprakelijkheid) | €3-€5 | Important |
+| **Professional liability** (beroepsaansprakelijkheid) | €15-€50 | Important |
 | **Disability** (arbeidsongeschiktheid) | €50-€200 | Critical |
 
 **Disability insurance is your biggest decision.** As a ZZP, if you cannot work due to illness or injury, you have no employer to fall back on. Disability insurance replaces 70-80% of your income.
@@ -276,7 +276,7 @@ You must have Dutch health insurance if you live and work in the Netherlands. Th
 
 If you accidentally damage a client's property or cause an accident during a client visit, your personal liability policy (aansprakelijkheidsverzekering particulier) does NOT cover business-related incidents. A separate business liability policy costs just **€3–€5/month** and covers damage to third parties. Almost no excuse not to have it.
 
-**3. Professional indemnity (Beroepsaansprakelijkheidsverzekering) — Essential for knowledge workers**
+**3. Professional indemnity (Beroepsaansprakelijkheidsverzekering) — Important for knowledge workers**
 
 If your advice, design, code, or written work causes financial loss to a client, beroepsaansprakelijkheid covers the claim. Costs **€15–€50/month** depending on your sector and coverage level. Required if you work in finance, law, IT consulting, or architecture. I make this a non-negotiable recommendation for virtually all knowledge-based ZZP'ers.
 
@@ -332,7 +332,7 @@ Most accounts can be opened online in 15–30 minutes once you have your KVK num
 
 - **[Complete Guide to Moving to the Netherlands](/posts/moving-to-netherlands-guide-2026/)** — Everything you need
 - **[Best Expat Insurance](/posts/best-expat-insurance-netherlands-2026/)** — Health, liability, disability
-- **[DigiD Guide for Expats](/posts/digid-guide-expats-2026/)** — Essential for tax filing
+- **[DigiD Guide for Expats](/posts/digid-guide-expats-2026/)** — Needed for tax filing
 - **[Highly Skilled Migrant Visa](/posts/highly-skilled-migrant-visa-netherlands-2026/)** — Work permit options
 - **[Dutch Tax System Guide](/guides/finance/dutch-tax-system-expats-guide-2026/)** — How taxes work for expats
 - **[30% Ruling Calculator](/tools/30-percent-ruling-calculator/)** — Check your eligibility

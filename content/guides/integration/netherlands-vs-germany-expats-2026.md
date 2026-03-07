@@ -271,7 +271,7 @@ There is no universally better choice. The right country depends on your profess
 
 ### Or Consider Both
 
-Some expats move to the Netherlands first to take advantage of the 30% ruling, build savings, and establish a European career, then relocate to Germany when the ruling expires and housing costs become a greater concern. Others do the reverse, starting in Germany to learn the language and later moving to the Netherlands for a more international environment. Both pathways are viable, and the proximity of the two countries makes the transition straightforward.
+Some expats move to the Netherlands first to take advantage of the 30% ruling, build savings, and establish a European career, then relocate to Germany when the ruling expires and housing costs become a greater concern. Others do the reverse, starting in Germany to learn the language and later moving to the Netherlands for a more international environment. Both pathways are viable, and the proximity of the two countries makes the transition easy.
 
 Whatever you decide, take the time to visit both countries, speak to expats already living there, and evaluate your specific career opportunities before committing. The right choice is the one that aligns with where you are in your life and career right now.
 

@@ -18,9 +18,9 @@ A VPN is worth considering for two reasons as an expat. First, if you access str
 
 ## Getting Around: Public Transport and Cycling
 
-The Netherlands has one of the best public transport networks in Europe. Trains, buses, trams, and metros are integrated under the OV-chipkaart system. I cover how to load and use the card, the difference between the NS app and the OV-chipkaart, and how to navigate the train system efficiently.
+The Netherlands has one of the best public transport networks in Europe. Trains, buses, trams, and metros are integrated under the OV-chipkaart system. I cover how to load and use the card, the difference between the NS app and the OV-chipkaart, and how to work through the train system efficiently.
 
-Cycling, of course, is the other essential transport mode. The Netherlands has more bikes than people. I cover buying a second-hand bike (the recommended approach for most expats), locking it properly, and understanding the unwritten rules of Dutch cycling etiquette.
+Cycling, of course, is the other key transport mode. The Netherlands has more bikes than people. I cover buying a second-hand bike (the recommended approach for most expats), locking it properly, and understanding the unwritten rules of Dutch cycling etiquette.
 
 ## Groceries and Supermarkets
 

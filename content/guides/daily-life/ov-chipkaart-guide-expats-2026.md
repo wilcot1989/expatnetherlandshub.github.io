@@ -77,7 +77,7 @@ The OV-chipkaart uses a check-in, check-out system:
 
 ### Transferring Between Operators
 
-When you transfer between different transport operators (for example, from an NS train to a GVB tram in Amsterdam), you must check out with the first operator and check in with the second. This happens at the card readers in the station or at the tram/bus door. The transfer is seamless if you do it correctly, and you will not be charged double.
+When you transfer between different transport operators (for example, from an NS train to a GVB tram in Amsterdam), you must check out with the first operator and check in with the second. This happens at the card readers in the station or at the tram/bus door. The transfer is smooth if you do it correctly, and you will not be charged double.
 
 ---
 
@@ -234,7 +234,7 @@ OV-fiets is the perfect complement to train travel. Your commute becomes: walk t
 
 ---
 
-## Essential Apps for Dutch Public Transport
+## Key Apps for Dutch Public Transport
 
 ### 9292 -- The Universal Planner
 
@@ -253,7 +253,7 @@ Most stations offer free public WiFi. It is convenient for checking routes and d
 
 ### NS App -- For Train Travel
 
-The official NS app is essential if you take the train regularly.
+The official NS app is a must if you take the train regularly.
 
 **Key features**:
 - Real-time train departure and arrival times
@@ -375,7 +375,7 @@ For casual travelers and tourists, OVpay is the easiest option. For regular comm
 
 ## Final Tips
 
-Public transport in the Netherlands is efficient, affordable, and comprehensive. Here is your action plan:
+Public transport in the Netherlands is efficient, affordable, and well-connected. Here is your action plan:
 
 1. **Order a personal OV-chipkaart** at ov-chipkaart.nl as soon as you have a Dutch address
 2. **Download the NS app and 9292 app** on your first day

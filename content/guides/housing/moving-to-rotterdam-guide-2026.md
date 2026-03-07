@@ -45,7 +45,7 @@ For a broader overview of relocating to the Netherlands, read our [Complete Guid
 | **International community** | Growing, welcoming | Large, established |
 | **English proficiency** | High | Very high |
 | **Job market** | Logistics, port, energy, tech | Tech, finance, creative |
-| **Architecture** | Modern, innovative | Classic, canal houses |
+| **Architecture** | Modern, bold | Classic, canal houses |
 | **Cycling** | Excellent | Excellent |
 | **Nightlife** | Growing, diverse | Extensive, world-class |
 | **Proximity to Amsterdam** | 40 min by train | -- |
@@ -95,7 +95,7 @@ Rotterdam's housing market is competitive but significantly more accessible than
 - **Housinganywhere.com**: International-focused platform
 - **Facebook groups**: "Rotterdam Housing" and "Expats in Rotterdam" groups
 
-For a comprehensive guide, read our article on [finding housing in the Netherlands](/posts/finding-housing-netherlands-expats-2026/).
+For a full guide, read our article on [finding housing in the Netherlands](/posts/finding-housing-netherlands-expats-2026/).
 
 ---
 
@@ -170,7 +170,7 @@ Register at a Stadswinkel (City Office) within 5 days of arriving. Book an appoi
 - Marriage certificate if applicable
 - Employment contract (useful but not always required)
 
-You receive your **BSN** (Burgerservicenummer) during or shortly after the registration appointment. This number is essential for:
+You receive your **BSN** (Burgerservicenummer) during or shortly after the registration appointment. This number is necessary for:
 - Opening a Dutch bank account (with a traditional bank)
 - Starting health insurance
 - Employment and tax administration
@@ -198,7 +198,7 @@ Rotterdam's public transport is operated by RET and includes:
 
 - **Metro**: 5 lines covering the city and suburbs (the oldest metro system in the Netherlands)
 - **Tram**: Multiple lines connecting neighborhoods
-- **Bus**: Comprehensive network
+- **Bus**: Full network covering the city and region
 - **Waterbus**: Ferry service along the Maas and to Dordrecht/Kinderdijk
 
 Use an OV-chipkaart for all public transport. Read our [OV-chipkaart guide](/posts/ov-chipkaart-guide-expats-2026/).
@@ -228,7 +228,7 @@ Rotterdam Centraal is a major railway hub:
 | Internet & phone | EUR 50-70 | EUR 50-70 |
 | **Total (excl. rent)** | **EUR 710-1,090** | **EUR 1,110-1,690** |
 
-For a comprehensive breakdown, see our [Cost of Living in the Netherlands 2026](/posts/cost-of-living-netherlands-2026/) guide.
+For a full breakdown, see our [Cost of Living in the Netherlands 2026](/posts/cost-of-living-netherlands-2026/) guide.
 
 ---
 

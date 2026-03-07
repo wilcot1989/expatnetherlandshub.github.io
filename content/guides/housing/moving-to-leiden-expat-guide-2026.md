@@ -74,7 +74,7 @@ Best for: Families with children, those prioritising space and quiet over urban 
 
 ### Roomburg
 
-Roomburg is one of Leiden's more diverse and dynamic neighbourhoods, situated to the south-east of the centre. It has a mix of housing types, reasonable prices, and is close to the Bio Science Park — which means short cycling times for those working in Leiden's life sciences sector. The neighbourhood has a slightly rougher edge than Stevenshof or Merenwijk, but it is improving, and the lower prices reflect this trajectory.
+Roomburg is one of Leiden's more diverse and lively neighbourhoods, situated to the south-east of the centre. It has a mix of housing types, reasonable prices, and is close to the Bio Science Park — which means short cycling times for those working in Leiden's life sciences sector. The neighbourhood has a slightly rougher edge than Stevenshof or Merenwijk, but it is improving, and the lower prices reflect this trajectory.
 
 Best for: Researchers and professionals at the Bio Science Park, buyers looking for relative value, people who want to be part of a genuinely mixed community.
 
@@ -93,7 +93,7 @@ Best for: Families with young children, people who enjoy water sports and outdoo
 | Binnenstad | Historic, lively, dense | €1,300–€1,600 | €1,800–€2,400 | Singles, couples, academics | 5–10 min |
 | Leiden Noord | Residential, improving | €1,050–€1,350 | €1,400–€1,900 | Young families, budget-conscious | 10–15 min |
 | Stevenshof | Suburban, quiet, green | €1,000–€1,250 | €1,300–€1,750 | Families, remote workers | 20–25 min |
-| Roomburg | Mixed, dynamic, affordable | €1,000–€1,300 | €1,350–€1,800 | Bio Science Park workers | 15–20 min |
+| Roomburg | Mixed, lively, affordable | €1,000–€1,300 | €1,350–€1,800 | Bio Science Park workers | 15–20 min |
 | Merenwijk | Lake-side, calm, family | €1,050–€1,300 | €1,400–€1,900 | Families, outdoor enthusiasts | 20–30 min |
 
 *Rental figures are indicative as of early 2026. The Leiden market moves quickly — use these as orientation, not certainty.*
@@ -233,7 +233,7 @@ These figures do not include mortgage costs (if buying), savings, holidays, or c
 
 ## Registering in Leiden: The Practical Steps
 
-Once you have found a home and are ready to move in, registration at the municipality (gemeente) is legally required within five days of taking up residence. You will register at the **Gemeente Leiden** (city hall), and this will trigger your BSN (citizen service number) if you do not already have one. The BSN is essential for almost everything in Dutch life — opening a bank account, accessing healthcare, receiving your salary.
+Once you have found a home and are ready to move in, registration at the municipality (gemeente) is legally required within five days of taking up residence. You will register at the **Gemeente Leiden** (city hall), and this will trigger your BSN (citizen service number) if you do not already have one. The BSN is necessary for almost everything in Dutch life — opening a bank account, accessing healthcare, receiving your salary.
 
 My full guide to [getting your BSN in the Netherlands](/guides/legal/bsn-registration-guide-2026/) walks through the process step by step, including what documents you need and how to handle the appointment.
 

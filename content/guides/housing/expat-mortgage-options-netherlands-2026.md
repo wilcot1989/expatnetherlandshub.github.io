@@ -250,7 +250,7 @@ For context on buying in specific cities, read our [finding housing guide](/guid
 - **[Dutch Tax System for Expats](/guides/finance/dutch-tax-system-expats-guide-2026/)** — Hypotheekrenteaftrek and income tax explained
 - **[Best Expat Insurance](/posts/best-expat-insurance-netherlands-2026/)** — Home and liability coverage
 - **[Freelancer ZZP Guide](/posts/freelancer-zzp-guide-netherlands-2026/)** — Self-employed mortgage options
-- **[DigiD Guide](/posts/digid-guide-expats-2026/)** — Essential for tax declarations
+- **[DigiD Guide](/posts/digid-guide-expats-2026/)** — Required for tax declarations
 
 ---
 

@@ -225,7 +225,7 @@ The Hague hosts major international organizations:
 1. **Register at the municipality (gemeente)** — Book online at [denhaag.nl](https://www.denhaag.nl), bring passport, rental contract, birth certificate
 2. **Get BSN (burgerservicenummer)** — Assigned at municipality registration
 3. **Get health insurance** — Within 4 months. See our [expat insurance guide](/posts/best-expat-insurance-netherlands-2026/)
-4. **Apply for DigiD** — Essential for government services. See our [DigiD guide](/posts/digid-guide-expats-2026/)
+4. **Apply for DigiD** — Required for government services. See our [DigiD guide](/posts/digid-guide-expats-2026/)
 5. **Open a bank account** — ING, ABN AMRO, or Bunq (most expat-friendly)
 
 ### Money Transfer
@@ -302,7 +302,7 @@ If you work in an international organization, government, or simply want a cosmo
 
 - **[Complete Guide to Moving to the Netherlands](/posts/moving-to-netherlands-guide-2026/)** — Everything you need
 - **[International Schools in the Netherlands](/posts/international-schools-netherlands-2026/)** — Full school comparison
-- **[Best Expat Insurance](/posts/best-expat-insurance-netherlands-2026/)** — Health and other essential insurance
+- **[Best Expat Insurance](/posts/best-expat-insurance-netherlands-2026/)** — Health and other key insurance
 - **[Highly Skilled Migrant Visa](/posts/highly-skilled-migrant-visa-netherlands-2026/)** — Work permit information
 - **[Netherlands vs Germany for Expats](/posts/netherlands-vs-germany-expats-2026/)** — Country comparison
 

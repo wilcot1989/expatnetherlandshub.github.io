@@ -344,7 +344,7 @@ For a full picture of what living in the Netherlands actually costs — rent, tr
 
 ## Quick Reference
 
-**Best overall for expats:** Albert Heijn (bonuskaart essential)
+**Best overall for expats:** Albert Heijn (bonuskaart a must)
 
 **Best value:** Dirk van den Broek (Randstad only) or Lidl (nationwide)
 

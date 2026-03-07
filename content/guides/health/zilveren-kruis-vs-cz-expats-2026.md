@@ -79,7 +79,7 @@ For a full breakdown of how to register, get your BSN, and start your coverage, 
 | **English customer service** | Yes (limited hours) | Limited |
 | **App quality** | Good (Mijn Zilveren Kruis) | Good (Mijn CZ) |
 | **Dental (basic add-on)** | ~EUR 10/month | ~EUR 8/month |
-| **Dental (comprehensive add-on)** | ~EUR 20-26/month | ~EUR 18-22/month |
+| **Dental (full add-on)** | ~EUR 20-26/month | ~EUR 18-22/month |
 | **Physiotherapy (first 9 sessions)** | Covered in basis | Covered in basis |
 | **Physio add-on (extra sessions)** | Available from ~EUR 5/month | Available from ~EUR 6/month |
 | **Mental health (GGZ basis)** | Covered in basis | Covered in basis |
@@ -286,7 +286,7 @@ If you want access to private English-speaking therapists without long waits, yo
 **Cons:**
 - Marginally higher premiums across most policy types
 - Customer service wait times can be long during peak periods (January, after open enrolment)
-- Website can be complex to navigate when looking for specific policy details
+- Website can be complex to work through when looking for specific policy details
 - Letters and communications remain Dutch-only
 
 ### CZ

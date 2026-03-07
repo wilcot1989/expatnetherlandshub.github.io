@@ -1,6 +1,6 @@
 ---
 title: "Visa & Legal Guides for Expats in the Netherlands 2026"
-description: "Navigate Dutch immigration: HSM visa, residence permits, DigiD registration, and the complete moving guide. Step-by-step for 2026."
+description: "Handle Dutch immigration: HSM visa, residence permits, DigiD registration, and the complete moving guide. Step-by-step for 2026."
 date: 2026-03-06T10:00:00+01:00
 ---
 
@@ -8,7 +8,7 @@ The legal and administrative side of moving to the Netherlands is not complicate
 
 ## The Highly Skilled Migrant Visa
 
-If you are moving to the Netherlands for work and your employer is an IND-recognised sponsor, the Highly Skilled Migrant (HSM) visa — called the kennismigrant permit in Dutch — is the most straightforward route. Your employer handles the application, and processing typically takes two to four weeks.
+If you are moving to the Netherlands for work and your employer is an IND-recognised sponsor, the Highly Skilled Migrant (HSM) visa — called the kennismigrant permit in Dutch — is the simplest route. Your employer handles the application, and processing typically takes two to four weeks.
 
 The income threshold for the HSM permit changes each year. In 2026, it is €5,688 gross per month for applicants aged 30 and over, and €4,171 for those under 30. I cover the full requirements, the application process, and what happens when you change employers while on this permit.
 
@@ -34,4 +34,4 @@ DigiD is the Dutch digital identity system. You need it to file your taxes, acce
 
 ## The Complete Moving Checklist
 
-The legal guides culminate in a comprehensive moving checklist that covers every administrative step in the right order — from before you leave your home country to your first three months in the Netherlands. It is the starting point I recommend to every expat who is planning a move.
+The legal guides culminate in a complete moving checklist that covers every administrative step in the right order — from before you leave your home country to your first three months in the Netherlands. It is the starting point I recommend to every expat who is planning a move.

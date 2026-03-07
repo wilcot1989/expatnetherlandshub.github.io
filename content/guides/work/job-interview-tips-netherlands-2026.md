@@ -44,7 +44,7 @@ Dutch professional culture is built on a few core values: **directness, equality
 
 **Equality** means the hierarchy in an interview room is often flatter than you might expect. The hiring manager may well introduce themselves by their first name and expect you to do the same. Calling someone "Mr de Vries" when they have just told you their name is Kees will feel odd to them. Treat the conversation as a two-way exchange, not a formal examination.
 
-**Consensus** (the Dutch concept of *gezelligheid* aside, the more relevant one here is *poldermodel*) means Dutch teams genuinely care whether you will fit into the group dynamic. The interview is partly about your skills, but also about whether your colleagues will actually enjoy working with you.
+**Consensus** (the Dutch concept of *gezelligheid* aside, the more relevant one here is *poldermodel*) means Dutch teams genuinely care whether you will fit into the group. The interview is partly about your skills, but also about whether your colleagues will actually enjoy working with you.
 
 ---
 

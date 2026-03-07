@@ -25,7 +25,7 @@ faq:
   - q: "Is Pimsleur worth the price for learning Dutch?"
     a: "Pimsleur is worth the investment if your priority is speaking and pronunciation. Its audio-based method is uniquely effective for training your ear and building conversational confidence. At USD 14.95-20.99 per month, it is a premium option, but many learners find the speaking-focused approach delivers faster real-world results than text-based apps. It is particularly useful for commuters who can practice during travel."
   - q: "Should I learn Dutch or is English enough in the Netherlands?"
-    a: "While you can survive in the Netherlands with English, especially in Amsterdam, Rotterdam, and The Hague, learning Dutch significantly improves your quality of life. It helps you read official letters and documents, connect more deeply with Dutch colleagues, navigate healthcare and government services more easily, and feel more at home. Most expats who plan to stay long-term find that learning at least basic Dutch is essential."
+    a: "While you can survive in the Netherlands with English, especially in Amsterdam, Rotterdam, and The Hague, learning Dutch significantly improves your quality of life. It helps you read official letters and documents, connect more deeply with Dutch colleagues, deal with healthcare and government services more easily, and feel more at home. Most expats who plan to stay long-term find that learning at least basic Dutch is a must."
 ---
 
 Even with a Dutch mother, I spent my first year in the Netherlands smiling and nodding through conversations I only half understood. That is what motivated me to test every Dutch learning app I could find -- and I have been recommending them to my expat clients ever since. Here are the 7 best apps for learning Dutch in 2026, based on years of personal use and real feedback from hundreds of learners.
@@ -51,7 +51,7 @@ Even with a Dutch mother, I spent my first year in the Netherlands smiling and n
 
 ### What Makes Babbel Stand Out
 
-Babbel's Dutch course is structured around real-life situations you will actually encounter: ordering coffee, making small talk at a borrel, understanding your lease agreement, and navigating a conversation at the gemeente. Lessons are 10-15 minutes long and follow a logical progression from beginner to upper-intermediate.
+Babbel's Dutch course is structured around real-life situations you will actually encounter: ordering coffee, making small talk at a borrel, understanding your lease agreement, and handling a conversation at the gemeente. Lessons are 10-15 minutes long and follow a logical progression from beginner to upper-intermediate.
 
 The app teaches grammar in context rather than through abstract rules. You learn why Dutch word order changes in subordinate clauses by seeing it in practical sentences, not by memorizing rules from a textbook.
 
@@ -158,7 +158,7 @@ Pimsleur is the best choice if you want to speak Dutch with confidence. It is pa
 
 ## 4. Mondly -- Best for Visual and Interactive Learners
 
-[Mondly](https://www.mondly.com/) offers a visually polished experience with some innovative features including augmented reality and chatbot conversations.
+[Mondly](https://www.mondly.com/) offers a visually polished experience with some modern features including augmented reality and chatbot conversations.
 
 ### What Makes Mondly Stand Out
 
@@ -180,7 +180,7 @@ Mondly uses a conversation-first approach. Each lesson begins with a dialogue th
 
 ### Cons
 
-- Dutch course is less comprehensive than Babbel's
+- Dutch course is less thorough than Babbel's
 - Grammar explanations are not as thorough
 - Some content feels generic (not Dutch-specific)
 - The chatbot conversations can be limited
@@ -210,7 +210,7 @@ Every lesson uses images, audio, and context to teach you Dutch without translat
 - Forces you to think in Dutch from the start
 - Excellent pronunciation feedback with TruAccent technology
 - No reliance on English translations
-- Comprehensive structured curriculum
+- Full structured curriculum
 - Live tutoring sessions available with premium plans
 
 ### Cons
@@ -293,7 +293,7 @@ Nothing beats talking to a real person. italki offers access to professional Dut
 
 ### Verdict
 
-italki is the essential complement to any app-based learning. Use an app for daily practice and structure, and book italki sessions weekly for the conversation practice that apps simply cannot provide.
+italki is the key complement to any app-based learning. Use an app for daily practice and structure, and book italki sessions weekly for the conversation practice that apps simply cannot provide.
 
 ---
 
@@ -329,7 +329,7 @@ Based on my testing, here is the combination I recommend for expats learning Dut
 
 2. **Watch Dutch TV with subtitles**: Start with English subtitles, then switch to Dutch subtitles, then try without. Shows on NPO Start are a great starting point.
 
-3. **Read Dutch news**: NOS.nl and NU.nl are written in relatively straightforward Dutch. Use a browser extension to look up words you do not know.
+3. **Read Dutch news**: NOS.nl and NU.nl are written in relatively plain Dutch. Use a browser extension to look up words you do not know.
 
 4. **Set your phone to Dutch**: Immerse yourself in the language by changing the language settings on your devices.
 

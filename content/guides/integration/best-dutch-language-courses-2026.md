@@ -365,7 +365,7 @@ Direct Dutch is an excellent choice for expats who want to jump into Dutch headf
 
 ## NT2 Exam Preparation
 
-If you are required to pass the inburgeringsexamen (civic integration exam) or need NT2 certification for professional or educational purposes, dedicated exam preparation is essential.
+If you are required to pass the inburgeringsexamen (civic integration exam) or need NT2 certification for professional or educational purposes, dedicated exam preparation is a must.
 
 ### What Is the NT2 Exam?
 

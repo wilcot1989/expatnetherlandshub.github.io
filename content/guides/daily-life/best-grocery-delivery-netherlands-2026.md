@@ -323,7 +323,7 @@ Crisp is a wonderful way to discover high-quality Dutch and European food produc
 | **Mid-range** | Albert Heijn, Jumbo, Plus | Full range, good quality, moderate prices |
 | **Premium** | Marqt, Ekoplaza, Crisp | Organic, local, specialty, higher prices |
 
-### Essential Dutch Grocery Products to Know
+### Key Dutch Grocery Products to Know
 
 As an expat, you will quickly discover some Dutch staples:
 
@@ -382,4 +382,4 @@ Want to see how your grocery budget fits into the bigger picture? Our housing an
 
 <a href="/tools/housing-budget-checker/" class="cta-affiliate">Calculate your full monthly budget →</a>
 
-For more practical guides on settling into Dutch daily life, read our articles on the [best internet providers](/posts/best-internet-providers-netherlands-2026/), [cost of living](/posts/cost-of-living-netherlands-2026/), and [best SIM cards for expats](/posts/best-sim-card-netherlands-expats-2026/). If you're still figuring out your budget before arrival, our [cost of living guide](/guides/housing/cost-of-living-netherlands-2026/) breaks down what groceries, housing, and transport actually cost month to month. And once you've sorted your shopping routine, our [cycling guide](/guides/daily-life/cycling-netherlands-expat-guide-2026/) covers the other daily-life essential in the Netherlands.
+For more practical guides on settling into Dutch daily life, read our articles on the [best internet providers](/posts/best-internet-providers-netherlands-2026/), [cost of living](/posts/cost-of-living-netherlands-2026/), and [best SIM cards for expats](/posts/best-sim-card-netherlands-expats-2026/). If you're still figuring out your budget before arrival, our [cost of living guide](/guides/housing/cost-of-living-netherlands-2026/) breaks down what groceries, housing, and transport actually cost month to month. And once you've sorted your shopping routine, our [cycling guide](/guides/daily-life/cycling-netherlands-expat-guide-2026/) covers the other daily-life must-have in the Netherlands.

@@ -240,7 +240,7 @@ The moment you have your BSN, a significant number of administrative doors open.
 
 DigiD is the Dutch digital identity system used to log in to almost every government website: the Belastingdienst, DUO (student finance), My Government portal, your health insurer, and dozens of others. You apply at digid.nl with your BSN, and the activation letter arrives at your registered address within 5–7 working days.
 
-Do not skip this. DigiD is essential for almost everything in Dutch bureaucracy. Read my full [DigiD guide](/guides/legal/digid-guide-expats-2026/) for the step-by-step process.
+Do not skip this. DigiD is necessary for almost everything in Dutch bureaucracy. Read my full [DigiD guide](/guides/legal/digid-guide-expats-2026/) for the step-by-step process.
 
 ### 2. Open a Dutch Bank Account (Within the First Week)
 

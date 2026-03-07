@@ -223,7 +223,7 @@ The student population means Groningen's nightlife is active for a city of its s
 1. Register at the Gemeente Groningen — this gives you your BSN number. Our [BSN registration guide](/guides/legal/bsn-registration-guide-2026/) covers exactly what documents to bring and what to expect
 2. Open a Dutch bank account (you need your BSN — ABN AMRO, ING, and Rabobank all have branches in Groningen)
 3. Arrange [health insurance](/guides/health/dutch-health-insurance-guide-expats-2026/) — mandatory from your first day of work or residence
-4. Buy or rent a bicycle — essential rather than optional
+4. Buy or rent a bicycle — a must, not optional
 
 ### First Month
 1. Apply for DigiD (digital identity for Dutch government services)

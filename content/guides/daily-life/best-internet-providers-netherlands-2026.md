@@ -25,7 +25,7 @@ faq:
   - q: "What is the difference between fiber and cable internet in the Netherlands?"
     a: "Fiber (glasvezel) delivers data over fiber-optic cables, offering symmetrical upload and download speeds (e.g., 1000 Mbps both ways). Cable internet, primarily offered by Ziggo, delivers data over coaxial cables. Cable can reach high download speeds (up to 1200 Mbps) but upload speeds are much lower (typically 50-100 Mbps). Fiber is generally considered more reliable and future-proof."
   - q: "How long are Dutch internet contracts?"
-    a: "Most Dutch internet providers offer 1-year or 2-year contracts. After the initial contract period, agreements convert to a monthly rolling contract that you can cancel with one month's notice. Some providers like KPN and Ziggo offer flex contracts with no fixed term at a slightly higher monthly price. By Dutch law, providers must make cancellation straightforward after the initial term."
+    a: "Most Dutch internet providers offer 1-year or 2-year contracts. After the initial contract period, agreements convert to a monthly rolling contract that you can cancel with one month's notice. Some providers like KPN and Ziggo offer flex contracts with no fixed term at a slightly higher monthly price. By Dutch law, providers must make cancellation simple after the initial term."
 ---
 
 One of the few things that genuinely impressed me when I moved to the Netherlands was the internet speed. Coming from the UK, where buffering was a way of life, Dutch fiber felt like magic. But actually choosing a provider? That part was confusing -- Dutch-only websites, unclear bundles, and conflicting advice from colleagues. After a decade of switching providers and helping clients set up their connections, here is my comparison of the 6 best options in 2026.
@@ -156,7 +156,7 @@ Ziggo (owned by VodafoneZiggo) operates the dominant cable network in the Nether
 
 ### English Support
 
-Ziggo's customer support is primarily in Dutch, though many agents can communicate in basic English. Their website and app are in Dutch. For English-speaking expats, this can be frustrating when troubleshooting issues. If English support is essential, KPN is a safer choice.
+Ziggo's customer support is primarily in Dutch, though many agents can communicate in basic English. Their website and app are in Dutch. For English-speaking expats, this can be frustrating when troubleshooting issues. If English support is a must, KPN is a safer choice.
 
 ### Our Verdict
 
@@ -222,7 +222,7 @@ Odido (formerly Tele2, rebranded in 2023) offers fiber and DSL internet at compe
 
 - Among the most affordable fiber options
 - Uses the same reliable network as T-Mobile
-- Straightforward plans without confusing add-ons
+- Simple plans without confusing add-ons
 - Bundle options with Odido mobile plans
 - Good value for the speeds offered
 

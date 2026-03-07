@@ -263,7 +263,7 @@ Most Dutch banks require your KvK number before opening a business account. Some
 | Rabobank | €9–€15/month | Partial | Strong support for small businesses |
 | ING | €8–€13/month | Partial | Largest ATM and branch network |
 
-Bunq Business is my top recommendation for expats who want to do everything in English with a good app experience. If you need iDEAL payments (essential for Dutch B2C work), choose a Dutch bank.
+Bunq Business is my top recommendation for expats who want to do everything in English with a good app experience. If you need iDEAL payments (a must for Dutch B2C work), choose a Dutch bank.
 
 For a full comparison, read the [best bank account for expats guide](/guides/finance/best-bank-account-expats-netherlands-2026/).
 

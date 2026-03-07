@@ -33,7 +33,7 @@ Amsterdam is where I landed when I first moved to the Netherlands, and I have a 
 For a broader perspective on moving to the Netherlands as a whole, read our [Complete Guide to Moving to the Netherlands 2026](/posts/complete-guide-moving-to-netherlands-2026/).
 
 
-## Before You Move: Essential Preparation
+## Before You Move: Key Preparation
 
 ### Visa and Work Permit
 
@@ -72,7 +72,7 @@ Key statistics for 2026:
 
 ### Where to Search
 
-- **Funda.nl**: The largest Dutch real estate platform. Essential for any housing search.
+- **Funda.nl**: The largest Dutch real estate platform. A must for any housing search.
 - **Pararius.com**: Focused on the expat rental market. Listings are in English.
 - **Kamernet.nl**: Good for rooms and shared housing.
 - **HousingAnywhere.com**: Platform specifically for internationals.
@@ -162,7 +162,7 @@ Within 5 days of your arrival, you must register at the gemeente (municipality).
 - Marriage certificate if applicable (apostilled)
 
 **What you receive**:
-- BSN (Burgerservicenummer) -- your citizen service number, essential for everything from banking to health insurance
+- BSN (Burgerservicenummer) -- your citizen service number, necessary for everything from banking to health insurance
 - Registration confirmation letter (within a few weeks by post)
 
 Book your appointment at amsterdam.nl. Appointments fill up quickly, so book as early as possible. New arrivals can sometimes use the Expatcenter Amsterdam for a faster process (if your employer is registered).
@@ -181,7 +181,7 @@ Dutch health insurance is mandatory from the day you start working. You have 4 m
 
 ### Cycling
 
-Amsterdam is the world's cycling capital. Investing in a bicycle is essential. Options include:
+Amsterdam is the world's cycling capital. Investing in a bicycle is a must. Options include:
 
 - **Buy a secondhand bike**: EUR 50-200 from Marktplaats.nl, local bike shops, or Facebook Marketplace
 - **Buy a new bike**: EUR 300-800 from brands like Gazelle, Batavus, or Cortina

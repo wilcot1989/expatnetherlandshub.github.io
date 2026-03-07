@@ -398,7 +398,7 @@ SWIFT transfers are expensive due to the layering of fees from multiple banks in
 
 Based on our experience and research, here is the combination I recommend for expats in the Netherlands:
 
-### Essential (Set Up Immediately)
+### Must-Have (Set Up Immediately)
 
 1. **[Wise](https://wise.com/invite/ihpc/willemt52) multi-currency account**: Your primary tool for international transfers. Open this before you even move to the Netherlands. You get a European IBAN, a debit card, and the ability to hold and convert 50+ currencies at the mid-market rate. [Open a Wise account here](https://wise.com/invite/ihpc/willemt52).
 

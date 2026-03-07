@@ -154,7 +154,7 @@ The Dutch use their holiday days. All of them. Unlike in some cultures where lea
 
 ## 8. The Vrijdagmiddagborrel Is Mandatory (Unofficially)
 
-The *vrijdagmiddagborrel* — Friday afternoon drinks — is one of those things that is listed in no company handbook but is quietly essential to your social standing at work.
+The *vrijdagmiddagborrel* — Friday afternoon drinks — is one of those things that is listed in no company handbook but is quietly important to your social standing at work.
 
 Around 16:30 or 17:00 on Fridays, someone produces bottles of beer, wine, and — critically — a tray of *bitterballen* (deep-fried meat-and-roux croquettes that are several hundred degrees on the inside and have caused burns to unsuspecting expats since time immemorial). People gather in the kitchen or common area, and for an hour or so, the hierarchy that might persist elsewhere largely dissolves.
 

@@ -315,7 +315,7 @@ Haarlem rents have risen, and what looked affordable at first glance is often le
 
 ### [BSN Registration Guide](/guides/legal/bsn-registration-guide-2026/)
 
-Getting your BSN at Gemeente Haarlem is the essential first step. Everything else — bank account, health insurance, payroll, DigiD — depends on it. The guide explains exactly what documents to prepare, what the appointment involves, and what to do if you hit complications (such as apostille requirements for documents from certain countries).
+Getting your BSN at Gemeente Haarlem is the first step you cannot skip. Everything else — bank account, health insurance, payroll, DigiD — depends on it. The guide explains exactly what documents to prepare, what the appointment involves, and what to do if you hit complications (such as apostille requirements for documents from certain countries).
 
 ---
 

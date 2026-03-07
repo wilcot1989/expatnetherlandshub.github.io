@@ -190,7 +190,7 @@ Once you activate MijnOverheid (linked to DigiD), the government sends official 
 
 2. **Use a strong, unique password** — Do not reuse your DigiD password for any other account.
 
-3. **Enable SMS verification** — This adds crucial security to your account.
+3. **Enable SMS verification** — This adds important security to your account.
 
 4. **Set up the DigiD app** — The highest security level, and also the most convenient for daily use.
 
@@ -266,7 +266,7 @@ The app authenticates you by:
 2. Unlocking the app with your PIN or biometrics
 3. Optionally: confirming with your ID document NFC chip
 
-This satisfies "Substantieel" and "Hoog" security levels — required for services like changing health insurance, accessing detailed financial records, and some municipality services. As government services have upgraded security requirements in 2025–2026, the app has become effectively essential for many tasks.
+This satisfies "Substantieel" and "Hoog" security levels — required for services like changing health insurance, accessing detailed financial records, and some municipality services. As government services have upgraded security requirements in 2025–2026, the app has become effectively necessary for many tasks.
 
 **My experience:** I tried to switch health insurers in January using just SMS verification and got blocked — the insurer's portal now requires DigiD app level. Set up the app from day one.
 
@@ -315,7 +315,7 @@ For more on setting up your Dutch digital life after DigiD, see our [expat tax r
 
 ## Related Guides
 
-- **[Complete Guide to Moving to the Netherlands](/guides/legal/complete-guide-moving-to-netherlands-2026/)** — The essential relocation guide
+- **[Complete Guide to Moving to the Netherlands](/guides/legal/complete-guide-moving-to-netherlands-2026/)** — The complete relocation guide
 - **[BSN Planner](/tools/bsn-planner/)** — Step-by-step BSN registration
 - **[Expat Tax Return Netherlands](/guides/finance/expat-tax-return-netherlands-2026/)** — Filing with DigiD
 - **[Dutch Health Insurance for Expats](/posts/dutch-health-insurance-guide-expats-2026/)** — You'll need DigiD to manage your insurance

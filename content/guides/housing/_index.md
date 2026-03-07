@@ -6,7 +6,7 @@ date: 2026-03-06T10:00:00+01:00
 
 Housing is the hardest part of moving to the Netherlands — full stop. The rental market in Amsterdam, Utrecht, and The Hague is among the tightest in Europe. Apartments go within hours. Landlords receive dozens of applications per listing. And as a new arrival without a Dutch credit history, you are starting at a disadvantage.
 
-I have been through this process, and I have helped dozens of expats navigate it. These guides give you a realistic picture of what to expect and the practical steps that actually improve your chances.
+I have been through this process, and I have helped dozens of expats handle it. These guides give you a realistic picture of what to expect and the practical steps that actually improve your chances.
 
 ## The Dutch Rental Market in 2026
 

@@ -296,7 +296,7 @@ While fully private international schools receive no government funding, there a
 - **Kinderopvangtoeslag** — Childcare subsidies (for BSO/after-school care) are available for international school children, based on income.
 - **Sibling discounts** — Some schools offer 5-15% discounts for second and subsequent children.
 
-When your child transitions to an international school, helping them connect with Dutch peers outside school hours makes a big difference. Our inburgering route builder can also help you (as the parent) navigate the integration process alongside your child's schooling.
+When your child transitions to an international school, helping them connect with Dutch peers outside school hours makes a big difference. Our inburgering route builder can also help you (as the parent) handle the integration process alongside your child's schooling.
 
 <a href="/tools/inburgering-route-builder/" class="cta-affiliate">Check your own integration requirements →</a>
 

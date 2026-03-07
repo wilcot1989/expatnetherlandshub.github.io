@@ -260,7 +260,7 @@ Also worth knowing: if you are still figuring out your broader budget, check out
 ## Explore More Expat Guides
 
 - **[Complete Guide to Moving to the Netherlands](/posts/moving-to-netherlands-guide-2026/)** — Getting started
-- **[Best Expat Insurance](/posts/best-expat-insurance-netherlands-2026/)** — Essential coverage
+- **[Best Expat Insurance](/posts/best-expat-insurance-netherlands-2026/)** — Key coverage
 - **[DigiD Guide for Expats](/posts/digid-guide-expats-2026/)** — Government services
 - **[Moving to The Hague](/posts/moving-to-the-hague-guide-2026/)** — City neighborhoods
 - **[Moving to Eindhoven](/posts/moving-to-eindhoven-guide-2026/)** — Brainport region

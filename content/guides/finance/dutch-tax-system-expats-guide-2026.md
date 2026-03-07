@@ -193,7 +193,7 @@ The Belastingdienst website and tax return portal are primarily in Dutch. Howeve
 
 ## DigiD: Your Digital Key to Dutch Government Services
 
-DigiD (Digital Identity) is essential for interacting with the Dutch government, including filing your tax return. Here is how to set it up:
+DigiD (Digital Identity) is required for interacting with the Dutch government, including filing your tax return. Here is how to set it up:
 
 1. **Apply at digid.nl**: Enter your BSN, name, and Dutch address
 2. **Choose a username and password**
@@ -222,7 +222,7 @@ As a Dutch tax resident, you must report worldwide income. However, double taxat
 
 ### Working From Home for a Foreign Employer
 
-If you are employed by a foreign company while living in the Netherlands, you are still a Dutch tax resident and owe Dutch income tax on your earnings. Your employer may or may not withhold Dutch payroll tax, which affects your filing obligations. This situation often requires a tax advisor to navigate correctly.
+If you are employed by a foreign company while living in the Netherlands, you are still a Dutch tax resident and owe Dutch income tax on your earnings. Your employer may or may not withhold Dutch payroll tax, which affects your filing obligations. This situation often requires a tax advisor to handle correctly.
 
 ### Freelancing (ZZP) in the Netherlands
 

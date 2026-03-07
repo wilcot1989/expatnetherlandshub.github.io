@@ -20,7 +20,7 @@ You can voluntarily increase your deductible in exchange for a lower monthly pre
 
 ## Choosing a Zorgverzekering
 
-The difference between the cheapest and most expensive basic policies in 2026 is around €50 per month. But price is not the only factor. Some policies limit your choice of hospital or specialist (naturapolis), while others give you free choice (restitutiepolis). If you want to see a specific doctor or use a specific hospital, checking the policy type before you sign up is essential.
+The difference between the cheapest and most expensive basic policies in 2026 is around €50 per month. But price is not the only factor. Some policies limit your choice of hospital or specialist (naturapolis), while others give you free choice (restitutiepolis). If you want to see a specific doctor or use a specific hospital, checking the policy type before you sign up is a must.
 
 Use the [health insurance wizard](/tools/health-insurance-wizard/) to compare the main options based on your personal situation — family size, preferred hospitals, budget, and whether you have specific ongoing treatments.
 

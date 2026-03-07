@@ -23,7 +23,7 @@ faq:
   - q: "Can I keep my home country health insurance in the Netherlands?"
     a: "Generally no. If you are employed or self-employed in the Netherlands, Dutch law requires you to take out Dutch basic health insurance, even if you have insurance from another country. There are limited exceptions: posted workers covered by their home country's social security system, and certain cross-border workers. If in doubt, check with the SVB (Social Insurance Bank)."
   - q: "What does Dutch basic health insurance cover?"
-    a: "The basisverzekering covers a comprehensive package defined by the government, including: GP care, hospital care, specialist medical care, prescription medication, mental healthcare (with referral), maternity and obstetric care, ambulance transport, dental care for children under 18, physiotherapy (limited sessions for chronic conditions), and medical devices. Dental care for adults and extensive physiotherapy require supplementary insurance."
+    a: "The basisverzekering covers a full package defined by the government, including: GP care, hospital care, specialist medical care, prescription medication, mental healthcare (with referral), maternity and obstetric care, ambulance transport, dental care for children under 18, physiotherapy (limited sessions for chronic conditions), and medical devices. Dental care for adults and extensive physiotherapy require supplementary insurance."
   - q: "When can I switch health insurance providers in the Netherlands?"
     a: "You can switch your basic health insurance provider once per year during the open enrollment period, which runs from mid-November to December 31. Your new policy starts on January 1 of the following year. You do not need to give a reason for switching, and the new insurer must accept you regardless of your health status. Supplementary insurance can be switched at the same time, but the new insurer may reject your supplementary application based on health screening."
 ---
@@ -159,7 +159,7 @@ Supplementary insurance (aanvullende verzekering) covers what the basisverzekeri
 | **Alternative medicine** | EUR 5-15/month | Acupuncture, homeopathy, osteopathy |
 | **Glasses/contacts** | EUR 5-15/month | Allowance toward lenses, frames |
 | **Abroad coverage** | EUR 5-20/month | Extended coverage for travel outside the Netherlands |
-| **Comprehensive packages** | EUR 20-80/month | Bundles of multiple supplementary coverages |
+| **Full packages** | EUR 20-80/month | Bundles of multiple supplementary coverages |
 
 ### Do You Need Supplementary Insurance?
 
@@ -212,7 +212,7 @@ If you miss the deadline:
 2. **If you remain uninsured after 3 months**, the CAK issues a fine (approximately EUR 469 in 2026)
 3. **If still uninsured**, the CAK will assign you to an insurer and start deducting premiums from your salary or benefits
 
-Do not let this happen. Arrange your insurance within the first few weeks of arriving. It is straightforward and all major insurers have English-language sign-up processes.
+Do not let this happen. Arrange your insurance within the first few weeks of arriving. It is simple and all major insurers have English-language sign-up processes.
 
 ---
 

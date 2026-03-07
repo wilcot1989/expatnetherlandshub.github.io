@@ -79,7 +79,7 @@ South of the center, Gestel is one of Eindhoven's most pleasant residential area
 - **Vibe:** Green, quiet, established
 - **Rent (2-bed):** €1,000-€1,500/month
 - **Pros:** Green, near Genneper Parken, good schools, quiet
-- **Cons:** Less dynamic, fewer restaurants
+- **Cons:** Less lively, fewer restaurants
 - **Best for:** Families and nature lovers
 
 ### Veldhoven — Near ASML
@@ -166,7 +166,7 @@ More useful in Eindhoven than in Amsterdam, especially for reaching surrounding 
 1. **Register at the municipality** — Stadskantoor, Stadhuisplein. Book online at [eindhoven.nl](https://www.eindhoven.nl)
 2. **Get BSN** — Assigned at registration
 3. **Health insurance** — Arrange within 4 months. See our [insurance guide](/posts/best-expat-insurance-netherlands-2026/)
-4. **DigiD** — Essential for government services. See our [DigiD guide](/posts/digid-guide-expats-2026/)
+4. **DigiD** — Required for government services. See our [DigiD guide](/posts/digid-guide-expats-2026/)
 5. **Bank account** — ING, Rabobank, or Bunq. For international transfers, use <a href="https://wise.com/invite/ihpc/willemt52" rel="nofollow sponsored" target="_blank">Wise</a>
 
 ### International Community
@@ -180,7 +180,7 @@ More useful in Eindhoven than in Amsterdam, especially for reaching surrounding 
 
 Eindhoven has one of the most developed international support networks outside of Amsterdam and The Hague — largely because Brainport's growth depends on attracting international talent, and the region's institutions have invested accordingly.
 
-**Brainport Expat Centre** is the starting point for most newly arrived internationals. Run jointly by the regional municipalities and Brainport Development, the centre offers free support with registration, housing, and bureaucratic questions. Staff are English-speaking and experienced with HSM visa holders. They can help you navigate the IND appointment system, understand your rights as an international employee, and connect you with relevant services. It is not widely advertised, but it is one of the best free resources available to expats in the region.
+**Brainport Expat Centre** is the starting point for most newly arrived internationals. Run jointly by the regional municipalities and Brainport Development, the centre offers free support with registration, housing, and bureaucratic questions. Staff are English-speaking and experienced with HSM visa holders. They can help you handle the IND appointment system, understand your rights as an international employee, and connect you with relevant services. It is not widely advertised, but it is one of the best free resources available to expats in the region.
 
 **Expat meetups and social life:** The international community in Eindhoven is large but more professionally oriented than socially, compared to Amsterdam. Internations Eindhoven runs monthly events and is well-attended. Many tech companies — ASML in particular — have active internal social clubs covering sports, cultural events, and family activities. The Eindhoven Expat Hub organises networking events throughout the year, and the TU/e (Eindhoven University of Technology) has a strong international student and researcher community that hosts regular events open to the wider expat population.
 
@@ -264,7 +264,7 @@ For detailed housing search advice, read our [finding housing in the Netherlands
 - **[Complete Guide to Moving to the Netherlands](/posts/moving-to-netherlands-guide-2026/)** — Getting started
 - **[Moving to The Hague](/posts/moving-to-the-hague-guide-2026/)** — Alternative expat city
 - **[Highly Skilled Migrant Visa](/posts/highly-skilled-migrant-visa-netherlands-2026/)** — Work permits
-- **[Best Expat Insurance](/posts/best-expat-insurance-netherlands-2026/)** — Essential coverage
+- **[Best Expat Insurance](/posts/best-expat-insurance-netherlands-2026/)** — Key coverage
 - **[DigiD Guide](/posts/digid-guide-expats-2026/)** — Government services access
 - **[Finding Housing in the Netherlands](/guides/housing/finding-housing-netherlands-expats-2026/)** — How to search and secure a rental
 - **[Cost of Living in the Netherlands](/guides/housing/cost-of-living-netherlands-2026/)** — Full budget breakdown by city

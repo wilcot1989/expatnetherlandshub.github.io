@@ -28,7 +28,7 @@ faq:
     a: "While it is possible to handle the 30% ruling application through your employer's HR department, hiring a tax advisor who specializes in expat taxation is highly recommended, particularly if your situation involves complications such as income from multiple countries, a partner who also works, investment income, or real estate. A good tax advisor typically costs EUR 150-500 for an initial consultation and can save you thousands in optimized tax planning."
 ---
 
-I still remember the look on my face when I first saw my Dutch payslip and realised how much of my salary was going to the Belastingdienst. If only I had known about the 30% ruling sooner. Over the past decade, I have helped dozens of expat clients navigate this tax benefit -- and I have watched the rules change more times than I can count. This guide breaks down everything you need to know about the 30% ruling in 2026: who qualifies, how to apply, what has changed, and how to avoid the mistakes I see people make every year.
+I still remember the look on my face when I first saw my Dutch payslip and realised how much of my salary was going to the Belastingdienst. If only I had known about the 30% ruling sooner. Over the past decade, I have helped dozens of expat clients manage this tax benefit -- and I have watched the rules change more times than I can count. This guide breaks down everything you need to know about the 30% ruling in 2026: who qualifies, how to apply, what has changed, and how to avoid the mistakes I see people make every year.
 
 ## What is the 30% Ruling?
 
@@ -99,7 +99,7 @@ You and your employer must have a written agreement that the 30% ruling will be 
 
 ## How to Apply
 
-The application process is straightforward, but timing matters.
+The application process is simple, but timing matters.
 
 ### Step 1: Check Eligibility
 
@@ -263,7 +263,7 @@ Here is a practical timeline for managing the 30% ruling alongside your other ar
 
 ## Do You Need a Tax Advisor?
 
-For straightforward cases -- a single employee with one Dutch employer and no foreign income or assets -- the 30% ruling can be managed by a knowledgeable HR department without a separate tax advisor.
+For simple cases -- a single employee with one Dutch employer and no foreign income or assets -- the 30% ruling can be managed by a knowledgeable HR department without a separate tax advisor.
 
 However, a specialist expat tax advisor is strongly recommended if:
 
@@ -285,4 +285,4 @@ The 30% ruling remains one of the most significant financial advantages of worki
 
 The key is to act early: negotiate your salary with the threshold in mind, ensure your employer submits the application within 4 months of your start date, and seek professional tax advice for complex situations.
 
-If you are planning your move to the Netherlands, our [complete guide to moving to the Netherlands in 2026](/posts/complete-guide-moving-to-netherlands-2026/) covers all the other essential steps, from visas and housing to health insurance and banking. And if you are ready to start learning the language, check out the [best apps for learning Dutch in 2026](/posts/best-apps-learn-dutch-2026/).
+If you are planning your move to the Netherlands, our [complete guide to moving to the Netherlands in 2026](/posts/complete-guide-moving-to-netherlands-2026/) covers all the other key steps, from visas and housing to health insurance and banking. And if you are ready to start learning the language, check out the [best apps for learning Dutch in 2026](/posts/best-apps-learn-dutch-2026/).

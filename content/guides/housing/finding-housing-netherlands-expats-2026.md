@@ -40,7 +40,7 @@ The Netherlands has been dealing with a housing shortage for years, and 2026 is 
 - **Regulatory changes**: The Affordable Rent Act (Wet betaalbare huur), introduced in 2024, expanded rent regulation to the mid-market segment, affecting rental prices and availability
 - **Rising construction costs**: Building new housing has become more expensive, slowing development
 
-For expats, the practical impact is simple: competition for available rental properties is fierce, particularly in the Randstad. Being well-prepared and acting fast is essential.
+For expats, the practical impact is simple: competition for available rental properties is fierce, particularly in the Randstad. Being well-prepared and acting fast is key.
 
 ---
 
@@ -89,9 +89,9 @@ Funda is the Netherlands' largest and most well-known property platform. It list
 
 **Strengths**: Largest selection of listings, detailed property information, map-based search, mobile app with notifications, trusted and legitimate platform.
 
-**Limitations**: Listings are predominantly in Dutch (though Google Translate works reasonably well), and the rental section can be harder to navigate than dedicated rental platforms.
+**Limitations**: Listings are predominantly in Dutch (though Google Translate works reasonably well), and the rental section can be harder to work through than dedicated rental platforms.
 
-**Best for**: Comprehensive search across both rental and purchase markets.
+**Best for**: Full search across both rental and purchase markets.
 
 ### 2. Pararius (pararius.com)
 
@@ -145,7 +145,7 @@ If your employer provides a relocation budget, or if you want professional assis
 
 ## Social Housing vs. Private Rental
 
-The Dutch rental market is divided into two distinct sectors, and understanding the difference is essential.
+The Dutch rental market is divided into two distinct sectors, and understanding the difference is important.
 
 ### Social Housing (Sociale Huur)
 
@@ -247,7 +247,7 @@ Once accepted, you sign the rental contract and pay the deposit (usually 1-2 mon
 
 ---
 
-## Avoiding Scams: Essential Warnings
+## Avoiding Scams: Important Warnings
 
 The tight Dutch housing market has unfortunately attracted scammers who target desperate apartment seekers, particularly international newcomers. Protect yourself with these rules:
 

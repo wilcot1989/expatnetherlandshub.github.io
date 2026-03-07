@@ -112,7 +112,7 @@ For an overview of how these costs compare with mainstream options, the [best ex
 
 **SafetyWing** covers hospitalisation due to acute illness or injury, emergency surgery, and emergency evacuation. The coverage limits are meaningful — up to $250,000 USD per policy period for most plans — but there are restrictions. Pre-existing conditions are generally excluded. There is a per-illness deductible of $250. Chronic and ongoing conditions are not covered.
 
-**Cigna Global** covers hospitalisation fully across its range of plans. There are no per-illness caps on higher-tier plans. Emergency care, planned surgery, and specialist treatment in hospital are all included. The inpatient coverage on Cigna Global is genuinely robust and would not leave you facing large uncovered bills for a serious condition.
+**Cigna Global** covers hospitalisation fully across its range of plans. There are no per-illness caps on higher-tier plans. Emergency care, planned surgery, and specialist treatment in hospital are all included. The inpatient coverage on Cigna Global is genuinely solid and would not leave you facing large uncovered bills for a serious condition.
 
 **Verdict on hospital cover:** Cigna Global is significantly stronger. For a major illness or surgery, SafetyWing may leave gaps that matter.
 
@@ -162,7 +162,7 @@ For an overview of how these costs compare with mainstream options, the [best ex
 
 **Cigna Global** evaluates pre-existing conditions during underwriting. Depending on your medical history, conditions may be covered, excluded, or covered with a premium loading. Cigna uses moratorium underwriting or full medical underwriting depending on the plan. Serious conditions may still result in exclusions or high premiums, but at least there is a process.
 
-**Verdict on pre-existing conditions:** Cigna Global is more nuanced and potentially more accommodating, though outcomes vary individually.
+**Verdict on pre-existing conditions:** Cigna Global is more flexible and potentially more accommodating, though outcomes vary individually.
 
 ---
 

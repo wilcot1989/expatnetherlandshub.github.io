@@ -14,7 +14,7 @@ I cover the cultural expectations that trip up most expats — from the directne
 
 ## Freelancing as a ZZP'er
 
-The Netherlands has a large and established freelance sector. Working as a zelfstandige zonder personeel (ZZP'er) is administratively straightforward: you register at the KVK (Chamber of Commerce), receive a KVK number, and you are legally authorised to invoice clients. VAT registration (BTW) follows from there.
+The Netherlands has a large and established freelance sector. Working as a zelfstandige zonder personeel (ZZP'er) is administratively simple: you register at the KVK (Chamber of Commerce), receive a KVK number, and you are legally authorised to invoice clients. VAT registration (BTW) follows from there.
 
 The guides cover:
 

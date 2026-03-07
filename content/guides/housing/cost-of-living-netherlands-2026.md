@@ -28,7 +28,7 @@ faq:
     a: "A single person spending moderately should budget EUR 250-350 per month for groceries. A couple should budget EUR 400-550. Budget supermarkets like Lidl and Aldi can reduce costs by 20-30% compared to Albert Heijn or Jumbo. Buying seasonal produce at local markets (markt) is also cheaper. If you eat organic or specialty international foods, add 30-50% to these estimates."
 ---
 
-Before I moved here, I Googled "cost of living Netherlands" and found numbers that turned out to be wildly inaccurate. The reality is more nuanced -- your monthly expenses depend hugely on which city you pick, whether you cycle or drive, and how often you resist the call of a terrasje on a sunny afternoon. After more than a decade of living here and helping clients plan their budgets, I have put together the most realistic breakdown I can for 2026.
+Before I moved here, I Googled "cost of living Netherlands" and found numbers that turned out to be wildly inaccurate. The reality is more layered -- your monthly expenses depend hugely on which city you pick, whether you cycle or drive, and how often you resist the call of a terrasje on a sunny afternoon. After more than a decade of living here and helping clients plan their budgets, I have put together the most realistic breakdown I can for 2026.
 
 
 ## Monthly Cost Summary: At a Glance
@@ -86,7 +86,7 @@ For a complete guide to finding housing, see our [finding housing in the Netherl
 
 ## Health Insurance
 
-Health insurance is mandatory in the Netherlands and represents a significant monthly expense. However, the Dutch system provides comprehensive coverage, and government subsidies help offset costs for lower earners.
+Health insurance is mandatory in the Netherlands and represents a significant monthly expense. However, the Dutch system provides thorough coverage, and government subsidies help offset costs for lower earners.
 
 ### Costs Breakdown
 

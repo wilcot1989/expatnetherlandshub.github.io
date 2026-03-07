@@ -78,7 +78,7 @@ A good headline for the Dutch market combines your role, your specialism, and so
 **Formula 4 — For career changers:**
 "Former [Role] transitioning to [Target Role] | [Relevant skill] | Based in the Netherlands"
 
-Avoid buzzwords like "dynamic", "results-driven" or "passionate professional". Dutch culture is direct and slightly allergic to marketing speak. A simple, specific headline outperforms a flowery one every time.
+Avoid buzzwords like "results-driven", "passionate professional" or vague superlatives. Dutch culture is direct and slightly allergic to marketing speak. A simple, specific headline outperforms a flowery one every time.
 
 ---
 

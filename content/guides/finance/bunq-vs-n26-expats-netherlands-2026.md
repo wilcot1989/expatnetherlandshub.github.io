@@ -11,7 +11,7 @@ author_bio: "Expat coach and relocation specialist. Half Dutch, half British, li
 featured_image: "/images/categories/finance.svg"
 faq:
   - q: "Does bunq or N26 offer a Dutch IBAN?"
-    a: "Bunq provides a Dutch IBAN (NL prefix), which is essential for many Dutch services, employers, and landlords. N26 provides a German IBAN (DE prefix), which can cause issues in the Netherlands due to IBAN discrimination — even though this is technically illegal under EU regulations."
+    a: "Bunq provides a Dutch IBAN (NL prefix), which is necessary for many Dutch services, employers, and landlords. N26 provides a German IBAN (DE prefix), which can cause issues in the Netherlands due to IBAN discrimination — even though this is technically illegal under EU regulations."
   - q: "Which is cheaper, bunq or N26?"
     a: "N26 wins on price with a genuinely free basic account (Standard plan). Bunq's cheapest plan is Easy Bank at EUR 2.99 per month. However, bunq includes features in its base plan that N26 only offers on paid tiers. For daily banking in the Netherlands specifically, bunq's iDEAL support alone can justify the monthly fee."
   - q: "Can I use iDEAL with bunq or N26?"
@@ -34,7 +34,7 @@ If you want a broader look at all your banking options, start with my guide to t
 
 ## Quick Verdict
 
-**Choose bunq if you are living in the Netherlands full-time.** The Dutch IBAN and iDEAL support are not optional extras — they are essential for functioning in Dutch society. Bunq's app is excellent, the sub-accounts feature is genuinely useful for budgeting, and the savings interest on paid plans is competitive.
+**Choose bunq if you are living in the Netherlands full-time.** The Dutch IBAN and iDEAL support are not optional extras — you need both to function in Dutch society. Bunq's app is excellent, the sub-accounts feature is genuinely useful for budgeting, and the savings interest on paid plans is competitive.
 
 **Choose N26 if you want a free account for occasional European use,** or as a secondary card for travel alongside a bunq or traditional bank account. N26's Standard plan costs nothing and is perfectly adequate if you do not depend on it for Dutch-specific payments.
 
@@ -178,7 +178,7 @@ Bunq occasionally runs promotions — I have seen three months free when referri
 
 For Netherlands-based life: **bunq Easy Bank at EUR 2.99** beats N26 Standard hands down, purely because of the Dutch IBAN and iDEAL. You get functional Dutch banking for under EUR 3/month.
 
-For travel and international spending: **N26 You at EUR 9.90** is genuinely strong. The Allianz travel insurance is comprehensive and the 0% FX fee is useful. Bunq Easy Money at EUR 8.99 is comparable on FX but includes more sub-accounts and a better IBAN setup.
+For travel and international spending: **N26 You at EUR 9.90** is genuinely strong. The Allianz travel insurance is thorough and the 0% FX fee is useful. Bunq Easy Money at EUR 8.99 is comparable on FX but includes more sub-accounts and a better IBAN setup.
 
 For premium: I would take **bunq Easy Green at EUR 17.99** over N26 Metal at EUR 16.90, primarily because you still retain the Dutch IBAN advantages throughout. The green features are a genuine differentiator and not just marketing — bunq plants a tree for every EUR 100 spent through its reforestation partners.
 
@@ -261,7 +261,7 @@ N26's built-in Wise partnership is worth noting if you frequently send money int
 
 ### N26 Standout Features
 
-**Travel Insurance (You and above).** The Allianz travel insurance bundled with N26 You is comprehensive: medical expenses abroad, trip cancellation, baggage loss, and winter sports cover. At EUR 9.90/month this can represent genuine value if you travel regularly and do not have separate travel insurance. Check the policy terms carefully — there are spending requirements to activate coverage.
+**Travel Insurance (You and above).** The Allianz travel insurance bundled with N26 You is wide-ranging: medical expenses abroad, trip cancellation, baggage loss, and winter sports cover. At EUR 9.90/month this can represent genuine value if you travel regularly and do not have separate travel insurance. Check the policy terms carefully — there are spending requirements to activate coverage.
 
 **Spaces.** N26's sub-account system. Less powerful than bunq's multi-IBAN pockets, but visually cleaner and easy to set up. Round-ups into Spaces make passive saving effortless.
 

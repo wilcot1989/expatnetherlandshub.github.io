@@ -154,7 +154,7 @@ Budget providers (also called MVNOs) do not own their own networks. Instead, the
 
 **Our top pick for budget-conscious expats on a contract.**
 
-Simyo runs on the KPN network, giving you the best coverage in the Netherlands at budget prices. Their plans are straightforward, and they were one of the first budget providers to offer eSIM.
+Simyo runs on the KPN network, giving you the best coverage in the Netherlands at budget prices. Their plans are simple, and they were one of the first budget providers to offer eSIM.
 
 - 2 GB: ~EUR 7/month
 - 5 GB: ~EUR 10/month

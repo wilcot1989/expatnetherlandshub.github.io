@@ -4,7 +4,7 @@ description: "Expert guides on Dutch taxes, 30% ruling, pensions, banking, and m
 date: 2026-03-06T10:00:00+01:00
 ---
 
-The financial system in the Netherlands is generous to expats who know how to navigate it — and punishing to those who do not. I learned this the hard way in my first year, when I left thousands of euros on the table by not applying for the 30% ruling quickly enough. These guides exist so you do not make the same mistakes.
+The financial system in the Netherlands is generous to expats who know how to work through it — and punishing to those who do not. I learned this the hard way in my first year, when I left thousands of euros on the table by not applying for the 30% ruling quickly enough. These guides exist so you do not make the same mistakes.
 
 ## The 30% Ruling: Your Biggest Financial Lever
 
@@ -24,7 +24,7 @@ Opening a Dutch bank account as a new arrival can be surprisingly difficult. Som
 
 ## Pensions and Retirement Planning
 
-Dutch pension law is complex, especially if you move between countries mid-career. Understanding how AOW (state pension), occupational pensions, and your home country entitlements interact is essential for long-term financial planning.
+Dutch pension law is complex, especially if you move between countries mid-career. Understanding how AOW (state pension), occupational pensions, and your home country entitlements interact is important for long-term financial planning.
 
 ## Money Transfers
 

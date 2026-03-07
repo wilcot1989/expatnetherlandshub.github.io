@@ -160,7 +160,7 @@ Parents and other extended family members generally cannot join you under the hi
 
 5. **Not transferring your driver's license** — Some nationalities can exchange their license. Others must take the Dutch driving exam. Check within 6 months.
 
-## After Arrival: Essential Next Steps
+## After Arrival: Key Next Steps
 
 Once you have your BSN and residence permit, complete these steps:
 
