@@ -78,7 +78,7 @@ The OV-chipkaart uses a check-in, check-out system:
 
 ### Transferring Between Operators
 
-When you transfer between different transport operators (for example, from an NS train to a GVB tram in Amsterdam), you must check out with the first operator and check in with the second. This happens at the card readers in the station or at the tram/bus door. The transfer is smooth if you do it correctly, and you will not be charged double.
+When you transfer between different transport operators (for example, from an NS train to a GVB tram in [Amsterdam](/cities/amsterdam/)), you must check out with the first operator and check in with the second. This happens at the card readers in the station or at the tram/bus door. The transfer is smooth if you do it correctly, and you will not be charged double.
 
 ---
 
@@ -95,7 +95,7 @@ NS (Nederlandse Spoorwegen) operates the main national rail network, connecting 
 | Train Type | Description | Speed | Frequency |
 |------------|-------------|-------|-----------|
 | **Intercity** | Fast trains between major cities | High (stops only at main stations) | Every 10-15 minutes |
-| **Intercity Direct** | Express between Amsterdam and Rotterdam (via Schiphol) | Fastest (supplement required) | Every 15-30 minutes |
+| **Intercity Direct** | Express between Amsterdam and [Rotterdam](/cities/rotterdam/) (via Schiphol) | Fastest (supplement required) | Every 15-30 minutes |
 | **Sprinter** | Local trains stopping at all stations | Slower (all stops) | Every 10-30 minutes |
 
 ### Key Train Routes for Expats
@@ -103,8 +103,8 @@ NS (Nederlandse Spoorwegen) operates the main national rail network, connecting 
 | Route | Duration | Frequency | Single Fare (2nd class) |
 |-------|----------|-----------|------------------------|
 | Amsterdam -- Rotterdam | ~40 min (Intercity) | Every 10 min | ~EUR 17-18 |
-| Amsterdam -- The Hague | ~50 min (Intercity) | Every 10 min | ~EUR 13-14 |
-| Amsterdam -- Utrecht | ~25 min (Intercity) | Every 10 min | ~EUR 9-10 |
+| Amsterdam -- [The Hague](/cities/the-hague/) | ~50 min (Intercity) | Every 10 min | ~EUR 13-14 |
+| Amsterdam -- [Utrecht](/cities/utrecht/) | ~25 min (Intercity) | Every 10 min | ~EUR 9-10 |
 | Amsterdam -- Eindhoven | ~75 min (Intercity) | Every 15 min | ~EUR 22-23 |
 | Rotterdam -- The Hague | ~25 min (Intercity) | Every 10 min | ~EUR 6-7 |
 | Amsterdam -- Schiphol | ~15 min (Sprinter/IC) | Every 10 min | ~EUR 5-6 |

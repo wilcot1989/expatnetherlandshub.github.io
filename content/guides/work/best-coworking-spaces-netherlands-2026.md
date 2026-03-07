@@ -27,7 +27,7 @@ faq:
     a: "Key factors: location (near public transport), internet speed (minimum 100 Mbps), community and networking events, meeting room availability, flexible contracts (monthly cancellable), kitchen/coffee facilities, printing, and whether the atmosphere matches your work style (quiet vs social)."
 ---
 
-After years of working from my tiny Amsterdam apartment -- hunched over a kitchen table, fighting for WiFi with my housemates -- I finally tried a coworking space. It changed everything. Not just for productivity, but for my social life as an expat. Some of my closest friends in the Netherlands are people I met at a shared desk. Here is my guide to the best coworking spaces for expats across the country.
+After years of working from my tiny [Amsterdam](/cities/amsterdam/) apartment -- hunched over a kitchen table, fighting for WiFi with my housemates -- I finally tried a coworking space. It changed everything. Not just for productivity, but for my social life as an expat. Some of my closest friends in the Netherlands are people I met at a shared desk. Here is my guide to the best coworking spaces for expats across the country.
 
 
 Working as a freelancer? Read our [complete ZZP guide](/guides/work/freelancer-zzp-guide-netherlands-2026/) for registration and taxes.
@@ -69,7 +69,7 @@ One thing most expats overlook: coworking networks are shared environments. Alwa
 | **Cambridge Innovation Center** | Centrum | €275 | Corporate/scale-up | International, premium |
 | **Spaces Coolhaven** | West | €250 | Professional | Modern, waterside |
 
-**Tip:** Rotterdam is 20-30% cheaper than Amsterdam with a growing international startup scene.
+**Tip:** [Rotterdam](/cities/rotterdam/) is 20-30% cheaper than Amsterdam with a growing international startup scene.
 
 ### The Hague
 
@@ -80,9 +80,9 @@ One thing most expats overlook: coworking networks are shared environments. Alwa
 | **Apollo 14** | Centrum | €225 | General/professional | City center, flexible |
 | **Regus World Forum** | Centrum | €250 | Corporate | Next to World Forum |
 
-**Tip:** The Hague is ideal for expats working in international organizations, NGOs, or government. The Hague Tech has the strongest international community.
+**Tip:** [The Hague](/cities/the-hague/) is ideal for expats working in international organizations, NGOs, or government. The Hague Tech has the strongest international community.
 
-### Utrecht
+### [Utrecht](/cities/utrecht/)
 
 | Space | Area | Hot Desk/month | Vibe | Highlights |
 |-------|------|---------------|------|------------|
@@ -98,7 +98,7 @@ One thing most expats overlook: coworking networks are shared environments. Alwa
 | **Microlab** | Strijp-S | €185 | Creative/tech | Industrial heritage, events |
 | **Kazerne** | Centrum | €200 | Design/creative | Design hotel + workspace |
 
-**Tip:** High Tech Campus is the hub if you work in tech/R&D, with many ASML, Philips, and NXP connections.
+**Tip:** [Eindhoven](/cities/eindhoven/)'s High Tech Campus is the hub if you work in tech/R&D, with many ASML, Philips, and NXP connections.
 
 ## Types of Coworking Memberships
 
@@ -172,7 +172,7 @@ Rotterdam has grown significantly as a coworking destination, driven by its star
 | **The Hague** | €175–€275/month | International community premium |
 | **Utrecht** | €175–€300/month | Central Station premium (Spaces) |
 | **Eindhoven** | €150–€250/month | Tech-community focused pricing |
-| **Groningen, Nijmegen, Tilburg** | €100–€200/month | Smaller markets, good availability |
+| **[Groningen](/cities/groningen/), Nijmegen, Tilburg** | €100–€200/month | Smaller markets, good availability |
 
 **The pattern:** Amsterdam runs 40–60% above the national average. Rotterdam sits about 20–30% below Amsterdam. The Hague, Utrecht, and Eindhoven are broadly similar to Rotterdam. Smaller cities like Groningen or Breda offer the lowest prices.
 
@@ -194,7 +194,7 @@ One of the genuine advantages of coworking over a home office is the deductibili
 
 ### How It Works in Practice
 
-You deduct these costs from your business profit before the MKB-winstvrijstelling (14% profit exemption) is applied. This means every €100 of coworking costs reduces your taxable income by €100, saving you roughly €30–€40 in income tax depending on your bracket.
+You deduct these costs from your business profit before the MKB-winstvrijstelling (14% profit exemption) is applied. This means every €100 of coworking costs reduces your taxable income by €100, saving you roughly €30–€40 in income tax depending on your bracket. Not sure which bracket you fall into? Use our [Salary Checker](/tools/salary-checker/) to estimate your net income.
 
 **Example:** Annual coworking membership at €3,000 (€250/month hot desk in Rotterdam).
 

@@ -51,11 +51,11 @@ Before you start searching, understand what you will realistically pay. These fi
 
 | City | One-Bedroom (Private Sector) | Two-Bedroom (Private Sector) | Market Competitiveness |
 |------|------------------------------|------------------------------|----------------------|
-| Amsterdam | EUR 1,500 - 2,500 | EUR 2,000 - 3,500 | Very high |
-| The Hague | EUR 1,200 - 1,800 | EUR 1,500 - 2,500 | High |
-| Rotterdam | EUR 1,100 - 1,700 | EUR 1,400 - 2,300 | High |
-| Utrecht | EUR 1,300 - 1,900 | EUR 1,600 - 2,600 | Very high |
-| Eindhoven | EUR 900 - 1,400 | EUR 1,200 - 1,800 | Moderate |
+| [Amsterdam](/cities/amsterdam/) | EUR 1,500 - 2,500 | EUR 2,000 - 3,500 | Very high |
+| [The Hague](/cities/the-hague/) | EUR 1,200 - 1,800 | EUR 1,500 - 2,500 | High |
+| [Rotterdam](/cities/rotterdam/) | EUR 1,100 - 1,700 | EUR 1,400 - 2,300 | High |
+| [Utrecht](/cities/utrecht/) | EUR 1,300 - 1,900 | EUR 1,600 - 2,600 | Very high |
+| [Eindhoven](/cities/eindhoven/) | EUR 900 - 1,400 | EUR 1,200 - 1,800 | Moderate |
 | Groningen | EUR 800 - 1,200 | EUR 1,000 - 1,600 | Moderate |
 | Leiden | EUR 1,100 - 1,600 | EUR 1,400 - 2,200 | High |
 | Maastricht | EUR 800 - 1,200 | EUR 1,000 - 1,600 | Moderate |

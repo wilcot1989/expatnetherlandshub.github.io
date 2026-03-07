@@ -61,11 +61,11 @@ Housing is by far the largest expense for expats in the Netherlands, and prices 
 
 | City | 1-Bedroom (Center) | 1-Bedroom (Outside Center) | 2-Bedroom (Center) | 2-Bedroom (Outside Center) |
 |------|--------------------|-----------------------------|---------------------|----------------------------|
-| **Amsterdam** | EUR 1,400-2,200 | EUR 1,100-1,700 | EUR 1,800-3,000 | EUR 1,400-2,200 |
-| **Rotterdam** | EUR 1,100-1,600 | EUR 900-1,300 | EUR 1,400-2,200 | EUR 1,100-1,700 |
-| **Den Haag** | EUR 1,000-1,500 | EUR 850-1,250 | EUR 1,300-2,000 | EUR 1,000-1,600 |
-| **Utrecht** | EUR 1,200-1,800 | EUR 1,000-1,500 | EUR 1,500-2,400 | EUR 1,200-1,800 |
-| **Eindhoven** | EUR 900-1,400 | EUR 750-1,100 | EUR 1,200-1,800 | EUR 900-1,400 |
+| **[Amsterdam](/cities/amsterdam/)** | EUR 1,400-2,200 | EUR 1,100-1,700 | EUR 1,800-3,000 | EUR 1,400-2,200 |
+| **[Rotterdam](/cities/rotterdam/)** | EUR 1,100-1,600 | EUR 900-1,300 | EUR 1,400-2,200 | EUR 1,100-1,700 |
+| **[Den Haag](/cities/the-hague/)** | EUR 1,000-1,500 | EUR 850-1,250 | EUR 1,300-2,000 | EUR 1,000-1,600 |
+| **[Utrecht](/cities/utrecht/)** | EUR 1,200-1,800 | EUR 1,000-1,500 | EUR 1,500-2,400 | EUR 1,200-1,800 |
+| **[Eindhoven](/cities/eindhoven/)** | EUR 900-1,400 | EUR 750-1,100 | EUR 1,200-1,800 | EUR 900-1,400 |
 
 ### Key Housing Costs Beyond Rent
 
@@ -76,7 +76,7 @@ Housing is by far the largest expense for expats in the Netherlands, and prices 
 
 ### Tips for Reducing Housing Costs
 
-1. **Look beyond the Randstad**: Cities like Eindhoven, Groningen, Tilburg, and Arnhem offer significantly lower rents with good quality of life
+1. **Look beyond the Randstad**: Cities like Eindhoven, [Groningen](/cities/groningen/), Tilburg, and Arnhem offer significantly lower rents with good quality of life
 2. **Consider suburban areas**: Towns near major cities often offer 20-30% lower rents with good train connections
 3. **House-sharing**: Common among young expats, especially in Amsterdam, and can cut housing costs by 30-50%
 4. **Social housing (sociale huur)**: If your income qualifies, regulated housing is much cheaper, though waiting lists can be years long

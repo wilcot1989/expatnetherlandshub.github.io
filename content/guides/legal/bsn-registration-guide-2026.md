@@ -23,7 +23,7 @@ faq:
     a: "They are the same number. The sofinummer (social-fiscal number) was renamed to BSN (burgerservicenummer or citizen service number) in 2007. If you hear either term, they refer to the same 9-digit personal identification number used for tax, healthcare, and government services."
 ---
 
-My first week in the Netherlands was a comedy of errors. I had a new job starting in two weeks, a flat I could barely afford in Amsterdam, and a growing list of things I couldn't do without a BSN number. I couldn't open a bank account. I couldn't register with a GP. I couldn't even set up a pay-as-you-go mobile plan without one. The gemeente's online booking system showed the next available appointment was five weeks away.
+My first week in the Netherlands was a comedy of errors. I had a new job starting in two weeks, a flat I could barely afford in [Amsterdam](/cities/amsterdam/), and a growing list of things I couldn't do without a BSN number. I couldn't open a bank account. I couldn't register with a GP. I couldn't even set up a pay-as-you-go mobile plan without one. The gemeente's online booking system showed the next available appointment was five weeks away.
 
 I remember sitting on the floor of my half-furnished flat, surrounded by boxes, eating supermarket sushi with a plastic fork and refreshing the Amsterdam appointment page every few hours hoping for a cancellation. It worked, eventually — someone cancelled and I snagged a slot ten days out. But I was lucky. Many people wait the full four to six weeks, and in that time they are in a frustrating limbo: they are here, they are paying rent, but the whole Dutch administrative system is essentially closed to them.
 
@@ -151,7 +151,7 @@ Registration appointments are booked through the website of your local gemeente 
 
 If you are [moving to Amsterdam](/guides/housing/moving-to-amsterdam-guide-2026/), factor the BSN wait time into your planning from day one.
 
-### Rotterdam
+### [Rotterdam](/cities/rotterdam/)
 
 **Website:** rotterdam.nl/burgerzaken
 **Language:** Dutch and English
@@ -160,7 +160,7 @@ If you are [moving to Amsterdam](/guides/housing/moving-to-amsterdam-guide-2026/
 
 For more on settling in Rotterdam, see my [moving to Rotterdam](/guides/housing/moving-to-rotterdam-guide-2026/) guide.
 
-### The Hague (Den Haag)
+### [The Hague](/cities/the-hague/) (Den Haag)
 
 **Website:** denhaag.nl/burgerzaken
 **Language:** Dutch and English
@@ -169,7 +169,7 @@ For more on settling in Rotterdam, see my [moving to Rotterdam](/guides/housing/
 
 See my [moving to The Hague](/guides/housing/moving-to-the-hague-guide-2026/) guide for more on settling into the area.
 
-### Utrecht
+### [Utrecht](/cities/utrecht/)
 
 **Website:** utrecht.nl/burgerzaken
 **Language:** Dutch
