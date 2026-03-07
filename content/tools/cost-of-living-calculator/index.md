@@ -189,45 +189,66 @@ RESPONSIVE
 
 @media (max-width: 860px) {
 .tool-grid { grid-template-columns: 1fr; }
+.tool-grid { gap: 1.5rem; }
 }
 @media (max-width: 768px) {
 .data-table { display: block; overflow-x: auto; -webkit-overflow-scrolling: touch; }
 .data-table th, .data-table td { white-space: nowrap; padding: 0.5rem 0.65rem; font-size: 0.82rem; }
 .tool-hero-icon { display: none; }
-.tool-hero h1 { font-size: 1.7rem; }
-}
-@media (max-width: 600px) {
-.tool-hero { padding: 2rem 1rem 1.75rem; }
-.page-body { padding: 1.5rem 1rem 3rem; }
+.tool-hero { padding: 2rem 1.25rem 1.5rem; }
+.tool-hero h1 { font-size: 1.55rem; margin-bottom: 0.4rem; }
+.tool-hero .hero-subtitle { font-size: 0.95rem; }
+.tool-hero .breadcrumb { margin-bottom: 0.6rem; font-size: 0.78rem; }
+.tool-hero .meta { margin-top: 0.5rem; font-size: 0.78rem; }
+.hero-badge { font-size: 0.7rem; padding: 0.2rem 0.7rem; margin-bottom: 0.6rem; }
+.page-body { padding: 1.25rem 1rem 2.5rem; }
 .card { padding: 1.25rem; }
-.tool-hero h1 { font-size: 1.5rem; }
-.tool-hero .hero-subtitle { font-size: 0.92rem; }
-.hero-badge { font-size: 0.72rem; }
+.form-group { margin-bottom: 1rem; }
+.form-group label { font-size: 0.88rem; margin-bottom: 0.3rem; }
+.form-section-label { font-size: 0.72rem; margin-bottom: 0.75rem; }
+.radio-group { gap: 0.35rem; }
+.radio-group label { padding: 0.45rem 0.85rem; font-size: 0.85rem; }
+.checkbox-group { gap: 0.4rem; }
+.checkbox-group label { font-size: 0.88rem; gap: 0.5rem; }
+.checkbox-group input[type="checkbox"] { width: 16px; height: 16px; }
+.form-divider { margin: 1rem 0; }
+select { font-size: 16px; padding: 0.6rem 2.5rem 0.6rem 0.75rem; }
+.btn-calculate { font-size: 0.95rem; padding: 0.8rem; }
 .total-cost-card { padding: 1.25rem; }
-.total-cost-value { font-size: 2.2rem; }
-.radio-group { flex-direction: column; gap: 0.4rem; }
-.radio-group label { justify-content: flex-start; padding: 0.6rem 1rem; font-size: 0.88rem; }
-.checkbox-group label { font-size: 0.85rem; }
-.comp-row-label { font-size: 0.82rem; }
-.cta-affiliate { font-size: 0.85rem; padding: 0.75rem 0.9rem; flex-wrap: wrap; gap: 0.4rem; }
+.total-cost-value { font-size: 2.4rem; }
+.total-cost-label { font-size: 0.78rem; }
+.total-cost-city { font-size: 0.82rem; }
+.total-cost-disclaimer { font-size: 0.72rem; }
 .breakdown-table { font-size: 0.85rem; }
 .breakdown-table td { padding: 0.4rem 0; word-break: break-word; }
-.cost-list li { font-size: 0.82rem; }
-.sidebar-card h2 { font-size: 0.92rem; }
-select { font-size: 16px; }
-.form-group label { font-size: 0.87rem; }
-.btn-calculate { font-size: 0.95rem; padding: 0.85rem; }
-.seo-content h2 { font-size: 1.25rem; }
-.seo-content h3 { font-size: 1rem; }
-.seo-content { overflow-wrap: break-word; word-wrap: break-word; }
+.comp-row-label { font-size: 0.82rem; }
+.cta-affiliate { font-size: 0.85rem; padding: 0.7rem 0.9rem; flex-wrap: wrap; gap: 0.3rem; }
+.tip-box { font-size: 0.82rem; padding: 0.85rem; }
+.cost-list li { font-size: 0.82rem; padding: 0.35rem 0; }
+.sidebar-card h2 { font-size: 0.92rem; margin-bottom: 0.75rem; }
+.sidebar-card { margin-bottom: 1rem; }
+.seo-content { margin-top: 2rem; overflow-wrap: break-word; word-wrap: break-word; }
+.seo-content h2 { font-size: 1.2rem; margin-top: 1.75rem; margin-bottom: 0.6rem; }
+.seo-content h3 { font-size: 1rem; margin-top: 1.25rem; }
+.seo-content p { font-size: 0.92rem; }
+}
+@media (max-width: 480px) {
+.tool-hero { padding: 1.5rem 1rem 1.25rem; }
+.tool-hero h1 { font-size: 1.35rem; }
+.tool-hero .hero-subtitle { font-size: 0.88rem; }
+.page-body { padding: 1rem 0.85rem 2rem; }
+.card { padding: 1rem; }
+.radio-group { flex-direction: column; gap: 0.3rem; }
+.radio-group label { padding: 0.5rem 0.9rem; font-size: 0.85rem; border-radius: 8px; }
+.form-group { margin-bottom: 0.85rem; }
+.total-cost-value { font-size: 2rem; }
 }
 @media (max-width: 380px) {
-.tool-hero { padding: 1.5rem 0.75rem 1.5rem; }
-.tool-hero h1 { font-size: 1.3rem; }
-.card { padding: 1rem; }
-.total-cost-value { font-size: 1.9rem; }
-.page-body { padding: 1rem 0.75rem 2.5rem; }
-.form-section-label { font-size: 0.7rem; }
+.tool-hero { padding: 1.25rem 0.75rem 1rem; }
+.tool-hero h1 { font-size: 1.2rem; }
+.card { padding: 0.85rem; }
+.total-cost-value { font-size: 1.8rem; }
+.page-body { padding: 0.85rem 0.7rem 2rem; }
 }
 
 /* Print */
