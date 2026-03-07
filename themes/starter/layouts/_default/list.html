@@ -64,15 +64,11 @@
   <div class="card-grid">
     {{ range .Pages }}
     <article class="card card-grid-item">
-      {{/* Thumbnail — use category SVG banner, fall back to gradient */}}
+      {{/* Thumbnail — use category SVG banner */}}
       {{ $cardPage := . }}
-      {{ $cat := "daily-life" }}
+      {{ $cat := path.Base (strings.TrimSuffix "/" .RelPermalink) }}
+      {{ if or (not $cat) (eq $cat "/") (eq $cat ".") (eq $cat "categories") }}{{ $cat = "daily-life" }}{{ end }}
       {{ with .Params.categories }}{{ $cat = index . 0 }}{{ end }}
-      {{/* For taxonomy term pages (on /categories/), extract slug from URL */}}
-      {{ if not .Params.categories }}
-        {{ $slug := path.Base (strings.TrimSuffix "/" .RelPermalink) }}
-        {{ if and $slug (ne $slug "/") (ne $slug ".") }}{{ $cat = $slug }}{{ end }}
-      {{ end }}
       {{ $svgPath := printf "/images/categories/%s.svg" $cat }}
       {{ $svgFile := printf "static/images/categories/%s.svg" $cat }}
       {{ if (fileExists $svgFile) }}
