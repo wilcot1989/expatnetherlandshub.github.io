@@ -86,30 +86,6 @@ layout: "single"
 </script>
 
 <style>
-/* ===================== CSS VARIABLES ===================== */
-:root {
---expat-primary: #1B6B4A;
---expat-primary-light: #2D9B6A;
---expat-primary-dark: #145236;
---expat-accent: #E8832A;
---expat-accent-light: #F5A623;
---expat-bg: #FAFBF9;
---expat-card: #FFFFFF;
---expat-text: #1A1A2E;
---expat-muted: #6B7280;
---expat-border: #E5E7EB;
-}
-
-/* ===================== RESET & BASE ===================== */
-*, *::before, *::after { box-sizing: border-box; margin: 0; padding: 0; }
-html { font-size: 16px; scroll-behavior: smooth; }
-body {
-font-family: 'Inter', system-ui, sans-serif;
-font-weight: 400;
-background: #F8FAF9;
-color: #1A2B22;
-line-height: 1.6;
-}
 a { color: #1B6B4A; text-decoration: underline; }
 a:hover { color: #145236; }
 img { max-width: 100%; display: block; }
@@ -685,6 +661,7 @@ to { opacity: 1; transform: translateY(0); }
 
 /* ===================== RESPONSIVE ===================== */
 @media (max-width: 768px) {
+.tool-hero::before, .tool-hero::after { display: none; }
 .tool-hero h1 { font-size: 1.45rem; }
 .step-body { padding: 20px 18px 24px; }
 .result-meta { grid-template-columns: 1fr; }

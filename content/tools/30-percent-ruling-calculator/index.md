@@ -102,37 +102,6 @@ layout: "single"
 </script>
 
 <style>
-/* ============================================================
-CSS CUSTOM PROPERTIES — mirrors baseof.html palette
-============================================================ */
-:root {
---expat-primary:       #1B6B4A;
---expat-primary-light: #2D9B6A;
---expat-primary-dark:  #145236;
---expat-accent: #E8832A;
---expat-accent-light:  #F5A623;
---expat-bg:            #FAFBF9;
---expat-card:          #FFFFFF;
---expat-text:          #1A1A2E;
---expat-muted:         #6B7280;
---expat-border:        #E5E7EB;
---expat-success:       #10B981;
---expat-warning:       #F59E0B;
---expat-info:          #3B82F6;
-}
-
-/* ============================================================
-RESET & BASE
-============================================================ */
-*, *::before, *::after { margin: 0; padding: 0; box-sizing: border-box; }
-html { scroll-behavior: smooth; }
-body {
-font-family: 'Inter', -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif;
-font-size: 1.05rem;
-line-height: 1.75;
-color: var(--expat-text);
-background: var(--expat-bg);
-}
 a { color: var(--expat-accent); text-decoration: none; }
 a:hover { text-decoration: underline; }
 img { max-width: 100%; height: auto; border-radius: 8px; display: block; }
@@ -221,6 +190,7 @@ color: rgba(255,255,255,0.25);
 }
 .tool-hero-icon svg { width: 100%; height: 100%; }
 @media (max-width: 768px) {
+.tool-hero::before, .tool-hero::after { display: none; }
 .tool-hero-icon { display: none; }
 }
 .tool-hero .breadcrumb { margin-bottom: 1rem; }

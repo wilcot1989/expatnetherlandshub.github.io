@@ -77,11 +77,6 @@ layout: "single"
 </script>
 
 <style>
-/* ===========================
-RESET & BASE
-=========================== */
-*, *::before, *::after { box-sizing: border-box; margin: 0; padding: 0; }
-
 :root {
 --green:       #1B6B4A;
 --green-dark:  #145236;
@@ -105,16 +100,6 @@ RESET & BASE
 --expat-text:  #1A1A2E;
 --expat-muted: #6B7280;
 --expat-border:#E5E7EB;
-}
-
-html { scroll-behavior: smooth; }
-
-body {
-font-family: 'Inter', sans-serif;
-font-size: 16px;
-line-height: 1.65;
-color: var(--text);
-background: var(--bg);
 }
 
 h1, h2, h3, h4 {
@@ -169,6 +154,7 @@ pointer-events: none;
 .tool-hero-icon { width: 100px; height: 100px; flex-shrink: 0; color: rgba(255,255,255,0.25); }
 .tool-hero-icon svg { width: 100%; height: 100%; }
 @media (max-width: 768px) {
+.tool-hero::before, .tool-hero::after { display: none; }
 .tool-hero-icon { display: none; } }
 .tool-hero h1 { color: #fff; font-size: 2.1rem; margin-bottom: 0.6rem; max-width: 700px; }
 .tool-hero .hero-subtitle { color: rgba(255,255,255,0.85); font-size: 1.1rem; max-width: 580px; }

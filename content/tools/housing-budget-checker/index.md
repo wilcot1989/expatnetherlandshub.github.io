@@ -233,6 +233,7 @@ RESPONSIVE
 .tool-grid { grid-template-columns: 1fr; }
 }
 @media (max-width: 768px) {
+.tool-hero::before, .tool-hero::after { display: none; }
 .key-numbers { grid-template-columns: repeat(2, 1fr); }
 }
 @media (max-width: 600px) {

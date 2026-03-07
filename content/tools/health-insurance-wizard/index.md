@@ -85,43 +85,6 @@ layout: "single"
 </script>
 
 <style>
-/* ============================================================
-CSS CUSTOM PROPERTIES — mirrors baseof.html palette
-============================================================ */
-:root {
---expat-primary:       #1B6B4A;
---expat-primary-light: #2D9B6A;
---expat-primary-dark:  #145236;
---expat-accent: #E8832A;
---expat-accent-light:  #F5A623;
---expat-bg:            #FAFBF9;
---expat-card:          #FFFFFF;
---expat-text:          #1A1A2E;
---expat-muted:         #6B7280;
---expat-border:        #E5E7EB;
---expat-success:       #10B981;
---expat-warning:       #F59E0B;
---expat-info:          #3B82F6;
-}
-
-/* ==============================
-RESET & BASE
-============================== */
-*, *::before, *::after { box-sizing: border-box; margin: 0; padding: 0; }
-
-html { font-size: 16px; scroll-behavior: smooth; }
-
-body {
-font-family: 'Inter', sans-serif;
-font-weight: 400;
-background: #F8FAF9;
-color: #1A1A1A;
-line-height: 1.65;
-min-height: 100vh;
-display: flex;
-flex-direction: column;
-}
-
 h1, h2, h3, h4, h5 {
 font-family: 'DM Sans', sans-serif;
 font-weight: 700;
@@ -201,6 +164,7 @@ color: rgba(255,255,255,0.25);
 }
 .tool-hero-icon svg { width: 100%; height: 100%; }
 @media (max-width: 768px) {
+.tool-hero::before, .tool-hero::after { display: none; }
 .tool-hero-icon { display: none; }
 }
 .tool-hero .breadcrumb { margin-bottom: 1rem; }

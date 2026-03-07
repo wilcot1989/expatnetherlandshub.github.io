@@ -140,6 +140,7 @@ color: rgba(255,255,255,0.25);
 }
 .tool-hero-icon svg { width: 100%; height: 100%; }
 @media (max-width: 768px) {
+.tool-hero::before, .tool-hero::after { display: none; }
 .tool-hero-icon { display: none; }
 }
 .tool-hero .breadcrumb { margin-bottom: 1rem; }
