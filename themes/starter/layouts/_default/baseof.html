@@ -83,12 +83,17 @@
     "publisher": {
       "@type": "Organization",
       "name": "{{ .Site.Title }}",
-      "url": "{{ .Site.BaseURL }}"
+      "url": "{{ .Site.BaseURL }}",
+      "logo": {
+        "@type": "ImageObject",
+        "url": "{{ .Site.BaseURL }}favicon.svg"
+      }
     },
     "mainEntityOfPage": {
       "@type": "WebPage",
       "@id": "{{ .Permalink }}"
-    }
+    }{{ with .Params.featured_image }},
+    "image": "{{ $.Site.BaseURL }}{{ strings.TrimPrefix "/" . }}"{{ end }}
   }
   </script>
   {{ if .Params.faq }}
@@ -159,7 +164,11 @@
     window.dataLayer = window.dataLayer || [];
     function gtag(){dataLayer.push(arguments);}
     gtag('consent','default',{
-      'analytics_storage': localStorage.getItem('cookie-consent')==='true' ? 'granted' : 'denied'
+      'analytics_storage': localStorage.getItem('cookie-consent')==='true' ? 'granted' : 'denied',
+      'ad_storage': 'denied',
+      'ad_user_data': 'denied',
+      'ad_personalization': 'denied',
+      'wait_for_update': 500
     });
     gtag('js', new Date());
     gtag('config', 'G-2TJSDJB4CG');

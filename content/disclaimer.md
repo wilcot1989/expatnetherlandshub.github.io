@@ -1,7 +1,8 @@
 ---
 title: "Disclaimer & Affiliate Disclosure"
-description: "Important disclaimers about the information on Expat Netherlands Hub, including affiliate disclosure, accuracy limitations, and professional advice recommendations."
+description: "Disclaimers for Expat Netherlands Hub: affiliate disclosure, accuracy limitations, and professional advice recommendations."
 date: 2026-03-06T10:00:00+01:00
+lastmod: 2026-03-06
 layout: single
 ---
 

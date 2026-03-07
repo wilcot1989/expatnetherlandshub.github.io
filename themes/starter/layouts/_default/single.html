@@ -93,7 +93,7 @@
       </div>
 
       {{/* Related articles — bottom of article on mobile, mirrors sidebar on desktop */}}
-      {{ $allOther := where (where .Site.RegularPages "Type" "posts") ".Permalink" "ne" .Permalink }}
+      {{ $allOther := where (where .Site.RegularPages "Type" "guides") ".Permalink" "ne" .Permalink }}
       {{ $related := where $allOther ".Params.categories" "intersect" .Params.categories }}
       {{ if not $related }}{{ $related = $allOther }}{{ end }}
       {{ $related = first 3 $related }}
@@ -141,7 +141,7 @@
       {{ end }}
 
       {{/* Related articles in sidebar — visible on desktop only */}}
-      {{ $allOtherSide := where (where .Site.RegularPages "Type" "posts") ".Permalink" "ne" .Permalink }}
+      {{ $allOtherSide := where (where .Site.RegularPages "Type" "guides") ".Permalink" "ne" .Permalink }}
       {{ $relatedSide := where $allOtherSide ".Params.categories" "intersect" .Params.categories }}
       {{ if not $relatedSide }}{{ $relatedSide = $allOtherSide }}{{ end }}
       {{ $relatedSide = first 3 $relatedSide }}
