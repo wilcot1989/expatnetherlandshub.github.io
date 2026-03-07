@@ -3,7 +3,7 @@ title: "Dutch Rental Contracts Explained: Your Rights as a Tenant in the Netherl
 date: 2026-03-17T10:00:00+01:00
 lastmod: 2026-03-17T10:00:00+01:00
 description: "Understand Dutch rental contracts and your rights as a tenant. Contract types, deposit rules, rent protection, and 2026 law changes explained."
-guides: ["legal"]
+categories: ["legal"]
 tags: ["rental contract", "tenant rights", "huurcontract", "housing law", "renting Netherlands"]
 keywords: ["dutch rental contract expat", "tenant rights netherlands", "huurcontract netherlands english", "dutch rental law 2026", "deposit rules netherlands", "huurcommissie complaint", "bepaalde tijd onbepaalde tijd rental", "diplomatenclausule netherlands", "puntentelsel huurwoning", "middenhuur rent protection 2026"]
 affiliate: false

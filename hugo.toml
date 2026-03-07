@@ -52,19 +52,20 @@ buildFuture = false
   home = 1.0
   tools = 0.9
   guides = 0.9
+  categories = 0.6
   cities = 0.8
   services = 0.8
   tags = 0.4
 
 [taxonomies]
-  category = "guides"
+  category = "categories"
 
 [related]
   includeNewer = true
   threshold = 80
   toLower = true
   [[related.indices]]
-    name = "guides"
+    name = "categories"
     weight = 100
   [[related.indices]]
     name = "tags"

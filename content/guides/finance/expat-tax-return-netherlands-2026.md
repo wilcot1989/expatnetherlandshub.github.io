@@ -3,7 +3,7 @@ title: "Expat Tax Return Netherlands 2026: How to File Step by Step"
 date: 2026-04-30T10:00:00+01:00
 lastmod: 2026-04-30T10:00:00+01:00
 description: "Step-by-step guide to filing your Dutch tax return as an expat. Deadlines, deductions, 30% ruling, M-form, online filing, and when you need a tax advisor."
-guides: ["finance"]
+categories: ["finance"]
 tags: ["tax return", "belastingaangifte", "30% ruling", "tax deductions", "expat tax"]
 keywords: ["Dutch tax return expat", "file taxes Netherlands", "belastingaangifte expat", "30% ruling tax return"]
 affiliate: true

@@ -3,7 +3,7 @@ title: "Dutch Social Etiquette: Unwritten Rules Every Expat Should Know"
 date: 2026-04-14T10:00:00+01:00
 lastmod: 2026-04-14T10:00:00+01:00
 description: "Dutch social etiquette for expats: directness, birthday circles, agenda culture, splitting bills, and the unwritten rules you need to know."
-guides: ["integration"]
+categories: ["integration"]
 tags: ["Dutch culture", "social etiquette", "expat life", "Netherlands", "integration"]
 keywords: ["Dutch social etiquette", "Dutch culture expats", "unwritten rules Netherlands", "Dutch directness", "expat Netherlands integration"]
 affiliate: false

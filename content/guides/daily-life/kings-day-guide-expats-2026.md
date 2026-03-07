@@ -7,7 +7,7 @@ author: "Sarah van den Berg"
 author_bio: "Expat coach and relocation specialist. Half Dutch, half British, living in the Netherlands for over 10 years."
 description: "Your complete expat guide to King's Day 2026 in the Netherlands. Date, tips, best cities, what to wear, vrijmarkt, and more."
 featured_image: "/images/featured/kings-day-guide-expats-2026.webp"
-guides: ["daily-life"]
+categories: ["daily-life"]
 type: "seasonal guide"
 affiliate: false
 tags:

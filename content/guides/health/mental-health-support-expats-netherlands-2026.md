@@ -3,7 +3,7 @@ title: "Mental Health Support for Expats in the Netherlands (2026)"
 slug: "mental-health-support-expats-netherlands-2026"
 date: 2026-04-07T10:00:00+01:00
 lastmod: 2026-04-07T10:00:00+01:00
-guides: ["health"]
+categories: ["health"]
 type: "guide"
 author: "Sarah van den Berg"
 author_bio: "Expat coach and relocation specialist. Half Dutch, half British, living in the Netherlands for over 10 years."

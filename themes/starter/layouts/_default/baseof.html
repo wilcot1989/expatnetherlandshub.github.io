@@ -129,12 +129,12 @@
         "position": 1,
         "name": "Home",
         "item": "{{ .Site.BaseURL }}"
-      }{{ if .IsPage }}{{ with .Params.guides }}{{ range $i, $cat := . }},
+      }{{ if .IsPage }}{{ with .Params.categories }}{{ range $i, $cat := . }},
       {
         "@type": "ListItem",
         "position": {{ add $i 2 }},
         "name": "{{ $cat | humanize | title }}",
-        "item": "{{ $.Site.BaseURL }}guides/{{ $cat }}/"
+        "item": "{{ $.Site.BaseURL }}categories/{{ $cat }}/"
       }{{ end }},
       {
         "@type": "ListItem",

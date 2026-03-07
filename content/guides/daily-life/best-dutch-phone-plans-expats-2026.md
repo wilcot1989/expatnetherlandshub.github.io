@@ -5,7 +5,7 @@ date: 2026-04-17T10:00:00+01:00
 lastmod: 2026-04-17T10:00:00+01:00
 draft: false
 type: "guide"
-guides: ["daily-life"]
+categories: ["daily-life"]
 description: "The best Dutch phone plans for expats in 2026 — from budget SIM cards to unlimited data. Real advice from someone who's lived here 10 years."
 featured_image: "/images/featured/best-dutch-phone-plans-expats-2026.webp"
 affiliate: false

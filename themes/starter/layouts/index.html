@@ -166,7 +166,7 @@
       {{ range .Site.RegularPages.ByDate.Reverse | first 6 }}
       {{ $pageTitle := .Title }}
       {{ $homeCat := "daily-life" }}
-      {{ with .Params.guides }}{{ $homeCat = index . 0 }}{{ end }}
+      {{ with .Params.categories }}{{ $homeCat = index . 0 }}{{ end }}
       {{ $homeSvg := printf "/images/categories/%s.svg" $homeCat }}
       {{ $homeSvgFile := printf "static/images/categories/%s.svg" $homeCat }}
       <a href="{{ .RelPermalink }}" class="card guide-card">

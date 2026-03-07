@@ -3,7 +3,7 @@ title: "Driving in the Netherlands 2026: License, Rules, and Tips for Expats"
 date: 2026-04-15T10:00:00+01:00
 lastmod: 2026-04-15T10:00:00+01:00
 description: "Complete guide to driving in the Netherlands as an expat. License exchange, Dutch driving rules, car ownership costs, and practical tips for 2026."
-guides: ["transport"]
+categories: ["transport"]
 tags: ["driving Netherlands", "driver's license", "car ownership", "Dutch traffic rules", "expat transport"]
 keywords: ["driving in Netherlands expat", "exchange driver's license NL", "Dutch driving rules", "car costs Netherlands"]
 affiliate: true

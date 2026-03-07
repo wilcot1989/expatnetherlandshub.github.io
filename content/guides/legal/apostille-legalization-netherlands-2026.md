@@ -3,7 +3,7 @@ title: "Apostille and Document Legalisation in the Netherlands: What Expats Need
 date: 2026-03-26T10:00:00+01:00
 lastmod: 2026-03-26T10:00:00+01:00
 description: "How to get documents apostilled or legalised for use in the Netherlands. Step-by-step process, costs, timelines, and which documents you will need."
-guides: ["legal"]
+categories: ["legal"]
 tags: ["apostille", "document legalisation", "legal documents", "notarisation", "expat paperwork"]
 keywords: ["apostille Netherlands expat", "document legalisation Netherlands", "apostille Dutch documents", "legalise documents NL"]
 affiliate: false

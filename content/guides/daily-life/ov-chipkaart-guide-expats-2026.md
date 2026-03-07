@@ -3,7 +3,7 @@ title: "OV-chipkaart Guide 2026: Public Transport in the Netherlands"
 date: 2026-03-06T12:00:00+01:00
 lastmod: 2026-03-06T12:00:00+01:00
 description: "Complete OV-chipkaart guide for expats in 2026. How to use NS trains, trams, buses, metro, OV-fiets, NS Flex subscriptions, and the 9292 app."
-guides: ["daily-life"]
+categories: ["daily-life"]
 tags: ["ov-chipkaart", "public transport netherlands", "ns trains", "dutch trains", "gvb amsterdam", "ov-fiets", "ns flex", "9292 app"]
 keywords: ["ov-chipkaart guide", "public transport netherlands", "ns train netherlands", "ov-chipkaart how to use", "dutch public transport expat", "ns flex subscription 2026"]
 affiliate: true

@@ -3,7 +3,7 @@ title: "Best SIM Cards & Mobile Plans for Expats in the Netherlands 2026"
 date: 2026-03-01T11:00:00+01:00
 lastmod: 2026-03-01T11:00:00+01:00
 description: "Compare the best SIM cards and mobile plans for expats in the Netherlands. KPN, T-Mobile, Vodafone, Simyo, Lebara, Ben, and Lyca reviewed."
-guides: ["daily-life"]
+categories: ["daily-life"]
 tags: ["sim card netherlands", "mobile plan expats", "dutch phone number", "prepaid sim netherlands", "eSIM netherlands", "dutch mobile providers"]
 keywords: ["best sim card netherlands", "mobile plan expats netherlands", "dutch sim card", "prepaid sim card netherlands", "eSIM netherlands expats", "cheapest phone plan netherlands"]
 affiliate: true

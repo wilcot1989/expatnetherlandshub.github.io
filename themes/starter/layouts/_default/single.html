@@ -4,7 +4,7 @@
 
 {{/* ── Hero: category SVG banner with dark overlay ── */}}
 {{ $heroCat := "daily-life" }}
-{{ with .Params.guides }}{{ $heroCat = index . 0 }}{{ end }}
+{{ with .Params.categories }}{{ $heroCat = index . 0 }}{{ end }}
 {{ $heroSvg := printf "/images/categories/%s.svg" $heroCat }}
 {{ $heroFile := printf "static/images/categories/%s.svg" $heroCat }}
 {{ if (fileExists $heroFile) }}
@@ -13,8 +13,8 @@
     <div class="wide">
       <nav class="breadcrumb breadcrumb-light" aria-label="Breadcrumb">
         <a href="/">Home</a> &rsaquo;
-        {{ range .Params.guides }}
-        <a href="/guides/{{ . }}/">{{ . | humanize | title }}</a> &rsaquo;
+        {{ range .Params.categories }}
+        <a href="/categories/{{ . }}/">{{ . | humanize | title }}</a> &rsaquo;
         {{ end }}
         <span>{{ .Title }}</span>
       </nav>
@@ -32,8 +32,8 @@
   <div class="wide">
     <nav class="breadcrumb" aria-label="Breadcrumb">
       <a href="/">Home</a> &rsaquo;
-      {{ range .Params.guides }}
-      <a href="/guides/{{ . }}/">{{ . | humanize | title }}</a> &rsaquo;
+      {{ range .Params.categories }}
+      <a href="/categories/{{ . }}/">{{ . | humanize | title }}</a> &rsaquo;
       {{ end }}
       <span>{{ .Title }}</span>
     </nav>
@@ -98,7 +98,7 @@
 
       {{/* Related articles — bottom of article on mobile, mirrors sidebar on desktop */}}
       {{ $allOther := where (where .Site.RegularPages "Type" "guides") ".Permalink" "ne" .Permalink }}
-      {{ $related := where $allOther ".Params.guides" "intersect" .Params.guides }}
+      {{ $related := where $allOther ".Params.categories" "intersect" .Params.categories }}
       {{ if not $related }}{{ $related = $allOther }}{{ end }}
       {{ $related = first 3 $related }}
       {{ if $related }}
@@ -108,7 +108,7 @@
           {{ range $related }}
           <a href="{{ .RelPermalink }}" class="related-card">
             {{ $relCat := "daily-life" }}
-            {{ with .Params.guides }}{{ $relCat = index . 0 }}{{ end }}
+            {{ with .Params.categories }}{{ $relCat = index . 0 }}{{ end }}
             {{ $relSvg := printf "/images/categories/%s.svg" $relCat }}
             <img src="{{ $relSvg }}" alt="{{ .Title }}" class="related-card-thumb" loading="lazy">
             <div class="related-card-body">
@@ -147,7 +147,7 @@
 
       {{/* Related articles in sidebar — visible on desktop only */}}
       {{ $allOtherSide := where (where .Site.RegularPages "Type" "guides") ".Permalink" "ne" .Permalink }}
-      {{ $relatedSide := where $allOtherSide ".Params.guides" "intersect" .Params.guides }}
+      {{ $relatedSide := where $allOtherSide ".Params.categories" "intersect" .Params.categories }}
       {{ if not $relatedSide }}{{ $relatedSide = $allOtherSide }}{{ end }}
       {{ $relatedSide = first 3 $relatedSide }}
       {{ if $relatedSide }}

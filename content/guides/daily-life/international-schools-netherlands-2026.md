@@ -3,7 +3,7 @@ title: "International Schools in the Netherlands 2026: Complete Guide"
 date: 2026-04-06T10:00:00+01:00
 lastmod: 2026-04-06T10:00:00+01:00
 description: "Complete guide to international schools in the Netherlands for expat families. Costs, top schools by city, curriculum types, and enrollment tips for 2026."
-guides: ["daily-life"]
+categories: ["daily-life"]
 tags: ["international schools", "education", "expat children", "Netherlands", "IB curriculum"]
 keywords: ["international schools Netherlands", "expat schools Holland", "IB schools Netherlands", "British school Netherlands"]
 affiliate: true

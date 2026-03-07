@@ -3,7 +3,7 @@ title: "Cycling in the Netherlands: Complete Expat Guide 2026"
 date: 2026-04-02T12:00:00+01:00
 lastmod: 2026-04-02T12:00:00+01:00
 description: "Everything expats need to know about cycling in the Netherlands: buying a bike, traffic rules, safety tips, and cycling culture in 2026."
-guides: ["daily-life"]
+categories: ["daily-life"]
 tags: ["cycling", "bicycle netherlands", "swapfiets", "bike rules", "dutch cycling", "ov-fiets", "bike theft"]
 keywords: ["cycling netherlands", "buy bicycle netherlands", "swapfiets review", "dutch bike rules", "cycling expat guide"]
 affiliate: true

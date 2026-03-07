@@ -3,7 +3,7 @@ title: "DigiD for Expats 2026: What It Is and How to Get It"
 date: 2026-03-06T10:00:00+01:00
 lastmod: 2026-03-06T10:00:00+01:00
 description: "Everything expats need to know about DigiD in the Netherlands: what it is, why you need it, how to apply step by step, and setting up the DigiD app."
-guides: ["daily-life"]
+categories: ["daily-life"]
 tags: ["DigiD", "digital identity", "Dutch bureaucracy", "government services", "BSN"]
 keywords: ["DigiD Netherlands", "DigiD expat", "how to get DigiD", "Dutch digital identity"]
 affiliate: true

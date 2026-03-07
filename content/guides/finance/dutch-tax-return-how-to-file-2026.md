@@ -5,7 +5,7 @@ date: 2026-04-05T10:00:00+01:00
 lastmod: 2026-04-05T10:00:00+01:00
 author: "Sarah van den Berg"
 author_bio: "Expat coach and relocation specialist. Half Dutch, half British, living in the Netherlands for over 10 years."
-guides: ["finance"]
+categories: ["finance"]
 type: "guide"
 featured_image: "/images/featured/dutch-tax-return-how-to-file-2026.webp"
 affiliate: false

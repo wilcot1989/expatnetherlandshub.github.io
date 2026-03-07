@@ -3,7 +3,7 @@ title: "Best Expat Insurance in the Netherlands 2026: Complete Guide"
 date: 2026-03-06T10:00:00+01:00
 lastmod: 2026-03-06T10:00:00+01:00
 description: "Complete guide to expat insurance in the Netherlands. Health insurance, liability, home contents, and international coverage options for expats in 2026."
-guides: ["insurance"]
+categories: ["insurance"]
 tags: ["expat insurance", "health insurance Netherlands", "zorgverzekering", "liability insurance", "expat life"]
 keywords: ["expat insurance Netherlands", "health insurance expats NL", "best insurance for expats", "zorgverzekering international"]
 affiliate: true

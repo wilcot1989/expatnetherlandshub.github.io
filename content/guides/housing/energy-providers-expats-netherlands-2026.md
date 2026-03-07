@@ -3,7 +3,7 @@ title: "Best Energy Providers for Expats in the Netherlands 2026"
 date: 2026-04-18T10:00:00+01:00
 lastmod: 2026-04-18T10:00:00+01:00
 description: "How to choose an energy provider in the Netherlands as an expat. Fixed vs dynamic contracts, best providers, and tips to save on your bill."
-guides: ["housing"]
+categories: ["housing"]
 tags: ["energy provider", "gas electricity", "Vattenfall", "Eneco", "expat utilities"]
 keywords: ["energy provider Netherlands expat", "Dutch energy contract", "cheapest energy Netherlands", "gas electricity NL"]
 affiliate: true

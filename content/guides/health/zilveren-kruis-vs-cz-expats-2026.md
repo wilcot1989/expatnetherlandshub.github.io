@@ -3,7 +3,7 @@ title: "Zilveren Kruis vs CZ for Expats: Health Insurance Compared 2026"
 date: 2026-03-14T10:00:00+01:00
 lastmod: 2026-03-14T10:00:00+01:00
 description: "Zilveren Kruis vs CZ health insurance compared for expats in the Netherlands. Premiums, coverage, English support, dental, and which to choose in 2026."
-guides: ["health"]
+categories: ["health"]
 tags: ["Zilveren Kruis", "CZ", "health insurance", "zorgverzekering", "insurance comparison"]
 keywords: ["Zilveren Kruis vs CZ expats", "best health insurance expats Netherlands", "Zilveren Kruis CZ comparison", "Dutch health insurance 2026"]
 affiliate: true
