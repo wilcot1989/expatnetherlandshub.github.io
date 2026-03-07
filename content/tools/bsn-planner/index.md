@@ -1,30 +1,12 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-  <meta charset="UTF-8" />
-  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-  <link rel="icon" href="/favicon.svg" type="image/svg+xml">
-  <title>BSN Registration Guide Netherlands 2026 — Appointment Planner & Checklist</title>
-  <meta name="description" content="Plan your BSN registration in the Netherlands step by step. Free tool with gemeente appointment timeline, required documents, and wait times for your city." />
-  <link rel="canonical" href="https://expatnetherlandshub.com/tools/bsn-planner/" />
+---
+title: "BSN Registration Guide Netherlands 2026"
+description: "Plan your BSN registration in the Netherlands step by step. Free tool with gemeente appointment timeline, required documents, and wait times for your city."
+type: "tools"
+layout: "single"
+---
 
-  <!-- Google Fonts -->
-  <link rel="preconnect" href="https://fonts.googleapis.com" />
-  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
-  <link href="https://fonts.googleapis.com/css2?family=DM+Sans:wght@500;700&family=Inter:wght@400;500;600&display=swap" rel="stylesheet" />
-
-  <!-- GA4 -->
-  <script async src="https://www.googletagmanager.com/gtag/js?id=G-2TJSDJB4CG"></script>
-  <script>
-    window.dataLayer = window.dataLayer || [];
-    function gtag(){dataLayer.push(arguments);}
-    gtag('js', new Date());
-    gtag('config', 'G-2TJSDJB4CG');
-  </script>
-
-  <!-- JSON-LD Schemas -->
-  <script type="application/ld+json">
-  {
+<script type="application/ld+json">
+{
     "@context": "https://schema.org",
     "@type": "WebApplication",
     "name": "BSN Registration Guide",
@@ -43,9 +25,10 @@
       "url": "https://expatnetherlandshub.com"
     }
   }
-  </script>
-  <script type="application/ld+json">
-  {
+</script>
+
+<script type="application/ld+json">
+{
     "@context": "https://schema.org",
     "@type": "FAQPage",
     "mainEntity": [
@@ -99,10 +82,10 @@
       }
     ]
   }
-  </script>
+</script>
 
-  <style>
-    /* ===========================
+<style>
+/* ===========================
        RESET & BASE
     =========================== */
     *, *::before, *::after { box-sizing: border-box; margin: 0; padding: 0; }
@@ -156,57 +139,6 @@
       margin: 0 auto;
       padding: 0 20px;
     }
-
-    /* ===========================
-       HEADER
-    =========================== */
-    #nav-toggle { display: none; }
-    header { position: sticky; top: 0; z-index: 1000; background: var(--expat-primary-dark); color: #fff; border-bottom: 3px solid var(--expat-accent); box-shadow: 0 2px 12px rgba(0,0,0,0.18); }
-    .header-inner { display: flex; align-items: center; justify-content: space-between; gap: 1rem; padding: 0.75rem 1.5rem; max-width: 1100px; margin: 0 auto; }
-    .logo { display: flex; align-items: center; gap: 0.55rem; text-decoration: none; flex-shrink: 0; }
-    .logo:hover { text-decoration: none; }
-    .logo-icon { width: 28px; height: 28px; color: var(--expat-accent); flex-shrink: 0; }
-    .logo-text { font-family: 'DM Sans', sans-serif; font-size: 1.15rem; font-weight: 700; color: #fff; letter-spacing: -0.01em; }
-    .logo-text span { color: #F5A623 !important; }
-    .primary-nav { display: flex; align-items: center; gap: 0; list-style: none; margin: 0; }
-    .nav-item { position: relative; }
-    .nav-item > a, .nav-item > .nav-link { display: flex; align-items: center; gap: 0.3rem; padding: 0.65rem 0.9rem; font-size: 0.92rem; font-weight: 500; color: rgba(255,255,255,0.88); white-space: nowrap; cursor: pointer; border: none; background: none; font-family: inherit; line-height: 1; transition: color 0.15s; text-decoration: none; }
-    .nav-item > a:hover, .nav-item > .nav-link:hover { color: #fff; text-decoration: none; }
-    .nav-arrow { font-size: 0.65rem; opacity: 0.7; transition: transform 0.2s; display: inline-block; }
-    .nav-item:hover .nav-arrow { transform: rotate(180deg); }
-    .mega-menu { display: none; position: absolute; top: calc(100% + 3px); left: 50%; transform: translateX(-50%); background: #fff; border: 1px solid var(--expat-border); border-radius: 12px; box-shadow: 0 16px 48px rgba(0,0,0,0.16); padding: 1.5rem; z-index: 2000; color: var(--expat-text); min-width: 540px; }
-    .nav-item:hover .mega-menu { display: block; }
-    .mega-menu::before { content: ''; position: absolute; top: -7px; left: 50%; transform: translateX(-50%); width: 14px; height: 7px; background: #fff; clip-path: polygon(50% 0%, 0% 100%, 100% 100%); }
-    .mega-cols { display: grid; gap: 1.75rem; }
-    .mega-cols-3 { grid-template-columns: repeat(3, minmax(160px, 1fr)); }
-    .mega-cols-1 { grid-template-columns: 1fr; }
-    .mega-col-title { font-family: 'DM Sans', sans-serif; font-size: 0.72rem; font-weight: 700; letter-spacing: 0.08em; text-transform: uppercase; color: var(--expat-primary); margin-bottom: 0.5rem; padding-left: 1.1rem; }
-    .mega-col ul { list-style: none; margin: 0; padding: 0; }
-    .mega-col ul li { margin-bottom: 0.15rem; }
-    .mega-col ul li a { font-size: 0.9rem; color: var(--expat-text); display: block; padding: 0.35rem 0.65rem; padding-left: 1.1rem; border-radius: 6px; transition: color 0.15s, background 0.15s; text-decoration: none; position: relative; line-height: 1.35; }
-    .mega-col ul li a:hover { color: var(--expat-primary); background: #F0FDF4; text-decoration: none; }
-    .mega-col ul li a::before { content: ''; width: 5px; height: 5px; border-radius: 50%; background: var(--expat-accent); position: absolute; left: 0; top: 50%; transform: translateY(-50%); }
-    .city-pills { display: flex; flex-wrap: wrap; gap: 0.5rem; min-width: 320px; }
-    .city-pill { display: inline-block; background: #D1FAE5; color: var(--expat-primary-dark); border: 1px solid #A7F3D0; padding: 0.35rem 0.85rem; border-radius: 999px; font-size: 0.85rem; font-weight: 500; transition: background 0.15s, color 0.15s; }
-    .city-pill:hover { background: var(--expat-primary); color: #fff; text-decoration: none; border-color: var(--expat-primary); }
-    .header-cta { display: inline-flex; align-items: center; gap: 0.4rem; background: var(--expat-accent); color: #fff; padding: 0.55rem 1.1rem; border-radius: 8px; font-size: 0.88rem; font-weight: 600; font-family: 'DM Sans', sans-serif; white-space: nowrap; transition: background 0.15s; flex-shrink: 0; }
-    .header-cta:hover { background: #C96B1A; text-decoration: none; color: #fff; }
-    .hamburger-label { display: none; flex-direction: column; gap: 5px; cursor: pointer; padding: 6px; }
-    .hamburger-label span { display: block; width: 24px; height: 2px; background: #fff; border-radius: 2px; transition: transform 0.25s, opacity 0.25s; }
-    #nav-toggle:checked ~ header .hamburger-label span:nth-child(1) { transform: translateY(7px) rotate(45deg); }
-    #nav-toggle:checked ~ header .hamburger-label span:nth-child(2) { opacity: 0; }
-    #nav-toggle:checked ~ header .hamburger-label span:nth-child(3) { transform: translateY(-7px) rotate(-45deg); }
-    .mobile-nav { display: none; background: var(--expat-primary-dark); padding: 0.5rem 1.5rem 1rem; border-top: 1px solid rgba(255,255,255,0.1); }
-    #nav-toggle:checked ~ header .mobile-nav { display: block; }
-    #nav-toggle:checked ~ header { position: fixed; width: 100%; top: 0; z-index: 10000; }
-    #nav-toggle:checked ~ header .mobile-nav { max-height: calc(100vh - 60px); overflow-y: auto; }
-    .mobile-nav a { display: block; color: rgba(255,255,255,0.88); padding: 0.55rem 0; font-size: 0.95rem; border-bottom: 1px solid rgba(255,255,255,0.07); text-decoration: none; }
-    .mobile-nav a:hover { color: #fff; text-decoration: none; }
-    .mobile-nav .mobile-section-title { font-size: 0.72rem; font-weight: 700; text-transform: uppercase; letter-spacing: 0.07em; color: var(--expat-accent-light); margin: 0.9rem 0 0.3rem; }
-    .breadcrumb { font-size: 0.85rem; color: var(--expat-muted); margin-bottom: 1rem; }
-    .breadcrumb a { color: var(--expat-muted); text-decoration: none; }
-    .breadcrumb a:hover { color: var(--expat-primary); }
-    @media (max-width: 768px) { .primary-nav, .header-cta { display: none; } .hamburger-label { display: flex; } .mega-menu { display: none !important; } }
 
     /* ============================================================
        ARTICLE-STYLE HERO
@@ -263,7 +195,7 @@
     }
     .tool-hero-icon svg { width: 100%; height: 100%; }
     @media (max-width: 768px) {
-      .tool-hero-icon { display: none; }
+.tool-hero-icon { display: none; }
     }
     .tool-hero .breadcrumb { margin-bottom: 1rem; }
     .tool-hero .breadcrumb,
@@ -443,16 +375,7 @@
     =========================== */
     #timeline-output { display: none; margin-top: 36px; }
 
-    .timeline-header {
-      display: flex;
-      align-items: center;
-      justify-content: space-between;
-      flex-wrap: wrap;
-      gap: 12px;
-      margin-bottom: 28px;
-      padding-bottom: 18px;
-      border-bottom: 2px solid var(--border);
-    }
+    .timeline-
 
     .timeline-header h2 {
       font-size: 1.2rem;
@@ -798,72 +721,9 @@
     }
 
     /* ===========================
-       FOOTER
-    =========================== */
-    
-    .site-footer {
- background: var(--expat-primary-dark); color: #94A3B8; padding: 3.5rem 0 1.5rem; margin-top: 4rem; font-size: 0.88rem; }
-    .footer-grid { display: grid; grid-template-columns: repeat(4, 1fr); gap: 2rem; margin-bottom: 2.5rem; }
-    .footer-col-title { font-family: 'DM Sans', sans-serif; font-size: 0.75rem; font-weight: 700; letter-spacing: 0.08em; text-transform: uppercase; color: #fff; margin-bottom: 0.9rem; }
-    .site-footer ul { list-style: none; margin: 0; padding: 0; }
-    .site-footer ul li { margin-bottom: 0.45rem; }
-    .site-footer ul li a { color: #CBD5E1; transition: color 0.15s; }
-    .site-footer ul li a:hover { color: #fff; text-decoration: none; }
-    .footer-bottom { border-top: 1px solid rgba(255,255,255,0.1); padding-top: 1.25rem; display: flex; align-items: center; justify-content: space-between; flex-wrap: wrap; gap: 0.75rem; }
-    .footer-bottom p { margin: 0; font-size: 0.8rem; }
-    .footer-disclosure { font-size: 0.78rem; color: #94A3B8; max-width: 700px; }
-    .footer-links-bottom a { color: #CBD5E1; margin-left: 1.1rem; }
-    .footer-links-bottom a:hover { color: #fff; }
-    @media (max-width: 768px) { .footer-grid { grid-template-columns: repeat(2, 1fr); } }
-
-    /* ===========================
        PRINT STYLES
     =========================== */
-    @media print {
-      .site-header, .tool-hero, .btn-generate, .btn-print, .form-section,
-      .site-footer, .related-tools, .cta-affiliate, .seo-section { display: none !important; }
-
-      #timeline-output { display: block !important; }
-
-      .planner-card { box-shadow: none; padding: 0; margin: 0; }
-
-      .step-card { break-inside: avoid; }
-
-      details { border: 1px solid #ccc; }
-
-      details[open] .docs-list { display: flex; }
-
-      body { font-size: 12px; }
-    }
-  </style>
-</head>
-<body>
-
-<input type="checkbox" id="nav-toggle" aria-hidden="true">
-
-<header>
-  <div class="header-inner">
-    <a href="/" class="logo" aria-label="Expat Netherlands Hub — home">
-      <svg class="logo-icon" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><circle cx="12" cy="12" r="9"/><path d="M12 3a15 15 0 0 1 0 18M12 3a15 15 0 0 0 0 18M3 12h18"/></svg>
-      <span class="logo-text">expatnetherlandshub<span>.com</span></span>
-    </a>
-    <ul class="primary-nav" role="navigation" aria-label="Main navigation">
-      <li class="nav-item"><span class="nav-link">Tools <span class="nav-arrow">&#9660;</span></span><div class="mega-menu"><div class="mega-cols mega-cols-3"><div class="mega-col"><div class="mega-col-title">Financial Tools</div><ul><li><a href="/tools/30-percent-ruling-calculator/">30% Ruling Calculator</a></li><li><a href="/tools/salary-checker/">Net Salary Calculator</a></li><li><a href="/tools/housing-budget-checker/">Rent Affordability Calculator</a></li></ul></div><div class="mega-col"><div class="mega-col-title">Registration Tools</div><ul><li><a href="/tools/visa-permit-finder/">Visa Check</a></li><li><a href="/tools/bsn-planner/">BSN Registration Guide</a></li><li><a href="/tools/diploma-evaluator/">Diploma Recognition Guide</a></li></ul></div><div class="mega-col"><div class="mega-col-title">Insurance &amp; Banking</div><ul><li><a href="/tools/health-insurance-wizard/">Health Insurance Comparison</a></li><li><a href="/tools/bank-account-chooser/">Bank Account Comparison</a></li><li><a href="/tools/insurance-chooser/">Expat Insurance Comparison</a></li><li><a href="/tools/">All Tools &rarr;</a></li></ul></div></div></div></li>
-      <li class="nav-item"><span class="nav-link">Guides <span class="nav-arrow">&#9660;</span></span><div class="mega-menu"><div class="mega-cols mega-cols-3"><div class="mega-col"><div class="mega-col-title">Money &amp; Admin</div><ul><li><a href="/guides/finance/">Finance &amp; Tax</a></li><li><a href="/guides/legal/">Visa &amp; Legal</a></li><li><a href="/guides/work/">Work &amp; Career</a></li></ul></div><div class="mega-col"><div class="mega-col-title">Living in NL</div><ul><li><a href="/guides/housing/">Housing &amp; Cities</a></li><li><a href="/guides/health/">Health &amp; Insurance</a></li><li><a href="/guides/daily-life/">Daily Life</a></li></ul></div><div class="mega-col"><div class="mega-col-title">Settling In</div><ul><li><a href="/guides/integration/">Integration &amp; Language</a></li><li><a href="/guides/">All Guides &rarr;</a></li></ul></div></div></div></li>
-      <li class="nav-item"><span class="nav-link">Cities <span class="nav-arrow">&#9660;</span></span><div class="mega-menu"><div class="mega-cols mega-cols-1"><div class="mega-col"><div class="mega-col-title">Expat Guides by City</div><div class="city-pills"><a href="/cities/amsterdam/" class="city-pill">Amsterdam</a><a href="/cities/rotterdam/" class="city-pill">Rotterdam</a><a href="/cities/the-hague/" class="city-pill">The Hague</a><a href="/cities/eindhoven/" class="city-pill">Eindhoven</a><a href="/cities/utrecht/" class="city-pill">Utrecht</a><a href="/cities/groningen/" class="city-pill">Groningen</a><a href="/cities/leiden/" class="city-pill">Leiden</a><a href="/cities/maastricht/" class="city-pill">Maastricht</a></div></div></div></div></li>
-      <li class="nav-item"><a href="/guides/daily-life/">Services</a></li>
-      <li class="nav-item"><a href="/about/">About</a></li>
-    </ul>
-    <a href="/tools/30-percent-ruling-calculator/" class="header-cta">30% Calculator &#8594;</a>
-    <label class="hamburger-label" for="nav-toggle" aria-label="Toggle navigation menu"><span></span><span></span><span></span></label>
-  </div>
-  <nav class="mobile-nav" aria-label="Mobile navigation">
-    <div class="mobile-section-title">Tools</div><a href="/tools/30-percent-ruling-calculator/">30% Ruling Calculator</a><a href="/tools/salary-checker/">Net Salary Calculator</a><a href="/tools/housing-budget-checker/">Rent Affordability Calculator</a><a href="/tools/visa-permit-finder/">Visa Check</a><a href="/tools/bsn-planner/">BSN Registration Guide</a><a href="/tools/health-insurance-wizard/">Health Insurance Comparison</a>
-    <div class="mobile-section-title">Guides</div><a href="/guides/finance/">Finance &amp; Tax</a><a href="/guides/health/">Health &amp; Insurance</a><a href="/guides/housing/">Housing &amp; Living</a><a href="/guides/legal/">Legal &amp; Registration</a><a href="/guides/work/">Work &amp; Career</a><a href="/guides/integration/">Integration</a>
-    <div class="mobile-section-title">Cities</div><a href="/cities/amsterdam/">Amsterdam</a><a href="/cities/rotterdam/">Rotterdam</a><a href="/cities/the-hague/">The Hague</a><a href="/cities/eindhoven/">Eindhoven</a><a href="/cities/utrecht/">Utrecht</a><a href="/cities/groningen/">Groningen</a><a href="/cities/leiden/">Leiden</a><a href="/cities/maastricht/">Maastricht</a>
-    <div class="mobile-section-title">More</div><a href="/guides/daily-life/">Services</a><a href="/about/">About</a><a href="/privacy/">Privacy Policy</a>
-  </nav>
-</header>
+</style>
 
 <div class="tool-hero">
   <div class="tool-hero-inner">
@@ -1153,25 +1013,10 @@
 
     </div>
   </section>
-</main>
-
-<footer class="site-footer">
-  <div class="wide">
-    <div class="footer-grid">
-      <div><div class="footer-col-title">Tools</div><ul><li><a href="/tools/30-percent-ruling-calculator/">30% Ruling Calculator</a></li><li><a href="/tools/salary-checker/">Net Salary Calculator</a></li><li><a href="/tools/housing-budget-checker/">Rent Affordability Calculator</a></li><li><a href="/tools/visa-permit-finder/">Visa Check</a></li><li><a href="/tools/bsn-planner/">BSN Registration Guide</a></li><li><a href="/tools/health-insurance-wizard/">Health Insurance Comparison</a></li><li><a href="/tools/bank-account-chooser/">Bank Account Comparison</a></li></ul></div>
-      <div><div class="footer-col-title">Popular Guides</div><ul><li><a href="/guides/legal/">Moving to the Netherlands</a></li><li><a href="/guides/finance/">Banking &amp; Tax Guide</a></li><li><a href="/guides/health/">Health Insurance Guide</a></li><li><a href="/guides/housing/">Finding a Home</a></li><li><a href="/guides/work/">Working in the Netherlands</a></li></ul></div>
-      <div><div class="footer-col-title">Cities</div><ul><li><a href="/cities/amsterdam/">Amsterdam</a></li><li><a href="/cities/rotterdam/">Rotterdam</a></li><li><a href="/cities/the-hague/">The Hague</a></li><li><a href="/cities/eindhoven/">Eindhoven</a></li><li><a href="/cities/utrecht/">Utrecht</a></li><li><a href="/cities/groningen/">Groningen</a></li><li><a href="/cities/leiden/">Leiden</a></li><li><a href="/cities/maastricht/">Maastricht</a></li></ul></div>
-      <div><div class="footer-col-title">About</div><ul><li><a href="/about/">About Sarah</a></li><li><a href="/contact/">Contact</a></li><li><a href="/privacy/">Privacy Policy</a></li><li><a href="/disclaimer/">Disclaimer</a></li></ul></div>
-    </div>
-    <div class="footer-bottom">
-      <p class="footer-disclosure">This site contains affiliate links. We may earn a commission at no extra cost to you. All recommendations are based on honest research and personal experience.</p>
-      <div class="footer-links-bottom"><span>&copy; 2026 Expat Netherlands Hub</span><a href="/privacy/">Privacy</a><a href="/disclaimer/">Disclaimer</a><a href="/contact/">Contact</a></div>
-    </div>
-  </div>
-</footer>
+</div>
 
 <script>
-  // ===========================
+// ===========================
   // DATA
   // ===========================
   const CITY_DATA = {
@@ -1446,6 +1291,3 @@
     document.getElementById('moving-date').value = `${yyyy}-${mm}-${dd}`;
   });
 </script>
-
-</body>
-</html>

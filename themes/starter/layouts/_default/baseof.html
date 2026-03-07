@@ -65,7 +65,7 @@
     "sameAs": []
   }
   </script>
-  {{ else if .IsPage }}
+  {{ else if and .IsPage (ne .Type "tools") }}
   <script type="application/ld+json">
   {
     "@context": "https://schema.org",
@@ -190,12 +190,12 @@
       --expat-primary:       #1B6B4A;
       --expat-primary-light: #2D9B6A;
       --expat-primary-dark:  #145236;
-      --expat-accent:        #B45309;
+      --expat-accent:        #E8832A;
       --expat-accent-light:  #F5A623;
       --expat-bg:            #FAFBF9;
       --expat-card:          #FFFFFF;
       --expat-text:          #1A1A2E;
-      --expat-muted:         #4B5563;
+      --expat-muted:         #6B7280;
       --expat-border:        #E5E7EB;
       --expat-success:       #10B981;
       --expat-warning:       #F59E0B;
@@ -205,7 +205,7 @@
       --primary:      var(--expat-primary);
       --primary-dark: var(--expat-primary-dark);
       --accent:       var(--expat-accent);
-      --accent-hover: #92400E;
+      --accent-hover: #C96B1A;
       --bg:           var(--expat-bg);
       --text:         var(--expat-text);
       --border:       var(--expat-border);
@@ -495,6 +495,7 @@
       padding: 0.55rem 0;
       font-size: 0.95rem;
       border-bottom: 1px solid rgba(255,255,255,0.07);
+      text-decoration: none;
     }
     .mobile-nav a:hover { color: #fff; text-decoration: none; }
     .mobile-nav .mobile-section-title {
@@ -1320,6 +1321,7 @@
                   <li><a href="/tools/visa-permit-finder/">Visa Check</a></li>
                   <li><a href="/tools/bsn-planner/">BSN Registration Guide</a></li>
                   <li><a href="/tools/diploma-evaluator/">Diploma Recognition Guide</a></li>
+                  <li><a href="/tools/inburgering-route-builder/">Inburgering Exam Guide</a></li>
                 </ul>
               </div>
               <div class="mega-col">
@@ -1415,17 +1417,22 @@
       <a href="/tools/30-percent-ruling-calculator/">30% Ruling Calculator</a>
       <a href="/tools/salary-checker/">Net Salary Calculator</a>
       <a href="/tools/housing-budget-checker/">Rent Affordability Calculator</a>
+      <a href="/tools/cost-of-living-calculator/">Cost of Living Calculator</a>
       <a href="/tools/visa-permit-finder/">Visa Check</a>
       <a href="/tools/bsn-planner/">BSN Registration Guide</a>
+      <a href="/tools/diploma-evaluator/">Diploma Recognition Guide</a>
+      <a href="/tools/inburgering-route-builder/">Inburgering Exam Guide</a>
       <a href="/tools/health-insurance-wizard/">Health Insurance Comparison</a>
-      <a href="/tools/cost-of-living-calculator/">Cost of Living Calculator</a>
+      <a href="/tools/bank-account-chooser/">Bank Account Comparison</a>
+      <a href="/tools/insurance-chooser/">Expat Insurance Comparison</a>
       <div class="mobile-section-title">Guides</div>
       <a href="/guides/finance/">Finance &amp; Tax</a>
       <a href="/guides/health/">Health &amp; Insurance</a>
       <a href="/guides/housing/">Housing &amp; Living</a>
-      <a href="/guides/relocation/">Legal &amp; Registration</a>
+      <a href="/guides/legal/">Legal &amp; Registration</a>
       <a href="/guides/work/">Work &amp; Career</a>
-      <a href="/guides/language/">Integration</a>
+      <a href="/guides/daily-life/">Daily Life</a>
+      <a href="/guides/integration/">Integration &amp; Language</a>
       <div class="mobile-section-title">Cities</div>
       <a href="/cities/amsterdam/">Amsterdam</a>
       <a href="/cities/rotterdam/">Rotterdam</a>
@@ -1436,7 +1443,6 @@
       <a href="/cities/leiden/">Leiden</a>
       <a href="/cities/maastricht/">Maastricht</a>
       <div class="mobile-section-title">More</div>
-      <a href="/guides/daily-life/">Services</a>
       <a href="/about/">About</a>
       <a href="/privacy/">Privacy Policy</a>
     </nav>
@@ -1459,11 +1465,14 @@
             <li><a href="/tools/30-percent-ruling-calculator/">30% Ruling Calculator</a></li>
             <li><a href="/tools/salary-checker/">Net Salary Calculator</a></li>
             <li><a href="/tools/housing-budget-checker/">Rent Affordability Calculator</a></li>
+            <li><a href="/tools/cost-of-living-calculator/">Cost of Living Calculator</a></li>
             <li><a href="/tools/visa-permit-finder/">Visa Check</a></li>
             <li><a href="/tools/bsn-planner/">BSN Registration Guide</a></li>
             <li><a href="/tools/health-insurance-wizard/">Health Insurance Comparison</a></li>
             <li><a href="/tools/bank-account-chooser/">Bank Account Comparison</a></li>
-            <li><a href="/tools/cost-of-living-calculator/">Cost of Living Calculator</a></li>
+            <li><a href="/tools/insurance-chooser/">Expat Insurance Comparison</a></li>
+            <li><a href="/tools/diploma-evaluator/">Diploma Recognition Guide</a></li>
+            <li><a href="/tools/inburgering-route-builder/">Inburgering Exam Guide</a></li>
           </ul>
         </div>
 
@@ -1471,11 +1480,13 @@
         <div>
           <div class="footer-col-title">Popular Guides</div>
           <ul>
-            <li><a href="/guides/relocation/">Moving to the Netherlands</a></li>
-            <li><a href="/guides/finance/">Banking &amp; Tax Guide</a></li>
-            <li><a href="/guides/health/">Health Insurance Guide</a></li>
-            <li><a href="/guides/housing/">Finding a Home</a></li>
-            <li><a href="/guides/work/">Working in the Netherlands</a></li>
+            <li><a href="/guides/finance/">Finance &amp; Tax</a></li>
+            <li><a href="/guides/health/">Health &amp; Insurance</a></li>
+            <li><a href="/guides/housing/">Housing &amp; Cities</a></li>
+            <li><a href="/guides/legal/">Visa &amp; Legal</a></li>
+            <li><a href="/guides/work/">Work &amp; Career</a></li>
+            <li><a href="/guides/integration/">Integration &amp; Language</a></li>
+            <li><a href="/guides/daily-life/">Daily Life</a></li>
           </ul>
         </div>
 
