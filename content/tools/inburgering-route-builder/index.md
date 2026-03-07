@@ -77,50 +77,27 @@ layout: "single"
 </script>
 
 <style>
-/* Tool-specific variables (shared vars already in baseof.html) */
-
-
-
-
-
-
-
-
-
-
-
-
+/* Tool-specific CSS variables */
+:root {
+--green: #1B6B4A;
+--green-dark: #145236;
+--orange: #E8832A;
+--orange-dark: #C96B1A;
+--bg: #F8FAF9;
+--card: #FFFFFF;
+--border: #E5E7EB;
+--text: #1A1A1A;
+--text-muted: #6B7280;
+--radius-card: 14px;
+--radius-btn: 10px;
+--shadow-card: 0 2px 12px rgba(0,0,0,.08);
+}
 .nav-arrow { font-size: 0.65rem; opacity: 0.7; transition: transform 0.2s; display: inline-block; }
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 .breadcrumb { font-size: 0.85rem; color: var(--expat-muted); margin-bottom: 1rem; }
 .breadcrumb a { color: var(--expat-muted); text-decoration: none; }
 .breadcrumb a:hover { color: var(--expat-primary); }
-@media (max-width: 768px) {
+
 /* ─── LAYOUT ─── */
 .page-wrap { max-width: 960px; margin: 0 auto; padding: 0 20px; }
 
@@ -307,27 +284,12 @@ pointer-events: none;
 .seo-content td { padding: 9px 14px; border-bottom: 1px solid var(--border); color: var(--text-muted); }
 .seo-content tr:nth-child(even) td { background: var(--bg); }
 
-/* ─── FOOTER ─── */
-
-
-
-
-
-
-
-
-
-
-
-
-
-@media (max-width: 768px) {
-}
-
 /* ─── UTILITIES ─── */
 .hidden { display: none !important; }
 @media (max-width: 768px) {
+.tool-hero::before, .tool-hero::after { display: none; }
 .tool-hero-icon { display: none; }
+.tool-hero h1 { font-size: 1.6rem; }
 .wizard-card { padding: 22px 18px; }
 .seo-content { padding: 24px 18px; }
 .info-cards-grid { grid-template-columns: 1fr; }
@@ -335,7 +297,6 @@ pointer-events: none;
 .cta-bar { flex-direction: column; }
 .step-indicator { gap: 0; }
 .step-line { max-width: 48px; }
-.tool-hero h1 { font-size: 1.6rem; }
 }
 </style>
 
