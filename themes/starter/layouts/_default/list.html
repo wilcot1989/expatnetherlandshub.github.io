@@ -66,8 +66,13 @@
     <article class="card card-grid-item">
       {{/* Thumbnail — use category SVG banner, fall back to gradient */}}
       {{ $cardPage := . }}
-      {{ $cat := .Title | urlize }}
+      {{ $cat := "daily-life" }}
       {{ with .Params.categories }}{{ $cat = index . 0 }}{{ end }}
+      {{/* For taxonomy term pages (on /categories/), extract slug from URL */}}
+      {{ if not .Params.categories }}
+        {{ $slug := path.Base (strings.TrimSuffix "/" .RelPermalink) }}
+        {{ if and $slug (ne $slug "/") (ne $slug ".") }}{{ $cat = $slug }}{{ end }}
+      {{ end }}
       {{ $svgPath := printf "/images/categories/%s.svg" $cat }}
       {{ $svgFile := printf "static/images/categories/%s.svg" $cat }}
       {{ if (fileExists $svgFile) }}
