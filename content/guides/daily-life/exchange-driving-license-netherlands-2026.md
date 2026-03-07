@@ -281,7 +281,7 @@ Exchanging your driving licence is one of those relocation tasks that sounds mor
 
 If your country is on the exchange list, the whole process is manageable in a single municipality appointment plus a few weeks of waiting. If you need the full Dutch exam, budget several months and take proper lessons. Either way, it is entirely doable.
 
-Driving here opens up a different side of the Netherlands — day trips to the countryside, easier IKEA runs, visits to smaller towns that the train does not reach. Worth sorting out properly.
+The one thing to do first: check the [RDW exchange list](https://www.rdw.nl) to confirm whether your country is on it. That single check determines your entire path — either a gemeente appointment and a few weeks' wait, or a CBR exam that takes months to prepare for. Once you know which route you are on, book your gemeente appointment immediately. Waiting lists in larger cities run two to four weeks, and the 185-day clock does not pause while you wait.
 
 For related expat admin, I recommend my guides on [getting your BSN number](/guides/legal/bsn-registration-guide-2026/), [setting up DigiD](/guides/legal/digid-guide-expats-2026/), and [registering your car](/guides/daily-life/register-car-netherlands-expat-2026/). And if you are still working through the financial side of settling in, the [cost of living guide for the Netherlands](/guides/housing/cost-of-living-netherlands-2026/) is a useful reference.
 

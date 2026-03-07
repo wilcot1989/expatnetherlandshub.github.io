@@ -60,6 +60,36 @@ This tier involves proper psychological or psychiatric assessment and treatment.
 
 ---
 
+## What to Do While You Are Waiting
+
+The hardest part of the Dutch mental health system is not finding it — it is the wait. Specialist GGZ can take six months or more from referral to first appointment. That is a long time to be struggling without structured support. Here is what actually helps in the gap.
+
+**POH-GGZ sessions at your GP practice**
+
+This is the one most people overlook. Ask your GP explicitly whether their practice has a POH-GGZ and whether they speak English. If they do, you can often get an appointment within a few weeks — sometimes faster. These sessions are free under your basic insurance (no eigen risico applies), and they are designed for exactly the kind of adjustment difficulties, low mood, and anxiety that expats commonly experience. Four to eight sessions with a skilled POH-GGZ can make a real difference while you wait for specialist care, or may resolve the issue entirely.
+
+**Online therapy as a bridge**
+
+BetterHelp and Talkspace are both available in the Netherlands and let you choose an English-speaking therapist quickly — sometimes within days. They are not covered by Dutch insurance, and the cost adds up (around €200–€350 per month), but if you need someone to talk to consistently while the Dutch system catches up, they are a legitimate option. iPractice and OpenUp, which are Dutch-based and sometimes insurance-covered, are also worth contacting during this period — waiting lists vary by therapist, and a shorter wait may be available than the referral letter suggests.
+
+**Self-help apps**
+
+Headspace and Calm have solid evidence bases for mild anxiety and stress. Woebot, a CBT-based chatbot, is free and has been shown in research to reduce symptoms of depression and anxiety in mild cases. None of these replace a therapist, but used consistently they are more useful than doing nothing.
+
+**Expat support groups**
+
+ACCESS (accessnl.com) is specifically set up for internationals in the Netherlands and offers peer support, workshops, and referrals. International Women's Clubs exist in most cities. Meetup groups built around shared activities — running, language exchange, hiking — are underrated as mental health tools, because regular social contact with a purpose is one of the more reliable ways to reduce the specific isolation that expats experience.
+
+**Exercise**
+
+I know this sounds like advice from a well-meaning aunt. But the evidence for exercise as an intervention for mild-to-moderate depression and anxiety is genuinely strong — comparable to medication in some studies for mild presentations. Your GP can formally prescribe a *beweegkuur* (exercise prescription), which connects you to supervised physical activity through a physiotherapist. It is covered by some aanvullende insurance policies. Worth asking about.
+
+**If you feel unsafe**
+
+Do not wait. Go to the *huisartsenpost* (after-hours GP, open evenings and weekends) or call **113** (Suicide Prevention, free, 24/7). The six-month waiting list does not apply to crisis care. If there is immediate danger, call **112**.
+
+---
+
 ## Getting a Referral Through Your GP
 
 The referral process is simpler than it sounds, but it does require you to be open with your huisarts. Many expats — myself included at first — downplay their symptoms in the GP's office because they worry about being dramatic or don't have the Dutch vocabulary to explain how they feel.
@@ -254,9 +284,9 @@ Mental health support in the Netherlands is genuinely accessible — more so tha
 5. **Look into what your employer offers.** An EAP can give you access to immediate, free, English-language support.
 6. **Find your community.** Professional support and social connection work together, not in isolation.
 
-Moving to a new country is one of the more demanding things a person can do. It asks you to be brave, patient, and adaptable — simultaneously and indefinitely. That takes a toll, and it's allowed to take a toll.
+The most common thing I hear from expat clients who finally sought help is some version of: "I wish I had done this earlier." Not because the system is fast or simple — it is neither — but because waiting until things became acute meant they lost months they did not need to lose.
 
-You're not struggling because you're weak. You're struggling because you're doing something hard. There is support here, and you deserve to use it.
+If I could give one piece of practical advice based on what I have seen work: make the GP appointment now, before you feel like you need it urgently. Ask about the POH-GGZ. Save 113 in your phone. And if your employer has an EAP, use it — that is what it is there for. The Dutch system has more support than most expats realise; the main barrier is usually knowing what to ask for.
 
 ---
 

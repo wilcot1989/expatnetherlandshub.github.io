@@ -175,25 +175,31 @@ Once inside, wait to be told where to sit. Dutch living rooms often have designa
 
 ## Workplace Etiquette
 
-The Dutch workplace is, in many ways, a relief after more hierarchical work cultures. Your manager is likely to be on first-name terms with you from day one. Decisions are often made by consensus — *vergadering* (meeting) culture is real — and junior employees are genuinely expected to voice opinions.
+The Dutch workplace is where many expats have their sharpest culture shocks — precisely because it looks familiar on the surface and then behaves in ways that catch you off guard.
 
-But there are still unwritten rules:
+**Flat hierarchy, but not absent hierarchy**
 
-**What works well:**
-- Saying what you think, clearly and without excessive hedging
-- Asking for help or clarification directly
-- Being prepared for meetings — Dutch meetings have agendas and stick to them
-- Taking proper lunch breaks away from your desk (eating lunch at your desk while working is less common than in the UK or US)
+Your manager will likely be on first-name terms with you from day one. Junior staff are expected to speak up in meetings. Nobody is performing status. But this is not the same as everyone having equal power — it means that authority is exercised through argument and consensus rather than rank. If you expect your manager to simply tell everyone what to do, or to protect you from dissent, you will be disappointed. You are expected to defend your own positions.
 
-**What does not:**
-- Overpromising and underdelivering
-- Being vague about timelines
-- Arriving late to meetings consistently
-- Expecting informal socialising to substitute for actual performance
+**The overleg culture**
 
-The Dutch separate professional respect from personal warmth. Someone can think highly of your work and still find you difficult to get close to outside office hours. This is not a contradiction — it is just how things are structured.
+*Overleg* means consultation, and Dutch workplaces run on it. Decisions are not made top-down. Before anything significant is agreed, people are consulted, views are gathered, objections are aired. This can feel slow, especially if you are used to decisive leadership. The upside is that once a decision is made, everyone is actually on board with it — because they all had a chance to object first.
 
-My [Dutch work culture guide](/guides/work/dutch-work-culture-guide-expats-2026/) goes deeper on consensus decision-making, the *poldermodel*, and how to thrive in Dutch professional settings specifically.
+**Feedback is direct and it is not personal**
+
+If a Dutch colleague tells you your report needs work, or that your approach to a client meeting was wrong, they are not being hostile. They are giving you information they think you need. The instinct to read criticism as a relationship problem will lead you astray. Receive it plainly, respond to the substance, and move on. Equally, when you give feedback, say what you mean. Wrapping a problem in three layers of positive framing before naming it is confusing to Dutch colleagues — they will often miss the actual message.
+
+**Email and communication culture**
+
+Dutch work emails are short. A three-line email is not rude — it is efficient. Do not read coldness into brevity. Equally, if you receive a reply that skips the pleasantries and gets straight to the point, that is the Dutch version of a normal professional message.
+
+**Boundaries around time**
+
+Saying no when you are overloaded is not only acceptable — it is expected. Dutch colleagues will tell you when they cannot take on more work, and they expect you to do the same. Silently absorbing too much and then delivering late is far more damaging to your reputation than an honest "I can't fit this in by Thursday."
+
+The 17:00 boundary is real. Sending emails to colleagues at 21:00, or on weekends, implies that you expect a response — and most Dutch professionals resent that implication. If you are a night owl, either schedule your emails to arrive during working hours or accept that replies will come the next morning.
+
+For the full picture on Dutch professional culture — including the *poldermodel*, how performance reviews work, and what Dutch colleagues actually mean when they say "that is interesting" — the [Dutch work culture guide](/guides/work/dutch-work-culture-guide-expats-2026/) covers it in depth.
 
 ---
 
@@ -267,9 +273,9 @@ If you are earlier in the process — still figuring out the legalities, the hou
 
 For those working through formal integration requirements, the [inburgering route builder tool](/tools/inburgering-route-builder/) helps map the official steps based on your personal situation.
 
-The social etiquette is learnable. The directness becomes a relief. And one day, without noticing, you will arrive at a birthday party and automatically start working your way around the room, kissing strangers on three alternating cheeks, congratulating them warmly for someone else's birthday.
+The social etiquette here is learnable, and most of it follows a logic once you understand the underlying values: honesty, fairness, punctuality, and a strong preference for saying what you mean. The mistakes I made in my first year were not because Dutch culture is hostile — they were because I kept applying the wrong interpretive framework. Once I stopped reading directness as aggression and silence as rejection, most interactions became considerably easier.
 
-That is when you will know you have made it.
+One last thing worth saying: if you break a rule, acknowledge it simply and move on. Dutch people are not looking to shame you for not knowing the three-kiss protocol or the birthday circle. They are, however, watching to see how you respond when you get it wrong. Owning a mistake directly — without excessive apology or self-flagellation — is itself very Dutch, and will do more for your standing than getting everything right from the start.
 
 ---
 

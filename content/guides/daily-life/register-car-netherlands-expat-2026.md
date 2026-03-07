@@ -303,6 +303,8 @@ I know this sounds unhelpful in a guide about registering cars, but Dutch infras
 
 The Dutch system is thorough and, once you understand it, logical. The main pitfall is not knowing about BPM before you start. Everything else is process.
 
+One practical tip before you buy anything: if you are considering a used car from a private seller, book an APK check first — it costs around €30 and takes an hour. A car that fails will need repairs before it can legally be driven, and the seller is under no obligation to cover that cost once you have signed. Thirty euros spent before you commit can save you from a bill ten times larger after.
+
 For questions around taxes more broadly — including how car costs interact with income tax and the 30% ruling — the [Dutch tax system guide for expats](/guides/finance/dutch-tax-system-expats-guide-2026/) is worth reading before you make any large financial decisions here.
 
 ---

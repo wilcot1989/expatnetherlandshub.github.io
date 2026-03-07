@@ -205,12 +205,24 @@ I see the same errors come up repeatedly with toeslagen. Most of them are avoida
 **1. Not applying at all**
 Many expats assume they do not qualify. They see toeslagen as "Dutch only" benefits or assume their salary is too high. Always check. The income thresholds are broader than people think, especially with the 30% ruling in play.
 
-**2. Underestimating or overestimating your income**
-When you apply, you enter an estimated income for the current year. The Belastingdienst pays your allowance based on this estimate. When your actual tax return is processed the following year, they reconcile the two figures.
+**2. The terugvordering problem — and how to avoid it**
 
-If you estimated too low and your actual income was higher, you owe the difference back. This is called a *terugvordering* (clawback), and it can amount to hundreds or even thousands of euros, depending on how far off the estimate was.
+This is the one that catches people most off guard, so it deserves a proper explanation.
 
-If you get a pay rise, a bonus, or any other income increase during the year, update your income estimate in Mijn Toeslagen *immediately*. You can do this at any time and it takes about two minutes.
+When you apply for toeslagen, you enter an estimated income for the current year. The Belastingdienst pays your monthly allowance based on that estimate throughout the year. After the year ends, they reconcile the estimate against your actual taxable income from your tax return. If your actual income was higher than your estimate, they reclaim the difference. This is called a *terugvordering* (clawback), and it arrives as a formal repayment demand.
+
+These repayments are not small. A repayment of EUR 500 to EUR 2,000 or more is common, particularly for expats who underestimated their income at the start of the year. Common triggers include:
+
+- A mid-year salary increase or promotion
+- A year-end bonus that was not accounted for in the estimate
+- A partner moving in who earns income — their income is included in the combined toetsingsinkomen from the moment they register at your address
+- A side income that you did not initially factor in
+
+**What to do if you have already received a terugvordering letter:** Do not ignore it. The Belastingdienst expects payment within six weeks. However, if the amount is too large to pay in one go, you can request a payment plan (gespreide betaling) via Mijn Toeslagen. They will typically allow you to pay in monthly instalments, though interest may apply on deferred payments.
+
+**The December deadline:** Each year, 1 December is the last date on which you can adjust your income estimate for the current calendar year and have it applied to your ongoing allowance payments. After 1 December, your estimate is locked for the year. Any underpayments will still be resolved at reconciliation, but you cannot reduce your monthly payments after that date. Mark it in your calendar.
+
+**How to avoid a terugvordering:** The simplest rule is this — update your income estimate in Mijn Toeslagen the moment anything changes. A pay rise, a bonus confirmation, a partner starting work. It takes two minutes to adjust, and updating early will reduce or eliminate the year-end repayment demand entirely. If you are unsure whether a particular income change affects your estimate, err on the side of updating upward. Overpaying slightly throughout the year is far less painful than a large lump-sum demand in spring.
 
 **3. Not reporting a toeslagpartner**
 If you are registered at the same address as a partner, the Belastingdienst may automatically link your incomes as a "toeslagpartner." If you do not declare this correctly, you risk miscalculating your entitlement — and being asked to pay back a significant amount.
@@ -267,7 +279,7 @@ Here is what to do now:
 - [ ] Set a reminder to update your income estimate if your salary changes during the year
 - [ ] Review your [full Dutch tax position for 2026](/guides/finance/dutch-tax-system-expats-guide-2026/)
 
-Toeslagen are not complicated once you understand the system. The main thing that catches people out is the income reconciliation at year-end. Keep your estimate accurate, update it promptly when things change, and you will be fine.
+The single most useful thing I can tell you is this: set a phone reminder for the first of every month to check whether anything has changed — salary, partner's income, rental situation. Toeslagen are paid based on estimates, and the year-end reconciliation is unforgiving. Keeping your estimate current takes two minutes and will save you from an unexpected repayment demand that arrives when you least want it.
 
 If your situation involves the 30% ruling, a partner who also works, or you are not sure whether your rental property qualifies, it is worth a short conversation with a tax advisor who works with expats. A one-hour session can easily pay for itself many times over.
 

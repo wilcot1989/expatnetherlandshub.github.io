@@ -29,9 +29,9 @@ faq:
     answer: "The Netherlands requires a formal naturalisation ceremony at your municipality. You take a solemn declaration (plechtige verklaring) affirming your commitment to the Netherlands and its values. This is not optional — if you skip it without a valid reason, your naturalisation is void. Most municipalities make it a pleasant occasion, often with a small speech and a copy of the Dutch constitution."
 ---
 
-I remember the exact moment one of my clients — a software engineer from India who had lived in Amsterdam for six years — called me in tears. Not sad tears. She had just come back from the town hall, Dutch passport in hand, and she was overwhelmed. "Sarah," she said, "I feel like I actually belong here now."
+Over the past ten years, I've helped dozens of expats through the Dutch naturalisation process. I've sat in municipality waiting rooms, chased apostilled documents across three continents, and talked people through the dual nationality decision at midnight when they were panicking about what renunciation actually means.
 
-I've helped dozens of expats through the Dutch naturalisation process. It is, I won't lie to you, a paperwork marathon with some genuinely confusing rules. The dual nationality situation alone sends people into a spin. But it is absolutely doable, and for many people who've built their lives here, it is worth every form, every appointment, and yes, every euro of the leges.
+What I can tell you with confidence is this: the process is a genuine paperwork marathon. The rules have real grey areas. But it is absolutely doable, and for most people who've built their lives in the Netherlands, it is worth every form, every appointment, and yes, every euro of the leges.
 
 This guide covers everything: who qualifies, what the process looks like, the dreaded dual nationality question, the option procedure for those who qualify, costs, timelines, documents, and the mistakes I see people make over and over. By the end, you'll know exactly where you stand and what your next step is.
 
@@ -88,7 +88,32 @@ Alternatively, you can demonstrate your language level by showing:
 - A DALF or other recognised language certificate at B1 or higher
 - You attended primary or secondary school in the Netherlands for at least eight years
 
-I always recommend my clients start preparing for the inburgering exam well before they intend to apply for nationality. A good 12 to 18 months of dedicated study is realistic for most people. My [inburgering route builder tool](/tools/inburgering-route-builder/) can help you figure out which route suits your situation. For course recommendations, see [the best Dutch language courses in 2026](/guides/integration/best-dutch-language-courses-2026/) and my [full inburgeringsexamen preparation guide](/guides/integration/inburgeringsexamen-preparation-guide-2026/).
+### What the Inburgeringsexamen Actually Tests
+
+There are six components, and you must pass each one:
+
+- **KNM** (Kennis van de Nederlandse Maatschappij) — knowledge of Dutch society, history, politics, and everyday customs
+- **Leesvaardigheid** (reading) — understanding written Dutch texts at B1 level
+- **Schrijfvaardigheid** (writing) — producing written Dutch at B1 level
+- **Luistervaardigheid** (listening) — understanding spoken Dutch
+- **Spreekvaardigheid** (speaking) — answering questions and holding a basic conversation, assessed via a phone-based system
+- **ONA** (Oriëntatie op de Nederlandse Arbeidsmarkt) — a portfolio-based component about your place in the Dutch job market
+
+You do not sit all six in one sitting. Each is a separate exam, booked and taken at a DUO exam centre.
+
+**Pass rates and retakes:** For well-prepared candidates, pass rates are around 90%. If you fail an individual component, you retake only that component — you do not need to redo the ones you have already passed. The retake fee is roughly €290 per attempt, which adds up quickly if you are underprepared for the speaking section in particular. That one surprises people because it is automated rather than with a live examiner, which takes some adjustment.
+
+**Exemptions:** You do not need to sit the inburgeringsexamen if you:
+- Hold a Dutch diploma from an MBO, HBO, or WO programme taught in Dutch (the key word is *taught in Dutch* — an English-medium Dutch degree does not count)
+- Hold a state exam NT2 (Dutch as a Second Language) diploma at programme I or II level
+- Are aged 67 or older
+- Attended school in the Netherlands for at least eight years
+
+**What "equivalent qualification" means:** An HBO or WO degree taught in Dutch counts as proof of civic integration. It is not about where you studied — it is about the language of instruction. If your Dutch university programme was English-medium, you still need the inburgering exam.
+
+**Cost:** The DUO exam fee is approximately €290 per attempt. Language courses on top of this can run anywhere from €500 to €3,000 depending on the provider and your starting level.
+
+**My advice:** Start preparing 12 to 18 months before you intend to apply for naturalisation. The speaking component in particular takes longer to develop than people expect. My [full inburgeringsexamen preparation guide](/guides/integration/inburgeringsexamen-preparation-guide-2026/) covers the best study approaches in detail. My [inburgering route builder tool](/tools/inburgering-route-builder/) can help you figure out which path fits your situation.
 
 If you are at the early stages of learning Dutch, [Babbel vs Duolingo for learning Dutch](/guides/integration/babbel-vs-duolingo-learn-dutch-2026/) is a useful starting point, and I also have a roundup of [the best apps to learn Dutch in 2026](/guides/integration/best-apps-learn-dutch-2026/).
 
@@ -389,11 +414,9 @@ Here is what I suggest you do next:
 
 6. **Book a pre-application consultation at your municipality.** Most offer them, many are free, and they can save you from costly mistakes.
 
-The first time I saw a client at their naturalisation ceremony, standing up to make the solemn declaration, I understood why so many people find this day unexpectedly moving. The Netherlands is not always the easiest country to live in — the directness takes getting used to, the bureaucracy can be maddening, and don't get me started on Dutch weather. But when you make it official, you make it home. That's worth something.
+One last practical note: of all the things that cause delays in this process, apostilled documents are the biggest. Birth certificates from India, Morocco, Turkey, Egypt, and China in particular can take weeks or months to obtain, and the apostille or legalisation on top adds more time. Start collecting and legalising your documents now — well before you think you need them. Everything else in this process has a workaround or a fast-track option. The foreign birth certificate does not.
 
-If you are just starting your journey in the Netherlands, the [complete guide to moving to the Netherlands](/guides/legal/complete-guide-moving-to-netherlands-2026/) covers all the first steps. And if you want to understand the full expat legal framework, check the [highly skilled migrant visa guide](/guides/legal/highly-skilled-migrant-visa-netherlands-2026/) for context on how residency permits evolve into permanent residence and eventually nationality.
-
-Good luck. The Dutch bureaucracy is slow, but it does eventually move. So will you.
+If you are just starting your journey in the Netherlands, the [complete guide to moving to the Netherlands](/guides/legal/complete-guide-moving-to-netherlands-2026/) covers all the first steps. And if you want to understand the full expat legal framework, the [highly skilled migrant visa guide](/guides/legal/highly-skilled-migrant-visa-netherlands-2026/) has the context on how residency permits evolve into permanent residence and eventually nationality.
 
 ---
 

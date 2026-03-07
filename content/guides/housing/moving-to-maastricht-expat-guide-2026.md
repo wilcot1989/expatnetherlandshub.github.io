@@ -230,13 +230,11 @@ The expat social scene is active and largely centred around UM and the various i
 
 ## Conclusion
 
-Maastricht will not suit every expat. If your priority is career opportunities, fast connections to major business hubs, or the kind of social scene that runs 24 hours a day, you might find it too small and too far south.
+Maastricht will not suit every expat. If your priority is career opportunities or fast connections to Randstad business hubs, you may find it too small and too far south. Be honest with yourself about the job market before you commit.
 
-But if you are after a place where you can actually live — where the terraces fill up on spring evenings, where cycling to work takes ten minutes, where your neighbours include academics from thirty countries and locals who have been making cheese since before the Dutch Republic existed — then Maastricht deserves to be at the top of your list.
+If the lifestyle trade-off works for you, here is what to do first: confirm you have either a job offer or a solid remote work arrangement, then book a viewing trip to see two or three neighbourhoods in person — Wyck, Jekerkwartier, and Randwyck feel very different at street level. Once you have an address, your first appointment is at Gemeente Maastricht to register and get your BSN.
 
-I nearly moved to Utrecht. I am very glad I did not.
-
-If you are in the early stages of planning your move, start with the [complete guide to moving to the Netherlands](/guides/legal/complete-guide-moving-to-netherlands-2026/) and work outwards from there. And if you have questions about Maastricht specifically, the expat community here is genuinely welcoming. That, perhaps more than anything, is what makes it worth considering.
+Start with the [complete guide to moving to the Netherlands](/guides/legal/complete-guide-moving-to-netherlands-2026/) to get the legal and admin timeline straight, then use the [BSN planner tool](/tools/bsn-planner/) to work out your registration sequence. The expat community here is active and easy to find once you arrive — but the practical steps come first.
 
 ---
 

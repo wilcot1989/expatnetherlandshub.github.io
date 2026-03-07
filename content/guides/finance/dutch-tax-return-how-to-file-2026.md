@@ -306,6 +306,4 @@ If you're new to all of this, I'd genuinely recommend starting with my [overview
 
 And if your situation is at all complex — multiple countries, self-employment, 30% ruling transitions — spend the money on a good tax advisor. The fee is deductible in some circumstances, and the peace of mind is worth it either way.
 
-The Netherlands is expensive to live in — the [cost of living overview](/guides/housing/cost-of-living-netherlands-2026/) makes that very clear — but the tax system, once you understand it, has enough deductions and structures that you can manage your liability sensibly. Getting your return right is part of that.
-
 Good luck with this year's aangifte. Mine's already submitted.
