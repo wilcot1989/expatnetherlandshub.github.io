@@ -37,7 +37,7 @@ background: radial-gradient(circle, rgba(45,155,106,0.15) 0%, transparent 70%);
 pointer-events: none;
 }
 .tool-hero-inner { max-width: 1100px; margin: 0 auto; position: relative; z-index: 1; }
-.tool-hero-content { display: flex; align-items: center; justify-content: space-between; gap: 2rem; }
+.tool-hero-content { display: flex; align-items: center; justify-content: space-between; gap: 2rem; flex-wrap: wrap; }
 .tool-hero-text { flex: 1; }
 .tool-hero-icon { width: 100px; height: 100px; flex-shrink: 0; color: rgba(255,255,255,0.25); }
 .tool-hero-icon svg { width: 100%; height: 100%; }
@@ -183,29 +183,43 @@ SEO CONTENT
 /* ============================================================
 RESPONSIVE
 ============================================================ */
+/* Prevent horizontal overflow on mobile */
+.page-body, .tool-hero { max-width: 100vw; overflow-x: hidden; }
+
 @media (max-width: 860px) {
 .tool-grid { grid-template-columns: 1fr; }
 }
 @media (max-width: 768px) {
 .data-table { display: block; overflow-x: auto; -webkit-overflow-scrolling: touch; }
 .data-table th, .data-table td { white-space: nowrap; padding: 0.5rem 0.65rem; font-size: 0.82rem; }
+.tool-hero-icon { display: none; }
 }
 @media (max-width: 600px) {
 .tool-hero { padding: 2rem 1rem 1.75rem; }
 .page-body { padding: 1.5rem 1rem 3rem; }
 .card { padding: 1.25rem; }
-.tool-hero h1 { font-size: 1.65rem; }
-.total-cost-value { font-size: 2.4rem; }
+.tool-hero h1 { font-size: 1.5rem; }
+.tool-hero .hero-subtitle { font-size: 0.92rem; }
+.hero-badge { font-size: 0.72rem; }
+.total-cost-value { font-size: 2.2rem; }
 .radio-group { flex-direction: column; gap: 0.4rem; }
 .radio-group label { justify-content: flex-start; padding: 0.6rem 1rem; font-size: 0.88rem; }
-
-
+.checkbox-group label { font-size: 0.85rem; }
 .comp-row-label { font-size: 0.82rem; }
-.cta-affiliate { font-size: 0.85rem; padding: 0.75rem 0.9rem; }
-.hero-badge { font-size: 0.72rem; }
-.tool-hero .hero-subtitle { font-size: 0.95rem; }
+.cta-affiliate { font-size: 0.85rem; padding: 0.75rem 0.9rem; flex-wrap: wrap; gap: 0.4rem; }
 .breakdown-table { font-size: 0.85rem; }
+.breakdown-table td { padding: 0.4rem 0; }
+.cost-list li { font-size: 0.82rem; }
+.sidebar-card h2 { font-size: 0.92rem; }
 select { font-size: 16px; }
+.form-group label { font-size: 0.87rem; }
+.btn-calculate { font-size: 0.95rem; padding: 0.85rem; }
+}
+@media (max-width: 380px) {
+.tool-hero h1 { font-size: 1.3rem; }
+.card { padding: 1rem; }
+.total-cost-value { font-size: 1.9rem; }
+.page-body { padding: 1rem 0.75rem 2.5rem; }
 }
 
 /* Print */
