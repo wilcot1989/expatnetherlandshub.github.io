@@ -301,6 +301,14 @@ layout: "single"
     if css:
         md += f'<style>\n{css}\n</style>\n\n'
 
+    # Strip leading indentation from body HTML to prevent CommonMark
+    # from treating 4+ space indented lines as code blocks
+    body_lines = body.split('\n')
+    body = '\n'.join(
+        '' if line.strip() == '' else line.lstrip()
+        for line in body_lines
+    )
+
     # Add body
     md += body + '\n'
 

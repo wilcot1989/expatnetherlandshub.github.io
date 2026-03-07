@@ -7,883 +7,883 @@ layout: "single"
 
 <style>
 /* ============================================================
-       HERO
-    ============================================================ */
-    .tool-hero {
-      background:
-        url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='80' height='80'%3E%3Ccircle cx='40' cy='40' r='1.5' fill='%23ffffff' opacity='0.07'/%3E%3Ccircle cx='0' cy='0' r='1' fill='%23ffffff' opacity='0.05'/%3E%3Ccircle cx='80' cy='0' r='1' fill='%23ffffff' opacity='0.05'/%3E%3Ccircle cx='0' cy='80' r='1' fill='%23ffffff' opacity='0.05'/%3E%3Ccircle cx='80' cy='80' r='1' fill='%23ffffff' opacity='0.05'/%3E%3Cpath d='M0 40h80M40 0v80' stroke='%23ffffff' stroke-width='0.3' opacity='0.04'/%3E%3C/svg%3E"),
-        linear-gradient(135deg, var(--expat-primary-dark) 0%, var(--expat-primary) 50%, #2D9B6A 100%);
-      color: #fff;
-      padding: 3rem 1.5rem 2.5rem;
-      position: relative;
-      overflow: hidden;
-    }
-    .tool-hero::before {
-      content: '';
-      position: absolute;
-      top: -50%; right: -20%;
-      width: 500px; height: 500px;
-      border-radius: 50%;
-      background: radial-gradient(circle, rgba(232,131,42,0.12) 0%, transparent 70%);
-      pointer-events: none;
-    }
-    .tool-hero::after {
-      content: '';
-      position: absolute;
-      bottom: -40%; left: -15%;
-      width: 400px; height: 400px;
-      border-radius: 50%;
-      background: radial-gradient(circle, rgba(45,155,106,0.15) 0%, transparent 70%);
-      pointer-events: none;
-    }
-    .tool-hero-inner { max-width: 1100px; margin: 0 auto; position: relative; z-index: 1; }
-    .tool-hero-content { display: flex; align-items: center; justify-content: space-between; gap: 2rem; }
-    .tool-hero-text { flex: 1; }
-    .tool-hero-icon { width: 100px; height: 100px; flex-shrink: 0; color: rgba(255,255,255,0.25); }
-    .tool-hero-icon svg { width: 100%; height: 100%; }
-    .tool-hero .breadcrumb { margin-bottom: 1rem; font-size: 0.85rem; }
-    .tool-hero .breadcrumb, .tool-hero .breadcrumb a { color: rgba(255,255,255,0.7); text-decoration: none; }
-    .tool-hero .breadcrumb a:hover { color: #fff; }
-    .tool-hero h1 { font-family: 'DM Sans', sans-serif; font-size: 2.1rem; font-weight: 700; color: #fff; margin-bottom: 0.6rem; max-width: 700px; letter-spacing: -0.02em; line-height: 1.2; }
-    .tool-hero .hero-subtitle { color: rgba(255,255,255,0.85); font-size: 1.1rem; margin-bottom: 0; max-width: 580px; }
-    .tool-hero .meta { color: rgba(255,255,255,0.7); font-size: 0.85rem; margin-top: 0.75rem; }
-    .hero-badge { display: inline-block; background: rgba(232,131,42,0.2); border: 1px solid rgba(232,131,42,0.5); color: #F5A623; font-size: 0.8rem; font-weight: 600; letter-spacing: 0.05em; text-transform: uppercase; padding: 0.3rem 0.9rem; border-radius: 20px; margin-bottom: 1rem; }
+HERO
+============================================================ */
+.tool-hero {
+background:
+url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='80' height='80'%3E%3Ccircle cx='40' cy='40' r='1.5' fill='%23ffffff' opacity='0.07'/%3E%3Ccircle cx='0' cy='0' r='1' fill='%23ffffff' opacity='0.05'/%3E%3Ccircle cx='80' cy='0' r='1' fill='%23ffffff' opacity='0.05'/%3E%3Ccircle cx='0' cy='80' r='1' fill='%23ffffff' opacity='0.05'/%3E%3Ccircle cx='80' cy='80' r='1' fill='%23ffffff' opacity='0.05'/%3E%3Cpath d='M0 40h80M40 0v80' stroke='%23ffffff' stroke-width='0.3' opacity='0.04'/%3E%3C/svg%3E"),
+linear-gradient(135deg, var(--expat-primary-dark) 0%, var(--expat-primary) 50%, #2D9B6A 100%);
+color: #fff;
+padding: 3rem 1.5rem 2.5rem;
+position: relative;
+overflow: hidden;
+}
+.tool-hero::before {
+content: '';
+position: absolute;
+top: -50%; right: -20%;
+width: 500px; height: 500px;
+border-radius: 50%;
+background: radial-gradient(circle, rgba(232,131,42,0.12) 0%, transparent 70%);
+pointer-events: none;
+}
+.tool-hero::after {
+content: '';
+position: absolute;
+bottom: -40%; left: -15%;
+width: 400px; height: 400px;
+border-radius: 50%;
+background: radial-gradient(circle, rgba(45,155,106,0.15) 0%, transparent 70%);
+pointer-events: none;
+}
+.tool-hero-inner { max-width: 1100px; margin: 0 auto; position: relative; z-index: 1; }
+.tool-hero-content { display: flex; align-items: center; justify-content: space-between; gap: 2rem; }
+.tool-hero-text { flex: 1; }
+.tool-hero-icon { width: 100px; height: 100px; flex-shrink: 0; color: rgba(255,255,255,0.25); }
+.tool-hero-icon svg { width: 100%; height: 100%; }
+.tool-hero .breadcrumb { margin-bottom: 1rem; font-size: 0.85rem; }
+.tool-hero .breadcrumb, .tool-hero .breadcrumb a { color: rgba(255,255,255,0.7); text-decoration: none; }
+.tool-hero .breadcrumb a:hover { color: #fff; }
+.tool-hero h1 { font-family: 'DM Sans', sans-serif; font-size: 2.1rem; font-weight: 700; color: #fff; margin-bottom: 0.6rem; max-width: 700px; letter-spacing: -0.02em; line-height: 1.2; }
+.tool-hero .hero-subtitle { color: rgba(255,255,255,0.85); font-size: 1.1rem; margin-bottom: 0; max-width: 580px; }
+.tool-hero .meta { color: rgba(255,255,255,0.7); font-size: 0.85rem; margin-top: 0.75rem; }
+.hero-badge { display: inline-block; background: rgba(232,131,42,0.2); border: 1px solid rgba(232,131,42,0.5); color: #F5A623; font-size: 0.8rem; font-weight: 600; letter-spacing: 0.05em; text-transform: uppercase; padding: 0.3rem 0.9rem; border-radius: 20px; margin-bottom: 1rem; }
 
-    /* ============================================================
-       BREADCRUMB
-    ============================================================ */
-    .breadcrumb { font-size: 0.85rem; color: var(--expat-muted); }
-    .breadcrumb a { color: var(--expat-muted); text-decoration: none; }
-    .breadcrumb a:hover { color: var(--expat-primary); }
+/* ============================================================
+BREADCRUMB
+============================================================ */
+.breadcrumb { font-size: 0.85rem; color: var(--expat-muted); }
+.breadcrumb a { color: var(--expat-muted); text-decoration: none; }
+.breadcrumb a:hover { color: var(--expat-primary); }
 
-    /* ============================================================
-       LAYOUT
-    ============================================================ */
-    .page-body { max-width: 1100px; margin: 0 auto; padding: 2.5rem 1.5rem 4rem; }
-    .tool-grid { display: grid; grid-template-columns: 1fr 320px; gap: 2rem; align-items: start; }
+/* ============================================================
+LAYOUT
+============================================================ */
+.page-body { max-width: 1100px; margin: 0 auto; padding: 2.5rem 1.5rem 4rem; }
+.tool-grid { display: grid; grid-template-columns: 1fr 320px; gap: 2rem; align-items: start; }
 
-    /* ============================================================
-       CARD
-    ============================================================ */
-    .card { background: var(--expat-card); border: 1px solid var(--expat-border); border-radius: var(--radius); box-shadow: var(--shadow); padding: 1.75rem; }
+/* ============================================================
+CARD
+============================================================ */
+.card { background: var(--expat-card); border: 1px solid var(--expat-border); border-radius: var(--radius); box-shadow: var(--shadow); padding: 1.75rem; }
 
-    /* ============================================================
-       FORM ELEMENTS
-    ============================================================ */
-    .form-section-label { font-size: 0.75rem; font-weight: 700; text-transform: uppercase; letter-spacing: 0.08em; color: var(--expat-muted); margin-bottom: 1rem; display: block; }
-    .form-group { margin-bottom: 1.4rem; }
-    .form-group label { display: block; font-weight: 600; font-size: 0.92rem; margin-bottom: 0.4rem; color: var(--expat-text); }
-    .form-group label .label-hint { font-weight: 400; color: var(--expat-muted); font-size: 0.82rem; }
+/* ============================================================
+FORM ELEMENTS
+============================================================ */
+.form-section-label { font-size: 0.75rem; font-weight: 700; text-transform: uppercase; letter-spacing: 0.08em; color: var(--expat-muted); margin-bottom: 1rem; display: block; }
+.form-group { margin-bottom: 1.4rem; }
+.form-group label { display: block; font-weight: 600; font-size: 0.92rem; margin-bottom: 0.4rem; color: var(--expat-text); }
+.form-group label .label-hint { font-weight: 400; color: var(--expat-muted); font-size: 0.82rem; }
 
-    .input-wrap { position: relative; }
-    .input-wrap .currency-symbol { position: absolute; left: 1rem; top: 50%; transform: translateY(-50%); font-weight: 700; font-size: 1rem; color: var(--expat-primary); pointer-events: none; }
-    .input-wrap input[type="number"] { width: 100%; padding: 0.75rem 1rem 0.75rem 2.25rem; font-size: 1.1rem; font-weight: 600; border: 2px solid var(--expat-border); border-radius: var(--radius-sm); background: #fff; color: var(--expat-text); outline: none; transition: border-color 0.2s; -webkit-appearance: none; appearance: none; font-family: inherit; }
-    .input-wrap input[type="number"]:focus { border-color: var(--expat-primary); }
-    .input-wrap input[type="number"]::placeholder { color: #CBD5E1; font-weight: 400; }
+.input-wrap { position: relative; }
+.input-wrap .currency-symbol { position: absolute; left: 1rem; top: 50%; transform: translateY(-50%); font-weight: 700; font-size: 1rem; color: var(--expat-primary); pointer-events: none; }
+.input-wrap input[type="number"] { width: 100%; padding: 0.75rem 1rem 0.75rem 2.25rem; font-size: 1.1rem; font-weight: 600; border: 2px solid var(--expat-border); border-radius: var(--radius-sm); background: #fff; color: var(--expat-text); outline: none; transition: border-color 0.2s; -webkit-appearance: none; appearance: none; font-family: inherit; }
+.input-wrap input[type="number"]:focus { border-color: var(--expat-primary); }
+.input-wrap input[type="number"]::placeholder { color: #CBD5E1; font-weight: 400; }
 
-    .radio-group { display: flex; gap: 0.5rem; flex-wrap: wrap; }
-    .radio-group label { display: flex; align-items: center; gap: 0.4rem; cursor: pointer; padding: 0.5rem 1rem; border: 2px solid var(--expat-border); border-radius: 100px; font-size: 0.9rem; font-weight: 500; transition: all 0.15s; user-select: none; }
-    .radio-group input[type="radio"] { display: none; }
-    .radio-group label:has(input[type="radio"]:checked) { background: var(--expat-primary); border-color: var(--expat-primary); color: #fff; }
+.radio-group { display: flex; gap: 0.5rem; flex-wrap: wrap; }
+.radio-group label { display: flex; align-items: center; gap: 0.4rem; cursor: pointer; padding: 0.5rem 1rem; border: 2px solid var(--expat-border); border-radius: 100px; font-size: 0.9rem; font-weight: 500; transition: all 0.15s; user-select: none; }
+.radio-group input[type="radio"] { display: none; }
+.radio-group label:has(input[type="radio"]:checked) { background: var(--expat-primary); border-color: var(--expat-primary); color: #fff; }
 
-    select { width: 100%; padding: 0.7rem 2.5rem 0.7rem 0.85rem; border: 2px solid var(--expat-border); border-radius: var(--radius-sm); font-size: 0.92rem; font-weight: 500; color: var(--expat-text); background: #fff url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='12' height='8' viewBox='0 0 12 8'%3E%3Cpath d='M1 1l5 5 5-5' stroke='%236B7280' stroke-width='1.5' fill='none' stroke-linecap='round'/%3E%3C/svg%3E") no-repeat right 0.85rem center; -webkit-appearance: none; appearance: none; outline: none; cursor: pointer; transition: border-color 0.2s; font-family: inherit; }
-    select:focus { border-color: var(--expat-primary); }
+select { width: 100%; padding: 0.7rem 2.5rem 0.7rem 0.85rem; border: 2px solid var(--expat-border); border-radius: var(--radius-sm); font-size: 0.92rem; font-weight: 500; color: var(--expat-text); background: #fff url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='12' height='8' viewBox='0 0 12 8'%3E%3Cpath d='M1 1l5 5 5-5' stroke='%236B7280' stroke-width='1.5' fill='none' stroke-linecap='round'/%3E%3C/svg%3E") no-repeat right 0.85rem center; -webkit-appearance: none; appearance: none; outline: none; cursor: pointer; transition: border-color 0.2s; font-family: inherit; }
+select:focus { border-color: var(--expat-primary); }
 
-    .form-divider { border: none; border-top: 1px solid var(--expat-border); margin: 1.5rem 0; }
+.form-divider { border: none; border-top: 1px solid var(--expat-border); margin: 1.5rem 0; }
 
-    /* Partner row */
-    .partner-row { display: none; }
-    .partner-row.visible { display: block; }
+/* Partner row */
+.partner-row { display: none; }
+.partner-row.visible { display: block; }
 
-    .btn-calculate { width: 100%; padding: 1rem; background: var(--expat-primary); color: #fff; border: none; border-radius: var(--radius-sm); font-size: 1.05rem; font-weight: 700; cursor: pointer; transition: background 0.2s, transform 0.1s; letter-spacing: 0.01em; font-family: 'DM Sans', sans-serif; margin-top: 0.5rem; }
-    .btn-calculate:hover { background: var(--expat-primary-dark); }
-    .btn-calculate:active { transform: scale(0.99); }
+.btn-calculate { width: 100%; padding: 1rem; background: var(--expat-primary); color: #fff; border: none; border-radius: var(--radius-sm); font-size: 1.05rem; font-weight: 700; cursor: pointer; transition: background 0.2s, transform 0.1s; letter-spacing: 0.01em; font-family: 'DM Sans', sans-serif; margin-top: 0.5rem; }
+.btn-calculate:hover { background: var(--expat-primary-dark); }
+.btn-calculate:active { transform: scale(0.99); }
 
-    /* ============================================================
-       RESULTS
-    ============================================================ */
-    #result { margin-top: 2rem; display: none; }
+/* ============================================================
+RESULTS
+============================================================ */
+#result { margin-top: 2rem; display: none; }
 
-    .verdict-card { border-radius: var(--radius); padding: 1.5rem; border: 2px solid transparent; margin-bottom: 1.25rem; }
-    .verdict-card.comfortable { background: var(--expat-success-light); border-color: var(--expat-success); }
-    .verdict-card.tight { background: var(--expat-warning-light); border-color: var(--expat-warning); }
-    .verdict-card.difficult { background: var(--expat-danger-light); border-color: var(--expat-danger); }
+.verdict-card { border-radius: var(--radius); padding: 1.5rem; border: 2px solid transparent; margin-bottom: 1.25rem; }
+.verdict-card.comfortable { background: var(--expat-success-light); border-color: var(--expat-success); }
+.verdict-card.tight { background: var(--expat-warning-light); border-color: var(--expat-warning); }
+.verdict-card.difficult { background: var(--expat-danger-light); border-color: var(--expat-danger); }
 
-    .verdict-
-    .verdict-icon { font-size: 1.6rem; line-height: 1; }
-    .verdict-title { font-size: 1.2rem; font-weight: 800; font-family: 'DM Sans', sans-serif; }
-    .verdict-card.comfortable .verdict-title { color: #065F46; }
-    .verdict-card.tight .verdict-title { color: #92400E; }
-    .verdict-card.difficult .verdict-title { color: #991B1B; }
-    .verdict-sub { font-size: 0.88rem; color: #374151; margin-top: 0.25rem; }
+.verdict-
+.verdict-icon { font-size: 1.6rem; line-height: 1; }
+.verdict-title { font-size: 1.2rem; font-weight: 800; font-family: 'DM Sans', sans-serif; }
+.verdict-card.comfortable .verdict-title { color: #065F46; }
+.verdict-card.tight .verdict-title { color: #92400E; }
+.verdict-card.difficult .verdict-title { color: #991B1B; }
+.verdict-sub { font-size: 0.88rem; color: #374151; margin-top: 0.25rem; }
 
-    /* Key numbers */
-    .key-numbers { display: grid; grid-template-columns: repeat(3, 1fr); gap: 1rem; margin-bottom: 1.25rem; }
-    .key-number-card { background: var(--expat-card); border: 1px solid var(--expat-border); border-radius: var(--radius-sm); padding: 1rem; text-align: center; box-shadow: var(--shadow); }
-    .key-number-value { font-size: 1.4rem; font-weight: 800; font-family: 'DM Sans', sans-serif; color: var(--expat-primary); line-height: 1.1; }
-    .key-number-label { font-size: 0.78rem; color: var(--expat-muted); margin-top: 0.3rem; }
+/* Key numbers */
+.key-numbers { display: grid; grid-template-columns: repeat(3, 1fr); gap: 1rem; margin-bottom: 1.25rem; }
+.key-number-card { background: var(--expat-card); border: 1px solid var(--expat-border); border-radius: var(--radius-sm); padding: 1rem; text-align: center; box-shadow: var(--shadow); }
+.key-number-value { font-size: 1.4rem; font-weight: 800; font-family: 'DM Sans', sans-serif; color: var(--expat-primary); line-height: 1.1; }
+.key-number-label { font-size: 0.78rem; color: var(--expat-muted); margin-top: 0.3rem; }
 
-    /* Tiers */
-    .tiers-section { margin-bottom: 1.5rem; }
-    .tiers-title { font-size: 0.85rem; font-weight: 700; text-transform: uppercase; letter-spacing: 0.06em; color: var(--expat-muted); margin-bottom: 0.75rem; }
-    .tier-row { display: flex; align-items: center; gap: 0.75rem; margin-bottom: 0.5rem; }
-    .tier-label { font-size: 0.85rem; font-weight: 600; width: 90px; flex-shrink: 0; }
-    .tier-label.comfortable { color: #065F46; }
-    .tier-label.tight { color: #92400E; }
-    .tier-label.difficult { color: #991B1B; }
-    .tier-bar-wrap { flex: 1; height: 10px; background: #E5E7EB; border-radius: 100px; overflow: hidden; }
-    .tier-bar { height: 100%; border-radius: 100px; transition: width 0.6s cubic-bezier(0.4,0,0.2,1); }
-    .tier-bar.comfortable { background: var(--expat-success); }
-    .tier-bar.tight { background: var(--expat-warning); }
-    .tier-bar.difficult { background: var(--expat-danger); }
-    .tier-amount { font-size: 0.88rem; font-weight: 700; width: 85px; text-align: right; flex-shrink: 0; }
+/* Tiers */
+.tiers-section { margin-bottom: 1.5rem; }
+.tiers-title { font-size: 0.85rem; font-weight: 700; text-transform: uppercase; letter-spacing: 0.06em; color: var(--expat-muted); margin-bottom: 0.75rem; }
+.tier-row { display: flex; align-items: center; gap: 0.75rem; margin-bottom: 0.5rem; }
+.tier-label { font-size: 0.85rem; font-weight: 600; width: 90px; flex-shrink: 0; }
+.tier-label.comfortable { color: #065F46; }
+.tier-label.tight { color: #92400E; }
+.tier-label.difficult { color: #991B1B; }
+.tier-bar-wrap { flex: 1; height: 10px; background: #E5E7EB; border-radius: 100px; overflow: hidden; }
+.tier-bar { height: 100%; border-radius: 100px; transition: width 0.6s cubic-bezier(0.4,0,0.2,1); }
+.tier-bar.comfortable { background: var(--expat-success); }
+.tier-bar.tight { background: var(--expat-warning); }
+.tier-bar.difficult { background: var(--expat-danger); }
+.tier-amount { font-size: 0.88rem; font-weight: 700; width: 85px; text-align: right; flex-shrink: 0; }
 
-    /* City comparison */
-    .city-comparison { margin-bottom: 1.5rem; }
-    .city-comparison-title { font-size: 0.85rem; font-weight: 700; text-transform: uppercase; letter-spacing: 0.06em; color: var(--expat-muted); margin-bottom: 0.75rem; }
-    .city-bar-row { margin-bottom: 0.6rem; }
-    .city-bar-meta { display: flex; justify-content: space-between; align-items: center; font-size: 0.82rem; margin-bottom: 0.25rem; }
-    .city-bar-name { font-weight: 600; }
-    .city-bar-badge { font-size: 0.75rem; font-weight: 700; padding: 0.1rem 0.5rem; border-radius: 100px; }
-    .city-bar-badge.can-afford { background: #D1FAE5; color: #065F46; }
-    .city-bar-badge.cannot-afford { background: #FEE2E2; color: #991B1B; }
-    .city-bar-badge.borderline { background: #FEF3C7; color: #92400E; }
-    .city-bar-track { height: 8px; background: #E5E7EB; border-radius: 100px; position: relative; overflow: hidden; }
-    .city-bar-fill { height: 100%; border-radius: 100px; transition: width 0.6s cubic-bezier(0.4,0,0.2,1); }
-    .city-bar-fill.budget { background: var(--expat-primary); }
-    .city-bar-fill.avg-rent { background: var(--expat-accent); }
+/* City comparison */
+.city-comparison { margin-bottom: 1.5rem; }
+.city-comparison-title { font-size: 0.85rem; font-weight: 700; text-transform: uppercase; letter-spacing: 0.06em; color: var(--expat-muted); margin-bottom: 0.75rem; }
+.city-bar-row { margin-bottom: 0.6rem; }
+.city-bar-meta { display: flex; justify-content: space-between; align-items: center; font-size: 0.82rem; margin-bottom: 0.25rem; }
+.city-bar-name { font-weight: 600; }
+.city-bar-badge { font-size: 0.75rem; font-weight: 700; padding: 0.1rem 0.5rem; border-radius: 100px; }
+.city-bar-badge.can-afford { background: #D1FAE5; color: #065F46; }
+.city-bar-badge.cannot-afford { background: #FEE2E2; color: #991B1B; }
+.city-bar-badge.borderline { background: #FEF3C7; color: #92400E; }
+.city-bar-track { height: 8px; background: #E5E7EB; border-radius: 100px; position: relative; overflow: hidden; }
+.city-bar-fill { height: 100%; border-radius: 100px; transition: width 0.6s cubic-bezier(0.4,0,0.2,1); }
+.city-bar-fill.budget { background: var(--expat-primary); }
+.city-bar-fill.avg-rent { background: var(--expat-accent); }
 
-    /* Budget breakdown */
-    .breakdown-section { margin-bottom: 1.5rem; }
-    .breakdown-title { font-size: 0.85rem; font-weight: 700; text-transform: uppercase; letter-spacing: 0.06em; color: var(--expat-muted); margin-bottom: 0.75rem; }
-    .breakdown-table { width: 100%; border-collapse: collapse; font-size: 0.9rem; }
-    .breakdown-table tr { border-bottom: 1px solid var(--expat-border); }
-    .breakdown-table tr:last-child { border-bottom: 2px solid var(--expat-primary); }
-    .breakdown-table td { padding: 0.5rem 0; }
-    .breakdown-table td:last-child { text-align: right; font-weight: 700; }
-    .breakdown-table .label-cell { color: var(--expat-muted); }
-    .breakdown-table .total-row td { font-weight: 800; color: var(--expat-text); padding-top: 0.65rem; }
+/* Budget breakdown */
+.breakdown-section { margin-bottom: 1.5rem; }
+.breakdown-title { font-size: 0.85rem; font-weight: 700; text-transform: uppercase; letter-spacing: 0.06em; color: var(--expat-muted); margin-bottom: 0.75rem; }
+.breakdown-table { width: 100%; border-collapse: collapse; font-size: 0.9rem; }
+.breakdown-table tr { border-bottom: 1px solid var(--expat-border); }
+.breakdown-table tr:last-child { border-bottom: 2px solid var(--expat-primary); }
+.breakdown-table td { padding: 0.5rem 0; }
+.breakdown-table td:last-child { text-align: right; font-weight: 700; }
+.breakdown-table .label-cell { color: var(--expat-muted); }
+.breakdown-table .total-row td { font-weight: 800; color: var(--expat-text); padding-top: 0.65rem; }
 
-    /* Info box */
-    .info-box { background: #EFF6FF; border: 1px solid #BFDBFE; border-radius: var(--radius-sm); padding: 1rem 1.1rem; font-size: 0.87rem; margin-bottom: 1.25rem; line-height: 1.55; color: #1E40AF; }
-    .info-box strong { display: block; margin-bottom: 0.2rem; }
+/* Info box */
+.info-box { background: #EFF6FF; border: 1px solid #BFDBFE; border-radius: var(--radius-sm); padding: 1rem 1.1rem; font-size: 0.87rem; margin-bottom: 1.25rem; line-height: 1.55; color: #1E40AF; }
+.info-box strong { display: block; margin-bottom: 0.2rem; }
 
-    /* Tip box */
-    .tip-box { background: #FFF7ED; border: 1px solid #FED7AA; border-radius: var(--radius-sm); padding: 1rem 1.1rem; font-size: 0.87rem; margin-bottom: 1.25rem; line-height: 1.55; }
-    .tip-box strong { color: #92400E; display: block; margin-bottom: 0.2rem; }
+/* Tip box */
+.tip-box { background: #FFF7ED; border: 1px solid #FED7AA; border-radius: var(--radius-sm); padding: 1rem 1.1rem; font-size: 0.87rem; margin-bottom: 1.25rem; line-height: 1.55; }
+.tip-box strong { color: #92400E; display: block; margin-bottom: 0.2rem; }
 
-    /* CTAs */
-    .result-ctas { margin-top: 1.5rem; }
-    .result-ctas h3 { font-size: 1rem; font-weight: 700; font-family: 'DM Sans', sans-serif; margin-bottom: 0.85rem; color: var(--expat-text); }
-    .cta-affiliate { display: flex; align-items: center; justify-content: space-between; padding: 0.85rem 1.1rem; background: var(--expat-primary); color: #fff; text-decoration: none; border-radius: var(--radius-sm); font-size: 0.9rem; font-weight: 600; margin-bottom: 0.6rem; transition: background 0.2s; }
-    .cta-affiliate:hover { background: var(--expat-primary-dark); color: #fff; text-decoration: none; }
-    .cta-affiliate.secondary { background: transparent; color: var(--expat-primary); border: 2px solid var(--expat-primary); }
-    .cta-affiliate.secondary:hover { background: var(--expat-primary); color: #fff; }
-    .cta-affiliate.accent { background: var(--expat-accent); }
-    .cta-affiliate.accent:hover { background: var(--expat-orange-dark, #C96B1A); }
+/* CTAs */
+.result-ctas { margin-top: 1.5rem; }
+.result-ctas h3 { font-size: 1rem; font-weight: 700; font-family: 'DM Sans', sans-serif; margin-bottom: 0.85rem; color: var(--expat-text); }
+.cta-affiliate { display: flex; align-items: center; justify-content: space-between; padding: 0.85rem 1.1rem; background: var(--expat-primary); color: #fff; text-decoration: none; border-radius: var(--radius-sm); font-size: 0.9rem; font-weight: 600; margin-bottom: 0.6rem; transition: background 0.2s; }
+.cta-affiliate:hover { background: var(--expat-primary-dark); color: #fff; text-decoration: none; }
+.cta-affiliate.secondary { background: transparent; color: var(--expat-primary); border: 2px solid var(--expat-primary); }
+.cta-affiliate.secondary:hover { background: var(--expat-primary); color: #fff; }
+.cta-affiliate.accent { background: var(--expat-accent); }
+.cta-affiliate.accent:hover { background: var(--expat-orange-dark, #C96B1A); }
 
-    /* ============================================================
-       SIDEBAR
-    ============================================================ */
-    .sidebar-card { margin-bottom: 1.25rem; }
-    .sidebar-card h2 { font-size: 1rem; font-weight: 700; font-family: 'DM Sans', sans-serif; margin-bottom: 1rem; color: var(--expat-text); }
-    .rent-list { list-style: none; padding: 0; }
-    .rent-list li { display: flex; justify-content: space-between; align-items: center; padding: 0.5rem 0; border-bottom: 1px solid var(--expat-border); font-size: 0.87rem; gap: 0.5rem; }
-    .rent-list li:last-child { border-bottom: none; }
-    .rent-list .rl-city { color: var(--expat-muted); }
-    .rent-list .rl-val { font-weight: 700; color: var(--expat-primary); white-space: nowrap; }
-    .sidebar-note { margin-top: 1rem; font-size: 0.75rem; color: var(--expat-muted); line-height: 1.4; }
-    .sidebar-note a { color: var(--expat-primary); }
+/* ============================================================
+SIDEBAR
+============================================================ */
+.sidebar-card { margin-bottom: 1.25rem; }
+.sidebar-card h2 { font-size: 1rem; font-weight: 700; font-family: 'DM Sans', sans-serif; margin-bottom: 1rem; color: var(--expat-text); }
+.rent-list { list-style: none; padding: 0; }
+.rent-list li { display: flex; justify-content: space-between; align-items: center; padding: 0.5rem 0; border-bottom: 1px solid var(--expat-border); font-size: 0.87rem; gap: 0.5rem; }
+.rent-list li:last-child { border-bottom: none; }
+.rent-list .rl-city { color: var(--expat-muted); }
+.rent-list .rl-val { font-weight: 700; color: var(--expat-primary); white-space: nowrap; }
+.sidebar-note { margin-top: 1rem; font-size: 0.75rem; color: var(--expat-muted); line-height: 1.4; }
+.sidebar-note a { color: var(--expat-primary); }
 
-    /* ============================================================
-       SEO CONTENT
-    ============================================================ */
-    .seo-content { margin-top: 3rem; }
-    .seo-content h2 { font-size: 1.45rem; font-weight: 800; font-family: 'DM Sans', sans-serif; color: var(--expat-text); margin-top: 2.5rem; margin-bottom: 0.85rem; letter-spacing: -0.015em; }
-    .seo-content h3 { font-size: 1.1rem; font-weight: 700; font-family: 'DM Sans', sans-serif; margin-top: 1.5rem; margin-bottom: 0.6rem; }
-    .seo-content p { color: #374151; margin-bottom: 1rem; line-height: 1.75; }
-    .seo-content ul, .seo-content ol { padding-left: 1.4rem; margin-bottom: 1rem; color: #374151; line-height: 1.75; }
-    .seo-content li { margin-bottom: 0.35rem; }
-    .seo-content a { color: var(--expat-primary); }
+/* ============================================================
+SEO CONTENT
+============================================================ */
+.seo-content { margin-top: 3rem; }
+.seo-content h2 { font-size: 1.45rem; font-weight: 800; font-family: 'DM Sans', sans-serif; color: var(--expat-text); margin-top: 2.5rem; margin-bottom: 0.85rem; letter-spacing: -0.015em; }
+.seo-content h3 { font-size: 1.1rem; font-weight: 700; font-family: 'DM Sans', sans-serif; margin-top: 1.5rem; margin-bottom: 0.6rem; }
+.seo-content p { color: #374151; margin-bottom: 1rem; line-height: 1.75; }
+.seo-content ul, .seo-content ol { padding-left: 1.4rem; margin-bottom: 1rem; color: #374151; line-height: 1.75; }
+.seo-content li { margin-bottom: 0.35rem; }
+.seo-content a { color: var(--expat-primary); }
 
-    /* Data table */
-    .data-table { width: 100%; border-collapse: collapse; font-size: 0.9rem; margin: 1.25rem 0 1.5rem; border-radius: var(--radius-sm); overflow: hidden; border: 1px solid var(--expat-border); }
-    .data-table th { background: var(--expat-primary); color: #fff; padding: 0.7rem 1rem; text-align: left; font-size: 0.82rem; font-weight: 600; letter-spacing: 0.03em; }
-    .data-table td { padding: 0.65rem 1rem; border-bottom: 1px solid var(--expat-border); }
-    .data-table tr:last-child td { border-bottom: none; }
-    .data-table tr:nth-child(even) td { background: #F9FAFB; }
-    .data-table .bold { font-weight: 700; }
+/* Data table */
+.data-table { width: 100%; border-collapse: collapse; font-size: 0.9rem; margin: 1.25rem 0 1.5rem; border-radius: var(--radius-sm); overflow: hidden; border: 1px solid var(--expat-border); }
+.data-table th { background: var(--expat-primary); color: #fff; padding: 0.7rem 1rem; text-align: left; font-size: 0.82rem; font-weight: 600; letter-spacing: 0.03em; }
+.data-table td { padding: 0.65rem 1rem; border-bottom: 1px solid var(--expat-border); }
+.data-table tr:last-child td { border-bottom: none; }
+.data-table tr:nth-child(even) td { background: #F9FAFB; }
+.data-table .bold { font-weight: 700; }
 
-    /* FAQ */
-    .faq-list { margin-top: 1rem; }
-    details { border: 1px solid var(--expat-border); border-radius: var(--radius-sm); margin-bottom: 0.6rem; overflow: hidden; }
-    details[open] { border-color: var(--expat-primary); }
-    summary { padding: 1rem 1.25rem; cursor: pointer; font-weight: 600; font-size: 0.95rem; list-style: none; display: flex; justify-content: space-between; align-items: center; gap: 0.5rem; font-family: 'DM Sans', sans-serif; }
-    summary::-webkit-details-marker { display: none; }
-    summary::after { content: '+'; font-size: 1.2rem; font-weight: 400; color: var(--expat-primary); flex-shrink: 0; }
-    details[open] summary::after { content: '\2212'; }
-    .faq-answer { padding: 0 1.25rem 1.1rem; font-size: 0.9rem; color: #374151; line-height: 1.7; }
-    .faq-answer p { margin-bottom: 0.5rem; }
-    .faq-answer p:last-child { margin-bottom: 0; }
+/* FAQ */
+.faq-list { margin-top: 1rem; }
+details { border: 1px solid var(--expat-border); border-radius: var(--radius-sm); margin-bottom: 0.6rem; overflow: hidden; }
+details[open] { border-color: var(--expat-primary); }
+summary { padding: 1rem 1.25rem; cursor: pointer; font-weight: 600; font-size: 0.95rem; list-style: none; display: flex; justify-content: space-between; align-items: center; gap: 0.5rem; font-family: 'DM Sans', sans-serif; }
+summary::-webkit-details-marker { display: none; }
+summary::after { content: '+'; font-size: 1.2rem; font-weight: 400; color: var(--expat-primary); flex-shrink: 0; }
+details[open] summary::after { content: '\2212'; }
+.faq-answer { padding: 0 1.25rem 1.1rem; font-size: 0.9rem; color: #374151; line-height: 1.7; }
+.faq-answer p { margin-bottom: 0.5rem; }
+.faq-answer p:last-child { margin-bottom: 0; }
 
-    /* ============================================================
-       RESPONSIVE
-    ============================================================ */
-    @media (max-width: 860px) {
-      .tool-grid { grid-template-columns: 1fr; }
-    }
-    @media (max-width: 768px) {
+/* ============================================================
+RESPONSIVE
+============================================================ */
+@media (max-width: 860px) {
+.tool-grid { grid-template-columns: 1fr; }
+}
+@media (max-width: 768px) {
 .key-numbers { grid-template-columns: repeat(2, 1fr); }
-    }
-    @media (max-width: 600px) {
-      .tool-hero { padding: 2rem 1rem 1.75rem; }
-      .page-body { padding: 1.5rem 1rem 3rem; }
-      .card { padding: 1.25rem; }
-      .tool-hero h1 { font-size: 1.65rem; }
-      .key-numbers { grid-template-columns: 1fr 1fr; }
-    }
+}
+@media (max-width: 600px) {
+.tool-hero { padding: 2rem 1rem 1.75rem; }
+.page-body { padding: 1.5rem 1rem 3rem; }
+.card { padding: 1.25rem; }
+.tool-hero h1 { font-size: 1.65rem; }
+.key-numbers { grid-template-columns: 1fr 1fr; }
+}
 
-    /* Print */
+/* Print */
 </style>
 
 <!-- HERO -->
-  <div class="tool-hero">
-    <div class="tool-hero-inner">
-      <nav class="breadcrumb" aria-label="Breadcrumb">
-        <a href="/">Home</a> &rsaquo;
-        <a href="/tools/">Tools</a> &rsaquo;
-        <span>Rent Affordability Calculator</span>
-      </nav>
-      <div class="tool-hero-content">
-        <div class="tool-hero-text">
-          <span class="hero-badge">Free Tool &bull; Updated March 2026</span>
-          <h1>Rent Affordability Calculator Netherlands 2026</h1>
-          <p class="hero-subtitle">Calculate what you can afford to rent or buy based on your income, city, and household situation.</p>
-          <div class="meta">Free &middot; No signup required &middot; By Sarah van den Berg</div>
-        </div>
-        <div class="tool-hero-icon" aria-hidden="true">
-          <!-- House with euro sign SVG -->
-          <svg viewBox="0 0 80 80" fill="none" xmlns="http://www.w3.org/2000/svg">
-            <path d="M10 38L40 12L70 38" stroke="currentColor" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
-            <path d="M16 33V64H64V33" stroke="currentColor" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
-            <rect x="31" y="46" width="18" height="18" rx="2" stroke="currentColor" stroke-width="2.5"/>
-            <path d="M36 56h6M33 52.5c0-2.5 1.5-4 3.5-4s3.5 1.5 3.5 4" stroke="currentColor" stroke-width="2" stroke-linecap="round" opacity="0.6"/>
-            <circle cx="62" cy="20" r="11" stroke="currentColor" stroke-width="2.5"/>
-            <path d="M58 20h6M56.5 17c0-2 1.3-3 3-3s3 1 3 3" stroke="currentColor" stroke-width="2" stroke-linecap="round" opacity="0.7"/>
-            <path d="M57 23h6" stroke="currentColor" stroke-width="2" stroke-linecap="round" opacity="0.7"/>
-          </svg>
-        </div>
-      </div>
-    </div>
-  </div>
+<div class="tool-hero">
+<div class="tool-hero-inner">
+<nav class="breadcrumb" aria-label="Breadcrumb">
+<a href="/">Home</a> &rsaquo;
+<a href="/tools/">Tools</a> &rsaquo;
+<span>Rent Affordability Calculator</span>
+</nav>
+<div class="tool-hero-content">
+<div class="tool-hero-text">
+<span class="hero-badge">Free Tool &bull; Updated March 2026</span>
+<h1>Rent Affordability Calculator Netherlands 2026</h1>
+<p class="hero-subtitle">Calculate what you can afford to rent or buy based on your income, city, and household situation.</p>
+<div class="meta">Free &middot; No signup required &middot; By Sarah van den Berg</div>
+</div>
+<div class="tool-hero-icon" aria-hidden="true">
+<!-- House with euro sign SVG -->
+<svg viewBox="0 0 80 80" fill="none" xmlns="http://www.w3.org/2000/svg">
+<path d="M10 38L40 12L70 38" stroke="currentColor" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M16 33V64H64V33" stroke="currentColor" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+<rect x="31" y="46" width="18" height="18" rx="2" stroke="currentColor" stroke-width="2.5"/>
+<path d="M36 56h6M33 52.5c0-2.5 1.5-4 3.5-4s3.5 1.5 3.5 4" stroke="currentColor" stroke-width="2" stroke-linecap="round" opacity="0.6"/>
+<circle cx="62" cy="20" r="11" stroke="currentColor" stroke-width="2.5"/>
+<path d="M58 20h6M56.5 17c0-2 1.3-3 3-3s3 1 3 3" stroke="currentColor" stroke-width="2" stroke-linecap="round" opacity="0.7"/>
+<path d="M57 23h6" stroke="currentColor" stroke-width="2" stroke-linecap="round" opacity="0.7"/>
+</svg>
+</div>
+</div>
+</div>
+</div>
 
-  <!-- MAIN -->
-  <div class="page-body">
-    <div class="tool-grid">
+<!-- MAIN -->
+<div class="page-body">
+<div class="tool-grid">
 
-      <!-- FORM COLUMN -->
-      <div>
-        <div class="card" role="form" aria-label="Housing budget checker form">
-          <span class="form-section-label">Your household income</span>
+<!-- FORM COLUMN -->
+<div>
+<div class="card" role="form" aria-label="Housing budget checker form">
+<span class="form-section-label">Your household income</span>
 
-          <!-- Partner question first -->
-          <div class="form-group">
-            <label>Do you have a partner?</label>
-            <div class="radio-group" role="radiogroup" aria-label="Partner status">
-              <label>
-                <input type="radio" name="partner" value="no" checked onchange="togglePartner()">
-                No
-              </label>
-              <label>
-                <input type="radio" name="partner" value="yes" onchange="togglePartner()">
-                Yes
-              </label>
-            </div>
-          </div>
+<!-- Partner question first -->
+<div class="form-group">
+<label>Do you have a partner?</label>
+<div class="radio-group" role="radiogroup" aria-label="Partner status">
+<label>
+<input type="radio" name="partner" value="no" checked onchange="togglePartner()">
+No
+</label>
+<label>
+<input type="radio" name="partner" value="yes" onchange="togglePartner()">
+Yes
+</label>
+</div>
+</div>
 
-          <!-- Your net income -->
-          <div class="form-group">
-            <label for="myIncome">Your net monthly income <span class="label-hint">(after tax)</span></label>
-            <div class="input-wrap">
-              <span class="currency-symbol" aria-hidden="true">&euro;</span>
-              <input type="number" id="myIncome" placeholder="e.g. 3200" min="0" step="50" inputmode="numeric" oninput="liveRecalc()">
-            </div>
-          </div>
+<!-- Your net income -->
+<div class="form-group">
+<label for="myIncome">Your net monthly income <span class="label-hint">(after tax)</span></label>
+<div class="input-wrap">
+<span class="currency-symbol" aria-hidden="true">&euro;</span>
+<input type="number" id="myIncome" placeholder="e.g. 3200" min="0" step="50" inputmode="numeric" oninput="liveRecalc()">
+</div>
+</div>
 
-          <!-- Partner income (conditional) -->
-          <div class="form-group partner-row" id="partnerRow">
-            <label for="partnerIncome">Partner\u2019s net monthly income <span class="label-hint">(after tax, optional)</span></label>
-            <div class="input-wrap">
-              <span class="currency-symbol" aria-hidden="true">&euro;</span>
-              <input type="number" id="partnerIncome" placeholder="e.g. 2500" min="0" step="50" inputmode="numeric" oninput="liveRecalc()">
-            </div>
-          </div>
+<!-- Partner income (conditional) -->
+<div class="form-group partner-row" id="partnerRow">
+<label for="partnerIncome">Partner\u2019s net monthly income <span class="label-hint">(after tax, optional)</span></label>
+<div class="input-wrap">
+<span class="currency-symbol" aria-hidden="true">&euro;</span>
+<input type="number" id="partnerIncome" placeholder="e.g. 2500" min="0" step="50" inputmode="numeric" oninput="liveRecalc()">
+</div>
+</div>
 
-          <hr class="form-divider">
+<hr class="form-divider">
 
-          <!-- City -->
-          <div class="form-group">
-            <label for="citySelect">City</label>
-            <select id="citySelect" onchange="liveRecalc()" aria-label="Select your city">
-              <option value="amsterdam">Amsterdam</option>
-              <option value="rotterdam">Rotterdam</option>
-              <option value="the-hague">The Hague</option>
-              <option value="eindhoven">Eindhoven</option>
-              <option value="utrecht">Utrecht</option>
-              <option value="groningen">Groningen</option>
-              <option value="leiden">Leiden</option>
-              <option value="maastricht">Maastricht</option>
-              <option value="other">Other / Netherlands avg.</option>
-            </select>
-          </div>
+<!-- City -->
+<div class="form-group">
+<label for="citySelect">City</label>
+<select id="citySelect" onchange="liveRecalc()" aria-label="Select your city">
+<option value="amsterdam">Amsterdam</option>
+<option value="rotterdam">Rotterdam</option>
+<option value="the-hague">The Hague</option>
+<option value="eindhoven">Eindhoven</option>
+<option value="utrecht">Utrecht</option>
+<option value="groningen">Groningen</option>
+<option value="leiden">Leiden</option>
+<option value="maastricht">Maastricht</option>
+<option value="other">Other / Netherlands avg.</option>
+</select>
+</div>
 
-          <!-- Rent or buy -->
-          <div class="form-group">
-            <label>Are you looking to rent or buy?</label>
-            <div class="radio-group" role="radiogroup" aria-label="Rent or buy">
-              <label>
-                <input type="radio" name="rentOrBuy" value="rent" checked onchange="liveRecalc()">
-                Renting
-              </label>
-              <label>
-                <input type="radio" name="rentOrBuy" value="buy" onchange="liveRecalc()">
-                Buying
-              </label>
-            </div>
-          </div>
+<!-- Rent or buy -->
+<div class="form-group">
+<label>Are you looking to rent or buy?</label>
+<div class="radio-group" role="radiogroup" aria-label="Rent or buy">
+<label>
+<input type="radio" name="rentOrBuy" value="rent" checked onchange="liveRecalc()">
+Renting
+</label>
+<label>
+<input type="radio" name="rentOrBuy" value="buy" onchange="liveRecalc()">
+Buying
+</label>
+</div>
+</div>
 
-          <button class="btn-calculate" onclick="calculate(true)" type="button">
-            Calculate My Housing Budget &rarr;
-          </button>
-        </div>
+<button class="btn-calculate" onclick="calculate(true)" type="button">
+Calculate My Housing Budget &rarr;
+</button>
+</div>
 
-        <!-- RESULTS -->
-        <div id="result" aria-live="polite" aria-label="Calculation results">
+<!-- RESULTS -->
+<div id="result" aria-live="polite" aria-label="Calculation results">
 
-          <!-- Verdict -->
-          <div id="verdictCard" class="verdict-card"></div>
+<!-- Verdict -->
+<div id="verdictCard" class="verdict-card"></div>
 
-          <!-- Key numbers -->
-          <div class="key-numbers" id="keyNumbers"></div>
+<!-- Key numbers -->
+<div class="key-numbers" id="keyNumbers"></div>
 
-          <!-- Tiers -->
-          <div class="card" id="tiersSection" style="margin-bottom:1.25rem;"></div>
+<!-- Tiers -->
+<div class="card" id="tiersSection" style="margin-bottom:1.25rem;"></div>
 
-          <!-- City comparison -->
-          <div class="card" id="citySection" style="margin-bottom:1.25rem;"></div>
+<!-- City comparison -->
+<div class="card" id="citySection" style="margin-bottom:1.25rem;"></div>
 
-          <!-- Budget breakdown -->
-          <div class="card" id="breakdownSection" style="margin-bottom:1.25rem;"></div>
+<!-- Budget breakdown -->
+<div class="card" id="breakdownSection" style="margin-bottom:1.25rem;"></div>
 
-          <!-- Tips / info -->
-          <div id="tipsSection"></div>
+<!-- Tips / info -->
+<div id="tipsSection"></div>
 
-          <!-- CTAs -->
-          <div class="result-ctas" id="ctaSection"></div>
-        </div>
+<!-- CTAs -->
+<div class="result-ctas" id="ctaSection"></div>
+</div>
 
-        <!-- SEO CONTENT -->
-        <div class="seo-content">
-          <h2>How Much Rent Can I Afford in the Netherlands?</h2>
-          <p>One of the first questions every expat asks when moving to the Netherlands is: how much should I spend on housing? The Dutch rental market is tight, especially in the major cities, and it\u2019s easy to get drawn into paying more than is healthy for your finances. I made that mistake myself when I first arrived \u2014 I spent nearly 40% of my net income on rent in Amsterdam and felt squeezed every month.</p>
-          <p>The general guideline used by Dutch landlords, employers, and financial advisors is the <strong>one-third rule</strong>: your rent should not exceed one-third (approximately 33%) of your net monthly household income. Many landlords will actually require proof of income at least 3x the monthly rent before they\u2019ll consider your application. This doubles as a natural self-check on affordability.</p>
+<!-- SEO CONTENT -->
+<div class="seo-content">
+<h2>How Much Rent Can I Afford in the Netherlands?</h2>
+<p>One of the first questions every expat asks when moving to the Netherlands is: how much should I spend on housing? The Dutch rental market is tight, especially in the major cities, and it\u2019s easy to get drawn into paying more than is healthy for your finances. I made that mistake myself when I first arrived \u2014 I spent nearly 40% of my net income on rent in Amsterdam and felt squeezed every month.</p>
+<p>The general guideline used by Dutch landlords, employers, and financial advisors is the <strong>one-third rule</strong>: your rent should not exceed one-third (approximately 33%) of your net monthly household income. Many landlords will actually require proof of income at least 3x the monthly rent before they\u2019ll consider your application. This doubles as a natural self-check on affordability.</p>
 
-          <h3>The 1/3 Rule Explained</h3>
-          <p>The 1/3 rule is a practical rule of thumb, not a legal requirement. Here\u2019s how it breaks down in practice:</p>
-          <ul>
-            <li><strong>Comfortable (28\u201330%):</strong> You\u2019ve got breathing room. You can save, cover unexpected costs, and not feel house-poor.</li>
-            <li><strong>Stretch (33\u201335%):</strong> Manageable, but leaves less slack. Fine short-term if you expect your income to grow.</li>
-            <li><strong>Maximum (38\u201340%):</strong> Financially risky. At this level, a single unexpected bill \u2014 a bike repair, a dental visit \u2014 can cause real stress.</li>
-          </ul>
-          <p>On top of rent, you\u2019ll typically pay for utilities (gas, electricity, water), health insurance (mandatory in the Netherlands, averaging around \u20ac140/month in 2026), and sometimes service costs. Factor all of these in before committing to a price.</p>
+<h3>The 1/3 Rule Explained</h3>
+<p>The 1/3 rule is a practical rule of thumb, not a legal requirement. Here\u2019s how it breaks down in practice:</p>
+<ul>
+<li><strong>Comfortable (28\u201330%):</strong> You\u2019ve got breathing room. You can save, cover unexpected costs, and not feel house-poor.</li>
+<li><strong>Stretch (33\u201335%):</strong> Manageable, but leaves less slack. Fine short-term if you expect your income to grow.</li>
+<li><strong>Maximum (38\u201340%):</strong> Financially risky. At this level, a single unexpected bill \u2014 a bike repair, a dental visit \u2014 can cause real stress.</li>
+</ul>
+<p>On top of rent, you\u2019ll typically pay for utilities (gas, electricity, water), health insurance (mandatory in the Netherlands, averaging around \u20ac140/month in 2026), and sometimes service costs. Factor all of these in before committing to a price.</p>
 
-          <h2>Average Rent Prices by Dutch City in 2026</h2>
-          <p>The Dutch free-market rental sector (vrije sector) has seen significant changes since the new housing regulations took effect in 2024. More properties moved into the regulated bracket, which has tightened free-market supply and pushed prices higher in the major cities. Below are the realistic 2026 averages for expat-suitable apartments:</p>
+<h2>Average Rent Prices by Dutch City in 2026</h2>
+<p>The Dutch free-market rental sector (vrije sector) has seen significant changes since the new housing regulations took effect in 2024. More properties moved into the regulated bracket, which has tightened free-market supply and pushed prices higher in the major cities. Below are the realistic 2026 averages for expat-suitable apartments:</p>
 
-          <table class="data-table">
-            <thead>
-              <tr>
-                <th>City</th>
-                <th>1-Bedroom avg.</th>
-                <th>2-Bedroom avg.</th>
-                <th>Avg. price/m&#178;</th>
-              </tr>
-            </thead>
-            <tbody>
-              <tr><td class="bold">Amsterdam</td><td>&euro;1,650/mo</td><td>&euro;2,200/mo</td><td>&euro;7,500/m&#178;</td></tr>
-              <tr><td class="bold">Utrecht</td><td>&euro;1,350/mo</td><td>&euro;1,800/mo</td><td>&euro;5,200/m&#178;</td></tr>
-              <tr><td class="bold">Rotterdam</td><td>&euro;1,250/mo</td><td>&euro;1,650/mo</td><td>&euro;4,800/m&#178;</td></tr>
-              <tr><td class="bold">The Hague</td><td>&euro;1,200/mo</td><td>&euro;1,550/mo</td><td>&euro;4,500/m&#178;</td></tr>
-              <tr><td class="bold">Leiden</td><td>&euro;1,150/mo</td><td>&euro;1,500/mo</td><td>&euro;4,600/m&#178;</td></tr>
-              <tr><td class="bold">Eindhoven</td><td>&euro;1,100/mo</td><td>&euro;1,450/mo</td><td>&euro;4,200/m&#178;</td></tr>
-              <tr><td class="bold">Groningen</td><td>&euro;950/mo</td><td>&euro;1,250/mo</td><td>&euro;3,500/m&#178;</td></tr>
-              <tr><td class="bold">Maastricht</td><td>&euro;950/mo</td><td>&euro;1,200/mo</td><td>&euro;3,200/m&#178;</td></tr>
-            </tbody>
-          </table>
+<table class="data-table">
+<thead>
+<tr>
+<th>City</th>
+<th>1-Bedroom avg.</th>
+<th>2-Bedroom avg.</th>
+<th>Avg. price/m&#178;</th>
+</tr>
+</thead>
+<tbody>
+<tr><td class="bold">Amsterdam</td><td>&euro;1,650/mo</td><td>&euro;2,200/mo</td><td>&euro;7,500/m&#178;</td></tr>
+<tr><td class="bold">Utrecht</td><td>&euro;1,350/mo</td><td>&euro;1,800/mo</td><td>&euro;5,200/m&#178;</td></tr>
+<tr><td class="bold">Rotterdam</td><td>&euro;1,250/mo</td><td>&euro;1,650/mo</td><td>&euro;4,800/m&#178;</td></tr>
+<tr><td class="bold">The Hague</td><td>&euro;1,200/mo</td><td>&euro;1,550/mo</td><td>&euro;4,500/m&#178;</td></tr>
+<tr><td class="bold">Leiden</td><td>&euro;1,150/mo</td><td>&euro;1,500/mo</td><td>&euro;4,600/m&#178;</td></tr>
+<tr><td class="bold">Eindhoven</td><td>&euro;1,100/mo</td><td>&euro;1,450/mo</td><td>&euro;4,200/m&#178;</td></tr>
+<tr><td class="bold">Groningen</td><td>&euro;950/mo</td><td>&euro;1,250/mo</td><td>&euro;3,500/m&#178;</td></tr>
+<tr><td class="bold">Maastricht</td><td>&euro;950/mo</td><td>&euro;1,200/mo</td><td>&euro;3,200/m&#178;</td></tr>
+</tbody>
+</table>
 
-          <p>These figures are averages for the free-market (vrije sector) rental segment. Actual prices vary by neighbourhood, building age, furnishing, and energy label. In Amsterdam\u2019s Jordaan or De Pijp districts, a 1-bedroom can easily cost &euro;1,900+. In Rotterdam\u2019s Kralingse Bos area you can find decent apartments below the average.</p>
+<p>These figures are averages for the free-market (vrije sector) rental segment. Actual prices vary by neighbourhood, building age, furnishing, and energy label. In Amsterdam\u2019s Jordaan or De Pijp districts, a 1-bedroom can easily cost &euro;1,900+. In Rotterdam\u2019s Kralingse Bos area you can find decent apartments below the average.</p>
 
-          <h2>Buying a Home as an Expat \u2014 Mortgage Basics</h2>
-          <p>Buying property in the Netherlands as an expat is absolutely possible, but requires more groundwork than in many other countries. The Dutch mortgage market is generally accessible to expats with a permanent employment contract, though the specifics depend on your residency status, employment type, and existing debts.</p>
+<h2>Buying a Home as an Expat \u2014 Mortgage Basics</h2>
+<p>Buying property in the Netherlands as an expat is absolutely possible, but requires more groundwork than in many other countries. The Dutch mortgage market is generally accessible to expats with a permanent employment contract, though the specifics depend on your residency status, employment type, and existing debts.</p>
 
-          <h3>How Much Can You Borrow?</h3>
-          <p>Dutch lenders typically allow you to borrow between 4 and 4.5 times your gross annual income (or combined household income). At an interest rate of around 4.2% over 30 years, a &euro;300,000 mortgage works out to roughly &euro;1,470/month in principal and interest payments. The actual rate you\u2019ll get depends on your loan-to-value ratio, fixed-rate period, and lender.</p>
-          <p>Important factors that affect your Dutch mortgage application:</p>
-          <ul>
-            <li><strong>Employment contract:</strong> A permanent contract (vast contract) is strongly preferred. Temporary contracts or freelance/ZZP income require extra documentation and some lenders will not accept them.</li>
-            <li><strong>Studieschuld (student loan):</strong> A Dutch or foreign student loan reduces your borrowing capacity. The DUO debt is counted differently from private loans.</li>
-            <li><strong>Existing debts:</strong> Car loans, credit card limits, and other obligations all reduce what you can borrow.</li>
-            <li><strong>Own funds:</strong> Since 2018, Dutch lenders can finance a maximum of 100% of the property value. Buyer\u2019s costs (kosten koper \u2014 transfer tax, notary fees, valuation) of roughly 4\u20136% must come from your own savings.</li>
-          </ul>
+<h3>How Much Can You Borrow?</h3>
+<p>Dutch lenders typically allow you to borrow between 4 and 4.5 times your gross annual income (or combined household income). At an interest rate of around 4.2% over 30 years, a &euro;300,000 mortgage works out to roughly &euro;1,470/month in principal and interest payments. The actual rate you\u2019ll get depends on your loan-to-value ratio, fixed-rate period, and lender.</p>
+<p>Important factors that affect your Dutch mortgage application:</p>
+<ul>
+<li><strong>Employment contract:</strong> A permanent contract (vast contract) is strongly preferred. Temporary contracts or freelance/ZZP income require extra documentation and some lenders will not accept them.</li>
+<li><strong>Studieschuld (student loan):</strong> A Dutch or foreign student loan reduces your borrowing capacity. The DUO debt is counted differently from private loans.</li>
+<li><strong>Existing debts:</strong> Car loans, credit card limits, and other obligations all reduce what you can borrow.</li>
+<li><strong>Own funds:</strong> Since 2018, Dutch lenders can finance a maximum of 100% of the property value. Buyer\u2019s costs (kosten koper \u2014 transfer tax, notary fees, valuation) of roughly 4\u20136% must come from your own savings.</li>
+</ul>
 
-          <h2>Tips for Reducing Housing Costs in the Netherlands</h2>
-          <p>After helping dozens of expats navigate the Dutch rental and buying market, here are the strategies that actually work:</p>
-          <ul>
-            <li><strong>Consider cities outside the Randstad.</strong> Eindhoven, Groningen, and Maastricht offer significantly lower rents while still having good international communities and English-language infrastructure.</li>
-            <li><strong>Look at energy-efficient homes.</strong> An apartment with energy label A or B will have dramatically lower utility costs than a poorly insulated older building. This can save &euro;100\u2013200/month in winter.</li>
-            <li><strong>Register for social housing early</strong> if your income qualifies. Even with long waiting lists, it costs nothing and some municipalities have shorter queues than Amsterdam or Utrecht.</li>
-            <li><strong>Negotiate the rent.</strong> In a slower market (outside Amsterdam), landlords are often willing to negotiate, especially if you offer a long rental term or pay several months upfront.</li>
-            <li><strong>Share housing temporarily.</strong> Expat communities often have shared housing at 30\u201340% lower per-person cost. It\u2019s a practical way to save money while you find your feet in a new city.</li>
-            <li><strong>Use Funda and Pararius</strong> to compare the market. Funda shows both rentals and for-sale properties; Pararius specialises in the expat rental segment and often lists English-language listings.</li>
-          </ul>
+<h2>Tips for Reducing Housing Costs in the Netherlands</h2>
+<p>After helping dozens of expats navigate the Dutch rental and buying market, here are the strategies that actually work:</p>
+<ul>
+<li><strong>Consider cities outside the Randstad.</strong> Eindhoven, Groningen, and Maastricht offer significantly lower rents while still having good international communities and English-language infrastructure.</li>
+<li><strong>Look at energy-efficient homes.</strong> An apartment with energy label A or B will have dramatically lower utility costs than a poorly insulated older building. This can save &euro;100\u2013200/month in winter.</li>
+<li><strong>Register for social housing early</strong> if your income qualifies. Even with long waiting lists, it costs nothing and some municipalities have shorter queues than Amsterdam or Utrecht.</li>
+<li><strong>Negotiate the rent.</strong> In a slower market (outside Amsterdam), landlords are often willing to negotiate, especially if you offer a long rental term or pay several months upfront.</li>
+<li><strong>Share housing temporarily.</strong> Expat communities often have shared housing at 30\u201340% lower per-person cost. It\u2019s a practical way to save money while you find your feet in a new city.</li>
+<li><strong>Use Funda and Pararius</strong> to compare the market. Funda shows both rentals and for-sale properties; Pararius specialises in the expat rental segment and often lists English-language listings.</li>
+</ul>
 
-          <h2>Frequently Asked Questions</h2>
-          <div class="faq-list">
-            <details>
-              <summary>How much rent can I afford on my salary in the Netherlands?</summary>
-              <div class="faq-answer">
-                <p>The standard Dutch rule is that your rent should not exceed one-third (33%) of your net monthly household income. At a comfortable level, aim for 28\u201330%. For a single person earning &euro;3,000 net per month, this means a maximum rent of around &euro;1,000 comfortably or up to &euro;1,200 as a stretch. Always leave room for utilities, health insurance, and groceries.</p>
-              </div>
-            </details>
-            <details>
-              <summary>What is the average rent in Amsterdam in 2026?</summary>
-              <div class="faq-answer">
-                <p>In 2026, average rents in Amsterdam are approximately &euro;1,650 per month for a one-bedroom apartment and &euro;2,200 per month for a two-bedroom. The free market rental sector has grown significantly following the regulated rent reforms, making Amsterdam one of the most expensive cities in the Netherlands for housing.</p>
-              </div>
-            </details>
-            <details>
-              <summary>Can I get a mortgage as an expat in the Netherlands?</summary>
-              <div class="faq-answer">
-                <p>Yes, many expats can qualify for a Dutch mortgage. Most lenders require at least a permanent employment contract or a reliable income history. As a rough guideline, you can borrow approximately 4 to 4.5 times your gross annual income. Having a studieschuld (Dutch student debt), freelance income, or being on a temporary contract can affect what you\u2019re offered. A mortgage advisor (hypotheekadviseur) is strongly recommended.</p>
-              </div>
-            </details>
-            <details>
-              <summary>What is social housing in the Netherlands and can expats access it?</summary>
-              <div class="faq-answer">
-                <p>Social housing in the Netherlands refers to subsidised rentals capped at around &euro;879 per month (2026 limit). These are managed by housing corporations (woningcorporaties) and allocated by income: your annual gross household income must generally be below &euro;47,699. Waiting lists in major cities like Amsterdam can exceed 10 years. Expats with a valid residence permit can register, but the wait times make this impractical for most newcomers.</p>
-              </div>
-            </details>
-            <details>
-              <summary>What additional costs should I budget for when renting in the Netherlands?</summary>
-              <div class="faq-answer">
-                <p>Beyond rent, budget for: utilities (gas, electricity, water) &euro;150\u2013250/month; health insurance &euro;130\u2013160/month; internet &euro;40\u201360/month; municipal taxes (gemeentelijke belastingen) &euro;25\u201360/month depending on city; and optional contents insurance &euro;10\u201325/month. When signing, expect a security deposit equal to 1\u20132 months\u2019 rent.</p>
-              </div>
-            </details>
-          </div>
-        </div>
-      </div>
+<h2>Frequently Asked Questions</h2>
+<div class="faq-list">
+<details>
+<summary>How much rent can I afford on my salary in the Netherlands?</summary>
+<div class="faq-answer">
+<p>The standard Dutch rule is that your rent should not exceed one-third (33%) of your net monthly household income. At a comfortable level, aim for 28\u201330%. For a single person earning &euro;3,000 net per month, this means a maximum rent of around &euro;1,000 comfortably or up to &euro;1,200 as a stretch. Always leave room for utilities, health insurance, and groceries.</p>
+</div>
+</details>
+<details>
+<summary>What is the average rent in Amsterdam in 2026?</summary>
+<div class="faq-answer">
+<p>In 2026, average rents in Amsterdam are approximately &euro;1,650 per month for a one-bedroom apartment and &euro;2,200 per month for a two-bedroom. The free market rental sector has grown significantly following the regulated rent reforms, making Amsterdam one of the most expensive cities in the Netherlands for housing.</p>
+</div>
+</details>
+<details>
+<summary>Can I get a mortgage as an expat in the Netherlands?</summary>
+<div class="faq-answer">
+<p>Yes, many expats can qualify for a Dutch mortgage. Most lenders require at least a permanent employment contract or a reliable income history. As a rough guideline, you can borrow approximately 4 to 4.5 times your gross annual income. Having a studieschuld (Dutch student debt), freelance income, or being on a temporary contract can affect what you\u2019re offered. A mortgage advisor (hypotheekadviseur) is strongly recommended.</p>
+</div>
+</details>
+<details>
+<summary>What is social housing in the Netherlands and can expats access it?</summary>
+<div class="faq-answer">
+<p>Social housing in the Netherlands refers to subsidised rentals capped at around &euro;879 per month (2026 limit). These are managed by housing corporations (woningcorporaties) and allocated by income: your annual gross household income must generally be below &euro;47,699. Waiting lists in major cities like Amsterdam can exceed 10 years. Expats with a valid residence permit can register, but the wait times make this impractical for most newcomers.</p>
+</div>
+</details>
+<details>
+<summary>What additional costs should I budget for when renting in the Netherlands?</summary>
+<div class="faq-answer">
+<p>Beyond rent, budget for: utilities (gas, electricity, water) &euro;150\u2013250/month; health insurance &euro;130\u2013160/month; internet &euro;40\u201360/month; municipal taxes (gemeentelijke belastingen) &euro;25\u201360/month depending on city; and optional contents insurance &euro;10\u201325/month. When signing, expect a security deposit equal to 1\u20132 months\u2019 rent.</p>
+</div>
+</details>
+</div>
+</div>
+</div>
 
-      <!-- SIDEBAR -->
-      <aside>
-        <div class="card sidebar-card">
-          <h2>2026 Average Rents</h2>
-          <ul class="rent-list">
-            <li><span class="rl-city">Amsterdam</span><span class="rl-val">&euro;1,650/mo</span></li>
-            <li><span class="rl-city">Utrecht</span><span class="rl-val">&euro;1,350/mo</span></li>
-            <li><span class="rl-city">Rotterdam</span><span class="rl-val">&euro;1,250/mo</span></li>
-            <li><span class="rl-city">The Hague</span><span class="rl-val">&euro;1,200/mo</span></li>
-            <li><span class="rl-city">Leiden</span><span class="rl-val">&euro;1,150/mo</span></li>
-            <li><span class="rl-city">Eindhoven</span><span class="rl-val">&euro;1,100/mo</span></li>
-            <li><span class="rl-city">Groningen</span><span class="rl-val">&euro;950/mo</span></li>
-            <li><span class="rl-city">Maastricht</span><span class="rl-val">&euro;950/mo</span></li>
-          </ul>
-          <p class="sidebar-note">1-bedroom averages, free-market sector. Source: Pararius, Funda market data 2026.</p>
-        </div>
+<!-- SIDEBAR -->
+<aside>
+<div class="card sidebar-card">
+<h2>2026 Average Rents</h2>
+<ul class="rent-list">
+<li><span class="rl-city">Amsterdam</span><span class="rl-val">&euro;1,650/mo</span></li>
+<li><span class="rl-city">Utrecht</span><span class="rl-val">&euro;1,350/mo</span></li>
+<li><span class="rl-city">Rotterdam</span><span class="rl-val">&euro;1,250/mo</span></li>
+<li><span class="rl-city">The Hague</span><span class="rl-val">&euro;1,200/mo</span></li>
+<li><span class="rl-city">Leiden</span><span class="rl-val">&euro;1,150/mo</span></li>
+<li><span class="rl-city">Eindhoven</span><span class="rl-val">&euro;1,100/mo</span></li>
+<li><span class="rl-city">Groningen</span><span class="rl-val">&euro;950/mo</span></li>
+<li><span class="rl-city">Maastricht</span><span class="rl-val">&euro;950/mo</span></li>
+</ul>
+<p class="sidebar-note">1-bedroom averages, free-market sector. Source: Pararius, Funda market data 2026.</p>
+</div>
 
-        <div class="card sidebar-card">
-          <h2>Quick Rules of Thumb</h2>
-          <ul class="rent-list">
-            <li><span class="rl-city">Comfortable rent</span><span class="rl-val">30% net</span></li>
-            <li><span class="rl-city">Max rent</span><span class="rl-val">1/3 net</span></li>
-            <li><span class="rl-city">Max mortgage</span><span class="rl-val">4.5x gross</span></li>
-            <li><span class="rl-city">Security deposit</span><span class="rl-val">1&ndash;2 months</span></li>
-            <li><span class="rl-city">Buyer costs (KK)</span><span class="rl-val">~4&ndash;6%</span></li>
-            <li><span class="rl-city">Health insurance</span><span class="rl-val">~&euro;140/mo</span></li>
-          </ul>
-        </div>
+<div class="card sidebar-card">
+<h2>Quick Rules of Thumb</h2>
+<ul class="rent-list">
+<li><span class="rl-city">Comfortable rent</span><span class="rl-val">30% net</span></li>
+<li><span class="rl-city">Max rent</span><span class="rl-val">1/3 net</span></li>
+<li><span class="rl-city">Max mortgage</span><span class="rl-val">4.5x gross</span></li>
+<li><span class="rl-city">Security deposit</span><span class="rl-val">1&ndash;2 months</span></li>
+<li><span class="rl-city">Buyer costs (KK)</span><span class="rl-val">~4&ndash;6%</span></li>
+<li><span class="rl-city">Health insurance</span><span class="rl-val">~&euro;140/mo</span></li>
+</ul>
+</div>
 
-        <div class="card sidebar-card">
-          <h2>Useful Links</h2>
-          <ul class="rent-list">
-            <li><a href="https://www.funda.nl" target="_blank" rel="noopener noreferrer" style="color:var(--expat-primary);font-size:0.88rem;">Funda &mdash; rentals &amp; for sale</a></li>
-            <li><a href="https://www.pararius.nl" target="_blank" rel="noopener noreferrer" style="color:var(--expat-primary);font-size:0.88rem;">Pararius &mdash; expat rentals</a></li>
-            <li><a href="https://www.belastingdienst.nl" target="_blank" rel="noopener noreferrer" style="color:var(--expat-primary);font-size:0.88rem;">Belastingdienst &mdash; tax info</a></li>
-            <li><a href="/tools/30-percent-ruling-calculator/" style="color:var(--expat-primary);font-size:0.88rem;">30% Ruling Calculator</a></li>
-            <li><a href="/tools/salary-checker/" style="color:var(--expat-primary);font-size:0.88rem;">Net Salary Calculator</a></li>
-          </ul>
-        </div>
-      </aside>
-    </div>
-  </div>
+<div class="card sidebar-card">
+<h2>Useful Links</h2>
+<ul class="rent-list">
+<li><a href="https://www.funda.nl" target="_blank" rel="noopener noreferrer" style="color:var(--expat-primary);font-size:0.88rem;">Funda &mdash; rentals &amp; for sale</a></li>
+<li><a href="https://www.pararius.nl" target="_blank" rel="noopener noreferrer" style="color:var(--expat-primary);font-size:0.88rem;">Pararius &mdash; expat rentals</a></li>
+<li><a href="https://www.belastingdienst.nl" target="_blank" rel="noopener noreferrer" style="color:var(--expat-primary);font-size:0.88rem;">Belastingdienst &mdash; tax info</a></li>
+<li><a href="/tools/30-percent-ruling-calculator/" style="color:var(--expat-primary);font-size:0.88rem;">30% Ruling Calculator</a></li>
+<li><a href="/tools/salary-checker/" style="color:var(--expat-primary);font-size:0.88rem;">Net Salary Calculator</a></li>
+</ul>
+</div>
+</aside>
+</div>
+</div>
 
 <script>
 'use strict';
 
-    // ============================================================
-    // DATA
-    // ============================================================
-    var CITY_DATA = {
-      amsterdam:   { name: 'Amsterdam',     avgRent1bed: 1650, avgRent2bed: 2200, avgM2: 7500, mortgage: 'very competitive' },
-      rotterdam:   { name: 'Rotterdam',     avgRent1bed: 1250, avgRent2bed: 1650, avgM2: 4800, mortgage: 'competitive' },
-      'the-hague': { name: 'The Hague',     avgRent1bed: 1200, avgRent2bed: 1550, avgM2: 4500, mortgage: 'moderate' },
-      eindhoven:   { name: 'Eindhoven',     avgRent1bed: 1100, avgRent2bed: 1450, avgM2: 4200, mortgage: 'moderate' },
-      utrecht:     { name: 'Utrecht',       avgRent1bed: 1350, avgRent2bed: 1800, avgM2: 5200, mortgage: 'competitive' },
-      groningen:   { name: 'Groningen',     avgRent1bed: 950,  avgRent2bed: 1250, avgM2: 3500, mortgage: 'affordable' },
-      leiden:      { name: 'Leiden',        avgRent1bed: 1150, avgRent2bed: 1500, avgM2: 4600, mortgage: 'moderate' },
-      maastricht:  { name: 'Maastricht',    avgRent1bed: 950,  avgRent2bed: 1200, avgM2: 3200, mortgage: 'affordable' },
-      other:       { name: 'Netherlands',   avgRent1bed: 1100, avgRent2bed: 1450, avgM2: 4000, mortgage: 'moderate' }
-    };
+// ============================================================
+// DATA
+// ============================================================
+var CITY_DATA = {
+amsterdam:   { name: 'Amsterdam',     avgRent1bed: 1650, avgRent2bed: 2200, avgM2: 7500, mortgage: 'very competitive' },
+rotterdam:   { name: 'Rotterdam',     avgRent1bed: 1250, avgRent2bed: 1650, avgM2: 4800, mortgage: 'competitive' },
+'the-hague': { name: 'The Hague',     avgRent1bed: 1200, avgRent2bed: 1550, avgM2: 4500, mortgage: 'moderate' },
+eindhoven:   { name: 'Eindhoven',     avgRent1bed: 1100, avgRent2bed: 1450, avgM2: 4200, mortgage: 'moderate' },
+utrecht:     { name: 'Utrecht',       avgRent1bed: 1350, avgRent2bed: 1800, avgM2: 5200, mortgage: 'competitive' },
+groningen:   { name: 'Groningen',     avgRent1bed: 950,  avgRent2bed: 1250, avgM2: 3500, mortgage: 'affordable' },
+leiden:      { name: 'Leiden',        avgRent1bed: 1150, avgRent2bed: 1500, avgM2: 4600, mortgage: 'moderate' },
+maastricht:  { name: 'Maastricht',    avgRent1bed: 950,  avgRent2bed: 1200, avgM2: 3200, mortgage: 'affordable' },
+other:       { name: 'Netherlands',   avgRent1bed: 1100, avgRent2bed: 1450, avgM2: 4000, mortgage: 'moderate' }
+};
 
-    var CITY_TIPS = {
-      amsterdam:   'Amsterdam has the tightest rental market in the Netherlands. Listings disappear within hours. Use Funda and Pararius with alerts set, and have your income documents ready before you view.',
-      rotterdam:   'Rotterdam offers better value than Amsterdam with a growing expat scene. The Kralingen, Hillegersberg, and Centrum areas are popular. The city\u2019s cultural investment has driven rents up in recent years.',
-      'the-hague': 'The Hague has a large international community (ICC, EU agencies, embassies) making it very expat-friendly. The Statenkwartier and Bezuidenhout areas are popular with international professionals.',
-      eindhoven:   'Eindhoven has seen rapid rent growth driven by the ASML and Philips ecosystem, but remains significantly cheaper than Amsterdam. Woensel and Strijp-S are popular neighbourhoods.',
-      utrecht:     'Utrecht consistently tops quality-of-life rankings. It\u2019s compact and bikeable. Demand is high \u2014 move fast on good listings. The Lombok and Wittevrouwen areas are popular with expats.',
-      groningen:   'Groningen is one of the most affordable university cities with a young, international vibe. Excellent value for money. Popular neighbourhoods: Grunobuurt, Schilderswijk, Vinkhuizen.',
-      leiden:      'Leiden is a historic university city between Amsterdam and The Hague. Excellent transport links. The Leiden Bio Science Park drives strong international demand.',
-      maastricht:  'Maastricht is the most southern and distinctly European of Dutch cities. Rent is very affordable. The Wyck and Statenkwartier areas are popular with expats working at Maastricht University or regional companies.',
-      other:       'The Netherlands outside the Randstad cities offers significantly better value for money. Cities like Tilburg, Breda, Nijmegen, and Zwolle have growing expat communities and good transport connections to the major hubs.'
-    };
+var CITY_TIPS = {
+amsterdam:   'Amsterdam has the tightest rental market in the Netherlands. Listings disappear within hours. Use Funda and Pararius with alerts set, and have your income documents ready before you view.',
+rotterdam:   'Rotterdam offers better value than Amsterdam with a growing expat scene. The Kralingen, Hillegersberg, and Centrum areas are popular. The city\u2019s cultural investment has driven rents up in recent years.',
+'the-hague': 'The Hague has a large international community (ICC, EU agencies, embassies) making it very expat-friendly. The Statenkwartier and Bezuidenhout areas are popular with international professionals.',
+eindhoven:   'Eindhoven has seen rapid rent growth driven by the ASML and Philips ecosystem, but remains significantly cheaper than Amsterdam. Woensel and Strijp-S are popular neighbourhoods.',
+utrecht:     'Utrecht consistently tops quality-of-life rankings. It\u2019s compact and bikeable. Demand is high \u2014 move fast on good listings. The Lombok and Wittevrouwen areas are popular with expats.',
+groningen:   'Groningen is one of the most affordable university cities with a young, international vibe. Excellent value for money. Popular neighbourhoods: Grunobuurt, Schilderswijk, Vinkhuizen.',
+leiden:      'Leiden is a historic university city between Amsterdam and The Hague. Excellent transport links. The Leiden Bio Science Park drives strong international demand.',
+maastricht:  'Maastricht is the most southern and distinctly European of Dutch cities. Rent is very affordable. The Wyck and Statenkwartier areas are popular with expats working at Maastricht University or regional companies.',
+other:       'The Netherlands outside the Randstad cities offers significantly better value for money. Cities like Tilburg, Breda, Nijmegen, and Zwolle have growing expat communities and good transport connections to the major hubs.'
+};
 
-    // ============================================================
-    // HELPERS
-    // ============================================================
-    function fmt(n) {
-      return '\u20ac' + Math.round(n).toLocaleString('nl-NL');
-    }
+// ============================================================
+// HELPERS
+// ============================================================
+function fmt(n) {
+return '\u20ac' + Math.round(n).toLocaleString('nl-NL');
+}
 
-    function getFormValues() {
-      var myInc  = parseFloat(document.getElementById('myIncome').value) || 0;
-      var hasPartner = document.querySelector('input[name="partner"]:checked').value === 'yes';
-      var partInc = hasPartner ? (parseFloat(document.getElementById('partnerIncome').value) || 0) : 0;
-      var city = document.getElementById('citySelect').value;
-      var mode = document.querySelector('input[name="rentOrBuy"]:checked').value;
-      return { myInc: myInc, partInc: partInc, hasPartner: hasPartner, city: city, mode: mode };
-    }
+function getFormValues() {
+var myInc  = parseFloat(document.getElementById('myIncome').value) || 0;
+var hasPartner = document.querySelector('input[name="partner"]:checked').value === 'yes';
+var partInc = hasPartner ? (parseFloat(document.getElementById('partnerIncome').value) || 0) : 0;
+var city = document.getElementById('citySelect').value;
+var mode = document.querySelector('input[name="rentOrBuy"]:checked').value;
+return { myInc: myInc, partInc: partInc, hasPartner: hasPartner, city: city, mode: mode };
+}
 
-    function togglePartner() {
-      var yes = document.querySelector('input[name="partner"]:checked').value === 'yes';
-      var row = document.getElementById('partnerRow');
-      if (yes) {
-        row.classList.add('visible');
-      } else {
-        row.classList.remove('visible');
-        document.getElementById('partnerIncome').value = '';
-      }
-      liveRecalc();
-    }
+function togglePartner() {
+var yes = document.querySelector('input[name="partner"]:checked').value === 'yes';
+var row = document.getElementById('partnerRow');
+if (yes) {
+row.classList.add('visible');
+} else {
+row.classList.remove('visible');
+document.getElementById('partnerIncome').value = '';
+}
+liveRecalc();
+}
 
-    // Live recalc (no scroll)
-    function liveRecalc() {
-      var v = getFormValues();
-      if (v.myInc > 0) {
-        calculate(false);
-      }
-    }
+// Live recalc (no scroll)
+function liveRecalc() {
+var v = getFormValues();
+if (v.myInc > 0) {
+calculate(false);
+}
+}
 
-    // ============================================================
-    // MORTGAGE PAYMENT (monthly, annuity)
-    // ============================================================
-    function monthlyMortgagePayment(principal, annualRate, years) {
-      var r = annualRate / 12;
-      var n = years * 12;
-      if (r === 0) return principal / n;
-      return principal * (r * Math.pow(1 + r, n)) / (Math.pow(1 + r, n) - 1);
-    }
+// ============================================================
+// MORTGAGE PAYMENT (monthly, annuity)
+// ============================================================
+function monthlyMortgagePayment(principal, annualRate, years) {
+var r = annualRate / 12;
+var n = years * 12;
+if (r === 0) return principal / n;
+return principal * (r * Math.pow(1 + r, n)) / (Math.pow(1 + r, n) - 1);
+}
 
-    // ============================================================
-    // MAIN CALCULATE
-    // ============================================================
-    function calculate(doScroll) {
-      var v = getFormValues();
-      var totalNet = v.myInc + v.partInc;
+// ============================================================
+// MAIN CALCULATE
+// ============================================================
+function calculate(doScroll) {
+var v = getFormValues();
+var totalNet = v.myInc + v.partInc;
 
-      if (totalNet <= 0) {
-        document.getElementById('result').style.display = 'none';
-        return;
-      }
+if (totalNet <= 0) {
+document.getElementById('result').style.display = 'none';
+return;
+}
 
-      var cityData = CITY_DATA[v.city];
-      var resultEl = document.getElementById('result');
+var cityData = CITY_DATA[v.city];
+var resultEl = document.getElementById('result');
 
-      if (v.mode === 'rent') {
-        renderRent(v, totalNet, cityData);
-      } else {
-        renderBuy(v, totalNet, cityData);
-      }
+if (v.mode === 'rent') {
+renderRent(v, totalNet, cityData);
+} else {
+renderBuy(v, totalNet, cityData);
+}
 
-      resultEl.style.display = 'block';
+resultEl.style.display = 'block';
 
-      if (doScroll) {
-        resultEl.scrollIntoView({ behavior: 'smooth', block: 'start' });
-      }
+if (doScroll) {
+resultEl.scrollIntoView({ behavior: 'smooth', block: 'start' });
+}
 
-      // GA4 event
-      if (typeof gtag !== 'undefined') {
-        gtag('event', 'housing_budget_calculated', {
-          mode: v.mode,
-          city: v.city,
-          has_partner: v.hasPartner,
-          total_net: Math.round(totalNet)
-        });
-      }
-    }
+// GA4 event
+if (typeof gtag !== 'undefined') {
+gtag('event', 'housing_budget_calculated', {
+mode: v.mode,
+city: v.city,
+has_partner: v.hasPartner,
+total_net: Math.round(totalNet)
+});
+}
+}
 
-    // ============================================================
-    // RENDER RENT
-    // ============================================================
-    function renderRent(v, totalNet, cityData) {
-      var comfortable = totalNet * 0.30;
-      var stretch     = totalNet * 0.35;
-      var maximum     = totalNet * 0.40;
+// ============================================================
+// RENDER RENT
+// ============================================================
+function renderRent(v, totalNet, cityData) {
+var comfortable = totalNet * 0.30;
+var stretch     = totalNet * 0.35;
+var maximum     = totalNet * 0.40;
 
-      var avg1 = cityData.avgRent1bed;
-      var avg2 = cityData.avgRent2bed;
+var avg1 = cityData.avgRent1bed;
+var avg2 = cityData.avgRent2bed;
 
-      // Verdict vs 1-bed average
-      var verdictClass, verdictIcon, verdictTitle, verdictText;
-      var ratio1 = avg1 / totalNet;
+// Verdict vs 1-bed average
+var verdictClass, verdictIcon, verdictTitle, verdictText;
+var ratio1 = avg1 / totalNet;
 
-      if (ratio1 <= 0.30) {
-        verdictClass = 'comfortable';
-        verdictIcon  = '\u2705';
-        verdictTitle = 'Comfortable \u2014 you can afford ' + cityData.name;
-        verdictText  = 'A 1-bedroom in ' + cityData.name + ' is within your comfortable budget. You have good financial flexibility.';
-      } else if (ratio1 <= 0.40) {
-        verdictClass = 'tight';
-        verdictIcon  = '\u26A0\uFE0F';
-        verdictTitle = 'Tight but possible in ' + cityData.name;
-        verdictText  = 'A 1-bedroom in ' + cityData.name + ' is within your stretch-to-maximum range. Budget carefully for utilities and other costs.';
-      } else {
-        verdictClass = 'difficult';
-        verdictIcon  = '\u274C';
-        verdictTitle = 'Difficult on your current income';
-        verdictText  = 'Average rents in ' + cityData.name + ' exceed your recommended budget. Consider a different city, shared housing, or increasing your income.';
-      }
+if (ratio1 <= 0.30) {
+verdictClass = 'comfortable';
+verdictIcon  = '\u2705';
+verdictTitle = 'Comfortable \u2014 you can afford ' + cityData.name;
+verdictText  = 'A 1-bedroom in ' + cityData.name + ' is within your comfortable budget. You have good financial flexibility.';
+} else if (ratio1 <= 0.40) {
+verdictClass = 'tight';
+verdictIcon  = '\u26A0\uFE0F';
+verdictTitle = 'Tight but possible in ' + cityData.name;
+verdictText  = 'A 1-bedroom in ' + cityData.name + ' is within your stretch-to-maximum range. Budget carefully for utilities and other costs.';
+} else {
+verdictClass = 'difficult';
+verdictIcon  = '\u274C';
+verdictTitle = 'Difficult on your current income';
+verdictText  = 'Average rents in ' + cityData.name + ' exceed your recommended budget. Consider a different city, shared housing, or increasing your income.';
+}
 
-      document.getElementById('verdictCard').className = 'verdict-card ' + verdictClass;
-      document.getElementById('verdictCard').innerHTML =
-        '<div class="verdict-header">' +
-          '<span class="verdict-icon">' + verdictIcon + '</span>' +
-          '<span class="verdict-title">' + verdictTitle + '</span>' +
-        '</div>' +
-        '<p class="verdict-sub">' + verdictText + '</p>';
+document.getElementById('verdictCard').className = 'verdict-card ' + verdictClass;
+document.getElementById('verdictCard').innerHTML =
+'<div class="verdict-header">' +
+'<span class="verdict-icon">' + verdictIcon + '</span>' +
+'<span class="verdict-title">' + verdictTitle + '</span>' +
+'</div>' +
+'<p class="verdict-sub">' + verdictText + '</p>';
 
-      // Key numbers
-      document.getElementById('keyNumbers').innerHTML =
-        '<div class="key-number-card"><div class="key-number-value">' + fmt(comfortable) + '</div><div class="key-number-label">Comfortable max rent (30%)</div></div>' +
-        '<div class="key-number-card"><div class="key-number-value">' + fmt(stretch) + '</div><div class="key-number-label">Stretch budget (35%)</div></div>' +
-        '<div class="key-number-card"><div class="key-number-value">' + fmt(maximum) + '</div><div class="key-number-label">Absolute maximum (40%)</div></div>';
+// Key numbers
+document.getElementById('keyNumbers').innerHTML =
+'<div class="key-number-card"><div class="key-number-value">' + fmt(comfortable) + '</div><div class="key-number-label">Comfortable max rent (30%)</div></div>' +
+'<div class="key-number-card"><div class="key-number-value">' + fmt(stretch) + '</div><div class="key-number-label">Stretch budget (35%)</div></div>' +
+'<div class="key-number-card"><div class="key-number-value">' + fmt(maximum) + '</div><div class="key-number-label">Absolute maximum (40%)</div></div>';
 
-      // Tiers
-      var maxBar = Math.max(maximum, avg2) * 1.15;
-      document.getElementById('tiersSection').innerHTML =
-        '<div class="tiers-title">Your rent budget tiers vs city averages</div>' +
-        tierRow('Comfortable', 'comfortable', comfortable, maxBar) +
-        tierRow('Stretch', 'tight', stretch, maxBar) +
-        tierRow('Maximum', 'difficult', maximum, maxBar) +
-        '<div style="margin-top:1rem;padding-top:0.75rem;border-top:1px solid var(--expat-border);font-size:0.8rem;color:var(--expat-muted);">' +
-          '<span style="display:inline-flex;align-items:center;gap:0.35rem;margin-right:1rem;"><span style="display:inline-block;width:10px;height:10px;background:var(--expat-success);border-radius:2px;"></span> Comfortable</span>' +
-          '<span style="display:inline-flex;align-items:center;gap:0.35rem;margin-right:1rem;"><span style="display:inline-block;width:10px;height:10px;background:var(--expat-warning);border-radius:2px;"></span> Stretch</span>' +
-          '<span style="display:inline-flex;align-items:center;gap:0.35rem;"><span style="display:inline-block;width:10px;height:10px;background:var(--expat-danger);border-radius:2px;"></span> Maximum</span>' +
-        '</div>';
+// Tiers
+var maxBar = Math.max(maximum, avg2) * 1.15;
+document.getElementById('tiersSection').innerHTML =
+'<div class="tiers-title">Your rent budget tiers vs city averages</div>' +
+tierRow('Comfortable', 'comfortable', comfortable, maxBar) +
+tierRow('Stretch', 'tight', stretch, maxBar) +
+tierRow('Maximum', 'difficult', maximum, maxBar) +
+'<div style="margin-top:1rem;padding-top:0.75rem;border-top:1px solid var(--expat-border);font-size:0.8rem;color:var(--expat-muted);">' +
+'<span style="display:inline-flex;align-items:center;gap:0.35rem;margin-right:1rem;"><span style="display:inline-block;width:10px;height:10px;background:var(--expat-success);border-radius:2px;"></span> Comfortable</span>' +
+'<span style="display:inline-flex;align-items:center;gap:0.35rem;margin-right:1rem;"><span style="display:inline-block;width:10px;height:10px;background:var(--expat-warning);border-radius:2px;"></span> Stretch</span>' +
+'<span style="display:inline-flex;align-items:center;gap:0.35rem;"><span style="display:inline-block;width:10px;height:10px;background:var(--expat-danger);border-radius:2px;"></span> Maximum</span>' +
+'</div>';
 
-      // City comparison
-      var maxBarCity = Math.max(comfortable, avg2) * 1.2;
-      document.getElementById('citySection').innerHTML =
-        '<div class="city-comparison-title">Your budget vs ' + cityData.name + ' averages</div>' +
-        cityBar('Your comfortable budget', comfortable, maxBarCity, 'budget', comfortable >= avg1 ? 'can-afford' : (comfortable >= avg1 * 0.85 ? 'borderline' : 'cannot-afford'), comfortable >= avg1 ? 'Within budget' : 'Below avg.') +
-        cityBar(cityData.name + ' avg 1-bed (' + fmt(avg1) + ')', avg1, maxBarCity, 'avg-rent', avg1 <= comfortable ? 'can-afford' : (avg1 <= maximum ? 'borderline' : 'cannot-afford'), avg1 <= comfortable ? '\u2714 Affordable' : (avg1 <= maximum ? 'Stretch' : 'Too high')) +
-        cityBar(cityData.name + ' avg 2-bed (' + fmt(avg2) + ')', avg2, maxBarCity, 'avg-rent', avg2 <= comfortable ? 'can-afford' : (avg2 <= maximum ? 'borderline' : 'cannot-afford'), avg2 <= comfortable ? '\u2714 Affordable' : (avg2 <= maximum ? 'Stretch' : 'Too high'));
+// City comparison
+var maxBarCity = Math.max(comfortable, avg2) * 1.2;
+document.getElementById('citySection').innerHTML =
+'<div class="city-comparison-title">Your budget vs ' + cityData.name + ' averages</div>' +
+cityBar('Your comfortable budget', comfortable, maxBarCity, 'budget', comfortable >= avg1 ? 'can-afford' : (comfortable >= avg1 * 0.85 ? 'borderline' : 'cannot-afford'), comfortable >= avg1 ? 'Within budget' : 'Below avg.') +
+cityBar(cityData.name + ' avg 1-bed (' + fmt(avg1) + ')', avg1, maxBarCity, 'avg-rent', avg1 <= comfortable ? 'can-afford' : (avg1 <= maximum ? 'borderline' : 'cannot-afford'), avg1 <= comfortable ? '\u2714 Affordable' : (avg1 <= maximum ? 'Stretch' : 'Too high')) +
+cityBar(cityData.name + ' avg 2-bed (' + fmt(avg2) + ')', avg2, maxBarCity, 'avg-rent', avg2 <= comfortable ? 'can-afford' : (avg2 <= maximum ? 'borderline' : 'cannot-afford'), avg2 <= comfortable ? '\u2714 Affordable' : (avg2 <= maximum ? 'Stretch' : 'Too high'));
 
-      // Budget breakdown
-      var utilityEst = totalNet < 2500 ? 150 : (totalNet < 4500 ? 200 : 250);
-      var healthEst  = v.hasPartner ? 280 : 140;
-      var groceryEst = v.hasPartner ? 650 : 350;
-      var transEst   = 120;
-      var rentEst    = Math.min(comfortable, avg1);
-      var total      = rentEst + utilityEst + healthEst + groceryEst + transEst;
-      var remaining  = totalNet - total;
+// Budget breakdown
+var utilityEst = totalNet < 2500 ? 150 : (totalNet < 4500 ? 200 : 250);
+var healthEst  = v.hasPartner ? 280 : 140;
+var groceryEst = v.hasPartner ? 650 : 350;
+var transEst   = 120;
+var rentEst    = Math.min(comfortable, avg1);
+var total      = rentEst + utilityEst + healthEst + groceryEst + transEst;
+var remaining  = totalNet - total;
 
-      document.getElementById('breakdownSection').innerHTML =
-        '<div class="breakdown-title">Estimated monthly budget breakdown</div>' +
-        '<table class="breakdown-table">' +
-          '<tr><td class="label-cell">Rent (comfortable est.)</td><td>' + fmt(rentEst) + '</td></tr>' +
-          '<tr><td class="label-cell">Utilities (gas, electricity, water)</td><td>' + fmt(utilityEst) + '</td></tr>' +
-          '<tr><td class="label-cell">Health insurance' + (v.hasPartner ? ' (2 people)' : '') + '</td><td>' + fmt(healthEst) + '</td></tr>' +
-          '<tr><td class="label-cell">Groceries' + (v.hasPartner ? ' (2 people)' : '') + '</td><td>' + fmt(groceryEst) + '</td></tr>' +
-          '<tr><td class="label-cell">Transport (OV/bike)</td><td>' + fmt(transEst) + '</td></tr>' +
-          '<tr class="total-row"><td>Total essentials</td><td>' + fmt(total) + '</td></tr>' +
-          '<tr><td class="label-cell">Remaining (savings, leisure)</td><td style="color:' + (remaining >= 0 ? 'var(--expat-success)' : 'var(--expat-danger)') + ';">' + fmt(remaining) + '</td></tr>' +
-        '</table>';
+document.getElementById('breakdownSection').innerHTML =
+'<div class="breakdown-title">Estimated monthly budget breakdown</div>' +
+'<table class="breakdown-table">' +
+'<tr><td class="label-cell">Rent (comfortable est.)</td><td>' + fmt(rentEst) + '</td></tr>' +
+'<tr><td class="label-cell">Utilities (gas, electricity, water)</td><td>' + fmt(utilityEst) + '</td></tr>' +
+'<tr><td class="label-cell">Health insurance' + (v.hasPartner ? ' (2 people)' : '') + '</td><td>' + fmt(healthEst) + '</td></tr>' +
+'<tr><td class="label-cell">Groceries' + (v.hasPartner ? ' (2 people)' : '') + '</td><td>' + fmt(groceryEst) + '</td></tr>' +
+'<tr><td class="label-cell">Transport (OV/bike)</td><td>' + fmt(transEst) + '</td></tr>' +
+'<tr class="total-row"><td>Total essentials</td><td>' + fmt(total) + '</td></tr>' +
+'<tr><td class="label-cell">Remaining (savings, leisure)</td><td style="color:' + (remaining >= 0 ? 'var(--expat-success)' : 'var(--expat-danger)') + ';">' + fmt(remaining) + '</td></tr>' +
+'</table>';
 
-      // Social housing note
-      var tipsHtml = '';
-      if (totalNet < 2800) {
-        tipsHtml += '<div class="info-box"><strong>Social housing may be an option</strong>Your estimated income is below the social housing income limit. You may be eligible to register for gereguleerde huur (sociale huur), capped at approximately \u20ac879/month. Waiting lists are long in major cities, but registration is free and worth doing early.</div>';
-      }
+// Social housing note
+var tipsHtml = '';
+if (totalNet < 2800) {
+tipsHtml += '<div class="info-box"><strong>Social housing may be an option</strong>Your estimated income is below the social housing income limit. You may be eligible to register for gereguleerde huur (sociale huur), capped at approximately \u20ac879/month. Waiting lists are long in major cities, but registration is free and worth doing early.</div>';
+}
 
-      // City tip
-      tipsHtml += '<div class="tip-box"><strong>Tip for ' + cityData.name + '</strong>' + CITY_TIPS[v.city] + '</div>';
-      document.getElementById('tipsSection').innerHTML = tipsHtml;
+// City tip
+tipsHtml += '<div class="tip-box"><strong>Tip for ' + cityData.name + '</strong>' + CITY_TIPS[v.city] + '</div>';
+document.getElementById('tipsSection').innerHTML = tipsHtml;
 
-      // CTAs
-      document.getElementById('ctaSection').innerHTML =
-        '<h3>Find your next home</h3>' +
-        '<a href="https://www.funda.nl/huur/" target="_blank" rel="noopener noreferrer" class="cta-affiliate">Search homes on Funda <span>\u2192</span></a>' +
-        '<a href="https://www.pararius.nl/huurwoningen/nederland" target="_blank" rel="noopener noreferrer" class="cta-affiliate secondary">Find expat rentals on Pararius <span>\u2192</span></a>' +
-        '<a href="/tools/30-percent-ruling-calculator/" class="cta-affiliate secondary" style="margin-top:0.25rem;">Check your 30% ruling eligibility <span>\u2192</span></a>';
-    }
+// CTAs
+document.getElementById('ctaSection').innerHTML =
+'<h3>Find your next home</h3>' +
+'<a href="https://www.funda.nl/huur/" target="_blank" rel="noopener noreferrer" class="cta-affiliate">Search homes on Funda <span>\u2192</span></a>' +
+'<a href="https://www.pararius.nl/huurwoningen/nederland" target="_blank" rel="noopener noreferrer" class="cta-affiliate secondary">Find expat rentals on Pararius <span>\u2192</span></a>' +
+'<a href="/tools/30-percent-ruling-calculator/" class="cta-affiliate secondary" style="margin-top:0.25rem;">Check your 30% ruling eligibility <span>\u2192</span></a>';
+}
 
-    // ============================================================
-    // RENDER BUY
-    // ============================================================
-    function renderBuy(v, totalNet, cityData) {
-      // Estimate gross from net (rough factor, single vs couple)
-      var grossFactor = v.hasPartner ? 1.38 : 1.42;
-      var grossMonthly = totalNet * grossFactor;
-      var grossAnnual  = grossMonthly * 12;
+// ============================================================
+// RENDER BUY
+// ============================================================
+function renderBuy(v, totalNet, cityData) {
+// Estimate gross from net (rough factor, single vs couple)
+var grossFactor = v.hasPartner ? 1.38 : 1.42;
+var grossMonthly = totalNet * grossFactor;
+var grossAnnual  = grossMonthly * 12;
 
-      var maxMortgage  = grossAnnual * 4.5;
-      var rate         = 0.042;
-      var monthlyPmt   = monthlyMortgagePayment(maxMortgage, rate, 30);
-      var monthlyPmtLow = monthlyMortgagePayment(maxMortgage * 0.75, rate, 30);
+var maxMortgage  = grossAnnual * 4.5;
+var rate         = 0.042;
+var monthlyPmt   = monthlyMortgagePayment(maxMortgage, rate, 30);
+var monthlyPmtLow = monthlyMortgagePayment(maxMortgage * 0.75, rate, 30);
 
-      var avgM2     = cityData.avgM2;
-      var m2Afford  = Math.round(maxMortgage / avgM2);
+var avgM2     = cityData.avgM2;
+var m2Afford  = Math.round(maxMortgage / avgM2);
 
-      var ratio = monthlyPmt / totalNet;
-      var verdictClass, verdictIcon, verdictTitle, verdictText;
+var ratio = monthlyPmt / totalNet;
+var verdictClass, verdictIcon, verdictTitle, verdictText;
 
-      if (ratio <= 0.30) {
-        verdictClass = 'comfortable';
-        verdictIcon  = '\u2705';
-        verdictTitle = 'Good buying power for ' + cityData.name;
-        verdictText  = 'Your estimated maximum mortgage is affordable relative to your income. Monthly payments would be within a comfortable range.';
-      } else if (ratio <= 0.42) {
-        verdictClass = 'tight';
-        verdictIcon  = '\u26A0\uFE0F';
-        verdictTitle = 'Possible but tight in ' + cityData.name;
-        verdictText  = 'Your mortgage payments would consume a significant share of income. Consider a lower loan amount or increasing your income before buying.';
-      } else {
-        verdictClass = 'difficult';
-        verdictIcon  = '\u274C';
-        verdictTitle = 'Buying is very challenging right now';
-        verdictText  = 'At maximum borrowing, monthly payments would be very high relative to your income. Renting may be a better short-term option while you build savings.';
-      }
+if (ratio <= 0.30) {
+verdictClass = 'comfortable';
+verdictIcon  = '\u2705';
+verdictTitle = 'Good buying power for ' + cityData.name;
+verdictText  = 'Your estimated maximum mortgage is affordable relative to your income. Monthly payments would be within a comfortable range.';
+} else if (ratio <= 0.42) {
+verdictClass = 'tight';
+verdictIcon  = '\u26A0\uFE0F';
+verdictTitle = 'Possible but tight in ' + cityData.name;
+verdictText  = 'Your mortgage payments would consume a significant share of income. Consider a lower loan amount or increasing your income before buying.';
+} else {
+verdictClass = 'difficult';
+verdictIcon  = '\u274C';
+verdictTitle = 'Buying is very challenging right now';
+verdictText  = 'At maximum borrowing, monthly payments would be very high relative to your income. Renting may be a better short-term option while you build savings.';
+}
 
-      document.getElementById('verdictCard').className = 'verdict-card ' + verdictClass;
-      document.getElementById('verdictCard').innerHTML =
-        '<div class="verdict-header">' +
-          '<span class="verdict-icon">' + verdictIcon + '</span>' +
-          '<span class="verdict-title">' + verdictTitle + '</span>' +
-        '</div>' +
-        '<p class="verdict-sub">' + verdictText + '</p>';
+document.getElementById('verdictCard').className = 'verdict-card ' + verdictClass;
+document.getElementById('verdictCard').innerHTML =
+'<div class="verdict-header">' +
+'<span class="verdict-icon">' + verdictIcon + '</span>' +
+'<span class="verdict-title">' + verdictTitle + '</span>' +
+'</div>' +
+'<p class="verdict-sub">' + verdictText + '</p>';
 
-      // Key numbers
-      document.getElementById('keyNumbers').innerHTML =
-        '<div class="key-number-card"><div class="key-number-value">' + fmt(maxMortgage) + '</div><div class="key-number-label">Estimated max mortgage (4.5x gross)</div></div>' +
-        '<div class="key-number-card"><div class="key-number-value">' + fmt(monthlyPmt) + '</div><div class="key-number-label">Monthly payment (4.2%, 30yr)</div></div>' +
-        '<div class="key-number-card"><div class="key-number-value">' + m2Afford + ' m&#178;</div><div class="key-number-label">Approx. size in ' + cityData.name + '</div></div>';
+// Key numbers
+document.getElementById('keyNumbers').innerHTML =
+'<div class="key-number-card"><div class="key-number-value">' + fmt(maxMortgage) + '</div><div class="key-number-label">Estimated max mortgage (4.5x gross)</div></div>' +
+'<div class="key-number-card"><div class="key-number-value">' + fmt(monthlyPmt) + '</div><div class="key-number-label">Monthly payment (4.2%, 30yr)</div></div>' +
+'<div class="key-number-card"><div class="key-number-value">' + m2Afford + ' m&#178;</div><div class="key-number-label">Approx. size in ' + cityData.name + '</div></div>';
 
-      // Tiers
-      var maxBar = Math.max(monthlyPmt, totalNet * 0.45) * 1.1;
-      document.getElementById('tiersSection').innerHTML =
-        '<div class="tiers-title">Monthly mortgage payment scenarios</div>' +
-        tierRow('75% of max (' + fmt(maxMortgage * 0.75) + ')', 'comfortable', monthlyPmtLow, maxBar) +
-        tierRow('Max mortgage (' + fmt(maxMortgage) + ')', ratio <= 0.33 ? 'tight' : 'difficult', monthlyPmt, maxBar) +
-        '<div style="margin-top:1rem;padding-top:0.75rem;border-top:1px solid var(--expat-border);font-size:0.82rem;color:var(--expat-muted);">Mortgage estimate based on 4.2% interest rate, 30-year annuity. Actual rates vary. Consult a hypotheekadviseur for precise figures.</div>';
+// Tiers
+var maxBar = Math.max(monthlyPmt, totalNet * 0.45) * 1.1;
+document.getElementById('tiersSection').innerHTML =
+'<div class="tiers-title">Monthly mortgage payment scenarios</div>' +
+tierRow('75% of max (' + fmt(maxMortgage * 0.75) + ')', 'comfortable', monthlyPmtLow, maxBar) +
+tierRow('Max mortgage (' + fmt(maxMortgage) + ')', ratio <= 0.33 ? 'tight' : 'difficult', monthlyPmt, maxBar) +
+'<div style="margin-top:1rem;padding-top:0.75rem;border-top:1px solid var(--expat-border);font-size:0.82rem;color:var(--expat-muted);">Mortgage estimate based on 4.2% interest rate, 30-year annuity. Actual rates vary. Consult a hypotheekadviseur for precise figures.</div>';
 
-      // City comparison
-      var price300k = monthlyMortgagePayment(300000, rate, 30);
-      var price400k = monthlyMortgagePayment(400000, rate, 30);
-      var price500k = monthlyMortgagePayment(500000, rate, 30);
-      var maxBarCity = Math.max(price500k, totalNet) * 1.1;
-      document.getElementById('citySection').innerHTML =
-        '<div class="city-comparison-title">Monthly payments for typical ' + cityData.name + ' homes</div>' +
-        cityBar('Your max monthly payment', monthlyPmt, maxBarCity, 'budget', ratio <= 0.33 ? 'can-afford' : 'borderline', fmt(monthlyPmt) + '/mo') +
-        cityBar('\u20ac300,000 property (' + fmt(price300k) + '/mo)', price300k, maxBarCity, 'avg-rent', price300k <= monthlyPmt ? 'can-afford' : 'cannot-afford', price300k <= monthlyPmt ? '\u2714 Within budget' : 'Over budget') +
-        cityBar('\u20ac400,000 property (' + fmt(price400k) + '/mo)', price400k, maxBarCity, 'avg-rent', price400k <= monthlyPmt ? 'can-afford' : 'borderline', price400k <= monthlyPmt ? '\u2714 Within budget' : 'Stretch') +
-        cityBar('\u20ac500,000 property (' + fmt(price500k) + '/mo)', price500k, maxBarCity, 'avg-rent', price500k <= monthlyPmt * 0.85 ? 'can-afford' : 'cannot-afford', price500k <= monthlyPmt ? 'Borderline' : 'Over budget');
+// City comparison
+var price300k = monthlyMortgagePayment(300000, rate, 30);
+var price400k = monthlyMortgagePayment(400000, rate, 30);
+var price500k = monthlyMortgagePayment(500000, rate, 30);
+var maxBarCity = Math.max(price500k, totalNet) * 1.1;
+document.getElementById('citySection').innerHTML =
+'<div class="city-comparison-title">Monthly payments for typical ' + cityData.name + ' homes</div>' +
+cityBar('Your max monthly payment', monthlyPmt, maxBarCity, 'budget', ratio <= 0.33 ? 'can-afford' : 'borderline', fmt(monthlyPmt) + '/mo') +
+cityBar('\u20ac300,000 property (' + fmt(price300k) + '/mo)', price300k, maxBarCity, 'avg-rent', price300k <= monthlyPmt ? 'can-afford' : 'cannot-afford', price300k <= monthlyPmt ? '\u2714 Within budget' : 'Over budget') +
+cityBar('\u20ac400,000 property (' + fmt(price400k) + '/mo)', price400k, maxBarCity, 'avg-rent', price400k <= monthlyPmt ? 'can-afford' : 'borderline', price400k <= monthlyPmt ? '\u2714 Within budget' : 'Stretch') +
+cityBar('\u20ac500,000 property (' + fmt(price500k) + '/mo)', price500k, maxBarCity, 'avg-rent', price500k <= monthlyPmt * 0.85 ? 'can-afford' : 'cannot-afford', price500k <= monthlyPmt ? 'Borderline' : 'Over budget');
 
-      // Budget breakdown (buying)
-      var utilityEst = totalNet < 2500 ? 150 : (totalNet < 4500 ? 200 : 250);
-      var healthEst  = v.hasPartner ? 280 : 140;
-      var groceryEst = v.hasPartner ? 650 : 350;
-      var transEst   = 120;
-      var vzEst      = Math.round(maxMortgage * 0.001 / 12); // ~0.1% of value/yr for VvE, maintenance
-      var total      = monthlyPmt + utilityEst + healthEst + groceryEst + transEst + vzEst;
-      var remaining  = totalNet - total;
+// Budget breakdown (buying)
+var utilityEst = totalNet < 2500 ? 150 : (totalNet < 4500 ? 200 : 250);
+var healthEst  = v.hasPartner ? 280 : 140;
+var groceryEst = v.hasPartner ? 650 : 350;
+var transEst   = 120;
+var vzEst      = Math.round(maxMortgage * 0.001 / 12); // ~0.1% of value/yr for VvE, maintenance
+var total      = monthlyPmt + utilityEst + healthEst + groceryEst + transEst + vzEst;
+var remaining  = totalNet - total;
 
-      document.getElementById('breakdownSection').innerHTML =
-        '<div class="breakdown-title">Estimated monthly costs as owner (max mortgage)</div>' +
-        '<table class="breakdown-table">' +
-          '<tr><td class="label-cell">Mortgage payment</td><td>' + fmt(monthlyPmt) + '</td></tr>' +
-          '<tr><td class="label-cell">Utilities (gas, electricity, water)</td><td>' + fmt(utilityEst) + '</td></tr>' +
-          '<tr><td class="label-cell">Health insurance' + (v.hasPartner ? ' (2 people)' : '') + '</td><td>' + fmt(healthEst) + '</td></tr>' +
-          '<tr><td class="label-cell">Groceries' + (v.hasPartner ? ' (2 people)' : '') + '</td><td>' + fmt(groceryEst) + '</td></tr>' +
-          '<tr><td class="label-cell">Transport (OV/bike)</td><td>' + fmt(transEst) + '</td></tr>' +
-          '<tr><td class="label-cell">Maintenance / VvE est.</td><td>' + fmt(vzEst) + '</td></tr>' +
-          '<tr class="total-row"><td>Total monthly</td><td>' + fmt(total) + '</td></tr>' +
-          '<tr><td class="label-cell">Remaining (savings, leisure)</td><td style="color:' + (remaining >= 0 ? 'var(--expat-success)' : 'var(--expat-danger)') + ';">' + fmt(remaining) + '</td></tr>' +
-        '</table>';
+document.getElementById('breakdownSection').innerHTML =
+'<div class="breakdown-title">Estimated monthly costs as owner (max mortgage)</div>' +
+'<table class="breakdown-table">' +
+'<tr><td class="label-cell">Mortgage payment</td><td>' + fmt(monthlyPmt) + '</td></tr>' +
+'<tr><td class="label-cell">Utilities (gas, electricity, water)</td><td>' + fmt(utilityEst) + '</td></tr>' +
+'<tr><td class="label-cell">Health insurance' + (v.hasPartner ? ' (2 people)' : '') + '</td><td>' + fmt(healthEst) + '</td></tr>' +
+'<tr><td class="label-cell">Groceries' + (v.hasPartner ? ' (2 people)' : '') + '</td><td>' + fmt(groceryEst) + '</td></tr>' +
+'<tr><td class="label-cell">Transport (OV/bike)</td><td>' + fmt(transEst) + '</td></tr>' +
+'<tr><td class="label-cell">Maintenance / VvE est.</td><td>' + fmt(vzEst) + '</td></tr>' +
+'<tr class="total-row"><td>Total monthly</td><td>' + fmt(total) + '</td></tr>' +
+'<tr><td class="label-cell">Remaining (savings, leisure)</td><td style="color:' + (remaining >= 0 ? 'var(--expat-success)' : 'var(--expat-danger)') + ';">' + fmt(remaining) + '</td></tr>' +
+'</table>';
 
-      // Tips for buying
-      var buyingTip = '<div class="tip-box">' +
-        '<strong>Important: this is an estimate only</strong>' +
-        'Dutch mortgages depend on your employment type, residency status, existing debts (including studieschuld), and the lender\u2019s own stress-test rate. The 4.5x income rule is a general guideline. A qualified hypotheekadviseur can give you a precise maximum based on your situation \u2014 consultation is often free.' +
-        '</div>';
+// Tips for buying
+var buyingTip = '<div class="tip-box">' +
+'<strong>Important: this is an estimate only</strong>' +
+'Dutch mortgages depend on your employment type, residency status, existing debts (including studieschuld), and the lender\u2019s own stress-test rate. The 4.5x income rule is a general guideline. A qualified hypotheekadviseur can give you a precise maximum based on your situation \u2014 consultation is often free.' +
+'</div>';
 
-      var buyerCosts = Math.round(maxMortgage * 0.05);
-      buyingTip += '<div class="info-box">' +
-        '<strong>Budget for buyer\u2019s costs (kosten koper)</strong>' +
-        'When buying in the Netherlands you\u2019ll pay approximately 4\u20136% in buyer\u2019s costs on top of the purchase price: transfer tax (2% for most buyers), notary fees, valuation, and mortgage advisor. On a ' + fmt(maxMortgage) + ' property, budget around ' + fmt(buyerCosts) + ' in cash for these costs.' +
-        '</div>';
+var buyerCosts = Math.round(maxMortgage * 0.05);
+buyingTip += '<div class="info-box">' +
+'<strong>Budget for buyer\u2019s costs (kosten koper)</strong>' +
+'When buying in the Netherlands you\u2019ll pay approximately 4\u20136% in buyer\u2019s costs on top of the purchase price: transfer tax (2% for most buyers), notary fees, valuation, and mortgage advisor. On a ' + fmt(maxMortgage) + ' property, budget around ' + fmt(buyerCosts) + ' in cash for these costs.' +
+'</div>';
 
-      buyingTip += '<div class="tip-box"><strong>Tip for ' + cityData.name + '</strong>' + CITY_TIPS[v.city] + '</div>';
-      document.getElementById('tipsSection').innerHTML = buyingTip;
+buyingTip += '<div class="tip-box"><strong>Tip for ' + cityData.name + '</strong>' + CITY_TIPS[v.city] + '</div>';
+document.getElementById('tipsSection').innerHTML = buyingTip;
 
-      // CTAs
-      document.getElementById('ctaSection').innerHTML =
-        '<h3>Ready to find your home?</h3>' +
-        '<a href="https://www.funda.nl/koop/" target="_blank" rel="noopener noreferrer" class="cta-affiliate">Search properties on Funda <span>\u2192</span></a>' +
-        '<a href="https://www.pararius.nl/koopwoningen/nederland" target="_blank" rel="noopener noreferrer" class="cta-affiliate secondary">Browse listings on Pararius <span>\u2192</span></a>' +
-        '<a href="/tools/30-percent-ruling-calculator/" class="cta-affiliate secondary" style="margin-top:0.25rem;">Check your 30% ruling eligibility <span>\u2192</span></a>';
-    }
+// CTAs
+document.getElementById('ctaSection').innerHTML =
+'<h3>Ready to find your home?</h3>' +
+'<a href="https://www.funda.nl/koop/" target="_blank" rel="noopener noreferrer" class="cta-affiliate">Search properties on Funda <span>\u2192</span></a>' +
+'<a href="https://www.pararius.nl/koopwoningen/nederland" target="_blank" rel="noopener noreferrer" class="cta-affiliate secondary">Browse listings on Pararius <span>\u2192</span></a>' +
+'<a href="/tools/30-percent-ruling-calculator/" class="cta-affiliate secondary" style="margin-top:0.25rem;">Check your 30% ruling eligibility <span>\u2192</span></a>';
+}
 
-    // ============================================================
-    // RENDER HELPERS
-    // ============================================================
-    function tierRow(label, cls, value, maxValue) {
-      var pct = Math.min((value / maxValue) * 100, 100);
-      return '<div class="tier-row">' +
-        '<span class="tier-label ' + cls + '">' + label + '</span>' +
-        '<div class="tier-bar-wrap"><div class="tier-bar ' + cls + '" style="width:' + pct + '%;"></div></div>' +
-        '<span class="tier-amount">' + fmt(value) + '</span>' +
-      '</div>';
-    }
+// ============================================================
+// RENDER HELPERS
+// ============================================================
+function tierRow(label, cls, value, maxValue) {
+var pct = Math.min((value / maxValue) * 100, 100);
+return '<div class="tier-row">' +
+'<span class="tier-label ' + cls + '">' + label + '</span>' +
+'<div class="tier-bar-wrap"><div class="tier-bar ' + cls + '" style="width:' + pct + '%;"></div></div>' +
+'<span class="tier-amount">' + fmt(value) + '</span>' +
+'</div>';
+}
 
-    function cityBar(label, value, maxValue, fillClass, badgeClass, badgeText) {
-      var pct = Math.min((value / maxValue) * 100, 100);
-      return '<div class="city-bar-row">' +
-        '<div class="city-bar-meta">' +
-          '<span class="city-bar-name">' + label + '</span>' +
-          '<span class="city-bar-badge ' + badgeClass + '">' + badgeText + '</span>' +
-        '</div>' +
-        '<div class="city-bar-track">' +
-          '<div class="city-bar-fill ' + fillClass + '" style="width:' + pct + '%;"></div>' +
-        '</div>' +
-      '</div>';
-    }
+function cityBar(label, value, maxValue, fillClass, badgeClass, badgeText) {
+var pct = Math.min((value / maxValue) * 100, 100);
+return '<div class="city-bar-row">' +
+'<div class="city-bar-meta">' +
+'<span class="city-bar-name">' + label + '</span>' +
+'<span class="city-bar-badge ' + badgeClass + '">' + badgeText + '</span>' +
+'</div>' +
+'<div class="city-bar-track">' +
+'<div class="city-bar-fill ' + fillClass + '" style="width:' + pct + '%;"></div>' +
+'</div>' +
+'</div>';
+}
 </script>

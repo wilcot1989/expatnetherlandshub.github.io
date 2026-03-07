@@ -7,1107 +7,1107 @@ layout: "single"
 
 <script type="application/ld+json">
 {
-    "@context": "https://schema.org",
-    "@type": "WebApplication",
-    "name": "Best Bank Account Comparison Netherlands 2026",
-    "url": "https://expatnetherlandshub.com/tools/bank-account-chooser/",
-    "description": "Interactive tool to find the best Dutch bank account for expats based on personal needs, budget, and preferences.",
-    "applicationCategory": "FinanceApplication",
-    "operatingSystem": "All",
-    "offers": {
-      "@type": "Offer",
-      "price": "0",
-      "priceCurrency": "EUR"
-    },
-    "publisher": {
-      "@type": "Organization",
-      "name": "expatnetherlandshub.com",
-      "url": "https://expatnetherlandshub.com"
-    }
-  }
+"@context": "https://schema.org",
+"@type": "WebApplication",
+"name": "Best Bank Account Comparison Netherlands 2026",
+"url": "https://expatnetherlandshub.com/tools/bank-account-chooser/",
+"description": "Interactive tool to find the best Dutch bank account for expats based on personal needs, budget, and preferences.",
+"applicationCategory": "FinanceApplication",
+"operatingSystem": "All",
+"offers": {
+"@type": "Offer",
+"price": "0",
+"priceCurrency": "EUR"
+},
+"publisher": {
+"@type": "Organization",
+"name": "expatnetherlandshub.com",
+"url": "https://expatnetherlandshub.com"
+}
+}
 </script>
 
 <script type="application/ld+json">
 {
-    "@context": "https://schema.org",
-    "@type": "FAQPage",
-    "mainEntity": [
-      {
-        "@type": "Question",
-        "name": "Can I open a Dutch bank account without a BSN?",
-        "acceptedAnswer": {
-          "@type": "Answer",
-          "text": "Yes — digital banks like bunq and N26 allow you to open an account with just an EU passport before you have a BSN (Burgerservicenummer). Wise also operates without a BSN. Traditional Dutch banks (ING, ABN AMRO, Rabobank) require a BSN, which you receive after registering at your municipality."
-        }
-      },
-      {
-        "@type": "Question",
-        "name": "Which Dutch bank has the best English support?",
-        "acceptedAnswer": {
-          "@type": "Answer",
-          "text": "ING and ABN AMRO have the best English support among traditional banks, with full English apps, websites, and English-speaking staff. Among digital banks, Wise, N26, and bunq are entirely English-first and offer excellent English-language customer service."
-        }
-      },
-      {
-        "@type": "Question",
-        "name": "How much does a Dutch bank account cost per month?",
-        "acceptedAnswer": {
-          "@type": "Answer",
-          "text": "Basic accounts cost between €0 and €3.90 per month. ING has a free basic account. Rabobank starts at €1.70, ABN AMRO at €1.90. Digital banks bunq starts at €2.99, N26 is free for the standard tier. Wise has no monthly fee."
-        }
-      },
-      {
-        "@type": "Question",
-        "name": "What documents do I need to open a bank account in the Netherlands?",
-        "acceptedAnswer": {
-          "@type": "Answer",
-          "text": "For traditional Dutch banks you need: a valid passport or EU ID card, your BSN (citizen service number), proof of address in the Netherlands (rental contract or utility bill), and sometimes proof of income or employment. For digital banks like bunq and N26, you typically only need a passport and can complete the whole process online."
-        }
-      },
-      {
-        "@type": "Question",
-        "name": "Which bank is best for international money transfers from the Netherlands?",
-        "acceptedAnswer": {
-          "@type": "Answer",
-          "text": "Wise is the best option for international transfers. It uses the real mid-market exchange rate and charges just €0.50–€3 per transfer, far cheaper than traditional banks which charge €6–€7+ for non-SEPA transfers. bunq also has a built-in Wise integration. For SEPA transfers within Europe, all Dutch banks offer these for free."
-        }
-      },
-      {
-        "@type": "Question",
-        "name": "Do Dutch banks offer Apple Pay and Google Pay?",
-        "acceptedAnswer": {
-          "@type": "Answer",
-          "text": "Yes — all major Dutch banks including ING, ABN AMRO, Rabobank, bunq, Wise, and N26 support both Apple Pay and Google Pay. This is standard in the Netherlands, and contactless payments via phone are widely accepted."
-        }
-      }
-    ]
-  }
+"@context": "https://schema.org",
+"@type": "FAQPage",
+"mainEntity": [
+{
+"@type": "Question",
+"name": "Can I open a Dutch bank account without a BSN?",
+"acceptedAnswer": {
+"@type": "Answer",
+"text": "Yes — digital banks like bunq and N26 allow you to open an account with just an EU passport before you have a BSN (Burgerservicenummer). Wise also operates without a BSN. Traditional Dutch banks (ING, ABN AMRO, Rabobank) require a BSN, which you receive after registering at your municipality."
+}
+},
+{
+"@type": "Question",
+"name": "Which Dutch bank has the best English support?",
+"acceptedAnswer": {
+"@type": "Answer",
+"text": "ING and ABN AMRO have the best English support among traditional banks, with full English apps, websites, and English-speaking staff. Among digital banks, Wise, N26, and bunq are entirely English-first and offer excellent English-language customer service."
+}
+},
+{
+"@type": "Question",
+"name": "How much does a Dutch bank account cost per month?",
+"acceptedAnswer": {
+"@type": "Answer",
+"text": "Basic accounts cost between €0 and €3.90 per month. ING has a free basic account. Rabobank starts at €1.70, ABN AMRO at €1.90. Digital banks bunq starts at €2.99, N26 is free for the standard tier. Wise has no monthly fee."
+}
+},
+{
+"@type": "Question",
+"name": "What documents do I need to open a bank account in the Netherlands?",
+"acceptedAnswer": {
+"@type": "Answer",
+"text": "For traditional Dutch banks you need: a valid passport or EU ID card, your BSN (citizen service number), proof of address in the Netherlands (rental contract or utility bill), and sometimes proof of income or employment. For digital banks like bunq and N26, you typically only need a passport and can complete the whole process online."
+}
+},
+{
+"@type": "Question",
+"name": "Which bank is best for international money transfers from the Netherlands?",
+"acceptedAnswer": {
+"@type": "Answer",
+"text": "Wise is the best option for international transfers. It uses the real mid-market exchange rate and charges just €0.50–€3 per transfer, far cheaper than traditional banks which charge €6–€7+ for non-SEPA transfers. bunq also has a built-in Wise integration. For SEPA transfers within Europe, all Dutch banks offer these for free."
+}
+},
+{
+"@type": "Question",
+"name": "Do Dutch banks offer Apple Pay and Google Pay?",
+"acceptedAnswer": {
+"@type": "Answer",
+"text": "Yes — all major Dutch banks including ING, ABN AMRO, Rabobank, bunq, Wise, and N26 support both Apple Pay and Google Pay. This is standard in the Netherlands, and contactless payments via phone are widely accepted."
+}
+}
+]
+}
 </script>
 
 <style>
 /* ============================================================
-       ARTICLE-STYLE HERO
-    ============================================================ */
-    .tool-hero {
-      background:
-        url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='80' height='80'%3E%3Ccircle cx='40' cy='40' r='1.5' fill='%23ffffff' opacity='0.07'/%3E%3Ccircle cx='0' cy='0' r='1' fill='%23ffffff' opacity='0.05'/%3E%3Ccircle cx='80' cy='0' r='1' fill='%23ffffff' opacity='0.05'/%3E%3Ccircle cx='0' cy='80' r='1' fill='%23ffffff' opacity='0.05'/%3E%3Ccircle cx='80' cy='80' r='1' fill='%23ffffff' opacity='0.05'/%3E%3Cpath d='M0 40h80M40 0v80' stroke='%23ffffff' stroke-width='0.3' opacity='0.04'/%3E%3C/svg%3E"),
-        linear-gradient(135deg, var(--expat-primary-dark, #145236) 0%, var(--expat-primary, #1B6B4A) 50%, #2D9B6A 100%);
-      color: #fff;
-      padding: 3rem 1.5rem 2.5rem;
-      position: relative;
-      overflow: hidden;
-    }
-    .tool-hero::before {
-      content: '';
-      position: absolute;
-      top: -50%;
-      right: -20%;
-      width: 500px;
-      height: 500px;
-      border-radius: 50%;
-      background: radial-gradient(circle, rgba(232,131,42,0.12) 0%, transparent 70%);
-      pointer-events: none;
-    }
-    .tool-hero::after {
-      content: '';
-      position: absolute;
-      bottom: -40%;
-      left: -15%;
-      width: 400px;
-      height: 400px;
-      border-radius: 50%;
-      background: radial-gradient(circle, rgba(45,155,106,0.15) 0%, transparent 70%);
-      pointer-events: none;
-    }
-    .tool-hero-inner {
-      max-width: 1100px;
-      margin: 0 auto;
-      position: relative;
-      z-index: 1;
-    }
-    .tool-hero-content {
-      display: flex;
-      align-items: center;
-      justify-content: space-between;
-      gap: 2rem;
-    }
-    .tool-hero-text { flex: 1; }
-    .tool-hero-icon {
-      width: 100px;
-      height: 100px;
-      flex-shrink: 0;
-      color: rgba(255,255,255,0.25);
-    }
-    .tool-hero-icon svg { width: 100%; height: 100%; }
-    @media (max-width: 768px) {
+ARTICLE-STYLE HERO
+============================================================ */
+.tool-hero {
+background:
+url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='80' height='80'%3E%3Ccircle cx='40' cy='40' r='1.5' fill='%23ffffff' opacity='0.07'/%3E%3Ccircle cx='0' cy='0' r='1' fill='%23ffffff' opacity='0.05'/%3E%3Ccircle cx='80' cy='0' r='1' fill='%23ffffff' opacity='0.05'/%3E%3Ccircle cx='0' cy='80' r='1' fill='%23ffffff' opacity='0.05'/%3E%3Ccircle cx='80' cy='80' r='1' fill='%23ffffff' opacity='0.05'/%3E%3Cpath d='M0 40h80M40 0v80' stroke='%23ffffff' stroke-width='0.3' opacity='0.04'/%3E%3C/svg%3E"),
+linear-gradient(135deg, var(--expat-primary-dark, #145236) 0%, var(--expat-primary, #1B6B4A) 50%, #2D9B6A 100%);
+color: #fff;
+padding: 3rem 1.5rem 2.5rem;
+position: relative;
+overflow: hidden;
+}
+.tool-hero::before {
+content: '';
+position: absolute;
+top: -50%;
+right: -20%;
+width: 500px;
+height: 500px;
+border-radius: 50%;
+background: radial-gradient(circle, rgba(232,131,42,0.12) 0%, transparent 70%);
+pointer-events: none;
+}
+.tool-hero::after {
+content: '';
+position: absolute;
+bottom: -40%;
+left: -15%;
+width: 400px;
+height: 400px;
+border-radius: 50%;
+background: radial-gradient(circle, rgba(45,155,106,0.15) 0%, transparent 70%);
+pointer-events: none;
+}
+.tool-hero-inner {
+max-width: 1100px;
+margin: 0 auto;
+position: relative;
+z-index: 1;
+}
+.tool-hero-content {
+display: flex;
+align-items: center;
+justify-content: space-between;
+gap: 2rem;
+}
+.tool-hero-text { flex: 1; }
+.tool-hero-icon {
+width: 100px;
+height: 100px;
+flex-shrink: 0;
+color: rgba(255,255,255,0.25);
+}
+.tool-hero-icon svg { width: 100%; height: 100%; }
+@media (max-width: 768px) {
 .tool-hero-icon { display: none; }
-    }
-    .tool-hero .breadcrumb { margin-bottom: 1rem; }
-    .tool-hero .breadcrumb,
-    .tool-hero .breadcrumb a { color: rgba(255,255,255,0.7); }
-    .tool-hero .breadcrumb a:hover { color: #fff; }
-    .tool-hero h1 {
-      color: #fff;
-      font-size: 2.1rem;
-      margin-bottom: 0.6rem;
-      max-width: 700px;
-    }
-    .tool-hero .hero-subtitle {
-      color: rgba(255,255,255,0.85);
-      font-size: 1.1rem;
-      margin-bottom: 0;
-      max-width: 580px;
-    }
-    .tool-hero .meta {
-      color: rgba(255,255,255,0.7);
-      font-size: 0.85rem;
-      margin-top: 0.75rem;
-    }
-    .hero-badge {
-      display: inline-block;
-      background: rgba(232,131,42,0.2);
-      border: 1px solid rgba(232,131,42,0.5);
-      color: #F5A623;
-      font-size: 0.8rem;
-      font-weight: 600;
-      letter-spacing: 0.05em;
-      text-transform: uppercase;
-      padding: 0.3rem 0.9rem;
-      border-radius: 20px;
-      margin-bottom: 1rem;
-    }
+}
+.tool-hero .breadcrumb { margin-bottom: 1rem; }
+.tool-hero .breadcrumb,
+.tool-hero .breadcrumb a { color: rgba(255,255,255,0.7); }
+.tool-hero .breadcrumb a:hover { color: #fff; }
+.tool-hero h1 {
+color: #fff;
+font-size: 2.1rem;
+margin-bottom: 0.6rem;
+max-width: 700px;
+}
+.tool-hero .hero-subtitle {
+color: rgba(255,255,255,0.85);
+font-size: 1.1rem;
+margin-bottom: 0;
+max-width: 580px;
+}
+.tool-hero .meta {
+color: rgba(255,255,255,0.7);
+font-size: 0.85rem;
+margin-top: 0.75rem;
+}
+.hero-badge {
+display: inline-block;
+background: rgba(232,131,42,0.2);
+border: 1px solid rgba(232,131,42,0.5);
+color: #F5A623;
+font-size: 0.8rem;
+font-weight: 600;
+letter-spacing: 0.05em;
+text-transform: uppercase;
+padding: 0.3rem 0.9rem;
+border-radius: 20px;
+margin-bottom: 1rem;
+}
 
-    /* ── MAIN LAYOUT ── */
-    .tool-wrap {
-      max-width: 1100px;
-      margin: 0 auto;
-      padding: 32px 20px 60px;
-      display: grid;
-      grid-template-columns: 280px 1fr;
-      gap: 28px;
-      align-items: start;
-    }
-
-    /* ── FILTERS SIDEBAR ── */
-    .filters-panel {
-      background: var(--card);
-      border: 1px solid var(--border);
-      border-radius: var(--radius);
-      box-shadow: var(--shadow);
-      padding: 24px 20px;
-      position: sticky;
-      top: 76px;
-    }
-    .filters-panel h2 {
-      font-size: 1rem;
-      font-weight: 700;
-      color: var(--green);
-      margin-bottom: 20px;
-      padding-bottom: 10px;
-      border-bottom: 2px solid var(--border);
-    }
-    .filter-group { margin-bottom: 22px; }
-    .filter-group:last-child { margin-bottom: 0; }
-    .filter-group legend {
-      font-family: 'DM Sans', sans-serif;
-      font-weight: 700;
-      font-size: 0.88rem;
-      color: var(--text);
-      text-transform: uppercase;
-      letter-spacing: 0.04em;
-      margin-bottom: 10px;
-      display: block;
-    }
-    .filter-option {
-      display: flex;
-      align-items: center;
-      gap: 9px;
-      margin-bottom: 8px;
-      cursor: pointer;
-      font-size: 0.93rem;
-    }
-    .filter-option input[type="checkbox"],
-    .filter-option input[type="radio"] {
-      width: 16px;
-      height: 16px;
-      accent-color: var(--green);
-      cursor: pointer;
-      flex-shrink: 0;
-    }
-    .filter-option span { line-height: 1.3; }
-    .reset-btn {
-      width: 100%;
-      margin-top: 16px;
-      padding: 9px;
-      background: transparent;
-      border: 1.5px solid var(--border);
-      border-radius: 8px;
-      color: var(--text-muted);
-      font-size: 0.88rem;
-      cursor: pointer;
-      font-family: 'Inter', sans-serif;
-      transition: border-color .2s, color .2s;
-    }
-    .reset-btn:hover { border-color: var(--green); color: var(--green); }
-
-    /* Mobile filter toggle */
-    .filter-toggle-btn {
-      display: none;
-      width: 100%;
-      padding: 12px 16px;
-      background: var(--green);
-      color: #fff;
-      border: none;
-      border-radius: 10px;
-      font-family: 'DM Sans', sans-serif;
-      font-weight: 700;
-      font-size: 0.95rem;
-      cursor: pointer;
-      margin-bottom: 16px;
-      align-items: center;
-      justify-content: center;
-      gap: 8px;
-    }
-
-    /* ── RESULTS ── */
-    .results-section {}
-    .results-meta {
-      display: flex;
-      align-items: center;
-      justify-content: space-between;
-      margin-bottom: 16px;
-      gap: 12px;
-      flex-wrap: wrap;
-    }
-    .results-count {
-      font-family: 'DM Sans', sans-serif;
-      font-weight: 700;
-      font-size: 1rem;
-      color: var(--green);
-    }
-    .sort-label {
-      font-size: 0.88rem;
-      color: var(--text-muted);
-    }
-
-    /* ── BANK CARD ── */
-    .bank-card {
-      background: var(--card);
-      border: 1px solid var(--border);
-      border-radius: var(--radius);
-      box-shadow: var(--shadow);
-      padding: 24px;
-      margin-bottom: 20px;
-      transition: box-shadow .2s, border-color .2s;
-      position: relative;
-    }
-    .bank-card:hover {
-      box-shadow: 0 4px 20px rgba(0,0,0,.13);
-      border-color: #d0d5db;
-    }
-    .bank-card-
-    .bank-name {
-      font-family: 'DM Sans', sans-serif;
-      font-weight: 700;
-      font-size: 1.35rem;
-      color: var(--text);
-    }
-    .bank-badges { display: flex; gap: 8px; flex-wrap: wrap; align-items: center; }
-    .badge {
-      display: inline-block;
-      padding: 3px 10px;
-      border-radius: 20px;
-      font-size: 0.75rem;
-      font-weight: 600;
-      text-transform: uppercase;
-      letter-spacing: 0.04em;
-    }
-    .badge-traditional { background: #EEF4FF; color: #3B5BDB; }
-    .badge-digital { background: #F0FDF4; color: #16A34A; }
-    .badge-bsn-required { background: #FFF7ED; color: #C2410C; }
-    .badge-no-bsn { background: #F0FDF4; color: #15803D; }
-
-    .bank-card-body {
-      display: grid;
-      grid-template-columns: 1fr 1fr;
-      gap: 16px 24px;
-      margin-bottom: 16px;
-    }
-    .bank-info-item { font-size: 0.92rem; }
-    .bank-info-label {
-      font-weight: 600;
-      color: var(--text-muted);
-      font-size: 0.78rem;
-      text-transform: uppercase;
-      letter-spacing: 0.04em;
-      display: block;
-      margin-bottom: 2px;
-    }
-    .bank-info-value { color: var(--text); font-weight: 500; }
-
-    .bank-features {
-      margin-bottom: 16px;
-    }
-    .bank-features ul {
-      list-style: none;
-      display: flex;
-      flex-wrap: wrap;
-      gap: 6px;
-    }
-    .bank-features li {
-      font-size: 0.85rem;
-      background: #F3F4F6;
-      border-radius: 6px;
-      padding: 4px 10px;
-      display: flex;
-      align-items: center;
-      gap: 5px;
-    }
-    .bank-features li::before {
-      content: "✓";
-      color: var(--green);
-      font-weight: 700;
-      font-size: 0.8rem;
-    }
-
-    .best-for {
-      font-size: 0.9rem;
-      color: var(--text-muted);
-      border-left: 3px solid var(--orange);
-      padding-left: 10px;
-      margin-bottom: 18px;
-      font-style: italic;
-    }
-
-    .bank-card-footer {
-      display: flex;
-      gap: 12px;
-      flex-wrap: wrap;
-      align-items: center;
-    }
-
-    .cta-affiliate {
-      display: inline-block;
-      padding: 11px 22px;
-      background: var(--orange);
-      color: #fff !important;
-      text-decoration: none;
-      border-radius: 10px;
-      font-weight: 600;
-      font-size: 0.92rem;
-      transition: background .2s, transform .1s;
-    }
-    .cta-affiliate:hover {
-      background: var(--orange-dark);
-      transform: translateY(-1px);
-    }
-    .cta-secondary {
-      display: inline-block;
-      padding: 11px 20px;
-      background: transparent;
-      color: var(--green) !important;
-      text-decoration: none;
-      border: 1.5px solid var(--green);
-      border-radius: 10px;
-      font-weight: 600;
-      font-size: 0.92rem;
-      transition: background .2s, color .2s;
-    }
-    .cta-secondary:hover {
-      background: var(--green);
-      color: #fff !important;
-    }
-
-    /* Score badge */
-    .score-badge {
-      display: inline-block;
-      background: var(--green);
-      color: #fff;
-      font-family: 'DM Sans', sans-serif;
-      font-weight: 700;
-      font-size: 0.78rem;
-      padding: 4px 10px;
-      border-radius: 20px;
-      margin-bottom: 10px;
-    }
-
-    /* No results */
-    .no-results {
-      text-align: center;
-      padding: 48px 20px;
-      background: var(--card);
-      border-radius: var(--radius);
-      border: 1px solid var(--border);
-      color: var(--text-muted);
-    }
-    .no-results h3 { font-size: 1.1rem; margin-bottom: 8px; color: var(--text); }
-
-    /* ── SEO CONTENT ── */
-    .seo-content {
-      max-width: 960px;
-      margin: 0 auto;
-      padding: 0 20px 80px;
-    }
-    .seo-content h2 {
-      font-size: 1.45rem;
-      margin: 36px 0 14px;
-      color: var(--green);
-    }
-    .seo-content h3 {
-      font-size: 1.15rem;
-      margin: 24px 0 10px;
-    }
-    .seo-content p { margin-bottom: 14px; line-height: 1.75; }
-    .seo-content ul, .seo-content ol {
-      margin: 12px 0 16px 22px;
-    }
-    .seo-content li { margin-bottom: 7px; line-height: 1.65; }
-    .seo-content .info-box {
-      background: #EEF7F2;
-      border-left: 4px solid var(--green);
-      border-radius: 0 10px 10px 0;
-      padding: 16px 20px;
-      margin: 20px 0;
-      font-size: 0.95rem;
-    }
-    .seo-content .info-box strong { color: var(--green); }
-    .seo-content table {
-      width: 100%;
-      border-collapse: collapse;
-      font-size: 0.9rem;
-      margin: 16px 0 24px;
-    }
-    .seo-content table th {
-      background: var(--green);
-      color: #fff;
-      padding: 10px 14px;
-      text-align: left;
-      font-family: 'DM Sans', sans-serif;
-    }
-    .seo-content table td {
-      padding: 10px 14px;
-      border-bottom: 1px solid var(--border);
-    }
-    .seo-content table tr:nth-child(even) td { background: #F8FAF9; }
-
-    /* ── FAQ SECTION ── */
-    .faq-section {
-      max-width: 960px;
-      margin: 0 auto;
-      padding: 0 20px 80px;
-    }
-    .faq-section h2 {
-      font-size: 1.45rem;
-      color: var(--green);
-      margin-bottom: 20px;
-    }
-    .faq-item {
-      border: 1px solid var(--border);
-      border-radius: 10px;
-      margin-bottom: 10px;
-      overflow: hidden;
-    }
-    .faq-question {
-      width: 100%;
-      text-align: left;
-      padding: 16px 20px;
-      background: var(--card);
-      border: none;
-      cursor: pointer;
-      font-family: 'DM Sans', sans-serif;
-      font-weight: 700;
-      font-size: 0.97rem;
-      color: var(--text);
-      display: flex;
-      justify-content: space-between;
-      align-items: center;
-      gap: 12px;
-      transition: background .2s;
-    }
-    .faq-question:hover { background: #F3F4F6; }
-    .faq-question .faq-icon {
-      font-size: 1.2rem;
-      color: var(--green);
-      flex-shrink: 0;
-      transition: transform .2s;
-    }
-    .faq-question[aria-expanded="true"] .faq-icon { transform: rotate(45deg); }
-    .faq-answer {
-      display: none;
-      padding: 0 20px 16px;
-      background: var(--card);
-      font-size: 0.93rem;
-      line-height: 1.7;
-      color: #374151;
-    }
-    .faq-answer.open { display: block; }
-
-    /* ── FOOTER ── */
-    
-
-    
-    
-    
-    .footer-links { margin-bottom: 0.75rem; }
-
-    /* ── RESPONSIVE ── */
-    @media (max-width: 768px) {
+/* ── MAIN LAYOUT ── */
 .tool-wrap {
-        grid-template-columns: 1fr;
-        padding: 20px 14px 48px;
-        gap: 16px;
-    }
-      .filter-toggle-btn { display: flex; }
-      .filters-panel {
-        position: static;
-        display: none;
-      }
-      .filters-panel.open { display: block; }
-      .bank-card-body { grid-template-columns: 1fr; gap: 10px; }
-      .tool-hero { padding: 32px 16px 28px; }
-      .score-badge { margin-bottom: 8px; }
-      .bank-card-footer { flex-direction: column; }
-      .cta-affiliate, .cta-secondary { text-align: center; }
-    }
+max-width: 1100px;
+margin: 0 auto;
+padding: 32px 20px 60px;
+display: grid;
+grid-template-columns: 280px 1fr;
+gap: 28px;
+align-items: start;
+}
+
+/* ── FILTERS SIDEBAR ── */
+.filters-panel {
+background: var(--card);
+border: 1px solid var(--border);
+border-radius: var(--radius);
+box-shadow: var(--shadow);
+padding: 24px 20px;
+position: sticky;
+top: 76px;
+}
+.filters-panel h2 {
+font-size: 1rem;
+font-weight: 700;
+color: var(--green);
+margin-bottom: 20px;
+padding-bottom: 10px;
+border-bottom: 2px solid var(--border);
+}
+.filter-group { margin-bottom: 22px; }
+.filter-group:last-child { margin-bottom: 0; }
+.filter-group legend {
+font-family: 'DM Sans', sans-serif;
+font-weight: 700;
+font-size: 0.88rem;
+color: var(--text);
+text-transform: uppercase;
+letter-spacing: 0.04em;
+margin-bottom: 10px;
+display: block;
+}
+.filter-option {
+display: flex;
+align-items: center;
+gap: 9px;
+margin-bottom: 8px;
+cursor: pointer;
+font-size: 0.93rem;
+}
+.filter-option input[type="checkbox"],
+.filter-option input[type="radio"] {
+width: 16px;
+height: 16px;
+accent-color: var(--green);
+cursor: pointer;
+flex-shrink: 0;
+}
+.filter-option span { line-height: 1.3; }
+.reset-btn {
+width: 100%;
+margin-top: 16px;
+padding: 9px;
+background: transparent;
+border: 1.5px solid var(--border);
+border-radius: 8px;
+color: var(--text-muted);
+font-size: 0.88rem;
+cursor: pointer;
+font-family: 'Inter', sans-serif;
+transition: border-color .2s, color .2s;
+}
+.reset-btn:hover { border-color: var(--green); color: var(--green); }
+
+/* Mobile filter toggle */
+.filter-toggle-btn {
+display: none;
+width: 100%;
+padding: 12px 16px;
+background: var(--green);
+color: #fff;
+border: none;
+border-radius: 10px;
+font-family: 'DM Sans', sans-serif;
+font-weight: 700;
+font-size: 0.95rem;
+cursor: pointer;
+margin-bottom: 16px;
+align-items: center;
+justify-content: center;
+gap: 8px;
+}
+
+/* ── RESULTS ── */
+.results-section {}
+.results-meta {
+display: flex;
+align-items: center;
+justify-content: space-between;
+margin-bottom: 16px;
+gap: 12px;
+flex-wrap: wrap;
+}
+.results-count {
+font-family: 'DM Sans', sans-serif;
+font-weight: 700;
+font-size: 1rem;
+color: var(--green);
+}
+.sort-label {
+font-size: 0.88rem;
+color: var(--text-muted);
+}
+
+/* ── BANK CARD ── */
+.bank-card {
+background: var(--card);
+border: 1px solid var(--border);
+border-radius: var(--radius);
+box-shadow: var(--shadow);
+padding: 24px;
+margin-bottom: 20px;
+transition: box-shadow .2s, border-color .2s;
+position: relative;
+}
+.bank-card:hover {
+box-shadow: 0 4px 20px rgba(0,0,0,.13);
+border-color: #d0d5db;
+}
+.bank-card-
+.bank-name {
+font-family: 'DM Sans', sans-serif;
+font-weight: 700;
+font-size: 1.35rem;
+color: var(--text);
+}
+.bank-badges { display: flex; gap: 8px; flex-wrap: wrap; align-items: center; }
+.badge {
+display: inline-block;
+padding: 3px 10px;
+border-radius: 20px;
+font-size: 0.75rem;
+font-weight: 600;
+text-transform: uppercase;
+letter-spacing: 0.04em;
+}
+.badge-traditional { background: #EEF4FF; color: #3B5BDB; }
+.badge-digital { background: #F0FDF4; color: #16A34A; }
+.badge-bsn-required { background: #FFF7ED; color: #C2410C; }
+.badge-no-bsn { background: #F0FDF4; color: #15803D; }
+
+.bank-card-body {
+display: grid;
+grid-template-columns: 1fr 1fr;
+gap: 16px 24px;
+margin-bottom: 16px;
+}
+.bank-info-item { font-size: 0.92rem; }
+.bank-info-label {
+font-weight: 600;
+color: var(--text-muted);
+font-size: 0.78rem;
+text-transform: uppercase;
+letter-spacing: 0.04em;
+display: block;
+margin-bottom: 2px;
+}
+.bank-info-value { color: var(--text); font-weight: 500; }
+
+.bank-features {
+margin-bottom: 16px;
+}
+.bank-features ul {
+list-style: none;
+display: flex;
+flex-wrap: wrap;
+gap: 6px;
+}
+.bank-features li {
+font-size: 0.85rem;
+background: #F3F4F6;
+border-radius: 6px;
+padding: 4px 10px;
+display: flex;
+align-items: center;
+gap: 5px;
+}
+.bank-features li::before {
+content: "✓";
+color: var(--green);
+font-weight: 700;
+font-size: 0.8rem;
+}
+
+.best-for {
+font-size: 0.9rem;
+color: var(--text-muted);
+border-left: 3px solid var(--orange);
+padding-left: 10px;
+margin-bottom: 18px;
+font-style: italic;
+}
+
+.bank-card-footer {
+display: flex;
+gap: 12px;
+flex-wrap: wrap;
+align-items: center;
+}
+
+.cta-affiliate {
+display: inline-block;
+padding: 11px 22px;
+background: var(--orange);
+color: #fff !important;
+text-decoration: none;
+border-radius: 10px;
+font-weight: 600;
+font-size: 0.92rem;
+transition: background .2s, transform .1s;
+}
+.cta-affiliate:hover {
+background: var(--orange-dark);
+transform: translateY(-1px);
+}
+.cta-secondary {
+display: inline-block;
+padding: 11px 20px;
+background: transparent;
+color: var(--green) !important;
+text-decoration: none;
+border: 1.5px solid var(--green);
+border-radius: 10px;
+font-weight: 600;
+font-size: 0.92rem;
+transition: background .2s, color .2s;
+}
+.cta-secondary:hover {
+background: var(--green);
+color: #fff !important;
+}
+
+/* Score badge */
+.score-badge {
+display: inline-block;
+background: var(--green);
+color: #fff;
+font-family: 'DM Sans', sans-serif;
+font-weight: 700;
+font-size: 0.78rem;
+padding: 4px 10px;
+border-radius: 20px;
+margin-bottom: 10px;
+}
+
+/* No results */
+.no-results {
+text-align: center;
+padding: 48px 20px;
+background: var(--card);
+border-radius: var(--radius);
+border: 1px solid var(--border);
+color: var(--text-muted);
+}
+.no-results h3 { font-size: 1.1rem; margin-bottom: 8px; color: var(--text); }
+
+/* ── SEO CONTENT ── */
+.seo-content {
+max-width: 960px;
+margin: 0 auto;
+padding: 0 20px 80px;
+}
+.seo-content h2 {
+font-size: 1.45rem;
+margin: 36px 0 14px;
+color: var(--green);
+}
+.seo-content h3 {
+font-size: 1.15rem;
+margin: 24px 0 10px;
+}
+.seo-content p { margin-bottom: 14px; line-height: 1.75; }
+.seo-content ul, .seo-content ol {
+margin: 12px 0 16px 22px;
+}
+.seo-content li { margin-bottom: 7px; line-height: 1.65; }
+.seo-content .info-box {
+background: #EEF7F2;
+border-left: 4px solid var(--green);
+border-radius: 0 10px 10px 0;
+padding: 16px 20px;
+margin: 20px 0;
+font-size: 0.95rem;
+}
+.seo-content .info-box strong { color: var(--green); }
+.seo-content table {
+width: 100%;
+border-collapse: collapse;
+font-size: 0.9rem;
+margin: 16px 0 24px;
+}
+.seo-content table th {
+background: var(--green);
+color: #fff;
+padding: 10px 14px;
+text-align: left;
+font-family: 'DM Sans', sans-serif;
+}
+.seo-content table td {
+padding: 10px 14px;
+border-bottom: 1px solid var(--border);
+}
+.seo-content table tr:nth-child(even) td { background: #F8FAF9; }
+
+/* ── FAQ SECTION ── */
+.faq-section {
+max-width: 960px;
+margin: 0 auto;
+padding: 0 20px 80px;
+}
+.faq-section h2 {
+font-size: 1.45rem;
+color: var(--green);
+margin-bottom: 20px;
+}
+.faq-item {
+border: 1px solid var(--border);
+border-radius: 10px;
+margin-bottom: 10px;
+overflow: hidden;
+}
+.faq-question {
+width: 100%;
+text-align: left;
+padding: 16px 20px;
+background: var(--card);
+border: none;
+cursor: pointer;
+font-family: 'DM Sans', sans-serif;
+font-weight: 700;
+font-size: 0.97rem;
+color: var(--text);
+display: flex;
+justify-content: space-between;
+align-items: center;
+gap: 12px;
+transition: background .2s;
+}
+.faq-question:hover { background: #F3F4F6; }
+.faq-question .faq-icon {
+font-size: 1.2rem;
+color: var(--green);
+flex-shrink: 0;
+transition: transform .2s;
+}
+.faq-question[aria-expanded="true"] .faq-icon { transform: rotate(45deg); }
+.faq-answer {
+display: none;
+padding: 0 20px 16px;
+background: var(--card);
+font-size: 0.93rem;
+line-height: 1.7;
+color: #374151;
+}
+.faq-answer.open { display: block; }
+
+/* ── FOOTER ── */
+
+
+
+
+
+.footer-links { margin-bottom: 0.75rem; }
+
+/* ── RESPONSIVE ── */
+@media (max-width: 768px) {
+.tool-wrap {
+grid-template-columns: 1fr;
+padding: 20px 14px 48px;
+gap: 16px;
+}
+.filter-toggle-btn { display: flex; }
+.filters-panel {
+position: static;
+display: none;
+}
+.filters-panel.open { display: block; }
+.bank-card-body { grid-template-columns: 1fr; gap: 10px; }
+.tool-hero { padding: 32px 16px 28px; }
+.score-badge { margin-bottom: 8px; }
+.bank-card-footer { flex-direction: column; }
+.cta-affiliate, .cta-secondary { text-align: center; }
+}
 </style>
 
 <div class="tool-hero">
-  <div class="tool-hero-inner">
-    <nav class="breadcrumb" aria-label="Breadcrumb">
-      <a href="/">Home</a> &rsaquo;
-      <a href="/tools/">Tools</a> &rsaquo;
-      <span>Bank Account Comparison</span>
-    </nav>
-    <div class="tool-hero-content">
-      <div class="tool-hero-text">
-        <span class="hero-badge">Free Tool &bull; Updated March 2026</span>
-        <h1>Best Bank Account Comparison Netherlands 2026</h1>
-        <p class="hero-subtitle">Compare Dutch banks and find the best account for expats based on your needs.</p>
-        <div class="meta">Free &middot; No signup required &middot; By Sarah van den Berg</div>
-      </div>
-      <div class="tool-hero-icon" aria-hidden="true">
-        <svg viewBox="0 0 80 80" fill="none" xmlns="http://www.w3.org/2000/svg"><path d="M40 8L8 28h64L40 8z" stroke="currentColor" stroke-width="2.5" stroke-linejoin="round"/><rect x="8" y="60" width="64" height="8" rx="2" stroke="currentColor" stroke-width="2.5"/><path d="M18 28v32M32 28v32M48 28v32M62 28v32" stroke="currentColor" stroke-width="3" stroke-linecap="round" opacity=".5"/><circle cx="40" cy="20" r="4" stroke="currentColor" stroke-width="1.5" opacity=".4"/></svg>
-      </div>
-    </div>
-  </div>
+<div class="tool-hero-inner">
+<nav class="breadcrumb" aria-label="Breadcrumb">
+<a href="/">Home</a> &rsaquo;
+<a href="/tools/">Tools</a> &rsaquo;
+<span>Bank Account Comparison</span>
+</nav>
+<div class="tool-hero-content">
+<div class="tool-hero-text">
+<span class="hero-badge">Free Tool &bull; Updated March 2026</span>
+<h1>Best Bank Account Comparison Netherlands 2026</h1>
+<p class="hero-subtitle">Compare Dutch banks and find the best account for expats based on your needs.</p>
+<div class="meta">Free &middot; No signup required &middot; By Sarah van den Berg</div>
+</div>
+<div class="tool-hero-icon" aria-hidden="true">
+<svg viewBox="0 0 80 80" fill="none" xmlns="http://www.w3.org/2000/svg"><path d="M40 8L8 28h64L40 8z" stroke="currentColor" stroke-width="2.5" stroke-linejoin="round"/><rect x="8" y="60" width="64" height="8" rx="2" stroke="currentColor" stroke-width="2.5"/><path d="M18 28v32M32 28v32M48 28v32M62 28v32" stroke="currentColor" stroke-width="3" stroke-linecap="round" opacity=".5"/><circle cx="40" cy="20" r="4" stroke="currentColor" stroke-width="1.5" opacity=".4"/></svg>
+</div>
+</div>
+</div>
 </div>
 
 <!-- TOOL -->
 <div class="tool-wrap">
 
-  <!-- SIDEBAR FILTERS -->
-  <aside>
-    <button class="filter-toggle-btn" id="filterToggle" aria-expanded="false" aria-controls="filtersPanel">
-      <svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><line x1="4" y1="6" x2="20" y2="6"/><line x1="4" y1="12" x2="14" y2="12"/><line x1="4" y1="18" x2="10" y2="18"/></svg>
-      Filter banks
-    </button>
-    <div class="filters-panel" id="filtersPanel" role="form" aria-label="Bank account filters">
-      <h2>Find your best match</h2>
+<!-- SIDEBAR FILTERS -->
+<aside>
+<button class="filter-toggle-btn" id="filterToggle" aria-expanded="false" aria-controls="filtersPanel">
+<svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><line x1="4" y1="6" x2="20" y2="6"/><line x1="4" y1="12" x2="14" y2="12"/><line x1="4" y1="18" x2="10" y2="18"/></svg>
+Filter banks
+</button>
+<div class="filters-panel" id="filtersPanel" role="form" aria-label="Bank account filters">
+<h2>Find your best match</h2>
 
-      <div class="filter-group">
-        <legend>What matters most?</legend>
-        <label class="filter-option">
-          <input type="checkbox" name="priority" value="free" id="f-free" />
-          <span>Free account</span>
-        </label>
-        <label class="filter-option">
-          <input type="checkbox" name="priority" value="english" id="f-english" />
-          <span>English app &amp; support</span>
-        </label>
-        <label class="filter-option">
-          <input type="checkbox" name="priority" value="international" id="f-international" />
-          <span>International transfers</span>
-        </label>
-        <label class="filter-option">
-          <input type="checkbox" name="priority" value="applepay" id="f-applepay" />
-          <span>Apple/Google Pay</span>
-        </label>
-        <label class="filter-option">
-          <input type="checkbox" name="priority" value="joint" id="f-joint" />
-          <span>Joint account</span>
-        </label>
-        <label class="filter-option">
-          <input type="checkbox" name="priority" value="business" id="f-business" />
-          <span>Business account</span>
-        </label>
-      </div>
+<div class="filter-group">
+<legend>What matters most?</legend>
+<label class="filter-option">
+<input type="checkbox" name="priority" value="free" id="f-free" />
+<span>Free account</span>
+</label>
+<label class="filter-option">
+<input type="checkbox" name="priority" value="english" id="f-english" />
+<span>English app &amp; support</span>
+</label>
+<label class="filter-option">
+<input type="checkbox" name="priority" value="international" id="f-international" />
+<span>International transfers</span>
+</label>
+<label class="filter-option">
+<input type="checkbox" name="priority" value="applepay" id="f-applepay" />
+<span>Apple/Google Pay</span>
+</label>
+<label class="filter-option">
+<input type="checkbox" name="priority" value="joint" id="f-joint" />
+<span>Joint account</span>
+</label>
+<label class="filter-option">
+<input type="checkbox" name="priority" value="business" id="f-business" />
+<span>Business account</span>
+</label>
+</div>
 
-      <div class="filter-group">
-        <legend>Bank type</legend>
-        <label class="filter-option">
-          <input type="radio" name="bankType" value="both" id="t-both" checked />
-          <span>Both</span>
-        </label>
-        <label class="filter-option">
-          <input type="radio" name="bankType" value="traditional" id="t-traditional" />
-          <span>Traditional bank</span>
-        </label>
-        <label class="filter-option">
-          <input type="radio" name="bankType" value="digital" id="t-digital" />
-          <span>Digital / online bank</span>
-        </label>
-      </div>
+<div class="filter-group">
+<legend>Bank type</legend>
+<label class="filter-option">
+<input type="radio" name="bankType" value="both" id="t-both" checked />
+<span>Both</span>
+</label>
+<label class="filter-option">
+<input type="radio" name="bankType" value="traditional" id="t-traditional" />
+<span>Traditional bank</span>
+</label>
+<label class="filter-option">
+<input type="radio" name="bankType" value="digital" id="t-digital" />
+<span>Digital / online bank</span>
+</label>
+</div>
 
-      <div class="filter-group">
-        <legend>Monthly budget</legend>
-        <label class="filter-option">
-          <input type="radio" name="budget" value="free" id="b-free" />
-          <span>Free only</span>
-        </label>
-        <label class="filter-option">
-          <input type="radio" name="budget" value="5" id="b-5" />
-          <span>Up to €5/month</span>
-        </label>
-        <label class="filter-option">
-          <input type="radio" name="budget" value="10" id="b-10" />
-          <span>Up to €10/month</span>
-        </label>
-        <label class="filter-option">
-          <input type="radio" name="budget" value="any" id="b-any" checked />
-          <span>Any budget</span>
-        </label>
-      </div>
+<div class="filter-group">
+<legend>Monthly budget</legend>
+<label class="filter-option">
+<input type="radio" name="budget" value="free" id="b-free" />
+<span>Free only</span>
+</label>
+<label class="filter-option">
+<input type="radio" name="budget" value="5" id="b-5" />
+<span>Up to €5/month</span>
+</label>
+<label class="filter-option">
+<input type="radio" name="budget" value="10" id="b-10" />
+<span>Up to €10/month</span>
+</label>
+<label class="filter-option">
+<input type="radio" name="budget" value="any" id="b-any" checked />
+<span>Any budget</span>
+</label>
+</div>
 
-      <button class="reset-btn" id="resetBtn" type="button">Reset all filters</button>
-    </div>
-  </aside>
+<button class="reset-btn" id="resetBtn" type="button">Reset all filters</button>
+</div>
+</aside>
 
-  <!-- RESULTS -->
-  <main>
-    <div class="results-meta">
-      <span class="results-count" id="resultsCount">Showing all 6 banks</span>
-      <span class="sort-label">Sorted by match score</span>
-    </div>
-    <div id="resultsContainer"></div>
-  </div>
+<!-- RESULTS -->
+<main>
+<div class="results-meta">
+<span class="results-count" id="resultsCount">Showing all 6 banks</span>
+<span class="sort-label">Sorted by match score</span>
+</div>
+<div id="resultsContainer"></div>
+</div>
 </div>
 
 <!-- SEO CONTENT -->
 <section class="seo-content">
-  <h2>Opening a Bank Account in the Netherlands as an Expat</h2>
+<h2>Opening a Bank Account in the Netherlands as an Expat</h2>
 
-  <p>Moving to the Netherlands and setting up your finances is one of the first priorities once you arrive. Unlike many countries, the Dutch banking system is well-developed and largely digital — but it comes with some quirks that can catch expats off guard, especially the BSN requirement.</p>
+<p>Moving to the Netherlands and setting up your finances is one of the first priorities once you arrive. Unlike many countries, the Dutch banking system is well-developed and largely digital — but it comes with some quirks that can catch expats off guard, especially the BSN requirement.</p>
 
-  <div class="info-box">
-    <strong>Pro tip:</strong> Open a Wise or N26 account before you leave your home country — you can do it online in minutes, no Dutch address or BSN needed. Use it for your first weeks in the Netherlands while you sort out your official registration.
-  </div>
+<div class="info-box">
+<strong>Pro tip:</strong> Open a Wise or N26 account before you leave your home country — you can do it online in minutes, no Dutch address or BSN needed. Use it for your first weeks in the Netherlands while you sort out your official registration.
+</div>
 
-  <h3>The BSN Requirement</h3>
-  <p>A BSN (Burgerservicenummer) is a Dutch citizen service number, similar to a Social Security Number. All traditional Dutch banks — ING, ABN AMRO, and Rabobank — require one before opening an account. You receive your BSN after registering at your gemeente (municipality), which you can usually do once you have a Dutch address.</p>
-  <p>This creates a catch-22 for new arrivals: you need a bank account to pay rent, but you need a Dutch address to get a BSN. The solution? Digital banks that don't require a BSN, such as bunq, N26, or Wise.</p>
+<h3>The BSN Requirement</h3>
+<p>A BSN (Burgerservicenummer) is a Dutch citizen service number, similar to a Social Security Number. All traditional Dutch banks — ING, ABN AMRO, and Rabobank — require one before opening an account. You receive your BSN after registering at your gemeente (municipality), which you can usually do once you have a Dutch address.</p>
+<p>This creates a catch-22 for new arrivals: you need a bank account to pay rent, but you need a Dutch address to get a BSN. The solution? Digital banks that don't require a BSN, such as bunq, N26, or Wise.</p>
 
-  <h3>Documents You Need</h3>
-  <ul>
-    <li>Valid passport or EU national ID card</li>
-    <li>BSN number (for traditional banks)</li>
-    <li>Dutch address proof (rental contract, utility bill)</li>
-    <li>Proof of income or employment letter (sometimes required)</li>
-    <li>For digital banks (bunq, N26, Wise): just a passport is usually enough</li>
-  </ul>
+<h3>Documents You Need</h3>
+<ul>
+<li>Valid passport or EU national ID card</li>
+<li>BSN number (for traditional banks)</li>
+<li>Dutch address proof (rental contract, utility bill)</li>
+<li>Proof of income or employment letter (sometimes required)</li>
+<li>For digital banks (bunq, N26, Wise): just a passport is usually enough</li>
+</ul>
 
-  <h2>Traditional Banks vs Digital Banks</h2>
-  <p>The Dutch banking market offers two very different experiences depending on whether you go traditional or digital.</p>
+<h2>Traditional Banks vs Digital Banks</h2>
+<p>The Dutch banking market offers two very different experiences depending on whether you go traditional or digital.</p>
 
-  <h3>Traditional Banks (ING, ABN AMRO, Rabobank)</h3>
-  <p>Traditional banks offer the full Dutch banking experience: physical branches, ATMs across the country, mortgage services, and local customer support. ING has the largest ATM network in the Netherlands with over 3,000 machines. ABN AMRO is popular with expats because many branches have English-speaking staff.</p>
-  <p>The downside: monthly fees (typically €1.70–€3.90), BSN required, and slower account opening (1–5 business days). International transfers are expensive: €6–€7 or more for non-SEPA transactions.</p>
+<h3>Traditional Banks (ING, ABN AMRO, Rabobank)</h3>
+<p>Traditional banks offer the full Dutch banking experience: physical branches, ATMs across the country, mortgage services, and local customer support. ING has the largest ATM network in the Netherlands with over 3,000 machines. ABN AMRO is popular with expats because many branches have English-speaking staff.</p>
+<p>The downside: monthly fees (typically €1.70–€3.90), BSN required, and slower account opening (1–5 business days). International transfers are expensive: €6–€7 or more for non-SEPA transactions.</p>
 
-  <h3>Digital Banks (bunq, N26, Wise)</h3>
-  <p>Digital banks work entirely through apps. No branches, no in-person service, but also no paperwork queues. They're often faster, cheaper for international use, and fully English-first.</p>
-  <p>bunq, founded in Amsterdam, is the Netherlands' home-grown digital bank and a favourite among expats. You can open an account without a BSN using just an EU passport. N26 is a German bank with a strong presence in the Netherlands and a solid free tier. Wise is technically a money transfer service turned bank account — unbeatable for international transfers and multi-currency use.</p>
+<h3>Digital Banks (bunq, N26, Wise)</h3>
+<p>Digital banks work entirely through apps. No branches, no in-person service, but also no paperwork queues. They're often faster, cheaper for international use, and fully English-first.</p>
+<p>bunq, founded in Amsterdam, is the Netherlands' home-grown digital bank and a favourite among expats. You can open an account without a BSN using just an EU passport. N26 is a German bank with a strong presence in the Netherlands and a solid free tier. Wise is technically a money transfer service turned bank account — unbeatable for international transfers and multi-currency use.</p>
 
-  <h2>Monthly Fee Comparison</h2>
-  <table>
-    <thead>
-      <tr><th>Bank</th><th>Basic plan</th><th>Mid-tier</th><th>BSN required</th></tr>
-    </thead>
-    <tbody>
-      <tr><td>ING</td><td>€0</td><td>€1.95</td><td>Yes</td></tr>
-      <tr><td>ABN AMRO</td><td>€1.90</td><td>€3.90</td><td>Yes</td></tr>
-      <tr><td>Rabobank</td><td>€1.70</td><td>€3.50</td><td>Yes</td></tr>
-      <tr><td>bunq</td><td>€2.99</td><td>€8.99</td><td>No</td></tr>
-      <tr><td>Wise</td><td>€0</td><td>—</td><td>No</td></tr>
-      <tr><td>N26</td><td>€0</td><td>€4.90</td><td>No</td></tr>
-    </tbody>
-  </table>
+<h2>Monthly Fee Comparison</h2>
+<table>
+<thead>
+<tr><th>Bank</th><th>Basic plan</th><th>Mid-tier</th><th>BSN required</th></tr>
+</thead>
+<tbody>
+<tr><td>ING</td><td>€0</td><td>€1.95</td><td>Yes</td></tr>
+<tr><td>ABN AMRO</td><td>€1.90</td><td>€3.90</td><td>Yes</td></tr>
+<tr><td>Rabobank</td><td>€1.70</td><td>€3.50</td><td>Yes</td></tr>
+<tr><td>bunq</td><td>€2.99</td><td>€8.99</td><td>No</td></tr>
+<tr><td>Wise</td><td>€0</td><td>—</td><td>No</td></tr>
+<tr><td>N26</td><td>€0</td><td>€4.90</td><td>No</td></tr>
+</tbody>
+</table>
 
-  <h2>International Transfers: What It Really Costs</h2>
-  <p>If you regularly send money home or receive salary in a foreign currency, this is the most important factor in your bank choice.</p>
-  <p>Traditional Dutch banks use their own exchange rates with spreads of 2–4%, plus a fixed transfer fee of €6–€7 for non-SEPA transfers. On a €1,000 transfer, you might lose €25–€35 in hidden costs.</p>
-  <p>Wise uses the real mid-market exchange rate (the one you see on Google) and charges a small transparent fee of 0.5–1.5% depending on currency. On that same €1,000 transfer, you'd pay €5–€15. Over the course of a year, this difference can add up to hundreds of euros.</p>
-  <p>bunq has a built-in Wise integration for international transfers, giving you access to good rates from within a full Dutch banking experience.</p>
-  <p>For more detail, see our guide: <a href="/guides/finance/best-international-money-transfer-netherlands-2026/">Best ways to transfer money internationally from the Netherlands</a>.</p>
+<h2>International Transfers: What It Really Costs</h2>
+<p>If you regularly send money home or receive salary in a foreign currency, this is the most important factor in your bank choice.</p>
+<p>Traditional Dutch banks use their own exchange rates with spreads of 2–4%, plus a fixed transfer fee of €6–€7 for non-SEPA transfers. On a €1,000 transfer, you might lose €25–€35 in hidden costs.</p>
+<p>Wise uses the real mid-market exchange rate (the one you see on Google) and charges a small transparent fee of 0.5–1.5% depending on currency. On that same €1,000 transfer, you'd pay €5–€15. Over the course of a year, this difference can add up to hundreds of euros.</p>
+<p>bunq has a built-in Wise integration for international transfers, giving you access to good rates from within a full Dutch banking experience.</p>
+<p>For more detail, see our guide: <a href="/guides/finance/best-international-money-transfer-netherlands-2026/">Best ways to transfer money internationally from the Netherlands</a>.</p>
 
-  <h2>Our Recommended Strategy for New Expats</h2>
-  <p>Based on common expat experiences, here's the approach we recommend:</p>
-  <ol>
-    <li><strong>Before you arrive:</strong> Open a free Wise account or N26 Standard. Use it for your first weeks and to receive your first Dutch salary if needed.</li>
-    <li><strong>After getting your BSN:</strong> Open a Dutch bank account. ING is the best all-round choice for most expats (free, large ATM network, full English app). ABN AMRO is better if you want in-person English support.</li>
-    <li><strong>Keep Wise for international use:</strong> Even after opening a Dutch bank account, Wise is worth keeping for any international transfers or travel outside the eurozone.</li>
-    <li><strong>If you need business banking:</strong> Most Dutch banks offer business accounts. bunq's business tiers are popular with freelancers and ZZP'ers (self-employed).</li>
-  </ol>
+<h2>Our Recommended Strategy for New Expats</h2>
+<p>Based on common expat experiences, here's the approach we recommend:</p>
+<ol>
+<li><strong>Before you arrive:</strong> Open a free Wise account or N26 Standard. Use it for your first weeks and to receive your first Dutch salary if needed.</li>
+<li><strong>After getting your BSN:</strong> Open a Dutch bank account. ING is the best all-round choice for most expats (free, large ATM network, full English app). ABN AMRO is better if you want in-person English support.</li>
+<li><strong>Keep Wise for international use:</strong> Even after opening a Dutch bank account, Wise is worth keeping for any international transfers or travel outside the eurozone.</li>
+<li><strong>If you need business banking:</strong> Most Dutch banks offer business accounts. bunq's business tiers are popular with freelancers and ZZP'ers (self-employed).</li>
+</ol>
 
-  <div class="info-box">
-    <strong>Read more:</strong> Our complete guide <a href="/guides/finance/best-bank-account-expats-netherlands-2026/">Opening a bank account in the Netherlands (2026)</a> covers the full step-by-step process including required documents and timelines for each bank.
-  </div>
+<div class="info-box">
+<strong>Read more:</strong> Our complete guide <a href="/guides/finance/best-bank-account-expats-netherlands-2026/">Opening a bank account in the Netherlands (2026)</a> covers the full step-by-step process including required documents and timelines for each bank.
+</div>
 
-  <h2>iDEAL: The Dutch Payment Standard</h2>
-  <p>If you've not heard of iDEAL, you will within your first week in the Netherlands. It's the dominant online payment method used by 90%+ of Dutch webshops, rental platforms, and government services. It works directly from your Dutch bank account — no credit card needed.</p>
-  <p>All major Dutch banks support iDEAL natively: ING, ABN AMRO, and Rabobank are the most widely supported. bunq also supports iDEAL. Wise and N26 do not support iDEAL, which is one reason having a traditional Dutch bank account alongside your digital one is useful.</p>
+<h2>iDEAL: The Dutch Payment Standard</h2>
+<p>If you've not heard of iDEAL, you will within your first week in the Netherlands. It's the dominant online payment method used by 90%+ of Dutch webshops, rental platforms, and government services. It works directly from your Dutch bank account — no credit card needed.</p>
+<p>All major Dutch banks support iDEAL natively: ING, ABN AMRO, and Rabobank are the most widely supported. bunq also supports iDEAL. Wise and N26 do not support iDEAL, which is one reason having a traditional Dutch bank account alongside your digital one is useful.</p>
 
-  <h2>Apple Pay and Google Pay in the Netherlands</h2>
-  <p>Good news: all six banks in this comparison support both Apple Pay and Google Pay. Contactless payments via smartphone are widely accepted across the Netherlands — in supermarkets, restaurants, and public transport. This is less of a differentiator than it was a few years ago, since even traditional Dutch banks now have full mobile payment support.</p>
+<h2>Apple Pay and Google Pay in the Netherlands</h2>
+<p>Good news: all six banks in this comparison support both Apple Pay and Google Pay. Contactless payments via smartphone are widely accepted across the Netherlands — in supermarkets, restaurants, and public transport. This is less of a differentiator than it was a few years ago, since even traditional Dutch banks now have full mobile payment support.</p>
 </section>
 
 <!-- FAQ -->
 <section class="faq-section">
-  <h2>Frequently Asked Questions</h2>
+<h2>Frequently Asked Questions</h2>
 
-  <div class="faq-item">
-    <button class="faq-question" aria-expanded="false">
-      Can I open a Dutch bank account without a BSN?
-      <span class="faq-icon">+</span>
-    </button>
-    <div class="faq-answer">
-      <p>Yes — digital banks like bunq and N26 allow you to open an account with just an EU passport before you have a BSN (Burgerservicenummer). Wise also operates without a BSN. Traditional Dutch banks (ING, ABN AMRO, Rabobank) require a BSN, which you receive after registering at your municipality.</p>
-    </div>
-  </div>
+<div class="faq-item">
+<button class="faq-question" aria-expanded="false">
+Can I open a Dutch bank account without a BSN?
+<span class="faq-icon">+</span>
+</button>
+<div class="faq-answer">
+<p>Yes — digital banks like bunq and N26 allow you to open an account with just an EU passport before you have a BSN (Burgerservicenummer). Wise also operates without a BSN. Traditional Dutch banks (ING, ABN AMRO, Rabobank) require a BSN, which you receive after registering at your municipality.</p>
+</div>
+</div>
 
-  <div class="faq-item">
-    <button class="faq-question" aria-expanded="false">
-      Which Dutch bank has the best English support?
-      <span class="faq-icon">+</span>
-    </button>
-    <div class="faq-answer">
-      <p>ING and ABN AMRO have the best English support among traditional banks, with full English apps, websites, and English-speaking staff. Among digital banks, Wise, N26, and bunq are entirely English-first and offer excellent English-language customer service.</p>
-    </div>
-  </div>
+<div class="faq-item">
+<button class="faq-question" aria-expanded="false">
+Which Dutch bank has the best English support?
+<span class="faq-icon">+</span>
+</button>
+<div class="faq-answer">
+<p>ING and ABN AMRO have the best English support among traditional banks, with full English apps, websites, and English-speaking staff. Among digital banks, Wise, N26, and bunq are entirely English-first and offer excellent English-language customer service.</p>
+</div>
+</div>
 
-  <div class="faq-item">
-    <button class="faq-question" aria-expanded="false">
-      How much does a Dutch bank account cost per month?
-      <span class="faq-icon">+</span>
-    </button>
-    <div class="faq-answer">
-      <p>Basic accounts cost between €0 and €3.90 per month. ING has a free basic account. Rabobank starts at €1.70, ABN AMRO at €1.90. Digital banks: bunq starts at €2.99, N26 is free for the standard tier. Wise has no monthly fee.</p>
-    </div>
-  </div>
+<div class="faq-item">
+<button class="faq-question" aria-expanded="false">
+How much does a Dutch bank account cost per month?
+<span class="faq-icon">+</span>
+</button>
+<div class="faq-answer">
+<p>Basic accounts cost between €0 and €3.90 per month. ING has a free basic account. Rabobank starts at €1.70, ABN AMRO at €1.90. Digital banks: bunq starts at €2.99, N26 is free for the standard tier. Wise has no monthly fee.</p>
+</div>
+</div>
 
-  <div class="faq-item">
-    <button class="faq-question" aria-expanded="false">
-      What documents do I need to open a bank account in the Netherlands?
-      <span class="faq-icon">+</span>
-    </button>
-    <div class="faq-answer">
-      <p>For traditional Dutch banks you need: a valid passport or EU ID card, your BSN (citizen service number), proof of address in the Netherlands (rental contract or utility bill), and sometimes proof of income or employment. For digital banks like bunq and N26, you typically only need a passport and can complete the whole process online.</p>
-    </div>
-  </div>
+<div class="faq-item">
+<button class="faq-question" aria-expanded="false">
+What documents do I need to open a bank account in the Netherlands?
+<span class="faq-icon">+</span>
+</button>
+<div class="faq-answer">
+<p>For traditional Dutch banks you need: a valid passport or EU ID card, your BSN (citizen service number), proof of address in the Netherlands (rental contract or utility bill), and sometimes proof of income or employment. For digital banks like bunq and N26, you typically only need a passport and can complete the whole process online.</p>
+</div>
+</div>
 
-  <div class="faq-item">
-    <button class="faq-question" aria-expanded="false">
-      Which bank is best for international money transfers from the Netherlands?
-      <span class="faq-icon">+</span>
-    </button>
-    <div class="faq-answer">
-      <p>Wise is the best option for international transfers. It uses the real mid-market exchange rate and charges just €0.50–€3 per transfer, far cheaper than traditional banks which charge €6–€7+ for non-SEPA transfers. bunq also has a built-in Wise integration. For SEPA transfers within Europe, all Dutch banks offer these for free.</p>
-    </div>
-  </div>
+<div class="faq-item">
+<button class="faq-question" aria-expanded="false">
+Which bank is best for international money transfers from the Netherlands?
+<span class="faq-icon">+</span>
+</button>
+<div class="faq-answer">
+<p>Wise is the best option for international transfers. It uses the real mid-market exchange rate and charges just €0.50–€3 per transfer, far cheaper than traditional banks which charge €6–€7+ for non-SEPA transfers. bunq also has a built-in Wise integration. For SEPA transfers within Europe, all Dutch banks offer these for free.</p>
+</div>
+</div>
 
-  <div class="faq-item">
-    <button class="faq-question" aria-expanded="false">
-      Do Dutch banks offer Apple Pay and Google Pay?
-      <span class="faq-icon">+</span>
-    </button>
-    <div class="faq-answer">
-      <p>Yes — all major Dutch banks including ING, ABN AMRO, Rabobank, bunq, Wise, and N26 support both Apple Pay and Google Pay. This is standard in the Netherlands, and contactless payments via phone are widely accepted.</p>
-    </div>
-  </div>
+<div class="faq-item">
+<button class="faq-question" aria-expanded="false">
+Do Dutch banks offer Apple Pay and Google Pay?
+<span class="faq-icon">+</span>
+</button>
+<div class="faq-answer">
+<p>Yes — all major Dutch banks including ING, ABN AMRO, Rabobank, bunq, Wise, and N26 support both Apple Pay and Google Pay. This is standard in the Netherlands, and contactless payments via phone are widely accepted.</p>
+</div>
+</div>
 </section>
 
 <script>
 (function() {
-  'use strict';
+'use strict';
 
-  // ── Bank Data ──
-  var banks = [
-    {
-      name: "ING",
-      type: "traditional",
-      monthlyFee: "€0 (basic) / €1.95 (Plus)",
-      lowestFee: 0,
-      englishSupport: true,
-      appRating: "4.5/5",
-      internationalTransfers: "SEPA free, non-SEPA €7+",
-      features: ["Largest ATM network in NL", "Full English app & website", "Apple Pay & Google Pay", "Joint accounts available", "iDEAL integration"],
-      bestFor: "All-round banking with best ATM network",
-      openOnline: true,
-      bsnRequired: true,
-      freeAccount: true,
-      applePay: true,
-      jointAccount: true,
-      businessAccount: true,
-      affiliateUrl: null,
-      score: 0
-    },
-    {
-      name: "ABN AMRO",
-      type: "traditional",
-      monthlyFee: "€1.90 (basic) / €3.90 (Plus)",
-      lowestFee: 1.9,
-      englishSupport: true,
-      appRating: "4.4/5",
-      internationalTransfers: "SEPA free, non-SEPA €6+",
-      features: ["English-speaking branches", "Mortgage integration", "Sustainability focus", "Apple Pay & Google Pay", "Joint accounts"],
-      bestFor: "Expats wanting in-person English service",
-      openOnline: true,
-      bsnRequired: true,
-      freeAccount: false,
-      applePay: true,
-      jointAccount: true,
-      businessAccount: true,
-      affiliateUrl: null,
-      score: 0
-    },
-    {
-      name: "Rabobank",
-      type: "traditional",
-      monthlyFee: "€1.70 (basic) / €3.50 (Plus)",
-      lowestFee: 1.7,
-      englishSupport: "partial",
-      appRating: "4.3/5",
-      internationalTransfers: "SEPA free, non-SEPA €7+",
-      features: ["Strong in rural areas", "Cooperative bank", "Apple Pay & Google Pay", "Joint accounts", "Business banking"],
-      bestFor: "Living outside Randstad / rural areas",
-      openOnline: true,
-      bsnRequired: true,
-      freeAccount: false,
-      applePay: true,
-      jointAccount: true,
-      businessAccount: true,
-      affiliateUrl: null,
-      score: 0
-    },
-    {
-      name: "bunq",
-      type: "digital",
-      monthlyFee: "€2.99 (Easy Bank) / €8.99 (Easy Money) / €17.99 (Easy Green)",
-      lowestFee: 2.99,
-      englishSupport: true,
-      appRating: "4.2/5",
-      internationalTransfers: "Built-in Wise integration, low fees",
-      features: ["Open account without BSN (EU passport)", "Multiple sub-accounts (up to 25)", "Real-time notifications", "Apple Pay & Google Pay", "Plant trees with spending"],
-      bestFor: "Expats who need an account before BSN",
-      openOnline: true,
-      bsnRequired: false,
-      freeAccount: false,
-      applePay: true,
-      jointAccount: true,
-      businessAccount: true,
-      affiliateUrl: null,
-      score: 0
-    },
-    {
-      name: "Wise",
-      type: "digital",
-      monthlyFee: "€0 (free account)",
-      lowestFee: 0,
-      englishSupport: true,
-      appRating: "4.6/5",
-      internationalTransfers: "Best rates, real mid-market exchange, €0.50–€3 per transfer",
-      features: ["Hold 40+ currencies", "Debit card for spending abroad", "Cheapest international transfers", "No monthly fee", "Auto-convert currency"],
-      bestFor: "International transfers and multi-currency needs",
-      openOnline: true,
-      bsnRequired: false,
-      freeAccount: true,
-      applePay: true,
-      jointAccount: false,
-      businessAccount: true,
-      affiliateUrl: "https://wise.com/invite/ihpc/willemt52",
-      score: 0
-    },
-    {
-      name: "N26",
-      type: "digital",
-      monthlyFee: "€0 (Standard) / €4.90 (Smart) / €9.90 (You)",
-      lowestFee: 0,
-      englishSupport: true,
-      appRating: "4.4/5",
-      internationalTransfers: "Via Wise integration",
-      features: ["Open with EU passport, no BSN needed", "Free ATM withdrawals (3–8/month)", "Sub-accounts (Spaces)", "Apple Pay & Google Pay", "Insurance packages in premium tiers"],
-      bestFor: "Free digital banking with no BSN",
-      openOnline: true,
-      bsnRequired: false,
-      freeAccount: true,
-      applePay: true,
-      jointAccount: false,
-      businessAccount: true,
-      affiliateUrl: null,
-      score: 0
-    }
-  ];
+// ── Bank Data ──
+var banks = [
+{
+name: "ING",
+type: "traditional",
+monthlyFee: "€0 (basic) / €1.95 (Plus)",
+lowestFee: 0,
+englishSupport: true,
+appRating: "4.5/5",
+internationalTransfers: "SEPA free, non-SEPA €7+",
+features: ["Largest ATM network in NL", "Full English app & website", "Apple Pay & Google Pay", "Joint accounts available", "iDEAL integration"],
+bestFor: "All-round banking with best ATM network",
+openOnline: true,
+bsnRequired: true,
+freeAccount: true,
+applePay: true,
+jointAccount: true,
+businessAccount: true,
+affiliateUrl: null,
+score: 0
+},
+{
+name: "ABN AMRO",
+type: "traditional",
+monthlyFee: "€1.90 (basic) / €3.90 (Plus)",
+lowestFee: 1.9,
+englishSupport: true,
+appRating: "4.4/5",
+internationalTransfers: "SEPA free, non-SEPA €6+",
+features: ["English-speaking branches", "Mortgage integration", "Sustainability focus", "Apple Pay & Google Pay", "Joint accounts"],
+bestFor: "Expats wanting in-person English service",
+openOnline: true,
+bsnRequired: true,
+freeAccount: false,
+applePay: true,
+jointAccount: true,
+businessAccount: true,
+affiliateUrl: null,
+score: 0
+},
+{
+name: "Rabobank",
+type: "traditional",
+monthlyFee: "€1.70 (basic) / €3.50 (Plus)",
+lowestFee: 1.7,
+englishSupport: "partial",
+appRating: "4.3/5",
+internationalTransfers: "SEPA free, non-SEPA €7+",
+features: ["Strong in rural areas", "Cooperative bank", "Apple Pay & Google Pay", "Joint accounts", "Business banking"],
+bestFor: "Living outside Randstad / rural areas",
+openOnline: true,
+bsnRequired: true,
+freeAccount: false,
+applePay: true,
+jointAccount: true,
+businessAccount: true,
+affiliateUrl: null,
+score: 0
+},
+{
+name: "bunq",
+type: "digital",
+monthlyFee: "€2.99 (Easy Bank) / €8.99 (Easy Money) / €17.99 (Easy Green)",
+lowestFee: 2.99,
+englishSupport: true,
+appRating: "4.2/5",
+internationalTransfers: "Built-in Wise integration, low fees",
+features: ["Open account without BSN (EU passport)", "Multiple sub-accounts (up to 25)", "Real-time notifications", "Apple Pay & Google Pay", "Plant trees with spending"],
+bestFor: "Expats who need an account before BSN",
+openOnline: true,
+bsnRequired: false,
+freeAccount: false,
+applePay: true,
+jointAccount: true,
+businessAccount: true,
+affiliateUrl: null,
+score: 0
+},
+{
+name: "Wise",
+type: "digital",
+monthlyFee: "€0 (free account)",
+lowestFee: 0,
+englishSupport: true,
+appRating: "4.6/5",
+internationalTransfers: "Best rates, real mid-market exchange, €0.50–€3 per transfer",
+features: ["Hold 40+ currencies", "Debit card for spending abroad", "Cheapest international transfers", "No monthly fee", "Auto-convert currency"],
+bestFor: "International transfers and multi-currency needs",
+openOnline: true,
+bsnRequired: false,
+freeAccount: true,
+applePay: true,
+jointAccount: false,
+businessAccount: true,
+affiliateUrl: "https://wise.com/invite/ihpc/willemt52",
+score: 0
+},
+{
+name: "N26",
+type: "digital",
+monthlyFee: "€0 (Standard) / €4.90 (Smart) / €9.90 (You)",
+lowestFee: 0,
+englishSupport: true,
+appRating: "4.4/5",
+internationalTransfers: "Via Wise integration",
+features: ["Open with EU passport, no BSN needed", "Free ATM withdrawals (3–8/month)", "Sub-accounts (Spaces)", "Apple Pay & Google Pay", "Insurance packages in premium tiers"],
+bestFor: "Free digital banking with no BSN",
+openOnline: true,
+bsnRequired: false,
+freeAccount: true,
+applePay: true,
+jointAccount: false,
+businessAccount: true,
+affiliateUrl: null,
+score: 0
+}
+];
 
-  // ── Scoring ──
-  function scoreBanks(priorities, bankType, budget) {
-    return banks.map(function(b) {
-      var bank = Object.assign({}, b, { score: 0 });
+// ── Scoring ──
+function scoreBanks(priorities, bankType, budget) {
+return banks.map(function(b) {
+var bank = Object.assign({}, b, { score: 0 });
 
-      // Priority scores
-      if (priorities.indexOf('free') !== -1 && bank.freeAccount) bank.score += 3;
-      if (priorities.indexOf('english') !== -1) {
-        if (bank.englishSupport === true) bank.score += 3;
-        else if (bank.englishSupport === 'partial') bank.score += 1;
-      }
-      if (priorities.indexOf('international') !== -1) {
-        if (bank.name === 'Wise') bank.score += 3;
-        else if (bank.name === 'bunq') bank.score += 2;
-        else bank.score += 1;
-      }
-      if (priorities.indexOf('applepay') !== -1 && bank.applePay) bank.score += 2;
-      if (priorities.indexOf('joint') !== -1 && bank.jointAccount) bank.score += 2;
-      if (priorities.indexOf('business') !== -1 && bank.businessAccount) bank.score += 2;
+// Priority scores
+if (priorities.indexOf('free') !== -1 && bank.freeAccount) bank.score += 3;
+if (priorities.indexOf('english') !== -1) {
+if (bank.englishSupport === true) bank.score += 3;
+else if (bank.englishSupport === 'partial') bank.score += 1;
+}
+if (priorities.indexOf('international') !== -1) {
+if (bank.name === 'Wise') bank.score += 3;
+else if (bank.name === 'bunq') bank.score += 2;
+else bank.score += 1;
+}
+if (priorities.indexOf('applepay') !== -1 && bank.applePay) bank.score += 2;
+if (priorities.indexOf('joint') !== -1 && bank.jointAccount) bank.score += 2;
+if (priorities.indexOf('business') !== -1 && bank.businessAccount) bank.score += 2;
 
-      // If no priorities selected, score equally
-      if (priorities.length === 0) bank.score = 1;
+// If no priorities selected, score equally
+if (priorities.length === 0) bank.score = 1;
 
-      // Type filter
-      if (bankType !== 'both' && bank.type !== bankType) return null;
+// Type filter
+if (bankType !== 'both' && bank.type !== bankType) return null;
 
-      // Budget filter
-      if (budget === 'free' && !bank.freeAccount) return null;
-      if (budget === '5' && bank.lowestFee > 5) return null;
-      if (budget === '10' && bank.lowestFee > 10) return null;
+// Budget filter
+if (budget === 'free' && !bank.freeAccount) return null;
+if (budget === '5' && bank.lowestFee > 5) return null;
+if (budget === '10' && bank.lowestFee > 10) return null;
 
-      return bank;
-    }).filter(Boolean);
-  }
+return bank;
+}).filter(Boolean);
+}
 
-  // ── Render Card ──
-  function renderCard(bank, rank) {
-    var typeBadge = bank.type === 'traditional'
-      ? '<span class="badge badge-traditional">Traditional</span>'
-      : '<span class="badge badge-digital">Digital</span>';
+// ── Render Card ──
+function renderCard(bank, rank) {
+var typeBadge = bank.type === 'traditional'
+? '<span class="badge badge-traditional">Traditional</span>'
+: '<span class="badge badge-digital">Digital</span>';
 
-    var bsnBadge = bank.bsnRequired
-      ? '<span class="badge badge-bsn-required">BSN required</span>'
-      : '<span class="badge badge-no-bsn">No BSN needed</span>';
+var bsnBadge = bank.bsnRequired
+? '<span class="badge badge-bsn-required">BSN required</span>'
+: '<span class="badge badge-no-bsn">No BSN needed</span>';
 
-    var featuresHtml = bank.features.map(function(f) {
-      return '<li>' + escapeHtml(f) + '</li>';
-    }).join('');
+var featuresHtml = bank.features.map(function(f) {
+return '<li>' + escapeHtml(f) + '</li>';
+}).join('');
 
-    var ctaHtml = '';
-    if (bank.affiliateUrl) {
-      ctaHtml += '<a href="' + bank.affiliateUrl + '" target="_blank" rel="noopener nofollow sponsored" class="cta-affiliate">Open Wise account &rarr;</a>';
-    }
-    ctaHtml += '<a href="/guides/finance/best-bank-account-expats-netherlands-2026/" class="cta-secondary">Bank account guide &rarr;</a>';
+var ctaHtml = '';
+if (bank.affiliateUrl) {
+ctaHtml += '<a href="' + bank.affiliateUrl + '" target="_blank" rel="noopener nofollow sponsored" class="cta-affiliate">Open Wise account &rarr;</a>';
+}
+ctaHtml += '<a href="/guides/finance/best-bank-account-expats-netherlands-2026/" class="cta-secondary">Bank account guide &rarr;</a>';
 
-    var scoreBadge = bank.score > 0
-      ? '<span class="score-badge">#' + rank + ' match</span>'
-      : '';
+var scoreBadge = bank.score > 0
+? '<span class="score-badge">#' + rank + ' match</span>'
+: '';
 
-    return '<div class="bank-card">' +
-      scoreBadge +
-      '<div class="bank-card-header">' +
-        '<div class="bank-name">' + escapeHtml(bank.name) + '</div>' +
-        '<div class="bank-badges">' + typeBadge + bsnBadge + '</div>' +
-      '</div>' +
-      '<div class="bank-card-body">' +
-        '<div class="bank-info-item"><span class="bank-info-label">Monthly fee</span><span class="bank-info-value">' + escapeHtml(bank.monthlyFee) + '</span></div>' +
-        '<div class="bank-info-item"><span class="bank-info-label">App rating</span><span class="bank-info-value">' + escapeHtml(bank.appRating) + '</span></div>' +
-        '<div class="bank-info-item"><span class="bank-info-label">English support</span><span class="bank-info-value">' + (bank.englishSupport === true ? 'Full English' : bank.englishSupport === 'partial' ? 'Partial' : 'Limited') + '</span></div>' +
-        '<div class="bank-info-item"><span class="bank-info-label">International transfers</span><span class="bank-info-value">' + escapeHtml(bank.internationalTransfers) + '</span></div>' +
-      '</div>' +
-      '<div class="bank-features"><ul>' + featuresHtml + '</ul></div>' +
-      '<p class="best-for">Best for: ' + escapeHtml(bank.bestFor) + '</p>' +
-      '<div class="bank-card-footer">' + ctaHtml + '</div>' +
-    '</div>';
-  }
+return '<div class="bank-card">' +
+scoreBadge +
+'<div class="bank-card-header">' +
+'<div class="bank-name">' + escapeHtml(bank.name) + '</div>' +
+'<div class="bank-badges">' + typeBadge + bsnBadge + '</div>' +
+'</div>' +
+'<div class="bank-card-body">' +
+'<div class="bank-info-item"><span class="bank-info-label">Monthly fee</span><span class="bank-info-value">' + escapeHtml(bank.monthlyFee) + '</span></div>' +
+'<div class="bank-info-item"><span class="bank-info-label">App rating</span><span class="bank-info-value">' + escapeHtml(bank.appRating) + '</span></div>' +
+'<div class="bank-info-item"><span class="bank-info-label">English support</span><span class="bank-info-value">' + (bank.englishSupport === true ? 'Full English' : bank.englishSupport === 'partial' ? 'Partial' : 'Limited') + '</span></div>' +
+'<div class="bank-info-item"><span class="bank-info-label">International transfers</span><span class="bank-info-value">' + escapeHtml(bank.internationalTransfers) + '</span></div>' +
+'</div>' +
+'<div class="bank-features"><ul>' + featuresHtml + '</ul></div>' +
+'<p class="best-for">Best for: ' + escapeHtml(bank.bestFor) + '</p>' +
+'<div class="bank-card-footer">' + ctaHtml + '</div>' +
+'</div>';
+}
 
-  function escapeHtml(str) {
-    return String(str)
-      .replace(/&/g, '&amp;')
-      .replace(/</g, '&lt;')
-      .replace(/>/g, '&gt;')
-      .replace(/"/g, '&quot;');
-  }
+function escapeHtml(str) {
+return String(str)
+.replace(/&/g, '&amp;')
+.replace(/</g, '&lt;')
+.replace(/>/g, '&gt;')
+.replace(/"/g, '&quot;');
+}
 
-  // ── Read Filters ──
-  function getFilters() {
-    var priorities = [];
-    document.querySelectorAll('input[name="priority"]:checked').forEach(function(el) {
-      priorities.push(el.value);
-    });
-    var bankTypeEl = document.querySelector('input[name="bankType"]:checked');
-    var bankType = bankTypeEl ? bankTypeEl.value : 'both';
-    var budgetEl = document.querySelector('input[name="budget"]:checked');
-    var budget = budgetEl ? budgetEl.value : 'any';
-    return { priorities: priorities, bankType: bankType, budget: budget };
-  }
+// ── Read Filters ──
+function getFilters() {
+var priorities = [];
+document.querySelectorAll('input[name="priority"]:checked').forEach(function(el) {
+priorities.push(el.value);
+});
+var bankTypeEl = document.querySelector('input[name="bankType"]:checked');
+var bankType = bankTypeEl ? bankTypeEl.value : 'both';
+var budgetEl = document.querySelector('input[name="budget"]:checked');
+var budget = budgetEl ? budgetEl.value : 'any';
+return { priorities: priorities, bankType: bankType, budget: budget };
+}
 
-  // ── Update Results ──
-  function updateResults() {
-    var f = getFilters();
-    var results = scoreBanks(f.priorities, f.bankType, f.budget);
+// ── Update Results ──
+function updateResults() {
+var f = getFilters();
+var results = scoreBanks(f.priorities, f.bankType, f.budget);
 
-    // Sort by score desc
-    results.sort(function(a, b) { return b.score - a.score; });
+// Sort by score desc
+results.sort(function(a, b) { return b.score - a.score; });
 
-    var container = document.getElementById('resultsContainer');
-    var countEl = document.getElementById('resultsCount');
+var container = document.getElementById('resultsContainer');
+var countEl = document.getElementById('resultsCount');
 
-    if (results.length === 0) {
-      container.innerHTML = '<div class="no-results"><h3>No banks match your filters</h3><p>Try widening your budget or bank type selection.</p></div>';
-      countEl.textContent = 'Showing 0 banks';
-      return;
-    }
+if (results.length === 0) {
+container.innerHTML = '<div class="no-results"><h3>No banks match your filters</h3><p>Try widening your budget or bank type selection.</p></div>';
+countEl.textContent = 'Showing 0 banks';
+return;
+}
 
-    var html = '';
-    results.forEach(function(bank, i) {
-      html += renderCard(bank, i + 1);
-    });
-    container.innerHTML = html;
-    countEl.textContent = 'Showing ' + results.length + ' of 6 banks';
+var html = '';
+results.forEach(function(bank, i) {
+html += renderCard(bank, i + 1);
+});
+container.innerHTML = html;
+countEl.textContent = 'Showing ' + results.length + ' of 6 banks';
 
-    // GA4 event
-    if (typeof gtag === 'function') {
-      gtag('event', 'filter_used', {
-        event_category: 'bank_chooser',
-        priorities: f.priorities.join(',') || 'none',
-        bank_type: f.bankType,
-        budget: f.budget,
-        results_count: results.length
-      });
-    }
-  }
+// GA4 event
+if (typeof gtag === 'function') {
+gtag('event', 'filter_used', {
+event_category: 'bank_chooser',
+priorities: f.priorities.join(',') || 'none',
+bank_type: f.bankType,
+budget: f.budget,
+results_count: results.length
+});
+}
+}
 
-  // ── Event Listeners ──
-  document.addEventListener('DOMContentLoaded', function() {
-    // Initial render
-    updateResults();
+// ── Event Listeners ──
+document.addEventListener('DOMContentLoaded', function() {
+// Initial render
+updateResults();
 
-    // Filter change
-    document.querySelectorAll('input[name="priority"], input[name="bankType"], input[name="budget"]').forEach(function(el) {
-      el.addEventListener('change', updateResults);
-    });
+// Filter change
+document.querySelectorAll('input[name="priority"], input[name="bankType"], input[name="budget"]').forEach(function(el) {
+el.addEventListener('change', updateResults);
+});
 
-    // Reset
-    document.getElementById('resetBtn').addEventListener('click', function() {
-      document.querySelectorAll('input[name="priority"]').forEach(function(el) { el.checked = false; });
-      document.querySelector('input[name="bankType"][value="both"]').checked = true;
-      document.querySelector('input[name="budget"][value="any"]').checked = true;
-      updateResults();
-    });
+// Reset
+document.getElementById('resetBtn').addEventListener('click', function() {
+document.querySelectorAll('input[name="priority"]').forEach(function(el) { el.checked = false; });
+document.querySelector('input[name="bankType"][value="both"]').checked = true;
+document.querySelector('input[name="budget"][value="any"]').checked = true;
+updateResults();
+});
 
-    // Mobile toggle
-    var toggleBtn = document.getElementById('filterToggle');
-    var panel = document.getElementById('filtersPanel');
-    toggleBtn.addEventListener('click', function() {
-      var isOpen = panel.classList.contains('open');
-      panel.classList.toggle('open');
-      toggleBtn.setAttribute('aria-expanded', isOpen ? 'false' : 'true');
-      toggleBtn.textContent = isOpen ? '☰ Filter banks' : '✕ Close filters';
-    });
-  });
+// Mobile toggle
+var toggleBtn = document.getElementById('filterToggle');
+var panel = document.getElementById('filtersPanel');
+toggleBtn.addEventListener('click', function() {
+var isOpen = panel.classList.contains('open');
+panel.classList.toggle('open');
+toggleBtn.setAttribute('aria-expanded', isOpen ? 'false' : 'true');
+toggleBtn.textContent = isOpen ? '☰ Filter banks' : '✕ Close filters';
+});
+});
 
 })();
 </script>

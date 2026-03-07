@@ -7,1287 +7,1287 @@ layout: "single"
 
 <script type="application/ld+json">
 {
-    "@context": "https://schema.org",
-    "@type": "WebApplication",
-    "name": "BSN Registration Guide",
-    "url": "https://expatnetherlandshub.com/tools/bsn-planner/",
-    "description": "A free interactive planner that generates a personalised BSN registration timeline and document checklist for expats moving to the Netherlands.",
-    "applicationCategory": "UtilityApplication",
-    "operatingSystem": "Any",
-    "offers": {
-      "@type": "Offer",
-      "price": "0",
-      "priceCurrency": "EUR"
-    },
-    "provider": {
-      "@type": "Organization",
-      "name": "Expat Netherlands Hub",
-      "url": "https://expatnetherlandshub.com"
-    }
-  }
+"@context": "https://schema.org",
+"@type": "WebApplication",
+"name": "BSN Registration Guide",
+"url": "https://expatnetherlandshub.com/tools/bsn-planner/",
+"description": "A free interactive planner that generates a personalised BSN registration timeline and document checklist for expats moving to the Netherlands.",
+"applicationCategory": "UtilityApplication",
+"operatingSystem": "Any",
+"offers": {
+"@type": "Offer",
+"price": "0",
+"priceCurrency": "EUR"
+},
+"provider": {
+"@type": "Organization",
+"name": "Expat Netherlands Hub",
+"url": "https://expatnetherlandshub.com"
+}
+}
 </script>
 
 <script type="application/ld+json">
 {
-    "@context": "https://schema.org",
-    "@type": "FAQPage",
-    "mainEntity": [
-      {
-        "@type": "Question",
-        "name": "What is a BSN number in the Netherlands?",
-        "acceptedAnswer": {
-          "@type": "Answer",
-          "text": "A BSN (Burgerservicenummer) is a unique personal identification number assigned to everyone registered in the Netherlands. You need it for almost everything: opening a bank account, starting a job, accessing healthcare, filing taxes, and applying for government services."
-        }
-      },
-      {
-        "@type": "Question",
-        "name": "How long does it take to get a BSN in the Netherlands?",
-        "acceptedAnswer": {
-          "@type": "Answer",
-          "text": "You receive your BSN immediately at the gemeente (municipality) appointment, or within 1–3 working days by post. The main waiting time is securing the appointment itself, which can take 1–4 weeks depending on the city. Amsterdam and Rotterdam tend to have longer queues."
-        }
-      },
-      {
-        "@type": "Question",
-        "name": "Do I need a Dutch address before I can register for a BSN?",
-        "acceptedAnswer": {
-          "@type": "Answer",
-          "text": "Yes. You must have a registered Dutch address (proof of residence) before you can register in the BRP (Basisregistratie Personen) and receive a BSN. A rental contract or a landlord declaration (huurverklaring) is accepted as proof."
-        }
-      },
-      {
-        "@type": "Question",
-        "name": "Can I open a Dutch bank account without a BSN?",
-        "acceptedAnswer": {
-          "@type": "Answer",
-          "text": "Some online banks and international alternatives like Wise or Revolut allow you to open an account before your BSN. Traditional Dutch banks (ING, Rabobank, ABN AMRO) typically require a BSN at the time of opening or shortly after."
-        }
-      },
-      {
-        "@type": "Question",
-        "name": "What documents do I need for my BSN appointment?",
-        "acceptedAnswer": {
-          "@type": "Answer",
-          "text": "All applicants need a valid passport (or EU ID card for EU citizens) and proof of address in the Netherlands. Non-EU citizens also need their residence permit (VVR/MVV). Depending on your situation, you may also need a birth certificate, marriage certificate, or enrolment letter — all officially translated into Dutch or English."
-        }
-      },
-      {
-        "@type": "Question",
-        "name": "What should I do immediately after receiving my BSN?",
-        "acceptedAnswer": {
-          "@type": "Answer",
-          "text": "After getting your BSN, you should: (1) open a Dutch bank account, (2) take out health insurance within 4 months of your registration date, (3) apply for DigiD (the Dutch digital identity service), (4) register with a local GP (huisarts), and (5) check if you qualify for the 30% tax ruling if you are a highly skilled migrant."
-        }
-      }
-    ]
-  }
+"@context": "https://schema.org",
+"@type": "FAQPage",
+"mainEntity": [
+{
+"@type": "Question",
+"name": "What is a BSN number in the Netherlands?",
+"acceptedAnswer": {
+"@type": "Answer",
+"text": "A BSN (Burgerservicenummer) is a unique personal identification number assigned to everyone registered in the Netherlands. You need it for almost everything: opening a bank account, starting a job, accessing healthcare, filing taxes, and applying for government services."
+}
+},
+{
+"@type": "Question",
+"name": "How long does it take to get a BSN in the Netherlands?",
+"acceptedAnswer": {
+"@type": "Answer",
+"text": "You receive your BSN immediately at the gemeente (municipality) appointment, or within 1–3 working days by post. The main waiting time is securing the appointment itself, which can take 1–4 weeks depending on the city. Amsterdam and Rotterdam tend to have longer queues."
+}
+},
+{
+"@type": "Question",
+"name": "Do I need a Dutch address before I can register for a BSN?",
+"acceptedAnswer": {
+"@type": "Answer",
+"text": "Yes. You must have a registered Dutch address (proof of residence) before you can register in the BRP (Basisregistratie Personen) and receive a BSN. A rental contract or a landlord declaration (huurverklaring) is accepted as proof."
+}
+},
+{
+"@type": "Question",
+"name": "Can I open a Dutch bank account without a BSN?",
+"acceptedAnswer": {
+"@type": "Answer",
+"text": "Some online banks and international alternatives like Wise or Revolut allow you to open an account before your BSN. Traditional Dutch banks (ING, Rabobank, ABN AMRO) typically require a BSN at the time of opening or shortly after."
+}
+},
+{
+"@type": "Question",
+"name": "What documents do I need for my BSN appointment?",
+"acceptedAnswer": {
+"@type": "Answer",
+"text": "All applicants need a valid passport (or EU ID card for EU citizens) and proof of address in the Netherlands. Non-EU citizens also need their residence permit (VVR/MVV). Depending on your situation, you may also need a birth certificate, marriage certificate, or enrolment letter — all officially translated into Dutch or English."
+}
+},
+{
+"@type": "Question",
+"name": "What should I do immediately after receiving my BSN?",
+"acceptedAnswer": {
+"@type": "Answer",
+"text": "After getting your BSN, you should: (1) open a Dutch bank account, (2) take out health insurance within 4 months of your registration date, (3) apply for DigiD (the Dutch digital identity service), (4) register with a local GP (huisarts), and (5) check if you qualify for the 30% tax ruling if you are a highly skilled migrant."
+}
+}
+]
+}
 </script>
 
 <style>
 /* ===========================
-       RESET & BASE
-    =========================== */
-    *, *::before, *::after { box-sizing: border-box; margin: 0; padding: 0; }
+RESET & BASE
+=========================== */
+*, *::before, *::after { box-sizing: border-box; margin: 0; padding: 0; }
 
-    :root {
-      --green:       #1B6B4A;
-      --green-dark:  #145236;
-      --orange:      #E8832A;
-      --orange-dark: #C96B1A;
-      --bg:          #F8FAF9;
-      --card:        #FFFFFF;
-      --border:      #E5E7EB;
-      --text:        #1A1A2E;
-      --text-muted:  #6B7280;
-      --radius-card: 14px;
-      --shadow-card: 0 2px 12px rgba(0,0,0,.08);
-      /* Expat design system aliases (used by header/footer) */
-      --expat-primary: #1B6B4A;
-      --expat-primary-light: #2D9B6A;
-      --expat-primary-dark: #145236;
-      --expat-accent: #E8832A;
-      --expat-accent-light: #F5A623;
-      --expat-bg: #FAFBF9;
-      --expat-card: #FFFFFF;
-      --expat-text: #1A1A2E;
-      --expat-muted: #6B7280;
-      --expat-border: #E5E7EB;
-    }
+:root {
+--green:       #1B6B4A;
+--green-dark:  #145236;
+--orange:      #E8832A;
+--orange-dark: #C96B1A;
+--bg:          #F8FAF9;
+--card:        #FFFFFF;
+--border:      #E5E7EB;
+--text:        #1A1A2E;
+--text-muted:  #6B7280;
+--radius-card: 14px;
+--shadow-card: 0 2px 12px rgba(0,0,0,.08);
+/* Expat design system aliases (used by header/footer) */
+--expat-primary: #1B6B4A;
+--expat-primary-light: #2D9B6A;
+--expat-primary-dark: #145236;
+--expat-accent: #E8832A;
+--expat-accent-light: #F5A623;
+--expat-bg: #FAFBF9;
+--expat-card: #FFFFFF;
+--expat-text: #1A1A2E;
+--expat-muted: #6B7280;
+--expat-border: #E5E7EB;
+}
 
-    html { scroll-behavior: smooth; }
+html { scroll-behavior: smooth; }
 
-    body {
-      font-family: 'Inter', sans-serif;
-      font-size: 16px;
-      line-height: 1.65;
-      color: var(--text);
-      background: var(--bg);
-    }
+body {
+font-family: 'Inter', sans-serif;
+font-size: 16px;
+line-height: 1.65;
+color: var(--text);
+background: var(--bg);
+}
 
-    h1, h2, h3, h4, h5 {
-      font-family: 'DM Sans', sans-serif;
-      font-weight: 700;
-      line-height: 1.25;
-    }
+h1, h2, h3, h4, h5 {
+font-family: 'DM Sans', sans-serif;
+font-weight: 700;
+line-height: 1.25;
+}
 
-    a { color: var(--green); text-decoration: underline; }
-    a:hover { color: var(--green-dark); }
+a { color: var(--green); text-decoration: underline; }
+a:hover { color: var(--green-dark); }
 
-    .wrap {
-      max-width: 960px;
-      margin: 0 auto;
-      padding: 0 20px;
-    }
+.wrap {
+max-width: 960px;
+margin: 0 auto;
+padding: 0 20px;
+}
 
-    /* ============================================================
-       ARTICLE-STYLE HERO
-    ============================================================ */
-    .tool-hero {
-      background:
-        url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='80' height='80'%3E%3Ccircle cx='40' cy='40' r='1.5' fill='%23ffffff' opacity='0.07'/%3E%3Ccircle cx='0' cy='0' r='1' fill='%23ffffff' opacity='0.05'/%3E%3Ccircle cx='80' cy='0' r='1' fill='%23ffffff' opacity='0.05'/%3E%3Ccircle cx='0' cy='80' r='1' fill='%23ffffff' opacity='0.05'/%3E%3Ccircle cx='80' cy='80' r='1' fill='%23ffffff' opacity='0.05'/%3E%3Cpath d='M0 40h80M40 0v80' stroke='%23ffffff' stroke-width='0.3' opacity='0.04'/%3E%3C/svg%3E"),
-        linear-gradient(135deg, var(--expat-primary-dark, #145236) 0%, var(--expat-primary, #1B6B4A) 50%, #2D9B6A 100%);
-      color: #fff;
-      padding: 3rem 1.5rem 2.5rem;
-      position: relative;
-      overflow: hidden;
-    }
-    .tool-hero::before {
-      content: '';
-      position: absolute;
-      top: -50%;
-      right: -20%;
-      width: 500px;
-      height: 500px;
-      border-radius: 50%;
-      background: radial-gradient(circle, rgba(232,131,42,0.12) 0%, transparent 70%);
-      pointer-events: none;
-    }
-    .tool-hero::after {
-      content: '';
-      position: absolute;
-      bottom: -40%;
-      left: -15%;
-      width: 400px;
-      height: 400px;
-      border-radius: 50%;
-      background: radial-gradient(circle, rgba(45,155,106,0.15) 0%, transparent 70%);
-      pointer-events: none;
-    }
-    .tool-hero-inner {
-      max-width: 1100px;
-      margin: 0 auto;
-      position: relative;
-      z-index: 1;
-    }
-    .tool-hero-content {
-      display: flex;
-      align-items: center;
-      justify-content: space-between;
-      gap: 2rem;
-    }
-    .tool-hero-text { flex: 1; }
-    .tool-hero-icon {
-      width: 100px;
-      height: 100px;
-      flex-shrink: 0;
-      color: rgba(255,255,255,0.25);
-    }
-    .tool-hero-icon svg { width: 100%; height: 100%; }
-    @media (max-width: 768px) {
+/* ============================================================
+ARTICLE-STYLE HERO
+============================================================ */
+.tool-hero {
+background:
+url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='80' height='80'%3E%3Ccircle cx='40' cy='40' r='1.5' fill='%23ffffff' opacity='0.07'/%3E%3Ccircle cx='0' cy='0' r='1' fill='%23ffffff' opacity='0.05'/%3E%3Ccircle cx='80' cy='0' r='1' fill='%23ffffff' opacity='0.05'/%3E%3Ccircle cx='0' cy='80' r='1' fill='%23ffffff' opacity='0.05'/%3E%3Ccircle cx='80' cy='80' r='1' fill='%23ffffff' opacity='0.05'/%3E%3Cpath d='M0 40h80M40 0v80' stroke='%23ffffff' stroke-width='0.3' opacity='0.04'/%3E%3C/svg%3E"),
+linear-gradient(135deg, var(--expat-primary-dark, #145236) 0%, var(--expat-primary, #1B6B4A) 50%, #2D9B6A 100%);
+color: #fff;
+padding: 3rem 1.5rem 2.5rem;
+position: relative;
+overflow: hidden;
+}
+.tool-hero::before {
+content: '';
+position: absolute;
+top: -50%;
+right: -20%;
+width: 500px;
+height: 500px;
+border-radius: 50%;
+background: radial-gradient(circle, rgba(232,131,42,0.12) 0%, transparent 70%);
+pointer-events: none;
+}
+.tool-hero::after {
+content: '';
+position: absolute;
+bottom: -40%;
+left: -15%;
+width: 400px;
+height: 400px;
+border-radius: 50%;
+background: radial-gradient(circle, rgba(45,155,106,0.15) 0%, transparent 70%);
+pointer-events: none;
+}
+.tool-hero-inner {
+max-width: 1100px;
+margin: 0 auto;
+position: relative;
+z-index: 1;
+}
+.tool-hero-content {
+display: flex;
+align-items: center;
+justify-content: space-between;
+gap: 2rem;
+}
+.tool-hero-text { flex: 1; }
+.tool-hero-icon {
+width: 100px;
+height: 100px;
+flex-shrink: 0;
+color: rgba(255,255,255,0.25);
+}
+.tool-hero-icon svg { width: 100%; height: 100%; }
+@media (max-width: 768px) {
 .tool-hero-icon { display: none; }
-    }
-    .tool-hero .breadcrumb { margin-bottom: 1rem; }
-    .tool-hero .breadcrumb,
-    .tool-hero .breadcrumb a { color: rgba(255,255,255,0.7); }
-    .tool-hero .breadcrumb a:hover { color: #fff; }
-    .tool-hero h1 {
-      color: #fff;
-      font-size: 2.1rem;
-      margin-bottom: 0.6rem;
-      max-width: 700px;
-    }
-    .tool-hero .hero-subtitle {
-      color: rgba(255,255,255,0.85);
-      font-size: 1.1rem;
-      margin-bottom: 0;
-      max-width: 580px;
-    }
-    .tool-hero .meta {
-      color: rgba(255,255,255,0.7);
-      font-size: 0.85rem;
-      margin-top: 0.75rem;
-    }
-    .hero-badge {
-      display: inline-block;
-      background: rgba(232,131,42,.18);
-      border: 1px solid rgba(232,131,42,.45);
-      color: #FFD28A;
-      font-size: .8rem;
-      font-weight: 600;
-      border-radius: 20px;
-      padding: 3px 12px;
-      margin-bottom: 16px;
-      letter-spacing: .4px;
-      text-transform: uppercase;
-    }
-
-    /* ===========================
-       PLANNER CARD
-    =========================== */
-    .planner-card {
-      background: var(--card);
-      border-radius: var(--radius-card);
-      box-shadow: var(--shadow-card);
-      padding: 32px;
-      margin: -28px auto 0;
-      position: relative;
-    }
-
-    .planner-card h2 {
-      font-size: 1.25rem;
-      margin-bottom: 24px;
-      color: var(--green-dark);
-      display: flex;
-      align-items: center;
-      gap: 8px;
-    }
-
-    .planner-card h2::before {
-      content: '';
-      display: inline-block;
-      width: 4px;
-      height: 22px;
-      background: var(--orange);
-      border-radius: 2px;
-    }
-
-    /* ===========================
-       FORM
-    =========================== */
-    .form-grid {
-      display: grid;
-      grid-template-columns: 1fr 1fr;
-      gap: 20px;
-    }
-
-    @media (max-width: 600px) {
-      .form-grid { grid-template-columns: 1fr; }
-    }
-
-    .form-group {
-      display: flex;
-      flex-direction: column;
-      gap: 6px;
-    }
-
-    .form-group.full { grid-column: 1 / -1; }
-
-    label {
-      font-weight: 600;
-      font-size: .9rem;
-      color: var(--text);
-    }
-
-    label span.required { color: var(--orange); margin-left: 2px; }
-
-    select, input[type="date"], input[type="month"] {
-      padding: 10px 14px;
-      border: 1.5px solid var(--border);
-      border-radius: 8px;
-      font-family: 'Inter', sans-serif;
-      font-size: .95rem;
-      color: var(--text);
-      background: #fff;
-      transition: border-color .15s, box-shadow .15s;
-      appearance: none;
-      -webkit-appearance: none;
-      background-image: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='16' height='16' viewBox='0 0 24 24' fill='none' stroke='%236B7280' stroke-width='2'%3E%3Cpath d='M6 9l6 6 6-6'/%3E%3C/svg%3E");
-      background-repeat: no-repeat;
-      background-position: right 12px center;
-      padding-right: 36px;
-    }
-
-    input[type="date"], input[type="month"] {
-      background-image: none;
-      padding-right: 14px;
-    }
-
-    select:focus, input[type="date"]:focus {
-      outline: none;
-      border-color: var(--green);
-      box-shadow: 0 0 0 3px rgba(27,107,74,.12);
-    }
-
-    .radio-group {
-      display: flex;
-      flex-wrap: wrap;
-      gap: 10px;
-    }
-
-    .radio-option {
-      display: flex;
-      align-items: center;
-      gap: 7px;
-      cursor: pointer;
-    }
-
-    .radio-option input[type="radio"] {
-      accent-color: var(--green);
-      width: 16px;
-      height: 16px;
-      cursor: pointer;
-    }
-
-    .radio-option span {
-      font-size: .9rem;
-      font-weight: 500;
-    }
-
-    .btn-generate {
-      display: inline-flex;
-      align-items: center;
-      justify-content: center;
-      gap: 8px;
-      background: var(--orange);
-      color: #fff;
-      border: none;
-      border-radius: 10px;
-      padding: 14px 32px;
-      font-family: 'DM Sans', sans-serif;
-      font-weight: 700;
-      font-size: 1.05rem;
-      cursor: pointer;
-      transition: background .15s, transform .1s;
-      width: 100%;
-      margin-top: 8px;
-    }
-
-    .btn-generate:hover {
-      background: var(--orange-dark);
-      transform: translateY(-1px);
-    }
-
-    .btn-generate:active { transform: translateY(0); }
-
-    /* ===========================
-       TIMELINE OUTPUT
-    =========================== */
-    #timeline-output { display: none; margin-top: 36px; }
-
-    .timeline-
-
-    .timeline-header h2 {
-      font-size: 1.2rem;
-      color: var(--green-dark);
-    }
-
-    .btn-print {
-      display: inline-flex;
-      align-items: center;
-      gap: 6px;
-      background: var(--green);
-      color: #fff;
-      border: none;
-      border-radius: 8px;
-      padding: 9px 18px;
-      font-family: 'Inter', sans-serif;
-      font-weight: 600;
-      font-size: .9rem;
-      cursor: pointer;
-      text-decoration: none;
-      transition: background .15s;
-    }
-
-    .btn-print:hover { background: var(--green-dark); color: #fff; }
-
-    .timeline {
-      position: relative;
-      padding-left: 52px;
-    }
-
-    .timeline::before {
-      content: '';
-      position: absolute;
-      left: 18px;
-      top: 0;
-      bottom: 0;
-      width: 3px;
-      background: linear-gradient(to bottom, var(--green), var(--border));
-      border-radius: 2px;
-    }
-
-    .timeline-step {
-      position: relative;
-      margin-bottom: 24px;
-    }
-
-    .step-number {
-      position: absolute;
-      left: -52px;
-      top: 16px;
-      width: 36px;
-      height: 36px;
-      border-radius: 50%;
-      display: flex;
-      align-items: center;
-      justify-content: center;
-      font-family: 'DM Sans', sans-serif;
-      font-weight: 700;
-      font-size: .95rem;
-      z-index: 1;
-    }
-
-    .step-number.done    { background: var(--green); color: #fff; }
-    .step-number.current { background: var(--orange); color: #fff; }
-    .step-number.upcoming{ background: #fff; color: var(--text-muted); border: 2px solid var(--border); }
-
-    .step-card {
-      background: var(--card);
-      border-radius: var(--radius-card);
-      box-shadow: var(--shadow-card);
-      border-left: 4px solid var(--border);
-      padding: 20px 22px;
-      transition: border-color .2s;
-    }
-
-    .step-card.done    { border-left-color: var(--green); }
-    .step-card.current { border-left-color: var(--orange); }
-
-    .step-top {
-      display: flex;
-      align-items: flex-start;
-      justify-content: space-between;
-      flex-wrap: wrap;
-      gap: 8px;
-      margin-bottom: 10px;
-    }
-
-    .step-icon-title {
-      display: flex;
-      align-items: center;
-      gap: 10px;
-    }
-
-    .step-icon {
-      font-size: 1.35rem;
-      line-height: 1;
-    }
-
-    .step-title {
-      font-family: 'DM Sans', sans-serif;
-      font-weight: 700;
-      font-size: 1.05rem;
-    }
-
-    .wait-badge {
-      display: inline-block;
-      padding: 3px 10px;
-      border-radius: 20px;
-      font-size: .78rem;
-      font-weight: 600;
-      white-space: nowrap;
-    }
-
-    .wait-badge.green  { background: #DCFCE7; color: #166534; }
-    .wait-badge.orange { background: #FEF3C7; color: #92400E; }
-    .wait-badge.red    { background: #FEE2E2; color: #991B1B; }
-
-    .step-desc {
-      font-size: .93rem;
-      color: #374151;
-      margin-bottom: 12px;
-      line-height: 1.6;
-    }
-
-    .step-tip {
-      background: #F0FDF4;
-      border-left: 3px solid var(--green);
-      border-radius: 0 6px 6px 0;
-      padding: 8px 12px;
-      font-size: .87rem;
-      color: #166534;
-      margin-bottom: 12px;
-    }
-
-    /* Collapsible docs */
-    details {
-      border: 1.5px solid var(--border);
-      border-radius: 8px;
-      overflow: hidden;
-    }
-
-    summary {
-      padding: 10px 14px;
-      cursor: pointer;
-      font-weight: 600;
-      font-size: .9rem;
-      list-style: none;
-      display: flex;
-      align-items: center;
-      gap: 6px;
-      user-select: none;
-      background: #F9FAFB;
-    }
-
-    summary::-webkit-details-marker { display: none; }
-
-    summary::after {
-      content: '▸';
-      margin-left: auto;
-      font-size: .8rem;
-      color: var(--text-muted);
-      transition: transform .2s;
-    }
-
-    details[open] summary::after { transform: rotate(90deg); }
-
-    .docs-list {
-      padding: 12px 16px;
-      list-style: none;
-      display: flex;
-      flex-direction: column;
-      gap: 6px;
-    }
-
-    .docs-list li {
-      display: flex;
-      align-items: flex-start;
-      gap: 8px;
-      font-size: .88rem;
-    }
-
-    .docs-list li::before {
-      content: '✓';
-      color: var(--green);
-      font-weight: 700;
-      flex-shrink: 0;
-      margin-top: 1px;
-    }
-
-    /* Next steps grid */
-    .next-steps-grid {
-      display: grid;
-      grid-template-columns: 1fr 1fr;
-      gap: 12px;
-      margin-top: 10px;
-    }
-
-    @media (max-width: 560px) {
-      .next-steps-grid { grid-template-columns: 1fr; }
-    }
-
-    .next-step-item {
-      background: #F9FAFB;
-      border: 1.5px solid var(--border);
-      border-radius: 10px;
-      padding: 14px;
-    }
-
-    .next-step-item a {
-      font-weight: 600;
-      font-size: .9rem;
-    }
-
-    .next-step-item p {
-      font-size: .82rem;
-      color: var(--text-muted);
-      margin-top: 3px;
-    }
-
-    /* Affiliate CTA */
-    .cta-affiliate {
-      display: inline-flex;
-      align-items: center;
-      gap: 6px;
-      background: var(--orange);
-      color: #fff !important;
-      text-decoration: none;
-      border-radius: 8px;
-      padding: 10px 18px;
-      font-weight: 600;
-      font-size: .9rem;
-      margin-top: 10px;
-      transition: background .15s;
-    }
-
-    .cta-affiliate:hover { background: var(--orange-dark); color: #fff !important; }
-
-    /* ===========================
-       SEO CONTENT SECTION
-    =========================== */
-    .seo-section {
-      padding: 56px 0 64px;
-    }
-
-    .seo-section h2 {
-      font-size: 1.45rem;
-      margin-bottom: 14px;
-      color: var(--green-dark);
-    }
-
-    .seo-section h3 {
-      font-size: 1.1rem;
-      margin-top: 28px;
-      margin-bottom: 10px;
-      color: var(--text);
-    }
-
-    .seo-section p {
-      color: #374151;
-      margin-bottom: 14px;
-      line-height: 1.7;
-    }
-
-    .seo-section ul, .seo-section ol {
-      padding-left: 22px;
-      margin-bottom: 16px;
-      color: #374151;
-    }
-
-    .seo-section li {
-      margin-bottom: 7px;
-      line-height: 1.6;
-    }
-
-    .city-table {
-      width: 100%;
-      border-collapse: collapse;
-      margin: 18px 0;
-      font-size: .9rem;
-    }
-
-    .city-table th {
-      background: var(--green);
-      color: #fff;
-      text-align: left;
-      padding: 10px 14px;
-      font-weight: 600;
-    }
-
-    .city-table td {
-      padding: 9px 14px;
-      border-bottom: 1px solid var(--border);
-    }
-
-    .city-table tr:nth-child(even) td { background: #F9FAFB; }
-
-    .info-box {
-      background: #F0FDF4;
-      border: 1.5px solid #A7F3D0;
-      border-radius: 10px;
-      padding: 18px 20px;
-      margin: 20px 0;
-    }
-
-    .info-box strong { color: var(--green-dark); }
-
-    .related-tools {
-      background: var(--card);
-      border-radius: var(--radius-card);
-      box-shadow: var(--shadow-card);
-      padding: 24px;
-      margin-top: 36px;
-    }
-
-    .related-tools h3 {
-      font-size: 1.05rem;
-      margin-bottom: 14px;
-      margin-top: 0;
-    }
-
-    .related-grid {
-      display: grid;
-      grid-template-columns: repeat(auto-fill, minmax(200px, 1fr));
-      gap: 12px;
-    }
-
-    .related-link {
-      display: block;
-      background: #F9FAFB;
-      border: 1.5px solid var(--border);
-      border-radius: 8px;
-      padding: 12px 14px;
-      text-decoration: none;
-      font-weight: 600;
-      font-size: .88rem;
-      color: var(--green);
-      transition: border-color .15s, background .15s;
-    }
-
-    .related-link:hover {
-      border-color: var(--green);
-      background: #F0FDF4;
-    }
-
-    /* ===========================
-       PRINT STYLES
-    =========================== */
+}
+.tool-hero .breadcrumb { margin-bottom: 1rem; }
+.tool-hero .breadcrumb,
+.tool-hero .breadcrumb a { color: rgba(255,255,255,0.7); }
+.tool-hero .breadcrumb a:hover { color: #fff; }
+.tool-hero h1 {
+color: #fff;
+font-size: 2.1rem;
+margin-bottom: 0.6rem;
+max-width: 700px;
+}
+.tool-hero .hero-subtitle {
+color: rgba(255,255,255,0.85);
+font-size: 1.1rem;
+margin-bottom: 0;
+max-width: 580px;
+}
+.tool-hero .meta {
+color: rgba(255,255,255,0.7);
+font-size: 0.85rem;
+margin-top: 0.75rem;
+}
+.hero-badge {
+display: inline-block;
+background: rgba(232,131,42,.18);
+border: 1px solid rgba(232,131,42,.45);
+color: #FFD28A;
+font-size: .8rem;
+font-weight: 600;
+border-radius: 20px;
+padding: 3px 12px;
+margin-bottom: 16px;
+letter-spacing: .4px;
+text-transform: uppercase;
+}
+
+/* ===========================
+PLANNER CARD
+=========================== */
+.planner-card {
+background: var(--card);
+border-radius: var(--radius-card);
+box-shadow: var(--shadow-card);
+padding: 32px;
+margin: -28px auto 0;
+position: relative;
+}
+
+.planner-card h2 {
+font-size: 1.25rem;
+margin-bottom: 24px;
+color: var(--green-dark);
+display: flex;
+align-items: center;
+gap: 8px;
+}
+
+.planner-card h2::before {
+content: '';
+display: inline-block;
+width: 4px;
+height: 22px;
+background: var(--orange);
+border-radius: 2px;
+}
+
+/* ===========================
+FORM
+=========================== */
+.form-grid {
+display: grid;
+grid-template-columns: 1fr 1fr;
+gap: 20px;
+}
+
+@media (max-width: 600px) {
+.form-grid { grid-template-columns: 1fr; }
+}
+
+.form-group {
+display: flex;
+flex-direction: column;
+gap: 6px;
+}
+
+.form-group.full { grid-column: 1 / -1; }
+
+label {
+font-weight: 600;
+font-size: .9rem;
+color: var(--text);
+}
+
+label span.required { color: var(--orange); margin-left: 2px; }
+
+select, input[type="date"], input[type="month"] {
+padding: 10px 14px;
+border: 1.5px solid var(--border);
+border-radius: 8px;
+font-family: 'Inter', sans-serif;
+font-size: .95rem;
+color: var(--text);
+background: #fff;
+transition: border-color .15s, box-shadow .15s;
+appearance: none;
+-webkit-appearance: none;
+background-image: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='16' height='16' viewBox='0 0 24 24' fill='none' stroke='%236B7280' stroke-width='2'%3E%3Cpath d='M6 9l6 6 6-6'/%3E%3C/svg%3E");
+background-repeat: no-repeat;
+background-position: right 12px center;
+padding-right: 36px;
+}
+
+input[type="date"], input[type="month"] {
+background-image: none;
+padding-right: 14px;
+}
+
+select:focus, input[type="date"]:focus {
+outline: none;
+border-color: var(--green);
+box-shadow: 0 0 0 3px rgba(27,107,74,.12);
+}
+
+.radio-group {
+display: flex;
+flex-wrap: wrap;
+gap: 10px;
+}
+
+.radio-option {
+display: flex;
+align-items: center;
+gap: 7px;
+cursor: pointer;
+}
+
+.radio-option input[type="radio"] {
+accent-color: var(--green);
+width: 16px;
+height: 16px;
+cursor: pointer;
+}
+
+.radio-option span {
+font-size: .9rem;
+font-weight: 500;
+}
+
+.btn-generate {
+display: inline-flex;
+align-items: center;
+justify-content: center;
+gap: 8px;
+background: var(--orange);
+color: #fff;
+border: none;
+border-radius: 10px;
+padding: 14px 32px;
+font-family: 'DM Sans', sans-serif;
+font-weight: 700;
+font-size: 1.05rem;
+cursor: pointer;
+transition: background .15s, transform .1s;
+width: 100%;
+margin-top: 8px;
+}
+
+.btn-generate:hover {
+background: var(--orange-dark);
+transform: translateY(-1px);
+}
+
+.btn-generate:active { transform: translateY(0); }
+
+/* ===========================
+TIMELINE OUTPUT
+=========================== */
+#timeline-output { display: none; margin-top: 36px; }
+
+.timeline-
+
+.timeline-header h2 {
+font-size: 1.2rem;
+color: var(--green-dark);
+}
+
+.btn-print {
+display: inline-flex;
+align-items: center;
+gap: 6px;
+background: var(--green);
+color: #fff;
+border: none;
+border-radius: 8px;
+padding: 9px 18px;
+font-family: 'Inter', sans-serif;
+font-weight: 600;
+font-size: .9rem;
+cursor: pointer;
+text-decoration: none;
+transition: background .15s;
+}
+
+.btn-print:hover { background: var(--green-dark); color: #fff; }
+
+.timeline {
+position: relative;
+padding-left: 52px;
+}
+
+.timeline::before {
+content: '';
+position: absolute;
+left: 18px;
+top: 0;
+bottom: 0;
+width: 3px;
+background: linear-gradient(to bottom, var(--green), var(--border));
+border-radius: 2px;
+}
+
+.timeline-step {
+position: relative;
+margin-bottom: 24px;
+}
+
+.step-number {
+position: absolute;
+left: -52px;
+top: 16px;
+width: 36px;
+height: 36px;
+border-radius: 50%;
+display: flex;
+align-items: center;
+justify-content: center;
+font-family: 'DM Sans', sans-serif;
+font-weight: 700;
+font-size: .95rem;
+z-index: 1;
+}
+
+.step-number.done    { background: var(--green); color: #fff; }
+.step-number.current { background: var(--orange); color: #fff; }
+.step-number.upcoming{ background: #fff; color: var(--text-muted); border: 2px solid var(--border); }
+
+.step-card {
+background: var(--card);
+border-radius: var(--radius-card);
+box-shadow: var(--shadow-card);
+border-left: 4px solid var(--border);
+padding: 20px 22px;
+transition: border-color .2s;
+}
+
+.step-card.done    { border-left-color: var(--green); }
+.step-card.current { border-left-color: var(--orange); }
+
+.step-top {
+display: flex;
+align-items: flex-start;
+justify-content: space-between;
+flex-wrap: wrap;
+gap: 8px;
+margin-bottom: 10px;
+}
+
+.step-icon-title {
+display: flex;
+align-items: center;
+gap: 10px;
+}
+
+.step-icon {
+font-size: 1.35rem;
+line-height: 1;
+}
+
+.step-title {
+font-family: 'DM Sans', sans-serif;
+font-weight: 700;
+font-size: 1.05rem;
+}
+
+.wait-badge {
+display: inline-block;
+padding: 3px 10px;
+border-radius: 20px;
+font-size: .78rem;
+font-weight: 600;
+white-space: nowrap;
+}
+
+.wait-badge.green  { background: #DCFCE7; color: #166534; }
+.wait-badge.orange { background: #FEF3C7; color: #92400E; }
+.wait-badge.red    { background: #FEE2E2; color: #991B1B; }
+
+.step-desc {
+font-size: .93rem;
+color: #374151;
+margin-bottom: 12px;
+line-height: 1.6;
+}
+
+.step-tip {
+background: #F0FDF4;
+border-left: 3px solid var(--green);
+border-radius: 0 6px 6px 0;
+padding: 8px 12px;
+font-size: .87rem;
+color: #166534;
+margin-bottom: 12px;
+}
+
+/* Collapsible docs */
+details {
+border: 1.5px solid var(--border);
+border-radius: 8px;
+overflow: hidden;
+}
+
+summary {
+padding: 10px 14px;
+cursor: pointer;
+font-weight: 600;
+font-size: .9rem;
+list-style: none;
+display: flex;
+align-items: center;
+gap: 6px;
+user-select: none;
+background: #F9FAFB;
+}
+
+summary::-webkit-details-marker { display: none; }
+
+summary::after {
+content: '▸';
+margin-left: auto;
+font-size: .8rem;
+color: var(--text-muted);
+transition: transform .2s;
+}
+
+details[open] summary::after { transform: rotate(90deg); }
+
+.docs-list {
+padding: 12px 16px;
+list-style: none;
+display: flex;
+flex-direction: column;
+gap: 6px;
+}
+
+.docs-list li {
+display: flex;
+align-items: flex-start;
+gap: 8px;
+font-size: .88rem;
+}
+
+.docs-list li::before {
+content: '✓';
+color: var(--green);
+font-weight: 700;
+flex-shrink: 0;
+margin-top: 1px;
+}
+
+/* Next steps grid */
+.next-steps-grid {
+display: grid;
+grid-template-columns: 1fr 1fr;
+gap: 12px;
+margin-top: 10px;
+}
+
+@media (max-width: 560px) {
+.next-steps-grid { grid-template-columns: 1fr; }
+}
+
+.next-step-item {
+background: #F9FAFB;
+border: 1.5px solid var(--border);
+border-radius: 10px;
+padding: 14px;
+}
+
+.next-step-item a {
+font-weight: 600;
+font-size: .9rem;
+}
+
+.next-step-item p {
+font-size: .82rem;
+color: var(--text-muted);
+margin-top: 3px;
+}
+
+/* Affiliate CTA */
+.cta-affiliate {
+display: inline-flex;
+align-items: center;
+gap: 6px;
+background: var(--orange);
+color: #fff !important;
+text-decoration: none;
+border-radius: 8px;
+padding: 10px 18px;
+font-weight: 600;
+font-size: .9rem;
+margin-top: 10px;
+transition: background .15s;
+}
+
+.cta-affiliate:hover { background: var(--orange-dark); color: #fff !important; }
+
+/* ===========================
+SEO CONTENT SECTION
+=========================== */
+.seo-section {
+padding: 56px 0 64px;
+}
+
+.seo-section h2 {
+font-size: 1.45rem;
+margin-bottom: 14px;
+color: var(--green-dark);
+}
+
+.seo-section h3 {
+font-size: 1.1rem;
+margin-top: 28px;
+margin-bottom: 10px;
+color: var(--text);
+}
+
+.seo-section p {
+color: #374151;
+margin-bottom: 14px;
+line-height: 1.7;
+}
+
+.seo-section ul, .seo-section ol {
+padding-left: 22px;
+margin-bottom: 16px;
+color: #374151;
+}
+
+.seo-section li {
+margin-bottom: 7px;
+line-height: 1.6;
+}
+
+.city-table {
+width: 100%;
+border-collapse: collapse;
+margin: 18px 0;
+font-size: .9rem;
+}
+
+.city-table th {
+background: var(--green);
+color: #fff;
+text-align: left;
+padding: 10px 14px;
+font-weight: 600;
+}
+
+.city-table td {
+padding: 9px 14px;
+border-bottom: 1px solid var(--border);
+}
+
+.city-table tr:nth-child(even) td { background: #F9FAFB; }
+
+.info-box {
+background: #F0FDF4;
+border: 1.5px solid #A7F3D0;
+border-radius: 10px;
+padding: 18px 20px;
+margin: 20px 0;
+}
+
+.info-box strong { color: var(--green-dark); }
+
+.related-tools {
+background: var(--card);
+border-radius: var(--radius-card);
+box-shadow: var(--shadow-card);
+padding: 24px;
+margin-top: 36px;
+}
+
+.related-tools h3 {
+font-size: 1.05rem;
+margin-bottom: 14px;
+margin-top: 0;
+}
+
+.related-grid {
+display: grid;
+grid-template-columns: repeat(auto-fill, minmax(200px, 1fr));
+gap: 12px;
+}
+
+.related-link {
+display: block;
+background: #F9FAFB;
+border: 1.5px solid var(--border);
+border-radius: 8px;
+padding: 12px 14px;
+text-decoration: none;
+font-weight: 600;
+font-size: .88rem;
+color: var(--green);
+transition: border-color .15s, background .15s;
+}
+
+.related-link:hover {
+border-color: var(--green);
+background: #F0FDF4;
+}
+
+/* ===========================
+PRINT STYLES
+=========================== */
 </style>
 
 <div class="tool-hero">
-  <div class="tool-hero-inner">
-    <nav class="breadcrumb" aria-label="Breadcrumb">
-      <a href="/">Home</a> &rsaquo;
-      <a href="/tools/">Tools</a> &rsaquo;
-      <span>BSN Registration Guide</span>
-    </nav>
-    <div class="tool-hero-content">
-      <div class="tool-hero-text">
-        <span class="hero-badge">Free Tool &bull; Updated March 2026</span>
-        <h1>BSN Registration Guide Netherlands 2026</h1>
-        <p class="hero-subtitle">Plan your BSN registration step by step — timelines, documents, and city-specific wait times.</p>
-        <div class="meta">Free &middot; No signup required &middot; By Sarah van den Berg</div>
-      </div>
-      <div class="tool-hero-icon" aria-hidden="true">
-        <svg viewBox="0 0 80 80" fill="none" xmlns="http://www.w3.org/2000/svg"><rect x="10" y="16" width="60" height="52" rx="6" stroke="currentColor" stroke-width="2.5"/><path d="M10 30h60" stroke="currentColor" stroke-width="2.5"/><path d="M26 8v16M54 8v16" stroke="currentColor" stroke-width="2.5" stroke-linecap="round"/><rect x="20" y="38" width="10" height="10" rx="2" stroke="currentColor" stroke-width="1.5" opacity=".4"/><rect x="35" y="38" width="10" height="10" rx="2" stroke="currentColor" stroke-width="1.5" opacity=".4"/><rect x="50" y="38" width="10" height="10" rx="2" stroke="currentColor" stroke-width="1.5" opacity=".4"/><rect x="20" y="52" width="10" height="10" rx="2" stroke="currentColor" stroke-width="1.5" opacity=".4"/><path d="M37 53l3 3 6-6" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/></svg>
-      </div>
-    </div>
-  </div>
+<div class="tool-hero-inner">
+<nav class="breadcrumb" aria-label="Breadcrumb">
+<a href="/">Home</a> &rsaquo;
+<a href="/tools/">Tools</a> &rsaquo;
+<span>BSN Registration Guide</span>
+</nav>
+<div class="tool-hero-content">
+<div class="tool-hero-text">
+<span class="hero-badge">Free Tool &bull; Updated March 2026</span>
+<h1>BSN Registration Guide Netherlands 2026</h1>
+<p class="hero-subtitle">Plan your BSN registration step by step — timelines, documents, and city-specific wait times.</p>
+<div class="meta">Free &middot; No signup required &middot; By Sarah van den Berg</div>
+</div>
+<div class="tool-hero-icon" aria-hidden="true">
+<svg viewBox="0 0 80 80" fill="none" xmlns="http://www.w3.org/2000/svg"><rect x="10" y="16" width="60" height="52" rx="6" stroke="currentColor" stroke-width="2.5"/><path d="M10 30h60" stroke="currentColor" stroke-width="2.5"/><path d="M26 8v16M54 8v16" stroke="currentColor" stroke-width="2.5" stroke-linecap="round"/><rect x="20" y="38" width="10" height="10" rx="2" stroke="currentColor" stroke-width="1.5" opacity=".4"/><rect x="35" y="38" width="10" height="10" rx="2" stroke="currentColor" stroke-width="1.5" opacity=".4"/><rect x="50" y="38" width="10" height="10" rx="2" stroke="currentColor" stroke-width="1.5" opacity=".4"/><rect x="20" y="52" width="10" height="10" rx="2" stroke="currentColor" stroke-width="1.5" opacity=".4"/><path d="M37 53l3 3 6-6" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/></svg>
+</div>
+</div>
+</div>
 </div>
 
 <!-- MAIN CONTENT -->
 <main>
-  <div class="wrap">
+<div class="wrap">
 
-    <!-- PLANNER CARD -->
-    <div class="planner-card" id="planner-form-card">
-      <h2>Tell us about your situation</h2>
+<!-- PLANNER CARD -->
+<div class="planner-card" id="planner-form-card">
+<h2>Tell us about your situation</h2>
 
-      <div class="form-section">
-        <div class="form-grid">
+<div class="form-section">
+<div class="form-grid">
 
-          <!-- City -->
-          <div class="form-group">
-            <label for="city">Which city will you register in?<span class="required">*</span></label>
-            <select id="city">
-              <option value="">— Select your city —</option>
-              <option value="amsterdam">Amsterdam</option>
-              <option value="rotterdam">Rotterdam</option>
-              <option value="the-hague">The Hague (Den Haag)</option>
-              <option value="eindhoven">Eindhoven</option>
-              <option value="utrecht">Utrecht</option>
-              <option value="groningen">Groningen</option>
-              <option value="leiden">Leiden</option>
-              <option value="maastricht">Maastricht</option>
-              <option value="other">Other city</option>
-            </select>
-          </div>
+<!-- City -->
+<div class="form-group">
+<label for="city">Which city will you register in?<span class="required">*</span></label>
+<select id="city">
+<option value="">— Select your city —</option>
+<option value="amsterdam">Amsterdam</option>
+<option value="rotterdam">Rotterdam</option>
+<option value="the-hague">The Hague (Den Haag)</option>
+<option value="eindhoven">Eindhoven</option>
+<option value="utrecht">Utrecht</option>
+<option value="groningen">Groningen</option>
+<option value="leiden">Leiden</option>
+<option value="maastricht">Maastricht</option>
+<option value="other">Other city</option>
+</select>
+</div>
 
-          <!-- Moving date -->
-          <div class="form-group">
-            <label for="moving-date">When are you moving to the Netherlands?<span class="required">*</span></label>
-            <input type="date" id="moving-date" />
-          </div>
+<!-- Moving date -->
+<div class="form-group">
+<label for="moving-date">When are you moving to the Netherlands?<span class="required">*</span></label>
+<input type="date" id="moving-date" />
+</div>
 
-          <!-- Situation -->
-          <div class="form-group full">
-            <label>Your situation<span class="required">*</span></label>
-            <div class="radio-group">
-              <label class="radio-option">
-                <input type="radio" name="situation" value="eu" />
-                <span>EU / EEA citizen</span>
-              </label>
-              <label class="radio-option">
-                <input type="radio" name="situation" value="non-eu-permit" />
-                <span>Non-EU with residence permit (MVV / VVR)</span>
-              </label>
-              <label class="radio-option">
-                <input type="radio" name="situation" value="non-eu-family" />
-                <span>Non-EU joining partner / family</span>
-              </label>
-              <label class="radio-option">
-                <input type="radio" name="situation" value="student" />
-                <span>Student</span>
-              </label>
-            </div>
-          </div>
+<!-- Situation -->
+<div class="form-group full">
+<label>Your situation<span class="required">*</span></label>
+<div class="radio-group">
+<label class="radio-option">
+<input type="radio" name="situation" value="eu" />
+<span>EU / EEA citizen</span>
+</label>
+<label class="radio-option">
+<input type="radio" name="situation" value="non-eu-permit" />
+<span>Non-EU with residence permit (MVV / VVR)</span>
+</label>
+<label class="radio-option">
+<input type="radio" name="situation" value="non-eu-family" />
+<span>Non-EU joining partner / family</span>
+</label>
+<label class="radio-option">
+<input type="radio" name="situation" value="student" />
+<span>Student</span>
+</label>
+</div>
+</div>
 
-          <!-- Address -->
-          <div class="form-group">
-            <label>Do you already have a Dutch address?<span class="required">*</span></label>
-            <div class="radio-group">
-              <label class="radio-option">
-                <input type="radio" name="address" value="yes" />
-                <span>Yes</span>
-              </label>
-              <label class="radio-option">
-                <input type="radio" name="address" value="no" />
-                <span>Not yet</span>
-              </label>
-            </div>
-          </div>
+<!-- Address -->
+<div class="form-group">
+<label>Do you already have a Dutch address?<span class="required">*</span></label>
+<div class="radio-group">
+<label class="radio-option">
+<input type="radio" name="address" value="yes" />
+<span>Yes</span>
+</label>
+<label class="radio-option">
+<input type="radio" name="address" value="no" />
+<span>Not yet</span>
+</label>
+</div>
+</div>
 
-          <!-- Family -->
-          <div class="form-group">
-            <label>Are you moving alone or with family?<span class="required">*</span></label>
-            <div class="radio-group">
-              <label class="radio-option">
-                <input type="radio" name="family" value="alone" />
-                <span>Alone</span>
-              </label>
-              <label class="radio-option">
-                <input type="radio" name="family" value="partner" />
-                <span>With partner</span>
-              </label>
-              <label class="radio-option">
-                <input type="radio" name="family" value="family" />
-                <span>With partner &amp; children</span>
-              </label>
-            </div>
-          </div>
+<!-- Family -->
+<div class="form-group">
+<label>Are you moving alone or with family?<span class="required">*</span></label>
+<div class="radio-group">
+<label class="radio-option">
+<input type="radio" name="family" value="alone" />
+<span>Alone</span>
+</label>
+<label class="radio-option">
+<input type="radio" name="family" value="partner" />
+<span>With partner</span>
+</label>
+<label class="radio-option">
+<input type="radio" name="family" value="family" />
+<span>With partner &amp; children</span>
+</label>
+</div>
+</div>
 
-        </div>
+</div>
 
-        <div id="form-error" style="color:#991B1B;font-size:.88rem;margin-top:12px;display:none;">
-          Please fill in all required fields before generating your timeline.
-        </div>
+<div id="form-error" style="color:#991B1B;font-size:.88rem;margin-top:12px;display:none;">
+Please fill in all required fields before generating your timeline.
+</div>
 
-        <button class="btn-generate" onclick="generateTimeline()">
-          Generate My BSN Timeline &rarr;
-        </button>
-      </div>
+<button class="btn-generate" onclick="generateTimeline()">
+Generate My BSN Timeline &rarr;
+</button>
+</div>
 
-      <!-- TIMELINE OUTPUT -->
-      <div id="timeline-output">
+<!-- TIMELINE OUTPUT -->
+<div id="timeline-output">
 
-        <div class="timeline-header">
-          <h2 id="timeline-title">Your personalised BSN timeline</h2>
-          <button class="btn-print" onclick="window.print()">
-            &#128438; Print / Save PDF
-          </button>
-        </div>
+<div class="timeline-header">
+<h2 id="timeline-title">Your personalised BSN timeline</h2>
+<button class="btn-print" onclick="window.print()">
+&#128438; Print / Save PDF
+</button>
+</div>
 
-        <div class="timeline" id="timeline-steps">
-          <!-- Steps injected by JS -->
-        </div>
+<div class="timeline" id="timeline-steps">
+<!-- Steps injected by JS -->
+</div>
 
-      </div>
-    </div>
-    <!-- /planner-card -->
+</div>
+</div>
+<!-- /planner-card -->
 
-  </div>
-  <!-- /wrap -->
+</div>
+<!-- /wrap -->
 
-  <!-- SEO CONTENT -->
-  <section class="seo-section">
-    <div class="wrap">
+<!-- SEO CONTENT -->
+<section class="seo-section">
+<div class="wrap">
 
-      <h2>What is a BSN and why do you need it?</h2>
-      <p>The <strong>BSN (Burgerservicenummer)</strong> is a unique nine-digit personal identification number issued by the Dutch government. Think of it as the Dutch equivalent of a National Insurance number in the UK or a Social Security Number in the US. Every person officially registered in the Netherlands — whether Dutch citizen or foreign national — has one.</p>
-      <p>Without a BSN you cannot open a Dutch bank account at a traditional bank, start working for a Dutch employer, access healthcare services, file a tax return, or apply for government benefits. It is essentially the key that unlocks life in the Netherlands. The sooner you get it, the sooner everything else falls into place.</p>
-      <p>The BSN is assigned at the moment you register in the <strong>Basisregistratie Personen (BRP)</strong> — the national population register — at your local gemeente (municipality). Some people receive it on the spot; others receive a letter by post within one to three working days.</p>
+<h2>What is a BSN and why do you need it?</h2>
+<p>The <strong>BSN (Burgerservicenummer)</strong> is a unique nine-digit personal identification number issued by the Dutch government. Think of it as the Dutch equivalent of a National Insurance number in the UK or a Social Security Number in the US. Every person officially registered in the Netherlands — whether Dutch citizen or foreign national — has one.</p>
+<p>Without a BSN you cannot open a Dutch bank account at a traditional bank, start working for a Dutch employer, access healthcare services, file a tax return, or apply for government benefits. It is essentially the key that unlocks life in the Netherlands. The sooner you get it, the sooner everything else falls into place.</p>
+<p>The BSN is assigned at the moment you register in the <strong>Basisregistratie Personen (BRP)</strong> — the national population register — at your local gemeente (municipality). Some people receive it on the spot; others receive a letter by post within one to three working days.</p>
 
-      <div class="info-box">
-        <strong>Important:</strong> You cannot register in the BRP until you have a physical address in the Netherlands. If you are still looking for housing, prioritise that first — everything else depends on it.
-      </div>
+<div class="info-box">
+<strong>Important:</strong> You cannot register in the BRP until you have a physical address in the Netherlands. If you are still looking for housing, prioritise that first — everything else depends on it.
+</div>
 
-      <h2>How to book a gemeente appointment for BSN registration</h2>
-      <p>Each municipality has its own online booking system. There is no national portal. You need to visit the website of the gemeente where you will be registered (based on your home address), find the section for "first registration" or "inschrijving BRP", and book a slot.</p>
-      <p>Appointment slots can fill up quickly, especially in larger cities. Amsterdam in particular can have waits of three to four weeks during busy periods. The golden rule is to book your appointment the same day you confirm your Dutch address — do not wait.</p>
-      <p>Most gemeente websites are available in Dutch only. Use your browser's translation feature (right-click → Translate) or the Google Translate browser extension. The relevant appointment type is usually called <em>"Eerste inschrijving BRP"</em> (first registration in BRP) or <em>"Aanvraag BSN"</em>.</p>
+<h2>How to book a gemeente appointment for BSN registration</h2>
+<p>Each municipality has its own online booking system. There is no national portal. You need to visit the website of the gemeente where you will be registered (based on your home address), find the section for "first registration" or "inschrijving BRP", and book a slot.</p>
+<p>Appointment slots can fill up quickly, especially in larger cities. Amsterdam in particular can have waits of three to four weeks during busy periods. The golden rule is to book your appointment the same day you confirm your Dutch address — do not wait.</p>
+<p>Most gemeente websites are available in Dutch only. Use your browser's translation feature (right-click → Translate) or the Google Translate browser extension. The relevant appointment type is usually called <em>"Eerste inschrijving BRP"</em> (first registration in BRP) or <em>"Aanvraag BSN"</em>.</p>
 
-      <table class="city-table">
-        <thead>
-          <tr>
-            <th>City</th>
-            <th>Typical wait for appointment</th>
-            <th>Gemeente website</th>
-          </tr>
-        </thead>
-        <tbody>
-          <tr><td>Amsterdam</td><td>2–4 weeks</td><td><a href="https://www.amsterdam.nl/en/civil-affairs/registration/" target="_blank" rel="noopener noreferrer">amsterdam.nl</a></td></tr>
-          <tr><td>Rotterdam</td><td>1–3 weeks</td><td><a href="https://www.rotterdam.nl/en/registration/" target="_blank" rel="noopener noreferrer">rotterdam.nl</a></td></tr>
-          <tr><td>The Hague</td><td>2–3 weeks</td><td><a href="https://www.denhaag.nl/en/registration-deregistration-and-address-changes.htm" target="_blank" rel="noopener noreferrer">denhaag.nl</a></td></tr>
-          <tr><td>Eindhoven</td><td>1–2 weeks</td><td><a href="https://www.eindhoven.nl/en" target="_blank" rel="noopener noreferrer">eindhoven.nl</a></td></tr>
-          <tr><td>Utrecht</td><td>2–3 weeks</td><td><a href="https://www.utrecht.nl/en/" target="_blank" rel="noopener noreferrer">utrecht.nl</a></td></tr>
-          <tr><td>Groningen</td><td>1–2 weeks</td><td><a href="https://gemeente.groningen.nl/en" target="_blank" rel="noopener noreferrer">gemeente.groningen.nl</a></td></tr>
-          <tr><td>Leiden</td><td>1–2 weeks</td><td><a href="https://www.leiden.nl/en/" target="_blank" rel="noopener noreferrer">leiden.nl</a></td></tr>
-          <tr><td>Maastricht</td><td>~1 week</td><td><a href="https://www.gemeentemaastricht.nl/en/" target="_blank" rel="noopener noreferrer">gemeentemaastricht.nl</a></td></tr>
-        </tbody>
-      </table>
+<table class="city-table">
+<thead>
+<tr>
+<th>City</th>
+<th>Typical wait for appointment</th>
+<th>Gemeente website</th>
+</tr>
+</thead>
+<tbody>
+<tr><td>Amsterdam</td><td>2–4 weeks</td><td><a href="https://www.amsterdam.nl/en/civil-affairs/registration/" target="_blank" rel="noopener noreferrer">amsterdam.nl</a></td></tr>
+<tr><td>Rotterdam</td><td>1–3 weeks</td><td><a href="https://www.rotterdam.nl/en/registration/" target="_blank" rel="noopener noreferrer">rotterdam.nl</a></td></tr>
+<tr><td>The Hague</td><td>2–3 weeks</td><td><a href="https://www.denhaag.nl/en/registration-deregistration-and-address-changes.htm" target="_blank" rel="noopener noreferrer">denhaag.nl</a></td></tr>
+<tr><td>Eindhoven</td><td>1–2 weeks</td><td><a href="https://www.eindhoven.nl/en" target="_blank" rel="noopener noreferrer">eindhoven.nl</a></td></tr>
+<tr><td>Utrecht</td><td>2–3 weeks</td><td><a href="https://www.utrecht.nl/en/" target="_blank" rel="noopener noreferrer">utrecht.nl</a></td></tr>
+<tr><td>Groningen</td><td>1–2 weeks</td><td><a href="https://gemeente.groningen.nl/en" target="_blank" rel="noopener noreferrer">gemeente.groningen.nl</a></td></tr>
+<tr><td>Leiden</td><td>1–2 weeks</td><td><a href="https://www.leiden.nl/en/" target="_blank" rel="noopener noreferrer">leiden.nl</a></td></tr>
+<tr><td>Maastricht</td><td>~1 week</td><td><a href="https://www.gemeentemaastricht.nl/en/" target="_blank" rel="noopener noreferrer">gemeentemaastricht.nl</a></td></tr>
+</tbody>
+</table>
 
-      <h2>Documents needed for BSN registration</h2>
-      <p>What you need to bring depends on your situation. Missing even one document can mean your appointment is refused and you need to rebook — weeks of delay. Always bring originals and photocopies of everything.</p>
+<h2>Documents needed for BSN registration</h2>
+<p>What you need to bring depends on your situation. Missing even one document can mean your appointment is refused and you need to rebook — weeks of delay. Always bring originals and photocopies of everything.</p>
 
-      <h3>EU / EEA citizens</h3>
-      <ul>
-        <li>Valid passport <em>or</em> national ID card (EU nationals only)</li>
-        <li>Proof of Dutch address: rental contract, or a signed landlord declaration (<em>huurverklaring</em>) if you are subletting or staying with someone</li>
-        <li>Birth certificate — apostilled copy sometimes requested, especially for family registration</li>
-      </ul>
+<h3>EU / EEA citizens</h3>
+<ul>
+<li>Valid passport <em>or</em> national ID card (EU nationals only)</li>
+<li>Proof of Dutch address: rental contract, or a signed landlord declaration (<em>huurverklaring</em>) if you are subletting or staying with someone</li>
+<li>Birth certificate — apostilled copy sometimes requested, especially for family registration</li>
+</ul>
 
-      <h3>Non-EU nationals with a residence permit (MVV / VVR)</h3>
-      <ul>
-        <li>Valid passport</li>
-        <li>MVV sticker (entry visa) or VVR card (residence permit card)</li>
-        <li>Proof of Dutch address</li>
-        <li>Birth certificate — legalised and officially translated into Dutch or English</li>
-      </ul>
+<h3>Non-EU nationals with a residence permit (MVV / VVR)</h3>
+<ul>
+<li>Valid passport</li>
+<li>MVV sticker (entry visa) or VVR card (residence permit card)</li>
+<li>Proof of Dutch address</li>
+<li>Birth certificate — legalised and officially translated into Dutch or English</li>
+</ul>
 
-      <h3>Non-EU nationals joining a partner or family</h3>
-      <ul>
-        <li>All documents listed above for Non-EU nationals</li>
-        <li>Marriage or registered partnership certificate — legalised and translated</li>
-        <li>Your partner's BSN number</li>
-        <li>Proof that your partner is registered in the Netherlands</li>
-      </ul>
+<h3>Non-EU nationals joining a partner or family</h3>
+<ul>
+<li>All documents listed above for Non-EU nationals</li>
+<li>Marriage or registered partnership certificate — legalised and translated</li>
+<li>Your partner's BSN number</li>
+<li>Proof that your partner is registered in the Netherlands</li>
+</ul>
 
-      <h3>Students</h3>
-      <ul>
-        <li>Valid passport</li>
-        <li>Official enrolment letter from your Dutch educational institution</li>
-        <li>Proof of Dutch address</li>
-        <li>Residence permit if you are non-EU</li>
-      </ul>
+<h3>Students</h3>
+<ul>
+<li>Valid passport</li>
+<li>Official enrolment letter from your Dutch educational institution</li>
+<li>Proof of Dutch address</li>
+<li>Residence permit if you are non-EU</li>
+</ul>
 
-      <h3>If you are moving with children</h3>
-      <ul>
-        <li>Children's passports (or EU ID cards)</li>
-        <li>Children's birth certificates — legalised and translated if non-EU</li>
-        <li>Children must be present at the appointment in most municipalities</li>
-      </ul>
+<h3>If you are moving with children</h3>
+<ul>
+<li>Children's passports (or EU ID cards)</li>
+<li>Children's birth certificates — legalised and translated if non-EU</li>
+<li>Children must be present at the appointment in most municipalities</li>
+</ul>
 
-      <h2>Common delays and how to avoid them</h2>
+<h2>Common delays and how to avoid them</h2>
 
-      <h3>1. Not having a fixed address yet</h3>
-      <p>This is the single biggest blocker. You cannot register until you have a physical address. If you are staying in a hotel or Airbnb temporarily, some municipalities offer a workaround via a "non-resident registration" (<em>RNI</em>) at designated locations, but these only apply to people who will not be residing in the Netherlands long-term. For permanent residents, you need a real address first.</p>
+<h3>1. Not having a fixed address yet</h3>
+<p>This is the single biggest blocker. You cannot register until you have a physical address. If you are staying in a hotel or Airbnb temporarily, some municipalities offer a workaround via a "non-resident registration" (<em>RNI</em>) at designated locations, but these only apply to people who will not be residing in the Netherlands long-term. For permanent residents, you need a real address first.</p>
 
-      <h3>2. Documents not correctly legalised or translated</h3>
-      <p>Non-EU nationals often underestimate how strict the Netherlands is about document authentication. Foreign birth certificates and marriage certificates must be apostilled (or legalised via the embassy chain if your country has not signed the Hague Convention) and translated by a sworn translator (<em>beëdigd vertaler</em>). Check with your gemeente in advance — requirements can vary slightly.</p>
+<h3>2. Documents not correctly legalised or translated</h3>
+<p>Non-EU nationals often underestimate how strict the Netherlands is about document authentication. Foreign birth certificates and marriage certificates must be apostilled (or legalised via the embassy chain if your country has not signed the Hague Convention) and translated by a sworn translator (<em>beëdigd vertaler</em>). Check with your gemeente in advance — requirements can vary slightly.</p>
 
-      <h3>3. Booking too late</h3>
-      <p>Many expats wait until they arrive in the Netherlands before booking. By then, the earliest slots in Amsterdam or Rotterdam may be three weeks away. Book your gemeente appointment the moment your rental contract is signed — even if you have not yet moved in.</p>
+<h3>3. Booking too late</h3>
+<p>Many expats wait until they arrive in the Netherlands before booking. By then, the earliest slots in Amsterdam or Rotterdam may be three weeks away. Book your gemeente appointment the moment your rental contract is signed — even if you have not yet moved in.</p>
 
-      <h3>4. Going to the wrong gemeente</h3>
-      <p>You must register at the gemeente where your address is located. Amsterdam residents cannot register at Rotterdam city hall, even if it has earlier slots. The registration is tied to your address postcode.</p>
+<h3>4. Going to the wrong gemeente</h3>
+<p>You must register at the gemeente where your address is located. Amsterdam residents cannot register at Rotterdam city hall, even if it has earlier slots. The registration is tied to your address postcode.</p>
 
-      <h2>City-by-city tips for expats</h2>
+<h2>City-by-city tips for expats</h2>
 
-      <h3>Amsterdam</h3>
-      <p>The most competitive housing market in the Netherlands. Budget at least €1,200/month for a room and expect to compete with many applicants. Use Funda, Pararius, and Kamernet. The gemeente appointment wait is the longest nationally — book immediately. The Stadsloket offices are located across the city; the one in the city centre on Amstel is the most central.</p>
+<h3>Amsterdam</h3>
+<p>The most competitive housing market in the Netherlands. Budget at least €1,200/month for a room and expect to compete with many applicants. Use Funda, Pararius, and Kamernet. The gemeente appointment wait is the longest nationally — book immediately. The Stadsloket offices are located across the city; the one in the city centre on Amstel is the most central.</p>
 
-      <h3>Rotterdam</h3>
-      <p>More affordable than Amsterdam, with a growing international community. Appointments are typically available within two weeks. Rotterdam has a modern, bilingual gemeente website which makes the booking process easier for English speakers.</p>
+<h3>Rotterdam</h3>
+<p>More affordable than Amsterdam, with a growing international community. Appointments are typically available within two weeks. Rotterdam has a modern, bilingual gemeente website which makes the booking process easier for English speakers.</p>
 
-      <h3>The Hague (Den Haag)</h3>
-      <p>Home to many EU institutions and international organisations, meaning there is a well-established expat infrastructure. The gemeente has experience processing international registrations. Appointments in the Bezuidenhout and Centrum districts tend to fill first.</p>
+<h3>The Hague (Den Haag)</h3>
+<p>Home to many EU institutions and international organisations, meaning there is a well-established expat infrastructure. The gemeente has experience processing international registrations. Appointments in the Bezuidenhout and Centrum districts tend to fill first.</p>
 
-      <h3>Eindhoven</h3>
-      <p>A fast-growing tech hub with a strong international workforce (ASML, NXP, Philips). Wait times are generally shorter. The gemeente Eindhoven has a dedicated section for international newcomers.</p>
+<h3>Eindhoven</h3>
+<p>A fast-growing tech hub with a strong international workforce (ASML, NXP, Philips). Wait times are generally shorter. The gemeente Eindhoven has a dedicated section for international newcomers.</p>
 
-      <h3>Utrecht</h3>
-      <p>Popular with students and young professionals. Appointment availability is moderate. The central location makes it convenient, but competition for housing is high.</p>
+<h3>Utrecht</h3>
+<p>Popular with students and young professionals. Appointment availability is moderate. The central location makes it convenient, but competition for housing is high.</p>
 
-      <h3>Groningen, Leiden, Maastricht</h3>
-      <p>University cities with significant international student populations. Appointment wait times are generally the shortest in the country — often under two weeks. The smaller scale also means gemeente staff are often more accessible.</p>
+<h3>Groningen, Leiden, Maastricht</h3>
+<p>University cities with significant international student populations. Appointment wait times are generally the shortest in the country — often under two weeks. The smaller scale also means gemeente staff are often more accessible.</p>
 
-      <h2>What happens at your BSN appointment?</h2>
-      <p>The appointment itself typically lasts 15 to 30 minutes. A municipality employee will verify your identity documents, confirm your address, and enter your details into the BRP. They may ask a few questions about your living situation.</p>
-      <p>In most cases, you will receive your BSN number on the spot — either printed on a document or told verbally. Some municipalities mail it to your registered address within one to three working days. Keep a note of your BSN as soon as you receive it.</p>
-      <p>Important: children who are being registered for the first time generally need to be present at the appointment. Check with your gemeente when booking.</p>
+<h2>What happens at your BSN appointment?</h2>
+<p>The appointment itself typically lasts 15 to 30 minutes. A municipality employee will verify your identity documents, confirm your address, and enter your details into the BRP. They may ask a few questions about your living situation.</p>
+<p>In most cases, you will receive your BSN number on the spot — either printed on a document or told verbally. Some municipalities mail it to your registered address within one to three working days. Keep a note of your BSN as soon as you receive it.</p>
+<p>Important: children who are being registered for the first time generally need to be present at the appointment. Check with your gemeente when booking.</p>
 
-      <h2>What to do immediately after receiving your BSN</h2>
-      <p>Getting your BSN is just the beginning. Here is what to prioritise in the first weeks after registration:</p>
-      <ol>
-        <li><strong>Open a Dutch bank account.</strong> ING, ABN AMRO and Rabobank all require a BSN. Alternatively, start with a Wise or Revolut account for day-to-day expenses while you wait for a traditional account appointment.</li>
-        <li><strong>Apply for DigiD.</strong> DigiD is the Dutch digital identity system used for everything from tax returns to healthcare portals. Apply at <a href="https://www.digid.nl/en/" target="_blank" rel="noopener noreferrer">digid.nl</a> — it takes about 5 working days to arrive by post. See our full guide: <a href="/guides/legal/digid-guide-expats-2026/">DigiD Guide for Expats 2026</a>.</li>
-        <li><strong>Take out health insurance (<em>zorgverzekering</em>).</strong> Health insurance is mandatory in the Netherlands and you must take it out within 4 months of your registration date. If you miss the deadline, you will be assigned to an insurer automatically and may face a fine.</li>
-        <li><strong>Register with a GP (<em>huisarts</em>).</strong> Without a GP registration, accessing non-emergency healthcare is difficult. Register with a local practice as soon as possible — some have waiting lists.</li>
-        <li><strong>Check if you qualify for the 30% ruling.</strong> If you are a highly skilled migrant hired from abroad, you may qualify for the 30% tax ruling, which significantly reduces your income tax liability. Use our <a href="/tools/30-percent-ruling-calculator/">30% Ruling Calculator</a> to check.</li>
-        <li><strong>Consider the Moving to the Netherlands guide</strong> for a comprehensive overview of everything from banking to schools: <a href="/guides/legal/complete-guide-moving-to-netherlands-2026/">Moving to the Netherlands Guide 2026</a>.</li>
-      </ol>
+<h2>What to do immediately after receiving your BSN</h2>
+<p>Getting your BSN is just the beginning. Here is what to prioritise in the first weeks after registration:</p>
+<ol>
+<li><strong>Open a Dutch bank account.</strong> ING, ABN AMRO and Rabobank all require a BSN. Alternatively, start with a Wise or Revolut account for day-to-day expenses while you wait for a traditional account appointment.</li>
+<li><strong>Apply for DigiD.</strong> DigiD is the Dutch digital identity system used for everything from tax returns to healthcare portals. Apply at <a href="https://www.digid.nl/en/" target="_blank" rel="noopener noreferrer">digid.nl</a> — it takes about 5 working days to arrive by post. See our full guide: <a href="/guides/legal/digid-guide-expats-2026/">DigiD Guide for Expats 2026</a>.</li>
+<li><strong>Take out health insurance (<em>zorgverzekering</em>).</strong> Health insurance is mandatory in the Netherlands and you must take it out within 4 months of your registration date. If you miss the deadline, you will be assigned to an insurer automatically and may face a fine.</li>
+<li><strong>Register with a GP (<em>huisarts</em>).</strong> Without a GP registration, accessing non-emergency healthcare is difficult. Register with a local practice as soon as possible — some have waiting lists.</li>
+<li><strong>Check if you qualify for the 30% ruling.</strong> If you are a highly skilled migrant hired from abroad, you may qualify for the 30% tax ruling, which significantly reduces your income tax liability. Use our <a href="/tools/30-percent-ruling-calculator/">30% Ruling Calculator</a> to check.</li>
+<li><strong>Consider the Moving to the Netherlands guide</strong> for a comprehensive overview of everything from banking to schools: <a href="/guides/legal/complete-guide-moving-to-netherlands-2026/">Moving to the Netherlands Guide 2026</a>.</li>
+</ol>
 
-      <!-- Related tools -->
-      <div class="related-tools">
-        <h3>Other tools you might find useful</h3>
-        <div class="related-grid">
-          <a class="related-link" href="/tools/bank-account-chooser/">Bank Account Comparison</a>
-          <a class="related-link" href="/tools/health-insurance-wizard/">Health Insurance Comparison</a>
-          <a class="related-link" href="/tools/30-percent-ruling-calculator/">30% Ruling Calculator</a>
-          <a class="related-link" href="/guides/legal/digid-guide-expats-2026/">DigiD Guide 2026</a>
-          <a class="related-link" href="/guides/legal/complete-guide-moving-to-netherlands-2026/">Moving to NL Guide 2026</a>
-          <a class="related-link" href="/tools/">All Expat Tools</a>
-        </div>
-      </div>
+<!-- Related tools -->
+<div class="related-tools">
+<h3>Other tools you might find useful</h3>
+<div class="related-grid">
+<a class="related-link" href="/tools/bank-account-chooser/">Bank Account Comparison</a>
+<a class="related-link" href="/tools/health-insurance-wizard/">Health Insurance Comparison</a>
+<a class="related-link" href="/tools/30-percent-ruling-calculator/">30% Ruling Calculator</a>
+<a class="related-link" href="/guides/legal/digid-guide-expats-2026/">DigiD Guide 2026</a>
+<a class="related-link" href="/guides/legal/complete-guide-moving-to-netherlands-2026/">Moving to NL Guide 2026</a>
+<a class="related-link" href="/tools/">All Expat Tools</a>
+</div>
+</div>
 
-    </div>
-  </section>
+</div>
+</section>
 </div>
 
 <script>
 // ===========================
-  // DATA
-  // ===========================
-  const CITY_DATA = {
-    amsterdam:   { name: 'Amsterdam',        wait: '2–4 weeks', waitLevel: 'red',    url: 'https://www.amsterdam.nl/en/civil-affairs/registration/',         tip: 'Amsterdam has the longest waits. Book your appointment the same day your rental contract is signed. The Stadsloket in Centrum (Amstel 1) handles first registrations.' },
-    rotterdam:   { name: 'Rotterdam',        wait: '1–3 weeks', waitLevel: 'orange', url: 'https://www.rotterdam.nl/en/registration/',                        tip: 'Rotterdam\'s gemeente website has a good English section. Appointments in the city centre office fill fastest — check Prins Alexander or Delfshaven service points for earlier slots.' },
-    'the-hague': { name: 'The Hague',        wait: '2–3 weeks', waitLevel: 'orange', url: 'https://www.denhaag.nl/en/registration-deregistration-and-address-changes.htm', tip: 'Den Haag has many expats due to EU institutions. The gemeente is experienced with international registrations. Try the Spui or Leyweg service points.' },
-    eindhoven:   { name: 'Eindhoven',        wait: '1–2 weeks', waitLevel: 'green',  url: 'https://www.eindhoven.nl/en',                                      tip: 'Eindhoven has a dedicated international newcomers section. With a large tech expat community, staff are used to helping international residents.' },
-    utrecht:     { name: 'Utrecht',          wait: '2–3 weeks', waitLevel: 'orange', url: 'https://www.utrecht.nl/en/',                                       tip: 'Utrecht city centre appointments fill quickly. Try booking at the Stadskantoor on Stadsplateau — it is the main registration office.' },
-    groningen:   { name: 'Groningen',        wait: '1–2 weeks', waitLevel: 'green',  url: 'https://gemeente.groningen.nl/en',                                 tip: 'Groningen has a large student and expat community. Wait times are among the shortest in the Netherlands.' },
-    leiden:      { name: 'Leiden',           wait: '1–2 weeks', waitLevel: 'green',  url: 'https://www.leiden.nl/en/',                                        tip: 'Leiden is a university city with a well-organised gemeente for international residents. Same-week appointments are sometimes available.' },
-    maastricht:  { name: 'Maastricht',       wait: '~1 week',   waitLevel: 'green',  url: 'https://www.gemeentemaastricht.nl/en/',                            tip: 'Maastricht offers the fastest appointment availability of all major Dutch cities. Some expats can book within days.' },
-    other:       { name: 'your city',        wait: '1–3 weeks', waitLevel: 'orange', url: 'https://www.government.nl/topics/municipal-personal-records-database-brp/registering-with-the-municipality', tip: 'Search "[your city name] gemeente BRP inschrijving" to find the appointment booking page for your municipality.' }
-  };
+// DATA
+// ===========================
+const CITY_DATA = {
+amsterdam:   { name: 'Amsterdam',        wait: '2–4 weeks', waitLevel: 'red',    url: 'https://www.amsterdam.nl/en/civil-affairs/registration/',         tip: 'Amsterdam has the longest waits. Book your appointment the same day your rental contract is signed. The Stadsloket in Centrum (Amstel 1) handles first registrations.' },
+rotterdam:   { name: 'Rotterdam',        wait: '1–3 weeks', waitLevel: 'orange', url: 'https://www.rotterdam.nl/en/registration/',                        tip: 'Rotterdam\'s gemeente website has a good English section. Appointments in the city centre office fill fastest — check Prins Alexander or Delfshaven service points for earlier slots.' },
+'the-hague': { name: 'The Hague',        wait: '2–3 weeks', waitLevel: 'orange', url: 'https://www.denhaag.nl/en/registration-deregistration-and-address-changes.htm', tip: 'Den Haag has many expats due to EU institutions. The gemeente is experienced with international registrations. Try the Spui or Leyweg service points.' },
+eindhoven:   { name: 'Eindhoven',        wait: '1–2 weeks', waitLevel: 'green',  url: 'https://www.eindhoven.nl/en',                                      tip: 'Eindhoven has a dedicated international newcomers section. With a large tech expat community, staff are used to helping international residents.' },
+utrecht:     { name: 'Utrecht',          wait: '2–3 weeks', waitLevel: 'orange', url: 'https://www.utrecht.nl/en/',                                       tip: 'Utrecht city centre appointments fill quickly. Try booking at the Stadskantoor on Stadsplateau — it is the main registration office.' },
+groningen:   { name: 'Groningen',        wait: '1–2 weeks', waitLevel: 'green',  url: 'https://gemeente.groningen.nl/en',                                 tip: 'Groningen has a large student and expat community. Wait times are among the shortest in the Netherlands.' },
+leiden:      { name: 'Leiden',           wait: '1–2 weeks', waitLevel: 'green',  url: 'https://www.leiden.nl/en/',                                        tip: 'Leiden is a university city with a well-organised gemeente for international residents. Same-week appointments are sometimes available.' },
+maastricht:  { name: 'Maastricht',       wait: '~1 week',   waitLevel: 'green',  url: 'https://www.gemeentemaastricht.nl/en/',                            tip: 'Maastricht offers the fastest appointment availability of all major Dutch cities. Some expats can book within days.' },
+other:       { name: 'your city',        wait: '1–3 weeks', waitLevel: 'orange', url: 'https://www.government.nl/topics/municipal-personal-records-database-brp/registering-with-the-municipality', tip: 'Search "[your city name] gemeente BRP inschrijving" to find the appointment booking page for your municipality.' }
+};
 
-  const SITUATION_DOCS = {
-    eu: [
-      'Valid passport or national ID card (EU/EEA citizens can use ID card)',
-      'Proof of Dutch address: rental contract or landlord declaration (huurverklaring)',
-      'Birth certificate (apostilled copy — sometimes required, especially for families)',
-    ],
-    'non-eu-permit': [
-      'Valid passport',
-      'MVV sticker (entry visa) or VVR card (residence permit)',
-      'Proof of Dutch address: rental contract or landlord declaration',
-      'Birth certificate — legalised and translated by a sworn translator',
-    ],
-    'non-eu-family': [
-      'Valid passport',
-      'MVV sticker or VVR card (residence permit)',
-      'Proof of Dutch address',
-      'Birth certificate — legalised and translated',
-      'Marriage or registered partnership certificate — legalised and translated',
-      'Partner\'s BSN number and proof of their registration in the Netherlands',
-    ],
-    student: [
-      'Valid passport (EU students may use national ID card)',
-      'Official enrolment letter from your Dutch educational institution',
-      'Proof of Dutch address: rental contract or student housing agreement',
-      'Residence permit if you are a non-EU student',
-    ],
-  };
+const SITUATION_DOCS = {
+eu: [
+'Valid passport or national ID card (EU/EEA citizens can use ID card)',
+'Proof of Dutch address: rental contract or landlord declaration (huurverklaring)',
+'Birth certificate (apostilled copy — sometimes required, especially for families)',
+],
+'non-eu-permit': [
+'Valid passport',
+'MVV sticker (entry visa) or VVR card (residence permit)',
+'Proof of Dutch address: rental contract or landlord declaration',
+'Birth certificate — legalised and translated by a sworn translator',
+],
+'non-eu-family': [
+'Valid passport',
+'MVV sticker or VVR card (residence permit)',
+'Proof of Dutch address',
+'Birth certificate — legalised and translated',
+'Marriage or registered partnership certificate — legalised and translated',
+'Partner\'s BSN number and proof of their registration in the Netherlands',
+],
+student: [
+'Valid passport (EU students may use national ID card)',
+'Official enrolment letter from your Dutch educational institution',
+'Proof of Dutch address: rental contract or student housing agreement',
+'Residence permit if you are a non-EU student',
+],
+};
 
-  const FAMILY_DOCS = {
-    partner: [
-      'Partner\'s valid passport or ID',
-      'Partner\'s birth certificate (legalised + translated if non-EU)',
-      'Marriage or registered partnership certificate',
-    ],
-    family: [
-      'Partner\'s valid passport or ID',
-      'Partner\'s birth certificate (legalised + translated if non-EU)',
-      'Marriage certificate (legalised + translated if non-EU)',
-      'Birth certificates for all children (legalised + translated if non-EU)',
-      'Children\'s passports or ID cards',
-      'Note: children usually need to be present at the appointment',
-    ],
-  };
+const FAMILY_DOCS = {
+partner: [
+'Partner\'s valid passport or ID',
+'Partner\'s birth certificate (legalised + translated if non-EU)',
+'Marriage or registered partnership certificate',
+],
+family: [
+'Partner\'s valid passport or ID',
+'Partner\'s birth certificate (legalised + translated if non-EU)',
+'Marriage certificate (legalised + translated if non-EU)',
+'Birth certificates for all children (legalised + translated if non-EU)',
+'Children\'s passports or ID cards',
+'Note: children usually need to be present at the appointment',
+],
+};
 
-  const SITUATION_LABELS = {
-    eu:              'EU / EEA citizen',
-    'non-eu-permit': 'Non-EU with residence permit',
-    'non-eu-family': 'Non-EU joining partner / family',
-    student:         'Student',
-  };
+const SITUATION_LABELS = {
+eu:              'EU / EEA citizen',
+'non-eu-permit': 'Non-EU with residence permit',
+'non-eu-family': 'Non-EU joining partner / family',
+student:         'Student',
+};
 
-  // ===========================
-  // HELPER
-  // ===========================
-  function formatDate(dateStr) {
-    if (!dateStr) return null;
-    const d = new Date(dateStr + 'T12:00:00');
-    return d.toLocaleDateString('en-GB', { day: 'numeric', month: 'long', year: 'numeric' });
-  }
+// ===========================
+// HELPER
+// ===========================
+function formatDate(dateStr) {
+if (!dateStr) return null;
+const d = new Date(dateStr + 'T12:00:00');
+return d.toLocaleDateString('en-GB', { day: 'numeric', month: 'long', year: 'numeric' });
+}
 
-  function addWeeks(dateStr, weeks) {
-    if (!dateStr) return null;
-    const d = new Date(dateStr + 'T12:00:00');
-    d.setDate(d.getDate() + weeks * 7);
-    return d.toLocaleDateString('en-GB', { day: 'numeric', month: 'long', year: 'numeric' });
-  }
+function addWeeks(dateStr, weeks) {
+if (!dateStr) return null;
+const d = new Date(dateStr + 'T12:00:00');
+d.setDate(d.getDate() + weeks * 7);
+return d.toLocaleDateString('en-GB', { day: 'numeric', month: 'long', year: 'numeric' });
+}
 
-  function stepCard(num, status, icon, title, waitText, waitLevel, desc, tip, docsTitle, docs, extraHtml) {
-    const waitBadge = waitText
-      ? `<span class="wait-badge ${waitLevel}">${waitText}</span>`
-      : '';
+function stepCard(num, status, icon, title, waitText, waitLevel, desc, tip, docsTitle, docs, extraHtml) {
+const waitBadge = waitText
+? `<span class="wait-badge ${waitLevel}">${waitText}</span>`
+: '';
 
-    let docsHtml = '';
-    if (docs && docs.length) {
-      const items = docs.map(d => `<li>${d}</li>`).join('');
-      docsHtml = `
-        <details>
-          <summary>&#128196; ${docsTitle || 'Required documents'}</summary>
-          <ul class="docs-list">${items}</ul>
-        </details>`;
-    }
+let docsHtml = '';
+if (docs && docs.length) {
+const items = docs.map(d => `<li>${d}</li>`).join('');
+docsHtml = `
+<details>
+<summary>&#128196; ${docsTitle || 'Required documents'}</summary>
+<ul class="docs-list">${items}</ul>
+</details>`;
+}
 
-    return `
-      <div class="timeline-step">
-        <div class="step-number ${status}">${num}</div>
-        <div class="step-card ${status}">
-          <div class="step-top">
-            <div class="step-icon-title">
-              <span class="step-icon">${icon}</span>
-              <span class="step-title">${title}</span>
-            </div>
-            ${waitBadge}
-          </div>
-          <div class="step-desc">${desc}</div>
-          ${tip ? `<div class="step-tip">&#128161; <strong>Tip:</strong> ${tip}</div>` : ''}
-          ${docsHtml}
-          ${extraHtml || ''}
-        </div>
-      </div>`;
-  }
+return `
+<div class="timeline-step">
+<div class="step-number ${status}">${num}</div>
+<div class="step-card ${status}">
+<div class="step-top">
+<div class="step-icon-title">
+<span class="step-icon">${icon}</span>
+<span class="step-title">${title}</span>
+</div>
+${waitBadge}
+</div>
+<div class="step-desc">${desc}</div>
+${tip ? `<div class="step-tip">&#128161; <strong>Tip:</strong> ${tip}</div>` : ''}
+${docsHtml}
+${extraHtml || ''}
+</div>
+</div>`;
+}
 
-  // ===========================
-  // MAIN GENERATOR
-  // ===========================
-  function generateTimeline() {
-    const city      = document.getElementById('city').value;
-    const dateVal   = document.getElementById('moving-date').value;
-    const situation = document.querySelector('input[name="situation"]:checked')?.value;
-    const address   = document.querySelector('input[name="address"]:checked')?.value;
-    const family    = document.querySelector('input[name="family"]:checked')?.value;
+// ===========================
+// MAIN GENERATOR
+// ===========================
+function generateTimeline() {
+const city      = document.getElementById('city').value;
+const dateVal   = document.getElementById('moving-date').value;
+const situation = document.querySelector('input[name="situation"]:checked')?.value;
+const address   = document.querySelector('input[name="address"]:checked')?.value;
+const family    = document.querySelector('input[name="family"]:checked')?.value;
 
-    // Validation
-    const err = document.getElementById('form-error');
-    if (!city || !dateVal || !situation || !address || !family) {
-      err.style.display = 'block';
-      return;
-    }
-    err.style.display = 'none';
+// Validation
+const err = document.getElementById('form-error');
+if (!city || !dateVal || !situation || !address || !family) {
+err.style.display = 'block';
+return;
+}
+err.style.display = 'none';
 
-    const cityInfo = CITY_DATA[city];
-    const movingDateStr = formatDate(dateVal);
-    let stepNum = 1;
-    let steps = '';
+const cityInfo = CITY_DATA[city];
+const movingDateStr = formatDate(dateVal);
+let stepNum = 1;
+let steps = '';
 
-    // ── STEP: Find Housing (only if no address yet) ──
-    if (address === 'no') {
-      const cityHousingTips = {
-        amsterdam:   'Amsterdam has the tightest rental market in the country. Budget at least €1,200/month for a room. Use Funda, Pararius, Kamernet and Facebook expat groups. Respond to listings within hours — competition is intense.',
-        rotterdam:   'Rotterdam is more affordable than Amsterdam. Try Funda, Kamernet, and Rotterdam-specific Facebook groups. The north and west of the city have good transport links.',
-        'the-hague': 'The Hague has a large expat community. Use Funda, Pararius and Expatica Housing. Bezuidenhout and Laak neighbourhoods are popular with internationals.',
-        eindhoven:   'Eindhoven has a growing housing market driven by tech workers. Use Funda and Pararius. The Woensel and Stratum areas offer more affordable options.',
-        utrecht:     'Utrecht is very popular and housing is competitive. Use Funda and Kamernet. Overvecht and Kanaleneiland have more availability.',
-        groningen:   'Groningen has a large student population. Use Kamernet, SSH Student Housing and Funda. Book well in advance of the new academic year.',
-        leiden:      'Leiden is a compact city with a strong student rental market. Use SSH and Kamernet alongside Funda.',
-        maastricht:  'Maastricht has a more relaxed rental market. SKSG and Funda are good starting points.',
-        other:       'Use Funda and Pararius for nationwide listings. Local Facebook expat groups are also a good source for short-notice rentals.',
-      };
+// ── STEP: Find Housing (only if no address yet) ──
+if (address === 'no') {
+const cityHousingTips = {
+amsterdam:   'Amsterdam has the tightest rental market in the country. Budget at least €1,200/month for a room. Use Funda, Pararius, Kamernet and Facebook expat groups. Respond to listings within hours — competition is intense.',
+rotterdam:   'Rotterdam is more affordable than Amsterdam. Try Funda, Kamernet, and Rotterdam-specific Facebook groups. The north and west of the city have good transport links.',
+'the-hague': 'The Hague has a large expat community. Use Funda, Pararius and Expatica Housing. Bezuidenhout and Laak neighbourhoods are popular with internationals.',
+eindhoven:   'Eindhoven has a growing housing market driven by tech workers. Use Funda and Pararius. The Woensel and Stratum areas offer more affordable options.',
+utrecht:     'Utrecht is very popular and housing is competitive. Use Funda and Kamernet. Overvecht and Kanaleneiland have more availability.',
+groningen:   'Groningen has a large student population. Use Kamernet, SSH Student Housing and Funda. Book well in advance of the new academic year.',
+leiden:      'Leiden is a compact city with a strong student rental market. Use SSH and Kamernet alongside Funda.',
+maastricht:  'Maastricht has a more relaxed rental market. SKSG and Funda are good starting points.',
+other:       'Use Funda and Pararius for nationwide listings. Local Facebook expat groups are also a good source for short-notice rentals.',
+};
 
-      steps += stepCard(
-        stepNum++, 'current', '&#127968;',
-        'Find Your Dutch Address',
-        '2–8 weeks',
-        'orange',
-        'You need a registered address in the Netherlands before you can book a BSN appointment. Without an address, the gemeente cannot register you in the BRP system. This is the very first step — everything else depends on it.',
-        cityHousingTips[city] || cityHousingTips['other'],
-        'What you will need to show at your BSN appointment',
-        ['Rental contract signed by both tenant and landlord', 'Or: a landlord declaration (huurverklaring) if subletting'],
-        `<a href="https://wise.com/invite" target="_blank" rel="noopener nofollow sponsored" class="cta-affiliate">Open a bank account before your BSN with Wise &rarr;</a>
-         <p style="font-size:.8rem;color:#6B7280;margin-top:6px;">Wise lets you send and receive money before you have a Dutch bank account — useful for paying a rental deposit.</p>`
-      );
-    }
+steps += stepCard(
+stepNum++, 'current', '&#127968;',
+'Find Your Dutch Address',
+'2–8 weeks',
+'orange',
+'You need a registered address in the Netherlands before you can book a BSN appointment. Without an address, the gemeente cannot register you in the BRP system. This is the very first step — everything else depends on it.',
+cityHousingTips[city] || cityHousingTips['other'],
+'What you will need to show at your BSN appointment',
+['Rental contract signed by both tenant and landlord', 'Or: a landlord declaration (huurverklaring) if subletting'],
+`<a href="https://wise.com/invite" target="_blank" rel="noopener nofollow sponsored" class="cta-affiliate">Open a bank account before your BSN with Wise &rarr;</a>
+<p style="font-size:.8rem;color:#6B7280;margin-top:6px;">Wise lets you send and receive money before you have a Dutch bank account — useful for paying a rental deposit.</p>`
+);
+}
 
-    // ── STEP: Book Gemeente Appointment ──
-    steps += stepCard(
-      stepNum++, address === 'yes' ? 'current' : 'upcoming', '&#128197;',
-      `Book Your ${cityInfo.name} Gemeente Appointment`,
-      `Wait: ${cityInfo.wait}`,
-      cityInfo.waitLevel,
-      `Book your first registration (<em>eerste inschrijving BRP</em>) appointment online at the ${cityInfo.name} gemeente website. Do this as soon as your rental contract is confirmed — not after you move in. Slots can run out weeks in advance.`,
-      cityInfo.tip,
-      null, null,
-      `<a href="${cityInfo.url}" target="_blank" rel="noopener noreferrer" class="cta-affiliate" style="margin-top:10px;">Go to ${cityInfo.name} gemeente booking page &rarr;</a>`
-    );
+// ── STEP: Book Gemeente Appointment ──
+steps += stepCard(
+stepNum++, address === 'yes' ? 'current' : 'upcoming', '&#128197;',
+`Book Your ${cityInfo.name} Gemeente Appointment`,
+`Wait: ${cityInfo.wait}`,
+cityInfo.waitLevel,
+`Book your first registration (<em>eerste inschrijving BRP</em>) appointment online at the ${cityInfo.name} gemeente website. Do this as soon as your rental contract is confirmed — not after you move in. Slots can run out weeks in advance.`,
+cityInfo.tip,
+null, null,
+`<a href="${cityInfo.url}" target="_blank" rel="noopener noreferrer" class="cta-affiliate" style="margin-top:10px;">Go to ${cityInfo.name} gemeente booking page &rarr;</a>`
+);
 
-    // ── STEP: Gather Documents ──
-    let allDocs = [...(SITUATION_DOCS[situation] || [])];
-    if (family === 'partner') allDocs = allDocs.concat(FAMILY_DOCS.partner || []);
-    if (family === 'family')  allDocs = allDocs.concat(FAMILY_DOCS.family || []);
+// ── STEP: Gather Documents ──
+let allDocs = [...(SITUATION_DOCS[situation] || [])];
+if (family === 'partner') allDocs = allDocs.concat(FAMILY_DOCS.partner || []);
+if (family === 'family')  allDocs = allDocs.concat(FAMILY_DOCS.family || []);
 
-    const docTips = {
-      eu:              'EU citizens have the simplest requirements. However, if you are registering children, bring their birth certificates even if not strictly required — it avoids a second appointment.',
-      'non-eu-permit': 'Non-EU legalisation can take weeks. If your birth certificate needs apostilling, start this process immediately — contact the relevant authority in your home country.',
-      'non-eu-family': 'Marriage certificates from some countries require full legalisation via the embassy chain if your country has not joined the Hague Convention. Check early — this is the most common cause of appointment delays for family registrants.',
-      student:         'Your enrolment letter must be official (on institutional letterhead, signed, with a stamp). A student portal screenshot is not sufficient.',
-    };
+const docTips = {
+eu:              'EU citizens have the simplest requirements. However, if you are registering children, bring their birth certificates even if not strictly required — it avoids a second appointment.',
+'non-eu-permit': 'Non-EU legalisation can take weeks. If your birth certificate needs apostilling, start this process immediately — contact the relevant authority in your home country.',
+'non-eu-family': 'Marriage certificates from some countries require full legalisation via the embassy chain if your country has not joined the Hague Convention. Check early — this is the most common cause of appointment delays for family registrants.',
+student:         'Your enrolment letter must be official (on institutional letterhead, signed, with a stamp). A student portal screenshot is not sufficient.',
+};
 
-    steps += stepCard(
-      stepNum++, 'upcoming', '&#128196;',
-      'Gather Your Documents',
-      `Do before: ${addWeeks(dateVal, -1) || 'Before your appointment'}`,
-      'orange',
-      `Collect all required documents well before your appointment date. Missing or incorrect documents are the most common reason appointments are refused. Check the gemeente website for the most up-to-date requirements — they can occasionally change.`,
-      docTips[situation],
-      'Documents to bring (originals + copies)',
-      allDocs,
-      null
-    );
+steps += stepCard(
+stepNum++, 'upcoming', '&#128196;',
+'Gather Your Documents',
+`Do before: ${addWeeks(dateVal, -1) || 'Before your appointment'}`,
+'orange',
+`Collect all required documents well before your appointment date. Missing or incorrect documents are the most common reason appointments are refused. Check the gemeente website for the most up-to-date requirements — they can occasionally change.`,
+docTips[situation],
+'Documents to bring (originals + copies)',
+allDocs,
+null
+);
 
-    // ── STEP: Attend Appointment ──
-    steps += stepCard(
-      stepNum++, 'upcoming', '&#127970;',
-      `Attend Your Gemeente Appointment`,
-      '15–30 minutes',
-      'green',
-      `At your appointment, a gemeente employee verifies your identity, confirms your address and registers you in the BRP. You will usually receive your BSN on the spot or by post within 1–3 working days. Children typically need to be present if they are also being registered.`,
-      'Bring originals and one photocopy of every document. Some gemeente offices have a photocopier on site, but do not rely on it. Arrive 10 minutes early — being late may mean losing your slot.',
-      null, null, null
-    );
+// ── STEP: Attend Appointment ──
+steps += stepCard(
+stepNum++, 'upcoming', '&#127970;',
+`Attend Your Gemeente Appointment`,
+'15–30 minutes',
+'green',
+`At your appointment, a gemeente employee verifies your identity, confirms your address and registers you in the BRP. You will usually receive your BSN on the spot or by post within 1–3 working days. Children typically need to be present if they are also being registered.`,
+'Bring originals and one photocopy of every document. Some gemeente offices have a photocopier on site, but do not rely on it. Arrive 10 minutes early — being late may mean losing your slot.',
+null, null, null
+);
 
-    // ── STEP: After BSN — Next Steps ──
-    const nextStepsHtml = `
-      <div class="next-steps-grid">
-        <div class="next-step-item">
-          <a href="/tools/bank-account-chooser/">Open a Dutch bank account</a>
-          <p>ING, ABN AMRO and Rabobank require your BSN. Compare accounts to find the best fit.</p>
-        </div>
-        <div class="next-step-item">
-          <a href="/tools/health-insurance-wizard/">Get health insurance</a>
-          <p>Mandatory in the Netherlands. You have 4 months from your registration date — don't miss the deadline.</p>
-        </div>
-        <div class="next-step-item">
-          <a href="/guides/legal/digid-guide-expats-2026/">Apply for DigiD</a>
-          <p>The Dutch digital identity service. Needed for tax returns, healthcare portals and government services.</p>
-        </div>
-        <div class="next-step-item">
-          <a href="/tools/30-percent-ruling-calculator/">Check 30% ruling eligibility</a>
-          <p>Highly skilled migrants hired from abroad may qualify for significant income tax savings.</p>
-        </div>
-      </div>
-      <p style="font-size:.85rem;color:#6B7280;margin-top:14px;">Also: register with a local GP (<em>huisarts</em>) as soon as possible — some practices have waiting lists.</p>`;
+// ── STEP: After BSN — Next Steps ──
+const nextStepsHtml = `
+<div class="next-steps-grid">
+<div class="next-step-item">
+<a href="/tools/bank-account-chooser/">Open a Dutch bank account</a>
+<p>ING, ABN AMRO and Rabobank require your BSN. Compare accounts to find the best fit.</p>
+</div>
+<div class="next-step-item">
+<a href="/tools/health-insurance-wizard/">Get health insurance</a>
+<p>Mandatory in the Netherlands. You have 4 months from your registration date — don't miss the deadline.</p>
+</div>
+<div class="next-step-item">
+<a href="/guides/legal/digid-guide-expats-2026/">Apply for DigiD</a>
+<p>The Dutch digital identity service. Needed for tax returns, healthcare portals and government services.</p>
+</div>
+<div class="next-step-item">
+<a href="/tools/30-percent-ruling-calculator/">Check 30% ruling eligibility</a>
+<p>Highly skilled migrants hired from abroad may qualify for significant income tax savings.</p>
+</div>
+</div>
+<p style="font-size:.85rem;color:#6B7280;margin-top:14px;">Also: register with a local GP (<em>huisarts</em>) as soon as possible — some practices have waiting lists.</p>`;
 
-    steps += stepCard(
-      stepNum++, 'upcoming', '&#127881;',
-      'After Your BSN — What to Do Next',
-      null, null,
-      `Congratulations — once you have your BSN, the administrative marathon begins in earnest. Here are the most important next steps, roughly in priority order.`,
-      null,
-      null, null,
-      nextStepsHtml
-    );
+steps += stepCard(
+stepNum++, 'upcoming', '&#127881;',
+'After Your BSN — What to Do Next',
+null, null,
+`Congratulations — once you have your BSN, the administrative marathon begins in earnest. Here are the most important next steps, roughly in priority order.`,
+null,
+null, null,
+nextStepsHtml
+);
 
-    // ── Inject & show ──
-    document.getElementById('timeline-steps').innerHTML = steps;
-    document.getElementById('timeline-title').textContent =
-      `Your BSN timeline for ${cityInfo.name} (${SITUATION_LABELS[situation]})`;
+// ── Inject & show ──
+document.getElementById('timeline-steps').innerHTML = steps;
+document.getElementById('timeline-title').textContent =
+`Your BSN timeline for ${cityInfo.name} (${SITUATION_LABELS[situation]})`;
 
-    const output = document.getElementById('timeline-output');
-    output.style.display = 'block';
-    output.scrollIntoView({ behavior: 'smooth', block: 'start' });
+const output = document.getElementById('timeline-output');
+output.style.display = 'block';
+output.scrollIntoView({ behavior: 'smooth', block: 'start' });
 
-    // GA4 event
-    if (typeof gtag === 'function') {
-      gtag('event', 'generate_bsn_timeline', {
-        city: city,
-        situation: situation,
-        has_address: address,
-        family_situation: family,
-      });
-    }
-  }
+// GA4 event
+if (typeof gtag === 'function') {
+gtag('event', 'generate_bsn_timeline', {
+city: city,
+situation: situation,
+has_address: address,
+family_situation: family,
+});
+}
+}
 
-  // Set default moving date to today
-  document.addEventListener('DOMContentLoaded', function () {
-    const today = new Date();
-    const yyyy = today.getFullYear();
-    const mm   = String(today.getMonth() + 1).padStart(2, '0');
-    const dd   = String(today.getDate()).padStart(2, '0');
-    document.getElementById('moving-date').value = `${yyyy}-${mm}-${dd}`;
-  });
+// Set default moving date to today
+document.addEventListener('DOMContentLoaded', function () {
+const today = new Date();
+const yyyy = today.getFullYear();
+const mm   = String(today.getMonth() + 1).padStart(2, '0');
+const dd   = String(today.getDate()).padStart(2, '0');
+document.getElementById('moving-date').value = `${yyyy}-${mm}-${dd}`;
+});
 </script>
