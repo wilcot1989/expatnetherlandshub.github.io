@@ -211,7 +211,9 @@ Read our [complete expat insurance guide](/posts/best-expat-insurance-netherland
 
 ### Money Transfers
 
-For international money transfers (receiving payments from abroad, paying suppliers), use <a href="https://wise.com/invite/dic/digitalshieldpro" rel="nofollow sponsored" target="_blank">Wise</a> to avoid high bank fees. Dutch banks charge 2-5% in hidden exchange rate markups — Wise charges the real exchange rate plus a small transparent fee.
+For international money transfers (receiving payments from abroad, paying suppliers), use <a href="https://wise.com/invite/ihpc/willemt52" rel="nofollow sponsored" target="_blank">Wise</a> to avoid high bank fees. Dutch banks charge 2-5% in hidden exchange rate markups — Wise charges the real exchange rate plus a small transparent fee.
+
+If you work remotely from coworking spaces or cafés, you will regularly be accessing tax portals, accounting software, and client systems over shared WiFi. A VPN keeps that traffic private. <a href="https://go.nordvpn.net/aff_c?offer_id=612&aff_id=141337&url_id=14830" rel="nofollow sponsored" target="_blank">Stay secure on public WiFi with NordVPN →</a>
 
 ### Pension
 
@@ -285,6 +287,10 @@ If you cannot work due to illness or injury, you have no sick pay, no employer s
 The Dutch government has been discussing mandatory AOV for ZZP'ers since 2025 — by the time you read this, a mandatory scheme may have been introduced. Check the current status at kvk.nl.
 
 Use our [insurance chooser](/tools/insurance-chooser/) to compare AOV, liability, and health insurance options side by side based on your ZZP profile.
+
+**Freelancers who travel internationally for client work** should also consider short-term travel medical coverage for trips outside the Netherlands. Your Dutch basisverzekering covers emergency care abroad to a degree, but the reimbursement limits for non-EU countries can fall short — and international business travel is not covered the same way as a holiday. <a href="https://safetywing.com/nomad-insurance/?referenceID=26482728&utm_source=26482728&utm_medium=Ambassador" rel="nofollow sponsored" target="_blank">SafetyWing Nomad Insurance</a> is a practical top-up for ZZPers who work across borders: it covers emergency hospitalisation, evacuation, and trip interruption from around $45/month billed monthly with no long-term commitment. It is not a replacement for your Dutch health insurance — you still need that — but it fills the gap when you are working in the US, Southeast Asia, or anywhere your Dutch insurer's international coverage is limited.
+
+<a href="https://safetywing.com/nomad-insurance/?referenceID=26482728&utm_source=26482728&utm_medium=Ambassador" rel="nofollow sponsored" target="_blank">Get SafetyWing travel coverage from $45/month →</a>
 
 ## Opening a Business Bank Account
 

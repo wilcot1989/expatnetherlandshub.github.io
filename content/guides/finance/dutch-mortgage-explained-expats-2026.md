@@ -316,6 +316,10 @@ See our [guide to finding housing in the Netherlands](/guides/housing/finding-ho
 - You have a **3-day cooling-off period** after signing during which you can withdraw without penalty.
 - The financing clause (financieringsvoorbehoud) typically gives you 4–6 weeks to arrange the mortgage.
 
+If you are transferring your deposit or purchase costs from a foreign bank account, use Wise to avoid the exchange rate markups Dutch banks add on international transfers — typically 2–4% on top of the mid-market rate.
+
+<a href="https://wise.com/invite/ihpc/willemt52" rel="nofollow sponsored" target="_blank">Transfer your deposit internationally with Wise →</a>
+
 ### Step 4: Mortgage Application (Weeks 1–6 After Koopovereenkomst)
 
 - Submit your full mortgage application with all supporting documents.

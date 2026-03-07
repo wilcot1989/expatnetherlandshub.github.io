@@ -67,6 +67,10 @@ The amount you receive decreases as your income rises. At lower incomes, zorgtoe
 - People with income above the threshold, even by one euro
 - People whose partner's income pushes the combined total above the limit
 
+One prerequisite worth flagging: you must hold Dutch basic health insurance (basisverzekering) to qualify for zorgtoeslag at all. If you haven't yet sorted your Dutch insurance, Independer is the easiest way to compare all registered Dutch insurers side by side:
+
+<a href="https://www.awin1.com/cread.php?awinmid=8558&awinaffid=2776410&ued=https%3A%2F%2Fwww.independer.nl%2Fzorgverzekering" rel="nofollow sponsored" target="_blank" class="cta">Compare Dutch Health Insurance on Independer →</a>
+
 ---
 
 ## How to Apply for Zorgtoeslag

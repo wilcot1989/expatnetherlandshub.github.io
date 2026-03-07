@@ -268,6 +268,10 @@ Cigna Global is a proper international health insurance product with strong cove
 
 For the majority of expats settling in the Netherlands — registering, getting a BSN, starting work — neither of these products is the primary answer. Dutch basisverzekering is. The question then becomes whether to add a supplementary plan on top, and which one.
 
+If you need to find and compare Dutch basisverzekering options, Independer lets you compare all major Dutch insurers in one place:
+
+<a href="https://www.awin1.com/cread.php?awinmid=8558&awinaffid=2776410&ued=https%3A%2F%2Fwww.independer.nl%2Fzorgverzekering" rel="nofollow sponsored" target="_blank" class="cta">Compare Dutch Health Insurance on Independer →</a>
+
 Start with the [complete expat health insurance guide for the Netherlands](/guides/health/dutch-health-insurance-guide-expats-2026/) if you have not already. It will give you the full picture of what you are required to have, what you are entitled to, and where international products like SafetyWing and Cigna Global legitimately fit in.
 
 ---

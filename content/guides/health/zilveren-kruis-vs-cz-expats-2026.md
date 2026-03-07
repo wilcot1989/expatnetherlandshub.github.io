@@ -341,6 +341,10 @@ The honest answer is that both are solid choices. The Dutch healthcare system, w
 
 Where most expats go wrong is not on the choice between Zilveren Kruis and CZ — it is on skipping supplementary dental cover and then being hit with a EUR 800 crown bill they had not budgeted for. Sort that before worrying too much about the base premium difference.
 
+One situation where neither Zilveren Kruis nor CZ is the right answer: the gap before your Dutch registration is complete, or a short visit before you become a legal resident. Both require you to be registered to sign up. For that interim window — or if you are travelling outside the Netherlands for an extended period — <a href="https://safetywing.com/nomad-insurance/?referenceID=26482728&utm_source=26482728&utm_medium=Ambassador" rel="nofollow sponsored" target="_blank">SafetyWing Nomad Insurance</a> offers temporary emergency medical coverage from around $45/month. It is not a substitute for Dutch basisverzekering (and cannot legally replace it once you are a resident), but as a stop-gap or travel layer it does the job at a fraction of the cost of a full international plan.
+
+<a href="https://safetywing.com/nomad-insurance/?referenceID=26482728&utm_source=26482728&utm_medium=Ambassador" rel="nofollow sponsored" target="_blank">Get SafetyWing temporary coverage from $45/month →</a>
+
 ---
 
 ## Related Guides

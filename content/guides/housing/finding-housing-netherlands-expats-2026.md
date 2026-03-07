@@ -335,8 +335,13 @@ In practice, most expats earning highly skilled migrant salaries do not qualify 
 Once you have secured your housing, handle these tasks quickly:
 
 1. **Register at the gemeente**: You need your rental contract and address to register and receive your BSN. See our [complete guide to moving to the Netherlands](/posts/complete-guide-moving-to-netherlands-2026/) for the full registration process.
-2. **Set up utilities**: If utilities are not included, arrange gas, electricity, and water with a provider like Vattenfall, Eneco, or Budget Energie.
-3. **Arrange internet**: Providers like KPN, Ziggo, T-Mobile, and Budget Thuis offer home internet packages.
+2. **Set up utilities**: If utilities are not included, arrange gas, electricity, and water with a provider like Vattenfall, Eneco, or Budget Energie. Comparing before you sign takes five minutes and can save EUR 200-400 per year.
+
+   <a href="https://www.awin1.com/cread.php?awinmid=8558&awinaffid=2776410&ued=https%3A%2F%2Fwww.independer.nl%2Fenergie" rel="nofollow sponsored" target="_blank" class="cta">Compare Energy Providers on Independer →</a>
+
+3. **Arrange internet**: Providers like KPN, Ziggo, T-Mobile, and Budget Thuis offer home internet packages. Prices and availability vary by address, so it is worth comparing before committing.
+
+   <a href="https://www.awin1.com/cread.php?awinmid=8558&awinaffid=2776410&ued=https%3A%2F%2Fwww.independer.nl%2Finternet" rel="nofollow sponsored" target="_blank" class="cta">Compare Internet Providers on Independer →</a>
 4. **Get home insurance**: Inboedelverzekering (contents insurance) is not legally required but strongly recommended. Many landlords require it.
 5. **Document the property condition**: Take photos and videos of every room when you move in. This protects your deposit when you move out.
 6. **Understand waste collection**: Each municipality has its own system for waste separation and collection. Check your gemeente's website for schedules and rules.
@@ -363,6 +368,6 @@ If you are still planning your move, our [complete guide to moving to the Nether
 
 Need to transfer your rental deposit or first month's rent from abroad? Wise is significantly cheaper than a standard international bank transfer — many expats save EUR 50-150 on their first deposit alone.
 
-<a href="https://wise.com/" target="_blank" rel="noopener noreferrer" class="cta-affiliate">Transfer your deposit with Wise →</a>
+<a href="https://wise.com/invite/ihpc/willemt52" target="_blank" rel="nofollow sponsored" class="cta-affiliate">Transfer your deposit with Wise →</a>
 
 Veel succes met je zoektocht. Good luck with your search.

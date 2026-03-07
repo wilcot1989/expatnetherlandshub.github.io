@@ -87,6 +87,10 @@ New to the Netherlands? Start with our [complete expat guide](/posts/moving-to-n
 
 **Our recommendation for expats:** Start with **Vattenfall** or **Eneco** (fixed or variable) for English support and simplicity. Once settled, consider switching to a dynamic provider like **Tibber** for potential savings.
 
+Not sure which provider suits your situation? Independer is the Netherlands' most-used comparison platform and covers all major energy suppliers in one place.
+
+<a href="https://www.awin1.com/cread.php?awinmid=8558&awinaffid=2776410&ued=https%3A%2F%2Fwww.independer.nl%2Fenergie" rel="nofollow sponsored" target="_blank" class="cta">Compare Energy Providers on Independer →</a>
+
 ## Cost Breakdown
 
 ### Average Monthly Energy Costs (2026)
@@ -134,7 +138,9 @@ New to the Netherlands? Start with our [complete expat guide](/posts/moving-to-n
 9. **Insulate first** — Dutch homes lose most heat through windows and roofs. Even basic draught strips around doors can save €30-50/year
 10. **Check your energielabel** — Your rental should display an energy label. Label A or B means lower bills; label F or G means high costs and potential for improvement
 
-Compare energy providers easily through <a href="https://www.awin1.com/awclick.php?mid=8558&id=2776410" rel="nofollow sponsored" target="_blank">Independer</a> — the Netherlands' most popular comparison platform with English support.
+Switching providers takes five minutes online and costs nothing. Use Independer to compare live prices across all major suppliers — including dynamic contracts from Tibber and Frank Energie — and sign up directly.
+
+<a href="https://www.awin1.com/cread.php?awinmid=8558&awinaffid=2776410&ued=https%3A%2F%2Fwww.independer.nl%2Fenergie" rel="nofollow sponsored" target="_blank" class="cta">Compare Energy Providers on Independer →</a>
 
 ## Green vs Grey Energy: What's the Difference?
 
@@ -242,6 +248,10 @@ Prices change hourly based on the real-time European energy exchange (EPEX SPOT)
 ### My Recommendation
 
 For most expats arriving in the Netherlands: start with a **variable contract** from Vattenfall or Eneco for simplicity and English support. After your first year — once you understand your consumption patterns and have a smart meter — consider whether a dynamic contract from Tibber makes financial sense.
+
+Whichever contract type you choose, comparing prices before you sign takes just a few minutes and can save you EUR 200-400 per year. Independer shows live prices for all contract types side by side.
+
+<a href="https://www.awin1.com/cread.php?awinmid=8558&awinaffid=2776410&ued=https%3A%2F%2Fwww.independer.nl%2Fenergie" rel="nofollow sponsored" target="_blank" class="cta">Compare Energy Providers on Independer →</a>
 
 For your overall housing budget, check our [cost of living guide](/guides/housing/cost-of-living-netherlands-2026/) and our [finding housing guide](/guides/housing/finding-housing-netherlands-expats-2026/) which covers energy labels and what to look for in a Dutch rental.
 

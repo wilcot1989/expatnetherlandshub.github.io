@@ -230,7 +230,7 @@ You can deduct mortgage interest from your taxable income for up to 30 years:
 
 ### Money Transfers for Down Payment
 
-If you are transferring savings from abroad for your down payment or additional costs, use <a href="https://wise.com/invite/dic/digitalshieldpro" rel="nofollow sponsored" target="_blank">Wise</a> to get the real exchange rate. Banks typically add 2-5% in hidden markups on large transfers — on a €20,000 transfer, that could cost you €400-€1,000.
+If you are transferring savings from abroad for your down payment or additional costs, use <a href="https://wise.com/invite/ihpc/willemt52" rel="nofollow sponsored" target="_blank">Wise</a> to get the real exchange rate. Banks typically add 2-5% in hidden markups on large transfers — on a €20,000 transfer, that could cost you €400-€1,000.
 
 ## Tools for Expat Buyers
 

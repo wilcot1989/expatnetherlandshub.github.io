@@ -100,6 +100,10 @@ This last point catches people out. If you see a life coach or a counsellor who 
 
 Some supplementary insurance (aanvullende verzekering) packages do cover a number of sessions with psychologists or alternative practitioners per year, even without a clinical diagnosis. If mental health support is a priority for you, it's worth checking this when choosing your insurance. Compare options via the [best expat insurance guide for the Netherlands](/guides/health/best-expat-insurance-netherlands-2026/).
 
+If you're still in the process of choosing your Dutch basisverzekering — or want to check whether switching to a policy with better aanvullende cover makes sense — Independer lets you compare all Dutch insurers in one place:
+
+<a href="https://www.awin1.com/cread.php?awinmid=8558&awinaffid=2776410&ued=https%3A%2F%2Fwww.independer.nl%2Fzorgverzekering" rel="nofollow sponsored" target="_blank" class="cta">Compare Dutch Health Insurance on Independer →</a>
+
 You can also use the [health insurance wizard](/tools/health-insurance-wizard/) to find a package that suits your situation.
 
 ---

@@ -57,7 +57,7 @@ Working as a freelancer? Read our [complete ZZP guide](/posts/freelancer-zzp-gui
 
 One thing most expats overlook: coworking networks are shared environments. Always use a VPN when connecting to coworking WiFi — especially for banking, tax portals, and client work. NordVPN runs seamlessly in the background and costs less per month than a single day pass.
 
-<a href="https://go.nordvpn.net/aff_c?offer_id=612&aff_id=141337&url_id=" target="_blank" rel="noopener nofollow sponsored" class="cta-affiliate">Protect your connection with NordVPN →</a>
+<a href="https://go.nordvpn.net/aff_c?offer_id=612&aff_id=141337&url_id=14830" target="_blank" rel="noopener nofollow sponsored" class="cta-affiliate">Protect your connection with NordVPN →</a>
 
 ### Rotterdam
 
@@ -235,7 +235,7 @@ For international expats, **WeWork** and **Spaces** offer the easiest start with
 
 Wherever you work in the Netherlands, protect your data on shared networks with a reliable VPN. NordVPN is what I use personally and recommend to clients working remotely.
 
-<a href="https://go.nordvpn.net/aff_c?offer_id=612&aff_id=141337&url_id=" target="_blank" rel="noopener nofollow sponsored" class="cta-affiliate">Get NordVPN for secure remote work →</a>
+<a href="https://go.nordvpn.net/aff_c?offer_id=612&aff_id=141337&url_id=14830" target="_blank" rel="noopener nofollow sponsored" class="cta-affiliate">Get NordVPN for secure remote work →</a>
 
 ## Explore More Expat Guides
 

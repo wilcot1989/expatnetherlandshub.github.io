@@ -299,6 +299,10 @@ After ten years of helping expats sort out their insurance in the Netherlands, m
 
 **For most expats who are legally required to have Dutch basisverzekering, neither ONVZ's international plans nor Aetna International is the right primary insurance.** You need a Dutch basisverzekering — and ONVZ actually offers a strong one, with one of the best restitutie policies on the market if you want maximum provider flexibility.
 
+If you need to find and compare Dutch basisverzekering options, Independer lets you compare all major Dutch insurers — premiums, coverage levels, and eigen risico options — in one place:
+
+<a href="https://www.awin1.com/cread.php?awinmid=8558&awinaffid=2776410&ued=https%3A%2F%2Fwww.independer.nl%2Fzorgverzekering" rel="nofollow sponsored" target="_blank" class="cta">Compare Dutch Health Insurance on Independer →</a>
+
 **For expats who are exempt from the Dutch system — posted workers, international organisation staff, short-term assignees — ONVZ's international plans are the better choice if your life is primarily Netherlands-based.** They give you outstanding Dutch healthcare access, Dutch consumer protections, and competitive premiums. The Dutch-language service is a real limitation, but not an insurmountable one.
 
 **Choose Aetna International if you are genuinely globally mobile.** If your assignment might move you from Amsterdam to Singapore to Zurich over the next five years, or if your employer has a corporate Aetna arrangement, or if 24/7 English-language emergency support matters significantly to you, Aetna's global infrastructure justifies the premium. You will pay more per month, but you will not be starting from scratch on insurance with every relocation.
@@ -306,6 +310,14 @@ After ten years of helping expats sort out their insurance in the Netherlands, m
 The worst outcome I see repeatedly is expats defaulting to their existing international plan from a previous posting — often Aetna or Cigna — without checking whether they now need Dutch basisverzekering. The fine for uninsured periods can exceed EUR 400 per uninsured month. Check your legal status first, then compare plans.
 
 For a personalised recommendation based on your visa type, employer situation, and coverage priorities, the [Health Insurance Wizard](/tools/health-insurance-wizard/) is the fastest way to get a clear answer without wading through all the policy documents yourself.
+
+### What about budget temporary coverage?
+
+One question I get from expats who are between assignments, waiting for their Dutch registration to be processed, or taking a short working holiday before committing to the Dutch system: is there a cheaper option for temporary coverage?
+
+For purely temporary or travel-based coverage — not as a replacement for Dutch basisverzekering, which remains legally mandatory once you are a resident — <a href="https://safetywing.com/nomad-insurance/?referenceID=26482728&utm_source=26482728&utm_medium=Ambassador" rel="nofollow sponsored" target="_blank">SafetyWing Nomad Insurance</a> is worth knowing about. It is designed for digital nomads and internationally mobile people, and starts from around $45/month. It covers emergency medical care, hospitalisations, and evacuation, but it is explicitly travel insurance, not a regulated health plan. **It does not satisfy the Dutch legal requirement to hold basisverzekering.** Use it only for the gap period before you are legally required to enter the Dutch system, or as basic travel cover when you are temporarily outside the Netherlands.
+
+<a href="https://safetywing.com/nomad-insurance/?referenceID=26482728&utm_source=26482728&utm_medium=Ambassador" rel="nofollow sponsored" target="_blank">Get SafetyWing temporary coverage from $45/month →</a>
 
 ---
 

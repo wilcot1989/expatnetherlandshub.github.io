@@ -42,6 +42,10 @@ One of the few things that genuinely impressed me when I moved to the Netherland
 | **Budget Thuis** | Ziggo cable | 75-600 Mbps | 25-50 Mbps | EUR 28-45 | 1 year | No | Cheapest cable |
 | **Online.nl** | KPN fiber/DSL | 50-500 Mbps | 50-500 Mbps | EUR 29-45 | 1 year | No | Cheapest fiber |
 
+Want to skip the research and just find the best deal at your address? Independer compares all major Dutch internet providers in one place.
+
+<a href="https://www.awin1.com/cread.php?awinmid=8558&awinaffid=2776410&ued=https%3A%2F%2Fwww.independer.nl%2Finternet" rel="nofollow sponsored" target="_blank" class="cta">Compare Internet Providers on Independer →</a>
+
 ---
 
 ## Fiber vs Cable: Understanding Your Options
@@ -370,4 +374,10 @@ For most expats arriving in the Netherlands in 2026, I recommend this approach:
 
 3. **For remote workers**: Prioritize fiber internet for the symmetrical upload speeds that make video calls and file uploads smooth. KPN's 500 Mbps plan is the sweet spot for most home offices.
 
-Check what is available at your address, pick the plan that matches your household needs, and you will be online within a week or two. The Netherlands has excellent internet infrastructure, so whichever provider you choose, you are unlikely to be disappointed. Internet is just one piece of your monthly budget — see our [cost of living in the Netherlands guide](/guides/housing/cost-of-living-netherlands-2026/) for a full breakdown of what to expect.
+Check what is available at your address, pick the plan that matches your household needs, and you will be online within a week or two. The Netherlands has excellent internet infrastructure, so whichever provider you choose, you are unlikely to be disappointed.
+
+The quickest way to find the best available deal at your specific address is to run a comparison on Independer — it checks live prices from all major providers in one place.
+
+<a href="https://www.awin1.com/cread.php?awinmid=8558&awinaffid=2776410&ued=https%3A%2F%2Fwww.independer.nl%2Finternet" rel="nofollow sponsored" target="_blank" class="cta">Compare Internet Providers on Independer →</a>
+
+Internet is just one piece of your monthly budget — see our [cost of living in the Netherlands guide](/guides/housing/cost-of-living-netherlands-2026/) for a full breakdown of what to expect.

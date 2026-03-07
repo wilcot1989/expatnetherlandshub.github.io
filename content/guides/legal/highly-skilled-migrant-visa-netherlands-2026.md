@@ -166,7 +166,7 @@ Once you have your BSN and residence permit, complete these steps:
 
 - **Banking:** Open a Dutch account — use <a href="https://wise.com/invite/ihpc/willemt52" rel="nofollow sponsored" target="_blank">Wise</a> for international transfers while waiting for your Dutch account. See our [best bank accounts guide](/posts/best-bank-account-expats-netherlands-2026/).
 
-- **Health insurance:** Compare and choose your plan. Use <a href="https://www.awin1.com/awclick.php?mid=8558&id=2776410" rel="nofollow sponsored" target="_blank">Independer.nl</a> to compare Dutch health insurance plans. Read our [complete health insurance guide](/posts/dutch-health-insurance-guide-expats-2026/).
+- **Health insurance:** Compare and choose your plan. Use <a href="https://www.awin1.com/awclick.php?mid=8558&id=2776410" rel="nofollow sponsored" target="_blank">Independer.nl</a> to compare Dutch health insurance plans. Read our [complete health insurance guide](/posts/dutch-health-insurance-guide-expats-2026/). If you are still in the gap period before your Dutch registration is finalised and you need temporary emergency medical coverage, <a href="https://safetywing.com/?referenceID=digitalshieldpro" rel="nofollow sponsored" target="_blank">SafetyWing</a> offers affordable short-term cover from around $45/month — useful as a stop-gap, though it does not replace the Dutch basisverzekering you will be required to hold once you are registered.
 
 - **Taxes:** Understand the [Dutch tax system](/posts/dutch-tax-system-expats-guide-2026/) and make sure the 30% ruling is applied.
 

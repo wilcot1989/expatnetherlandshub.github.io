@@ -224,6 +224,10 @@ Dutch utility costs have stabilized after the energy price spike of 2022-2023, t
 - **Washing at off-peak hours**: Some energy contracts offer lower rates during off-peak hours
 - **Insulation**: If you are buying, Dutch homes are increasingly well-insulated. Energy label A or higher means significantly lower utility costs
 
+Energy is one of the easiest costs to reduce in the Netherlands — the market is competitive and switching providers is free. Independer lets you compare all major suppliers in minutes.
+
+<a href="https://www.awin1.com/cread.php?awinmid=8558&awinaffid=2776410&ued=https%3A%2F%2Fwww.independer.nl%2Fenergie" rel="nofollow sponsored" target="_blank" class="cta">Compare Energy Providers on Independer →</a>
+
 ---
 
 ## Internet and Phone
