@@ -31,6 +31,9 @@ This guide covers everything a relocating expat needs to know about moving to Le
 
 ## Why Leiden? The Case for the Netherlands' Oldest University City
 
+![Leiden city view](/images/cities/leiden.webp)
+*Photo: Leiden, the Netherlands. Source: Wikimedia Commons.*
+
 Leiden is not obvious in the way that Amsterdam is, or polished in the way that The Hague can feel. It is a mid-sized city of around 130,000 people that punches well above its weight — culturally, academically, and professionally.
 
 **Leiden University** is the oldest in the Netherlands, founded in 1575, and it shapes virtually everything about the city. The student population of roughly 30,000 brings with it a constant churn of international academics, researchers, and postdocs. Around 40% of graduate students are international. That means the city is used to newcomers, culturally open, and genuinely multilingual in a way that smaller Dutch cities often are not.

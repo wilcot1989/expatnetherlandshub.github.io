@@ -8,6 +8,9 @@ featured_image: "/images/featured/amsterdam.webp"
 
 ## Amsterdam at a Glance
 
+![Amsterdam city view](/images/cities/amsterdam.webp)
+*Photo: Amsterdam, the Netherlands. Source: Wikimedia Commons.*
+
 - **Population:** 920,000 (city proper)
 - **Expat population:** approximately 200,000 — around 22% of residents were born outside the Netherlands
 - **Main languages spoken:** Dutch, English (near-universal in the city centre), and dozens of others

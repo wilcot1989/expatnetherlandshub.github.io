@@ -29,6 +29,9 @@ Since then I have helped dozens of expats relocate to Delft — mostly academics
 
 ## Why Expats Choose Delft
 
+![Delft city view](/images/cities/delft.webp)
+*Photo: Delft, the Netherlands. Source: Wikimedia Commons.*
+
 Delft is not the obvious answer when people ask me where to live in the Netherlands. Amsterdam gets the glamour, Rotterdam gets the architecture crowd, The Hague gets the diplomats. Delft sits quietly in the middle of all three, 15 minutes by train from The Hague and 12 minutes from Rotterdam, and it has built a reputation as one of the most genuinely international small cities in the country.
 
 The main draw is TU Delft — Technische Universiteit Delft — which consistently ranks among the top five engineering universities in Europe. Roughly 27,000 students study there, and a significant portion are international. The university runs its own housing matching service, employs thousands of researchers and staff from abroad, and has shaped the entire character of the city. If you are coming to work or study at TU Delft, Delft is the obvious choice. If you are working elsewhere in the Randstad and want something calmer and cheaper than Rotterdam or The Hague, Delft deserves serious consideration.

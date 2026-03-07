@@ -29,6 +29,9 @@ New to the Netherlands? Start with our [complete guide to finding housing as an 
 
 ## Why Groningen?
 
+![Groningen city view](/images/cities/groningen.webp)
+*Photo: Groningen, the Netherlands. Source: Wikimedia Commons.*
+
 Groningen has a few facts that tend to surprise people. It is the Netherlands' youngest city by average population age — roughly 25% of residents are students, which shapes everything from the nightlife to the cycling infrastructure to the price of a beer. The University of Groningen (Rijksuniversiteit Groningen, or RUG) was founded in 1614 and consistently ranks among Europe's top 100 universities. UMCG (University Medical Centre Groningen) is one of the Netherlands' largest hospitals and a major research employer. The city has a significant international academic population, which means it is considerably more English-friendly than its location might suggest.
 
 | Factor | Groningen | vs Amsterdam | vs Utrecht |

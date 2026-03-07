@@ -35,6 +35,9 @@ This guide is everything I would want a new arrival to know before making the mo
 
 ## Why Breda?
 
+![Breda city view](/images/cities/breda.webp)
+*Photo: Breda, the Netherlands. Source: Wikimedia Commons.*
+
 Breda sits in the province of North Brabant, roughly halfway between Rotterdam and Eindhoven, about 10 kilometres north of the Belgian border. It has a population of around 185,000, which makes it one of the larger cities in the Netherlands outside the Randstad. Large enough to feel like a real city. Small enough that you start recognising faces after a few months.
 
 The city has a long military history — the Spanjaardsgat, the historic watergate, stands as a reminder of the Spanish siege in the early 17th century — and a castle that still functions as the Royal Military Academy. But what defines Breda day to day is less its history and more its personality. This is Brabant. People are friendly, unhurried, and take their leisure seriously. Good coffee, long lunches, evenings that drift pleasantly into late. There is a warmth here that you feel almost immediately, especially if you are arriving from somewhere with a cooler social climate.

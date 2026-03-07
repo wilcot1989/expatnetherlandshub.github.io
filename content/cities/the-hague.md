@@ -8,6 +8,9 @@ featured_image: "/images/featured/the-hague.webp"
 
 ## The Hague at a Glance
 
+![The Hague city view](/images/cities/the-hague.webp)
+*Photo: The Hague, the Netherlands. Source: Wikimedia Commons.*
+
 - **Population:** 550,000 (city proper)
 - **Expat population:** approximately 90,000 — one of the highest concentrations of international residents in the Netherlands relative to city size
 - **Main languages spoken:** Dutch, English (widely spoken especially in international and government circles), French, Arabic, and numerous diplomatic community languages

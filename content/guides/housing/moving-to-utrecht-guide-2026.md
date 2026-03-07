@@ -34,6 +34,9 @@ New to the Netherlands? Start with our [complete expat guide](/guides/legal/comp
 
 ## Why Utrecht?
 
+![Utrecht city view](/images/cities/utrecht.webp)
+*Photo: Utrecht, the Netherlands. Source: Wikimedia Commons.*
+
 | Factor | Utrecht | vs Amsterdam |
 |--------|---------|-------------|
 | **Rent (2-bed)** | €1,200-€1,800 | €1,500-€2,500 |

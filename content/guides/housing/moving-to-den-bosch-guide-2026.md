@@ -35,6 +35,9 @@ This guide is everything I wish someone had handed me before I started advising 
 
 ## Why Den Bosch?
 
+![Den Bosch city view](/images/cities/den-bosch.webp)
+*Photo: Den Bosch, the Netherlands. Source: Wikimedia Commons.*
+
 Den Bosch is the capital of North Brabant, the Dutch province that sits just above Belgium and runs west to east from Breda to Eindhoven. It has a population of around 160,000, which makes it a proper city — not a village, not a sprawling metropolis — with all the infrastructure that comes with that.
 
 What sets Den Bosch apart from most Dutch cities is its personality. The Brabanders have a reputation in the Netherlands for being warmer, more relaxed, and more sociable than people in the north. They call it the Burgundian lifestyle: good food, good company, good beer. In my experience, this is not just a regional cliché. You notice it in how people behave in shops, in cafes, at work. There is less of the blunt efficiency that can feel a bit cold when you first arrive further north.

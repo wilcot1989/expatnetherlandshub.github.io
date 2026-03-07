@@ -36,6 +36,9 @@ For a broader overview of relocating to the Netherlands, read our [Complete Guid
 
 ## Why Choose Rotterdam?
 
+![Rotterdam city view](/images/cities/rotterdam.webp)
+*Photo: Rotterdam, the Netherlands. Source: Wikimedia Commons.*
+
 ### Rotterdam vs Amsterdam
 
 | Factor | Rotterdam | Amsterdam |

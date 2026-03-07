@@ -8,6 +8,9 @@ featured_image: "/images/featured/maastricht.webp"
 
 ## Maastricht at a Glance
 
+![Maastricht city view](/images/cities/maastricht.webp)
+*Photo: Maastricht, the Netherlands. Source: Wikimedia Commons.*
+
 - **Population:** 120,000 (city proper)
 - **Expat population:** approximately 15,000 — around 13% of residents, high for a city of this size
 - **Main languages spoken:** Dutch, English (widely spoken), French and German (both commonly used given the city's border location), Limburgs dialect among long-term residents

@@ -34,6 +34,9 @@ New to the Netherlands? Start with our [complete expat guide](/guides/legal/comp
 
 ## Why Eindhoven?
 
+![Eindhoven city view](/images/cities/eindhoven.webp)
+*Photo: Eindhoven, the Netherlands. Source: Wikimedia Commons.*
+
 | Factor | Rating | Notes |
 |--------|--------|-------|
 | **Tech industry** | ⭐⭐⭐⭐⭐ | ASML, Philips, NXP, hundreds of startups |

@@ -31,6 +31,9 @@ Three years on from that Saturday afternoon, I know Haarlem far more intimately 
 
 ## Why Haarlem? The Case for Choosing It Over Amsterdam
 
+![Haarlem city view](/images/cities/haarlem.webp)
+*Photo: Haarlem, the Netherlands. Source: Wikimedia Commons.*
+
 Before getting into the practical details, it is worth explaining why Haarlem keeps appearing on expats' lists when they are making their Dutch city decision.
 
 **Proximity to Amsterdam.** Fifteen minutes by direct train. That is not a compromise — that is a genuinely good commute. You have access to Amsterdam's job market, cultural scene, airport connections, and social opportunities, while living somewhere quieter and more manageable. Many expats who originally dismissed Haarlem as "too far" have told me they cannot imagine going back after making the move.

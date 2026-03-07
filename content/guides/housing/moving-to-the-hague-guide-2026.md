@@ -34,6 +34,9 @@ New to the Netherlands? Start with our [complete moving guide](/guides/legal/com
 
 ## Why Expats Love The Hague
 
+![The Hague city view](/images/cities/the-hague.webp)
+*Photo: The Hague, the Netherlands. Source: Wikimedia Commons.*
+
 | Factor | Rating | Notes |
 |--------|--------|-------|
 | **International community** | ⭐⭐⭐⭐⭐ | 200+ international organizations, largest expat community in NL |

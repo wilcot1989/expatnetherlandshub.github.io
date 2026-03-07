@@ -36,6 +36,9 @@ For a broader perspective on moving to the Netherlands as a whole, read our [Com
 
 ## Before You Move: Key Preparation
 
+![Amsterdam city view](/images/cities/amsterdam.webp)
+*Photo: Amsterdam, the Netherlands. Source: Wikimedia Commons.*
+
 ### Visa and Work Permit
 
 Your visa requirements depend on your nationality:

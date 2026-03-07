@@ -37,6 +37,9 @@ Before diving in, if you are still working out what you can afford, use our [Ren
 
 ## Quick Comparison: All 8 Cities at a Glance
 
+![Amsterdam city view](/images/cities/amsterdam.webp)
+*Photo: Amsterdam, the Netherlands. Source: Wikimedia Commons.*
+
 | City | 1-Bed Rent (2026) | English Level | Job Market | Best For | My Rating |
 |------|-------------------|---------------|------------|----------|-----------|
 | **Amsterdam** | EUR 1,500–1,800 | Excellent | Very Strong | International careers, networking | 8/10 |

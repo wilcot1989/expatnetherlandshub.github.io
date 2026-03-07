@@ -8,6 +8,9 @@ featured_image: "/images/featured/rotterdam.webp"
 
 ## Rotterdam at a Glance
 
+![Rotterdam city view](/images/cities/rotterdam.webp)
+*Photo: Rotterdam, the Netherlands. Source: Wikimedia Commons.*
+
 - **Population:** 660,000 (city proper), making it the second largest city in the Netherlands
 - **Expat population:** approximately 100,000 — around 15% of residents
 - **Main languages spoken:** Dutch, English (widely spoken in professional settings), significant Turkish, Moroccan Arabic, and Surinamese communities

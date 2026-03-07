@@ -8,6 +8,9 @@ featured_image: "/images/featured/utrecht.webp"
 
 ## Utrecht at a Glance
 
+![Utrecht city view](/images/cities/utrecht.webp)
+*Photo: Utrecht, the Netherlands. Source: Wikimedia Commons.*
+
 - **Population:** 370,000 (city proper), making it the fourth largest city in the Netherlands
 - **Expat population:** approximately 50,000 — around 14% of residents
 - **Main languages spoken:** Dutch, English (very widely spoken, particularly given the large student and academic population)

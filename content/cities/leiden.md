@@ -8,6 +8,9 @@ featured_image: "/images/featured/leiden.webp"
 
 ## Leiden at a Glance
 
+![Leiden city view](/images/cities/leiden.webp)
+*Photo: Leiden, the Netherlands. Source: Wikimedia Commons.*
+
 - **Population:** 125,000 (city proper)
 - **Expat population:** approximately 15,000 — around 12% of residents
 - **Main languages spoken:** Dutch, English (very widely spoken given the academic and life sciences sector; Leiden University is one of the most internationally recruited in the country)

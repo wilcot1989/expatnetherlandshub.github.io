@@ -37,6 +37,9 @@ This guide is for anyone seriously considering a move to Maastricht. I will be h
 
 ## Why Maastricht is Different
 
+![Maastricht city view](/images/cities/maastricht.webp)
+*Photo: Maastricht, the Netherlands. Source: Wikimedia Commons.*
+
 Maastricht sits at the very bottom of the Netherlands, wedged between Belgium and Germany. This is not a footnote — it shapes everything about the city. The food is richer, the architecture is older (Roman ruins, medieval walls, Baroque churches), and the culture draws as much from the south as from the north.
 
 Locals call it the *Bourgondische levensstijl* — Burgundian lifestyle. In practice, this means long lunches are considered reasonable, terraces fill up the moment sunshine appears, and nobody looks at you strangely for ordering a glass of wine at 3 pm on a Tuesday. Coming from London, I found this alarming and then quickly wonderful.

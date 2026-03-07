@@ -8,6 +8,9 @@ featured_image: "/images/featured/eindhoven.webp"
 
 ## Eindhoven at a Glance
 
+![Eindhoven city view](/images/cities/eindhoven.webp)
+*Photo: Eindhoven, the Netherlands. Source: Wikimedia Commons.*
+
 - **Population:** 240,000 (city proper)
 - **Expat population:** approximately 40,000 — roughly 17% of residents, one of the highest proportions outside the Randstad
 - **Main languages spoken:** Dutch, English (Eindhoven has some of the highest English proficiency among Dutch cities, driven by tech industry hiring)

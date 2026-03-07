@@ -8,6 +8,9 @@ featured_image: "/images/featured/groningen.webp"
 
 ## Groningen at a Glance
 
+![Groningen city view](/images/cities/groningen.webp)
+*Photo: Groningen, the Netherlands. Source: Wikimedia Commons.*
+
 - **Population:** 235,000 (city proper)
 - **Expat population:** approximately 25,000 — around 11% of residents, a significant proportion given the city's size
 - **Main languages spoken:** Dutch, English (well-spoken across the population, especially given the large student and academic community; Gronings dialect also present among long-term residents)
