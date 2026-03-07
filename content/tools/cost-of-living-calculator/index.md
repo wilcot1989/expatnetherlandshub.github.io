@@ -183,8 +183,9 @@ SEO CONTENT
 /* ============================================================
 RESPONSIVE
 ============================================================ */
-/* Prevent horizontal overflow on mobile */
-.page-body, .tool-hero { max-width: 100vw; overflow-x: hidden; }
+/* Prevent any child from causing horizontal scroll */
+.tool-hero, .page-body, .seo-content, .card, #result { overflow-x: hidden; }
+.page-body, .card, .breakdown-table, .comparison-bars, .result-ctas { width: 100%; min-width: 0; }
 
 @media (max-width: 860px) {
 .tool-grid { grid-template-columns: 1fr; }
@@ -193,6 +194,7 @@ RESPONSIVE
 .data-table { display: block; overflow-x: auto; -webkit-overflow-scrolling: touch; }
 .data-table th, .data-table td { white-space: nowrap; padding: 0.5rem 0.65rem; font-size: 0.82rem; }
 .tool-hero-icon { display: none; }
+.tool-hero h1 { font-size: 1.7rem; }
 }
 @media (max-width: 600px) {
 .tool-hero { padding: 2rem 1rem 1.75rem; }
@@ -201,6 +203,7 @@ RESPONSIVE
 .tool-hero h1 { font-size: 1.5rem; }
 .tool-hero .hero-subtitle { font-size: 0.92rem; }
 .hero-badge { font-size: 0.72rem; }
+.total-cost-card { padding: 1.25rem; }
 .total-cost-value { font-size: 2.2rem; }
 .radio-group { flex-direction: column; gap: 0.4rem; }
 .radio-group label { justify-content: flex-start; padding: 0.6rem 1rem; font-size: 0.88rem; }
@@ -208,18 +211,23 @@ RESPONSIVE
 .comp-row-label { font-size: 0.82rem; }
 .cta-affiliate { font-size: 0.85rem; padding: 0.75rem 0.9rem; flex-wrap: wrap; gap: 0.4rem; }
 .breakdown-table { font-size: 0.85rem; }
-.breakdown-table td { padding: 0.4rem 0; }
+.breakdown-table td { padding: 0.4rem 0; word-break: break-word; }
 .cost-list li { font-size: 0.82rem; }
 .sidebar-card h2 { font-size: 0.92rem; }
 select { font-size: 16px; }
 .form-group label { font-size: 0.87rem; }
 .btn-calculate { font-size: 0.95rem; padding: 0.85rem; }
+.seo-content h2 { font-size: 1.25rem; }
+.seo-content h3 { font-size: 1rem; }
+.seo-content { overflow-wrap: break-word; word-wrap: break-word; }
 }
 @media (max-width: 380px) {
+.tool-hero { padding: 1.5rem 0.75rem 1.5rem; }
 .tool-hero h1 { font-size: 1.3rem; }
 .card { padding: 1rem; }
 .total-cost-value { font-size: 1.9rem; }
 .page-body { padding: 1rem 0.75rem 2.5rem; }
+.form-section-label { font-size: 0.7rem; }
 }
 
 /* Print */
