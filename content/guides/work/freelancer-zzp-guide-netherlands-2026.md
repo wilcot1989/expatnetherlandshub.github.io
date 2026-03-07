@@ -336,6 +336,7 @@ Most accounts can be opened online in 15–30 minutes once you have your KVK num
 - **[DigiD Guide for Expats](/guides/legal/digid-guide-expats-2026/)** — Needed for tax filing
 - **[Highly Skilled Migrant Visa](/guides/legal/highly-skilled-migrant-visa-netherlands-2026/)** — Work permit options
 - **[Dutch Tax System Guide](/guides/finance/dutch-tax-system-expats-guide-2026/)** — How taxes work for expats
+- **[Salary Checker](/tools/salary-checker/)** — Benchmark your rates against employed equivalents
 - **[30% Ruling Calculator](/tools/30-percent-ruling-calculator/)** — Check your eligibility
 - **[Insurance Chooser](/tools/insurance-chooser/)** — Compare AOV, liability, health
 - **[Bank Account Chooser](/tools/bank-account-chooser/)** — Find the right business bank

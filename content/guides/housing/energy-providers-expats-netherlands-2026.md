@@ -254,7 +254,7 @@ Whichever contract type you choose, comparing prices before you sign takes just 
 
 <a href="https://www.awin1.com/cread.php?awinmid=8558&awinaffid=2776410&ued=https%3A%2F%2Fwww.independer.nl%2Fenergie" rel="nofollow sponsored" target="_blank" class="cta">Compare Energy Providers on Independer →</a>
 
-For your overall housing budget, check our [cost of living guide](/guides/housing/cost-of-living-netherlands-2026/) and our [finding housing guide](/guides/housing/finding-housing-netherlands-expats-2026/) which covers energy labels and what to look for in a Dutch rental.
+For your overall housing budget, use the [Housing Budget Checker](/tools/housing-budget-checker/) to see what you can afford after taxes, and check our [cost of living guide](/guides/housing/cost-of-living-netherlands-2026/) and our [finding housing guide](/guides/housing/finding-housing-netherlands-expats-2026/) which covers energy labels and what to look for in a Dutch rental.
 
 Also worth knowing: if you are still figuring out your broader budget, check out our [cost of living guide](/guides/housing/cost-of-living-netherlands-2026/) for a full picture of monthly expenses in the Netherlands.
 
