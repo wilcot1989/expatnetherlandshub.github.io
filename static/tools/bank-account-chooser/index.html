@@ -552,9 +552,7 @@
 
     /* Score badge */
     .score-badge {
-      position: absolute;
-      top: 18px;
-      right: 20px;
+      display: inline-block;
       background: var(--green);
       color: #fff;
       font-family: 'DM Sans', sans-serif;
@@ -562,6 +560,7 @@
       font-size: 0.78rem;
       padding: 4px 10px;
       border-radius: 20px;
+      margin-bottom: 10px;
     }
 
     /* No results */
@@ -708,7 +707,7 @@
       .filters-panel.open { display: block; }
       .bank-card-body { grid-template-columns: 1fr; gap: 10px; }
       .tool-hero { padding: 32px 16px 28px; }
-      .score-badge { top: 14px; right: 14px; }
+      .score-badge { margin-bottom: 8px; }
       .bank-card-footer { flex-direction: column; }
       .cta-affiliate, .cta-secondary { text-align: center; }
     }
