@@ -302,6 +302,7 @@ margin-bottom: 1rem;
 /* ─── UTILITIES ─── */
 .hidden { display: none !important; }
 @media (max-width: 768px) {
+.tool-hero::before, .tool-hero::after { display: none; }
 .tool-hero-icon { display: none; }
 .wizard-card { padding: 22px 18px; }
 .seo-content { padding: 24px 18px; }

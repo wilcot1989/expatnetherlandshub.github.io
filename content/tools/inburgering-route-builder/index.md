@@ -77,37 +77,7 @@ layout: "single"
 </script>
 
 <style>
-*, *::before, *::after { box-sizing: border-box; margin: 0; padding: 0; }
-
-:root {
---green: #1B6B4A;
---green-dark: #145236;
---orange: #E8832A;
---orange-dark: #C96B1A;
---bg: #F8FAF9;
---card: #FFFFFF;
---border: #E5E7EB;
---text: #1A1A1A;
---text-muted: #6B7280;
---radius-card: 14px;
---radius-btn: 10px;
---shadow-card: 0 2px 12px rgba(0,0,0,.08);
---expat-primary: #1B6B4A;
---expat-primary-light: #2D9B6A;
---expat-primary-dark: #145236;
---expat-accent: #E8832A;
---expat-accent-light: #F5A623;
---expat-bg: #FAFBF9;
---expat-card: #FFFFFF;
---expat-text: #1A1A2E;
---expat-muted: #6B7280;
---expat-border: #E5E7EB;
-}
-
-html { scroll-behavior: smooth; }
-body { font-family: 'Inter', sans-serif; font-size: 16px; line-height: 1.6; color: var(--text); background: var(--bg); }
-
-/* ─── HEADER ─── */
+/* Tool-specific variables (shared vars already in baseof.html) */
 
 
 
