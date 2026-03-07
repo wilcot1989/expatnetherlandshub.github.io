@@ -184,6 +184,8 @@ SEO CONTENT
 /* ============================================================
 RESPONSIVE
 ============================================================ */
+/* Clip any accidental horizontal overflow at section level */
+.page-body { overflow-x: hidden; }
 
 @media (max-width: 860px) {
 .tool-grid { grid-template-columns: 1fr; }
