@@ -173,7 +173,8 @@ SEO CONTENT
 .seo-content li { margin-bottom: 0.35rem; }
 .seo-content a { color: var(--expat-primary); }
 
-.data-table { width: 100%; border-collapse: collapse; font-size: 0.9rem; margin: 1.25rem 0 1.5rem; border-radius: var(--radius-sm); overflow: hidden; border: 1px solid var(--expat-border); }
+.table-scroll-wrapper { overflow-x: auto; -webkit-overflow-scrolling: touch; max-width: 100%; margin: 1.25rem 0 1.5rem; }
+.data-table { width: 100%; border-collapse: collapse; font-size: 0.9rem; border-radius: var(--radius-sm); overflow: hidden; border: 1px solid var(--expat-border); }
 .data-table th { background: var(--expat-primary); color: #fff; padding: 0.7rem 1rem; text-align: left; font-size: 0.82rem; font-weight: 600; letter-spacing: 0.03em; }
 .data-table td { padding: 0.65rem 1rem; border-bottom: 1px solid var(--expat-border); }
 .data-table tr:last-child td { border-bottom: none; }
@@ -183,17 +184,15 @@ SEO CONTENT
 /* ============================================================
 RESPONSIVE
 ============================================================ */
-/* Prevent any child from causing horizontal scroll */
-.tool-hero, .page-body, .seo-content, .card, #result { overflow-x: hidden; }
-.page-body, .card, .breakdown-table, .comparison-bars, .result-ctas { width: 100%; min-width: 0; }
+/* Ensure nothing overflows viewport */
+.page-body, .seo-content, .card, #result, .result-ctas { max-width: 100%; min-width: 0; }
 
 @media (max-width: 860px) {
 .tool-grid { grid-template-columns: 1fr; }
 .tool-grid { gap: 1.5rem; }
 }
 @media (max-width: 768px) {
-.data-table { display: block; overflow-x: auto; -webkit-overflow-scrolling: touch; }
-.data-table th, .data-table td { white-space: nowrap; padding: 0.5rem 0.65rem; font-size: 0.82rem; }
+.data-table th, .data-table td { padding: 0.45rem 0.5rem; font-size: 0.78rem; }
 .tool-hero-icon { display: none; }
 .tool-hero { padding: 2rem 1.25rem 1.5rem; }
 .tool-hero h1 { font-size: 1.55rem; margin-bottom: 0.4rem; }
@@ -452,6 +451,7 @@ Save on international transfers &mdash; Wise <span class="cta-arrow">&rarr;</spa
 <h2>Average Monthly Cost of Living by Dutch City (2026)</h2>
 <p>The biggest variable is always housing &mdash; and housing varies enormously by city. Everything else (groceries, transport, insurance) is much more consistent across the country. Here&rsquo;s how the major cities compare for a single person renting a one-bedroom apartment:</p>
 
+<div class="table-scroll-wrapper">
 <table class="data-table">
 <thead>
 <tr>
@@ -474,6 +474,7 @@ Save on international transfers &mdash; Wise <span class="cta-arrow">&rarr;</spa
 <tr><td class="bold">Maastricht</td><td>&euro;1,025</td><td>&euro;130</td><td>&euro;90</td><td>&euro;290</td><td class="bold">&euro;1,835+</td></tr>
 </tbody>
 </table>
+</div>
 
 <h3>Health Insurance &mdash; A Hidden Cost Many Expats Miss</h3>
 <p>Health insurance (zorgverzekering) is mandatory for everyone living or working in the Netherlands, including expats. In 2026, the basic premium (basispremie) averages around &euro;130&ndash;140 per month depending on the insurer and excess (eigen risico) you choose. This is a fixed cost that you cannot avoid &mdash; budget for it from day one.</p>
