@@ -1,7 +1,7 @@
 ---
 title: "Moving to Leiden as an Expat: Complete City Guide 2026"
-date: 2026-03-28T10:00:00+01:00
-lastmod: 2026-03-28T10:00:00+01:00
+date: 2026-03-07T10:00:00+01:00
+lastmod: 2026-03-07T10:00:00+01:00
 description: "Complete guide to moving to Leiden as an expat. Housing, neighbourhoods, university life, transport links, and cost of living in 2026."
 categories: ["housing"]
 tags: ["Leiden", "city guide", "moving to Leiden", "expat Leiden", "university city"]
@@ -144,7 +144,7 @@ Leiden has a well-established international community, primarily built around tw
 
 Beyond these, Leiden has a growing biotech and pharmaceutical cluster (Janssen, Galapagos, and numerous smaller research companies operate in or around the city), which adds another international layer.
 
-In practical terms, you will find it easy to meet other expats in Leiden. The harder work is integrating with Dutch residents, which takes more effort but is well worth pursuing.
+In practical terms, you will find it easy to meet other expats in Leiden. The harder work is integrating with Dutch residents, which takes more effort but is well worth pursuing. If you are still in the job search phase or negotiating an offer, the [Salary Checker](/tools/salary-checker/) gives a useful benchmark for what professionals in your sector and experience bracket typically earn in this region.
 
 ---
 
@@ -249,6 +249,7 @@ Leiden is not the right fit for everyone. If you are weighing up where to settle
 
 - **[Moving to The Hague](/guides/housing/moving-to-the-hague-guide-2026/):** More international institutions, more embassies, slightly larger city feel, often more expensive in expat-popular areas. Better for those working directly in The Hague's international organisations who want to live close to work.
 - **[Moving to Amsterdam](/guides/housing/moving-to-amsterdam-guide-2026/):** More cosmopolitan and diverse, far more expensive, larger expat community, but also more competitive and more exhausting to settle into. Worth serious consideration only if your work or social ties genuinely centre there.
+- **[Delft](/cities/delft/):** Just 15 minutes south of Leiden by train, Delft is worth a look if you are drawn to the same canal-and-university character but want a slightly smaller, quieter city. It is particularly popular with TU Delft staff and students.
 
 For most expats working anywhere along the The Hague–Amsterdam corridor, Leiden deserves serious consideration as the base. It is the kind of place where people arrive thinking they will stay two years and find themselves still there a decade later.
 

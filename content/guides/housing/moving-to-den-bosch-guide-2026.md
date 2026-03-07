@@ -1,8 +1,8 @@
 ---
 title: "Moving to Den Bosch as an Expat: Complete City Guide 2026"
 slug: "moving-to-den-bosch-guide-2026"
-date: 2026-04-11T10:00:00+01:00
-lastmod: 2026-04-11T10:00:00+01:00
+date: 2026-03-07T10:00:00+01:00
+lastmod: 2026-03-07T10:00:00+01:00
 categories: ["housing"]
 tags: ["den bosch", "s-hertogenbosch", "city guide", "expat", "brabant", "relocation"]
 author: "Sarah van den Berg"

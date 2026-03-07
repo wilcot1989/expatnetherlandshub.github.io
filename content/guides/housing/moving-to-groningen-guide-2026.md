@@ -1,7 +1,7 @@
 ---
 title: "Moving to Groningen as an Expat: Complete City Guide 2026"
-date: 2026-03-22T10:00:00+01:00
-lastmod: 2026-03-22T10:00:00+01:00
+date: 2026-03-07T10:00:00+01:00
+lastmod: 2026-03-07T10:00:00+01:00
 description: "Complete expat guide to moving to Groningen in 2026. Housing costs, neighbourhoods, transport, and university life covered."
 categories: ["housing"]
 tags: ["Groningen", "city guide", "moving to Groningen", "expat Groningen", "student city"]
