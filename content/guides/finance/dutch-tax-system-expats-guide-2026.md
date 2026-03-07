@@ -3,7 +3,7 @@ title: "Dutch Tax System Explained for Expats 2026"
 date: 2026-03-06T12:00:00+01:00
 lastmod: 2026-03-06T12:00:00+01:00
 description: "Complete guide to the Dutch tax system for expats in 2026. Box 1, 2, and 3 explained, tax brackets, deductions, DigiD, and annual returns."
-categories: ["finance"]
+guides: ["finance"]
 tags: ["dutch taxes", "tax return netherlands", "belastingdienst", "box 1 tax", "expat tax advisor", "tax deductions netherlands", "income tax netherlands"]
 keywords: ["dutch tax system expats", "taxes netherlands expat", "dutch income tax 2026", "tax brackets netherlands", "dutch tax return expat", "belastingdienst expat guide"]
 affiliate: true

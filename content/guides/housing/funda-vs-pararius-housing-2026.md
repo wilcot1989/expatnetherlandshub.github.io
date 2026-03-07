@@ -3,7 +3,7 @@ title: "Funda vs Pararius: Where to Find Housing as an Expat in the Netherlands 
 date: 2026-03-16T10:00:00+01:00
 lastmod: 2026-03-16T10:00:00+01:00
 description: "Funda or Pararius — which platform works for expats hunting rentals in the Netherlands? Honest comparison of listings, English support, and scam risk."
-categories: ["housing"]
+guides: ["housing"]
 tags: ["Funda", "Pararius", "housing", "rental", "expat housing"]
 keywords:
   - "funda vs pararius expats netherlands"

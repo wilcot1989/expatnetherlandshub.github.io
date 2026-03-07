@@ -3,7 +3,7 @@ title: "Netherlands vs Germany for Expats 2026: Where Should You Move?"
 date: 2026-04-10T10:00:00+01:00
 lastmod: 2026-04-10T10:00:00+01:00
 description: "Netherlands vs Germany for expats: comparison of salary, taxes, housing, healthcare, and quality of life to help you decide where to move."
-categories: ["relocation"]
+guides: ["relocation"]
 tags: ["Netherlands", "Germany", "expat comparison", "relocation", "Europe"]
 keywords: ["Netherlands vs Germany expats", "move to Netherlands or Germany", "expat comparison", "Netherlands Germany quality of life"]
 affiliate: true

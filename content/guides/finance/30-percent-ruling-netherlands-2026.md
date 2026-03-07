@@ -3,7 +3,7 @@ title: "The 30% Ruling in the Netherlands 2026: Complete Guide"
 date: 2026-03-06T11:00:00+01:00
 lastmod: 2026-03-06T11:00:00+01:00
 description: "Complete guide to the 30% ruling in the Netherlands for 2026. Eligibility, salary thresholds, application process, recent changes, and tax savings."
-categories: ["finance"]
+guides: ["finance"]
 tags: ["30 percent ruling", "dutch taxes", "expat tax benefit", "highly skilled migrant", "netherlands tax", "30% ruling"]
 keywords: ["30 percent ruling netherlands", "30% ruling 2026", "dutch tax ruling expats", "30 percent ruling eligibility", "30 percent ruling salary threshold"]
 affiliate: true

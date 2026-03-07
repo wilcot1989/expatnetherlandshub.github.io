@@ -3,7 +3,7 @@ title: "KvK Registration for Expats: How to Start a Business in the Netherlands 
 date: 2026-03-15T10:00:00+01:00
 lastmod: 2026-03-15T10:00:00+01:00
 description: "Step-by-step guide to KvK registration for expats. Legal structures, documents, costs (€75.75), BTW number, and common mistakes to avoid in 2026."
-categories: ["work"]
+guides: ["work"]
 tags: ["KvK", "chamber of commerce", "freelancer", "ZZP", "start business Netherlands"]
 keywords: ["KvK registration Netherlands expat", "how to register KvK Netherlands", "start business Netherlands expat 2026", "chamber of commerce Netherlands foreigner", "eenmanszaak registration Netherlands", "KvK appointment expat", "ZZP registration Netherlands guide", "BTW number Netherlands freelancer", "KvK registration cost 2026", "start freelancing Netherlands non-EU"]
 affiliate: false

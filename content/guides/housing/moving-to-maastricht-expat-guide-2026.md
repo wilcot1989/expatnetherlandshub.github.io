@@ -4,7 +4,7 @@ slug: "moving-to-maastricht-expat-guide-2026"
 date: 2026-04-04T10:00:00+01:00
 lastmod: 2026-04-04T10:00:00+01:00
 description: "Moving to Maastricht as an expat? This city guide covers housing, cost of living, neighbourhoods, registration, transport and work in 2026."
-categories: ["housing"]
+guides: ["housing"]
 tags: ["maastricht", "city guide", "expat life", "relocation", "netherlands"]
 author: "Sarah van den Berg"
 author_bio: "Expat coach and relocation specialist. Half Dutch, half British, living in the Netherlands for over 10 years."

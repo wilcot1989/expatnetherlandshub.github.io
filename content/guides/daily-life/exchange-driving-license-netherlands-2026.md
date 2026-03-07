@@ -5,7 +5,7 @@ date: 2026-04-09T10:00:00+01:00
 lastmod: 2026-04-09T10:00:00+01:00
 author: "Sarah van den Berg"
 author_bio: "Expat coach and relocation specialist. Half Dutch, half British, living in the Netherlands for over 10 years."
-categories: ["daily-life"]
+guides: ["daily-life"]
 type: "guide"
 featured_image: "/images/featured/exchange-driving-license-netherlands-2026.webp"
 affiliate: false

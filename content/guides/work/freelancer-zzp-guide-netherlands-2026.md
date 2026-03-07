@@ -3,7 +3,7 @@ title: "Freelancer ZZP Guide Netherlands 2026: Complete Expat Guide"
 date: 2026-03-06T10:00:00+01:00
 lastmod: 2026-03-06T10:00:00+01:00
 description: "Complete guide to freelancing as a ZZP in the Netherlands. Registration, taxes, insurance, invoicing, and tips for expat freelancers in 2026."
-categories: ["career"]
+guides: ["career"]
 tags: ["ZZP", "freelancer", "self-employed", "KvK registration", "Dutch taxes"]
 keywords: ["ZZP Netherlands", "freelancer Netherlands guide", "self-employed expat NL", "KvK registration freelancer"]
 affiliate: true

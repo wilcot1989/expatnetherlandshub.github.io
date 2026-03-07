@@ -3,7 +3,7 @@ title: "Moving to Delft as an Expat: Complete Guide 2026"
 date: 2026-03-12T10:00:00+01:00
 lastmod: 2026-03-12T10:00:00+01:00
 description: "Everything you need to know about moving to Delft as an expat. Neighbourhoods, rent prices, registration, transport, TU Delft, and daily life in 2026."
-categories: ["housing"]
+guides: ["housing"]
 tags: ["Delft", "moving to Delft", "expat Delft", "TU Delft", "South Holland"]
 keywords: ["moving to Delft expat", "living in Delft Netherlands", "Delft expat guide", "Delft rent prices 2026"]
 affiliate: false

@@ -129,12 +129,12 @@
         "position": 1,
         "name": "Home",
         "item": "{{ .Site.BaseURL }}"
-      }{{ if .IsPage }}{{ with .Params.categories }}{{ range $i, $cat := . }},
+      }{{ if .IsPage }}{{ with .Params.guides }}{{ range $i, $cat := . }},
       {
         "@type": "ListItem",
         "position": {{ add $i 2 }},
         "name": "{{ $cat | humanize | title }}",
-        "item": "{{ $.Site.BaseURL }}categories/{{ $cat }}/"
+        "item": "{{ $.Site.BaseURL }}guides/{{ $cat }}/"
       }{{ end }},
       {
         "@type": "ListItem",
@@ -1390,7 +1390,7 @@
         </li>
 
         <!-- Flat links -->
-        <li class="nav-item"><a href="/categories/daily-life/">Services</a></li>
+        <li class="nav-item"><a href="/guides/daily-life/">Services</a></li>
         <li class="nav-item"><a href="/about/">About</a></li>
       </ul>
       </nav>
@@ -1420,12 +1420,12 @@
       <a href="/tools/health-insurance-wizard/">Health Insurance Comparison</a>
       <a href="/tools/cost-of-living-calculator/">Cost of Living Calculator</a>
       <div class="mobile-section-title">Guides</div>
-      <a href="/categories/finance/">Finance &amp; Tax</a>
-      <a href="/categories/health/">Health &amp; Insurance</a>
-      <a href="/categories/housing/">Housing &amp; Living</a>
-      <a href="/categories/relocation/">Legal &amp; Registration</a>
-      <a href="/categories/work/">Work &amp; Career</a>
-      <a href="/categories/language/">Integration</a>
+      <a href="/guides/finance/">Finance &amp; Tax</a>
+      <a href="/guides/health/">Health &amp; Insurance</a>
+      <a href="/guides/housing/">Housing &amp; Living</a>
+      <a href="/guides/relocation/">Legal &amp; Registration</a>
+      <a href="/guides/work/">Work &amp; Career</a>
+      <a href="/guides/language/">Integration</a>
       <div class="mobile-section-title">Cities</div>
       <a href="/cities/amsterdam/">Amsterdam</a>
       <a href="/cities/rotterdam/">Rotterdam</a>
@@ -1436,7 +1436,7 @@
       <a href="/cities/leiden/">Leiden</a>
       <a href="/cities/maastricht/">Maastricht</a>
       <div class="mobile-section-title">More</div>
-      <a href="/categories/daily-life/">Services</a>
+      <a href="/guides/daily-life/">Services</a>
       <a href="/about/">About</a>
       <a href="/privacy/">Privacy Policy</a>
     </nav>
@@ -1471,11 +1471,11 @@
         <div>
           <div class="footer-col-title">Popular Guides</div>
           <ul>
-            <li><a href="/categories/relocation/">Moving to the Netherlands</a></li>
-            <li><a href="/categories/finance/">Banking &amp; Tax Guide</a></li>
-            <li><a href="/categories/health/">Health Insurance Guide</a></li>
-            <li><a href="/categories/housing/">Finding a Home</a></li>
-            <li><a href="/categories/work/">Working in the Netherlands</a></li>
+            <li><a href="/guides/relocation/">Moving to the Netherlands</a></li>
+            <li><a href="/guides/finance/">Banking &amp; Tax Guide</a></li>
+            <li><a href="/guides/health/">Health Insurance Guide</a></li>
+            <li><a href="/guides/housing/">Finding a Home</a></li>
+            <li><a href="/guides/work/">Working in the Netherlands</a></li>
           </ul>
         </div>
 

@@ -3,7 +3,7 @@ title: "Finding Housing in the Netherlands as an Expat: Complete Guide 2026"
 date: 2026-03-06T11:00:00+01:00
 lastmod: 2026-03-06T11:00:00+01:00
 description: "Complete guide to finding housing in the Netherlands as an expat in 2026. Rental platforms, costs per city, contracts, scam warnings, and tips."
-categories: ["relocation"]
+guides: ["relocation"]
 tags: ["housing netherlands", "rent apartment netherlands", "expat housing", "dutch rental market", "funda", "pararius"]
 keywords: ["finding housing netherlands", "rent apartment netherlands expat", "housing netherlands expat", "dutch housing market 2026", "rent in amsterdam expat"]
 affiliate: true

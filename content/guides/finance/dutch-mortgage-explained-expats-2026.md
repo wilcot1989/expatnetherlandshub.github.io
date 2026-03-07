@@ -3,7 +3,7 @@ title: "Dutch Mortgage Explained: The Complete Guide for Expats in 2026"
 date: 2026-03-21T10:00:00+01:00
 lastmod: 2026-03-21T10:00:00+01:00
 description: "How to get a Dutch mortgage as an expat in 2026. Mortgage types, maximum borrowing, NHG, 30% ruling impact, and buying process explained."
-categories: ["finance"]
+guides: ["finance"]
 tags: ["mortgage", "hypotheek", "buying house", "expat mortgage", "Dutch mortgage"]
 keywords: ["dutch mortgage expats 2026", "hypotheek expat netherlands", "buying house netherlands expat", "NHG 2026 limit", "mortgage interest deduction netherlands", "30 percent ruling mortgage impact", "annuity vs linear mortgage netherlands", "ZZP mortgage netherlands", "temporary contract mortgage netherlands", "eigenwoningforfait explained", "mortgage costs buying house netherlands", "expat home loan netherlands"]
 affiliate: false

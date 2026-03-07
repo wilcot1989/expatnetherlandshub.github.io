@@ -166,7 +166,7 @@
       {{ range .Site.RegularPages.ByDate.Reverse | first 6 }}
       {{ $pageTitle := .Title }}
       {{ $homeCat := "daily-life" }}
-      {{ with .Params.categories }}{{ $homeCat = index . 0 }}{{ end }}
+      {{ with .Params.guides }}{{ $homeCat = index . 0 }}{{ end }}
       {{ $homeSvg := printf "/images/categories/%s.svg" $homeCat }}
       {{ $homeSvgFile := printf "static/images/categories/%s.svg" $homeCat }}
       <a href="{{ .RelPermalink }}" class="card guide-card">
@@ -184,7 +184,7 @@
       {{ end }}
     </div>
     <div class="section-footer">
-      <a href="/categories/" class="cta cta-outline-green">View all guides &rarr;</a>
+      <a href="/guides/" class="cta cta-outline-green">View all guides &rarr;</a>
     </div>
   </div>
 </section>

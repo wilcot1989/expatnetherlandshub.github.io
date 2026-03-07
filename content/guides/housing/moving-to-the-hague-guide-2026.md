@@ -3,7 +3,7 @@ title: "Moving to The Hague 2026: Complete Expat Guide"
 date: 2026-03-06T10:00:00+01:00
 lastmod: 2026-03-06T10:00:00+01:00
 description: "Everything you need to know about moving to The Hague as an expat. Neighborhoods, housing, international community, costs of living, and practical tips."
-categories: ["housing"]
+guides: ["housing"]
 tags: ["The Hague", "Den Haag", "expat housing", "international city", "relocation"]
 keywords: ["moving to The Hague", "The Hague expat guide", "living in Den Haag", "The Hague neighborhoods"]
 affiliate: true

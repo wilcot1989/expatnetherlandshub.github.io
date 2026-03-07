@@ -3,7 +3,7 @@ title: "Making Friends in the Netherlands: An Honest Guide for Expats"
 slug: "making-friends-netherlands-expats-2026"
 date: 2026-04-19T10:00:00+01:00
 lastmod: 2026-04-19T10:00:00+01:00
-categories: ["integration"]
+guides: ["integration"]
 type: "guide"
 author: "Sarah van den Berg"
 author_bio: "Expat coach and relocation specialist. Half Dutch, half British, living in the Netherlands for over 10 years."

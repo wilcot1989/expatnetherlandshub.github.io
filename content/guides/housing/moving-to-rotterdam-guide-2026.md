@@ -3,7 +3,7 @@ title: "Moving to Rotterdam 2026: The Complete Expat Guide"
 date: 2026-03-06T12:00:00+01:00
 lastmod: 2026-03-06T12:00:00+01:00
 description: "Complete guide to moving to Rotterdam as an expat in 2026. Housing, neighborhoods, costs, transport, and practical relocation tips."
-categories: ["relocation"]
+guides: ["relocation"]
 tags: ["rotterdam", "moving to rotterdam", "rotterdam expat", "rotterdam neighborhoods", "rotterdam housing", "relocation"]
 keywords: ["moving to rotterdam", "rotterdam expat guide", "living in rotterdam", "rotterdam relocation", "rotterdam neighborhoods expats"]
 affiliate: true

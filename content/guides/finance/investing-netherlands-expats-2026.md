@@ -3,7 +3,7 @@ title: "Investing in the Netherlands as an Expat: What You Need to Know in 2026"
 date: 2026-03-27T10:00:00+01:00
 lastmod: 2026-03-27T10:00:00+01:00
 description: "A practical guide to investing as an expat in the Netherlands. Tax implications, best platforms, Box 3 tax, and common mistakes to avoid in 2026."
-categories: ["finance"]
+guides: ["finance"]
 tags: ["investing", "Box 3", "vermogensbelasting", "ETF", "expat finance"]
 keywords: ["investing Netherlands expat", "Box 3 tax expats", "best investment platform Netherlands", "expat investing NL 2026"]
 affiliate: false

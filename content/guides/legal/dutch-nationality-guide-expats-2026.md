@@ -7,7 +7,7 @@ draft: false
 author: "Sarah van den Berg"
 author_bio: "Expat coach and relocation specialist. Half Dutch, half British, living in the Netherlands for over 10 years."
 featured_image: "/images/featured/dutch-nationality-guide-expats-2026.webp"
-categories: ["legal"]
+guides: ["legal"]
 tags: ["dutch nationality", "naturalisation", "citizenship", "expat netherlands", "inburgering"]
 type: "pillar"
 affiliate: false
