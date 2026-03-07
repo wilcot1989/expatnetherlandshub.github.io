@@ -165,9 +165,13 @@
     <div class="guide-grid">
       {{ range .Site.RegularPages.ByDate.Reverse | first 6 }}
       {{ $pageTitle := .Title }}
+      {{ $homeCat := "daily-life" }}
+      {{ with .Params.categories }}{{ $homeCat = index . 0 }}{{ end }}
+      {{ $homeSvg := printf "/images/categories/%s.svg" $homeCat }}
+      {{ $homeSvgFile := printf "static/images/categories/%s.svg" $homeCat }}
       <a href="{{ .RelPermalink }}" class="card guide-card">
-        {{ with .Params.featured_image }}
-        <img src="{{ . }}" alt="{{ $pageTitle }}" class="card-thumb">
+        {{ if (fileExists $homeSvgFile) }}
+        <img src="{{ $homeSvg }}" alt="{{ $pageTitle }}" class="card-thumb">
         {{ else }}
         <div class="card-thumb card-thumb-placeholder"></div>
         {{ end }}

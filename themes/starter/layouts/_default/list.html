@@ -64,11 +64,15 @@
   <div class="card-grid">
     {{ range .Pages }}
     <article class="card card-grid-item">
-      {{/* Thumbnail */}}
+      {{/* Thumbnail — use category SVG banner, fall back to gradient */}}
       {{ $cardPage := . }}
-      {{ with .Params.featured_image }}
+      {{ $cat := "daily-life" }}
+      {{ with .Params.categories }}{{ $cat = index . 0 }}{{ end }}
+      {{ $svgPath := printf "/images/categories/%s.svg" $cat }}
+      {{ $svgFile := printf "static/images/categories/%s.svg" $cat }}
+      {{ if (fileExists $svgFile) }}
       <a href="{{ $cardPage.RelPermalink }}" tabindex="-1" aria-hidden="true">
-        <img src="{{ . }}" alt="{{ $cardPage.Title }}" class="card-thumb" loading="lazy">
+        <img src="{{ $svgPath }}" alt="{{ $cardPage.Title }}" class="card-thumb" loading="lazy">
       </a>
       {{ else }}
       <div class="card-thumb card-thumb-placeholder"></div>

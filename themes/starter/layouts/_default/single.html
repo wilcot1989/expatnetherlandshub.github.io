@@ -2,9 +2,13 @@
 
 {{/* JSON-LD is handled in baseof.html — no duplicates here */}}
 
-{{/* ── Hero: with featured_image → dark overlay; without → plain header ── */}}
-{{ if .Params.featured_image }}
-<div class="article-hero" style="background-image: url('{{ .Params.featured_image }}');">
+{{/* ── Hero: category SVG banner with dark overlay ── */}}
+{{ $heroCat := "daily-life" }}
+{{ with .Params.categories }}{{ $heroCat = index . 0 }}{{ end }}
+{{ $heroSvg := printf "/images/categories/%s.svg" $heroCat }}
+{{ $heroFile := printf "static/images/categories/%s.svg" $heroCat }}
+{{ if (fileExists $heroFile) }}
+<div class="article-hero" style="background-image: url('{{ $heroSvg }}');">
   <div class="article-hero-overlay">
     <div class="wide">
       <nav class="breadcrumb breadcrumb-light" aria-label="Breadcrumb">
@@ -103,9 +107,10 @@
         <div class="related-grid">
           {{ range $related }}
           <a href="{{ .RelPermalink }}" class="related-card">
-            {{ with .Params.featured_image }}
-            <img src="{{ . }}" alt="{{ $.Title }}" class="related-card-thumb" loading="lazy">
-            {{ end }}
+            {{ $relCat := "daily-life" }}
+            {{ with .Params.categories }}{{ $relCat = index . 0 }}{{ end }}
+            {{ $relSvg := printf "/images/categories/%s.svg" $relCat }}
+            <img src="{{ $relSvg }}" alt="{{ .Title }}" class="related-card-thumb" loading="lazy">
             <div class="related-card-body">
               <div class="meta">{{ .Date.Format "January 2, 2006" }}</div>
               <div class="related-card-title">{{ .Title }}</div>

@@ -1,0 +1,102 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 630">
+  <defs>
+    <linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#1e293b"/>
+      <stop offset="100%" stop-color="#0f172a"/>
+    </linearGradient>
+    <linearGradient id="orangeGrad" x1="0%" y1="0%" x2="0%" y2="100%">
+      <stop offset="0%" stop-color="#f97316"/>
+      <stop offset="100%" stop-color="#ea580c"/>
+    </linearGradient>
+    <linearGradient id="orangeGrad2" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#fb923c"/>
+      <stop offset="100%" stop-color="#f97316"/>
+    </linearGradient>
+  </defs>
+
+  <!-- Background -->
+  <rect width="1200" height="630" fill="url(#bg)"/>
+
+  <!-- Subtle pattern -->
+  <g opacity="0.03">
+    <line x1="0" y1="0" x2="1200" y2="630" stroke="white" stroke-width="1"/>
+    <line x1="400" y1="0" x2="1200" y2="400" stroke="white" stroke-width="1"/>
+    <line x1="0" y1="400" x2="800" y2="630" stroke="white" stroke-width="1"/>
+  </g>
+
+  <!-- Decorative circles -->
+  <circle cx="600" cy="315" r="240" fill="none" stroke="#f97316" stroke-width="1" opacity="0.06"/>
+  <circle cx="600" cy="315" r="300" fill="none" stroke="#f97316" stroke-width="0.5" opacity="0.04"/>
+
+  <!-- 1. SCALES OF JUSTICE (center) -->
+  <g transform="translate(400, 80)">
+    <!-- Center pole -->
+    <rect x="195" y="40" width="10" height="340" rx="5" fill="white" opacity="0.7"/>
+    <!-- Base -->
+    <rect x="130" y="370" width="140" height="16" rx="8" fill="white" opacity="0.5"/>
+    <rect x="160" y="360" width="80" height="16" rx="4" fill="white" opacity="0.6"/>
+    <!-- Beam -->
+    <line x1="40" y1="80" x2="360" y2="80" stroke="white" stroke-width="6" opacity="0.8" stroke-linecap="round"/>
+    <!-- Left pan -->
+    <line x1="80" y1="80" x2="40" y2="180" stroke="#fb923c" stroke-width="3" opacity="0.6"/>
+    <line x1="80" y1="80" x2="120" y2="180" stroke="#fb923c" stroke-width="3" opacity="0.6"/>
+    <path d="M20,180 Q80,220 140,180" fill="url(#orangeGrad)" opacity="0.7"/>
+    <!-- Right pan -->
+    <line x1="320" y1="80" x2="280" y2="180" stroke="#fb923c" stroke-width="3" opacity="0.6"/>
+    <line x1="320" y1="80" x2="360" y2="180" stroke="#fb923c" stroke-width="3" opacity="0.6"/>
+    <path d="M260,180 Q320,220 380,180" fill="url(#orangeGrad)" opacity="0.7"/>
+    <!-- Top ornament -->
+    <circle cx="200" cy="40" r="16" fill="#f97316" opacity="0.8"/>
+    <circle cx="200" cy="40" r="8" fill="#1e293b" opacity="0.4"/>
+  </g>
+
+  <!-- 2. LEGAL DOCUMENT / CONTRACT (left) -->
+  <g transform="translate(60, 140)">
+    <!-- Document -->
+    <rect x="0" y="0" width="180" height="240" rx="8" fill="white" opacity="0.08"/>
+    <rect x="0" y="0" width="180" height="240" rx="8" fill="none" stroke="white" stroke-width="2" opacity="0.15"/>
+    <!-- Document fold -->
+    <path d="M130,0 L180,50" fill="none" stroke="white" stroke-width="1" opacity="0.1"/>
+    <path d="M130,0 L130,50 L180,50" fill="white" opacity="0.05"/>
+    <!-- Text lines -->
+    <line x1="25" y1="70" x2="155" y2="70" stroke="white" stroke-width="3" opacity="0.2" stroke-linecap="round"/>
+    <line x1="25" y1="95" x2="155" y2="95" stroke="white" stroke-width="3" opacity="0.2" stroke-linecap="round"/>
+    <line x1="25" y1="120" x2="120" y2="120" stroke="white" stroke-width="3" opacity="0.2" stroke-linecap="round"/>
+    <line x1="25" y1="145" x2="155" y2="145" stroke="white" stroke-width="3" opacity="0.15" stroke-linecap="round"/>
+    <line x1="25" y1="170" x2="100" y2="170" stroke="white" stroke-width="3" opacity="0.15" stroke-linecap="round"/>
+    <!-- Seal -->
+    <circle cx="130" cy="205" r="22" fill="#f97316" opacity="0.5"/>
+    <circle cx="130" cy="205" r="14" fill="none" stroke="#fb923c" stroke-width="2" opacity="0.6"/>
+  </g>
+
+  <!-- 3. GAVEL (right side) -->
+  <g transform="translate(880, 160)">
+    <!-- Gavel head -->
+    <rect x="0" y="0" width="120" height="50" rx="10" fill="url(#orangeGrad2)" opacity="0.8" transform="rotate(-30, 60, 25)"/>
+    <!-- Gavel handle -->
+    <rect x="40" y="30" width="16" height="160" rx="8" fill="white" opacity="0.6" transform="rotate(-30, 48, 110)"/>
+    <!-- Sound block -->
+    <ellipse cx="160" cy="300" rx="80" ry="20" fill="#f97316" opacity="0.4"/>
+    <rect x="80" y="270" width="160" height="30" rx="6" fill="url(#orangeGrad)" opacity="0.6"/>
+    <ellipse cx="160" cy="270" rx="80" ry="20" fill="#fb923c" opacity="0.5"/>
+  </g>
+
+  <!-- 4. SHIELD (bottom left) -->
+  <g transform="translate(120, 420)">
+    <path d="M60,0 L120,20 L120,80 C120,130 60,160 60,160 C60,160 0,130 0,80 L0,20 Z" fill="url(#orangeGrad)" opacity="0.5"/>
+    <path d="M60,15 L105,30 L105,78 C105,118 60,142 60,142 C60,142 15,118 15,78 L15,30 Z" fill="none" stroke="white" stroke-width="2" opacity="0.3"/>
+    <!-- Checkmark in shield -->
+    <polyline points="35,80 55,100 90,55" fill="none" stroke="white" stroke-width="5" stroke-linecap="round" stroke-linejoin="round" opacity="0.6"/>
+  </g>
+
+  <!-- 5. PARAGRAPH SYMBOL (bottom center) -->
+  <g transform="translate(500, 440)">
+    <text x="0" y="120" font-family="serif" font-size="160" fill="#f97316" opacity="0.15">&sect;</text>
+  </g>
+
+  <!-- Corner accents -->
+  <line x1="30" y1="30" x2="100" y2="30" stroke="#f97316" stroke-width="2" opacity="0.3"/>
+  <line x1="30" y1="30" x2="30" y2="100" stroke="#f97316" stroke-width="2" opacity="0.3"/>
+  <line x1="1170" y1="600" x2="1100" y2="600" stroke="#f97316" stroke-width="2" opacity="0.3"/>
+  <line x1="1170" y1="600" x2="1170" y2="530" stroke="#f97316" stroke-width="2" opacity="0.3"/>
+</svg>
