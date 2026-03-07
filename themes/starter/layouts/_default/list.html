@@ -66,8 +66,8 @@
     <article class="card card-grid-item">
       {{/* Thumbnail — use category SVG banner, fall back to gradient */}}
       {{ $cardPage := . }}
-      {{ $cat := "daily-life" }}
-      {{ with .Params.categories }}{{ $cat = index . 0 }}{{ else }}{{ $cat = path.Base (strings.TrimSuffix "/" .RelPermalink) }}{{ end }}
+      {{ $cat := .Title | urlize }}
+      {{ with .Params.categories }}{{ $cat = index . 0 }}{{ end }}
       {{ $svgPath := printf "/images/categories/%s.svg" $cat }}
       {{ $svgFile := printf "static/images/categories/%s.svg" $cat }}
       {{ if (fileExists $svgFile) }}
