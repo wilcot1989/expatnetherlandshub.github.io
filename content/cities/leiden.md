@@ -97,4 +97,4 @@ For a full guide to OV travel in the Netherlands, see the [OV-chipkaart guide fo
 - [Finding Housing in the Netherlands](/guides/housing/)
 - [Working in the Netherlands](/guides/work/)
 - [Health Insurance for Expats 2026](/guides/healthcare/)
-- [Registering as an Expat in the Netherlands](/guides/admin/bsn-registration-guide-2026/)
+- [Registering as an Expat in the Netherlands](/guides/legal/bsn-registration-guide-2026/)

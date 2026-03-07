@@ -109,7 +109,7 @@ HTM operates bus and tram routes connecting Delft with The Hague, and local bus 
 - [Finding Housing in the Netherlands](/guides/housing/finding-housing-netherlands-expats-2026/) — how the rental market works, documents, scam warnings
 - [Working in the Netherlands](/guides/work/) — employment contracts, tax, 30% ruling
 - [Health Insurance for Expats](/guides/health/) — what you must have, what to add
-- [Registering as an Expat in the Netherlands](/guides/admin/bsn-registration-guide-2026/) — BSN, DigiD, gemeente process
+- [Registering as an Expat in the Netherlands](/guides/legal/bsn-registration-guide-2026/) — BSN, DigiD, gemeente process
 - [Nearby: The Hague](/cities/the-hague/) — 15 minutes by train, international organisations, embassies
 - [Nearby: Rotterdam](/cities/rotterdam/) — 12 minutes by train, port, architecture, lower rents
 - [Nearby: Leiden](/cities/leiden/) — 20 minutes north, university city, biotech

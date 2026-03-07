@@ -104,7 +104,7 @@ By car, the A9 connects to the motorway network towards Amsterdam, Schiphol, Alk
 - [Finding Housing in the Netherlands](/guides/housing/finding-housing-netherlands-expats-2026/)
 - [OV-chipkaart Guide for Expats 2026](/guides/daily-life/ov-chipkaart-guide-expats-2026/)
 - [Health Insurance for Expats 2026](/guides/health/)
-- [Registering as an Expat in the Netherlands](/guides/admin/bsn-registration-guide-2026/)
+- [Registering as an Expat in the Netherlands](/guides/legal/bsn-registration-guide-2026/)
 - [Working in the Netherlands](/guides/work/)
 - [Amsterdam Expat Guide](/cities/amsterdam/)
 - [Leiden Expat Guide](/cities/leiden/)

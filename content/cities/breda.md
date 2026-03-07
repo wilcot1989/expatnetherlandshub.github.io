@@ -113,5 +113,5 @@ If you drive, Breda is well connected: the A16 runs south to Antwerp and north t
 - [Finding Housing in the Netherlands](/guides/housing/finding-housing-netherlands-expats-2026/)
 - [Working in the Netherlands](/guides/work/)
 - [Health Insurance for Expats](/guides/health/)
-- [Registering as an Expat in the Netherlands](/guides/admin/bsn-registration-guide-2026/)
+- [Registering as an Expat in the Netherlands](/guides/legal/bsn-registration-guide-2026/)
 - Other cities to compare: [Rotterdam](/cities/rotterdam/), [Eindhoven](/cities/eindhoven/), [Den Bosch](/cities/den-bosch/)

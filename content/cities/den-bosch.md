@@ -101,7 +101,7 @@ For a full introduction to the OV-chipkaart system and how to get one set up on 
 - [Finding Housing in the Netherlands](/guides/housing/finding-housing-netherlands-expats-2026/)
 - [Working in the Netherlands](/guides/work/)
 - [Health Insurance for Expats](/guides/health/)
-- [Registering as an Expat in the Netherlands](/guides/admin/bsn-registration-guide-2026/)
+- [Registering as an Expat in the Netherlands](/guides/legal/bsn-registration-guide-2026/)
 - [Living in Utrecht](/cities/utrecht/) — 35 minutes by train
 - [Living in Eindhoven](/cities/eindhoven/) — 20 minutes by train
 - [Living in Breda](/cities/breda/) — reachable via Tilburg or direct services
