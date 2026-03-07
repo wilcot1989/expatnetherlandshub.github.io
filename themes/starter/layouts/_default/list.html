@@ -67,7 +67,7 @@
       {{/* Thumbnail — use category SVG banner, fall back to gradient */}}
       {{ $cardPage := . }}
       {{ $cat := "daily-life" }}
-      {{ with .Params.categories }}{{ $cat = index . 0 }}{{ end }}
+      {{ with .Params.categories }}{{ $cat = index . 0 }}{{ else }}{{ $cat = path.Base (strings.TrimSuffix "/" .RelPermalink) }}{{ end }}
       {{ $svgPath := printf "/images/categories/%s.svg" $cat }}
       {{ $svgFile := printf "static/images/categories/%s.svg" $cat }}
       {{ if (fileExists $svgFile) }}
