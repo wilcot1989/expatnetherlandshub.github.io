@@ -88,7 +88,7 @@ Some regular Dutch schools have international departments that combine the Dutch
 
 ## Top Schools by City
 
-### Amsterdam
+### [Amsterdam](/cities/amsterdam/)
 
 | School | Curriculum | Ages | Tuition/Year | Notes |
 |--------|-----------|------|-------------|-------|
@@ -97,7 +97,7 @@ Some regular Dutch schools have international departments that combine the Dutch
 | **Amsterdam International Community School (AICS)** | IB (MYP, DP) | 11-18 | €6,000-€8,000 | Government-subsidized. Great value. |
 | **Amity International School** | IB (PYP, MYP, DP) | 3-18 | €12,000-€19,000 | Newer school, modern facilities. |
 
-### The Hague
+### [The Hague](/cities/the-hague/)
 
 The Hague has the highest concentration of international schools due to its role as the diplomatic and international law capital.
 
@@ -108,14 +108,14 @@ The Hague has the highest concentration of international schools due to its role
 | **American School of The Hague (ASH)** | American + AP | 3-18 | €16,000-€24,000 | Leading American school in Europe. |
 | **European School of The Hague** | European Baccalaureate | 4-18 | €0-€5,000 | For children of EU institution employees. Limited places for others. |
 
-### Rotterdam
+### [Rotterdam](/cities/rotterdam/)
 
 | School | Curriculum | Ages | Tuition/Year | Notes |
 |--------|-----------|------|-------------|-------|
 | **Rotterdam International Secondary School (RISS)** | IB (MYP, DP) | 11-18 | €6,000-€7,500 | Government-subsidized. |
 | **Nord Anglia International School Rotterdam** | IB (PYP, MYP) | 3-16 | €14,000-€20,000 | Part of global Nord Anglia network. |
 
-### Eindhoven
+### [Eindhoven](/cities/eindhoven/)
 
 | School | Curriculum | Ages | Tuition/Year | Notes |
 |--------|-----------|------|-------------|-------|

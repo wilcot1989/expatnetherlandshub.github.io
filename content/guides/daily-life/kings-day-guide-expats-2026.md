@@ -31,7 +31,7 @@ faq:
     answer: "Orange, orange, and more orange. It is the Dutch national colour and everyone wears it. You do not need to go overboard — even a simple orange scarf or headband will do. Fancy dress is popular too. Comfortable shoes are non-negotiable."
 ---
 
-The first time I experienced King's Day in the Netherlands, I had no idea what I was walking into. I stepped out of my front door in Amsterdam at 9 in the morning, and the entire city had already turned orange. There were people selling toys from blankets on the pavement, children belting out Dutch songs on makeshift stages, and boats so densely packed on the canals that I genuinely could not see the water. I stood there in my sensible beige coat and thought: I need to get orange, immediately.
+The first time I experienced King's Day in the Netherlands, I had no idea what I was walking into. I stepped out of my front door in [Amsterdam](/cities/amsterdam/) at 9 in the morning, and the entire city had already turned orange. There were people selling toys from blankets on the pavement, children belting out Dutch songs on makeshift stages, and boats so densely packed on the canals that I genuinely could not see the water. I stood there in my sensible beige coat and thought: I need to get orange, immediately.
 
 That was ten years ago. Since then, King's Day — or Koningsdag as the Dutch call it — has become one of my favourite days of the year. If you are an expat in the Netherlands and you have not yet experienced it properly, this guide is for you. I am going to tell you everything: when it is, how to prepare, which cities are best, and how to make the most of what is, without question, the biggest street party in the country.
 
@@ -63,7 +63,7 @@ The evening before — Friday 24 April — is Koningsnacht (King's Night).
 
 ## Koningsnacht: King's Night
 
-Koningsnacht is the warm-up party the night before King's Day. It is biggest in Amsterdam and Utrecht, and it has grown into a serious event in its own right.
+Koningsnacht is the warm-up party the night before King's Day. It is biggest in Amsterdam and [Utrecht](/cities/utrecht/), and it has grown into a serious event in its own right.
 
 In Amsterdam, the Rembrandtplein and Leidseplein areas become outdoor dance floors. Bars and clubs throw special parties, often with ticketed events. Utrecht hosts its famous Koningsnacht festival along the canals, which has become one of the most beloved in the country — with multiple stages, floating DJ sets, and an atmosphere that is genuinely electric.
 
@@ -107,7 +107,7 @@ The biggest and most famous celebration. The Jordaan, the Vondelpark, and the ca
 
 Utrecht is my personal favourite for King's Day. The old canal district — the Oudegracht — transforms into something magical. Utrecht has a reputation for a younger, more music-focused celebration, and the city is small enough that you can walk everywhere without getting overwhelmed. If you are [based in or near Utrecht](/guides/housing/moving-to-utrecht-guide-2026/), do not miss it.
 
-### The Hague
+### [The Hague](/cities/the-hague/)
 
 The Hague (Den Haag) has a more family-friendly reputation on King's Day. The celebration centres on the city's parks and squares, and it attracts a broad mix of people. It is significantly less crowded than Amsterdam, which makes it a good option if you have young children or just prefer breathing room.
 
@@ -115,7 +115,7 @@ The Hague (Den Haag) has a more family-friendly reputation on King's Day. The ce
 
 Eindhoven has one of the more modern, music-focused King's Day celebrations. The city's 18040 festival is a major outdoor event that draws big-name DJs and a young crowd. If you are into electronic music and want something different from the traditional vrijmarkt experience, Eindhoven is worth the trip.
 
-### Groningen
+### [Groningen](/cities/groningen/)
 
 Groningen is the student capital of the Netherlands, and its King's Day reflects that. The celebration is energetic, young, and affordable. The Grote Markt fills up with stages and stalls, and the canal areas come alive. For expats in the north of the country, Groningen is an excellent choice.
 

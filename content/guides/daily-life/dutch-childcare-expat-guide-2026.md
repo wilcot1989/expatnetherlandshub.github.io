@@ -140,9 +140,9 @@ Childcare is one of the biggest variable costs for expat families. Before choosi
 
 ### Step 1: Start Early
 Register on waiting lists as soon as possible. In major cities:
-- **Amsterdam:** 6-12 months waiting list
-- **The Hague:** 4-8 months
-- **Eindhoven:** 3-6 months
+- **[Amsterdam](/cities/amsterdam/):** 6-12 months waiting list
+- **[The Hague](/cities/the-hague/):** 4-8 months
+- **[Eindhoven](/cities/eindhoven/):** 3-6 months
 - **Smaller cities:** 1-3 months
 
 ### Step 2: Search Online
@@ -253,9 +253,9 @@ The theory is clear enough. The reality of actually securing a spot is where mos
 **As soon as you have a Dutch address — or even a confirmed move date.** Many Amsterdam daycare providers allow you to register on the waiting list before you arrive in the country, as long as you can provide your expected address. I have worked with families who registered the week they signed their rental contract from abroad, and still waited 8 months.
 
 For non-Amsterdam cities, the situation is more manageable:
-- Rotterdam: 3–6 months for popular providers, some spots available within weeks
+- [Rotterdam](/cities/rotterdam/): 3–6 months for popular providers, some spots available within weeks
 - The Hague: 4–8 months in expat-heavy areas (Bezuidenhout, Benoordenhout)
-- Utrecht: 3–6 months; Leidsche Rijn and Overvecht faster than the centre
+- [Utrecht](/cities/utrecht/): 3–6 months; Leidsche Rijn and Overvecht faster than the centre
 - Eindhoven: Often 2–4 months; ASML and tech-company childminders fill quickly
 
 ### What Childcare Actually Costs Day-to-Day in 2026

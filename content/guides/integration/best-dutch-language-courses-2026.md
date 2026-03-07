@@ -40,7 +40,7 @@ I have tried almost every method of learning Dutch: apps on the train, evening c
 | **Duolingo** | App (self-paced) | A1-B1 | Free (Super: EUR 7/month) | Free daily practice |
 | **Preply** | Online tutoring | All levels | EUR 15-40/hour | Personalized lessons |
 | **italki** | Online tutoring | All levels | EUR 10-30/hour | Affordable conversation practice |
-| **Taalhuis Amsterdam** | In-person school | A0-B2 | EUR 250-500/module | Group classes in Amsterdam |
+| **Taalhuis Amsterdam** | In-person school | A0-B2 | EUR 250-500/module | Group classes in [Amsterdam](/cities/amsterdam/) |
 | **UvA Talen** | In-person / online | A1-C1 | EUR 500-1,500/course | Academic-quality instruction |
 | **Direct Dutch** | In-person / online | A1-B2 | EUR 300-700/module | Intensive immersion method |
 | **NT2 Exam Prep** | Various | B1-B2 | Varies | Civic integration requirement |
@@ -323,7 +323,7 @@ UvA Talen is the best choice for expats who want the highest quality Dutch instr
 
 ### Direct Dutch -- Best Immersive Method
 
-Direct Dutch Institute, based in The Hague, uses a distinctive immersive teaching method that emphasizes learning Dutch through Dutch from day one. No English is used in the classroom, even at beginner levels.
+Direct Dutch Institute, based in [The Hague](/cities/the-hague/), uses a distinctive immersive teaching method that emphasizes learning Dutch through Dutch from day one. No English is used in the classroom, even at beginner levels.
 
 #### Key Features
 

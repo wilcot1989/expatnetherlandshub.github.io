@@ -34,7 +34,7 @@ This guide covers everything a relocating expat needs to know about moving to Le
 ![Leiden city view](/images/cities/leiden.webp)
 *Photo: Leiden, the Netherlands. Source: Wikimedia Commons.*
 
-Leiden is not obvious in the way that Amsterdam is, or polished in the way that The Hague can feel. It is a mid-sized city of around 130,000 people that punches well above its weight — culturally, academically, and professionally.
+Leiden is not obvious in the way that [Amsterdam](/cities/amsterdam/) is, or polished in the way that [The Hague](/cities/the-hague/) can feel. It is a mid-sized city of around 130,000 people that punches well above its weight — culturally, academically, and professionally.
 
 **Leiden University** is the oldest in the Netherlands, founded in 1575, and it shapes virtually everything about the city. The student population of roughly 30,000 brings with it a constant churn of international academics, researchers, and postdocs. Around 40% of graduate students are international. That means the city is used to newcomers, culturally open, and genuinely multilingual in a way that smaller Dutch cities often are not.
 
@@ -166,7 +166,7 @@ Leiden's biggest healthcare asset is the **Leiden University Medical Centre (LUM
 
 For day-to-day healthcare, the system works the same as anywhere in the Netherlands: you register with a GP (huisarts) who acts as the gateway to specialist care. English-speaking GPs are available in Leiden, though competition for places at popular practices is real. Register with a GP as soon as you arrive — do not wait until you need one.
 
-You will also need to sort out Dutch health insurance (zorgverzekering) within four months of registering in the Netherlands. This is a legal requirement, and the fines for non-compliance are significant.
+You will also need to sort out Dutch health insurance (zorgverzekering) within four months of registering in the Netherlands. This is a legal requirement, and the fines for non-compliance are significant. The [Health Insurance Wizard](/tools/health-insurance-wizard/) can help you identify the right level of cover for your situation and compare the main providers.
 
 ---
 
@@ -188,13 +188,13 @@ The annual **3 October celebrations** — commemorating the relief of Leiden's s
 
 ## Cost of Living: Honest Numbers
 
-Leiden is cheaper than Amsterdam, more expensive than most of the Netherlands east of the A2. Here is a rough monthly budget breakdown for different household types:
+Leiden is cheaper than Amsterdam, more expensive than most of the Netherlands east of the A2. Here is a rough monthly budget breakdown for different household types. For a personalised estimate based on your household size and lifestyle, use the [Cost of Living Calculator](/tools/cost-of-living-calculator/) before committing to a location.
 
 **Single professional, renting 1-bed in Leiden Noord:**
 - Rent: €1,150–€1,300
 - Health insurance: €140–€180
 - Groceries: €250–€350
-- Transport (NS OV-chipkaart): €80–€150 depending on commute
+- Transport (NS [OV-chipkaart](/guides/daily-life/ov-chipkaart-guide-expats-2026/)): €80–€150 depending on commute
 - Utilities (gas, electricity, water): €150–€200
 - Miscellaneous (dining, culture, sport): €200–€400
 - **Total: approx. €2,000–€2,500/month**
@@ -237,7 +237,7 @@ These figures do not include mortgage costs (if buying), savings, holidays, or c
 
 ## Registering in Leiden: The Practical Steps
 
-Once you have found a home and are ready to move in, registration at the municipality (gemeente) is legally required within five days of taking up residence. You will register at the **Gemeente Leiden** (city hall), and this will trigger your BSN (citizen service number) if you do not already have one. The BSN is necessary for almost everything in Dutch life — opening a bank account, accessing healthcare, receiving your salary.
+Once you have found a home and are ready to move in, registration at the municipality (gemeente) is legally required within five days of taking up residence. You will register at the **Gemeente Leiden** (city hall), and this will trigger your BSN (citizen service number) if you do not already have one. The BSN is necessary for almost everything in Dutch life — opening a bank account, accessing healthcare, receiving your salary. The [BSN Planner](/tools/bsn-planner/) walks you through what to prepare before your appointment at the gemeente.
 
 My full guide to [getting your BSN in the Netherlands](/guides/legal/bsn-registration-guide-2026/) walks through the process step by step, including what documents you need and how to handle the appointment.
 
