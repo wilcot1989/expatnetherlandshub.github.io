@@ -54,7 +54,6 @@ buildFuture = false
   guides = 0.9
   cities = 0.8
   services = 0.8
-  guides = 0.9
   tags = 0.4
 
 [taxonomies]
