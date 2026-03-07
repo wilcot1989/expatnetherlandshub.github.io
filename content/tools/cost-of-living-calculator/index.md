@@ -192,6 +192,7 @@ RESPONSIVE
 .tool-grid { gap: 1.5rem; }
 }
 @media (max-width: 768px) {
+.tool-hero::before, .tool-hero::after { display: none; }
 .data-table th, .data-table td { padding: 0.45rem 0.5rem; font-size: 0.78rem; }
 .tool-hero-icon { display: none; }
 .tool-hero { padding: 2rem 1.25rem 1.5rem; }
