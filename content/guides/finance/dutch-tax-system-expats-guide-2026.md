@@ -9,7 +9,7 @@ keywords: ["dutch tax system expats", "taxes netherlands expat", "dutch income t
 affiliate: true
 author: "Sarah van den Berg"
 author_bio: "Expat coach and relocation specialist. Half Dutch, half British, living in the Netherlands for over 10 years."
-featured_image: "/images/categories/finance.svg"
+featured_image: "/images/featured/dutch-tax-system-expats-guide-2026.webp"
 aliases:
   - /guides/finance/dutch-tax-system-expats-guide-2026/
 faq:

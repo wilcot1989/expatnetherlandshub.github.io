@@ -7,7 +7,7 @@ categories: ["integration"]
 type: "guide"
 author: "Sarah van den Berg"
 author_bio: "Expat coach and relocation specialist. Half Dutch, half British, living in the Netherlands for over 10 years."
-featured_image: "/images/categories/integration.svg"
+featured_image: "/images/featured/making-friends-netherlands-expats-2026.webp"
 affiliate: false
 description: "Making friends in the Netherlands is harder than it looks. An honest expat guide to Dutch social culture, where to meet people, and what actually works."
 faq:

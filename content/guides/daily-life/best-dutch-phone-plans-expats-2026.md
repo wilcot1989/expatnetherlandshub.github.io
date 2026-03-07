@@ -7,7 +7,7 @@ draft: false
 type: "guide"
 categories: ["daily-life"]
 description: "The best Dutch phone plans for expats in 2026 — from budget SIM cards to unlimited data. Real advice from someone who's lived here 10 years."
-featured_image: "/images/categories/daily-life.svg"
+featured_image: "/images/featured/best-dutch-phone-plans-expats-2026.webp"
 affiliate: false
 author: "Sarah van den Berg"
 author_bio: "Expat coach and relocation specialist. Half Dutch, half British, living in the Netherlands for over 10 years."

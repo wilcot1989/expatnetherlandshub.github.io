@@ -9,7 +9,7 @@ keywords: ["finding housing netherlands", "rent apartment netherlands expat", "h
 affiliate: true
 author: "Sarah van den Berg"
 author_bio: "Expat coach and relocation specialist. Half Dutch, half British, living in the Netherlands for over 10 years."
-featured_image: "/images/categories/relocation.svg"
+featured_image: "/images/featured/finding-housing-netherlands-expats-2026.webp"
 aliases:
   - /guides/housing/finding-housing-netherlands-expats-2026/
 faq:

@@ -9,7 +9,7 @@ keywords: ["best cities netherlands expats", "best city to live in netherlands",
 affiliate: true
 author: "Sarah van den Berg"
 author_bio: "Expat coach and relocation specialist. Half Dutch, half British, living in the Netherlands for over 10 years."
-featured_image: "/images/categories/housing.svg"
+featured_image: "/images/featured/best-cities-netherlands-expats-2026.webp"
 aliases:
   - /guides/housing/best-cities-netherlands-expats-2026/
 faq:

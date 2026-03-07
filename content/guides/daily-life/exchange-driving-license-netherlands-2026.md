@@ -7,7 +7,7 @@ author: "Sarah van den Berg"
 author_bio: "Expat coach and relocation specialist. Half Dutch, half British, living in the Netherlands for over 10 years."
 categories: ["daily-life"]
 type: "guide"
-featured_image: "/images/categories/daily-life.svg"
+featured_image: "/images/featured/exchange-driving-license-netherlands-2026.webp"
 affiliate: false
 description: "How to exchange your foreign driving licence in the Netherlands. EU and non-EU rules, documents, costs, and what to do if your country is not listed."
 faq:

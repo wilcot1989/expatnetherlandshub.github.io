@@ -9,7 +9,7 @@ keywords: ["Netherlands vs Germany expats", "move to Netherlands or Germany", "e
 affiliate: true
 author: "Sarah van den Berg"
 author_bio: "Expat coach and relocation specialist. Half Dutch, half British, living in the Netherlands for over 10 years."
-featured_image: "/images/categories/relocation.svg"
+featured_image: "/images/featured/netherlands-vs-germany-expats-2026.webp"
 aliases:
   - /guides/integration/netherlands-vs-germany-expats-2026/
 faq:

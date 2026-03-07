@@ -9,7 +9,7 @@ keywords: ["energy provider Netherlands expat", "Dutch energy contract", "cheape
 affiliate: true
 author: "Sarah van den Berg"
 author_bio: "Expat coach and relocation specialist. Half Dutch, half British, living in the Netherlands for over 10 years."
-featured_image: "/images/categories/housing.svg"
+featured_image: "/images/featured/energy-providers-expats-netherlands-2026.webp"
 aliases:
   - /guides/housing/energy-providers-expats-netherlands-2026/
 faq:

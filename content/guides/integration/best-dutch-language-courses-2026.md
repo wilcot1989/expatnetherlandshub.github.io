@@ -9,7 +9,7 @@ keywords: ["dutch language course", "learn dutch course", "NT2 course", "best du
 affiliate: true
 author: "Sarah van den Berg"
 author_bio: "Expat coach and relocation specialist. Half Dutch, half British, living in the Netherlands for over 10 years."
-featured_image: "/images/categories/language.svg"
+featured_image: "/images/featured/best-dutch-language-courses-2026.webp"
 aliases:
   - /guides/integration/best-dutch-language-courses-2026/
 faq:

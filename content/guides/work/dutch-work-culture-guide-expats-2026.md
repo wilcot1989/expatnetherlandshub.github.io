@@ -9,7 +9,7 @@ keywords: ["Dutch work culture expats", "working in Netherlands culture", "Dutch
 affiliate: false
 author: "Sarah van den Berg"
 author_bio: "Expat coach and relocation specialist. Half Dutch, half British, living in the Netherlands for over 10 years."
-featured_image: "/images/categories/work.svg"
+featured_image: "/images/featured/dutch-work-culture-guide-expats-2026.webp"
 faq:
   - q: "What are typical working hours in the Netherlands?"
     a: "The standard working week in the Netherlands is 36-40 hours, typically Monday to Friday from 9:00 to 17:00 or 17:30. Part-time work is extremely common — the Netherlands has the highest rate of part-time workers in Europe. Many Dutch employees work 4 days per week, and leaving the office at 17:00 sharp is perfectly normal and expected."

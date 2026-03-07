@@ -9,7 +9,7 @@ keywords: ["Dutch social etiquette", "Dutch culture expats", "unwritten rules Ne
 affiliate: false
 author: "Sarah van den Berg"
 author_bio: "Expat coach and relocation specialist. Half Dutch, half British, living in the Netherlands for over 10 years."
-featured_image: "/images/categories/integration.svg"
+featured_image: "/images/featured/dutch-social-etiquette-expats-2026.webp"
 aliases:
   - /guides/integration/dutch-social-etiquette-expats-2026/
 faq:

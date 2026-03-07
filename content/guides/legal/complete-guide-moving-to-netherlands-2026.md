@@ -9,7 +9,7 @@ keywords: ["moving to netherlands", "relocating to netherlands 2026", "expat gui
 affiliate: true
 author: "Sarah van den Berg"
 author_bio: "Expat coach and relocation specialist. Half Dutch, half British, living in the Netherlands for over 10 years."
-featured_image: "/images/categories/relocation.svg"
+featured_image: "/images/featured/complete-guide-moving-to-netherlands-2026.webp"
 aliases:
   - /guides/legal/complete-guide-moving-to-netherlands-2026/
 faq:

@@ -4,6 +4,7 @@ date: 2026-03-06
 lastmod: 2026-03-06
 description: "Privacy Policy of Expat Netherlands Hub"
 layout: "single"
+featured_image: "/images/featured/privacy.webp"
 ---
 
 ## Privacy Policy

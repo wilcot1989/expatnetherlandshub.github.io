@@ -9,7 +9,7 @@ keywords: ["moving to The Hague", "The Hague expat guide", "living in Den Haag",
 affiliate: true
 author: "Sarah van den Berg"
 author_bio: "Expat coach and relocation specialist. Half Dutch, half British, living in the Netherlands for over 10 years."
-featured_image: "/images/categories/housing.svg"
+featured_image: "/images/featured/moving-to-the-hague-guide-2026.webp"
 aliases:
   - /guides/housing/moving-to-the-hague-guide-2026/
 faq:

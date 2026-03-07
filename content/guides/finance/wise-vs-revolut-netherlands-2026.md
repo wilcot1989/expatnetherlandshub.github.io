@@ -9,7 +9,7 @@ keywords: ["Wise vs Revolut Netherlands", "Wise or Revolut expats", "best money 
 affiliate: true
 author: "Sarah van den Berg"
 author_bio: "Expat coach and relocation specialist. Half Dutch, half British, living in the Netherlands for over 10 years."
-featured_image: "/images/categories/finance.svg"
+featured_image: "/images/featured/wise-vs-revolut-netherlands-2026.webp"
 faq:
   - q: "Does Wise or Revolut offer a Dutch IBAN?"
     a: "Wise provides a genuine Dutch IBAN (starting with NL) that works for salary payments, direct debits, and iDEAL via direct debit. Revolut provides a Lithuanian IBAN (starting with LT), which can cause issues with some Dutch employers and services due to IBAN discrimination."

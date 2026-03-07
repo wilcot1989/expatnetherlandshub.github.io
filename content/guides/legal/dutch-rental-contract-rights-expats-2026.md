@@ -9,7 +9,7 @@ keywords: ["dutch rental contract expat", "tenant rights netherlands", "huurcont
 affiliate: false
 author: "Sarah van den Berg"
 author_bio: "Expat coach and relocation specialist. Half Dutch, half British, living in the Netherlands for over 10 years."
-featured_image: "/images/categories/legal.svg"
+featured_image: "/images/featured/dutch-rental-contract-rights-expats-2026.webp"
 faq:
   - q: "What is the maximum deposit a landlord can charge in the Netherlands?"
     a: "Since the Affordable Rent Act came into force, landlords are legally limited to charging a deposit (waarborgsom) of maximum two months' bare rent (kale huur). That means two times the agreed monthly rent, excluding any service costs. Charging three months or more is illegal. If your landlord demands more than two months, you can refuse and cite Article 7:261b of the Dutch Civil Code. After the tenancy ends, the landlord must return the deposit within 14 days if there are no legitimate deductions. If they fail to do so, you can claim the deposit back via the huurcommissie or the courts."

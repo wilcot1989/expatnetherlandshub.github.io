@@ -9,7 +9,7 @@ keywords: ["moving to Leiden expat", "Leiden expat guide 2026", "living in Leide
 affiliate: false
 author: "Sarah van den Berg"
 author_bio: "Expat coach and relocation specialist. Half Dutch, half British, living in the Netherlands for over 10 years."
-featured_image: "/images/categories/housing.svg"
+featured_image: "/images/featured/moving-to-leiden-expat-guide-2026.webp"
 faq:
   - question: "How expensive is housing in Leiden compared to Amsterdam?"
     answer: "Leiden is noticeably cheaper than Amsterdam, though the gap has been narrowing. A one-bedroom apartment in Leiden city centre typically costs between €1,100 and €1,500 per month to rent, compared to €1,500–€2,200 in Amsterdam. Buying property in Leiden averages around €4,200–€5,500 per square metre, versus €6,000–€8,000 in Amsterdam. That said, Leiden still commands a premium over smaller Dutch cities, largely because of the university, the LUMC hospital, and its excellent rail links."

@@ -9,7 +9,7 @@ keywords: ["apostille Netherlands expat", "document legalisation Netherlands", "
 affiliate: false
 author: "Sarah van den Berg"
 author_bio: "Expat coach and relocation specialist. Half Dutch, half British, living in the Netherlands for over 10 years."
-featured_image: "/images/categories/legal.svg"
+featured_image: "/images/featured/apostille-legalization-netherlands-2026.webp"
 faq:
   - question: "How long does it take to get an apostille in the Netherlands?"
     answer: "At a Dutch rechtbank (district court), the standard processing time is 3 to 5 working days. Some courts offer an express service where you can collect the apostille the same day or next day, though this varies by location. If you are getting a foreign document apostilled in your home country, timelines differ widely — the UK Legalisation Office, for example, currently processes postal applications in around 10 working days, with a faster service available for an additional fee."

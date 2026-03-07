@@ -9,7 +9,7 @@ keywords: ["Dutch holidays 2026", "Netherlands public holidays", "King's Day gui
 affiliate: true
 author: "Sarah van den Berg"
 author_bio: "Expat coach and relocation specialist. Half Dutch, half British, living in the Netherlands for over 10 years."
-featured_image: "/images/categories/culture.svg"
+featured_image: "/images/featured/dutch-holidays-traditions-expat-guide-2026.webp"
 aliases:
   - /guides/daily-life/dutch-holidays-traditions-expat-guide-2026/
 faq:

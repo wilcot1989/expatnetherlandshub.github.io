@@ -1,0 +1,25 @@
+{
+  "name": "expatnetherlandshub",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/wilcot1989/expatnetherlandshub.github.io.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/wilcot1989/expatnetherlandshub.github.io/issues"
+  },
+  "homepage": "https://github.com/wilcot1989/expatnetherlandshub.github.io#readme",
+  "dependencies": {
+    "@napi-rs/canvas": "^0.1.96",
+    "sharp": "^0.34.5"
+  }
+}

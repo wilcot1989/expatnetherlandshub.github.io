@@ -9,7 +9,7 @@ keywords: ["expat insurance Netherlands", "health insurance expats NL", "best in
 affiliate: true
 author: "Sarah van den Berg"
 author_bio: "Expat coach and relocation specialist. Half Dutch, half British, living in the Netherlands for over 10 years."
-featured_image: "/images/categories/insurance.svg"
+featured_image: "/images/featured/best-expat-insurance-netherlands-2026.webp"
 aliases:
   - /guides/health/best-expat-insurance-netherlands-2026/
 faq:

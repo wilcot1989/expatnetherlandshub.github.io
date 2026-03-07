@@ -7,7 +7,7 @@ categories: ["housing"]
 tags: ["breda", "city guide", "expat", "brabant", "relocation", "north brabant"]
 author: "Sarah van den Berg"
 author_bio: "Expat coach and relocation specialist. Half Dutch, half British, living in the Netherlands for over 10 years."
-featured_image: "/images/categories/housing.svg"
+featured_image: "/images/featured/moving-to-breda-guide-2026.webp"
 description: "Moving to Breda as an expat? This complete city guide covers housing, neighbourhoods, cost of living, transport and registration in 2026."
 affiliate: false
 type: "city-guide"

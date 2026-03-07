@@ -9,7 +9,7 @@ keywords: ["childcare Netherlands expat", "kinderopvang costs", "Dutch daycare",
 affiliate: true
 author: "Sarah van den Berg"
 author_bio: "Expat coach and relocation specialist. Half Dutch, half British, living in the Netherlands for over 10 years."
-featured_image: "/images/categories/family.svg"
+featured_image: "/images/featured/dutch-childcare-expat-guide-2026.webp"
 aliases:
   - /guides/daily-life/dutch-childcare-expat-guide-2026/
 faq:

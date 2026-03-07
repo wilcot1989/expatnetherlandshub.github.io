@@ -4,6 +4,7 @@ date: 2026-03-06
 lastmod: 2026-03-06
 description: "Meet Sarah van den Berg — certified relocation consultant, expat coach, and the person behind the practical guides at Expat Netherlands Hub."
 layout: "single"
+featured_image: "/images/featured/about.webp"
 ---
 
 ## Hi, I'm Sarah van den Berg

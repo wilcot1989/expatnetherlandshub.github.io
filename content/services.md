@@ -4,6 +4,7 @@ date: 2026-03-06
 lastmod: 2026-03-06
 description: "Practical guide to expat services in the Netherlands: tax advisors, health insurance, banking, legal help, relocation support, and language schools."
 layout: "single"
+featured_image: "/images/featured/services.webp"
 ---
 
 ## Expat Services in the Netherlands

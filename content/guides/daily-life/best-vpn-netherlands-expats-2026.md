@@ -9,7 +9,7 @@ keywords: ["best vpn netherlands", "vpn for expats", "vpn nederland", "access st
 affiliate: true
 author: "Sarah van den Berg"
 author_bio: "Expat coach and relocation specialist. Half Dutch, half British, living in the Netherlands for over 10 years."
-featured_image: "/images/categories/daily-life.svg"
+featured_image: "/images/featured/best-vpn-netherlands-expats-2026.webp"
 aliases:
   - /guides/daily-life/best-vpn-netherlands-expats-2026/
 faq:

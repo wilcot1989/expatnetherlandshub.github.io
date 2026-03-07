@@ -9,7 +9,7 @@ keywords: ["Zilveren Kruis vs CZ expats", "best health insurance expats Netherla
 affiliate: true
 author: "Sarah van den Berg"
 author_bio: "Expat coach and relocation specialist. Half Dutch, half British, living in the Netherlands for over 10 years."
-featured_image: "/images/categories/insurance.svg"
+featured_image: "/images/featured/zilveren-kruis-vs-cz-expats-2026.webp"
 faq:
   - q: "Which is cheaper, Zilveren Kruis or CZ?"
     a: "In 2026, basic health insurance (basisverzekering) premiums are very similar between the two: Zilveren Kruis charges around EUR 140-145 per month and CZ around EUR 138-143 per month for their standard natura policies. The price difference is minimal, so your choice should be based on coverage type, network, and additional insurance rather than just the base premium."

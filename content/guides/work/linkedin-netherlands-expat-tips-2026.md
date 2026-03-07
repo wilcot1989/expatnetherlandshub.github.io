@@ -9,7 +9,7 @@ keywords: ["LinkedIn Netherlands expat", "find job Netherlands LinkedIn", "Dutch
 affiliate: false
 author: "Sarah van den Berg"
 author_bio: "Expat coach and relocation specialist. Half Dutch, half British, living in the Netherlands for over 10 years."
-featured_image: "/images/categories/work.svg"
+featured_image: "/images/featured/linkedin-netherlands-expat-tips-2026.webp"
 faq:
   - question: "Should I set my LinkedIn profile language to Dutch or English when job hunting in the Netherlands?"
     answer: "For most expats, English is the right choice — especially if you are targeting international companies, tech firms, or multinationals. The Netherlands has the highest LinkedIn usage rate in the world, and a large proportion of Dutch professionals keep English profiles precisely because they work in or with international teams. That said, if you are targeting Dutch SMEs, government-adjacent roles, or companies where Dutch is the working language, consider writing a Dutch version or at least a Dutch summary. You can maintain two languages on your profile by adding a secondary language version via LinkedIn's profile settings. The key is to match the language of the job postings you are actually applying for."

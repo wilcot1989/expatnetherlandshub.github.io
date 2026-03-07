@@ -9,7 +9,7 @@ keywords: ["best app learn dutch", "learn dutch app", "dutch language app", "bes
 affiliate: true
 author: "Sarah van den Berg"
 author_bio: "Expat coach and relocation specialist. Half Dutch, half British, living in the Netherlands for over 10 years."
-featured_image: "/images/categories/language.svg"
+featured_image: "/images/featured/best-apps-learn-dutch-2026.webp"
 aliases:
   - /guides/integration/best-apps-learn-dutch-2026/
 faq:

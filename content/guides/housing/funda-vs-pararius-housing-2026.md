@@ -17,7 +17,7 @@ keywords:
 affiliate: false
 author: "Sarah van den Berg"
 author_bio: "Expat coach and relocation specialist. Half Dutch, half British, living in the Netherlands for over 10 years."
-featured_image: "/images/categories/housing.svg"
+featured_image: "/images/featured/funda-vs-pararius-housing-2026.webp"
 faq:
   - question: "Is Funda available in English?"
     answer: "Funda has a partial English translation, but the quality is inconsistent. Many listing descriptions, agent communications, and legal documents remain in Dutch. You can browse and filter in English, but you'll often hit Dutch text as soon as you contact a landlord or agent. Pararius, by contrast, has full English-language listings and support, making it significantly more accessible for non-Dutch speakers."

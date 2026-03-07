@@ -9,7 +9,7 @@ keywords: ["ZZP Netherlands", "freelancer Netherlands guide", "self-employed exp
 affiliate: true
 author: "Sarah van den Berg"
 author_bio: "Expat coach and relocation specialist. Half Dutch, half British, living in the Netherlands for over 10 years."
-featured_image: "/images/categories/career.svg"
+featured_image: "/images/featured/freelancer-zzp-guide-netherlands-2026.webp"
 aliases:
   - /guides/work/freelancer-zzp-guide-netherlands-2026/
 faq:

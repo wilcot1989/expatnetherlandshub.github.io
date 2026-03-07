@@ -9,7 +9,7 @@ keywords: ["best gym Netherlands", "fitness Netherlands expat", "gym membership 
 affiliate: true
 author: "Sarah van den Berg"
 author_bio: "Expat coach and relocation specialist. Half Dutch, half British, living in the Netherlands for over 10 years."
-featured_image: "/images/categories/lifestyle.svg"
+featured_image: "/images/featured/best-gyms-fitness-netherlands-2026.webp"
 aliases:
   - /guides/daily-life/best-gyms-fitness-netherlands-2026/
 faq:

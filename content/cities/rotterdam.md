@@ -3,6 +3,7 @@ title: "Rotterdam Expat Guide 2026: Living, Working & Costs"
 description: "Complete expat guide to Rotterdam in 2026. Rent prices, neighbourhoods, jobs, registration, and practical tips."
 date: 2026-03-06T10:00:00+01:00
 lastmod: 2026-03-06
+featured_image: "/images/featured/rotterdam.webp"
 ---
 
 ## Rotterdam at a Glance

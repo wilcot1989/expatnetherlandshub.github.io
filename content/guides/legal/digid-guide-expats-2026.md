@@ -9,7 +9,7 @@ keywords: ["DigiD Netherlands", "DigiD expat", "how to get DigiD", "Dutch digita
 affiliate: true
 author: "Sarah van den Berg"
 author_bio: "Expat coach and relocation specialist. Half Dutch, half British, living in the Netherlands for over 10 years."
-featured_image: "/images/categories/daily-life.svg"
+featured_image: "/images/featured/digid-guide-expats-2026.webp"
 aliases:
   - /guides/legal/digid-guide-expats-2026/
 faq:

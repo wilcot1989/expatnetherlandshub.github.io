@@ -9,7 +9,7 @@ keywords: ["cost of living netherlands", "living expenses netherlands 2026", "bu
 affiliate: true
 author: "Sarah van den Berg"
 author_bio: "Expat coach and relocation specialist. Half Dutch, half British, living in the Netherlands for over 10 years."
-featured_image: "/images/categories/relocation.svg"
+featured_image: "/images/featured/cost-of-living-netherlands-2026.webp"
 aliases:
   - /guides/housing/cost-of-living-netherlands-2026/
 faq:

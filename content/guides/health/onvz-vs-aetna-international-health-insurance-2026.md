@@ -9,7 +9,7 @@ keywords: ["ONVZ vs Aetna expats Netherlands", "international health insurance N
 affiliate: false
 author: "Sarah van den Berg"
 author_bio: "Expat coach and relocation specialist. Half Dutch, half British, living in the Netherlands for over 10 years."
-featured_image: "/images/categories/health.svg"
+featured_image: "/images/featured/onvz-vs-aetna-international-health-insurance-2026.webp"
 faq:
   - q: "Do I have to take Dutch health insurance (zorgverzekering) or can I use Aetna International instead?"
     a: "It depends on your situation. If you live and work in the Netherlands under Dutch social insurance (most employees and self-employed residents), you are legally required to have a Dutch basisverzekering. An international plan like Aetna International does not fulfil this legal obligation. However, if you are posted to the Netherlands by a foreign employer and covered by their home-country social security (typically via an A1 or certificate of coverage), you may be exempt from the Dutch system. Highly paid assignees on specific visa categories and employees of certain international organisations (UN, NATO, diplomatic missions) are also often exempt. If in doubt, check with the SVB (Sociale Verzekeringsbank) or a Dutch employment lawyer."

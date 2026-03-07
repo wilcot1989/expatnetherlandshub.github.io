@@ -4,6 +4,7 @@ description: "Disclaimers for Expat Netherlands Hub: affiliate disclosure, accur
 date: 2026-03-06T10:00:00+01:00
 lastmod: 2026-03-06
 layout: single
+featured_image: "/images/featured/disclaimer.webp"
 ---
 
 ## General Disclaimer

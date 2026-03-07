@@ -9,7 +9,7 @@ keywords: ["bunq vs N26 Netherlands", "best digital bank expats NL", "bunq or N2
 affiliate: true
 author: "Sarah van den Berg"
 author_bio: "Expat coach and relocation specialist. Half Dutch, half British, living in the Netherlands for over 10 years."
-featured_image: "/images/categories/finance.svg"
+featured_image: "/images/featured/bunq-vs-n26-expats-netherlands-2026.webp"
 faq:
   - q: "Does bunq or N26 offer a Dutch IBAN?"
     a: "Bunq provides a Dutch IBAN (NL prefix), which is necessary for many Dutch services, employers, and landlords. N26 provides a German IBAN (DE prefix), which can cause issues in the Netherlands due to IBAN discrimination — even though this is technically illegal under EU regulations."

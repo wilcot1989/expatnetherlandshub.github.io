@@ -9,7 +9,7 @@ keywords: ["moving to Groningen expat", "Groningen expat guide 2026", "living in
 affiliate: false
 author: "Sarah van den Berg"
 author_bio: "Expat coach and relocation specialist. Half Dutch, half British, living in the Netherlands for over 10 years."
-featured_image: "/images/categories/housing.svg"
+featured_image: "/images/featured/moving-to-groningen-guide-2026.webp"
 faq:
   - q: "Is Groningen good for expats?"
     a: "Groningen is an excellent choice for expats working at the University of Groningen, UMCG, or in the energy and research sectors. It is the Netherlands' youngest city by average age, with a large international academic community, genuinely affordable housing by Dutch standards, and a cultural scene that punches well above its size. The main challenge is distance from the Randstad — Amsterdam is 2 hours 15 minutes by train — which matters if your job or family requires regular travel south. For those who can work locally or remotely, the quality of life is high and the cost of living substantially lower than the west."

@@ -9,7 +9,7 @@ keywords: ["Dutch employment contract expat", "arbeidsovereenkomst explained", "
 affiliate: false
 author: "Sarah van den Berg"
 author_bio: "Expat coach and relocation specialist. Half Dutch, half British, living in the Netherlands for over 10 years."
-featured_image: "/images/categories/work.svg"
+featured_image: "/images/featured/dutch-employment-contract-explained-2026.webp"
 faq:
   - question: "What is the difference between a bepaalde tijd and onbepaalde tijd contract?"
     answer: "A bepaalde tijd contract is a fixed-term contract with a defined end date. An onbepaalde tijd contract is a permanent contract with no end date. Under the ketenregeling (chain rule), after three consecutive fixed-term contracts or three years of employment with the same employer — whichever comes first — you are legally entitled to a permanent contract. Most employers offer onbepaalde tijd after this threshold is reached, though many will offer it sooner to retain good employees."

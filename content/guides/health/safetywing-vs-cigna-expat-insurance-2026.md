@@ -9,7 +9,7 @@ keywords: ["SafetyWing vs Cigna expats", "best expat insurance Netherlands", "Sa
 affiliate: true
 author: "Sarah van den Berg"
 author_bio: "Expat coach and relocation specialist. Half Dutch, half British, living in the Netherlands for over 10 years."
-featured_image: "/images/categories/health.svg"
+featured_image: "/images/featured/safetywing-vs-cigna-expat-insurance-2026.webp"
 faq:
   - q: "Can SafetyWing replace Dutch health insurance (basisverzekering)?"
     a: "No. SafetyWing is travel and emergency medical insurance, not a regulated health insurance product under Dutch law. If you are legally required to have a Dutch basisverzekering — which applies to most residents working in the Netherlands — SafetyWing does not fulfil that obligation. Using SafetyWing instead of basisverzekering will leave you exposed to fines from the CAK (Centraal Administratie Kantoor) and potentially large uninsured medical bills. SafetyWing can work as a short-term supplement while you are in the process of registering or for people who are legally exempt from the Dutch system (such as certain posted workers or international organisation employees), but it should not be treated as a permanent replacement."

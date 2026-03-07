@@ -9,7 +9,7 @@ keywords: ["dutch supermarkets expats", "best supermarket netherlands", "Albert 
 affiliate: false
 author: "Sarah van den Berg"
 author_bio: "Expat coach and relocation specialist. Half Dutch, half British, living in the Netherlands for over 10 years."
-featured_image: "/images/categories/daily-life.svg"
+featured_image: "/images/featured/dutch-supermarkets-guide-expats-2026.webp"
 faq:
   - q: "Is Albert Heijn or Jumbo better for expats?"
     a: "It depends on what matters most to you. Albert Heijn is the better choice if you prioritise an extensive English-friendly app, wide product range, international products, and convenient AH to go locations. Jumbo wins on price for a comparable quality shop, has more space in its larger stores, and offers a 'Geen Gedoe' price guarantee. Many expats do a main weekly shop at Jumbo and top up at Albert Heijn for specific items or convenience. If you live in the Randstad and are on a tight budget, Dirk van den Broek offers the lowest prices of any full-service supermarket."

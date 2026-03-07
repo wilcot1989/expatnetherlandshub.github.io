@@ -4,6 +4,7 @@ description: "Get in touch with the Expat Netherlands Hub team. Questions, feedb
 date: 2026-03-06T10:00:00+01:00
 lastmod: 2026-03-06
 layout: single
+featured_image: "/images/featured/contact.webp"
 ---
 
 ## Get in Touch

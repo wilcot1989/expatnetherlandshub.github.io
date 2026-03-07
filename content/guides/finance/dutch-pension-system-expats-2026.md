@@ -9,7 +9,7 @@ keywords: ["Dutch pension system expat", "AOW pension Netherlands", "employer pe
 affiliate: true
 author: "Sarah van den Berg"
 author_bio: "Expat coach and relocation specialist. Half Dutch, half British, living in the Netherlands for over 10 years."
-featured_image: "/images/categories/finance.svg"
+featured_image: "/images/featured/dutch-pension-system-expats-2026.webp"
 aliases:
   - /guides/finance/dutch-pension-system-expats-2026/
 faq:

@@ -7,7 +7,7 @@ author: "Sarah van den Berg"
 author_bio: "Expat coach and relocation specialist. Half Dutch, half British, living in the Netherlands for over 10 years."
 categories: ["finance"]
 type: "guide"
-featured_image: "/images/categories/finance.svg"
+featured_image: "/images/featured/dutch-tax-return-how-to-file-2026.webp"
 affiliate: false
 description: "How to file your Dutch tax return as an expat in 2026. Step-by-step, deadlines, boxes, 30% ruling, deductions and common mistakes explained."
 tags:

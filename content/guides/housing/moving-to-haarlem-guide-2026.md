@@ -9,7 +9,7 @@ keywords: ["moving to Haarlem as expat", "living in Haarlem Netherlands", "Haarl
 affiliate: false
 author: "Sarah van den Berg"
 author_bio: "Expat coach and relocation specialist. Half Dutch, half British, living in the Netherlands for over 10 years."
-featured_image: "/images/categories/housing.svg"
+featured_image: "/images/featured/moving-to-haarlem-guide-2026.webp"
 faq:
   - q: "Is Haarlem a good place to live for expats?"
     a: "Haarlem is an excellent choice for expats, particularly those who want Amsterdam's quality of life without the chaos and cost. The city has a growing international community, good transport links (15 minutes by direct train to Amsterdam Centraal), excellent cycling infrastructure, and a beautiful historic centre. English is widely spoken in shops, restaurants, and services. The main drawbacks are that the housing market has tightened significantly in recent years, and Haarlem lacks the depth of expat-specific services you find in Amsterdam or The Hague."

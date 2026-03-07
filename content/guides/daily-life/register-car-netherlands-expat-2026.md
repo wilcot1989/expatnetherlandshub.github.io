@@ -9,7 +9,7 @@ keywords: ["register car Netherlands expat", "RDW car registration", "BPM tax im
 affiliate: false
 author: "Sarah van den Berg"
 author_bio: "Expat coach and relocation specialist. Half Dutch, half British, living in the Netherlands for over 10 years."
-featured_image: "/images/categories/daily-life.svg"
+featured_image: "/images/featured/register-car-netherlands-expat-2026.webp"
 faq:
   - q: "Do I need a BSN to register a car in the Netherlands?"
     a: "Yes, you need a BSN (citizen service number) to register a vehicle in your name with the RDW. You also need a Dutch home address. If you have just arrived, get your BSN sorted first at your gemeente before starting the car registration process."

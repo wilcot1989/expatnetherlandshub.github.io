@@ -9,7 +9,7 @@ keywords: ["job interview tips Netherlands", "Dutch job interview expat", "inter
 affiliate: false
 author: "Sarah van den Berg"
 author_bio: "Expat coach and relocation specialist. Half Dutch, half British, living in the Netherlands for over 10 years."
-featured_image: "/images/categories/work.svg"
+featured_image: "/images/featured/job-interview-tips-netherlands-2026.webp"
 faq:
   - question: "How many rounds of interviews should I expect in the Netherlands?"
     answer: "Most Dutch employers run two to three rounds. The first is typically a short introductory call or video interview (30–45 minutes) to check basic fit. If that goes well, you'll be invited for a longer in-person interview, often with two or three people. Senior or specialist roles frequently add a third round, which might include a case study, presentation or an assessment day. Some larger companies — especially in finance, consulting or tech — also use online cognitive or personality tests between rounds. Build at least two to three weeks into your timeline from first contact to offer."

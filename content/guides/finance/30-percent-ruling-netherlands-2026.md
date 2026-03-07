@@ -9,7 +9,7 @@ keywords: ["30 percent ruling netherlands", "30% ruling 2026", "dutch tax ruling
 affiliate: true
 author: "Sarah van den Berg"
 author_bio: "Expat coach and relocation specialist. Half Dutch, half British, living in the Netherlands for over 10 years."
-featured_image: "/images/categories/finance.svg"
+featured_image: "/images/featured/30-percent-ruling-netherlands-2026.webp"
 aliases:
   - /guides/finance/30-percent-ruling-netherlands-2026/
 faq:

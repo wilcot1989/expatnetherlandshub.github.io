@@ -9,7 +9,7 @@ keywords: ["KvK registration Netherlands expat", "how to register KvK Netherland
 affiliate: false
 author: "Sarah van den Berg"
 author_bio: "Expat coach and relocation specialist. Half Dutch, half British, living in the Netherlands for over 10 years."
-featured_image: "/images/categories/work.svg"
+featured_image: "/images/featured/kvk-registration-expat-guide-2026.webp"
 faq:
   - q: "How much does KvK registration cost in the Netherlands?"
     a: "The one-time registration fee at the KvK (Kamer van Koophandel) is €75.75 in 2026. This covers all legal structures including eenmanszaak, VOF, and BV. There are no annual renewal fees — you pay once when you register. After registration, you will receive both a KvK number and a BTW (VAT) number at no additional cost."

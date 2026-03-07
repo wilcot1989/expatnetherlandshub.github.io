@@ -9,7 +9,7 @@ keywords: ["BSN number Netherlands", "how to get BSN", "gemeente registration ex
 affiliate: false
 author: "Sarah van den Berg"
 author_bio: "Expat coach and relocation specialist. Half Dutch, half British, living in the Netherlands for over 10 years."
-featured_image: "/images/categories/legal.svg"
+featured_image: "/images/featured/bsn-registration-guide-2026.webp"
 faq:
   - q: "How long does it take to get a BSN in the Netherlands?"
     a: "Once you attend your registration appointment at the gemeente, you receive your BSN immediately — it is printed on the confirmation letter. The challenge is getting the appointment itself. In Amsterdam, wait times can be 4-6 weeks. In smaller cities like Leiden or Delft, you can often get an appointment within 1-2 weeks."

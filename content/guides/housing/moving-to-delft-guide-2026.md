@@ -9,7 +9,7 @@ keywords: ["moving to Delft expat", "living in Delft Netherlands", "Delft expat 
 affiliate: false
 author: "Sarah van den Berg"
 author_bio: "Expat coach and relocation specialist. Half Dutch, half British, living in the Netherlands for over 10 years."
-featured_image: "/images/categories/housing.svg"
+featured_image: "/images/featured/moving-to-delft-guide-2026.webp"
 faq:
   - q: "How much does it cost to rent in Delft?"
     a: "A one-bedroom apartment in Delft city centre costs between EUR 900 and EUR 1,300 per month in 2026. Outside the centre, expect EUR 750-1,100. Shared student housing near TU Delft starts around EUR 450-600 per room. Delft is cheaper than Amsterdam, Rotterdam, or The Hague, but prices have risen significantly due to demand from TU Delft students and staff."

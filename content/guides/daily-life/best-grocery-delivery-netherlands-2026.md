@@ -9,7 +9,7 @@ keywords: ["grocery delivery netherlands", "albert heijn delivery", "picnic app"
 affiliate: true
 author: "Sarah van den Berg"
 author_bio: "Expat coach and relocation specialist. Half Dutch, half British, living in the Netherlands for over 10 years."
-featured_image: "/images/categories/daily-life.svg"
+featured_image: "/images/featured/best-grocery-delivery-netherlands-2026.webp"
 aliases:
   - /guides/daily-life/best-grocery-delivery-netherlands-2026/
 faq:

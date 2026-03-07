@@ -9,7 +9,7 @@ keywords: ["dutch mortgage expats 2026", "hypotheek expat netherlands", "buying 
 affiliate: false
 author: "Sarah van den Berg"
 author_bio: "Expat coach and relocation specialist. Half Dutch, half British, living in the Netherlands for over 10 years."
-featured_image: "/images/categories/finance.svg"
+featured_image: "/images/featured/dutch-mortgage-explained-expats-2026.webp"
 faq:
   - q: "Can I get a Dutch mortgage as an expat without a permanent residence permit?"
     a: "Yes, you can. Dutch lenders do not legally require permanent residency to approve a mortgage. What they care about is income stability and your ability to repay. You will typically need a valid residence and work permit, a BSN number, and a Dutch employment contract. If you have a temporary contract, your employer can provide an intentieverklaring (employer intent statement) to show the contract is likely to be renewed. Some lenders are stricter than others, which is why using a mortgage advisor who specialises in expat applications makes a significant difference — they know which lenders are actually expat-friendly rather than just claiming to be."

@@ -9,7 +9,7 @@ keywords: ["highly skilled migrant visa Netherlands", "kennismigrant visa", "wor
 affiliate: true
 author: "Sarah van den Berg"
 author_bio: "Expat coach and relocation specialist. Half Dutch, half British, living in the Netherlands for over 10 years."
-featured_image: "/images/categories/relocation.svg"
+featured_image: "/images/featured/highly-skilled-migrant-visa-netherlands-2026.webp"
 aliases:
   - /guides/legal/highly-skilled-migrant-visa-netherlands-2026/
 faq:
