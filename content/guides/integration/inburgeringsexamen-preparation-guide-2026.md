@@ -322,7 +322,7 @@ Once you pass all components of the inburgeringsexamen, several doors open:
 
 - **Permanent residence permit**: After 5 years of legal residence in the Netherlands, you can apply for an indefinite residence permit. Passing the inburgeringsexamen is a requirement.
 - **Dutch citizenship**: After 5 years of residence (or 3 years if married to a Dutch citizen), you can apply for naturalization. The inburgering diploma is a prerequisite.
-- **Better job opportunities**: B1-level Dutch significantly expands your employment options beyond international companies.
+- **Better job opportunities**: B1-level Dutch significantly expands your employment options beyond international companies. If you obtained qualifications outside the Netherlands, use our free [diploma recognition tool](/tools/diploma-evaluator/) to check if your qualifications are recognized in the Netherlands — many employers and licensing bodies require this before you can practise in regulated professions.
 - **Deeper integration**: Understanding Dutch allows you to participate more fully in your community, understand your children's school communications, and handle bureaucracy independently.
 
 ---

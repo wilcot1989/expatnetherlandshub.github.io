@@ -73,6 +73,8 @@ Your employer submits the residence permit application to the IND on your behalf
 - Antecedents certificate (criminal background check from your country)
 - TB test certificate (if from a designated country — check IND list)
 
+If your qualifications are from outside the EU, it is worth checking how they are recognised in the Netherlands before your application. Use our free [diploma recognition tool](/tools/diploma-evaluator/) to check if your qualifications are recognized in the Netherlands.
+
 ### Step 3: IND Processes the Application
 
 Processing time is typically 2-4 weeks for recognized sponsors. The IND may request additional documents during this period.
@@ -167,7 +169,7 @@ Once you have your BSN and residence permit, complete these steps:
 
 - **Banking:** Open a Dutch account — use <a href="https://wise.com/invite/ihpc/willemt52" rel="nofollow sponsored" target="_blank">Wise</a> for international transfers while waiting for your Dutch account. See our [best bank accounts guide](/guides/finance/best-bank-account-expats-netherlands-2026/).
 
-- **Health insurance:** Compare and choose your plan. Use <a href="https://www.awin1.com/awclick.php?mid=8558&id=2776410" rel="nofollow sponsored" target="_blank">Independer.nl</a> to compare Dutch health insurance plans. Read our [complete health insurance guide](/guides/health/dutch-health-insurance-guide-expats-2026/). If you are still in the gap period before your Dutch registration is finalised and you need temporary emergency medical coverage, <a href="https://safetywing.com/?referenceID=digitalshieldpro" rel="nofollow sponsored" target="_blank">SafetyWing</a> offers affordable short-term cover from around $45/month — useful as a stop-gap, though it does not replace the Dutch basisverzekering you will be required to hold once you are registered.
+- **Health insurance:** Compare and choose your plan. Use <a href="https://www.awin1.com/awclick.php?mid=8558&id=2776410" rel="nofollow sponsored" target="_blank">Independer.nl</a> to compare Dutch health insurance plans. Read our [complete health insurance guide](/guides/health/dutch-health-insurance-guide-expats-2026/). If you are still in the gap period before your Dutch registration is finalised and you need temporary emergency medical coverage, <a href="https://safetywing.com/nomad-insurance/?referenceID=26482728&utm_source=26482728&utm_medium=Ambassador" rel="nofollow sponsored" target="_blank">SafetyWing</a> offers affordable short-term cover from around $45/month — useful as a stop-gap, though it does not replace the Dutch basisverzekering you will be required to hold once you are registered.
 
 - **Taxes:** Understand the [Dutch tax system](/guides/finance/dutch-tax-system-expats-guide-2026/) and make sure the 30% ruling is applied.
 

@@ -53,13 +53,13 @@ New to the Netherlands? Start with our [complete expat guide](/guides/legal/comp
 
 Want to explore the Netherlands during public holidays without language barriers? Booking travel from your home country is easier with geo-restrictions removed — NordVPN lets you access your familiar booking platforms wherever you are.
 
-<a href="https://go.nordvpn.net/aff_c?offer_id=612&aff_id=141337&url_id=" target="_blank" rel="noopener nofollow sponsored" class="cta-affiliate">Access home-country travel deals with NordVPN →</a>
+<a href="https://go.nordvpn.net/aff_c?offer_id=612&aff_id=141337&url_id=14830" target="_blank" rel="noopener nofollow sponsored" class="cta-affiliate">Access home-country travel deals with NordVPN →</a>
 
 ## The Big Celebrations
 
 ### King's Day (Koningsdag) — April 27
 
-The biggest, loudest, most orange holiday in the Netherlands. The entire country celebrates the King's birthday.
+The biggest, loudest, most orange holiday in the Netherlands. The entire country celebrates the King's birthday. If this is your first time experiencing it, the [King's Day guide for expats](/guides/daily-life/kings-day-guide-expats-2026/) walks you through everything — what to wear, where to go, and how to survive the vrijmarkt.
 
 **What happens:**
 - **Vrijmarkt** — Everyone sells their stuff on the street (the only day you can trade tax-free)

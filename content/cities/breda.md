@@ -107,6 +107,18 @@ Within the city, cycling is the default mode of transport, as it is everywhere i
 
 If you drive, Breda is well connected: the A16 runs south to Antwerp and north to Rotterdam; the A27 connects north to Utrecht. Parking in the centre is expensive at €2.50–€3.50 per hour. For everyday life within the city, a car is largely unnecessary.
 
+## Getting Started in Breda
+
+Moving to Breda requires a few essential steps. Here are the most important ones:
+
+**Open a bank account** — You'll need a Dutch bank account for rent, salary, and daily expenses. [Wise](https://wise.com/invite/ihpc/willemt52) offers a multi-currency account that works from day one, even before your BSN arrives. <a href="https://wise.com/invite/ihpc/willemt52" target="_blank" rel="noopener nofollow sponsored" class="cta-affiliate">Open a Wise account →</a>
+
+**Get health insurance** — Dutch health insurance (zorgverzekering) is mandatory. Use [Independer](https://www.awin1.com/cread.php?awinmid=8558&awinaffid=2776410&ued=https%3A%2F%2Fwww.independer.nl%2Fzorgverzekering) to compare all Dutch health insurers in English. <a href="https://www.awin1.com/cread.php?awinmid=8558&awinaffid=2776410&ued=https%3A%2F%2Fwww.independer.nl%2Fzorgverzekering" target="_blank" rel="noopener nofollow sponsored" class="cta-affiliate">Compare health insurance →</a>
+
+**Consider expat insurance** — If you're still settling in or working remotely, [SafetyWing](https://safetywing.com/nomad-insurance/?referenceID=26482728&utm_source=26482728&utm_medium=Ambassador) provides affordable global coverage from $45/month. <a href="https://safetywing.com/nomad-insurance/?referenceID=26482728&utm_source=26482728&utm_medium=Ambassador" target="_blank" rel="noopener nofollow sponsored" class="cta-affiliate">Get SafetyWing coverage →</a>
+
+**Plan your budget** — Use our free [cost of living calculator](/tools/cost-of-living-calculator/) and [housing budget checker](/tools/housing-budget-checker/) to see what you can afford in Breda.
+
 ## Related Guides
 
 - [Moving to Breda: Complete Guide 2026](/guides/housing/moving-to-breda-guide-2026/) — the detailed guide covering housing, neighbourhoods, pros and cons, and more

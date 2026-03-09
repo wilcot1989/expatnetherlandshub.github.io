@@ -76,7 +76,7 @@ Housing is by far the largest expense for expats in the Netherlands, and prices 
 
 ### Tips for Reducing Housing Costs
 
-1. **Look beyond the Randstad**: Cities like Eindhoven, [Groningen](/cities/groningen/), Tilburg, and Arnhem offer significantly lower rents with good quality of life
+1. **Look beyond the Randstad**: Cities like Eindhoven, [Groningen](/cities/groningen/), [Tilburg](/cities/tilburg/), [Arnhem](/cities/arnhem/), [Nijmegen](/cities/nijmegen/), and [Almere](/cities/almere/) offer significantly lower rents with good quality of life. [Amstelveen](/cities/amstelveen/) is pricier but offers good value compared to central Amsterdam with easy metro access.
 2. **Consider suburban areas**: Towns near major cities often offer 20-30% lower rents with good train connections
 3. **House-sharing**: Common among young expats, especially in Amsterdam, and can cut housing costs by 30-50%
 4. **Social housing (sociale huur)**: If your income qualifies, regulated housing is much cheaper, though waiting lists can be years long
@@ -273,9 +273,12 @@ Budget EUR 10-25 per month for a SIM-only mobile plan with 5-15 GB of data. See 
 | Museum (Museumkaart for 500+ museums) | EUR 70/year |
 | Swimming pool (single visit) | EUR 5-8 |
 | Sports club membership (vereniging) | EUR 20-60/month |
+| Gym membership (standalone gym) | EUR 20-50/month |
 | Concert / event ticket | EUR 20-80 |
 
 **Pro tip**: The Museumkaart (EUR 70 per year) gives you access to over 500 museums across the Netherlands, including the Rijksmuseum, Van Gogh Museum, and Mauritshuis. If you visit more than 4-5 museums per year, it pays for itself.
+
+For fitness specifically, the Netherlands has a wide range of gym options from budget chains to premium clubs. Prices and quality vary significantly by city — see the [best gyms and fitness options in the Netherlands](/guides/daily-life/best-gyms-fitness-netherlands-2026/) for a full comparison.
 
 ---
 

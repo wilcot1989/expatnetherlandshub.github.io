@@ -421,7 +421,7 @@ For expats who want to reach conversational Dutch as efficiently as possible, he
 - **Continue**: Regular tutoring sessions for conversation and error correction
 - **Add**: NT2 exam preparation if needed for inburgering
 - **Practice**: Speak Dutch in daily situations: at the supermarket, with neighbors, in meetings
-- **Join**: A Dutch book club, sports team, or community group where Dutch is spoken
+- **Join**: A Dutch book club, sports team, or community group where Dutch is spoken. Learning Dutch also has a direct impact on your social life — the [making friends in the Netherlands guide](/guides/integration/making-friends-netherlands-expats-2026/) explains why language is one of the most important keys to genuine integration.
 
 ### Ongoing: Maintain and Improve
 

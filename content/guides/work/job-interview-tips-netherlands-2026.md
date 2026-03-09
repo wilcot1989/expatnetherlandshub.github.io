@@ -245,6 +245,7 @@ Priya, by the way, ended up at a project management role at a mid-sized logistic
 - [Understanding Dutch Work Culture: A Complete Expat Guide](/guides/work/dutch-work-culture-guide-expats-2026/)
 - [The 30% Ruling Explained: Are You Eligible?](/guides/finance/30-percent-ruling-guide-2026/)
 - [Going Freelance in the Netherlands: The ZZP Guide](/guides/work/zzp-freelancer-guide-netherlands-2026/)
+- [LinkedIn Tips for Expats in the Netherlands](/guides/work/linkedin-netherlands-expat-tips-2026/) — how to optimize your Dutch market presence and use LinkedIn to find jobs and build your professional network here
 - [Check Your Salary: Is Your Offer Fair?](/tools/salary-checker/)
 
 ---

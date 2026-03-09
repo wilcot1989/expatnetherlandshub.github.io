@@ -261,6 +261,9 @@ Rather than a generic ranking, here is my honest scenario-by-scenario advice:
 ### Best for nightlife and social life
 **Amsterdam** has the widest range and the largest international crowd, but **Rotterdam** is a close second with a younger, more local energy and a growing international scene. If you want to avoid the tourist-heavy nightlife of Amsterdam's centre, Rotterdam will suit you better.
 
+### Best for fitness and active lifestyle
+**Amsterdam**, **Rotterdam**, and **Utrecht** have the most gym options, but every major Dutch city has good fitness infrastructure. The Dutch also cycle everywhere, which counts as daily exercise. See the [guide to the best gyms and fitness clubs in the Netherlands](/guides/daily-life/best-gyms-fitness-netherlands-2026/) for a city-by-city breakdown of the main chains and boutique options.
+
 ### Best for work-life balance
 **Utrecht** and **Leiden**. Both are smaller than Amsterdam and Rotterdam, have good green space nearby, are easy to cycle around, and offer access to larger cities without being consumed by them. In both cities, the commute to work is typically short, housing is not impossible to find, and there is still enough going on culturally that you do not feel like you are giving something up.
 
@@ -276,6 +279,16 @@ The eight cities above cover most expat situations, but the Netherlands has seve
 **Delft** — 15 minutes from The Hague by train, home to Delft University of Technology. If you work in engineering or research and want a smaller, quieter base than Rotterdam or The Hague, Delft is excellent. It is extremely bicycle-friendly and genuinely beautiful.
 
 **Haarlem** — 20 minutes from Amsterdam by train and popular with expats who work in Amsterdam but want a quieter home base. Rents are lower than Amsterdam but not dramatically so. It has a well-preserved historic centre and a strong local community.
+
+**[Almere](/cities/almere/)** — built on reclaimed polder land 25 minutes from Amsterdam by train, Almere is where many expats priced out of the capital end up. Rents are EUR 950–1,200 for a one-bedroom — significantly cheaper than Amsterdam — and the infrastructure is modern. It lacks the atmosphere of older Dutch cities, but it works well as a commuter base. Worth considering seriously if Amsterdam is your job market but not your budget.
+
+**[Amstelveen](/cities/amstelveen/)** — sits directly south of Amsterdam with metro connections to the city centre in around 25 minutes. One of the most internationally concentrated towns in the Netherlands — KPMG and ABN AMRO have major operations here, and the Japanese and Korean expat communities have built real infrastructure. Rents are EUR 1,200–1,550 for a one-bedroom. An excellent choice if you work in the Schiphol corridor or in Amsterdam's southern business district.
+
+**[Tilburg](/cities/tilburg/)** — the seventh-largest city in the Netherlands, in North Brabant between Breda and Eindhoven. A genuine city with a university, a growing tech and creative sector, and rents at EUR 850–1,100 — among the lowest for a city of its size. If you work in logistics, education, or tech in the southern Netherlands, Tilburg deserves attention.
+
+**[Arnhem](/cities/arnhem/)** — capital of Gelderland in the east, with access to the Veluwe and Hoge Veluwe National Park. Rents are EUR 900–1,150, significantly cheaper than Randstad cities. Employers include Alliander (energy), Rijnstate Hospital, and ArtEZ University of the Arts. Good for people with ties to Germany — Düsseldorf is about 90 minutes by train. See the full [Arnhem city guide](/cities/arnhem/).
+
+**[Nijmegen](/cities/nijmegen/)** — the Netherlands' oldest city, on the Waal river near the German border. Radboud University and Radboudumc make it a hub for academic, medical, and research professionals. NXP Semiconductors also has a major presence. Rents run EUR 950–1,200, and English is widely spoken in professional circles. See the full [Nijmegen city guide](/cities/nijmegen/).
 
 **Den Bosch (s-Hertogenbosch)** — a pleasant mid-sized city in the south, well connected to both Amsterdam (1 hour) and Eindhoven (30 minutes). Good for families who want more space.
 

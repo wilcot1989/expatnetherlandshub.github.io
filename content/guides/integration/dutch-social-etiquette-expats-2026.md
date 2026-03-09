@@ -278,6 +278,8 @@ The social etiquette here is learnable, and most of it follows a logic once you 
 
 One last thing worth saying: if you break a rule, acknowledge it simply and move on. Dutch people are not looking to shame you for not knowing the three-kiss protocol or the birthday circle. They are, however, watching to see how you respond when you get it wrong. Owning a mistake directly — without excessive apology or self-flagellation — is itself very Dutch, and will do more for your standing than getting everything right from the start.
 
+Understanding these social norms is only part of the challenge — building an actual social circle as an expat takes longer than most people expect. The honest picture is in the [making friends in the Netherlands guide](/guides/integration/making-friends-netherlands-expats-2026/). And if you want to experience Dutch social culture at its most spectacular, [King's Day](/guides/daily-life/kings-day-guide-expats-2026/) (April 27) is genuinely the best single day to meet people and get absorbed into the life of wherever you live.
+
 ---
 
 *Sarah van den Berg is an expat coach and relocation specialist based in the Netherlands. Half Dutch, half British, she has been helping internationals settle into Dutch life for over a decade.*

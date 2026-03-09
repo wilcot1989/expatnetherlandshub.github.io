@@ -281,6 +281,7 @@ Whatever you decide, take the time to visit both countries, speak to expats alre
 ## Related Articles
 
 - [Complete Guide to Moving to the Netherlands](/guides/legal/complete-guide-moving-to-netherlands-2026/)
+- [Netherlands vs UK for Expats](/guides/integration/netherlands-vs-uk-expats-2026/) — if you are coming from the UK and weighing your options
 - [The 30% Ruling Explained](/guides/finance/30-percent-ruling-netherlands-2026/)
 - [Dutch Health Insurance Guide for Expats](/guides/health/dutch-health-insurance-guide-expats-2026/)
 - [Cost of Living in the Netherlands 2026](/guides/housing/cost-of-living-netherlands-2026/)

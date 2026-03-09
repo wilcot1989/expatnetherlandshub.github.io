@@ -313,4 +313,5 @@ And — when in doubt — bring good cake.
 - [Dutch Health Insurance: Complete Guide](/guides/health/dutch-health-insurance-guide-expats-2026/)
 - [Highly Skilled Migrant Visa Netherlands](/guides/legal/highly-skilled-migrant-visa-netherlands-2026/)
 - [Complete Guide to Moving to the Netherlands](/guides/legal/complete-guide-moving-to-netherlands-2026/)
+- [LinkedIn Tips for Expats in the Netherlands](/guides/work/linkedin-netherlands-expat-tips-2026/)
 - [Salary Checker Tool](/tools/salary-checker/)

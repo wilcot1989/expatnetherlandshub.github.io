@@ -245,11 +245,13 @@ Many municipalities also offer free or subsidized Dutch language courses (inburg
 
 ## Practical Tips from Experienced Expats
 
-1. **Bring apostilled documents**: Birth certificates, marriage certificates, and diplomas should be apostilled in your home country before you move. Getting this done later is much more difficult.
+1. **Bring apostilled documents**: Birth certificates, marriage certificates, and diplomas should be apostilled in your home country before you move. Getting this done later is much more difficult. If your qualifications are from outside the EU, use our free [diploma recognition tool](/tools/diploma-evaluator/) to check if your qualifications are recognized in the Netherlands before you arrive.
 
 2. **Set realistic expectations for housing**: The housing market is tight. Be flexible on location and be ready to decide quickly when you find something suitable.
 
-3. **Build your social network early**: Join expat groups, attend meetups, and consider joining a sports club (vereniging). The Dutch social scene often revolves around clubs and organized activities.
+3. **If you are moving with pets**: The Netherlands has specific rules for bringing animals from non-EU countries, including microchipping, rabies vaccination, and EU health certificates. Start the process at least 3-4 months before your move. Our [pet relocation guide](/guides/daily-life/pet-relocation-netherlands-2026/) covers the exact requirements by country of origin.
+
+4. **Build your social network early**: Join expat groups, attend meetups, and consider joining a sports club (vereniging). The Dutch social scene often revolves around clubs and organized activities. The [making friends in the Netherlands guide](/guides/integration/making-friends-netherlands-expats-2026/) covers what actually works.
 
 4. **Get used to directness**: Dutch communication is famously direct. It is not rudeness; it is cultural. You will come to appreciate the clarity.
 
@@ -332,7 +334,7 @@ For a detailed walkthrough of Dutch health insurance specifically — which insu
 
 ## Final Thoughts
 
-Moving to the Netherlands is a big step, but the country rewards those who make the effort. With excellent infrastructure, a strong economy, a central European location, and a welcoming (if sometimes blunt) culture, it is a fantastic place to build a new chapter.
+Moving to the Netherlands is a big step, but the country rewards those who make the effort. With excellent infrastructure, a strong economy, a central European location, and a welcoming (if sometimes blunt) culture, it is a fantastic place to build a new chapter. If you are still deciding between countries, the [Netherlands vs UK guide](/guides/integration/netherlands-vs-uk-expats-2026/) and the [Netherlands vs Germany guide](/guides/integration/netherlands-vs-germany-expats-2026/) compare the key factors side by side.
 
 The key to a smooth transition is preparation. Handle your visa and housing early, register at your gemeente as soon as possible, and set up your key services — banking, insurance, phone, and transport — in the first two weeks.
 

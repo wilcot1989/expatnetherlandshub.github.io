@@ -312,6 +312,8 @@ For the tax return implications — particularly if you have pension income from
 ## Explore More Expat Guides
 
 - **[Dutch Tax System for Expats](/guides/finance/dutch-tax-system-expats-guide-2026/)** — Taxes and deductions
+- **[Dutch Inheritance Tax for Expats](/guides/finance/dutch-inheritance-tax-expats-2026/)** — If you own property or assets in the Netherlands, inheritance tax affects your estate planning
+- **[Zorgtoeslag and Huurtoeslag Guide](/guides/finance/zorgtoeslag-huurtoeslag-expats-2026/)** — Government allowances that can supplement your income
 - **[Expat Tax Return Netherlands](/guides/finance/expat-tax-return-netherlands-2026/)** — How to file step by step
 - **[The 30% Ruling](/guides/finance/30-percent-ruling-netherlands-2026/)** — Tax advantage explained
 - **[Best Bank Accounts for Expats](/guides/finance/best-bank-account-expats-netherlands-2026/)** — Where to save

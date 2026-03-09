@@ -285,6 +285,8 @@ In the Netherlands, the GP (huisarts) is your medical gatekeeper. You cannot see
 
 **Tip**: Register with a GP as soon as you have your health insurance. In popular neighborhoods, especially in Amsterdam and other large cities, many GPs have waiting lists. Do not wait until you are sick to find one.
 
+As an expat, you may specifically want a GP who speaks English or who is experienced with international patients. Our guide to [finding English-speaking doctors in the Netherlands](/guides/health/find-english-speaking-doctor-netherlands-2026/) covers how to search by city, what to expect from the Dutch GP system, and when you will need a referral to a specialist.
+
 ---
 
 ## Special Situations

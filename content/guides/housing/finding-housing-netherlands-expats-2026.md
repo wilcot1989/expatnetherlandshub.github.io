@@ -56,11 +56,11 @@ Before you start searching, understand what you will realistically pay. These fi
 | [Rotterdam](/cities/rotterdam/) | EUR 1,100 - 1,700 | EUR 1,400 - 2,300 | High |
 | [Utrecht](/cities/utrecht/) | EUR 1,300 - 1,900 | EUR 1,600 - 2,600 | Very high |
 | [Eindhoven](/cities/eindhoven/) | EUR 900 - 1,400 | EUR 1,200 - 1,800 | Moderate |
-| Groningen | EUR 800 - 1,200 | EUR 1,000 - 1,600 | Moderate |
-| Leiden | EUR 1,100 - 1,600 | EUR 1,400 - 2,200 | High |
-| Maastricht | EUR 800 - 1,200 | EUR 1,000 - 1,600 | Moderate |
-| Haarlem | EUR 1,200 - 1,700 | EUR 1,500 - 2,400 | High |
-| Delft | EUR 1,000 - 1,500 | EUR 1,300 - 2,000 | Moderate-High |
+| [Groningen](/cities/groningen/) | EUR 800 - 1,200 | EUR 1,000 - 1,600 | Moderate |
+| [Leiden](/cities/leiden/) | EUR 1,100 - 1,600 | EUR 1,400 - 2,200 | High |
+| [Maastricht](/cities/maastricht/) | EUR 800 - 1,200 | EUR 1,000 - 1,600 | Moderate |
+| [Haarlem](/cities/haarlem/) | EUR 1,200 - 1,700 | EUR 1,500 - 2,400 | High |
+| [Delft](/cities/delft/) | EUR 1,000 - 1,500 | EUR 1,300 - 2,000 | Moderate-High |
 
 **Furnished apartments** typically command a premium of 15-30% over unfurnished prices. Short-term rentals (under 12 months) are also significantly more expensive.
 
@@ -275,7 +275,7 @@ The tight Dutch housing market has unfortunately attracted scammers who target d
 
 ### 1. Be Flexible on Location
 
-If Amsterdam is too competitive or expensive, consider nearby cities with excellent transport links. Haarlem, Leiden, Delft, and Almere are all within 30-45 minutes of Amsterdam by train and offer better value.
+If Amsterdam is too competitive or expensive, consider nearby cities with excellent transport links. Haarlem, Leiden, Delft, and [Almere](/cities/almere/) are all within 30-45 minutes of Amsterdam by train and offer better value. [Amstelveen](/cities/amstelveen/) is another strong option — just south of Amsterdam with metro connections and a large international community. For the southern Netherlands, [Tilburg](/cities/tilburg/) offers affordable rents with good connections to Eindhoven and Den Bosch. [Arnhem](/cities/arnhem/) and [Nijmegen](/cities/nijmegen/) in the east are increasingly popular with expats who want a lower cost of living without sacrificing city amenities.
 
 ### 2. Consider Temporary Housing First
 

@@ -152,7 +152,7 @@ As an expat, you likely travel more than average — visiting home, exploring Eu
 
 **World coverage including USA:** Add €20-€50/year for worldwide coverage. A must if you visit the US or Canada where medical costs are extremely high.
 
-For international travel insurance that works globally, <a href="https://safetywing.com/?referenceID=digitalshieldpro" rel="nofollow sponsored" target="_blank">SafetyWing Nomad Insurance</a> offers flexible monthly coverage starting at $45/month — ideal for expats who travel frequently or work remotely.
+For international travel insurance that works globally, <a href="https://safetywing.com/nomad-insurance/?referenceID=26482728&utm_source=26482728&utm_medium=Ambassador" rel="nofollow sponsored" target="_blank">SafetyWing Nomad Insurance</a> offers flexible monthly coverage starting at $45/month — ideal for expats who travel frequently or work remotely.
 
 ## 5. Disability Insurance (Arbeidsongeschiktheidsverzekering) — For Self-Employed
 
@@ -319,6 +319,7 @@ Not sure which Dutch insurance package is right for your situation? Our [health 
 
 - **[Complete Guide to Moving to the Netherlands](/guides/legal/complete-guide-moving-to-netherlands-2026/)** — Everything you need to know
 - **[Dutch Health Insurance Guide](/guides/health/dutch-health-insurance-guide-expats-2026/)** — The full basisverzekering breakdown
+- **[Finding English-Speaking Doctors in the Netherlands](/guides/health/find-english-speaking-doctor-netherlands-2026/)** — How to find GPs and specialists who work in English
 - **[DigiD Guide for Expats](/guides/legal/digid-guide-expats-2026/)** — Necessary for applying for zorgtoeslag
 - **[Freelancer ZZP Guide](/guides/work/freelancer-zzp-guide-netherlands-2026/)** — Self-employment in the Netherlands
 - **[Highly Skilled Migrant Visa](/guides/legal/highly-skilled-migrant-visa-netherlands-2026/)** — Work permit essentials

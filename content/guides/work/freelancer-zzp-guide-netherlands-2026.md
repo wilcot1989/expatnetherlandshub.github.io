@@ -179,6 +179,8 @@ Read our [complete expat insurance guide](/guides/health/best-expat-insurance-ne
 | **LinkedIn** | Professional networking | Free |
 | **Fiverr** | Quick projects | 20% |
 
+If your professional qualifications were obtained outside the EU, some clients or sectors may ask about recognition. Use our free [diploma recognition tool](/tools/diploma-evaluator/) to check if your qualifications are recognized in the Netherlands before pitching for regulated-sector work.
+
 ### Networking
 
 - **Dutch Startup Association (DSA)** — Tech and startup community

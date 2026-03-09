@@ -306,6 +306,8 @@ A good tax advisor will:
 ## Related Guides
 
 - [The 30% Ruling in the Netherlands 2026: Complete Guide](/guides/finance/30-percent-ruling-netherlands-2026/) -- maximize your expat tax benefit
+- [Zorgtoeslag and Huurtoeslag Guide for Expats](/guides/finance/zorgtoeslag-huurtoeslag-expats-2026/) -- government allowances you may be entitled to claim
+- [Dutch Inheritance Tax for Expats](/guides/finance/dutch-inheritance-tax-expats-2026/) -- what you need to know if you own assets in the Netherlands
 - [Dutch Health Insurance for Expats: Complete Guide 2026](/guides/health/dutch-health-insurance-guide-expats-2026/) -- understand your mandatory insurance
 - [Best Bank Accounts for Expats in the Netherlands 2026](/guides/finance/best-bank-account-expats-netherlands-2026/) -- set up your Dutch banking
 - [Complete Guide to Moving to the Netherlands in 2026](/guides/legal/complete-guide-moving-to-netherlands-2026/) -- your full relocation checklist
