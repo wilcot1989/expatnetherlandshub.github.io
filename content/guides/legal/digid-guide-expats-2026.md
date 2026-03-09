@@ -10,8 +10,6 @@ affiliate: true
 author: "Sarah van den Berg"
 author_bio: "Expat coach and relocation specialist. Half Dutch, half British, living in the Netherlands for over 10 years."
 featured_image: "/images/featured/digid-guide-expats-2026.webp"
-aliases:
-  - /guides/legal/digid-guide-expats-2026/
 faq:
   - q: "What is DigiD?"
     a: "DigiD (Digital Identity) is the Dutch government's online identification system. It is a username and password that verifies your identity when accessing government services online, similar to a digital passport for the internet. You need it to file taxes, access healthcare portals, check your pension, and interact with most government agencies."

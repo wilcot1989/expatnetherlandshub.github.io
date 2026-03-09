@@ -10,8 +10,6 @@ affiliate: true
 author: "Sarah van den Berg"
 author_bio: "Expat coach and relocation specialist. Half Dutch, half British, living in the Netherlands for over 10 years."
 featured_image: "/images/featured/energy-providers-expats-netherlands-2026.webp"
-aliases:
-  - /guides/housing/energy-providers-expats-netherlands-2026/
 faq:
   - q: "How do I choose an energy provider in the Netherlands?"
     a: "Compare providers on comparison sites like Gaslicht.com, Pricewise.nl, or Independer.nl. Key factors: contract type (fixed vs variable vs dynamic), price per kWh, monthly fixed costs, and contract duration. Most contracts are monthly cancellable. Switch anytime for free."

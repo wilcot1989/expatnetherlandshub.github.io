@@ -10,8 +10,6 @@ affiliate: true
 author: "Sarah van den Berg"
 author_bio: "Expat coach and relocation specialist. Half Dutch, half British, living in the Netherlands for over 10 years."
 featured_image: "/images/featured/best-coworking-spaces-netherlands-2026.webp"
-aliases:
-  - /guides/work/best-coworking-spaces-netherlands-2026/
 faq:
   - q: "How much does coworking cost in the Netherlands?"
     a: "Prices vary by city and plan: hot desk (flexible seating) costs €150-€350/month, dedicated desk €250-€500/month, and a private office €400-€1,500/month. Day passes cost €15-€35. Amsterdam is the most expensive, while cities like Eindhoven and Utrecht are 20-30% cheaper."

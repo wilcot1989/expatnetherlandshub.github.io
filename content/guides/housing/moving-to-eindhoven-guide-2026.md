@@ -10,8 +10,6 @@ affiliate: true
 author: "Sarah van den Berg"
 author_bio: "Expat coach and relocation specialist. Half Dutch, half British, living in the Netherlands for over 10 years."
 featured_image: "/images/featured/moving-to-eindhoven-guide-2026.webp"
-aliases:
-  - /guides/housing/moving-to-eindhoven-guide-2026/
 faq:
   - q: "Is Eindhoven good for expats?"
     a: "Eindhoven is excellent for tech and engineering expats. The Brainport region houses ASML, Philips, NXP, and hundreds of tech startups. The international community is large and growing, housing is more affordable than Amsterdam, and the quality of life is high. The main downside is less cultural variety compared to Amsterdam."

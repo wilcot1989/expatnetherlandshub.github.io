@@ -10,8 +10,6 @@ affiliate: true
 author: "Sarah van den Berg"
 author_bio: "Expat coach and relocation specialist. Half Dutch, half British, living in the Netherlands for over 10 years."
 featured_image: "/images/featured/freelancer-zzp-guide-netherlands-2026.webp"
-aliases:
-  - /guides/work/freelancer-zzp-guide-netherlands-2026/
 faq:
   - q: "What is a ZZP in the Netherlands?"
     a: "ZZP stands for Zelfstandige Zonder Personeel — a self-employed person without employees. It is the Dutch equivalent of a sole proprietor or freelancer. ZZP is the most common business structure in the Netherlands with over 1.2 million registered ZZPers."

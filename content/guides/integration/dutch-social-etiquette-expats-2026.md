@@ -10,8 +10,6 @@ affiliate: false
 author: "Sarah van den Berg"
 author_bio: "Expat coach and relocation specialist. Half Dutch, half British, living in the Netherlands for over 10 years."
 featured_image: "/images/featured/dutch-social-etiquette-expats-2026.webp"
-aliases:
-  - /guides/integration/dutch-social-etiquette-expats-2026/
 faq:
   - q: "Why are Dutch people so direct?"
     a: "Dutch directness comes from a cultural value called 'doe maar gewoon' — just act normal — combined with a deep respect for honesty. It is not rudeness. Dutch people consider it a sign of respect to tell you the truth rather than wrap it in polite cushioning. Once you understand this, interactions become much easier."

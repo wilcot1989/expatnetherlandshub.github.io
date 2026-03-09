@@ -10,8 +10,6 @@ affiliate: true
 author: "Sarah van den Berg"
 author_bio: "Expat coach and relocation specialist. Half Dutch, half British, living in the Netherlands for over 10 years."
 featured_image: "/images/featured/dutch-tax-return-checklist-expats-2026.webp"
-aliases:
-  - /guides/finance/dutch-tax-return-checklist-expats-2026/
 faq:
   - q: "What documents do I need for my Dutch tax return?"
     a: "Your jaaropgave (annual income statement from employer), DigiD login credentials, BSN number, bank statements showing savings on January 1st, mortgage annual statement (if applicable), health insurance premium summary, pension contribution overview, and any receipts for deductible expenses (charitable donations, study costs, medical expenses above threshold)."
@@ -137,7 +135,7 @@ Course fees, exam costs, required textbooks, and professional membership fees ca
 
 If you have a pension shortfall — which many expats do, having arrived mid-career — you can make voluntary contributions to a recognised pension product and deduct them from Box 1 income. The jaarruimte (annual allowance) is calculated based on your income. This is one of the bigger deductions available, but it requires some calculation.
 
-For a detailed look at how the pension system works, see [expat pension guide Netherlands](/guides/finance/expat-pension-netherlands-2026/).
+For a detailed look at how the pension system works, see [expat pension guide Netherlands](/guides/finance/dutch-pension-system-expats-2026/).
 
 ---
 

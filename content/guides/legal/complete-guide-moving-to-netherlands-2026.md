@@ -10,8 +10,6 @@ affiliate: true
 author: "Sarah van den Berg"
 author_bio: "Expat coach and relocation specialist. Half Dutch, half British, living in the Netherlands for over 10 years."
 featured_image: "/images/featured/complete-guide-moving-to-netherlands-2026.webp"
-aliases:
-  - /guides/legal/complete-guide-moving-to-netherlands-2026/
 faq:
   - q: "How long does it take to get a BSN number in the Netherlands?"
     a: "You typically receive your BSN (Burgerservicenummer) immediately at the end of your registration appointment at the gemeente. However, booking the appointment itself can take 2-6 weeks depending on the municipality. In Amsterdam and Rotterdam, waiting times are often longer."

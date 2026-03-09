@@ -10,8 +10,6 @@ affiliate: true
 author: "Sarah van den Berg"
 author_bio: "Expat coach and relocation specialist. Half Dutch, half British, living in the Netherlands for over 10 years."
 featured_image: "/images/featured/babbel-vs-duolingo-learn-dutch-2026.webp"
-aliases:
-  - /guides/integration/babbel-vs-duolingo-learn-dutch-2026/
 faq:
   - q: "Is Babbel or Duolingo better for learning Dutch?"
     a: "For most expats serious about learning Dutch, Babbel is the better choice. Its Dutch course is purpose-built with thorough grammar explanations, practical vocabulary, and structured progression. Duolingo is better if you want a free option for casual learning or daily vocabulary maintenance. The ideal approach for many learners is to use Babbel as the primary tool and Duolingo as a free supplement for quick daily practice."

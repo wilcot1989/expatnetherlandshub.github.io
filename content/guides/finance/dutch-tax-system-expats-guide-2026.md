@@ -10,8 +10,6 @@ affiliate: true
 author: "Sarah van den Berg"
 author_bio: "Expat coach and relocation specialist. Half Dutch, half British, living in the Netherlands for over 10 years."
 featured_image: "/images/featured/dutch-tax-system-expats-guide-2026.webp"
-aliases:
-  - /guides/finance/dutch-tax-system-expats-guide-2026/
 faq:
   - q: "Do I have to file a tax return in the Netherlands as an expat?"
     a: "If you are a tax resident of the Netherlands (registered at a Dutch address and living here for the majority of the year), you are generally required to file an annual tax return (aangifte inkomstenbelasting). The Belastingdienst may also send you an invitation to file. Even if you are not required, filing voluntarily can be beneficial if you are entitled to deductions or refunds, such as mortgage interest deduction or healthcare costs."

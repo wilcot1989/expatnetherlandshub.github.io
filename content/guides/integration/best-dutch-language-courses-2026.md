@@ -10,8 +10,6 @@ affiliate: true
 author: "Sarah van den Berg"
 author_bio: "Expat coach and relocation specialist. Half Dutch, half British, living in the Netherlands for over 10 years."
 featured_image: "/images/featured/best-dutch-language-courses-2026.webp"
-aliases:
-  - /guides/integration/best-dutch-language-courses-2026/
 faq:
   - q: "What is the fastest way to learn Dutch as an expat?"
     a: "The fastest approach combines structured learning with immersion. Take an intensive in-person course (15-20 hours per week) for the initial foundation, supplement with a language app like Babbel for daily practice, book weekly conversation sessions on italki or Preply, and immerse yourself by setting your phone to Dutch, watching Dutch TV, and practicing with colleagues. Most dedicated learners reach conversational level within 6-12 months using this combined approach."

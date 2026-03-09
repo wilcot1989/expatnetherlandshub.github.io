@@ -73,7 +73,7 @@ This site is organized into a few main areas:
 - **[Finance guides](/guides/finance/)** — Dutch tax system, the 30% ruling, banking for expats, sending money home
 - **[Daily life guides](/guides/daily-life/)** — cycling, public transport, grocery delivery, healthcare
 - **[Integration guides](/guides/integration/)** — Dutch language learning, work culture, bureaucracy timelines
-- **[Career and work guides](/guides/career/)** — working in the Netherlands, employment contracts, rights
+- **[Career and work guides](/guides/work/)** — working in the Netherlands, employment contracts, rights
 - **[Free expat tools](/tools/)** — calculators and checklists to plan your move
 
 If there's a topic you're struggling with that I haven't covered, email me. Most of my best articles started as a question from a reader.

@@ -10,8 +10,6 @@ affiliate: true
 author: "Sarah van den Berg"
 author_bio: "Expat coach and relocation specialist. Half Dutch, half British, living in the Netherlands for over 10 years."
 featured_image: "/images/featured/moving-to-rotterdam-guide-2026.webp"
-aliases:
-  - /guides/housing/moving-to-rotterdam-guide-2026/
 faq:
   - q: "Is Rotterdam cheaper than Amsterdam?"
     a: "Yes, significantly. Rent in Rotterdam is approximately 20-35% lower than in Amsterdam. A one-bedroom apartment in the center of Rotterdam costs EUR 1,000-1,500 per month compared to EUR 1,400-2,000 in Amsterdam. Groceries, dining out, and general living costs are also moderately lower."

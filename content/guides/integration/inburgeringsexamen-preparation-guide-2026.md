@@ -10,8 +10,6 @@ affiliate: true
 author: "Sarah van den Berg"
 author_bio: "Expat coach and relocation specialist. Half Dutch, half British, living in the Netherlands for over 10 years."
 featured_image: "/images/featured/inburgeringsexamen-preparation-guide-2026.webp"
-aliases:
-  - /guides/integration/inburgeringsexamen-preparation-guide-2026/
 faq:
   - q: "Who is exempt from the inburgeringsexamen?"
     a: "EU/EEA and Swiss citizens are exempt. Other exemptions include those who completed Dutch-language education (such as a Dutch high school diploma or university degree), people under 16 or over the state pension age, those who hold a residence permit as a highly skilled migrant (kennismigrant) or European Blue Card holder, and people who can prove they are unable to take the exam due to a physical or mental disability. The IND and DUO can advise on your specific situation."

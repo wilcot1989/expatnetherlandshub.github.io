@@ -10,8 +10,6 @@ affiliate: true
 author: "Sarah van den Berg"
 author_bio: "Expat coach and relocation specialist. Half Dutch, half British, living in the Netherlands for over 10 years."
 featured_image: "/images/featured/best-expat-insurance-netherlands-2026.webp"
-aliases:
-  - /guides/health/best-expat-insurance-netherlands-2026/
 faq:
   - q: "Is health insurance mandatory for expats in the Netherlands?"
     a: "Yes, if you live and work in the Netherlands, you are legally required to have Dutch basic health insurance (basisverzekering) within 4 months of arriving. This applies to employees, self-employed workers, and their dependents. Students from EU countries may be exempt if they have a European Health Insurance Card (EHIC)."

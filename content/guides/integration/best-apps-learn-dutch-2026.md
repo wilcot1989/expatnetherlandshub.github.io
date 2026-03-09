@@ -10,8 +10,6 @@ affiliate: true
 author: "Sarah van den Berg"
 author_bio: "Expat coach and relocation specialist. Half Dutch, half British, living in the Netherlands for over 10 years."
 featured_image: "/images/featured/best-apps-learn-dutch-2026.webp"
-aliases:
-  - /guides/integration/best-apps-learn-dutch-2026/
 faq:
   - q: "What is the best app to learn Dutch for complete beginners?"
     a: "For complete beginners, Babbel is our top recommendation. Its structured curriculum is specifically designed for each language it teaches, so the Dutch course covers practical vocabulary and grammar from day one. The lessons are bite-sized (10-15 minutes) and build on each other logically. Duolingo is also a good free option for getting started, but Babbel provides more depth and context."

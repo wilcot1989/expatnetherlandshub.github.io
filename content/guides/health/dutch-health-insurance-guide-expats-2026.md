@@ -10,8 +10,6 @@ affiliate: true
 author: "Sarah van den Berg"
 author_bio: "Expat coach and relocation specialist. Half Dutch, half British, living in the Netherlands for over 10 years."
 featured_image: "/images/featured/dutch-health-insurance-guide-expats-2026.webp"
-aliases:
-  - /guides/health/dutch-health-insurance-guide-expats-2026/
 faq:
   - q: "Is health insurance mandatory in the Netherlands?"
     a: "Yes. Everyone who legally lives or works in the Netherlands is required by law to have a basic health insurance policy (basisverzekering). You must arrange this within 4 months of your registration date. If you fail to do so, the CAK (Central Administration Office) will assign you a policy and you may face a fine."

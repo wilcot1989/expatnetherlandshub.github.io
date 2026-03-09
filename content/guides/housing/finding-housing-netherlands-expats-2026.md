@@ -10,8 +10,6 @@ affiliate: true
 author: "Sarah van den Berg"
 author_bio: "Expat coach and relocation specialist. Half Dutch, half British, living in the Netherlands for over 10 years."
 featured_image: "/images/featured/finding-housing-netherlands-expats-2026.webp"
-aliases:
-  - /guides/housing/finding-housing-netherlands-expats-2026/
 faq:
   - q: "How much does it cost to rent an apartment in the Netherlands in 2026?"
     a: "Rental costs vary significantly by city. In Amsterdam, expect EUR 1,500-2,500 per month for a one-bedroom apartment in the private sector. The Hague and Utrecht range from EUR 1,200-1,800. Eindhoven and Groningen are more affordable at EUR 900-1,400. Smaller cities and towns can be as low as EUR 700-1,100. These figures are for unfurnished apartments in the private rental sector."

@@ -10,8 +10,6 @@ affiliate: true
 author: "Sarah van den Berg"
 author_bio: "Expat coach and relocation specialist. Half Dutch, half British, living in the Netherlands for over 10 years."
 featured_image: "/images/featured/best-international-money-transfer-netherlands-2026.webp"
-aliases:
-  - /guides/finance/best-international-money-transfer-netherlands-2026/
 faq:
   - q: "What is the cheapest way to transfer money to the Netherlands?"
     a: "For most currencies and transfer amounts, Wise (formerly TransferWise) offers the lowest total cost, combining a small transparent fee with the mid-market exchange rate. For EUR-to-EUR transfers within Europe, SEPA bank transfers are essentially free or very low cost (typically under EUR 1). For large transfers over EUR 10,000, OFX may offer slightly better exchange rates with no transfer fees. Always compare the total cost (fee plus exchange rate markup) rather than just the advertised fee."

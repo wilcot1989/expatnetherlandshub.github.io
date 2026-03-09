@@ -10,8 +10,6 @@ affiliate: true
 author: "Sarah van den Berg"
 author_bio: "Expat coach and relocation specialist. Half Dutch, half British, living in the Netherlands for over 10 years."
 featured_image: "/images/featured/netherlands-vs-germany-expats-2026.webp"
-aliases:
-  - /guides/integration/netherlands-vs-germany-expats-2026/
 faq:
   - q: "Is it better to live in the Netherlands or Germany as an expat?"
     a: "It depends on your priorities. The Netherlands offers higher English proficiency, the 30% tax ruling for skilled migrants, and a more international work culture. Germany offers lower housing costs (outside Munich and Frankfurt), higher salaries in engineering and manufacturing, and more job opportunities due to its larger economy."

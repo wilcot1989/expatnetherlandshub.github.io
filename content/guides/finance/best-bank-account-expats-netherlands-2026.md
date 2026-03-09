@@ -10,8 +10,6 @@ affiliate: true
 author: "Sarah van den Berg"
 author_bio: "Expat coach and relocation specialist. Half Dutch, half British, living in the Netherlands for over 10 years."
 featured_image: "/images/featured/best-bank-account-expats-netherlands-2026.webp"
-aliases:
-  - /guides/finance/best-bank-account-expats-netherlands-2026/
 faq:
   - q: "Can I open a Dutch bank account without a BSN?"
     a: "Traditional Dutch banks (ING, ABN AMRO, Rabobank) require a BSN to open an account. However, Wise allows you to get a Dutch IBAN without a BSN, and Bunq may let you start the process before your BSN is issued. We recommend opening a Wise account before arriving in the Netherlands so you have a functioning account from day one."

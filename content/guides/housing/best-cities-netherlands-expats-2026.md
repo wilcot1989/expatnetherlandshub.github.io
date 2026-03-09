@@ -10,8 +10,6 @@ affiliate: true
 author: "Sarah van den Berg"
 author_bio: "Expat coach and relocation specialist. Half Dutch, half British, living in the Netherlands for over 10 years."
 featured_image: "/images/featured/best-cities-netherlands-expats-2026.webp"
-aliases:
-  - /guides/housing/best-cities-netherlands-expats-2026/
 faq:
   - q: "What is the best city in the Netherlands for expats?"
     a: "It depends on your priorities. Amsterdam has the most international community and job market but the highest rents (EUR 1,500-1,800 for a 1-bedroom). Rotterdam offers better affordability with a growing international scene. The Hague suits government and NGO workers. Eindhoven is ideal for tech professionals, especially at ASML, Philips, or NXP. For students and young professionals on a budget, Groningen offers the best value."
@@ -276,9 +274,9 @@ Rather than a generic ranking, here is my honest scenario-by-scenario advice:
 
 The eight cities above cover most expat situations, but the Netherlands has several smaller cities that are worth considering depending on your circumstances.
 
-**Delft** — 15 minutes from The Hague by train, home to Delft University of Technology. If you work in engineering or research and want a smaller, quieter base than Rotterdam or The Hague, Delft is excellent. It is extremely bicycle-friendly and genuinely beautiful.
+**[Delft](/cities/delft/)** — 15 minutes from The Hague by train, home to Delft University of Technology. If you work in engineering or research and want a smaller, quieter base than Rotterdam or The Hague, Delft is excellent. It is extremely bicycle-friendly and genuinely beautiful.
 
-**Haarlem** — 20 minutes from Amsterdam by train and popular with expats who work in Amsterdam but want a quieter home base. Rents are lower than Amsterdam but not dramatically so. It has a well-preserved historic centre and a strong local community.
+**[Haarlem](/cities/haarlem/)** — 20 minutes from Amsterdam by train and popular with expats who work in Amsterdam but want a quieter home base. Rents are lower than Amsterdam but not dramatically so. It has a well-preserved historic centre and a strong local community.
 
 **[Almere](/cities/almere/)** — built on reclaimed polder land 25 minutes from Amsterdam by train, Almere is where many expats priced out of the capital end up. Rents are EUR 950–1,200 for a one-bedroom — significantly cheaper than Amsterdam — and the infrastructure is modern. It lacks the atmosphere of older Dutch cities, but it works well as a commuter base. Worth considering seriously if Amsterdam is your job market but not your budget.
 
@@ -290,15 +288,15 @@ The eight cities above cover most expat situations, but the Netherlands has seve
 
 **[Nijmegen](/cities/nijmegen/)** — the Netherlands' oldest city, on the Waal river near the German border. Radboud University and Radboudumc make it a hub for academic, medical, and research professionals. NXP Semiconductors also has a major presence. Rents run EUR 950–1,200, and English is widely spoken in professional circles. See the full [Nijmegen city guide](/cities/nijmegen/).
 
-**Den Bosch (s-Hertogenbosch)** — a pleasant mid-sized city in the south, well connected to both Amsterdam (1 hour) and Eindhoven (30 minutes). Good for families who want more space.
+**[Den Bosch](/cities/den-bosch/) (s-Hertogenbosch)** — a pleasant mid-sized city in the south, well connected to both Amsterdam (1 hour) and Eindhoven (30 minutes). Good for families who want more space.
 
-**Breda** — near the Belgian border, with good transport links and a growing professional services sector. Less obvious as an expat destination but increasingly considered by people relocating to the southern Netherlands.
+**[Breda](/cities/breda/)** — near the Belgian border, with good transport links and a growing professional services sector. Less obvious as an expat destination but increasingly considered by people relocating to the southern Netherlands.
 
 For moving practicalities in any Dutch city, the [complete guide to moving to the Netherlands](/guides/legal/complete-guide-moving-to-netherlands-2026/) covers registration, permits, and the administrative steps you cannot skip.
 
 If you are considering buying rather than renting, see the [expat mortgage options guide](/guides/housing/expat-mortgage-options-netherlands-2026/) — the Dutch mortgage market has specific rules for non-citizens and people with foreign income.
 
-Getting around between cities is easier than most expats expect. The Dutch rail network is dense and relatively reliable. See the [public transport guide](/guides/daily-life/best-dutch-public-transport-ov-guide-2026/) for how OV-chipkaart works and which routes are worth knowing.
+Getting around between cities is easier than most expats expect. The Dutch rail network is dense and relatively reliable. See the [public transport guide](/guides/daily-life/ov-chipkaart-guide-expats-2026/) for how OV-chipkaart works and which routes are worth knowing.
 
 ---
 

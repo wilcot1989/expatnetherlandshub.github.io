@@ -108,7 +108,7 @@ If you had multiple employers in 2025, you'll need a jaaropgave from each one.
 
 The WOZ is the government's assessed value of your property, used to calculate the notional rental income (eigenwoningforfait) added to your Box 1 income. Your municipality sends a WOZ-beschikking letter in the first months of the year. Keep it.
 
-If you're unfamiliar with Dutch mortgages and how property ownership affects your taxes, the [Dutch mortgage guide for expats](/guides/housing/dutch-mortgage-explained-expats-2026/) covers eigenwoningforfait and mortgage interest deduction in detail.
+If you're unfamiliar with Dutch mortgages and how property ownership affects your taxes, the [Dutch mortgage guide for expats](/guides/finance/dutch-mortgage-explained-expats-2026/) covers eigenwoningforfait and mortgage interest deduction in detail.
 
 ### Bank statements
 

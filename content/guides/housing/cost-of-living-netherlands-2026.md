@@ -10,8 +10,6 @@ affiliate: true
 author: "Sarah van den Berg"
 author_bio: "Expat coach and relocation specialist. Half Dutch, half British, living in the Netherlands for over 10 years."
 featured_image: "/images/featured/cost-of-living-netherlands-2026.webp"
-aliases:
-  - /guides/housing/cost-of-living-netherlands-2026/
 faq:
   - q: "How much money do I need to live comfortably in the Netherlands?"
     a: "A single person needs approximately EUR 2,200-3,500 per month depending on the city, excluding rent. Including rent, budget EUR 3,500-5,500 per month in Amsterdam or EUR 2,800-4,200 per month in cities like Eindhoven or Groningen. Couples should add approximately 40-50% to these figures, and families with children should budget EUR 5,000-7,500+ per month including rent."

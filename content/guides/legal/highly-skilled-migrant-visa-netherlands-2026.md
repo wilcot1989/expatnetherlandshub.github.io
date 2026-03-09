@@ -10,8 +10,6 @@ affiliate: true
 author: "Sarah van den Berg"
 author_bio: "Expat coach and relocation specialist. Half Dutch, half British, living in the Netherlands for over 10 years."
 featured_image: "/images/featured/highly-skilled-migrant-visa-netherlands-2026.webp"
-aliases:
-  - /guides/legal/highly-skilled-migrant-visa-netherlands-2026/
 faq:
   - q: "What is the salary requirement for a highly skilled migrant visa in 2026?"
     a: "For applicants aged 30 and over, the minimum gross monthly salary is €5,331 (excluding 8% holiday allowance). For those under 30, it is €3,909. Reduced rates apply for certain categories like researchers and recent graduates from Dutch universities. These amounts are adjusted annually by the IND."

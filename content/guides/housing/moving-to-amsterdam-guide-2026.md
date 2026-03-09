@@ -10,8 +10,6 @@ affiliate: true
 author: "Sarah van den Berg"
 author_bio: "Expat coach and relocation specialist. Half Dutch, half British, living in the Netherlands for over 10 years."
 featured_image: "/images/featured/moving-to-amsterdam-guide-2026.webp"
-aliases:
-  - /guides/housing/moving-to-amsterdam-guide-2026/
 faq:
   - q: "How much does it cost to live in Amsterdam?"
     a: "A single expat should budget approximately EUR 2,200-3,500 per month excluding rent. Rent for a one-bedroom apartment ranges from EUR 1,200-2,000 in the city center and EUR 900-1,500 outside the center. A couple should budget EUR 3,000-5,000 per month excluding rent. These figures include health insurance, groceries, transport, and utilities."

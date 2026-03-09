@@ -10,8 +10,6 @@ affiliate: true
 author: "Sarah van den Berg"
 author_bio: "Expat coach and relocation specialist. Half Dutch, half British, living in the Netherlands for over 10 years."
 featured_image: "/images/featured/expat-mortgage-options-netherlands-2026.webp"
-aliases:
-  - /guides/housing/expat-mortgage-options-netherlands-2026/
 faq:
   - q: "Can expats get a mortgage in the Netherlands?"
     a: "Yes, expats can get mortgages in the Netherlands, even without permanent residency. You typically need a valid residence/work permit, employment contract (preferably permanent), and BSN number. Some lenders specialize in expat mortgages and are more flexible with requirements."
