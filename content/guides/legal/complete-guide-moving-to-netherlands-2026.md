@@ -146,7 +146,7 @@ You will need a Dutch bank account (or at least an IBAN) to receive your salary,
 
 ### Recommended First Step: Wise
 
-Before you even leave your home country, set up a [Wise account](https://wise.com/invite/ihpc/willemt52). Wise (formerly TransferWise) gives you a multi-currency account with a Dutch IBAN, which is incredibly useful during the transition period. You can:
+Before you even leave your home country, set up a [Wise account](https://wise.com/invite/ihpc/willemt52). Wise (formerly TransferWise) gives you a multi-currency account with a European IBAN, which is incredibly useful during the transition period. You can:
 
 - Receive your first salary before opening a traditional Dutch bank account
 - Transfer money between countries at the real exchange rate with low fees

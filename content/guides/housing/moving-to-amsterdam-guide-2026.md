@@ -51,7 +51,7 @@ If you qualify for the 30% ruling, a significant portion of your salary is tax-f
 
 Before arriving in Amsterdam:
 
-1. **Open a <a href="https://wise.com/invite/ihpc/willemt52" rel="nofollow sponsored" target="_blank">Wise account</a>** to get a Dutch IBAN before you arrive. This allows you to receive salary payments and set up direct debits from day one. Read my guide on the [best bank accounts for expats](/guides/finance/best-bank-account-expats-netherlands-2026/).
+1. **Open a <a href="https://wise.com/invite/ihpc/willemt52" rel="nofollow sponsored" target="_blank">Wise account</a>** to get a European IBAN before you arrive. This allows you to receive salary payments and set up direct debits from day one. Read my guide on the [best bank accounts for expats](/guides/finance/best-bank-account-expats-netherlands-2026/).
 2. **Budget for upfront housing costs**: Expect to pay 2-3 months' rent upfront (first month plus deposit). For an average Amsterdam apartment, that means EUR 2,400-6,000 available immediately.
 3. **Arrange health insurance**: Dutch health insurance (zorgverzekering) is mandatory. Research options before arriving. See our [Dutch health insurance guide for expats](/guides/health/dutch-health-insurance-guide-expats-2026/).
 4. **Transfer money at good rates**: Use <a href="https://wise.com/invite/ihpc/willemt52" rel="nofollow sponsored" target="_blank">Wise</a> or a similar service for international transfers instead of traditional banks. Read our [international money transfer guide](/guides/finance/best-international-money-transfer-netherlands-2026/).

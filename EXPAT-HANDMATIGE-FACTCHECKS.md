@@ -12,12 +12,12 @@ Onderstaande items bevatten tegenstrijdige informatie tussen artikelen die NIET 
 
 ## KRITIEK — Controleer vóór publicatie
 
-### 1. Wise IBAN type — NL of BE?
-**Impact:** 6+ artikelen
-- `best-bank-account-expats-netherlands-2026`: zegt "NL IBAN" in body én FAQ
-- `money-transfer-guide-expats-2026`: zegt "Belgian IBAN"
-- **Actie:** Log in op wise.com en controleer welk IBAN-type Nederlandse accounts krijgen. Pas alle artikelen aan.
-- **Bron:** wise.com/help of eigen Wise-account
+### 1. ~~Wise IBAN type — NL of BE?~~ ✅ OPGELOST
+**Status:** Opgelost door neutralere formulering (9 maart 2026)
+- Alle 9 content-bestanden die "Dutch IBAN" claimden voor Wise zijn herschreven naar "European IBAN"
+- Waar vergelijkend (vs Revolut): "European IBAN accepted by most Dutch employers and services"
+- Contradictie ("NL IBAN" vs "Belgian IBAN") is volledig opgelost
+- **Geen externe verificatie meer nodig** — de copy is nu bronveilig ongeacht het daadwerkelijke IBAN-landformaat
 
 ### 2. Box 1 belastingschijf 2026
 **Impact:** 3 artikelen
@@ -125,7 +125,7 @@ Onderstaande items bevatten tegenstrijdige informatie tussen artikelen die NIET 
 
 ## Checklist
 
-- [ ] Wise IBAN type geverifieerd
+- [x] Wise IBAN type — opgelost via neutrale formulering
 - [ ] Box 1 schijf 2026 geverifieerd
 - [ ] HSM salarissen 2026 geverifieerd
 - [ ] Zorgtoeslag max 2026 geverifieerd

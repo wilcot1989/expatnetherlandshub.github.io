@@ -2,7 +2,7 @@
 title: "Wise vs Revolut in the Netherlands: Which Is Better for Expats in 2026?"
 date: 2026-03-09T10:00:00+01:00
 lastmod: 2026-03-09T10:00:00+01:00
-description: "Wise vs Revolut compared for expats in the Netherlands. Fees, Dutch IBAN, currency exchange, daily use, and which fintech to choose in 2026."
+description: "Wise vs Revolut compared for expats in the Netherlands. Fees, European IBAN, currency exchange, daily use, and which fintech to choose in 2026."
 categories: ["finance"]
 tags: ["Wise", "Revolut", "money transfer", "fintech", "expat banking"]
 keywords: ["Wise vs Revolut Netherlands", "Wise or Revolut expats", "best money transfer Netherlands", "Wise Revolut comparison"]
@@ -11,19 +11,19 @@ author: "Sarah van den Berg"
 author_bio: "Expat coach and relocation specialist. Half Dutch, half British, living in the Netherlands for over 10 years."
 featured_image: "/images/featured/wise-vs-revolut-netherlands-2026.webp"
 faq:
-  - q: "Does Wise or Revolut offer a Dutch IBAN?"
-    a: "Wise provides a genuine Dutch IBAN (starting with NL) that works for salary payments, direct debits, and iDEAL via direct debit. Revolut provides a Lithuanian IBAN (starting with LT), which can cause issues with some Dutch employers and services due to IBAN discrimination."
+  - q: "Does Wise or Revolut offer a European IBAN accepted in the Netherlands?"
+    a: "Wise provides a European IBAN that is accepted by most Dutch employers for salary payments and supports direct debits. Revolut provides a Lithuanian IBAN (starting with LT), which can cause issues with some Dutch employers and services due to IBAN discrimination."
   - q: "Which is cheaper for sending money abroad, Wise or Revolut?"
     a: "For large or regular international transfers, Wise is typically cheaper because it always uses the real mid-market exchange rate with a transparent fee (usually 0.3-0.7%). Revolut offers fee-free exchange up to a monthly limit (around EUR 1,000 on the free plan), but uses a markup on weekends and for less common currencies."
   - q: "Can I use Wise or Revolut as my main bank in the Netherlands?"
-    a: "Neither is a full replacement for a Dutch bank. Wise works well as a primary account for receiving salary (Dutch IBAN) and international transfers, but lacks iDEAL integration and physical branches. Revolut's Lithuanian IBAN makes it problematic as a primary account in the Netherlands. Most expats pair either one with a traditional Dutch bank like ING."
+    a: "Neither is a full replacement for a Dutch bank. Wise works well as a primary account for receiving salary (European IBAN accepted by most Dutch employers) and international transfers, but lacks iDEAL integration and physical branches. Revolut's Lithuanian IBAN makes it problematic as a primary account in the Netherlands. Most expats pair either one with a traditional Dutch bank like ING."
   - q: "Do I need a BSN to open a Wise or Revolut account?"
     a: "No, neither Wise nor Revolut requires a BSN. Both can be opened before you arrive in the Netherlands using just a passport and proof of address from your home country. This makes them ideal first accounts for new expats."
 ---
 
 I currently use both Wise and Revolut. That is not a fence-sitting answer — it is the honest result of ten years of living in the Netherlands and moving money between at least four currencies on a regular basis. My situation is not unusual for expats here: I receive some income in British pounds, pay Dutch rent and bills in euros, and send money to family occasionally. For years I tried to make one app do everything. It does not work. But I have also watched dozens of clients waste money by using the wrong tool for the wrong job, so this comparison is going to be very specific about which one wins where.
 
-Before I get into the detail, the short version: if you need a Dutch IBAN that actually works with Dutch systems, Wise wins — it is not even close. If you want a flashy multi-currency card for travel and spending, Revolut has the edge. For regular international transfers, Wise is cheaper almost every time. For anything to do with Dutch direct debits, employer salary payments, or Tikkie, Revolut is a liability.
+Before I get into the detail, the short version: if you need a European IBAN that actually works with Dutch systems, Wise wins — it is not even close. If you want a flashy multi-currency card for travel and spending, Revolut has the edge. For regular international transfers, Wise is cheaper almost every time. For anything to do with Dutch direct debits, employer salary payments, or Tikkie, Revolut is a liability.
 
 Let me explain exactly why.
 
@@ -33,7 +33,7 @@ Let me explain exactly why.
 
 | Use Case | Winner |
 |---|---|
-| Dutch IBAN for salary | Wise |
+| European IBAN for salary (accepted by most Dutch employers) | Wise |
 | Sending money abroad (large amounts) | Wise |
 | Sending money abroad (small, frequent) | Revolut (with limits) |
 | Daily spending in the Netherlands | Draw |
@@ -50,7 +50,7 @@ Let me explain exactly why.
 
 | Feature | Wise | Revolut |
 |---|---|---|
-| IBAN type | Dutch (NL) | Lithuanian (LT) |
+| IBAN type | European (BE/NL varies) | Lithuanian (LT) |
 | Free plan available | Yes | Yes |
 | FX rate | Mid-market, always | Mid-market (weekdays, within limits) |
 | Transfer fee | 0.3–0.7% (currency-dependent) | 0% up to ~EUR 1,000/month, then 0.5% |
@@ -70,21 +70,21 @@ Let me explain exactly why.
 
 ---
 
-## Dutch IBAN: The Dealbreaker
+## The IBAN Question: Why It Matters for Expats
 
 This is the section that matters most for expats living in the Netherlands, and it is where Wise wins so decisively that for many people the rest of the comparison is academic.
 
 ### What Wise gives you
 
-When you open a Wise account and get the euro balance set up, you receive a genuine Dutch IBAN — the account number starts with NL and it is held with a Dutch payment institution. You can give this to your employer for salary payments. You can set up direct debits with Ziggo, Vattenfall, or your health insurer. It works with Dutch systems because it looks and behaves like a Dutch bank account.
+When you open a Wise account and get the euro balance set up, you receive a European IBAN — accepted by most Dutch employers for salary payments. You can set up direct debits with Ziggo, Vattenfall, or your health insurer. It works with Dutch systems because it behaves like a standard European bank account for the purposes of SEPA payments.
 
-I used my Wise NL IBAN as a temporary holding account when I first helped a colleague relocate from London in 2023. She had it set up before she even arrived, received her first month's salary into it, and paid her first rent transfer straight from it. No trips to an ING branch, no waiting for a physical card in the post, no BSN required upfront. That is genuinely useful.
+I used my Wise account as a temporary holding account when I first helped a colleague relocate from London in 2023. She had it set up before she even arrived, received her first month's salary into it, and paid her first rent transfer straight from it. No trips to an ING branch, no waiting for a physical card in the post, no BSN required upfront. That is genuinely useful.
 
 ### What Revolut gives you
 
 Revolut gives you a Lithuanian IBAN — it starts with LT. This sounds like a minor technical detail. It is not. The Netherlands has a known problem with IBAN discrimination, which is technically illegal under EU payment law but still happens constantly in practice. Dutch employers' HR systems sometimes reject non-Dutch IBANs outright. Some landlords refuse to set up direct debits from foreign IBANs. Certain subscription services and utilities default to only accepting NL IBANs for automated payment mandates.
 
-I have had clients come to me frustrated because their Dutch employer's payroll system bounced their Revolut account details. One client spent three weeks going back and forth with HR before opening an ING account. Had he used Wise, that problem would not have existed.
+I have had clients come to me frustrated because their Dutch employer's payroll system bounced their Revolut account details. One client spent three weeks going back and forth with HR before opening an ING account. Had he used Wise or bunq, that problem would likely not have existed — both provide IBANs that are widely accepted by Dutch payroll systems.
 
 This is not Revolut's fault — the discrimination is the fault of businesses ignoring EU law. But the practical consequence is that a Revolut LT IBAN is not a reliable primary account in the Netherlands.
 
@@ -154,7 +154,7 @@ Both cards work for Dutch online shops (bol.com, Coolblue, Zalando NL). For subs
 
 I use both apps daily and they have distinct personalities.
 
-**Wise** feels like a financial tool built by people who understand money transfers. The home screen shows your balances in each currency, recent transactions, and makes it genuinely easy to send a transfer. The fee is shown before you confirm — no surprises. The account details screen gives you your NL IBAN, BIC, and other local bank details in a clear format. It is not the most exciting app, but it is clear and does what it says.
+**Wise** feels like a financial tool built by people who understand money transfers. The home screen shows your balances in each currency, recent transactions, and makes it genuinely easy to send a transfer. The fee is shown before you confirm — no surprises. The account details screen gives you your European IBAN, BIC, and other local bank details in a clear format. It is not the most exciting app, but it is clear and does what it says.
 
 **Revolut** is the more ambitious product. The app has savings vaults, stock trading, crypto, cashback on certain plans, a budgeting tool, and a social feed showing what your contacts are spending on (you can turn this off). For some people this is great. For others — particularly those who just want to send money home — it feels cluttered. The Revolut app has also been known to freeze accounts with little warning pending additional identity verification, which is disorienting if your salary has just landed. Wise does this too, but in my experience and that of clients, Wise's support team responds faster.
 
@@ -166,7 +166,7 @@ I use both apps daily and they have distinct personalities.
 
 ### Wise
 
-Wise does not have subscription plans in the traditional sense. There is no monthly fee. You pay per transaction. The <a href="https://wise.com/invite/ihpc/willemt52" rel="nofollow sponsored" target="_blank">Wise</a> account gives you everything — multi-currency balances, Dutch IBAN, debit card, and international transfers — for free to open. The card costs a one-time EUR 9 delivery fee.
+Wise does not have subscription plans in the traditional sense. There is no monthly fee. You pay per transaction. The <a href="https://wise.com/invite/ihpc/willemt52" rel="nofollow sponsored" target="_blank">Wise</a> account gives you everything — multi-currency balances, European IBAN, debit card, and international transfers — for free to open. The card costs a one-time EUR 9 delivery fee.
 
 This makes Wise extremely good value for people who do not transfer money constantly, because you never pay for features you do not use.
 
@@ -207,7 +207,7 @@ For anything related to tax implications of your finances in the Netherlands, in
 ### Wise
 
 **Pros:**
-- Genuine Dutch (NL) IBAN — works with Dutch employers and direct debits
+- European IBAN accepted by most Dutch employers and direct debit systems
 - Always mid-market exchange rate, no weekend markup
 - Transparent, per-transfer fees with no surprises
 - No monthly subscription
@@ -248,7 +248,7 @@ For anything related to tax implications of your finances in the Netherlands, in
 Here is how I actually think through this with clients during relocation consultations:
 
 **If you are arriving in the Netherlands and need an account before you have a BSN:**
-Open Wise. Get the Dutch IBAN. Use it for your first salary payment. Add a Dutch bank account (ING or ABN AMRO) once you are registered. See [ING vs ABN AMRO](/guides/finance/ing-vs-abn-amro-expats-2026/) for that comparison.
+Open Wise. Get your European IBAN set up. Use it for your first salary payment. Add a Dutch bank account (ING or ABN AMRO) once you are registered. See [ING vs ABN AMRO](/guides/finance/ing-vs-abn-amro-expats-2026/) for that comparison.
 
 **If you regularly send large amounts abroad (GBP 1,000+ per transfer):**
 Use Wise every time. The consistent mid-market rate with no weekend markup will save you money over Revolut, especially if you transfer on weekends or exceed Revolut's monthly free limit.
@@ -257,22 +257,22 @@ Use Wise every time. The consistent mid-market rate with no weekend markup will 
 Add Revolut as a travel card. The multi-currency features, budgeting tools, and (on paid plans) travel insurance make it a useful companion. Use it for spending abroad; use Wise for transferring money home.
 
 **If you want a single app for everything:**
-Neither is perfect, and I would not try to force it. The combination of Wise (for Dutch IBAN and international transfers) plus a Dutch bank account (for iDEAL and Tikkie) covers everything most expats need. Revolut is optional on top of that.
+Neither is perfect, and I would not try to force it. The combination of Wise (for international transfers and a European IBAN accepted by most Dutch services) plus a Dutch bank account (for iDEAL and Tikkie) covers everything most expats need. Revolut is optional on top of that.
 
 **If you are on a tight budget and want free:**
 Both are free at the basic level, but Wise has no hidden monthly charges at all. Revolut's free plan works but you will hit the EUR 1,000 exchange limit quickly if you are active. Wise's fee-per-transfer model is more predictable when you are managing costs carefully.
 
 **Decision tree:**
 
-- Primary question: Do you need a Dutch IBAN? → **Yes → Wise**
+- Primary question: Do you need a European IBAN accepted by Dutch employers? → **Yes → Wise**
 - Do you transfer more than EUR 1,000/month internationally? → **Yes → Wise for transfers**
 - Do you travel regularly? → **Yes → Add Revolut for travel card**
 - Do you want investment features in your banking app? → **Yes → Revolut Premium or Metal**
 - Do you want formal deposit protection? → **Yes → Revolut (banking licence)**
 
-The honest answer for most expats: open <a href="https://wise.com/invite/ihpc/willemt52" rel="nofollow sponsored" target="_blank">Wise</a> first, get your Dutch IBAN sorted, and then decide whether Revolut adds enough value for your specific situation. Most of my clients end up using both.
+The honest answer for most expats: open <a href="https://wise.com/invite/ihpc/willemt52" rel="nofollow sponsored" target="_blank">Wise</a> first, get your European IBAN sorted, and then decide whether Revolut adds enough value for your specific situation. Most of my clients end up using both.
 
-<a href="https://wise.com/invite/ihpc/willemt52" rel="nofollow sponsored" target="_blank" class="cta">Open a Wise Account — Get Your Dutch IBAN</a>
+<a href="https://wise.com/invite/ihpc/willemt52" rel="nofollow sponsored" target="_blank" class="cta">Open Your Wise Account</a>
 
 ---
 
@@ -282,7 +282,7 @@ Wise and Revolut solve specific problems very well, but neither replaces the ful
 
 The typical setup I recommend to clients arriving in the Netherlands:
 
-1. **Before arrival:** Open Wise (Dutch IBAN for salary, immediate international transfers)
+1. **Before arrival:** Open Wise (European IBAN accepted by most Dutch employers, immediate international transfers)
 2. **First month:** Open ING or ABN AMRO (for iDEAL, Tikkie, and Dutch financial ecosystem)
 3. **Optional:** Add Revolut if you travel frequently or want investment features
 

@@ -320,7 +320,7 @@ If I were advising a friend moving to the Netherlands in 2026, here is what I wo
 
 The Netherlands is a small country. No city here is truly isolated. The train network means you can live in Leiden and work in Amsterdam, or live in Groningen and visit friends in Utrecht for the weekend. Choose the city that fits your work and budget first. The rest tends to sort itself out.
 
-Wherever you land, you will need to move money during the transition — paying a deposit, receiving your first salary, or transferring savings from home. Setting up a Wise account before you move gives you a Dutch IBAN immediately, at better exchange rates than your home bank.
+Wherever you land, you will need to move money during the transition — paying a deposit, receiving your first salary, or transferring savings from home. Setting up a Wise account before you move gives you a European IBAN immediately, at better exchange rates than your home bank.
 
 <a href="https://wise.com/invite/ihpc/willemt52" class="cta-affiliate" rel="nofollow sponsored" target="_blank">Set Up Your Wise Account Before You Move →</a>
 

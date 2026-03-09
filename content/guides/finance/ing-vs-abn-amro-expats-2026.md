@@ -14,7 +14,7 @@ faq:
   - q: "Is ING or ABN AMRO better for expats?"
     a: "ING generally offers a better experience for expats due to its fully English app and website, larger ATM network, and slightly more intuitive digital banking. However, ABN AMRO has a dedicated international desk that can be very helpful for complex questions about mortgages or investments as an expat."
   - q: "Can I open an ING or ABN AMRO account without a BSN?"
-    a: "No, both ING and ABN AMRO require a BSN (burgerservicenummer) to open an account. You need to register at your local gemeente first. If you need a bank account before getting your BSN, consider Wise which offers a Dutch IBAN without a BSN."
+    a: "No, both ING and ABN AMRO require a BSN (burgerservicenummer) to open an account. You need to register at your local gemeente first. If you need a bank account before getting your BSN, consider Wise which offers a European IBAN without a BSN."
   - q: "Which bank has lower fees, ING or ABN AMRO?"
     a: "Both charge approximately EUR 2.45 per month for a basic current account. The real difference is in international transfer fees, where both are expensive (EUR 5-15 per transfer). For international transfers, we recommend using Wise alongside either bank."
   - q: "Can I get a mortgage from ING or ABN AMRO as an expat?"
@@ -91,7 +91,7 @@ The online process takes about 15 minutes. You verify your identity with a video
 
 One sticking point: you must have a BSN before you can open an account with ING. If you just arrived in the Netherlands and have not registered at the gemeente yet, that is your first step. My [BSN registration guide](/guides/legal/bsn-registration-guide-2026/) walks through exactly how to do that, including which documents you need and how long it typically takes.
 
-If you need a bank account urgently before your BSN comes through — which does happen — your best option is a <a href="https://wise.com/invite/ihpc/willemt52" rel="nofollow sponsored" target="_blank">Wise</a> account with a Dutch IBAN. It is not a full Dutch bank account, but it gives you an IBAN you can use to receive salary and make transfers while you wait for your BSN and then your proper Dutch account.
+If you need a bank account urgently before your BSN comes through — which does happen — your best option is a <a href="https://wise.com/invite/ihpc/willemt52" rel="nofollow sponsored" target="_blank">Wise</a> account with a European IBAN. It is not a full Dutch bank account, but it gives you an IBAN you can use to receive salary and make transfers while you wait for your BSN and then your proper Dutch account.
 
 ### Opening an Account with ABN AMRO
 

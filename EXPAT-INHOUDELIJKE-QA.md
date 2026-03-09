@@ -154,11 +154,12 @@ Focus: feitelijke consistentie, verboden woorden, FAQ-format, broken links, dupl
 16. **CBR examenprijzen** — Theorie €37→€40, praktijk €125→€130, slaaggrens 52→54 aligned (driving + exchange-license)
 17. **KvK stappennummering** — Dubbel stap 10 gefixed (kvk-registration)
 18. **Job interview FAQ** — Dubbele body FAQ verwijderd (job-interview-tips)
+19. **Wise IBAN** — Alle "Dutch IBAN"/"NL IBAN" claims voor Wise geneutraliseerd naar "European IBAN" in 9 bestanden (~40 tekstwijzigingen). Contradictie ("NL IBAN" in body vs "Belgian IBAN" in cons) volledig opgelost.
 
 ---
 
 ## Beoordeling
 
-De site bevatte ~35 feitelijke fouten, waarvan 18 kritiek (premies, belasting, datums, rekenfouten). De meest zorgwekkende was de King's Day Easter-conflict fabricatie — volledig verzonnen feit in een gepubliceerd artikel. De premie-inconsistentie was het meest wijdverspreid (30+ locaties). De zelfstandigenaftrek-fout (€3.750 i.p.v. €2.470) had directe financiële implicaties voor lezers.
+De site bevatte ~35 feitelijke fouten, waarvan 19 kritiek (premies, belasting, datums, rekenfouten, IBAN-claims). De meest zorgwekkende was de King's Day Easter-conflict fabricatie — volledig verzonnen feit in een gepubliceerd artikel. De premie-inconsistentie was het meest wijdverspreid (30+ locaties). De zelfstandigenaftrek-fout (€3.750 i.p.v. €2.470) had directe financiële implicaties voor lezers. De Wise IBAN-contradictie was het meest wijdverspreid over finance-artikelen (9 bestanden, ~40 locaties).
 
-Na deze audit-ronde zijn alle veilig te fixen issues gecorrigeerd (~130 wijzigingen). 18 items die externe verificatie vereisen staan in EXPAT-HANDMATIGE-FACTCHECKS.md.
+Na deze audit-ronde zijn alle veilig te fixen issues gecorrigeerd (~140 wijzigingen). 17 items die externe verificatie vereisen staan in EXPAT-HANDMATIGE-FACTCHECKS.md (1 opgelost via neutrale formulering).

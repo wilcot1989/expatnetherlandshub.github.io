@@ -12,15 +12,15 @@ author_bio: "Expat coach and relocation specialist. Half Dutch, half British, li
 featured_image: "/images/featured/how-to-open-bank-account-netherlands-2026.webp"
 faq:
   - q: "Can I open a Dutch bank account before arriving in the Netherlands?"
-    a: "Yes. Wise lets you create a multi-currency account with a Dutch IBAN from anywhere in the world — no BSN or Dutch address required. Bunq also allows remote sign-up for EU citizens. Traditional banks like ING and ABN AMRO require you to be physically present in the Netherlands with a BSN."
+    a: "Yes. Wise lets you create a multi-currency account with a European IBAN from anywhere in the world — no BSN or Dutch address required. Bunq also allows remote sign-up for EU citizens. Traditional banks like ING and ABN AMRO require you to be physically present in the Netherlands with a BSN."
   - q: "How long does it take to open a bank account in the Netherlands?"
     a: "Digital banks: Wise takes 10-30 minutes, Bunq takes 5-15 minutes, N26 takes about 10 minutes. Traditional banks: ING takes 5-10 business days after online application, ABN AMRO takes 3-7 business days. Having your BSN, valid passport, and proof of address ready speeds up the process."
   - q: "Do I need a BSN to open a Dutch bank account?"
-    a: "Traditional banks (ING, ABN AMRO, Rabobank) require a BSN. However, Wise does not require a BSN — you can get a Dutch IBAN immediately. Bunq may allow you to start without a BSN for EU citizens. This is why many expats open a Wise account first and add a traditional bank later."
+    a: "Traditional banks (ING, ABN AMRO, Rabobank) require a BSN. However, Wise does not require a BSN — you can get a European IBAN immediately. Bunq may allow you to start without a BSN for EU citizens. This is why many expats open a Wise account first and add a traditional bank later."
   - q: "What documents do I need to open a bank account?"
     a: "For traditional banks: valid passport or EU ID card, BSN number, proof of Dutch address (registration from gemeente), and sometimes proof of income or employment contract. For digital banks like Wise: valid passport or ID card and a selfie for verification. No BSN or Dutch address needed."
   - q: "Can I receive my salary without a Dutch bank account?"
-    a: "Most Dutch employers require a bank account with a Dutch IBAN (starting with NL) for salary payments. A Wise account with a Dutch IBAN satisfies this requirement. Some employers specifically require a traditional Dutch bank, but this is increasingly rare."
+    a: "Most Dutch employers require a bank account with a Dutch or European IBAN for salary payments. A Wise account with a European IBAN satisfies this requirement for most employers. Some employers specifically require a traditional Dutch bank account (NL IBAN), but this is increasingly rare."
 ---
 
 When I arrived in the Netherlands, I had exactly one financial problem I hadn't anticipated: iDEAL.
@@ -39,7 +39,7 @@ Here is the short version, front-loaded, because that is what you actually need:
 
 | Stage | Action | Time needed |
 |-------|--------|-------------|
-| Before arriving (or day 1) | Open a [Wise](https://wise.com/invite/ihpc/willemt52) account — Dutch IBAN, no BSN required | 10–30 minutes |
+| Before arriving (or day 1) | Open a [Wise](https://wise.com/invite/ihpc/willemt52) account — European IBAN, no BSN required | 10–30 minutes |
 | Week 1–2 | Register at the gemeente, get your BSN | 1–3 weeks depending on municipality |
 | After BSN | Apply for ING or ABN AMRO account | 3–10 business days |
 | After bank card arrives | Set up iDEAL and direct debits | 30 minutes |
@@ -81,21 +81,21 @@ Do this before you get on the plane, or on the day you land. It solves the iDEAL
 
 ### Wise
 
-[Wise](https://wise.com/invite/ihpc/willemt52) gives you a genuine Dutch IBAN (starting with NL) that most Dutch employers and landlords accept. The account is free to open. You get a debit card (small one-time fee), can hold euros alongside other currencies, and send money internationally at real exchange rates.
+[Wise](https://wise.com/invite/ihpc/willemt52) gives you a European IBAN that most Dutch employers and landlords accept. The account is free to open. You get a debit card (small one-time fee), can hold euros alongside other currencies, and send money internationally at real exchange rates.
 
 **How to open a Wise account:**
 
 1. Go to [wise.com](https://wise.com/invite/ihpc/willemt52) and click "Register"
 2. Sign up with your email address
 3. Complete the identity verification — upload your passport photo and take a selfie
-4. Once verified, go to "Account details" and add EUR to see your Dutch IBAN
+4. Once verified, go to "Account details" and add EUR to see your European IBAN
 5. Order a Wise debit card if you want one (arrives within a few days in the Netherlands)
 
 The whole process takes between 10 and 30 minutes. Verification is usually instant but can occasionally take up to 24 hours.
 
 <a href="https://wise.com/invite/ihpc/willemt52" class="cta-affiliate" rel="nofollow sponsored" target="_blank">Open Your Wise Account in Minutes →</a>
 
-Your Dutch IBAN works for iDEAL payments, receiving a salary, and setting up direct debits. It is not a full Dutch bank account in the traditional sense — you do not get a Dutch bank app experience, overdraft facilities, or a local branch — but for your first weeks in the country, it is exactly what you need.
+Your Wise IBAN works for receiving a salary and setting up direct debits. It is not a full Dutch bank account in the traditional sense — you do not get a Dutch bank app experience, overdraft facilities, or a local branch — but for your first weeks in the country, it is exactly what you need.
 
 For more on how Wise compares to other options, see [Wise vs Revolut for expats in the Netherlands](/guides/finance/wise-vs-revolut-netherlands-2026/).
 
@@ -167,7 +167,7 @@ iDEAL is the Dutch online payment system used for almost everything — paying r
 
 You do not set up iDEAL separately. It activates automatically once your bank account is active and you have installed the bank's app. When you click "Pay with iDEAL" on a website, you select your bank, confirm in the app, and it is done.
 
-This is why having a Dutch IBAN matters so much. Many Dutch services either only accept iDEAL or make it so heavily the default that paying any other way feels like solving a puzzle.
+This is why having a Dutch or European IBAN matters so much. Many Dutch services either only accept iDEAL or make it so heavily the default that paying any other way feels like solving a puzzle.
 
 ### Automatische incasso (direct debit)
 
@@ -179,13 +179,13 @@ Once your account is active, set up your direct debits as soon as possible: heal
 
 ## Common Mistakes to Avoid
 
-**Waiting until after you have a BSN to open anything.** Those first two weeks without a functioning Dutch IBAN are genuinely difficult. Open Wise before you arrive. It takes 20 minutes.
+**Waiting until after you have a BSN to open anything.** Those first two weeks without a functioning European IBAN are genuinely difficult. Open Wise before you arrive. It takes 20 minutes.
 
 **Not having proof of address ready.** Traditional banks require a BRP registration document from your gemeente. A rental contract alone is usually not enough. Make sure you have registered at the gemeente and have the confirmation document in hand before applying.
 
 **Applying to multiple traditional banks simultaneously.** Each application triggers an identity check. If one bank rejects you and you have three other applications open, it can complicate things. Apply to one, wait for the outcome, then try another if needed.
 
-**Using a foreign bank for your salary.** Some Dutch employers will pay to a foreign account, but many will not, and some payroll systems only accept NL IBANs. Sort out your Dutch IBAN before your first pay date.
+**Using a foreign bank for your salary.** Some Dutch employers will pay to a foreign account, but many will not, and some payroll systems only accept NL IBANs. Sort out a European or Dutch IBAN before your first pay date.
 
 **Underestimating the BSN delay.** In Amsterdam, gemeente appointments can be booked out 3–4 weeks. In smaller cities, it is faster. Book your appointment on the day you arrive, or before if you can. The [BSN planner tool](/tools/bsn-planner/) shows typical waiting times by municipality.
 
@@ -219,7 +219,7 @@ Open Wise first — before you need it. Get registered at the gemeente as early 
 
 If I were doing my own arrival over again, I would open Wise the week before I flew, book my gemeente appointment the day I signed my rental contract, and apply for ING the morning my BSN confirmation arrived.
 
-My practical tip: screenshot your Wise Dutch IBAN before you land. Your letting agent, your employer's HR department, and probably your health insurance provider will all ask for it within the first 48 hours.
+My practical tip: screenshot your Wise IBAN before you land. Your letting agent, your employer's HR department, and probably your health insurance provider will all ask for it within the first 48 hours.
 
 ---
 

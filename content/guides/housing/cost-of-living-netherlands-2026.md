@@ -359,7 +359,7 @@ Traditional banks charge 2-5% in hidden exchange rate markups, plus flat fees. F
 
 We strongly recommend <a href="https://wise.com/invite/ihpc/willemt52" rel="nofollow sponsored" target="_blank">Wise</a> (formerly TransferWise) for international money transfers. Wise uses the real mid-market exchange rate with transparent, low fees typically ranging from 0.3-1.5%. Over a year of regular transfers, this can save you hundreds or even thousands of euros compared to traditional banks.
 
-Wise also offers a multi-currency account with a Dutch IBAN, which is useful if you are managing money across countries. See our full [guide to bank accounts for expats](/guides/finance/best-bank-account-expats-netherlands-2026/).
+Wise also offers a multi-currency account with a European IBAN, which is useful if you are managing money across countries. See our full [guide to bank accounts for expats](/guides/finance/best-bank-account-expats-netherlands-2026/).
 
 <a href="https://wise.com/invite/ihpc/willemt52" class="cta" rel="nofollow sponsored" target="_blank">Save on International Transfers with Wise</a>
 

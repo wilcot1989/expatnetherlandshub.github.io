@@ -97,11 +97,11 @@ Geen van deze items blokkeert de site of veroorzaakt technische problemen.
 
 ### Openstaande handmatige factchecks
 
-12 items vereisen externe bronverificatie — zie EXPAT-HANDMATIGE-FACTCHECKS.md.
-Top 3 kritiek:
-1. **Wise IBAN type** (NL vs BE) — 6+ artikelen beïnvloed
-2. **Box 1 belastingschijf 2026** — 3 verschillende bedragen
-3. **HSM salarisdrempels** — gealigned maar niet extern geverifieerd
+18 items in EXPAT-HANDMATIGE-FACTCHECKS.md, waarvan 1 opgelost:
+- ~~Wise IBAN type~~ ✅ Opgelost via neutrale formulering ("European IBAN" i.p.v. "Dutch IBAN")
+Top 2 kritiek (nog open):
+1. **Box 1 belastingschijf 2026** — 3 verschillende bedragen
+2. **HSM salarisdrempels** — gealigned maar niet extern geverifieerd
 
 ### Status
 

@@ -68,7 +68,7 @@ The same visa and work permit requirements apply as anywhere in the Netherlands:
 
 ### Financial Setup
 
-1. **Open a bank account**: Set up a <a href="https://wise.com/invite/ihpc/willemt52" rel="nofollow sponsored" target="_blank">Wise account</a> before arriving for a Dutch IBAN. See our [best bank accounts for expats guide](/guides/finance/best-bank-account-expats-netherlands-2026/).
+1. **Open a bank account**: Set up a <a href="https://wise.com/invite/ihpc/willemt52" rel="nofollow sponsored" target="_blank">Wise account</a> before arriving for a European IBAN. See our [best bank accounts for expats guide](/guides/finance/best-bank-account-expats-netherlands-2026/).
 2. **Budget for housing deposits**: Expect 1-2 months' deposit plus first month's rent upfront.
 3. **Arrange health insurance**: Mandatory from your first day of employment. Read our [health insurance guide](/guides/health/dutch-health-insurance-guide-expats-2026/).
 4. **Transfer savings**: Use <a href="https://wise.com/invite/ihpc/willemt52" rel="nofollow sponsored" target="_blank">Wise</a> for the best exchange rates on international transfers. See our [money transfer guide](/guides/finance/best-international-money-transfer-netherlands-2026/).
