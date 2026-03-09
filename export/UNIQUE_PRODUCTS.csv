@@ -1,0 +1,88 @@
+#,Naam,Cluster,Type,Status,Bestanden,CTA,Link,Tracking,Affiliate_potentie,Aanmelden_nodig,Prioriteit
+1,Wise,Banking & Fintech,Fintech / Geldoverdracht,A,42,ja,ja,ja,Hoog,Nee,—
+2,SafetyWing,Insurance,Reisverzekering / Expat verzekering,A,26,ja,ja,ja,Hoog,Nee,—
+3,Independer Zorgverzekering,Insurance,Vergelijksite (zorg),A,27,ja,ja,ja,Hoog,Nee,—
+4,Independer Energie,Energie,Vergelijksite (energie),A,3,ja,ja,ja,Midden,Nee,—
+5,Independer Internet,Telecom & Internet,Vergelijksite (internet),A,2,ja,ja,ja,Midden,Nee,—
+6,NordVPN,VPN,VPN-dienst,A,10,ja,ja,ja,Hoog,Nee,—
+7,Babbel,Language Learning,Taalleerapp,B,5,ja,ja,nee,Midden,Ja,Hoog
+8,Preply,Language Learning,Online taalles (tutors),B,5,ja,ja,nee,Midden-Hoog,Ja,Hoog
+9,iTalki,Language Learning,Online taalles (tutors),B,4,ja,ja,nee,Midden,Ja,Hoog
+10,Surfshark,VPN,VPN-dienst,B,1,ja,ja,nee,Hoog,Ja,Midden
+11,bunq,Banking & Fintech,Neobank,C,6,nee,ja,nee,Midden,Ja,Hoog
+12,N26,Banking & Fintech,Neobank,C,4,nee,ja,nee,Midden,Ja,Hoog
+13,Kamernet,Housing,Huurplatform,C,9,nee,ja,nee,Laag-Midden,Ja,Midden
+14,Swapfiets,Transport,Fietsabonnement,C,2,nee,ja,nee,Midden,Ja,Midden
+15,Pimsleur,Language Learning,Taalleerapp (audio),C,3,nee,ja,nee,Midden,Ja,Laag
+16,Mondly,Language Learning,Taalleerapp,C,1,nee,ja,nee,Laag,Ja,Laag
+17,Gaslicht.com,Energie,Energievergelijker,C,1,nee,ja,nee,Laag,Ja,Laag
+18,Pricewise,Energie / Vergelijk,Vergelijksite,C,2,nee,ja,nee,Laag,Ja,Laag
+19,Revolut,Banking & Fintech,Neobank / Fintech,D1,13,nee,nee,nee,Hoog,Ja,Hoog
+20,KPN,Telecom & Internet,Telecomprovider,D1,8,nee,nee,nee,Hoog,Ja,Hoog
+21,T-Mobile NL / Odido,Telecom & Internet,Telecomprovider,D1,8,nee,nee,nee,Hoog,Ja,Hoog
+22,Ziggo / VodafoneZiggo,Telecom & Internet,Internetprovider,D1,7,nee,nee,nee,Hoog,Ja,Hoog
+23,Vattenfall,Energie,Energieleverancier,D1,3,nee,nee,nee,Midden-Hoog,Ja,Hoog
+24,Eneco,Energie,Energieleverancier,D1,2,nee,nee,nee,Midden-Hoog,Ja,Hoog
+25,Cigna Global,Insurance,Internationale ziektekostenverzekering,D1,5,nee,nee,nee,Hoog,Ja,Hoog
+26,HousingAnywhere,Housing,Huurplatform (internationaal),D1,5,nee,nee,nee,Midden-Hoog,Ja,Hoog
+27,Booking.com,Housing / Accommodatie,Accommodatievergelijker,D2,3,nee,nee,nee,Midden,Ja,Midden
+28,Aetna International,Insurance,Internationale ziektekostenverzekering,D2,2,nee,nee,nee,Hoog,Ja,Midden
+29,DeGiro,Banking & Fintech,Online broker / Beleggen,D2,2,nee,nee,nee,Midden,Ja,Midden
+30,Vodafone NL,Telecom & Internet,Telecomprovider,D2,4,nee,nee,nee,Midden,Ja,Midden
+31,Simyo,Telecom & Internet,Budget telecomprovider,D2,2,nee,nee,nee,Laag-Midden,Ja,Midden
+32,ExpressVPN,VPN,VPN-dienst,D2,1,nee,nee,nee,Hoog,Ja,Midden
+33,Basic-Fit,Fitness,Sportschoolketen,D2,1,nee,nee,nee,Laag-Midden,Ja,Midden
+34,Urban Sports Club,Fitness,Multi-gym abonnement,D2,1,nee,nee,nee,Midden,Ja,Midden
+35,Blue Umbrella,Tax Advisors,Belastingadviseur (expats),D2,2,nee,nee,nee,Midden,Ja,Midden
+36,Essent,Energie,Energieleverancier,D2,1,nee,nee,nee,Midden,Ja,Midden
+37,ING,Banking & Fintech,Grootbank,D2,11,nee,nee,nee,Laag,Via Independer,Midden
+38,ABN AMRO,Banking & Fintech,Grootbank,D2,25,nee,nee,nee,Laag,Via Independer,Midden
+39,Ben,Telecom & Internet,Budget telecomprovider,D3,2,nee,nee,nee,Laag,Ja,Laag
+40,Lebara,Telecom & Internet,Internationale SIM,D3,2,nee,nee,nee,Laag,Ja,Laag
+41,Lycamobile,Telecom & Internet,Internationale SIM,D3,2,nee,nee,nee,Laag,Ja,Laag
+42,Budget Energie,Energie,Budget energieleverancier,D3,1,nee,nee,nee,Laag,Ja,Laag
+43,Tibber,Energie,Smart energie (app-based),D3,1,nee,nee,nee,Midden,Ja,Laag
+44,Frank Energie,Energie,Dynamische energieprijzen,D3,1,nee,nee,nee,Laag-Midden,Ja,Laag
+45,Coolblue,Retail & Electronics,Elektronica retailer,D3,1,nee,nee,nee,Laag,Ja,Laag
+46,Bol.com,Retail & Electronics,Online retailer,D3,2,nee,nee,nee,Laag,Ja,Laag
+47,ONVZ,Insurance,Zorgverzekeraar,E,5,nee,nee,nee,—,Via Independer,—
+48,Zilveren Kruis,Insurance,Zorgverzekeraar,E,9,nee,nee,nee,—,Via Independer,—
+49,CZ,Insurance,Zorgverzekeraar,E,4,nee,nee,nee,—,Via Independer,—
+50,Menzis,Insurance,Zorgverzekeraar,E,2,nee,nee,nee,—,Via Independer,—
+51,VGZ,Insurance,Zorgverzekeraar,E,2,nee,nee,nee,—,Via Independer,—
+52,Allianz Care,Insurance,Internationale verzekering,E,3,nee,nee,nee,—,Nee,—
+53,Mullvad,VPN,VPN-dienst,E,1,nee,nee,nee,—,Nee,—
+54,CyberGhost,VPN,VPN-dienst,E,1,nee,nee,nee,—,Nee,—
+55,ProtonVPN,VPN,VPN-dienst,E,1,nee,nee,nee,—,Nee,—
+56,Duolingo,Language Learning,Taalleerapp,E,12,nee,nee,nee,—,Nee,—
+57,Rosetta Stone,Language Learning,Taalleerapp,E,1,nee,nee,nee,—,Nee,—
+58,Busuu,Language Learning,Taalleerapp,E,1,nee,nee,nee,—,Nee,—
+59,HelloTalk,Language Learning,Taaluitwisseling,E,1,nee,nee,nee,—,Nee,—
+60,Tandem,Language Learning,Taaluitwisseling,E,1,nee,nee,nee,—,Nee,—
+61,Direct Dutch,Language Learning,Taalschool,E,1,nee,nee,nee,—,Nee,—
+62,UvA Talen,Language Learning,Taalschool,E,1,nee,nee,nee,—,Nee,—
+63,Airbnb,Housing / Accommodatie,Accommodatieplatform,E,4,nee,nee,nee,—,Nee,—
+64,Funda,Housing,Woningplatform,E,8,ja,ja,nee,—,Nee,—
+65,Pararius,Housing,Huurplatform,E,8,ja,ja,nee,—,Nee,—
+66,Holland2Stay,Housing,Huurplatform,E,1,nee,nee,nee,—,Nee,—
+67,Zoku,Housing,Serviced apartments,E,1,nee,nee,nee,—,Nee,—
+68,The Social Hub,Housing,Studentenhuisvesting,E,2,nee,nee,nee,—,Nee,—
+69,DUWO,Housing,Studentenhuisvesting,E,2,nee,nee,nee,—,Nee,—
+70,Rabobank,Banking & Fintech,Grootbank,E,4,nee,nee,nee,—,Nee,—
+71,Albert Heijn,Grocery & Delivery,Supermarkt,E,5,nee,nee,nee,—,Nee,—
+72,Jumbo,Grocery & Delivery,Supermarkt,E,3,nee,nee,nee,—,Nee,—
+73,Picnic,Grocery & Delivery,Online supermarkt,E,2,nee,nee,nee,—,Nee,—
+74,Flink,Grocery & Delivery,Flitsbezorging,E,1,nee,nee,nee,—,Nee,—
+75,Getir,Grocery & Delivery,Flitsbezorging (gestopt NL),E,1,nee,nee,nee,—,Nee,—
+76,Crisp,Grocery & Delivery,Online boodschappen,E,1,nee,nee,nee,—,Nee,—
+77,Lidl,Grocery & Delivery,Supermarkt,E,1,nee,nee,nee,—,Nee,—
+78,Aldi,Grocery & Delivery,Supermarkt,E,1,nee,nee,nee,—,Nee,—
+79,Dirk van den Broek,Grocery & Delivery,Supermarkt,E,1,nee,nee,nee,—,Nee,—
+80,Marqt,Grocery & Delivery,Supermarkt (niche),E,1,nee,nee,nee,—,Nee,—
+81,NS / OV-fiets,Transport,Openbaar vervoer,E,10,nee,nee,nee,—,Nee,—
+82,TaxSavers,Tax Advisors,Belastingadviseur,E,1,nee,nee,nee,—,Nee,—
+83,IamExpat Tax,Tax Advisors,Belastingadviseur,E,1,nee,nee,nee,—,Nee,—
+84,Expatax,Tax Advisors,Belastingadviseur,E,2,nee,nee,nee,—,Nee,—
+85,Loyens & Loeff,Tax Advisors,Corporate belastingadvies,E,1,nee,nee,nee,—,Nee,—
+86,Meijburg,Tax Advisors,Corporate belastingadvies,E,1,nee,nee,nee,—,Nee,—
+87,OFX,Banking & Fintech,Geldoverdracht,E,1,nee,nee,nee,—,Nee,—

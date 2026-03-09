@@ -1,0 +1,43 @@
+#,Naam,Status,Cluster,Type,Bestanden,CTA_aanwezig,Link_aanwezig,Tracking_aanwezig,Affiliate_potentie,Waar_aanmelden,Prioriteit,Actie
+1,Wise,A,Banking & Fintech,Fintech / Geldoverdracht,42,ja,ja,ja,Hoog,wise.com/invite/ihpc/willemt52,—,Geen actie nodig — actief
+2,SafetyWing,A,Insurance,Reisverzekering / Expat,26,ja,ja,ja,Hoog,referenceID=26482728,—,Geen actie nodig — actief
+3,Independer Zorgverzekering,A,Insurance,Vergelijksite (zorg),27,ja,ja,ja,Hoog,AWIN Publisher ID 2776410,—,Geen actie nodig — actief
+4,Independer Energie,A,Energie,Vergelijksite (energie),3,ja,ja,ja,Midden,AWIN Publisher ID 2776410,—,Geen actie nodig — actief
+5,Independer Internet,A,Telecom & Internet,Vergelijksite (internet),2,ja,ja,ja,Midden,AWIN Publisher ID 2776410,—,Geen actie nodig — actief
+6,NordVPN,A,VPN,VPN-dienst,10,ja,ja,ja,Hoog,aff_id=141337,—,Geen actie nodig — actief
+7,Babbel,B,Language Learning,Taalleerapp,5,ja,ja,nee,Midden,impact.com of babbel.com/affiliates,Hoog,Affiliate aanmelden + tracking URL vervangen
+8,Preply,B,Language Learning,Online taalles,5,ja,ja,nee,Midden-Hoog,preply.com/en/affiliate-program,Hoog,Affiliate aanmelden + tracking URL vervangen
+9,iTalki,B,Language Learning,Online taalles,4,ja,ja,nee,Midden,italki.com/affiliate,Hoog,Affiliate aanmelden + tracking URL vervangen
+10,Surfshark,B,VPN,VPN-dienst,1,ja,ja,nee,Hoog,surfshark.com/affiliates,Midden,Affiliate aanmelden + tracking URL vervangen
+11,bunq,C,Banking & Fintech,Neobank,6,nee,ja,nee,Midden,bunq.com/en/affiliate of referral app,Hoog,Affiliate/referral aanvragen + links upgraden
+12,N26,C,Banking & Fintech,Neobank,4,nee,ja,nee,Midden,n26.com/en/referral of partnerstack,Hoog,Affiliate/referral aanvragen + links upgraden
+13,Kamernet,C,Housing,Huurplatform,9,nee,ja,nee,Laag-Midden,kamernet.nl (zakelijk contact),Midden,Partnerschap aanvragen + links upgraden
+14,Swapfiets,C,Transport,Fietsabonnement,2,nee,ja,nee,Midden,swapfiets.nl/affiliate of partnerstack,Midden,Affiliate aanmelden + links upgraden
+15,Revolut,D1,Banking & Fintech,Neobank / Fintech,13,nee,nee,nee,Hoog,revolut.com/referral-program,Hoog,Aanmelden + links + CTA's toevoegen
+16,KPN,D1,Telecom & Internet,Telecomprovider,8,nee,nee,nee,Hoog,Daisycon (goedgekeurd),Hoog,Programma aanvragen via Daisycon + links toevoegen
+17,T-Mobile NL / Odido,D1,Telecom & Internet,Telecomprovider,8,nee,nee,nee,Hoog,Daisycon of odido.nl/partners,Hoog,Programma aanvragen via Daisycon + links toevoegen
+18,Ziggo / VodafoneZiggo,D1,Telecom & Internet,Internetprovider,7,nee,nee,nee,Hoog,Daisycon of awin.com,Hoog,Programma aanvragen + links toevoegen
+19,Vattenfall,D1,Energie,Energieleverancier,3,nee,nee,nee,Midden-Hoog,Daisycon (goedgekeurd),Hoog,Programma aanvragen via Daisycon + links toevoegen
+20,Eneco,D1,Energie,Energieleverancier,2,nee,nee,nee,Midden-Hoog,Daisycon of eneco.nl/zakelijk,Hoog,Programma aanvragen + links toevoegen
+21,Cigna Global,D1,Insurance,Internationale ziektekostenverzekering,5,nee,nee,nee,Hoog,cignahealthbenefits.com (broker/partner),Hoog,Directe aanmelding als broker/partner
+22,HousingAnywhere,D1,Housing,Huurplatform (internationaal),5,nee,nee,nee,Midden-Hoog,housinganywhere.com/partners,Hoog,Partnerprogram aanmelden + links toevoegen
+23,Booking.com,D2,Housing / Accommodatie,Accommodatievergelijker,3,nee,nee,nee,Midden,booking.com/affiliate-program,Midden,Affiliate aanmelden + links toevoegen
+24,Aetna International,D2,Insurance,Internationale ziektekostenverzekering,2,nee,nee,nee,Hoog,aetnainternational.com (broker/partner),Midden,Broker/partner aanmelding
+25,DeGiro,D2,Banking & Fintech,Online broker / Beleggen,2,nee,nee,nee,Midden,degiro.nl/affiliate of partnerstack,Midden,Affiliate aanmelden
+26,Vodafone NL,D2,Telecom & Internet,Telecomprovider,4,nee,nee,nee,Midden,Daisycon of vodafone.nl/zakelijk,Midden,Programma aanvragen
+27,Simyo,D2,Telecom & Internet,Budget telecomprovider,2,nee,nee,nee,Laag-Midden,simyo.nl of Daisycon,Midden,Programma aanvragen
+28,ExpressVPN,D2,VPN,VPN-dienst,1,nee,nee,nee,Hoog,expressvpn.com/affiliates,Midden,Affiliate aanmelden
+29,Basic-Fit,D2,Fitness,Sportschoolketen,1,nee,nee,nee,Laag-Midden,basic-fit.com/affiliates of Daisycon,Midden,Affiliate aanmelden
+30,Urban Sports Club,D2,Fitness,Multi-gym abonnement,1,nee,nee,nee,Midden,urbansportsclub.com/en/affiliate,Midden,Affiliate aanmelden
+31,Blue Umbrella,D2,Tax Advisors,Belastingadviseur (expats),2,nee,nee,nee,Midden,blue-umbrella.nl (zakelijk),Midden,Zakelijk contact opnemen
+32,Essent,D2,Energie,Energieleverancier,1,nee,nee,nee,Midden,Daisycon of essent.nl/zakelijk,Midden,Programma aanvragen
+33,Pimsleur,C,Language Learning,Taalleerapp (audio),3,nee,ja,nee,Midden,pimsleur.com/affiliate-program,Laag,Affiliate aanmelden + links upgraden
+34,Mondly,C,Language Learning,Taalleerapp,1,nee,ja,nee,Laag,mondly.com/affiliate,Laag,Affiliate aanmelden + link upgraden
+35,Ben,D3,Telecom & Internet,Budget telecomprovider,2,nee,nee,nee,Laag,ben.nl (zakelijk),Laag,Later aanmelden
+36,Lebara,D3,Telecom & Internet,Internationale SIM,2,nee,nee,nee,Laag,lebara.nl of affiliate netwerk,Laag,Later aanmelden
+37,Lycamobile,D3,Telecom & Internet,Internationale SIM,2,nee,nee,nee,Laag,lycamobile.nl (zakelijk),Laag,Later aanmelden
+38,Budget Energie,D3,Energie,Budget energieleverancier,1,nee,nee,nee,Laag,Daisycon of budget-energie.nl,Laag,Later aanmelden
+39,Tibber,D3,Energie,Smart energie (app-based),1,nee,nee,nee,Midden,tibber.com/invite of affiliate,Laag,Later aanmelden
+40,Frank Energie,D3,Energie,Dynamische energieprijzen,1,nee,nee,nee,Laag-Midden,frank.energie.nl/referral,Laag,Later aanmelden
+41,Coolblue,D3,Retail & Electronics,Elektronica retailer,1,nee,nee,nee,Laag,Daisycon of coolblue.nl/partners,Laag,Later aanmelden
+42,Bol.com,D3,Retail & Electronics,Online retailer,2,nee,nee,nee,Laag,bol.com/partnernetwerk,Laag,Opnieuw proberen (eerder afgewezen)
