@@ -10,6 +10,7 @@
   <link rel="alternate" hreflang="en" href="{{ .Permalink }}">
   <link rel="alternate" hreflang="x-default" href="{{ .Permalink }}">
   <meta name="robots" content="index, follow">
+  <meta name='impact-site-verification' value='f07f0ca5-be9f-4eb9-964b-628c7095ca08'>
   <meta name="author" content="{{ with .Params.author }}{{ . }}{{ else }}{{ .Site.Params.author }}{{ end }}">
   {{ with .Params.keywords }}<meta name="keywords" content="{{ delimit . ", " }}">{{ end }}
   {{ with .OutputFormats.Get "RSS" }}<link rel="alternate" type="application/rss+xml" title="{{ $.Site.Title }}" href="{{ .RelPermalink }}">{{ end }}
