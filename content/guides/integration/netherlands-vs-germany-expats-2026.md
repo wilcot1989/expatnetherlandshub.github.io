@@ -14,15 +14,15 @@ faq:
   - q: "Is it better to live in the Netherlands or Germany as an expat?"
     a: "It depends on your priorities. The Netherlands offers higher English proficiency, the 30% tax ruling for skilled migrants, and a more international work culture. Germany offers lower housing costs (outside Munich and Frankfurt), higher salaries in engineering and manufacturing, and more job opportunities due to its larger economy."
   - q: "Are salaries higher in the Netherlands or Germany?"
-    a: "Base salaries are generally comparable, but the Netherlands has a significant tax advantage through the 30% ruling, which makes 30% of your salary tax-free for up to 5 years. This effectively increases take-home pay by 10-20% compared to a similar gross salary in Germany."
+    a: "Base salaries are generally comparable, but the Netherlands has a significant tax advantage through the 30% ruling, which makes a portion of your salary tax-free (30% in years 1-2, then stepping down to 20% and 10%). This effectively increases take-home pay by 10-20% compared to a similar gross salary in Germany."
   - q: "Is housing cheaper in Germany than the Netherlands?"
     a: "Generally yes. Average rent in German cities (excluding Munich) is 20-40% lower than comparable Dutch cities. A 2-bedroom apartment in Berlin costs around EUR 1,200/month versus EUR 1,800 in Amsterdam. However, the Dutch rental market is more regulated with stronger tenant protections."
   - q: "Do I need to learn Dutch or German to work?"
     a: "In the Netherlands, many companies operate entirely in English, especially in tech, finance, and international business. In Germany, German language skills are more frequently required, even in international companies. However, both countries expect long-term residents to learn the local language for daily life and integration."
   - q: "Which country has better healthcare?"
-    a: "Both countries have excellent healthcare systems but structured differently. The Netherlands uses mandatory private insurance (starting at ~EUR 130/month) with a personal deductible of EUR 385/year. Germany uses a dual public-private system where employees earning under EUR 69,300/year must use public insurance (14.6% of salary, split with employer)."
+    a: "Both countries have excellent healthcare systems but structured differently. The Netherlands uses mandatory private insurance (starting at approximately EUR 140/month) with a personal deductible of EUR 385/year. Germany uses a dual public-private system where employees earning under EUR 69,300/year must use public insurance (14.6% of salary, split with employer)."
   - q: "Which country is easier to get a work visa for?"
-    a: "Both countries offer skilled worker visas, but the Dutch kennismigrant visa is generally faster to process (2-4 weeks vs 1-3 months for the German Blue Card). The Netherlands also has a more streamlined process with IND-recognized sponsors handling most paperwork."
+    a: "Both countries offer skilled worker visas, but the Dutch kennismigrant visa is generally faster to process (2-4 weeks vs 1-3 months for the German Blue Card). The Netherlands also has a simpler process with IND-recognized sponsors handling most paperwork."
 ---
 
 I get this question constantly: "Should I move to the Netherlands or Germany?" As someone who has lived in the Netherlands for over a decade and has close friends and clients on both sides of the border, I can tell you the day-to-day experience is more different than you would expect from two neighboring countries. The 30% ruling alone can swing the financial comparison dramatically. Here is my honest breakdown of both options so you can decide which one fits your life.
@@ -38,7 +38,7 @@ Before diving into the details, here is a side-by-side overview of the key diffe
 | **Official language** | Dutch | German |
 | **English proficiency** | Very high (95%+ in business) | Moderate (varies by region) |
 | **Average gross salary (skilled)** | EUR 55,000-75,000 | EUR 55,000-80,000 |
-| **Key tax benefit** | 30% ruling (30% tax-free for 5 years) | No equivalent expat tax ruling |
+| **Key tax benefit** | 30% ruling (30/20/10% tax-free over 5 years) | No equivalent expat tax ruling |
 | **Income tax (top rate)** | 49.50% | 45% (+5.5% solidarity surcharge) |
 | **Rent (2-bed, major city)** | EUR 1,400-2,500 | EUR 900-2,000 |
 | **Health insurance** | Mandatory private (~EUR 150/month) | Public-private dual system (~14.6% of salary) |
@@ -59,7 +59,7 @@ However, comparing gross salaries alone is misleading. What matters is what ends
 
 ### The Dutch 30% Ruling Advantage
 
-The Netherlands offers the 30% ruling, one of the most generous expat tax benefits in Europe. If you qualify as a highly skilled migrant recruited from abroad, your employer can pay 30% of your gross salary as a tax-free allowance for up to 5 years.
+The Netherlands offers the 30% ruling, one of the most generous expat tax benefits in Europe. If you qualify as a highly skilled migrant recruited from abroad, your employer can pay a percentage of your gross salary as a tax-free allowance. For new applications from 2024 onward, the benefit is 30% in years 1-2, 20% in year 3, and 10% in years 4-5.
 
 Here is what that looks like in practice:
 
@@ -218,7 +218,7 @@ Germany's EU Blue Card is the primary route for skilled non-EU workers:
 - Spouse receives a work permit
 - Path to permanent residency after 21-33 months (depending on German language level)
 
-The Dutch system is generally faster and more streamlined, partly because recognized sponsors can submit applications directly to the IND. The German process involves more bureaucratic steps and varies significantly between federal states (Bundesländer).
+The Dutch system is generally faster and simpler, partly because recognized sponsors can submit applications directly to the IND. The German process involves more bureaucratic steps and varies significantly between federal states (Bundesländer).
 
 For a full walkthrough of the Dutch immigration process, see our [complete guide to moving to the Netherlands](/guides/legal/complete-guide-moving-to-netherlands-2026/).
 

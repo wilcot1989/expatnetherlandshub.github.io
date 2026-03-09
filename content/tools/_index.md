@@ -172,7 +172,7 @@ margin-bottom: 1rem;
 <div class="hero-text">
 <div class="hero-badge">Free &bull; Updated March 2026</div>
 <h1>Free Expat Tools for the Netherlands</h1>
-<p>Interactive calculators, checkers, and planners to help you navigate taxes, visas, insurance, and daily life as an expat in the Netherlands.</p>
+<p>Interactive calculators, checkers, and planners to help you sort out taxes, visas, insurance, and daily life as an expat in the Netherlands.</p>
 <div class="meta-hero">11 free tools &middot; No signup required &middot; By Sarah van den Berg</div>
 </div>
 <div class="hero-icon" aria-hidden="true">

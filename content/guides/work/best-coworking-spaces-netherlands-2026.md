@@ -246,4 +246,4 @@ Wherever you work in the Netherlands, protect your data on shared networks with 
 
 ---
 
-*Last updated: June 2026.*
+*Last updated: March 2026.*

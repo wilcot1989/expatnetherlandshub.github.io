@@ -258,7 +258,7 @@ Dutch small talk is real but operates differently than British or American small
 - Over-sharing your own personal struggles with people you have just met — this tends to make Dutch acquaintances uncomfortable rather than warm to you.
 - Complaining excessively about the Netherlands. This is tricky because Dutch people do it constantly themselves. But there is a difference between a Dutch person saying "the housing market is a disaster" and a recent arrival saying "this country is so difficult." One is shared commiseration; the other lands as ingratitude.
 
-If you want to genuinely connect with Dutch people, learning some Dutch helps enormously. Even a few phrases signals that you are trying. The [Babbel vs Duolingo comparison](/guides/integration/babbel-vs-duolingo-learn-dutch-2026/) is a good starting point for finding the right app, and the [best Dutch language courses guide](/guides/integration/best-apps-learn-dutch-2026/) covers more structured options.
+If you want to genuinely connect with Dutch people, learning some Dutch helps enormously. Even a few phrases signals that you are trying. The [Babbel vs Duolingo comparison](/guides/integration/babbel-vs-duolingo-learn-dutch-2026/) is a good starting point for finding the right app, and the [best Dutch language courses guide](/guides/integration/best-dutch-language-courses-2026/) covers more structured options.
 
 ---
 

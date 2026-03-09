@@ -225,7 +225,7 @@ Dutch utility costs have stabilized after the energy price spike of 2022-2023, t
 - **Washing at off-peak hours**: Some energy contracts offer lower rates during off-peak hours
 - **Insulation**: If you are buying, Dutch homes are increasingly well-insulated. Energy label A or higher means significantly lower utility costs
 
-Energy is one of the easiest costs to reduce in the Netherlands — the market is competitive and switching providers is free. Independer lets you compare all major suppliers in minutes. For a detailed breakdown of what to look for, see our [guide to the best energy providers in the Netherlands](/guides/daily-life/best-energy-providers-netherlands-2026/).
+Energy is one of the easiest costs to reduce in the Netherlands — the market is competitive and switching providers is free. Independer lets you compare all major suppliers in minutes. For a detailed breakdown of what to look for, see our [guide to the best energy providers in the Netherlands](/guides/housing/energy-providers-expats-netherlands-2026/).
 
 <a href="https://www.awin1.com/cread.php?awinmid=8558&awinaffid=2776410&ued=https%3A%2F%2Fwww.independer.nl%2Fenergie" rel="nofollow sponsored" target="_blank" class="cta">Compare Energy Providers on Independer →</a>
 
@@ -273,7 +273,6 @@ Budget EUR 10-25 per month for a SIM-only mobile plan with 5-15 GB of data. See 
 | Museum (Museumkaart for 500+ museums) | EUR 70/year |
 | Swimming pool (single visit) | EUR 5-8 |
 | Sports club membership (vereniging) | EUR 20-60/month |
-| Gym membership (standalone gym) | EUR 20-50/month |
 | Concert / event ticket | EUR 20-80 |
 
 **Pro tip**: The Museumkaart (EUR 70 per year) gives you access to over 500 museums across the Netherlands, including the Rijksmuseum, Van Gogh Museum, and Mauritshuis. If you visit more than 4-5 museums per year, it pays for itself.
@@ -322,7 +321,7 @@ Understanding Dutch taxes is critical for budgeting, especially the impact of th
 | Up to ~EUR 38,441 | ~36.97% |
 | Above ~EUR 38,441 | ~49.50% |
 
-### The 30% Ruling: Game Changer for Expats
+### The 30% Ruling: A Major Benefit for Expats
 
 If you qualify for the 30% ruling, 30% of your gross salary is paid as a tax-free allowance. This can increase your net monthly income by hundreds or even thousands of euros.
 

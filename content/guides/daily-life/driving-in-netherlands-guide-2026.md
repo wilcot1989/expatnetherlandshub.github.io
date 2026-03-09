@@ -189,7 +189,7 @@ City parking costs have risen sharply. In 2026, expect:
 - **Utrecht centrum:** €4-€5/hour
 - **P+R facilities:** €1-€8/day (includes OV return trip in some cities)
 
-**Practical tip:** Most Dutch city-centre apartments do not come with parking. If you need a car, factor parking costs into your housing budget — or consider living just outside the ring roads where parking is free or cheap. Read our [finding housing guide](/guides/housing/finding-housing-netherlands-expats-2026/) for more on navigating this trade-off.
+**Practical tip:** Most Dutch city-centre apartments do not come with parking. If you need a car, factor parking costs into your housing budget — or consider living just outside the ring roads where parking is free or cheap. Read our [finding housing guide](/guides/housing/finding-housing-netherlands-expats-2026/) for more on managing this trade-off.
 
 Use our housing budget tool to model your full monthly costs including parking, and see whether a car is financially worth it in your specific city.
 
@@ -260,4 +260,4 @@ Car ownership is expensive. If you are weighing the costs, see our [cost of livi
 
 ---
 
-*Last updated: May 2026.*
+*Last updated: March 2026.*

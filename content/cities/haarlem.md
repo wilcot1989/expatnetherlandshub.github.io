@@ -83,7 +83,7 @@ The main hospital is Spaarne Gasthuis, with locations in both Haarlem-Noord and 
 
 For primary care, register with a GP (huisarts) after arriving. Several practices in Haarlem have experience with international patients, though availability is not unlimited — expect to spend a week or two finding a practice with capacity. The GP is the gatekeeper to specialist care in the Dutch system; you cannot go directly to a specialist without a referral, which catches many expats off guard.
 
-Health insurance is mandatory from your first day as a Dutch resident. Premiums in 2026 start around €130–€170/month with a €385 annual deductible. Use the [Health Insurance Wizard](/tools/health-insurance-wizard/) to compare policies before you arrive — gaps in coverage are expensive and the waiting period after arrival is not long. Compare Dutch and international expat insurance options with the [Insurance Comparison](/tools/insurance-chooser/).
+Health insurance is mandatory from your first day as a Dutch resident. Premiums in 2026 start around €140–€175/month with a €385 annual deductible. Use the [Health Insurance Wizard](/tools/health-insurance-wizard/) to compare policies before you arrive — gaps in coverage are expensive and the waiting period after arrival is not long. Compare Dutch and international expat insurance options with the [Insurance Comparison](/tools/insurance-chooser/).
 
 ## Transport
 
@@ -102,7 +102,7 @@ By car, the A9 connects to the motorway network towards Amsterdam, Schiphol, Alk
 
 ## Getting Started in Haarlem
 
-Moving to Haarlem requires a few essential steps. Here are the most important ones:
+Moving to Haarlem requires a few first steps. Here are the most important ones:
 
 **Open a bank account** — You'll need a Dutch bank account for rent, salary, and daily expenses. [Wise](https://wise.com/invite/ihpc/willemt52) offers a multi-currency account that works from day one, even before your BSN arrives. <a href="https://wise.com/invite/ihpc/willemt52" target="_blank" rel="noopener nofollow sponsored" class="cta-affiliate">Open a Wise account →</a> Use the [Bank Account Comparison](/tools/bank-account-chooser/) to find the right Dutch bank for your situation.
 

@@ -83,7 +83,7 @@ The main hospital serving Den Bosch and the surrounding region is Jeroen Bosch Z
 
 Finding a GP can take a few weeks. Register as soon as you arrive rather than waiting until you need an appointment.
 
-Health insurance is mandatory from your first day as a Dutch resident. Premiums start around €130/month with a €385 annual deductible (eigen risico). Use the [Health Insurance Wizard](/tools/health-insurance-wizard/) to compare policies and find the right level of cover for your situation. Compare Dutch and international expat insurance options with the [Insurance Comparison](/tools/insurance-chooser/).
+Health insurance is mandatory from your first day as a Dutch resident. Premiums start around €140/month with a €385 annual deductible (eigen risico). Use the [Health Insurance Wizard](/tools/health-insurance-wizard/) to compare policies and find the right level of cover for your situation. Compare Dutch and international expat insurance options with the [Insurance Comparison](/tools/insurance-chooser/).
 
 ## Transport
 
@@ -99,7 +99,7 @@ For a full introduction to the OV-chipkaart system and how to get one set up on 
 
 ## Getting Started in Den Bosch
 
-Moving to Den Bosch requires a few essential steps. Here are the most important ones:
+Moving to Den Bosch requires a few first steps. Here are the most important ones:
 
 **Open a bank account** — You'll need a Dutch bank account for rent, salary, and daily expenses. [Wise](https://wise.com/invite/ihpc/willemt52) offers a multi-currency account that works from day one, even before your BSN arrives. <a href="https://wise.com/invite/ihpc/willemt52" target="_blank" rel="noopener nofollow sponsored" class="cta-affiliate">Open a Wise account →</a> Use the [Bank Account Comparison](/tools/bank-account-chooser/) to find the right Dutch bank for your situation.
 

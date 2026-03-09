@@ -62,7 +62,7 @@ Leiden University itself employs academic staff across all faculties. The Arts a
 
 Outside academia and life sciences, the employment market is more limited than in larger cities. Many Leiden residents commute to The Hague or Amsterdam — the rail journey makes this manageable.
 
-Coworking options are more limited than in larger cities. The Leiden Bio Science Park has coworking space through the YES!Delft incubator's Leiden node, and there are a handful of smaller shared office spaces in the centre.
+Coworking options are more limited than in larger cities. The Leiden Bio Science Park has coworking space through the PLNT Leiden startup hub, and there are a handful of smaller shared office spaces in the centre.
 
 For salary benchmarking use the [Salary Checker](/tools/salary-checker/). Use the [30% Ruling Calculator](/tools/30-percent-ruling-calculator/) to see how much tax you could save. If you have a foreign degree, check recognition requirements with the [Diploma Evaluator](/tools/diploma-evaluator/). See the [Working in the Netherlands guide](/guides/work/) for broader context.
 
@@ -82,7 +82,7 @@ LUMC is the main hospital and one of the leading academic medical centres in the
 
 Finding a GP can take 2–4 weeks. The international community associated with the university and Bio Science Park means there is reasonable English-language GP capacity, but Leiden is small enough that availability is limited compared to Amsterdam or The Hague.
 
-Health insurance is mandatory from your first day as a Dutch resident. Premiums start around €130/month with a €385 annual deductible. Use the [Health Insurance Wizard](/tools/health-insurance-wizard/) to compare policies. Compare Dutch and international expat insurance options with the [Insurance Comparison](/tools/insurance-chooser/).
+Health insurance is mandatory from your first day as a Dutch resident. Premiums start around €140/month with a €385 annual deductible. Use the [Health Insurance Wizard](/tools/health-insurance-wizard/) to compare policies. Compare Dutch and international expat insurance options with the [Insurance Comparison](/tools/insurance-chooser/).
 
 ## Transport
 
@@ -96,7 +96,7 @@ For a full guide to OV travel in the Netherlands, see the [OV-chipkaart guide fo
 
 ## Getting Started in Leiden
 
-Moving to Leiden requires a few essential steps. Here are the most important ones:
+Moving to Leiden requires a few first steps. Here are the most important ones:
 
 **Open a bank account** — You'll need a Dutch bank account for rent, salary, and daily expenses. [Wise](https://wise.com/invite/ihpc/willemt52) offers a multi-currency account that works from day one, even before your BSN arrives. <a href="https://wise.com/invite/ihpc/willemt52" target="_blank" rel="noopener nofollow sponsored" class="cta-affiliate">Open a Wise account →</a> Use the [Bank Account Comparison](/tools/bank-account-chooser/) to find the right Dutch bank for your situation.
 

@@ -309,25 +309,3 @@ One practical tip before you buy anything: if you are considering a used car fro
 For questions around taxes more broadly — including how car costs interact with income tax and the 30% ruling — the [Dutch tax system guide for expats](/guides/finance/dutch-tax-system-expats-guide-2026/) is worth reading before you make any large financial decisions here.
 
 ---
-
-## FAQ
-
-**Do I need a BSN to register a car in the Netherlands?**
-
-Yes, you need a BSN (citizen service number) to register a vehicle in your name with the RDW. You also need a Dutch home address. If you have just arrived, get your BSN sorted first at your gemeente before starting the car registration process.
-
-**How long does RDW car registration take in the Netherlands?**
-
-Registering a car you buy within the Netherlands can take as little as one day — the dealer or notary handles the transfer digitally. Importing a car from abroad takes longer: typically 2–6 weeks once you account for the RDW inspection, BPM tax assessment, and licence plate issue.
-
-**How much is BPM tax when importing a car into the Netherlands?**
-
-BPM is calculated based on the vehicle's CO2 emissions and its depreciated value. For a petrol car with average emissions, BPM can easily run to €3,000–€10,000 or more. Electric vehicles are currently exempt. Always get a BPM calculation from the Belastingdienst before deciding to import.
-
-**Can I drive a foreign-registered car in the Netherlands long-term?**
-
-Once you are registered as a resident in the Netherlands, you are generally allowed to drive a foreign-registered car for a maximum of 6 months. After that, you must either re-register it in the Netherlands or export it. Driving beyond that window risks fines and complications with insurance.
-
-**Is car insurance mandatory in the Netherlands?**
-
-Yes. Third-party liability insurance (WA-verzekering) is the legal minimum for any car driven on Dutch roads. Without it, you can be fined heavily and held personally liable for any damages you cause. You cannot register a car or get licence plates without proof of insurance.

@@ -72,7 +72,7 @@ Appointments must be booked in advance via the municipality website. Waiting tim
 
 Standard documentation: valid passport, signed rental contract, and proof of employment or registration with the Chamber of Commerce if self-employed. Your BSN is issued at the desk on the day of registration.
 
-Note that if you are using Amstelveen as your registered address while employed in Amsterdam, this is straightforward — you register where you live, not where you work.
+Note that if you are using Amstelveen as your registered address while employed in Amsterdam, this is simple — you register where you live, not where you work.
 
 Not sure which visa you need? Use the [Visa Checker](/tools/visa-permit-finder/) to find out. Use the [BSN Planner](/tools/bsn-planner/) to prepare your documentation before your appointment. Planning your integration path? Use the [Inburgering Route Planner](/tools/inburgering-route-builder/) to see your requirements.
 
@@ -84,7 +84,7 @@ English-speaking GPs are available, and the high expat population means several 
 
 For Japanese-speaking residents specifically, there are healthcare providers in the Amstelveen area with Japanese-language capability, which reflects how embedded that community is in the town.
 
-Health insurance is mandatory from your first day as a Dutch resident. Premiums start around €130–€145 per month with a €385 annual deductible. If you arrive mid-year, you are still required to take out cover from day one of residence. Use the [Health Insurance Wizard](/tools/health-insurance-wizard/) to compare plans and check what supplementary cover makes sense for your situation. Compare Dutch and international expat insurance options with the [Insurance Comparison](/tools/insurance-chooser/).
+Health insurance is mandatory from your first day as a Dutch resident. Premiums start around €140–€175 per month with a €385 annual deductible. If you arrive mid-year, you are still required to take out cover from day one of residence. Use the [Health Insurance Wizard](/tools/health-insurance-wizard/) to compare plans and check what supplementary cover makes sense for your situation. Compare Dutch and international expat insurance options with the [Insurance Comparison](/tools/insurance-chooser/).
 
 See the [Health Insurance guide](/guides/health/) for a full explanation of how the Dutch insurance system works.
 
@@ -110,7 +110,7 @@ For a full guide to OV travel in the Netherlands, see the [OV-chipkaart guide fo
 
 ## Getting Started in Amstelveen
 
-Moving to Amstelveen requires a few essential steps. Here are the most important ones:
+Moving to Amstelveen requires a few first steps. Here are the most important ones:
 
 **Open a bank account** — You'll need a Dutch bank account for rent, salary, and daily expenses. [Wise](https://wise.com/invite/ihpc/willemt52) offers a multi-currency account that works from day one, even before your BSN arrives. <a href="https://wise.com/invite/ihpc/willemt52" target="_blank" rel="noopener nofollow sponsored" class="cta-affiliate">Open a Wise account →</a> Use the [Bank Account Comparison](/tools/bank-account-chooser/) to find the right Dutch bank for your situation.
 

@@ -290,4 +290,4 @@ For getting around during public holidays — especially if you want to explore 
 
 ---
 
-*Last updated: June 2026.*
+*Last updated: March 2026.*

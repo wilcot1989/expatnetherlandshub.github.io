@@ -308,7 +308,7 @@ If you need to find and compare Dutch basisverzekering options, Independer lets 
 
 **Choose Aetna International if you are genuinely globally mobile.** If your assignment might move you from Amsterdam to Singapore to Zurich over the next five years, or if your employer has a corporate Aetna arrangement, or if 24/7 English-language emergency support matters significantly to you, Aetna's global infrastructure justifies the premium. You will pay more per month, but you will not be starting from scratch on insurance with every relocation.
 
-The worst outcome I see repeatedly is expats defaulting to their existing international plan from a previous posting — often Aetna or Cigna — without checking whether they now need Dutch basisverzekering. The fine for uninsured periods can exceed EUR 400 per uninsured month. Check your legal status first, then compare plans.
+The worst outcome I see repeatedly is expats defaulting to their existing international plan from a previous posting — often Aetna or Cigna — without checking whether they now need Dutch basisverzekering. The CAK can impose a fine of approximately EUR 469 for late registration, and continued non-compliance leads to enforced enrolment with back-billed premiums. Check your legal status first, then compare plans.
 
 For a personalised recommendation based on your visa type, employer situation, and coverage priorities, the [Health Insurance Wizard](/tools/health-insurance-wizard/) is the fastest way to get a clear answer without wading through all the policy documents yourself.
 

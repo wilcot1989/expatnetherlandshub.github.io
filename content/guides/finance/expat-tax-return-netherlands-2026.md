@@ -286,4 +286,4 @@ For context on how pension income, foreign income, and Dutch earnings interact a
 
 ---
 
-*Last updated: June 2026.*
+*Last updated: March 2026.*

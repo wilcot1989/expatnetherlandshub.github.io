@@ -78,7 +78,7 @@ The main hospital is Catharina Ziekenhuis, which has a strong cardiac and oncolo
 
 English-speaking GPs are available across the city. The ASML Health Centre on campus handles basic GP care for ASML employees. For non-ASML arrivals, several practices in the Centrum and Strijp-S areas have English-speaking capacity. Registration waiting lists are typically 2–4 weeks.
 
-Health insurance is mandatory from day one of residence. Premiums start around €130/month with a €385 eigen risico. Use the [Health Insurance Wizard](/tools/health-insurance-wizard/) to compare policies. Compare Dutch and international expat insurance options with the [Insurance Comparison](/tools/insurance-chooser/).
+Health insurance is mandatory from day one of residence. Premiums start around €140/month with a €385 eigen risico. Use the [Health Insurance Wizard](/tools/health-insurance-wizard/) to compare policies. Compare Dutch and international expat insurance options with the [Insurance Comparison](/tools/insurance-chooser/).
 
 ## Transport
 
@@ -90,7 +90,7 @@ For a full guide to OV travel in the Netherlands, see the [OV-chipkaart guide fo
 
 ## Getting Started in Eindhoven
 
-Moving to Eindhoven requires a few essential steps. Here are the most important ones:
+Moving to Eindhoven requires a few first steps. Here are the most important ones:
 
 **Open a bank account** — You'll need a Dutch bank account for rent, salary, and daily expenses. [Wise](https://wise.com/invite/ihpc/willemt52) offers a multi-currency account that works from day one, even before your BSN arrives. <a href="https://wise.com/invite/ihpc/willemt52" target="_blank" rel="noopener nofollow sponsored" class="cta-affiliate">Open a Wise account →</a> Use the [Bank Account Comparison](/tools/bank-account-chooser/) to find the right Dutch bank for your situation.
 

@@ -66,7 +66,7 @@ For salary benchmarking, use the [Salary Checker](/tools/salary-checker/) before
 
 Registration in Amsterdam is handled through the Gemeente Amsterdam. You need a fixed address before you can register — this is the catch-22 that catches many new arrivals. If you are staying in temporary accommodation, check whether your landlord will allow registration at that address.
 
-Book your appointment at the Stadsloket as early as possible. Waiting times vary but can be 2–4 weeks. You will need your passport, rental contract, and proof of income or employment. Your BSN number is issued on the day of registration and is essential for opening a bank account, accessing healthcare, and signing contracts.
+Book your appointment at the Stadsloket as early as possible. Waiting times vary but can be 2–4 weeks. You will need your passport, rental contract, and proof of income or employment. Your BSN number is issued on the day of registration and is needed for opening a bank account, accessing healthcare, and signing contracts.
 
 Not sure which visa you need? Use the [Visa Checker](/tools/visa-permit-finder/) to find out. Use the [BSN Planner](/tools/bsn-planner/) to prepare your documents and understand the exact steps before your appointment. Planning your integration path? Use the [Inburgering Route Planner](/tools/inburgering-route-builder/) to see your requirements.
 
@@ -76,7 +76,7 @@ The main hospitals in Amsterdam are Amsterdam UMC (two campuses: AMC and VUmc), 
 
 Finding an English-speaking GP can take time. The Amsterdam Health Base and a number of Centrum-area practices advertise English-language consultations. Expect registration waiting lists of 4–8 weeks in popular neighbourhoods.
 
-Dutch health insurance is mandatory from day one of residence. Use the [Health Insurance Wizard](/tools/health-insurance-wizard/) to compare policies and find one suited to expats — premiums start around €130/month for basic coverage, and the annual deductible (eigen risico) is €385 in 2026. Compare Dutch and international expat insurance options with the [Insurance Comparison](/tools/insurance-chooser/).
+Dutch health insurance is mandatory from day one of residence. Use the [Health Insurance Wizard](/tools/health-insurance-wizard/) to compare policies and find one suited to expats — premiums start around €140/month for basic coverage, and the annual deductible (eigen risico) is €385 in 2026. Compare Dutch and international expat insurance options with the [Insurance Comparison](/tools/insurance-chooser/).
 
 ## Transport
 
@@ -88,7 +88,7 @@ Within the city, GVB operates trams, metro, and buses. The OV-chipkaart is the s
 
 ## Getting Started in Amsterdam
 
-Moving to Amsterdam requires a few essential steps. Here are the most important ones:
+Moving to Amsterdam requires a few first steps. Here are the most important ones:
 
 **Open a bank account** — You'll need a Dutch bank account for rent, salary, and daily expenses. [Wise](https://wise.com/invite/ihpc/willemt52) offers a multi-currency account that works from day one, even before your BSN arrives. <a href="https://wise.com/invite/ihpc/willemt52" target="_blank" rel="noopener nofollow sponsored" class="cta-affiliate">Open a Wise account →</a> Use the [Bank Account Comparison](/tools/bank-account-chooser/) to find the right Dutch bank for your situation.
 

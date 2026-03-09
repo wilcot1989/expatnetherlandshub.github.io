@@ -298,4 +298,4 @@ For a full picture of family costs in the Netherlands — childcare, housing, he
 
 ---
 
-*Last updated: May 2026.*
+*Last updated: March 2026.*

@@ -981,7 +981,7 @@ HSM Visa Guide 2026 <span class="cta-arrow">&rarr;</span>
 <li><strong>You arrive in the Netherlands</strong> and collect your residence permit (verblijfsvergunning) from the IND within three days of arrival.</li>
 <li><strong>Register at your municipality</strong> (gemeente) within five days. You will receive your BSN (citizen service number), which you need for everything from opening a bank account to registering with a GP.</li>
 </ol>
-<p>For a comprehensive step-by-step breakdown, see our <a href="/guides/legal/highly-skilled-migrant-visa-netherlands-2026/">HSM Visa Guide 2026</a>.</p>
+<p>For a full step-by-step breakdown, see our <a href="/guides/legal/highly-skilled-migrant-visa-netherlands-2026/">HSM Visa Guide 2026</a>.</p>
 
 <h2>Frequently asked questions</h2>
 <div class="faq-list">

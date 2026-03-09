@@ -13,16 +13,16 @@ affiliate: false
 type: "city-guide"
 
 faq:
-  - question: "Is Breda a good city for expats?"
-    answer: "Yes. Breda offers a very good quality of life at a fraction of the cost of Amsterdam or Utrecht. It has a warm Brabant culture, good transport links, and a growing international community. English is widely spoken, especially in the tech and logistics sectors."
-  - question: "How far is Breda from Amsterdam?"
-    answer: "By direct Intercity train, Breda is about 1 hour and 10 minutes from Amsterdam Centraal. Rotterdam is just 25 minutes away, and Eindhoven is around 45 minutes. The location makes Breda a realistic base for people working in multiple cities."
-  - question: "What is the average rent in Breda in 2026?"
-    answer: "A furnished two-bedroom apartment in or near Breda city centre typically costs between €1,200 and €1,700 per month. Studios start from around €850. Suburban districts and smaller apartments in areas like Princenhage tend to be cheaper than the central neighbourhoods."
-  - question: "Do I need to speak Dutch to live in Breda?"
-    answer: "Not for everyday life. English is widely understood and most services, shops, and employers in Breda are used to working in English. That said, making an effort with Dutch — even a handful of phrases — is appreciated and will open more doors socially."
-  - question: "How do I register and get a BSN number in Breda?"
-    answer: "You register at the Gemeente Breda with your passport, rental contract, and a booked appointment. Your BSN (citizen service number) is issued at or shortly after registration. You cannot open a bank account or access most services without it, so this should be your first priority."
+  - q: "Is Breda a good city for expats?"
+    a: "Yes. Breda offers a very good quality of life at a fraction of the cost of Amsterdam or Utrecht. It has a warm Brabant culture, good transport links, and a growing international community. English is widely spoken, especially in the tech and logistics sectors."
+  - q: "How far is Breda from Amsterdam?"
+    a: "By direct Intercity train, Breda is about 1 hour and 10 minutes from Amsterdam Centraal. Rotterdam is just 25 minutes away, and Eindhoven is around 45 minutes. The location makes Breda a realistic base for people working in multiple cities."
+  - q: "What is the average rent in Breda in 2026?"
+    a: "A furnished two-bedroom apartment in or near Breda city centre typically costs between €1,200 and €1,700 per month. Studios start from around €850. Suburban districts and smaller apartments in areas like Princenhage tend to be cheaper than the central neighbourhoods."
+  - q: "Do I need to speak Dutch to live in Breda?"
+    a: "Not for everyday life. English is widely understood and most services, shops, and employers in Breda are used to working in English. That said, making an effort with Dutch — even a handful of phrases — is appreciated and will open more doors socially."
+  - q: "How do I register and get a BSN number in Breda?"
+    a: "You register at the Gemeente Breda with your passport, rental contract, and a booked appointment. Your BSN (citizen service number) is issued at or shortly after registration. You cannot open a bank account or access most services without it, so this should be your first priority."
 ---
 
 People ask me all the time where to move in the Netherlands if they want a proper Dutch city life without the price tag that comes with Amsterdam or Utrecht. And more and more often, I find myself saying: have you looked at Breda?
@@ -82,7 +82,7 @@ For comparison, a two-bedroom in central Amsterdam runs €2,200–€2,800. In 
 
 **Utilities:** Budget around €140–€210 per month for gas, electricity, and water in a two-bedroom flat. This varies with the season and the energy efficiency of the property.
 
-**Dutch health insurance:** Compulsory for all residents. The base premium in 2026 is around €135–€160 per month, plus the annual deductible (eigen risico) of €385. Read the [Dutch health insurance guide for expats](/guides/health/dutch-health-insurance-guide-expats-2026/) to understand how it works before you arrive.
+**Dutch health insurance:** Compulsory for all residents. The base premium in 2026 is around €140–€175 per month, plus the annual deductible (eigen risico) of €385. Read the [Dutch health insurance guide for expats](/guides/health/dutch-health-insurance-guide-expats-2026/) to understand how it works before you arrive.
 
 ---
 

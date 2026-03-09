@@ -77,7 +77,7 @@ layout: "single"
 "name": "Is legal expenses insurance worth it for expats in the Netherlands?",
 "acceptedAnswer": {
 "@type": "Answer",
-"text": "Legal expenses insurance (rechtsbijstandsverzekering) is particularly valuable for expats navigating the Dutch legal system in an unfamiliar language. It covers legal disputes related to employment, housing, and traffic — areas where expats frequently encounter issues. Costs are €7–15 per month and can save thousands in lawyer fees."
+"text": "Legal expenses insurance (rechtsbijstandsverzekering) is particularly valuable for expats dealing with the Dutch legal system in an unfamiliar language. It covers legal disputes related to employment, housing, and traffic — areas where expats frequently encounter issues. Costs are €7–15 per month and can save thousands in lawyer fees."
 }
 }
 ]
@@ -584,7 +584,7 @@ If you are renting a furnished apartment — common for expats in cities like Am
 If you have rented or bought an unfurnished property and have accumulated furniture, electronics, and appliances, home contents insurance becomes much more important. Replacement value policies (Allianz, €10–25/month) pay out what it costs to buy new replacements, not depreciated value.
 </p>
 
-<h2>Legal Expenses Insurance: Navigating Dutch Disputes</h2>
+<h2>Legal Expenses Insurance: Handling Dutch Disputes</h2>
 <p>
 The Netherlands has a complex legal and administrative system that can be particularly challenging for expats unfamiliar with Dutch law. Legal expenses insurance (rechtsbijstandsverzekering) covers the cost of legal assistance in disputes involving:
 </p>
@@ -595,7 +595,7 @@ The Netherlands has a complex legal and administrative system that can be partic
 <li>Consumer rights — warranty and purchase disputes</li>
 </ul>
 <p>
-DAS is the market leader in the Netherlands and offers comprehensive coverage across all dispute types for €8–15 per month. Legal fees in the Netherlands can run €150–€300 per hour — a single employment dispute can easily cost €3,000–€10,000 in lawyer fees without insurance.
+DAS is the market leader in the Netherlands and offers full coverage across all dispute types for €8–15 per month. Legal fees in the Netherlands can run €150–€300 per hour — a single employment dispute can easily cost €3,000–€10,000 in lawyer fees without insurance.
 </p>
 <div class="info-box">
 <p><strong>Expat tip:</strong> Many Dutch employment disputes arise from misunderstandings about probation periods, notice requirements, or performance improvement procedures. Legal expenses insurance is especially valuable during your first few years in the Netherlands.</p>
@@ -744,7 +744,7 @@ coverage: [
 'Electronics and valuables covered',
 'Can add bicycle coverage'
 ],
-why: 'Straightforward coverage with a strong digital claims process and competitive pricing for standard apartments.',
+why: 'Solid coverage with a strong digital claims process and competitive pricing for standard apartments.',
 cta: 'https://www.awin1.com/cread.php?awinmid=8558&awinaffid=2776410&ued=https%3A%2F%2Fwww.independer.nl%2Fzorgverzekering'
 },
 {
@@ -794,12 +794,12 @@ budgetMin: 200,
 bestFor: 'Long-term expats / families',
 highlight: true,
 coverage: [
-'Comprehensive international coverage',
+'Full international coverage',
 'Emergency repatriation + family return',
 'Trip cancellation and interruption',
 'Mental health support included'
 ],
-why: 'Industry-leading expat travel insurance with comprehensive benefits and a dedicated multilingual support team.',
+why: 'Industry-leading expat travel insurance with full benefits and a dedicated multilingual support team.',
 cta: 'https://www.awin1.com/cread.php?awinmid=8558&awinaffid=2776410&ued=https%3A%2F%2Fwww.independer.nl%2Fzorgverzekering'
 }
 ]
@@ -830,7 +830,7 @@ id: 'das-legal',
 provider: 'DAS',
 price: '€8–15/month',
 budgetMin: 12,
-bestFor: 'Comprehensive coverage',
+bestFor: 'Full coverage',
 highlight: true,
 coverage: [
 'All areas: employment, housing, traffic, consumer',
@@ -838,7 +838,7 @@ coverage: [
 'Coverage from day 1 for accidents',
 'English-speaking legal advisors available'
 ],
-why: 'The market leader in Dutch legal insurance with a dedicated in-house team — especially valuable for expats navigating Dutch bureaucracy.',
+why: 'The market leader in Dutch legal insurance with a dedicated in-house team — especially valuable for expats dealing with Dutch bureaucracy.',
 cta: 'https://www.awin1.com/cread.php?awinmid=8558&awinaffid=2776410&ued=https%3A%2F%2Fwww.independer.nl%2Fzorgverzekering'
 }
 ]
@@ -872,12 +872,12 @@ budgetMin: 180,
 bestFor: 'Families / long-term expats',
 highlight: true,
 coverage: [
-'Comprehensive inpatient and outpatient',
+'Full inpatient and outpatient',
 'Dental and vision options',
 'Strong Netherlands network',
 'Maternity coverage available'
 ],
-why: 'Excellent Dutch hospital network and comprehensive benefits make this the top pick for expat families.',
+why: 'Excellent Dutch hospital network and full benefits make this the top pick for expat families.',
 cta: 'https://www.awin1.com/cread.php?awinmid=8558&awinaffid=2776410&ued=https%3A%2F%2Fwww.independer.nl%2Fzorgverzekering'
 }
 ]
@@ -1123,7 +1123,7 @@ const noteEl = document.getElementById('summaryNote');
 if (suggestions.length > 0) {
 noteEl.innerHTML = `<strong>Consider also adding:</strong> ${suggestions.join(', ')}.`;
 } else {
-noteEl.innerHTML = `<strong>Your insurance package looks comprehensive.</strong> Compare prices on Independer to find the best deal.`;
+noteEl.innerHTML = `<strong>Your insurance package looks complete.</strong> Compare prices on Independer to find the best deal.`;
 }
 
 // Build category cards

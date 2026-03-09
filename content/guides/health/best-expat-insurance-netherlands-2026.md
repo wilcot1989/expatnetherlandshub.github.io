@@ -14,7 +14,7 @@ faq:
   - q: "Is health insurance mandatory for expats in the Netherlands?"
     a: "Yes, if you live and work in the Netherlands, you are legally required to have Dutch basic health insurance (basisverzekering) within 4 months of arriving. This applies to employees, self-employed workers, and their dependents. Students from EU countries may be exempt if they have a European Health Insurance Card (EHIC)."
   - q: "How much does health insurance cost for expats in the Netherlands?"
-    a: "Basic health insurance (basisverzekering) costs €120-€145 per month in 2026. On top of that, you pay a mandatory deductible (eigen risico) of €385 per year. Supplementary insurance costs €10-€80 per month extra. Low-income earners may qualify for healthcare allowance (zorgtoeslag) of up to €175/month."
+    a: "Basic health insurance (basisverzekering) costs €140-€175 per month in 2026 depending on the insurer. On top of that, you pay a mandatory deductible (eigen risico) of €385 per year. Supplementary insurance costs €10-€80 per month extra. Low-income earners may qualify for healthcare allowance (zorgtoeslag) of up to approximately €130/month."
   - q: "Can I keep my international health insurance instead of Dutch insurance?"
     a: "Generally no. If you work in the Netherlands (employed or self-employed), you must take out Dutch basic health insurance. Exceptions include posted workers (detachering) from EU countries and some international organization employees. Students with an EHIC may also be exempt."
   - q: "What does Dutch basic health insurance cover?"
@@ -34,7 +34,7 @@ New to the Netherlands? Start with our [complete expat guide](/guides/legal/comp
 
 | Insurance | Mandatory? | Monthly Cost | Priority |
 |-----------|-----------|-------------|----------|
-| **Health insurance (zorgverzekering)** | ✅ Yes | €120-€145 | Immediate |
+| **Health insurance (zorgverzekering)** | ✅ Yes | €140-€175 | Immediate |
 | **Liability (aansprakelijkheid)** | ❌ No | €3-€5 | Key |
 | **Home contents (inboedel)** | ❌ No | €8-€20 | Recommended |
 | **Travel insurance** | ❌ No | €5-€15 | Recommended |
@@ -51,7 +51,7 @@ New to the Netherlands? Start with our [complete expat guide](/guides/legal/comp
 The Netherlands has a unique healthcare system combining public regulation with private insurance. Every resident must have basic health insurance (basisverzekering), which is provided by private insurance companies but regulated by the government.
 
 **The three layers:**
-1. **Basisverzekering** (basic insurance) — Mandatory, same coverage at every insurer, costs €120-€145/month
+1. **Basisverzekering** (basic insurance) — Mandatory, same coverage at every insurer, costs €140-€175/month
 2. **Aanvullende verzekering** (supplementary) — Optional, covers extras like dental, physiotherapy
 3. **Eigen risico** (deductible) — Mandatory €385/year out-of-pocket before insurer pays (GP visits exempt)
 
@@ -72,19 +72,19 @@ The Netherlands has a unique healthcare system combining public regulation with 
 
 | Provider | Monthly Premium | Expat-Friendly | English Support |
 |----------|----------------|---------------|----------------|
-| **CZ** | €130-€140 | ⭐⭐⭐⭐ | ✅ Online |
-| **Zilveren Kruis** | €125-€140 | ⭐⭐⭐⭐ | ✅ Phone + online |
-| **VGZ** | €128-€138 | ⭐⭐⭐ | Partial |
-| **Menzis** | €125-€135 | ⭐⭐⭐ | Partial |
-| **ONVZ** | €135-€145 | ⭐⭐⭐⭐⭐ | ✅ Full |
+| **CZ** | €140-€150 | ⭐⭐⭐⭐ | ✅ Online |
+| **Zilveren Kruis** | €145-€155 | ⭐⭐⭐⭐ | ✅ Phone + online |
+| **VGZ** | €145-€155 | ⭐⭐⭐ | Partial |
+| **Menzis** | €140-€150 | ⭐⭐⭐ | Partial |
+| **ONVZ** | €150-€165 | ⭐⭐⭐⭐⭐ | ✅ Full |
 
-**Our recommendation:** ONVZ or Zilveren Kruis for expats. Both have excellent English-language support, online portals in English, and experience serving international clients. For a detailed comparison of ONVZ against international alternatives, see our [ONVZ vs Aetna expat health insurance comparison](/guides/health/onvz-vs-aetna-expat-health-insurance-2026/).
+**Our recommendation:** ONVZ or Zilveren Kruis for expats. Both have excellent English-language support, online portals in English, and experience serving international clients. For a detailed comparison of ONVZ against international alternatives, see our [ONVZ vs Aetna expat health insurance comparison](/guides/health/onvz-vs-aetna-international-health-insurance-2026/).
 
 ### Healthcare Allowance (Zorgtoeslag)
 
 If your income is below a certain threshold, you may qualify for healthcare allowance (zorgtoeslag) from the government. In 2026:
-- **Single person:** Income up to ~€38,000 → up to €175/month
-- **Couple:** Combined income up to ~€48,000 → up to €175/month per person
+- **Single person:** Income up to ~€38,520 → up to approximately €130/month
+- **Couple:** Combined income up to ~€48,224 → up to approximately €130/month
 
 Apply via [toeslagen.nl](https://www.toeslagen.nl) — you need a DigiD. See our [DigiD guide for expats](/guides/legal/digid-guide-expats-2026/).
 
@@ -92,7 +92,7 @@ Apply via [toeslagen.nl](https://www.toeslagen.nl) — you need a DigiD. See our
 
 Consider supplementary insurance if you need:
 - **Dental care** — Basic cleanings + checkups cost €200-€400/year uninsured
-- **Physiotherapy** — First 12-20 sessions are often not covered by basic insurance
+- **Physiotherapy** — Basic insurance only covers chronic conditions from the 21st session onward
 - **Glasses/contacts** — Supplementary may cover €100-€200 per 2 years
 - **Alternative medicine** — Acupuncture, osteopathy, etc.
 
@@ -185,7 +185,7 @@ Legal expenses insurance covers the cost of legal assistance in disputes. In the
 - **Monthly premium:** €15-€25
 - **Coverage:** Legal advice, mediation, and court costs
 
-**Consider it if:** You rent (landlord disputes are common), have a Dutch employment contract, or want peace of mind navigating Dutch legal systems.
+**Consider it if:** You rent (landlord disputes are common), have a Dutch employment contract, or want peace of mind dealing with Dutch legal systems.
 
 ## Insurance Comparison by Expat Situation
 
@@ -303,7 +303,7 @@ This is the transition that most expats handle either too early or too late. The
 
 **The four-month rule:** Dutch law gives you four months from the date you first fall under the obligation (typically your employment start date) to register with a Dutch insurer. If you register late, you face a CAK fine and may be back-billed for premiums from the date the obligation started.
 
-**Why switching can feel expensive:** Dutch basisverzekering at EUR 120-145/month plus the EUR 385 annual deductible can feel like more than you were paying for international cover. But you also get access to Dutch GP care, specialist referrals, and hospital treatment at no or low marginal cost — the system is genuinely good value once you use it.
+**Why switching can feel expensive:** Dutch basisverzekering at EUR 140-175/month plus the EUR 385 annual deductible can feel like more than you were paying for international cover. But you also get access to Dutch GP care, specialist referrals, and hospital treatment at no or low marginal cost — the system is genuinely good value once you use it.
 
 **When international cover still makes sense alongside Dutch insurance:** If you travel frequently — more than 8-10 trips per year, or long stays outside the EU — a supplementary international travel insurance or SafetyWing plan on top of your Dutch basisverzekering makes sense. Dutch health insurance covers you within the Netherlands and has limited out-of-EU coverage. The combination gives you complete worldwide protection without paying for full international health insurance.
 
@@ -325,4 +325,10 @@ Not sure which Dutch insurance package is right for your situation? Our [health 
 
 ---
 
-*Last updated: April 2026.*
+## Final Thoughts
+
+Insurance in the Netherlands is not complicated once you understand the layers. Start with the mandatory basisverzekering, add liability insurance in your first week, and then assess what else you need based on your situation. Freelancers should prioritise disability insurance above everything else optional.
+
+The key steps: compare health insurance on Independer before your 4-month deadline, apply for zorgtoeslag if you qualify, and do not over-insure — a basic liability policy and sensible supplementary dental coverage are enough for most expats.
+
+*Last updated: March 2026.*

@@ -34,7 +34,7 @@ Breda is significantly cheaper than Amsterdam, cheaper than Utrecht, and broadly
 | 1-bedroom apartment (private rental) | €850–€1,200 |
 | 2-bedroom apartment | €1,200–€1,700 |
 | Monthly OV public transport pass | €80–€130 (commuting frequency dependent) |
-| Groceries (single person) | €380–€540/month (weekly shop for two: €95–€135) |
+| Groceries (single person) | €260–€360 |
 | Dinner out (mid-range, two people) | €56–€100 |
 | Gym membership | €25–€45 |
 
@@ -88,7 +88,7 @@ Amphia Hospital is the main hospital serving Breda and the surrounding region, a
 
 For general practice, English-speaking GPs are available, particularly in areas with higher concentrations of international residents. Finding a GP can take 2–4 weeks. Register as soon as you arrive — it is one of those things that feels less urgent than it is until you actually need a doctor.
 
-Health insurance is mandatory from your first day as a Dutch resident, regardless of whether you are EU or non-EU. Premiums in 2026 run approximately €135–€160 per month, plus the annual deductible (eigen risico) of €385. Use the [Health Insurance Wizard](/tools/health-insurance-wizard/) to compare policies before you commit. Compare Dutch and international expat insurance options with the [Insurance Comparison](/tools/insurance-chooser/).
+Health insurance is mandatory from your first day as a Dutch resident, regardless of whether you are EU or non-EU. Premiums in 2026 run approximately €140–€175 per month, plus the annual deductible (eigen risico) of €385. Use the [Health Insurance Wizard](/tools/health-insurance-wizard/) to compare policies before you commit. Compare Dutch and international expat insurance options with the [Insurance Comparison](/tools/insurance-chooser/).
 
 If you are arriving from outside the EU and have a gap period before your Dutch insurance kicks in, consider interim travel or international health cover — SafetyWing is one option worth looking at for short-term gaps.
 
@@ -111,7 +111,7 @@ If you drive, Breda is well connected: the A16 runs south to Antwerp and north t
 
 ## Getting Started in Breda
 
-Moving to Breda requires a few essential steps. Here are the most important ones:
+Moving to Breda requires a few first steps. Here are the most important ones:
 
 **Open a bank account** — You'll need a Dutch bank account for rent, salary, and daily expenses. [Wise](https://wise.com/invite/ihpc/willemt52) offers a multi-currency account that works from day one, even before your BSN arrives. <a href="https://wise.com/invite/ihpc/willemt52" target="_blank" rel="noopener nofollow sponsored" class="cta-affiliate">Open a Wise account →</a> Use the [Bank Account Comparison](/tools/bank-account-chooser/) to find the right Dutch bank for your situation.
 

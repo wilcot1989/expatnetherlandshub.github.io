@@ -18,7 +18,7 @@ faq:
   - q: "Is Duolingo good enough to learn Dutch?"
     a: "Duolingo is a solid free option that works well for building basic vocabulary and getting familiar with Dutch sentence structure. However, it has limitations: explanations of grammar are minimal, the content can feel repetitive, and it does not focus enough on conversational Dutch. For serious learners, we recommend using Duolingo as a supplement alongside a more structured app like Babbel or Pimsleur."
   - q: "How long does it take to learn Dutch with an app?"
-    a: "With consistent daily practice (20-30 minutes per day), most English speakers can reach a conversational level (A2-B1) in Dutch within 6-12 months. Dutch is classified as a Category I language by the FSA, meaning it is one of the easier languages for English speakers. Using an app combined with real-world practice will accelerate your progress significantly."
+    a: "With consistent daily practice (20-30 minutes per day), most English speakers can reach a conversational level (A2-B1) in Dutch within 6-12 months. Dutch is classified as a Category I language by the FSI, meaning it is one of the easier languages for English speakers. Using an app combined with real-world practice will accelerate your progress significantly."
   - q: "Are there any free apps to learn Dutch?"
     a: "Yes. Duolingo offers a complete Dutch course for free (with ads). The free version is fully functional for learning. Other apps like Mondly and Busuu offer limited free content, but their full Dutch courses require a subscription. For the best free experience, Duolingo is the clear winner."
   - q: "Is Pimsleur worth the price for learning Dutch?"
@@ -338,7 +338,7 @@ Based on my testing, here is the combination I recommend for expats learning Dut
 
 If you are still in the planning stages of your move, check out our [complete guide to moving to the Netherlands in 2026](/guides/legal/complete-guide-moving-to-netherlands-2026/) for everything you need to know about visas, housing, and registration.
 
-**Complement your app learning with real Dutch encounters:** The fastest way to progress past A2 is to use the language in practical situations. Your [DigiD](/guides/legal/digid-guide-expats-2026/) gives you access to Dutch government portals — navigating these in Dutch is surprisingly good practice. Commuting by [OV-chipkaart](/guides/daily-life/ov-chipkaart-guide-expats-2026/) and reading station signs forces you to engage with the language daily.
+**Complement your app learning with real Dutch encounters:** The fastest way to progress past A2 is to use the language in practical situations. Your [DigiD](/guides/legal/digid-guide-expats-2026/) gives you access to Dutch government portals — working through these in Dutch is surprisingly good practice. Commuting by [OV-chipkaart](/guides/daily-life/ov-chipkaart-guide-expats-2026/) and reading station signs forces you to engage with the language daily.
 
 **Formal courses alongside apps:** Apps build vocabulary and grammar habits, but a structured classroom course with a teacher accelerates speaking confidence significantly. See our [best Dutch language courses guide](/guides/integration/best-dutch-language-courses-2026/) for a full comparison — including which providers are eligible for employer reimbursement and which offer Saturday options for working professionals.
 
@@ -348,7 +348,7 @@ If you are still in the planning stages of your move, check out our [complete gu
 
 ---
 
-For personalized speaking practice with a real Dutch tutor, Preply is an excellent complement to any of the apps above. Not sure whether Preply or italki is better for Dutch tutoring? Our [Preply vs italki comparison](/guides/integration/preply-vs-italki-dutch-tutoring-2026/) breaks down the differences in tutor quality, pricing, and lesson format.
+For personalized speaking practice with a real Dutch tutor, Preply is an excellent complement to any of the apps above. Not sure whether Preply or italki is better for Dutch tutoring? Our [Preply vs italki comparison](/guides/integration/preply-vs-italki-dutch-lessons-2026/) breaks down the differences in tutor quality, pricing, and lesson format.
 
 <a href="https://preply.com/" target="_blank" rel="noopener noreferrer" class="cta-affiliate">Book a Dutch lesson on Preply →</a>
 

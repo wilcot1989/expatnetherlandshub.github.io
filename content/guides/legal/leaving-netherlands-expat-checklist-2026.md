@@ -1,7 +1,7 @@
 ---
 title: "Leaving the Netherlands: Complete Expat Checklist 2026"
-date: 2026-05-04T10:00:00+01:00
-lastmod: 2026-05-04T10:00:00+01:00
+date: 2026-03-09T10:00:00+01:00
+lastmod: 2026-03-09T10:00:00+01:00
 type: "guide"
 description: "Everything you need to do before leaving the Netherlands as an expat. Deregistration, tax return, cancel insurance, pension, bank accounts, and more."
 categories: ["legal"]

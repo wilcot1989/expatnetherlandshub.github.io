@@ -82,7 +82,7 @@ MUMC+ is the main hospital, with strong specialist facilities particularly in he
 
 Registration with a GP typically takes 1–3 weeks. The university's student health service is a separate system from general practice — if you are an employee rather than a student, you register with a regular huisarts.
 
-Health insurance is mandatory from your first day as a Dutch resident. Cross-border workers face a more complex situation — if you are employed in Belgium or Germany but resident in the Netherlands, your insurance obligations depend on your employment country. Get specialist advice before assuming Dutch insurance rules apply straightforwardly. Premiums start around €130/month for standard Dutch residents. Use the [Health Insurance Wizard](/tools/health-insurance-wizard/) to compare policies. Compare Dutch and international expat insurance options with the [Insurance Comparison](/tools/insurance-chooser/).
+Health insurance is mandatory from your first day as a Dutch resident. Cross-border workers face a more complex situation — if you are employed in Belgium or Germany but resident in the Netherlands, your insurance obligations depend on your employment country. Get specialist advice before assuming Dutch insurance rules apply straightforwardly. Premiums start around €140/month for standard Dutch residents. Use the [Health Insurance Wizard](/tools/health-insurance-wizard/) to compare policies. Compare Dutch and international expat insurance options with the [Insurance Comparison](/tools/insurance-chooser/).
 
 ## Transport
 
@@ -96,7 +96,7 @@ For a full guide to OV travel in the Netherlands, see the [OV-chipkaart guide fo
 
 ## Getting Started in Maastricht
 
-Moving to Maastricht requires a few essential steps. Here are the most important ones:
+Moving to Maastricht requires a few first steps. Here are the most important ones:
 
 **Open a bank account** — You'll need a Dutch bank account for rent, salary, and daily expenses. [Wise](https://wise.com/invite/ihpc/willemt52) offers a multi-currency account that works from day one, even before your BSN arrives. <a href="https://wise.com/invite/ihpc/willemt52" target="_blank" rel="noopener nofollow sponsored" class="cta-affiliate">Open a Wise account →</a> Use the [Bank Account Comparison](/tools/bank-account-chooser/) to find the right Dutch bank for your situation.
 

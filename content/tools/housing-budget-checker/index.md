@@ -438,7 +438,7 @@ Calculate My Housing Budget &rarr;
 </ul>
 
 <h2>Tips for Reducing Housing Costs in the Netherlands</h2>
-<p>After helping dozens of expats navigate the Dutch rental and buying market, here are the strategies that actually work:</p>
+<p>After helping dozens of expats find their way in the Dutch rental and buying market, here are the strategies that actually work:</p>
 <ul>
 <li><strong>Consider cities outside the Randstad.</strong> Eindhoven, Groningen, and Maastricht offer significantly lower rents while still having good international communities and English-language infrastructure.</li>
 <li><strong>Look at energy-efficient homes.</strong> An apartment with energy label A or B will have dramatically lower utility costs than a poorly insulated older building. This can save &euro;100\u2013200/month in winter.</li>

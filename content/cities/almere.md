@@ -62,7 +62,7 @@ Government services are well represented. The provincial government of Flevoland
 
 The tech and creative sector is growing, with some Amsterdam-based companies opening Almere offices as they expand. The city has invested in business parks — the Almere Business District near the Centrum and the logistics zones near the A6 motorway are the main concentrations.
 
-In practice, many Almere residents commute to Amsterdam. The 25-minute train journey makes this straightforward, and for professionals working in Amsterdam who want affordable housing, this is the most common arrangement. Train frequency is good — services run every 15 minutes at peak times.
+In practice, many Almere residents commute to Amsterdam. The 25-minute train journey makes this practical, and for professionals working in Amsterdam who want affordable housing, this is the most common arrangement. Train frequency is good — services run every 15 minutes at peak times.
 
 For salary benchmarking before you accept an offer, use the [Salary Checker](/tools/salary-checker/). Use the [30% Ruling Calculator](/tools/30-percent-ruling-calculator/) to see how much tax you could save. If you have a foreign degree, check recognition requirements with the [Diploma Evaluator](/tools/diploma-evaluator/). The [Working in the Netherlands guide](/guides/work/) covers employment contracts, 30% ruling, and what to expect from Dutch workplace culture.
 
@@ -82,7 +82,7 @@ Flevoziekenhuis in Almere is the main hospital, a modern general hospital with a
 
 Finding a GP (huisarts) in Almere can take longer than in many Dutch cities. The city has grown faster than its GP capacity, and some practices have closed their lists. Budget 2–6 weeks to get registered with a GP, and start the search before you need one. English-language capacity among GPs varies; the city is less internationally saturated than Amsterdam, so finding an English-speaking practice may require some effort.
 
-Health insurance is mandatory from your first day as a Dutch resident. Premiums in 2026 start around €130/month with a €385 annual deductible. Use the [Health Insurance Wizard](/tools/health-insurance-wizard/) to compare policies and find one that suits your situation. Compare Dutch and international expat insurance options with the [Insurance Comparison](/tools/insurance-chooser/).
+Health insurance is mandatory from your first day as a Dutch resident. Premiums in 2026 start around €140/month with a €385 annual deductible. Use the [Health Insurance Wizard](/tools/health-insurance-wizard/) to compare policies and find one that suits your situation. Compare Dutch and international expat insurance options with the [Insurance Comparison](/tools/insurance-chooser/).
 
 ## Transport
 
@@ -110,7 +110,7 @@ If you are also considering [Amsterdam](/cities/amsterdam/) or [Utrecht](/cities
 
 ## Getting Started in Almere
 
-Moving to Almere requires a few essential steps. Here are the most important ones:
+Moving to Almere requires a few first steps. Here are the most important ones:
 
 **Open a bank account** — You'll need a Dutch bank account for rent, salary, and daily expenses. [Wise](https://wise.com/invite/ihpc/willemt52) offers a multi-currency account that works from day one, even before your BSN arrives. <a href="https://wise.com/invite/ihpc/willemt52" target="_blank" rel="noopener nofollow sponsored" class="cta-affiliate">Open a Wise account →</a> Use the [Bank Account Comparison](/tools/bank-account-chooser/) to find the right Dutch bank for your situation.
 

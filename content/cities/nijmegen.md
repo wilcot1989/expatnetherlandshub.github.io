@@ -84,13 +84,13 @@ For general practice, English-speaking GP practices (huisartsen) are available t
 
 The Radboud university community means there is reasonable English-language GP capacity, but as in any Dutch city of this size, it is worth registering before you need anything rather than waiting until you do.
 
-Health insurance is mandatory from your first day as a Dutch resident. Basic premiums run from around €130–€145 per month in 2026, with a standard annual deductible of €385. Use the [Health Insurance Wizard](/tools/health-insurance-wizard/) to compare policies and find the right level of cover for your situation. Compare Dutch and international expat insurance options with the [Insurance Comparison](/tools/insurance-chooser/).
+Health insurance is mandatory from your first day as a Dutch resident. Basic premiums run from around €140–€175 per month in 2026, with a standard annual deductible of €385. Use the [Health Insurance Wizard](/tools/health-insurance-wizard/) to compare policies and find the right level of cover for your situation. Compare Dutch and international expat insurance options with the [Insurance Comparison](/tools/insurance-chooser/).
 
 See the [health insurance guide](/guides/health/) for a full explanation of how the Dutch system works.
 
 ## Transport
 
-Nijmegen Centraal connects the city to the main Dutch rail network. Arnhem is 15 minutes east — useful for connections north and for the Arnhem–Nijmegen metropolitan area job market. Utrecht is around 60 minutes; Amsterdam Centraal is around 90 minutes. Connections to Germany run from Arnhem rather than Nijmegen directly, but the short hop east makes cross-border travel reasonably straightforward.
+Nijmegen Centraal connects the city to the main Dutch rail network. Arnhem is 15 minutes east — useful for connections north and for the Arnhem–Nijmegen metropolitan area job market. Utrecht is around 60 minutes; Amsterdam Centraal is around 90 minutes. Connections to Germany run from Arnhem rather than Nijmegen directly, but the short hop east makes cross-border travel fairly simple.
 
 Within the city, cycling is the standard. The Radboud campus is around 2–3 km from the city centre — a 10–15 minute ride — and Radboudumc is adjacent to the university. The city has good cycling infrastructure, though the hills in the southern parts of the city are more pronounced than in most Dutch cities. If you have not cycled hills before, the area around the Valkhof will be a small adjustment.
 
@@ -100,7 +100,7 @@ For a full guide to OV travel in the Netherlands, see the [OV-chipkaart guide fo
 
 ## Getting Started in Nijmegen
 
-Moving to Nijmegen requires a few essential steps. Here are the most important ones:
+Moving to Nijmegen requires a few first steps. Here are the most important ones:
 
 **Open a bank account** — You'll need a Dutch bank account for rent, salary, and daily expenses. [Wise](https://wise.com/invite/ihpc/willemt52) offers a multi-currency account that works from day one, even before your BSN arrives. <a href="https://wise.com/invite/ihpc/willemt52" target="_blank" rel="noopener nofollow sponsored" class="cta-affiliate">Open a Wise account →</a> Use the [Bank Account Comparison](/tools/bank-account-chooser/) to find the right Dutch bank for your situation.
 

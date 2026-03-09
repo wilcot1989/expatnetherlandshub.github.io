@@ -26,7 +26,7 @@ What a good expat tax advisor does:
 - Advises on Box 3 savings and investment declarations
 - Deals with DigiD issues and correspondence with the Belastingdienst
 
-Most expat tax advisors in the Netherlands charge EUR 200-500 for an annual return, depending on complexity. For straightforward situations, filing yourself via the Belastingdienst portal is genuinely feasible after your first year. Our [Dutch tax system guide](/guides/finance/dutch-tax-system-expats-guide-2026/) walks through the basics.
+Most expat tax advisors in the Netherlands charge EUR 200-500 for an annual return, depending on complexity. For simple situations, filing yourself via the Belastingdienst portal is genuinely feasible after your first year. Our [Dutch tax system guide](/guides/finance/dutch-tax-system-expats-guide-2026/) walks through the basics.
 
 Use our [30% ruling calculator](/tools/30-percent-ruling-calculator/) to estimate whether you qualify and how much it's worth for your salary.
 
@@ -53,7 +53,7 @@ Opening a Dutch bank account is one of the first practical tasks after arrival. 
 Banks popular with expats:
 - **Bunq** — expat-friendly, fast online setup, English app, no BSN required initially
 - **ING** and **Rabobank** — established Dutch banks with full-service branches
-- **Wise** — not a Dutch bank account, but essential for sending money abroad at real exchange rates
+- **Wise** — not a Dutch bank account, but important for sending money abroad at real exchange rates
 
 For most expats, a combination of a Dutch current account and Wise for international transfers covers all bases. Our [banking guide](/guides/finance/) covers setup steps, what documents you need, and which banks are currently most accessible for new arrivals.
 
@@ -78,7 +78,7 @@ Full-service relocation companies handle everything from housing searches and sc
 
 If you're relocating without employer support, a lighter-touch approach — using a few hours of relocation consultation plus the guides on this site — covers most situations at a fraction of the cost.
 
-I offer one-to-one relocation consultations for expats navigating the process independently. [Contact me](/about/) if you'd like details.
+I offer one-to-one relocation consultations for expats going through the process independently. [Contact me](/about/) if you'd like details.
 
 ---
 

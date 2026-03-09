@@ -81,7 +81,7 @@ For a full breakdown of how to register, get your BSN, and start your coverage, 
 | **App quality** | Good (Mijn Zilveren Kruis) | Good (Mijn CZ) |
 | **Dental (basic add-on)** | ~EUR 10/month | ~EUR 8/month |
 | **Dental (full add-on)** | ~EUR 20-26/month | ~EUR 18-22/month |
-| **Physiotherapy (first 9 sessions)** | Covered in basis | Covered in basis |
+| **Physiotherapy (chronic, from session 21)** | Covered in basis | Covered in basis |
 | **Physio add-on (extra sessions)** | Available from ~EUR 5/month | Available from ~EUR 6/month |
 | **Mental health (GGZ basis)** | Covered in basis | Covered in basis |
 | **Alternative medicine** | Optional add-on | Optional add-on |

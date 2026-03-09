@@ -22,7 +22,7 @@ faq:
   - q: "Do I need to speak Dutch for a highly skilled migrant visa?"
     a: "No, there is no Dutch language requirement for the highly skilled migrant visa. However, learning Dutch is beneficial for daily life and long-term integration. The inburgeringsexamen (civic integration exam) is not required for highly skilled migrants, unlike some other visa categories."
   - q: "Can I become a permanent resident after a highly skilled migrant visa?"
-    a: "Yes, after 5 years of continuous legal residence in the Netherlands, you can apply for permanent residency or Dutch citizenship. Note that for citizenship, you will need to pass the inburgeringsexamen, which includes a Dutch language test at A2 level."
+    a: "Yes, after 5 years of continuous legal residence in the Netherlands, you can apply for permanent residency or Dutch citizenship. Note that for citizenship, you will need to pass the inburgeringsexamen, which requires Dutch language skills at B1 level."
 ---
 
 Most of my expat clients come to the Netherlands on a highly skilled migrant visa, and the good news is that it is one of the smoother immigration processes I have seen. Your employer does most of the heavy lifting, and the turnaround is surprisingly fast. That said, I have watched a few applications hit unnecessary snags because of avoidable mistakes. Here is the step-by-step guide I give every client to make sure everything goes right the first time.
@@ -297,4 +297,4 @@ For the full picture of arriving, settling, and protecting your status, our [com
 
 ---
 
-*Last updated: April 2026.*
+*Last updated: March 2026.*

@@ -1,0 +1,108 @@
+# EXPAT-HANDMATIGE-FACTCHECKS.md
+## Handmatige Factchecks Vereist — ExpatNetherlandsHub
+Datum: 2026-03-09
+
+---
+
+## Waarom handmatig?
+
+Onderstaande items bevatten tegenstrijdige informatie tussen artikelen die NIET veilig kan worden opgelost zonder externe bronverificatie. Niets hiervan is gewijzigd — het staat exact zoals het in de artikelen staat.
+
+---
+
+## KRITIEK — Controleer vóór publicatie
+
+### 1. Wise IBAN type — NL of BE?
+**Impact:** 6+ artikelen
+- `best-bank-account-expats-netherlands-2026`: zegt "NL IBAN" in body én FAQ
+- `money-transfer-guide-expats-2026`: zegt "Belgian IBAN"
+- **Actie:** Log in op wise.com en controleer welk IBAN-type Nederlandse accounts krijgen. Pas alle artikelen aan.
+- **Bron:** wise.com/help of eigen Wise-account
+
+### 2. Box 1 belastingschijf 2026
+**Impact:** 3 artikelen
+- `dutch-tax-guide-expats-2026`: €75,518
+- `30-percent-ruling-netherlands-2026`: €76,817
+- `freelancer-zzp-guide-netherlands-2026`: €38,441 (lijkt een ander bedrag — mogelijk schijf 1 grens?)
+- **Actie:** Controleer Belastingdienst.nl voor de actuele 2026 Box 1 grenzen. Pas alle artikelen aan naar dezelfde juiste bedragen.
+- **Bron:** belastingdienst.nl/wps/wcm/connect/nl/belastingaangifte/
+
+### 3. HSM salarisdrempels 2026
+**Impact:** 3+ artikelen (legal cluster)
+- Drie varianten gevonden: €5,008, €5,331, €5,688 (30+)
+- Nu aligned naar €5,331/€3,909 (uit het HSM-artikel), maar dit moet geverifieerd worden
+- **Actie:** Controleer IND.nl voor de actuele 2026 kennismigrant salarisdrempels
+- **Bron:** ind.nl/werk/kennismigrant
+
+---
+
+## HOOG — Controleer deze week
+
+### 4. Zorgtoeslag maximum 2026
+**Impact:** 2 artikelen
+- Meeste artikelen zeggen "~€130/maand" (gecorrigeerd)
+- `digid-guide-expats-2026` zegt "tot €155/maand" en "~€115/maand voor €32.000 inkomen"
+- **Actie:** Controleer toeslagen.nl voor actuele zorgtoeslag bedragen 2026
+- **Bron:** toeslagen.nl/zorgtoeslag
+
+### 5. Revolut Premium pricing
+**Impact:** 2-3 artikelen
+- Drie verschillende bedragen gevonden in verschillende artikelen
+- **Actie:** Controleer revolut.com/nl voor actuele pricing
+- **Bron:** revolut.com/pricing
+
+### 6. bunq Easy Green pricing
+**Impact:** 2 artikelen
+- Twee verschillende maandbedragen
+- **Actie:** Controleer bunq.com voor actuele pricing
+- **Bron:** bunq.com/plans
+
+### 7. ING/ABN AMRO maandkosten
+**Impact:** 2 artikelen (nu gecorrigeerd naar €2,45)
+- Gecorrigeerd van "gratis" (ING) en "€1,95" (ABN AMRO) naar €2,45
+- **Actie:** Verifieer dat €2,45 het actuele tarief is voor beide banken
+- **Bron:** ing.nl/particulier/betalen, abnamro.nl/betaalrekening
+
+---
+
+## MEDIUM — Controleer voor eind maart
+
+### 8. 30% ruling — complete-guide-moving-to-netherlands-2026
+- Beschrijft de 30% ruling nog als vlak 30% in de FAQ
+- Het 30-percent-ruling-artikel zelf is al gecorrigeerd naar 30/20/10%
+- **Actie:** Besluit of de legal cluster artikelen ook het sliding scale detail moeten noemen, of dat een simpele verwijzing naar het 30%-artikel volstaat
+
+### 9. Cost-of-living FAQ vs body contradiction
+- FAQ zegt "€2.200-3.500/maand excl. huur" voor single
+- Samenvattingstabel zegt "€950-1.555 excl. huur"
+- **Actie:** Bepaal welk cijfer correct is (mogelijk verschillende scopes). Maak consistent.
+
+### 10. NHG limiet 2026
+- Controleer of het genoemde bedrag in de mortgage guide actueel is
+- **Bron:** nhg.nl
+
+### 11. Overdrachtsbelasting vrijstellingsgrens 2026
+- Controleer het actuele bedrag (voor kopers <35 jaar)
+- **Bron:** belastingdienst.nl
+
+### 12. Leiden zorgverzekering "€140-180"
+- Meeste artikelen gebruiken €140-175
+- Leiden moving guide zegt €140-180 (bovengrens iets hoger — mogelijk incl. aanvullend)
+- **Actie:** Besluit of €140-175 of €140-180 de standaard moet zijn
+
+---
+
+## Checklist
+
+- [ ] Wise IBAN type geverifieerd
+- [ ] Box 1 schijf 2026 geverifieerd
+- [ ] HSM salarissen 2026 geverifieerd
+- [ ] Zorgtoeslag max 2026 geverifieerd
+- [ ] Revolut Premium pricing geverifieerd
+- [ ] bunq pricing geverifieerd
+- [ ] ING/ABN AMRO fees geverifieerd
+- [ ] 30% ruling framing in legal cluster besloten
+- [ ] Cost-of-living contradiction opgelost
+- [ ] NHG limiet geverifieerd
+- [ ] Overdrachtsbelasting grens geverifieerd
+- [ ] Leiden premie-range besloten

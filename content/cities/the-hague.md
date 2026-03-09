@@ -66,7 +66,7 @@ For salary benchmarking use the [Salary Checker](/tools/salary-checker/) or read
 
 Registration is handled by the Gemeente Den Haag. Appointments are available online at the main city hall (Spui) and district offices. Waiting times are typically 1–3 weeks.
 
-Expats arriving on assignment through an international organisation should check whether their employer has a dedicated registration pathway — many of the larger institutions have agreements with the municipality that streamline the process. The International Service Centre on Catsheuvel handles arrivals specifically for this group.
+Expats arriving on assignment through an international organisation should check whether their employer has a dedicated registration pathway — many of the larger institutions have agreements with the municipality that simplify the process. The International Service Centre on Catsheuvel handles arrivals specifically for this group.
 
 Standard documentation: passport, rental contract, employment contract or proof of sufficient funds. BSN is issued on the day of registration.
 
@@ -78,7 +78,7 @@ The main hospitals in The Hague are HMC (Haaglanden Medisch Centrum, two campuse
 
 English-speaking GPs are well established in The Hague given the international population. The International Health Centre Den Haag caters specifically to expats. Several practices in the Bezuidenhout and Statenkwartier areas have English-language capacity. Registration waiting lists are typically 2–5 weeks.
 
-Health insurance is mandatory from your first day as a Dutch resident. Expats on certain diplomatic statuses may have different arrangements — check with your employer. For standard arrivals, premiums start around €130/month with a €385 eigen risico. Use the [Health Insurance Wizard](/tools/health-insurance-wizard/) to compare options. Compare Dutch and international expat insurance options with the [Insurance Comparison](/tools/insurance-chooser/).
+Health insurance is mandatory from your first day as a Dutch resident. Expats on certain diplomatic statuses may have different arrangements — check with your employer. For standard arrivals, premiums start around €140/month with a €385 eigen risico. Use the [Health Insurance Wizard](/tools/health-insurance-wizard/) to compare options. Compare Dutch and international expat insurance options with the [Insurance Comparison](/tools/insurance-chooser/).
 
 ## Transport
 
@@ -90,7 +90,7 @@ For a full guide to OV travel, see the [OV-chipkaart guide for expats](/guides/d
 
 ## Getting Started in The Hague
 
-Moving to The Hague requires a few essential steps. Here are the most important ones:
+Moving to The Hague requires a few first steps. Here are the most important ones:
 
 **Open a bank account** — You'll need a Dutch bank account for rent, salary, and daily expenses. [Wise](https://wise.com/invite/ihpc/willemt52) offers a multi-currency account that works from day one, even before your BSN arrives. <a href="https://wise.com/invite/ihpc/willemt52" target="_blank" rel="noopener nofollow sponsored" class="cta-affiliate">Open a Wise account →</a>
 

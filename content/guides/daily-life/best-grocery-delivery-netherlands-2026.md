@@ -6,7 +6,7 @@ description: "Compare the best grocery delivery services in the Netherlands 2026
 categories: ["daily-life"]
 tags: ["grocery delivery", "albert heijn", "jumbo", "picnic", "flink", "supermarket netherlands", "food delivery"]
 keywords: ["grocery delivery netherlands", "albert heijn delivery", "picnic app", "best supermarket netherlands", "online grocery shopping netherlands"]
-affiliate: true
+affiliate: false
 author: "Sarah van den Berg"
 author_bio: "Expat coach and relocation specialist. Half Dutch, half British, living in the Netherlands for over 10 years."
 featured_image: "/images/featured/best-grocery-delivery-netherlands-2026.webp"

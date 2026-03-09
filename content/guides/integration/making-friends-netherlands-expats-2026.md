@@ -69,7 +69,7 @@ The mechanism is simple: repeated contact over time, around a shared activity, w
 
 My own breakthrough came from joining a tennis club in my second year. I had previously been trying expat events and feeling like everyone was networking rather than connecting. The tennis club was different. People were there for tennis first and incidentally for each other. That incidental quality is what made it stick.
 
-You can find local vereinigingen through your municipality's website, through local Facebook groups, or simply by googling your sport plus your city.
+You can find local verenigingen through your municipality's website, through local Facebook groups, or simply by googling your sport plus your city.
 
 ---
 

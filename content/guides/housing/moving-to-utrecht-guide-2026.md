@@ -293,4 +293,4 @@ For the full housing search process in Utrecht's competitive market, read our [f
 
 ---
 
-*Last updated: June 2026.*
+*Last updated: March 2026.*

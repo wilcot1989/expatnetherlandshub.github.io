@@ -157,7 +157,7 @@ Every invoice must include:
 
 | Insurance | Monthly Cost | Priority |
 |-----------|-------------|----------|
-| **Health insurance** (mandatory) | €120-€145 | Immediate |
+| **Health insurance** (mandatory) | €140-€175 | Immediate |
 | **Liability** (aansprakelijkheid) | €3-€5 | Important |
 | **Professional liability** (beroepsaansprakelijkheid) | €15-€50 | Important |
 | **Disability** (arbeidsongeschiktheid) | €50-€200 | Critical |
@@ -345,4 +345,4 @@ Most accounts can be opened online in 15–30 minutes once you have your KVK num
 
 ---
 
-*Last updated: May 2026.*
+*Last updated: March 2026.*

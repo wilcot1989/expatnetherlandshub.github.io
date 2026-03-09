@@ -239,7 +239,7 @@ Odido's customer support is mostly in Dutch. Some agents speak English, but it i
 
 ### Our Verdict
 
-Odido is a solid choice for budget-conscious expats who do not need English-language support. The fiber speeds are excellent and the prices are lower than the big names. If you are comfortable navigating Dutch customer service or have a Dutch-speaking partner or colleague who can help, Odido offers great value.
+Odido is a solid choice for budget-conscious expats who do not need English-language support. The fiber speeds are excellent and the prices are lower than the big names. If you are comfortable dealing with Dutch customer service or have a Dutch-speaking partner or colleague who can help, Odido offers great value.
 
 ---
 

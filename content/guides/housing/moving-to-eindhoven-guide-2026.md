@@ -103,7 +103,7 @@ Veldhoven is a separate municipality just south of Eindhoven where ASML's headqu
 | **Utilities** | €130-€180 | €160-€220 | €200-€280 |
 | **Groceries** | €250-€350 | €400-€500 | €550-€750 |
 | **Transport** | €80-€120 | €120-€200 | €150-€250 |
-| **Health insurance** | €120-€145 | €240-€290 | €350-€450 |
+| **Health insurance** | €140-€175 | €280-€350 | €420-€525 |
 | **Dining/entertainment** | €150-€300 | €250-€400 | €150-€300 |
 | **Total** | **€1,580-€2,395** | **€2,270-€3,310** | **€2,700-€4,030** |
 
@@ -273,4 +273,4 @@ For detailed housing search advice, read our [finding housing in the Netherlands
 
 ---
 
-*Last updated: May 2026.*
+*Last updated: March 2026.*

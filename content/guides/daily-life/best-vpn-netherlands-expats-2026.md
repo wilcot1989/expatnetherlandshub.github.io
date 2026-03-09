@@ -27,7 +27,7 @@ faq:
     a: "Yes. All VPNs in this guide offer apps for Windows, Mac, iOS, Android, and most also support Linux, smart TVs, routers, and browser extensions. Surfshark allows unlimited simultaneous device connections. NordVPN allows 10 devices. ExpressVPN allows 8 devices. This means you can protect your laptop, phone, tablet, and streaming device with a single subscription."
 ---
 
-The day I moved to the Netherlands and tried to watch BBC iPlayer, I got that dreaded "not available in your region" message. Ten years on, I still use a VPN almost daily -- for streaming British telly, accessing my UK bank account without getting flagged, and protecting my data on cafe WiFi. It is one of those expat essentials nobody tells you about until you need it. Here are the VPNs I actually recommend to my clients in 2026.
+The day I moved to the Netherlands and tried to watch BBC iPlayer, I got that dreaded "not available in your region" message. Ten years on, I still use a VPN almost daily -- for streaming British telly, accessing my UK bank account without getting flagged, and protecting my data on cafe WiFi. It is one of those expat basics nobody tells you about until you need it. Here are the VPNs I actually recommend to my clients in 2026.
 
 
 ## Quick Comparison: Best VPNs for Expats in the Netherlands

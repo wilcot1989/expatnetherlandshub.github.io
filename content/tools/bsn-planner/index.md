@@ -981,7 +981,7 @@ Generate My BSN Timeline &rarr;
 <li><strong>Take out health insurance (<em>zorgverzekering</em>).</strong> Health insurance is mandatory in the Netherlands and you must take it out within 4 months of your registration date. If you miss the deadline, you will be assigned to an insurer automatically and may face a fine.</li>
 <li><strong>Register with a GP (<em>huisarts</em>).</strong> Without a GP registration, accessing non-emergency healthcare is difficult. Register with a local practice as soon as possible — some have waiting lists.</li>
 <li><strong>Check if you qualify for the 30% ruling.</strong> If you are a highly skilled migrant hired from abroad, you may qualify for the 30% tax ruling, which significantly reduces your income tax liability. Use our <a href="/tools/30-percent-ruling-calculator/">30% Ruling Calculator</a> to check.</li>
-<li><strong>Consider the Moving to the Netherlands guide</strong> for a comprehensive overview of everything from banking to schools: <a href="/guides/legal/complete-guide-moving-to-netherlands-2026/">Moving to the Netherlands Guide 2026</a>.</li>
+<li><strong>Consider the Moving to the Netherlands guide</strong> for a full overview of everything from banking to schools: <a href="/guides/legal/complete-guide-moving-to-netherlands-2026/">Moving to the Netherlands Guide 2026</a>.</li>
 </ol>
 
 <!-- Related tools -->

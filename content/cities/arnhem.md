@@ -84,7 +84,7 @@ Rijnstate Hospital is the main hospital serving Arnhem and a wide area of Gelder
 
 For general practice, finding a GP (huisarts) in Arnhem can take 2–6 weeks depending on the neighbourhood and time of year. Some practices in areas with higher concentrations of international residents will have English-speaking staff, but this is less consistent than in Amsterdam or The Hague. If your Dutch is limited, it is worth asking directly about English-language capacity when registering.
 
-Health insurance is mandatory from your first day as a Dutch resident, regardless of employment status. Premiums typically start around €130/month with a €385 annual deductible (eigen risico). Use the [Health Insurance Wizard](/tools/health-insurance-wizard/) to compare policies and find one that suits your situation. Compare Dutch and international expat insurance options with the [Insurance Comparison](/tools/insurance-chooser/).
+Health insurance is mandatory from your first day as a Dutch resident, regardless of employment status. Premiums typically start around €140/month with a €385 annual deductible (eigen risico). Use the [Health Insurance Wizard](/tools/health-insurance-wizard/) to compare policies and find one that suits your situation. Compare Dutch and international expat insurance options with the [Insurance Comparison](/tools/insurance-chooser/).
 
 See the [Health Insurance for Expats guide](/guides/health/) for a full explanation of the Dutch health insurance system.
 
@@ -100,7 +100,7 @@ For a full guide to OV travel in the Netherlands, see the [OV-chipkaart guide fo
 
 ## Getting Started in Arnhem
 
-Moving to Arnhem requires a few essential steps. Here are the most important ones:
+Moving to Arnhem requires a few first steps. Here are the most important ones:
 
 **Open a bank account** — You'll need a Dutch bank account for rent, salary, and daily expenses. [Wise](https://wise.com/invite/ihpc/willemt52) offers a multi-currency account that works from day one, even before your BSN arrives. <a href="https://wise.com/invite/ihpc/willemt52" target="_blank" rel="noopener nofollow sponsored" class="cta-affiliate">Open a Wise account →</a> Use the [Bank Account Comparison](/tools/bank-account-chooser/) to find the right Dutch bank for your situation.
 

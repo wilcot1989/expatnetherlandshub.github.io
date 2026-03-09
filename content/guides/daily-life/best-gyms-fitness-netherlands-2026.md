@@ -231,4 +231,4 @@ For a broader view of Dutch fitness culture and free alternatives, check our [cy
 
 ---
 
-*Last updated: June 2026.*
+*Last updated: March 2026.*

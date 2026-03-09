@@ -447,7 +447,7 @@ Save on international transfers &mdash; Wise <span class="cta-arrow">&rarr;</spa
 <div class="seo-content">
 <h2>What Does It Cost to Live in the Netherlands as an Expat?</h2>
 <p>The Netherlands is one of Western Europe&rsquo;s most desirable destinations for expats, but it&rsquo;s not cheap. When I first moved to Amsterdam, I had a rough idea of what rent would cost &mdash; but I seriously underestimated everything else. Groceries, health insurance (mandatory!), OV-chipkaart for the trains, utilities. It all adds up faster than you expect.</p>
-<p>The good news: the Netherlands is predictable. Costs are relatively transparent, prices are stable, and once you know the numbers, budgeting is straightforward. This calculator gives you a city-specific monthly estimate based on 2026 market data. It covers the core categories that matter most for expats.</p>
+<p>The good news: the Netherlands is predictable. Costs are relatively transparent, prices are stable, and once you know the numbers, budgeting is simple. This calculator gives you a city-specific monthly estimate based on 2026 market data. It covers the core categories that matter most for expats.</p>
 
 <h2>Average Monthly Cost of Living by Dutch City (2026)</h2>
 <p>The biggest variable is always housing &mdash; and housing varies enormously by city. Everything else (groceries, transport, insurance) is much more consistent across the country. Here&rsquo;s how the major cities compare for a single person renting a one-bedroom apartment:</p>

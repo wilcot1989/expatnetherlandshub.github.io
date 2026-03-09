@@ -322,4 +322,4 @@ For the tax return implications — particularly if you have pension income from
 
 ---
 
-*Last updated: June 2026.*
+*Last updated: March 2026.*

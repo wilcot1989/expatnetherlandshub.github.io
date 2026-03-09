@@ -272,7 +272,7 @@ However, a specialist expat tax advisor is strongly recommended if:
 - Your partner also works in the Netherlands
 - You are a business owner or have freelance income
 - You want to optimize the interaction between Box 1, Box 2, and Box 3 taxation
-- You are navigating the transitional rules from before 2024
+- You are dealing with the transitional rules from before 2024
 
 A good expat tax advisor typically charges EUR 150-500 for an initial consultation and EUR 300-800 for annual tax filing assistance. Given the amounts at stake with the 30% ruling, this is generally a worthwhile investment.
 

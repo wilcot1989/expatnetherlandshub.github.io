@@ -19,16 +19,16 @@ tags:
   - "amsterdam"
 
 faq:
-  - question: "When is King's Day 2026?"
-    answer: "King's Day is officially on 27 April, King Willem-Alexander's birthday. In 2026, the 27th falls on a Monday, so the celebration moves to Sunday 26 April. However, as that is also a Sunday, the official rule shifts it to Saturday 25 April 2026."
-  - question: "Do shops open on King's Day?"
-    answer: "Most supermarkets and shops are closed on King's Day. The vrijmarkt (free market) is everywhere, but if you need supplies, stock up the day before. Some Albert Heijn and convenience stores may open for limited hours."
-  - question: "Is King's Day free to attend?"
-    answer: "The street celebrations, vrijmarkt, and most outdoor music are completely free. Some ticketed club events and Koningsnacht parties require a ticket, which can range from €10 to €30+."
-  - question: "Can I bring my children to King's Day?"
-    answer: "Yes, and it is actually a wonderful day for families. The morning vrijmarkt is particularly child-friendly. Cities like Utrecht and Eindhoven have family zones. City centres do get very crowded and boisterous by the afternoon, so keep that in mind."
-  - question: "What should I wear on King's Day?"
-    answer: "Orange, orange, and more orange. It is the Dutch national colour and everyone wears it. You do not need to go overboard — even a simple orange scarf or headband will do. Fancy dress is popular too. Comfortable shoes are non-negotiable."
+  - q: "When is King's Day 2026?"
+    a: "King's Day is officially on 27 April, King Willem-Alexander's birthday. In 2026, the 27th falls on a Monday — so the celebration is on Monday 27 April 2026. The rule that shifts the date to Saturday only applies when 27 April falls on a Sunday."
+  - q: "Do shops open on King's Day?"
+    a: "Most supermarkets and shops are closed on King's Day. The vrijmarkt (free market) is everywhere, but if you need supplies, stock up the day before. Some Albert Heijn and convenience stores may open for limited hours."
+  - q: "Is King's Day free to attend?"
+    a: "The street celebrations, vrijmarkt, and most outdoor music are completely free. Some ticketed club events and Koningsnacht parties require a ticket, which can range from €10 to €30+."
+  - q: "Can I bring my children to King's Day?"
+    a: "Yes, and it is actually a wonderful day for families. The morning vrijmarkt is particularly child-friendly. Cities like Utrecht and Eindhoven have family zones. City centres do get very crowded and boisterous by the afternoon, so keep that in mind."
+  - q: "What should I wear on King's Day?"
+    a: "Orange, orange, and more orange. It is the Dutch national colour and everyone wears it. You do not need to go overboard — even a simple orange scarf or headband will do. Fancy dress is popular too. Comfortable shoes are non-negotiable."
 ---
 
 The first time I experienced King's Day in the Netherlands, I had no idea what I was walking into. I stepped out of my front door in [Amsterdam](/cities/amsterdam/) at 9 in the morning, and the entire city had already turned orange. There were people selling toys from blankets on the pavement, children belting out Dutch songs on makeshift stages, and boats so densely packed on the canals that I genuinely could not see the water. I stood there in my sensible beige coat and thought: I need to get orange, immediately.
@@ -51,13 +51,11 @@ For expats, it is also one of the best days to experience genuine Dutch culture 
 
 Here is where it gets slightly confusing, so let me spell it out clearly.
 
-King's Day is officially 27 April. In 2026, 27 April falls on a **Monday**. Under Dutch law, if the King's birthday falls on a Sunday, the celebration moves to the Saturday before. If it falls on a Monday, the celebration stays on the Monday — unless that conflicts with Easter Monday, in which case it shifts again.
+King's Day is officially 27 April. In 2026, 27 April falls on a **Monday**. Under Dutch law, if the King's birthday falls on a Sunday, the celebration moves to the Saturday before. If it falls on any other day — including Monday — the celebration stays on that day.
 
-In 2026, 27 April is indeed a Monday, but it also coincides with Easter Monday. When King's Day falls on Easter Monday, the celebration moves to **Saturday 25 April**.
+So mark it in your diary: **King's Day 2026 is on Monday 27 April**.
 
-So mark it in your diary: **King's Day 2026 is celebrated on Saturday 25 April**.
-
-The evening before — Friday 24 April — is Koningsnacht (King's Night).
+The evening before — Sunday 26 April — is Koningsnacht (King's Night).
 
 ---
 
@@ -227,13 +225,13 @@ For a broader understanding of Dutch public holidays and how they fit into life 
 
 ## My Final Thoughts
 
-King's Day is one of those days that makes you remember why you moved to the Netherlands. I have had conversations with strangers on canal bridges, bought an inexplicably perfect lamp from a six-year-old for fifty cents, danced on a cobbled street at 11am on a Tuesday (well, a Saturday), and eaten more poffertjes than I care to admit.
+King's Day is one of those days that makes you remember why you moved to the Netherlands. I have had conversations with strangers on canal bridges, bought an inexplicably perfect lamp from a six-year-old for fifty cents, danced on a cobbled street at 11am on a Tuesday (well, a Monday), and eaten more poffertjes than I care to admit.
 
 As an expat, you are not excluded from any of this. The Dutch are welcoming on King's Day in a way that is genuine. Put on something orange, go outside early, and let the day take you wherever it goes.
 
 If you are still in the early stages of settling into life in the Netherlands, my [complete guide to moving to the Netherlands](/guides/legal/complete-guide-moving-to-netherlands-2026/) covers all the practical foundations. And if you are thinking about which city to call home, both [Amsterdam](/guides/housing/moving-to-amsterdam-guide-2026/) and [Utrecht](/guides/housing/moving-to-utrecht-guide-2026/) have a lot to offer beyond King's Day.
 
-For now though — get your orange ready. 25 April will be here before you know it.
+For now though — get your orange ready. 27 April will be here before you know it.
 
 ---
 

@@ -60,7 +60,7 @@ The gaming industry is perhaps less expected: Utrecht has the highest concentrat
 
 In fintech and professional services, Adyen, Rabobank, and a range of software companies have Utrecht offices. Utrecht Science Park (De Uithof) is a large campus integrating the university, UMC, and a range of research institutes and spin-off companies.
 
-Coworking spaces include Seats2Meet (the original location, at Utrecht Centraal), Knotel, and 013 (tech-focused). Day passes from €20; monthly memberships from €200.
+Coworking spaces include Seats2Meet (the original location, at Utrecht Centraal) and The Basis (tech-focused, near the Science Park). Day passes from €20; monthly memberships from €200.
 
 For salary benchmarking use the [Salary Checker](/tools/salary-checker/). Use the [30% Ruling Calculator](/tools/30-percent-ruling-calculator/) to see how much tax you could save. If you have a foreign degree, check recognition requirements with the [Diploma Evaluator](/tools/diploma-evaluator/). See the [Working in the Netherlands guide](/guides/work/) for more detail.
 
@@ -80,7 +80,7 @@ The main hospital is UMC Utrecht, a large academic medical centre with a strong 
 
 English-speaking GPs are available across Utrecht, and several practices in Lombok and Wittevrouwen specifically list English-language consultations. Registration waiting times are typically 3–6 weeks in popular areas. The university's international student health service gives some indication of provision in that sector, but general practice registration works differently.
 
-Health insurance is mandatory from your first day of residence. Premiums start around €130/month with a €385 annual deductible. Use the [Health Insurance Wizard](/tools/health-insurance-wizard/) to compare policies and find the right level of coverage. Compare Dutch and international expat insurance options with the [Insurance Comparison](/tools/insurance-chooser/).
+Health insurance is mandatory from your first day of residence. Premiums start around €140/month with a €385 annual deductible. Use the [Health Insurance Wizard](/tools/health-insurance-wizard/) to compare policies and find the right level of coverage. Compare Dutch and international expat insurance options with the [Insurance Comparison](/tools/insurance-chooser/).
 
 ## Transport
 
@@ -94,7 +94,7 @@ See the [OV-chipkaart guide for expats](/guides/daily-life/ov-chipkaart-guide-ex
 
 ## Getting Started in Utrecht
 
-Moving to Utrecht requires a few essential steps. Here are the most important ones:
+Moving to Utrecht requires a few first steps. Here are the most important ones:
 
 **Open a bank account** — You'll need a Dutch bank account for rent, salary, and daily expenses. [Wise](https://wise.com/invite/ihpc/willemt52) offers a multi-currency account that works from day one, even before your BSN arrives. <a href="https://wise.com/invite/ihpc/willemt52" target="_blank" rel="noopener nofollow sponsored" class="cta-affiliate">Open a Wise account →</a>
 

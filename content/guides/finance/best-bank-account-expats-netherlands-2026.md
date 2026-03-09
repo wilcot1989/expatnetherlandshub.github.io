@@ -135,7 +135,7 @@ Bunq was designed for the digital-first generation. The app is intuitive, fully 
 
 ### Our Verdict
 
-If you want a modern, fully digital banking experience that works seamlessly in the Netherlands, [Bunq](https://www.bunq.com/nl) is the best option. The Easy Money plan offers exceptional value for the features provided.
+If you want a modern, fully digital banking experience that works well in the Netherlands, [Bunq](https://www.bunq.com/nl) is the best option. The Easy Money plan offers exceptional value for the features provided.
 
 ---
 

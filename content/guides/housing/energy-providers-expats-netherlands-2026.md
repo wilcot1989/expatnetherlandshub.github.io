@@ -254,8 +254,6 @@ Whichever contract type you choose, comparing prices before you sign takes just 
 
 For your overall housing budget, use the [Housing Budget Checker](/tools/housing-budget-checker/) to see what you can afford after taxes, and check our [cost of living guide](/guides/housing/cost-of-living-netherlands-2026/) and our [finding housing guide](/guides/housing/finding-housing-netherlands-expats-2026/) which covers energy labels and what to look for in a Dutch rental.
 
-Also worth knowing: if you are still figuring out your broader budget, check out our [cost of living guide](/guides/housing/cost-of-living-netherlands-2026/) for a full picture of monthly expenses in the Netherlands.
-
 ## Explore More Expat Guides
 
 - **[Complete Guide to Moving to the Netherlands](/guides/legal/complete-guide-moving-to-netherlands-2026/)** — Getting started
@@ -266,4 +264,4 @@ Also worth knowing: if you are still figuring out your broader budget, check out
 
 ---
 
-*Last updated: May 2026.*
+*Last updated: March 2026.*

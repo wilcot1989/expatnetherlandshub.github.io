@@ -129,7 +129,7 @@ Once you have your BSN, you can apply for an account with ING, ABN AMRO, or Rabo
 
 ### ING
 
-ING is the largest retail bank in the Netherlands and often the first recommendation for expats. Their app is good, the English support is decent, and the basic account (Betaalrekening) has no monthly fee.
+ING is the largest retail bank in the Netherlands and often the first recommendation for expats. Their app is good, the English support is decent, and the basic account (Betaalrekening) costs approximately €2.45/month.
 
 **How to open an ING account:**
 
@@ -143,7 +143,7 @@ ING may ask for an employment contract if you do not yet have a Dutch income. If
 
 ### ABN AMRO
 
-ABN AMRO's basic account is called the Betaalrekening and costs around €1.95/month. Their onboarding for expats is generally considered smoother than ING's, particularly for people on expat packages or with non-Dutch employment situations.
+ABN AMRO's basic account is called the Betaalrekening and costs around €2.45/month. Their onboarding for expats is generally considered smoother than ING's, particularly for people on expat packages or with non-Dutch employment situations.
 
 **How to open an ABN AMRO account:**
 
@@ -199,9 +199,9 @@ This depends on your situation:
 
 **EU citizen, want a full Dutch bank from day one:** Bunq allows remote sign-up for EU citizens and functions as a proper Dutch bank account. More expensive, but fully Dutch.
 
-**Have your BSN, want a free account:** ING Betaalrekening has no monthly fee. Good app, English support. Apply online.
+**Have your BSN, want a standard Dutch bank:** ING Betaalrekening costs approximately €2.45/month. Good app, English support. Apply online.
 
-**Have your BSN, want English-first experience:** ABN AMRO tends to have a slightly more expat-friendly onboarding. €1.95/month.
+**Have your BSN, want English-first experience:** ABN AMRO tends to have a slightly more expat-friendly onboarding. Also approximately €2.45/month.
 
 **On an expat package:** Many expat packages include a referral to ABN AMRO or ING's expat desk. Ask your relocation contact.
 

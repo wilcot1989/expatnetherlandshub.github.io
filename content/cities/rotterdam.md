@@ -78,7 +78,7 @@ The main hospitals in Rotterdam are Erasmus MC (one of the leading academic medi
 
 English-speaking GPs are available throughout the city. The International Health Centre Rotterdam specifically caters to expats and international residents, with English consultations as standard. Registration waiting times are typically 2–6 weeks.
 
-Health insurance is mandatory from your first day as a resident. Basic premiums in 2026 start around €130/month with the standard €385 eigen risico (annual deductible). Use the [Health Insurance Wizard](/tools/health-insurance-wizard/) to compare policies and find the right level of coverage. Compare Dutch and international expat insurance options with the [Insurance Comparison](/tools/insurance-chooser/).
+Health insurance is mandatory from your first day as a resident. Basic premiums in 2026 start around €140/month with the standard €385 eigen risico (annual deductible). Use the [Health Insurance Wizard](/tools/health-insurance-wizard/) to compare policies and find the right level of coverage. Compare Dutch and international expat insurance options with the [Insurance Comparison](/tools/insurance-chooser/).
 
 ## Transport
 
@@ -90,7 +90,7 @@ For a full explanation of how OV travel works in the Netherlands, see the [OV-ch
 
 ## Getting Started in Rotterdam
 
-Moving to Rotterdam requires a few essential steps. Here are the most important ones:
+Moving to Rotterdam requires a few first steps. Here are the most important ones:
 
 **Open a bank account** — You'll need a Dutch bank account for rent, salary, and daily expenses. [Wise](https://wise.com/invite/ihpc/willemt52) offers a multi-currency account that works from day one, even before your BSN arrives. <a href="https://wise.com/invite/ihpc/willemt52" target="_blank" rel="noopener nofollow sponsored" class="cta-affiliate">Open a Wise account →</a>
 

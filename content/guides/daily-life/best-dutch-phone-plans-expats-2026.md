@@ -14,16 +14,16 @@ author_bio: "Expat coach and relocation specialist. Half Dutch, half British, li
 tags: ["phone plans", "SIM card", "mobile", "expat Netherlands", "telecom"]
 
 faq:
-  - question: "Do I need a BSN to get a Dutch phone plan?"
-    answer: "For a postpaid contract you will usually need a BSN and a Dutch bank account. Prepaid SIM cards can be bought without a BSN — you just need a valid ID."
-  - question: "Can I use an eSIM in the Netherlands?"
-    answer: "Yes. KPN, T-Mobile and Vodafone all offer eSIM support, and several budget providers do too. Check that your handset supports eSIM before switching."
-  - question: "Which Dutch provider is cheapest for international calls?"
-    answer: "Lebara and Lycamobile are consistently the cheapest for calling outside the Netherlands, particularly to South Asia, the Middle East and Africa. They include bundles to many countries as standard."
-  - question: "Is 5G available in the Netherlands?"
-    answer: "Yes. KPN, T-Mobile (Odido) and Vodafone all have 5G networks. Coverage is strongest in cities and along major motorways. Rural coverage is still patchy in places."
-  - question: "Can I keep my foreign number when I move to the Netherlands?"
-    answer: "No — you will need a Dutch number. However, you can port an existing Dutch number between providers, usually within one working day."
+  - q: "Do I need a BSN to get a Dutch phone plan?"
+    a: "For a postpaid contract you will usually need a BSN and a Dutch bank account. Prepaid SIM cards can be bought without a BSN — you just need a valid ID."
+  - q: "Can I use an eSIM in the Netherlands?"
+    a: "Yes. KPN, T-Mobile and Vodafone all offer eSIM support, and several budget providers do too. Check that your handset supports eSIM before switching."
+  - q: "Which Dutch provider is cheapest for international calls?"
+    a: "Lebara and Lycamobile are consistently the cheapest for calling outside the Netherlands, particularly to South Asia, the Middle East and Africa. They include bundles to many countries as standard."
+  - q: "Is 5G available in the Netherlands?"
+    a: "Yes. KPN, T-Mobile (Odido) and Vodafone all have 5G networks. Coverage is strongest in cities and along major motorways. Rural coverage is still patchy in places."
+  - q: "Can I keep my foreign number when I move to the Netherlands?"
+    a: "No — you will need a Dutch number. However, you can port an existing Dutch number between providers, usually within one working day."
 ---
 
 When I first moved to the Netherlands from the UK, sorting out a phone plan felt oddly stressful. The supermarket shelves had SIM cards from about eight different brands, none of which I recognised, and the Dutch websites were not exactly welcoming to someone still learning what *goedkoop* meant. Ten years on, I know this market well. I've tried most of the major providers, switched plans more times than I care to admit, and helped dozens of newly arrived expats pick the right option for their situation.

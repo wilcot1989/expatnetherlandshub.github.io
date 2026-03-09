@@ -1144,7 +1144,7 @@ to { opacity: 1; transform: translateY(0); }
 </div>
 
 <h2>EU vs Non-EU: The Critical Distinction</h2>
-<p>If you hold a passport from an EU or EEA country (Norway, Iceland, Liechtenstein) or Switzerland, Dutch immigration is straightforward. You simply register at your local municipality (gemeente) within four months of arrival. There are no visa applications, no IND fees, and no salary thresholds. You have the right to live, work, study, and start a business in the Netherlands without restriction.</p>
+<p>If you hold a passport from an EU or EEA country (Norway, Iceland, Liechtenstein) or Switzerland, Dutch immigration is simple. You simply register at your local municipality (gemeente) within four months of arrival. There are no visa applications, no IND fees, and no salary thresholds. You have the right to live, work, study, and start a business in the Netherlands without restriction.</p>
 <p>For non-EU nationals, the process is more structured. You must identify the correct permit category, meet the specific requirements (salary thresholds, employer recognition, educational enrolment, family status), and apply through the IND. The fastest route is always through a recognised sponsor employer using the Highly Skilled Migrant track.</p>
 
 <h2>The Highly Skilled Migrant Route Explained</h2>
@@ -1320,7 +1320,7 @@ requirements: [
 "Sufficient, provable income from pension, investments, or savings",
 "Income must be stable and long-term (not short-term assets only)",
 "You may not work in the Netherlands on this permit",
-"Comprehensive health insurance covering the Netherlands"
+"Full health insurance covering the Netherlands"
 ],
 guide: "/guides/legal/complete-guide-moving-to-netherlands-2026/"
 }

@@ -242,7 +242,7 @@ After a viewing, submit your complete documentation promptly. The landlord or ag
 
 ### Step 6: Sign the Contract and Pay the Deposit
 
-Once accepted, you sign the rental contract and pay the deposit (usually 1-2 months' rent) and the first month's rent. Read the contract carefully or have it reviewed by a professional before signing.
+Once accepted, you sign the rental contract and pay the deposit (typically 2 months' rent, with a legal maximum of 3 months) and the first month's rent. Read the contract carefully or have it reviewed by a professional before signing.
 
 ---
 
@@ -334,7 +334,7 @@ In practice, most expats earning highly skilled migrant salaries do not qualify 
 Once you have secured your housing, handle these tasks quickly:
 
 1. **Register at the gemeente**: You need your rental contract and address to register and receive your BSN. See our [complete guide to moving to the Netherlands](/guides/legal/complete-guide-moving-to-netherlands-2026/) for the full registration process.
-2. **Set up utilities**: If utilities are not included, arrange gas, electricity, and water with a provider like Vattenfall, Eneco, or Budget Energie. Comparing before you sign takes five minutes and can save EUR 200-400 per year. See our [guide to the best energy providers in the Netherlands](/guides/daily-life/best-energy-providers-netherlands-2026/) for a current comparison.
+2. **Set up utilities**: If utilities are not included, arrange gas, electricity, and water with a provider like Vattenfall, Eneco, or Budget Energie. Comparing before you sign takes five minutes and can save EUR 200-400 per year. See our [guide to the best energy providers in the Netherlands](/guides/housing/energy-providers-expats-netherlands-2026/) for a current comparison.
 
    <a href="https://www.awin1.com/cread.php?awinmid=8558&awinaffid=2776410&ued=https%3A%2F%2Fwww.independer.nl%2Fenergie" rel="nofollow sponsored" target="_blank" class="cta">Compare Energy Providers on Independer →</a>
 

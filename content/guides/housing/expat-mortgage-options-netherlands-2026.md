@@ -96,38 +96,6 @@ If you are self-employed, you typically need:
 
 See our [ZZP freelancer guide](/guides/work/freelancer-zzp-guide-netherlands-2026/) for more on self-employment.
 
-## How Much Can You Borrow?
-
-### Borrowing Capacity Calculation
-
-Your maximum mortgage depends on:
-1. **Gross annual income** (or 70% if using 30% ruling)
-2. **Interest rate** on the mortgage
-3. **Existing debts** (student loans, car payments)
-4. **Property value** (max 100% of appraised value)
-
-### Example Calculations (2026)
-
-| Gross Salary | Without 30% Ruling | With 30% Ruling* |
-|-------------|--------------------|--------------------|
-| €50,000 | ~€220,000 | ~€155,000 |
-| €70,000 | ~€310,000 | ~€220,000 |
-| €90,000 | ~€390,000 | ~€275,000 |
-| €120,000 | ~€490,000 | ~€345,000 |
-| €70K + €50K (couple) | ~€500,000 | ~€350,000 |
-
-*Some lenders calculate based on full gross salary even with 30% ruling — always compare
-
-### The 30% Ruling Challenge
-
-The 30% ruling gives you a tax-free allowance of 30% of your salary, which is great for your net income but reduces your borrowing capacity because:
-
-- Standard lenders use your **taxable income** (70% of gross) for calculation
-- This reduces your maximum mortgage by approximately 30%
-- Some expat-specialized mortgage advisors work with lenders who use your **full gross salary**
-
-**Tip:** Always use a mortgage advisor who specializes in expat mortgages — they know which lenders offer the best terms for 30% ruling holders.
-
 ## Mortgage Types in the Netherlands
 
 | Type | Dutch Name | How It Works | Best For |
@@ -253,4 +221,4 @@ For context on buying in specific cities, read our [finding housing guide](/guid
 
 ---
 
-*Last updated: May 2026.*
+*Last updated: March 2026.*

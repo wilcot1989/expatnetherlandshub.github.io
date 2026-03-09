@@ -117,7 +117,7 @@ Why does this matter for expats? Because many estate planning strategies involve
 |-----------|----------------------|
 | Children | EUR 6,633 per year |
 | One-off enhanced gift to children aged 18–40 (general) | EUR 31,813 |
-| One-off enhanced gift for home purchase (jubelton, now significantly restricted) | Substantially limited — check current rules |
+| One-off enhanced gift for home purchase (jubelton) | Abolished as of 1 January 2024 |
 | Other recipients | EUR 2,658 per year |
 
 The enhanced one-time gift allowance for children (the "eenmalig verhoogde vrijstelling") has been subject to legislative change in recent years, particularly the housing-related version (jubelton), which was abolished in 2024. If you are considering making substantial gifts as part of estate planning, confirm the current rules with a notary or tax advisor.

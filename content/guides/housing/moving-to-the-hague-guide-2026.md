@@ -117,7 +117,7 @@ Benoordenhout is where many ambassadors and diplomats live. It borders the Haags
 | **Utilities** | €150-€200 | €180-€250 | €220-€300 |
 | **Groceries** | €250-€350 | €400-€550 | €600-€800 |
 | **Transport** | €100-€150 | €150-€250 | €200-€300 |
-| **Health insurance** | €120-€145 | €240-€290 | €350-€450 |
+| **Health insurance** | €140-€175 | €280-€350 | €420-€525 |
 | **Dining/entertainment** | €200-€400 | €300-€500 | €200-€400 |
 | **Phone/internet** | €50-€80 | €70-€100 | €80-€120 |
 | **Total** | **€1,870-€2,825** | **€2,640-€3,940** | **€3,250-€4,870** |
@@ -310,4 +310,4 @@ If you work in an international organization, government, or simply want a cosmo
 
 ---
 
-*Last updated: April 2026.*
+*Last updated: March 2026.*

@@ -83,7 +83,7 @@ The main hospital serving Delft is **Reinier de Graaf Gasthuis**, a general teac
 
 For day-to-day care, the huisarts (GP) is your entry point into the system — you need to be registered with one before you can get a referral to a specialist or a prescription renewed. Register as soon as you move in, not when you are already ill. Many practices in Delft have limited spots for new patients and some are currently closed to new registrations. The website Zorgkaart Nederland lists Delft GPs with ratings and information on whether they are accepting new patients.
 
-Health insurance is mandatory from your first day as a Dutch resident. Budget €130–160 per month for a standard policy, with a €385 annual deductible. Use the [Health Insurance Wizard](/tools/health-insurance-wizard/) to compare policies and find the right fit. Compare Dutch and international expat insurance options with the [Insurance Comparison](/tools/insurance-chooser/).
+Health insurance is mandatory from your first day as a Dutch resident. Budget €140–175 per month for a standard policy, with a €385 annual deductible. Use the [Health Insurance Wizard](/tools/health-insurance-wizard/) to compare policies and find the right fit. Compare Dutch and international expat insurance options with the [Insurance Comparison](/tools/insurance-chooser/).
 
 ## Transport
 
@@ -107,7 +107,7 @@ HTM operates bus and tram routes connecting Delft with The Hague, and local bus 
 
 ## Getting Started in Delft
 
-Moving to Delft requires a few essential steps. Here are the most important ones:
+Moving to Delft requires a few first steps. Here are the most important ones:
 
 **Open a bank account** — You'll need a Dutch bank account for rent, salary, and daily expenses. [Wise](https://wise.com/invite/ihpc/willemt52) offers a multi-currency account that works from day one, even before your BSN arrives. <a href="https://wise.com/invite/ihpc/willemt52" target="_blank" rel="noopener nofollow sponsored" class="cta-affiliate">Open a Wise account →</a> Use the [Bank Account Comparison](/tools/bank-account-chooser/) to find the right Dutch bank for your situation.
 

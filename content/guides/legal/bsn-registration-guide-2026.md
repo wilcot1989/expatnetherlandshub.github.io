@@ -6,7 +6,7 @@ description: "Complete guide to getting your BSN number in the Netherlands. Geme
 categories: ["legal"]
 tags: ["BSN", "burgerservicenummer", "gemeente registration", "expat registration", "Dutch bureaucracy"]
 keywords: ["BSN number Netherlands", "how to get BSN", "gemeente registration expat", "BSN appointment", "burgerservicenummer guide"]
-affiliate: false
+affiliate: true
 author: "Sarah van den Berg"
 author_bio: "Expat coach and relocation specialist. Half Dutch, half British, living in the Netherlands for over 10 years."
 featured_image: "/images/featured/bsn-registration-guide-2026.webp"
@@ -269,7 +269,7 @@ Finding a huisarts with open capacity can be harder in large cities. In Amsterda
 
 Your employer needs your BSN for payroll, tax withholding, and pension registration. Send it to your HR department as soon as you have it.
 
-If you are eligible for the 30% ruling (a tax advantage for highly skilled migrants), the application is filed with the Belastingdienst and requires your BSN. There is a time limit on this application — it must be filed within 4 months of starting your employment. Read my [30% ruling guide](/guides/finance/30-percent-ruling-netherlands-2026/) for the full details. If you are planning for the long term, our [guide to Dutch nationality and naturalization](/guides/legal/dutch-nationality-guide-2026/) explains the residence and language requirements for applying for a Dutch passport.
+If you are eligible for the 30% ruling (a tax advantage for highly skilled migrants), the application is filed with the Belastingdienst and requires your BSN. There is a time limit on this application — it must be filed within 4 months of starting your employment. Read my [30% ruling guide](/guides/finance/30-percent-ruling-netherlands-2026/) for the full details. If you are planning for the long term, our [guide to Dutch nationality and naturalization](/guides/legal/dutch-nationality-guide-expats-2026/) explains the residence and language requirements for applying for a Dutch passport.
 
 ---
 

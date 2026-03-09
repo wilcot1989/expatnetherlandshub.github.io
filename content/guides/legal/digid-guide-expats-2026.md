@@ -323,4 +323,4 @@ For more on setting up your Dutch digital life after DigiD, see our [expat tax r
 
 ---
 
-*Last updated: April 2026.*
+*Last updated: March 2026.*

@@ -27,7 +27,7 @@ faq:
     a: "You can switch your basic health insurance provider once per year during the open enrollment period, which runs from mid-November to December 31. Your new policy starts on January 1 of the following year. You do not need to give a reason for switching, and the new insurer must accept you regardless of your health status. Supplementary insurance can be switched at the same time, but the new insurer may reject your supplementary application based on health screening."
 ---
 
-Dutch health insurance confused me more than almost anything else when I first moved here. Basisverzekering, eigen risico, zorgtoeslag -- the terminology alone is enough to make your head spin. And then you find out it is mandatory and you have only four months to sort it out. After navigating the system myself and helping hundreds of clients choose the right policy, I can tell you it is actually one of the best healthcare setups in the world. You just need to know how it works.
+Dutch health insurance confused me more than almost anything else when I first moved here. Basisverzekering, eigen risico, zorgtoeslag -- the terminology alone is enough to make your head spin. And then you find out it is mandatory and you have only four months to sort it out. After working through the system myself and helping hundreds of clients choose the right policy, I can tell you it is actually one of the best healthcare setups in the world. You just need to know how it works.
 
 
 ## How the Dutch Health Insurance System Works: Overview
@@ -86,7 +86,7 @@ While the basic coverage is the same everywhere, there are differences between i
 | **VGZ** | VGZ, Univé, UMC | Large | EUR 145-155 | Moderate | Strong supplementary packages |
 | **Menzis** | Menzis, Anderzorg | Mid-size | EUR 140-150 | Limited | Often competitive on price |
 
-For expats considering international health insurance alongside or instead of Dutch coverage, see our [ONVZ vs Aetna comparison](/guides/health/onvz-vs-aetna-expat-health-insurance-2026/) for a detailed look at two providers popular with internationally mobile professionals.
+For expats considering international health insurance alongside or instead of Dutch coverage, see our [ONVZ vs Aetna comparison](/guides/health/onvz-vs-aetna-international-health-insurance-2026/) for a detailed look at two providers popular with internationally mobile professionals.
 
 ### How to Choose: What Matters
 

@@ -90,7 +90,7 @@ General practice in Tilburg is reasonably accessible. English-speaking GP practi
 
 The international community connected to Tilburg University has grown steadily, and English-language healthcare capacity has followed, though availability is still lower than in the larger Randstad cities.
 
-Health insurance is mandatory from your first day as a Dutch resident. Premiums start around €130/month with a €385 annual deductible. Use the [Health Insurance Wizard](/tools/health-insurance-wizard/) to compare policies and find coverage that fits your situation. Compare Dutch and international expat insurance options with the [Insurance Comparison](/tools/insurance-chooser/).
+Health insurance is mandatory from your first day as a Dutch resident. Premiums start around €140/month with a €385 annual deductible. Use the [Health Insurance Wizard](/tools/health-insurance-wizard/) to compare policies and find coverage that fits your situation. Compare Dutch and international expat insurance options with the [Insurance Comparison](/tools/insurance-chooser/).
 
 See the [Health Insurance for Expats guide](/guides/health/) for a full explanation of how the Dutch system works.
 
@@ -106,7 +106,7 @@ For a full guide to OV travel in the Netherlands, see the [OV-chipkaart guide fo
 
 ## Getting Started in Tilburg
 
-Moving to Tilburg requires a few essential steps. Here are the most important ones:
+Moving to Tilburg requires a few first steps. Here are the most important ones:
 
 **Open a bank account** — You'll need a Dutch bank account for rent, salary, and daily expenses. [Wise](https://wise.com/invite/ihpc/willemt52) offers a multi-currency account that works from day one, even before your BSN arrives. <a href="https://wise.com/invite/ihpc/willemt52" target="_blank" rel="noopener nofollow sponsored" class="cta-affiliate">Open a Wise account →</a>
 

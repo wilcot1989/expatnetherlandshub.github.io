@@ -58,7 +58,7 @@ If you hold a passport from an EU or EEA country, or from Switzerland, you have 
 
 This is the most common route for non-EU professionals moving to the Netherlands for work. Your employer must be a recognized sponsor (erkend referent) with the IND (Immigration and Naturalisation Service). Key requirements in 2026:
 
-- **Minimum salary**: Approximately EUR 5,008 per month (gross, excluding holiday allowance) for applicants aged 30 and over, or EUR 3,672 for those under 30
+- **Minimum salary**: Approximately EUR 5,331 per month (gross, excluding holiday allowance) for applicants aged 30 and over, or EUR 3,909 for those under 30
 - **Employer sponsorship**: Your employer handles most of the application process
 - **Processing time**: Usually 2-4 weeks after the employer submits the application
 
@@ -251,17 +251,17 @@ Many municipalities also offer free or subsidized Dutch language courses (inburg
 
 2. **Set realistic expectations for housing**: The housing market is tight. Be flexible on location and be ready to decide quickly when you find something suitable.
 
-3. **If you are moving with children under school age**: The Netherlands has a wide network of regulated childcare (kinderopvang). Our [childcare guide for expats](/guides/daily-life/childcare-netherlands-expats-2026/) covers costs, registration, and the childcare allowance you may be entitled to claim.
+3. **If you are moving with children under school age**: The Netherlands has a wide network of regulated childcare (kinderopvang). Our [childcare guide for expats](/guides/daily-life/dutch-childcare-expat-guide-2026/) covers costs, registration, and the childcare allowance you may be entitled to claim.
 
 4. **If you are moving with pets**: The Netherlands has specific rules for bringing animals from non-EU countries, including microchipping, rabies vaccination, and EU health certificates. Start the process at least 3-4 months before your move. Our [pet relocation guide](/guides/daily-life/pet-relocation-netherlands-2026/) covers the exact requirements by country of origin.
 
-4. **Build your social network early**: Join expat groups, attend meetups, and consider joining a sports club (vereniging). The Dutch social scene often revolves around clubs and organized activities. The [making friends in the Netherlands guide](/guides/integration/making-friends-netherlands-expats-2026/) covers what actually works.
+5. **Build your social network early**: Join expat groups, attend meetups, and consider joining a sports club (vereniging). The Dutch social scene often revolves around clubs and organized activities. The [making friends in the Netherlands guide](/guides/integration/making-friends-netherlands-expats-2026/) covers what actually works.
 
-4. **Get used to directness**: Dutch communication is famously direct. It is not rudeness; it is cultural. You will come to appreciate the clarity.
+6. **Get used to directness**: Dutch communication is famously direct. It is not rudeness; it is cultural. You will come to appreciate the clarity.
 
-5. **Embrace the weather**: It rains. A lot. Invest in a good rain jacket and waterproof bag for your bike, and you will be fine.
+7. **Embrace the weather**: It rains. A lot. Invest in a good rain jacket and waterproof bag for your bike, and you will be fine.
 
-6. **Use Tikkie**: This payment request app is the social norm for splitting bills among friends. Download it immediately.
+8. **Use Tikkie**: This payment request app is the social norm for splitting bills among friends. Download it immediately.
 
 ---
 
