@@ -1,69 +1,64 @@
-# EXPAT — Technische Fixes Stabilisatiepass
-Peildatum: 9 maart 2026
+# EXPAT-TECHNISCHE-FIXES.md
+Peildatum: 9 maart 2026 | Definitieve versie
 
 ---
 
-## Affiliate Link Fixes
+## Broken Internal Links — 49 instances opgelost
 
-### 1. SafetyWing referenceID fout (4 bestanden)
-Was: `digitalshieldpro` (DSP site ID) — Gecorrigeerd naar: `26482728`
-
-- best-expat-insurance-netherlands-2026.md
-- safetywing-vs-cigna-expat-insurance-2026.md
-- highly-skilled-migrant-visa-netherlands-2026.md
-- complete-guide-moving-to-netherlands-2026.md (already correct, verified)
-
-### 2. NordVPN url_id leeg (3 bestanden)
-Was: `url_id=` — Gecorrigeerd naar: `url_id=14830`
-
-- best-gyms-fitness-netherlands-2026.md (2x)
-- dutch-holidays-traditions-expat-guide-2026.md
-
-### 3. Wise tracking URL inconsistentie (2 bestanden)
-Was: `wise.prf.hn` — Gecorrigeerd naar: `wise.com/invite/ihpc/willemt52`
-
-- dutch-pension-system-expats-2026.md
-- moving-to-utrecht-guide-2026.md
+| Fout | Correct | Bestanden | Instances |
+|------|---------|-----------|-----------|
+| 30-percent-ruling-guide-2026 | 30-percent-ruling-netherlands-2026 | 5 | 16 |
+| zzp-freelancer-guide-netherlands-2026 | freelancer-zzp-guide-netherlands-2026 | 4 | 7 |
+| dutch-tax-system-expats-2026 (zonder -guide-) | dutch-tax-system-expats-guide-2026 | 4 | 11 |
+| /guides/healthcare/ | /guides/health/ | 8 city pages | 8 |
+| expat-insurance-netherlands-2026 | best-expat-insurance-netherlands-2026 | 1 | 3 |
+| health-insurance-expats-netherlands-2026 | dutch-health-insurance-guide-expats-2026 | 1 | 2 |
+| finding-housing-netherlands-2026 | finding-housing-netherlands-expats-2026 | 2 | 4 |
+| moving-to-maastricht-guide-2026 | moving-to-maastricht-expat-guide-2026 | 1 | 1 |
+| /guides/digid-guide-expats-2026/ | /guides/legal/digid-guide-expats-2026/ | 1 | 2 |
+| dutch-language-courses-netherlands-2026 | best-dutch-language-courses-2026 | 1 | 2 |
+| best-language-learning-apps-2026 | best-apps-learn-dutch-2026 | 1 | 2 |
 
 ---
 
-## Structurele Fixes
+## Affiliate Tracking Fixes
 
-### 4. Duplicate deploy workflow
-`scheduled-deploy.yml` verwijderd — was identiek aan de cron trigger in `hugo.yml`.
-
-### 5. Cities index bijgewerkt
-`content/cities/_index.md` bijgewerkt met alle 17 stadsgidsen.
-
-### 6. Orphan pages opgelost
-5 steden + 9 artikelen voorzien van inbound links vanuit relevante pillar- en cluster-pagina's.
-
-### 7. Diploma-evaluator tool
-4 nieuwe inbound links toegevoegd vanuit relevante artikelen.
+| Fix | Bestanden | Details |
+|-----|-----------|---------|
+| Wise bare/truncated URL → invite link | 3 tools | 30%-calc, bsn-planner, salary-checker |
+| Independer awclick → cread deep link | 8 bestanden | 23 vervangingen totaal |
+| Funda/Pararius cta-affiliate → cta | 1 tool | 4 links in housing-budget-checker |
+| BSN planner gemeente cta-affiliate → cta | 1 tool | 1 link |
 
 ---
 
-## Monetisatie Verbeteringen
+## Template Fixes
 
-### 8. Stadspagina's — Getting Started sectie
-Alle 17 stadsgidsen voorzien van een "Getting Started" sectie met 3 affiliate CTAs:
-- Wise (bankrekening openen)
-- Independer (zorgverzekering vergelijken)
-- SafetyWing (tijdelijke expat verzekering)
-
-Totaal: 51 nieuwe CTAs toegevoegd.
-
-### 9. preply-vs-italki artikel geactiveerd
-`affiliate: false` gewijzigd naar `true`, Preply + iTalki CTAs toegevoegd.
-
-### 10. Surfshark CTA
-Surfshark CTA toegevoegd aan best-vpn artikel.
+| Fix | Bestand | Details |
+|-----|---------|---------|
+| SearchAction verwijderd | baseof.html | Niet-functioneel endpoint /guides/?q= |
+| Hardcoded "March 2026" → dynamisch | list.html | Nu {{ now.Format "January 2006" }} |
+| Meta author per-page fallback | baseof.html | Was altijd global, nu pagina-specifiek |
 
 ---
 
-## Niet gewijzigd / bewust gelaten
+## Content Hygiene
 
-| Issue | Reden |
-|-------|-------|
-| Babbel/Preply bare URLs | AWIN/PartnerStack nog niet goedgekeurd; placeholder links functioneel |
-| Funda/Pararius `cta-affiliate` class | Geen affiliate programma beschikbaar; cosmetisch issue |
+| Fix | Bestanden | Details |
+|-----|-----------|---------|
+| Self-referencing aliases verwijderd | 11 daily-life | Redundante aliases naar eigen URL |
+| CTAs toegevoegd aan affiliate-flagged artikelen | 4 | tax-return-checklist, open-bank-account, best-cities, leaving-NL |
+| Orphan pages gelinkt | 8+ | safetywing-vs-cigna, preply-vs-italki, phone-plans, etc. |
+
+---
+
+## Eerdere Sessie Fixes (commit 51c9714)
+
+| Fix | Bestanden | Details |
+|-----|-----------|---------|
+| SafetyWing referenceID | 4 | Was DSP ID → correct 26482728 |
+| NordVPN url_id | 3 | Was leeg → 14830 |
+| Wise tracking inconsistentie | 2 | wise.prf.hn → invite link |
+| Duplicate deploy workflow | 1 | scheduled-deploy.yml verwijderd |
+| 51 nieuwe CTAs | 17 city pages | Wise + Independer + SafetyWing |
+| Orphan pages + under-linked artikelen | 14+ | City index + guide artikelen |

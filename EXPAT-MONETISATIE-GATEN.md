@@ -1,70 +1,57 @@
-# EXPAT — Monetisatie Gaten Analyse
-Peildatum: 9 maart 2026
+# EXPAT-MONETISATIE-GATEN.md
+Peildatum: 9 maart 2026 | Definitieve versie
 
 ---
 
-## Money Pages zonder affiliate
+## Producten met hoge zichtbaarheid maar geen tracking
 
-| Pagina | Status | Actie |
-|--------|--------|-------|
-| preply-vs-italki | NU OPGELOST — CTAs toegevoegd | — |
-| wise-vs-revolut | Wise actief, Revolut geen tracking | Revolut referral aanmelden |
-| bunq-vs-n26 | Beide bare links, geen tracking | bunq + N26 referral activeren |
-| ing-vs-abn-amro | Niet direct monetiseerbaar | Geen programma beschikbaar |
-
----
-
-## High-Traffic Pagina's zonder CTA
-
-| Pagina | Status |
-|--------|--------|
-| best-cities-netherlands-expats | NU OPGELOST — city CTAs toegevoegd |
-| cost-of-living | NU OPGELOST — Wise + Independer |
-| dutch-tax-system | Wise CTA aanwezig |
-| 30-percent-ruling | Wise CTA aanwezig |
+| Product | # Bestanden | Commissie | Status |
+|---------|-------------|-----------|--------|
+| Revolut | 13 | EUR 10-50/ref | Geen link, geen CTA |
+| KPN | 8 | EUR 10-50/klant | Alleen mention |
+| T-Mobile | 8 | EUR 15-30/klant | Alleen mention |
+| Ziggo | 7 | EUR 25-50/klant | Alleen mention |
+| bunq | 6 | Referral | Link zonder tracking |
+| Cigna Global | 5 | USD 50-200/policy | Alleen mention, titelpagina aanwezig |
+| HousingAnywhere | 5 | EUR 15-30/boeking | Alleen mention |
 
 ---
 
-## Gemiste cross-sell kansen
+## CTAs zonder monetisatiepad
 
-### Energie
-Energy guides verwijzen naar Independer energie (vergelijker actief), maar individuele providers Vattenfall en Eneco zijn niet gemonetiseerd. Wacht op Daisycon goedkeuring.
-
-### Telecom
-Telecom guides noemen KPN, T-Mobile en Ziggo maar bevatten geen affiliate links. Wacht op Daisycon goedkeuring (3 programma's aanvragen).
-
-### Housing
-Housing guides noemen Kamernet en HousingAnywhere maar bevatten geen tracking. Kamernet via AWIN aanvragen, HousingAnywhere via Impact.com.
+| Product | CTA aanwezig | Tracking | Probleem |
+|---------|-------------|----------|----------|
+| Babbel | Ja (5 bestanden) | Nee | AWIN nog niet goedgekeurd |
+| Preply | Ja (5 bestanden) | Nee | PartnerStack nog niet goedgekeurd |
+| iTalki | Ja (1 bestand) | Nee | Direct affiliate nog niet aangemeld |
+| Surfshark | Ja (1 bestand) | Nee | Direct affiliate nog niet aangemeld |
 
 ---
 
-## Tools — Monetisatie Status
+## Clusters met zwakke partnerdekking
 
-| Tool | Status |
-|------|--------|
-| Housing budget checker | Funda/Pararius `cta-affiliate` class aanwezig maar geen tracking (programma niet beschikbaar) |
-| Bank account chooser | Wise actief; bunq en N26 niet gemonetiseerd |
-| Insurance chooser | Independer actief (9x) — goed gemonetiseerd |
-| Cost of living calculator | Wise actief |
-| Inburgering tool | Babbel + Preply CTAs aanwezig (bare URL) |
-| Diploma-evaluator | 4 inbound links toegevoegd; geen directe affiliate nodig |
+1. **Telecom** — KPN, T-Mobile, Ziggo prominent in 3 artikelen, 0 tracking
+2. **Energie** — Vattenfall, Eneco prominent in 1 artikel, alleen Independer vergelijker actief
+3. **Housing platforms** — Kamernet 9x, HousingAnywhere 5x, Booking.com 3x — allen zonder tracking
+4. **International insurance** — Cigna 5x met titelpagina, Aetna 2x — geen tracking
 
 ---
 
-## Actieplan — Geordend op impact
+## Tools met conversiepotentieel maar onvolledig
 
-1. **Revolut** toevoegen aan wise-vs-revolut + 13 finance-gerelateerde artikelen
-2. **Booking.com** links aan 17 city guides ("Where to stay first" sectie)
-3. **KPN / T-Mobile / Ziggo** links aan telecom guides (na Daisycon goedkeuring)
-4. **Vattenfall / Eneco** links aan energie guides (na Daisycon goedkeuring)
-5. **HousingAnywhere** links aan housing guides (na Impact.com goedkeuring)
-6. **bunq + N26** referrals activeren voor wise-vs-revolut + bunq-vs-n26 pagina's
+| Tool | Actieve affiliate | Ontbreekt |
+|------|-------------------|-----------|
+| Bank account chooser | Wise ✅ | bunq, N26 (affiliateUrl: null) |
+| Insurance chooser | Independer ✅ | Cigna, Aetna direct links |
+| Housing budget checker | Geen (Funda class gefixt) | HousingAnywhere, Kamernet |
+| Inburgering route builder | Babbel (met bsc param) | Preply (bare URL) |
 
 ---
 
-## Samenvatting
+## Inconsistenties die omzet kosten
 
-- Kritieke fouten (verkeerde tracking IDs): opgelost
-- Structurele gaten (ontbrekende affiliate programma's): 4 urgente aanmeldingen te doen
-- Tools: goed gemonetiseerd op beschikbare programma's
-- Grootste gemiste kans: Revolut (13 bestanden, geen goedkeuring vereist)
+1. ✅ OPGELOST: Wise bare/truncated URLs in 3 tools → nu correct
+2. ✅ OPGELOST: Independer awclick → cread in 8 bestanden
+3. ✅ OPGELOST: SafetyWing verkeerde referenceID
+4. ✅ OPGELOST: NordVPN lege url_id
+5. NOG OPEN: Babbel/Preply/iTalki/Surfshark bare URLs (wachten op goedkeuring)

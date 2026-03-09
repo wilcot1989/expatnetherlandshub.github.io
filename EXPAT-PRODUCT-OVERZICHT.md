@@ -1,311 +1,122 @@
-# Expat Netherlands Hub — Product & Partner Overzicht
+# EXPAT-PRODUCT-OVERZICHT.md
+Peildatum: 9 maart 2026 | Definitieve versie
 
-**Peildatum:** 9 maart 2026
-**Site:** expatnetherlandshub.com
-**Auteur:** Sarah van den Berg
+Complete product/partner overview. 126 unieke producten/merken gevonden in repo-brede scan.
 
----
+## Statusverdeling
 
-## Samenvatting
-
-| Categorie | Aantal producten | Maandpotentieel |
-|-----------|-----------------|-----------------|
-| A. Actief affiliate (tracking link aanwezig) | 8 | EUR 498–1.268 |
-| B. Organische link (geen tracking) | 2 | n.v.t. |
-| C. Mention only (geen link) | 26 | EUR 700–2.200 (na activatie) |
-| **Totaal** | **36** | **EUR 1.200–3.500 (na Ronde 2)** |
-
----
-
-## A. Actief Affiliate — Tracking link aanwezig
-
-### A1. Wise
-
-| Veld | Waarde |
-|------|--------|
-| Tracking URL | `wise.com/invite/ihpc/willemt52` |
-| Commissie | ~GBP 50–75 per referred user die EUR 200+ verstuurt |
-| Bestanden | 42 (alle city guides, finance guides, housing guides, legal guides, tools) |
-| Maandpotentieel | EUR 300–750 |
-| Status | ACTIEF |
-
-**Actie:** Geen — goed gedekt.
+| Status | Aantal |
+|--------|--------|
+| Actief affiliate (tracking link) | 6 |
+| CTA zonder tracking (affiliate incompleet) | 4 |
+| Link zonder tracking | 8 |
+| Mention only — hoog prioriteit | 8 |
+| Mention only — midden prioriteit | 20+ |
+| Mention only — laag/geen prioriteit | 80+ |
 
 ---
 
-### A2. SafetyWing
+## A. ACTIEF AFFILIATE (6)
 
-| Veld | Waarde |
-|------|--------|
-| Tracking URL | `safetywing.com/nomad-insurance/?referenceID=26482728&utm_source=26482728&utm_medium=Ambassador` |
-| Commissie | USD 10–20 per referral |
-| Bestanden | 26 (alle city guides, health guides, legal guides) |
-| Maandpotentieel | EUR 45–90 |
-| Status | ACTIEF |
+| # | Partner | Tracking URL | Commissie | # Bestanden | Potentieel/mnd |
+|---|---------|-------------|-----------|-------------|----------------|
+| 1 | Wise | wise.com/invite/ihpc/willemt52 | GBP 50-75/ref | 42 | EUR 300-750 |
+| 2 | SafetyWing | safetywing.com/...referenceID=26482728 | USD 10-20/ref | 26 | EUR 45-90 |
+| 3 | Independer Zorg | awin1.com/cread.php...ued=.../zorgverzekering | EUR 3-8/lead | 27 | EUR 48-128 |
+| 4 | Independer Energie | awin1.com/cread.php...ued=.../energie | EUR 15-30/overstap | 3 | EUR 30-80 |
+| 5 | Independer Internet | awin1.com/cread.php...ued=.../internet | EUR 10-20/overstap | 2 | EUR 15-40 |
+| 6 | NordVPN | go.nordvpn.net/aff_c?offer_id=612&aff_id=141337&url_id=14830 | 30-45% recurring | 10 | EUR 60-180 |
 
-**Actie:** Geen — goed gedekt.
-
----
-
-### A3. Independer Zorgverzekering (AWIN)
-
-| Veld | Waarde |
-|------|--------|
-| Deep link | `awin1.com/cread.php?awinmid=8558&awinaffid=2776410&ued=https%3A%2F%2Fwww.independer.nl%2Fzorgverzekering` |
-| Commissie | EUR 3–8 per lead |
-| Bestanden | 27 |
-| Maandpotentieel | EUR 48–128 |
-| Status | ACTIEF |
-
-**Actie:** Controleer awclick vs. cread variant — twee varianten in gebruik (zie sectie D).
+Technische status: Alle links gevalideerd, awclick→cread geüpgraded, Wise URL's geüniformeerd.
 
 ---
 
-### A4. Independer Energie (AWIN)
+## B. CTA ZONDER TRACKING — Affiliate technisch incompleet (4)
 
-| Veld | Waarde |
-|------|--------|
-| Deep link | `awin1.com/...ued=https%3A%2F%2Fwww.independer.nl%2Fenergie` |
-| Commissie | EUR 15–30 per overstap |
-| Bestanden | 3 |
-| Maandpotentieel | EUR 30–80 |
-| Status | ACTIEF |
+| # | Partner | Huidige URL | CTA class | # Bestanden | Actie nodig |
+|---|---------|------------|-----------|-------------|-------------|
+| 7 | Babbel | babbel.com (bare) | cta-affiliate | 5 + 1 tool | AWIN tracking URL toevoegen na goedkeuring |
+| 8 | Preply | preply.com (bare) | cta-affiliate | 5 + 1 tool | PartnerStack tracking URL toevoegen |
+| 9 | iTalki | italki.com (bare) | cta-affiliate | 1 | Direct affiliate tracking toevoegen |
+| 10 | Surfshark | surfshark.com (bare) | cta-affiliate | 1 | Direct affiliate tracking URL toevoegen |
 
-**Actie:** Uitbreiden naar meer energie-gerelateerde artikelen (Vattenfall, Eneco, Essent vermeldingen).
-
----
-
-### A5. Independer Internet (AWIN)
-
-| Veld | Waarde |
-|------|--------|
-| Deep link | `awin1.com/...ued=https%3A%2F%2Fwww.independer.nl%2Finternet` |
-| Commissie | EUR 10–20 per overstap |
-| Bestanden | 2 |
-| Maandpotentieel | EUR 15–40 |
-| Status | ACTIEF |
-
-**Actie:** Uitbreiden naar KPN/T-Mobile/Ziggo artikelen als alternatief CTA.
+Opmerking: CTA-class en rel-attributen staan correct. Alleen de tracking URL ontbreekt.
 
 ---
 
-### A6. NordVPN
+## C. LINK ZONDER TRACKING (8)
 
-| Veld | Waarde |
-|------|--------|
-| Tracking URL | `go.nordvpn.net/aff_c?offer_id=612&aff_id=141337&url_id=14830` |
-| Commissie | 30–45% recurring (~EUR 5–15 per sale) |
-| Bestanden | 10 |
-| Maandpotentieel | EUR 60–180 |
-| Status | ACTIEF |
-
-**Actie:** Geen — goed gedekt. Overweeg Surfshark toe te voegen als alternatief CTA.
-
----
-
-### A7. Babbel — URGENT: Tracking ontbreekt
-
-| Veld | Waarde |
-|------|--------|
-| Huidige URL | `babbel.com` (bare, geen tracking) |
-| CSS class | `cta-affiliate` (correct ingesteld) |
-| Bestanden | 5 |
-| Maandpotentieel | n.v.t. tot tracking actief |
-| Status | **INCOMPLETE — tracking link ontbreekt** |
-
-**Actie:** AWIN tracking link toevoegen zodra Babbel-programma is goedgekeurd. Hoge prioriteit — class staat al goed.
+| # | Partner | Type | # Bestanden | Affiliate beschikbaar? | Prioriteit |
+|---|---------|------|-------------|------------------------|------------|
+| 11 | bunq | Bank | 6 | Ja — direct referral | MIDDEN |
+| 12 | N26 | Bank | 4 | Ja — EUR 15/referral | MIDDEN |
+| 13 | Kamernet | Housing | 9 | Ja — AWIN | MIDDEN |
+| 14 | Swapfiets | Transport | 2 | Ja — AWIN/direct | MIDDEN |
+| 15 | Pimsleur | Taal | 3 | Ja — ~20%/sale | LAAG |
+| 16 | Mondly | Taal | 1 | Ja | LAAG |
+| 17 | Gaslicht.com | Energievergelijker | 1 | Mogelijk | LAAG |
+| 18 | Pricewise | Vergelijker | 2 | Ja | LAAG |
 
 ---
 
-### A8. Preply — Tracking ontbreekt
+## D. MENTION ONLY — HOOG PRIORITEIT (8)
 
-| Veld | Waarde |
-|------|--------|
-| Huidige URL | `preply.com` (bare, geen tracking) |
-| CSS class | `cta-affiliate` (correct ingesteld) |
-| Bestanden | 5 |
-| Maandpotentieel | n.v.t. tot tracking actief |
-| Status | **INCOMPLETE — tracking link ontbreekt** |
-
-**Actie:** PartnerStack tracking link toevoegen zodra Preply-programma is goedgekeurd.
-
----
-
-## B. Organische Link — Link aanwezig, geen tracking
-
-| Product | URL | Referral beschikbaar | Actie |
-|---------|-----|---------------------|-------|
-| bunq | `bunq.com` | Ja — referral programma bestaat | Aanmelden voor referral programma |
-| N26 | `n26.com` | Ja — EUR 15 per referral | Aanmelden voor referral programma |
-
-**Actie:** Beide zijn laagdrempelig te activeren. Referral links opvragen en bestaande bare links vervangen.
+| # | Partner | Type | # Bestanden | Commissie | Netwerk |
+|---|---------|------|-------------|-----------|---------|
+| 19 | Revolut | Bank/Fintech | 13 | EUR 10-50/ref | Direct |
+| 20 | KPN | Telecom | 8 | EUR 10-50/klant | Daisycon |
+| 21 | T-Mobile/Odido | Telecom | 8 | EUR 15-30/klant | Daisycon |
+| 22 | Ziggo | Internet | 7 | EUR 25-50/klant | Daisycon |
+| 23 | Vattenfall | Energie | 3 | EUR 30-75/contract | Daisycon |
+| 24 | Eneco | Energie | 2 | EUR 30-60/contract | Daisycon |
+| 25 | Cigna Global | Int. verzekering | 5 | USD 50-200/policy | Direct |
+| 26 | HousingAnywhere | Housing | 5 | EUR 15-30/boeking | Impact.com |
 
 ---
 
-## C. Mention Only — Vermeld maar geen link
+## E. MENTION ONLY — MIDDEN PRIORITEIT (20+)
 
-### Finance
-
-| Product | # Bestanden | Affiliate mogelijkheid | Prioriteit | Netwerk |
-|---------|-------------|----------------------|------------|---------|
-| Revolut | 13 | Direct referral EUR 10–50 | **HOOG** | Revolut Affiliate |
-| ING | 11 | Via Independer hypotheek | MIDDEN | AWIN/Independer |
-| ABN AMRO | 25 | Via Independer hypotheek | MIDDEN | AWIN/Independer |
-| DeGiro | 2 | Direct referral EUR 20/klant | MIDDEN | DeGiro direct |
-
----
-
-### Telecom & Internet
-
-| Product | # Bestanden | Affiliate mogelijkheid | Prioriteit | Netwerk |
-|---------|-------------|----------------------|------------|---------|
-| KPN | 8 | EUR 10–50 per klant | **HOOG** | Daisycon / AWIN |
-| T-Mobile NL | 8 | EUR 15–30 per klant | **HOOG** | Daisycon / AWIN |
-| Ziggo | 7 | EUR 25–50 per klant | **HOOG** | Daisycon / AWIN |
-| Odido | 4 | EUR 10–20 per klant | MIDDEN | Daisycon |
-| Vodafone NL | 4 | EUR 15–25 per klant | MIDDEN | Daisycon / AWIN |
+| # | Partner | Type | # Bestanden | Prioriteit |
+|---|---------|------|-------------|------------|
+| 27 | Booking.com | Accommodatie | 3 | MIDDEN |
+| 28 | ING | Bank | 11 | MIDDEN (via Independer) |
+| 29 | ABN AMRO | Bank | 25 | MIDDEN (via Independer) |
+| 30 | DeGiro | Beleggen | 2 | MIDDEN |
+| 31 | Vodafone NL | Telecom | 4 | MIDDEN |
+| 32 | Simyo | Telecom | 2 | MIDDEN |
+| 33 | Essent | Energie | 1 | MIDDEN |
+| 34 | Basic-Fit | Fitness | 1 | MIDDEN |
+| 35 | Urban Sports Club | Fitness | 1 | MIDDEN |
+| 36 | ONVZ | Verzekering | 5 | MIDDEN (via Independer) |
+| 37 | Zilveren Kruis | Verzekering | 9 | MIDDEN (via Independer) |
+| 38 | CZ | Verzekering | 4 | MIDDEN (via Independer) |
+| 39 | Aetna International | Int. verzekering | 2 | MIDDEN |
+| 40 | ExpressVPN | VPN | 1 | MIDDEN |
+| 41 | Blue Umbrella | Tax advisor | 2 | MIDDEN (referral) |
+| 42 | Belsimpel | Telecomvergelijker | 1 | LAAG |
 
 ---
 
-### Energie
+## F. GEEN AFFILIATE NODIG / ONWAARSCHIJNLIJK (80+)
 
-| Product | # Bestanden | Affiliate mogelijkheid | Prioriteit | Netwerk |
-|---------|-------------|----------------------|------------|---------|
-| Vattenfall | 3 | EUR 30–75 per overstap | **HOOG** | Daisycon |
-| Eneco | 2 | EUR 30–60 per overstap | **HOOG** | Daisycon |
-| Essent | 39 | EUR 25–50 per overstap | MIDDEN | Daisycon |
-
-> **Let op:** Essent staat in 39 bestanden vermeld — dit is de grootste onbenutte kans qua bereik.
+Overheid (IND, gemeente, belastingdienst, DUO, DigiD, NS), supermarkten (AH, Jumbo, Lidl, Aldi), werkgevers (ASML, TomTom, Booking.com als employer, Philips, Google), streaming (Netflix, BBC iPlayer, Hulu), retail (HEMA, Primark, Action), huisvestingsorganisaties zonder affiliate (Funda, Pararius, DUWO, Airbnb), taalscholen (Direct Dutch, UvA Talen), diverse (Rabobank geen programma, Mullvad geen affiliate).
 
 ---
 
-### Verzekeringen
+## G. TECHNISCHE FIXES DOORGEVOERD
 
-| Product | # Bestanden | Affiliate mogelijkheid | Prioriteit | Netwerk |
-|---------|-------------|----------------------|------------|---------|
-| Cigna Global | 5 | USD 50–200 per sale | **HOOG** | Cigna direct affiliate |
-| Aetna International | 2 | Variabel | MIDDEN | Direct affiliate |
-
----
-
-### VPN
-
-| Product | # Bestanden | Affiliate mogelijkheid | Prioriteit | Netwerk |
-|---------|-------------|----------------------|------------|---------|
-| Surfshark | 1 | 40%+ recurring per sale | **HOOG** | Surfshark direct |
-| ExpressVPN | 1 | USD 13–36 per sale | MIDDEN | ExpressVPN direct |
+1. ✅ Wise URLs geüniformeerd (wise.prf.hn + bare wise.com → invite link)
+2. ✅ Independer awclick→cread geüpgraded (23 vervangingen in 8 bestanden)
+3. ✅ Funda/Pararius cta-affiliate class → cta (geen affiliate programma)
+4. ✅ BSN planner gemeente links: cta-affiliate → cta
+5. ✅ Salary checker blog URL → invite link
 
 ---
 
-### Housing
+## H. POTENTIEEL MAANDELIJKS INKOMEN
 
-| Product | # Bestanden | Affiliate mogelijkheid | Prioriteit | Netwerk |
-|---------|-------------|----------------------|------------|---------|
-| HousingAnywhere | 5 | EUR 15–30 per boeking | **HOOG** | Impact.com |
-| Kamernet | 9 | EUR 3–8 per premium lid | MIDDEN | AWIN |
-| Booking.com | 3 | 4–6% per boeking | **HOOG** | AWIN |
-
----
-
-### Taal
-
-| Product | # Bestanden | Affiliate mogelijkheid | Prioriteit | Netwerk |
-|---------|-------------|----------------------|------------|---------|
-| iTalki | 4 | USD 5–10 per referral | MIDDEN | iTalki direct affiliate |
-
----
-
-### Transport
-
-| Product | # Bestanden | Affiliate mogelijkheid | Prioriteit | Netwerk |
-|---------|-------------|----------------------|------------|---------|
-| Swapfiets | 8 | EUR 10–15 per klant | MIDDEN | AWIN / direct |
-
----
-
-## D. Technische Inconsistenties
-
-| # | Probleem | Bestanden | Status | Actie |
-|---|----------|-----------|--------|-------|
-| 1 | Wise: twee tracking URLs (`wise.com/invite` vs `wise.prf.hn`) | Meerdere | **OPGELOST** | Geen |
-| 2 | Babbel: `cta-affiliate` class aanwezig maar geen tracking ID | 5 | **OPEN** | AWIN link toevoegen na goedkeuring |
-| 3 | Preply: `cta-affiliate` class aanwezig maar geen tracking ID | 5 | **OPEN** | PartnerStack link toevoegen na goedkeuring |
-| 4 | Funda & Pararius: `cta-affiliate` class maar geen affiliate beschikbaar | Housing tool | STRUCTUREEL | Class verwijderen of omzetten naar organische link |
-| 5 | Independer: `awclick` vs `cread` — twee link-varianten in gebruik | 27+ | **OPEN** | Standaardiseren op één variant (cread aanbevolen) |
-
----
-
-## E. Potentieel Maandelijks Inkomen
-
-### Huidige situatie (actieve affiliates)
-
-| Partner | Maandpotentieel (laag) | Maandpotentieel (hoog) |
-|---------|----------------------|----------------------|
-| Wise | EUR 300 | EUR 750 |
-| SafetyWing | EUR 45 | EUR 90 |
-| Independer Zorgverzekering | EUR 48 | EUR 128 |
-| Independer Energie | EUR 30 | EUR 80 |
-| Independer Internet | EUR 15 | EUR 40 |
-| NordVPN | EUR 60 | EUR 180 |
-| **Subtotaal actief** | **EUR 498** | **EUR 1.268** |
-
-> Babbel en Preply tellen pas mee zodra tracking is geactiveerd.
-
----
-
-### Na Ronde 2 (alle hoge prioriteit geactiveerd)
-
-| Extra partners | Geschat maandpotentieel |
-|----------------|------------------------|
-| Revolut | EUR 100–200 |
-| KPN + T-Mobile + Ziggo (via Daisycon) | EUR 75–150 |
-| Vattenfall + Eneco (via Daisycon) | EUR 60–120 |
-| Cigna Global | EUR 50–200 |
-| HousingAnywhere + Booking.com | EUR 50–120 |
-| Surfshark | EUR 30–80 |
-| Babbel + Preply (na goedkeuring) | EUR 40–100 |
-| **Subtotaal Ronde 2 extra** | **EUR 405–970** |
-
-| Scenario | Maandelijks totaal |
-|----------|-------------------|
-| Huidig (alleen actief) | EUR 498–1.268 |
-| Na Ronde 2 (volledig) | EUR 903–2.238 |
-| Optimistisch (hoog verkeer) | EUR 1.200–3.500 |
-
----
-
-## F. Actielijst — Prioriteit gerankt
-
-### Urgent (deze week)
-
-- [ ] **Babbel:** AWIN aanvragen + tracking link toevoegen in 5 bestanden zodra goedgekeurd
-- [ ] **Preply:** PartnerStack aanvragen + tracking link toevoegen in 5 bestanden zodra goedgekeurd
-- [ ] **Independer:** Standaardiseren op `cread` variant in alle 27+ bestanden
-- [ ] **Funda/Pararius:** `cta-affiliate` class verwijderen (geen affiliate beschikbaar)
-
-### Ronde 2 — Hoge prioriteit
-
-- [ ] **Revolut:** Direct affiliate aanmelden — 13 vermeldingen wachten op link
-- [ ] **KPN:** Daisycon programma aanvragen
-- [ ] **T-Mobile NL:** Daisycon programma aanvragen
-- [ ] **Ziggo:** Daisycon programma aanvragen
-- [ ] **Vattenfall:** Daisycon programma aanvragen
-- [ ] **Eneco:** Daisycon programma aanvragen
-- [ ] **Cigna Global:** Direct affiliate aanmelden
-- [ ] **HousingAnywhere:** Impact.com account activeren + link toevoegen in 5 bestanden
-- [ ] **Booking.com:** AWIN programma aanvragen
-- [ ] **Surfshark:** Direct affiliate aanmelden
-
-### Ronde 2 — Middelhoge prioriteit
-
-- [ ] **bunq:** Referral programma activeren + bare link vervangen
-- [ ] **N26:** Referral programma activeren (EUR 15/referral) + bare link vervangen
-- [ ] **Essent:** Daisycon aanvragen — 39 vermeldingen, groot bereik
-- [ ] **Kamernet:** AWIN aanvragen
-- [ ] **Swapfiets:** AWIN of direct affiliate aanvragen
-- [ ] **iTalki:** Direct affiliate aanmelden
-- [ ] **DeGiro:** Direct referral aanmelden
-
----
-
-*Gegenereerd op 9 maart 2026 | expatnetherlandshub.com | Intern document*
+| Scenario | Geschat |
+|----------|---------|
+| Huidig (6 actieve affiliates) | EUR 498–1.268/mnd |
+| Na Ronde 2 fase 1 (+ Revolut, Babbel, Surfshark, Preply, Booking) | EUR 900–2.200/mnd |
+| Na alle fasen (bij ~5.000 uniques/mnd) | EUR 1.200–3.500/mnd |
