@@ -6,7 +6,7 @@ description: "Preply vs iTalki for learning Dutch as an expat. Pricing, tutor qu
 categories: ["integration"]
 tags: ["Preply", "iTalki", "Dutch lessons", "learn Dutch", "language tutor"]
 keywords: ["Preply vs iTalki Dutch", "best Dutch tutor online", "learn Dutch online expat", "Preply review Dutch lessons"]
-affiliate: false
+affiliate: true
 author: "Sarah van den Berg"
 author_bio: "Expat coach and relocation specialist. Half Dutch, half British, living in the Netherlands for over 10 years."
 featured_image: "/images/featured/preply-vs-italki-dutch-lessons-2026.webp"
@@ -250,7 +250,11 @@ Both Preply and iTalki are legitimate, well-run platforms with genuine Dutch tut
 
 **Choose Preply** if you are a beginner, value a managed learning experience, and want the reassurance of platform-level quality control and a satisfaction guarantee. The slightly higher prices are justified by the structure, vetting, and built-in tools.
 
+<a href="https://preply.com/en/skype/dutch-tutors" class="cta-affiliate" rel="nofollow sponsored" target="_blank">Find a Dutch Tutor on Preply →</a>
+
 **Choose iTalki** if you are at an intermediate level, want more tutor choice at a broader price range, and are comfortable taking a more active role in managing your own learning. The community tutor option offers outstanding value if you find the right person.
+
+<a href="https://www.italki.com/" class="cta-affiliate" rel="nofollow sponsored" target="_blank">Browse Dutch Tutors on iTalki →</a>
 
 My personal verdict after testing both: I got more out of my Preply sessions as a beginner because the structure kept me on track. Once my Dutch reached a functional conversational level, I found more value in iTalki's diverse tutor pool for practising different contexts — work conversations, informal chats, formal writing. The platforms suit different stages of the learning journey, which is why so many serious Dutch learners end up using both at some point.
 

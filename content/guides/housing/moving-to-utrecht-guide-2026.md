@@ -188,7 +188,7 @@ This central location means you can work anywhere in the Randstad while living i
 
 ### Week 2-4: First Weeks
 1. Register at the municipality (gemeente) — get BSN
-2. Open a bank account — use <a href="https://wise.prf.hn/l/7yBROPe" rel="nofollow sponsored" target="_blank">Wise</a> for international transfers
+2. Open a bank account — use <a href="https://wise.com/invite/ihpc/willemt52" rel="nofollow sponsored" target="_blank">Wise</a> for international transfers
 3. Get health insurance (mandatory)
 4. Get a Dutch SIM card or phone plan
 5. Buy or rent a bicycle
