@@ -57,6 +57,8 @@ For background on the Dutch tax system, read our [tax system overview](/guides/f
 
 ## How to File Online (Regular Return)
 
+Before you start, make sure you have everything in one place. The [tax return checklist](/guides/finance/dutch-tax-return-checklist-expats-2026/) covers every document you need, organised by category.
+
 ### What You Need
 - **DigiD** — Your digital identity for government services
 - **Annual statement (jaaropgave)** from your employer

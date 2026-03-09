@@ -95,6 +95,8 @@ Do this before you get on the plane, or on the day you land. It solves the iDEAL
 
 The whole process takes between 10 and 30 minutes. Verification is usually instant but can occasionally take up to 24 hours.
 
+<a href="https://wise.com/invite/ihpc/willemt52" class="cta-affiliate" rel="nofollow sponsored" target="_blank">Open Your Wise Account in Minutes →</a>
+
 Your Dutch IBAN works for iDEAL payments, receiving a salary, and setting up direct debits. It is not a full Dutch bank account in the traditional sense — you do not get a Dutch bank app experience, overdraft facilities, or a local branch — but for your first weeks in the country, it is exactly what you need.
 
 For more on how Wise compares to other options, see [Wise vs Revolut for expats in the Netherlands](/guides/finance/wise-vs-revolut-netherlands-2026/).

@@ -14,7 +14,7 @@ faq:
   - question: "Should I set my LinkedIn profile language to Dutch or English when job hunting in the Netherlands?"
     answer: "For most expats, English is the right choice — especially if you are targeting international companies, tech firms, or multinationals. The Netherlands has the highest LinkedIn usage rate in the world, and a large proportion of Dutch professionals keep English profiles precisely because they work in or with international teams. That said, if you are targeting Dutch SMEs, government-adjacent roles, or companies where Dutch is the working language, consider writing a Dutch version or at least a Dutch summary. You can maintain two languages on your profile by adding a secondary language version via LinkedIn's profile settings. The key is to match the language of the job postings you are actually applying for."
   - question: "How important is the 30% ruling to mention on LinkedIn?"
-    answer: "If you currently hold or are likely to qualify for the 30% ruling, it is worth signalling this to Dutch recruiters — either in your About section or in early conversations. The ruling significantly affects your net salary and the cost calculation for employers sponsoring highly skilled migrants. Many Dutch recruiters will ask about it directly. You do not need to shout it from the headline, but a brief mention in your About section (something like 'I hold a 30% tax ruling valid until [year]') is practical information that saves time on both sides. If you are unsure whether you qualify, see our [30% ruling guide](/guides/finance/30-percent-ruling-guide-2026/) for the full breakdown."
+    answer: "If you currently hold or are likely to qualify for the 30% ruling, it is worth signalling this to Dutch recruiters — either in your About section or in early conversations. The ruling significantly affects your net salary and the cost calculation for employers sponsoring highly skilled migrants. Many Dutch recruiters will ask about it directly. You do not need to shout it from the headline, but a brief mention in your About section (something like 'I hold a 30% tax ruling valid until [year]') is practical information that saves time on both sides. If you are unsure whether you qualify, see our [30% ruling guide](/guides/finance/30-percent-ruling-netherlands-2026/) for the full breakdown."
   - question: "Is the Open to Work feature on LinkedIn seen negatively by Dutch recruiters?"
     answer: "Less so than in some other markets. Dutch professional culture is fairly pragmatic about job searching — there is less of the stigma around being visible as a candidate that you find in, say, the UK or US corporate world. Most Dutch recruiters I have spoken to say they actively use the Open to Work filter to find candidates, and the green banner does not put them off. The one nuance is that if you are currently employed and want to be discreet, use the private setting (visible only to recruiters, not your entire network). If you are not currently employed and actively searching, the public green banner is genuinely useful and Dutch recruiters will not hold it against you."
   - question: "What are the most common LinkedIn mistakes expats make when job hunting in the Netherlands?"
@@ -95,7 +95,7 @@ What works well for expats:
 - Explain your international background briefly but do not dwell on it as a novelty
 - State your areas of expertise concisely with specific examples
 - Mention your location status explicitly ("Based in Amsterdam since 2024")
-- If you hold the 30% ruling, mention it — see our [30% ruling guide](/guides/finance/30-percent-ruling-guide-2026/) for why this matters to Dutch employers
+- If you hold the 30% ruling, mention it — see our [30% ruling guide](/guides/finance/30-percent-ruling-netherlands-2026/) for why this matters to Dutch employers
 - End with a clear call to action: what you are looking for and how to reach you
 
 Keep it to four to six short paragraphs. Dutch professionals tend to write shorter About sections than their British or American counterparts, and that directness is appropriate for the market.
@@ -202,7 +202,7 @@ Companies that consistently appear on expat-friendly employer lists in the Nethe
 
 Follow these companies on LinkedIn. Turn on notifications for their job postings. Engage with their content before you apply — liking, commenting, and sharing signals to their recruitment teams that you are paying attention. Some Dutch company recruiters actively look at who has engaged with their posts when they receive an application.
 
-If you are considering going [freelance or ZZP](/guides/work/zzp-freelancer-guide-netherlands-2026/) rather than taking employment, note that several of these companies also use contractors — your LinkedIn profile needs to be positioned differently in that case, with more emphasis on project-based work and day rate.
+If you are considering going [freelance or ZZP](/guides/work/freelancer-zzp-guide-netherlands-2026/) rather than taking employment, note that several of these companies also use contractors — your LinkedIn profile needs to be positioned differently in that case, with more emphasis on project-based work and day rate.
 
 ---
 
@@ -226,7 +226,7 @@ If you qualify for the 30% ruling — a Dutch tax benefit for highly skilled mig
 
 Some recruiters will ask about it in their first message. Being upfront about it saves time and demonstrates that you understand the Dutch employment market.
 
-If you are unsure whether you qualify, or want to understand how it affects your net salary and negotiating position, our [30% ruling guide](/guides/finance/30-percent-ruling-guide-2026/) explains the full criteria and application process.
+If you are unsure whether you qualify, or want to understand how it affects your net salary and negotiating position, our [30% ruling guide](/guides/finance/30-percent-ruling-netherlands-2026/) explains the full criteria and application process.
 
 You can also use our [salary checker tool](/tools/salary-checker/) to understand the market rate for your role in the Netherlands — a critical step before any salary conversation, whether with a recruiter on LinkedIn or in a [job interview](/guides/work/job-interview-tips-netherlands-2026/).
 

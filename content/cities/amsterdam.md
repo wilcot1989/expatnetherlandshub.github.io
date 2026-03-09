@@ -101,4 +101,4 @@ Moving to Amsterdam requires a few essential steps. Here are the most important 
 - [Moving to Amsterdam: Full Guide 2026](/guides/housing/moving-to-amsterdam-guide-2026/)
 - [Finding Housing in the Netherlands](/guides/housing/)
 - [Working in the Netherlands](/guides/work/)
-- [Health Insurance for Expats 2026](/guides/healthcare/)
+- [Health Insurance for Expats 2026](/guides/health/)

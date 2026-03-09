@@ -10,8 +10,6 @@ affiliate: true
 author: "Sarah van den Berg"
 author_bio: "Expat coach and relocation specialist. Half Dutch, half British, living in the Netherlands for over 10 years."
 featured_image: "/images/featured/dutch-holidays-traditions-expat-guide-2026.webp"
-aliases:
-  - /guides/daily-life/dutch-holidays-traditions-expat-guide-2026/
 faq:
   - q: "How many public holidays does the Netherlands have?"
     a: "The Netherlands has approximately 8-10 public holidays per year, though not all are official days off by law. Most employers give 7-8 days off: New Year's Day, King's Day (Apr 27), Good Friday (varies), Easter Monday, Liberation Day (May 5, once every 5 years), Ascension Day, Whit Monday, Christmas Day, and Boxing Day."

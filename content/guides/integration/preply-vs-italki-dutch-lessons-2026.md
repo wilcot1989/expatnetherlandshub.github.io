@@ -201,9 +201,9 @@ Whether you choose Preply or iTalki, these practices make a significant differen
 
 Online tutoring is not the only way to learn Dutch. Depending on your goals and budget, these alternatives are worth considering:
 
-**Language apps:** [Babbel](/guides/integration/babbel-vs-duolingo-learn-dutch-2026/) and Duolingo are the most popular self-study options. Babbel offers structured grammar instruction; Duolingo is free and gamified. For a broader view of what is available, see our [best language learning apps guide](/guides/integration/best-language-learning-apps-2026/). Apps work best as a complement to tutoring, not a replacement.
+**Language apps:** [Babbel](/guides/integration/babbel-vs-duolingo-learn-dutch-2026/) and Duolingo are the most popular self-study options. Babbel offers structured grammar instruction; Duolingo is free and gamified. For a broader view of what is available, see our [best language learning apps guide](/guides/integration/best-apps-learn-dutch-2026/). Apps work best as a complement to tutoring, not a replacement.
 
-**Formal language courses:** In-person or online courses at a Dutch language school provide a structured curriculum, a qualified teacher, and often the option to work towards an official level certificate. These can be more expensive but offer more accountability. See our [Dutch language courses guide](/guides/integration/dutch-language-courses-netherlands-2026/) for a comparison of providers in the Netherlands.
+**Formal language courses:** In-person or online courses at a Dutch language school provide a structured curriculum, a qualified teacher, and often the option to work towards an official level certificate. These can be more expensive but offer more accountability. See our [Dutch language courses guide](/guides/integration/best-dutch-language-courses-2026/) for a comparison of providers in the Netherlands.
 
 **Inburgering programmes:** If you are on a visa that requires integration, formal Dutch language study may be part of your inburgering obligation. The content you study towards the exam overlaps significantly with practical Dutch, so combining required study with conversational tutoring is an efficient approach. Read our [inburgeringsexamen preparation guide](/guides/integration/inburgeringsexamen-preparation-guide-2026/) for a full breakdown of what the exam covers. Not sure which integration route applies to you? Use our [inburgering route builder](/tools/inburgering-route-builder/) to find out.
 
@@ -262,4 +262,4 @@ Whatever platform you choose, the best thing you can do is book a trial lesson t
 
 ---
 
-*Also useful: our [best language learning apps guide](/guides/integration/best-language-learning-apps-2026/) for self-study tools to use between tutoring sessions, and our [Dutch language courses guide](/guides/integration/dutch-language-courses-netherlands-2026/) if you are considering a more formal classroom-based option.*
+*Also useful: our [best language learning apps guide](/guides/integration/best-apps-learn-dutch-2026/) for self-study tools to use between tutoring sessions, and our [Dutch language courses guide](/guides/integration/best-dutch-language-courses-2026/) if you are considering a more formal classroom-based option.*

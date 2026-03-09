@@ -25,7 +25,7 @@ When I signed my first Dutch employment contract, I thought I had a reasonable g
 
 That experience changed how I approach this topic with every expat I work with. Your Dutch employment contract is not a formality. It is a legal document that will shape your working life, your income, your ability to leave, and your rights if things go wrong. This guide covers everything you need to know before you sign.
 
-If you have not yet landed the role, take a look at my [job interview tips for the Netherlands](/guides/work/job-interview-tips-netherlands-2026/) first. And if you are still working out whether employment or freelancing suits you better, the [ZZP and freelancer guide](/guides/work/zzp-freelancer-guide-netherlands-2026/) will help you decide.
+If you have not yet landed the role, take a look at my [job interview tips for the Netherlands](/guides/work/job-interview-tips-netherlands-2026/) first. And if you are still working out whether employment or freelancing suits you better, the [ZZP and freelancer guide](/guides/work/freelancer-zzp-guide-netherlands-2026/) will help you decide.
 
 ---
 
@@ -165,7 +165,7 @@ Holidays accrue monthly. If you leave mid-year, unused accrued holidays must be 
 
 Vakantiegeld is a mandatory annual bonus of at least 8% of your gross salary earned in the period from June to May. It is typically paid out in May or June as a lump sum — one of the most anticipated months in the Dutch calendar. Some employers fold it into your monthly salary instead; check your contract carefully.
 
-For a salary of €50,000 per year, vakantiegeld would be at least €4,000 gross. It is taxed as normal income at your applicable rate. If you are on the [30% ruling](/guides/finance/30-percent-ruling-guide-2026/), the ruling applies to your vakantiegeld too, which significantly reduces the tax burden.
+For a salary of €50,000 per year, vakantiegeld would be at least €4,000 gross. It is taxed as normal income at your applicable rate. If you are on the [30% ruling](/guides/finance/30-percent-ruling-netherlands-2026/), the ruling applies to your vakantiegeld too, which significantly reduces the tax burden.
 
 ---
 
@@ -221,7 +221,7 @@ The Netherlands has a strong pension system, but it is not automatic. Most large
 
 Your employer is required to tell you in writing whether a pension scheme applies and, if so, the basic terms. The pension premium is usually split between employer and employee contributions, with the employer paying the larger share.
 
-For expats who plan to return home eventually, it is worth understanding how your Dutch pension rights will transfer. EU rules cover portability within Europe. For non-EU countries, it depends on bilateral social security treaties. The 30% ruling affects your pensionable salary calculations too — see the [30% ruling guide](/guides/finance/30-percent-ruling-guide-2026/) for detail.
+For expats who plan to return home eventually, it is worth understanding how your Dutch pension rights will transfer. EU rules cover portability within Europe. For non-EU countries, it depends on bilateral social security treaties. The 30% ruling affects your pensionable salary calculations too — see the [30% ruling guide](/guides/finance/30-percent-ruling-netherlands-2026/) for detail.
 
 ---
 
@@ -279,13 +279,13 @@ Work through this list before putting your name to any Dutch employment contract
 - [ ] **Relatiebeding:** Is there a client non-solicitation clause? What does it cover?
 - [ ] **13th month / bonus:** Is any bonus or 13th month specified, and if so, on what basis?
 - [ ] **Early termination clause:** For fixed-term contracts, can either party exit early? Under what conditions?
-- [ ] **30% ruling:** If you qualify, has this been noted and will the employer apply for it? See the [30% ruling guide](/guides/finance/30-percent-ruling-guide-2026/) for eligibility criteria.
+- [ ] **30% ruling:** If you qualify, has this been noted and will the employer apply for it? See the [30% ruling guide](/guides/finance/30-percent-ruling-netherlands-2026/) for eligibility criteria.
 
 ---
 
 ## Tax Implications: A Brief Note
 
-Your employment contract determines your gross salary, but what hits your bank account depends on Dutch tax rules. The Netherlands uses a progressive income tax system — the [Dutch tax system guide for expats](/guides/finance/dutch-tax-system-expats-2026/) covers this in full.
+Your employment contract determines your gross salary, but what hits your bank account depends on Dutch tax rules. The Netherlands uses a progressive income tax system — the [Dutch tax system guide for expats](/guides/finance/dutch-tax-system-expats-guide-2026/) covers this in full.
 
 If you are a highly skilled migrant (kennismigrant), you may qualify for the 30% ruling, which allows your employer to pay 30% of your salary tax-free for up to five years. This is applied directly through payroll — your contract does not need to mention it explicitly, but your employer must apply for it on your behalf. It is worth raising this during salary negotiations because it affects your effective net income significantly.
 

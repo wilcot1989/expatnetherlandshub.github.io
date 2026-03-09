@@ -10,8 +10,6 @@ affiliate: true
 author: "Sarah van den Berg"
 author_bio: "Expat coach and relocation specialist. Half Dutch, half British, living in the Netherlands for over 10 years."
 featured_image: "/images/featured/best-grocery-delivery-netherlands-2026.webp"
-aliases:
-  - /guides/daily-life/best-grocery-delivery-netherlands-2026/
 faq:
   - q: "Which grocery delivery service is cheapest in the Netherlands?"
     a: "Picnic generally offers the lowest prices, as they match the lowest supermarket prices and have no delivery fees (with a minimum order of EUR 35). Albert Heijn and Jumbo have competitive prices but charge delivery fees of EUR 4-8 per order unless you subscribe to a delivery pass."

@@ -10,8 +10,6 @@ affiliate: true
 author: "Sarah van den Berg"
 author_bio: "Expat coach and relocation specialist. Half Dutch, half British, living in the Netherlands for over 10 years."
 featured_image: "/images/featured/best-vpn-netherlands-expats-2026.webp"
-aliases:
-  - /guides/daily-life/best-vpn-netherlands-expats-2026/
 faq:
   - q: "Is it legal to use a VPN in the Netherlands?"
     a: "Yes. Using a VPN is completely legal in the Netherlands. The Netherlands has strong digital privacy laws, and there are no restrictions on VPN usage. However, using a VPN to engage in illegal activities remains illegal regardless of the VPN. Accessing geo-restricted content with a VPN may violate the terms of service of some streaming platforms, but this is a civil matter, not a criminal one."

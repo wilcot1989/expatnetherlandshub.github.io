@@ -24,7 +24,7 @@
         {{ with .Description }}
         <p class="list-hero-desc">{{ . }}</p>
         {{ end }}
-        <div class="meta">Updated March 2026 &middot; By Sarah van den Berg</div>
+        <div class="meta">Updated {{ now.Format "January 2006" }} &middot; By {{ .Site.Params.author }}</div>
       </div>
       <div class="list-hero-icon" aria-hidden="true">
         {{ if eq $sectionSlug "finance" }}

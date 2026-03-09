@@ -1164,7 +1164,7 @@ stepNum++, 'current', '&#127968;',
 cityHousingTips[city] || cityHousingTips['other'],
 'What you will need to show at your BSN appointment',
 ['Rental contract signed by both tenant and landlord', 'Or: a landlord declaration (huurverklaring) if subletting'],
-`<a href="https://wise.com/invite" target="_blank" rel="noopener nofollow sponsored" class="cta-affiliate">Open a bank account before your BSN with Wise &rarr;</a>
+`<a href="https://wise.com/invite/ihpc/willemt52" target="_blank" rel="noopener nofollow sponsored" class="cta-affiliate">Open a bank account before your BSN with Wise &rarr;</a>
 <p style="font-size:.8rem;color:#6B7280;margin-top:6px;">Wise lets you send and receive money before you have a Dutch bank account — useful for paying a rental deposit.</p>`
 );
 }
@@ -1178,7 +1178,7 @@ cityInfo.waitLevel,
 `Book your first registration (<em>eerste inschrijving BRP</em>) appointment online at the ${cityInfo.name} gemeente website. Do this as soon as your rental contract is confirmed — not after you move in. Slots can run out weeks in advance.`,
 cityInfo.tip,
 null, null,
-`<a href="${cityInfo.url}" target="_blank" rel="noopener noreferrer" class="cta-affiliate" style="margin-top:10px;">Go to ${cityInfo.name} gemeente booking page &rarr;</a>`
+`<a href="${cityInfo.url}" target="_blank" rel="noopener noreferrer" class="cta" style="margin-top:10px;">Go to ${cityInfo.name} gemeente booking page &rarr;</a>`
 );
 
 // ── STEP: Gather Documents ──

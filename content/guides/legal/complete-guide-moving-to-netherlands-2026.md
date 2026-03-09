@@ -130,7 +130,7 @@ Health insurance is **mandatory** for everyone living and working in the Netherl
 
 The basic package is standardized by the government and covers key medical care, including GP visits, hospital care, prescription medication, and mental health care. Premiums in 2026 range from approximately EUR 140-175 per month.
 
-You can also opt for supplementary insurance (aanvullende verzekering) for things like dental care, physiotherapy, and alternative medicine. Use <a href="https://www.awin1.com/awclick.php?mid=8558&id=2776410" rel="nofollow sponsored" target="_blank">Independer.nl</a> to compare policies from all major Dutch insurers.
+You can also opt for supplementary insurance (aanvullende verzekering) for things like dental care, physiotherapy, and alternative medicine. Use <a href="https://www.awin1.com/cread.php?awinmid=8558&awinaffid=2776410&ued=https%3A%2F%2Fwww.independer.nl%2Fzorgverzekering" rel="nofollow sponsored" target="_blank">Independer.nl</a> to compare policies from all major Dutch insurers.
 
 For a detailed breakdown of Dutch insurers, coverage options, and how to choose the right policy, read our [complete guide to Dutch health insurance for expats](/guides/health/dutch-health-insurance-guide-expats-2026/).
 
@@ -334,9 +334,9 @@ For a detailed walkthrough of Dutch health insurance specifically — which insu
 
 ## Final Thoughts
 
-Moving to the Netherlands is a big step, but the country rewards those who make the effort. With excellent infrastructure, a strong economy, a central European location, and a welcoming (if sometimes blunt) culture, it is a fantastic place to build a new chapter. If you are still deciding between countries, the [Netherlands vs UK guide](/guides/integration/netherlands-vs-uk-expats-2026/) and the [Netherlands vs Germany guide](/guides/integration/netherlands-vs-germany-expats-2026/) compare the key factors side by side.
+Moving to the Netherlands is a big step, but the country rewards those who make the effort. With excellent infrastructure, a strong economy, a central European location, and a welcoming (if sometimes blunt) culture, it is a fantastic place to build a new chapter. If you are still deciding between countries, the [Netherlands vs UK guide](/guides/integration/netherlands-vs-uk-expats-2026/) and the [Netherlands vs Germany guide](/guides/integration/netherlands-vs-germany-expats-2026/) compare the key factors side by side. If you are here for the long term, our [Dutch nationality guide](/guides/legal/dutch-nationality-guide-expats-2026/) explains the path to citizenship once you have built up the required years of residence.
 
-The key to a smooth transition is preparation. Handle your visa and housing early, register at your gemeente as soon as possible, and set up your key services — banking, insurance, phone, and transport — in the first two weeks.
+The key to a smooth transition is preparation. Handle your visa and housing early, register at your gemeente as soon as possible, and set up your key services — banking, insurance, phone, and transport — in the first two weeks. And if circumstances change and you find yourself planning to leave, our [leaving the Netherlands checklist](/guides/legal/leaving-netherlands-expat-checklist-2026/) covers every step from deregistration to your final tax return.
 
 For banking, start with [Wise](https://wise.com/invite/ihpc/willemt52) before you arrive. For temporary health coverage, consider [SafetyWing](https://safetywing.com/nomad-insurance/?referenceID=26482728&utm_source=26482728&utm_medium=Ambassador) until your Dutch insurance kicks in. And protect your digital life with [NordVPN](https://go.nordvpn.net/aff_c?offer_id=612&aff_id=141337&url_id=14830) from day one.
 

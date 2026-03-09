@@ -10,8 +10,6 @@ affiliate: true
 author: "Sarah van den Berg"
 author_bio: "Expat coach and relocation specialist. Half Dutch, half British, living in the Netherlands for over 10 years."
 featured_image: "/images/featured/cycling-netherlands-expat-guide-2026.webp"
-aliases:
-  - /guides/daily-life/cycling-netherlands-expat-guide-2026/
 faq:
   - q: "Do I need to buy a bicycle in the Netherlands?"
     a: "While not legally required, a bicycle is practically a necessity for daily life in the Netherlands. The country is designed around cycling, and for trips under 5-7 km, a bicycle is often the fastest way to get around. Over 85% of Dutch residents own at least one bicycle."

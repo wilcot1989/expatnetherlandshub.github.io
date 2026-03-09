@@ -10,8 +10,6 @@ affiliate: true
 author: "Sarah van den Berg"
 author_bio: "Expat coach and relocation specialist. Half Dutch, half British, living in the Netherlands for over 10 years."
 featured_image: "/images/featured/international-schools-netherlands-2026.webp"
-aliases:
-  - /guides/daily-life/international-schools-netherlands-2026/
 faq:
   - q: "How much do international schools cost in the Netherlands?"
     a: "Annual tuition fees range from €5,500 to €24,000 depending on the school and age group. Primary school fees are typically €5,500-€15,000 per year, while secondary and IB Diploma fees range from €12,000-€24,000. Additional costs include registration fees (€500-€3,000), school trips, uniforms, and lunch programs."

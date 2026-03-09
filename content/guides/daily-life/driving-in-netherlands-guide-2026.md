@@ -10,8 +10,6 @@ affiliate: true
 author: "Sarah van den Berg"
 author_bio: "Expat coach and relocation specialist. Half Dutch, half British, living in the Netherlands for over 10 years."
 featured_image: "/images/featured/driving-in-netherlands-guide-2026.webp"
-aliases:
-  - /guides/daily-life/driving-in-netherlands-guide-2026/
 faq:
   - q: "Can I drive with my foreign license in the Netherlands?"
     a: "EU/EEA licenses are valid indefinitely. Non-EU licenses are valid for 185 days after registration. After that, you must exchange your license (if your country has an agreement) or take the Dutch driving exam. Some countries (USA, Canada, Japan, South Korea) have exchange agreements."
@@ -51,6 +49,9 @@ Your EU/EEA driver's license is valid in the Netherlands. You can drive indefini
 | **Brazil** | ❌ No | Must take Dutch exam |
 
 ### Exchange Process (If Eligible)
+
+For a full walkthrough of costs, timelines, and country-specific rules, see our guide on how to [exchange your driving licence](/guides/daily-life/exchange-driving-license-netherlands-2026/).
+
 1. Book an appointment at your municipality (gemeente)
 2. Bring: foreign license, ID/passport, residence permit, recent passport photo
 3. Pay approximately €40

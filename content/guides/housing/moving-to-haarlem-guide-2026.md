@@ -120,7 +120,7 @@ Key rental figures for 2026:
 
 For housing search strategy, the same platforms that work in Amsterdam work in Haarlem: Funda.nl, Pararius.com, and HousingAnywhere.com. The Haarlem market moves slightly more slowly than Amsterdam's, so you have a little more time to view and decide — but not much. Good apartments still go quickly.
 
-Check our [finding housing in the Netherlands guide](/guides/housing/finding-housing-netherlands-2026/) for a full search strategy, and use our [housing budget checker](/tools/housing-budget-checker/) to work out what you can realistically afford after Dutch taxes and deductions.
+Check our [finding housing in the Netherlands guide](/guides/housing/finding-housing-netherlands-expats-2026/) for a full search strategy, and use our [housing budget checker](/tools/housing-budget-checker/) to work out what you can realistically afford after Dutch taxes and deductions.
 
 ### Buying Property in Haarlem
 
@@ -333,6 +333,6 @@ The caveats are real: if you have school-age children needing international educ
 
 But for a couple moving to the Netherlands for the first time, or a professional who wants a manageable city with access to Amsterdam's job market, or anyone who values cycling to the beach in summer over an extra tube stop: Haarlem is an excellent choice, and one that surprises most expats who dismiss it without visiting.
 
-Before committing, read our [finding housing in the Netherlands guide](/guides/housing/finding-housing-netherlands-2026/) for the full rental process, use the [housing budget checker](/tools/housing-budget-checker/) to set a realistic budget, and make sure your registration paperwork is in order with our [BSN registration guide](/guides/legal/bsn-registration-guide-2026/).
+Before committing, read our [finding housing in the Netherlands guide](/guides/housing/finding-housing-netherlands-expats-2026/) for the full rental process, use the [housing budget checker](/tools/housing-budget-checker/) to set a realistic budget, and make sure your registration paperwork is in order with our [BSN registration guide](/guides/legal/bsn-registration-guide-2026/).
 
 Welcome to Haarlem.

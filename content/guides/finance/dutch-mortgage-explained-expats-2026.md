@@ -14,7 +14,7 @@ faq:
   - q: "Can I get a Dutch mortgage as an expat without a permanent residence permit?"
     a: "Yes, you can. Dutch lenders do not legally require permanent residency to approve a mortgage. What they care about is income stability and your ability to repay. You will typically need a valid residence and work permit, a BSN number, and a Dutch employment contract. If you have a temporary contract, your employer can provide an intentieverklaring (employer intent statement) to show the contract is likely to be renewed. Some lenders are stricter than others, which is why using a mortgage advisor who specialises in expat applications makes a significant difference — they know which lenders are actually expat-friendly rather than just claiming to be."
   - q: "How does the 30% ruling affect how much mortgage I can borrow?"
-    a: "The 30% ruling reduces your taxable income to 70% of your gross salary, and most standard Dutch lenders calculate your borrowing capacity based on taxable income rather than gross income. This means a €90,000 gross salary with the 30% ruling could be treated as €63,000 for mortgage purposes — reducing your borrowing capacity by tens of thousands of euros. However, several expat-specialist lenders and brokers can arrange mortgages that use your full gross salary for the calculation. This is one of the most important reasons to use a specialist advisor rather than walking into a high-street bank. See our full breakdown in the [30% ruling guide](/guides/finance/30-percent-ruling-guide-2026/)."
+    a: "The 30% ruling reduces your taxable income to 70% of your gross salary, and most standard Dutch lenders calculate your borrowing capacity based on taxable income rather than gross income. This means a €90,000 gross salary with the 30% ruling could be treated as €63,000 for mortgage purposes — reducing your borrowing capacity by tens of thousands of euros. However, several expat-specialist lenders and brokers can arrange mortgages that use your full gross salary for the calculation. This is one of the most important reasons to use a specialist advisor rather than walking into a high-street bank. See our full breakdown in the [30% ruling guide](/guides/finance/30-percent-ruling-netherlands-2026/)."
   - q: "What is the NHG limit for 2026 and how does it help expats?"
     a: "In 2026, the Nationale Hypotheek Garantie (NHG) limit is €435,000 (or €461,100 if you take an energy-saving mortgage). NHG is a state guarantee that protects both you and the lender if you default on your mortgage due to circumstances beyond your control, such as job loss, divorce, or illness. For borrowers, the main benefit is a lower interest rate — typically 0.4–0.6% lower than a non-NHG mortgage. The one-time NHG fee (borgtochtprovisie) is 0.6% of the mortgage amount in 2026. For expats buying below the NHG threshold, it is almost always worth taking."
   - q: "What is eigenwoningforfait and will it affect me as an expat homeowner?"
@@ -29,7 +29,7 @@ Within a month, working with a specialist expat mortgage advisor, she had a mort
 
 That story is why I wrote this guide. Buying a home in the Netherlands is absolutely achievable as an expat — but the Dutch mortgage system has its own logic, its own terminology, and a few quirks that will catch you off guard if you go in unprepared. This guide covers everything: how Dutch mortgages work, what you can borrow, the 30% ruling impact, costs, tax implications, and the process from start to keys in your hand.
 
-Before you read on, check your overall financial picture with our [housing budget checker](/tools/housing-budget-checker/) and get up to speed on the [Dutch tax system](/guides/finance/dutch-tax-system-expats-2026/) — both will make this guide easier to apply to your own situation.
+Before you read on, check your overall financial picture with our [housing budget checker](/tools/housing-budget-checker/) and get up to speed on the [Dutch tax system](/guides/finance/dutch-tax-system-expats-guide-2026/) — both will make this guide easier to apply to your own situation.
 
 ---
 
@@ -98,7 +98,7 @@ In a hot market — Amsterdam, Utrecht, and parts of The Hague remain competitiv
 
 ## The 30% Ruling and Your Mortgage
 
-This is the section that most expats wish someone had explained to them earlier. See our [full 30% ruling guide](/guides/finance/30-percent-ruling-guide-2026/) for complete details on the tax benefit itself.
+This is the section that most expats wish someone had explained to them earlier. See our [full 30% ruling guide](/guides/finance/30-percent-ruling-netherlands-2026/) for complete details on the tax benefit itself.
 
 The core issue: the 30% ruling reduces your **taxable income** to 70% of your gross salary. Most Dutch lenders — including the major banks — calculate mortgage borrowing capacity based on taxable income. For 30% ruling holders, that means your effective salary for mortgage purposes is 30% lower than your gross salary.
 
@@ -155,7 +155,7 @@ The interest portion of your mortgage payments reduces your Box 1 taxable income
 - The deduction only applies to **annuity or linear mortgages** taken out after 2013. Interest-only mortgages taken out after January 2013 do not qualify.
 - You must use the property as your **primary residence** (hoofdverblijf).
 - The mortgage term for which you can claim the deduction is **maximum 30 years**.
-- The deduction is claimed via your annual belastingaangifte (tax return). See our [expat tax return guide](/guides/finance/dutch-tax-system-expats-2026/) for details on how to file.
+- The deduction is claimed via your annual belastingaangifte (tax return). See our [expat tax return guide](/guides/finance/dutch-tax-system-expats-guide-2026/) for details on how to file.
 - The tax rate at which you receive the deduction is being gradually reduced. In 2026, the maximum rate at which you can deduct mortgage interest is **37.07%**, even if your marginal rate is higher.
 
 ### Eigenwoningforfait: The Notional Rental Value
@@ -308,7 +308,7 @@ Before you look at a single property, do this:
 - When you find a property, make an offer verbally or in writing through your agent.
 - If accepted, agree on conditions: typically subject to financing (onder voorbehoud van financiering) and structural survey.
 
-See our [guide to finding housing in the Netherlands](/guides/housing/finding-housing-netherlands-2026/) for detailed advice on the search process.
+See our [guide to finding housing in the Netherlands](/guides/housing/finding-housing-netherlands-expats-2026/) for detailed advice on the search process.
 
 ### Step 3: Sign the Preliminary Purchase Agreement (Week 1–2 After Offer)
 
@@ -395,7 +395,7 @@ You should seriously consider renting if:
 
 The rule of thumb is that buying makes more financial sense than renting after approximately 3–5 years of ownership, depending on price appreciation, mortgage rate, and your specific costs. Shorter than that, and the transaction costs alone make renting the cheaper option.
 
-Our [finding housing in the Netherlands guide](/guides/housing/finding-housing-netherlands-2026/) covers the rental market in detail and can help you think through the rent vs buy decision.
+Our [finding housing in the Netherlands guide](/guides/housing/finding-housing-netherlands-expats-2026/) covers the rental market in detail and can help you think through the rent vs buy decision.
 
 ---
 
@@ -419,4 +419,4 @@ Good luck — and enjoy finding your Dutch home.
 
 ---
 
-*For more on your overall financial situation as an expat, read our guides on the [30% ruling](/guides/finance/30-percent-ruling-guide-2026/), the [Dutch tax system](/guides/finance/dutch-tax-system-expats-2026/), and [the best bank accounts for expats](/guides/finance/best-bank-account-expats-netherlands-2026/).*
+*For more on your overall financial situation as an expat, read our guides on the [30% ruling](/guides/finance/30-percent-ruling-netherlands-2026/), the [Dutch tax system](/guides/finance/dutch-tax-system-expats-guide-2026/), and [the best bank accounts for expats](/guides/finance/best-bank-account-expats-netherlands-2026/).*

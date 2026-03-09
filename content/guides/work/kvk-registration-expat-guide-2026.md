@@ -244,7 +244,7 @@ From the moment you are registered, you are legally a business owner in the Neth
 
 **VAT (BTW) returns** — Most businesses file quarterly via the Belastingdienst portal (mijn.belastingdienst.nl). If your annual VAT turnover is very low, you may qualify for annual filing. If it is very high, monthly filing may be required. The Belastingdienst will write to you to confirm your filing frequency.
 
-**Annual income tax return** — As an eenmanszaak, your business profit is declared in Box 1 of your personal income tax return (aangifte inkomstenbelasting). The filing deadline is 1 May the following year, with extensions available. Read the [Dutch tax system guide](/guides/finance/dutch-tax-system-expats-2026/) for a full explanation of how this works.
+**Annual income tax return** — As an eenmanszaak, your business profit is declared in Box 1 of your personal income tax return (aangifte inkomstenbelasting). The filing deadline is 1 May the following year, with extensions available. Read the [Dutch tax system guide](/guides/finance/dutch-tax-system-expats-guide-2026/) for a full explanation of how this works.
 
 **Administration records** — You are legally required to keep your business records for 7 years. This includes invoices (sent and received), bank statements, and any contracts.
 
@@ -329,7 +329,7 @@ Apply for KOR at the Belastingdienst after receiving your BTW number. The exempt
 
 If you provide services to VAT-registered businesses in other EU countries, the reverse charge mechanism usually applies — you invoice at 0% VAT and the client accounts for VAT in their own country. You need to include the client's EU VAT number on the invoice and report these transactions in your BTW return.
 
-For the full picture of Dutch taxes as a business owner, the [Dutch tax system guide](/guides/finance/dutch-tax-system-expats-2026/) covers everything in detail.
+For the full picture of Dutch taxes as a business owner, the [Dutch tax system guide](/guides/finance/dutch-tax-system-expats-guide-2026/) covers everything in detail.
 
 ---
 
@@ -370,7 +370,7 @@ If you invest between €2,601 and €369,000 in business assets, you can deduct
 
 Without the deductions, income tax on €62,000 would be roughly €22,920 — the deductions save over €4,600. That is not trivial.
 
-For the full picture of how these interact with your personal income and the 30% ruling (if applicable), see our [Dutch tax system guide](/guides/finance/dutch-tax-system-expats-2026/) and the full [ZZP and freelancer guide](/guides/work/zzp-freelancer-guide-netherlands-2026/).
+For the full picture of how these interact with your personal income and the 30% ruling (if applicable), see our [Dutch tax system guide](/guides/finance/dutch-tax-system-expats-guide-2026/) and the full [ZZP and freelancer guide](/guides/work/freelancer-zzp-guide-netherlands-2026/).
 
 ---
 
@@ -440,7 +440,7 @@ Here is a practical checklist of what to do in the first three months after your
 - If you are close to the €20,000 threshold, decide on KOR
 - Consider whether your business structure still fits your plans
 
-For everything related to running the business day to day — invoicing, taxes, insurance, finding clients — the [ZZP freelancer guide](/guides/work/zzp-freelancer-guide-netherlands-2026/) is your next read.
+For everything related to running the business day to day — invoicing, taxes, insurance, finding clients — the [ZZP freelancer guide](/guides/work/freelancer-zzp-guide-netherlands-2026/) is your next read.
 
 ---
 
@@ -475,8 +475,8 @@ If you have read this far, you are ready to act. Here is the short version:
 7. **Open a business bank account** — Using your KvK number.
 8. **Set up accounting software** — Before your first invoice.
 9. **Benchmark your rates** — Use the [Salary Checker](/tools/salary-checker/) to compare your freelance rates against employed equivalents.
-10. **Read the tax guide** — [Dutch tax system guide](/guides/finance/dutch-tax-system-expats-2026/) covers everything that happens from here.
-10. **Read the full ZZP guide** — [ZZP freelancer guide](/guides/work/zzp-freelancer-guide-netherlands-2026/) covers running the business once you are registered.
+10. **Read the tax guide** — [Dutch tax system guide](/guides/finance/dutch-tax-system-expats-guide-2026/) covers everything that happens from here.
+10. **Read the full ZZP guide** — [ZZP freelancer guide](/guides/work/freelancer-zzp-guide-netherlands-2026/) covers running the business once you are registered.
 
 The registration itself is genuinely one of the simpler parts of running a business in the Netherlands. What comes after — taxes, VAT, insurance, finding clients — takes more attention. But it is all manageable, and you do not need to figure it out alone.
 

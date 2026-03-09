@@ -44,7 +44,7 @@ Understanding these four areas will put you ahead of most expats I meet.
 
 ## Box 3 Wealth Tax: The Core of Dutch Investment Taxation
 
-Before choosing a platform or a fund, you need to understand Box 3 — because it shapes everything else. I covered the full Dutch tax system in our [Dutch tax system guide for expats](/guides/finance/dutch-tax-system-expats-2026/), but here is everything you specifically need to know as an investor.
+Before choosing a platform or a fund, you need to understand Box 3 — because it shapes everything else. I covered the full Dutch tax system in our [Dutch tax system guide for expats](/guides/finance/dutch-tax-system-expats-guide-2026/), but here is everything you specifically need to know as an investor.
 
 ### What Is Box 3?
 
@@ -112,7 +112,7 @@ The actual calculation uses official Belastingdienst percentages applied to prop
 
 ## The 30% Ruling and Box 3: A Major Benefit You Must Not Miss
 
-If you qualify for the [30% ruling](/guides/finance/30-percent-ruling-guide-2026/), you likely have access to one of the most valuable tax benefits available to expats in the Netherlands — and it goes beyond your salary.
+If you qualify for the [30% ruling](/guides/finance/30-percent-ruling-netherlands-2026/), you likely have access to one of the most valuable tax benefits available to expats in the Netherlands — and it goes beyond your salary.
 
 The 30% ruling includes the option to be treated as a **partial non-resident** (partieel buitenlandse belastingplichtige) for tax purposes. If you elect this status, you are treated as a non-resident for Box 2 and Box 3 purposes only.
 
@@ -302,7 +302,7 @@ If you have just arrived in the Netherlands and want to start investing sensibly
 
 1. **Open a Dutch bank account** — you need one before you can open a broker account. See our [bank accounts guide](/guides/finance/best-bank-account-expats-netherlands-2026/).
 
-2. **Get DigiD and understand your tax situation** — review our [Dutch tax system guide](/guides/finance/dutch-tax-system-expats-2026/) and confirm whether you qualify for the 30% ruling (use the [30% ruling calculator](/tools/30-percent-ruling-calculator/)).
+2. **Get DigiD and understand your tax situation** — review our [Dutch tax system guide](/guides/finance/dutch-tax-system-expats-guide-2026/) and confirm whether you qualify for the 30% ruling (use the [30% ruling calculator](/tools/30-percent-ruling-calculator/)).
 
 3. **Check your 30% ruling status** — if you have it, read about the partial non-resident option and discuss it with a tax advisor before filing your first return.
 
@@ -316,8 +316,8 @@ If you have just arrived in the Netherlands and want to start investing sensibly
 
 ## Related Guides
 
-- [Dutch Tax System for Expats 2026](/guides/finance/dutch-tax-system-expats-2026/) — understand Box 1, 2, and 3 in full
-- [30% Ruling Netherlands 2026: Complete Guide](/guides/finance/30-percent-ruling-guide-2026/) — check your eligibility and maximise the benefit
+- [Dutch Tax System for Expats 2026](/guides/finance/dutch-tax-system-expats-guide-2026/) — understand Box 1, 2, and 3 in full
+- [30% Ruling Netherlands 2026: Complete Guide](/guides/finance/30-percent-ruling-netherlands-2026/) — check your eligibility and maximise the benefit
 - [Dutch Pension System for Expats 2026](/guides/finance/dutch-pension-system-expats-2026/) — your workplace pension as part of your overall investment picture
 - [Best Bank Accounts for Expats in the Netherlands 2026](/guides/finance/best-bank-account-expats-netherlands-2026/) — open a Dutch account before you invest
 - [30% Ruling Calculator](/tools/30-percent-ruling-calculator/) — estimate your tax benefit instantly

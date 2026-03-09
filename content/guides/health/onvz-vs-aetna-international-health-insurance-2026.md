@@ -27,7 +27,7 @@ The Dutch health insurance system has some specific rules about who must be in i
 
 This article compares ONVZ and Aetna International in detail: what they cover, what they cost, where each one works better, and — critically — who actually qualifies to use each. I will be direct where one is meaningfully better than the other and honest where the choice genuinely depends on your individual situation.
 
-If you want to start with a broader overview of how Dutch health insurance works for expats, read the [complete expat health insurance guide](/guides/health/health-insurance-expats-netherlands-2026/) first. If you already know the basics and want a personalised match, the [Health Insurance Wizard tool](/tools/health-insurance-wizard/) will ask a few targeted questions and point you in the right direction.
+If you want to start with a broader overview of how Dutch health insurance works for expats, read the [complete expat health insurance guide](/guides/health/dutch-health-insurance-guide-expats-2026/) first. If you already know the basics and want a personalised match, the [Health Insurance Wizard tool](/tools/health-insurance-wizard/) will ask a few targeted questions and point you in the right direction.
 
 ---
 
@@ -60,7 +60,7 @@ If you fall into the exempt category, you genuinely have a choice between ONVZ's
 
 If you are not sure which category you fall into, the SVB (Sociale Verzekeringsbank) has an online check tool. Do not guess — the consequences of getting this wrong, as my colleague discovered, are financially painful.
 
-For more on handling Dutch administrative requirements after arrival, the [expat insurance overview for the Netherlands](/guides/health/expat-insurance-netherlands-2026/) covers the registration and exemption process in full.
+For more on handling Dutch administrative requirements after arrival, the [expat insurance overview for the Netherlands](/guides/health/best-expat-insurance-netherlands-2026/) covers the registration and exemption process in full.
 
 ---
 
@@ -250,7 +250,7 @@ For expats who do not speak Dutch and want a smooth, English-language experience
 
 Some expats who are required to hold Dutch basisverzekering choose to add an international plan as supplementary coverage — particularly for dental, repatriation, access to private specialists, and worldwide coverage when travelling. ONVZ's aanvullende verzekering (supplementary plans) can be added to any Dutch basisverzekering, including those from other insurers. Aetna International can also technically be used as a top-up, though this creates some complexity in coordinating claims between a Dutch insurer and an international one. For most people, a good Dutch basisverzekering with a well-chosen supplementary dental and physio add-on is sufficient — the [Insurance Chooser tool](/tools/insurance-chooser/) can help you work out whether international top-up coverage genuinely adds value for your situation.
 
-If you are comparing Dutch domestic insurers like Zilveren Kruis and CZ alongside ONVZ's Dutch basisverzekering plans, the [Zilveren Kruis vs CZ comparison](/guides/health/zilveren-kruis-vs-cz-expats-2026/) gives you a direct side-by-side analysis of those two. For a broader overview of all expat insurance options in the Netherlands, read the [expat insurance Netherlands guide](/guides/health/expat-insurance-netherlands-2026/).
+If you are comparing Dutch domestic insurers like Zilveren Kruis and CZ alongside ONVZ's Dutch basisverzekering plans, the [Zilveren Kruis vs CZ comparison](/guides/health/zilveren-kruis-vs-cz-expats-2026/) gives you a direct side-by-side analysis of those two. For a broader overview of all expat insurance options in the Netherlands, read the [expat insurance Netherlands guide](/guides/health/best-expat-insurance-netherlands-2026/).
 
 ---
 
@@ -324,8 +324,8 @@ For purely temporary or travel-based coverage — not as a replacement for Dutch
 
 ## Related Guides
 
-- [Health Insurance for Expats in the Netherlands: The Complete Guide 2026](/guides/health/health-insurance-expats-netherlands-2026/)
-- [Expat Insurance in the Netherlands: All Your Options 2026](/guides/health/expat-insurance-netherlands-2026/)
+- [Health Insurance for Expats in the Netherlands: The Complete Guide 2026](/guides/health/dutch-health-insurance-guide-expats-2026/)
+- [Expat Insurance in the Netherlands: All Your Options 2026](/guides/health/best-expat-insurance-netherlands-2026/)
 - [Zilveren Kruis vs CZ: Dutch Health Insurance Compared 2026](/guides/health/zilveren-kruis-vs-cz-expats-2026/)
 - [Health Insurance Wizard — Get a Personalised Match](/tools/health-insurance-wizard/)
 - [Insurance Chooser Tool](/tools/insurance-chooser/)

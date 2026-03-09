@@ -146,7 +146,7 @@ A few important points:
 
 **Gross versus net:** Dutch salaries are quoted gross. With income tax, social contributions, and other deductions, your net take-home will be considerably lower. This catches many expats off guard.
 
-**The 30% ruling:** If you are an expat moving to the Netherlands from abroad and your salary meets the threshold, you may qualify for the [30% ruling](/guides/finance/30-percent-ruling-guide-2026/) — a significant tax advantage that allows your employer to pay 30% of your salary tax-free for up to five years. This can have a substantial effect on your net income, and it is worth mentioning during salary discussions. Some Dutch employers factor it into their offers; others do not and are happy to learn you are aware of it.
+**The 30% ruling:** If you are an expat moving to the Netherlands from abroad and your salary meets the threshold, you may qualify for the [30% ruling](/guides/finance/30-percent-ruling-netherlands-2026/) — a significant tax advantage that allows your employer to pay 30% of your salary tax-free for up to five years. This can have a substantial effect on your net income, and it is worth mentioning during salary discussions. Some Dutch employers factor it into their offers; others do not and are happy to learn you are aware of it.
 
 **Holiday allowance (*vakantiegeld*):** In the Netherlands, employees are legally entitled to 8% of their annual gross salary as holiday allowance, typically paid in May. This is separate from your monthly salary, so factor it into your total package calculation.
 
@@ -224,7 +224,7 @@ In ten years of coaching internationals through the Dutch job market, I have see
 
 ## If You Are Considering Freelancing
 
-Some expats who struggle to find the right permanent role consider going the ZZP route — working as a self-employed freelancer (*zelfstandige zonder personeel*). This is a genuinely viable path in the Netherlands, particularly in tech, design, and consulting. Our [ZZP freelancer guide](/guides/work/zzp-freelancer-guide-netherlands-2026/) covers the setup process, tax implications, and what to expect in detail.
+Some expats who struggle to find the right permanent role consider going the ZZP route — working as a self-employed freelancer (*zelfstandige zonder personeel*). This is a genuinely viable path in the Netherlands, particularly in tech, design, and consulting. Our [ZZP freelancer guide](/guides/work/freelancer-zzp-guide-netherlands-2026/) covers the setup process, tax implications, and what to expect in detail.
 
 The Dutch freelance market is competitive but active. Many companies prefer to hire experienced specialists on a project basis before considering permanent roles, so it can also serve as a route into the permanent market.
 
@@ -243,8 +243,8 @@ Priya, by the way, ended up at a project management role at a mid-sized logistic
 ## Further Reading
 
 - [Understanding Dutch Work Culture: A Complete Expat Guide](/guides/work/dutch-work-culture-guide-expats-2026/)
-- [The 30% Ruling Explained: Are You Eligible?](/guides/finance/30-percent-ruling-guide-2026/)
-- [Going Freelance in the Netherlands: The ZZP Guide](/guides/work/zzp-freelancer-guide-netherlands-2026/)
+- [The 30% Ruling Explained: Are You Eligible?](/guides/finance/30-percent-ruling-netherlands-2026/)
+- [Going Freelance in the Netherlands: The ZZP Guide](/guides/work/freelancer-zzp-guide-netherlands-2026/)
 - [LinkedIn Tips for Expats in the Netherlands](/guides/work/linkedin-netherlands-expat-tips-2026/) — how to optimize your Dutch market presence and use LinkedIn to find jobs and build your professional network here
 - [Check Your Salary: Is Your Offer Fair?](/tools/salary-checker/)
 
@@ -258,7 +258,7 @@ Most Dutch employers run two to three rounds. The first is typically a short int
 
 ### Is it acceptable to ask about salary in a Dutch job interview?
 
-Yes, and Dutch employers generally expect it. Salary is not considered a taboo topic the way it can be in some cultures. The Dutch tend to be direct about compensation, and asking early in the process saves everyone time. It helps to have done your homework — use our [salary checker](/tools/salary-checker/) to understand the market rate for your role. If you qualify for the [30% ruling](/guides/finance/30-percent-ruling-guide-2026/), mention it: it affects your net take-home significantly and some employers factor it into package discussions. Aim to discuss a range rather than a fixed number in the first conversation.
+Yes, and Dutch employers generally expect it. Salary is not considered a taboo topic the way it can be in some cultures. The Dutch tend to be direct about compensation, and asking early in the process saves everyone time. It helps to have done your homework — use our [salary checker](/tools/salary-checker/) to understand the market rate for your role. If you qualify for the [30% ruling](/guides/finance/30-percent-ruling-netherlands-2026/), mention it: it affects your net take-home significantly and some employers factor it into package discussions. Aim to discuss a range rather than a fixed number in the first conversation.
 
 ### Should I speak Dutch in a job interview in the Netherlands?
 

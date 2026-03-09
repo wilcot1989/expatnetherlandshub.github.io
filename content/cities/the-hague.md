@@ -103,4 +103,4 @@ Moving to The Hague requires a few essential steps. Here are the most important 
 - [Moving to The Hague: Full Guide 2026](/guides/housing/moving-to-the-hague-guide-2026/)
 - [Finding Housing in the Netherlands](/guides/housing/)
 - [Working in the Netherlands](/guides/work/)
-- [Health Insurance for Expats 2026](/guides/healthcare/)
+- [Health Insurance for Expats 2026](/guides/health/)

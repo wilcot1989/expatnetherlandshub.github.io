@@ -10,8 +10,6 @@ affiliate: true
 author: "Sarah van den Berg"
 author_bio: "Expat coach and relocation specialist. Half Dutch, half British, living in the Netherlands for over 10 years."
 featured_image: "/images/featured/ov-chipkaart-guide-expats-2026.webp"
-aliases:
-  - /guides/daily-life/ov-chipkaart-guide-expats-2026/
 faq:
   - q: "What is an OV-chipkaart and do I need one?"
     a: "The OV-chipkaart is the smart card used for all public transport in the Netherlands, including trains, trams, buses, and metro. While you can also use contactless bank cards (debit or credit cards with NFC) to check in on most transport services in 2026, a personal OV-chipkaart is still recommended if you commute regularly, want to load subscriptions, or plan to use OV-fiets bike rental. It costs EUR 7.50 and is valid for 5 years."

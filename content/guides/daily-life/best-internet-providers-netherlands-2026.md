@@ -10,8 +10,6 @@ affiliate: true
 author: "Sarah van den Berg"
 author_bio: "Expat coach and relocation specialist. Half Dutch, half British, living in the Netherlands for over 10 years."
 featured_image: "/images/featured/best-internet-providers-netherlands-2026.webp"
-aliases:
-  - /guides/daily-life/best-internet-providers-netherlands-2026/
 faq:
   - q: "What is the best internet provider in the Netherlands for expats?"
     a: "For most expats, KPN is the best overall choice due to its excellent fiber network, reliable speeds, and English-language customer support. If fiber is not available at your address, Ziggo offers the best cable internet with speeds up to 1200 Mbps. Budget-conscious expats should consider Budget Thuis or Online.nl for lower prices on the same networks."

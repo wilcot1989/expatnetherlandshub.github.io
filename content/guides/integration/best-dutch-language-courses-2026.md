@@ -447,7 +447,7 @@ The best Dutch language course is the one you will actually use consistently. He
 
 - **Best app for structured self-study**: [Babbel](https://www.babbel.com/)
 - **Best free option**: Duolingo
-- **Best for personalized online tutoring**: [Preply](https://preply.com/)
+- **Best for personalized online tutoring**: [Preply](https://preply.com/) — see our [Preply vs iTalki comparison](/guides/integration/preply-vs-italki-dutch-lessons-2026/) if you are weighing both platforms
 - **Best for affordable conversation practice**: [italki](https://www.italki.com/)
 - **Best in-person school (academic quality)**: UvA Talen
 - **Best immersive classroom experience**: Direct Dutch

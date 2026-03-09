@@ -201,7 +201,7 @@ Rent is EUR 1,100–1,350, comparable to Rotterdam and The Hague. The housing ma
 
 **Leiden is wrong for you if:** You need a large local job market or want an active nightlife scene.
 
-See the [Leiden city guide](/cities/leiden/) for neighbourhood and practical detail.
+See the [Leiden city guide](/cities/leiden/) for neighbourhood and practical detail, or jump straight to the [moving to Leiden guide](/guides/housing/moving-to-leiden-expat-guide-2026/) for registration and housing tips.
 
 ---
 
@@ -221,7 +221,7 @@ The main employers are the university, the university medical centre, and energy
 
 **Groningen is wrong for you if:** You travel frequently for work, need access to Schiphol regularly, or depend on frequent contact with clients or colleagues in Amsterdam or Rotterdam.
 
-More in the [Groningen city guide](/cities/groningen/).
+More in the [Groningen city guide](/cities/groningen/). For practical relocation details, see the [moving to Groningen guide](/guides/housing/moving-to-groningen-guide-2026/).
 
 ---
 
@@ -241,7 +241,7 @@ The practical drawbacks are significant: Amsterdam is two and a half hours by tr
 
 **Maastricht is wrong for you if:** You need regular access to Amsterdam or Schiphol, or you work in a sector where the Dutch job market is concentrated in the Randstad.
 
-See the [Maastricht city guide](/cities/maastricht/) for practical detail.
+See the [Maastricht city guide](/cities/maastricht/) for practical detail, or the [moving to Maastricht guide](/guides/housing/moving-to-maastricht-expat-guide-2026/) for housing and registration specifics.
 
 ---
 
@@ -321,6 +321,10 @@ If I were advising a friend moving to the Netherlands in 2026, here is what I wo
 **If budget is your top constraint:** Groningen or Maastricht. Know their limitations — distance from Schiphol, smaller job markets — and go in with clear eyes.
 
 The Netherlands is a small country. No city here is truly isolated. The train network means you can live in Leiden and work in Amsterdam, or live in Groningen and visit friends in Utrecht for the weekend. Choose the city that fits your work and budget first. The rest tends to sort itself out.
+
+Wherever you land, you will need to move money during the transition — paying a deposit, receiving your first salary, or transferring savings from home. Setting up a Wise account before you move gives you a Dutch IBAN immediately, at better exchange rates than your home bank.
+
+<a href="https://wise.com/invite/ihpc/willemt52" class="cta-affiliate" rel="nofollow sponsored" target="_blank">Set Up Your Wise Account Before You Move →</a>
 
 ---
 

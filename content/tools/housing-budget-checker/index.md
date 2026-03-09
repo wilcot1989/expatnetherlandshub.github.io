@@ -742,8 +742,8 @@ document.getElementById('tipsSection').innerHTML = tipsHtml;
 // CTAs
 document.getElementById('ctaSection').innerHTML =
 '<h3>Find your next home</h3>' +
-'<a href="https://www.funda.nl/huur/" target="_blank" rel="noopener noreferrer" class="cta-affiliate">Search homes on Funda <span>\u2192</span></a>' +
-'<a href="https://www.pararius.nl/huurwoningen/nederland" target="_blank" rel="noopener noreferrer" class="cta-affiliate secondary">Find expat rentals on Pararius <span>\u2192</span></a>' +
+'<a href="https://www.funda.nl/huur/" target="_blank" rel="noopener noreferrer" class="cta">Search homes on Funda <span>\u2192</span></a>' +
+'<a href="https://www.pararius.nl/huurwoningen/nederland" target="_blank" rel="noopener noreferrer" class="cta secondary">Find expat rentals on Pararius <span>\u2192</span></a>' +
 '<a href="/tools/30-percent-ruling-calculator/" class="cta-affiliate secondary" style="margin-top:0.25rem;">Check your 30% ruling eligibility <span>\u2192</span></a>';
 }
 
@@ -858,8 +858,8 @@ document.getElementById('tipsSection').innerHTML = buyingTip;
 // CTAs
 document.getElementById('ctaSection').innerHTML =
 '<h3>Ready to find your home?</h3>' +
-'<a href="https://www.funda.nl/koop/" target="_blank" rel="noopener noreferrer" class="cta-affiliate">Search properties on Funda <span>\u2192</span></a>' +
-'<a href="https://www.pararius.nl/koopwoningen/nederland" target="_blank" rel="noopener noreferrer" class="cta-affiliate secondary">Browse listings on Pararius <span>\u2192</span></a>' +
+'<a href="https://www.funda.nl/koop/" target="_blank" rel="noopener noreferrer" class="cta">Search properties on Funda <span>\u2192</span></a>' +
+'<a href="https://www.pararius.nl/koopwoningen/nederland" target="_blank" rel="noopener noreferrer" class="cta secondary">Browse listings on Pararius <span>\u2192</span></a>' +
 '<a href="/tools/30-percent-ruling-calculator/" class="cta-affiliate secondary" style="margin-top:0.25rem;">Check your 30% ruling eligibility <span>\u2192</span></a>';
 }
 

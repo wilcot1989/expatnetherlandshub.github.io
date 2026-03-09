@@ -179,7 +179,7 @@ After the ceremony, you receive your certificate of naturalisation (naturalisati
 
 A Dutch passport costs €81.40 in 2026. You can apply at your municipality immediately after the ceremony. Processing time is typically five working days. You'll also want to apply for a Dutch identity card (€72.80) if you want a cheaper travel document for EU travel.
 
-Once you have your Dutch ID, you'll want to update your [DigiD](/guides/digid-guide-expats-2026/) and relevant government registrations.
+Once you have your Dutch ID, you'll want to update your [DigiD](/guides/legal/digid-guide-expats-2026/) and relevant government registrations.
 
 ---
 
@@ -340,7 +340,7 @@ The Dutch passport consistently ranks among the most powerful travel documents i
 
 ### Some Administrative Updates
 
-After naturalisation, update your records at your municipality (BRP), notify the [DigiD system](/guides/digid-guide-expats-2026/) of any changes, and update your details with the Belastingdienst. If you run a business, update your [KvK registration](/guides/work/kvk-registration-expat-guide-2026/) accordingly.
+After naturalisation, update your records at your municipality (BRP), notify the [DigiD system](/guides/legal/digid-guide-expats-2026/) of any changes, and update your details with the Belastingdienst. If you run a business, update your [KvK registration](/guides/work/kvk-registration-expat-guide-2026/) accordingly.
 
 ---
 

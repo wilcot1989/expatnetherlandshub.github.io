@@ -207,7 +207,7 @@ Legal expenses insurance covers the cost of legal assistance in disputes. In the
 4. **Healthcare allowance** — Check if you qualify for zorgtoeslag to offset health insurance costs
 5. **Employer benefits** — Some employers offer group insurance rates or contribute to your health insurance
 
-Compare health insurance options easily through <a href="https://www.awin1.com/awclick.php?mid=8558&id=2776410" rel="nofollow sponsored" target="_blank">Independer</a> — the Netherlands' most popular comparison platform with English-language support.
+Compare health insurance options easily through <a href="https://www.awin1.com/cread.php?awinmid=8558&awinaffid=2776410&ued=https%3A%2F%2Fwww.independer.nl%2Fzorgverzekering" rel="nofollow sponsored" target="_blank">Independer</a> — the Netherlands' most popular comparison platform with English-language support.
 
 ## Common Mistakes Expats Make
 
@@ -260,7 +260,7 @@ Not sure which insurance package suits your situation? Use our [insurance choose
 
 ## Comparing SafetyWing vs Cigna vs Allianz for Expats
 
-Before you are eligible for Dutch health insurance — or if you are in the Netherlands on a visa that does not require it — you will need international health coverage. I get asked constantly which provider to go with. The honest answer is that it depends on where you are in your expat journey and how long you plan to stay.
+Before you are eligible for Dutch health insurance — or if you are in the Netherlands on a visa that does not require it — you will need international health coverage. I get asked constantly which provider to go with. The honest answer is that it depends on where you are in your expat journey and how long you plan to stay. For a detailed side-by-side breakdown of the two most popular options, see my [SafetyWing vs Cigna comparison](/guides/health/safetywing-vs-cigna-expat-insurance-2026/).
 
 ### SafetyWing Nomad Insurance
 

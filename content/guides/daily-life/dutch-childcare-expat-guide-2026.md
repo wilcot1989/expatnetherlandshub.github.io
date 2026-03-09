@@ -10,8 +10,6 @@ affiliate: true
 author: "Sarah van den Berg"
 author_bio: "Expat coach and relocation specialist. Half Dutch, half British, living in the Netherlands for over 10 years."
 featured_image: "/images/featured/dutch-childcare-expat-guide-2026.webp"
-aliases:
-  - /guides/daily-life/dutch-childcare-expat-guide-2026/
 faq:
   - q: "How much does childcare cost in the Netherlands?"
     a: "Before subsidy, daycare costs €8-€10 per hour (€1,200-€2,000/month for 3 days/week). After kinderopvangtoeslag (childcare subsidy), you pay €200-€800/month depending on your income. Lower-income families pay as little as €100-€200/month after subsidy."

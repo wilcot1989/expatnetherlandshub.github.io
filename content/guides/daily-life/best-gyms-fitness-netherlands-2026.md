@@ -10,8 +10,6 @@ affiliate: true
 author: "Sarah van den Berg"
 author_bio: "Expat coach and relocation specialist. Half Dutch, half British, living in the Netherlands for over 10 years."
 featured_image: "/images/featured/best-gyms-fitness-netherlands-2026.webp"
-aliases:
-  - /guides/daily-life/best-gyms-fitness-netherlands-2026/
 faq:
   - q: "How much does a gym membership cost in the Netherlands?"
     a: "Gym membership costs range from €15-€80/month. Budget gyms: Basic-Fit (€20-€30), Fit For Free (€15-€25). Mid-range: Trainmore (€30-€50), Sportcity (€35-€50). Premium: David Lloyd (€80-€120), Virgin Active (€60-€80). Most gyms have no registration fee if you commit to 12 months."

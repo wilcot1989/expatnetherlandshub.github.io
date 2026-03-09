@@ -106,7 +106,7 @@ Moving to Maastricht requires a few essential steps. Here are the most important
 
 ## Related Guides
 
-- [Moving to Maastricht: Full Guide 2026](/guides/housing/moving-to-maastricht-guide-2026/)
+- [Moving to Maastricht: Full Guide 2026](/guides/housing/moving-to-maastricht-expat-guide-2026/)
 - [Finding Housing in the Netherlands](/guides/housing/)
 - [Working in the Netherlands](/guides/work/)
-- [Health Insurance for Expats 2026](/guides/healthcare/)
+- [Health Insurance for Expats 2026](/guides/health/)

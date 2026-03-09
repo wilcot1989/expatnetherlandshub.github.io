@@ -1086,7 +1086,7 @@ grid-template-columns: 1fr;
 <div class="results-cta">
 <p>Ready to compare exact premiums and sign up? Use Independer to see live prices for all Dutch health insurers — in English.</p>
 <div class="cta-buttons">
-<a href="https://www.awin1.com/awclick.php?mid=8558&id=2776410" target="_blank" rel="nofollow sponsored" class="cta-affiliate">Compare all plans on Independer →</a>
+<a href="https://www.awin1.com/cread.php?awinmid=8558&awinaffid=2776410&ued=https%3A%2F%2Fwww.independer.nl%2Fzorgverzekering" target="_blank" rel="nofollow sponsored" class="cta-affiliate">Compare all plans on Independer →</a>
 <a href="/guides/health/dutch-health-insurance-guide-expats-2026/" class="cta-internal">Read our full insurance guide →</a>
 </div>
 </div>
