@@ -256,7 +256,7 @@ Here is a practical timeline for managing the 30% ruling alongside your other ar
 4. **Month 1**: Employer submits the joint application to the Belastingdienst (within the 4-month window)
 5. **Month 1-2**: Employer can begin applying the 30% reduction provisionally in your payslip
 6. **Month 2-4**: Receive the formal decision from the Belastingdienst
-7. **First tax year**: File your annual tax return by May 1 of the following year, claiming the partial non-resident status if beneficial
+7. **First tax year**: File your annual tax return by May 1 of the following year, claiming the partial non-resident status if beneficial. Use our [Dutch tax return checklist for expats](/guides/finance/dutch-tax-return-checklist-expats-2026/) to make sure you have everything you need before you start
 
 ---
 

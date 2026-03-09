@@ -178,7 +178,7 @@ Examples:
 
 ### Primary School Age: The Strongest Case for Dutch Schools
 
-For children under 8, I consistently recommend Dutch primary schools to expat parents who expect to stay more than 2 years. Children at this age acquire languages incredibly quickly — most are fluent conversational Dutch within 6–9 months. The Dutch primary school curriculum (groep 1–8) is well-structured, play-based in the early years, and free.
+For children under 8, I consistently recommend Dutch primary schools to expat parents who expect to stay more than 2 years. Children at this age acquire languages incredibly quickly — most are fluent conversational Dutch within 6–9 months. The Dutch primary school curriculum (groep 1–8) is well-structured, play-based in the early years, and free. For younger children not yet at school age, see our [guide to childcare in the Netherlands](/guides/daily-life/childcare-netherlands-expats-2026/) for what to expect from kinderopvang and peuterspeelzaal options.
 
 The main challenge is settling-in support. Ask the school about:
 - Dutch language support classes (NT2, Dutch as a second language)

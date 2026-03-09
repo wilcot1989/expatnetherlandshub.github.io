@@ -3,6 +3,9 @@ title: "Nijmegen Expat Guide 2026: Living, Working & Costs"
 description: "Complete expat guide to Nijmegen in 2026. Rent prices, neighbourhoods, jobs, registration, and practical tips for expats in the Netherlands' oldest city."
 date: 2026-03-07T10:00:00+01:00
 lastmod: 2026-03-07
+featured_image: "/images/featured/nijmegen.webp"
+author: "Sarah van den Berg"
+categories: ["cities"]
 ---
 
 ## Nijmegen at a Glance
@@ -61,7 +64,7 @@ The government and public sector are also meaningful employers. Nijmegen is the 
 
 Outside academia, healthcare, and technology, the local job market is less deep than in Amsterdam or Utrecht. Many Nijmegen residents commute to Arnhem (15 minutes by train) for work, and some to Utrecht (around 60 minutes). The train connections make this manageable.
 
-For salary benchmarking use the [Salary Checker](/tools/salary-checker/). See the [Working in the Netherlands guide](/guides/work/) for broader context on employment contracts, tax, and the 30% ruling.
+For salary benchmarking use the [Salary Checker](/tools/salary-checker/). Use the [30% Ruling Calculator](/tools/30-percent-ruling-calculator/) to see how much tax you could save. If you have a foreign degree, check recognition requirements with the [Diploma Evaluator](/tools/diploma-evaluator/). See the [Working in the Netherlands guide](/guides/work/) for broader context on employment contracts, tax, and the 30% ruling.
 
 ## Getting Registered
 
@@ -71,7 +74,7 @@ The Radboud International Office provides arrival support for incoming staff and
 
 Standard documentation: passport, rental contract or proof of address, employment contract or proof of sufficient funds. Your BSN is issued on registration day.
 
-Use the [BSN Planner](/tools/bsn-planner/) to get your documents in order before your appointment.
+Not sure which visa you need? Use the [Visa Checker](/tools/visa-permit-finder/) to find out. Use the [BSN Planner](/tools/bsn-planner/) to get your documents in order before your appointment. Planning your integration path? Use the [Inburgering Route Planner](/tools/inburgering-route-builder/) to see your requirements.
 
 ## Healthcare & Insurance
 
@@ -81,7 +84,7 @@ For general practice, English-speaking GP practices (huisartsen) are available t
 
 The Radboud university community means there is reasonable English-language GP capacity, but as in any Dutch city of this size, it is worth registering before you need anything rather than waiting until you do.
 
-Health insurance is mandatory from your first day as a Dutch resident. Basic premiums run from around €130–€145 per month in 2026, with a standard annual deductible of €385. Use the [Health Insurance Wizard](/tools/health-insurance-wizard/) to compare policies and find the right level of cover for your situation.
+Health insurance is mandatory from your first day as a Dutch resident. Basic premiums run from around €130–€145 per month in 2026, with a standard annual deductible of €385. Use the [Health Insurance Wizard](/tools/health-insurance-wizard/) to compare policies and find the right level of cover for your situation. Compare Dutch and international expat insurance options with the [Insurance Comparison](/tools/insurance-chooser/).
 
 See the [health insurance guide](/guides/health/) for a full explanation of how the Dutch system works.
 
@@ -99,7 +102,7 @@ For a full guide to OV travel in the Netherlands, see the [OV-chipkaart guide fo
 
 Moving to Nijmegen requires a few essential steps. Here are the most important ones:
 
-**Open a bank account** — You'll need a Dutch bank account for rent, salary, and daily expenses. [Wise](https://wise.com/invite/ihpc/willemt52) offers a multi-currency account that works from day one, even before your BSN arrives. <a href="https://wise.com/invite/ihpc/willemt52" target="_blank" rel="noopener nofollow sponsored" class="cta-affiliate">Open a Wise account →</a>
+**Open a bank account** — You'll need a Dutch bank account for rent, salary, and daily expenses. [Wise](https://wise.com/invite/ihpc/willemt52) offers a multi-currency account that works from day one, even before your BSN arrives. <a href="https://wise.com/invite/ihpc/willemt52" target="_blank" rel="noopener nofollow sponsored" class="cta-affiliate">Open a Wise account →</a> Use the [Bank Account Comparison](/tools/bank-account-chooser/) to find the right Dutch bank for your situation.
 
 **Get health insurance** — Dutch health insurance (zorgverzekering) is mandatory. Use [Independer](https://www.awin1.com/cread.php?awinmid=8558&awinaffid=2776410&ued=https%3A%2F%2Fwww.independer.nl%2Fzorgverzekering) to compare all Dutch health insurers in English. <a href="https://www.awin1.com/cread.php?awinmid=8558&awinaffid=2776410&ued=https%3A%2F%2Fwww.independer.nl%2Fzorgverzekering" target="_blank" rel="noopener nofollow sponsored" class="cta-affiliate">Compare health insurance →</a>
 

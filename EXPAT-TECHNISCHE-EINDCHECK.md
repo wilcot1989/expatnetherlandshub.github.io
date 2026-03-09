@@ -94,10 +94,36 @@ Eerder gefixt: list.html meta-regel. Nu bevestigd: nul hardcoded datums in `/the
 
 ---
 
+### 5. Near-orphan pages — ~35 interne links toegevoegd (9 mrt, ronde 2)
+
+18 near-orphan pages (slechts 1 inbound link) hebben elk 2-3 extra interne links gekregen vanuit thematisch relevante bestanden. Totaal ~35 nieuwe cross-links verspreid over ~25 bronbestanden.
+
+### 6. Tool links op city pages — 102 links toegevoegd (9 mrt, ronde 2)
+
+6 ontbrekende tools (30-percent-ruling-calculator, bank-account-chooser, visa-permit-finder, insurance-chooser, inburgering-route-builder, diploma-evaluator) toegevoegd aan alle 17 city pages. Elke city page linkt nu naar alle 11 tools.
+
+### 7. City page frontmatter — 17 bestanden bijgewerkt (9 mrt, ronde 2)
+
+- `author: "Sarah van den Berg"` + `categories: ["cities"]` toegevoegd aan alle 17 city pages
+- `featured_image` referenties toegevoegd aan 5 city pages (almere, amstelveen, arnhem, nijmegen, tilburg)
+- NB: de daadwerkelijke .webp afbeeldingsbestanden moeten nog handmatig worden aangemaakt
+
+---
+
 ## D. Eindstatus
 
-### GROTENDEELS IN ORDE, NOG RESTPUNTEN
+### TECHNISCH KLAAR VOOR 8 WEKEN
 
-De site is technisch stabiel voor de komende 8 weken. Alle kritieke issues (broken links, duplicate sitemap entries, self-referencing aliases) zijn gefixt. De restpunten zijn kosmetisch/organisatorisch en veroorzaken geen SEO-schade of rendering-problemen.
+Alle hoge-prioriteit technische issues zijn opgelost:
+- Geen broken internal links
+- Geen sitemap duplicaten
+- Geen self-referencing aliases
+- Geen near-orphan pages (alle pages hebben 2+ inbound links)
+- Alle 11 tools gelinkt vanuit alle 17 city pages
+- Alle city pages hebben consistente frontmatter (author, categories, featured_image)
+- Structured data correct op alle pagina-typen (live bevestigd)
+- Sitemap, robots.txt, canonicals, workflows correct
 
-Zie: EXPAT-RESTERENDE-TECHNISCHE-RESTPUNTEN.md voor de handmatige lijst.
+Enige handmatige restpunt: 5 city afbeeldingsbestanden (.webp) moeten nog worden aangemaakt.
+
+Zie: EXPAT-RESTERENDE-TECHNISCHE-RESTPUNTEN.md voor de minimale restlijst.

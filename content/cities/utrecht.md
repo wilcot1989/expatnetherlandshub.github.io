@@ -4,6 +4,8 @@ description: "Complete expat guide to Utrecht in 2026. Rent prices, neighbourhoo
 date: 2026-03-06T10:00:00+01:00
 lastmod: 2026-03-06
 featured_image: "/images/featured/utrecht.webp"
+author: "Sarah van den Berg"
+categories: ["cities"]
 ---
 
 ## Utrecht at a Glance
@@ -60,7 +62,7 @@ In fintech and professional services, Adyen, Rabobank, and a range of software c
 
 Coworking spaces include Seats2Meet (the original location, at Utrecht Centraal), Knotel, and 013 (tech-focused). Day passes from €20; monthly memberships from €200.
 
-For salary benchmarking use the [Salary Checker](/tools/salary-checker/). See the [Working in the Netherlands guide](/guides/work/) for more detail.
+For salary benchmarking use the [Salary Checker](/tools/salary-checker/). Use the [30% Ruling Calculator](/tools/30-percent-ruling-calculator/) to see how much tax you could save. If you have a foreign degree, check recognition requirements with the [Diploma Evaluator](/tools/diploma-evaluator/). See the [Working in the Netherlands guide](/guides/work/) for more detail.
 
 ## Getting Registered
 
@@ -70,7 +72,7 @@ Note that Utrecht has seen significant housing pressure, and some landlords do n
 
 Standard documentation: passport, rental contract, employment contract or proof of sufficient funds. BSN is issued on registration day.
 
-Use the [BSN Planner](/tools/bsn-planner/) to prepare and understand what to bring.
+Use the [BSN Planner](/tools/bsn-planner/) to prepare and understand what to bring. Not sure which visa you need? Use the [Visa Checker](/tools/visa-permit-finder/) to find out. Planning your integration path? The [Inburgering Route Planner](/tools/inburgering-route-builder/) shows your requirements.
 
 ## Healthcare & Insurance
 
@@ -78,7 +80,7 @@ The main hospital is UMC Utrecht, a large academic medical centre with a strong 
 
 English-speaking GPs are available across Utrecht, and several practices in Lombok and Wittevrouwen specifically list English-language consultations. Registration waiting times are typically 3–6 weeks in popular areas. The university's international student health service gives some indication of provision in that sector, but general practice registration works differently.
 
-Health insurance is mandatory from your first day of residence. Premiums start around €130/month with a €385 annual deductible. Use the [Health Insurance Wizard](/tools/health-insurance-wizard/) to compare policies and find the right level of coverage.
+Health insurance is mandatory from your first day of residence. Premiums start around €130/month with a €385 annual deductible. Use the [Health Insurance Wizard](/tools/health-insurance-wizard/) to compare policies and find the right level of coverage. Compare Dutch and international expat insurance options with the [Insurance Comparison](/tools/insurance-chooser/).
 
 ## Transport
 
@@ -99,6 +101,8 @@ Moving to Utrecht requires a few essential steps. Here are the most important on
 **Get health insurance** — Dutch health insurance (zorgverzekering) is mandatory. Use [Independer](https://www.awin1.com/cread.php?awinmid=8558&awinaffid=2776410&ued=https%3A%2F%2Fwww.independer.nl%2Fzorgverzekering) to compare all Dutch health insurers in English. <a href="https://www.awin1.com/cread.php?awinmid=8558&awinaffid=2776410&ued=https%3A%2F%2Fwww.independer.nl%2Fzorgverzekering" target="_blank" rel="noopener nofollow sponsored" class="cta-affiliate">Compare health insurance →</a>
 
 **Consider expat insurance** — If you're still settling in or working remotely, [SafetyWing](https://safetywing.com/nomad-insurance/?referenceID=26482728&utm_source=26482728&utm_medium=Ambassador) provides affordable global coverage from $45/month. <a href="https://safetywing.com/nomad-insurance/?referenceID=26482728&utm_source=26482728&utm_medium=Ambassador" target="_blank" rel="noopener nofollow sponsored" class="cta-affiliate">Get SafetyWing coverage →</a>
+
+**Compare banks** — Use the [Bank Account Comparison](/tools/bank-account-chooser/) to find the right Dutch bank for your situation.
 
 **Plan your budget** — Use our free [cost of living calculator](/tools/cost-of-living-calculator/) and [housing budget checker](/tools/housing-budget-checker/) to see what you can afford in Utrecht.
 

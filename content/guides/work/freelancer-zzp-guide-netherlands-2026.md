@@ -48,6 +48,8 @@ Read our [highly skilled migrant visa guide](/guides/legal/highly-skilled-migran
 
 ### The Registration Process
 
+For a step-by-step walkthrough of the KvK process including what documents to bring and how to choose your business structure, see our dedicated [KvK registration guide for expats](/guides/work/kvk-registration-expat-guide-2026/).
+
 1. **Book an appointment** at [kvk.nl](https://www.kvk.nl) — Available in Dutch and English
 2. **Prepare documents:**
    - Valid ID or passport
@@ -214,7 +216,7 @@ If your professional qualifications were obtained outside the EU, some clients o
 
 For international money transfers (receiving payments from abroad, paying suppliers), use <a href="https://wise.com/invite/ihpc/willemt52" rel="nofollow sponsored" target="_blank">Wise</a> to avoid high bank fees. Dutch banks charge 2-5% in hidden exchange rate markups — Wise charges the real exchange rate plus a small transparent fee.
 
-If you work remotely from coworking spaces or cafés, you will regularly be accessing tax portals, accounting software, and client systems over shared WiFi. A VPN keeps that traffic private. <a href="https://go.nordvpn.net/aff_c?offer_id=612&aff_id=141337&url_id=14830" rel="nofollow sponsored" target="_blank">Stay secure on public WiFi with NordVPN →</a>
+If you work remotely from coworking spaces or cafés, you will regularly be accessing tax portals, accounting software, and client systems over shared WiFi. A VPN keeps that traffic private. <a href="https://go.nordvpn.net/aff_c?offer_id=612&aff_id=141337&url_id=14830" rel="nofollow sponsored" target="_blank">Stay secure on public WiFi with NordVPN →</a> For a guide to the best coworking spaces across Dutch cities — including day pass options and spaces with strong freelancer communities — see our [best coworking spaces in the Netherlands guide](/guides/work/best-coworking-spaces-netherlands-2026/).
 
 ### Pension
 

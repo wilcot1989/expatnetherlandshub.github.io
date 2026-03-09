@@ -352,7 +352,7 @@ Download the respective apps and always use your card -- the savings are signifi
 Both offer the most accessible experience for newcomers. Albert Heijn for the widest selection, Picnic for the best value with free delivery.
 
 ### 2. Visit Physical Stores Too
-While delivery is convenient, visiting a Dutch supermarket is part of the cultural experience. You will discover products you would never find browsing an app.
+While delivery is convenient, visiting a Dutch supermarket is part of the cultural experience. You will discover products you would never find browsing an app. Our [guide to Dutch supermarkets for expats](/guides/daily-life/dutch-supermarkets-guide-expats-2026/) covers every major chain, what makes each one different, and which are worth visiting for specific products.
 
 ### 3. Check the Marktplaats for International Food
 For products from your home country, check specialty stores, international supermarkets (Amazing Oriental for Asian products), and online specialty shops.

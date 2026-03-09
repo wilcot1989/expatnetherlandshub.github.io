@@ -1,96 +1,66 @@
 # EXPAT-RESTERENDE-TECHNISCHE-RESTPUNTEN.md
 ## Handmatige restpunten — ExpatNetherlandsHub
 
-Datum: 2026-03-09
-Status: geen van deze items blokkeert de site of veroorzaakt SEO-schade de komende 8 weken.
+Datum: 2026-03-09 (bijgewerkt ronde 2)
+Status: alle hoge-prioriteit items zijn OPGELOST.
 
 ---
 
-## Prioriteit HOOG (aanbevolen binnen 2 weken)
+## ~~Prioriteit HOOG~~ — OPGELOST
 
-### 1. Near-orphan pages — meer interne links nodig
-18 pagina's hebben slechts 1 inbound link. Belangrijkste:
+### ~~1. Near-orphan pages~~ ✅ GEFIXT
+~35 interne links toegevoegd aan 18 near-orphan pages vanuit relevante clusters. Alle pages hebben nu 3+ inbound links.
 
-| Pagina | Huidige inbound | Aanbevolen actie |
-|--------|----------------|-----------------|
-| `/guides/housing/best-cities-netherlands-expats-2026/` | 1 | Linken vanuit housing, finance en daily-life pillar guides |
-| `/guides/housing/energy-providers-expats-netherlands-2026/` | 1 | Linken vanuit cost-of-living en finding-housing guides |
-| `/guides/work/best-coworking-spaces-netherlands-2026/` | 1 | Linken vanuit freelancer-zzp en city guides |
-| `/guides/work/kvk-registration-expat-guide-2026/` | 1 | Linken vanuit freelancer-zzp guide |
-| `/guides/legal/dutch-nationality-guide-expats-2026/` | 1 | Linken vanuit bsn-registration en digid guides |
-| `/guides/legal/leaving-netherlands-expat-checklist-2026/` | 1 | Linken vanuit tax, banking en insurance guides |
-| `/guides/finance/dutch-tax-return-checklist-expats-2026/` | 1 | Linken vanuit tax-system en 30-percent-ruling guides |
-| `/guides/daily-life/best-dutch-phone-plans-expats-2026/` | 1 | Linken vanuit sim-card en internet-providers guides |
+### ~~2. Tools niet gelinkt vanuit city pages~~ ✅ GEFIXT
+6 ontbrekende tools (30%-calc, bank-chooser, visa-finder, insurance-chooser, inburgering-builder, diploma-evaluator) toegevoegd aan alle 17 city pages. Alle 11 tools zijn nu gelinkt vanuit elke city page.
 
-### 2. Tools niet gelinkt vanuit city pages
-6 tools krijgen 0 links vanuit de 17 city pages:
+### ~~3. City pages missen author en categories~~ ✅ GEFIXT
+`author: "Sarah van den Berg"` + `categories: ["cities"]` toegevoegd aan alle 17 city pages.
 
-| Tool | Guide links | City links | Actie |
-|------|------------|-----------|-------|
-| `/tools/30-percent-ruling-calculator/` | 19 | **0** | Toevoegen aan alle city pages in "Working" sectie |
-| `/tools/bank-account-chooser/` | 9 | **0** | Toevoegen aan city pages in "Getting Started" sectie |
-| `/tools/inburgering-route-builder/` | 9 | **0** | Toevoegen aan city pages met integratie-context |
-| `/tools/insurance-chooser/` | 6 | **0** | Toevoegen aan city pages in "Healthcare" sectie |
-| `/tools/visa-permit-finder/` | 7 | **0** | Toevoegen aan city pages in "Getting Registered" sectie |
-| `/tools/diploma-evaluator/` | 6 | **0** | Toevoegen aan city pages met werk/onderwijs-context |
+### ~~4. Missing featured_image frontmatter~~ ✅ GEFIXT (deels)
+`featured_image` referenties toegevoegd aan 5 city pages (almere, amstelveen, arnhem, nijmegen, tilburg). **De .webp afbeeldingsbestanden moeten nog handmatig worden aangemaakt en geplaatst in `static/images/featured/`.**
 
 ---
 
-## Prioriteit MIDDEN (aanbevolen binnen 4 weken)
+## Prioriteit MIDDEN (nice-to-have, geen urgentie)
 
-### 3. Missing featured_image — 5 city pages
-Almere, Amstelveen, Arnhem, Nijmegen, Tilburg hebben geen `featured_image`. Dit beïnvloedt OG image sharing op social media.
+### 5. Afbeeldingsbestanden aanmaken — 5 city images
+De frontmatter referenties staan klaar, maar de daadwerkelijke bestanden bestaan nog niet:
+- `static/images/featured/almere.webp`
+- `static/images/featured/amstelveen.webp`
+- `static/images/featured/arnhem.webp`
+- `static/images/featured/nijmegen.webp`
+- `static/images/featured/tilburg.webp`
 
-**Actie:** Webp afbeeldingen maken en toevoegen aan frontmatter.
+**Impact:** OG image ontbreekt op social media shares voor deze 5 cities. Geen rendering-fout.
 
-### 4. City pages missen author en categories
-Alle 17 city pages missen `author` en `categories` frontmatter. Dit beïnvloedt Article schema (geen author) en related-content matching.
-
-**Actie:** Toevoegen aan alle city files:
-```yaml
-author: "Sarah van den Berg"
-categories: ["cities"]
-```
-
-### 5. Missing keywords field — 10 articles
-10 guide articles missen het `keywords` frontmatter veld (gebruikt voor `<meta name="keywords">`):
+### 6. Missing keywords field — 10 articles
+10 guide articles missen het `keywords` frontmatter veld:
 - best-dutch-phone-plans, exchange-driving-license, kings-day, dutch-tax-return-how-to-file, mental-health-support, moving-to-breda, moving-to-den-bosch, moving-to-maastricht, making-friends, dutch-nationality-guide
 
-**Impact:** Minimaal — `<meta name="keywords">` heeft vrijwel geen SEO-waarde meer. Kan voor consistentie worden aangevuld.
+**Impact:** Minimaal — `<meta name="keywords">` heeft vrijwel geen SEO-waarde meer.
 
-### 6. Missing tags — 1 article
+### 7. Missing tags — 1 article
 `making-friends-netherlands-expats-2026.md` mist zowel `tags` als `keywords`.
-
-**Actie:** Tags toevoegen: `["making friends", "expat community", "social life", "netherlands"]`
 
 ---
 
-## Prioriteit LAAG (nice-to-have, geen urgentie)
+## Prioriteit LAAG (geen urgentie)
 
-### 7. Inconsistent type frontmatter
-16 van ~82 guide articles hebben een `type` veld (guide, seasonal guide, city-guide, pillar), de rest niet. Hugo gebruikt `type` voor template selectie — in de huidige setup maakt dit geen verschil omdat er geen type-specifieke templates zijn.
+### 8. Inconsistent type frontmatter
+16 van ~82 guide articles hebben een `type` veld, de rest niet. Geen functionele impact.
 
-**Actie:** Ofwel overal verwijderen, ofwel consistent toevoegen. Geen functionele impact.
+### 9. Redundante slug frontmatter
+11 articles hebben een `slug` dat identiek is aan de bestandsnaam. Kan verwijderd worden voor consistentie.
 
-### 8. Redundante slug frontmatter
-11 articles hebben een `slug` veld dat identiek is aan de bestandsnaam. Hugo leidt slug af uit bestandsnaam als het veld ontbreekt.
+### 10. Lege services/ directory
+`content/services/` is leeg. Menu-item wijst naar `/guides/daily-life/`.
 
-**Actie:** Kan verwijderd worden voor consistentie. Geen functionele impact.
+### 11. Email signup forms zijn stubs
+`action="#"` + `onsubmit="return false"`. Functioneren niet.
 
-### 9. Lege services/ directory
-`content/services/` is een lege directory. Menu-item "Services" wijst naar `/guides/daily-life/`, niet naar `/services/`.
-
-**Actie:** Directory verwijderen of `_index.md` toevoegen als de sectie in de toekomst gebruikt wordt.
-
-### 10. Email signup forms zijn stubs
-Sidebar en footer email forms hebben `action="#"` en `onsubmit="return false"`. Ze doen niets.
-
-**Actie:** Email service integreren (Mailchimp, ConvertKit, etc.) of forms verwijderen om niet-functionele UI te voorkomen.
-
-### 11. Tool pages missen featured_image
-Alle 11 tool pages missen `featured_image`. Dit beïnvloedt OG image op social media.
-
-**Impact:** Laag — tools worden zelden gedeeld op social media. Kan later aangevuld worden.
+### 12. Tool pages missen featured_image
+Alle 11 tool pages missen `featured_image`. Lage impact — tools worden zelden gedeeld op social media.
 
 ---
 
@@ -98,21 +68,16 @@ Alle 11 tool pages missen `featured_image`. Dit beïnvloedt OG image op social m
 
 | Item | Reden geen actie |
 |------|-----------------|
-| Tags taxonomy niet gedeclareerd in hugo.toml | Hugo declareert tags automatisch. Huidige config werkt correct. |
-| Monolithische baseof.html (1584 regels) | Werkt correct, refactoring is risico zonder functioneel voordeel |
-| CSS inline in baseof.html | Normal voor Hugo sites zonder build pipeline. Minificatie via `--minify` flag. |
-| Tool templates als pass-through | By design — alle tool logica in content files. Werkt correct. |
-| `draft: false` op 2 artikelen | Geen effect — Hugo behandelt pages als niet-draft by default |
+| Tags taxonomy niet gedeclareerd in hugo.toml | Hugo declareert tags automatisch |
+| Monolithische baseof.html (1584 regels) | Werkt correct |
+| CSS inline in baseof.html | Normaal voor Hugo; minificatie via `--minify` |
+| Tool templates als pass-through | By design |
+| `draft: false` op 2 artikelen | Geen effect |
 
 ---
 
 ## Eindstatus
 
-**GROTENDEELS IN ORDE, NOG RESTPUNTEN**
+### TECHNISCH KLAAR VOOR 8 WEKEN
 
-De site is technisch stabiel voor 8 weken ongestoord draaien. De geïdentificeerde restpunten zijn:
-- **Hoge prioriteit:** meer interne links naar near-orphan pages en tools vanuit city pages
-- **Midden prioriteit:** missing images en frontmatter inconsistenties
-- **Lage prioriteit:** cleanup items zonder functionele impact
-
-Geen van de restpunten veroorzaakt 404's, indexatie-problemen, of rendering-fouten.
+Alle hoge-prioriteit items zijn opgelost. De resterende punten zijn kosmetisch (missing images, inconsistent frontmatter velden) en veroorzaken geen 404's, indexatie-problemen, of rendering-fouten.

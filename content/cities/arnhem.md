@@ -3,6 +3,9 @@ title: "Arnhem Expat Guide 2026: Living, Working & Costs"
 description: "Complete expat guide to Arnhem in 2026. Rent prices, neighbourhoods, jobs, registration, and practical tips for expats in Gelderland's capital."
 date: 2026-03-07T10:00:00+01:00
 lastmod: 2026-03-07
+featured_image: "/images/featured/arnhem.webp"
+author: "Sarah van den Berg"
+categories: ["cities"]
 ---
 
 ## Arnhem at a Glance
@@ -63,7 +66,7 @@ Arnhem's employment base is more varied than its size might suggest, though it l
 
 **Logistics and distribution** — The Rhine, the A12 and A50 motorways, and the rail connections make Arnhem a reasonable logistics location. Several distribution and logistics operations are based in the wider Arnhem-Nijmegen region.
 
-For salary benchmarking, use the [Salary Checker](/tools/salary-checker/). See the [Working in the Netherlands guide](/guides/work/) for broader context on employment contracts, tax, and the 30% ruling.
+For salary benchmarking, use the [Salary Checker](/tools/salary-checker/). Use the [30% Ruling Calculator](/tools/30-percent-ruling-calculator/) to see how much tax you could save. If you have a foreign degree, check recognition requirements with the [Diploma Evaluator](/tools/diploma-evaluator/). See the [Working in the Netherlands guide](/guides/work/) for broader context on employment contracts, tax, and the 30% ruling.
 
 ## Getting Registered
 
@@ -73,7 +76,7 @@ Standard documentation: valid passport or ID card, rental contract or proof of a
 
 If you are arriving for a role at ArtEZ or through another institution with an international HR function, it is worth contacting them before your arrival — some larger employers in the city provide arrival support or can advise on the fastest registration route.
 
-Use the [BSN Planner](/tools/bsn-planner/) to prepare your documents before your appointment and check the full registration process in the [BSN Registration Guide](/guides/legal/bsn-registration-guide-2026/).
+Not sure which visa you need? Use the [Visa Checker](/tools/visa-permit-finder/) to find out. Use the [BSN Planner](/tools/bsn-planner/) to prepare your documents before your appointment and check the full registration process in the [BSN Registration Guide](/guides/legal/bsn-registration-guide-2026/). Planning your integration path? Use the [Inburgering Route Planner](/tools/inburgering-route-builder/) to see your requirements.
 
 ## Healthcare & Insurance
 
@@ -81,7 +84,7 @@ Rijnstate Hospital is the main hospital serving Arnhem and a wide area of Gelder
 
 For general practice, finding a GP (huisarts) in Arnhem can take 2–6 weeks depending on the neighbourhood and time of year. Some practices in areas with higher concentrations of international residents will have English-speaking staff, but this is less consistent than in Amsterdam or The Hague. If your Dutch is limited, it is worth asking directly about English-language capacity when registering.
 
-Health insurance is mandatory from your first day as a Dutch resident, regardless of employment status. Premiums typically start around €130/month with a €385 annual deductible (eigen risico). Use the [Health Insurance Wizard](/tools/health-insurance-wizard/) to compare policies and find one that suits your situation.
+Health insurance is mandatory from your first day as a Dutch resident, regardless of employment status. Premiums typically start around €130/month with a €385 annual deductible (eigen risico). Use the [Health Insurance Wizard](/tools/health-insurance-wizard/) to compare policies and find one that suits your situation. Compare Dutch and international expat insurance options with the [Insurance Comparison](/tools/insurance-chooser/).
 
 See the [Health Insurance for Expats guide](/guides/health/) for a full explanation of the Dutch health insurance system.
 
@@ -99,7 +102,7 @@ For a full guide to OV travel in the Netherlands, see the [OV-chipkaart guide fo
 
 Moving to Arnhem requires a few essential steps. Here are the most important ones:
 
-**Open a bank account** — You'll need a Dutch bank account for rent, salary, and daily expenses. [Wise](https://wise.com/invite/ihpc/willemt52) offers a multi-currency account that works from day one, even before your BSN arrives. <a href="https://wise.com/invite/ihpc/willemt52" target="_blank" rel="noopener nofollow sponsored" class="cta-affiliate">Open a Wise account →</a>
+**Open a bank account** — You'll need a Dutch bank account for rent, salary, and daily expenses. [Wise](https://wise.com/invite/ihpc/willemt52) offers a multi-currency account that works from day one, even before your BSN arrives. <a href="https://wise.com/invite/ihpc/willemt52" target="_blank" rel="noopener nofollow sponsored" class="cta-affiliate">Open a Wise account →</a> Use the [Bank Account Comparison](/tools/bank-account-chooser/) to find the right Dutch bank for your situation.
 
 **Get health insurance** — Dutch health insurance (zorgverzekering) is mandatory. Use [Independer](https://www.awin1.com/cread.php?awinmid=8558&awinaffid=2776410&ued=https%3A%2F%2Fwww.independer.nl%2Fzorgverzekering) to compare all Dutch health insurers in English. <a href="https://www.awin1.com/cread.php?awinmid=8558&awinaffid=2776410&ued=https%3A%2F%2Fwww.independer.nl%2Fzorgverzekering" target="_blank" rel="noopener nofollow sponsored" class="cta-affiliate">Compare health insurance →</a>
 

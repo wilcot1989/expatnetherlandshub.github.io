@@ -4,6 +4,8 @@ description: "Expat guide to Breda in 2026. Rent prices, neighbourhoods, jobs, r
 date: 2026-03-07T10:00:00+01:00
 lastmod: 2026-03-07
 featured_image: "/images/featured/breda.webp"
+author: "Sarah van den Berg"
+categories: ["cities"]
 ---
 
 ## Breda at a Glance
@@ -66,7 +68,7 @@ Breda is not a single-industry city, which is both a strength and a limitation. 
 
 **Cross-border work** is worth mentioning. Some Breda residents commute to Antwerp or elsewhere in Belgium, taking advantage of lower Dutch housing costs. The 40-minute train journey to Antwerp makes this realistic.
 
-For most professional roles, Dutch remains important for client-facing work and career progression. English gets you a long way, particularly in logistics and tech, but investing in Dutch language learning pays off if you plan to stay. Use the [Salary Checker](/tools/salary-checker/) to benchmark compensation for your sector.
+For most professional roles, Dutch remains important for client-facing work and career progression. English gets you a long way, particularly in logistics and tech, but investing in Dutch language learning pays off if you plan to stay. Use the [Salary Checker](/tools/salary-checker/) to benchmark compensation for your sector. Use the [30% Ruling Calculator](/tools/30-percent-ruling-calculator/) to see how much tax you could save. If you have a foreign degree, check recognition requirements with the [Diploma Evaluator](/tools/diploma-evaluator/).
 
 Coworking options include spaces in the Spoorzone district and a handful of shared office facilities in and around the centre. Not as extensive as Amsterdam or Rotterdam, but adequate for freelancers and remote workers.
 
@@ -78,7 +80,7 @@ Bring your valid passport (plus residence permit for non-EU citizens), your rent
 
 Non-EU citizens need to arrange their visa or residence permit through the IND (Immigratie en Naturalisatiedienst) before registering with the municipality. Do not leave this step until you arrive.
 
-Without a BSN you cannot open a Dutch bank account, access healthcare properly, or start most jobs. It should be your first administrative priority. Use the [BSN Planner](/tools/bsn-planner/) to prepare your documents before the appointment — arriving with the wrong paperwork is a frustrating way to lose a few weeks.
+Without a BSN you cannot open a Dutch bank account, access healthcare properly, or start most jobs. It should be your first administrative priority. Not sure which visa you need? Use the [Visa Checker](/tools/visa-permit-finder/) to find out. Use the [BSN Planner](/tools/bsn-planner/) to prepare your documents before the appointment — arriving with the wrong paperwork is a frustrating way to lose a few weeks. Planning your integration path? Use the [Inburgering Route Planner](/tools/inburgering-route-builder/) to see your requirements.
 
 ## Healthcare & Insurance
 
@@ -86,7 +88,7 @@ Amphia Hospital is the main hospital serving Breda and the surrounding region, a
 
 For general practice, English-speaking GPs are available, particularly in areas with higher concentrations of international residents. Finding a GP can take 2–4 weeks. Register as soon as you arrive — it is one of those things that feels less urgent than it is until you actually need a doctor.
 
-Health insurance is mandatory from your first day as a Dutch resident, regardless of whether you are EU or non-EU. Premiums in 2026 run approximately €135–€160 per month, plus the annual deductible (eigen risico) of €385. Use the [Health Insurance Wizard](/tools/health-insurance-wizard/) to compare policies before you commit.
+Health insurance is mandatory from your first day as a Dutch resident, regardless of whether you are EU or non-EU. Premiums in 2026 run approximately €135–€160 per month, plus the annual deductible (eigen risico) of €385. Use the [Health Insurance Wizard](/tools/health-insurance-wizard/) to compare policies before you commit. Compare Dutch and international expat insurance options with the [Insurance Comparison](/tools/insurance-chooser/).
 
 If you are arriving from outside the EU and have a gap period before your Dutch insurance kicks in, consider interim travel or international health cover — SafetyWing is one option worth looking at for short-term gaps.
 
@@ -111,7 +113,7 @@ If you drive, Breda is well connected: the A16 runs south to Antwerp and north t
 
 Moving to Breda requires a few essential steps. Here are the most important ones:
 
-**Open a bank account** — You'll need a Dutch bank account for rent, salary, and daily expenses. [Wise](https://wise.com/invite/ihpc/willemt52) offers a multi-currency account that works from day one, even before your BSN arrives. <a href="https://wise.com/invite/ihpc/willemt52" target="_blank" rel="noopener nofollow sponsored" class="cta-affiliate">Open a Wise account →</a>
+**Open a bank account** — You'll need a Dutch bank account for rent, salary, and daily expenses. [Wise](https://wise.com/invite/ihpc/willemt52) offers a multi-currency account that works from day one, even before your BSN arrives. <a href="https://wise.com/invite/ihpc/willemt52" target="_blank" rel="noopener nofollow sponsored" class="cta-affiliate">Open a Wise account →</a> Use the [Bank Account Comparison](/tools/bank-account-chooser/) to find the right Dutch bank for your situation.
 
 **Get health insurance** — Dutch health insurance (zorgverzekering) is mandatory. Use [Independer](https://www.awin1.com/cread.php?awinmid=8558&awinaffid=2776410&ued=https%3A%2F%2Fwww.independer.nl%2Fzorgverzekering) to compare all Dutch health insurers in English. <a href="https://www.awin1.com/cread.php?awinmid=8558&awinaffid=2776410&ued=https%3A%2F%2Fwww.independer.nl%2Fzorgverzekering" target="_blank" rel="noopener nofollow sponsored" class="cta-affiliate">Compare health insurance →</a>
 

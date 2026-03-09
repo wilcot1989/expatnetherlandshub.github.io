@@ -346,7 +346,7 @@ Dutch comparison sites like Vergelijk.nl and Breedbandwinkel.nl let you enter yo
 
 ### Consider Bundles Carefully
 
-Providers aggressively market bundles combining internet, TV, and phone. If you primarily stream content (Netflix, Disney+, YouTube) rather than watching traditional Dutch TV, you probably do not need a TV package. A standalone internet plan is usually cheaper.
+Providers aggressively market bundles combining internet, TV, and phone. If you primarily stream content (Netflix, Disney+, YouTube) rather than watching traditional Dutch TV, you probably do not need a TV package. A standalone internet plan is usually cheaper. If you are also shopping for a mobile plan, compare your options first in our [guide to the best Dutch phone plans for expats](/guides/daily-life/best-dutch-phone-plans-expats-2026/) before committing to a bundle.
 
 ### Protect Your Privacy with a VPN
 

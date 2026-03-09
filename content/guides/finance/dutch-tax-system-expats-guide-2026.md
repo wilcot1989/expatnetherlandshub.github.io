@@ -311,6 +311,7 @@ A good tax advisor will:
 - [Complete Guide to Moving to the Netherlands in 2026](/guides/legal/complete-guide-moving-to-netherlands-2026/) -- your full relocation checklist
 - [Cost of Living in the Netherlands 2026](/guides/housing/cost-of-living-netherlands-2026/) -- budget for your Dutch life
 - [Expat Tax Return Netherlands 2026](/guides/finance/expat-tax-return-netherlands-2026/) -- step-by-step guide to filing your annual return
+- [Dutch Tax Return Checklist for Expats 2026](/guides/finance/dutch-tax-return-checklist-expats-2026/) -- everything you need to gather before you file
 - [Dutch Pension System for Expats 2026](/guides/finance/dutch-pension-system-expats-2026/) -- understand how your pension builds during your time here
 
 ---
@@ -326,7 +327,7 @@ The Dutch tax system can feel overwhelming at first, but the core structure is l
 5. **File your annual tax return by May 1**: Even if you think you owe nothing, filing may result in a refund
 6. **Report worldwide assets**: Box 3 includes foreign bank accounts and investments; failing to report them can lead to penalties
 
-The Dutch tax system rewards those who understand it. Deductions for mortgage interest, healthcare costs, and the 30% ruling can significantly reduce your tax burden. Take the time to understand the basics, get professional help for the complicated parts, and keep good records throughout the year.
+The Dutch tax system rewards those who understand it. Deductions for mortgage interest, healthcare costs, and the 30% ruling can significantly reduce your tax burden. Take the time to understand the basics, get professional help for the complicated parts, and keep good records throughout the year. If you plan to leave the Netherlands at any point, our [expat leaving the Netherlands checklist](/guides/legal/leaving-netherlands-expat-checklist-2026/) covers what to sort before your departure — including deregistering, pension transfers, and final tax obligations.
 
 If you transfer money between your Dutch and home-country accounts, Wise is the most cost-effective way to do it — significantly cheaper than bank wire transfers. Many expats use it for paying overseas mortgage or pension contributions that appear in your Box 3 declaration.
 

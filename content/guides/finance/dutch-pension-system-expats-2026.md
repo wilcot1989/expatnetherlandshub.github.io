@@ -164,6 +164,8 @@ The 30% ruling significantly impacts your pension:
 4. Update your address with all pension funds
 5. Consider whether to transfer your pension to your new country
 
+For a complete list of what to handle before you leave — from deregistering at the gemeente to closing Dutch bank accounts and notifying the Belastingdienst — see our [expat leaving the Netherlands checklist](/guides/legal/leaving-netherlands-expat-checklist-2026/).
+
 ### Value Transfer
 Within the EU, you may be able to transfer your Dutch pension to a pension fund in your new country:
 - Must be requested within 1 year of starting new employment

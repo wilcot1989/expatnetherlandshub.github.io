@@ -4,6 +4,8 @@ description: "Complete expat guide to The Hague in 2026. Rent prices, neighbourh
 date: 2026-03-06T10:00:00+01:00
 lastmod: 2026-03-06
 featured_image: "/images/featured/the-hague.webp"
+author: "Sarah van den Berg"
+categories: ["cities"]
 ---
 
 ## The Hague at a Glance
@@ -58,7 +60,7 @@ Beyond government and international law, The Hague has a growing tech sector. Si
 
 For expats arriving on diplomatic or assignment status, the International Service Centre The Hague provides dedicated registration and arrival support — worth checking whether your employer has an arrangement there.
 
-For salary benchmarking use the [Salary Checker](/tools/salary-checker/) or read the [Working in the Netherlands guide](/guides/work/).
+For salary benchmarking use the [Salary Checker](/tools/salary-checker/) or read the [Working in the Netherlands guide](/guides/work/). Use the [30% Ruling Calculator](/tools/30-percent-ruling-calculator/) to see how much tax you could save. If you have a foreign degree, check recognition requirements with the [Diploma Evaluator](/tools/diploma-evaluator/).
 
 ## Getting Registered
 
@@ -68,7 +70,7 @@ Expats arriving on assignment through an international organisation should check
 
 Standard documentation: passport, rental contract, employment contract or proof of sufficient funds. BSN is issued on the day of registration.
 
-Use the [BSN Planner](/tools/bsn-planner/) to prepare your documents in advance.
+Use the [BSN Planner](/tools/bsn-planner/) to prepare your documents in advance. Not sure which visa you need? Use the [Visa Checker](/tools/visa-permit-finder/) to find out. Planning your integration path? The [Inburgering Route Planner](/tools/inburgering-route-builder/) shows your requirements.
 
 ## Healthcare & Insurance
 
@@ -76,7 +78,7 @@ The main hospitals in The Hague are HMC (Haaglanden Medisch Centrum, two campuse
 
 English-speaking GPs are well established in The Hague given the international population. The International Health Centre Den Haag caters specifically to expats. Several practices in the Bezuidenhout and Statenkwartier areas have English-language capacity. Registration waiting lists are typically 2–5 weeks.
 
-Health insurance is mandatory from your first day as a Dutch resident. Expats on certain diplomatic statuses may have different arrangements — check with your employer. For standard arrivals, premiums start around €130/month with a €385 eigen risico. Use the [Health Insurance Wizard](/tools/health-insurance-wizard/) to compare options.
+Health insurance is mandatory from your first day as a Dutch resident. Expats on certain diplomatic statuses may have different arrangements — check with your employer. For standard arrivals, premiums start around €130/month with a €385 eigen risico. Use the [Health Insurance Wizard](/tools/health-insurance-wizard/) to compare options. Compare Dutch and international expat insurance options with the [Insurance Comparison](/tools/insurance-chooser/).
 
 ## Transport
 
@@ -95,6 +97,8 @@ Moving to The Hague requires a few essential steps. Here are the most important 
 **Get health insurance** — Dutch health insurance (zorgverzekering) is mandatory. Use [Independer](https://www.awin1.com/cread.php?awinmid=8558&awinaffid=2776410&ued=https%3A%2F%2Fwww.independer.nl%2Fzorgverzekering) to compare all Dutch health insurers in English. <a href="https://www.awin1.com/cread.php?awinmid=8558&awinaffid=2776410&ued=https%3A%2F%2Fwww.independer.nl%2Fzorgverzekering" target="_blank" rel="noopener nofollow sponsored" class="cta-affiliate">Compare health insurance →</a>
 
 **Consider expat insurance** — If you're still settling in or working remotely, [SafetyWing](https://safetywing.com/nomad-insurance/?referenceID=26482728&utm_source=26482728&utm_medium=Ambassador) provides affordable global coverage from $45/month. <a href="https://safetywing.com/nomad-insurance/?referenceID=26482728&utm_source=26482728&utm_medium=Ambassador" target="_blank" rel="noopener nofollow sponsored" class="cta-affiliate">Get SafetyWing coverage →</a>
+
+**Compare banks** — Use the [Bank Account Comparison](/tools/bank-account-chooser/) to find the right Dutch bank for your situation.
 
 **Plan your budget** — Use our free [cost of living calculator](/tools/cost-of-living-calculator/) and [housing budget checker](/tools/housing-budget-checker/) to see what you can afford in The Hague.
 

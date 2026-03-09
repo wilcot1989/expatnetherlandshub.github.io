@@ -160,7 +160,7 @@ Eindhoven is one of the best cycling cities in the Netherlands with the famous H
 - **No tram system** — Buses are the main urban transport
 
 ### Car
-More useful in Eindhoven than in Amsterdam, especially for reaching surrounding towns like Veldhoven, Best, or Son. Parking is available and less expensive than the Randstad.
+More useful in Eindhoven than in Amsterdam, especially for reaching surrounding towns like Veldhoven, Best, or Son. Parking is available and less expensive than the Randstad. If you are considering other Brabant cities, [Breda](/guides/housing/moving-to-breda-expat-guide-2026/) offers a slightly different lifestyle with good rail connections to Eindhoven and lower rents in some areas.
 
 ## Practical Essentials
 

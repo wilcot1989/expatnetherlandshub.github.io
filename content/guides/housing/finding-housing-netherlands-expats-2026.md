@@ -54,7 +54,7 @@ Before you start searching, understand what you will realistically pay. These fi
 | [Rotterdam](/cities/rotterdam/) | EUR 1,100 - 1,700 | EUR 1,400 - 2,300 | High |
 | [Utrecht](/cities/utrecht/) | EUR 1,300 - 1,900 | EUR 1,600 - 2,600 | Very high |
 | [Eindhoven](/cities/eindhoven/) | EUR 900 - 1,400 | EUR 1,200 - 1,800 | Moderate |
-| [Groningen](/cities/groningen/) | EUR 800 - 1,200 | EUR 1,000 - 1,600 | Moderate |
+| [Groningen](/cities/groningen/) ([full guide](/guides/housing/moving-to-groningen-expat-guide-2026/)) | EUR 800 - 1,200 | EUR 1,000 - 1,600 | Moderate |
 | [Leiden](/cities/leiden/) | EUR 1,100 - 1,600 | EUR 1,400 - 2,200 | High |
 | [Maastricht](/cities/maastricht/) | EUR 800 - 1,200 | EUR 1,000 - 1,600 | Moderate |
 | [Haarlem](/cities/haarlem/) | EUR 1,200 - 1,700 | EUR 1,500 - 2,400 | High |
@@ -204,7 +204,7 @@ Before signing any rental contract, verify these points:
 | Notice period | Usually 1-2 months for tenants |
 | Maintenance responsibilities | Who handles minor and major repairs? |
 | Subletting | Is subletting allowed? (Usually not without permission) |
-| Pet policy | Are pets permitted? |
+| Pet policy | Are pets permitted? (If bringing a pet from abroad, see our [pet relocation guide](/guides/daily-life/pet-relocation-netherlands-2026/) for import requirements) |
 | Diplomatic clause | Is early termination possible? |
 | Rent increases | When and by how much can rent be increased? |
 
@@ -273,7 +273,7 @@ The tight Dutch housing market has unfortunately attracted scammers who target d
 
 ### 1. Be Flexible on Location
 
-If Amsterdam is too competitive or expensive, consider nearby cities with excellent transport links. Haarlem, Leiden, Delft, and [Almere](/cities/almere/) are all within 30-45 minutes of Amsterdam by train and offer better value. [Amstelveen](/cities/amstelveen/) is another strong option — just south of Amsterdam with metro connections and a large international community. For the southern Netherlands, [Tilburg](/cities/tilburg/) offers affordable rents with good connections to Eindhoven and Den Bosch. [Arnhem](/cities/arnhem/) and [Nijmegen](/cities/nijmegen/) in the east are increasingly popular with expats who want a lower cost of living without sacrificing city amenities.
+If Amsterdam is too competitive or expensive, consider nearby cities with excellent transport links. Haarlem, Leiden, Delft, and [Almere](/cities/almere/) are all within 30-45 minutes of Amsterdam by train and offer better value. For a full comparison of cities by cost, lifestyle, and expat community size, see our [guide to the best cities for expats in the Netherlands](/guides/housing/best-cities-expats-netherlands-2026/). [Amstelveen](/cities/amstelveen/) is another strong option — just south of Amsterdam with metro connections and a large international community. For the southern Netherlands, [Tilburg](/cities/tilburg/) offers affordable rents with good connections to Eindhoven and Den Bosch. [Arnhem](/cities/arnhem/) and [Nijmegen](/cities/nijmegen/) in the east are increasingly popular with expats who want a lower cost of living without sacrificing city amenities.
 
 ### 2. Consider Temporary Housing First
 
@@ -334,7 +334,7 @@ In practice, most expats earning highly skilled migrant salaries do not qualify 
 Once you have secured your housing, handle these tasks quickly:
 
 1. **Register at the gemeente**: You need your rental contract and address to register and receive your BSN. See our [complete guide to moving to the Netherlands](/guides/legal/complete-guide-moving-to-netherlands-2026/) for the full registration process.
-2. **Set up utilities**: If utilities are not included, arrange gas, electricity, and water with a provider like Vattenfall, Eneco, or Budget Energie. Comparing before you sign takes five minutes and can save EUR 200-400 per year.
+2. **Set up utilities**: If utilities are not included, arrange gas, electricity, and water with a provider like Vattenfall, Eneco, or Budget Energie. Comparing before you sign takes five minutes and can save EUR 200-400 per year. See our [guide to the best energy providers in the Netherlands](/guides/daily-life/best-energy-providers-netherlands-2026/) for a current comparison.
 
    <a href="https://www.awin1.com/cread.php?awinmid=8558&awinaffid=2776410&ued=https%3A%2F%2Fwww.independer.nl%2Fenergie" rel="nofollow sponsored" target="_blank" class="cta">Compare Energy Providers on Independer →</a>
 

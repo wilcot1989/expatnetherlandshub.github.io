@@ -78,7 +78,7 @@ The Netherlands has a unique healthcare system combining public regulation with 
 | **Menzis** | €125-€135 | ⭐⭐⭐ | Partial |
 | **ONVZ** | €135-€145 | ⭐⭐⭐⭐⭐ | ✅ Full |
 
-**Our recommendation:** ONVZ or Zilveren Kruis for expats. Both have excellent English-language support, online portals in English, and experience serving international clients.
+**Our recommendation:** ONVZ or Zilveren Kruis for expats. Both have excellent English-language support, online portals in English, and experience serving international clients. For a detailed comparison of ONVZ against international alternatives, see our [ONVZ vs Aetna expat health insurance comparison](/guides/health/onvz-vs-aetna-expat-health-insurance-2026/).
 
 ### Healthcare Allowance (Zorgtoeslag)
 

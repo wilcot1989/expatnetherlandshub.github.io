@@ -4,6 +4,8 @@ description: "Complete expat guide to Den Bosch ('s-Hertogenbosch) in 2026. Rent
 date: 2026-03-07T10:00:00+01:00
 lastmod: 2026-03-07
 featured_image: "/images/featured/den-bosch.webp"
+author: "Sarah van den Berg"
+categories: ["cities"]
 ---
 
 ## Den Bosch at a Glance
@@ -60,7 +62,7 @@ As the provincial capital of North Brabant, Den Bosch also has a solid public se
 
 The broader Brabant tech corridor is worth mentioning separately. Eindhoven is 20–25 minutes by train, and the ASML-driven technology ecosystem there is expanding rapidly. Many expats base themselves in Den Bosch and commute to Eindhoven. It is a combination that works well: lower rents in Den Bosch, higher-paying tech roles in Eindhoven.
 
-Coworking options exist in the city centre, though the offer is more limited than in Amsterdam or Utrecht. For salary benchmarking, use the [Salary Checker](/tools/salary-checker/).
+Coworking options exist in the city centre, though the offer is more limited than in Amsterdam or Utrecht. For salary benchmarking, use the [Salary Checker](/tools/salary-checker/). Use the [30% Ruling Calculator](/tools/30-percent-ruling-calculator/) to see how much tax you could save. If you have a foreign degree, check recognition requirements with the [Diploma Evaluator](/tools/diploma-evaluator/).
 
 ## Getting Registered
 
@@ -73,7 +75,7 @@ Registration is handled by Gemeente 's-Hertogenbosch. The main office is at Stad
 
 Your BSN (Burgerservicenummer) — the Dutch equivalent of a national insurance number — is issued at or shortly after registration. You need it for everything: opening a bank account, registering with a GP, starting employment, accessing benefits. Do not underestimate how central this number is to getting your life set up.
 
-Use the [BSN Planner](/tools/bsn-planner/) to organise your documents and map out your first weeks in the right order.
+Not sure which visa you need? Use the [Visa Checker](/tools/visa-permit-finder/) to find out. Use the [BSN Planner](/tools/bsn-planner/) to organise your documents and map out your first weeks in the right order. Planning your integration path? Use the [Inburgering Route Planner](/tools/inburgering-route-builder/) to see your requirements.
 
 ## Healthcare & Insurance
 
@@ -81,7 +83,7 @@ The main hospital serving Den Bosch and the surrounding region is Jeroen Bosch Z
 
 Finding a GP can take a few weeks. Register as soon as you arrive rather than waiting until you need an appointment.
 
-Health insurance is mandatory from your first day as a Dutch resident. Premiums start around €130/month with a €385 annual deductible (eigen risico). Use the [Health Insurance Wizard](/tools/health-insurance-wizard/) to compare policies and find the right level of cover for your situation.
+Health insurance is mandatory from your first day as a Dutch resident. Premiums start around €130/month with a €385 annual deductible (eigen risico). Use the [Health Insurance Wizard](/tools/health-insurance-wizard/) to compare policies and find the right level of cover for your situation. Compare Dutch and international expat insurance options with the [Insurance Comparison](/tools/insurance-chooser/).
 
 ## Transport
 
@@ -99,7 +101,7 @@ For a full introduction to the OV-chipkaart system and how to get one set up on 
 
 Moving to Den Bosch requires a few essential steps. Here are the most important ones:
 
-**Open a bank account** — You'll need a Dutch bank account for rent, salary, and daily expenses. [Wise](https://wise.com/invite/ihpc/willemt52) offers a multi-currency account that works from day one, even before your BSN arrives. <a href="https://wise.com/invite/ihpc/willemt52" target="_blank" rel="noopener nofollow sponsored" class="cta-affiliate">Open a Wise account →</a>
+**Open a bank account** — You'll need a Dutch bank account for rent, salary, and daily expenses. [Wise](https://wise.com/invite/ihpc/willemt52) offers a multi-currency account that works from day one, even before your BSN arrives. <a href="https://wise.com/invite/ihpc/willemt52" target="_blank" rel="noopener nofollow sponsored" class="cta-affiliate">Open a Wise account →</a> Use the [Bank Account Comparison](/tools/bank-account-chooser/) to find the right Dutch bank for your situation.
 
 **Get health insurance** — Dutch health insurance (zorgverzekering) is mandatory. Use [Independer](https://www.awin1.com/cread.php?awinmid=8558&awinaffid=2776410&ued=https%3A%2F%2Fwww.independer.nl%2Fzorgverzekering) to compare all Dutch health insurers in English. <a href="https://www.awin1.com/cread.php?awinmid=8558&awinaffid=2776410&ued=https%3A%2F%2Fwww.independer.nl%2Fzorgverzekering" target="_blank" rel="noopener nofollow sponsored" class="cta-affiliate">Compare health insurance →</a>
 

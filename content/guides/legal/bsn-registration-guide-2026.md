@@ -269,7 +269,7 @@ Finding a huisarts with open capacity can be harder in large cities. In Amsterda
 
 Your employer needs your BSN for payroll, tax withholding, and pension registration. Send it to your HR department as soon as you have it.
 
-If you are eligible for the 30% ruling (a tax advantage for highly skilled migrants), the application is filed with the Belastingdienst and requires your BSN. There is a time limit on this application — it must be filed within 4 months of starting your employment. Read my [30% ruling guide](/guides/finance/30-percent-ruling-netherlands-2026/) for the full details.
+If you are eligible for the 30% ruling (a tax advantage for highly skilled migrants), the application is filed with the Belastingdienst and requires your BSN. There is a time limit on this application — it must be filed within 4 months of starting your employment. Read my [30% ruling guide](/guides/finance/30-percent-ruling-netherlands-2026/) for the full details. If you are planning for the long term, our [guide to Dutch nationality and naturalization](/guides/legal/dutch-nationality-guide-2026/) explains the residence and language requirements for applying for a Dutch passport.
 
 ---
 

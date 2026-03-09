@@ -282,7 +282,7 @@ This is one of those things that is worth sorting properly from day one. Our det
 
 Some expats, after a few years in Dutch employment, consider going freelance — becoming a *zzp'er* (zelfstandige zonder personeel, or self-employed without staff). The Netherlands has a large and active freelance economy. The rules around tax, pension, and health insurance are different from employment and worth understanding before you take the leap.
 
-Our [freelancer and ZZP guide](/guides/work/freelancer-zzp-guide-netherlands-2026/) covers everything from registering with the KvK (Chamber of Commerce) to arranging your own health insurance and pension contributions.
+Our [freelancer and ZZP guide](/guides/work/freelancer-zzp-guide-netherlands-2026/) covers everything from registering with the KvK (Chamber of Commerce) to arranging your own health insurance and pension contributions. If you are looking for a professional workspace, our [guide to the best coworking spaces in the Netherlands](/guides/work/best-coworking-spaces-netherlands-2026/) compares options across Amsterdam, Rotterdam, Utrecht, and beyond.
 
 ---
 

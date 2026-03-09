@@ -188,7 +188,7 @@ For more details, see our [international schools guide](/guides/daily-life/inter
 | Destination | Duration | Frequency |
 |------------|----------|-----------|
 | **Rotterdam** | 25 min | Every 10 min |
-| **Leiden** | 15 min | Every 10 min |
+| **[Leiden](/guides/housing/moving-to-leiden-expat-guide-2026/)** | 15 min | Every 10 min |
 | **Schiphol Airport** | 30 min | Every 15 min |
 | **Amsterdam** | 50 min | Every 10 min |
 | **Utrecht** | 40 min | Every 15 min |

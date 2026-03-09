@@ -4,6 +4,8 @@ description: "Expat guide to Haarlem in 2026. Rent prices, neighbourhoods, jobs,
 date: 2026-03-07T10:00:00+01:00
 lastmod: 2026-03-07
 featured_image: "/images/featured/haarlem.webp"
+author: "Sarah van den Berg"
+categories: ["cities"]
 ---
 
 ## Haarlem at a Glance
@@ -61,7 +63,7 @@ What Haarlem offers instead is access. The 15-minute train to Amsterdam Centraal
 
 Coworking options within Haarlem are limited compared to Amsterdam. A handful of shared office spaces operate in and around the Centrum, but if remote working is a regular part of your week, you will likely be working from home rather than a coworking space on most days.
 
-For salary benchmarking before or after your move, use the [Salary Checker](/tools/salary-checker/).
+For salary benchmarking before or after your move, use the [Salary Checker](/tools/salary-checker/). Use the [30% Ruling Calculator](/tools/30-percent-ruling-calculator/) to see how much tax you could save. If you have a foreign degree, check recognition requirements with the [Diploma Evaluator](/tools/diploma-evaluator/).
 
 ## Getting Registered
 
@@ -73,7 +75,7 @@ You will receive your BSN (Burgerservicenummer) at the appointment or shortly af
 
 If you already have a BSN and are moving to Haarlem from another Dutch city, notify the gemeente within five days of moving. You can use the online system at haarlem.nl if you have a DigiD.
 
-Use the [BSN Planner](/tools/bsn-planner/) to prepare your documents before your appointment and avoid the common reason for rejected registrations.
+Not sure which visa you need? Use the [Visa Checker](/tools/visa-permit-finder/) to find out. Use the [BSN Planner](/tools/bsn-planner/) to prepare your documents before your appointment and avoid the common reason for rejected registrations. Planning your integration path? Use the [Inburgering Route Planner](/tools/inburgering-route-builder/) to see your requirements.
 
 ## Healthcare & Insurance
 
@@ -81,7 +83,7 @@ The main hospital is Spaarne Gasthuis, with locations in both Haarlem-Noord and 
 
 For primary care, register with a GP (huisarts) after arriving. Several practices in Haarlem have experience with international patients, though availability is not unlimited — expect to spend a week or two finding a practice with capacity. The GP is the gatekeeper to specialist care in the Dutch system; you cannot go directly to a specialist without a referral, which catches many expats off guard.
 
-Health insurance is mandatory from your first day as a Dutch resident. Premiums in 2026 start around €130–€170/month with a €385 annual deductible. Use the [Health Insurance Wizard](/tools/health-insurance-wizard/) to compare policies before you arrive — gaps in coverage are expensive and the waiting period after arrival is not long.
+Health insurance is mandatory from your first day as a Dutch resident. Premiums in 2026 start around €130–€170/month with a €385 annual deductible. Use the [Health Insurance Wizard](/tools/health-insurance-wizard/) to compare policies before you arrive — gaps in coverage are expensive and the waiting period after arrival is not long. Compare Dutch and international expat insurance options with the [Insurance Comparison](/tools/insurance-chooser/).
 
 ## Transport
 
@@ -102,7 +104,7 @@ By car, the A9 connects to the motorway network towards Amsterdam, Schiphol, Alk
 
 Moving to Haarlem requires a few essential steps. Here are the most important ones:
 
-**Open a bank account** — You'll need a Dutch bank account for rent, salary, and daily expenses. [Wise](https://wise.com/invite/ihpc/willemt52) offers a multi-currency account that works from day one, even before your BSN arrives. <a href="https://wise.com/invite/ihpc/willemt52" target="_blank" rel="noopener nofollow sponsored" class="cta-affiliate">Open a Wise account →</a>
+**Open a bank account** — You'll need a Dutch bank account for rent, salary, and daily expenses. [Wise](https://wise.com/invite/ihpc/willemt52) offers a multi-currency account that works from day one, even before your BSN arrives. <a href="https://wise.com/invite/ihpc/willemt52" target="_blank" rel="noopener nofollow sponsored" class="cta-affiliate">Open a Wise account →</a> Use the [Bank Account Comparison](/tools/bank-account-chooser/) to find the right Dutch bank for your situation.
 
 **Get health insurance** — Dutch health insurance (zorgverzekering) is mandatory. Use [Independer](https://www.awin1.com/cread.php?awinmid=8558&awinaffid=2776410&ued=https%3A%2F%2Fwww.independer.nl%2Fzorgverzekering) to compare all Dutch health insurers in English. <a href="https://www.awin1.com/cread.php?awinmid=8558&awinaffid=2776410&ued=https%3A%2F%2Fwww.independer.nl%2Fzorgverzekering" target="_blank" rel="noopener nofollow sponsored" class="cta-affiliate">Compare health insurance →</a>
 

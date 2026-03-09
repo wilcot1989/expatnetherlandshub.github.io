@@ -274,7 +274,7 @@ This combined approach gives you the structured depth of Babbel, the daily motiv
 
 **Context for your move:** Dutch language learning does not happen in isolation. You will practice at the supermarkt, with your neighbors, and at government appointments. For those practical encounters, make sure you have your [DigiD](/guides/legal/digid-guide-expats-2026/) set up and understand how to use [public transport with an OV-chipkaart](/guides/daily-life/ov-chipkaart-guide-expats-2026/) — both involve reading Dutch instructions that will reinforce your learning.
 
-If Babbel's structured approach sounds right for you, getting started takes less than two minutes. If you prefer human feedback on your speaking, a tutor on Preply can help you reach conversational Dutch faster.
+If Babbel's structured approach sounds right for you, getting started takes less than two minutes. If you prefer human feedback on your speaking, a tutor on Preply can help you reach conversational Dutch faster. For a detailed look at how Preply compares to italki for Dutch lessons, see our [Preply vs italki comparison](/guides/integration/preply-vs-italki-dutch-tutoring-2026/).
 
 <a href="https://www.babbel.com/" target="_blank" rel="noopener noreferrer" class="cta-affiliate">Try Babbel Dutch for free →</a>
 

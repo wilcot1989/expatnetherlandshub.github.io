@@ -4,6 +4,8 @@ description: "Complete expat guide to Groningen in 2026. Rent prices, neighbourh
 date: 2026-03-06T10:00:00+01:00
 lastmod: 2026-03-06
 featured_image: "/images/featured/groningen.webp"
+author: "Sarah van den Berg"
+categories: ["cities"]
 ---
 
 ## Groningen at a Glance
@@ -60,7 +62,7 @@ The energy transition is creating new employment. The regional government and na
 
 Coworking options in the city include The Birdhouse, and the university's StartHub Groningen for entrepreneurial ventures. Day passes from €15; monthly memberships from €150.
 
-For salary benchmarking use the [Salary Checker](/tools/salary-checker/). See also [Working in the Netherlands](/guides/work/).
+For salary benchmarking use the [Salary Checker](/tools/salary-checker/). Use the [30% Ruling Calculator](/tools/30-percent-ruling-calculator/) to see how much tax you could save. If you have a foreign degree, check recognition requirements with the [Diploma Evaluator](/tools/diploma-evaluator/). See also [Working in the Netherlands](/guides/work/).
 
 ## Getting Registered
 
@@ -70,13 +72,13 @@ The university operates an International Welcome programme for incoming academic
 
 Standard documentation: passport, rental contract, employment contract or proof of sufficient funds. BSN issued on registration day.
 
-Use the [BSN Planner](/tools/bsn-planner/) to prepare your documents before your appointment.
+Not sure which visa you need? Use the [Visa Checker](/tools/visa-permit-finder/) to find out. Use the [BSN Planner](/tools/bsn-planner/) to prepare your documents before your appointment. Planning your integration path? Use the [Inburgering Route Planner](/tools/inburgering-route-builder/) to see your requirements.
 
 ## Healthcare & Insurance
 
 UMCG is the main hospital and one of the largest in the Netherlands. For general practice, a number of English-speaking GP practices operate in the city, particularly in areas popular with international students and staff. Waiting times for registration are typically 1–3 weeks.
 
-Health insurance is mandatory from your first day as a Dutch resident. Premiums start around €130/month with a €385 annual deductible. Use the [Health Insurance Wizard](/tools/health-insurance-wizard/) to compare policies.
+Health insurance is mandatory from your first day as a Dutch resident. Premiums start around €130/month with a €385 annual deductible. Use the [Health Insurance Wizard](/tools/health-insurance-wizard/) to compare policies. Compare Dutch and international expat insurance options with the [Insurance Comparison](/tools/insurance-chooser/).
 
 ## Transport
 
@@ -92,7 +94,7 @@ For a full guide to OV travel in the Netherlands, see the [OV-chipkaart guide fo
 
 Moving to Groningen requires a few essential steps. Here are the most important ones:
 
-**Open a bank account** — You'll need a Dutch bank account for rent, salary, and daily expenses. [Wise](https://wise.com/invite/ihpc/willemt52) offers a multi-currency account that works from day one, even before your BSN arrives. <a href="https://wise.com/invite/ihpc/willemt52" target="_blank" rel="noopener nofollow sponsored" class="cta-affiliate">Open a Wise account →</a>
+**Open a bank account** — You'll need a Dutch bank account for rent, salary, and daily expenses. [Wise](https://wise.com/invite/ihpc/willemt52) offers a multi-currency account that works from day one, even before your BSN arrives. <a href="https://wise.com/invite/ihpc/willemt52" target="_blank" rel="noopener nofollow sponsored" class="cta-affiliate">Open a Wise account →</a> Use the [Bank Account Comparison](/tools/bank-account-chooser/) to find the right Dutch bank for your situation.
 
 **Get health insurance** — Dutch health insurance (zorgverzekering) is mandatory. Use [Independer](https://www.awin1.com/cread.php?awinmid=8558&awinaffid=2776410&ued=https%3A%2F%2Fwww.independer.nl%2Fzorgverzekering) to compare all Dutch health insurers in English. <a href="https://www.awin1.com/cread.php?awinmid=8558&awinaffid=2776410&ued=https%3A%2F%2Fwww.independer.nl%2Fzorgverzekering" target="_blank" rel="noopener nofollow sponsored" class="cta-affiliate">Compare health insurance →</a>
 
@@ -102,6 +104,7 @@ Moving to Groningen requires a few essential steps. Here are the most important 
 
 ## Related Guides
 
+- [Moving to Groningen: Complete Expat Guide 2026](/guides/housing/moving-to-groningen-expat-guide-2026/)
 - [Finding Housing in the Netherlands](/guides/housing/)
 - [Working in the Netherlands](/guides/work/)
 - [Health Insurance for Expats 2026](/guides/health/)

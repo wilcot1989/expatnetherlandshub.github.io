@@ -86,6 +86,8 @@ While the basic coverage is the same everywhere, there are differences between i
 | **VGZ** | VGZ, Univé, UMC | Large | EUR 145-155 | Moderate | Strong supplementary packages |
 | **Menzis** | Menzis, Anderzorg | Mid-size | EUR 140-150 | Limited | Often competitive on price |
 
+For expats considering international health insurance alongside or instead of Dutch coverage, see our [ONVZ vs Aetna comparison](/guides/health/onvz-vs-aetna-expat-health-insurance-2026/) for a detailed look at two providers popular with internationally mobile professionals.
+
 ### How to Choose: What Matters
 
 1. **Premium**: Premiums vary by approximately EUR 20-35 per month between the cheapest and most expensive option for the same basic coverage. Over a year, this adds up.
@@ -228,7 +230,7 @@ During this period, [SafetyWing](https://safetywing.com/nomad-insurance/?referen
 - **Emergency and urgent care**: Fully covered
 - **Sign up online in minutes**, no BSN or Dutch address required
 
-[SafetyWing](https://safetywing.com/nomad-insurance/?referenceID=26482728&utm_source=26482728&utm_medium=Ambassador) is not a replacement for Dutch basisverzekering. Once you are registered and have arranged your Dutch health insurance, you should cancel SafetyWing. But as bridge coverage, it provides genuine peace of mind during the transition period.
+[SafetyWing](https://safetywing.com/nomad-insurance/?referenceID=26482728&utm_source=26482728&utm_medium=Ambassador) is not a replacement for Dutch basisverzekering. Once you are registered and have arranged your Dutch health insurance, you should cancel SafetyWing. But as bridge coverage, it provides genuine peace of mind during the transition period. If you are comparing international options at this stage, see our [SafetyWing vs Cigna comparison](/guides/health/safetywing-vs-cigna-expat-insurance-2026/) for a detailed side-by-side analysis.
 
 This is especially relevant for:
 - Expats who arrive a few weeks before their employment start date

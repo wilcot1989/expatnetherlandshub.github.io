@@ -150,7 +150,7 @@ Den Bosch is a cycling city. The infrastructure is very good, and the city is fl
 If you are new to cycling Dutch-style, have a read of the [cycling in the Netherlands guide for expats](/guides/daily-life/cycling-netherlands-expat-guide-2026/) — it covers the rules, the etiquette, and how to buy a decent second-hand bike without getting ripped off.
 
 ### By car
-The A2 motorway runs through Den Bosch, connecting it north to Utrecht and Amsterdam, and south to Eindhoven and Belgium. If your work takes you around Brabant — Tilburg, Breda, Eindhoven — having a car makes life easier. Within the city itself, parking is expensive and the one-way systems can be maddening. Most residents who live centrally do not bother with a car day to day.
+The A2 motorway runs through Den Bosch, connecting it north to Utrecht and Amsterdam, and south to Eindhoven and Belgium. If your work takes you around Brabant — Tilburg, [Breda](/guides/housing/moving-to-breda-expat-guide-2026/), Eindhoven — having a car makes life easier. Within the city itself, parking is expensive and the one-way systems can be maddening. Most residents who live centrally do not bother with a car day to day.
 
 ---
 

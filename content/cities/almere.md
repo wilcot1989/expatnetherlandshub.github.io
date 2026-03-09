@@ -3,6 +3,9 @@ title: "Almere Expat Guide 2026: Living, Working & Costs"
 description: "Complete expat guide to Almere in 2026. Rent prices, neighbourhoods, jobs, registration, and practical tips for expats moving to the Netherlands' youngest city."
 date: 2026-03-07T10:00:00+01:00
 lastmod: 2026-03-07
+featured_image: "/images/featured/almere.webp"
+author: "Sarah van den Berg"
+categories: ["cities"]
 ---
 
 ## Almere at a Glance
@@ -61,7 +64,7 @@ The tech and creative sector is growing, with some Amsterdam-based companies ope
 
 In practice, many Almere residents commute to Amsterdam. The 25-minute train journey makes this straightforward, and for professionals working in Amsterdam who want affordable housing, this is the most common arrangement. Train frequency is good — services run every 15 minutes at peak times.
 
-For salary benchmarking before you accept an offer, use the [Salary Checker](/tools/salary-checker/). The [Working in the Netherlands guide](/guides/work/) covers employment contracts, 30% ruling, and what to expect from Dutch workplace culture.
+For salary benchmarking before you accept an offer, use the [Salary Checker](/tools/salary-checker/). Use the [30% Ruling Calculator](/tools/30-percent-ruling-calculator/) to see how much tax you could save. If you have a foreign degree, check recognition requirements with the [Diploma Evaluator](/tools/diploma-evaluator/). The [Working in the Netherlands guide](/guides/work/) covers employment contracts, 30% ruling, and what to expect from Dutch workplace culture.
 
 ## Getting Registered
 
@@ -71,7 +74,7 @@ Standard documentation required: valid passport or ID, rental or purchase contra
 
 If you arrive without a fixed address — staying with friends or in temporary accommodation — you cannot register until you have a rental contract. Sorting housing before you arrive, or within the first week, is worth prioritising.
 
-Use the [BSN Planner](/tools/bsn-planner/) to check exactly which documents you need and prepare your appointment in advance. The [BSN Registration Guide](/guides/legal/bsn-registration-guide-2026/) covers the full process in detail.
+Not sure which visa you need? Use the [Visa Checker](/tools/visa-permit-finder/) to find out. Use the [BSN Planner](/tools/bsn-planner/) to check exactly which documents you need and prepare your appointment in advance. Planning your integration path? Use the [Inburgering Route Planner](/tools/inburgering-route-builder/) to see your requirements. The [BSN Registration Guide](/guides/legal/bsn-registration-guide-2026/) covers the full process in detail.
 
 ## Healthcare & Insurance
 
@@ -79,7 +82,7 @@ Flevoziekenhuis in Almere is the main hospital, a modern general hospital with a
 
 Finding a GP (huisarts) in Almere can take longer than in many Dutch cities. The city has grown faster than its GP capacity, and some practices have closed their lists. Budget 2–6 weeks to get registered with a GP, and start the search before you need one. English-language capacity among GPs varies; the city is less internationally saturated than Amsterdam, so finding an English-speaking practice may require some effort.
 
-Health insurance is mandatory from your first day as a Dutch resident. Premiums in 2026 start around €130/month with a €385 annual deductible. Use the [Health Insurance Wizard](/tools/health-insurance-wizard/) to compare policies and find one that suits your situation.
+Health insurance is mandatory from your first day as a Dutch resident. Premiums in 2026 start around €130/month with a €385 annual deductible. Use the [Health Insurance Wizard](/tools/health-insurance-wizard/) to compare policies and find one that suits your situation. Compare Dutch and international expat insurance options with the [Insurance Comparison](/tools/insurance-chooser/).
 
 ## Transport
 
@@ -109,7 +112,7 @@ If you are also considering [Amsterdam](/cities/amsterdam/) or [Utrecht](/cities
 
 Moving to Almere requires a few essential steps. Here are the most important ones:
 
-**Open a bank account** — You'll need a Dutch bank account for rent, salary, and daily expenses. [Wise](https://wise.com/invite/ihpc/willemt52) offers a multi-currency account that works from day one, even before your BSN arrives. <a href="https://wise.com/invite/ihpc/willemt52" target="_blank" rel="noopener nofollow sponsored" class="cta-affiliate">Open a Wise account →</a>
+**Open a bank account** — You'll need a Dutch bank account for rent, salary, and daily expenses. [Wise](https://wise.com/invite/ihpc/willemt52) offers a multi-currency account that works from day one, even before your BSN arrives. <a href="https://wise.com/invite/ihpc/willemt52" target="_blank" rel="noopener nofollow sponsored" class="cta-affiliate">Open a Wise account →</a> Use the [Bank Account Comparison](/tools/bank-account-chooser/) to find the right Dutch bank for your situation.
 
 **Get health insurance** — Dutch health insurance (zorgverzekering) is mandatory. Use [Independer](https://www.awin1.com/cread.php?awinmid=8558&awinaffid=2776410&ued=https%3A%2F%2Fwww.independer.nl%2Fzorgverzekering) to compare all Dutch health insurers in English. <a href="https://www.awin1.com/cread.php?awinmid=8558&awinaffid=2776410&ued=https%3A%2F%2Fwww.independer.nl%2Fzorgverzekering" target="_blank" rel="noopener nofollow sponsored" class="cta-affiliate">Compare health insurance →</a>
 

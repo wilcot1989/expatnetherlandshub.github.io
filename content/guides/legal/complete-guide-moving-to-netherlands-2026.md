@@ -168,7 +168,7 @@ A Dutch phone number is important for setting up accounts, receiving verificatio
 - **Vodafone**: Good coverage and international options
 - **Budget options**: Simpel, Lebara, Ben, and Lycamobile for prepaid SIM cards
 
-You can buy a prepaid SIM card at Mediamarkt, phone stores, or supermarkets. If you plan to stay long-term, a contract (abonnement) usually offers better value.
+You can buy a prepaid SIM card at Mediamarkt, phone stores, or supermarkets. If you plan to stay long-term, a contract (abonnement) usually offers better value. For a full comparison of networks, data allowances, and pricing, see our [guide to the best Dutch phone plans for expats](/guides/daily-life/best-dutch-phone-plans-expats-2026/).
 
 ### Protect Your Online Privacy
 
@@ -195,6 +195,10 @@ As of 2026, **OVpay** also allows you to tap in and out with your contactless de
 ### Get a Bike
 
 This is the Netherlands, and cycling is not optional. It is the primary mode of transport for millions of Dutch people. Buy a second-hand bike on Marktplaats.nl (the Dutch equivalent of Craigslist), visit a local bike shop, or use Swapfiets for a monthly bike rental subscription.
+
+### Driving Licence Exchange
+
+If you plan to drive in the Netherlands, check whether your foreign licence needs to be exchanged for a Dutch one. EU licences are generally valid, but non-EU licences must usually be exchanged within 6 months. See our [guide to exchanging your driving licence in the Netherlands](/guides/daily-life/exchange-driving-license-netherlands-2026/) for country-specific rules and the step-by-step process.
 
 ---
 
@@ -247,7 +251,9 @@ Many municipalities also offer free or subsidized Dutch language courses (inburg
 
 2. **Set realistic expectations for housing**: The housing market is tight. Be flexible on location and be ready to decide quickly when you find something suitable.
 
-3. **If you are moving with pets**: The Netherlands has specific rules for bringing animals from non-EU countries, including microchipping, rabies vaccination, and EU health certificates. Start the process at least 3-4 months before your move. Our [pet relocation guide](/guides/daily-life/pet-relocation-netherlands-2026/) covers the exact requirements by country of origin.
+3. **If you are moving with children under school age**: The Netherlands has a wide network of regulated childcare (kinderopvang). Our [childcare guide for expats](/guides/daily-life/childcare-netherlands-expats-2026/) covers costs, registration, and the childcare allowance you may be entitled to claim.
+
+4. **If you are moving with pets**: The Netherlands has specific rules for bringing animals from non-EU countries, including microchipping, rabies vaccination, and EU health certificates. Start the process at least 3-4 months before your move. Our [pet relocation guide](/guides/daily-life/pet-relocation-netherlands-2026/) covers the exact requirements by country of origin.
 
 4. **Build your social network early**: Join expat groups, attend meetups, and consider joining a sports club (vereniging). The Dutch social scene often revolves around clubs and organized activities. The [making friends in the Netherlands guide](/guides/integration/making-friends-netherlands-expats-2026/) covers what actually works.
 

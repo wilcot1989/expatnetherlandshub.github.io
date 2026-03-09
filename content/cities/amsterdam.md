@@ -4,6 +4,8 @@ description: "Complete expat guide to Amsterdam in 2026. Rent prices, neighbourh
 date: 2026-03-06T10:00:00+01:00
 lastmod: 2026-03-06
 featured_image: "/images/featured/amsterdam.webp"
+author: "Sarah van den Berg"
+categories: ["cities"]
 ---
 
 ## Amsterdam at a Glance
@@ -58,7 +60,7 @@ The salary range is wide depending on sector. Tech salaries in Amsterdam are com
 
 Major coworking spaces include WeWork (multiple locations), B. Amsterdam in Westpoort, and Spaces (several sites). Day passes typically run €25–€40; monthly memberships €250–€400 depending on access level.
 
-For salary benchmarking, use the [Salary Checker](/tools/salary-checker/) before negotiating your contract. See also the [Working in the Netherlands guide](/guides/work/).
+For salary benchmarking, use the [Salary Checker](/tools/salary-checker/) before negotiating your contract. Use the [30% Ruling Calculator](/tools/30-percent-ruling-calculator/) to see how much tax you could save. If you have a foreign degree, check recognition requirements with the [Diploma Evaluator](/tools/diploma-evaluator/). See also the [Working in the Netherlands guide](/guides/work/).
 
 ## Getting Registered
 
@@ -66,7 +68,7 @@ Registration in Amsterdam is handled through the Gemeente Amsterdam. You need a 
 
 Book your appointment at the Stadsloket as early as possible. Waiting times vary but can be 2–4 weeks. You will need your passport, rental contract, and proof of income or employment. Your BSN number is issued on the day of registration and is essential for opening a bank account, accessing healthcare, and signing contracts.
 
-Use the [BSN Planner](/tools/bsn-planner/) to prepare your documents and understand the exact steps before your appointment.
+Not sure which visa you need? Use the [Visa Checker](/tools/visa-permit-finder/) to find out. Use the [BSN Planner](/tools/bsn-planner/) to prepare your documents and understand the exact steps before your appointment. Planning your integration path? Use the [Inburgering Route Planner](/tools/inburgering-route-builder/) to see your requirements.
 
 ## Healthcare & Insurance
 
@@ -74,7 +76,7 @@ The main hospitals in Amsterdam are Amsterdam UMC (two campuses: AMC and VUmc), 
 
 Finding an English-speaking GP can take time. The Amsterdam Health Base and a number of Centrum-area practices advertise English-language consultations. Expect registration waiting lists of 4–8 weeks in popular neighbourhoods.
 
-Dutch health insurance is mandatory from day one of residence. Use the [Health Insurance Wizard](/tools/health-insurance-wizard/) to compare policies and find one suited to expats — premiums start around €130/month for basic coverage, and the annual deductible (eigen risico) is €385 in 2026.
+Dutch health insurance is mandatory from day one of residence. Use the [Health Insurance Wizard](/tools/health-insurance-wizard/) to compare policies and find one suited to expats — premiums start around €130/month for basic coverage, and the annual deductible (eigen risico) is €385 in 2026. Compare Dutch and international expat insurance options with the [Insurance Comparison](/tools/insurance-chooser/).
 
 ## Transport
 
@@ -88,7 +90,7 @@ Within the city, GVB operates trams, metro, and buses. The OV-chipkaart is the s
 
 Moving to Amsterdam requires a few essential steps. Here are the most important ones:
 
-**Open a bank account** — You'll need a Dutch bank account for rent, salary, and daily expenses. [Wise](https://wise.com/invite/ihpc/willemt52) offers a multi-currency account that works from day one, even before your BSN arrives. <a href="https://wise.com/invite/ihpc/willemt52" target="_blank" rel="noopener nofollow sponsored" class="cta-affiliate">Open a Wise account →</a>
+**Open a bank account** — You'll need a Dutch bank account for rent, salary, and daily expenses. [Wise](https://wise.com/invite/ihpc/willemt52) offers a multi-currency account that works from day one, even before your BSN arrives. <a href="https://wise.com/invite/ihpc/willemt52" target="_blank" rel="noopener nofollow sponsored" class="cta-affiliate">Open a Wise account →</a> Use the [Bank Account Comparison](/tools/bank-account-chooser/) to find the right Dutch bank for your situation.
 
 **Get health insurance** — Dutch health insurance (zorgverzekering) is mandatory. Use [Independer](https://www.awin1.com/cread.php?awinmid=8558&awinaffid=2776410&ued=https%3A%2F%2Fwww.independer.nl%2Fzorgverzekering) to compare all Dutch health insurers in English. <a href="https://www.awin1.com/cread.php?awinmid=8558&awinaffid=2776410&ued=https%3A%2F%2Fwww.independer.nl%2Fzorgverzekering" target="_blank" rel="noopener nofollow sponsored" class="cta-affiliate">Compare health insurance →</a>
 
