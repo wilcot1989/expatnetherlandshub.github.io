@@ -90,6 +90,37 @@ Onderstaande items bevatten tegenstrijdige informatie tussen artikelen die NIET 
 - Leiden moving guide zegt €140-180 (bovengrens iets hoger — mogelijk incl. aanvullend)
 - **Actie:** Besluit of €140-175 of €140-180 de standaard moet zijn
 
+### 13. CBR examenprijzen 2026
+- Theorie-examen: 3 verschillende bedragen gevonden (€37, €40, €44). Nu aligned naar €40 maar niet extern geverifieerd.
+- Praktijkexamen: was €125 vs €130, nu aligned naar €130.
+- **Actie:** Controleer cbr.nl voor actuele 2026 tarieven
+- **Bron:** cbr.nl/rijbewijs-halen/kosten
+
+### 14. Zelfstandigenaftrek fase-out eindpunt
+- `kvk-registration-expat-guide-2026` zegt "€900 tegen 2027"
+- **Actie:** Controleer of dit doeljaar en eindbedrag nog actueel zijn
+- **Bron:** rijksoverheid.nl/onderwerpen/inkomstenbelasting
+
+### 15. Gebruikelijk loon DGA 2026
+- `kvk-registration-expat-guide-2026` zegt "~€56.000"
+- **Actie:** Controleer het actuele gebruikelijk loon minimum voor 2026
+- **Bron:** belastingdienst.nl
+
+### 16. Kinderopvangtoeslag max uurprijs 2026
+- Was inconsistent (€9,65 vs €10,25 in zelfde artikel). Nu aligned naar €10,25.
+- **Actie:** Controleer toeslagen.nl voor actuele maximum uurprijzen 2026
+- **Bron:** toeslagen.nl/kinderopvangtoeslag
+
+### 17. Getir status Nederland
+- `best-grocery-delivery-netherlands-2026` presenteert Getir als actief
+- Getir heeft in 2024 Europese markten geconsolideerd
+- **Actie:** Controleer of Getir nog actief is in NL. Zo niet: sectie verwijderen.
+
+### 18. Hypotheekrenteaftrek plafond 2026
+- `expat-mortgage-options-netherlands-2026` zegt 37,07%
+- **Actie:** Controleer of dit het actuele 2026 aftrekpercentage is
+- **Bron:** belastingdienst.nl
+
 ---
 
 ## Checklist
@@ -106,3 +137,9 @@ Onderstaande items bevatten tegenstrijdige informatie tussen artikelen die NIET 
 - [ ] NHG limiet geverifieerd
 - [ ] Overdrachtsbelasting grens geverifieerd
 - [ ] Leiden premie-range besloten
+- [ ] CBR examenprijzen geverifieerd
+- [ ] Zelfstandigenaftrek fase-out geverifieerd
+- [ ] Gebruikelijk loon DGA geverifieerd
+- [ ] Kinderopvangtoeslag max uurprijs geverifieerd
+- [ ] Getir NL status gecontroleerd
+- [ ] Hypotheekrenteaftrek plafond geverifieerd

@@ -61,7 +61,7 @@ For a full walkthrough of costs, timelines, and country-specific rules, see our 
 ### Taking the Dutch Driving Exam
 If exchange is not possible:
 - **Theory exam:** €40, 65 questions, pass score 54/65, available in English
-- **Practical exam:** €125, 35-minute driving test
+- **Practical exam:** €130, 35-minute driving test
 - **Driving lessons:** €50-€70/hour, typically 20-40 lessons needed (€1,000-€2,800)
 - **Total cost:** €1,200-€3,000
 
@@ -217,7 +217,7 @@ If your country does not have an exchange agreement with the Netherlands — Aus
 
 **Theory exam (Theorieexamen)**
 - Booked at CBR (Centraal Bureau Rijvaardigheidsbewijzen) via cbr.nl
-- Cost: **€37** per attempt
+- Cost: **€40** per attempt
 - 65 multiple-choice questions, 54 correct required to pass
 - Available in English (also in Turkish, Arabic, and other languages)
 - Study material: Official CBR app, theorieexamen.nl

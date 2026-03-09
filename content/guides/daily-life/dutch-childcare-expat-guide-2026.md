@@ -16,7 +16,7 @@ faq:
   - q: "What childcare subsidy can I get?"
     a: "Kinderopvangtoeslag covers 33-96% of childcare costs, depending on your combined household income. For a family earning €60,000/year, the subsidy covers about 70% of costs. Both parents must work or study to qualify. Apply via toeslagen.nl with your DigiD."
   - q: "What types of childcare exist in the Netherlands?"
-    a: "Four main types: kinderdagverblijf (daycare, 0-4 years), gastouderopvang (childminder, 0-12 years), buitenschoolse opvang/BSO (after-school care, 4-12 years), and peuterspeelzaal (playgroup, 2-4 years, 2 mornings/week). All registered types qualify for childcare subsidy."
+    a: "Four main types: kinderdagverblijf (daycare, 0-4 years), gastouderopvang (childminder, 0-12 years), buitenschoolse opvang/BSO (after-school care, 4-12 years), and peuterspeelzaal (playgroup, 2-4 years, 2-4 mornings/week). All registered types qualify for childcare subsidy."
   - q: "How do I find good childcare in the Netherlands?"
     a: "Search on kinderopvang.nl or kidsnavigator.nl for registered providers. Visit at least 3 options, check GGD inspection reports (landelijkregisterkinderopvang.nl), ask about staff ratios, educational approach, and waiting lists. Register early — popular daycare centers have waiting lists of 6-12 months."
   - q: "Do I need to register on a waiting list for daycare?"
@@ -134,33 +134,6 @@ Childcare is one of the biggest variable costs for expat families. Before choosi
 
 **Important:** Be accurate with your income estimate. If you underestimate, you will have to pay back the difference. If you overestimate, you will receive less subsidy than entitled to.
 
-## How to Find Childcare
-
-### Step 1: Start Early
-Register on waiting lists as soon as possible. In major cities:
-- **[Amsterdam](/cities/amsterdam/):** 6-12 months waiting list
-- **[The Hague](/cities/the-hague/):** 4-8 months
-- **[Eindhoven](/cities/eindhoven/):** 3-6 months
-- **Smaller cities:** 1-3 months
-
-### Step 2: Search Online
-- **kinderopvang.nl** — Search by location and type
-- **kidsnavigator.nl** — Reviews and ratings
-- **Landelijk Register Kinderopvang** — Check if a provider is registered (required for subsidy)
-
-### Step 3: Visit and Compare
-Visit at least 3 providers and observe:
-- **Staff interaction** — How do they interact with children?
-- **Facilities** — Clean, safe, stimulating environment?
-- **Outside space** — Garden or playground?
-- **Educational approach** — Montessori, Reggio Emilia, or traditional?
-- **Staff ratios** — Meet the minimum legal requirements?
-- **Food policy** — Do they provide meals or do you bring your own?
-- **Flexibility** — Can you change days? What about sick days?
-
-### Step 4: Check Inspection Reports
-The GGD (Health Authority) inspects all registered childcare providers annually. Check inspection reports at [landelijkregisterkinderopvang.nl](https://www.landelijkregisterkinderopvang.nl).
-
 ## Tips for Expat Parents
 
 1. **Choose Dutch-language childcare** — Children under 6 learn languages remarkably fast. Dutch daycare helps integration and makes primary school much easier
@@ -186,7 +159,7 @@ Waiting lists are the single biggest frustration I hear from expat parents. Here
 
 ## Kinderopvangtoeslag: 2026 Changes to Know
 
-The subsidy system has been gradually increasing its maximum hourly rates, which affects the subsidy calculation. For 2026, the maximum hourly rate for daycare that the government subsidizes is approximately **€9.65/hour**. If your provider charges more than this, you pay the difference out of pocket — unsubsidized.
+The subsidy system has been gradually increasing its maximum hourly rates, which affects the subsidy calculation. For 2026, the maximum hourly rate for daycare that the government subsidizes is approximately **€10.25/hour**. If your provider charges more than this, you pay the difference out of pocket — unsubsidized.
 
 Always check the current maximum rates at [toeslagen.nl](https://www.toeslagen.nl) before signing a childcare contract. If you are new to the Netherlands, you will also need your [DigiD](/guides/legal/digid-guide-expats-2026/) and BSN to apply for the subsidy — set these up as a priority.
 

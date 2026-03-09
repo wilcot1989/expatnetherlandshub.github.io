@@ -20,7 +20,7 @@ faq:
   - q: "Is Christmas different in the Netherlands?"
     a: "Yes. Christmas in the Netherlands is relatively low-key compared to other countries because Sinterklaas (Dec 5) is the main gift-giving holiday. Christmas is focused on family dinners (gourmetten is popular), church services, and relaxation. December 25 and 26 (Tweede Kerstdag) are both public holidays."
   - q: "Do I get Liberation Day off work?"
-    a: "Liberation Day (Bevrijdingsdag, May 5) celebrates the end of WWII occupation. It's officially a public holiday every year, but a paid day off only once every 5 years (next: 2025, then 2030). However, many employers give the day off annually. Festivals are held across the country with free concerts and events."
+    a: "Liberation Day (Bevrijdingsdag, May 5) celebrates the end of WWII occupation. It's officially a public holiday every year, but a paid day off only once every 5 years (next: 2030). However, many employers give the day off annually. Festivals are held across the country with free concerts and events."
   - q: "What is Carnival in the Netherlands?"
     a: "Carnival is a 3-day celebration (Sunday-Tuesday before Ash Wednesday, usually in February) mainly in the southern provinces (Noord-Brabant and Limburg). Cities like Den Bosch, Eindhoven, Maastricht, and Breda transform into non-stop parties with costumes, parades, and music. It's not a national holiday but many southerners take days off."
 ---
@@ -45,7 +45,7 @@ New to the Netherlands? Start with our [complete expat guide](/guides/legal/comp
 | Dec 25 | Christmas Day | Eerste Kerstdag | ✅ |
 | Dec 26 | Boxing Day | Tweede Kerstdag | ✅ |
 
-*Liberation Day is a paid holiday every 5 years (2025, 2030). Many employers give it off annually.
+*Liberation Day is a paid holiday every 5 years (next: 2030). Many employers give it off annually.
 
 **Bridge days tip:** Ascension Day is always a Thursday — most Dutch workers take Friday off too ("brugdag"). Plan your trips around these long weekends.
 

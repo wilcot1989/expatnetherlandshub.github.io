@@ -65,7 +65,7 @@ AOW (Algemene Ouderdomswet) is the Dutch state pension. You build up 2% for each
 ### What Happens When You Leave
 - Your built-up AOW right is preserved
 - You can voluntarily continue building AOW for up to 10 years after departure
-- Cost: approximately €500-€5,000/year depending on income
+- Cost: approximately €600-€6,000/year depending on income
 - Apply through the SVB (Sociale Verzekeringsbank) within 1 year of leaving
 
 **Important:** If you don't apply for voluntary AOW continuation, you permanently lose those years of accrual.
@@ -154,29 +154,6 @@ The 30% ruling significantly impacts your pension:
 2. **Negotiate** full-salary pension in your employment contract
 3. **Use jaarruimte** to compensate for lower employer pension accrual
 4. **Consider private investments** to fill the pension gap
-
-## Leaving the Netherlands — What to Do
-
-### Before You Leave
-1. Download your pension overview from mijnpensioenoverzicht.nl
-2. Note all your pension fund names and policy numbers
-3. Apply for voluntary AOW continuation at SVB
-4. Update your address with all pension funds
-5. Consider whether to transfer your pension to your new country
-
-For a complete list of what to handle before you leave — from deregistering at the gemeente to closing Dutch bank accounts and notifying the Belastingdienst — see our [expat leaving the Netherlands checklist](/guides/legal/leaving-netherlands-expat-checklist-2026/).
-
-### Value Transfer
-Within the EU, you may be able to transfer your Dutch pension to a pension fund in your new country:
-- Must be requested within 1 year of starting new employment
-- Both pension funds must agree
-- Tax implications vary — get professional advice
-
-### Pension Payments Abroad
-- AOW is paid worldwide (with possible reductions for tax treaties)
-- Employer pensions are paid worldwide
-- Tax treatment depends on the tax treaty between NL and your country of residence
-- Most tax treaties assign pension taxation to your country of residence
 
 ## Retirement Planning Checklist for Expats
 

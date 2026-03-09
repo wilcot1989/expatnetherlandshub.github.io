@@ -202,7 +202,7 @@ The exam has two parts:
 ### 1. Theory test (theorie-examen)
 
 - 65 multiple-choice questions
-- You need to answer at least 52 correctly (80%)
+- You need to answer at least 54 correctly (83%)
 - Questions cover traffic rules, hazard recognition, and road signs
 - Available in Dutch and English (and several other languages)
 - Cost: approximately €44

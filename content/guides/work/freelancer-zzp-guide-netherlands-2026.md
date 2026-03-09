@@ -16,7 +16,7 @@ faq:
   - q: "How do I register as a ZZP in the Netherlands?"
     a: "Register at the KvK (Kamer van Koophandel / Chamber of Commerce). The process takes about 1 hour: book an appointment online, bring your ID and residence permit, fill out the registration form, and pay the one-time fee of approximately €75. You receive a KVK number and BTW (VAT) number."
   - q: "How much tax does a ZZP pay in the Netherlands?"
-    a: "ZZP income tax follows the regular progressive rates: 36.97% up to €75,518 and 49.50% above that (2026 rates). However, you benefit from the zelfstandigenaftrek (self-employed deduction of ~€3,750) and MKB-winstvrijstelling (14% profit exemption). Effective tax rates for ZZPers are typically 20-35%."
+    a: "ZZP income tax follows the regular progressive rates: 36.97% up to €75,518 and 49.50% above that (2026 rates). However, you benefit from the zelfstandigenaftrek (self-employed deduction of ~€2,470) and MKB-winstvrijstelling (14% profit exemption). Effective tax rates for ZZPers are typically 20-35%."
   - q: "Do I need a VAT number as a ZZP?"
     a: "Yes, you automatically receive a BTW (VAT) number when registering at the KvK. The standard VAT rate in the Netherlands is 21%. If your revenue is below €20,000/year, you can apply for the KOR (Kleineondernemersregeling) to be exempt from charging and filing VAT."
   - q: "Can I freelance on a 30% ruling?"
@@ -85,7 +85,7 @@ For a step-by-step walkthrough of the KvK process including what documents to br
 
 | Benefit | Amount | Requirement |
 |---------|--------|------------|
-| **Zelfstandigenaftrek** | ~€3,750 | Work 1,225+ hours/year for your business |
+| **Zelfstandigenaftrek** | ~€2,470 | Work 1,225+ hours/year for your business |
 | **Startersaftrek** | ~€2,123 | First 3 years as entrepreneur |
 | **MKB-winstvrijstelling** | 14% of profit | Automatic after deductions |
 | **Investeringsaftrek (KIA)** | Up to 28% | Investments €2,601-€369,000 |
@@ -97,13 +97,13 @@ For a step-by-step walkthrough of the KvK process including what documents to br
 | Step | Amount |
 |------|--------|
 | Profit | €70,000 |
-| - Zelfstandigenaftrek | -€3,750 |
+| - Zelfstandigenaftrek | -€2,470 |
 | - Startersaftrek (if applicable) | -€2,123 |
-| = Taxable profit before MKB | €64,127 |
-| - MKB-winstvrijstelling (14%) | -€8,978 |
-| = Taxable income | €55,149 |
-| Income tax (36.97%) | €20,389 |
-| **Effective tax rate** | **29.1%** |
+| = Taxable profit before MKB | €65,407 |
+| - MKB-winstvrijstelling (14%) | -€9,157 |
+| = Taxable income | €56,250 |
+| Income tax (36.97%) | €20,796 |
+| **Effective tax rate** | **29.7%** |
 
 ### VAT (BTW)
 

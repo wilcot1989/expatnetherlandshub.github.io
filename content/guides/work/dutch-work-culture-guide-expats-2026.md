@@ -250,7 +250,7 @@ The *Wet Werken Waar Je Wilt* (Work Where You Want Act) was passed in 2022 and s
 The Dutch employment contract is not just a formality. It is the foundation of your rights, your salary, your holiday entitlement, your notice periods, and your severance expectations. Many expats sign a contract without reading it carefully and are surprised later.
 
 **Key things to check in your contract:**
-- Contract type: *tijdelijk* (fixed-term) or *onbepaalde tijd* (permanent). After two fixed-term contracts, or after three years, Dutch law typically requires your employer to offer a permanent contract.
+- Contract type: *tijdelijk* (fixed-term) or *onbepaalde tijd* (permanent). After three fixed-term contracts, or after three years, Dutch law typically requires your employer to offer a permanent contract.
 - Probation period (*proeftijd*): maximum two months for a permanent contract, one month for a fixed-term contract of 6–24 months. Nothing for contracts under 6 months.
 - Notice periods (*opzegtermijn*): usually one month for employees in the first five years, increasing thereafter. Longer notice periods can be agreed contractually.
 - Non-compete clauses (*concurrentiebeding*): these are legally restricted and must be justified in fixed-term contracts. If yours seems broad, get advice.

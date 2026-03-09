@@ -476,7 +476,7 @@ If you have read this far, you are ready to act. Here is the short version:
 8. **Set up accounting software** — Before your first invoice.
 9. **Benchmark your rates** — Use the [Salary Checker](/tools/salary-checker/) to compare your freelance rates against employed equivalents.
 10. **Read the tax guide** — [Dutch tax system guide](/guides/finance/dutch-tax-system-expats-guide-2026/) covers everything that happens from here.
-10. **Read the full ZZP guide** — [ZZP freelancer guide](/guides/work/freelancer-zzp-guide-netherlands-2026/) covers running the business once you are registered.
+11. **Read the full ZZP guide** — [ZZP freelancer guide](/guides/work/freelancer-zzp-guide-netherlands-2026/) covers running the business once you are registered.
 
 The registration itself is genuinely one of the simpler parts of running a business in the Netherlands. What comes after — taxes, VAT, insurance, finding clients — takes more attention. But it is all manageable, and you do not need to figure it out alone.
 

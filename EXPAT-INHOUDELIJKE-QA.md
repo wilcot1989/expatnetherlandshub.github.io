@@ -17,13 +17,14 @@ Focus: feitelijke consistentie, verboden woorden, FAQ-format, broken links, dupl
 | Categorie | Aantal fixes |
 |-----------|-------------|
 | Verboden woorden | ~30 |
-| Feitelijke correcties | ~25 |
+| Feitelijke correcties | ~35 |
 | Broken internal links | 12 |
 | FAQ format (question/answer → q/a) | ~15 bestanden |
-| Duplicate content (paragrafen/secties) | 5 |
+| Duplicate content (paragrafen/secties) | 8 |
 | Affiliate frontmatter correcties | 3 |
 | Datum-correcties (toekomstige "Last updated") | ~20 |
-| **Totaal** | **~110 inhoudelijke wijzigingen** |
+| Rekenfouten/nummering | 5 |
+| **Totaal** | **~130 inhoudelijke wijzigingen** |
 
 ---
 
@@ -145,11 +146,19 @@ Focus: feitelijke consistentie, verboden woorden, FAQ-format, broken links, dupl
 8. **Inburgering FAQ** — NT2 Staatsexamen II→I of II
 9. **ING/ABN AMRO fees** — Gratis/€1,95→€2,45/maand
 10. **CAK boete** — €400/maand→€469 eenmalig + gedwongen inschrijving
+11. **Zelfstandigenaftrek** — FAQ/tabel zei €3.750, body zei €2.470. Aligned naar €2.470 + rekenvoorbeeld herberekend (freelancer-zzp)
+12. **Ketenregeling** — "twee contracten"→"drie contracten" (dutch-work-culture)
+13. **Bevrijdingsdag** — "next: 2025, then 2030"→"next: 2030" (holidays-traditions)
+14. **Kinderopvang uurprijs** — €9,65→€10,25 aligned + dubbele sectie verwijderd (childcare)
+15. **Pensioen** — Dubbele leaving-sectie verwijderd, AOW cost €500-5.000→€600-6.000 (pension)
+16. **CBR examenprijzen** — Theorie €37→€40, praktijk €125→€130, slaaggrens 52→54 aligned (driving + exchange-license)
+17. **KvK stappennummering** — Dubbel stap 10 gefixed (kvk-registration)
+18. **Job interview FAQ** — Dubbele body FAQ verwijderd (job-interview-tips)
 
 ---
 
 ## Beoordeling
 
-De site bevatte ~25 feitelijke fouten, waarvan 10 kritiek (premies, belasting, datums). De meest zorgwekkende was de King's Day Easter-conflict fabricatie — volledig verzonnen feit in een gepubliceerd artikel. De premie-inconsistentie was het meest wijdverspreid (30+ locaties).
+De site bevatte ~35 feitelijke fouten, waarvan 18 kritiek (premies, belasting, datums, rekenfouten). De meest zorgwekkende was de King's Day Easter-conflict fabricatie — volledig verzonnen feit in een gepubliceerd artikel. De premie-inconsistentie was het meest wijdverspreid (30+ locaties). De zelfstandigenaftrek-fout (€3.750 i.p.v. €2.470) had directe financiële implicaties voor lezers.
 
-Na deze audit-ronde zijn alle veilig te fixen issues gecorrigeerd. Items die externe verificatie vereisen staan in EXPAT-HANDMATIGE-FACTCHECKS.md.
+Na deze audit-ronde zijn alle veilig te fixen issues gecorrigeerd (~130 wijzigingen). 18 items die externe verificatie vereisen staan in EXPAT-HANDMATIGE-FACTCHECKS.md.
