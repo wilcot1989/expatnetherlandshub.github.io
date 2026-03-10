@@ -127,7 +127,7 @@ The Delft rental market is genuinely competitive, particularly for anything dece
 
 - **[Funda.nl](https://www.funda.nl)** — The largest Dutch housing site. Set up alerts for Delft and respond quickly. Good-value apartments typically get 20–40 enquiries within 48 hours.
 - **[Pararius.nl](https://www.pararius.nl)** — More professionally managed rentals. Often has a wider range of furnished options, which is useful if you are arriving for a fixed-term contract.
-- **[Kamernet.nl](https://www.kamernet.nl)** — The main platform for rooms and student housing. A must if you are looking for shared accommodation.
+- **<a href="https://ds1.nl/c/?si=447&li=26287&wi=418902&ws=&dl=" target="_blank" rel="noopener nofollow sponsored">Kamernet.nl</a>** — The main platform for rooms and student housing. A must if you are looking for shared accommodation.
 - **DUWO** — TU Delft's official student housing provider. If you are a registered student, get on the DUWO waiting list the moment you receive your admission letter. Waiting times vary between 3 and 18 months.
 - **Facebook groups** — "Delft expats", "Rooms for rent Delft", "TU Delft housing" — these are genuinely active and worth joining.
 

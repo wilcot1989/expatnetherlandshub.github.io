@@ -93,7 +93,7 @@ Rotterdam's housing market is competitive but significantly more accessible than
 
 - **Funda.nl**: The primary Dutch housing platform
 - **Pararius.com**: Expat-focused rental listings
-- **Kamernet.nl**: Rooms and shared housing
+- **<a href="https://ds1.nl/c/?si=447&li=26287&wi=418902&ws=&dl=" target="_blank" rel="noopener nofollow sponsored">Kamernet.nl</a>**: Rooms and shared housing
 - **Housinganywhere.com**: International-focused platform
 - **Facebook groups**: "Rotterdam Housing" and "Expats in Rotterdam" groups
 

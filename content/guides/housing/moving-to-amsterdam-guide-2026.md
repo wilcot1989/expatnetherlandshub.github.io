@@ -22,7 +22,7 @@ faq:
   - q: "Is Amsterdam a good city for expats?"
     a: "Amsterdam consistently ranks among the best cities in Europe for expats. The city offers excellent infrastructure, a thriving international community, high quality of life, and easy access to the rest of Europe. The main challenges are housing costs (among the highest in Europe), weather, and the difficulty of forming deep friendships with Dutch locals."
   - q: "How do I find housing in Amsterdam?"
-    a: "Finding housing in Amsterdam is competitive. Use platforms like Funda, Pararius, and Kamernet. Consider hiring a relocation agent (typical fee is one month's rent). Start searching 4-6 weeks before your move. Be prepared to act quickly: good apartments are rented within days. Budget at least EUR 1,200-1,800 per month for a one-bedroom apartment."
+    a: "Finding housing in Amsterdam is competitive. Use platforms like Funda, Pararius, and <a href="https://ds1.nl/c/?si=447&li=26287&wi=418902&ws=&dl=" target="_blank" rel="noopener nofollow sponsored">Kamernet</a>. Consider hiring a relocation agent (typical fee is one month's rent). Start searching 4-6 weeks before your move. Be prepared to act quickly: good apartments are rented within days. Budget at least EUR 1,200-1,800 per month for a one-bedroom apartment."
   - q: "What is the best time to move to Amsterdam?"
     a: "Spring (April-May) and late summer (August-September) are the most popular times. The housing market is slightly less competitive in winter (November-February), which can be advantageous. If you have children, aim to arrive before the school year starts in late August or early September."
 ---
@@ -76,7 +76,7 @@ Key statistics for 2026:
 
 - **Funda.nl**: The largest Dutch real estate platform. A must for any housing search.
 - **Pararius.com**: Focused on the expat rental market. Listings are in English.
-- **Kamernet.nl**: Good for rooms and shared housing.
+- **<a href="https://ds1.nl/c/?si=447&li=26287&wi=418902&ws=&dl=" target="_blank" rel="noopener nofollow sponsored">Kamernet.nl</a>**: Good for rooms and shared housing.
 - **HousingAnywhere.com**: Platform specifically for internationals.
 - **Facebook groups**: "Amsterdam Apartments for Rent" and similar groups can yield results.
 - **Relocation agents**: Consider hiring an agent if budget allows (fee is typically one month's rent).

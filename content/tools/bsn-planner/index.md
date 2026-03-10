@@ -951,7 +951,7 @@ Generate My BSN Timeline &rarr;
 <h2>City-by-city tips for expats</h2>
 
 <h3>Amsterdam</h3>
-<p>The most competitive housing market in the Netherlands. Budget at least €1,200/month for a room and expect to compete with many applicants. Use Funda, Pararius, and Kamernet. The gemeente appointment wait is the longest nationally — book immediately. The Stadsloket offices are located across the city; the one in the city centre on Amstel is the most central.</p>
+<p>The most competitive housing market in the Netherlands. Budget at least €1,200/month for a room and expect to compete with many applicants. Use Funda, Pararius, and <a href="https://ds1.nl/c/?si=447&li=26287&wi=418902&ws=&dl=" target="_blank" rel="noopener nofollow sponsored">Kamernet</a>. The gemeente appointment wait is the longest nationally — book immediately. The Stadsloket offices are located across the city; the one in the city centre on Amstel is the most central.</p>
 
 <h3>Rotterdam</h3>
 <p>More affordable than Amsterdam, with a growing international community. Appointments are typically available within two weeks. Rotterdam has a modern, bilingual gemeente website which makes the booking process easier for English speakers.</p>
@@ -1144,13 +1144,13 @@ let steps = '';
 // ── STEP: Find Housing (only if no address yet) ──
 if (address === 'no') {
 const cityHousingTips = {
-amsterdam:   'Amsterdam has the tightest rental market in the country. Budget at least €1,200/month for a room. Use Funda, Pararius, Kamernet and Facebook expat groups. Respond to listings within hours — competition is intense.',
-rotterdam:   'Rotterdam is more affordable than Amsterdam. Try Funda, Kamernet, and Rotterdam-specific Facebook groups. The north and west of the city have good transport links.',
+amsterdam:   'Amsterdam has the tightest rental market in the country. Budget at least €1,200/month for a room. Use Funda, Pararius, <a href="https://ds1.nl/c/?si=447&li=26287&wi=418902&ws=&dl=" target="_blank" rel="noopener nofollow sponsored">Kamernet</a> and Facebook expat groups. Respond to listings within hours — competition is intense.',
+rotterdam:   'Rotterdam is more affordable than Amsterdam. Try Funda, <a href="https://ds1.nl/c/?si=447&li=26287&wi=418902&ws=&dl=" target="_blank" rel="noopener nofollow sponsored">Kamernet</a>, and Rotterdam-specific Facebook groups. The north and west of the city have good transport links.',
 'the-hague': 'The Hague has a large expat community. Use Funda, Pararius and Expatica Housing. Bezuidenhout and Laak neighbourhoods are popular with internationals.',
 eindhoven:   'Eindhoven has a growing housing market driven by tech workers. Use Funda and Pararius. The Woensel and Stratum areas offer more affordable options.',
-utrecht:     'Utrecht is very popular and housing is competitive. Use Funda and Kamernet. Overvecht and Kanaleneiland have more availability.',
-groningen:   'Groningen has a large student population. Use Kamernet, SSH Student Housing and Funda. Book well in advance of the new academic year.',
-leiden:      'Leiden is a compact city with a strong student rental market. Use SSH and Kamernet alongside Funda.',
+utrecht:     'Utrecht is very popular and housing is competitive. Use Funda and <a href="https://ds1.nl/c/?si=447&li=26287&wi=418902&ws=&dl=" target="_blank" rel="noopener nofollow sponsored">Kamernet</a>. Overvecht and Kanaleneiland have more availability.',
+groningen:   'Groningen has a large student population. Use <a href="https://ds1.nl/c/?si=447&li=26287&wi=418902&ws=&dl=" target="_blank" rel="noopener nofollow sponsored">Kamernet</a>, SSH Student Housing and Funda. Book well in advance of the new academic year.',
+leiden:      'Leiden is a compact city with a strong student rental market. Use SSH and <a href="https://ds1.nl/c/?si=447&li=26287&wi=418902&ws=&dl=" target="_blank" rel="noopener nofollow sponsored">Kamernet</a> alongside Funda.',
 maastricht:  'Maastricht has a more relaxed rental market. SKSG and Funda are good starting points.',
 other:       'Use Funda and Pararius for nationwide listings. Local Facebook expat groups are also a good source for short-notice rentals.',
 };

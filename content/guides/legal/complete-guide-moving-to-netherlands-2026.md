@@ -87,7 +87,7 @@ The Dutch housing market is notoriously competitive, particularly in major citie
 
 - **Funda.nl**: The largest Dutch housing platform for both rentals and purchases
 - **Pararius.nl**: Focused on the rental market, popular with expats
-- **Kamernet.nl**: For room rentals and shared housing
+- **<a href="https://ds1.nl/c/?si=447&li=26287&wi=418902&ws=&dl=" target="_blank" rel="noopener nofollow sponsored">Kamernet.nl</a>**: For room rentals and shared housing
 - **Facebook groups**: Many cities have expat housing groups
 - **Housing agencies**: Consider a relocation agent, especially if your employer provides a relocation budget
 

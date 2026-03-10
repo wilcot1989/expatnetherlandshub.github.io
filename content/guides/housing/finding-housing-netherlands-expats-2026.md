@@ -16,7 +16,7 @@ faq:
   - q: "What documents do I need to rent an apartment in the Netherlands?"
     a: "Most landlords and rental agencies require a valid passport or ID, an employment contract or employer statement, recent payslips (typically the last 3 months), proof of income showing you earn at least 3 times the monthly rent, and sometimes a reference from a previous landlord. Self-employed expats may need to show tax returns or bank statements. Having these documents ready in advance significantly speeds up the process."
   - q: "Is Funda or Pararius better for expat housing searches?"
-    a: "Both platforms are valuable and complement each other. Funda is the largest Dutch property platform and lists both rentals and sales. Pararius focuses specifically on the rental market and is more popular with international tenants because many listings are in English. We recommend using both simultaneously to maximize your options. Also check HousingAnywhere and Kamernet for furnished and short-term rentals."
+    a: "Both platforms are valuable and complement each other. Funda is the largest Dutch property platform and lists both rentals and sales. Pararius focuses specifically on the rental market and is more popular with international tenants because many listings are in English. We recommend using both simultaneously to maximize your options. Also check HousingAnywhere and <a href=\"https://ds1.nl/c/?si=447&li=26287&wi=418902&ws=&dl=\" target=\"_blank\" rel=\"noopener nofollow sponsored\">Kamernet</a> for furnished and short-term rentals."
   - q: "How can I avoid rental scams in the Netherlands?"
     a: "Never transfer money before viewing a property in person or via a verified live video call. Be suspicious of listings with prices significantly below market rate. Never pay rent to a personal bank account; legitimate agencies and landlords use business accounts. Verify the landlord's identity and ownership through the Kadaster (land registry). Do not send copies of your passport by email to unverified contacts. If a deal seems too good to be true, it almost certainly is."
   - q: "What is the difference between social housing and private rental in the Netherlands?"
@@ -102,7 +102,7 @@ Pararius is a dedicated rental platform that is particularly popular with expats
 
 **Best for**: Expats looking for private-sector rentals in English.
 
-### 3. Kamernet (kamernet.nl)
+### 3. <a href="https://ds1.nl/c/?si=447&li=26287&wi=418902&ws=&dl=" target="_blank" rel="noopener nofollow sponsored">Kamernet</a> (kamernet.nl)
 
 Kamernet specializes in room rentals, studios, and shared housing.
 
@@ -111,6 +111,8 @@ Kamernet specializes in room rentals, studios, and shared housing.
 **Limitations**: Requires a paid subscription (approximately EUR 30-35 for a month) to respond to listings, mostly rooms rather than full apartments.
 
 **Best for**: Budget-conscious expats, students, or those looking for shared housing.
+
+<a href="https://ds1.nl/c/?si=447&li=26287&wi=418902&ws=&dl=" target="_blank" rel="noopener nofollow sponsored" class="cta-affiliate">Search Rooms on Kamernet →</a>
 
 ### 4. HousingAnywhere (housinganywhere.com)
 
@@ -281,7 +283,7 @@ Arriving in the Netherlands without permanent housing is stressful but sometimes
 
 - **Short-stay apartments**: HousingAnywhere, Holland2Stay, and The Student Hotel offer furnished short-term rentals
 - **Aparthotels**: Zoku, The Social Hub (formerly The Student Hotel), and Cityden offer monthly rates
-- **Subletting**: Facebook groups and Kamernet sometimes have sublets available
+- **Subletting**: Facebook groups and <a href="https://ds1.nl/c/?si=447&li=26287&wi=418902&ws=&dl=" target="_blank" rel="noopener nofollow sponsored">Kamernet</a> sometimes have sublets available
 
 Temporary housing gives you time to search for a permanent place from within the Netherlands, which is significantly easier than searching from abroad.
 
