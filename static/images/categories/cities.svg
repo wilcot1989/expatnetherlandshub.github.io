@@ -1,0 +1,164 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 630">
+  <defs>
+    <linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#1e293b"/>
+      <stop offset="100%" stop-color="#0f172a"/>
+    </linearGradient>
+    <linearGradient id="orangeGrad" x1="0%" y1="0%" x2="0%" y2="100%">
+      <stop offset="0%" stop-color="#f97316"/>
+      <stop offset="100%" stop-color="#ea580c"/>
+    </linearGradient>
+    <linearGradient id="orangeGrad2" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#fb923c"/>
+      <stop offset="100%" stop-color="#f97316"/>
+    </linearGradient>
+  </defs>
+
+  <!-- Background -->
+  <rect width="1200" height="630" fill="url(#bg)"/>
+
+  <!-- Subtle pattern -->
+  <g opacity="0.03">
+    <line x1="0" y1="0" x2="1200" y2="630" stroke="white" stroke-width="1"/>
+    <line x1="400" y1="0" x2="1200" y2="400" stroke="white" stroke-width="1"/>
+    <line x1="0" y1="400" x2="800" y2="630" stroke="white" stroke-width="1"/>
+  </g>
+
+  <!-- Decorative circles -->
+  <circle cx="600" cy="315" r="240" fill="none" stroke="#f97316" stroke-width="1" opacity="0.06"/>
+  <circle cx="600" cy="315" r="300" fill="none" stroke="#f97316" stroke-width="0.5" opacity="0.04"/>
+
+  <!-- 1. DUTCH CANAL HOUSES (center skyline) -->
+  <g transform="translate(200, 160)">
+    <!-- House 1 — stepped gable -->
+    <rect x="0" y="120" width="100" height="200" fill="white" opacity="0.12"/>
+    <rect x="0" y="120" width="100" height="200" fill="none" stroke="white" stroke-width="2" opacity="0.2"/>
+    <path d="M10,120 L10,80 L25,60 L35,75 L50,50 L65,75 L75,60 L90,80 L90,120" fill="white" opacity="0.12" stroke="white" stroke-width="2" stroke-opacity="0.2"/>
+    <rect x="35" y="240" width="30" height="80" rx="2" fill="#f97316" opacity="0.5"/>
+    <rect x="15" y="150" width="25" height="30" rx="2" fill="none" stroke="#fb923c" stroke-width="2" opacity="0.4"/>
+    <rect x="60" y="150" width="25" height="30" rx="2" fill="none" stroke="#fb923c" stroke-width="2" opacity="0.4"/>
+    <rect x="15" y="200" width="25" height="30" rx="2" fill="none" stroke="#fb923c" stroke-width="2" opacity="0.3"/>
+    <rect x="60" y="200" width="25" height="30" rx="2" fill="none" stroke="#fb923c" stroke-width="2" opacity="0.3"/>
+
+    <!-- House 2 — bell gable (taller) -->
+    <rect x="115" y="90" width="110" height="230" fill="white" opacity="0.1"/>
+    <rect x="115" y="90" width="110" height="230" fill="none" stroke="white" stroke-width="2" opacity="0.2"/>
+    <path d="M120,90 C120,50 170,20 170,20 C170,20 220,50 220,90" fill="white" opacity="0.1" stroke="white" stroke-width="2" stroke-opacity="0.2"/>
+    <rect x="150" y="240" width="40" height="80" rx="20" fill="#f97316" opacity="0.5"/>
+    <rect x="130" y="120" width="28" height="35" rx="2" fill="none" stroke="#fb923c" stroke-width="2" opacity="0.4"/>
+    <rect x="182" y="120" width="28" height="35" rx="2" fill="none" stroke="#fb923c" stroke-width="2" opacity="0.4"/>
+    <rect x="130" y="175" width="28" height="35" rx="2" fill="none" stroke="#fb923c" stroke-width="2" opacity="0.3"/>
+    <rect x="182" y="175" width="28" height="35" rx="2" fill="none" stroke="#fb923c" stroke-width="2" opacity="0.3"/>
+
+    <!-- House 3 — neck gable -->
+    <rect x="240" y="100" width="105" height="220" fill="white" opacity="0.14"/>
+    <rect x="240" y="100" width="105" height="220" fill="none" stroke="white" stroke-width="2" opacity="0.2"/>
+    <rect x="265" y="60" width="55" height="40" fill="white" opacity="0.14" stroke="white" stroke-width="2" stroke-opacity="0.2"/>
+    <polygon points="292,30 320,60 265,60" fill="url(#orangeGrad)" opacity="0.6"/>
+    <rect x="273" y="240" width="36" height="80" rx="2" fill="#f97316" opacity="0.5"/>
+    <rect x="255" y="130" width="25" height="30" rx="2" fill="none" stroke="#fb923c" stroke-width="2" opacity="0.4"/>
+    <rect x="305" y="130" width="25" height="30" rx="2" fill="none" stroke="#fb923c" stroke-width="2" opacity="0.4"/>
+    <rect x="255" y="180" width="25" height="30" rx="2" fill="none" stroke="#fb923c" stroke-width="2" opacity="0.3"/>
+    <rect x="305" y="180" width="25" height="30" rx="2" fill="none" stroke="#fb923c" stroke-width="2" opacity="0.3"/>
+
+    <!-- House 4 — spout gable -->
+    <rect x="360" y="110" width="95" height="210" fill="white" opacity="0.11"/>
+    <rect x="360" y="110" width="95" height="210" fill="none" stroke="white" stroke-width="2" opacity="0.2"/>
+    <polygon points="360,110 407,55 455,110" fill="white" opacity="0.11" stroke="white" stroke-width="2" stroke-opacity="0.2"/>
+    <rect x="390" y="240" width="30" height="80" rx="2" fill="#f97316" opacity="0.5"/>
+    <rect x="375" y="140" width="22" height="28" rx="2" fill="none" stroke="#fb923c" stroke-width="2" opacity="0.4"/>
+    <rect x="418" y="140" width="22" height="28" rx="2" fill="none" stroke="#fb923c" stroke-width="2" opacity="0.4"/>
+    <rect x="375" y="190" width="22" height="28" rx="2" fill="none" stroke="#fb923c" stroke-width="2" opacity="0.3"/>
+    <rect x="418" y="190" width="22" height="28" rx="2" fill="none" stroke="#fb923c" stroke-width="2" opacity="0.3"/>
+
+    <!-- House 5 — stepped gable -->
+    <rect x="470" y="130" width="100" height="190" fill="white" opacity="0.12"/>
+    <rect x="470" y="130" width="100" height="190" fill="none" stroke="white" stroke-width="2" opacity="0.2"/>
+    <path d="M475,130 L475,100 L490,85 L505,100 L520,80 L535,100 L550,85 L565,100 L565,130" fill="white" opacity="0.12" stroke="white" stroke-width="2" stroke-opacity="0.2"/>
+    <rect x="500" y="240" width="30" height="80" rx="2" fill="#f97316" opacity="0.5"/>
+    <rect x="485" y="155" width="22" height="28" rx="2" fill="none" stroke="#fb923c" stroke-width="2" opacity="0.4"/>
+    <rect x="530" y="155" width="22" height="28" rx="2" fill="none" stroke="#fb923c" stroke-width="2" opacity="0.4"/>
+
+    <!-- Canal water reflection -->
+    <rect x="-20" y="320" width="620" height="60" fill="#f97316" opacity="0.06" rx="4"/>
+    <line x1="0" y1="340" x2="580" y2="340" stroke="#fb923c" stroke-width="1" opacity="0.15"/>
+    <line x1="20" y1="355" x2="560" y2="355" stroke="#fb923c" stroke-width="1" opacity="0.1"/>
+  </g>
+
+  <!-- 2. CHURCH TOWER / WESTERKERK style (right) -->
+  <g transform="translate(860, 100)">
+    <!-- Tower base -->
+    <rect x="30" y="160" width="100" height="220" fill="white" opacity="0.1"/>
+    <rect x="30" y="160" width="100" height="220" fill="none" stroke="white" stroke-width="2" opacity="0.2"/>
+    <!-- Tower middle -->
+    <rect x="45" y="100" width="70" height="65" fill="white" opacity="0.1" stroke="white" stroke-width="2" stroke-opacity="0.2"/>
+    <!-- Tower top -->
+    <rect x="55" y="60" width="50" height="45" fill="white" opacity="0.1" stroke="white" stroke-width="2" stroke-opacity="0.2"/>
+    <!-- Spire -->
+    <polygon points="80,0 100,60 60,60" fill="url(#orangeGrad)" opacity="0.7"/>
+    <!-- Crown on top -->
+    <circle cx="80" cy="5" r="8" fill="#fb923c" opacity="0.8"/>
+    <!-- Clock face -->
+    <circle cx="80" cy="130" r="22" fill="none" stroke="#fb923c" stroke-width="2" opacity="0.5"/>
+    <line x1="80" y1="115" x2="80" y2="130" stroke="#fb923c" stroke-width="2" opacity="0.5"/>
+    <line x1="80" y1="130" x2="92" y2="135" stroke="#fb923c" stroke-width="2" opacity="0.5"/>
+    <!-- Windows -->
+    <rect x="50" y="200" width="20" height="35" rx="10" fill="none" stroke="#fb923c" stroke-width="2" opacity="0.3"/>
+    <rect x="90" y="200" width="20" height="35" rx="10" fill="none" stroke="#fb923c" stroke-width="2" opacity="0.3"/>
+    <rect x="50" y="260" width="20" height="35" rx="10" fill="none" stroke="#fb923c" stroke-width="2" opacity="0.3"/>
+    <rect x="90" y="260" width="20" height="35" rx="10" fill="none" stroke="#fb923c" stroke-width="2" opacity="0.3"/>
+  </g>
+
+  <!-- 3. BICYCLE (bottom left) -->
+  <g transform="translate(80, 430)">
+    <!-- Back wheel -->
+    <circle cx="50" cy="80" r="40" fill="none" stroke="#fb923c" stroke-width="3" opacity="0.6"/>
+    <circle cx="50" cy="80" r="5" fill="#fb923c" opacity="0.6"/>
+    <!-- Spokes -->
+    <line x1="50" y1="42" x2="50" y2="118" stroke="#fb923c" stroke-width="1" opacity="0.3"/>
+    <line x1="12" y1="80" x2="88" y2="80" stroke="#fb923c" stroke-width="1" opacity="0.3"/>
+    <!-- Front wheel -->
+    <circle cx="200" cy="80" r="40" fill="none" stroke="#fb923c" stroke-width="3" opacity="0.6"/>
+    <circle cx="200" cy="80" r="5" fill="#fb923c" opacity="0.6"/>
+    <!-- Spokes -->
+    <line x1="200" y1="42" x2="200" y2="118" stroke="#fb923c" stroke-width="1" opacity="0.3"/>
+    <line x1="162" y1="80" x2="238" y2="80" stroke="#fb923c" stroke-width="1" opacity="0.3"/>
+    <!-- Frame -->
+    <line x1="50" y1="80" x2="130" y2="30" stroke="white" stroke-width="4" opacity="0.7" stroke-linecap="round"/>
+    <line x1="50" y1="80" x2="130" y2="80" stroke="white" stroke-width="4" opacity="0.7" stroke-linecap="round"/>
+    <line x1="130" y1="80" x2="200" y2="80" stroke="white" stroke-width="4" opacity="0.7" stroke-linecap="round"/>
+    <line x1="130" y1="80" x2="130" y2="30" stroke="white" stroke-width="4" opacity="0.7" stroke-linecap="round"/>
+    <line x1="130" y1="30" x2="200" y2="80" stroke="white" stroke-width="3" opacity="0.5" stroke-linecap="round"/>
+    <!-- Handlebars -->
+    <line x1="130" y1="30" x2="115" y2="15" stroke="white" stroke-width="4" opacity="0.7" stroke-linecap="round"/>
+    <line x1="105" y1="15" x2="125" y2="15" stroke="white" stroke-width="4" opacity="0.7" stroke-linecap="round"/>
+    <!-- Seat -->
+    <ellipse cx="60" cy="25" rx="18" ry="6" fill="white" opacity="0.5"/>
+    <line x1="65" y1="30" x2="50" y2="80" stroke="white" stroke-width="3" opacity="0.6" stroke-linecap="round"/>
+  </g>
+
+  <!-- 4. MAP PIN (bottom right) -->
+  <g transform="translate(940, 420)">
+    <path d="M60,0 C90,0 110,25 110,55 C110,95 60,140 60,140 C60,140 10,95 10,55 C10,25 30,0 60,0 Z" fill="url(#orangeGrad)" opacity="0.6"/>
+    <circle cx="60" cy="55" r="22" fill="none" stroke="white" stroke-width="3" opacity="0.5"/>
+    <circle cx="60" cy="55" r="8" fill="white" opacity="0.5"/>
+  </g>
+
+  <!-- 5. BRIDGE ARCH (bottom center, canal bridge) -->
+  <g transform="translate(450, 480)">
+    <path d="M0,60 Q125,-20 250,60" fill="none" stroke="white" stroke-width="4" opacity="0.3"/>
+    <path d="M0,60 Q125,-10 250,60" fill="none" stroke="white" stroke-width="2" opacity="0.15"/>
+    <!-- Bridge railing posts -->
+    <line x1="30" y1="35" x2="30" y2="55" stroke="white" stroke-width="2" opacity="0.2"/>
+    <line x1="70" y1="15" x2="70" y2="35" stroke="white" stroke-width="2" opacity="0.2"/>
+    <line x1="125" y1="5" x2="125" y2="25" stroke="white" stroke-width="2" opacity="0.2"/>
+    <line x1="180" y1="15" x2="180" y2="35" stroke="white" stroke-width="2" opacity="0.2"/>
+    <line x1="220" y1="35" x2="220" y2="55" stroke="white" stroke-width="2" opacity="0.2"/>
+  </g>
+
+  <!-- Corner accents -->
+  <line x1="30" y1="30" x2="100" y2="30" stroke="#f97316" stroke-width="2" opacity="0.3"/>
+  <line x1="30" y1="30" x2="30" y2="100" stroke="#f97316" stroke-width="2" opacity="0.3"/>
+  <line x1="1170" y1="600" x2="1100" y2="600" stroke="#f97316" stroke-width="2" opacity="0.3"/>
+  <line x1="1170" y1="600" x2="1170" y2="530" stroke="#f97316" stroke-width="2" opacity="0.3"/>
+</svg>

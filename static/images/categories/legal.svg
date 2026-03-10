@@ -91,7 +91,7 @@
 
   <!-- 5. PARAGRAPH SYMBOL (bottom center) -->
   <g transform="translate(500, 440)">
-    <text x="0" y="120" font-family="serif" font-size="160" fill="#f97316" opacity="0.15">&sect;</text>
+    <text x="0" y="120" font-family="serif" font-size="160" fill="#f97316" opacity="0.15">&#167;</text>
   </g>
 
   <!-- Corner accents -->
