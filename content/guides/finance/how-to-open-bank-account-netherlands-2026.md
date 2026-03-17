@@ -1,8 +1,8 @@
 ---
-title: "How to Open a Bank Account in the Netherlands: Step-by-Step Guide for Expats (2026)"
+title: "How to Open a Dutch Bank Account as an Expat (2026 Guide)"
 date: 2026-03-07T10:00:00+01:00
 lastmod: 2026-03-07T10:00:00+01:00
-description: "Step-by-step guide to opening a Dutch bank account as an expat. What you need, how long it takes, and which bank to choose based on your situation."
+description: "To pay Dutch rent you need iDEAL. iDEAL needs a Dutch bank. Dutch banks need a BSN. Here's how to break the loop and have a working account before your BSN arrives."
 categories: ["finance"]
 tags: ["bank account", "expat banking", "wise", "bunq", "ing netherlands", "abn amro"]
 keywords: ["open bank account netherlands expat", "how to open bank account netherlands", "dutch bank account expat", "bank account without BSN"]
