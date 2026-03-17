@@ -1,8 +1,8 @@
 ---
-title: "Dutch Divorce Law for Expats 2026: Process, Costs, and International Complications"
+title: "Dutch Divorce Law for Expats 2026"
 date: 2026-06-21T10:00:00+01:00
 lastmod: 2026-06-21T10:00:00+01:00
-description: "Divorcing in the Netherlands as an expat. Jurisdiction rules, process, costs (€250-5000+), children, international aspects, mediators vs advocaat — everything you need to know."
+description: "Divorcing in the Netherlands as an expat: jurisdiction rules, process, costs (€250-5000+), children, international aspects, and mediators vs advocaat."
 categories: ["legal"]
 tags: ["dutch divorce", "divorce netherlands expats", "expat family law", "international divorce", "scheiding nederland", "divorce costs netherlands"]
 keywords: ["dutch divorce law expats", "divorce netherlands 2026", "divorce costs netherlands", "international divorce netherlands", "expat divorce dutch law"]

@@ -1,8 +1,8 @@
 ---
-title: "Netherlands Work Permit for Non-EU Nationals 2026: TWV, GVVA, and Everything In Between"
+title: "Work Permit Netherlands Non-EU Guide 2026"
 date: 2026-06-10T10:00:00+01:00
 lastmod: 2026-06-10T10:00:00+01:00
-description: "Complete guide to Dutch work permits for non-EU nationals in 2026. TWV vs GVVA explained, employer responsibilities, costs, timelines, and how to avoid the most common delays."
+description: "Dutch work permits for non-EU nationals in 2026: TWV vs GVVA explained, employer responsibilities, costs, timelines, and how to avoid common delays."
 categories: ["legal"]
 tags: ["work permit", "TWV", "GVVA", "non-EU", "employment"]
 keywords: ["Netherlands work permit non-EU", "TWV Netherlands", "GVVA Netherlands", "Dutch work permit 2026", "work in Netherlands non-EU"]

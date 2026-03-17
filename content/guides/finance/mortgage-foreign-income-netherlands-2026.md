@@ -1,8 +1,8 @@
 ---
-title: "Getting a Dutch Mortgage with Foreign Income 2026: The Expat Guide"
+title: "Dutch Mortgage with Foreign Income 2026"
 date: 2026-06-23T10:00:00+01:00
 lastmod: 2026-06-23T10:00:00+01:00
-description: "How to get a Dutch mortgage with foreign income in 2026. Which banks accept foreign contracts, freelance ZZP mortgages, intentieverklaring, 30% ruling impact, and dual-income international couples."
+description: "Dutch mortgage with foreign income 2026: banks accepting foreign contracts, ZZP mortgages, intentieverklaring, 30% ruling impact."
 categories: ["finance"]
 tags: ["dutch mortgage", "mortgage netherlands expats", "foreign income mortgage", "zzp mortgage netherlands", "30 ruling mortgage", "hypotheek expats"]
 keywords: ["dutch mortgage foreign income", "mortgage netherlands expat 2026", "hypotheek buitenlands inkomen", "zzp mortgage netherlands", "expat home loan netherlands"]

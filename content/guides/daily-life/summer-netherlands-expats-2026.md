@@ -1,11 +1,11 @@
 ---
-title: "Summer in the Netherlands: The Expat Guide to June, July & August"
+title: "Summer in the Netherlands: Expat Guide 2026"
 slug: "summer-netherlands-expats-2026"
 date: 2026-06-01T10:00:00+01:00
 lastmod: 2026-03-17T00:00:00+01:00
 author: "Sarah van den Berg"
 author_bio: "Expat coach and relocation specialist. Half Dutch, half British, living in the Netherlands for over 10 years."
-description: "Everything expats need to know about summer in the Netherlands: weather, terrasjes, beaches, festivals, bouwvak, and the AC question nobody warns you about."
+description: "Summer in the Netherlands for expats: weather, terrasjes, beaches, festivals, bouwvak, and the AC question no one warns you about."
 featured_image: "/images/categories/daily-life.svg"
 categories: ["daily-life"]
 type: "seasonal guide"

@@ -1,8 +1,8 @@
 ---
-title: "Netherlands vs Belgium for Expats 2026: The Honest Comparison"
+title: "Netherlands vs Belgium for Expats 2026"
 date: 2026-06-20T10:00:00+01:00
 lastmod: 2026-06-20T10:00:00+01:00
-description: "Netherlands vs Belgium for expats in 2026. Tax, cost of living, healthcare, housing, work culture, language, bureaucracy — a detailed comparison to help you decide."
+description: "Netherlands vs Belgium for expats 2026: tax, cost of living, healthcare, housing, work culture, language, and bureaucracy compared to help you decide."
 categories: ["integration"]
 tags: ["netherlands vs belgium", "expat comparison", "living in belgium", "living in netherlands", "expat europe", "where to move europe"]
 keywords: ["netherlands vs belgium expats", "netherlands or belgium 2026", "best country for expats europe", "belgium vs netherlands cost of living", "moving to belgium vs netherlands"]

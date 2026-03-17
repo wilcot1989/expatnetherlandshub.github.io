@@ -1,8 +1,8 @@
 ---
-title: "How to Get Healthcare in English in the Netherlands: Practical Guide 2026"
+title: "Dutch Healthcare in English: Practical Guide"
 date: 2026-06-15T10:00:00+01:00
 lastmod: 2026-06-15T10:00:00+01:00
-description: "Find an English-speaking GP, know what to say at a Dutch pharmacy, and handle hospital visits without Dutch — a practical guide with vocabulary, directories, and scripts."
+description: "Find an English-speaking GP, handle Dutch pharmacies, and manage hospital visits without Dutch — practical guide with vocabulary, directories, and scripts."
 categories: ["health"]
 tags: ["healthcare", "English", "medical", "huisarts", "hospital"]
 keywords: ["english speaking doctor netherlands", "english speaking GP amsterdam", "dutch healthcare english", "huisarts english speaking", "medical care netherlands expat 2026"]
@@ -274,7 +274,7 @@ For context on what the system covers and the waiting list situation, see the [m
 ### Where to Find English-Speaking Therapists
 
 **Psychology Today Directory:**
-[psychologytoday.com/intl/counselors/nl](https://www.psychologytoday.com/intl/counselors/nl) — filter by language (English) and insurance accepted. This is the most comprehensive English-language directory.
+[psychologytoday.com/intl/counselors/nl](https://www.psychologytoday.com/intl/counselors/nl) — filter by language (English) and insurance accepted. This is the most complete English-language directory.
 
 **Open Up:**
 Subscription-based mental health platform used by some Dutch employers. Sessions in English with psychologists and coaches. Worth asking your employer's HR whether this is included in your benefits.

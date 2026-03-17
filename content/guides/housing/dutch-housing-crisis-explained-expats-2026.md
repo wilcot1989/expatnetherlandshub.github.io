@@ -1,8 +1,8 @@
 ---
-title: "The Dutch Housing Crisis Explained for Expats 2026"
+title: "Dutch Housing Crisis Explained for Expats 2026"
 date: 2026-06-19T10:00:00+01:00
 lastmod: 2026-06-19T10:00:00+01:00
-description: "Why is housing so scarce and expensive in the Netherlands? The full story behind the Dutch housing crisis, the puntensysteem, regulated vs free sector, and what it means for expats trying to find a home."
+description: "The Dutch housing crisis explained for expats: puntensysteem, regulated vs free sector rental market, and what housing scarcity means for you."
 categories: ["housing"]
 tags: ["housing crisis", "rental market", "woningnood", "housing shortage"]
 keywords: ["dutch housing crisis expat", "netherlands housing shortage 2026", "woningnood netherlands", "puntensysteem netherlands", "rental market netherlands expat"]

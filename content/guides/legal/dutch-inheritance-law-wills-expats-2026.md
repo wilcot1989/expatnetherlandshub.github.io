@@ -1,8 +1,8 @@
 ---
-title: "Dutch Inheritance Law for Expats 2026: Wills, Erfrecht, and Cross-Border Estates"
+title: "Dutch Inheritance Law for Expats 2026"
 date: 2026-06-29T10:00:00+01:00
 lastmod: 2026-06-29T10:00:00+01:00
-description: "Dutch inheritance law explained for expats: erfrecht, wettelijke verdeling, writing a testament with a notaris, cross-border inheritance under EU Succession Regulation, and legitimate share (legitieme portie)."
+description: "Dutch inheritance law for expats: erfrecht, wettelijke verdeling, writing a testament, cross-border inheritance rules, and legitieme portie explained."
 categories: ["legal"]
 tags: ["dutch inheritance law", "erfrecht netherlands", "will in netherlands", "testament notaris netherlands", "cross border inheritance expats", "EU succession regulation"]
 keywords: ["dutch inheritance law expats", "writing a will in netherlands", "testament netherlands expat", "EU succession regulation netherlands", "erfrecht wettelijke verdeling expats"]

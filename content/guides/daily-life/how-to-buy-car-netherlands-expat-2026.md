@@ -1,8 +1,8 @@
 ---
-title: "How to Buy a Car in the Netherlands as an Expat 2026: BPM, RDW, APK, and Total Costs"
+title: "How to Buy a Car in the Netherlands 2026"
 date: 2026-06-12T10:00:00+01:00
 lastmod: 2026-06-12T10:00:00+01:00
-description: "Complete guide to buying a car in the Netherlands as an expat in 2026. New vs used, BPM tax, motorrijtuigenbelasting, APK, RDW registration, and insurance options explained."
+description: "Buying a car in the Netherlands as an expat in 2026: new vs used, BPM tax, motorrijtuigenbelasting, APK, RDW registration, and insurance options explained."
 categories: ["daily-life"]
 tags: ["car", "buying car", "RDW", "BPM", "motorrijtuigenbelasting"]
 keywords: ["buy car Netherlands expat", "BPM Netherlands", "RDW car registration", "used car Netherlands", "APK Netherlands"]

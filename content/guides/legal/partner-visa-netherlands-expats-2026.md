@@ -1,8 +1,8 @@
 ---
-title: "How to Bring Your Partner to the Netherlands: The Complete Guide (2026)"
+title: "Partner Visa Netherlands: Complete Guide 2026"
 date: 2026-06-08T10:00:00+01:00
 lastmod: 2026-06-08T10:00:00+01:00
-description: "Everything you need to know about bringing your partner or spouse to the Netherlands in 2026. MVV, income requirements, documents, timeline, and the inburgeringsexamen — explained step by step."
+description: "Bringing your partner to the Netherlands in 2026: MVV, income requirements, documents, timeline, and the inburgeringsexamen — explained step by step."
 categories: ["legal"]
 tags: ["partner visa", "MVV", "family reunification", "spouse visa"]
 keywords: ["partner visa netherlands 2026", "mvv partner netherlands", "bring spouse to netherlands expat", "family reunification netherlands income requirement", "partner visa netherlands non-eu"]
@@ -18,7 +18,7 @@ faq:
   - q: "How long does the partner visa process take in the Netherlands?"
     a: "The full process typically takes 3 to 6 months from submitting the complete application to your partner receiving the MVV and being able to travel to the Netherlands. The IND has a statutory processing time of 90 days for partner permits, but this can extend if documentation is incomplete or the application needs additional assessment. After arriving in the Netherlands with the MVV, your partner must convert it to a residence permit (verblijfsvergunning) within the validity period of the MVV."
   - q: "What is the difference between a married partner and an unmarried partner for the visa?"
-    a: "For married partners (or registered partners), the documentation requirements are straightforward: the IND requires a valid marriage certificate, apostilled and translated into Dutch. For unmarried partners, the requirements are more demanding. You must prove a durable relationship, typically by demonstrating cohabitation for at least 6 months (via joint leases or utility bills) or a relationship of at least 12 months with evidence of regular contact (travel records, correspondence, photos). Unmarried partner applications take longer to assess and have a higher rejection rate."
+    a: "For married partners (or registered partners), the documentation requirements are clear: the IND requires a valid marriage certificate, apostilled and translated into Dutch. For unmarried partners, the requirements are more demanding. You must prove a durable relationship, typically by demonstrating cohabitation for at least 6 months (via joint leases or utility bills) or a relationship of at least 12 months with evidence of regular contact (travel records, correspondence, photos). Unmarried partner applications take longer to assess and have a higher rejection rate."
   - q: "Does an EU partner also need an MVV?"
     a: "No. EU/EEA citizens and their family members fall under EU freedom of movement law, not Dutch immigration law. An EU partner does not need an MVV. They must register with the IND (for stays over 90 days) and may need to apply for an EU residence document if staying long-term, but this process is significantly simpler and faster than the standard non-EU MVV process. They do not need to pass the inburgeringsexamen buitenland."
   - q: "Can I sponsor my partner if I am self-employed or a freelancer in the Netherlands?"
@@ -81,7 +81,7 @@ This is the requirement that most people underestimate or misread.
 In 2026, the Dutch sponsor (you, as the person already living in the Netherlands) must earn at least **EUR 2,032.33 net per month**. This figure is tied to the Dutch statutory minimum wage and is updated twice per year, on 1 January and 1 July.
 
 **What counts as income:**
-- Employment salary (the most straightforward)
+- Employment salary (the most simple option)
 - Income from a Dutch employer contract
 - Self-employment income (with additional documentation requirements)
 
@@ -92,7 +92,7 @@ In 2026, the Dutch sponsor (you, as the person already living in the Netherlands
 - Your partner's income from abroad
 - Rental income (in most cases)
 
-**Stability matters:** The IND does not just look at your current payslip. They assess whether the income is durable and lasting. A contract ending in three months does not count. A probationary period may cause complications. Permanent contracts are the most straightforward.
+**Stability matters:** The IND does not just look at your current payslip. They assess whether the income is durable and lasting. A contract ending in three months does not count. A probationary period may cause complications. Permanent contracts are the clearest option.
 
 ### Self-Employed Income
 
@@ -192,7 +192,7 @@ At this point, you pay the application fee. In 2026 the MVV fee is approximately
 
 The IND reviews your application and supporting documents. This is when missing documents cause delays. If anything is incomplete, the IND issues a request for additional information (aanvulling), and the clock stops until you respond.
 
-The statutory processing time is 90 days. In practice, straightforward applications for married partners of highly skilled migrants are often processed in 6–10 weeks. Complex cases (unmarried partners, self-employed sponsors, missing apostilles) regularly take longer.
+The statutory processing time is 90 days. In practice, simple applications for married partners of highly skilled migrants are often processed in 6–10 weeks. Complex cases (unmarried partners, self-employed sponsors, missing apostilles) regularly take longer.
 
 ### Step 3: Partner Takes Exam Abroad (if required)
 
@@ -263,13 +263,13 @@ Knowing the most frequent grounds for rejection helps you avoid them:
 | IND processing after submission | 6–12 weeks |
 | Embassy appointment and MVV collection | 1–2 weeks after IND approval |
 | Travel to Netherlands and residence permit conversion | Within 90 days of MVV issuance |
-| **Total from starting process to partner arriving** | **3–6 months (straightforward); 6–9 months (complex)** |
+| **Total from starting process to partner arriving** | **3–6 months (simple cases); 6–9 months (complex)** |
 
 ---
 
 ## When to Get Immigration Legal Advice
 
-For most straightforward cases — married partner, clear employment income, proper documents — the process is manageable without a lawyer. The IND guidance is thorough, and this article covers the key requirements.
+For most clear-cut cases — married partner, clear employment income, proper documents — the process is manageable without a lawyer. The IND guidance is thorough, and this article covers the key requirements.
 
 Consider a consultation with an immigration lawyer if:
 - You are self-employed and your income history is short or variable

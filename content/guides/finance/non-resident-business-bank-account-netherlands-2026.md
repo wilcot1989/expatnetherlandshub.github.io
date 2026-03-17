@@ -1,11 +1,11 @@
 ---
-title: "Non-Resident Business Bank Account Netherlands: How to Open One in 2026"
+title: "Non-Resident Business Bank Account NL 2026"
 slug: "non-resident-business-bank-account-netherlands-2026"
 date: 2026-06-04T10:00:00+01:00
 lastmod: 2026-06-04T10:00:00+01:00
 author: "Sarah van den Berg"
 author_bio: "Expat coach and relocation specialist. Half Dutch, half British, living in the Netherlands for over 10 years."
-description: "How to open a Dutch business bank account as a non-resident in 2026. BV incorporation, KvK registration, which banks accept non-residents, and why Wise Business is often the best starting point."
+description: "Open a Dutch business bank account as a non-resident in 2026: BV, KvK registration, which banks accept non-residents, and when Wise Business wins."
 featured_image: "/images/categories/finance.svg"
 category: "finance"
 tags: ["business bank", "non-resident", "BV", "startup"]

@@ -1,8 +1,8 @@
 ---
-title: "Dutch Benefits for Expats 2026: How to Claim Toeslagen (Zorgtoeslag, Huurtoeslag, Kindertoeslag)"
+title: "Dutch Toeslagen for Expats: How to Claim 2026"
 date: 2026-06-26T10:00:00+01:00
 lastmod: 2026-06-26T10:00:00+01:00
-description: "All Dutch toeslagen explained for expats: zorgtoeslag, huurtoeslag, kinderopvangtoeslag, kindgebonden budget. Income limits, how to apply via Mijn Toeslagen, 2026 amounts."
+description: "Dutch toeslagen for expats 2026: zorgtoeslag, huurtoeslag, kinderopvangtoeslag, kindgebonden budget. Income limits and how to apply via Mijn Toeslagen."
 categories: ["finance"]
 tags: ["dutch toeslagen", "zorgtoeslag expats", "huurtoeslag netherlands", "kinderopvangtoeslag", "kindgebonden budget", "dutch benefits expats"]
 keywords: ["dutch benefits expats toeslagen", "zorgtoeslag 2026", "huurtoeslag expat netherlands", "kinderopvangtoeslag how to apply", "mijn toeslagen expats"]

@@ -1,11 +1,11 @@
 ---
-title: "Best Beaches and Day Trips from Amsterdam: The 2026 Expat Guide"
+title: "Best Beaches & Day Trips from Amsterdam 2026"
 slug: "best-beaches-day-trips-amsterdam-2026"
 date: 2026-06-05T10:00:00+01:00
 lastmod: 2026-06-05T10:00:00+01:00
 author: "Sarah van den Berg"
 author_bio: "Expat coach and relocation specialist. Half Dutch, half British, living in the Netherlands for over 10 years."
-description: "Best beaches and day trips from Amsterdam in 2026. Zandvoort, Bloemendaal, Scheveningen, Haarlem, Giethoorn, Keukenhof and more — how to get there and what to expect."
+description: "Best beaches and day trips from Amsterdam 2026: Zandvoort, Bloemendaal, Scheveningen, Haarlem, Giethoorn, Keukenhof — how to get there and what to expect."
 featured_image: "/images/categories/daily-life.svg"
 category: "daily-life"
 tags: ["beaches", "day trips", "Amsterdam", "summer", "Zandvoort"]

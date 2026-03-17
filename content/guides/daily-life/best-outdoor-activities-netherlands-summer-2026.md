@@ -1,8 +1,8 @@
 ---
-title: "Best Outdoor Activities in the Netherlands: Summer 2026 Guide for Expats"
+title: "Best Outdoor Activities Netherlands Summer 2026"
 date: 2026-06-22T10:00:00+01:00
 lastmod: 2026-06-22T10:00:00+01:00
-description: "Best outdoor activities in the Netherlands for summer 2026. SUP, kayaking, cycling routes, beach sports, hiking Veluwe and Limburg, sailing, and outdoor swimming spots."
+description: "Best outdoor activities in the Netherlands summer 2026: SUP, kayaking, cycling, beach sports, hiking Veluwe and Limburg, sailing, and swimming spots."
 categories: ["daily-life"]
 tags: ["outdoor activities netherlands", "summer netherlands", "cycling netherlands", "netherlands hiking", "sup netherlands", "outdoor swimming netherlands"]
 keywords: ["outdoor activities netherlands summer", "best outdoor activities netherlands", "netherlands summer activities expats", "cycling routes netherlands", "zwemwater netherlands"]

@@ -1,8 +1,8 @@
 ---
-title: "Emergency Fund for Expats in the Netherlands 2026: How Much and Where to Save"
+title: "Emergency Fund Netherlands: Expat Guide 2026"
 date: 2026-06-25T10:00:00+01:00
 lastmod: 2026-06-25T10:00:00+01:00
-description: "How much emergency fund do expats in the Netherlands need? The 3-6 month rule, where to save (bunq, Raisin, deposit accounts), box 3 tax on savings, and repatriation costs."
+description: "How much emergency fund do expats in the Netherlands need? The 3-6 month rule, where to save (bunq, Raisin), box 3 tax on savings, and repatriation costs."
 categories: ["finance"]
 tags: ["emergency fund netherlands", "expat savings netherlands", "bunq savings", "raisin netherlands", "box 3 savings tax", "expat financial planning"]
 keywords: ["emergency fund netherlands expats", "how much savings expat netherlands", "where to save money netherlands expat", "box 3 savings tax netherlands", "bunq raisin savings"]
@@ -12,7 +12,7 @@ author_bio: "Expat coach and relocation specialist. Half Dutch, half British, li
 featured_image: "/images/featured/emergency-fund-netherlands-expats-2026.webp"
 faq:
   - q: "How many months of expenses should my emergency fund cover as an expat in the Netherlands?"
-    a: "The standard advice is 3-6 months of essential expenses. For expats, I recommend 6 months as a minimum, for two reasons: first, the job market for international professionals can be slower to move than locals expect; second, expats face unique costs that locals do not, such as flights home for family emergencies, supporting family abroad, and potential repatriation costs if your situation in the Netherlands changes. If your income is variable (ZZP, commission-based, or contract), 9-12 months provides much stronger security."
+    a: "The standard advice is 3-6 months of core expenses. For expats, I recommend 6 months as a minimum, for two reasons: first, the job market for international professionals can be slower to move than locals expect; second, expats face unique costs that locals do not, such as flights home for family emergencies, supporting family abroad, and potential repatriation costs if your situation in the Netherlands changes. If your income is variable (ZZP, commission-based, or contract), 9-12 months provides much stronger security."
   - q: "Where should I keep my emergency fund in the Netherlands?"
     a: "Your emergency fund needs to be accessible within 1-3 business days, not locked in a long-term product. In 2026, the best options in the Netherlands are: high-yield savings accounts at Dutch banks (ING, ABN AMRO, Rabobank offer around 1.5-2.5% on regular savings), bunq (which offers competitive interest on savings via their Easy Savings product), or Raisin's Dutch partner banks for slightly higher rates. Avoid investing your emergency fund in stocks or index funds — the point is stability, not growth."
   - q: "Is money in a Dutch savings account taxed?"
@@ -35,7 +35,7 @@ This guide explains how much you need as an expat in the Netherlands, where to h
 
 ## Why Expats Need a Larger Emergency Fund Than Locals
 
-The standard personal finance advice is 3-6 months of essential expenses. For expats in the Netherlands, I recommend treating 6 months as the floor, not the ceiling. Here is why the expat situation is different:
+The standard personal finance advice is 3-6 months of core expenses. For expats in the Netherlands, I recommend treating 6 months as the floor, not the ceiling. Here is why the expat situation is different:
 
 ### 1. Visa and Permit Dependency
 
@@ -93,7 +93,7 @@ On top of base emergency fund, add:
 
 ### Example Calculation
 
-Single expat, permanent contract, monthly essential expenses €2,200:
+Single expat, permanent contract, monthly core expenses €2,200:
 
 - Base emergency fund (6 months): €13,200
 - Repatriation buffer: €8,000
@@ -204,13 +204,13 @@ The 30% ruling does not affect Box 3 savings taxation. Your Dutch tax residency 
 
 ### Month 1-3: Immediate Buffer
 
-Priority: Get to 1 month of essential expenses in a standard Dutch savings account. This handles minor emergencies (broken appliance, unexpected dental bill, minor car repair) without requiring debt.
+Priority: Get to 1 month of core expenses in a standard Dutch savings account. This handles minor emergencies (broken appliance, unexpected dental bill, minor car repair) without requiring debt.
 
 Set up a standing order (automatische incasso) from your current account to your savings account each month. Even €200/month is better than nothing.
 
 ### Month 3-12: Core Emergency Fund
 
-Increase the buffer to 3 months of essential expenses. Revisit your monthly budget and identify what you can redirect to savings. Dutch-style financial discipline — tracking every euro, minimising unnecessary subscriptions, cooking at home more — helps here.
+Increase the buffer to 3 months of core expenses. Revisit your monthly budget and identify what you can redirect to savings. Dutch-style financial discipline — tracking every euro, minimising unnecessary subscriptions, cooking at home more — helps here.
 
 ### Year 1-2: Full Emergency Fund
 

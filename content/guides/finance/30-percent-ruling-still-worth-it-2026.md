@@ -1,8 +1,8 @@
 ---
-title: "Is the Dutch 30% Ruling Still Worth It in 2026? An Honest Mid-Year Analysis"
+title: "30% Ruling in 2026: Still Worth It?"
 date: 2026-06-30T10:00:00+01:00
 lastmod: 2026-06-30T10:00:00+01:00
-description: "Mid-year 2026 analysis: is the 30% ruling still worth it after the 30/20/10 step-down and 5-year cap? Real calculations per salary level show when it barely matters and when it's still €10K+/year."
+description: "Is the 30% ruling still worth it after the 30/20/10 step-down and 5-year cap? Real calculations per salary level show when it matters and when it doesn't."
 categories: ["finance"]
 tags: ["30 percent ruling 2026", "30 ruling step down", "dutch tax ruling worth it", "30 ruling calculation", "expat tax netherlands 2026"]
 keywords: ["30 percent ruling still worth it 2026", "30 ruling 30 20 10 step down", "is 30 ruling worth it", "30 percent ruling calculation 2026", "dutch tax ruling analysis"]
