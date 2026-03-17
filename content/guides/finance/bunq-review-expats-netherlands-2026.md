@@ -356,6 +356,3 @@ For further comparisons, see our [full breakdown of the best finance apps for ex
 
 ---
 
-## Frequently Asked Questions
-
-{{< faq >}}

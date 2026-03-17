@@ -337,6 +337,3 @@ For more on working in the Netherlands as an expat or freelancer:
 
 ---
 
-## Frequently Asked Questions
-
-{{< faq >}}

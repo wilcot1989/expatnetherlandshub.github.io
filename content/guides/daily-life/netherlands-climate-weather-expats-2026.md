@@ -258,6 +258,3 @@ The weather is not why you move to the Netherlands. But how you handle it will d
 
 ---
 
-## Frequently Asked Questions
-
-{{< faq >}}

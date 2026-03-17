@@ -293,6 +293,3 @@ For more on daily life in the Netherlands, explore our [Dutch holidays and tradi
 
 ---
 
-## Frequently Asked Questions
-
-{{< faq >}}
