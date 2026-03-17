@@ -10,7 +10,7 @@ keywords: ["leaving netherlands expat", "deregister netherlands", "cancel dutch 
 affiliate: true
 author: "Sarah van den Berg"
 author_bio: "Expat coach and relocation specialist. Half Dutch, half British, living in the Netherlands for over 10 years."
-featured_image: "/images/featured/leaving-netherlands-expat-checklist-2026.webp"
+featured_image: "/images/categories/legal.svg"
 faq:
   - q: "What do I need to do before leaving the Netherlands?"
     a: "Key steps: deregister at the gemeente (within 5 days of departure), file a final M-form tax return, cancel Dutch health insurance (only after deregistration), close or convert bank accounts, arrange pension transfer or preservation, cancel utility contracts, and return any borrowed library cards or OV-chipkaart deposits."

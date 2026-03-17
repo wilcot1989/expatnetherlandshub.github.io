@@ -10,7 +10,7 @@ keywords: ["pet relocation netherlands", "moving to netherlands with dog", "brin
 affiliate: false
 author: "Sarah van den Berg"
 author_bio: "Expat coach and relocation specialist. Half Dutch, half British, living in the Netherlands for over 10 years."
-featured_image: "/images/featured/pet-relocation-netherlands-2026.webp"
+featured_image: "/images/categories/daily-life.svg"
 faq:
   - q: "Can I bring my dog to the Netherlands?"
     a: "Yes. Dogs, cats, and ferrets can enter the Netherlands with an EU pet passport (or equivalent veterinary certificate for non-EU countries), a microchip, and a valid rabies vaccination given at least 21 days before travel. Some breeds require additional documentation."

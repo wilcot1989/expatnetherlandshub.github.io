@@ -10,7 +10,7 @@ keywords: ["english speaking doctor netherlands", "find huisarts netherlands exp
 affiliate: false
 author: "Sarah van den Berg"
 author_bio: "Expat coach and relocation specialist. Half Dutch, half British, living in the Netherlands for over 10 years."
-featured_image: "/images/featured/find-english-speaking-doctor-netherlands-2026.webp"
+featured_image: "/images/categories/health.svg"
 faq:
   - q: "Can I see a doctor in English in the Netherlands?"
     a: "Yes. Many GPs (huisartsen) in the Netherlands speak English, especially in major cities like Amsterdam, Rotterdam, The Hague, and Eindhoven. Some practices specifically cater to international patients. Use Zorgkaart Nederland to filter for English-speaking doctors in your area."

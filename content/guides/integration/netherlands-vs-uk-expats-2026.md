@@ -10,7 +10,7 @@ keywords: ["netherlands vs uk cost of living", "netherlands vs uk expats", "livi
 affiliate: true
 author: "Sarah van den Berg"
 author_bio: "Expat coach and relocation specialist. Half Dutch, half British, living in the Netherlands for over 10 years."
-featured_image: "/images/featured/netherlands-vs-uk-expats-2026.webp"
+featured_image: "/images/categories/integration.svg"
 faq:
   - q: "Is the Netherlands more expensive than the UK?"
     a: "Overall, yes — the Netherlands is roughly 10-15% more expensive than the UK on average. Housing in Amsterdam is comparable to London, but Dutch cities outside the Randstad are significantly cheaper. Groceries are 5-10% higher, but healthcare and childcare costs are more predictable. Salaries in the Netherlands are generally higher for equivalent roles, and the 30% ruling can make a significant difference for qualifying expats."
