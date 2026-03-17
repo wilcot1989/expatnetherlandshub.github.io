@@ -1279,6 +1279,8 @@
       .footer-links a { margin-left: 0; margin-right: 1rem; }
     }
   </style>
+  <!-- Embed mode: loaded before paint to prevent flash of site chrome -->
+  <script src="/embed.js"></script>
 </head>
 <body>
   <!-- Hidden checkbox for mobile hamburger -->
@@ -1579,6 +1581,18 @@
     if (!localStorage.getItem('cookie-consent')) {
       document.getElementById('cookieBanner').classList.add('show');
     }
+  </script>
+
+  <!-- Embed mode detection: add body class + hide chrome when ?embed=true or loaded in iframe -->
+  <script>
+    (function () {
+      var isEmbed = /[?&]embed=true/i.test(window.location.search);
+      var inIframe = false;
+      try { inIframe = window.self !== window.top; } catch (e) { inIframe = true; }
+      if (isEmbed || inIframe) {
+        document.body.classList.add('embed-mode');
+      }
+    })();
   </script>
 
 </body>
