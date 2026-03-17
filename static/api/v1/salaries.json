@@ -1,0 +1,30 @@
+{
+  "source": "ExpatNetherlandsHub.com",
+  "source_url": "https://expatnetherlandshub.com/salary-comparison/",
+  "last_updated": "2026-03-17",
+  "license": "Free to use with attribution link to source_url",
+  "data": {
+    "by_city": [
+      {"city": "Amsterdam", "avg_gross": 52000, "avg_net_est": 35100, "currency": "EUR"},
+      {"city": "Rotterdam", "avg_gross": 47000, "avg_net_est": 32200, "currency": "EUR"},
+      {"city": "Den Haag", "avg_gross": 50000, "avg_net_est": 34000, "currency": "EUR"},
+      {"city": "Utrecht", "avg_gross": 49000, "avg_net_est": 33500, "currency": "EUR"},
+      {"city": "Eindhoven", "avg_gross": 51000, "avg_net_est": 34600, "currency": "EUR"},
+      {"city": "Groningen", "avg_gross": 42000, "avg_net_est": 29400, "currency": "EUR"}
+    ],
+    "by_sector": [
+      {"sector": "Software Engineering", "junior": 40000, "mid": 60000, "senior": 80000},
+      {"sector": "Data Science", "junior": 42000, "mid": 62000, "senior": 85000},
+      {"sector": "Finance/Banking", "junior": 38000, "mid": 55000, "senior": 75000},
+      {"sector": "Consulting", "junior": 35000, "mid": 55000, "senior": 80000},
+      {"sector": "Marketing", "junior": 32000, "mid": 45000, "senior": 60000},
+      {"sector": "Engineering", "junior": 36000, "mid": 50000, "senior": 65000}
+    ],
+    "minimum_wage_2026": {"monthly_21plus": 2070, "currency": "EUR"},
+    "thirty_percent_ruling_threshold": 46107,
+    "tax_brackets": [
+      {"bracket": 1, "max_income": 76817, "rate": 0.3697},
+      {"bracket": 2, "min_income": 76817, "rate": 0.4950}
+    ]
+  }
+}

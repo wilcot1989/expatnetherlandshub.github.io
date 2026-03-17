@@ -1,0 +1,55 @@
+{
+  "source": "ExpatNetherlandsHub.com",
+  "source_url": "https://expatnetherlandshub.com/statistics/",
+  "last_updated": "2026-03-17",
+  "license": "Free to use with attribution link to source_url",
+  "data": {
+    "by_city": [
+      {
+        "city": "Amsterdam",
+        "rent_1bed": {"min": 1500, "max": 2000},
+        "rent_2bed": {"min": 2000, "max": 2800},
+        "groceries_single": {"min": 300, "max": 400},
+        "transport_monthly": {"min": 98, "max": 120},
+        "health_insurance": {"min": 130, "max": 175},
+        "currency": "EUR"
+      },
+      {
+        "city": "Rotterdam",
+        "rent_1bed": {"min": 1100, "max": 1500},
+        "rent_2bed": {"min": 1500, "max": 2100},
+        "groceries_single": {"min": 280, "max": 370},
+        "transport_monthly": {"min": 98, "max": 120},
+        "health_insurance": {"min": 130, "max": 175},
+        "currency": "EUR"
+      },
+      {
+        "city": "Utrecht",
+        "rent_1bed": {"min": 1200, "max": 1600},
+        "rent_2bed": {"min": 1600, "max": 2200},
+        "groceries_single": {"min": 280, "max": 370},
+        "transport_monthly": {"min": 98, "max": 120},
+        "health_insurance": {"min": 130, "max": 175},
+        "currency": "EUR"
+      },
+      {
+        "city": "Eindhoven",
+        "rent_1bed": {"min": 1000, "max": 1400},
+        "rent_2bed": {"min": 1400, "max": 1900},
+        "groceries_single": {"min": 270, "max": 350},
+        "transport_monthly": {"min": 98, "max": 120},
+        "health_insurance": {"min": 130, "max": 175},
+        "currency": "EUR"
+      },
+      {
+        "city": "Groningen",
+        "rent_1bed": {"min": 800, "max": 1200},
+        "rent_2bed": {"min": 1100, "max": 1500},
+        "groceries_single": {"min": 260, "max": 340},
+        "transport_monthly": {"min": 98, "max": 120},
+        "health_insurance": {"min": 130, "max": 175},
+        "currency": "EUR"
+      }
+    ]
+  }
+}
