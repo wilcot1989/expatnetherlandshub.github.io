@@ -1,5 +1,5 @@
 ---
-title: "Do You Qualify for the 30% Ruling? Eligibility Requirements Explained (2026)"
+title: "30% Ruling Eligibility: Do You Qualify? (2026)"
 date: 2026-04-29T10:00:00+01:00
 lastmod: 2026-04-29T10:00:00+01:00
 description: "Find out exactly whether you qualify for the Dutch 30% ruling in 2026. I cover all 5 eligibility requirements, the 150km rule, salary thresholds, and common situations — with a decision tree at the end."

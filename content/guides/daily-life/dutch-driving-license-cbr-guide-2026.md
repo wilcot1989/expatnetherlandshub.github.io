@@ -1,5 +1,5 @@
 ---
-title: "Getting a Dutch Driving Licence from Scratch: The CBR Process for Expats (2026)"
+title: "Dutch Driving Licence: CBR Guide for Expats 2026"
 slug: "dutch-driving-license-cbr-guide-2026"
 date: 2026-05-16T10:00:00+01:00
 lastmod: 2026-05-16T10:00:00+01:00
@@ -9,7 +9,7 @@ categories: ["daily-life"]
 type: "guide"
 featured_image: "/images/categories/daily-life.svg"
 affiliate: true
-description: "How to get a Dutch driving licence from scratch as an expat. Step-by-step CBR process: health declaration, theory exam, driving lessons, and practical test. Costs, timelines, and tips for 2026."
+description: "How to get a Dutch driving licence as an expat in 2026. Step-by-step CBR process: theory exam, driving lessons, practical test, costs, and timelines."
 tags: ["driving license", "rijbewijs", "CBR", "driving test", "theory exam"]
 keywords: ["dutch driving license expat", "CBR driving test netherlands", "get driving license netherlands", "rijbewijs expat 2026"]
 faq:

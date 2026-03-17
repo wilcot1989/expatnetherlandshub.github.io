@@ -1,5 +1,5 @@
 ---
-title: "Revolut Review for Expats in the Netherlands 2026: Honest Verdict"
+title: "Revolut Review Netherlands 2026: Honest Verdict"
 date: 2026-04-04T10:00:00+01:00
 lastmod: 2026-04-04T10:00:00+01:00
 description: "Revolut has great features but one big problem in the Netherlands: its Lithuanian IBAN is rejected by many Dutch employers and landlords. Full honest review for expats."
@@ -157,7 +157,7 @@ One Revolut feature that I think is genuinely underused: disposable virtual card
 
 This dramatically reduces the risk from data breaches. If an online shop gets hacked and your card details are stolen, there is nothing to steal — the number has already been retired. For someone doing a lot of online shopping or using unfamiliar services, this is a meaningful security improvement over a regular card.
 
-Speaking of security: if you are doing any mobile banking on public WiFi — in a café, at Schiphol, on the train — a VPN is worth using. I recommend [NordVPN](https://go.nordvpn.net/aff_c?offer_id=612&aff_id=141337&url_id=14830){rel="noopener nofollow sponsored" class="cta-affiliate"} for this; it works well on mobile and the Netherlands has good server coverage.
+Speaking of security: if you are doing any mobile banking on public WiFi — in a café, at Schiphol, on the train — a VPN is worth using. I recommend <a href="https://go.nordvpn.net/aff_c?offer_id=612&aff_id=141337&url_id=14830" target="_blank" rel="noopener nofollow sponsored" class="cta-affiliate">Protect your banking with NordVPN →</a> for this; it works well on mobile and the Netherlands has good server coverage.
 
 ---
 
@@ -196,7 +196,7 @@ Since these are the two most popular fintech options for expats in the Netherlan
 | **Monthly fee** | Free–EUR 15.99 | Free |
 | **Customer support** | In-app chat | Email + phone (paid) |
 
-My honest take: for anything connected to Dutch life — salary, rent, utilities, direct debits — use [Wise](https://wise.com/invite/ihpc/willemt52){rel="noopener nofollow sponsored" class="cta-affiliate"}. Wise's Belgian IBAN is accepted by significantly more Dutch employers than Revolut's Lithuanian one, and for regular international transfers the fees are transparent and typically lower.
+My honest take: for anything connected to Dutch life — salary, rent, utilities, direct debits — use <a href="https://wise.com/invite/ihpc/willemt52" target="_blank" rel="noopener nofollow sponsored" class="cta-affiliate">Use Wise for international transfers →</a>. Wise's Belgian IBAN is accepted by significantly more Dutch employers than Revolut's Lithuanian one, and for regular international transfers the fees are transparent and typically lower.
 
 Use Revolut for what it does well: travel, multi-currency spending, day-to-day budgeting alongside your main account, and currency exchange when you are not moving large sums.
 
@@ -292,7 +292,7 @@ This is your administrative anchor. Salary goes here. Rent direct debit comes fr
 Monthly cost: EUR 2–6.
 
 **Layer 2: Wise**
-Your international transfer layer. When you need to send money to the UK, India, the US, or anywhere else, you send it via [Wise](https://wise.com/invite/ihpc/willemt52){rel="noopener nofollow sponsored" class="cta-affiliate"} rather than through your Dutch bank. The rates are dramatically better and the fees are transparent. Wise also serves as a backup account with a European IBAN if your Dutch bank has issues.
+Your international transfer layer. When you need to send money to the UK, India, the US, or anywhere else, you send it via <a href="https://wise.com/invite/ihpc/willemt52" target="_blank" rel="noopener nofollow sponsored" class="cta-affiliate">Use Wise for international transfers →</a> rather than through your Dutch bank. The rates are dramatically better and the fees are transparent. Wise also serves as a backup account with a European IBAN if your Dutch bank has issues.
 
 Monthly cost: Free (pay per transfer).
 

@@ -1,8 +1,8 @@
 ---
-title: "Raising Kids in the Netherlands as an Expat Family: The 2026 Guide"
+title: "Raising Kids in the Netherlands: Expat Guide 2026"
 date: 2026-05-19T10:00:00+01:00
 lastmod: 2026-05-19T10:00:00+01:00
-description: "Everything expat parents need to know about raising children in the Netherlands: childcare, schools, subsidies, healthcare, and Dutch parenting culture explained."
+description: "Raising kids in the Netherlands as an expat: childcare, international schools, subsidies, healthcare, and Dutch parenting culture explained."
 categories: ["daily-life"]
 tags: ["family", "children", "schools", "childcare", "kinderopvangtoeslag"]
 keywords: ["expat family netherlands", "raising kids netherlands expat", "international schools netherlands", "childcare netherlands expat"]
@@ -27,7 +27,7 @@ faq:
     a: "Children under 18 do not pay a health insurance premium — they are co-insured under one parent's basic insurance at no additional cost. The eigen risico (deductible) also does not apply to children. All dental care until age 18 is covered. As a parent, you need your own basisverzekering. If you travel internationally, consider a family travel insurance plan like SafetyWing to cover gaps abroad."
 ---
 
-When I moved to the Netherlands eleven years ago, I did not yet have children. I thought about schools vaguely, the way you do when it still feels hypothetical. Then I had two kids, navigated the Dutch childcare system, sat through parent evenings at a local Dutch school, discovered kinderbijslag, argued with myself over whether to buy a bakfiets — and realised that the Netherlands is, genuinely, an outstanding place to raise a family. Not perfect, but very good. This guide covers everything I have learned and everything I tell the families I coach when they arrive here with children in tow.
+When I moved to the Netherlands eleven years ago, I did not yet have children. I thought about schools vaguely, the way you do when it still feels hypothetical. Then I had two kids, worked through the Dutch childcare system, sat through parent evenings at a local Dutch school, discovered kinderbijslag, argued with myself over whether to buy a bakfiets — and realised that the Netherlands is, genuinely, an outstanding place to raise a family. Not perfect, but very good. This guide covers everything I have learned and everything I tell the families I coach when they arrive here with children in tow.
 
 ---
 
@@ -179,7 +179,7 @@ One of the most welcome surprises for expat parents is how the Dutch health syst
 
 **The GP (huisarts) is the gatekeeper.** Just as for adults, children see the huisarts for almost all health matters. The huisarts refers to specialists when needed. Paediatric specialists are available at university hospitals and general hospitals. Well-baby checks are done by the consultatiebureau (child health clinic), a free public health service that tracks development from birth to age 4.
 
-**JGZ — Youth Health Care:** The jeugdgezondheidszorg offers regular free health checks, vaccinations, and developmental screening for all children up to age 18. Vaccinations through the national programme are free. This is a comprehensive public health system that most expat families find reassuring.
+**JGZ — Youth Health Care:** The jeugdgezondheidszorg offers regular free health checks, vaccinations, and developmental screening for all children up to age 18. Vaccinations through the national programme are free. This is a complete public health system that most expat families find reassuring.
 
 ### Travel Health Coverage for Families
 
@@ -319,7 +319,7 @@ This is the sequence I recommend to every expat family I work with.
 
 ## The Honest Summary
 
-The Netherlands is not the cheapest place to raise a family, and the bureaucracy of arriving with children — registrations, subsidy applications, school waiting lists — is genuinely demanding. But the system, once you are in it, works. The childcare subsidies are real and significant. The education is excellent. The healthcare for children is genuinely free and comprehensive. The physical environment is safe, child-friendly, and built for outdoor life.
+The Netherlands is not the cheapest place to raise a family, and the bureaucracy of arriving with children — registrations, subsidy applications, school waiting lists — is genuinely demanding. But the system, once you are in it, works. The childcare subsidies are real and significant. The education is excellent. The healthcare for children is genuinely free and full. The physical environment is safe, child-friendly, and built for outdoor life.
 
 I have lived here over ten years and raised my own children here. I would not choose anywhere else.
 

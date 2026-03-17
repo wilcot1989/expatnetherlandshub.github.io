@@ -1,5 +1,5 @@
 ---
-title: "Dutch Pay Slips Explained: How to Read Your Loonstrook in 2026"
+title: "Dutch Pay Slip Explained: Your Loonstrook 2026"
 date: 2026-05-11T10:00:00+01:00
 lastmod: 2026-05-11T10:00:00+01:00
 description: "A complete guide to reading your Dutch pay slip (loonstrook). Understand bruto loon, loonheffing, ZVW, pensioenpremie, vakantiegeld and why your net is so much lower than your gross."

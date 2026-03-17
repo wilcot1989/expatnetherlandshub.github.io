@@ -1,5 +1,5 @@
 ---
-title: "Best Finance and Budgeting Apps for Expats in the Netherlands 2026"
+title: "Best Finance Apps for Expats in Netherlands 2026"
 date: 2026-03-28T10:00:00+01:00
 lastmod: 2026-03-28T10:00:00+01:00
 description: "From Tikkie to YNAB: the finance and budgeting apps that actually work for expats in the Netherlands. My personal stack after 10 years of managing money across two countries."

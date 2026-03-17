@@ -1,8 +1,8 @@
 ---
-title: "HousingAnywhere vs Kamernet vs Funda: Which Rental Platform Works for Expats in 2026?"
+title: "HousingAnywhere vs Kamernet vs Funda 2026"
 date: 2026-04-24T10:00:00+01:00
 lastmod: 2026-04-24T10:00:00+01:00
-description: "HousingAnywhere, Kamernet, Funda, Pararius — which rental platform is actually worth your time and money as an expat in the Netherlands? Honest comparison with scam warnings and a strategy that works."
+description: "HousingAnywhere, Kamernet, Funda, or Pararius — which rental platform is worth it for expats in the Netherlands? Honest comparison with scam warnings."
 categories: ["housing"]
 tags: ["housing", "rental", "HousingAnywhere", "Kamernet", "Funda", "Pararius"]
 keywords:

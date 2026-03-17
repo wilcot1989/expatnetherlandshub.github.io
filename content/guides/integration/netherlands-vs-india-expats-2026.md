@@ -1,9 +1,9 @@
 ---
-title: "Netherlands vs India for Expats 2026: The Honest Guide for Indian Knowledge Migrants"
+title: "Netherlands vs India for Expats 2026"
 date: 2026-04-22T10:00:00+01:00
 lastmod: 2026-04-22T10:00:00+01:00
 type: "guide"
-description: "Moving from India to the Netherlands? A detailed, honest comparison of cost of living, salaries, tax, healthcare, work culture, and daily life — written for Indian expats at ASML, tech firms, and beyond."
+description: "Moving from India to the Netherlands? Honest comparison of cost of living, salaries, tax, healthcare, and work culture for Indian knowledge migrants."
 categories: ["integration"]
 tags: ["Netherlands vs India", "Indian expats", "ASML", "knowledge migrant", "relocation"]
 keywords: ["netherlands vs india expats", "moving from india to netherlands", "indian expats netherlands", "ASML india netherlands"]

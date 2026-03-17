@@ -1,5 +1,5 @@
 ---
-title: "Sinterklaas Explained: The Complete Guide for Expats in the Netherlands"
+title: "Sinterklaas Guide for Expats in the Netherlands"
 date: 2026-05-13T10:00:00+01:00
 lastmod: 2026-05-13T10:00:00+01:00
 description: "Everything expats need to know about Sinterklaas: the arrival, schoen zetten, pakjesavond, gedichten, surprises, pepernoten, and how to participate in Dutch offices and schools."

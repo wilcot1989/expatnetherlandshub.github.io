@@ -1,8 +1,8 @@
 ---
-title: "What Does Dutch Health Insurance Actually Cover? A Plain-English Guide for Expats (2026)"
+title: "What Dutch Health Insurance Covers (2026 Guide)"
 date: 2026-04-11T10:00:00+01:00
 lastmod: 2026-04-11T10:00:00+01:00
-description: "What does the Dutch basisverzekering really cover in 2026? GP visits, hospital care, eigen risico, dental, physio, mental health — everything explained in plain English for expats."
+description: "What does Dutch basisverzekering cover? GP visits, hospital care, eigen risico, dental, and mental health — explained in plain English for expats."
 categories: ["health"]
 tags: ["health insurance", "zorgverzekering", "expat healthcare", "eigen risico", "aanvullende verzekering"]
 keywords: ["what does dutch health insurance cover", "dutch health insurance coverage", "zorgverzekering what is covered", "eigen risico netherlands", "aanvullende verzekering expats"]

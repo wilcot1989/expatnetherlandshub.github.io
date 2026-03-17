@@ -1,8 +1,8 @@
 ---
-title: "Moving to the Netherlands as an American: The Complete Financial & Tax Guide 2026"
+title: "Netherlands for American Expats: Tax & Finance 2026"
 date: 2026-05-09T10:00:00+01:00
 lastmod: 2026-05-09T10:00:00+01:00
-description: "The definitive guide for American expats in the Netherlands. US worldwide taxation, FBAR, FATCA, the Dutch banking nightmare, 30% ruling, and Social Security — all explained by someone who has helped hundreds of Americans through this."
+description: "The definitive guide for American expats in the Netherlands: US worldwide taxation, FBAR, FATCA, the Dutch banking hurdles, and the 30% ruling explained."
 categories: ["finance"]
 tags: ["American expat", "US tax", "FATCA", "FBAR", "30% ruling", "US Netherlands"]
 keywords: ["american expat netherlands", "us expat netherlands tax", "FATCA netherlands", "moving from usa to netherlands"]
@@ -155,13 +155,7 @@ For a detailed comparison of the main Dutch banks, see my [ING vs ABN AMRO compa
 
 ---
 
-{{< affiliate-box >}}
-**Wise — Send Money Between the US and Netherlands**
-
-Wise (formerly TransferWise) uses the real mid-market exchange rate with transparent fees. For sending USD to EUR or EUR to USD, it is consistently among the cheapest options. Note that as a US person, some features may have limitations — but for transfers, it works well.
-
-[Open a Wise account](https://wise.com/invite/ihpc/willemt52) | No hidden fees, real exchange rate
-{{< /affiliate-box >}}
+<a href="https://wise.com/invite/ihpc/willemt52" target="_blank" rel="noopener nofollow sponsored" class="cta-affiliate">Open a Wise account — no hidden fees, real exchange rate →</a>
 
 ---
 
@@ -257,13 +251,7 @@ Some newly-arrived Americans use international health insurance (from providers 
 
 ---
 
-{{< affiliate-box >}}
-**SafetyWing Nomad Insurance — Cover During Your Transition**
-
-If you are between residencies or waiting for your Dutch registration to be processed, SafetyWing's Nomad Insurance provides affordable international health coverage. Starting from $56.28/month for worldwide coverage across most countries.
-
-[Get a SafetyWing quote](https://safetywing.com/?referenceID=26482728&utm_source=expatnetherlandshub&utm_medium=referral) | Designed for people on the move
-{{< /affiliate-box >}}
+<a href="https://safetywing.com/nomad-insurance/?referenceID=26482728" target="_blank" rel="noopener nofollow sponsored" class="cta-affiliate">Get a SafetyWing Nomad Insurance quote — designed for people on the move →</a>
 
 ---
 

@@ -1,8 +1,8 @@
 ---
-title: "Dutch Dating Culture: What Every Expat Needs to Know Before Swiping Right"
+title: "Dutch Dating Culture: What Expats Need to Know"
 date: 2026-05-28T10:00:00+01:00
 lastmod: 2026-05-28T10:00:00+01:00
-description: "Dutch dating culture explained for expats: going Dutch on dates, the Tikkie after dinner, directness in relationships, apps to use, and why living together before marriage is practically mandatory."
+description: "Dutch dating culture for expats: going Dutch, the Tikkie after dinner, directness in relationships, and why living together before marriage is the norm."
 categories: ["integration"]
 tags: ["dating", "Dutch culture", "relationships", "social life"]
 keywords: ["dutch dating culture expats", "dating in netherlands", "dating dutch people", "dutch relationship culture"]

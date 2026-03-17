@@ -1,8 +1,8 @@
 ---
-title: "Buying vs Renting in the Netherlands as an Expat: The Real Numbers for 2026"
+title: "Buying vs Renting Netherlands: Expat Guide 2026"
 date: 2026-05-21T10:00:00+01:00
 lastmod: 2026-05-21T10:00:00+01:00
-description: "Should you buy or rent in the Netherlands as an expat? A data-driven comparison with real mortgage calculations, break-even analysis, and the 30% ruling impact for 2026."
+description: "Buy or rent in the Netherlands as an expat? Real mortgage calculations, break-even analysis, and the 30% ruling impact for 2026."
 categories: ["housing"]
 tags: ["buying", "renting", "housing", "mortgage", "koopwoning"]
 keywords: ["buying vs renting netherlands expat", "should I buy house netherlands", "rent or buy netherlands 2026", "expat mortgage netherlands"]

@@ -1,5 +1,5 @@
 ---
-title: "Mobile Phone Plans in the Netherlands for Expats 2026: Full Comparison"
+title: "Best Mobile Phone Plans Netherlands Expats 2026"
 slug: "mobile-phone-plans-netherlands-expats-2026"
 date: 2026-04-26T10:00:00+01:00
 lastmod: 2026-04-26T10:00:00+01:00

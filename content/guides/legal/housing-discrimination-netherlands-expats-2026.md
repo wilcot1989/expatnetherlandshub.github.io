@@ -1,8 +1,8 @@
 ---
-title: "Housing Discrimination in the Netherlands: Know Your Rights as an Expat (2026)"
+title: "Housing Discrimination Netherlands: Know Your Rights"
 date: 2026-05-24T10:00:00+01:00
 lastmod: 2026-05-24T10:00:00+01:00
-description: "Facing housing discrimination as an expat in the Netherlands? Learn about IBAN rejection, nationality-based refusals, and your legal rights — plus how to report discrimination effectively."
+description: "Facing housing discrimination as an expat in the Netherlands? Know your rights on IBAN rejection, nationality-based refusals, and how to report it."
 categories: ["legal"]
 tags: ["housing discrimination", "rental rights", "IBAN discrimination", "expat rights"]
 keywords: ["housing discrimination netherlands", "rental discrimination expats", "IBAN discrimination netherlands", "report discrimination netherlands"]
@@ -154,7 +154,7 @@ The best position to be in is one where discrimination is harder to apply to you
 
 ### Get a Dutch or EU bank account early
 
-A Dutch or EU IBAN removes the most common grounds for rejection. [Dutch banks for expats](/guides/finance/best-bank-account-expats-netherlands-2026/) include options like ING, ABN AMRO, and Bunq that can be opened with minimal documentation. Digital-first options like Revolut provide a Dutch IBAN within minutes of signing up. Having a Dutch account from week one means no landlord can credibly claim payment processing issues.
+A Dutch or EU IBAN removes the most common grounds for rejection. [Dutch banks for expats](/guides/finance/best-bank-account-expats-netherlands-2026/) include options like ING, ABN AMRO, and Bunq that can be opened with minimal documentation. Digital-first options like Revolut provide a Dutch IBAN within minutes of signing up. Having a Dutch account from week one means no landlord can credibly claim payment processing issues. Opening a bank account is one of the tasks in your [first 30 days in the Netherlands checklist](/guides/legal/first-30-days-netherlands-expat-checklist-2026/) — sorting it early removes a key barrier when you start your housing search.
 
 ### Use platforms with verification systems
 

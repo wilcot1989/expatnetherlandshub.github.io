@@ -1,11 +1,11 @@
 ---
-title: "Best Business Bank Accounts for ZZP Freelancers in the Netherlands (2026)"
+title: "Business Bank Account Netherlands ZZP/Freelancer"
 slug: "dutch-business-bank-account-zzp-2026"
 date: 2026-05-06T10:00:00+01:00
 lastmod: 2026-05-06T10:00:00+01:00
 author: "Sarah van den Berg"
 author_bio: "Expat coach and relocation specialist. Half Dutch, half British, living in the Netherlands for over 10 years."
-description: "A practical guide to the best business bank accounts for ZZP freelancers and expats in the Netherlands. Compare ING, ABN AMRO, Rabobank, bunq, Wise and more — fees, KvK requirements, English support and accounting integrations."
+description: "Best business bank accounts for ZZP freelancers in the Netherlands. Compare ING, ABN AMRO, Rabobank, bunq, and Wise on fees and English support."
 featured_image: "/images/categories/finance.svg"
 category: "finance"
 tags: ["business bank", "ZZP", "freelancer", "KvK", "zakelijke rekening"]
@@ -14,20 +14,20 @@ affiliate: true
 schema_type: "Article"
 toc: true
 faq:
-  - question: "Do I legally need a separate business bank account as a ZZP freelancer in the Netherlands?"
-    answer: "Legally, sole traders (eenmanszaak) are not obliged to keep a separate business account. However, the Belastingdienst strongly recommends it, and mixing accounts frequently triggers extra scrutiny during tax audits. Most accountants consider it non-negotiable in practice."
-  - question: "Can I open a Dutch business bank account as a non-EU expat?"
-    answer: "Yes, but it depends on the bank. Bunq Business and Wise Business are the most foreigner-friendly — they accept non-EU residents provided you hold a valid Dutch BSN and KvK registration. Traditional banks like ING and ABN AMRO may require proof of Dutch residency and an in-person appointment."
-  - question: "What documents do I need to open a ZZP business bank account in the Netherlands?"
-    answer: "Generally: valid passport or EU ID, your KvK registration number (or extract), Dutch BSN, proof of Dutch address (such as a utility bill or gemeente registration), and in some cases a DigiD. Online-first banks typically require fewer documents than the traditional ones."
-  - question: "How long does it take to open a business bank account in the Netherlands?"
-    answer: "Bunq Business and Wise Business can be open and functional within 1–3 business days. Traditional banks — ING, ABN AMRO, Rabobank — often take 5–15 business days due to manual KYC checks and sometimes a required branch visit."
-  - question: "Do Dutch business banks offer English-language support?"
-    answer: "Bunq, Wise, and Revolut all offer fully English interfaces and English customer support. ING has an English website and app, though some support agents switch to Dutch under pressure. ABN AMRO and Rabobank are primarily Dutch-language for day-to-day banking."
-  - question: "Which business bank account is best for receiving payments in multiple currencies?"
-    answer: "Wise Business is the clear frontrunner for multi-currency — you get local account details in 10+ currencies including EUR, GBP, USD, and AUD. Revolut Business is a strong second. Traditional Dutch banks charge significant conversion fees and are poorly suited for multi-currency freelancers."
-  - question: "Can I use Wise Business as my only business account for ZZP purposes in the Netherlands?"
-    answer: "Many expat ZZP freelancers do exactly this. Wise Business gives you a Dutch IBAN, multi-currency accounts, invoicing tools, and accounting integrations. The one caveat: some Dutch clients still expect a traditional IBAN starting with NL from a recognised bank. In practice this is rarely a problem, but worth knowing."
+  - q: "Do I legally need a separate business bank account as a ZZP freelancer in the Netherlands?"
+    a: "Legally, sole traders (eenmanszaak) are not obliged to keep a separate business account. However, the Belastingdienst strongly recommends it, and mixing accounts frequently triggers extra scrutiny during tax audits. Most accountants consider it non-negotiable in practice."
+  - q: "Can I open a Dutch business bank account as a non-EU expat?"
+    a: "Yes, but it depends on the bank. Bunq Business and Wise Business are the most foreigner-friendly — they accept non-EU residents provided you hold a valid Dutch BSN and KvK registration. Traditional banks like ING and ABN AMRO may require proof of Dutch residency and an in-person appointment."
+  - q: "What documents do I need to open a ZZP business bank account in the Netherlands?"
+    a: "Generally: valid passport or EU ID, your KvK registration number (or extract), Dutch BSN, proof of Dutch address (such as a utility bill or gemeente registration), and in some cases a DigiD. Online-first banks typically require fewer documents than the traditional ones."
+  - q: "How long does it take to open a business bank account in the Netherlands?"
+    a: "Bunq Business and Wise Business can be open and functional within 1–3 business days. Traditional banks — ING, ABN AMRO, Rabobank — often take 5–15 business days due to manual KYC checks and sometimes a required branch visit."
+  - q: "Do Dutch business banks offer English-language support?"
+    a: "Bunq, Wise, and Revolut all offer fully English interfaces and English customer support. ING has an English website and app, though some support agents switch to Dutch under pressure. ABN AMRO and Rabobank are primarily Dutch-language for day-to-day banking."
+  - q: "Which business bank account is best for receiving payments in multiple currencies?"
+    a: "Wise Business is the clear frontrunner for multi-currency — you get local account details in 10+ currencies including EUR, GBP, USD, and AUD. Revolut Business is a strong second. Traditional Dutch banks charge significant conversion fees and are poorly suited for multi-currency freelancers."
+  - q: "Can I use Wise Business as my only business account for ZZP purposes in the Netherlands?"
+    a: "Many expat ZZP freelancers do exactly this. Wise Business gives you a Dutch IBAN, multi-currency accounts, invoicing tools, and accounting integrations. The one caveat: some Dutch clients still expect a traditional IBAN starting with NL from a recognised bank. In practice this is rarely a problem, but worth knowing."
 ---
 
 ## The Story That Made Me Take Business Banking Seriously
@@ -105,7 +105,7 @@ ING is the largest retail bank in the Netherlands, and its business offering is 
 **Accounting integration:** Connects with Moneybird, Twinfield, and others via SEPA export
 **Invoicing:** None built-in
 
-**My take:** ING Zakelijk works well if you're doing straightforward euro transactions with Dutch clients and want a recognisable name on your invoices. But for an expat freelancer with international clients or multi-currency needs, the offering feels dated. I've compared ING and ABN AMRO in detail in my [ING vs ABN AMRO for expats guide](/guides/finance/ing-vs-abn-amro-expats-2026/) — worth reading before you commit to either.
+**My take:** ING Zakelijk works well if you're doing simple euro transactions with Dutch clients and want a recognisable name on your invoices. But for an expat freelancer with international clients or multi-currency needs, the offering feels dated. I've compared ING and ABN AMRO in detail in my [ING vs ABN AMRO for expats guide](/guides/finance/ing-vs-abn-amro-expats-2026/) — worth reading before you commit to either.
 
 ---
 
@@ -201,7 +201,7 @@ Revolut Business is popular with tech-savvy freelancers and small business owner
 **Invoicing:** Basic invoicing on paid plans
 **Extra features:** Team cards, expense management, analytics
 
-**My take:** Revolut Business works well for ZZP freelancers who want flexibility and don't mind using a fintech-first approach. I find Wise Business slightly better for straightforward multi-currency receiving and holding, but Revolut edges ahead on team features and expense management — though those are less relevant for solo freelancers.
+**My take:** Revolut Business works well for ZZP freelancers who want flexibility and don't mind using a fintech-first approach. I find Wise Business slightly better for basic multi-currency receiving and holding, but Revolut edges ahead on team features and expense management — though those are less relevant for solo freelancers.
 
 One important caveat: Revolut's customer service can be inconsistent. I've heard from clients who've had accounts frozen during verification without clear communication. This is less common now than it was a few years ago, but worth knowing. My full [Revolut review for expats in the Netherlands](/guides/finance/revolut-review-expats-netherlands-2026/) covers this in more depth.
 

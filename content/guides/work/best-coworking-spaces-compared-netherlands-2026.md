@@ -1,8 +1,8 @@
 ---
-title: "Best Coworking Spaces in the Netherlands 2026: Full Comparison"
+title: "Best Coworking Spaces Netherlands 2026 Compared"
 date: 2026-05-30T10:00:00+01:00
 lastmod: 2026-05-30T10:00:00+01:00
-description: "Day pass, monthly desk, or dedicated office? We compare Spaces, WeWork, Tribes, The Thinking Hut, A Lab, and Seats2Meet — with prices and city-by-city recommendations."
+description: "Best coworking spaces in the Netherlands 2026: Spaces, WeWork, Tribes, and Seats2Meet compared with prices and city-by-city recommendations."
 categories: ["work"]
 tags: ["coworking", "freelancer", "remote work", "office"]
 keywords: ["coworking netherlands expats", "coworking amsterdam 2026", "best coworking netherlands", "coworking day pass netherlands", "freelance office space netherlands"]

@@ -1,11 +1,11 @@
 ---
-title: "Tax for Freelancers and ZZP in the Netherlands: The Complete 2026 Guide"
+title: "Tax for Freelancers (ZZP) in Netherlands 2026"
 slug: "tax-freelancers-zzp-netherlands-2026"
 date: 2026-05-14T10:00:00+01:00
 lastmod: 2026-05-14T10:00:00+01:00
 author: "Sarah van den Berg"
 author_bio: "Expat coach and relocation specialist. Half Dutch, half British, living in the Netherlands for over 10 years."
-description: "A complete guide to tax for freelancers and ZZP in the Netherlands in 2026. BTW registration, IB aangifte, zelfstandigenaftrek, KOR, and what you can actually deduct — with a worked example."
+description: "Complete tax guide for ZZP freelancers in the Netherlands 2026: BTW registration, IB aangifte, zelfstandigenaftrek, KOR, and what you can deduct."
 featured_image: "/images/categories/finance.svg"
 category: "finance"
 categories: ["finance"]
@@ -22,7 +22,7 @@ faq:
   - q: "What is the startersaftrek and who qualifies?"
     a: "The startersaftrek is an additional deduction of €2,123 per year on top of the zelfstandigenaftrek, available to freelancers in their first three years of business who also meet the urencriterium. You can use it a maximum of three times in the first five years. This makes the combined deduction €7,153 in your starter years — a genuinely meaningful saving when you are building up."
   - q: "What is the MKB-winstvrijstelling?"
-    a: "The MKB-winstvrijstelling (small business profit exemption) allows you to deduct 14% of your profit after the zelfstandigenaftrek and startersaftrek have been applied. Crucially, you do not need to meet the urencriterium to claim this one — it applies automatically to all self-employed people with a business profit. At €60,000 revenue, this exemption typically saves you around €1,500–2,000 in income tax."
+    a: "The MKB-winstvrijstelling (small business profit exemption) allows you to deduct 14% of your profit after the zelfstandigenaftrek and startersaftrek have been applied. Importantly, you do not need to meet the urencriterium to claim this one — it applies automatically to all self-employed people with a business profit. At €60,000 revenue, this exemption typically saves you around €1,500–2,000 in income tax."
   - q: "When are the BTW filing deadlines in the Netherlands?"
     a: "Most ZZP freelancers file quarterly BTW returns. The deadlines are: Q1 (January–March) by 30 April; Q2 (April–June) by 31 July; Q3 (July–September) by 31 October; Q4 (October–December) by 31 January of the following year. You must both file the return and pay any BTW due by these dates. Late filing triggers a fine starting at €68, and repeated lateness escalates quickly."
   - q: "What is a voorlopige aanslag and do I need one as a freelancer?"

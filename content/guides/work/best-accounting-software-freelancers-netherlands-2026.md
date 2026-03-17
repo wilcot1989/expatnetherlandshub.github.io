@@ -1,8 +1,8 @@
 ---
-title: "Best Accounting Software for Freelancers in the Netherlands 2026"
+title: "Best Accounting Software Freelancers NL 2026"
 date: 2026-05-26T10:00:00+01:00
 lastmod: 2026-05-26T10:00:00+01:00
-description: "Comparing the best accounting software for expat freelancers and ZZPers in the Netherlands: Moneybird, Exact Online, e-Boekhouden, Jortt, and FreshBooks. Prices, English interfaces, BTW support, and when to hire a boekhouder instead."
+description: "Best accounting software for ZZP freelancers in the Netherlands: Moneybird, Exact Online, e-Boekhouden, and Jortt compared on price and BTW support."
 categories: ["work"]
 tags: ["accounting", "ZZP", "freelancer", "boekhouding", "Moneybird", "invoicing"]
 keywords: ["accounting software freelancer netherlands", "best bookkeeping software zzp", "moneybird vs exact freelancer", "invoicing software netherlands expat"]

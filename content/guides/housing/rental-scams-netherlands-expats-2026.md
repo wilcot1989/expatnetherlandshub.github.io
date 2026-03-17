@@ -1,5 +1,5 @@
 ---
-title: "Rental Scams in the Netherlands: How to Spot Them and Protect Yourself (2026)"
+title: "Rental Scams Netherlands: How to Stay Safe 2026"
 date: 2026-05-12T10:00:00+01:00
 lastmod: 2026-05-12T10:00:00+01:00
 description: "A detailed guide to the 8 most common rental scams targeting expats in the Netherlands in 2026 — with real examples, red flag checklists, and step-by-step advice on what to do if you've been defrauded."

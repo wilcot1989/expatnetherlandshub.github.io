@@ -1,9 +1,9 @@
 ---
-title: "Dutch Deregistration Guide 2026: How to Uitschrijven When Leaving the Netherlands"
+title: "Leaving the Netherlands: Deregistration Guide 2026"
 date: 2026-05-17T10:00:00+01:00
 lastmod: 2026-05-17
 type: "guide"
-description: "Step-by-step guide to deregistering from the Dutch BRP (uitschrijven) when leaving the Netherlands. Covers health insurance, tax return, zorgtoeslag, DigiD, pension, bank accounts, and a full departure timeline."
+description: "Step-by-step guide to Dutch BRP deregistration (uitschrijven): health insurance, tax return, DigiD, pension, bank accounts, and full departure timeline."
 categories: ["legal"]
 tags: ["deregistration", "uitschrijven", "leaving Netherlands", "emigration"]
 keywords: ["deregistration netherlands", "uitschrijven gemeente", "leaving netherlands checklist", "cancel dutch insurance leaving"]

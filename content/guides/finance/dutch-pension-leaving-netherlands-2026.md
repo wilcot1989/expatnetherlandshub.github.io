@@ -1,8 +1,8 @@
 ---
-title: "What Happens to Your Dutch Pension When You Leave the Netherlands (2026)"
+title: "Dutch Pension When Leaving Netherlands (2026)"
 date: 2026-05-20T10:00:00+01:00
 lastmod: 2026-05-20T10:00:00+01:00
-description: "What happens to your Dutch AOW state pension and occupational pension when you leave the Netherlands? AOW accrual, voluntary continuation, waardeoverdracht, tax rules, and concrete examples for 3, 5, and 10-year expats."
+description: "What happens to your Dutch AOW and occupational pension when you leave the Netherlands? Accrual, transfer rules, and examples for 3, 5, and 10-year expats."
 categories: ["finance"]
 tags: ["pension", "AOW", "leaving Netherlands", "retirement"]
 keywords: ["dutch pension leaving netherlands", "AOW expat leaving", "pension transfer netherlands", "what happens pension leave NL"]

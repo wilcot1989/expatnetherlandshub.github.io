@@ -1,5 +1,5 @@
 ---
-title: "Salary Negotiation in the Netherlands: An Expat's Complete Guide for 2026"
+title: "Salary Negotiation Netherlands: Expat Guide 2026"
 date: 2026-04-27T10:00:00+01:00
 lastmod: 2026-04-27T10:00:00+01:00
 description: "How to negotiate salary in the Netherlands as an expat. Average salaries by sector, gross vs net, the 30% ruling, what's negotiable, and scripts to use."
