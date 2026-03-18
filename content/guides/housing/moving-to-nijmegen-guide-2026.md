@@ -231,7 +231,7 @@ Our [Dutch health insurance guide](/guides/health/dutch-health-insurance-guide-e
 
 You cannot open most Dutch bank accounts without a BSN. Once you have it, the main options in Nijmegen are the major banks (ABN AMRO, ING, Rabobank, all with branches in the city) or a digital account. Many expats use a combination — a Dutch current account for local transactions and salaries, and **Wise** for international transfers and managing money across currencies.
 
-> **Wise for expats:** If you are sending money home, managing accounts in multiple currencies, or receiving a salary in euros while paying expenses abroad, Wise is one of the most cost-effective tools available. No hidden exchange rate markups, transparent fees, and direct integration with Dutch banking. [Open a Wise account](https://wise.com/invite/ihpc/willemt52).
+> **Wise for expats:** If you are sending money home, managing accounts in multiple currencies, or receiving a salary in euros while paying expenses abroad, Wise is one of the most cost-effective tools available. No hidden exchange rate markups, transparent fees, and direct integration with Dutch banking. <a href="https://wise.com/invite/ihpc/willemt52" target="_blank" rel="noopener nofollow sponsored">Open a Wise account</a>.
 
 Our [best bank accounts for expats in the Netherlands guide](/guides/finance/best-bank-account-expats-netherlands-2026/) compares all the main options in detail.
 
@@ -295,7 +295,7 @@ The **Wylerbergmeer** and **Reichswald** forest on the German border (20 minutes
 
 1. Register at **Gemeente Nijmegen** (Mariënburg, city centre) — this gives you your BSN. Our [BSN registration guide](/guides/legal/bsn-registration-guide-2026/) explains exactly what to bring
 2. Arrange [health insurance](/guides/health/dutch-health-insurance-guide-expats-2026/) — mandatory, and you need to sort it within days of registration
-3. Open a bank account. You need your BSN first. Set up [Wise](https://wise.com/invite/ihpc/willemt52) in parallel if you have overseas financial commitments
+3. Open a bank account. You need your BSN first. Set up <a href="https://wise.com/invite/ihpc/willemt52" target="_blank" rel="noopener nofollow sponsored">Wise</a> in parallel if you have overseas financial commitments
 4. Buy a bike. This is not optional. The second-hand market is active around the university
 
 ### First Month
@@ -338,6 +338,34 @@ If you are comparing Nijmegen against other Dutch cities:
 - **[Dutch health insurance guide](/guides/health/dutch-health-insurance-guide-expats-2026/)** — mandatory from day one, read this before you arrive
 - **[BSN registration guide](/guides/legal/bsn-registration-guide-2026/)** — your first administrative task after moving in
 - **[Best bank accounts for expats](/guides/finance/best-bank-account-expats-netherlands-2026/)** — how to manage your money in the Netherlands
+
+---
+
+## Frequently Asked Questions
+
+### Is Nijmegen a good city for expats?
+
+Nijmegen works very well for expats with a connection to Radboud University, Radboud UMC, NXP Semiconductors, or the Novio Tech Campus research cluster. It is the oldest city in the Netherlands with a relaxed, student-influenced atmosphere, genuinely affordable housing relative to Amsterdam or Utrecht, and good train links to the Randstad. The international community is smaller than in The Hague or Amsterdam but more cohesive, especially within the academic and medical sectors. English is widely spoken, particularly among the younger, university-connected population.
+
+### How much does rent cost in Nijmegen?
+
+Nijmegen is meaningfully cheaper than the major Randstad cities. Expect to pay €750-€1,050 per month for a one-bedroom apartment, €1,000-€1,500 for a two-bedroom, and €1,300-€1,900 for a three-bedroom house. Prices in Centrum and Bottendaal are at the higher end; Heyendaal near the university and the newer Lent district across the river offer good value for families. These figures are roughly 30-40% below Amsterdam and 15-20% below Utrecht.
+
+### What are the best neighbourhoods in Nijmegen for expats?
+
+The four main options are: Centrum (historic centre, walkable, vibrant, highest rents), Bottendaal (young professional favourite, canal-side streets, great local cafés), Heyendaal (directly adjacent to Radboud University and UMC, practical for academic and medical staff), and Lent (modern district north of the Waal river, family-friendly, newer housing). Most single expats and young professionals prefer Bottendaal or Centrum; families and those working at the university often choose Heyendaal or Lent.
+
+### How long is the commute from Nijmegen to Amsterdam or Utrecht?
+
+Nijmegen to Amsterdam Centraal takes approximately 1 hour 15 minutes by direct Intercity train, with services every 30 minutes. To Utrecht Centraal it is around 45-50 minutes; to Arnhem just 12-15 minutes, which makes Arnhem an easy destination for work or weekends. Nijmegen is not a practical daily commute to Amsterdam, but it is entirely manageable for weekly travel or regular meetings. The high-speed Intercity Direct and regular IC services make the connections reliable.
+
+### What are the main employers in Nijmegen?
+
+The two dominant employers are Radboud University Medical Centre (Radboud UMC), one of the Netherlands' top university hospitals with around 10,000 staff, and Radboud University itself. NXP Semiconductors has a significant R&D presence in Nijmegen — the city has been a core site for semiconductor development since the Philips era. Novio Tech Campus is an innovation cluster housing biomedical, tech, and materials science companies, many of which have spun out of Radboud research. Beyond these, there is a public sector, healthcare, and retail-service base typical of a regional city of this size.
+
+### What is the Vierdaagse and does it affect expats?
+
+The Vierdaagse — officially the International Four Days Marches Nijmegen — is the largest walking event in the world, held annually in mid-July. Around 50,000 walkers complete a four-day route of 30 to 50 kilometres per day through the Nijmegen countryside. The Vierdaagsefeesten, the accompanying street festival, runs for ten days and transforms the entire city centre into one of the largest outdoor festivals in Europe. For expats living in Nijmegen, it means: intense accommodation demand, a jubilant city atmosphere, and streets that are impossible to cycle through efficiently for two weeks. It is spectacular if you embrace it, disruptive if you are trying to move during that period. Avoid scheduling your relocation for the third week of July.
 
 ---
 

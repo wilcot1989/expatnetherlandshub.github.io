@@ -1,5 +1,5 @@
 ---
-title: "Moving to the Netherlands from the UK After Brexit 2026: Full Guide"
+title: "Moving to NL from UK Post-Brexit 2026"
 date: 2026-03-18T10:00:00+01:00
 lastmod: 2026-03-18T10:00:00+01:00
 description: "Complete post-Brexit guide for British expats moving to the Netherlands in 2026. Visa options, driving licence exchange, healthcare, banking, pension, and tax explained."
@@ -323,3 +323,33 @@ For banking: Wise provides UK sort code + Belgian IBAN in one account, which is 
 For gap health coverage during your first weeks before Dutch insurance starts:
 
 <a href="https://safetywing.com/nomad-insurance/?referenceID=26482728" target="_blank" rel="noopener nofollow sponsored" class="cta-affiliate">Check SafetyWing coverage →</a>
+
+## Frequently Asked Questions
+
+### Do British citizens need a visa to move to the Netherlands after Brexit?
+
+Yes. Since January 2021 when the Brexit transition period ended, British citizens are treated as third-country nationals for immigration purposes in the Netherlands. You are no longer entitled to free movement. The specific visa you need depends on why you are moving: DAFT (Dutch-American Friendship Treaty, which also applies to British nationals) for self-employment, an HSM (Highly Skilled Migrant) permit for employed work, or a partner/family visa if moving to join a Dutch or EU/EEA partner. You must apply before arriving — you cannot enter as a tourist and then change status.
+
+### Can a British citizen still exchange their UK driving licence for a Dutch one?
+
+Yes, but with conditions. The UK and Netherlands have a bilateral agreement allowing UK driving licence holders to exchange their licence for a Dutch one without retaking the driving test. The exchange must be done at the CBR (Centraal Bureau Rijvaardigheidsbewijzen) and you must be a Dutch resident. You need to complete the exchange within 10 years of receiving your UK licence. Note: you cannot drive on a UK licence indefinitely in the Netherlands — after 185 days of Dutch residency, you must either exchange it or hold a valid Dutch licence.
+
+### Is the European Health Insurance Card (EHIC) still valid for British expats in the Netherlands?
+
+No. British citizens' EHIC entitlement ended with Brexit. The UK issued a Global Health Insurance Card (GHIC) as a replacement for UK residents travelling to EU countries, but the GHIC is for UK residents travelling temporarily — it does not apply to British citizens who are residents in the Netherlands. As a British resident in the Netherlands, you are required to take out Dutch health insurance (basisverzekering) just like any other Dutch resident. The GHIC/EHIC gives you no rights in the country where you are a resident.
+
+### What happens to my UK state pension if I move to the Netherlands?
+
+Your UK state pension entitlement is preserved. National Insurance contributions you made in the UK continue to count toward your state pension entitlement, and you will receive your UK state pension when you reach UK state pension age. Since Brexit, UK state pension payments to the Netherlands are no longer uprated annually (unlike pensions paid to residents of the EU). This means if you move to the Netherlands before claiming your UK pension, the amount may be frozen at the rate applicable when you first become resident in the Netherlands. This is a significant financial consideration worth discussing with a pension specialist.
+
+### Can I keep my UK bank account after moving to the Netherlands?
+
+Possibly, but it is getting harder. Many UK banks have been closing or restricting accounts held by EU-resident British nationals since Brexit. The rules vary by bank: some allow it if you have had the account for many years, others require you to prove continued UK ties. Lloyds, Halifax, and Barclays have all sent account closure notices to some EU-resident customers at various points since 2021. Check with your specific UK bank. For Netherlands-based banking, Wise provides an excellent account that gives you both a British sort code and a Belgian IBAN — useful for maintaining financial connections to both countries.
+
+### How long can I stay in the Netherlands as a British tourist before needing a visa?
+
+British citizens can enter the Netherlands (and the broader Schengen area) without a visa for short stays of up to 90 days in any 180-day period. This is the standard Schengen tourist rule. After 90 days, you must either have a valid residence permit or leave. Working during a tourist stay is not permitted. If you plan to live and work in the Netherlands, you must obtain the appropriate residence permit before or shortly after arrival — overstaying the 90-day limit has serious consequences for future permit applications.
+
+### What is the DAFT visa and does it apply to British nationals?
+
+The Dutch-American Friendship Treaty (DAFT) was extended to cover British nationals as part of the Brexit negotiations — a specific arrangement that gives British self-employed people access to a route that many other third-country nationals do not have. The DAFT permit allows British citizens to establish or work in their own business in the Netherlands. Requirements include: a viable business plan, meeting a scoring system on various criteria (education, business plan quality, financial resources, value to the Netherlands), and sufficient personal finances to support yourself. The DAFT permit is one of the more accessible routes for British freelancers and small business owners.

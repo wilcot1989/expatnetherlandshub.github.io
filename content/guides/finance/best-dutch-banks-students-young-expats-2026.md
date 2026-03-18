@@ -185,7 +185,7 @@ Use Wise for international transfers and as a bridge account before your Dutch a
 
 **My take on the Wise affiliate relationship:** I include a Wise referral link here and earn a small commission if you sign up. I recommend it because I genuinely use it myself for transfers home and have done for years. But if you never send money internationally, the benefit is minimal.
 
-[Open a Wise account (no BSN required)](https://wise.com/invite/ihpc/willemt52)
+<a href="https://wise.com/invite/ihpc/willemt52" target="_blank" rel="noopener nofollow sponsored">Open a Wise account (no BSN required)</a>
 
 For more on Wise's features, see the [full Wise and international transfers guide](/guides/finance/best-international-money-transfer-netherlands-2026/) and the [best bank accounts for expats overview](/guides/finance/best-bank-account-expats-netherlands-2026/).
 
@@ -289,6 +289,32 @@ What you should not do: try to run your entire Dutch life on N26 or Wise alone. 
 
 For the complete picture of expat banking options beyond just student accounts, read the [best bank accounts for expats in the Netherlands](/guides/finance/best-bank-account-expats-netherlands-2026/). And if you are just arriving in the Netherlands as a student, the [student expat guide to the Netherlands](/guides/legal/student-expat-guide-netherlands-2026/) covers everything from BSN registration to housing — worth reading alongside this one.
 
-[Open a Wise account — no BSN required, free to set up](https://wise.com/invite/ihpc/willemt52)
+<a href="https://wise.com/invite/ihpc/willemt52" target="_blank" rel="noopener nofollow sponsored">Open a Wise account — no BSN required, free to set up</a>
 
 Also useful: the [bank account chooser tool](/tools/bank-account-chooser/) if you want to answer a few quick questions and get a personalised recommendation.
+
+## Frequently Asked Questions
+
+### Which bank is free for students in the Netherlands?
+
+ING offers a free current account for students and anyone under 28. ABN AMRO's Studentenpakket is free until age 30. Both require a BSN and proof of enrolment to activate the free tier. After the age limit, the account automatically switches to a standard paid account unless you cancel or switch.
+
+### Can I receive DUO student finance payments into a Wise or N26 account?
+
+No. DUO (Dienst Uitvoering Onderwijs) requires a Dutch IBAN starting with NL for all student loan and grant payments. N26 provides a German IBAN (DE), and while Wise gives you a European IBAN, it does not issue NL IBANs. You need an account with ING, ABN AMRO, Rabobank, or bunq to receive DUO payments.
+
+### Does N26 work in the Netherlands for everyday banking?
+
+N26 works for most daily purchases using the Mastercard debit card, and for receiving salary payments into a DE IBAN from most employers. However, N26 does not support iDEAL, which is the dominant Dutch online payment system. This means you cannot use it for many Dutch webshops, subscription payments, or government services. It is best used as a secondary account.
+
+### What is the best bank account for a student arriving from outside the EU?
+
+Open a Wise account before you travel — no BSN required and you get a European IBAN immediately. Once you have your BSN (usually within a week of registering at your municipality), open an ING or ABN AMRO student account for Dutch payments including DUO. Run both accounts in parallel: Wise for international transfers, ING or ABN AMRO for Dutch daily life.
+
+### Can I use bunq sub-accounts for student budgeting?
+
+Yes, and it works extremely well. bunq allows you to create up to 25 separate sub-accounts (called Money tabs) under one subscription. You can set up dedicated accounts for rent, groceries, going out, and savings — money sits physically in each account, not just in a virtual category. This is more effective than most budgeting apps because the separation is real.
+
+### Do Dutch banks offer overdraft facilities for students?
+
+ING and ABN AMRO both offer optional overdraft (rood staan) on student accounts, typically up to EUR 1,000 to EUR 1,500. The interest rate is usually around 12-14% per year, so use it only in genuine emergencies. bunq and N26 do not offer overdraft facilities. Wise accounts cannot go into a negative balance.
