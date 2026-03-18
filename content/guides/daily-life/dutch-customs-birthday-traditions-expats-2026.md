@@ -138,7 +138,7 @@ This is less strict now. Some Dutch people open gifts during the party; others s
 
 ## What Is an Appropriate Birthday Gift?
 
-Dutch birthday gift culture leans toward thoughtful and personal over impressive. The Dutch modesty code means expensive gifts can feel slightly awkward unless you know the person very well.
+Dutch birthday gift culture leans toward thoughtful and personal over impressive. The Dutch modesty code means expensive gifts can feel slightly awkward unless you know the person very well. For a broader look at Dutch social etiquette around giving and receiving, see our [Dutch social etiquette guide](/guides/integration/dutch-social-etiquette-expats-2026/).
 
 Common and well-received gifts:
 - Books, especially Dutch literature or books in the recipient's interest area
@@ -173,7 +173,7 @@ Other significant birthdays with special status in Dutch culture:
 
 Name days (**naamdagen**) exist in the Dutch Catholic calendar. Each day of the year is associated with a saint's name, and people with that name traditionally mark the day.
 
-However: **name days are largely irrelevant in modern Dutch life.** Unlike Poland, Hungary, or Greece where name days are celebrated similarly to birthdays, in the Netherlands the name day is barely acknowledged by most people. You may see it printed in diaries or mentioned by older Catholic families, but you will not be expected to know or celebrate name days as part of Dutch social life.
+However: **name days are largely irrelevant in modern Dutch life.** Unlike Poland, Hungary, or Greece where name days are celebrated similarly to birthdays, in the Netherlands the name day is barely acknowledged by most people. The main Dutch children's celebration is [Sinterklaas](/guides/daily-life/sinterklaas-guide-expats-2026/) in December — a very different occasion from a birthday. You may see it printed in diaries or mentioned by older Catholic families, but you will not be expected to know or celebrate name days as part of Dutch social life.
 
 If you come from a culture where name days are significant, your Dutch colleagues are unlikely to know or remember yours. Do not be offended — it is simply not part of Dutch social currency.
 
@@ -193,7 +193,7 @@ If you are invited to a Dutch home and see a birthday calendar in the WC, you ar
 
 ### New Year's (Oud en Nieuw)
 
-Dutch New Year's celebrations are intense compared to many countries. Fireworks are extremely loud and extensive — not just public displays but private fireworks in streets and gardens. Most Dutch people celebrate with family and close friends (kring), not large public parties. The oliebollen (fried dough balls with raisins, dusted with icing sugar) are essential — sold from street stalls from December onward and consumed enthusiastically. See our [Dutch holidays and traditions guide](/guides/daily-life/dutch-holidays-traditions-expat-guide-2026/) for all the seasonal celebrations.
+Dutch New Year's celebrations are intense compared to many countries. Fireworks are extremely loud and extensive — not just public displays but private fireworks in streets and gardens. Most Dutch people celebrate with family and close friends (kring), not large public parties. The oliebollen (fried dough balls with raisins, dusted with icing sugar) are a must — sold from street stalls from December onward and consumed enthusiastically. See our [Dutch holidays and traditions guide](/guides/daily-life/dutch-holidays-traditions-expat-guide-2026/) for all the seasonal celebrations.
 
 ### Wedding Anniversaries
 

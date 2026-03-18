@@ -98,7 +98,7 @@ Italy's Lavoratori Impatriati (incoming workers) regime provides a 50% income ta
 
 In southern Italian regions (Abruzzo, Molise, Campania, Puglia, Basilicata, Calabria, Sardinia, Sicily), the exemption increases to 70%.
 
-On paper, a 50% or 70% exemption sounds better than the Dutch 30% ruling. The reality is more complex: Italian income tax rates reach up to 43% at the top; the exemption applies to Italian-source income only; and the Italian tax system's complexity makes professional advice essential. For high earners, the Dutch 30% ruling on a higher absolute salary often produces better net income.
+On paper, a 50% or 70% exemption sounds better than the Dutch 30% ruling. The reality is more complex: Italian income tax rates reach up to 43% at the top; the exemption applies to Italian-source income only; and the Italian tax system's complexity makes professional advice necessary. For high earners, the Dutch 30% ruling on a higher absolute salary often produces better net income.
 
 Consult a dual-jurisdiction tax advisor before committing to either regime.
 
@@ -108,7 +108,7 @@ Consult a dual-jurisdiction tax advisor before committing to either regime.
 
 ### Netherlands
 
-Mandatory basic health insurance (basisverzekering); premium EUR 140-165/month in 2026. EUR 385 annual deductible. Comprehensive, efficient, with very good hospital care and near-universal GP access. English widely spoken in medical contexts. See our [Dutch healthcare guide](/guides/health/dutch-healthcare-system-explained-2026/).
+Mandatory basic health insurance (basisverzekering); premium EUR 140-165/month in 2026. EUR 385 annual deductible. Well-organised and efficient, with very good hospital care and near-universal GP access. English widely spoken in medical contexts. See our [Dutch healthcare guide](/guides/health/dutch-healthcare-system-explained-2026/).
 
 ### Italy
 

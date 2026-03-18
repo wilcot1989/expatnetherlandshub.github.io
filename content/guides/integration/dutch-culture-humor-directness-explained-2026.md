@@ -2,7 +2,7 @@
 title: "Dutch Culture & Humor Explained for Expats"
 date: 2026-03-18T10:00:00+01:00
 lastmod: 2026-03-18T10:00:00+01:00
-description: "Dutch directness and humor explained for expats: why Dutch people say exactly what they think, what doe maar gewoon means, and how Dutch social norms work."
+description: "Dutch directness and humor for expats: why Dutch people say exactly what they think, what doe maar gewoon means, and how Dutch social norms work."
 categories: ["integration"]
 tags: ["dutch culture", "directness", "humor", "social norms", "integration", "expat life"]
 keywords: ["dutch directness expats", "dutch culture humor explained", "why dutch people are so direct", "dutch social norms expats"]

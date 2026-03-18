@@ -295,7 +295,7 @@ If you are in a risk category, yes — the vaccine is updated annually to match 
 
 ### Are vaccines available in English at Dutch clinics?
 
-The vaccinations themselves are the same. Consultation and paperwork are typically in Dutch, but most GPs in international cities speak good English. In tourist-heavy areas, travel clinics often offer services in English. See our guide to [using Dutch healthcare in English](/guides/health/navigate-dutch-healthcare-english-2026/).
+The vaccinations themselves are the same. Consultation and paperwork are typically in Dutch, but most GPs in international cities speak good English. In tourist-heavy areas, travel clinics often offer services in English. See our [guide to Dutch healthcare in English](/guides/health/navigate-dutch-healthcare-english-2026/).
 
 ### What is the RIVM and what does it do?
 

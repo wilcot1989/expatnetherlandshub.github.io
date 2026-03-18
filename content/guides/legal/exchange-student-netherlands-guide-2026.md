@@ -155,7 +155,7 @@ The Netherlands has excellent public transport. As an exchange student, your mai
 
 EU students who receive DUO student finance may qualify for the student OV travel card — but most exchange students do not qualify (you need to be registered for DUO finance, which requires being an enrolled student or EU worker meeting the hours threshold, not just an exchange student). Load your own OV-chipkaart instead.
 
-Cycling is the other essential. Rent or buy a secondhand bike in the first week. A working secondhand bike costs EUR 80-150 and transforms your daily life. See our [cycling guide](/guides/daily-life/cycling-netherlands-expat-guide-2026/).
+Cycling is the other priority. Rent or buy a secondhand bike in the first week. A working secondhand bike costs EUR 80-150 and transforms your daily life. See our [cycling guide](/guides/daily-life/cycling-netherlands-expat-guide-2026/).
 
 ---
 
