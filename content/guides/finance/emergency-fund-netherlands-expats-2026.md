@@ -210,7 +210,7 @@ Set up a standing order (automatische incasso) from your current account to your
 
 ### Month 3-12: Core Emergency Fund
 
-Increase the buffer to 3 months of core expenses. Revisit your monthly budget and identify what you can redirect to savings. Dutch-style financial discipline — tracking every euro, minimising unnecessary subscriptions, cooking at home more — helps here.
+Increase the buffer to 3 months of core expenses. Revisit your monthly budget and identify what you can redirect to savings. Dutch-style financial discipline — tracking every euro, minimising unnecessary subscriptions, cooking at home more — helps here. One often-overlooked way to reduce monthly outgoings while building savings: check whether you qualify for Dutch government allowances. Many expats on lower or mid-range incomes are eligible for zorgtoeslag, huurtoeslag, or kinderopvangtoeslag without realising it. Our [guide to Dutch toeslagen for expats](/guides/finance/how-expats-claim-dutch-benefits-toeslagen-2026/) walks through who qualifies and how to apply.
 
 ### Year 1-2: Full Emergency Fund
 

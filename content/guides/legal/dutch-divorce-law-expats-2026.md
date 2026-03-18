@@ -166,6 +166,8 @@ For complex cases involving international assets, business interests, or pension
 
 ## Asset Division in an International Context
 
+One area closely connected to divorce that many expats overlook is inheritance planning. If you have not yet made a Dutch will, divorce is a critical moment to do so — your intestacy rights and those of any children change significantly after a marriage ends. The [Dutch inheritance law guide for expats](/guides/legal/dutch-inheritance-law-wills-expats-2026/) explains the default wettelijke verdeling rules and how to structure a will that reflects your wishes across multiple countries.
+
 ### The Dutch Matrimonial Property System
 
 Dutch matrimonial property law changed significantly on 1 January 2018.

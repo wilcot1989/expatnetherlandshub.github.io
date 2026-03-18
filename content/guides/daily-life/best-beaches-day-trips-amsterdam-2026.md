@@ -209,7 +209,7 @@ For destinations where cycling is part of the appeal — like the Zaanse Schans 
 
 Amsterdam in summer is one of my favourite places in the world. The city is warm, the canals are busy with boats, terraces spill out of every cafe, and the parks (Vondelpark especially) become social spaces in a way that only happens in warm climates.
 
-The [summer in the Netherlands guide](/guides/daily-life/summer-netherlands-expats-2026/) covers everything from the weather patterns to speak to festivals and bouwvak — required reading if you are new and want to understand what Dutch summer actually looks like in practice.
+The [summer in the Netherlands guide](/guides/daily-life/summer-netherlands-expats-2026/) covers everything from the weather patterns to speak to festivals and bouwvak — required reading if you are new and want to understand what Dutch summer actually looks like in practice. If beaches and day trips have whetted your appetite for getting outside, the [best outdoor activities in the Netherlands](/guides/daily-life/best-outdoor-activities-netherlands-summer-2026/) guide goes further — cycling routes, SUP, kayaking, hiking the Veluwe, kite surfing, and sailing, all covered with specific locations and practical details.
 
 If you are also considering which city to base yourself in while you are in the Netherlands, the [guide to the best cities for expats](/guides/housing/best-cities-netherlands-expats-2026/) and the [Amsterdam living guide](/guides/housing/moving-to-amsterdam-guide-2026/) have detailed comparisons of Amsterdam versus other Dutch cities.
 

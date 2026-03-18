@@ -207,6 +207,10 @@ The train connection to Germany (Münster, Dortmund) via the Hengelo-Gronau-Mün
 
 ---
 
+## Comparing Enschede to Other Affordable Dutch Cities
+
+Enschede is one of several mid-sized Dutch cities that offer a genuinely better quality-of-life-per-euro than the Randstad. If you are open to eastern Netherlands and want to compare, [Nijmegen](/guides/housing/moving-to-nijmegen-guide-2026/) is another strong option — slightly closer to the Randstad (1h15 to Amsterdam versus 1h45), with Radboud University and NXP as anchor employers, and similar housing affordability. The two cities attract different expat profiles: Enschede is more engineering and tech-focused via UT; Nijmegen skews academic-medical via Radboud UMC.
+
 ## Is Enschede Right For You?
 
 Enschede makes sense if you:

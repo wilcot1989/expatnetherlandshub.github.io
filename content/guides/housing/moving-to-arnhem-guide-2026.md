@@ -203,6 +203,10 @@ These two cities are 15 minutes apart by train and often come up together in exp
 
 If your employer is in Arnhem and you have any interest in fashion, design, or simply living next to a national park, Arnhem is the stronger choice. If you are at Radboud or NXP, or want a city with a stronger student-influenced café culture, Nijmegen edges it. See the [Nijmegen guide](/guides/housing/moving-to-nijmegen-guide-2026/) for the full comparison.
 
+## Understanding the Arnhem Housing Market
+
+The Arnhem rental market is more accessible than Amsterdam or Utrecht, but that does not mean it is simple. Competition for well-located properties in Sonsbeek and Klarendal is real, and the structural shortage that affects the whole country applies here too. Before you start viewing, read the [Dutch housing crisis explained for expats](/guides/housing/dutch-housing-crisis-explained-expats-2026/) — it covers the regulatory framework (including the 2024 Wet betaalbare huur changes) and practical strategies that actually work in a tight market.
+
 ## Practical Checklist for Moving to Arnhem
 
 Here is what the first few weeks look like in practice:

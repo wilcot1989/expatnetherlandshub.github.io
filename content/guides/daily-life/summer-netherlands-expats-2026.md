@@ -182,6 +182,8 @@ If you have not yet sorted your bike situation, summer is a good prompt. Read th
 
 The Dutch festival calendar in summer is packed and genuinely world-class. These are the four you should know.
 
+If you want a full breakdown of outdoor activities to plan your summer — from SUP and kayaking to hiking the Veluwe and beach sports on the North Sea coast — the [best outdoor activities in the Netherlands for summer 2026](/guides/daily-life/best-outdoor-activities-netherlands-summer-2026/) covers all the options with practical detail on where to go and how to get started.
+
 ### Pinkpop (June, Landgraaf)
 
 Pinkpop is the oldest pop music festival in the world (it first ran in 1970) and takes place in Landgraaf, near Maastricht in the south of the Netherlands. It is a three-day event over the Pentecost (Pinksteren) weekend in early June. The lineup typically mixes big international rock, pop, and electronic acts with Dutch talent. It is not a camping festival — most people stay in Maastricht or surrounding towns and travel in. Tickets sell out fast.

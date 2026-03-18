@@ -297,3 +297,5 @@ Independer is the Netherlands' leading comparison platform for health insurance 
 - [SVB: Kinderbijslag registration](https://www.svb.nl/nl/kinderbijslag)
 - [LRK: Find registered childcare](https://www.landelijkregisterkinderopvang.nl)
 - [Independer: Health insurance comparison](https://www.independer.nl/zorgverzekering/intro.aspx)
+
+Toeslagen work best as part of a broader financial safety net. If you are building your financial foundations in the Netherlands — including an emergency fund to cover unexpected costs — the [emergency fund guide for expats](/guides/finance/emergency-fund-netherlands-expats-2026/) is a useful next read. Receiving the right toeslagen and maintaining a cash buffer together significantly reduce your financial vulnerability as an expat.

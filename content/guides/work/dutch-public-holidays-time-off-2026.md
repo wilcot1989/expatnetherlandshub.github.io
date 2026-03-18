@@ -217,7 +217,7 @@ A few things stand out from this comparison:
 
 The Dutch package — 25 days + 11 public holidays + 8% vakantiegeld — is genuinely one of the stronger setups in Europe. When you add the brugdag culture and the widespread acceptance of part-time work, the work-life balance on offer here is difficult to match.
 
-Understanding [Dutch work culture](/guides/work/dutch-work-culture-guide-expats-2026/) more broadly will help you make the most of these benefits without feeling out of step with your Dutch colleagues.
+Understanding [Dutch work culture](/guides/work/dutch-work-culture-guide-expats-2026/) more broadly will help you make the most of these benefits without feeling out of step with your Dutch colleagues. Beyond public holidays, there are other forms of leave worth understanding — including maternity and paternity leave, which interact with the holiday entitlement system in specific ways. The [maternity and paternity leave guide for the Netherlands](/guides/work/maternity-paternity-leave-netherlands-expats-2026/) covers how parental leave works alongside your regular vacation days and what happens to vakantiegeld accrual during leave periods.
 
 ---
 

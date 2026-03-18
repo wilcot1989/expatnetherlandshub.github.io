@@ -221,6 +221,8 @@ Review your will after:
 - Significant change in assets
 - Death of a beneficiary named in the will
 
+Divorce in particular triggers an urgent need to revisit both your will and your overall estate plan. If you are going through a separation, the [Dutch divorce law guide for expats](/guides/legal/dutch-divorce-law-expats-2026/) covers the legal process, asset division under Dutch matrimonial property law, and the international complications that affect expats specifically.
+
 ### Register in the CTR
 
 Your notaris registers your will automatically. If you have a foreign will that you want to be traceable in the Netherlands, ask a Dutch notaris whether it can be referenced in Dutch records.

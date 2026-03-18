@@ -25,7 +25,7 @@ faq:
     a: "The Dutch coast offers beach volleyball, kite surfing (strandzeilen), windsurfing, kiteboarding, beach football, beach tennis, and paddleboarding. The coast around Scheveningen, Zandvoort, Bloemendaal, Bergen aan Zee, and Domburg (Zeeland) has strong beach sports scenes. Kite surfing is particularly strong at spots like Scheveningen and Brouwersdam where winds are reliable."
 ---
 
-I grew up hearing that the Netherlands is flat, grey, and not particularly good for outdoor activities. I have spent over a decade proving that wrong. The Dutch summer — when it shows up, which it increasingly does — can be genuinely spectacular, and the country's outdoor infrastructure is among the best in Europe for its size.
+I grew up hearing that the Netherlands is flat, grey, and not particularly good for outdoor activities. I have spent over a decade proving that wrong. The Dutch summer — when it shows up, which it increasingly does — can be genuinely spectacular, and the country's outdoor infrastructure is among the best in Europe for its size. If you are still new to Dutch summer life, the [summer in the Netherlands guide for expats](/guides/daily-life/summer-netherlands-expats-2026/) is a good companion to this one — it covers the weather patterns, terras culture, bouwvak, and practical tips for making the most of the season before you dive into specific activities.
 
 From stand-up paddleboarding on Amsterdam's canals at sunrise to hiking the heathlands of the Veluwe, from kite surfing off Scheveningen to cycling through tulip fields in May — this is a country that rewards those who go outside and explore it.
 

@@ -27,7 +27,7 @@ faq:
     a: "ABN AMRO and ING have dedicated international teams with experience in expat mortgage applications. Rabobank is strong in many regions but less specialised for international cases. Several specialist mortgage advisors (hypotheekadviseurs) work specifically with expats and know which lenders are flexible on foreign income, temporary contracts, and 30% ruling calculations. Independer can connect you with advisors experienced in expat cases."
 ---
 
-Buying a home in the Netherlands as an expat is one of the most financially significant — and practically complex — things you can do here. The Dutch mortgage market is large, reasonably competitive, and in theory open to anyone with sufficient income. In practice, foreign income, temporary contracts, and international complexity create real obstacles that trip up many expats who think they have sorted their finances only to be rejected at the final stage.
+Buying a home in the Netherlands as an expat is one of the most financially significant — and practically complex — things you can do here. The Dutch mortgage market is large, reasonably competitive, and in theory open to anyone with sufficient income. In practice, foreign income, temporary contracts, and international complexity create real obstacles that trip up many expats who think they have sorted their finances only to be rejected at the final stage. Understanding the broader housing market context is also useful — the [Dutch housing crisis explained for expats](/guides/housing/dutch-housing-crisis-explained-expats-2026/) covers why properties sell quickly and how the regulatory framework affects what you can buy and borrow.
 
 I have helped expat clients through the Dutch mortgage process more times than I can count. Here is what I know, as of mid-2026.
 
@@ -238,7 +238,7 @@ The transfer of property and mortgage takes place at a Dutch notaris. The notary
 
 **3. Not registering in the Netherlands.** Most lenders require you to be formally registered as a resident (BRP registration). If you have been living here without registering, sort this first.
 
-**4. Ignoring the 30% ruling expiry.** If your ruling expires in 2 years, a lender may reduce your maximum mortgage based on post-ruling taxable income. Plan your purchase timing accordingly.
+**4. Ignoring the 30% ruling expiry.** If your ruling expires in 2 years, a lender may reduce your maximum mortgage based on post-ruling taxable income. Plan your purchase timing accordingly. If you are still deciding whether the 30% ruling significantly changes your financial picture, the [30% ruling analysis for 2026](/guides/finance/30-percent-ruling-still-worth-it-2026/) breaks down exactly how much the ruling saves at different salary levels and how the step-down affects long-term planning.
 
 **5. Assuming the process takes days.** A Dutch mortgage application typically takes 4-8 weeks from application to offer. The full process from first viewing to key handover can take 3-6 months.
 

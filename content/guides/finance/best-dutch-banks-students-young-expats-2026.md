@@ -269,7 +269,7 @@ After helping hundreds of students through this decision, here is what I actuall
 
 **Not using Wise for money from home:** If your parents send you EUR 500 from the UK or US every month, the difference between a bank transfer and Wise over a year can be EUR 100-200. That is two months of groceries.
 
-For more tips on managing your finances as an expat, see the [best finance apps for expats in the Netherlands](/guides/finance/best-finance-apps-expats-netherlands-2026/) and the full [ING vs ABN AMRO comparison for expats](/guides/finance/ing-vs-abn-amro-expats-2026/).
+For more tips on managing your finances as an expat, see the [best finance apps for expats in the Netherlands](/guides/finance/best-finance-apps-expats-netherlands-2026/) and the full [ING vs ABN AMRO comparison for expats](/guides/finance/ing-vs-abn-amro-expats-2026/). Once you are comfortable with your Dutch account, you will likely need a way to send money internationally or receive it from abroad — the [Wise vs Revolut vs bunq comparison](/guides/finance/wise-vs-revolut-vs-bunq-expats-2026/) explains which tool handles international transfers most cost-effectively alongside your primary Dutch account.
 
 ---
 

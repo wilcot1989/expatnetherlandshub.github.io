@@ -162,6 +162,8 @@ Understanding the crisis structurally is useful. Here is what it means practical
 
 ## Renting vs Buying in This Market
 
+For expats planning to stay more than 3-5 years, buying begins to compete with renting economically. If you are seriously considering purchasing a property, the complexities do not end with finding a home — the mortgage process for expats involves its own set of challenges around foreign income, the 30% ruling, and currency considerations. The [Dutch mortgage guide for expats with foreign income](/guides/finance/mortgage-foreign-income-netherlands-2026/) covers which lenders are most flexible for international buyers and how much of a difference the right advisor makes.
+
 For expats planning to stay more than 3-5 years, buying begins to compete with renting economically — particularly given that rents in the free sector are high and buying provides certainty of housing costs through mortgage payments.
 
 The [buying vs renting in the Netherlands guide](/guides/housing/buying-vs-renting-netherlands-expats-2026/) covers this comparison in detail. The short version: buying makes more financial sense the longer you plan to stay, but requires a stable income, a minimum 10% deposit plus costs, and the ability to get a Dutch mortgage. The [HousingAnywhere vs Kamernet vs Funda comparison](/guides/housing/housingAnywhere-vs-kamernet-vs-funda-2026/) covers the main platforms for both buying and renting.

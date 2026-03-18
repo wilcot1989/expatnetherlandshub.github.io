@@ -85,7 +85,7 @@ In practice, this means an effective tax rate 10–15 percentage points lower th
 
 France has no equivalent for most expats. The *régime des impatriés* (impatriate regime) offers some relief on expat bonuses and specific international income, but it is significantly harder to qualify for and less generous for most professionals. This is perhaps the single biggest financial advantage the Netherlands has over France for internationally mobile workers.
 
-For the full rules and application process, the [30% ruling guide](/guides/finance/30-percent-ruling-netherlands-2026/) covers everything you need to know.
+The ruling has been reformed since 2024, now phasing down in a 30/20/10% step-down over the five-year period rather than remaining a flat 30%. The [30% ruling analysis for 2026](/guides/finance/30-percent-ruling-still-worth-it-2026/) gives an honest breakdown of what the ruling actually saves after the reform and whether it still tips the balance in the Netherlands' favour.
 
 ### Dutch Taxes in Detail
 

@@ -330,6 +330,7 @@ I try to give clients a clear picture of what they are actually choosing, not a 
 If you are comparing Nijmegen against other Dutch cities:
 
 - **[Nijmegen city overview](/cities/nijmegen/)** — quick facts and key links
+- **[Moving to Arnhem](/guides/housing/moving-to-arnhem-guide-2026/)** — Nijmegen's nearest neighbour, just 15 minutes by train, with direct Veluwe access and a different employer base (Engie, Arcadis, fashion/design sector)
 - **[Moving to Utrecht](/guides/housing/moving-to-utrecht-guide-2026/)** — more central, more expensive, strong university city
 - **[Moving to Eindhoven](/guides/housing/moving-to-eindhoven-guide-2026/)** — tech sector focus, ASML, similar affordability
 - **[Best cities for expats in the Netherlands](/guides/housing/best-cities-netherlands-expats-2026/)** — full comparison across all major Dutch cities

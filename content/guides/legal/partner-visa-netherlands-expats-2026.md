@@ -216,6 +216,8 @@ Within the MVV's validity period (90 days), your partner must apply for the actu
 
 Once your partner has arrived and converted their MVV to a residence permit:
 
+**Work rights:** Your partner's residence permit for family reunification gives them the right to work in the Netherlands without requiring a separate work permit. If you are curious about the broader landscape of Dutch work permits for non-EU nationals — including the highly skilled migrant visa that you may already hold — the [Netherlands work permit guide for non-EU nationals](/guides/legal/netherlands-work-permit-non-eu-2026/) covers how the different permit types interact.
+
 **BSN registration:** Register at your local gemeente within 5 days. Both of you must be present at the appointment. Your partner will receive a BSN. For details on this process, see the [BSN registration guide](/guides/legal/bsn-registration-guide-2026/).
 
 **Health insurance:** Your partner must take out a Dutch zorgverzekering. This is mandatory for all residents. Read the [Dutch health insurance guide for expats](/guides/health/dutch-health-insurance-guide-expats-2026/) to understand the system and how to choose a provider.

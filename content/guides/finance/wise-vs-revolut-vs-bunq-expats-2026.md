@@ -222,6 +222,8 @@ Note: bunq is the most expensive of the three for its primary plan. You are payi
 
 **Not suitable for:** Cheap international transfers, use before you have a BSN, travel if cost is a concern.
 
+If you are specifically a student or young expat weighing bunq against the free traditional bank options, the [best bank accounts for students and young expats guide](/guides/finance/best-dutch-banks-students-young-expats-2026/) compares bunq's sub-account features against ING's free student account and ABN AMRO's Young Banking package in more detail.
+
 ---
 
 ## Feature Comparison Table

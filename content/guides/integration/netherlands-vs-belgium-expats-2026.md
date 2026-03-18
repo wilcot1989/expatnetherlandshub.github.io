@@ -55,7 +55,7 @@ Belgium does offer an expat tax regime — the **Special Tax Status for Foreign 
 
 ### The Netherlands: 30% Ruling
 
-The Netherlands offers the **30% ruling** (30%-regeling) for highly skilled migrants. This allows your employer to pay 30% of your gross salary as a tax-free allowance — though from 2024, this phases down to 27% and then 20% over a 5-year period (see the dedicated 30% ruling article for full details).
+The Netherlands offers the **30% ruling** (30%-regeling) for highly skilled migrants. This allows your employer to pay 30% of your gross salary as a tax-free allowance — though from 2024, this phases down in a 30/20/10% step-down over a 5-year period. For a detailed breakdown of what the ruling actually saves at different salary levels, and an honest assessment of whether it is still worth it after the 2024 reform, see the [30% ruling analysis for 2026](/guides/finance/30-percent-ruling-still-worth-it-2026/).
 
 The Dutch standard income tax rates: 36.97% on income up to €75,518, and 49.50% above that threshold (2026 figures). Without the 30% ruling, the Dutch tax burden is substantial but below Belgian levels.
 
@@ -263,6 +263,10 @@ The honest answer is: **it depends on your employer, your tax situation, and you
 If you are still weighing options and need to manage money across borders while you decide, a Wise multi-currency account is a practical first step regardless of which country you choose.
 
 ---
+
+## See Also
+
+If the Netherlands is your preferred choice and you are comparing it against other European destinations beyond Belgium, the [Netherlands vs France comparison](/guides/integration/netherlands-vs-france-expats-2026/) covers a similarly detailed analysis across tax, housing, work culture, and quality of life.
 
 ## Useful Resources
 

@@ -209,7 +209,7 @@ Thinking about other options in the region? Here is a quick comparison:
 | **Train to Amsterdam** | 1h25 | 1h15 | 1h05 | 1h10 |
 | **Atmosphere** | University + industrial heritage | High-tech, cosmopolitan | Historic, compact | Relaxed, port city |
 
-For a full comparison of Dutch cities for expats, see our [best cities guide](/guides/housing/best-cities-netherlands-expats-2026/) and the [moving to Nijmegen guide](/guides/housing/moving-to-nijmegen-guide-2026/) for another well-priced Brabant alternative with a different character.
+For a full comparison of Dutch cities for expats, see our [best cities guide](/guides/housing/best-cities-netherlands-expats-2026/). If you are drawn to the combination of affordability, green surroundings, and a different kind of university city, [Arnhem](/guides/housing/moving-to-arnhem-guide-2026/) is worth considering — it has a comparable cost of living to Tilburg, direct access to the Veluwe national park, and a distinctive creative identity via ArtEZ University of the Arts. And the [moving to Nijmegen guide](/guides/housing/moving-to-nijmegen-guide-2026/) covers another well-priced alternative with a stronger medical-academic focus.
 
 ## Is Tilburg Right for You?
 

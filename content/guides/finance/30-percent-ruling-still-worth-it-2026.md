@@ -245,10 +245,14 @@ The ruling matters most:
 - When your employer adds it on top of your gross package (not absorbed)
 - When combined with partial non-resident status for foreign income
 
+One practical implication worth noting: the ruling significantly boosts your mortgage capacity in the first 20 months. If you are thinking about buying property, the [Dutch mortgage guide for expats with foreign income](/guides/finance/mortgage-foreign-income-netherlands-2026/) explains how lenders treat the 30% allowance in their calculations — the difference can be €100,000+ in borrowing capacity depending on which bank you approach.
+
 The ruling matters least:
 - Near the minimum threshold
 - In months 41-60 (the 10% phase)
 - When structured as salary redistribution rather than genuine addition
+
+Building a financial cushion alongside the ruling makes sense — the savings are real but the ruling ends after five years, and Dutch expenses (including rent, healthcare, and unexpected costs) do not pause. Our [emergency fund guide for expats in the Netherlands](/guides/finance/emergency-fund-netherlands-expats-2026/) walks through how much to set aside and where to keep it while still getting decent interest.
 
 If you are negotiating a move to the Netherlands and the ruling is central to your financial plan, get proper advice. Use Wise to model the actual after-tax income in EUR, compare it honestly with what you earn at home, and make a decision based on the current stepped system — not on articles that describe the old flat 30% regime.
 
