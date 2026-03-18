@@ -27,7 +27,7 @@ faq:
     a: "The €4,500 stays in your Dutch business bank account as working capital. It does not get paid to any authority — it is your money. The IND needs to see that it is there and available. You can use the business account normally as your business operates, but the working capital needs to be demonstrable at the time of application and at renewals."
 ---
 
-The Dutch-American Friendship Treaty is one of the most accessible routes for American entrepreneurs who want to move to the Netherlands and run their own business. It does not require a Dutch employer, a minimum salary, or a degree. It requires a business plan, a KvK registration, and €4,500 of working capital. If you are a US citizen with a real business idea and the willingness to navigate Dutch bureaucracy, this visa is achievable.
+The Dutch-American Friendship Treaty is one of the most accessible routes for American entrepreneurs who want to move to the Netherlands and run their own business. It does not require a Dutch employer, a minimum salary, or a degree. It requires a business plan, a KvK registration, and €4,500 of working capital. If you are a US citizen with a real business idea and the willingness to deal with Dutch bureaucracy, this visa is achievable.
 
 I have helped several American clients through this process, and the most common mistake I see is underestimating the preparation required before submitting. The IND scrutinises DAFT applications carefully, particularly the business plan. Getting that right — and understanding what "real business activities" means to a Dutch immigration officer — makes the difference between approval and a long back-and-forth.
 
@@ -159,7 +159,7 @@ The permit is initially issued for two years. You renew for subsequent two-year 
 - Use the visa for passive investment without substantive business activity
 - Register a dormant or shell company without genuine operations
 
-**Grey area to be careful about:** Functioning essentially as a permanent contractor for a single client that controls your work schedule and methods. Dutch tax authorities (and the IND at renewal) may reclassify this as disguised employment, which affects both your tax position and your visa. The [freelancer/ZZP guide](/guides/work/freelancer-zzp-guide-netherlands-2026/) covers the Dutch "false self-employment" issue in detail — worth reading before you structure your working arrangements.
+**Grey area to be careful about:** Functioning mainly as a permanent contractor for a single client that controls your work schedule and methods. Dutch tax authorities (and the IND at renewal) may reclassify this as disguised employment, which affects both your tax position and your visa. The [freelancer/ZZP guide](/guides/work/freelancer-zzp-guide-netherlands-2026/) covers the Dutch "false self-employment" issue in detail — worth reading before you structure your working arrangements.
 
 ---
 

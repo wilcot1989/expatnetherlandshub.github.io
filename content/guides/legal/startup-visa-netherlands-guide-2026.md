@@ -163,7 +163,7 @@ The IND has 90 days to decide on residence permit applications. Processing is ty
 
 On arrival (or after receiving your permit if already in the Netherlands legally):
 
-1. Register at your gemeente (municipality) within five days. You receive your BSN — essential for everything that follows.
+1. Register at your gemeente (municipality) within five days. You receive your BSN — needed for everything that follows.
 2. Open a Dutch business bank account. The [ZZP business bank guide](/guides/finance/dutch-business-bank-account-zzp-2026/) covers options for newly registered companies.
 3. Arrange Dutch health insurance. As a legal resident, you are required to take out Dutch basic health insurance (basisverzekering). See the [Dutch health insurance guide for expats](/guides/health/dutch-health-insurance-guide-expats-2026/).
 
