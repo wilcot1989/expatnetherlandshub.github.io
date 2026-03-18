@@ -169,7 +169,7 @@ For expats in the Netherlands generally, English fluency is extraordinarily high
 
 ### Turkish Language
 
-Turkey has a single national language (Turkish) with minimal regional variation. English proficiency in Turkish cities has improved significantly, particularly in Istanbul's business districts and expat-heavy neighbourhoods. However, outside tourism-heavy areas and international business environments, English-only life in Turkey is noticeably harder than in the Netherlands. Learning at least basic Turkish greatly improves daily life quality and is essential for navigating bureaucracy.
+Turkey has a single national language (Turkish) with minimal regional variation. English proficiency in Turkish cities has improved significantly, particularly in Istanbul's business districts and expat-heavy neighbourhoods. However, outside tourism-heavy areas and international business environments, English-only life in Turkey is noticeably harder than in the Netherlands. Learning at least basic Turkish greatly improves daily life quality and is important for dealing with bureaucracy.
 
 ---
 
