@@ -103,7 +103,7 @@ Do this before you get on the plane, or on the day you land. It solves the iDEAL
 
 The whole process takes between 10 and 30 minutes. Verification is usually instant but can occasionally take up to 24 hours.
 
-<a href="https://wise.com/invite/ihpc/willemt52" class="cta-affiliate" rel="nofollow sponsored" target="_blank">Open Your Wise Account in Minutes →</a>
+<a href="https://wise.com/invite/ihpc/willemt52" class="cta-affiliate" rel="noopener nofollow sponsored" target="_blank">Open Your Wise Account in Minutes →</a>
 
 Your Wise IBAN works for receiving a salary and setting up direct debits. It is not a full Dutch bank account in the traditional sense — you do not get a Dutch bank app experience, overdraft facilities, or a local branch — but for your first weeks in the country, it is exactly what you need.
 
@@ -207,7 +207,7 @@ The short answer: you cannot open an account at ING, ABN AMRO, or Rabobank witho
 
 You do not need to add any money to activate the IBAN. The account is free. A physical debit card is optional and costs a small one-time fee.
 
-<a href="https://wise.com/invite/ihpc/willemt52" class="cta-affiliate" rel="nofollow sponsored" target="_blank">Get Your European IBAN with Wise — No BSN Needed →</a>
+<a href="https://wise.com/invite/ihpc/willemt52" class="cta-affiliate" rel="noopener nofollow sponsored" target="_blank">Get Your European IBAN with Wise — No BSN Needed →</a>
 
 **What Wise cannot do** without a BSN: it is not a full Dutch bank account. You will not be able to apply for a Dutch mortgage, get a Dutch overdraft facility, or use some iDEAL integrations that explicitly require a traditional Dutch bank. For day-to-day payments, rent, and salary, it is sufficient.
 
@@ -243,9 +243,9 @@ The pre-arrival window is your most stressful financial moment. You have a signe
 
 ### What you can open from abroad
 
-**Wise** is the most straightforward option for opening from abroad. There are no geographic restrictions — you can sign up from the UK, India, the US, anywhere. The identity verification is entirely online. Once your account is active and your EUR details are enabled, you have a working European IBAN you can share immediately.
+**Wise** is the easiest option for opening from abroad. There are no geographic restrictions — you can sign up from the UK, India, the US, anywhere. The identity verification is entirely online. Once your account is active and your EUR details are enabled, you have a working European IBAN you can share immediately.
 
-<a href="https://wise.com/invite/ihpc/willemt52" class="cta-affiliate" rel="nofollow sponsored" target="_blank">Open Wise Before You Fly →</a>
+<a href="https://wise.com/invite/ihpc/willemt52" class="cta-affiliate" rel="noopener nofollow sponsored" target="_blank">Open Wise Before You Fly →</a>
 
 **Bunq** allows remote sign-up for EU/EEA citizens. If you are moving from within the EU and want a Dutch NL IBAN from day one, bunq is the best pre-arrival option.
 
@@ -358,7 +358,7 @@ For most non-residents, <a href="https://wise.com/invite/ihpc/willemt52" target=
 
 Wise does not require a Dutch address, a Dutch BSN, or any Dutch documentation. It is available to residents of over 180 countries.
 
-<a href="https://wise.com/invite/ihpc/willemt52" class="cta-affiliate" rel="nofollow sponsored" target="_blank">Open a Wise Account as a Non-Resident →</a>
+<a href="https://wise.com/invite/ihpc/willemt52" class="cta-affiliate" rel="noopener nofollow sponsored" target="_blank">Open a Wise Account as a Non-Resident →</a>
 
 ### Revolut for non-residents
 

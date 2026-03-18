@@ -38,7 +38,7 @@ New to the Netherlands? Start with our [complete expat guide](/guides/legal/comp
 
 ## Can Foreigners Get a Mortgage in the Netherlands?
 
-**Yes — and more straightforwardly than most expats expect.** Dutch mortgage lenders do not discriminate based on nationality. What they do care about is your legal status, income stability, and credit history in the Netherlands. Here is the direct answer to the most common questions I get from clients.
+**Yes — and more easily than most expats expect.** Dutch mortgage lenders do not discriminate based on nationality. What they do care about is your legal status, income stability, and credit history in the Netherlands. Here is the direct answer to the most common questions I get from clients.
 
 ### Nationality Is Not the Barrier — Legal Status Is
 
@@ -273,7 +273,7 @@ You can deduct mortgage interest from your taxable income for up to 30 years:
 
 ## Divorce and Your Dutch Mortgage
 
-Nobody buys a house thinking about divorce, but for expat couples this is a topic worth understanding upfront — because the interaction between a Dutch mortgage, property ownership, and immigration status is more complicated than for Dutch nationals. I have helped several clients navigate this, and the key lesson is: plan early, act quickly.
+Nobody buys a house thinking about divorce, but for expat couples this is a topic worth understanding upfront — because the interaction between a Dutch mortgage, property ownership, and immigration status is more complicated than for Dutch nationals. I have helped several clients work through this, and the key lesson is: plan early, act quickly.
 
 ### What Happens to the Mortgage When You Separate
 
@@ -333,7 +333,7 @@ Contact the NHG foundation (nhg.nl) directly in a divorce situation — they hav
 
 ### Money Transfers for Down Payment
 
-If you are transferring savings from abroad for your down payment or additional costs, use <a href="https://wise.com/invite/ihpc/willemt52" rel="nofollow sponsored" target="_blank">Wise</a> to get the real exchange rate. Banks typically add 2-5% in hidden markups on large transfers — on a €20,000 transfer, that could cost you €400-€1,000.
+If you are transferring savings from abroad for your down payment or additional costs, use <a href="https://wise.com/invite/ihpc/willemt52" rel="noopener nofollow sponsored" target="_blank">Wise</a> to get the real exchange rate. Banks typically add 2-5% in hidden markups on large transfers — on a €20,000 transfer, that could cost you €400-€1,000.
 
 ## Tools for Expat Buyers
 

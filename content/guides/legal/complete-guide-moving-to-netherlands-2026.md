@@ -136,15 +136,15 @@ Health insurance is **mandatory** for everyone living and working in the Netherl
 
 The basic package is standardized by the government and covers key medical care, including GP visits, hospital care, prescription medication, and mental health care. Premiums in 2026 range from approximately EUR 140-175 per month.
 
-You can also opt for supplementary insurance (aanvullende verzekering) for things like dental care, physiotherapy, and alternative medicine. Use <a href="https://www.awin1.com/cread.php?awinmid=8558&awinaffid=2776410&ued=https%3A%2F%2Fwww.independer.nl%2Fzorgverzekering" rel="nofollow sponsored" target="_blank">Independer.nl</a> to compare policies from all major Dutch insurers.
+You can also opt for supplementary insurance (aanvullende verzekering) for things like dental care, physiotherapy, and alternative medicine. Use <a href="https://www.awin1.com/cread.php?awinmid=8558&awinaffid=2776410&ued=https%3A%2F%2Fwww.independer.nl%2Fzorgverzekering" rel="noopener nofollow sponsored" target="_blank">Independer.nl</a> to compare policies from all major Dutch insurers.
 
 For a detailed breakdown of Dutch insurers, coverage options, and how to choose the right policy, read our [complete guide to Dutch health insurance for expats](/guides/health/dutch-health-insurance-guide-expats-2026/).
 
 ### Temporary Coverage Before Registration
 
-If you have just arrived and are not yet eligible for Dutch health insurance, or if you are waiting for your BSN, consider temporary international health coverage through <a href="https://safetywing.com/nomad-insurance/?referenceID=26482728&utm_source=26482728&utm_medium=Ambassador" rel="nofollow sponsored" target="_blank">SafetyWing</a>. SafetyWing offers flexible monthly plans designed for expats and digital nomads, starting from around USD 45 per month. It provides solid coverage while you sort out your Dutch registration.
+If you have just arrived and are not yet eligible for Dutch health insurance, or if you are waiting for your BSN, consider temporary international health coverage through <a href="https://safetywing.com/nomad-insurance/?referenceID=26482728&utm_source=26482728&utm_medium=Ambassador" rel="noopener nofollow sponsored" target="_blank">SafetyWing</a>. SafetyWing offers flexible monthly plans designed for expats and digital nomads, starting from around USD 45 per month. It provides solid coverage while you sort out your Dutch registration.
 
-<a href="https://safetywing.com/nomad-insurance/?referenceID=26482728&utm_source=26482728&utm_medium=Ambassador" class="cta" rel="nofollow sponsored" target="_blank">Get SafetyWing Temporary Health Coverage from $45/month</a>
+<a href="https://safetywing.com/nomad-insurance/?referenceID=26482728&utm_source=26482728&utm_medium=Ambassador" class="cta-affiliate" rel="noopener nofollow sponsored" target="_blank">Get SafetyWing Temporary Health Coverage from $45/month</a>
 
 ---
 
@@ -163,7 +163,7 @@ Before you even leave your home country, set up a <a href="https://wise.com/invi
 
 Once you have your BSN, you can open an account at a traditional Dutch bank like ING, ABN AMRO, or Rabobank, or stay with a modern bank like Bunq or N26. For a full comparison, see my guide to the [best bank accounts for expats in the Netherlands](/guides/finance/best-bank-account-expats-netherlands-2026/).
 
-<a href="https://wise.com/invite/ihpc/willemt52" class="cta" rel="nofollow sponsored" target="_blank">Open Your Free Wise Account Before You Move</a>
+<a href="https://wise.com/invite/ihpc/willemt52" class="cta-affiliate" rel="noopener nofollow sponsored" target="_blank">Open Your Free Wise Account Before You Move</a>
 
 ---
 
@@ -417,7 +417,7 @@ For the complete step-by-step process, required documents, and country-specific 
 
 ## Bringing Your Car to the Netherlands
 
-Bringing your own car from abroad is often straightforward in theory and consistently more complicated in practice. Here is what actually happens and what it costs.
+Bringing your own car from abroad is often simple in theory and consistently more complicated in practice. Here is what actually happens and what it costs.
 
 ### The BPM Tax
 
@@ -543,6 +543,6 @@ Moving to the Netherlands is a big step, but the country rewards those who make 
 
 The key to a smooth transition is preparation. Handle your visa and housing early, register at your gemeente as soon as possible, and set up your key services — banking, insurance, phone, and transport — in the first two weeks. And if circumstances change and you find yourself planning to leave, our [leaving the Netherlands checklist](/guides/legal/leaving-netherlands-expat-checklist-2026/) covers every step from deregistration to your final tax return.
 
-For banking, start with <a href="https://wise.com/invite/ihpc/willemt52" target="_blank" rel="noopener nofollow sponsored">Wise</a> before you arrive. For temporary health coverage, consider <a href="https://safetywing.com/nomad-insurance/?referenceID=26482728&utm_source=26482728&utm_medium=Ambassador" target="_blank" rel="noopener nofollow sponsored">SafetyWing</a> until your Dutch insurance kicks in. And protect your digital life with [NordVPN](https://go.nordvpn.net/aff_c?offer_id=612&aff_id=141337&url_id=14830) from day one.
+For banking, start with <a href="https://wise.com/invite/ihpc/willemt52" target="_blank" rel="noopener nofollow sponsored">Wise</a> before you arrive. For temporary health coverage, consider <a href="https://safetywing.com/nomad-insurance/?referenceID=26482728&utm_source=26482728&utm_medium=Ambassador" target="_blank" rel="noopener nofollow sponsored">SafetyWing</a> until your Dutch insurance kicks in. And protect your digital life with <a href="https://go.nordvpn.net/aff_c?offer_id=612&aff_id=141337&url_id=14830" target="_blank" rel="noopener nofollow sponsored" class="cta-affiliate">NordVPN →</a> from day one.
 
 Welcome to the Netherlands. Welkom in Nederland.

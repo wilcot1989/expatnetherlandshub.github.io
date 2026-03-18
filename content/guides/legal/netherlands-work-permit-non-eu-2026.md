@@ -1,6 +1,6 @@
 ---
 title: "Work Permit Netherlands Non-EU Guide 2026"
-date: 2026-06-10T10:00:00+01:00
+date: 2026-03-18T10:00:00+01:00
 lastmod: 2026-03-18T10:00:00+01:00
 description: "Dutch work permits for non-EU nationals in 2026: TWV vs GVVA explained, employer responsibilities, costs, timelines, and how to avoid common delays."
 categories: ["legal"]
@@ -150,7 +150,7 @@ After approval, you will need to register at your municipality (gemeente) and ge
 
 ## Timeline: What to Expect
 
-The timeline for a standard GVVVA (excluding the highly skilled migrant route) runs as follows:
+The timeline for a standard GVVA (excluding the highly skilled migrant route) runs as follows:
 
 | Stage | Who Does It | Time |
 |-------|-------------|------|
@@ -404,7 +404,7 @@ You apply to the IND directly — not through an employer. The application can b
 
 Processing time is typically 4–8 weeks. The IND has a legal obligation to decide within 90 days.
 
-If you are already in the Netherlands on a student residence permit, you can apply for the orientation year before your student permit expires — allowing for a seamless transition.
+If you are already in the Netherlands on a student residence permit, you can apply for the orientation year before your student permit expires — allowing for a smooth transition.
 
 ### Freelancing During the Orientation Year
 

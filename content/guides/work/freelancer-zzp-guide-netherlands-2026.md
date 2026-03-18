@@ -94,7 +94,7 @@ The self-employment permit is initially issued for **2 years**. After 2 years, y
 - **Student visa:** Freelancing is not permitted unless specifically stated on your permit.
 - **Permanent residence or Dutch nationality:** Full freedom to freelance with no restrictions.
 
-If your situation is not straightforward, consult an IND-accredited immigration lawyer before applying for your KvK registration. Registering at the KvK while not holding the right to self-employ can have consequences for your overall immigration status.
+If your situation is not simple, consult an IND-accredited immigration lawyer before applying for your KvK registration. Registering at the KvK while not holding the right to self-employ can have consequences for your overall immigration status.
 
 ## Step 2: Register at KvK
 
@@ -331,9 +331,9 @@ If your professional qualifications were obtained outside the EU, some clients o
 
 ### Money Transfers
 
-For international money transfers (receiving payments from abroad, paying suppliers), use <a href="https://wise.com/invite/ihpc/willemt52" rel="nofollow sponsored" target="_blank">Wise</a> to avoid high bank fees. Dutch banks charge 2-5% in hidden exchange rate markups — Wise charges the real exchange rate plus a small transparent fee.
+For international money transfers (receiving payments from abroad, paying suppliers), use <a href="https://wise.com/invite/ihpc/willemt52" rel="noopener nofollow sponsored" target="_blank">Wise</a> to avoid high bank fees. Dutch banks charge 2-5% in hidden exchange rate markups — Wise charges the real exchange rate plus a small transparent fee.
 
-If you work remotely from coworking spaces or cafés, you will regularly be accessing tax portals, accounting software, and client systems over shared WiFi. A VPN keeps that traffic private. <a href="https://go.nordvpn.net/aff_c?offer_id=612&aff_id=141337&url_id=14830" rel="nofollow sponsored" target="_blank">Stay secure on public WiFi with NordVPN →</a> For a guide to the best coworking spaces across Dutch cities — including day pass options and spaces with strong freelancer communities — see our [best coworking spaces in the Netherlands guide](/guides/work/best-coworking-spaces-netherlands-2026/).
+If you work remotely from coworking spaces or cafés, you will regularly be accessing tax portals, accounting software, and client systems over shared WiFi. A VPN keeps that traffic private. <a href="https://go.nordvpn.net/aff_c?offer_id=612&aff_id=141337&url_id=14830" rel="noopener nofollow sponsored" target="_blank">Stay secure on public WiFi with NordVPN →</a> For a guide to the best coworking spaces across Dutch cities — including day pass options and spaces with strong freelancer communities — see our [best coworking spaces in the Netherlands guide](/guides/work/best-coworking-spaces-netherlands-2026/).
 
 ### Pension
 
@@ -408,9 +408,9 @@ The Dutch government has been discussing mandatory AOV for ZZP'ers since 2025 �
 
 Use our [insurance chooser](/tools/insurance-chooser/) to compare AOV, liability, and health insurance options side by side based on your ZZP profile.
 
-**Freelancers who travel internationally for client work** should also consider short-term travel medical coverage for trips outside the Netherlands. Your Dutch basisverzekering covers emergency care abroad to a degree, but the reimbursement limits for non-EU countries can fall short — and international business travel is not covered the same way as a holiday. <a href="https://safetywing.com/nomad-insurance/?referenceID=26482728&utm_source=26482728&utm_medium=Ambassador" rel="nofollow sponsored" target="_blank">SafetyWing Nomad Insurance</a> is a practical top-up for ZZPers who work across borders: it covers emergency hospitalisation, evacuation, and trip interruption from around $45/month billed monthly with no long-term commitment. It is not a replacement for your Dutch health insurance — you still need that — but it fills the gap when you are working in the US, Southeast Asia, or anywhere your Dutch insurer's international coverage is limited.
+**Freelancers who travel internationally for client work** should also consider short-term travel medical coverage for trips outside the Netherlands. Your Dutch basisverzekering covers emergency care abroad to a degree, but the reimbursement limits for non-EU countries can fall short — and international business travel is not covered the same way as a holiday. <a href="https://safetywing.com/nomad-insurance/?referenceID=26482728&utm_source=26482728&utm_medium=Ambassador" rel="noopener nofollow sponsored" target="_blank">SafetyWing Nomad Insurance</a> is a practical top-up for ZZPers who work across borders: it covers emergency hospitalisation, evacuation, and trip interruption from around $45/month billed monthly with no long-term commitment. It is not a replacement for your Dutch health insurance — you still need that — but it fills the gap when you are working in the US, Southeast Asia, or anywhere your Dutch insurer's international coverage is limited.
 
-<a href="https://safetywing.com/nomad-insurance/?referenceID=26482728&utm_source=26482728&utm_medium=Ambassador" rel="nofollow sponsored" target="_blank">Get SafetyWing travel coverage from $45/month →</a>
+<a href="https://safetywing.com/nomad-insurance/?referenceID=26482728&utm_source=26482728&utm_medium=Ambassador" rel="noopener nofollow sponsored" target="_blank">Get SafetyWing travel coverage from $45/month →</a>
 
 ## Insurance for ZZP'ers: AOV and Liability in Detail
 

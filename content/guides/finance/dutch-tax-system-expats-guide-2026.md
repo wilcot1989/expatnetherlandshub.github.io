@@ -473,7 +473,7 @@ In the year you arrive in or depart from the Netherlands, you are only a Dutch t
 
 ## All Dutch Tax Breaks for Expats: The Complete List
 
-The Dutch tax system contains more deductions and allowances than most expats realise. Here is a comprehensive overview of every relief mechanism that may be available to you.
+The Dutch tax system contains more deductions and allowances than most expats realise. Here is a complete overview of every relief mechanism that may be available to you.
 
 ### 1. The 30% Ruling (Expatregeling)
 
@@ -604,4 +604,4 @@ The Dutch tax system rewards those who understand it. Deductions for mortgage in
 
 If you transfer money between your Dutch and home-country accounts, Wise is the most cost-effective way to do it — significantly cheaper than bank wire transfers. Many expats use it for paying overseas mortgage or pension contributions that appear in your Box 3 declaration.
 
-<a href="https://wise.com/invite/ihpc/willemt52" target="_blank" rel="nofollow sponsored" class="cta-affiliate">Transfer money internationally with Wise →</a>
+<a href="https://wise.com/invite/ihpc/willemt52" target="_blank" rel="noopener nofollow sponsored" class="cta-affiliate">Transfer money internationally with Wise →</a>

@@ -26,7 +26,7 @@ faq:
   - q: "When can I switch health insurance providers in the Netherlands?"
     a: "You can switch your basic health insurance provider once per year during the open enrollment period, which runs from mid-November to December 31. Your new policy starts on January 1 of the following year. You do not need to give a reason for switching, and the new insurer must accept you regardless of your health status. Supplementary insurance can be switched at the same time, but the new insurer may reject your supplementary application based on health screening."
   - q: "Does Dutch health insurance cover pregnancy and maternity care?"
-    a: "Yes. Pregnancy and maternity care is one of the most generous parts of the basisverzekering. Prenatal appointments with a midwife (verloskundige), the birth itself, and postnatal home care (kraamzorg) are all fully covered by basic insurance. Crucially, none of these costs count towards your eigen risico. The standard kraamzorg package includes up to 49 hours of postnatal home care in the first 8 days after birth."
+    a: "Yes. Pregnancy and maternity care is one of the most generous parts of the basisverzekering. Prenatal appointments with a midwife (verloskundige), the birth itself, and postnatal home care (kraamzorg) are all fully covered by basic insurance. Importantly, none of these costs count towards your eigen risico. The standard kraamzorg package includes up to 49 hours of postnatal home care in the first 8 days after birth."
   - q: "How does mental healthcare work in the Netherlands?"
     a: "Mental healthcare (geestelijke gezondheidszorg, or GGZ) is covered by the basisverzekering, but you need a referral from your GP first. Your GP may initially refer you to a POH-GGZ (a mental health practitioner attached to the GP practice) for mild to moderate issues, or directly to a BIG-registered psychologist or psychiatrist for more serious conditions. The eigen risico applies to GGZ care. Waiting times at contracted providers can be long — sometimes months. Supplementary insurance or private therapy are alternatives for faster access."
   - q: "Is physiotherapy covered by Dutch health insurance?"
@@ -35,8 +35,6 @@ faq:
     a: "It depends on whether you work. EU/EEA students who study in the Netherlands but do not work are generally not required to take out Dutch health insurance — they can use their European Health Insurance Card (EHIC). Non-EU students without a work permit are also usually exempt. However, if you work in the Netherlands (even part-time) and your income exceeds roughly EUR 10,000 per year, you become subject to Dutch social insurance law and must take out basisverzekering. Students receiving DUO (student finance) are sometimes exempt from zorgtoeslag but can still be obliged to insure. Always verify with your university's international office."
   - q: "How do I cancel Dutch health insurance when leaving the Netherlands?"
     a: "To cancel (opzeggen) your Dutch health insurance, you must formally deregister from the Netherlands — this means handing in your residence permit (if applicable) and deregistering at your gemeente. Your insurer will request proof of deregistration, typically the RES form (Verhuisbericht Emigratie) issued by the gemeente. You must give at least one calendar month's notice. Your insurer will backdate the cancellation to your official departure date. Do not cancel before you have your departure confirmation in writing, as you remain legally liable for premiums until the cancellation is processed."
-  - q: "When can I switch Dutch health insurance providers?"
-    a: "The open enrollment period runs from mid-November to 31 December each year. If you switch, your new policy starts on 1 January of the following year. Outside this window, you can only switch if you have a special life event that legally allows a mid-year change — such as moving to a new area where your current insurer has a weaker contracted network, or turning 18. For supplementary insurance, the rules are the same, but the new insurer may screen your health history and can refuse your application."
 ---
 
 Dutch health insurance confused me more than almost anything else when I first moved here. Basisverzekering, eigen risico, zorgtoeslag -- the terminology alone is enough to make your head spin. And then you find out it is mandatory and you have only four months to sort it out. After working through the system myself and helping hundreds of clients choose the right policy, I can tell you it is actually one of the best healthcare setups in the world. You just need to know how it works.
@@ -118,11 +116,11 @@ Not sure where to start? Our [health insurance wizard](/tools/health-insurance-w
 
 Use these Dutch comparison websites to find the best policy for your situation:
 
-- <a href="https://www.awin1.com/cread.php?awinmid=8558&awinaffid=2776410&ued=https%3A%2F%2Fwww.independer.nl%2Fzorgverzekering" rel="nofollow sponsored" target="_blank">**Independer.nl**</a>: The most popular comparison site for health insurance
+- <a href="https://www.awin1.com/cread.php?awinmid=8558&awinaffid=2776410&ued=https%3A%2F%2Fwww.independer.nl%2Fzorgverzekering" rel="noopener nofollow sponsored" target="_blank">**Independer.nl**</a>: The most popular comparison site for health insurance
 - **Zorgwijzer.nl**: Clear overviews and annual comparisons
 - **Consumentenbond.nl**: Consumer association with detailed testing
 
-<a href="https://www.awin1.com/cread.php?awinmid=8558&awinaffid=2776410&ued=https%3A%2F%2Fwww.independer.nl%2Fzorgverzekering" class="cta" rel="nofollow sponsored" target="_blank">Compare Dutch Health Insurance on Independer.nl</a>
+<a href="https://www.awin1.com/cread.php?awinmid=8558&awinaffid=2776410&ued=https%3A%2F%2Fwww.independer.nl%2Fzorgverzekering" class="cta-affiliate" rel="noopener nofollow sponsored" target="_blank">Compare Dutch Health Insurance on Independer.nl</a>
 
 ---
 
@@ -380,7 +378,7 @@ This is especially relevant for:
 
 <a href="https://safetywing.com/nomad-insurance/?referenceID=26482728&utm_source=26482728&utm_medium=Ambassador" target="_blank" rel="noopener nofollow sponsored">Get temporary expat coverage with SafetyWing</a>
 
-<a href="https://safetywing.com/nomad-insurance/?referenceID=26482728&utm_source=26482728&utm_medium=Ambassador" class="cta" rel="nofollow sponsored" target="_blank">Get SafetyWing Temporary Health Coverage from $45/month</a>
+<a href="https://safetywing.com/nomad-insurance/?referenceID=26482728&utm_source=26482728&utm_medium=Ambassador" class="cta-affiliate" rel="noopener nofollow sponsored" target="_blank">Get SafetyWing Temporary Health Coverage from $45/month</a>
 
 ---
 
@@ -395,7 +393,7 @@ Here is the complete process from arrival to being fully insured:
 
 ### Week 2-3: Research and Compare
 
-3. Use <a href="https://www.awin1.com/cread.php?awinmid=8558&awinaffid=2776410&ued=https%3A%2F%2Fwww.independer.nl%2Fzorgverzekering" rel="nofollow sponsored" target="_blank">Independer.nl</a> or Zorgwijzer.nl to compare basic insurance premiums
+3. Use <a href="https://www.awin1.com/cread.php?awinmid=8558&awinaffid=2776410&ued=https%3A%2F%2Fwww.independer.nl%2Fzorgverzekering" rel="noopener nofollow sponsored" target="_blank">Independer.nl</a> or Zorgwijzer.nl to compare basic insurance premiums
 4. Check if your employer offers a group discount (collectiviteitskorting) with a specific insurer
 5. Decide whether you need supplementary insurance (dental, physiotherapy, etc.)
 
@@ -516,7 +514,7 @@ Switching Dutch health insurance is simpler than most people expect, but it only
 You can switch your basic health insurance provider during the **open enrollment period: mid-November to 31 December**. Your new policy takes effect on **1 January** of the following year. Outside this window, you cannot switch unless you have a qualifying life event (see below).
 
 The process:
-1. **Compare policies** in October or November using <a href="https://www.awin1.com/cread.php?awinmid=8558&awinaffid=2776410&ued=https%3A%2F%2Fwww.independer.nl%2Fzorgverzekering" rel="nofollow sponsored" target="_blank">Independer.nl</a> or Zorgwijzer.nl
+1. **Compare policies** in October or November using <a href="https://www.awin1.com/cread.php?awinmid=8558&awinaffid=2776410&ued=https%3A%2F%2Fwww.independer.nl%2Fzorgverzekering" rel="noopener nofollow sponsored" target="_blank">Independer.nl</a> or Zorgwijzer.nl
 2. **Sign up with the new insurer** before 31 December — they will handle the cancellation of your old policy on your behalf
 3. **Your new policy starts on 1 January** — there is no gap in coverage
 
@@ -538,7 +536,7 @@ You can switch mid-year only in specific circumstances:
 
 These mid-year switches are uncommon. For most people, the November-December window is the only opportunity.
 
-<a href="https://www.awin1.com/cread.php?awinmid=8558&awinaffid=2776410&ued=https%3A%2F%2Fwww.independer.nl%2Fzorgverzekering" class="cta" rel="nofollow sponsored" target="_blank">Compare and Switch Dutch Health Insurance on Independer.nl</a>
+<a href="https://www.awin1.com/cread.php?awinmid=8558&awinaffid=2776410&ued=https%3A%2F%2Fwww.independer.nl%2Fzorgverzekering" class="cta-affiliate" rel="noopener nofollow sponsored" target="_blank">Compare and Switch Dutch Health Insurance on Independer.nl</a>
 
 ---
 
@@ -599,12 +597,12 @@ Dutch health insurance may seem complicated at first, but the system is logical 
 
 For expats just arriving, the most important steps are:
 
-1. Get temporary coverage through <a href="https://safetywing.com/nomad-insurance/?referenceID=26482728&utm_source=26482728&utm_medium=Ambassador" rel="nofollow sponsored" target="_blank">SafetyWing</a> if there will be any gap before your Dutch insurance starts
-2. Compare policies on <a href="https://www.awin1.com/cread.php?awinmid=8558&awinaffid=2776410&ued=https%3A%2F%2Fwww.independer.nl%2Fzorgverzekering" rel="nofollow sponsored" target="_blank">Independer.nl</a> once you have your BSN
+1. Get temporary coverage through <a href="https://safetywing.com/nomad-insurance/?referenceID=26482728&utm_source=26482728&utm_medium=Ambassador" rel="noopener nofollow sponsored" target="_blank">SafetyWing</a> if there will be any gap before your Dutch insurance starts
+2. Compare policies on <a href="https://www.awin1.com/cread.php?awinmid=8558&awinaffid=2776410&ued=https%3A%2F%2Fwww.independer.nl%2Fzorgverzekering" rel="noopener nofollow sponsored" target="_blank">Independer.nl</a> once you have your BSN
 3. Sign up within your first few weeks, well before the 4-month deadline
 4. Register with a GP immediately after your insurance is active
 5. Apply for zorgtoeslag if your income qualifies
 
 The Dutch healthcare system is excellent. Once you are set up, you will have access to high-quality, affordable care that covers virtually all your medical needs. Take the time to get it right from the start, and it will serve you well throughout your time in the Netherlands.
 
-<a href="https://safetywing.com/nomad-insurance/?referenceID=26482728&utm_source=26482728&utm_medium=Ambassador" class="cta" rel="nofollow sponsored" target="_blank">Get SafetyWing Bridge Coverage for Your Move to the Netherlands</a>
+<a href="https://safetywing.com/nomad-insurance/?referenceID=26482728&utm_source=26482728&utm_medium=Ambassador" class="cta-affiliate" rel="noopener nofollow sponsored" target="_blank">Get SafetyWing Bridge Coverage for Your Move to the Netherlands</a>
