@@ -53,7 +53,7 @@ The first practical question for many career changers is whether their existing 
 
 The majority of professional roles in the Netherlands — business, marketing, tech, consulting, creative industries, logistics, finance (with some exceptions) — do not require formal credential recognition. Your CV, portfolio, and references are sufficient. Dutch employers in international environments assess foreign qualifications pragmatically.
 
-If you need a formal statement of credential equivalence for an employer who requests it, [Nuffic](https://www.nuffic.nl/en/education-systems/diploma-recognition) (the Dutch organisation for internationalisation in education) provides diploma assessments. The process takes 6-8 weeks and costs around €85-100.
+If you need a formal statement of credential equivalence for an employer who requests it, [Nuffic](https://www.nuffic.nl/en/education-systems/diploma-recognition) (the Dutch organisation for internationalisation in education) provides diploma assessments. For a broader view of working in the Netherlands as an expat — including visa and permit requirements — see the [companies hiring internationals guide](/guides/work/companies-hiring-internationals-netherlands-2026/). The process takes 6-8 weeks and costs around €85-100.
 
 ### Regulated professions
 
@@ -107,7 +107,7 @@ The first six to twelve months of a ZZP career — especially one starting in a 
 
 ### ZZP taxes during transition
 
-During a career transition, your income may be lower than usual. The Dutch ZZP tax system has several useful mechanisms that reduce effective tax during lower-income periods: the zelfstandigenaftrek (self-employed deduction, currently around €2,470), the MKB-winstvrijstelling (14% profit exemption), and the startersaftrek (additional deduction for the first three years). Combined, these mean effective tax rates for ZZPers with moderate incomes are often between 20-30%.
+During a career transition, your income may be lower than usual. The Dutch ZZP tax system has several useful mechanisms that reduce effective tax during lower-income periods. For the full picture on Dutch tax obligations for self-employed expats, the [best tax advisors for expats](/guides/finance/best-tax-advisors-expats-netherlands-2026/) guide explains when professional help is worth it: the zelfstandigenaftrek (self-employed deduction, currently around €2,470), the MKB-winstvrijstelling (14% profit exemption), and the startersaftrek (additional deduction for the first three years). Combined, these mean effective tax rates for ZZPers with moderate incomes are often between 20-30%.
 
 See our [30% ruling guide](/guides/finance/30-percent-ruling-netherlands-2026/) if you qualified under the ruling as an employee — it is worth understanding how a ZZP transition affects your ruling status.
 

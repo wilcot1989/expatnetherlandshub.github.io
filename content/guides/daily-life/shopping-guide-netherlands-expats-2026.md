@@ -69,7 +69,7 @@ Action sells everything at low prices: cleaning products, storage solutions, tex
 
 **Price level:** Very cheap. Basket of typical household basics costs 40-60% less than at Albert Heijn or HEMA.
 
-**Practical reality:** Stores can feel chaotic, stock rotates frequently, and you cannot always find the same item twice. But for stocking up a first apartment, Action is essential. Most Dutch people shop there regardless of income level — there is no social stigma attached.
+**Practical reality:** Stores can feel chaotic, stock rotates frequently, and you cannot always find the same item twice. But for stocking up a first apartment, Action is the one to know. Most Dutch people shop there regardless of income level — there is no social stigma attached.
 
 ---
 
@@ -124,7 +124,7 @@ MediaMarkt has a wider physical range than Coolblue stores and sometimes has bet
 
 [Marktplaats.nl](https://www.marktplaats.nl/) is the dominant Dutch classifieds and second-hand marketplace. It is the first place Dutch people go to buy and sell second-hand goods, and it should be one of the first places you visit as an expat furnishing a home.
 
-**Why Marktplaats is essential for expats:**
+**Why Marktplaats matters for expats:**
 - Second-hand furniture at 20-60% of new prices
 - Electronics, bikes, appliances, tools — nearly everything is listed by private sellers
 - Free pickup (ophalen) is common, though expect to arrange your own transport for large items
@@ -215,7 +215,7 @@ National public holidays (there are roughly 8-10 per year) generally mean closed
 
 ## iDEAL, PIN, and Paying in the Netherlands
 
-Understanding Dutch payment culture is essential for shopping here.
+Understanding Dutch payment culture is important for shopping here.
 
 **iDEAL** is the Dutch online payment system — a direct bank transfer that bypasses credit cards entirely. It accounts for approximately 70% of Dutch online payment transactions. To use iDEAL, you need a Dutch bank account with online banking enabled. It is available at essentially every Dutch e-commerce site including Bol.com, Coolblue, Marktplaats, and all supermarkets' online shops.
 
@@ -249,7 +249,7 @@ Practical sequence for expats who need to furnish quickly and cheaply:
 3. Vinted for clothing
 4. Xenos or HEMA for decorative items and soft furnishings
 
-**Cost estimate for a basic one-person apartment setup using this approach:** approximately €800-1,500 for furniture, appliances (not included), bedding, kitchen equipment, and basics. Using Marktplaats aggressively can bring this down considerably. Buying everything new from IKEA would typically cost €2,500-4,000.
+**Cost estimate for a basic one-person apartment setup using this approach:** approximately €800-1,500 for furniture, appliances (not included), bedding, kitchen equipment, and basics. Using Marktplaats aggressively can bring this down considerably. Buying everything new from IKEA would typically cost €2,500-4,000. For a more detailed breakdown of what to budget for your first months in the Netherlands, the [first 30 days in the Netherlands checklist](/guides/integration/first-30-days-netherlands-expats-2026/) covers the full admin and spending sequence from arrival.
 
 For context on what to budget overall for Dutch life, the [cost of living in the Netherlands guide](/guides/housing/cost-of-living-netherlands-2026/) covers everything from rent and groceries to transport and healthcare. And if you are still choosing which Dutch city to base yourself in, our [best cities for expats guide](/guides/housing/best-cities-netherlands-expats-2026/) compares quality of life, rental markets, and community across the major options.
 
@@ -281,7 +281,7 @@ A kringloopwinkel is a Dutch charity or community thrift shop — the equivalent
 
 ### Does Coolblue deliver in English?
 
-Coolblue's website and app are currently available in Dutch only, though their customer service team can often assist in English. If you are ordering from Coolblue, Google Translate handles the website reasonably well, and product pages follow a consistent layout once you learn the structure. The delivery and installation team may or may not speak English depending on the crew — but the process is straightforward enough to manage with basic instructions regardless.
+Coolblue's website and app are currently available in Dutch only, though their customer service team can often assist in English. If you are ordering from Coolblue, Google Translate handles the website reasonably well, and product pages follow a consistent layout once you learn the structure. The delivery and installation team may or may not speak English depending on the crew — but the process is manageable with basic instructions regardless.
 
 ### What is the best way to buy second-hand furniture quickly after arriving?
 

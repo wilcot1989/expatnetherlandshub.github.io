@@ -75,7 +75,7 @@ Borrels exist in several formats relevant to expats:
 
 **Neighbourhood borrels** — in cities like Amsterdam, some business districts (Zuidas, Startup Amsterdam) organise quarterly borrels for the local professional community.
 
-**How to work a borrel:** Walk in, get a drink, join the nearest group. Dutch group conversations are open — you can join without a formal introduction. Listen for a natural pause, contribute something relevant, and introduce yourself. Aim for three or four substantive conversations over two hours rather than ten quick exchanges.
+**How to work a borrel:** Walk in, get a drink, join the nearest group. Dutch group conversations are open — you can join without a formal introduction. Listen for a natural pause, contribute something relevant, and introduce yourself. Aim for three or four substantive conversations over two hours rather than ten quick exchanges. For context on Dutch social norms that shape these interactions, the [Dutch social etiquette guide](/guides/integration/dutch-social-etiquette-expats-2026/) is useful background before your first event.
 
 ---
 
@@ -113,7 +113,7 @@ Membership is free for basic access; a full membership (around €10/month) unlo
 
 ### Meetup.com
 
-Meetup remains the most comprehensive directory of professional and social gatherings in the Netherlands. Search by city and keyword — "Amsterdam tech," "Rotterdam finance," "expat professionals Netherlands" — and you will find dozens of options.
+Meetup remains the most complete directory of professional and social gatherings in the Netherlands. Search by city and keyword — "Amsterdam tech," "Rotterdam finance," "expat professionals Netherlands" — and you will find dozens of options.
 
 Quality varies, but the larger established groups (Amsterdam Tech, Creative Amsterdam, Amsterdam Startup Network) have consistent programming and genuine professional density.
 
@@ -207,7 +207,7 @@ Beyond LinkedIn, a few online communities are worth knowing:
 
 **Internations Amsterdam, Rotterdam, The Hague** — active Facebook and online communities in addition to in-person events.
 
-**Reddit: r/Netherlands and r/Amsterdam** — useful for informal professional questions and finding leads on events; the communities are international and English-language.
+**Reddit: r/Netherlands and r/Amsterdam** — useful for informal professional questions and finding leads on events; the communities are international and English-language. For a broader look at expat communities both online and in person, see the [best expat Facebook groups in the Netherlands](/guides/integration/best-expat-facebook-groups-netherlands-2026/) guide.
 
 **Slack communities:** Amsterdam Tech Slack, Dutch Product Managers, and several sector-specific communities. Searching "Netherlands [your sector] Slack community" usually surfaces the relevant one.
 

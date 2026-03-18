@@ -50,7 +50,7 @@ The practical issue for incoming expats is not lack of content but rather geo-re
 Netflix is fully available in the Netherlands and works from day one. Your existing Netflix account transfers — the monthly charge continues and you log in normally. The difference is that the Dutch library is not identical to the US or UK library.
 
 **Dutch Netflix in practice:**
-- Total titles: approximately 5,000-5,500 (2026 estimate), reasonably comprehensive
+- Total titles: approximately 5,000-5,500 (2026 estimate), a solid library overall
 - Netflix Originals: the same worldwide — all Netflix Originals are available in every country
 - Licensed international content: some variation from the US library; popular HBO/Showtime licensed series may differ
 - Dutch content: a growing selection of Dutch-language originals and local programming
@@ -76,11 +76,11 @@ A practical tip: Amazon Prime in the Netherlands does not include fast shipping 
 
 ### HBO Max (Max) Netherlands
 
-HBO Max — rebranding to Max in most markets — is available in the Netherlands and carries the full HBO catalogue including Game of Thrones, The Wire, Succession, The White Lotus, and current HBO series. HBO content in the Netherlands was previously licensed to Videoland, and while some historic exclusivity arrangements still affect some titles, the current Max subscription in the Netherlands is comprehensive.
+HBO Max — rebranding to Max in most markets — is available in the Netherlands and carries the full HBO catalogue including Game of Thrones, The Wire, Succession, The White Lotus, and current HBO series. HBO content in the Netherlands was previously licensed to Videoland, and while some historic exclusivity arrangements still affect some titles, the current Max subscription in the Netherlands is well-stocked.
 
 **Cost:** Around EUR 9.99-15.99/month depending on plan.
 
-For HBO drama fans, Max is essential. The documentary catalogue is also excellent.
+For HBO drama fans, Max is the one to subscribe to. The documentary catalogue is also excellent.
 
 ### Apple TV+
 
@@ -98,7 +98,7 @@ Spotify, Apple Music, YouTube Music, and Tidal all work identically in the Nethe
 
 ### Videoland: The Dutch Netflix
 
-Videoland is the largest Dutch-language streaming platform, owned by RTL Group. It is essential for expats who want to understand Dutch popular culture and an excellent tool for language learning.
+Videoland is the largest Dutch-language streaming platform, owned by RTL Group. It is the go-to service for expats who want to understand Dutch popular culture and an excellent tool for language learning.
 
 **What Videoland offers:**
 - Dutch original series, including many RTL classics and new originals
@@ -109,7 +109,7 @@ Videoland is the largest Dutch-language streaming platform, owned by RTL Group. 
 
 **Cost:** EUR 5.99/month (standard) or EUR 9.99/month (premium, with downloads and better quality). Free trial available.
 
-**For expats:** If you are serious about integrating and learning Dutch, Videoland combined with NPO Start gives you the full Dutch television landscape. If you are only interested in English-language content, you can skip it without missing anything essential.
+**For expats:** If you are serious about integrating and learning Dutch, Videoland combined with NPO Start gives you the full Dutch television landscape. If you are only interested in English-language content, you can skip it without missing anything important.
 
 ### NPO Start: Public TV Streaming (Free)
 
@@ -131,7 +131,7 @@ For Dutch-language learners, NPO 2 documentaries with Dutch subtitles are excell
 
 If you have a Ziggo internet/cable TV subscription (Ziggo is one of the main Dutch cable and internet providers), Ziggo GO gives access to live and on-demand TV from your subscription package on multiple devices. This includes live sports, Dutch channels, and the Ziggo Sport add-on (if subscribed).
 
-**Ziggo Sport:** The home of Formula 1 in the Netherlands. Max Verstappen's success has made F1 enormously popular, and Ziggo Sport's live race coverage is comprehensive. The Dutch Grand Prix at Zandvoort circuit (when scheduled) is a national event.
+**Ziggo Sport:** The home of Formula 1 in the Netherlands. Max Verstappen's success has made F1 enormously popular, and Ziggo Sport's live race coverage is thorough — all sessions included. The Dutch Grand Prix at Zandvoort circuit (when scheduled) is a national event.
 
 ---
 
@@ -194,7 +194,7 @@ For active Dutch learning resources, see the [best apps for learning Dutch in 20
 
 ### Formula 1: Ziggo Sport
 
-Max Verstappen has transformed Dutch interest in Formula 1. Ziggo Sport is the primary broadcaster of F1 in the Netherlands, with comprehensive live race coverage, qualifying sessions, and analysis. Ziggo Sport is an add-on to Ziggo internet/TV packages (around EUR 15-20/month) or can sometimes be accessed via Ziggo GO. The Dutch Grand Prix at Circuit Zandvoort — when on the calendar — is essentially a national holiday.
+Max Verstappen has transformed Dutch interest in Formula 1. Ziggo Sport is the primary broadcaster of F1 in the Netherlands, with full live race coverage, qualifying sessions, and analysis. Ziggo Sport is an add-on to Ziggo internet/TV packages (around EUR 15-20/month) or can sometimes be accessed via Ziggo GO. The Dutch Grand Prix at Circuit Zandvoort — when on the calendar — is essentially a national holiday.
 
 For expats who do not have Ziggo: the F1 streaming service F1 TV Pro is available directly from the F1 website and provides live and on-demand access to all sessions. This is useful if your home country F1 broadcaster is better (e.g., UK Sky Sports F1), which you can access via VPN.
 
@@ -273,13 +273,13 @@ If you are using mobile data for streaming (when travelling within the Netherlan
 
 Here is the practical setup I recommend for most expats:
 
-**Essential (free or included):**
+**Start here (free or included):**
 - NPO Start — free, sign up immediately for Dutch public TV access
 - Your existing Netflix account — just log in from the Netherlands
 
 **Add based on taste:**
-- Disney+ — essential for families, good for Marvel/Star Wars fans. For families moving to the Netherlands, see the [expat family guide](/guides/daily-life/expat-family-guide-raising-kids-netherlands-2026/) for broader settling-in advice
-- HBO Max — essential for HBO drama fans
+- Disney+ — strong choice for families, good for Marvel/Star Wars fans. For families moving to the Netherlands, see the [expat family guide](/guides/daily-life/expat-family-guide-raising-kids-netherlands-2026/) for broader settling-in advice
+- HBO Max — the home for HBO drama fans
 - Videoland — for Dutch culture integration and language learning
 
 **For sports:**
@@ -289,7 +289,7 @@ Here is the practical setup I recommend for most expats:
 **For home country content:**
 - NordVPN — for BBC iPlayer, Hulu, and home country streaming
 
-The total cost of a comprehensive setup (Netflix, Disney+, HBO Max, NordVPN) runs approximately EUR 35-45/month. That is a reasonable entertainment budget by Dutch standards and gives you access to an enormous combined library of English and Dutch content.
+The total cost of a full setup (Netflix, Disney+, HBO Max, NordVPN) runs approximately EUR 35-45/month. That is a reasonable entertainment budget by Dutch standards and gives you access to an enormous combined library of English and Dutch content.
 
 If you are serious about using TV and streaming as a Dutch language learning tool — which is one of the most effective and enjoyable approaches — prioritise NPO Start and Videoland over some of the international subscriptions. You will pick up more Dutch watching one episode of GTST per day than from most formal study. For more on integrating into Dutch society, see the guide to [making friends in the Netherlands as an expat](/guides/integration/making-friends-netherlands-expats-2026/).
 

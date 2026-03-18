@@ -104,7 +104,7 @@ The effective tax burden for a skilled professional earning CAD 120,000 in Ontar
 
 ### Self-Employment and Freelancing
 
-The Netherlands is excellent for freelancers. Dutch ZZP (self-employed professional) status is straightforward to register via the KvK (Chamber of Commerce), the tax system for self-employed individuals is well-documented, and there are numerous banking and accounting tools designed for ZZPs. Canada is also relatively freelancer-friendly, with self-employment income taxed similarly to employment income but with more deductible expenses. Canada's HST/GST system is simpler than the Dutch BTW (VAT) in some respects.
+The Netherlands is excellent for freelancers. Dutch ZZP (self-employed professional) status is simple to register via the KvK (Chamber of Commerce), the tax system for self-employed individuals is well-documented, and there are numerous banking and accounting tools designed for ZZPs. Canada is also relatively freelancer-friendly, with self-employment income taxed similarly to employment income but with more deductible expenses. Canada's HST/GST system is simpler than the Dutch BTW (VAT) in some respects.
 
 ---
 

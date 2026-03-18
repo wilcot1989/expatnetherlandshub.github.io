@@ -3,7 +3,7 @@ title: "Subletting in Netherlands: Rules for Expats 2026"
 date: 2026-03-18T10:00:00+01:00
 lastmod: 2026-03-18T10:00:00+01:00
 type: "guide"
-description: "When subletting is legal in the Netherlands, Airbnb city rules, how to sublet with permission, and what happens if you sublet illegally. Rules for expats 2026."
+description: "When subletting is legal in the Netherlands, Airbnb city rules, how to sublet with permission, and what happens if you sublet illegally. Expat guide 2026."
 categories: ["housing"]
 tags: ["subletting netherlands", "onderonderverhuur", "airbnb amsterdam", "subletting expat", "housing rules netherlands"]
 keywords: ["subletting netherlands", "can i sublet my apartment netherlands", "airbnb rules amsterdam netherlands", "illegal subletting netherlands", "onderonderverhuur netherlands expat"]
@@ -30,7 +30,7 @@ A client called me from Schiphol airport last spring. She had a three-month assi
 
 Subletting rules in the Netherlands are strict, actively enforced, and considerably less permissive than many expats — particularly those arriving from countries with lighter-touch rental regulation — expect. Getting this wrong can cost you your housing. This guide explains exactly what is legal, what is not, and how to manage your property lawfully if you need to be away or want to generate income from a spare room.
 
-The broader [Dutch housing crisis context](/guides/housing/dutch-housing-crisis-explained-expats-2026/) helps explain why authorities take this seriously — housing pressure is intense, and illegal subletting removes units from the supply. If you are new to renting here, the [Dutch rental contract rights guide](/guides/legal/dutch-rental-contract-rights-expats-2026/) covers your full set of tenant rights and obligations, and the [rental scams guide](/guides/housing/rental-scams-netherlands-expats-2026/) is essential reading before you start any housing search.
+The broader [Dutch housing crisis context](/guides/housing/dutch-housing-crisis-explained-expats-2026/) helps explain why authorities take this seriously — housing pressure is intense, and illegal subletting removes units from the supply. If you are new to renting here, the [Dutch rental contract rights guide](/guides/legal/dutch-rental-contract-rights-expats-2026/) covers your full set of tenant rights and obligations, and the [rental scams guide](/guides/housing/rental-scams-netherlands-expats-2026/) is required reading before you start any housing search.
 
 ---
 
@@ -225,7 +225,7 @@ Anti-kraak can be a way for newcomers to access cheap interim accommodation, but
 Before subletting any part of your Dutch rental property:
 
 - [ ] Read your rental contract — find the subletting clause. The [Dutch rental contract rights guide](/guides/legal/dutch-rental-contract-rights-expats-2026/) explains the key clauses.
-- [ ] Obtain written permission from your landlord (essential — do not proceed without this)
+- [ ] Obtain written permission from your landlord (mandatory — do not proceed without this)
 - [ ] Check your municipality's short-term rental rules if using Airbnb or similar
 - [ ] Register with the municipality if required (short-term rental registration)
 - [ ] Arrange a written agreement with your subtenant

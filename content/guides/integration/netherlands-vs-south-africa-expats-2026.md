@@ -19,7 +19,7 @@ faq:
   - q: "Can Afrikaans speakers learn Dutch more easily?"
     a: "Yes, significantly. Afrikaans evolved directly from 17th-century Dutch, and the two languages share roughly 90% of their core vocabulary. Afrikaans speakers typically reach conversational Dutch level in 3–4 months of dedicated study, compared to 8–12 months for English-only speakers. Grammar in Dutch is more complex than Afrikaans (Dutch retained grammatical gender; Afrikaans simplified it), but the vocabulary head start is enormous. Many SA expats describe understanding Dutch television within weeks of arrival."
   - q: "Is the Netherlands safe compared to South Africa?"
-    a: "The Netherlands ranks consistently among the world's safest countries — typically 15th to 20th on the Global Peace Index. South Africa ranks around 120th. The practical day-to-day difference is stark: leaving belongings on a café table, cycling home at midnight, and walking in any neighbourhood without anxiety are normal in Dutch cities. There is street crime in Dutch cities, particularly phone theft in Amsterdam, but it is incomparable to the security concerns most South Africans navigate daily."
+    a: "The Netherlands ranks consistently among the world's safest countries — typically 15th to 20th on the Global Peace Index. South Africa ranks around 120th. The practical day-to-day difference is stark: leaving belongings on a café table, cycling home at midnight, and walking in any neighbourhood without anxiety are normal in Dutch cities. There is street crime in Dutch cities, particularly phone theft in Amsterdam, but it is incomparable to the security concerns most South Africans manage every day."
   - q: "How does South African healthcare compare to the Dutch system?"
     a: "South Africa has a divided system: private healthcare (Discovery, Momentum, Medshield) is world-class but expensive and only accessible to those with medical aid; the public system is severely under-resourced. In the Netherlands, everyone has the same mandatory basic insurance (€140–175/month) and accesses the same GP and hospital network regardless of income. Dutch healthcare is not luxurious, but it is reliable, universally accessible, and the quality gap between rich and poor that characterises South African medicine simply does not exist."
   - q: "Can South Africans exchange their driving licence in the Netherlands?"
@@ -171,7 +171,7 @@ If you are in the Netherlands before you have registered and arranged mandatory 
 
 ### South African Healthcare in Context
 
-South Africa's private medical aid system — Discovery Health, Momentum, Bonitas, Medshield — provides genuinely excellent care at the top tier. Many SA expats moving to the Netherlands were on comprehensive schemes through their employer. Dutch healthcare, by comparison, can feel less personalised and more bureaucratic. But it is universally reliable. Emergency care is excellent. There are no catastrophic out-of-pocket costs. The system does not fail people who cannot afford a premium tier.
+South Africa's private medical aid system — Discovery Health, Momentum, Bonitas, Medshield — provides genuinely excellent care at the top tier. Many SA expats moving to the Netherlands were on full medical aid schemes through their employer. Dutch healthcare, by comparison, can feel less personalised and more bureaucratic. But it is universally reliable. Emergency care is excellent. There are no catastrophic out-of-pocket costs. The system does not fail people who cannot afford a premium tier.
 
 ---
 
@@ -199,7 +199,7 @@ South African work culture varies considerably by sector and company culture, bu
 
 **Work-life balance is enforced**: The Dutch are serious about boundaries. Most offices are empty by 17:30. Weekend emails are uncommon. Holiday time is expected to be taken. This can feel strange to professionals who built careers in high-intensity South African corporate environments.
 
-**Egalitarianism**: Everyone's opinion in a meeting is expected. Junior staff question senior decisions. This flat culture is genuinely different from most South African corporate environments and takes time to navigate comfortably.
+**Egalitarianism**: Everyone's opinion in a meeting is expected. Junior staff question senior decisions. This flat culture is genuinely different from most South African corporate environments and takes time to adjust to comfortably.
 
 **Part-time work is normal**: The Netherlands has one of the highest part-time work rates in the world. Many Dutch professionals work 32 hours a week by choice. This is a feature, not a bug, and affects how teams organise themselves.
 
@@ -285,7 +285,7 @@ Most knowledge migrant employers also offer an occupational pension scheme (pens
 
 ### Tax Filing
 
-The Dutch tax year runs January to December. The annual belastingaangifte (tax return) is filed online via the Belastingdienst website, typically between March and May. Most expats with straightforward employment income find it manageable via the online tool (Mijn Belastingdienst). Complex situations — investments, overseas income, box 3 savings — benefit from a specialist. Read the [best tax advisors for expats](/guides/finance/best-tax-advisors-expats-netherlands-2026/) guide if you need professional help.
+The Dutch tax year runs January to December. The annual belastingaangifte (tax return) is filed online via the Belastingdienst website, typically between March and May. Most expats with simple employment income find it manageable via the online tool (Mijn Belastingdienst). Complex situations — investments, overseas income, box 3 savings — benefit from a specialist. Read the [best tax advisors for expats](/guides/finance/best-tax-advisors-expats-netherlands-2026/) guide if you need professional help.
 
 ---
 

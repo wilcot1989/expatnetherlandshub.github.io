@@ -29,7 +29,7 @@ faq:
     a: "Bitterballen are perhaps the most quintessentially Dutch snack: small, round, deep-fried crispy balls filled with a thick beef ragout (vleesragout) that is almost molten inside. The exterior is crunchy breadcrumbs; the interior is intensely savoury. They are served hot with Dutch mustard for dipping. They are almost always served at borrels (Dutch social drinks gatherings), available at any Dutch eetcafe (pub with food), and found at FEBO (the Dutch automat snack chain) at any hour. Warning: the inside is extremely hot immediately after frying. Always wait 60 seconds and bite carefully to avoid burning your mouth. This is a mistake every expat makes exactly once."
 ---
 
-I expected to struggle with the food when I moved to the Netherlands. Dutch cuisine does not have the international reputation of French, Italian, or even Scandinavian cooking. My expectations were low. Within a few months, I was eating some of the best Indonesian food of my life, discovering that Dutch street food is genuinely excellent, and adjusting to the peculiar rhythm of Dutch restaurant life — earlier, more straightforward, and ultimately more enjoyable than I had anticipated.
+I expected to struggle with the food when I moved to the Netherlands. Dutch cuisine does not have the international reputation of French, Italian, or even Scandinavian cooking. My expectations were low. Within a few months, I was eating some of the best Indonesian food of my life, discovering that Dutch street food is genuinely excellent, and adjusting to the peculiar rhythm of Dutch restaurant life — earlier, more relaxed, and ultimately more enjoyable than I had anticipated.
 
 This guide covers what you actually need to know about eating out in the Netherlands as an expat: the cultural norms, the best food cities, the international cuisine that the Dutch have genuinely mastered, street food worth seeking out, and where the Michelin stars are, if that matters to you.
 
@@ -141,7 +141,7 @@ Poffertjes are best eaten immediately — they deflate as they cool. At EUR 5-8 
 
 ### Bitterballen and Kroket
 
-Bitterballen are small, deep-fried balls filled with thick beef ragout — crispy on the outside, molten and intensely savoury inside. Essential borrel snack (the Dutch social drinks gathering), available at any eetcafe, and sold at FEBO (the Dutch automaat, or vending machine restaurant) any hour of day or night.
+Bitterballen are small, deep-fried balls filled with thick beef ragout — crispy on the outside, molten and intensely savoury inside. The classic borrel snack (the Dutch social drinks gathering), available at any eetcafe, and sold at FEBO (the Dutch automaat, or vending machine restaurant) any hour of day or night.
 
 **FEBO** deserves special mention as a uniquely Dutch institution. Rows of coin-operated heated compartments — each containing a snack (kroket, hamburger, kaassoufflé, frikandel) — line the wall of storefront locations throughout the Netherlands. Insert coins, remove snack, eat immediately. Open all night. A genuine social leveller — Dutch people from all backgrounds eat FEBO kroket at 2am.
 
@@ -240,7 +240,7 @@ This reflects a broader Dutch practicality: lunch is a necessary interruption to
 
 For days when eating out is not the plan, the Netherlands has an excellent range of food delivery and grocery delivery options.
 
-**Restaurant food delivery:** Thuisbezorgd.nl (the Dutch name for Takeaway.com / Just Eat Takeaway) is the dominant platform. Deliveroo operates in major cities. Uber Eats has a presence. Coverage is comprehensive in cities; in smaller towns, fewer restaurants deliver. For a full comparison, see [best food delivery apps in the Netherlands](/guides/daily-life/best-food-delivery-apps-netherlands-2026/).
+**Restaurant food delivery:** Thuisbezorgd.nl (the Dutch name for Takeaway.com / Just Eat Takeaway) is the dominant platform. Deliveroo operates in major cities. Uber Eats has a presence. Coverage is strong in cities; in smaller towns, fewer restaurants deliver. For a full comparison, see [best food delivery apps in the Netherlands](/guides/daily-life/best-food-delivery-apps-netherlands-2026/).
 
 **Grocery delivery:** Picnic (subscription-based, very popular), Albert Heijn Bezorging, Jumbo Bezorging, and Gorillas/Getir (now Flink in the Netherlands) for rapid delivery. For a full comparison of grocery delivery services, see [best grocery delivery services in the Netherlands](/guides/daily-life/best-grocery-delivery-netherlands-2026/).
 
@@ -283,6 +283,6 @@ For a realistic assessment of total monthly food costs including both eating out
 
 ---
 
-The Dutch food scene rewards exploration more than first impressions suggest. The first months of eating bread and cheese for every meal is a transitional phase, not a permanent state. Once you find your local Indonesian restaurant, discover the market, learn the borrel rhythm, and understand why the kitchen closes at 9pm, eating well in the Netherlands becomes entirely straightforward.
+The Dutch food scene rewards exploration more than first impressions suggest. The first months of eating bread and cheese for every meal is a transitional phase, not a permanent state. Once you find your local Indonesian restaurant, discover the market, learn the borrel rhythm, and understand why the kitchen closes at 9pm, eating well in the Netherlands becomes entirely natural.
 
 The Michelin stars are a nice bonus.
