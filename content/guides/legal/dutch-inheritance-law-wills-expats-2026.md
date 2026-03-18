@@ -9,7 +9,7 @@ keywords: ["dutch inheritance law expats", "writing a will in netherlands", "tes
 affiliate: false
 author: "Sarah van den Berg"
 author_bio: "Expat coach and relocation specialist. Half Dutch, half British, living in the Netherlands for over 10 years."
-featured_image: "/images/featured/dutch-inheritance-law-wills-expats-2026.webp"
+featured_image: "/images/categories/legal.svg"
 faq:
   - q: "What happens if I die in the Netherlands without a will?"
     a: "If you die in the Netherlands without a will (intestaat), Dutch inheritance law (erfrecht) applies by default. Under the wettelijke verdeling (statutory division), your surviving spouse or registered partner and all children inherit equally, but the surviving partner receives all assets for the duration of their lifetime (or until remarriage). Children receive a claim (vordering) that only becomes payable upon the surviving parent's death or bankruptcy. If you have no partner or children, inheritance goes to parents, then siblings, then more distant relatives in a legally set order."

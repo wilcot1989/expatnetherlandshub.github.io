@@ -9,7 +9,7 @@ keywords: ["netherlands vs belgium expats", "netherlands or belgium 2026", "best
 affiliate: true
 author: "Sarah van den Berg"
 author_bio: "Expat coach and relocation specialist. Half Dutch, half British, living in the Netherlands for over 10 years."
-featured_image: "/images/featured/netherlands-vs-belgium-expats-2026.webp"
+featured_image: "/images/categories/integration.svg"
 faq:
   - q: "Is the Netherlands or Belgium cheaper to live in as an expat?"
     a: "Belgium is generally cheaper than the Netherlands, especially for housing. Rent in Brussels runs 15-25% lower than Amsterdam, and food and dining out are also slightly cheaper. However, Belgium's income taxes are among the highest in Europe, which can offset the lower cost of living significantly depending on your salary."

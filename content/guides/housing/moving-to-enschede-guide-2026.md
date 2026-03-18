@@ -9,7 +9,7 @@ keywords: ["moving to enschede guide", "enschede expat 2026", "living in ensched
 affiliate: true
 author: "Sarah van den Berg"
 author_bio: "Expat coach and relocation specialist. Half Dutch, half British, living in the Netherlands for over 10 years."
-featured_image: "/images/featured/moving-to-enschede-guide-2026.webp"
+featured_image: "/images/categories/cities.svg"
 faq:
   - q: "Is Enschede a good place to live for expats?"
     a: "Enschede is an excellent choice for expats connected to the University of Twente, the local tech sector, or those who want significantly lower housing costs than Amsterdam or Utrecht. The city is relaxed, affordable, and well-connected by train to the Randstad. The international community is smaller than in Amsterdam but close-knit, largely centred around the university. German border proximity adds practical benefits."

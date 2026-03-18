@@ -9,7 +9,7 @@ keywords: ["best coworking amsterdam 2026", "coworking amsterdam neighbourhood",
 affiliate: false
 author: "Sarah van den Berg"
 author_bio: "Expat coach and relocation specialist. Half Dutch, half British, living in the Netherlands for over 10 years."
-featured_image: "/images/featured/best-coworking-amsterdam-neighbourhood-2026.webp"
+featured_image: "/images/categories/work.svg"
 faq:
   - q: "How much does a coworking day pass cost in Amsterdam?"
     a: "Day passes in Amsterdam range from about €20 for basic hotdesking at smaller independent spaces to €50-75 at premium operators like WeWork or Spaces. Monthly hot desk memberships typically run €250-500 for basic access, rising to €600-1,200+ for dedicated desk or private office access. Prices have stabilised in 2025-2026 after a period of inflation in the remote work space market."

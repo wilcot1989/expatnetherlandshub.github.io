@@ -172,7 +172,7 @@ You can buy a prepaid SIM card at Mediamarkt, phone stores, or supermarkets. If 
 
 ### Protect Your Online Privacy
 
-When settling into a new country, you are likely signing up for dozens of new services and sharing personal information across many platforms. A VPN is a smart investment for protecting your privacy, especially when using public Wi-Fi at cafes, trains, or coworking spaces. [NordVPN](https://go.nordvpn.net/aff_c?offer_id=612&aff_id=141337&url_id=14830) is our recommended choice for expats in the Netherlands, offering fast speeds, servers in over 60 countries, and the ability to access content from your home country when needed.
+When settling into a new country, you are likely signing up for dozens of new services and sharing personal information across many platforms. A VPN is a smart investment for protecting your privacy, especially when using public Wi-Fi at cafes, trains, or coworking spaces. <a href="https://go.nordvpn.net/aff_c?offer_id=612&aff_id=141337&url_id=14830" target="_blank" rel="noopener nofollow sponsored">NordVPN</a> is our recommended choice for expats in the Netherlands, offering fast speeds, servers in over 60 countries, and the ability to access content from your home country when needed.
 
 ---
 

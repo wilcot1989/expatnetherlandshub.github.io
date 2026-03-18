@@ -9,7 +9,7 @@ keywords: ["emergency fund netherlands expats", "how much savings expat netherla
 affiliate: true
 author: "Sarah van den Berg"
 author_bio: "Expat coach and relocation specialist. Half Dutch, half British, living in the Netherlands for over 10 years."
-featured_image: "/images/featured/emergency-fund-netherlands-expats-2026.webp"
+featured_image: "/images/categories/finance.svg"
 faq:
   - q: "How many months of expenses should my emergency fund cover as an expat in the Netherlands?"
     a: "The standard advice is 3-6 months of core expenses. For expats, I recommend 6 months as a minimum, for two reasons: first, the job market for international professionals can be slower to move than locals expect; second, expats face unique costs that locals do not, such as flights home for family emergencies, supporting family abroad, and potential repatriation costs if your situation in the Netherlands changes. If your income is variable (ZZP, commission-based, or contract), 9-12 months provides much stronger security."

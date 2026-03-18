@@ -153,7 +153,7 @@ For expats, the key practical difference is the reimbursement model: in France y
 
 If you are moving between the two countries, have family on both sides, or travel frequently outside Europe, SafetyWing's international health insurance covers you across borders.
 
-<a href="https://safetywing.com/?referenceID=26482728&utm_source=26482728&utm_medium=Shield" target="_blank" rel="noopener nofollow sponsored" class="cta-affiliate">Get a SafetyWing Quote →</a>
+<a href="https://safetywing.com/nomad-insurance/?referenceID=26482728&utm_source=26482728&utm_medium=Shield" target="_blank" rel="noopener nofollow sponsored" class="cta-affiliate">Get a SafetyWing Quote →</a>
 
 ---
 

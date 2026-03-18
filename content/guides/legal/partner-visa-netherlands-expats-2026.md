@@ -234,7 +234,7 @@ While your partner's application is being processed, they are not yet a Dutch re
 
 SafetyWing's Nomad Insurance is a practical option for this interim period. It provides worldwide medical coverage on a monthly subscription basis with no long-term commitment. Your partner can activate it from day one and cancel when Dutch health insurance kicks in after arrival.
 
-<a href="https://safetywing.com/?referenceID=26482728" target="_blank" rel="noopener nofollow sponsored" class="cta-affiliate">Check SafetyWing coverage →</a>
+<a href="https://safetywing.com/nomad-insurance/?referenceID=26482728" target="_blank" rel="noopener nofollow sponsored" class="cta-affiliate">Check SafetyWing coverage →</a>
 
 ---
 

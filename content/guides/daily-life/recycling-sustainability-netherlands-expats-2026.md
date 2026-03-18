@@ -9,7 +9,7 @@ keywords: ["recycling netherlands expats", "dutch recycling system", "PMD afval 
 affiliate: false
 author: "Sarah van den Berg"
 author_bio: "Expat coach and relocation specialist. Half Dutch, half British, living in the Netherlands for over 10 years."
-featured_image: "/images/featured/recycling-sustainability-netherlands-expats-2026.webp"
+featured_image: "/images/categories/daily-life.svg"
 faq:
   - q: "What does PMD stand for and what can go in it?"
     a: "PMD stands for Plastic, Metal, and Drinkpakketten (drink cartons). The orange bags (oranje zak) or orange containers collect: plastic bottles and packaging, metal tins and cans, aluminium foil, aerosol cans (empty), and drink cartons (juice boxes, soup cartons, milk cartons). What does NOT go in PMD: broken toys, garden hoses, plastic bags used as rubbish liners, anything with residual food in it, foam packaging, or plastic bags from the supermarket."

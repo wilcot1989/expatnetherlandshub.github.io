@@ -9,7 +9,7 @@ keywords: ["dutch divorce law expats", "divorce netherlands 2026", "divorce cost
 affiliate: false
 author: "Sarah van den Berg"
 author_bio: "Expat coach and relocation specialist. Half Dutch, half British, living in the Netherlands for over 10 years."
-featured_image: "/images/featured/dutch-divorce-law-expats-2026.webp"
+featured_image: "/images/categories/legal.svg"
 faq:
   - q: "Do I need a Dutch lawyer to get divorced in the Netherlands?"
     a: "Yes, in the Netherlands a divorce (echtscheiding) must be requested through a rechtbank (district court) and this requires a licensed Dutch advocaat (lawyer) to submit the petition. You cannot file for divorce directly yourself. Both parties can use the same lawyer in an uncontested divorce (gemeenschappelijk verzoek), which reduces costs significantly. However, if the divorce is contested or complex, each party should have independent legal representation."

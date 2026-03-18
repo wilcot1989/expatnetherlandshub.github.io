@@ -9,7 +9,7 @@ keywords: ["outdoor activities netherlands summer", "best outdoor activities net
 affiliate: false
 author: "Sarah van den Berg"
 author_bio: "Expat coach and relocation specialist. Half Dutch, half British, living in the Netherlands for over 10 years."
-featured_image: "/images/featured/best-outdoor-activities-netherlands-summer-2026.webp"
+featured_image: "/images/categories/daily-life.svg"
 faq:
   - q: "Where can I swim outdoors in the Netherlands?"
     a: "The Netherlands has hundreds of officially designated outdoor swimming locations (zwemwater), regularly monitored for water quality. Popular options include the North Sea beaches (Scheveningen, Zandvoort, Bergen aan Zee), IJmeer and Sloterplas in Amsterdam, Maas and Rhine river beaches, and lakes like Vinkeveense Plassen and Biesbosch. The RIVM monitors water quality at all official zwemlocaties and publishes weekly updates at zwemwater.nl."
