@@ -23,6 +23,12 @@ faq:
     a: "Yes, but it is complex. The 30% ruling is typically linked to an employment contract. As a ZZP, you would need to set up a BV (private limited company) and pay yourself a director's salary to potentially qualify. Consult a tax advisor specializing in expat taxation."
   - q: "What insurance do I need as a freelancer in the Netherlands?"
     a: "Mandatory: basic health insurance (zorgverzekering). Strongly recommended: liability insurance (aansprakelijkheidsverzekering, €3-5/month), professional liability insurance (beroepsaansprakelijkheid, €15-50/month), and disability insurance (arbeidsongeschiktheid, €50-200/month). Disability insurance is vital since you have no employer safety net."
+  - q: "Can I freelance in the Netherlands on a work visa?"
+    a: "It depends on your visa type. EU/EEA citizens can freelance freely. Non-EU citizens on a Highly Skilled Migrant (HSM) visa cannot freelance — your HSM visa is tied to your employer. To freelance as a non-EU national, you need a separate self-employment residence permit (zelfstandige verblijfsvergunning) from the IND, or a partner/spouse visa with an open work permit. If you want to combine employment and freelancing, check with the IND whether your specific permit allows it."
+  - q: "What is the minimum rate to charge as a freelancer?"
+    a: "There is no legal minimum, but there is a practical floor. Add up your annual living costs, taxes (save 30–35% of income), insurance (health + AOV + liability), pension contributions (10–15% of income), and business costs. Divide that total by your billable hours (typically 1,000–1,200/year, not 2,000 — you need time for admin, marketing, and unpaid time). That gives your break-even rate. Charge at least 30% above it for profit and buffer. For most knowledge workers in the Netherlands, this works out to a minimum of €50–€65/hour, with €75–€125/hour being the realistic market range for experienced professionals."
+  - q: "How do I file taxes as a freelancer?"
+    a: "You file two main tax returns: the BTW-aangifte (VAT return) quarterly via mijn.belastingdienst.nl, and the annual aangifte inkomstenbelasting (income tax return) by 1 May each year. Both are done online using your DigiD. Your accounting software (Moneybird, e-Boekhouden, etc.) generates the figures you need. The income tax return requires you to enter your business profit yourself — the Belastingdienst does not know your ZZP income automatically. Most freelancers benefit from using a belastingadviseur (tax advisor) for the first year to make sure all deductions (zelfstandigenaftrek, MKB-winstvrijstelling, business costs) are correctly claimed."
 ---
 
 When I registered as a ZZP at the KvK, the whole process took less than an hour. I walked in, answered some questions, paid the fee, and walked out as an officially registered Dutch freelancer. It was shockingly easy compared to the bureaucratic nightmare I had expected. The harder part comes after: figuring out taxes, insurance, invoicing, and the infamous VAT returns. I have been freelancing in the Netherlands for years and I coach other expats through it regularly. Here is the complete guide.
@@ -43,6 +49,52 @@ You need one of the following:
 - **Dutch nationality or permanent residence** — Full freedom to freelance
 
 Read our [highly skilled migrant visa guide](/guides/legal/highly-skilled-migrant-visa-netherlands-2026/) for details on work permits.
+
+## Can Non-EU Citizens Freelance in the Netherlands?
+
+This question comes up constantly in my coaching sessions, and the short answer is: yes, but you need the right permit first. The process is more involved than simply walking into the KvK.
+
+### The Self-Employment Residence Permit (Zelfstandige Verblijfsvergunning)
+
+Non-EU nationals who want to freelance independently in the Netherlands must apply for a **self-employment residence permit** through the IND (Immigratie- en Naturalisatiedienst). This is separate from — and cannot be combined with — a standard Highly Skilled Migrant visa, which ties you to a single employer.
+
+The IND assesses self-employment permit applications using a **points-based scoring system**. You need to score a minimum number of points across three categories:
+
+| Category | What is Assessed | Max Points |
+|----------|-----------------|-----------|
+| **Personal experience** | Education, qualifications, relevant work history | 30 |
+| **Business plan** | Quality of plan, market analysis, projected income, client pipeline | 30 |
+| **Added value to the Netherlands** | Innovation, job creation, sector relevance | 40 |
+
+**Points threshold:** You need at least a passing score (historically around 45–50 points, but thresholds are reviewed). The IND uses an independent advisory body — typically RVO (Rijksdienst voor Ondernemend Nederland) — to evaluate your application.
+
+### What You Need to Apply
+
+- Completed IND application form (IND.nl, in Dutch and English)
+- Valid passport with at least 6 months remaining
+- Proof of sufficient income to support yourself (or a financial guarantee)
+- A detailed, credible business plan in Dutch or English
+- CV and qualification documents (translated if necessary)
+- Evidence of a client pipeline or letters of intent from potential clients
+- Proof of accommodation in the Netherlands
+- Approximately €350 in processing fees (2026 rates)
+
+**Processing time:** Typically 3–6 months. You cannot start working in the Netherlands while the application is pending unless you already hold a different valid permit.
+
+### Permit Conditions Once Granted
+
+The self-employment permit is initially issued for **2 years**. After 2 years, you must demonstrate that your freelance business is actually viable — the IND will look at your actual income, tax records, and continued business activity. If everything checks out, you can renew and eventually apply for permanent residence.
+
+**Important:** If you later want to work as an employee rather than a freelancer, you need a different permit (e.g., an HSM visa tied to an employer). The self-employment permit is specifically for self-employment — mixing employee and ZZP income under the same permit is not automatically allowed.
+
+### What If You Are Already Here on Another Permit?
+
+- **HSM (Highly Skilled Migrant) visa:** You cannot freelance alongside your employment without IND approval. Some employers allow a small amount of self-employment activity — check your permit conditions carefully and, if in doubt, ask your employer's immigration lawyer.
+- **Partner/spouse visa (type O, open work permit):** You are generally free to freelance. Confirm this on your residence document — it should state "Arbeid vrij toegestaan" (work freely permitted).
+- **Student visa:** Freelancing is not permitted unless specifically stated on your permit.
+- **Permanent residence or Dutch nationality:** Full freedom to freelance with no restrictions.
+
+If your situation is not straightforward, consult an IND-accredited immigration lawyer before applying for your KvK registration. Registering at the KvK while not holding the right to self-employ can have consequences for your overall immigration status.
 
 ## Step 2: Register at KvK
 
@@ -150,6 +202,71 @@ Every invoice must include:
 - Description of services
 - Amount excluding VAT, VAT amount, and total including VAT
 - Your bank account number (IBAN)
+
+## Freelance Invoice Template for Dutch ZZP'ers
+
+When I started freelancing, I spent far too long worrying about whether my invoices were legally compliant. Below is an annotated template that covers everything the Dutch Belastingdienst requires. Use this as a checklist against your accounting software output.
+
+---
+
+**[YOUR BUSINESS NAME]**
+[Street address, postcode, city]
+[Email address] | [Phone number (optional)]
+
+**KvK-nummer:** 12345678  ← *Required. This is your Chamber of Commerce registration number.*
+**BTW-nummer:** NL123456789B01  ← *Required. Your VAT identification number — always starts with NL, ends with B01 or B02.*
+
+---
+
+**FACTUUR / INVOICE**
+
+**Factuurnummer:** 2026-001  ← *Required. Must be sequential and unique. Format is your choice, but you cannot reuse numbers.*
+**Factuurdatum:** 15 March 2026  ← *Required. The date the invoice is issued.*
+**Vervaldatum / Due date:** 29 March 2026  ← *Required. Your payment terms determine this — standard in the Netherlands is 14 or 30 days.*
+
+---
+
+**Factuur aan / Billed to:**
+[Client company name]
+[Client address]
+[Client KvK number — required if it's a B2B transaction and you have it]
+[Client BTW number — required for intra-EU invoices; good practice for all B2B]
+
+---
+
+| Omschrijving / Description | Qty | Rate (excl. BTW) | Total (excl. BTW) |
+|---------------------------|-----|-------------------|-------------------|
+| UX design consultation — March 2026 sprint ← *Be specific. Vague descriptions raise questions.* | 20 hrs | €95.00 | €1,900.00 |
+| Travel costs (agreed, actual cost) ← *Only include if contractually agreed and separately stated.* | 1 | €45.00 | €45.00 |
+
+---
+
+| | |
+|--|--|
+| **Subtotaal / Subtotal (excl. BTW)** | €1,945.00 |
+| **BTW 21%** ← *Standard rate. Use 9% for qualifying services/goods, 0% for intra-EU B2B.* | €408.45 |
+| **Totaal / Total (incl. BTW)** | **€2,353.45** |
+
+---
+
+**Betaling / Payment**
+**IBAN:** NL12 BANK 0123 4567 89  ← *Required. Your business bank account IBAN.*
+**BIC/SWIFT:** BANKNL2A ← *Include this for international clients.*
+**T.n.v. / Payable to:** [Your full legal name or business name]
+**Betalingstermijn:** 14 days  ← *State your payment terms clearly. 14 or 30 days is standard.*
+**Kenmerk / Reference:** Invoice 2026-001 ← *Ask clients to include this on their payment.*
+
+---
+
+### Annotations: Common Mistakes
+
+**BTW-vrijgesteld vs 0% BTW — they are not the same.** If you are registered for KOR (under €20,000/year), you issue invoices without VAT and write "BTW vrijgesteld o.g.v. artikel 25 Wet OB" instead of a VAT line. If you are providing services to a VAT-registered business in another EU country, you use 0% BTW with "BTW verlegd" (reverse charge) and include the client's EU VAT number.
+
+**Sequential invoice numbers are non-negotiable.** You can use any format (2026-001, INV-0001, etc.) but you cannot skip numbers or reuse them. If you void an invoice, keep it in your records with a note — do not delete it.
+
+**Payment terms are legally binding.** The Dutch Wet Betalingstermijnen Handelstransacties (late payment law) caps payment terms at 30 days for large companies paying SMEs, and 60 days for public bodies. If a client tries to impose 90-day terms, you are entitled to refuse under Dutch law.
+
+**Keep your invoice records for 7 years.** The Belastingdienst can audit any year within that window. Store PDFs and your accounting software exports. Cloud accounting tools like Moneybird do this automatically.
 
 ## Step 5: Get Insurance
 
@@ -294,6 +411,79 @@ Use our [insurance chooser](/tools/insurance-chooser/) to compare AOV, liability
 **Freelancers who travel internationally for client work** should also consider short-term travel medical coverage for trips outside the Netherlands. Your Dutch basisverzekering covers emergency care abroad to a degree, but the reimbursement limits for non-EU countries can fall short — and international business travel is not covered the same way as a holiday. <a href="https://safetywing.com/nomad-insurance/?referenceID=26482728&utm_source=26482728&utm_medium=Ambassador" rel="nofollow sponsored" target="_blank">SafetyWing Nomad Insurance</a> is a practical top-up for ZZPers who work across borders: it covers emergency hospitalisation, evacuation, and trip interruption from around $45/month billed monthly with no long-term commitment. It is not a replacement for your Dutch health insurance — you still need that — but it fills the gap when you are working in the US, Southeast Asia, or anywhere your Dutch insurer's international coverage is limited.
 
 <a href="https://safetywing.com/nomad-insurance/?referenceID=26482728&utm_source=26482728&utm_medium=Ambassador" rel="nofollow sponsored" target="_blank">Get SafetyWing travel coverage from $45/month →</a>
+
+## Insurance for ZZP'ers: AOV and Liability in Detail
+
+The insurance table above gives you the categories. This section gives you the real numbers and the decision framework — because choosing the wrong AOV policy (or skipping it) is the most expensive mistake I see expat freelancers make.
+
+### AOV (Arbeidsongeschiktheidsverzekering): Your Income When You Cannot Work
+
+An AOV replaces a percentage of your income if you become unable to work due to illness or injury. There is no Dutch government safety net for ZZP'ers in this situation — the WIA (disability benefit) that employees receive does not apply to you until you have been ill for a long time and have exhausted other options. The AOV is your private replacement.
+
+**Key decisions when choosing an AOV:**
+
+| Decision | Options | What It Means |
+|----------|---------|--------------|
+| **Coverage percentage** | 70%, 80% | What % of your income is replaced. 70% is standard. |
+| **Waiting period (eigenrisicotermijn)** | 0 days, 14 days, 1 month, 6 months, 1 year, 2 years | How long before the insurer pays out. Longer = cheaper premium. |
+| **End age** | 60, 65, 67, AOW age | When coverage stops. Choose at least your state pension age (67). |
+| **Definition of disability** | "Own occupation" vs "any occupation" | "Own occupation" (beroepsarbeidsongeschiktheid) pays if you cannot do your specific work. Far better — worth the extra cost. |
+| **Indexation** | Fixed benefit vs indexed | Indexed means your benefit rises with inflation. Recommended. |
+
+**Premium examples (indicative, 2026):**
+
+| Profile | Waiting Period | Coverage | Monthly Premium |
+|---------|---------------|---------|----------------|
+| Age 30, IT consultant, €5,000/month income | 1 month | 70% to age 67 | ~€80–€120 |
+| Age 35, marketing consultant, €6,000/month | 6 months | 70% to age 67 | ~€100–€150 |
+| Age 40, financial advisor, €7,000/month | 1 month | 80% to age 67 | ~€180–€250 |
+| Age 45, designer, €5,000/month | 2 years | 70% to age 67 | ~€90–€130 |
+
+**Tip on waiting period:** If you have 6–12 months of living costs saved (a solid emergency fund), you can choose a 6-month or 1-year waiting period and dramatically reduce your premium. If you have limited savings, a 1-month waiting period gives you faster protection.
+
+**Health check:** Most AOV applications require a medical questionnaire and sometimes a health check. Pre-existing conditions may be excluded or result in a higher premium. Apply while you are healthy — do not wait until you need it.
+
+**The mandatory AOV for ZZP'ers:** The Dutch government has been working on a compulsory AOV scheme for all ZZP'ers since 2025. The scheme would be administered through the UWV at a standard rate (expected around €180–€220/month regardless of age or health). Check the current status at kvk.nl — if the mandatory scheme has launched, you may still want a private top-up for a higher coverage percentage or "own occupation" definition.
+
+**Where to compare AOV policies:** Use comparison sites like independer.nl or aov-vergelijken.nl, or speak to an independent insurance broker (assurantieadviseur). Brokers are paid by commission — ask explicitly whether they are offering you the best product for your situation or the one with the highest commission.
+
+### Liability Insurance (Aansprakelijkheidsverzekering Bedrijven / AVB): What It Covers
+
+Business liability insurance covers damage you accidentally cause to **third parties** — their property, their person, or their financial loss — in the course of your business activities. It does not cover professional errors (that is beroepsaansprakelijkheid, below).
+
+**Typical AVB scenarios:**
+- You knock over a €2,000 monitor at a client's office during a meeting
+- You accidentally damage a client's server room door while moving equipment
+- A visitor to your home office trips and breaks their wrist
+
+At €3–€5/month, this is the easiest insurance decision you will make. There is no reason not to have it.
+
+**Coverage amounts:** Standard policies offer €1,000,000–€2,500,000 per incident. For most ZZP'ers, €1M is sufficient. If you regularly work at high-value client sites, consider €2.5M.
+
+### Professional Indemnity (Beroepsaansprakelijkheidsverzekering): When Your Work Causes Financial Loss
+
+This covers situations where your advice, code, design, written content, or professional judgment causes a client to suffer financial loss. It is different from AVB — it covers the economic consequences of your work, not physical accidents.
+
+**Typical beroepsaansprakelijkheid scenarios:**
+- You design a website that goes live with a critical bug that takes down the client's e-commerce shop for 3 days, costing them €15,000 in lost sales
+- Your financial advice leads to an investment loss
+- You make an error in a translation that results in a legal dispute
+- Your marketing campaign contains incorrect information, leading to a fine for your client
+
+**Cost by sector (indicative monthly premiums):**
+
+| Sector | Coverage | Monthly Premium |
+|--------|---------|----------------|
+| IT / software development | €250,000 per claim | €20–€35 |
+| Management consulting | €500,000 per claim | €25–€50 |
+| Financial advisory | €1,000,000 per claim | €45–€90 |
+| Marketing / communications | €250,000 per claim | €15–€30 |
+| Architecture / engineering | €1,000,000 per claim | €50–€120 |
+| Translation / copywriting | €100,000 per claim | €10–€20 |
+
+**My honest advice:** If your clients are companies (B2B), you almost certainly need beroepsaansprakelijkheid. Many enterprise clients will ask to see your insurance certificate before signing a contract. Even if they do not ask, the exposure is real — a single significant error claim can easily exceed €50,000.
+
+Use our [insurance chooser](/tools/insurance-chooser/) to compare AOV, AVB, and beroepsaansprakelijkheid options side by side based on your sector, income, and risk profile.
 
 ## Opening a Business Bank Account
 

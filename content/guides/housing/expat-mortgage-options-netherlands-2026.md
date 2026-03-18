@@ -23,12 +23,55 @@ faq:
     a: "A permanent contract (vast contract) makes it significantly easier. With a temporary contract, you can still get a mortgage if your employer provides an intention statement (intentieverklaring) that the contract will be extended. Self-employed expats need at least 3 years of financial statements."
   - q: "What additional costs should I budget for when buying?"
     a: "Budget 4-6% of the purchase price for additional costs: transfer tax (overdrachtsbelasting, 2% for primary residence, 10.4% for investment), notary fees (€1,000-€2,000), mortgage advisor (€2,000-€3,500), valuation report (€500-€750), and structural survey (€300-€500)."
+  - q: "Can foreigners get a mortgage in the Netherlands?"
+    a: "Yes. Nationality alone is not a barrier to getting a Dutch mortgage. What matters is your legal right to live and work in the Netherlands (residence/work permit or EU free movement), a valid BSN number, sufficient income, and a clean credit history in the Netherlands. Non-EU nationals with temporary permits can still get mortgages — lenders assess whether your permit is likely to be renewed, and expat-specialist advisors know which banks are most flexible."
+  - q: "Does the 30% ruling affect how much I can borrow?"
+    a: "Yes, significantly. Standard Dutch lenders calculate borrowing capacity based on your taxable income, not your gross income. With the 30% ruling, your taxable income is only 70% of your gross salary — which can reduce your maximum mortgage by €80,000–€150,000 on a typical expat salary. However, some expat-specialist lenders accept the full gross salary for calculation. This is one of the most important reasons to use an advisor who specialises in expat mortgages: the right lender can make a very large difference."
+  - q: "Can I get a Dutch mortgage based on foreign income?"
+    a: "It is possible but more difficult. If you earn income from abroad — for example, you are employed by a foreign company while living in the Netherlands, or you have rental income from property abroad — Dutch lenders will assess it case by case. You typically need a Dutch or EU employment contract, a Dutch salary payment into a Dutch account, and Dutch tax residency. Pure foreign-income cases (no Dutch employer) are handled by specialist lenders; a standard Dutch bank will usually decline. If this is your situation, work with an expat mortgage specialist from the outset."
 ---
 
 After years of renting in the Netherlands, I finally decided to buy -- and immediately discovered that the 30% ruling, which had been saving me money on taxes, was now working against me when it came to mortgage borrowing capacity. Nobody had warned me about that. The process of buying a house as an expat is completely doable, but it comes with a few surprises. Here is the step-by-step guide I put together from my own experience and from helping clients through the process.
 
 
 New to the Netherlands? Start with our [complete expat guide](/guides/legal/complete-guide-moving-to-netherlands-2026/) and explore [neighborhoods in The Hague](/guides/housing/moving-to-the-hague-guide-2026/).
+
+## Can Foreigners Get a Mortgage in the Netherlands?
+
+**Yes — and more straightforwardly than most expats expect.** Dutch mortgage lenders do not discriminate based on nationality. What they do care about is your legal status, income stability, and credit history in the Netherlands. Here is the direct answer to the most common questions I get from clients.
+
+### Nationality Is Not the Barrier — Legal Status Is
+
+EU/EEA citizens can apply for a Dutch mortgage on exactly the same basis as Dutch nationals. No additional hurdles. No special permits required.
+
+Non-EU nationals need a valid residence and work permit. The lender will check:
+- Does your permit have at least 6–12 months of remaining validity?
+- Is there a reasonable expectation it will be renewed (i.e., does your employer have a solid track record of renewing HSM permits)?
+- Do you have a BSN number?
+
+A **temporary contract or temporary permit does not automatically disqualify you.** Many expats buy property on a first 2-year permit. Lenders — particularly those who specialise in expat cases — understand that permit renewal is the norm for people in stable employment. What they want to see is stability, not a particular piece of paper.
+
+### What Actually Matters to a Dutch Lender
+
+| Factor | What Lenders Assess |
+|--------|-------------------|
+| **Income** | Gross salary (or taxable salary if you have the 30% ruling) |
+| **Employment type** | Permanent contract best; temporary with intention letter possible |
+| **Permit validity** | At least 6–12 months remaining; renewability assessed |
+| **Credit history** | BKR register — no negative registrations |
+| **Existing debts** | Student loans, car finance, credit cards all reduce capacity |
+| **Property type** | Standard residential; lenders are more cautious on unusual properties |
+
+### Which Lenders Work Best for Expats?
+
+Not all Dutch lenders are equally expat-friendly. Standard retail banks (ABN AMRO, ING, Rabobank) can process expat mortgages but may be less flexible on temporary contracts and 30% ruling income. Specialist lenders and intermediaries — including firms like Expat Mortgages, De Hypotheekshop, and Viisi — have dedicated expat teams and relationships with lenders who are more accommodating on:
+
+- Temporary residence permits
+- 30% ruling income calculations (full gross rather than taxable)
+- Foreign income sources as supplementary income
+- Non-EU applicants with unconventional employment structures
+
+**My recommendation:** If your situation is anything other than a permanent contract with no 30% ruling, use a specialist expat mortgage advisor. The fee (€2,000–€3,500) is almost always recovered through better terms.
 
 ## How Much Can You Borrow? The Rules Explained
 
@@ -72,6 +115,49 @@ If you are buying with a partner, lenders combine both incomes, but not always a
 - **Secondary income (if lower):** up to 90-100% used, depending on lender
 
 Two-income households generally have significantly more purchasing power than the 4.5x rule applied to one salary alone.
+
+## Joint Mortgage Applications for Expat Couples
+
+One of the most common situations I encounter is a couple where one partner is Dutch (or has permanent residency) and the other is a non-EU expat on a temporary permit. The good news: joint applications work, and combining incomes substantially increases your borrowing capacity. The details matter, though.
+
+### One Dutch / One Foreign Income: How Lenders Treat It
+
+If both applicants have income, lenders use both to calculate the maximum mortgage. The Dutch or permanent resident partner's income is typically treated as the primary income — it carries full weight in the calculation. The non-EU partner's income is assessed based on:
+
+- **Permit type and remaining validity** — A Highly Skilled Migrant (HSM) permit with 18+ months remaining and an employer with a track record of renewals is usually accepted. An initial 90-day permit is not.
+- **Income stability** — A permanent contract in the Netherlands is ideal. A temporary contract with an intentieverklaring (intent to extend) is usually accepted by expat-specialist lenders.
+- **30% ruling status** — If the non-EU partner has the 30% ruling, their taxable income (70% of gross) may be used by standard lenders. Specialist lenders may use the full gross.
+
+**Practical example:**
+
+| Partner | Income | 30% Ruling | Taxable Income Used |
+|---------|--------|-----------|---------------------|
+| Dutch partner | €55,000 | No | €55,000 |
+| Non-EU HSM partner | €65,000 | Yes | €45,500 (standard lender) or €65,000 (specialist lender) |
+| **Combined (standard)** | — | — | €100,500 → ~€440,000 max mortgage |
+| **Combined (specialist)** | — | — | €120,000 → ~€520,000 max mortgage |
+
+The difference between a standard and specialist lender in this scenario is roughly €80,000 in borrowing capacity — which in the Dutch property market can be the difference between a two-bedroom apartment and a three-bedroom house.
+
+### Non-EU Rules: What Changes When Both Partners Are Non-EU
+
+If both applicants are non-EU nationals on temporary permits, lenders assess the application more cautiously. The key questions are:
+
+1. **Are both permits likely to be renewed?** If both are HSM visa holders employed by established companies, most specialist lenders will proceed.
+2. **Is the employment base in the Netherlands?** Both partners being employed by Dutch entities (rather than seconded from abroad) reduces lender risk.
+3. **What is the combined income and stability?** Two solid HSM-level incomes with an established track record in the Netherlands is a compelling application.
+
+In practice, non-EU couples in senior employment positions regularly get mortgages in the Netherlands — but the process may take longer, and you are more likely to need a specialist lender and advisor.
+
+### Cohabiting vs Married vs Registered Partnership
+
+Dutch lenders treat these differently:
+
+- **Married:** Joint and several liability by default. Both partners are equally responsible for the full mortgage debt.
+- **Registered partnership (geregistreerd partnerschap):** Treated the same as marriage for mortgage purposes.
+- **Cohabiting (samenlevingscontract):** You can apply jointly, but lenders may ask for a formal samenlevingscontract that specifies how costs are shared. Without it, the mortgage may still be approved but the legal exposure in case of separation is more complicated.
+
+**IND impact of property ownership:** Owning property in the Netherlands does not automatically strengthen a residence permit application, and it does not prevent a permit from being refused or not renewed. Do not conflate the two. Your right to stay in the Netherlands is determined by the IND, not by your mortgage.
 
 ## Can You Get a Mortgage as an Expat?
 
@@ -184,6 +270,56 @@ You can deduct mortgage interest from your taxable income for up to 30 years:
 ### WOZ Value and Property Tax
 - **OZB** (property tax): 0.1-0.3% of WOZ value per year
 - **Eigenwoningforfait**: Add 0.35% of WOZ value to taxable income (if WOZ < €1,310,000)
+
+## Divorce and Your Dutch Mortgage
+
+Nobody buys a house thinking about divorce, but for expat couples this is a topic worth understanding upfront — because the interaction between a Dutch mortgage, property ownership, and immigration status is more complicated than for Dutch nationals. I have helped several clients navigate this, and the key lesson is: plan early, act quickly.
+
+### What Happens to the Mortgage When You Separate
+
+When a couple splits up and both names are on the mortgage, both remain jointly and severally liable for the full debt until the mortgage is formally restructured. This means if your ex-partner stops making their share of the payments, the lender can come to you for the full amount — regardless of your separation agreement.
+
+The three typical outcomes are:
+
+**1. One partner buys out the other**
+One partner takes over the property and the mortgage is transferred entirely into their name. The remaining partner must qualify for the full mortgage on their income alone. The lender will run a full new affordability assessment. If the remaining income does not support the full mortgage, this option is not available.
+
+**2. The property is sold**
+Both parties agree to sell, repay the mortgage, and split the net proceeds according to their ownership shares (or the divorce settlement). This is the simplest outcome from a mortgage perspective but may involve estate agent fees, potential capital gains (note: there is no capital gains tax on primary residences in the Netherlands, so Dutch tax is not usually a concern here), and the emotional difficulty of leaving a home.
+
+**3. The mortgage remains joint while the property is rented out**
+If neither partner can buy the other out and neither wants to sell, some couples temporarily rent out the property. This requires lender permission (your mortgage contract likely prohibits renting without approval) and may affect the mortgage interest deduction (hypotheekrenteaftrek), which only applies to a property used as your primary residence.
+
+### Mortgage Transfer: The Process
+
+If one partner is taking over the mortgage, the process involves:
+1. A new income assessment and mortgage application by the remaining partner
+2. Formal mortgage offer (hypotheekofferte) from the lender
+3. Release of the departing partner's liability — this must be formally executed by the notary
+4. Updated registration at the Kadaster (Land Registry)
+
+**Important:** A divorce settlement or cohabitation agreement saying "Partner A takes the house and mortgage" does not release Partner B from lender liability. Only the lender can release Partner B — and they will only do so once they are satisfied that Partner A qualifies independently.
+
+### IND Impact: What Separation Means for Your Permit
+
+This is where it gets complicated for expats — particularly those whose residence permit is linked to their partner.
+
+**If your residence permit is based on your own employment (HSM, self-employment, etc.):** Your permit is not directly affected by separation. You may need to update your registration at the municipality (gemeente) if you change address, but your permit stands independently.
+
+**If your residence permit is based on your partner's permit (family reunification / partner visa):** This is the critical situation. If the relationship ends and you no longer live with your sponsoring partner, you are generally expected to notify the IND. Your permit may not be renewed unless you qualify for independent status — for example, if you can demonstrate that you have been living in the Netherlands for at least 3 years as part of the relationship and meet the independent income requirement.
+
+**Practical steps if you are separating and your permit is partner-based:**
+- Consult an immigration lawyer before notifying the IND — understand your options first
+- Check whether you qualify for independent status (inkomen, duration of stay, etc.)
+- Do not simply do nothing — failure to notify the IND of a changed situation can have consequences for future permit applications
+
+**Mortgage and IND are separate processes.** The lender will not notify the IND, and the IND will not notify the lender. Handle both tracks in parallel.
+
+### NHG and Divorce
+
+If your mortgage has NHG (Nationale Hypotheek Garantie), there is a specific provision for hardship situations including divorce. If selling the property at a loss because of the separation, NHG may cover part or all of the residual debt. This is one of the strongest arguments for taking NHG when eligible — the €2,600 one-time cost (on a €435,000 mortgage) provides a real safety net if life does not go to plan.
+
+Contact the NHG foundation (nhg.nl) directly in a divorce situation — they have a dedicated process for this.
 
 ## Tips for Expat Buyers
 

@@ -25,6 +25,14 @@ faq:
     a: "Traditional Dutch banks like ING, ABN AMRO, and Rabobank require a BSN to open an account. However, online banks like Wise and Bunq may allow you to start the process before receiving your BSN. We recommend setting up a Wise account before your move to handle international transfers. See our guide to the best bank accounts for expats in the Netherlands."
   - q: "What is the best time of year to move to the Netherlands?"
     a: "Spring (April-May) and early autumn (September) are ideal. The weather is milder, and the housing market tends to have slightly more availability. Avoid moving in July-August when many landlords and officials are on vacation, potentially slowing down administrative processes."
+  - q: "How much money do I need to move to the Netherlands?"
+    a: "Plan for a minimum of EUR 5,000-10,000 in savings before you move. This covers your rental deposit (typically 1-2 months' rent), first month's rent, health insurance, and day-to-day costs while you wait for your first Dutch salary. In Amsterdam or another major city, budget toward the higher end. If you are arriving without a job lined up, you will need considerably more — at least 3-6 months of living expenses as a buffer."
+  - q: "What are the pros and cons of moving to the Netherlands?"
+    a: "Pros: excellent English proficiency, high quality of life, strong job market especially in tech and international business, world-class infrastructure, central European location, 30% ruling tax benefit for qualifying expats, generous parental leave and healthcare system. Cons: housing market is fiercely competitive and expensive, Dutch can be difficult to integrate socially at first, the weather is grey and wet for much of the year, income tax rates are high (up to 49.5%), and bureaucracy — though efficient — requires patience and preparation."
+  - q: "Can I move to the Netherlands with my non-EU partner?"
+    a: "Yes, but the process requires preparation. Your non-EU partner will need a MVV (Machtiging tot Voorlopig Verblijf) entry visa before arriving, followed by a residence permit. The sponsoring partner (you, if you are already in the Netherlands) must meet an income threshold — currently at least 100% of the applicable social assistance norm, which in 2026 is roughly EUR 1,800 net per month for a couple. Processing typically takes 3-6 months. See our full partner visa guide for step-by-step details."
+  - q: "Do I need to pay tax on my car when moving to the Netherlands?"
+    a: "Yes, in most cases. The BPM (Belasting van Personenauto's en Motorrijwielen) is a Dutch vehicle registration tax that applies when you import a car. The amount depends on the CO₂ emissions and the residual value of the vehicle. Some exemptions exist — notably if you have owned and used the car in your home country for at least 6 months before your move — but even then, an RDW inspection and registration are required. Budget for several hundred to several thousand euros depending on your vehicle."
 ---
 
 When I moved to the Netherlands over ten years ago, I thought having a Dutch mother would make everything easy. Spoiler: it did not. The bureaucracy, the housing market, the endless paperwork -- I had to figure it all out the hard way. Now, as a relocation specialist, I walk expats through this process every single week. This guide is everything I wish someone had told me before I arrived.
@@ -333,6 +341,199 @@ Over the years, I have built out a set of free tools specifically for expats goi
 **[Housing Budget Checker](/tools/housing-budget-checker/)** — Calculates what you can realistically spend on rent or a mortgage in the Netherlands based on your net income, and breaks down the full cost picture including utilities and service costs.
 
 For a detailed walkthrough of Dutch health insurance specifically — which insurer, which package, and what the eigen risico means for your wallet — read our [complete Dutch health insurance guide for expats](/guides/health/dutch-health-insurance-guide-expats-2026/).
+
+---
+
+## Moving to the Netherlands from India: Your Specific Steps
+
+India is one of the largest source countries for expats in the Netherlands, particularly in the tech, engineering, and life sciences sectors. The route is well-trodden, but there are a number of India-specific considerations that generic guides often overlook.
+
+### The Highly Skilled Migrant (Kennismigrant) Route
+
+For the vast majority of Indian professionals moving to the Netherlands, the Highly Skilled Migrant (HSM) visa — known in Dutch as the Kennismigrantvergunning — is the standard route. Your Dutch employer must be a recognised IND sponsor. The good news is that most large Dutch tech and multinationals (ASML, Booking.com, Philips, ING, Shell) are already on the IND's recognised sponsor list, so the administrative burden falls mainly on your employer rather than on you. For a full breakdown of eligibility and the step-by-step process, see my [highly skilled migrant visa guide for the Netherlands](/guides/legal/highly-skilled-migrant-visa-netherlands-2026/).
+
+**Key salary thresholds for 2026:**
+- Age 30 and over: approximately EUR 5,331 gross per month (excluding holiday allowance)
+- Under age 30: approximately EUR 3,909 gross per month
+
+### Using a Relocation Firm
+
+Many Indian professionals moving on company packages use a relocation firm. This is genuinely worth the cost, especially for your first move to the Netherlands. A good relocation firm handles your IND application paperwork, books your biometrics appointment, accompanies you to the gemeente registration, and often helps with housing viewings. If your employer does not offer a relocation budget, it is still worth asking — this is frequently negotiable. See our [guide to expat relocation services in the Netherlands](/guides/legal/expat-relocation-services-netherlands-2026/) for a comparison of the main firms operating here.
+
+### OCI Status and Your Indian Passport
+
+If you hold OCI (Overseas Citizen of India) status, you can use your OCI card as a form of identity for certain purposes, but it does not replace your passport for Dutch immigration purposes. For your IND application, gemeente registration, and all Dutch administrative processes, you will need your current Indian passport. Keep both documents accessible — your OCI card is useful for travel to India without a visa, and some Indian consular services may request it.
+
+### Opening a Bank Account Before You Arrive
+
+This is one of the most common pain points for Indian professionals arriving in the Netherlands. Traditional Dutch banks require a BSN, and you cannot get a BSN until you have a registered address. My strong advice is to open a <a href="https://wise.com/invite/ihpc/willemt52" target="_blank" rel="noopener nofollow sponsored">Wise account</a> before you leave India. Wise gives you a European IBAN, lets you hold and convert between Indian rupees, euros, and other currencies at the real exchange rate, and means you have a functional account from day one. I have walked dozens of Indian clients through this, and it consistently removes one of the biggest early stresses.
+
+### The Indian Community in the Netherlands
+
+The Netherlands has a well-established Indian community, particularly in Amsterdam, Eindhoven, Delft, and The Hague. Eindhoven has a notably large community centred around ASML and the Brainport technology cluster. Indian expat groups on WhatsApp and Facebook are active and genuinely helpful for housing leads, restaurant recommendations, and bureaucratic tips. If you are moving to Eindhoven specifically, the ASML Indian Expat community and Brainport Expats groups are good starting points. For a broader comparison of what life in the Netherlands looks like compared to what you know, my [Netherlands vs India guide](/guides/integration/netherlands-vs-india-expats-2026/) is worth reading before you arrive.
+
+---
+
+## Moving with a Non-EU Partner or Spouse
+
+Moving to the Netherlands with a non-EU partner or spouse adds a significant layer of administrative complexity. I see this catch people out regularly — the financial requirements in particular are higher than most people expect.
+
+### The MVV: Your Partner's Entry Visa
+
+A non-EU national who needs a visa to enter the Netherlands (which includes citizens of most non-Western countries) must apply for an MVV (Machtiging tot Voorlopig Verblijf) — a long-stay entry visa — at the Dutch embassy or consulate in their home country before they travel. This is not something they can sort out after arriving on a tourist visa. Attempting to bypass this process creates serious problems down the line.
+
+The MVV application is linked to the residence permit application, and both are processed by the IND simultaneously. Your partner will need to:
+
+1. Collect the MVV from the Dutch embassy in their home country
+2. Travel to the Netherlands within 90 days of the MVV being issued
+3. Register at the gemeente and collect their residence permit sticker from an IND desk
+
+### Partner Visa Timeline
+
+Realistically, plan for **3-6 months** from the point of submitting the application to your partner arriving in the Netherlands. In practice, the IND has a target of 90 days for partner visa decisions, but this can stretch, particularly if additional documents are requested. I always advise clients to build in at least 4 months of buffer.
+
+The full process:
+- **Weeks 1-4**: Gather documents, get them apostilled, arrange certified translations
+- **Weeks 4-8**: Submit application via the Dutch embassy in your partner's home country
+- **Weeks 8-16+**: IND assessment and decision
+- **After approval**: MVV collection, travel to the Netherlands, gemeente registration, IND desk visit
+
+### Financial Requirements
+
+This is where many couples get a surprise. To sponsor a non-EU partner's visa, you (as the resident in the Netherlands) must demonstrate that you earn **at least 100% of the applicable social assistance norm**. In 2026, this is approximately:
+
+- **EUR 1,800 net per month** for couples (the exact figure is updated annually based on the social minimum)
+
+Importantly, this must be a stable, contract-based income — freelance or self-employed income counts but requires more documentation. The 30% ruling does not help here: the income threshold is assessed on your net taxable salary, not your gross, but the ruling-reduced gross is what is used for the calculation.
+
+Other requirements include:
+- Your partner must be aged 18 or over
+- You must have been in a genuine relationship, with evidence (correspondence, photos, joint travel history)
+- Your partner must pass a basic Dutch language and civic integration test (Basisexamen Inburgering Buitenland, or BIB) at the Dutch embassy — unless they are from a list of exempt countries including the USA, Canada, Australia, Japan, and several others
+
+For the complete step-by-step process, required documents, and country-specific exemptions, read my [partner visa guide for the Netherlands](/guides/legal/partner-visa-netherlands-expats-2026/).
+
+---
+
+## Bringing Your Car to the Netherlands
+
+Bringing your own car from abroad is often straightforward in theory and consistently more complicated in practice. Here is what actually happens and what it costs.
+
+### The BPM Tax
+
+BPM (Belasting van Personenauto's en Motorrijwielen) is the Dutch vehicle registration tax. Every car registered in the Netherlands for the first time is subject to BPM, including imported vehicles. The amount is calculated based on the CO₂ emissions and the residual value (cataloguswaarde) of your specific car.
+
+For petrol cars, BPM can easily run to **EUR 2,000-8,000** or more for a mid-range vehicle. For electric vehicles, the rate is lower, and for cars with very low emissions, the tax may be minimal. The Dutch Tax Authority (Belastingdienst) provides an online BPM calculator.
+
+**The removal exemption (verhuisboedel):** If you have owned and actually used your car in your home country for at least **6 consecutive months** before your move, you may qualify for a BPM exemption under the removal goods (verhuisboedel) scheme. You must apply for this exemption **before** the car enters the Netherlands, using form BPM46 submitted to the Belastingdienst. If you move first and then import the car, the exemption window closes.
+
+This exemption requires:
+- Proof of 6+ months of ownership (purchase documents, insurance history)
+- Proof that the car was used in your home country (registration documents showing foreign number plates)
+- That you import the car within one year of taking up Dutch residency
+- That you keep the car for at least 12 months after importation
+
+### RDW Inspection
+
+All imported vehicles must pass an RDW (Rijksdienst voor het Wegverkeer) inspection before they can be registered in the Netherlands. The RDW checks that your car meets Dutch and EU road safety and emissions standards. Common issues for non-EU cars include:
+
+- Incorrect lighting (some non-EU markets have different headlight specifications)
+- Speedometer in mph rather than km/h
+- Tyre specifications
+
+Budget **EUR 200-400** for the RDW inspection, plus any modifications required to pass. Some specialist garages near the Dutch border specifically handle imported car approvals and can advise before you bring the car in.
+
+### Registration Process
+
+Once BPM is handled and the RDW inspection is passed:
+
+1. Pay the BPM (or have the exemption confirmed)
+2. Receive Dutch number plates (kentekenbewijs) from the RDW
+3. Arrange Dutch car insurance — you need a Dutch policy before the car can be driven on Dutch roads with Dutch plates
+
+For a detailed guide covering car ownership in the Netherlands, including buying a local vehicle if importing is not practical, see our [guide to buying a car in the Netherlands as an expat](/guides/daily-life/how-to-buy-car-netherlands-expat-2026/) and our [guide to registering a car in the Netherlands](/guides/daily-life/register-car-netherlands-expat-2026/).
+
+---
+
+## Moving to the Netherlands with Pets
+
+Moving with pets is one of those topics where the consequences of getting it wrong are genuinely severe — your animal could be refused entry, quarantined at your expense, or sent back. Get this right and it is actually fairly manageable.
+
+### EU Pet Passport
+
+If you are moving from within the EU, an **EU pet passport** is all you need. Your vet in your home country issues this document, which records your pet's microchip number, rabies vaccination history, and health status. Ensure the rabies vaccination is current — it must have been administered after microchipping and must not have expired.
+
+The Netherlands does not require quarantine for animals arriving from EU countries with a valid EU pet passport.
+
+### Non-EU Pet Import
+
+If you are bringing a pet from outside the EU — India, the USA, Australia, South Africa, or elsewhere — the rules are more demanding and the preparation timeline is longer.
+
+**For dogs and cats from most non-EU countries, the requirements are:**
+
+1. **Microchip**: ISO 11784/11785-compliant 15-digit microchip, implanted before or at the same time as the rabies vaccination
+2. **Rabies vaccination**: Must be administered after microchipping; a primary course requires a 21-day wait before travel
+3. **Rabies antibody titre test (RNATT)**: Required for entry from countries that are not on the EU's approved list (which includes India, the USA, and most other non-EU countries). This blood test confirms adequate immune response after vaccination. The test must be done at an EU-approved laboratory, and your pet cannot travel until **3 months after the date of the blood draw** (not the test result date). This is the rule that catches people out — it means that from the point of microchipping and vaccinating a previously unvaccinated animal, **you are looking at a minimum of 4-5 months** before your pet can enter the Netherlands
+4. **Official health certificate**: Issued by an officially authorised vet in your home country, using the correct EU entry form (Annex IV for dogs, cats, and ferrets)
+5. **Entry through an approved Border Inspection Post (BIP)**: Schiphol Airport is an approved BIP for pets
+
+**Countries with approved status (no titre test required):** Australia, New Zealand, Japan, Canada, USA, and a number of others are on the EU's approved "listed" countries. Check the NVWA (Netherlands Food and Consumer Product Safety Authority) website for the current list, as it changes.
+
+### Quarantine
+
+The Netherlands does not have a blanket quarantine requirement. However, if your documentation is incomplete or incorrect on arrival, your pet may be quarantined at an approved facility at your expense while the issues are resolved — costs can run to EUR 50-150 per day. This is entirely avoidable with proper preparation.
+
+### Practical Advice
+
+- Start the process **at least 6 months before your move** if you are coming from a non-EU, non-listed country, to account for the titre test waiting period
+- Use a specialist pet relocation firm for complex cases — they know the paperwork in detail and have relationships with approved vets and laboratories
+- Pre-notify the Dutch NVWA about your pet's arrival if entering via Schiphol
+- After arrival, you do not need to register your pet centrally in the Netherlands, but many municipalities recommend microchip registration with a national database
+
+For the full requirements by country of origin and a step-by-step checklist, see our [complete pet relocation guide for the Netherlands](/guides/daily-life/pet-relocation-netherlands-2026/).
+
+---
+
+## Frequently Asked Questions
+
+### How much money do I need to move to the Netherlands?
+
+Plan for a minimum of **EUR 5,000-10,000** in savings before you move. This covers your rental deposit (typically one to two months' rent), first month's rent, health insurance, and day-to-day costs while you wait for your first Dutch salary. In Amsterdam or another major city, budget toward the higher end. If you are arriving without a job lined up, you need considerably more — at least three to six months of living expenses as a realistic buffer.
+
+Beyond the move itself, it is worth knowing what the ongoing cost of living looks like. Use my [cost of living calculator](/tools/cost-of-living-calculator/) to get a personalised estimate based on your city, household size, and lifestyle.
+
+### What are the pros and cons of moving to the Netherlands?
+
+I have been here over a decade and I am still here, which tells you something. But I am honest with clients: the Netherlands is not for everyone.
+
+**Genuine advantages:**
+- Near-universal English proficiency makes the first months manageable while your Dutch develops
+- One of the strongest job markets in Europe for international professionals, particularly tech, engineering, finance, and life sciences
+- Central European location — you can be in London, Paris, or Berlin in two hours or less
+- The 30% ruling significantly reduces your tax burden if you qualify
+- Excellent public services: healthcare, infrastructure, education
+- Safe, organised, and relatively corruption-free
+
+**Real downsides:**
+- The housing market is genuinely brutal, especially in Amsterdam and Utrecht
+- Income tax reaches 49.5% — even with the 30% ruling, your take-home on high salaries may surprise you
+- Social integration takes time; Dutch people tend to have tightly established social circles
+- The weather is reliably grey and wet for roughly six months of the year
+- Bureaucracy is efficient but demands exactness — wrong documents, missed deadlines, and small errors can cause weeks of delays
+
+For a detailed side-by-side comparison with other destinations, see the [Netherlands vs UK guide](/guides/integration/netherlands-vs-uk-expats-2026/), [Netherlands vs Germany](/guides/integration/netherlands-vs-germany-expats-2026/), or [Netherlands vs India](/guides/integration/netherlands-vs-india-expats-2026/).
+
+### Can I move to the Netherlands with my non-EU partner?
+
+Yes. Your partner will need to apply for an MVV (entry visa) at the Dutch embassy in their home country before travelling. You, as the sponsor, must meet the income threshold — approximately EUR 1,800 net per month in 2026 — and your partner must usually pass a basic Dutch integration test abroad (there are exemptions for some nationalities).
+
+The total process realistically takes three to six months. I cover every step, required document, and common mistake in the [partner visa guide for the Netherlands](/guides/legal/partner-visa-netherlands-expats-2026/).
+
+### Do I need to pay tax on my car when moving to the Netherlands?
+
+In most cases, yes. BPM (vehicle registration tax) applies when a car is first registered in the Netherlands, and that includes imported vehicles. The amount varies by CO₂ emissions and residual value — for a typical petrol car it often runs to several thousand euros.
+
+A BPM exemption is available under the removal goods scheme if you have owned and used the car abroad for at least six consecutive months before your move, but you must apply for this exemption **before** the car enters the Netherlands. The car must also pass an RDW road safety inspection before it can be registered.
 
 ---
 
