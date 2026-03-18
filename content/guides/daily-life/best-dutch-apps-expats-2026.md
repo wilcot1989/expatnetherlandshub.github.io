@@ -245,7 +245,7 @@ For a detailed comparison of Funda vs other housing platforms, see the [finding 
 
 4. **Secure remote work** — if you work for an international employer and connect to company systems, many IT departments recommend or require VPN.
 
-NordVPN has servers in 111 countries, works across all your devices simultaneously (up to 10 on one account), and has a no-logs policy independently audited. Download via [NordVPN](https://nordvpn.com/special/friend/?referred_by=141337) — current pricing starts around €3.69/month on the 2-year plan.
+NordVPN has servers in 111 countries, works across all your devices simultaneously (up to 10 on one account), and has a no-logs policy independently audited. Download via <a href="https://go.nordvpn.net/aff_c?offer_id=612&aff_id=141337&url_id=14830" target="_blank" rel="noopener nofollow sponsored">NordVPN</a> — current pricing starts around €3.69/month on the 2-year plan.
 
 ---
 

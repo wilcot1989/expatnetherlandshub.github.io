@@ -11,16 +11,16 @@ featured_image: "/images/featured/making-friends-netherlands-expats-2026.webp"
 affiliate: false
 description: "Making friends in the Netherlands is harder than it looks. An honest expat guide to Dutch social culture, where to meet people, and what actually works."
 faq:
-  - question: "Why is it so hard to make friends in the Netherlands?"
-    answer: "Dutch people tend to have tight, long-established social circles from school and university. They are not unfriendly, but they rarely seek new close friendships in adulthood. Social calendars are planned weeks in advance, and casual drop-in culture does not really exist here. It takes time and consistency to break through."
-  - question: "How long does it take to make real friends as an expat in the Netherlands?"
-    answer: "Most expats report that forming genuine, lasting friendships takes one to two years. You can build a social network much sooner, but deep friendships require repeated contact and shared experience over time. Managing that expectation saves a lot of frustration."
-  - question: "Do I need to speak Dutch to make friends here?"
-    answer: "Not strictly — most Dutch people speak excellent English. But learning even basic Dutch changes how people respond to you. It signals effort and respect, and it opens doors to clubs, volunteer groups, and neighbourhood conversations that English alone does not."
-  - question: "What are the best ways to meet people as an expat in the Netherlands?"
-    answer: "Sports clubs and local verenigingen (associations) are consistently the most effective. You show up regularly, you see the same people, and a shared activity gives you something to talk about beyond small talk. Language classes and volunteer work are close behind."
-  - question: "Is loneliness common among expats in the Netherlands?"
-    answer: "Very. Surveys consistently show expats in the Netherlands rate social connection as one of their biggest challenges, despite loving the country in most other respects. You are not doing something wrong if you feel isolated in your first year. It is a known pattern."
+  - q: "Why is it so hard to make friends in the Netherlands?"
+    a: "Dutch people tend to have tight, long-established social circles from school and university. They are not unfriendly, but they rarely seek new close friendships in adulthood. Social calendars are planned weeks in advance, and casual drop-in culture does not really exist here. It takes time and consistency to break through."
+  - q: "How long does it take to make real friends as an expat in the Netherlands?"
+    a: "Most expats report that forming genuine, lasting friendships takes one to two years. You can build a social network much sooner, but deep friendships require repeated contact and shared experience over time. Managing that expectation saves a lot of frustration."
+  - q: "Do I need to speak Dutch to make friends here?"
+    a: "Not strictly — most Dutch people speak excellent English. But learning even basic Dutch changes how people respond to you. It signals effort and respect, and it opens doors to clubs, volunteer groups, and neighbourhood conversations that English alone does not."
+  - q: "What are the best ways to meet people as an expat in the Netherlands?"
+    a: "Sports clubs and local verenigingen (associations) are consistently the most effective. You show up regularly, you see the same people, and a shared activity gives you something to talk about beyond small talk. Language classes and volunteer work are close behind."
+  - q: "Is loneliness common among expats in the Netherlands?"
+    a: "Very. Surveys consistently show expats in the Netherlands rate social connection as one of their biggest challenges, despite loving the country in most other respects. You are not doing something wrong if you feel isolated in your first year. It is a known pattern."
 ---
 
 I moved to the Netherlands from London nine years ago, full of optimism and a vague idea that making friends here would be roughly the same as making friends anywhere. I had a job lined up, a flat in Utrecht, and what I thought was a reasonable social personality. Within three months, I was spending Saturday evenings alone wondering where I had gone wrong.

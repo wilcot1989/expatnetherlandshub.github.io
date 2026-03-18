@@ -231,7 +231,7 @@ Total out-of-pocket costs for the employee in a standard relocation are typicall
 
 There is often a period — sometimes several weeks — between your arrival in the Netherlands and the moment your Dutch health insurance and employment coverage kicks in. During this window, you are not covered by the Dutch healthcare system.
 
-For many clients I advise in this situation, [SafetyWing Nomad Insurance](https://safetywing.com) is a practical short-term solution. It covers medical emergencies, hospitalisation, and evacuation at a low monthly cost, and you can start it immediately from abroad before your Dutch basisverzekering takes effect. It is not a substitute for Dutch health insurance long-term, but it fills the gap cleanly.
+For many clients I advise in this situation, <a href="https://safetywing.com/nomad-insurance/?referenceID=26482728" target="_blank" rel="noopener nofollow sponsored">SafetyWing Nomad Insurance</a> is a practical short-term solution. It covers medical emergencies, hospitalisation, and evacuation at a low monthly cost, and you can start it immediately from abroad before your Dutch basisverzekering takes effect. It is not a substitute for Dutch health insurance long-term, but it fills the gap cleanly.
 
 Once you have your permit and BSN number, you have four months to arrange Dutch basic health insurance. Read the [Dutch health insurance guide for expats](/guides/health/dutch-health-insurance-guide-expats-2026/) to understand your options and obligations.
 

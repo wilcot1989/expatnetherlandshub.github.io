@@ -221,7 +221,7 @@ Do not let this happen. Arrange your insurance within the first few weeks of arr
 
 There is often a gap between arriving in the Netherlands and getting your Dutch health insurance set up. You might be waiting for your BSN, comparing insurers, or simply dealing with the chaos of relocation.
 
-During this period, [SafetyWing](https://safetywing.com/nomad-insurance/?referenceID=26482728&utm_source=26482728&utm_medium=Ambassador) offers an excellent temporary solution. SafetyWing provides international health insurance designed for expats and digital nomads, with the following features:
+During this period, <a href="https://safetywing.com/nomad-insurance/?referenceID=26482728&utm_source=26482728&utm_medium=Ambassador" target="_blank" rel="noopener nofollow sponsored">SafetyWing</a> offers an excellent temporary solution. SafetyWing provides international health insurance designed for expats and digital nomads, with the following features:
 
 - **Monthly subscription starting from approximately USD 45 per month**
 - **No commitment**: Cancel anytime
@@ -230,14 +230,14 @@ During this period, [SafetyWing](https://safetywing.com/nomad-insurance/?referen
 - **Emergency and urgent care**: Fully covered
 - **Sign up online in minutes**, no BSN or Dutch address required
 
-[SafetyWing](https://safetywing.com/nomad-insurance/?referenceID=26482728&utm_source=26482728&utm_medium=Ambassador) is not a replacement for Dutch basisverzekering. Once you are registered and have arranged your Dutch health insurance, you should cancel SafetyWing. But as bridge coverage, it provides genuine peace of mind during the transition period. If you are comparing international options at this stage, see our [SafetyWing vs Cigna comparison](/guides/health/safetywing-vs-cigna-expat-insurance-2026/) for a detailed side-by-side analysis.
+<a href="https://safetywing.com/nomad-insurance/?referenceID=26482728&utm_source=26482728&utm_medium=Ambassador" target="_blank" rel="noopener nofollow sponsored">SafetyWing</a> is not a replacement for Dutch basisverzekering. Once you are registered and have arranged your Dutch health insurance, you should cancel SafetyWing. But as bridge coverage, it provides genuine peace of mind during the transition period. If you are comparing international options at this stage, see our [SafetyWing vs Cigna comparison](/guides/health/safetywing-vs-cigna-expat-insurance-2026/) for a detailed side-by-side analysis.
 
 This is especially relevant for:
 - Expats who arrive a few weeks before their employment start date
 - Partners or family members who may have a gap in coverage
 - Anyone waiting for their BSN to process their Dutch insurance application
 
-[Get temporary expat coverage with SafetyWing](https://safetywing.com/nomad-insurance/?referenceID=26482728&utm_source=26482728&utm_medium=Ambassador)
+<a href="https://safetywing.com/nomad-insurance/?referenceID=26482728&utm_source=26482728&utm_medium=Ambassador" target="_blank" rel="noopener nofollow sponsored">Get temporary expat coverage with SafetyWing</a>
 
 <a href="https://safetywing.com/nomad-insurance/?referenceID=26482728&utm_source=26482728&utm_medium=Ambassador" class="cta" rel="nofollow sponsored" target="_blank">Get SafetyWing Temporary Health Coverage from $45/month</a>
 
@@ -250,7 +250,7 @@ Here is the complete process from arrival to being fully insured:
 ### Week 1: Arrival and Registration
 
 1. Register at your gemeente and receive your BSN
-2. If you do not yet have coverage, sign up for [SafetyWing](https://safetywing.com/nomad-insurance/?referenceID=26482728&utm_source=26482728&utm_medium=Ambassador) as temporary insurance
+2. If you do not yet have coverage, sign up for <a href="https://safetywing.com/nomad-insurance/?referenceID=26482728&utm_source=26482728&utm_medium=Ambassador" target="_blank" rel="noopener nofollow sponsored">SafetyWing</a> as temporary insurance
 
 ### Week 2-3: Research and Compare
 

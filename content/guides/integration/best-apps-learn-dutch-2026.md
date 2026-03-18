@@ -157,7 +157,7 @@ Pimsleur is the best choice if you want to speak Dutch with confidence. It is pa
 
 ## 4. Mondly -- Best for Visual and Interactive Learners
 
-[Mondly](https://mondly.pxf.io/7X5PyO) offers a visually polished experience with some modern features including augmented reality and chatbot conversations.
+<a href="https://mondly.pxf.io/7X5PyO" target="_blank" rel="noopener nofollow sponsored">Mondly</a> offers a visually polished experience with some modern features including augmented reality and chatbot conversations.
 
 ### What Makes Mondly Stand Out
 
@@ -186,7 +186,7 @@ Mondly uses a conversation-first approach. Each lesson begins with a dialogue th
 
 ### Verdict
 
-Mondly is a good choice if you learn best through visual and interactive content. The chatbot and AR features add engagement that other apps lack. [Start learning Dutch with Mondly](https://mondly.pxf.io/7X5PyO).
+Mondly is a good choice if you learn best through visual and interactive content. The chatbot and AR features add engagement that other apps lack. <a href="https://mondly.pxf.io/7X5PyO" target="_blank" rel="noopener nofollow sponsored">Start learning Dutch with Mondly</a>.
 
 <a href="https://mondly.pxf.io/7X5PyO" target="_blank" rel="noopener nofollow sponsored" class="cta-affiliate">Try Mondly for Dutch →</a>
 
@@ -320,7 +320,7 @@ Based on my testing, here is the combination I recommend for expats learning Dut
 
 1. **[Pimsleur](https://www.pimsleur.com/)** during your commute (30 minutes per day, no screen required)
 2. **Duolingo** for 5-minute sessions during breaks (free)
-3. **[Mondly](https://mondly.pxf.io/7X5PyO)** daily lesson reminders to maintain consistency
+3. **<a href="https://mondly.pxf.io/7X5PyO" target="_blank" rel="noopener nofollow sponsored">Mondly</a>** daily lesson reminders to maintain consistency
 
 ---
 

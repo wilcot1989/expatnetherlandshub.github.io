@@ -343,7 +343,7 @@ If you are an expat who spends significant time outside the Netherlands, or if y
 
 [Compare Dutch health insurance via Independer](https://www.independer.nl/zorgverzekering/intro.aspx)
 
-[Explore SafetyWing international health coverage](https://safetywing.com/?referenceID=26482728&utm_source=26482728&utm_medium=Ambassador)
+<a href="https://safetywing.com/nomad-insurance/?referenceID=26482728&utm_source=26482728&utm_medium=Ambassador" target="_blank" rel="noopener nofollow sponsored">Explore SafetyWing international health coverage</a>
 
 For a full breakdown of how Dutch health insurance works and what it covers, see the [Dutch health insurance guide for expats](/guides/health/dutch-health-insurance-guide-expats-2026/) and [what Dutch health insurance actually covers](/guides/health/what-dutch-health-insurance-covers-2026/).
 
@@ -373,7 +373,7 @@ Dental care is not cheap without supplemental insurance. A filling typically cos
 
 **Health insurance:**
 - [Independer](https://www.independer.nl) — insurance comparison
-- [SafetyWing](https://safetywing.com/?referenceID=26482728&utm_source=26482728&utm_medium=Ambassador) — international health coverage
+- <a href="https://safetywing.com/nomad-insurance/?referenceID=26482728&utm_source=26482728&utm_medium=Ambassador" target="_blank" rel="noopener nofollow sponsored">SafetyWing</a> — international health coverage
 - [Health insurance wizard](/tools/health-insurance-wizard/) — tool to find the right plan for your situation
 
 **Translation:**
