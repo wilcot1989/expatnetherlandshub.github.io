@@ -2,7 +2,7 @@
 title: "DeGiro Review for Expats in Netherlands 2026"
 date: 2026-07-01T10:00:00+01:00
 lastmod: 2026-07-01T10:00:00+01:00
-description: "DeGiro is the cheapest broker in the Netherlands — but is it right for expats? Honest review covering BSN, Box 3 tax, ETF selection, and real account setup."
+description: "DeGiro is the cheapest broker in the Netherlands. Honest review covering BSN, Box 3 tax, ETF selection, and account setup for expats."
 categories: ["finance"]
 tags: ["DeGiro", "investing", "ETF", "Box 3", "expat finance", "broker review"]
 keywords: ["DeGiro review expats Netherlands", "DeGiro account setup Netherlands", "DeGiro Box 3 tax", "best broker Netherlands expat 2026"]
@@ -12,7 +12,7 @@ author_bio: "Expat coach and writer at ExpatNetherlandsHub.com"
 featured_image: "/images/categories/finance.svg"
 faq:
   - q: "Do I need a BSN to open a DeGiro account in the Netherlands?"
-    a: "Yes. DeGiro requires a Dutch BSN (Burgerservicenummer) to open an account as a Dutch resident. You will also need to complete identity verification (a valid EU passport or national ID card). Once you have your BSN after registering with your municipality, the account application is straightforward and usually approved within one working day."
+    a: "Yes. DeGiro requires a Dutch BSN (Burgerservicenummer) to open an account as a Dutch resident. You will also need to complete identity verification (a valid EU passport or national ID card). Once you have your BSN after registering with your municipality, the account application is simple and usually approved within one working day."
   - q: "How does DeGiro report my investments to the Dutch tax authority?"
     a: "DeGiro automatically reports your portfolio value to the Belastingdienst (Dutch tax authority) as part of the Dutch financial institution reporting obligations. Your investment balance on 1 January each year is pre-filled in your Dutch tax return under Box 3. You do not need to manually calculate or report it yourself — but you should still check the pre-filled amount for accuracy each year, as dividend tax credits and certain positions can require manual correction."
   - q: "Can I buy the Vanguard FTSE All-World ETF (VWRL) on DeGiro?"
@@ -20,7 +20,7 @@ faq:
   - q: "Is DeGiro safe? Is my money protected if DeGiro goes bust?"
     a: "DeGiro is authorised and regulated by the Dutch financial regulator AFM (Autoriteit Financiële Markten) and DNB (De Nederlandsche Bank). Your investments are held in a separate legal entity — Stichting DeGiro — which means they are segregated from DeGiro's corporate assets and should not be at risk if DeGiro itself becomes insolvent. Cash held in your account is covered by the Dutch deposit guarantee scheme (DGS) up to EUR 100,000. However, DeGiro uses a securities lending programme by default on some account types, which introduces a small counterparty risk on loaned shares. You can avoid this by choosing a Custody account instead of a Basic account."
   - q: "Does DeGiro work for American expats in the Netherlands?"
-    a: "DeGiro does not accept US persons — meaning Americans living in the Netherlands (or holding US citizenship) cannot open an account. This is due to FATCA compliance complexity. American expats in the Netherlands should look at Interactive Brokers, which is one of the few platforms that accepts US persons and is available in the Netherlands. The investing landscape for Americans abroad is genuinely restrictive, and most European ETFs trigger punitive PFIC tax rules under US law regardless of the platform."
+    a: "DeGiro does not accept US persons — meaning Americans living in the Netherlands (or holding US citizenship) cannot open an account. This is due to FATCA compliance complexity. American expats in the Netherlands should look at Interactive Brokers, which is one of the few platforms that accepts US persons and is available in the Netherlands. The investing world for Americans abroad is genuinely restrictive, and most European ETFs trigger punitive PFIC tax rules under US law regardless of the platform."
   - q: "How does DeGiro compare to Trading 212 for expats?"
     a: "Trading 212 offers commission-free trading and a small interest rate on uninvested cash (around 3-4% in 2026, variable). DeGiro is not commission-free but is extremely cheap, and its platform is more established in the Netherlands with better Dutch tax reporting integration. Trading 212 is UK-regulated (FCA) rather than Dutch-regulated, which some expats find less reassuring. For pure cost on regular ETF investing, Trading 212 may be cheaper. For reliability, Dutch tax pre-filling, and regulatory familiarity, DeGiro has the edge."
 ---
@@ -238,7 +238,7 @@ I mentioned at the start that I have two caveats about DeGiro. Here they are:
 
 DeGiro's customer support is mediocre. Responses to email queries can take several days. The in-app chat is sometimes staffed, sometimes not. If you have an urgent issue — a corporate action on a stock you hold, an unexplained transaction, a problem with your identity verification — you may be waiting longer than is comfortable.
 
-This is the most consistent complaint I hear from expat clients who use DeGiro. For straightforward buy-and-hold investing, you rarely need support. But when you do need it, the experience can be frustrating.
+This is the most consistent complaint I hear from expat clients who use DeGiro. For simple buy-and-hold investing, you rarely need support. But when you do need it, the experience can be frustrating.
 
 ### Caveat 2: The Platform Lacks Sophistication
 

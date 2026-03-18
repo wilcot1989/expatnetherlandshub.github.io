@@ -199,7 +199,7 @@ For most expats, the best approach is not to go direct to a single insurer first
 
 <a href="https://www.awin1.com/cread.php?awinmid=19918&awinaffid=2776410&ued=https://www.independer.nl/autoverzekering" target="_blank" rel="noopener nofollow sponsored" class="cta-affiliate">Compare car insurance on Independer →</a>
 
-Independer is the largest and most comprehensive insurance comparison platform in the Netherlands. It compares policies from all major Dutch insurers in real time. You can filter by coverage type, excess amount, and optional add-ons. The interface is in Dutch, but straightforward to navigate.
+Independer is the largest and most detailed insurance comparison platform in the Netherlands. It compares policies from all major Dutch insurers in real time. You can filter by coverage type, excess amount, and optional add-ons. The interface is in Dutch, but easy to navigate.
 
 **How to use Independer effectively as an expat:**
 
@@ -253,7 +253,7 @@ Read my [full guide to registering a car in the Netherlands as an expat](/guides
 If you have an accident:
 
 1. **Get the details of the other driver** — name, address, policy number, insurer name, and registration number. In the Netherlands, both drivers are expected to complete a European Accident Statement form (Europees Schadeformulier / ESF). Keep one in your car.
-2. **Report to your insurer** — most Dutch insurers accept claims online or via app. Centraal Beheer and Interpolis both have straightforward apps for this.
+2. **Report to your insurer** — most Dutch insurers accept claims online or via app. Centraal Beheer and Interpolis both have easy-to-use apps for this.
 3. **Document everything** — photos of the damage, the scene, and any witnesses' contact details.
 4. **Do not admit fault at the scene** — discuss this with your insurer first.
 

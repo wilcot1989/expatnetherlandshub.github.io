@@ -2,11 +2,11 @@
 title: "Dutch Utilities Explained for Expats 2026"
 date: 2026-07-10T10:00:00+01:00
 lastmod: 2026-07-10T10:00:00+01:00
-description: "Dutch utilities explained for expats 2026: water bills, energy contracts, waste collection, internet providers, reading your energy bill, and switching suppliers."
+description: "Dutch utilities for expats 2026: water bills, energy contracts, waste collection, internet providers, reading your energy bill, and switching suppliers."
 categories: ["daily-life"]
 tags: ["dutch utilities expats", "energy contract netherlands", "Vattenfall Eneco Essent comparison", "water bill netherlands", "GFT PMD waste netherlands", "internet netherlands expats"]
 keywords: ["dutch utilities expats 2026", "energy contract netherlands expats", "water bill netherlands Waternet", "Vattenfall vs Eneco vs Essent", "waste collection netherlands", "switching energy provider netherlands"]
-affiliate: false
+affiliate: true
 author: "Sarah van den Berg"
 author_bio: "Expat coach and writer at ExpatNetherlandsHub.com"
 featured_image: "/images/categories/daily-life.svg"
@@ -278,6 +278,34 @@ The whole process, from signing up to switch completion, takes approximately 4�
 **For water:** Extremely cheap per unit. There is almost nothing you can do to meaningfully reduce your water bill — it is small regardless.
 
 **For internet:** Introductory offers (aanbiedingen) are very common — new customers often get 3–6 months at a reduced price. Worth comparing at the end of every annual contract.
+
+---
+
+## Frequently Asked Questions
+
+### Do I need to set up my own utilities in the Netherlands?
+
+It depends on your rental situation. If you rent an unfurnished or semi-furnished apartment, you typically set up electricity and gas contracts in your own name. Many rental contracts include internet, and in shared houses the landlord or main tenant usually handles utilities and bills you a flat monthly share. Fully furnished short-term rentals almost always include everything. Check your contract for the terms "stookkosten", "gas/licht/water", and "internet" — these tell you what is included.
+
+### What is the difference between Vattenfall, Eneco, and Essent?
+
+All three are major Dutch energy suppliers offering electricity and gas to households. Vattenfall (Swedish-owned) tends to be competitive on pricing and strong on renewables, with good English support. Eneco (Dutch-origin, now Mitsubishi-owned) has a sustainability focus and strong Dutch-language app. Essent (RWE-owned) has the largest customer base and often competes on introductory price. In practice, day-to-day service differences are small — I recommend comparing current tariffs on Independer or Gaslicht.com, as the cheapest provider changes frequently.
+
+### How do I read a Dutch energy bill?
+
+Your energy bill (energienota) has two main sections: monthly advance payments (voorschotbedrag) based on estimated usage, and an annual settlement (jaarafrekening) where actual consumption is reconciled. Key line items include leveringskosten (supply cost per kWh or m³), netwerkkosten (network costs, paid to your grid operator rather than your supplier), energiebelasting (government energy tax), and BTW (VAT at 21%). If your monthly advance was too low, you owe extra in the annual settlement — contact your supplier to adjust your advance payment if you notice this happening.
+
+### Which water company supplies my home?
+
+The Netherlands has 10 regional water companies and there is no choice — your supplier is determined by your address. Waternet covers Amsterdam, Evides covers Rotterdam and South Holland, Vitens covers Utrecht and most of the east, PWN covers North Holland outside Amsterdam, and Dunea covers The Hague. Your annual water bill includes drinking water supply and sometimes wastewater charges, though rioolheffing is often billed separately by your municipality. Dutch tap water is excellent — I have not bought a bottle of water since I arrived here.
+
+### What waste bags and bins do I need and how does collection work?
+
+Waste collection is highly municipal, so the specifics differ by city and neighbourhood. The standard categories are: grey container (restafval — residual waste), orange bag or container (PMD: plastic, metal, drink cartons), blue container (paper and cardboard), and green container (GFT: organic and garden waste). In city centres and apartment areas, many municipalities use underground containers rather than individual bins. Glass goes to street glasbak containers, not the door collection. Download the Afvalwijzer app or check your municipality's website for your specific collection schedule.
+
+### How do I switch energy suppliers in the Netherlands?
+
+Switching is handled almost entirely by your new supplier — you sign up online, they contact the grid operator, and the administrative transfer happens in the background. You do need to give notice to your current supplier (usually 30 days for month-to-month contracts). Fixed-rate contracts have a specific end date and a cancellation fee if you leave early. Before switching, have your annual kWh and m³ consumption figures from your last bill, plus your EAN codes (the unique codes for your electricity and gas connection points, also on your bill). The whole process from sign-up to switch completion takes around 4–6 weeks.
 
 ---
 

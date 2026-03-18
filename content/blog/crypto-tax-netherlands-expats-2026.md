@@ -27,7 +27,7 @@ faq:
 
 I get a version of this question at least once a week: "I have some crypto — do I need to declare it in the Netherlands?"
 
-The honest answer is: almost certainly yes, probably more straightforwardly than you think, and the window for quietly ignoring it is closing fast.
+The honest answer is: almost certainly yes, probably more simply than you think, and the window for quietly ignoring it is closing fast.
 
 Dutch crypto tax law is not the nightmare of some other countries. The Netherlands does not tax your gains when you sell Bitcoin. It does not calculate realised profit on every trade. But it does require you to declare the value of your crypto holdings each year, and the consequences of not doing so are getting harder to avoid as EU data-sharing requirements come into force.
 

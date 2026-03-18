@@ -2,7 +2,7 @@
 title: "Dealing with Loneliness as an Expat in NL"
 date: 2026-07-04T10:00:00+01:00
 lastmod: 2026-07-04T10:00:00+01:00
-description: "Expat loneliness in the Netherlands is real and undertalked. Here is an honest guide to why it happens, what Dutch social culture actually means for you, and how to build a real life."
+description: "Expat loneliness in the Netherlands is real. An honest guide to why it happens, what Dutch social culture means for you, and how to build a real life."
 categories: ["daily-life"]
 tags: ["expat wellbeing", "mental health", "social life", "Dutch culture", "loneliness"]
 keywords: ["expat loneliness Netherlands", "making friends Netherlands expat", "Dutch social culture expats", "expat mental health Netherlands 2026"]

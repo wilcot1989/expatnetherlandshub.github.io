@@ -313,6 +313,34 @@ The second-hand market in the Netherlands is one of the best in Europe. With a l
 
 ---
 
+## Frequently Asked Questions
+
+### What is Marktplaats and how does it work?
+
+Marktplaats is the Netherlands' dominant second-hand and classifieds platform — think of it as the Dutch equivalent of Gumtree or Craigslist. Most transactions happen in person: you contact the seller, agree to meet, inspect the item, pay in cash or by bank transfer, and take it away. The site is in Dutch, but Chrome's built-in translation handles it well. I used it to furnish almost my entire first apartment and it is genuinely the first place I tell expats to look.
+
+### Is it safe to buy on Marktplaats?
+
+Generally yes, but scams exist just as on any classifieds platform. The safest approach is to inspect items in person before paying, never transfer money before seeing the item, and meet in a public place for high-value purchases. Marktplaats offers a buyer protection scheme for transactions made through its own payment system, but cash or bank transfers outside the platform carry no protection. If a deal looks too good to be true or a seller refuses to meet in person, walk away.
+
+### What is the best platform for buying second-hand bikes in the Netherlands?
+
+Marktplaats is the primary option — search "fiets" plus your city name for good results. Facebook Marketplace is also active for bikes. Budget around €80–200 for a decent used city bike, or €500–1,500 for a second-hand electric bike. Always inspect a used bike before buying: check the brakes, tyres, and chain. Avoid bikes without a serial number, as they may be stolen.
+
+### Are kringloopwinkels worth visiting as an expat?
+
+Absolutely. These charity thrift shops are excellent for furnishing a flat from scratch at very low cost. I have found chairs for €5, bookshelves for €15, and kitchen equipment for next to nothing. Major chains include Het Goed and Emmaus, and most municipalities have their own local kringloop. Stock is variable, but the prices are hard to argue with, and it is a genuinely enjoyable way to spend a Saturday morning.
+
+### Does Vinted work in the Netherlands?
+
+Yes, Vinted is very active in the Netherlands for clothing, shoes, and accessories. Unlike Marktplaats, Vinted handles payment and shipping entirely through its platform — the buyer pays online, Vinted holds the funds, and releases them to the seller once you confirm receipt. This makes Vinted significantly safer than Marktplaats for online purchases. Items typically ship via PostNL, DHL, or DPD to a parcel locker or home address.
+
+### What about 2dehands — is it different from Marktplaats?
+
+2dehands.be is a Belgian classifieds platform owned by the same company as Marktplaats, and the interface is essentially identical. It is primarily used in Belgium but many listings ship to the Netherlands. If you cannot find something specific on Marktplaats, checking 2dehands is worth the two minutes — particularly for niche items where the Dutch supply is limited.
+
+---
+
 ## Useful Links
 
 - [Dutch supermarkets guide for expats](/guides/daily-life/dutch-supermarkets-guide-expats-2026/)

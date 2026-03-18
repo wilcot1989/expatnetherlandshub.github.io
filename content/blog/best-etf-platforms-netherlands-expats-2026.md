@@ -2,11 +2,11 @@
 title: "Best ETF Platforms Netherlands for Expats 2026"
 date: 2026-07-06T10:00:00+01:00
 lastmod: 2026-07-06T10:00:00+01:00
-description: "Compare the best ETF platforms for expats in the Netherlands 2026: DEGIRO, Interactive Brokers, Trading 212, ABN AMRO, fees, Box 3 tax, and core fund selection."
+description: "Best ETF platforms for expats in the Netherlands 2026: DEGIRO, Interactive Brokers, Trading 212, ABN AMRO, fees, Box 3 tax, and core fund selection."
 categories: ["finance"]
 tags: ["ETF Netherlands", "DEGIRO expats", "investing Netherlands", "Box 3 tax", "Interactive Brokers Netherlands", "Trading 212 Netherlands"]
 keywords: ["best ETF platform Netherlands expats", "DEGIRO vs Interactive Brokers Netherlands", "Trading 212 Netherlands expats", "ETF investing Box 3 tax", "expat investing Netherlands 2026"]
-affiliate: false
+affiliate: true
 author: "Sarah van den Berg"
 author_bio: "Expat coach and writer at ExpatNetherlandsHub.com"
 featured_image: "/images/categories/finance.svg"
@@ -27,7 +27,7 @@ faq:
 
 When I first arrived in the Netherlands, I spent several weeks trying to work out where to invest. Back home in the UK, I had an ISA with a low-cost tracker fund and never thought about it. In the Netherlands, I had to research platforms that accepted Dutch residents, understand Box 3 wealth tax, and work out whether my existing ISA was still the right vehicle. It took longer than it should have.
 
-This guide is what I wish I had found in those early weeks. I have used or thoroughly researched all the platforms listed here, and I have helped expat clients in Amsterdam, Eindhoven, and Rotterdam navigate the same decision. The Dutch investing landscape has specific quirks — and the right platform for one person is not necessarily right for another.
+This guide is what I wish I had found in those early weeks. I have used or thoroughly researched all the platforms listed here, and I have helped expat clients in Amsterdam, Eindhoven, and Rotterdam navigate the same decision. The Dutch investing market has specific quirks — and the right platform for one person is not necessarily right for another.
 
 ---
 
@@ -248,7 +248,7 @@ As noted in the FAQ, this is the single biggest Box 3 benefit available to expat
 **4. Box 3 does not apply during the year of arrival or departure**
 When you arrive in or leave the Netherlands part-way through a year, Box 3 applies only for the period of residency. This is relevant for expats planning a move.
 
-For comprehensive tax planning, I recommend speaking with a specialist. Our [best tax advisors for expats guide](/guides/finance/best-tax-advisors-expats-netherlands-2026/) lists English-speaking advisors across the Netherlands.
+For full tax planning, I recommend speaking with a specialist. Our [best tax advisors for expats guide](/guides/finance/best-tax-advisors-expats-netherlands-2026/) lists English-speaking advisors across the Netherlands.
 
 ---
 
@@ -296,6 +296,34 @@ If you are still setting up your Dutch bank account, our [guide to opening a ban
 For most expats I work with, DEGIRO or Trading 212 is the right starting point. Both are free or near-free for monthly ETF investing, both work well in English, and both give access to the core VWRL/IWDA ETFs that form the backbone of a sensible passive portfolio.
 
 Once your portfolio grows, or if your tax situation becomes more complex (particularly with the 30% ruling partial non-resident election), it is worth revisiting. But getting started with a simple, low-cost global ETF is almost always the right first move.
+
+---
+
+## Frequently Asked Questions
+
+### Is DEGIRO available for expats living in the Netherlands?
+
+Yes. DEGIRO is headquartered in Amsterdam and is fully available to Dutch residents, including expats. You will need a BSN, a Dutch or EU bank account, and a verified Dutch address to register. I found the sign-up process took about 15 minutes and my account was approved within two working days.
+
+### Can I buy ETFs on Trading 212 from the Netherlands?
+
+Yes. Trading 212 accepts Dutch residents, is fully in English, and offers commission-free ETF investing with fractional shares. It is regulated by the FCA and FSC rather than the Dutch AFM, which is worth knowing, but for expats starting with smaller monthly amounts it is a solid option. Dutch residents report Box 3 positions on 1 January regardless of which platform they use.
+
+### How does Box 3 tax affect ETF investing in the Netherlands?
+
+Box 3 does not tax your actual gains. Instead, it applies a deemed return to your total net assets above the tax-free threshold (approximately €57,000 per person in 2026). For investments, the deemed rate is around 5.88%, taxed at 36%. On €100,000 of ETF holdings above the threshold, you pay roughly €2,117 per year — regardless of actual performance. I cover this in detail in my Dutch Box 3 tax guide.
+
+### Does the 30% ruling exempt my ETF investments from Dutch tax?
+
+Potentially yes, but only if you actively elect partial non-resident status as part of your 30% ruling. This treats you as a non-resident for Box 3 purposes, meaning foreign-held investments may not be subject to Dutch wealth tax. It must be elected deliberately and does not apply to ETFs held on Dutch platforms like DEGIRO. Speak to a tax advisor before your ruling expires.
+
+### What is the core ETF selection (kernassortiment) on DEGIRO?
+
+DEGIRO offers a free trades list covering a curated range of ETFs — typically including iShares Core MSCI World, Vanguard FTSE All-World (VWRL), and iShares Core S&P 500. The first trade per ETF per day on this list costs nothing. The list changes periodically, so I always check it before assuming a particular ETF is free. Non-list ETFs cost a standard commission of around €2 + 0.02%.
+
+### Can American expats use Dutch ETF platforms?
+
+American expats face serious restrictions. Most European UCITS ETFs traded on DEGIRO, Trading 212, or ABN AMRO are classified as Passive Foreign Investment Companies (PFICs) under US tax law, which triggers punitive US tax treatment. Interactive Brokers is the main platform that accepts US persons in the Netherlands and provides access to US-listed ETFs, which are not affected by PFIC rules. If you hold a US passport, speak to a dual-qualified US-Dutch tax advisor before investing anything here.
 
 ---
 
