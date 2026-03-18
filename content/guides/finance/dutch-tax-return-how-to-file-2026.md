@@ -19,16 +19,16 @@ tags:
   - box 1 box 2 box 3
 
 faq:
-  - question: "Do I have to file a Dutch tax return as an expat?"
-    answer: "Not everyone is legally required to file, but the Belastingdienst will send you an invitation letter if they believe you owe tax or are entitled to a refund. Even if you don't receive an invitation, it often pays to file voluntarily — especially if you have deductible expenses like mortgage interest or healthcare costs."
-  - question: "What is the deadline to file a Dutch tax return in 2026?"
-    answer: "The standard deadline for the 2025 tax year is 1 May 2026. You can request an extension until 1 September 2026 by calling the Belastingdienst or asking your tax advisor to request uitstel on your behalf."
-  - question: "Can I file my Dutch tax return in English?"
-    answer: "The official Mijn Belastingdienst portal is only available in Dutch. However, the tax authority publishes English-language guides, and many tax advisors who specialise in expats will handle the process for you in English."
-  - question: "How does the 30% ruling affect my tax return?"
-    answer: "If you have the 30% ruling, 30% of your gross salary is paid tax-free as a cost reimbursement. This reduces your taxable income in Box 1. You still file a normal tax return, but your employer will have already applied the ruling to your payslips — you mainly need to check it was applied correctly."
-  - question: "When will I receive my tax refund?"
-    answer: "Once your return is processed, the Belastingdienst aims to pay refunds within three months of receiving your filing. In practice, if you file early and everything is in order, it often comes through faster — sometimes within a few weeks."
+  - q: "Do I have to file a Dutch tax return as an expat?"
+    a: "Not everyone is legally required to file, but the Belastingdienst will send you an invitation letter if they believe you owe tax or are entitled to a refund. Even if you don't receive an invitation, it often pays to file voluntarily — especially if you have deductible expenses like mortgage interest or healthcare costs."
+  - q: "What is the deadline to file a Dutch tax return in 2026?"
+    a: "The standard deadline for the 2025 tax year is 1 May 2026. You can request an extension until 1 September 2026 by calling the Belastingdienst or asking your tax advisor to request uitstel on your behalf."
+  - q: "Can I file my Dutch tax return in English?"
+    a: "The official Mijn Belastingdienst portal is only available in Dutch. However, the tax authority publishes English-language guides, and many tax advisors who specialise in expats will handle the process for you in English."
+  - q: "How does the 30% ruling affect my tax return?"
+    a: "If you have the 30% ruling, 30% of your gross salary is paid tax-free as a cost reimbursement. This reduces your taxable income in Box 1. You still file a normal tax return, but your employer will have already applied the ruling to your payslips — you mainly need to check it was applied correctly."
+  - q: "When will I receive my tax refund?"
+    a: "Once your return is processed, the Belastingdienst aims to pay refunds within three months of receiving your filing. In practice, if you file early and everything is in order, it often comes through faster — sometimes within a few weeks."
 ---
 
 The first time I filed a Dutch tax return, I sat at my kitchen table in Amsterdam with a cup of tea, a stack of papers I didn't understand, and a website entirely in Dutch. I'd already lived here for two years and thought I had a reasonable grasp of how things worked. I was wrong. Two hours later I'd accidentally entered my gross salary three times and convinced myself I owed the government a small fortune.

@@ -130,7 +130,7 @@ Useful platforms for Almere housing searches:
 
 - **[Funda](https://www.funda.nl)** — the main Dutch property portal, includes both rentals and sales
 - **[Pararius](https://www.pararius.com)** — strong for rental listings, English-language option available
-- **[Kamernet](https://kamernet.nl)** — good for rooms, studios, and shorter-term furnished options in Almere Stad
+- **<a href="https://ds1.nl/c/?si=447&li=26287&wi=418902&ws=&dl=" target="_blank" rel="noopener nofollow sponsored">Kamernet</a>** — good for rooms, studios, and shorter-term furnished options in Almere Stad
 - **[HousingAnywhere](https://housinganywhere.com)** — useful for fully furnished short-term lets, good for expats arriving without a Dutch bank account
 - **[Flevowonen](https://www.flevowonen.nl)** — the main social housing corporation in Almere; social housing waiting lists are long, but worth knowing about
 
@@ -229,7 +229,7 @@ The clearest predictor of whether someone will be happy in Almere is whether the
 ## Finding Housing: Recommended Steps
 
 1. **Start your search 8-12 weeks before your intended move date** — Almere has less competition than Amsterdam, but good properties still go quickly
-2. **Use [Funda](https://www.funda.nl), [Pararius](https://www.pararius.com), and [Kamernet](https://kamernet.nl) as your main platforms**
+2. **Use [Funda](https://www.funda.nl), [Pararius](https://www.pararius.com), and <a href="https://ds1.nl/c/?si=447&li=26287&wi=418902&ws=&dl=" target="_blank" rel="noopener nofollow sponsored">Kamernet</a> as your main platforms**
 3. **Consider a temporary furnished rental** (through HousingAnywhere or direct agencies) for the first 1-3 months while you settle and find your preferred neighbourhood
 4. **Visit all three main districts** before committing — the difference in feel between Almere Stad, Haven, and Buiten is significant
 5. **Budget for your deposit** — typically 1-2 months' rent; use <a href="https://wise.com/invite/ihpc/willemt52" target="_blank" rel="noopener nofollow sponsored">Wise</a> to transfer funds from a foreign account at the best rate

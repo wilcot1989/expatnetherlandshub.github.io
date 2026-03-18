@@ -146,7 +146,7 @@ You will need a Dutch bank account (or at least an IBAN) to receive your salary,
 
 ### Recommended First Step: Wise
 
-Before you even leave your home country, set up a [Wise account](https://wise.com/invite/ihpc/willemt52). Wise (formerly TransferWise) gives you a multi-currency account with a European IBAN, which is incredibly useful during the transition period. You can:
+Before you even leave your home country, set up a <a href="https://wise.com/invite/ihpc/willemt52" target="_blank" rel="noopener nofollow sponsored">Wise account</a>. Wise (formerly TransferWise) gives you a multi-currency account with a European IBAN, which is incredibly useful during the transition period. You can:
 
 - Receive your first salary before opening a traditional Dutch bank account
 - Transfer money between countries at the real exchange rate with low fees
@@ -342,6 +342,6 @@ Moving to the Netherlands is a big step, but the country rewards those who make 
 
 The key to a smooth transition is preparation. Handle your visa and housing early, register at your gemeente as soon as possible, and set up your key services — banking, insurance, phone, and transport — in the first two weeks. And if circumstances change and you find yourself planning to leave, our [leaving the Netherlands checklist](/guides/legal/leaving-netherlands-expat-checklist-2026/) covers every step from deregistration to your final tax return.
 
-For banking, start with [Wise](https://wise.com/invite/ihpc/willemt52) before you arrive. For temporary health coverage, consider [SafetyWing](https://safetywing.com/nomad-insurance/?referenceID=26482728&utm_source=26482728&utm_medium=Ambassador) until your Dutch insurance kicks in. And protect your digital life with [NordVPN](https://go.nordvpn.net/aff_c?offer_id=612&aff_id=141337&url_id=14830) from day one.
+For banking, start with <a href="https://wise.com/invite/ihpc/willemt52" target="_blank" rel="noopener nofollow sponsored">Wise</a> before you arrive. For temporary health coverage, consider <a href="https://safetywing.com/nomad-insurance/?referenceID=26482728&utm_source=26482728&utm_medium=Ambassador" target="_blank" rel="noopener nofollow sponsored">SafetyWing</a> until your Dutch insurance kicks in. And protect your digital life with [NordVPN](https://go.nordvpn.net/aff_c?offer_id=612&aff_id=141337&url_id=14830) from day one.
 
 Welcome to the Netherlands. Welkom in Nederland.

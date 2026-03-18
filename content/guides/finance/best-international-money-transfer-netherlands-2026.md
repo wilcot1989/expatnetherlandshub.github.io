@@ -131,7 +131,7 @@ Fees vary by currency corridor. EUR to GBP and EUR to USD are among the cheapest
 
 Wise is our top recommendation for expats in the Netherlands. Whether you are sending money home monthly, receiving payments from abroad, or simply need a multi-currency account, Wise delivers the best combination of cost, speed, and convenience.
 
-[Open a Wise account here](https://wise.com/invite/ihpc/willemt52) -- it is free to create an account.
+<a href="https://wise.com/invite/ihpc/willemt52" target="_blank" rel="noopener nofollow sponsored">Open a Wise account here</a> -- it is free to create an account.
 
 <a href="https://wise.com/invite/ihpc/willemt52" class="cta" rel="nofollow sponsored" target="_blank">Open Your Free Wise Account</a>
 
@@ -382,8 +382,8 @@ SWIFT transfers are expensive due to the layering of fees from multiple banks in
 
 | Your Situation | Recommended Service |
 |---------------|-------------------|
-| Regular monthly transfers (e.g., sending money home) | [Wise](https://wise.com/invite/ihpc/willemt52) (scheduled recurring transfers) |
-| Large one-off transfer (over EUR 10,000) | OFX or [Wise](https://wise.com/invite/ihpc/willemt52) (compare both) |
+| Regular monthly transfers (e.g., sending money home) | <a href="https://wise.com/invite/ihpc/willemt52" target="_blank" rel="noopener nofollow sponsored">Wise</a> (scheduled recurring transfers) |
+| Large one-off transfer (over EUR 10,000) | OFX or <a href="https://wise.com/invite/ihpc/willemt52" target="_blank" rel="noopener nofollow sponsored">Wise</a> (compare both) |
 | Everyday spending in multiple currencies | Revolut |
 | EUR-to-EUR within Europe | SEPA bank transfer (free) |
 | Speed-priority to specific countries | Remitly |
@@ -399,7 +399,7 @@ Based on our experience and research, here is the combination I recommend for ex
 
 ### Must-Have (Set Up Immediately)
 
-1. **[Wise](https://wise.com/invite/ihpc/willemt52) multi-currency account**: Your primary tool for international transfers. Open this before you even move to the Netherlands. You get a European IBAN, a debit card, and the ability to hold and convert 50+ currencies at the mid-market rate. [Open a Wise account here](https://wise.com/invite/ihpc/willemt52).
+1. **<a href="https://wise.com/invite/ihpc/willemt52" target="_blank" rel="noopener nofollow sponsored">Wise</a> multi-currency account**: Your primary tool for international transfers. Open this before you even move to the Netherlands. You get a European IBAN, a debit card, and the ability to hold and convert 50+ currencies at the mid-market rate. <a href="https://wise.com/invite/ihpc/willemt52" target="_blank" rel="noopener nofollow sponsored">Open a Wise account here</a>.
 
 2. **Dutch bank account (ING, ABN AMRO, Rabobank, or Bunq)**: For salary, rent payments, Dutch direct debits (automatische incasso), and government payments. You need a BSN to open an account at traditional banks. See our [guide to the best bank accounts for expats in the Netherlands](/guides/finance/best-bank-account-expats-netherlands-2026/) for a full comparison, or use the [bank account chooser](/tools/bank-account-chooser/) to find the right option for your situation.
 

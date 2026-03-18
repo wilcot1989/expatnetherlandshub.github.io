@@ -127,14 +127,14 @@ For context: the [cost of living guide](/guides/housing/cost-of-living-netherlan
 
 The Tilburg rental market is competitive for good properties in Centrum and Oud-Noord, though less frantic than Amsterdam or Utrecht. Standard platforms:
 
-- **[Kamernet](https://kamernet.nl)** — particularly strong for rooms and studios in Tilburg, widely used by students and young professionals. The Tilburg University connection means there is a constant supply of listings
+- **<a href="https://ds1.nl/c/?si=447&li=26287&wi=418902&ws=&dl=" target="_blank" rel="noopener nofollow sponsored">Kamernet</a>** — particularly strong for rooms and studios in Tilburg, widely used by students and young professionals. The Tilburg University connection means there is a constant supply of listings
 - **Funda** — for the main rental market across all property types
 - **Pararius** — strong for professional expat-level rentals
 - **Facebook groups** — "Expats in Tilburg" and "Housing Tilburg" groups on Facebook are active and can surface listings before they hit the main platforms
 
 One thing worth knowing about the Tilburg market specifically: the student population creates high demand for smaller properties (rooms, studios, one-beds) between April and September each year. If you are looking in this size range and timing your move during peak university intake periods, start your search earlier than you think necessary.
 
-For transferring money for rental deposits and advance rent payments, [Wise](https://wise.com/invite/ihpc/willemt52) saves significantly on exchange fees compared to transferring through a bank — particularly relevant if you are sending from a non-euro currency. The transparency on fees is also genuinely useful when you are trying to calculate exact deposit amounts.
+For transferring money for rental deposits and advance rent payments, <a href="https://wise.com/invite/ihpc/willemt52" target="_blank" rel="noopener nofollow sponsored">Wise</a> saves significantly on exchange fees compared to transferring through a bank — particularly relevant if you are sending from a non-euro currency. The transparency on fees is also genuinely useful when you are trying to calculate exact deposit amounts.
 
 ## Major Employers in Tilburg
 

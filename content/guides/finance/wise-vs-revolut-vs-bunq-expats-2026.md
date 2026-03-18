@@ -297,7 +297,7 @@ If €10.99 per month is too much for your current budget, use the Wise account 
 
 ## Practical Steps: Opening Each Account
 
-**Wise:** Go to [wise.com](https://wise.com/invite/ihpc/willemt52), register with your email, upload your ID. No Dutch address or BSN required. You can be up and running in 10 minutes. Order the physical card if you want one (€7).
+**Wise:** Go to <a href="https://wise.com/invite/ihpc/willemt52" target="_blank" rel="noopener nofollow sponsored">wise.com</a>, register with your email, upload your ID. No Dutch address or BSN required. You can be up and running in 10 minutes. Order the physical card if you want one (€7).
 
 **Revolut:** Download the Revolut app, register with your phone number, upload your ID. No BSN required. The free tier is sufficient to start.
 

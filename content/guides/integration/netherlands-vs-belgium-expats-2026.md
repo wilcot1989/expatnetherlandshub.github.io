@@ -209,11 +209,11 @@ When you live near borders — or when you have accounts in multiple countries �
 
 **Wise** is used by expats in both the Netherlands and Belgium for exactly this reason. Whether you are receiving salary in one country and spending in another, sending money to family abroad, or managing accounts in multiple currencies, Wise's multi-currency account supports EUR, GBP, USD, and dozens of other currencies at mid-market exchange rates. For expats comparing NL and Belgium who eventually end up with accounts in both countries, Wise is particularly useful.
 
-[Open a Wise account](https://wise.com/invite/ihpc/willemt52) — no monthly fee, real exchange rates, local account details in multiple countries.
+<a href="https://wise.com/invite/ihpc/willemt52" target="_blank" rel="noopener nofollow sponsored">Open a Wise account</a> — no monthly fee, real exchange rates, local account details in multiple countries.
 
 **SafetyWing** is relevant specifically for those who are not yet covered by a local health insurance system — common in the first weeks after arrival or when moving between countries. Their Nomad Insurance and Remote Health plans bridge the gap between countries.
 
-[See SafetyWing plans](https://safetywing.com/?referenceID=26482728&utm_source=26482728&utm_medium=Shield)
+<a href="https://safetywing.com/nomad-insurance/?referenceID=26482728&utm_source=26482728&utm_medium=Shield" target="_blank" rel="noopener nofollow sponsored">See SafetyWing plans</a>
 
 ---
 
@@ -260,7 +260,7 @@ I chose the Netherlands and I would make the same choice again — but primarily
 
 The honest answer is: **it depends on your employer, your tax situation, and your languages.** Run the numbers with your specific salary, check which tax regime you qualify for, and factor in where your employer is located. The lifestyle differences are real but manageable. The financial differences can be very large.
 
-If you are still weighing options and need to manage money across borders while you decide, a Wise multi-currency account is a practical first step regardless of which country you choose.
+If you are still weighing options and need to manage money across borders while you decide, a <a href="https://wise.com/invite/ihpc/willemt52" target="_blank" rel="noopener nofollow sponsored">Wise multi-currency account</a> is a practical first step regardless of which country you choose.
 
 ---
 
@@ -275,8 +275,8 @@ If the Netherlands is your preferred choice and you are comparing it against oth
 - [Expatica: Moving to Belgium guide](https://www.expatica.com/be/moving/relocation/moving-to-belgium/)
 - [Numbeo: Cost of Living Belgium vs Netherlands](https://www.numbeo.com/cost-of-living/compare_countries_result.jsp?country1=Netherlands&country2=Belgium)
 - [EF English Proficiency Index](https://www.ef.com/wwen/epi/)
-- [Wise multi-currency account](https://wise.com/invite/ihpc/willemt52)
-- [SafetyWing health insurance for expats](https://safetywing.com/?referenceID=26482728&utm_source=26482728&utm_medium=Shield)
+- <a href="https://wise.com/invite/ihpc/willemt52" target="_blank" rel="noopener nofollow sponsored">Wise multi-currency account</a>
+- <a href="https://safetywing.com/nomad-insurance/?referenceID=26482728&utm_source=26482728&utm_medium=Shield" target="_blank" rel="noopener nofollow sponsored">SafetyWing health insurance for expats</a>
 - [Internations: Belgium expat community](https://www.internations.org/go/moving-to-belgium)
 - [IamExpat Netherlands](https://www.iamexpat.nl)
 - [Brussels expat guide — Expatica](https://www.expatica.com/be/moving/relocation/brussels-expat-guide/)

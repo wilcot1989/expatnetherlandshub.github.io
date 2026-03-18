@@ -13,16 +13,16 @@ affiliate: false
 type: "city-guide"
 
 faq:
-  - question: "Is Den Bosch a good city for expats?"
-    answer: "Yes. Den Bosch has a warm, welcoming culture, a growing international community, and good transport links to Amsterdam, Eindhoven, and Utrecht. It is much more affordable than the Randstad while offering a high quality of life."
-  - question: "How far is Den Bosch from Amsterdam?"
-    answer: "By train, Den Bosch is roughly one hour from Amsterdam Centraal. Direct Intercity trains run frequently, making it a realistic base for people who need to visit Amsterdam regularly without paying Amsterdam rents."
-  - question: "What is the average rent in Den Bosch?"
-    answer: "For a furnished two-bedroom apartment in or near the centre, expect to pay between €1,300 and €1,800 per month in 2026. Suburbs like Rosmalen are cheaper, often €200–€300 less for comparable space."
-  - question: "Do I need to speak Dutch to live in Den Bosch?"
-    answer: "Not to get by day to day. English is widely spoken, especially in the service sector and among younger residents. That said, learning some Dutch — even basic phrases — goes a long way socially in Brabant."
-  - question: "How do I register in Den Bosch and get a BSN?"
-    answer: "You register at the Gemeente 's-Hertogenbosch. You will need a valid passport, a rental contract or letter from your landlord, and an appointment. Your BSN is issued at or shortly after registration."
+  - q: "Is Den Bosch a good city for expats?"
+    a: "Yes. Den Bosch has a warm, welcoming culture, a growing international community, and good transport links to Amsterdam, Eindhoven, and Utrecht. It is much more affordable than the Randstad while offering a high quality of life."
+  - q: "How far is Den Bosch from Amsterdam?"
+    a: "By train, Den Bosch is roughly one hour from Amsterdam Centraal. Direct Intercity trains run frequently, making it a realistic base for people who need to visit Amsterdam regularly without paying Amsterdam rents."
+  - q: "What is the average rent in Den Bosch?"
+    a: "For a furnished two-bedroom apartment in or near the centre, expect to pay between €1,300 and €1,800 per month in 2026. Suburbs like Rosmalen are cheaper, often €200–€300 less for comparable space."
+  - q: "Do I need to speak Dutch to live in Den Bosch?"
+    a: "Not to get by day to day. English is widely spoken, especially in the service sector and among younger residents. That said, learning some Dutch — even basic phrases — goes a long way socially in Brabant."
+  - q: "How do I register in Den Bosch and get a BSN?"
+    a: "You register at the Gemeente 's-Hertogenbosch. You will need a valid passport, a rental contract or letter from your landlord, and an appointment. Your BSN is issued at or shortly after registration."
 ---
 
 I moved to the Netherlands almost a decade ago, and I have spent a lot of time helping other expats figure out where to put down roots. Most of them start the conversation the same way: Amsterdam, Amsterdam, Amsterdam. And I understand it. Amsterdam is the obvious answer. But it is not always the right one.

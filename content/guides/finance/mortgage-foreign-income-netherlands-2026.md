@@ -188,7 +188,7 @@ This is where currency conversion costs matter. A traditional bank transfer can 
 
 For a €25,000 transfer (GBP to EUR), using Wise versus a traditional bank transfer can save €500-1,000. Not trivial when you are already stretching to cover closing costs.
 
-[Send money with Wise](https://wise.com/invite/ihpc/willemt52)
+<a href="https://wise.com/invite/ihpc/willemt52" target="_blank" rel="noopener nofollow sponsored">Send money with Wise</a>
 
 ---
 
@@ -251,7 +251,7 @@ The transfer of property and mortgage takes place at a Dutch notaris. The notary
 - [Kadaster: Land registry](https://www.kadaster.nl)
 - [Belastingdienst: 30% ruling information](https://www.belastingdienst.nl/wps/wcm/connect/bldcontentnl/belastingdienst/prive/internationaal/werken_in_het_buitenland/u_gaat_in_nederland_werken/30_procent_regeling/)
 - [Independer: Mortgage comparison](https://www.independer.nl/hypotheek/intro.aspx)
-- [Wise: International money transfer](https://wise.com/invite/ihpc/willemt52)
+- <a href="https://wise.com/invite/ihpc/willemt52" target="_blank" rel="noopener nofollow sponsored">Wise: International money transfer</a>
 - [NHG: National Mortgage Guarantee](https://www.nhg.nl)
 - [Eigenwoningforfait calculator](https://www.belastingdienst.nl)
 - [Rijksoverheid: Buying a house guide (Dutch)](https://www.rijksoverheid.nl/onderwerpen/woningmarkt/kopen-van-een-woning)

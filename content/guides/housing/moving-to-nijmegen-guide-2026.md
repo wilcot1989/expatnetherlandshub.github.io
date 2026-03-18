@@ -127,7 +127,7 @@ For buying: Nijmegen property averages €3,200-€4,800 per m² (compared to �
 
 The main platforms are [Funda](https://www.funda.nl) and [Pararius](https://www.pararius.com) for the general market. For furnished and shorter-term rentals — useful if you are arriving for a fixed-term research position — **Kamernet** is particularly strong for Nijmegen and the university area.
 
-> **Kamernet tip:** Nijmegen's student and expat rental market moves quickly, especially for apartments near Radboud. Kamernet's direct-contact model cuts out agents and can be faster than the traditional platforms for furnished rentals in Heyendaal and Bottendaal. [Search Nijmegen rentals on Kamernet](https://kamernet.nl).
+> **Kamernet tip:** Nijmegen's student and expat rental market moves quickly, especially for apartments near Radboud. Kamernet's direct-contact model cuts out agents and can be faster than the traditional platforms for furnished rentals in Heyendaal and Bottendaal. <a href="https://ds1.nl/c/?si=447&li=26287&wi=418902&ws=&dl=" target="_blank" rel="noopener nofollow sponsored">Search Nijmegen rentals on Kamernet</a>.
 
 The [housing budget checker](/tools/housing-budget-checker/) will show what your net income translates to in affordable rent, and our [finding housing guide](/guides/housing/finding-housing-netherlands-expats-2026/) covers documents, rental contracts, and what to expect from a Dutch landlord.
 
@@ -286,7 +286,7 @@ The **Wylerbergmeer** and **Reichswald** forest on the German border (20 minutes
 
 ### Before You Arrive
 
-1. Start your housing search on [Funda](https://www.funda.nl), [Pararius](https://www.pararius.com), and [Kamernet](https://kamernet.nl) 6-8 weeks before arrival. Good apartments in Heyendaal and Bottendaal go quickly
+1. Start your housing search on [Funda](https://www.funda.nl), [Pararius](https://www.pararius.com), and <a href="https://ds1.nl/c/?si=447&li=26287&wi=418902&ws=&dl=" target="_blank" rel="noopener nofollow sponsored">Kamernet</a> 6-8 weeks before arrival. Good apartments in Heyendaal and Bottendaal go quickly
 2. Contact the Radboud International Office or UMC Expat Centre if you are arriving for a university or hospital position — they often have housing leads and relocation support
 3. Use the [housing budget checker](/tools/housing-budget-checker/) to confirm your affordable rent range before you start viewing
 4. If you are arriving in July, check the exact Vierdaagse dates and avoid scheduling your move or initial flat viewings for that period

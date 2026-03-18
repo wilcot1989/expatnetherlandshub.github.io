@@ -152,7 +152,7 @@ Register with a huisarts (GP) promptly after arrival. Good practices near the UT
 
 Major Dutch banks (ING, ABN AMRO, Rabobank) all have branches in Enschede. Opening a Dutch bank account requires your BSN, passport, and proof of address. Some expats use Wise as a holding account while waiting for a Dutch account to open.
 
-[Open a Wise account](https://wise.com/invite/ihpc/willemt52) — useful for receiving salary internationally or sending money home while you set up your Dutch finances.
+<a href="https://wise.com/invite/ihpc/willemt52" target="_blank" rel="noopener nofollow sponsored">Open a Wise account</a> — useful for receiving salary internationally or sending money home while you set up your Dutch finances.
 
 ### Finding Housing
 
@@ -162,7 +162,7 @@ Online platforms:
 - **Pararius** — rental platform with many professional listings
 - **UT Housing** — the University of Twente's own housing portal for affiliated staff and students
 
-[Find rooms and apartments on Kamernet](https://kamernet.nl)
+<a href="https://ds1.nl/c/?si=447&li=26287&wi=418902&ws=&dl=" target="_blank" rel="noopener nofollow sponsored">Find rooms and apartments on Kamernet</a>
 
 For new arrivals without a Dutch guarantor or credit history, some landlords and agencies can be hesitant. The UT Housing service and larger management companies are more accustomed to international tenants and require less background documentation.
 
@@ -233,11 +233,11 @@ It is probably not right if you:
 
 - [Gemeente Enschede: Registration and services](https://www.enschede.nl/en)
 - [University of Twente Housing](https://www.utwente.nl/en/housing/)
-- [Kamernet: Rooms and apartments](https://kamernet.nl)
+- <a href="https://ds1.nl/c/?si=447&li=26287&wi=418902&ws=&dl=" target="_blank" rel="noopener nofollow sponsored">Kamernet: Rooms and apartments</a>
 - [Funda: Property portal](https://www.funda.nl)
 - [Kennispark Twente: Tech park jobs](https://www.kennispark.nl)
 - [FC Twente: Tickets and info](https://www.fctwente.nl)
-- [Wise: Multi-currency account](https://wise.com/invite/ihpc/willemt52)
+- <a href="https://wise.com/invite/ihpc/willemt52" target="_blank" rel="noopener nofollow sponsored">Wise: Multi-currency account</a>
 - [IamExpat: Enschede information](https://www.iamexpat.nl)
 - [Rijksmuseum Twenthe](https://www.rijksmuseum.nl/nl/rijksmuseum-twenthe)
 - [Twente Travel: Regional tourism](https://www.twente.travel)

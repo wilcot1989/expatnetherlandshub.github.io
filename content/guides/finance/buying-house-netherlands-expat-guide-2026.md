@@ -108,7 +108,7 @@ Never waive these without expert advice. In a very hot market, some buyers waive
 
 **3-day cooling-off period:** After signing, you have a statutory 3-day period during which you can withdraw without giving a reason and without penalty. This clock starts the day after the seller signs.
 
-If you are sending your deposit from an overseas bank account, do not let your bank do the transfer at their standard exchange rate. I always recommend [Wise](https://wise.com/invite/ihpc/willemt52) for international transfers — the rates are significantly better than what Dutch high-street banks offer, which typically add 2–4% on top of the mid-market rate. On a €39,500 deposit (10% of a €395,000 purchase), that difference is real money.
+If you are sending your deposit from an overseas bank account, do not let your bank do the transfer at their standard exchange rate. I always recommend <a href="https://wise.com/invite/ihpc/willemt52" target="_blank" rel="noopener nofollow sponsored">Wise</a> for international transfers — the rates are significantly better than what Dutch high-street banks offer, which typically add 2–4% on top of the mid-market rate. On a €39,500 deposit (10% of a €395,000 purchase), that difference is real money.
 
 <a href="https://wise.com/invite/ihpc/willemt52" class="cta-affiliate" rel="noopener nofollow sponsored" target="_blank">Send your deposit internationally with Wise — no hidden fees →</a>
 
@@ -308,7 +308,7 @@ If you are seriously considering buying property in the Netherlands, here is wha
 8. Always include financieringsvoorbehoud and bouwkundige keuring in your ontbindende voorwaarden
 9. Trust your aankoopmakelaar's guidance on bid levels — emotion is the enemy of good property decisions
 
-If you are moving money from abroad for your deposit or purchase costs, Wise is genuinely worth using for international transfers — the exchange rates are mid-market and the fees are transparent, unlike the mark-ups most Dutch banks apply.
+If you are moving money from abroad for your deposit or purchase costs, <a href="https://wise.com/invite/ihpc/willemt52" target="_blank" rel="noopener nofollow sponsored">Wise</a> is genuinely worth using for international transfers — the exchange rates are mid-market and the fees are transparent, unlike the mark-ups most Dutch banks apply.
 
 <a href="https://wise.com/invite/ihpc/willemt52" class="cta-affiliate" rel="noopener nofollow sponsored" target="_blank">Transfer money to the Netherlands for your property purchase — use Wise →</a>
 

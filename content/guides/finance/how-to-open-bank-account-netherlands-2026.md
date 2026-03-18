@@ -39,7 +39,7 @@ Here is the short version, front-loaded, because that is what you actually need:
 
 | Stage | Action | Time needed |
 |-------|--------|-------------|
-| Before arriving (or day 1) | Open a [Wise](https://wise.com/invite/ihpc/willemt52) account — European IBAN, no BSN required | 10–30 minutes |
+| Before arriving (or day 1) | Open a <a href="https://wise.com/invite/ihpc/willemt52" target="_blank" rel="noopener nofollow sponsored">Wise</a> account — European IBAN, no BSN required | 10–30 minutes |
 | Week 1–2 | Register at the gemeente, get your BSN | 1–3 weeks depending on municipality |
 | After BSN | Apply for ING or ABN AMRO account | 3–10 business days |
 | After bank card arrives | Set up iDEAL and direct debits | 30 minutes |
@@ -81,11 +81,11 @@ Do this before you get on the plane, or on the day you land. It solves the iDEAL
 
 ### Wise
 
-[Wise](https://wise.com/invite/ihpc/willemt52) gives you a European IBAN that most Dutch employers and landlords accept. The account is free to open. You get a debit card (small one-time fee), can hold euros alongside other currencies, and send money internationally at real exchange rates.
+<a href="https://wise.com/invite/ihpc/willemt52" target="_blank" rel="noopener nofollow sponsored">Wise</a> gives you a European IBAN that most Dutch employers and landlords accept. The account is free to open. You get a debit card (small one-time fee), can hold euros alongside other currencies, and send money internationally at real exchange rates.
 
 **How to open a Wise account:**
 
-1. Go to [wise.com](https://wise.com/invite/ihpc/willemt52) and click "Register"
+1. Go to <a href="https://wise.com/invite/ihpc/willemt52" target="_blank" rel="noopener nofollow sponsored">wise.com</a> and click "Register"
 2. Sign up with your email address
 3. Complete the identity verification — upload your passport photo and take a selfie
 4. Once verified, go to "Account details" and add EUR to see your European IBAN
@@ -195,7 +195,7 @@ Once your account is active, set up your direct debits as soon as possible: heal
 
 This depends on your situation:
 
-**Just arrived, no BSN yet:** Open [Wise](https://wise.com/invite/ihpc/willemt52) today. It is the only sensible option at this stage.
+**Just arrived, no BSN yet:** Open <a href="https://wise.com/invite/ihpc/willemt52" target="_blank" rel="noopener nofollow sponsored">Wise</a> today. It is the only sensible option at this stage.
 
 **EU citizen, want a full Dutch bank from day one:** Bunq allows remote sign-up for EU citizens and functions as a proper Dutch bank account. More expensive, but fully Dutch.
 
