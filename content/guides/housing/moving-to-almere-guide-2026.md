@@ -134,9 +134,9 @@ Useful platforms for Almere housing searches:
 - **[HousingAnywhere](https://housinganywhere.com)** — useful for fully furnished short-term lets, good for expats arriving without a Dutch bank account
 - **[Flevowonen](https://www.flevowonen.nl)** — the main social housing corporation in Almere; social housing waiting lists are long, but worth knowing about
 
-For international transfers when paying deposits or first month's rent, <a href="https://wise.com/invite/ihpc/willemt52" rel="nofollow sponsored" target="_blank">Wise</a> is the most cost-effective way to move money from a foreign account. It uses the mid-market exchange rate with transparent fees — important when you may be transferring several thousand euros for a deposit plus first month.
+For international transfers when paying deposits or first month's rent, <a href="https://wise.com/invite/ihpc/willemt52" rel="noopener nofollow sponsored" target="_blank">Wise</a> is the most cost-effective way to move money from a foreign account. It uses the mid-market exchange rate with transparent fees — important when you may be transferring several thousand euros for a deposit plus first month.
 
-<a href="https://wise.com/invite/ihpc/willemt52" class="cta" rel="nofollow sponsored" target="_blank">Open a free Wise account before your move →</a>
+<a href="https://wise.com/invite/ihpc/willemt52" class="cta-affiliate" rel="noopener nofollow sponsored" target="_blank">Open a free Wise account before your move →</a>
 
 ### Buying Property in Almere
 
@@ -249,7 +249,7 @@ The clearest predictor of whether someone will be happy in Almere is whether the
 
 Almere will not win awards for charm. It will not appear on anyone's list of the most beautiful cities in Europe. But for an expat family who needs space, can handle a 25-minute train commute, and wants to live in a genuinely multicultural community at a price that does not consume their entire salary — it deserves a serious look. The people who are happiest there tend to be the ones who made a clear-eyed decision, not a reluctant compromise.
 
-<a href="https://wise.com/invite/ihpc/willemt52" class="cta" rel="nofollow sponsored" target="_blank">Set up your Wise account before your Almere move — it will save you money on your deposit transfer →</a>
+<a href="https://wise.com/invite/ihpc/willemt52" class="cta-affiliate" rel="noopener nofollow sponsored" target="_blank">Set up your Wise account before your Almere move — it will save you money on your deposit transfer →</a>
 
 ## Frequently Asked Questions
 

@@ -113,7 +113,7 @@ If you need to keep a Dutch account for receiving pension payments or tax refund
 
 For transferring larger sums from your Dutch account to a foreign account, <a href="https://wise.com/invite/ihpc/willemt52" target="_blank" rel="noopener nofollow sponsored">Wise</a> tends to offer better exchange rates and lower fees than traditional banks. I have used it for years and the mid-market rate saves a noticeable amount on larger transfers.
 
-<a href="https://wise.com/invite/ihpc/willemt52" class="cta-affiliate" rel="nofollow sponsored" target="_blank">Keep Your Wise Account for International Transfers →</a>
+<a href="https://wise.com/invite/ihpc/willemt52" class="cta-affiliate" rel="noopener nofollow sponsored" target="_blank">Keep Your Wise Account for International Transfers →</a>
 
 For a full comparison of Dutch banks for expats, see my [bank account guide](/guides/finance/how-to-open-bank-account-netherlands-2026/).
 

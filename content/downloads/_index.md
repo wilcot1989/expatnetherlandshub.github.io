@@ -528,7 +528,7 @@ Print this checklist
 <strong>Compare all Dutch health insurers side by side</strong>
 Independer is the Netherlands' largest comparison platform — free, takes 10 minutes, shows exact premiums for your age and preferred own risk.
 </div>
-<a href="https://www.awin1.com/cread.php?awinmid=8558&awinaffid=2776410&ued=https%3A%2F%2Fwww.independer.nl%2Fzorgverzekering" rel="nofollow sponsored" target="_blank" class="aff-cta">Compare on Independer →</a>
+<a href="https://www.awin1.com/cread.php?awinmid=8558&awinaffid=2776410&ued=https%3A%2F%2Fwww.independer.nl%2Fzorgverzekering" rel="noopener nofollow sponsored" target="_blank" class="aff-cta">Compare on Independer →</a>
 </div>
 </div>
 
@@ -803,7 +803,7 @@ Print this checklist
 <strong>Wise — multi-currency account, works from day one</strong>
 No BSN required, holds 40+ currencies, Dutch IBAN available, low international transfer fees.
 </div>
-<a href="https://wise.com/invite/ihpc/willemt52" rel="nofollow sponsored" target="_blank" class="aff-cta">Open a Wise account →</a>
+<a href="https://wise.com/invite/ihpc/willemt52" rel="noopener nofollow sponsored" target="_blank" class="aff-cta">Open a Wise account →</a>
 </div>
 </div>
 

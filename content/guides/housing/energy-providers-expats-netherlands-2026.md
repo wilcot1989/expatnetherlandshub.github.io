@@ -88,7 +88,7 @@ New to the Netherlands? Start with our [complete expat guide](/guides/legal/comp
 
 Not sure which provider suits your situation? Independer is the Netherlands' most-used comparison platform and covers all major energy suppliers in one place.
 
-<a href="https://www.awin1.com/cread.php?awinmid=19918&awinaffid=2776410&ued=https://www.independer.nl/energie" rel="nofollow sponsored" target="_blank" class="cta-affiliate">Compare Energy Providers on Independer →</a>
+<a href="https://www.awin1.com/cread.php?awinmid=19918&awinaffid=2776410&ued=https://www.independer.nl/energie" rel="noopener nofollow sponsored" target="_blank" class="cta-affiliate">Compare Energy Providers on Independer →</a>
 
 ## Cost Breakdown
 
@@ -139,7 +139,7 @@ Not sure which provider suits your situation? Independer is the Netherlands' mos
 
 Switching providers takes five minutes online and costs nothing. Use Independer to compare live prices across all major suppliers — including dynamic contracts from Tibber and Frank Energie — and sign up directly.
 
-<a href="https://www.awin1.com/cread.php?awinmid=19918&awinaffid=2776410&ued=https://www.independer.nl/energie" rel="nofollow sponsored" target="_blank" class="cta-affiliate">Compare Energy Providers on Independer →</a>
+<a href="https://www.awin1.com/cread.php?awinmid=19918&awinaffid=2776410&ued=https://www.independer.nl/energie" rel="noopener nofollow sponsored" target="_blank" class="cta-affiliate">Compare Energy Providers on Independer →</a>
 
 ## Green vs Grey Energy: What's the Difference?
 
@@ -250,7 +250,7 @@ For most expats arriving in the Netherlands: start with a **variable contract** 
 
 Whichever contract type you choose, comparing prices before you sign takes just a few minutes and can save you EUR 200-400 per year. Independer shows live prices for all contract types side by side.
 
-<a href="https://www.awin1.com/cread.php?awinmid=19918&awinaffid=2776410&ued=https://www.independer.nl/energie" rel="nofollow sponsored" target="_blank" class="cta-affiliate">Compare Energy Providers on Independer →</a>
+<a href="https://www.awin1.com/cread.php?awinmid=19918&awinaffid=2776410&ued=https://www.independer.nl/energie" rel="noopener nofollow sponsored" target="_blank" class="cta-affiliate">Compare Energy Providers on Independer →</a>
 
 For your overall housing budget, use the [Housing Budget Checker](/tools/housing-budget-checker/) to see what you can afford after taxes, and check our [cost of living guide](/guides/housing/cost-of-living-netherlands-2026/) and our [finding housing guide](/guides/housing/finding-housing-netherlands-expats-2026/) which covers energy labels and what to look for in a Dutch rental.
 

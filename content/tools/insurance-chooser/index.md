@@ -532,7 +532,7 @@ You must register for a zorgverzekering within 4 months of starting work in the 
 <!-- CTA Bar -->
 <div class="cta-bar">
 <p>Compare all Dutch insurance policies and get instant quotes in one place.</p>
-<a href="https://www.awin1.com/cread.php?awinmid=8558&awinaffid=2776410&ued=https%3A%2F%2Fwww.independer.nl%2Fzorgverzekering" target="_blank" rel="nofollow sponsored" class="cta-affiliate">Compare on Independer →</a>
+<a href="https://www.awin1.com/cread.php?awinmid=8558&awinaffid=2776410&ued=https%3A%2F%2Fwww.independer.nl%2Fzorgverzekering" target="_blank" rel="noopener nofollow sponsored" class="cta-affiliate">Compare on Independer →</a>
 <a href="/guides/health/best-expat-insurance-netherlands-2026/" class="cta-secondary">Read expat insurance guide →</a>
 </div>
 
@@ -1148,7 +1148,7 @@ cardsHtml += `
 ${opt.coverage.map(c => `<li>${c}</li>`).join('')}
 </ul>
 <div class="card-why">${opt.why}</div>
-<a href="${opt.cta}" target="_blank" rel="nofollow sponsored" class="card-cta" onclick="trackCTA('${need}','${opt.provider}')">Get a quote →</a>
+<a href="${opt.cta}" target="_blank" rel="noopener nofollow sponsored" class="card-cta" onclick="trackCTA('${need}','${opt.provider}')">Get a quote →</a>
 </div>
 `;
 });

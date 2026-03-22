@@ -39,7 +39,7 @@ If you want a broader look at all your banking options, start with my guide to t
 
 **Choose N26 if you want a free account for occasional European use,** or as a secondary card for travel alongside a bunq or traditional bank account. N26's Standard plan costs nothing and is perfectly adequate if you do not depend on it for Dutch-specific payments.
 
-If you need to send money internationally on top of your day-to-day banking, I also recommend keeping a <a href="https://wise.com/invite/ihpc/willemt52" rel="nofollow sponsored" target="_blank">Wise</a> account in your toolkit — neither bunq nor N26 beats Wise on international transfer rates.
+If you need to send money internationally on top of your day-to-day banking, I also recommend keeping a <a href="https://wise.com/invite/ihpc/willemt52" rel="noopener nofollow sponsored" target="_blank">Wise</a> account in your toolkit — neither bunq nor N26 beats Wise on international transfer rates.
 
 ---
 
@@ -230,7 +230,7 @@ For larger savings pots, I would not use either as my primary savings vehicle. D
 
 This is where I want to be direct: neither bunq nor N26 is the best option for regular international money transfers. Both offer SEPA transfers within Europe at competitive rates, but for non-SEPA currencies — sending GBP to a UK account, USD to the US, or THB to Thailand — you will pay more than you need to.
 
-For anything beyond basic SEPA, <a href="https://wise.com/invite/ihpc/willemt52" rel="nofollow sponsored" target="_blank">Wise</a> uses the mid-market exchange rate with a small transparent fee, which beats both banks on almost every corridor. I cover this in detail in my [Wise vs Revolut comparison](/guides/finance/wise-vs-revolut-netherlands-2026/) and my guide to [best international money transfers from the Netherlands](/guides/finance/best-international-money-transfer-netherlands-2026/).
+For anything beyond basic SEPA, <a href="https://wise.com/invite/ihpc/willemt52" rel="noopener nofollow sponsored" target="_blank">Wise</a> uses the mid-market exchange rate with a small transparent fee, which beats both banks on almost every corridor. I cover this in detail in my [Wise vs Revolut comparison](/guides/finance/wise-vs-revolut-netherlands-2026/) and my guide to [best international money transfers from the Netherlands](/guides/finance/best-international-money-transfer-netherlands-2026/).
 
 <a href="https://wise.com/invite/ihpc/willemt52" target="_blank" rel="noopener nofollow sponsored" class="cta-affiliate">Open a Free Wise Account for International Transfers →</a>
 
@@ -340,7 +340,7 @@ N26's built-in Wise partnership is worth noting if you frequently send money int
 - You want N26's free tier for international spending alongside bunq for Dutch daily life
 - You are comparing total costs — N26 Standard free + bunq Easy Bank EUR 2.99 is still only EUR 2.99/month for a complete Dutch banking setup
 
-If you are in the early stages of your move and still sorting your BSN, read my [BSN registration guide](/guides/legal/bsn-registration-guide-2026/) first — both banks require a BSN for full account access. In the meantime, <a href="https://wise.com/invite/ihpc/willemt52" rel="nofollow sponsored" target="_blank">Wise</a> can hold and receive euros without a BSN, which is useful for those first few weeks.
+If you are in the early stages of your move and still sorting your BSN, read my [BSN registration guide](/guides/legal/bsn-registration-guide-2026/) first — both banks require a BSN for full account access. In the meantime, <a href="https://wise.com/invite/ihpc/willemt52" rel="noopener nofollow sponsored" target="_blank">Wise</a> can hold and receive euros without a BSN, which is useful for those first few weeks.
 
 ---
 
@@ -362,9 +362,9 @@ For expats building a life in the Netherlands, bunq is the better choice. The Du
 
 N26 is not a bad bank. It is a good European neobank that simply was not designed with Dutch-specific requirements in mind. Use it as a free secondary account or travel card if you want, but do not rely on it as your primary Dutch account.
 
-<a href="https://bunq.com" rel="nofollow sponsored" target="_blank" class="cta">Open a bunq account</a>
+<a href="https://bunq.com" rel="noopener nofollow sponsored" target="_blank" class="cta-affiliate">Open a bunq account</a>
 
-<a href="https://n26.com" rel="nofollow sponsored" target="_blank" class="cta">Open an N26 account</a>
+<a href="https://n26.com" rel="noopener nofollow sponsored" target="_blank" class="cta-affiliate">Open an N26 account</a>
 
 ---
 

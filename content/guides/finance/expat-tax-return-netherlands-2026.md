@@ -202,7 +202,7 @@ Missing a deadline costs money. Here is the complete picture:
 
 If you are managing money across borders — paying foreign taxes, transferring savings, or receiving income from your home country — Wise is the most cost-effective way to move money internationally. Far cheaper than Dutch bank wire fees.
 
-<a href="https://wise.com/invite/ihpc/willemt52" target="_blank" rel="nofollow sponsored" class="cta-affiliate">Send money abroad with Wise →</a>
+<a href="https://wise.com/invite/ihpc/willemt52" target="_blank" rel="noopener nofollow sponsored" class="cta-affiliate">Send money abroad with Wise →</a>
 
 ## Common Deductions Expats Miss
 

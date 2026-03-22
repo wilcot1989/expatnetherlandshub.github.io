@@ -248,7 +248,7 @@ The 9292 app (named after the phone number 0900-9292) is the national public tra
 
 This is the single most useful transport app for expats. Download it on your first day.
 
-Most stations offer free public WiFi. It is convenient for checking routes and delays, but station networks are shared and unencrypted — not suitable for banking or work logins without protection. <a href="https://go.nordvpn.net/aff_c?offer_id=612&aff_id=141337&url_id=14830" rel="nofollow sponsored" target="_blank">Stay secure on public WiFi with NordVPN →</a>
+Most stations offer free public WiFi. It is convenient for checking routes and delays, but station networks are shared and unencrypted — not suitable for banking or work logins without protection. <a href="https://go.nordvpn.net/aff_c?offer_id=612&aff_id=141337&url_id=14830" rel="noopener nofollow sponsored" target="_blank">Stay secure on public WiFi with NordVPN →</a>
 
 ### NS App -- For Train Travel
 

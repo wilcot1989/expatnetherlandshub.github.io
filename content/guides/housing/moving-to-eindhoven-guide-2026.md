@@ -169,7 +169,7 @@ More useful in Eindhoven than in Amsterdam, especially for reaching surrounding 
 2. **Get BSN** — Assigned at registration
 3. **Health insurance** — Arrange within 4 months. See our [insurance guide](/guides/health/best-expat-insurance-netherlands-2026/)
 4. **DigiD** — Required for government services. See our [DigiD guide](/guides/legal/digid-guide-expats-2026/)
-5. **Bank account** — ING, Rabobank, or Bunq. For international transfers, use <a href="https://wise.com/invite/ihpc/willemt52" rel="nofollow sponsored" target="_blank">Wise</a>
+5. **Bank account** — ING, Rabobank, or Bunq. For international transfers, use <a href="https://wise.com/invite/ihpc/willemt52" rel="noopener nofollow sponsored" target="_blank">Wise</a>
 
 ### International Community
 - **Holland Expat Center South** — Free support for internationals in the Brainport region

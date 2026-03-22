@@ -134,7 +134,7 @@ If you prefer flexibility over tax advantages:
 - **ETFs** — Broad market exposure with minimal fees
 - **Savings accounts** — Low returns but zero risk
 
-Use <a href="https://wise.com/invite/ihpc/willemt52" rel="nofollow sponsored" target="_blank">Wise</a> to transfer money between your Dutch and home country accounts at the real exchange rate.
+Use <a href="https://wise.com/invite/ihpc/willemt52" rel="noopener nofollow sponsored" target="_blank">Wise</a> to transfer money between your Dutch and home country accounts at the real exchange rate.
 
 ## The 30% Ruling and Your Pension
 

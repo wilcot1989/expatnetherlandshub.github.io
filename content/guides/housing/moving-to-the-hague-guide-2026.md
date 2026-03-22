@@ -231,7 +231,7 @@ The Hague hosts major international organizations:
 5. **Open a bank account** — ING, ABN AMRO, or Bunq (most expat-friendly)
 
 ### Money Transfer
-For transferring money internationally (salary, savings, paying bills in your home country), use <a href="https://wise.com/invite/ihpc/willemt52" rel="nofollow sponsored" target="_blank">Wise (formerly TransferWise)</a> to save on exchange rate fees. Traditional banks charge 2-5% in hidden fees.
+For transferring money internationally (salary, savings, paying bills in your home country), use <a href="https://wise.com/invite/ihpc/willemt52" rel="noopener nofollow sponsored" target="_blank">Wise (formerly TransferWise)</a> to save on exchange rate fees. Traditional banks charge 2-5% in hidden fees.
 
 ## Cost of Living in The Hague: Specific 2026 Numbers
 

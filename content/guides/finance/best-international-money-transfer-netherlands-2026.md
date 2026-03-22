@@ -83,7 +83,7 @@ The difference is stark. A traditional bank transfer in this example costs rough
 
 ## Wise: Best Overall for International Transfers
 
-<a href="https://wise.com/invite/ihpc/willemt52" rel="nofollow sponsored" target="_blank">Wise</a> (formerly TransferWise) has become the default recommendation for international money transfers, and for good reason.
+<a href="https://wise.com/invite/ihpc/willemt52" rel="noopener nofollow sponsored" target="_blank">Wise</a> (formerly TransferWise) has become the default recommendation for international money transfers, and for good reason.
 
 ### How Wise Works
 
@@ -442,11 +442,11 @@ International transfers themselves are not taxed, but the underlying income or a
 
 International money transfers do not need to be expensive or complicated. The key insight is simple: avoid traditional bank SWIFT transfers whenever possible. The combination of high fees and poor exchange rates makes them the most expensive option for nearly every scenario.
 
-For most expats in the Netherlands, <a href="https://wise.com/invite/ihpc/willemt52" rel="nofollow sponsored" target="_blank">Wise</a> is the single best tool for international transfers. It offers the mid-market exchange rate, transparent fees, fast delivery, and a multi-currency account that simplifies life across borders.
+For most expats in the Netherlands, <a href="https://wise.com/invite/ihpc/willemt52" rel="noopener nofollow sponsored" target="_blank">Wise</a> is the single best tool for international transfers. It offers the mid-market exchange rate, transparent fees, fast delivery, and a multi-currency account that simplifies life across borders.
 
 Set up your Wise account before you move, add a Dutch bank account once you have your BSN, and you will have a financial setup that handles international life efficiently and affordably.
 
-<a href="https://wise.com/invite/ihpc/willemt52" rel="nofollow sponsored" target="_blank">Open your free Wise account here</a>.
+<a href="https://wise.com/invite/ihpc/willemt52" rel="noopener nofollow sponsored" target="_blank">Open your free Wise account here</a>.
 
 <a href="https://wise.com/invite/ihpc/willemt52" class="cta-affiliate" rel="noopener nofollow sponsored" target="_blank">Start Saving on International Transfers with Wise →</a>
 

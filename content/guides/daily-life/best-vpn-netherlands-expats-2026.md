@@ -105,7 +105,7 @@ Some online services, including flights, hotels, and software subscriptions, sho
 
 **My verdict**: The best all-around VPN for expats. If you want reliability, speed, and streaming access, <a href="https://go.nordvpn.net/aff_c?offer_id=612&aff_id=141337&url_id=14830" target="_blank" rel="noopener nofollow sponsored">NordVPN</a> is the safe choice.
 
-<a href="https://go.nordvpn.net/aff_c?offer_id=612&aff_id=141337&url_id=14830" class="cta" rel="nofollow sponsored" target="_blank">Try NordVPN Risk-Free with a 30-Day Money-Back Guarantee</a>
+<a href="https://go.nordvpn.net/aff_c?offer_id=612&aff_id=141337&url_id=14830" class="cta-affiliate" rel="noopener nofollow sponsored" target="_blank">Try NordVPN Risk-Free with a 30-Day Money-Back Guarantee</a>
 
 ### 2. Surfshark -- Best Value for Expats
 
@@ -130,7 +130,7 @@ Some online services, including flights, hotels, and software subscriptions, sho
 
 **My verdict**: The best value VPN. If unlimited devices and low cost are priorities, [Surfshark](https://surfshark.com/) is an outstanding choice.
 
-<a href="https://surfshark.com/" class="cta-affiliate" rel="nofollow sponsored" target="_blank">Try Surfshark — Unlimited Devices from EUR 2.19/month</a>
+<a href="https://surfshark.com/" class="cta-affiliate" rel="noopener nofollow sponsored" target="_blank">Try Surfshark — Unlimited Devices from EUR 2.19/month</a>
 
 ### 3. ExpressVPN -- Easiest to Use
 
@@ -283,7 +283,7 @@ Download the VPN app for your device:
 
 - Connect to your home country server before opening your banking app or website.
 - Some banks use additional detection beyond IP addresses. If you are still blocked, try clearing your browser cookies or using an incognito window.
-- Consider setting up a <a href="https://wise.com/invite/ihpc/willemt52" rel="nofollow sponsored" target="_blank">Wise account</a> for international transfers. Wise works globally without VPN issues and offers far better exchange rates than traditional banks. See our [guide to the best bank accounts for expats](/guides/finance/best-bank-account-expats-netherlands-2026/).
+- Consider setting up a <a href="https://wise.com/invite/ihpc/willemt52" rel="noopener nofollow sponsored" target="_blank">Wise account</a> for international transfers. Wise works globally without VPN issues and offers far better exchange rates than traditional banks. See our [guide to the best bank accounts for expats](/guides/finance/best-bank-account-expats-netherlands-2026/).
 
 ### For Work
 
@@ -304,6 +304,6 @@ If budget is your primary concern or you have a large household with many device
 
 Whatever you choose, getting a VPN set up should be one of your first steps as an expat. It keeps you connected to home, protects your privacy on Dutch public WiFi, and ensures you can access your financial accounts without issues.
 
-<a href="https://go.nordvpn.net/aff_c?offer_id=612&aff_id=141337&url_id=14830" class="cta" rel="nofollow sponsored" target="_blank">Get NordVPN -- Our #1 Pick for Expats in the Netherlands</a>
+<a href="https://go.nordvpn.net/aff_c?offer_id=612&aff_id=141337&url_id=14830" class="cta-affiliate" rel="noopener nofollow sponsored" target="_blank">Get NordVPN -- Our #1 Pick for Expats in the Netherlands</a>
 
 For more on getting set up in the Netherlands, see our [complete relocation guide](/guides/legal/complete-guide-moving-to-netherlands-2026/), my guide to the [best SIM cards for expats](/guides/daily-life/best-sim-card-netherlands-expats-2026/), and our [best internet providers in the Netherlands guide](/guides/daily-life/best-internet-providers-netherlands-2026/) — a fast, reliable home connection pairs well with a VPN for the full streaming and privacy setup.

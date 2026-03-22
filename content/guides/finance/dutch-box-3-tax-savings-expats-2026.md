@@ -228,7 +228,7 @@ For each asset, you report the value as of **January 1 of the tax year**. This m
 
 If you hold foreign accounts or investments, you need to convert their value to euros at the January 1 exchange rate. This is where having a multi-currency account with clear January 1 balances is useful.
 
-<a href="https://wise.com/invite/ihpc/willemt52" rel="nofollow sponsored" target="_blank">Wise</a> provides clear balance statements in multiple currencies, making it simple to report the exact euro value of foreign accounts on January 1. If you use Wise to hold foreign currency, the balance history feature gives you an accurate snapshot for tax reporting purposes.
+<a href="https://wise.com/invite/ihpc/willemt52" rel="noopener nofollow sponsored" target="_blank">Wise</a> provides clear balance statements in multiple currencies, making it simple to report the exact euro value of foreign accounts on January 1. If you use Wise to hold foreign currency, the balance history feature gives you an accurate snapshot for tax reporting purposes.
 
 ---
 
@@ -269,7 +269,7 @@ Box 3 is the part of Dutch taxation that takes the longest to understand but oft
 
 If your assets are significant, a consultation with a Dutch expat tax advisor will almost certainly pay for itself.
 
-<a href="https://wise.com/invite/ihpc/willemt52" class="cta" rel="nofollow sponsored" target="_blank">Use Wise for clear multi-currency balance records — useful at tax time →</a>
+<a href="https://wise.com/invite/ihpc/willemt52" class="cta-affiliate" rel="noopener nofollow sponsored" target="_blank">Use Wise for clear multi-currency balance records — useful at tax time →</a>
 
 ## Frequently Asked Questions
 

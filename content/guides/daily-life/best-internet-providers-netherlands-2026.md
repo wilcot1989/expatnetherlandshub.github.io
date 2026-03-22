@@ -43,7 +43,7 @@ One of the few things that genuinely impressed me when I moved to the Netherland
 
 Want to skip the research and just find the best deal at your address? Independer compares all major Dutch internet providers in one place.
 
-<a href="https://www.awin1.com/cread.php?awinmid=8558&awinaffid=2776410&ued=https%3A%2F%2Fwww.independer.nl%2Finternet" rel="nofollow sponsored" target="_blank" class="cta">Compare Internet Providers on Independer →</a>
+<a href="https://www.awin1.com/cread.php?awinmid=8558&awinaffid=2776410&ued=https%3A%2F%2Fwww.independer.nl%2Finternet" rel="noopener nofollow sponsored" target="_blank" class="cta-affiliate">Compare Internet Providers on Independer →</a>
 
 ---
 
@@ -350,7 +350,7 @@ Providers aggressively market bundles combining internet, TV, and phone. If you 
 
 ### Protect Your Privacy with a VPN
 
-Once your internet is set up, consider adding a VPN for privacy and to access streaming content from your home country. Your Dutch ISP can see your browsing activity, and a VPN encrypts this traffic. It also lets you connect to servers in your home country to watch Netflix, BBC iPlayer, Hulu, and other services as if you never left. I recommend <a href="https://go.nordvpn.net/aff_c?offer_id=612&aff_id=141337&url_id=14830" rel="nofollow sponsored" target="_blank">NordVPN</a> for expats in the Netherlands. Read our full [VPN comparison for expats](/guides/daily-life/best-vpn-netherlands-expats-2026/) for detailed reviews.
+Once your internet is set up, consider adding a VPN for privacy and to access streaming content from your home country. Your Dutch ISP can see your browsing activity, and a VPN encrypts this traffic. It also lets you connect to servers in your home country to watch Netflix, BBC iPlayer, Hulu, and other services as if you never left. I recommend <a href="https://go.nordvpn.net/aff_c?offer_id=612&aff_id=141337&url_id=14830" rel="noopener nofollow sponsored" target="_blank">NordVPN</a> for expats in the Netherlands. Read our full [VPN comparison for expats](/guides/daily-life/best-vpn-netherlands-expats-2026/) for detailed reviews.
 
 ---
 
@@ -377,6 +377,6 @@ Check what is available at your address, pick the plan that matches your househo
 
 The quickest way to find the best available deal at your specific address is to run a comparison on Independer — it checks live prices from all major providers in one place.
 
-<a href="https://www.awin1.com/cread.php?awinmid=8558&awinaffid=2776410&ued=https%3A%2F%2Fwww.independer.nl%2Finternet" rel="nofollow sponsored" target="_blank" class="cta">Compare Internet Providers on Independer →</a>
+<a href="https://www.awin1.com/cread.php?awinmid=8558&awinaffid=2776410&ued=https%3A%2F%2Fwww.independer.nl%2Finternet" rel="noopener nofollow sponsored" target="_blank" class="cta-affiliate">Compare Internet Providers on Independer →</a>
 
 Internet is just one piece of your monthly budget — see our [cost of living in the Netherlands guide](/guides/housing/cost-of-living-netherlands-2026/) for a full breakdown of what to expect.

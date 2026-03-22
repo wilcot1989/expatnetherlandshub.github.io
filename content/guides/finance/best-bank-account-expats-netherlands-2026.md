@@ -90,7 +90,7 @@ The ability to open an account before arriving in the Netherlands is invaluable.
 
 ### Our Verdict
 
-Every expat moving to the Netherlands should open a <a href="https://wise.com/invite/ihpc/willemt52" rel="nofollow sponsored" target="_blank">Wise account</a>. Even if you eventually set up a traditional Dutch bank account, Wise remains the go-to tool for international transfers and multi-currency management.
+Every expat moving to the Netherlands should open a <a href="https://wise.com/invite/ihpc/willemt52" rel="noopener nofollow sponsored" target="_blank">Wise account</a>. Even if you eventually set up a traditional Dutch bank account, Wise remains the go-to tool for international transfers and multi-currency management.
 
 <a href="https://wise.com/invite/ihpc/willemt52" class="cta-affiliate" rel="noopener nofollow sponsored" target="_blank">Open Your Free Wise Account →</a>
 
@@ -355,6 +355,6 @@ For most expats arriving in the Netherlands in 2026, I recommend this two-accoun
 
 This combination gives you the best of both worlds: low-cost international transfers and multi-currency management with Wise, plus full Dutch banking integration (iDEAL, direct debits, ATMs) with your Dutch bank.
 
-Start by opening your <a href="https://wise.com/invite/ihpc/willemt52" rel="nofollow sponsored" target="_blank">Wise account today</a> so you are ready to hit the ground running when you arrive.
+Start by opening your <a href="https://wise.com/invite/ihpc/willemt52" rel="noopener nofollow sponsored" target="_blank">Wise account today</a> so you are ready to hit the ground running when you arrive.
 
 <a href="https://wise.com/invite/ihpc/willemt52" class="cta-affiliate" rel="noopener nofollow sponsored" target="_blank">Open Your Free Wise Account →</a>
