@@ -1,6 +1,6 @@
 ---
 title: "Dealing with Loneliness as an Expat in NL"
-date: 2026-07-04T10:00:00+01:00
+date: 2026-03-22T10:00:00+01:00
 lastmod: 2026-07-04T10:00:00+01:00
 description: "Expat loneliness in the Netherlands is real. An honest guide to why it happens, what Dutch social culture means for you, and how to build a real life."
 categories: ["daily-life"]

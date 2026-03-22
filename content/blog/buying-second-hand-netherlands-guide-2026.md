@@ -1,6 +1,6 @@
 ---
 title: "Buying Second-Hand in Netherlands: Expat Guide"
-date: 2026-07-07T10:00:00+01:00
+date: 2026-03-22T10:00:00+01:00
 lastmod: 2026-07-07T10:00:00+01:00
 description: "Buy second-hand in the Netherlands as an expat: Marktplaats, Vinted, 2dehands, Facebook Marketplace, kringloopwinkel, bikes, furniture, avoiding scams."
 categories: ["daily-life"]

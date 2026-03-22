@@ -1,6 +1,6 @@
 ---
 title: "Dutch Utilities Explained for Expats 2026"
-date: 2026-07-10T10:00:00+01:00
+date: 2026-03-22T10:00:00+01:00
 lastmod: 2026-07-10T10:00:00+01:00
 description: "Dutch utilities for expats 2026: water bills, energy contracts, waste collection, internet providers, reading your energy bill, and switching suppliers."
 categories: ["daily-life"]
