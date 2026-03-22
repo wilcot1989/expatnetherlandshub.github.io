@@ -281,6 +281,10 @@ When I started freelancing, I spent far too long worrying about whether my invoi
 
 **Disability insurance is your biggest decision.** As a ZZP, if you cannot work due to illness or injury, you have no employer to fall back on. Disability insurance replaces 70-80% of your income.
 
+For health insurance, compare all major Dutch providers in one place — Independer is the Netherlands' most-used comparison platform and shows your estimated net cost after any zorgtoeslag (healthcare allowance) you qualify for.
+
+<a href="https://www.awin1.com/cread.php?awinmid=19918&awinaffid=2776410&ued=https://www.independer.nl/zorgverzekering" target="_blank" rel="noopener nofollow sponsored" class="cta-affiliate">Compare Dutch Health Insurance for ZZP on Independer →</a>
+
 Read our [complete expat insurance guide](/guides/health/best-expat-insurance-netherlands-2026/) for details.
 
 ## Step 6: Find Clients

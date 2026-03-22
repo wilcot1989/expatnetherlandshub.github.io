@@ -173,7 +173,7 @@ Once you have your BSN and residence permit, complete these steps:
 
 - **Language:** Start learning Dutch early with one of the [best apps to learn Dutch](/guides/integration/best-apps-learn-dutch-2026/).
 
-<a href="https://wise.com/invite/ihpc/willemt52" class="cta" rel="nofollow sponsored" target="_blank">Open Your Free Wise Account — Send Money Internationally</a>
+<a href="https://wise.com/invite/ihpc/willemt52" class="cta-affiliate" rel="noopener nofollow sponsored" target="_blank">Open Your Free Wise Account — Send Money Internationally →</a>
 
 ## IND Expat Centers
 

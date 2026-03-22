@@ -232,6 +232,8 @@ This is where I want to be direct: neither bunq nor N26 is the best option for r
 
 For anything beyond basic SEPA, <a href="https://wise.com/invite/ihpc/willemt52" rel="nofollow sponsored" target="_blank">Wise</a> uses the mid-market exchange rate with a small transparent fee, which beats both banks on almost every corridor. I cover this in detail in my [Wise vs Revolut comparison](/guides/finance/wise-vs-revolut-netherlands-2026/) and my guide to [best international money transfers from the Netherlands](/guides/finance/best-international-money-transfer-netherlands-2026/).
 
+<a href="https://wise.com/invite/ihpc/willemt52" target="_blank" rel="noopener nofollow sponsored" class="cta-affiliate">Open a Free Wise Account for International Transfers →</a>
+
 **Bunq international transfers:**
 - SEPA transfers: free, instant in many cases
 - Non-SEPA (SWIFT): available, but fees and exchange rates are not the best

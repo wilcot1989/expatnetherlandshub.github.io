@@ -150,7 +150,9 @@ As an expat, you likely travel more than average — visiting home, exploring Eu
 
 **World coverage including USA:** Add €20-€50/year for worldwide coverage. A must if you visit the US or Canada where medical costs are extremely high.
 
-For international travel insurance that works globally, <a href="https://safetywing.com/nomad-insurance/?referenceID=26482728&utm_source=26482728&utm_medium=Ambassador" rel="nofollow sponsored" target="_blank">SafetyWing Nomad Insurance</a> offers flexible monthly coverage starting at $45/month — ideal for expats who travel frequently or work remotely.
+For international travel insurance that works globally, SafetyWing Nomad Insurance offers flexible monthly coverage starting at $45/month — ideal for expats who travel frequently or work remotely.
+
+<a href="https://safetywing.com/nomad-insurance/?referenceID=26482728" target="_blank" rel="noopener nofollow sponsored" class="cta-affiliate">Get SafetyWing Nomad Insurance from $45/month →</a>
 
 ## 5. Disability Insurance (Arbeidsongeschiktheidsverzekering) — For Self-Employed
 
@@ -205,7 +207,9 @@ Legal expenses insurance covers the cost of legal assistance in disputes. In the
 4. **Healthcare allowance** — Check if you qualify for zorgtoeslag to offset health insurance costs
 5. **Employer benefits** — Some employers offer group insurance rates or contribute to your health insurance
 
-Compare health insurance options easily through <a href="https://www.awin1.com/cread.php?awinmid=8558&awinaffid=2776410&ued=https%3A%2F%2Fwww.independer.nl%2Fzorgverzekering" rel="nofollow sponsored" target="_blank">Independer</a> — the Netherlands' most popular comparison platform with English-language support.
+Compare health insurance options easily through Independer — the Netherlands' most popular comparison platform with English-language support.
+
+<a href="https://www.awin1.com/cread.php?awinmid=19918&awinaffid=2776410&ued=https://www.independer.nl/zorgverzekering" target="_blank" rel="noopener nofollow sponsored" class="cta-affiliate">Compare Dutch Health Insurance on Independer →</a>
 
 ## Common Mistakes Expats Make
 

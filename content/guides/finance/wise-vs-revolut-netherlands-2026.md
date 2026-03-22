@@ -272,7 +272,7 @@ Both are free at the basic level, but Wise has no hidden monthly charges at all.
 
 The honest answer for most expats: open <a href="https://wise.com/invite/ihpc/willemt52" rel="nofollow sponsored" target="_blank">Wise</a> first, get your European IBAN sorted, and then decide whether Revolut adds enough value for your specific situation. Most of my clients end up using both.
 
-<a href="https://wise.com/invite/ihpc/willemt52" rel="nofollow sponsored" target="_blank" class="cta">Open Your Wise Account</a>
+<a href="https://wise.com/invite/ihpc/willemt52" rel="noopener nofollow sponsored" target="_blank" class="cta-affiliate">Open Your Wise Account →</a>
 
 ---
 

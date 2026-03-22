@@ -194,6 +194,8 @@ On a £1,000 transfer, that exchange rate markup alone costs you £20–£40 mor
 
 My standard recommendation: open a <a href="https://wise.com/invite/ihpc/willemt52" rel="nofollow sponsored" target="_blank">Wise</a> account alongside your Dutch bank account and use it exclusively for international transfers. Wise charges a small transparent fee (often 0.4–0.8% of the transfer amount) and uses the real exchange rate. On a regular basis, that saves meaningful money.
 
+<a href="https://wise.com/invite/ihpc/willemt52" target="_blank" rel="noopener nofollow sponsored" class="cta-affiliate">Open a Free Wise Account →</a>
+
 For a full comparison of international transfer options, see my guide on [Wise vs Revolut](/guides/finance/wise-vs-revolut-netherlands-2026/).
 
 ### Credit Cards

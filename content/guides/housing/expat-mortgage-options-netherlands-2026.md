@@ -333,7 +333,9 @@ Contact the NHG foundation (nhg.nl) directly in a divorce situation — they hav
 
 ### Money Transfers for Down Payment
 
-If you are transferring savings from abroad for your down payment or additional costs, use <a href="https://wise.com/invite/ihpc/willemt52" rel="noopener nofollow sponsored" target="_blank">Wise</a> to get the real exchange rate. Banks typically add 2-5% in hidden markups on large transfers — on a €20,000 transfer, that could cost you €400-€1,000.
+If you are transferring savings from abroad for your down payment or additional costs, use Wise to get the real exchange rate. Banks typically add 2-5% in hidden markups on large transfers — on a €20,000 transfer, that could cost you €400-€1,000.
+
+<a href="https://wise.com/invite/ihpc/willemt52" target="_blank" rel="noopener nofollow sponsored" class="cta-affiliate">Transfer Your Down Payment with Wise →</a>
 
 ## Tools for Expat Buyers
 

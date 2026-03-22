@@ -133,7 +133,7 @@ Wise is our top recommendation for expats in the Netherlands. Whether you are se
 
 <a href="https://wise.com/invite/ihpc/willemt52" target="_blank" rel="noopener nofollow sponsored">Open a Wise account here</a> -- it is free to create an account.
 
-<a href="https://wise.com/invite/ihpc/willemt52" class="cta" rel="nofollow sponsored" target="_blank">Open Your Free Wise Account</a>
+<a href="https://wise.com/invite/ihpc/willemt52" class="cta-affiliate" rel="noopener nofollow sponsored" target="_blank">Open Your Free Wise Account →</a>
 
 ---
 
@@ -448,6 +448,6 @@ Set up your Wise account before you move, add a Dutch bank account once you have
 
 <a href="https://wise.com/invite/ihpc/willemt52" rel="nofollow sponsored" target="_blank">Open your free Wise account here</a>.
 
-<a href="https://wise.com/invite/ihpc/willemt52" class="cta" rel="nofollow sponsored" target="_blank">Start Saving on International Transfers with Wise</a>
+<a href="https://wise.com/invite/ihpc/willemt52" class="cta-affiliate" rel="noopener nofollow sponsored" target="_blank">Start Saving on International Transfers with Wise →</a>
 
 For more on managing your finances in the Netherlands, see my guide to the [30% ruling](/guides/finance/30-percent-ruling-netherlands-2026/) and our [complete guide to moving to the Netherlands in 2026](/guides/legal/complete-guide-moving-to-netherlands-2026/).
