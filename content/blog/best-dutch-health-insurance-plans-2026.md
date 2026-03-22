@@ -1,0 +1,309 @@
+---
+title: "Best Dutch Health Insurance Plans 2026 Compared"
+date: 2026-03-22T10:00:00+01:00
+lastmod: 2026-03-22T10:00:00+01:00
+description: "Compare the best Dutch health insurance plans for expats in 2026. Premiums, coverage, eigen risico, and which insurer suits your situation."
+categories: ["health"]
+tags: ["health insurance", "zorgverzekering", "expat insurance Netherlands", "Dutch healthcare", "Independer"]
+keywords: ["best Dutch health insurance expats 2026", "zorgverzekering comparison expat", "Dutch health insurance comparison 2026", "cheapest health insurance Netherlands"]
+affiliate: true
+author: "Sarah van den Berg"
+author_bio: "Expat coach and writer at ExpatNetherlandsHub.com"
+featured_image: "/images/categories/health.svg"
+faq:
+  - q: "Is Dutch health insurance mandatory for expats?"
+    a: "Yes. If you are registered as a resident in the Netherlands (ingeschreven in the BRP — the municipal population register), you are legally obliged to take out Dutch basic health insurance (basisverzekering) within four months of registration. If you do not, the CAK (the Dutch authority responsible for healthcare contributions) will assign you an insurer and charge you a higher premium. EU posted workers with valid health coverage from their home country can sometimes be exempt — but most expats who live and work in the Netherlands full-time are required to register and insure."
+  - q: "What does Dutch basic health insurance actually cover?"
+    a: "The basic package (basisverzekering) is set by the Dutch government and is identical across all insurers — only price and service differ. It covers GP visits, hospital care (after referral), mental health care (up to 3 years), maternity care, most prescription medicines, some physiotherapy (up to 9 sessions for most conditions), ambulance transport, and district nursing. It does not cover dental care for adults over 18 (except emergency extractions), glasses and contact lenses, most cosmetic procedures, and some therapies including most speech therapy for adults."
+  - q: "What is the eigen risico and how does it work?"
+    a: "The eigen risico is the annual excess (deductible) you pay before your insurer covers most costs. In 2026, the mandatory eigen risico is EUR 385. GP visits, maternity care, and some other services are excluded from the deductible — meaning your insurer pays for these regardless. You can voluntarily increase your eigen risico up to EUR 885 in exchange for a premium discount of around EUR 15–20/month. If you rarely use healthcare beyond GP visits, raising it can save money. If you have ongoing conditions or use hospital care regularly, keep it at the minimum."
+  - q: "Can I keep my home country health insurance instead of getting Dutch insurance?"
+    a: "Not if you are registered as a Dutch resident and working in the Netherlands. Being registered with the gemeente triggers the legal obligation to have Dutch health insurance. The one common exception is for employees posted to the Netherlands by a foreign employer for a fixed period — they may be covered under EU social security coordination rules (A1 certificate), allowing them to stay on their home country scheme. If you are in this situation, confirm with your employer's HR team and check with the SVB (Sociale Verzekeringsbank)."
+  - q: "What is a aanvullende verzekering and do I need one as an expat?"
+    a: "A aanvullende verzekering is a supplementary insurance policy that covers things not included in the basic package. Common additions include dental care, glasses, physiotherapy beyond the statutory limit, alternative medicine, and travel/repatriation coverage. Whether you need one depends on your situation. If you wear glasses, need regular dental work, or want dental cover for yourself or your children, a supplement is usually worth it. Children's dental care is covered by the basic package up to age 18, so parents do not always need supplementary dental cover for their kids. Compare using Independer to see current supplement pricing."
+  - q: "When can I switch Dutch health insurer?"
+    a: "You can switch health insurer once per year during the open enrolment period, which runs from 1 November to 31 December. Your new insurance starts on 1 January. Outside this window, you can only switch if you change jobs and your collective insurance scheme changes, or in a few other specific circumstances. It is worth comparing annually — premiums change every year, and the insurer that was cheapest in 2024 may not be the best value in 2026."
+---
+
+When I first arrived in the Netherlands, I was handed a list of Dutch health insurers and told to pick one within four months. Nobody explained what the difference was between them, what eigen risico meant, or what supplementary cover was actually worth buying.
+
+I picked almost at random. I later spent two hours on hold trying to get a physiotherapy referral approved by an insurer whose customer service turned out to be genuinely poor. I switched the following January.
+
+If you are navigating Dutch health insurance for the first time — or thinking about switching — this guide will tell you everything you need to know: how the system works, what the major insurers offer, what the current premiums look like, and how to compare options in a way that accounts for your actual situation.
+
+I use <a href="https://www.awin1.com/cread.php?awinmid=19918&awinaffid=2776410&ued=https://www.independer.nl/zorgverzekering" rel="noopener nofollow sponsored" class="cta-affiliate">Independer</a> to compare insurance options in the Netherlands — it is free, shows real pricing, and covers both basic and supplementary policies.
+
+---
+
+## How Dutch Health Insurance Works
+
+### The Basic Framework
+
+Dutch healthcare is funded through two mechanisms:
+1. **The basisverzekering (basic insurance)** — mandatory private insurance you buy from a registered insurer
+2. **The Zorgverzekeringswet (ZVW) income-related contribution** — deducted automatically from your salary by your employer (or included in your tax bill if self-employed)
+
+You pay for your own basisverzekering. In 2026, the average basic premium is around EUR 145–175/month depending on the insurer and your choices. This is for the basic package only.
+
+The government also pays a **zorgtoeslag** (healthcare allowance) to lower-income households to help cover the premium. If your income is below approximately EUR 38,000/year (individual), you may be entitled to this — apply through the Belastingdienst website.
+
+### The Eigen Risico
+
+Every adult (18+) in the Netherlands has a mandatory excess of EUR 385/year (2026). This means you pay the first EUR 385 of your healthcare costs each year — with some exceptions.
+
+**Services exempt from the eigen risico (you pay nothing):**
+- GP consultations
+- Maternity care (kraamzorg)
+- Home nursing
+- Some preventive programmes (including cancer screening)
+- Mental health care referrals (first session)
+
+**Services subject to the eigen risico:**
+- Hospital treatment (inpatient and most outpatient)
+- Specialist consultations
+- Most prescription medicines
+- Physiotherapy (from session 1 in most cases for basic conditions)
+- Medical aids and equipment
+
+You can voluntarily raise your eigen risico to EUR 485, EUR 585, EUR 685, EUR 785, or EUR 885. Each step reduces your monthly premium by around EUR 5–7. Raising it to EUR 885 saves roughly EUR 15–20/month but means you absorb up to EUR 885 of costs before insurance kicks in.
+
+**My view:** For healthy adults who use healthcare infrequently, raising the eigen risico to EUR 585 or EUR 685 often makes financial sense. If you have a chronic condition, manage ongoing medication, or have children on your policy, keep it at EUR 385.
+
+---
+
+## The Major Dutch Health Insurers in 2026
+
+### CZ
+
+**Best for:** Value-focused individuals; strong in North Brabant and Zeeland regions.
+
+CZ is one of the largest Dutch health insurers. Their basic package is among the more competitively priced and they have a strong network of contracted hospitals and GPs.
+
+**Premium (basic, 2026 estimate):** EUR 145–158/month
+**Eigen risico options:** EUR 385–885
+**Customer service:** Generally well-rated; Dutch-language primarily, English support available
+**Expat consideration:** CZ has experience with expats and processes most claims without issue
+
+### Zilveren Kruis
+
+**Best for:** Full-service, wide contracted network, families.
+
+Zilveren Kruis (part of the Achmea group) is the largest insurer in the Netherlands by market share. They have a very wide contracted hospital network and their supplementary dental and physiotherapy packages are well-priced.
+
+**Premium (basic, 2026 estimate):** EUR 152–165/month
+**Eigen risico options:** EUR 385–885
+**Customer service:** Large team, English service available
+**Expat consideration:** Among the better-known brands for expats; their MyZilverenKruis app is decent
+
+### Menzis
+
+**Best for:** Northern and eastern Netherlands residents; good supplementary options.
+
+Menzis is a non-profit mutual insurer with a strong regional presence in Groningen, Drenthe, and Gelderland. Their basic premiums are competitive and they tend to score well on customer satisfaction surveys.
+
+**Premium (basic, 2026 estimate):** EUR 143–157/month
+**Eigen risico options:** EUR 385–885
+**Customer service:** Good ratings; English support available
+**Expat consideration:** Less well-known to expats but reliable and often slightly cheaper than the major brands
+
+### VGZ
+
+**Best for:** Collective/employer insurance schemes; good supplementary coverage.
+
+VGZ is a major insurer often used for employer collective schemes. Their individual policies are competitive and they have a wide contracted network. VGZ also manages several sub-brands including IZZ, IZA, and UMC.
+
+**Premium (basic, 2026 estimate):** EUR 146–162/month
+**Eigen risico options:** EUR 385–885
+**Customer service:** Mixed reviews; improving via app
+**Expat consideration:** If your employer offers VGZ collective insurance, this can be a meaningful discount (5–15%)
+
+### DSW
+
+**Best for:** Budget-conscious adults; simple setup.
+
+DSW is a smaller regional insurer (strong in South Holland) known for being consistently among the cheapest in the Netherlands. They have a smaller contracted network than the big players, which means some treatments may fall under the "restitutiepolis" model (see below).
+
+**Premium (basic, 2026 estimate):** EUR 138–152/month
+**Eigen risico options:** EUR 385–885
+**Customer service:** Rated well for clarity; mostly Dutch-language
+**Expat consideration:** Cheaper but less international-friendly; may require more self-navigation
+
+### ONVZ
+
+**Best for:** Expats seeking premium service, English support, and international cover.
+
+ONVZ is often the insurer explicitly recommended for expats. Their premiums are higher than average, but they offer genuinely good English-language customer service, strong supplementary international cover options, and a reputation for handling complex claims well.
+
+**Premium (basic, 2026 estimate):** EUR 165–182/month
+**Eigen risico options:** EUR 385–885
+**Customer service:** Excellent English service; proactive communication
+**Expat consideration:** Best for expats who want clear English-language support and good international coverage on supplementary policies
+
+---
+
+## Naturaverzekering vs Restitutiepolis: What the Difference Means
+
+This distinction matters and is often poorly explained.
+
+**Naturaverzekering (in-kind policy):**
+Your insurer has contracted agreements with specific hospitals, clinics, and specialists. If you use a contracted provider, your costs are covered at 100%. If you go to a non-contracted provider (a hospital outside the insurer's network), costs are reimbursed at a lower rate — typically 70–80% of the "NZa maximum tariff". Most basic policies in the Netherlands are naturaverzekeringen.
+
+**Practical implication:** When choosing a policy, check whether your preferred hospital and GP area are in the contracted network. Most large hospitals have contracts with all major insurers, but some specialty clinics and private practices do not.
+
+**Restitutiepolis (reimbursement policy):**
+You can use any registered Dutch healthcare provider and be reimbursed at the full NZa rate regardless of whether they are contracted. This gives you more flexibility but premiums are higher. ONVZ and some CZ policies are restitutieverzekeringspolissen.
+
+**For most expats:** A standard naturaverzekering is fine as long as you check that the hospitals in your area are contracted. If you are in Amsterdam or Rotterdam, nearly all major hospitals are contracted by all major insurers.
+
+---
+
+## Comparing Basic Premiums (2026 Estimates)
+
+| Insurer | Basic monthly premium (EUR) | English support | Expat-friendly rating |
+|---|---|---|---|
+| DSW | 138–152 | Limited | 2/5 |
+| CZ | 145–158 | Yes | 4/5 |
+| Menzis | 143–157 | Yes | 4/5 |
+| VGZ | 146–162 | Moderate | 3.5/5 |
+| Zilveren Kruis | 152–165 | Yes | 4/5 |
+| ONVZ | 165–182 | Excellent | 5/5 |
+
+*Premiums vary by age, region, and chosen eigen risico. These are estimates for a 30-year-old adult in Amsterdam with EUR 385 eigen risico. Use Independer for current exact pricing.*
+
+<a href="https://www.awin1.com/cread.php?awinmid=19918&awinaffid=2776410&ued=https://www.independer.nl/zorgverzekering" rel="noopener nofollow sponsored" class="cta-affiliate">Compare current Dutch health insurance prices on Independer</a>
+
+---
+
+## Supplementary Insurance (Aanvullende Verzekering)
+
+The basic package does not cover dental, glasses, physiotherapy beyond 9 sessions, or most alternative medicine. If you want these covered, you need a supplementary policy.
+
+### Is supplementary insurance worth it?
+
+**Dental coverage:**
+Adult dental care is entirely outside the basic package. A standard dental check-up costs EUR 30–60; a filling is EUR 80–150; a crown can be EUR 600–900; an implant EUR 1,500–3,000.
+
+If you see a dentist twice a year and have occasional work done, supplementary dental cover typically costs EUR 15–30/month and pays back through reduced out-of-pocket costs. If you have significant dental needs, it can be very worthwhile. If you never go to the dentist, skip it.
+
+**Physiotherapy:**
+The basic package covers up to 9 sessions of physiotherapy for most conditions (chronic conditions get more). If you have a recurring injury or use physiotherapy regularly, a supplement covering additional sessions at 75–100% of cost makes sense. Typical cost: EUR 10–20/month.
+
+**Glasses and contact lenses:**
+Most basic supplements include some glasses coverage (EUR 150–300 every one to two years). A basic supplement covering glasses typically costs EUR 5–10/month. If you wear expensive prescription lenses, this usually pays for itself.
+
+**Physiotherapy (chronic conditions — Chronic Care Programme):**
+If you have a chronic condition like diabetes or COPD, additional sessions may be covered under the basisverzekering through the Chronic Care Programme. Check with your insurer specifically if you have ongoing conditions.
+
+### Supplement Tiers (CZ as Example)
+
+| Supplement tier | Monthly cost | What's covered |
+|---|---|---|
+| Aanvullend 1 | EUR 8 | Basic dental check-ups, limited physio |
+| Aanvullend 2 | EUR 18 | Broader dental (fillings, x-rays), more physio |
+| Aanvullend 3 | EUR 28 | Full dental including crowns, full physio, glasses |
+| Tandarts + | EUR 22 | Dental focus only (crowns, root canal) |
+
+*Different insurers use different tier names. Compare specific package inclusions carefully.*
+
+---
+
+## Collective Insurance Through Your Employer
+
+Many Dutch employers have negotiated collective insurance schemes with a specific insurer. These typically offer a 5–15% discount on the basic premium.
+
+If your employer offers a collective scheme, take 5 minutes to compare the discounted premium against the market independently. Sometimes the discount makes it clearly the best value. Sometimes the base premium was high enough that a discount still leaves it more expensive than a competitor's standard policy.
+
+**Key question to ask HR:** "Does the collective scheme apply just to the basic policy, or to supplementary policies too?"
+
+---
+
+## Zorgtoeslag: The Healthcare Allowance
+
+If your income is below the threshold (approximately EUR 38,000 individual, EUR 48,000 for couples in 2026), you are entitled to a monthly healthcare allowance from the Dutch government.
+
+The maximum allowance in 2026 is around EUR 123/month for individuals (income-tested, reducing to zero at the threshold). Apply through the Belastingdienst (Mijn Toeslagen portal). You must have Dutch health insurance to qualify.
+
+Many expats in their first year — before salary rises or during a job search period — qualify for at least partial zorgtoeslag. It is worth checking.
+
+---
+
+## What Expats Often Overlook
+
+**Check your preferred GP (huisarts) is accepting new patients.** In the Netherlands you register with a GP and they manage all non-emergency healthcare. Some practices — especially in Amsterdam — have long waiting lists. Finding and registering with a GP is one of the first things you should do after arranging insurance.
+
+**Mental health care.** Basic insurance covers referrals to mental health care (GGZ), but waiting lists for Dutch mental health care can be 6–18 months for NHS-equivalent public services. Some expats choose private or English-language therapists, which cost EUR 80–120/session and may or may not be reimbursed. If mental health care is important to you, check specifically whether your chosen insurer has contracted English-language GGZ providers.
+
+**Medicines.** Most prescription medicines are covered by the basic package, but some are only partially covered or require a preferred brand. If you are on a specific medication, check the formulary (farmacotherapeutisch kompas, managed by your insurer) before assuming full coverage.
+
+**Having children in the Netherlands.** Maternity care (kraamzorg) is fully covered by the basic package, including a kraamverzorgster (post-natal care assistant) at home for 8 days after birth. This is one of the genuinely impressive elements of Dutch healthcare — make sure your chosen insurer has contracted kraamzorg providers in your area.
+
+---
+
+## How to Switch Health Insurer
+
+Switching is simple if you do it during the open enrolment window (1 November – 31 December each year, for 1 January start).
+
+1. Use Independer or Zorgwijzer to compare current prices
+2. Choose your new insurer and policy
+3. Sign up with the new insurer — they handle the cancellation of your old policy
+4. Confirm your supplementary policy is also transferred or newly arranged
+
+If you have supplementary insurance, be aware that some insurers apply a waiting period (up to one year) for dental coverage when you switch. Check the conditions before switching mid-treatment.
+
+<a href="https://www.awin1.com/cread.php?awinmid=19918&awinaffid=2776410&ued=https://www.independer.nl/zorgverzekering" rel="noopener nofollow sponsored" class="cta-affiliate">Compare Dutch health insurance options on Independer — free and updated for 2026</a>
+
+---
+
+## Summary: Which Insurer for Which Situation?
+
+| Your situation | Recommended insurer |
+|---|---|
+| Best English-language service, expat-focused | ONVZ |
+| Best overall value, large network | CZ or Menzis |
+| Employer collective scheme available | VGZ (if discount is meaningful) |
+| Budget minimum, healthy adult | DSW |
+| Families with young children | Zilveren Kruis |
+| Expat in northern/eastern Netherlands | Menzis |
+
+Use this as a starting point, then verify current premiums on Independer, which updates in real time and includes the actual policy documents you can read before signing.
+
+---
+
+## Further Reading on ExpatNetherlandsHub
+
+- [Menzis health insurance review for expats](/blog/menzis-health-insurance-review-expats-2026/)
+- [VGZ health insurance review for expats](/blog/vgz-health-insurance-review-expats-2026/)
+- [How to register with a GP in the Netherlands](/blog/register-gp-netherlands-expat-guide-2026/)
+- [Car insurance in the Netherlands for expats](/blog/car-insurance-netherlands-expats-2026/)
+- [How to find a job in the Netherlands](/blog/how-to-find-job-netherlands-expat-2026/)
+- [Dutch utilities explained for expats](/blog/dutch-utilities-explained-expats-2026/)
+- [Retiring in the Netherlands: health and pensions](/blog/retiring-in-netherlands-expat-guide-2026/)
+- [Short-stay furnished housing in the Netherlands](/blog/short-stay-furnished-housing-netherlands-2026/)
+
+---
+
+## FAQ
+
+**Is Dutch health insurance mandatory for expats?**
+
+Yes. If you are registered as a resident in the Netherlands (ingeschreven in the BRP — the municipal population register), you are legally obliged to take out Dutch basic health insurance (basisverzekering) within four months of registration. If you do not, the CAK (the Dutch authority responsible for healthcare contributions) will assign you an insurer and charge you a higher premium. EU posted workers with valid health coverage from their home country can sometimes be exempt — but most expats who live and work in the Netherlands full-time are required to register and insure.
+
+**What does Dutch basic health insurance actually cover?**
+
+The basic package (basisverzekering) is set by the Dutch government and is identical across all insurers — only price and service differ. It covers GP visits, hospital care (after referral), mental health care (up to 3 years), maternity care, most prescription medicines, some physiotherapy (up to 9 sessions for most conditions), ambulance transport, and district nursing. It does not cover dental care for adults over 18 (except emergency extractions), glasses and contact lenses, most cosmetic procedures, and some therapies including most speech therapy for adults.
+
+**What is the eigen risico and how does it work?**
+
+The eigen risico is the annual excess (deductible) you pay before your insurer covers most costs. In 2026, the mandatory eigen risico is EUR 385. GP visits, maternity care, and some other services are excluded from the deductible — meaning your insurer pays for these regardless. You can voluntarily increase your eigen risico up to EUR 885 in exchange for a premium discount of around EUR 15–20/month. If you rarely use healthcare beyond GP visits, raising it can save money. If you have ongoing conditions or use hospital care regularly, keep it at the minimum.
+
+**Can I keep my home country health insurance instead of getting Dutch insurance?**
+
+Not if you are registered as a Dutch resident and working in the Netherlands. Being registered with the gemeente triggers the legal obligation to have Dutch health insurance. The one common exception is for employees posted to the Netherlands by a foreign employer for a fixed period — they may be covered under EU social security coordination rules (A1 certificate), allowing them to stay on their home country scheme. If you are in this situation, confirm with your employer's HR team and check with the SVB (Sociale Verzekeringsbank).
+
+**What is a aanvullende verzekering and do I need one as an expat?**
+
+A aanvullende verzekering is a supplementary insurance policy that covers things not included in the basic package. Common additions include dental care, glasses, physiotherapy beyond the statutory limit, alternative medicine, and travel/repatriation coverage. Whether you need one depends on your situation. If you wear glasses, need regular dental work, or want dental cover for yourself or your children, a supplement is usually worth it. Children's dental care is covered by the basic package up to age 18, so parents do not always need supplementary dental cover for their kids. Compare using Independer to see current supplement pricing.
+
+**When can I switch Dutch health insurer?**
+
+You can switch health insurer once per year during the open enrolment period, which runs from 1 November to 31 December. Your new insurance starts on 1 January. Outside this window, you can only switch if you change jobs and your collective insurance scheme changes, or in a few other specific circumstances. It is worth comparing annually — premiums change every year, and the insurer that was cheapest in 2024 may not be the best value in 2026.
