@@ -116,6 +116,8 @@ The [bunq Metal card](/guides/finance/bunq-review-expats-netherlands-2026/) is n
 
 **Cost:** EUR 20.99/month (EUR 251/year) is expensive. Only makes sense if you use the other Metal features too.
 
+<a href="https://jf79.net/c/?si=16546&li=1710742&wi=418626&ws=&dl=" target="_blank" rel="noopener nofollow sponsored" class="cta-affiliate">Open a bunq account →</a>
+
 ---
 
 ### 4. Revolut Metal — Flexible with Credit-Like Features

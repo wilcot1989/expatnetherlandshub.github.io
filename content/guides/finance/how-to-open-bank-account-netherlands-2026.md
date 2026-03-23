@@ -113,6 +113,8 @@ For more on how Wise compares to other options, see [Wise vs Revolut for expats 
 
 Bunq is a Dutch digital bank that also allows sign-up without visiting a branch. EU citizens can open an account remotely. It is more expensive than Wise (subscription model starting around €2.99/month), but it functions as a proper Dutch bank account with Dutch customer support. See the [Bunq vs N26 comparison](/guides/finance/bunq-vs-n26-expats-netherlands-2026/) if you are weighing up your options.
 
+<a href="https://jf79.net/c/?si=16546&li=1710742&wi=418626&ws=&dl=" target="_blank" rel="noopener nofollow sponsored" class="cta-affiliate">Check bunq plans →</a>
+
 ---
 
 ## Step 2: Register at the Gemeente and Get Your BSN

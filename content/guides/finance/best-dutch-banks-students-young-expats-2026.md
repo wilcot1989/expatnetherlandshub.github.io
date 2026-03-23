@@ -128,7 +128,7 @@ EUR 2.99/month might seem small, but over a three-year degree that is EUR 107. I
 
 **My take:** If you are the type who actually budgets and wants control, bunq's sub-account system is genuinely the best tool available in the Netherlands. If you just want a free account that works, go ING.
 
-[Try bunq Easy Money](https://www.bunq.com/nl)
+<a href="https://jf79.net/c/?si=16546&li=1710742&wi=418626&ws=&dl=" target="_blank" rel="noopener nofollow sponsored" class="cta-affiliate">Try bunq Easy Money →</a>
 
 For a detailed comparison, see my [bunq vs N26 review](/guides/finance/bunq-vs-n26-expats-netherlands-2026/).
 
