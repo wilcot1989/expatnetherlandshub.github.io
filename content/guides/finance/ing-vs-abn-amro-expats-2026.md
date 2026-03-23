@@ -1,8 +1,8 @@
 ---
-title: "ING vs ABN AMRO for Expats in the Netherlands: Which Bank Is Better in 2026?"
+title: "ING vs ABN AMRO for Expats 2026: Which Is Better?"
 date: 2026-03-07T10:00:00+01:00
 lastmod: 2026-03-07T10:00:00+01:00
-description: "Detailed comparison of ING and ABN AMRO for expats in the Netherlands. Fees, English support, apps, mortgages, and which one to choose in 2026."
+description: "ING or ABN AMRO? I tested both as an expat. Real fees, English app quality, mortgage options, and which bank actually serves expats better."
 categories: ["finance"]
 tags: ["ING", "ABN AMRO", "dutch bank", "expat banking", "bank comparison"]
 keywords: ["ING vs ABN AMRO expats", "best dutch bank expats", "ING ABN AMRO comparison", "dutch bank account expat"]

@@ -2,7 +2,7 @@
 title: "Best Credit Cards for Expats Netherlands 2026"
 date: 2026-03-18T10:00:00+01:00
 lastmod: 2026-03-18T10:00:00+01:00
-description: "Credit cards for expats in the Netherlands: honest options, real approval odds, fees, and workarounds when Dutch credit history blocks you."
+description: "No Dutch credit history? These credit cards actually work for expats. Real approval odds, fees, and the options most guides don't mention."
 categories: ["finance"]
 tags: ["credit cards", "expat banking", "bunq", "revolut", "n26", "amex", "ICS visa"]
 keywords: ["credit cards expats netherlands", "dutch credit card expat", "credit card no dutch credit history", "best credit card netherlands 2026"]
