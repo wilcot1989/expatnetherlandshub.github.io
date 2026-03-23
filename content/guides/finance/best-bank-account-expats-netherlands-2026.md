@@ -51,7 +51,7 @@ When I arrived in the Netherlands, I spent two weeks without a functioning bank 
 Before diving into each bank in detail, here are our top picks:
 
 1. **Best first account (open before you arrive)**: <a href="https://wise.com/invite/ihpc/willemt52" target="_blank" rel="noopener nofollow sponsored">Wise</a>
-2. **Best digital bank for daily use in the Netherlands**: [Bunq](https://jf79.net/c/?si=16546&li=1710742&wi=418626&ws=&dl=)
+2. **Best digital bank for daily use in the Netherlands**: [Bunq](https://www.bunq.com/nl)
 3. **Best traditional bank for long-term residents**: ING
 
 Most expats benefit from having two accounts: a <a href="https://wise.com/invite/ihpc/willemt52" target="_blank" rel="noopener nofollow sponsored">Wise account</a> for international transfers and currency conversion, plus either a traditional Dutch bank or Bunq for everyday Dutch banking.
@@ -98,7 +98,7 @@ Every expat moving to the Netherlands should open a <a href="https://wise.com/in
 
 ## 2. Bunq -- Best Digital Bank for Dutch Daily Life
 
-[Bunq](https://jf79.net/c/?si=16546&li=1710742&wi=418626&ws=&dl=) is a Dutch-born digital bank that has built a strong following among expats and tech-savvy locals. It offers a full banking experience with features that traditional banks are still catching up to.
+[Bunq](https://www.bunq.com/nl) is a Dutch-born digital bank that has built a strong following among expats and tech-savvy locals. It offers a full banking experience with features that traditional banks are still catching up to.
 
 ### Key Features
 
@@ -135,9 +135,7 @@ Bunq was designed for the digital-first generation. The app is intuitive, fully 
 
 ### Our Verdict
 
-If you want a modern, fully digital banking experience that works well in the Netherlands, [Bunq](https://jf79.net/c/?si=16546&li=1710742&wi=418626&ws=&dl=) is the best option. The Easy Money plan offers exceptional value for the features provided.
-
-<a href="https://jf79.net/c/?si=16546&li=1710742&wi=418626&ws=&dl=" target="_blank" rel="noopener nofollow sponsored" class="cta-affiliate">Open a bunq account →</a>
+If you want a modern, fully digital banking experience that works well in the Netherlands, [Bunq](https://www.bunq.com/nl) is the best option. The Easy Money plan offers exceptional value for the features provided.
 
 ---
 
@@ -321,7 +319,7 @@ Revolut is a useful secondary account for travel and multi-currency spending, bu
 
 1. **Before you move**: Open a <a href="https://wise.com/invite/ihpc/willemt52" target="_blank" rel="noopener nofollow sponsored">Wise account</a> to get a European IBAN immediately. Transfer initial funds from your home country at the best exchange rate.
 
-2. **After registration at the gemeente**: Once you have your BSN, apply for a traditional Dutch bank (ING or ABN AMRO recommended) or a full-featured digital bank ([Bunq](https://jf79.net/c/?si=16546&li=1710742&wi=418626&ws=&dl=) or [N26](https://n26.com/en-nl)).
+2. **After registration at the gemeente**: Once you have your BSN, apply for a traditional Dutch bank (ING or ABN AMRO recommended) or a full-featured digital bank ([Bunq](https://www.bunq.com/nl) or [N26](https://n26.com/en-nl)).
 
 3. **Set up direct debits**: Link your health insurance, rent (if paid by direct debit), and utility payments to your Dutch bank account.
 
@@ -353,7 +351,7 @@ Not sure which banking setup suits your situation? Our [bank account chooser](/t
 For most expats arriving in the Netherlands in 2026, I recommend this two-account setup:
 
 1. **<a href="https://wise.com/invite/ihpc/willemt52" target="_blank" rel="noopener nofollow sponsored">Wise</a>** as your first and international account (open before you arrive)
-2. **ING or [Bunq](https://jf79.net/c/?si=16546&li=1710742&wi=418626&ws=&dl=)** as your primary Dutch bank for everyday use (open after receiving your BSN)
+2. **ING or [Bunq](https://www.bunq.com/nl)** as your primary Dutch bank for everyday use (open after receiving your BSN)
 
 This combination gives you the best of both worlds: low-cost international transfers and multi-currency management with Wise, plus full Dutch banking integration (iDEAL, direct debits, ATMs) with your Dutch bank.
 

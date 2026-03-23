@@ -321,6 +321,4 @@ Most expats end up using at least two of these. That is not a failure of the app
 
 Open a Wise account to get started with transfers: <a href="https://wise.com/invite/ihpc/willemt52" target="_blank" rel="noopener nofollow sponsored" class="cta-affiliate">Open Wise →</a>
 
-<a href="https://jf79.net/c/?si=16546&li=1710742&wi=418626&ws=&dl=" target="_blank" rel="noopener nofollow sponsored" class="cta-affiliate">Open a bunq account →</a>
-
 For a deeper look at all your banking options in the Netherlands, see my [complete guide to bank accounts for expats](/guides/finance/best-bank-account-expats-netherlands-2026/).

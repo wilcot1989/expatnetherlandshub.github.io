@@ -362,7 +362,7 @@ For expats building a life in the Netherlands, bunq is the better choice. The Du
 
 N26 is not a bad bank. It is a good European neobank that simply was not designed with Dutch-specific requirements in mind. Use it as a free secondary account or travel card if you want, but do not rely on it as your primary Dutch account.
 
-<a href="https://jf79.net/c/?si=16546&li=1710742&wi=418626&ws=&dl=" rel="noopener nofollow sponsored" target="_blank" class="cta-affiliate">Open a bunq account</a>
+<a href="https://bunq.com" rel="noopener nofollow sponsored" target="_blank" class="cta-affiliate">Open a bunq account</a>
 
 <a href="https://n26.com" rel="noopener nofollow sponsored" target="_blank" class="cta-affiliate">Open an N26 account</a>
 

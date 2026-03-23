@@ -158,8 +158,6 @@ bunq is a Dutch fintech bank — founded in Amsterdam, regulated by De Nederland
 
 The one thing bunq doesn't do brilliantly is multi-currency. If you have significant income in GBP or USD, you'll want to look at Wise Business instead.
 
-<a href="https://jf79.net/c/?si=16546&li=1710742&wi=418626&ws=&dl=" target="_blank" rel="noopener nofollow sponsored" class="cta-affiliate">Try bunq Easy Money →</a>
-
 ---
 
 ### Wise Business

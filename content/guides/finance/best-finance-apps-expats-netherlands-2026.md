@@ -88,8 +88,6 @@ bunq also has multi-user accounts for couples, which is useful if you and a part
 
 The main downside: bunq starts at €2.99/month for the basic plan and €9.99/month for the version with all the good features. That is reasonable if you use it properly, but it does add up.
 
-<a href="https://jf79.net/c/?si=16546&li=1710742&wi=418626&ws=&dl=" target="_blank" rel="noopener nofollow sponsored" class="cta-affiliate">Try bunq Easy Money →</a>
-
 For a full head-to-head, see [bunq vs N26 for expats](/guides/finance/bunq-vs-n26-expats-netherlands-2026/).
 
 ### Wise — Best for International Transfers and Multi-Currency

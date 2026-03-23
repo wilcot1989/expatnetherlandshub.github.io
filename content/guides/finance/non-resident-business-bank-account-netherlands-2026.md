@@ -122,8 +122,6 @@ The key limitation is that bunq will still assess each application individually,
 
 The [bunq review for expats in the Netherlands](/guides/finance/bunq-review-expats-netherlands-2026/) covers the full range of bunq's accounts and features.
 
-<a href="https://jf79.net/c/?si=16546&li=1710742&wi=418626&ws=&dl=" target="_blank" rel="noopener nofollow sponsored" class="cta-affiliate">Open a bunq account →</a>
-
 ### Wise Business: The Most Practical Starting Point
 
 For most non-resident BV founders, **Wise Business** is currently the fastest and most reliable way to get a functioning Dutch business account open.
