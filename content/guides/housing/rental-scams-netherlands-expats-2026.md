@@ -2,7 +2,7 @@
 title: "Rental Scams Netherlands: How to Stay Safe 2026"
 date: 2026-05-12T10:00:00+01:00
 lastmod: 2026-05-12T10:00:00+01:00
-description: "A detailed guide to the 8 most common rental scams targeting expats in the Netherlands in 2026 — with real examples, red flag checklists, and step-by-step advice on what to do if you've been defrauded."
+description: "The 8 most common rental scams targeting expats in the Netherlands — real examples, red flag checklists, and advice if you've been defrauded."
 categories: ["housing"]
 tags: ["rental scam", "housing fraud", "safety", "rental market"]
 keywords: ["rental scams netherlands", "housing scam amsterdam", "fake rental netherlands", "avoid rental fraud netherlands"]
@@ -172,7 +172,7 @@ I have seen this happen with furnished short-term rentals and with longer-term s
 - "May I see the deed or proof of ownership, or the name of your landlord?"
 - If they are a tenant subletting, ask to see written permission from the landlord.
 
-Platforms like [HousingAnywhere vs Kamernet vs Funda](/guides/housing/housingAnywhere-vs-kamernet-vs-funda-2026/) do screen for some of this — but no platform can catch everything.
+Platforms like [HousingAnywhere vs Kamernet vs Funda](/guides/housing/housinganywhere-vs-kamernet-vs-funda-2026/) do screen for some of this — but no platform can catch everything.
 
 ---
 
@@ -371,7 +371,7 @@ After years of helping clients find housing, here is the process I now give to e
 
 Rental scams are one part of a broader picture of what makes housing in the Netherlands challenging for expats. If you want context on the full process, the [complete guide to finding housing in the Netherlands](/guides/housing/finding-housing-netherlands-expats-2026/) covers everything from registering at an address to understanding your rental rights.
 
-If you are still deciding which platform to use, the detailed comparison in [HousingAnywhere vs Kamernet vs Funda](/guides/housing/housingAnywhere-vs-kamernet-vs-funda-2026/) will help you work out which one suits your situation — student housing, furnished short-term lets, and long-term unfurnished apartments all have different best platforms.
+If you are still deciding which platform to use, the detailed comparison in [HousingAnywhere vs Kamernet vs Funda](/guides/housing/housinganywhere-vs-kamernet-vs-funda-2026/) will help you work out which one suits your situation — student housing, furnished short-term lets, and long-term unfurnished apartments all have different best platforms.
 
 For price benchmarks that will help you identify whether a listing is suspiciously cheap, the [cost of living guide for the Netherlands](/guides/housing/cost-of-living-netherlands-2026/) has detailed rental cost data by city.
 

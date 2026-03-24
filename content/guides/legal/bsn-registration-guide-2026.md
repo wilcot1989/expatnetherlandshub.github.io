@@ -1,5 +1,5 @@
 ---
-title: "BSN Number in the Netherlands: How to Register Step by Step in 2026"
+title: "BSN Number Netherlands: How to Register Step by Step (2026)"
 date: 2026-03-10T10:00:00+01:00
 lastmod: 2026-03-10T10:00:00+01:00
 description: "Complete guide to getting your BSN number in the Netherlands. Gemeente registration, required documents, and appointment booking explained."

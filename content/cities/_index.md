@@ -1,6 +1,6 @@
 ---
 title: "Expat City Guides Netherlands 2026"
-description: "Practical city guides for expats in 17 Dutch cities. Compare Amsterdam, Rotterdam, The Hague, Utrecht, Eindhoven, Groningen, Leiden, Maastricht, Haarlem, Delft, Breda, Den Bosch, Nijmegen, Tilburg, Almere, Arnhem, and Amstelveen."
+description: "Practical city guides for expats in 17 Dutch cities. Compare Amsterdam, Rotterdam, The Hague, Utrecht, Eindhoven, Groningen, Leiden, Maastricht, and more."
 date: 2026-03-06T10:00:00+01:00
 ---
 

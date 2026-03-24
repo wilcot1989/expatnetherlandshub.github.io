@@ -217,7 +217,7 @@ For international health cover during a transition, or for retirees who split th
 
 <a href="https://safetywing.com/nomad-insurance/?referenceID=26482728&utm_source=26482728&utm_medium=Ambassador" target="_blank" rel="noopener nofollow sponsored" class="cta-affiliate">SafetyWing international health insurance for expats →</a>
 
-For comprehensive international health cover for retirees with higher needs (chronic conditions, private hospital preference):
+For full international health cover for retirees with higher needs (chronic conditions, private hospital preference):
 
 <a href="https://www.cigna.com/international/expat-health-insurance" target="_blank" rel="noopener nofollow sponsored" class="cta-affiliate">Cigna international health insurance for retirees →</a>
 
@@ -289,7 +289,7 @@ If you have a fiscal partner, your combined tax-free Box 3 threshold is approxim
 **Spending down assets strategically:**
 If you are drawing down a portfolio in retirement anyway, the trajectory of your Box 3 liability will naturally decrease each year. There is no reason to hold assets you plan to spend purely for fear of Box 3; the tax cost of holding them is roughly equivalent to 2% per year.
 
-For comprehensive tax planning as a retiree in the Netherlands, a Dutch belastingadviseur (tax advisor) who specialises in international situations is worth the consultation fee. Our [tax advisor guide](/guides/finance/best-tax-advisors-expats-netherlands-2026/) lists English-speaking specialists.
+For thorough tax planning as a retiree in the Netherlands, a Dutch belastingadviseur (tax advisor) who specialises in international situations is worth the consultation fee. Our [tax advisor guide](/guides/finance/best-tax-advisors-expats-netherlands-2026/) lists English-speaking specialists.
 
 ---
 
@@ -337,7 +337,7 @@ In some cases yes, but the honest answer for most people is: probably not withou
 
 ### What happens to my US Social Security if I retire in the Netherlands?
 
-The US and the Netherlands have a bilateral totalization agreement that prevents double social security taxation and allows contributions from both countries to be combined. Your US Social Security benefit can be paid directly to a Dutch bank account. Under the US-Netherlands tax treaty, US Social Security received by a Dutch resident is generally taxable in the Netherlands as Box 1 income — and may also be partially taxable in the US depending on your total income. This potential double taxation requires a dual-qualified US-Dutch tax advisor to navigate properly.
+The US and the Netherlands have a bilateral totalization agreement that prevents double social security taxation and allows contributions from both countries to be combined. Your US Social Security benefit can be paid directly to a Dutch bank account. Under the US-Netherlands tax treaty, US Social Security received by a Dutch resident is generally taxable in the Netherlands as Box 1 income — and may also be partially taxable in the US depending on your total income. This potential double taxation requires a dual-qualified US-Dutch tax advisor to handle properly.
 
 ### What does healthcare for retirees in the Netherlands look like?
 

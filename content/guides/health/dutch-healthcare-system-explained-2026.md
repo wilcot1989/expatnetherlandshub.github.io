@@ -2,7 +2,7 @@
 title: "Dutch Healthcare System Explained for Expats 2026"
 date: 2026-05-08T10:00:00+01:00
 lastmod: 2026-05-08T10:00:00+01:00
-description: "How does Dutch healthcare actually work in practice? From the huisarts gatekeeper to emergency rooms, pharmacies, and waiting lists — a practical guide for expats living in the Netherlands."
+description: "How Dutch healthcare actually works: from the huisarts gatekeeper to emergency rooms, pharmacies, and waiting lists — practical guide for expats."
 categories: ["health"]
 tags: ["healthcare", "huisarts", "GP", "specialist", "hospital", "emergency"]
 keywords: ["dutch healthcare system expats", "how dutch healthcare works", "huisarts netherlands", "dutch hospital expat", "emergency netherlands"]

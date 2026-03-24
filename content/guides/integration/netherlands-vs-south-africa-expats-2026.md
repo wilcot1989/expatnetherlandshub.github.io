@@ -211,7 +211,7 @@ This is one of the more underappreciated aspects of the SA-to-NL move.
 
 Afrikaans evolved directly from 17th-century Dutch. The two languages share approximately 90% of their core vocabulary. Basic Dutch sentences — *Ik wil koffie bestellen* (I want to order coffee), *Waar is het toilet?* (Where is the toilet?), *Hoe gaat het?* (How are you?) — are immediately comprehensible to most Afrikaans speakers without any study.
 
-Grammar is harder: Dutch retained grammatical gender (de/het article system) that Afrikaans simplified away, and Dutch spelling follows more complex rules. But the vocabulary foundation is transformative. Most Afrikaans-speaking SA expats I work with reach conversational Dutch in 3–4 months of consistent effort — roughly half the time it takes for English-only speakers.
+Grammar is harder: Dutch retained grammatical gender (de/het article system) that Afrikaans simplified away, and Dutch spelling follows more complex rules. But the vocabulary foundation is a major advantage. Most Afrikaans-speaking SA expats I work with reach conversational Dutch in 3–4 months of consistent effort — roughly half the time it takes for English-only speakers.
 
 Non-Afrikaans-speaking South Africans can still move quickly. Dutch pronunciation is learnable and English vocabulary overlaps with Dutch significantly. Take a course — the [best Dutch language courses](/guides/integration/best-dutch-language-courses-2026/) guide covers your options from structured evening classes to intensive programmes.
 
@@ -327,7 +327,7 @@ Spring arrives suddenly. April through September in the Netherlands is genuinely
 
 ## Summary: Is the Netherlands Right for You?
 
-The Netherlands is a genuinely excellent destination for South African professionals in tech, engineering, finance, and related fields. The salary step-up is real. The 30% ruling makes the first five years particularly valuable. Safety is transformative. The energy stability alone removes a category of stress that South Africans carry without realising it.
+The Netherlands is a genuinely excellent destination for South African professionals in tech, engineering, finance, and related fields. The salary step-up is real. The 30% ruling makes the first five years particularly valuable. The safety difference is significant. The energy stability alone removes a category of stress that South Africans carry without realising it.
 
 The challenges are real too: the housing market is tight, winters are grey and long by SA standards, and the cost of living requires adjustment. But the Afrikaans language advantage, the active SA community, and the quality of Dutch infrastructure make the practical adjustment smoother than many SA expats expect.
 

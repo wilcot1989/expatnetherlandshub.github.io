@@ -3,7 +3,7 @@ title: "Netherlands vs USA for Expats 2026"
 date: 2026-03-22T10:00:00+01:00
 lastmod: 2026-03-22T10:00:00+01:00
 type: "guide"
-description: "Netherlands vs USA comparison for expats in 2026. Honest side-by-side analysis of cost of living, salaries, taxes, healthcare, work culture, and quality of life."
+description: "Netherlands vs USA comparison for expats in 2026. Side-by-side analysis of cost of living, salaries, taxes, healthcare, work culture, and quality of life."
 categories: ["integration"]
 tags: ["Netherlands vs USA", "expat comparison", "moving to Netherlands from America", "American expats Netherlands"]
 keywords: ["netherlands vs usa expats", "living in netherlands vs usa", "moving from usa to netherlands", "american expat netherlands", "netherlands vs america cost of living"]

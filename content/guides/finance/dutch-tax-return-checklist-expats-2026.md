@@ -1,5 +1,5 @@
 ---
-title: "Dutch Tax Return Checklist for Expats 2026: Everything You Need Before Filing"
+title: "Dutch Tax Return Checklist for Expats 2026: Before You File"
 date: 2026-03-07T10:00:00+01:00
 lastmod: 2026-03-07T10:00:00+01:00
 description: "Complete checklist for your Dutch tax return as an expat. Documents, deadlines, deductions, and when to hire a tax advisor. Updated for the 2025 tax year."

@@ -215,7 +215,7 @@ Key facts about the 2026 market:
 
 For a full breakdown of living and housing costs by city, see the [cost of living in the Netherlands guide](/guides/housing/cost-of-living-netherlands-2026/).
 
-If you are still in the rental search phase, [finding housing in the Netherlands as an expat](/guides/housing/finding-housing-netherlands-expats-2026/) walks you through the practical steps. For platform comparisons, [HousingAnywhere vs Kamernet vs Funda](/guides/housing/housingAnywhere-vs-kamernet-vs-funda-2026/) helps you decide where to search.
+If you are still in the rental search phase, [finding housing in the Netherlands as an expat](/guides/housing/finding-housing-netherlands-expats-2026/) walks you through the practical steps. For platform comparisons, [HousingAnywhere vs Kamernet vs Funda](/guides/housing/housinganywhere-vs-kamernet-vs-funda-2026/) helps you decide where to search.
 
 ## The Decision Tree: "How Long Will I Stay?"
 

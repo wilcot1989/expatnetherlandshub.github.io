@@ -82,7 +82,7 @@ MUMC+ is the main hospital, with strong specialist facilities particularly in he
 
 Registration with a GP typically takes 1–3 weeks. The university's student health service is a separate system from general practice — if you are an employee rather than a student, you register with a regular huisarts.
 
-Health insurance is mandatory from your first day as a Dutch resident. Cross-border workers face a more complex situation — if you are employed in Belgium or Germany but resident in the Netherlands, your insurance obligations depend on your employment country. Get specialist advice before assuming Dutch insurance rules apply straightforwardly. Premiums start around €140/month for standard Dutch residents. Use the [Health Insurance Wizard](/tools/health-insurance-wizard/) to compare policies. Compare Dutch and international expat insurance options with the [Insurance Comparison](/tools/insurance-chooser/).
+Health insurance is mandatory from your first day as a Dutch resident. Cross-border workers face a more complex situation — if you are employed in Belgium or Germany but resident in the Netherlands, your insurance obligations depend on your employment country. Get specialist advice before assuming Dutch insurance rules apply without exception. Premiums start around €140/month for standard Dutch residents. Use the [Health Insurance Wizard](/tools/health-insurance-wizard/) to compare policies. Compare Dutch and international expat insurance options with the [Insurance Comparison](/tools/insurance-chooser/).
 
 ## Transport
 

@@ -1,6 +1,6 @@
 ---
-title: "Amstelveen Expat Guide 2026: Amsterdam's Most International Suburb"
-description: "The Netherlands' largest expat community outside Amsterdam — KPMG, ABN AMRO, and a thriving Japanese community. Rent prices, best neighbourhoods, commute times, and honest tips."
+title: "Amstelveen Expat Guide 2026: Most International Suburb"
+description: "The Netherlands' largest expat community outside Amsterdam. KPMG, ABN AMRO hub. Rent prices, best neighbourhoods, commute times, and honest tips."
 date: 2026-03-07T10:00:00+01:00
 lastmod: 2026-03-07
 featured_image: "/images/categories/cities.svg"

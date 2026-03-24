@@ -23,7 +23,7 @@ None of that was catastrophic. But it was exhausting — and it didn't have to b
 
 Before moving to the Netherlands, I worked in corporate HR and employee mobility in London, helping companies relocate staff to new countries. I knew the process from the employer side. Moving myself was a different education entirely.
 
-After settling in Amsterdam, I started volunteering with expat community groups, helping newcomers navigate the same hurdles I'd stumbled through. In 2020, I completed my certification as a relocation consultant through the European Relocation Association (EuRA). Since then, I've worked directly with over 500 expats on relocations to the Netherlands — everything from visa applications and housing searches to tax registration and school enrollment for their children.
+After settling in Amsterdam, I started volunteering with expat community groups, helping newcomers deal with the same hurdles I'd stumbled through. In 2020, I completed my certification as a relocation consultant through the European Relocation Association (EuRA). Since then, I've worked directly with over 500 expats on relocations to the Netherlands — everything from visa applications and housing searches to tax registration and school enrollment for their children.
 
 In 2022, I moved to Utrecht, where I still live. I now run a small consultancy alongside this site.
 

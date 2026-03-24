@@ -2,7 +2,7 @@
 title: "Wise vs Revolut Netherlands 2026: Expat Guide"
 date: 2026-03-09T10:00:00+01:00
 lastmod: 2026-03-09T10:00:00+01:00
-description: "Wise gets you a European IBAN accepted by Dutch employers and direct debits. Revolut's Lithuanian IBAN causes problems. Full breakdown of fees, exchange rates, and which to use."
+description: "Wise gives a European IBAN accepted by Dutch employers. Revolut's Lithuanian IBAN causes problems. Breakdown of fees, exchange rates, and which to use."
 categories: ["finance"]
 tags: ["Wise", "Revolut", "money transfer", "fintech", "expat banking"]
 keywords: ["Wise vs Revolut Netherlands", "Wise or Revolut expats", "best money transfer Netherlands", "Wise Revolut comparison"]

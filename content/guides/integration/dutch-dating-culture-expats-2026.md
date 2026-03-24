@@ -41,7 +41,7 @@ Let us start with money, because it is the thing that trips people up first.
 
 In the Netherlands, splitting a bill 50/50 is not a signal of disinterest. It is not a bad sign. It is not something to overthink at 2am while checking his Instagram. It is simply what Dutch people do, and they do it regardless of gender, regardless of who asked for the date, and regardless of whether the date went brilliantly or terribly.
 
-The Dutch approach to money in relationships is rooted in a cultural value of financial independence that runs through [Dutch social etiquette](/guides/integration/dutch-social-etiquette-expats-2026/) more broadly. Dutch people genuinely do not like financial imbalance. Paying for someone else feels paternalistic. Letting someone pay for you feels uncomfortable. Splitting it evenly feels clean, fair, and — crucially — does not create any unspoken expectation.
+The Dutch approach to money in relationships is rooted in a cultural value of financial independence that runs through [Dutch social etiquette](/guides/integration/dutch-social-etiquette-expats-2026/) more broadly. Dutch people genuinely do not like financial imbalance. Paying for someone else feels paternalistic. Letting someone pay for you feels uncomfortable. Splitting it evenly feels clean, fair, and — importantly — does not create any unspoken expectation.
 
 Now. The Tikkie.
 

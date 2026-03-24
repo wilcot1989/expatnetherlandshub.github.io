@@ -1,5 +1,5 @@
 ---
-title: "Integration & Language Guides for Expats in the Netherlands 2026"
+title: "Integration & Language Guides for Expats in the Netherlands"
 description: "Learn Dutch, prepare for inburgering, and compare language apps. Practical integration guides for expats in the Netherlands."
 date: 2026-03-06T10:00:00+01:00
 ---

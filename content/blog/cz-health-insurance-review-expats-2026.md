@@ -16,9 +16,9 @@ faq:
   - q: "What is CZ's basic insurance premium in 2026?"
     a: "CZ's basisverzekering premiums in 2026 are approximately EUR 148/month for the natura policy and EUR 155/month for the restitutie policy. CZ also sells budget labels such as Just and Nationale Nederlanden Zorg, which use the CZ care network but offer slightly lower premiums in exchange for a more limited service offering."
   - q: "Does CZ offer English language support?"
-    a: "CZ has a partial English-language offer. Their main website (cz.nl) is in Dutch, but CZ operates an English-language information page and customer service representatives often speak English. For straightforward queries — signing up, checking coverage, submitting a claim — you can usually manage in English. CZ also has a functional English-language version of their MijnCZ member portal."
+    a: "CZ has a partial English-language offer. Their main website (cz.nl) is in Dutch, but CZ operates an English-language information page and customer service representatives often speak English. For simple queries — signing up, checking coverage, submitting a claim — you can usually manage in English. CZ also has a functional English-language version of their MijnCZ member portal."
   - q: "What supplementary insurance does CZ offer for expats?"
-    a: "CZ offers several supplementary (aanvullende) packages at different price points, covering physiotherapy sessions, dental care, glasses, travel vaccinations, and alternative therapies. The mid-range CZ Aanvullend 2 or CZ Aanvullend Plus packages are most popular with expats. CZ also sells a comprehensive dental package (tandverzekering) if you want significant dental coverage."
+    a: "CZ offers several supplementary (aanvullende) packages at different price points, covering physiotherapy sessions, dental care, glasses, travel vaccinations, and alternative therapies. The mid-range CZ Aanvullend 2 or CZ Aanvullend Plus packages are most popular with expats. CZ also sells a dedicated dental package (tandverzekering) if you want significant dental coverage."
   - q: "How does CZ handle care abroad for expats who travel?"
     a: "Under CZ's restitutie policy, medically necessary care received abroad is generally reimbursed up to Dutch market rates. Coverage for care outside the EU is more limited under the basic policy. If you travel frequently, consider adding a reisverzekering (travel insurance) or ensuring your supplementary package includes adequate abroad coverage. CZ's higher supplementary tiers often include better abroad coverage."
   - q: "Can I switch to CZ mid-year?"
@@ -133,7 +133,7 @@ CZ's supplementary packages are among the better-developed in the Dutch market. 
 - Unlimited physiotherapy (with conditions)
 - Dental up to EUR 1,000/year
 - Orthodontics contribution
-- Comprehensive travel vaccination coverage
+- Full travel vaccination coverage
 - Better abroad coverage
 - ~EUR 40-55/month
 
@@ -160,7 +160,7 @@ This is an area where CZ performs noticeably better than many Dutch-only insurer
 - Reimbursement decision letters
 - Complex policy wording
 
-CZ is not fully bilingual, but for expats who need to ask a straightforward question or understand their coverage, the English support is adequate for most situations. For disputes or complex matters, you may still need Dutch assistance.
+CZ is not fully bilingual, but for expats who need to ask a basic question or understand their coverage, the English support is adequate for most situations. For disputes or complex matters, you may still need Dutch assistance.
 
 ---
 
@@ -180,7 +180,7 @@ If you paid for care directly, submit the claim via MijnCZ:
 4. Enter your IBAN for reimbursement
 5. Submit — reimbursement typically arrives within 5-10 working days
 
-CZ's digital claims portal works reasonably well. The upload process is straightforward and status updates are visible within the portal.
+CZ's digital claims portal works reasonably well. The upload process is simple and status updates are visible within the portal.
 
 ---
 
@@ -284,11 +284,11 @@ CZ's basisverzekering premiums in 2026 are approximately EUR 148/month for the n
 
 **Does CZ offer English language support?**
 
-CZ has a partial English-language offer. Their main website (cz.nl) is in Dutch, but CZ operates an English-language information page and customer service representatives often speak English. For straightforward queries — signing up, checking coverage, submitting a claim — you can usually manage in English. CZ also has a functional English-language version of their MijnCZ member portal.
+CZ has a partial English-language offer. Their main website (cz.nl) is in Dutch, but CZ operates an English-language information page and customer service representatives often speak English. For simple queries — signing up, checking coverage, submitting a claim — you can usually manage in English. CZ also has a functional English-language version of their MijnCZ member portal.
 
 **What supplementary insurance does CZ offer for expats?**
 
-CZ offers several supplementary (aanvullende) packages at different price points, covering physiotherapy sessions, dental care, glasses, travel vaccinations, and alternative therapies. The mid-range CZ Aanvullend 2 or CZ Aanvullend Plus packages are most popular with expats. CZ also sells a comprehensive dental package (tandverzekering) if you want significant dental coverage.
+CZ offers several supplementary (aanvullende) packages at different price points, covering physiotherapy sessions, dental care, glasses, travel vaccinations, and alternative therapies. The mid-range CZ Aanvullend 2 or CZ Aanvullend Plus packages are most popular with expats. CZ also sells a dedicated dental package (tandverzekering) if you want significant dental coverage.
 
 **How does CZ handle care abroad for expats who travel?**
 

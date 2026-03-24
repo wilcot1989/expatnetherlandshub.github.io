@@ -2,7 +2,7 @@
 title: "Dutch Employment Law Basics Every Expat Should Know 2026"
 date: 2026-03-18T10:00:00+01:00
 lastmod: 2026-03-18T10:00:00+01:00
-description: "Dutch employment law explained for expats. Proeftijd, opzegtermijn, transitievergoeding, CAO, ontslagbescherming, and what to do if you are fired in the Netherlands."
+description: "Dutch employment law for expats. Proeftijd, opzegtermijn, transitievergoeding, CAO, ontslagbescherming, and what to do if you are fired in the Netherlands."
 categories: ["legal"]
 tags: ["dutch employment law", "proeftijd", "opzegtermijn", "ontslagbescherming", "transitievergoeding", "CAO netherlands", "fired netherlands expat", "dutch labor law"]
 keywords: ["dutch employment law expats 2026", "proeftijd netherlands", "notice period netherlands", "transitievergoeding expat", "CAO collective agreement netherlands", "fired in netherlands expat", "dutch dismissal protection"]

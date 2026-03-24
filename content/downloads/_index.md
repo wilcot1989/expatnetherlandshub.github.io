@@ -810,7 +810,7 @@ No BSN required, holds 40+ currencies, Dutch IBAN available, low international t
 <div class="cl-section">
 <div class="cl-section-title">Choose a Dutch bank</div>
 <ul class="cl-items">
-<li><span class="cl-check" aria-hidden="true"></span><span><strong>ING:</strong> English app, widely accepted, straightforward account opening online</span></li>
+<li><span class="cl-check" aria-hidden="true"></span><span><strong>ING:</strong> English app, widely accepted, easy account opening online</span></li>
 <li><span class="cl-check" aria-hidden="true"></span><span><strong>ABN AMRO:</strong> Strong English support, good for expats and internationals; Expat Banking package available</span></li>
 <li><span class="cl-check" aria-hidden="true"></span><span><strong>Rabobank:</strong> Good rural and mid-city coverage; English support is more limited</span></li>
 <li><span class="cl-check" aria-hidden="true"></span><span><strong>Bunq:</strong> Dutch fintech, fully English, opens without BSN initially, very expat-friendly</span></li>

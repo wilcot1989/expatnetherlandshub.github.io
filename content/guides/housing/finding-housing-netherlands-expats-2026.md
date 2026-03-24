@@ -1,5 +1,5 @@
 ---
-title: "Finding Housing in the Netherlands as an Expat: Complete Guide 2026"
+title: "Finding Housing in the Netherlands: Expat Guide 2026"
 date: 2026-03-06T11:00:00+01:00
 lastmod: 2026-03-06T11:00:00+01:00
 description: "Complete guide to finding housing in the Netherlands as an expat in 2026. Rental platforms, costs per city, contracts, scam warnings, and tips."

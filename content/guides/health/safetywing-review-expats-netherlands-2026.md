@@ -2,7 +2,7 @@
 title: "SafetyWing Review for Expats NL 2026"
 date: 2026-03-18T10:00:00+01:00
 lastmod: 2026-03-18T10:00:00+01:00
-description: "Honest SafetyWing review for expats in the Netherlands 2026. What Nomad Insurance covers, what it does not, when it makes sense, and when it absolutely cannot replace Dutch health insurance."
+description: "Honest SafetyWing review for expats in the Netherlands 2026. What Nomad Insurance covers, what it doesn't, when it makes sense vs Dutch health insurance."
 categories: ["health"]
 tags: ["SafetyWing", "expat insurance", "nomad insurance", "health coverage Netherlands", "travel insurance"]
 keywords: ["safetywing review netherlands", "safetywing nomad insurance expat", "safetywing netherlands health insurance", "is safetywing enough netherlands"]

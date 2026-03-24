@@ -2,7 +2,7 @@
 title: "Best Finance Apps for Expats in Netherlands 2026"
 date: 2026-03-28T10:00:00+01:00
 lastmod: 2026-03-28T10:00:00+01:00
-description: "From Tikkie to YNAB: the finance and budgeting apps that actually work for expats in the Netherlands. My personal stack after 10 years of managing money across two countries."
+description: "From Tikkie to YNAB: finance apps that actually work for expats in the Netherlands. My personal stack after 10 years managing money across two countries."
 categories: ["finance"]
 tags: ["budgeting apps", "finance apps netherlands", "tikkie", "ynab", "wise", "expat finance", "dutch banking apps"]
 keywords: ["best finance apps expats netherlands", "budgeting app netherlands", "expat money management netherlands", "tikkie explained", "best budgeting app 2026"]
@@ -72,7 +72,7 @@ For a full comparison of ING against ABN AMRO, see [ING vs ABN AMRO for expats](
 
 ### ABN AMRO App — The Tikkie Bank
 
-ABN AMRO built Tikkie, and it shows. The integration between ABN AMRO's app and Tikkie is the smoothest of any Dutch bank. If you have ABN AMRO as your primary account, bill-splitting with Dutch colleagues feels genuinely effortless.
+ABN AMRO built Tikkie, and it shows. The integration between ABN AMRO's app and Tikkie is the smoothest of any Dutch bank. If you have ABN AMRO as your primary account, bill-splitting with Dutch colleagues feels genuinely easy.
 
 The ABN AMRO app itself is well-designed, with a strong overview screen and decent spending insights. Customer service is good in English. The mortgage and savings products are competitive if you reach that stage of expat life.
 

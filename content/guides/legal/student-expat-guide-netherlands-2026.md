@@ -2,7 +2,7 @@
 title: "Student Expat Guide Netherlands 2026"
 date: 2026-05-10T10:00:00+01:00
 lastmod: 2026-05-10T10:00:00+01:00
-description: "The complete guide for international students moving to the Netherlands in 2026. Visas, tuition fees, housing, DUO student finance, health insurance, working rights, and daily life explained."
+description: "Complete guide for international students moving to the Netherlands 2026. Visas, tuition, housing, DUO finance, health insurance, and working rights."
 categories: ["legal"]
 tags: ["student", "university", "visa", "housing", "student finance"]
 keywords: ["student expat netherlands", "international student netherlands guide", "study netherlands 2026", "student visa netherlands"]
@@ -147,7 +147,7 @@ As an incoming student, you almost certainly cannot access social student housin
 
 **Kamernet** is the largest Dutch room-sharing platform. Listings are in Dutch and English, and it covers everything from student rooms in shared houses to studio apartments. It is where most Dutch students look, so the volume of listings is high. I recommend using both HousingAnywhere and Kamernet simultaneously.
 
-For a detailed comparison of these platforms plus Funda's role in the rental market, see our [HousingAnywhere vs Kamernet vs Funda guide](/guides/housing/housingAnywhere-vs-kamernet-vs-funda-2026/).
+For a detailed comparison of these platforms plus Funda's role in the rental market, see our [HousingAnywhere vs Kamernet vs Funda guide](/guides/housing/housinganywhere-vs-kamernet-vs-funda-2026/).
 
 For broader rental guidance and scam avoidance, see our [finding housing in the Netherlands guide](/guides/housing/finding-housing-netherlands-expats-2026/).
 

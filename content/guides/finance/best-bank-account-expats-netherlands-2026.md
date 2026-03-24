@@ -2,7 +2,7 @@
 title: "Best Bank Accounts for Expats in the Netherlands 2026"
 date: 2026-02-24T11:00:00+01:00
 lastmod: 2026-02-24T11:00:00+01:00
-description: "No BSN yet? Most Dutch banks won't open your account. Here's which banks work from day 1, which is cheapest for international transfers, and what most expat guides get wrong."
+description: "No BSN yet? Most Dutch banks won't open your account. Here's which banks work from day 1, which is cheapest for transfers, and what expat guides get wrong."
 categories: ["finance"]
 tags: ["dutch bank account", "expat banking", "wise", "bunq", "n26", "ing netherlands", "abn amro"]
 keywords: ["best bank expats netherlands", "dutch bank account expat", "open bank account netherlands", "best bank netherlands english", "expat banking netherlands 2026"]

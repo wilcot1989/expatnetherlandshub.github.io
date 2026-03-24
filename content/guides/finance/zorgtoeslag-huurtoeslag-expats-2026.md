@@ -1,5 +1,5 @@
 ---
-title: "Zorgtoeslag and Huurtoeslag: Dutch Benefits for Expats Explained (2026)"
+title: "Zorgtoeslag & Huurtoeslag: Dutch Benefits for Expats (2026)"
 slug: "zorgtoeslag-huurtoeslag-expats-2026"
 date: 2026-04-13T10:00:00+01:00
 lastmod: 2026-04-13T10:00:00+01:00

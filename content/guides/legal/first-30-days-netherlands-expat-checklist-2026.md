@@ -2,7 +2,7 @@
 title: "First 30 Days in the Netherlands: Checklist 2026"
 date: 2026-05-07T10:00:00+01:00
 lastmod: 2026-05-07T10:00:00+01:00
-description: "Arrived in the Netherlands? Here is the exact day-by-day checklist I give every expat client: gemeente registration, BSN, DigiD, health insurance, banking, and more."
+description: "Arrived in the Netherlands? The exact day-by-day checklist: gemeente registration, BSN, DigiD, health insurance, banking, and more — for every new expat."
 categories: ["legal"]
 tags: ["checklist", "first days", "moving", "registration", "BSN", "DigiD"]
 keywords: ["first 30 days netherlands expat", "what to do first netherlands", "expat checklist netherlands 2026", "settling in netherlands"]
@@ -318,7 +318,7 @@ The main platforms:
 
 My guide to [finding housing in the Netherlands as an expat](/guides/housing/finding-housing-netherlands-expats-2026/) covers the full rental process: what to look for in a rental contract, how to protect your deposit, what "all-in" rent means (and when to be suspicious of it), and how to handle the viewing process in a competitive market.
 
-I also have a detailed comparison of [Funda vs Pararius vs HousingAnywhere](/guides/housing/housingAnywhere-vs-kamernet-vs-funda-2026/) for different expat situations.
+I also have a detailed comparison of [Funda vs Pararius vs HousingAnywhere](/guides/housing/housinganywhere-vs-kamernet-vs-funda-2026/) for different expat situations.
 
 **Checklist:**
 - [ ] Create accounts on Funda and Pararius

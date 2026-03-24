@@ -1,5 +1,5 @@
 ---
-title: "How to File Your Dutch Tax Return: Step-by-Step Guide for Expats (2026)"
+title: "How to File Your Dutch Tax Return: Expat Guide (2026)"
 slug: "dutch-tax-return-how-to-file-2026"
 date: 2026-04-05T10:00:00+01:00
 lastmod: 2026-04-05T10:00:00+01:00

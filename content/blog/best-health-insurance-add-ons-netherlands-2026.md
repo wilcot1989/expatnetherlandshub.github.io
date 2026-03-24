@@ -1,6 +1,6 @@
 ---
 title: "Best Health Insurance Add-Ons Netherlands 2026"
-description: "Which health insurance add-ons are worth it for expats in the Netherlands? I review dental, physio, mental health, and travel extras for 2026 — with real costs."
+description: "Which health insurance add-ons are worth it for expats in the Netherlands? Dental, physio, mental health, and travel extras reviewed for 2026 — real costs."
 date: 2026-03-22
 lastmod: 2026-03-22
 author: "Sarah van den Berg"

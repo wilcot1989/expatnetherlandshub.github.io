@@ -202,7 +202,7 @@ Every employee in the Netherlands is legally entitled to a minimum holiday allow
 
 ### How It Is Calculated
 
-The calculation is straightforward:
+The calculation is simple:
 
 **Vakantiegeld = Gross annual salary × 8%**
 

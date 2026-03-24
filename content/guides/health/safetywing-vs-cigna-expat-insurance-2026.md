@@ -1,5 +1,5 @@
 ---
-title: "SafetyWing vs Cigna Global: Expat Insurance Compared for the Netherlands (2026)"
+title: "SafetyWing vs Cigna Global: Expat Insurance Compared (2026)"
 date: 2026-03-25T10:00:00+01:00
 lastmod: 2026-03-25T10:00:00+01:00
 description: "Honest comparison of SafetyWing and Cigna Global for expats in the Netherlands. Coverage, costs, claims process, and which one fits your situation in 2026."

@@ -1,6 +1,6 @@
 ---
 title: "Net Salary Calculator Netherlands 2026"
-description: "Calculate your net salary in the Netherlands for 2026. Free calculator with gross-to-net breakdown, 30% ruling impact, and highly skilled migrant (HSM) threshold check."
+description: "Calculate your net salary in the Netherlands for 2026. Gross-to-net breakdown, 30% ruling impact, and highly skilled migrant threshold check. Free tool."
 type: "tools"
 layout: "single"
 ---

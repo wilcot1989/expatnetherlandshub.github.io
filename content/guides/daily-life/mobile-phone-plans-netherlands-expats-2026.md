@@ -6,7 +6,7 @@ lastmod: 2026-04-26T10:00:00+01:00
 draft: false
 type: "guide"
 categories: ["daily-life"]
-description: "Compare mobile phone plans in the Netherlands for expats in 2026. KPN, T-Mobile, Odido, Vodafone, Lebara, Simyo, Ben and Youfone reviewed honestly — with prices, coverage, and Sarah's personal pick for each situation."
+description: "Compare mobile phone plans in the Netherlands for expats 2026. KPN, T-Mobile, Lebara, Simyo reviewed — prices, coverage, and best pick per situation."
 featured_image: "/images/categories/daily-life.svg"
 affiliate: true
 author: "Sarah van den Berg"

@@ -2,7 +2,7 @@
 title: "Dutch Box 3 Wealth Tax Explained for Expats 2026"
 date: 2026-03-18T10:00:00+01:00
 lastmod: 2026-03-18T10:00:00+01:00
-description: "Box 3 wealth tax explained clearly for expats in the Netherlands. What counts, what doesn't, how the 30% ruling exemption works, and legal strategies to reduce your bill."
+description: "Box 3 wealth tax for expats in the Netherlands. What counts, what doesn't, how the 30% ruling exemption works, and strategies to reduce your tax bill."
 categories: ["finance"]
 tags: ["box 3 tax", "wealth tax netherlands", "dutch taxes expat", "30% ruling box 3", "belastingdienst", "savings tax netherlands", "investing netherlands expat"]
 keywords: ["box 3 tax netherlands expats", "dutch wealth tax 2026", "box 3 savings tax explained", "30% ruling box 3 exemption", "how to reduce box 3 tax", "dutch tax system expats"]

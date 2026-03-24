@@ -1,5 +1,5 @@
 ---
-title: "Inburgering Exam Guide Netherlands 2026 — Find Your Integration Path"
+title: "Inburgering Exam Guide 2026 — Find Your Integration Path"
 description: "Find which inburgering (civic integration) route and exams you need in the Netherlands. Free guide with timelines, exam types, and costs for 2026."
 type: "tools"
 layout: "single"

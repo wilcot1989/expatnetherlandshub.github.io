@@ -1,6 +1,6 @@
 ---
 title: "Diploma Recognition Netherlands 2026"
-description: "Check if you need Nuffic credential evaluation for your diploma in the Netherlands. Free guide with required documents, processing times, and costs for 2026."
+description: "Check if you need Nuffic credential evaluation for your diploma in the Netherlands. Guide with required documents, processing times, and costs for 2026."
 type: "tools"
 layout: "single"
 ---

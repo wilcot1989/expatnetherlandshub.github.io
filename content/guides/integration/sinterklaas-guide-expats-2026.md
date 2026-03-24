@@ -2,7 +2,7 @@
 title: "Sinterklaas Guide for Expats in the Netherlands"
 date: 2026-05-13T10:00:00+01:00
 lastmod: 2026-05-13T10:00:00+01:00
-description: "Everything expats need to know about Sinterklaas: the arrival, schoen zetten, pakjesavond, gedichten, surprises, pepernoten, and how to participate in Dutch offices and schools."
+description: "Everything expats need to know about Sinterklaas: the arrival, schoen zetten, pakjesavond, gedichten, pepernoten, and how to participate at Dutch offices."
 categories: ["integration"]
 tags: ["Sinterklaas", "Dutch culture", "traditions", "holidays", "integration"]
 keywords: ["sinterklaas explained expats", "sinterklaas netherlands guide", "dutch christmas tradition", "sinterklaas vs santa claus"]

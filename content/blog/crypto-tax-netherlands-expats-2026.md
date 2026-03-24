@@ -247,7 +247,7 @@ Not every Dutch tax advisor knows crypto. Here are the types of specialists to l
 - The firms I have referenced in my [best tax advisors for expats guide](/guides/finance/best-tax-advisors-expats-netherlands-2026/)
 - Services like TaxSavers, Blue Umbrella, or ExpatTax, which all handle expat tax returns and increasingly handle crypto reporting
 
-For straightforward situations (holding BTC and ETH, total Box 3 wealth modestly above the threshold), the standard tax return services handle crypto adequately. For complex DeFi positions, large holdings, previous undeclared years, or professional trading, a specialist is worth the cost.
+For simple situations (holding BTC and ETH, total Box 3 wealth modestly above the threshold), the standard tax return services handle crypto adequately. For complex DeFi positions, large holdings, previous undeclared years, or professional trading, a specialist is worth the cost.
 
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "Dutch Nationality: How to Become a Dutch Citizen as an Expat (2026)"
+title: "Dutch Nationality: Become a Dutch Citizen as an Expat"
 slug: "dutch-nationality-guide-expats-2026"
 date: 2026-04-03T10:00:00+01:00
 lastmod: 2026-04-03

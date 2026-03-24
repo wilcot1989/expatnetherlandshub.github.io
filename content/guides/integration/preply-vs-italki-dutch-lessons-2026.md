@@ -1,5 +1,5 @@
 ---
-title: "Preply vs iTalki for Dutch Lessons: Which Platform Is Better in 2026?"
+title: "Preply vs iTalki for Dutch Lessons: Which Is Better? (2026)"
 date: 2026-03-30T10:00:00+01:00
 lastmod: 2026-03-30T10:00:00+01:00
 description: "Preply vs iTalki for learning Dutch as an expat. Pricing, tutor quality, lesson structure, and which platform suits your learning style."

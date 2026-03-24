@@ -1,5 +1,5 @@
 ---
-title: "Dutch Work Culture: 15 Things Every Expat Should Know in 2026"
+title: "Dutch Work Culture: 15 Things Every Expat Should Know"
 date: 2026-03-13T10:00:00+01:00
 lastmod: 2026-03-13T10:00:00+01:00
 description: "Guide to Dutch work culture for expats. Direct feedback, flat hierarchy, borrels, holiday allowance and unwritten office rules."

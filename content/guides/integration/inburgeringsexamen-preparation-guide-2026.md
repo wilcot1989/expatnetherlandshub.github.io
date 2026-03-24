@@ -1,5 +1,5 @@
 ---
-title: "Inburgeringsexamen 2026: Complete Preparation Guide for Expats"
+title: "Inburgeringsexamen 2026: Preparation Guide for Expats"
 date: 2026-03-02T11:00:00+01:00
 lastmod: 2026-03-02T11:00:00+01:00
 description: "Complete guide to the Dutch inburgeringsexamen. Exam components, study materials, costs, exemptions, and preparation tips for 2026."

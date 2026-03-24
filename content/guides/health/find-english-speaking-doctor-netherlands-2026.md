@@ -1,9 +1,9 @@
 ---
-title: "How to Find an English-Speaking Doctor in the Netherlands 2026"
+title: "Find an English-Speaking Doctor in the Netherlands (2026)"
 date: 2026-05-01T10:00:00+01:00
 lastmod: 2026-05-01T10:00:00+01:00
 type: "guide"
-description: "How to find and register with an English-speaking GP (huisarts) in the Netherlands. Practical guide with tips for Amsterdam, Rotterdam, The Hague, and other cities."
+description: "How to find and register with an English-speaking GP (huisarts) in the Netherlands. Tips for Amsterdam, Rotterdam, The Hague, and other Dutch cities."
 categories: ["health"]
 tags: ["doctor", "huisarts", "GP", "English-speaking", "healthcare Netherlands"]
 keywords: ["english speaking doctor netherlands", "find huisarts netherlands expat", "english GP amsterdam", "how to register huisarts netherlands"]

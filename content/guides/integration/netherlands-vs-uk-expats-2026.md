@@ -1,5 +1,5 @@
 ---
-title: "Netherlands vs UK for Expats 2026: Cost of Living, Tax & Quality of Life"
+title: "Netherlands vs UK for Expats: Cost of Living & Tax (2026)"
 date: 2026-05-02T10:00:00+01:00
 lastmod: 2026-05-02T10:00:00+01:00
 type: "guide"

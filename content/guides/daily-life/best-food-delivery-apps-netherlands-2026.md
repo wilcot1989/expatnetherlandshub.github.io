@@ -2,7 +2,7 @@
 title: "Best Food Delivery Apps Netherlands 2026"
 date: 2026-03-18T10:00:00+01:00
 lastmod: 2026-03-18T10:00:00+01:00
-description: "Complete guide to food and grocery delivery apps in the Netherlands 2026. Thuisbezorgd, Uber Eats, Flink, Picnic, and Crisp compared with prices, delivery areas, and expat tips."
+description: "Food and grocery delivery in the Netherlands 2026. Thuisbezorgd, Uber Eats, Flink, Picnic, and Crisp compared — prices, delivery areas, and expat tips."
 categories: ["daily-life"]
 tags: ["food delivery", "thuisbezorgd", "uber eats", "picnic", "flink", "grocery delivery", "netherlands"]
 keywords: ["food delivery netherlands", "thuisbezorgd review", "uber eats netherlands", "best delivery app netherlands", "grocery delivery amsterdam"]

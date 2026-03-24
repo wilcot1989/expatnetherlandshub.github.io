@@ -102,7 +102,7 @@ When you arrive in the Netherlands, your finances can get complicated fast. You 
 
 My personal setup: I have sub-accounts for rent, utilities, health insurance, annual expenses (divided by 12 and moved monthly), holiday savings, emergency buffer, and day-to-day spending. My main account balance is always the money I can actually spend that week. This alone has made me calmer about money than I was with ING.
 
-This system is not new — it is sometimes called the "envelope method" or "zero-based budgeting." Bunq just makes it effortless to execute inside your bank rather than alongside it.
+This system is not new — it is sometimes called the "envelope method" or "zero-based budgeting." Bunq just makes it simple to execute inside your bank rather than alongside it.
 
 ---
 

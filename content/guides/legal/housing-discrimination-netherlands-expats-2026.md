@@ -162,7 +162,7 @@ Some housing platforms do more to screen landlords and listings than others. Usi
 
 Kamernet verifies listings and has a reporting mechanism for discrimination. When you are looking for a room or apartment as an expat, starting on platforms that actively moderate listings is a better use of time than trawling unmoderated classified sites where discriminatory listings are more common.
 
-For a full comparison of housing platforms, see [HousingAnywhere vs Kamernet vs Funda — which is best for expats?](/guides/housing/housingAnywhere-vs-kamernet-vs-funda-2026/)
+For a full comparison of housing platforms, see [HousingAnywhere vs Kamernet vs Funda — which is best for expats?](/guides/housing/housinganywhere-vs-kamernet-vs-funda-2026/)
 
 ### Prepare a strong rental dossier
 

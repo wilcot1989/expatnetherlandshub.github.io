@@ -157,7 +157,7 @@ Submit your application to the IND, either through the online portal or at an IN
 - Passport photos
 - Application fee: €345
 
-The IND has 90 days to decide on residence permit applications. Processing is typically faster — four to eight weeks for straightforward startup visa cases with clean documentation.
+The IND has 90 days to decide on residence permit applications. Processing is typically faster — four to eight weeks for simple startup visa cases with clean documentation.
 
 ### Step 5: Arrive, Register, Set Up
 

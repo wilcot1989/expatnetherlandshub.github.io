@@ -389,7 +389,7 @@ Priya eventually sorted out her Belastingdienst situation, opened a bunq Busines
 
 The Dutch freelance system is genuinely workable for expats. The tax administration is reasonably well-organised, the KvK registration is not the bureaucratic nightmare people fear, and the banking options — especially the fintech ones — have improved enormously in the past few years.
 
-Getting your business banking right from the start is one of the highest-leverage things you can do as a new ZZP freelancer. It keeps the Belastingdienst happy, makes your quarterly BTW returns much less painful, and means you always know exactly where you stand financially.
+Getting your business banking right from the start is one of the highest-impact things you can do as a new ZZP freelancer. It keeps the Belastingdienst happy, makes your quarterly BTW returns much less painful, and means you always know exactly where you stand financially.
 
 If you're just starting out: open a Wise Business account this week. If you're more established and want a fully Dutch setup: bunq Business is excellent. And if you're doing significant business with UK or US clients, consider both.
 

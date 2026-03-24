@@ -1,5 +1,5 @@
 ---
-title: "ONVZ vs Aetna International: Health Insurance for Expats in the Netherlands (2026)"
+title: "ONVZ vs Aetna International: Expat Health Insurance (2026)"
 date: 2026-03-20T10:00:00+01:00
 lastmod: 2026-03-20T10:00:00+01:00
 description: "ONVZ vs Aetna International health insurance compared for expats in the Netherlands. Premiums, coverage, and which to choose in 2026."
@@ -144,7 +144,7 @@ Aetna also offers a deductible structure: choosing a higher annual deductible (e
 
 In the Dutch system, your huisarts (GP) is your gatekeeper. You register with a local practice, and virtually all specialist care requires a referral from your GP first. This is true whether you have a Dutch basisverzekering, an ONVZ plan, or an Aetna International plan — the GP referral requirement is a feature of Dutch healthcare organisation, not a policy choice by the insurer.
 
-**ONVZ:** Because they are deeply integrated into the Dutch system, ONVZ works seamlessly with Dutch GP practices. Direct billing, no paperwork on routine visits, and ONVZ's contracted network includes virtually all registered Dutch huisartsen.
+**ONVZ:** Because they are deeply integrated into the Dutch system, ONVZ works smoothly with Dutch GP practices. Direct billing, no paperwork on routine visits, and ONVZ's contracted network includes virtually all registered Dutch huisartsen.
 
 **Aetna International:** Aetna's global model is built around direct specialist access in many countries. In the Netherlands, however, you will still typically need to register with a huisarts and get a referral before seeing a specialist — Aetna's plan documents may say direct access is permitted, but in practice Dutch clinics will ask for one. Aetna's Dutch provider relationships are good for hospital and specialist care, but the GP layer is the same for everyone.
 
@@ -262,7 +262,7 @@ If you are comparing Dutch domestic insurers like Zilveren Kruis and CZ alongsid
 - Strong integration with Dutch healthcare providers — the best of any international plan for Netherlands-based expats
 - Dutch-law regulated, with NZa oversight and Dutch consumer protections
 - Competitive premiums relative to global iPMI plans at equivalent coverage levels
-- Works seamlessly within Dutch GP referral system
+- Works smoothly within Dutch GP referral system
 - Good supplementary plan options (dental, physio, alternative medicine) that layer well with Dutch care
 - High coverage ceilings at premium tiers
 

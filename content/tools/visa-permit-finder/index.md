@@ -1,6 +1,6 @@
 ---
 title: "Visa Check Netherlands 2026"
-description: "Check which Dutch visa or residence permit you need in 2026. Free tool — answer 5 questions about your nationality and situation for an instant recommendation."
+description: "Which Dutch visa or residence permit do you need in 2026? Free tool — answer 5 questions about your nationality for an instant recommendation."
 type: "tools"
 layout: "single"
 ---

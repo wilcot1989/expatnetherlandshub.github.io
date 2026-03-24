@@ -1,5 +1,5 @@
 ---
-title: "Expat Guides Netherlands 2026 — Practical Advice for Your Move"
+title: "Expat Guides Netherlands 2026 — Practical Advice for Movers"
 description: "Practical guides for expats moving to the Netherlands. Covering taxes, housing, health insurance, visas, integration, and daily life. Updated 2026."
 date: 2026-03-06T10:00:00+01:00
 ---

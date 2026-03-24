@@ -201,7 +201,7 @@ With landlord permission, medium-term subletting is legally clean and commonly d
 
 ### Short-Stay Rental (Under 6 Months)
 
-For expats needing housing for a few months while searching for permanent accommodation, the legitimate route is furnished short-stay apartments — not subletting. Platforms for this include HousingAnywhere and Kamernet, which list furnished rooms and apartments with short-term availability from verified landlords. The [HousingAnywhere vs Kamernet vs Funda comparison](/guides/housing/housingAnywhere-vs-kamernet-vs-funda-2026/) helps you choose the right platform.
+For expats needing housing for a few months while searching for permanent accommodation, the legitimate route is furnished short-stay apartments — not subletting. Platforms for this include HousingAnywhere and Kamernet, which list furnished rooms and apartments with short-term availability from verified landlords. The [HousingAnywhere vs Kamernet vs Funda comparison](/guides/housing/housinganywhere-vs-kamernet-vs-funda-2026/) helps you choose the right platform.
 
 ---
 

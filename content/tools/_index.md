@@ -1,6 +1,6 @@
 ---
 title: "Free Expat Tools Netherlands 2026"
-description: "11 free interactive tools for expats in the Netherlands: salary calculator, health insurance comparison, visa check, rent affordability calculator, and more."
+description: "11 free tools for expats in the Netherlands: salary calculator, health insurance comparison, visa check, rent affordability calculator, and more."
 type: "tools"
 layout: "list"
 ---
@@ -300,7 +300,7 @@ margin-bottom: 1rem;
 <p>We update the underlying data (tax brackets, IND thresholds, insurance rates) at the start of each year when official Dutch figures are published. The current data reflects the 2026 tax year. If you notice any discrepancy with official sources, please <a href="/about/">let us know</a>.</p>
 
 <h2>Recommended Next Steps</h2>
-<p>After using the tools, dive deeper with our comprehensive guides:</p>
+<p>After using the tools, dive deeper with our detailed guides:</p>
 <ul>
 <li><a href="/guides/finance/30-percent-ruling-netherlands-2026/">Complete 30% Ruling Guide</a> &mdash; eligibility, application process, and common pitfalls</li>
 <li><a href="/guides/legal/highly-skilled-migrant-visa-netherlands-2026/">HSM Visa Guide</a> &mdash; step-by-step application walkthrough</li>

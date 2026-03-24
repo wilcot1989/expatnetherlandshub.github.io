@@ -166,7 +166,7 @@ For expats planning to stay more than 3-5 years, buying begins to compete with r
 
 For expats planning to stay more than 3-5 years, buying begins to compete with renting economically — particularly given that rents in the free sector are high and buying provides certainty of housing costs through mortgage payments.
 
-The [buying vs renting in the Netherlands guide](/guides/housing/buying-vs-renting-netherlands-expats-2026/) covers this comparison in detail. The short version: buying makes more financial sense the longer you plan to stay, but requires a stable income, a minimum 10% deposit plus costs, and the ability to get a Dutch mortgage. The [HousingAnywhere vs Kamernet vs Funda comparison](/guides/housing/housingAnywhere-vs-kamernet-vs-funda-2026/) covers the main platforms for both buying and renting.
+The [buying vs renting in the Netherlands guide](/guides/housing/buying-vs-renting-netherlands-expats-2026/) covers this comparison in detail. The short version: buying makes more financial sense the longer you plan to stay, but requires a stable income, a minimum 10% deposit plus costs, and the ability to get a Dutch mortgage. The [HousingAnywhere vs Kamernet vs Funda comparison](/guides/housing/housinganywhere-vs-kamernet-vs-funda-2026/) covers the main platforms for both buying and renting.
 
 ## Practical Strategies That Actually Work
 

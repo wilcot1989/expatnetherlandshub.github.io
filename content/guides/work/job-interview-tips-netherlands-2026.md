@@ -1,5 +1,5 @@
 ---
-title: "Job Interviews in the Netherlands: What Every Expat Needs to Know in 2026"
+title: "Job Interviews in the Netherlands: Expat Guide 2026"
 date: 2026-03-19T10:00:00+01:00
 lastmod: 2026-03-19T10:00:00+01:00
 description: "Job interview guide for expats in the Netherlands. Dutch interview culture, common questions and salary negotiation."

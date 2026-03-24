@@ -1,5 +1,5 @@
 ---
-title: "Dutch Mortgage Explained: The Complete Guide for Expats in 2026"
+title: "Dutch Mortgage Explained: Complete Guide for Expats (2026)"
 date: 2026-03-21T10:00:00+01:00
 lastmod: 2026-03-21T10:00:00+01:00
 description: "How to get a Dutch mortgage as an expat in 2026. Mortgage types, maximum borrowing, NHG, 30% ruling impact, and buying process explained."

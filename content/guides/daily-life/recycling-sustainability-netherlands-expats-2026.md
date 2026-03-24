@@ -107,7 +107,7 @@ Some Dutch beer brands (Heineken, Grolsch, Amstel) use returnable glass bottles 
 
 ## Paper and Cardboard (Papier/Karton)
 
-Paper and cardboard collection is straightforward:
+Paper and cardboard collection is simple:
 
 ### What Goes In
 

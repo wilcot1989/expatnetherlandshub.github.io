@@ -255,7 +255,7 @@ International student housing provided directly by universities is typically res
 
 <a href="https://ds1.nl/c/?si=447&li=26287&wi=418902&ws=&dl=" rel="noopener nofollow sponsored" class="cta-affiliate">Kamernet</a> is the largest Dutch rental platform for private rooms and student accommodation. It lists thousands of shared houses, student apartments, and private studios across all Dutch student cities. Landlords post directly and students apply. The platform has a verification system to reduce scams (a persistent problem in this market — read the [rental scams guide](/guides/housing/rental-scams-netherlands-expats-2026/) before you start your search).
 
-For fully furnished short-term stays while you search for a permanent room, HousingAnywhere is popular with international students and allows landlords to advertise in English. Read the [HousingAnywhere vs Kamernet vs Funda comparison](/guides/housing/housingAnywhere-vs-kamernet-vs-funda-2026/) for a direct platform breakdown.
+For fully furnished short-term stays while you search for a permanent room, HousingAnywhere is popular with international students and allows landlords to advertise in English. Read the [HousingAnywhere vs Kamernet vs Funda comparison](/guides/housing/housinganywhere-vs-kamernet-vs-funda-2026/) for a direct platform breakdown.
 
 **Practical housing strategy:**
 

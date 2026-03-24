@@ -39,7 +39,7 @@ When people say "the Netherlands," they typically mean the western urban core: A
 
 Belgium is linguistically divided into three regions: Flanders (Dutch/Flemish-speaking, north), Wallonia (French-speaking, south), and Brussels (officially bilingual French-Dutch, but predominantly French in practice). This matters a great deal for daily life and even for bureaucratic procedures.
 
-The Netherlands has its own regional differences — Randstad versus the provinces, for example — but the linguistic and administrative uniformity makes it far simpler to navigate as an outsider.
+The Netherlands has its own regional differences — Randstad versus the provinces, for example — but the linguistic and administrative uniformity makes it far simpler to manage as an outsider.
 
 ---
 
@@ -113,7 +113,7 @@ Belgium's healthcare operates through a social insurance model (RIZIV/INAMI). As
 
 Belgium also has a system of "maximum billing" (maximumfactuur) that caps annual out-of-pocket healthcare spending based on household income.
 
-**Verdict:** Both systems deliver high-quality care. Dutch healthcare involves more upfront cost (premiums + own risk) but more predictable out-of-pocket spending. Belgian healthcare has lower per-visit costs but is more complex to navigate across the reimbursement system. For expats in good health, the Dutch system is often simpler to understand.
+**Verdict:** Both systems deliver high-quality care. Dutch healthcare involves more upfront cost (premiums + own risk) but more predictable out-of-pocket spending. Belgian healthcare has lower per-visit costs but is more complex to deal with across the reimbursement system. For expats in good health, the Dutch system is often simpler to understand.
 
 ---
 
@@ -141,7 +141,7 @@ Brussels, as EU headquarters, has a particular kind of international work cultur
 
 ### Netherlands: English Works, Dutch Helps
 
-The Netherlands has the world's highest English proficiency among non-native speakers (EF EPI ranking). You can live, work, and navigate bureaucracy in English. That said, speaking Dutch opens doors — socially, professionally, and in terms of belonging. The Dutch appreciate the effort even if they immediately switch to English with you.
+The Netherlands has the world's highest English proficiency among non-native speakers (EF EPI ranking). You can live, work, and handle bureaucracy in English. That said, speaking Dutch opens doors — socially, professionally, and in terms of belonging. The Dutch appreciate the effort even if they immediately switch to English with you.
 
 For integration and making Dutch friends, learning Dutch is very helpful. The language itself is not especially difficult for English speakers — it is the closest major language to English in the Germanic family.
 

@@ -1,9 +1,9 @@
 ---
-title: "Moving to the Netherlands with Pets: Complete Expat Guide 2026"
+title: "Moving to the Netherlands with Pets: Expat Guide 2026"
 date: 2026-05-03T10:00:00+01:00
 lastmod: 2026-05-03T10:00:00+01:00
 type: "guide"
-description: "How to bring your dog, cat, or other pet to the Netherlands. EU pet passport, microchipping, rabies vaccination, airline rules, and vet registration in 2026."
+description: "How to bring your dog, cat, or other pet to the Netherlands. EU pet passport, microchipping, rabies vaccination, airline rules, and vet registration 2026."
 categories: ["daily-life"]
 tags: ["pets", "pet relocation", "moving with pets", "dog Netherlands", "cat Netherlands"]
 keywords: ["pet relocation netherlands", "moving to netherlands with dog", "bring pet to netherlands", "EU pet passport", "vet registration netherlands"]

@@ -1,5 +1,5 @@
 ---
-title: "Exchange Your Driving Licence in the Netherlands: Complete Guide for Expats (2026)"
+title: "Exchange Your Driving Licence in the Netherlands (2026)"
 slug: "exchange-driving-license-netherlands-2026"
 date: 2026-04-09T10:00:00+01:00
 lastmod: 2026-04-09T10:00:00+01:00

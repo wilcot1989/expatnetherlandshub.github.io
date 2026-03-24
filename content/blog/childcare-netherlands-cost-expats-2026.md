@@ -25,7 +25,7 @@ faq:
     a: "A KDV (kinderdagverblijf, daycare centre) cares for children aged 0-4, typically during full working days. A BSO (buitenschoolse opvang, after-school care) is for school-age children aged 4-12, providing care before school, after school, and during school holidays. Both are covered by kinderopvangtoeslag. Some organisations offer both types in the same building, which is practical if you have children of different ages."
 ---
 
-Childcare in the Netherlands was one of the biggest planning challenges I faced when my daughter was born here. The waitlists are long, the costs are high on paper, and the subsidy system looks confusing at first glance. But once you understand how it all fits together — and crucially, once you are receiving the kinderopvangtoeslag — it becomes far more manageable.
+Childcare in the Netherlands was one of the biggest planning challenges I faced when my daughter was born here. The waitlists are long, the costs are high on paper, and the subsidy system looks confusing at first glance. But once you understand how it all fits together — and importantly, once you are receiving the kinderopvangtoeslag — it becomes far more manageable.
 
 This guide covers everything expat parents need to know: the types of care available, what things actually cost in 2026, how the subsidy system works, and the practical steps to finding a place.
 

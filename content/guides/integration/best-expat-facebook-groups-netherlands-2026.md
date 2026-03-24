@@ -9,7 +9,7 @@ author: "Sarah van den Berg"
 author_bio: "Expat coach and relocation specialist. Half Dutch, half British, living in the Netherlands for over 10 years."
 featured_image: "/images/categories/integration.svg"
 affiliate: false
-description: "The best expat Facebook groups and online communities in the Netherlands — from housing and jobs to city-specific groups and nationality networks. What's actually worth joining."
+description: "The best expat Facebook groups in the Netherlands — housing, jobs, city-specific groups and nationality networks. What's actually worth joining."
 tags: ["community", "Facebook groups", "expat network", "social", "making friends"]
 keywords: ["expat facebook groups netherlands", "expat community netherlands", "best expat groups amsterdam", "international community netherlands"]
 faq:

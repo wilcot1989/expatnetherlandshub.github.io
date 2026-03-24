@@ -167,7 +167,7 @@ This is where DSW falls short compared to some competitors. DSW does not offer:
 What DSW does offer:
 - Website content that is fairly navigable with a browser translation plugin
 - Customer service representatives who often speak basic English
-- A straightforward online portal at My DSW (mijn.dsw.nl)
+- A clear online portal at My DSW (mijn.dsw.nl)
 - A mobile app with key functions (viewing claims, submitting receipts, checking coverage)
 
 Practically speaking, if you have a simple query — checking your coverage balance or submitting a small claim — you can manage with a translation tool. For complex issues like disputing a reimbursement or arranging long-term care, you will likely need help from a Dutch-speaking colleague, partner, or healthcare advisor.
@@ -199,7 +199,7 @@ DSW consistently performs well in Dutch customer satisfaction surveys:
 
 - **Zorgwijzer.nl 2026 ranking**: 7.8/10 overall customer satisfaction
 - **Price/quality ratio**: Frequently ranked in the top tier
-- **Claims handling**: Generally positive, with most straightforward claims processed within 5 working days
+- **Claims handling**: Generally positive, with most simple claims processed within 5 working days
 - **Waiting times for customer service**: Average; can be long during December (open enrollment season)
 
 The main complaints from customers relate to:
@@ -237,7 +237,7 @@ DSW is less suitable for expats who:
 - Live in Amsterdam, Utrecht, Groningen, or areas far from Rotterdam
 - Need regular specialist care at a specific hospital that may not be contracted
 - Want English-language support as a priority
-- Are navigating complex healthcare situations and need straightforward communication with their insurer
+- Are navigating complex healthcare situations and need clear communication with their insurer
 
 ---
 
