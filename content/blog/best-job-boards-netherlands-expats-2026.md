@@ -254,6 +254,76 @@ The most effective approach in the Dutch market:
 
 **Quality over volume:** The Dutch market rewards targeted, tailored applications over high-volume spray-and-pray approaches. 10 tailored applications per week will outperform 50 generic ones.
 
+## Understanding Dutch Salary Benchmarks
+
+Before you start applying, get a clear sense of what comparable roles pay in the Netherlands. Dutch salary levels differ from the UK, US, and most other markets in ways that are not always intuitive.
+
+A software engineer mid-level role in Amsterdam: €55,000–€85,000 gross.
+A finance analyst in Rotterdam: €45,000–€65,000 gross.
+A marketing manager in Utrecht: €48,000–€72,000 gross.
+A data scientist in Eindhoven or Amsterdam: €60,000–€95,000 gross.
+
+The 30% ruling for qualifying expats (non-residents hired from outside the Netherlands) can make a significant difference. If you qualify, 30% of your gross salary is paid tax-free for up to five years, effectively boosting your net take-home by around 10–15%. This is worth understanding before you negotiate, since it makes a €65,000 Dutch salary considerably more competitive than the headline number suggests.
+
+Check Glassdoor, LinkedIn salary insights, and sector-specific salary surveys (many Dutch employers participate in these). Recruiters at The Undutchables or Hays will also give you honest benchmarks for your role level.
+
+## The Dutch CV Format
+
+If you have been applying with a CV formatted for the UK or US market, it may be creating friction.
+
+Dutch CVs (curriculum vitae or sollicitatiebrief in Dutch contexts) tend to:
+
+- **Include a photo.** Unlike the UK and US where photos are discouraged, Dutch CVs typically include a professional photo. Skipping it is increasingly accepted at international companies, but at Dutch SMEs it still matters.
+- **Be 1–2 pages maximum.** Dutch hiring managers read quickly. A two-page maximum is strict.
+- **Lead with personal details including nationality and work authorisation status.** For expats this is particularly important — confirm your right to work in the Netherlands clearly, ideally in the first section.
+- **Include a short personal profile.** Three to four sentences summarising who you are and what you bring. This is more common in the Netherlands than in many Anglophone markets.
+- **List education at the top if you are a recent graduate.** If you have 10+ years of experience, work experience leads.
+
+For non-EU expats, explicitly stating your current permit type and validity is helpful. Dutch recruiters deal with many international candidates and appreciate not having to guess.
+
+## The Cover Letter Question
+
+In the Netherlands, a cover letter (motivatiebrief) is generally expected if the job posting asks for one. Unlike the UK and US, where many employers have moved away from cover letters, Dutch companies — particularly SMEs and Dutch-culture organisations — still read them.
+
+What works in a Dutch motivatiebrief:
+- Direct statement of why this specific company and this specific role
+- Concrete evidence of past achievement, not generic character claims
+- Honest acknowledgement of what you are still learning (Dutch culture rewards self-awareness)
+- Concise: one page maximum, ideally 300–450 words
+
+What does not work:
+- Generic templates clearly not written for the specific company
+- Overselling or superlative language ("I am extremely passionate about...")
+- Extended personal history unrelated to the role
+
+Dutch hiring managers respond better to "I would bring X specific skill to Y specific challenge your team faces" than to motivational language. Be direct. Be specific. Be honest about your limitations too — the Dutch culture of openness extends to job applications.
+
+## Networking in the Dutch Context
+
+The Dutch job market relies heavily on networks — estimates suggest 60–70% of positions are filled before or without public advertising. Building a Dutch professional network is not optional for a serious job search; it is the primary channel.
+
+**LinkedIn is the network.** In the Netherlands, LinkedIn has a higher penetration rate among professionals than almost anywhere else in Europe. People respond to well-crafted connection requests. A personalised note when connecting increases acceptance rates significantly.
+
+**Internations.org** has active groups in Amsterdam, Rotterdam, The Hague, Eindhoven, and Utrecht. Events are regular and the professional expat community is well represented.
+
+**Industry-specific events.** Dutch professional associations (for technology, finance, logistics, HR, marketing, etc.) hold regular events. These are often where senior Dutch professionals connect. Most industry associations have English-speaking events or at minimum English-comfortable attendance.
+
+**Your employer's alumni network.** If you worked for a well-known company before moving to the Netherlands, its alumni are likely here. KPMG, Accenture, McKinsey, Google, Amazon, Shell, and many others have Dutch alumni groups that can open doors.
+
+**The expat professional community.** Other expats who arrived before you and are now established often actively help newcomers. This is not competition; it is a genuine network effect. Many expats I know found their second Dutch job through someone they met at an expat networking event.
+
+## The Kennismigrant Route and Its Implications for Job Searching
+
+For non-EU expats already in the Netherlands, job searching while on a kennismigrant (highly skilled migrant) permit tied to your current employer involves specific considerations.
+
+Your permit is linked to your sponsor employer. If you change jobs, your new employer must apply for a new permit. This usually takes two to four weeks once the employer submits the application. Most experienced HR departments at companies that hire international staff know this process.
+
+You can search for jobs while employed without issue. You should not resign before you have a confirmed offer and confirmed permit transfer in process from your new employer.
+
+The salary threshold for kennismigrant renewal in 2026 is approximately €5,688/month gross for workers over 30 and €4,840 for those under 30. Ensure any new role meets this threshold, or your permit transfer may not be approved.
+
+If you are between jobs and your permit has expired or your employer has terminated your contract, you have a three-month orientation period to find a new qualifying employer. This period is critical — register with IND if you have not already and do not let this window expire.
+
 ---
 
 ## Managing Your Money During a Job Search

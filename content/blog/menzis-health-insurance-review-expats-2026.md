@@ -237,6 +237,38 @@ For treatments where you pay upfront (common for non-contracted providers, some 
 
 ---
 
+## Real-World Experience: What Expats Say About Menzis
+
+I have spoken to a number of expats who have used or currently use Menzis. The feedback clusters around a few consistent themes.
+
+**What they appreciate:**
+- "The premium genuinely is lower — I checked three times because I thought I was missing something. It wasn't a catch."
+- "The Menzis app works fine for the basics. Checking my eigen risico, submitting a receipt — all straightforward."
+- "When I moved from Groningen to Utrecht, my care network was still intact. No issues at all."
+
+**What they find challenging:**
+- "The formal letters are all in Dutch. Not complex Dutch, but still Dutch. I use Google Translate and it works, but it's an extra step."
+- "I had to call them once about a specific coverage question. The hold time was long and the English on the phone was basic but functional. It got resolved."
+- "I wish they had a proper English section of the website. It would make the first signup much less stressful."
+
+These are representative, not exceptional. Menzis works well for day-to-day needs and the gaps are manageable for most expats.
+
+## Menzis for Families
+
+Families with children get full coverage for children under 18 at no additional basic premium — the same as all Dutch insurers. But a few Menzis-specific points are worth noting.
+
+**Kraamzorg in northern Netherlands.** Menzis has contracted agreements with kraamzorg (postnatal home care) providers across the Netherlands, with particularly strong coverage in their home regions of Groningen, Drenthe, and Overijssel. If you are based in the north and planning a family, the quality and availability of contracted postnatal care is genuinely better than average.
+
+**Children's dental.** Children under 18 have dental covered under the basic package — no supplementary insurance needed. Supplementary dental coverage at Menzis becomes relevant once your children reach adulthood. For families with young children, the absence of supplementary dental need for the children reduces the overall family insurance cost.
+
+**Paediatric specialists.** Menzis's contracted paediatric specialist network is strong in university hospital cities including Groningen (UMCG), Nijmegen (Radboudumc), and Enschede. For families in these areas, the contracted specialist access is meaningful.
+
+## Menzis and the Inburgering Exam
+
+For expats who are required to complete the Dutch civic integration exam (inburgeringsexamen), health insurance is a necessary background condition. You cannot receive the civic integration contribution from your municipality without being properly registered, and proper registration includes health insurance.
+
+Menzis, like all Dutch insurers, does not have a specific inburgering programme. But their regional ties in northern and eastern Netherlands — where many integration courses are run through municipal partners — means their customer service in these regions is slightly more attuned to new arrivals. This is a soft benefit, not a structural one.
+
 ## My Verdict
 
 Menzis is a genuinely solid choice for expats who prioritise value and are comfortable using a Dutch-first digital service with translation tools. Their premiums are among the lowest in the market, their coverage is equivalent to any other insurer at the basic level, and their supplementary packages are well-priced.

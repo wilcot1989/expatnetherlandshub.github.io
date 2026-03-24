@@ -208,6 +208,53 @@ Major international banks (HSBC, Barclays) have Nigerian operations. Local banks
 | Social culture | Reserved, consensus-driven | Warm, high-energy |
 | Internet reliability | Excellent | Improving |
 
+## Money Transfers: EUR to NGN
+
+If you have family in Nigeria, you'll be sending money home on a regular basis. Getting this wrong costs real money.
+
+The EUR–NGN exchange rate is volatile. The naira has depreciated significantly in recent years due to FX policy changes in Nigeria, and the spread between official and parallel rates has narrowed since 2023 but can still fluctuate.
+
+**Transfer options compared:**
+
+| Service | Speed | Fee (€500 transfer) | Rate quality |
+|---------|-------|---------------------|--------------|
+| Wise | 1 business day | ~€4–€8 | Mid-market, transparent |
+| Western Union | Minutes | €5–€15 | Marked up |
+| Bank transfer | 3–5 days | €15–€30 | Poor rate |
+| Remitly | 1 business day | ~€3–€6 | Competitive |
+
+I use [Wise](https://wise.com/invite/ihpc/willemt52) for transfers home. The key advantage is that the rate you see is the mid-market rate — the one you'd find on Google — with a small, disclosed percentage fee added. Banks typically hide their margin in the exchange rate, so you only notice how much you've lost after the transfer completes.
+
+One practical note: Wise sends to Nigerian GTBank, Zenith, First Bank, and most major local accounts. If your recipient uses a smaller cooperative or community bank, verify compatibility before your first transfer.
+
+<a href="https://wise.com/invite/ihpc/willemt52" rel="noopener nofollow sponsored" class="cta-affiliate">Compare rates before your next transfer — Wise EUR to NGN</a>
+
+## Cultural Adjustment: Nigeria to the Netherlands
+
+Every Nigerian expat I've spoken to mentions the same initial adjustment points. Understanding them in advance reduces the shock.
+
+**The cold is not just weather — it's a mood.** Lagos has around 2,600 sunshine hours per year. The Netherlands has around 1,650. From November to February, you can go entire weeks without seeing direct sun. This affects energy, mood, and motivation in ways that are hard to predict until you're in it. Vitamin D supplements are widely taken here for a reason. Light therapy lamps help. Planning a winter trip back home — or somewhere warm — makes a real difference.
+
+**Dutch directness is not rudeness.** In Nigerian social contexts, a degree of social diplomacy is the norm. You express disagreement carefully, compliments are generous, and maintaining harmonious relations is valued. In the Netherlands, your colleague will tell you your idea is wrong — directly, without softening it — and then have lunch with you as if nothing happened. This is not hostility. It is how the Dutch communicate. Once you internalise this, professional life becomes much easier.
+
+**Silence in social settings is acceptable.** In Lagos social culture, silence in a group can feel uncomfortable — the expectation is that someone fills it. Dutch social settings, particularly in smaller groups or with new acquaintances, often include stretches of silence that nobody tries to fill. Don't interpret this as rejection.
+
+**Food requires active searching.** The Netherlands has a growing African food scene, particularly in Amsterdam, Rotterdam, and The Hague — Surinamese shops often carry African staples, and Nigerian-run grocery stores exist in several cities. But you won't find eba, egusi, or stockfish at the Albert Heijn. Budget time for specialist shopping trips, or connect with your local Nigerian community, who will know where to find everything.
+
+**The bureaucracy is predictable but slow.** Nigerian bureaucracy is often faster in practice, sometimes informal, and relationship-dependent. Dutch bureaucracy is slow, formal, and written-rule dependent. Things happen in order. Documents must be correct. Everything gets a letter. Once you accept this and build your admin file properly, it stops being surprising.
+
+## Cultural Adjustment: Netherlands to Nigeria
+
+Dutch expats moving to Nigeria for the first time encounter different friction points.
+
+**Hierarchy is real and matters.** Dutch workplaces are famously flat. Nigerian organisations — particularly in government, banking, and traditional industries — have clear hierarchical structures. Senior people expect deference. Decisions flow downward. Coming in with a Dutch "let's challenge the process" mindset can create friction. Observe first.
+
+**Infrastructure requires patience.** Power cuts, traffic jams that can last hours, variable internet connectivity, and roads that demand a different driving style are part of Lagos life. Expats who fight against this mentally find it exhausting. Those who accept it as the operating environment — and plan around it with generators, early starts, and contingency time — manage much better.
+
+**Lagos is enormous.** The population is estimated at 15–20 million people. Travel times across the city can be two or three hours in each direction. Where you live in Lagos shapes your entire life — proximity to your workplace, international schools, your social network, and the airport matters enormously. The expat clusters of Victoria Island, Ikoyi, and Lekki exist for practical reasons.
+
+**Social life is vibrant.** Lagos has an excellent restaurant scene, active nightlife, a growing arts community, and genuine warmth from Nigerians toward visitors who engage respectfully. Expats who engage with local culture — attend suya joints rather than only the expat rooftops, learn a few Yoruba phrases, attend local events — consistently report richer experiences than those who cocoon entirely within expat infrastructure.
+
 ## Who Moves Where
 
 **Nigerian professionals move to the Netherlands** for career opportunities, education, quality of life, and access to the EU. The Netherlands is one of Europe's most expat-friendly countries and a reasonable first destination in Europe.

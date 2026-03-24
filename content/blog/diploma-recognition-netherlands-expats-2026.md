@@ -163,6 +163,30 @@ For roles requiring regular Dutch communication — client-facing, managerial, o
 
 For more on working in the Netherlands as an expat, see our [work category articles](/categories/work/).
 
+## Real Situations Expats Face
+
+Let me walk through some common scenarios I hear from expats, and how recognition actually works in each.
+
+**"I'm a software engineer from India with a BTech degree."** You almost certainly do not need formal IDW recognition to find work. Dutch tech employers are very familiar with Indian engineering degrees. Your CV and portfolio matter far more. If an employer asks for clarification, an IDW statement can provide it, but most will not. Where you might use IDW is if you later apply for Dutch citizenship or want to enrol in a Master's programme.
+
+**"I'm a nurse from the Philippines and want to work in Dutch healthcare."** This is a regulated profession. You need BIG registration via CIBG. The process will likely take 6–12 months. You'll need to demonstrate Dutch language ability (typically B2 level), have your qualifications assessed against Dutch standards, and possibly complete a competence test or adaptation period. Start this process as early as possible, ideally from your home country before you move.
+
+**"I'm a lawyer from the US and want to practise in the Netherlands."** This is complex. You cannot simply transfer your US bar admission. Your options are limited to either: working in an international law firm context where Dutch bar admission is not required (advising on US/international law), or undertaking the full Dutch legal qualification process. Most US lawyers in the Netherlands work in the former category.
+
+**"I'm a teacher from the UK and want to work in a Dutch state school."** UK teaching qualifications are assessed by DUO. Recognition under the EU mutual recognition framework was in place pre-Brexit, but post-Brexit this requires individual assessment. The process involves submitting your QTS and academic transcripts for evaluation. Processing can take several months. International schools (ISN, BSN, American School) have their own hiring processes that may not require DUO recognition.
+
+**"I have a Master's degree from Brazil and I'm looking for corporate jobs."** The IDW statement is genuinely useful here. Dutch HR departments are less familiar with Brazilian university names and grading systems. An IDW statement that says "equivalent to a Dutch WO Master's degree" removes ambiguity from your CV and speeds up applications. The €100–€150 and 4–6 weeks is worth it.
+
+## Common Mistakes to Avoid
+
+**Waiting until you're already in a job process.** The IDW takes 4–6 weeks. If you're already in interview stages, you don't have time. Get it done early.
+
+**Not getting an apostille before leaving your home country.** Obtaining an apostille on a foreign document from outside the country is much harder — sometimes impossible. If you have any reason to believe you'll need your documents verified for Dutch purposes, get apostilles done before you leave.
+
+**Forgetting to translate your transcripts.** Your diploma certificate might be in English (many international universities issue English diplomas), but your transcripts with detailed course listings may only be in the local language. These also need translation.
+
+**Assuming EU qualification recognition is automatic.** It's easier for EU citizens, but not fully automatic. Some regulated professions still require active applications and processing time even for EU degrees. Don't assume your EU qualification is immediately valid — verify with the relevant Dutch authority.
+
 ## Getting Help
 
 **Nuffic.nl** — the primary resource for IDW statements and general guidance on foreign qualifications in the Netherlands.

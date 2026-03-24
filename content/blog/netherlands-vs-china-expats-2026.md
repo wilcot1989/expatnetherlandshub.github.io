@@ -257,6 +257,20 @@ For most ordinary professional expats working in multinational companies, these 
 
 ---
 
+## Managing Money Between the Netherlands and China
+
+If you are working in one country while maintaining financial ties in the other — supporting family, paying off property, or managing savings across currencies — EUR–CNY transfers are something you will deal with regularly.
+
+Bank transfers between euros and Chinese renminbi are consistently expensive at major banks. The exchange rate margin alone can represent 2–4% of the transfer amount, on top of any fixed fees.
+
+**Wise** supports EUR–CNY transfers with the real mid-market exchange rate and a disclosed percentage fee. For a €5,000 transfer, this typically means saving €100–€200 compared to a bank rate. Transfers to Chinese bank accounts (UnionPay network) are supported.
+
+One practical note: China has capital controls on outbound yuan transfers. There are limits on how much CNY can be moved out of China per year per individual (the basic limit is USD 50,000 equivalent annually). This is relevant for expats who have accumulated savings in China and want to repatriate them. Plan accordingly — large transfers out of China should be discussed with a financial adviser familiar with Chinese capital regulations.
+
+<a href="https://wise.com/invite/ihpc/willemt52" rel="noopener nofollow sponsored" class="cta-affiliate">Send money between EUR and CNY — Wise mid-market rates, transparent fees</a>
+
+---
+
 ## Further Reading on ExpatNetherlandsHub
 
 - [Netherlands vs Australia for expats](/blog/netherlands-vs-australia-expats-2026/)

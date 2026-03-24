@@ -280,6 +280,50 @@ If you decide DSW is the right choice, here is how to sign up:
 
 ---
 
+## DSW's Strengths for Rotterdam-Based Expats
+
+If you live in or near Rotterdam, DSW has specific advantages worth spelling out.
+
+**Erasmus MC coverage.** Erasmus University Medical Center is one of the Netherlands' top hospitals and is located in Rotterdam. DSW has a contracted relationship with Erasmus MC, meaning natura policyholders get full coverage there. For expats who want access to a high-quality teaching hospital with genuine research-based medicine, this is a meaningful benefit.
+
+**Maasstad Ziekenhuis and IJsselland Ziekenhuis.** These mid-sized Rotterdam-area hospitals are in DSW's contracted network. Both have good reputations for routine and specialist care. Proximity to these hospitals combined with full coverage makes the natura policy genuinely viable for Rotterdam residents.
+
+**Rotterdam's international community.** Rotterdam has a large and growing international population — it is a genuine port city with deep trade links and a more culturally mixed population than many Dutch cities. DSW is well-established in this community, and while their formal English support is limited, the practical reality is that many of their customer service staff are comfortable with English queries given the city's international character.
+
+## DSW and the 30% Ruling
+
+If you benefit from the 30% ruling, your net income is higher than the headline gross suggests, which affects the financial maths for insurance choices.
+
+At higher effective incomes, the absolute premium difference between DSW (cheaper) and a national insurer matters proportionally less. The question then becomes more about care quality and network access than pure cost.
+
+That said, the 30% ruling also means your marginal tax rate on extra spending is lower than for Dutch nationals at equivalent gross incomes. Every euro saved on premiums is effectively a euro of additional investment capacity. For expats who are actively building savings and investment portfolios during their 30% ruling years, keeping fixed costs like insurance premiums low makes sense.
+
+## Managing DSW Bureaucracy as an English Speaker
+
+The most practical challenge with DSW for expats is the language barrier in formal communications. Here is how I would manage it:
+
+**Browser translation:** Chrome and Firefox both have built-in translation for Dutch web pages. The DSW portal is functional with auto-translation. It is not elegant but it works for most tasks.
+
+**Screenshot and translate:** For formal letters (reimbursement decisions, policy changes), screenshot the text and run it through Google Translate or DeepL. For complex medical or insurance Dutch, DeepL is generally more accurate.
+
+**Keep a Dutch-speaking contact.** If you have a Dutch colleague, partner, or friend, ask them to help you with one or two tasks that are genuinely confusing. DSW's policy wording is fairly plain Dutch — not highly technical — so a native speaker can usually clarify things quickly.
+
+**Dispute via email.** If you need to dispute a claim or ask a formal question, email creates a written record and gives you time to compose your message carefully. DSW responds to email in Dutch, but they also respond — and a clear email in good English explaining your situation will be understood.
+
+## Comparing DSW Against Just (CZ Budget Label)
+
+If you are attracted to DSW primarily on price, it is worth comparing against Just — CZ's digital-first budget label that uses the CZ contracted care network nationally.
+
+| Feature | DSW Natura | Just (CZ budget label) |
+|---|---|---|
+| Premium (approx, 2026) | ~EUR 143/month | ~EUR 141–145/month |
+| Network | Regional (strong SW NL) | National |
+| English support | Limited | Limited (similar to DSW) |
+| Digital experience | Adequate | Adequate |
+| Customer satisfaction | 7.8/10 | ~7.3–7.5/10 |
+
+At nearly identical prices, the trade-off between DSW's stronger South Holland network and Just's national coverage is your primary decision factor. If you are based in the Rotterdam area and expect to stay there, DSW's local network quality is real. If you move around or are not sure where you will be living in six months, the national network of Just or another CZ label may be more practical.
+
 ## My Verdict on DSW for Expats
 
 DSW is a solid, honest insurer with competitive premiums and genuinely good customer satisfaction scores. For expats based in south-west Netherlands, it is among the top choices. The premium savings over national insurers are real — typically EUR 10-20 per month — which adds up to EUR 120-240 per year.

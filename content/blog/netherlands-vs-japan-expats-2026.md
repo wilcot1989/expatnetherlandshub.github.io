@@ -197,6 +197,44 @@ Long-term expats in Japan (5+ years) who speak Japanese fluently often describe 
 | Integration | Moderate effort | Very challenging |
 | Bureaucracy | Predictable | Slow, language-dependent |
 
+## Food, Culture, and Day-to-Day Life
+
+This section covers what daily life actually feels like in each country — the things that matter to quality of life but rarely appear in official comparisons.
+
+### Food
+
+Japan has one of the world's most celebrated food cultures. The variety, quality, and price-to-quality ratio of everyday Japanese food is genuinely exceptional. A bowl of ramen from a small shop costs ¥900–¥1,500 (€5–€9). A supermarket bento box is ¥500–¥800 (€3–€5). Eating well in Japan — daily — is affordable and requires minimal effort. This is not trivial; food contributes meaningfully to daily wellbeing.
+
+The Netherlands has good food if you know where to find it, but it is not the country's cultural strength. Dutch cuisine is hearty and filling rather than refined. The international restaurant scene in Amsterdam and Rotterdam is genuinely diverse and good. Supermarkets (Albert Heijn, Jumbo) stock reliable quality at moderate prices. Eating well is possible but requires more effort and spending than in Japan.
+
+### Public Transport
+
+Both countries have excellent public transport, but in different ways.
+
+Japan's rail network is the world's most reliable. Trains in Tokyo run with precision that Dutch expats find almost comical after the occasional NS delays. The bullet train (shinkansen) system makes the entire country accessible in hours. Passes like the JR Pass (available to tourists) make getting around Japan affordable. Commuter trains can be extremely crowded during peak hours.
+
+The Netherlands has good rail and excellent cycling infrastructure. The NS train network covers the entire country with hourly or better connections between cities. The OV-fiets (shared bicycle) system and the ubiquitous cycling paths make getting around Dutch cities genuinely pleasant. The comparison: Japan for long-distance and metropolitan rail; the Netherlands for integrated cycling-and-transit urban mobility.
+
+### Technology and Daily Convenience
+
+Japan is ahead of most countries in convenience store culture (7-Eleven, FamilyMart, Lawson) — 24-hour access to food, ATMs, bill payment, printing, and a wide range of everyday needs. Once you experience convenience stores in Japan, their absence elsewhere feels notable.
+
+The Netherlands has excellent broadband and mobile infrastructure, but the digital daily experience is less seamless for foreigners who do not speak Dutch. Government digital services (DigiD, Belastingdienst online) work well but require language navigation. Japan's digital government systems have historically been less user-friendly than the Netherlands, though recent reforms have improved this.
+
+## Banking and Money in Each Country
+
+### Netherlands Banking
+Opening a Dutch bank account requires a BSN, a registered address, and sometimes an appointment. The main expat-friendly banks are ABN AMRO, ING, and Bunq (a digital bank with strong English support). Bunq in particular is popular with expats for its fully English interface and multi-currency functionality.
+
+For international transfers, using Wise significantly reduces costs compared to bank wire transfers. If you are managing money across multiple countries, a Wise multi-currency account is genuinely practical.
+
+<a href="https://wise.com/invite/ihpc/willemt52" rel="noopener nofollow sponsored" class="cta-affiliate">Open a Wise account — multi-currency banking for expats in the Netherlands or Japan</a>
+
+### Japan Banking
+Japanese banking remains relatively traditional. Opening a Japanese bank account as a foreigner has historically required a residence card and some patience. Japan Post Bank (Yucho) is accessible. Large banks including MUFG, SMBC, and Mizuho have English-language support but the processes are more paper-intensive than in the Netherlands.
+
+Cash is still widely used in Japan, particularly outside major cities. ATMs at convenience stores typically accept international cards.
+
 ## Who Chooses Which
 
 **Expats choose the Netherlands** for career advancement in English, EU residency access, work-life balance, and a relatively accessible integration path. It's a common first European base for professionals from outside the EU.

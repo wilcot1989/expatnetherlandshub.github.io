@@ -260,6 +260,51 @@ CZ collects premiums by direct debit monthly. Coverage begins from your registra
 
 ---
 
+## What to Do When a CZ Claim Is Disputed
+
+Occasionally, insurers decline a reimbursement or pay less than expected. At CZ, the process for disputing a decision is:
+
+**Step 1:** Request the written decision (beslissing) from CZ explaining why they declined or reduced reimbursement. This is your right.
+
+**Step 2:** Submit a formal objection (bezwaar) in writing within the time limit stated in the decision (usually six weeks). You can do this via the MijnCZ portal or by letter.
+
+**Step 3:** CZ has a legal obligation to review your bezwaar and respond within a set time. If they uphold their original decision, they must explain why.
+
+**Step 4:** If you disagree with CZ's review decision, you can escalate to the Stichting Klachten en Geschillen Zorgverzekeringen (SKGZ) — the Dutch health insurance complaints and disputes body. SKGZ handles disputes between policyholders and health insurers. Their service is free to use and independent.
+
+For complex disputes, a patient advocacy organisation (like the Patiëntenfederatie Nederland) can also help you understand your rights.
+
+## CZ's Digital Experience in Practice
+
+I have used CZ's MijnCZ portal and app. Here is an honest assessment:
+
+**MijnCZ app:** Available for iOS and Android. Reasonably well designed. Key functions work: checking your eigen risico usage, viewing your policy, submitting a claim by uploading a photo of your receipt, checking your healthcare provider coverage. The app is in Dutch, but the layout is logical enough that most expats manage with browser translation.
+
+**Website:** cz.nl is Dutch-first but CZ has made some effort toward expat accessibility. There is a partial English-language section for new registrations and basic FAQs. The main policy documents remain in Dutch.
+
+**Claim submission:** The digital claim submission at CZ is one of the cleaner ones among Dutch insurers. You upload the invoice (factuur) from your provider, enter your IBAN, and submit. Status updates are visible in the portal. Standard processing time is 5–10 working days for supplementary claims.
+
+**Phone support:** Monday–Friday, standard business hours. English-speaking staff are available — I have not had a call where the representative could not manage in English. Hold times during November and December (the switching season) can be long — 20–40 minutes is not unusual. For urgent queries during this period, the online portal is more practical.
+
+## CZ for Expats with Chronic Conditions
+
+If you have a chronic condition (diabetes, COPD, cardiovascular disease, MS, rheumatoid arthritis, etc.), CZ has a network of contracted care coordinators and specialist programmes under the Dutch chronic care model (ketenzorg).
+
+This matters because:
+- For conditions on the chronic list, physiotherapy is covered from session one under the basic package
+- Chronic disease management programmes (DM-2 for diabetes, for example) are coordinated through your GP and are fully covered
+- CZ's contracted specialist network means you do not need to worry about whether your specialist is covered
+
+If you have a chronic condition and are choosing between CZ and a smaller or regional insurer, the contracted specialist network size is a meaningful practical factor. CZ's national network means that wherever in the Netherlands you are, your regular specialist care will be covered.
+
+## CZ and the Zorgtoeslag (Healthcare Allowance)
+
+If your income is below the threshold (approximately €38,000 for individuals in 2026), you are entitled to a government healthcare allowance (zorgtoeslag) that offsets part of your premium. This is paid by the Belastingdienst, not by CZ — but it means your effective monthly cost is lower.
+
+At an individual income of €25,000, the zorgtoeslag in 2026 is approximately €100–€115/month. At €30,000, it drops to around €85/month. Apply via toeslagen.nl. You need a DigiD and a Dutch bank account.
+
+Many expats in their first year — before their income has stabilised, during a job search, or at a lower salary level — qualify for partial zorgtoeslag and do not claim it. This is free money. Check your eligibility.
+
 ## My Verdict on CZ for Expats
 
 CZ is a reliable, nationally available insurer that hits the middle of the market on price and quality. The partial English support makes it more approachable than some alternatives, and the group discount system can make it genuinely competitive if your employer is in the CZ network.

@@ -195,6 +195,74 @@ If you're transferring money internationally to fund your eToro account — for 
 - [Side Hustle and Passive Income Netherlands 2026](/blog/side-hustle-passive-income-netherlands-2026/)
 - [Retiring in the Netherlands: Expat Guide](/blog/retiring-in-netherlands-expat-guide-2026/)
 
+## eToro's Smart Portfolios in Detail
+
+Smart Portfolios (formerly CopyPortfolios) are pre-built themed investment bundles managed by eToro. You invest a lump sum and eToro periodically rebalances the allocation. In 2026, examples include:
+
+- **TechMahindra Portfolio** — technology companies globally
+- **GreenEnergy** — renewable energy stocks and ETFs
+- **AI Evolution** — companies focused on artificial intelligence
+- **Crypto Portfolio** — diversified cryptocurrency basket
+- **GoldPortfolio** — gold-related assets
+
+The minimum investment per Smart Portfolio is typically USD 500. The fee structure is different from standard trading — eToro charges a spread and management fee embedded in the portfolio, rather than a separate commission.
+
+My honest view on Smart Portfolios: they are interesting products for thematic investing, but they are not a substitute for a diversified index fund portfolio. The management fees are higher, the selection is more concentrated, and the thematic nature means they will underperform a global index in years when their theme is out of favour.
+
+If you want exposure to a specific theme — say, clean energy or AI — as a small percentage of your overall portfolio, a Smart Portfolio is a simple way to do it. As a primary investment vehicle, a global ETF through DEGIRO or Trading 212 is more cost-effective.
+
+## eToro's Virtual Portfolio
+
+eToro's virtual portfolio feature (sometimes called "paper trading") gives you a practice account with virtual USD 100,000. You can make trades, test strategies, and explore the platform's features without using real money.
+
+I think this is genuinely useful for new investors. Spending a month with the virtual portfolio before depositing real money gives you a realistic sense of how the platform works, what the spreads look like on different assets, and whether you actually understand what you are doing.
+
+The main limitation: virtual trading removes emotional responses. Real money feels different. People who performed well on a virtual portfolio sometimes behave quite differently when real losses appear on screen. Be aware of this transition.
+
+## The Social Trading Community: Pros and Cons
+
+eToro's social feed shows you what other investors are buying, selling, and commenting on. This can be valuable in two ways:
+
+**Educational value.** Watching what experienced investors do and reading their reasoning builds financial knowledge. Following a few consistently profitable investors (look at their track record over three or more years, not just recent performance) teaches you about portfolio construction, risk management, and market thinking.
+
+**Risk.** The social feed can create herd behaviour. When many people on the feed are excited about a particular stock or crypto asset, the instinct to join the movement is strong. Some of the worst investment decisions I have seen expats make were influenced by social trading momentum — buying something because everyone on eToro was talking about it, not because of underlying analysis.
+
+If you use CopyTrader, copy someone whose track record spans at least two or three years and includes a significant market downturn (2022 was a meaningful test of most investor strategies). Anyone who looks brilliant with a one-year track record from 2021 needs a lot more scrutiny.
+
+## eToro and Dutch Tax Reporting: Practical Steps
+
+eToro does not automatically report to the Dutch Belastingdienst. You are responsible for declaring your holdings each year for Box 3.
+
+**Step 1:** Download your annual account statement from eToro. Go to Portfolio → Statements → select the year → download.
+
+**Step 2:** Find your total account value (in USD) on 1 January. This is the Box 3 reference date.
+
+**Step 3:** Convert to euros using the official ECB exchange rate for 1 January. This figure goes into your Box 3 declaration as foreign investments.
+
+**Step 4:** If you have crypto holdings on eToro (in a non-leveraged position, not CFD), these also go into Box 3. Crypto is classified in the investment category, not savings, for the Box 3 deemed return calculation.
+
+**Step 5:** Declare in your Dutch tax return (aangifte inkomstenbelasting) under Box 3.
+
+If you have significant eToro holdings and are unsure about the reporting, a Dutch tax advisor who is familiar with foreign investment platforms can help. Our guide to [best tax advisors for expats in the Netherlands](/guides/finance/best-tax-advisors-expats-netherlands-2026/) lists English-speaking advisors.
+
+## Who eToro Actually Suits: A Realistic Assessment
+
+After three years of using eToro and helping other expats think through their investment options, here is my honest assessment of who it actually suits.
+
+**The best fit for eToro:**
+- Expats who are new to investing and want to start small while learning
+- Those who want a single English-language account covering stocks, ETFs, and crypto
+- People interested in the social trading features and willing to learn from them
+- Expats who are transferring money from abroad regularly and appreciate the bank transfer option
+
+**Not a great fit:**
+- Serious long-term passive investors who want the lowest possible fees and euro-denominated ETFs
+- Expats managing a large portfolio (€100,000+) where the USD conversion cost becomes meaningful
+- Anyone who needs direct customer support quickly — eToro's support response times are too slow for urgent situations
+- US persons — the PFIC issue makes European ETFs on eToro problematic; use Interactive Brokers instead
+
+**The hybrid approach:** Some expats I know use eToro for a small "fun" or experimental portion of their portfolio (5–15%) while keeping their core long-term investments on DEGIRO or through Meesman. This is not irrational — it lets you explore social trading and crypto without betting your retirement on it.
+
 ## FAQ
 
 **Can expats open an eToro account in the Netherlands?**

@@ -194,6 +194,39 @@ Family reunification applications are manageable on a DIY basis if your situatio
 
 Look for lawyers registered with the IND's roster or members of the Dutch Association of Immigration Lawyers (VAJN).
 
+## Real Timeline: What to Expect Month by Month
+
+Family reunification processes are highly individual, but here is a realistic timeline based on straightforward applications:
+
+**Months 1–2: Document collection phase.**
+This is often longer than people expect. Birth certificates, marriage certificates, police clearances, translations, and apostilles all take time — and some require in-person visits to authorities in the family member's home country. Police clearances from some countries take 4–6 weeks alone. Do not rush this phase; submitting incomplete documents causes longer delays later.
+
+**Month 2–3: Application submission.**
+Once documents are complete, the sponsor submits via the IND portal. Pay the application fee and keep your submission confirmation. The clock for the 90-day processing target starts from when the IND considers the application complete — not from your submission date. If they request missing documents, the clock resets.
+
+**Month 3–5: IND assessment period.**
+The IND reviews the file, may request additional documentation, and makes a decision. For straightforward applications with strong documentation, decisions can come within 6–10 weeks of submission. Complex cases, high-scrutiny nationalities, or incomplete documents can push this to the full 90 days or beyond.
+
+**Month 5–6: Embassy appointment (if MVV required).**
+Once the IND approves the application, they notify the embassy or consulate. The family member makes an appointment — some embassies have availability within days, others have waits of several weeks. The appointment involves biometrics and receiving the MVV sticker.
+
+**Month 6: Travel and arrival.**
+The family member travels within the 90-day MVV validity period. On arrival, they register at the gemeente, get a BSN, and collect their residence permit card from the IND.
+
+**Total realistic timeline: 4–7 months for a straightforward application.** Complex cases can take 9–12 months. Build this into your planning — if your family member has a lease, job, or other commitments ending at a specific date, start this process much earlier than you think you need to.
+
+## Practical Tips from Expats Who've Done It
+
+**Keep copies of everything.** Scan every document at both the original and translated stages. When the IND requests something you've already submitted, having your own organised file means you can respond quickly.
+
+**Communicate in writing.** Phone calls with the IND are useful but follow up everything in writing. The IND portal has a messaging function — use it. Paper trails matter if you need to appeal or escalate.
+
+**Don't send originals unless specifically required.** Send certified copies and keep originals in a safe place. Original documents get lost in bureaucratic processes.
+
+**Check your income before submitting.** The income requirement sounds simple but is assessed based on your net income and employment stability. If you're on a short-term contract, check with the IND or an immigration adviser whether your contract type and income level will meet the requirements before you invest months in document collection.
+
+**Be patient with civic integration requirements.** Your family member will have integration obligations after arrival. Help them understand these before they arrive — the inburgering process starts with the municipality, and delays in starting can create compliance issues later.
+
 ## After Arrival: Next Steps
 
 Once your family member has arrived and registered:

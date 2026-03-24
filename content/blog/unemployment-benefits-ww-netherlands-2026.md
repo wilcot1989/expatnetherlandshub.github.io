@@ -233,6 +233,18 @@ EU/EEA citizens living in the Netherlands have full rights to WW without restric
 
 ---
 
+## What Happens After WW Ends
+
+WW is a time-limited benefit. When it expires, you have several options depending on your situation.
+
+**If you have found work:** The transition is automatic. You simply notify UWV via the portal and your benefit ends on the day you start your new job. If your new role is part-time and you still qualify for partial WW, report your working hours and the system adjusts automatically.
+
+**If you have not found work and are EU/EEA:** After WW ends, you may qualify for social assistance (bijstandsuitkering) through your municipality if your assets and savings are below the threshold. This is a different, means-tested benefit.
+
+**If you are non-EU and your work permit expires:** Your permit is linked to employment. If WW has ended and you have not found new qualifying employment, you will need to leave the Netherlands or apply for a different type of residence permit. The options depend on your personal circumstances — consult an immigration lawyer before your permit expires.
+
+**Upskilling while on WW:** If your job search is taking longer than expected, investing in new skills or certifications during the WW period is worthwhile. Employers in the Netherlands respond well to candidates who have used a gap period productively. STAP subsidies (up to EUR 1,000 for approved training programmes) are available to WW recipients.
+
 ## Summary
 
 WW (Werkloosheidswet) is a solid safety net for expats who have been employed in the Netherlands. If you have worked here for six months or more, you most likely qualify for at least three months of unemployment benefit at 70-75% of your previous salary.

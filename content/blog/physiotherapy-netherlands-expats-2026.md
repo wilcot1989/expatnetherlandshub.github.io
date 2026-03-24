@@ -237,6 +237,23 @@ Physiotherapy for children. Entirely covered by the basic insurance (no eigen ri
 
 ---
 
+## What a Typical Treatment Course Looks Like
+
+A lot of expats come from countries where physiotherapy means one or two sessions and a prescription for painkillers. In the Netherlands, the approach is different — and in my experience, considerably more effective.
+
+A typical acute issue (muscle tear, ankle sprain, lower back episode) might look like:
+
+- **Session 1 (intake):** Assessment, explanation, and often 20–30 minutes of initial treatment
+- **Sessions 2–4:** Targeted manual work or exercise therapy, continued education about the condition
+- **Sessions 5–8:** Progressive exercise loading, functional movement patterns, homework between sessions
+- **Discharge:** When your goals are met — not when you run out of sessions
+
+Dutch physiotherapists are generally conservative about the number of sessions they recommend. If they suggest 8–10 sessions, they mean it — they're not trying to fill a schedule. Equally, if after four sessions they say you don't need more, trust that assessment.
+
+For something more complex (post-surgical rehabilitation, chronic pain, repetitive strain), the trajectory is longer and more collaborative. You'll be expected to do exercises at home, report back accurately on how they're affecting you, and gradually increase difficulty as you recover.
+
+One thing many expats find surprisingly useful: the intake assessment often uncovers contributing factors they hadn't connected to their injury — posture at a desk, sleeping position, asymmetrical gait from an old injury. Dutch physios tend to treat the cause, not just the symptom.
+
 ## Summary
 
 Physiotherapy in the Netherlands is generally excellent and far more accessible than in many countries — the direct access system alone is a genuine advantage. The insurance coverage mechanics take some learning, but once you understand the chronic list / 20-session rule, it all makes sense.

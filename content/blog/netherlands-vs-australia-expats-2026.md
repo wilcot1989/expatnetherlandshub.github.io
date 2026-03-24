@@ -236,6 +236,28 @@ Both are excellent choices. The Netherlands and Australia consistently rank in t
 
 ---
 
+## What Expats Actually Miss (And Don't Miss) About Each Country
+
+I've asked dozens of people who have lived in both the Netherlands and Australia — or in one and are considering the other — what surprised them most.
+
+**Expats who moved from the Netherlands to Australia consistently say:**
+- The sunshine and outdoor lifestyle genuinely improves their mood and social life. Several described it as "feeling like my weekends doubled."
+- The informality and ease of making Australian friends is striking compared to building social connections in the Netherlands — Australians tend to include newcomers quickly.
+- Bureaucracy is more frustrating than expected — Medicare enrolment, tax file numbers, state vs federal overlaps.
+- They miss the cycling. Walking to a café while cycling home from work, the ease of short urban trips without a car — this is something you don't fully appreciate until it's gone.
+- The Netherlands' compactness means Paris or London for a weekend is normal. From Sydney, a European city break requires a 24-hour flight.
+
+**Expats who moved from Australia to the Netherlands consistently say:**
+- The 30% ruling, if you qualify, feels like a significant pay rise relative to what they expected.
+- Dutch winters hit harder than they anticipated — especially the greyness of January and February.
+- European travel access is transformative. Weekend trips to Barcelona, Prague, or the Scottish Highlands become routine.
+- They underestimated how much they'd miss space — Australian houses and apartments are larger for the same money outside major cities.
+- Dutch directness is initially jarring, then becomes something they actively appreciate.
+
+These subjective accounts don't resolve the comparison, but they help calibrate what to research more deeply based on your own priorities.
+
+---
+
 ## Further Reading on ExpatNetherlandsHub
 
 - [How to find a job in the Netherlands as an expat](/blog/how-to-find-job-netherlands-expat-2026/)

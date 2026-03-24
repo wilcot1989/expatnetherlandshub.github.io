@@ -228,6 +228,8 @@ Some expat families use an au pair as an alternative or supplement to formal chi
 
 **BSO and school holidays**: BSO care during school holidays (7-8 weeks per year) is covered by kinderopvangtoeslag, but you typically need to book holiday care slots in advance — they can fill up quickly.
 
+**Keep records of childcare invoices**: You'll need accurate monthly invoice records for any end-of-year toeslagen reconciliation with the Belastingdienst. Most providers provide these digitally, but download and save them each month.
+
 ---
 
 ## Internal Links

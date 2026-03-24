@@ -340,4 +340,59 @@ American expats face serious restrictions. Most European UCITS ETFs traded on DE
 
 ---
 
+## Practical Portfolio Examples for Expats in the Netherlands
+
+To make this concrete, here are three typical portfolio setups I see among expat investors in the Netherlands.
+
+### The Simple Starter (Trading 212 or DEGIRO, €200–500/month)
+
+Fund: Vanguard FTSE All-World (VWCE — accumulating)
+Platform: Trading 212 (fractional, automatic, €0 commission) or DEGIRO (manual, €0 for first free-list trade)
+Strategy: Invest a fixed amount monthly. Do not try to time the market. Let it compound.
+
+This one-fund approach gives global diversification across approximately 3,700 companies. The ongoing charge is 0.22% per year. For a passive investor with no desire to manage their portfolio actively, this is genuinely all you need.
+
+Total annual cost on a €20,000 portfolio: approximately €44 in fund charges (0.22%) plus minimal trading fees. This compares to €100 in fees at Meesman and €120+ at a bank-based platform.
+
+### The Two-Fund Portfolio (DEGIRO, €50,000+)
+
+Funds: iShares Core MSCI World (IWDA, 90%) + iShares MSCI Emerging Markets (EMIM, 10%)
+Platform: DEGIRO
+
+IWDA covers approximately 1,500 large and mid-cap companies in 23 developed markets. EMIM adds approximately 2,700 companies in 24 emerging markets. Together they approximate a global market-cap weighted portfolio.
+
+Both are on DEGIRO's free trades list, meaning zero commission on the first trade per fund per day. The combined ongoing charge is approximately 0.20% (IWDA) + 0.18% (EMIM) = weighted average of roughly 0.20%.
+
+This setup is slightly more involved than the single VWCE approach but gives more control over regional allocation and some expats prefer holding them separately.
+
+### The Full-Automation Option (Meesman)
+
+Fund: Meesman Wereldwijd Totaal (one click, fully automated)
+Platform: Meesman
+Strategy: Set up direct debit for monthly amount, check once a year
+
+The Meesman Wereldwijd Totaal fund covers global large-cap, small-cap, and emerging markets in one product. You set a monthly direct debit and Meesman handles everything: purchase, rebalancing, dividend reinvestment, and annual reporting for Box 3.
+
+Annual cost: 0.50% on the first €100,000. On a €30,000 portfolio that is €150/year.
+
+This is more expensive than DEGIRO, but for an expat who genuinely does not want to think about investing and values Dutch-language service, the simplicity premium is arguable.
+
+## When to Start Investing in the Netherlands
+
+A question I get regularly: should I wait until I have permanent residency, or until my 30% ruling is sorted, or until I understand Box 3 better?
+
+The general principle: start as early as you are ready, even if the amounts are small. The compound growth benefit of starting earlier almost always outweighs the benefit of waiting for perfect circumstances.
+
+The 30% ruling partial non-resident status is worth taking if you qualify and hold significant foreign assets — but this decision point should not delay you from starting to invest in general. You can invest on platforms like DEGIRO or Trading 212 from the moment you have a Dutch address and BSN, regardless of your ruling status.
+
+Box 3 kicks in above the €57,000 threshold per person. If you are starting from scratch, it will be years before you hit this threshold. In the meantime, there is no tax on your investment growth — which is the correct framing: Box 3 is a wealth tax at scale, not an immediate barrier to starting out.
+
+## The Most Common Expat Investing Question: "Do I invest before or after the eigen risico?"
+
+This comes from conflating healthcare costs with investment budgeting. They are separate.
+
+Your healthcare eigen risico (€385 mandatory deductible) is a healthcare cost you will likely face each year if you use specialist or hospital care. It is not sensible to keep €385 in cash specifically "for the eigen risico" while delaying investment.
+
+A more practical approach: keep one to three months of living expenses as an emergency fund in a savings account (a Dutch savings account typically earns some interest), and invest anything above that systematically. If the eigen risico comes due, it comes out of your emergency buffer, which you replenish from income over the following months.
+
 *This article is for information purposes only and does not constitute financial advice. Consult a licensed financial advisor and a Dutch tax professional for advice specific to your situation.*

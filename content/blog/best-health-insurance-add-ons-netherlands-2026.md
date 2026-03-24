@@ -209,6 +209,80 @@ A reminder: the basic policy has a mandatory annual deductible of €385 in 2026
 
 Supplementary insurance does not count toward or reduce the eigen risico.
 
+## Alternative Medicine Coverage
+
+If you use acupuncture, osteopathy, homeopathy, chiropractic, or other alternative therapies, none of this is covered by the basic package. Some supplementary packages include a small contribution — typically €100–€300 per year — for recognised alternative medicine providers.
+
+The practical reality: these contributions are worth including if you use alternative medicine regularly. A single acupuncture session in the Netherlands runs €60–€90. A few sessions per year quickly justifies the small additional monthly cost of a supplement that includes alternative therapy coverage.
+
+Not all alternative medicine providers are recognised by all insurers. When you sign up, confirm that your preferred therapist or discipline is covered under the specific package.
+
+## Fertility Treatment and Pregnancy
+
+The basic package covers IVF treatment for women under 43, up to three full IVF cycles under certain conditions. It also covers fertility investigation (blood tests, semen analysis, ultrasounds) and some hormonal treatments as part of the infertility investigation process.
+
+What the basic package does not cover:
+- Fertility medication in most circumstances (partially covered for some treatments, not others)
+- Intrauterine insemination (IUI) — often required before IVF is approved
+- Second and third IVF cycles after the first has not resulted in a pregnancy (coverage has a specific structure)
+- Donor sperm or egg treatment beyond a basic contribution
+
+Some supplementary packages include contributions toward fertility investigation, IUI, or medication. If you are planning to start a family in the Netherlands, check these specifics before choosing a supplementary package.
+
+Maternity care itself is very well covered by the basic package — prenatal checkups, delivery, and the kraamzorg (home postnatal care assistant for eight days after birth) are all included with no eigen risico applied. This is one of the genuinely excellent features of the Dutch system that surprises many expats arriving from countries where maternity care generates significant bills.
+
+## What to Do When You Arrive in the Netherlands
+
+If you have just registered at the municipality and are choosing health insurance for the first time, here is the sequence that works:
+
+**Step 1: Register first.** Your insurance registration date ties to your municipality (gemeente) registration date. You have four months to arrange insurance from that date. If you wait longer, the CAK can assign you an insurer automatically and charge a surcharge.
+
+**Step 2: Get your BSN.** You need your burgerservicenummer to sign up with an insurer. The gemeente gives you this when you register.
+
+**Step 3: Compare before you pick.** Spend an hour on [Independer](https://awin1.com/cread.php?awinmid=19918&awinaffid=2776410&ued=https://www.independer.nl/zorgverzekering) comparing current premiums side by side. Enter your age, the eigen risico you want, and whether you want supplementary coverage. The price differences between comparable policies can be €15–€30 per month — over a year that is €180–€360 in your pocket or out of it.
+
+**Step 4: Choose your insurer, basic policy type, and add-ons simultaneously.** Supplementary insurance is sold by the same company as your basic insurance in most cases. Choosing them at the same time prevents gaps.
+
+**Step 5: Register with a GP.** This is separate from insurance. You need to find a huisarts who is accepting new patients in your area and register with them. In Amsterdam this can take weeks — start immediately. Your insurer does not do this for you.
+
+## Real Examples: What Expats Actually Claim
+
+I have spoken to enough expats about their healthcare experiences in the Netherlands to see patterns in what actually gets claimed on supplementary insurance.
+
+**The dental scenario:** Anna, a 34-year-old software engineer from Spain, arrived in the Netherlands with two fillings that needed replacing and had put off getting done. She signed up for a mid-range dental supplement (CZ Aanvullend 2, €23/month) and within the first year claimed dental work worth €480. The policy covered €380 of that. Her total premium paid for the year was €276. Even accounting for the extra cost, she came out significantly ahead of paying out of pocket — and that was just year one.
+
+**The physiotherapy scenario:** James, a 41-year-old consultant from the UK with recurring lower back pain, takes out supplementary insurance with 18 physio sessions per year. He uses around 12 sessions annually at €45 per session — that is €540 worth of physio. His supplement costs roughly €96 per year (€8/month). The maths is extremely clear.
+
+**The glasses scenario:** Sarah, originally from South Africa, wears prescription glasses with progressive lenses. A replacement pair costs her €420 in the Netherlands. Her supplementary package contributes €150 every two years, costing her €3.50/month (€84 over two years). She saves €150 every two years for €84 invested.
+
+These are not extraordinary scenarios. They are the ordinary reason why most expats who understand the system take supplementary coverage.
+
+## Switching Insurance: What Expats Often Get Wrong
+
+The annual switching window (1 November – 31 December) is well-known. What is less well understood is the impact of switching on supplementary dental coverage.
+
+Some supplementary dental packages have waiting periods for specific treatments. If you switch insurer in November and sign up for a new dental supplement, you may find that coverage for crowns, bridges, or orthodontic treatment does not kick in until you have been with the new insurer for 6–12 months.
+
+The implication: if you know you have significant dental work coming in the next six months, do not switch your dental insurer. Stay with your current supplementary coverage until the treatment is complete, then switch at the following November window.
+
+This is the mistake I made in my second year in the Netherlands. I switched to a cheaper dental supplement in December, then needed a crown in March. The waiting period clause meant I paid nearly the full cost out of pocket. The lesson was expensive.
+
+## Comparing Supplementary Options: What to Actually Look At
+
+When you compare supplementary packages on Independer or directly on insurer websites, here are the five things worth actually reading:
+
+**1. The annual dental maximum.** The headline number — €500, €750, €1,000, €2,500 — is what matters. For routine maintenance a €500 limit is usually fine. For restorative work (crowns, root canals, bridges), you want at least €1,000.
+
+**2. The percentage vs the maximum.** Some plans reimburse 75% of dental costs up to the annual maximum. Others reimburse 100% but have a lower maximum. Calculate which is better for your expected use.
+
+**3. Physiotherapy session count and cap per session.** "18 sessions" sounds good, but if the package caps reimbursement at €38 per session and your physio charges €50, you cover the €12 difference yourself. Check both the session count and the per-session maximum.
+
+**4. Glasses contribution frequency.** Every year vs every two years makes a meaningful difference. If you update your glasses yearly (common with changing prescriptions), a package that reimburses annually is worth paying a bit more for.
+
+**5. Alternative medicine inclusion.** If you use this, check whether your specific discipline (chiropractic, acupuncture, etc.) is on the accepted list. The list varies by insurer.
+
+<a href="https://awin1.com/cread.php?awinmid=19918&awinaffid=2776410&ued=https://www.independer.nl/zorgverzekering" rel="noopener nofollow sponsored" class="cta-affiliate">Compare supplementary health insurance add-ons on Independer — see exact coverage details side by side</a>
+
 ## Internal Resources
 
 - [Life Insurance for Expats in Netherlands 2026](/blog/life-insurance-expats-netherlands-2026/)

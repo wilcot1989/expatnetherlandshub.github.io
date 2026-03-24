@@ -267,6 +267,52 @@ If you have supplementary insurance, be aware that some insurers apply a waiting
 
 Use this as a starting point, then verify current premiums on Independer, which updates in real time and includes the actual policy documents you can read before signing.
 
+## Year-by-Year Checklist for Dutch Health Insurance
+
+Most expats set up their insurance once and forget about it for years. That is a mistake. Here is what to do each year:
+
+**October–November:**
+Review your current insurer's premium notice for the coming year. By law, insurers must inform you of the new premium before the switching window opens. Compare this against current market rates on Independer.
+
+**November 1–December 31:**
+If you want to switch, do it now. This is the only window. Registering with a new insurer before 31 December means your new coverage starts 1 January. The new insurer handles cancelling the old policy — you do not need to do this separately.
+
+When switching, also review your supplementary insurance. The timing matters: if you are mid-dental-treatment, switching dental coverage mid-treatment can create gaps or require waiting periods with the new insurer.
+
+**January:**
+Confirm your new policy documents have arrived and your direct debit is correctly set up. Check that your GP (huisarts) is still in the contracted network of your chosen insurer.
+
+**Throughout the year:**
+Track your eigen risico consumption in your insurer's app or online portal. Once you have hit €385 in a year, remaining healthcare costs (within the covered package) are fully covered. This can affect timing decisions — scheduling planned procedures at different points in the year has a real cost impact.
+
+## Common Mistakes Expats Make with Dutch Health Insurance
+
+**Picking the cheapest basic premium without checking the network.** If your preferred hospital or GP area is not in the contracted network, a natura (in-kind) policy at the cheapest insurer means you pay 75–80% of non-contracted care yourself. Always check network coverage before deciding.
+
+**Forgetting to arrange supplementary insurance at the same time.** Some insurers only sell supplementary insurance to their own basic insurance customers. And supplementary policies have their own waiting periods for certain treatments. Arranging it alongside your basic policy is much cleaner than trying to add it later.
+
+**Not applying for zorgtoeslag.** If your income is below approximately €38,000 (individual, 2026), you may qualify for a healthcare allowance of up to €123/month from the Dutch government. This is free money that many expats in their first year — especially during a job search or at a lower salary — fail to claim. Apply at toeslagen.nl.
+
+**Assuming the most expensive insurer is the best.** ONVZ has excellent English service and is often recommended for expats, and the premium is higher. For many expats, CZ or Menzis provides equivalent care quality at €15–20/month less. The premium difference over five years is €900–€1,200. At comparable care quality, that matters.
+
+**Not understanding the chronic conditions list.** If you have a condition on the government's chronic aandoeningenlijst (chronic conditions list), physiotherapy is covered from session one under the basic package. Many expats with qualifying conditions pay out of pocket for the first 20 sessions unnecessarily.
+
+## For Families: Special Considerations
+
+Children under 18 are covered under their parents' basic insurance at no additional premium — one of the genuinely good features of the Dutch system. The eigen risico does not apply to children's care.
+
+Children's dental care is included in the basic package up to age 18. This is a meaningful difference from adult dental coverage and means you do not necessarily need supplementary dental coverage for your children.
+
+For family insurance decisions:
+
+**Maternity care** is fully covered by the basic package, including the kraamzorg (postnatal home care assistant for eight days after birth). This is unique to the Netherlands and genuinely valuable. When choosing a basic insurer, confirm they have contracted kraamzorg agencies in your area.
+
+**Orthopaedic care for children** — children's growth-related orthopaedic issues are generally well covered under the basic package.
+
+**Paediatric physiotherapy** (kinderfysiotherapie) is covered by the basic package for children under 18 for conditions on the chronic conditions list, without the eigen risico applying.
+
+For families with older parents visiting or relocating, note that insurance can only be taken out once someone is registered in the Netherlands. Visitor insurance from an international provider is necessary for family members who are not yet Dutch residents.
+
 ---
 
 ## Further Reading on ExpatNetherlandsHub

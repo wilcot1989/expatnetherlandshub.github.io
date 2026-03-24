@@ -175,6 +175,20 @@ As an expat, plan for the following buying costs on top of the purchase price:
 
 **Total buying costs: approximately 3–5% of the purchase price.** These cannot be included in the mortgage (due to 100% LTV cap) and must come from your own funds.
 
+## Common Mistakes Expats Make During the Mortgage Process
+
+After watching friends go through this process — some smoothly, some with significant friction — a few patterns come up repeatedly.
+
+**Starting the broker search too late.** The Dutch property market moves fast. In Amsterdam, good properties receive multiple offers within days of listing. If you find a property you love but haven't spoken to a broker yet, you'll lose it. Start your broker relationship at least 2–3 months before you want to actively bid on properties. Get your indicative maximum in writing early.
+
+**Not understanding the financing clause.** The voorlopig koopcontract (preliminary purchase agreement) can include a financieringsvoorbehoud — a clause that allows you to pull out without penalty if your mortgage isn't approved within the agreed period. Many estate agents and sellers in competitive markets push back on long financing clause periods. Make sure your broker is managing this timeline and not cutting it shorter than is realistic for your application.
+
+**Assuming all lenders treat expats the same.** Some lenders flatly decline applications from permit holders whose permit expires within a certain period. Others are fine with temporary permits given the employer context. If your broker submits to the wrong lender, you waste several weeks. A broker who works with expats regularly knows which lenders have which policies.
+
+**Bringing funds from abroad at the last minute.** International transfers to cover buying costs can take time and be flagged for compliance review at the receiving bank if the amount is large or the origin is unusual. Transfer money early, and use a service like [Wise](https://wise.com/invite/ihpc/willemt52) to avoid losing money on the exchange rate. A €30,000 transfer to cover buying costs can cost you €600–€900 more than necessary if you use your home bank's rate.
+
+**Forgetting that insurance is part of the process.** Some expats close the mortgage process and then discover they also need to arrange life insurance before the final completion date. Your broker should raise this, but confirm it early — shopping for and obtaining a life insurance policy can take 2–4 weeks.
+
 ## Life Insurance Requirement
 
 Most Dutch mortgage lenders require you to take out a term life insurance policy (overlijdensrisicoverzekering) as a condition of the mortgage. This ensures the mortgage can be repaid if you die during the term.

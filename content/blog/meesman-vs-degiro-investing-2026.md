@@ -188,6 +188,63 @@ Both are adequate for simple queries. For complex issues (tax questions, inherit
 
 **Consider using both:** Some investors use Meesman for their core long-term, hands-off portfolio and DEGIRO for a smaller "active" portion they want to experiment with. There's no rule against maintaining accounts on both platforms.
 
+## Portfolio Construction: Practical Examples
+
+### Starting portfolio on Meesman (€200/month)
+
+Most expats starting out with Meesman choose the **Meesman Wereldwijd Totaal** fund. This gives you exposure to approximately 9,000 companies across developed and emerging markets through a single fund. You set up a monthly direct debit and the fund buys units automatically.
+
+A common allocation for someone more interested in control:
+- 80% Meesman Aandelen Wereldwijd (developed world)
+- 20% Meesman Aandelen Opkomende Markten (emerging markets)
+
+This mirrors the standard market-cap allocation used by most passive investors globally.
+
+### Starting portfolio on DEGIRO (€300/month)
+
+The most popular passive ETF combination on DEGIRO among Dutch investors in 2026:
+
+- **iShares Core MSCI World UCITS ETF (IWDA)** — large cap developed world, TER 0.20%
+- **iShares Core MSCI EM IMI UCITS ETF (EMIM)** — emerging markets, TER 0.18%
+
+A typical split is 80/20 or 90/10. Both are listed on Euronext Amsterdam and qualify for DEGIRO's reduced trading fee programme. Buy monthly — try not to time the market.
+
+**More advanced option:** The Vanguard FTSE All-World UCITS ETF (VWCE) covers both developed and emerging markets in one fund at a TER of 0.22%. Higher fee than holding IWDA+EMIM separately, but simpler.
+
+### A word on bond ETFs
+
+Neither Meesman nor DEGIRO's typical passive investor strategy includes bonds. For long-term investors under 50 with a horizon of 10+ years, 100% equities is defensible. If you're within 10 years of a planned goal (house purchase, departure from the Netherlands), a bond allocation reduces volatility. DEGIRO has numerous bond ETF options; Meesman does not.
+
+## Leaving the Netherlands: What Happens to Your Portfolio?
+
+This question comes up constantly for expats. You've built a portfolio here, your residence permit expires or you take a job elsewhere — what happens?
+
+### Meesman when you leave
+
+Meesman requires a Dutch address and bank account. When you de-register from your gemeente and close your Dutch bank account, your Meesman account effectively needs to be closed or transferred. Meesman will ask you to liquidate your holdings. This means a taxable event: you'll owe Box 3 tax (or potentially exit tax depending on your situation) on the value at the time.
+
+The practical implication: if you leave the Netherlands mid-year, your Meesman portfolio's value on 1 January of that tax year is included in your Box 3 calculation for that year's return. After that, close and withdraw.
+
+### DEGIRO when you leave
+
+DEGIRO is slightly more flexible — it's available to EU residents, not just Dutch residents. If you move to another EU country, you can potentially keep your DEGIRO account and update your address. This avoids a forced liquidation event.
+
+If you move outside the EU, DEGIRO will ask you to close or transfer your account. Transfers to another broker are possible in principle but can be administratively slow.
+
+**Planning tip:** If you're on a temporary kennismigrant permit and uncertain how long you'll stay, this portability question matters. DEGIRO's broader EU coverage is a concrete advantage if there's any chance you'll move within Europe rather than back home.
+
+## Box 3 Optimisation: Making the Most of Each Platform
+
+Under the current Dutch Box 3 system (2026), investments are taxed on a deemed return — not your actual return — at a rate of approximately 36% on the deemed amount. The deemed return rate on investments is around 6.04%.
+
+**Practical implication:** On a €50,000 investment portfolio, your deemed investment return is roughly €3,020. Tax owed: approximately €1,087. This is the same regardless of whether you made a profit or a loss that year.
+
+Both Meesman and DEGIRO report your 1 January portfolio value to you (not automatically to the Belastingdienst). You enter this in your tax return.
+
+**Where Meesman has a reporting advantage:** Meesman provides a single clear document showing your 1 January fund value. DEGIRO's tax overview covers individual positions — more detailed but requires care if you hold multiple ETFs.
+
+**Heffingsvrij vermogen:** The first €57,684 of combined net assets (savings + investments, per person in 2026) is exempt from Box 3. If your total assets including savings are below this threshold, you owe no Box 3 tax at all. Many expats who've recently arrived are still in this range.
+
 ## The eToro Option
 
 For expats who also want exposure to crypto alongside equities, or who are interested in social trading, [eToro Review for Expats Netherlands 2026](/blog/etoro-review-expats-netherlands-2026/) is worth reading. eToro is a different kind of platform — USD-denominated and with more fees — but it covers asset classes that Meesman and DEGIRO don't.

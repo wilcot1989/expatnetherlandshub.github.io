@@ -208,6 +208,29 @@ If you are applying for a Dutch driving licence or renewing one, a vision test i
 
 ---
 
+## Buying Glasses and Contacts Online in the Netherlands
+
+Dutch opticians — particularly the budget chains — provide good value in-store, but online is often cheaper still for contacts and even for glasses once you have a valid prescription.
+
+**Contact lenses online:** Lensdirect.nl, OptiCien.nl, and Vision Direct (a UK chain operating in the Netherlands) offer competitive prices. You need a valid prescription — typically one issued within the last 12–24 months. Prices for daily disposables online can be 20–30% cheaper than in-store, particularly for standard prescriptions.
+
+**Glasses online:** Mister Spex (operates in the Netherlands), Clearly (international), and several Dutch optical websites offer prescription glasses. Prices for standard single-vision glasses can start below €50. The limitation is that you cannot try frames on before ordering — most online retailers have a home try-on programme or a 30-day return policy to compensate for this.
+
+**When to stick with in-store:** For progressive/varifocal lenses, highly complex prescriptions (high powers, strong astigmatism), or if you want professional fitting advice — particularly for children — in-store service is worth the premium.
+
+## Claiming Your Supplementary Insurance Contribution
+
+The mechanics of claiming back your glasses or contact lens costs are simple but easy to forget.
+
+1. After buying glasses or contacts at an optician, keep the itemised receipt (factuur). This must show your name, the practice name, the date, and the amount paid — some insurers also want the practitioner's AGB code.
+2. Log into your insurer's portal (MijnCZ, MijnZilverenKruis, MijnMenzis, etc.).
+3. Locate the declaratie (claim) section and submit the receipt as an image or PDF.
+4. Most insurers process claims within 5–10 working days and transfer the contribution to your bank account.
+
+Some opticians offer direct billing to your insurer — ask before you complete your purchase whether this is available. Direct billing is more common at larger chains than independent practices.
+
+One note on timing: if you buy glasses in December and want to use your current year's contribution rather than next year's, submit the claim before 31 December. Most insurers use the purchase date to determine which annual allowance it falls under.
+
 ## Summary
 
 Eye care in the Netherlands is well-organised, accessible, and generally affordable. Opticians are easy to find, direct access means no GP referral for routine care, and English-speaking service is available in most major cities.

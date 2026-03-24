@@ -251,6 +251,50 @@ VGZ's customer service is Dutch-first, with English available but not prominentl
 
 ---
 
+## VGZ and Mental Health Care: What Expats Need to Know
+
+Mental health care access is one of the most common concerns among expats, and VGZ's approach deserves specific attention.
+
+Under VGZ's basic insurance, mental health care (GGZ) follows the standard Dutch model: your GP refers you to a basic GGZ professional (for mild to moderate issues) or specialist GGZ (for more serious conditions). The basic policy covers up to three years of mental health treatment with appropriate clinical justification.
+
+**The waiting list problem.** This is not specific to VGZ — it affects all Dutch insurers. Contracted GGZ providers in the Netherlands have waiting lists of six to eighteen months in many areas. VGZ has made some effort to address this through digital mental health pathways (online therapy platforms) and some partnerships, but the fundamental supply problem persists.
+
+**Private and English-language therapists.** Many expats prefer to see an English-speaking therapist who works privately rather than through the contracted GGZ referral system. Under VGZ's standard Bewust Zorgpolis (naturapolis), non-contracted providers are reimbursed at a lower rate (75–80% of the NZa tariff). Under the Ruime Keus Polis (restitutiepolis), any registered Dutch therapist is reimbursed at the full rate.
+
+If mental health support matters to you and you want the flexibility to choose your own English-speaking therapist, the Ruime Keus Polis at approximately EUR 156–162/month gives you this. The additional EUR 10–15/month over the Bewust Polis buys you meaningful clinical flexibility.
+
+## VGZ for Healthcare Workers (IZZ Sub-Brand)
+
+If you work in the Dutch healthcare sector — hospitals, clinics, care homes, mental health facilities — the IZZ sub-brand is specifically designed for you.
+
+IZZ offers:
+- Specific supplementary packages tailored to healthcare professionals, including some coverage for professional development health assessments
+- A dedicated contracted network for healthcare worker mental health and burnout prevention (relevant given the sector's known stressors)
+- In some cases, priority access agreements with occupational health services
+
+If your employer is an IZZ-affiliated healthcare organisation, the collective discount can be substantial. Ask your HR department specifically about IZZ and whether your employer has a group arrangement.
+
+## The Employer Collective Scheme Decision
+
+This is worth thinking through carefully because the numbers matter.
+
+**Scenario 1: Your employer offers a 10% collective VGZ discount.**
+Standard VGZ Bewust Polis: EUR 148/month → Discounted: EUR 133/month.
+Annual saving vs standard price: EUR 180.
+Annual saving vs cheapest comparable policy (e.g., Menzis, EUR 143/month): EUR 120.
+
+In this scenario, the collective scheme is a real saving. Take it.
+
+**Scenario 2: Your employer offers a 5% collective VGZ discount.**
+Standard VGZ Bewust Polis: EUR 148/month → Discounted: EUR 141/month.
+Annual saving vs cheapest comparable policy: approximately EUR 24.
+
+In this scenario, the saving is marginal. Compare carefully before defaulting to the employer scheme.
+
+**What often gets missed:** Some employer collective schemes include supplementary insurance at discounted rates too. If your employer's VGZ arrangement includes a supplementary package (dental, physio) at a meaningful discount, the combined saving is often more substantial than the basic policy discount alone.
+
+Always ask HR: "Does the collective scheme apply to supplementary insurance as well as the basic policy?"
+
 ## My Verdict
 
 VGZ is a reliable choice for expats when one of two conditions applies: your employer offers a VGZ collective scheme with a meaningful discount, or you are in a professional group (healthcare, government) for whom the IZZ or IZA sub-brands are particularly relevant.

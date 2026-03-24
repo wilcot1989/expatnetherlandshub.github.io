@@ -170,6 +170,32 @@ If you leave the Netherlands, contact your insurer before you go. Policies vary:
 
 If your policy is mortgage-linked and you've sold the property, you may be able to convert it to a standalone policy or cancel it (check if there is a surrender value, though most term policies have none).
 
+## Real Scenarios: When Life Insurance Actually Matters
+
+I find it helps to think in concrete situations rather than abstract advice.
+
+**Scenario 1: The expat couple buying their first Dutch home.** Kai and Priya are both on a €450,000 mortgage. The bank requires both of them to have life insurance for the loan to proceed. They each take out a dalende overlijdensrisicoverzekering matching the mortgage term. Kai is 34, non-smoker: €14/month. Priya is 31, non-smoker: €11/month. Total: €25/month for both — a small insurance cost relative to the mortgage. If either of them dies, the mortgage is paid off and the survivor can stay in the home.
+
+**Scenario 2: The self-employed expat with children in school.** Marta is a ZZP-er running a freelance design business, earning €80,000/year. Her husband is the primary carer for their two children. There is no employer pension or death-in-service benefit. If Marta dies, her husband has no income for potentially years while the children are young. A 20-year level-term policy for €400,000 — approximately €30/month at age 38 — covers this gap. The payout isn't for the mortgage (rented); it's to replace her income while the children grow up.
+
+**Scenario 3: The single expat on a temporary contract.** David is 29, single, renting in Amsterdam, no dependents, a modest savings account. He has no immediate need for life insurance. His employer provides death-in-service benefit of 3x salary through the company pension scheme — enough to handle any debts. Taking out an additional personal policy would be an unnecessary cost at his current life stage.
+
+**Scenario 4: The expat supporting family abroad.** Amara sends €500/month to her parents in Ghana. If she dies, they lose this income. She has no Dutch mortgage and rents her apartment. A modest 15-year level-term policy for €100,000 — about €8/month at age 32 — would provide her family with buffer time to adjust if the worst happened.
+
+None of these scenarios are edge cases — they represent the range of expats I speak to regularly. Your situation likely fits one of these patterns.
+
+## How to Work Out How Much Cover You Need
+
+A useful starting point is to calculate what financial obligations and income flows would be disrupted by your death.
+
+**For mortgage cover:** The outstanding mortgage balance at policy inception is the floor. Many people add a buffer of 10–20% to cover transaction costs, moving costs, and adjustment time.
+
+**For income replacement:** If you have dependents, consider how many years of income they would need replaced. A common approach is (years until children are independent or partner could re-enter the workforce) × (annual income). A 35-year-old with young children might calculate 15–20 years × €50,000 = €750,000–€1,000,000. That sounds large but the premiums remain relatively affordable at that age.
+
+**For remittance-dependent family:** Calculate the monthly amount × 12 × the number of years you'd want them protected. €500/month × 12 months × 15 years = €90,000.
+
+Policies can be combined or staged — you don't have to get everything in one policy.
+
 ## Action Steps
 
 1. Assess whether you need life insurance (see checklist above)
