@@ -150,7 +150,7 @@ As an expat, you likely travel more than average — visiting home, exploring Eu
 
 **World coverage including USA:** Add €20-€50/year for worldwide coverage. A must if you visit the US or Canada where medical costs are extremely high.
 
-For international travel insurance that works globally, SafetyWing Nomad Insurance offers flexible monthly coverage starting at $45/month — ideal for expats who travel frequently or work remotely.
+For international travel insurance that works globally, SafetyWing Nomad Insurance offers flexible monthly coverage starting at $45/month — ideal for expats who travel frequently or work remotely. I personally keep a travel insurance policy active year-round because the Dutch basic health insurance has very limited coverage outside Europe, and a single emergency room visit in the United States can easily cost $10,000 or more without coverage.
 
 <a href="https://safetywing.com/nomad-insurance/?referenceID=26482728" target="_blank" rel="noopener nofollow sponsored" class="cta-affiliate">Get SafetyWing Nomad Insurance from $45/month →</a>
 

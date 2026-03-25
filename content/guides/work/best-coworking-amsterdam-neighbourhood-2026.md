@@ -156,7 +156,7 @@ Amsterdam Noord was long considered peripheral — the neighbourhood across the 
 
 ### NDSM Wharf (NDSM-werf)
 
-NDSM is a vast former shipyard on the north bank of the IJ. It is roughly 15 minutes by free ferry from Central Station — this is important context. You arrive by water, look out at Amsterdam across the river, and work in what feels like a different world.
+NDSM is a vast former shipyard on the north bank of the IJ. It is roughly 15 minutes by free ferry from Central Station — this is important context. You arrive by water, look out at Amsterdam across the river, and work in what feels like a different world. The ferry runs every few minutes during peak hours and is completely free, making it one of the most pleasant commutes in the city. Many expats who work here say the ferry ride is their favourite part of the day — a short pause between home and work that clears the head better than any meditation app.
 
 The coworking offering at NDSM is distributed across several buildings and operators:
 

@@ -153,7 +153,7 @@ Your insurer has contracted agreements with specific hospitals, clinics, and spe
 **Restitutiepolis (reimbursement policy):**
 You can use any registered Dutch healthcare provider and be reimbursed at the full NZa rate regardless of whether they are contracted. This gives you more flexibility but premiums are higher. ONVZ and some CZ policies are restitutieverzekeringspolissen.
 
-**For most expats:** A standard naturaverzekering is fine as long as you check that the hospitals in your area are contracted. If you are in Amsterdam or Rotterdam, nearly all major hospitals are contracted by all major insurers.
+**For most expats:** A standard naturaverzekering is fine as long as you check that the hospitals in your area are contracted. If you are in Amsterdam or Rotterdam, nearly all major hospitals are contracted by all major insurers. If you live in a smaller town or rural area, double-check coverage for your nearest hospital and specialist clinic before committing to a policy — this is especially relevant if you need regular specialist care or have a chronic condition that requires frequent visits.
 
 ---
 

@@ -154,7 +154,7 @@ Here is the practical sequence I recommend for expats who are new to the country
 Use the WeWork or Spaces app to access a day pass without commitment. These apps work immediately with a credit card and give you access to any location in their network globally. This buys you time to assess commute routes and neighbourhoods before making any commitment.
 
 **Week 3–4: Narrow to 2–3 candidates**
-Based on your home location (once you have found accommodation) and your typical work week, identify two or three spaces that could work. Most operators offer a free trial week or a discounted first month — request these. This is standard practice in the Dutch coworking market and no legitimate operator will refuse.
+Based on your home location (once you have found accommodation) and your typical work week, identify two or three spaces that could work. Most operators offer a free trial week or a discounted first month — request these. This is standard practice in the Dutch coworking market and no legitimate operator will refuse. During this trial period, pay attention to the internet speed at different times of the day, the noise level during busy hours, and whether the coffee is actually drinkable — these small details matter enormously when you are there every day.
 
 **Month 2: Commit on a monthly cancellable basis**
 Once you have found the right space, sign up for a monthly membership with monthly cancellation. Avoid annual contracts until you are genuinely certain the location, community, and amenities work for your situation. Dutch coworking contracts are generally monthly cancellable, but some operators offer discounts for longer commitments — only take these after you have verified the space works for you.
