@@ -290,6 +290,60 @@ That combination covers all the bases without over-complicating things.
 
 ---
 
+## Practical Scenarios: What I Recommend for Specific Situations
+
+After ten years of managing multi-currency finances in the Netherlands and helping dozens of clients set up their financial infrastructure, some recurring scenarios deserve specific answers.
+
+### Scenario: You are arriving in the Netherlands next month and need to receive your first salary
+
+Open Wise before you land. Set up your euro balance and get your European IBAN in the Wise app. Send the IBAN details to your employer's HR department as soon as you have a start date. In most cases, it will work for salary receipt.
+
+Once you have been in the Netherlands for a few weeks and have your BSN, open an ING or ABN AMRO account as your permanent Dutch primary account. Switch your salary payment IBAN once the Dutch account is confirmed working.
+
+This two-step approach means you do not miss a salary payment while waiting for a Dutch bank card to arrive in the post.
+
+### Scenario: You send money home to India, Ghana, or the Philippines every month
+
+Use Wise for every transfer. The exchange rates are consistently better than Revolut for Indian rupee, Ghanaian cedi, and Philippine peso transfers. The transparent fee structure makes budgeting predictable — you know exactly what you are paying before you confirm.
+
+Revolut is an acceptable alternative for this use case if you are on a paid plan and stay within the monthly FX limit, but the weekend markup will catch you eventually. Most people who send money home regularly end up on Wise once they have done the comparison.
+
+### Scenario: You travel frequently for work and want one card for everything international
+
+Revolut Premium or Metal makes the most sense. The bundled travel insurance covers the major risks (medical, trip cancellation, baggage), the unlimited FX on Premium is genuinely useful, and the budgeting tools help track what you are spending on the road.
+
+Supplement with Wise for any large single transfers abroad that exceed a comfortable size for Revolut's limits.
+
+### Scenario: You receive a UK pension or income and want to manage it alongside your Dutch euro account
+
+Wise is purpose-built for this. Open your Wise account, activate both the GBP and EUR balances, and give your UK pension provider your Wise GBP account details (sort code and account number). The pension lands in your Wise GBP balance, you convert to EUR when the rate suits you, and pay Dutch bills directly from your euro balance.
+
+Revolut handles this too, but Wise's GBP-to-EUR conversion is cheaper (no weekend markup, consistent rate) and the GBP account details are more universally accepted by UK payment systems than Revolut's.
+
+### Scenario: You are leaving the Netherlands and need to manage a transition period
+
+Keep your Wise account open after you leave — it has no minimum balance requirement, no monthly fee, and works from any country. You can manage remaining Dutch direct debits, receive any Belastingdienst refunds, and handle the administrative tail of your Dutch financial life from abroad.
+
+For your Dutch bank account (ING or ABN AMRO), plan the closure carefully — liquidate any linked products, update any direct debits to your new bank, and formally close rather than abandoning.
+
+---
+
+## The Bigger Picture: What Your Banking Stack Should Look Like
+
+For most expats in the Netherlands, the optimal financial setup in 2026 is not one tool but a small stack of complementary ones. Here is what I actually use and recommend:
+
+**Tier 1 — Dutch daily banking:** ING or ABN AMRO for iDEAL, Tikkie, and anything that specifically requires a Dutch IBAN. Free (or EUR 2.45/month) and handles all Dutch-specific payment requirements.
+
+**Tier 2 — International transfers:** Wise for all non-SEPA transfers. No monthly fee, consistent mid-market rate, European IBAN useful as a secondary euro account when traveling within the EU. Keep a small balance to handle any international payments quickly.
+
+**Tier 3 — Travel spending (optional):** Revolut Standard (free) as a travel card with a few hundred euros loaded before each trip. Good for budgeting travel spend separately and useful if you want the investment features.
+
+Total monthly cost of this stack: EUR 2.45 (Dutch bank) + EUR 0 (Wise) + EUR 0 (Revolut Standard) = EUR 2.45/month for comprehensive financial coverage.
+
+Upgrade Revolut to paid if you travel more than 6 times a year and value the insurance. Upgrade ING to Oranje Pakket or ABN AMRO to Comfort if you want the bundled insurances — but evaluate those separately against standalone policies.
+
+---
+
 ## Related Guides
 
 - [Best bank accounts for expats in the Netherlands 2026](/guides/finance/best-bank-account-expats-netherlands-2026/)

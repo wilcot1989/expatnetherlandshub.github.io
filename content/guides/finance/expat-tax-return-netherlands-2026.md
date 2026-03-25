@@ -276,6 +276,69 @@ For context on how pension income, foreign income, and Dutch earnings interact a
 
 ---
 
+## After the Assessment: Understanding Your Belastingdienst Letter
+
+Most expats file their return and then wait anxiously for a letter from the Belastingdienst. Here is what to expect and what the different letters mean.
+
+### Provisional vs Final Assessment
+
+After filing, you typically receive a provisional assessment (voorlopige aanslag) within a few weeks. This is based on your filed return but not yet fully checked. If there is a refund, it often arrives 6-8 weeks after you file — but the timing varies depending on how busy the Belastingdienst is. If you filed before May 1, your refund typically arrives in July.
+
+The final assessment (definitieve aanslag) comes later — sometimes months later, occasionally over a year later for complex returns. The Belastingdienst has up to three years after the tax year to issue a final assessment, and up to 12 years for international situations. Do not discard any letters from the Belastingdienst even after you have received your refund.
+
+### When the Final Assessment Differs from What You Filed
+
+If the Belastingdienst disagrees with something in your return — a deduction they do not accept, an income figure that does not match their records — you will receive a corrected final assessment. This may mean you owe additional tax, or in rare cases, an additional refund.
+
+Read the letter carefully. If the difference is large or you do not understand the reason, contact the Belastingdienst or your tax advisor immediately. Do not ignore it.
+
+### Objecting to an Assessment (Bezwaar)
+
+You have **six weeks** from the date of the assessment to file a formal objection (bezwaar). After that, the assessment becomes final and can only be challenged through a tax court (rechtbank), which is expensive and time-consuming.
+
+To file a bezwaar:
+1. Log in to Mijn Belastingdienst
+2. Go to your assessment and click "Maak bezwaar" (file objection)
+3. Explain the reason for the objection and attach supporting documents
+4. The Belastingdienst must respond within 6 weeks (though extensions are common)
+
+Most bezwaar cases involve disagreements over deductions — healthcare costs, home office deductions, or foreign income treatment. Having all your receipts and documentation ready before you file avoids most of these issues.
+
+---
+
+## Pre-Filing Checklist: What to Have Ready
+
+Before you sit down to file in March or April, gather these documents. Missing any of them mid-session adds frustrating delays.
+
+**Identity and access:**
+- DigiD username and password — test it before March, not on the day you plan to file
+- Your BSN (citizen service number) — on your residence card or payslip
+
+**Income documents:**
+- Jaaropgave from each employer — your annual income statement, usually issued by end of February. If you had multiple employers in 2025, you need a jaaropgave from each
+- Uitkering jaaropgave if you received unemployment (WW), disability benefits, or other UWV/SVB payments
+- ZZP annual accounts and VAT returns (if self-employed)
+- Documentation of any foreign income (payslips, tax certificates from abroad)
+
+**Savings and investments (Box 3):**
+- Bank account balances on 1 January 2025 — specifically the first of January, not the most recent statement
+- Investment account statement as of 1 January 2025
+- Foreign savings account balances and investment values (unless you elected partial non-resident status)
+
+**Deductions:**
+- Mortgage annual statement (hypotheekoverzicht) if you own property
+- Pension contribution receipts (lijfrente) if you made voluntary contributions
+- Charitable donation receipts to ANBI-registered organisations
+- Healthcare expense receipts above the EUR 143 threshold
+- Study cost receipts for work-related education
+
+**30% ruling:**
+- Your ruling decision letter — you need the reference number and start/end date
+
+Filing without these documents will either produce an incomplete return or force you to come back later. Set aside an hour in February to pull everything together before the portal opens in March.
+
+---
+
 ## Explore More Expat Guides
 
 - **[Dutch Tax System for Expats](/guides/finance/dutch-tax-system-expats-guide-2026/)** — Tax overview

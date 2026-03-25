@@ -300,3 +300,43 @@ Yes. TIAS Executive MBA, Amsterdam Business School MBA, and Nyenrode all offer p
 ### How is the job market for MBA graduates in the Netherlands?
 
 Solid, particularly for international graduates with European career goals. The Netherlands has a large concentration of multinational headquarters and is one of the most open economies in Europe to international talent. However, many corporate roles require Dutch language skills beyond entry level. The orientation year visa gives you time to find the right role without pressure.
+
+---
+
+## Planning Your Budget: Year One in Detail
+
+One area MBA prospectus materials consistently understate is the total first-year cost when you include all setup expenses. Here is a realistic breakdown for an international student starting a full-time MBA in Rotterdam.
+
+**Before You Arrive:**
+- Visa/residence permit: EUR 210 (IND fee, non-EU students)
+- Apostilles and document translations: EUR 100-300
+- Health insurance for the programme period: varies
+- Flight and shipping: EUR 500-2,000 depending on distance
+
+**First Month Costs:**
+- Housing deposit (typically 1-2 months rent): EUR 1,400-2,000
+- First month's rent: EUR 700-1,000
+- Bike purchase: EUR 100-200 (secondhand — do this in the first week)
+- Dutch phone SIM and setup: EUR 10-30
+- Basic household items: EUR 200-400
+
+**Ongoing Monthly Budget (Rotterdam, modest lifestyle):**
+- Rent and utilities: EUR 700-900
+- Food and household: EUR 300-400
+- Transport (OV-chipkaart, occasional trains): EUR 50-100
+- Phone: EUR 15-25
+- Healthcare excess (eigen risico) if needed: amortised monthly
+- Study materials, printing, expenses: EUR 50-100
+- Social and entertainment: EUR 100-200
+
+Monthly total: approximately EUR 1,215-1,725. Annual: EUR 14,580-20,700.
+
+**Adding tuition** (RSM full-time, one year): EUR 53,000.
+
+**Total first-year cost including living:** approximately EUR 67,000-74,000. Compared to a comparable one-year programme at LBS or INSEAD, this represents meaningful savings, with broadly equivalent academic quality for European career goals.
+
+### Managing Money Across Currencies
+
+Most international MBA students manage money from two directions: funds from home (in home currency) to pay living costs and supplement savings, and tuition payments in EUR. Using your home country bank's international transfer service for this is expensive — conversion fees of 2-4% on repeated transfers add up to thousands of euros over the year.
+
+I recommend setting up a <a href="https://wise.com/invite/ihpc/willemt52" rel="noopener nofollow sponsored" class="cta-affiliate">Wise account</a> for all international transfers. The real mid-market exchange rate and low transparent fees (typically 0.4-1%) mean that on a EUR 5,000 tuition payment from USD or GBP, you save EUR 100-200 compared to a bank wire. Over a full year of monthly transfers, the savings cover a few weeks of rent. Wise also allows you to hold your emergency buffer in multiple currencies — useful if your family is sending financial support from abroad and you want to keep some in your home currency while converting to EUR as needed for monthly expenses. The Wise debit card works everywhere in the Netherlands and across the Schengen Area, which is useful for study trips and conference travel included in many MBA programmes.

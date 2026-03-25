@@ -241,6 +241,96 @@ Cash is still widely used in Japan, particularly outside major cities. ATMs at c
 
 **Expats choose Japan** for a unique cultural experience, exceptional food, safety, and a high quality of life in a context that feels genuinely different from Western norms. Many who move there describe it as life-changing. The challenges are real, but so is the reward for those who engage with them seriously.
 
+## Practical Guide for Expats Making the Move
+
+### The First 90 Days in the Netherlands
+
+When you arrive in the Netherlands, there is a well-defined sequence of administrative steps to work through. Understanding this sequence in advance removes a lot of stress.
+
+**Week 1–2:**
+- Move into your accommodation (if you secured it before arrival) or into temporary furnished housing
+- Register at the gemeente (municipal office) — bring your passport, rental contract or registration address proof
+- You will receive a BSN (burgerservicenummer) — this number unlocks everything else
+
+**Weeks 2–4:**
+- Open a Dutch bank account using your BSN (ING, ABN AMRO, or bunq are the most common expat choices)
+- Arrange Dutch health insurance (basisverzekering) — you have 4 months from arrival before fines apply, but do it earlier
+- Register with a local GP (huisarts) — bring your BSN and health insurance card
+- If you have a 30% ruling, your employer will handle the application, but confirm the process with HR
+
+**Month 2–3:**
+- Set up direct debits for utilities and rent from your Dutch account
+- If relevant: register children at a local school (contact the gemeente for school placement assistance)
+- Begin exploring DigiD registration for government digital services
+
+The Dutch system is methodical. Once you have your BSN, each subsequent step follows logically. The typical total setup time from arrival to fully functioning daily life is 4–6 weeks.
+
+### The First 90 Days in Japan
+
+Japan has a different administrative rhythm. The bureaucratic steps are more numerous and language-dependent than in the Netherlands.
+
+**Pre-arrival:**
+- Your Japanese employer will typically prepare the Certificate of Eligibility (CoE) — this document allows you to get your work visa at a Japanese consulate in your home country
+- Getting the CoE can take 1–3 months; budget this time into your planning
+
+**On arrival:**
+- Present your CoE and visa at immigration; receive a Residence Card (在留カード / Zairyu Card) at a major airport
+- Register your address at the local city office (市役所 / shiyakusho) within 14 days — bring your Residence Card and passport
+- Register for health insurance: your employer handles shakai hoken (social health insurance) for company employees; self-employed individuals register for kokumin kenko hoken at the city office
+- Open a Japanese bank account: Japan Post Bank is accessible for new arrivals; major commercial banks (MUFG, SMBC) are harder to open in the first months. Bring your Residence Card, registered address certificate (juminhyo), and a seal (hanko) or signature
+
+**The language barrier in bureaucracy:** Many Japanese administrative forms are only in Japanese. Larger city offices (particularly in Tokyo's Shinjuku, Minato, or Shibuya wards) have multilingual support desks for foreigners. Smaller cities may not. Having a Japanese-speaking colleague or friend available for the first few administrative steps is genuinely valuable.
+
+---
+
+## Pensions and Long-Term Retirement Planning
+
+### Netherlands
+
+All employees in the Netherlands are enrolled in a state pension (AOW) if they are insured under Dutch social security. The AOW pays based on years of residency in the Netherlands between ages 15 and the state pension age (currently 67 years). Each year in the Netherlands represents 2% of the full AOW amount.
+
+For expats who stay in the Netherlands for 10 years, that is 20% of the full AOW — a modest supplement. For those who stay long-term (20–30 years), it becomes meaningful.
+
+Additionally, most employers contribute to sectoral pension funds (bedrijfspensioenfonds) — participation is typically mandatory by sector. Contributions are split between employer and employee. The Dutch pension system is considered one of the world's strongest.
+
+For expats who eventually leave the Netherlands, AOW entitlements are kept and paid (pro-rata) at pension age, even if you retire outside the Netherlands. This is an underappreciated long-term benefit.
+
+**For investing outside the pension system:** see our earlier comparison of [Meesman vs DEGIRO](/blog/meesman-vs-degiro-investing-2026/) and [best ETF platforms in the Netherlands](/blog/best-etf-platforms-netherlands-expats-2026/).
+
+### Japan
+
+Japan has a national pension system (kosei nenkin hoken for employees; kokumin nenkin for self-employed). All registered residents under 60 are required to contribute. Monthly contributions for kokumin nenkin are approximately ¥16,590 (€100). Pension benefits are paid from age 65.
+
+For expats, Japan has a lump-sum withdrawal payment system: if you leave Japan and are not eligible for a pension (less than 10 years of contributions), you can apply for a lump-sum withdrawal of your contributions within 2 years of leaving. The refund covers a percentage of your contributions — typically 3–5 years' worth depending on contribution period. This is an important financial planning point for short-to-medium-term expats in Japan.
+
+Japan has social security totalization agreements with various countries that allow pension years to be combined for eligibility purposes. Check whether your home country has such an agreement.
+
+---
+
+## Summary Scenarios: Who Should Choose Which?
+
+Rather than repeating the abstract comparison, here are practical scenarios based on the expats I have spoken with.
+
+**Scenario: Software engineer, 30 years old, single, international company offer**
+
+- If the offer is in Amsterdam at EUR 70,000 with 30% ruling: excellent net pay, immediate English-language environment, straightforward integration, cycling lifestyle
+- If the offer is in Tokyo at ¥8,000,000 (~€49,000): lower net pay in EUR terms, challenging language environment, exceptional food and cultural richness, complex visa renewal process
+- **Verdict:** For career-focused single expats early in their career, both work well. Japan rewards those with genuine interest in the language and culture; the Netherlands rewards those who want the most efficient path to a high-earning, internationally integrated European life.
+
+**Scenario: Couple, one working, one planning to freelance or stay home, children likely in 2–3 years**
+
+- Netherlands: English-friendly environment for the non-working partner, accessible Dutch state schools when children arrive (with some Dutch learning), one of the world's best child wellbeing environments
+- Japan: Non-working partner will need Japanese to function independently in daily life; international schools are expensive for eventual children; but Japan's safety and quality-of-life for families is exceptional
+- **Verdict:** Netherlands is generally more accessible for this scenario; Japan rewards couples who are both committed to language learning and cultural immersion.
+
+**Scenario: Retiree or semi-retired, fixed income, no employer**
+
+- Netherlands: requires a pension-based long-stay visa or EU citizenship; no dedicated retirement visa; healthcare costs are manageable but mandatory; excellent quality of life
+- Japan: the ¥8,000,000 balance for non-working residents in some visa categories; limited direct retirement visa, but various options for financially independent long-stay; healthcare is exceptional value once enrolled
+- **Verdict:** For retirees specifically, Japan has more practical long-stay flexibility than the Netherlands for non-EU citizens.
+
+---
+
 ## Internal Resources
 
 - [Netherlands vs Nigeria for Expats 2026](/blog/netherlands-vs-nigeria-expats-2026/)

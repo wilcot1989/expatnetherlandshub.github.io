@@ -118,6 +118,46 @@ Moving to Tilburg requires a few first steps. Here are the most important ones:
 
 **Plan your budget** — Use our free [cost of living calculator](/tools/cost-of-living-calculator/) and [housing budget checker](/tools/housing-budget-checker/) to see what you can afford in Tilburg.
 
+## Expat Community & Social Life
+
+Tilburg's expat community is smaller and less visible than in Eindhoven or Den Bosch, but it has a specific academic and creative character that works well for the people who fit into it. The university drives the professional expat side; the creative sector draws artists, designers, and cultural practitioners from outside the Netherlands who come for the studio spaces and the relatively affordable rents.
+
+Tilburg University's International Office organises events and settling-in support for incoming staff and their families. The TIAS Business School community — professionals coming for MBA programmes or executive education — creates a separate but connected network of international residents, often mid-career and settling for one to two years.
+
+The creative community centred on the former textile factory spaces is genuinely active. The 013 music venue is one of the better places in the Netherlands for live music in the mid-range (not just the mainstream festival circuit), and the De Pont museum for contemporary art is excellent — a former factory building with a permanent collection that would be credible in Amsterdam. These amenities matter for quality of life in ways that do not show up in rent comparisons but are real.
+
+Tilburg's carnaval (February) is celebrated enthusiastically — the city calls itself Kruikenstad during carnaval week, a local nickname with a long history. For new residents, the carnaval is worth attending; it provides a kind of accelerated immersion into local culture and the Brabant warmth that the rest of the year offers more gradually.
+
+## Schools and Families
+
+Tilburg has limited international school provision. Tilburg University's International Office can advise on the practical options for children of incoming staff. For secondary-level international education, the International School of Eindhoven (30 minutes away) is the most commonly referenced option.
+
+At primary level, the university's stable international community has meant that several schools in the Oud-Noord area near the campus have experience with non-Dutch speaking children arriving mid-year. The school support for Dutch language learning (taalschakelklas) is available in several Tilburg schools and is a well-used route for families planning a multi-year stay.
+
+Families in Tilburg consistently cite the housing supply as a strong positive. A family home with a garden in Reeshof costs a fraction of an equivalent in Utrecht or The Hague. For families coming from expensive cities elsewhere in Europe, the difference is striking. The Reeshof sports infrastructure — multiple sports clubs, good schools, well-maintained parks — makes it one of the more family-practical areas in the southern Netherlands.
+
+## Housing Search: Practical Advice
+
+Tilburg's rental market is among the more accessible in the Netherlands. Demand from students is significant at the lower end but the professional rental market is less pressurised than in the Randstad or even Eindhoven.
+
+Pararius and Funda are the main national platforms. Local Tilburg agencies — Rotsvast Tilburg, ERA Tilburg — have area-specific knowledge and sometimes have listings that appear ahead of the national platforms. The university's housing service for incoming staff maintains contacts with private landlords who regularly rent to international academics.
+
+The Reeshof district has the best supply of family homes in the city, though the bus connections to the centre and station matter more here than in the central neighbourhoods. The Oud-Noord and Stappegoor areas offer a good balance between proximity to the university and neighbourhood character.
+
+One practical consideration: Tilburg has a high proportion of social housing (Tiwos and WonenBreburg are the main housing associations), and some buildings mix private rental and social housing. This is not a negative in itself, but it is worth knowing when you are evaluating an area.
+
+## Settling In: The First Month
+
+1. Secure housing with landlord permission for municipality registration
+2. Book registration at Gemeente Tilburg — Stadskantoor on Stadhuisplein, appointments via tilburg.nl; typically 1–3 weeks wait
+3. Receive BSN at the appointment
+4. Open Dutch bank account
+5. Register for health insurance immediately
+6. Register with a GP — English-speaking practices available in the university neighbourhood and Centrum; university staff have the option of healthcare connected to the campus
+7. Apply for DigiD after receiving BSN
+
+Tilburg University's International Office provides guided support for academic arrivals that covers the full first-month sequence. If you are arriving through the university, contact the International Office before you arrive — they can advise on the most efficient order and help avoid common delays.
+
 ## Related Guides
 
 - [Finding Housing in the Netherlands](/guides/housing/finding-housing-netherlands-expats-2026/)

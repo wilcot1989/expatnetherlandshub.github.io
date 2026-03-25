@@ -320,6 +320,96 @@ Run a comparison on Independer with your specific situation in mind: your region
 
 ---
 
+## Navigating VGZ's Contracted Provider Network
+
+For expats choosing between a VGZ naturapolis and the Ruime Keus restitutiepolis, the practical question is: which healthcare providers matter to you, and are they contracted?
+
+**How to check contracted providers:** VGZ's zorgzoeker tool (on vgz.nl and in the app) lets you search by provider name or postcode and specialty. This is worth using before committing. Enter your home postcode, select the specialty you might need (huisarts, fysiotherapeut, ziekenhuis), and see what is available.
+
+**Practical findings from the VGZ network in major expat cities:**
+
+Amsterdam: All major hospitals (AMC, VUmc, OLVG, Slotervaart) are contracted. The density of contracted physiotherapists and mental health providers in Amsterdam is generally good on the main VGZ policy.
+
+Rotterdam: Erasmus MC and Maasstad are contracted. Most regional hospitals contracted.
+
+Utrecht: UMC Utrecht and Diakonessenhuis contracted. Dense urban network.
+
+Eindhoven: Catharina Ziekenhuis and Máxima MC contracted.
+
+**Where it gets more relevant:** The naturapolis vs restitutie choice matters most for specialist outpatient care at smaller clinics, mental health providers, and physiotherapy. For hospital stays and standard GP care, the practical coverage is similar regardless of policy type. For accessing a specific English-speaking therapist who operates privately, the restitutie policy is more relevant.
+
+---
+
+## How VGZ Handles International Expats (30% Ruling Holders)
+
+If you hold the Dutch 30% ruling, VGZ functions the same as any other Dutch insurer for your health insurance obligations. The ruling does not exempt you from the basisverzekering requirement.
+
+What the 30% ruling does affect in the health insurance context:
+
+**After-tax premium cost:** The 30% ruling increases your net income by treating 30% of your gross salary as tax-free. This makes the after-tax cost of health insurance premiums lower in absolute terms relative to your purchasing power, but does not change the nominal premium.
+
+**Zorgtoeslag eligibility:** The 30% ruling is applied to your Dutch taxable income. If your gross salary is relatively modest after the ruling reduces your taxable base, you might be eligible for zorgtoeslag (the health insurance government subsidy) even with a reasonable base salary. The threshold in 2026 is approximately EUR 38,000 taxable income. Worth checking at belastingdienst.nl if your post-ruling taxable income is below this threshold.
+
+**Employer collective schemes and 30% ruling:** Some employer collective health insurance arrangements include contributions from the employer. This employer contribution is a benefit-in-kind and is subject to specific tax treatment. If your employer contributes to your VGZ premium as part of your remuneration package, ask your HR or payroll team how this is treated for tax purposes under the 30% ruling.
+
+---
+
+## Living in a Foreign Country and Dutch Mental Health Support
+
+I write this section because it comes up with expats and is often not addressed in purely financial health insurance reviews.
+
+Living abroad, even in a well-functioning country like the Netherlands, involves real psychological adjustment. Language barrier stress, social isolation during the first months, uncertainty about career progression in a new market, difficulties building friendships, missing family — these are genuine and common. They do not make you unusual; they make you an expat.
+
+Under VGZ, mental health care is covered under the basic insurance following a GP referral. Mild to moderate issues can be handled through the POH-GGZ (mental health support worker at your GP practice) without a long wait. More serious concerns require a referral to Basis GGZ or Specialistische GGZ, where waiting times are longer.
+
+**English-speaking therapists:** Several therapy platforms and individual practitioners in the Netherlands offer English-language sessions. Under VGZ's Ruime Keus Polis (restitutiepolis), any registered therapist is reimbursed at the full NZa rate. Under the Bewust naturapolis, non-contracted English-speaking therapists are reimbursed at 75–80% of the NZa rate.
+
+Some expat-specific English-language therapists in Amsterdam, Rotterdam, and The Hague work specifically with adjustment and transition challenges. Your GP can provide referrals, or you can self-refer to certain providers.
+
+The point I want to make clearly: do not let insurance uncertainty stop you from getting support if you need it. The healthcare system in the Netherlands works. Your insurer, including VGZ, is obligated to cover mental health care that meets clinical criteria. If you are having a hard time, start with your GP.
+
+---
+
+## VGZ Versus Menzis: Which Is Better for Expats?
+
+Both are mainstream national insurers with comparable coverage and moderate English support. Here is the head-to-head:
+
+| Factor | VGZ | Menzis |
+|---|---|---|
+| Premium (restitutiepolis, 2026) | EUR 156–162/month | EUR 155–165/month |
+| Employer collective schemes | Very common | Less common |
+| Regional strength | Nationwide (origin: Limburg/Brabant) | North/East NL |
+| Customer satisfaction | 7.3–7.6/10 | 7.5–7.8/10 |
+| Sub-brands for specific groups | Yes (IZZ healthcare, IZA government) | No |
+| Non-profit | Cooperative | Yes |
+
+Menzis has marginally better customer satisfaction scores and is slightly cheaper on average. VGZ has the employer collective scheme advantage and the sub-brand specialisation.
+
+**My general guidance:** If your employer has a VGZ collective scheme with more than 7% discount, VGZ wins on price. If you are choosing independently, check current premiums on Independer and compare your specific supplementary needs. For expats in Groningen, Enschede, Nijmegen, or Arnhem, Menzis's regional network density is a real advantage. For expats in Maastricht, Eindhoven, or Tilburg, VGZ's original regional roots are an asset.
+
+---
+
+## Understanding the Annual Open Enrollment Calendar
+
+This is the most important piece of timing knowledge for any Dutch health insurance decision, including VGZ.
+
+**Mid-November:** The official comparison season begins. Independer, Zorgwijzer, and other comparison platforms publish finalised 2026 premium data. This is when you get real numbers to compare.
+
+**1 November–31 December:** Open enrollment period. You can switch your basic insurer during this window.
+
+**31 December midnight:** Deadline to switch for the coming year. New policies start 1 January.
+
+**Key dates to note:**
+- If you sign up for VGZ before 15 December, your insurance card typically arrives before 1 January
+- If you sign up after 15 December, your card may arrive in the first weeks of January, but coverage starts 1 January regardless
+- Your new insurer notifies your old insurer; you do not need to cancel separately
+
+**Outside enrollment:** You cannot switch your basic insurer outside the November–December window unless you leave the Netherlands, your insurer ceases trading, or another exceptional circumstance applies. Supplementary insurance switching is slightly more flexible.
+
+**New arrivals:** If you are registering in the Netherlands for the first time, you can take out VGZ (or any insurer) at any time of year. You do not need to wait for open enrollment because you are not switching — you are taking out insurance for the first time.
+
+---
+
 ## FAQ
 
 **Is VGZ a good health insurer for expats in the Netherlands?**

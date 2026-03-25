@@ -368,6 +368,73 @@ N26 is not a bad bank. It is a good European neobank that simply was not designe
 
 ---
 
+## Tax Reporting and Year-End Administration
+
+One area where the two banks diverge in ways expats rarely research before signing up: how each handles Dutch tax reporting.
+
+### Bunq and Dutch Tax
+
+As a Dutch-licensed bank, bunq integrates smoothly with the Dutch administrative system. At year-end, bunq can produce a clear statement of your account balance as of 1 January (the date relevant for Box 3 wealth tax reporting in the Netherlands). This document is straightforward to use when completing your Dutch income tax return via the Belastingdienst website.
+
+Bunq's multi-IBAN setup can actually simplify your tax position if you use separate accounts for different purposes — for example, keeping your investment savings in a dedicated pocket lets you clearly separate taxable assets from operational spending money.
+
+For self-employed expats (ZZP), bunq's business account provides quarterly VAT (BTW) reporting support and clear income tracking — helpful for aangifte (tax return) preparation.
+
+### N26 and Dutch Tax
+
+N26 is a German-regulated bank and its tax reporting processes are designed primarily for German tax authorities. N26 does provide a year-end account summary showing your balance on 31 December (Germany's relevant date), but Dutch Box 3 requires the 1 January balance, not 31 December.
+
+In practice, for most people the balance difference between 31 December and 1 January is negligible — your money is unlikely to move significantly overnight on New Year's Eve. But if precision matters for your tax return, you may need to calculate or estimate the 1 January figure from N26's data, whereas bunq provides it directly.
+
+---
+
+## Overdraft and Credit Features
+
+Neither bunq nor N26 is primarily a credit product, but it is worth knowing what is available.
+
+**Bunq:** Does not offer overdraft on standard accounts. If you spend more than your balance, the transaction will decline rather than go into the red. This is a feature for some users (no accidental debt) and a limitation for others. Bunq does not currently offer consumer credit products.
+
+**N26:** N26 has historically offered overdraft (Überziehungskredit) to eligible users, typically up to EUR 1,000, at a daily interest rate. This is available in some countries but terms vary. Check current N26 availability for Netherlands-based users specifically, as this product has evolved.
+
+For expats who want a credit card alongside their neobank, both platforms' answer is essentially: use a separate credit card from your traditional Dutch bank. ING and ABN AMRO both offer credit cards that pair well with a neobank primary account.
+
+---
+
+## Real-World Performance: What Users Actually Report
+
+Rather than relying purely on official feature lists, here are the patterns I see consistently in expat reports and my own experience:
+
+**Bunq users commonly report:**
+- Immediate relief at being able to pay iDEAL with their primary account — "finally feels like a proper Dutch bank account"
+- The pockets/sub-accounts system becomes genuinely central to their budgeting approach after 2–3 months
+- App updates sometimes change interface elements in ways that require relearning
+- Customer support response times improved significantly in 2024–2025 compared to earlier bunq versions
+- The green tree-planting feature generates more genuine satisfaction than expected — seeing a cumulative tree count go up creates a small positive reinforcement
+
+**N26 users commonly report (in the Netherlands context):**
+- The iDEAL problem hits in unexpected places — not just webshops but also things like buying OV-chipkaart credit online, paying municipality fees, and even some professional invoices
+- After experiencing the IBAN rejection, most switch to bunq or a traditional Dutch bank within weeks
+- The free Standard plan is genuinely valued for international travel — several expats keep N26 specifically for this purpose while using bunq or ING for Dutch daily life
+- N26 You plan's Allianz travel insurance has paid out for several expats I know — it is a real and useful insurance product
+
+---
+
+## My Final Recommendations by Profile
+
+**Profile: Just moved to the Netherlands, starting from scratch**
+Open bunq as your primary account and Wise for international transfers. Do not bother with N26 as a primary — you will switch within weeks when iDEAL blocks you.
+
+**Profile: Already have an ING or ABN AMRO account, exploring alternatives**
+Compare the full bunq Easy Money feature set against your current bank. If you are already ING, the question is whether bunq's sub-accounts and modern interface justify EUR 8.99/month alongside a free ING account. For many active budgeters, the answer is yes.
+
+**Profile: Frequent traveller based in the Netherlands**
+Bunq Easy Bank (EUR 2.99/month) as your Dutch primary account + N26 You (EUR 9.90/month) for travel insurance and international spending. Total cost: EUR 12.89/month for complete coverage.
+
+**Profile: Self-employed ZZP freelancer**
+Bunq business account is specifically designed for this use case and well worth the price. Separate client IBANs, BTW reporting, and a professional banking setup that Dutch clients and the Belastingdienst expect.
+
+---
+
 ## Related Guides
 
 - [Best bank accounts for expats in the Netherlands (2026)](/guides/finance/best-bank-account-expats-netherlands-2026/)

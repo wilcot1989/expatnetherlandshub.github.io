@@ -262,3 +262,33 @@ For 1–12 month furnished sublets in the Netherlands, Kamernet is the most wide
 ### What rights do I have as a tenant in the Netherlands if my landlord is unfair?
 
 Dutch tenant protections are relatively strong. The [Huurcommissie](https://www.huurcommissie.nl/) (Rent Tribunal) handles disputes about rent levels, service charges, and maintenance obligations. For broader tenant rights — notice periods, deposit rules, what landlords can and cannot do — read the [Dutch rental contract rights guide](/guides/legal/dutch-rental-contract-rights-expats-2026/). If you are experiencing discrimination in the housing market, the [housing discrimination guide](/guides/legal/housing-discrimination-netherlands-expats-2026/) covers your rights and remedies.
+
+---
+
+## Subletting Step-by-Step: The Practical Checklist
+
+If you have decided to sublet legitimately, here is the process I recommend working through in order:
+
+**Step 1: Check your contract.**
+Read your huurcontract carefully. Look for terms like "onderverhuur verboden", "onderhuur niet toegestaan", or "geen toestemming voor onderverhuur." If any of these phrases appear, you need written landlord permission before proceeding. If the contract is silent on the topic, you still need landlord permission in almost all cases.
+
+**Step 2: Write to your landlord.**
+Send a written request — email is fine, but keep a copy. Include: the reason for subletting (work assignment, medical absence, etc.), the proposed duration, the proposed rent, and a brief description of the subtenant (if you have one in mind). Keep the tone professional. Frame it as a request for accommodation, not a notification of your plans.
+
+**Step 3: Wait for written confirmation.**
+Do not proceed until you have written confirmation. A verbal "yes" is not enforceable. If your landlord agrees verbally, follow up with an email confirming the terms and ask them to respond to confirm. Their reply email constitutes written evidence.
+
+**Step 4: Draft a sublet agreement.**
+A sublease contract should cover: duration, rent amount, which utilities and services are included, the condition of the property, the deposit (maximum two months' rent), and exit conditions. The Dutch Huurcommissie website has template agreements. Use one — improvised agreements create disputes.
+
+**Step 5: Transfer the property formally.**
+Do a documented check-in: photograph every room, note any existing damage, and both parties sign a condition report. This protects both you and the subtenant at the end of the sublet period.
+
+**Step 6: Handle money carefully.**
+Your subtenant's rent should cover your own rent. Charging materially more than your own rent, purely for profit, is legally questionable — the Huurcommissie can order you to repay overcharged amounts. Charging a modest supplement for furniture and services is permitted.
+
+**Step 7: Inform your insurer.**
+Check whether your inboedelverzekering (contents insurance) covers a subletting situation. Some policies exclude or limit coverage when a subtenant is in residence. Update your policy if needed before handing over the keys.
+
+**Step 8: Plan the end of the sublet.**
+Give your subtenant a clear written notice schedule. Under Dutch law, your subtenant has protection rights — you cannot simply ask them to leave on short notice if the agreement does not specify an end date. Fixed-duration agreements are safer for this reason. For stays under 2 years, a fixed-term contract with a clear end date is the standard approach. When the sublet ends, do a documented check-out together — photograph the property, note any changes from the check-in condition report, and settle the deposit formally in writing. Keeping the process documented at every stage protects both parties and avoids the ambiguity that leads to Huurcommissie disputes after the fact.

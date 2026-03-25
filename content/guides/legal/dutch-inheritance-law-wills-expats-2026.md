@@ -229,6 +229,70 @@ Your notaris registers your will automatically. If you have a foreign will that 
 
 ---
 
+## Writing a Dutch Will: The Practical Process
+
+If you do not yet have a Dutch will (testament), here is what the process looks like:
+
+**Step 1: Choose a notaris.** Any Dutch notaris can draft a will. The KNB platform (notaris.nl) lets you search by location and specialisation. If you want English-language service, ask specifically when you call — most notarissen in Amsterdam, The Hague, Rotterdam, and Utrecht have English capability.
+
+**Step 2: Initial consultation.** The first meeting is typically a conversation about your family situation, assets, and intentions. The notaris explains the Dutch system, what statutory rules apply by default, and what options you have to deviate from them. This meeting typically costs €100–€200 and takes 60–90 minutes.
+
+**Step 3: Draft and review.** The notaris drafts a concept will based on your instructions. You review it and request any changes. For expats, this stage often involves clarifying which law governs the will — Dutch law (the default if you live in the Netherlands), or the law of your nationality (if you make an explicit choice under EU Succession Regulation Article 22).
+
+**Step 4: Execution (passeren).** The final will is signed in the presence of the notaris. The original is stored with the notaris and registered in the Centraal Testamentenregister (CTR) — the national will registry. You receive a certified copy.
+
+**Step 5: Keep it updated.** Review your will after major life changes: marriage, divorce, birth of children, significant asset changes, or moving country. Dutch wills remain valid after you leave the Netherlands, but their contents may need updating.
+
+**Costs:** A straightforward single will typically costs €200–€450. More complex situations cost more. A mutual will covering a spouse is often priced at €300–€600 for both documents.
+
+## Erfbelasting: Dutch Inheritance Tax Rates (2026)
+
+| Heir | Tax-free allowance | Rate to €152,368 | Rate above |
+|---|---|---|---|
+| Spouse / registered partner | €795,156 | 10% | 20% |
+| Child / grandchild | €22,918 | 10% | 20% |
+| Other heirs | €2,418 | 30% | 40% |
+
+Each heir files an inheritance tax declaration (aangifte erfbelasting) within 8 months of death. The tax is assessed individually on the amount each heir receives. Assets outside the Netherlands are included if you die as a Dutch tax resident.
+
+## Common Expat Estate Planning Mistakes
+
+**No will at all.** Many expats assume their home country will handles Dutch assets. Dutch law governs Dutch assets by default, and the statutory rules may not reflect your wishes.
+
+**Will written before moving.** A valid home-country will remains valid in the Netherlands but may conflict with Dutch statutory rules, particularly regarding the legitieme portie. Review it with a Dutch notaris after moving.
+
+**No explicit law choice.** Under the EU Succession Regulation, you can choose your nationality's law to govern your estate — but only if you state this explicitly in your will. Without the choice, the law of habitual residence (the Netherlands, if you live here) applies by default.
+
+**Not updating for changed circumstances.** Marriage, children, buying Dutch property, or a significant change in assets are all triggers for a will review.
+
+## When Someone Dies: The Dutch Probate Process
+
+If you are dealing with the estate of someone who has died in the Netherlands, here is how the process works:
+
+**Verklaring van erfrecht:** The starting point for most estate administration is obtaining a verklaring van erfrecht (declaration of inheritance) from a notaris. This document identifies the heirs and authorises them to act on behalf of the estate — banks and other institutions require it before releasing assets.
+
+**Accepting or rejecting the inheritance:** In the Netherlands, heirs have the right to accept an inheritance (zuiver aanvaarden), accept it with benefit of inventory (beneficiair aanvaarden — protecting yourself from inheriting debts), or reject it entirely (verwerpen). The decision must be made within three months of the death, though extensions can be requested. If you are unsure whether the estate has significant debts, beneficiair aanvaarden is the safer choice.
+
+**Appointing an executor (executeur):** A will may name an executeur who is responsible for managing and distributing the estate. If there is no executeur named, the heirs manage the estate jointly. For complex or contentious estates, applying to the court for a boedelrechter (estate judge) to oversee proceedings is possible.
+
+**The affronting real estate:** If the deceased owned Dutch property, transferring it to heirs requires a notarial deed (akte van verdeling) — a straightforward process if all heirs agree. If heirs cannot agree, court proceedings may be required.
+
+**International complications:** If the deceased had assets in multiple countries, the estate administration becomes more complex. Dutch succession law governs Dutch assets; the law of other countries governs assets located there. Assets in the UK, US, or other non-EU countries need to be addressed under each country's rules, which may require separate probate proceedings. An international estate law specialist — a notaris with cross-border experience — is worth engaging for any estate with significant foreign assets.
+
+**Inheritance tax (erfbelasting) deadline:** Each heir must file their erfbelasting declaration within 8 months of the date of death. Missing this deadline incurs penalties. The Belastingdienst sends a aangifte form automatically to known heirs in many cases, but if you are an heir and have not received one within 6 months of the death, contact the Belastingdienst proactively.
+
+## International Succession: What Non-EU Expats Need to Know
+
+If you die as a Dutch resident but are a citizen of a non-EU country, the EU Succession Regulation (EU/650/2012) allows you to choose the law of your nationality to govern your entire estate — but only if this choice is explicitly made in your will.
+
+**Without a law choice:** Dutch law applies (as the law of habitual residence). This includes the dutch legitieme portie rules, Dutch inheritance tax, and Dutch succession procedures.
+
+**With a law choice:** Your home country's law governs the succession. For US citizens, this means state law (different in each US state). For UK citizens post-Brexit, English/Scottish/Welsh law. For Australian citizens, state law.
+
+**Why this matters:** Some countries' succession laws are significantly more flexible than the Dutch statutory system. The Dutch legitieme portie (reserved share for children of at minimum 50% of their legal share) constrains how freely you can distribute your estate. Under some non-EU laws, this constraint does not exist — you could leave everything to charity or your spouse, excluding children, in a way Dutch law does not permit by default.
+
+Get specialist advice on this if you have an international estate. The cost of a cross-border estate planning consultation (typically €300–€600) is small relative to the potential tax and succession consequences of getting it wrong.
+
 ## Useful Resources
 
 - [KNB: Find a Dutch notaris](https://www.notaris.nl)

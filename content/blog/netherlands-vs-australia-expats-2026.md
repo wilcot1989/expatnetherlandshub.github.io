@@ -258,6 +258,84 @@ These subjective accounts don't resolve the comparison, but they help calibrate 
 
 ---
 
+## Education System Comparison for Expat Families
+
+### Netherlands: International Schools and Dutch State Schools
+
+For expat families with children, the education question is often the deciding factor in a relocation decision.
+
+Dutch state schools are genuinely excellent by international standards — the Netherlands consistently scores in the top tier in PISA rankings for reading, maths, and science. The school system is organised with primary school (basisschool) from age 4–12, then secondary (middelbare school) which splits into three tracks: vmbo (vocational), havo (general), and vwo (university preparation).
+
+The practical challenge for expats is that Dutch state schools teach entirely in Dutch. For a child arriving at age 10 with no Dutch, integration into a mainstream Dutch classroom is a significant undertaking, though many schools have good support systems (ISK — Internationale Schakelklas — transition classes for newly arrived children).
+
+International schools solve the language problem but come at a significant cost:
+- Amsterdam International Community School (AICS): approximately EUR 18,000–22,000/year
+- British School in the Netherlands (The Hague): approximately EUR 17,000–23,000/year
+- International School of Amsterdam: approximately EUR 19,000–25,000/year
+
+Some employers cover school fees as part of expat packages. If yours does not, this is a major household budget item.
+
+**The European School** (in Bergen op Zoom and in combination with European institutions) is worth investigating for EU institution employees — it follows the European Baccalaureate at significantly lower cost.
+
+### Australia: Education Options
+
+Australia's state school system is in English — for expat families, this is an immediate advantage. Quality is consistently high across all states. The school year runs from late January to December (southern hemisphere calendar), which differs from European and Asian school years.
+
+**International schools** in Sydney and Melbourne are excellent but also expensive:
+- Scots College Sydney: AUD 35,000–40,000/year (~EUR 20,000–23,000)
+- Melbourne Grammar School: AUD 33,000–40,000/year
+- International Grammar School: AUD 25,000–30,000/year
+
+Because English-medium public schools are free and high quality, most expat families in Australia use the public system rather than international schools, unlike in the Netherlands where non-Dutch-speaking families often need the international school route.
+
+For families where children already speak good English, this is a concrete cost advantage for Australia.
+
+---
+
+## Practical Moving Logistics
+
+### Moving to the Netherlands
+
+**Registrations on arrival (in order):**
+1. Find housing (private rental market — see our [housing guide](/guides/housing/finding-housing-netherlands-expats-2026/))
+2. Register at the gemeente (municipality) — within 5 days if you plan to stay 4+ months
+3. Receive BSN (burgerservicenummer) — typically same appointment as gemeente registration
+4. Employer applies for your Kennismigrant permit (IND processes 2–4 weeks)
+5. Open Dutch bank account (requires BSN)
+6. Arrange Dutch health insurance (required within 4 months of arriving)
+7. Register with a GP (huisarts)
+
+The Dutch system is linear and predictable. Each step unlocks the next. Build in 4–6 weeks from arrival to having everything fully set up.
+
+**Shipping costs:** Container shipping from Australia to the Netherlands takes 6–10 weeks and costs approximately EUR 4,000–8,000 for a 20-foot container, EUR 8,000–14,000 for a 40-foot container. Air freight for smaller loads: EUR 1,500–4,000 depending on volume.
+
+### Moving to Australia
+
+**Registrations on arrival (in order):**
+1. Apply for Medicare card (within 8 weeks of arrival for eligible visa holders)
+2. Apply for Tax File Number (TFN) — online, takes 4–6 weeks for a physical number
+3. Open Australian bank account (most major banks: ANZ, Commonwealth, Westpac, NAB)
+4. Arrange superannuation (your employer will do this, but you choose the fund)
+5. Find housing (competitive rental market in Sydney and Melbourne)
+
+The Australian system has fewer government registrations than the Netherlands but the housing search can take longer, particularly in Sydney where availability is tight.
+
+**Shipping costs:** Similar to the Netherlands-to-Australia direction — container shipping from the Netherlands takes 4–6 weeks via direct route. Budget AUD 8,000–15,000 (EUR 4,700–8,700) for container freight.
+
+---
+
+## Work Permit Comparison for Non-English-Speaking Expat Backgrounds
+
+One important consideration that often gets overlooked: the Kennismigrant path and the Australian skilled migration path both assume you are applying from a position of strength — you have the qualifications, the salary, and the employer. But the paths diverge significantly for expats who are between jobs, recently graduated, or self-employed.
+
+**Netherlands options for self-employed expats:** The zelfstandige (self-employment) permit requires a business plan assessed against Dutch economic interest. It is subjective, involves a points system, and is genuinely harder to get than the Kennismigrant route. The DAFT (Dutch-American Friendship Treaty) is worth knowing for US nationals — it provides a specific self-employment route.
+
+**Australia options for self-employed expats:** The Business Innovation and Investment Stream visa allows entrepreneurs and investors to migrate, but requires demonstrated business track record and capital. The individual contractor/freelancer path in Australia typically uses the same 482 TSS framework as employed workers, with a sponsoring employer.
+
+For freelancers and self-employed expats without a traditional employer sponsorship, Portugal and Germany often have more accessible routes than either Australia or the Netherlands — but that is a different comparison.
+
+---
+
 ## Further Reading on ExpatNetherlandsHub
 
 - [How to find a job in the Netherlands as an expat](/blog/how-to-find-job-netherlands-expat-2026/)

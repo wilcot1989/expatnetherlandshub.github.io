@@ -256,3 +256,72 @@ This is not about Wise replacing your savings account — it is about using the 
 - <a href="https://wise.com/invite/ihpc/willemt52" target="_blank" rel="noopener nofollow sponsored">Wise: International money transfers</a>
 - [AFM: Consumer guide to savings](https://www.afm.nl)
 - [Raad voor Rechtsbijstand: Legal aid for expats](https://www.rvr.org)
+
+---
+
+## What an Emergency Actually Looks Like for Expats in the Netherlands
+
+Abstract advice about emergency funds is less useful than concrete scenarios. Here are the situations I see most often with expat clients that make emergency funds essential.
+
+**Job loss with a work-based permit:** If you hold a highly skilled migrant permit and lose your job, you have three months to find a new qualifying employer. During that period, you may receive WW (unemployment benefit) — but the first payment arrives 4–6 weeks after application. If you have no emergency fund, you have a cash flow gap during the application period, plus ongoing living costs during the entire job search. Three months of living expenses covers this scenario.
+
+**Housing deposit overlap:** When moving between Dutch rentals, you typically pay the new deposit (1–2 months' rent) before your old deposit is returned. In Amsterdam, a deposit can be EUR 2,000–4,000 or more. If both are outstanding simultaneously, you need the cash. An emergency fund absorbs this.
+
+**Medical costs before eigen risico is met:** Each year, the first EUR 385 of healthcare costs come out of your pocket (eigen risico). If you have a significant health event in January — before you have had a chance to accumulate any covered costs for the year — this hits your budget. Add costs from supplementary insurance gaps, and an unexpected medical episode can cost EUR 500–1,500 before insurance fully covers things.
+
+**Repatriation costs:** If you leave the Netherlands unexpectedly — family emergency, job ending, relationship breakdown — the cost of returning home can be significant. International flights at short notice, shipping or disposing of belongings, breaking a lease (typically one month's notice minimum), and administrative costs all add up quickly. A realistic repatriation cost for a single person is EUR 3,000–8,000; for a family, considerably more.
+
+**Car breakdown or major household repair:** Dutch landlords are responsible for structural repairs, but not for appliances and smaller fixtures in many lease arrangements. A broken boiler, a failed washing machine, or an unexpected car repair can be EUR 500–2,000. These are not dramatic emergencies but they happen regularly.
+
+The commonality across all these scenarios: they are not predictable in timing but highly predictable in that they will happen to most people at some point. A three-month emergency fund addresses all of them without requiring debt or panic.
+
+---
+
+## Building Your Emergency Fund: Practical Steps
+
+The principle is simple; the execution requires a plan. Here is how I approach emergency fund building with expat clients in the Netherlands:
+
+**Step 1: Calculate your three-month baseline.**
+Add up your fixed monthly costs: rent, health insurance, energy, internet, phone, groceries, transport. Exclude discretionary spending (dining out, clothing, travel). The result is your monthly minimum — the amount you need to survive if income stops temporarily. Multiply by three. That is your target emergency fund.
+
+**Step 2: Choose the right account.**
+Your emergency fund needs to be:
+- Immediately accessible (not in a notice account or investment account)
+- Separate from your current account (so it does not accidentally get spent)
+- Earning at least some return
+
+In the Netherlands, the best options in 2026 are:
+- **Spaarrekening (savings account):** ABN AMRO, ING, and Rabobank all offer standard savings accounts. Interest rates in 2026 are around 2.0–2.5% for instant access accounts.
+- **Bunq savings environments:** Bunq allows creating separate "pots" (environments) within one account — useful for separating emergency savings from current spending without opening a second bank account.
+- **Wise savings:** Wise holds multi-currency balances at market rates; useful if your emergency fund might need to cover costs in another currency.
+
+Avoid: locking the emergency fund in a spaardeposito (fixed-term deposit), even at higher rates. Liquidity is more important than yield for an emergency fund.
+
+**Step 3: Automate a monthly transfer.**
+Set up a automatische overboeking (standing order) from your current account to your emergency savings account on the same day you receive your salary. Treat it like rent — non-negotiable. Even €200/month builds €2,400 in a year.
+
+**Step 4: Define "emergency."**
+The most common mistake with emergency funds is using them for non-emergencies — a holiday deal, a spontaneous purchase. Define in advance what qualifies: job loss, medical emergency, urgent travel home, urgent home repair. A car service that was on your maintenance calendar does not qualify. A sudden €800 repair bill when the car fails unexpectedly does.
+
+**Step 5: Replenish after use.**
+If you use the emergency fund, rebuilding it becomes the priority in your next budget cycle. Pause other savings goals temporarily until the fund is restored.
+
+## Emergency Fund for Families vs Singles
+
+For single expats: three months of expenses is the standard minimum. If you work in a volatile industry or are on a fixed-term contract, six months is more appropriate.
+
+For families: the calculation changes. With a second income, job loss risk is partially diversified — if one partner loses a job, the other's income continues. But family expenses are higher, and the implications of income loss are more significant (especially if childcare is involved). I recommend four months of total household expenses for dual-income families, and six months if one partner is not working or working part-time.
+
+For expats on time-limited permits: your emergency fund should include the cost of repatriation as a scenario. If your residence permit is dependent on employment and you lose your job, you may need to leave the Netherlands within a defined period. Having the funds to manage that transition without financial panic — flight costs, storage, shipping, deposit on accommodation in your home country — is a specific expat risk that domestic residents do not face to the same degree.
+
+## Where the Emergency Fund Fits in Your Broader Financial Picture
+
+An emergency fund is not an investment. It should not be optimised for return — it should be optimised for availability. Once it is in place (3–6 months of expenses in an accessible savings account), the rest of your savings can go toward investments, pension supplements, or other longer-term goals.
+
+For expats in the Netherlands, the typical savings and investment sequence is:
+1. Emergency fund (3–6 months expenses) — first priority
+2. Pension gap analysis — Dutch pension system (AOW + employer pension) may leave gaps, especially for expats who will not complete full careers in the Netherlands
+3. Investment contributions — through Dutch brokers (DEGIRO, ING, Bolero) or international platforms
+4. Optional: extra mortgage repayment if you own property
+
+The [cost of living calculator](/tools/cost-of-living-calculator/) helps establish your baseline, and the [expat banking guide](/guides/finance/best-bank-account-expats-netherlands-2026/) covers where to hold your savings for the best combination of accessibility, safety, and return.

@@ -253,6 +253,60 @@ These costs are manageable. Most expats find delivery fee spending well worth th
 
 ---
 
+## Dutch Food Culture and Delivery: Setting Expectations
+
+Food delivery in the Netherlands exists alongside a very specific food culture that is worth understanding as an expat. The Dutch relationship with food is practical rather than celebratory — meals are an important part of daily life but rarely the centrepiece of social interaction the way they might be in France or Italy or many expats' home countries.
+
+**Stroopwafels and stampot are not what Dutch people order.** The most ordered food categories through Thuisbezorgd are Indonesian (the legacy of the colonial relationship with Indonesia), pizza, Turkish (shoarma and döner), Chinese, and sushi. Traditional Dutch cuisine — stamppot, erwtensoep (pea soup), haring — is rarely delivered and mostly eaten at home or in dedicated Dutch restaurants.
+
+**Lunch culture.** The Dutch lunch is typically a broodje (bread roll with something on it) eaten at the office or brought from home. Hot food for lunch is less common than in many other countries. If you are used to ordering a full lunch, you will find limited delivery options for midday outside major city centres.
+
+**Dinner timing.** Dutch dinner time is early compared to Southern European or British norms — typically 17:30–19:00 for families. Restaurant delivery peaks at 18:00–20:00. If you order on Friday or Saturday evening after 20:00, expect extended wait times.
+
+**Gezelligheid and food.** The Dutch concept of gezelligheid — cosiness, warmth, good company — is the primary reason people order in together. Saturday night delivery with friends or family is a well-established Dutch ritual. The borrel (drinks with snacks, often from a bitterballen order) is the other common delivery occasion.
+
+---
+
+## Ordering Dutch Specialties Through Delivery
+
+While traditional Dutch food is not the main category, there are some specifically Dutch things worth knowing about in the delivery context:
+
+**Bitterballen:** Small crispy balls of deep-fried meat ragout — the iconic Dutch bar snack. Many Dutch restaurants and cafes list them on delivery platforms. If you want to understand Dutch snack culture, start here.
+
+**Poffertjes:** Small fluffy pancakes, typically a street food or fairground food. Less commonly delivered but occasionally available through specialist providers.
+
+**Stroopwafels:** Not a delivery item — buy these in any supermarket. Albert Heijn's own brand stroopwafels are practically an institution.
+
+**Indonesian food:** The best category to order in the Netherlands. The Dutch-Indonesian culinary relationship has produced a distinctive cuisine — rijsttafel, nasi goreng, satay — that is exceptionally good at Dutch-Indonesian restaurants. These are heavily represented on Thuisbezorgd and are often the best quality-to-price option.
+
+---
+
+## What Expats Miss When They First Arrive
+
+Several things about Dutch food delivery catch new arrivals off guard:
+
+**Supermarket opening hours:** Dutch supermarkets close earlier than in many other countries (typically 21:00 or 22:00, with Sunday hours shorter). If you have been accustomed to 24-hour supermarkets, you will occasionally hit this wall. Flink's quick delivery is genuinely useful on those evenings when you realise at 21:30 that you need something for dinner.
+
+**No tipping pressure:** Unlike in the US where a 15-20% tip is socially mandatory for delivery, in the Netherlands there is no such expectation. The delivery fee is the full cost. Leaving a tip is kind but unusual — do not feel guilty not tipping.
+
+**Delivery to an apartment:** Dutch apartments often have entry systems (intercom codes, key card access). The delivery notes field in every major app has a character limit that is usually enough to include your apartment number and entry code. Always fill this in thoroughly. Drivers who cannot get in will try once, then leave the order at the entrance or return it.
+
+**Cash not accepted:** No Dutch delivery app accepts cash payment. All transactions are digital — iDEAL, debit card, or credit card. This is normal in the Netherlands where cash use in retail has declined dramatically.
+
+---
+
+## Allergen and Dietary Information
+
+All major apps provide allergen information for restaurant dishes, but the quality and detail varies by restaurant. Platforms typically show the standard EU allergen categories (gluten, dairy, nuts, shellfish, etc.) where the restaurant has provided this information.
+
+**Reliability caveat:** The allergen information is provided by the restaurant and is not independently verified. If you have a serious allergy, contact the restaurant directly before ordering rather than relying solely on what the app shows. Most restaurants are willing to confirm over the phone.
+
+**Vegan and vegetarian filters:** Both Thuisbezorgd and Uber Eats have vegan and vegetarian filter options. The Netherlands has a reasonably strong plant-based restaurant culture, particularly in Amsterdam and Utrecht, which is well represented on the platforms.
+
+**Halal:** Halal is a well-developed category on Thuisbezorgd in particular. The large Muslim communities in Rotterdam, Amsterdam, and other Dutch cities mean that halal options are numerous and high quality.
+
+---
+
 ## Final Verdict
 
 The Dutch food delivery market in 2026 is smaller than it was in 2022, but more stable. The apps that remain have figured out their economics — which means better reliability, better coverage, and less risk that the service you depend on disappears overnight.

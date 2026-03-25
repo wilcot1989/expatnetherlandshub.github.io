@@ -98,6 +98,86 @@ One thing most expats overlook: coworking networks are shared environments. Alwa
 
 **Tip:** [Eindhoven](/cities/eindhoven/)'s High Tech Campus is the hub if you work in tech/R&D, with many ASML, Philips, and NXP connections.
 
+## City-by-City Practical Guide for Expats
+
+### Amsterdam: Finding the Right Neighbourhood
+
+Amsterdam is not one coworking market — it is five distinct ones. Centrum commands premium prices and has the best transport links. Noord (NDSM, A Lab) has the most interesting creative environments and significantly lower prices. West (B.Amsterdam, Westergas) offers the best startup campus feel at mid-range prices. Zuidas has the most corporate-focused spaces.
+
+For expats arriving in Amsterdam, my general advice: start with a day pass at two or three spaces before committing. The commute from your home to your coworking space will matter more than any other factor after the first month. A beautiful space that requires a 40-minute commute will get abandoned — I have seen this happen many times.
+
+**Cycling to cowork:** Amsterdam is fundamentally a cycling city. Most coworking spaces in Amsterdam have secure bike parking, often covered. If you are cycling to your space (which I recommend — it is faster than public transport for most cross-city journeys and free), confirm that bike parking is accessible at your arrival time, not just during normal business hours.
+
+### Rotterdam: The Underrated Option
+
+Rotterdam is systematically underpriced relative to Amsterdam and has a genuinely interesting coworking scene. The city attracts a different professional profile — more logistics, maritime, architecture, and design than Amsterdam's tech-finance focus — and the coworking spaces reflect this.
+
+**42workspace** has become Rotterdam's flagship startup coworking community. The events programme is strong and the community is intentionally diverse. If you work in anything adjacent to Rotterdam's port economy, logistics, or design, this is worth serious consideration.
+
+The price differential from Amsterdam is real: a hot desk in Rotterdam at €150–300/month versus €200–400/month in Amsterdam, for spaces of comparable quality. Over a year, this represents a saving of €600–1,200. For freelancers and early-stage entrepreneurs, that matters.
+
+Rotterdam's coworking scene is also less crowded, which means you are more likely to actually get to know the people around you — rather than being one of 500 members in a large Amsterdam campus.
+
+### The Hague: International Organisation Cluster
+
+The Hague coworking is shaped by the city's unique character: it is the seat of Dutch government, the home of multiple international organisations and NGOs, and has a large diplomatic community. The result is a coworking scene that skews toward impact work, international organisations, legal and policy work, and NGO operations.
+
+**The Hague Tech** has actively positioned itself as the hub for this community and deserves its reputation. Monthly memberships start around €195, which is very competitive. The community includes professionals working in peace and justice organisations, international law, human rights NGOs, and government-adjacent consulting — which makes it genuinely useful for networking if you work in any of these areas.
+
+For expats relocating to The Hague specifically — often in international organisation, embassy, or diplomatic contexts — The Hague Tech is the natural first coworking option. It functions as an introduction to the city's professional community more effectively than any other space.
+
+### Utrecht: Central Station Convenience vs Character
+
+Utrecht coworking has two distinct types: the highly convenient Spaces at Hoog Catharijne (directly connected to Utrecht Centraal station, one of the busiest in the Netherlands), and the more characterful independent spaces like De Stadstuin.
+
+For expats commuting between cities — Utrecht Centraal connects to Amsterdam, Rotterdam, The Hague, Eindhoven, and most of the country within 30–90 minutes — the Spaces at Hoog Catharijne option makes particular sense. If your work involves regular train travel around the country, having your coworking base at a major hub is practically useful.
+
+For expats based in Utrecht primarily, De Stadstuin offers a genuine neighbourhood community feel that the chain spaces cannot replicate.
+
+### Eindhoven: Tech Corridor
+
+Eindhoven's coworking market is structured around the High Tech Campus — informally known as the "smartest square kilometre in the world" — and the creative tech cluster at Strijp-S. These serve very different communities.
+
+If you work in deep tech, semiconductors, embedded systems, or anything adjacent to the ASML/Philips/NXP supply chain, High Tech Campus is where you need to be. The density of tech expertise, equipment, and specialist networking is unlike anything elsewhere in the Netherlands.
+
+For creative and digital professionals in Eindhoven, Microlab at Strijp-S or Kazerne offer a more design-focused environment with a strong local tech-creative community.
+
+Eindhoven is noticeably cheaper than Amsterdam for coworking — hot desks from €150–250/month — and the quality of infrastructure is high. Expats who choose Eindhoven over Amsterdam often cite both the lower cost of living and the quality of the professional community in specific sectors.
+
+---
+
+## How to Set Up Your Coworking Situation in the Netherlands
+
+Here is the practical sequence I recommend for expats who are new to the country and need to establish a working base:
+
+**Week 1–2: Try day passes**
+Use the WeWork or Spaces app to access a day pass without commitment. These apps work immediately with a credit card and give you access to any location in their network globally. This buys you time to assess commute routes and neighbourhoods before making any commitment.
+
+**Week 3–4: Narrow to 2–3 candidates**
+Based on your home location (once you have found accommodation) and your typical work week, identify two or three spaces that could work. Most operators offer a free trial week or a discounted first month — request these. This is standard practice in the Dutch coworking market and no legitimate operator will refuse.
+
+**Month 2: Commit on a monthly cancellable basis**
+Once you have found the right space, sign up for a monthly membership with monthly cancellation. Avoid annual contracts until you are genuinely certain the location, community, and amenities work for your situation. Dutch coworking contracts are generally monthly cancellable, but some operators offer discounts for longer commitments — only take these after you have verified the space works for you.
+
+**Tax and admin from day one**
+Register your coworking costs as kantoorkosten in your bookkeeping from the first invoice. If you are a ZZP'er, your accounting software (Moneybird, Jortt, etc.) should capture these automatically. Keep all invoices — the Belastingdienst requires 7-year record retention for business expenses.
+
+---
+
+## What Expats Get Wrong About Dutch Coworking
+
+A few things I see come up repeatedly when expats approach coworking in the Netherlands:
+
+**Picking by aesthetics rather than community.** Every WeWork and Spaces location looks approximately the same — the photography is professional and the spaces are clean. But the community of members is radically different between a Centrum WeWork (diverse, transient, international, corporate) and a Strijp-S creative space (local, specialised, tight-knit). Visit during normal working hours and talk to actual members before deciding.
+
+**Not asking about noise.** Dutch coworking culture tends toward open, social environments. If you need deep focus for long stretches — coding, writing, detailed analysis — ask specifically about quiet zones or silent hours. The best spaces have them; not all do.
+
+**Ignoring the virtual office option.** For ZZP'ers who work primarily from home but want a professional business address for their KvK registration, a virtual office membership (€50–100/month at most coworking spaces) is significantly cheaper than a full hot desk membership. It gives you a professional address, mail handling, and typically some meeting room access for client visits. This is what I use personally for days when I need a meeting room but do not need a desk.
+
+**Not leveraging the community platform.** Every major coworking operator now has a member community platform or Slack workspace. These are where job leads, client introductions, and collaborations actually happen. If you sign up with a space and then never participate in the community, you are paying for a desk but missing the primary value.
+
+---
+
 ## Types of Coworking Memberships
 
 | Type | Price Range | What You Get | Best For |

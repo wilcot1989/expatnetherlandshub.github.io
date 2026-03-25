@@ -219,6 +219,71 @@ Portugal's expat community has grown rapidly since 2019 and particularly since 2
 
 ---
 
+## The Lisbon vs Amsterdam Housing Crisis: A Closer Look
+
+### Lisbon's Housing Market Transformation
+
+Lisbon has undergone significant housing market transformation since approximately 2015, and it is worth understanding what this means for expats considering it as a destination in 2026.
+
+Before the Golden Visa and NHR era (roughly pre-2015), Lisbon was genuinely cheap by Western European standards. Central Lisbon apartments could be found at EUR 600–900/month for a one-bedroom. That era is largely over.
+
+The influx of international investors, digital nomads, and expats — combined with Portugal's NHR scheme that attracted high-income foreigners on tax incentives — drove rents upward dramatically. Between 2015 and 2023, Lisbon rents increased by approximately 70%. A central Lisbon one-bedroom now costs EUR 1,000–1,600/month.
+
+The Portuguese government responded in 2023–2024 with rent control measures and the phasing out of the original NHR scheme. Whether these measures will genuinely suppress rents remains to be seen, but Lisbon's days as a cheap European capital are definitively over.
+
+**Porto:** Similar trajectory, though Porto prices remain 15–20% lower than Lisbon. Porto is increasingly popular with expats for exactly this reason — lower cost, more manageable housing market, and a genuinely vibrant city with excellent food, wine, and culture.
+
+**Cascais, Estoril, and the Setúbal coast south of Lisbon:** These suburbs and nearby towns attract expats who want lower costs, good quality of life, and access to beaches while remaining within commuting distance of Lisbon. Rent is 20–40% lower than central Lisbon.
+
+### Amsterdam's Housing Market
+
+Amsterdam's housing situation is well-documented elsewhere in this site, but a summary: it is one of Europe's most dysfunctional rental markets. Average private market rents for a central one-bedroom have reached EUR 1,800–2,400/month as of early 2026.
+
+The 2024 Wet betaalbare huur extended rent control to the mid-market (the liberalisatiegrens/liberalisation threshold), bringing more properties under rent control. The impact has been controversial — some landlords responded by withdrawing properties from the rental market entirely, reducing supply. The effective supply of private market rentals has tightened further.
+
+For expats, this means:
+- Expect to spend 30–40% of net income on rent in Amsterdam (a common benchmark)
+- Consider Rotterdam, Utrecht, or Eindhoven — all within reasonable commuting distance of Amsterdam by train, and 20–35% cheaper
+- Furnished properties command a significant premium — budget EUR 200–400/month extra for furnished over unfurnished equivalent
+
+---
+
+## Remote Work and the Netherlands vs Portugal Decision
+
+The explosion of remote work post-2020 has changed how many expats frame this comparison. If your work is location-independent, the question "Netherlands or Portugal?" becomes a genuine lifestyle choice rather than a career-driven one.
+
+### Netherlands as a Remote Work Base
+
+**Advantages:**
+- World-class broadband infrastructure (consistently top-5 globally for internet speed and reliability)
+- Outstanding coworking scene — Spaces, Tribes, WeWork all have strong presence; see our [coworking guide](/guides/work/best-coworking-spaces-compared-netherlands-2026/)
+- Central time zone for EU clients and colleagues
+- English language removes the communication friction of daily life
+- Proximity to London, Berlin, Paris — easy flights for any in-person requirements
+
+**Disadvantages:**
+- Higher cost of living means your remote income needs to be proportionally higher
+- Dutch tax residency obligations mean high-income remote workers face the full Dutch tax schedule (without 30% ruling if not employer-sponsored)
+- Housing costs are a genuine constraint
+
+### Portugal as a Remote Work Base
+
+**Advantages:**
+- Lower cost of living allows the same remote income to fund a significantly more comfortable lifestyle
+- The IFICI regime can provide tax benefits for qualifying professions
+- Climate — Lisbon and the south offer 2,500–3,000 hours of sunshine annually
+- Digital infrastructure in Lisbon and Porto is excellent (fibre-optic widely available, strong mobile coverage)
+- Established remote work community (Lisbon has one of Europe's most developed digital nomad communities)
+
+**Disadvantages:**
+- Outside Lisbon and Porto, internet infrastructure can be patchy, particularly in rural Alentejo and parts of the interior
+- Language barrier outside major cities if you do not speak Portuguese
+- Time zone disadvantage for East Coast US clients (Lisbon is 5 hours ahead of EST versus 6 for Amsterdam — a minor difference but relevant for some)
+
+**Summary for remote workers:** Portugal wins on lifestyle-per-euro if you are comfortable with a language barrier and want warm weather. The Netherlands wins if you need reliable English-language environment, proximity to European business hubs, and do not mind the higher costs.
+
+---
+
 ## Frequently Asked Questions
 
 ### Which country is better for families with children?

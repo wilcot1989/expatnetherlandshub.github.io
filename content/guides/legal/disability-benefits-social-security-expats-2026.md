@@ -239,3 +239,37 @@ Your **salary structure** also affects your benefit calculations — higher gros
 Finally: if you are in a situation where you are managing these benefits while also dealing with Dutch healthcare, the [health insurance guide](/guides/health/dutch-health-insurance-guide-expats-2026/) covers what your zorgverzekering covers during illness and disability — the two systems interact in important ways.
 
 *This guide reflects the rules in force from January 2026. Social security legislation changes regularly. For current rates and specific eligibility questions, check uwv.nl or svb.nl directly.*
+
+---
+
+## Practical Steps When You Become Ill or Disabled
+
+If you experience illness or disability that affects your ability to work, the sequence of events in the Netherlands is quite specific. Here is what it looks like in practice:
+
+**Week 1: Report sick to your employer.** Within the first week of illness, you must formally ziekmelden (report sick) to your employer. Many employers have an arbo (occupational health) service provider that you also notify. Do not delay this — the Wet verbetering poortwachter requires documentation from the first day.
+
+**Week 6: First arbo visit.** Your employer's arbo service will schedule a conversation with a bedrijfsarts (company doctor) by week 6 at the latest. The bedrijfsarts is not your treating doctor — they assess your functional capacity for work, not your diagnosis. You are obligated to cooperate with this process.
+
+**Week 8: Plan van aanpak.** If your illness continues, a plan van aanpak (return-to-work plan) must be in place by week 8. This is a joint plan between you and your employer, documented and signed, setting out re-integration goals and steps.
+
+**Month 20: Eerstejaarsevaluatie.** After one year, a formal evaluation of your re-integration progress takes place. By this point, you should be in active re-integration, either with your current employer (spoor 1) or preparing for a different employer (spoor 2).
+
+**Month 23: WIA application.** In the 23rd month of illness, you apply for a WIA benefit at the UWV. This triggers a formal assessment of your functional limitations and work capacity. The assessment determines whether you receive WGA or IVA, and at what rate.
+
+**The re-integration obligation is mutual.** Your employer is obligated to offer suitable work (passende arbeid) and to fund re-integration activities. You are obligated to cooperate fully and make a genuine effort to return to work. Failure by either party has consequences — the UWV can impose sanctions on employers who do not comply, and benefits can be reduced for employees who refuse reasonable work.
+
+## What to Do If Your WIA Application Is Rejected
+
+If the UWV rejects your WIA application or rates your disability lower than you believe is correct, you have clear options:
+
+**Bezwaar (objection):** Within 6 weeks of receiving the decision, submit a written bezwaar to the UWV explaining why you disagree. The UWV must review the decision and respond within 12 weeks. Getting a second medical opinion (second opinion bij bedrijfsarts) to support your bezwaar can strengthen your case.
+
+**Beroep (appeal):** If the bezwaar is rejected, you can appeal to the administrative court (bestuursrechter) within 6 weeks. Legal aid (toevoeging via Raad voor Rechtsbijstand) may be available if your income is low.
+
+**Legal representation:** The Juridisch Loket provides free initial legal advice. Many lawyers in the Netherlands specialise in UWV disputes and work on no-win-no-fee arrangements for social security cases.
+
+Do not miss the 6-week deadlines — late bezwaar submissions are almost never accepted.
+
+## Disability and Your Residence Permit
+
+Being on WIA disability benefit does not automatically affect your residence permit if you are a highly skilled migrant or knowledge migrant. However, if your permit is linked to specific employment and that employment ends due to disability, your situation changes. Inform the IND promptly and seek specialist immigration legal advice — the interaction between disability, employment-linked permits, and Dutch social security law is complex and has case-specific outcomes.

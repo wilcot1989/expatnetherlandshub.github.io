@@ -239,3 +239,24 @@ Estate planning does not live in isolation. A decision about how to hold investm
 - [Dutch Pension System for Expats 2026](/guides/finance/dutch-pension-system-expats-2026/)
 - [Investing in the Netherlands as an Expat 2026](/guides/finance/investing-netherlands-expats-2026/)
 - [30% Ruling Calculator](/tools/30-percent-ruling-calculator/)
+
+---
+
+## Practical Steps for Expats: What to Do Now
+
+Estate planning sounds like something for older people with large estates. In practice, most expats who own property, have children, or have significant savings in the Netherlands should have at least a basic plan in place.
+
+**Step 1: Write a Dutch will (testament).**
+If you have assets in the Netherlands, you should have a Dutch will. A Dutch notary (notaris) drafts the will, which is then registered in the Central Registration of Testaments (CTR). Costs are typically EUR 250–600 for a straightforward will. A Dutch will allows you to specify who inherits what and can be used to optimise the tax treatment — for example, directing assets to a fiscaal partner to use the large exemption, or making lifetime gifts to children to use annual allowances.
+
+**Step 2: Register your relationship.**
+If you are in a long-term relationship but not married or in a registered partnership, your partner may receive none of the large exemption available to recognised partners. A cohabitation agreement (samenlevingscontract) alone is not sufficient for Dutch inheritance purposes. Marriage or registered partnership (geregistreerd partnerschap) at a Dutch municipality provides legal protection — and significantly better inheritance tax treatment.
+
+**Step 3: Consider a gift plan.**
+The annual gift tax allowances allow parents to give each child EUR 6,633/year tax-free. Starting this early reduces the estate at death and shifts assets to children while you are alive. For significant wealth transfers, a lump-sum gift using the EUR 31,813 single-year allowance (or the EUR 100,000 housing allowance) can be more efficient than accumulating an estate and paying inheritance tax later.
+
+**Step 4: Understand your worldwide estate exposure.**
+List all your assets — Dutch property, Dutch bank and investment accounts, foreign property, foreign accounts, pension rights, business interests. Work out which are subject to Dutch erfbelasting (all, if you are a Dutch tax resident) and whether any double taxation treaty coverage applies.
+
+**Step 5: Get professional advice.**
+Dutch inheritance and gift tax is complex, and cross-border situations add layers of difficulty. A Dutch civil law notary (notaris) handles wills and lifetime gift documentation. A Dutch tax lawyer or estate planning specialist handles cross-border analysis. Most city-based notarissen speak English and are familiar with expat situations. Costs for a full estate planning review are typically EUR 500–1,500 depending on complexity — a worthwhile investment relative to the tax sums involved.

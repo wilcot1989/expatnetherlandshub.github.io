@@ -311,4 +311,79 @@ I recommend <a href="https://go.nordvpn.net/aff_c?offer_id=612&aff_id=141337&url
 | Frequent international calls | **Lebara or Lyca Mobile** | Cheapest international rates included |
 | Want dual SIM with eSIM | **KPN or T-Mobile eSIM** | Best eSIM experience, keep home SIM active |
 
+## Mobile Networks in the Netherlands: What the Coverage Maps Actually Mean
+
+Dutch mobile coverage maps look almost universally green (meaning covered), but there are real differences between providers that matter in practice.
+
+**KPN's rural advantage:** The Netherlands is a small, highly urbanised country, and all three major networks have solid urban coverage. The difference shows up in rural Drenthe, Zeeland, and eastern Groningen where KPN's older and more extensive infrastructure provides noticeably better signal. If you work from countryside locations, travel frequently to rural clients, or live in a smaller Dutch town, this difference is meaningful.
+
+**T-Mobile/Odido's 5G push:** T-Mobile has been the most aggressive in 5G deployment and was the first to achieve meaningful 5G outdoor coverage in the Randstad (Amsterdam, Rotterdam, The Hague, Utrecht) and Eindhoven. If you work primarily in major cities and want the fastest data speeds for video calls and large file transfers, T-Mobile's 5G advantage is real.
+
+**The MVNO practical reality:** For most expats in Dutch cities and suburban areas, the coverage provided by KPN-network MVNOs (Simyo, Ben, Lebara) is genuinely equivalent to KPN's own service. The MVNO contract simply routes through the same towers. The only situation where it differs is during peak demand periods — where KPN prioritises its own subscribers over MVNOs — which is very rarely noticeable in practice.
+
+---
+
+## Number Portability: Keeping Your Dutch Number When You Switch
+
+One of the most practically useful Dutch telecom regulations is number portability. If you decide to switch providers after your initial contract, your Dutch phone number transfers automatically within one business day.
+
+**How it works:**
+1. Sign up with your new provider and indicate you want to port your number
+2. Provide your current number and account details
+3. The new provider handles the request automatically
+4. Your old contract is cancelled at the same time
+
+This means there is no real risk to starting with Lebara prepaid and later moving to Simyo, T-Mobile, or KPN when you have your BSN and Dutch bank account sorted. Your number travels with you.
+
+**Important:** Do not cancel your old provider before the porting is complete — cancel happens automatically through the porting process. If you cancel first, you lose the number.
+
+---
+
+## SIM Cards for Specific Situations
+
+### If You Are a Student
+
+Students at Dutch universities and HBO institutions should check whether their institution offers a deal. Many universities have negotiated discounts with T-Mobile or Vodafone. These are often not prominently advertised — ask the student services desk.
+
+For students on a tight budget, Simyo's 5 GB flex plan at €10/month on KPN's network represents the best combination of coverage, cost, and flexibility.
+
+### If You Work With Sensitive Business Data
+
+If your work involves sensitive business information — legal, financial, medical, HR — you should be using a VPN regardless of which provider you choose. Public WiFi networks at coworking spaces, cafes, and client offices are shared environments where data can be intercepted. NordVPN runs quietly in the background and costs less per month than a single café visit.
+
+<a href="https://go.nordvpn.net/aff_c?offer_id=612&aff_id=141337&url_id=14830" rel="noopener nofollow sponsored" class="cta-affiliate">Protect your work data with NordVPN →</a>
+
+### If You Call Home Frequently
+
+Calculate the realistic cost of your international calls before choosing a provider. Lebara and Lyca Mobile include international calls to 50+ countries in their standard bundles — this is often genuinely cheaper than paying per-minute on a premium provider. However, if you are calling a country that is not on their included list, per-minute rates matter.
+
+WhatsApp and FaceTime calling over WiFi or data handles most expat communication needs, but for those who need reliable voice calls to non-EU countries, Lebara's included international calling is a genuinely useful feature.
+
+### If You Have a Family
+
+For families with multiple lines, check whether your chosen provider offers multi-SIM discounts. T-Mobile and KPN both offer bundle discounts for two or more lines on the same account (typically €5–10 off per additional line). For a family of four, this can represent €15–30/month in savings compared to four separate individual contracts.
+
+---
+
+## The Dutch 112 Emergency System and Mobile Phones
+
+A practical note for newly arrived expats: the Dutch emergency number is 112 (same as EU standard). It works from any mobile phone, including a phone with no active SIM or credit, as long as there is any mobile signal available. If you are in an emergency, 112 does not require an active subscription or credit to connect.
+
+For non-emergency police matters, the number is 0900-8844. This requires a connected phone with credit or a valid contract.
+
+---
+
+## Switching to a Better Plan Mid-Contract
+
+Dutch telecom law has been reformed to make switching easier. Since 2024:
+
+- Monthly flex contracts can be cancelled with one month's notice, effective immediately from the next billing period
+- Annual contracts can be cancelled from month 11 with one month's notice
+- Providers must port your number within one business day
+- Early termination fees on 2-year contracts are capped at the remaining monthly subscription costs
+
+The practical effect: if you sign up with a premium provider initially and later decide to move to a budget MVNO, the process is straightforward. You are not locked in for years the way you might be in some other countries.
+
+---
+
 Getting your Dutch SIM card is one of the first steps in settling into the Netherlands. Combine it with a [Dutch bank account](/guides/finance/best-bank-account-expats-netherlands-2026/) and [health insurance](/guides/health/dutch-health-insurance-guide-expats-2026/), and you will have the basics covered in your first week. For a complete overview of everything you need to do when you arrive, see our [complete guide to moving to the Netherlands](/guides/legal/complete-guide-moving-to-netherlands-2026/). If you want a broader look at mobile contracts beyond SIM-only options, our [Dutch phone plans guide](/guides/daily-life/best-dutch-phone-plans-expats-2026/) covers full contracts and handset deals. Once you have your mobile plan sorted, the next step is setting up home broadband — see our [best internet providers in the Netherlands guide](/guides/daily-life/best-internet-providers-netherlands-2026/) for a full comparison of KPN, Ziggo, and budget alternatives.

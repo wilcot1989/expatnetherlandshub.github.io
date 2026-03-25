@@ -269,6 +269,57 @@ Your tax status changes immediately upon divorce. Joint filing ends. You may nee
 - Can advise on mediation as an alternative
 - Registered with the Dutch Bar (Orde van Advocaten)
 
+## Financial Settlement: What Gets Divided?
+
+For marriages without a prenuptial agreement (huwelijkse voorwaarden), the Dutch default is complete community of property (algehele gemeenschap van goederen) for marriages before 1 January 2018. This means virtually everything acquired before and during the marriage belongs equally to both spouses.
+
+For marriages from 1 January 2018 onwards, the default is limited community of property (beperkte gemeenschap van goederen). Assets you brought into the marriage remain separate; assets acquired during the marriage are shared equally. Gifts and inheritances remain separate regardless of when received.
+
+**What this means in practice:**
+
+If you married in the Netherlands before 2018 without a prenuptial agreement, your spouse has a legal claim on half of everything — including assets you owned before marriage, unless exceptions apply. If you married after 2018, the division is simpler: pre-marriage assets are yours, joint acquisitions are split.
+
+**Pension equalisation (pensioenverevening):** Under the 1995 Wet verevening pensioenrechten bij scheiding, the pension rights accrued during marriage are divided equally on divorce by default. This applies to both state pension (AOW) and occupational pension (tweede pijler). You can opt out of this via written agreement, but the default is 50/50 division.
+
+**The family home:** If jointly owned, the home must be dealt with in the settlement — sold and proceeds split, or one partner buys out the other at current market value. If rented, the lease is in both names and requires agreement or a court decision on who stays.
+
+## Divorce with Children: Dutch Law on Custody and Parenting Plans
+
+If you have minor children, the divorce process requires a parenting plan (ouderschapsplan) before a court will grant the divorce. This plan must cover:
+
+- How parental authority (gezag) will be exercised — joint authority is the default in almost all cases
+- The residence arrangement: how time with each parent is split
+- Information exchange between parents about the child's wellbeing
+- Financial contribution toward child's costs from each parent
+
+Joint parental authority (gezamenlijk gezag) continues after divorce by default, meaning both parents have equal rights to make decisions about the child's education, healthcare, and major life decisions. If parents cannot agree on a parenting plan, a mediator or the court is involved.
+
+**Child support (kinderalimentatie):** Based on a calculation of the child's "need" (behoefte) and each parent's "carrying capacity" (draagkracht). The calculation uses income, housing costs, and care division. The Trema tables (published annually by the Rechtspraak) are the standard reference. An online rekenhulp (calculation tool) is available on the Rechtspraak website.
+
+## International Aspects: Which Court Has Jurisdiction?
+
+For expat divorces, jurisdiction and applicable law depend on where you live and your nationalities:
+
+**Jurisdiction:** Dutch courts have jurisdiction if both spouses live in the Netherlands, or if one spouse is habitually resident in the Netherlands and either has Dutch nationality or has lived there for at least one year before the application.
+
+**Applicable law:** Under EU Regulation 1259/2010 (Rome III), the applicable law is chosen by the spouses, or defaults to the law of habitual residence if no choice is made. This means Dutch law typically applies to expats divorcing while living in the Netherlands, even if they were married under another country's law.
+
+**Recognition abroad:** Dutch divorce decrees are generally recognised in other EU member states under EU regulations. For non-EU countries, recognition depends on bilateral treaties and local law — check with a lawyer in your home country.
+
+## Costs of Divorce in the Netherlands
+
+Being realistic about the financial cost of divorce helps with planning:
+
+**Uncontested divorce (echtscheiding op gemeenschappelijk verzoek):** Both spouses apply jointly through a single lawyer. Total costs are typically €1,500–€3,500 in lawyer fees plus approximately €300 in court fees. This is only possible if you agree on all aspects of the divorce, including parenting arrangements, asset division, and maintenance.
+
+**Contested divorce:** Each party needs separate legal representation. Costs depend on complexity and how much litigation is involved. A straightforward contested divorce might run €5,000–€15,000 per party; complex international divorces with multiple contested issues can run significantly higher.
+
+**Mediation:** Using a certified MfN mediator instead of adversarial lawyers typically costs €150–€250 per hour, with most divorces resolved in 8–15 hours of mediation (€1,200–€3,750). The mediator's agreement is then submitted to the court. Mediation is significantly cheaper, faster, and less damaging to co-parenting relationships than litigation.
+
+**Legal aid (toevoeging):** If your income and assets are below certain thresholds (approximately €27,100 for a single person), you qualify for subsidised legal representation through the Raad voor Rechtsbijstand. You pay a personal contribution of €196–€898 depending on income, and the state covers the rest. Apply through rvr.org before engaging a lawyer.
+
+For expats on highly skilled migrant permits, legal aid eligibility depends on Dutch income — a year of Dutch employment may disqualify you from the income-based threshold even if divorce costs are genuinely burdensome. A mediator is often the most cost-effective route regardless of income level.
+
 ### Resources
 
 - [Orde van Advocaten: Find a lawyer](https://www.advocatenorde.nl)

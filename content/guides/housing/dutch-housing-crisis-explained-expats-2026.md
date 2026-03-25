@@ -195,3 +195,16 @@ The silver lining: the quality of life in the Netherlands — healthcare, infras
 The [finding housing guide](/guides/housing/finding-housing-netherlands-expats-2026/) is the right next step. Use the [cost of living calculator](/tools/cost-of-living-calculator/) to check whether your budget works for your target city, and the [housing budget checker](/tools/housing-budget-checker/) to understand what properties in your range actually look like.
 
 *Rent levels and regulatory thresholds in this guide reflect 2026 figures. The liberalisatiegrens and puntensysteem values are adjusted annually; check the official Rijksoverheid website for current figures.*
+
+## What This Means in Practice: An Expat Checklist
+
+Given the conditions described above, here is what I tell every expat client before they start their housing search in the Netherlands:
+
+- **Budget 40-45% of net income for rent** in Amsterdam or Utrecht if you want a realistic range of options. Lower in Rotterdam, Eindhoven, or smaller cities
+- **Start searching 6-8 weeks before your arrival date** — the market will not wait for you to get off the plane
+- **Have your documents ready to go**: employment contract, last 3 payslips, bank statements, employer reference, passport. A landlord who likes your application will want to move within 24 hours
+- **Register on WoningNet immediately** after you have a BSN and a Dutch address — even if social housing is years away, the waiting clock only starts from registration
+- **Consider middenhuur specifically** if your income is in the €35,000–€80,000 bracket; mid-market regulated rentals offer better value than the free market in this range
+- **Use multiple platforms simultaneously**: Funda, Pararius, Kamernet, HousingAnywhere, and local Facebook groups all surface different properties
+
+The housing market is genuinely difficult, but it is not impossible. Preparation and speed are what separate successful searches from frustrating ones.

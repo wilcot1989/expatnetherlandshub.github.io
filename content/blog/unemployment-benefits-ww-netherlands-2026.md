@@ -278,3 +278,43 @@ Apply via the UWV website (uwv.nl) as soon as you become unemployed — ideally 
 **Does receiving WW affect my residence permit?**
 
 This depends on your residence permit type. EU/EEA citizens do not need a separate residence permit and WW entitlement is not affected by benefit receipt. For non-EU citizens, the situation is more complex. Most work permits (kennismigrant/highly skilled migrant permits) require you to be employed — if you lose your job, you typically have a period of 3 months (or longer for highly skilled migrants) to find new employment before your permit status may be affected. Contact IND (Immigratie en Naturalisatiedienst) and your immigration lawyer promptly if you lose your job on a work-based permit.
+
+---
+
+## Negotiating Your Dismissal: What Expats Often Do Not Know
+
+Many expats accept a dismissal without realising they have rights to negotiate in the Netherlands. Dutch employment law is strongly employee-protective, and this creates real options when your employer wants to end your contract.
+
+**Dismissal by mutual consent (vaststellingsovereenkomst / VSO):** In the vast majority of dismissal cases in the Netherlands, the employer and employee agree a VSO — a mutual termination agreement. This agreement typically specifies: the termination date, a severance payment, whether WW entitlement is maintained, and any non-compete clauses.
+
+**Why the VSO matters for WW:** If you sign a VSO, you can maintain WW entitlement provided the agreement does not state you resigned voluntarily and the termination date respects your notice period. If you agree to leave earlier than your contractual notice period, the WW payment is delayed by the number of days you effectively "gave up." Always check with UWV or an employment lawyer before signing a VSO to confirm WW implications.
+
+**The transition payment (transitievergoeding):** Under Dutch law, if your employer ends your employment contract (other than for serious misconduct), you are entitled to a statutory transition payment. This is:
+- 1/3 of monthly salary per completed year of employment for the first 10 years
+- 1/2 of monthly salary per completed year for each year beyond 10
+
+**Example:** 3 years of employment at EUR 4,000 gross/month = 3 × EUR 4,000/3 = EUR 4,000 transition payment.
+
+This payment is separate from any severance in the VSO and is a legal minimum that the employer cannot avoid. It is also separate from WW — receiving a transition payment does not reduce your WW entitlement.
+
+**Do not sign anything immediately:** If your employer presents you with a VSO, you have time to review it. Most employment lawyers in the Netherlands offer a first consultation for reviewing VSO agreements at a fixed fee (typically EUR 150–300). This investment is almost always worth it — small changes to the agreement can mean thousands of euros in severance or preserved WW entitlement.
+
+---
+
+## Practical First Steps After Losing Your Job
+
+The first 48–72 hours after losing your job are the most important for protecting your rights. Here is the exact sequence:
+
+1. **Day 1:** Apply for WW via uwv.nl. You must apply no later than the first day of unemployment. Late applications can result in a deduction.
+
+2. **Day 1:** Register at werk.nl as a job seeker. UWV checks this and it is a condition of receiving WW.
+
+3. **Day 1–3 (if non-EU):** Contact IND or your immigration lawyer to confirm the status of your residence permit. Do not wait.
+
+4. **Week 1:** If you received a VSO, review it carefully with an employment lawyer before signing if you have not already.
+
+5. **Week 2–4:** Update your CV and LinkedIn profile. The Dutch job market moves reasonably quickly for professionals in demand; many expats find new roles within 1–3 months.
+
+6. **Month 1:** Attend the UWV consultation (gesprek), either online or in person. This confirms your job seeking activities are being tracked correctly.
+
+7. **Ongoing:** Report any income, changes in circumstances, or job offers to UWV promptly via the portal. Errors in reporting can result in benefit repayment demands later.

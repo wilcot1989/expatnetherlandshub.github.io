@@ -189,6 +189,78 @@ Finally: do not wait until you are ill to find a GP. Register as soon as you arr
 
 ---
 
+## Your First GP Appointment: What to Expect
+
+The first time you see a Dutch huisarts, a few things may feel different from what you are used to — particularly if you are coming from the US, UK, or a private healthcare system.
+
+**The appointment is short.** Ten minutes is standard. Dutch GPs are highly efficient, and the system is built around brief focused consultations. If you have multiple issues to discuss, say so when you book — "I have two or three things I want to discuss" — and they will allocate more time. Trying to cover three health concerns in a standard ten-minute slot does not work.
+
+**The GP is a gatekeeper.** Dutch GPs manage most health issues directly and refer to specialists only when necessary. If you arrive expecting to be sent to a specialist immediately, you may be surprised. The Dutch GP is trained to handle a very wide range of conditions, and watchful waiting is a legitimate and often evidence-based approach. If you feel a referral is needed, ask directly — GPs respond well to clearly stated requests.
+
+**Bring relevant history.** If you have a chronic condition, medications, or previous diagnoses, bring documentation. A letter from your previous GP or specialist, translated into English (Dutch GPs read English easily), is the most useful thing you can bring. If you have printed medical records, bring those too. Your new GP will want to understand your baseline.
+
+**Language.** In cities, most GPs speak good to excellent English. In smaller towns, you may encounter GPs whose English is more limited. If English is important to you, confirm before registering — Zorgkaart Nederland lets you filter by language.
+
+**Prescriptions.** Dutch GPs prescribe electronically. The prescription is sent directly to your preferred apotheek, and you collect it there. You do not receive a paper prescription to hand in. Set your preferred apotheek with your GP at registration so prescriptions go to the right place.
+
+---
+
+## Understanding the Dutch Healthcare System as an Expat
+
+The Dutch healthcare system works well when you understand how it is structured. A few fundamentals:
+
+**The basic insurance (basisverzekering) covers GP care** — your GP visits do not count toward your annual deductible (eigen risico). Every Dutch resident is required to hold basic health insurance. If you have not yet set this up, see the [Dutch health insurance guide](/guides/health/dutch-health-insurance-guide-expats-2026/).
+
+**Specialists require a GP referral.** You cannot book a dermatologist, cardiologist, or physiotherapist directly without a referral from your huisarts. The GP referral is what triggers insurance coverage. Private direct bookings are possible but expensive and not covered by basic insurance.
+
+**The GGD (Municipal Health Service)** handles public health functions — vaccinations, sexual health clinics, outbreak investigation. If you need an STI test, TB screening, or certain vaccination services, the GGD is where to go. It is separate from your GP.
+
+**Mental health access** goes via your GP. If you need psychological support or psychiatric care, your GP makes the referral. The Dutch GGZ (mental health service) system has long waiting lists for specialist care. See the [mental health support guide for expats](/guides/health/mental-health-support-expats-netherlands-2026/) for how to navigate this.
+
+For the full picture of how the Dutch healthcare system works — insurance, GP gatekeeping, specialists, hospitals, and what is covered — the [Dutch healthcare system explained guide](/guides/health/dutch-healthcare-system-explained-2026/) is the comprehensive reference.
+
+---
+
+## What Your GP Actually Handles: A Practical Guide
+
+One thing that surprises many expats used to specialist-first systems is how much a Dutch GP is equipped to manage directly. Understanding this makes the system much less frustrating.
+
+**Common conditions treated directly by Dutch GPs (no specialist needed):**
+- Respiratory infections, bronchitis, sinusitis
+- Urinary tract infections
+- Skin conditions — eczema, mild psoriasis, rashes, minor infections
+- Mental health — depression, anxiety (GP can prescribe medication and refer to psychologist)
+- Musculoskeletal complaints — back pain, joint pain (GP can refer to physiotherapist)
+- Diabetes management (routine monitoring and prescription)
+- Hypertension (monitoring and medication)
+- Thyroid conditions (routine monitoring)
+- Contraception and reproductive health
+
+**When Dutch GPs refer to specialists:**
+- Cardiology: suspected heart rhythm abnormalities, uncontrolled heart failure, chest pain requiring investigation
+- Dermatology: suspected skin cancer, severe psoriasis, conditions not responding to GP treatment
+- Gastroenterology: persistent symptoms requiring endoscopy or colonoscopy
+- Orthopedics: injuries requiring surgical assessment, chronic joint issues
+- ENT: hearing loss, persistent ear infections, tonsil issues in children
+- Psychiatry: complex mental health conditions beyond GP capacity
+
+**The practical lesson:** Come to your GP appointment prepared to explain your symptoms clearly and directly. Ask questions. If you feel a specialist referral is needed and the GP is taking a watchful waiting approach, ask why and what symptoms should trigger a referral. Dutch GPs are generally open to direct clinical conversations.
+
+### Chronic Conditions: Getting Care Established
+
+If you have a chronic condition — diabetes, asthma, cardiovascular disease, autoimmune conditions — getting that care established with your Dutch GP quickly is a priority. Bring:
+
+- A letter from your previous GP or specialist summarising your diagnosis, current treatment, and recent test results
+- A current medication list with dosages
+- Recent blood test results or relevant diagnostic reports
+- Any specialist letters or discharge summaries
+
+Dutch GPs will review this documentation and may want to repeat certain tests to establish their own baseline. This is standard, not a sign of doubt in your records. Within 2-3 appointments, most chronic conditions can be transferred seamlessly to Dutch GP management.
+
+For patients with complex international health histories — multiple countries, specialist treatment abroad — keeping your own organised medical file is the most useful thing you can do. A single PDF document with your diagnosis history, current medications, and recent investigations can be shared with every new provider you encounter. Dutch GPs work with electronic patient records and will add your history to your digital file — this then becomes accessible to any other Dutch provider who treats you with your permission. The Dutch health records system (the LSP or Landelijk Schakelpunt) is opt-in, and you can authorise your GP to share your records with other providers you visit.
+
+---
+
 ## Related Guides
 
 - [Dutch Health Insurance for Expats: Complete Guide 2026](/guides/health/dutch-health-insurance-guide-expats-2026/)

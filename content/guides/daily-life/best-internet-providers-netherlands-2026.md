@@ -354,6 +354,62 @@ Once your internet is set up, consider adding a VPN for privacy and to access st
 
 ---
 
+## Internet Costs and Dutch Housing: What You Need to Know Before Signing Up
+
+One practical issue that trips up many expats: your ability to independently choose an internet provider may be limited by your rental situation.
+
+**All-in rent (inclusief) apartments:** Some Dutch rentals, particularly in apartment complexes managed by housing corporations (woningcorporaties) or larger rental agencies, include internet access as part of the service charges. In these cases, you pay a monthly service fee (servicekosten) that includes internet, building maintenance, and sometimes TV access. You typically cannot switch providers independently.
+
+**Benefit:** You are connected from day one, no setup hassle.
+**Drawback:** The included connection is often a mid-tier Ziggo cable package. If you need faster speeds or fiber for professional use, you may need to supplement with a mobile data connection.
+
+**Excluding internet (exclusief) apartments:** Most private sector rentals in the Netherlands do not include internet. You set up your own contract directly with a provider. This is the standard situation for mid-range and upmarket rentals.
+
+**Shared housing / rooms:** If you rent a room in a shared house, the main tenant or housing provider typically arranges the internet and may charge you a contribution. Confirm the speed and any contribution cost before moving in.
+
+---
+
+## Router Placement and Wi-Fi Coverage in Dutch Homes
+
+Dutch homes range from modern energy-efficient apartments to 17th-century canal houses with metre-thick walls. This matters for your Wi-Fi setup.
+
+**Modern apartments:** Standard router placement (near the entrance where the provider connects the cable) usually gives adequate Wi-Fi throughout. KPN's Fritz!Box router has particularly strong range.
+
+**Older properties and canal houses:** Thick walls, multiple floors, and unusual building layouts can create dead zones. In these cases:
+- A Wi-Fi extender (repeater) placed in the middle of the house costs €30–80 and solves most mid-home coverage issues
+- A mesh Wi-Fi system (from providers like TP-Link Deco, Google Nest, or Eero) replaces the single router with multiple interconnected nodes for consistent whole-home coverage, costing €100–300 for a three-piece set
+- KPN and T-Mobile sell mesh systems as add-ons to their internet contracts — convenient but more expensive than buying third-party hardware
+
+**For remote workers:** Wired ethernet (a cable plugged directly from router to laptop) is almost always more stable and faster than Wi-Fi for video calls and large file transfers. Dutch networking hardware is readily available at Coolblue or MediaMarkt if you want to run a cable.
+
+---
+
+## Switching Providers Mid-Contract: What the Dutch Rules Say
+
+Dutch telecom law protects consumers reasonably well when it comes to switching internet providers.
+
+**After the initial contract period:** Standard contracts are 1–2 years. After this period, the contract becomes monthly cancellable with one month's notice. Switching is entirely straightforward — sign up with the new provider and indicate the switch date, and the new provider handles the logistics.
+
+**During the initial contract period:** Early termination typically results in paying out the remaining contract fees, capped at the monthly subscription amount per remaining month. For a 2-year KPN contract at €45/month, leaving 6 months early means paying up to €270 in termination fees.
+
+**Exceptions:** You can exit a contract without penalty if the provider significantly changes the terms (notably increasing prices beyond the index). Under Dutch law, a price increase beyond the agreed terms gives you the right to exit. Providers often use annual index increases (within the agreed terms) and larger periodic increases that trigger exit rights — watch for these, particularly if your contract is 2 years old.
+
+**Number portability for internet:** Unlike mobile, there is no single phone number to port. Your email address at the provider (if you created one) does not transfer. This is a reason not to use ISP-provided email addresses (KPN.nl or Ziggo.nl addresses) for anything important — use Gmail, ProtonMail, or another provider-neutral email service.
+
+---
+
+## What Expats Most Often Get Wrong About Dutch Internet
+
+**Waiting too long to order:** Setting up internet at a new Dutch address typically takes 1–3 weeks if it requires a technician visit or equipment delivery. If you need to work from home from day one, order your internet before you move in, or arrange a temporary solution (mobile data, coworking space) to bridge the gap.
+
+**Not checking upload speed:** Most online comparisons and provider marketing focus on download speed. For remote workers who send video files, participate in group video calls, or use cloud storage heavily, upload speed matters enormously. Ziggo's 300 Mbps download plan has only 50 Mbps upload — acceptable for most home use but a limitation for some professional tasks. KPN fiber's 300/300 Mbps plan with symmetrical upload is significantly better for heavy uploaders.
+
+**Choosing cable because it is familiar:** Many expats from the UK, Australia, or the US choose Ziggo simply because cable feels familiar. Dutch fiber is genuinely excellent and often similarly priced once you compare equivalent speeds. If fiber is available at your address, it is almost always the better choice.
+
+**Ignoring the bundle question:** Internet + TV bundles often look cost-efficient but only if you actually watch traditional TV. If you stream exclusively (Netflix, Disney+, YouTube, Amazon), a standalone internet plan without TV is cheaper. The typical TV add-on costs €10–15/month extra and provides access to Dutch and international linear channels that most expats rarely watch.
+
+---
+
 ## Related Guides
 
 - [Best SIM Cards and Mobile Plans for Expats in the Netherlands 2026](/guides/daily-life/best-sim-card-netherlands-expats-2026/) -- find the right phone plan

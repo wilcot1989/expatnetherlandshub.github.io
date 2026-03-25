@@ -326,4 +326,10 @@ Wherever you land, you will need to move money during the transition — paying 
 
 ---
 
+For day-to-day banking wherever you settle, compare the [best bank accounts for expats in the Netherlands](/guides/finance/best-bank-account-expats-netherlands-2026/) — your choice of Dutch city does not affect which banking options are available, but it does affect which physical branches are nearby.
+
+Once you have chosen a city, the [finding housing in the Netherlands guide](/guides/housing/finding-housing-netherlands-expats-2026/) covers your next step in detail: how to register on Funda and Pararius, what to watch for in a Dutch lease, and how to handle the deposit and rental process.
+
+---
+
 *Sarah van den Berg is an expat coach and relocation specialist. Half Dutch, half British, she has lived in the Netherlands for over ten years across Amsterdam, Utrecht, and Leiden. She works with expats on housing, registration, and settling into Dutch life.*

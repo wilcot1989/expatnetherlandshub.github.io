@@ -297,4 +297,36 @@ For the full picture of arriving, settling, and protecting your status, our [com
 
 ---
 
+## The 30% Ruling: The Biggest Financial Benefit of HSM Status
+
+If you qualify as a highly skilled migrant, you very likely also qualify for the 30% ruling (30%-regeling) — a tax facility that allows your employer to pay you 30% of your gross salary tax-free as an untaxed expense allowance.
+
+**Requirements:**
+- You are recruited from abroad (or transferred within a multinational)
+- You have a specific expertise that is scarce in the Dutch labour market
+- Your salary meets the minimum threshold (€46,660 gross in 2026, or €35,468 for researchers under 30)
+- You have not lived within 150km of the Dutch border in the 16 months before employment
+
+**How to apply:** Your employer applies to the Belastingdienst on your behalf. The application is straightforward if done promptly. The 30% ruling is granted for up to 5 years.
+
+**What it means financially:** On a €80,000 gross salary, the 30% ruling reduces your taxable income to €56,000. At Dutch tax rates, this saves approximately €7,000–€10,000 per year depending on your personal situation. Over 5 years, this is a significant benefit.
+
+The [30% ruling guide](/guides/finance/30-percent-ruling-netherlands-2026/) covers the full application process, what qualifies, and what happens when the ruling expires.
+
+## After Arrival: The First 30 Days Admin
+
+Once you have your highly skilled migrant residence permit and have arrived in the Netherlands, the administrative sequence is:
+
+1. **Collect your verblijfsvergunning** at the IND desk (or have it posted)
+2. **Register at the gemeente** (BRP registration) — you need your passport, permit, and rental contract. Appointment required — book in advance
+3. **Receive your BSN** — usually same-day or within a few days of gemeente registration
+4. **Open a bank account** — most major Dutch banks require an appointment; bring BSN and passport. Bunq or Wise work quickly as digital alternatives
+5. **Register for Dutch health insurance** — do this within 4 months of registering in the BRP to avoid penalty periods
+6. **Apply for DigiD** — submit online immediately after BSN registration; activation letter takes ~2 weeks
+7. **30% ruling application** — your employer should submit this within 4 months of your start date for full retroactive benefit; after 4 months, the benefit starts from the application date only
+
+Getting this sequence right in the first month saves significant administration headaches later. The BSN is the keystone — almost everything else requires it.
+
+---
+
 *Last updated: March 2026.*

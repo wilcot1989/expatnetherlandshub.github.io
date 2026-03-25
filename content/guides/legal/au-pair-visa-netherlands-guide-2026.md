@@ -287,3 +287,33 @@ This is entirely up to the host family and should be agreed before you commit. T
 ### Is there an age limit if I turn 31 during my au pair year?
 
 Your age at the time of application is what matters. If you are 30 when the residence permit is issued, you can complete the full year even if you turn 31 during the stay.
+
+---
+
+## Practical Guide: Arriving as an Au Pair
+
+Once your au pair residence permit is issued, here is what the first week in the Netherlands typically looks like:
+
+**Arriving and registering:** You must register at the gemeente (municipality) within five days of arrival if you are staying over 90 days. Your host family's address is your registration address. Bring your passport and residence permit. Your BSN is issued at registration or shortly after.
+
+**The Aanmeldformulier IND:** Your host family is the IND-recognised sponsor for your stay. They are responsible for notifying the IND if the arrangement ends early. If it does end early, you are no longer permitted to remain in the Netherlands on the au pair permit. You would need to apply for a different permit if you wish to stay.
+
+**Opening a bank account:** With your BSN, you can open a Dutch bank account. A basic account at ING, ABN AMRO, or Rabobank requires an appointment in person. Alternatively, Bunq or Wise work well as digital alternatives and can be set up within 24 hours.
+
+**Health insurance:** Long-stay au pairs (over 4 months) are typically required to register for Dutch health insurance (zorgverzekering). The host family is usually responsible for arranging this as part of the au pair agreement terms. If they do not, you need to arrange it yourself — check your au pair agreement carefully. The monthly premium is approximately €130–€160 after any applicable toeslagen.
+
+**Language classes:** You are entitled to Dutch language classes as part of your au pair arrangement. The host family is typically expected to facilitate this. If they do not, raise it directly — access to language classes is a right under the IND's au pair programme conditions.
+
+## What to Do If Your Host Family Arrangement Fails
+
+Situations where the host family arrangement does not work out are more common than people expect. If you find yourself in this situation:
+
+**Document the problems in writing.** Keep records of anything that violates the au pair agreement — failure to pay pocket money, excessive working hours, not providing language classes, or any welfare concerns.
+
+**Contact STAGE (the au pair platform) or your mediation agency.** If you came through an agency, they are obligated to help find a solution or a new host family.
+
+**Inform the IND if the arrangement formally ends.** Your permit is tied to the specific host family. If you move to a new host family, the new arrangement must be separately approved by the IND. You cannot simply move to a new family without IND notification — doing so puts your residence status at risk.
+
+**Seek support from FairWork Netherlands.** FairWork monitors labour exploitation including au pair situations. If your situation involves exploitation, they can help you understand your rights and connect you with appropriate support.
+
+The most important thing is not to simply leave and hope for the best. Get advice quickly — your window to resolve the situation within the rules is limited by the nature of your permit.

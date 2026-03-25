@@ -322,3 +322,51 @@ Most expats end up using at least two of these. That is not a failure of the app
 Open a Wise account to get started with transfers: <a href="https://wise.com/invite/ihpc/willemt52" target="_blank" rel="noopener nofollow sponsored" class="cta-affiliate">Open Wise →</a>
 
 For a deeper look at all your banking options in the Netherlands, see my [complete guide to bank accounts for expats](/guides/finance/best-bank-account-expats-netherlands-2026/).
+
+---
+
+## Frequently Asked Questions: Real-World Scenarios
+
+### "I just got my BSN — what should I open first?"
+
+Open bunq immediately. The Dutch NL IBAN is the bottleneck that blocks everything else — rent payments, salary receipt, utility direct debits. Get it sorted within the first week of having your BSN.
+
+Keep your Wise account open (if you already have one) for international transfers, but prioritise bunq for Dutch daily life.
+
+### "My HR department told me they can only pay salary to a Dutch NL IBAN. What do I do?"
+
+This is bunq's territory. Your HR department is technically wrong under EU SEPA law — they must accept any valid SEPA IBAN. But picking a fight with payroll during your first month at a new job is rarely worth it.
+
+Open a bunq account (Dutch NL IBAN), give that to HR, and your salary problem is resolved immediately. If you want to keep Wise for transfers, receive your salary into bunq and move funds to Wise when needed.
+
+### "I have a Revolut account already. Should I close it when I move to the Netherlands?"
+
+Keep it, but demote it to secondary status. Revolut's budgeting tools and multi-currency features remain useful for travel and tracking spending. But do not rely on it for anything requiring a Dutch IBAN — rent, utilities, Dutch employer salary, or government payments.
+
+The total cost of keeping Revolut Standard is zero. There is no reason to close it. Just add bunq (and optionally Wise) to cover the Dutch-specific gaps.
+
+### "I work remotely for a UK company and get paid in GBP. What is the best setup?"
+
+This is Wise's strongest use case. Give your UK employer your Wise GBP account details (sort code and account number). Your salary lands in your Wise GBP balance. Convert to EUR as needed at mid-market rate. Fund your bunq NL account from Wise for Dutch bills.
+
+This setup avoids both the international wire fees that ING/ABN AMRO charge for incoming GBP transfers and the currency conversion markup. On a GBP 40,000 annual salary, the saving versus using a Dutch bank for GBP receipt and conversion is EUR 600–1,200 per year.
+
+### "Which of the three apps is best for a partner who is new to banking apps?"
+
+Wise has the simplest, most focused interface. Revolut is more feature-rich but can feel overwhelming. Bunq's interface has improved significantly but is still more complex than the others.
+
+If a partner has limited experience with digital banking and primarily needs a Dutch account for daily life, bunq's interface is functional enough. If they will be doing international transfers regularly, a Wise tutorial upfront is time well spent — the interface is genuinely intuitive once you understand what it does.
+
+---
+
+## Understanding the Dutch Banking Ecosystem: Context That Helps
+
+To get the most from any of these three apps, it helps to understand the Dutch payment landscape these tools are operating within.
+
+**iDEAL 2.0 (launched 2024):** The Netherlands upgraded its iDEAL system in 2024 to a European standard that theoretically accepts more banks. In practice, bunq has full iDEAL 2.0 support. Wise and Revolut still do not integrate as iDEAL sources — this is a structural limitation, not a temporary oversight.
+
+**Instant Payments (SCT Inst):** The Netherlands moved to near-universal instant SEPA payments in 2024. Transfers between Dutch banks now complete in seconds rather than hours. Bunq was an early adopter of instant payments. Wise SEPA transfers are instant for many transactions within the eurozone. Revolut SEPA transfers are also fast. For routine euro transfers within Europe, all three perform similarly on speed.
+
+**Belastingdienst (Tax Authority) IBAN requirements:** When you receive a Dutch tax refund or need to pay outstanding tax, the Belastingdienst allows any valid SEPA IBAN. Bunq, Wise, and theoretically Revolut all work for this purpose. However, in practice some older Belastingdienst systems have shown sensitivity to non-NL IBANs for certain payment flows. If you ever encounter a tax payment issue, bunq's NL IBAN removes the variable.
+
+**DigiD and banking integration:** DigiD (the Dutch government's digital identity system) sometimes links to your banking app for identity verification. ING and ABN AMRO are fully integrated. Bunq has a DigiD integration. Wise and Revolut do not support DigiD authentication — you will need a traditional Dutch bank or bunq for any process requiring bank-linked DigiD verification.

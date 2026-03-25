@@ -256,3 +256,112 @@ The transfer of property and mortgage takes place at a Dutch notaris. The notary
 - [Eigenwoningforfait calculator](https://www.belastingdienst.nl)
 - [Rijksoverheid: Buying a house guide (Dutch)](https://www.rijksoverheid.nl/onderwerpen/woningmarkt/kopen-van-een-woning)
 - [Expatica: Dutch mortgage guide](https://www.expatica.com/nl/housing/buying/dutch-mortgage-guide/)
+
+---
+
+## Understanding NHG: National Mortgage Guarantee
+
+The Nationale Hypotheek Garantie (NHG) is a government-backed guarantee scheme that provides a safety net for both borrowers and lenders. If you cannot keep up with mortgage payments due to job loss, divorce, or death, NHG can intervene to prevent forced sale at a loss. For expats, it offers two concrete benefits: lower interest rates (lenders charge typically 0.3-0.6% less for NHG mortgages) and a fallback if circumstances change dramatically.
+
+**NHG eligibility in 2026:**
+- Property purchase price up to approximately EUR 435,000 (the NHG limit, adjusted annually)
+- Standard employment or provable income
+- One-time premium: 0.6% of the loan amount, payable at notarial transfer
+
+For a EUR 350,000 mortgage, the NHG premium is EUR 2,100 — which is typically recovered within two years through the lower interest rate. If you are buying below the NHG limit, there is almost no reason not to apply.
+
+NHG is available to expats who are Dutch residents, including those on highly skilled migrant permits. The fact that your income is from a foreign employer does not disqualify you, provided you meet income and residency requirements.
+
+---
+
+## Property Viewing to Keys: A Realistic Timeline
+
+One of the most common surprises for expats buying Dutch property for the first time is how long the process takes. This is not a market where you find a house on Friday and move in the following month.
+
+**Realistic timeline:**
+
+| Phase | Typical Duration |
+|-------|-----------------|
+| Mortgage capacity assessment | 1-2 weeks |
+| Property search and viewings | 4-12 weeks (competitive market) |
+| Offer, negotiation, purchase agreement | 1-2 weeks |
+| Financing condition (financieringsvoorbehoud) | 4-8 weeks |
+| Formal mortgage application and approval | 3-6 weeks |
+| Notarial transfer and key handover | 1 week |
+
+Total from starting to looking seriously to receiving keys: **3-6 months** is typical. In very competitive markets (Amsterdam, Utrecht), it can take longer simply because your offers are rejected multiple times before success.
+
+Build this timeline into your planning. If your rental contract ends in 6 months, starting the mortgage process now is not premature.
+
+### A Note on the Dutch Bidding Process
+
+The Dutch property market uses an overbieden (overbidding) culture in competitive cities. Properties are listed at an asking price that may be below market, and buyers bid above it. There is no auction system — it is typically sealed-bid rounds coordinated by the verkopend makelaar (seller's agent).
+
+As an expat, you need a buyer's agent (aankoopmakelaar) in competitive markets. A good aankoopmakelaar knows the local market, advises on realistic bid levels, and manages the legal process on your behalf. Fees are typically 1-1.5% of the purchase price or a fixed amount of EUR 2,500-4,000. In a EUR 400,000 purchase, this fee almost always pays for itself through better bid strategy and fewer failed offers.
+
+---
+
+## What Your Monthly Mortgage Payment Actually Covers
+
+Many expats fixate on the mortgage amount and monthly payment without fully accounting for the total cost of ownership. Here is the full picture:
+
+**Monthly outgoings for a EUR 350,000 property, EUR 300,000 mortgage (30-year annuity, 3.8% rate):**
+
+| Item | Monthly amount |
+|------|---------------|
+| Mortgage repayment | ~EUR 1,400 |
+| Eigenwoningforfait (notional rental value, taxed) | ~EUR 50 (net, after 30% ruling deduction at mortgage interest rate) |
+| Opstalverzekering (building insurance) | ~EUR 15-30 |
+| VvE service costs (apartment only) | EUR 100-400 (varies significantly) |
+| Annual property tax (OZB) | ~EUR 30-50/month equivalent |
+
+**Total monthly cost: approximately EUR 1,595-1,930** depending on property type and VvE costs.
+
+The mortgage interest deduction (hypotheekrenteaftrek) reduces this net cost. At a 36.97% tax rate on EUR 300,000 at 3.8% interest = EUR 11,400/year interest, the deduction saves approximately EUR 4,200/year (EUR 350/month). Net effective monthly cost after tax benefit: approximately EUR 1,245-1,580.
+
+This is a rough illustration — your specific numbers depend on your tax rate, whether you have the 30% ruling, and the exact mortgage terms. A mortgage advisor will run the actual calculation for your situation.
+
+For a detailed look at how mortgage interest interacts with your Dutch tax return as an expat, see the [Dutch tax return guide for expats](/guides/finance/expat-tax-return-netherlands-2026/).
+
+---
+
+## Expat Mortgage Checklist
+
+Before you start approaching lenders, work through this checklist. Missing items are the most common cause of delays and rejections.
+
+**Identity and residency:**
+- [ ] Valid passport (all applicants)
+- [ ] Dutch residence permit and BRP registration
+- [ ] BSN number
+
+**Income documents (Dutch employment):**
+- [ ] Last 3 months' payslips (salarisstroken)
+- [ ] Employment contract — permanent or temporary
+- [ ] Intentieverklaring if on a temporary contract
+- [ ] Most recent jaaropgave (annual income statement)
+
+**Income documents (foreign income):**
+- [ ] Employment contract from foreign employer (translated)
+- [ ] Last 3-6 months' payslips from foreign employer
+- [ ] Bank statements showing salary deposits
+- [ ] Tax returns from relevant country (last 2-3 years)
+
+**30% ruling:**
+- [ ] Decision letter from the Belastingdienst with start and end date
+- [ ] Confirmation from employer of how the ruling is applied on payslips
+
+**ZZP income:**
+- [ ] Last 3 years' tax returns (aangiften)
+- [ ] Profit and loss statements from accountant
+- [ ] KvK registration extract
+- [ ] Accountant's income projection statement
+
+**Savings (for transaction costs):**
+- [ ] Bank statements showing available funds for closing costs (target 4-6% of purchase price)
+- [ ] Evidence of source of funds if large sums are involved
+
+**Property:**
+- [ ] Purchase agreement (koopovereenkomst) — once you have an accepted offer
+- [ ] Property valuation report (taxatierapport) — ordered by the lender
+
+Having this pack ready before you approach a lender or advisor significantly speeds up the process and signals that you are a serious and organised buyer.

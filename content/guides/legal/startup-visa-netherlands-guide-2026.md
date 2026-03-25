@@ -295,3 +295,40 @@ If you are primarily a freelancer or consultant with a service offering, the sta
 The one-year hard deadline is the biggest practical challenge. Twelve months is not long to build product-market fit, acquire clients, and demonstrate enough traction to pass the self-employment permit points assessment. Founders who arrive already having done customer discovery, validated their model, and with their first clients lined up tend to fare much better than those who use the startup year to figure out what they are building.
 
 Use the [visa and permit finder tool](/tools/visa-permit-finder/) to confirm which route suits your specific situation before committing.
+
+---
+
+## What Happens During Your Startup Year: Month by Month
+
+**Before arrival:**
+- Apply for the startup visa through your chosen IND-recognised facilitator
+- Prepare your business plan (innovation focus, Netherlands market, financial projections)
+- Register your legal entity (BV or eenmanszaak) with a Dutch notaris — can be done remotely with power of attorney
+- Register with the KVK
+
+**Month 1–2: Arrival and setup**
+- Collect your residence permit (verblijfsvergunning) at the IND within 3 days if you entered on an MVV
+- Register at the gemeente; receive BSN
+- Open Dutch business bank account — Wise Business is fastest; ING or ABN AMRO for traditional banking
+- Begin Dutch health insurance
+- Apply for DigiD
+
+**Months 3–6: Building**
+Your facilitator has a legal obligation to actively support you during this period. Use that relationship — introductions to investors, co-working access, and mentorship are what you paid the facilitator fee for. If they are not delivering, raise it.
+
+**Months 6–12: Demonstrating viability**
+The second year requires demonstrating that your business meets the self-employment permit (zelfstandige) requirements. The assessment uses the points system: sector points, income points, contribution to the Dutch economy. The more your business has developed during the startup year, the stronger your conversion application.
+
+**Month 12: Apply for self-employment permit**
+File your application for the zelfstandige residence permit before your startup permit expires. This is the first real test — if you meet the points requirements, you convert to a standard self-employment permit. If not, you cannot remain in the Netherlands as an entrepreneur under this route.
+
+## The Facilitator Relationship: What to Expect
+
+Your IND-recognised facilitator is not just a visa processing service — they are your co-responsible party during the startup year. The IND holds facilitators accountable for the quality of the startups they sponsor. This means:
+
+- Your facilitator should genuinely evaluate your business plan before sponsoring you — reject facilitators who simply process anyone for a fee
+- They provide regular mentoring and business development support (the exact level varies by facilitator)
+- They have the right (and obligation) to withdraw facilitation if your startup does not develop as planned, which terminates your permit
+- Good facilitators have networks of Dutch investors, corporate partners, and other startups that are genuinely useful
+
+When choosing a facilitator, ask specifically about their track record: how many startups they have facilitated, how many converted to self-employment permits, and what their mentoring programme actually involves. The RVO (Netherlands Enterprise Agency) maintains the official list of recognised facilitators at rvo.nl.

@@ -358,3 +358,26 @@ Some car rental companies accept Wise as a debit Mastercard for rentals, but pol
 ### What Dutch government benefits affect expat finances?
 
 Beyond credit cards, your overall [Dutch financial situation](/guides/finance/best-finance-apps-expats-netherlands-2026/) as an expat is shaped by the [30% ruling tax advantage](/guides/finance/30-percent-ruling-netherlands-2026/) (if eligible), zorgtoeslag for healthcare costs, and potentially huurtoeslag for housing. These are separate from credit access but affect how much disposable income you have — relevant when lenders assess your affordability.
+
+---
+
+## Credit Cards for ZZP (Freelance) Expats
+
+Freelancers in the Netherlands face a specific challenge with credit cards: irregular income makes it harder to satisfy the income verification requirements of traditional issuers. Here is what works:
+
+**Business credit cards:** ABN AMRO, ING, and Rabobank all offer business credit cards for registered ZZP companies. You need a Kvk (Chamber of Commerce) registration and ideally 12+ months of business bank history. Business credit cards are separate from your personal credit and often have higher limits.
+
+**Bunq Business Metal:** bunq offers a business version of its Metal plan, which includes credit-like features (buy-now-pay-later on eligible purchases). Since bunq assesses based on account activity rather than traditional credit scoring, it is more accessible to freelancers with variable monthly income.
+
+**Amex for ZZP:** American Express offers business cards in the Netherlands that are widely used by self-employed professionals. The Amex Business Gold is particularly useful for freelancers who travel frequently for work, as the points accumulate quickly and the annual fee is often justifiable as a business expense.
+
+**Tax deductibility note:** If you use a business credit card exclusively for business expenses, the annual fee may be deductible as a business cost. Discuss this with your boekhouder. Personal credit cards used for mixed personal and business spending are not cleanly deductible.
+
+---
+
+## Related Guides
+
+- [Best bank accounts for expats in the Netherlands](/guides/finance/best-bank-account-expats-netherlands-2026/) — where to start before you apply for a credit card
+- [Wise review for expats in the Netherlands](/guides/finance/wise-review-expats-netherlands-2026/) — the best credit card alternative for international spending
+- [Revolut review for expats in the Netherlands](/guides/finance/revolut-review-expats-netherlands-2026/) — features and limitations in the Dutch context
+- [Best finance apps for expats](/guides/finance/best-finance-apps-expats-netherlands-2026/) — the full toolkit for managing money in the Netherlands

@@ -240,6 +240,34 @@ Priya, by the way, ended up at a project management role at a mid-sized logistic
 
 ---
 
+## Salary Negotiation in Dutch Job Interviews
+
+Dutch hiring culture has become more open about salary discussion than it was a decade ago, but there are still norms worth understanding:
+
+**Bruto vs netto:** Dutch salary is always discussed and offered in bruto (gross) terms. Your actual take-home depends on your tax rate, 30% ruling eligibility, and social contributions. A €70,000 bruto salary translates to roughly €46,000–€52,000 netto depending on your situation. Always clarify whether a salary figure quoted is bruto or netto.
+
+**The timing of salary discussion:** In Dutch interviews, salary is typically discussed in the second or final round, not the first. If asked about salary expectations in a first round, it is acceptable to say "I would prefer to discuss that once we have had a chance to see whether there is a good mutual fit." If they press, give a range.
+
+**How to research the market:** Glassdoor Netherlands, Intermediair Salarischeck, and CBS (Statistics Netherlands) salary data by sector are the most reliable sources. LinkedIn Salary is also available in the Netherlands. The [salary checker tool](/tools/salary-checker/) on this site gives an indication for common expat roles.
+
+**The 30% ruling conversation:** If you are eligible for the 30% ruling, raise it during salary negotiation. The ruling reduces the employer's payroll tax burden and effectively allows them to offer you more net income for the same gross salary. Some employers build this into the package structure from the start; others need to be prompted.
+
+**Vakantiegeld (holiday allowance):** Dutch law requires employers to pay 8% of your gross annual salary as vakantiegeld, typically in May. This is separate from your salary — a €60,000 salary includes approximately €4,800 vakantiegeld on top. Always check whether a quoted salary includes vakantiegeld or quotes it separately, as this creates a 8% apparent difference between employers who handle it differently.
+
+**Other benefits to negotiate:** Dutch employment packages often include a laptop, NS Business Card (public transport), expense allowance (onkostenvergoeding), and pension contribution above the statutory minimum. For senior or specialist roles, additional leave days, training budget, and flexible working arrangements are negotiable.
+
+## After the Offer: What to Check in Your Contract
+
+Once you receive a formal offer (arbeidsovereenkomst), check:
+
+- **Contract type:** Tijdelijk (fixed-term) or onbepaalde tijd (indefinite). Fixed-term is common for first contracts; understand when and how it converts
+- **Proeftijd (probation period):** Maximum 2 months for indefinite contracts, 1 month for fixed-term contracts under 2 years
+- **Notice period (opzegtermijn):** Typically 1 month for employee during probation, building to 2–3 months after longer service
+- **Non-compete clause (concurrentiebeding):** Common in Dutch contracts; has real legal force — understand what it restricts before signing
+- **CAO reference:** Does your employer fall under a collective labour agreement? If so, the CAO terms may exceed the statutory minimums on vacation, sick pay, or other benefits
+
+The [Dutch employment contract guide](/guides/work/dutch-employment-contract-explained-2026/) covers all of these in detail.
+
 ## Further Reading
 
 - [Understanding Dutch Work Culture: A Complete Expat Guide](/guides/work/dutch-work-culture-guide-expats-2026/)

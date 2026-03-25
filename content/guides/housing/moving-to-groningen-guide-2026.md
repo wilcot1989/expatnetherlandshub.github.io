@@ -253,6 +253,10 @@ I make a point of telling clients what they are actually getting into, not just 
 - **Weather.** Groningen is in the northeast of the Netherlands, which means it gets the Dutch climate in its more pronounced form: grey, damp, and windy in winter, with cold easterly winds that feel more German than coastal. Summers can be genuinely lovely. But if you are coming from a warmer country, the winters in Groningen are longer and darker than most of the rest of the Netherlands
 - **Limited flight connections.** Groningen Airport Eelde is small with few international routes. If you travel internationally often for work or need to visit family abroad regularly, the dependence on Amsterdam Schiphol (2+ hours away) adds friction
 
+## First Week in Groningen: What to Do
+
+Register at Gemeente Groningen (Gedempte Zuiderdiep 98) promptly after arriving — walk-in registration is available for new residents. You will receive your BSN within a few days if you have your passport, rental contract, and proof of address. With your BSN, open a Dutch bank account immediately — ABN AMRO and ING both have Groningen branches, and Bunq or Revolut work as digital alternatives while you wait for a traditional account. Sign up for health insurance within four months of BRP registration. The university's international office runs a specific orientation for new international staff and PhD students that covers all of this in a half-day session — highly worth attending if you have a UT/RUG affiliation.
+
 ## More City Guides
 
 If you are comparing Groningen with other Dutch cities, these guides cover the same ground:

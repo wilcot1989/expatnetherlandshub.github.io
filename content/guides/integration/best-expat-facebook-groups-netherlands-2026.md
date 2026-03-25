@@ -389,4 +389,49 @@ If you arrived recently, a useful exercise: join three or four of the groups lis
 
 ---
 
+## WhatsApp and Telegram Expat Communities
+
+Facebook groups are not the only game in town. WhatsApp and Telegram groups have grown significantly as alternative community channels, particularly among younger expats and those who want more real-time interaction.
+
+**WhatsApp groups:** These tend to be smaller and more local than Facebook groups — a neighbourhood group in De Pijp, a group for parents at a specific international school, a group for colleagues from a particular company who have all relocated. You typically get added to these by someone already in them rather than finding them via search. Once you are in one or two, you tend to get invited into more.
+
+**Telegram:** Telegram channels and groups have grown particularly among the tech and startup community. Expat Tech Netherlands and Digital Nomads Amsterdam have active Telegram presences. Telegram groups are searchable — you can search "expats Netherlands" or "Amsterdam internationals" directly in the app and find active groups.
+
+**Signal:** Less common for community groups but occasionally used by communities that prioritise privacy. The legal-community international networks in Den Haag tend to favour Signal for sensitive professional discussions.
+
+The practical advantage of WhatsApp and Telegram over Facebook is that they are real-time. If you need a last-minute flatshare viewing recommendation or want to know if there is a queue at a specific government service point, these groups give you an immediate response. Facebook groups have a slower news cycle by comparison.
+
+---
+
+## LinkedIn Expat Groups in the Netherlands
+
+LinkedIn operates differently from Facebook in the Dutch expat context — it is less community and more professional infrastructure. But several groups are worth knowing:
+
+**Expats in the Netherlands (LinkedIn Group):** Several large groups under this name exist on LinkedIn with 10,000-40,000 members. Quality varies. The most active ones have job postings, visa questions, and professional introductions.
+
+**Highly Skilled Migrants in the Netherlands:** Particularly useful for people on the highly skilled migrant (kennismigrant) visa. Discussions cover permit renewals, employer obligations, and transitions between employers or to self-employment.
+
+**Women in Technology Netherlands:** Active professional group with regular events in Amsterdam and Eindhoven, well represented among international women in the tech sector.
+
+For LinkedIn strategy as a job-seeker or networker in the Netherlands specifically, see my guide to [LinkedIn in the Netherlands for expats](/guides/work/linkedin-netherlands-expat-tips-2026/).
+
+---
+
+## When to Move Beyond the Expat Community
+
+After a few years in the Netherlands, the question becomes less "which expat groups should I join" and more "how do I connect with Dutch life itself rather than an expat layer on top of it."
+
+This is genuinely worth thinking about. The expat community provides essential support and genuine friendship, but it also provides a bubble within which you can spend years in the Netherlands without really experiencing Dutch life. I have met expats who were here for five years, spoke no Dutch, and had almost exclusively expat social circles — and when I asked whether they felt at home here, the honest answer was often no.
+
+The transition to broader Dutch social integration usually involves some combination of:
+
+- Dutch language learning at a level where social interaction becomes genuinely comfortable (see the [best Dutch language courses guide](/guides/integration/best-dutch-language-courses-2026/))
+- Joining a Dutch sports club, choir, volunteer organisation, or other structured activity where you see the same people regularly
+- Workplace relationships with Dutch colleagues developed over time
+- Neighbourhood connections — people you know from the street, the school playground, the local café
+
+None of this means abandoning the expat community. Many of the warmest, most lasting friendships I have made in the Netherlands started in expat contexts and deepened into something that no longer needed the expat label at all.
+
+---
+
 *Sarah van den Berg is an expat coach and relocation specialist based in Utrecht. She has lived in the Netherlands for over ten years and works with individuals and families navigating the Dutch system.*

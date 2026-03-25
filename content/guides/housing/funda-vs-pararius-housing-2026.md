@@ -276,6 +276,80 @@ The Dutch rental market is competitive. The advantage goes to people who are pre
 
 ---
 
+## Other Rental Platforms Worth Knowing
+
+Funda and Pararius dominate the expat conversation, but they are not the only platforms relevant to the Dutch rental market. For a complete search strategy, you should be aware of what else exists.
+
+### HousingAnywhere
+
+HousingAnywhere is a platform specifically designed for international students and young professionals, often offering furnished rooms, studio apartments, and short-term rentals of 1–12 months. It is particularly strong in university cities (Groningen, Utrecht, Nijmegen, Delft) and in Amsterdam.
+
+The platform includes a verification system for both landlords and tenants, an online contract signing process, and rent payment through the platform. For expats arriving without furniture and needing a first accommodation for 3–6 months while they settle, HousingAnywhere fills a gap that neither Funda nor Pararius addresses well.
+
+<a href="https://ds1.nl/c/?si=447&li=26287&wi=418902&ws=&dl=" target="_blank" rel="noopener nofollow sponsored">Find short-stay furnished housing on HousingAnywhere →</a>
+
+### Kamernet
+
+Kamernet specialises in rooms and shared housing. It is the platform most Dutch students and young renters use for finding a room in a shared flat or student house. If you are looking for a room (rather than a self-contained apartment), Kamernet is a better starting point than either Funda or Pararius.
+
+Registration requires a Dutch phone number for verification. Most listings are in Dutch, though English listings exist for international students in university cities.
+
+### Facebook Groups
+
+Several Facebook groups are specifically dedicated to housing for expats in Dutch cities:
+- "Amsterdam Expat Housing" (multiple active groups, combined tens of thousands of members)
+- "Expat Housing Rotterdam"
+- "The Hague Housing & Accommodation"
+
+These groups are not curated like a professional platform and carry higher scam risk, but they do surface listings that never appear on Funda or Pararius — particularly from private landlords who are not working with an estate agent and want to avoid the platform fees.
+
+Approach Facebook listings with the same scam checks as Pararius, plus additional caution: verify the landlord's identity, never pay anything without a signed contract and a viewed property, and check that the person can legally let the property (ask for the property ownership or a management mandate document).
+
+### Direct Outreach to Housing Corporations
+
+The woningcorporaties (social housing associations) are worth understanding even though most expats cannot realistically access their properties (the waiting lists are 5–15 years in major cities).
+
+However, some housing corporations have separate mid-market rental portfolios — properties that are not in the social housing queue and rent at market rates. Vestia (South Holland), Ymere (Amsterdam), and others have these. These properties tend to be very good quality at fair prices and they do appear on Funda, but also on the corporations' own websites.
+
+If you are planning a long-term stay and can wait 3–6 months for the right property, registering on a housing corporation's waiting list for mid-market properties (not social housing) is worth doing immediately upon arrival — even if you do not use it for years, the clock starts from when you register.
+
+---
+
+## What Landlords Look for in Tenant Applications
+
+Understanding what Dutch landlords and agents look for gives you a practical advantage in a competitive market.
+
+### Income Requirements
+
+The standard Dutch income requirement is a gross monthly income of at least 3x the monthly rent. For a flat renting at EUR 1,500/month, you need to demonstrate gross income of EUR 4,500/month.
+
+For expats with international income (foreign employment, foreign salary paid in a non-euro currency), providing documentation can be more complex:
+- **Employment contract in English:** Most Dutch agents accept English-language employment contracts but may ask for a certified translation for legal documents
+- **Recent payslips (3 months):** Loonstroken if Dutch; equivalent from a foreign employer
+- **Employer letter confirming salary and employment duration:** Very useful for Kennismigrant holders whose permits are tied to employment
+- **30% ruling confirmation letter from the Belastingdienst:** Demonstrates your gross salary to landlords clearly
+
+If your income is variable (freelance, commission-based, bonuses), most agents want to see 6–12 months of bank statements or tax returns to establish average income.
+
+### Deposits
+
+Standard deposit in the Netherlands is 2 months' rent. Some landlords ask for only 1 month; some (particularly in competitive Amsterdam) ask for 3 months. Since the 2023 legislation on agency fees (which prohibited charging tenants a finder's fee), deposits have remained the primary upfront cost.
+
+**Note:** The 2023 law change was specifically about agency fees (bemiddelingskosten) for standard rentals. Deposits are still legal and standard. Do not let any agent or landlord tell you that "the new law means no deposit" — that is incorrect.
+
+### References and Background Checks
+
+For private rentals, landlords often ask for references from a previous landlord. For expats arriving from outside the Netherlands, this can be a challenge — your previous landlord may be in a different country and speaking a different language.
+
+What helps:
+- A reference letter from your employer (often accepted in lieu of a landlord reference for new arrivals)
+- A letter from a Dutch employer on headed paper confirming your employment start date and salary
+- If you have rented in the Netherlands previously, even for a short period, a Dutch landlord reference is valuable
+
+Some agents conduct formal background checks (VvAA or CreditSafe screening) on prospective tenants. These check against debt registers and BKR (credit registration). Most expats pass these straightforwardly if they do not have outstanding debts in Dutch records.
+
+---
+
 ## Frequently Asked Questions
 
 **Is Funda available in English?**

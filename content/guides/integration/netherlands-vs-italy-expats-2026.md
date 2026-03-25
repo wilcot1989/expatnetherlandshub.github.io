@@ -239,6 +239,52 @@ Southern Italy is its own conversation. Puglia, Sicily, and Calabria have attrac
 
 Very differently. Dutch work culture values punctuality, directness, consensus, and work-life separation — work ends at 5pm and that is respected. Italian work culture varies by sector and company but generally involves longer lunch breaks, later working hours, and more hierarchical structures. See our [Dutch work culture guide](/guides/work/dutch-work-culture-guide-expats-2026/) for the Dutch side in detail.
 
+### Which is better for remote workers or digital nomads?
+
+Italy has invested in accessibility for remote workers: the Digital Nomad Visa (launched 2024) provides a renewable 1-year residence permit for non-EU remote workers earning at least EUR 28,000/year from non-Italian sources. Several Italian cities — Matera, Palermo, Genova, Bari — have run programmes to attract remote workers to depopulating areas, sometimes with subsidised rent or financial incentives.
+
+The Netherlands does not have a specific digital nomad visa. Non-EU remote workers who want to stay long-term either need a Dutch employer (Kennismigrant) or must establish themselves as Dutch self-employed (ZZP), which requires a more substantial business case. For location-independent professionals without a Dutch employer, Italy is currently more accessible as a legal long-stay option.
+
+However, the Netherlands' broadband infrastructure and coworking scene are exceptional. If you have Dutch employment or can work as ZZP, the infrastructure for remote work in the Netherlands is among the best in Europe.
+
+### Which country has better work-life balance?
+
+Both countries protect work-life balance by law, but in different ways.
+
+Netherlands: 36–40 hour standard working week; strong cultural norm of leaving on time; part-time work at 32 hours or less is common and not career-limiting. The Netherlands has one of the highest rates of part-time professional employment globally, including at senior levels.
+
+Italy: The 35-hour week is prescribed by many national collective bargaining agreements (CCNL). Long lunch breaks (1–2 hours in many workplaces) are the norm. However, actual hours worked vary considerably — some Italian workplaces expect long days, particularly in demanding sectors like consulting, banking, and law.
+
+**Verdict:** The Netherlands' culture of work-life balance is more consistently enforced across sectors. Italian balance varies more by employer and sector, but when it works, it works beautifully.
+
+---
+
+## Practical Relocation Details: Netherlands to Italy and Back
+
+### Moving to the Netherlands from Italy (or vice versa)
+
+As EU citizens, movement between the Netherlands and Italy is completely free — no visa required, and you can work, study, and reside in either country. The practical steps:
+
+**Moving to the Netherlands as an EU Italian citizen:**
+1. Register at the gemeente (municipality) with your passport within 5 days of arriving to stay 4+ months
+2. Get your BSN automatically upon registration
+3. Open a Dutch bank account
+4. Arrange basisverzekering (health insurance) within 4 months
+5. Register with a huisarts (GP)
+
+**Moving to Italy as an EU Dutch citizen:**
+1. Register your residency at the anagrafe (civil registry office) of your municipality within 90 days
+2. Obtain a codice fiscale (tax code) from the Agenzia delle Entrate — can be done online or in person
+3. Open an Italian bank account (Intesa Sanpaolo, UniCredit, or fintech alternatives)
+4. Register for TESSERA SANITARIA (health card) to access SSN healthcare
+5. If employed, your employer handles social security registration; if self-employed, register as partita IVA (VAT number) and with INPS (pension/social security)
+
+### For non-EU expats
+
+The Netherlands' Kennismigrant route and Italy's Digital Nomad Visa are the two most relevant options discussed throughout this article. Processing times: Dutch Kennismigrant typically 2–4 weeks once employer submits; Italian Digital Nomad Visa is handled through Italian consulates and typically takes 4–8 weeks, though processing times vary by country of application.
+
+---
+
 ### Which is better for raising children?
 
 The Netherlands has excellent, affordable childcare, good international schools, and a child-safe cycling environment. Italy has excellent food and an extended family culture that supports children differently. Dutch children have more independence; Italian children benefit from tighter family networks. Both work well for expat families; it depends on your priorities.

@@ -300,6 +300,26 @@ The Hague is the best city in the Netherlands for expats who want a high quality
 
 If you work in an international organization, government, or simply want a cosmopolitan Dutch city that does not overwhelm, The Hague should be at the top of your list.
 
+---
+
+## The Hague for Diplomatic and International Organisation Families
+
+The Hague has a genuinely unique character among Dutch cities because of the concentration of international organisations, embassies, and legal institutions. This creates a specific expat culture that is different from the tech-and-startup expat scene in Amsterdam or the Erasmus University crowd in Rotterdam.
+
+**The international schools advantage:** No other Dutch city has The Hague's breadth of international school options. The ISH (International School of The Hague), British School in The Netherlands, American School of The Hague, and European School all operate here, serving families from over 100 nationalities. If your children need a specific curriculum — American, British, or IB — The Hague is almost certainly where that school is located. Start applications 12-18 months in advance for the most sought-after schools, particularly ISH and the British School.
+
+**The ACCESS support network:** ACCESS is a volunteer organisation specifically established to help internationals settling in The Hague and the wider Netherlands. They run helpdesks, information sessions, and a database of local services. For expats arriving alone, or families where one partner does not immediately have a professional network, ACCESS events are genuinely useful social starting points. Their annual Expat Fair in the autumn is one of the best free resources for newly arrived families.
+
+**The diplomatic housing circuit:** In Benoordenhout and Archipelbuurt, many landlords have long experience with diplomatic tenants. Some properties are specifically priced for diplomatic rental budgets (which are often higher than standard expat packages). If your organisation provides a housing allowance, these neighbourhoods are worth prioritising for their proximity to international schools and the court quarter. Working through a makelaar who specialises in diplomatic relocations — firms like JANSEN International, The VGM Group, or NL Real Estate — often produces better results than generic portals for the highest-demand properties.
+
+**Healthcare for diplomatic families:** The HISG (The Hague International School Group) recommends several GP practices with strong English capability. For specialist care, access to Haaglanden Medisch Centrum (HMC) and HAGA Hospital covers most medical needs; Erasmus MC in Rotterdam is 25 minutes away for highly specialised care.
+
+**The beach:** Scheveningen beach is 20 minutes from the city centre by tram — one of the most significant quality of life differentials between The Hague and other major Dutch cities. On a warm summer evening, cycling to the beach, eating at one of the pavilions, and cycling back is the kind of thing that makes living here feel genuinely good. The North Sea is cold, but that is what the beach bars are for.
+
+## Getting Settled: First Month Priorities
+
+Once you have secured housing in The Hague, the administrative sequence is the same as any Dutch city but moves quickly when you are organised. Register at the gemeente (Stadhuis, Spui 70) to get your BSN. Without the BSN you cannot open a bank account, sign up for health insurance, or start your employment contract. If your employer is an international organisation with a liaison desk at the Ministry of Foreign Affairs, that desk can sometimes accelerate the registration process. Sign up for Dutch health insurance within four months of registering — any policy from Zorgverzekering is fine as a starting point, and you can switch annually in January. Get your DigiD application in early, because it takes two weeks to arrive by post and you need it for almost every Dutch government service. The full process is covered in the [DigiD guide](/guides/legal/digid-guide-expats-2026/).
+
 ## Explore More Expat Guides
 
 - **[Complete Guide to Moving to the Netherlands](/guides/legal/complete-guide-moving-to-netherlands-2026/)** — Everything you need

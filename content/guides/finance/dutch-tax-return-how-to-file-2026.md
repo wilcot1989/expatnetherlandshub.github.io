@@ -307,3 +307,21 @@ If you're new to all of this, I'd genuinely recommend starting with my [overview
 And if your situation is at all complex — multiple countries, self-employment, 30% ruling transitions — spend the money on a good tax advisor. The fee is deductible in some circumstances, and the peace of mind is worth it either way.
 
 Good luck with this year's aangifte. Mine's already submitted.
+
+---
+
+## After You File: What Happens Next
+
+Many expats file their return and then wonder what to expect. Here is what typically happens.
+
+**Provisional assessment (voorlopige aanslag):** If you have received a voorlopige aanslag during the year (common if you have significant deductions or a complex situation), this was a payment-on-account. Your final assessment will settle the difference between what you paid upfront and what you actually owe.
+
+**Final assessment (definitieve aanslag):** The Belastingdienst processes your return and issues a final assessment. For simple returns, this can take a few weeks. For more complex returns or if the Belastingdienst has queries, it can take several months — legally up to three years for the standard assessment period.
+
+**Refund:** If you are owed money, the Belastingdienst pays it to the bank account registered in your MijnOverheid portal. Refunds are typically issued within 6–8 weeks of the assessment being issued. Occasionally faster, occasionally longer.
+
+**Additional tax due:** If you owe money, you will receive a bill with a payment deadline. Pay on time — interest (belastingrente) accrues from the deadline onwards at a significant rate.
+
+**Objection (bezwaar):** If you disagree with the assessment, you can file an objection (bezwaar) within 6 weeks of receiving the assessment. The process involves a formal written objection with your reasoning. For complex disputes, a tax advisor or lawyer handles this. For simple errors (a miskeyed figure), a phone call to the Belastingdienst often resolves things more quickly than a formal bezwaar.
+
+**Automatic pre-filling improvements:** Each year, the Belastingdienst pre-fills more data into your return — your employer's data from the jaaropgave, your bank's data, your DeGiro investment data, and more. The quality of pre-filling improves annually. However, pre-filled data can be wrong (particularly employer data in the first year, or if you switched employers). Always check before accepting pre-filled figures.

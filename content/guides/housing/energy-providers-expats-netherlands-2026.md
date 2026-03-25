@@ -254,6 +254,72 @@ Whichever contract type you choose, comparing prices before you sign takes just 
 
 For your overall housing budget, use the [Housing Budget Checker](/tools/housing-budget-checker/) to see what you can afford after taxes, and check our [cost of living guide](/guides/housing/cost-of-living-netherlands-2026/) and our [finding housing guide](/guides/housing/finding-housing-netherlands-expats-2026/) which covers energy labels and what to look for in a Dutch rental.
 
+## How to Switch Energy Providers in the Netherlands
+
+Switching energy providers is easier than most expats expect. The process is fully online and takes about 15 minutes. Here is how it works:
+
+**1. Use a comparison site first.**
+Independer shows live prices from all major providers for your address and estimated consumption. Enter your postcode and expected annual usage (a typical Dutch apartment uses around 2,500 kWh of electricity and 1,200 m³ of gas per year). The comparison shows the total annual cost for each contract, not just the per-unit rate.
+
+**2. Check the contract terms.**
+Look at: the contract duration, whether the rate is fixed or variable, the notice period to cancel, and whether there is a sign-up bonus. Bonuses of €50–€100 are common and worth factoring in. But a low introductory price that jumps after 12 months is less attractive than a modestly higher but stable rate.
+
+**3. Sign up with the new provider.**
+When you switch, your new provider handles the cancellation of your old contract. You do not need to call your existing provider. Provide your EAN number (found on your energy meter or previous bill), your current meter readings, and your bank account details for the direct debit.
+
+**4. The switch takes 2–4 weeks.**
+During this period your energy supply is not interrupted — the physical infrastructure does not change, only the billing relationship.
+
+**5. Check your first bill.**
+The first bill from a new provider is sometimes inaccurate because it estimates meter readings during the switch period. If it looks wrong, provide updated meter readings via your online account or customer service.
+
+## Understanding Your Dutch Energy Bill
+
+Dutch energy bills can be confusing if you are used to a different system. A few things to know:
+
+**Voorschot (advance payment):** Most Dutch contracts charge a monthly advance based on estimated annual consumption, then reconcile at year-end. If your actual usage is lower than estimated, you receive a refund (teruggave). If higher, you pay extra.
+
+**Vaste kosten (fixed costs):** Separate from the per-unit rate, these are monthly standing charges for meter rental and network access. They are non-negotiable and the same regardless of which provider you use, but they vary by contract type and meter size.
+
+**Energy tax (energiebelasting):** The Dutch government levies tax on energy consumption. This tax is included in the per-kWh price you see on comparison sites — you do not pay it separately. However, there is a fixed annual tax reduction (heffingskorting) of around €520 per connection, which is deducted from your total annual energy bill automatically.
+
+**ODE (Opslag Duurzame Energie):** This surcharge funds the Netherlands' renewable energy transition. It is included in your energy bill and applies to both gas and electricity.
+
+## Typical Annual Energy Costs in the Netherlands (2026)
+
+| Household type | Electricity (kWh) | Gas (m³) | Estimated annual cost |
+|---|---|---|---|
+| Studio / 1-person | 1,500 kWh | 700 m³ | €1,400–€1,800 |
+| 2-person apartment | 2,500 kWh | 1,200 m³ | €2,200–€2,800 |
+| Family home (3-4 people) | 3,500 kWh | 2,000 m³ | €3,200–€4,000 |
+| Family home with EV | 5,000 kWh | 2,000 m³ | €4,000–€5,200 |
+
+These figures assume standard variable contracts at 2026 average rates. Dynamic pricing or a solar panel installation can reduce these significantly.
+
+## Energy Labels and What They Mean for Your Costs
+
+Every Dutch rental and purchase property has an energielabel (energy label) from A+++ to G. The label directly affects your heating and electricity costs:
+
+- **Label A/B:** Well-insulated, modern systems. Expect to pay at or below the typical ranges above
+- **Label C/D:** Average insulation. Typical range costs as shown above
+- **Label E/F/G:** Poor insulation, older systems. Expect to pay 30–50% more than the average
+
+When viewing rental properties, check the energielabel — landlords are legally required to provide it. A cheaper rent on an E-label flat can easily be wiped out by higher energy costs compared to a B-label property at slightly higher rent. Factor this into your comparison.
+
+## Practical Tips for Managing Your Energy Costs
+
+A few things I have found useful in practice:
+
+**Read your meter in the first week.** When you move in, photograph your electricity and gas meter readings and email them to your energy provider. If this is not done, the provider estimates based on previous occupants' usage, which may be significantly different from yours. This affects your voorschot amount and your year-end settlement.
+
+**Understand your storingsnummer.** Every energy provider has an emergency number for power or gas outages (a storing). Save this number before you need it. Power outages are rare in the Netherlands, but when they happen — usually in winter storms — knowing who to call saves time.
+
+**Budget for the jaarafrekening.** The annual reconciliation in January can produce a surprise bill if your voorschot was set too low. If you move in during winter and use significantly more heating than the estimated profile suggests, consider requesting a higher monthly advance proactively. The provider will adjust it at the annual reconciliation anyway, but spreading the cost monthly is less painful than a single large bill.
+
+**Gas heating and the energietransitie.** The Dutch government is gradually moving away from gas heating towards heat pumps and district heating (stadsverwarming). In some new-build areas, gas connections are no longer installed. If you are renting a property connected to stadsverwarming, your heating and hot water costs work differently — you receive a single warmte bill from the warmteleverancier rather than separate gas charges. The [Warmtewet](https://www.acm.nl/nl/onderwerpen/energie/warmte) regulates these providers and sets maximum prices.
+
+**Solar panels on rented properties.** If your rental property has solar panels, the self-generated electricity typically reduces your electricity bill directly through the salderingsregeling (net metering). Ask the landlord how this is handled — in some cases the benefit is passed to the tenant, in others it is retained by the landlord. Clarify this before signing.
+
 ## Explore More Expat Guides
 
 - **[Complete Guide to Moving to the Netherlands](/guides/legal/complete-guide-moving-to-netherlands-2026/)** — Getting started

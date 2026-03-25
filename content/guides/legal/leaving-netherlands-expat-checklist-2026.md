@@ -297,3 +297,44 @@ If you have pension rights in multiple EU countries, cross-border pension aggreg
 - [How to Open a Bank Account in the Netherlands 2026](/guides/finance/how-to-open-bank-account-netherlands-2026/) — which banks allow non-resident accounts
 - [BSN Planner](/tools/bsn-planner/) — BSN-related admin before you go
 - [Health Insurance Wizard](/tools/health-insurance-wizard/) — international health insurance options for after you leave
+
+---
+
+## Timing Your Departure: What Happens Month by Month
+
+If you know your departure date, here is the practical timeline I recommend:
+
+**3–4 months before leaving:**
+- Notify your landlord in writing (typically 1–3 months' notice depending on your contract)
+- Start researching international health insurance or coverage in your destination country
+- Check whether your employer needs advance notice for 30% ruling termination or pension arrangements
+- Contact your pension provider about the options: transfer to your home country, leave in Dutch system, or convert to a value transfer
+
+**2 months before leaving:**
+- Cancel standing orders for Dutch services (health insurance, energy, internet) with proper notice periods
+- Begin the process for M-form tax filing (you file this after departure for your final Dutch tax year)
+- Request your Uittreksel BRP (extract from the personal records database) for any administrative needs abroad
+- Notify your bank about your upcoming departure — some accounts can be maintained as non-resident; others are closed
+
+**1 month before leaving:**
+- Complete the uitschrijving (deregistration) at the gemeente — you can deregister up to a month before your actual departure date; do it close to your departure date, not too early, as many services depend on BRP registration
+- Cancel your Dutch health insurance effective from your last day of BRP registration (you lose coverage from the deregistration date)
+- Return any items rented through Dutch services (OV-chipkaart, library cards, etc.)
+- Conduct your rental property check-out formally with your landlord and request your deposit back in writing
+
+**After you leave:**
+- File the M-form (migrantenformulier) with the Belastingdienst for your final partial-year Dutch tax return — this is usually due the following year
+- Keep your BSN and DigiD active — you may need them for pension queries, outstanding tax matters, or accessing past Dutch records
+- Check whether any toeslagen reconciliation (terugvordering) is due — this arrives by post at your last Dutch address, or via Mijn Overheid if you keep DigiD active
+
+## What You Can Keep After Leaving
+
+Several Dutch accounts and registrations remain useful after you leave:
+
+**Dutch bank account:** ABN AMRO and ING allow non-resident accounts for a period after you leave. Useful for receiving Dutch pension payments or tax refunds. Check their non-resident account terms before closing — it may be worth keeping open.
+
+**DigiD:** Remains active as long as you use it at least once every 3 years. Keep it active for Mijn Belastingdienst access, pension queries, and any ongoing Dutch administrative matters.
+
+**AOW pension rights:** Your accrued AOW (state pension) rights remain in the Dutch system. You can request payment from SVB when you reach Dutch pension age (67 in 2026), even if you live abroad. Notify SVB of your address abroad so they can contact you.
+
+**Dutch occupational pension:** If your employer had a pensioenfonds (pension fund), your accrued rights remain with them. Request a Pensioenoverzicht (pension overview) before leaving and register your international address with the fund. PensionTracker.nl can help locate old pension pots if you lose track.

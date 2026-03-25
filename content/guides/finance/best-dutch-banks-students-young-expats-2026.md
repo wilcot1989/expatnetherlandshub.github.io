@@ -293,6 +293,38 @@ For the complete picture of expat banking options beyond just student accounts, 
 
 Also useful: the [bank account chooser tool](/tools/bank-account-chooser/) if you want to answer a few quick questions and get a personalised recommendation.
 
+---
+
+## Opening a Dutch Bank Account Without a BSN: What Is Actually Possible
+
+The most common question I get from students and young expats who have not yet arrived is: "Can I open a Dutch bank account before I have a BSN?"
+
+The honest answer is nuanced. The BSN (burgerservicenummer) is required for the full Dutch bank account opening process at ING, ABN AMRO, and bunq. However, there are workable options for the gap period between arrival and BSN registration:
+
+**Wise before arrival:** A Wise account can be opened with just your passport from anywhere in the world. You get a European IBAN and a debit card delivered to your home country before you leave. You can receive salary (most employers accept a European IBAN) and make card payments immediately.
+
+**ING International Account:** ING offers a limited account for internationals who have not yet registered in the Netherlands. This can be opened with a passport alone, though it has reduced functionality until you add your BSN. Check current availability with ING directly.
+
+**The BSN timeline:** When you register with your local gemeente (municipality), the BSN is usually issued within a few days to a week for EU citizens. For non-EU arrivals with a residence permit, the process may take two to three weeks. Plan your account opening accordingly.
+
+**Practical sequence:** Open Wise before your flight. Register with your gemeente as soon as you can after arriving. Book an ING or ABN AMRO account appointment online on the same day you get your BSN confirmation. Most banks can complete the account opening within two to three working days of the BSN.
+
+---
+
+## Insurance and Benefits Connected to Your Dutch Account
+
+Once you have a Dutch bank account, several automatic or optional financial features become available that students and young expats should know about:
+
+**Zorgtoeslag (healthcare allowance):** If your income is below the threshold (updated annually), you may be entitled to a monthly contribution towards your health insurance premium from the Belastingdienst. This is paid directly to your Dutch bank account. You apply via the Belastingdienst portal using your DigiD — typically worth EUR 90-120 per month for lower-income earners.
+
+**Huurtoeslag (rental allowance):** If you are renting independently (not in student housing where utilities are shared) and your income and rent are within the eligibility thresholds, you may qualify. Again, paid monthly to your Dutch NL IBAN.
+
+**Studiefinanciering (DUO):** EU students who meet certain conditions are eligible for Dutch study finance — both a tuition grant and a living stipend. This arrives monthly to the NL IBAN you register with DUO. The amounts and conditions change periodically; check duo.nl for current figures.
+
+**Important:** All of these payments require a Dutch NL IBAN. If you have only a Wise or N26 account, these payments will be rejected. Get your ING or ABN AMRO account set up before you expect any of these to arrive.
+
+---
+
 ## Frequently Asked Questions
 
 ### Which bank is free for students in the Netherlands?

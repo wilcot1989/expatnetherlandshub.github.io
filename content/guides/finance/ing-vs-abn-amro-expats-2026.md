@@ -308,6 +308,66 @@ If you are just starting your research into banking options in the Netherlands, 
 
 ---
 
+## The Practical Reality of Day-to-Day Dutch Banking
+
+There are a few things about Dutch banking that are worth understanding regardless of which bank you choose — context that helps you get more from either ING or ABN AMRO once your account is open.
+
+### Tikkie: The Dutch Payment Request System
+
+Tikkie is a Dutch payment app developed by ABN AMRO but used by virtually all Dutch bank account holders. It is how Dutch people split bills — someone pays the restaurant, everyone else sends their share via Tikkie. You receive a Tikkie request as a link via WhatsApp or text, click it, and it processes through iDEAL from your Dutch account.
+
+Both ING and ABN AMRO accounts work perfectly with Tikkie. This sounds obvious, but it is worth mentioning because many expats initially have neobanks like Revolut as their primary account, and Tikkie does not work with non-Dutch accounts. Once you have an ING or ABN AMRO account, you are fully integrated into this social payment system that Dutch people use daily.
+
+### Geldmaat: Shared ATM Network
+
+The Netherlands consolidated its ATM network in 2020 into a shared infrastructure called Geldmaat. Both ING and ABN AMRO ATMs are now part of this shared network, meaning you can use any Geldmaat ATM with either bank's card at no charge within the Netherlands. There are approximately 3,200 Geldmaat ATMs across the country.
+
+Cash use in the Netherlands has declined sharply. Most Dutch businesses and people prefer pin (debit card) payments, and contactless is increasingly standard. But cash withdrawals are still occasional, and the shared Geldmaat network means neither bank has an ATM advantage over the other.
+
+### Betaalverzoek (Payment Request)
+
+ING has its own in-app payment request feature called Betaalverzoek — similar to Tikkie but within the ING app ecosystem. ABN AMRO has an equivalent. Both use iDEAL under the hood and serve the same function. However, Tikkie remains the dominant standard in practice because it is bank-agnostic — you send a Tikkie link and anyone with a Dutch account can pay it, regardless of their bank.
+
+---
+
+## What to Do If Your Account Application Is Rejected
+
+Both ING and ABN AMRO occasionally decline account applications, and this can be alarming if it happens to you. Reasons include:
+
+- **Address verification failure** — your registered Dutch address has not yet propagated through the IND or gemeente systems
+- **Pending permit status** — if your Kennismigrant permit is still processing when you apply, some banks hesitate
+- **AML (Anti-Money Laundering) screening** — standard automated checks against sanctions databases occasionally produce false positives
+
+If you are rejected, the steps are:
+1. Contact the bank directly and ask for the specific reason
+2. Provide additional documentation if requested (signed employer letter, permit confirmation, lease agreement)
+3. Try the other bank — ING and ABN AMRO have different automated screening systems, and a rejection from one does not mean the other will reject you
+4. Use Wise or bunq in the meantime (both accept non-Dutch residents with foreign addresses, bypassing some of the traditional bank requirements)
+
+Most rejections are administrative and resolvable within a week or two with the right documentation.
+
+---
+
+## Frequently Asked Questions Beyond the Basics
+
+**Can I use my ING or ABN AMRO account for my Dutch income tax refund?**
+
+Yes. Both banks accept Belastingdienst refund payments. When you complete your Dutch belastingaangifte (income tax return), you provide your Dutch IBAN for any refund, and both ING and ABN AMRO IBANs work without issue.
+
+**What happens to my Dutch bank account if I leave the Netherlands?**
+
+If you move to another EU country, you can request to keep your Dutch account open and update your address. Banks will comply in most cases, though some specific products (like Dutch mortgage services) may require a Dutch address.
+
+If you move outside the EU, both ING and ABN AMRO will ask you to close the account. You should plan this well in advance — liquidate any linked investments, transfer remaining balance, and close the account formally. An unclosed account with a non-EU registered address will eventually be flagged and closed by the bank.
+
+For the transition period, keeping a Wise account (which has no address requirement in the same way) ensures you have payment infrastructure while closing out Dutch accounts.
+
+**Which bank is better for self-employed expats (ZZP)?**
+
+Neither ING nor ABN AMRO has a particularly strong offering for ZZP freelancers compared to dedicated business banking products. Bunq's business account is generally better suited to ZZP needs. For traditional banking for freelancers, both ING (Zakelijke Rekening) and ABN AMRO (ABN AMRO Zakelijk) have business accounts, but the KvK registration adds complexity to the application. See our [Dutch business bank account guide for ZZP freelancers](/guides/finance/dutch-business-bank-account-zzp-2026/) for a full comparison.
+
+---
+
 ## Related Guides
 
 - [Best Bank Accounts for Expats in the Netherlands (2026)](/guides/finance/best-bank-account-expats-netherlands-2026/)

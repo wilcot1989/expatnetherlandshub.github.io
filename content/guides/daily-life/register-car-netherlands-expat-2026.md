@@ -309,3 +309,45 @@ One practical tip before you buy anything: if you are considering a used car fro
 For questions around taxes more broadly — including how car costs interact with income tax and the 30% ruling — the [Dutch tax system guide for expats](/guides/finance/dutch-tax-system-expats-guide-2026/) is worth reading before you make any large financial decisions here.
 
 ---
+
+## Selling Your Car and Deregistering It
+
+When you sell your car in the Netherlands or leave the country, you need to properly deregister it with the RDW to stop road tax and insurance obligations.
+
+**Selling to a Dutch buyer:**
+1. Complete the ownership transfer via Mijn RDW (requires DigiD) — both buyer and seller must do this
+2. Notify your insurer on the same day as the transfer
+3. Keep a copy of the transfer confirmation — you may need it to prove you are no longer liable for the vehicle
+
+**Exporting from the Netherlands:**
+If you are taking your car to another country, you need an "exportkentekenbewijsdeel IA" from the RDW — this is the export registration document. The vehicle is then deregistered from the Dutch system. At the destination country, you will need to re-register according to that country's rules.
+
+**What if you sell but the buyer does not complete the transfer?** This is a problem. If the buyer drives the car and gets a fine, causes an accident, or runs up road tax arrears under your registration, you are the registered owner. Always complete the RDW transfer on the day of sale. Do not hand over keys and payment and assume the buyer will sort it later.
+
+**Periodic maintenance reminder:** Dutch cars require an APK (MOT equivalent) every two years for vehicles up to 4 years old, and annually after that. The APK is done by a certified garage (you will see "APK-keurstation" signs). Missing an APK or driving with a failed APK invalidates your insurance. Keep track of your APK due date — it is on the registration documents and the RDW website.
+
+## Should Expats Own a Car in the Netherlands?
+
+Before going through the registration process, it is worth asking whether you actually need a car. The Netherlands has one of the best public transport networks in the world, and most major cities are easily liveable without a car:
+
+**Public transport:** NS trains connect all major cities with frequent services. Local buses, trams, and metros cover urban areas. The OV-chipkaart (public transport card) works on all systems. For an expat living in Amsterdam, Utrecht, Rotterdam, or The Hague and working in the same city, a car is an active inconvenience rather than an advantage — parking costs, traffic, and the cycling infrastructure all favour two wheels over four.
+
+**When a car makes sense:**
+- You live in a rural or suburban area not well-served by public transport
+- You have young children and need to transport them to multiple locations efficiently
+- Your work involves significant regional travel outside the public transport network
+- You have specific mobility needs
+- You regularly need to transport large items
+
+**Costs of car ownership in the Netherlands:**
+Beyond the purchase price, budget for:
+- Motorrijtuigenbelasting (motor vehicle tax): typically €100–€350/month depending on weight and fuel type. Electric vehicles pay no MRB until 2026 (then a reduced rate).
+- WA (liability) insurance: approximately €40–€80/month
+- All-risk insurance: approximately €80–€180/month
+- Fuel: around €1.90–€2.10/litre for petrol (benzine), €1.60–€1.80 for diesel (2026)
+- APK every 1–2 years: approximately €50–€80
+- Parking in major cities: €3–€8/hour or €150–€300/month for a parking permit
+
+For many expats in the Randstad, a combination of cycling and public transport is cheaper, faster for daily commuting, and significantly less stressful than car ownership. The NS Business Card (if your employer provides one) covers all public transport in the Netherlands. The decision is genuinely worth calculating before you register a car.
+
+---

@@ -290,4 +290,73 @@ For getting around during public holidays — especially if you want to explore 
 
 ---
 
+## Sinterklaas: The Guide Every Expat Needs
+
+Sinterklaas is the celebration that most shapes Dutch childhood and family culture. Understanding it is important for expats — both to participate and to navigate the social conversations around it.
+
+### What Happens and When
+
+**Mid-November:** Sinterklaas arrives by steamboat (stoomboot) from "Spain," docking in a different Dutch city each year. This arrival (intocht van Sinterklaas) is broadcast live on national television and is a major event for children. In the weeks that follow, Sinterklaas and his helpers travel the country visiting schools, shops, and events.
+
+**December 5 (Pakjesavond):** The evening of 5 December is when gifts are exchanged. Children put their shoe by the fireplace (or a designated spot) in the evening, and find gifts from Sinterklaas in the morning — or, in the family tradition, gifts arrive in a sack delivered by the helpers. For adults, the tradition often involves a surprise (surpris) — a creative, often humorous homemade package that disguises the gift, accompanied by a rhyming poem (gedicht) that teases the recipient affectionately.
+
+**December 6:** Sinterklaas officially leaves the Netherlands to return to Spain. Some families have small remaining celebrations; most Dutch people wake up on December 6 somewhat relieved the intense preparation period is over.
+
+### The Sinterklaas Poem
+
+The gedicht (poem) written to accompany a gift is an art form in the Netherlands. It should:
+- Be written in rhyme
+- Reference the recipient's quirks, habits, or recent life events in an affectionate teasing way
+- Be read aloud before the gift is opened
+- Make the recipient laugh, not genuinely embarrassed
+
+As an expat joining a Dutch family's Sinterklaas celebration for the first time, you will likely be given a gedicht written for you. It may be in Dutch. Ask someone to translate — the joke will survive.
+
+### The Piet Discussion
+
+The character of Zwarte Piet (Black Pete), Sinterklaas's helper, has been at the centre of significant social debate in the Netherlands for over a decade. Originally portrayed with blackface, many municipalities and organisations now use alternative versions (roetveegpiet — soot-smudged pete). This is a live social debate in the Netherlands. As an expat, knowing it exists and approaching conversations about it with awareness is helpful.
+
+### Traditional Sinterklaas Foods
+
+**Speculaas:** Spiced biscuits in Sinterklaas shapes (stars, windmills, people). Available from late October onwards in every supermarket.
+**Pepernoten:** Small, round, spiced cookies distributed in enormous quantities. Bags of pepernoten appear in shops from September.
+**Chocolate letters:** Large chocolate letters given as gifts (tradition is to give someone the initial of their first name).
+**Banketletter:** Pastry filled with almond paste, shaped as a letter. A bakery tradition for the Sinterklaas season.
+
+Sinterklaas season transforms Dutch supermarkets from late October through December 5. Enjoy it — the food is genuinely excellent.
+
+---
+
+## Cycling Culture as a Dutch Tradition
+
+In a guide about Dutch holidays and traditions, it would be incomplete not to mention cycling — because in the Netherlands, cycling is a cultural tradition as much as a transport mode. Cycling is woven into every aspect of daily and seasonal Dutch life:
+
+**Koningsdag by bike:** On King's Day (April 27), Amsterdam becomes a sea of orange-dressed cyclists. Cycling to the festivities, carrying supplies in the bakfiets (cargo bike), and using the bike to access the street markets is the default mode for most Dutch residents.
+
+**Summer cycling:** The fiets season peaks in summer. Families cycle to the beach, to barbecues, to festivals. The Dutch have a cultural norm that cycling is for everyone — not just the young, the fit, or the sports-oriented. Elderly people in their 70s and 80s cycling to the market is an ordinary sight.
+
+**Christmas markets by bike:** Leiden, Maastricht, and Rotterdam all have famous outdoor Christmas markets (kerstmarkten). The Dutch cycle to them. Arriving by bike is the norm; parking is plentiful for bicycles in a way it often is not for cars.
+
+## Dutch Food Traditions Worth Knowing
+
+Food is deeply connected to Dutch seasonal traditions. A few highlights that you will encounter as an expat:
+
+**Herring (haring):** Fresh herring (Hollandse Nieuwe) is available from mid-June, marking the start of the herring season. Eating it the traditional way — holding it by the tail, tilting your head back, and lowering it into your mouth with raw onions — is a Dutch cultural act. Haringkar (herring carts) appear in city centres. This is not a joke; the Dutch are entirely serious about herring.
+
+**Stroopwafel:** Two thin waffles sandwiched with caramel syrup. The traditional way to eat one is to balance it over a hot cup of tea or coffee until the caramel softens. Available everywhere; best warm from a fresh waffle stall (the Albert Cuyp market in Amsterdam has excellent ones).
+
+**Bitterballen:** Deep-fried ragout-filled balls, eaten as a snack with mustard, typically with bier (beer). A Friday afternoon staple in Dutch workplaces and a fixture at any borrel. Not pretending to be health food; entirely delicious.
+
+**Erwtensoep:** Thick pea soup, eaten only in winter. Traditionally so thick a spoon should stand upright in it. Sold from market stalls and at special soep events in January-February. The Dutch call it snert (not a slur — it is just the name). Finding a really good erwtensoep is a minor seasonal quest.
+
+**Poffertjes:** Small, fluffy pancakes made with yeast and buckwheat, served with butter and icing sugar. Available at markets, fairs, and Koningsdag. One of those foods that tastes better than it has any right to, especially standing at a market stall in the cold.
+
+## Dutch Birthdays: The Circle of Chairs
+
+One tradition that confuses most expats on first encounter is the Dutch birthday celebration (verjaardag). The custom is for the birthday person to arrange their own celebration — not to be surprised or treated. They typically bring cake or treats to the office or school. At home celebrations, the guests sit in a circle (the infamous Dutch circle) and congratulate not just the birthday person but also all their family members ("Gefeliciteerd met je vrouw!", "Congratulations with your wife" — said to a husband on his wife's birthday).
+
+If you are invited to a Dutch birthday party, bring a small gift and expect to join the circle, drink coffee and eat cake, and make conversation with people you may not know. The format can feel formal to expats used to more fluid party styles, but it is warm in its way once you understand the conventions.
+
+---
+
 *Last updated: March 2026.*

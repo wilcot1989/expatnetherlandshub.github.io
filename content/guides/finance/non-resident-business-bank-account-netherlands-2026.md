@@ -281,3 +281,27 @@ Once the company is up and running and generating revenue, I would add a bunq Bu
 For more context on how Dutch business banking compares across different account types and user situations, the [bank account chooser tool](/tools/bank-account-chooser/) can help you narrow down the right option for your specific setup. If you are also considering Wise against other international transfer services, the [best international money transfer guide for the Netherlands](/guides/finance/best-international-money-transfer-netherlands-2026/) covers the main options side by side.
 
 <a href="https://wise.com/invite/ihpc/willemt52" target="_blank" rel="noopener nofollow sponsored" class="cta-affiliate">Open Wise Business →</a>
+
+---
+
+## When You Move to the Netherlands: Upgrading Your Setup
+
+If your long-term plan involves relocating to the Netherlands, your banking setup will change once you have Dutch residency. As a resident with a BSN, the full range of Dutch business banking opens to you: ING, ABN AMRO, and Rabobank all become standard options.
+
+At that point, your Wise Business account becomes a useful supplement rather than your primary solution — particularly for receiving international payments, paying foreign suppliers, and holding foreign currency. Most Dutch resident BV owners end up with both a traditional Dutch business account (for iDEAL and local transactions) and a Wise Business account (for international flows). The total cost is manageable: ABN AMRO business accounts start at approximately EUR 15-20 per month; Wise Business charges per transaction.
+
+The [highly skilled migrant visa guide](/guides/legal/highly-skilled-migrant-visa-netherlands-2026/) covers the residence permit path if you are considering relocating to work from your Dutch BV.
+
+### Economic Substance and the Dutch Tax Authorities
+
+Since the ATAD2 directive (adopted in Dutch law from 2020), the Dutch tax authorities pay more attention to whether Dutch-registered companies have genuine economic substance in the Netherlands. For large holding structures, this matters significantly. For a small operational BV where the owner does actual work — consulting, software development, creative services — substance is generally not an issue.
+
+If your BV is purely a holding structure with no active operations in the Netherlands, get professional tax advice before relying on Dutch tax treaty benefits. The substance requirements for holding companies are specific and have tightened in recent years. A Dutch tax advisor or corporate lawyer can assess your structure quickly.
+
+### Multi-Currency Operations: A Practical Note
+
+One area where non-resident BV founders have a clear advantage over traditional Dutch businesses is multi-currency operations. Dutch companies historically operated in EUR almost exclusively. But if your BV has clients in the UK, US, Australia, or elsewhere, you may invoice and receive payment in GBP, USD, or AUD.
+
+With Wise Business, you can receive client payments in their local currency (using UK, US, or Australian account details), convert when the rate is right, and send EUR to Dutch suppliers — all from one interface. This eliminates the double conversion cost that traditional Dutch bank transfers impose. For a BV billing EUR 100,000 annually in mixed currencies, the saving on conversion fees alone can be EUR 1,000-3,000 per year.
+
+Keep conversion records for your Dutch bookkeeper — each currency conversion is a taxable event for corporate tax purposes, and your accountant will need the documentation at year-end. Most accounting software that integrates with Wise (Xero, QuickBooks) handles this automatically, pulling transaction data including exchange rates directly into your books. Your Dutch accountant will appreciate receiving clean transaction data rather than having to reconcile manually from bank statements — it saves them time and you money on bookkeeping hours.

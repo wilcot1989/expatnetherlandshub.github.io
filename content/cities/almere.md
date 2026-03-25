@@ -120,6 +120,46 @@ Moving to Almere requires a few first steps. Here are the most important ones:
 
 **Plan your budget** — Use our free [cost of living calculator](/tools/cost-of-living-calculator/) and [housing budget checker](/tools/housing-budget-checker/) to see what you can afford in Almere.
 
+## Expat Community & Social Life
+
+Almere's expat community is less visible than in cities built around a university or a major multinational. Most international residents came because of housing affordability rather than employment — they work in Amsterdam, Utrecht, or at Schiphol, and Almere is where they could afford to live. That shared circumstance creates a social foundation, but it does not produce the tight professional communities you find in Eindhoven or Leiden.
+
+The Almere Expats Facebook group is the main informal network. InterNations Almere has events, smaller than the Amsterdam equivalent but functional. Several sports clubs in the Centrum and Haven areas have English-speaking membership — hockey clubs, football teams, and running groups are the most commonly mentioned by expats who have built their social life here.
+
+For cultural activities at scale, Amsterdam is the realistic answer. Most Almere residents make regular trips to Amsterdam for concerts, museums, and events — the 25-minute train makes this straightforward. Almere has its own cultural facilities: the Schouwburg, the new Almere City FC stadium, and a cinema complex in the Centrum. They are functional rather than distinctive.
+
+The Gooimeer and Markermeer lakes along the eastern and northern edges of the city are a genuine outdoor amenity. Watersports are popular — sailing, windsurfing, kayaking, and stand-up paddle boarding are all active communities, particularly in the Haven district where the waterfront infrastructure supports them.
+
+## Schools and Families
+
+Almere has an international school. The Almere International School (AIS) provides education in English, primarily for the international community that arrived via corporate Amsterdam connections. Capacity is limited; waiting lists apply. Contact them before arrival if you are arriving with school-age children.
+
+Dutch-medium primary and secondary schools in Almere are numerous — the city is large enough to have a wide range of options. Several schools in the Haven and Stad districts have experience with non-Dutch speaking children, which matters for families arriving mid-year.
+
+Almere is one of the more practical Dutch cities for families with children in terms of housing supply. The Buiten district has the largest supply of family homes with gardens, good schools, and local sports clubs. The price comparison with the Randstad for a 3 or 4-bedroom family home is very stark — what costs €500,000 in Amsterdam typically costs €350,000–€400,000 in Almere, and rental equivalents reflect a similar differential.
+
+## Housing Search: Practical Advice
+
+Almere's housing market is less competitive than the Randstad cities. There is a reasonable supply of private rental properties across the districts, and the pressure to make immediate decisions after a viewing is lower.
+
+The main search platforms are Pararius, Funda, and local Almere agencies. Connexxion (the housing association for Flevoland) manages a large social housing stock in Almere — the waiting list is long, but worth registering on if you think you will be in the Netherlands for several years.
+
+District choice matters more in Almere than in most Dutch cities because the districts are spread out and do not all connect equally well. If you commute to Amsterdam Centraal by train, Almere Stad (Centraal station) or Haven (its own station) are the logical bases. If you drive and work south of Amsterdam or in Utrecht, Almere Buiten or Poort may suit better for the road access.
+
+A car is more useful in Almere than in most Dutch cities. The outer districts — Buiten, Poort — are designed around road access, and bus services to some areas outside peak hours are infrequent. If you do not drive, base yourself in the Stad or Haven district where the rail and cycling connections are better.
+
+## Settling In: The First Month
+
+1. Secure housing with a rental contract permitting registration at the address
+2. Book registration at Gemeente Almere — appointments via almere.nl, typically 1–3 weeks wait
+3. Receive BSN at the appointment
+4. Open Dutch bank account
+5. Register for health insurance immediately
+6. Find a GP — start this process early as some Almere practices have capacity constraints; English-language availability varies
+7. Apply for DigiD after BSN
+
+One practical note for Almere specifically: the city's GP shortage means finding a registered practice can take longer than in Amsterdam or The Hague. Some practices in the Stad and Buiten districts are closed to new patients. Use Zorgkaart Nederland to check which practices are accepting new registrations before you arrive.
+
 ## Related Guides
 
 - [Finding Housing in the Netherlands](/guides/housing/finding-housing-netherlands-expats-2026/)

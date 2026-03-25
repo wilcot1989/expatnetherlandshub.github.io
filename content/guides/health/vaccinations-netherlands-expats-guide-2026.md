@@ -300,3 +300,28 @@ The vaccinations themselves are the same. Consultation and paperwork are typical
 ### What is the RIVM and what does it do?
 
 The RIVM (Rijksinstituut voor Volksgezondheid en Milieu) is the Netherlands' national public health institute. It manages the national vaccination programme, tracks infectious disease outbreaks, and provides health guidance to the Dutch government. Their website (rivm.nl) is available in both Dutch and English and is the authoritative source for vaccination schedules and health advice.
+
+---
+
+## Vaccination Records: What to Bring and How to Handle Missing History
+
+One of the most practical challenges for expats arriving in the Netherlands is vaccination record management. Different countries use different formats, some records are in non-Latin script, and childhood vaccination histories are often incomplete or held only on paper.
+
+**What to bring when you arrive:**
+- Your own vaccination records, including childhood vaccinations if you have them
+- Any previous vaccination certificates (yellow fever, COVID, etc.)
+- Records for all children moving with you
+
+**If your records are in a foreign language:**
+Your Dutch GP does not need an official translation — they are trained to interpret vaccination records from many countries. Bring the originals and they will work through them. For records in non-Latin script (Arabic, Cyrillic, Chinese, etc.), a simple written explanation of what each vaccination was and approximately when is helpful.
+
+**If you have no records:**
+This is common, particularly for adults who were vaccinated as children in countries with less formalised record-keeping. Your GP can check immunity through serological blood tests for key diseases including measles, rubella, chickenpox (varicella), and hepatitis B. The tests show whether you have antibodies, which tells them whether you are protected regardless of vaccination history. This is often the most practical approach for adults with incomplete records.
+
+**For children:**
+At the consultatiebureau, the child health nurses are experienced in working with children who arrive with foreign vaccination records. They will compare your child's history against the Dutch schedule and identify any gaps. Catch-up vaccination is routine and follows a defined schedule.
+
+**Storing records going forward:**
+The Netherlands does not have a single centralised patient vaccination record system. Your GP maintains your records, and your apotheek has your medication history, but there is no unified national health record. Keep your own physical and digital copies of all vaccination certificates, particularly yellow fever and any other internationally recognised certificates. The EU COVID certificate and its successors use a digital format that is widely accepted.
+
+For a complete guide to setting up your Dutch health setup from arrival, see the [Dutch healthcare system explained guide](/guides/health/dutch-healthcare-system-explained-2026/) and our [first 30 days checklist](/guides/legal/first-30-days-netherlands-expat-checklist-2026/).

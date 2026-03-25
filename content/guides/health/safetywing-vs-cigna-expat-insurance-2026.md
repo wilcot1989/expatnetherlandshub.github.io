@@ -277,4 +277,71 @@ Start with the [complete expat health insurance guide for the Netherlands](/guid
 
 ---
 
+## Specific Scenarios: Making the Right Choice for Your Situation
+
+The abstract comparison is useful, but the real decision comes when you map it to your specific circumstances. Here are four scenarios I encounter regularly and my honest recommendation for each.
+
+### Scenario 1: Arriving in the Netherlands next month, starting a corporate job
+
+You will be required to take out Dutch basisverzekering. Full stop. Neither SafetyWing nor Cigna replaces it.
+
+Your employer's HR department will remind you of this. The basisverzekering kicks in from the date you become insured under the Dutch social security system, which is typically your first day of employment.
+
+What SafetyWing is useful for here: if you arrive a week before your employment start date and have a gap in coverage, SafetyWing's monthly, no-commitment model can cover you for that week. Cost: approximately EUR 45 for 4 weeks. Worth it purely for the emergency coverage peace of mind during the gap.
+
+After that: cancel SafetyWing, enrol in basisverzekering, and optionally add a Dutch aanvullende (supplementary) plan for dental and glasses.
+
+### Scenario 2: Posted worker (gedetacheerd werknemer) arriving from another EU country
+
+If you are legally working in the Netherlands but are still insured under your home country's social security system (evidenced by an A1 certificate), you are typically exempt from Dutch basisverzekering during the posting period.
+
+In this case, your home country health insurance should cover you in the Netherlands under EU coordination rules (European Health Insurance Card / EHIC). However, EHIC coverage is limited to necessary healthcare during your stay, not routine or elective care.
+
+This is where Cigna Global makes sense as a supplement. It fills the gap between what your home country insurance covers and what you actually need as someone living and working in the Netherlands for 1–3 years. Cigna's international network includes Dutch private clinics, and it handles the complexity of cross-border coverage better than most national health insurance schemes.
+
+Cost: expect EUR 200–350/month for a Cigna Global plan that provides meaningful supplement to your home country coverage. Discuss this with your employer — many multinationals include international health insurance in the posting package.
+
+### Scenario 3: Freelancer living between multiple European countries (genuine nomad)
+
+If you are moving between countries on a quarterly or monthly basis — working from Lisbon one quarter, Amsterdam the next, Barcelona after that — and you are not registered as a permanent resident anywhere, SafetyWing is purpose-built for your situation.
+
+The monthly billing, global coverage, and lack of permanent address requirement are specifically designed for this lifestyle. The emergency coverage focus matches your needs if you are young and healthy.
+
+Be aware: if you spend more than 183 days in any one country, you may become a tax resident there, and the health insurance obligation question becomes more complex. SafetyWing does not manage your tax residency situation — that is a separate conversation.
+
+### Scenario 4: Senior executive on a multinational assignment, Netherlands as primary base
+
+For a senior professional on a multi-year assignment, where your employer is covering some costs, Cigna Global in combination with Dutch basisverzekering might actually make sense as a dual setup:
+
+- Dutch basisverzekering for legal compliance and primary Dutch healthcare
+- Cigna Global to provide private hospital access in the Netherlands and complete coverage when travelling internationally
+
+The cost is significant (EUR 150–350/month for Cigna on top of EUR 155–175/month for basisverzekering), but for a senior assignee whose employer covers the Cigna premium, this is a genuinely comprehensive setup.
+
+Discuss with your employer whether Cigna Global premiums are included in your assignment package or whether they can be added as a benefit.
+
+---
+
+## Additional Coverage Worth Considering
+
+Both SafetyWing and Cigna Global leave certain coverage gaps that expats in the Netherlands should know about.
+
+### Disability and Income Protection
+
+Neither SafetyWing nor Cigna Global covers income replacement if you become too ill or injured to work. In the Netherlands, employed workers have statutory sick pay protection (70% of salary for up to 2 years under the Ziektewet), and the WIA (Work and Income according to Labour Capacity Act) provides long-term disability coverage.
+
+If you are self-employed (ZZP), you have no statutory sick pay protection. This is a genuine financial risk — a ZZP freelancer with no income protection insurance faces potentially years without income if they become seriously ill. Dedicated arbeidsongeschiktheidsverzekering (occupational disability insurance) from Dutch insurers covers this, and it is something every ZZP expat should consider.
+
+### Long-Term Care
+
+Neither product covers Dutch AWBZ/WLZ (long-term care) needs. The Dutch long-term care system provides for nursing home care and home support for those with serious long-term conditions, but the rules around access and cost for expats are complex. This is a consideration primarily for older expats or those with existing conditions.
+
+### Dental: The Persistent Gap
+
+Dutch basisverzekering does not cover adult dental care (from age 18) except for specific listed treatments. Cigna Global's dental add-on covers routine care, but the cost is significant. SafetyWing covers only dental emergencies.
+
+For expats without employer-provided dental coverage, a Dutch aanvullende verzekering that includes tandarts (dentist) coverage is typically the most cost-effective solution — often EUR 15–30/month extra on top of basisverzekering.
+
+---
+
 *Sarah van den Berg is an expat coach and relocation specialist based in the Netherlands. She has lived in the Netherlands for over ten years and works with expats moving to and within the country. This article reflects her personal experience and research; it is not financial or legal advice. Always verify your insurance obligations with a qualified adviser or the SVB.*

@@ -271,3 +271,48 @@ The IND has a target of processing applications within 90 days of receiving a co
 **Do EU citizens need an MVV to join family in the Netherlands?**
 
 No. EU/EEA and Swiss citizens do not need an MVV. They can enter the Netherlands and register at the municipality. Family members of EU citizens may also be exempt from the MVV requirement depending on their own nationality and whether they qualify under EU free movement rules.
+
+---
+
+## Costs to Budget For
+
+Family reunification involves real fees that are worth planning for before you start.
+
+**IND application fees (2026 approximate):**
+- Family reunification residence permit (adult): approximately EUR 210
+- Family reunification residence permit (minor child): approximately EUR 70–120
+- Partner MVV: included in the combined application fee
+
+**Other costs:**
+- Apostille on documents: EUR 10–80 per document (varies by country)
+- Certified translations: EUR 50–150 per document depending on language pair and length
+- Medical certificate (where required): EUR 50–200 depending on country
+- Basic civic integration test preparation (where required): EUR 100–500 for preparation courses
+- Immigration lawyer (if you use one): EUR 1,000–3,500 for a standard case; more for complex situations
+- Travel for the family member to the Dutch embassy for biometrics: depends on location
+
+**Total realistic cost for a straightforward application:** EUR 500–1,500 in direct fees and document costs, plus travel. Complex applications involving lawyers, additional testing, or multiple documents can cost EUR 2,500–5,000 or more.
+
+---
+
+## Civic Integration After Arrival: What Your Family Member Faces
+
+The inburgeringsexamen (civic integration exam) is a significant commitment for family members who come to the Netherlands through family reunification. Here is what it involves:
+
+**The exam components:**
+- Reading (lezen) — Dutch reading comprehension
+- Writing (schrijven) — Dutch writing
+- Listening (luisteren) — Dutch listening comprehension
+- Speaking (spreken) — Dutch speaking
+- Knowledge of Dutch Society (KNS) — culture, institutions, history
+- Labour Market and Participation (MAP) — orientation on work and integration
+
+The required level for the inburgering is **A2 Dutch** (on the CEFR scale), with some elements requiring B1. This is a real commitment — for many family members coming from non-European language backgrounds, reaching A2 takes 12–18 months of study.
+
+**The municipality's role:** Under the 2022 inburgering reforms, the gemeente (municipality) plays an active coordinating role. After arrival and registration, your family member will be assigned a case manager and given a personalised integration plan (persoonlijk plan inburgering en participatie). They are legally required to start inburgering within 10 weeks of registration.
+
+**Financial support:** DUO (Dienst Uitvoering Onderwijs) manages a loan system (lening) that covers language courses and exam fees. The loan is forgiven if the inburgeringsexamen is passed within the required time. This removes the financial barrier to language study — but the loan requires active management.
+
+**Consequences of failing:** Failing to pass the inburgering within the required period (three years in most cases, with possible extension) can result in fines and complications with future permit renewals or permanent residence applications.
+
+Start early. Many families underestimate the time commitment required.

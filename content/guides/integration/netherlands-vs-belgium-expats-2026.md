@@ -254,6 +254,70 @@ When you live near borders — or when you have accounts in multiple countries �
 
 ---
 
+## Pension Systems and Long-Term Financial Planning
+
+### Netherlands: AOW and Occupational Pensions
+
+The Dutch state pension (AOW) is one of Europe's more generous basic pensions. Every year you are insured under Dutch social security (not just resident, but legally insured — which includes all employed workers) builds 2% of the full AOW entitlement. After 50 years, you receive a full AOW.
+
+More importantly for most workers: Dutch occupational pensions (bedrijfspensioenfonds) are among the world's best-funded. Participation is mandatory by sector, and both employer and employee contribute. If you stay in the Netherlands for 5–15 years of employment, you accrue a meaningful occupational pension that is paid at retirement age regardless of whether you are still in the Netherlands.
+
+For expats thinking about their 10-year horizon: the Dutch pension system rewards length of employment in the Netherlands concretely.
+
+### Belgium: State Pension and Second Pillar
+
+Belgium has a state pension (wettelijk pensioen) based on years worked in Belgium and salary level. The calculation is complex, and years of foreign employment can be credited through EU coordination rules if you come from another EU country.
+
+Belgian occupational pensions (bedrijfspensioenplannen) are less uniformly generous than Dutch ones. Participation rates are lower and the pension landscape is more fragmented by employer and sector. High-earning Belgian executives sometimes supplement with group insurance policies.
+
+**For expats moving between the two countries:** EU pension coordination rules mean that years worked in both the Netherlands and Belgium can contribute to each country's state pension entitlement. Your accrued rights in each country's system are preserved when you leave. Get a pension overview from the Dutch SVB and the Belgian Sigedis portal to understand exactly what you have accrued.
+
+---
+
+## Cycling Culture: More Than a Lifestyle
+
+For the Netherlands, I want to address cycling specifically because it comes up in every expat conversation about quality of life and it genuinely differentiates the country in ways that affect daily life meaningfully.
+
+In the Netherlands, approximately 27% of all trips are made by bicycle — the highest rate in the world. In Amsterdam, this rises to over 60%. In Groningen, over 50% of all traffic is cyclists.
+
+This is not just about sport or recreation. It means:
+
+- **Commuting:** Most Dutch professionals cycle to work or to the train station. Commutes of 5–15km by bike are entirely normal. The infrastructure — segregated paths, traffic signals for cyclists, covered bicycle parking at every train station — makes this safe and fast.
+- **School runs:** Children from age 7–8 commonly cycle to school independently. The infrastructure supports this. Dutch children develop a freedom of movement and independent navigation capability that is unusual by global standards.
+- **Shopping:** Bicycle panniers, cargo bikes (bakfiets), and folding bikes are standard. An Albert Heijn run on a bike is entirely practical for a week's groceries.
+- **Health economics:** Studies have estimated that the Netherlands' cycling culture saves approximately EUR 3 billion annually in healthcare costs due to reduced sedentary behavior. The Dutch have measurably lower rates of cardiovascular disease and obesity compared to similar European countries.
+
+Belgium has cycling infrastructure, particularly in Flanders (Bruges and Ghent are very cyclable cities), but it is not at the Dutch level in scale or integration. Brussels, in particular, has a car-oriented legacy infrastructure that cycling is gradually reclaiming but has not yet dominated.
+
+If you cycle or would like to, this is one of the Netherlands' concrete lifestyle advantages.
+
+---
+
+## Technology and Digital Life
+
+### Netherlands: DigiD, Mijn Overheid, and Digital Services
+
+The Dutch government's digital infrastructure is among the most advanced in Europe. DigiD (Digital Identity) provides a single authentication system for all government interactions. Once you have DigiD (available after BSN registration), you can:
+
+- File your income tax return (belastingaangifte) online
+- View letters from all government agencies in one portal (Mijn Overheid)
+- Access healthcare records (via your insurer or GP portal)
+- Apply for and manage childcare subsidies (kinderopvangtoeslag)
+- Apply for benefit systems
+- Access the IND for permit updates
+
+The Belastingdienst (Dutch tax authority) pre-fills large portions of your income tax return with data from employers, banks, and insurers. For many employed expats without complex tax situations, completing the tax return takes under 30 minutes online.
+
+### Belgium: More Complex Digital Infrastructure
+
+Belgium has the eID (electronic identity card) system, which provides digital authentication using a card reader and the physical card. The system works but requires more setup — you need a card reader device or smartphone app to use it.
+
+Belgian digital government services are split between federal (federal level), regional (Flemish, Walloon, Brussels), and municipal levels, which creates complexity. Some services are available online; others still require in-person visits or physical mail. The pace of digital transformation has been slower than in the Netherlands.
+
+For expats who value seamless digital interaction with government services, the Netherlands' DigiD ecosystem has a concrete advantage.
+
+---
+
 ## My Honest Take
 
 I chose the Netherlands and I would make the same choice again — but primarily because my employer was Dutch and the 30% ruling made a large financial difference in the first five years. If I had been offered a role at an EU institution or a multinational with offices in Brussels, Belgium would have been a genuinely competitive alternative, particularly for housing affordability.

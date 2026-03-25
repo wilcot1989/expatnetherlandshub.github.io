@@ -326,6 +326,38 @@ If you are between jobs and your permit has expired or your employer has termina
 
 ---
 
+## Interview Culture in the Netherlands: What to Expect
+
+The Dutch interview process has specific characteristics that can catch expats off guard.
+
+**Multi-round interviews are standard.** Even for mid-level roles, expect two to four rounds: an initial screening (often phone or Teams), a panel interview, possibly a case study or assessment, and a final round with a senior stakeholder. The process is thorough and can take four to eight weeks.
+
+**Direct feedback is normal.** Dutch interviewers will tell you directly if something concerns them. If a gap in your experience comes up, they will say so. Do not treat this as rudeness — it is an opportunity to address the concern directly. Engage with it honestly.
+
+**Group interviews.** Some Dutch companies use group assessment days where multiple candidates go through exercises together. These test collaborative behaviour as much as individual skill. Dutch hiring culture values teamwork and directness over individual grandstanding.
+
+**Casual but serious.** Dutch offices are often informal — first names immediately, no suit required in many sectors, coffee before the interview starts. Do not misread this informality as a relaxed process. The substance is taken seriously even when the atmosphere is not formal.
+
+**The competency question format.** Dutch interviews commonly use STAR-based competency questions ("Tell me about a time when..."). Prepare specific examples from your past experience. Vague, conceptual answers do not land well with Dutch interviewers who prefer concrete evidence.
+
+**Salary discussion.** Salary is usually discussed earlier in the Dutch process than in the UK or US. It is normal for salary expectations to come up in the first interview or even on the application form. Have a range ready. If you qualify for the 30% ruling and the employer knows it, they may already be factoring that into the net figure they present.
+
+---
+
+## Working Permits and Eligibility: What Expats Often Overlook
+
+Different categories of expat face different rules when applying for Dutch jobs.
+
+**EU/EEA/Swiss nationals:** Full right to work in the Netherlands without a work permit. You need to register with your local gemeente and get a BSN, but no employer sponsorship is required. This makes you maximally attractive to Dutch employers who prefer not to navigate the IND (Immigration and Naturalisation Service) process.
+
+**Non-EU nationals currently in the Netherlands:** If you are on a kennismigrant permit tied to your current employer, you can search freely but cannot start a new job until your new employer has applied for and received approval for a new permit. The process typically takes two to four weeks after the employer submits. Most large Dutch employers know this process; smaller employers may not and will need guidance.
+
+**Non-EU nationals approaching from outside the Netherlands:** The kennismigrant route requires employer sponsorship from a recognised sponsor (erkend referent). Not all Dutch employers are recognised sponsors. LinkedIn and IamExpat Jobs often indicate in postings whether visa sponsorship is available — this is increasingly common practice. Check the IND website (ind.nl) for the current list of recognised sponsors.
+
+**Work authorisation disclosure:** In the Netherlands, mentioning your work authorisation status in your CV or cover letter is helpful and expected if you are non-EU. A line saying "Currently on a Kennismigrant permit; eligible for permit transfer to new employer" removes ambiguity and prevents wasted stages. Dutch employers generally appreciate directness about this.
+
+---
+
 ## Managing Your Money During a Job Search
 
 Job searches take time — typically three to six months for a professional role in the Netherlands. If you are receiving income from outside the Netherlands while searching, or transferring savings from another country, the cost of currency conversion matters.

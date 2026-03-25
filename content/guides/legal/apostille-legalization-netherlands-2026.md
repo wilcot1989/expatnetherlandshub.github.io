@@ -222,3 +222,38 @@ If your country has not signed the Hague Convention, the apostille process does 
 **Can I get an apostille on a copy rather than the original document?**
 
 Generally, no. The apostille is attached to or stamped on the original document (or an officially certified copy issued by the relevant authority). A photocopy you have made yourself will not be accepted. In some cases, a notary can certify a copy and that certified copy can then receive an apostille — but this varies by document type and country. When in doubt, request an official certified copy from the issuing authority (e.g. your local registry office) and get the apostille placed on that.
+
+---
+
+## Step-by-Step: Getting Foreign Documents Apostilled for Use in the Netherlands
+
+If you need to apostille a foreign document for use in the Netherlands — for example, a birth certificate, marriage certificate, or degree — here is the general process:
+
+**Step 1: Identify the competent authority in your home country.**
+The Hague Conference on Private International Law maintains a country-by-country list of competent authorities authorised to issue apostilles. In the UK, the FCDO Legalisation Office issues apostilles. In the US, it depends on the state — usually the Secretary of State's office for state documents, and the US Department of State for federal documents.
+
+**Step 2: Obtain a certified copy of your document.**
+Most apostille authorities will not apostille a personal photocopy. Request an official certified copy from the issuing body (e.g. the register office, university, or court) if you do not have the original.
+
+**Step 3: Submit to the competent authority.**
+Submit your document with the required fee. Processing times vary: the UK FCDO typically takes 5–15 business days by post; some US states offer walk-in service. Many countries now offer electronic apostilles (e-apostilles) — check whether the Dutch receiving authority accepts these.
+
+**Step 4: Obtain a certified translation if needed.**
+If your apostilled document is not in Dutch, English, French, or German, most Dutch authorities will require a certified translation by a beëdigd vertaler. Translations must include the translator's statement of accuracy and their certification credentials.
+
+**Step 5: Present to the Dutch authority.**
+Bring or submit the original apostilled document (with translation if needed) to the IND, gemeente, court, or other Dutch body that requested it. Keep a certified copy for your records.
+
+## Common Documents That Require Apostilles in the Netherlands
+
+| Document | Typical use case in NL |
+|---|---|
+| Birth certificate | IND applications, marriage registration, name change |
+| Marriage certificate | IND family reunification, Dutch civil registration |
+| Divorce decree | Re-marriage in Netherlands, IND |
+| Criminal record certificate | IND sponsorship, adoption, some professions |
+| University degree/diploma | Diploma recognition (NUFFIC), employer verification |
+| Death certificate | Inheritance administration, pension claims |
+| Power of attorney | Notarial transactions, property purchases |
+
+The IND is the most frequent requester of apostilled documents for expats. Their website specifies the exact documentation required for each permit type — always check the current requirements before submitting, as they are updated periodically.

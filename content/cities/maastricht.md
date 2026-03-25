@@ -106,6 +106,60 @@ Moving to Maastricht requires a few first steps. Here are the most important one
 
 **Plan your budget** — Use our free [cost of living calculator](/tools/cost-of-living-calculator/) and [housing budget checker](/tools/housing-budget-checker/) to see what you can afford in Maastricht.
 
+## Expat Community & Social Life
+
+Maastricht's expat community is almost entirely shaped by the university. Maastricht University's International Welcome Centre organises events, connects new arrivals with settled staff, and provides a genuine soft landing for people coming from far away. The university runs an international staff community that is active and practically useful — much of the social infrastructure for newcomers runs through it.
+
+Outside the university, InterNations Maastricht has events, and the Vyner society (long-standing expat social club in the region) organises cultural outings and dinners. Given the city's geography, connections into Belgian and German expat communities are also natural — Liège and Aachen are both reasonable day-trip destinations.
+
+The city's quality of life is genuinely high. The Vrijthof square — particularly in summer — is one of the most pleasant public spaces in the Netherlands. The food and café culture is better than the city's size would normally support, partly because the proximity to France and Belgium has raised expectations. The cave system under the Sint-Pietersberg (Maastricht caves) is open for guided tours and is a genuinely unusual attraction.
+
+Local cycling culture is active, though the terrain south of the city is hilly — the Sint-Pietersberg area requires actual effort, which is a change from the flat Dutch norm. Many residents cycle within the city and switch to public transport or car for the hilly routes south and east.
+
+## Schools and Families
+
+Maastricht has a relatively small international school provision given its size. The International School in Maastricht (ISM), associated with Maastricht University, provides education in English for the international community. Capacity is limited; register early.
+
+The city's strong French and Belgian connections mean that the Lycée-style education model is accessible in Liège for families who prefer it. Several Maastricht residents with children commute their children across the Belgian border for school, particularly for secondary education — the cross-border school infrastructure in this tri-country region is more developed than in other parts of the Netherlands.
+
+Dutch-medium schools with integration support are the standard option for expat children staying longer than a few years. The university community means several Randwyck-area primary schools have experience with non-Dutch speaking children.
+
+Families in Maastricht often cite the lower housing costs and the city's relaxed pace as the strongest draws. The supply of family-sized housing with outdoor space is much better than in the Randstad, and the southern European character of the old city — outdoor café terraces, street markets, the calm of the Maas riverfront — creates a daily-life quality that people genuinely appreciate once they settle in.
+
+## Housing Search: Practical Advice
+
+Maastricht's rental market is more accessible than anywhere in the Randstad. Supply is reasonable, landlords are generally more flexible on terms, and the pressure to decide within 24 hours of a viewing is far less acute.
+
+The university's housing service lists properties from private landlords specifically targeting incoming academic staff. Contact this service before you arrive — the best properties in the Wyck and Jekerkwartier are often filled through this network before they reach the public platforms.
+
+Pararius and Funda cover the broader market. Local Maastricht agencies (Huurinmaastricht, local makelaars) often have listings that do not appear on national platforms.
+
+Cross-border considerations: if you are working in Belgium or Germany and living in Maastricht, some landlords and agencies are experienced with this arrangement. The tax and social security implications of living in one country and working in another are real — get professional advice from a cross-border tax specialist (often listed as grensarbeider specialisten) before you commit to this arrangement.
+
+## Daily Life in Maastricht
+
+Maastricht has the best daily quality of life of any city in this guide, in my view — but it depends entirely on what you value. If proximity to Amsterdam and a large professional network matter most, it is the wrong choice. If you want beautiful surroundings, excellent food, an easy pace, and the sense of actually living in a place rather than passing through it, Maastricht is hard to beat.
+
+The Vrijthof square is the centre of social life. In summer, the café terraces fill up on evenings and weekends with residents rather than tourists — this is not a city that primarily serves its visitors. The cafés and restaurants in the Wyck and Jekerkwartier have a quality-per-euro ratio that Randstad cities cannot match. The market on the Markt on Wednesday and Friday mornings is good and well-used.
+
+The cross-border dimension adds something that is genuinely unique. Liège in Belgium is 30 minutes by car — a completely different city with excellent food, a more industrial character, and a French-speaking Walloon culture. Aachen in Germany is 45 minutes — another world, with its own cathedral, hot springs, and distinct character. Day trips that cross into different countries and languages are a regular part of life for Maastricht residents in a way that simply is not available from any other Dutch city.
+
+The Bonnefanten Museum on the Maas riverfront has a strong permanent collection of old masters and contemporary art and a very good building. The caves at Sint-Pietersberg — accessible by guided tour from the city — are one of those genuinely unusual experiences that give the city its southern European sense of layered history. The Maas riverside, particularly near the John F. Kennedy bridge, is pleasant for walking and cycling along the water.
+
+Winter in Maastricht is milder than in Groningen or even Amsterdam, partly due to the more southerly latitude. The Christmas market at the Vrijthof is one of the more atmospheric in the Netherlands.
+
+## Settling In: The First Month
+
+1. Secure housing with a lease permitting registration — the university's housing service is a good starting point
+2. Book registration at Gemeente Maastricht (maastricht.nl) — typically 1–2 weeks wait
+3. Receive BSN; the university's Welcome Centre can assist with the appointment process
+4. Open Dutch bank account
+5. Register for health insurance — if you are working cross-border, confirm which country's system applies before signing up for Dutch insurance
+6. Register with a GP — English-speaking practices are available in Wyck and Randwyck
+7. Apply for DigiD after BSN
+
+The university's induction programme is thorough and covers most of these steps in sequence. If you are arriving through the university, attend the onboarding days rather than trying to navigate everything independently.
+
 ## Related Guides
 
 - [Moving to Maastricht: Full Guide 2026](/guides/housing/moving-to-maastricht-expat-guide-2026/)

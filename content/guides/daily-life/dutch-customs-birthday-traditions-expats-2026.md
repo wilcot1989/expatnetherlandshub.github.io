@@ -241,6 +241,34 @@ Children's birthday parties in the Netherlands are very child-focused — usuall
 
 Bring a Dutch-style traktatie. A whole appeltaart from the Albert Heijn, a box of tompouce, or a tray of stroopwafels all work. Set it out at the morning coffee break, say "Ik trakteer vandaag — ik ben jarig!" (I'm treating today — it's my birthday!), and enjoy the ritual.
 
+---
+
+## Gift Giving at Dutch Birthdays
+
+Gift giving at Dutch birthday parties is somewhat low-key compared to many cultures, and the conventions are worth knowing.
+
+**What to give:** A thoughtful, personal gift is appreciated over an expensive one. The Dutch are not impressed by extravagant gestures — practicality and personal thoughtfulness are valued. Books, experiences (theatre tickets, a cooking class), good wine, or plants are all appropriate. For close friends, a more personal approach based on their interests is always right.
+
+**How much to spend:** For an acquaintance or work colleague, EUR 15–30 is appropriate. For a good friend, EUR 30–60. For a significant birthday (40, 50, 60), more is expected from close family and friends; the group gift (cadeau in a groep) is very common for milestone birthdays.
+
+**Cards:** A birthday card (verjaardagskaart) is expected, not optional. The Dutch take written cards seriously — a thoughtful few lines matters. Dutch card shops (Hallmark, Bruna) have enormous birthday card sections. "Van harte gefeliciteerd" (Heartfelt congratulations) is the standard phrase. Signing with your name only, without a personal message, is slightly cold by Dutch standards.
+
+**Children's birthday parties:** At a child's birthday party, bring a gift (wrapped). EUR 10–20 is appropriate. Do not arrive empty-handed. The child will open gifts at the party in many modern Dutch families, though older traditions say gifts are opened privately after.
+
+**The "wish list" (verlanglijstje):** For significant birthdays, Dutch families often prepare or share a wish list. This is not considered greedy — it is considered practical and considerate (it prevents duplicate gifts and ensures the person receives what they actually want). If your Dutch friend shares a verlanglijstje, use it.
+
+---
+
+## New Year's and Other Celebration Customs
+
+While birthdays get their own elaborate ritual, a few other Dutch celebration customs are worth knowing as an expat.
+
+**Oud en Nieuw (New Year's Eve):** The Dutch mark the new year by setting off fireworks — private fireworks purchased from shops, in enormous quantities. This is legal (until it is not — there are ongoing debates about banning consumer fireworks). Amsterdam's New Year is spectacular, loud, and involves fireworks in every street simultaneously from about 11:30pm. Expect the smell of gunpowder from 27 December onwards.
+
+**Gefeliciteerd at any celebration:** The phrase "Gefeliciteerd" (congratulations) is used for all manner of events — promotions, weddings, new babies, new homes. You will hear it constantly. It is both a birthday greeting and a general celebrations phrase.
+
+**Raising a glass:** The Dutch toast "Proost!" (Cheers). At formal dinners, it is polite to make eye contact with the person you are clinking glasses with. Clinking without eye contact is sometimes said (with varying degrees of seriousness) to bring bad luck — the Dutch are aware this superstition exists but attitudes vary from "absolutely true" to "complete nonsense."
+
 ### What do I say if I forget someone's birthday?
 
 Late birthday wishes in the Netherlands are entirely acceptable — just say "Gefeliciteerd, al iets later!" (Congratulations, a bit late!). The Dutch are not offended by late wishes. What is mildly more awkward is forgetting entirely without acknowledgment.

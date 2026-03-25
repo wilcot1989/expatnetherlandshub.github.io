@@ -110,6 +110,56 @@ Moving to Arnhem requires a few first steps. Here are the most important ones:
 
 **Plan your budget** — Use our free [cost of living calculator](/tools/cost-of-living-calculator/) and [housing budget checker](/tools/housing-budget-checker/) to see what you can afford in Arnhem.
 
+## Expat Community & Social Life
+
+Arnhem's expat community is smaller and less formally organised than in the Randstad cities, but it is real. The ArtEZ and Rijnstate communities create distinct networks — design and arts professionals from outside the Netherlands often find each other quickly through the school's alumni and current staff. The energy sector's international hiring, while not as large as ASML's in Eindhoven, creates a secondary professional expat cluster.
+
+The Arnhem Expats Facebook group is active and useful for practical questions. InterNations Arnhem covers more general social activities, though the group is smaller than Randstad equivalents.
+
+One of Arnhem's genuine strengths is outdoor access. The Hoge Veluwe National Park, directly north of the city, is one of the best national parks in the Netherlands — 5,500 hectares of heathland, sand dunes, and forest, with a Kröller-Müller museum and a free bicycle lending service inside the park. The Veluwe region broadly — multiple nature reserves, trails, and cycling routes — is accessible from the city in a way that is unusual for a Dutch provincial capital. This matters if your quality-of-life priorities include being outdoors.
+
+The Korenmarkt terrace area in the centre is the main social hub, with bars and restaurants in a strip that is active in summer and more subdued in winter. The city's film and theatre scene is modest but present — the Luxor live venue and Musis Sacrum concert hall cover the main programme.
+
+## Schools and Families
+
+Arnhem and neighbouring Nijmegen share the International School of Gelderland (ISG), which provides English-medium IB-aligned education for the international community across the Gelderland region. Waiting lists apply — register before you arrive.
+
+At primary level, several schools in the Sonsbeek and Velp areas have experience with non-Dutch speaking children from the international community. The Arnhem-Nijmegen metropolitan area has enough international residents that schools in this corridor have seen consistent intake of international children over the years.
+
+Arnhem is well-suited to families who want outdoor access as a central part of daily life. The Sonsbeekpark — directly in the city — and the Hoge Veluwe within cycling distance mean that children can grow up cycling through heathland, something that has no equivalent in the Randstad.
+
+The supply of family housing with gardens in Velp, Presikhaaf, and the Velperweg corridor is good, and the prices are considerably lower than in Amsterdam or Utrecht for equivalent space.
+
+## Housing Search: Practical Advice
+
+Arnhem's rental market has tightened since 2022 — prices have risen and supply at the affordable end has decreased — but it remains more accessible than the Randstad. The Centrum and Sonsbeek areas are the most sought-after and move fastest. Velp and Presikhaaf offer better value for space.
+
+Pararius and Funda are the main national platforms. Local agencies including ERA Arnhem and Van Ee Makelaars have specific market knowledge for the Arnhem area. The ArtEZ housing office provides guidance for incoming staff and students, and Alliander has a relocation support service for senior hires.
+
+Standard requirements apply: three months of payslips, employment contract, employer declaration. Deposits are typically one to two months' rent. Properties in the Sonsbeek area at under €1,200/month for a one-bedroom move quickly.
+
+## Daily Life in Arnhem
+
+Arnhem's most distinctive quality is the nature access. Within 15–20 minutes by bike from the city centre, you are on the edge of the Veluwe — heathland, sand dunes, and forest on a scale that exists nowhere near any Randstad city. The Hoge Veluwe National Park, just north of the city, contains the Kröller-Müller Museum (one of the better art museums in the Netherlands, with a large Van Gogh collection and an outdoor sculpture park) and a white bicycle lending scheme inside the park — you cycle through the museum and landscape together.
+
+Sonsbeekpark in the city itself is a substantial 19th-century urban park directly adjacent to the city centre, with a rose garden, a pavilion with a café, and water features that have been there since the 1800s. For daily use — morning runs, cycling, weekday lunches in good weather — it is one of the better urban parks in the Netherlands outside the Randstad.
+
+The Korenmarkt and Jansplaats are the main social areas in the centre. The restaurant scene is modest but has improved, and the ArtEZ design and fashion community has brought in a small number of interesting independent places to eat and drink that reflect the school's influence on the city's character.
+
+The German border gives Arnhem a specific character. German speakers find the city more navigable than most Dutch cities outside the border zone. The direct Intercity train to Düsseldorf makes Germany accessible in a way that changes how residents think about weekends — Cologne is an hour from Düsseldorf, making it reachable as a day trip.
+
+## Settling In: The First Month
+
+1. Secure housing with landlord permission for municipality registration
+2. Book registration at Gemeente Arnhem — appointments via arnhem.nl, typically 1–2 weeks wait
+3. Receive BSN at the appointment
+4. Open Dutch bank account
+5. Register for health insurance immediately
+6. Register with a GP — ask directly about English-language capacity when first contacting a practice; availability varies across the city
+7. Apply for DigiD after receiving BSN
+
+For those arriving with German, the proximity to Germany means German-language capacity exists in some Arnhem services, though this is not as comprehensive as English provision. The Intercity to Düsseldorf from Arnhem station makes cross-border official visits more manageable than from most Dutch cities.
+
 ## Related Guides
 
 - [Finding Housing in the Netherlands](/guides/housing/finding-housing-netherlands-expats-2026/)

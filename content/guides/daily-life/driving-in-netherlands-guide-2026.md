@@ -249,6 +249,40 @@ If you miss the 185-day window, you must apply for a temporary driving licence (
 
 Car ownership is expensive. If you are weighing the costs, see our [cost of living guide](/guides/housing/cost-of-living-netherlands-2026/) for a full budget picture. And if you are considering skipping a car entirely — a very valid choice in the Netherlands — our [cycling guide](/guides/daily-life/cycling-netherlands-expat-guide-2026/) covers how far you can realistically get on two wheels.
 
+---
+
+## Dutch Traffic Rules That Surprise Expats Most
+
+Even experienced drivers from other countries get caught out by Dutch-specific rules. Here are the ones I see cause the most problems.
+
+**Cyclists have priority — almost always.** At intersections, roundabouts, and particularly at zebra-style cycle crossings, cyclists on a marked cycle path have priority over turning vehicles. This is deeply ingrained in Dutch traffic culture and strictly enforced. If you hit a cyclist while turning, you are almost certainly at fault. Watch your mirrors and look twice before any manoeuvre.
+
+**Right of way at unmarked intersections.** At any intersection without traffic lights or signs, traffic from the right has priority (rechts gaat voor). This applies to cyclists too. In residential streets and older city areas, this rule creates situations that feel counterintuitive to drivers from countries with different conventions. When in doubt: look right.
+
+**30 km/h zones are genuine.** Dutch residential areas (woonerven and 30 zones) have a 30 km/h limit that is taken seriously. Speed cameras (flitspalen) are everywhere, and fines are calculated based on how far over the limit you are. A 10 km/h overspeed on a 30 zone costs EUR 100+; 20 km/h over costs EUR 270+.
+
+**Mobile phone use while driving.** Using a handheld phone while driving — including at a red light — is a fine of EUR 420 in 2026. This is one of the highest fines in Europe for this offence. Hands-free use is permitted; holding the phone in any way is not.
+
+**Alcohol limit.** The legal limit is 0.5‰ (0.05%) — the same as most of continental Europe. New drivers (licence less than 5 years old) have a limit of 0.2‰ (effectively zero-tolerance). Drug driving is tested at the roadside via oral fluid tests. Dutch traffic police are active, particularly at weekends and late at night.
+
+**Parking in Amsterdam.** Amsterdam's city centre is a parking nightmare. Most areas require a parkeervergunning (residents' parking permit) that takes months to obtain and has waiting lists. Day visitor parking in central Amsterdam costs EUR 7–10/hour. Outside the centre, neighbourhood rates apply. The Park + Ride (P+R) system at the city edge with metro connections is far cheaper for visitors.
+
+---
+
+## Car Sharing in the Netherlands
+
+If you need a car occasionally but not daily, car sharing is an excellent option in the Netherlands. The infrastructure is dense and user-friendly.
+
+**Snappcar** (peer-to-peer car sharing): Rent cars from private owners for EUR 5–15/hour. Wide selection in all cities.
+
+**Greenwheels**: Station-based shared cars at fixed locations across the Netherlands, including near many train stations. Monthly subscription (EUR 9–14) plus hourly rates. Very useful combined with the NS train network for door-to-door trips.
+
+**MyWheels**: Similar to Greenwheels, with a large fleet in Dutch cities. Many vehicles are electric.
+
+**Lease from an employer:** Many Dutch employers offer a company car (bedrijfsauto) as part of the employment package, particularly for roles with regular travel requirements. The bijtelling (benefit-in-kind tax) for company cars means the tax treatment depends on the car's CO2 emissions — electric cars have the lowest bijtelling.
+
+For expats who move to the Netherlands and are unsure whether they need a car, the recommendation is: spend three months without one first. If you are based in a major city, you may discover you do not need it at all. If you are in a rural area or have a family with regular travel needs, the calculation changes.
+
 ## Explore More Expat Guides
 
 - **[Complete Guide to Moving to the Netherlands](/guides/legal/complete-guide-moving-to-netherlands-2026/)** — Getting started
@@ -257,6 +291,44 @@ Car ownership is expensive. If you are weighing the costs, see our [cost of livi
 - **[Moving to The Hague](/guides/housing/moving-to-the-hague-guide-2026/)** — City guide
 - **[Best Expat Insurance](/guides/health/best-expat-insurance-netherlands-2026/)** — Car and liability coverage
 - **[DigiD Guide](/guides/legal/digid-guide-expats-2026/)** — Needed for licence applications
+
+---
+
+## Dutch Road Rules: What Catches Expats Out
+
+Most of the Dutch Highway Code (Wegenverkeerswet) is straightforward. A few specific rules regularly catch out newly arrived drivers:
+
+**Right of way from the right (voorrang van rechts):** On roads without priority markings, vehicles coming from the right have right of way. This applies on many residential streets. Watch for the white "shark teeth" triangles painted on the road — if the teeth point toward you, you must give way. If they point away from you, you have priority.
+
+**Cyclists always have priority (almost):** Cycle paths crossing the road at junctions often have priority over cars, even if you are driving on the main road. Always check for cyclists before turning. Failing to give way to a cyclist at a crossing is a common cause of accidents for expats from countries without such strong cycling infrastructure.
+
+**Trams have absolute priority:** In cities, trams (trams) have priority over all other road users. Never try to cut off a tram. They cannot stop quickly and they will not.
+
+**Maximum speed limits (2026):**
+- Motorway (snelweg): 100 km/h day, 100 km/h night (recently reduced from 130 km/h)
+- Rural roads (buiten de bebouwde kom): 80 km/h
+- Urban areas (binnen de bebouwde kom): 50 km/h
+- Residential zones (30-zone, woonerf): 30 km/h
+
+Speed cameras (flitspalen) are widespread and strictly enforced. Fines start at €70 for low-level speeding and scale sharply. Radar detectors are illegal in the Netherlands.
+
+**Alcohol limit:** 0.5 promille blood alcohol (0.2 for drivers in their first 5 years). Roadside checks are common during evenings and weekends.
+
+**Mobile phone use:** Completely prohibited while driving, including at stops. Handheld use results in a €340 fine. Hands-free is permitted.
+
+**Parking:** Look for blue P signs and check colour-coded pavement markings. Yellow markings mean no parking at any time. White markings indicate regulated parking. In city centres, paid parking is the norm — use the Parkmobile or ANPR systems. Parking fines are issued swiftly and range from €60–€100.
+
+## Car Insurance in the Netherlands
+
+**WA (liability insurance):** Mandatory for all vehicles registered in the Netherlands. Covers damage to third parties but not your own vehicle. Minimum legal requirement.
+
+**WA+ (limited comprehensive):** Adds coverage for theft, fire, and weather damage to your own vehicle.
+
+**All-risk (fully comprehensive):** Covers damage to your own vehicle in all circumstances including your own fault collisions. Required for new vehicles and recommended for expensive cars.
+
+For expat drivers new to the Netherlands, premiums are calculated partly based on your schadevrijejaren (no-claims history). If you have accumulated no-claims in another country, many Dutch insurers accept a foreign no-claims certificate as evidence — ask specifically about this when getting quotes. Independer.nl compares car insurance prices from all major Dutch providers.
+
+<a href="https://www.awin1.com/cread.php?awinmid=19918&awinaffid=2776410&ued=https://www.independer.nl/autoverzekering" rel="noopener nofollow sponsored" target="_blank" class="cta-affiliate">Compare Car Insurance on Independer →</a>
 
 ---
 

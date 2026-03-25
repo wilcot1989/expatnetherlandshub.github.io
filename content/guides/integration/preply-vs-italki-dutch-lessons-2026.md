@@ -244,6 +244,98 @@ Pair this with a self-study app and you have a three-track approach that covers 
 
 ---
 
+## How to Structure Your Dutch Learning Journey Month by Month
+
+A common mistake I see among expat Dutch learners is treating language learning as an abstract goal ("I want to learn Dutch") rather than a structured plan with milestones. Here is a realistic month-by-month framework that works alongside tutoring on either Preply or iTalki.
+
+### Months 1–2: Foundation
+
+**Goals:** Learn the Dutch alphabet and basic pronunciation. Build survival vocabulary: greetings, numbers, food, directions, daily objects. Understand basic present tense sentence structure.
+
+**Tutor focus:** One session per week. Ask your tutor to focus on correct pronunciation from the beginning — the hard G, the ui/ij diphthongs, and the ee/oo sounds. Mistakes embedded in the first months take twice as long to correct later.
+
+**Outside tutor work:** Babbel's beginner modules alongside the tutoring. Set your phone to Dutch. Learn 10 new words daily using flashcards.
+
+**Real-world milestone:** Order your coffee in Dutch at the café and handle the typical response.
+
+### Months 3–4: Basic Communication
+
+**Goals:** Understand simple Dutch sentences in context. Manage a basic conversation about yourself — job, family, where you live. Handle simple transactions at shops and administrative offices.
+
+**Tutor focus:** Two sessions per week if budget allows. Practice simple conversations with your tutor — introduce yourself, explain your job, say where you live. Ask your tutor to correct pronunciation and grammar in real-time.
+
+**Outside tutor work:** Begin watching Dutch TV with Dutch subtitles (NPO Start is free). Read Dutch NOS news headlines daily.
+
+**Real-world milestone:** Complete a gemeente appointment or GP registration in Dutch (with notes prepared in advance). This is a genuine achievement and an enormous confidence boost.
+
+### Months 5–8: Expanding Structure
+
+**Goals:** Understand most of a conversational Dutch dialogue when spoken at a controlled pace. Use past tense (perfect and simple past), separable verbs, and basic subordinate clause word order. Expand vocabulary to approximately 1,500 words.
+
+**Tutor focus:** Two sessions per week. Begin asking your tutor for role-play practice — simulated work conversations, phone calls, administrative scenarios. Ask for explicit error correction and written notes after each session.
+
+**Outside tutor work:** Duolingo daily for streak maintenance and vocabulary reinforcement. Join a Dutch conversation group (taalpracticum at a local library) at least twice a month.
+
+**Real-world milestone:** Have a 10-minute conversation with a Dutch colleague in Dutch without switching to English — even if imperfect.
+
+### Months 9–12: Consolidation Toward B1
+
+**Goals:** Manage most daily situations in Dutch. Read straightforward Dutch texts (news, instructions, emails) with occasional dictionary help. Understand most of a native speaker when they speak at a moderate pace.
+
+**Tutor focus:** One session per week (sustaining rather than intensifying). Ask your tutor to use authentic materials — newspaper articles, Dutch workplace emails, cultural references. Practise presentation of ideas in Dutch.
+
+**Outside tutor work:** Read a Dutch book (start with children's books level 3–4, or simplified adult readers). Watch one Dutch-language TV programme per week in full.
+
+**Real-world milestone:** Complete an entire work meeting in Dutch, or handle a complex administrative situation (municipality, insurance, employer) entirely in Dutch.
+
+---
+
+## What Makes a Great Dutch Tutor: A Checklist
+
+Whether you are on Preply or iTalki, here is what to look for when choosing between tutors.
+
+**Non-negotiables:**
+- Native or near-native Dutch speaker (this is about natural pronunciation and idiomatic expression, not just grammar)
+- Has taught adult learners before (native speakers who have never taught formally often struggle to explain grammar rules)
+- Can adapt pace to your level — ask in the trial lesson to slow down and check that they actually do
+
+**Strong indicators of quality:**
+- Has teaching credentials (CELTA, Dutch as a second language qualification, or equivalent) — not essential for community tutors but valuable for structure
+- Asks about your goals and adapts the first lesson to them rather than following a generic script
+- Provides written notes or resources after the session without you asking
+- Makes you speak rather than just listening to explanation
+
+**Green flags in reviews:**
+- Past students mention specific improvements in grammar or pronunciation
+- Reviews mention the tutor explains *why* something is correct, not just that it is
+- Students describe returning for multiple months
+
+**Red flags in reviews:**
+- Very few reviews despite a long time on the platform
+- Reviews mention the tutor speaks mostly English in sessions (not useful for Dutch immersion)
+- Reviews mention unpredictable availability or late cancellations
+
+---
+
+## The Role of Motivation: Staying Consistent Over Months
+
+The research on language learning is unambiguous on one point: consistency over months matters far more than intensity over weeks. Two tutoring sessions per week for six months will produce better results than daily sessions for six weeks followed by a two-month break.
+
+The motivational challenge for Dutch learners in the Netherlands is both easier and harder than it sounds.
+
+**Easier** because you are surrounded by Dutch constantly — menus, signs, conversations, TV, newspapers, government letters. Every day provides opportunities to notice new words and patterns in context. The immediate practical rewards for each new phrase are tangible.
+
+**Harder** because the Dutch immediately switch to English the moment they notice you struggling. This is kindness, not obstruction. But it removes the immersive pressure that learners in non-English-friendly countries experience. You have to create your own Dutch-speaking environments deliberately.
+
+What sustains motivation over the long term:
+- Setting specific, visible goals (not "improve my Dutch" but "pass the B1 mock exam by month 10")
+- Tracking progress — keep a vocabulary list and watch it grow; record yourself monthly and listen back
+- Celebrating real-world milestones rather than app metrics
+- Finding Dutch friends who will speak Dutch with you and correct you rather than switching to English
+- Connecting your Dutch learning to something you genuinely care about — your professional life, your neighbourhood relationships, your children's school community
+
+---
+
 ## Final Verdict
 
 Both Preply and iTalki are legitimate, well-run platforms with genuine Dutch tutors and real success stories. The right choice depends on your situation:

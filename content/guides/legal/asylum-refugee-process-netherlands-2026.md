@@ -288,3 +288,31 @@ Yes. Persecution based on sexual orientation and gender identity is a recognised
 ### Can I study during the asylum procedure?
 
 Children have the right to school. For adults, access to Dutch integration courses is provided during extended stays in COA reception. Access to higher education during the procedure is limited; a positive decision with a residence permit opens more educational doors.
+
+---
+
+## After Approval: Building Your Life in the Netherlands
+
+Receiving a positive asylum decision and a residence permit is the beginning of a new process — integration, housing, employment, and language. Here is what the first year typically looks like:
+
+**Housing transition:** You leave COA reception and move into regular housing. The municipality is responsible for providing housing, but the waiting time varies significantly by region. In some areas, refugees wait months after receiving status before housing is arranged. During this period, you remain in COA accommodation. Once housed, you manage your own rental contract with a housing corporation.
+
+**Inburgeringsplicht (integration obligation):** Most status holders under 65 are legally required to complete the inburgeringsexamen within three years. This covers Dutch language (B1 level), knowledge of Dutch society (KNM), and a civic orientation module. The municipality organises your intake assessment and advises on your learning route. The [inburgeringsexamen guide](/guides/integration/inburgeringsexamen-preparation-guide-2026/) covers the full process.
+
+**Benefits during integration:** If you are not yet employed, you typically receive bijstand (social assistance, equivalent to the social minimum income) via your municipality. The UWV and your gemeente work together on your re-integration into the labour market.
+
+**Work rights:** Status holders have full right to work in the Netherlands without a separate work permit. Your employer does not need to apply for a TWV (work permit) for you. The V-document (Verblijfsdocument) you receive after status approval serves as evidence of your work rights.
+
+**Your nationality documents:** If your travel documents or passports were confiscated or you had none, the IND can issue a Vreemdelingenpaspoort (alien's passport) or Reisdocument voor Vreemdelingen (travel document for aliens). These allow international travel but are not a substitute for your national passport.
+
+## Support Organisations After Arrival
+
+Several organisations specifically support refugees and status holders in the transition after receiving asylum:
+
+- **VluchtelingenWerk Nederland (vluchtelingenwerk.nl):** The primary support organisation for refugees throughout the Netherlands. They provide case workers, legal assistance, and integration support in every major city.
+- **UAF (Stichting voor Vluchteling-Studenten UAF):** Supports highly educated refugees and status holders in accessing higher education and matching their qualifications to the Dutch job market.
+- **Takecarebnb:** A network that matches status holders with Dutch host families during the housing shortage period.
+- **NIDOS:** For unaccompanied minor refugees specifically.
+- **COC Nederland:** LGBTQ+ support for refugees and status holders facing specific vulnerability.
+
+If you have professional qualifications from your home country, contact UAF early — the credential recognition process takes time and starting it promptly avoids delays in your career. The NUFFIC (Netherlands Universities of Applied Sciences) handles formal diploma recognition, and their "Comparability Tool" online gives you an initial indication of how your qualifications compare to Dutch equivalents. For regulated professions — medicine, law, engineering — a formal recognition procedure through the relevant professional body (BIG register for healthcare, for example) is required before you can practise. Start this process within the first three months of receiving your residence permit, not after you have already spent a year in a role below your qualification level.

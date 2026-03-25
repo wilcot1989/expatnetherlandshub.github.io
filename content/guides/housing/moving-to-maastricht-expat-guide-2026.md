@@ -242,3 +242,61 @@ Start with the [complete guide to moving to the Netherlands](/guides/legal/compl
 ---
 
 *Sarah van den Berg is an expat coach and relocation specialist. Half Dutch, half British, she has been living in the Netherlands for over 10 years and helps internationals settle into Dutch life.*
+
+---
+
+## Practical Cost Guide: Maastricht 2026
+
+One of the most common questions I get is simply: what does it actually cost to live in Maastricht? Here is a realistic breakdown.
+
+**Rent (monthly, approximate):**
+- Studio or 1-bedroom in Wyck or Centrum: €850-€1,300
+- 1-bedroom in Randwyck (university area): €700-€1,000
+- 2-bedroom apartment in Jekerkwartier: €1,100-€1,600
+- 3-bedroom family home in quieter residential areas: €1,300-€1,800
+
+These are notably lower than Amsterdam or Utrecht equivalents — typically 30-40% cheaper for comparable properties.
+
+**Monthly living costs (single person, modest lifestyle):**
+
+| Expense | Monthly |
+|---------|---------|
+| Rent (1-bed) | €850-€1,200 |
+| Health insurance | €130-€165 |
+| Groceries (Albert Heijn, Jumbo) | €220-€300 |
+| Transport (bus + occasional train) | €50-€120 |
+| Utilities | €100-€180 |
+| Phone and internet | €45-€75 |
+| Dining and social | €100-€250 |
+| **Total** | **€1,495-€2,290** |
+
+**Cross-border cost advantages:** Belgian supermarkets (Delhaize, Colruyt) and German stores (REWE, Kaufland) are within easy reach. Many Maastricht residents cross the border for specific items — Belgian chocolate and beer, German electronics and household goods. Fuel is cheaper in Belgium. This informal cross-border shopping is an accepted part of daily life here in a way that is unique to this part of the Netherlands.
+
+**Healthcare:** UMC Maastricht is one of the top university hospitals in the Netherlands and a European reference centre for complex cardiac and organ transplant surgery. For expats with serious health concerns, being in a city with this level of medical expertise is a genuine advantage. Register with a GP (huisarts) promptly after you have your BSN — practices in Maastricht do fill up, particularly around the university campus. If you have difficulty finding one, contact your health insurer: they are legally obligated to help you find a registered practice.
+
+## Maastricht's International Character: What Makes It Different
+
+No other Dutch city feels like Maastricht. The combination of medieval architecture, three-country border position, and Europe's oldest university creates a cultural atmosphere that is genuinely distinct from the Randstad cities.
+
+**The European dimension:** Maastricht hosts Maastricht University (UM), a genuinely international institution where instruction is largely in English and the student body draws from across the EU and beyond. The city's population is around 120,000 — but the university has 22,000+ students, of whom a very high proportion are international. During term time, the proportion of English speakers on the streets of Maastricht rivals Amsterdam.
+
+**Cross-border daily life:** Aachen is 30 minutes by car or regional bus. Liège is 25 minutes. Brussels is reachable in 75 minutes. For expats who need to commute or travel internationally for work, this position is genuinely useful. Many Maastricht residents work in Belgium or Germany while living in the Netherlands — the cross-border commuter arrangement requires attention to tax residency, but the Netherlands has bilateral tax treaties with both countries that handle this.
+
+**The French influence:** Maastricht has a distinctly more Mediterranean lifestyle pace than northern Dutch cities. Café culture is stronger, meals are taken more slowly, and the "gezelligheid" here is laced with a Southern European warmth that visitors from Amsterdam often notice immediately. The terrassen (outdoor café seating) on the Vrijthof and Onze Lieve Vrouweplein are in a different class from anything equivalent in the north.
+
+**Carnaval (February/March):** Maastricht's carnaval is arguably the most celebrated in the Netherlands — three days of costumes, music, street processions, and a complete inversion of normal social norms. If you arrive in the weeks before carnaval, you will notice the entire city preparing. If you are there for it, join in — it is one of those experiences that defines the city's character.
+
+## Finding a Place to Live in Maastricht
+
+Housing in Maastricht is more accessible than in the Randstad but still competitive during the university intake periods (September and February). A few specifics:
+
+**Best neighbourhoods for expats:**
+- **Statenkwartier and Wyck:** On the east bank of the Maas, Wyck is the upmarket neighbourhood just across the bridge from the city centre. Good restaurants, a nice Saturday market, and easy walking distance to the station and centre. Popular with young professionals and university staff.
+- **Céramique:** A post-industrial area redeveloped as a mixed residential and cultural quarter. Modern architecture, the Bonnefanten Museum, and good cycling connections. Appealing to expats who want contemporary design in a historic city.
+- **Blauwdorp and Caberg:** More residential, further from the centre, lower rents. Better for families who need space.
+
+**Housing search platforms:** Funda, Pararius, and local Maastricht agencies (including Van der Sloot Makelaardij and ERA Maastricht) are the main routes. Housing moves faster here than in Amsterdam, but the inventory is smaller. Have your documents ready — contracts, payslips, employer confirmation — as you would in any Dutch city.
+
+---
+
+*Last updated: March 2026.*

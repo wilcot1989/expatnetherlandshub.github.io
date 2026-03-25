@@ -264,6 +264,34 @@ If you are commuting and your employer provides a public transport commuting all
 
 ---
 
+## Practical Scenarios: How Expats Actually Use Dutch Trains
+
+To make this concrete, here are the situations I hear about most from expats.
+
+**Commuting Amsterdam to Rotterdam daily:** This is one of the most common expat commutes in the Netherlands. The IC Direct takes ~40 minutes each way; the regular IC takes ~65 minutes. For five days per week, the full-price cost would be enormous — but most expats either use NS Flex Altijd Vrij (unlimited travel ~EUR 400/month) or have their employer cover a NS business travel subscription. Employers in the Netherlands are legally required to contribute to commuting costs above a certain distance. Ask HR about your travel allowance (reiskostenvergoeding) on your first day.
+
+**Weekend exploring the Netherlands:** Many expats use Dal Vrij (EUR 107/month) for this. Weekend travel is included in off-peak, so Amsterdam to Groningen, Maastricht, or Zeeland at the weekend is "free" once the subscription is paid. This pays for itself within a couple of weekends of genuine travel.
+
+**Arriving at Schiphol for the first time:** Use contactless bank card (OV-pay) for this first journey. It works at Schiphol, the fare is deducted automatically, and you do not need to buy anything. Once settled, switch to an OV-chipkaart and subscription.
+
+**Short trip from a smaller city:** If you live in Leiden, Delft, or Amersfoort and work in a major city, a Sprinter connects you to the main network. Sprinters are slower but no extra charge — they are often the right choice for the first or last leg of a longer journey.
+
+---
+
+## Dutch Train Etiquette: What Expats Need to Know
+
+A few things catch expats by surprise on Dutch trains.
+
+**Silence carriages (stiltecoupe):** Many IC trains have a designated quiet carriage marked with a headphones/silence symbol. Conversations and phone calls are not permitted. Headphones are fine. Sitting in this carriage and taking a call will earn you a polite but firm look from every Dutch person in the compartment.
+
+**Eating:** Allowed on trains. Dutch commuters eat lunch on the train without hesitation. Strong-smelling foods get complicated looks — use your judgment.
+
+**Cycling:** Bike spots are in dedicated areas of the train (not in all carriages). You need a fiets ticket. Bikes are not allowed on platform 1 areas of some busy stations during peak hours — follow the signs.
+
+**Seats and reservations:** Regular NS train travel in the Netherlands does not include reserved seats (unlike Thalys or Eurostar). First class carriages (Eerste Klas) require a first-class ticket or subscription. Sitting in first class with a second-class ticket is an avoidable fine.
+
+---
+
 ## FAQ
 
 **What is the OV-chipkaart and do I need one?**

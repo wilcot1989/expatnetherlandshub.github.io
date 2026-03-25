@@ -261,6 +261,63 @@ Dutch expats moving to Nigeria for the first time encounter different friction p
 
 **Dutch professionals move to Nigeria** typically through NGOs, multinationals, or development organisations. It's a less common destination than Southeast Asia or the Gulf, but those who go often find it professionally and personally rewarding.
 
+## Healthcare in Detail: What Expats Actually Experience
+
+### Medical Emergencies in Both Countries
+
+One area where the practical difference between the Netherlands and Nigeria becomes very clear is how medical emergencies are handled.
+
+**Netherlands:** The Dutch emergency number is 112. Ambulances reach urban areas typically within 8–12 minutes. Hospital emergency departments are well-equipped and staffed. You will almost certainly be seen, treated effectively, and billed later (or through your insurance). If you are registered and have basisverzekering, the system works smoothly.
+
+One practical note: in the Netherlands, the huisarts (GP) is the gatekeeper for almost all non-emergency care. You register with a GP practice, and for anything short of a genuine emergency you book an appointment there first. GPs refer to specialists. This system is efficient and prevents overloading hospitals, but it means you cannot simply walk into a specialist clinic. For expats used to more direct specialist access, this takes adjustment.
+
+**Nigeria:** Lagos has several world-class private hospital facilities — Eko Hospitals, Reddington, St Nicholas Hospital, Lagoon Hospital Group. In a genuine emergency, these facilities can provide high-quality acute care, but:
+- You need private health insurance or cash payment upfront — without it, access to premium facilities is limited
+- Ambulance infrastructure in Lagos is improving but remains inconsistent
+- Traffic in Lagos means transport time to hospital can be significant — local knowledge of the nearest appropriate facility matters
+
+For Dutch expats moving to Nigeria through an employer, ensuring you have comprehensive private health insurance with a medical evacuation component is non-negotiable, not optional.
+
+### Mental Health Care
+
+**Netherlands:** The Dutch basisverzekering covers basic mental health care, including psychology and psychiatry, but with limitations. In 2022, mental health care was reorganised into a tiered system. Most treatment is coordinated through your GP, who refers to mental health services as needed. Waiting lists for psychological treatment through insurance can be 3–6 months or longer in some cities.
+
+For expats dealing with the genuine psychological adjustment of relocation — loneliness, culture shock, relationship strain from the move — this waiting period can be problematic. Many expats use private psychologists not covered by insurance, at EUR 80–150 per session.
+
+**Nigeria:** Formal mental health infrastructure is limited in Nigeria. Stigma around mental health remains a barrier, though this is improving in urban professional communities. Private therapy is available in Lagos and Abuja, primarily from psychologists trained abroad who have returned. Online therapy services have expanded access significantly since 2020.
+
+---
+
+## Pension and Retirement Planning
+
+### Netherlands: State Pension (AOW)
+
+All employees in the Netherlands who pay social insurance contributions build up AOW (Algemene Ouderdomswet) entitlement. Each year of residency between 15 and pension age (currently 67) builds 2% of the full state pension. After 10 years in the Netherlands, you have 20% of the full AOW.
+
+For Nigerians who spend 20–30 years in the Netherlands, the AOW becomes a meaningful retirement benefit. It is paid internationally — you can receive Dutch AOW while living in Nigeria. Netherlands-Nigeria has a social security agreement that covers certain pension entitlements.
+
+Additionally, Dutch employer pension schemes are among the world's best funded. Contributions are typically shared between employer and employee, and participation is mandatory in most sectors. When you leave the Netherlands, your accrued pension rights remain in the Dutch pension fund and are paid at retirement age.
+
+### Nigeria: Contributory Pension System
+
+Nigeria's Contributory Pension Scheme (CPS) requires employers and employees to contribute to a Retirement Savings Account (RSA) managed by a Pension Fund Administrator (PFA). The contribution is 10% employer + 8% employee (as of 2014 Pension Reform Act). Coverage is primarily for formal sector workers.
+
+For Dutch expats working in Nigeria through a multinational, home country pension provisions typically continue. Local Nigerian pension contributions are separate and generally accumulate a relatively small amount given salary levels and contribution duration.
+
+---
+
+## Nigeria's Tech and Business Scene: A Genuine Opportunity
+
+One aspect of Nigeria that deserves more recognition in expat comparison guides is the scale of business opportunity in West Africa's largest economy.
+
+Lagos has produced some of Africa's most successful technology and fintech companies: Paystack (acquired by Stripe for approximately USD 200 million), Flutterwave (valued at over USD 3 billion), Interswitch (one of Africa's largest fintech companies), and Andela (engineering talent development platform now expanding across Africa). The "Silicon Yaba" ecosystem in Lagos attracts serious investment.
+
+For Dutch professionals in fintech, engineering, or international business development, Nigeria's market represents a scale of opportunity that most European markets simply cannot match. The combination of a young, entrepreneurial population, mobile-first banking adoption, and growing middle class creates conditions that professional expats with the right background can capitalise on meaningfully.
+
+This is not for everyone — the operational challenges are real — but the opportunity lens is worth including in any honest comparison.
+
+---
+
 ## Internal Resources
 
 - [Moving to the Netherlands: What to Expect](/blog/moving-to-netherlands-expat-guide-2026/)

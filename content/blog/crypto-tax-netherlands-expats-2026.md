@@ -296,4 +296,47 @@ DAC8 is an EU directive requiring crypto asset service providers to report EU cu
 
 ---
 
+---
+
+## Practical Checklist: Dutch Crypto Tax Compliance Each Year
+
+To stay compliant, I go through this checklist every December and January:
+
+**December (before year-end):**
+- Log into all exchange accounts and wallet interfaces to confirm you still have access
+- Note any exchanges or protocols that have become inaccessible or closed — document these situations in writing for your records
+- Check whether any significant holdings are locked in DeFi or staking contracts that affect how you will value them on 1 January
+
+**1 January:**
+- Take a snapshot of all holdings across all wallets and exchanges at midnight (or as close as possible)
+- Note the EUR price of each token from a major aggregator (CoinGecko, CoinMarketCap)
+- For illiquid or unusual tokens, note the best available price estimate and keep your working notes
+
+**January through April (tax return period):**
+- Use your crypto tracking tool (Koinly, CoinTracking, Blockpit) to generate a Box 3 report
+- Cross-reference against your 1 January snapshot
+- Enter the total EUR value under Box 3 in your aangifte inkomstenbelasting
+- Submit by 1 May (or request an extension via a tax advisor)
+
+**Year-round:**
+- Keep API connections active on your tracking tool so transaction history imports automatically
+- Export records from any exchange you leave or that closes before the records are lost
+- Note the cost basis of any new tokens acquired through staking, farming, or airdrops — even if their Box 3 treatment is unclear, having the data is better than not having it
+
+---
+
+## What If I Cannot Value My Crypto Holdings?
+
+The Belastingdienst expects a good-faith effort to determine market value. For mainstream tokens (Bitcoin, Ethereum, Solana, and any token listed on major exchanges), there is no excuse for not knowing the value — just look it up.
+
+For obscure tokens, the approach is:
+1. Check the token's price on CoinGecko or CoinMarketCap on 1 January
+2. If no price data is available, document why and describe the token and its characteristics
+3. If the token is effectively worthless (rug pull, abandoned project, zero trading volume), document this with screenshots and declare a nil value
+4. If the situation is contested (e.g., you claim a token is worthless but the Belastingdienst could disagree), note this in your records and consider disclosure or specialist advice
+
+The key principle is transparency and documented reasoning. Errors in good faith with documented working are treated very differently from deliberate omissions.
+
+---
+
 *Related reading: [Dutch Tax Return Checklist for Expats](/guides/finance/dutch-tax-return-checklist-expats-2026/) | [Investing in the Netherlands as an Expat](/guides/finance/investing-netherlands-expats-2026/) | [Best Tax Advisors for Expats Netherlands](/guides/finance/best-tax-advisors-expats-netherlands-2026/) | [30% Ruling Eligibility Guide](/guides/finance/30-percent-ruling-eligibility-guide-2026/) | [Dutch Inheritance Tax for Expats](/guides/finance/dutch-inheritance-tax-expats-2026/)*

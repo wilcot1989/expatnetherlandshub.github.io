@@ -359,3 +359,33 @@ Rotterdam is one of Europe's most underrated cities for expats. It offers afford
 If you are considering a move to the Netherlands and want a city that combines quality of life with affordability, Rotterdam deserves serious consideration.
 
 Start your preparation with our [Complete Guide to Moving to the Netherlands 2026](/guides/legal/complete-guide-moving-to-netherlands-2026/), and set up your finances with <a href="https://wise.com/invite/ihpc/willemt52" rel="noopener nofollow sponsored" target="_blank">Wise</a> before arriving.
+
+---
+
+## Rotterdam's Architecture: A City Worth Exploring
+
+Rotterdam is genuinely the most architecturally interesting city in the Netherlands. The wholesale destruction of the city centre in the German bombing raid of May 1940 cleared the ground for something Amsterdam never had to do: rebuild from scratch. The result is a city that reads as a laboratory of twentieth and twenty-first century architecture.
+
+A few highlights worth knowing:
+
+**Cube Houses (Kubuswoningen):** Designed by Piet Blom in 1984, these tilted yellow cubes above the Blaak market are now iconic. One is open to the public as the Show Cube (Kijk-Kubus). The adjacent Markthal (2014) by MVRDV is equally striking — a horseshoe of apartments forming a vaulted indoor market with an enormous artwork on the ceiling.
+
+**Erasmusbrug:** The 800-metre cable-stayed bridge over the Nieuwe Maas, opened in 1996, is affectionately known as the Swan (De Zwaan). It connects the north and south of the city and is Rotterdam's most photographed landmark.
+
+**De Rotterdam:** Also by Rem Koolhaas's firm OMA, this massive "vertical city" on the Wilhelminapier opened in 2013. It contains offices, apartments, a hotel, and restaurants stacked in three linked towers.
+
+**The Wilhelminapier:** The area where the Holland America Line ships once departed for New York. The Hotel New York, in the original HAL headquarters building, is the best lunch or dinner destination on the waterfront.
+
+For expats who arrive in Rotterdam and feel the city lacks Amsterdam's charm, I always suggest a Saturday morning cycling along the waterfront from Katendrecht to the Wilhelminapier and north through the centre to Kralingen. After two hours of that, Rotterdam's distinct character tends to click into place.
+
+**Food and markets:** Rotterdam's Markthal (indoor market hall with over 100 food stalls, architect MVRDV, opened 2014) is the best single food destination in the Netherlands. The Albert Cuyp market in Amsterdam gets the press, but the Markthal beats it for variety, weather protection, and the sheer visual impact of the artwork on the ceiling. The Fenix Food Factory on Katendrecht is the alternative: a converted warehouse with specialty food producers, a microbrewery (Kaapse Brouwers), and a coffee roastery. The Rotterdam Fish Auction and the weekend Mariniersplein market fill out the picture. For a city that sometimes gets dismissed as purely industrial, the food culture is genuinely excellent.
+
+---
+
+## Healthcare and Schools in Rotterdam
+
+**Healthcare:** Rotterdam is home to Erasmus MC — one of Europe's largest and most highly regarded university hospitals. The quality of specialist care available here is exceptional. For expats needing complex or specialist treatment, being in a city with this kind of medical infrastructure matters. Register with a GP (huisarts) promptly after arrival. For finding an English-speaking doctor in Rotterdam, see our [English-speaking doctor guide](/guides/health/find-english-speaking-doctor-netherlands-2026/).
+
+**International schools:** Rotterdam has several international schools including ISR (International School Rotterdam), Albeda International College, and several bilingual (TTO) Dutch schools. The [international schools guide](/guides/daily-life/international-schools-netherlands-2026/) covers the options in detail with fees, curriculum types, and admission processes. Apply early — particularly for ISR, which has waiting lists.
+
+**GP registration:** Register with a huisarts as soon as you have your BSN and a Rotterdam address. The city has enough English-speaking GP practices that you should not need to compromise on language. Ask your employer's HR department or your housing agency for a recommendation — their contact lists tend to be more current than public directories. Once registered, day-to-day healthcare access in Rotterdam is seamless and straightforward. For insurance, make sure you sign up for Dutch health insurance (zorgverzekering) within four months of registering in the BRP — do not leave this until after you arrive.

@@ -271,6 +271,94 @@ One practical note: China has capital controls on outbound yuan transfers. There
 
 ---
 
+## Education for Expat Children: A Critical Comparison
+
+### International Schooling in China
+
+International schooling in China's major cities is expensive by global standards and represents one of the largest budget items for expat families.
+
+**Shanghai:**
+- SAS (Shanghai American School): USD 32,000–40,000/year
+- Shanghai Jiao Tong University CIPS: USD 25,000–35,000/year
+- British International School Shanghai: USD 28,000–36,000/year
+- Concordia International School: USD 28,000–34,000/year
+
+**Beijing:**
+- ISB (International School of Beijing): USD 30,000–38,000/year
+- Western Academy of Beijing: USD 28,000–35,000/year
+- Dulwich College Beijing: USD 27,000–34,000/year
+
+The quality at these schools is generally high — many follow IB or British A-Level curricula. But for a family with two school-age children, the annual education cost alone can be USD 60,000–80,000. This is almost always borne by the employer on a full expat assignment package.
+
+If you are locally hired in China without a school fee allowance, international schooling for children is not practically affordable on a standard professional salary.
+
+### International Schooling in the Netherlands
+
+Dutch state schools are free and excellent, but they teach in Dutch. International schools are more affordable than in China:
+- Amsterdam International Community School: EUR 18,000–22,000/year
+- International School of Amsterdam: EUR 19,000–25,000/year
+- British School in the Netherlands: EUR 17,000–23,000/year
+
+The critical difference: many expat families in the Netherlands eventually send their children to Dutch state schools, particularly once the children have been there a year or two and have developed functional Dutch. Children learn Dutch quickly — much faster than adults. After 12–18 months of immersion, most children adapt well to Dutch-language schooling.
+
+This transition option does not exist in the same way in China, where the language barrier is higher and the gap between the Chinese state curriculum and Western curricula is larger.
+
+---
+
+## Food and Daily Life
+
+### Eating in China
+
+Chinese food culture is extraordinary by any global standard. Shanghai and Beijing have some of the world's most varied and affordable food scenes. A meal at a good local restaurant in Shanghai costs CNY 40–100 (EUR 5–12). Street food and market stalls offer remarkable food at CNY 10–25.
+
+The challenge for Western expats is access to Western food products. Imported cheese, Western-style breakfast cereal, good wine, specific cuts of meat — these are available in Shanghai and Beijing at import stores and high-end supermarkets, but at significantly higher prices than in the Netherlands. A decent bottle of European wine in Shanghai can cost CNY 150–300 (EUR 19–37); the same wine in the Netherlands is EUR 8–15.
+
+Many expats describe a two-track food life in China: eating local food (excellent and cheap) for most meals, supplementing with imported ingredients for specific comfort foods at high cost.
+
+### Eating in the Netherlands
+
+Dutch food culture is functional and international rather than specifically celebrated. Dutch supermarkets (Albert Heijn, Jumbo) carry good-quality produce, strong dairy products, and a wide range of international foods. Eating out is moderate in cost — a main course at a mid-range restaurant runs EUR 16–25.
+
+The Netherlands has excellent Indonesian (rijsttafel), Surinamese, Turkish, and Moroccan food as legacies of its immigration and colonial history. Amsterdam's restaurant scene is genuinely diverse and high quality.
+
+For most Western expats, Dutch food culture presents no significant adjustment challenges.
+
+---
+
+## Air Quality and Environmental Considerations
+
+This is a topic that some comparison articles avoid but that genuinely affects quality of life and health over time.
+
+**China (northern cities, particularly Beijing):** Air quality in Beijing, Xi'an, Shenyang, and other northern Chinese cities is a documented health concern. Annual PM2.5 averages in Beijing have improved significantly since peak levels around 2014–2017 due to major government action, but they remain well above WHO guidelines. The 2025 WHO guideline for PM2.5 is 5 μg/m³ annually; Beijing averages 25–40 μg/m³ (improved from historical 60–80+ μg/m³). During pollution events (usually winter inversions), daily levels can spike to 150–300+ μg/m³.
+
+Practical consequences for expat families: air filtration systems in homes (HEPA-grade) are standard in expat housing; many families limit outdoor exercise on high-pollution days; respiratory illnesses are more common. This is not a reason to avoid China, but it is a material health consideration for families with young children or respiratory conditions.
+
+**Shanghai:** Significantly better than northern cities. Annual PM2.5 closer to 25–35 μg/m³. Still above WHO guidelines but substantially more manageable.
+
+**Netherlands:** EU air quality standards are strictly enforced. PM2.5 in Amsterdam averages 8–12 μg/m³ annually — well within the range that health authorities consider acceptable. Air quality is not a meaningful concern for daily life in the Netherlands.
+
+---
+
+## Social Life and Expat Community
+
+### China Expat Community
+
+Shanghai and Beijing have well-established international communities that function as a self-contained social ecosystem. Expat bars, restaurants, sports leagues, charity organisations, and professional networks are well-developed in both cities. Community Facebook groups, Meetup events, and industry networking are active.
+
+The size of the international community in Shanghai is substantial — approximately 170,000 registered foreigners (with likely a similar number unregistered), with strong American, British, German, French, and Japanese communities.
+
+A characteristic of expat social life in China is its insularity. Many expats describe social circles that are almost entirely international, with limited genuine friendship with Chinese nationals outside professional contexts. This is not unwillingness on either side, but a combination of language barriers, different social norms, and the time demands of building cross-cultural friendships.
+
+Expats who speak Mandarin at conversational level describe a dramatically different experience of social life in China — more access to local life, more Chinese friends, more of the texture of daily Chinese culture. For those without Mandarin, the international bubble is the default.
+
+### Netherlands Expat Community
+
+Amsterdam's international community is one of the most developed in Europe. The city has a substantial registered non-Dutch population (approximately 180,000, around 22% of the city), and a large informal international professional community on top of that.
+
+Unlike in China, the language barrier between expats and Dutch locals is low. Dutch people speak excellent English, friendships with Dutch people form more naturally, and integration into Dutch society — while it takes time and effort — is achievable without language skills at an advanced level. Social events, sports clubs, and professional networks include both expats and Dutch participants in a way that feels more mixed than the typical Shanghai expat social scene.
+
+---
+
 ## Further Reading on ExpatNetherlandsHub
 
 - [Netherlands vs Australia for expats](/blog/netherlands-vs-australia-expats-2026/)

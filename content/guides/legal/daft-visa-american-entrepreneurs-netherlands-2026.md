@@ -284,3 +284,20 @@ If you are a US citizen planning to run your own business in the Netherlands, th
 Use our [visa and permit finder tool](/tools/visa-permit-finder/) to cross-check which route best fits your specific situation before committing to the DAFT process.
 
 The Netherlands is one of the better countries in Europe for self-employed Americans: English is widely spoken, the startup and freelance ecosystem is mature, tax arrangements for entrepreneurs are reasonable, and the country's central location makes it a practical base for serving clients across Europe. The paperwork is real, but it is worth doing properly.
+
+---
+
+## DAFT in Practice: First Year Timeline
+
+**Before you leave the US:**
+Incorporate your Dutch legal entity (BV or eenmanszaak) with a Dutch notaris — remote incorporation is possible with a notarial power of attorney. Register with the KVK (Chamber of Commerce). Open a Dutch business bank account — Wise Business is a practical starting point while a traditional account is being set up. Apply for your MVV at the nearest Dutch consulate.
+
+**First week in the Netherlands:**
+Convert your MVV to a residence permit (verblijfsvergunning) at the IND within 3 days of arrival. Register at the gemeente and receive your BSN. Ensure your KVK registration is active and your business bank account is operational.
+
+**Year 1 ongoing:**
+File Dutch business tax returns — BTW (VAT) quarterly or annually, and inkomstenbelasting (income tax) annually. As a sole trader (ZZP-er), Dutch income tax is progressive with rates up to 49.5%, but the zelfstandigenaftrek and other deductions reduce effective rates significantly. If operating as a BV, corporation tax (vennootschapsbelasting) applies at 19% on first €200,000 profit.
+
+**US tax obligations:** US citizens are taxed on worldwide income. The US-Netherlands tax treaty mitigates double taxation, and the Foreign Earned Income Exclusion (FEIE) can shelter approximately $126,500 of earned income. Cross-border US-Dutch tax is genuinely complex — budget for a specialist accountant in your first year. The cost of poor advice here is far higher than good advice costs.
+
+**Permit renewal:** The DAFT permit is renewable if your business demonstrates genuine economic activity. Turnover, client contracts, and regular tax filings are the evidence the IND looks for. Start keeping clean business records from day one.

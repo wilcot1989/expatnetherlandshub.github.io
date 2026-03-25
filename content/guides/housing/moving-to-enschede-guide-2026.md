@@ -229,6 +229,83 @@ It is probably not right if you:
 
 ---
 
+## Enschede Housing: What to Expect and Where to Look
+
+Enschede has one of the most relaxed rental markets of any Dutch city with a significant expat population. The combination of lower demand (relative to Amsterdam, Utrecht, or even Eindhoven), a large student housing stock, and relatively slow population growth means that finding a flat in Enschede is achievable without the extreme competition typical of the Randstad.
+
+**Typical rent ranges in 2026:**
+
+| Property type | Monthly rent |
+|---|---|
+| Student room (shared house) | €350–€550 |
+| Studio (25–35 m²) | €650–€850 |
+| 1-bedroom apartment | €800–€1,050 |
+| 2-bedroom apartment | €950–€1,350 |
+| Terraced house (3 bedrooms) | €1,100–€1,500 |
+
+**Best neighbourhoods for expats and UT staff:**
+
+- **Roombeek:** The most architecturally interesting area of Enschede, rebuilt after the 2000 fireworks disaster with high-quality housing, good cycling infrastructure, and the Rijksmuseum Twenthe nearby. Popular with UT researchers and design professionals.
+- **Deppenbroek / De Bothoven:** Quiet residential areas between the city centre and UT campus. Many houses here, good for families. A 10–15 minute bike ride to campus.
+- **City centre (Binnenstad):** Convenient for shops, cafés, and the train station. More apartment options, less quiet, but practical if you work in the city rather than at UT.
+- **Enschede-Noord:** More affordable, further from the university, better suited to those working at Kennispark or industrial employers in the north of the city.
+
+**How to find housing:**
+
+University of Twente's housing portal is the first stop for UT students and staff — they have agreements with housing providers and can place you in furnished accommodation within weeks of arrival, which is valuable for a short-term or uncertain-duration contract. For private rentals, Kamernet, Funda, and Pararius all cover Enschede. Response times from landlords are faster than in the Randstad, and it is realistic to arrange a property remotely within 2–3 weeks.
+
+## Getting Settled: Your First Month in Enschede
+
+**Register at Gemeente Enschede** (Hengelosestraat 51) within five days of arriving — this is legally required. Book an appointment online in advance; walk-ins are less reliable. Bring your passport and rental contract. Your BSN is issued the same day in most cases.
+
+**Open a bank account.** With your BSN, you can open an ING, ABN AMRO, or Rabobank account in person in the city centre. Alternatively, Bunq and Wise work entirely online and can be set up within 24 hours of receiving your BSN.
+
+**Health insurance.** Register for Dutch health insurance within four months of BRP registration. Zorgverzekering is mandatory for all residents. The [health insurance guide](/guides/health/dutch-health-insurance-guide-expats-2026/) compares the main providers and explains the eigen risico (annual deductible, currently €385).
+
+**Register with a GP.** Enschede has several English-friendly GP practices. Ask the UT's international office for their recommended list — they maintain an updated list for new international staff. Registration is simple: call or email, provide your BSN and address.
+
+**DigiD.** Apply as soon as you have your BSN. The activation letter arrives by post in about two weeks. You need DigiD to access most Dutch government services online — belastingdienst.nl, Mijn Overheid, zorgtoeslag applications. Do not delay.
+
+**Cycling.** Enschede has good cycling infrastructure and the flat-to-gently-rolling terrain of Twente is very bikeable. Buy a second-hand bicycle within your first week — Marktplaats.nl has reliable options for €50–€150. It will be your primary transport for most daily errands.
+
+## Cost of Living in Enschede
+
+Enschede is one of the most affordable cities in the Netherlands for expats. Compared to Amsterdam, you will pay roughly 35–40% less for comparable accommodation, and the cost of food, dining, and services is comparable to other Dutch cities. Here is a realistic monthly budget for a single professional:
+
+| Category | Monthly cost |
+|---|---|
+| Rent (1-bed apartment) | €850–€1,050 |
+| Health insurance | €130–€160 |
+| Utilities (gas, electricity) | €120–€160 |
+| Groceries | €250–€350 |
+| Transport (bike + occasional train) | €50–€100 |
+| Dining out + leisure | €200–€350 |
+| **Total** | **€1,600–€2,170** |
+
+A take-home salary of €2,500/month is comfortable in Enschede. The same salary in Amsterdam would leave you with almost no margin. This cost differential is the most compelling reason to take Enschede seriously if you have flexibility on location.
+
+## Enschede and Germany: The Cross-Border Dimension
+
+One aspect of Enschede that makes it genuinely different from other Dutch cities is its proximity to Germany. The border is 10 kilometres from the city centre. This creates a few practical advantages that are worth thinking about:
+
+**Shopping in Germany:** Grocery prices in Germany are generally lower than in the Netherlands, particularly for meat, dairy, and alcohol. Some Enschede residents make a weekly or fortnightly grocery run to Gronau or Ochtrup across the border. The saving on a full shop can be €20–€40 compared to Dutch supermarkets, though you need a car or bicycle to make it practical.
+
+**Healthcare in Germany:** For some specialist procedures or dental work, German prices can be lower even after accounting for Dutch insurance reimbursement caps. Longer cross-border commutes for work are also not uncommon among Enschede residents, particularly in manufacturing and logistics.
+
+**The international dimension:** Living near a national border creates a specific kind of international environment that is different from the cosmopolitan-city model. You encounter German culture regularly, many businesses operate bilingually in Dutch and German, and there is a long tradition of cross-border economic and social ties in the Twente-Münsterland region.
+
+**German language advantage:** If you speak any German, it is genuinely useful in this part of the Netherlands in a way it is not in Amsterdam or Rotterdam. Day-to-day interactions near the border sometimes slip into German, and being comfortable in the language opens up social and professional networks on both sides.
+
+## Social Life and Community in Enschede
+
+Enschede has a social scene that is driven primarily by the university. If you are affiliated with UT, joining sports clubs and student associations is straightforward and the international student community is genuinely welcoming. The U-Sporter facility at the university offers gym, swimming, and sports facilities at student rates.
+
+For expats not affiliated with UT, social life requires a bit more effort. The International Club Enschede and the expat Facebook groups for the region are reasonable starting points. The café and bar scene around the Oude Markt and Roombeek is lively on weekend evenings. The annual Vuurwerkfestival (Enschede fireworks festival) in June is a significant city event that draws people from across the region and provides good opportunities to meet people.
+
+The city has a clear industrial and design heritage — the textile industry that made Twente wealthy left behind factory buildings that have been repurposed as creative spaces, galleries, and restaurants. The Textile Museum (TextielMuseum Tilburg is the national one, but Enschede has its own textile history well represented in the Rijksmuseum Twenthe) and the architecture of Roombeek give the city a cultural identity distinct from purely academic or tech-sector towns.
+
+---
+
 ## Useful Resources
 
 - [Gemeente Enschede: Registration and services](https://www.enschede.nl/en)

@@ -306,4 +306,46 @@ Whatever you choose, getting a VPN set up should be one of your first steps as a
 
 <a href="https://go.nordvpn.net/aff_c?offer_id=612&aff_id=141337&url_id=14830" class="cta-affiliate" rel="noopener nofollow sponsored" target="_blank">Get NordVPN -- Our #1 Pick for Expats in the Netherlands</a>
 
+## VPN and the Dutch Legal Framework
+
+One question I get regularly from expats: are there any legal concerns about using a VPN in the Netherlands?
+
+The short answer is no. The Netherlands has among the strongest digital rights protections in Europe. Using a VPN is entirely legal, and there are no restrictions on VPN software or services.
+
+Some context worth knowing:
+
+**GDPR protection:** The EU's General Data Protection Regulation applies in the Netherlands and provides strong protections for personal data. Your ISP must comply with GDPR data handling requirements. However, GDPR does not prevent your ISP from logging connection metadata for legitimate business or legal compliance purposes. A VPN prevents this logging for the content of your browsing (your ISP sees you connected to a VPN server but not which sites you then visit).
+
+**Streaming service terms of service:** The only grey area with VPN use is violating the terms of service of streaming platforms that prohibit VPN access. Netflix, BBC iPlayer, and other services actively try to block VPN access, and their terms technically prohibit circumventing geo-restrictions. However, this is a civil contractual matter at most — no Dutch resident has faced legal consequences for accessing geo-restricted streaming content via VPN, and none is expected to.
+
+**Workplace VPNs:** If you are employed and use a corporate VPN for work, confirm whether your employer's policy requires you to use the corporate VPN for all traffic or only for work traffic. Most corporate VPNs use split tunnelling, routing only company-bound traffic through the corporate network. Using a personal VPN alongside a corporate VPN is generally fine with split tunnelling but occasionally causes conflicts — check with your IT department.
+
+---
+
+## The Netherlands and Digital Privacy: What Expats Should Know
+
+The Netherlands has a strong tradition of digital privacy advocacy. The country is home to several major privacy organisations, and Dutch politicians have been among the most vocal in European debates about surveillance and data retention.
+
+That said, the Dutch intelligence services (AIVD and MIVD) have data collection powers, and internet service providers have data retention obligations under Dutch law. For most expats, none of this is relevant to daily life. But for those who work in sensitive fields — journalism, human rights, legal work, international organisations — understanding that the Netherlands is not a surveillance-free environment is relevant.
+
+ProtonVPN (Swiss-based) and Mullvad (Swedish, highly anonymous) offer the strongest privacy protections for those with elevated concerns. For most expats, NordVPN or Surfshark provide more than sufficient privacy protections for everyday use.
+
+---
+
+## Streaming Services Available in the Netherlands: What You Get Without a VPN
+
+To help you decide what you actually need a VPN for, here is what is available in the Netherlands without one:
+
+**Available:** Netflix Netherlands (Dutch and international content, though different library from US/UK), Disney+, Amazon Prime Video (with some regional differences), HBO Max (now Max), Apple TV+, YouTube Premium, Spotify, Deezer.
+
+**Available but partially different:** Netflix's Dutch catalogue has less content than US Netflix in most categories. Disney+ is largely region-agnostic. Amazon Prime Video is regional for some content.
+
+**Not available without VPN:** BBC iPlayer, ITV Hub, Channel 4 (UK streaming), Hulu (US), Peacock (US), ABC iView (Australia), all live Dutch public broadcasting beyond NPO Start (no issue there), German ARD/ZDF Mediathek (limited access).
+
+**Dutch streaming to discover:** NPO Start (public broadcasting, free, in Dutch), Videoland (RTL's streaming service, much Dutch-language content), Ziggo Movie & Series (cable provider streaming service). These are part of Dutch media life but require Dutch language comprehension for most content.
+
+A VPN effectively extends your streaming options back to your home-country catalogue while you are in the Netherlands.
+
+---
+
 For more on getting set up in the Netherlands, see our [complete relocation guide](/guides/legal/complete-guide-moving-to-netherlands-2026/), my guide to the [best SIM cards for expats](/guides/daily-life/best-sim-card-netherlands-expats-2026/), and our [best internet providers in the Netherlands guide](/guides/daily-life/best-internet-providers-netherlands-2026/) — a fast, reliable home connection pairs well with a VPN for the full streaming and privacy setup.

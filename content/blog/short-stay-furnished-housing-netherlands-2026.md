@@ -295,3 +295,38 @@ Housing scams are a real problem in the Netherlands, particularly in Amsterdam a
 **Can I use short-stay housing as my official registration address in the Netherlands?**
 
 For official registration at the gemeente (BRP registration), you need a residential address where you actually live. Serviced apartments and short-stay accommodations that are commercially registered as hotels or corporate housing cannot always be used for BRP registration. Many landlords of furnished apartments will allow registration — this is a critical question to ask before signing. Without BRP registration, you cannot get a BSN, and without a BSN you cannot open a bank account, access healthcare, or apply for the 30% ruling. Always confirm registration permission before committing to any short-stay arrangement.
+
+---
+
+## Utilities in Short-Stay Housing: What Is Usually Included
+
+One of the practical questions expats always ask is what they actually need to arrange themselves. In short-stay housing, this varies by accommodation type.
+
+**Serviced apartments (YAYS, Zoku, etc.):**
+Almost always include everything: electricity, gas (or district heating), water, internet, and often weekly cleaning. The price you see is what you pay. This is one of the main reasons serviced apartments command a premium — you have zero setup overhead.
+
+**Private furnished rentals:**
+This varies. Some include all utilities in an "all-in" monthly price. Others charge rent separately and you pay utilities directly with the utility companies. Questions to ask before signing:
+- Is gas/electricity included or separate?
+- Is internet included? If so, who is the provider and what speed?
+- Is water included? (Usually yes in the Netherlands)
+- What is the approximate monthly cost if utilities are separate?
+
+For separate utilities, budget approximately EUR 150–250/month depending on the size of the property and season. Dutch winter heating bills can be surprisingly high if the property is not well insulated.
+
+**Shared housing:**
+Almost always quoted as an all-in price covering rent, utilities, and internet split between housemates. Confirm before moving in what is included and whether there is a separate cleaning rota or cost.
+
+---
+
+## Moving Out: What to Expect
+
+When leaving a short-stay furnished rental, a few things to manage carefully:
+
+**Condition:** You are legally required to return the property in the same condition you received it, minus normal wear and tear. Take dated photos with timestamps at move-in and move-out. Email these to the landlord before moving in and immediately after moving out. This simple step resolves most deposit disputes before they start.
+
+**Deposit return:** Under Dutch law, the deposit must be returned within 14 days of the end of tenancy, minus any agreed deductions for damage. If the landlord withholds more than the agreed amount or does not return the deposit within 14 days, you can escalate to the Huurcommissie (Rent Tribunal) or take the matter to a Dutch kantonrechter (civil court).
+
+**Deregistration:** When you move out permanently, deregister at the gemeente (uitschrijven). This matters for your BRP record and for ending municipal tax (gemeentebelasting) obligations at your old address.
+
+**Forwarding address:** The Dutch postal system (PostNL) offers mail forwarding. Set this up before you move to ensure important correspondence reaches your new address.

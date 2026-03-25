@@ -362,3 +362,59 @@ For more on buying second-hand in the Netherlands, see our [guide to second-hand
 - [Landelijk afvalbeheerplan](https://www.lap3.nl)
 
 For more daily life guides, see our articles on [Dutch utilities explained](/blog/dutch-utilities-explained-expats-2026/) and [energy providers for expats](/guides/housing/energy-providers-expats-netherlands-2026/).
+
+---
+
+## Sustainability in Daily Life: Beyond the Bins
+
+Recycling is the most visible part of Dutch sustainability culture, but it is part of a broader approach to environmental responsibility that shapes daily life here.
+
+**Reusable cups:** Many Dutch coffee shops and cafés encourage or require reusable cups for takeaway coffee. Some charge a small deposit for disposable cups (similar to statiegeld). If you have a reusable cup, bring it — it is entirely normal and appreciated.
+
+**Plastic bag charges:** Single-use plastic bags have been charged (around EUR 0.25–0.50) in Dutch shops since 2016. Most people carry a reusable bag (boodschappentas). Arriving at the checkout without one is not embarrassing, but buying the same plastic bag twice a week quickly becomes a minor annoyance. Reusable shopping bags cost EUR 1–3 at Albert Heijn or Action.
+
+**Food waste reduction:** The Dutch food waste reduction movement is strong. Apps like Too Good To Go allow you to buy surplus food from restaurants, bakeries, and supermarkets at a fraction of the original price. Typical savings are EUR 3–8 for EUR 10–25 worth of food. Very popular in Dutch cities — I use it regularly.
+
+**Repair culture:** The Netherlands has an active repair culture. Repair Cafés (free community repair workshops) exist in most Dutch towns — volunteers help you repair electronics, clothing, bicycles, and household items rather than throwing them away. Search "Repair Café [your city]" to find your local one.
+
+**Clothing:** Kringloopwinkels (charity shops / thrift stores) are excellent quality in the Netherlands — often selling good-quality Dutch and international brands at a fraction of retail. Platforms like Vinted are also popular for clothing resale. Sustainable fashion consumption is normalised in Dutch culture in a way that might be different from your home country.
+
+**Food choices:** The Netherlands has a high density of vegetarian and vegan restaurants and meal options relative to its size. Organic (biologisch) supermarkets like Ekoplaza and organic ranges at Albert Heijn are widely available. The Dutch government has been actively encouraging reduced meat consumption as a sustainability policy — you will notice this in how food choices are presented at institutional and corporate events.
+
+---
+
+## Understanding the Afvalwijzer App
+
+The Afvalwijzer app is the most practical sustainability tool for newly arrived expats. Enter your postcode and it shows:
+- Your specific bin collection schedule (not all municipalities collect all bins on the same day)
+- Which items go in which bin (with a searchable database of hundreds of items)
+- The location of your nearest glasbak, milieustraat, and special collection points
+- Reminders for collection days (you can set alerts)
+
+The app is in Dutch but highly navigable. For any item where you are unsure, the search function covers virtually every household object. If the answer is "milieustraat" — it means the item needs to go to the recycling centre (often a 10-minute cycle ride) rather than a home bin.
+
+---
+
+## The Netherlands' Sustainability Context: What Expats Should Know
+
+The Netherlands has strong environmental credentials in some areas and genuine challenges in others. Understanding the broader context helps make sense of why certain rules and systems exist:
+
+**Circular economy leadership:** The Netherlands has a government target to achieve a fully circular economy by 2050, with a 50% reduction in the use of new raw materials by 2030. The waste separation and recycling rules you experience as a new arrival are directly connected to this national policy. The statiegeld system on bottles and cans — where you pay a deposit included in the price and get it back when you return the container — is a practical expression of circular economy policy that achieves very high return rates.
+
+**Energy transition:** The Dutch are transitioning from natural gas heating (to which the country was deeply committed due to the Groningen gas field) to district heating, heat pumps, and solar. If you rent a property with a heat pump or district heating connection rather than a gas boiler, you are experiencing this transition directly. The national insulation subsidy programme (ISDE) is available to homeowners upgrading insulation; renters benefit from their landlord's incentive to improve the energy label.
+
+**Plastic reduction:** The Netherlands banned many single-use plastics in line with EU directives from 2021. Supermarkets charge for plastic bags (minimum €0.25) and are transitioning to alternatives. Most Dutch supermarkets now have a statiegeld return machine for plastic bottles and cans — use it every time.
+
+**Carbon footprint of Dutch expat life:** The Netherlands has relatively high per-capita emissions, partly due to the high proportion of natural gas heating and the car-dependent suburban areas outside major cities. For expats conscious of their footprint, cycling everywhere, choosing electric or hybrid transport, and keeping heating moderate in a well-insulated property makes a measurable difference.
+
+## Water in the Netherlands: A Sustainability Note
+
+The Netherlands' relationship with water is unique and worth understanding:
+
+**Tap water quality:** Dutch tap water (kraanwater) is among the cleanest and best-tasting in the world. There is no reason to buy bottled water — doing so generates unnecessary plastic waste. Water companies like Evides, Vitens, and PWN produce water that regularly wins blind taste tests. Bring a reusable water bottle; refill it from the tap.
+
+**Flood risk:** Parts of the Netherlands are below sea level, protected by an extensive system of dykes, pumping stations, and water management infrastructure. Climate change increases the risk of flooding events. If you live in a flood-risk area (your gemeente can tell you whether your address is at risk), it is worth understanding what the emergency procedures are.
+
+**Grey water and garden watering:** Dutch gardens in dry summers can face hosepipe restrictions in some municipalities. Check your local municipality's rules in summer dry periods — using collected rainwater for garden irrigation is both permitted and encouraged.
+
+For broader sustainability in your daily life in the Netherlands, the [cost of living guide](/guides/housing/cost-of-living-netherlands-2026/) covers energy costs in detail, and the [energy providers guide](/guides/housing/energy-providers-expats-netherlands-2026/) explains how to choose a green energy tariff.

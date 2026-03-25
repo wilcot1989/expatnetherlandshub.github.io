@@ -256,3 +256,33 @@ Finding an English-speaking dentist in the Netherlands is easier than in most no
 - Emergency dental services exist in every major Dutch city. Know where yours is before you need it.
 
 The Dutch healthcare system explained more broadly — including how the insurance system works, how to register with a GP, and what is covered — is in the [Dutch healthcare system explained guide](/guides/health/dutch-healthcare-system-explained-2026/). That is the place to start if you are still finding your way through the system.
+
+---
+
+## Children's Dental Care in the Netherlands
+
+Children's dental care in the Netherlands is handled somewhat differently from adult care, and the insurance rules are more generous for younger patients.
+
+**Insurance coverage for children under 18:** Basic dental care for children up to age 18 is covered by the Dutch basisverzekering at no extra cost. This includes checkups, X-rays, fillings, and extractions. No supplementary insurance is needed for standard treatment. The eigen risico (annual deductible) does not apply to children's care.
+
+**Orthodontic treatment for children:** Orthodontic work is covered by the basic insurance if it is medically indicated and meets specific criteria. Minor cosmetic orthodontics is not covered. A referral from a dentist to an orthodontist (orthodontist) is required, and the treatment must start before age 18 to fall within the basic coverage.
+
+**After age 18:** Once a child turns 18, they move to adult rules — dental is no longer covered by basic insurance and they should consider an aanvullende verzekering. Many Dutch families add dental supplementary insurance for their children when they turn 18 as a matter of course.
+
+**Practical tip for expat families:** When you register at the gemeente and receive your BSN, also register your children with a Dutch tandarts immediately. Popular practices in cities — particularly ones familiar with international children — have waiting lists. Getting children on the list early means continuity of care as they grow.
+
+---
+
+## Oral Health in the Netherlands: Cultural Notes
+
+The Dutch approach to dental care is preventive by default. A typical Dutch patient visits their tandarts once a year for a checkup and professional cleaning (tand reiniging). The focus is on catching problems early, not treating advanced decay.
+
+This contrasts with countries where many people only visit the dentist when there is a problem. Dutch dentists will note if you have gaps in your care history and may want to take a full set of X-rays at your first appointment to establish a baseline.
+
+What this means practically:
+
+- Do not delay registering with a dentist when you arrive. Even if your teeth feel fine, establishing a patient relationship now is worth it.
+- If you have been a sporadic dental attender in your home country, expect the first appointment to involve a thorough assessment and possibly X-rays — plan for it to be longer than a standard checkup.
+- Dutch dentists are generally direct about what needs attention and what does not. They are not in the business of recommending unnecessary treatments, but they will tell you clearly if something needs addressing.
+
+The quality of Dutch dental care is high. The Netherlands trains dentists at ACTA (Amsterdam-Leiden) and other dental faculties with rigorous international standards. Treatment protocols follow evidence-based guidelines. For routine dental care, you are in good hands.

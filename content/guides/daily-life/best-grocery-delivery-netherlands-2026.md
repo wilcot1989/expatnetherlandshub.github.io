@@ -365,6 +365,79 @@ Most Dutch cities have weekly markets with fresh produce, cheese, fish, and flow
 
 ---
 
+## International and Specialty Food Shopping
+
+One of the genuine pleasures of expat life in the Netherlands is discovering how easy it is to find food from almost anywhere in the world — but it requires knowing where to look.
+
+### Albert Heijn International Section
+
+Albert Heijn maintains a dedicated international foods section in its larger stores, with products from the UK (Heinz, Ribena, PG Tips), the US, Indonesia, and various European countries. The ah.nl website also has an international category. Coverage varies by store size — a large AH XL will have three times the international selection of a local AH Compact.
+
+### Amazing Oriental
+
+Amazing Oriental is a chain of large Asian supermarkets with locations in Amsterdam, Rotterdam, The Hague, Utrecht, and several other cities. They carry an extraordinary range of Japanese, Chinese, Korean, Vietnamese, Indonesian, Thai, Indian, and Southeast Asian products — fresh produce, specialty sauces, noodles, rice varieties, tofu, fresh fish, and much more. Prices are competitive and the range is far wider than any standard supermarket. No delivery service, but worth a visit and stocking up.
+
+### Turkish and Moroccan Grocery Shops
+
+Most Dutch cities have significant Turkish and Moroccan communities, and the grocery shops serving these communities are often among the best places to buy fresh produce, spices, olives, cheeses, fresh herbs, and flatbreads at lower prices than supermarkets. These shops are typically found in neighbourhood shopping streets rather than malls. In Amsterdam, the Dappermarkt area, the Albert Cuypmarkt surroundings, and the Indische Buurt are good starting points.
+
+### Polish Grocery Stores
+
+Given the large Polish community in the Netherlands, Polish grocery stores (often labelled "Sklep Polski") are common and carry a range of products from Central and Eastern Europe including specific bread varieties, preserved meats, specific dairy products, and drinks not found in mainstream supermarkets. These are genuinely useful for expats from Poland and neighbouring countries, and also interesting for others looking for Central European products.
+
+### Ekoplaza and Marqt
+
+Ekoplaza is the Netherlands' largest organic supermarket chain, with stores in Amsterdam, Rotterdam, The Hague, Utrecht, and other cities. Everything they sell is certified organic. Prices are higher than regular supermarkets but the range is excellent for health-conscious expats. Marqt is a smaller chain with a similar positioning.
+
+### Online Specialty Shops
+
+For products very specific to a national cuisine, several online shops specialise in expat food deliveries:
+- Expat Shop (expatshop.nl): British, American, Australian, South African, and other English-language market products
+- My British (mybritish.nl): British-specific products
+- Various country-specific online shops accessible via Google
+
+---
+
+## Grocery Shopping on a Dutch Budget
+
+Understanding how to shop economically in the Netherlands helps you calibrate your delivery service choices.
+
+### The Budget Hierarchy
+
+If cost is your primary concern, here is how to stack the services:
+
+1. **Lidl and Aldi weekly shop:** The discount chains are significantly cheaper than Albert Heijn and Jumbo for staples, typically 20-30% less expensive for comparable own-brand products. They do not offer delivery, but a weekly visit covers the bulk of your needs.
+
+2. **Picnic for standard items:** For branded products you want delivered, Picnic's prices are consistently competitive. Use their free delivery for the bulk of your delivery needs.
+
+3. **Albert Heijn Bonus deals:** The AH Bonus card unlocks weekly discounts of up to 35% on selected products. For large shops that include Bonus items, the effective price at AH can be lower than Picnic on specific product categories.
+
+4. **Flink for genuine emergencies only:** The premium pricing makes Flink poor value as a regular option, but it is worth keeping installed for the occasional urgent need.
+
+### Seasonal and Market Shopping
+
+Dutch weekly markets (weekmarkten) offer fresh produce, cheese, fish, and flowers at prices below supermarket levels — particularly toward market closing time when vendors discount remaining stock. Every Dutch city and most large neighbourhoods have a weekly market. The Albert Cuypmarkt (Amsterdam, daily except Sunday) and the Markthal Rotterdam are famous examples, but smaller neighbourhood markets are equally good for produce.
+
+The Dutch cheese market tradition is centred in towns like Gouda, Alkmaar, and Edam — if you visit, buying direct from the kaasmakers (cheese makers) at market is often better value than supermarket cheese of comparable quality.
+
+### Reducing Delivery Costs
+
+If you order from Albert Heijn regularly, the AH Bezorgbundel (delivery pass at approximately €5–8/month) pays for itself after two orders. For mixed delivery needs, Picnic's free delivery makes it the most cost-efficient primary option, supplemented by AH for same-day needs.
+
+---
+
+## Grocery Apps Worth Downloading
+
+Beyond the main delivery apps, several apps make grocery shopping in the Netherlands more efficient:
+
+**Too Good to Go:** A food waste reduction app where restaurants, supermarkets, and bakeries sell end-of-day surplus at 50-70% discount. Active in all major Dutch cities. AH, Lidl, bakeries, and delis all participate. For an expat shopping on a budget or interested in reducing food waste, this is genuinely useful — a "magic bag" typically costs €3-4 for €10-15 worth of food.
+
+**Hubb:** An app that aggregates bonus deals from multiple Dutch supermarkets, making it easy to see where the best deals are this week without opening multiple apps.
+
+**Superunie loyalty integration:** Several smaller supermarket chains (Plus, Coop, Spar) are members of the Superunie cooperative and offer their own loyalty programmes. The Mijn Plus loyalty card offers sticker promotions and personal discounts worth using if Plus is your nearest store.
+
+---
+
 ## Conclusion
 
 The Netherlands offers exceptional grocery delivery options for every need and budget:

@@ -201,3 +201,87 @@ Start in February. I cannot stress this enough. The deadline is May 1st, which s
 Gather your documents in February. Check your DigiD. Log into Mijn Belastingdienst just to confirm it works. Then, when March arrives and the portal opens, you can file in an evening rather than a panic.
 
 Your future self, sitting somewhere pleasant with a refund on the way, will be very grateful.
+
+---
+
+## The M-Form: A Separate Guide for a Special Case
+
+If you arrived in the Netherlands or left the Netherlands part-way through the tax year (2025), you do not file a standard aangifte. You file an M-form (migratieformulier). This is a special version of the tax return for people who were not Dutch tax residents for the full year.
+
+The M-form is only available as a paper form or through a tax advisor's digital system — it is not available in the standard Mijn Belastingdienst online portal. This catches many expats off guard: they log in expecting to file digitally and cannot find the M-form.
+
+**How to get and file the M-form:**
+1. Order the paper form from the Belastingdienst website (search "M-formulier aanvragen")
+2. Or use a tax advisor who has access to the digital M-form system
+3. Complete it covering the period you were a Dutch resident, including any income from before or after your Dutch residency if it affects your Dutch tax position
+4. Submit by the deadline (same as standard returns: 1 May, or request an extension)
+
+The M-form is more complex than the standard aangifte, particularly for the sections about foreign income, income before and after Dutch residency, and the treatment of assets. If this is your first year in the Netherlands, I strongly recommend a tax advisor for the M-form rather than attempting it yourself.
+
+After your first year, if you are a full-year Dutch resident, you switch back to the standard online return. The M-form is only for years of partial Dutch residency.
+
+---
+
+## When a Tax Advisor Is Worth the Fee
+
+I get asked this regularly: do I need a tax advisor for a Dutch tax return?
+
+The honest answer depends on your situation:
+
+**File yourself if:**
+- You have one Dutch employer, no side income, no foreign assets, no mortgage deductions
+- Your situation is a simple employee with pre-filled jaaropgave data
+- You are comfortable reading Dutch tax instructions (or using a translation)
+
+**Seriously consider a tax advisor if:**
+- You are in your first or last year of Dutch residency (M-form required)
+- You have the 30% ruling and are navigating the partial non-resident status for Box 3
+- You have foreign assets (bank accounts, investments, property outside the Netherlands)
+- You are self-employed or have freelance income alongside employment
+- You received a significant inheritance or made substantial gifts during the year
+- You have a complex mortgage situation (particularly a recent purchase)
+- You have previously undeclared foreign assets you want to voluntarily disclose
+
+Tax advisor fees for a standard expat return range from EUR 150–400. For complex situations (30% ruling, M-form, foreign assets), EUR 400–800 is common. For genuinely complex international situations, fees can be higher. In almost all complex cases, the advisor's knowledge of deductions and structures pays for itself.
+
+---
+
+## Filing Your Dutch Tax Return: The Step-by-Step Process
+
+For expats filing a Dutch aangifte inkomstenbelasting for the first time, here is the practical sequence:
+
+**Step 1: Gather your documents (February–March).**
+Your employer sends a jaaropgave (annual income statement) in January or February. This is the foundation of your return. Also collect: interest and dividend statements from your bank, mortgage statements if applicable, healthcare cost receipts if above eigen risico, and charitable donation receipts.
+
+**Step 2: Access Mijn Belastingdienst (March onwards).**
+Go to belastingdienst.nl and log in with your DigiD. Your aangifte is pre-populated with data the Belastingdienst already has from employers, banks, and pension providers. Review each pre-filled field — do not assume they are all correct.
+
+**Step 3: Check pre-filled data.**
+Common pre-filled data that may be wrong: aftrekposten (deductions) that haven't been automatically populated, Box 3 assets that are incomplete (especially if you have foreign accounts), and 30% ruling amounts that need to be verified against your actual jaaropgave.
+
+**Step 4: Add aftrekposten (deductions).**
+The most commonly missed deductions for expats:
+- Hypotheekrenteaftrek (mortgage interest) — if you own property
+- Lijfrentepremies (annuity premiums) — if you made voluntary pension contributions
+- Zorgkosten (medical costs above the drempel threshold — approximately €139 + 1.65% of income)
+- Giften (charitable donations to ANBI organisations, above 1% of income)
+- Study costs (specific conditions apply post-2022 changes)
+
+**Step 5: Box 3 declaration.**
+Declare all assets above the heffingvrij vermogen (tax-free threshold — €57,000 per person in 2026). This includes Dutch savings accounts, investments, and second properties. If you have the partial non-resident status from the 30% ruling, only Dutch assets are declared.
+
+**Step 6: Submit and receive aanslag (assessment).**
+The deadline is May 1 (or later with extension). After submission, you receive a voorlopige aanslag (provisional assessment) within a few weeks and a definitive aanslag usually within 3 months. If you are owed a refund (teruggave), it is paid within 6 weeks.
+
+**Step 7: Bezwaar if needed.**
+If you disagree with the assessment, submit a bezwaar within 6 weeks of the aanslag date. Bezwaar is free and the Belastingdienst must respond within 12 weeks.
+
+## Common Errors That Trigger Audits
+
+The Belastingdienst uses data-matching to identify discrepancies. Common issues for expats:
+
+- **Foreign bank accounts not declared in Box 3:** The Belastingdienst receives data from many foreign banks under the CRS (Common Reporting Standard) data exchange. If you have foreign accounts above €57,000 not declared in Box 3, this will appear as a discrepancy.
+- **Partial year returns filed as full year:** If you arrived or left the Netherlands partway through the year, the M-form for migration applies — not the standard aangifte. Filing the wrong form understates or overstates your Dutch liability.
+- **WKR (Work-Related Costs Scheme) items incorrectly classified:** If your employer pays you allowances, check whether they should be included in your jaaropgave or qualify as WKR exemptions. Misclassification is common.
+
+If you receive a brief (letter) from the Belastingdienst requesting information, respond promptly and completely. Delays or incomplete responses trigger escalation to a formal onderzoek (investigation).

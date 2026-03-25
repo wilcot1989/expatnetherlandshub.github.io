@@ -289,3 +289,32 @@ You have 35 years to repay, with repayments based on your income above a minimum
 ### What happens if I don't finish my degree within 10 years?
 
 If you do not complete your degree within 10 years of first receiving the basisbeurs, the full accumulated amount is automatically converted into a loan. The conversion happens regardless of the reason for the delay. This is one of the most important rules for students who change programmes or take long breaks — the 10-year clock starts from your first receipt of the basisbeurs, not from the start of your current programme.
+
+---
+
+## Managing Your Finances as an International Student
+
+Beyond DUO finance, here is what international students actually need to manage day-to-day finances in the Netherlands.
+
+**Bank account:** You need a Dutch bank account. Most major banks (ING, Rabobank, ABN AMRO) require a BSN and Dutch address. Bunq and Revolut are popular alternatives for students since they are easier to open without all Dutch documentation in place. For transferring money from your home country, Wise offers significantly better exchange rates than any high street bank.
+
+**Student discounts:** With a valid Dutch student ID (from your institution and/or a studentenkaart issued alongside your OV-kaart), you get discounts at many Dutch museums, cinemas, and some retailers. The National Museum Card (Museumkaart) costs EUR 65/year for under-18s, somewhat more for young adults, and gives free access to 400+ museums — excellent value if you explore the country.
+
+**Part-time work:** International students can generally work part-time in the Netherlands. EU students have no restrictions. Non-EU students are limited to 16 hours per week during the academic year, with full-time work permitted during summer months (June, July, August). Exceeding these hours affects your visa/permit status. Earnings above EUR 21,400/year become subject to Dutch income tax.
+
+**Health insurance:** All Dutch residents — including students — must have Dutch health insurance (zorgverzekering) from their first day of residence. The basic premium is EUR 130–160/month. Students on lower incomes may qualify for zorgtoeslag (health insurance allowance). Students with valid coverage from an EU country (using the European Health Insurance Card for the full duration) may be exempt — check the specific rules with your insurer. International students from non-EU countries must arrange Dutch health insurance.
+
+**Accommodation costs:** Student housing in the Netherlands is heavily subsidised through SSH (Student Services) and other housing corporations, but places are limited and waitlists are long. Most universities coordinate with housing providers and can help arrange accommodation for incoming international students. Private market rents for a student room in Amsterdam or Utrecht range from EUR 700–1,200/month all-in. Rotterdam and Groningen are cheaper (EUR 500–900/month). Register for accommodation waiting lists immediately upon receiving your university acceptance.
+
+**Cost of living:** A realistic monthly budget for an international student in the Netherlands in 2026:
+
+| Item | Budget range |
+|------|-------------|
+| Accommodation | EUR 500–1,200 |
+| Food | EUR 200–350 |
+| Transport (OV-studentenkaart or bike) | EUR 0–50 |
+| Health insurance | EUR 130–160 |
+| Miscellaneous / social | EUR 100–200 |
+| **Total** | **EUR 930–1,960** |
+
+The OV-studentenkaart (free public transport) dramatically reduces transport costs for qualifying students — this is one of the most valuable benefits of Dutch student status.

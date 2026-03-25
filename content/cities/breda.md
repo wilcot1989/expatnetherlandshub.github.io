@@ -121,6 +121,40 @@ Moving to Breda requires a few first steps. Here are the most important ones:
 
 **Plan your budget** — Use our free [cost of living calculator](/tools/cost-of-living-calculator/) and [housing budget checker](/tools/housing-budget-checker/) to see what you can afford in Breda.
 
+## Expat Community & Social Life
+
+Breda's expat community is a mix of logistics professionals, academics connected to BUAS, and people who moved from Rotterdam or Amsterdam for lower rents and a calmer pace. It lacks the university-driven concentration you find in Nijmegen or the tech-employer-driven network you find in Eindhoven, but it is genuine and growing.
+
+The BUAS (Breda University of Applied Sciences) international staff and student community creates the most organised expat cluster in the city. Incoming academic and administrative staff from outside the Netherlands are connected through the university's International Office, which organises events and provides practical settling-in support.
+
+For general social activities, the Breda Expats Facebook group is active. InterNations Breda has events, smaller than the Randstad equivalents but consistent. Several sports clubs in Ginneken and around the city's sports parks have English-speaking membership.
+
+The Brabant culture is genuinely different from the Randstad, and it is one of the things expats who stay in Breda most commonly cite as why they stopped considering a move back north. The pace is slower, people are more likely to invite you into their social circles without you having to engineer it, and the weekend rhythms — outdoor markets, cycling in the surrounding countryside, terrace culture — create a quality of daily life that takes time to appreciate but is hard to give up once you have experienced it.
+
+The city's carnaval (February, before Lent) is the biggest cultural event in the calendar. Breda is in the Brabant carnival heartland, and the three days of festivities are genuinely participated in by residents rather than being a tourist event. If you arrive before February, going to the carnaval is one of the faster ways to feel integrated into the city.
+
+## Schools and Families
+
+Breda does not have a dedicated international school. BUAS provides some English-medium higher education, but for primary and secondary international schooling, the options are limited within the city itself.
+
+Families with primary-age children typically use Dutch-medium schools with integration support. Several schools in the Chassé Park and Ginneken areas have experience with non-Dutch speaking children from the BUAS community. For secondary level, some families commute to Rotterdam or Den Bosch for more formal international programmes.
+
+Despite the limited international school offer, Breda is well-regarded by expat families for its practical qualities. The housing supply for families with larger properties and gardens is excellent at prices that compare very favourably to the Randstad. Ginneken in particular — with its village character, independent shops, and proximity to the Mastbos forest — is a neighbourhood that works very well for families.
+
+The Mastbos, directly south of Ginneken, is a forested area popular for cycling, walking, and family day trips. The flat polder landscape north and east of the city is good cycling territory. Breda's outdoor quality of life is better than the city's population size would normally suggest.
+
+## Settling In: The First Month
+
+1. Confirm housing with landlord permission for municipality registration
+2. Book registration at Gemeente Breda — appointments via gemeente.breda.nl, typically fills a few weeks out; book as soon as you have a rental contract
+3. Receive BSN at the appointment
+4. Open Dutch bank account
+5. Register for health insurance immediately
+6. Register with a GP — English-speaking practices available particularly in the Centrum and Chassé Park areas
+7. Apply for DigiD after BSN
+
+For BUAS arrivals, the International Office provides pre-arrival guidance that covers most of this sequence. For independent arrivals in logistics or other sectors, working through the steps above in order is the most efficient approach. The IND (Immigratie- en Naturalisatiedienst) office for non-EU permit applications in the southern Netherlands is in Eindhoven — factor this into your planning if you need a residence permit.
+
 ## Related Guides
 
 - [Moving to Breda: Complete Guide 2026](/guides/housing/moving-to-breda-guide-2026/) — the detailed guide covering housing, neighbourhoods, pros and cons, and more

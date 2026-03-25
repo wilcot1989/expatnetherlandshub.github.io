@@ -356,3 +356,83 @@ For further comparisons, see our [full breakdown of the best finance apps for ex
 
 ---
 
+## Bunq and Long-Term Residency: What Changes After Year One
+
+When you first arrive in the Netherlands, your banking setup is driven by necessity — you need an account quickly for salary, rent, and day-to-day expenses. By year one, the urgency is gone and you can make a more considered choice.
+
+Most expats who initially took out whatever account was easiest (often ABN AMRO or ING, due to their established expat onboarding) reconsider their setup after the first year once they understand what they actually need. Here is what I see happen.
+
+**The discovery of iDEAL.** Within the first few weeks, every expat discovers that Dutch digital payments run on iDEAL. Once you experience the gap (Revolut users especially) or the smooth experience (bunq and traditional bank users), you understand why the iDEAL-supporting account is the functional one.
+
+**The sub-account lightbulb moment.** Many expats who have never used sub-accounts for budgeting try them at bunq and find it changes how they relate to their finances. Knowing that your rent money is sitting in a dedicated sub-account means you see clearly what is actually spendable. This is not a feature you know you want until you have it.
+
+**The fee assessment.** After a year, you know what you actually use. If you have been using sub-accounts heavily, the EUR 8.99/month for Easy Money has demonstrably paid for itself in better financial management. If you opened Easy Money but only use one account, you are overpaying for features you do not use — downgrade to Easy Bank or switch.
+
+---
+
+## Bunq vs Rabobank: The Often-Missed Comparison
+
+Most expat banking guides compare bunq to ING and ABN AMRO, but Rabobank deserves a mention.
+
+Rabobank is a Dutch cooperative bank with strong rural and agricultural roots that has expanded into a full-service national bank. For expats in smaller cities and rural areas of the Netherlands (Gelderland, Overijssel, North Brabant farmland, Zealand), Rabobank often has the densest local branch network.
+
+| Feature | Bunq Easy Money | Rabobank Betaalpakket |
+|---|---|---|
+| Monthly fee | EUR 8.99 | EUR 1.95–3.90 |
+| IBAN | Dutch NL | Dutch NL |
+| iDEAL | Yes | Yes |
+| Tikkie | Yes | Yes |
+| English app | Yes | Partial |
+| Sub-accounts | 25 | 1 (separate savings) |
+| Physical branches | No | Yes |
+| Deposit guarantee | EUR 100,000 (DNB) | EUR 100,000 (DNB) |
+
+Rabobank's main advantage over bunq is cost and branches. At EUR 1.95/month for the basic Betaalpakket, it is substantially cheaper. The English app experience is adequate but not bunq's level.
+
+For expats in non-urban areas who value local branch access for occasional in-person banking needs, Rabobank is worth considering alongside ING. For expats in cities who want a digital-first experience, bunq or ING are more natural fits.
+
+---
+
+## The Sub-Account System in Depth: How I Use It After Three Years
+
+I want to give a more concrete account of how the sub-account system actually works in daily life, because the marketing description ("25 sub-accounts!") does not capture why it is practically useful.
+
+**My current setup:**
+
+| Sub-account name | Purpose | Amount held | Replenishment |
+|---|---|---|---|
+| Rent | Monthly rent buffer | EUR 1,400 | Auto-transfer on salary day |
+| Gas/Water/Light | Utilities buffer | EUR 150 | Auto-transfer on salary day |
+| Health insurance | Monthly premium | EUR 175 | Auto-transfer on salary day |
+| Annual expenses | Insurances, subscriptions divided by 12 | EUR 90 | Auto-transfer on salary day |
+| Emergency fund | 3 months' expenses | EUR 4,500 | Top up when depleted |
+| Holiday savings | Next trip | Varies | Manual when there's surplus |
+| Main account | This week's spending money | Whatever is left | — |
+
+The main account balance — which is what I see first when I open the app — is always what I can genuinely spend without consequences. Every fixed cost is already allocated.
+
+This sounds like basic budgeting. It is. The bunq implementation just makes it automatic rather than requiring spreadsheets or mental arithmetic.
+
+**The trigger for making this work:** The critical step is setting up automatic transfers to each sub-account on the day your salary arrives. If you rely on manually moving money, it does not work as well. Bunq's scheduled transfers handle this exactly.
+
+---
+
+## Bunq for Expats on Short-Term Contracts
+
+A question I get from expats on one or two-year contracts: is bunq worth it for a short stay?
+
+The honest answer depends on your definition of "worth it."
+
+If you are here for 12 months:
+- Easy Bank at EUR 2.99/month costs EUR 35.88 for the year — essentially the same as ING's basic account (EUR 2.45/month = EUR 29.40/year)
+- The premium over ING is EUR 6.48 for the year. If bunq's English app and iDEAL support are marginally better for you, the cost difference is negligible
+- Easy Money at EUR 8.99/month is EUR 107.88 for the year — worth it if sub-accounts are valuable to you; not worth it if you will not use them
+
+If you are here for 6 months or less:
+- Traditional banks with free or low-cost accounts may be simpler. ING's standard account is easy to open, fully functional, and cheap
+- The registration process for bunq is similarly quick, so there is no real onboarding advantage either way
+
+My actual recommendation for short-stay expats: start with a free or low-cost Dutch account (ING), add <a href="https://wise.com/invite/ihpc/willemt52" target="_blank" rel="noopener nofollow sponsored" class="cta-affiliate">Wise for international transfers →</a>, and assess whether you want to add bunq for its sub-account features after a month or two.
+
+---
+

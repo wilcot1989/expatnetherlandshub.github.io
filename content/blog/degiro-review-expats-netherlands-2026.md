@@ -321,4 +321,76 @@ No. DeGiro does not accept US persons due to FATCA compliance requirements. Amer
 
 ---
 
+---
+
+## DeGiro for Longer-Term Residents: What Changes Over Time
+
+The first year of using DeGiro in the Netherlands is mostly about getting the account open and figuring out what to buy. By year two and three, different questions come up. Here is what I see in practice.
+
+### The Annual Tax Return Becomes Routine
+
+After your first Dutch tax return involving DeGiro, the process becomes predictable. By January you know to check the pre-filled Box 3 figure. You know to verify it against your DeGiro annual statement. You know where to enter dividend tax credits. The first year feels confusing; by year three it takes about 20 minutes.
+
+### Portfolio Complexity Tends to Decrease
+
+Many expats start with a few ETF ideas, add a few stocks out of curiosity, and accumulate a messy portfolio. Within a few years, most of the people I work with have simplified back to one or two core positions. DeGiro handles both approaches equally well — the platform does not push you toward complexity.
+
+### The Cash Drag Question
+
+One persistent frustration with DeGiro is the absence of interest on uninvested cash. If you hold EUR 2,000 in your DeGiro account between transactions, that cash earns nothing. Over time, especially during periods of higher interest rates, this is a real opportunity cost.
+
+Practical workaround: do not hold large cash balances at DeGiro. Keep a minimum — enough for one or two planned transactions — and hold savings elsewhere (a savings account, bunq, or similar). Transfer to DeGiro specifically when you are ready to invest.
+
+### DeGiro and Employer Stock Plans
+
+Some expats receive shares or options through their employer's equity compensation plan. These are typically held in a separate platform (Solium, Computershare, eTrade, etc.) and do not flow through DeGiro. For Box 3 purposes, you need to separately report any employer shares or options that have vested and are held in a foreign platform. DeGiro's pre-filling covers only assets held at DeGiro.
+
+---
+
+## A Realistic Monthly Investment Strategy at DeGiro
+
+I am not a financial advisor and this is not advice, but here is the framework I see working well for many expat clients:
+
+**Step 1: Set a monthly transfer amount.** Decide on a fixed amount you will invest every month — say EUR 300–500. Set up a recurring bank transfer to DeGiro from your salary account a few days after your salary arrives.
+
+**Step 2: Pick one or two ETFs.** For most expats, VWCE (Vanguard FTSE All-World Accumulating) covers everything. If you prefer a two-fund approach, SWDA (developed markets) plus EMIM (emerging markets) works. Complexity beyond this rarely adds meaningful benefit for a passive investor.
+
+**Step 3: Execute the trade on the same day each month.** Consistency beats timing. Buying on the same day every month regardless of market conditions is simpler and, over long periods, tends to average out entry prices.
+
+**Step 4: Ignore the portfolio between purchases.** DeGiro's platform makes it easy to check prices constantly. The evidence on long-term passive investing suggests this checking behaviour is more likely to cause bad decisions (selling during a dip) than good ones.
+
+**Step 5: Review annually.** Once per year — I usually do this when I am preparing my Dutch tax return in late February or March — check your overall allocation, rebalance if needed, and update your investment amount based on changes in income or expenses.
+
+This is not exciting. It is the approach that most consistently builds wealth over a 10–20 year horizon for people who are not professional investors.
+
+---
+
+## DeGiro's ETF Core Selection: How to Check and What to Expect
+
+The Core Selection is DeGiro's list of ETFs that qualify for one free trade per month. Here is how it works in practice.
+
+**Checking the current list:** Go to degiro.nl, navigate to the "Core Selection" page (or search for it), and you will see the current list of qualifying ETFs with their ISINs and exchange listings. The list is updated periodically.
+
+**The mechanics of a free trade:** When you place a Core Selection trade that qualifies as your free trade for the month, there is no commission charge. You still pay the spread (the difference between the bid and ask price of the ETF). For liquid ETFs like VWCE or IWDA on Euronext Amsterdam, the spread is typically less than 0.05%, so genuinely negligible on amounts above EUR 500.
+
+**The conditions:** The free trade applies to one qualifying ETF transaction per calendar month per exchange. If you buy VWCE on Euronext Amsterdam on the 5th of the month for free, and try to buy it again on the 20th, the second trade is charged at standard commission. If your ETF is listed on both Euronext Amsterdam and XETRA, trades on each exchange count separately.
+
+**When your ETF drops off the list:** DeGiro updates the Core Selection without much notice. If your preferred ETF is removed, you will pay standard commission on future trades. This has happened — notably with changes to the list in 2024. The standard commission (EUR 2 + 0.03% for Euronext Amsterdam on a Custody account) is still very low, so it is not a financial disaster, but worth knowing.
+
+---
+
+## Building Your First Portfolio on DeGiro: What I Typically Recommend
+
+For expats who are genuinely new to investing and ask me where to start, here is what I typically say.
+
+**First priority:** Get your emergency fund in place. Three to six months of living expenses in a savings account that is not at DeGiro. Only invest money you will not need for at least three to five years.
+
+**Starting simple:** VWCE on Euronext Amsterdam. One ETF, globally diversified across approximately 3,700 companies in developed and emerging markets. Total ongoing cost 0.22% per year. Accumulating (reinvests dividends, simplifies tax). This is not a particularly exciting recommendation, but it is the one that holds up well over time.
+
+**Adding Netherlands context:** Dutch tax residents benefit from investing through a UCITS ETF domiciled in Ireland or Luxembourg (which most major Vanguard and iShares ETFs are). These structures allow for more efficient dividend handling under Dutch-Irish and Dutch-Luxembourg tax treaties. VWCE is Irish-domiciled. This is not something you need to understand deeply, but it is why I consistently recommend major UCITS ETFs rather than US-listed ETFs (which carry different withholding tax implications under the Dutch-US tax treaty).
+
+**What I would not do in the first year:** Sector ETFs, thematic funds, individual stock picking, leveraged products. Build the foundation first. There is time for complexity later if you want it.
+
+---
+
 *Related reading: [Investing in the Netherlands as an Expat](/guides/finance/investing-netherlands-expats-2026/) | [30% Ruling Guide](/guides/finance/30-percent-ruling-eligibility-guide-2026/) | [Dutch Tax Return Checklist](/guides/finance/dutch-tax-return-checklist-expats-2026/) | [Best Finance Apps for Expats](/guides/finance/best-finance-apps-expats-netherlands-2026/) | [Wise vs Revolut Netherlands](/guides/finance/wise-vs-revolut-netherlands-2026/)*

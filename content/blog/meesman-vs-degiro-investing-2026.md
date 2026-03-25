@@ -268,6 +268,142 @@ One thing both platforms have in common: if you are funding your investment acco
 - [DEGIRO Review for Expats Netherlands 2026](/blog/degiro-review-expats-netherlands-2026/)
 - [Dutch Utilities Explained for Expats 2026](/blog/dutch-utilities-explained-expats-2026/)
 
+## Long-Term Scenarios: How the Numbers Play Out
+
+One of the most useful things you can do before choosing is run through a realistic scenario matching your own situation. Here are two that I see often among expats.
+
+### Scenario 1: The Consistent Monthly Investor (€300/month over 10 years)
+
+Assume you invest €300 per month, a 7% average annual return, and that your portfolio grows to roughly €50,000 by year 10.
+
+**On Meesman:**
+- Management fee: 0.50% × €50,000 average portfolio = ~€250/year
+- No transaction costs
+- Total approximate annual cost: €250
+- 10-year cumulative fees (rough): ~€1,500–€2,000 (grows with portfolio)
+
+**On DEGIRO (IWDA + EMIM, monthly purchases):**
+- Transaction costs: 24 trades × ~€1.50 = ~€36/year
+- ETF TER (0.20% on IWDA): 0.20% × €50,000 = €100/year
+- Connectivity fees: ~€5/year
+- Total approximate annual cost: ~€141
+- 10-year cumulative fees (rough): ~€800–€1,100
+
+At this investment level, DEGIRO is noticeably cheaper by year 5–10. The difference narrows in the early years when the portfolio is small and the Meesman percentage fee is a smaller absolute number.
+
+### Scenario 2: The Lump-Sum Investor (€20,000 starting, no further contributions)
+
+If you have a lump sum to invest and minimal monthly contributions:
+
+**On Meesman:**
+- Annual fee: 0.50% × €20,000 = €100/year
+- No ongoing transaction costs
+
+**On DEGIRO:**
+- Single purchase transaction: ~€1.50
+- ETF TER (0.20%): €40/year
+- Connectivity: €5/year
+- Total: ~€46/year (after the one-time purchase)
+
+For lump-sum investors, DEGIRO's cost advantage is clear and grows over time. Meesman's per-transaction advantage only applies to those making many small monthly purchases where the transaction costs on DEGIRO would otherwise accumulate.
+
+**The takeaway:** If you invest regularly in small amounts (€100–€200/month) and want zero per-trade cost, Meesman's pricing model may match or beat DEGIRO in the first few years. If you invest larger amounts monthly or have a growing portfolio, DEGIRO typically wins on cost.
+
+---
+
+## ESG and Ethical Investing Options
+
+One area where DEGIRO has a significant advantage over Meesman is ESG (Environmental, Social, and Governance) investing.
+
+**Meesman** does not currently offer dedicated ESG or SRI (Socially Responsible Investing) funds. Their four funds track standard market-cap indices, which include oil companies, weapons manufacturers, and companies with mixed sustainability records. If ethical investing matters to you, Meesman's fund range is a limitation.
+
+**DEGIRO** gives you access to a wide range of ESG ETFs:
+- **iShares MSCI World SRI UCITS ETF** — excludes companies involved in controversial weapons, tobacco, civilian firearms, and those failing ESG screenings. TER: 0.20%
+- **Xtrackers MSCI World ESG UCITS ETF** — screens for ESG factors across the MSCI World. TER: 0.20%
+- **Vanguard ESG Developed World All Cap Equity UCITS ETF** — broad ESG screened developed market equities
+- Various sector-specific and thematic ESG ETFs
+
+For expats who want to align their investments with their values, DEGIRO is the more flexible platform. Meesman is working to introduce more sustainability-oriented options, but their current range does not address this need.
+
+---
+
+## Reinvesting Dividends: Accumulating vs Distributing ETFs
+
+This is a detail that matters for long-term investors and is worth understanding when comparing the two platforms.
+
+**Meesman's funds** are accumulating by default — dividends received by the fund are reinvested automatically within the fund structure. You do not receive dividend payments and do not need to reinvest manually. This is tax-efficient because you do not receive taxable dividend income in the traditional sense; the value accrues within the fund and is reflected in Box 3 calculations on the overall fund value.
+
+**On DEGIRO**, you can choose between:
+- **Accumulating ETFs (Acc)**: Dividends automatically reinvested within the fund. The popular IWDA (iShares MSCI World Acc) does exactly this. No manual action needed and no dividend tax event.
+- **Distributing ETFs (Dist)**: Dividends paid out to your cash account. You then need to manually reinvest, and the dividend payment may trigger a Dutch dividend withholding tax refund process.
+
+For passive Dutch investors, I recommend accumulating ETFs on DEGIRO. The IWDA (accumulating) is one of the most popular choices precisely because dividends are automatically compounded and there are no quarterly cash distributions to manage.
+
+**Practical note:** On DEGIRO, dividend distributions from distributing ETFs are subject to dividend withholding tax (typically 15% for US-domiciled companies under the Ireland treaty rate). Accumulating ETFs on Irish-domiciled platforms still experience this at the fund level, but it does not appear as an event in your account — it is already factored into the NAV. This is why most Dutch passive investors choose accumulating ETFs.
+
+---
+
+## Currency Risk and Non-EUR Investments
+
+Both platforms expose you to currency risk when investing in global equities — most world index funds hold US companies in USD, UK companies in GBP, and so on. The ETF pricing currency is usually EUR, but the underlying company values fluctuate with exchange rates.
+
+**Meesman** handles this entirely within the fund. You see only EUR-denominated values.
+
+**On DEGIRO**, all ETFs are priced and traded in their listed currency (typically EUR for Amsterdam-listed ETFs). However, the fund's underlying portfolio still contains foreign-currency securities. Currency risk is not eliminated — it is just not visible as a separate line item.
+
+For most long-term passive investors, currency risk is considered part of the natural diversification benefit of global investing. The EUR has fluctuated significantly against the USD over the past decade; this worked in favour of European holders of US equities during periods of USD strength.
+
+If you specifically want to minimise currency risk and invest in EUR-denominated assets only, neither platform is ideal — you would need to look at European-only equity ETFs or EUR-hedged world equity funds, which are available on DEGIRO but come with slightly higher TERs due to the hedging cost.
+
+---
+
+## Opening Accounts: What the Process Looks Like
+
+### Opening a Meesman Account
+
+1. Go to meesman.nl
+2. Click "Account openen" — the process is in Dutch
+3. Complete the identity verification with a copy of your ID
+4. Link a Dutch bank account via iDEAL (required — this is not optional)
+5. Select your fund or combination of funds
+6. Set up a monthly direct debit (or make one-time purchases)
+7. Account typically active within 2–3 business days
+
+**Note:** Meesman requires a Dutch bank account. If you have not yet opened one, this is your first step. See our [best bank accounts for expats guide](/guides/finance/best-bank-account-expats-netherlands-2026/) for options.
+
+### Opening a DEGIRO Account
+
+1. Go to degiro.eu or download the DEGIRO app
+2. Register with email — the platform is available in English
+3. Complete identity verification (passport or ID scan)
+4. Provide a Dutch address and bank account
+5. IBAN from ING, ABN AMRO, bunq, or other Dutch/EU banks all accepted
+6. Account usually active within 1–2 business days
+
+DEGIRO is available in English throughout the process and the ongoing platform, which is a genuine practical advantage over Meesman.
+
+---
+
+## Regulatory Protections Compared
+
+Both platforms operate under Dutch and EU regulatory frameworks, but the specific protections differ.
+
+**DEGIRO:**
+- Supervised by the Dutch AFM (Autoriteit Financiële Markten) and DNB (De Nederlandsche Bank)
+- Your investments are held in a legal entity separate from DEGIRO (a custodian entity)
+- Under EU investor compensation: up to €20,000 per person in the event of DEGIRO insolvency (this covers the shortfall if client assets cannot be returned — it does not protect against market losses)
+- DEGIRO was acquired by flatexDEGIRO AG in 2020, a German listed company, which provides additional oversight
+
+**Meesman:**
+- Fund assets held by Northern Trust, a global custodian, legally separated from Meesman's own assets
+- Supervised under Dutch AFM regulations
+- If Meesman were to cease operating, fund assets would continue to exist in the Northern Trust custodian structure and could be transferred or liquidated
+- Same €20,000 investor compensation limit applies for the institutional holding structure
+
+In practice, both are well-regulated and the risk of either failing in a way that costs you money (outside market movements) is very low. Neither platform protects against market losses — that is the nature of investing.
+
+---
+
 ## FAQ
 
 **Is Meesman or DEGIRO better for beginners?**

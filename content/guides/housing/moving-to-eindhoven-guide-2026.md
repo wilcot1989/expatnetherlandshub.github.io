@@ -261,6 +261,16 @@ For the full financial picture — not just insurance but banking, salary, and t
 
 For detailed housing search advice, read our [finding housing in the Netherlands guide](/guides/housing/finding-housing-netherlands-expats-2026/).
 
+---
+
+## Setting Up Your Life in Eindhoven: First Steps
+
+**Registration and BSN:** Register at the Stadskantoor at Stadhuisplein 10 within five days of arriving. Book online at eindhoven.nl — appointments fill up. You will receive your BSN at or shortly after registration, and everything else (bank account, health insurance, employer payroll) depends on it.
+
+**Health insurance:** Mandatory from the first day of Dutch residence. All Dutch residents must hold basisverzekering. Catharina Ziekenhuis and Máxima MC are the main hospitals in the Eindhoven area, both with specialist departments. Register with a GP (huisarts) promptly — practices in popular expat areas fill up quickly. The Holland Expat Center South can refer you to English-speaking providers.
+
+**For international money transfers:** If you are receiving a relocation bonus, transferring savings from abroad, or managing finances across currencies, <a href="https://wise.com/invite/ihpc/willemt52" rel="noopener nofollow sponsored" target="_blank">Wise</a> is significantly cheaper than Dutch bank wire transfers for international movements. Many ASML expats use it for managing money between the Netherlands and their home country.
+
 ## Explore More Expat Guides
 
 - **[Complete Guide to Moving to the Netherlands](/guides/legal/complete-guide-moving-to-netherlands-2026/)** — Getting started
@@ -270,6 +280,30 @@ For detailed housing search advice, read our [finding housing in the Netherlands
 - **[DigiD Guide](/guides/legal/digid-guide-expats-2026/)** — Government services access
 - **[Finding Housing in the Netherlands](/guides/housing/finding-housing-netherlands-expats-2026/)** — How to search and secure a rental
 - **[Cost of Living in the Netherlands](/guides/housing/cost-of-living-netherlands-2026/)** — Full budget breakdown by city
+
+---
+
+## Eindhoven for International Families
+
+Eindhoven's expat population is notably family-oriented — driven by ASML, NXP, DAF, and the TU/e faculty who often arrive with partners and children. The city has adapted to this with genuinely good international infrastructure:
+
+**International schools:** The International School Eindhoven (ISE) offers IB curriculum from age 4 through the IB Diploma. The school is located in Eindhoven and well-regarded for its community culture. Apply early — demand consistently exceeds capacity and waitlists operate. For secondary school, ISE and a number of bilingual (TTO) Dutch schools serving the international community are the main options.
+
+**The Expat Centre Zuidoost-Brabant:** Based in Eindhoven, this centre runs orientation sessions, housing workshops, and social events specifically for international professionals and their families. Unlike similar facilities in Amsterdam, the Eindhoven centre serves a region rather than just a city — covering the broader Brainport area. Their practical orientation sessions are genuinely worth attending in your first month.
+
+**Family-friendly neighbourhoods:** Woensel-Noord, Stratum, and the newer residential developments in Meerhoven and Blixembosch are popular with international families for their combination of green space, good cycling infrastructure to school, and large housing stock. Meerhoven in particular — a purpose-built residential district on the former Eindhoven airport grounds — has many international families and good amenities.
+
+**Childcare:** English-speaking daycare (kinderopvang) options in Eindhoven are better than in most Dutch cities outside the Randstad. Kindercentrum de Bengels, Kinderdagverblijf Momo, and several others explicitly cater to international families. The Expat Centre can provide an updated list.
+
+## Eindhoven's Tech Ecosystem: Working in Brainport
+
+For expats coming to work in Eindhoven's tech sector, the Brainport ecosystem is worth understanding as a professional environment:
+
+**High Tech Campus Eindhoven:** Sometimes called "the smartest square kilometre in the world" (a marketing phrase, but with some substance). Around 250 companies — ranging from ASML's satellite offices to startups — operate on the campus in a deliberately collaborative environment. Cafes and public spaces are shared; informal knowledge exchange is built into the architecture. If you are working at or near the campus, the social and professional environment is distinctly international.
+
+**Kennispoort:** Eindhoven's central innovation hub, connecting the municipality, university (TU/e), and companies like ASML, DAF, NXP, and Philips spin-offs. Kennispoort runs networking events, workshops, and startup programmes that are accessible to newly arrived international professionals.
+
+**TU/e campus community:** The TU/e campus hosts a large international postgraduate and research community. The International Student Network Eindhoven (ISNE) and TU/e's International Student Office provide social programming beyond the formal academic environment.
 
 ---
 

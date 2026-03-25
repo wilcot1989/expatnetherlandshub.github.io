@@ -267,6 +267,82 @@ Wise gives you EUR, GBP, USD, and 40+ other currency accounts with real exchange
 
 ---
 
+## Retirement and Long-Term Planning in Each Country
+
+### Netherlands: AOW and Employer Pensions
+
+The Dutch state pension (AOW) is built up through years of social insurance contributions in the Netherlands. Each year between age 15 and 67 spent in the Netherlands as a socially insured person builds 2% of the full AOW entitlement. After 50 years, you receive the full pension.
+
+Employer pensions in the Netherlands are typically mandatory by sector and well-funded. The Dutch pension system is consistently rated among the world's top three by the Mercer CFA Institute Global Pension Index.
+
+For expats who spend 10–20 years in the Netherlands, the combination of AOW accrual and occupational pension makes a meaningful contribution to retirement income. AOW is paid internationally — you can receive Dutch state pension in France or any country.
+
+### France: Retraite de base and Retraite complémentaire
+
+France has a state pension (retraite de base) through the Assurance Retraite, supplemented by mandatory occupational pensions (AGIRC-ARRCO for private sector employees). The French pension system is complex and has been subject to repeated reform debates — the most recent significant reform raised the retirement age to 64 amid significant social unrest in 2023.
+
+Contribution years in France matter: the full French state pension requires a contribution period of 43 years (for those born after 1965). Expats who spend 5–10 years in France and then leave will accrue partial entitlements.
+
+EU pension coordination means years worked in both France and the Netherlands count toward each country's entitlement — you do not lose your French pension years if you later live in the Netherlands, and vice versa.
+
+---
+
+## Specific Sectors: Where Each Country Has an Edge
+
+Rather than speaking in generalities, it is useful to be specific about which professional sectors are better served by each country's labour market.
+
+### Netherlands: Sector Strengths
+
+**Technology:** Amsterdam has a genuine tech cluster centred around Booking.com, TomTom, Adyen, ASML (Eindhoven), Philips, and a growing fintech scene. The city has become a significant European tech hub, particularly post-Brexit as UK-based companies have opened Amsterdam offices.
+
+**Logistics and supply chain:** The Port of Rotterdam (Europe's largest), Schiphol Airport, and the Netherlands' geographic position at the European transport nexus make it one of the world's logistics capitals. DSV, Kuehne+Nagel, DHL, and many other global logistics companies have significant Netherlands presences.
+
+**Semiconductors:** ASML in Eindhoven is one of the world's most strategically important technology companies, producing the lithography machines used to manufacture microchips. The Brainport Eindhoven ecosystem around ASML has become a global cluster for semiconductor and advanced manufacturing.
+
+**International organisations:** The Hague hosts the International Court of Justice, the International Criminal Court, Europol, and numerous other international legal and security organisations. NGO and international development sector employment is concentrated here.
+
+### France: Sector Strengths
+
+**Luxury goods and fashion:** LVMH, Kering, Hermès, L'Oréal — the global luxury goods industry is headquartered in France. For professionals in luxury brand management, retail, or supply chain, Paris offers opportunities that Amsterdam cannot match.
+
+**Aerospace and defence:** Airbus is headquartered in Toulouse (with significant Paris presence). France's aerospace industry employs tens of thousands of engineers and is one of the world's most competitive.
+
+**Food and agriculture:** France's agriculture and food industry is one of Europe's largest. The agri-food technology sector in Brittany, Normandy, and the Loire Valley is world-class and often overlooked by internationally mobile professionals.
+
+**Film and media:** Paris is Europe's largest film and media production centre alongside London. The French audiovisual sector has significant government protection and funding.
+
+**Civil service and international institutions:** UNESCO, OECD, and numerous other international organisations are based in Paris. For professionals in international policy, diplomacy, or development, Paris's concentration of global institutions rivals The Hague.
+
+---
+
+## Social Integration: What the Research and Experience Say
+
+### Integrating in the Netherlands
+
+Research on expat integration in the Netherlands consistently shows a familiar pattern. The Dutch workplace is easy — English is widely spoken, hierarchy is flat, and professional integration happens quickly. Social integration — making genuine Dutch friends outside of work — is harder and takes longer.
+
+The Dutch "gezelligheid" culture involves close circles of friends who have often known each other since school or university. Newcomers are welcome but breaking into established circles requires consistent presence in shared activities over time.
+
+What works:
+- Joining Dutch clubs or associations (sport, hobby, professional) where you meet the same people regularly
+- Learning Dutch — even A2-B1 level opens social doors noticeably
+- Staying for more than 3 years — the social network builds more naturally after 2–3 years as friendships have had time to develop
+- Volunteering — Dutch society has a strong volunteering culture (vrijwilligerswerk) and it connects you with Dutch people who share your interests
+
+What is often a mistake:
+- Staying entirely within an expat bubble, which is comfortable but limits long-term belonging
+- Expecting Dutch people to make the first move socially — they generally wait for you to initiate
+
+### Integrating in France
+
+France has a reputation for being harder to break into socially, and for the language barrier being a genuine limiter to professional and social life. Both reputations are grounded in reality, but the picture is more nuanced.
+
+In Paris, within the EU/international institution or global corporate bubble, English-medium professional and social life is feasible. But it comes with a ceiling — conversations that matter happen in French, the social texture of French professional relationships is richer in French, and French people's social warmth is much more accessible once you can speak their language.
+
+In provincial France — Lyon, Bordeaux, Toulouse, Nantes — integration is slower to start but often more complete once you commit to French language. Smaller French cities have less of an international bubble, which forces more real integration. Expats in smaller French cities with conversational French often report richer integration experiences than those in Paris who stay in the English-language professional orbit.
+
+---
+
 ## How the Netherlands Compares to Other Countries
 
 If you are still in the early stages of deciding where to move and want to compare the Netherlands against more destinations, the comparison guides cover several key routes:

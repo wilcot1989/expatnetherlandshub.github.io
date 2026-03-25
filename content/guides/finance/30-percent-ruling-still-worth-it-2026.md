@@ -270,3 +270,58 @@ If you are negotiating a move to the Netherlands and the ruling is central to yo
 - <a href="https://wise.com/invite/ihpc/willemt52" target="_blank" rel="noopener nofollow sponsored">Wise: International salary management</a>
 - [KPMG Netherlands: Expatriate tax services](https://www.kpmg.nl/en/services/tax/expat-tax.html)
 - [EY Netherlands: 30% ruling updates](https://www.ey.com/en_nl)
+
+---
+
+## What Happens When the Ruling Ends
+
+The end of the 30% ruling — after the full 5-year period — is a significant financial event for most expats, and one that many people are not fully prepared for.
+
+**The income impact:** When the ruling ends, your taxable income increases substantially. At a EUR 80,000 gross salary, the 30% ruling saves approximately EUR 700–900 per month in net income during the 30% phase. When the ruling steps to 20%, the saving reduces to roughly EUR 450–600/month. When it ends entirely, your full salary becomes taxable.
+
+**The Box 3 impact:** If you elected partial non-resident status during the ruling, your foreign Box 3 assets (foreign bank accounts, foreign investments, foreign property) were exempt from Dutch wealth tax. When the ruling ends and you become a full Dutch tax resident, these assets become taxable in Box 3. For expats with significant foreign savings or investments, this can mean a meaningful increase in annual tax.
+
+**Planning the transition:** The ruling end date is predictable. Most expats know their start date and can calculate when the ruling phases down and ends. Use the 12–18 months before expiry to:
+- Review your Box 3 assets and understand what becomes newly taxable
+- Model your after-ruling net income against your expected expenses
+- Consider whether any changes to your employment structure, investment allocation, or housing situation make sense
+- Discuss with your employer whether your salary or package should be adjusted to reflect the end of the ruling
+
+Some employers specifically set salaries during the ruling period assuming the 30% benefit exists, without a guarantee of increase when it ends. Review your employment contract terms around this if you have a long-term position.
+
+**The permanent resident calculation:** Once you are a full Dutch tax resident without the ruling, your effective tax position may be similar to a Dutch national at your income level. For many expats, this is when the Netherlands comparison against other countries becomes more financially even — the ruling advantage is gone, and you are paying the same taxes as your Dutch colleagues.
+
+---
+
+## What the 30% Ruling Actually Means for Your Take-Home Pay
+
+The headline "30% tax-free" is sometimes misunderstood. Here is what it means precisely:
+
+Your employer can designate 30% of your gross salary as an untaxed expense allowance (onbelaste vergoeding) — notionally to compensate for the "extraterritorial costs" of living and working in a foreign country. This 30% is paid to you but does not count as taxable income.
+
+**Example calculation (2026 rates, approximate):**
+
+| | Without 30% ruling | With 30% ruling |
+|---|---|---|
+| Gross salary | €80,000 | €80,000 |
+| Taxable income | €80,000 | €56,000 (70% of gross) |
+| Income tax (approximate) | ~€26,000 | ~€16,000 |
+| Net salary | ~€54,000 | ~€64,000 |
+
+The ruling saves approximately €10,000/year on an €80,000 salary. The saving scales with salary up to the point where the higher marginal rate (49.5%) kicks in — above approximately €75,000, each additional Euro of 30%-exempt income saves 49.5 cents in tax.
+
+**Box 3 partial non-resident status:** During the 30% ruling period, you can choose to be treated as a partial non-resident for Box 3 (savings and investments). This means only Dutch real estate and Dutch company participations are taxed in Box 3 — your foreign savings and investments are excluded. For expats with significant foreign assets, this is highly valuable and is a separate benefit from the 30% income tax reduction.
+
+## When the 30% Ruling Does Not Cover You
+
+Several situations result in 30% ruling ineligibility or loss:
+
+**Changing employers:** The ruling is linked to your employment with a specific employer, not to you personally. If you change jobs, your new employer must apply for a new 30% ruling with the Belastingdienst within 3 months of you starting. If the 3-month window is missed, the ruling cannot be applied retroactively to your new employment.
+
+**Going freelance (ZZP):** The 30% ruling is not available for self-employed persons. If you leave employment for self-employment, the ruling ends. Some expats structure their transition carefully to maximise time under the ruling before switching.
+
+**Salary below the threshold:** The income threshold (€46,660 in 2026, lower for researchers under 30) must be met each year. If your salary drops below the threshold in any year (e.g. due to reduced hours, unpaid leave, or part-time working), the ruling may be suspended.
+
+**Living within 150km of the Dutch border before employment:** If you were living within 150km of the Dutch border in the 16 months before your Dutch employment began, you typically do not qualify. This catches some expats who lived in Belgium or western Germany before moving to the Netherlands.
+
+For the full 30% ruling eligibility check and application process, see our [30% ruling guide](/guides/finance/30-percent-ruling-netherlands-2026/). And if you are in the final year of your ruling and preparing for the transition to full Dutch taxation, use the [salary checker tool](/tools/salary-checker/) to understand what your take-home pay will look like post-ruling, and discuss with your employer whether a salary adjustment is appropriate to partially offset the change. Some employers with established expat compensation policies build this into their standard practice; many do not — it is worth raising the conversation explicitly rather than hoping it will be addressed proactively. The 30% ruling expiry is a known event with a predictable date, which means there is no excuse for either you or your employer to be surprised by it when it arrives.

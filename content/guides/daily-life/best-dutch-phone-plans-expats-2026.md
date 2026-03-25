@@ -212,6 +212,66 @@ And if you are still figuring out which SIM card to buy first versus which plan 
 
 ---
 
+## Data Speed Reality: What You Actually Get
+
+Dutch broadband is among the best in Europe, and mobile data generally reflects this — but it is worth understanding what the advertised speeds actually mean in practice.
+
+**4G LTE speeds in Dutch cities (realistic):** Download 30–80 Mbps, upload 10–30 Mbps. This is more than sufficient for HD video calls, streaming, and normal browsing.
+
+**5G speeds in Dutch city centres (realistic):** Download 150–500 Mbps, upload 50–150 Mbps. The improvement is substantial for large file transfers and is particularly noticeable at busy locations like train stations and stadiums where the network is loaded.
+
+**Rural 4G reality:** In agricultural areas of Drenthe, Zeeland, and parts of Groningen, you may see speeds of 5–20 Mbps even on KPN — sufficient for browsing but video calls can stutter. KPN is meaningfully better here than T-Mobile or Vodafone.
+
+**Honest indoor coverage note:** In older Amsterdam canal houses, Utrecht city-centre buildings, and thick-walled Dutch farmhouses, indoor coverage is sometimes poor regardless of provider. This is a building material issue, not a network problem. WiFi calling (available on all major providers) solves this — your call routes through your home WiFi rather than the mobile network.
+
+---
+
+## Dutch Phone Plans and Your Tax Situation
+
+For ZZP'ers (freelancers) and self-employed expats in the Netherlands, your phone plan may be partly or fully tax-deductible.
+
+**Business-only phone:** If you use a phone exclusively for business, the full cost is deductible as bedrijfskosten (business costs). This includes the monthly subscription, data costs, and the handset if purchased for business use.
+
+**Mixed personal and business use:** The Dutch tax authority (Belastingdienst) takes a pragmatic approach. For a phone used for both personal and business purposes, you can typically deduct a proportion based on actual business use. Many freelancers deduct 75–80% of their phone costs as standard practice, though the technically correct approach is to keep a log of actual business versus personal use.
+
+**Employer reimbursement:** If you are employed, your employer can provide a phone and pay your phone plan tax-free up to the "zakelijk gebruik" (business use) threshold. In practice, many Dutch employers provide company phones or reimburse a portion of personal phone costs as a work benefit.
+
+Speak to your boekhouder (accountant) about the most accurate approach for your specific situation. Our [freelancer ZZP guide](/guides/work/freelancer-zzp-guide-netherlands-2026/) covers the broader picture of business expenses.
+
+---
+
+## Protecting Privacy on Dutch Mobile Networks
+
+Something most new expats do not think about until it becomes a problem: when you use public WiFi at cafes, coworking spaces, or train stations, your internet traffic is potentially visible to others on the same network.
+
+This is relevant for expats who:
+- Work with client data or confidential business information
+- Access banking or government portals (DigiD, Belastingdienst) from public networks
+- Stream content from their home country via Netherlands-based WiFi
+
+A VPN (Virtual Private Network) encrypts your connection and routes it through a secure server, making your traffic unreadable to others on the same network. It also lets you access your home country's streaming services and content.
+
+See my detailed [VPN guide for expats in the Netherlands](/guides/daily-life/best-vpn-netherlands-expats-2026/) for a full comparison of options.
+
+---
+
+## Setting Up Your Phone for Life in the Netherlands: App Checklist
+
+Once you have your Dutch SIM sorted, a few specific app installations make daily life significantly easier:
+
+- **DigiD:** The government authentication app — you will need this for almost all official Dutch services
+- **9292:** Public transport journey planner covering trains, trams, buses, and metro
+- **OV-chipkaart app:** Manage your public transport card and check balance
+- **Buienradar:** Dutch weather app — specifically shows rain in the next 2 hours by the minute (non-negotiable in the Netherlands)
+- **iDEAL:** Not a standalone app but make sure your bank app supports iDEAL payment — the dominant Dutch payment system
+- **Tikkie:** The standard Dutch payment request app (used constantly for splitting bills)
+- **Albert Heijn or Picnic:** Your primary grocery app
+- **WhatsApp:** Everything social happens here
+
+For a comprehensive app guide, see the [best Dutch apps for expats guide](/guides/daily-life/best-dutch-apps-expats-2026/).
+
+---
+
 ## Conclusion
 
 The Dutch mobile market is one of the better ones in Europe for expats. Month-to-month plans are the norm, prices are reasonable, and the major networks all have solid 4G coverage with 5G expanding rapidly. You are not locked in, you are not stuck with a single language, and the budget MVNO market means you can get genuinely good value without sacrificing coverage.

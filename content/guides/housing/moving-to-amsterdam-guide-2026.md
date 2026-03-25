@@ -355,3 +355,21 @@ Amsterdam is an outstanding city for expats who value culture, cycling, and an i
 Start your Amsterdam journey by reading our [Complete Guide to Moving to the Netherlands 2026](/guides/legal/complete-guide-moving-to-netherlands-2026/) for the full relocation roadmap, set up your finances with <a href="https://wise.com/invite/ihpc/willemt52" rel="noopener nofollow sponsored" target="_blank">Wise</a> before you arrive, and use the [housing budget checker](/tools/housing-budget-checker/) to make sure your Amsterdam rent is genuinely sustainable.
 
 Welcome to Amsterdam.
+
+---
+
+## Amsterdam in Winter: What No One Tells You
+
+Most expat content about Amsterdam focuses on summer — the canal boats, the terraces, the bike rides in the sun. The reality of living here year-round is somewhat different, and worth knowing before you commit.
+
+The Netherlands has a maritime climate. Winters are mild by northern European standards (rarely below -5°C), but genuinely grey and wet from November through February. Amsterdam averages around 170 cloudy days per year. The darkness is real — in December, sunrise is around 8:45am and sunset before 4:30pm. This affects people differently: for some it is barely noticeable, for others (particularly those moving from sunny climates) it is harder to adapt to than expected.
+
+**What helps:**
+- Buy good rain gear immediately. A waterproof cycling jacket is not optional — it is infrastructure.
+- Lean into indoor culture. Amsterdam's café and restaurant scene is excellent, and the canal light in December is genuinely beautiful in a subdued way.
+- Keep cycling. Most Dutch people cycle year-round. Stopping because of rain makes you less connected to the city.
+- Get a good bike light. It is legally required and practically necessary by 4pm.
+
+**The upside of winter Amsterdam:** The city is less crowded, rents occasionally have more negotiating room, queues at museums are manageable, and the canal houses look their best reflected in wet cobblestones at dusk. The Anne Frank House is bookable online in winter, which it essentially is not in July.
+
+Summer is wonderful, but many long-term expats come to feel that winter Amsterdam — with its warmly lit cafés, the weekly markets in the rain, the canal skaters if it freezes hard enough — is when the city shows its most genuine character. The trick is to treat the rain as weather rather than an obstacle. Buy the jacket, keep cycling, and let the city come to you rather than waiting for a better day.

@@ -224,3 +224,46 @@ It is absolutely real. Gezelligheid (the quality of cosiness, sociability, toget
 ### How should I respond when a Dutch colleague criticises my work?
 
 Thank them, engage with the substance, and respond with your own honest assessment. "That's fair" or "I see your point, but I think..." are both fine responses. The worst response is defensive silence or vague agreement. Dutch feedback-giving is a form of dialogue, not a verdict.
+
+---
+
+## The Polder Model: Why Consensus Matters in Dutch Society
+
+One concept that helps explain a lot of Dutch behaviour — from workplace meetings to national politics — is the polder model (poldermodel). The term comes from the cooperative water management systems that kept the Netherlands from flooding for centuries: to survive, everyone had to contribute and agree on a shared plan. No single party could afford to be obstructionist.
+
+This instinct for consensus has shaped Dutch institutions deeply. In the workplace, it means decisions are often made through extended consultation rather than top-down decree. Meetings can seem slow or circular to expats used to more hierarchical decision-making. But the Dutch approach produces decisions that stick — because everyone has had input and signed on.
+
+**What this means for you as an expat:**
+
+- Do not confuse slow consensus-building with indecision. The process is deliberate.
+- If you propose something in a meeting, expect questions, challenges, and modifications — this is engagement, not rejection.
+- Once a consensus decision is made, it tends to be durable. Dutch colleagues do not easily revisit agreed positions.
+- If you disagree with a direction, say so clearly during the consultation phase. Raising objections after the consensus is formed is seen as disruptive.
+
+## Dutch Work Culture: A Practical Overview
+
+The directness and egalitarianism that characterise Dutch social life extend directly into the workplace. A few patterns worth knowing:
+
+**Flat hierarchies.** Dutch organisations are generally less hierarchical than equivalent organisations in the UK, US, France, or Asia. Employees at most levels are expected to express views, question decisions, and push back on managers. Calling managers by first name is the norm almost everywhere.
+
+**Work-life balance is taken seriously.** Dutch colleagues typically do not stay late to signal commitment. Leaving at 5pm (or working part-time at 0.8 or 0.6 FTE) is completely normalised. The culture does not reward visible long hours in the way British or American work cultures sometimes do.
+
+**Part-time work.** The Netherlands has one of the highest rates of part-time working in the world, particularly among women. This is a deliberate cultural and policy choice, not a sign of underemployment. If you have caregiving responsibilities or simply want more time outside work, discussing a part-time arrangement is entirely acceptable.
+
+**Meetings and agenda culture.** Dutch professional meetings are usually agenda-driven and efficient. Coming prepared is expected. "Bijpraten" (catching up informally) happens over coffee before the meeting, not during it.
+
+**Vacation use.** Dutch employees typically use their full vacation allocation. Taking all 25 days (the statutory minimum) is normal. Hoarding leave is unusual. You are expected to actually go on holiday.
+
+Understanding these norms makes adapting to Dutch professional life significantly easier. The directness and the collaborative decision-making may feel unfamiliar initially, but they tend to create pleasant working environments once you adjust to the style.
+
+## Dutch Social Etiquette: The Practical Details
+
+Beyond the high-level directness and egalitarianism, a few specific Dutch social customs are worth knowing to avoid common misunderstandings:
+
+**Going Dutch (ieder betaalt voor zich):** The phrase exists for a reason. Dutch social culture around money is notably practical — splitting bills precisely is the norm. In some contexts (especially among friends at restaurants), everyone pays exactly their share rather than rounding up generously or one person covering the table. This is not stinginess; it is a cultural norm around financial equality and not creating social debt. Bringing a bottle of wine to a dinner party is genuinely appreciated; not bringing anything is noticed.
+
+**Birthday celebrations:** Dutch people celebrate their own birthdays by treating their friends, colleagues, and family. Bringing cake to the office on your birthday is standard. You will also be expected to congratulate not just the birthday person but also their family members — congratulating a mother on her son's birthday ("Gefeliciteerd met je zoon!") is genuinely Dutch and not as strange as it sounds.
+
+**Directness in personal matters:** The Dutch can be surprisingly direct about personal topics — weight, relationship status, salary — that would be considered intrusive in British or American culture. This is not malice; it reflects a cultural belief that honest direct communication is respectful. The appropriate response is to answer directly if you are comfortable, or to say clearly "I prefer not to discuss that" — which will be accepted without offence.
+
+**Cycling culture as social code:** The bicycle is not just transport in the Netherlands — it is identity. Cycling etiquette matters: ring your bell to signal, do not walk in the fietspad (bike lane), and do not chain your bike to spots where it obstructs pedestrians. Getting these wrong marks you as a newcomer. Getting them right signals that you respect how the city works.

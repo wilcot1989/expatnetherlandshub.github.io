@@ -120,6 +120,52 @@ Moving to Amstelveen requires a few first steps. Here are the most important one
 
 **Plan your budget** — Use our free [cost of living calculator](/tools/cost-of-living-calculator/) and [housing budget checker](/tools/housing-budget-checker/) to see what you can afford in Amstelveen.
 
+## Expat Community & Social Life
+
+Amstelveen has one of the most organised expat communities in the Netherlands for a town its size. The concentration of Japanese, Korean, and Indian residents created by corporate relocations has resulted in community infrastructure — cultural associations, language schools, sports clubs, religious communities — that you do not normally find at this scale outside the main cities.
+
+The Japan Club of the Netherlands is based in Amstelveen. Korean community organisations are active. Several Indian professional networks meet regularly in the town, driven by the IT and consulting sector. This specificity is unusual and, for expats arriving from those communities, a significant practical and social advantage.
+
+InterNations Amstelveen and the broader Amsterdam-area InterNations network cover more general expat social activities. Several British and American residents' associations have active Amstelveen memberships, connected to the Schiphol and Amsterdam corporate community.
+
+The Amsterdamse Bos — the large forested park on the edge of the town — is available for cycling, running, swimming in summer (the Bosbaan is a rowing course with public swimming access), and walking year-round. It is one of the more underrated recreational assets near Amsterdam and makes Amstelveen's outdoor quality of life considerably better than the suburban character of the Stadshart area might suggest.
+
+## Schools and Families
+
+This is where Amstelveen's international character becomes most tangible. The town has a concentration of international schools proportionally unlike anywhere else in the Netherlands outside Amsterdam itself.
+
+**The Japanese School of the Netherlands** — Provides Japanese-curriculum education for children of Japanese expatriates. Full Japanese curriculum.
+
+**The International School of Amsterdam (ISA)** — Located on the Sportlaan in Amstelveen, ISA is one of the most established IB international schools in the country. Early years through secondary. Fees approximately €18,000–€22,000/year. Waiting lists; register early.
+
+**The British School of Amsterdam** — Located in Amsterdam but a short tram ride away, commonly used by Amstelveen families.
+
+**Seoul Foreign School** — Korean curriculum school in the Amstelveen area.
+
+For families arriving from Japan, Korea, or India, the school provision in Amstelveen is one of the primary reasons they specifically target this municipality. The combination of mother-tongue language education and proximity to Amsterdam's business districts is difficult to match elsewhere in the Netherlands.
+
+For families who plan to stay long-term and want their children to integrate into Dutch society, bilingual and Dutch-medium schools with integration support are available in the municipality.
+
+## Housing Search: Practical Advice
+
+Amstelveen's rental market is competitive. The combination of corporate relocations, proximity to Schiphol, and Amsterdam spillover demand keeps vacancy rates low. Properties at the mid-range price point (€1,300–€1,700 for a two-bedroom) receive multiple applications within 24–48 hours of listing.
+
+Pararius and Funda are the main platforms. Several Amstelveen-specific agencies — ERA Makelaars, Amstel Makelaars — have better market knowledge for the town than the national platforms alone. Corporate relocation agencies active in the Amsterdam-Schiphol corridor frequently have access to pre-market listings for corporate tenants.
+
+The Westwijk and Groenelaan areas are the most practical for families with school-age children at the international schools — cycling or walking distance to ISA. The Stadshart Centrum area is most practical for metro-based commuters to Amsterdam Zuid.
+
+## Settling In: The First Month
+
+1. Confirm housing with landlord permission for municipality registration
+2. Book registration at Gemeente Amstelveen (amstelveen.nl) — the Publieksplein service desk handles international arrivals with English-language capacity
+3. Receive BSN at registration
+4. Open Dutch bank account
+5. Register for health insurance — international arrivals on assignment should confirm whether Dutch state insurance applies or whether their employer's home-country scheme takes precedence
+6. Register with a GP — English-speaking practices available; Japanese-language healthcare capacity also exists in the municipality
+7. Apply for DigiD after BSN
+
+Corporate relocations to Amstelveen are typically handled by the employer's relocation agency, which simplifies most of these steps. Independent arrivals should note that the municipality is genuinely experienced with international residents and the process is more straightforward than in many Dutch municipalities.
+
 ## Related Guides
 
 - [Finding Housing in the Netherlands](/guides/housing/finding-housing-netherlands-expats-2026/)

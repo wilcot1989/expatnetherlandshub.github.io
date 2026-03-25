@@ -254,6 +254,36 @@ If you have experienced what you believe is discriminatory behaviour in a Dutch 
 
 ---
 
+## The Dutch LinkedIn Culture
+
+If your CV is the door, your LinkedIn profile is the building that door opens into. Dutch recruiters use LinkedIn very actively — more so than in many other markets. Before and after seeing your CV, they will look at your LinkedIn profile. Inconsistencies between your CV and LinkedIn create doubt.
+
+**Specific Dutch LinkedIn conventions:**
+- Your LinkedIn headline should be specific: "Senior Financial Controller | FMCG & Retail | Amsterdam" rather than "Finance Professional"
+- The summary section is worth filling out in both Dutch and English if your language level allows it — Dutch summary for Dutch companies, English for international ones
+- Recommendations from Dutch managers or colleagues carry significant weight. If you have worked with Dutch people previously, asking for a LinkedIn recommendation is not pushy — it is professional
+- Posting relevant content (industry articles, thoughtful comments) builds visibility in a relatively small professional market
+- Your profile photo should be the same one as on your CV — consistency matters
+
+**LinkedIn for the Dutch job search specifically:**
+Dutch companies post jobs on LinkedIn heavily. Many Dutch recruiters send InMails directly to candidates rather than waiting for applications. Having an up-to-date, detailed profile significantly increases the chance of being contacted directly. If you are job-hunting, setting your profile to "Open to Work" (visible to recruiters only, not publicly) is the standard signal.
+
+---
+
+## After the CV: What Happens in Dutch Recruitment
+
+Understanding what happens after you submit your application saves frustration.
+
+**Timeline expectations:** Dutch hiring processes are typically 4–8 weeks from first contact to offer, though larger corporations can take longer. Do not expect the urgency of startup hiring in a traditional Dutch corporate environment.
+
+**Stages:** A typical Dutch hiring process involves: CV screening (1–2 weeks), phone or video call with HR or a recruiter, first interview with the hiring manager (often over video), a second interview or case study / assessment, reference check, and offer. Assessment days (with group exercises or role plays) are common for graduate roles.
+
+**Salary negotiation:** The Dutch market is more direct about salaries than some other markets. Job postings increasingly include salary ranges. If not, it is entirely professional to ask "What is the salary range for this role?" early in the process. Do not wait until the offer stage to raise the question.
+
+**Salary statement (salarisstrook):** Some employers request your most recent payslip to verify your current salary. This is a grey area — you are not obliged to provide it, and doing so can anchor negotiations. "My current salary is [EUR amount] and I am looking for [EUR amount range]" is a reasonable alternative to providing the actual document.
+
+---
+
 ## FAQ
 
 **Should I include a photo on my Dutch CV?**

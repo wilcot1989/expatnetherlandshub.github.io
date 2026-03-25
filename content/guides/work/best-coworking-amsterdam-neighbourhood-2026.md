@@ -192,6 +192,132 @@ The community is genuinely mixed — tech, design, media, consultancy — and th
 
 ---
 
+## Day Passes vs Memberships: What Actually Makes Sense for Expats
+
+One of the most common questions I get from expats who are new to the Netherlands is whether to commit to a monthly membership straight away or rely on day passes while getting settled.
+
+My honest answer: day passes for the first one to three months, then reassess.
+
+When you first arrive in Amsterdam, your priorities change quickly. You might think you want a coworking space in Centrum because it is close to your initial accommodation, only to find that you end up working mostly from a neighbourhood you move to later. Committing to a six-month membership in Westergas when you end up living in Oost is a frustrating situation — and most operators do not make it easy to transfer contracts between locations.
+
+### Day Pass Costs by Area (2026)
+
+| Area | Day pass range | Notes |
+|---|---|---|
+| Centrum (WeWork, Spaces) | €40–55 | Premium pricing; canal-house locations |
+| Zuidas/Zuid (TQ, Mindspace) | €35–50 | More corporate, meeting-room focus |
+| Oost (independent spaces) | €15–30 | More variable, often no-frills |
+| West (Westergas area) | €20–35 | Creative campus vibe, flexible |
+| Noord (NDSM, A Lab) | €0–40 | Range from café-based to full hotdesk |
+
+If you are trying spaces before committing, platforms like Coworker.com and Deskpass aggregate availability from multiple Amsterdam spaces and let you book day passes in advance. This is particularly useful for Noord and Oost spaces where walk-in availability is not always current.
+
+### Monthly Membership Value Calculation
+
+For reference: if you use a coworking space 15 days per month, the break-even between day passes and a monthly membership is roughly:
+
+- WeWork Centrum: 15 × €45–55 = €675–825 (vs €350–500/month membership)
+- B.Amsterdam: 15 × €30 = €450 (vs €200+/month membership)
+- NDSM operators: 15 × €20 = €300 (vs €150–280/month membership)
+
+If you work from coworking more than 10–12 days per month, a membership almost always wins on price. If you work there less than 8 days, day passes are typically cheaper once you factor in commitment risk.
+
+---
+
+## The Best Amsterdam Coworking Spaces for Specific Expat Situations
+
+After years working from various Amsterdam spaces, I have developed strong opinions about which space suits which kind of expat. Here is a breakdown by situation.
+
+### Just Arrived in Amsterdam, Need Somewhere Immediately
+
+**Best option: WeWork app or Spaces app**
+
+Both WeWork and Spaces allow you to download their app and book a day pass within minutes — no setup, no paperwork beyond app registration. For your first week or two while you find your feet and register with the municipality, this gives you stable WiFi, meeting rooms if needed, and a professional address option. It is not the cheapest route but it is the most frictionless.
+
+### Working for a Dutch or International Company Remotely
+
+**Best options: A Lab, B.Amsterdam, Mindspace**
+
+If you are employed but working remotely, your employer may cover coworking costs. Check your employment contract — many Dutch and international employers include a remote work allowance (thuiswerkvergoeding) of €50–200/month. This covers or significantly offsets a hot desk membership at mid-range operators like A Lab (approximately €225–350/month) or B.Amsterdam (€200+/month).
+
+The community at both A Lab and B.Amsterdam is strong enough that you will also meet people — which matters if you are new to the country and building a professional network.
+
+### Freelancer or ZZP'er Starting Out
+
+**Best options: NDSM operators, Westergas, Open Worklab (Oost)**
+
+For freelancers in the early stages, the cost calculus matters more. NDSM operators at €150–280/month and Westergas spaces at €180–280/month offer genuine community and adequate infrastructure at prices that are sustainable on a starting ZZP income.
+
+Reminder: coworking membership costs are 100% tax-deductible as kantoorkosten for ZZP'ers in the Netherlands. See the [accounting software guide](/guides/work/best-accounting-software-freelancers-netherlands-2026/) for how to record these correctly.
+
+### Running Regular Client Meetings
+
+**Best options: WeWork Westermarkt, Spaces Vijzelstraat, Mindspace Herengracht**
+
+For expats whose work involves regular client meetings — particularly with Dutch clients or international visitors who fly in — the address and facilities matter. WeWork Westermarkt on the Keizersgracht delivers the full Amsterdam canal-house experience that many international clients expect. Meeting rooms with AV equipment, reception service, and a professional atmosphere are all included.
+
+You do not need to be a full member to book a meeting room at WeWork or Spaces. Both platforms allow you to book individual meeting rooms by the hour through their apps. Rates typically run €30–75 per hour depending on room size and location.
+
+### Developer or Tech Professional
+
+**Best options: TQ (if you qualify), B.Amsterdam, A Lab**
+
+Tech professionals — particularly those in fintech, SaaS, or data — will find TQ at Zuidas the strongest community. The network of 150+ growth-stage companies, regular investor events, and direct proximity to the financial sector makes it the most relevant option if your work intersects with Dutch tech and finance.
+
+For independent developers or those at earlier-stage companies, B.Amsterdam's scale (700+ companies) means you will find peers and potential collaborators. A Lab has a similar creative-tech mix with a stronger media component.
+
+---
+
+## Amsterdam Coworking and Public Transport
+
+Getting to your coworking space reliably matters more than you might think when evaluating options. Amsterdam's public transport is good but has specific patterns worth understanding.
+
+**Centrum locations** (WeWork Westermarkt, Spaces Vijzelstraat, Mindspace Herengracht): Well-served by tram (lines 2, 11, 12, 13, 17) and within walking distance of Centraal Station for intercity trains. Cycling is viable for much of Amsterdam.
+
+**Zuidas/Zuid** (TQ, Mindspace Zuidas): Amsterdam Zuid station serves Zuidas directly. It is on the north-south metro line and multiple intercity train routes. Also served by trams and the Schiphol Airport rail connection — useful if you have meetings at Schiphol or are travelling regularly.
+
+**Amsterdam Oost**: Served by the east metro line from Centraal Station. Multiple tram connections. Cycling from most central Amsterdam neighbourhoods takes 15–20 minutes.
+
+**Amsterdam West** (Westergas, Filmhallen area): Tram lines 1 and 17 connect to the Westerpark area. Cycling is the most practical option for most of Amsterdam West from the centre.
+
+**Amsterdam Noord** (NDSM, A Lab): The free IJ ferry from Centraal Station is the standard route to both NDSM and A Lab. The NDSM ferry takes 12–15 minutes; the Buiksloterweg ferry (for A Lab at Overhoeksplein) takes 5 minutes. This is actually one of the more pleasant commutes in Amsterdam — crossing the IJ on the free ferry with views of the city is a genuine daily pleasure. Noord is also accessible by bike over the Schellingwouderbrug or other bridges, though these routes are longer.
+
+---
+
+## Internet and Infrastructure: What to Check Before Committing
+
+Dutch internet speeds are among the best in Europe, and coworking spaces generally benefit from this. That said, there is real variation between spaces — and this matters if your work involves constant video calls or large file transfers.
+
+**Questions to ask before signing any membership:**
+
+- What is the advertised download and upload speed? (Ask specifically about upload — often neglected.)
+- Is there a dedicated business line, or is the WiFi shared with the building's general internet?
+- Is there a wired ethernet option? For video production or large file work, this matters.
+- What happens during peak hours (11am–2pm)? Visit during this time if you can, rather than on a guided tour.
+- Are there phone booths or closed rooms for calls? Open-plan spaces with poor call infrastructure force you into the corridor.
+
+In my experience, the corporate operators (WeWork, Spaces, Mindspace) are most reliable for speed and have phone booths as standard. Smaller independent spaces in Oost and Noord are more variable — some have excellent infrastructure, others run on residential-grade connections that struggle under load.
+
+---
+
+## Coworking as a Social Entry Point for Expats
+
+Something that the price comparisons do not capture: the social dimension of coworking matters significantly for expats, especially in the first year.
+
+Moving to Amsterdam is exciting and often lonely simultaneously. Dutch social culture is warm but takes time to penetrate — and building a friend group from scratch as an adult is genuinely hard. Coworking spaces where the community is active and the manager makes introductions can accelerate this process considerably.
+
+Spaces I know where the community manager genuinely helps with introductions: B.Amsterdam and A Lab both have reputation for this. The NDSM community is more organic and self-organising, but the density of interesting people creates connections naturally.
+
+Events worth noting:
+- B.Amsterdam regularly hosts startup nights, tech events, and community dinners
+- A Lab hosts talks and pitch events open to the broader Noord community
+- TQ runs regular scale-up focused events at Zuidas
+- Westergas hosts cultural events on the main campus that coworking members typically access
+
+For a broader guide to building a social life in the Netherlands as an expat, see our [expat Facebook groups guide](/guides/integration/best-expat-facebook-groups-netherlands-2026/).
+
+---
+
 ## Price Comparison Summary
 
 | Space | Day pass | Monthly (hot desk) | Character |

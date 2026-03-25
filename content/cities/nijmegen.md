@@ -110,6 +110,56 @@ Moving to Nijmegen requires a few first steps. Here are the most important ones:
 
 **Plan your budget** — Use our free [cost of living calculator](/tools/cost-of-living-calculator/) and [housing budget checker](/tools/housing-budget-checker/) to see what you can afford in Nijmegen.
 
+## Expat Community & Social Life
+
+Nijmegen's expat community is anchored around Radboud University and Radboudumc. The Radboud International Office is the starting point for most newly arrived international staff — they organise orientation events, connect new arrivals with each other, and provide practical information about the city and Dutch bureaucracy.
+
+The city's academic character shapes the social environment in ways that distinguish it from cities with more corporate expat communities. Academic communities tend to be less transient — people arrive for three-to-five year research contracts and often extend. This creates more stability in the expat social scene than you find in, say, Amsterdam's tech sector, where turnover is higher.
+
+Outside the university networks, InterNations Nijmegen has events, and the city has a active social scene in the Centrum and Bottendaal areas. The Doornroosje and Merleyn music venues are well-regarded among Dutch cities of similar size. The Kaaij terrace along the river — with the Waalkade visible from across the Waal — is a good summer gathering point.
+
+The Vierdaagse (four-day walking event in July) is genuinely worth experiencing even if you do not walk it. The city transforms entirely for the week, and the atmosphere during the Vierdaagsfeesten (the accompanying festival) is unlike anything else in the Netherlands. As a new resident, it is an unusually good way to feel the city's identity.
+
+The hills south of the city — the Berg en Dal area — are accessible by bike and offer a completely different character from the flat Dutch landscape. The Ooijpolder east of Nijmegen, with its seasonal flooding and wildlife, is also within cycling range and gives the city a natural richness that Randstad cities cannot match.
+
+## Schools and Families
+
+Nijmegen's international school provision is limited. The International School of Gelderland (ISG), covering the Arnhem-Nijmegen region, serves the international academic and corporate community. Waiting lists apply; register before you arrive.
+
+For families on longer assignments, Dutch-medium schools with integration support are commonly used in the university and Radboudumc communities. Several primary schools in Hengstdal and Bottendaal have experience with non-Dutch speaking children.
+
+Families cite Nijmegen's manageable scale, the riverfront setting, and the genuine outdoor access — the Waal, the Ooijpolder, the Berg en Dal hills — as the qualities that make it work for children. The supply of family housing with outdoor space is good relative to the Randstad, and the rental prices for 3-bedroom properties are substantially lower than in Amsterdam or Utrecht.
+
+## Housing Search: Practical Advice
+
+Nijmegen's rental market is competitive for well-located properties but more accessible than the Randstad. The student population concentrates demand at the lower end of the price range — properties under €800/month are mostly student-designated. For professionals, the €950–€1,300 range covers most of the well-located options in Centrum, Bottendaal, and Hengstdal.
+
+Pararius and Funda are the main platforms. Local agencies — Rotsvast Nijmegen, De Rooy Makelaars — have area-specific market knowledge. The Radboud Housing Office maintains a list of private landlords and can match incoming staff with available properties, which is the most efficient starting point for university arrivals.
+
+The Lent district, on the north bank of the Waal, has newer housing stock and tends to be better value for families than the historic neighbourhoods, though the cycling distance to the university is longer — the Oversteek bridge connects Lent to the city in about 15 minutes by bike.
+
+## Daily Life in Nijmegen
+
+Nijmegen's position on the Waal is a central part of daily life in the city in a way that is unusual among Dutch cities — the river is wide and visible, the Waalkanaal park along the north bank is used consistently year-round, and the Waalkade quayside in the city centre is one of the more pleasant river-front areas in the Netherlands for eating and drinking outdoors in summer.
+
+The Valkhof park, on the hill above the river, is the best urban park in the city — genuinely elevated, with views across the Waal toward Lent, and with the archaeological remains of a Carolingian palace and a Romanesque chapel visible in the grounds. It is the most direct evidence of the city's Roman and medieval history and worth visiting early in your first weeks to understand the city's geography.
+
+The Vierdaagse in July deserves separate mention as a cultural event rather than just a logistical inconvenience. The four-day walk — 30,000 participants walking 40–50 km per day for four days — is accompanied by the Vierdaagsfeesten, a four-day outdoor festival along the Waalkade with live music and street entertainment. The combination transforms the city. For new residents, it provides a concentrated experience of Nijmegen's social character and is worth planning around.
+
+The cycling infrastructure is good in the flat areas and functional on the hills, though the Ooijpolder road between the city and the border area east of Nijmegen is one of the most pleasant cycling routes in Gelderland — flat polder landscape, occasional flooding visible in the fields, and the German border area accessible within 30–40 minutes of easy cycling.
+
+## Settling In: The First Month
+
+1. Confirm housing with registration permission from the landlord
+2. Book registration at Gemeente Nijmegen (nijmegen.nl) — ideally before September if arriving at the start of the academic year, when waiting times lengthen
+3. Receive BSN at registration; Radboud International Office can advise on the process
+4. Open Dutch bank account
+5. Register for health insurance
+6. Register with a GP — University-area practices in Bottendaal and Hengstdal have English-language capacity
+7. Apply for DigiD after BSN
+
+The university's induction programme covers most of the practical settling-in sequence for academic arrivals. The NXP international team provides similar support for NXP employees. Independent arrivals should work through the steps above in sequence — delaying any one of them creates downstream complications.
+
 ## Related Guides
 
 - [Finding Housing in the Netherlands](/guides/housing/finding-housing-netherlands-expats-2026/)

@@ -199,6 +199,67 @@ Let me walk through some common scenarios I hear from expats, and how recognitio
 
 **Dutch embassies** — can sometimes provide guidance on which documents require apostilles and how to obtain them in your home country.
 
+## Costs and Fees: What to Budget
+
+Getting your qualifications recognised in the Netherlands involves real costs that are worth planning for before you start.
+
+**IDW Statement from Nuffic:**
+- Standard service: approximately EUR 100–150
+- Urgent processing: approximately EUR 150–200
+- Appeals or revisions: may incur additional fees
+
+**Certified translations:**
+- Per page of documents: EUR 30–80 depending on the language pair and translator
+- For a full degree package (diploma + transcripts), budget EUR 150–400 in total
+- Some language combinations (less common languages to Dutch or English) cost more
+
+**Apostille:**
+- This varies significantly by country. UK apostille from the FCDO: approximately GBP 30–50 per document
+- US Secretary of State apostille: varies by state, typically USD 10–30 per document
+- Processing times range from same-day to several weeks depending on the country and service level
+
+**BIG registration (healthcare):**
+- Application fee varies by profession and registration path
+- Budget EUR 200–600 for the application itself, plus the cost of language testing (if required) and any supplementary exams
+- Dutch language testing (NT2 at B2 level): approximately EUR 150–200 per exam attempt
+
+**DUO teaching recognition:**
+- Application fees vary; check duo.nl for current rates
+
+In total, an expat going through the full IDW process for a non-EU degree with translations and apostilles should budget EUR 500–800 for the complete process. Healthcare professionals seeking BIG registration should budget EUR 1,000–3,000 including all documentation and testing costs.
+
+---
+
+## Timelines: Planning Your Recognition Process
+
+Here are realistic timelines based on common expat scenarios:
+
+**Software engineer / tech professional from India, US, or Australia (non-regulated job):**
+- IDW from Nuffic: 4–6 weeks standard, 2–3 weeks urgent
+- Translation of documents: 1–3 weeks
+- Apostille: 1–6 weeks depending on country
+- **Total realistic timeline: 8–12 weeks from deciding to start**
+
+**Nurse or doctor from outside the EU (BIG registration):**
+- Document collection and preparation: 2–4 weeks
+- Translation and apostille: 4–8 weeks
+- BIG application submission and assessment: 3–12 months
+- Language testing (if required): additional time for preparation and exam booking
+- **Total realistic timeline: 6–18 months from starting the process**
+
+**Teacher from UK applying to Dutch state school:**
+- DUO application and assessment: 4–12 weeks
+- Additional teaching qualification assessment if needed: varies
+- **Total realistic timeline: 3–6 months**
+
+**MBA graduate from Brazil or Southeast Asia applying for corporate roles:**
+- IDW from Nuffic: 4–6 weeks
+- **Total realistic timeline: 5–8 weeks**
+
+One consistent theme across all categories: start earlier than you think you need to. Waiting until you are in an active job process creates unnecessary pressure.
+
+---
+
 ## Internal Resources
 
 - [MVV Visa and Family Reunification Netherlands](/blog/mvv-visa-family-reunification-netherlands-2026/)

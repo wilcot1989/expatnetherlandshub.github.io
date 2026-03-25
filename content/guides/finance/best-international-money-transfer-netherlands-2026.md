@@ -438,6 +438,57 @@ International transfers themselves are not taxed, but the underlying income or a
 
 ---
 
+## Practical Scenarios: What Expats Actually Transfer
+
+Based on what I see among expats I work with, here are the most common transfer scenarios and the best approach for each.
+
+### Monthly Living Support from Family Abroad
+
+If your parents or a partner send you money from outside Europe regularly, the best approach for the recipient is to receive it into a Wise account. The sender can use Wise directly if available in their country, or use Remitly or OFX depending on their location and amount. Receiving directly into Wise avoids the incoming international wire fee that most Dutch banks charge (typically €5–10 per incoming international transfer).
+
+### Sending a Portion of Dutch Salary Home Monthly
+
+This is one of the most common expat scenarios — working in the Netherlands, supporting family abroad, or maintaining savings in your home currency. Wise's recurring transfer feature is purpose-built for this. Set up a standing transfer for the first of each month. The rate you get will reflect current market rates, and the fee is minimal compared to any bank alternative.
+
+For currencies like Indian Rupee (INR), Philippine Peso (PHP), South African Rand (ZAR), or Brazilian Real (BRL), compare Wise against Remitly for your specific corridor — Remitly is occasionally better for specific emerging market currency routes.
+
+### Buying Property in the Netherlands or Abroad
+
+Property transactions involve the largest transfers most expats will ever make. At €200,000–€500,000+, even a 0.1% difference in exchange rate or fee represents hundreds of euros.
+
+For a Dutch property purchase, the transfer typically goes from your home-country account to a Dutch notary's account in EUR. If you are transferring from a non-EUR account, OFX and a dedicated FX broker (Global Reach, Moneycorp) are worth comparing. The forward contract feature — locking in an exchange rate weeks or months before the transfer — is genuinely valuable when a €10,000 rate swing is possible before your notary appointment.
+
+For the property buying process itself, see the [buying property in the Netherlands guide](/guides/housing/buying-property-netherlands-expats-2026/).
+
+### Repatriating Money When Leaving the Netherlands
+
+When you eventually leave the Netherlands, you may want to transfer a significant sum — Dutch savings, the proceeds of a property sale, pension fund withdrawals. This is typically a one-time large transfer where OFX (for negotiated rates), or Wise (for transparency and speed) are the right tools. Allow extra time: regulatory compliance checks on large transfers (particularly above €50,000) can add a day or two of processing time.
+
+### Supporting an Elderly Parent Abroad
+
+Regular smaller payments to an aging parent in a non-EU country are a common expat scenario. Remitly's mobile money delivery option (where money is delivered directly to a mobile wallet rather than a bank account) is particularly useful for recipients in countries where mobile payments are more common than bank accounts.
+
+---
+
+## Exchange Rate Timing: Does It Matter?
+
+Many expats ask whether they should try to time their transfers for the "best" exchange rate.
+
+The honest answer: for regular monthly transfers, timing matters much less than most people think, and the costs of actively trying to time the market usually outweigh the benefits. Currency markets are driven by macroeconomic forces that are difficult even for professional traders to predict consistently.
+
+**What does work:**
+- Using rate alerts (available on Wise and OFX) to notify you when the rate hits a level you consider favourable
+- Using OFX forward contracts when you have a specific large transfer coming up and want certainty about the amount you will receive
+- Avoiding weekend transfers on platforms that add a weekend markup (primarily Revolut)
+
+**What does not work:**
+- Waiting indefinitely for the "perfect" rate
+- Trying to predict short-term currency movements based on news
+
+The most effective approach for most expats is simply to use the most cost-efficient service consistently (Wise for most scenarios) rather than trying to time the market.
+
+---
+
 ## Final Thoughts
 
 International money transfers do not need to be expensive or complicated. The key insight is simple: avoid traditional bank SWIFT transfers whenever possible. The combination of high fees and poor exchange rates makes them the most expensive option for nearly every scenario.

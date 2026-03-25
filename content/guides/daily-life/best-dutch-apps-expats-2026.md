@@ -304,4 +304,54 @@ This is genuinely not a barrier to using them. The functionality is clear enough
 
 ---
 
+## Additional Apps Worth Having by Category
+
+### Healthcare Apps
+
+**Zorgkaart Nederland:** A patient review platform for Dutch healthcare providers. If you are looking for a new GP (huisarts), specialist, or therapist and want to see genuine patient ratings, this is the place. It covers practically every registered healthcare provider in the Netherlands and the reviews are typically candid.
+
+**Jouw Omgeving (your area) app:** Some municipalities have neighbourhood apps where residents can report issues (a broken streetlight, an abandoned bike), check local news, and connect with municipal services. Amsterdam has its own official app (Amsterdam app); other cities have similar services. Useful for practical neighbourhood matters.
+
+**PGO (Personal Health Environment) apps:** DigiD links to Personal Health Environments where you can view your own medical records as shared by your healthcare providers. MedMij is the Dutch standard for this. The functionality is still developing, but by 2026 several health providers share data through this system.
+
+### Finance and Banking Apps
+
+**Bunq:** If you are using Bunq as your Dutch bank (increasingly popular with expats), their app is one of the best designed in the Netherlands — real-time notifications, sub-accounts, and multi-currency support. The premium subscription includes carbon tracking and tree planting, which the Dutch environmental community has adopted enthusiastically.
+
+**Moneybird app:** For ZZP'ers and freelancers using Moneybird for accounting, the app lets you photograph and submit receipts on the go, create invoices from your phone, and check outstanding payments. The mobile app is functional but less powerful than the desktop version. See the [freelancer accounting guide](/guides/work/best-accounting-software-freelancers-netherlands-2026/) for full context on Dutch accounting software.
+
+**ABN AMRO or ING banking apps:** Both major banks have well-designed apps that handle iDEAL, contactless payments, and the full range of banking functions. ING's app has consistently received strong user ratings in the Netherlands; ABN AMRO's app has better international transfer functionality.
+
+### Cycling Apps
+
+**Komoot:** The best route planning app for longer recreational cycling in the Netherlands. It handles the knooppunten (node) network, suggests routes by difficulty, and works offline. Invaluable for day trips to the Veluwe, Zeeland coast, or bulb fields.
+
+**Strava:** The cycling community uses Strava extensively in the Netherlands. The segment tracking and route replay features are useful for anyone training seriously, and Strava's heatmap shows the most popular cycling routes in any Dutch city — which is genuinely useful for route planning.
+
+**Swapfiets and Lease a Bike apps:** If you use a subscription bike service rather than owning your own (common among expats who do not want the hassle of maintaining or insuring a bike), both Swapfiets and Lease a Bike have apps for managing your subscription and reporting problems.
+
+### Language Learning Apps
+
+If you are working on your Dutch (which I recommend — even basic Dutch dramatically improves your experience of the country), several apps work well alongside the full language courses:
+
+**Babbel:** The most structured app-based Dutch learning available. Focuses on practical conversational Dutch rather than vocabulary games. See the [Dutch language learning guide](/guides/integration/best-dutch-language-courses-2026/) for a fuller comparison.
+
+**Anki (flashcard app):** For building Dutch vocabulary systematically, Anki's spaced repetition flashcard system is highly effective. The Netherlands expat community has shared Dutch vocabulary decks online that you can import for free.
+
+---
+
+## Managing Multiple Accounts Securely
+
+One practical challenge for expats that the Dutch app ecosystem creates: you end up managing a lot of accounts simultaneously. Dutch bank account, possibly home-country bank account, DigiD for government services, tax portals, healthcare portals, rental platforms, and all the social and work apps. Each has its own login.
+
+A few practices that make this manageable:
+
+**Use a password manager.** 1Password and Bitwarden are both widely used in the Netherlands. Many expat employers cover the cost of 1Password as a work tool. Having strong unique passwords for every account, retrievable in one place, is the baseline for managing this complexity.
+
+**Enable two-factor authentication on everything that supports it.** DigiD already requires it (SMS verification). Dutch banks require it by default. For everything else — email, financial apps, housing platforms — enable 2FA.
+
+**Be aware of DigiD phishing.** The Dutch government regularly warns about phishing emails and SMS messages impersonating DigiD. The real DigiD never sends links asking you to confirm your account urgently. When in doubt, go directly to digid.nl in your browser rather than clicking any link.
+
+---
+
 The Dutch app ecosystem is, in my view, a genuine reflection of how the Netherlands works: practical, efficient, with a slight bias toward assuming you know what you are doing. Once you have the core stack set up — DigiD, your bank app, Tikkie, 9292, Buienradar — daily life in the Netherlands becomes considerably less friction. Install them in order, get the authentication sorted in the first two weeks, and you will spend a lot less time confused and a lot more time cycling through the rain at the optimal moment.

@@ -315,6 +315,43 @@ For families with older parents visiting or relocating, note that insurance can 
 
 ---
 
+## Mental Health Care in the Netherlands: What You Actually Get
+
+Mental health care deserves its own section because expats tend to underestimate how complex and slow the Dutch system is — and how important it is to understand this before a mental health need arises.
+
+**The basic package covers:**
+- General Practitioner (huisarts) consultations, including initial mental health discussions and referrals
+- Generalistische Basis GGZ (GBGGZ) for mild-to-moderate conditions — short-term, structured treatment
+- Specialistische GGZ for complex and long-term mental health conditions — covered for up to three years per diagnosis
+
+**What it does not cover:**
+- Open-ended counselling without a specific diagnosis
+- Life coaching or psychotherapy not linked to a classified mental health condition
+- Most expat-focused English-language therapists (many are private and not contracted with Dutch insurers)
+
+**The waiting list reality:** Even with a referral from your huisarts and full basic coverage, waiting times for Dutch GGZ services are often 6–18 months. This is a documented systemic problem in Dutch mental health care.
+
+**Practical options for expats:**
+- Private English-speaking therapists: EUR 80–140/session, typically not covered by basic insurance but partially reimbursed by some supplementary policies
+- Online therapy platforms (Better Help, Qare): vary in Dutch insurance compatibility — check before subscribing
+- Expat-focused practices in Amsterdam and Den Haag: several practices specifically serve the international community in English, with registration through a Dutch insurer possible in some cases
+
+If mental health support is a priority, check whether your chosen basic insurer has contracted English-language GGZ providers in your area. ONVZ and some CZ supplementary policies have better coverage for English-speaking therapy than average.
+
+---
+
+## Prescription Medicines: What to Know
+
+The basic package covers most prescription medicines, but not all, and the coverage for brand-name vs generic versions matters.
+
+**The preferentiebeleid:** For most medicines, the insurer designates a "preferred" brand (usually the cheapest generic available). If your doctor prescribes a brand-name drug and the insurer's preferred version is generic, you may be asked to pay the difference in price unless your doctor certifies the specific brand is medically necessary.
+
+**How to handle this:** If you take ongoing medication, call your insurer's pharmacy helpline (most have one) in the first week and confirm whether your medication is covered and whether there is a preferred generic alternative. This conversation takes 10 minutes and prevents billing surprises at the pharmacy.
+
+**Pharmacies (apotheken):** All Dutch pharmacies are contracted with all major insurers for covered medicines. Your prescription is free or covered at the insurer's rate once you have a referral from your huisarts. Keep receipts for anything you pay out of pocket as these count towards your eigen risico for the year.
+
+---
+
 ## Further Reading on ExpatNetherlandsHub
 
 - [Menzis health insurance review for expats](/blog/menzis-health-insurance-review-expats-2026/)

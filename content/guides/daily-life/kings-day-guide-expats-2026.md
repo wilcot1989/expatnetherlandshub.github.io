@@ -223,6 +223,38 @@ For a broader understanding of Dutch public holidays and how they fit into life 
 
 ---
 
+## King's Day Outside Amsterdam
+
+Amsterdam's King's Day is the most famous, but the experience can actually be better in smaller cities. Here is what to expect if you are not based in Amsterdam.
+
+**Utrecht:** One of the best King's Day destinations outside Amsterdam. The canals fill with boats and the city centre transforms into one long party. Large enough to feel genuinely festive, small enough that you can actually move. The vrijmarkt runs through the entire centre.
+
+**The Hague (Den Haag):** A lively celebration with strong diplomatic and international community participation. Good for expats based in The Hague who want a local experience rather than trekking to Amsterdam. Scheveningen (the coastal area) adds a beach dimension.
+
+**Rotterdam:** Rotterdam does King's Day its own way — more urban, slightly edgier, with music festivals and harbour events alongside the traditional vrijmarkt. Good for expats in Rotterdam who want the day on their own doorstep.
+
+**Delft:** Beautiful small-city King's Day with canal boat parties and a festive atmosphere throughout the historic centre. Quieter than Amsterdam but genuinely charming.
+
+**Eindhoven:** Known for its strong music programme and energetic young-professional crowd, given the large tech sector in the city. Different atmosphere from the traditional canal-city celebrations.
+
+**Smaller towns:** Even the smallest Dutch villages have a King's Day celebration of some kind — a local vrijmarkt, a local band, orange decorations everywhere. If you happen to be in a rural part of the Netherlands on April 27, you will still find the orange spirit.
+
+---
+
+## What Children Love About King's Day
+
+If you are in the Netherlands with children, King's Day is one of the best possible days of the year. From a child's perspective:
+
+**Selling their old toys:** This is genuinely exciting for children. Let them sort through their things, price them up (a few euro cents to a few euros), and manage their own stall. Dutch children take this very seriously. My daughter once earned EUR 17 selling toys and felt like a millionaire.
+
+**Buying other children's toys:** The vrijmarkt is a treasure hunt. Children find toys, books, games, and random objects that they would never be allowed to buy new. The low prices mean they can make independent choices with their own pocket money.
+
+**The games and activities:** Many local King's Day celebrations organise specific children's games — traditional Dutch games like koekhappen (biting hanging cake without hands) and zakkenrace (sack race) are common.
+
+**The orange everything:** Children who have been told to wear orange and then discover that every adult around them is also wearing orange seem to find this quietly delightful. The collective permission to be ridiculous is part of the appeal.
+
+---
+
 ## My Final Thoughts
 
 King's Day is one of those days that makes you remember why you moved to the Netherlands. I have had conversations with strangers on canal bridges, bought an inexplicably perfect lamp from a six-year-old for fifty cents, danced on a cobbled street at 11am on a Tuesday (well, a Monday), and eaten more poffertjes than I care to admit.

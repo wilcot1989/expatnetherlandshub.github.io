@@ -263,6 +263,78 @@ After three years of using eToro and helping other expats think through their in
 
 **The hybrid approach:** Some expats I know use eToro for a small "fun" or experimental portion of their portfolio (5–15%) while keeping their core long-term investments on DEGIRO or through Meesman. This is not irrational — it lets you explore social trading and crypto without betting your retirement on it.
 
+## eToro Fees: A Full Annual Cost Calculation
+
+One thing that frustrates me about eToro reviews is that most just quote the "zero commission" headline and move on. The actual annual cost for a typical expat investor is meaningfully higher than that implies. Let me work through a realistic scenario.
+
+**Scenario: Expat investing EUR 500 per month into a global ETF on eToro**
+
+| Cost item | Calculation | Annual cost |
+|---|---|---|
+| Commission on stock/ETF trades | EUR 0 (zero commission) | EUR 0 |
+| Currency conversion on EUR deposits | 0.5% × EUR 6,000 | EUR 30 |
+| Currency conversion on partial withdrawal (say EUR 1,000 in year 1) | 0.5% | EUR 5 |
+| Spread on buy/sell of ETF | Approximately 0.05–0.1% per round-trip | EUR 6–12 |
+| Inactivity fee | None if logging in regularly | EUR 0 |
+| **Estimated annual cost** | | **EUR 35–47** |
+
+Compare to DeGiro Custody (same EUR 500/month, VWCE on Euronext Amsterdam):
+
+| Cost item | Calculation | Annual cost |
+|---|---|---|
+| Commission | EUR 2 + 0.03% per trade × 12 trades | EUR 27.60 |
+| Currency conversion | None (EUR account) | EUR 0 |
+| Annual custody fee | EUR 2.50 per exchange | EUR 2.50 |
+| **Estimated annual cost** | | **EUR 30.10** |
+
+eToro ends up slightly more expensive in this scenario, primarily due to the currency conversion drag on every deposit. For a passive ETF investor in euros, DeGiro's euro-denominated account is genuinely more efficient. For someone investing in US stocks, eToro's zero commission matters more because DeGiro's US stock commission (EUR 1 + 0.004% USD) is low but not zero.
+
+---
+
+## CopyTrader in Depth: How It Actually Works and When to Use It
+
+I used CopyTrader for about six months, and I have watched clients use it for longer. Here is an honest assessment beyond the headline feature description.
+
+**How CopyTrader technically works:** You choose an investor to copy, specify an amount to allocate (minimum USD 200), and eToro's system mirrors every trade that investor makes in proportion to your allocated amount. If the copied investor puts 5% of their portfolio into Apple, 5% of your copied amount goes into Apple too. If they sell, your position sells too.
+
+**The performance history problem.** eToro shows each trader's historical returns over 1, 2, and 3 years. The visible statistics include risk score, number of copiers, and profit percentage. The challenge: most of the traders who appear on the popular lists performed well during a specific market condition (usually bull markets) and have limited track records through serious downturns.
+
+The 2022 market downturn is the most useful filter. Any trader who has been active on eToro since before 2022 and whose performance you can review through that year gives you a meaningful data point about their risk management. Traders who only have records from 2023 onwards have been operating in a generally recovering market — that record tells you less.
+
+**Risk score:** eToro assigns a risk score from 1 to 10 to each trader. Higher scores indicate higher volatility in their portfolio. I have watched people copy risk-8 and risk-9 traders and get shocked when their allocated capital drops 30% in a few weeks. A risk score of 4–6 is a reasonable range for someone who wants growth without extreme volatility.
+
+**When CopyTrader makes sense:** I have changed my view on this over time. For someone who genuinely has no investment knowledge and wants to start, copying a well-established trader with a 3–5 year track record and a moderate risk score is a reasonable way to enter markets while learning. It is not optimal, but it is better than sitting in cash indefinitely or making impulsive individual stock picks.
+
+**When to stop:** Once you understand what you actually want to own (usually: a globally diversified index ETF), the argument for CopyTrader weakens. You are paying a fee premium (via spread and USD conversion) to mirror someone else's decisions when you could just buy a global ETF directly.
+
+---
+
+## eToro for Crypto: A More Detailed Assessment
+
+eToro's crypto offering is meaningfully different from its stock and ETF offering, and worth treating separately.
+
+**What makes eToro's crypto different:** Most EU-regulated brokers either do not offer crypto, or offer it only as CFDs (speculative contracts with overnight fees and no actual asset ownership). eToro offers actual crypto ownership — when you buy Bitcoin or Ethereum on eToro, you own the underlying asset, not a derivative. You can transfer it to an external wallet via eToro Money Wallet (though there are transfer fees).
+
+**The spread problem.** Crypto spreads on eToro are higher than on dedicated crypto exchanges like Kraken or Bitstamp. For Bitcoin, the eToro spread is typically around 1%. For smaller altcoins, spreads can be 2–4%. This is a meaningful cost if you are trading actively. For a buy-and-hold position, paying 1% once on entry and once on exit (eventual) is manageable.
+
+**Dutch tax on crypto.** In the Netherlands, crypto is treated as an asset under Box 3 wealth tax, in the investment category. The deemed return calculation (approximately 5.88% in 2026) applies to your crypto holdings on 1 January, just like equity investments. You are not taxed on gains realised during the year — only on the value on 1 January. This is actually favourable compared to countries that tax capital gains on crypto realisation.
+
+Since eToro does not auto-report to the Belastingdienst, you need to manually include your eToro crypto balance in Box 3. Convert your USD balance to EUR using the ECB rate on 1 January. This is a manageable process but requires discipline in record-keeping.
+
+**eToro Money Wallet:** The standalone eToro Money app lets you transfer crypto from your eToro account to an external wallet address. Fees apply per transfer and vary by asset. Ethereum transfers typically cost 0.5 ETH equivalent (check current fee schedule on eToro's site). For small crypto positions, withdrawal fees are disproportionate. For larger positions (above EUR 5,000), they are more reasonable.
+
+---
+
+## eToro and the 30% Ruling: What Changes
+
+If you receive the Dutch 30% ruling, your tax position is more favourable than for most Dutch residents. But the ruling does not change how eToro works for Box 3 purposes.
+
+The key ruling interaction: the 30% ruling allows you to opt for partial non-resident status (partieel buitenlandse belastingplicht). If you exercise this option, your foreign assets — including foreign bank accounts, investment accounts abroad, foreign property — can be exempt from Dutch Box 3. However, eToro is Cyprus-regulated but you are using it as a Dutch resident. The classification of eToro holdings as "foreign assets" is not straightforward and I would not rely on the non-resident status exemption for eToro holdings without specific tax advice.
+
+For most 30% ruling holders, eToro holdings are treated the same as DeGiro holdings — Dutch Box 3 applies to the 1 January balance. The 30% ruling reduces your income tax but does not affect Box 3.
+
+---
+
 ## FAQ
 
 **Can expats open an eToro account in the Netherlands?**

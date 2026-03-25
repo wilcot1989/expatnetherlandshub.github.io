@@ -88,6 +88,18 @@ By rail, The Hague Centraal connects to Amsterdam (50 minutes), Rotterdam (25 mi
 
 For a full guide to OV travel, see the [OV-chipkaart guide for expats](/guides/daily-life/ov-chipkaart-guide-expats-2026/).
 
+## Practical Tips for Your First Weeks in The Hague
+
+**Two stations, not one.** The Hague has two main stations: Den Haag Centraal and Den Haag HS (Hollands Spoor). Amsterdam trains use Centraal; some Rotterdam and Leiden services use both. Know which station serves your route before you set up a commuting routine.
+
+**The HTM tram network is comprehensive.** Most of The Hague is accessible by tram, and the tram lines run more frequently than bus services in most other Dutch cities. Line 1 (Delft–Scheveningen) and line 9 (Vrederust–Strandboulevard) cover most expat-relevant destinations.
+
+**Check parking rules carefully if you drive.** The Hague has an extensive paid parking zone system. Different zones have different maximum parking durations and permits. Buying a resident's parking permit (bewonersvergunning) makes sense if you live here and own a car; it requires registration at the municipality and has a waiting list in central areas.
+
+**The International Service Centre at Catsheuvel is not just for diplomatic arrivals.** The ISC handles registration support for a broader range of international organisations than most new arrivals realise. If your employer has any institutional connection to the international organisations cluster, check whether they have an ISC arrangement — it simplifies the registration and first-steps process considerably compared to the standard municipality queue. The ISC also runs practical workshops on Dutch bureaucracy, healthcare, and settling in, which are worth attending even if your registration is handled through a separate channel.
+
+**Scheveningen in winter is underrated.** Most new arrivals visit the beach in summer when it is crowded. The North Sea coast in October through February has a different quality — the light, the wind, the empty stretches of sand. If you want to understand why The Hague residents are attached to their coastal proximity, the winter coast is where that becomes clear.
+
 ## Getting Started in The Hague
 
 Moving to The Hague requires a few first steps. Here are the most important ones:
@@ -101,6 +113,64 @@ Moving to The Hague requires a few first steps. Here are the most important ones
 **Compare banks** — Use the [Bank Account Comparison](/tools/bank-account-chooser/) to find the right Dutch bank for your situation.
 
 **Plan your budget** — Use our free [cost of living calculator](/tools/cost-of-living-calculator/) and [housing budget checker](/tools/housing-budget-checker/) to see what you can afford in The Hague.
+
+## Expat Community & Social Life
+
+The Hague has one of the most structured expat communities in the Netherlands, built around the international organisations that have been here for decades. ACCESS (Assistance Centre for Expats in the Netherlands) is headquartered in The Hague and provides practical support, workshops, and an information helpline specifically for expats settling in the area — it is genuinely useful and run by experienced volunteers who have gone through the process themselves.
+
+The International Club of The Hague has been running since the 1960s and organises social events, cultural trips, and connections for international residents. InterNations The Hague is active with a full calendar of events. The AmeriCom group, British Netherlands Association, and numerous nationality-based clubs reflect the diplomatic community's depth.
+
+One thing I find distinctive about The Hague social scene is that the long-established nature of the expat community creates a level of organisation that newer clusters elsewhere lack. There are clubs and networks for almost every interest, and the international schools create natural parent networks that run independently of the formal organisations.
+
+The beach at Scheveningen is a genuine amenity — accessible year-round, not just in summer. The North Sea coastline from Scheveningen north through Kijkduin and toward Hoek van Holland is reachable by tram or bike, and the dunes between the coast and the city are good cycling and walking territory.
+
+## Schools and Families
+
+The Hague has more international schools per capita than any other Dutch city. The main options:
+
+**The American School of The Hague (ASH)** — Wassenaar, just outside the city. US curriculum, one of the most established international schools in the country. Fees approximately €18,000–€22,000/year.
+
+**The International School of The Hague (ISH)** — Central location, IB curriculum from primary through diploma. Fees similar to ASH.
+
+**Rijnlands Lyceum Wassenaar** — Bilingual Dutch-English school with a strong IB programme. More integrated with the Dutch system, which suits families on longer-term placements.
+
+**Lycée Français Vincent van Gogh** — French system, primarily for French diplomatic families but open to others.
+
+Several of these schools have waiting lists. Register before you arrive.
+
+The city itself is relatively calm compared to Amsterdam, which many families cite as a reason for choosing it. Traffic is manageable, the tram network reduces car dependency, and the residential neighbourhoods around Bezuidenhout and Statenkwartier are genuinely pleasant places to raise children.
+
+## Housing Search: Practical Advice
+
+The Hague's rental market is competitive but less aggressive than Amsterdam. Good properties at €1,200–€1,500 for a one-bedroom receive multiple applications, but you typically have 24–48 hours to decide rather than hours.
+
+The Archipelbuurt and Statenkwartier markets are tight — supply is limited and landlords can be selective. Bezuidenhout and the areas around the Anna Paulowna and Javastraat have better supply at slightly lower prices.
+
+Furnished apartments are common in The Hague given the number of expats on short to medium-term assignments. If your employer is an international organisation, check whether they have a preferred housing service or relocation partner — many of the larger institutions have arrangements that simplify the process.
+
+For longer-term residents, several Dutch-speaking neighbourhoods just outside the international corridors — Loosduinen, Escamp — offer more space at meaningfully lower rents.
+
+## Life in The Hague Beyond Work
+
+The Hague gets described as formal and government-focused, and that is partially true. But it is a city with a lot more texture than that reputation suggests.
+
+The beach at Scheveningen is a genuine year-round asset. On summer evenings, the Scheveningse Boulevard is busy with residents rather than tourists. In winter, the North Sea coast has a specific kind of stark appeal — the dune walks between Scheveningen and Kijkduin are excellent in January when the wind is up and nobody else is out there. The Hague residents use the coast in a way that distinguishes them from residents of inland Dutch cities.
+
+The museum offer is exceptional. The Mauritshuis — small but containing the Girl with a Pearl Earring and Rembrandt's Anatomy Lesson — is one of the better museum experiences in the Netherlands. The Gemeentemuseum (Kunstmuseum) has the world's largest Mondrian collection and a strong contemporary programme. The Panorama Mesdag, a 360-degree panoramic painting from 1881, is genuinely unusual.
+
+The restaurant scene has improved considerably over the past decade and the mix of cuisines reflects the city's international character. The area around the Frederikstraat and the Paleis Promenade has good independent restaurants. The Chinatown on the Wagenstraat — smaller than Amsterdam's but authentic — is worth knowing about if you cook Asian food.
+
+The city's park system is generous. The Westbroekpark, the Scheveningse Bosjes, and the Haagse Bos give the city more green space than its density would suggest. The Zuiderpark in the south is large and underused, which means quiet.
+
+## Settling In: The First Month
+
+1. Confirm housing with a lease that permits municipality registration
+2. Book registration at Gemeente Den Haag (denhaag.nl)
+3. Attend registration and receive BSN — the International Service Centre on Catsheuvel specifically handles arrivals through international organisations
+4. Open a Dutch bank account
+5. Register for health insurance — diplomatic personnel should confirm with their employer whether Dutch state insurance applies or whether organisational coverage takes precedence
+6. Register with an English-speaking GP — several practices in Bezuidenhout and Statenkwartier cater specifically to international patients
+7. Apply for DigiD after BSN is in hand
 
 ## Related Guides
 

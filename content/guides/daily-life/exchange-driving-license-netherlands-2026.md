@@ -291,4 +291,39 @@ Good luck — and enjoy the roads (when they are not clogged with cycling lanes,
 
 ---
 
+## Costs to Budget For
+
+Exchanging your driving licence in the Netherlands is not expensive — but the costs add up when you include everything.
+
+**If your country is on the exchange list:**
+- Municipality (gemeente) application fee: approximately EUR 40–55
+- Passport-style photo: EUR 5–10 at a photo booth
+- Certified translation (if your licence is not in a Roman alphabet or is in a less common language): EUR 50–100
+- Total: approximately EUR 50–150
+
+**If you need to take the CBR theory exam:**
+- CBR theory exam registration: approximately EUR 40
+- Theory exam preparation course: EUR 50–200 (optional but recommended)
+- Total for theory: EUR 90–240
+
+**If you need to take the CBR practical exam:**
+- CBR practical exam: approximately EUR 130
+- Driving lessons with a CBR-registered instructor: EUR 50–70 per hour
+- Minimum lessons for an experienced driver unfamiliar with Dutch rules: 10–20 hours (EUR 500–1,400)
+- Total for practical: EUR 630–1,530+
+
+**If you fail the practical exam:** Add another EUR 130 per re-sit, plus the cost of additional lessons. The Dutch practical exam has a high failure rate (~55% for first attempts). Budget for at least one possible re-sit.
+
+---
+
+## What Your Dutch Licence Looks Like
+
+Dutch driving licences are issued as a credit-card-sized document (rijbewijs). They show your name and date of birth, the categories you are licensed for (B = car, A = motorcycle), the expiry date (typically 10 years for category B), and a photograph.
+
+The licence is produced by the RDW and sent by post from the gemeente, taking approximately 2–4 weeks. During this period, the gemeente provides a temporary declaration (rijbewijsverklaring) that you must carry when driving. This is a printed document — keep it in your wallet or glovebox. Driving without it while your permanent licence is in production is technically an offence.
+
+When your Dutch licence expires after 10 years, you renew at your gemeente with a new photo and the renewal fee. The test is not required again for a standard renewal. If you lose your Dutch licence, apply for a replacement at your gemeente (approximately EUR 30–40), and file a police report first if it was stolen.
+
+---
+
 *Sarah van den Berg is an expat coach and relocation specialist. Half Dutch, half British, living in the Netherlands for over 10 years.*

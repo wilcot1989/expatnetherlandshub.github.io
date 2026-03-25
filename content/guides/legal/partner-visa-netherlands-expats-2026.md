@@ -291,3 +291,27 @@ Bringing your partner to the Netherlands is procedurally demanding but very mana
 Start early. The IND's 90-day statutory processing time does not begin until your application is complete. Every missing document pauses the clock. Build in time for the integration exam if required, and budget for certified translations and apostilles.
 
 Once your partner is here, the practical priorities are BSN registration, health insurance, and the housing situation. The [highly skilled migrant visa page](/guides/legal/highly-skilled-migrant-visa-netherlands-2026/) is useful background if you are still sorting out your own immigration status alongside the family reunification application.
+
+---
+
+## After Approval: Your Partner's First Month in the Netherlands
+
+Once your partner's permit is approved and they arrive, here is the administrative sequence:
+
+**Within 3 days of arrival:** If your partner entered on an MVV (machtiging tot voorlopig verblijf, the pre-arrival visa), they must report to the IND within 3 business days to collect the actual residence permit sticker or document. Missing this deadline creates complications.
+
+**Gemeente registration:** Your partner registers at the gemeente (BRP registration) at your shared address. They need their passport, residence permit, and evidence of address (your rental contract or a verklaring from the owner). Your partner receives their BSN at registration or within a few days.
+
+**Health insurance:** Your partner must register for Dutch zorgverzekering within 4 months of BRP registration. If they are not employed, they arrange their own policy. If they are employed, their employer may handle this. The monthly premium is approximately €130–€160. Check whether they qualify for zorgtoeslag (health insurance allowance) based on your combined household income — see the [toeslagen guide](/guides/finance/zorgtoeslag-huurtoeslag-expats-2026/).
+
+**DigiD:** Apply as soon as the BSN is issued. Two-week wait for the activation letter. Your partner needs DigiD for almost all Dutch government digital services.
+
+**Bank account:** With BSN and passport, your partner can open a Dutch bank account. If they are waiting for employment to start, Bunq or Wise work as immediate digital options.
+
+**Work rights:** A partner permit issued for family reunification typically includes the right to work (arbeid is vrij toegestaan). Check the permit document — this should be explicitly stated. If it is not, contact the IND for clarification before your partner accepts employment.
+
+## The Integration Obligation for Partners
+
+If your partner is non-EU/EEA and not exempt, they may be subject to the inburgeringsplicht (integration obligation) — the requirement to pass the inburgeringsexamen within 3 years. Exemptions apply to: highly educated persons who have passed an equivalent Dutch language test, persons over 65, and certain other categories.
+
+The inburgering obligation is the partner's responsibility — your employer sponsorship does not transfer the obligation to you. Your partner should check their obligation status with the gemeente after arriving. The [inburgeringsexamen guide](/guides/integration/inburgeringsexamen-preparation-guide-2026/) covers the full process, including available learning routes and how to claim the lening (loan) for course costs.

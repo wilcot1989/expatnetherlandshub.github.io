@@ -262,6 +262,22 @@ For most expats, the practical answer is: get a supplementary insurance package 
 
 ---
 
+## Comparing Your Home Country's Physiotherapy System to the Netherlands
+
+Many expats are surprised — pleasantly or otherwise — by how Dutch physiotherapy differs from their home country.
+
+**From the UK (NHS):** In the UK, you typically need a GP referral, then wait weeks or months for an NHS physiotherapy appointment. In the Netherlands, you walk in the same day (direct access), and your first 9–18 sessions are covered by supplementary insurance. The Dutch system is faster and more accessible, though you pay supplementary insurance for it. The quality of treatment is broadly comparable.
+
+**From the US:** American physiotherapy (physical therapy) often involves a doctor's referral, insurance pre-authorisation, and high copays. The Dutch system is much simpler — no pre-authorisation, no referral for routine cases, and predictable costs. If you are coming from a US system, you may be pleasantly surprised by the directness of the Dutch approach.
+
+**From Germany or Austria:** The German Krankenkasse system is somewhat similar to the Dutch model, but Germany typically requires a GP referral (Überweisung) for physiotherapy. The Dutch direct access system is more convenient, though the coverage model is comparable.
+
+**From Australia:** Australian physiotherapy under Medicare is partially rebated but still involves significant out-of-pocket costs per session. The Dutch supplementary insurance model, which fully covers a set number of sessions, is often more generous in practice for regular users.
+
+One universal comment from expats: Dutch physiotherapists are genuinely good at what they do. The combination of high standards of training (Dutch HBO physiotherapy programmes are rigorous), the direct access culture (meaning therapists see patients early rather than late in their condition's progression), and the exercise-focused approach produces consistently good outcomes.
+
+---
+
 ## Frequently Asked Questions
 
 **Do I need a referral for physiotherapy in the Netherlands?**

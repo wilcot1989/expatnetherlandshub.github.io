@@ -117,6 +117,44 @@ Moving to Delft requires a few first steps. Here are the most important ones:
 
 **Plan your budget** — Use our free [cost of living calculator](/tools/cost-of-living-calculator/) and [housing budget checker](/tools/housing-budget-checker/) to see what you can afford in Delft.
 
+## Expat Community & Social Life
+
+Delft's expat community is primarily academic and tech-oriented, and it has a specific character that reflects its origins. TU Delft recruits internationally on a significant scale, and the resulting expat population skews toward engineers, researchers, and their families. The community is well-connected internally — the shared professional context makes for an easier entry point than in cities where the international population is more scattered across sectors.
+
+The TU Delft International Office organises settling-in support, including regular induction events for new staff and their families. The Graduate School organises events for PhD candidates and postdocs. YES!Delft, the incubator on campus, has an active startup community with regular events and a high proportion of international founders — worth connecting with if you are arriving for or considering an entrepreneurial path.
+
+InterNations Delft is smaller than The Hague or Rotterdam but has regular events. Many Delft residents with social interests in a larger community travel the 15 minutes to The Hague for events — the proximity makes this practical.
+
+The city's historic centre is better for daily social life than Delft's modest size might suggest. The terraces around the Markt and along the Beestenmarkt canal are good in summer. The Royal Delft pottery experience and the Vermeer Centre draw visitors, but residents largely ignore the tourist infrastructure and use the city's genuinely good independent restaurant and café scene instead.
+
+## Schools and Families
+
+Delft does not have a major international school. The American School of The Hague (ASH) and the International School of The Hague (ISH) are the most commonly used options for expat families with secondary-age children — 15 minutes away by train. At primary level, the Haagsche Schoolvereeniging in The Hague and several other bilingual schools are within commuting range.
+
+For families planning a stay of more than two or three years, several Delft primary schools — particularly those near the TU Delft campus — have developed support for non-Dutch-speaking children. This route integrates children into Dutch society faster and is lower cost than international school fees.
+
+Delft is genuinely pleasant for families. The city is small and safe — children cycle independently at younger ages than in larger cities. The Delftse Hout recreational area on the eastern edge of the city offers good outdoor space. Property prices and rents for family-sized accommodation are meaningfully lower than in Amsterdam or even Rotterdam.
+
+## Housing Search: Practical Advice
+
+Delft's rental market is competitive at the lower end of the price range, particularly for properties in the Binnenstad and near the TU Delft campus. DUWO — TU Delft's student housing service — provides housing for students and some early-career researchers; check eligibility if you are arriving as a postdoc or junior research staff.
+
+For private rentals, Pararius and Funda are the main platforms. Local agencies including Rotsvast Delft and ERA Delft have market knowledge specific to the area. Properties in the Binnenstad at under €1,200/month receive multiple applications quickly. Voorhof and Tanthof are more accessible and the value per square metre is noticeably better.
+
+One consideration specific to Delft: many Binnenstad properties are in old buildings with steep narrow staircases and poor energy efficiency. A top-floor apartment in a canal house can be beautiful and cold in winter, and a challenge with a bicycle, shopping, or young children. Energy labels and floor level are worth checking carefully.
+
+## Settling In: The First Month
+
+1. Finalise housing with confirmed landlord permission to register at the address
+2. Book registration at Gemeente Delft, Stadskantoor on Phoenixstraat (via gemeente.delft.nl — search for Eerste Inschrijving BRP)
+3. Attend appointment (takes about 20 minutes, English spoken), receive BSN on the spot or by letter within a few days
+4. Open Dutch bank account using BSN
+5. Register for health insurance immediately
+6. Register with a GP — Zorgkaart Nederland lists Delft practices with availability and ratings
+7. Apply for DigiD online after receiving BSN
+
+If you are arriving through TU Delft, the HR and International Office will have guided you through much of this before arrival. The most common gap in the pre-arrival process is GP registration — do not delay this step once you arrive.
+
 ## Related Guides
 
 - [Moving to Delft: Complete Guide 2026](/guides/housing/moving-to-delft-guide-2026/) — detailed guide covering housing search, daily life, pros and cons

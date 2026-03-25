@@ -287,3 +287,29 @@ If your situation involves the 30% ruling, a partner who also works, or you are 
 ---
 
 *Information in this article is based on Belastingdienst guidance for 2026. Income thresholds and rent ceilings are adjusted annually and should be verified at [belastingdienst.nl](https://www.belastingdienst.nl) before applying.*
+
+---
+
+## The First Month: What I Wish Someone Had Told Me
+
+When I moved to the Netherlands, toeslagen were not on my radar at all. I was focused on finding a flat, setting up a bank account, and surviving the first week on a borrowed bike without getting hit by a tram. Toeslagen were something I discovered nine months in, when a Dutch colleague mentioned the zorgtoeslag almost offhand.
+
+That conversation was worth about EUR 1,100 to me — the amount I could retroactively claim for the months I had missed. I still feel slightly annoyed about those nine months.
+
+The system does not announce itself. There is no welcome letter from the government saying "by the way, you may now be entitled to monthly payments." You have to know it exists, know you qualify, and proactively apply. This is not intuitive for people moving from countries with automatic benefit systems.
+
+### What to Do in Your First Week
+
+1. Register at the gemeente and get your BSN — this takes 1-3 weeks to arrive by post after you register.
+2. Open a Dutch bank account — you need a BSN for most accounts, so this follows BSN registration.
+3. Take out Dutch basisverzekering — required for zorgtoeslag eligibility. Compare on Independer and choose based on premium and eigen risico.
+4. Apply for DigiD if you haven't already — required for Mijn Toeslagen access.
+5. Once DigiD is active and you have your BSN, log in to mijn.toeslagen.nl and apply for whatever you qualify for.
+
+Total time for step 5: about 20-30 minutes. Total potential annual value: EUR 1,000-3,000+ depending on your situation. Few tasks in your first month have a better time-to-money ratio.
+
+### A Note on Household Registration
+
+One thing that affects toeslagen more than people realise is your household composition as registered in the BRP. If you share a house with friends or housemates who are also registered at the address, they are generally not treated as toeslagpartners — only people who are your registered partner, or who have a fiscal link to you, count.
+
+However, if a romantic partner moves in and registers at your address, they become your toeslagpartner immediately, and their income counts toward your combined toetsingsinkomen. This can push you over the income threshold for certain toeslagen. Update your application in Mijn Toeslagen the moment someone registers at your address and you will avoid a large repayment demand at year-end.

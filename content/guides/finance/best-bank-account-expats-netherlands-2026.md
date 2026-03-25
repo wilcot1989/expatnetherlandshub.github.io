@@ -335,6 +335,72 @@ If you shop online frequently in the Netherlands, having a bank account with iDE
 
 ---
 
+## Dutch Banking Practicalities: Things Nobody Tells You
+
+After a decade helping expats navigate Dutch banking, here are the things that repeatedly catch people out.
+
+### The iDEAL Reality
+
+iDEAL is not just an online payment option — it is infrastructure. Dutch government portals (Belastingdienst, DUO, CAK) use iDEAL for payments. Municipal registrations, health insurance portals, and utility companies use iDEAL. If your primary Dutch banking option does not fully support iDEAL, you will face friction constantly.
+
+Banks with full iDEAL support: ING, ABN AMRO, Rabobank, Bunq, SNS, Knab.
+Banks with limited or no iDEAL: N26, Revolut, Wise (iDEAL sometimes works via direct debit but not natively).
+
+This is the primary reason I recommend having a traditional Dutch bank or Bunq alongside Wise, rather than relying on Wise alone.
+
+### Dutch Direct Debits (Automatische Incasso)
+
+Most Dutch service providers — landlords, insurance companies, utilities, subscriptions — collect payment via automatische incasso (direct debit). They debit your account on a fixed date each month. This is convenient but requires a bank account that accepts Dutch direct debit instructions.
+
+N26 and Revolut occasionally have issues with Dutch direct debits. If a landlord or insurance company cannot set up an automatische incasso from your account, this creates practical headaches. ING, ABN AMRO, Rabobank, and Bunq all handle Dutch direct debits without issues.
+
+### IBAN Discrimination Is Illegal But Still Happens
+
+EU regulation prohibits IBAN discrimination — refusing to accept a valid EU IBAN from another EU country. In theory, a Dutch employer or landlord cannot legally require a Dutch IBAN when any EU IBAN should work. In practice, some older HR systems, small landlords, and Dutch government departments still default to requiring NL IBANs.
+
+If you encounter this with a Wise, N26, or Revolut account, you have the legal right to insist. The European Banking Authority has been clear on this. However, having a Dutch IBAN from a recognised bank (ING, ABN AMRO, Bunq) eliminates this friction entirely.
+
+### The Mortgage Planning Argument for Traditional Banks
+
+If you plan to stay in the Netherlands for several years and want to buy property, starting your banking relationship with ING or ABN AMRO early matters. Dutch mortgage providers look at your banking history when assessing applications. A long history with a traditional Dutch bank — regular salary deposits, stable direct debits, savings behaviour — strengthens your mortgage application.
+
+Bunq, despite being Dutch, has less mortgage product infrastructure. Wise and N26 have none. If buying Dutch property is on your horizon within five years, open a traditional bank account early, even if you use it only for salary receipt and direct debits initially.
+
+---
+
+## Banking Costs Over Time: A Real Comparison
+
+A common question I get: "Does it really make that much difference which bank I choose?"
+
+Here is the real cost comparison for a typical expat over one year, using conservative assumptions (2 international transfers per month at €500, monthly account fee, standard ATM usage):
+
+| Banking setup | Monthly account fee | International transfer cost (2 × €500/month) | Total annual cost |
+|---|---|---|---|
+| Traditional bank only (ING) | €2.45 | ~€50–100 (bank FX markup) | ~€640–1,200+ |
+| Wise + ING | €2.45 + €0 (Wise free) | ~€7–15 (Wise mid-market) | ~€114–180 |
+| Bunq Easy Money | €8.99 | ~€7–15 (via Wise integration) | ~€196–287 |
+| N26 free + Wise | €0 + €0 | ~€7–15 | ~€84–180 |
+
+The savings from using Wise for international transfers rather than traditional bank SWIFT transfers are substantial. For someone sending €1,000/month abroad over a year, the difference between traditional bank and Wise can easily exceed €500.
+
+---
+
+## For Freelancers (ZZP'ers): Business Banking Considerations
+
+If you are registered as a ZZP'er (eenmanszaak), Dutch tax rules technically do not require a separate business bank account — you can legally run business finances through a personal account. However, having a separate business account has practical advantages:
+
+**Accounting clarity:** Keeping business and personal finances separate makes your boekhouding (accounting) much cleaner and reduces errors. Your accountant will thank you.
+
+**Professional credibility:** Invoices showing a business account IBAN look more professional to Dutch clients.
+
+**Tax preparation:** The Belastingdienst may request bank statements during an audit. A clean, business-only account makes this straightforward.
+
+**Options for ZZP business accounts:** Bunq offers a business account on their Easy Business plan. ING, ABN AMRO, and Rabobank all have business current accounts with slightly higher fees than personal accounts (typically €10–25/month). Knab has a well-regarded low-cost business account popular with freelancers.
+
+See the [freelancer ZZP guide](/guides/work/freelancer-zzp-guide-netherlands-2026/) for the broader context of Dutch self-employment finances.
+
+---
+
 ## Related Guides
 
 - [Complete Guide to Moving to the Netherlands in 2026](/guides/legal/complete-guide-moving-to-netherlands-2026/) -- your full relocation checklist

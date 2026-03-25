@@ -94,6 +94,16 @@ Schiphol Airport is approximately 20 minutes by train, making Leiden one of the 
 
 For a full guide to OV travel in the Netherlands, see the [OV-chipkaart guide for expats](/guides/daily-life/ov-chipkaart-guide-expats-2026/).
 
+## Practical Tips for Your First Weeks in Leiden
+
+**Leiden Centraal is smaller than it appears on the rail map.** The station handles a large volume of trains given the city's size — Amsterdam and The Hague services run every 15 minutes — but the facilities in the station itself are modest. The main service hub is a short walk outside. Do not assume that a city this well-connected by rail has a large station infrastructure.
+
+**The Hortus Botanicus is worth a spring visit.** The oldest botanical garden in the Netherlands, founded 1590, is at its best in April and May. Annual membership is inexpensive and gives access throughout the year, which makes it a useful regular destination for those who live here.
+
+**Parking in the Centrum is genuinely difficult.** Street parking is metered and limited. If you have a car, a resident's permit (bewonersvergunning) for a specific zone is available through the municipality, but some central zones have long waiting lists. Parking outside the ring and cycling or walking in is the practical answer for most central destinations.
+
+**The Bio Science Park runs its own shuttle service.** Several companies at the park operate internal shuttle services for staff. If you work there and live centrally, check with your employer whether this covers your commute before you purchase a monthly public transport subscription or a cycling setup.
+
 ## Getting Started in Leiden
 
 Moving to Leiden requires a few first steps. Here are the most important ones:
@@ -105,6 +115,58 @@ Moving to Leiden requires a few first steps. Here are the most important ones:
 **Consider expat insurance** — If you're still settling in or working remotely, [SafetyWing](https://safetywing.com/nomad-insurance/?referenceID=26482728&utm_source=26482728&utm_medium=Ambassador) provides affordable global coverage from $45/month. <a href="https://safetywing.com/nomad-insurance/?referenceID=26482728&utm_source=26482728&utm_medium=Ambassador" target="_blank" rel="noopener nofollow sponsored" class="cta-affiliate">Get SafetyWing coverage →</a>
 
 **Plan your budget** — Use our free [cost of living calculator](/tools/cost-of-living-calculator/) and [housing budget checker](/tools/housing-budget-checker/) to see what you can afford in Leiden.
+
+## Expat Community & Social Life
+
+Leiden's expat community is small and concentrated. The university and LUMC create the core of it — researchers, academics, and clinical staff from dozens of countries. The Leiden University International Student and Staff Community is active, though the student-focused events are not always the right fit for working professionals.
+
+The university's International Office organises settling-in events for new staff and their families. The Bio Science Park community has its own social infrastructure — informal lunches, company-hosted events, and an active LinkedIn network among the research and biotech community are the primary connection points for professionals in that sector.
+
+For a city this size, Leiden has a surprisingly active cultural programme. The Lakenhal museum (city history and art) was recently renovated and is excellent. The Botanical Garden (Hortus Botanicus), founded in 1590, is one of the oldest in the world and makes for a genuinely pleasant afternoon. The Thursday and Saturday outdoor market on the Nieuwe Rijn is popular with residents.
+
+Leiden's café culture is good. The area around the Beestenmarkt is the main concentration of bars and restaurants, and the Breestraat and surrounding side streets have a range of places reflecting the student-and-academic character of the city. Dining out costs are in line with The Hague — lower than Amsterdam.
+
+## Schools and Families
+
+Leiden does not have a large international school. The International School in The Hague (ISH) is 15 minutes away by train and is the practical option for most expat families with secondary-age children. At primary level, several Leiden schools have developed support for non-Dutch speaking children, particularly in the areas around the university and Bio Science Park.
+
+Families in Leiden tend to base their children in Dutch-medium schools with integration support and use the proximity to The Hague for secondary-level international schooling if needed. This arrangement works well for families on longer placements where integration into Dutch society is a goal.
+
+Leiden itself is well-suited to families with young children. The city is compact, very safe, and the canal areas and Hortus Botanicus provide good weekend activities. The Meerpolder and Stevenshof parks are accessible and used by families year-round.
+
+## Housing Search: Practical Advice
+
+Leiden's rental market is tighter than many expats expect for a city of its size. The combination of university demand, LUMC proximity, and the excellent Schiphol rail connection creates persistent demand at the lower and mid-range price points.
+
+Pararius and Funda are the main platforms. The university's housing office maintains a list of private landlords willing to rent to incoming academic staff — contact them well before your arrival date. Properties in the Professorenwijk and near the Bio Science Park are the most consistently sought after by professionals and tend to receive multiple applications quickly.
+
+Furnished apartments are available but limited in supply compared to Amsterdam or The Hague. If you need a furnished short-term option on arrival, Leiden has a smaller selection — worth planning for in advance.
+
+The Stevenshof and Merenwijk areas offer the best value for space. They are less scenic than the historic centre but well-maintained and the cycling access to LUMC and the Bio Science Park is straightforward.
+
+## Daily Life in Leiden
+
+Leiden's daily life works well for people who value quality over scale. The city is small enough to know well within a few months, and the canal network gives it a charm that is comparable to Amsterdam without Amsterdam's tourist pressure or costs.
+
+The Thursday market (Marktplaats) is the main outdoor market, running along the Nieuwe Rijn canal in the city centre. The Saturday market adds a wider food and general goods component. Both are popular with residents and genuinely useful for fresh produce.
+
+The cafe and restaurant scene around the Beestenmarkt square is where most social life in the evenings concentrates. It is a small area but the density of good places to eat and drink makes up for the lack of the variety you would find in a larger city.
+
+The museum offer is genuinely strong relative to Leiden's size. The Rijksmuseum van Oudheden (national antiquities museum), Museum De Lakenhal (city history and Dutch masters), and the Naturalis Biodiversity Centre (large-scale natural history museum, recently rebuilt) are all of the calibre you would expect from a much larger city. The Hortus Botanicus, founded in 1590, is the oldest botanical garden in the Netherlands and worth visiting in spring and summer.
+
+The cycling connection to The Hague and to Schiphol Airport means that Leiden functions as a hub for accessing a wider range of amenities. Many Leiden residents go to The Hague for larger shopping or the beach at Scheveningen, and the 15-minute train journey makes this a simple regular habit rather than an occasion.
+
+## Settling In: The First Month
+
+1. Confirm housing and check that registration is permitted at the address
+2. Book registration at Gemeente Leiden (leiden.nl) — typically 1–2 weeks wait
+3. Receive BSN — if arriving through Leiden University, the International Office can assist with the process
+4. Open Dutch bank account
+5. Register for health insurance — mandatory from day one
+6. Find a GP; English-speaking practices are available in the Centrum and Professorenwijk areas
+7. Apply for DigiD after BSN is confirmed
+
+Schiphol Airport being 20 minutes away is a practical quality-of-life factor that affects Leiden differently from other Dutch cities. If your family remains abroad while you settle in, or if you travel internationally for work frequently, the airport proximity reduces travel friction considerably compared to cities in the east or north.
 
 ## Related Guides
 

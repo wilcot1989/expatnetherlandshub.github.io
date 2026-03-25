@@ -264,3 +264,50 @@ See the full process in our [driving license exchange guide](/guides/daily-life/
 8. Register the car at your home address for MRB billing
 
 For the full picture on Dutch traffic rules and driving culture, see our [driving in the Netherlands guide](/guides/daily-life/driving-in-netherlands-guide-2026/). For the broader context on what owning a car costs against alternatives, use our [cost of living calculator](/tools/cost-of-living-calculator/) and our [cost of living breakdown guide](/guides/housing/cost-of-living-netherlands-2026/).
+
+---
+
+## Buying at a Dealer vs Private Seller: The Real Trade-offs
+
+Most expats I talk to default to dealerships because they feel safer. That intuition is right, but the safety comes at a price worth quantifying.
+
+**Dealer purchase:**
+- Price: typically 15–25% higher than equivalent private sale
+- Warranty: mandatory minimum 12 months for dealers (6 months in some circumstances)
+- Inspection done by the dealer (note: not independent)
+- Credit purchase possible — useful if you need time before a large transfer clears
+- Paperwork handled by the dealer — RDW transfer is generally done for you
+
+**Private seller (particulier) on Marktplaats:**
+- Price: lower — often the best value, especially for cars 3–7 years old
+- No warranty (voetstoots — buyer's risk)
+- ALWAYS get an independent APK check from a garage (costs EUR 25–40, takes an hour)
+- Always check the NAP and RDW history before you agree on a price
+- You handle the RDW ownership transfer yourself (straightforward but requires DigiD)
+- Meet in a neutral location or at the address on the vehicle documents
+
+**One mistake I see repeatedly:** Expats agreeing on a price and paying before doing the NAP/RDW check. Run the checks first. It costs nothing and can reveal if the car has been in major accidents (written off and rebuilt) or if the odometer has been tampered with.
+
+---
+
+## Electric Cars: The Expat Case For Going Electric
+
+If you are buying a new or near-new car in the Netherlands, the case for an electric vehicle (EV) is stronger here than in most other European countries.
+
+**Tax advantages for EVs in the Netherlands:**
+- No road tax (motorrijtuigenbelasting / MRB) for fully electric vehicles
+- Lower bijtelling (company car benefit-in-kind tax) — 16% for EVs vs 22% for petrol in 2026
+- Reduced BPM for electric imports
+- Free or subsidised parking in several Dutch cities (Amsterdam, Utrecht, others)
+
+**Practical advantages:**
+- The Netherlands has one of the densest EV charging networks in Europe
+- Average commute distances in the Netherlands are short — well within EV range
+- Dutch electricity prices, while high, are significantly cheaper per km than petrol
+
+**What to watch:**
+- Used EV battery degradation — check the battery health report on any used EV before buying
+- Older EVs (pre-2019) may have limited real-world range
+- Charging at home requires a wallbox installation (typically EUR 500–1,000 including installation) and electricity connection compatibility
+
+For expats planning to stay 3+ years and eligible for the 30% ruling or a company car arrangement, the EV tax advantages can be substantial. Run the numbers for your specific situation.

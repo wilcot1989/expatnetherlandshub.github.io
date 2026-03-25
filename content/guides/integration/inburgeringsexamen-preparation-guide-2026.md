@@ -338,3 +338,43 @@ For more on settling into the Netherlands, see our [complete guide to moving to 
 Not sure which integration route applies to you? Use our inburgering route builder to find the right learning path based on your situation.
 
 <a href="/tools/inburgering-route-builder/" class="cta-affiliate">Find your integration route →</a>
+
+---
+
+## Inburgering Timeline: What to Expect Week by Week
+
+Many people find it helpful to have a realistic picture of the inburgering timeline before they begin. Here is what the process typically looks like from arrival to exam:
+
+**Months 1–3: Assessment and course selection.**
+After registering with your gemeente, you receive a letter from DUO with your inburgering obligations. You then complete a language intake assessment (brede intake) to determine your starting level. Based on this, DUO advises you on a learning route (B1, Education, or Self-Reliance). If you choose to arrange your own course (leerroute Z), you do this in this period.
+
+**Months 3–24: Active study.**
+Most people study 8–15 hours per week depending on their pace. Language courses are typically 2–4 days per week plus homework. KNM and ONA/MAP study can run in parallel with language learning or sequentially — it depends on your course structure.
+
+**Months 18–30: First exams.**
+Many people begin sitting individual exams once they feel ready for specific components. You can sit the exams in any order. Each component can be retaken if you do not pass. There is no set order.
+
+**By month 36: Completion deadline.**
+All components must be passed within the three-year deadline (unless you have received an extension). DUO can grant extensions for medical reasons, significant life events, or demonstrable progress that needs a little more time.
+
+## The Role of the Gemeente
+
+Your local gemeente (municipality) has responsibilities in the inburgering process beyond registration. In many cities, the gemeente offers:
+
+- **Free intake support** to help you identify the right learning route
+- **Taalklas (language class)** coordination, sometimes subsidised
+- **Budget guidance** for accessing the lening (loan) for course fees
+- **Monitoring** of your progress and early support if you are falling behind
+
+Do not wait for the gemeente to contact you proactively — be proactive yourself. Book an appointment with the Werk en Inkomen or Burgerzaken department to clarify your obligations and what local support is available. In Amsterdam, Utrecht, and Rotterdam, the municipalities have dedicated inburgeringscoördinatoren who can guide you through the process.
+
+## Language Learning Beyond the Exam: Why B1 Is a Floor, Not a Ceiling
+
+The inburgeringsexamen requires B1 Dutch — a functional intermediate level where you can handle most daily situations but may still struggle with nuanced conversations, regional accents, or specialised language. B1 is the minimum, not the goal.
+
+For expats planning to stay long-term, reaching B2 or C1 significantly changes your experience:
+
+- B2 lets you follow Dutch television, read newspapers, and participate in professional meetings comfortably
+- C1 allows fluent conversation, professional writing, and full participation in Dutch civic life
+
+After passing the inburgering exam, continuing language development through NT2 (Dutch as a second language) courses, language exchange partnerships, or immersive social participation is worth investing in. The [best Dutch language courses guide](/guides/integration/best-dutch-language-courses-2026/) covers post-inburgering options at B2 and C1 level.

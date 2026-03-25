@@ -247,4 +247,46 @@ Worth trying in your first 1–2 years. Good for meeting people in a similar tra
 
 ---
 
+---
+
+## A Note on Loneliness During Major Life Transitions in the Netherlands
+
+Loneliness peaks at certain specific moments in the expat experience that are worth naming directly.
+
+**After a breakup or divorce:** Ending a relationship in the Netherlands while being far from your support network is a particularly acute form of loneliness. You lose both the partner and, often, the shared social circle that came with them. The Dutch social architecture means your mutual friends may feel they have to choose. If you go through a relationship breakdown in the Netherlands, prioritise deliberately rebuilding your independent social structure. The [Making Friends in the Netherlands guide](/guides/integration/making-friends-netherlands-expats-2026/) covers specific practical steps.
+
+**After a colleague-departure or office relocation:** Many expats build their social life primarily around work. When colleagues leave, are transferred, or when you change jobs yourself, the social fabric can collapse suddenly. This is a trigger point worth being aware of before it happens.
+
+**After becoming a parent:** Having a child in the Netherlands while far from family is beautiful and extremely isolating. The practical busyness of new parenthood, the disappearance of your previous social life, and the absence of grandparents and family nearby creates a particular loneliness. Dutch parent networks — buurtouders groups, peuterspeelzaal connections, school gate connections — are worth engaging with more deliberately than feels natural.
+
+**During the COVID recovery period and afterwards:** Many expats who arrived around 2019–2021 had their initial social infrastructure formation disrupted. Some rebuilt it; others found themselves in 2023 and 2024 with years of Dutch residency but surprisingly thin social roots. If this describes you, the good news is that it is recoverable — but it requires acknowledging the gap and making intentional changes.
+
+---
+
+## Resources Worth Knowing About
+
+**For practical social connections:**
+- Meetup.com — activity-based groups, strongest in Amsterdam, Utrecht, Rotterdam
+- InterNations — expat events, good for new arrivals
+- Facebook groups: "Amsterdam Expats", "The Hague Expats", "Utrecht Expats" etc.
+- Bumble BFF — particularly effective for women
+
+**For language and cultural integration:**
+- NT2 Dutch language courses (search for Taalthuis, VU Amsterdam Language Academy, Language Centre Leiden)
+- Volksuniversiteit (adult education institutes in most cities) — an excellent and often overlooked source of Dutch language courses at all levels
+- Language exchange groups on Meetup and Tandem app
+
+**For mental health support:**
+- Your huisarts (GP) — the entry point for insurance-covered psychological support
+- Expat Therapy 4U — directory of English-speaking therapists in the Netherlands
+- The Human Connection (Amsterdam) — expat-focused
+- OpenUp — employee mental health platform, check your employer's benefits
+
+**For specific communities:**
+- Internations professional networking events
+- Sport clubs (HAV handball, rugby clubs, cricket in summer) — many have English-speaking members
+- International church communities — Anglican, American Church, international Catholic and Protestant congregations in all major cities
+
+---
+
 *Related reading: [Dutch Social Etiquette for Expats](/guides/integration/dutch-social-etiquette-expats-2026/) | [Best Dutch Language Courses 2026](/guides/integration/best-dutch-language-courses-2026/) | [Dutch Dating Culture for Expats](/guides/integration/dutch-dating-culture-expats-2026/) | [Best Expat Facebook Groups Netherlands](/guides/integration/best-expat-facebook-groups-netherlands-2026/) | [Netherlands vs UK for Expats](/guides/integration/netherlands-vs-uk-expats-2026/)*

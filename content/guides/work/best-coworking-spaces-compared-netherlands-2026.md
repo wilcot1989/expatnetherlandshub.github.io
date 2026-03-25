@@ -322,6 +322,82 @@ If you are new to the Netherlands, coworking spaces offer more than just a desk.
 
 ---
 
+## Internet and Technical Requirements: What to Check Before You Commit
+
+One of the most important practical checks before committing to a coworking membership is verifying that the technical infrastructure matches your actual work requirements.
+
+### WiFi Speed and Reliability
+
+The Netherlands has excellent national broadband infrastructure, but individual coworking spaces vary in how much bandwidth they have allocated per user and how they manage peak demand.
+
+**What to check:**
+- Ask specifically about upload speed, not just download — video calls (Zoom, Teams) require consistent upload. Anything below 10 Mbps upload per user under load will cause issues on frequent calls
+- Ask whether the space uses dedicated business-grade internet (typically a separate leased line) or a standard consumer connection
+- Visit during peak hours (10am–12pm on a Tuesday or Wednesday) and run a speed test on Speedtest.net or fast.com
+- Ask about the redundancy setup — what happens if the primary internet connection fails?
+
+Most established chains (Spaces, WeWork, Tribes) have adequate infrastructure for standard remote work including video calls. The risk is higher at smaller independent spaces and some Seats2Meet locations where the internet is whatever the host venue happened to have installed.
+
+### Physical and Cybersecurity
+
+If you work with sensitive data — financial information, legal documents, healthcare data, or any client data with confidentiality requirements — consider:
+- Whether the space uses WPA3 encryption or at minimum WPA2 for WiFi
+- Whether there is a separate guest network or whether all users share one network
+- Whether private offices have lockable doors and soundproofing adequate for confidential calls
+
+Most professional coworking spaces handle this adequately. For any highly sensitive work, a VPN on top of the coworking WiFi is sensible practice regardless of the space's own security measures.
+
+---
+
+## Setting Up as a ZZP Freelancer Using a Coworking Address
+
+Several coworking providers in the Netherlands offer a registered business address (postadres or vestigingsadres) service that allows you to register your KvK (Chamber of Commerce) number and BTW (VAT) number at the coworking address rather than your home address.
+
+This is useful for:
+- Keeping your home address private on public business documents (KvK registration is publicly searchable)
+- Maintaining a professional business address if you do not have a dedicated office
+- Certain business activities that the Belastingdienst or IND requires to have a business address distinct from a private address
+
+**Providers that offer this service:** Spaces and WeWork both have registered business address services at most Dutch locations. Cost is typically EUR 25–50/month on top of any membership fee.
+
+**Important:** Not all coworking spaces can legally serve as your KvK vestigingsadres. The KvK has requirements about the nature of the address. Confirm explicitly with the provider that their address can be used for this purpose before signing up.
+
+Our [KvK registration guide](/guides/work/kvk-registration-expat-guide-2026/) explains the full address requirements and what documents you need.
+
+---
+
+## Coworking Memberships and the Dutch ZZP Tax Deduction
+
+If you are a ZZP freelancer, coworking membership costs are deductible as business expenses (bedrijfskosten) for both income tax and VAT purposes.
+
+**Income tax (Box 1 self-employment income):** Your coworking membership fee, day passes, and meeting room costs are directly deductible from your business income, reducing your taxable profit. If you pay EUR 250/month for a hot desk, that is EUR 3,000/year deducted from taxable income. At a marginal tax rate of 37%, that is EUR 1,110 in tax saved.
+
+**BTW (VAT) reclaim:** If your business is BTW-plichtig (VAT registered), you can reclaim the 21% VAT on coworking costs through your quarterly BTW aangifte. On EUR 250/month (including VAT), approximately EUR 43/month in VAT is reclaimable.
+
+Effective net cost of a EUR 250/month coworking membership for a typical ZZP: approximately EUR 180–200/month after tax deductions and VAT reclaim.
+
+This calculation makes quality coworking memberships significantly more affordable than the headline price suggests for freelancers. Always keep your invoices and ensure the coworking space issues proper facturen (invoices) with BTW breakdown.
+
+---
+
+## Building a Professional Network Through Coworking
+
+Beyond a desk and WiFi, the social capital value of coworking is something that takes time to develop but can be substantial for expat freelancers.
+
+The Dutch professional networking culture is active but specific. Cold LinkedIn outreach gets moderate responses. Warm introductions get much better responses. Coworking spaces, at their best, generate warm introductions naturally.
+
+**How to accelerate this:**
+
+**Talk to the community manager on day one.** Good community managers keep a mental map of who does what in the space. Tell them what you do and what kind of clients or collaborations you are looking for. In my experience, a good community manager introduction to a relevant other member is worth three months of LinkedIn activity.
+
+**Attend the events.** Most coworking providers run regular events — drinks, workshops, breakfast sessions, demo days. These feel optional but they are where relationships form. Go to at least three before deciding whether the community is worth cultivating.
+
+**Be visibly helpful before asking for anything.** In Dutch professional culture, overt networking can feel pushy. Being genuinely useful — sharing a relevant article, offering a skill in casual conversation, connecting two people you know — establishes your presence without feeling transactional.
+
+**Use the informal kitchen time.** Coffee breaks in the shared kitchen are disproportionately productive for networking in Dutch coworking spaces. The casual setting removes the formality of a networking event and allows natural conversations to develop.
+
+---
+
 ## Further Resources
 
 For more on working in the Netherlands as an expat or freelancer:

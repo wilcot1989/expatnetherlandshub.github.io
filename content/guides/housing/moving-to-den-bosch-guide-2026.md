@@ -233,6 +233,19 @@ Do your research, use the tools and guides I have linked throughout this article
 Good luck with the move.
 
 — Sarah
+
+## Practical Resources for Den Bosch
+
+Before you arrive, a few links worth bookmarking:
+
+- **[Gemeente 's-Hertogenbosch](https://www.s-hertogenbosch.nl/en/)** — Registration, permits, and local services in English
+- **[Den Bosch Housing Portal](https://www.thuisindenbosch.nl/)** — Social and affordable housing search
+- **[Funda Den Bosch listings](https://www.funda.nl)** — Private rentals and purchases
+- **[Intercity Housing](https://www.intercityhousing.nl/)** — Local agency with English service for expat rentals
+- **[BSN registration info](/guides/legal/bsn-registration-guide-2026/)** — What to bring and how the registration process works
+
+For your first week: book your gemeente appointment for BRP registration before you arrive, not after. Slots in Den Bosch tend to be available within a week, which is faster than Amsterdam or Utrecht, but you still want the BSN sorted in the first two weeks. Everything else — bank account, health insurance, DigiD — follows from that. One thing worth knowing about Den Bosch specifically: the city centre is genuinely very walkable and most daily errands are within a 15-minute bike ride. Buy a second-hand bicycle within your first week (Marktplaats.nl is reliable, budget €75–€150 for something solid). You will use it far more than you expect. The VVV tourist office in the city centre is also surprisingly useful for expats in the first weeks — they have local knowledge that extends well beyond tourism into practical everyday questions about the city.
+
 ---
 
 *Sarah van den Berg is an expat coach and relocation specialist. Half Dutch, half British, living in the Netherlands for over 10 years.*

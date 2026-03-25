@@ -271,3 +271,32 @@ Most aanvullende verzekering plans include some coverage for emergency medical c
 ### Can my apotheek recommend medication without a GP visit?
 
 For minor complaints, yes. Dutch pharmacy assistants and pharmacists provide self-medication advice (zelfzorgadvies) for common conditions — colds, mild pain, skin conditions, stomach complaints. They will recommend OTC options and tell you clearly if they think you need to see a GP. This is a useful first step for non-urgent issues and saves a GP appointment. For anything requiring prescription medication, you need the huisarts.
+
+---
+
+## Apotheek Costs: What to Actually Budget
+
+The cost of prescription medication in the Netherlands surprises some expats — both positively and negatively.
+
+**The positive:** Most covered medications are inexpensive once your eigen risico is met. The Netherlands has a generic-first policy, meaning the insurer covers the generic equivalent at full cost. If you take a standard blood pressure medication, cholesterol treatment, or common antibiotic, the out-of-pocket cost after the eigen risico is effectively zero.
+
+**The complication:** The eigen risico (EUR 385 in 2026) must be met before insurance kicks in for prescription costs. For a healthy expat who only needs medication occasionally, the first EUR 385 of the calendar year comes out of your own pocket. This resets on 1 January each year. The first prescription of the year will likely cost you the full medication price until you hit the deductible — then it is covered.
+
+**Budget guidance for typical situations:**
+
+| Situation | Annual out-of-pocket medication cost (approximate) |
+|-----------|--------------------------------------------------|
+| Healthy adult, no regular medication | EUR 0-100 (occasional prescriptions, minor items) |
+| One chronic medication (e.g. blood pressure, thyroid) | EUR 100-200 (eigen risico costs until met + any co-payments) |
+| Multiple chronic medications | EUR 250-400 (likely hitting eigen risico most years) |
+| Special medications not on covered list | Variable — can be significant |
+
+**OTC medication is not covered at all.** Even if your GP recommends paracetamol, buying it at the apotheek is out of pocket. For regular OTC use (hay fever antihistamines, pain relief), buy at Kruidvat or Etos where prices are 30-50% lower than the apotheek for the same products.
+
+**The apotheek eigen risico tracker.** Your apotheek keeps a running total of what you have paid toward the eigen risico this calendar year. Ask them, or check via your insurer's app, to see how much of the deductible you have used. Once you reach EUR 385, further covered medication is free for the rest of that calendar year.
+
+For a comparison of Dutch health insurance plans — including which have better medication coverage via supplementary packages — use the Independer comparison tool:
+
+<a href="https://www.awin1.com/cread.php?awinmid=8558&awinaffid=2776410&ued=https%3A%2F%2Fwww.independer.nl%2Fzorgverzekering" target="_blank" rel="noopener nofollow sponsored" class="cta-affiliate">Compare Dutch health insurance on Independer →</a>
+
+One more practical note: your apotheek can tell you your eigen risico balance at any time. If you are approaching the end of the calendar year and have nearly reached EUR 385 in medical costs, it may be worth scheduling any planned procedures before year-end to avoid the deductible resetting on 1 January. This is particularly relevant for planned physiotherapy, specialist consultations, or minor surgical procedures that are medically appropriate but not urgent — timing them in the same calendar year as other healthcare costs can save you the full EUR 385 deductible amount.

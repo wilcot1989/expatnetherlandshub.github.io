@@ -215,6 +215,46 @@ Policies can be combined or staged — you don't have to get everything in one p
 - [Crypto Tax Netherlands: Expat Guide](/blog/crypto-tax-netherlands-expats-2026/)
 - [Dutch Utilities Explained for Expats 2026](/blog/dutch-utilities-explained-expats-2026/)
 
+## Common Questions About Dutch Life Insurance for Expats
+
+**Can I keep a life insurance policy from my home country while living in the Netherlands?**
+
+Often yes, but with caveats. Many international term life policies allow you to maintain coverage while living abroad. Check your current policy's territorial restrictions. If your home country policy is paid in a foreign currency and you are required to pay from a foreign bank account, this may become inconvenient or expensive due to exchange rate movements.
+
+Dutch mortgage lenders, however, typically want a Dutch-regulated policy as collateral for the mortgage. A foreign policy may not be accepted by a Dutch lender even if it is technically in force. Confirm this with your broker before relying on a foreign policy for a Dutch mortgage requirement.
+
+**Does my employer in the Netherlands provide any life insurance?**
+
+Many Dutch employers provide death-in-service coverage through the company pension scheme (pensioenfonds). This is typically expressed as a multiple of your annual salary — commonly 1x or 2x annual salary. Check your employment contract and pension documents, or ask HR. This employer coverage reduces (but may not eliminate) the need for a personal policy.
+
+For expats on international assignment packages, your home country employer may provide additional life and disability coverage through an international group policy. Review your full benefits package before purchasing a separate Dutch policy.
+
+**What is the difference between overlijdensrisicoverzekering and uitvaartverzekering?**
+
+These are two completely different products that expats frequently confuse.
+
+*Overlijdensrisicoverzekering* (term life insurance) pays a large lump sum — typically EUR 100,000–500,000 or more — to protect financial dependants or cover a mortgage.
+
+*Uitvaartverzekering* (funeral insurance) pays a smaller sum — typically EUR 5,000–15,000 — specifically to cover funeral costs so your family does not have to pay out of pocket immediately after your death. The Netherlands has a deeply embedded funeral insurance culture; around half the population holds some form of it.
+
+As a newly arrived expat without a mortgage, uitvaartverzekering is a very low priority. It becomes more relevant if you plan to settle permanently and want to avoid leaving your Dutch family with unexpected funeral costs.
+
+---
+
+## Disability Insurance: The Overlooked Gap
+
+Life insurance protects against death. But the financial risk of being unable to work due to illness or injury is often greater and more likely, particularly for expats in their 30s and 40s.
+
+In the Netherlands, employees who become ill receive 70% of their salary from their employer for up to two years (loondoorbetaling bij ziekte). After two years, if you remain unable to work, you may qualify for WIA disability benefit from the UWV.
+
+**The gap for expats:** If you are self-employed (ZZP), there is no automatic sick pay. You are responsible for your own income during illness. An arbeidsongeschiktheidsverzekering (AOV — disability insurance) covers this risk.
+
+For employed expats, the employer's sick pay is reasonable protection for short periods. For longer-term disability, the government WIA benefit may be significantly below your current income. Some employers provide supplementary disability coverage through the pension scheme — check your contract.
+
+For self-employed expats, disability insurance is not optional if you depend on your own income. AOV premiums are deductible as a business expense.
+
+---
+
 ## FAQ
 
 **Do expats in the Netherlands need life insurance?**

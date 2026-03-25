@@ -283,6 +283,77 @@ When you compare supplementary packages on Independer or directly on insurer web
 
 <a href="https://awin1.com/cread.php?awinmid=19918&awinaffid=2776410&ued=https://www.independer.nl/zorgverzekering" rel="noopener nofollow sponsored" class="cta-affiliate">Compare supplementary health insurance add-ons on Independer — see exact coverage details side by side</a>
 
+## Hearing Aids, Orthopaedic Aids, and Prosthetics
+
+These are areas where the basic package provides some coverage but expats often do not know the limits until they face a need.
+
+**Hearing aids:** The basic package covers one hearing aid per ear every five years for adults with documented hearing loss above a set threshold. The reimbursement amount is capped — typically around EUR 500 per ear — which does not come close to the cost of modern hearing aids (EUR 1,500–4,000 per device). Some supplementary packages offer an additional contribution; others do not. If you or a family member wears hearing aids, check this specifically before choosing.
+
+**Orthopaedic insoles and shoes:** Custom orthopaedic insoles (steunzolen) are partially covered by the basic package after GP and specialist referral. Off-the-shelf insoles are not covered. High-value custom orthopaedic shoes are covered under specific conditions. A supplementary package rarely improves this significantly.
+
+**Prosthetics:** Prosthetic limbs and mobility aids are generally covered by the basic package under specific approval processes via the insurer. This is an area where direct contact with your insurer before any decision is made is important — amounts, approval requirements, and procedures vary.
+
+---
+
+## Using Your Insurance as an Expat Returning Home to Visit
+
+Your Dutch health insurance does not provide comprehensive coverage when you are visiting your home country. This catches many expats off guard.
+
+**What the basic package covers abroad:**
+- Emergency medical care in EU/EEA countries at the same rate as in the Netherlands
+- Non-EU countries: emergency care is covered but reimbursement rates may be lower
+
+**What it does not cover:**
+- Planned or routine care abroad (dental check-up at your home dentist, GP visit for ongoing condition while visiting family)
+- Any care in countries outside the EU/EEA that exceeds the Dutch reimbursement rate
+- USA: emergency care in the US is covered in principle but US medical bills are so high that the Dutch reimbursement rarely covers the full amount
+
+**Practical implications:**
+- If you visit family regularly in a non-EU country, consider a travel insurance add-on or supplementary international coverage
+- If you visit the USA specifically, a supplementary travel insurance with US coverage is important — medical costs in the US can quickly exceed any Dutch reimbursement
+
+Many expats who visit the US once or twice a year add SafetyWing or similar international travel insurance just for those trips, sitting alongside their Dutch basic insurance for the rest of the year.
+
+---
+
+## Add-Ons for Expats With Children
+
+Children under 18 are covered by the basic package without extra premium, and the eigen risico does not apply to them. But there are still supplementary considerations for families:
+
+**Orthodontic treatment:** Children's braces are not covered by the basic package. They are expensive (typically EUR 2,000–5,000 for a full orthodontic course). Some mid-to-high tier supplementary packages include a contribution toward orthodontic treatment, usually between EUR 750 and EUR 2,000. If you have children in the 8–15 age range, check whether your supplementary package includes an orthodontic contribution.
+
+**Speech therapy for children:** Partially covered by the basic package for children under 18 with specific indications. Some supplementary packages extend coverage.
+
+**School sport and activity injuries:** These are covered by the basic package for medical treatment. However, the eigen risico applies for parents (not the child) for hospital-related care. This is one reason some parents choose to maintain a slightly higher emergency buffer rather than raising their eigen risico.
+
+**Paediatric specialists:** Children generally use the same referral pathway as adults (huisarts → specialist). Waiting times at some children's specialists can be long. A restitutiepolis (reimbursement-type basic policy) gives more flexibility to choose providers outside the contracted network if you prefer a specific paediatric practice.
+
+---
+
+## The Practical Impact of Not Having Add-Ons: Three Scenarios
+
+### Scenario 1: Moving to the Netherlands with dental work needed
+
+Without dental coverage: A check-up (EUR 45), two fillings (EUR 150 each), and an x-ray (EUR 35) in your first year costs EUR 380.
+
+With a mid-range dental add-on at EUR 20/month: Annual premium cost EUR 240. Covered amount EUR 380 × 75% = EUR 285. Out of pocket: EUR 95. Net saving: EUR 45 in year one, more in year two as dental maintenance costs recur.
+
+### Scenario 2: Sports injury requiring physiotherapy
+
+Without physio coverage: 8 sessions at EUR 50 each = EUR 400.
+
+With a physio add-on at EUR 6/month: Annual premium cost EUR 72. Covered amount 8 sessions at EUR 40/session cap = EUR 320. Out of pocket: EUR 80 treatment + EUR 72 premium = EUR 152 total. Net saving versus no coverage: EUR 248.
+
+### Scenario 3: Expat who never uses anything
+
+Without any add-ons: No cost. Full out-of-pocket for any dental, physio, or glasses needs.
+
+With a mid-range combined add-on at EUR 25/month: Annual cost EUR 300. If you use nothing — you are down EUR 300.
+
+This is the insurance calculation everyone faces. The question is whether the expected cost of your potential needs exceeds the premium. For most expats who wear glasses and go to the dentist twice a year, the maths almost always favours taking a moderate supplementary package.
+
+---
+
 ## Internal Resources
 
 - [Life Insurance for Expats in Netherlands 2026](/blog/life-insurance-expats-netherlands-2026/)

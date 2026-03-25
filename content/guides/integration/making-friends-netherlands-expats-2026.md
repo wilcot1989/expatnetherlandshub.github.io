@@ -204,3 +204,32 @@ The Dutch social world is not designed to be easy to enter. But it is designed t
 Give it time. Join things. Learn the language. Be patient with yourself and with the people around you. And if you are having a genuinely hard stretch, reach out — to other expats, to professionals, to the communities listed in this guide. You are not alone in finding this difficult, even when it feels that way.
 
 The connection is there. It just takes a little longer to find.
+
+---
+
+## Practical Starting Points by City
+
+The social infrastructure for meeting people differs somewhat by city. Here are the most reliable entry points I know of:
+
+**Amsterdam:** Internations Amsterdam runs regular events with genuinely mixed crowds (not just young single expats). The English-language book clubs at the American Book Center and the Athenaeum attract Dutch and international readers in roughly equal measure. HashHouse Harriers (running/social group) operate in Amsterdam with a strong expat community. The Vondelpark Sports Center and various yoga studios have become informal expat community hubs.
+
+**Rotterdam:** The Rotterdam Expat Centre runs quarterly social events. Sports clubs — particularly the rugby club, rowing clubs on the Kralingse Plas, and cycling groups — draw a mix of Dutch and international members. The architecture scene draws internationals with shared interests. Coffee company-style co-working spaces in Katendrecht and Wijnhaven attract freelancers and a younger professional crowd.
+
+**The Hague:** The ACCESS organisation is the most structured social entry point in The Hague. Their information sessions double as social events where you meet other newly arrived expats. The international school parent communities in Benoordenhout and Statenkwartier are tight-knit and generally welcoming to newcomers.
+
+**Utrecht:** Utrecht has a very active sports club culture and a large expat student community through Utrecht University. The USAC international student exchange program brings large cohorts of American students annually who are actively seeking Dutch friendships. Language exchange (tandemtaal) organised through the library and university is particularly active in Utrecht.
+
+**Eindhoven:** The Design Academy and TU/e create an unusually international creative-technical community. Strijp-S (the former Philips industrial complex now repurposed as a creative quarter) hosts frequent events. The Expat Center Zuid-Nederland runs the most active expat support service outside the Randstad.
+
+## When Loneliness Gets Serious
+
+Social isolation is a real risk for expats, particularly in the first year. The Netherlands has a relatively high rate of loneliness among immigrants (reported in CBS surveys), which is consistent with what I hear from clients. If you find yourself consistently struggling — not meeting anyone, dreading weekends, feeling disconnected — it is worth taking it seriously rather than waiting it out.
+
+A few resources:
+
+- **Expat Psychology Netherlands**: several therapists specialise in expat adjustment issues and work in English
+- **Online communities**: the r/Netherlands and r/Amsterdam subreddits have active communities where questions about social life are openly discussed and people occasionally organise meetups
+- **Meetup.com**: still active in the Netherlands, particularly for hobby-based groups in Amsterdam and Utrecht
+- **Your employer's EAP (Employee Assistance Programme)**: many Dutch employers offer confidential counselling through EAP providers — check your employee benefits
+
+There is no shame in finding the Dutch social environment challenging. It is genuinely harder than many other countries. Acknowledging that, and actively using available resources, is more productive than waiting passively for things to improve.

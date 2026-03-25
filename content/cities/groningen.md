@@ -90,6 +90,16 @@ Groningen Airport Eelde handles a small number of routes but is primarily used f
 
 For a full guide to OV travel in the Netherlands, see the [OV-chipkaart guide for expats](/guides/daily-life/ov-chipkaart-guide-expats-2026/).
 
+## Practical Tips for Your First Weeks in Groningen
+
+**Buy a bike before you do anything else.** The city functions on cycling to an unusual degree even by Dutch standards. Without a bike in Groningen, you are significantly less mobile than everyone around you. Second-hand bikes are available from the Fietsacademie (a social enterprise that repairs donated bikes), local Facebook groups, and the Saturday market.
+
+**The distance from the Randstad affects your social life in ways worth planning for.** Amsterdam is over two hours by train. If your professional network, family, or friends are primarily there, budget for regular trips — the cost of monthly or bi-monthly train travel adds up. NS subscription options can reduce per-trip costs significantly for regular routes.
+
+**Groningen's wind comes from the north.** The city's flat, open setting means weather arrives unobstructed. A quality rain jacket and waterproof cycling gear are practical investments from week one, not seasonal luxuries. The 30% ruling, if you qualify, is worth factoring into your first-year purchases.
+
+**The Gronings dialect is genuinely different from standard Dutch.** Long-term residents and older Groningers often speak it among themselves. Most younger residents and anyone in a professional or service context use standard Dutch, so you will not be excluded, but you may occasionally find yourself bewildered by a conversation that is technically in the same language you have been learning.
+
 ## Getting Started in Groningen
 
 Moving to Groningen requires a few first steps. Here are the most important ones:
@@ -101,6 +111,58 @@ Moving to Groningen requires a few first steps. Here are the most important ones
 **Consider expat insurance** — If you're still settling in or working remotely, [SafetyWing](https://safetywing.com/nomad-insurance/?referenceID=26482728&utm_source=26482728&utm_medium=Ambassador) provides affordable global coverage from $45/month. <a href="https://safetywing.com/nomad-insurance/?referenceID=26482728&utm_source=26482728&utm_medium=Ambassador" target="_blank" rel="noopener nofollow sponsored" class="cta-affiliate">Get SafetyWing coverage →</a>
 
 **Plan your budget** — Use our free [cost of living calculator](/tools/cost-of-living-calculator/) and [housing budget checker](/tools/housing-budget-checker/) to see what you can afford in Groningen.
+
+## Expat Community & Social Life
+
+Groningen's expat community is driven primarily by the university. The International Student Network Groningen (ISN) is large and visible, but that is a student community rather than a professional expat one. For working professionals and researchers, the picture is different.
+
+The University of Groningen's international staff network organises social events and connects incoming academic staff with settled residents. The RUG International Welcome programme includes an orientation day for new staff that covers practical settling-in topics and connects arrivals with each other.
+
+The city has a genuinely vibrant cultural scene relative to its size and location. Vera is one of the best independent music venues in the Netherlands. The Groninger Museum is architecturally striking and programmatically adventurous. The city's central squares — Grote Markt and Vismarkt — are active year-round rather than just in summer.
+
+The Vierdaagse cycling event in Groningen draws tens of thousands of participants, and cycling culture in the city is an equaliser — everyone cycles, young and old, students and professors, Dutch and international. Getting on a bike is one of the fastest ways to feel like a local here.
+
+Winter in Groningen is worth preparing for honestly. The northern location means fewer daylight hours and more rain than the Randstad, and the flat, windswept landscape can feel stark in January and February. This affects some people more than others. Those who came from similar climates barely notice; those who arrived from sunnier places find the first winter a test.
+
+## Schools and Families
+
+Groningen does not have an international school in the conventional sense. The International School Groningen (at Groningen International School / GIS) serves the international academic community and offers IB-aligned programmes, but capacity is limited. Waiting lists are real; register early if you are arriving with school-age children.
+
+Dutch-medium schooling with integration support is the more common route for expat children in Groningen. The university's international community has made several Paddepoel and Helpman area schools experienced in supporting non-Dutch speaking children. The relatively small size of the international community — compared to Eindhoven or The Hague — means there is less pressure on international school places but also less English-medium option outside the one main school.
+
+Families in Groningen tend to cite the city's affordability, green spaces, and quieter pace as the strongest qualities for raising children. The housing supply for families — with gardens and more than two bedrooms — is genuinely good compared to any Randstad city.
+
+## Housing Search: Practical Advice
+
+Groningen's rental market is shaped heavily by the student population. The market for non-student apartments is a different segment and is more manageable than in Randstad cities, but well-located properties at reasonable prices still move quickly.
+
+The main platforms are Pararius, Funda, and local Groningen agencies. Many of the better mid-market rentals in Paddepoel and Helpman are handled by local agents rather than the national platforms — worth checking agents like Rotsvast, ERA, and local independent firms alongside the national sites.
+
+A significant amount of housing in central Groningen is student-designated and not available for non-student registration. Filter this out of your search from the start. The Centrum, Paddepoel, and Helpman neighbourhoods are where most professional expat rentals are concentrated.
+
+The university operates its own temporary and permanent housing service for incoming staff — contact the Housing Office at RUG well before arrival if you are coming through the university.
+
+## Daily Life in Groningen
+
+Groningen's most distinctive daily-life characteristic is the cycling modal share. In the city centre, cycling is genuinely the dominant form of movement — not just a popular option but the actual way the city functions. The main shopping streets, the university buildings, the markets, the museums, the cafés: all of them are reached on a bike by almost everyone, almost all the time. If you arrive without a cycling habit, you will develop one fast.
+
+The Grote Markt is the main outdoor social space, with a large concentration of terrace bars and restaurants around it. The Vismarkt, adjacent to it, has a twice-weekly outdoor market (Tuesday and Saturday). The Noorderplantsoen park, a 19th-century landscape garden in the north of the centre, is the best park in the city and consistently used.
+
+The university's presence gives Groningen a cultural programme disproportionate to its size and location. The Groninger Museum is architecturally striking (designed by Alessandro Mendini) and has an active exhibition programme. VERA and Oosterpoort are the main music venues. The Noorderzon performing arts festival in August is one of the more interesting outdoor arts events in the northern Netherlands.
+
+Food costs in Groningen are lower than in the Randstad — restaurants, supermarkets, and daily expenses reflect a city that is not inflated by tourist or high-income professional demand. The range of cuisine available has improved considerably over the past decade as the international population has grown, and the area around the Folkingestraat and Vismarkt offers a reasonable variety.
+
+## Settling In: The First Month
+
+1. Confirm housing and landlord registration permission
+2. Book registration at Gemeente Groningen (groningen.nl) — typically 1–2 weeks wait
+3. Receive BSN; if arriving through the university's Welcome programme, this can be coordinated through the International Office
+4. Open a Dutch bank account
+5. Register for health insurance
+6. Find a GP in your neighbourhood — university-area practices in Paddepoel have English-speaking capacity
+7. Apply for DigiD after receiving BSN
+
+One thing specific to Groningen: the earthquake damage compensation programme (for homes affected by decades of gas extraction) is still active. If you are renting in the province of Groningen and there are structural issues with your property, your landlord may be in the process of repair or claim — worth asking about before signing a long-term contract.
 
 ## Related Guides
 

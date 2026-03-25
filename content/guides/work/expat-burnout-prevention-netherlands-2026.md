@@ -273,3 +273,31 @@ Sometimes yes. If the Netherlands is not the right fit — if the cultural frict
 ### Does learning Dutch help with burnout prevention?
 
 Yes, significantly. Language fatigue — the cognitive exhaustion of constant translation — is reduced as Dutch improves. Understanding around you, being understood, participating in jokes and casual conversation — these reduce the expat load considerably. See our [Dutch language courses guide](/guides/integration/best-dutch-language-courses-2026/).
+
+---
+
+## Burnout and the Dutch Healthcare System: What to Expect
+
+If burnout progresses to the point where it affects your ability to work, the Dutch system has a clear (if slow) process:
+
+**Step 1: See your huisarts (GP).** Your GP is the gatekeeper. Describe your symptoms clearly and specifically — exhaustion that does not resolve with rest, cognitive impairment, inability to disconnect from work, physical symptoms. Dutch GPs take burnout seriously and will not dismiss it. They may refer you to a psychologist, a bedrijfsarts (company doctor), or a specialist.
+
+**Step 2: Ziekmelden (sick leave registration).** If you cannot work, report sick to your employer on day 1. Your employer is obligated to involve their arbodienst (occupational health service). Under Dutch law, you receive 70% of your salary (or full salary, depending on your contract and CAO) during sick leave for up to 2 years. You cannot be dismissed for illness during this period.
+
+**Step 3: The bedrijfsarts (company doctor).** The bedrijfsarts does not treat you — they assess your functional capacity and manage the re-integration process. You are obligated to cooperate with this process. The Wet verbetering poortwachter (Gatekeeper Improvement Act) sets out exactly what both you and your employer must do during a sickness period. Understanding this law protects you from employer pressure to return too early.
+
+**Step 4: Treatment and re-integration.** Treatment typically involves a psychologist or psychotherapist through your zorgverzekering (health insurance). CBT (Cognitive Behavioural Therapy) and ACT (Acceptance and Commitment Therapy) are the most commonly used modalities. Re-integration happens gradually — light duties, reduced hours, building back over weeks and months.
+
+**Step 5: The arbodienst and UWV.** If you are still unwell after 1 year, the UWV becomes involved. After 2 years of continuous sickness absence, a WIA assessment determines whether you qualify for disability benefit. Burnout that leads to long-term incapacity is a genuine medical and legal matter — the Dutch system protects you, but you need to follow the formal process to access those protections.
+
+## Managing Burnout Prevention as a Team: What Good Employers Do
+
+Not all Dutch employers are equally good at burnout prevention. The ones that do it well tend to:
+
+- Maintain realistic workloads and say no to unrealistic deadlines
+- Actively encourage vacation use and enforce genuine disconnection during leave
+- Have clear separation between office hours and personal time (no "just one more message" culture after 6pm)
+- Provide arbo services that include preventive coaching, not just sick leave management
+- Discuss mental health openly in team meetings and normalise taking mental health days
+
+If your employer does not do these things and you are showing early burnout signs, that combination is a serious risk signal. You can ask your employer's arbo provider for a preventive consultation — you do not need to be on sick leave to access arbo support in most organisations. Some arbo providers offer coaching specifically for employees at risk of burnout who want to intervene early.

@@ -86,6 +86,18 @@ For longer journeys, Amsterdam is exceptionally well-connected by rail. Rotterda
 
 Within the city, GVB operates trams, metro, and buses. The OV-chipkaart is the standard payment method. See the [OV-chipkaart guide for expats](/guides/daily-life/ov-chipkaart-guide-expats-2026/) for a full breakdown of how the system works.
 
+## Practical Tips for Your First Weeks
+
+**Get a bike immediately.** Amsterdam is a cycling city before it is anything else. Within the first week, find a second-hand bike — Waterlooplein market, MacBike second-hand, or local Facebook groups are the quickest sources. Budget €100–€200 for something reliable. Invest in a good lock (Abus or Kryptonite at minimum €50) — bike theft is a genuine problem, and locking to a fixed object with two locks is standard practice.
+
+**Use the OV-chipkaart from day one.** Buying single-use paper tickets on GVB trams and buses is significantly more expensive than using an OV-chipkaart. Get one online or at the station on arrival. See the [OV-chipkaart guide for expats](/guides/daily-life/ov-chipkaart-guide-expats-2026/) for full setup instructions.
+
+**Know the difference between inschrijven and verhuizen.** If you are moving to Amsterdam from another Dutch city, you do not need a full first-registration appointment — you need to report a change of address (adreswijziging or verhuizen). This can be done online through the Amsterdam municipality website if you have a DigiD, and is faster than the in-person first-registration process.
+
+**Understand the service cost (servicekosten) on your rent.** Many Amsterdam rentals quote a base rent plus monthly service costs for maintenance, building insurance, and sometimes gas/water. Always ask for the breakdown — the total cost including servicekosten is what matters for your budget.
+
+**Register your bike theft with Velotak or a similar service.** It takes five minutes and creates a traceable record if your bike is stolen, which is relevant if you eventually want to claim on insurance. Bike insurance in Amsterdam costs roughly €50–€80 per year for a standard city bike and is worth considering once you have invested in something decent.
+
 ## Getting Started in Amsterdam
 
 Moving to Amsterdam requires a few first steps. Here are the most important ones:
@@ -97,6 +109,60 @@ Moving to Amsterdam requires a few first steps. Here are the most important ones
 **Consider expat insurance** — If you're still settling in or working remotely, [SafetyWing](https://safetywing.com/nomad-insurance/?referenceID=26482728&utm_source=26482728&utm_medium=Ambassador) provides affordable global coverage from $45/month. <a href="https://safetywing.com/nomad-insurance/?referenceID=26482728&utm_source=26482728&utm_medium=Ambassador" target="_blank" rel="noopener nofollow sponsored" class="cta-affiliate">Get SafetyWing coverage →</a>
 
 **Plan your budget** — Use our free [cost of living calculator](/tools/cost-of-living-calculator/) and [housing budget checker](/tools/housing-budget-checker/) to see what you can afford in Amsterdam.
+
+## Expat Community & Social Life
+
+Amsterdam has one of the most developed expat communities in Europe. The infrastructure — meetups, sports clubs, professional networks, language exchanges — is extensive, though it takes some initiative to tap into it.
+
+The expat Facebook groups for Amsterdam are active and genuinely useful for practical questions. InterNations Amsterdam is one of the larger organised communities for international residents, with regular events across different sectors and age groups. LinkedIn is widely used for professional networking across most sectors.
+
+Language is rarely a barrier in the city, which is both a convenience and a risk. It means you can build an entirely English-language life without friction — and many people do, for years. Whether that matters depends on your goals. If you want to integrate beyond the expat bubble, putting effort into Dutch will open a different category of social and professional access, and Dutch language schools in Amsterdam are widely available.
+
+Sports clubs are a good entry point into mixed Dutch-expat social life. The city has a large number of running clubs, football teams, rowing associations (the Amstel is popular for rowing and dragon boat racing), and cycling groups. Most have English-speaking members at all levels.
+
+## Schools and Families
+
+For expats with children, Amsterdam has a substantial international education offer. The International School of Amsterdam (ISA) is the most established, offering the International Baccalaureate from early years through to diploma level. The British School of Amsterdam covers the UK curriculum. Several European schools also operate in or near the city.
+
+These schools are expensive — annual fees for primary level typically run €12,000–€20,000. If your employer covers school fees as part of a relocation package, confirm the amount before you commit to a school. Waiting lists for the most popular international schools in Amsterdam can be long — register as early as possible, ideally before you arrive.
+
+Dutch state schools are an alternative for families planning a longer stay. Many have integration support for non-Dutch speaking children, and a number of primary schools in internationally mixed neighbourhoods — De Pijp, Oost, Oud-West — have experience with new arrivals. This route works better if your children are young and likely to be in the country for more than a few years.
+
+## Housing Search: Practical Advice
+
+The Amsterdam housing market is competitive at every price point. A few things that help in practice:
+
+Search platforms used by most landlords and agencies include Pararius, Funda (primarily for buying but also rentals), and Kamernet (for rooms and smaller apartments). Estate agents (makelaars) who specialise in expat relocation include a number of English-speaking firms in the city — their fees are typically one month's rent plus VAT, but they can provide access to listings not yet publicly advertised.
+
+You will almost certainly need to show proof of income — typically three months of recent payslips and a current employment contract. Employers in the Netherlands often provide an employer declaration (werkgeversverklaring) confirming your salary and contract status. Get this ready before you start viewing.
+
+Many landlords ask for a deposit (borg) of one to two months' rent. Under Dutch law, the deposit must be returned within 14 days of the end of the tenancy unless there are legitimate deductions.
+
+If you are arriving from outside the EU and your residence permit is pending, some landlords will decline to sign until the permit is in hand. Plan for this and have temporary accommodation arranged as a buffer.
+
+## Finding Housing in Amsterdam: What Actually Works
+
+The practical reality of finding housing in Amsterdam is that speed and documentation preparation matter more than anything else. Here is what I recommend to everyone before they start:
+
+Prepare your documents package before you view a single property. This means: three months of recent payslips, a signed employment contract, an employer declaration (werkgeversverklaring) confirming your salary and contract duration, a copy of your passport, and a recent bank statement. Have these ready as a PDF you can email within the hour of a viewing — because that is often what is required.
+
+Register on Pararius, Funda, and direct agency mailing lists simultaneously. Set up search alerts. Properties in the €1,400–€1,700 range for a one-bedroom typically receive responses within hours of listing. If you wait until the evening to respond to a morning listing, it may already be allocated.
+
+Private landlords are increasingly common in Amsterdam as institutional investors have sold properties under the Affordable Rent Act (Wet betaalbare huur), which capped rents on mid-market properties from January 2024. This has pushed some landlords to sell, reducing supply. The cap applies to properties with a WWS (woningwaarderingsstelsel) score below a certain threshold — in practice, this means many Amsterdam apartments under €1,200/month are now technically regulated. Your real estate agent can advise on whether a property falls under the cap.
+
+## Settling In: The First Month
+
+The practical sequence most expats in Amsterdam follow for the first few weeks:
+
+1. Secure housing with a rental contract that allows municipality registration
+2. Book registration appointment at the Stadsloket (available online at amsterdam.nl)
+3. Attend registration, receive your BSN
+4. Open a Dutch bank account using your BSN and rental contract
+5. Register for health insurance (mandatory within four months of arriving, but do it immediately)
+6. Register with a GP (huisarts) — this can take a few weeks, so do it early
+7. Apply for a DigiD (digital identity for Dutch government services) — used for filing taxes, accessing your healthcare records, and almost everything else official
+
+The DigiD application takes about a week as a letter is sent to your registered address. Don't delay this — it unlocks a large amount of digital access that otherwise requires in-person appointments.
 
 ## Related Guides
 

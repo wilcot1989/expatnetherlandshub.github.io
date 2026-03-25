@@ -309,3 +309,60 @@ The firms I described — Blue Umbrella, TaxSavers, Expat Tax, and IamExpat Tax 
 For more context on how the Dutch tax system works before you make that call, my [complete guide to the Dutch tax system for expats](/guides/finance/dutch-tax-system-expats-guide-2026/) and the [expat tax return guide](/guides/finance/expat-tax-return-netherlands-2026/) are good places to start. If the 30% ruling is your main concern, the [30% ruling calculator](/tools/30-percent-ruling-calculator/) can give you a sense of the numbers before you sit down with an adviser.
 
 Whatever you decide — DIY or professional — file on time, keep your records, and do not ignore letters from the Belastingdienst. The Dutch tax authority is generally reasonable to deal with, but only if you engage with them rather than hoping they go away.
+
+---
+
+## What to Prepare Before Contacting a Tax Advisor
+
+When you reach out to a tax firm, they will assess your situation before quoting. Having this information ready saves time and gets you a more accurate quote:
+
+**Personal details:**
+- Your Dutch BSN (burgerservicenummer)
+- Whether you are a Dutch resident for the full year or a partial year
+- Your nationality and home country
+
+**Employment information:**
+- Name and address of your employer(s)
+- Whether you are employed or self-employed (ZZP)
+- Whether you have the 30% ruling — and if so, from which date
+- Whether you had any income from your home country during the Dutch tax year
+
+**Assets and investments:**
+- Whether you have savings or investments in Box 3 (savings accounts, shares, Dutch or foreign property)
+- Whether you have a pension in your home country
+- Whether you hold assets above the Box 3 threshold (approximately EUR 57,000 in 2025)
+
+**US-specific (Americans only):**
+- Whether you have foreign bank accounts with aggregate balances over USD 10,000 (FBAR requirement)
+- Whether you hold any financial accounts outside the US (Form 8938)
+- Whether you received any gifts or inheritances from non-US persons
+
+Having this ready before your first contact makes the intake faster and more accurate. Many firms send a structured intake questionnaire — filling it in completely is the most efficient way to get a correct quote.
+
+---
+
+## Tax Planning Year-Round: Getting More From Your Advisor
+
+The most underused approach for expats who hire a tax advisor is using them for proactive advice during the year, not just at filing time. A few situations where a mid-year conversation is worth EUR 100-150:
+
+**Job change or salary increase:** Impacts your 30% ruling status, pension contributions, and potentially your Box 3 position. A quick check prevents surprises at filing time.
+
+**Buying property in the Netherlands:** Introduces mortgage interest deductibility, transfer tax (overdrachtsbelasting), and the interaction between homeownership and your Box 3 treatment. Understanding this before you sign is valuable.
+
+**Starting a side business while employed:** The moment you have any ZZP income alongside an employment contract, your filing becomes significantly more complex. Get advice before you start invoicing.
+
+**Leaving the Netherlands:** The departure year M-form is the most complex personal tax return most expats ever file. Start planning at least six months before your intended departure date.
+
+**Receiving an inheritance or gift from abroad:** Depending on the amounts and the country of origin, there may be Dutch gift tax (schenkbelasting) or inheritance tax implications to consider.
+
+None of these situations requires a full tax return engagement — a one-hour consultation with a specialist is often enough to understand the implications and plan accordingly.
+
+---
+
+## Related Guides
+
+- [Complete guide to the Dutch tax system for expats](/guides/finance/dutch-tax-system-expats-guide-2026/)
+- [30% ruling Netherlands: eligibility, application, and benefits](/guides/finance/30-percent-ruling-netherlands-2026/)
+- [Dutch tax return for expats: step-by-step guide](/guides/finance/expat-tax-return-netherlands-2026/)
+- [Best finance apps for expats in the Netherlands](/guides/finance/best-finance-apps-expats-netherlands-2026/)
+- [Guide for American expats in the Netherlands](/guides/finance/netherlands-for-american-expats-2026/)

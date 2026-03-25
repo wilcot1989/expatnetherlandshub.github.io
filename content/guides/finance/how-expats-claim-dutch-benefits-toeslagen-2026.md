@@ -299,3 +299,74 @@ Independer is the Netherlands' leading comparison platform for health insurance 
 - [Independer: Health insurance comparison](https://www.independer.nl/zorgverzekering/intro.aspx)
 
 Toeslagen work best as part of a broader financial safety net. If you are building your financial foundations in the Netherlands — including an emergency fund to cover unexpected costs — the [emergency fund guide for expats](/guides/finance/emergency-fund-netherlands-expats-2026/) is a useful next read. Receiving the right toeslagen and maintaining a cash buffer together significantly reduce your financial vulnerability as an expat.
+
+---
+
+## What Happens at the End of the Year: The Reconciliation
+
+Many expats receive their toeslagen throughout the year and then get a nasty surprise in the spring: a demand to repay some of it. This happens because the Belastingdienst pays advance toeslagen based on your estimated income, and then reconciles against your actual income when your tax return is filed.
+
+### How Reconciliation Works
+
+At the start of the year, you estimate your annual income when applying for toeslagen. If your actual income turns out to be higher — because of a promotion, bonus, freelance work, or a working partner who took on more hours — the Belastingdienst will calculate that you received too much advance toeslag and demand repayment (terugvordering).
+
+This is one of the most frustrating parts of the Dutch benefits system, and it catches many expats off guard. A terugvordering notice arrives in the spring with a payment demand, sometimes for several hundred or even thousands of euros.
+
+### Reducing Reconciliation Risk
+
+The most effective way to avoid a large repayment demand is to **estimate your income slightly higher than you expect** when applying. You will receive slightly less toeslag during the year, but you will not face a large repayment.
+
+You can update your income estimate during the year at any time via Mijn Toeslagen. If you get a bonus, a pay rise, or take on extra work, update your estimate immediately. You do not have to wait until year-end.
+
+### If You Cannot Pay the Terugvordering
+
+If you receive a repayment demand you cannot pay immediately, do not ignore it. Log in to Mijn Toeslagen and request a payment plan (betalingsregeling). The Belastingdienst is generally willing to spread repayments over 12-24 months. Ignoring the demand leads to interest charges and eventually collection proceedings.
+
+---
+
+## Special Situations for Expats
+
+### Arriving Mid-Year
+
+If you move to the Netherlands mid-year, you can apply for toeslagen from the month you register and have a BSN. You cannot claim retroactively for months before your registration. Apply as soon as you have your BSN and a Dutch address — the sooner you apply, the more months of toeslag you receive.
+
+For kinderopvangtoeslag specifically, apply from the month your child starts at a registered Dutch childcare provider. If you enrol in September but do not apply until November, you lose the September and October advance payments.
+
+### Leaving the Netherlands
+
+When you leave the Netherlands and deregister from the BRP, your toeslagen end. You must update Mijn Toeslagen immediately — continuing to receive toeslagen after leaving is considered fraud and will result in full repayment demands plus penalties.
+
+If you leave mid-year, your final toeslag reconciliation will be done on a partial-year basis. Make sure your final tax return for the departure year includes the correct period of Dutch residency.
+
+### Partner Situations
+
+A toeslagpartner is generally anyone living at the same address as you who is registered there. If your partner moves in or out, update Mijn Toeslagen immediately. Their income affects your household toetsingsinkomen, which determines the toeslag amount.
+
+For kinderopvangtoeslag, both you and your partner need to be working or studying. If your partner stops working — takes unpaid leave, loses their job — you need to update your application. During a gap in employment, kinderopvangtoeslag may stop or reduce unless your partner is in an approved integration or study programme.
+
+### DigiD Issues
+
+All toeslagen management requires a working DigiD. If your DigiD expires or you lose access, you cannot update your income estimate, report changes, or respond to reconciliation notices. Check your DigiD expiry date annually — renewal takes 5 business days by post. See our [DigiD guide](/guides/legal/digid-guide-expats-2026/) for the renewal process.
+
+---
+
+## Toeslagen and the 30% Ruling: A Deeper Look
+
+This comes up often enough that it deserves a more detailed explanation. Many expats with the 30% ruling assume they earn too much to qualify for toeslagen. In some cases, that is correct — but not always.
+
+The 30% ruling reduces your **toetsingsinkomen** (the income used to assess toeslag eligibility) because the 30% tax-free allowance portion of your salary is not included in your taxable income. Let me make this concrete.
+
+Suppose your gross salary is EUR 55,000 per year and you have the 30% ruling.
+
+- Without the ruling: taxable income = EUR 55,000 → above the zorgtoeslag single threshold of ~EUR 38,520, no allowance
+- With the ruling: taxable income = EUR 38,500 (70% of EUR 55,000) → just below the threshold, potentially eligible for a small zorgtoeslag
+
+At a gross salary of EUR 50,000 with the 30% ruling, your taxable income is EUR 35,000 — well within zorgtoeslag eligibility range for a single person. That can mean EUR 800-1,300 per year in healthcare allowance you might have assumed was out of reach.
+
+The same arithmetic applies to huurtoeslag, though the rent ceiling still applies. If you live in a city where rentals are below EUR 880/month and your taxable income is below ~EUR 33,000, you may qualify for both.
+
+**The calculation is simple to check:** divide your gross salary by 0.7 to see your approximate toetsingsinkomen under the ruling. If that figure is below the relevant threshold, apply. If you are unsure, use the toeslag calculator at toeslagen.nl — it takes about 5 minutes and is surprisingly accurate.
+
+One thing to be aware of: when the 30% ruling ends, your toetsingsinkomen jumps up. If you have been receiving toeslagen based on the lower taxable income, you will need to update your income estimate in Mijn Toeslagen in the month your ruling expires. Failing to do this leads to a substantial terugvordering at year-end, because the advance payments continue at the lower rate even though your taxable income has increased.
+
+The [30% ruling guide](/guides/finance/30-percent-ruling-netherlands-2026/) explains the ruling's broader tax implications in detail, and the [30% ruling calculator](/tools/30-percent-ruling-calculator/) lets you model the effect on your net income. Understanding how the ruling interacts with toeslagen is one of the more financially impactful pieces of knowledge an expat in the Netherlands can have — and it is one that most people learn far too late.

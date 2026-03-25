@@ -289,4 +289,58 @@ Each claim-free year moves you up a step, increasing your discount. A fault clai
 
 ---
 
+---
+
+## Switching Insurers in the Netherlands
+
+If you are already insured and want to switch, the process is straightforward. Most Dutch car insurance policies can be cancelled with one month's notice. Your schadevrije jaren travel with you automatically via Roy-Data, so you do not need to gather paperwork when moving between Dutch insurers.
+
+**When to review your policy:**
+- At the annual renewal date
+- When your car changes significantly in value
+- After one or two claim-free years push you up the ladder significantly
+- When your circumstances change (more experience, lower mileage, new address with lower theft risk)
+
+Using Independer at renewal each year takes about 10 minutes and regularly finds cheaper equivalent coverage. I have saved EUR 20–40 per month doing this after my first year here. The Dutch market is competitive and insurers price for new customers more aggressively than for renewals.
+
+---
+
+## What Happens If You Are in an Accident
+
+### At the Scene
+
+The first priority is safety. If anyone is injured, call 112. For minor damage-only accidents, the Dutch process is:
+
+1. Move vehicles off the road if possible and safe
+2. Exchange details with the other driver: name, address, phone number, insurer name, policy number, and vehicle registration
+3. Complete a European Accident Statement (Europees Schadeformulier — EAS) together if available. Keep a blank form in your glovebox. You can download it from most Dutch insurers' websites or pick one up at any NS station
+4. Take photos of both vehicles, the damage, the road position, and any relevant traffic signs
+5. Note the names and contact details of any witnesses
+
+Do not accept fault or make payments at the scene. The insurers sort out liability.
+
+### Reporting the Claim
+
+Contact your insurer as soon as possible — most major Dutch insurers (Centraal Beheer, Interpolis, ANWB) have 24-hour claim lines and apps. Many claims can now be submitted entirely via smartphone with photos.
+
+Your insurer will tell you whether to take the car to a recognised repair shop (contracted garage network) or get your own assessment. Using a contracted shop is usually faster and simpler.
+
+### After a Fault Claim
+
+Your schadevrije jaren step will drop back. The exact number of steps depends on the insurer and the claim size, but a typical fault claim drops you back 3–5 steps. This means a higher premium for the next few years. Some policies include a "no-claims protection" add-on that allows one fault claim without a step reduction — worth considering if you are at a high step.
+
+---
+
+## Insuring an Imported or Foreign-Registered Vehicle
+
+If you are bringing a car from another country, the process depends on your situation:
+
+**EU-registered vehicle:** You can drive an EU-registered vehicle on valid foreign insurance for up to three months. To keep it beyond this or to register it in the Netherlands, you need Dutch insurance and Dutch registration (kentekenbewijs).
+
+**Non-EU-registered vehicle:** Customs import duties and RDW approval apply before the vehicle can be registered. You need Dutch insurance arranged before attempting registration.
+
+**Company car or lease:** If your employer provides a car, insurance is typically arranged by the leasing company or employer. Confirm what coverage you have and whether it extends to personal use and family members.
+
+---
+
 *Related reading: [Register a Car in the Netherlands as an Expat](/guides/daily-life/register-car-netherlands-expat-2026/) | [Driving in the Netherlands Guide](/guides/daily-life/driving-in-netherlands-guide-2026/) | [Exchange Your Driving Licence in the Netherlands](/guides/daily-life/exchange-driving-license-netherlands-2026/) | [Best Internet Providers Netherlands](/guides/daily-life/best-internet-providers-netherlands-2026/) | [OV Chipkaart Guide for Expats](/guides/daily-life/ov-chipkaart-guide-expats-2026/)*

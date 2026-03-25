@@ -395,4 +395,26 @@ Your healthcare eigen risico (€385 mandatory deductible) is a healthcare cost 
 
 A more practical approach: keep one to three months of living expenses as an emergency fund in a savings account (a Dutch savings account typically earns some interest), and invest anything above that systematically. If the eigen risico comes due, it comes out of your emergency buffer, which you replenish from income over the following months.
 
+## Transferring Existing Investments When You Arrive in the Netherlands
+
+If you had investments in your home country before moving, you have a few decisions to make.
+
+**Keep your home country broker:** In many cases, you can keep a brokerage account open in your home country and continue holding existing positions. You declare these positions in Box 3 (or the relevant box if they produce income, such as Box 1 dividends in some cases) on your Dutch tax return. If you are on the 30% ruling and have elected partial non-residency, foreign-held investments may be outside Dutch Box 3 entirely — worth confirming with a tax advisor.
+
+**Transfer to a Dutch or EU platform:** If you held investments through a broker that no longer accepts Dutch-resident clients (some US brokers closed European accounts after Brexit-era regulatory changes), you may need to transfer to DEGIRO, IBKR, or similar. IBKR accepts in-kind transfers from many international brokers, which allows you to move a portfolio without selling and repurchasing (and incurring transaction costs).
+
+**ISA holders (UK expats):** UK ISAs remain tax-free in the UK after you leave (for tax already sheltered), but you cannot contribute to an ISA once you are not a UK resident. Your ISA is not recognised as a tax-exempt structure in the Netherlands — you declare the contents in Box 3. The good news: existing ISA holdings continue to grow tax-free in the UK context; the Dutch Box 3 tax is the only Dutch implication.
+
+**Pension pots:** Pension assets (private pensions, SIPPs, 401(k)s, etc.) are generally treated differently from investments under Dutch tax law and are usually reported in a specific way on your return. This is a specialist area — a tax advisor who handles cross-border situations should advise on how your specific pension structure is treated.
+
+---
+
+## Rebalancing and Managing Your Portfolio as an Expat
+
+One practical advantage of being in the Netherlands versus some other European countries: the Box 3 system does not create a tax incentive to avoid rebalancing. In countries with capital gains tax, rebalancing (selling over-weighted positions) can trigger a tax bill. In the Netherlands, because Box 3 taxes your total wealth regardless of realised gains, selling and rebalancing within a year has no additional tax consequence.
+
+This means expat investors in the Netherlands can rebalance their portfolios when their allocation drifts without worrying about tax timing — a genuine administrative simplification.
+
+---
+
 *This article is for information purposes only and does not constitute financial advice. Consult a licensed financial advisor and a Dutch tax professional for advice specific to your situation.*

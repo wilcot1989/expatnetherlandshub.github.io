@@ -317,6 +317,40 @@ Not sure which Dutch insurance package is right for your situation? Our [health 
 
 ---
 
+## Practical Guide to Switching Health Insurers
+
+The November-December open enrollment period (overstapperiode) is the one time each year you can switch your basisverzekering without penalty. This happens every year, and every year I see expats who should switch but do not, either because they did not know they could or because the process feels complicated.
+
+It is not. Here is the practical process:
+
+**Step 1 — Compare options:** Use Independer, Zorgwijzer, or Pricewise to compare policies on both premium and coverage. The basic coverage is identical by law — what differs is the premium, supplementary options, and service quality.
+
+**Step 2 — Check your supplementary insurance:** If you have aanvullende verzekering (supplementary coverage) that you actually use — dental, physiotherapy, glasses — check whether the new insurer covers the same things at a comparable cost. Sometimes the cheapest basic policy has poor supplementary options.
+
+**Step 3 — Register with the new insurer:** Do this before December 31. Your new insurer handles the cancellation of your old policy — you do not need to cancel it yourself. Start the switch at least a week before December 31 to allow processing time.
+
+**Step 4 — Confirm your huisarts network:** Check that your preferred GP and any specialists you see regularly are in the new insurer's contracted network. Dutch health insurance has both "naturapolis" (network-restricted) and "restitutiepolis" (reimburses any provider) models. Naturapolis is cheaper; restitutiepolis gives more freedom.
+
+**When NOT to switch:** If you have reached your eigen risico threshold for the year through healthcare use, consider whether switching makes sense. Your deductible resets every January regardless — there is no continuity benefit from staying with the same insurer from a deductible perspective.
+
+---
+
+## Group Insurance Through Your Employer
+
+Many Dutch employers offer group health insurance (collectieve zorgverzekering) at a discounted rate, typically 5-15% below individual market rates. This is worth checking with your HR department before you go through the open market comparison process.
+
+The discount is available because insurers offer lower rates for group contracts. The employer is not subsidising this from their own budget — you still pay the full premium — but the group rate is lower than what you would pay individually.
+
+**Things to check about employer group insurance:**
+- Is the insurer one of the good ones for English-language support? (Not all group contract insurers are equally expat-friendly)
+- What supplementary options are included?
+- Can you add dependents at the same group rate?
+- What happens to the group rate if you leave the employer?
+
+If the employer's group contract works for you, use it. If not, the open market is equally accessible and you are not obliged to use the employer's insurer.
+
+---
+
 ## Explore More Expat Guides
 
 - **[Complete Guide to Moving to the Netherlands](/guides/legal/complete-guide-moving-to-netherlands-2026/)** — Everything you need to know

@@ -214,6 +214,46 @@ For international money transfers — bringing funds from abroad to cover buying
 - [Retiring in the Netherlands: Expat Guide](/blog/retiring-in-netherlands-expat-guide-2026/)
 - [Side Hustle and Passive Income Netherlands 2026](/blog/side-hustle-passive-income-netherlands-2026/)
 
+## Questions to Ask Any Dutch Mortgage Broker
+
+Before committing to a broker, I recommend having a short introductory call and asking these specific questions:
+
+1. **How many expat mortgage applications have you handled in the last year?** A broker who handles a dozen expat cases per year will know the market very differently from one who does one or two.
+
+2. **Which lenders do you work with, and which have been most flexible for clients in my situation?** This reveals whether they are genuinely independent or effectively channelling most business to a few preferred lenders.
+
+3. **What is your fee structure, and when is it payable?** Some brokers charge upfront, others on approval, others at completion. Know this before you start.
+
+4. **What is your experience with [my specific complication]?** Whether that is a temporary permit, self-employed income, foreign-currency income, or very recent arrival — ask specifically.
+
+5. **How do you handle cases where a lender declines?** A good broker has a plan B and C. A weaker one may not.
+
+6. **Can you provide references from other expat clients?** Not always possible due to privacy, but asking shows you are serious and may prompt them to connect you with a willing past client.
+
+---
+
+## Buying Your First Dutch Property: A Realistic Timeline
+
+Many expats underestimate how long the entire purchase process takes. Here is a realistic end-to-end timeline:
+
+| Phase | Duration |
+|-------|---------|
+| Finding and selecting a broker | 1–2 weeks |
+| Initial consultation and indicative mortgage calculation | 1 week |
+| Active property search (highly variable) | 4 weeks–6 months |
+| Offer accepted to signed purchase agreement | 2–5 days |
+| Full mortgage application submitted | 1–2 weeks after signing |
+| Lender processing and approval | 4–8 weeks |
+| Property appraisal (ordered by lender) | 1–2 weeks (within above period) |
+| Mortgage offer received and accepted | 1 week |
+| Notary completion date | Typically 2–4 weeks after offer |
+
+**Total from first broker contact to keys in hand: typically 3–9 months**
+
+The property search phase is the most variable. In a competitive city like Amsterdam or Utrecht, you may view 20 properties before winning a bid. In other markets (Eindhoven, Groningen, smaller cities) the process can move faster.
+
+---
+
 ## FAQ
 
 **Do expats need a mortgage broker to buy a home in the Netherlands?**

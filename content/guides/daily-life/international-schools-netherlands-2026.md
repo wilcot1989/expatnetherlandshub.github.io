@@ -295,7 +295,41 @@ While fully private international schools receive no government funding, there a
 - **Kinderopvangtoeslag** — Childcare subsidies (for BSO/after-school care) are available for international school children, based on income.
 - **Sibling discounts** — Some schools offer 5-15% discounts for second and subsequent children.
 
-When your child transitions to an international school, helping them connect with Dutch peers outside school hours makes a big difference. Our inburgering route builder can also help you (as the parent) handle the integration process alongside your child's schooling.
+When your child transitions to an international school, helping them connect with Dutch peers outside school hours makes a big difference.
+
+---
+
+## Comparing Curriculum Types: Which Is Right for Your Child?
+
+Choosing between curriculum types is often the most important educational decision expat parents make. Here is the practical breakdown.
+
+**International Baccalaureate (IB):**
+The IB is the most portable curriculum globally. If you move countries frequently, IB qualifications are recognised almost everywhere. The IB Primary Years Programme (PYP, ages 3–12), Middle Years Programme (MYP, ages 11–16), and Diploma Programme (DP, ages 16–19) form a coherent pathway. The DP is highly regarded by universities worldwide, including in the Netherlands, UK, US, and elsewhere. IB schools in the Netherlands include the International School of Amsterdam (ISA), the British School in the Netherlands (BSN primary), and others.
+
+Consideration: IB is academically demanding, particularly at the DP level. It rewards students who are comfortable with independent research, extended essays, and multiple assessed components. If your child will be applying to Dutch universities, the IB diploma is accepted.
+
+**British Curriculum (National Curriculum / GCSE / A-Levels):**
+The British curriculum is familiar and highly regarded internationally. GCSE results at 16 and A-Levels at 18 are recognised by UK universities and increasingly by other international institutions. The British School in the Netherlands (BSN) and several smaller schools follow this curriculum. A-Level results are often the most direct path back to UK university entry.
+
+**American Curriculum:**
+Less common in the Netherlands than IB or British, but available at the American School of the Hague and a few other institutions. Suitable for families who expect to return to the US for university. The curriculum culminates in a US high school diploma with AP (Advanced Placement) courses for university preparation.
+
+**Dutch International Schools (Tweetalig Onderwijs — TTO):**
+Several Dutch schools offer bilingual education (Dutch and English) within the Dutch national curriculum. These are significantly cheaper (often free or with nominal fees for registered Dutch residents) but require the child to engage substantially with Dutch. For expats planning a 5+ year stay with the intention of integrating, TTO can be an excellent option that bridges international and local education.
+
+---
+
+## Settling Your Child Into School
+
+The transition to a new school in a new country is a significant life event for children. A few things that genuinely help:
+
+**Before starting:** Visit the school with your child before the first day if at all possible. A physical visit reduces first-day anxiety enormously. Most international schools offer this for new students.
+
+**The language adjustment:** Even in an English-medium school, children who are not native English speakers face a language challenge. Most international schools have EAL (English as an Additional Language) support built in. Discuss your child's current language level with the admissions team before starting.
+
+**Social adjustment:** International schools are actually well-designed for new arrivals because most students have experienced being new at some point. The culture tends to be welcoming. Encourage your child to join after-school activities, sports, or clubs from the first week — social connections through shared interests form faster than classroom friendships.
+
+**For parents:** Get to know other parents through the school's parent community or parent-teacher organisation (often called the PTA or school council). International school parent networks are usually active and are one of the best sources of practical local knowledge for newly arrived expat families. Our inburgering route builder can also help you (as the parent) handle the integration process alongside your child's schooling.
 
 <a href="/tools/inburgering-route-builder/" class="cta-affiliate">Check your own integration requirements →</a>
 

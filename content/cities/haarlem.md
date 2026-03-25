@@ -112,6 +112,56 @@ Moving to Haarlem requires a few first steps. Here are the most important ones:
 
 **Plan your budget** — Use our free [cost of living calculator](/tools/cost-of-living-calculator/) and [housing budget checker](/tools/housing-budget-checker/) to see what you can afford in Haarlem.
 
+## Expat Community & Social Life
+
+Haarlem has a genuine expat community, shaped primarily by the Amsterdam overflow. Most of the international residents I know here came from Amsterdam — they moved when the housing costs became too high or when they had children and needed more space. That common origin creates a social foundation that is easier to connect with than in cities where expats are clustered around a single employer or institution.
+
+The Haarlem Expats Facebook group is active and useful for practical questions. There are English-speaking sports clubs, a running club (Haarlem Hash House Harriers for those who know the format), and enough social infrastructure that you can build a life here without constantly travelling to Amsterdam for social contact.
+
+The Saturday market on the Grote Markt is one of the better weekly markets in the Netherlands — worth adding to your routine from the first week. The Frans Hals Museum, the Teylers Museum (the oldest museum in the Netherlands, housed in an 18th-century building on the Spaarne), and the Corrie ten Boom House give the city a cultural weight that is disproportionate to its size.
+
+The Zandvoort beach is a genuine amenity if you live in Haarlem. In summer, a direct seasonal train service runs from Haarlem Centraal to Zandvoort aan Zee in 12–15 minutes. By bike, it is 25–30 minutes through the dunes. Having a North Sea beach within easy reach is not something most Dutch cities can offer.
+
+## Haarlem vs Amsterdam: The Honest Assessment
+
+I get asked this comparison more than any other. Here is what I genuinely think:
+
+If you work in central Amsterdam or at Schiphol, the commute from Haarlem is manageable. Fifteen minutes on the train is less friction than many Amsterdam residents deal with commuting across the city on a tram that gets stuck in traffic.
+
+The social life in Haarlem is smaller but the quality of daily life — space, quiet, access to the market, the beach, the parks — is higher in ways that matter more once you have been in the Netherlands a few years and the novelty of Amsterdam wears off.
+
+The honest negative: Haarlem has absorbed a lot of Amsterdam demand since 2022, and rents have risen accordingly. The savings versus Amsterdam are real but smaller than they were three or four years ago. If pure cost savings are the goal, Rotterdam or Breda are stronger bets. If quality of daily life combined with Amsterdam job market access is the goal, Haarlem is one of the better answers.
+
+## Housing Search: Practical Advice
+
+Haarlem's rental market is competitive for well-located Centrum and Vijfhoek properties. Pararius and Funda are the main platforms. Local Haarlem agencies — Rotsvast, ERA Haarlem, and smaller independent makelaars — often have listings that appear before or instead of the national platforms, so searching locally as well as nationally is worth doing.
+
+Properties in the Centrum and Vijfhoek under €1,500/month for a one-bedroom receive multiple applications quickly. Noord and Schalkwijk properties are more manageable. Standard requirements: recent payslips, employment contract, employer declaration confirming salary.
+
+One practical note: Haarlem has a significant proportion of older housing stock. Canal-house apartments in the Centrum look beautiful but often have poor insulation, steep stairs with no lift access, and higher heating bills in winter. Check the energy label (energielabel) before signing — a D or E-rated property will cost meaningfully more to heat than an A or B-rated one.
+
+## Daily Life in Haarlem
+
+Haarlem's daily life has a rhythm that is easier to describe than to expect from reading about it. The city is large enough to have all the amenities you need without requiring trips to Amsterdam for basic things. The Tuesday and Saturday outdoor market on the Grote Markt is one of the better weekly markets in the northern Netherlands — genuinely used by residents rather than performatively quaint. The covered market at the Boter- and Vismarkt has everyday food shops.
+
+The independent retail scene on the Zijlstraat, Gierstraat, and surrounding streets survived the pressure from chain retail better than most Dutch city centres. You can buy good bread, reasonable wine, and well-made furniture within ten minutes of the Grote Markt without going to the same chains you find everywhere else.
+
+Zandvoort beach is the piece of Haarlem's geography that surprises new arrivals most. The Zandvoort aan Zee resort is 12–15 minutes by seasonal direct train from Haarlem Centraal, or 25–30 minutes by bike through the dune landscape. The dunes between Haarlem and the coast are part of the South Kennemerland National Park — the cycling route through them is one of the genuinely good cycling experiences near a Dutch city, passing through heathland and dune forest rather than polder.
+
+The Frans Hals Museum is one of the better city museums in the Netherlands — modest in scale but strong in content, with a permanent collection of Golden Age Haarlem painting in a building that is itself a former almshouse. The Teylers Museum, a ten-minute walk from the station along the Spaarne canal, is housed in an 18th-century cabinet-of-curiosities building and is unlike anything else in the Netherlands.
+
+## Settling In: The First Month
+
+1. Confirm housing with landlord permission to register at the address
+2. Book registration at Gemeente Haarlem, Stadskantoor on Zijlweg (via haarlem.nl)
+3. Attend appointment, receive BSN
+4. Open Dutch bank account
+5. Register for health insurance — mandatory from day one of residence
+6. Register with a GP; several Haarlem practices have English-speaking capacity
+7. Apply for DigiD after BSN is confirmed
+
+The Stadskantoor is reachable by bus from most parts of the city and by bike from the Centrum in about 15 minutes. Staff speak English. Bring your full document set — the list is: passport, rental contract, birth certificate (apostilled if not Dutch, English, French, or German), marriage certificate if applicable.
+
 ## Related Guides
 
 - [Moving to Haarlem: Complete Guide 2026](/guides/housing/moving-to-haarlem-guide-2026/)

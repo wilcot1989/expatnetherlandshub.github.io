@@ -279,3 +279,60 @@ Generally yes. All registered childcare providers in the Netherlands must meet g
 **What is the difference between a KDV and a BSO?**
 
 A KDV (kinderdagverblijf, daycare centre) cares for children aged 0-4, typically during full working days. A BSO (buitenschoolse opvang, after-school care) is for school-age children aged 4-12, providing care before school, after school, and during school holidays. Both are covered by kinderopvangtoeslag. Some organisations offer both types in the same building, which is practical if you have children of different ages.
+
+---
+
+## What Happens If You Change Jobs or Lose Your Work?
+
+Kinderopvangtoeslag is tied to both parents working or being in an approved activity. If one parent stops working, loses a job, or takes a career break, you must update your toeslagen application. The subsidy may be reduced or stopped depending on circumstances.
+
+**If you lose your job:** You typically have three months of continued kinderopvangtoeslag while you actively search for new employment or start retraining. During this period, keep your UWV (unemployment benefits office) paperwork in order and inform the Belastingdienst of your situation. After three months without employment or retraining, entitlement generally ends.
+
+**If you start parental leave:** Maternity leave, parental leave, and certain other forms of paid leave count as working for kinderopvangtoeslag purposes. Unpaid leave is treated differently — check with the Belastingdienst.
+
+**If your income changes significantly mid-year:** Update your estimated income on toeslagen.nl immediately. Waiting until the annual reconciliation risks either under-claiming what you are entitled to or building up a large repayment.
+
+---
+
+## Childcare During School Holidays
+
+BSO covers school holiday periods, but not automatically. You typically need to book holiday care slots with your BSO provider in advance, often months before the holiday period. School holidays in the Netherlands include:
+
+- Autumn holiday (herfstvakantie): 1 week in October
+- Christmas holiday (kerstvakantie): 2 weeks in December-January
+- Spring break (voorjaarsvakantie): 1 week in February or March
+- May holiday (meivakantie): around Liberation Day
+- Summer holiday (zomervakantie): 6 weeks in July-August
+
+Summer holiday BSO places are particularly in demand. Register your preferred weeks as early as January or February for July-August care. Kinderopvangtoeslag covers BSO during holidays at the same rate as regular BSO care.
+
+---
+
+## Changing Childcare Providers
+
+If you need to change providers — because you move, because your child is unhappy, or because you find better availability elsewhere — the process is:
+
+1. Check your current contract for notice period (typically one or two months)
+2. Find your new provider and confirm a start date
+3. Update your kinderopvangtoeslag application on toeslagen.nl with the new provider's LRK number
+4. You cannot claim subsidy for two providers simultaneously for the same child during an overlap period
+
+Keep all invoices from both providers during any transition month, as the Belastingdienst may request them during the annual reconciliation.
+
+---
+
+## Childcare for Children with Special Needs
+
+Children with additional care needs or disabilities can access adapted childcare in the Netherlands. Options include:
+
+**Specialised KDV places:** Some daycare centres have dedicated staff training for children with specific needs. Availability varies by city.
+
+**Indicatie:** A formal assessment through the local municipality or the CIZ (Centre for Long-term Care) may be needed to access additional funding or specialist care.
+
+**PGB (persoonsgebonden budget):** In some cases, parents of children with specific care needs can receive a personal care budget to arrange tailored care. This is complex and requires specialist advice.
+
+**School integration support:** From age 4, children with special needs may receive additional support within mainstream schools (passend onderwijs system). Ask your gemeente about available support.
+
+---
+
+*Related reading: [Maternity and Paternity Leave Netherlands](/guides/work/maternity-paternity-leave-netherlands-expats-2026/) | [Dutch Health Insurance for Expats](/guides/health/dutch-health-insurance-guide-expats-2026/) | [International Schools Netherlands](/guides/daily-life/international-schools-netherlands-2026/) | [Registering at the Gemeente](/guides/admin/registering-gemeente-netherlands-2026/)*

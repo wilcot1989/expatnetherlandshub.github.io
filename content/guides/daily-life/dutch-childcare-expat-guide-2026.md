@@ -260,6 +260,47 @@ If you arrive in the Netherlands without a daycare spot (it happens), there are 
 
 For a full picture of family costs in the Netherlands — childcare, housing, healthcare — see our [cost of living guide](/guides/housing/cost-of-living-netherlands-2026/).
 
+---
+
+## What Happens When Your Child Turns 4
+
+At age 4, your child starts Dutch primary school (basisschool). This is the transition point from daycare (KDV) to after-school care (BSO). A few things to plan for:
+
+**Starting school at 4 is not mandatory.** Children must be enrolled in school from the age of 5, but most Dutch parents start their children at 4. The transition usually happens the month after the child's fourth birthday — check with your local school for the exact policy.
+
+**BSO registration:** If you need after-school care, register with a BSO well before your child's fourth birthday. In busy cities, popular BSO providers have waiting lists of months, just like daycare. Start the BSO search when your child is 3.
+
+**The school day is shorter than in many countries.** Dutch primary school typically ends between 14:30 and 15:30. If you work full-time, you will need BSO for the school-hour gap. Schools with integrated BSO (combining in the same building) are convenient — ask your local school whether they have or are affiliated with a BSO.
+
+**Language transition:** If your child has been in English-language or bilingual daycare, transitioning to a Dutch primary school requires language support. Many Dutch primary schools are experienced at integrating non-Dutch-speaking children. Discuss the transition with the school in advance.
+
+---
+
+## Childcare During the Wenperiode (Settling-In)
+
+The wenperiode (settling-in period) is the transition phase when a new child joins a daycare centre. Most reputable Dutch KDVs structure this carefully.
+
+**Standard wenperiode process:**
+- Day 1: Parent stays with the child for 1–2 hours, child stays for 1–2 hours
+- Days 2–3: Child stays for a half-day, parent available by phone
+- Week 2: Child moves to full sessions
+
+This gradual approach is based on attachment theory and is legally required to be offered by registered daycare providers in the Netherlands. If a provider does not mention a settling-in period, ask about it — it is a sign of quality.
+
+**For expat families:** If the child does not speak Dutch, the settling-in period can be longer. Staff at good daycare providers are experienced at working with children who are in a language-unfamiliar environment. The key is consistent, warm caregiving during the transition, which good Dutch providers are well-trained to offer.
+
+---
+
+## DigiD and Toeslagen: The Practical Side
+
+To receive kinderopvangtoeslag, you must apply via toeslagen.nl, which requires a DigiD. If you do not have a DigiD yet, getting one is the first step — see our [DigiD guide for expats](/guides/legal/digid-guide-expats-2026/).
+
+**Key things to get right on your toeslagen application:**
+- Enter the correct LRK number for your childcare provider (find it on landelijkregisterkinderopvang.nl)
+- Use an accurate income estimate — if you overestimate income, you under-claim; if you underestimate significantly, you will face a repayment at year-end
+- Update your estimate if your income changes significantly during the year
+- Apply from the first month you use childcare — you cannot claim retroactively for months before your application date
+
 ## Explore More Expat Guides
 
 - **[Complete Guide to Moving to the Netherlands](/guides/legal/complete-guide-moving-to-netherlands-2026/)** — Getting started
@@ -268,6 +309,40 @@ For a full picture of family costs in the Netherlands — childcare, housing, he
 - **[Cost of Living Netherlands](/guides/housing/cost-of-living-netherlands-2026/)** — Full family budget
 - **[Best Expat Insurance](/guides/health/best-expat-insurance-netherlands-2026/)** — Family health coverage
 - **[Moving to The Hague](/guides/housing/moving-to-the-hague-guide-2026/)** — Family-friendly neighborhoods
+
+---
+
+## Kinderopvangtoeslag: Making Childcare Affordable
+
+The Dutch childcare allowance (kinderopvangtoeslag) can cover 70–96% of your childcare costs depending on your household income. This makes Dutch childcare significantly more affordable in practice than the listed prices suggest. Here is how it works:
+
+**Who qualifies:** Both parents must be working or studying. The childcare provider must be on the Landelijk Register Kinderopvang (LRK) — the national registry of approved providers. Most registered dagopvang and BSO automatically qualify.
+
+**How much do you get:** The allowance covers a maximum hourly rate (maximumuurtarief, adjusted annually — approximately €9.65/hour for daycare in 2026). Your percentage of coverage depends on your joint income:
+
+| Household income | Coverage percentage |
+|---|---|
+| Up to €20,000 | 96% |
+| €30,000 | 89% |
+| €50,000 | 78% |
+| €80,000 | 68% |
+| €120,000+ | 54% |
+
+**How to apply:** Through Mijn Toeslagen on the Belastingdienst website, using your DigiD. Apply as soon as your child starts at the childcare provider — you can receive the allowance from the application date but not retroactively. This is a common mistake: waiting until you have found a permanent spot before applying means losing weeks of allowance.
+
+**The reconciliation risk:** Like all toeslagen, kinderopvangtoeslag is an advance based on estimated income. If your actual income differs from your estimate, the Belastingdienst reconciles at year-end. Under-estimating income means a terugvordering (repayment demand). If your income changes significantly during the year, update your estimate proactively — do not wait for the annual reconciliation.
+
+## From Crèche to School: The Dutch Childcare-Education Transition
+
+The transition from kinderopvang to basisschool (primary school) is smoother than in many countries because it is partly overlapping. Key dates:
+
+**Age 4: Basisschool starts.** Dutch children can start basisschool from the day they turn 4. There is no fixed September intake — children join throughout the year on their fourth birthday. This means classes have a continuous range of ages and maturity levels.
+
+**Age 4–5 in basisschool:** The first two years (groep 1 and groep 2) of Dutch primary school function similarly to UK reception and Year 1 or US kindergarten — play-based learning, no formal reading instruction, social development focus.
+
+**Tussenschoolse opvang (TSO):** Many basisschools have a TSO or overblijf — supervised lunch and playtime for children whose parents work. This is usually organised by parent volunteers and costs around €4–€6 per day. Factor this in if both parents work full days.
+
+**BSO alongside school:** When school starts, children no longer need full-day daycare. BSO provides before-school care (for 7:30–8:30 collection) and after-school care (typically 3–6pm). The BSO can be at the same location as the dagopvang you used previously, or at a different provider near the school. This transition requires replanning your childcare arrangement — the kinderopvang coordinator at your current provider can advise on timing.
 
 ---
 

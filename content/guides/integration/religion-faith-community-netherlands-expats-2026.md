@@ -210,3 +210,71 @@ Yes. The NPO (public broadcaster) has a dedicated religious and philosophy progr
 ### Are there any tensions between religious communities and Dutch secular society?
 
 The main areas of tension in recent years have involved questions around Islamic schools, headscarves in certain public sector roles, and exemptions from equal treatment law requested by religious organisations. These are genuine policy debates, but they do not translate to hostility toward individual religious people in daily life. The Netherlands remains constitutionally committed to freedom of religion. For broader context on Dutch social norms and how directness shapes daily interactions, see our [Dutch culture and directness guide](/guides/integration/dutch-culture-humor-directness-explained-2026/).
+
+---
+
+## Religious Holidays and Dutch Working Life
+
+The Netherlands officially recognises a number of religious holidays as national public holidays (nationale feestdagen):
+
+- **Good Friday (Goede Vrijdag):** Not a national public holiday in law, but widely observed in business
+- **Easter Sunday and Monday (Eerste and Tweede Paasdag):** Public holidays
+- **Ascension Day (Hemelvaartsdag):** Public holiday (40 days after Easter)
+- **Whit Monday (Tweede Pinksterdag):** Public holiday
+- **Christmas Day and Boxing Day (Eerste and Tweede Kerstdag):** Public holidays
+
+For Muslim employees, Friday prayer (Jumah) and Eid holidays are not national public holidays. Employees can request time off for Eid using their annual leave entitlement. Dutch employers are generally cooperative with this. Be direct about your request in advance — Dutch work culture responds well to clear, practical requests framed around scheduling rather than permission-seeking.
+
+For Jewish employees, the High Holy Days (Rosh Hashanah, Yom Kippur) and Passover similarly require vacation days. The Amsterdam Jewish community has a specific history and infrastructure that makes observance in Amsterdam more feasible than in smaller cities.
+
+## Faith as a Social Entry Point
+
+One aspect of religious community that is often underestimated by new arrivals is its social function. For many expats — particularly those who are not professionally connected to large organisations or universities — a religious community is one of the fastest ways to form genuine local friendships.
+
+The reason is structural: religious communities meet regularly, have shared activities and projects, include members of all ages and backgrounds, and have an inherent orientation toward welcoming newcomers. Unlike a gym or a hobby club, a faith community is explicitly designed around belonging.
+
+If you are part of a faith tradition, I would encourage you to find your local community within the first month of arrival — not because religion will solve social loneliness automatically, but because the infrastructure for connection is already there. Show up consistently, volunteer for practical tasks, and the relationships tend to follow.
+
+For expats who are not religious but are looking for community, the broader secular volunteering landscape (covered in the [volunteering guide](/guides/integration/volunteering-netherlands-expats-2026/)) provides a parallel structure.
+
+## A Note on the Netherlands' Secular Majority
+
+The majority of Dutch people identify as non-religious (around 55% in recent surveys). This does not mean the Netherlands is hostile to religion — it is genuinely tolerant in both the legal and cultural sense. But it does mean that religion is not a common topic in Dutch social and professional conversation. Dutch colleagues may not know that you observe religious practices, may not ask, and will not assume. This can feel isolating if you are used to religion being a more visible part of everyday social life.
+
+Being matter-of-fact about your faith practices — "I will be leaving early on Friday for prayer" or "I do not eat during Ramadan, so I will skip the team lunch this month" — is the Dutch approach. The directness that characterises Dutch communication applies here too. Clear, practical communication about what you need is received far better than vague hinting or avoidance.
+
+## Finding Religious Community: A City-by-City Guide
+
+**Amsterdam:**
+Amsterdam has the widest range of religious communities of any Dutch city. The English-language church options are particularly strong:
+
+- **Amsterdam Community Church:** Evangelical, English-language, international congregation meeting centrally
+- **Westerkerk:** The historic Reformed church where Rembrandt is buried; several Dutch-language services plus English services
+- **St. John and St. Ursula:** English-speaking Catholic community
+- **Amsterdam's Jewish Quarter:** The Joods Historisch Museum area hosts several synagogues; the Liberal Jewish Community (LJG Amsterdam) is active and welcoming
+- **Mosque options:** Over 40 mosques in Amsterdam, including large community mosques in Slotervaart and Surinameplein serving Turkish, Moroccan, and international Muslim communities
+
+**Rotterdam:**
+Rotterdam's diverse population is reflected in its religious landscape. The Rotterdam Islamic Foundation (Islamitische Stichting Nederland) runs several major mosques. The international church community includes Redeemer Rotterdam (international evangelical), Rotterdam English Reformed Church, and several Indonesian-Dutch congregations reflecting the colonial history.
+
+**The Hague:**
+The diplomatic community's presence in The Hague creates a notably international religious landscape. The American Church of The Hague (Protestant), the Church of England congregation at St. John and St. Philip, and the international Catholic community at the Cathedrale Basiliek serve the diplomatic expat population specifically.
+
+**Utrecht:**
+Utrecht has an active student religious community alongside the established city congregations. The Domkerk (the great Gothic cathedral) is central to city identity. Several international and English-language evangelical congregations operate alongside traditional Dutch Reformed communities.
+
+**Eindhoven:**
+Eindhoven's international technical community (particularly the ASML workforce and TU/e faculty) has created demand for English-language religious services. The International Church of Eindhoven and the international Catholic Mass serve this community.
+
+## The Legal Framework: Religious Freedom in the Netherlands
+
+The Netherlands' approach to religious freedom is anchored in Article 6 of the Dutch Constitution, which guarantees freedom of religion in both private and organised forms. This right is broad and consistently upheld. In practice, it means:
+
+- Religious organisations can operate freely without state registration requirements
+- Religious schools can teach within their faith tradition (subject to national curriculum standards)
+- Employers must accommodate reasonable religious practice (prayer breaks, religious dress, time off for religious observance) unless there is a specific and documented operational reason not to
+- Religious communities can own property, build places of worship (subject to standard planning permissions), and receive tax-exempt status as charities (ANBI status)
+
+The separation of church and state (scheiding van kerk en staat) is a constitutional principle, which means the state does not fund religious activities — but equally does not interfere with them. Religious organisations fund themselves through donations (vrijwillige bijdragen) and, for recognised charities, can receive tax-deductible donations.
+
+For expats coming from countries with state religions or state-controlled religious organisations, the Dutch framework can feel unusually open and unregulated — in a good way. Your faith community operates on its own terms, not at the discretion of a government ministry. If you want to establish a new religious community or register an existing one as a charity, the ANBI (Algemeen Nut Beogende Instelling) registration process through the Belastingdienst is the route to take — it enables tax-deductible donations and exempts the organisation from certain taxes. The process is straightforward and fully documented on the Belastingdienst website in Dutch, with English guidance available through legal advisors.

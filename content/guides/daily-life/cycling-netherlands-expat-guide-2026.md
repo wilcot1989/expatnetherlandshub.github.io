@@ -345,3 +345,58 @@ Also worth checking: does cycling fit your commute? Use our tools to compare tra
 <a href="/tools/" class="cta-affiliate">Plan your Dutch transport budget →</a>
 
 Welcome to the cycling nation.
+
+---
+
+## Cycling Etiquette: What Dutch Cyclists Expect From You
+
+Cycling in the Netherlands has a culture, not just a rulebook. Understanding the unwritten norms makes you a better cyclist and avoids the silent annoyance of Dutch cyclists around you.
+
+**Keep right unless overtaking.** Dutch cycle paths are wide enough for two, but the left lane is for passing. If you are cycling slowly (phone out, distracted, heavy panniers), stay right.
+
+**Signal your intentions.** Hand signals are not optional — extend your arm out to the side when turning. Dutch cyclists read each other's intentions constantly. The moment you stop signalling, you become unpredictable.
+
+**Do not cycle two abreast on busy paths.** Side-by-side cycling is common on quiet paths and dedicated cycle roads. On a busy commute path, it creates an annoying bottleneck. Read the traffic around you.
+
+**The bell.** Use it to warn pedestrians who have wandered into the cycle path (a constant hazard), not to express frustration at other cyclists. A firm "hm hm" from the throat achieves the same thing in Dutch cycling culture.
+
+**Tram rails in Amsterdam.** If you cycle in Amsterdam specifically, tram rails (tramrails) are a genuine hazard. Approach them at an angle (never parallel) to avoid catching your wheel in the groove. This causes falls and injuries every day among new cyclists and tourists.
+
+**Roundabouts.** On Dutch roundabouts, cyclists on the cycle path that crosses the roundabout have priority over entering cars. This is not obvious to drivers from countries where this is not the case. As a cyclist, know your priority. As a driver, give it.
+
+---
+
+## Cycling in Different Weather
+
+The Netherlands is not a sunny Mediterranean country. You will cycle in the rain. You will cycle in the wind. Here is how to manage both without abandoning your bike for the bus.
+
+**Rain:** A good waterproof cycling jacket (regenjack) is worth the investment. Dutch cycling jackets are designed to be worn casually — they look like normal jackets rather than outdoor gear. Bike fenders (spatborden) on your wheels prevent the classic Dutch cycling look of a muddy stripe up your back. Most proper Dutch city bikes come with fenders already fitted.
+
+**Wind:** The Netherlands is flat and often extremely windy. Headwinds on a cycling commute can make a 15-minute journey feel like 25 minutes. The consolation is that the tailwind on the return journey more than compensates. Check Buienradar for wind direction before cycling — this is genuinely useful.
+
+**Ice and frost:** Rare in the Netherlands but it happens. When temperatures are below -1°C and paths may be icy, consider the tram. Ice on cycle paths causes accidents quickly and Dutch emergency rooms see a spike every time there is a freeze. The Dutch cycle in all conditions, but they also recognise when the risk-reward ratio has shifted.
+
+**The golden rule:** Dress in layers, carry a light rain cover in your bag, and plan for 5 extra minutes in bad weather. Within a month of regular Dutch cycling, you stop noticing the weather. The Dutch do not gear up with waterproof trousers and full cycling kit for the daily commute — they wear normal clothes and accept that a light rain jacket is part of the outfit. Once you adopt that approach, cycling in the Netherlands feels completely natural throughout the year.
+
+## Cycling with Children in the Netherlands
+
+One aspect of Dutch cycling culture that genuinely surprises most expats is how naturally children are incorporated into cycling life. The Dutch do not wait until children can cycle themselves before taking them along — babies and toddlers travel in cargo bikes (bakfiets) or bike seats from the earliest months.
+
+**Options for cycling with young children:**
+
+- **Bakfiets (cargo bike):** A long-frame cargo bike with a front box for children and cargo. The box typically fits 1–3 children aged 0–6 comfortably. Bakfiets are expensive new (€1,500–€4,000) but available second-hand on Marktplaats. Many families consider them the car replacement in the Netherlands.
+- **Front seat (voorstoeltje):** A child seat mounted on the front of the bike, between the parent and handlebars. Suitable from approximately 9 months to 3–4 years. Feels precarious at first; Dutch parents are entirely casual about it.
+- **Rear seat (achterzitje):** The most common option for ages 1–6. Mounted on the luggage rack. Standard on virtually every Dutch family bike.
+- **Trailer (fietsaanhanger):** A covered two-wheeled trailer towed behind the bike. Good for two children, weather protection, and carrying school bags. Less common than the above options but practical.
+
+**Dutch cycling schools (verkeersexamen):** Dutch children cycle to school from about age 4–5 and sit a formal traffic exam (verkeersexamen) at age 11–12. The cycling infrastructure — segregated paths, traffic-calmed streets — is designed partly with this in mind. Your children will quickly learn Dutch cycling culture by osmosis; the school commute is a daily cycling lesson.
+
+## Cycling Long Distance in the Netherlands
+
+The Netherlands has one of the world's best long-distance cycling route networks (LF-routes, or Landelijke Fietsroutes). If you want to explore the country by bike, these routes traverse the entire country through scenic areas, avoiding major roads:
+
+- **LF1 (North Sea Route):** From the Hoek van Holland to Den Helder along the coast — one of the most popular cycling routes in Europe
+- **LF4 (Middle Netherlands Route):** Utrecht to Middelburg through the river landscapes of Gelderland and Zeeland
+- **LF22 (IJmeer Route):** Amsterdam to Lelyden through reclaimed polder land
+
+Most LF routes are well-signed with hexagonal markers. Cycling maps (available at VVV tourist offices and cycling shops) cover the routes in detail. The Netherlands Cycling Union (ANWB) also produces excellent digital cycling maps. Cycling between Dutch cities is a genuine weekend activity — Amsterdam to Utrecht is 40km on flat paths; Rotterdam to Delft is 15km through the Randstad cycling network.

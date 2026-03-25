@@ -279,6 +279,41 @@ Here is a practical sequence for getting your finances in order when you arrive:
 
 ---
 
+## Finance Apps for Specific Expat Situations
+
+### For Expats Who Are Also ZZP (Freelancers)
+
+Freelancers need to manage business and personal finances separately. My recommended stack for self-employed expats:
+
+- **bunq Business**: separate business NL IBAN, iDEAL for business invoices, sub-accounts for tax reserves
+- **YNAB**: track business income vs personal spending side by side
+- **Wise**: receive payments from international clients without currency conversion fees
+- **Belastingdienst app**: quarterly BTW (VAT) returns and annual income tax filing
+- **DigiD**: mandatory for all government interactions
+
+The single most practical tip for ZZP expats: as soon as you receive any business income, move 30-35% into a separate account labelled "belasting" (tax). Dutch income tax plus healthcare contributions can reach 40%+ at middle income levels. Keeping a tax reserve account prevents the quarterly BTW and annual income tax from being a shock.
+
+### For Expats on the 30% Ruling
+
+If you qualify for the 30% ruling, some specific finance apps help you manage the financial benefits:
+
+- **Belastingdienst portal** (browser, not just app): the ruling interacts with your Box 3 (savings and investments) tax treatment in ways that are worth understanding before you make investment decisions
+- **A good budgeting app (YNAB)**: understanding your actual post-ruling net income takes some calculation — use the [salary checker tool](/tools/salary-checker/) first, then plug the numbers into your budget
+- **Wise or bunq**: if the ruling makes your Dutch salary significantly higher than you planned, it is a good moment to start regular international transfers or savings in your home currency
+
+The 30% ruling changes your net monthly income substantially — sometimes by EUR 400-800 per month at mid-level salaries. A budget set in month one without understanding the ruling will be completely wrong from month two onwards. See the [30% ruling calculator](/tools/30-percent-ruling-calculator/) for the numbers.
+
+### For Expats Preparing to Leave the Netherlands
+
+When you are approaching departure, your finance app stack needs to shift:
+
+- **Wise**: start consolidating any remaining money into your home currency gradually (spread over months to average the exchange rate)
+- **Belastingdienst**: file your final M-form (departure year migration tax return) — this is the complex one; see my [guide to the departure year tax return](/guides/finance/dutch-tax-return-how-to-file-2026/)
+- **DigiD**: do not deactivate this until your final tax return is fully processed — you may need it for correspondence with the Belastingdienst for up to two years after departure
+- **ING or ABN AMRO**: keep the account active until any final employer payments, tax refunds, or toeslagen have landed
+
+---
+
 ## Final Thoughts
 
 Managing money as an expat in the Netherlands is genuinely manageable — arguably more so than in many countries — once you have the right tools. The Dutch infrastructure for payments is excellent. The apps are good. The tax system, while complicated, is predictable.

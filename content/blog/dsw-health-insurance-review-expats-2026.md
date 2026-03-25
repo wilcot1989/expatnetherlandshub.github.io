@@ -336,6 +336,94 @@ Whatever you decide, compare before you commit. Premiums change each year, contr
 
 ---
 
+## DSW and Employer Group Schemes
+
+DSW does not have the same scale of employer collective insurance partnerships as VGZ or Zilveren Kruis, but they do offer group schemes, primarily for companies based in the Rotterdam and South Holland region.
+
+If your employer is based in Rotterdam or the surrounding area, it is worth asking HR whether a DSW group arrangement exists. A group discount of 3–8% off the standard premium is common where these arrangements exist. For a DSW restitutie policy at EUR 149/month, an 8% discount saves approximately EUR 143/year — real money over a multi-year stay in the Netherlands.
+
+Employers in the Rotterdam logistics sector, port operations, industrial, and chemical industry often have DSW arrangements given the insurer's regional roots.
+
+---
+
+## Understanding DSW's Contracted Care Network in Depth
+
+The contracted care network is the most important practical consideration for expats choosing between DSW and a national insurer. Here is a more specific breakdown.
+
+**Greater Rotterdam (Rotterdam, Schiedam, Vlaardingen, Capelle):** DSW's network is strongest here. All major hospitals (Erasmus MC, Maasstad Ziekenhuis, IJsselland Ziekenhuis, Ikazia), most specialist outpatient clinics, and the vast majority of physiotherapy practices and mental health providers are contracted.
+
+**South Holland (Dordrecht, Gouda, The Hague, Leiden):** Good network coverage. All major hospitals contracted. Some rural specialist practices may be non-contracted, but this rarely affects expats in urban centres.
+
+**Zeeland (Middelburg, Goes, Terneuzen):** DSW has contracted care arrangements with the main Zeeland hospitals and regional providers. Coverage is solid for the region.
+
+**Outside the above regions — Amsterdam, Utrecht, Eindhoven, Groningen:** DSW's contracted network thins out. Not zero — they have national agreements with many hospital chains — but the density of contracted specialists, physiotherapists, and mental health providers is lower. For these locations, a national insurer's network is meaningfully better.
+
+**What this means for you:** Before committing to DSW with a natura policy, check whether your GP, preferred hospital, and any specialists you see regularly are contracted. DSW's website has a zorgverlener zoeker (provider search) tool where you can enter your postcode and specialty to check coverage. This should take 10 minutes and is worth doing.
+
+---
+
+## DSW and Physiotherapy Coverage
+
+Physiotherapy comes up frequently in expat health insurance discussions, particularly for people who cycle, do sport, or have desk-related back or neck issues.
+
+Under DSW's basic policy:
+- Physiotherapy for chronic conditions listed in the government's chronic conditions list: covered from session one
+- Physiotherapy for non-chronic acute conditions (sports injury, back pain): not covered under the basic policy for sessions 1–20; covered from session 21 onwards
+
+In practice, most expats with acute physiotherapy needs are in the uncovered zone (sessions 1–20). This makes the supplementary package relevant.
+
+**DSW Aanvullend 2:** Covers 18 physiotherapy sessions per year beyond the basic policy. For someone who sees a physiotherapist 10–15 times per year for a sports injury or chronic back condition, this supplementary package often pays for itself in the first few months.
+
+**DSW Aanvullend 3:** Unlimited physiotherapy (with some conditions). For serious athletes or people with long-standing musculoskeletal conditions, this is worth calculating against the cost.
+
+---
+
+## The Zorgtoeslag (Healthcare Benefit) and DSW
+
+The zorgtoeslag is one of the most underused financial benefits for expats in the Netherlands. It is a government subsidy paid by the Belastingdienst (tax authority) to offset the cost of Dutch health insurance, available to anyone whose income falls below the income threshold.
+
+**2026 income thresholds (individual):**
+- Up to approximately EUR 38,000: eligible for some zorgtoeslag
+- Below EUR 25,000: eligible for approximately EUR 100–115/month
+
+Since DSW's premiums are among the lowest in the market, your effective cost after zorgtoeslag can be very low. At a moderate income of EUR 25,000, the zorgtoeslag might reduce your actual out-of-pocket insurance cost to approximately EUR 35–50 per month.
+
+You apply for zorgtoeslag through toeslagen.nl. You need a DigiD and a Dutch bank account. Apply as soon as you are registered and insured — the benefit can be backdated within the same calendar year but not to previous years.
+
+---
+
+## What Expats Actually Say About DSW
+
+I have spoken to a number of Rotterdam-based expats who use DSW. The feedback pattern is consistent:
+
+**What they like:**
+- "The premiums are genuinely lower. I checked Independer three years in a row. DSW is almost always cheaper or tied for cheapest."
+- "I have never had a problem at Erasmus MC. They just deal with DSW directly. I barely notice the insurance side of things."
+- "The app is basic but it works. I can check my eigen risico, submit a claim, see my policy. That's all I need."
+
+**What they find frustrating:**
+- "The formal letters are all in Dutch. Not incomprehensible Dutch but still Dutch. I always end up running it through DeepL."
+- "I once had a question about whether a specific treatment was covered. Getting a clear answer in English took three calls and a lot of patience."
+- "When I moved from Rotterdam to Amsterdam, I noticed the network coverage was less dense. I ended up switching to CZ."
+
+The last point is important. Several expats who initially chose DSW for its price eventually switched when their circumstances changed — a job move, a house purchase in a different city, a need for a specific specialist outside the contracted network. DSW is an excellent choice while you are in its home region; less so if you expect to move.
+
+---
+
+## DSW's Digital Tools and How They Work in Practice
+
+DSW's online portal (mijn.dsw.nl) and mobile app are functional without being exceptional. Here is an honest assessment of the key features.
+
+**Claim submission:** You log in, navigate to "Declaraties" (declarations/claims), upload the invoice or receipt, enter your bank account details, and submit. Processing typically takes 5–10 working days for standard supplementary claims. For direct-billed basic care (at contracted providers), you often do not need to submit anything — the provider handles it.
+
+**Eigen risico tracker:** The portal shows your current eigen risico consumption for the year. This is useful for planning — you can see how close you are to the EUR 385 threshold and make informed decisions about whether to schedule care before or after you cross it.
+
+**Coverage checker:** The DSW website has a tool that lets you check whether a specific provider is contracted. Enter the provider's name, the type of care, and your postcode. This is the most important tool to use before committing to a DSW natura policy.
+
+**Switching your GP:** DSW does not manage your GP registration — that is done directly between you and the huisarts. But DSW's coverage for GP care is universal (not contracted-network dependent), which means GP choice is not restricted by your insurer.
+
+---
+
 ## Frequently Asked Questions
 
 **Is DSW a good insurer for expats?**

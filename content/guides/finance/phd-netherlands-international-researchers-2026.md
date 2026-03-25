@@ -268,3 +268,45 @@ Technically yes, but your employment contract may have restrictions on competing
 ### What happens if I do not finish within four years?
 
 Your employment contract ends. Whether you can get an extension depends on funding, your supervisor's agreement, and departmental policy. Extensions are not guaranteed. Some researchers complete their thesis writing in their own time after the contract ends, though this is stressful. Build buffer time into your project plan from the start.
+
+---
+
+## Managing Your Money as a PhD Researcher: A Practical Guide
+
+PhD salaries in the Netherlands are modest by the standards of the highly paid tech and finance sectors, but they are livable — especially in cities like Groningen, Leiden, Enschede, or Wageningen, where rent is significantly lower than Amsterdam.
+
+### Monthly Budget Example (Groningen, single person, year 1)
+
+| Expense | Monthly amount |
+|---------|---------------|
+| Rent (private room in shared house) | EUR 600-750 |
+| Health insurance (after zorgtoeslag) | EUR 40-70 |
+| Groceries | EUR 200-300 |
+| Transport (cycling, occasional OV) | EUR 20-50 |
+| Phone | EUR 15-25 |
+| Personal and social | EUR 100-200 |
+| **Total** | **EUR 975-1,395** |
+
+On a year-one PhD gross salary of approximately EUR 2,872 per month, your net income after tax and social contributions is roughly EUR 2,100-2,300 per month (higher if you have the 30% ruling). After expenses, you should be able to save EUR 700-1,300 per month in a modest lifestyle — though Amsterdam and Utrecht leave significantly less room.
+
+### The Annual Tax Refund
+
+Most PhD researchers receive a tax refund each year. Because the payroll withholding (loonheffing) is based on conservative assumptions, and because PhD researchers often have legitimate deductions — study costs, professional literature, specialist equipment — the actual tax due is usually lower than what was withheld.
+
+Filing a tax return (even when it is not strictly required) is worth doing. In my experience, first-year PhD researchers with no mortgage and no complex deductions typically receive refunds of EUR 200-600. Once you add mortgage interest (if you buy) or the 30% ruling partial non-resident election, the amount can be considerably higher.
+
+### Banking Practical Tips
+
+Open a Dutch bank account in the first week — you need it for rent and salary. ABN AMRO and ING both offer easy online opening for university employees with a BSN. The process takes 1-3 business days.
+
+For sending money abroad — to family, to pay foreign student loans, to manage a rental property back home — use Wise rather than Dutch bank transfers. A EUR 1,000 transfer home via a Dutch bank costs EUR 15-30 in fees and poor exchange rates. Via Wise, the same transfer costs EUR 5-8. Over a four-year PhD with monthly transfers, this is a meaningful saving. The [best international money transfer guide](/guides/finance/best-international-money-transfer-netherlands-2026/) compares all the main options.
+
+### Toeslagen You May Be Entitled To
+
+As a PhD researcher with a salary in the EUR 34,000-48,000 range, you may qualify for:
+
+- **Zorgtoeslag:** Healthcare allowance. In 2026, single people earning below approximately EUR 38,000 qualify. Year-one PhD candidates often fall in this bracket, particularly if the 30% ruling reduces their taxable income further.
+- **Huurtoeslag:** Rent allowance. Only available if your rent is below approximately EUR 880/month and your income is below the threshold. Possible in affordable university cities.
+- **Kindgebonden budget and kinderopvangtoeslag:** If you have children.
+
+Apply via Mijn Toeslagen as soon as you have your BSN. See the [toeslagen guide for expats](/guides/finance/how-expats-claim-dutch-benefits-toeslagen-2026/) for the full application process.

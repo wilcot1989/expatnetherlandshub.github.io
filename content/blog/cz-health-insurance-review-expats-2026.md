@@ -317,6 +317,93 @@ As always: compare first. Your personal situation — location, health needs, em
 
 ---
 
+## CZ vs VGZ: A Direct Comparison
+
+VGZ and CZ are the two mid-market national insurers that come up most frequently in expat comparison discussions. Both are large, national, and offer similar coverage levels. Here is how they compare on the dimensions that matter:
+
+| Feature | CZ | VGZ |
+|---|---|---|
+| Basic restitutie premium (2026) | ~EUR 155/month | ~EUR 156–162/month |
+| English customer service | Moderate | Moderate |
+| Contracted hospital network | National, broad | National, broad |
+| Customer satisfaction (Klantenmonitor) | 7.6/10 | 7.3–7.6/10 |
+| Employer collective schemes | Yes | Very common |
+| Budget labels | Just, NN Zorg | Besured, Univé |
+| Non-profit | Yes | Cooperative |
+
+The practical difference between CZ and VGZ for most expats is small. CZ has a slight edge in customer satisfaction scores. VGZ has a slight edge if your employer has a VGZ collective scheme. If neither of those conditions applies, the premium difference and supplementary coverage are the primary factors to compare.
+
+CZ's non-profit structure means it does not have shareholders and reinvests surplus income. VGZ is a cooperative. Both models tend to keep premiums more aligned with actual healthcare cost inflation rather than margin optimisation.
+
+---
+
+## Understanding the Eigen Risico: A Practical Guide
+
+The eigen risico (deductible) system confuses many new expats because it works differently from insurance deductibles in many other countries. Here is how it actually functions at CZ.
+
+**The mandatory minimum:** In 2026, the mandatory eigen risico is EUR 385 per person per year. This applies to all Dutch insurers, not just CZ. Children under 18 have no eigen risico.
+
+**What it applies to:** The eigen risico applies to most specialist healthcare, hospital stays, prescription drugs, and physiotherapy for non-chronic conditions. It does NOT apply to GP visits (huisarts), maternity care, postnatal care (kraamzorg), or district nursing.
+
+**How it accumulates:** You pay the first EUR 385 of eligible costs each calendar year yourself. Once you have paid EUR 385 in a calendar year, CZ covers 100% of the remaining eligible costs for the rest of that year.
+
+**A practical example:** You sprain your ankle in March, go to A&E, and need physiotherapy. The A&E visit costs EUR 250 and the six physiotherapy sessions cost EUR 300. You pay the first EUR 385 (all of the A&E and EUR 135 of physio). CZ pays the remaining EUR 165 of physio, and your eigen risico for the year is fully used.
+
+**Voluntary additional eigen risico:** By voluntarily raising your eigen risico above EUR 385, you reduce your monthly premium. This makes financial sense if you are young and healthy and expect minimal healthcare use. At higher eigen risico levels, calculate whether the monthly premium saving exceeds the increased risk of having to pay more out of pocket.
+
+My general guidance: if you have no known health conditions and are under 40, raising to EUR 585–685 total eigen risico often makes mathematical sense. If you have ongoing health needs, stick with the minimum.
+
+---
+
+## CZ for Expats Moving to the Netherlands Mid-Year
+
+One question that comes up often: what happens to CZ coverage when you arrive in the Netherlands at a time other than January?
+
+**New arrivals:** If you are registering in the Netherlands for the first time, you can take out health insurance at any point in the year. Your obligation starts from the date you register in the municipality (BRP). You have four months from that date to take out insurance; if you take it within those four months, coverage is retroactive to your registration date.
+
+**Cost:** You pay from the month you register. If you arrive in July and your first monthly payment is for July, you are not paying for months you were not here.
+
+**Mid-year BSN:** In practice, you often cannot apply for health insurance before receiving your BSN. The process is: arrive → register at gemeente → receive BSN (same day or shortly after) → apply for insurance. Between arrival and BSN, you are technically uninsured under the Dutch system. This is the gap period where SafetyWing or other travel insurance provides useful bridging coverage.
+
+**Leaving the Netherlands:** When you deregister from the Netherlands, your obligation to hold basisverzekering ends. You can cancel your CZ policy by deregistering from the BRP and notifying CZ. Policies cannot typically be cancelled mid-year other than for deregistration or moving abroad.
+
+---
+
+## Switching to CZ From Another Insurer
+
+The Dutch open enrollment period runs from approximately 12 November to 31 December each year. During this period, you can switch your basic health insurer. The new policy starts on 1 January.
+
+**Steps to switch to CZ:**
+1. During November–December, go to cz.nl and select your new policy
+2. CZ will handle the cancellation of your previous insurer's basic policy — you do not need to contact your old insurer separately
+3. Your CZ policy starts 1 January; your old policy ends 31 December
+4. Continue paying your old insurer until 31 December
+
+**Supplementary insurance:** Supplementary insurance can sometimes be changed outside the open enrollment period if you have a life event (moving, marriage, birth of a child). But the basic basisverzekering switch is restricted to the November–December window.
+
+**My observation during switching season:** CZ's phone lines get very busy in November and December. The portal is more reliable. Do not wait until the last week of December — the queue for completing online applications also slows down near the deadline.
+
+---
+
+## The Real Cost of Dutch Health Insurance Over a Full Year
+
+When I review CZ's pricing with expat clients, I always present the real annual cost picture, not just the monthly premium. Here is what a full year actually costs with a typical expat setup:
+
+**Scenario: Single adult, CZ Restitutie + Aanvullend 2, EUR 385 eigen risico, no group discount**
+
+| Cost item | Amount |
+|---|---|
+| Basic restitutie premium × 12 | EUR 1,860/year |
+| Aanvullend 2 supplementary × 12 | EUR 276/year |
+| Mandatory eigen risico (if used) | Up to EUR 385/year |
+| **Total potential annual cost** | **EUR 2,521** |
+| Less: zorgtoeslag at EUR 30,000 income | ~–EUR 900/year |
+| **Effective annual cost at EUR 30,000 income** | **~EUR 1,621** |
+
+The zorgtoeslag (healthcare benefit) makes a substantial difference for expats at moderate income levels. At EUR 25,000, the benefit is even higher. This is not automatic — you must apply via toeslagen.nl each year.
+
+---
+
 ## Frequently Asked Questions
 
 **Is CZ good for expats in the Netherlands?**

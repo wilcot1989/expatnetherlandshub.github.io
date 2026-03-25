@@ -323,4 +323,42 @@ For more on setting up your Dutch digital life after DigiD, see our [expat tax r
 
 ---
 
+## DigiD Level 3 (Substantieel): When You Need Higher Security
+
+The standard DigiD (username/password + SMS code) covers most expat needs. But some services require DigiD with a higher security level — DigiD substantieel (level 3). This typically applies to:
+
+- MijnOverheid.nl (your personal government portal)
+- Some health insurance portal actions
+- High-value transactions with government agencies
+
+**How to upgrade to DigiD substantieel:**
+You need the DigiD app and must verify your identity with your Dutch ID document (identity card — not available to non-Dutch nationals) or, more practically for expats, via a ICAO-compatible biometric passport and the DigiD app's identity verification process.
+
+The upgrade is done through the DigiD app:
+1. Download the DigiD app
+2. Log in with your existing DigiD
+3. Follow the identity check process using NFC-enabled passport scanning
+4. Your DigiD is upgraded to substantieel level
+
+Most standard EU/EEA passports with biometric chips work for this. Non-EU passports with biometric chips generally work too. If your passport does not have an NFC chip, you may need to visit a DigiD service point at your gemeente.
+
+## Troubleshooting Common DigiD Problems
+
+**"My activation letter never arrived"**
+Letters sometimes take 3+ weeks or get lost. If it has been 4 weeks, log in to mijndigid.nl and request a new activation code. If repeated letters fail, visit your gemeente — they can verify your address and trigger a fresh mailing.
+
+**"I have moved and my DigiD is linked to my old address"**
+DigiD does not automatically update when you move. After updating your address in the BRP (at the gemeente), log in to mijndigid.nl and update your postal address. This ensures future correspondence reaches you.
+
+**"I have forgotten my username"**
+Your DigiD username is the one you chose when registering — it is not your BSN or email address. If you have truly forgotten it, you need to request a new DigiD (the old one is cancelled). Go to digid.nl and follow the "Nieuw DigiD aanvragen" process.
+
+**"I am outside the Netherlands — can I still use DigiD?"**
+Yes. DigiD works internationally via the app or browser. The SMS code is sent to your Dutch mobile number, so if you have a Dutch SIM, it works abroad. If you use an international number, this can cause issues — update your DigiD contact details before extended travel.
+
+**"My employer needs my DigiD for something"**
+Your employer should never ask for your DigiD credentials. DigiD is personal and used only for government services. If an employer or other party asks for your DigiD login, do not provide it — this is a phishing attempt or misunderstanding. Employers do not need your DigiD to process payroll or tax; they have their own payroll systems.
+
+---
+
 *Last updated: March 2026.*

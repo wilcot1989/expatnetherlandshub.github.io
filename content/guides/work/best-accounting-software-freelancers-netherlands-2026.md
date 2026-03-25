@@ -308,3 +308,44 @@ Our guide to [best finance apps for expats in the Netherlands](/guides/finance/b
 If you are still figuring out the broader financial picture of ZZP life — what you owe, what you can deduct, how the BTW system works — the [tax guide for ZZP freelancers](/guides/finance/tax-freelancers-zzp-netherlands-2026/) and the [KvK registration guide](/guides/work/kvk-registration-expat-guide-2026/) are worth reading alongside this one.
 
 Accounting is the least exciting part of freelancing. But getting it right from the start — the right software, clean records, timely BTW filings — means you will never face the midnight-before-deadline scramble that I heard about from far too many ZZPers in my first years coaching here. Pick a tool, set it up properly once, and then largely forget about it until your quarterly reminder pops up.
+
+---
+
+## Setting Up Your Accounting Software: First Steps
+
+Once you have chosen a tool, the setup process matters. Doing it correctly at the start saves hours of retroactive fixing.
+
+**Step 1 — Enter your business details:** Your KvK number, BTW number, business name, address, and bank account number. These appear automatically on every invoice. Double-check the BTW number format (NL + 9 digits + B + 2 digits).
+
+**Step 2 — Connect your bank account:** In Moneybird and Jortt, bank connection is via direct open banking link. Follow the in-app instructions — it typically takes five minutes and you authenticate once via your banking app. For Wise Business, set up a monthly manual CSV import for now and check whether your software has added a direct connection in a recent update.
+
+**Step 3 — Set up your invoice template:** Add your logo, set your default payment term (14 or 30 days is standard in the Netherlands), and verify that the BTW fields appear correctly. Send yourself a test invoice before you send one to a real client.
+
+**Step 4 — Create your expense categories:** Dutch ZZP tax deductibles include office costs, professional subscriptions, equipment, travel for client work, and phone/internet (partial). Set up categories that match what you actually spend. Ask your boekhouder which categories they prefer if you are working with one.
+
+**Step 5 — Set quarterly BTW reminders:** Most software has a built-in reminder feature. If not, add it to your calendar: the BTW aangifte deadline is usually the last day of the month following the quarter (April 30 for Q1, July 31 for Q2, October 31 for Q3, January 31 for Q4). Missing the deadline incurs a fine from the Belastingdienst.
+
+---
+
+## Common Accounting Mistakes Expat ZZPers Make
+
+After watching many expat freelancers navigate their first year, the same mistakes come up repeatedly:
+
+**Not registering for BTW from the start:** If you expect to earn more than €20,000 per year, you must register for BTW (unless you qualify for KOR) before you issue your first invoice. Invoicing without a BTW number and then retroactively charging BTW is administratively messy and can create client relations problems.
+
+**Mixing personal and business transactions:** Keeping all business income and expenses in a dedicated business bank account makes your quarterly BTW and annual income tax preparation significantly simpler. Many ZZPers use a bunq Business or ING ZZP account for this reason.
+
+**Forgetting receipts for expenses:** Dutch accounting requires a receipt for every business expense. Digital receipts count. Take a photo of every paper receipt and upload it immediately — accounting software with mobile apps makes this easy. Gaps in your receipt records become problems at audit time.
+
+**Not setting aside tax:** This is the most financially painful mistake. As a ZZP, no employer is withholding income tax from your invoice payments. You owe inkomstenbelasting on your profit at the end of the year. Set aside 30-40% of each invoice payment in a separate account labelled "belasting." Treat it as money that is not yours. The year-end tax bill is not a surprise if you have been provisioning for it.
+
+**Filing BTW late:** The Belastingdienst issues automatic fines for late BTW filings, starting at €65 for the first offence and escalating. It is one of the most avoidable costs in ZZP life. Build the quarterly filing into your calendar before it becomes urgent.
+
+---
+
+## Related Guides
+
+- [Complete ZZP freelancer guide for expats in the Netherlands](/guides/work/freelancer-zzp-guide-netherlands-2026/) — registering, structuring, and operating your business
+- [Tax guide for freelancers in the Netherlands](/guides/finance/tax-freelancers-zzp-netherlands-2026/) — what you owe and how to optimise
+- [Best tax advisors for expats in the Netherlands](/guides/finance/best-tax-advisors-expats-netherlands-2026/) — when to hire professional help
+- [Best finance apps for expats in the Netherlands](/guides/finance/best-finance-apps-expats-netherlands-2026/) — managing personal finances alongside ZZP income

@@ -239,6 +239,41 @@ The main thing to get right is insurance: basic insurance does not cover glasses
 
 ---
 
+## Eye Care for Expat Children
+
+Children's eye care in the Netherlands is systematically supported from early childhood.
+
+**Youth health screening (JGZ):** Dutch schools participate in the JGZ (Jeugdgezondheidszorg) health monitoring programme. Vision screenings are typically conducted at age 5–6 (around the start of school) and again later in primary school. If a problem is identified, parents are contacted with a recommendation to see an opticien or oogarts.
+
+**Coverage for children:** Basic health insurance covers medically necessary glasses and contact lenses for children under 18. There is no eigen risico for children's healthcare. The process: get a written referral from your GP or a JGZ doctor, take it to a registered optician, and the costs are covered.
+
+**Amblyopia (lazy eye) and strabismus:** These conditions are commonly identified at the early screening stage. Dutch paediatric ophthalmologists (kinderoogartsen) handle these cases within the healthcare system. If your child is referred, the care is covered by basic insurance.
+
+**Contact lenses for teenagers:** From around age 12–14, Dutch opticians will typically assess whether a teenager is ready for contact lenses. For teenagers under 18, basic insurance coverage still applies for medically necessary contact lenses. Cosmetic or convenience-only lenses are not covered.
+
+---
+
+## Laser Eye Surgery in the Netherlands
+
+For expats considering laser correction, the Netherlands has several reputable refractive surgery centres.
+
+**Types available:**
+- **LASIK** (Laser In Situ Keratomileusis): the most widely performed procedure, involves a corneal flap and laser reshaping
+- **LASEK / PRK** (Photo-Refractive Keratectomy): surface treatment, longer recovery but sometimes preferred for thinner corneas
+- **SMILE** (Small Incision Lenticule Extraction): newer technique, flapless, increasingly popular
+- **ICL** (Implantable Collamer Lens): for prescriptions too strong for laser correction
+
+**Costs:**
+- LASIK: approximately EUR 800–1,400 per eye depending on technology and clinic
+- SMILE: approximately EUR 1,000–1,600 per eye
+- ICL: approximately EUR 1,500–2,500 per eye
+
+**Insurance:** None of these are covered by standard health insurance. Some premium supplementary packages include a partial contribution (EUR 200–500 total), but most of the cost falls on you.
+
+**What to look for in a clinic:** Seek a clinic that performs a comprehensive pre-assessment (corneal topography, pachymetry, pupil size measurement) before recommending or performing surgery. A clinic that says yes to everyone without thorough screening is a red flag. Reputable Dutch clinics include those affiliated with hospital ophthalmology departments.
+
+---
+
 ## Frequently Asked Questions
 
 **Does Dutch health insurance cover glasses and contact lenses?**

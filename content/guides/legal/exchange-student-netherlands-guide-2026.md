@@ -257,3 +257,27 @@ Contact your university's student counsellor immediately. The Netherlands has ho
 ### How do I get a BSN as a short-stay exchange student?
 
 Non-EU students on a short-stay exemption (under 90 days) typically do not register at the gemeente and do not receive a BSN. For stays over 90 days with a residence permit, you register at the gemeente and receive a BSN. Some municipalities offer a non-resident registration for students on shorter stays — ask your host university's international office.
+
+---
+
+## Making the Most of Your Exchange Year
+
+An exchange semester or year in the Netherlands is significantly more valuable if you treat it as an integration experience rather than an extended tourist stay. A few things I see working well for exchange students:
+
+**Learn some Dutch.** Even basic Dutch — greetings, ordering food, thanking people — changes your daily experience and is appreciated by Dutch people in a disproportionate way. Your university almost certainly offers free or subsidised Dutch language classes for international students. Most take 2–3 hours per week and are entirely accessible to beginners. You do not need Dutch to survive in the Netherlands, but learning some means you stop living entirely inside an English-language international bubble.
+
+**Get outside the expat circuit.** International student social life naturally clusters around other international students. This is fine and often fun, but it means you can spend a full year in the Netherlands and never really experience Dutch life or Dutch friendship. Deliberately joining a Dutch sports club, choir, or other activity that brings you into contact with Dutch students requires more effort but produces more genuine connection.
+
+**Use the student OV-chipkaart.** If you are registered as a student in the Netherlands, you may be eligible for the student public transport subscription (studentenreisproduct) — free travel on certain days, discounted on others. Ask your student administration office whether your exchange status qualifies.
+
+**Explore beyond your city.** The Netherlands is small enough that weekend trips to other cities are trivial. Amsterdam, Rotterdam, The Hague, Utrecht, Leiden, Delft, Maastricht, and Groningen are all reachable within 2 hours from each other. The Keukenhof (spring tulip gardens), the Wadden Islands (Texel, Vlieland, Terschelling), and the Hoge Veluwe national park are experiences that are specifically Dutch and worth making time for.
+
+**Document your qualification properly.** At the end of your exchange, make sure you receive a formal transcript (cijferlijst) or grade statement on official university letterhead, with the Dutch grading scale and its conversion explained. Dutch grades run on a scale of 1–10, with 6 being the minimum pass. If you return to a system that uses percentage grades or letter grades, a conversion note from your Dutch university helps prevent misunderstandings when you present your transcript later.
+
+## Health and Insurance as an Exchange Student
+
+Exchange students on short-stay visas (under 90 days) or Schengen visa exemption are not required to register for Dutch health insurance. However, you need valid travel/health insurance for the duration of your stay.
+
+For students staying over 90 days with a residence permit, the situation is more complicated. Technically, long-stay students become liable for Dutch health insurance (zorgverzekering) after 4 months of residence. In practice, many exchange students use their home country's student insurance combined with an EU Health Insurance Card (if applicable) or a private international student insurance plan.
+
+Check your specific situation with your university's international office before arrival. Some universities have group insurance arrangements for exchange students that cover the Dutch stay. Do not assume your home country's travel insurance covers everything — Dutch healthcare costs for serious treatment can be significant without insurance.
