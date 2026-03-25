@@ -78,10 +78,10 @@
   <div class="card-grid" id="cardGrid">
     {{ range .Pages }}
     {{ $pageTitle := .Title }}
-    {{ $slug := .File.BaseFileName }}
+    {{ $slug := "" }}{{ with .File }}{{ $slug = .BaseFileName }}{{ end }}
     {{ $type := "guide" }}
-    {{ if findRE "review" $slug }}{{ $type = "review" }}
-    {{ else if or (findRE "\\bvs\\b" $slug) (findRE "vergelijk" $slug) (findRE "beste" $slug) (findRE "best-" $slug) (findRE "alternatieven" $slug) (findRE "compared" $slug) (findRE "comparison" $slug) }}{{ $type = "vs" }}{{ end }}
+    {{ if and $slug (findRE "review" $slug) }}{{ $type = "review" }}
+    {{ else if and $slug (or (findRE "\\bvs\\b" $slug) (findRE "vergelijk" $slug) (findRE "beste" $slug) (findRE "best-" $slug) (findRE "alternatieven" $slug) (findRE "compared" $slug) (findRE "comparison" $slug)) }}{{ $type = "vs" }}{{ end }}
     <article class="card card-grid-item" data-type="{{ $type }}">
       {{/* Thumbnail — use category SVG banner */}}
       {{ $cat := $sectionSlug }}
