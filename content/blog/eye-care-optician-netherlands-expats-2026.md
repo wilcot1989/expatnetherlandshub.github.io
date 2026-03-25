@@ -305,3 +305,19 @@ Yes. If you have a valid glasses prescription from another country, Dutch optici
 ## Getting Your Eye Care Sorted Early
 
 One practical note for new arrivals: sorting your eye care within the first few weeks of moving to the Netherlands is worth doing even if it does not feel urgent. Booking a free eye test at a chain like Specsavers, updating your prescription if it has lapsed, and checking your supplementary insurance coverage sets you up before you actually need emergency eyewear. Optician chains in major cities are easy to walk into and book same-day or next-day appointments in most cases, making this one of the simpler healthcare tasks to get done early in your settling-in process.
+
+---
+
+## Getting Glasses in the Netherlands: What to Expect
+
+For expats who wear glasses or contact lenses, the Dutch optical market offers good quality at a wide price range. Here is what you will encounter.
+
+**The frame market is well-developed.** The Netherlands has a strong independent optician culture alongside the major chains. Hans Anders and ECI are the budget segment — simple frames from €30–80, straightforward and competent. Specsavers sits in the mid-range. For premium frames, independent opticians in city centres stock European and international brands. The range available in Dutch cities is broad.
+
+**Lenses tend to be the significant cost.** Basic single-vision lenses in a standard index are affordable. Varifocal lenses, high-index thin lenses, and premium coatings drive the price up substantially. A budget pair of glasses at Hans Anders can cost €30–60 all-in. A quality varifocal pair at an independent optician with premium coatings can cost €400–800. The pricing structure is similar to UK and German markets.
+
+**Online glasses buying is viable.** Dutch expats with stable prescriptions often use online retailers like Clearly, Zenni, or the Dutch Mister Spex for replacement pairs at significantly lower cost. A basic pair online can cost €15–40 with lenses. The limitation is fit — online glasses are bought without trying on, and fit matters more than most people assume. A good strategy: buy quality frames at a local optician where you can try them properly, then buy backup pairs or sunglasses online using your confirmed prescription.
+
+**Contact lens supply.** All major optician chains sell contact lenses. Online subscriptions from Lenstore, Vision Direct, and similar are widely used by Dutch residents and ship within 1–3 days. Contact lens prescriptions typically expire after one year in the Netherlands — your optician will want to update your prescription before issuing a new supply if your previous one is expired.
+
+**Insurance reimbursement for glasses.** Many Dutch aanvullende verzekering (supplementary insurance) packages include a biannual or annual glasses allowance. The amount varies by package — typically €50–150 per year or per two years. Some packages offer more for higher-cost prescription needs (strong prescriptions, varifocals). Check your policy before purchasing — the reimbursement process usually requires a receipt submitted through your insurer's portal.

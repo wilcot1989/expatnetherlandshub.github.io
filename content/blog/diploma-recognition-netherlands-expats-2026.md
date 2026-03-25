@@ -298,3 +298,19 @@ EU diplomas are generally recognised under EU mutual recognition directives, par
 ## One Last Piece of Advice
 
 Whatever your situation, the most important thing is not to let the recognition process become a reason to delay your job search or career planning. The IDW statement is a supporting document, not a requirement for most roles — start applying while you are preparing it, rather than waiting for it to arrive before you make contact with employers. Dutch hiring managers understand that international candidates are navigating qualification recognition alongside the job search, and most are practical about it. Having the process underway is often sufficient.
+
+---
+
+## Diploma Recognition for Regulated Professions: A Closer Look
+
+For expats working in regulated professions, the recognition pathway is more formal and more consequential than for general employment. Here is what you need to know by profession.
+
+**Healthcare (doctors, nurses, physiotherapists, dentists, pharmacists):** Registration in the Dutch BIG register (Beroepen in de Individuele Gezondheidszorg) is required before you can practise. For EU-qualified professionals, recognition is governed by EU directive 2005/36/EC and is generally faster — typically 3–6 months. For non-EU qualifications, the process is more detailed and can take 6–18 months including language requirements (Dutch B2 for patient-facing roles). CIBG (part of the Ministry of Health) administers BIG registration.
+
+**Teachers:** Working in Dutch primary and secondary education requires recognition of your teaching qualifications through DUO (Dienst Uitvoering Onderwijs). The process assesses whether your qualification aligns with a Dutch teaching level and subject area. EU qualifications are generally faster to process. International schools in the Netherlands typically have more flexibility and can sometimes employ qualified teachers from outside the EU while recognition is in process.
+
+**Legal professionals:** Practising as a lawyer (advocaat) in the Netherlands requires admission to the Dutch bar (Nederlandse Orde van Advocaten). EU-qualified lawyers can apply under EU directive for recognition as a Dutch advocaat. Non-EU legal qualifications face a longer assessment process and may require additional examination. Note that a law degree that is not a legal practice qualification in your home country will need separate assessment.
+
+**Engineers and architects:** These professions are less tightly regulated in the Netherlands than in some countries. Most engineering roles do not require formal registration, and employers assess qualifications directly. Architects wishing to use the protected title "architect" must register with the Bureau Architectenregister. Technical engineering roles in Dutch industry (including ASML, Shell, and technology multinationals) typically assess qualifications on a case-by-case basis without formal recognition requirements.
+
+**Accountants and financial professionals:** The Dutch financial sector has specific qualification requirements for certain roles (chartered accountants, registered controllers). The NBA (Nederlandse Beroepsorganisatie van Accountants) handles recognition of accountancy qualifications. For general finance roles, Dutch employers assess international qualifications directly.

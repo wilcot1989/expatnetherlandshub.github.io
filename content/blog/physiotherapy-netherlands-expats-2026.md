@@ -309,3 +309,19 @@ A fysiotherapeut (physiotherapist) is a general physical therapy practitioner. A
 ## Final Recommendation
 
 If I had one piece of advice for expats navigating Dutch physiotherapy, it would be this: sort your supplementary insurance package before you need it, not after. You can only change supplementary coverage during the December open enrollment window. If you sprain something in February and you only have the basic basisverzekering, the first 20 sessions are out of pocket. An aanvullend 2 package costs around EUR 23 per month and covers 18 sessions per year — for most people who use physiotherapy at all, that investment pays for itself in a single course of treatment.
+
+---
+
+## Specific Physiotherapy Services Worth Knowing About
+
+Beyond the standard musculoskeletal treatment most people associate with physiotherapy, the Dutch system includes several specialised services that expats often do not know about until they need them.
+
+**Bekkenbodemfysiotherapie (pelvic floor physiotherapy).** Pelvic floor physiotherapy is widely prescribed and practised in the Netherlands — more so than in many other countries. It is commonly referred to during pregnancy, after childbirth, and for various pelvic complaints in both men and women. Your GP or midwife (verloskundige) may refer you to a gespecialiseerd bekkenbodemfysiotherapeut (pelvic floor specialist). This is a post-graduate specialisation with its own professional register. Coverage varies by supplementary insurance plan.
+
+**Fysiotherapie na operatie (post-operative rehabilitation).** After surgery in the Netherlands — particularly orthopaedic surgery (knee replacement, hip replacement, shoulder repairs) — physiotherapy referral is standard. Your specialist will write the referral. For conditions on the chronic list, coverage from the basisverzekering starts from session one. For other post-operative rehabilitation, sessions from session 21 onward are covered by the basic policy.
+
+**Kinderfysiotherapie (paediatric physiotherapy).** Physiotherapy for children has a separate specialisation in the Netherlands. Common referral reasons include developmental delays, postural issues, sports injuries, and neurological conditions. Paediatric physiotherapy is covered by the basisverzekering for children, subject to medical indication and GP or specialist referral.
+
+**Psychosomatische fysiotherapie.** This subspecialty addresses the physical manifestations of stress, anxiety, burnout, and chronic pain with a psychosomatic component. It is covered by some supplementary packages and is relevant to expats navigating the physical stress response to relocation, work pressure, and adjustment. If you are experiencing physical symptoms — chronic muscle tension, fatigue, sleep disruption — with a suspected stress component, ask your GP whether a referral to a psychosomatisch fysiotherapeut is appropriate.
+
+**Sports physiotherapy.** Dutch sports clubs and sports medicine clinics offer specialist sports physiotherapy for injury rehabilitation, performance optimisation, and injury prevention. These services are available privately and are not always covered by basic supplementary packages. Major Dutch sports medicine centres (SportMedisch Centrum) in all large cities offer combined orthopaedic and physiotherapy assessment for sports injuries.

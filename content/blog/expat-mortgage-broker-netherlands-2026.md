@@ -281,3 +281,19 @@ A permanent contract (vaste contract) makes the mortgage application significant
 ## Starting the Process
 
 The single best thing you can do if you are considering buying property in the Netherlands is to have an initial conversation with a broker six to twelve months before you want to buy. You do not need to be ready to apply — you just need to understand what your situation looks like from a lender's perspective, what documentation you should start gathering, and whether there are any complications to resolve before the process begins. That preparation time makes the actual application, when it happens, considerably smoother.
+
+---
+
+## What to Watch Out For: Common Mistakes in Expat Dutch Mortgage Applications
+
+After speaking with expats who have been through the Dutch mortgage process, a few consistent problem areas come up.
+
+**Switching jobs too close to the application.** A new employment contract — even a better-paid one — resets your employment stability in the lender's view. Most Dutch lenders want to see a minimum of six months at your current employer, and preferably a permanent (vast) contract rather than a temporary one. If you are planning both a job change and a property purchase, sequence carefully: ideally get your new role stable and your contract confirmed well before starting the mortgage process.
+
+**Not declaring all income and assets correctly.** Dutch mortgage applications require disclosure of all existing financial commitments — student loans (including Dutch DUO loans), other mortgages in other countries, personal loans, and credit card limits (even if unused). Failure to disclose is mortgage fraud. An adviser helps you compile this correctly.
+
+**Overlooking the role of the NHG (Nationale Hypotheek Garantie).** The NHG is a government-backed guarantee that allows you to borrow at a lower interest rate (typically 0.4–0.6% lower) on mortgages below a threshold (€435,000 in 2026). Not all brokers raise this proactively with expats. If you are buying under the NHG threshold and meet the eligibility criteria, it is worth asking whether your application can use it.
+
+**Underestimating additional purchase costs.** Beyond the purchase price, Dutch property buyers typically pay: overdrachtsbelasting (transfer tax, 2% for owner-occupiers), estate agent fees if you use a buyer's agent (typically 1–1.5% + VAT), mortgage adviser fee (€1,500–3,500), notary fees (€1,000–2,000), and building inspection (bouwkundig rapport, €300–500). On a €400,000 purchase, these costs add up to approximately €15,000–20,000 on top of the purchase price. The rule of thumb is to budget 4–6% of the purchase price in additional costs.
+
+**Waiting too long to request pre-approval.** Dutch sellers do not generally accept offers with long financing conditions. Having a pre-approval (hypotheekaanbieding in principle) from a lender before you bid signals that your financing is reliable, which matters in competitive markets. A broker can arrange this typically within one to two weeks.

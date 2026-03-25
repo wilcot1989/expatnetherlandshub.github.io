@@ -447,4 +447,36 @@ Fiber is widely available across Dutch cities and many suburban areas. Cable pro
 
 For expats moving from countries where fast home internet required paying premium prices, the Dutch market often feels like good value. A 500 Mbps fiber connection from KPN at €45–55/month is competitive with what you would pay in major cities in most Western countries, and the actual delivered speeds are generally as advertised.
 
+---
+
+## Setting Up Your Internet Connection: Practical Steps
+
+Getting connected in a new Dutch home involves a few practical steps that are worth knowing in advance.
+
+**First, check what infrastructure is available at your specific address.** Use your new address at KPN.nl or Ziggo.nl to see which technology (fiber, cable, DSL) is available. The technology available determines which providers you can choose from and what speeds are realistic. Fiber is available in most Dutch cities but not everywhere — entering your address takes 30 seconds and removes the uncertainty.
+
+**Get a Dutch IBAN before you order.** All major Dutch internet providers require direct debit (automatische incasso) payment from a Dutch or EU IBAN. If you have not yet opened a Dutch bank account, open a Wise account first — it gives you a Dutch IBAN immediately, and Dutch providers accept it. Trying to subscribe with a non-EU bank account will fail at the payment step.
+
+**Order before you have your BSN if necessary.** Most internet providers do not require a BSN for subscription — unlike some other services in the Netherlands. You need a Dutch address for delivery of the modem and for the technician visit, but your citizen service number is typically not required. This means you can order internet from day one of moving into your new home.
+
+**Expect a technician visit.** For new connections — fiber particularly — a KPN or Ziggo technician will need to visit to connect or activate the line. This takes 1–2 hours and is booked online. Waiting times for fiber installation appointments are typically 1–2 weeks, which is worth planning for. In the meantime, a mobile data hotspot from a prepaid SIM keeps you connected.
+
+**Return equipment when you cancel.** All Dutch providers send equipment (modem, router, or combined unit) that you must return when you cancel. Keep the original packaging or the return label they send. Unreturned equipment results in charges of €30–100 depending on the provider and the device.
+
+**Cancellation notice period:** Most Dutch internet contracts require 1 month written notice for cancellation. Month-to-month contracts make this straightforward — send a cancellation email or use the provider's app before the end of the month you want to be your last.
+
+---
+
+## Working From Home in the Netherlands: What Your Internet Connection Needs to Handle
+
+Many expats in the Netherlands work from home at least part of the week — the Dutch hybrid work culture is well-developed and most international companies support flexible working. Here is what that means for your internet requirements.
+
+**Video calls are the primary bandwidth requirement.** A single 1080p video call uses approximately 3 Mbps downstream and 3 Mbps upstream. Most Dutch connections — even entry-level fiber or cable — can handle this comfortably. Where speed matters is in simultaneous use: if two people in the same household are on video calls while a third is streaming video, you need consistent speeds above 50 Mbps downstream and 15 Mbps upstream. Any decent cable or fiber plan handles this.
+
+**Upload speed matters more for home workers than for casual users.** Cable connections are asymmetric — they provide faster download than upload. A 500 Mbps/100 Mbps cable plan (download/upload) is excellent for most purposes but may feel sluggish if you regularly upload large files, run video calls at maximum quality while screen-sharing, or back up continuously to cloud storage. Fiber's symmetric speeds — 500/500 or 1000/1000 — eliminate this asymmetry entirely.
+
+**Latency matters for real-time collaboration tools.** Low latency is what makes video calls feel smooth and screen-sharing feel responsive. Both KPN fiber and Ziggo cable deliver low latency (typically under 10ms to Dutch servers). The Dutch internet backbone is excellent — you are unlikely to experience latency as a problem on any mainstream Dutch provider.
+
+**WiFi setup matters as much as the connection itself.** A 1 Gbps fiber connection paired with an outdated WiFi router delivers mediocre performance. If your ISP-provided router is more than 4–5 years old, consider replacing it. WiFi 6 routers (commonly available from €80–200) significantly improve performance in households with many connected devices. In a multi-floor Dutch apartment, a mesh WiFi system (Eero, Netgear Orbi, or similar) eliminates dead zones without complex cabling.
+
 The practical conclusion: do not spend excessive time worrying about internet quality in the Netherlands. Check availability at your specific address, compare a few providers, and pick based on price and language support. The infrastructure is reliable enough that almost any provider choice will serve you well.

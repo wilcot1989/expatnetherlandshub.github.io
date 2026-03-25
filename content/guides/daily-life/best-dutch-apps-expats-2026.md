@@ -382,4 +382,20 @@ DigiD collects very limited usage data. The Belastingdienst app is among the mos
 
 When apps ask for location permissions, microphone access, or contact list access, consider whether the functionality requires it. Buienradar genuinely requires location to give hyperlocal rain forecasts — approve it. A shopping app asking for microphone access with no clear reason — decline it.
 
+---
+
+## Keeping Up with Dutch Digital Life: What Changes Year to Year
+
+The Dutch app landscape does shift, and staying current matters. Here are the patterns worth watching.
+
+**Banking apps evolve quickly.** Dutch banks have invested heavily in mobile-first features. ING, ABN AMRO, and Rabobank have all added in-app instant payment confirmation, personal finance dashboards, and expanded iDEAL functionality in the last two years. If you have not opened your bank app in a while, it probably looks and works differently. The bunq app in particular releases major feature updates several times per year and has added multi-currency accounts, metal cards, and automated savings features that make it increasingly competitive with dedicated finance apps.
+
+**Government apps are improving, slowly.** DigiD's app received a significant update in 2024 that made the identity verification process faster and more reliable. The Mijn Overheid portal now integrates with DigiD Hoog (the higher-security verification level) and allows you to handle more administrative tasks without visiting a physical office. The Belastingdienst app similarly has become genuinely usable since 2023 — previously, filing your M form as a new arrival was almost impossible to do without visiting a tax office or hiring a tax adviser.
+
+**Keep your BSN safe.** The BSN (citizen service number) is the Dutch equivalent of a national insurance number, and it is used across apps, government portals, and services. Never photograph your BSN and store it in an unencrypted notes app. Use a secure notes section in your password manager. Several Dutch identity fraud cases in recent years have involved BSN numbers taken from photographed documents or poorly secured cloud storage.
+
+**Language matters less over time.** When I arrived, several key Dutch apps had minimal English support. As of 2026, the major apps — DigiD, NS, 9292, Tikkie, all banking apps, Buienradar, Funda — have functional English modes. The few holdouts are some municipality apps and the Mijn Overheid portal, which remains partially Dutch. Google Translate's live camera mode fills most of the remaining gaps for Dutch-only interfaces.
+
+**The digital healthcare pathway is getting smoother.** The Mijn Zorgverzekering portal now connects with DigiD, making it easier to manage your health insurance entirely online. Most Dutch GPs (huisartsen) have adopted digital appointment booking via their own portals or via Quin and similar platforms. If your GP still only does phone booking, it is worth checking whether they have a digital option — the Dutch healthcare system is genuinely moving in this direction and most practices now offer it.
+
 The Netherlands has an active digital rights community (Bits of Freedom, for example) that regularly audits popular Dutch apps for privacy compliance. Their reports are public and worth checking if you are privacy-conscious.

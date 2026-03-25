@@ -418,4 +418,32 @@ What is not expected: elaborate warm-up rituals in high-traffic areas, extended 
 
 ---
 
+## Fitness on a Budget: Getting Fit Without a Gym Membership
+
+Not everyone wants to commit to a monthly gym fee immediately after moving to a new country. The Netherlands makes this easier than most places.
+
+**Basic-Fit's day pass** lets you try any club for €3–5 before committing. This is genuinely useful when you are first settling in and have not yet decided which neighbourhood you will be based in long-term.
+
+**Municipal sports centres (gemeentelijke sportcentra)** offer pay-per-visit rates that are often cheaper than commercial chains for casual users. They are less glamorous than Trainmore or David Lloyd, but the facilities are solid and the rates are honest. Every major Dutch city has at least one — check your gemeente's website under "sport" for locations and pricing.
+
+**Sportief Shoppen (second-hand equipment):** The Dutch Marktplaats (the local equivalent of eBay) is excellent for second-hand fitness equipment. Dumbbells, kettlebells, resistance bands, and even rowing machines appear regularly at 30–60% of retail price. Given that many Dutch apartments have sufficient floor space for a basic home gym setup, this route suits expats who prefer training early in the morning or late at night without a commute.
+
+**Health insurance and gym reimbursement:** Some Dutch health insurance supplemental packages (aanvullende verzekering) reimburse a portion of your annual gym membership — typically €100–250 per year. CZ, Menzis, VGZ, and Zilveren Kruis all have plans with fitness reimbursement. It is worth checking your policy or switching to one that includes it, as the reimbursement can cover a significant portion of a Basic-Fit membership. See our [health insurance add-ons guide](/blog/best-health-insurance-add-ons-netherlands-2026/) for details on which plans include fitness benefits.
+
+---
+
+## Sport and Fitness Culture in the Netherlands: What to Expect
+
+Dutch fitness culture has some distinct characteristics that are worth understanding before you join a gym or sports club.
+
+**Sport as a social institution.** In the Netherlands, sport is deeply embedded in social life, particularly through the club system (verenigingsleven). Dutch sports clubs are membership organisations that host leagues, social events, and community activities alongside training. Joining a Dutch sports club — whether tennis, football, field hockey, rowing, or any other — is one of the fastest ways to build a non-expat social network. The sport itself is almost secondary; it is the regular contact with the same people week after week that builds relationships.
+
+**Cycling is not a sport here — it is transport.** Dutch people cycle, but they do not think of it as exercise in the way that recreational cyclists in other countries do. You will rarely see Lycra-clad recreational cyclists on commuting routes. The fitness benefit of Dutch cycling life comes incidentally, from using a bike as the default mode of transport. If you want cycling as a sport, road cycling and mountain biking clubs exist and are active; they are just separate from the everyday cycling culture.
+
+**Running is genuinely popular.** The Netherlands has an active running community, with parkrun events in many cities (free weekly 5km events in public parks, every Saturday at 9am), a strong road running race calendar, and trail running events in the Veluwe and other natural areas. The flat Dutch landscape makes it ideal for pace training. Hardloopvereniging (running clubs) exist in every city and are welcoming to newcomers, including English speakers.
+
+**Water sports.** Given the Dutch relationship with water, it is not surprising that water sports — sailing, rowing, kayaking, windsurfing, and kitesurfing — are popular. The Westeinderplassen and Reeuwijkse Plassen (south of Amsterdam) and the IJmeer are popular sailing and rowing areas. Zeeland and the North Holland coast are the main kitesurfing locations. For expats with water sports backgrounds, the Netherlands offers more variety than the flat landscape suggests.
+
+---
+
 *Last updated: March 2026.*

@@ -340,4 +340,53 @@ For the benefit of those just arriving, here is the practical sequence based on 
 
 Once these basics are set up, add the budgeting layer — YNAB or Buddy — once you have a month of actual Dutch spending to categorise. Trying to set up a budget before you know what your Dutch costs actually are produces a budget that needs immediate revision.
 
+---
+
+## Finance App Security: Protecting Your Dutch Financial Life
+
+Managing money across multiple apps and accounts creates security considerations worth addressing directly.
+
+**Enable biometric authentication on every finance app.** ING, ABN AMRO, Rabobank, bunq, and Wise all support Face ID and fingerprint authentication. Enable it on every app. The combination of biometric entry and the app's own session management provides strong protection against unauthorised access.
+
+**Use a separate email address for financial accounts.** The email address associated with your bank, Wise, and investment accounts should ideally be different from your everyday email — particularly your Dutch government accounts. This reduces the risk that a phishing attack on your primary email compromises your financial access simultaneously.
+
+**Enable transaction notifications on all accounts.** Dutch banking apps allow push notifications for every transaction. Enable these. A fraudulent transaction is caught within seconds rather than on your next statement review. ING and ABN AMRO have in-app fraud reporting that allows you to flag suspicious transactions immediately.
+
+**Monitor your BKR register entry.** The BKR (Bureau Krediet Registratie) is the Dutch credit registry. Any Dutch credit card, loan, or mortgage creates an entry. You can request a free annual overview of your BKR register at mijnbkr.nl (requires DigiD). Checking this periodically ensures no unknown credit has been taken out in your name and confirms your credit history is building as expected.
+
+**Be alert to DigiD phishing.** DigiD fraud attempts are common in the Netherlands — fraudulent emails and SMS messages that mimic official communications. The real DigiD will never send you a link asking you to confirm personal details urgently. Always access DigiD directly by typing digid.nl in your browser. If in doubt, call the DigiD helpline (0900-1998) rather than clicking any link.
+
+**Two-factor authentication across everything.** DigiD requires 2FA by default. Extend this discipline to every finance account that supports it. Use an authenticator app (Google Authenticator, Authy) rather than SMS where possible — SMS-based 2FA is more vulnerable to SIM-swapping attacks.
+
 The finance apps that improve your life most in the Netherlands are not the most sophisticated ones. They are the ones that connect you to Dutch payment infrastructure (iDEAL, Tikkie, your NL IBAN) and save you money on the one transaction most expats consistently overpay: transferring money internationally. Get those right and everything else is optimisation.
+
+---
+
+## The Full Expat Finance App Stack: A Summary Checklist
+
+For a new expat building out their financial toolkit in the Netherlands, here is the complete picture in priority order.
+
+**Immediate (week 1):**
+- Wise account — open online before arrival for immediate European IBAN access
+- Your home country banking app — keep accessible during transition
+
+**After BSN registration (weeks 2–3):**
+- ING or ABN AMRO app — download as soon as you have opened your Dutch account
+- Tikkie — install and link to your Dutch account within days of getting it
+- DigiD app — register and activate for government service access
+
+**Month 1:**
+- Belastingdienst app — for tax correspondence and return filing access
+- Mijn Overheid — for government communications
+- Your health insurer's app — after selecting and activating your basisverzekering
+
+**Month 2 onward:**
+- Budgeting app (YNAB or Buddy) — once you have a month of real Dutch spending to categorise
+- Investment platform (DEGIRO) — once income is stable and emergency fund is in place
+
+**Ongoing:**
+- Too Good To Go — for practical daily savings on food
+- 9292 and NS apps — for public transport navigation
+- Your insurer's claims app — for healthcare reimbursement submissions
+
+This sequence works because each layer builds on the previous one. Trying to set up budgeting and investment accounts before you have stable banking and income creates unnecessary complexity. The Dutch financial system rewards patience and sequential setup over rushing to have everything in place at once.

@@ -399,4 +399,30 @@ By week six in the Netherlands, you will have experienced three distinct outdoor
 - [Hoge Veluwe National Park](https://www.hogeveluwe.nl)
 - [Biesbosch National Park visitor info](https://www.np-debiesbosch.nl)
 - [Weerribben-Wieden National Park](https://www.np-weerribbenwieden.nl)
+
+---
+
+## Outdoor Activities by Region: A Quick Reference
+
+The Netherlands looks uniform from a map but divides into quite distinct outdoor environments depending on where you are.
+
+**Amsterdam and North Holland:** Best for cycling through polder landscapes, beach days at Zandvoort and Bloemendaal, sailing on the Markermeer, and exploring the Amsterdamse Bos forest park. The coastal dune reserves between Haarlem and Den Helder — De Kennemerduinen and Schoorlse Duinen — offer excellent walking and are easily reachable by train.
+
+**Rotterdam and South Holland:** Significant cycling infrastructure around Delfland's polder network, the Biesbosch freshwater delta for kayaking and boat trips, and Scheveningen and Kijkduin beaches. The Hoeksche Waard polder south of Rotterdam is particularly good for quiet cycling through agricultural landscape.
+
+**Utrecht and Gelderland:** The Utrechtse Heuvelrug — the Netherlands' most significant inland hill range — offers genuinely varied walking and cycling terrain. Not dramatic by European standards but notably different from the flat coasts. Arnhem and the Hoge Veluwe are the main outdoor destinations in this region and are worth the travel from any Dutch city.
+
+**Zeeland:** The most underrated outdoor region in the Netherlands for expats. Zeeland's coast is wider, quieter, and warmer than the North Holland coast, with excellent beach conditions at Domburg, Zoutelande, and Breskens. The flat Zeeland landscape is outstanding for cycling. The water around Zeeland's estuaries is popular with windsurfers and kitesurfers. Reachable in 1.5–2 hours from Amsterdam or Rotterdam.
+
+**Friesland and Groningen:** The far north has a distinct character — wide skies, canal-laced farmland, small traditional towns. The Wadden Sea coastline and the Wadden Islands (Texel, Vlieland, Terschelling) offer some of the best unspoiled coastal environments in northern Europe. Ferries to the islands from Den Helder and Harlingen are frequent in summer.
+
+---
+
+## Outdoor Kit: What to Bring to the Netherlands
+
+**A quality rain jacket is non-negotiable.** This is not a cliché — it is practical reality. Invest in a genuinely waterproof jacket (not water-resistant), one you can cycle in without overheating. Dutch cyclists typically wear a packable waterproof that fits in a bag. The same jacket serves for walking, hiking, beach days, and general outdoor use. Brands popular in the Netherlands include Patagonia, Arc'teryx, and Rains (a Danish brand but extremely popular here).
+
+**Cycling shoes or good trainers.** If you are going to use an OV-fiets or rental bike regularly, you do not need cycling shoes — regular trainers are fine. But for longer rides, padded cycling shorts make a measurable difference.
+
+**Sunscreen for summer.** Dutch summer sun is often underestimated by people who associate the Netherlands with grey weather. In June and July particularly, UV levels are significant and sunscreen at the beach or on a long cycle is as necessary here as anywhere in Western Europe.
 - [Rijkswaterstaat: Waterways information](https://www.rijkswaterstaat.nl)

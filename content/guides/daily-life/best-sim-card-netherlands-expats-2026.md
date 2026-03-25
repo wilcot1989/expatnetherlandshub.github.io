@@ -453,4 +453,38 @@ For expats setting up a Dutch SIM online for the first time, a few things help t
 
 ---
 
+## Managing Your Dutch Number Over Time
+
+The relationship with your Dutch SIM card evolves over the months and years of expat life in the Netherlands. A few things worth knowing for the longer term.
+
+**Porting your number when switching providers.** The Dutch number porting system is efficient. When you switch providers, initiate the port request with your new provider before cancelling with the old one. Your new provider handles the transfer, which typically completes within one working day. You keep your Dutch number throughout. This means there is no penalty for switching providers when you find a better deal — take advantage of it.
+
+**Keeping home country numbers active.** For the first 6–12 months in the Netherlands, you may need to receive SMS verification codes from home country banks, government services, and accounts that still use your old number. The options are: keep your home SIM active on a minimal plan (checking what your home provider charges for an inactive or minimal-use contract); use a dual-SIM phone with the Dutch eSIM plus home country physical SIM; or, for services that allow it, switch to an authenticator app instead of SMS verification before cancelling the old number.
+
+**DigiD and your Dutch number.** DigiD requires SMS verification to a Dutch or EU mobile number. If you ever need to change the phone number associated with your DigiD account — for instance, if you switch providers or numbers — log in to digid.nl and update your number under account settings. Never let your DigiD-linked number lapse without updating it first, as recovering access without the registered number requires an in-person visit to a municipality office.
+
+**Cancellation when leaving the Netherlands.** When you eventually leave, cancelling your Dutch SIM with the number active long enough to retrieve any final verification codes is worth planning. Most Dutch providers require 1 month notice. Some expats maintain a minimal Dutch number for 6–12 months after leaving, to handle any residual Dutch administrative matters that require SMS verification.
+
+---
+
 For privacy tips specific to Dutch mobile use, see our [VPN guide for expats in the Netherlands](/guides/daily-life/best-vpn-netherlands-expats-2026/). For the full picture of everything you need to set up in the first weeks, see our [complete guide to moving to the Netherlands](/guides/legal/complete-guide-moving-to-netherlands-2026/). And for a broader view of the mobile market including full phone contracts and handset deals rather than just SIM-only options, the [best Dutch phone plans guide](/guides/daily-life/best-dutch-phone-plans-expats-2026/) covers the complete landscape of Dutch mobile providers in 2026.
+
+---
+
+## Comparing the Leading Dutch SIM Options: Quick Summary
+
+After years of living in the Netherlands and tracking the SIM market, here is the current snapshot in plain terms.
+
+**For immediate, no-fuss connectivity (first week):** Lebara or Lycamobile prepaid. Buy from any Albert Heijn, Primera, or petrol station. No registration required beyond ID. Top up with cash or card. Works immediately. Switch later once you have your BSN.
+
+**For the best long-term value on data (SIM-only monthly):** Simyo (on KPN network) and Ben (on KPN network) consistently offer the best combination of data volume and price. A 20–30 GB monthly SIM-only plan runs €12–20. No lock-in.
+
+**For international calls to outside the EU:** Lebara and Lycamobile specifically — they include bundles to many countries in Asia, Africa, and the Americas that are not included in standard Dutch plans.
+
+**For 5G in major cities with premium service:** KPN or T-Mobile (Odido) direct. Higher price, better coverage, better customer service when things go wrong.
+
+**For expats who travel frequently in the EU:** Any mainstream Dutch provider (KPN, Odido, Vodafone) — they all include full EU data roaming at domestic rates. Budget MVNOs may have fair use limits worth checking.
+
+**For expats who need a Dutch number before arrival:** Lebara, Simyo, and some others allow ordering and activating a Dutch SIM before you arrive, delivered to a Dutch address or arranged digitally. If your new employer needs a Dutch number for registration paperwork, this pre-arrival activation option is useful.
+
+The Dutch SIM market is competitive and consistently offers better value than most Western European equivalents. Whatever you choose, you are not locked in permanently — switching is fast and costs nothing.

@@ -409,4 +409,22 @@ No. In the Netherlands, health insurance (both basic and supplementary) can only
 
 ---
 
+## Making Your Annual Insurance Switch Decision: A Checklist
+
+Every November, Dutch health insurance comparisons open and you have until December 31 to switch. Here is how to approach the decision systematically rather than either ignoring it or switching automatically.
+
+**Step 1: Note your actual healthcare use in the past year.** How many physiotherapy sessions did you use? How many dental appointments? Did you see a specialist? Use your insurer's online portal to review your usage — most Dutch insurers provide a full claims history. This is the most important data point for next year's decision.
+
+**Step 2: Check whether your current supplementary package paid out appropriately.** If you paid €30/month for physiotherapy coverage and only used 3 of your 9 sessions, your plan may be over-insuring you. If you hit the maximum on dental coverage and paid out of pocket for additional treatment, you may be under-insured. Adjust accordingly.
+
+**Step 3: Run a Zorgpas or Independer comparison.** Enter your planned healthcare use for next year and let the comparison tool calculate the total annual cost (premiums plus expected out-of-pocket) under each plan. The tool handles the complexity; your job is to input honest expected usage.
+
+**Step 4: Check for new entrant discounts.** Insurers regularly offer welcome discounts or first-year premium reductions for new customers. These are often 5–15% off the annual premium. A switch that saves €200 in year one and then reverts to standard pricing may still be worth it — calculate the full-year value, not just the discount.
+
+**Step 5: Check your GP and specialist network.** If you have a specific GP, dentist, physiotherapist, or specialist you want to keep, verify that they are contracted with the new insurer before switching. Insurers publish their contracted network online — check before you commit.
+
+**Step 6: Make the switch before December 31.** Procrastinating into January means you stay on your current plan for another full year. Set a calendar reminder for November 15 to start the comparison and December 20 as the deadline for submitting any switch.
+
+---
+
 The combination that works for most expats is a sound basic policy with a moderate dental supplement and a physiotherapy add-on. This covers the two highest-probability expense categories for most working adults. Review it each November using Independer, adjusting based on what you actually claimed the previous year. Insurance is not set-and-forget — your healthcare needs change, insurer pricing changes annually, and the supplementary landscape shifts. A yearly review takes 30 minutes and consistently saves money or improves coverage for those who do it.

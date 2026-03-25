@@ -456,4 +456,34 @@ For most expats in the Netherlands, I recommend starting with [Babbel](https://w
 
 Whatever you choose, start today. Your future Dutch-speaking self will thank you.
 
+---
+
+## Frequently Asked Questions About Learning Dutch with Apps
+
+**How long does it take to reach conversational Dutch with apps alone?** Realistically, reaching A2 level — sufficient for basic daily interactions — takes 3–6 months of consistent daily practice (20–30 minutes per day) with a structured app like Babbel. Reaching B1, where you can hold real conversations on familiar topics, typically takes 12–18 months with apps plus some speaking practice with real Dutch speakers. Apps compress vocabulary and grammar learning but cannot fully replace real conversation for the speaking component.
+
+**Is Duolingo Dutch actually good?** Duolingo Dutch is genuinely useful for building vocabulary and maintaining daily practice habits, and the gamification works well for motivation. Its weakness is that it does not teach you the natural patterns of spoken Dutch or the specific vocabulary you need for Dutch professional and administrative life. It works best as a supplement to a more structured tool, not as a standalone solution.
+
+**Can I learn Dutch well enough to pass the inburgeringsexamen (civic integration exam) using apps?** Apps can get you to the A2 level that the inburgeringsexamen requires for most components, but the exam also includes a formal speaking assessment and reading components that benefit from structured NT2 (Dutch as a second language) course preparation. The Inburgering exam providers have specific prep materials that cover the exam format directly. Use apps to build your underlying language competence; use dedicated NT2 materials to prepare for the exam format.
+
+**What is the difference between NT2 Program I and Program II?** NT2 Program I is designed for people in non-academic occupations (level A2–B1). NT2 Program II is for people who need Dutch for professional, academic, or management contexts (level B2). If you work in a professional environment or plan to do so in Dutch, Program II is the relevant target. Most formal Dutch courses will assess which program suits your goals in an initial intake.
+
+**Should I use an app in Dutch or in my home language?** Use the app interface in English or your own first language until you have at least B1 Dutch. The reason: a language learning app requires you to understand instructions, feedback, and explanations. Those should be in a language you understand well so you can focus your cognitive energy on learning Dutch, not on decoding Dutch instructions about Dutch. Once you are at B1+, switching the interface to Dutch is a useful immersion strategy.
+
 The apps are tools, not a guarantee. Progress in Dutch — real, conversational Dutch that makes daily life richer and the country more accessible — comes from consistent daily practice combined with real-world use. Ten minutes of Babbel followed by a genuine conversation attempt at the bakery is worth more than an hour of app use with no speaking outside it. The Netherlands is the perfect classroom: the language is everywhere, the people are patient, and the feedback loop between app learning and real use is immediate. Use that advantage.
+
+---
+
+## Supplementing Apps with Real Dutch Exposure
+
+Apps build your foundation; real exposure builds your fluency. Here are the most practical ways to expose yourself to Dutch outside the app environment.
+
+**Dutch podcasts at your level.** Several podcasts exist specifically for Dutch learners. "Kletsheads" is aimed at advanced learners and discusses everyday topics in natural spoken Dutch. "Dutch Podcast for Beginners" by Bart de Pau (YouTube and podcast) is one of the most-watched Dutch learning resources internationally. Radio programmes on NPO Radio 1 (news) and NPO Radio 2 (general entertainment) provide natural exposure to how Dutch people actually speak.
+
+**Dutch television.** The NPO (Dutch public broadcaster) streaming platform provides free access to a huge range of Dutch television. Dutch news programmes — particularly NOS Journaal — use clear, standard Dutch that is good for learners. Dutch series such as "Penoza," "Flikken Maastricht," or "De Luizenmoeder" are excellent for natural dialogue. Turn on Dutch subtitles rather than English ones — reading along in Dutch reinforces the audio and helps with spelling.
+
+**Dutch newspapers and news sites.** Reading NOS.nl or Nu.nl daily — even just the headlines — builds vocabulary systematically in the context of current events. Dutch news writing is generally clear and uses standard Dutch without the dialectal variation of casual speech. A 10-minute daily read at your current level, looking up words you do not know, accelerates vocabulary in a way that apps alone do not.
+
+**Children's books.** This sounds patronising and works exceptionally well. Dutch children's books use controlled vocabulary, short sentences, and clear themes. The classic "Jip en Janneke" books by Annie M.G. Schmidt are beloved Dutch cultural references and written in clear, accessible Dutch. Reading one to two pages daily at A1–A2 level reinforces the basics in meaningful context.
+
+**Dutch friends and colleagues.** If you have Dutch colleagues, asking them to speak Dutch to you — even for short interactions — is valuable. Most Dutch people will default to English when they sense a non-Dutch speaker. Explicitly asking them to use Dutch, and telling them correction is welcome, signals that you are serious and gives you real-time feedback no app can provide.

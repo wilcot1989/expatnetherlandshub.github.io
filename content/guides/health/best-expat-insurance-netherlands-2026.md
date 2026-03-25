@@ -419,4 +419,28 @@ The key steps: compare health insurance on Independer before your 4-month deadli
 
 For the full picture of Dutch health insurance beyond the supplementary options, the [best Dutch health insurance plans guide](/blog/best-dutch-health-insurance-plans-2026/) compares all major insurers on premium, service quality, and expat-friendliness. And for anyone newly registering in the Netherlands, the [complete guide to moving to the Netherlands](/guides/legal/complete-guide-moving-to-netherlands-2026/) covers the sequence of registrations, insurance applications, and government interactions in the order they actually need to happen.
 
+---
+
+## Insurance Checklist for New Expats: What to Arrange and When
+
+For a newly arrived expat, the sequence of insurance decisions in your first weeks matters. Here is the practical order.
+
+**Within your first month:**
+
+1. **Dutch health insurance (basisverzekering)** — mandatory from the day you register with a gemeente. You have four months to apply; applications are backdated to your registration date. Do not wait — apply within your first two weeks to avoid the risk of forgetting. Use Independer to compare plans and premiums in one place.
+
+2. **Aansprakelijkheidsverzekering (liability insurance)** — apply the same day or the day after health insurance. It costs €3–5/month and covers you against third-party damage claims. In a country full of bicycles and expensive electronics, this is genuinely necessary and genuinely cheap.
+
+3. **Apply for zorgtoeslag** — once you have your BSN and health insurance policy number, apply for the healthcare allowance through the Belastingdienst portal. This is money you are entitled to but do not automatically receive. The average for expats in the mid-income range is €80–100/month. Do this in week two.
+
+**Within your first three months:**
+
+4. **Inboedelverzekering (contents insurance)** — if you rent furnished accommodation, check your lease to see whether the landlord's policy covers your personal possessions. Most do not. Arrange your own contents cover. A basic policy for an apartment runs €10–20/month.
+
+5. **Supplementary dental (aanvullende verzekering)** — adult dental care above basic treatments is not covered by the basisverzekering. If you expect to need dental work, add a dental supplement at the point of health insurance sign-up, as changing plans mid-year can reset waiting periods.
+
+**For freelancers and ZZP:**
+
+6. **Arbeidsongeschiktheidsverzekering (disability insurance)** — priority for anyone who does not have an employer covering sick pay. Research this in your first quarter of self-employment and arrange cover before you need it. Some comparison portals include AOV comparison tools; Independer and Inkomensverzekering.nl are both useful starting points.
+
 *Last updated: March 2026.*

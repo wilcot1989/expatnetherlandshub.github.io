@@ -332,4 +332,37 @@ Once you have chosen a city, the [finding housing in the Netherlands guide](/gui
 
 ---
 
+## Living Costs by City: A Realistic Snapshot
+
+Choosing the right city is partly about lifestyle and partly about money. Here is an honest breakdown of what to expect to pay for a one-bedroom apartment in each city, as of early 2026 for the private rental market:
+
+| City | 1-bed private rent (monthly) | Notes |
+|------|------------------------------|-------|
+| Amsterdam | €1,800–2,800 | Highly compressed market, prices vary significantly by neighbourhood |
+| Utrecht | €1,500–2,200 | Consistently high demand; limited supply |
+| The Hague | €1,400–2,000 | More availability than Amsterdam or Utrecht |
+| Rotterdam | €1,300–1,900 | Best value among major cities |
+| Eindhoven | €1,100–1,700 | Significant recent increase driven by ASML and tech demand |
+| Leiden | €1,400–2,000 | Premium location; Randstad connectivity justifies the price |
+| Maastricht | €900–1,400 | Most affordable on this list |
+| Groningen | €850–1,300 | Lowest rents; student city pricing even outside student areas |
+
+These are indicative figures for a furnished or unfurnished private sector property. Social housing (corporatiewoning) has far lower rents but queues that take years for new arrivals.
+
+**What is not in the rent:** Typically, your rent does not include energy (gas/electricity), water, and internet. Add €150–250/month for these utilities depending on usage and the efficiency of your property. A poorly insulated Dutch apartment can have significantly higher gas costs in winter.
+
+**The deposit situation:** Dutch landlords routinely require two or three months' rent as a deposit. In Amsterdam, at €2,000/month, this means having €4,000–6,000 available upfront for the deposit alone, on top of the first month's rent. Factor this into your arrival budget.
+
+---
+
+## Day Trip Connectivity: How Easily Can You Get Around the Netherlands from Each City
+
+One underappreciated factor in city choice is how easily you can get to other Dutch cities for work, weekend trips, and social visits.
+
+Amsterdam, Utrecht, and Leiden sit at the core of the Dutch rail network and can reach any other major city within 90 minutes. Rotterdam and The Hague are similarly central. Eindhoven has direct trains to Amsterdam (75 minutes) and good connections south to Belgium and Germany.
+
+Groningen is the outlier — 2 hours to Amsterdam by train, which is fine for occasional trips but meaningful if you have regular Amsterdam commitments. Maastricht is 2.5 hours from Amsterdam and more naturally connected to Belgium and Germany. Both are better suited to expats whose professional and personal networks are concentrated in the south or northeast rather than the Randstad.
+
+Schiphol airport connectivity matters particularly for expats who travel frequently. Amsterdam and Leiden are closest (15–30 minutes direct). Rotterdam, The Hague, and Utrecht are all under an hour by train. Eindhoven has its own international airport with a limited but growing range of European routes — useful for budget airline travel across Europe.
+
 *Sarah van den Berg is an expat coach and relocation specialist. Half Dutch, half British, she has lived in the Netherlands for over ten years across Amsterdam, Utrecht, and Leiden. She works with expats on housing, registration, and settling into Dutch life.*

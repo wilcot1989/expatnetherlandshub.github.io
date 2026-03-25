@@ -384,4 +384,20 @@ For home broadband comparison, see our [best internet providers in the Netherlan
 
 ---
 
+## Common Mistakes Expats Make with Dutch Phone Plans
+
+After helping dozens of newly arrived expats navigate the Dutch telecom market, I keep seeing the same mistakes. Here is what to avoid.
+
+**Signing up for a 24-month handset contract on arrival.** The first month in the Netherlands is often chaotic — you may not know where you will live in six months, what your income looks like, or whether you will stay long-term. Locking into a two-year phone and plan bundle before you have any of that settled is a mistake. Get prepaid first, then switch to a monthly SIM-only contract once you have a bank account and BSN. The Dutch market has genuinely good SIM-only options, so you lose nothing by waiting.
+
+**Overlooking roaming costs on budget providers.** KPN, T-Mobile, and Vodafone all include EU roaming at no extra cost, and for most destinations this is seamless. Some budget MVNO providers include EU roaming but with data speed caps or day allowances rather than full data roaming — check the small print. If you travel frequently to EU countries for work, the main operators' roaming terms are worth the marginally higher price.
+
+**Not checking which network the MVNO runs on.** Most Dutch budget providers are MVNOs (Mobile Virtual Network Operators) — they resell capacity on one of the big three networks. Simyo and Ben run on KPN's network. Tele2 has its own infrastructure but limited national coverage versus KPN. When you are choosing between budget providers, finding out which underlying network they use tells you a lot about coverage quality in your area.
+
+**Forgetting to port your number before the contract ends.** If you want to keep your Dutch number when switching providers, you need to request a port before your current contract expires. The Dutch porting process is fast (usually within one working day) but you need to initiate it before your number is released. Most providers make this easy via their app or website, but it requires your current account number and sometimes a transfer code (PAC code equivalent in Dutch).
+
+**Assuming your phone is unlocked.** Phones bought outside the Netherlands, particularly from non-EU markets, are sometimes SIM-locked to the original network. Check whether your handset is unlocked before you buy a Dutch SIM. If it is locked, the manufacturer can usually unlock it for free after you have had it for a certain period — Apple devices bought in the Netherlands are typically unlocked by default; Android varies by manufacturer.
+
+---
+
 *Have a question about Dutch phone plans? Drop it in the comments or get in touch. I update this guide regularly as the market changes.*

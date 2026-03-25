@@ -378,4 +378,23 @@ For expats in these secondary cities, the coworking quality is generally good an
 
 ---
 
+## Tax Deductions for Coworking in the Netherlands
+
+For freelancers and ZZP (self-employed) expats in the Netherlands, coworking membership costs are deductible as business expenses. This significantly affects the real cost.
+
+If you pay €300/month for a coworking membership and your effective tax rate as a ZZP is 35%, the after-tax cost is approximately €195/month. The coworking space functions both as a productive environment and as a legitimate tax deduction.
+
+**How to handle this correctly:**
+
+- Pay the coworking membership from your business bank account (ING ZZP, bunq Business, or similar)
+- Ensure the invoices from the coworking provider are addressed to your business name and KvK number, not your personal name
+- Record the expense category as "kantoorkosten" (office costs) or "werkplekhuur" in your accounting software
+- Retain all invoices — the Belastingdienst may request documentation during an audit
+
+The BTW (VAT) charged by coworking spaces is typically 21%. If you are BTW-registered (which you should be if your revenue exceeds €20,000 annually), you can reclaim this BTW in your quarterly BTW return, further reducing the net cost.
+
+**For employees working from home:** Employees who use a coworking space because their employer does not provide a workspace may be able to claim the home working allowance (thuiswerkvergoeding, currently €2.35/day in 2026) from their employer, or negotiate a coworking reimbursement as part of their employment terms. Dutch employers are generally open to workspace reimbursement as an employment benefit. Ask your HR department rather than assuming it is not available.
+
+---
+
 *Last updated: March 2026.*

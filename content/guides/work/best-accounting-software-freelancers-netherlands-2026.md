@@ -348,4 +348,22 @@ After watching many expat freelancers navigate their first year, the same mistak
 - [Complete ZZP freelancer guide for expats in the Netherlands](/guides/work/freelancer-zzp-guide-netherlands-2026/) — registering, structuring, and operating your business
 - [Tax guide for freelancers in the Netherlands](/guides/finance/tax-freelancers-zzp-netherlands-2026/) — what you owe and how to optimise
 - [Best tax advisors for expats in the Netherlands](/guides/finance/best-tax-advisors-expats-netherlands-2026/) — when to hire professional help
+
+---
+
+## The Dutch ZZP Tax Calendar: What Your Software Needs to Handle
+
+Understanding the annual tax rhythm of Dutch self-employment helps you configure your accounting software correctly and avoid the surprises that catch new freelancers every year.
+
+**Quarterly BTW (VAT) return.** If you are registered for BTW (which you should be if your annual revenue exceeds €20,000), you file a quarterly BTW aangifte with the Belastingdienst. The filing deadlines are: April 30 (Q1), July 31 (Q2), October 31 (Q3), and January 31 (Q4 of the previous year). Your accounting software should generate a BTW report that matches the format the Belastingdienst expects, showing the BTW you collected on your invoices, the BTW you paid on business expenses, and the net amount to pay or receive.
+
+**Annual income tax (inkomstenbelasting) return.** Filed once per year, covering all income from the previous calendar year. For ZZP, this includes your profit from freelance work, any employment income, and any other taxable income sources. The filing period runs from March 1 to April 30 for the previous year (you can request an extension if needed). Your accounting software calculates your net profit; your tax return (filed via the Belastingdienst portal or with a tax advisor) converts this into tax liability.
+
+**Provisional income tax assessment (voorlopige aanslag).** If you earned significant freelance income in the previous year, the Belastingdienst will send you a provisional tax assessment for the current year and expect quarterly instalments. Accounting software with cash flow forecasting helps you manage these instalments without surprises.
+
+**The zelfstandigenaftrek qualifying hours.** The ZZP income deduction (zelfstandigenaftrek, currently €3,750 in 2026 after recent reductions) requires you to work at least 1,225 hours per year in your business. Keep a basic record of your working hours — any spreadsheet or notes document works — so you can demonstrate this if the Belastingdienst queries it. Some accounting software includes a time-tracking module; if yours does not, a simple Google Sheet updated weekly is sufficient.
+
+**The KOR small business scheme.** If your annual revenue is below €20,000, you can apply for the KOR (Kleineondernemersregeling) exemption, which removes the obligation to charge BTW and file quarterly BTW returns. This simplifies your administration significantly but means you cannot reclaim BTW on your business expenses. For freelancers earning under €20,000, KOR is usually beneficial. Calculate both scenarios if you are near this threshold.
+
+---
 - [Best finance apps for expats in the Netherlands](/guides/finance/best-finance-apps-expats-netherlands-2026/) — managing personal finances alongside ZZP income

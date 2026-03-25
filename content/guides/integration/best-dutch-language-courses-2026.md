@@ -551,4 +551,38 @@ The best Dutch language course is the one you will actually use consistently. He
 - **Best immersive classroom experience**: Direct Dutch
 - **Best community-based program**: Taalhuis at your local library
 
+---
+
+## Language Learning as Integration: The Bigger Picture
+
+Learning Dutch is not just a language skill — it is an integration strategy. I want to be direct about this, because I have seen both extremes among the expats I work with.
+
+Some expats do not attempt Dutch at all, reasoning (reasonably) that Dutch people speak excellent English and that the effort required to learn Dutch is not worth it in a country where you can function perfectly well in English. This is practically true and personally limiting at the same time. The Netherlands you experience in English is a real but partial version of the country.
+
+Others become so focused on achieving perfect Dutch before speaking that they never speak at all, waiting until they feel "ready" — a threshold that never comes.
+
+The sweet spot is somewhere between these: learn enough Dutch to handle basic daily interactions, keep studying, and start using it imperfectly and early. The Dutch are genuinely appreciative when people make the effort, even at beginner level. A "goedemorgen" to your neighbour, ordering a coffee in Dutch, thanking the cashier in Dutch — these small moments accumulate into something meaningful.
+
+**Dutch and the housing market:** One underappreciated practical benefit of learning Dutch is in the housing search. Many Dutch rental listings, contracts, and landlord communications are in Dutch. Understanding Dutch well enough to read a lease contract directly — or at least to verify a translation — is genuinely valuable in a tight market where things move fast.
+
+**Dutch in the workplace:** For expats working in Dutch companies where the internal language is technically Dutch, having functional Dutch creates opportunities that English does not. Team lunches, informal conversations, understanding the meeting subtext that does not get translated — these are where professional relationships actually develop.
+
+**The integration examination requirement:** Non-EU expats in the Netherlands who have certain types of residence permits must pass the inburgeringsexamen within three years of arrival. This is not optional. The exam covers Dutch language at A2 level, Dutch society (ONA), and labour market knowledge (MAP). Treating Dutch language learning as a deliberate preparation for this exam — rather than a casual side project — is the practical approach if the inburgering requirement applies to you. Check with the IND whether your permit requires it.
+
 Most successful Dutch learners combine multiple methods: an app for daily practice, a tutor for speaking, and real-world immersion for everything else. Start with [Babbel](https://www.babbel.com/) today, book your first [italki](https://www.italki.com/) session this week, and commit to speaking a little Dutch every day. In six months, you will be amazed at your progress.
+
+---
+
+## Inburgeringsexamen: What the Integration Exam Requires
+
+For non-EU expats whose residence permit requires integration, the inburgeringsexamen is not optional — and language courses should be selected with this exam in mind.
+
+**The inburgering pathway changed in 2022.** The new system (Wet inburgering 2021) distinguishes between three routes depending on your situation: the B1 route (standard, for most newcomers), the Z route (for those with limited literacy or no schooling background), and the OGO route (education and labour market participation). Most professional expats with good education backgrounds follow the B1 route.
+
+**What the B1 route requires.** To complete the B1 inburgering pathway, you must pass three main components: Dutch language at B1 level (Taalexamen Inburgering), the Netherlands as your Orientation on the Dutch Labour Market (ONA), and the Dutch civic integration exam (Kennis van de Nederlandse Maatschappij, KNM). The full process takes 3 years in principle, though many motivated learners complete it faster.
+
+**Certified courses.** Not every Dutch language course counts toward inburgering preparation. DUO-approved courses and providers whose programmes are accredited for inburgering purposes can be part of a PIP (Persoonlijk Inburgeringsplan) — the personal plan agreed with your municipality. When choosing a course for inburgering compliance, check explicitly whether the provider is approved and whether the programme aligns with your PIP requirements.
+
+**Language school versus self-directed learning.** Many professional expats self-direct their Dutch learning (apps, tutors, self-study) while supplementing with structured components specifically for the inburgering exam. This works but requires discipline and honest self-assessment of progress. The risk is arriving at the exam deadline without sufficient preparation. A structured NT2 course at a school with exam preparation built in reduces this risk.
+
+**Costs and funding.** DUO provides a budget (lening inburgering) for eligible newcomers to fund their inburgering course — typically €10,000–15,000 over the 3-year period. This is a loan that is partially forgiven if you complete inburgering within 3 years. The specifics of eligibility and repayment depend on your permit type. Your municipality's integration team (usually the Werk en Inkomen department) should provide guidance when you arrive.

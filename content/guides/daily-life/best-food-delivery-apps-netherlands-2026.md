@@ -355,4 +355,22 @@ After years of relying on various combinations of delivery apps in Amsterdam, he
 
 This four-app stack handles everything without any monthly subscriptions. Total overhead: zero. Total flexibility: maximum. Most expats find they converge on something similar after the initial experimentation phase.
 
+---
+
+## Tips for Getting the Most Out of Food Delivery in the Netherlands
+
+A few things I have learned after years of using Dutch delivery apps that do not get covered in most guides.
+
+**Use Thuisbezorgd for Indonesian and Asian food specifically.** The Netherlands has an extraordinary Indonesian food tradition — a legacy of colonial history — and the quality of Indonesian restaurants in most Dutch cities is genuinely exceptional. On Thuisbezorgd you will find rijsttafel, nasi goreng, bami, and satay from restaurants that have been doing this for decades. This is not fast food — these are family-run places producing real food. The Indonesian delivery options on Thuisbezorgd are among the best-value, highest-quality deliveries available.
+
+**Order Thuisbezorgd in advance for Friday and Saturday evenings.** Friday and Saturday evenings between 18:00 and 20:00 are peak delivery windows across the Netherlands. Delivery times stretch to 60–90 minutes in popular cities during these windows. If you order by 17:30, you typically get faster delivery. Some restaurants allow pre-scheduling delivery — if you know you want dinner at 19:30, order at 16:00.
+
+**Flink for coffee and wine, not just groceries.** Flink's actual selection in 2026 extends beyond what most people use it for. They carry wine, beer, sparkling water, specialty coffee beans, and a small but decent fresh section. The "quick run to the bottle shop" use case is where Flink earns its keep more than the emergency milk situation.
+
+**Pay attention to Crisp's seasonal offers.** Crisp partners with small Dutch producers and often runs seasonal specials — asparagus season (April/May), strawberry season (June), apple and pear harvest specials (September/October). These tend to sell out quickly but represent genuinely good-value, farm-direct produce. Setting up Crisp's push notifications for these seasonal offers is one of the more worthwhile notification settings you can enable.
+
+**Check for Thuisbezorgd Vouchers.** Thuisbezorgd periodically runs discount codes — particularly for first orders (usually 20–30% off, capped at €10) and occasionally for specific restaurants running promotions. Worth checking the promotions section of the app before your first order if you have not used it before.
+
+**Combine Picnic with local markets.** Picnic handles dry goods, branded items, and dairy well. Dutch farmers' markets and street markets handle fresh vegetables, bread, and specialty items better at equivalent or lower prices. The combination — Picnic for the weekly staples, market for the seasonal fresh produce — is both economical and a much better culinary experience than using any single delivery service for everything.
+
 For a broader view of Dutch grocery shopping — including the physical supermarkets, specialty stores, and weekly markets that complement delivery — see the [complete guide to grocery shopping in the Netherlands for expats](/guides/daily-life/best-grocery-delivery-netherlands-2026/). And if you are still in the process of setting up your Dutch bank account for iDEAL payments, the [bank account guide](/guides/finance/best-bank-account-expats-netherlands-2026/) walks through which account to open first.

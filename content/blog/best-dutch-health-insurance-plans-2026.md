@@ -389,4 +389,22 @@ A aanvullende verzekering is a supplementary insurance policy that covers things
 
 **When can I switch Dutch health insurer?**
 
+You can switch Dutch health insurers once per year, during the annual switch period from November 1 to December 31. Changes take effect on January 1 of the following year. During this period, compare premiums and policies carefully — particularly any changes to the supplementary coverage terms, as insurers revise these annually.
+
+---
+
+## Practical Tips for Getting the Most from Dutch Health Insurance
+
+After a decade in the Netherlands and hundreds of conversations with expats navigating the Dutch healthcare system, here is what actually makes a difference.
+
+**Register with a huisarts (GP) immediately.** Dutch healthcare is gatekeeper-based. You cannot see a specialist without a referral from your GP, and you cannot get most specialist care or mental health care without going through the GP first. Registering with a GP as soon as you move to your neighbourhood — before you are ill, not during — means you are not scrambling during your first health issue. Most GP practices are full and have waiting lists for new patients. Register the day you move in. Find practices via huisartslocatie.nl.
+
+**Understand the eigen risico before you use healthcare.** The annual excess (€385 in 2026) means you pay the first €385 of most healthcare costs out of pocket each year. GP visits are excluded. But the moment you need specialist care, a scan, or a hospital visit, you start working through your deductible. Knowing this prevents the surprise bill that many new expats describe after their first Dutch hospital encounter.
+
+**Keep your EHIC for EU travel.** The European Health Insurance Card (EHIC) proves you have Dutch health insurance coverage when you travel within the EU/EEA. Your health insurer issues it — request it through your insurer's app or website. It is not a substitute for travel insurance (medical evacuation and some treatment costs are not covered), but it ensures you are treated as a resident of your destination country rather than as an uninsured visitor.
+
+**Check your zorgtoeslag eligibility once per year.** If your income changes significantly — a new job, a pay rise, starting freelance work — your zorgtoeslag entitlement may change. Failing to update your estimated income can result in having to repay an overclaimed allowance at the end of the year. Log in to mijntoeslagen.belastingdienst.nl after any significant income change and update your details.
+
+**For mental health care:** Dutch basic health insurance covers mental health care (ggz) after GP referral, but access has been constrained by long waiting lists in recent years. Many expats who need mental health support find that the waiting times for Dutch-language care are long, and that English-language therapy is often available faster through private providers or through platforms like Open Up (widely offered through Dutch employers). Check whether your employer's health or wellness package includes any mental health support — many Dutch multinationals include this in their employee benefits.
+
 You can switch health insurer once per year during the open enrolment period, which runs from 1 November to 31 December. Your new insurance starts on 1 January. Outside this window, you can only switch if you change jobs and your collective insurance scheme changes, or in a few other specific circumstances. It is worth comparing annually — premiums change every year, and the insurer that was cheapest in 2024 may not be the best value in 2026.

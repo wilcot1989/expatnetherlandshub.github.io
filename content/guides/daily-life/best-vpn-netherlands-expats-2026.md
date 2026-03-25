@@ -414,4 +414,32 @@ If your corporate IT department has policies about VPN software, check them befo
 
 For more on getting set up in the Netherlands, see our [complete relocation guide](/guides/legal/complete-guide-moving-to-netherlands-2026/), my guide to the [best SIM cards for expats](/guides/daily-life/best-sim-card-netherlands-expats-2026/), and our [best internet providers in the Netherlands guide](/guides/daily-life/best-internet-providers-netherlands-2026/) — a fast, reliable home connection pairs well with a VPN for the full streaming and privacy setup.
 
+---
+
+## VPN and Dutch Privacy Law: What Expats Should Know
+
+The Netherlands is an EU member and subject to GDPR, which provides some of the strongest personal data protections in the world. But this does not mean your privacy is automatically protected in every context.
+
+**Internet service providers can log metadata.** Under Dutch law (and EU directive), internet service providers are permitted to retain connection metadata — not the content of your communications, but the fact that you connected to particular services at particular times. This is relevant for expats who want a clean separation between their browsing habits and their ISP's records. A VPN encrypts your traffic between your device and the VPN server, so your ISP sees only the VPN connection, not what you are doing through it.
+
+**Public WiFi remains a genuine risk.** Despite the Netherlands' strong digital infrastructure, public WiFi at airports, cafés, coworking spaces, and public transit remains vulnerable to interception. This is not a Dutch-specific problem — it is a property of open WiFi networks everywhere. Using a VPN on any public WiFi is the consistent protection.
+
+**Banking apps on unfamiliar networks.** Dutch banks' apps are well-secured at the app level. But logging into your Dutch bank (or your home-country bank) over unfamiliar public WiFi creates an attack surface for man-in-the-middle interception. VPN protection during banking on public networks eliminates this category of risk.
+
+**Streaming rights are geography-based, not GDPR-covered.** The most common day-to-day VPN use case for expats — accessing home-country streaming services — is about streaming rights contracts, not legal privacy protection. Netflix, BBC iPlayer, and similar services are geo-restricted by commercial licencing agreements. Using a VPN to bypass these restrictions is a terms-of-service issue with the streaming service, not a legal matter in the Netherlands. Most streaming services tolerate it.
+
+**No obligation to use a VPN.** The Netherlands has no requirement to use a VPN and no restrictions on which VPN providers you can use. Unlike some countries where VPN use is regulated or restricted, Dutch expats can use any commercial VPN service freely.
+
+---
+
+## How to Get the Most Out of Your VPN as an Expat
+
+A few practical notes for getting maximum value from a VPN subscription during your time in the Netherlands.
+
+**Set a home-country server as your default.** If your primary use case is accessing home-country content, set the VPN to automatically connect to a server in your home country when you open certain apps (split tunnelling feature). This means BBC iPlayer automatically uses a UK server, while your Dutch banking app connects without the VPN — avoiding the common problem of bank security blocking VPN exit nodes.
+
+**Use the VPN kill switch.** NordVPN and most serious VPN providers include a kill switch that cuts your internet connection if the VPN drops unexpectedly. This is important for privacy-sensitive work — without a kill switch, a VPN dropout can briefly expose your real IP and connection. Enable it in the app settings and leave it on.
+
+**Speed test before assuming a problem.** If you experience slow speeds on a VPN, it is often a specific server being overloaded. Most VPN apps have an auto-connect to fastest server option, or you can manually switch to a different server in the same country. Netherlands-based servers from NordVPN and ExpressVPN deliver speeds that are nearly indistinguishable from unprotected connections during non-peak hours.
+
 The bottom line on VPNs for expats in the Netherlands: the question is not really whether to get one, but which one. The cost is low, the benefits are significant, and the setup takes five minutes. NordVPN for most people, Surfshark if you have many devices or a household, ProtonVPN if privacy is your overriding concern. Any of these is vastly better than relying on an unprotected connection for banking, work, and streaming across your years living abroad.

@@ -414,4 +414,20 @@ Amsterdam's coworking market went through a significant consolidation between 20
 - [B.Amsterdam campus](https://www.b.amsterdam)
 - [A Lab Amsterdam](https://www.alab.amsterdam)
 - [NDSM Amsterdam](https://www.ndsm.nl)
+
+---
+
+## Choosing Your First Amsterdam Coworking Space: A Practical Framework
+
+If you are new to Amsterdam and overwhelmed by the options, here is the decision framework I walk people through.
+
+**Step 1: Define your actual work pattern.** Are you in a space all day, every day? Or do you need somewhere 2–3 days a week while working from home or client sites the rest of the time? Full-time users get the most value from fixed desk memberships and should prioritise ergonomics and quiet. Part-time users should prioritise flexibility and proximity to wherever they spend the rest of their time.
+
+**Step 2: Be honest about your commute tolerance.** Amsterdam's distances are short but variable. De Pijp to NDSM Werf is 45 minutes by public transport — a meaningful daily commute. If you live in Oud-West, the Overtoom/Leidseplein area makes more sense than Noord. Map the commute from your home (or anticipated home area) before booking a tour.
+
+**Step 3: Tour at least three spaces.** The difference between how a space looks on its website and how it feels at 10am on a Tuesday is significant. Tour during your intended working hours — a space that looks serene at 9am can be very different at 11am when all members arrive. Pay attention to noise levels, air quality, and how members interact (or do not interact) with each other.
+
+**Step 4: Use day passes before committing.** Most Amsterdam coworking spaces offer day passes at €15–35. Spend one full day working in a space before signing a month-long membership. You will learn more from one real working day than from any number of website photos or tour pitches.
+
+**Step 5: Ask about the exit terms.** Monthly rolling contracts are standard in Amsterdam, but some operators require notice periods of up to 30 days. For expats with uncertain timelines, understanding exit terms before committing is important. WeWork and Spaces have online management; independent spaces may require more notice. Confirm in writing what notice is required before signing.
 - [Mindspace Amsterdam](https://www.mindspace.me/locations/amsterdam/)

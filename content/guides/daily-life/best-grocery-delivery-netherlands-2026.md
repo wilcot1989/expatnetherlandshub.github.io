@@ -507,4 +507,20 @@ Grocery costs in the Netherlands for a single person typically run €200–350 
 
 <a href="/tools/housing-budget-checker/" class="cta-affiliate">Calculate your full monthly budget →</a>
 
+---
+
+## International and Specialty Products: What to Expect
+
+One thing that surprises many new expats is how well-stocked Dutch supermarkets are for international products — particularly compared to northern European neighbours. Here is a practical breakdown by cuisine and dietary need.
+
+**Asian and Indonesian products:** Albert Heijn carries a solid range of Asian staples — soy sauce, fish sauce, coconut milk, various noodle types, tofu, and a modest selection of Asian sauces. Jumbo is broadly similar. For anything more specific — pandan leaves, galangal, Thai basil, Vietnamese herbs, Korean ingredients — you need a specialist store. Amazing Oriental (multiple locations across the Netherlands) is the best national chain for this. Any city with a sizeable Surinamese or Indonesian community will have an excellent toko nearby.
+
+**Middle Eastern and North African products:** Most Dutch supermarkets now carry halal meat sections and a good range of Middle Eastern staples. Cities with large Moroccan and Turkish communities — Amsterdam, Rotterdam, Utrecht, The Hague, Tilburg — have excellent specialist Moroccan and Turkish grocery stores within most neighbourhoods. Online delivery from these is not universal but many have expanded their Thuisbezorgd or direct delivery capabilities.
+
+**Polish, Eastern European, and Russian products:** The Netherlands has a significant Polish community, and in cities with that demographic there are dedicated Polish grocery stores. These carry a wide range of Eastern European products that Dutch supermarkets do not stock. They are also often extremely competitive on price for staples.
+
+**Organic and quality products:** Albert Heijn's "Puur&Eerlijk" and "AH Biologisch" ranges have expanded significantly. Crisp's delivery service is the best option if organic is a priority and you are not near a specialist store. The EkoPlaza chain of organic supermarkets has physical stores in most major Dutch cities and offers online ordering via their website.
+
+**Dietary-specific:** The Netherlands has become genuinely well-served for plant-based diets in the last five years. Albert Heijn's "Lekker Vegan" own-brand range and similar from Jumbo and Lidl cover most plant-based cooking needs at supermarket prices. For gluten-free, all major supermarkets now carry dedicated sections. For specific cultural or religious food requirements beyond standard halal and kosher, specialist import stores in major cities are your best option — Google will surface what is available in your specific city.
+
 For more practical guides on settling into Dutch daily life, read our articles on the [best internet providers](/guides/daily-life/best-internet-providers-netherlands-2026/), [cost of living](/guides/housing/cost-of-living-netherlands-2026/), and [best SIM cards for expats](/guides/daily-life/best-sim-card-netherlands-expats-2026/). If you're still figuring out your budget before arrival, our [cost of living guide](/guides/housing/cost-of-living-netherlands-2026/) breaks down what groceries, housing, and transport actually cost month to month. And once you've sorted your shopping routine, our [cycling guide](/guides/daily-life/cycling-netherlands-expat-guide-2026/) covers the other daily-life must-have in the Netherlands.

@@ -365,4 +365,20 @@ None of these situations requires a full tax return engagement — a one-hour co
 - [30% ruling Netherlands: eligibility, application, and benefits](/guides/finance/30-percent-ruling-netherlands-2026/)
 - [Dutch tax return for expats: step-by-step guide](/guides/finance/expat-tax-return-netherlands-2026/)
 - [Best finance apps for expats in the Netherlands](/guides/finance/best-finance-apps-expats-netherlands-2026/)
+
+---
+
+## What a Good Expat Tax Advisor Actually Does for You
+
+I talk to a lot of expats who are uncertain whether hiring a tax advisor is worth the cost. The honest answer depends on your situation, but here are the specific scenarios where the return on a tax advisor's fee is clearly positive.
+
+**30% ruling application:** If you qualify for the 30% ruling but have not applied within four months of starting your Dutch job, you lose the benefit permanently for that employment. A tax advisor who specialises in expat cases ensures the application is filed correctly and on time, and identifies whether your package structure is optimised for the ruling. For someone earning €60,000, the ruling is worth approximately €9,000 per year in additional take-home pay. The advisor's fee of €300–600 is obviously worthwhile.
+
+**Year of arrival (M-form):** Your first Dutch tax return in the year you arrive in the Netherlands is a partial-year return called the M-form (M-biljet). It covers the period from your arrival date to 31 December and requires you to report income from both the Netherlands and your home country during the year. The M-form cannot be filed through the standard online portal — it requires special software or a paper form. Most expats find this genuinely confusing. An advisor handles it in 1–2 hours of your time, and often identifies withholding tax refunds that cover their fee.
+
+**Self-employed (ZZP) combined with employment:** Running a side business or freelance practice alongside your Dutch employment creates a significantly more complex tax situation. You have both employment income (Box 1) and business income to report, plus potential deductions for ZZP costs, the MKB profit exemption (14%), and the zelfstandigenaftrek if you meet the hours criterion. Getting these deductions right without specialist knowledge is difficult. A ZZP-experienced accountant typically pays for themselves in recovered deductions.
+
+**Investments and Box 3:** The Dutch Box 3 system (a flat annual wealth tax on savings and investments above a threshold) went through a significant legal challenge and revision in recent years. For expats with substantial investment portfolios — particularly those with assets in multiple countries — understanding your correct Box 3 position and ensuring you are not over-reporting or under-reporting is genuinely complex. The Dutch tax authority's own guidance documents run to hundreds of pages on this topic alone.
+
+**The cost of getting it wrong:** Dutch tax returns are subject to a 5-year review window. Belastingdienst (the Dutch tax authority) can issue additional assessments up to 5 years after the tax year in question. An incorrect return that goes undiscovered for 3 years can result in a back-payment with interest. The cumulative risk of self-filing an incorrect return on a complex situation is worth factoring into the cost-benefit of hiring an advisor.
 - [Guide for American expats in the Netherlands](/guides/finance/netherlands-for-american-expats-2026/)

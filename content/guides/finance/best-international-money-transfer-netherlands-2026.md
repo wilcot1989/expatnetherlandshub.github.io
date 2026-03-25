@@ -501,4 +501,38 @@ Set up your Wise account before you move, add a Dutch bank account once you have
 
 <a href="https://wise.com/invite/ihpc/willemt52" class="cta-affiliate" rel="noopener nofollow sponsored" target="_blank">Start Saving on International Transfers with Wise →</a>
 
+---
+
+## Practical Scenarios: Which Service to Use When
+
+After years of handling international transfers in both directions — from the Netherlands and back — I have developed clear preferences for specific situations. Here is what I actually do.
+
+**Sending €500–5,000 to a UK bank account:** Wise, every time. The fee is around 0.5–0.7% of the amount, the rate is mid-market, and the transfer typically arrives within hours. A SWIFT transfer from ING for the same amount costs €25 in fixed fees plus a 1.5% currency spread — Wise saves approximately €35–85 on a €3,000 transfer.
+
+**Receiving salary from a non-Dutch employer:** Keep a Wise multi-currency account. If your employer pays in GBP, USD, or another currency, receive it into the matching Wise currency account and convert to EUR when you choose. This avoids your employer's bank and your Dutch bank both taking conversion fees on the same payment.
+
+**Sending a large one-off sum (€20,000+) for a property purchase abroad:** OFX for its fixed-rate forward contracts and dedicated account manager support. For transactions of this size, the difference between OFX's institutional rates and Wise's consumer rates becomes negligible, but OFX's ability to lock a rate days or weeks in advance provides certainty when timing matters for a property completion.
+
+**Regular monthly transfers to parents or family (€100–500):** Wise for EU and major currency corridors. Remitly or World Remit for countries where Wise has less competitive rates — check both for your specific destination and amount before committing.
+
+**Receiving freelance payments from a US client in USD:** Accept into your Wise USD account using Wise's US routing number and account details. This allows your US client to pay as if they were making a domestic US transfer, eliminating international wire fees on their end. Convert USD to EUR in Wise when you are ready.
+
+**Emergency transfer when someone needs money urgently:** Wise's instant transfer option (available for many currency corridors) typically arrives within minutes. For destinations where instant is not available, Western Union's cash pickup network remains the fastest option for urgent transfers to countries with limited banking infrastructure.
+
 For more on managing your finances in the Netherlands, see my guide to the [30% ruling](/guides/finance/30-percent-ruling-netherlands-2026/) and our [complete guide to moving to the Netherlands in 2026](/guides/legal/complete-guide-moving-to-netherlands-2026/).
+
+---
+
+## Understanding Dutch Tax Implications of International Transfers
+
+International money transfers have tax implications that many expats do not think about until they become a problem. Here is what you need to know in the Dutch context.
+
+**Transfers are not taxable income.** Moving money from a foreign bank account to your Dutch account is not a taxable event. It is a transfer of existing assets, not income. You do not need to declare transfers as income on your Dutch tax return.
+
+**Foreign bank accounts must be declared in Box 3.** The balance in your foreign bank accounts on 1 January each year must be declared as part of your Box 3 (wealth) tax return. The Dutch tax authority has automatic information exchange agreements with most countries — they can see foreign account balances reported by foreign banks. Failing to declare is risky. The declaration requires the account balance, the country, and the institution.
+
+**Large transfers from abroad may trigger queries.** The Dutch banking sector is subject to anti-money laundering (AML) regulations. A large single transfer from abroad — particularly from a non-EU country — may prompt your Dutch bank to request documentation explaining the source of the funds. A salary payment, property sale proceeds, or inheritance can all be explained with appropriate documentation. This is a standard AML process, not an accusation of wrongdoing, but it is worth being prepared to explain large transfers if asked.
+
+**Regular transfers to family abroad are not deductible.** Sending money to support family members in another country is not a deductible expense for Dutch income tax purposes, unless the recipient is a dependent who qualifies under specific Dutch family support rules (which is uncommon). Do not attempt to claim regular family support payments as a tax deduction without specific advice from a Dutch tax specialist.
+
+**Currency gains on foreign accounts.** If you hold a foreign currency account (USD, GBP, etc.) and the exchange rate moves in your favour between 1 January and the date you convert to EUR, the notional gain is part of your Box 3 position on the relevant reference date. For most expats with modest foreign currency balances, this is not significant. For those with substantial foreign currency holdings — property proceeds, large investment accounts — this is worth including in your tax planning conversation.

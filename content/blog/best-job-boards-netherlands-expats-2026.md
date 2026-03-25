@@ -406,3 +406,19 @@ All major job boards in the Netherlands are free for candidates. LinkedIn (free 
 **What is The Undutchables and how does it work?**
 
 The Undutchables is a Dutch recruitment agency specialising in placing multilingual and English-speaking professionals in the Netherlands. They work across sectors including finance, HR, marketing, legal, customer service, and operations. Unlike a job board, you register with them (free) and are matched with roles. They also advertise specific openings on their website. Their specialisation in expat placements means their consultants understand the Dutch work permit and Kennismigrant system, which is useful for non-EU candidates. They have offices in Amsterdam, Rotterdam, The Hague, and Utrecht.
+
+---
+
+## Practical Job Search Strategy for Expats in the Netherlands
+
+Having worked with many expats navigating their first Dutch job search, I have seen what works and what wastes months. Here is the honest summary.
+
+**LinkedIn is not optional.** If you are serious about finding professional employment in the Netherlands, you need a complete LinkedIn profile. Not because recruiters will magically find you — they might not — but because Dutch hiring managers and HR teams check LinkedIn on every candidate before deciding whether to interview. A sparse or absent LinkedIn profile creates a negative impression even before you get to interview stage. Treat your LinkedIn profile as your primary professional document: full employment history, a professional photo, a summary written in English that is concise and specific.
+
+**Direct applications outperform passive waiting.** The most common mistake expats make is applying to many roles and waiting to hear back. The Dutch job market, particularly for English-speaking roles, responds much better to a direct approach. Find the company you want to work for, identify the relevant hiring manager or department head on LinkedIn, and send a personalised direct message referencing a specific reason you are interested in them. Response rates for personalised direct outreach are significantly higher than application form submissions.
+
+**Your Dutch network starts with other expats.** When you do not know anyone in the Netherlands, the fastest way to build a relevant network is through the expat professional community — Internations events, IamExpat community activities, LinkedIn expat groups. People who have recently navigated the same search are the most useful connections. They know which companies are hiring, which agencies are worth working with, and what the realistic timeframes are.
+
+**Understand the Kennismigrant route if you are non-EU.** The Kennismigrant (highly skilled migrant) permit is the primary pathway for non-EU expats to work in the Netherlands. It requires sponsorship from an IND-recognised employer and a minimum gross salary threshold (approximately €4,840/month in 2026 for workers under 30, €5,671/month for workers 30 and over). Roles advertised on IamExpat Jobs and through agencies like The Undutchables that are open to non-EU candidates are typically at companies that can provide this sponsorship. If you are non-EU, filter for these explicitly rather than applying to small companies that may not have IND recognition.
+
+**Set realistic timelines.** A Dutch job search for an expat typically takes 2–4 months from starting active applications to accepting an offer. This varies significantly by sector: technology and finance are faster; government and education take longer. Plan your finances accordingly — arriving with 3–4 months of living expenses as a buffer is the realistic preparation for a professional job search.

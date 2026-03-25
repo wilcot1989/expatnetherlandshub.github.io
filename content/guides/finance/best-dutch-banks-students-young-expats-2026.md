@@ -365,4 +365,20 @@ Many international students in the Netherlands work part-time alongside their st
 
 **Annual tax return:** After your first full year of work in the Netherlands, you should file a tax return (aangifte inkomstenbelasting) via the Belastingdienst app or portal. Many students receive a refund — particularly if they worked intermittently, had periods without income, or did not claim the full loonheffingskorting. The average refund for part-time student workers is €100–300. It is worth 30 minutes of effort.
 
+---
+
+## Avoiding the Most Common Money Mistakes as a Student Expat
+
+After talking to hundreds of international students and young expats in the Netherlands, I have seen the same financial mistakes come up repeatedly. Here is what to avoid.
+
+**Relying on a foreign bank account for too long.** It feels convenient to keep using your home bank for the first few months. The problem is that iDEAL — the payment system for Dutch webshops, rent payment portals, utility sign-ups, and government services — requires a Dutch IBAN. Without one, you will find yourself locked out of normal Dutch digital transactions. Open a Dutch or Dutch-compatible account (ING, bunq, or Wise with its Dutch IBAN capability) within your first two weeks.
+
+**Underestimating the cost of living in the first month.** The first month in the Netherlands nearly always costs more than subsequent months. You are paying deposit and first month's rent simultaneously, buying household supplies, getting a bike, possibly paying for temporary accommodation before your permanent place is ready. Budget at least 2–3× your normal monthly expenses for month one, and have this accessible before you arrive.
+
+**Ignoring zorgtoeslag.** Health insurance is mandatory in the Netherlands from the moment you register. The monthly premium runs €140–160/month for a basic policy. However, most students and young expats with lower incomes qualify for zorgtoeslag — the healthcare allowance — which can be worth €80–120/month. This offsets a significant part of the cost, but you have to apply for it. Many new arrivals either do not know about it or delay applying. Apply immediately after receiving your BSN through the Belastingdienst portal. Backdating is only possible for the current calendar year.
+
+**Not using the student discount ecosystem.** Dutch cities have an extensive network of student discounts for transport (OV-studentenreisproduct), museums, cinema, theatre, sports facilities, and software. These require a valid student card from a Dutch educational institution. Setting up the OV-studentenreisproduct alone — which gives you free travel on one day of the week and discounted travel otherwise — saves most students €50–100/month on public transport. The process requires activating the benefit through the DUO portal, which uses DigiD.
+
+**Mixing personal and business expenses if you are freelancing.** Many international students in the Netherlands do some freelance work alongside their studies. Even a few invoices per year makes you technically a ZZP (self-employed freelancer) for tax purposes. Keep your freelance income and expenses in a separate account from the start — bunq's sub-account feature makes this easy — and track every invoice and deductible expense. The Dutch tax system is reasonably generous to self-employed people, but only if you have the records to claim what you are entitled to.
+
 Your Dutch bank account (NL IBAN) is required for tax refunds to be deposited. This is another reason to get ING or ABN AMRO set up promptly — any tax refund owed will be paid to the NL IBAN registered with the Belastingdienst.

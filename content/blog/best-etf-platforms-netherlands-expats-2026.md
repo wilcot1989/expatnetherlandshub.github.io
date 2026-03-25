@@ -409,6 +409,20 @@ If you had investments in your home country before moving, you have a few decisi
 
 ---
 
+## Getting Started: The First Three Months
+
+For expats who are new to investing in the Netherlands, the first three months matter more than the platform choice. Here is what I recommend.
+
+**Month one:** Open an account on DEGIRO or IBKR but do not invest yet. Let the account sit while you get your bearings — understand your Dutch income, set up your bank accounts, figure out your actual monthly expenses versus your estimates. Investing from a position of uncertainty about your expenses creates the risk of investing money you need in the near term.
+
+**Month two:** Set a realistic monthly investment amount based on your first month's actual spending. A common approach: take your monthly income after tax, subtract all fixed costs (rent, insurance, transport), subtract a realistic estimate of variable costs, and invest 20–30% of whatever remains. Even €100–200/month invested consistently composes meaningfully over years.
+
+**Month three:** Make your first purchase — a broad global ETF (VWCE on DEGIRO, for instance) or the iShares equivalent. Set up a recurring monthly investment if the platform supports it. Review your Box 3 position at year-end to understand what you need to declare.
+
+The reason to start small and systematic rather than large and irregular: the investing behaviour that builds wealth is consistency, not timing. Dutch Box 3 tax applies to your 1 January balance, so spreading purchases across the year rather than in December has a marginal tax advantage too.
+
+---
+
 ## Rebalancing and Managing Your Portfolio as an Expat
 
 One practical advantage of being in the Netherlands versus some other European countries: the Box 3 system does not create a tax incentive to avoid rebalancing. In countries with capital gains tax, rebalancing (selling over-weighted positions) can trigger a tax bill. In the Netherlands, because Box 3 taxes your total wealth regardless of realised gains, selling and rebalancing within a year has no additional tax consequence.

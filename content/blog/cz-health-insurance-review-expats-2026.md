@@ -430,4 +430,20 @@ Under CZ's restitutie policy, medically necessary care received abroad is genera
 
 You can only switch your basic health insurer during the annual open enrollment period, which runs from mid-November to 31 December. The new policy takes effect on 1 January. If you are new to the Netherlands and registering for the first time, you can take out CZ at any point in the year — your coverage starts from your municipality registration date.
 
+---
+
+## CZ vs the Other Major Dutch Insurers: How It Stacks Up
+
+For an expat deciding between Dutch health insurers, the meaningful comparison is not between individual CZ plans but between CZ and the other large national insurers. Here is an honest side-by-side view.
+
+**CZ vs Zilveren Kruis:** Zilveren Kruis is part of the Achmea group and consistently scores among the highest in Dutch insurer satisfaction surveys. It has arguably better English support and a slightly broader contracted network for specialist care. CZ's premiums tend to be marginally lower for equivalent coverage. For expats who want the most established and well-reviewed insurer, Zilveren Kruis is the standard benchmark; CZ is a solid alternative at a slight cost advantage.
+
+**CZ vs Menzis:** Menzis is primarily a regional insurer with strong roots in the northeast Netherlands (Groningen, Overijssel, Gelderland). Its contracted network is thinner in the Randstad and major cities. For expats based in Amsterdam, Rotterdam, The Hague, or Utrecht — where most international professionals live — CZ's national network coverage is an advantage over Menzis.
+
+**CZ vs VGZ:** VGZ (part of Univé group) is the third largest insurer in the Netherlands and offers competitive premiums with a serviceable national network. Customer service quality is comparable to CZ. Neither insurer stands out dramatically over the other for expat-specific needs. CZ's English digital interface has been more consistently rated.
+
+**CZ vs DSW:** DSW is a regional South Holland insurer with consistently low premiums and high customer satisfaction, particularly in Rotterdam and surroundings. If you live in South Holland and want the cheapest option with strong local service, DSW is worth considering as an alternative to CZ. Its English support is more limited.
+
+**Bottom line:** CZ is in the solid middle tier — not the most expensive, not the cheapest, with national coverage, reasonable English support, and a reliable service record. For expats who are not in a region where a specialist insurer has a clear advantage, and who want a mainstream option with a full supplementary menu, CZ is a defensible choice. It is rarely the single best option for any specific profile, but it is rarely the wrong choice either.
+
 One final practical note: if you are comparing CZ against other insurers and want a concrete number to work with, use Independer's comparison tool at the end of the open enrollment window when all 2026 premiums are confirmed. Final premiums are sometimes slightly lower than the indicative amounts published earlier in the year, and running the comparison in late November or December ensures you are working with the exact figure. Small differences in the basic premium compound meaningfully over 12 months.

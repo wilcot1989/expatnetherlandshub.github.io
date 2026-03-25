@@ -469,4 +469,32 @@ Start by opening your <a href="https://wise.com/invite/ihpc/willemt52" rel="noop
 
 <a href="https://wise.com/invite/ihpc/willemt52" class="cta-affiliate" rel="noopener nofollow sponsored" target="_blank">Open Your Free Wise Account →</a>
 
+---
+
+## Dutch Banking: Common Questions from Newly Arrived Expats
+
+**Can I use my home country bank account for Dutch transactions?** For a short period, yes — most Dutch employers can pay into a foreign EU IBAN, and Wise gives you a European IBAN before you have a Dutch account. But iDEAL (the dominant Dutch payment system) requires a Dutch IBAN starting with NL. Subscription services, utility payments, and government services that use iDEAL will not work with a foreign account. Getting a Dutch account within your first month is the practical target.
+
+**What is the best order to open accounts?** Open Wise first (no BSN, no Dutch address required). Then, once you have registered at your gemeente and received your BSN — usually within a week — apply for ING or ABN AMRO. Use Wise as your primary account for the gap period, which is typically 5–10 days.
+
+**Do Dutch banks charge for using ATMs?** ING, ABN AMRO, and Rabobank charge no fees at their own ATMs. Using another bank's ATM within the Netherlands typically incurs a small fee (€0.50–1.50 per withdrawal). Using an ATM abroad uses the card's foreign transaction terms — Wise is significantly cheaper for international ATM withdrawals than any Dutch high street bank.
+
+**What happens to my Dutch account when I leave the Netherlands?** Most Dutch banks allow accounts to remain open for non-residents, but they may require you to update your contact information and may apply different fee structures. If you anticipate leaving within 2–3 years, bunq is the most flexible option as it explicitly supports non-resident account holders. Close accounts properly when you no longer need them to avoid dormant account charges.
+
+**Is Dutch banking secure?** Dutch banks comply with EU banking regulations including PSD2 (Payment Services Directive 2) and are required to offer strong customer authentication (SCA) for online payments. All deposits up to €100,000 per person per institution are protected under the Dutch Deposit Guarantee Scheme (DGS). The Dutch banking sector is considered one of the most stable in Europe.
+
 For more on managing your finances in the Netherlands — budgeting apps, investment platforms, and tax planning tools — see the [finance apps guide](/guides/finance/best-finance-apps-expats-netherlands-2026/) and [Dutch tax system guide](/guides/finance/dutch-tax-system-expats-guide-2026/). The [international money transfer guide](/guides/finance/best-international-money-transfer-netherlands-2026/) covers in detail how to minimise costs when moving money across borders — essential reading for any expat managing finances in more than one country.
+
+---
+
+## The Dutch Banking System: Background Worth Knowing
+
+Understanding a bit about how Dutch banking works helps you make better decisions about which accounts to open and how to use them.
+
+**The iDEAL system.** iDEAL is not a separate app or card — it is the payment infrastructure that underlies most Dutch online and in-app payments. When you pay for something online in the Netherlands — a webshop, utility bill, government service, or subscription — you are redirected to your bank's own interface to confirm the payment. This is more secure than typing card details into a website. It is also why a Dutch IBAN is not optional if you want to participate in normal Dutch commercial life. Without it, a significant portion of Dutch online commerce is inaccessible.
+
+**Direct debit (automatische incasso).** Dutch companies, landlords, utilities, and insurers predominantly collect recurring payments by direct debit rather than standing order or card. You give them permission to collect a set amount from your account each month. This is reliable and common practice — and it requires a Dutch IBAN. Your first Dutch rent payment, utility contract, and health insurance premium will all typically be set up as automatische incasso.
+
+**The giro system legacy.** The Dutch banking system evolved partly from a highly efficient postal giro system, which is why Dutch banking infrastructure has historically been more payment-efficient than in many other countries. iDEAL, instant payments, and near-zero domestic transfer costs are partly a legacy of this infrastructure investment. The result for expats: Dutch banking actually works better for daily domestic transactions than many alternatives.
+
+**Rabobank and the cooperative tradition.** Rabobank is a cooperative bank — it is owned by its members (customers), not by shareholders. This is unusual in modern banking. Rabobank has historically served Dutch farmers and small businesses and remains one of the strongest agricultural lending banks in Europe. For expats with business banking needs, Rabobank's SME focus can be an advantage. For personal banking, it is broadly comparable to ING and ABN AMRO.
