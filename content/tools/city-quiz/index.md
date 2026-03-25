@@ -1,6 +1,6 @@
 ---
 title: "Which Dutch City Is Right for You? — Free Quiz"
-description: "Answer 7 questions and find out which Dutch city matches your lifestyle, budget, and priorities. Free quiz for expats."
+description: "Answer 7 quick questions and find out which Dutch city matches your lifestyle, budget, and priorities. Free interactive quiz for expats moving to the Netherlands."
 type: "tools"
 layout: "single"
 featured_image: "/images/categories/cities.svg"
@@ -1648,3 +1648,10 @@ featured_image: "/images/categories/cities.svg"
 
 })();
 </script>
+
+<h2>Related Guides</h2>
+<ul>
+  <li><a href="/guides/housing/best-cities-netherlands-expats-2026/">Best Cities for Expats in the Netherlands</a> — detailed comparison of all major Dutch cities for international residents</li>
+  <li><a href="/guides/housing/finding-housing-netherlands-expats-2026/">Finding Housing in the Netherlands</a> — practical guide to the Dutch rental and buying market</li>
+  <li><a href="/guides/housing/cost-of-living-netherlands-2026/">Cost of Living in the Netherlands</a> — what to expect for rent, groceries, transport, and more</li>
+</ul>

@@ -2,7 +2,7 @@
 title: "Job Interviews in the Netherlands: Expat Guide 2026"
 date: 2026-03-19T10:00:00+01:00
 lastmod: 2026-03-19T10:00:00+01:00
-description: "Job interview guide for expats in the Netherlands. Dutch interview culture, common questions and salary negotiation."
+description: "Job interview guide for expats in the Netherlands. Dutch interview culture, common questions, what to wear, salary negotiation, and how many rounds to expect."
 categories: ["work"]
 tags: ["job interview", "Dutch interview", "expat jobs", "work culture", "career Netherlands"]
 keywords: ["job interview tips Netherlands", "Dutch job interview expat", "interview culture Netherlands", "salary negotiation Netherlands expat", "Dutch workplace culture interview", "what to wear job interview Netherlands", "expat job search Netherlands 2026", "30 percent ruling salary negotiation"]

@@ -29,7 +29,7 @@ I remember my first week in the Netherlands standing in my kitchen surrounded by
 
 The Netherlands takes waste sorting seriously. It has one of the most elaborate municipal waste systems in Europe, and compliance is expected. This is not something you can ignore: in some municipalities, incorrect sorting results in your bin not being collected, or fines, or — at minimum — disapproving looks from neighbours.
 
-This guide explains the Dutch system clearly, so you do not need twenty minutes with your neighbour.
+This guide explains the Dutch system clearly, so you do not need twenty minutes with your neighbour. If you are just arriving, my [complete guide to moving to the Netherlands](/guides/legal/complete-guide-moving-to-netherlands-2026/) covers the bigger picture.
 
 ---
 
@@ -287,7 +287,7 @@ Before recycling, consider whether an item can be reused. Kringloopwinkels are t
 
 Kringloopwinkels serve a dual function: they divert usable items from waste streams, and they provide affordable goods to buyers. For expats arriving or leaving the Netherlands, they are particularly useful.
 
-**Arriving**: Buy affordable furniture, kitchen equipment, bicycles, and household goods without full prices.
+**Arriving**: Buy affordable furniture, kitchen equipment, bicycles, and household goods without full prices. My [shopping guide for expats](/guides/daily-life/shopping-guide-netherlands-expats-2026/) covers where to find what you need.
 
 **Leaving**: Donate furniture and household goods rather than paying for disposal. The kringloop picks up free of charge for larger items (call to schedule).
 
@@ -326,6 +326,8 @@ The Netherlands originated the Repair Café concept in 2009 (Amsterdam). These a
 - **Vinted** — particularly active in the Netherlands for clothing
 - **Facebook Marketplace** — good for furniture and household items
 
+For more on buying second-hand in the Netherlands, see our [guide to second-hand shopping](/blog/buying-second-hand-netherlands-guide-2026/).
+
 ---
 
 ## Quick Reference: What Goes Where
@@ -358,3 +360,5 @@ The Netherlands originated the Repair Café concept in 2009 (Amsterdam). These a
 - [Repair Café Netherlands](https://www.repaircafe.org/nl/)
 - [Afval Circulair: Netherlands government waste policy](https://www.rijksoverheid.nl/onderwerpen/afval)
 - [Landelijk afvalbeheerplan](https://www.lap3.nl)
+
+For more daily life guides, see our articles on [Dutch utilities explained](/blog/dutch-utilities-explained-expats-2026/) and [energy providers for expats](/guides/housing/energy-providers-expats-netherlands-2026/).

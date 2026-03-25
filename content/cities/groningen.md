@@ -1,6 +1,6 @@
 ---
 title: "Groningen Expat Guide 2026: Living, Working & Costs"
-description: "Complete expat guide to Groningen in 2026. Rent prices, neighbourhoods, jobs, registration, and practical tips."
+description: "Complete expat guide to Groningen in 2026. Affordable rent, university city vibe, cycling culture, northern job market, and practical tips for expats relocating."
 date: 2026-03-06T10:00:00+01:00
 lastmod: 2026-03-06
 featured_image: "/images/featured/groningen.webp"

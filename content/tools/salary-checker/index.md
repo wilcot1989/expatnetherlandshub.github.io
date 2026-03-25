@@ -1277,3 +1277,10 @@ document.querySelectorAll('input[name="age"]').forEach(el => el.addEventListener
 document.getElementById('category').addEventListener('change', liveUpdate);
 document.getElementById('has30ruling').addEventListener('change', liveUpdate);
 </script>
+
+<h2>Related Guides</h2>
+<ul>
+  <li><a href="/guides/work/salary-negotiation-netherlands-expats-2026/">Salary Negotiation Guide</a> — how to negotiate a competitive salary package in the Netherlands</li>
+  <li><a href="/guides/finance/dutch-tax-system-expats-guide-2026/">Dutch Tax System Explained</a> — understand income tax brackets, deductions, and how taxes affect your net pay</li>
+  <li><a href="/guides/finance/30-percent-ruling-netherlands-2026/">The 30% Ruling</a> — check if you qualify for the Dutch tax benefit that can save you thousands per year</li>
+</ul>

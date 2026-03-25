@@ -2,7 +2,7 @@
 title: "Privacy Policy"
 date: 2026-03-06
 lastmod: 2026-03-06
-description: "Privacy Policy of Expat Netherlands Hub"
+description: "Privacy policy of Expat Netherlands Hub. How we handle your data, cookies, analytics, and your rights under GDPR as a visitor to our site."
 layout: "single"
 featured_image: "/images/featured/privacy.webp"
 ---

@@ -1112,3 +1112,10 @@ toggleBtn.textContent = isOpen ? '☰ Filter banks' : '✕ Close filters';
 
 })();
 </script>
+
+<h2>Related Guides</h2>
+<ul>
+  <li><a href="/guides/finance/best-bank-account-expats-netherlands-2026/">Best Bank Accounts for Expats</a> — detailed comparison of ING, ABN AMRO, bunq, Wise, and more</li>
+  <li><a href="/guides/finance/how-to-open-bank-account-netherlands-2026/">How to Open a Bank Account</a> — step-by-step process including what documents you need</li>
+  <li><a href="/guides/finance/wise-review-expats-netherlands-2026/">Wise Review for Expats</a> — in-depth review of the most popular fintech account for expats in the Netherlands</li>
+</ul>

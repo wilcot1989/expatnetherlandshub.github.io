@@ -31,7 +31,7 @@ I moved to the Netherlands before Brexit. I had free movement. I walked into a m
 
 My clients moving from the UK in 2026 have a considerably more complicated journey. Not impossible — not even especially difficult if you know what you are doing — but genuinely different from what it was before 2021, and very different from what it is for EU citizens moving here today.
 
-I have worked with dozens of British expats navigating post-Brexit relocation to the Netherlands. This guide is everything I wish I could hand them on day one: what you need, what has changed, and what has not changed as much as you might fear.
+I have worked with dozens of British expats navigating post-Brexit relocation to the Netherlands. This guide is everything I wish I could hand them on day one: what you need, what has changed, and what has not changed as much as you might fear. For the general relocation process, see my [complete guide to moving to the Netherlands](/guides/legal/complete-guide-moving-to-netherlands-2026/) and use our [visa permit finder tool](/tools/visa-permit-finder/) to check your specific situation.
 
 ---
 
@@ -41,7 +41,7 @@ The core change: British citizens are now treated as third-country nationals und
 
 The positive framing: the Netherlands is a country that genuinely wants skilled international workers. The immigration routes are relatively clear, the IND (Immigration and Naturalisation Service) is experienced with British applicants, and the processing times, while not fast, are broadly predictable.
 
-The important rule: **you cannot arrive as a tourist and then convert to resident status in most cases.** The correct approach is to apply for the appropriate permit before you arrive or immediately upon arrival depending on the permit type.
+The important rule: **you cannot arrive as a tourist and then convert to resident status in most cases.** The correct approach is to apply for the appropriate permit before you arrive or immediately upon arrival depending on the permit type. Once you arrive, [BSN registration](/guides/legal/bsn-registration-guide-2026/) is your first essential step — use our [BSN planner tool](/tools/bsn-planner/) to prepare.
 
 ---
 
@@ -270,7 +270,7 @@ The ruling must be applied for by your employer within 4 months of your start da
 
 ## Housing: What British Expats Need to Know
 
-The Dutch rental market is extremely tight, particularly in Amsterdam, The Hague, Rotterdam, and Utrecht. Competition for rental properties is significant, and many landlords have waiting lists or receive dozens of applications per property.
+The Dutch rental market is extremely tight, particularly in Amsterdam, The Hague, Rotterdam, and Utrecht. Our [finding housing guide](/guides/housing/finding-housing-netherlands-expats-2026/) covers the full process, and our [housing budget checker](/tools/housing-budget-checker/) can help you understand what you can afford. Competition for rental properties is significant, and many landlords have waiting lists or receive dozens of applications per property.
 
 **As a British national arriving post-Brexit:**
 You are treated as any other third-country national in the rental market. This has both advantages (your income documentation may be in GBP, which some landlords accept) and disadvantages (you typically need to show income of 3–4x the monthly rent, which can be difficult in your first months).

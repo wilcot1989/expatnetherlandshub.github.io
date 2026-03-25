@@ -31,7 +31,7 @@ I recommend Wise to almost every expat who asks me about banking in the Netherla
 
 But "I recommend Wise" is not an article. What you actually need is to understand what Wise does well, where it falls short, how it compares to the alternatives, and whether it makes sense as your primary account or as a supplement to a Dutch bank. These are the questions I get in my inbox constantly, and this is my attempt to answer all of them properly.
 
-I have a Wise account. I have had one for years. I also have ING, because I live in the Netherlands and I need iDEAL. Understanding why I have both, and when I use each one, is probably the most useful thing I can tell you.
+I have a Wise account. I have had one for years. I also have ING, because I live in the Netherlands and I need iDEAL. Understanding why I have both, and when I use each one, is probably the most useful thing I can tell you. For the full comparison of all banking options, see my [best bank accounts for expats guide](/guides/finance/best-bank-account-expats-netherlands-2026/) or use our [bank account chooser tool](/tools/bank-account-chooser/).
 
 ---
 
@@ -67,7 +67,7 @@ This is more of a problem with some IBANs than others:
 - **BE (Belgian)** — Wise's IBAN. Accepted by the majority of Dutch employers and service providers I have encountered. Belgium is a neighbouring country and many Dutch companies are comfortable with BE IBANs.
 - **NL (Dutch)** — ING, ABN AMRO, Rabobank, bunq. Accepted by everyone, no questions asked.
 
-Wise's Belgian IBAN is not perfect — nothing short of a Dutch IBAN is — but it sits significantly closer to "works everywhere" than the alternatives from Revolut or N26. This single fact is the reason Wise is my top recommendation for expats who want a non-Dutch bank as their primary account.
+Wise's Belgian IBAN is not perfect — nothing short of a Dutch IBAN is — but it sits significantly closer to "works everywhere" than the alternatives from Revolut or N26. This single fact is the reason Wise is my top recommendation for expats who want a non-Dutch bank as their primary account. For a head-to-head breakdown, see my [Wise vs Revolut comparison](/guides/finance/wise-vs-revolut-netherlands-2026/) and [Wise vs Revolut vs bunq three-way comparison](/guides/finance/wise-vs-revolut-vs-bunq-expats-2026/).
 
 ---
 
@@ -77,7 +77,7 @@ Wise's Belgian IBAN is not perfect — nothing short of a Dutch IBAN is — but 
 
 Wise lets you hold money in over 40 currencies simultaneously in the same account. For expats, this is genuinely useful. If you are paid in GBP, you can receive your salary directly into a GBP balance, convert to EUR when the rate is favourable, and spend in EUR without conversion fees. If you are sending money to family in the US, India, or elsewhere, you can hold USD or another local currency and send from that balance at the real exchange rate.
 
-Each currency you hold gets its own account details. For EUR, you get the Belgian IBAN. For GBP, you get a UK sort code and account number. For USD, you get US routing and account numbers. For receiving salary in multiple currencies, or for clients who pay in different currencies, this flexibility is substantial.
+Each currency you hold gets its own account details. For EUR, you get the Belgian IBAN. For GBP, you get a UK sort code and account number. For USD, you get US routing and account numbers. For receiving salary in multiple currencies, or for clients who pay in different currencies, this flexibility is substantial. Our [international money transfer guide](/guides/finance/best-international-money-transfer-netherlands-2026/) covers how to get the best rates when sending money home.
 
 ### Exchange Rates — What "Mid-Market" Actually Means
 
@@ -309,7 +309,7 @@ Scenario: British expat receives GBP 4,000 salary per month, needs to convert to
 - ING to Belgian bank: free (SEPA)
 - **No difference for same-currency eurozone transfers**
 
-The savings from Wise are most significant when you frequently convert between currencies or send money internationally. For pure euro-to-euro payments within the eurozone, there is no cost advantage over a free Dutch bank account.
+The savings from Wise are most significant when you frequently convert between currencies or send money internationally. For pure euro-to-euro payments within the eurozone, there is no cost advantage over a free Dutch bank account. If you qualify for the [30% ruling](/guides/finance/30-percent-ruling-netherlands-2026/), the tax savings combined with Wise's exchange rates can add up to thousands of euros per year.
 
 ---
 

@@ -1643,3 +1643,10 @@ renderIndicator();
 initRadioGroups();
 });
 </script>
+
+<h2>Related Guides</h2>
+<ul>
+  <li><a href="/guides/legal/highly-skilled-migrant-visa-netherlands-2026/">Highly Skilled Migrant Visa</a> — detailed guide to the HSM permit for employed professionals</li>
+  <li><a href="/guides/legal/netherlands-work-permit-non-eu-2026/">Work Permit for Non-EU Citizens</a> — requirements and process for obtaining a Dutch work permit</li>
+  <li><a href="/guides/legal/complete-guide-moving-to-netherlands-2026/">Complete Guide to Moving to the Netherlands</a> — step-by-step relocation guide covering visas, housing, and registration</li>
+</ul>

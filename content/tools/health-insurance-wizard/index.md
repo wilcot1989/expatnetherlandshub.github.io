@@ -1453,3 +1453,10 @@ step: currentStep
 });
 });
 </script>
+
+<h2>Related Guides</h2>
+<ul>
+  <li><a href="/guides/health/dutch-health-insurance-guide-expats-2026/">Dutch Health Insurance Guide for Expats</a> — everything you need to know about the basisverzekering and how to choose a plan</li>
+  <li><a href="/guides/health/what-dutch-health-insurance-covers-2026/">What Dutch Health Insurance Covers</a> — detailed breakdown of what is included in the basic package</li>
+  <li><a href="/guides/health/best-expat-insurance-netherlands-2026/">Best Expat Insurance Plans</a> — comparison of insurance options specifically designed for international residents</li>
+</ul>

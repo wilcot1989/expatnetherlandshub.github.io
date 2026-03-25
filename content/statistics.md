@@ -2,7 +2,7 @@
 title: "Expat Statistics Netherlands 2026: Key Data & Figures"
 date: 2026-03-17T10:00:00+01:00
 lastmod: 2026-03-17T10:00:00+01:00
-description: "Essential statistics about expats in the Netherlands: population, salaries, cost of living, housing, healthcare costs. Free to cite with attribution."
+description: "Key statistics about expats in the Netherlands: population, salaries, cost of living, housing, and healthcare costs. Free to cite with attribution."
 featured_image: "/images/categories/finance.svg"
 affiliate: false
 author: "Sarah van den Berg"

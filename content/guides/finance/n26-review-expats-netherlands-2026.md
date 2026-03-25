@@ -29,7 +29,7 @@ N26 is a good bank. I want to be clear about that before I say the rest, because
 
 The problem is the German IBAN. Not as severe as Revolut's Lithuanian IBAN situation, but real enough that it matters for how you use the account and whether it can serve as your primary banking in the Netherlands.
 
-I have tested N26. Several of my clients use it. Here is the full picture.
+I have tested N26. Several of my clients use it. Here is the full picture. For a broader overview of banking options, see my [best bank accounts for expats comparison](/guides/finance/best-bank-account-expats-netherlands-2026/).
 
 ---
 
@@ -64,7 +64,7 @@ In the Netherlands, the practical hierarchy of IBAN acceptance runs roughly like
 
 **LT (Lithuanian) — rejected by many:** Revolut's IBAN. The source of significant ongoing frustration for Dutch expats.
 
-Where does this place N26? Better than Revolut for Dutch practical use. Not as reliable as Wise's Belgian IBAN. Significantly behind a proper Dutch bank account.
+Where does this place N26? Better than Revolut for Dutch practical use. Not as reliable as Wise's Belgian IBAN — read my [Wise review](/guides/finance/wise-review-expats-netherlands-2026/) for the full comparison. Significantly behind a proper Dutch bank account.
 
 ---
 
@@ -305,7 +305,7 @@ For the Netherlands specifically, N26 is a **good secondary account** and a poor
 
 Pair it with a free Dutch bank account if you want N26's features. Or skip N26 and use Wise, which has a better IBAN for the Netherlands and better exchange rates, alongside a free Dutch account.
 
-That setup — Wise + free Dutch bank — covers everything N26 covers and more, at lower or no additional cost.
+That setup — Wise + free Dutch bank — covers everything N26 covers and more, at lower or no additional cost. See my [guide to opening a bank account in the Netherlands](/guides/finance/how-to-open-bank-account-netherlands-2026/) for the step-by-step process, or use our [bank account chooser tool](/tools/bank-account-chooser/) to find the right fit.
 
 <a href="https://wise.com/invite/ihpc/willemt52" target="_blank" rel="noopener nofollow sponsored" class="cta-affiliate">Open a Wise account →</a>
 
@@ -325,7 +325,7 @@ For most expats, I would advise against using N26 as your only bank account in t
 
 ### How does N26 compare to Revolut?
 
-N26 and Revolut are both fintech apps targeting similar customers, but they take different approaches. N26 is a licensed bank (regulated by BaFin, Germany's banking regulator) with proper deposit insurance up to EUR 100,000 through Germany's deposit guarantee scheme. Revolut's banking licence is newer and more limited. N26 offers a cleaner, more minimal interface focused on core banking. Revolut offers more features (crypto, budgeting vaults, stock trading) but has historically had more customer service complaints. For safety, N26 wins. For features, Revolut wins. For the Netherlands specifically, Wise's Belgian IBAN beats both.
+N26 and Revolut are both fintech apps targeting similar customers, but they take different approaches. N26 is a licensed bank (regulated by BaFin, Germany's banking regulator) with proper deposit insurance up to EUR 100,000 through Germany's deposit guarantee scheme. Revolut's banking licence is newer and more limited. N26 offers a cleaner, more minimal interface focused on core banking. Revolut offers more features (crypto, budgeting vaults, stock trading) but has historically had more customer service complaints. For safety, N26 wins. For features, Revolut wins. For the Netherlands specifically, Wise's Belgian IBAN beats both — see our [bunq vs N26 comparison](/guides/finance/bunq-vs-n26-expats-netherlands-2026/) and [Wise vs Revolut vs bunq comparison](/guides/finance/wise-vs-revolut-vs-bunq-expats-2026/) for detailed breakdowns.
 
 ### Can I receive Dutch salary into N26?
 

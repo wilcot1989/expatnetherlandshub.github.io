@@ -1199,3 +1199,10 @@ initRadios();
 gtag('event', 'wizard_start', { tool: 'inburgering-route-builder' });
 });
 </script>
+
+<h2>Related Guides</h2>
+<ul>
+  <li><a href="/guides/integration/inburgeringsexamen-preparation-guide-2026/">Inburgeringsexamen Preparation Guide</a> — how to prepare for and pass the civic integration exam</li>
+  <li><a href="/guides/integration/best-dutch-language-courses-2026/">Best Dutch Language Courses</a> — comparison of language schools and online courses for learning Dutch</li>
+  <li><a href="/guides/integration/best-apps-learn-dutch-2026/">Best Apps to Learn Dutch</a> — top-rated apps for learning Dutch at your own pace</li>
+</ul>

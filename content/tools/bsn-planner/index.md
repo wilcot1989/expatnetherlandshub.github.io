@@ -1277,3 +1277,10 @@ const dd   = String(today.getDate()).padStart(2, '0');
 document.getElementById('moving-date').value = `${yyyy}-${mm}-${dd}`;
 });
 </script>
+
+<h2>Related Guides</h2>
+<ul>
+  <li><a href="/guides/legal/bsn-registration-guide-2026/">BSN Registration Guide</a> — everything you need to know about registering at the gemeente and getting your BSN</li>
+  <li><a href="/guides/legal/first-30-days-netherlands-expat-checklist-2026/">First 30 Days Checklist</a> — complete checklist for your first month in the Netherlands</li>
+  <li><a href="/guides/legal/digid-guide-expats-2026/">DigiD Guide for Expats</a> — how to set up your DigiD after getting your BSN</li>
+</ul>

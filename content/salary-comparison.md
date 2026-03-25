@@ -2,7 +2,7 @@
 title: "Netherlands Salary Comparison by City and Sector 2026"
 date: 2026-03-17T10:00:00+01:00
 lastmod: 2026-03-17T10:00:00+01:00
-description: "Compare average salaries across Dutch cities and sectors. Free data for expats, recruiters, and HR professionals."
+description: "Compare average salaries across Dutch cities and sectors in 2026. Free salary data for expats, recruiters, and HR professionals, including net pay and 30% ruling."
 categories: ["finance", "work"]
 tags: ["salary netherlands", "dutch salary 2026", "expat salary comparison", "salary by city netherlands", "30 percent ruling", "minimum wage netherlands", "vakantiegeld", "net salary"]
 keywords: ["netherlands salary comparison 2026", "average salary netherlands by city", "dutch salary by sector", "expat salary amsterdam rotterdam eindhoven", "minimum wage netherlands 2026", "vakantiegeld calculation", "30 percent ruling salary", "net salary netherlands calculator"]

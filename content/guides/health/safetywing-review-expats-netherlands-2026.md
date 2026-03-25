@@ -29,7 +29,7 @@ SafetyWing is one of the products I recommend most frequently, and also one of t
 
 The most common mistake I see British, American, and Australian expats make when they arrive in the Netherlands: they have SafetyWing, they feel covered, and they do not bother sorting out Dutch health insurance promptly. Then they get a letter from the CAK with a fine, or they go to a GP and discover they cannot register, or — worst case — they have a non-emergency health issue that SafetyWing simply does not cover.
 
-I am going to explain exactly when SafetyWing is excellent, exactly when it is not enough, and how to use it correctly for the Dutch context.
+I am going to explain exactly when SafetyWing is excellent, exactly when it is not enough, and how to use it correctly for the Dutch context. For the full picture on Dutch health coverage, read my [Dutch health insurance guide for expats](/guides/health/dutch-health-insurance-guide-expats-2026/) and use our [insurance chooser tool](/tools/insurance-chooser/) to compare your options.
 
 ---
 
@@ -262,6 +262,8 @@ For Dutch expats who want travel coverage, the main alternatives to SafetyWing a
 - Coverage quality varies significantly — read the small print
 - Free if you have the card for other reasons
 
+For a detailed head-to-head, see my [SafetyWing vs Cigna comparison](/guides/health/safetywing-vs-cigna-expat-insurance-2026/).
+
 **International health insurance (Cigna, Allianz Care, Bupa):**
 - Full international medical coverage, not just travel insurance
 - EUR 150–400+/month
@@ -309,7 +311,7 @@ Generally no. Dutch hospitals bill you directly. SafetyWing does have a 24/7 eme
 
 SafetyWing is a genuinely excellent product for what it is designed to do. For expats arriving in the Netherlands, I recommend it specifically as gap coverage for the weeks between arrival and Dutch health insurance activation. For expats who travel frequently from the Netherlands, it can function as affordable travel insurance for international trips.
 
-What it cannot do: replace Dutch basisverzekering for anyone who is legally required to have it. If you are registered in the Netherlands and working here, get basisverzekering. SafetyWing is the bridge to get you there, not the destination.
+What it cannot do: replace Dutch basisverzekering for anyone who is legally required to have it. If you are registered in the Netherlands and working here, get basisverzekering. SafetyWing is the bridge to get you there, not the destination. Use our [health insurance wizard](/tools/health-insurance-wizard/) to find the right basisverzekering plan, and see our guide to [what Dutch health insurance covers](/guides/health/what-dutch-health-insurance-covers-2026/) for the full details.
 
 <a href="https://safetywing.com/nomad-insurance/?referenceID=26482728" target="_blank" rel="noopener nofollow sponsored" class="cta-affiliate">Check SafetyWing coverage →</a>
 

@@ -1093,3 +1093,10 @@ purpose: purVal
 }
 }
 </script>
+
+<h2>Related Guides</h2>
+<ul>
+  <li><a href="/blog/diploma-recognition-netherlands-expats-2026/">Diploma Recognition in the Netherlands</a> — full guide to getting your foreign qualifications recognised</li>
+  <li><a href="/guides/legal/highly-skilled-migrant-visa-netherlands-2026/">Highly Skilled Migrant Visa</a> — visa route for qualified professionals moving to the Netherlands</li>
+  <li><a href="/guides/work/career-change-netherlands-expats-2026/">Career Change in the Netherlands</a> — how to pivot your career as an international in the Dutch job market</li>
+</ul>

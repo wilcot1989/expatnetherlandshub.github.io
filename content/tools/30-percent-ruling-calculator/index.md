@@ -1820,3 +1820,10 @@ calculate();
 
 }());
 </script>
+
+<h2>Related Guides</h2>
+<ul>
+  <li><a href="/guides/finance/30-percent-ruling-netherlands-2026/">The 30% Ruling Explained</a> — full guide to eligibility, application, and how the ruling works in practice</li>
+  <li><a href="/guides/finance/30-percent-ruling-eligibility-guide-2026/">30% Ruling Eligibility Guide</a> — check whether you qualify and what documents you need</li>
+  <li><a href="/guides/finance/30-percent-ruling-still-worth-it-2026/">Is the 30% Ruling Still Worth It in 2026?</a> — analysis of recent changes and whether the ruling still delivers meaningful savings</li>
+</ul>

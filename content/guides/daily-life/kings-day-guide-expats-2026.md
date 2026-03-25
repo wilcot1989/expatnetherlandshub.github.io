@@ -1,5 +1,5 @@
 ---
-title: "King's Day 2026: The Ultimate Expat Guide to Koningsdag"
+title: "King's Day 2026: Your Complete Expat Guide to Koningsdag"
 slug: "kings-day-guide-expats-2026"
 date: 2026-04-20T10:00:00+01:00
 lastmod: 2026-03-07T00:00:00+01:00

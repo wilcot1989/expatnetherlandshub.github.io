@@ -2,7 +2,7 @@
 title: "Moving to Haarlem as an Expat: Complete City Guide 2026"
 date: 2026-03-07T10:00:00+01:00
 lastmod: 2026-03-07T10:00:00+01:00
-description: "Moving to Haarlem as an expat? Discover neighbourhoods, housing costs, transport, and schools in this Dutch city near Amsterdam."
+description: "Moving to Haarlem as an expat? Learn about neighbourhoods, housing costs, transport links, and schools in this charming Dutch city near Amsterdam."
 categories: ["housing"]
 tags: ["Haarlem", "city guide", "moving to Haarlem", "expat Haarlem"]
 keywords: ["moving to Haarlem as expat", "living in Haarlem Netherlands", "Haarlem expat guide 2026", "Haarlem housing costs", "Haarlem vs Amsterdam expats", "Haarlem neighbourhoods", "expat life Haarlem", "Haarlem rent prices 2026"]

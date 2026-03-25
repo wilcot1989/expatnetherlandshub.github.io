@@ -29,7 +29,7 @@ I have worked from coworking spaces across Amsterdam for years — sometimes by 
 
 The right coworking space depends heavily on what you actually need: proximity to clients, creative stimulus, quiet focus space, meeting rooms, or community events. Amsterdam's neighbourhoods each have a distinct character, and the coworking options reflect that.
 
-Here is what I know about each.
+Here is what I know about each. For coworking options outside Amsterdam, see my [best coworking spaces in the Netherlands guide](/guides/work/best-coworking-spaces-netherlands-2026/) and the [detailed coworking comparison](/guides/work/best-coworking-spaces-compared-netherlands-2026/).
 
 ---
 
@@ -230,6 +230,8 @@ The community is genuinely mixed — tech, design, media, consultancy — and th
 **Evaluate the noise**: Open-plan coworking spaces in Amsterdam range from library-quiet to productively noisy. Visit during working hours, not on a tour with the sales team, to get a realistic sense of the ambient noise level.
 
 **Trial memberships**: Most operators offer 1-week or 1-month trials. Use these before committing to a 6-month or annual contract.
+
+If you are considering freelancing from coworking spaces, our [freelancer ZZP guide](/guides/work/freelancer-zzp-guide-netherlands-2026/) and [remote work guide](/guides/work/remote-work-netherlands-expats-2026/) cover the practical and legal side of working independently in the Netherlands.
 
 ---
 

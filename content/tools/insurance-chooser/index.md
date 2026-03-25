@@ -1175,3 +1175,10 @@ document.addEventListener('DOMContentLoaded', function() {
 initRadios();
 });
 </script>
+
+<h2>Related Guides</h2>
+<ul>
+  <li><a href="/guides/health/dutch-health-insurance-guide-expats-2026/">Dutch Health Insurance Guide</a> — complete overview of the basisverzekering system for expats</li>
+  <li><a href="/guides/health/best-expat-insurance-netherlands-2026/">Best Expat Insurance Plans</a> — comparison of top insurance options for international residents</li>
+  <li><a href="/blog/car-insurance-netherlands-expats-2026/">Car Insurance for Expats</a> — guide to auto insurance if you drive in the Netherlands</li>
+</ul>

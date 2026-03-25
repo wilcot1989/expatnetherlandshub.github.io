@@ -33,7 +33,7 @@ It comes before the housing questions. It comes before the visa questions. It co
 
 I have helped dozens of families work through this, and I want to give you the honest answer: Dutch schooling is good, the international options are excellent but competitive, and the critical mistakes are almost always about timing — specifically, people leaving school applications too late.
 
-Here is everything you need to know.
+Here is everything you need to know. For the broader relocation picture, see my [complete guide to moving to the Netherlands](/guides/legal/complete-guide-moving-to-netherlands-2026/) and the [first 30 days checklist](/guides/legal/first-30-days-netherlands-expat-checklist-2026/).
 
 ---
 
@@ -43,7 +43,7 @@ This is the first question every expat family faces, and the right answer depend
 
 ### Questions that point toward a Dutch state school
 
-**You plan to stay for five or more years.** Language immersion in a basisschool works remarkably well for young children. A 5-year-old dropped into a Dutch school is typically conversational in Dutch within 6–12 months and fluent within 2 years. The research on multilingual development is clear: early immersion in a second language, even in a full-Dutch environment, has cognitive benefits and does not harm the first language if maintained at home.
+**You plan to stay for five or more years.** If you are still deciding where to settle, our [best cities for expats guide](/guides/housing/best-cities-netherlands-expats-2026/) and the [housing guide](/guides/housing/finding-housing-netherlands-expats-2026/) can help narrow it down. Language immersion in a basisschool works remarkably well for young children. A 5-year-old dropped into a Dutch school is typically conversational in Dutch within 6–12 months and fluent within 2 years. The research on multilingual development is clear: early immersion in a second language, even in a full-Dutch environment, has cognitive benefits and does not harm the first language if maintained at home.
 
 **Your children are under 8.** Young children adapt to new languages with a flexibility that older children and adults simply do not have. Under-8 immersion in Dutch school is usually a success story. The social integration also happens faster at this age — children who cannot speak the language at the start are sharing a football at break time by week two.
 
@@ -235,7 +235,7 @@ If your child is joining a Dutch school, particularly a basisschool, some practi
 
 ## Family Health Insurance: A Note for Families
 
-Moving to the Netherlands with children means getting the whole family onto Dutch basisverzekering. Children under 18 are covered free under the Dutch system — their healthcare is bundled into a parent's policy at no extra monthly cost. This is one of the genuinely child-friendly features of the Dutch healthcare system.
+Moving to the Netherlands with children means getting the whole family onto Dutch basisverzekering — read our [Dutch health insurance guide for expats](/guides/health/dutch-health-insurance-guide-expats-2026/) for the full details. Children under 18 are covered free under the Dutch system — their healthcare is bundled into a parent's policy at no extra monthly cost. This is one of the genuinely child-friendly features of the Dutch healthcare system.
 
 During the gap period before your family's Dutch health insurance is active, SafetyWing's family pricing is notably good: children under 10 are covered free when a parent is insured.
 
@@ -270,7 +270,7 @@ During the gap period before your family's Dutch health insurance is active, Saf
 
 ## Final Thoughts
 
-Moving with school-age children is one of the more logistically intense versions of expatting, but the Netherlands is genuinely a good country to do it in. The Dutch school system produces well-educated, happy, and socially capable young people. The international schools are among the best in Europe.
+Moving with school-age children is one of the more logistically intense versions of expatting, but the Netherlands is genuinely a good country to do it in. The Dutch school system produces well-educated, happy, and socially capable young people. The international schools are among the best in Europe. For more on [childcare costs and options](/blog/childcare-netherlands-cost-expats-2026/), including BSO and kinderopvang, see our detailed guide.
 
 The families who have the smoothest school transitions are almost always the ones who started the process early — ideally a year before the move — and were flexible about Dutch school as a fallback if international school places were not available.
 

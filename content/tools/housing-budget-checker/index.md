@@ -888,3 +888,10 @@ return '<div class="city-bar-row">' +
 '</div>';
 }
 </script>
+
+<h2>Related Guides</h2>
+<ul>
+  <li><a href="/guides/housing/finding-housing-netherlands-expats-2026/">Finding Housing in the Netherlands</a> — practical guide to navigating the Dutch rental and buying market</li>
+  <li><a href="/guides/housing/buying-vs-renting-netherlands-expats-2026/">Buying vs Renting</a> — when it makes sense to buy and when renting is the smarter choice</li>
+  <li><a href="/guides/finance/dutch-mortgage-explained-expats-2026/">Dutch Mortgage Explained</a> — how mortgages work in the Netherlands for international residents</li>
+</ul>

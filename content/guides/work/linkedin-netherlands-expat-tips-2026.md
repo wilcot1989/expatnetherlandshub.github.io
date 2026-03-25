@@ -2,7 +2,7 @@
 title: "LinkedIn in the Netherlands: Land a Job as an Expat (2026)"
 date: 2026-03-24T10:00:00+01:00
 lastmod: 2026-03-24T10:00:00+01:00
-description: "How to use LinkedIn to find work in the Netherlands as an expat. Profile tips, networking and what recruiters want."
+description: "How to use LinkedIn to find work in the Netherlands as an expat. Profile optimisation tips, networking strategies, and what Dutch recruiters actually look for."
 categories: ["work"]
 tags: ["LinkedIn", "job search", "networking", "expat jobs", "career Netherlands"]
 keywords: ["LinkedIn Netherlands expat", "find job Netherlands LinkedIn", "Dutch recruiter LinkedIn", "expat job search NL"]

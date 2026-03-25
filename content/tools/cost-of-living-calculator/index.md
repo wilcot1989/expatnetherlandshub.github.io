@@ -832,3 +832,10 @@ total: Math.round(total)
 }
 }
 </script>
+
+<h2>Related Guides</h2>
+<ul>
+  <li><a href="/guides/housing/cost-of-living-netherlands-2026/">Cost of Living in the Netherlands</a> — comprehensive breakdown of expenses across Dutch cities</li>
+  <li><a href="/guides/work/salary-negotiation-netherlands-expats-2026/">Salary Negotiation Guide</a> — how to negotiate a competitive salary as an expat in the Netherlands</li>
+  <li><a href="/guides/finance/dutch-tax-system-expats-guide-2026/">Dutch Tax System Explained</a> — understand how Dutch taxes affect your take-home pay</li>
+</ul>

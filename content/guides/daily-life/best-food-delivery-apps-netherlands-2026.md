@@ -29,7 +29,7 @@ Food delivery in the Netherlands has changed a lot in the past few years. Delive
 
 Which is actually better for you as an expat. The apps that survived are the ones that figured out how to be sustainable, and that generally means better service.
 
-Here is what you actually have access to in the Netherlands in 2026, how they compare, and when to use each one.
+Here is what you actually have access to in the Netherlands in 2026, how they compare, and when to use each one. If you are also looking for grocery delivery specifically, I cover that in more detail in my [guide to grocery delivery in the Netherlands](/guides/daily-life/best-grocery-delivery-netherlands-2026/).
 
 ---
 
@@ -210,7 +210,7 @@ Food delivery in the Netherlands is geographically uneven. The Randstad (Amsterd
 | Maastricht | Yes | Limited | Partial | No | No |
 | Rural areas | Partial | No | Partial | No | No |
 
-If you are moving outside the four largest Dutch cities, check coverage for each app at your specific address before relying on any of them. Picnic's coverage map is expanding steadily and is worth rechecking every few months if you were initially outside the service area.
+If you are moving outside the four largest Dutch cities — and if you are still deciding where to live, take our [city quiz](/tools/city-quiz/) — check coverage for each app at your specific address before relying on any of them. Picnic's coverage map is expanding steadily and is worth rechecking every few months if you were initially outside the service area.
 
 ---
 
@@ -226,7 +226,7 @@ All major apps work in English, but a few Dutch words are useful for delivery no
 - **Intercom** = buzzer (often needed in Dutch apartments)
 - **Achterdeur** = back door
 
-Dutch apartment buildings frequently have coded entry systems. Always include your intercom number or entry code in the delivery notes field — delivery drivers unable to enter the building will often leave orders at the entrance, which is inconvenient in Dutch weather.
+Dutch apartment buildings frequently have coded entry systems. Always include your intercom number or entry code in the delivery notes field — delivery drivers unable to enter the building will often leave orders at the entrance, which is inconvenient in Dutch weather. For more on navigating daily routines in the Netherlands, see my [Dutch supermarkets guide](/guides/daily-life/dutch-supermarkets-guide-expats-2026/) and the [best Dutch apps for expats](/guides/daily-life/best-dutch-apps-expats-2026/).
 
 ---
 
@@ -283,4 +283,4 @@ Gorillas was acquired by Getir in 2022. Getir then went through significant fina
 
 ### Do Dutch food delivery apps accept iDEAL?
 
-Yes. All major food delivery apps operating in the Netherlands accept iDEAL, which matters greatly in a market where iDEAL is the dominant payment method. Thuisbezorgd, Uber Eats, Picnic, Flink, and Crisp all accept iDEAL. They also accept credit and debit cards.
+Yes. All major food delivery apps operating in the Netherlands accept iDEAL, which matters greatly in a market where iDEAL is the dominant payment method. If you are still sorting out your Dutch banking setup, read my [guide to opening a bank account in the Netherlands](/guides/finance/how-to-open-bank-account-netherlands-2026/). Thuisbezorgd, Uber Eats, Picnic, Flink, and Crisp all accept iDEAL. They also accept credit and debit cards.
