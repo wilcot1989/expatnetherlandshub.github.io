@@ -10,9 +10,6 @@ type: "guide"
 featured_image: "/images/featured/exchange-driving-license-netherlands-2026.webp"
 affiliate: true
 products:
-  - name: "Wise"
-    url: "https://wise.com/invite/ihpc/willemt52"
-    price: "0.00"
   - name: "Swapfiets"
     url: "https://swapfiets.nl/"
     price: "16.90"

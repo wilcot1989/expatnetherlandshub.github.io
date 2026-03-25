@@ -3,6 +3,9 @@ title: "Free Expat Tools Netherlands 2026"
 description: "11 free tools for expats in the Netherlands: salary calculator, health insurance comparison, visa check, rent affordability calculator, and more."
 type: "tools"
 layout: "list"
+aliases:
+  - /calculators/
+  - /tool/
 ---
 
 <script type="application/ld+json">

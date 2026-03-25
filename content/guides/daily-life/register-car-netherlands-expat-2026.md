@@ -8,9 +8,6 @@ tags: ["car registration Netherlands", "RDW registration", "BPM tax", "APK inspe
 keywords: ["register car Netherlands expat", "RDW car registration", "BPM tax import car Netherlands", "APK inspection expat", "car insurance Netherlands expat 2026"]
 affiliate: true
 products:
-  - name: "Wise"
-    url: "https://wise.com/invite/ihpc/willemt52"
-    price: "0.00"
   - name: "Swapfiets"
     url: "https://swapfiets.nl/"
     price: "16.90"

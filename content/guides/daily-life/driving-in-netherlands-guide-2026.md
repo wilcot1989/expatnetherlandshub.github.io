@@ -8,9 +8,6 @@ tags: ["driving Netherlands", "driver's license", "car ownership", "Dutch traffi
 keywords: ["driving in Netherlands expat", "exchange driver's license NL", "Dutch driving rules", "car costs Netherlands"]
 affiliate: true
 products:
-  - name: "Wise"
-    url: "https://wise.com/invite/ihpc/willemt52"
-    price: "0.00"
   - name: "Swapfiets"
     url: "https://swapfiets.nl/"
     price: "16.90"

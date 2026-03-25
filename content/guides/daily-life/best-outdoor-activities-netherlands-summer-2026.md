@@ -8,12 +8,6 @@ tags: ["outdoor activities netherlands", "summer netherlands", "cycling netherla
 keywords: ["outdoor activities netherlands summer", "best outdoor activities netherlands", "netherlands summer activities expats", "cycling routes netherlands", "zwemwater netherlands"]
 affiliate: true
 products:
-  - name: "Wise"
-    url: "https://wise.com/invite/ihpc/willemt52"
-    price: "0.00"
-  - name: "NordVPN"
-    url: "https://go.nordvpn.net/aff_c?offer_id=612&aff_id=141337"
-    price: "3.49"
   - name: "KPN"
     url: "https://www.kpn.com/"
     price: "0.00"

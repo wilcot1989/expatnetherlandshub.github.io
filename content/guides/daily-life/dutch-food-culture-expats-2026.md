@@ -8,12 +8,6 @@ tags: ["dutch food culture", "dutch food expat", "stamppot", "hagelslag", "dutch
 keywords: ["dutch food culture expats", "dutch food guide 2026", "what do dutch people eat", "dutch supermarkets comparison", "dutch meal times", "hagelslag netherlands"]
 affiliate: true
 products:
-  - name: "Wise"
-    url: "https://wise.com/invite/ihpc/willemt52"
-    price: "0.00"
-  - name: "NordVPN"
-    url: "https://go.nordvpn.net/aff_c?offer_id=612&aff_id=141337"
-    price: "3.49"
   - name: "KPN"
     url: "https://www.kpn.com/"
     price: "0.00"

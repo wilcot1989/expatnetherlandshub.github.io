@@ -2,6 +2,9 @@
 title: "Expat Guides Netherlands 2026 — Practical Advice for Movers"
 description: "Practical guides for expats moving to the Netherlands. Covering taxes, housing, health insurance, visas, integration, and daily life. Updated 2026."
 date: 2026-03-06T10:00:00+01:00
+aliases:
+  - /guide/
+  - /articles/
 ---
 
 Moving to the Netherlands is one of the most rewarding decisions you can make — but it comes with a steep learning curve. Dutch bureaucracy, the healthcare system, housing shortages, and tax rules can feel overwhelming when you first arrive. I have been through it myself, and I built these guides so you do not have to figure everything out alone.

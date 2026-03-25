@@ -8,9 +8,6 @@ tags: ["ov-chipkaart", "public transport netherlands", "ns trains", "dutch train
 keywords: ["ov-chipkaart guide", "public transport netherlands", "ns train netherlands", "ov-chipkaart how to use", "dutch public transport expat", "ns flex subscription 2026"]
 affiliate: true
 products:
-  - name: "Wise"
-    url: "https://wise.com/invite/ihpc/willemt52"
-    price: "0.00"
   - name: "Swapfiets"
     url: "https://swapfiets.nl/"
     price: "16.90"

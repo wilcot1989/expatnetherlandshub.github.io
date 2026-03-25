@@ -10,10 +10,10 @@ affiliate: true
 products:
   - name: "NordVPN"
     url: "https://go.nordvpn.net/aff_c?offer_id=612&aff_id=141337"
-    price: "3.49"
+    price: "3.09"
   - name: "NordPass"
     url: "https://go.nordvpn.net/aff_c?offer_id=488&aff_id=141337"
-    price: "1.49"
+    price: "1.29"
   - name: "KPN"
     url: "https://www.kpn.com/"
     price: "0.00"

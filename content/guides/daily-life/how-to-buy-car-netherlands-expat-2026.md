@@ -8,9 +8,6 @@ tags: ["car", "buying car", "RDW", "BPM", "motorrijtuigenbelasting"]
 keywords: ["buy car Netherlands expat", "BPM Netherlands", "RDW car registration", "used car Netherlands", "APK Netherlands"]
 affiliate: true
 products:
-  - name: "Wise"
-    url: "https://wise.com/invite/ihpc/willemt52"
-    price: "0.00"
   - name: "Swapfiets"
     url: "https://swapfiets.nl/"
     price: "16.90"

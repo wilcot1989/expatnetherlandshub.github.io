@@ -8,9 +8,6 @@ tags: ["cycling", "bicycle netherlands", "swapfiets", "bike rules", "dutch cycli
 keywords: ["cycling netherlands", "buy bicycle netherlands", "swapfiets review", "dutch bike rules", "cycling expat guide"]
 affiliate: true
 products:
-  - name: "Wise"
-    url: "https://wise.com/invite/ihpc/willemt52"
-    price: "0.00"
   - name: "Swapfiets"
     url: "https://swapfiets.nl/"
     price: "16.90"

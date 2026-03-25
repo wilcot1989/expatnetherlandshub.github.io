@@ -8,12 +8,6 @@ tags: ["eating out netherlands", "dutch restaurants", "dutch food expat", "dutch
 keywords: ["eating out netherlands expats", "dutch restaurant culture 2026", "dutch tipping culture", "rijsttafel netherlands", "street food netherlands", "best food cities netherlands", "dutch michelin restaurants"]
 affiliate: true
 products:
-  - name: "Wise"
-    url: "https://wise.com/invite/ihpc/willemt52"
-    price: "0.00"
-  - name: "NordVPN"
-    url: "https://go.nordvpn.net/aff_c?offer_id=612&aff_id=141337"
-    price: "3.49"
   - name: "KPN"
     url: "https://www.kpn.com/"
     price: "0.00"

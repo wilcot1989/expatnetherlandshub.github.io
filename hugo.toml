@@ -33,8 +33,8 @@ buildFuture = false
     url = "/cities/"
     weight = 3
   [[menu.main]]
-    name = "Services"
-    url = "/services/"
+    name = "Blog"
+    url = "/blog/"
     weight = 4
   [[menu.main]]
     name = "About"
@@ -42,7 +42,7 @@ buildFuture = false
     weight = 5
 
 [outputs]
-  home = ["HTML", "RSS"]
+  home = ["HTML", "RSS", "JSON"]
 
 [sitemap]
   changefreq = "weekly"
@@ -54,7 +54,7 @@ buildFuture = false
   guides = 0.9
   categories = 0.6
   cities = 0.8
-  services = 0.8
+  blog = 0.7
   tags = 0.4
 
 [taxonomies]

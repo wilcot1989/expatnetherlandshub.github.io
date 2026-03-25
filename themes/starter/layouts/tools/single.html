@@ -1,3 +1,324 @@
 {{ define "main" }}
-{{ .Content }}
+
+{{/* ── Tool-to-Product Mapping ── */}}
+{{ $slug := path.Base .RelPermalink }}
+{{ $rec := slice }}
+{{ if eq $slug "30-percent-ruling-calculator" }}
+  {{ $rec = slice
+    (dict "name" "Wise" "desc" "Send your tax-free savings home at the real exchange rate" "url" "https://wise.com/invite/ihpc/willemt52" "tag" "Currency Transfer" "price" "0.00")
+    (dict "name" "Expatax" "desc" "Expert 30% ruling application and Dutch tax filing" "url" "https://www.expatax.nl/" "tag" "Tax Advisor" "price" "")
+    (dict "name" "Blue Umbrella" "desc" "Specialised expat tax advisory — 30% ruling applications" "url" "https://www.blue-umbrella.nl/" "tag" "Tax Advisor" "price" "")
+  }}
+{{ else if eq $slug "salary-checker" }}
+  {{ $rec = slice
+    (dict "name" "Wise" "desc" "Transfer your salary abroad with minimal fees" "url" "https://wise.com/invite/ihpc/willemt52" "tag" "Currency Transfer" "price" "0.00")
+    (dict "name" "bunq" "desc" "Modern Dutch bank account — open in minutes, no BSN needed" "url" "https://www.bunq.com/" "tag" "Banking" "price" "2.99")
+    (dict "name" "NordVPN" "desc" "Access your home banking and streaming from the Netherlands" "url" "https://go.nordvpn.net/aff_c?offer_id=612&aff_id=141337" "tag" "Privacy" "price" "3.49")
+  }}
+{{ else if eq $slug "bank-account-chooser" }}
+  {{ $rec = slice
+    (dict "name" "Wise" "desc" "Multi-currency account — hold and convert 40+ currencies" "url" "https://wise.com/invite/ihpc/willemt52" "tag" "Best for Transfers" "price" "0.00")
+    (dict "name" "bunq" "desc" "Dutch IBAN, instant signup, no BSN required to start" "url" "https://www.bunq.com/" "tag" "Best for Expats" "price" "2.99")
+  }}
+{{ else if eq $slug "health-insurance-wizard" }}
+  {{ $rec = slice
+    (dict "name" "SafetyWing" "desc" "Global health insurance for expats and nomads from €45/mo" "url" "https://safetywing.com/nomad-insurance/?referenceID=26482728" "tag" "International Cover" "price" "45.08")
+    (dict "name" "Independer" "desc" "Compare all Dutch health insurers — find the cheapest option" "url" "https://www.awin1.com/cread.php?awinmid=19918&awinaffid=2776410&ued=https%3A%2F%2Fwww.independer.nl%2Fzorgverzekering" "tag" "Dutch Comparison" "price" "")
+  }}
+{{ else if eq $slug "insurance-chooser" }}
+  {{ $rec = slice
+    (dict "name" "SafetyWing" "desc" "Flexible health and travel insurance for internationals" "url" "https://safetywing.com/nomad-insurance/?referenceID=26482728" "tag" "International Cover" "price" "45.08")
+    (dict "name" "Independer" "desc" "Compare Dutch insurance providers side by side" "url" "https://www.awin1.com/cread.php?awinmid=19918&awinaffid=2776410&ued=https%3A%2F%2Fwww.independer.nl%2Fzorgverzekering" "tag" "Dutch Comparison" "price" "")
+  }}
+{{ else if eq $slug "housing-budget-checker" }}
+  {{ $rec = slice
+    (dict "name" "HousingAnywhere" "desc" "Find verified, furnished expat housing across the Netherlands" "url" "https://www.housinganywhere.com/" "tag" "Housing Platform" "price" "")
+    (dict "name" "Pararius" "desc" "Largest English-language rental platform in NL" "url" "https://www.pararius.com/" "tag" "Rental Search" "price" "")
+  }}
+{{ else if eq $slug "visa-permit-finder" }}
+  {{ $rec = slice
+    (dict "name" "Expatax" "desc" "Immigration and permit application support" "url" "https://www.expatax.nl/" "tag" "Legal Support" "price" "")
+    (dict "name" "Blue Umbrella" "desc" "Visa, permit, and 30% ruling advisory for expats" "url" "https://www.blue-umbrella.nl/" "tag" "Advisory" "price" "")
+  }}
+{{ else if eq $slug "cost-of-living-calculator" }}
+  {{ $rec = slice
+    (dict "name" "Wise" "desc" "Save on international transfers when sending money home" "url" "https://wise.com/invite/ihpc/willemt52" "tag" "Currency Transfer" "price" "0.00")
+    (dict "name" "bunq" "desc" "Smart budgeting features and sub-accounts for expats" "url" "https://www.bunq.com/" "tag" "Banking" "price" "2.99")
+  }}
+{{ else if eq $slug "bsn-planner" }}
+  {{ $rec = slice
+    (dict "name" "Expatax" "desc" "Help with BSN registration and tax number setup" "url" "https://www.expatax.nl/" "tag" "Registration Help" "price" "")
+    (dict "name" "SafetyWing" "desc" "Health coverage while waiting for Dutch insurance" "url" "https://safetywing.com/nomad-insurance/?referenceID=26482728" "tag" "Interim Insurance" "price" "45.08")
+  }}
+{{ else if eq $slug "inburgering-route-builder" }}
+  {{ $rec = slice
+    (dict "name" "Babbel" "desc" "Start learning Dutch online before your inburgering exam" "url" "https://www.babbel.com/" "tag" "Language Learning" "price" "")
+    (dict "name" "DutchPod101" "desc" "Audio-based Dutch lessons for busy expats" "url" "https://www.dutchpod101.com/" "tag" "Audio Lessons" "price" "")
+  }}
+{{ else if eq $slug "diploma-evaluator" }}
+  {{ $rec = slice
+    (dict "name" "LinkedIn Premium" "desc" "Stand out to Dutch employers with Premium features" "url" "https://www.linkedin.com/premium/" "tag" "Job Search" "price" "")
+    (dict "name" "Undutchables" "desc" "Recruitment agency specialised in international talent" "url" "https://undutchables.nl/" "tag" "Recruitment" "price" "")
+  }}
+{{ else if eq $slug "city-quiz" }}
+  {{ $rec = slice
+    (dict "name" "HousingAnywhere" "desc" "Find housing in your ideal Dutch city" "url" "https://www.housinganywhere.com/" "tag" "Housing" "price" "")
+    (dict "name" "NordVPN" "desc" "Stay connected to home content from anywhere in NL" "url" "https://go.nordvpn.net/aff_c?offer_id=612&aff_id=141337" "tag" "VPN" "price" "3.49")
+  }}
+{{ end }}
+
+<div class="tool-page">
+  <div class="wide">
+    <nav class="breadcrumb" aria-label="Breadcrumb">
+      <a href="/">Home</a> &rsaquo;
+      <a href="/tools/">Tools</a> &rsaquo;
+      <span>{{ .Title }}</span>
+    </nav>
+
+    <div class="tool-header">
+      <h1>{{ .Title }}</h1>
+      {{ with .Description }}<p class="tool-subtitle">{{ . }}</p>{{ end }}
+      <div class="meta">Free tool &middot; No signup required &middot; Updated {{ now.Format "January 2006" }}</div>
+    </div>
+
+    {{/* ── Tool content (the actual calculator/wizard HTML+JS) ── */}}
+    <div class="tool-content">
+      {{ .Content }}
+    </div>
+
+    {{/* ── Product Recommendations — shown after the tool ── */}}
+    {{ if $rec }}
+    <div class="tool-recommendations">
+      <div class="tool-rec-header">
+        <svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round"><polygon points="12 2 15.09 8.26 22 9.27 17 14.14 18.18 21.02 12 17.77 5.82 21.02 7 14.14 2 9.27 8.91 8.26 12 2"/></svg>
+        <h2>Recommended Based on Your Results</h2>
+      </div>
+      <p class="tool-rec-subtitle">These services are trusted by thousands of expats in the Netherlands.</p>
+
+      <div class="tool-rec-grid">
+        {{ range $i, $p := $rec }}
+        <div class="tool-rec-card">
+          <div class="tool-rec-card-top">
+            <span class="tool-rec-tag">{{ $p.tag }}</span>
+            {{ if eq $i 0 }}<span class="tool-rec-badge">Top Pick</span>{{ end }}
+          </div>
+          <div class="tool-rec-name">{{ $p.name }}</div>
+          <p class="tool-rec-desc">{{ $p.desc }}</p>
+          {{ with $p.price }}<div class="tool-rec-price">{{ if eq . "0.00" }}Free{{ else }}From &euro;{{ . }}/mo{{ end }}</div>{{ end }}
+          <a href="{{ $p.url }}" class="tool-rec-cta cta-affiliate" target="_blank" rel="noopener noreferrer sponsored">
+            Try {{ $p.name }} &rarr;
+          </a>
+        </div>
+        {{ end }}
+      </div>
+
+      <p class="tool-rec-disclosure">
+        <svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><circle cx="12" cy="12" r="10"/><line x1="12" y1="16" x2="12" y2="12"/><line x1="12" y1="8" x2="12.01" y2="8"/></svg>
+        Some links are affiliate links. You pay the same price — we may earn a small commission. <a href="/how-we-earn/">How we earn</a>
+      </p>
+    </div>
+    {{ end }}
+
+    {{/* ── Related Tools ── */}}
+    {{ $allTools := where .Site.RegularPages "Type" "tools" }}
+    {{ $otherTools := where $allTools ".Permalink" "ne" .Permalink }}
+    {{ $related := first 4 $otherTools }}
+    {{ if $related }}
+    <div class="tool-related">
+      <h3>More Free Expat Tools</h3>
+      <div class="tool-related-grid">
+        {{ range $related }}
+        <a href="{{ .RelPermalink }}" class="tool-related-card">
+          <span class="tool-related-title">{{ .Title }}</span>
+          <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round"><line x1="5" y1="12" x2="19" y2="12"/><polyline points="12 5 19 12 12 19"/></svg>
+        </a>
+        {{ end }}
+      </div>
+    </div>
+    {{ end }}
+
+    {{/* ── Relevant guides ── */}}
+    <div class="tool-guides-cta">
+      <div class="tool-guides-text">
+        <h3>Want the full picture?</h3>
+        <p>Our in-depth guides cover everything this tool calculates — and more.</p>
+      </div>
+      <a href="/guides/" class="cta">Browse all guides &rarr;</a>
+    </div>
+
+  </div>
+</div>
+
+<style>
+  .tool-page { padding-top: 1rem; }
+  .tool-header { margin: 1.5rem 0 2rem; }
+  .tool-header h1 { margin-bottom: 0.5rem; }
+  .tool-subtitle { color: var(--expat-muted); font-size: 1.05rem; max-width: 650px; line-height: 1.6; margin: 0 0 0.5rem; }
+  .tool-content { margin-bottom: 3rem; }
+
+  /* ── Recommendations section ── */
+  .tool-recommendations {
+    background: linear-gradient(135deg, #F0FDF4 0%, #ECFDF5 50%, #F0F9FF 100%);
+    border: 2px solid #A7F3D0;
+    border-radius: 16px;
+    padding: 2rem;
+    margin: 2rem 0 3rem;
+  }
+  .tool-rec-header {
+    display: flex;
+    align-items: center;
+    gap: 0.5rem;
+    color: var(--expat-primary);
+    margin-bottom: 0.25rem;
+  }
+  .tool-rec-header h2 { font-size: 1.25rem; margin: 0; color: var(--expat-primary-dark); }
+  .tool-rec-subtitle { color: var(--expat-muted); font-size: 0.9rem; margin: 0.25rem 0 1.5rem; }
+
+  .tool-rec-grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(240px, 1fr));
+    gap: 1rem;
+  }
+  .tool-rec-card {
+    background: #fff;
+    border: 1.5px solid var(--expat-border);
+    border-radius: 12px;
+    padding: 1.25rem;
+    display: flex;
+    flex-direction: column;
+    transition: border-color 0.2s, box-shadow 0.2s;
+  }
+  .tool-rec-card:hover {
+    border-color: var(--expat-primary-light);
+    box-shadow: 0 4px 16px rgba(27,107,74,0.08);
+  }
+  .tool-rec-card-top {
+    display: flex;
+    align-items: center;
+    gap: 0.5rem;
+    margin-bottom: 0.75rem;
+  }
+  .tool-rec-tag {
+    font-size: 0.7rem;
+    font-weight: 700;
+    text-transform: uppercase;
+    letter-spacing: 0.04em;
+    color: var(--expat-primary);
+    background: #D1FAE5;
+    padding: 0.15rem 0.5rem;
+    border-radius: 4px;
+  }
+  .tool-rec-badge {
+    font-size: 0.65rem;
+    font-weight: 700;
+    text-transform: uppercase;
+    letter-spacing: 0.04em;
+    color: #92400E;
+    background: #FEF3C7;
+    padding: 0.15rem 0.5rem;
+    border-radius: 4px;
+  }
+  .tool-rec-name {
+    font-family: 'Outfit', sans-serif;
+    font-size: 1.15rem;
+    font-weight: 700;
+    color: var(--expat-primary-dark);
+    margin-bottom: 0.35rem;
+  }
+  .tool-rec-desc {
+    color: var(--expat-muted);
+    font-size: 0.88rem;
+    line-height: 1.5;
+    margin: 0 0 0.75rem;
+    flex: 1;
+  }
+  .tool-rec-price {
+    font-size: 0.82rem;
+    font-weight: 600;
+    color: var(--expat-primary);
+    margin-bottom: 0.75rem;
+  }
+  .tool-rec-cta {
+    display: block;
+    text-align: center;
+    padding: 0.65rem 1rem;
+    background: var(--expat-primary);
+    color: #fff;
+    font-weight: 700;
+    font-size: 0.88rem;
+    border-radius: 8px;
+    text-decoration: none;
+    transition: background 0.15s, transform 0.12s;
+  }
+  .tool-rec-cta:hover {
+    background: var(--expat-primary-light);
+    color: #fff;
+    text-decoration: none;
+    transform: translateY(-1px);
+  }
+  .tool-rec-disclosure {
+    display: flex;
+    align-items: center;
+    gap: 0.4rem;
+    margin: 1.25rem 0 0;
+    font-size: 0.78rem;
+    color: var(--expat-muted);
+  }
+  .tool-rec-disclosure a { color: var(--expat-primary); }
+
+  /* ── Related tools ── */
+  .tool-related { margin: 0 0 2.5rem; }
+  .tool-related h3 { font-size: 1rem; margin-bottom: 1rem; }
+  .tool-related-grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(220px, 1fr));
+    gap: 0.75rem;
+  }
+  .tool-related-card {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 0.85rem 1rem;
+    border: 1.5px solid var(--expat-border);
+    border-radius: 10px;
+    text-decoration: none;
+    color: var(--expat-primary-dark);
+    font-weight: 600;
+    font-size: 0.88rem;
+    transition: all 0.15s;
+  }
+  .tool-related-card:hover {
+    border-color: var(--expat-primary-light);
+    background: #F0FDF4;
+    text-decoration: none;
+    color: var(--expat-primary);
+  }
+
+  /* ── Guides CTA ── */
+  .tool-guides-cta {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    gap: 1.5rem;
+    padding: 1.5rem 2rem;
+    background: var(--expat-primary-dark);
+    border-radius: 14px;
+    margin-bottom: 2rem;
+  }
+  .tool-guides-cta h3 { color: #fff; font-size: 1.1rem; margin: 0 0 0.25rem; }
+  .tool-guides-cta p { color: rgba(255,255,255,0.7); font-size: 0.9rem; margin: 0; }
+  .tool-guides-cta .cta {
+    white-space: nowrap;
+    background: var(--expat-accent);
+    padding: 0.65rem 1.25rem;
+  }
+
+  @media (max-width: 600px) {
+    .tool-recommendations { padding: 1.25rem; }
+    .tool-rec-grid { grid-template-columns: 1fr; }
+    .tool-related-grid { grid-template-columns: 1fr; }
+    .tool-guides-cta { flex-direction: column; text-align: center; padding: 1.25rem; }
+  }
+</style>
+
 {{ end }}

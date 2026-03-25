@@ -8,12 +8,6 @@ tags: ["Dutch holidays", "King's Day", "Sinterklaas", "Dutch traditions", "publi
 keywords: ["Dutch holidays 2026", "Netherlands public holidays", "King's Day guide", "Dutch traditions expats"]
 affiliate: true
 products:
-  - name: "Wise"
-    url: "https://wise.com/invite/ihpc/willemt52"
-    price: "0.00"
-  - name: "NordVPN"
-    url: "https://go.nordvpn.net/aff_c?offer_id=612&aff_id=141337"
-    price: "3.49"
   - name: "KPN"
     url: "https://www.kpn.com/"
     price: "0.00"
