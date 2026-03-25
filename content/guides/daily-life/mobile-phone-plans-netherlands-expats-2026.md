@@ -9,6 +9,16 @@ categories: ["daily-life"]
 description: "Compare mobile phone plans in the Netherlands for expats 2026. KPN, T-Mobile, Lebara, Simyo reviewed — prices, coverage, and best pick per situation."
 featured_image: "/images/categories/daily-life.svg"
 affiliate: true
+products:
+  - name: "KPN"
+    url: "https://www.kpn.com/"
+    price: "0.00"
+  - name: "T-Mobile"
+    url: "https://www.t-mobile.nl/"
+    price: "0.00"
+  - name: "Ziggo"
+    url: "https://www.ziggo.nl/"
+    price: "0.00"
 author: "Sarah van den Berg"
 author_bio: "Expat coach and relocation specialist. Half Dutch, half British, living in the Netherlands for over 10 years."
 tags: ["phone plan", "SIM card", "KPN", "T-Mobile", "Odido", "Lebara", "mobile"]

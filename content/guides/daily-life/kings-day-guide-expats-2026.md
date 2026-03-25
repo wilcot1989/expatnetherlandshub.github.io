@@ -9,7 +9,17 @@ description: "Your complete expat guide to King's Day 2026 in the Netherlands. D
 featured_image: "/images/featured/kings-day-guide-expats-2026.webp"
 categories: ["daily-life"]
 type: "seasonal guide"
-affiliate: false
+affiliate: true
+products:
+  - name: "Wise"
+    url: "https://wise.com/invite/ihpc/willemt52"
+    price: "0.00"
+  - name: "NordVPN"
+    url: "https://go.nordvpn.net/aff_c?offer_id=612&aff_id=141337"
+    price: "3.49"
+  - name: "KPN"
+    url: "https://www.kpn.com/"
+    price: "0.00"
 tags:
   - "kings day"
   - "koningsdag"

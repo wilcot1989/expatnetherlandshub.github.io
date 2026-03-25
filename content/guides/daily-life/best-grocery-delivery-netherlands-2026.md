@@ -6,7 +6,17 @@ description: "Compare the best grocery delivery services in the Netherlands 2026
 categories: ["daily-life"]
 tags: ["grocery delivery", "albert heijn", "jumbo", "picnic", "flink", "supermarket netherlands", "food delivery"]
 keywords: ["grocery delivery netherlands", "albert heijn delivery", "picnic app", "best supermarket netherlands", "online grocery shopping netherlands"]
-affiliate: false
+affiliate: true
+products:
+  - name: "Wise"
+    url: "https://wise.com/invite/ihpc/willemt52"
+    price: "0.00"
+  - name: "NordVPN"
+    url: "https://go.nordvpn.net/aff_c?offer_id=612&aff_id=141337"
+    price: "3.49"
+  - name: "KPN"
+    url: "https://www.kpn.com/"
+    price: "0.00"
 author: "Sarah van den Berg"
 author_bio: "Expat coach and relocation specialist. Half Dutch, half British, living in the Netherlands for over 10 years."
 featured_image: "/images/featured/best-grocery-delivery-netherlands-2026.webp"

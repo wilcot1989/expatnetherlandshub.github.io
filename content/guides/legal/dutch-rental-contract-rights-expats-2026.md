@@ -7,6 +7,16 @@ categories: ["legal"]
 tags: ["rental contract", "tenant rights", "huurcontract", "housing law", "renting Netherlands"]
 keywords: ["dutch rental contract expat", "tenant rights netherlands", "huurcontract netherlands english", "dutch rental law 2026", "deposit rules netherlands", "huurcommissie complaint", "bepaalde tijd onbepaalde tijd rental", "diplomatenclausule netherlands", "puntentelsel huurwoning", "middenhuur rent protection 2026"]
 affiliate: false
+products:
+  - name: "Expatax"
+    url: "https://www.expatax.nl/"
+    price: "0.00"
+  - name: "Blue Umbrella"
+    url: "https://www.blueumbrella.nl/"
+    price: "0.00"
+  - name: "IND"
+    url: "https://ind.nl/en"
+    price: "0.00"
 author: "Sarah van den Berg"
 author_bio: "Expat coach and relocation specialist. Half Dutch, half British, living in the Netherlands for over 10 years."
 featured_image: "/images/featured/dutch-rental-contract-rights-expats-2026.webp"

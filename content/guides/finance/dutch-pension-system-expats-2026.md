@@ -10,6 +10,16 @@ affiliate: true
 author: "Sarah van den Berg"
 author_bio: "Expat coach and relocation specialist. Half Dutch, half British, living in the Netherlands for over 10 years."
 featured_image: "/images/featured/dutch-pension-system-expats-2026.webp"
+products:
+  - name: "Wise"
+    url: "https://wise.com/invite/ihpc/willemt52"
+    price: "0.00"
+  - name: "bunq"
+    url: "https://www.bunq.com/"
+    price: "2.99"
+  - name: "ING"
+    url: "https://www.ing.nl/particulier"
+    price: "0.00"
 faq:
   - q: "How does the Dutch pension system work?"
     a: "The Dutch pension system has three pillars: (1) AOW — state pension for everyone who lived/worked in the Netherlands, currently about €1,330/month for singles. (2) Employer pension — occupational pension through your employer's pension fund, typically 60-70% of your salary after 40 years. (3) Private pension — individual savings and investments with tax advantages."

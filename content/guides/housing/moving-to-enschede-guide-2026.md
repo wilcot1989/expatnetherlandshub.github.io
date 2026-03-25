@@ -23,6 +23,16 @@ faq:
     a: "Yes. Direct intercity trains run regularly between Enschede and Amsterdam, with a journey time of approximately 1h45. The Enschede-Utrecht service takes about 1h20. Within Enschede, the bus network (Twents OV) covers the city adequately, though most residents use bikes or cars for daily life. The NS (Dutch rail) app is the standard tool for train planning."
   - q: "Are there international schools near Enschede?"
     a: "Enschede does not have a full international school, but the University of Twente runs an International School Twente (IST) programme within local schools that offers the International Baccalaureate (IB). Several primary schools in the area have international sections. For full English-medium secondary education, some families commute to schools in the larger Randstad cities or consider the German international school in Münster."
+products:
+  - name: "HousingAnywhere"
+    url: "https://housinganywhere.com/"
+    price: "0.00"
+  - name: "Kamernet"
+    url: "https://kamernet.nl/"
+    price: "0.00"
+  - name: "Pararius"
+    url: "https://www.pararius.com/"
+    price: "0.00"
 ---
 
 When people ask me about affordable Dutch cities for expats, Enschede comes up less often than it should. It has spent decades in the shadow of Amsterdam, Rotterdam, and Eindhoven — yet it quietly delivers something those cities increasingly cannot: affordable housing, a real community feel, and a genuinely strong tech and academic sector.

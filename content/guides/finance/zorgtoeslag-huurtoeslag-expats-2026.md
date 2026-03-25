@@ -7,10 +7,20 @@ description: "Zorgtoeslag and huurtoeslag explained for expats in the Netherland
 categories: ["finance"]
 tags: ["zorgtoeslag", "huurtoeslag", "dutch benefits", "toeslagen", "expat netherlands", "healthcare allowance", "rent allowance"]
 keywords: ["zorgtoeslag expat netherlands", "huurtoeslag expat 2026", "dutch benefits expats", "toeslagen netherlands 2026", "healthcare allowance netherlands", "rent allowance netherlands expat"]
-affiliate: false
+affiliate: true
 author: "Sarah van den Berg"
 author_bio: "Expat coach and relocation specialist. Half Dutch, half British, living in the Netherlands for over 10 years."
 featured_image: "/images/featured/zorgtoeslag-huurtoeslag-expats-2026.webp"
+products:
+  - name: "Wise"
+    url: "https://wise.com/invite/ihpc/willemt52"
+    price: "0.00"
+  - name: "bunq"
+    url: "https://www.bunq.com/"
+    price: "2.99"
+  - name: "ING"
+    url: "https://www.ing.nl/particulier"
+    price: "0.00"
 faq:
   - q: "Can expats claim zorgtoeslag in the Netherlands?"
     a: "Yes. If you are registered in the Netherlands, have a BSN, hold Dutch basic health insurance (zorgverzekering), and your income is below the threshold, you are entitled to zorgtoeslag regardless of nationality. In 2026, the income limit is roughly EUR 38,520 for singles and around EUR 48,224 for partners combined."

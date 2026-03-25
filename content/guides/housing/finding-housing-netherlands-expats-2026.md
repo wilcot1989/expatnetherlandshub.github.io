@@ -25,6 +25,16 @@ faq:
     a: "Yes, if you meet the requirements. To qualify for huurtoeslag in 2026, your monthly rent must be below the social housing threshold (approximately EUR 879), your income must be below the maximum set by the Belastingdienst, you must be 18 or older, and you must be registered at the address. In practice, most expats earning highly skilled migrant salaries do not qualify because their income exceeds the threshold. However, expats with lower incomes, such as those on partner visas, may be eligible."
   - q: "How long does it typically take to find housing in the Netherlands?"
     a: "In major cities like Amsterdam, The Hague, and Utrecht, expect the search to take 4-8 weeks in a competitive market. In smaller cities, 2-4 weeks is more realistic. The timeline depends on your budget, flexibility on location, and how quickly you can respond to new listings. Having all documents ready, being available for immediate viewings, and considering a slightly wider search area all speed up the process significantly."
+products:
+  - name: "HousingAnywhere"
+    url: "https://housinganywhere.com/"
+    price: "0.00"
+  - name: "Pararius"
+    url: "https://www.pararius.com/"
+    price: "0.00"
+  - name: "Funda"
+    url: "https://www.funda.nl/"
+    price: "0.00"
 ---
 
 Finding housing in the Netherlands nearly defeated me. I spent six weeks refreshing Funda and Pararius obsessively, lost out on three apartments because I was five minutes too slow to respond, and almost fell for a scam listing that seemed too good to be true (because it was). It is, without question, the hardest part of moving here. But after going through it myself and guiding hundreds of clients through the same process, I know it is absolutely doable if you have the right strategy. Here is everything I have learned.

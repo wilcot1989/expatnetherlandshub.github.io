@@ -27,6 +27,16 @@ faq:
     a: "The Netherlands has a mild maritime climate — relatively warm summers (typically 20-25°C in July/August), cool but rarely freezing winters (average 4-6°C in winter months), and a lot of rain and grey skies year-round. Canada's climate varies enormously by region. Toronto and Montreal have cold winters (regularly -10 to -20°C) with heavy snowfall, warm summers, and more sunshine overall than the Netherlands. Vancouver has a climate closer to the Netherlands — mild, rainy, and rarely snowing at sea level. Most Canadians find Dutch winters far milder but the lack of sunshine and persistent drizzle difficult after a while."
   - q: "Is SafetyWing travel insurance valid for the NL-Canada corridor?"
     a: "SafetyWing Nomad Insurance covers international travel and temporary stays globally, including both the Netherlands and Canada. It is widely used by expats on the NL-Canada corridor during travel, probationary periods before health insurance kicks in, or when visiting family. It does not replace mandatory Dutch health insurance (basisverzekering) for NL residents, but it is excellent as a gap-filler or for travel periods."
+products:
+  - name: "Babbel"
+    url: "https://www.babbel.com/"
+    price: "6.99"
+  - name: "Meetup"
+    url: "https://www.meetup.com/"
+    price: "0.00"
+  - name: "DutchPod101"
+    url: "https://www.dutchpod101.com/"
+    price: "0.00"
 ---
 
 Every few months, someone in one of the Dutch expat groups I follow posts a version of the same question: "I have offers in Amsterdam and Toronto — which one?" Or: "I am moving from Vancouver and wondering how the Netherlands compares." The NL-Canada corridor is busier than most people realise. Dutch nationals are one of Canada's older immigrant communities, and the flow in both directions has accelerated in recent years as remote work has loosened the ties between employment and geography.

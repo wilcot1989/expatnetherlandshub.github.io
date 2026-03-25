@@ -23,6 +23,16 @@ faq:
     a: "The two dominant employers are Radboud University Medical Centre (Radboud UMC), one of the Netherlands' top university hospitals with around 10,000 staff, and Radboud University itself. NXP Semiconductors has a significant R&D presence in Nijmegen — the city has been a core site for semiconductor development since the Philips era. Novio Tech Campus is an innovation cluster housing biomedical, tech, and materials science companies, many of which have spun out of Radboud research. Beyond these, there is a public sector, healthcare, and retail-service base typical of a regional city of this size."
   - q: "What is the Vierdaagse and does it affect expats?"
     a: "The Vierdaagse — officially the International Four Days Marches Nijmegen — is the largest walking event in the world, held annually in mid-July. Around 50,000 walkers complete a four-day route of 30 to 50 kilometres per day through the Nijmegen countryside. The Vierdaagsefeesten, the accompanying street festival, runs for ten days and transforms the entire city centre into one of the largest outdoor festivals in Europe. For expats living in Nijmegen, it means: intense accommodation demand, a jubilant city atmosphere, and streets that are impossible to cycle through efficiently for two weeks. It is spectacular if you embrace it, disruptive if you are trying to move during that period. Avoid scheduling your relocation for the third week of July."
+products:
+  - name: "HousingAnywhere"
+    url: "https://housinganywhere.com/"
+    price: "0.00"
+  - name: "Pararius"
+    url: "https://www.pararius.com/"
+    price: "0.00"
+  - name: "Funda"
+    url: "https://www.funda.nl/"
+    price: "0.00"
 ---
 
 The first thing people ask when I mention Nijmegen to clients looking at Dutch cities is: where exactly is that? It is a fair question from someone who has only heard of Amsterdam, Utrecht, and The Hague. The second question, once they have looked it up, is usually: why does no one talk about it more?

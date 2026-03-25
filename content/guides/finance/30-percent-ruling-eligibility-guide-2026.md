@@ -10,6 +10,16 @@ affiliate: true
 author: "Sarah van den Berg"
 author_bio: "Expat coach and relocation specialist. Half Dutch, half British, living in the Netherlands for over 10 years."
 featured_image: "/images/categories/finance.svg"
+products:
+  - name: "Wise"
+    url: "https://wise.com/invite/ihpc/willemt52"
+    price: "0.00"
+  - name: "Expatax"
+    url: "https://www.expatax.nl/"
+    price: "0.00"
+  - name: "Blue Umbrella"
+    url: "https://www.blueumbrella.nl/"
+    price: "0.00"
 faq:
   - q: "What is the minimum salary to qualify for the 30% ruling in 2026?"
     a: "In 2026, the minimum taxable salary threshold for the 30% ruling is EUR 46,107 gross per year for most applicants. For employees under 30 with a qualifying master's degree, the threshold is EUR 35,048 gross. These are the gross figures BEFORE the 30% allowance is deducted. The Belastingdienst adjusts these figures annually, so always verify the current year's threshold."

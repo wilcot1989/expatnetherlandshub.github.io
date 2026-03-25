@@ -7,6 +7,16 @@ categories: ["career"]
 tags: ["ZZP", "freelancer", "self-employed", "KvK registration", "Dutch taxes"]
 keywords: ["ZZP Netherlands", "freelancer Netherlands guide", "self-employed expat NL", "KvK registration freelancer"]
 affiliate: true
+products:
+  - name: "Wise"
+    url: "https://wise.com/invite/ihpc/willemt52"
+    price: "0.00"
+  - name: "LinkedIn Premium"
+    url: "https://www.linkedin.com/premium/"
+    price: "29.99"
+  - name: "Undutchables"
+    url: "https://undutchables.nl/"
+    price: "0.00"
 author: "Sarah van den Berg"
 author_bio: "Expat coach and relocation specialist. Half Dutch, half British, living in the Netherlands for over 10 years."
 featured_image: "/images/featured/freelancer-zzp-guide-netherlands-2026.webp"

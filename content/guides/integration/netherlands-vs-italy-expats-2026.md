@@ -23,6 +23,16 @@ faq:
     a: "The Netherlands has more consistent, better-organised healthcare. The Dutch system requires basic health insurance (basisverzekering) and provides good to excellent access in all parts of the country. Italian public healthcare (SSN — Servizio Sanitario Nazionale) is excellent in northern Italy and patchy in the south. English-speaking healthcare is more widely available in the Netherlands."
   - q: "Which is better for quality of life as an expat?"
     a: "It depends entirely on what you value. Italy offers exceptional food, culture, architecture, climate (especially in the south), and a lifestyle centred on enjoying life. The Netherlands offers efficiency, cycling culture, English-friendly society, strong work-life balance, and excellent infrastructure. Both score well in international quality-of-life indices but for different reasons."
+products:
+  - name: "Babbel"
+    url: "https://www.babbel.com/"
+    price: "6.99"
+  - name: "Meetup"
+    url: "https://www.meetup.com/"
+    price: "0.00"
+  - name: "DutchPod101"
+    url: "https://www.dutchpod101.com/"
+    price: "0.00"
 ---
 
 The Netherlands and Italy are both popular expat destinations in Europe, and they represent genuinely different models of European life. After working with expats choosing between a wide range of European countries, I can tell you that the Netherlands–Italy choice tends to come down to one fundamental question: do you optimise for career and earning power, or for lifestyle and daily pleasure?

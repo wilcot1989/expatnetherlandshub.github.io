@@ -10,6 +10,16 @@ affiliate: true
 author: "Sarah van den Berg"
 author_bio: "Expat coach and relocation specialist. Half Dutch, half British, living in the Netherlands for over 10 years."
 featured_image: "/images/categories/finance.svg"
+products:
+  - name: "Wise"
+    url: "https://wise.com/invite/ihpc/willemt52"
+    price: "0.00"
+  - name: "bunq"
+    url: "https://www.bunq.com/"
+    price: "2.99"
+  - name: "ING"
+    url: "https://www.ing.nl/particulier"
+    price: "0.00"
 faq:
   - q: "What is the cheapest way to send money from the Netherlands?"
     a: "For most destinations and amounts, Wise offers the lowest total cost. It uses the mid-market exchange rate (the rate you see on Google) and charges a small transparent fee, typically 0.3–0.6% of the transfer amount. For euro transfers within the EU and EEA, SEPA bank transfers through your Dutch bank are free or cost under EUR 1 — but only for euro-denominated payments. For non-EUR transfers, avoid your bank and use Wise or Revolut instead."

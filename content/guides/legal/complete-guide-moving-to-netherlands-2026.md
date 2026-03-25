@@ -7,6 +7,16 @@ categories: ["relocation"]
 tags: ["moving to netherlands", "expat relocation", "netherlands visa", "BSN number", "dutch housing", "expat checklist"]
 keywords: ["moving to netherlands", "relocating to netherlands 2026", "expat guide netherlands", "how to move to netherlands", "netherlands relocation checklist"]
 affiliate: true
+products:
+  - name: "IND"
+    url: "https://ind.nl/en"
+    price: "0.00"
+  - name: "Expatax"
+    url: "https://www.expatax.nl/"
+    price: "0.00"
+  - name: "Wise"
+    url: "https://wise.com/invite/ihpc/willemt52"
+    price: "0.00"
 author: "Sarah van den Berg"
 author_bio: "Expat coach and relocation specialist. Half Dutch, half British, living in the Netherlands for over 10 years."
 featured_image: "/images/featured/complete-guide-moving-to-netherlands-2026.webp"

@@ -23,6 +23,16 @@ faq:
     a: "Yes. Almere consistently ranks as one of the safer larger cities in the Netherlands. It does not have the concentrated crime issues associated with parts of larger cities. The newer residential districts are quiet and well-maintained. As with any city, some areas have more social issues than others — the Kruidenwijk and Muziekwijk neighbourhoods in Almere Stad have historically had higher crime rates than the newer parts of the city, though these remain modest by European standards."
   - q: "Can I get by in English in Almere?"
     a: "Yes, though Almere is less English-friendly than Amsterdam or The Hague. Most younger people and professionals speak good English, and the city has a very diverse population where communication in English is common. Government services, schools, and healthcare providers typically have Dutch as the primary language, though most staff speak English. Learning some Dutch basics will make daily life easier and is particularly useful for dealing with local services, schools, and neighbours."
+products:
+  - name: "HousingAnywhere"
+    url: "https://housinganywhere.com/"
+    price: "0.00"
+  - name: "Pararius"
+    url: "https://www.pararius.com/"
+    price: "0.00"
+  - name: "Funda"
+    url: "https://www.funda.nl/"
+    price: "0.00"
 ---
 
 A colleague of mine — a product manager from Berlin — moved to Almere three years ago with his partner and two young children after spending eighteen months trying to find a suitable apartment in Amsterdam. He had a good job, a decent salary, and still could not make the numbers work for a family-sized apartment within cycling distance of anything useful. Someone suggested Almere. He was sceptical. He had driven through it once and found it unprepossessing. He went to look anyway.

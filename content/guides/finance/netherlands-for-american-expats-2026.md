@@ -10,6 +10,16 @@ affiliate: true
 author: "Sarah van den Berg"
 author_bio: "Expat coach and relocation specialist. Half Dutch, half British, living in the Netherlands for over 10 years."
 featured_image: "/images/categories/finance.svg"
+products:
+  - name: "Wise"
+    url: "https://wise.com/invite/ihpc/willemt52"
+    price: "0.00"
+  - name: "Expatax"
+    url: "https://www.expatax.nl/"
+    price: "0.00"
+  - name: "Blue Umbrella"
+    url: "https://www.blueumbrella.nl/"
+    price: "0.00"
 faq:
   - q: "Do Americans still have to file US taxes when living in the Netherlands?"
     a: "Yes. The United States taxes its citizens and permanent residents on their worldwide income, regardless of where they live. Living in the Netherlands does not remove your obligation to file a US federal tax return each year with the IRS. You may be able to reduce or eliminate your actual US tax bill through the Foreign Earned Income Exclusion (FEIE) or the Foreign Tax Credit, but the filing obligation remains. Failure to file can result in significant penalties."

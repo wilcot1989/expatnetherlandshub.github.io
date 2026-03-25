@@ -3,22 +3,68 @@
 {{/* JSON-LD is handled in baseof.html — no duplicates here */}}
 
 <!-- ═══════════════════════════════════════════════════
-     HERO SECTION
+     HERO SECTION — split layout with visual
      ═══════════════════════════════════════════════════ -->
 <div class="hero">
   <div class="wide">
-    <p class="hero-eyebrow">The Netherlands Expat Decision Engine</p>
-    <h1>Moving to the Netherlands?</h1>
-    <p>Your step-by-step decision engine. Free tools, honest guides, and real answers — written by an expat coach who's been through it all.</p>
-    <div class="hero-actions">
-      <a href="/tools/30-percent-ruling-calculator/" class="cta">Start the 30% Calculator &rarr;</a>
-      <a href="/tools/" class="cta cta-ghost">Browse All Tools</a>
+    <div class="hero-split">
+      <div class="hero-text">
+        <p class="hero-eyebrow">The Netherlands Expat Decision Engine</p>
+        <h1>Moving to the Netherlands?</h1>
+        <p>Your step-by-step decision engine. Free tools, honest guides, and real answers — written by an expat coach who's been through it all.</p>
+        <div class="hero-actions">
+          <a href="/tools/30-percent-ruling-calculator/" class="cta">Start the 30% Calculator &rarr;</a>
+          <a href="/tools/" class="cta cta-ghost">Browse All Tools</a>
+        </div>
+      </div>
+      <div class="hero-visual" aria-hidden="true">
+        <div class="hero-device">
+          <div class="hero-device-bar">
+            <span></span><span></span><span></span>
+          </div>
+          <div class="hero-device-screen">
+            <div class="hero-device-line hero-device-line--title"></div>
+            <div class="hero-device-line hero-device-line--sub"></div>
+            <div class="hero-device-row">
+              <div class="hero-device-card"></div>
+              <div class="hero-device-card"></div>
+            </div>
+            <div class="hero-device-line hero-device-line--btn"></div>
+          </div>
+        </div>
+      </div>
     </div>
   </div>
 </div>
 
 <!-- ═══════════════════════════════════════════════════
-     TOOL GRID
+     STATS BANNER
+     ═══════════════════════════════════════════════════ -->
+<div class="stats-banner">
+  <div class="wide">
+    <div class="stats-grid">
+      <div class="stat-item">
+        <div class="stat-number">{{ len (where .Site.RegularPages "Type" "guides") }}+</div>
+        <div class="stat-label">Expert Guides</div>
+      </div>
+      <div class="stat-item">
+        <div class="stat-number">11</div>
+        <div class="stat-label">Free Tools</div>
+      </div>
+      <div class="stat-item">
+        <div class="stat-number">17</div>
+        <div class="stat-label">City Guides</div>
+      </div>
+      <div class="stat-item">
+        <div class="stat-number">7</div>
+        <div class="stat-label">Categories</div>
+      </div>
+    </div>
+  </div>
+</div>
+
+<!-- ═══════════════════════════════════════════════════
+     TOOL GRID — SVG icons
      ═══════════════════════════════════════════════════ -->
 <section class="section-tools">
   <div class="container wide">
@@ -29,7 +75,7 @@
     <div class="tool-grid">
 
       <a href="/tools/30-percent-ruling-calculator/" class="tool-card">
-        <div class="tool-icon">&#x1F9EE;</div>
+        <div class="tool-icon-svg"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><rect x="4" y="2" width="16" height="20" rx="2"/><line x1="8" y1="6" x2="16" y2="6"/><line x1="16" y1="14" x2="16" y2="14.01"/><line x1="12" y1="14" x2="12" y2="14.01"/><line x1="8" y1="14" x2="8" y2="14.01"/><line x1="16" y1="18" x2="16" y2="18.01"/><line x1="12" y1="18" x2="12" y2="18.01"/><line x1="8" y1="18" x2="8" y2="18.01"/><line x1="12" y1="10" x2="16" y2="10"/></svg></div>
         <div class="tool-body">
           <h3>30% Ruling Calculator</h3>
           <p>Calculate your exact tax benefit</p>
@@ -38,7 +84,7 @@
       </a>
 
       <a href="/tools/salary-checker/" class="tool-card">
-        <div class="tool-icon">&#x1F4B0;</div>
+        <div class="tool-icon-svg"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><line x1="12" y1="1" x2="12" y2="23"/><path d="M17 5H9.5a3.5 3.5 0 000 7h5a3.5 3.5 0 010 7H6"/></svg></div>
         <div class="tool-body">
           <h3>Net Salary Calculator</h3>
           <p>Gross to net + HSM threshold check</p>
@@ -47,7 +93,7 @@
       </a>
 
       <a href="/tools/visa-permit-finder/" class="tool-card">
-        <div class="tool-icon">&#x1F6C2;</div>
+        <div class="tool-icon-svg"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><rect x="2" y="5" width="20" height="14" rx="2"/><line x1="2" y1="10" x2="22" y2="10"/><line x1="7" y1="15" x2="7" y2="15.01"/><line x1="11" y1="15" x2="13" y2="15"/></svg></div>
         <div class="tool-body">
           <h3>Visa Check</h3>
           <p>Find which visa or permit you need</p>
@@ -56,7 +102,7 @@
       </a>
 
       <a href="/tools/bsn-planner/" class="tool-card">
-        <div class="tool-icon">&#x1F4CB;</div>
+        <div class="tool-icon-svg"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M16 4h2a2 2 0 012 2v14a2 2 0 01-2 2H6a2 2 0 01-2-2V6a2 2 0 012-2h2"/><rect x="8" y="2" width="8" height="4" rx="1"/><path d="M9 14l2 2 4-4"/></svg></div>
         <div class="tool-body">
           <h3>BSN Registration Guide</h3>
           <p>Plan your gemeente appointment</p>
@@ -65,7 +111,7 @@
       </a>
 
       <a href="/tools/health-insurance-wizard/" class="tool-card">
-        <div class="tool-icon">&#x1F3E5;</div>
+        <div class="tool-icon-svg"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M22 12h-4l-3 9L9 3l-3 9H2"/></svg></div>
         <div class="tool-body">
           <h3>Health Insurance Comparison</h3>
           <p>Compare Dutch zorgverzekeringen</p>
@@ -74,7 +120,7 @@
       </a>
 
       <a href="/tools/insurance-chooser/" class="tool-card">
-        <div class="tool-icon">&#x1F6E1;&#xFE0F;</div>
+        <div class="tool-icon-svg"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M12 22s8-4 8-10V5l-8-3-8 3v7c0 6 8 10 8 10z"/></svg></div>
         <div class="tool-body">
           <h3>Expat Insurance Comparison</h3>
           <p>Compare international insurance</p>
@@ -83,7 +129,7 @@
       </a>
 
       <a href="/tools/bank-account-chooser/" class="tool-card">
-        <div class="tool-icon">&#x1F3E6;</div>
+        <div class="tool-icon-svg"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><rect x="1" y="4" width="22" height="16" rx="2"/><line x1="1" y1="10" x2="23" y2="10"/></svg></div>
         <div class="tool-body">
           <h3>Bank Account Comparison</h3>
           <p>Compare Dutch banks for expats</p>
@@ -92,7 +138,7 @@
       </a>
 
       <a href="/tools/housing-budget-checker/" class="tool-card">
-        <div class="tool-icon">&#x1F3E0;</div>
+        <div class="tool-icon-svg"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M3 9l9-7 9 7v11a2 2 0 01-2 2H5a2 2 0 01-2-2z"/><polyline points="9 22 9 12 15 12 15 22"/></svg></div>
         <div class="tool-body">
           <h3>Rent Affordability Calculator</h3>
           <p>Calculate what you can afford</p>
@@ -101,7 +147,7 @@
       </a>
 
       <a href="/tools/inburgering-route-builder/" class="tool-card">
-        <div class="tool-icon">&#x1F4DA;</div>
+        <div class="tool-icon-svg"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M4 19.5A2.5 2.5 0 016.5 17H20"/><path d="M6.5 2H20v20H6.5A2.5 2.5 0 014 19.5v-15A2.5 2.5 0 016.5 2z"/></svg></div>
         <div class="tool-body">
           <h3>Inburgering Exam Guide</h3>
           <p>Find your integration path</p>
@@ -110,12 +156,75 @@
       </a>
 
       <a href="/tools/diploma-evaluator/" class="tool-card">
-        <div class="tool-icon">&#x1F4DC;</div>
+        <div class="tool-icon-svg"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M22 10v6M2 10l10-5 10 5-10 5z"/><path d="M6 12v5c3 3 9 3 12 0v-5"/></svg></div>
         <div class="tool-body">
           <h3>Diploma Recognition Guide</h3>
           <p>Nuffic credential evaluation</p>
         </div>
         <span class="tool-cta">Start &rarr;</span>
+      </a>
+
+    </div>
+  </div>
+</section>
+
+<!-- ═══════════════════════════════════════════════════
+     MOST RECOMMENDED PRODUCTS
+     ═══════════════════════════════════════════════════ -->
+<section class="section-recommended">
+  <div class="container wide">
+    <div class="section-header">
+      <h2>Most Recommended by Expats</h2>
+      <p class="section-sub">The products and services our readers use most — vetted and reviewed by our team.</p>
+    </div>
+    <div class="recommended-grid">
+
+      <a href="https://wise.com/invite/ihpc/willemt52" class="recommended-card cta-affiliate" target="_blank" rel="noopener noreferrer sponsored">
+        <div class="recommended-badge">Free</div>
+        <div class="recommended-name">Wise</div>
+        <div class="recommended-cat">International Transfers</div>
+        <div class="recommended-desc">Send money abroad with the real exchange rate. Used by 16M+ people worldwide.</div>
+        <span class="recommended-cta">Open account &rarr;</span>
+      </a>
+
+      <a href="https://safetywing.com/nomad-insurance/?referenceID=26482728" class="recommended-card cta-affiliate" target="_blank" rel="noopener noreferrer sponsored">
+        <div class="recommended-badge">&euro;45/mo</div>
+        <div class="recommended-name">SafetyWing</div>
+        <div class="recommended-cat">Expat Insurance</div>
+        <div class="recommended-desc">Travel medical insurance for remote workers and expats. Flexible monthly plans.</div>
+        <span class="recommended-cta">Get covered &rarr;</span>
+      </a>
+
+      <a href="https://go.nordvpn.net/aff_c?offer_id=612&aff_id=141337" class="recommended-card cta-affiliate" target="_blank" rel="noopener noreferrer sponsored">
+        <div class="recommended-badge">&euro;3.49/mo</div>
+        <div class="recommended-name">NordVPN</div>
+        <div class="recommended-cat">Online Security</div>
+        <div class="recommended-desc">Access content from home and stay secure on public Wi-Fi in the Netherlands.</div>
+        <span class="recommended-cta">Get NordVPN &rarr;</span>
+      </a>
+
+      <a href="https://www.bunq.com/" class="recommended-card" target="_blank" rel="noopener noreferrer">
+        <div class="recommended-badge">&euro;2.99/mo</div>
+        <div class="recommended-name">bunq</div>
+        <div class="recommended-cat">Dutch Bank Account</div>
+        <div class="recommended-desc">Open a Dutch bank account from your phone in 5 minutes. English app, no BSN needed to start.</div>
+        <span class="recommended-cta">Learn more &rarr;</span>
+      </a>
+
+      <a href="https://www.babbel.com/" class="recommended-card" target="_blank" rel="noopener noreferrer">
+        <div class="recommended-badge">&euro;6.99/mo</div>
+        <div class="recommended-name">Babbel</div>
+        <div class="recommended-cat">Learn Dutch</div>
+        <div class="recommended-desc">Structured Dutch lessons designed by linguists. Speech recognition and real-life dialogues.</div>
+        <span class="recommended-cta">Start learning &rarr;</span>
+      </a>
+
+      <a href="https://housinganywhere.com/" class="recommended-card" target="_blank" rel="noopener noreferrer">
+        <div class="recommended-badge">Free</div>
+        <div class="recommended-name">HousingAnywhere</div>
+        <div class="recommended-cat">Find Housing</div>
+        <div class="recommended-desc">Find verified apartments and rooms in Dutch cities. Secure booking with payment protection.</div>
+        <span class="recommended-cta">Browse listings &rarr;</span>
       </a>
 
     </div>
@@ -171,7 +280,7 @@
       {{ $homeSvgFile := printf "static/images/categories/%s.svg" $homeCat }}
       <a href="{{ .RelPermalink }}" class="card guide-card">
         {{ if (fileExists $homeSvgFile) }}
-        <img src="{{ $homeSvg }}" alt="{{ $pageTitle }}" class="card-thumb">
+        <img src="{{ $homeSvg }}" alt="{{ $pageTitle }}" class="card-thumb" loading="lazy">
         {{ else }}
         <div class="card-thumb card-thumb-placeholder"></div>
         {{ end }}
@@ -190,7 +299,7 @@
 </section>
 
 <!-- ═══════════════════════════════════════════════════
-     CITY GUIDES
+     CITY GUIDES — SVG icons
      ═══════════════════════════════════════════════════ -->
 <section class="section-cities">
   <div class="container wide">
@@ -199,51 +308,56 @@
       <p class="section-sub">Local guides for the cities where expats live and work.</p>
     </div>
     <div class="city-pills">
-      <a href="/cities/amsterdam/" class="city-pill">
-        <span class="city-icon">&#x1F3D9;&#xFE0F;</span> Amsterdam
-      </a>
-      <a href="/cities/rotterdam/" class="city-pill">
-        <span class="city-icon">&#x26FD;</span> Rotterdam
-      </a>
-      <a href="/cities/the-hague/" class="city-pill">
-        <span class="city-icon">&#x1F3DB;&#xFE0F;</span> The Hague
-      </a>
-      <a href="/cities/eindhoven/" class="city-pill">
-        <span class="city-icon">&#x1F4A1;</span> Eindhoven
-      </a>
-      <a href="/cities/utrecht/" class="city-pill">
-        <span class="city-icon">&#x26EA;</span> Utrecht
-      </a>
-      <a href="/cities/groningen/" class="city-pill">
-        <span class="city-icon">&#x1F393;</span> Groningen
-      </a>
-      <a href="/cities/leiden/" class="city-pill">
-        <span class="city-icon">&#x1F52C;</span> Leiden
-      </a>
-      <a href="/cities/maastricht/" class="city-pill">
-        <span class="city-icon">&#x1F30D;</span> Maastricht
-      </a>
+      <a href="/cities/amsterdam/" class="city-pill"><svg class="city-svg" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M3 21h18M5 21V7l7-4 7 4v14M9 21v-6h6v6"/></svg> Amsterdam</a>
+      <a href="/cities/rotterdam/" class="city-pill"><svg class="city-svg" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M3 21h18M6 21V10h4v11M14 21V6h4v15M10 21V14h4v7"/></svg> Rotterdam</a>
+      <a href="/cities/the-hague/" class="city-pill"><svg class="city-svg" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M3 21h18M7 21V8l5-5 5 5v13M12 3v4"/><circle cx="12" cy="14" r="2"/></svg> The Hague</a>
+      <a href="/cities/eindhoven/" class="city-pill"><svg class="city-svg" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><circle cx="12" cy="12" r="5"/><path d="M12 1v2M12 21v2M4.22 4.22l1.42 1.42M18.36 18.36l1.42 1.42M1 12h2M21 12h2M4.22 19.78l1.42-1.42M18.36 5.64l1.42-1.42"/></svg> Eindhoven</a>
+      <a href="/cities/utrecht/" class="city-pill"><svg class="city-svg" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M3 21h18M8 21V11l4-8 4 8v10"/><line x1="12" y1="3" x2="12" y2="7"/></svg> Utrecht</a>
+      <a href="/cities/groningen/" class="city-pill"><svg class="city-svg" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M22 10v6M2 10l10-5 10 5-10 5z"/><path d="M6 12v5c3 3 9 3 12 0v-5"/></svg> Groningen</a>
+      <a href="/cities/leiden/" class="city-pill"><svg class="city-svg" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><circle cx="12" cy="5" r="3"/><path d="M12 8v4M8 21l4-9 4 9M9.5 17h5"/></svg> Leiden</a>
+      <a href="/cities/maastricht/" class="city-pill"><svg class="city-svg" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><circle cx="12" cy="12" r="10"/><path d="M2 12h20M12 2a15 15 0 010 20M12 2a15 15 0 000 20"/></svg> Maastricht</a>
     </div>
   </div>
 </section>
 
 <!-- ═══════════════════════════════════════════════════
-     TRUST SECTION
+     ABOUT SARAH
+     ═══════════════════════════════════════════════════ -->
+<section class="section-about">
+  <div class="container wide">
+    <div class="about-card">
+      <div class="about-avatar">SvdB</div>
+      <div class="about-content">
+        <h2>Written by Sarah van den Berg</h2>
+        <p>Expat coach and relocation specialist who moved to the Netherlands in 2018. After navigating the 30% ruling, health insurance maze, and housing crisis herself, Sarah started Expat Netherlands Hub to help others avoid the same mistakes.</p>
+        <div class="about-stats">
+          <div class="about-stat"><strong>{{ len (where .Site.RegularPages "Type" "guides") }}+</strong> guides written</div>
+          <div class="about-stat"><strong>8+</strong> years in NL</div>
+          <div class="about-stat"><strong>11</strong> free tools built</div>
+        </div>
+        <a href="/about/" class="cta cta-outline-green" style="margin-top:1rem;">Read Sarah's story &rarr;</a>
+      </div>
+    </div>
+  </div>
+</section>
+
+<!-- ═══════════════════════════════════════════════════
+     TRUST SECTION — badge style
      ═══════════════════════════════════════════════════ -->
 <section class="trust-section">
   <div class="container wide">
     <p class="trust-heading">Trusted by thousands of expats</p>
     <div class="trust-items">
       <div class="trust-item">
-        <span class="trust-check">&#x2713;</span>
+        <span class="trust-badge-icon"><svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round"><path d="M22 11.08V12a10 10 0 11-5.93-9.14"/><polyline points="22 4 12 14.01 9 11.01"/></svg></span>
         <span>10+ free tools, no signup needed</span>
       </div>
       <div class="trust-item">
-        <span class="trust-check">&#x2713;</span>
-        <span>Updated for 2026 — rules, salaries, and costs</span>
+        <span class="trust-badge-icon"><svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round"><path d="M22 11.08V12a10 10 0 11-5.93-9.14"/><polyline points="22 4 12 14.01 9 11.01"/></svg></span>
+        <span>Updated for {{ now.Year }} — rules, salaries, and costs</span>
       </div>
       <div class="trust-item">
-        <span class="trust-check">&#x2713;</span>
+        <span class="trust-badge-icon"><svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round"><path d="M22 11.08V12a10 10 0 11-5.93-9.14"/><polyline points="22 4 12 14.01 9 11.01"/></svg></span>
         <span>Written by Sarah van den Berg, expat coach</span>
       </div>
     </div>
@@ -258,14 +372,7 @@
     <h2>Get Your Free Expat Checklist</h2>
     <p>47 things to do in your first 3 months in the Netherlands — sent straight to your inbox.</p>
     <form class="email-form" action="#" method="post">
-      <input
-        type="email"
-        name="email"
-        placeholder="your@email.com"
-        required
-        class="email-input"
-        aria-label="Your email address"
-      >
+      <input type="email" name="email" placeholder="your@email.com" required class="email-input" aria-label="Your email address">
       <button type="submit" class="cta email-submit">Download Free &rarr;</button>
     </form>
     <p class="email-disclaimer">No spam. Unsubscribe anytime.</p>
@@ -276,25 +383,20 @@
      HOMEPAGE STYLES
      ═══════════════════════════════════════════════════ -->
 <style>
-  /* Homepage-specific styles — base colours come from baseof.html */
-
   /* ── Hero ──────────────────────────────────────── */
   .hero {
     background:
       url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='80' height='80'%3E%3Ccircle cx='40' cy='40' r='1.5' fill='%23ffffff' opacity='0.07'/%3E%3Ccircle cx='0' cy='0' r='1' fill='%23ffffff' opacity='0.05'/%3E%3Ccircle cx='80' cy='0' r='1' fill='%23ffffff' opacity='0.05'/%3E%3Ccircle cx='0' cy='80' r='1' fill='%23ffffff' opacity='0.05'/%3E%3Ccircle cx='80' cy='80' r='1' fill='%23ffffff' opacity='0.05'/%3E%3Cpath d='M0 40h80M40 0v80' stroke='%23ffffff' stroke-width='0.3' opacity='0.04'/%3E%3C/svg%3E"),
       linear-gradient(135deg, var(--expat-primary-dark) 0%, var(--expat-primary) 50%, #2D9B6A 100%);
     padding: 5rem 0 4rem;
-    text-align: center;
     position: relative;
     overflow: hidden;
   }
   .hero::before {
     content: '';
     position: absolute;
-    top: -50%;
-    right: -20%;
-    width: 600px;
-    height: 600px;
+    top: -50%; right: -20%;
+    width: 600px; height: 600px;
     border-radius: 50%;
     background: radial-gradient(circle, rgba(232,131,42,0.12) 0%, transparent 70%);
     pointer-events: none;
@@ -302,15 +404,19 @@
   .hero::after {
     content: '';
     position: absolute;
-    bottom: -40%;
-    left: -15%;
-    width: 500px;
-    height: 500px;
+    bottom: -40%; left: -15%;
+    width: 500px; height: 500px;
     border-radius: 50%;
     background: radial-gradient(circle, rgba(45,155,106,0.15) 0%, transparent 70%);
     pointer-events: none;
   }
   .hero > .wide { position: relative; z-index: 1; }
+  .hero-split {
+    display: flex;
+    align-items: center;
+    gap: 3rem;
+  }
+  .hero-text { flex: 1; }
   .hero-eyebrow {
     display: inline-block;
     background: rgba(255,255,255,0.12);
@@ -329,20 +435,16 @@
     font-size: 3rem;
     line-height: 1.15;
     margin-bottom: 1rem;
-    max-width: 800px;
-    margin-left: auto;
-    margin-right: auto;
   }
-  .hero > .wide > p {
+  .hero-text > p {
     color: rgba(255,255,255,0.88);
     font-size: 1.15rem;
-    max-width: 640px;
-    margin: 0 auto 2rem;
+    max-width: 540px;
+    margin-bottom: 2rem;
     line-height: 1.7;
   }
   .hero-actions {
     display: flex;
-    justify-content: center;
     gap: 0.75rem;
     flex-wrap: wrap;
   }
@@ -357,56 +459,100 @@
     text-decoration: none;
   }
 
-  /* ── Shared section utilities ───────────────────── */
-  .section-header {
-    text-align: center;
-    margin-bottom: 2.5rem;
+  /* Hero device mockup */
+  .hero-visual { flex-shrink: 0; width: 320px; }
+  .hero-device {
+    background: rgba(255,255,255,0.08);
+    border: 1px solid rgba(255,255,255,0.15);
+    border-radius: 12px;
+    overflow: hidden;
+    backdrop-filter: blur(10px);
   }
-  .section-header h2 {
-    color: var(--expat-text);
-    font-size: 1.9rem;
-    margin-bottom: 0.4rem;
+  .hero-device-bar {
+    display: flex;
+    gap: 5px;
+    padding: 10px 12px;
+    background: rgba(255,255,255,0.05);
+    border-bottom: 1px solid rgba(255,255,255,0.08);
   }
-  .section-sub {
-    color: var(--expat-muted);
-    font-size: 1rem;
-    margin: 0;
+  .hero-device-bar span {
+    width: 8px; height: 8px;
+    border-radius: 50%;
+    background: rgba(255,255,255,0.2);
   }
-  .section-footer {
-    text-align: center;
-    margin-top: 2.5rem;
-  }
-  .cta-outline-green {
-    background: transparent;
-    border: 2px solid var(--expat-primary);
-    color: var(--expat-primary);
-  }
-  .cta-outline-green:hover {
-    background: var(--expat-primary);
-    color: #ffffff;
-    text-decoration: none;
-  }
-
-  /* ── Tool grid ──────────────────────────────────── */
-  .section-tools {
-    padding: 4rem 0;
-    background: var(--expat-bg);
-  }
-  .tool-grid {
-    display: grid;
-    grid-template-columns: repeat(5, 1fr);
-    gap: 1rem;
-  }
-  .tool-card {
+  .hero-device-bar span:first-child { background: #EF4444; opacity: 0.6; }
+  .hero-device-bar span:nth-child(2) { background: #F59E0B; opacity: 0.6; }
+  .hero-device-bar span:nth-child(3) { background: #10B981; opacity: 0.6; }
+  .hero-device-screen {
+    padding: 1.25rem;
     display: flex;
     flex-direction: column;
-    align-items: flex-start;
-    background: var(--expat-card);
-    border: 1px solid var(--expat-border);
-    border-radius: 12px;
-    padding: 1.25rem 1rem 1rem;
-    text-decoration: none;
-    color: var(--expat-text);
+    gap: 0.75rem;
+  }
+  .hero-device-line {
+    border-radius: 4px;
+    background: rgba(255,255,255,0.12);
+  }
+  .hero-device-line--title { height: 14px; width: 75%; }
+  .hero-device-line--sub { height: 10px; width: 55%; opacity: 0.6; }
+  .hero-device-row { display: flex; gap: 0.75rem; }
+  .hero-device-card {
+    flex: 1;
+    height: 60px;
+    border-radius: 8px;
+    background: rgba(255,255,255,0.08);
+    border: 1px solid rgba(255,255,255,0.1);
+  }
+  .hero-device-line--btn {
+    height: 32px;
+    width: 50%;
+    background: rgba(232,131,42,0.4);
+    border-radius: 6px;
+  }
+
+  /* ── Stats banner ─────────────────────────────── */
+  .stats-banner {
+    background: #fff;
+    border-bottom: 1px solid var(--expat-border);
+    padding: 1.5rem 0;
+  }
+  .stats-grid {
+    display: flex;
+    justify-content: center;
+    gap: 3.5rem;
+    flex-wrap: wrap;
+  }
+  .stat-item { text-align: center; }
+  .stat-number {
+    font-family: 'Outfit', sans-serif;
+    font-size: 1.75rem;
+    font-weight: 800;
+    color: var(--expat-primary-dark);
+    line-height: 1;
+  }
+  .stat-label {
+    font-size: 0.8rem;
+    color: var(--expat-muted);
+    margin-top: 0.25rem;
+    font-weight: 500;
+  }
+
+  /* ── Shared section utilities ───────────────────── */
+  .section-header { text-align: center; margin-bottom: 2.5rem; }
+  .section-header h2 { color: var(--expat-text); font-size: 1.9rem; margin-bottom: 0.4rem; }
+  .section-sub { color: var(--expat-muted); font-size: 1rem; margin: 0; }
+  .section-footer { text-align: center; margin-top: 2.5rem; }
+  .cta-outline-green { background: transparent; border: 2px solid var(--expat-primary); color: var(--expat-primary); }
+  .cta-outline-green:hover { background: var(--expat-primary); color: #ffffff; text-decoration: none; }
+
+  /* ── Tool grid with SVG icons ─────────────────── */
+  .section-tools { padding: 4rem 0; background: var(--expat-bg); }
+  .tool-grid { display: grid; grid-template-columns: repeat(5, 1fr); gap: 1rem; }
+  .tool-card {
+    display: flex; flex-direction: column; align-items: flex-start;
+    background: var(--expat-card); border: 1px solid var(--expat-border);
+    border-radius: 12px; padding: 1.25rem 1rem 1rem;
+    text-decoration: none; color: var(--expat-text);
     transition: box-shadow 0.2s, transform 0.2s, border-color 0.2s;
     gap: 0.5rem;
   }
@@ -414,308 +560,201 @@
     box-shadow: 0 6px 20px rgba(27,107,74,0.12);
     transform: translateY(-3px);
     border-color: var(--expat-primary-light);
-    text-decoration: none;
-    color: var(--expat-text);
+    text-decoration: none; color: var(--expat-text);
   }
-  .tool-icon {
-    font-size: 1.8rem;
-    line-height: 1;
-    margin-bottom: 0.25rem;
+  .tool-icon-svg {
+    width: 44px; height: 44px;
+    border-radius: 10px;
+    background: #D1FAE5;
+    display: flex; align-items: center; justify-content: center;
+    flex-shrink: 0;
   }
-  .tool-body h3 {
-    font-size: 0.9rem;
-    font-weight: 700;
-    color: var(--expat-text);
-    margin: 0 0 0.2rem;
-    line-height: 1.3;
+  .tool-icon-svg svg { width: 22px; height: 22px; color: var(--expat-primary); }
+  .tool-body h3 { font-size: 0.9rem; font-weight: 700; color: var(--expat-text); margin: 0 0 0.2rem; line-height: 1.3; }
+  .tool-body p { font-size: 0.78rem; color: var(--expat-muted); margin: 0; line-height: 1.4; }
+  .tool-cta { margin-top: auto; font-size: 0.8rem; font-weight: 600; color: var(--expat-primary); }
+  .tool-card:hover .tool-cta { color: var(--expat-primary-light); }
+
+  /* ── Recommended products ──────────────────────── */
+  .section-recommended {
+    padding: 4rem 0;
+    background: #fff;
+    border-top: 1px solid var(--expat-border);
   }
-  .tool-body p {
-    font-size: 0.78rem;
-    color: var(--expat-muted);
+  .recommended-grid {
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    gap: 1.25rem;
+  }
+  .recommended-card {
+    display: flex; flex-direction: column;
+    background: var(--expat-card); border: 1px solid var(--expat-border);
+    border-radius: 14px; padding: 1.5rem;
+    text-decoration: none; color: var(--expat-text);
+    transition: box-shadow 0.2s, transform 0.2s, border-color 0.2s;
+    position: relative;
     margin: 0;
-    line-height: 1.4;
   }
-  .tool-cta {
+  .recommended-card:hover {
+    box-shadow: 0 8px 28px rgba(27,107,74,0.12);
+    transform: translateY(-3px);
+    border-color: var(--expat-primary-light);
+    text-decoration: none; color: var(--expat-text);
+  }
+  .recommended-badge {
+    display: inline-block;
+    background: #D1FAE5; color: var(--expat-primary-dark);
+    font-size: 0.72rem; font-weight: 700;
+    padding: 0.2rem 0.6rem; border-radius: 6px;
+    margin-bottom: 0.75rem; align-self: flex-start;
+  }
+  .recommended-name {
+    font-family: 'Outfit', sans-serif;
+    font-size: 1.2rem; font-weight: 800;
+    color: var(--expat-primary-dark);
+    margin-bottom: 0.1rem;
+  }
+  .recommended-cat {
+    font-size: 0.78rem; color: var(--expat-primary);
+    font-weight: 600; margin-bottom: 0.6rem;
+  }
+  .recommended-desc {
+    font-size: 0.88rem; color: var(--expat-muted);
+    line-height: 1.55; flex: 1; margin-bottom: 1rem;
+  }
+  .recommended-cta {
+    font-size: 0.88rem; font-weight: 700;
+    color: var(--expat-accent);
     margin-top: auto;
-    font-size: 0.8rem;
-    font-weight: 600;
-    color: var(--expat-primary);
   }
-  .tool-card:hover .tool-cta {
-    color: var(--expat-primary-light);
-  }
+  .recommended-card:hover .recommended-cta { color: var(--accent-hover); }
 
   /* ── How it works ───────────────────────────────── */
   .how-it-works {
-    background: #f0fdf4;
-    padding: 4rem 0;
-    border-top: 1px solid #bbf7d0;
-    border-bottom: 1px solid #bbf7d0;
+    background: #f0fdf4; padding: 4rem 0;
+    border-top: 1px solid #bbf7d0; border-bottom: 1px solid #bbf7d0;
   }
-  .steps {
-    display: flex;
-    align-items: flex-start;
-    gap: 1rem;
-  }
+  .steps { display: flex; align-items: flex-start; gap: 1rem; }
   .step-card {
-    flex: 1;
-    background: #ffffff;
-    border: 1px solid #bbf7d0;
-    border-radius: 12px;
-    padding: 1.75rem 1.5rem;
-    text-align: center;
+    flex: 1; background: #ffffff; border: 1px solid #bbf7d0;
+    border-radius: 12px; padding: 1.75rem 1.5rem; text-align: center;
   }
   .step-number {
-    width: 44px;
-    height: 44px;
-    border-radius: 50%;
-    background: var(--expat-primary);
-    color: #ffffff;
-    font-size: 1.2rem;
-    font-weight: 700;
-    display: flex;
-    align-items: center;
-    justify-content: center;
+    width: 44px; height: 44px; border-radius: 50%;
+    background: var(--expat-primary); color: #ffffff;
+    font-size: 1.2rem; font-weight: 700;
+    display: flex; align-items: center; justify-content: center;
     margin: 0 auto 1rem;
   }
-  .step-card h3 {
-    font-size: 1rem;
-    font-weight: 700;
-    color: var(--expat-text);
-    margin: 0 0 0.5rem;
-  }
-  .step-card p {
-    font-size: 0.9rem;
-    color: var(--expat-muted);
-    margin: 0;
-    line-height: 1.6;
-  }
-  .step-divider {
-    font-size: 1.5rem;
-    color: var(--expat-primary-light);
-    padding-top: 3.25rem;
-    flex-shrink: 0;
-  }
+  .step-card h3 { font-size: 1rem; font-weight: 700; color: var(--expat-text); margin: 0 0 0.5rem; }
+  .step-card p { font-size: 0.9rem; color: var(--expat-muted); margin: 0; line-height: 1.6; }
+  .step-divider { font-size: 1.5rem; color: var(--expat-primary-light); padding-top: 3.25rem; flex-shrink: 0; }
 
   /* ── Guide grid ─────────────────────────────────── */
-  .section-guides {
-    padding: 4rem 0;
-    background: var(--expat-bg);
-  }
-  .guide-grid {
-    display: grid;
-    grid-template-columns: repeat(3, 1fr);
-    gap: 1.5rem;
-  }
+  .section-guides { padding: 4rem 0; background: var(--expat-bg); }
+  .guide-grid { display: grid; grid-template-columns: repeat(3, 1fr); gap: 1.5rem; }
   .guide-card {
-    display: flex;
-    flex-direction: column;
-    background: var(--expat-card);
-    border: 1px solid var(--expat-border);
-    border-radius: 12px;
-    overflow: hidden;
-    padding: 0;
-    margin: 0;
-    text-decoration: none;
-    color: var(--expat-text);
+    display: flex; flex-direction: column; background: var(--expat-card);
+    border: 1px solid var(--expat-border); border-radius: 12px;
+    overflow: hidden; padding: 0; margin: 0;
+    text-decoration: none; color: var(--expat-text);
     transition: box-shadow 0.2s, transform 0.2s;
   }
-  .guide-card:hover {
-    box-shadow: 0 6px 20px rgba(27,107,74,0.12);
-    transform: translateY(-3px);
-    text-decoration: none;
-    color: var(--expat-text);
-  }
-  .guide-card .card-thumb {
-    width: 100%;
-    height: 180px;
-    object-fit: cover;
-    border-radius: 0;
-    margin: 0;
-    display: block;
-  }
-  .card-thumb-placeholder {
-    width: 100%;
-    height: 180px;
-    background: linear-gradient(135deg, var(--expat-primary-dark) 0%, var(--expat-primary) 100%);
-    display: block;
-  }
-  .guide-card .card-body {
-    padding: 1.25rem 1.25rem 1.5rem;
-    flex: 1;
-    display: flex;
-    flex-direction: column;
-  }
-  .guide-card .meta {
-    font-size: 0.78rem;
-    color: var(--expat-muted);
-    margin-bottom: 0.5rem;
-  }
-  .guide-card h3 {
-    font-size: 1rem;
-    font-weight: 700;
-    color: var(--expat-text);
-    margin: 0 0 0.5rem;
-    line-height: 1.4;
-  }
-  .guide-card p {
-    font-size: 0.85rem;
-    color: var(--expat-muted);
-    margin: 0;
-    line-height: 1.6;
-    flex: 1;
-  }
+  .guide-card:hover { box-shadow: 0 6px 20px rgba(27,107,74,0.12); transform: translateY(-3px); text-decoration: none; color: var(--expat-text); }
+  .guide-card .card-thumb { width: 100%; height: 180px; object-fit: cover; border-radius: 0; margin: 0; display: block; }
+  .card-thumb-placeholder { width: 100%; height: 180px; background: linear-gradient(135deg, var(--expat-primary-dark) 0%, var(--expat-primary) 100%); display: block; }
+  .guide-card .card-body { padding: 1.25rem 1.25rem 1.5rem; flex: 1; display: flex; flex-direction: column; }
+  .guide-card .meta { font-size: 0.78rem; color: var(--expat-muted); margin-bottom: 0.5rem; }
+  .guide-card h3 { font-size: 1rem; font-weight: 700; color: var(--expat-text); margin: 0 0 0.5rem; line-height: 1.4; }
+  .guide-card p { font-size: 0.85rem; color: var(--expat-muted); margin: 0; line-height: 1.6; flex: 1; }
 
-  /* ── City pills ─────────────────────────────────── */
-  .section-cities {
-    padding: 3.5rem 0;
-    background: #ffffff;
-    border-top: 1px solid var(--expat-border);
-  }
-  .city-pills {
-    display: flex;
-    flex-wrap: wrap;
-    gap: 0.75rem;
-    justify-content: center;
-  }
+  /* ── City pills with SVG ─────────────────────────── */
+  .section-cities { padding: 3.5rem 0; background: #ffffff; border-top: 1px solid var(--expat-border); }
+  .city-pills { display: flex; flex-wrap: wrap; gap: 0.75rem; justify-content: center; }
   .city-pill {
-    display: inline-flex;
-    align-items: center;
-    gap: 0.4rem;
-    background: var(--expat-bg);
-    border: 1.5px solid var(--expat-border);
-    border-radius: 50px;
-    padding: 0.55rem 1.1rem;
-    font-size: 0.9rem;
-    font-weight: 600;
-    color: var(--expat-text);
+    display: inline-flex; align-items: center; gap: 0.4rem;
+    background: var(--expat-bg); border: 1.5px solid var(--expat-border);
+    border-radius: 50px; padding: 0.55rem 1.1rem;
+    font-size: 0.9rem; font-weight: 600; color: var(--expat-text);
     text-decoration: none;
     transition: background 0.18s, border-color 0.18s, color 0.18s;
   }
-  .city-pill:hover {
-    background: var(--expat-primary);
-    border-color: var(--expat-primary);
-    color: #ffffff;
-    text-decoration: none;
+  .city-pill:hover { background: var(--expat-primary); border-color: var(--expat-primary); color: #ffffff; text-decoration: none; }
+  .city-pill:hover svg { color: #fff; }
+  .city-svg { width: 16px; height: 16px; color: var(--expat-primary); flex-shrink: 0; transition: color 0.18s; }
+
+  /* ── About Sarah ──────────────────────────────── */
+  .section-about { padding: 4rem 0; background: var(--expat-bg); }
+  .about-card {
+    display: flex; align-items: center; gap: 2.5rem;
+    background: #fff; border: 1px solid var(--expat-border);
+    border-radius: 16px; padding: 2.5rem;
+    box-shadow: 0 4px 16px rgba(0,0,0,0.04);
   }
-  .city-icon {
-    font-size: 1rem;
-    line-height: 1;
+  .about-avatar {
+    width: 90px; height: 90px; border-radius: 50%;
+    background: linear-gradient(135deg, var(--expat-primary-dark), var(--expat-primary-light));
+    color: #fff; font-weight: 800; font-size: 1.5rem;
+    display: flex; align-items: center; justify-content: center;
+    flex-shrink: 0; font-family: 'Outfit', sans-serif;
+    box-shadow: 0 4px 12px rgba(27,107,74,0.2);
   }
+  .about-content { flex: 1; }
+  .about-content h2 { font-size: 1.4rem; margin-bottom: 0.5rem; color: var(--expat-primary-dark); }
+  .about-content p { color: var(--expat-muted); line-height: 1.7; margin-bottom: 1rem; }
+  .about-stats { display: flex; gap: 2rem; flex-wrap: wrap; }
+  .about-stat { font-size: 0.88rem; color: var(--expat-text); }
+  .about-stat strong { color: var(--expat-primary-dark); font-weight: 800; }
 
   /* ── Trust section ──────────────────────────────── */
   .trust-section {
-    background: var(--expat-bg);
-    border-top: 1px solid var(--expat-border);
-    border-bottom: 1px solid var(--expat-border);
-    padding: 2.5rem 0;
-    text-align: center;
+    background: var(--expat-bg); border-top: 1px solid var(--expat-border);
+    border-bottom: 1px solid var(--expat-border); padding: 2.5rem 0; text-align: center;
   }
-  .trust-heading {
-    font-size: 1rem;
-    font-weight: 700;
-    color: var(--expat-muted);
-    text-transform: uppercase;
-    letter-spacing: 0.08em;
-    margin-bottom: 1.25rem;
-  }
-  .trust-items {
-    display: flex;
-    justify-content: center;
-    gap: 2.5rem;
-    flex-wrap: wrap;
-  }
-  .trust-item {
-    display: flex;
-    align-items: center;
-    gap: 0.5rem;
-    font-size: 0.95rem;
-    color: var(--expat-text);
-    font-weight: 500;
-  }
-  .trust-check {
-    display: inline-flex;
-    align-items: center;
-    justify-content: center;
-    width: 22px;
-    height: 22px;
-    border-radius: 50%;
-    background: var(--expat-primary);
-    color: #ffffff;
-    font-size: 0.75rem;
-    font-weight: 700;
-    flex-shrink: 0;
-  }
+  .trust-heading { font-size: 1rem; font-weight: 700; color: var(--expat-muted); text-transform: uppercase; letter-spacing: 0.08em; margin-bottom: 1.25rem; }
+  .trust-items { display: flex; justify-content: center; gap: 2.5rem; flex-wrap: wrap; }
+  .trust-item { display: flex; align-items: center; gap: 0.5rem; font-size: 0.95rem; color: var(--expat-text); font-weight: 500; }
+  .trust-badge-icon { display: inline-flex; color: var(--expat-primary); }
 
   /* ── Email capture ──────────────────────────────── */
-  .email-capture {
-    background: var(--expat-primary-dark);
-    padding: 4rem 0;
-    text-align: center;
-  }
-  .email-capture h2 {
-    color: #ffffff;
-    font-size: 1.9rem;
-    margin-bottom: 0.75rem;
-  }
-  .email-capture > .container > p {
-    color: rgba(255,255,255,0.8);
-    font-size: 1rem;
-    margin-bottom: 1.75rem;
-  }
-  .email-form {
-    display: flex;
-    justify-content: center;
-    gap: 0.5rem;
-    flex-wrap: wrap;
-    max-width: 480px;
-    margin: 0 auto 0.75rem;
-  }
-  .email-input {
-    flex: 1;
-    min-width: 220px;
-    padding: 0.75rem 1rem;
-    border-radius: 8px;
-    border: none;
-    font-size: 0.95rem;
-    color: var(--expat-text);
-    outline: none;
-  }
-  .email-input:focus {
-    box-shadow: 0 0 0 3px rgba(232,131,42,0.4);
-  }
-  .email-submit {
-    background: var(--expat-accent);
-    white-space: nowrap;
-    flex-shrink: 0;
-  }
-  .email-submit:hover {
-    background: var(--expat-accent-light);
-  }
-  .email-disclaimer {
-    color: rgba(255,255,255,0.75);
-    font-size: 0.8rem;
-    margin: 0;
-  }
+  .email-capture { background: var(--expat-primary-dark); padding: 4rem 0; text-align: center; }
+  .email-capture h2 { color: #ffffff; font-size: 1.9rem; margin-bottom: 0.75rem; }
+  .email-capture > .container > p { color: rgba(255,255,255,0.8); font-size: 1rem; margin-bottom: 1.75rem; }
+  .email-form { display: flex; justify-content: center; gap: 0.5rem; flex-wrap: wrap; max-width: 480px; margin: 0 auto 0.75rem; }
+  .email-input { flex: 1; min-width: 220px; padding: 0.75rem 1rem; border-radius: 8px; border: none; font-size: 0.95rem; color: var(--expat-text); outline: none; }
+  .email-input:focus { box-shadow: 0 0 0 3px rgba(232,131,42,0.4); }
+  .email-submit { background: var(--expat-accent); white-space: nowrap; flex-shrink: 0; }
+  .email-submit:hover { background: var(--expat-accent-light); }
+  .email-disclaimer { color: rgba(255,255,255,0.75); font-size: 0.8rem; margin: 0; }
 
   /* ── Responsive ─────────────────────────────────── */
   @media (max-width: 1024px) {
     .tool-grid { grid-template-columns: repeat(3, 1fr); }
     .guide-grid { grid-template-columns: repeat(2, 1fr); }
+    .recommended-grid { grid-template-columns: repeat(2, 1fr); }
   }
   @media (max-width: 768px) {
     .hero h1 { font-size: 2.2rem; }
     .hero { padding: 3.5rem 0 3rem; }
+    .hero-split { flex-direction: column; text-align: center; }
+    .hero-text > p { margin-left: auto; margin-right: auto; }
+    .hero-actions { justify-content: center; }
+    .hero-visual { width: 260px; }
     .tool-grid { grid-template-columns: repeat(2, 1fr); }
     .steps { flex-direction: column; align-items: stretch; }
     .step-divider { display: none; }
     .guide-grid { grid-template-columns: 1fr; }
+    .recommended-grid { grid-template-columns: 1fr; }
     .trust-items { gap: 1.25rem; }
     .section-header h2 { font-size: 1.6rem; }
+    .about-card { flex-direction: column; text-align: center; padding: 2rem 1.5rem; }
+    .about-stats { justify-content: center; }
+    .stats-grid { gap: 1.5rem; }
   }
   @media (max-width: 480px) {
     .hero h1 { font-size: 1.8rem; }
     .hero-actions { flex-direction: column; align-items: center; }
+    .hero-visual { display: none; }
     .tool-grid { grid-template-columns: repeat(2, 1fr); }
     .email-form { flex-direction: column; align-items: stretch; }
     .email-input, .email-submit { width: 100%; }

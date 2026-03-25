@@ -7,6 +7,16 @@ categories: ["daily-life"]
 tags: ["internet netherlands", "dutch internet provider", "fiber netherlands", "ziggo", "kpn internet", "wifi netherlands expat"]
 keywords: ["best internet provider netherlands", "internet netherlands expat", "cheapest internet netherlands", "fiber optic netherlands", "best wifi netherlands 2026"]
 affiliate: true
+products:
+  - name: "KPN"
+    url: "https://www.kpn.com/"
+    price: "0.00"
+  - name: "T-Mobile"
+    url: "https://www.t-mobile.nl/"
+    price: "0.00"
+  - name: "Ziggo"
+    url: "https://www.ziggo.nl/"
+    price: "0.00"
 author: "Sarah van den Berg"
 author_bio: "Expat coach and relocation specialist. Half Dutch, half British, living in the Netherlands for over 10 years."
 featured_image: "/images/featured/best-internet-providers-netherlands-2026.webp"

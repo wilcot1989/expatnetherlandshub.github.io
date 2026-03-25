@@ -10,6 +10,16 @@ affiliate: true
 author: "Sarah van den Berg"
 author_bio: "Expat coach and relocation specialist. Half Dutch, half British, living in the Netherlands for over 10 years."
 featured_image: "/images/categories/finance.svg"
+products:
+  - name: "Wise"
+    url: "https://wise.com/invite/ihpc/willemt52"
+    price: "0.00"
+  - name: "bunq"
+    url: "https://www.bunq.com/"
+    price: "2.99"
+  - name: "ING"
+    url: "https://www.ing.nl/particulier"
+    price: "0.00"
 faq:
   - q: "Can I get a credit card in the Netherlands as a new expat?"
     a: "It is genuinely difficult. Dutch credit card issuers use the BKR (Bureau Krediet Registratie) to assess creditworthiness, and if you have no Dutch credit history, most applications will be rejected. Your best options as a new arrival are an Amex Gold or Green card (which uses income rather than Dutch BKR history), a bunq Metal or Revolut Metal card with virtual credit features, or a prepaid card to cover your immediate needs while you build Dutch credit history over 6-12 months."

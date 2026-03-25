@@ -11,6 +11,16 @@ affiliate: true
 author: "Sarah van den Berg"
 author_bio: "Expat coach and relocation specialist. Half Dutch, half British, living in the Netherlands for over 10 years."
 featured_image: "/images/categories/finance.svg"
+products:
+  - name: "Wise"
+    url: "https://wise.com/invite/ihpc/willemt52"
+    price: "0.00"
+  - name: "bunq"
+    url: "https://www.bunq.com/"
+    price: "2.99"
+  - name: "ING"
+    url: "https://www.ing.nl/particulier"
+    price: "0.00"
 faq:
   - q: "Can EU students get DUO student finance in the Netherlands?"
     a: "Yes, if you are an EU/EEA citizen and work at least 56 hours per month alongside your studies, you qualify for studiefinanciering from DUO. This includes the basisbeurs (basic grant), supplementary grant, OV-studentenkaart, and student loan. The work requirement is assessed across the academic year, not month by month — you need to average 56 hours per month."

@@ -9,6 +9,16 @@ categories: ["daily-life"]
 description: "The best Dutch phone plans for expats in 2026 — from budget SIM cards to unlimited data. Real advice from someone who's lived here 10 years."
 featured_image: "/images/featured/best-dutch-phone-plans-expats-2026.webp"
 affiliate: false
+products:
+  - name: "KPN"
+    url: "https://www.kpn.com/"
+    price: "0.00"
+  - name: "T-Mobile"
+    url: "https://www.t-mobile.nl/"
+    price: "0.00"
+  - name: "Ziggo"
+    url: "https://www.ziggo.nl/"
+    price: "0.00"
 author: "Sarah van den Berg"
 author_bio: "Expat coach and relocation specialist. Half Dutch, half British, living in the Netherlands for over 10 years."
 tags: ["phone plans", "SIM card", "mobile", "expat Netherlands", "telecom"]

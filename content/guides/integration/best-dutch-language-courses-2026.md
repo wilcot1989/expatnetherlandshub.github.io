@@ -25,6 +25,16 @@ faq:
     a: "You can reach a solid foundation (A2-B1 level) entirely online using a combination of apps, online courses, and video tutoring. However, reaching true fluency typically requires real-world practice with native speakers. Online tutoring platforms like italki and Preply bridge this gap effectively by providing live conversation practice. For NT2 exam preparation specifically, many accredited courses now offer fully online options."
   - q: "How long does it take to learn Dutch to a conversational level?"
     a: "For English speakers, Dutch is one of the easiest languages to learn. With consistent daily study (30-60 minutes), most learners reach basic conversational level (A2) within 3-6 months and comfortable conversational level (B1) within 6-12 months. The Foreign Service Institute classifies Dutch as a Category I language, estimating approximately 600-750 hours of study to reach proficiency. Your speed depends on study intensity, exposure to Dutch in daily life, and whether you practice speaking regularly."
+products:
+  - name: "Babbel"
+    url: "https://www.babbel.com/"
+    price: "6.99"
+  - name: "DutchPod101"
+    url: "https://www.dutchpod101.com/"
+    price: "0.00"
+  - name: "italki"
+    url: "https://www.italki.com/"
+    price: "0.00"
 ---
 
 I have tried almost every method of learning Dutch: apps on the train, evening classes after work, a private tutor who patiently corrected my "g" sound for months, and even watching Dutch reality TV with subtitles. Some worked brilliantly. Others were a waste of time and money. After more than a decade of trial, error, and coaching other expats through the same process, I have put together this comparison of the best Dutch language courses available in 2026 so you can skip the mistakes I made.

@@ -7,6 +7,16 @@ categories: ["finance"]
 tags: ["dutch health insurance", "basisverzekering", "zorgtoeslag", "expat insurance", "eigen risico", "health insurance netherlands"]
 keywords: ["dutch health insurance expats", "health insurance netherlands", "basisverzekering expats", "dutch health insurance 2026", "mandatory health insurance netherlands"]
 affiliate: true
+products:
+  - name: "SafetyWing"
+    url: "https://safetywing.com/nomad-insurance/?referenceID=26482728"
+    price: "45.08"
+  - name: "CZ"
+    url: "https://www.cz.nl/"
+    price: "0.00"
+  - name: "Zilveren Kruis"
+    url: "https://www.zilverenkruis.nl/"
+    price: "0.00"
 author: "Sarah van den Berg"
 author_bio: "Expat coach and relocation specialist. Half Dutch, half British, living in the Netherlands for over 10 years."
 featured_image: "/images/featured/dutch-health-insurance-guide-expats-2026.webp"

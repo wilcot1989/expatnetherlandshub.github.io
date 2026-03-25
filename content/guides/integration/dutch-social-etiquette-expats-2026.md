@@ -21,6 +21,16 @@ faq:
     a: "In social settings, three kisses on alternating cheeks (starting with the right cheek) is the norm among people who know each other. In professional settings, a firm handshake is standard. Since COVID, some Dutch people have moved to a simple nod or wave — check what the other person initiates."
   - q: "How important is punctuality in the Netherlands?"
     a: "Very. Arriving on time — or even a minute or two early — is expected for both professional and social appointments. Showing up 20 minutes late to a dinner invitation without warning is genuinely considered disrespectful. If you are running late, a quick message is the bare minimum."
+products:
+  - name: "Babbel"
+    url: "https://www.babbel.com/"
+    price: "6.99"
+  - name: "Meetup"
+    url: "https://www.meetup.com/"
+    price: "0.00"
+  - name: "DutchPod101"
+    url: "https://www.dutchpod101.com/"
+    price: "0.00"
 ---
 
 I have lived in the Netherlands for over ten years. I have also committed virtually every social faux pas on this list, some of them spectacularly. The one I am most willing to admit in print happened within my first month in Amsterdam, at a colleague's birthday drinks. I arrived, found the birthday person in the crowd, gave him a quick hug, grabbed a glass of wine, and started chatting happily in the corner.

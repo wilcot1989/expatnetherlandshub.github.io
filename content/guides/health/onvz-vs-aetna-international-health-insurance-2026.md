@@ -6,7 +6,17 @@ description: "ONVZ vs Aetna International health insurance compared for expats i
 categories: ["health"]
 tags: ["ONVZ", "Aetna", "health insurance", "international insurance", "expat insurance"]
 keywords: ["ONVZ vs Aetna expats Netherlands", "international health insurance Netherlands 2026", "ONVZ expat plan review", "Aetna International Netherlands", "best international health insurance expats Netherlands", "who needs Dutch health insurance expat", "ONVZ Vrij plan", "Aetna International expat coverage"]
-affiliate: false
+affiliate: true
+products:
+  - name: "SafetyWing"
+    url: "https://safetywing.com/nomad-insurance/?referenceID=26482728"
+    price: "45.08"
+  - name: "CZ"
+    url: "https://www.cz.nl/"
+    price: "0.00"
+  - name: "Zilveren Kruis"
+    url: "https://www.zilverenkruis.nl/"
+    price: "0.00"
 author: "Sarah van den Berg"
 author_bio: "Expat coach and relocation specialist. Half Dutch, half British, living in the Netherlands for over 10 years."
 featured_image: "/images/featured/onvz-vs-aetna-international-health-insurance-2026.webp"

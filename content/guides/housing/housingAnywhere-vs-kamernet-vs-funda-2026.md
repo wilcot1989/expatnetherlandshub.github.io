@@ -33,6 +33,16 @@ faq:
     a: "You can use Funda's basic search functions in English, and there is a partial English translation of the interface. However, many listing descriptions are in Dutch, most landlords and agents communicate in Dutch, and any rental contract you sign will likely be in Dutch. If your Dutch is limited, having a bilingual friend or a relocation agent help you review correspondence and contracts is genuinely useful. Pararius is a better starting point if you want a fully English-language experience."
   - q: "What is the biggest mistake expats make when searching for rental housing in the Netherlands?"
     a: "Using only one platform. I see this constantly. Someone spends three weeks exclusively on Funda and misses every listing aimed at internationals. Or someone signs up only to HousingAnywhere and never sees the large volume of local listings on Funda or Pararius. The Dutch rental market is fragmented — no single platform has everything. The most effective strategy is to run searches on all major platforms simultaneously and act quickly the moment something good appears."
+products:
+  - name: "HousingAnywhere"
+    url: "https://housinganywhere.com/"
+    price: "0.00"
+  - name: "Kamernet"
+    url: "https://kamernet.nl/"
+    price: "0.00"
+  - name: "Pararius"
+    url: "https://www.pararius.com/"
+    price: "0.00"
 ---
 
 Last year I had a client — I will call her Priya — who moved from Bangalore to Amsterdam for a tech role. Before she arrived, she had spent €200 on Kamernet credits over two months, sent messages to 60 listings, and secured precisely zero viewings. By the time she landed, she was staying in a serviced apartment at €120 a night with no idea where to turn next.

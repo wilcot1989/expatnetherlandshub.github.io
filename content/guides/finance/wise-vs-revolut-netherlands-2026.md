@@ -10,6 +10,16 @@ affiliate: true
 author: "Sarah van den Berg"
 author_bio: "Expat coach and relocation specialist. Half Dutch, half British, living in the Netherlands for over 10 years."
 featured_image: "/images/featured/wise-vs-revolut-netherlands-2026.webp"
+products:
+  - name: "Wise"
+    url: "https://wise.com/invite/ihpc/willemt52"
+    price: "0.00"
+  - name: "bunq"
+    url: "https://www.bunq.com/"
+    price: "2.99"
+  - name: "ING"
+    url: "https://www.ing.nl/particulier"
+    price: "0.00"
 faq:
   - q: "Does Wise or Revolut offer a European IBAN accepted in the Netherlands?"
     a: "Wise provides a European IBAN that is accepted by most Dutch employers for salary payments and supports direct debits. Revolut provides a Lithuanian IBAN (starting with LT), which can cause issues with some Dutch employers and services due to IBAN discrimination."

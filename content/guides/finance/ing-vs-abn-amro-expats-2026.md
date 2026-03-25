@@ -10,6 +10,16 @@ affiliate: true
 author: "Sarah van den Berg"
 author_bio: "Expat coach and relocation specialist. Half Dutch, half British, living in the Netherlands for over 10 years."
 featured_image: "/images/featured/ing-vs-abn-amro-expats-2026.webp"
+products:
+  - name: "Wise"
+    url: "https://wise.com/invite/ihpc/willemt52"
+    price: "0.00"
+  - name: "bunq"
+    url: "https://www.bunq.com/"
+    price: "2.99"
+  - name: "ING"
+    url: "https://www.ing.nl/particulier"
+    price: "0.00"
 faq:
   - q: "Is ING or ABN AMRO better for expats?"
     a: "ING generally offers a better experience for expats due to its fully English app and website, larger ATM network, and slightly more intuitive digital banking. However, ABN AMRO has a dedicated international desk that can be very helpful for complex questions about mortgages or investments as an expat."

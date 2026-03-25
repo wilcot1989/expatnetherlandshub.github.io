@@ -24,6 +24,16 @@ faq:
     a: "Anti-kraak (anti-squatting) is not subletting in the conventional sense. It is a temporary occupancy arrangement where a company (like Camelot or Ad Hoc) places residents in otherwise-empty properties (vacant offices, institutional buildings, homes awaiting demolition or sale) to deter squatting. Anti-kraak residents pay a low licence fee rather than rent, have very limited security, and can be asked to leave with as little as 28 days' notice. It is a legally distinct arrangement and the property owner (not the anti-kraak company) retains control. It is a separate path, not a subletting mechanism."
   - q: "Can I rent out a room in my apartment while I am still living there?"
     a: "Room rental within your own home (where you remain the primary resident) is treated differently from subletting the whole property. In the private sector, you still need your landlord's written permission to bring in a room-mate. In social housing, there are specific income and relationship rules, and many housing associations prohibit it entirely. Even if your contract is silent on the matter, common law requires consent. Ask your landlord explicitly before placing any room-mate advertisement."
+products:
+  - name: "HousingAnywhere"
+    url: "https://housinganywhere.com/"
+    price: "0.00"
+  - name: "Pararius"
+    url: "https://www.pararius.com/"
+    price: "0.00"
+  - name: "Funda"
+    url: "https://www.funda.nl/"
+    price: "0.00"
 ---
 
 A client called me from Schiphol airport last spring. She had a three-month assignment in Singapore starting the following week, had listed her Eindhoven flat on Airbnb to cover the rent, and had just received a registered letter from her landlord threatening immediate eviction. She had assumed that because she owned all her furniture and the rent was paid, subletting was her right. It is not. Not in the Netherlands.

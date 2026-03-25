@@ -25,6 +25,16 @@ faq:
     a: "InterNations is a global expat networking platform with active chapters in Amsterdam, Rotterdam, Den Haag, and Eindhoven. Free membership gives limited access; the paid Albatross membership (around €8-10 per month) unlocks events and full networking features. Worth trying for the first month or two after arrival, especially for professional networking."
   - q: "How do I avoid getting scammed in expat Facebook groups?"
     a: "Stick to groups with active admins and clear rules. Never pay deposits without meeting in person. Be suspicious of deals that seem unusually cheap. Do not click links sent by private message from people you just met in a group. If someone asks you to use Tikkie, iDEAL, or bank transfer for a large sum before any formal agreement, that is a red flag."
+products:
+  - name: "Babbel"
+    url: "https://www.babbel.com/"
+    price: "6.99"
+  - name: "Meetup"
+    url: "https://www.meetup.com/"
+    price: "0.00"
+  - name: "DutchPod101"
+    url: "https://www.dutchpod101.com/"
+    price: "0.00"
 ---
 
 When I arrived in the Netherlands from London, the first practical advice a colleague gave me was: "Join every Facebook group you can find." I thought this sounded desperate. A decade later, I give the same advice to every expat I coach. Online communities are not a replacement for real-world connection, but they are often the fastest way to find it.

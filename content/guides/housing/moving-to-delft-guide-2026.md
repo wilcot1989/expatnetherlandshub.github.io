@@ -19,6 +19,16 @@ faq:
     a: "Delft has excellent train connections. Rotterdam Centraal is 12 minutes away, The Hague Centraal is 15 minutes, and Amsterdam Centraal takes about 55 minutes. The city is also well-connected by bus and has extensive cycling infrastructure."
   - q: "Do I need to register at the gemeente in Delft?"
     a: "Yes, if Delft is your primary residence, you must register at Gemeente Delft within 5 days of moving in. You can book an appointment online at gemeente.delft.nl. Registration gives you your BSN number, which you need for a bank account, health insurance, and tax purposes."
+products:
+  - name: "HousingAnywhere"
+    url: "https://housinganywhere.com/"
+    price: "0.00"
+  - name: "Kamernet"
+    url: "https://kamernet.nl/"
+    price: "0.00"
+  - name: "Pararius"
+    url: "https://www.pararius.com/"
+    price: "0.00"
 ---
 
 I first visited Delft on a grey Tuesday in November, seven years before I eventually helped a client move there — and the city still surprised me. I had grown up hearing my Dutch mother talk about the blue-and-white pottery and Vermeer's paintings, which honestly made me expect a glorified tourist trap. What I found instead was a city that gets on with itself quietly and confidently. The canals are genuinely beautiful, the old church tower leans at a worrying angle (this is normal, nobody panics), and within about twenty minutes of walking I counted six different nationalities having coffee at the same café terrace.

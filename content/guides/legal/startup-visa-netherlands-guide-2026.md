@@ -10,6 +10,16 @@ author: "Sarah van den Berg"
 author_bio: "Expat coach and relocation specialist. Half Dutch, half British, living in the Netherlands for over 10 years."
 featured_image: "/images/categories/legal.svg"
 affiliate: true
+products:
+  - name: "Expatax"
+    url: "https://www.expatax.nl/"
+    price: "0.00"
+  - name: "Blue Umbrella"
+    url: "https://www.blueumbrella.nl/"
+    price: "0.00"
+  - name: "IND"
+    url: "https://ind.nl/en"
+    price: "0.00"
 faq:
   - q: "Who can apply for the Dutch startup visa?"
     a: "The startup visa is open to non-EU/EEA entrepreneurs of any nationality who want to build an innovative business in the Netherlands. Unlike the DAFT visa, which is limited to US citizens, the startup visa is available to anyone from outside the EU — including Americans, Canadians, Australians, Indians, Brazilians, and others. You do not need to be a tech founder; the key requirement is that your product or service is innovative and scalable."

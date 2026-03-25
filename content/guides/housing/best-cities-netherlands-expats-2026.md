@@ -21,6 +21,16 @@ faq:
     a: "Absolutely. Dutch cities are well-connected by train — Rotterdam to Amsterdam takes 40 minutes, Utrecht to Amsterdam 25 minutes. Living outside Amsterdam typically saves you EUR 300-600 per month in rent while offering a better quality of life. Many expats who initially move to Amsterdam relocate to smaller cities within their first two years."
   - q: "Which Dutch city is best for families with children?"
     a: "Utrecht and The Hague are popular with expat families. Utrecht has excellent international schools, a family-friendly city centre, and good cycling infrastructure. The Hague has the European School, many international organisations, and a beach nearby. Leiden is another strong option — smaller, safer, and only 15 minutes from The Hague by train."
+products:
+  - name: "HousingAnywhere"
+    url: "https://housinganywhere.com/"
+    price: "0.00"
+  - name: "Pararius"
+    url: "https://www.pararius.com/"
+    price: "0.00"
+  - name: "Funda"
+    url: "https://www.funda.nl/"
+    price: "0.00"
 ---
 
 I have lived in three Dutch cities — Amsterdam, Utrecht, and now Leiden — and I have helped hundreds of expats choose where to settle in the Netherlands. My honest view: most people who ask "which city should I move to?" are asking the wrong question. The right question is "which city fits my situation?"

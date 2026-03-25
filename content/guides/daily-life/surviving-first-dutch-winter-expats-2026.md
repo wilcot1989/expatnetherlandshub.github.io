@@ -7,6 +7,16 @@ categories: ["daily-life"]
 tags: ["winter", "weather", "SAD", "cycling", "practical tips"]
 keywords: ["dutch winter expats", "netherlands winter tips", "surviving winter netherlands", "SAD netherlands expats", "cycling netherlands winter"]
 affiliate: true
+products:
+  - name: "Vattenfall"
+    url: "https://www.vattenfall.nl/"
+    price: "0.00"
+  - name: "Eneco"
+    url: "https://www.eneco.nl/"
+    price: "0.00"
+  - name: "KPN"
+    url: "https://www.kpn.com/"
+    price: "0.00"
 author: "Sarah van den Berg"
 author_bio: "Expat coach and relocation specialist. Half Dutch, half British, living in the Netherlands for over 10 years."
 featured_image: "/images/categories/daily-life.svg"

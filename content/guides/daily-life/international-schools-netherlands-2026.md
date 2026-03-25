@@ -7,6 +7,16 @@ categories: ["daily-life"]
 tags: ["international schools", "education", "expat children", "Netherlands", "IB curriculum"]
 keywords: ["international schools Netherlands", "expat schools Holland", "IB schools Netherlands", "British school Netherlands"]
 affiliate: true
+products:
+  - name: "Wise"
+    url: "https://wise.com/invite/ihpc/willemt52"
+    price: "0.00"
+  - name: "NordVPN"
+    url: "https://go.nordvpn.net/aff_c?offer_id=612&aff_id=141337"
+    price: "3.49"
+  - name: "KPN"
+    url: "https://www.kpn.com/"
+    price: "0.00"
 author: "Sarah van den Berg"
 author_bio: "Expat coach and relocation specialist. Half Dutch, half British, living in the Netherlands for over 10 years."
 featured_image: "/images/featured/international-schools-netherlands-2026.webp"

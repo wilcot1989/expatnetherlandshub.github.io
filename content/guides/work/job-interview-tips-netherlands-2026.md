@@ -7,6 +7,16 @@ categories: ["work"]
 tags: ["job interview", "Dutch interview", "expat jobs", "work culture", "career Netherlands"]
 keywords: ["job interview tips Netherlands", "Dutch job interview expat", "interview culture Netherlands", "salary negotiation Netherlands expat", "Dutch workplace culture interview", "what to wear job interview Netherlands", "expat job search Netherlands 2026", "30 percent ruling salary negotiation"]
 affiliate: false
+products:
+  - name: "LinkedIn Premium"
+    url: "https://www.linkedin.com/premium/"
+    price: "29.99"
+  - name: "Undutchables"
+    url: "https://undutchables.nl/"
+    price: "0.00"
+  - name: "Together Abroad"
+    url: "https://www.togetherabroad.nl/"
+    price: "0.00"
 author: "Sarah van den Berg"
 author_bio: "Expat coach and relocation specialist. Half Dutch, half British, living in the Netherlands for over 10 years."
 featured_image: "/images/featured/job-interview-tips-netherlands-2026.webp"

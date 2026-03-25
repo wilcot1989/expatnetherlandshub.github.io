@@ -10,6 +10,16 @@ affiliate: true
 author: "Sarah van den Berg"
 author_bio: "Expat coach and relocation specialist. Half Dutch, half British, living in the Netherlands for over 10 years."
 featured_image: "/images/categories/finance.svg"
+products:
+  - name: "Wise"
+    url: "https://wise.com/invite/ihpc/willemt52"
+    price: "0.00"
+  - name: "bunq"
+    url: "https://www.bunq.com/"
+    price: "2.99"
+  - name: "ING"
+    url: "https://www.ing.nl/particulier"
+    price: "0.00"
 faq:
   - q: "Can expats buy property in the Netherlands?"
     a: "Yes, absolutely. The Netherlands places no restrictions on foreign nationals buying property. Whether you are an EU citizen or hold a non-EU residence permit, you have the same right to purchase as a Dutch citizen. The only practical requirements are the financial ones: sufficient income and savings to qualify for a mortgage and cover the purchase costs. You do not need a permanent residence permit or Dutch nationality."

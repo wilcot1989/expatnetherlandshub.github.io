@@ -10,6 +10,16 @@ affiliate: true
 author: "Sarah van den Berg"
 author_bio: "Expat coach and relocation specialist. Half Dutch, half British, living in the Netherlands for over 10 years."
 featured_image: "/images/featured/how-to-open-bank-account-netherlands-2026.webp"
+products:
+  - name: "Wise"
+    url: "https://wise.com/invite/ihpc/willemt52"
+    price: "0.00"
+  - name: "bunq"
+    url: "https://www.bunq.com/"
+    price: "2.99"
+  - name: "ING"
+    url: "https://www.ing.nl/particulier"
+    price: "0.00"
 faq:
   - q: "Can I open a Dutch bank account before arriving in the Netherlands?"
     a: "Yes. Wise lets you create a multi-currency account with a European IBAN from anywhere in the world — no BSN or Dutch address required. Bunq also allows remote sign-up for EU citizens. Traditional banks like ING and ABN AMRO require you to be physically present in the Netherlands with a BSN."

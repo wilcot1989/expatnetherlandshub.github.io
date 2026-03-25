@@ -7,6 +7,16 @@ categories: ["legal"]
 tags: ["partner visa", "MVV", "family reunification", "spouse visa"]
 keywords: ["partner visa netherlands 2026", "mvv partner netherlands", "bring spouse to netherlands expat", "family reunification netherlands income requirement", "partner visa netherlands non-eu"]
 affiliate: true
+products:
+  - name: "Expatax"
+    url: "https://www.expatax.nl/"
+    price: "0.00"
+  - name: "Blue Umbrella"
+    url: "https://www.blueumbrella.nl/"
+    price: "0.00"
+  - name: "IND"
+    url: "https://ind.nl/en"
+    price: "0.00"
 author: "Sarah van den Berg"
 author_bio: "Expat coach and relocation specialist. Half Dutch, half British, living in the Netherlands for over 10 years."
 featured_image: "/images/categories/legal.svg"

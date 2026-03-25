@@ -23,6 +23,16 @@ faq:
     a: "Yes, The Hague has the highest concentration of international schools in the Netherlands, including the International School of The Hague (ISH), the British School in The Netherlands, the American School of The Hague, and the European School The Hague. Tuition ranges from €10,000-€25,000 per year."
   - q: "How do I get from The Hague to other Dutch cities?"
     a: "The Hague has excellent public transport. By train: Amsterdam (50 min), Rotterdam (25 min), Utrecht (40 min), Leiden (15 min). The Hague has two main stations (Centraal and HS) with frequent intercity connections. Schiphol Airport is 30 minutes by train."
+products:
+  - name: "HousingAnywhere"
+    url: "https://housinganywhere.com/"
+    price: "0.00"
+  - name: "Pararius"
+    url: "https://www.pararius.com/"
+    price: "0.00"
+  - name: "Funda"
+    url: "https://www.funda.nl/"
+    price: "0.00"
 ---
 
 If I had to recommend one Dutch city for expat families, it would be The Hague. I know that is a bold statement, but hear me out: the largest international community in the Netherlands, excellent international schools, a beach you can cycle to in fifteen minutes, and housing prices that will not make you cry (as much as Amsterdam). Many of my clients end up here, and almost none of them regret it. Here is why -- and how to make the move.

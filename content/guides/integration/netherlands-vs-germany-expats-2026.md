@@ -31,6 +31,16 @@ faq:
     a: "Both countries are popular with Indian students, but they suit different priorities. Germany is the top choice for budget: tuition is mostly free even for non-EU students, and there is a large, well-established Indian student community (over 42,000 Indian students in Germany). The Netherlands has a much larger share of English-taught programmes and a faster post-study work route. Indian students applying to the Netherlands receive a one-year orientation year visa (zoekjaar) after graduation; Germany offers an 18-month job-seeker visa. Language is the deciding factor: if you are comfortable learning German, Germany is a strong financial choice."
   - q: "Is it easier to find an English-speaking job in the Netherlands or Germany?"
     a: "The Netherlands is significantly easier. Around 95% of Dutch professionals speak fluent English, and in cities like Amsterdam, Rotterdam, and Eindhoven, a large share of job postings in tech, finance, and logistics list English as the primary working language. In Germany, even at international companies, German is often required internally; Berlin's tech scene is the main exception. Studies by EF English Proficiency Index consistently rank the Netherlands in the global top 2, while Germany ranks around 10th."
+products:
+  - name: "Babbel"
+    url: "https://www.babbel.com/"
+    price: "6.99"
+  - name: "Meetup"
+    url: "https://www.meetup.com/"
+    price: "0.00"
+  - name: "DutchPod101"
+    url: "https://www.dutchpod101.com/"
+    price: "0.00"
 ---
 
 I get this question constantly: "Should I move to the Netherlands or Germany?" As someone who has lived in the Netherlands for over a decade and has close friends and clients on both sides of the border, I can tell you the day-to-day experience is more different than you would expect from two neighboring countries. The 30% ruling alone can swing the financial comparison dramatically. Here is my honest breakdown of both options so you can decide which one fits your life.

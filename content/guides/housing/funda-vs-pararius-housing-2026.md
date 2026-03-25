@@ -27,6 +27,16 @@ faq:
     a: "Yes, Funda covers both the rental (huur) and purchase (koop) markets. It is by far the dominant platform for buying property in the Netherlands, and it also has a substantial rental section. If you are an expat considering buying rather than renting, Funda is the first place to look. For guidance on mortgages as a foreigner, see our guide to expat mortgage options in the Netherlands."
   - q: "Which platform is better for finding a room or shared housing?"
     a: "Neither Funda nor Pararius focuses primarily on room rentals or shared housing. For rooms and house-shares, Kamernet and HousingAnywhere are more suitable. Funda and Pararius are both geared towards self-contained apartments and houses. If you are a student or looking for a room in a shared flat, start with Kamernet or HousingAnywhere instead, and use Pararius once you are ready for your own place."
+products:
+  - name: "HousingAnywhere"
+    url: "https://housinganywhere.com/"
+    price: "0.00"
+  - name: "Pararius"
+    url: "https://www.pararius.com/"
+    price: "0.00"
+  - name: "Funda"
+    url: "https://www.funda.nl/"
+    price: "0.00"
 ---
 
 When I first moved to Amsterdam, I had absolutely no idea where to start looking for a flat. A Dutch colleague pointed me to Funda. I spent two weeks on it, sent off a dozen enquiries, and heard back from precisely nobody. Not because the listings were bad — there were plenty of them — but because I was an English speaker in a very Dutch system, competing against locals who already knew the rules.

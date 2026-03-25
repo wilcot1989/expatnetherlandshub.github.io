@@ -23,6 +23,16 @@ faq:
     a: "Yes, the main international school is the International School Utrecht (ISU), offering IB curriculum for ages 4-18. There's also the Utrecht International School (part of ISU) and several bilingual Dutch schools. Waiting lists can be long, so apply early."
   - q: "How do I find housing in Utrecht?"
     a: "Search on Funda.nl, Pararius.nl (English), and Kamernet.nl. Use a rental agent (makelaar) for faster results — they charge 1 month's rent. Average response time is 2-4 weeks. Arrive with documents ready: employment contract, ID, salary slips, employer letter. The rental market is competitive but less extreme than Amsterdam."
+products:
+  - name: "HousingAnywhere"
+    url: "https://housinganywhere.com/"
+    price: "0.00"
+  - name: "Pararius"
+    url: "https://www.pararius.com/"
+    price: "0.00"
+  - name: "Funda"
+    url: "https://www.funda.nl/"
+    price: "0.00"
 ---
 
 Every time I visit Utrecht, I think about moving there. It has everything I love about Amsterdam -- the canals, the cafe culture, the cycling -- but without the tourist crowds and with a community feel that is hard to find in bigger cities. It is also the most central city in the Netherlands, which means everywhere is a short train ride away. More and more of my clients are choosing Utrecht over Amsterdam, and I completely understand why.

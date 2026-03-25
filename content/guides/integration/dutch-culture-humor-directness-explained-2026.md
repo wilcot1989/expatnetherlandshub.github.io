@@ -23,6 +23,16 @@ faq:
     a: "Dutch people often appear reserved or even unfriendly in initial encounters — particularly in larger cities. This is not hostility; it is the Dutch preference for established, stable social circles (vriendenkring). Once you are in, however, Dutch friendships are loyal and long-lasting. Joining a sports club, choir, hobby group, or volunteer organisation is one of the best ways to build these connections gradually."
   - q: "What is the 'Dutch treat' (ieder betaalt zijn eigen rekening) culture?"
     a: "In the Netherlands, splitting the bill (ieder betaalt zijn eigen) is the norm — not just with acquaintances but even among close friends. This is not stinginess; it reflects independence and equality. Nobody should feel obligated to others financially. Expecting someone to pay for you, or insisting on paying for others, can both feel slightly awkward in Dutch social settings."
+products:
+  - name: "Babbel"
+    url: "https://www.babbel.com/"
+    price: "6.99"
+  - name: "Meetup"
+    url: "https://www.meetup.com/"
+    price: "0.00"
+  - name: "DutchPod101"
+    url: "https://www.dutchpod101.com/"
+    price: "0.00"
 ---
 
 When I first moved to the Netherlands, a Dutch colleague told me within 10 minutes of meeting her that my Dutch was terrible and she hoped I intended to improve it. She then offered me a coffee and a perfectly timed joke about Dutch rain. By the end of the conversation I liked her enormously. That is Dutch culture in a nutshell.

@@ -23,6 +23,16 @@ faq:
     a: "Not to get by day to day. English is widely spoken, especially in the service sector and among younger residents. That said, learning some Dutch — even basic phrases — goes a long way socially in Brabant."
   - q: "How do I register in Den Bosch and get a BSN?"
     a: "You register at the Gemeente 's-Hertogenbosch. You will need a valid passport, a rental contract or letter from your landlord, and an appointment. Your BSN is issued at or shortly after registration."
+products:
+  - name: "HousingAnywhere"
+    url: "https://housinganywhere.com/"
+    price: "0.00"
+  - name: "Pararius"
+    url: "https://www.pararius.com/"
+    price: "0.00"
+  - name: "Funda"
+    url: "https://www.funda.nl/"
+    price: "0.00"
 ---
 
 I moved to the Netherlands almost a decade ago, and I have spent a lot of time helping other expats figure out where to put down roots. Most of them start the conversation the same way: Amsterdam, Amsterdam, Amsterdam. And I understand it. Amsterdam is the obvious answer. But it is not always the right one.

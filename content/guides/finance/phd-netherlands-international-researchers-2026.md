@@ -10,6 +10,16 @@ affiliate: true
 author: "Sarah van den Berg"
 author_bio: "Expat coach and relocation specialist. Half Dutch, half British, living in the Netherlands for over 10 years."
 featured_image: "/images/categories/finance.svg"
+products:
+  - name: "Wise"
+    url: "https://wise.com/invite/ihpc/willemt52"
+    price: "0.00"
+  - name: "bunq"
+    url: "https://www.bunq.com/"
+    price: "2.99"
+  - name: "ING"
+    url: "https://www.ing.nl/particulier"
+    price: "0.00"
 faq:
   - q: "Is a PhD in the Netherlands a job or a study programme?"
     a: "In the Netherlands, the vast majority of PhD candidates are employed as university staff (promovendus) on a temporary employment contract, not enrolled as students. This means you receive a salary, pay Dutch income tax and social security contributions, and are entitled to employee benefits including paid holiday, sick leave, and pension accrual. This is fundamentally different from PhD systems in the US or UK."

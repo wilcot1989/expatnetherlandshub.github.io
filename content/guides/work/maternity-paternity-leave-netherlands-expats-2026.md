@@ -7,6 +7,16 @@ categories: ["work"]
 tags: ["maternity leave", "paternity leave", "parental leave", "zwangerschapsverlof"]
 keywords: ["maternity leave netherlands expats", "paternity leave netherlands", "parental leave netherlands 2026", "zwangerschapsverlof expat", "UWV parental leave"]
 affiliate: false
+products:
+  - name: "LinkedIn Premium"
+    url: "https://www.linkedin.com/premium/"
+    price: "29.99"
+  - name: "Undutchables"
+    url: "https://undutchables.nl/"
+    price: "0.00"
+  - name: "Together Abroad"
+    url: "https://www.togetherabroad.nl/"
+    price: "0.00"
 author: "Sarah van den Berg"
 author_bio: "Expat coach and relocation specialist. Half Dutch, half British, living in the Netherlands for over 10 years."
 featured_image: "/images/categories/work.svg"

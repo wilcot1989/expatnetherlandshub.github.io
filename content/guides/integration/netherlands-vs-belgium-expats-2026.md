@@ -25,6 +25,16 @@ faq:
     a: "Both countries have large, active expat communities. Brussels, as the de facto EU capital, has an exceptionally international feel — roughly 35% of its residents are non-Belgian. Amsterdam and The Hague also have very strong expat communities, with The Hague (home to many international organizations and embassies) being particularly international. The Netherlands tends to have more English-language infrastructure outside the main cities."
   - q: "Can I use Wise to transfer money between the Netherlands and Belgium?"
     a: "Yes. Wise is ideal for cross-border transfers within Europe, including between Dutch and Belgian bank accounts. With real exchange rate transfers for EUR-to-EUR or multi-currency accounts, it is used by expats in both countries for salary transfers, rent payments, and sending money home. You can hold both EUR and GBP (or other currencies) in one Wise account."
+products:
+  - name: "Babbel"
+    url: "https://www.babbel.com/"
+    price: "6.99"
+  - name: "Meetup"
+    url: "https://www.meetup.com/"
+    price: "0.00"
+  - name: "DutchPod101"
+    url: "https://www.dutchpod101.com/"
+    price: "0.00"
 ---
 
 When I was deciding where to put down roots in northwestern Europe, the Netherlands and Belgium were the two finalists on my list. Both are small, wealthy, multilingual, and sitting at the heart of Europe. Both have strong expat communities, excellent infrastructure, and reasonable quality of life. But they are also surprisingly different in ways that matter enormously to daily life — and the choice can make a difference of tens of thousands of euros per year, depending on your circumstances.

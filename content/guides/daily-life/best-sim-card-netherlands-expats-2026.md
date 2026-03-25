@@ -7,6 +7,16 @@ categories: ["daily-life"]
 tags: ["sim card netherlands", "mobile plan expats", "dutch phone number", "prepaid sim netherlands", "eSIM netherlands", "dutch mobile providers"]
 keywords: ["best sim card netherlands", "mobile plan expats netherlands", "dutch sim card", "prepaid sim card netherlands", "eSIM netherlands expats", "cheapest phone plan netherlands"]
 affiliate: true
+products:
+  - name: "KPN"
+    url: "https://www.kpn.com/"
+    price: "0.00"
+  - name: "T-Mobile"
+    url: "https://www.t-mobile.nl/"
+    price: "0.00"
+  - name: "Ziggo"
+    url: "https://www.ziggo.nl/"
+    price: "0.00"
 author: "Sarah van den Berg"
 author_bio: "Expat coach and relocation specialist. Half Dutch, half British, living in the Netherlands for over 10 years."
 featured_image: "/images/featured/best-sim-card-netherlands-expats-2026.webp"

@@ -25,6 +25,16 @@ faq:
     a: "Absolutely, and this is a strategy we recommend. Use Babbel for your primary structured learning sessions (15-20 minutes of focused study), and use Duolingo for quick 5-minute review sessions during breaks or commutes. Duolingo's gamification helps maintain your daily streak and reinforces vocabulary, while Babbel provides the depth and grammar foundation. Together, they cover more ground than either app alone."
   - q: "Which app has better Dutch pronunciation practice?"
     a: "Babbel has noticeably better speech recognition technology for Dutch. It provides feedback on your pronunciation and requires you to speak words and phrases aloud in most exercises. Duolingo also includes speaking exercises, but they are less frequent and the speech recognition is less precise, particularly for challenging Dutch sounds like the hard g and the ui diphthong. For the best pronunciation practice, consider adding Pimsleur to either app."
+products:
+  - name: "Babbel"
+    url: "https://www.babbel.com/"
+    price: "6.99"
+  - name: "DutchPod101"
+    url: "https://www.dutchpod101.com/"
+    price: "0.00"
+  - name: "italki"
+    url: "https://www.italki.com/"
+    price: "0.00"
 ---
 
 Growing up half-Dutch, I thought I had a head start on the language. I did not. When I moved to the Netherlands, I tried both Babbel and Duolingo to fill in the embarrassing gaps in my Dutch, and I was surprised how different the experience was on each. I have since recommended both apps to hundreds of expat clients, and the question I get most is: "Which one should I actually use?" Here is my honest side-by-side comparison after years of testing and real-world feedback.

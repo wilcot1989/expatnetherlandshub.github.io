@@ -2,6 +2,9 @@
 
 {{/* JSON-LD is handled in baseof.html — no duplicates here */}}
 
+<!-- Reading progress bar -->
+<div class="reading-progress" id="readingProgress"></div>
+
 {{/* ── Hero: category SVG banner with dark overlay ── */}}
 {{ $heroCat := "daily-life" }}
 {{ with .Params.categories }}{{ $heroCat = index . 0 }}{{ end }}
@@ -19,14 +22,18 @@
         <span>{{ .Title }}</span>
       </nav>
       <h1 class="article-hero-title">{{ .Title }}</h1>
-      <div class="meta meta-light">
-        {{ if not .Date.IsZero }}{{ .Date.Format "January 2, 2006" }} &middot; {{ end }}
-        {{ .ReadingTime }} min read
-        {{ with .Params.author }} &middot; {{ . }}{{ end }}
+      <div class="article-meta-bar meta-light">
+        {{ if not .Date.IsZero }}<span class="meta-item"><svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><rect x="3" y="4" width="18" height="18" rx="2" ry="2"/><line x1="16" y1="2" x2="16" y2="6"/><line x1="8" y1="2" x2="8" y2="6"/><line x1="3" y1="10" x2="21" y2="10"/></svg> {{ .Date.Format "January 2, 2006" }}</span>{{ end }}
+        <span class="meta-item"><svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><circle cx="12" cy="12" r="10"/><polyline points="12 6 12 12 16 14"/></svg> {{ .ReadingTime }} min read</span>
+        {{ if ne (.Lastmod.Format "2006-01-02") (.Date.Format "2006-01-02") }}<span class="meta-item"><svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M11 4H4a2 2 0 0 0-2 2v14a2 2 0 0 0 2 2h14a2 2 0 0 0 2-2v-7"/><path d="M18.5 2.5a2.121 2.121 0 0 1 3 3L12 15l-4 1 1-4 9.5-9.5z"/></svg> Updated {{ .Lastmod.Format "January 2, 2006" }}</span>{{ end }}
+        {{ with .Params.author }}<span class="meta-item"><svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M20 21v-2a4 4 0 0 0-4-4H8a4 4 0 0 0-4 4v2"/><circle cx="12" cy="7" r="4"/></svg> {{ . }}</span>{{ end }}
       </div>
     </div>
   </div>
 </div>
+<div class="wide" style="padding-top:2rem;">
+  <article class="article-body">
+    <div class="article-divider"></div>
 {{ else }}
 <div class="article-header">
   <div class="wide">
@@ -38,141 +45,230 @@
       <span>{{ .Title }}</span>
     </nav>
     <h1>{{ .Title }}</h1>
-    <div class="meta">
-      {{ if not .Date.IsZero }}{{ .Date.Format "January 2, 2006" }}{{ end }}
-      {{ if not .Lastmod.IsZero }} &middot; Updated {{ .Lastmod.Format "January 2, 2006" }}{{ end }}
-      &middot; {{ .ReadingTime }} min read
-      {{ with .Params.author }} &middot; {{ . }}{{ end }}
+    <div class="article-meta-bar">
+      {{ if not .Date.IsZero }}<span class="meta-item"><svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><rect x="3" y="4" width="18" height="18" rx="2" ry="2"/><line x1="16" y1="2" x2="16" y2="6"/><line x1="8" y1="2" x2="8" y2="6"/><line x1="3" y1="10" x2="21" y2="10"/></svg> {{ .Date.Format "January 2, 2006" }}</span>{{ end }}
+      <span class="meta-item"><svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><circle cx="12" cy="12" r="10"/><polyline points="12 6 12 12 16 14"/></svg> {{ .ReadingTime }} min read</span>
+      {{ if ne (.Lastmod.Format "2006-01-02") (.Date.Format "2006-01-02") }}<span class="meta-item"><svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M11 4H4a2 2 0 0 0-2 2v14a2 2 0 0 0 2 2h14a2 2 0 0 0 2-2v-7"/><path d="M18.5 2.5a2.121 2.121 0 0 1 3 3L12 15l-4 1 1-4 9.5-9.5z"/></svg> Updated {{ .Lastmod.Format "January 2, 2006" }}</span>{{ end }}
+      {{ with .Params.author }}<span class="meta-item"><svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M20 21v-2a4 4 0 0 0-4-4H8a4 4 0 0 0-4 4v2"/><circle cx="12" cy="7" r="4"/></svg> {{ . }}</span>{{ end }}
     </div>
   </div>
 </div>
+<div class="wide" style="padding-top:2rem;">
+  <article class="article-body">
 {{ end }}
 
-{{/* ── Main layout: article + sidebar ── */}}
-<div class="wide">
-  <div class="article-layout">
-
-    {{/* ── ARTICLE COLUMN ── */}}
-    <article class="article-body">
-
-      {{/* Main content */}}
-      {{ .Content }}
-
-      {{/* Tags */}}
-      {{ with .Params.tags }}
-      <div class="tags" style="margin-top: 2rem;">
-        {{ range . }}<span class="tag">{{ . }}</span>{{ end }}
+    {{/* ===== VERDICT CARD — #1 product with big CTA ===== */}}
+    {{ if .Params.products }}{{ with index .Params.products 0 }}
+    <div class="verdict-card">
+      <div class="verdict-badge">
+        <svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round"><polygon points="12 2 15.09 8.26 22 9.27 17 14.14 18.18 21.02 12 17.77 5.82 21.02 7 14.14 2 9.27 8.91 8.26 12 2"/></svg>
+        Top Pick {{ now.Year }}
       </div>
-      {{ end }}
-
-      {{/* FAQ section */}}
-      {{ with .Params.faq }}
-      <div class="faq-section">
-        <h2>Frequently Asked Questions</h2>
-        {{ range . }}
-        <details class="faq-item">
-          <summary>{{ .q }}</summary>
-          <p>{{ .a }}</p>
-        </details>
-        {{ end }}
-      </div>
-      {{ end }}
-
-      {{/* Author box */}}
-      <div class="author-box">
-        {{ if .Params.author }}
-        {{ $parts := split .Params.author " " }}
-        <div class="author-avatar">{{ index $parts 0 | truncate 1 "" }}{{ if gt (len $parts) 1 }}{{ index $parts 1 | truncate 1 "" }}{{ end }}</div>
-        <div class="author-info">
-          <div class="author-name">{{ .Params.author }}</div>
-          <div class="author-bio">{{ with .Params.author_bio }}{{ . }}{{ else }}Expat coach and relocation specialist at Expat Netherlands Hub.{{ end }}</div>
+      <div class="verdict-main">
+        <div class="verdict-info">
+          <div class="verdict-name">{{ .name }}</div>
+          <div class="verdict-price">{{ if eq .price "0.00" }}Free to use{{ else }}From &euro;{{ .price }}/mo{{ end }}</div>
+          {{ with .description }}<div class="verdict-desc">{{ . }}</div>{{ end }}
         </div>
-        {{ else }}
-        <div class="author-avatar">ENH</div>
-        <div class="author-info">
-          <div class="author-name">Expat Netherlands Hub Team</div>
-          <div class="author-bio">Our team of expats and local experts creates practical guides to help you navigate life in the Netherlands.</div>
-        </div>
-        {{ end }}
-      </div>
-
-      {{/* Related articles — bottom of article on mobile, mirrors sidebar on desktop */}}
-      {{ $allOther := where (where .Site.RegularPages "Type" "guides") ".Permalink" "ne" .Permalink }}
-      {{ $related := where $allOther ".Params.categories" "intersect" .Params.categories }}
-      {{ if not $related }}{{ $related = $allOther }}{{ end }}
-      {{ $related = first 3 $related }}
-      {{ if $related }}
-      <div class="related-articles related-articles-bottom">
-        <h3>Related Expat Guides</h3>
-        <div class="related-grid">
-          {{ range $related }}
-          <a href="{{ .RelPermalink }}" class="related-card">
-            {{ $relCat := "daily-life" }}
-            {{ with .Params.categories }}{{ $relCat = index . 0 }}{{ end }}
-            {{ $relSvg := printf "/images/categories/%s.svg" $relCat }}
-            <img src="{{ $relSvg }}" alt="{{ .Title }}" class="related-card-thumb" loading="lazy">
-            <div class="related-card-body">
-              <div class="meta">{{ .Date.Format "January 2, 2006" }}</div>
-              <div class="related-card-title">{{ .Title }}</div>
-            </div>
-          </a>
-          {{ end }}
-        </div>
-      </div>
-      {{ end }}
-
-    </article>
-
-    {{/* ── SIDEBAR ── */}}
-    <aside class="article-sidebar">
-
-      {{/* Table of Contents */}}
-      {{ if .TableOfContents }}
-      <div class="sidebar-widget sidebar-toc">
-        <div class="sidebar-widget-title">In this guide</div>
-        {{ .TableOfContents }}
-      </div>
-      {{ end }}
-
-      {{/* Tool CTA — only if tool_link is set in front matter */}}
-      {{ with .Params.tool_link }}
-      <div class="sidebar-widget sidebar-tool-cta">
-        <div class="sidebar-widget-title">Free Tool</div>
-        <p>{{ with $.Params.tool_description }}{{ . }}{{ else }}Use our free tool to make your move easier.{{ end }}</p>
-        <a href="{{ . }}" class="cta cta-block" target="_blank" rel="noopener noreferrer">
-          Try {{ with $.Params.tool_name }}{{ . }}{{ else }}the free tool{{ end }} &rarr;
+        <a href="{{ .url }}" class="verdict-cta cta-affiliate" target="_blank" rel="noopener noreferrer sponsored">
+          Try {{ .name }}
+          <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round"><line x1="5" y1="12" x2="19" y2="12"/><polyline points="12 5 19 12 12 19"/></svg>
         </a>
       </div>
-      {{ end }}
+    </div>
+    {{ end }}{{ end }}
 
-      {{/* Related articles in sidebar — visible on desktop only */}}
-      {{ $allOtherSide := where (where .Site.RegularPages "Type" "guides") ".Permalink" "ne" .Permalink }}
-      {{ $relatedSide := where $allOtherSide ".Params.categories" "intersect" .Params.categories }}
-      {{ if not $relatedSide }}{{ $relatedSide = $allOtherSide }}{{ end }}
-      {{ $relatedSide = first 3 $relatedSide }}
-      {{ if $relatedSide }}
-      <div class="sidebar-widget sidebar-related">
-        <div class="sidebar-widget-title">Related Guides</div>
-        <ul class="sidebar-related-list">
-          {{ range $relatedSide }}
-          <li><a href="{{ .RelPermalink }}">{{ .Title }}</a></li>
-          {{ end }}
-        </ul>
+    <!-- Inline Table of Contents (all articles) -->
+    <div class="inline-toc" id="inlineToc">
+      <details class="inline-toc-details" open>
+        <summary class="inline-toc-toggle">
+          <svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round"><line x1="8" y1="6" x2="21" y2="6"/><line x1="8" y1="12" x2="21" y2="12"/><line x1="8" y1="18" x2="21" y2="18"/><line x1="3" y1="6" x2="3.01" y2="6"/><line x1="3" y1="12" x2="3.01" y2="12"/><line x1="3" y1="18" x2="3.01" y2="18"/></svg>
+          In this guide
+        </summary>
+        <nav class="inline-toc-nav" id="inlineTocNav"></nav>
+      </details>
+    </div>
+
+{{ if .Params.products }}
+    <div class="article-layout-inner">
+    <div class="article-content" id="articleContent">{{ .Content }}</div>
+    <aside class="sticky-sidebar">
+      <div class="sidebar-block">
+        <div class="sidebar-block-header">
+          <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round"><polygon points="12 2 15.09 8.26 22 9.27 17 14.14 18.18 21.02 12 17.77 5.82 21.02 7 14.14 2 9.27 8.91 8.26 12 2"/></svg>
+          <h4>Top Picks</h4>
+        </div>
+        {{ range $i, $p := first 3 .Params.products }}
+        <div class="sidebar-product">
+          <div class="sidebar-rank">{{ add $i 1 }}</div>
+          <div class="sidebar-product-info">
+            <div class="sidebar-name">{{ $p.name }}</div>
+            <div class="sidebar-price">{{ if eq $p.price "0.00" }}Free{{ else }}From &euro;{{ $p.price }}/mo{{ end }}</div>
+          </div>
+          <a href="{{ $p.url }}" class="sidebar-cta cta-affiliate" target="_blank" rel="noopener noreferrer sponsored">Visit &rarr;</a>
+        </div>
+        {{ end }}
+      </div>
+
+      {{/* Tool CTA in sidebar */}}
+      {{ with .Params.tool_link }}
+      <div class="sidebar-block sidebar-block-tool">
+        <div class="sidebar-block-header">
+          <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round"><circle cx="11" cy="11" r="8"/><path d="m21 21-4.3-4.3"/></svg>
+          <h4>Free Tool</h4>
+        </div>
+        <p class="sidebar-tool-desc">{{ with $.Params.tool_description }}{{ . }}{{ else }}Use our free tool to make your decision easier.{{ end }}</p>
+        <a href="{{ . }}" class="cta cta-block">Try it free &rarr;</a>
       </div>
       {{ end }}
 
-      {{/* Email signup */}}
-      <div class="sidebar-widget sidebar-email-signup">
-        <div class="sidebar-widget-title">Free Expat Checklist</div>
-        <p>Get our complete moving-to-NL checklist delivered to your inbox.</p>
+      {{/* Email signup in sidebar */}}
+      <div class="sidebar-block sidebar-block-email">
+        <div class="sidebar-block-header">
+          <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round"><path d="M4 4h16c1.1 0 2 .9 2 2v12c0 1.1-.9 2-2 2H4c-1.1 0-2-.9-2-2V6c0-1.1.9-2 2-2z"/><polyline points="22,6 12,13 2,6"/></svg>
+          <h4>Free Checklist</h4>
+        </div>
+        <p class="sidebar-email-desc">47 things to do in your first 3 months in the Netherlands.</p>
         <form class="sidebar-email-form" action="#" method="post" onsubmit="return false;">
           <input type="email" name="email" placeholder="your@email.com" required class="sidebar-email-input">
-          <button type="submit" class="cta cta-block">Get the checklist</button>
+          <button type="submit" class="cta cta-block">Download free &rarr;</button>
         </form>
       </div>
-
     </aside>
-  </div>
+    </div>
+{{ else }}
+    <div class="article-content" id="articleContent">{{ .Content }}</div>
+{{ end }}
+
+    {{/* Tags */}}
+    {{ with .Params.tags }}
+    <div class="article-tags">
+      <span class="tags-label">Tags:</span>
+      {{ range . }}<span class="tag">{{ . }}</span>{{ end }}
+    </div>
+    {{ end }}
+
+    {{/* Affiliate disclosure */}}
+    {{ if .Params.affiliate }}
+    <div class="affiliate-disclosure-box">
+      <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><circle cx="12" cy="12" r="10"/><line x1="12" y1="16" x2="12" y2="12"/><line x1="12" y1="8" x2="12.01" y2="8"/></svg>
+      This article contains affiliate links. If you sign up through our links, we may earn a commission at no extra cost to you.
+    </div>
+    {{ end }}
+
+    {{/* FAQ section */}}
+    {{ if .Params.faq }}
+    <div class="faq-section">
+      <div class="faq-header">
+        <svg width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><circle cx="12" cy="12" r="10"/><path d="M9.09 9a3 3 0 0 1 5.83 1c0 2-3 3-3 3"/><line x1="12" y1="17" x2="12.01" y2="17"/></svg>
+        <h2>Frequently Asked Questions</h2>
+      </div>
+      {{ range .Params.faq }}
+      <details class="faq-item">
+        <summary>{{ .q }}</summary>
+        <div class="faq-answer"><p>{{ .a }}</p></div>
+      </details>
+      {{ end }}
+    </div>
+    {{ end }}
+
+    {{/* ===== POST-ARTICLE CONVERSION BANNER ===== */}}
+    {{ if .Params.products }}
+    {{ $topProduct := index .Params.products 0 }}
+    <div class="conversion-banner">
+      <div class="conversion-banner-bg"></div>
+      <div class="conversion-banner-content">
+        <div class="conversion-banner-text">
+          <div class="conversion-banner-label">Most recommended in this guide</div>
+          <div class="conversion-banner-title">{{ $topProduct.name }} {{ if eq $topProduct.price "0.00" }}— free to use{{ else }}from &euro;{{ $topProduct.price }}/mo{{ end }}</div>
+          <div class="conversion-banner-sub">Trusted by thousands of expats in the Netherlands</div>
+        </div>
+        <a href="{{ $topProduct.url }}" class="conversion-banner-cta cta-affiliate" target="_blank" rel="noopener noreferrer sponsored">
+          Try {{ $topProduct.name }}
+          <svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round"><line x1="5" y1="12" x2="19" y2="12"/><polyline points="12 5 19 12 12 19"/></svg>
+        </a>
+      </div>
+    </div>
+    {{ else if .Params.categories }}
+    <div class="conversion-banner conversion-banner--tools">
+      <div class="conversion-banner-bg"></div>
+      <div class="conversion-banner-content">
+        <div class="conversion-banner-text">
+          <div class="conversion-banner-label">Not sure what's right for you?</div>
+          <div class="conversion-banner-title">Try our free decision tools</div>
+          <div class="conversion-banner-sub">Answer a few questions and get personalised recommendations</div>
+        </div>
+        <a href="/tools/" class="conversion-banner-cta conversion-banner-cta--green">
+          Browse tools
+          <svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round"><line x1="5" y1="12" x2="19" y2="12"/><polyline points="12 5 19 12 12 19"/></svg>
+        </a>
+      </div>
+    </div>
+    {{ end }}
+
+    {{/* Author box */}}
+    <div class="author-box">
+      {{ if .Params.author }}
+      {{ $parts := split .Params.author " " }}
+      <div class="author-avatar">{{ index $parts 0 | truncate 1 "" }}{{ if gt (len $parts) 1 }}{{ index $parts 1 | truncate 1 "" }}{{ end }}</div>
+      <div class="author-info">
+        <div class="author-label">Written by</div>
+        <div class="author-name">{{ .Params.author }}</div>
+        <div class="author-bio">{{ with .Params.author_bio }}{{ . }}{{ else }}Expat coach and relocation specialist at Expat Netherlands Hub.{{ end }}</div>
+      </div>
+      {{ else }}
+      <div class="author-avatar">ENH</div>
+      <div class="author-info">
+        <div class="author-label">Written by</div>
+        <div class="author-name">Expat Netherlands Hub Team</div>
+        <div class="author-bio">Our team of expats and local experts creates practical guides to help you navigate life in the Netherlands.</div>
+      </div>
+      {{ end }}
+    </div>
+
+    {{/* Related articles */}}
+    {{ $allOther := where (where .Site.RegularPages "Type" "guides") ".Permalink" "ne" .Permalink }}
+    {{ $related := where $allOther ".Params.categories" "intersect" .Params.categories }}
+    {{ if not $related }}{{ $related = $allOther }}{{ end }}
+    {{ $related = first 4 $related }}
+    {{ if $related }}
+    <div class="related-section">
+      <div class="related-header">
+        <svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M4 19.5A2.5 2.5 0 0 1 6.5 17H20"/><path d="M6.5 2H20v20H6.5A2.5 2.5 0 0 1 4 19.5v-15A2.5 2.5 0 0 1 6.5 2z"/></svg>
+        <h3>Related Expat Guides</h3>
+      </div>
+      <div class="related-grid-new">
+        {{ range $related }}
+        <a href="{{ .RelPermalink }}" class="related-card-new">
+          <div class="related-card-content">
+            {{ with .Params.categories }}{{ range first 1 . }}<span class="related-category">{{ . | humanize | title }}</span>{{ end }}{{ end }}
+            <span class="related-title">{{ .Title }}</span>
+            <span class="related-meta">{{ .ReadingTime }} min read</span>
+          </div>
+          <svg class="related-arrow" width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round"><line x1="5" y1="12" x2="19" y2="12"/><polyline points="12 5 19 12 12 19"/></svg>
+        </a>
+        {{ end }}
+      </div>
+    </div>
+    {{ end }}
+
+  </article>
 </div>
 
+{{/* ===== STICKY MOBILE CTA BAR ===== */}}
+{{ if .Params.products }}{{ with index .Params.products 0 }}
+<div class="mobile-cta-bar" id="mobileCta">
+  <div class="mobile-cta-info">
+    <span class="mobile-cta-rank">#1</span>
+    <span class="mobile-cta-name">{{ .name }}</span>
+    <span class="mobile-cta-price">{{ if eq .price "0.00" }}Free{{ else }}&euro;{{ .price }}/mo{{ end }}</span>
+  </div>
+  <a href="{{ .url }}" class="mobile-cta-btn cta-affiliate" target="_blank" rel="noopener noreferrer sponsored">Try now &rarr;</a>
+</div>
+{{ end }}{{ end }}
+
+<!-- Back to top button -->
+<button class="back-to-top" id="backToTop" aria-label="Back to top">
+  <svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round"><line x1="12" y1="19" x2="12" y2="5"/><polyline points="5 12 12 5 19 12"/></svg>
+</button>
 {{ end }}

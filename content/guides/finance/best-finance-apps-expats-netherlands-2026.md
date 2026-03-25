@@ -10,6 +10,16 @@ affiliate: true
 author: "Sarah van den Berg"
 author_bio: "Expat coach and relocation specialist. Half Dutch, half British, living in the Netherlands for over 10 years."
 featured_image: "/images/categories/finance.svg"
+products:
+  - name: "Wise"
+    url: "https://wise.com/invite/ihpc/willemt52"
+    price: "0.00"
+  - name: "bunq"
+    url: "https://www.bunq.com/"
+    price: "2.99"
+  - name: "ING"
+    url: "https://www.ing.nl/particulier"
+    price: "0.00"
 faq:
   - q: "What is Tikkie and why do expats need it?"
     a: "Tikkie is a Dutch payment request app, made by ABN AMRO, that lets you send a link to request money from someone. It is built on iDEAL and almost every Dutch person uses it. If you go to dinner with Dutch colleagues, someone will Tikkie you before you reach the door. You need it to participate in normal Dutch social life. It requires a Dutch bank account and phone number."

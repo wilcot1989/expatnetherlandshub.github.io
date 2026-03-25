@@ -9,6 +9,16 @@ author: "Sarah van den Berg"
 author_bio: "Expat coach and relocation specialist. Half Dutch, half British, living in the Netherlands for over 10 years."
 featured_image: "/images/featured/mental-health-support-expats-netherlands-2026.webp"
 affiliate: true
+products:
+  - name: "SafetyWing"
+    url: "https://safetywing.com/nomad-insurance/?referenceID=26482728"
+    price: "45.08"
+  - name: "Cigna"
+    url: "https://www.cigna.nl/"
+    price: "0.00"
+  - name: "CZ"
+    url: "https://www.cz.nl/"
+    price: "0.00"
 description: "Mental health support for expats in the Netherlands: how the system works, English-speaking therapists, insurance, and crisis lines."
 tags: ["mental health", "expat", "therapy", "GGZ", "Netherlands", "health insurance", "English-speaking therapist"]
 faq:

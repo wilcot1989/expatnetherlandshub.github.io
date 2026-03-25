@@ -10,6 +10,16 @@ affiliate: true
 author: "Sarah van den Berg"
 author_bio: "Expat coach and relocation specialist. Half Dutch, half British, living in the Netherlands for over 10 years."
 featured_image: "/images/categories/finance.svg"
+products:
+  - name: "Wise"
+    url: "https://wise.com/invite/ihpc/willemt52"
+    price: "0.00"
+  - name: "bunq"
+    url: "https://www.bunq.com/"
+    price: "2.99"
+  - name: "ING"
+    url: "https://www.ing.nl/particulier"
+    price: "0.00"
 faq:
   - q: "What IBAN does N26 give you in the Netherlands?"
     a: "N26 gives you a German IBAN (DE prefix), regardless of which EU country you live in. N26 is a German bank regulated by BaFin and all accounts are issued under German account details. A German DE IBAN is better than Revolut's Lithuanian LT IBAN for most practical Dutch purposes, but it is still not as widely accepted as a Belgian BE IBAN (like Wise) or a Dutch NL IBAN. Some Dutch employers, landlords, and utility providers will reject non-NL IBANs, and while DE is less problematic than LT, it is not problem-free."

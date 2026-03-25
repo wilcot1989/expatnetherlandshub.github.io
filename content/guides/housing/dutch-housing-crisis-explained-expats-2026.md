@@ -23,6 +23,16 @@ faq:
     a: "The government has set a target of building 900,000 new homes by 2030 — roughly 100,000 per year. In practice, actual completions have run at 70,000-80,000 per year, well below target. The 2024 Wet betaalbare huur (Affordable Rent Act) tightened rent controls in the mid-market segment. Hugo de Jonge (Housing Minister 2022-2024) and subsequent ministers have pushed for faster planning approvals, public land release, and incentives for housing corporations. Progress is real but slow — the gap between target and reality remains large, and the structural causes (land scarcity, construction costs, planning processes) cannot be resolved quickly."
   - q: "What is the best strategy for finding housing as an expat in this market?"
     a: "The strategies that work in a tight market: (1) Start your search before you arrive — many platforms allow remote applications and video viewings. (2) Use all platforms simultaneously — Funda, Pararius, Kamernet, Facebook expat groups, and direct landlord networks. (3) Be financially ready — having a deposit (1-3 months rent) transferable immediately gives you an edge. Use Wise to transfer from abroad without losing money on exchange rates. (4) Consider smaller cities — Arnhem, Breda, Nijmegen, Groningen have meaningful shortages but not to the same degree as Amsterdam or Utrecht. (5) Accept a short-term furnished rental for the first 3-6 months while searching for your longer-term place. Speed matters — respond within hours of a new listing appearing."
+products:
+  - name: "HousingAnywhere"
+    url: "https://housinganywhere.com/"
+    price: "0.00"
+  - name: "Pararius"
+    url: "https://www.pararius.com/"
+    price: "0.00"
+  - name: "Funda"
+    url: "https://www.funda.nl/"
+    price: "0.00"
 ---
 
 I spend a significant part of my working life helping expats find housing in the Netherlands. The conversation often starts the same way: they have done their research, they know the Dutch rental market is tight, and they arrive armed with a budget they consider reasonable by international standards — say, €1,500/month for a one-bedroom apartment. Then they start searching.

@@ -7,10 +7,20 @@ description: "Dutch inheritance tax (erfbelasting) for expats. Tax rates, exempt
 categories: ["finance"]
 tags: ["inheritance tax", "erfbelasting", "estate planning", "expat tax"]
 keywords: ["dutch inheritance tax expat", "erfbelasting netherlands", "inheritance tax rates netherlands 2026", "10 year rule dutch inheritance tax"]
-affiliate: false
+affiliate: true
 author: "Sarah van den Berg"
 author_bio: "Expat coach and relocation specialist. Half Dutch, half British, living in the Netherlands for over 10 years."
 featured_image: "/images/categories/finance.svg"
+products:
+  - name: "Wise"
+    url: "https://wise.com/invite/ihpc/willemt52"
+    price: "0.00"
+  - name: "bunq"
+    url: "https://www.bunq.com/"
+    price: "2.99"
+  - name: "ING"
+    url: "https://www.ing.nl/particulier"
+    price: "0.00"
 faq:
   - q: "Do expats pay inheritance tax in the Netherlands?"
     a: "If you are a Dutch tax resident, your worldwide estate is subject to Dutch inheritance tax (erfbelasting) when you die. The tax also applies if you leave the Netherlands but die within 10 years of emigrating. Rates range from 10% to 40% depending on the relationship to the heir and the amount inherited."

@@ -33,6 +33,16 @@ faq:
     a: "Most international students in the Netherlands should budget EUR 1,000-1,400 per month. This breaks down roughly as: EUR 400-650 for a room in shared student housing, EUR 150-175 for health insurance, EUR 200-250 for groceries, EUR 30-60 for a student transport subscription, EUR 30-50 for utilities share, EUR 30-50 for phone and internet, and EUR 100-150 for leisure. DUO student finance (studiefinanciering) is available to EU/EEA students who work at least 32 hours per month, providing a monthly loan or grant. University cities like Groningen and Enschede are meaningfully cheaper than Amsterdam or Utrecht."
   - q: "Which Dutch city is cheapest to live in?"
     a: "Among the main university and expat cities, Groningen and Enschede are consistently the cheapest for renters. A room in shared housing in Groningen can cost EUR 400-600 per month, and one-bedroom apartments start around EUR 800-1,000 per month outside the centre. Eindhoven and Tilburg are also significantly cheaper than Amsterdam, Rotterdam, or Utrecht. The cheapest option overall is typically a smaller city in the northern or eastern Netherlands — Leeuwarden, Zwolle, or Deventer — though these offer fewer international job opportunities and English-speaking communities."
+products:
+  - name: "HousingAnywhere"
+    url: "https://housinganywhere.com/"
+    price: "0.00"
+  - name: "Pararius"
+    url: "https://www.pararius.com/"
+    price: "0.00"
+  - name: "Funda"
+    url: "https://www.funda.nl/"
+    price: "0.00"
 ---
 
 Before I moved here, I Googled "cost of living Netherlands" and found numbers that turned out to be wildly inaccurate. The reality is more layered -- your monthly expenses depend hugely on which city you pick, whether you cycle or drive, and how often you resist the call of a terrasje on a sunny afternoon. After more than a decade of living here and helping clients plan their budgets, I have put together the most realistic breakdown I can for 2026.

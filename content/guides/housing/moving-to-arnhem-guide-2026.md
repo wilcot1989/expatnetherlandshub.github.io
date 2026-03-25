@@ -23,6 +23,16 @@ faq:
     a: "Arnhem has built a genuine identity as a fashion city, centred on the Fashion & Design department at ArtEZ University of the Arts. The area known informally as the Arnhem Fashion Quarter is largely based around the Klarendal neighbourhood, where independent boutiques, ateliers, and concept stores run by ArtEZ graduates have taken over former social housing properties. The annual Arnhem Mode Biennale attracts international fashion professionals. For expats in creative industries, this gives Arnhem a distinct identity that few Dutch cities outside Amsterdam can offer."
   - q: "Is the Veluwe easy to access from Arnhem?"
     a: "The Veluwe National Park — the largest nature reserve in the Netherlands, covering 900 square kilometres of heathland, forest, and sand dunes — begins within cycling distance of Arnhem's eastern and northern edges. The Hoge Veluwe National Park, which includes the Kröller-Müller Museum with one of the world's largest Van Gogh collections, is accessible by bike from the city in 45-60 minutes or by bus from the centre. Sonsbeekpark, within the city itself, connects to the wider green belt. For expats who want urban convenience with immediate nature access, the Arnhem location is genuinely exceptional."
+products:
+  - name: "HousingAnywhere"
+    url: "https://housinganywhere.com/"
+    price: "0.00"
+  - name: "Pararius"
+    url: "https://www.pararius.com/"
+    price: "0.00"
+  - name: "Funda"
+    url: "https://www.funda.nl/"
+    price: "0.00"
 ---
 
 I have been placing expat clients in Dutch cities for over a decade, and Arnhem is consistently the one that surprises people most. They come expecting a quiet, unremarkable regional city somewhere in the east, and they find something that is harder to categorise: a place where forested heathland begins where the suburbs end, where a fashion quarter has grown organically out of a deprived neighbourhood, and where the shadow of one of the Second World War's most famous battles still shapes how the city thinks about itself.

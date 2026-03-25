@@ -10,6 +10,16 @@ affiliate: true
 author: "Sarah van den Berg"
 author_bio: "Expat coach and relocation specialist. Half Dutch, half British, living in the Netherlands for over 10 years."
 featured_image: "/images/categories/finance.svg"
+products:
+  - name: "Wise"
+    url: "https://wise.com/invite/ihpc/willemt52"
+    price: "0.00"
+  - name: "bunq"
+    url: "https://www.bunq.com/"
+    price: "2.99"
+  - name: "ING"
+    url: "https://www.ing.nl/particulier"
+    price: "0.00"
 faq:
   - q: "What IBAN does Wise give you in the Netherlands?"
     a: "Wise gives you a Belgian IBAN (BE prefix). This is significantly better for life in the Netherlands than Revolut's Lithuanian IBAN or N26's German IBAN. Belgian IBANs are accepted by most Dutch employers for salary payments, most landlords for rent, and most utility providers for direct debits. You will occasionally encounter a company that insists on a Dutch NL IBAN, but this is far less common with a BE IBAN than with LT or DE IBANs."

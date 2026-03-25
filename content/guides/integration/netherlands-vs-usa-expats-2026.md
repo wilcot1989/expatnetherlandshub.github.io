@@ -26,6 +26,16 @@ faq:
     a: "The Dutch highly skilled migrant visa (kennismigrant) is typically processed in 2-4 weeks once your employer submits the application through an IND-recognised sponsor. You need a job offer from a Dutch employer, and the minimum salary threshold is approximately EUR 5,008/month gross (age 30+) or EUR 3,672 (under 30) in 2026. Your partner receives an open work permit. This is significantly faster than most US visa processes for Europeans."
   - q: "Can I retire in the Netherlands as an American?"
     a: "Yes, though it requires either Dutch residency through another route (family, long-term residence) or sufficient passive income. Americans who have built savings and want a high-quality European retirement find the Netherlands attractive: excellent healthcare, safe cities, strong infrastructure, and proximity to the rest of Europe. The pension treaty between the US and the Netherlands prevents double taxation of US Social Security benefits and Dutch AOW pension payments."
+products:
+  - name: "Babbel"
+    url: "https://www.babbel.com/"
+    price: "6.99"
+  - name: "Meetup"
+    url: "https://www.meetup.com/"
+    price: "0.00"
+  - name: "DutchPod101"
+    url: "https://www.dutchpod101.com/"
+    price: "0.00"
 ---
 
 Last autumn, I had a client — let's call her Megan — who arrived in Amsterdam from San Francisco in a complete state of overwhelm. She had researched the Netherlands thoroughly. Read every expat blog, watched countless YouTube videos, downloaded the IND app. She thought she was prepared. Three weeks in, she called me in a mild panic. Not about the visa, not about the language, not about finding a flat. She was upset because her Dutch manager had told her, directly and in front of the whole team, that her presentation had been too vague and needed more data. "He said it like it was nothing," she told me. "Nobody said anything. Am I supposed to just accept that?"

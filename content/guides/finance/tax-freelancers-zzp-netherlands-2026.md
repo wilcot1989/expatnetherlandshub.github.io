@@ -14,6 +14,16 @@ keywords: ["zzp tax netherlands", "freelancer tax netherlands 2026", "dutch free
 affiliate: true
 schema_type: "Article"
 toc: true
+products:
+  - name: "Wise"
+    url: "https://wise.com/invite/ihpc/willemt52"
+    price: "0.00"
+  - name: "Expatax"
+    url: "https://www.expatax.nl/"
+    price: "0.00"
+  - name: "Blue Umbrella"
+    url: "https://www.blueumbrella.nl/"
+    price: "0.00"
 faq:
   - q: "Do I need to register for BTW (VAT) as a ZZP freelancer in the Netherlands?"
     a: "In most cases, yes. When you register your eenmanszaak at the KvK, the Belastingdienst automatically assesses whether you need a BTW number. Almost all freelancers providing services or goods are required to charge BTW and file quarterly (or annual) returns. The main exception is the KOR scheme — if your annual revenue is below €20,000, you can choose to opt in to the kleineondernemersregeling and be exempt from charging BTW."

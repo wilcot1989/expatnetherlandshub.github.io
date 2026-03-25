@@ -7,6 +7,16 @@ categories: ["daily-life"]
 tags: ["streaming netherlands", "netflix netherlands", "vpn streaming", "dutch tv expats", "videoland", "npo start", "ziggo sport", "expat entertainment"]
 keywords: ["streaming netherlands expats", "netflix netherlands library", "bbc iplayer netherlands vpn", "dutch tv english subtitles", "videoland expat", "tv netherlands expats 2026"]
 affiliate: true
+products:
+  - name: "NordVPN"
+    url: "https://go.nordvpn.net/aff_c?offer_id=612&aff_id=141337"
+    price: "3.49"
+  - name: "NordPass"
+    url: "https://go.nordvpn.net/aff_c?offer_id=488&aff_id=141337"
+    price: "1.49"
+  - name: "KPN"
+    url: "https://www.kpn.com/"
+    price: "0.00"
 author: "Sarah van den Berg"
 author_bio: "Expat coach and relocation specialist. Half Dutch, half British, living in the Netherlands for over 10 years."
 featured_image: "/images/categories/daily-life.svg"

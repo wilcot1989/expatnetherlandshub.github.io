@@ -13,6 +13,16 @@ keywords: ["business bank account netherlands freelancer", "zakelijke rekening z
 affiliate: true
 schema_type: "Article"
 toc: true
+products:
+  - name: "Wise"
+    url: "https://wise.com/invite/ihpc/willemt52"
+    price: "0.00"
+  - name: "bunq"
+    url: "https://www.bunq.com/"
+    price: "2.99"
+  - name: "ING"
+    url: "https://www.ing.nl/particulier"
+    price: "0.00"
 faq:
   - q: "Do I legally need a separate business bank account as a ZZP freelancer in the Netherlands?"
     a: "Legally, sole traders (eenmanszaak) are not obliged to keep a separate business account. However, the Belastingdienst strongly recommends it, and mixing accounts frequently triggers extra scrutiny during tax audits. Most accountants consider it non-negotiable in practice."

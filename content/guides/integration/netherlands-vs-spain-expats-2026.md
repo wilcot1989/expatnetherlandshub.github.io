@@ -24,6 +24,16 @@ faq:
     a: "Both are excellent for families but in different ways. The Netherlands has very high-quality schools (international and Dutch), excellent cycling infrastructure for children, predictable bureaucracy, and world-class childcare standards. Spain offers better weather, a strong family culture, generally cheaper childcare and housing, and a more relaxed pace of life. The Netherlands scores higher for formal systems and services; Spain scores higher for lifestyle and outdoor family life."
   - q: "How is the housing market different in Spain vs the Netherlands?"
     a: "The Dutch housing market is one of the tightest in Europe — low inventory, high demand, fast-moving, with average house prices in Amsterdam exceeding EUR 500,000. Renting is competitive and expensive. Spain's housing market is more varied: Madrid and Barcelona have seen strong price growth, but other cities (Valencia, Seville, Malaga) remain more affordable. Property is easier to buy as a foreigner in Spain than in the Netherlands, where limited supply creates barriers even for Dutch nationals."
+products:
+  - name: "Babbel"
+    url: "https://www.babbel.com/"
+    price: "6.99"
+  - name: "Meetup"
+    url: "https://www.meetup.com/"
+    price: "0.00"
+  - name: "DutchPod101"
+    url: "https://www.dutchpod101.com/"
+    price: "0.00"
 ---
 
 I get this question at least twice a week from expat clients sitting at a crossroads: the Netherlands or Spain? Both are EU countries, both have established expat communities, both have strong quality-of-life rankings. But they are, in almost every way that matters for daily life, completely different places. I have spent ten years in the Netherlands and have advised dozens of clients who have moved to or from Spain. This comparison is the most direct version of that guidance I can give you.

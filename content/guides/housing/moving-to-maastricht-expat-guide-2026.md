@@ -23,6 +23,16 @@ faq:
     a: "Book an appointment at Gemeente Maastricht, bring your passport and proof of address, and register to receive your BSN (citizen service number). EU citizens can stay indefinitely; non-EU citizens need a valid residence permit first."
   - q: "Is Maastricht far from Amsterdam?"
     a: "It takes about 2.5 hours by direct Intercity train from Amsterdam Centraal. It is closer to Liège (30 min), Aachen (45 min), and Brussels (1.5 hours) than to most Dutch cities."
+products:
+  - name: "HousingAnywhere"
+    url: "https://housinganywhere.com/"
+    price: "0.00"
+  - name: "Kamernet"
+    url: "https://kamernet.nl/"
+    price: "0.00"
+  - name: "Pararius"
+    url: "https://www.pararius.com/"
+    price: "0.00"
 ---
 
 I have a confession: I nearly moved to Utrecht.

@@ -10,6 +10,16 @@ affiliate: true
 author: "Sarah van den Berg"
 author_bio: "Expat coach and relocation specialist. Half Dutch, half British, living in the Netherlands for over 10 years."
 featured_image: "/images/categories/finance.svg"
+products:
+  - name: "Wise"
+    url: "https://wise.com/invite/ihpc/willemt52"
+    price: "0.00"
+  - name: "bunq"
+    url: "https://www.bunq.com/"
+    price: "2.99"
+  - name: "ING"
+    url: "https://www.ing.nl/particulier"
+    price: "0.00"
 faq:
   - q: "Which bank is free for students in the Netherlands?"
     a: "ING offers a free current account for students and anyone under 28. ABN AMRO's Studentenpakket is free until age 30. Both require a BSN and proof of enrolment to activate the free tier. After the age limit, the account automatically switches to a standard paid account unless you cancel or switch."

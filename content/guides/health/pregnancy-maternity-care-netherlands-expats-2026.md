@@ -7,6 +7,16 @@ categories: ["health"]
 tags: ["pregnancy netherlands", "maternity care", "verloskundige", "kraamzorg", "expat pregnancy", "dutch midwife"]
 keywords: ["pregnancy netherlands expat", "maternity care netherlands", "verloskundige expat", "kraamzorg explained", "dutch midwife system expat guide"]
 affiliate: true
+products:
+  - name: "SafetyWing"
+    url: "https://safetywing.com/nomad-insurance/?referenceID=26482728"
+    price: "45.08"
+  - name: "CZ"
+    url: "https://www.cz.nl/"
+    price: "0.00"
+  - name: "Zilveren Kruis"
+    url: "https://www.zilverenkruis.nl/"
+    price: "0.00"
 author: "Sarah van den Berg"
 author_bio: "Expat coach and relocation specialist. Half Dutch, half British, living in the Netherlands for over 10 years."
 featured_image: "/images/categories/health.svg"

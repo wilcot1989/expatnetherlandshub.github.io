@@ -21,6 +21,16 @@ faq:
     a: "Sports clubs and local verenigingen (associations) are consistently the most effective. You show up regularly, you see the same people, and a shared activity gives you something to talk about beyond small talk. Language classes and volunteer work are close behind."
   - q: "Is loneliness common among expats in the Netherlands?"
     a: "Very. Surveys consistently show expats in the Netherlands rate social connection as one of their biggest challenges, despite loving the country in most other respects. You are not doing something wrong if you feel isolated in your first year. It is a known pattern."
+products:
+  - name: "Babbel"
+    url: "https://www.babbel.com/"
+    price: "6.99"
+  - name: "Meetup"
+    url: "https://www.meetup.com/"
+    price: "0.00"
+  - name: "DutchPod101"
+    url: "https://www.dutchpod101.com/"
+    price: "0.00"
 ---
 
 I moved to the Netherlands from London nine years ago, full of optimism and a vague idea that making friends here would be roughly the same as making friends anywhere. I had a job lined up, a flat in Utrecht, and what I thought was a reasonable social personality. Within three months, I was spending Saturday evenings alone wondering where I had gone wrong.

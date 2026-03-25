@@ -23,6 +23,16 @@ faq:
     a: "Tilburg is on the main Intercity line between Amsterdam and Eindhoven via Den Bosch. Direct trains to Den Bosch take 20 minutes, to Eindhoven 20 minutes, to Breda 20 minutes, and to Amsterdam 1 hour 25 minutes. Utrecht is about 55 minutes away. For expats working in the Eindhoven tech cluster (ASML, NXP, DAF) or in Den Bosch, Tilburg is a realistic base with meaningfully lower rents."
   - q: "Is Dutch required to live in Tilburg?"
     a: "In daily life, Dutch is more commonly used in Tilburg than in Amsterdam — shop staff, neighbours, and service providers will often default to Dutch first. In professional and academic environments, English is standard. Most expats in Tilburg invest in basic Dutch fairly quickly, not because it is strictly required but because it makes social life in a Brabant city considerably more enjoyable. Tilburgers are friendly and will meet you halfway, but learning even conversational Dutch opens doors in a way that does not apply as strongly in Amsterdam."
+products:
+  - name: "HousingAnywhere"
+    url: "https://housinganywhere.com/"
+    price: "0.00"
+  - name: "Pararius"
+    url: "https://www.pararius.com/"
+    price: "0.00"
+  - name: "Funda"
+    url: "https://www.funda.nl/"
+    price: "0.00"
 ---
 
 I have sent a number of clients to Tilburg over the years — most of them initially resistant to the idea. They had heard of Amsterdam, Utrecht, maybe Eindhoven, but Tilburg? The tenth-largest city in the Netherlands does not get much attention in expat circles, and I have never quite understood why. Once they settled in, most of them told me some version of the same thing: I expected it to be a stopgap. It turned out to be a place I actually want to live.

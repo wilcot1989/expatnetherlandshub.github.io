@@ -23,6 +23,16 @@ faq:
     a: "Volunteering itself is not a formal part of the inburgeringsexamen, but it is strongly recommended by integration advisors. It builds Dutch language skills, creates social networks, adds to your understanding of Dutch culture and community norms, and demonstrates civic participation. Some municipalities will credit volunteer activities in civic integration assessments."
   - q: "Can I volunteer at an organisation related to my professional skills?"
     a: "Absolutely. Skill-based volunteering is well-developed in the Netherlands. Legal professionals volunteer at rechtswinkels (free legal advice shops), accountants help non-profits with their books, marketers support charities' communications. Platforms like Thuisafgesproken.nl and ProDeo facilitate skill-based volunteering for professionals."
+products:
+  - name: "Babbel"
+    url: "https://www.babbel.com/"
+    price: "6.99"
+  - name: "Meetup"
+    url: "https://www.meetup.com/"
+    price: "0.00"
+  - name: "DutchPod101"
+    url: "https://www.dutchpod101.com/"
+    price: "0.00"
 ---
 
 One of the best decisions I made in my first year in the Netherlands was signing up to volunteer at a food bank. My Dutch was basic and my social network was thin. Within three months, I had a weekly routine that got me out of my flat, regular Dutch conversation practice, a growing understanding of how Dutch community organisations work, and friendships with people I would never have met any other way.

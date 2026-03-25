@@ -10,6 +10,16 @@ affiliate: true
 author: "Sarah van den Berg"
 author_bio: "Expat coach and relocation specialist. Half Dutch, half British, living in the Netherlands for over 10 years."
 featured_image: "/images/categories/finance.svg"
+products:
+  - name: "Wise"
+    url: "https://wise.com/invite/ihpc/willemt52"
+    price: "0.00"
+  - name: "bunq"
+    url: "https://www.bunq.com/"
+    price: "2.99"
+  - name: "ING"
+    url: "https://www.ing.nl/particulier"
+    price: "0.00"
 faq:
   - q: "What are toeslagen and who can claim them?"
     a: "Toeslagen (allowances) are income-dependent government subsidies paid by the Belastingdienst (Dutch tax authority) to help people with specific costs: health insurance, rent, childcare, and children's costs. Any resident of the Netherlands who meets the income and eligibility criteria can claim them — you do not need to be a Dutch citizen. Expats registered with the BRP (citizen register) and paying Dutch taxes are generally entitled to the same toeslagen as Dutch nationals, provided their household income is within the applicable limits."

@@ -25,6 +25,16 @@ faq:
     a: "Turkish is effectively a community language in the Netherlands. In areas like Feijenoord in Rotterdam and parts of Amsterdam-Oost, you can live day-to-day in Turkish. Dutch state media broadcast Turkish-language programs, and Turkish-language newspapers and online media operate freely. However, for professional life and integration, learning Dutch remains important — particularly for long-term residency and naturalisation."
   - q: "Can I use Wise to send money between the Netherlands and Turkey?"
     a: "Yes. Wise supports EUR-to-TRY transfers and is particularly useful for this corridor given Turkey's exchange rate volatility. You lock in the rate at the time of transfer and avoid the hidden margins that banks typically apply. This is especially valuable when the lira fluctuates significantly, as it has in recent years."
+products:
+  - name: "Babbel"
+    url: "https://www.babbel.com/"
+    price: "6.99"
+  - name: "Meetup"
+    url: "https://www.meetup.com/"
+    price: "0.00"
+  - name: "DutchPod101"
+    url: "https://www.dutchpod101.com/"
+    price: "0.00"
 ---
 
 I have advised dozens of expats who are weighing the Netherlands against Turkey — and the two countries are about as different as it gets within the broader expat consideration set. One is a stable, high-tax, high-wage northwestern European welfare state with excellent infrastructure and notoriously blunt locals. The other is a vast, rapidly evolving transcontinental country with a lower cost of living, a warmer climate, spectacular food, and a far more unpredictable economic environment.

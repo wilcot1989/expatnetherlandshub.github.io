@@ -28,6 +28,16 @@ faq:
     a: "The Netherlands has a reputation for relatively efficient bureaucracy — BSN registration, DigiD, and most government processes work online in a reasonable timeframe. France has a reputation for significantly more paperwork, in-person appointments, and slower processing times. The French tax system is also more complex for expats, with more deductions and allowances to track. That said, both countries can frustrate foreign nationals, and neither is simple when it comes to residency permits for non-EU nationals."
   - q: "Can I use Wise for international transfers between the Netherlands and France?"
     a: "Yes. Wise works in both countries and is particularly useful for expats who have financial ties in multiple European countries — paying French landlords, receiving Dutch salaries, managing euros across multiple accounts. The EUR-to-EUR transfer is less relevant within the eurozone (as both countries use the euro), but Wise's multi-currency accounts and borderless banking features are useful for anyone with income or expenses in non-euro currencies."
+products:
+  - name: "Babbel"
+    url: "https://www.babbel.com/"
+    price: "6.99"
+  - name: "Meetup"
+    url: "https://www.meetup.com/"
+    price: "0.00"
+  - name: "DutchPod101"
+    url: "https://www.dutchpod101.com/"
+    price: "0.00"
 ---
 
 I have spent ten years in the Netherlands. But I have also spent enough time in France — for work, for family, for extended stays — to know that the comparison between the two countries is more interesting and more equal than most expat guides acknowledge.

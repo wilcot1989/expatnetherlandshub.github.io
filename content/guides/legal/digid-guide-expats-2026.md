@@ -7,6 +7,16 @@ categories: ["daily-life"]
 tags: ["DigiD", "digital identity", "Dutch bureaucracy", "government services", "BSN"]
 keywords: ["DigiD Netherlands", "DigiD expat", "how to get DigiD", "Dutch digital identity"]
 affiliate: true
+products:
+  - name: "IND"
+    url: "https://ind.nl/en"
+    price: "0.00"
+  - name: "Expatax"
+    url: "https://www.expatax.nl/"
+    price: "0.00"
+  - name: "Wise"
+    url: "https://wise.com/invite/ihpc/willemt52"
+    price: "0.00"
 author: "Sarah van den Berg"
 author_bio: "Expat coach and relocation specialist. Half Dutch, half British, living in the Netherlands for over 10 years."
 featured_image: "/images/featured/digid-guide-expats-2026.webp"

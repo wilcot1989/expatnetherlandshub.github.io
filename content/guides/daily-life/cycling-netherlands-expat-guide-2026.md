@@ -7,6 +7,16 @@ categories: ["daily-life"]
 tags: ["cycling", "bicycle netherlands", "swapfiets", "bike rules", "dutch cycling", "ov-fiets", "bike theft"]
 keywords: ["cycling netherlands", "buy bicycle netherlands", "swapfiets review", "dutch bike rules", "cycling expat guide"]
 affiliate: true
+products:
+  - name: "Wise"
+    url: "https://wise.com/invite/ihpc/willemt52"
+    price: "0.00"
+  - name: "Swapfiets"
+    url: "https://swapfiets.nl/"
+    price: "16.90"
+  - name: "NS"
+    url: "https://www.ns.nl/"
+    price: "0.00"
 author: "Sarah van den Berg"
 author_bio: "Expat coach and relocation specialist. Half Dutch, half British, living in the Netherlands for over 10 years."
 featured_image: "/images/featured/cycling-netherlands-expat-guide-2026.webp"

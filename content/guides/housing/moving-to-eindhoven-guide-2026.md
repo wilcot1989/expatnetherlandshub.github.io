@@ -23,6 +23,16 @@ faq:
     a: "The Eindhoven housing market is tight due to Brainport growth, but more affordable than Amsterdam or Utrecht. Average rent for a 2-bedroom: €1,000-€1,500/month. Buying prices: €3,500-€5,000/m². Many new developments are planned. Start searching 4-6 weeks before your move."
   - q: "Does Eindhoven have international schools?"
     a: "Yes, the International School Eindhoven (ISE) offers IB curriculum from age 4-18. The Mondial College has an International Transition Class. Tuition at ISE ranges from €8,000-€18,000/year. Many tech companies cover or subsidize school fees as part of relocation packages."
+products:
+  - name: "HousingAnywhere"
+    url: "https://housinganywhere.com/"
+    price: "0.00"
+  - name: "Pararius"
+    url: "https://www.pararius.com/"
+    price: "0.00"
+  - name: "Funda"
+    url: "https://www.funda.nl/"
+    price: "0.00"
 ---
 
 I will be honest: when I first visited Eindhoven years ago, I did not get the hype. It felt quiet compared to Amsterdam. Then I started working with clients relocating there for ASML, Philips, and the tech startups popping up everywhere, and I saw what they saw -- affordable housing, a genuinely international community, and a city that is growing fast without the chaos of the Randstad. I have come to really appreciate Eindhoven, and if you are moving there, you are in for a pleasant surprise.

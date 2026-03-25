@@ -19,6 +19,16 @@ faq:
     a: "Leiden does not have its own international school within the city, but there are well-regarded options within easy reach. The International School of The Hague (ISH) offers IB and British-style education and is about 20 minutes away by train. Amersfoort International School and Rijnlands Lyceum Oegstgeest (which has an international stream) are also used by expat families in the area. Several Leiden-based families also use Rijnlands Lyceum in nearby Wassenaar. For younger children, there are a handful of English-language nurseries and playgroups in Leiden itself."
   - q: "Do I need to speak Dutch to live in Leiden?"
     a: "Not immediately. Leiden has a large international population thanks to Leiden University and the biotech/pharma cluster, and English is widely spoken in shops, restaurants, and most services. The university runs many degree programmes entirely in English, which means international students and staff are a permanent part of city life. That said, I always recommend putting serious effort into learning Dutch. It makes everything easier — from dealing with your landlord to seeing a GP — and the Dutch genuinely appreciate the effort. Leiden itself has good Dutch language course options, including through the Volksuniversiteit Leiden."
+products:
+  - name: "HousingAnywhere"
+    url: "https://housinganywhere.com/"
+    price: "0.00"
+  - name: "Kamernet"
+    url: "https://kamernet.nl/"
+    price: "0.00"
+  - name: "Pararius"
+    url: "https://www.pararius.com/"
+    price: "0.00"
 ---
 
 The first time I visited Leiden, I missed my stop. I was on the intercity train from Amsterdam, half-reading something on my phone, and when I finally looked up I caught a glimpse of a canal cutting through a row of old brick gable houses and thought: *wait, where am I?* By the time I realised it was Leiden, the doors had closed and I was heading to The Hague. I got off at Voorburg, crossed the platform, and came back.

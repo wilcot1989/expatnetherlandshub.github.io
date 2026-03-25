@@ -10,6 +10,16 @@ affiliate: true
 author: "Sarah van den Berg"
 author_bio: "Expat coach and relocation specialist. Half Dutch, half British, living in the Netherlands for over 10 years."
 featured_image: "/images/featured/expat-tax-return-netherlands-2026.webp"
+products:
+  - name: "Wise"
+    url: "https://wise.com/invite/ihpc/willemt52"
+    price: "0.00"
+  - name: "Expatax"
+    url: "https://www.expatax.nl/"
+    price: "0.00"
+  - name: "Blue Umbrella"
+    url: "https://www.blueumbrella.nl/"
+    price: "0.00"
 faq:
   - q: "Do I need to file a tax return in the Netherlands as an expat?"
     a: "If you lived in the Netherlands for the full year: yes, if you're invited by the Belastingdienst (tax authority) or if you expect a refund. If you arrived or left mid-year: you must file an M-form (migration form). Employed expats with only salary income and no deductions may have already paid the correct amount via payroll tax."

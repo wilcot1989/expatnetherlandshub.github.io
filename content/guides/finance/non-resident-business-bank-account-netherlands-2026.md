@@ -13,6 +13,16 @@ keywords: ["non-resident business bank account netherlands", "open dutch busines
 affiliate: true
 schema_type: "Article"
 toc: true
+products:
+  - name: "Wise"
+    url: "https://wise.com/invite/ihpc/willemt52"
+    price: "0.00"
+  - name: "bunq"
+    url: "https://www.bunq.com/"
+    price: "2.99"
+  - name: "ING"
+    url: "https://www.ing.nl/particulier"
+    price: "0.00"
 faq:
   - q: "Can I open a Dutch business bank account if I don't live in the Netherlands?"
     a: "Yes, but your options are limited. Traditional banks like ING and ABN AMRO almost always require Dutch residency and an in-person appointment. Bunq Business will sometimes work with non-resident directors if the BV itself is registered in the Netherlands. Wise Business is currently the most accessible option for non-residents — you can open an account remotely with a KvK number and valid passport, and it gives you a Dutch IBAN."

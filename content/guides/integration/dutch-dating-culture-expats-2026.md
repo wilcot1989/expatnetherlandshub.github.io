@@ -23,6 +23,16 @@ faq:
     a: "In major cities like Amsterdam, Rotterdam, and Utrecht, you can date entirely in English without difficulty. Most Dutch people in their 20s and 30s are fluent. That said, learning even basic Dutch earns significant goodwill and shows you take the country seriously — which Dutch people genuinely appreciate. See our guide on the best apps to learn Dutch for a practical starting point."
   - q: "What do Dutch people find attractive in a partner?"
     a: "Independence is probably number one. Dutch culture places enormous value on self-sufficiency, and someone who has their own life, their own opinions, and their own plans is far more appealing than someone who revolves entirely around their partner. Directness, a dry sense of humor, and not taking yourself too seriously also go a long way."
+products:
+  - name: "Babbel"
+    url: "https://www.babbel.com/"
+    price: "6.99"
+  - name: "Meetup"
+    url: "https://www.meetup.com/"
+    price: "0.00"
+  - name: "DutchPod101"
+    url: "https://www.dutchpod101.com/"
+    price: "0.00"
 ---
 
 I met my Dutch partner at a borrel. For anyone unfamiliar with this concept, a borrel is essentially a standing-around-drinking-wine-while-pretending-to-network social event that the Dutch have elevated into a full cultural institution. He approached me, said he liked my accent, asked where I was from, and then — before I could even answer — told me that he had heard British people were terrible at direct communication and wanted to know if I was going to be one of those.

@@ -10,6 +10,16 @@ affiliate: true
 author: "Sarah van den Berg"
 author_bio: "Expat coach and relocation specialist. Half Dutch, half British, living in the Netherlands for over 10 years."
 featured_image: "/images/categories/finance.svg"
+products:
+  - name: "Wise"
+    url: "https://wise.com/invite/ihpc/willemt52"
+    price: "0.00"
+  - name: "bunq"
+    url: "https://www.bunq.com/"
+    price: "2.99"
+  - name: "ING"
+    url: "https://www.ing.nl/particulier"
+    price: "0.00"
 faq:
   - q: "Which fintech gives you a Dutch IBAN?"
     a: "bunq is the only one of the three that gives you a genuine Dutch IBAN starting with NL. Wise gives you a Belgian IBAN (BE), and Revolut gives you a Lithuanian IBAN (LT). In the Netherlands, a Dutch IBAN matters for rent payments, direct debits with Dutch utilities, and some employers' payroll systems. If a Dutch IBAN is your priority, bunq is the answer."

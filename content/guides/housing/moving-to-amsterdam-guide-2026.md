@@ -25,6 +25,16 @@ faq:
     a: "Finding housing in Amsterdam is competitive. Use platforms like Funda, Pararius, and Kamernet. Consider hiring a relocation agent (typical fee is one month's rent). Start searching 4-6 weeks before your move. Be prepared to act quickly: good apartments are rented within days. Budget at least EUR 1,200-1,800 per month for a one-bedroom apartment."
   - q: "What is the best time to move to Amsterdam?"
     a: "Spring (April-May) and late summer (August-September) are the most popular times. The housing market is slightly less competitive in winter (November-February), which can be advantageous. If you have children, aim to arrive before the school year starts in late August or early September."
+products:
+  - name: "HousingAnywhere"
+    url: "https://housinganywhere.com/"
+    price: "0.00"
+  - name: "Pararius"
+    url: "https://www.pararius.com/"
+    price: "0.00"
+  - name: "Funda"
+    url: "https://www.funda.nl/"
+    price: "0.00"
 ---
 
 Amsterdam is where I landed when I first moved to the Netherlands, and I have a complicated relationship with it. I love the canals, the energy, the fact that you can cycle everywhere. I do not love the housing prices, the tourist crowds in the Centrum, or the time I spent three months looking for an apartment and nearly gave up. But there is a reason most expats are drawn here, and once you are settled, it is a brilliant city to call home. Here is the honest guide I wish I had when I arrived.

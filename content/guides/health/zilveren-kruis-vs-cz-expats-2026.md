@@ -7,6 +7,16 @@ categories: ["health"]
 tags: ["Zilveren Kruis", "CZ", "health insurance", "zorgverzekering", "insurance comparison"]
 keywords: ["Zilveren Kruis vs CZ expats", "best health insurance expats Netherlands", "Zilveren Kruis CZ comparison", "Dutch health insurance 2026"]
 affiliate: true
+products:
+  - name: "SafetyWing"
+    url: "https://safetywing.com/nomad-insurance/?referenceID=26482728"
+    price: "45.08"
+  - name: "CZ"
+    url: "https://www.cz.nl/"
+    price: "0.00"
+  - name: "Zilveren Kruis"
+    url: "https://www.zilverenkruis.nl/"
+    price: "0.00"
 author: "Sarah van den Berg"
 author_bio: "Expat coach and relocation specialist. Half Dutch, half British, living in the Netherlands for over 10 years."
 featured_image: "/images/featured/zilveren-kruis-vs-cz-expats-2026.webp"

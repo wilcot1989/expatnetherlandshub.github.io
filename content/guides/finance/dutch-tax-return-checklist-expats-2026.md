@@ -10,6 +10,16 @@ affiliate: true
 author: "Sarah van den Berg"
 author_bio: "Expat coach and relocation specialist. Half Dutch, half British, living in the Netherlands for over 10 years."
 featured_image: "/images/featured/dutch-tax-return-checklist-expats-2026.webp"
+products:
+  - name: "Wise"
+    url: "https://wise.com/invite/ihpc/willemt52"
+    price: "0.00"
+  - name: "Expatax"
+    url: "https://www.expatax.nl/"
+    price: "0.00"
+  - name: "Blue Umbrella"
+    url: "https://www.blueumbrella.nl/"
+    price: "0.00"
 faq:
   - q: "What documents do I need for my Dutch tax return?"
     a: "Your jaaropgave (annual income statement from employer), DigiD login credentials, BSN number, bank statements showing savings on January 1st, mortgage annual statement (if applicable), health insurance premium summary, pension contribution overview, and any receipts for deductible expenses (charitable donations, study costs, medical expenses above threshold)."

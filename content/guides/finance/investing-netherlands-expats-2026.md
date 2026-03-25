@@ -6,10 +6,20 @@ description: "A practical guide to investing as an expat in the Netherlands. Tax
 categories: ["finance"]
 tags: ["investing", "Box 3", "vermogensbelasting", "ETF", "expat finance"]
 keywords: ["investing Netherlands expat", "Box 3 tax expats", "best investment platform Netherlands", "expat investing NL 2026"]
-affiliate: false
+affiliate: true
 author: "Sarah van den Berg"
 author_bio: "Expat coach and relocation specialist. Half Dutch, half British, living in the Netherlands for over 10 years."
 featured_image: "/images/featured/investing-netherlands-expats-2026.webp"
+products:
+  - name: "DeGiro"
+    url: "https://www.degiro.nl/"
+    price: "0.00"
+  - name: "Wise"
+    url: "https://wise.com/invite/ihpc/willemt52"
+    price: "0.00"
+  - name: "bunq"
+    url: "https://www.bunq.com/"
+    price: "2.99"
 faq:
   - q: "Do I pay tax on investment gains in the Netherlands?"
     a: "In the Netherlands, you do not pay tax on actual investment gains or dividends in the traditional sense. Instead, Box 3 wealth tax applies a deemed (fictional) return to your total net assets above the tax-free threshold of approximately EUR 57,000 per person (EUR 114,000 for fiscal partners). The deemed return percentages for 2026 are based on actual average market returns per asset category (savings, investments, debts), and the tax rate applied is approximately 36%. So even if your portfolio drops in value, a deemed return is still calculated — and if your portfolio grows more than the deemed rate, you keep the excess tax-free."

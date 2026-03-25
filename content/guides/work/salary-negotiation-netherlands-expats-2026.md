@@ -7,6 +7,16 @@ categories: ["work"]
 tags: ["salary", "negotiation", "employment", "30% ruling", "gross net"]
 keywords: ["salary negotiation netherlands", "dutch salary expat", "how to negotiate salary netherlands", "average salary netherlands 2026"]
 affiliate: true
+products:
+  - name: "LinkedIn Premium"
+    url: "https://www.linkedin.com/premium/"
+    price: "29.99"
+  - name: "Undutchables"
+    url: "https://undutchables.nl/"
+    price: "0.00"
+  - name: "Together Abroad"
+    url: "https://www.togetherabroad.nl/"
+    price: "0.00"
 author: "Sarah van den Berg"
 author_bio: "Expat coach and relocation specialist. Half Dutch, half British, living in the Netherlands for over 10 years."
 featured_image: "/images/categories/work.svg"

@@ -8,7 +8,7 @@ author_bio: "Expat coach and relocation specialist. Half Dutch, half British, li
 categories: ["finance"]
 type: "guide"
 featured_image: "/images/featured/dutch-tax-return-how-to-file-2026.webp"
-affiliate: false
+affiliate: true
 description: "How to file your Dutch tax return as an expat in 2026. Step-by-step, deadlines, boxes, 30% ruling, deductions and common mistakes explained."
 tags:
   - dutch tax return
@@ -17,7 +17,16 @@ tags:
   - mijn belastingdienst
   - 30 percent ruling
   - box 1 box 2 box 3
-
+products:
+  - name: "Wise"
+    url: "https://wise.com/invite/ihpc/willemt52"
+    price: "0.00"
+  - name: "Expatax"
+    url: "https://www.expatax.nl/"
+    price: "0.00"
+  - name: "Blue Umbrella"
+    url: "https://www.blueumbrella.nl/"
+    price: "0.00"
 faq:
   - q: "Do I have to file a Dutch tax return as an expat?"
     a: "Not everyone is legally required to file, but the Belastingdienst will send you an invitation letter if they believe you owe tax or are entitled to a refund. Even if you don't receive an invitation, it often pays to file voluntarily — especially if you have deductible expenses like mortgage interest or healthcare costs."

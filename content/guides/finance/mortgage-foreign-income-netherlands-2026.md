@@ -10,6 +10,16 @@ affiliate: true
 author: "Sarah van den Berg"
 author_bio: "Expat coach and relocation specialist. Half Dutch, half British, living in the Netherlands for over 10 years."
 featured_image: "/images/categories/finance.svg"
+products:
+  - name: "Wise"
+    url: "https://wise.com/invite/ihpc/willemt52"
+    price: "0.00"
+  - name: "bunq"
+    url: "https://www.bunq.com/"
+    price: "2.99"
+  - name: "ING"
+    url: "https://www.ing.nl/particulier"
+    price: "0.00"
 faq:
   - q: "Can I get a Dutch mortgage if I earn income from abroad?"
     a: "Yes, it is possible but more difficult than for Dutch residents with Dutch employment. Lenders assess foreign income on a case-by-case basis. Generally, you need a permanent contract (or its local equivalent), at least 2-3 years of documented income history, and in many cases a specialist mortgage advisor who works with international cases. Some lenders, including ING and ABN AMRO, have specific international mortgage desks."

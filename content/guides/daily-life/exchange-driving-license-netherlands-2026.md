@@ -8,7 +8,17 @@ author_bio: "Expat coach and relocation specialist. Half Dutch, half British, li
 categories: ["daily-life"]
 type: "guide"
 featured_image: "/images/featured/exchange-driving-license-netherlands-2026.webp"
-affiliate: false
+affiliate: true
+products:
+  - name: "Wise"
+    url: "https://wise.com/invite/ihpc/willemt52"
+    price: "0.00"
+  - name: "Swapfiets"
+    url: "https://swapfiets.nl/"
+    price: "16.90"
+  - name: "NS"
+    url: "https://www.ns.nl/"
+    price: "0.00"
 description: "How to exchange your foreign driving licence in the Netherlands. EU and non-EU rules, documents, costs, and what to do if your country is not listed."
 faq:
   - q: "Can I drive in the Netherlands on my foreign driving licence?"

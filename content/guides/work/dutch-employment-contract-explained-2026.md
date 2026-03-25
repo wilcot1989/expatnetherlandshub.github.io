@@ -7,6 +7,16 @@ categories: ["work"]
 tags: ["employment contract", "arbeidsovereenkomst", "labour law", "work rights", "vakantiegeld"]
 keywords: ["Dutch employment contract expat", "arbeidsovereenkomst explained", "Dutch labour law expats", "contract types Netherlands"]
 affiliate: false
+products:
+  - name: "LinkedIn Premium"
+    url: "https://www.linkedin.com/premium/"
+    price: "29.99"
+  - name: "Undutchables"
+    url: "https://undutchables.nl/"
+    price: "0.00"
+  - name: "Together Abroad"
+    url: "https://www.togetherabroad.nl/"
+    price: "0.00"
 author: "Sarah van den Berg"
 author_bio: "Expat coach and relocation specialist. Half Dutch, half British, living in the Netherlands for over 10 years."
 featured_image: "/images/featured/dutch-employment-contract-explained-2026.webp"

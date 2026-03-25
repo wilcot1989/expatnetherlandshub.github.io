@@ -29,6 +29,16 @@ faq:
     a: "Yes, significantly. Standard Dutch lenders calculate borrowing capacity based on your taxable income, not your gross income. With the 30% ruling, your taxable income is only 70% of your gross salary — which can reduce your maximum mortgage by €80,000–€150,000 on a typical expat salary. However, some expat-specialist lenders accept the full gross salary for calculation. This is one of the most important reasons to use an advisor who specialises in expat mortgages: the right lender can make a very large difference."
   - q: "Can I get a Dutch mortgage based on foreign income?"
     a: "It is possible but more difficult. If you earn income from abroad — for example, you are employed by a foreign company while living in the Netherlands, or you have rental income from property abroad — Dutch lenders will assess it case by case. You typically need a Dutch or EU employment contract, a Dutch salary payment into a Dutch account, and Dutch tax residency. Pure foreign-income cases (no Dutch employer) are handled by specialist lenders; a standard Dutch bank will usually decline. If this is your situation, work with an expat mortgage specialist from the outset."
+products:
+  - name: "Funda"
+    url: "https://www.funda.nl/"
+    price: "0.00"
+  - name: "Hypotheek Visie"
+    url: "https://www.hypotheekvisie.nl/"
+    price: "0.00"
+  - name: "Pararius"
+    url: "https://www.pararius.com/"
+    price: "0.00"
 ---
 
 After years of renting in the Netherlands, I finally decided to buy -- and immediately discovered that the 30% ruling, which had been saving me money on taxes, was now working against me when it came to mortgage borrowing capacity. Nobody had warned me about that. The process of buying a house as an expat is completely doable, but it comes with a few surprises. Here is the step-by-step guide I put together from my own experience and from helping clients through the process.

@@ -7,6 +7,16 @@ categories: ["daily-life"]
 tags: ["ov-chipkaart", "public transport netherlands", "ns trains", "dutch trains", "gvb amsterdam", "ov-fiets", "ns flex", "9292 app"]
 keywords: ["ov-chipkaart guide", "public transport netherlands", "ns train netherlands", "ov-chipkaart how to use", "dutch public transport expat", "ns flex subscription 2026"]
 affiliate: true
+products:
+  - name: "Wise"
+    url: "https://wise.com/invite/ihpc/willemt52"
+    price: "0.00"
+  - name: "Swapfiets"
+    url: "https://swapfiets.nl/"
+    price: "16.90"
+  - name: "NS"
+    url: "https://www.ns.nl/"
+    price: "0.00"
 author: "Sarah van den Berg"
 author_bio: "Expat coach and relocation specialist. Half Dutch, half British, living in the Netherlands for over 10 years."
 featured_image: "/images/featured/ov-chipkaart-guide-expats-2026.webp"

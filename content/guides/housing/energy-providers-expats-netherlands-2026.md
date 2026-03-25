@@ -23,6 +23,16 @@ faq:
     a: "Yes, you should arrange an energy contract before or on the day you move in. If you do not choose a provider, you will be assigned to the default supplier at higher rates. Compare and sign up at least 1 week before your move date."
   - q: "What is a smart meter and do I need one?"
     a: "A smart meter (slimme meter) sends your consumption data digitally to your provider, enabling accurate billing (no estimates) and is required for dynamic contracts. Your network operator installs it for free upon request. Over 90% of Dutch households now have one."
+products:
+  - name: "HousingAnywhere"
+    url: "https://housinganywhere.com/"
+    price: "0.00"
+  - name: "Pararius"
+    url: "https://www.pararius.com/"
+    price: "0.00"
+  - name: "Funda"
+    url: "https://www.funda.nl/"
+    price: "0.00"
 ---
 
 I accidentally left my energy contract on the default provider for six months after moving into my apartment and massively overpaid. Turns out, switching energy providers in the Netherlands is free and takes five minutes -- I just did not know that. It is one of those things nobody tells you when you arrive. Here is how to choose the right energy contract from the start so you do not repeat my expensive mistake.

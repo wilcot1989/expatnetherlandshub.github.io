@@ -10,6 +10,16 @@ affiliate: true
 author: "Sarah van den Berg"
 author_bio: "Expat coach and relocation specialist. Half Dutch, half British, living in the Netherlands for over 10 years."
 featured_image: "/images/categories/finance.svg"
+products:
+  - name: "Wise"
+    url: "https://wise.com/invite/ihpc/willemt52"
+    price: "0.00"
+  - name: "bunq"
+    url: "https://www.bunq.com/"
+    price: "2.99"
+  - name: "ING"
+    url: "https://www.ing.nl/particulier"
+    price: "0.00"
 faq:
   - q: "Do I lose my Dutch AOW pension if I leave the Netherlands?"
     a: "No. Every year you lived or worked in the Netherlands between age 15 and retirement age counts permanently. You keep 2% AOW per year, regardless of where you live when you retire. If you lived in the Netherlands for 10 years, you will receive 20% of the full AOW at Dutch retirement age (67), paid to your bank account anywhere in the world."

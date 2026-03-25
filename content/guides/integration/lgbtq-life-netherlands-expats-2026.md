@@ -24,6 +24,16 @@ faq:
     a: "Amsterdam is the undisputed leader, with a dedicated LGBTQ+ neighbourhood around Reguliersdwarsstraat and the Amstel. Utrecht, Rotterdam, and The Hague have active communities and annual Pride events. Eindhoven and Groningen are university cities with progressive cultures. Smaller towns and rural areas are significantly more conservative."
   - q: "Are there LGBTQ+ expat community groups in the Netherlands?"
     a: "Yes. COC Nederland is the national LGBTQ+ organisation with local chapters in most cities. Amsterdam has dedicated expat LGBTQ+ meetups through Meetup.com, Facebook groups, and venues like Cafe Reality and Soho. ILGA-Europe also maintains a resource list for LGBTQ+ migrants and asylum seekers."
+products:
+  - name: "Babbel"
+    url: "https://www.babbel.com/"
+    price: "6.99"
+  - name: "Meetup"
+    url: "https://www.meetup.com/"
+    price: "0.00"
+  - name: "DutchPod101"
+    url: "https://www.dutchpod101.com/"
+    price: "0.00"
 ---
 
 I moved to Amsterdam with my partner in 2016 and spent the first week half-expecting someone to notice us holding hands and react badly. Nobody did. A week in, we realised that our very public affection was utterly unremarkable in this city. That normalcy — that quiet, confident inclusion — is one of the things I love most about the Netherlands, and it is one of the things I hear most from LGBTQ+ expats who choose to stay long-term. But the Netherlands is not uniformly progressive, and there are still real challenges here that no relocation guide should gloss over. This is the honest version.

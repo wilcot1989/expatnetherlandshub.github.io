@@ -25,6 +25,16 @@ faq:
     a: "Pimsleur is worth the investment if your priority is speaking and pronunciation. Its audio-based method is uniquely effective for training your ear and building conversational confidence. At USD 14.95-20.99 per month, it is a premium option, but many learners find the speaking-focused approach delivers faster real-world results than text-based apps. It is particularly useful for commuters who can practice during travel."
   - q: "Should I learn Dutch or is English enough in the Netherlands?"
     a: "While you can survive in the Netherlands with English, especially in Amsterdam, Rotterdam, and The Hague, learning Dutch significantly improves your quality of life. It helps you read official letters and documents, connect more deeply with Dutch colleagues, deal with healthcare and government services more easily, and feel more at home. Most expats who plan to stay long-term find that learning at least basic Dutch is a must."
+products:
+  - name: "Babbel"
+    url: "https://www.babbel.com/"
+    price: "6.99"
+  - name: "DutchPod101"
+    url: "https://www.dutchpod101.com/"
+    price: "0.00"
+  - name: "italki"
+    url: "https://www.italki.com/"
+    price: "0.00"
 ---
 
 Even with a Dutch mother, I spent my first year in the Netherlands smiling and nodding through conversations I only half understood. That is what motivated me to test every Dutch learning app I could find -- and I have been recommending them to my expat clients ever since. Here are the 7 best apps for learning Dutch in 2026, based on years of personal use and real feedback from hundreds of learners.

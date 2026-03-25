@@ -26,6 +26,16 @@ faq:
     a: "Yes, with conditions. South Africa has a bilateral driving licence exchange agreement with the Netherlands. You can exchange your valid South African licence for a Dutch one without taking a full driving test, provided you pass a theory test (CBR) and a practical check. The process takes several months; in the meantime your SA licence (with an official Dutch translation) is valid for up to 185 days after registration. Check the CBR website for the current exchange procedure as rules are updated periodically."
   - q: "Is there a South African community in the Netherlands?"
     a: "Yes, a well-established one. The SA expat community is particularly concentrated in Eindhoven (ASML, Philips), Amsterdam (tech, finance, media), and Den Haag. The South African Society Netherlands organises events, and SA-specific Facebook groups and WhatsApp networks are active. Braai culture is very much alive — you will find South Africans gathering in parks and gardens every summer. SA products including biltong, boerewors, and Mrs Ball's chutney are available at specialist shops and increasingly in mainstream supermarkets."
+products:
+  - name: "Babbel"
+    url: "https://www.babbel.com/"
+    price: "6.99"
+  - name: "Meetup"
+    url: "https://www.meetup.com/"
+    price: "0.00"
+  - name: "DutchPod101"
+    url: "https://www.dutchpod101.com/"
+    price: "0.00"
 ---
 
 Thandi messaged me on a Tuesday morning in November 2024. She had just been offered a software engineering position at ASML in Eindhoven — her dream job, she said, but also a terrifying leap. She had grown up in Cape Town, built her career in Johannesburg, and now she was weighing up everything familiar against the prospect of a grey Dutch winter and a housing market that made Johannesburg prices look reasonable. What she needed, she told me, was not a PR article about how wonderful the Netherlands is. She needed honest numbers, honest trade-offs, and specific information written for South Africans — not generic expat content recycled from British relocation blogs.

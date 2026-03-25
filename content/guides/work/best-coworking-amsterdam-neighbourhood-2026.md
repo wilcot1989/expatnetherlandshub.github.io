@@ -6,7 +6,17 @@ description: "Amsterdam coworking by neighbourhood 2026: Centrum (WeWork), Zuid 
 categories: ["work"]
 tags: ["coworking amsterdam", "amsterdam coworking spaces", "remote work amsterdam", "coworking space amsterdam 2026", "amsterdam freelance space"]
 keywords: ["best coworking amsterdam 2026", "coworking amsterdam neighbourhood", "amsterdam coworking day pass", "remote work amsterdam expat", "WeWork amsterdam Spaces amsterdam"]
-affiliate: false
+affiliate: true
+products:
+  - name: "Wise"
+    url: "https://wise.com/invite/ihpc/willemt52"
+    price: "0.00"
+  - name: "LinkedIn Premium"
+    url: "https://www.linkedin.com/premium/"
+    price: "29.99"
+  - name: "Undutchables"
+    url: "https://undutchables.nl/"
+    price: "0.00"
 author: "Sarah van den Berg"
 author_bio: "Expat coach and relocation specialist. Half Dutch, half British, living in the Netherlands for over 10 years."
 featured_image: "/images/categories/work.svg"

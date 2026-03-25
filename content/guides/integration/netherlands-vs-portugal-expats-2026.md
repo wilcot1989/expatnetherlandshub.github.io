@@ -23,6 +23,16 @@ faq:
     a: "The Netherlands is easier for English speakers. The Dutch population has exceptionally high English fluency — roughly 95% of Dutch adults speak good English. Portugal is improving but the English level, particularly outside Lisbon and Porto, is lower. Learning basic Dutch or Portuguese is important for full integration, but daily expat life in the Netherlands requires less Portuguese than living in Portugal requires Dutch."
   - q: "Which country has better weather for expats?"
     a: "Portugal has vastly better weather. The Algarve and Alentejo receive 280-300 days of sunshine per year. Lisbon averages 2800 hours of sunshine. The Netherlands averages around 1700 hours of sunshine and is known for grey, rainy winters. If weather quality is a significant factor in your decision, Portugal wins without contest."
+products:
+  - name: "Babbel"
+    url: "https://www.babbel.com/"
+    price: "6.99"
+  - name: "Meetup"
+    url: "https://www.meetup.com/"
+    price: "0.00"
+  - name: "DutchPod101"
+    url: "https://www.dutchpod101.com/"
+    price: "0.00"
 ---
 
 I get this question from expats more than almost any other comparison. The Netherlands and Portugal have both become major destinations for internationally mobile professionals and retirees, but they attract very different profiles of person — and for different reasons. After years of working with expats considering both, I have seen people thrive in each. The key is matching the country to your specific situation rather than going by reputation.

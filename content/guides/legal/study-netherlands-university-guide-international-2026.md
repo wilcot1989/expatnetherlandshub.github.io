@@ -7,6 +7,16 @@ categories: ["legal"]
 tags: ["study netherlands", "dutch universities", "international students", "tuition fees", "studielink", "university guide"]
 keywords: ["study in the netherlands 2026", "dutch university international students", "netherlands university guide", "tuition fees netherlands", "best universities netherlands expats"]
 affiliate: true
+products:
+  - name: "Expatax"
+    url: "https://www.expatax.nl/"
+    price: "0.00"
+  - name: "Blue Umbrella"
+    url: "https://www.blueumbrella.nl/"
+    price: "0.00"
+  - name: "IND"
+    url: "https://ind.nl/en"
+    price: "0.00"
 author: "Sarah van den Berg"
 author_bio: "Expat coach and relocation specialist. Half Dutch, half British, living in the Netherlands for over 10 years."
 featured_image: "/images/categories/legal.svg"

@@ -7,6 +7,16 @@ categories: ["work"]
 tags: ["remote work netherlands", "thuiswerkvergoeding", "working from home netherlands", "expat work netherlands", "183 day rule", "ARBO law", "cross-border remote work"]
 keywords: ["remote work netherlands expat 2026", "thuiswerkvergoeding expat", "working from home netherlands tax", "183 day rule netherlands", "ARBO law home office", "cross-border remote work netherlands"]
 affiliate: true
+products:
+  - name: "LinkedIn Premium"
+    url: "https://www.linkedin.com/premium/"
+    price: "29.99"
+  - name: "Undutchables"
+    url: "https://undutchables.nl/"
+    price: "0.00"
+  - name: "Together Abroad"
+    url: "https://www.togetherabroad.nl/"
+    price: "0.00"
 author: "Sarah van den Berg"
 author_bio: "Expat coach and relocation specialist. Half Dutch, half British, living in the Netherlands for over 10 years."
 featured_image: "/images/categories/work.svg"

@@ -10,6 +10,16 @@ affiliate: true
 author: "Sarah van den Berg"
 author_bio: "Expat coach and relocation specialist. Half Dutch, half British, living in the Netherlands for over 10 years."
 featured_image: "/images/categories/finance.svg"
+products:
+  - name: "Wise"
+    url: "https://wise.com/invite/ihpc/willemt52"
+    price: "0.00"
+  - name: "bunq"
+    url: "https://www.bunq.com/"
+    price: "2.99"
+  - name: "ING"
+    url: "https://www.ing.nl/particulier"
+    price: "0.00"
 faq:
   - q: "Does Revolut work as a primary bank account in the Netherlands?"
     a: "Revolut should not be used as your only bank in the Netherlands. Its Lithuanian IBAN (starting with LT) is rejected by many Dutch employers for salary payments and by some landlords and utility providers for direct debits. You need a Dutch bank or a Wise account alongside Revolut for day-to-day life in the Netherlands."

@@ -7,6 +7,16 @@ categories: ["legal"]
 tags: ["relocation", "relocation service", "moving", "expat service"]
 keywords: ["expat relocation services netherlands", "relocation company netherlands", "is relocation service worth it", "best relocation service netherlands"]
 affiliate: true
+products:
+  - name: "Expatax"
+    url: "https://www.expatax.nl/"
+    price: "0.00"
+  - name: "Blue Umbrella"
+    url: "https://www.blueumbrella.nl/"
+    price: "0.00"
+  - name: "IND"
+    url: "https://ind.nl/en"
+    price: "0.00"
 author: "Sarah van den Berg"
 author_bio: "Expat coach and relocation specialist. Half Dutch, half British, living in the Netherlands for over 10 years."
 featured_image: "/images/categories/legal.svg"

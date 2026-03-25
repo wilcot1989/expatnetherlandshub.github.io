@@ -10,6 +10,16 @@ affiliate: true
 author: "Sarah van den Berg"
 author_bio: "Expat coach and relocation specialist. Half Dutch, half British, living in the Netherlands for over 10 years."
 featured_image: "/images/categories/finance.svg"
+products:
+  - name: "Wise"
+    url: "https://wise.com/invite/ihpc/willemt52"
+    price: "0.00"
+  - name: "Expatax"
+    url: "https://www.expatax.nl/"
+    price: "0.00"
+  - name: "Blue Umbrella"
+    url: "https://www.blueumbrella.nl/"
+    price: "0.00"
 faq:
   - q: "Do I need a tax advisor for my Dutch expat tax return?"
     a: "Not always. If you are an employed expat with a simple financial situation — one employer, no foreign income, no business activities, no investments beyond Box 3 savings — you can often file your own return using the Belastingdienst website. A tax advisor is worth the cost if you have the 30% ruling, income from multiple countries, freelance income, US citizenship (FBAR/FATCA obligations), or a first-year partial residence situation."

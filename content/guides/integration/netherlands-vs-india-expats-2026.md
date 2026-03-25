@@ -26,6 +26,16 @@ faq:
     a: "Yes, and it is one of the genuine advantages of being paid in euros. Services like Wise make INR transfers fast and cheap — typically 0.5–0.7% in fees versus the 2–4% that banks charge. The time difference (+3.5 hours in summer, +4.5 hours in winter) means you can reach family in the evening without losing half the workday. Flights are 8–9 hours from Amsterdam to most Indian metros, with KLM, Air India, IndiGo, and others operating direct routes."
   - q: "Is the Netherlands safe for Indian expats and their families?"
     a: "Yes. The Netherlands consistently ranks among the safest countries in Europe. Crime rates are low, the rule of law is strong, and Indian expat communities are well established in cities like Eindhoven, Amsterdam, and Den Haag. Racism and discrimination do exist, as in any country, but institutional protections are strong and most Indian expats report feeling safe and welcome. The Indian community is large enough — particularly in Eindhoven, home to the ASML and Philips clusters — that newcomers rarely feel isolated for long."
+products:
+  - name: "Babbel"
+    url: "https://www.babbel.com/"
+    price: "6.99"
+  - name: "Meetup"
+    url: "https://www.meetup.com/"
+    price: "0.00"
+  - name: "DutchPod101"
+    url: "https://www.dutchpod101.com/"
+    price: "0.00"
 ---
 
 Rahul and Priya contacted me in October 2024. Rahul had just accepted a position at ASML in Eindhoven — a senior optical systems engineer role, the kind of opportunity that does not come along twice. Priya, a product manager in Bengaluru, was planning to follow once her notice period ended. They had done their research online, of course. They knew the Netherlands was expensive. They knew it rained a lot. They had read the generic "moving to the Netherlands" guides. What they had not found was an honest, specific comparison written for people coming from India — not from the UK or the US.

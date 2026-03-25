@@ -1,29 +1,68 @@
 {{ define "main" }}
 
 <div class="error-page">
-  <div class="container" style="text-align: center; padding: 5rem 1rem;">
-    <h1 style="font-size: 4rem; color: var(--expat-primary); margin-bottom: 0.5rem;">404</h1>
-    <h2 style="font-size: 1.5rem; margin-bottom: 1rem;">Page Not Found</h2>
-    <p style="color: var(--expat-muted); max-width: 500px; margin: 0 auto 2rem; line-height: 1.7;">
-      The page you're looking for doesn't exist or may have moved.
-      Try one of these instead:
-    </p>
-    <div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 0.75rem; margin-bottom: 3rem;">
-      <a href="/" class="cta">Go to Homepage</a>
-      <a href="/guides/" class="cta cta-outline-green">Browse Guides</a>
-      <a href="/tools/" class="cta cta-outline-green">Free Tools</a>
+  <div class="wide" style="padding: 4rem 1.5rem; text-align: center;">
+
+    <div class="error-icon">
+      <svg width="64" height="64" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round" style="color: var(--expat-primary-light);"><circle cx="12" cy="12" r="10"/><path d="M16 16s-1.5-2-4-2-4 2-4 2"/><line x1="9" y1="9" x2="9.01" y2="9"/><line x1="15" y1="9" x2="15.01" y2="9"/></svg>
     </div>
 
-    <h3 style="font-size: 1.1rem; margin-bottom: 1.5rem;">Popular Guides</h3>
-    <div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 0.5rem 1.5rem; max-width: 600px; margin: 0 auto;">
-      <a href="/guides/finance/30-percent-ruling-netherlands-2026/">30% Ruling</a>
-      <a href="/guides/health/dutch-health-insurance-guide-expats-2026/">Health Insurance</a>
-      <a href="/guides/legal/highly-skilled-migrant-visa-netherlands-2026/">HSM Visa</a>
-      <a href="/guides/housing/finding-housing-netherlands-expats-2026/">Finding Housing</a>
-      <a href="/guides/finance/best-bank-account-expats-netherlands-2026/">Best Bank</a>
-      <a href="/guides/work/freelancer-zzp-guide-netherlands-2026/">ZZP Guide</a>
+    <h1 style="font-size: 5rem; font-weight: 900; color: var(--expat-primary); margin: 0.5rem 0 0.25rem; line-height: 1; font-family: 'Outfit', sans-serif;">404</h1>
+    <h2 style="font-size: 1.5rem; margin-bottom: 0.75rem; color: var(--expat-primary-dark);">Page Not Found</h2>
+    <p style="color: var(--expat-muted); max-width: 500px; margin: 0 auto 2rem; line-height: 1.7;">
+      The page you're looking for doesn't exist or may have moved. Don't worry — we have plenty of useful resources to help you navigate life in the Netherlands.
+    </p>
+
+    <div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 0.75rem; margin-bottom: 3rem;">
+      <a href="/" class="cta">Go to Homepage</a>
+      <a href="/tools/" class="cta cta-outline" style="border-color: var(--expat-primary); color: var(--expat-primary);">Free Tools</a>
+      <a href="/guides/" class="cta cta-outline" style="border-color: var(--expat-primary); color: var(--expat-primary);">Browse Guides</a>
     </div>
+
+    <!-- Popular tools -->
+    <div style="max-width: 700px; margin: 0 auto 2.5rem;">
+      <h3 style="font-size: 0.75rem; font-weight: 700; text-transform: uppercase; letter-spacing: 0.08em; color: var(--expat-muted); margin-bottom: 1rem;">Try Our Most Popular Tools</h3>
+      <div style="display: grid; grid-template-columns: repeat(3, 1fr); gap: 0.75rem;">
+        <a href="/tools/30-percent-ruling-calculator/" style="display: flex; align-items: center; gap: 0.5rem; background: #F0FDF4; border: 1px solid #A7F3D0; border-radius: 10px; padding: 0.75rem 1rem; text-decoration: none; color: var(--expat-primary-dark); font-weight: 600; font-size: 0.85rem; transition: all 0.2s;">
+          <svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" style="color: var(--expat-primary); flex-shrink: 0;"><rect x="4" y="2" width="16" height="20" rx="2"/><line x1="8" y1="6" x2="16" y2="6"/><line x1="12" y1="10" x2="16" y2="10"/></svg>
+          30% Calculator
+        </a>
+        <a href="/tools/salary-checker/" style="display: flex; align-items: center; gap: 0.5rem; background: #F0FDF4; border: 1px solid #A7F3D0; border-radius: 10px; padding: 0.75rem 1rem; text-decoration: none; color: var(--expat-primary-dark); font-weight: 600; font-size: 0.85rem; transition: all 0.2s;">
+          <svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" style="color: var(--expat-primary); flex-shrink: 0;"><line x1="12" y1="1" x2="12" y2="23"/><path d="M17 5H9.5a3.5 3.5 0 000 7h5a3.5 3.5 0 010 7H6"/></svg>
+          Salary Calculator
+        </a>
+        <a href="/tools/health-insurance-wizard/" style="display: flex; align-items: center; gap: 0.5rem; background: #F0FDF4; border: 1px solid #A7F3D0; border-radius: 10px; padding: 0.75rem 1rem; text-decoration: none; color: var(--expat-primary-dark); font-weight: 600; font-size: 0.85rem; transition: all 0.2s;">
+          <svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" style="color: var(--expat-primary); flex-shrink: 0;"><path d="M22 12h-4l-3 9L9 3l-3 9H2"/></svg>
+          Insurance Compare
+        </a>
+      </div>
+    </div>
+
+    <!-- Popular guides -->
+    <div style="max-width: 600px; margin: 0 auto;">
+      <h3 style="font-size: 0.75rem; font-weight: 700; text-transform: uppercase; letter-spacing: 0.08em; color: var(--expat-muted); margin-bottom: 1rem;">Popular Guides</h3>
+      <div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 0.5rem;">
+        <a href="/guides/finance/30-percent-ruling-netherlands-2026/" class="tag" style="font-size: 0.85rem; padding: 0.4rem 0.9rem;">30% Ruling</a>
+        <a href="/guides/health/dutch-health-insurance-guide-expats-2026/" class="tag" style="font-size: 0.85rem; padding: 0.4rem 0.9rem;">Health Insurance</a>
+        <a href="/guides/legal/highly-skilled-migrant-visa-netherlands-2026/" class="tag" style="font-size: 0.85rem; padding: 0.4rem 0.9rem;">HSM Visa</a>
+        <a href="/guides/housing/finding-housing-netherlands-expats-2026/" class="tag" style="font-size: 0.85rem; padding: 0.4rem 0.9rem;">Finding Housing</a>
+        <a href="/guides/finance/best-bank-account-expats-netherlands-2026/" class="tag" style="font-size: 0.85rem; padding: 0.4rem 0.9rem;">Best Bank</a>
+        <a href="/guides/work/freelancer-zzp-guide-netherlands-2026/" class="tag" style="font-size: 0.85rem; padding: 0.4rem 0.9rem;">ZZP Guide</a>
+        <a href="/guides/integration/best-dutch-language-courses-2026/" class="tag" style="font-size: 0.85rem; padding: 0.4rem 0.9rem;">Learn Dutch</a>
+        <a href="/guides/daily-life/best-vpn-netherlands-expats-2026/" class="tag" style="font-size: 0.85rem; padding: 0.4rem 0.9rem;">Best VPN</a>
+      </div>
+    </div>
+
   </div>
 </div>
+
+<style>
+  .error-icon { margin-bottom: 0.5rem; }
+  @media (max-width: 600px) {
+    .error-page [style*="grid-template-columns: repeat(3"] {
+      grid-template-columns: 1fr !important;
+    }
+  }
+</style>
 
 {{ end }}

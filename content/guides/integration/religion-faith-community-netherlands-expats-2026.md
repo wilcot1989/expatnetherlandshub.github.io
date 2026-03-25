@@ -23,6 +23,16 @@ faq:
     a: "Yes. The Netherlands has a Jewish community of approximately 30,000-40,000 people, centred mainly in Amsterdam. Amsterdam has several active synagogues including the famous Portuguese-Israelite Synagogue (Esnoga) and Ashkenazi congregations. The community includes both longstanding Dutch Jewish families and internationally mobile Jews working in the Netherlands."
   - q: "How does Dutch secularism affect daily work life for religious expats?"
     a: "Dutch employers are generally required to accommodate reasonable religious practice. You can request time off for religious holidays, space for prayers, and dietary accommodations in work settings. However, Dutch directness means you should simply request these accommodations clearly — Dutch colleagues are unlikely to anticipate your needs. The Dutch work culture respects personal choices while not necessarily being familiar with all religious practices."
+products:
+  - name: "Babbel"
+    url: "https://www.babbel.com/"
+    price: "6.99"
+  - name: "Meetup"
+    url: "https://www.meetup.com/"
+    price: "0.00"
+  - name: "DutchPod101"
+    url: "https://www.dutchpod101.com/"
+    price: "0.00"
 ---
 
 Moving to the Netherlands as a person of faith involves a particular kind of adjustment. Dutch society is secular in a way that goes beyond just low church attendance — religion genuinely has a smaller footprint in daily public life here than in most of the world. At the same time, the Netherlands has a long tradition of tolerance, constitutional freedom of religion, and a diverse immigrant population that has brought and sustained religious communities from every tradition.

@@ -10,6 +10,16 @@ affiliate: true
 author: "Sarah van den Berg"
 author_bio: "Expat coach and relocation specialist. Half Dutch, half British, living in the Netherlands for over 10 years."
 featured_image: "/images/categories/finance.svg"
+products:
+  - name: "Wise"
+    url: "https://wise.com/invite/ihpc/willemt52"
+    price: "0.00"
+  - name: "bunq"
+    url: "https://www.bunq.com/"
+    price: "2.99"
+  - name: "ING"
+    url: "https://www.ing.nl/particulier"
+    price: "0.00"
 faq:
   - q: "What are the top MBA schools in the Netherlands?"
     a: "The leading MBA providers in the Netherlands are Rotterdam School of Management (RSM) at Erasmus University, TIAS School for Business and Society (Tilburg), Amsterdam Business School (University of Amsterdam), and Nyenrode Business University. RSM consistently ranks among Europe's top 10 business schools in major rankings. TIAS and Nyenrode are strong in executive and part-time formats."

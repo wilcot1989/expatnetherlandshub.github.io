@@ -10,6 +10,16 @@ affiliate: true
 author: "Sarah van den Berg"
 author_bio: "Expat coach and relocation specialist. Half Dutch, half British, living in the Netherlands for over 10 years."
 featured_image: "/images/featured/30-percent-ruling-netherlands-2026.webp"
+products:
+  - name: "Wise"
+    url: "https://wise.com/invite/ihpc/willemt52"
+    price: "0.00"
+  - name: "Expatax"
+    url: "https://www.expatax.nl/"
+    price: "0.00"
+  - name: "Blue Umbrella"
+    url: "https://www.blueumbrella.nl/"
+    price: "0.00"
 faq:
   - q: "What is the 30% ruling in the Netherlands?"
     a: "The 30% ruling is a Dutch tax benefit for highly skilled migrants recruited from abroad. It allows your employer to pay up to 30% of your gross salary as a tax-free allowance, intended to compensate for the additional costs of relocating to and living in the Netherlands. This effectively reduces your taxable income by 30%, resulting in significant tax savings."

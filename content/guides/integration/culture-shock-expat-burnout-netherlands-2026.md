@@ -25,6 +25,16 @@ faq:
     a: "If you have been in the Netherlands for more than six months and feel persistently low, isolated, or unable to function normally at work or in relationships, that is worth taking seriously. The threshold most mental health professionals use is: if it is affecting your daily functioning and has lasted more than two weeks, seek support. There is no medal for white-knuckling it alone."
   - q: "Does learning Dutch help with culture shock?"
     a: "Significantly, yes — but not just for the obvious linguistic reasons. Learning Dutch changes how Dutch people respond to you. It signals commitment and respect. It opens access to social spaces — clubs, neighbourhood groups, volunteer organisations — that run in Dutch. And the process of learning, if you find a good class, creates its own social network of other learners."
+products:
+  - name: "Babbel"
+    url: "https://www.babbel.com/"
+    price: "6.99"
+  - name: "Meetup"
+    url: "https://www.meetup.com/"
+    price: "0.00"
+  - name: "DutchPod101"
+    url: "https://www.dutchpod101.com/"
+    price: "0.00"
 ---
 
 I remember the exact moment I realised I was in trouble. It was a Tuesday evening in my fourth month in Utrecht. I had spent the weekend alone — not through lack of trying, but because every attempt to make plans had hit the same wall of polite unavailability. My Dutch colleagues were friendly at work and absent from my life the moment I left the office. My apartment was lovely. The city was beautiful. And I was miserable in a way I had not expected and could not explain.

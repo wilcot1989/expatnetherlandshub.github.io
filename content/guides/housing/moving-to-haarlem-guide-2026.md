@@ -19,6 +19,16 @@ faq:
     a: "The train from Haarlem Centraal to Amsterdam Centraal runs every 10-15 minutes throughout the day and takes approximately 15-17 minutes. A single journey costs around EUR 4.70 with your OV-chipkaart. Monthly or annual train subscriptions significantly reduce the cost — a monthly subscription (Dal Vrij) costs around EUR 112 and gives unlimited off-peak travel. Cycling from Haarlem to Amsterdam via the dedicated cycle paths takes around 35-40 minutes for those who enjoy a longer ride."
   - q: "Do I need to register at Haarlem gemeente separately if I am moving from another Dutch city?"
     a: "Yes. If you are already registered in the Netherlands (with a BSN) and moving to Haarlem from another city, you must notify your new gemeente within 5 days of moving. Visit Gemeente Haarlem (Stadskantoor on Zijlweg) or use the online reporting system at haarlem.nl if you have a DigiD. Your registration transfers automatically. If you are arriving from abroad, you must register in person — bring your passport, rental contract, and birth certificate (apostilled). See our full guide to BSN registration."
+products:
+  - name: "HousingAnywhere"
+    url: "https://housinganywhere.com/"
+    price: "0.00"
+  - name: "Pararius"
+    url: "https://www.pararius.com/"
+    price: "0.00"
+  - name: "Funda"
+    url: "https://www.funda.nl/"
+    price: "0.00"
 ---
 
 The first time I visited Haarlem, I came on a Saturday afternoon from Amsterdam on a whim. I had been living in the Netherlands for about six months and was starting to feel like Amsterdam was slightly suffocating — the tourists, the noise, the rent. A colleague mentioned Haarlem in passing and I thought: it is fifteen minutes away, why not have a look?

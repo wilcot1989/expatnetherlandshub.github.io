@@ -25,6 +25,16 @@ faq:
     a: "Middenhuur (middle-market rental) is the private rental sector between social housing and high-end rentals, roughly €900-1,250 per month in most cities. It is increasingly targeted by new government policy to create a regulated middle segment. Middenhuur properties are faster to access than social housing (no multi-year wait), have no income ceiling, and are typically better maintained than the oldest social housing stock. For most expats, middenhuur is the realistic target rather than social housing."
   - q: "Does my waiting time on WoningNet carry over if I move cities?"
     a: "No. Waiting time is specific to each regional platform. WoningNet Amsterdam waiting time does not transfer to WoningNet Rijnmond (Rotterdam) or Woningnet Regio Utrecht. If you register on multiple regional platforms simultaneously, you build up waiting time in each independently. Some people register in multiple regions as a long-term strategy."
+products:
+  - name: "HousingAnywhere"
+    url: "https://housinganywhere.com/"
+    price: "0.00"
+  - name: "Kamernet"
+    url: "https://kamernet.nl/"
+    price: "0.00"
+  - name: "Pararius"
+    url: "https://www.pararius.com/"
+    price: "0.00"
 ---
 
 One of the most common questions I hear from expats who have been in the Netherlands for a year or two and are tired of paying €1,600 per month for a small Amsterdam apartment: "Can I get social housing?"

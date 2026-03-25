@@ -19,6 +19,16 @@ faq:
     a: "The most popular expat neighbourhoods are: Centrum (central, walkable, higher rent), Helpman (quiet, green, family-friendly, south of centre), Paddepoel (affordable, near Zernike campus, popular with researchers), Selwerd (residential, good value, cycling distance to university), and Hoornsemeer (newer development, families, modern housing). Most expats working at the university or UMCG choose Paddepoel or Selwerd for the short commute; families with children often prefer Helpman for the green surroundings and better schools."
   - q: "How far is Groningen from Amsterdam?"
     a: "Groningen is 2 hours 15 minutes from Amsterdam Centraal by direct Intercity train, with departures roughly every 30 minutes. To Rotterdam it is around 2 hours 45 minutes; to Utrecht around 2 hours. This is manageable for occasional trips but makes daily commuting to the Randstad impractical. The domestic airport Groningen Airport Eelde has limited connections — most international travel goes via Amsterdam Schiphol. Within the northern Netherlands, Leeuwarden is 35 minutes and Assen 20 minutes."
+products:
+  - name: "HousingAnywhere"
+    url: "https://housinganywhere.com/"
+    price: "0.00"
+  - name: "Kamernet"
+    url: "https://kamernet.nl/"
+    price: "0.00"
+  - name: "Pararius"
+    url: "https://www.pararius.com/"
+    price: "0.00"
 ---
 
 The first time I properly spent time in Groningen, I had gone up for a long weekend to help a client settle in after a research position at the University of Groningen. I expected a quiet, slightly provincial Dutch city. What I found was a place with an energy I had not anticipated — streets full of students cycling in every direction, a Saturday market at the Vismarkt that felt genuinely alive, and a pub culture in the Poelestraat quarter that seemed to go on well past midnight on a Wednesday. My client, a molecular biologist from Edinburgh, had been anxious about moving so far north. Within a month she had stopped mentioning it.

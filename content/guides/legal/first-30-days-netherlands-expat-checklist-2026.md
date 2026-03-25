@@ -7,6 +7,16 @@ categories: ["legal"]
 tags: ["checklist", "first days", "moving", "registration", "BSN", "DigiD"]
 keywords: ["first 30 days netherlands expat", "what to do first netherlands", "expat checklist netherlands 2026", "settling in netherlands"]
 affiliate: true
+products:
+  - name: "IND"
+    url: "https://ind.nl/en"
+    price: "0.00"
+  - name: "Expatax"
+    url: "https://www.expatax.nl/"
+    price: "0.00"
+  - name: "Wise"
+    url: "https://wise.com/invite/ihpc/willemt52"
+    price: "0.00"
 author: "Sarah van den Berg"
 author_bio: "Expat coach and relocation specialist. Half Dutch, half British, living in the Netherlands for over 10 years."
 featured_image: "/images/categories/legal.svg"

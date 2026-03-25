@@ -10,6 +10,16 @@ affiliate: true
 author: "Sarah van den Berg"
 author_bio: "Expat coach and relocation specialist. Half Dutch, half British, living in the Netherlands for over 10 years."
 featured_image: "/images/categories/finance.svg"
+products:
+  - name: "Wise"
+    url: "https://wise.com/invite/ihpc/willemt52"
+    price: "0.00"
+  - name: "Expatax"
+    url: "https://www.expatax.nl/"
+    price: "0.00"
+  - name: "Blue Umbrella"
+    url: "https://www.blueumbrella.nl/"
+    price: "0.00"
 faq:
   - q: "What changed about the 30% ruling after 2024?"
     a: "Two significant changes came into force from 2024. First, the ruling was restructured from a flat 30% tax-free allowance to a phased system: 30% in years 1-20 months, 20% in years 2-40 months, and 10% in years 3-60 months (the exact transition periods depend on when you started). Second, from 2026 the 30% flat rate was further modified to the 30/20/10% step-down system. The maximum duration has remained at 5 years (60 months). The result is that the average benefit over the 5-year period is now lower than it was under the old flat 30% system."

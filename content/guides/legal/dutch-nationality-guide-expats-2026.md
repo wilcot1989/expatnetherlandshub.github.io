@@ -11,6 +11,16 @@ categories: ["legal"]
 tags: ["dutch nationality", "naturalisation", "citizenship", "expat netherlands", "inburgering"]
 type: "pillar"
 affiliate: false
+products:
+  - name: "Expatax"
+    url: "https://www.expatax.nl/"
+    price: "0.00"
+  - name: "Blue Umbrella"
+    url: "https://www.blueumbrella.nl/"
+    price: "0.00"
+  - name: "IND"
+    url: "https://ind.nl/en"
+    price: "0.00"
 description: "How to become a Dutch citizen in 2026. Residency requirements, inburgeringsexamen, dual nationality rules, costs, and the full process for expats."
 faq:
   - q: "How long do I need to live in the Netherlands before I can apply for Dutch nationality?"

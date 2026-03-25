@@ -23,6 +23,16 @@ faq:
     a: "The Belastingdienst is the Dutch Tax and Customs Administration — the tax authority. You interact with them to file your annual income tax return (aangifte inkomstenbelasting), receive provisional tax assessments (voorlopige aanslag), reclaim overpaid tax (teruggaaf), register for VAT as a sole trader, and deal with any tax queries or audits. The Belastingdienst website (belastingdienst.nl) is good by government standards, and most standard tasks can be completed online using DigiD. The phone line (Belastingtelefoon, 0800-0543) is available for questions but wait times can be long."
   - q: "What is the difference between going in person versus calling a Dutch government office?"
     a: "The general rule in Dutch bureaucracy: call first to check if you actually need to come in person; most things can now be done online or by post. When you do need to go in person, always book an appointment (afspraak) in advance — walk-ins are not accepted at most Dutch government offices. Bring original documents plus copies; Dutch civil servants will often not accept photocopies as the primary document. Be precise, factual, and patient. Dutch civil servants are generally professional but follow rules closely — if a document is missing, the application will not proceed regardless of how reasonable your explanation is."
+products:
+  - name: "Babbel"
+    url: "https://www.babbel.com/"
+    price: "6.99"
+  - name: "Meetup"
+    url: "https://www.meetup.com/"
+    price: "0.00"
+  - name: "DutchPod101"
+    url: "https://www.dutchpod101.com/"
+    price: "0.00"
 ---
 
 I have been helping expats move to the Netherlands for over ten years, and there is one thing that reliably generates the most frustration in the first year: not the housing search, not the language barrier, but the Dutch bureaucratic system. Not because it is particularly corrupt or cruel — it is neither of those things. It is thorough, rule-based, and assumes you know what you need before you arrive at the counter. Those are, for newly arrived expats, infuriating characteristics.

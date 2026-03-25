@@ -23,6 +23,16 @@ faq:
     a: "Not for everyday life. English is widely understood and most services, shops, and employers in Breda are used to working in English. That said, making an effort with Dutch — even a handful of phrases — is appreciated and will open more doors socially."
   - q: "How do I register and get a BSN number in Breda?"
     a: "You register at the Gemeente Breda with your passport, rental contract, and a booked appointment. Your BSN (citizen service number) is issued at or shortly after registration. You cannot open a bank account or access most services without it, so this should be your first priority."
+products:
+  - name: "HousingAnywhere"
+    url: "https://housinganywhere.com/"
+    price: "0.00"
+  - name: "Pararius"
+    url: "https://www.pararius.com/"
+    price: "0.00"
+  - name: "Funda"
+    url: "https://www.funda.nl/"
+    price: "0.00"
 ---
 
 People ask me all the time where to move in the Netherlands if they want a proper Dutch city life without the price tag that comes with Amsterdam or Utrecht. And more and more often, I find myself saying: have you looked at Breda?

@@ -23,6 +23,16 @@ faq:
     a: "Funda and Pararius have verification processes and are significantly safer than platforms like Craigslist, Facebook Marketplace, or generic classifieds sites. However, no platform is completely immune. Scammers do occasionally post fake listings on reputable platforms, particularly during busy periods. Even on Funda or Pararius, you should verify landlord ownership via Kadaster, never pay before a physical or verified video viewing, and always insist on a formal written contract."
   - q: "Is it safe to rent a room via WhatsApp or social media in the Netherlands?"
     a: "Renting via WhatsApp, Instagram, or Facebook groups carries significant risk. These channels have no verification, no payment protection, and no formal dispute resolution. I am not saying all social media listings are fraudulent — student housing networks and legitimate landlords do sometimes use these channels — but you should never transfer money based solely on a social media conversation. Always escalate to a formal contract and a verified bank transfer, and try to view the property in person before paying."
+products:
+  - name: "HousingAnywhere"
+    url: "https://housinganywhere.com/"
+    price: "0.00"
+  - name: "Pararius"
+    url: "https://www.pararius.com/"
+    price: "0.00"
+  - name: "Funda"
+    url: "https://www.funda.nl/"
+    price: "0.00"
 ---
 
 Three years ago, a client of mine — I'll call her Priya — arrived in Amsterdam after flying in from Bangalore. She had paid a £1,200 deposit two weeks earlier for a "fully furnished apartment" in De Pijp. The address she had was a real street. The photos were convincing. The landlord had replied promptly to every message. When she turned up at the door with two suitcases, a different family answered. They had lived there for six years. No one had ever listed the flat.

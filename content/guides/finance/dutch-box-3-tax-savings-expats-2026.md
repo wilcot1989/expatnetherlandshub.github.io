@@ -10,6 +10,16 @@ affiliate: true
 author: "Sarah van den Berg"
 author_bio: "Expat coach and relocation specialist. Half Dutch, half British, living in the Netherlands for over 10 years."
 featured_image: "/images/categories/finance.svg"
+products:
+  - name: "Wise"
+    url: "https://wise.com/invite/ihpc/willemt52"
+    price: "0.00"
+  - name: "Expatax"
+    url: "https://www.expatax.nl/"
+    price: "0.00"
+  - name: "Blue Umbrella"
+    url: "https://www.blueumbrella.nl/"
+    price: "0.00"
 faq:
   - q: "What is Box 3 tax in the Netherlands?"
     a: "Box 3 is the part of the Dutch income tax system that taxes your savings and investments. Unlike most countries, the Netherlands does not tax your actual investment returns or interest earned. Instead, it assumes you earn a fictional (deemed) return on your wealth above a tax-free threshold, and taxes that fictional return. As of 2026, the tax-free threshold (heffingsvrij vermogen) is approximately EUR 57,000 per person (EUR 114,000 for fiscal partners). The tax rate on the deemed return is 36%. The fictional return percentages vary by asset class — savings attract a lower deemed return than investments."

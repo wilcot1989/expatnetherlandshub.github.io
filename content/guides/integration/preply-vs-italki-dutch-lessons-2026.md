@@ -19,6 +19,16 @@ faq:
     a: "iTalki has the larger pool, with several hundred Dutch tutors available globally at any given time, ranging from qualified teachers to native speakers offering conversation practice. Preply has a smaller but thoroughly vetted selection of Dutch tutors, typically 100-200 active profiles. Because of this, iTalki gives you more choice at the lower end of the price range, while Preply's vetting process filters out lower-quality tutors."
   - q: "Can I get a trial lesson before committing on Preply or iTalki?"
     a: "Yes, both platforms offer trial lessons. Preply offers a trial lesson at a reduced rate set by the tutor, typically 50% of their normal hourly rate. If you are not satisfied, Preply's satisfaction guarantee means you can trial another tutor for free. iTalki offers trial sessions that tutors list separately, often at EUR 5-15 for a 30-minute session. Trying at least two or three tutors before committing to a package is strongly recommended on both platforms."
+products:
+  - name: "Babbel"
+    url: "https://www.babbel.com/"
+    price: "6.99"
+  - name: "DutchPod101"
+    url: "https://www.dutchpod101.com/"
+    price: "0.00"
+  - name: "italki"
+    url: "https://www.italki.com/"
+    price: "0.00"
 ---
 
 When I first moved to the Netherlands, my Dutch was, charitably speaking, terrible. I had grown up with a Dutch mother who largely refused to speak Dutch at home — "You need proper English," she would say, as if our Midlands town were under threat of a Dutch linguistic invasion. So I arrived in Amsterdam with roughly fifteen words, all of them related to food.

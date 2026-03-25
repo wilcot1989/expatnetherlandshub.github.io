@@ -7,6 +7,16 @@ categories: ["health"]
 tags: ["SafetyWing", "Cigna", "expat insurance", "international insurance", "health coverage"]
 keywords: ["SafetyWing vs Cigna expats", "best expat insurance Netherlands", "SafetyWing review", "Cigna Global review"]
 affiliate: true
+products:
+  - name: "SafetyWing"
+    url: "https://safetywing.com/nomad-insurance/?referenceID=26482728"
+    price: "45.08"
+  - name: "CZ"
+    url: "https://www.cz.nl/"
+    price: "0.00"
+  - name: "Zilveren Kruis"
+    url: "https://www.zilverenkruis.nl/"
+    price: "0.00"
 author: "Sarah van den Berg"
 author_bio: "Expat coach and relocation specialist. Half Dutch, half British, living in the Netherlands for over 10 years."
 featured_image: "/images/featured/safetywing-vs-cigna-expat-insurance-2026.webp"

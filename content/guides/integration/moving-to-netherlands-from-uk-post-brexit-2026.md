@@ -25,6 +25,16 @@ faq:
     a: "British citizens can enter the Netherlands (and the broader Schengen area) without a visa for short stays of up to 90 days in any 180-day period. This is the standard Schengen tourist rule. After 90 days, you must either have a valid residence permit or leave. Working during a tourist stay is not permitted. If you plan to live and work in the Netherlands, you must obtain the appropriate residence permit before or shortly after arrival — overstaying the 90-day limit has serious consequences for future permit applications."
   - q: "What is the DAFT visa and does it apply to British nationals?"
     a: "The Dutch-American Friendship Treaty (DAFT) was extended to cover British nationals as part of the Brexit negotiations — a specific arrangement that gives British self-employed people access to a route that many other third-country nationals do not have. The DAFT permit allows British citizens to establish or work in their own business in the Netherlands. Requirements include: a viable business plan, meeting a scoring system on various criteria (education, business plan quality, financial resources, value to the Netherlands), and sufficient personal finances to support yourself. The DAFT permit is one of the more accessible routes for British freelancers and small business owners."
+products:
+  - name: "Babbel"
+    url: "https://www.babbel.com/"
+    price: "6.99"
+  - name: "Meetup"
+    url: "https://www.meetup.com/"
+    price: "0.00"
+  - name: "DutchPod101"
+    url: "https://www.dutchpod101.com/"
+    price: "0.00"
 ---
 
 I moved to the Netherlands before Brexit. I had free movement. I walked into a municipality office, registered, and that was essentially the immigration process.

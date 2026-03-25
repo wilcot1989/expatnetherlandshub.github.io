@@ -25,6 +25,16 @@ faq:
     a: "Rotterdam's economy is driven by its port (the largest in Europe), logistics, maritime, energy, engineering, and increasingly tech and creative industries. Major employers include the Port of Rotterdam Authority, Shell, Unilever, and numerous logistics and trading companies."
   - q: "How do I register in Rotterdam?"
     a: "Register at a Stadswinkel (City Office) within 5 days of arrival. Book an appointment online via rotterdam.nl. Bring your passport, rental contract, birth certificate (apostilled), and marriage certificate if applicable. You will receive your BSN at registration."
+products:
+  - name: "HousingAnywhere"
+    url: "https://housinganywhere.com/"
+    price: "0.00"
+  - name: "Pararius"
+    url: "https://www.pararius.com/"
+    price: "0.00"
+  - name: "Funda"
+    url: "https://www.funda.nl/"
+    price: "0.00"
 ---
 
 Rotterdam is the Dutch city that surprises everyone. My clients often arrive expecting a smaller version of Amsterdam and discover something completely different -- modern skyline, incredible food scene, and a no-nonsense energy that feels more like a real city than a postcard. I spent two years living in Rotterdam and honestly loved it. The housing is more affordable, the people are more direct (which is saying something for the Netherlands), and the architecture is unlike anything else in the country. Here is my guide to making the move.

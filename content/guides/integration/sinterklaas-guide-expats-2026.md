@@ -23,6 +23,16 @@ faq:
     a: "A gedicht (poem) is a core part of pakjesavond gift-giving. Every gift is traditionally accompanied by a handwritten poem, supposedly written by Sinterklaas or one of his helpers, that teases the recipient affectionately about something that happened during the year — a bad habit, an embarrassing moment, a running joke. The poem is read aloud before the gift is opened. Writing a good gedicht is considered a skill, and Dutch people take it seriously."
   - q: "What is the controversy around Zwarte Piet?"
     a: "Zwarte Piet (Black Pete) is the traditional helper figure of Sinterklaas, historically depicted with black face paint, curly hair, red lips, and colourful clothing. In recent years there has been a significant and sometimes heated public debate about whether this depiction is a racist caricature rooted in the history of enslavement. Many municipalities, schools, broadcasters, and businesses have shifted to 'roetveegpiet' — a sooty Pete whose face is smudged with chimney soot rather than painted black. This remains a sensitive subject in Dutch society, with strong feelings on multiple sides."
+products:
+  - name: "Babbel"
+    url: "https://www.babbel.com/"
+    price: "6.99"
+  - name: "Meetup"
+    url: "https://www.meetup.com/"
+    price: "0.00"
+  - name: "DutchPod101"
+    url: "https://www.dutchpod101.com/"
+    price: "0.00"
 ---
 
 My first Sinterklaas in the Netherlands nearly broke me.

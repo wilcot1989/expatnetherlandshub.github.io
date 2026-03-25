@@ -25,6 +25,16 @@ faq:
     a: "In theory yes, but your mortgage contract typically prohibits renting without bank consent. You must inform your mortgage lender and get written approval. Short-term rental via Airbnb may also require local authority permission. If you plan to leave temporarily and rent out the property, discuss this explicitly with your mortgage adviser before you buy."
   - q: "What happens to my mortgage if my highly skilled migrant visa is not renewed?"
     a: "Your mortgage obligation does not disappear if your visa situation changes. If you lose your right to stay in the Netherlands, you would typically need to sell the property or make alternative arrangements. Banks are aware of this risk and some require a minimum period of legal residence before approving a mortgage. This visa dependency is one of the strongest arguments for renting during your first years in the country."
+products:
+  - name: "Funda"
+    url: "https://www.funda.nl/"
+    price: "0.00"
+  - name: "Hypotheek Visie"
+    url: "https://www.hypotheekvisie.nl/"
+    price: "0.00"
+  - name: "Pararius"
+    url: "https://www.pararius.com/"
+    price: "0.00"
 ---
 
 I bought my apartment in Utrecht in 2019 after four years of renting, and I still think about whether I made the right call. At the time, prices were rising fast, my relationship was stable, and my Dutch employer had just offered me a permanent contract. The numbers made sense. But for many of the expats I work with today, the calculus looks very different — higher interest rates, tighter lending rules, and genuine uncertainty about how long they will actually stay.

@@ -7,6 +7,16 @@ categories: ["legal"]
 tags: ["BSN", "burgerservicenummer", "gemeente registration", "expat registration", "Dutch bureaucracy"]
 keywords: ["BSN number Netherlands", "how to get BSN", "gemeente registration expat", "BSN appointment", "burgerservicenummer guide"]
 affiliate: true
+products:
+  - name: "IND"
+    url: "https://ind.nl/en"
+    price: "0.00"
+  - name: "Expatax"
+    url: "https://www.expatax.nl/"
+    price: "0.00"
+  - name: "Wise"
+    url: "https://wise.com/invite/ihpc/willemt52"
+    price: "0.00"
 author: "Sarah van den Berg"
 author_bio: "Expat coach and relocation specialist. Half Dutch, half British, living in the Netherlands for over 10 years."
 featured_image: "/images/featured/bsn-registration-guide-2026.webp"
