@@ -174,3 +174,5 @@ The IWCN (International Welcome Centre) appointment, if your employer uses it, r
 - [Finding Housing in the Netherlands](/guides/housing/)
 - [Working in the Netherlands](/guides/work/)
 - [Health Insurance for Expats 2026](/guides/health/)
+
+Eindhoven is a city that rewards people who arrive for the right reasons — specifically, the tech sector. If that is your context, it is one of the best places to live and work in the Netherlands.

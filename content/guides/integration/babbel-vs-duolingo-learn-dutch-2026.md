@@ -373,4 +373,4 @@ Duolingo is an excellent free supplement, and its gamification keeps you consist
 
 Whatever you choose, the most important thing is to start and to be consistent. Fifteen minutes a day, every day, with either app will get you further than one hour a week with the world's best teacher.
 
-[Start learning Dutch with Babbel today](https://www.babbel.com/).
+[Start learning Dutch with Babbel today](https://www.babbel.com/). Whichever app you choose, the most important habit is consistency — even ten minutes every day will move you forward faster than a two-hour session once a week.

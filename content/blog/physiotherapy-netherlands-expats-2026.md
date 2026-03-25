@@ -303,3 +303,9 @@ Dutch physiotherapists treat a wide range of conditions including back and neck 
 **What is the difference between a fysiotherapeut and a manueel therapeut?**
 
 A fysiotherapeut (physiotherapist) is a general physical therapy practitioner. A manueel therapeut (manual therapist) has completed additional post-graduate training in manipulative therapy of the spine and joints. Manual therapists are often sought for chronic neck and back problems where spinal manipulation is indicated. Both are registered under the BIG register in the Netherlands. Manual therapy sessions are covered by some supplementary insurance packages but not all — check your policy before booking.
+
+---
+
+## Final Recommendation
+
+If I had one piece of advice for expats navigating Dutch physiotherapy, it would be this: sort your supplementary insurance package before you need it, not after. You can only change supplementary coverage during the December open enrollment window. If you sprain something in February and you only have the basic basisverzekering, the first 20 sessions are out of pocket. An aanvullend 2 package costs around EUR 23 per month and covers 18 sessions per year — for most people who use physiotherapy at all, that investment pays for itself in a single course of treatment.

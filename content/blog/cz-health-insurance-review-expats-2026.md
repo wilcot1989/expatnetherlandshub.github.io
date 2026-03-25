@@ -429,3 +429,5 @@ Under CZ's restitutie policy, medically necessary care received abroad is genera
 **Can I switch to CZ mid-year?**
 
 You can only switch your basic health insurer during the annual open enrollment period, which runs from mid-November to 31 December. The new policy takes effect on 1 January. If you are new to the Netherlands and registering for the first time, you can take out CZ at any point in the year — your coverage starts from your municipality registration date.
+
+One final practical note: if you are comparing CZ against other insurers and want a concrete number to work with, use Independer's comparison tool at the end of the open enrollment window when all 2026 premiums are confirmed. Final premiums are sometimes slightly lower than the indicative amounts published earlier in the year, and running the comparison in late November or December ensures you are working with the exact figure. Small differences in the basic premium compound meaningfully over 12 months.

@@ -434,6 +434,20 @@ The social element is what makes these valuable beyond the language practice its
 
 ---
 
+## What Nobody Tells You About Learning Dutch as an Expat
+
+After more than a decade living in the Netherlands and working with hundreds of expats on their integration, I have noticed a few things about Dutch language learning that are rarely written about but matter enormously.
+
+**The "I live in an English bubble" trap.** Amsterdam, The Hague, Rotterdam, and Eindhoven are among the most internationally accessible cities in the world. You can live comfortably in any of them for years without speaking more than ten words of Dutch. This is simultaneously the best and worst thing about life here. The best, because you are never stranded. The worst, because it makes Dutch language acquisition entirely optional in a way that Italian or Spanish is not, which means progress requires deliberate effort rather than survival necessity.
+
+**Progress is non-linear.** The jump from A1 to A2 feels rapid — new vocabulary stacks quickly. The jump from B1 to B2 can feel impossibly slow. This is universal, not a reflection of your ability. At B1, you can handle most practical situations. The additional sophistication of B2 — nuance, humour, idiom, speed — requires time that apps cannot compress. Manage your expectations around this plateau.
+
+**Dutch people will always tell you your Dutch is goed.** This is warmth, not feedback. If you want honest correction, specifically ask for it: "Spreek ik correct?" or join language exchange communities where correction is the explicit purpose.
+
+**Learning Dutch makes the Netherlands make sense.** This is the less-discussed benefit. Dutch culture has a distinct humour, directness, and perspective on life that is partially encoded in the language. Understanding Dutch well enough to read a local newspaper, catch a joke on the radio, or follow a conversation at a party creates a connection to the country that English interactions alone cannot provide.
+
+---
+
 ## Final Thoughts
 
 There is no single "best" app for everyone. The right choice depends on your learning style, budget, and goals. What matters most is consistency: 15 minutes of daily practice with any of these apps will deliver meaningful results over time.
@@ -441,3 +455,5 @@ There is no single "best" app for everyone. The right choice depends on your lea
 For most expats in the Netherlands, I recommend starting with [Babbel](https://www.babbel.com/) as your primary learning tool. It offers the best balance of structure, practical content, and Dutch-specific material. Supplement it with [Pimsleur](https://www.pimsleur.com/) for speaking practice and Duolingo for quick daily review sessions.
 
 Whatever you choose, start today. Your future Dutch-speaking self will thank you.
+
+The apps are tools, not a guarantee. Progress in Dutch — real, conversational Dutch that makes daily life richer and the country more accessible — comes from consistent daily practice combined with real-world use. Ten minutes of Babbel followed by a genuine conversation attempt at the bakery is worth more than an hour of app use with no speaking outside it. The Netherlands is the perfect classroom: the language is everywhere, the people are patient, and the feedback loop between app learning and real use is immediate. Use that advantage.

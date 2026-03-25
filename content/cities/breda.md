@@ -163,3 +163,5 @@ For BUAS arrivals, the International Office provides pre-arrival guidance that c
 - [Health Insurance for Expats](/guides/health/)
 - [Registering as an Expat in the Netherlands](/guides/legal/bsn-registration-guide-2026/)
 - Other cities to compare: [Rotterdam](/cities/rotterdam/), [Eindhoven](/cities/eindhoven/), [Den Bosch](/cities/den-bosch/)
+
+Breda is one of those cities that works better than it looks on paper. The facilities, the character, and the Brabant pace of life tend to grow on people — and many expats who moved here expecting to leave after a contract end up staying considerably longer.

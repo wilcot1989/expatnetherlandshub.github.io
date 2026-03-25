@@ -363,10 +363,60 @@ If the employer's group contract works for you, use it. If not, the open market 
 
 ---
 
+## Home Contents Insurance (Inboedelverzekering): What Expats Get Wrong
+
+Home contents insurance covers your possessions inside your rental property — electronics, clothing, furniture, bikes (with separate bike coverage as an add-on), and valuables. It is not mandatory in the Netherlands but is very much worth having.
+
+The most common mistake expats make with home contents insurance is either not having it or significantly underinsuring. Dutch cities have relatively low crime rates, but apartment water damage, electrical fires, and theft do happen — and the cost of replacing everything in your home is always higher than you expect.
+
+**What it covers:**
+- Theft or burglary (inbraak) — standard coverage
+- Fire damage (brand)
+- Water damage from burst pipes or flooding
+- Storm damage
+- Contents in a shared storage area (if you have a storage unit in your apartment building's kelder)
+
+**What it does not cover by default:**
+- Bikes outside the home (this requires a separate fietsenverzekering or a specific bike add-on)
+- Very high-value items (jewellery, art, expensive electronics above a certain value) without specific declaration
+- Damage caused by your own negligence in some policies
+
+**Insuring your bike separately:** Dutch bike theft is genuinely common, particularly in Amsterdam and Utrecht. Dedicated bicycle insurance costs €5–15/month depending on bike value and includes theft outside the home. If you have an expensive e-bike or road bike, this is worth adding. For a standard city bike, the maths are less clear — a second-hand bike replacement costs €100–200, and the annual insurance premium may approach that.
+
+**Cost:** Basic home contents coverage in the Netherlands starts from approximately €5–8/month for a typical furnished apartment, rising with coverage amount and location. Compare using Independer, which covers inboedelverzekering alongside health insurance.
+
+<a href="https://www.awin1.com/cread.php?awinmid=19918&awinaffid=2776410&ued=https://www.independer.nl/inboedelverzekering" rel="noopener nofollow sponsored" class="cta-affiliate">Compare home contents insurance on Independer</a>
+
+---
+
+## Travel Insurance for Expats Living in the Netherlands
+
+Dutch health insurance (basisverzekering) provides some coverage when you travel within the EU — you are covered at the same rate as Dutch residents through the EHIC (European Health Insurance Card) system. Outside the EU, coverage is limited and reimbursement rates may not cover the full cost of medical treatment, particularly in the United States or other high-cost countries.
+
+For expats who travel regularly — and most do, both for work and to visit family in their home country — having additional travel insurance is sensible.
+
+**What a standard travel insurance policy adds:**
+- Full medical coverage in non-EU countries, including the USA
+- Emergency medical evacuation (which can cost €50,000+ without insurance)
+- Trip cancellation and delay coverage
+- Lost luggage compensation
+- Personal liability while travelling
+
+**Options:**
+- Year-round annual travel insurance: most practical for frequent travellers, typically €100–200 per year for comprehensive coverage
+- Per-trip policies: good for occasional travellers who take one or two international trips per year outside the EU
+- SafetyWing Nomad Insurance: a rolling subscription option popular with expats who travel extensively — provides international emergency medical coverage from USD 45–56/month
+
+If you visit the United States regularly (family, work), comprehensive travel insurance that explicitly covers US medical costs is not optional. A single emergency room visit in the US can cost €5,000–50,000 without coverage.
+
+---
+
 ## Final Thoughts
 
 Insurance in the Netherlands is not complicated once you understand the layers. Start with the mandatory basisverzekering, add liability insurance in your first week, and then assess what else you need based on your situation. Freelancers should prioritise disability insurance above everything else optional.
 
 The key steps: compare health insurance on Independer before your 4-month deadline, apply for zorgtoeslag if you qualify, and do not over-insure — a basic liability policy and sensible supplementary dental coverage are enough for most expats.
+
+For the full picture of Dutch health insurance beyond the supplementary options, the [best Dutch health insurance plans guide](/blog/best-dutch-health-insurance-plans-2026/) compares all major insurers on premium, service quality, and expat-friendliness. And for anyone newly registering in the Netherlands, the [complete guide to moving to the Netherlands](/guides/legal/complete-guide-moving-to-netherlands-2026/) covers the sequence of registrations, insurance applications, and government interactions in the order they actually need to happen.
 
 *Last updated: March 2026.*

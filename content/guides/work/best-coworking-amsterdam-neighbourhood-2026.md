@@ -361,6 +361,50 @@ If you are considering freelancing from coworking spaces, our [freelancer ZZP gu
 
 ---
 
+## Hidden Costs of Amsterdam Coworking: What to Budget Beyond the Headline Price
+
+Every coworking operator leads with their headline monthly membership price. The full picture is usually different, and for expats budgeting accurately, knowing the common add-ons matters.
+
+**Meeting room charges:** Most operators include a number of free meeting room hours with memberships — typically 5–10 hours per month on hot desk plans. Beyond this, meeting rooms cost €20–75 per hour depending on capacity and operator. If you hold regular client meetings, either choose a plan with more included hours or budget for the additional cost. WeWork's hourly meeting room rates are among the higher end; B.Amsterdam tends to be more reasonable.
+
+**Printing and scanning:** Surprisingly often an add-on. Basic printing (black and white) is usually included in higher-tier plans; colour printing and scanning are frequently charged per page. For a professional who prints regularly — lawyers, architects, consultants presenting to clients — confirm what is included before signing.
+
+**Storage:** If you have equipment that you cannot carry each day, secure storage lockers are often available for €20–50/month additional cost. Essential if you work with photography or video equipment, sensitive documents, or simply want to leave a monitor at the space.
+
+**After-hours access:** Most Amsterdam coworking spaces include 24/7 access for dedicated desk and private office members but may restrict hot desk access to business hours (9am–7pm or similar). If you regularly work evenings or weekends — common for freelancers and those with international clients in different time zones — confirm access hours before committing.
+
+**Parking:** In Amsterdam, parking near a coworking space is expensive or non-existent. Most central Centrum and Zuidas spaces charge €3–5/hour for nearby parking, which is prohibitive for daily commuters. Cycling (with secure bike parking, usually free at coworking spaces) or public transport is the standard solution. If you need to park regularly, this effectively disqualifies most Centrum locations for the cost calculation.
+
+---
+
+## Community Platforms and Networks: Getting Value Beyond the Desk
+
+One frequently overlooked element of coworking value is the community platform — the member network that most operators now run alongside the physical space.
+
+**WeWork's member platform:** WeWork runs an internal community platform (accessible through the WeWork app) where members can post service offers, job listings, event invites, and collaboration requests. In Amsterdam's WeWork locations, this platform is genuinely active. For expats building a professional network from scratch, the ability to post "I offer [service X]" and reach hundreds of co-members immediately has real value.
+
+**B.Amsterdam's community programme:** B.Amsterdam runs a structured community programme that includes regular networking breakfasts, sector-specific meetups, and mentoring connections. Their approach is more curated than WeWork's open platform — a community manager facilitates introductions. If you are building a business in the Netherlands and want deliberate introductions rather than algorithmic connections, B.Amsterdam's approach is more effective.
+
+**Slack workspaces:** Many smaller and independent coworking spaces use Slack as their community platform. These tend to be more intimate than the large chain networks — a space with 100 members has a more active Slack than one with 500. When evaluating independent spaces, ask about the community platform and how active it is. A quiet Slack is a sign of a community that has not formed.
+
+**The unplanned value:** Some of the most useful professional connections I have made through coworking in Amsterdam were not facilitated by platforms or managers — they happened at the coffee machine, over lunch, or during a chance conversation about a shared client. Physical proximity to interesting people over weeks and months generates connections that no digital platform replicates. This is an argument for choosing a space with the right professional community over the cheapest space in the most convenient location.
+
+---
+
+---
+
+## How Amsterdam Coworking Has Changed Since 2020
+
+Amsterdam's coworking market went through a significant consolidation between 2020 and 2023. The pandemic-driven remote work boom brought rapid expansion; the hybrid work normalisation that followed created overcapacity; and the market has since stabilised at a higher quality baseline.
+
+**What changed:** Several operators who expanded aggressively in 2021–2022 have since closed marginal locations or consolidated into fewer, better-maintained spaces. The net effect for 2026 is a market where surviving operators are generally well-capitalised and well-managed — the weak players have exited. This means less risk of signing a membership at a space that closes six months later.
+
+**What stayed the same:** The fundamental split between corporate operators (WeWork, Spaces, Mindspace) serving international companies and professionals, and independent/niche spaces (B.Amsterdam, A Lab, NDSM operators) serving the startup and creative communities. Both segments are healthy.
+
+**The pricing shift:** After a period of inflation in 2022–2023, Amsterdam coworking prices have stabilised. The range I quote in this guide reflects actual 2026 pricing — not the inflated post-pandemic peak. For expats arriving now, you are entering a market with good supply and competitive pricing.
+
+---
+
 ## Useful Resources
 
 - [Coworker.com: Amsterdam listings](https://www.coworker.com/netherlands/amsterdam)

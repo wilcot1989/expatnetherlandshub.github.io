@@ -174,3 +174,6 @@ Corporate relocations to Amstelveen are typically handled by the employer's relo
 - [Registering as an Expat in the Netherlands](/guides/legal/bsn-registration-guide-2026/)
 - [Amsterdam Expat Guide](/cities/amsterdam/)
 - [Haarlem Expat Guide](/cities/haarlem/)
+- [The Hague Expat Guide](/cities/the-hague/)
+
+Amstelveen rewards patience. The first impression is suburban and functional. The longer impression — particularly for families, for people who travel frequently to Schiphol, and for those who value outdoor access to the Amsterdamse Bos — is considerably better.

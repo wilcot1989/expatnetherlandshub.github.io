@@ -338,3 +338,21 @@ Gorillas was acquired by Getir in 2022. Getir then went through significant fina
 ### Do Dutch food delivery apps accept iDEAL?
 
 Yes. All major food delivery apps operating in the Netherlands accept iDEAL, which matters greatly in a market where iDEAL is the dominant payment method. If you are still sorting out your Dutch banking setup, read my [guide to opening a bank account in the Netherlands](/guides/finance/how-to-open-bank-account-netherlands-2026/). Thuisbezorgd, Uber Eats, Picnic, Flink, and Crisp all accept iDEAL. They also accept credit and debit cards.
+
+---
+
+## Building a Delivery Routine That Works for Your Dutch Life
+
+After years of relying on various combinations of delivery apps in Amsterdam, here is the practical routine I have settled on and recommend to newly arrived expats.
+
+**Weekly grocery:** Picnic, ordered Sunday evening for Monday or Tuesday delivery. Takes 10 minutes, covers the week's staples at the best price, and leaves the fridge stocked before the working week starts.
+
+**Quick restaurant nights:** Thuisbezorgd, used two or three times per month when cooking feels like too much effort after a long day. The Indonesian and Thai options in most Dutch cities are genuinely excellent and represent some of the best value eating available.
+
+**Emergency supplies:** Flink, used rarely — maybe once a month when something critical runs out unexpectedly. Knowing it is there makes it less necessary.
+
+**Specialty or treat delivery:** Crisp, used occasionally for weekends when I want quality ingredients rather than supermarket standard. Their bread and dairy selection in particular is significantly better than Albert Heijn's equivalent.
+
+This four-app stack handles everything without any monthly subscriptions. Total overhead: zero. Total flexibility: maximum. Most expats find they converge on something similar after the initial experimentation phase.
+
+For a broader view of Dutch grocery shopping — including the physical supermarkets, specialty stores, and weekly markets that complement delivery — see the [complete guide to grocery shopping in the Netherlands for expats](/guides/daily-life/best-grocery-delivery-netherlands-2026/). And if you are still in the process of setting up your Dutch bank account for iDEAL payments, the [bank account guide](/guides/finance/best-bank-account-expats-netherlands-2026/) walks through which account to open first.

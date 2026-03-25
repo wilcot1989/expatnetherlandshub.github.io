@@ -350,6 +350,64 @@ Most staff at commercial gyms (Basic-Fit, Trainmore, David Lloyd) speak English.
 
 ---
 
+## Boutique and Specialist Fitness in the Netherlands
+
+Beyond the main gym chains, the Netherlands has developed a substantial boutique fitness sector, particularly in Amsterdam and Rotterdam.
+
+### CrossFit Boxes
+
+CrossFit has a strong following in the Netherlands, with affiliated "boxes" in all major cities. A typical monthly membership costs €80–120, including daily coached WODs (workouts of the day). Most Dutch CrossFit boxes have English-speaking coaches and a welcoming attitude toward expats. The community aspect is particularly strong — Dutch CrossFit boxes tend toward a tight-knit membership that socialises beyond the gym.
+
+Find an affiliated box through crossfit.com's affiliate map. In Amsterdam, CrossFit Amsterdam (Prinsengracht area) and CrossFit Oost are both well-regarded. Rotterdam's CrossFit Centrum is popular in the south.
+
+### Yoga Studios
+
+Yoga in the Netherlands has matured significantly, with a mix of traditional yoga disciplines and newer formats. Hot yoga, aerial yoga, and yin yoga are all available in major cities. Monthly memberships at dedicated yoga studios range from €60–120. Urban Sports Club includes several yoga studios in its network, which is one efficient way to access yoga alongside other fitness formats.
+
+### Pilates
+
+Pilates studios are particularly common in Amsterdam and The Hague — both cities with significant expat communities and demand for reformer-based classes. Mat pilates classes typically cost €12–20 per class; reformer classes cost €20–35. Monthly unlimited passes at pilates studios run €100–180.
+
+### Bouldering and Climbing
+
+Indoor climbing and bouldering has grown rapidly in the Netherlands. The main chains are:
+
+- **Monk Boulders:** Multiple locations in Amsterdam and Rotterdam, modern facilities, good for beginners and experienced climbers alike
+- **Klimmuur:** Part of the NDSM/Boulderhal concept, strong community
+- **AeroClimbing:** Utrecht and surrounding areas
+
+Monthly memberships at bouldering gyms typically cost €40–65 — good value if you climb twice a week. Day passes cost €10–15. No experience is necessary to start — most facilities offer introductory sessions.
+
+---
+
+## Making the Most of Dutch Public Outdoor Space for Fitness
+
+One aspect of Dutch fitness culture that surprises many expats: the range of free outdoor options in every major Dutch city.
+
+**Outdoor fitness equipment (buitensporttoestellen):** Many Dutch public parks have installed outdoor fitness equipment — pull-up bars, parallel bars, balance beams, and resistance equipment — freely accessible. These are part of the Dutch municipality investment in public health. In Amsterdam, the Vondelpark, Westerpark, and Sarphatipark all have outdoor equipment. Finding them is easiest through the "buitensporttoestellen" category on Google Maps or through the Parks section of your municipality's website.
+
+**Park bootcamp classes:** Most Dutch cities have organised outdoor bootcamp or HIIT classes running year-round in public parks. These are typically low-cost (€5–10 per session) or part of a monthly pass. Outdoor Fitness Amsterdam, Rotterdam Outdoor Sports, and similar operations run structured classes in multiple parks across the week. These are an effective way to stay fit while meeting other fitness-minded expats.
+
+**Cycling as cross-training:** This deserves mention specifically for expat runners and gym-goers. Commuting by bike in the Netherlands — even a 15-minute daily commute — contributes meaningfully to cardiovascular fitness. Many expats who cycle daily find their overall fitness level is higher in the Netherlands than in their home country, even without a gym membership. The Dutch infrastructure makes cycling the default transport mode, and the fitness benefit comes free with daily life.
+
+---
+
+## What to Expect in Your First Month at a Dutch Gym
+
+A few cultural observations that help expats feel at home faster in Dutch fitness environments.
+
+Dutch gym culture is less performative than in many Anglophone countries. People at Basic-Fit and most Dutch gyms are there to work out, not to be seen working out. Headphones on, focused, polite but rarely chatty unless you initiate. This is not unfriendliness — it is the Dutch respect for individual space and purpose.
+
+What is expected: wiping down equipment after use (all Dutch gyms provide cleaning spray and paper towels at stations), returning weights and equipment to their designated places, and not occupying equipment during rest periods when the gym is busy.
+
+What is not expected: elaborate warm-up rituals in high-traffic areas, extended phone calls or video calls from the gym floor, or claiming equipment with a towel and walking away. The Dutch directness means that if you are violating implicit norms, someone will politely but clearly let you know.
+
+**Locker room notes:** Dutch gym locker rooms are less squeamish about nudity than American or UK equivalents. Communal showers without privacy partitions are common at older municipal pools and traditional sports clubs. This is normal and unremarkable. Newer commercial gyms (Basic-Fit, Trainmore) typically have individual shower stalls.
+
+**English on gym equipment:** Most commercial chain gyms display machines and instructions in Dutch and English. App interfaces are bilingual. Independent sports clubs and municipal pools are more likely to be Dutch-only — a phone translator handles anything unclear.
+
+---
+
 ## Explore More Expat Guides
 
 - **[Cost of Living Netherlands](/guides/housing/cost-of-living-netherlands-2026/)** — Budget planning

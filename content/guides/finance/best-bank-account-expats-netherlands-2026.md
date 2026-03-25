@@ -401,6 +401,50 @@ See the [freelancer ZZP guide](/guides/work/freelancer-zzp-guide-netherlands-202
 
 ---
 
+## Banking Without a BSN: Your First Weeks in the Netherlands
+
+One of the most common frustrations for newly arrived expats is the chicken-and-egg problem: you need a BSN to open a Dutch bank account, and you need to register with a gemeente to get a BSN, and registering often requires a Dutch address, which your prospective landlord wants payment for... before you have a bank account.
+
+Here is how most expats navigate this in practice:
+
+**Step 1: Arrive with a Wise account already open.** Wise requires no Dutch address or BSN to open — you can open it from your home country before you travel. It gives you a European IBAN (not Dutch, but accepted in many contexts) and allows you to hold and convert between currencies immediately. This covers you for the first weeks.
+
+**Step 2: Register at the gemeente as soon as possible.** You can typically register after finding a rental (even temporary accommodation counts in many municipalities). Bring your passport, your tenancy agreement or address confirmation, and your birth certificate. After registration, your BSN is usually provided immediately or mailed within a few days.
+
+**Step 3: Apply for a Dutch bank account.** With your BSN, Dutch address, and passport, you can apply to ING, ABN AMRO, Bunq, or N26. Digital banks (Bunq, N26) process applications faster — sometimes same-day. Traditional banks may have a 5–10 business day wait.
+
+**The gap period:** For the 2–4 weeks between arrival and getting your Dutch bank account, the Wise account handles most needs. The main limitation is Dutch iDEAL payments — some government portals and local services require a Dutch bank. For those, ask a Dutch friend or colleague to pay and reimburse them via Wise or Tikkie.
+
+---
+
+## Sending Money to Your Dutch Account: Getting the Best Rate
+
+Whether you are transferring your savings from your home country to the Netherlands for the first time, or regularly moving money between your Dutch account and a home account, the exchange rate and fees matter enormously.
+
+**The cost of traditional bank transfers:** A standard SWIFT transfer from a UK, US, or Australian bank to a Dutch account typically involves a sending fee (€10–30), a correspondent bank fee (€5–15), and an exchange rate markup of 2–4% above the mid-market rate. On a €10,000 transfer, this can cost €250–450 in total.
+
+**The Wise alternative:** Wise uses the mid-market exchange rate (the real rate you see on Google) and charges a transparent percentage fee, typically 0.35–1.5% depending on currency pair. On a €10,000 transfer from GBP, total fees are typically €50–100 — a saving of €150–350 compared to a traditional bank.
+
+For expats making regular monthly transfers (for example, maintaining a mortgage or investment in their home country from Dutch earnings), the cumulative saving over a year is substantial.
+
+<a href="https://wise.com/invite/ihpc/willemt52" rel="noopener nofollow sponsored" target="_blank" class="cta-affiliate">Send money internationally with Wise — real exchange rates</a>
+
+---
+
+## What Happens to Your Dutch Bank Account When You Leave
+
+A frequently overlooked aspect of Dutch banking: what to do with your accounts when you eventually leave the Netherlands.
+
+**Closing your account:** Most Dutch banks allow account closure by online request or by visiting a branch. You will need to redirect any active direct debits and incoming salary payments first. Allow at least 2–4 weeks for the process. Bunq allows full account closure through the app.
+
+**Keeping your account open:** If you expect to return to the Netherlands, keep the account open. ING and ABN AMRO both allow accounts to remain active for non-residents, though they may require updated address information. Bunq explicitly supports non-resident accounts.
+
+**Wise account:** Your Wise account remains fully functional regardless of where you live. This is one of its genuine advantages for expats who move between countries — it is not tied to residency in any specific country.
+
+**Tax implications on departure:** When you deregister from a Dutch gemeente, your tax obligations shift. Any Dutch bank accounts and investments held on 1 January after your departure year are no longer subject to Dutch Box 3 wealth tax. Coordinate the timing of your departure deregistration with your accountant to manage the transition correctly.
+
+---
+
 ## Related Guides
 
 - [Complete Guide to Moving to the Netherlands in 2026](/guides/legal/complete-guide-moving-to-netherlands-2026/) -- your full relocation checklist
@@ -424,3 +468,5 @@ This combination gives you the best of both worlds: low-cost international trans
 Start by opening your <a href="https://wise.com/invite/ihpc/willemt52" rel="noopener nofollow sponsored" target="_blank">Wise account today</a> so you are ready to hit the ground running when you arrive.
 
 <a href="https://wise.com/invite/ihpc/willemt52" class="cta-affiliate" rel="noopener nofollow sponsored" target="_blank">Open Your Free Wise Account →</a>
+
+For more on managing your finances in the Netherlands — budgeting apps, investment platforms, and tax planning tools — see the [finance apps guide](/guides/finance/best-finance-apps-expats-netherlands-2026/) and [Dutch tax system guide](/guides/finance/dutch-tax-system-expats-guide-2026/). The [international money transfer guide](/guides/finance/best-international-money-transfer-netherlands-2026/) covers in detail how to minimise costs when moving money across borders — essential reading for any expat managing finances in more than one country.

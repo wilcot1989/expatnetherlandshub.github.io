@@ -272,6 +272,39 @@ For a comprehensive app guide, see the [best Dutch apps for expats guide](/guide
 
 ---
 
+## International Calls: The Honest Comparison
+
+For expats who call family or colleagues abroad regularly, the difference in international calling rates between providers is worth calculating explicitly before choosing.
+
+**Per-minute rates (approximate 2026):**
+- KPN: €0.06–0.15 per minute to most EU countries; €0.25–0.60 to non-EU destinations like India, Brazil, or Nigeria
+- T-Mobile / Odido: Similar to KPN for EU calls; slightly lower on some non-EU routes
+- Lebara: Includes calls to 50+ countries in their bundles (UK, Germany, France, Spain, Portugal, Netherlands, India, Pakistan, and many more) — effective cost is €0 per minute on bundled routes
+- Lyca Mobile: Similar to Lebara, strong on South Asian and Middle Eastern routes
+
+**The practical calculation:** If you call India for 30 minutes per week and KPN charges €0.35/minute, that is €10.50/week — €42/month just in international call costs, on top of your data plan. A Lebara plan that includes India in its bundle at €15/month total saves you over €25/month.
+
+This calculation changes everything for expats from countries on Lebara or Lyca's included lists. The "premium" provider recommendation goes out the window when the cost math is this stark.
+
+**Voice over IP as the default:** Most expat-to-expat communication now happens over WhatsApp, FaceTime, or Signal calls, which use data rather than voice minutes and have no additional cost. If your family and friends use one of these platforms — which is increasingly universal — your actual voice call requirement may be minimal, making standard bundles without international minutes perfectly adequate.
+
+---
+
+## 5G in the Netherlands: Is It Worth Caring About?
+
+5G coverage in the Netherlands has expanded significantly since 2023, but whether it matters for your plan choice depends on your usage.
+
+**Where 5G actually exists (2026):**
+- T-Mobile / Odido: Strongest 5G coverage, leading the rollout. Good coverage across the Randstad and major cities, improving in secondary cities and suburban areas.
+- KPN: Solid urban 5G, more extensive rural infrastructure but slower 5G rollout pace.
+- Vodafone: Decent urban 5G, ongoing expansion.
+
+**For most expats, 4G is sufficient.** Video calls, streaming, navigation, banking apps, social media — all work flawlessly on 4G LTE speeds of 30–80 Mbps. You would only notice the practical difference of 5G if you regularly transfer large files over mobile, stream high-definition video on a phone screen, or work in a high-density environment where networks get congested (stadiums, large events, rush-hour train stations).
+
+If you have a 5G-capable phone and are choosing between T-Mobile and KPN at similar prices, T-Mobile's 5G network lead is a minor point in their favour. But choosing a provider primarily for 5G over pricing or coverage quality in your specific area is not the right prioritisation for most users.
+
+---
+
 ## Conclusion
 
 The Dutch mobile market is one of the better ones in Europe for expats. Month-to-month plans are the norm, prices are reasonable, and the major networks all have solid 4G coverage with 5G expanding rapidly. You are not locked in, you are not stuck with a single language, and the budget MVNO market means you can get genuinely good value without sacrificing coverage.
@@ -279,6 +312,75 @@ The Dutch mobile market is one of the better ones in Europe for expats. Month-to
 My personal pick for most newly arrived expats is Simyo — KPN coverage, no contract, competitive pricing, and a reasonably user-friendly sign-up process. If international calls matter, add Lebara to the mix or switch to them entirely.
 
 Take an afternoon to compare a few options, check the current promotions, and do not overthink it. You can always switch.
+
+---
+
+## Switching Providers: How It Actually Works
+
+One thing that puts people off switching Dutch mobile providers is the worry that they will be without a phone for days. This concern is outdated. The Dutch number portability system has been refined over the years and a switch typically takes one working day.
+
+**The process:**
+1. Sign up with your new provider and indicate you want to port your existing number
+2. Your new provider submits the portability request automatically
+3. On the agreed transfer date (usually the next business day), your number switches to the new network
+4. Your old contract is cancelled at the moment of porting — you do not need to contact your old provider separately
+
+**One important rule:** Do not cancel your old contract manually before the porting is complete. If you cancel first, you lose the number. The cancellation happens automatically through the portability process.
+
+**Mid-contract timing:** If you are on a 24-month contract, check your remaining months. Early termination fees are capped at the remaining subscription cost for the residual period — so if you have 3 months left at €25/month, you pay at most €75 to exit. For month-to-month contracts, one month's notice is the maximum.
+
+---
+
+## The Business Case for a Separate Work Phone
+
+For ZZP'ers and freelancers operating in the Netherlands, there is a genuine tax argument for having a dedicated work phone and plan.
+
+A phone used exclusively for business is 100% deductible as a business expense (bedrijfskosten). This means on a €20/month plan, you save roughly €7–8 per month in income tax at the standard rate. Over a year, that is €84–96 in tax savings on a €240 annual phone cost.
+
+More significantly, the handset itself is deductible. A €600 phone purchased for business use reduces your taxable profit by €600, saving you around €220 in tax. The phone must genuinely be used primarily for business — keeping personal social media and private messaging off the device is good practice if you are deducting it.
+
+For expats who use a single phone for both personal and business purposes, the standard approach is to deduct a proportion based on actual business use. Many self-employed people estimate 75–80% as a reasonable business use proportion for a phone, though you should confirm with your boekhouder (accountant) what is appropriate for your situation.
+
+---
+
+## eSIM for Expats: Making the Most of Dual-SIM
+
+If you have a modern smartphone (iPhone XS or later, most Android flagships from 2020 onward), eSIM gives you a capability that is genuinely useful for expats: running two active phone numbers simultaneously.
+
+**How expats use dual-SIM:**
+- Physical SIM: Home country number (family calls, banking SMS, subscriptions you have not yet changed)
+- eSIM: Dutch number (work, local contacts, Dutch government, DigiD)
+
+This is the most practical solution for the first 6–12 months in the Netherlands, before you have fully transitioned all your contacts and services to your Dutch number. Once you are ready to commit fully to the Dutch number, you simply deactivate the home SIM and use the slot for something else.
+
+**eSIM providers in the Netherlands (2026):**
+- KPN: eSIM for both prepaid and contract plans
+- T-Mobile (Odido): eSIM for all plan types
+- Vodafone: eSIM for contract plans
+- Simyo: eSIM added in late 2025 — available with flex contracts
+
+For short-term travel and holidays within the Netherlands or Europe, eSIM from international providers like Airalo can supplement your Dutch number without replacing it.
+
+---
+
+## Home Internet and Mobile: Should You Bundle?
+
+KPN and T-Mobile (Odido) both offer combination discounts when you take mobile and home broadband from the same provider. The discounts are typically €5–10/month on the mobile plan, or sometimes a free months of service.
+
+Whether bundling makes sense depends on your specific situation:
+
+**Bundle makes sense if:**
+- You are new to the Netherlands and want a single billing arrangement
+- The discount is genuinely worth more than the difference between the bundled provider and the best standalone alternatives
+- You travel frequently and want consistent network access at home and on mobile
+
+**Bundle does not make sense if:**
+- Your preferred home internet provider (Ziggo, for example) does not offer bundled mobile
+- The best value mobile plan is from a budget MVNO like Simyo, which cannot bundle with home internet
+
+Run the numbers specifically. A €5/month bundle discount is worth less than switching your mobile plan from €25/month to €15/month on a competing provider.
+
+For home broadband comparison, see our [best internet providers in the Netherlands guide](/guides/daily-life/best-internet-providers-netherlands-2026/).
 
 ---
 

@@ -292,3 +292,9 @@ Yes. Nuffic's IDW statement costs approximately €100–€150 depending on the
 **Do EU diplomas need to be recognised in the Netherlands?**
 
 EU diplomas are generally recognised under EU mutual recognition directives, particularly for regulated professions. For non-regulated work, Dutch employers typically accept EU qualifications based on the country and institution. However, some employers and institutions still request a Nuffic IDW statement for clarity.
+
+---
+
+## One Last Piece of Advice
+
+Whatever your situation, the most important thing is not to let the recognition process become a reason to delay your job search or career planning. The IDW statement is a supporting document, not a requirement for most roles — start applying while you are preparing it, rather than waiting for it to arrive before you make contact with employers. Dutch hiring managers understand that international candidates are navigating qualification recognition alongside the job search, and most are practical about it. Having the process underway is often sufficient.

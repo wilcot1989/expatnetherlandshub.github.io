@@ -178,3 +178,5 @@ The city's park system is generous. The Westbroekpark, the Scheveningse Bosjes, 
 - [Finding Housing in the Netherlands](/guides/housing/)
 - [Working in the Netherlands](/guides/work/)
 - [Health Insurance for Expats 2026](/guides/health/)
+
+The Hague is the most organised expat city in the Netherlands — decades of international institutional presence have built infrastructure that newer international clusters in other cities are still developing. If the international sector is your world, this is where that world is most fully built out.

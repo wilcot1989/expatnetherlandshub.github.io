@@ -299,3 +299,9 @@ An opticien (optician) measures your vision and prescribes and fits glasses and 
 **Can I bring my existing glasses prescription from another country?**
 
 Yes. If you have a valid glasses prescription from another country, Dutch opticians will generally use it to make new glasses or fit contact lenses. However, most Dutch opticians will do a quick check to verify the prescription is current (typically valid for 1-2 years) before making expensive eyewear. If your prescription is more than two years old, they may recommend a new eye test.
+
+---
+
+## Getting Your Eye Care Sorted Early
+
+One practical note for new arrivals: sorting your eye care within the first few weeks of moving to the Netherlands is worth doing even if it does not feel urgent. Booking a free eye test at a chain like Specsavers, updating your prescription if it has lapsed, and checking your supplementary insurance coverage sets you up before you actually need emergency eyewear. Optician chains in major cities are easy to walk into and book same-day or next-day appointments in most cases, making this one of the simpler healthcare tasks to get done early in your settling-in process.

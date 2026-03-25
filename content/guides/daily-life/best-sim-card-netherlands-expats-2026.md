@@ -387,3 +387,70 @@ The practical effect: if you sign up with a premium provider initially and later
 ---
 
 Getting your Dutch SIM card is one of the first steps in settling into the Netherlands. Combine it with a [Dutch bank account](/guides/finance/best-bank-account-expats-netherlands-2026/) and [health insurance](/guides/health/dutch-health-insurance-guide-expats-2026/), and you will have the basics covered in your first week. For a complete overview of everything you need to do when you arrive, see our [complete guide to moving to the Netherlands](/guides/legal/complete-guide-moving-to-netherlands-2026/). If you want a broader look at mobile contracts beyond SIM-only options, our [Dutch phone plans guide](/guides/daily-life/best-dutch-phone-plans-expats-2026/) covers full contracts and handset deals. Once you have your mobile plan sorted, the next step is setting up home broadband — see our [best internet providers in the Netherlands guide](/guides/daily-life/best-internet-providers-netherlands-2026/) for a full comparison of KPN, Ziggo, and budget alternatives.
+
+---
+
+## What the Dutch Mobile Market Looks Like in Practice
+
+Something that surprises many expats when they first explore the Dutch SIM card market: the physical retail experience is less prominent than you might expect. The Netherlands has moved significantly toward online SIM card ordering and self-service activation. You will find SIM cards at Albert Heijn supermarkets, Kruidvat pharmacies, Primera newsagents, and MediaMarkt electronics stores — but the in-store range is typically limited to the two or three most popular prepaid options.
+
+**Where to buy a SIM in the Netherlands:**
+- **Supermarkets (Albert Heijn, Jumbo, Lidl):** Lebara, Lyca Mobile, and some KPN prepaid. Simple and accessible on your first day.
+- **Albert Heijn at Schiphol Airport:** Open 24 hours, sells prepaid SIMs. If you arrive late and need connectivity immediately, this is your first stop.
+- **Primera newsagents:** Good stock of prepaid SIMs across most brands, widely distributed across Dutch cities.
+- **MediaMarkt / Coolblue:** Wider selection including some contract SIMs. Staff can explain options in English.
+- **Provider stores:** KPN, T-Mobile, and Vodafone all have retail stores in city centres, staffed and able to set up both prepaid and contract plans in-store.
+
+The trend is clearly toward online ordering. The best prices and plan options are on provider websites, and most new customers sign up online. For eSIM specifically, in-store activation is not available — it is always an online process through the provider app.
+
+---
+
+## Dutch Mobile Data and App Consumption Patterns
+
+One thing worth calibrating before choosing your data bundle: how much data you will actually use in the Netherlands versus your previous country.
+
+Dutch WiFi coverage is among the most extensive in Europe. Free WiFi is available:
+- On all NS trains (the national rail network)
+- In all major airports
+- In most Albert Heijn and major supermarkets
+- In libraries, museums, and most public buildings
+- At the majority of cafés and restaurants
+- In most coworking spaces
+
+The practical effect: if you work from an office or coworking space with WiFi, commute by train with WiFi, shop at Albert Heijn with WiFi, and live in an apartment with home broadband — your actual mobile data consumption may be significantly lower than you currently use at home. Many expats who arrive expecting to need a 30 GB plan discover that a 10–15 GB plan is adequate for their Netherlands-based life.
+
+The main data consumption categories that do not have a WiFi alternative:
+- Navigation (Google Maps, Waze) when driving or cycling
+- Streaming content during outdoor activities
+- Photography uploads in the moment
+- Video calls from parks, beaches, or outdoor locations
+
+For most expats in Dutch cities, 10–20 GB per month is the realistic consumption range once settled. Start with a smaller bundle on a flex contract and upgrade if needed — it is straightforward to change.
+
+---
+
+## Using Your Dutch Number Outside the Netherlands
+
+Once you have a Dutch SIM, you are covered for EU roaming at no extra cost — a significant benefit for expats who travel regularly within Europe. Your Dutch data, calls, and texts work in Germany, Belgium, France, Spain, Italy, and all other EU/EEA countries at no additional charge (subject to fair use limits).
+
+**The fair use reality:** EU roaming regulations allow providers to apply a surcharge if your EU roaming data use consistently exceeds your Dutch usage. In practice, this threshold is high and rarely affects expats who have a Dutch primary life and travel occasionally. The threshold roughly means: if you spend more consecutive days roaming in the EU than you spend in the Netherlands, you might trigger a small surcharge.
+
+**Outside the EU:** If you travel to the UK (post-Brexit), Switzerland, Turkey, or further afield, EU roaming does not apply. Most Dutch providers offer add-on bundles for these destinations at €5–15 for a travel pack. Check your provider's website before international travel to understand costs.
+
+**Calling home versus roaming:** Calling your Dutch number from outside the Netherlands (someone calling you while you are abroad) is free for you — you receive calls at your normal Dutch rate regardless of where you are in the EU. Calling out internationally from your Dutch SIM uses your standard calling rates or international bundles.
+
+---
+
+## Setting Up Your Account Online: Practical Tips
+
+For expats setting up a Dutch SIM online for the first time, a few things help the process go smoothly:
+
+**Identity verification:** Dutch providers are required by law to verify your identity before activating a contract SIM. The process is typically done by uploading a photo of your passport or ID via the provider's app or website, plus a selfie for facial recognition. This takes 5–10 minutes and is usually processed automatically within hours.
+
+**IBAN requirement:** Contract SIM cards require payment by direct debit (automatische incasso) from a Dutch or EU IBAN. If you have a Wise account with an EU IBAN, this typically works. If you have only a home-country non-EU bank account, you will need to wait until you have a Dutch or European account set up.
+
+**Dutch address requirement:** Your registered Dutch address (the one you use for gemeente registration) is required for the contract application. Temporary accommodation addresses (hotel, Airbnb) are sometimes rejected by automated systems. If this happens, Lebara prepaid is your bridge option — it does not require a registered address.
+
+---
+
+For privacy tips specific to Dutch mobile use, see our [VPN guide for expats in the Netherlands](/guides/daily-life/best-vpn-netherlands-expats-2026/). For the full picture of everything you need to set up in the first weeks, see our [complete guide to moving to the Netherlands](/guides/legal/complete-guide-moving-to-netherlands-2026/). And for a broader view of the mobile market including full phone contracts and handset deals rather than just SIM-only options, the [best Dutch phone plans guide](/guides/daily-life/best-dutch-phone-plans-expats-2026/) covers the complete landscape of Dutch mobile providers in 2026.

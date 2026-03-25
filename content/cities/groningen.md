@@ -171,3 +171,5 @@ One thing specific to Groningen: the earthquake damage compensation programme (f
 - [Working in the Netherlands](/guides/work/)
 - [Health Insurance for Expats 2026](/guides/health/)
 - [Registering as an Expat in the Netherlands](/guides/legal/bsn-registration-guide-2026/)
+
+Groningen is the best value-for-quality city in this guide for expats whose work does not require a Randstad location. The combination of affordable rents, a lively university-driven culture, and genuinely good infrastructure makes it a city that is easy to underestimate before you visit.

@@ -170,3 +170,5 @@ The DigiD application takes about a week as a letter is sent to your registered 
 - [Finding Housing in the Netherlands](/guides/housing/)
 - [Working in the Netherlands](/guides/work/)
 - [Health Insurance for Expats 2026](/guides/health/)
+
+Amsterdam is not the easiest city to land in, but for most internationally mobile professionals it remains the most fully equipped — in terms of expat infrastructure, English-language services, and professional opportunity. Go in with accurate expectations about housing, and the rest is manageable.

@@ -355,3 +355,31 @@ A few practices that make this manageable:
 ---
 
 The Dutch app ecosystem is, in my view, a genuine reflection of how the Netherlands works: practical, efficient, with a slight bias toward assuming you know what you are doing. Once you have the core stack set up — DigiD, your bank app, Tikkie, 9292, Buienradar — daily life in the Netherlands becomes considerably less friction. Install them in order, get the authentication sorted in the first two weeks, and you will spend a lot less time confused and a lot more time cycling through the rain at the optimal moment.
+
+---
+
+## Apps That Dutch Expats Wish They Had Found Sooner
+
+After many years helping people settle into the Netherlands, I have noticed consistent patterns: certain apps are mentioned in retrospect by almost everyone as "I wish I had found this sooner." Here is that list.
+
+**Too Good To Go:** Food waste app where restaurants, supermarkets, and bakeries sell end-of-day surplus at 60–70% discount. A "magic bag" from a local bakery costs €3–4 and contains €10–15 of bread, pastries, and sandwiches. Used daily by a significant portion of the Amsterdam population and expanding rapidly. It also becomes a reliable way to try local food places — the surprise element is part of the appeal. Available across all Dutch cities.
+
+**Nextdoor (Burenapp):** A neighbourhood social network used extensively in Dutch residential areas. People post about lost cats, neighbourhood events, local recommendations, secondhand items, and mutual help requests. It is one of the fastest ways to understand and connect with the people literally around you. Many expats who have used it describe it as transforming their sense of neighbourhood belonging within weeks of joining.
+
+**Donkey Republic / Swapfiets:** For expats who do not yet have a bike and do not want to invest in one, Donkey Republic offers dock-free bike rental by the hour or day (€2–6/hour). Swapfiets is a subscription bike service (€19–28/month) where they deliver a bike to your door, maintain it, and replace it if it breaks. Neither is as economical as owning a secondhand bike for long-term use, but both solve the first-weeks transport problem while you find your feet.
+
+**Funda:** The dominant Dutch property platform for renting and buying. Even if you are already housed, creating a Funda account and enabling alerts is standard practice for anyone anticipating a housing move. The Dutch rental market moves fast — the most desirable listings are gone within days. Having alerts set up means you see new listings as they go live.
+
+**Thuisbezorgd for the "meeneem" moment:** Beyond delivery, the Thuisbezorgd app is useful for preordering pickup meals from restaurants — ordering ahead to collect on your way home. This "meeneem" (takeaway pickup) use case is underappreciated and is genuinely convenient in Dutch cities where walking past excellent food on the way home from work is a daily temptation.
+
+---
+
+## App Permissions and Privacy: What to Accept
+
+One distinctly Dutch practical note: Dutch apps and government services take data privacy more seriously than many equivalents in the US or UK. Several apps ask for minimal permissions and explain clearly what they collect.
+
+DigiD collects very limited usage data. The Belastingdienst app is among the most privacy-respecting tax apps in Europe. Dutch banking apps comply with strong European PSD2 and GDPR requirements.
+
+When apps ask for location permissions, microphone access, or contact list access, consider whether the functionality requires it. Buienradar genuinely requires location to give hyperlocal rain forecasts — approve it. A shopping app asking for microphone access with no clear reason — decline it.
+
+The Netherlands has an active digital rights community (Bits of Freedom, for example) that regularly audits popular Dutch apps for privacy compliance. Their reports are public and worth checking if you are privacy-conscious.

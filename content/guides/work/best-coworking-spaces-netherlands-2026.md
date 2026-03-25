@@ -316,6 +316,58 @@ Wherever you work in the Netherlands, protect your data on shared networks with 
 
 <a href="https://go.nordvpn.net/aff_c?offer_id=612&aff_id=141337&url_id=14830" target="_blank" rel="noopener nofollow sponsored" class="cta-affiliate">Get NordVPN for secure remote work →</a>
 
+## When Coworking Is Not the Right Answer
+
+Coworking is often presented as the obvious solution for remote workers and freelancers, but it is worth being honest about when it does not make sense.
+
+**If your work requires absolute silence or strict confidentiality:** Many coworking spaces — particularly the open-plan, social environments that dominate the Dutch market — are not appropriate for work involving highly confidential client discussions, legal or medical consultations, or any context where overhearing matters. A private office within a coworking space solves this, but at a price point that approaches a standalone office lease. If confidentiality is a primary requirement, explore serviced offices or a private office subscription.
+
+**If you rarely actually work away from home:** For ZZP'ers with a dedicated home office and limited need for external meetings, the numbers often do not add up. A virtual office for your KvK registration (€50–100/month) plus occasional day passes for client meetings is significantly cheaper than a hot desk membership (€150–400/month) if you would only use the coworking space two or three days a month.
+
+**If you are on a very tight freelance budget:** In the first year of ZZP life, income is often variable and every cost matters. The free work environments available in the Netherlands — public libraries with WiFi and work tables, Albert Heijn and café environments with stable connectivity, university libraries in cities with student populations — are genuinely functional as occasional work environments. Dutch public libraries (openbare bibliotheken) in particular are underused by expats: they are free, have fast WiFi, reliable desk space, and quiet areas. The OBA (Openbare Bibliotheek Amsterdam) at Oosterdok is one of the most pleasant free work environments in the city.
+
+---
+
+## Coworking for Teams: Moving from Hotdesks to Team Spaces
+
+For expats managing or building teams in the Netherlands, the transition from individual hotdesk to team workspace involves different considerations.
+
+**Dedicated team rooms:** Most coworking operators offer lockable private offices for 2–8 people within their shared facilities. These give a small team its own space while accessing all shared amenities — meeting rooms, communal areas, reception services. Pricing: typically €600–2,500/month for a 2–6 person team space, depending on city and operator.
+
+**Team day passes:** If your team meets periodically rather than continuously — for example, a remote team that gathers in Amsterdam once a month for a full-day meeting — booking a meeting room or team day at a coworking space is more economical than maintaining permanent dedicated space. WeWork, Spaces, and Mindspace all offer event and team day bookings through their apps.
+
+**Scaling considerations:** The Dutch coworking market in Amsterdam and Rotterdam has sufficient supply that teams up to 15–20 people can generally find private office space within coworking facilities on reasonably short notice. For larger teams, a separate office lease becomes more economical than coworking pricing.
+
+---
+
+## Coworking and Your Dutch Business Registration
+
+For ZZP'ers and company founders registering with the KvK, the coworking space address question deserves specific attention.
+
+**Virtual office for KvK:** Most coworking operators offer a virtual office service (€50–150/month) that provides a registered business address for your KvK. This is the standard solution for freelancers who work from home but want to keep their home address private in the public register. Your home address in the Netherlands is visible in the KvK (Chamber of Commerce) business register by default — using a coworking address prevents this.
+
+**Address stability:** Your KvK address change requires a formal update each time you move. If you use your home address and move apartments (common for expats in the first year), each move requires an update. A stable coworking address avoids this administrative overhead.
+
+**Mail handling:** Most virtual office memberships include mail reception. Physical letters from the Belastingdienst, CAK, and other government bodies will arrive at your registered address — make sure the coworking provider handles mail reliably and either scans it for you or holds it for collection.
+
+---
+
+## Other Dutch Cities: Smaller Markets Worth Knowing
+
+Beyond the five cities covered in depth, several smaller Dutch cities have coworking options that may be relevant depending on where you are based.
+
+**Groningen (north):** Groningen has a young, university-driven coworking scene. Spaces like Coworking Groningen and Spaces Groningen serve the city's startup and digital professional community. Prices are among the lowest in the Netherlands — hot desks from €100–150/month. For expats working for the University of Groningen or the growing energy and tech sector in the north, Groningen's coworking quality is higher than outsiders expect.
+
+**Nijmegen:** A smaller city but with a strong Radboud University presence and a growing life sciences and tech sector (proximity to the Arnhem-Nijmegen region). The Science Hub and Novio Tech Campus serve the research and tech community. Prices comparable to Eindhoven.
+
+**Tilburg:** Tilburg has invested in its creative and digital economy and has coworking options reflecting this, particularly around Midden-Brabant creative industries. 013 (the music venue and creative campus) hosts some coworking operations.
+
+**Maastricht:** Given Maastricht's international university and proximity to Belgium and Germany, the coworking scene has a notably cross-border character. Several spaces serve the Maastricht Area Tech region and the academic community. Prices are moderate.
+
+For expats in these secondary cities, the coworking quality is generally good and the price advantage over Amsterdam is significant. The main limitation is community scale — a space with 100 members in Groningen has a smaller network than one with 500 in Amsterdam, though that smaller community is often more tightly knit.
+
+---
+
 ## Explore More Expat Guides
 
 - **[Freelancer (ZZP) Guide](/guides/work/freelancer-zzp-guide-netherlands-2026/)** — Registration and taxes

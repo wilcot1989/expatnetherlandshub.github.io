@@ -176,3 +176,5 @@ The port creates an international professional environment that is different fro
 - [Finding Housing in the Netherlands](/guides/housing/)
 - [Working in the Netherlands](/guides/work/)
 - [Health Insurance for Expats 2026](/guides/health/)
+
+Rotterdam is the expat city in the Netherlands that consistently surprises people who arrive expecting a lesser Amsterdam. The architecture, the food culture, and the practical affordability tend to shift the opinion of most new arrivals fairly quickly after they settle in.

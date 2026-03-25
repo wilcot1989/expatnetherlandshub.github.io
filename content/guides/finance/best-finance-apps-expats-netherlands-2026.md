@@ -323,3 +323,21 @@ The two things that catch people out are Tikkie (social, not optional) and inter
 If you are unsure which bank account to start with, read [best bank accounts for expats](/guides/finance/best-bank-account-expats-netherlands-2026/) first. If you are ready to compare Wise and Revolut in detail, the [Wise vs Revolut guide](/guides/finance/wise-vs-revolut-netherlands-2026/) covers every scenario. And if you are thinking about your first Dutch tax return, the [Dutch tax system guide](/guides/finance/dutch-tax-system-expats-guide-2026/) is where to start.
 
 Any questions? Drop them in the comments. I answer every single one.
+
+---
+
+## The First Two Weeks: Finance App Priority Order
+
+For the benefit of those just arriving, here is the practical sequence based on what actually matters most in the first two weeks:
+
+**Day 1:** Open Wise if you have not already. Transfer initial living funds from your home country bank. Use the Wise card for any immediate payments until your Dutch bank is sorted.
+
+**Days 3–7 (after gemeente registration):** Apply for ING or ABN AMRO online. Both allow digital application with your new BSN. Approval and card delivery typically takes 3–5 working days.
+
+**Week 2:** Set up Tikkie linked to your Dutch account. Install your Dutch bank's app. Enable iDEAL in your bank app. Apply for DigiD (needed for Belastingdienst, MijnOverheid, and future toeslagen applications).
+
+**Week 3 onward:** Check whether you qualify for zorgtoeslag (healthcare allowance) — apply through the Belastingdienst portal. If applicable, apply for huurtoeslag (rental allowance). These can be worth €100–200/month for eligible expats and the application only takes 20 minutes.
+
+Once these basics are set up, add the budgeting layer — YNAB or Buddy — once you have a month of actual Dutch spending to categorise. Trying to set up a budget before you know what your Dutch costs actually are produces a budget that needs immediate revision.
+
+The finance apps that improve your life most in the Netherlands are not the most sophisticated ones. They are the ones that connect you to Dutch payment infrastructure (iDEAL, Tikkie, your NL IBAN) and save you money on the one transaction most expats consistently overpay: transferring money internationally. Get those right and everything else is optimisation.

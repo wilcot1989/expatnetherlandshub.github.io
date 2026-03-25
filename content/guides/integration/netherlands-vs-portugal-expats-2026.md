@@ -305,3 +305,37 @@ Completely free movement as an EU citizen. Register in whichever country you are
 ### Which country integrates expats better?
 
 The Netherlands has formal integration pathways (inburgering) and Dutch directness means you get clear feedback. Portugal is more socially warm but less formally integrated — expats sometimes create parallel English-language communities that never touch Portuguese life. Both countries have integration success stories; it depends more on the individual's effort than the country's structure.
+
+---
+
+## Making the Right Choice for Your Situation
+
+After helping many people through this exact decision, I find it helps to frame the Netherlands versus Portugal question around your specific priorities rather than treating it as a general quality-of-life ranking.
+
+**If your goal is career and earnings maximisation:** The Netherlands wins. Dutch salaries in tech, finance, and engineering are significantly higher, the 30% ruling adds a meaningful tax advantage, and the English-language working environment means you operate at full effectiveness from day one. Portugal rewards people who either work remotely at non-Portuguese salary levels, or who are at a life stage where income is less central than lifestyle.
+
+**If your goal is quality of life per euro spent:** Portugal wins for most people, particularly outside Lisbon. The combination of warm climate, excellent food, lower housing costs, and genuinely beautiful landscape creates a standard of living that is difficult to match at the same cost level anywhere in Northern Europe.
+
+**If you have specific visa constraints as a non-EU citizen:** Portugal is almost always more accessible. The D7, Digital Nomad Visa, and D2 routes mean non-EU citizens without a job offer have real options. The Netherlands is structured around employer sponsorship — without a Dutch employer, your route to legal long-term residence is narrow.
+
+**If you are moving with children:** Both work well. The Netherlands has better formal childcare infrastructure, more international schools, and the cycling environment is genuinely safer for children. Portugal offers better weather, lower costs, and a more relaxed pace that many parents find easier for family life. The school quality at international schools in Lisbon and Porto is generally good.
+
+---
+
+## The Decision I See Expats Get Wrong Most Often
+
+The mistake I see most frequently is people comparing Amsterdam rents to Lisbon rents without comparing salaries. The cost difference is real, but so is the salary difference. An expat earning €90,000 at ASML in Eindhoven is not making the same financial decision as one earning €40,000 at a Lisbon company, even if the Lisbon rent is 40% lower.
+
+Run the full calculation: gross salary, minus applicable tax rate (accounting for 30% ruling or IFICI), minus housing cost, minus other fixed expenses. The number you are left with is your disposable income, and that comparison is what actually matters for your standard of living.
+
+For most mid-to-senior professionals in tech, finance, or engineering, the Dutch net position after the 30% ruling and higher gross salary is better than the Portuguese alternative, even accounting for lower Portuguese costs. For passive income recipients, retirees, or remote workers earning at global salary scales, Portugal often wins on the same calculation.
+
+---
+
+## Practical First Steps Regardless of Your Choice
+
+If you are moving to the Netherlands, the immediate priorities are: BSN registration at the gemeente, Dutch bank account, health insurance (mandatory within four months), and GP registration. The [First 30 Days Netherlands checklist](/guides/admin/first-30-days-netherlands-expat-checklist-2026/) covers this sequence in detail.
+
+If you are moving to Portugal, the immediate priorities are: residency registration at the câmara municipal (or the SEF appointment for non-EU citizens), codice fiscal equivalent (NIF — Número de Identificação Fiscal) from Finanças, Portuguese bank account, and SNS registration for healthcare.
+
+In both cases, a Wise multi-currency account is useful from day one for managing euro transfers before your local bank account is fully operational. <a href="https://wise.com/invite/ihpc/willemt52" rel="noopener nofollow sponsored" class="cta-affiliate">Open a Wise account</a> before you travel — it works immediately without needing a local address or tax number, which is exactly what you need in the first few days of a move.

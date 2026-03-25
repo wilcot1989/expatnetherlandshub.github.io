@@ -275,3 +275,9 @@ Dutch mortgage rules limit borrowing to a multiple of your annual gross income (
 **Do I need a permanent contract to get a Dutch mortgage?**
 
 A permanent contract (vaste contract) makes the mortgage application significantly easier. Temporary contracts are possible — some lenders accept them with an employer's statement of intent to continue. Self-employed income requires at least 3 years of accounts. Expats on temporary permits may face additional scrutiny depending on the lender.
+
+---
+
+## Starting the Process
+
+The single best thing you can do if you are considering buying property in the Netherlands is to have an initial conversation with a broker six to twelve months before you want to buy. You do not need to be ready to apply — you just need to understand what your situation looks like from a lender's perspective, what documentation you should start gathering, and whether there are any complications to resolve before the process begins. That preparation time makes the actual application, when it happens, considerably smoother.

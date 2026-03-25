@@ -350,3 +350,19 @@ Yes, and it works extremely well. bunq allows you to create up to 25 separate su
 ### Do Dutch banks offer overdraft facilities for students?
 
 ING and ABN AMRO both offer optional overdraft (rood staan) on student accounts, typically up to EUR 1,000 to EUR 1,500. The interest rate is usually around 12-14% per year, so use it only in genuine emergencies. bunq and N26 do not offer overdraft facilities. Wise accounts cannot go into a negative balance.
+
+---
+
+## Part-Time Work and Student Finances in the Netherlands
+
+Many international students in the Netherlands work part-time alongside their studies, and understanding how this interacts with your banking and tax situation is useful to know upfront.
+
+**Work rights:** EU students in the Netherlands can work without restriction — there is no limit on hours. Non-EU students with a residence permit for study (MVV or study visa) can work up to 16 hours per week, or full-time during summer months (June, July, August).
+
+**Loonheffing (payroll tax):** Even part-time work is subject to Dutch loonheffing (payroll tax). Your employer deducts this automatically. At student income levels, the effective rate is low — often partially refunded when you file your annual tax return if your total annual income falls below the personal allowance threshold.
+
+**Loonheffingskorting:** When starting a job, you fill in a form indicating whether to apply the loonheffingskorting (payroll tax credit) to this employer. If you have multiple jobs, only one can apply this credit. The credit reduces your monthly tax deduction.
+
+**Annual tax return:** After your first full year of work in the Netherlands, you should file a tax return (aangifte inkomstenbelasting) via the Belastingdienst app or portal. Many students receive a refund — particularly if they worked intermittently, had periods without income, or did not claim the full loonheffingskorting. The average refund for part-time student workers is €100–300. It is worth 30 minutes of effort.
+
+Your Dutch bank account (NL IBAN) is required for tax refunds to be deposited. This is another reason to get ING or ABN AMRO set up promptly — any tax refund owed will be paid to the NL IBAN registered with the Belastingdienst.
