@@ -6,7 +6,7 @@ lastmod: 2026-03-22
 author: "Sarah van den Berg"
 categories: ["integration"]
 tags: ["netherlands", "japan", "expats", "comparison", "moving", "relocation", "asia"]
-image: "/images/categories/integration.svg"
+featured_image: "/images/categories/integration.svg"
 affiliate: false
 draft: false
 faq:

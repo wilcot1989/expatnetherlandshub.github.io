@@ -6,7 +6,7 @@ lastmod: 2026-03-22
 author: "Sarah van den Berg"
 categories: ["health"]
 tags: ["health insurance", "add-ons", "aanvullende verzekering", "netherlands", "expats", "dental", "physio", "mental health"]
-image: "/images/categories/health.svg"
+featured_image: "/images/categories/health.svg"
 affiliate: true
 draft: false
 faq:

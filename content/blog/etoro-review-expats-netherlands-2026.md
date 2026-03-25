@@ -6,7 +6,7 @@ lastmod: 2026-03-22
 author: "Sarah van den Berg"
 categories: ["finance"]
 tags: ["etoro", "investing", "expats", "netherlands", "stocks", "crypto", "review"]
-image: "/images/categories/finance.svg"
+featured_image: "/images/categories/finance.svg"
 affiliate: true
 draft: false
 faq:

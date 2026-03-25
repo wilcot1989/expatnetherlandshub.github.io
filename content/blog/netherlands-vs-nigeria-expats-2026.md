@@ -6,7 +6,7 @@ lastmod: 2026-03-22
 author: "Sarah van den Berg"
 categories: ["integration"]
 tags: ["netherlands", "nigeria", "expats", "comparison", "moving", "relocation", "africa"]
-image: "/images/categories/integration.svg"
+featured_image: "/images/categories/integration.svg"
 affiliate: true
 draft: false
 faq:

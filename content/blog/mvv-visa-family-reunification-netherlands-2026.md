@@ -6,7 +6,7 @@ lastmod: 2026-03-22
 author: "Sarah van den Berg"
 categories: ["legal"]
 tags: ["MVV", "visa", "family reunification", "Netherlands", "immigration", "IND", "residence permit"]
-image: "/images/categories/legal.svg"
+featured_image: "/images/categories/legal.svg"
 affiliate: false
 draft: false
 faq:

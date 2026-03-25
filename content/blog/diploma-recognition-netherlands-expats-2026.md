@@ -6,7 +6,7 @@ lastmod: 2026-03-22
 author: "Sarah van den Berg"
 categories: ["work"]
 tags: ["diploma recognition", "Netherlands", "expats", "Nuffic", "IDW", "credentials", "work", "qualifications"]
-image: "/images/categories/work.svg"
+featured_image: "/images/categories/work.svg"
 affiliate: false
 draft: false
 faq:

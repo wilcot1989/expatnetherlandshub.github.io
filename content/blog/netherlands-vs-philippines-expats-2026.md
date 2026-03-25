@@ -6,7 +6,7 @@ lastmod: 2026-03-22
 author: "Sarah van den Berg"
 categories: ["integration"]
 tags: ["netherlands", "philippines", "expats", "comparison", "moving", "relocation", "southeast-asia"]
-image: "/images/categories/integration.svg"
+featured_image: "/images/categories/integration.svg"
 affiliate: true
 draft: false
 faq:

@@ -6,7 +6,7 @@ lastmod: 2026-03-22
 author: "Sarah van den Berg"
 categories: ["housing"]
 tags: ["mortgage", "broker", "hypotheek", "netherlands", "expats", "housing", "property", "buying"]
-image: "/images/categories/housing.svg"
+featured_image: "/images/categories/housing.svg"
 affiliate: true
 draft: false
 faq:

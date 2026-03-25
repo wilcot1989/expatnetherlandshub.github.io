@@ -6,7 +6,7 @@ lastmod: 2026-03-22
 author: "Sarah van den Berg"
 categories: ["finance"]
 tags: ["meesman", "degiro", "investing", "netherlands", "expats", "ETF", "index funds", "comparison"]
-image: "/images/categories/finance.svg"
+featured_image: "/images/categories/finance.svg"
 affiliate: true
 draft: false
 faq:
