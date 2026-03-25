@@ -2,307 +2,359 @@
 
 {{/* JSON-LD is handled in baseof.html — no duplicates here */}}
 
+{{/* ── Collect content for homepage sections ── */}}
+{{ $allGuides := where .Site.RegularPages "Type" "guides" }}
+{{ $latestGuides := first 6 ($allGuides.ByDate.Reverse) }}
+{{ $financeGuides := first 4 (where $allGuides ".Params.categories" "intersect" (slice "finance")).ByDate.Reverse }}
+{{ $healthGuides := first 4 (where $allGuides ".Params.categories" "intersect" (slice "health")).ByDate.Reverse }}
+{{ $housingGuides := first 4 (where $allGuides ".Params.categories" "intersect" (slice "housing")).ByDate.Reverse }}
+{{ $workGuides := first 4 (where $allGuides ".Params.categories" "intersect" (slice "work")).ByDate.Reverse }}
+{{ $legalGuides := first 4 (where $allGuides ".Params.categories" "intersect" (slice "legal")).ByDate.Reverse }}
+
 <!-- ═══════════════════════════════════════════════════
-     HERO SECTION — split layout with visual
+     HERO — compact, portal-style
      ═══════════════════════════════════════════════════ -->
 <div class="hero">
   <div class="wide">
-    <div class="hero-split">
-      <div class="hero-text">
-        <p class="hero-eyebrow">The Netherlands Expat Decision Engine</p>
-        <h1>Moving to the Netherlands?</h1>
-        <p>Your step-by-step decision engine. Free tools, honest guides, and real answers — written by an expat coach who's been through it all.</p>
-        <div class="hero-actions">
-          <a href="/tools/30-percent-ruling-calculator/" class="cta">Start the 30% Calculator &rarr;</a>
-          <a href="/tools/" class="cta cta-ghost">Browse All Tools</a>
-        </div>
-      </div>
-      <div class="hero-visual" aria-hidden="true">
-        <div class="hero-device">
-          <div class="hero-device-bar">
-            <span></span><span></span><span></span>
-          </div>
-          <div class="hero-device-screen">
-            <div class="hero-device-line hero-device-line--title"></div>
-            <div class="hero-device-line hero-device-line--sub"></div>
-            <div class="hero-device-row">
-              <div class="hero-device-card"></div>
-              <div class="hero-device-card"></div>
-            </div>
-            <div class="hero-device-line hero-device-line--btn"></div>
-          </div>
-        </div>
+    <div class="hero-compact">
+      <p class="hero-eyebrow">Your Complete Guide to Expat Life in the Netherlands</p>
+      <h1>What do you need help with?</h1>
+      <div class="hero-quicklinks">
+        <a href="/tools/30-percent-ruling-calculator/" class="hero-qlink">
+          <svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><rect x="4" y="2" width="16" height="20" rx="2"/><line x1="8" y1="6" x2="16" y2="6"/><line x1="12" y1="10" x2="16" y2="10"/></svg>
+          30% Ruling Calculator
+        </a>
+        <a href="/guides/finance/" class="hero-qlink">
+          <svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><line x1="12" y1="1" x2="12" y2="23"/><path d="M17 5H9.5a3.5 3.5 0 000 7h5a3.5 3.5 0 010 7H6"/></svg>
+          Tax &amp; Finance
+        </a>
+        <a href="/guides/housing/" class="hero-qlink">
+          <svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M3 9l9-7 9 7v11a2 2 0 01-2 2H5a2 2 0 01-2-2z"/><polyline points="9 22 9 12 15 12 15 22"/></svg>
+          Find Housing
+        </a>
+        <a href="/guides/legal/" class="hero-qlink">
+          <svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><rect x="2" y="5" width="20" height="14" rx="2"/><line x1="2" y1="10" x2="22" y2="10"/></svg>
+          Visa &amp; Permits
+        </a>
+        <a href="/guides/health/" class="hero-qlink">
+          <svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M22 12h-4l-3 9L9 3l-3 9H2"/></svg>
+          Health Insurance
+        </a>
+        <a href="/tools/" class="hero-qlink hero-qlink--accent">
+          <svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><circle cx="11" cy="11" r="8"/><path d="m21 21-4.3-4.3"/></svg>
+          All Tools
+        </a>
       </div>
     </div>
   </div>
 </div>
 
 <!-- ═══════════════════════════════════════════════════
-     STATS BANNER
+     DON'T MISS — 3 highlighted items
      ═══════════════════════════════════════════════════ -->
-<div class="stats-banner">
+<section class="dont-miss">
   <div class="wide">
-    <div class="stats-grid">
-      <div class="stat-item">
-        <div class="stat-number">{{ len (where .Site.RegularPages "Type" "guides") }}+</div>
-        <div class="stat-label">Expert Guides</div>
-      </div>
-      <div class="stat-item">
-        <div class="stat-number">11</div>
-        <div class="stat-label">Free Tools</div>
-      </div>
-      <div class="stat-item">
-        <div class="stat-number">17</div>
-        <div class="stat-label">City Guides</div>
-      </div>
-      <div class="stat-item">
-        <div class="stat-number">7</div>
-        <div class="stat-label">Categories</div>
-      </div>
-    </div>
-  </div>
-</div>
-
-<!-- ═══════════════════════════════════════════════════
-     TOOL GRID — SVG icons
-     ═══════════════════════════════════════════════════ -->
-<section class="section-tools">
-  <div class="container wide">
-    <div class="section-header">
-      <h2>Free Tools to Help You Decide</h2>
-      <p class="section-sub">Interactive calculators, comparisons and guides — no signup required.</p>
-    </div>
-    <div class="tool-grid">
-
-      <a href="/tools/30-percent-ruling-calculator/" class="tool-card">
-        <div class="tool-icon-svg"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><rect x="4" y="2" width="16" height="20" rx="2"/><line x1="8" y1="6" x2="16" y2="6"/><line x1="16" y1="14" x2="16" y2="14.01"/><line x1="12" y1="14" x2="12" y2="14.01"/><line x1="8" y1="14" x2="8" y2="14.01"/><line x1="16" y1="18" x2="16" y2="18.01"/><line x1="12" y1="18" x2="12" y2="18.01"/><line x1="8" y1="18" x2="8" y2="18.01"/><line x1="12" y1="10" x2="16" y2="10"/></svg></div>
-        <div class="tool-body">
-          <h3>30% Ruling Calculator</h3>
-          <p>Calculate your exact tax benefit</p>
+    <div class="dm-grid">
+      <a href="/tools/30-percent-ruling-calculator/" class="dm-card dm-card--primary">
+        <div class="dm-icon">
+          <svg width="28" height="28" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><rect x="4" y="2" width="16" height="20" rx="2"/><line x1="8" y1="6" x2="16" y2="6"/><line x1="12" y1="10" x2="16" y2="10"/></svg>
         </div>
-        <span class="tool-cta">Calculate &rarr;</span>
-      </a>
-
-      <a href="/tools/salary-checker/" class="tool-card">
-        <div class="tool-icon-svg"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><line x1="12" y1="1" x2="12" y2="23"/><path d="M17 5H9.5a3.5 3.5 0 000 7h5a3.5 3.5 0 010 7H6"/></svg></div>
-        <div class="tool-body">
-          <h3>Net Salary Calculator</h3>
-          <p>Gross to net + HSM threshold check</p>
+        <div class="dm-content">
+          <div class="dm-label">Most Popular Tool</div>
+          <div class="dm-title">30% Ruling Calculator {{ now.Year }}</div>
+          <div class="dm-desc">Find out exactly how much tax you could save — updated with the latest thresholds.</div>
         </div>
-        <span class="tool-cta">Calculate &rarr;</span>
+        <span class="dm-arrow">&rarr;</span>
       </a>
-
-      <a href="/tools/visa-permit-finder/" class="tool-card">
-        <div class="tool-icon-svg"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><rect x="2" y="5" width="20" height="14" rx="2"/><line x1="2" y1="10" x2="22" y2="10"/><line x1="7" y1="15" x2="7" y2="15.01"/><line x1="11" y1="15" x2="13" y2="15"/></svg></div>
-        <div class="tool-body">
-          <h3>Visa Check</h3>
-          <p>Find which visa or permit you need</p>
+      <a href="/guides/finance/best-bank-account-expats-netherlands-2026/" class="dm-card">
+        <div class="dm-icon">
+          <svg width="28" height="28" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><rect x="1" y="4" width="22" height="16" rx="2"/><line x1="1" y1="10" x2="23" y2="10"/></svg>
         </div>
-        <span class="tool-cta">Check &rarr;</span>
-      </a>
-
-      <a href="/tools/bsn-planner/" class="tool-card">
-        <div class="tool-icon-svg"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M16 4h2a2 2 0 012 2v14a2 2 0 01-2 2H6a2 2 0 01-2-2V6a2 2 0 012-2h2"/><rect x="8" y="2" width="8" height="4" rx="1"/><path d="M9 14l2 2 4-4"/></svg></div>
-        <div class="tool-body">
-          <h3>BSN Registration Guide</h3>
-          <p>Plan your gemeente appointment</p>
+        <div class="dm-content">
+          <div class="dm-label">Editor's Pick</div>
+          <div class="dm-title">Best Bank Account for Expats</div>
+          <div class="dm-desc">Wise, bunq, ING or ABN AMRO? Our honest comparison.</div>
         </div>
-        <span class="tool-cta">Start &rarr;</span>
+        <span class="dm-arrow">&rarr;</span>
       </a>
-
-      <a href="/tools/health-insurance-wizard/" class="tool-card">
-        <div class="tool-icon-svg"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M22 12h-4l-3 9L9 3l-3 9H2"/></svg></div>
-        <div class="tool-body">
-          <h3>Health Insurance Comparison</h3>
-          <p>Compare Dutch zorgverzekeringen</p>
+      <a href="/guides/health/dutch-health-insurance-guide-expats-2026/" class="dm-card">
+        <div class="dm-icon">
+          <svg width="28" height="28" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M12 22s8-4 8-10V5l-8-3-8 3v7c0 6 8 10 8 10z"/></svg>
         </div>
-        <span class="tool-cta">Compare &rarr;</span>
-      </a>
-
-      <a href="/tools/insurance-chooser/" class="tool-card">
-        <div class="tool-icon-svg"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M12 22s8-4 8-10V5l-8-3-8 3v7c0 6 8 10 8 10z"/></svg></div>
-        <div class="tool-body">
-          <h3>Expat Insurance Comparison</h3>
-          <p>Compare international insurance</p>
+        <div class="dm-content">
+          <div class="dm-label">Essential Reading</div>
+          <div class="dm-title">Dutch Health Insurance Guide</div>
+          <div class="dm-desc">Everything you need to know about zorgverzekering as an expat.</div>
         </div>
-        <span class="tool-cta">Compare &rarr;</span>
+        <span class="dm-arrow">&rarr;</span>
       </a>
-
-      <a href="/tools/bank-account-chooser/" class="tool-card">
-        <div class="tool-icon-svg"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><rect x="1" y="4" width="22" height="16" rx="2"/><line x1="1" y1="10" x2="23" y2="10"/></svg></div>
-        <div class="tool-body">
-          <h3>Bank Account Comparison</h3>
-          <p>Compare Dutch banks for expats</p>
-        </div>
-        <span class="tool-cta">Compare &rarr;</span>
-      </a>
-
-      <a href="/tools/housing-budget-checker/" class="tool-card">
-        <div class="tool-icon-svg"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M3 9l9-7 9 7v11a2 2 0 01-2 2H5a2 2 0 01-2-2z"/><polyline points="9 22 9 12 15 12 15 22"/></svg></div>
-        <div class="tool-body">
-          <h3>Rent Affordability Calculator</h3>
-          <p>Calculate what you can afford</p>
-        </div>
-        <span class="tool-cta">Calculate &rarr;</span>
-      </a>
-
-      <a href="/tools/inburgering-route-builder/" class="tool-card">
-        <div class="tool-icon-svg"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M4 19.5A2.5 2.5 0 016.5 17H20"/><path d="M6.5 2H20v20H6.5A2.5 2.5 0 014 19.5v-15A2.5 2.5 0 016.5 2z"/></svg></div>
-        <div class="tool-body">
-          <h3>Inburgering Exam Guide</h3>
-          <p>Find your integration path</p>
-        </div>
-        <span class="tool-cta">Start &rarr;</span>
-      </a>
-
-      <a href="/tools/diploma-evaluator/" class="tool-card">
-        <div class="tool-icon-svg"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M22 10v6M2 10l10-5 10 5-10 5z"/><path d="M6 12v5c3 3 9 3 12 0v-5"/></svg></div>
-        <div class="tool-body">
-          <h3>Diploma Recognition Guide</h3>
-          <p>Nuffic credential evaluation</p>
-        </div>
-        <span class="tool-cta">Start &rarr;</span>
-      </a>
-
     </div>
   </div>
 </section>
 
 <!-- ═══════════════════════════════════════════════════
-     MOST RECOMMENDED PRODUCTS
+     YOUR EXPAT JOURNEY — path-based navigation
+     ═══════════════════════════════════════════════════ -->
+<section class="expat-journey">
+  <div class="wide">
+    <div class="section-header">
+      <h2>Your Expat Journey</h2>
+      <p class="section-sub">Where are you in the process? Pick your stage and get the guides that matter most.</p>
+    </div>
+    <div class="journey-grid">
+      <div class="journey-card">
+        <div class="journey-step">1</div>
+        <h3>Just Arrived</h3>
+        <p>BSN registration, bank account, health insurance, first housing.</p>
+        <ul class="journey-links">
+          <li><a href="/guides/legal/bsn-registration-guide-2026/">BSN Registration Guide</a></li>
+          <li><a href="/guides/finance/best-bank-account-expats-netherlands-2026/">Open a Bank Account</a></li>
+          <li><a href="/guides/health/dutch-health-insurance-guide-expats-2026/">Get Health Insurance</a></li>
+          <li><a href="/guides/housing/finding-housing-netherlands-expats-2026/">Find Your First Home</a></li>
+        </ul>
+        <a href="/guides/legal/" class="journey-cta">All Arrival Guides &rarr;</a>
+      </div>
+      <div class="journey-card">
+        <div class="journey-step">2</div>
+        <h3>Working &amp; Earning</h3>
+        <p>30% ruling, tax returns, salary, freelancing as ZZP'er.</p>
+        <ul class="journey-links">
+          <li><a href="/guides/finance/30-percent-ruling-netherlands-2026/">30% Ruling Explained</a></li>
+          <li><a href="/guides/finance/dutch-tax-return-how-to-file-2026/">File Your Tax Return</a></li>
+          <li><a href="/guides/work/freelancer-zzp-guide-netherlands-2026/">Freelance / ZZP Guide</a></li>
+          <li><a href="/tools/salary-checker/">Net Salary Calculator</a></li>
+        </ul>
+        <a href="/guides/finance/" class="journey-cta">All Finance Guides &rarr;</a>
+      </div>
+      <div class="journey-card">
+        <div class="journey-step">3</div>
+        <h3>Settling In</h3>
+        <p>Learn Dutch, make friends, understand the culture, find your community.</p>
+        <ul class="journey-links">
+          <li><a href="/guides/integration/best-dutch-language-courses-2026/">Learn Dutch</a></li>
+          <li><a href="/guides/integration/making-friends-netherlands-expats-2026/">Making Friends</a></li>
+          <li><a href="/guides/daily-life/cycling-netherlands-expat-guide-2026/">Cycling in NL</a></li>
+          <li><a href="/guides/integration/dutch-culture-guide-expats-2026/">Dutch Culture Guide</a></li>
+        </ul>
+        <a href="/guides/integration/" class="journey-cta">All Integration Guides &rarr;</a>
+      </div>
+    </div>
+  </div>
+</section>
+
+<!-- ═══════════════════════════════════════════════════
+     CONTENT HUB — tabbed by category (Latest / Finance / Health / Housing / Work / Legal)
+     ═══════════════════════════════════════════════════ -->
+<section class="content-hub">
+  <div class="wide">
+    <div class="hub-header">
+      <h2>Guides &amp; Articles</h2>
+      <div class="hub-tabs" id="hubTabs">
+        <button class="hub-tab active" data-tab="latest">Latest</button>
+        <button class="hub-tab" data-tab="finance">Finance</button>
+        <button class="hub-tab" data-tab="health">Health</button>
+        <button class="hub-tab" data-tab="housing">Housing</button>
+        <button class="hub-tab" data-tab="work">Work</button>
+        <button class="hub-tab" data-tab="legal">Legal</button>
+      </div>
+    </div>
+
+    <!-- Latest tab -->
+    <div class="hub-panel active" data-panel="latest">
+      <div class="hub-grid">
+        {{ range $latestGuides }}
+        {{ $cat := "daily-life" }}{{ with .Params.categories }}{{ $cat = index . 0 }}{{ end }}
+        <a href="{{ .RelPermalink }}" class="hub-card">
+          {{ $svgFile := printf "static/images/categories/%s.svg" $cat }}
+          {{ if fileExists $svgFile }}
+          <img src="/images/categories/{{ $cat }}.svg" alt="{{ .Title }}" class="hub-card-img" loading="lazy">
+          {{ else }}
+          <div class="hub-card-img hub-card-placeholder"></div>
+          {{ end }}
+          <div class="hub-card-body">
+            <span class="hub-card-cat">{{ $cat | humanize | title }}</span>
+            <h3>{{ .Title }}</h3>
+            <div class="hub-card-meta">{{ .Date.Format "Jan 2, 2006" }} &middot; {{ .ReadingTime }} min</div>
+          </div>
+        </a>
+        {{ end }}
+      </div>
+      <div class="hub-more"><a href="/guides/" class="cta cta-outline-green">View all {{ len $allGuides }} guides &rarr;</a></div>
+    </div>
+
+    <!-- Finance tab -->
+    <div class="hub-panel" data-panel="finance">
+      <div class="hub-grid">
+        {{ range $financeGuides }}
+        <a href="{{ .RelPermalink }}" class="hub-card">
+          {{ $svgFile := printf "static/images/categories/finance.svg" }}
+          {{ if fileExists $svgFile }}<img src="/images/categories/finance.svg" alt="{{ .Title }}" class="hub-card-img" loading="lazy">{{ else }}<div class="hub-card-img hub-card-placeholder"></div>{{ end }}
+          <div class="hub-card-body">
+            <span class="hub-card-cat">Finance</span>
+            <h3>{{ .Title }}</h3>
+            <div class="hub-card-meta">{{ .Date.Format "Jan 2, 2006" }} &middot; {{ .ReadingTime }} min</div>
+          </div>
+        </a>
+        {{ end }}
+      </div>
+      <div class="hub-more"><a href="/guides/finance/" class="cta cta-outline-green">All finance guides &rarr;</a></div>
+    </div>
+
+    <!-- Health tab -->
+    <div class="hub-panel" data-panel="health">
+      <div class="hub-grid">
+        {{ range $healthGuides }}
+        <a href="{{ .RelPermalink }}" class="hub-card">
+          {{ $svgFile := printf "static/images/categories/health.svg" }}
+          {{ if fileExists $svgFile }}<img src="/images/categories/health.svg" alt="{{ .Title }}" class="hub-card-img" loading="lazy">{{ else }}<div class="hub-card-img hub-card-placeholder"></div>{{ end }}
+          <div class="hub-card-body">
+            <span class="hub-card-cat">Health</span>
+            <h3>{{ .Title }}</h3>
+            <div class="hub-card-meta">{{ .Date.Format "Jan 2, 2006" }} &middot; {{ .ReadingTime }} min</div>
+          </div>
+        </a>
+        {{ end }}
+      </div>
+      <div class="hub-more"><a href="/guides/health/" class="cta cta-outline-green">All health guides &rarr;</a></div>
+    </div>
+
+    <!-- Housing tab -->
+    <div class="hub-panel" data-panel="housing">
+      <div class="hub-grid">
+        {{ range $housingGuides }}
+        <a href="{{ .RelPermalink }}" class="hub-card">
+          {{ $svgFile := printf "static/images/categories/housing.svg" }}
+          {{ if fileExists $svgFile }}<img src="/images/categories/housing.svg" alt="{{ .Title }}" class="hub-card-img" loading="lazy">{{ else }}<div class="hub-card-img hub-card-placeholder"></div>{{ end }}
+          <div class="hub-card-body">
+            <span class="hub-card-cat">Housing</span>
+            <h3>{{ .Title }}</h3>
+            <div class="hub-card-meta">{{ .Date.Format "Jan 2, 2006" }} &middot; {{ .ReadingTime }} min</div>
+          </div>
+        </a>
+        {{ end }}
+      </div>
+      <div class="hub-more"><a href="/guides/housing/" class="cta cta-outline-green">All housing guides &rarr;</a></div>
+    </div>
+
+    <!-- Work tab -->
+    <div class="hub-panel" data-panel="work">
+      <div class="hub-grid">
+        {{ range $workGuides }}
+        <a href="{{ .RelPermalink }}" class="hub-card">
+          {{ $svgFile := printf "static/images/categories/work.svg" }}
+          {{ if fileExists $svgFile }}<img src="/images/categories/work.svg" alt="{{ .Title }}" class="hub-card-img" loading="lazy">{{ else }}<div class="hub-card-img hub-card-placeholder"></div>{{ end }}
+          <div class="hub-card-body">
+            <span class="hub-card-cat">Work</span>
+            <h3>{{ .Title }}</h3>
+            <div class="hub-card-meta">{{ .Date.Format "Jan 2, 2006" }} &middot; {{ .ReadingTime }} min</div>
+          </div>
+        </a>
+        {{ end }}
+      </div>
+      <div class="hub-more"><a href="/guides/work/" class="cta cta-outline-green">All work guides &rarr;</a></div>
+    </div>
+
+    <!-- Legal tab -->
+    <div class="hub-panel" data-panel="legal">
+      <div class="hub-grid">
+        {{ range $legalGuides }}
+        <a href="{{ .RelPermalink }}" class="hub-card">
+          {{ $svgFile := printf "static/images/categories/legal.svg" }}
+          {{ if fileExists $svgFile }}<img src="/images/categories/legal.svg" alt="{{ .Title }}" class="hub-card-img" loading="lazy">{{ else }}<div class="hub-card-img hub-card-placeholder"></div>{{ end }}
+          <div class="hub-card-body">
+            <span class="hub-card-cat">Legal</span>
+            <h3>{{ .Title }}</h3>
+            <div class="hub-card-meta">{{ .Date.Format "Jan 2, 2006" }} &middot; {{ .ReadingTime }} min</div>
+          </div>
+        </a>
+        {{ end }}
+      </div>
+      <div class="hub-more"><a href="/guides/legal/" class="cta cta-outline-green">All legal guides &rarr;</a></div>
+    </div>
+  </div>
+</section>
+
+<!-- ═══════════════════════════════════════════════════
+     TOOLS QUICK ACCESS
+     ═══════════════════════════════════════════════════ -->
+<section class="tools-bar">
+  <div class="wide">
+    <div class="tools-bar-header">
+      <h2>Free Expat Tools</h2>
+      <a href="/tools/" class="tools-bar-all">View all 11 tools &rarr;</a>
+    </div>
+    <div class="tools-scroll">
+      <a href="/tools/30-percent-ruling-calculator/" class="tbar-card">
+        <svg width="22" height="22" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><rect x="4" y="2" width="16" height="20" rx="2"/><line x1="8" y1="6" x2="16" y2="6"/><line x1="12" y1="10" x2="16" y2="10"/></svg>
+        <span>30% Ruling Calculator</span>
+      </a>
+      <a href="/tools/salary-checker/" class="tbar-card">
+        <svg width="22" height="22" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><line x1="12" y1="1" x2="12" y2="23"/><path d="M17 5H9.5a3.5 3.5 0 000 7h5a3.5 3.5 0 010 7H6"/></svg>
+        <span>Net Salary Calculator</span>
+      </a>
+      <a href="/tools/health-insurance-wizard/" class="tbar-card">
+        <svg width="22" height="22" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M22 12h-4l-3 9L9 3l-3 9H2"/></svg>
+        <span>Health Insurance Compare</span>
+      </a>
+      <a href="/tools/bank-account-chooser/" class="tbar-card">
+        <svg width="22" height="22" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><rect x="1" y="4" width="22" height="16" rx="2"/><line x1="1" y1="10" x2="23" y2="10"/></svg>
+        <span>Bank Account Compare</span>
+      </a>
+      <a href="/tools/visa-permit-finder/" class="tbar-card">
+        <svg width="22" height="22" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M16 4h2a2 2 0 012 2v14a2 2 0 01-2 2H6a2 2 0 01-2-2V6a2 2 0 012-2h2"/><rect x="8" y="2" width="8" height="4" rx="1"/><path d="M9 14l2 2 4-4"/></svg>
+        <span>Visa Check</span>
+      </a>
+      <a href="/tools/housing-budget-checker/" class="tbar-card">
+        <svg width="22" height="22" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M3 9l9-7 9 7v11a2 2 0 01-2 2H5a2 2 0 01-2-2z"/><polyline points="9 22 9 12 15 12 15 22"/></svg>
+        <span>Rent Calculator</span>
+      </a>
+    </div>
+  </div>
+</section>
+
+<!-- ═══════════════════════════════════════════════════
+     RECOMMENDED SERVICES
      ═══════════════════════════════════════════════════ -->
 <section class="section-recommended">
-  <div class="container wide">
+  <div class="wide">
     <div class="section-header">
-      <h2>Most Recommended by Expats</h2>
-      <p class="section-sub">The products and services our readers use most — vetted and reviewed by our team.</p>
+      <h2>Recommended by Expats</h2>
+      <p class="section-sub">Vetted services our readers trust most.</p>
     </div>
     <div class="recommended-grid">
-
-      <a href="https://wise.com/invite/ihpc/willemt52" class="recommended-card cta-affiliate" target="_blank" rel="noopener noreferrer sponsored">
-        <div class="recommended-badge">Free</div>
-        <div class="recommended-name">Wise</div>
-        <div class="recommended-cat">International Transfers</div>
-        <div class="recommended-desc">Send money abroad with the real exchange rate. Used by 16M+ people worldwide.</div>
-        <span class="recommended-cta">Open account &rarr;</span>
+      <a href="https://wise.com/invite/ihpc/willemt52" class="rec-card cta-affiliate" target="_blank" rel="noopener noreferrer sponsored">
+        <div class="rec-top"><span class="rec-badge">Free</span><span class="rec-cat">Money Transfer</span></div>
+        <div class="rec-name">Wise</div>
+        <div class="rec-desc">Real exchange rate, no hidden fees. 16M+ users.</div>
+        <span class="rec-cta">Open account &rarr;</span>
       </a>
-
-      <a href="https://safetywing.com/nomad-insurance/?referenceID=26482728" class="recommended-card cta-affiliate" target="_blank" rel="noopener noreferrer sponsored">
-        <div class="recommended-badge">&euro;45/mo</div>
-        <div class="recommended-name">SafetyWing</div>
-        <div class="recommended-cat">Expat Insurance</div>
-        <div class="recommended-desc">Travel medical insurance for remote workers and expats. Flexible monthly plans.</div>
-        <span class="recommended-cta">Get covered &rarr;</span>
+      <a href="https://safetywing.com/nomad-insurance/?referenceID=26482728" class="rec-card cta-affiliate" target="_blank" rel="noopener noreferrer sponsored">
+        <div class="rec-top"><span class="rec-badge">&euro;45/mo</span><span class="rec-cat">Expat Insurance</span></div>
+        <div class="rec-name">SafetyWing</div>
+        <div class="rec-desc">Travel medical insurance. Flexible monthly plans.</div>
+        <span class="rec-cta">Get covered &rarr;</span>
       </a>
-
-      <a href="https://go.nordvpn.net/aff_c?offer_id=612&aff_id=141337" class="recommended-card cta-affiliate" target="_blank" rel="noopener noreferrer sponsored">
-        <div class="recommended-badge">&euro;3.49/mo</div>
-        <div class="recommended-name">NordVPN</div>
-        <div class="recommended-cat">Online Security</div>
-        <div class="recommended-desc">Access content from home and stay secure on public Wi-Fi in the Netherlands.</div>
-        <span class="recommended-cta">Get NordVPN &rarr;</span>
+      <a href="https://go.nordvpn.net/aff_c?offer_id=612&aff_id=141337" class="rec-card cta-affiliate" target="_blank" rel="noopener noreferrer sponsored">
+        <div class="rec-top"><span class="rec-badge">&euro;3.49/mo</span><span class="rec-cat">Online Security</span></div>
+        <div class="rec-name">NordVPN</div>
+        <div class="rec-desc">Access home content &amp; stay secure on public Wi-Fi.</div>
+        <span class="rec-cta">Get NordVPN &rarr;</span>
       </a>
-
-      <a href="https://www.bunq.com/" class="recommended-card" target="_blank" rel="noopener noreferrer">
-        <div class="recommended-badge">&euro;2.99/mo</div>
-        <div class="recommended-name">bunq</div>
-        <div class="recommended-cat">Dutch Bank Account</div>
-        <div class="recommended-desc">Open a Dutch bank account from your phone in 5 minutes. English app, no BSN needed to start.</div>
-        <span class="recommended-cta">Learn more &rarr;</span>
+      <a href="https://www.bunq.com/" class="rec-card" target="_blank" rel="noopener noreferrer">
+        <div class="rec-top"><span class="rec-badge">&euro;2.99/mo</span><span class="rec-cat">Dutch Bank</span></div>
+        <div class="rec-name">bunq</div>
+        <div class="rec-desc">Open a Dutch account in 5 min. No BSN needed to start.</div>
+        <span class="rec-cta">Learn more &rarr;</span>
       </a>
-
-      <a href="https://www.babbel.com/" class="recommended-card" target="_blank" rel="noopener noreferrer">
-        <div class="recommended-badge">&euro;6.99/mo</div>
-        <div class="recommended-name">Babbel</div>
-        <div class="recommended-cat">Learn Dutch</div>
-        <div class="recommended-desc">Structured Dutch lessons designed by linguists. Speech recognition and real-life dialogues.</div>
-        <span class="recommended-cta">Start learning &rarr;</span>
-      </a>
-
-      <a href="https://housinganywhere.com/" class="recommended-card" target="_blank" rel="noopener noreferrer">
-        <div class="recommended-badge">Free</div>
-        <div class="recommended-name">HousingAnywhere</div>
-        <div class="recommended-cat">Find Housing</div>
-        <div class="recommended-desc">Find verified apartments and rooms in Dutch cities. Secure booking with payment protection.</div>
-        <span class="recommended-cta">Browse listings &rarr;</span>
-      </a>
-
     </div>
   </div>
 </section>
 
 <!-- ═══════════════════════════════════════════════════
-     HOW IT WORKS
-     ═══════════════════════════════════════════════════ -->
-<section class="how-it-works">
-  <div class="container wide">
-    <div class="section-header">
-      <h2>How It Works</h2>
-      <p class="section-sub">From confusion to clarity in three steps.</p>
-    </div>
-    <div class="steps">
-      <div class="step-card">
-        <div class="step-number">1</div>
-        <h3>Answer a few questions</h3>
-        <p>Tell us about your situation — your salary, visa status, and goals. Takes less than two minutes.</p>
-      </div>
-      <div class="step-divider">&rarr;</div>
-      <div class="step-card">
-        <div class="step-number">2</div>
-        <h3>Get personalised recommendations</h3>
-        <p>We compare options tailored to your exact situation, with honest pros, cons, and costs.</p>
-      </div>
-      <div class="step-divider">&rarr;</div>
-      <div class="step-card">
-        <div class="step-number">3</div>
-        <h3>Sign up with a trusted partner</h3>
-        <p>Open an account or apply through one of our vetted partners — with confidence.</p>
-      </div>
-    </div>
-  </div>
-</section>
-
-<!-- ═══════════════════════════════════════════════════
-     LATEST GUIDES
-     ═══════════════════════════════════════════════════ -->
-<section class="section-guides">
-  <div class="container wide">
-    <div class="section-header">
-      <h2>Latest Expat Guides</h2>
-      <p class="section-sub">Practical, up-to-date articles written by Sarah van den Berg, expat coach.</p>
-    </div>
-    <div class="guide-grid">
-      {{ range .Site.RegularPages.ByDate.Reverse | first 6 }}
-      {{ $pageTitle := .Title }}
-      {{ $homeCat := "daily-life" }}
-      {{ with .Params.categories }}{{ $homeCat = index . 0 }}{{ end }}
-      {{ $homeSvg := printf "/images/categories/%s.svg" $homeCat }}
-      {{ $homeSvgFile := printf "static/images/categories/%s.svg" $homeCat }}
-      <a href="{{ .RelPermalink }}" class="card guide-card">
-        {{ if (fileExists $homeSvgFile) }}
-        <img src="{{ $homeSvg }}" alt="{{ $pageTitle }}" class="card-thumb" loading="lazy">
-        {{ else }}
-        <div class="card-thumb card-thumb-placeholder"></div>
-        {{ end }}
-        <div class="card-body">
-          <div class="meta">{{ .Date.Format "January 2, 2006" }} &middot; {{ .ReadingTime }} min read</div>
-          <h3>{{ .Title }}</h3>
-          <p>{{ .Summary | truncate 120 }}</p>
-        </div>
-      </a>
-      {{ end }}
-    </div>
-    <div class="section-footer">
-      <a href="/guides/" class="cta cta-outline-green">View all guides &rarr;</a>
-    </div>
-  </div>
-</section>
-
-<!-- ═══════════════════════════════════════════════════
-     CITY GUIDES — SVG icons
+     CITY GUIDES
      ═══════════════════════════════════════════════════ -->
 <section class="section-cities">
-  <div class="container wide">
+  <div class="wide">
     <div class="section-header">
       <h2>Explore by City</h2>
       <p class="section-sub">Local guides for the cities where expats live and work.</p>
@@ -321,19 +373,69 @@
 </section>
 
 <!-- ═══════════════════════════════════════════════════
-     ABOUT SARAH
+     EVENTS & WEBINARS (placeholder)
+     ═══════════════════════════════════════════════════ -->
+<section class="events-section">
+  <div class="wide">
+    <div class="section-header">
+      <h2>Upcoming for Expats</h2>
+      <p class="section-sub">Webinars, events, and workshops to help you settle in.</p>
+    </div>
+    <div class="events-grid">
+      <div class="event-card">
+        <div class="event-date">
+          <span class="event-month">Apr</span>
+          <span class="event-day">15</span>
+        </div>
+        <div class="event-info">
+          <div class="event-type">Free Webinar</div>
+          <h3>Filing Your Dutch Tax Return in {{ now.Year }}</h3>
+          <p>Step-by-step walkthrough of the Belastingdienst portal. Live Q&amp;A included.</p>
+        </div>
+        <span class="event-cta">Coming soon</span>
+      </div>
+      <div class="event-card">
+        <div class="event-date">
+          <span class="event-month">May</span>
+          <span class="event-day">08</span>
+        </div>
+        <div class="event-info">
+          <div class="event-type">Free Webinar</div>
+          <h3>30% Ruling Changes — What You Need to Know</h3>
+          <p>Tax expert explains the latest ruling changes and how they affect your salary.</p>
+        </div>
+        <span class="event-cta">Coming soon</span>
+      </div>
+      <div class="event-card">
+        <div class="event-date">
+          <span class="event-month">Jun</span>
+          <span class="event-day">12</span>
+        </div>
+        <div class="event-info">
+          <div class="event-type">Workshop</div>
+          <h3>Navigating the Dutch Housing Market</h3>
+          <p>Tips from housing experts on finding and securing a rental in the Netherlands.</p>
+        </div>
+        <span class="event-cta">Coming soon</span>
+      </div>
+    </div>
+  </div>
+</section>
+
+<!-- ═══════════════════════════════════════════════════
+     ABOUT + TRUST + EMAIL
      ═══════════════════════════════════════════════════ -->
 <section class="section-about">
-  <div class="container wide">
+  <div class="wide">
     <div class="about-card">
       <div class="about-avatar">SvdB</div>
       <div class="about-content">
         <h2>Written by Sarah van den Berg</h2>
-        <p>Expat coach and relocation specialist who moved to the Netherlands in 2018. After navigating the 30% ruling, health insurance maze, and housing crisis herself, Sarah started Expat Netherlands Hub to help others avoid the same mistakes.</p>
+        <p>Expat coach and relocation specialist. After navigating the 30% ruling, insurance maze, and housing crisis herself, Sarah started this hub to help others avoid the same mistakes.</p>
         <div class="about-stats">
-          <div class="about-stat"><strong>{{ len (where .Site.RegularPages "Type" "guides") }}+</strong> guides written</div>
+          <div class="about-stat"><strong>{{ len $allGuides }}+</strong> guides</div>
           <div class="about-stat"><strong>8+</strong> years in NL</div>
-          <div class="about-stat"><strong>11</strong> free tools built</div>
+          <div class="about-stat"><strong>11</strong> free tools</div>
         </div>
         <a href="/about/" class="cta cta-outline-green" style="margin-top:1rem;">Read Sarah's story &rarr;</a>
       </div>
@@ -341,32 +443,25 @@
   </div>
 </section>
 
-<!-- ═══════════════════════════════════════════════════
-     TRUST SECTION — badge style
-     ═══════════════════════════════════════════════════ -->
 <section class="trust-section">
-  <div class="container wide">
-    <p class="trust-heading">Trusted by thousands of expats</p>
+  <div class="wide">
     <div class="trust-items">
       <div class="trust-item">
         <span class="trust-badge-icon"><svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round"><path d="M22 11.08V12a10 10 0 11-5.93-9.14"/><polyline points="22 4 12 14.01 9 11.01"/></svg></span>
-        <span>10+ free tools, no signup needed</span>
+        <span>{{ len $allGuides }}+ free guides, updated {{ now.Year }}</span>
       </div>
       <div class="trust-item">
         <span class="trust-badge-icon"><svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round"><path d="M22 11.08V12a10 10 0 11-5.93-9.14"/><polyline points="22 4 12 14.01 9 11.01"/></svg></span>
-        <span>Updated for {{ now.Year }} — rules, salaries, and costs</span>
+        <span>11 free tools, no signup needed</span>
       </div>
       <div class="trust-item">
         <span class="trust-badge-icon"><svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round"><path d="M22 11.08V12a10 10 0 11-5.93-9.14"/><polyline points="22 4 12 14.01 9 11.01"/></svg></span>
-        <span>Written by Sarah van den Berg, expat coach</span>
+        <span>Written by an expat coach who's been through it all</span>
       </div>
     </div>
   </div>
 </section>
 
-<!-- ═══════════════════════════════════════════════════
-     EMAIL CAPTURE
-     ═══════════════════════════════════════════════════ -->
 <section class="email-capture">
   <div class="container">
     <h2>Get Your Free Expat Checklist</h2>
@@ -383,382 +478,262 @@
      HOMEPAGE STYLES
      ═══════════════════════════════════════════════════ -->
 <style>
-  /* ── Hero ──────────────────────────────────────── */
+  /* ── Hero — compact portal style ─────────────── */
   .hero {
     background:
-      url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='80' height='80'%3E%3Ccircle cx='40' cy='40' r='1.5' fill='%23ffffff' opacity='0.07'/%3E%3Ccircle cx='0' cy='0' r='1' fill='%23ffffff' opacity='0.05'/%3E%3Ccircle cx='80' cy='0' r='1' fill='%23ffffff' opacity='0.05'/%3E%3Ccircle cx='0' cy='80' r='1' fill='%23ffffff' opacity='0.05'/%3E%3Ccircle cx='80' cy='80' r='1' fill='%23ffffff' opacity='0.05'/%3E%3Cpath d='M0 40h80M40 0v80' stroke='%23ffffff' stroke-width='0.3' opacity='0.04'/%3E%3C/svg%3E"),
+      url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='80' height='80'%3E%3Ccircle cx='40' cy='40' r='1.5' fill='%23ffffff' opacity='0.07'/%3E%3Cpath d='M0 40h80M40 0v80' stroke='%23ffffff' stroke-width='0.3' opacity='0.04'/%3E%3C/svg%3E"),
       linear-gradient(135deg, var(--expat-primary-dark) 0%, var(--expat-primary) 50%, #2D9B6A 100%);
-    padding: 5rem 0 4rem;
-    position: relative;
-    overflow: hidden;
+    padding: 3.5rem 0 2.5rem;
+    position: relative; overflow: hidden;
   }
-  .hero::before {
-    content: '';
-    position: absolute;
-    top: -50%; right: -20%;
-    width: 600px; height: 600px;
-    border-radius: 50%;
-    background: radial-gradient(circle, rgba(232,131,42,0.12) 0%, transparent 70%);
-    pointer-events: none;
+  .hero::before { content:''; position:absolute; top:-50%; right:-20%; width:600px; height:600px; border-radius:50%; background:radial-gradient(circle,rgba(232,131,42,.12) 0%,transparent 70%); pointer-events:none; }
+  .hero > .wide { position:relative; z-index:1; }
+  .hero-compact { text-align:center; }
+  .hero-eyebrow { display:inline-block; background:rgba(255,255,255,.12); border:1px solid rgba(255,255,255,.15); color:rgba(255,255,255,.9); font-size:.78rem; font-weight:600; letter-spacing:.1em; text-transform:uppercase; padding:.25rem .85rem; border-radius:20px; margin-bottom:1rem; }
+  .hero h1 { color:#fff; font-size:2.5rem; margin-bottom:1.5rem; line-height:1.2; }
+  .hero-quicklinks { display:flex; flex-wrap:wrap; justify-content:center; gap:.6rem; max-width:800px; margin:0 auto; }
+  .hero-qlink {
+    display:inline-flex; align-items:center; gap:.45rem;
+    background:rgba(255,255,255,.1); border:1px solid rgba(255,255,255,.2);
+    color:#fff; padding:.6rem 1.1rem; border-radius:10px;
+    font-size:.88rem; font-weight:600; text-decoration:none;
+    transition:all .2s; backdrop-filter:blur(4px);
   }
-  .hero::after {
-    content: '';
-    position: absolute;
-    bottom: -40%; left: -15%;
-    width: 500px; height: 500px;
-    border-radius: 50%;
-    background: radial-gradient(circle, rgba(45,155,106,0.15) 0%, transparent 70%);
-    pointer-events: none;
-  }
-  .hero > .wide { position: relative; z-index: 1; }
-  .hero-split {
-    display: flex;
-    align-items: center;
-    gap: 3rem;
-  }
-  .hero-text { flex: 1; }
-  .hero-eyebrow {
-    display: inline-block;
-    background: rgba(255,255,255,0.12);
-    border: 1px solid rgba(255,255,255,0.15);
-    color: rgba(255,255,255,0.9);
-    font-size: 0.8rem;
-    font-weight: 600;
-    letter-spacing: 0.1em;
-    text-transform: uppercase;
-    padding: 0.3rem 0.9rem;
-    border-radius: 20px;
-    margin-bottom: 1.25rem;
-  }
-  .hero h1 {
-    color: #ffffff;
-    font-size: 3rem;
-    line-height: 1.15;
-    margin-bottom: 1rem;
-  }
-  .hero-text > p {
-    color: rgba(255,255,255,0.88);
-    font-size: 1.15rem;
-    max-width: 540px;
-    margin-bottom: 2rem;
-    line-height: 1.7;
-  }
-  .hero-actions {
-    display: flex;
-    gap: 0.75rem;
-    flex-wrap: wrap;
-  }
-  .cta-ghost {
-    background: transparent;
-    border: 2px solid rgba(255,255,255,0.6);
-    color: #ffffff;
-  }
-  .cta-ghost:hover {
-    background: rgba(255,255,255,0.12);
-    border-color: #ffffff;
-    text-decoration: none;
-  }
+  .hero-qlink:hover { background:rgba(255,255,255,.2); border-color:rgba(255,255,255,.35); text-decoration:none; color:#fff; }
+  .hero-qlink svg { opacity:.8; flex-shrink:0; }
+  .hero-qlink--accent { background:var(--expat-accent); border-color:var(--expat-accent); }
+  .hero-qlink--accent:hover { background:var(--accent-hover); border-color:var(--accent-hover); }
 
-  /* Hero device mockup */
-  .hero-visual { flex-shrink: 0; width: 320px; }
-  .hero-device {
-    background: rgba(255,255,255,0.08);
-    border: 1px solid rgba(255,255,255,0.15);
-    border-radius: 12px;
-    overflow: hidden;
-    backdrop-filter: blur(10px);
+  /* ── Don't Miss ───────────────────────────────── */
+  .dont-miss { padding:0; margin-top:-1.5rem; position:relative; z-index:2; }
+  .dm-grid { display:grid; grid-template-columns:1fr 1fr 1fr; gap:1rem; }
+  .dm-card {
+    display:flex; align-items:center; gap:1rem;
+    background:#fff; border:1px solid var(--expat-border);
+    border-radius:14px; padding:1.25rem 1.5rem;
+    text-decoration:none; color:var(--expat-text);
+    transition:all .2s; position:relative;
   }
-  .hero-device-bar {
-    display: flex;
-    gap: 5px;
-    padding: 10px 12px;
-    background: rgba(255,255,255,0.05);
-    border-bottom: 1px solid rgba(255,255,255,0.08);
-  }
-  .hero-device-bar span {
-    width: 8px; height: 8px;
-    border-radius: 50%;
-    background: rgba(255,255,255,0.2);
-  }
-  .hero-device-bar span:first-child { background: #EF4444; opacity: 0.6; }
-  .hero-device-bar span:nth-child(2) { background: #F59E0B; opacity: 0.6; }
-  .hero-device-bar span:nth-child(3) { background: #10B981; opacity: 0.6; }
-  .hero-device-screen {
-    padding: 1.25rem;
-    display: flex;
-    flex-direction: column;
-    gap: 0.75rem;
-  }
-  .hero-device-line {
-    border-radius: 4px;
-    background: rgba(255,255,255,0.12);
-  }
-  .hero-device-line--title { height: 14px; width: 75%; }
-  .hero-device-line--sub { height: 10px; width: 55%; opacity: 0.6; }
-  .hero-device-row { display: flex; gap: 0.75rem; }
-  .hero-device-card {
-    flex: 1;
-    height: 60px;
-    border-radius: 8px;
-    background: rgba(255,255,255,0.08);
-    border: 1px solid rgba(255,255,255,0.1);
-  }
-  .hero-device-line--btn {
-    height: 32px;
-    width: 50%;
-    background: rgba(232,131,42,0.4);
-    border-radius: 6px;
-  }
+  .dm-card:hover { box-shadow:0 8px 28px rgba(27,107,74,.12); transform:translateY(-2px); text-decoration:none; color:var(--expat-text); }
+  .dm-card--primary { background:linear-gradient(135deg,var(--expat-primary-dark),var(--expat-primary)); color:#fff; border-color:transparent; }
+  .dm-card--primary .dm-label { color:var(--expat-accent-light); }
+  .dm-card--primary .dm-desc { color:rgba(255,255,255,.75); }
+  .dm-card--primary .dm-arrow { color:rgba(255,255,255,.6); }
+  .dm-card--primary:hover { color:#fff; }
+  .dm-icon { width:48px; height:48px; border-radius:12px; background:#D1FAE5; display:flex; align-items:center; justify-content:center; flex-shrink:0; }
+  .dm-card--primary .dm-icon { background:rgba(255,255,255,.15); color:#fff; }
+  .dm-icon svg { color:var(--expat-primary); }
+  .dm-card--primary .dm-icon svg { color:#fff; }
+  .dm-content { flex:1; min-width:0; }
+  .dm-label { font-size:.68rem; font-weight:700; text-transform:uppercase; letter-spacing:.06em; color:var(--expat-primary); margin-bottom:.15rem; }
+  .dm-title { font-family:'Outfit',sans-serif; font-weight:700; font-size:1rem; line-height:1.3; margin-bottom:.2rem; }
+  .dm-desc { font-size:.8rem; color:var(--expat-muted); line-height:1.45; }
+  .dm-arrow { font-size:1.2rem; color:var(--expat-primary-light); flex-shrink:0; transition:transform .15s; }
+  .dm-card:hover .dm-arrow { transform:translateX(4px); }
 
-  /* ── Stats banner ─────────────────────────────── */
-  .stats-banner {
-    background: #fff;
-    border-bottom: 1px solid var(--expat-border);
-    padding: 1.5rem 0;
+  /* ── Expat Journey ────────────────────────────── */
+  .expat-journey { padding:4rem 0; background:#fff; border-bottom:1px solid var(--expat-border); }
+  .journey-grid { display:grid; grid-template-columns:repeat(3,1fr); gap:1.5rem; }
+  .journey-card {
+    background:var(--expat-bg); border:1px solid var(--expat-border);
+    border-radius:14px; padding:1.75rem;
+    position:relative;
   }
-  .stats-grid {
-    display: flex;
-    justify-content: center;
-    gap: 3.5rem;
-    flex-wrap: wrap;
+  .journey-step {
+    width:36px; height:36px; border-radius:50%;
+    background:var(--expat-primary); color:#fff;
+    font-family:'Outfit',sans-serif; font-weight:800; font-size:1rem;
+    display:flex; align-items:center; justify-content:center;
+    margin-bottom:.75rem;
   }
-  .stat-item { text-align: center; }
-  .stat-number {
-    font-family: 'Outfit', sans-serif;
-    font-size: 1.75rem;
-    font-weight: 800;
-    color: var(--expat-primary-dark);
-    line-height: 1;
-  }
-  .stat-label {
-    font-size: 0.8rem;
-    color: var(--expat-muted);
-    margin-top: 0.25rem;
-    font-weight: 500;
-  }
+  .journey-card h3 { font-size:1.15rem; margin-bottom:.35rem; color:var(--expat-primary-dark); }
+  .journey-card > p { font-size:.88rem; color:var(--expat-muted); margin-bottom:1rem; line-height:1.55; }
+  .journey-links { list-style:none; margin:0 0 1rem; padding:0; }
+  .journey-links li { margin-bottom:.4rem; }
+  .journey-links a { font-size:.88rem; color:var(--expat-primary); font-weight:500; text-decoration:none; }
+  .journey-links a:hover { text-decoration:underline; }
+  .journey-links a::before { content:"→ "; color:var(--expat-accent); }
+  .journey-cta { font-size:.82rem; font-weight:700; color:var(--expat-accent); text-decoration:none; }
+  .journey-cta:hover { text-decoration:underline; }
 
-  /* ── Shared section utilities ───────────────────── */
-  .section-header { text-align: center; margin-bottom: 2.5rem; }
-  .section-header h2 { color: var(--expat-text); font-size: 1.9rem; margin-bottom: 0.4rem; }
-  .section-sub { color: var(--expat-muted); font-size: 1rem; margin: 0; }
-  .section-footer { text-align: center; margin-top: 2.5rem; }
-  .cta-outline-green { background: transparent; border: 2px solid var(--expat-primary); color: var(--expat-primary); }
-  .cta-outline-green:hover { background: var(--expat-primary); color: #ffffff; text-decoration: none; }
+  /* ── Content Hub (tabbed) ─────────────────────── */
+  .content-hub { padding:4rem 0; background:var(--expat-bg); }
+  .hub-header { display:flex; align-items:center; justify-content:space-between; gap:1rem; margin-bottom:2rem; flex-wrap:wrap; }
+  .hub-header h2 { margin:0; font-size:1.6rem; }
+  .hub-tabs { display:flex; gap:.35rem; flex-wrap:wrap; }
+  .hub-tab {
+    padding:.45rem 1rem; border:1.5px solid var(--expat-border);
+    border-radius:8px; background:var(--expat-card); color:var(--expat-muted);
+    font-size:.85rem; font-weight:600; cursor:pointer; font-family:inherit;
+    transition:all .15s;
+  }
+  .hub-tab:hover { border-color:var(--expat-primary-light); color:var(--expat-primary); }
+  .hub-tab.active { background:var(--expat-primary); color:#fff; border-color:var(--expat-primary); }
+  .hub-panel { display:none; }
+  .hub-panel.active { display:block; }
+  .hub-grid { display:grid; grid-template-columns:repeat(3,1fr); gap:1.25rem; }
+  .hub-card {
+    display:flex; flex-direction:column; background:#fff;
+    border:1px solid var(--expat-border); border-radius:12px;
+    overflow:hidden; text-decoration:none; color:var(--expat-text);
+    transition:all .2s;
+  }
+  .hub-card:hover { box-shadow:0 6px 20px rgba(27,107,74,.1); transform:translateY(-2px); text-decoration:none; color:var(--expat-text); }
+  .hub-card-img { width:100%; height:160px; object-fit:cover; display:block; }
+  .hub-card-placeholder { background:linear-gradient(135deg,var(--expat-primary-dark),var(--expat-primary)); }
+  .hub-card-body { padding:1rem 1.25rem 1.25rem; flex:1; display:flex; flex-direction:column; }
+  .hub-card-cat { font-size:.7rem; font-weight:700; text-transform:uppercase; letter-spacing:.05em; color:var(--expat-primary); margin-bottom:.3rem; }
+  .hub-card h3 { font-size:.95rem; font-weight:700; color:var(--expat-primary-dark); margin:0 0 .4rem; line-height:1.35; }
+  .hub-card-meta { font-size:.75rem; color:var(--expat-muted); margin-top:auto; }
+  .hub-more { text-align:center; margin-top:1.75rem; }
 
-  /* ── Tool grid with SVG icons ─────────────────── */
-  .section-tools { padding: 4rem 0; background: var(--expat-bg); }
-  .tool-grid { display: grid; grid-template-columns: repeat(5, 1fr); gap: 1rem; }
-  .tool-card {
-    display: flex; flex-direction: column; align-items: flex-start;
-    background: var(--expat-card); border: 1px solid var(--expat-border);
-    border-radius: 12px; padding: 1.25rem 1rem 1rem;
-    text-decoration: none; color: var(--expat-text);
-    transition: box-shadow 0.2s, transform 0.2s, border-color 0.2s;
-    gap: 0.5rem;
+  /* ── Tools bar ────────────────────────────────── */
+  .tools-bar { padding:3rem 0; background:#fff; border-top:1px solid var(--expat-border); border-bottom:1px solid var(--expat-border); }
+  .tools-bar-header { display:flex; align-items:center; justify-content:space-between; margin-bottom:1.25rem; }
+  .tools-bar-header h2 { margin:0; font-size:1.4rem; }
+  .tools-bar-all { font-size:.88rem; font-weight:600; color:var(--expat-primary); text-decoration:none; }
+  .tools-bar-all:hover { text-decoration:underline; }
+  .tools-scroll { display:flex; gap:.75rem; overflow-x:auto; padding-bottom:.5rem; -webkit-overflow-scrolling:touch; }
+  .tbar-card {
+    display:flex; align-items:center; gap:.55rem;
+    background:var(--expat-bg); border:1px solid var(--expat-border);
+    border-radius:10px; padding:.75rem 1.15rem;
+    text-decoration:none; color:var(--expat-text);
+    font-size:.85rem; font-weight:600; white-space:nowrap;
+    transition:all .15s; flex-shrink:0;
   }
-  .tool-card:hover {
-    box-shadow: 0 6px 20px rgba(27,107,74,0.12);
-    transform: translateY(-3px);
-    border-color: var(--expat-primary-light);
-    text-decoration: none; color: var(--expat-text);
-  }
-  .tool-icon-svg {
-    width: 44px; height: 44px;
-    border-radius: 10px;
-    background: #D1FAE5;
-    display: flex; align-items: center; justify-content: center;
-    flex-shrink: 0;
-  }
-  .tool-icon-svg svg { width: 22px; height: 22px; color: var(--expat-primary); }
-  .tool-body h3 { font-size: 0.9rem; font-weight: 700; color: var(--expat-text); margin: 0 0 0.2rem; line-height: 1.3; }
-  .tool-body p { font-size: 0.78rem; color: var(--expat-muted); margin: 0; line-height: 1.4; }
-  .tool-cta { margin-top: auto; font-size: 0.8rem; font-weight: 600; color: var(--expat-primary); }
-  .tool-card:hover .tool-cta { color: var(--expat-primary-light); }
+  .tbar-card svg { color:var(--expat-primary); flex-shrink:0; }
+  .tbar-card:hover { border-color:var(--expat-primary-light); background:#F0FDF4; text-decoration:none; color:var(--expat-text); }
 
-  /* ── Recommended products ──────────────────────── */
-  .section-recommended {
-    padding: 4rem 0;
-    background: #fff;
-    border-top: 1px solid var(--expat-border);
+  /* ── Recommended ──────────────────────────────── */
+  .section-recommended { padding:4rem 0; background:var(--expat-bg); }
+  .recommended-grid { display:grid; grid-template-columns:repeat(4,1fr); gap:1rem; }
+  .rec-card {
+    display:flex; flex-direction:column; background:#fff;
+    border:1px solid var(--expat-border); border-radius:12px;
+    padding:1.25rem; text-decoration:none; color:var(--expat-text);
+    transition:all .2s; margin:0;
   }
-  .recommended-grid {
-    display: grid;
-    grid-template-columns: repeat(3, 1fr);
-    gap: 1.25rem;
-  }
-  .recommended-card {
-    display: flex; flex-direction: column;
-    background: var(--expat-card); border: 1px solid var(--expat-border);
-    border-radius: 14px; padding: 1.5rem;
-    text-decoration: none; color: var(--expat-text);
-    transition: box-shadow 0.2s, transform 0.2s, border-color 0.2s;
-    position: relative;
-    margin: 0;
-  }
-  .recommended-card:hover {
-    box-shadow: 0 8px 28px rgba(27,107,74,0.12);
-    transform: translateY(-3px);
-    border-color: var(--expat-primary-light);
-    text-decoration: none; color: var(--expat-text);
-  }
-  .recommended-badge {
-    display: inline-block;
-    background: #D1FAE5; color: var(--expat-primary-dark);
-    font-size: 0.72rem; font-weight: 700;
-    padding: 0.2rem 0.6rem; border-radius: 6px;
-    margin-bottom: 0.75rem; align-self: flex-start;
-  }
-  .recommended-name {
-    font-family: 'Outfit', sans-serif;
-    font-size: 1.2rem; font-weight: 800;
-    color: var(--expat-primary-dark);
-    margin-bottom: 0.1rem;
-  }
-  .recommended-cat {
-    font-size: 0.78rem; color: var(--expat-primary);
-    font-weight: 600; margin-bottom: 0.6rem;
-  }
-  .recommended-desc {
-    font-size: 0.88rem; color: var(--expat-muted);
-    line-height: 1.55; flex: 1; margin-bottom: 1rem;
-  }
-  .recommended-cta {
-    font-size: 0.88rem; font-weight: 700;
-    color: var(--expat-accent);
-    margin-top: auto;
-  }
-  .recommended-card:hover .recommended-cta { color: var(--accent-hover); }
+  .rec-card:hover { box-shadow:0 8px 24px rgba(27,107,74,.1); transform:translateY(-2px); text-decoration:none; color:var(--expat-text); }
+  .rec-top { display:flex; align-items:center; justify-content:space-between; margin-bottom:.6rem; }
+  .rec-badge { background:#D1FAE5; color:var(--expat-primary-dark); font-size:.7rem; font-weight:700; padding:.15rem .5rem; border-radius:5px; }
+  .rec-cat { font-size:.72rem; color:var(--expat-muted); font-weight:500; }
+  .rec-name { font-family:'Outfit',sans-serif; font-size:1.15rem; font-weight:800; color:var(--expat-primary-dark); margin-bottom:.3rem; }
+  .rec-desc { font-size:.82rem; color:var(--expat-muted); line-height:1.5; flex:1; margin-bottom:.75rem; }
+  .rec-cta { font-size:.85rem; font-weight:700; color:var(--expat-accent); margin-top:auto; }
+  .rec-card:hover .rec-cta { color:var(--accent-hover); }
 
-  /* ── How it works ───────────────────────────────── */
-  .how-it-works {
-    background: #f0fdf4; padding: 4rem 0;
-    border-top: 1px solid #bbf7d0; border-bottom: 1px solid #bbf7d0;
-  }
-  .steps { display: flex; align-items: flex-start; gap: 1rem; }
-  .step-card {
-    flex: 1; background: #ffffff; border: 1px solid #bbf7d0;
-    border-radius: 12px; padding: 1.75rem 1.5rem; text-align: center;
-  }
-  .step-number {
-    width: 44px; height: 44px; border-radius: 50%;
-    background: var(--expat-primary); color: #ffffff;
-    font-size: 1.2rem; font-weight: 700;
-    display: flex; align-items: center; justify-content: center;
-    margin: 0 auto 1rem;
-  }
-  .step-card h3 { font-size: 1rem; font-weight: 700; color: var(--expat-text); margin: 0 0 0.5rem; }
-  .step-card p { font-size: 0.9rem; color: var(--expat-muted); margin: 0; line-height: 1.6; }
-  .step-divider { font-size: 1.5rem; color: var(--expat-primary-light); padding-top: 3.25rem; flex-shrink: 0; }
+  /* ── Cities ───────────────────────────────────── */
+  .section-cities { padding:3.5rem 0; background:#fff; border-top:1px solid var(--expat-border); }
+  .city-pills { display:flex; flex-wrap:wrap; gap:.75rem; justify-content:center; }
+  .city-pill { display:inline-flex; align-items:center; gap:.4rem; background:var(--expat-bg); border:1.5px solid var(--expat-border); border-radius:50px; padding:.55rem 1.1rem; font-size:.9rem; font-weight:600; color:var(--expat-text); text-decoration:none; transition:all .18s; }
+  .city-pill:hover { background:var(--expat-primary); border-color:var(--expat-primary); color:#fff; text-decoration:none; }
+  .city-pill:hover svg { color:#fff; }
+  .city-svg { width:16px; height:16px; color:var(--expat-primary); flex-shrink:0; transition:color .18s; }
 
-  /* ── Guide grid ─────────────────────────────────── */
-  .section-guides { padding: 4rem 0; background: var(--expat-bg); }
-  .guide-grid { display: grid; grid-template-columns: repeat(3, 1fr); gap: 1.5rem; }
-  .guide-card {
-    display: flex; flex-direction: column; background: var(--expat-card);
-    border: 1px solid var(--expat-border); border-radius: 12px;
-    overflow: hidden; padding: 0; margin: 0;
-    text-decoration: none; color: var(--expat-text);
-    transition: box-shadow 0.2s, transform 0.2s;
+  /* ── Events ───────────────────────────────────── */
+  .events-section { padding:4rem 0; background:var(--expat-bg); border-top:1px solid var(--expat-border); }
+  .events-grid { display:grid; grid-template-columns:repeat(3,1fr); gap:1.25rem; }
+  .event-card {
+    display:flex; gap:1.25rem; align-items:flex-start;
+    background:#fff; border:1px solid var(--expat-border);
+    border-radius:14px; padding:1.5rem;
+    transition:all .2s;
   }
-  .guide-card:hover { box-shadow: 0 6px 20px rgba(27,107,74,0.12); transform: translateY(-3px); text-decoration: none; color: var(--expat-text); }
-  .guide-card .card-thumb { width: 100%; height: 180px; object-fit: cover; border-radius: 0; margin: 0; display: block; }
-  .card-thumb-placeholder { width: 100%; height: 180px; background: linear-gradient(135deg, var(--expat-primary-dark) 0%, var(--expat-primary) 100%); display: block; }
-  .guide-card .card-body { padding: 1.25rem 1.25rem 1.5rem; flex: 1; display: flex; flex-direction: column; }
-  .guide-card .meta { font-size: 0.78rem; color: var(--expat-muted); margin-bottom: 0.5rem; }
-  .guide-card h3 { font-size: 1rem; font-weight: 700; color: var(--expat-text); margin: 0 0 0.5rem; line-height: 1.4; }
-  .guide-card p { font-size: 0.85rem; color: var(--expat-muted); margin: 0; line-height: 1.6; flex: 1; }
+  .event-card:hover { box-shadow:0 4px 16px rgba(0,0,0,.06); }
+  .event-date {
+    display:flex; flex-direction:column; align-items:center;
+    background:var(--expat-primary); color:#fff;
+    border-radius:10px; padding:.6rem .75rem; flex-shrink:0;
+    min-width:52px;
+  }
+  .event-month { font-size:.65rem; font-weight:700; text-transform:uppercase; letter-spacing:.06em; opacity:.85; }
+  .event-day { font-size:1.4rem; font-weight:800; line-height:1; font-family:'Outfit',sans-serif; }
+  .event-info { flex:1; }
+  .event-type { font-size:.68rem; font-weight:700; text-transform:uppercase; letter-spacing:.05em; color:var(--expat-accent); margin-bottom:.25rem; }
+  .event-info h3 { font-size:.95rem; font-weight:700; color:var(--expat-primary-dark); margin:0 0 .3rem; line-height:1.35; }
+  .event-info p { font-size:.82rem; color:var(--expat-muted); margin:0; line-height:1.5; }
+  .event-cta { font-size:.78rem; font-weight:600; color:var(--expat-muted); background:var(--expat-bg); padding:.35rem .75rem; border-radius:6px; align-self:center; flex-shrink:0; white-space:nowrap; }
 
-  /* ── City pills with SVG ─────────────────────────── */
-  .section-cities { padding: 3.5rem 0; background: #ffffff; border-top: 1px solid var(--expat-border); }
-  .city-pills { display: flex; flex-wrap: wrap; gap: 0.75rem; justify-content: center; }
-  .city-pill {
-    display: inline-flex; align-items: center; gap: 0.4rem;
-    background: var(--expat-bg); border: 1.5px solid var(--expat-border);
-    border-radius: 50px; padding: 0.55rem 1.1rem;
-    font-size: 0.9rem; font-weight: 600; color: var(--expat-text);
-    text-decoration: none;
-    transition: background 0.18s, border-color 0.18s, color 0.18s;
-  }
-  .city-pill:hover { background: var(--expat-primary); border-color: var(--expat-primary); color: #ffffff; text-decoration: none; }
-  .city-pill:hover svg { color: #fff; }
-  .city-svg { width: 16px; height: 16px; color: var(--expat-primary); flex-shrink: 0; transition: color 0.18s; }
+  /* ── About ────────────────────────────────────── */
+  .section-about { padding:4rem 0; background:#fff; }
+  .about-card { display:flex; align-items:center; gap:2.5rem; background:var(--expat-bg); border:1px solid var(--expat-border); border-radius:16px; padding:2.5rem; }
+  .about-avatar { width:90px; height:90px; border-radius:50%; background:linear-gradient(135deg,var(--expat-primary-dark),var(--expat-primary-light)); color:#fff; font-weight:800; font-size:1.5rem; display:flex; align-items:center; justify-content:center; flex-shrink:0; font-family:'Outfit',sans-serif; box-shadow:0 4px 12px rgba(27,107,74,.2); }
+  .about-content { flex:1; }
+  .about-content h2 { font-size:1.4rem; margin-bottom:.5rem; color:var(--expat-primary-dark); }
+  .about-content p { color:var(--expat-muted); line-height:1.7; margin-bottom:1rem; }
+  .about-stats { display:flex; gap:2rem; flex-wrap:wrap; }
+  .about-stat { font-size:.88rem; color:var(--expat-text); }
+  .about-stat strong { color:var(--expat-primary-dark); font-weight:800; }
 
-  /* ── About Sarah ──────────────────────────────── */
-  .section-about { padding: 4rem 0; background: var(--expat-bg); }
-  .about-card {
-    display: flex; align-items: center; gap: 2.5rem;
-    background: #fff; border: 1px solid var(--expat-border);
-    border-radius: 16px; padding: 2.5rem;
-    box-shadow: 0 4px 16px rgba(0,0,0,0.04);
-  }
-  .about-avatar {
-    width: 90px; height: 90px; border-radius: 50%;
-    background: linear-gradient(135deg, var(--expat-primary-dark), var(--expat-primary-light));
-    color: #fff; font-weight: 800; font-size: 1.5rem;
-    display: flex; align-items: center; justify-content: center;
-    flex-shrink: 0; font-family: 'Outfit', sans-serif;
-    box-shadow: 0 4px 12px rgba(27,107,74,0.2);
-  }
-  .about-content { flex: 1; }
-  .about-content h2 { font-size: 1.4rem; margin-bottom: 0.5rem; color: var(--expat-primary-dark); }
-  .about-content p { color: var(--expat-muted); line-height: 1.7; margin-bottom: 1rem; }
-  .about-stats { display: flex; gap: 2rem; flex-wrap: wrap; }
-  .about-stat { font-size: 0.88rem; color: var(--expat-text); }
-  .about-stat strong { color: var(--expat-primary-dark); font-weight: 800; }
+  /* ── Trust ────────────────────────────────────── */
+  .trust-section { background:var(--expat-bg); border-top:1px solid var(--expat-border); border-bottom:1px solid var(--expat-border); padding:2rem 0; text-align:center; }
+  .trust-items { display:flex; justify-content:center; gap:2.5rem; flex-wrap:wrap; }
+  .trust-item { display:flex; align-items:center; gap:.5rem; font-size:.9rem; color:var(--expat-text); font-weight:500; }
+  .trust-badge-icon { display:inline-flex; color:var(--expat-primary); }
 
-  /* ── Trust section ──────────────────────────────── */
-  .trust-section {
-    background: var(--expat-bg); border-top: 1px solid var(--expat-border);
-    border-bottom: 1px solid var(--expat-border); padding: 2.5rem 0; text-align: center;
-  }
-  .trust-heading { font-size: 1rem; font-weight: 700; color: var(--expat-muted); text-transform: uppercase; letter-spacing: 0.08em; margin-bottom: 1.25rem; }
-  .trust-items { display: flex; justify-content: center; gap: 2.5rem; flex-wrap: wrap; }
-  .trust-item { display: flex; align-items: center; gap: 0.5rem; font-size: 0.95rem; color: var(--expat-text); font-weight: 500; }
-  .trust-badge-icon { display: inline-flex; color: var(--expat-primary); }
+  /* ── Email ────────────────────────────────────── */
+  .email-capture { background:var(--expat-primary-dark); padding:4rem 0; text-align:center; }
+  .email-capture h2 { color:#fff; font-size:1.9rem; margin-bottom:.75rem; }
+  .email-capture > .container > p { color:rgba(255,255,255,.8); font-size:1rem; margin-bottom:1.75rem; }
+  .email-form { display:flex; justify-content:center; gap:.5rem; flex-wrap:wrap; max-width:480px; margin:0 auto .75rem; }
+  .email-input { flex:1; min-width:220px; padding:.75rem 1rem; border-radius:8px; border:none; font-size:.95rem; color:var(--expat-text); outline:none; }
+  .email-input:focus { box-shadow:0 0 0 3px rgba(232,131,42,.4); }
+  .email-submit { background:var(--expat-accent); white-space:nowrap; flex-shrink:0; }
+  .email-submit:hover { background:var(--expat-accent-light); }
+  .email-disclaimer { color:rgba(255,255,255,.75); font-size:.8rem; margin:0; }
 
-  /* ── Email capture ──────────────────────────────── */
-  .email-capture { background: var(--expat-primary-dark); padding: 4rem 0; text-align: center; }
-  .email-capture h2 { color: #ffffff; font-size: 1.9rem; margin-bottom: 0.75rem; }
-  .email-capture > .container > p { color: rgba(255,255,255,0.8); font-size: 1rem; margin-bottom: 1.75rem; }
-  .email-form { display: flex; justify-content: center; gap: 0.5rem; flex-wrap: wrap; max-width: 480px; margin: 0 auto 0.75rem; }
-  .email-input { flex: 1; min-width: 220px; padding: 0.75rem 1rem; border-radius: 8px; border: none; font-size: 0.95rem; color: var(--expat-text); outline: none; }
-  .email-input:focus { box-shadow: 0 0 0 3px rgba(232,131,42,0.4); }
-  .email-submit { background: var(--expat-accent); white-space: nowrap; flex-shrink: 0; }
-  .email-submit:hover { background: var(--expat-accent-light); }
-  .email-disclaimer { color: rgba(255,255,255,0.75); font-size: 0.8rem; margin: 0; }
+  /* ── Shared ───────────────────────────────────── */
+  .section-header { text-align:center; margin-bottom:2.5rem; }
+  .section-header h2 { color:var(--expat-text); font-size:1.9rem; margin-bottom:.4rem; }
+  .section-sub { color:var(--expat-muted); font-size:1rem; margin:0; }
+  .cta-outline-green { background:transparent; border:2px solid var(--expat-primary); color:var(--expat-primary); }
+  .cta-outline-green:hover { background:var(--expat-primary); color:#fff; text-decoration:none; }
 
-  /* ── Responsive ─────────────────────────────────── */
-  @media (max-width: 1024px) {
-    .tool-grid { grid-template-columns: repeat(3, 1fr); }
-    .guide-grid { grid-template-columns: repeat(2, 1fr); }
-    .recommended-grid { grid-template-columns: repeat(2, 1fr); }
+  /* ── Responsive ───────────────────────────────── */
+  @media (max-width:1024px) {
+    .hub-grid { grid-template-columns:repeat(2,1fr); }
+    .recommended-grid { grid-template-columns:repeat(2,1fr); }
+    .events-grid { grid-template-columns:repeat(2,1fr); }
   }
-  @media (max-width: 768px) {
-    .hero h1 { font-size: 2.2rem; }
-    .hero { padding: 3.5rem 0 3rem; }
-    .hero-split { flex-direction: column; text-align: center; }
-    .hero-text > p { margin-left: auto; margin-right: auto; }
-    .hero-actions { justify-content: center; }
-    .hero-visual { width: 260px; }
-    .tool-grid { grid-template-columns: repeat(2, 1fr); }
-    .steps { flex-direction: column; align-items: stretch; }
-    .step-divider { display: none; }
-    .guide-grid { grid-template-columns: 1fr; }
-    .recommended-grid { grid-template-columns: 1fr; }
-    .trust-items { gap: 1.25rem; }
-    .section-header h2 { font-size: 1.6rem; }
-    .about-card { flex-direction: column; text-align: center; padding: 2rem 1.5rem; }
-    .about-stats { justify-content: center; }
-    .stats-grid { gap: 1.5rem; }
+  @media (max-width:768px) {
+    .hero h1 { font-size:2rem; }
+    .hero-quicklinks { gap:.45rem; }
+    .hero-qlink { font-size:.8rem; padding:.5rem .85rem; }
+    .dm-grid { grid-template-columns:1fr; }
+    .journey-grid { grid-template-columns:1fr; }
+    .hub-header { flex-direction:column; align-items:flex-start; }
+    .hub-grid { grid-template-columns:1fr; }
+    .recommended-grid { grid-template-columns:1fr; }
+    .events-grid { grid-template-columns:1fr; }
+    .section-header h2 { font-size:1.5rem; }
+    .about-card { flex-direction:column; text-align:center; padding:2rem 1.5rem; }
+    .about-stats { justify-content:center; }
   }
-  @media (max-width: 480px) {
-    .hero h1 { font-size: 1.8rem; }
-    .hero-actions { flex-direction: column; align-items: center; }
-    .hero-visual { display: none; }
-    .tool-grid { grid-template-columns: repeat(2, 1fr); }
-    .email-form { flex-direction: column; align-items: stretch; }
-    .email-input, .email-submit { width: 100%; }
+  @media (max-width:480px) {
+    .hero h1 { font-size:1.65rem; }
+    .hero-qlink { font-size:.78rem; padding:.45rem .75rem; }
+    .email-form { flex-direction:column; align-items:stretch; }
+    .email-input, .email-submit { width:100%; }
   }
 </style>
+
+<!-- Tab switching JS -->
+<script>
+(function(){
+  var tabs = document.querySelectorAll('.hub-tab');
+  var panels = document.querySelectorAll('.hub-panel');
+  if(!tabs.length) return;
+  tabs.forEach(function(tab){
+    tab.addEventListener('click', function(){
+      tabs.forEach(function(t){ t.classList.remove('active'); });
+      panels.forEach(function(p){ p.classList.remove('active'); });
+      tab.classList.add('active');
+      var panel = document.querySelector('[data-panel="'+tab.dataset.tab+'"]');
+      if(panel) panel.classList.add('active');
+    });
+  });
+})();
+</script>
 
 {{ end }}
