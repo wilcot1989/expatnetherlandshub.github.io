@@ -161,9 +161,8 @@
   <link href="https://fonts.googleapis.com/css2?family=Outfit:wght@500;700&family=Source+Serif+4:opsz,wght@8..60,400;8..60,600&display=swap" rel="stylesheet" media="print" onload="this.media='all'">
   <noscript><link href="https://fonts.googleapis.com/css2?family=Outfit:wght@500;700&family=Source+Serif+4:opsz,wght@8..60,400;8..60,600&display=swap" rel="stylesheet"></noscript>
 
-  <!-- External CSS — non-blocking load, cacheable -->
-  <link rel="preload" href="/css/style.css" as="style" onload="this.onload=null;this.rel='stylesheet'">
-  <noscript><link rel="stylesheet" href="/css/style.css"></noscript>
+  <!-- External CSS — cacheable after first load -->
+  <link rel="stylesheet" href="/css/style.css">
 
   <!-- Critical CSS — only above-the-fold styles inline -->
   <style>
