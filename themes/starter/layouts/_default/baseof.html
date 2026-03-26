@@ -161,9 +161,9 @@
   <link href="https://fonts.googleapis.com/css2?family=Outfit:wght@500;700&family=Source+Serif+4:opsz,wght@8..60,400;8..60,600&display=swap" rel="stylesheet" media="print" onload="this.media='all'">
   <noscript><link href="https://fonts.googleapis.com/css2?family=Outfit:wght@500;700&family=Source+Serif+4:opsz,wght@8..60,400;8..60,600&display=swap" rel="stylesheet"></noscript>
 
-  <!-- External CSS — cacheable after first load -->
-  <link rel="preload" href="/css/style.css" as="style">
-  <link rel="stylesheet" href="/css/style.css">
+  <!-- External CSS — non-blocking load, cacheable -->
+  <link rel="preload" href="/css/style.css" as="style" onload="this.onload=null;this.rel='stylesheet'">
+  <noscript><link rel="stylesheet" href="/css/style.css"></noscript>
 
   <!-- Critical CSS — only above-the-fold styles inline -->
   <style>
@@ -683,7 +683,20 @@
     });
   })();
   </script>
-  <script src="https://cdn.jsdelivr.net/npm/fuse.js@7.0.0/dist/fuse.min.js" defer></script>
+  <!-- Fuse.js loaded on-demand when search opens (saves 118KB) -->
+  <script>
+  (function(){
+    var t=document.getElementById('searchToggle');
+    if(!t)return;
+    var loaded=false;
+    t.addEventListener('click',function(){
+      if(loaded)return;loaded=true;
+      var s=document.createElement('script');
+      s.src='https://cdn.jsdelivr.net/npm/fuse.js@7.0.0/dist/fuse.min.js';
+      document.body.appendChild(s);
+    });
+  })();
+  </script>
 
   <!-- ── Exit-Intent Popup ── -->
   <script>
