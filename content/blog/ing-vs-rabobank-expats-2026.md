@@ -1,7 +1,7 @@
 ---
 title: "ING vs Rabobank for Expats 2026: Which Dutch Bank Is Better?"
-date: 2026-07-09T10:00:00+01:00
-lastmod: 2026-07-09T10:00:00+01:00
+date: 2026-03-26T10:00:00+01:00
+lastmod: 2026-03-26T10:00:00+01:00
 description: "ING vs Rabobank for expats: honest comparison of fees, apps, English support, mortgage services, and international transfers to help you choose."
 categories: ["finance"]
 tags: ["banking", "ING", "Rabobank", "Dutch bank", "expat banking"]

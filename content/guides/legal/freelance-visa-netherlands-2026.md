@@ -1,8 +1,8 @@
 ---
 title: "Freelance Visa Netherlands 2026: Options for Non-EU Entrepreneurs"
 slug: "freelance-visa-netherlands-2026"
-date: 2026-07-10T10:00:00+01:00
-lastmod: 2026-07-10T10:00:00+01:00
+date: 2026-03-26T10:00:00+01:00
+lastmod: 2026-03-26T10:00:00+01:00
 description: "How to get a freelance visa for the Netherlands in 2026. Requirements, DAFT treaty, application process, costs, and alternatives for non-EU freelancers."
 categories: ["legal"]
 tags: ["visa", "freelance", "self-employed", "DAFT", "entrepreneur visa"]

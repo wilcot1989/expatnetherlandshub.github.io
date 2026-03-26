@@ -1,7 +1,7 @@
 ---
 title: "Claiming Your Dutch Pension from Abroad: Step-by-Step Guide 2026"
-date: 2026-07-14T10:00:00+01:00
-lastmod: 2026-07-14T10:00:00+01:00
+date: 2026-03-26T10:00:00+01:00
+lastmod: 2026-03-26T10:00:00+01:00
 description: "How to claim your Dutch pension from abroad. AOW application, occupational pension, small pension refunds, tax treaties and receiving payments via Wise."
 categories: ["finance"]
 tags: ["pension", "AOW", "retirement abroad", "SVB", "pension transfer"]

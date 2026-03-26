@@ -1,7 +1,7 @@
 ---
 title: "How to Register as a Freelancer (ZZP) in the Netherlands 2026"
-date: 2026-07-04T10:00:00+01:00
-lastmod: 2026-07-04T10:00:00+01:00
+date: 2026-03-26T10:00:00+01:00
+lastmod: 2026-03-26T10:00:00+01:00
 description: "How to register as a freelancer (ZZP) in the Netherlands in 2026. KvK registration, tax setup, BSN requirements and costs explained step by step."
 categories: ["work"]
 tags: ["freelance", "ZZP", "KvK registration", "self-employed", "entrepreneur Netherlands"]

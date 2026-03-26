@@ -1,8 +1,8 @@
 ---
 title: "Expat Insurance Cost Netherlands 2026: Full Breakdown"
 description: "What does health insurance actually cost in the Netherlands? Monthly premiums, eigen risico, add-ons and total annual costs for expats in 2026."
-date: 2026-07-08
-lastmod: 2026-07-08
+date: 2026-03-26
+lastmod: 2026-03-26
 author: "Sarah van den Berg"
 authorBio: "Expat coach and writer at ExpatNetherlandsHub.com"
 featured_image: "/images/categories/health.svg"

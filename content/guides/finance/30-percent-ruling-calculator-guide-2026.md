@@ -1,7 +1,7 @@
 ---
 title: "30% Ruling Calculator Netherlands 2026: How Much You Save"
-date: 2026-07-03T08:00:00+02:00
-lastmod: 2026-07-03T08:00:00+02:00
+date: 2026-03-26T08:00:00+02:00
+lastmod: 2026-03-26T08:00:00+02:00
 description: "Calculate your 30% ruling benefit in 2026. Step-by-step guide to eligibility, application, salary thresholds and how much tax you actually save."
 categories: ["finance"]
 tags: ["30% ruling", "tax Netherlands", "expat tax", "salary calculator", "Dutch tax"]
