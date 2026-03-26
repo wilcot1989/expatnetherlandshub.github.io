@@ -23,6 +23,11 @@ faq:
     a: "You register online at dsw.nl. You will need your BSN (Burger Service Number), bank details for the direct debit, and your date of municipality registration. The process is in Dutch, but the form is relatively simple. Coverage starts from your registration date if you apply within four months of registering in the Netherlands."
   - q: "Can I use DSW insurance at any hospital in the Netherlands?"
     a: "With the restitutie (reimbursement) policy, you can use any hospital in the Netherlands, including non-contracted ones, and DSW reimburses you for the reasonable cost. With the natura (in-kind) policy, you get full coverage only at contracted hospitals. Contracted care is strongest in DSW's home region of south-west Netherlands. Check the DSW website or contact your preferred hospital before choosing a policy type."
+products:
+  - name: "SafetyWing"
+    url: "https://safetywing.com/?referenceID=26482728"
+    price: "0.00"
+    tag: "Expat Insurance"
 ---
 
 I have been reviewing Dutch health insurers for expats for several years now, and DSW is one that often gets overlooked in favour of the larger national brands. That is a shame, because for certain expats — particularly those living in or near Rotterdam — DSW can be genuinely excellent value.

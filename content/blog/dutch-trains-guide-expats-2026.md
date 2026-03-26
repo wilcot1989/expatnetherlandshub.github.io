@@ -23,6 +23,11 @@ faq:
     a: "Schiphol Airport has a direct NS train station below the arrivals hall (follow yellow NS signs or take the escalators/lift down from arrivals). Trains run to Amsterdam Centraal every 10–15 minutes, with the journey taking approximately 17 minutes. A single ticket costs around EUR 5.30 (2026 fare). You can buy at NS ticket machines (cash and card), use the NS app, or check in with a contactless card or OV-chipkaart. Direct trains also run from Schiphol to Rotterdam, Utrecht, The Hague, Eindhoven, and other major cities without needing to change at Amsterdam Centraal — useful for expats arriving for the first time heading to cities other than Amsterdam."
   - q: "What is the difference between Intercity Direct, Intercity, and Sprinter trains?"
     a: "NS operates three main service types. Intercity Direct (IC Direct) is the fastest service, running between major cities with few or no intermediate stops — Amsterdam to Rotterdam takes about 40 minutes. A supplement (toeslag) of around EUR 2.80 per journey is charged for Intercity Direct on the Amsterdam–Rotterdam route via the high-speed HSL track; you must either have a valid toeslag or use a subscription that includes it. Intercity (IC) trains stop at main stations between cities — Amsterdam to Rotterdam Intercity takes about 65 minutes but avoids the supplement. Sprinter trains are regional, stopping at every station along a line. They are cheaper and slower, appropriate for shorter local journeys."
+products:
+  - name: "Wise"
+    url: "https://wise.com/invite/ihpc/willemt52"
+    price: "0.00"
+    tag: "Currency Transfer"
 ---
 
 I use Dutch trains almost every day. They are genuinely one of the better parts of living in the Netherlands — frequent, fast between major cities, and covering the entire country. The Netherlands is compact enough that the furthest major city (Groningen from Amsterdam) is 2 hours by direct train.

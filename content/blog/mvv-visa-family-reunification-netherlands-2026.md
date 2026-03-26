@@ -20,6 +20,15 @@ faq:
     a: "The IND has a target of processing applications within 90 days of receiving a complete application. In practice, timelines vary. Complex cases or missing documentation can significantly extend the process. Processing times are updated on the IND website."
   - q: "Do EU citizens need an MVV to join family in the Netherlands?"
     a: "No. EU/EEA and Swiss citizens do not need an MVV. They can enter the Netherlands and register at the municipality. Family members of EU citizens may also be exempt from the MVV requirement depending on their own nationality and whether they qualify under EU free movement rules."
+products:
+  - name: "Wise"
+    url: "https://wise.com/invite/ihpc/willemt52"
+    price: "0.00"
+    tag: "Currency Transfer"
+  - name: "SafetyWing"
+    url: "https://safetywing.com/?referenceID=26482728"
+    price: "0.00"
+    tag: "Expat Insurance"
 ---
 
 Family reunification — bringing your partner, spouse, or children to join you in the Netherlands — is one of the most emotionally important immigration processes you'll go through. It's also one of the more bureaucratically involved.

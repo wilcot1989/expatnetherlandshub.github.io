@@ -23,6 +23,11 @@ faq:
     a: "Waste collection in the Netherlands is highly municipal — the specifics differ significantly by city and even neighbourhood. The standard categories are: grey/black container (restafval — residual waste), orange bag or orange container (PMD: plastic, metal, and drink cartons), blue container or bag (papier/karton: paper and cardboard), and green container (GFT: organic and garden waste). Some municipalities use underground containers (ondergrondse containers) in apartment areas rather than individual bins. Glass is not collected from the door in most areas — you take it to a glass container (glasbak) in the street. Check your municipality's afvalkalender (waste calendar) for collection days. The Mijn Afvalwijzer app covers most municipalities."
   - q: "How do I switch energy suppliers in the Netherlands?"
     a: "Switching is easy. You sign up with your new supplier online; they contact your grid operator and handle the administrative transfer. Your current supplier must be given notice (opzegtermijn), usually 30 days for month-to-month contracts or as specified in your contract. Fixed-rate contracts have a specific end date; switching before that end date may incur a cancellation fee (boete). Compare suppliers via Independer, Energievergelijk, or Gaslicht.com. When switching, have your current energy usage data (annual kWh and m³ from your last bill) and EAN codes (the unique codes identifying your electricity and gas connection points, found on your energy bill) ready."
+products:
+  - name: "Wise"
+    url: "https://wise.com/invite/ihpc/willemt52"
+    price: "0.00"
+    tag: "Currency Transfer"
 ---
 
 The first utility bill I received in the Netherlands made no sense to me. It had three different organisations listed on it, a column of acronyms (ODE, SDE+, VFT), and an amount that I could not reconcile with anything I understood about how much gas and electricity I was using. I eventually asked a Dutch colleague to explain it over lunch.

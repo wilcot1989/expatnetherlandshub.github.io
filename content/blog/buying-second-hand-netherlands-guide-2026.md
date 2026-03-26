@@ -23,6 +23,11 @@ faq:
     a: "Yes. Vinted is very active in the Netherlands for clothing, shoes, and accessories. Unlike Marktplaats, Vinted handles payment and shipping entirely through the platform: buyers pay by card or PayPal, Vinted holds the payment, and releases it to the seller once the buyer confirms receipt. This makes Vinted significantly safer than Marktplaats for online purchases. The buyer protection (Vinted protection) covers items that do not arrive or do not match the description. Items are typically shipped via PostNL, DHL, or DPD to a parcel locker or home address."
   - q: "What about 2dehands — is it different from Marktplaats?"
     a: "2dehands.be is a Belgian classifieds platform (owned by the same company as Marktplaats). It is primarily used in Belgium and the Dutch-speaking Flanders region, but many listings ship to the Netherlands and some Dutch sellers list on both platforms. If you cannot find a specific item on Marktplaats, checking 2dehands is worth a try, especially for niche items. The interface is identical to Marktplaats."
+products:
+  - name: "Wise"
+    url: "https://wise.com/invite/ihpc/willemt52"
+    price: "0.00"
+    tag: "Currency Transfer"
 ---
 
 I furnished my first Dutch apartment almost entirely second-hand. It was not out of necessity — I could have bought new — but because the quality of second-hand goods in the Netherlands is genuinely impressive, and the prices are a fraction of IKEA. My dining table came from Marktplaats for €40. My bike came from a neighbour's Facebook post for €90. My kitchen equipment came from a kringloopwinkel on a Saturday morning. Ten years on, I still use most of it.

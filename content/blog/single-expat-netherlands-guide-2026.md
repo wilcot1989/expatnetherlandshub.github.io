@@ -23,6 +23,15 @@ faq:
     a: "Yes, significantly. Housing is the biggest cost. In Amsterdam, a single person in a studio pays €1,200–1,700 per month for rent alone. A couple sharing a two-bedroom pays perhaps €1,800–2,400 — so approximately €900–1,200 each, saving 30–40% on the biggest cost. Utilities and internet are fixed costs that do not scale down significantly for solo living. Groceries and eating out, on the other hand, are not dramatically more expensive for one person than for two. As a single expat, maximising income through the 30% ruling (if eligible) and minimising housing costs through strategic neighbourhood choices (Rotterdam and Eindhoven are significantly cheaper than Amsterdam) helps considerably."
   - q: "Where can I find mental health support as an expat in the Netherlands?"
     a: "The Dutch healthcare system covers basic mental health support through your GP (huisarts). Your GP can refer you to a psychologist or mental health practice (GGZ) covered by basic insurance (basisverzekering), though waiting lists can be long. Private psychologists and therapists offering English-language sessions are available in all major cities — expect to pay €80–150 per session privately. Online therapy platforms such as OpenUp (used by many international companies) and Better Help are also used by expats. Expat-specific support groups exist through some international churches and community organisations. The Mind (themindinstitute.com) offers English-language therapy in Amsterdam."
+products:
+  - name: "Wise"
+    url: "https://wise.com/invite/ihpc/willemt52"
+    price: "0.00"
+    tag: "Currency Transfer"
+  - name: "SafetyWing"
+    url: "https://safetywing.com/?referenceID=26482728"
+    price: "0.00"
+    tag: "Expat Insurance"
 ---
 
 I moved to the Netherlands alone, with no existing friends here and no partner. I was in my early thirties, had just taken a new job, and knew exactly one person in Amsterdam — a former colleague I had met twice at a conference.

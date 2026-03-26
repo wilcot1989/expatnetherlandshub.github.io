@@ -23,6 +23,15 @@ faq:
     a: "The Netherlands Kennismigrant permit is employer-sponsored, processes in 2–4 weeks, and gives you full freedom of movement within the Schengen area. China's work visa system (typically a Z-visa leading to a Residence Permit for Work) also requires employer sponsorship and has become more structured since the Foreign Talent Visa category introduced in recent years. Processing times and required documentation can be extensive in China. Renewal processes, visa runs, and documentation requirements in China are generally more administratively demanding than in the Netherlands. Both require employer sponsorship, but the Dutch system is faster and the resulting residency is more predictable to manage."
   - q: "Do I need a VPN in China and which ones work?"
     a: "Most expats living or working in China use a VPN to access blocked services. The challenge is that China actively blocks VPN traffic, and not all VPNs work consistently. VPNs with obfuscation technology — which disguises VPN traffic as regular HTTPS traffic — are generally more reliable in China than standard VPN protocols. NordVPN includes obfuscated servers and is used by many expats in China as part of their toolkit. Download and configure your VPN before arriving in China — once you are inside the country, downloading VPN software itself can be difficult because many VPN provider websites are also blocked."
+products:
+  - name: "Wise"
+    url: "https://wise.com/invite/ihpc/willemt52"
+    price: "0.00"
+    tag: "Currency Transfer"
+  - name: "SafetyWing"
+    url: "https://safetywing.com/?referenceID=26482728"
+    price: "0.00"
+    tag: "Expat Insurance"
 ---
 
 Comparing the Netherlands and China as expat destinations is not a simple ranking exercise. These are profoundly different environments that suit profoundly different people and situations. I have met expats who thrived in Shanghai for a decade and found moving back to Europe a genuine loss. I have also met people who lasted six months in Beijing and left with lasting respect for internet access and grey Dutch skies.

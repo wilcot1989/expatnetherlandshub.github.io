@@ -20,6 +20,11 @@ faq:
     a: "Dutch mortgage rules limit borrowing to a multiple of your annual gross income (the loan-to-income ratio). In 2026, most borrowers can borrow up to approximately 4.5x gross annual income for a single income, or up to 5x for couples depending on their combined income. Energy-efficient homes may allow slightly higher multiples."
   - q: "Do I need a permanent contract to get a Dutch mortgage?"
     a: "A permanent contract (vaste contract) makes the mortgage application significantly easier. Temporary contracts are possible — some lenders accept them with an employer's statement of intent to continue. Self-employed income requires at least 3 years of accounts. Expats on temporary permits may face additional scrutiny depending on the lender."
+products:
+  - name: "Wise"
+    url: "https://wise.com/invite/ihpc/willemt52"
+    price: "0.00"
+    tag: "Currency Transfer"
 ---
 
 Buying a property in the Netherlands as an expat involves layers of complexity that don't apply in every country. The Dutch mortgage market is heavily regulated, the documentation requirements are significant, and there are specific considerations for non-Dutch income, foreign employment contracts, and temporary residency permits.

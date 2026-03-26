@@ -23,6 +23,11 @@ faq:
     a: "VGZ offers a tiered supplementary insurance system branded as Aanvullend 1, 2, 3, and 4 (plus a dental-only Tand supplement). Aanvullend 1 (around EUR 8–12/month) covers basic dental check-ups and limited physiotherapy. Aanvullend 3 and 4 (EUR 28–42/month) include dental treatment up to EUR 1,500–2,500/year, extensive physiotherapy, glasses EUR 150–250/year, travel vaccinations, and some alternative medicine. The dental-only Tand supplement (EUR 12–22/month) focuses entirely on dental coverage. For expats who need full dental or physiotherapy coverage, the higher supplement tiers are competitive in value compared to CZ and Zilveren Kruis."
   - q: "How does VGZ handle employer collective insurance schemes?"
     a: "VGZ is one of the most common collective insurance scheme partners for Dutch employers, alongside Zilveren Kruis and CZ. If your employer has a VGZ collective scheme, you may receive a discount of 5–15% on your VGZ premium — sometimes including supplementary insurance discounts too. This is offered as part of your employment benefits. To check: ask your HR department whether your company has a collective VGZ scheme and what the discounted premium would be. Then compare this discounted price to the current best individual policy price on Independer. If the collective scheme is still competitive after comparison, take it. If a competitor's individual policy is cheaper even without a collective discount, the collective scheme may not represent the best value."
+products:
+  - name: "SafetyWing"
+    url: "https://safetywing.com/?referenceID=26482728"
+    price: "0.00"
+    tag: "Expat Insurance"
 ---
 
 VGZ is one of those Dutch insurers that most expats end up considering at some point — either because a colleague mentions it, because their employer has a collective scheme with them, or because they show up prominently in price comparison results.

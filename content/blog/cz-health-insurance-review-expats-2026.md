@@ -23,6 +23,11 @@ faq:
     a: "Under CZ's restitutie policy, medically necessary care received abroad is generally reimbursed up to Dutch market rates. Coverage for care outside the EU is more limited under the basic policy. If you travel frequently, consider adding a reisverzekering (travel insurance) or ensuring your supplementary package includes adequate abroad coverage. CZ's higher supplementary tiers often include better abroad coverage."
   - q: "Can I switch to CZ mid-year?"
     a: "You can only switch your basic health insurer during the annual open enrollment period, which runs from mid-November to 31 December. The new policy takes effect on 1 January. If you are new to the Netherlands and registering for the first time, you can take out CZ at any point in the year — your coverage starts from your municipality registration date."
+products:
+  - name: "SafetyWing"
+    url: "https://safetywing.com/?referenceID=26482728"
+    price: "0.00"
+    tag: "Expat Insurance"
 ---
 
 When I advise expats on choosing Dutch health insurance, CZ comes up frequently. It sits in an interesting position: large enough to have a national contracted care network, but still more personalised in customer service than the very biggest players like VGZ. For expats who want a reliable, nationally available insurer without necessarily paying the top premium, CZ deserves a thorough look.

@@ -23,6 +23,11 @@ faq:
     a: "DEGIRO offers a free trades list (previously called kernassortiment or core selection), which allows one free trade per ETF per day in a curated list of ETFs. This typically includes major index ETFs such as iShares Core MSCI World, Vanguard FTSE All-World (VWRL), and iShares Core S&P 500. The list changes periodically. Subsequent trades in the same ETF on the same day cost a small fee (around €1). Non-free-list ETFs cost a standard commission of €2 + 0.02% of the transaction value."
   - q: "Can American expats use Dutch ETF platforms?"
     a: "American expats face serious restrictions. Most non-US ETFs (including European UCITS ETFs traded on DEGIRO, Trading 212, or ABN AMRO) are classified as Passive Foreign Investment Companies (PFICs) under US tax law. Investing in PFICs triggers punitive US tax treatment. Interactive Brokers is the primary platform that accepts US persons in the Netherlands and provides access to US-listed ETFs (such as those on NYSE Arca), which are not subject to PFIC rules. US expats should consult a dual-qualified US-Dutch tax advisor before investing anything."
+products:
+  - name: "Wise"
+    url: "https://wise.com/invite/ihpc/willemt52"
+    price: "0.00"
+    tag: "Currency Transfer"
 ---
 
 When I first arrived in the Netherlands, I spent several weeks trying to work out where to invest. Back home in the UK, I had an ISA with a low-cost tracker fund and never thought about it. In the Netherlands, I had to research platforms that accepted Dutch residents, understand Box 3 wealth tax, and work out whether my existing ISA was still the right vehicle. It took longer than it should have.

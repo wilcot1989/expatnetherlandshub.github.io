@@ -23,6 +23,11 @@ faq:
     a: "This is the most important tax distinction for passive income. Box 1 covers income from active work — employment, freelancing, rental income from properties you actively manage, and certain other recurring income streams. Box 3 covers returns on your savings and investments — it is a wealth tax, not an income tax. Dividend income and capital gains from shares and ETFs fall into Box 3 (taxed via the deemed return system on your portfolio value on 1 January). Rental income from property is usually Box 1 if you actively manage the property, or Box 3 if the property is a passive investment. The key distinction: Box 3 may be more tax-efficient for truly passive returns (you pay 36% on a deemed 5.88% return rather than up to 49.5% on actual income), while Box 1 is unavoidable for active income streams."
   - q: "Can I rent out a room in my Dutch home for income?"
     a: "Yes. Renting out a room in your primary residence (where you also live) qualifies for the kamerverhuurvrijstelling — a rental income exemption. If the rental income is below EUR 5,998 per year (2026 approximate; check the Belastingdienst for the current threshold), it is fully exempt from tax and does not need to be declared. Above that threshold, the excess is taxable. This applies to room rental, not to renting your entire home while you are away (which is subject to different rules and often prohibited by your rental contract or mortgage terms). Platforms like Airbnb publish Dutch tax guides on their websites that are worth reading if you plan to use them."
+products:
+  - name: "Wise"
+    url: "https://wise.com/invite/ihpc/willemt52"
+    price: "0.00"
+    tag: "Currency Transfer"
 ---
 
 I started my first side hustle in the Netherlands without really understanding what I was doing from a tax perspective. I was doing some freelance writing on the side of my main job, getting paid into my regular bank account, and telling myself I would "sort out the tax side later." A Dutch accountant friend eventually sat me down and explained, very patiently, that I was operating a commercial activity without being registered with the KvK, which was not a good position to be in.

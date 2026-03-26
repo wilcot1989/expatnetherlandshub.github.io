@@ -23,6 +23,11 @@ faq:
     a: "Yes, in most cases. EU/EEA driving licences are fully recognised in the Netherlands with no exchange required. Non-EU licences from countries with exchange agreements (including the UK post-Brexit, US, Canada, Australia, Japan, and others) can generally be exchanged for a Dutch licence. During the exchange process and for a period on a foreign licence, most Dutch insurers will accept your foreign licence, though some may apply a surcharge or limit no-claims recognition. Read my [driving licence exchange guide](/guides/daily-life/exchange-driving-license-netherlands-2026/) for the full process."
   - q: "How does the Dutch no-claims ladder (schadevrije jaren) work?"
     a: "The schadevrije jaren system gives you a discount on your premium for each claim-free year. After one claim-free year you are placed at step 1; after five years at step 5, and so on, up to around step 14–15 with most insurers, where the maximum discount (typically 60–75% off the base premium) applies. Each time you make a fault claim, you are moved back several steps and your premium increases. When switching insurers, your schadevrije jaren follow you via a central database (Roy-Data) that all Dutch insurers query. Foreign years are added to your starting step when your foreign history is accepted."
+products:
+  - name: "SafetyWing"
+    url: "https://safetywing.com/?referenceID=26482728"
+    price: "0.00"
+    tag: "Expat Insurance"
 ---
 
 When I arrived in the Netherlands and bought my first car here, I spent about two hours on an insurance comparison website trying to figure out what WA, WA+, and allrisk actually meant, why my UK no-claims history was being treated with mild suspicion, and whether the price I was looking at was reasonable or completely excessive.

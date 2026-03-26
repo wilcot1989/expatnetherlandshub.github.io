@@ -23,6 +23,11 @@ faq:
     a: "A aanvullende verzekering is a supplementary insurance policy that covers things not included in the basic package. Common additions include dental care, glasses, physiotherapy beyond the statutory limit, alternative medicine, and travel/repatriation coverage. Whether you need one depends on your situation. If you wear glasses, need regular dental work, or want dental cover for yourself or your children, a supplement is usually worth it. Children's dental care is covered by the basic package up to age 18, so parents do not always need supplementary dental cover for their kids. Compare using Independer to see current supplement pricing."
   - q: "When can I switch Dutch health insurer?"
     a: "You can switch health insurer once per year during the open enrolment period, which runs from 1 November to 31 December. Your new insurance starts on 1 January. Outside this window, you can only switch if you change jobs and your collective insurance scheme changes, or in a few other specific circumstances. It is worth comparing annually — premiums change every year, and the insurer that was cheapest in 2024 may not be the best value in 2026."
+products:
+  - name: "SafetyWing"
+    url: "https://safetywing.com/?referenceID=26482728"
+    price: "0.00"
+    tag: "Expat Insurance"
 ---
 
 When I first arrived in the Netherlands, I was handed a list of Dutch health insurers and told to pick one within four months. Nobody explained what the difference was between them, what eigen risico meant, or what supplementary cover was actually worth buying.

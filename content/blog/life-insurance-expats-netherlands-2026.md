@@ -20,6 +20,11 @@ faq:
     a: "Premiums depend on age, health, coverage amount, and policy term. A healthy 35-year-old can typically get €200,000 in coverage for 20 years for around €15–€30 per month. Smokers and those with pre-existing conditions pay higher premiums."
   - q: "What happens to my Dutch life insurance policy if I leave the Netherlands?"
     a: "This depends on the policy terms. Many Dutch policies allow you to maintain coverage if you move to another country, but you should check your insurer's terms carefully. Some policies become void if you no longer reside in the Netherlands. Notify your insurer before relocating."
+products:
+  - name: "SafetyWing"
+    url: "https://safetywing.com/?referenceID=26482728"
+    price: "0.00"
+    tag: "Expat Insurance"
 ---
 
 When I first arrived in the Netherlands, life insurance was not on my list of priorities. I was focused on getting my BSN, finding a GP, and working out the public transport system. It was only when I started looking at buying a flat that the topic came up — and I realised I'd been ignoring something that many expats need to think about earlier than they do.

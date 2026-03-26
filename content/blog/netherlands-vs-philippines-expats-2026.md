@@ -20,6 +20,15 @@ faq:
     a: "Yes to both. The Philippines has English as an official language and proficiency is very high — most Filipinos communicate easily in English. The Dutch also speak English at a very high level, ranking consistently at the top globally for non-native English proficiency."
   - q: "What is the retirement visa situation in the Philippines for Dutch expats?"
     a: "The Philippines Special Resident Retiree's Visa (SRRV) allows foreigners to retire there with relatively few requirements. Dutch citizens can apply, and the visa is relatively affordable and accessible compared to many Asian retirement visa programmes."
+products:
+  - name: "Wise"
+    url: "https://wise.com/invite/ihpc/willemt52"
+    price: "0.00"
+    tag: "Currency Transfer"
+  - name: "SafetyWing"
+    url: "https://safetywing.com/?referenceID=26482728"
+    price: "0.00"
+    tag: "Expat Insurance"
 ---
 
 I've spent time talking with both Filipino expats who moved to the Netherlands and Dutch retirees or remote workers who've made the Philippines their base. The experiences are quite different, and the reasons people move in each direction tell you a lot about what each country offers.

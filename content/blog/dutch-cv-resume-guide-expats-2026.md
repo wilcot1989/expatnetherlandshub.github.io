@@ -23,6 +23,11 @@ faq:
     a: "You do not need to include date of birth, nationality, or marital status on a Dutch CV. Dutch anti-discrimination law (WGBH/CZ) prohibits using these characteristics in hiring decisions, and responsible employers do not want to be seen collecting this information unnecessarily. Some older Dutch CV templates still include date of birth — this is an outdated convention. Include your full name, current city (not full address), phone number, professional email address, and LinkedIn profile URL. That is sufficient."
   - q: "How should I explain a gap in my CV when applying for Dutch jobs?"
     a: "Be brief and honest. Dutch culture values direct, factual communication — a short explanation is better than omission (which invites speculation) or an elaborate justification (which sounds defensive). For a gap due to caring responsibilities, job searching, health, travel, or relocation: a one-line note in your work history such as 'Career break: family relocation and settling in the Netherlands (2023–2024)' is perfectly acceptable. Dutch employers are generally understanding of relocation periods. Gaps due to mental health, burnout (overspanning or burn-out is well understood and destigmatised in the Netherlands), or other personal reasons can be addressed briefly and honestly. You do not owe a detailed explanation on the CV itself; save the fuller context for the interview if relevant."
+products:
+  - name: "Wise"
+    url: "https://wise.com/invite/ihpc/willemt52"
+    price: "0.00"
+    tag: "Currency Transfer"
 ---
 
 When I moved to the Netherlands and started applying for jobs, my CV was good. I had spent years in the UK market, I knew how to write a strong application, and I had been told by multiple UK recruiters that my CV worked well.

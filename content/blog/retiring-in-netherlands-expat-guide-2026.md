@@ -23,6 +23,15 @@ faq:
     a: "All Dutch residents must have Dutch health insurance, regardless of age or origin. In retirement, you pay the same standard monthly premium as everyone else (approximately €130–160/month for basic insurance in 2026), plus a government-set deductible (eigen risico) of approximately €385 per year. Retirees who are on lower incomes may qualify for zorgtoeslag (healthcare allowance). Unlike the UK NHS or some other systems, the Dutch system is insurance-based: you choose a private insurer from about a dozen options. The basic package is identical regardless of insurer; insurers compete on supplementary coverage and price. For retirees who need regular specialist care, GP visits, physiotherapy, and prescriptions, Dutch health insurance covers most needs effectively. Dental care for adults is not in the basic package and must be covered via supplementary insurance."
   - q: "How does the Box 3 wealth tax affect expat retirees?"
     a: "Box 3 applies to all Dutch residents' worldwide savings and investments above approximately €57,000 (single) or €114,000 (couple/fiscal partners). For retirees with significant savings or investment portfolios, Box 3 is an important ongoing cost. The deemed return for 2026 on investments is approximately 5.88%, taxed at 36%. On a €300,000 portfolio (€243,000 above the threshold), this produces approximately €5,150 of annual Box 3 tax. Retirees who plan their assets carefully — potentially through an annuity or lijfrente that reduces Box 3 exposure — can reduce this liability. A Dutch tax advisor can model your specific situation."
+products:
+  - name: "Wise"
+    url: "https://wise.com/invite/ihpc/willemt52"
+    price: "0.00"
+    tag: "Currency Transfer"
+  - name: "SafetyWing"
+    url: "https://safetywing.com/?referenceID=26482728"
+    price: "0.00"
+    tag: "Expat Insurance"
 ---
 
 Most of the expats I work with are in their thirties or forties — mid-career, planning ahead. But I have worked with an increasing number of people who are either retiring in the Netherlands having lived here for years, or who are considering the Netherlands as a retirement destination after careers that took them elsewhere.

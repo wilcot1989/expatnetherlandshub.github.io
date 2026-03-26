@@ -23,6 +23,11 @@ faq:
     a: "Apply via the UWV website (uwv.nl) as soon as you become unemployed — ideally on the first day of unemployment. You need a DigiD to access the UWV portal. The process involves submitting your employment history, reason for unemployment, and banking details. UWV will verify your eligibility and contact you if they need more information. First payment typically arrives within 4-6 weeks of a successful application. Register as a job seeker at werk.nl simultaneously."
   - q: "Does receiving WW affect my residence permit?"
     a: "This depends on your residence permit type. EU/EEA citizens do not need a separate residence permit and WW entitlement is not affected by benefit receipt. For non-EU citizens, the situation is more complex. Most work permits (kennismigrant/highly skilled migrant permits) require you to be employed — if you lose your job, you typically have a period of 3 months (or longer for highly skilled migrants) to find new employment before your permit status may be affected. Contact IND (Immigratie en Naturalisatiedienst) and your immigration lawyer promptly if you lose your job on a work-based permit."
+products:
+  - name: "Wise"
+    url: "https://wise.com/invite/ihpc/willemt52"
+    price: "0.00"
+    tag: "Currency Transfer"
 ---
 
 Losing a job is stressful in any country, but doing it in a foreign country with an unfamiliar social security system adds a layer of anxiety. I have helped numerous expats through this process, and the Dutch WW (Werkloosheidswet) system is actually one of the better unemployment insurance systems in the world — if you know how to use it.

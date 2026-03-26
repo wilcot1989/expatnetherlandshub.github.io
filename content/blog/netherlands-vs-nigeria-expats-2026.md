@@ -20,6 +20,15 @@ faq:
     a: "Nigeria has a tropical climate with high temperatures year-round — Lagos averages 28–32°C. The Netherlands is cool and rainy, averaging 3–8°C in winter and 17–22°C in summer. This is one of the biggest adjustments Nigerian expats typically mention."
   - q: "Can I send money between the Netherlands and Nigeria easily?"
     a: "Yes. Transfer services such as Wise offer competitive exchange rates between euros and Nigerian naira. Bank transfers are also available but typically carry higher fees. Always compare rates before sending large amounts."
+products:
+  - name: "Wise"
+    url: "https://wise.com/invite/ihpc/willemt52"
+    price: "0.00"
+    tag: "Currency Transfer"
+  - name: "SafetyWing"
+    url: "https://safetywing.com/?referenceID=26482728"
+    price: "0.00"
+    tag: "Expat Insurance"
 ---
 
 I've spoken to dozens of Nigerian expats living in the Netherlands, and the conversations always cover the same ground: the cold, the culture shock, the bureaucracy, the opportunities, and the nostalgia. Moving from Nigeria to the Netherlands — or comparing the two as potential destinations — involves genuine trade-offs that aren't always obvious from the outside.

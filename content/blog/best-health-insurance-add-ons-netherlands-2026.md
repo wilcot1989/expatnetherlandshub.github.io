@@ -20,6 +20,11 @@ faq:
     a: "Aanvullende verzekering means supplementary or additional insurance. It is optional insurance that you take alongside your mandatory basic health insurance (basisverzekering) to cover things not included in the basic package — most commonly dental care, physiotherapy, glasses, and mental health sessions."
   - q: "Can I change my health insurance add-ons during the year?"
     a: "No. In the Netherlands, health insurance (both basic and supplementary) can only be changed between 1 November and 31 December each year, with changes taking effect on 1 January the following year. The one exception is if you move to a new address or have a major life change that triggers a mid-year switch right."
+products:
+  - name: "SafetyWing"
+    url: "https://safetywing.com/?referenceID=26482728"
+    price: "0.00"
+    tag: "Expat Insurance"
 ---
 
 When I first got my Dutch health insurance, I ticked the basic package and assumed I was done. It took a cracked molar and a €580 dental bill to make me rethink.

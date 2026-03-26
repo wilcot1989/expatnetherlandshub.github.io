@@ -23,6 +23,11 @@ faq:
     a: "Yes. Dutch tax residents must declare all worldwide assets in Box 3, regardless of where they are held. A Bitcoin wallet on Coinbase US, holdings on Kraken in the UK, or self-custody in a hardware wallet — all of these are subject to Dutch Box 3 reporting if you are a Dutch tax resident. The location of the exchange or wallet does not change your Dutch tax obligation."
   - q: "What is DAC8 and how does it affect crypto holders in the Netherlands?"
     a: "DAC8 is a European Union directive that requires crypto asset service providers (exchanges, brokers, wallet providers) operating in the EU to report user information — including account balances and transactions — to tax authorities in EU member states. From 2026, this means the Belastingdienst can automatically receive data from exchanges like Coinbase, Kraken, and others about Dutch residents' holdings. This significantly reduces the ability to hold undeclared crypto without detection. Non-EU exchanges are not covered by DAC8, but the Belastingdienst can request information through other international tax cooperation channels."
+products:
+  - name: "Wise"
+    url: "https://wise.com/invite/ihpc/willemt52"
+    price: "0.00"
+    tag: "Currency Transfer"
 ---
 
 I get a version of this question at least once a week: "I have some crypto — do I need to declare it in the Netherlands?"

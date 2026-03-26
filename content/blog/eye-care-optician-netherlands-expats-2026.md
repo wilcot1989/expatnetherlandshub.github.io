@@ -23,6 +23,11 @@ faq:
     a: "An opticien (optician) measures your vision and prescribes and fits glasses and contact lenses. They are not medically qualified and cannot diagnose or treat eye disease. An oogarts (ophthalmologist) is a medical specialist who diagnoses and treats eye diseases and conditions. You see an opticien for routine vision correction; you see an oogarts for medical problems. There is also an optometrist (optometrist) — some practices employ these, who can perform more detailed health checks than a standard opticien but are not full medical specialists."
   - q: "Can I bring my existing glasses prescription from another country?"
     a: "Yes. If you have a valid glasses prescription from another country, Dutch opticians will generally use it to make new glasses or fit contact lenses. However, most Dutch opticians will do a quick check to verify the prescription is current (typically valid for 1-2 years) before making expensive eyewear. If your prescription is more than two years old, they may recommend a new eye test."
+products:
+  - name: "SafetyWing"
+    url: "https://safetywing.com/?referenceID=26482728"
+    price: "0.00"
+    tag: "Expat Insurance"
 ---
 
 Sorting out eye care was one of the first practical things I had to do when I moved to the Netherlands. My glasses prescription was expiring, I had no idea which optician chains were reliable, and I was unsure what my new Dutch insurance would cover. It turned out to be much simpler than I expected — but the coverage situation for glasses is surprisingly different from what many expats assume.

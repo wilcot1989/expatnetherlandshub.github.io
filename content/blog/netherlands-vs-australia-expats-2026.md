@@ -23,6 +23,15 @@ faq:
     a: "Both are genuinely excellent. The Netherlands offers excellent free state education, extensive cycling infrastructure that makes independent mobility practical even for children, good maternity and paternity leave, a relatively affordable childcare system (with government subsidy — kinderopvangtoeslag), and a safe, compact environment. Australia offers more outdoor space, a more relaxed lifestyle, and strong schooling. School in Australia is in English, which some expat families find easier. In the Netherlands, international schooling is available but expensive (EUR 15,000–25,000/year), while Dutch state schools are excellent but Dutch-language. The choice often comes down to language preference and lifestyle."
   - q: "Can I easily move money between the Netherlands and Australia?"
     a: "Yes, but international bank transfers between EUR and AUD have wide margins at traditional banks. Using Wise for EUR–AUD transfers gives you the real mid-market exchange rate with a small transparent fee, saving significantly compared to bank rates — typically 3–5% cheaper than a major bank. If you are maintaining finances in both countries, Wise's multi-currency account lets you hold, convert, and send between EUR and AUD without needing a separate Australian bank account."
+products:
+  - name: "Wise"
+    url: "https://wise.com/invite/ihpc/willemt52"
+    price: "0.00"
+    tag: "Currency Transfer"
+  - name: "SafetyWing"
+    url: "https://safetywing.com/?referenceID=26482728"
+    price: "0.00"
+    tag: "Expat Insurance"
 ---
 
 I have had this conversation with dozens of expats: "Should I go to the Netherlands or Australia?" Both are genuinely excellent destinations. Both offer English-working environments, high quality of life, and strong professional opportunities. But they are profoundly different in ways that matter a lot once you actually live there.

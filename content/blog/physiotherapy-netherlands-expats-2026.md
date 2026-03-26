@@ -23,6 +23,11 @@ faq:
     a: "Dutch physiotherapists treat a wide range of conditions including back and neck pain, sports injuries, post-operative rehabilitation, joint problems, headaches, repetitive strain injuries, balance issues, and breathing problems. Many also specialise in pelvic floor physiotherapy (bekkenbodemfysiotherapie), which is commonly referred to during and after pregnancy. Neurological rehabilitation and oncological physiotherapy are handled by specialist centres."
   - q: "What is the difference between a fysiotherapeut and a manueel therapeut?"
     a: "A fysiotherapeut (physiotherapist) is a general physical therapy practitioner. A manueel therapeut (manual therapist) has completed additional post-graduate training in manipulative therapy of the spine and joints. Manual therapists are often sought for chronic neck and back problems where spinal manipulation is indicated. Both are registered under the BIG register in the Netherlands. Manual therapy sessions are covered by some supplementary insurance packages but not all — check your policy before booking."
+products:
+  - name: "SafetyWing"
+    url: "https://safetywing.com/?referenceID=26482728"
+    price: "0.00"
+    tag: "Expat Insurance"
 ---
 
 My first sports injury in the Netherlands left me confused. Back home, I would have been referred by my GP and then waited weeks. Here I walked into a physiotherapy practice the same afternoon without a referral and was seen within the hour. That direct access system was a revelation — and understanding it properly can save you time, money, and unnecessary pain.

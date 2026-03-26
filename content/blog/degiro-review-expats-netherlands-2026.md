@@ -23,6 +23,11 @@ faq:
     a: "DeGiro does not accept US persons — meaning Americans living in the Netherlands (or holding US citizenship) cannot open an account. This is due to FATCA compliance complexity. American expats in the Netherlands should look at Interactive Brokers, which is one of the few platforms that accepts US persons and is available in the Netherlands. The investing world for Americans abroad is genuinely restrictive, and most European ETFs trigger punitive PFIC tax rules under US law regardless of the platform."
   - q: "How does DeGiro compare to Trading 212 for expats?"
     a: "Trading 212 offers commission-free trading and a small interest rate on uninvested cash (around 3-4% in 2026, variable). DeGiro is not commission-free but is extremely cheap, and its platform is more established in the Netherlands with better Dutch tax reporting integration. Trading 212 is UK-regulated (FCA) rather than Dutch-regulated, which some expats find less reassuring. For pure cost on regular ETF investing, Trading 212 may be cheaper. For reliability, Dutch tax pre-filling, and regulatory familiarity, DeGiro has the edge."
+products:
+  - name: "Wise"
+    url: "https://wise.com/invite/ihpc/willemt52"
+    price: "0.00"
+    tag: "Currency Transfer"
 ---
 
 The first time I opened a Dutch brokerage account, I went with DeGiro out of a combination of recommendation overload and the fact that every expat finance forum I could find seemed to end up saying the same thing: it's the cheapest, just use it.

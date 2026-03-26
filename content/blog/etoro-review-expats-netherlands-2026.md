@@ -20,6 +20,11 @@ faq:
     a: "eToro (Europe) Ltd is regulated by the Cyprus Securities and Exchange Commission (CySEC) and operates under MiFID II across the EU, including the Netherlands. Dutch users are covered under EU investor protection rules."
   - q: "What happens to my eToro account if I leave the Netherlands?"
     a: "You can generally continue using eToro if you move within the EU. Moving outside the EU may require you to update your account details. eToro is not available in all countries, so check availability before relocating."
+products:
+  - name: "Wise"
+    url: "https://wise.com/invite/ihpc/willemt52"
+    price: "0.00"
+    tag: "Currency Transfer"
 ---
 
 I opened my eToro account about three years ago, shortly after moving to the Netherlands from the UK. I was looking for something that felt familiar — an English-language interface, access to US stocks, and low barriers to getting started. eToro ticked those boxes. But I've also had frustrations that I wish someone had warned me about before I signed up.

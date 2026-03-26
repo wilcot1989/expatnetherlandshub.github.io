@@ -23,6 +23,11 @@ faq:
     a: "Technology (software, data, AI), life sciences and pharma (Philips, ASML, Qiagen), logistics and supply chain (Rotterdam port region), finance and fintech (Amsterdam), international organisations and NGOs (The Hague), and agriculture/food tech (Wageningen region). The Netherlands is also a European hub for multinationals such as KPMG, Deloitte, Shell, Unilever, and ING, all of which hire internationally."
   - q: "What should I expect from a Dutch job interview?"
     a: "Dutch interviews are typically direct, informal by comparison to UK or US standards, and consensus-oriented. You will often meet multiple team members across two to three interview rounds. Dutch hiring managers value concrete examples over general statements — use the STAR method (Situation, Task, Action, Result) consistently. Salary negotiation is expected and acceptable. Do not oversell yourself with superlatives; Dutch culture values understatement and honesty. Arriving on time (or one minute early) is non-negotiable."
+products:
+  - name: "Wise"
+    url: "https://wise.com/invite/ihpc/willemt52"
+    price: "0.00"
+    tag: "Currency Transfer"
 ---
 
 When I moved to the Netherlands, I had a CV that worked perfectly well in the UK and a set of assumptions about job hunting that turned out to be almost entirely wrong. Dutch employers do not want the same things. Dutch recruiters operate differently. The job boards I knew were mostly irrelevant.

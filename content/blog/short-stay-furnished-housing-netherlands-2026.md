@@ -23,6 +23,11 @@ faq:
     a: "Housing scams are a real problem in the Netherlands, particularly in Amsterdam and Rotterdam where demand enormously exceeds supply. Red flags include: rent that seems low compared to market rates; landlords who are 'abroad' and want to post keys internationally; requests to pay a deposit before viewing; listings using photos you can find elsewhere via reverse image search; and pressure to transfer money quickly via bank transfer or gift cards. Always view the property in person (or via live video call with the landlord in the property) before paying anything. Verify the identity of the landlord against the Kadaster (land registry) if possible. Use platforms that offer payment protection. Never send money to an unverified individual."
   - q: "Can I use short-stay housing as my official registration address in the Netherlands?"
     a: "For official registration at the gemeente (BRP registration), you need a residential address where you actually live. Serviced apartments and short-stay accommodations that are commercially registered as hotels or corporate housing cannot always be used for BRP registration. Many landlords of furnished apartments will allow registration — this is a critical question to ask before signing. Without BRP registration, you cannot get a BSN, and without a BSN you cannot open a bank account, access healthcare, or apply for the 30% ruling. Always confirm registration permission before committing to any short-stay arrangement."
+products:
+  - name: "Wise"
+    url: "https://wise.com/invite/ihpc/willemt52"
+    price: "0.00"
+    tag: "Currency Transfer"
 ---
 
 The first thing you discover about housing in the Netherlands as an expat is that it is genuinely hard. The vacancy rate in Amsterdam hovers around 1%. In some city-centre postcodes it is effectively zero. The waiting list for social housing (which you cannot access as a new arrival anyway) runs to years, sometimes decades.

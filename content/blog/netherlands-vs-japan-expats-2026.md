@@ -20,6 +20,15 @@ faq:
     a: "Both countries have high-quality universal healthcare systems. Japan's system is considered one of the world's best, with extremely low costs for patients. The Netherlands' system is also excellent. Japan has an edge on wait times and specialist access in major cities; the Netherlands has a more uniform quality across the country."
   - q: "Can British or Australian expats easily move to either Japan or the Netherlands?"
     a: "For the Netherlands, EU freedom of movement does not apply to British or Australian citizens post-Brexit, so a residence permit is needed. For Japan, working holiday visas are available for Australians and some other nationalities. Both countries require employer sponsorship or specific visa categories for professional long-term stays."
+products:
+  - name: "Wise"
+    url: "https://wise.com/invite/ihpc/willemt52"
+    price: "0.00"
+    tag: "Currency Transfer"
+  - name: "SafetyWing"
+    url: "https://safetywing.com/?referenceID=26482728"
+    price: "0.00"
+    tag: "Expat Insurance"
 ---
 
 I've spoken to expats who've lived in both countries, and the contrast between Japan and the Netherlands is striking enough to be worth a dedicated comparison. Both are wealthy, orderly, and with strong civic cultures — but they are profoundly different in their relationship to foreigners, their day-to-day rhythms, and what living there actually demands of you.

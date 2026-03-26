@@ -23,6 +23,11 @@ faq:
     a: "All major job boards in the Netherlands are free for candidates. LinkedIn (free tier) allows job applications without a paid subscription; LinkedIn Premium is useful for seeing who has viewed your profile and for InMail access but is not required to apply to roles. Indeed, IamExpat Jobs, Glassdoor, and most other platforms are entirely free for candidates. Recruitment agencies are free for candidates — agencies are paid by the employer upon successful placement. No legitimate job board charges candidates a fee to apply or view listings."
   - q: "What is The Undutchables and how does it work?"
     a: "The Undutchables is a Dutch recruitment agency specialising in placing multilingual and English-speaking professionals in the Netherlands. They work across sectors including finance, HR, marketing, legal, customer service, and operations. Unlike a job board, you register with them (free) and are matched with roles. They also advertise specific openings on their website. Their specialisation in expat placements means their consultants understand the Dutch work permit and Kennismigrant system, which is useful for non-EU candidates. They have offices in Amsterdam, Rotterdam, The Hague, and Utrecht."
+products:
+  - name: "Wise"
+    url: "https://wise.com/invite/ihpc/willemt52"
+    price: "0.00"
+    tag: "Currency Transfer"
 ---
 
 When I arrived in the Netherlands and started my job search, I spent the first two weeks applying through every platform I could find. I was doing it inefficiently — posting the same CV to every board and hoping something would come back.
