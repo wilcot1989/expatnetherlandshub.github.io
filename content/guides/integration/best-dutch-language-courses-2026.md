@@ -154,7 +154,7 @@ One-on-one tutoring is the fastest way to improve your spoken Dutch. These platf
 
 ### Preply -- Best for Structured Online Tutoring
 
-[Preply](https://preply.com/) connects you with professional Dutch tutors who offer structured, personalized lessons. Tutors create custom learning plans based on your goals, level, and schedule.
+[Preply](https://preply.sjv.io/bkazQk) connects you with professional Dutch tutors who offer structured, personalized lessons. Tutors create custom learning plans based on your goals, level, and schedule.
 
 #### Key Features
 
@@ -190,9 +190,9 @@ One-on-one tutoring is the fastest way to improve your spoken Dutch. These platf
 
 #### Our Verdict
 
-[Preply](https://preply.com/) is the best online tutoring option for expats who want structured, professional Dutch lessons from home. It is particularly valuable for exam preparation and for learners who need to work on specific skills like pronunciation or business Dutch. [Find a Dutch tutor on Preply](https://preply.com/).
+[Preply](https://preply.sjv.io/bkazQk) is the best online tutoring option for expats who want structured, professional Dutch lessons from home. It is particularly valuable for exam preparation and for learners who need to work on specific skills like pronunciation or business Dutch. [Find a Dutch tutor on Preply](https://preply.sjv.io/bkazQk).
 
-<a href="https://preply.com/" target="_blank" rel="noopener noreferrer" class="cta-affiliate">Find a Dutch tutor on Preply →</a>
+<a href="https://preply.sjv.io/bkazQk" target="_blank" rel="noopener noreferrer" class="cta-affiliate">Find a Dutch tutor on Preply →</a>
 
 ---
 
@@ -399,7 +399,7 @@ The NT2 Staatsexamen (State Exam Dutch as a Second Language) comes in two levels
 2. **Practice all four skills equally**: Reading, writing, listening, and speaking are all tested separately
 3. **Use official practice exams**: Available at inburgeren.nl and duo.nl
 4. **Supplement with apps**: Use [Babbel](https://www.babbel.com/) for grammar and vocabulary building
-5. **Book tutoring sessions**: Practice speaking with a tutor on [Preply](https://preply.com/) or [italki](https://www.italki.com/) in the months before the exam
+5. **Book tutoring sessions**: Practice speaking with a tutor on [Preply](https://preply.sjv.io/bkazQk) or [italki](https://www.italki.com/) in the months before the exam
 6. **Join conversation groups**: Libraries and community centers often host free Dutch conversation practice
 
 For a complete guide to the civic integration process, read our [Inburgeringsexamen Preparation Guide 2026](/guides/integration/inburgeringsexamen-preparation-guide-2026/). Unsure which learning route applies to your visa and situation? Our [inburgering route builder](/tools/inburgering-route-builder/) helps you identify the right path in under two minutes.
@@ -420,7 +420,7 @@ For expats who want to reach conversational Dutch as efficiently as possible, he
 ### Months 3-6: Develop Conversational Skills
 
 - **Continue**: Daily Babbel and Duolingo practice
-- **Increase**: 2-3 italki or [Preply](https://preply.com/) sessions per week, focusing on speaking
+- **Increase**: 2-3 italki or [Preply](https://preply.sjv.io/bkazQk) sessions per week, focusing on speaking
 - **Add**: A group course at a Taalhuis or language school for social learning
 - **Practice**: Watch Dutch TV shows on NPO Start with Dutch subtitles, read NOS.nl news
 
@@ -555,7 +555,7 @@ The best Dutch language course is the one you will actually use consistently. He
 
 - **Best app for structured self-study**: [Babbel](https://www.babbel.com/)
 - **Best free option**: Duolingo
-- **Best for personalized online tutoring**: [Preply](https://preply.com/) — see our [Preply vs iTalki comparison](/guides/integration/preply-vs-italki-dutch-lessons-2026/) if you are weighing both platforms
+- **Best for personalized online tutoring**: [Preply](https://preply.sjv.io/bkazQk) — see our [Preply vs iTalki comparison](/guides/integration/preply-vs-italki-dutch-lessons-2026/) if you are weighing both platforms
 - **Best for affordable conversation practice**: [italki](https://www.italki.com/)
 - **Best in-person school (academic quality)**: UvA Talen
 - **Best immersive classroom experience**: Direct Dutch

@@ -288,7 +288,7 @@ If Babbel's structured approach sounds right for you, getting started takes less
 
 <a href="https://www.babbel.com/" target="_blank" rel="noopener noreferrer" class="cta-affiliate">Try Babbel Dutch for free →</a>
 
-<a href="https://preply.com/" target="_blank" rel="noopener noreferrer" class="cta-affiliate">Find a Dutch tutor on Preply →</a>
+<a href="https://preply.sjv.io/bkazQk" target="_blank" rel="noopener noreferrer" class="cta-affiliate">Find a Dutch tutor on Preply →</a>
 
 For a broader comparison including Pimsleur, Mondly, Rosetta Stone, and more, read our full guide to the [7 best apps to learn Dutch in 2026](/guides/integration/best-apps-learn-dutch-2026/). And if you are still planning your move, check out our [complete guide to moving to the Netherlands in 2026](/guides/legal/complete-guide-moving-to-netherlands-2026/).
 

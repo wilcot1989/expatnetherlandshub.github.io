@@ -33,7 +33,7 @@ products:
     url: "https://www.dutchpod101.com/"
     price: "0.00"
   - name: "Preply"
-    url: "https://preply.com/"
+    url: "https://preply.sjv.io/bkazQk"
     price: "0.00"
 ---
 

@@ -562,7 +562,7 @@ pointer-events: none;
 <div class="cta-bar">
 <p>Want to learn Dutch anyway? Babbel is a great way to start at your own pace.</p>
 <a href="https://www.babbel.com/?bsc=dutchexpat&btp=default" target="_blank" rel="noopener nofollow sponsored" class="cta-affiliate" onclick="trackCTA('babbel','exempt')">Start Dutch with Babbel &#8594;</a>
-<a href="https://preply.com/en/skype/dutch-tutors" target="_blank" rel="noopener nofollow sponsored" class="cta-secondary" onclick="trackCTA('preply','exempt')">Find a Dutch tutor on Preply &#8594;</a>
+<a href="https://preply.sjv.io/bkazQk" target="_blank" rel="noopener nofollow sponsored" class="cta-secondary" onclick="trackCTA('preply','exempt')">Find a Dutch tutor on Preply &#8594;</a>
 </div>
 
 <button class="btn-reset" onclick="resetWizard()">&larr; Start over</button>
@@ -596,7 +596,7 @@ Your current level means you have a shorter path ahead. Focus on the KNM and MAP
 <div class="cta-bar">
 <p>Start building your Dutch vocabulary today &mdash; even 15 minutes a day makes a real difference.</p>
 <a href="https://www.babbel.com/?bsc=dutchexpat&btp=default" target="_blank" rel="noopener nofollow sponsored" class="cta-affiliate" onclick="trackCTA('babbel','results')">Start Dutch with Babbel &#8594;</a>
-<a href="https://preply.com/en/skype/dutch-tutors" target="_blank" rel="noopener nofollow sponsored" class="cta-secondary" onclick="trackCTA('preply','results')">Find a Dutch tutor on Preply &#8594;</a>
+<a href="https://preply.sjv.io/bkazQk" target="_blank" rel="noopener nofollow sponsored" class="cta-secondary" onclick="trackCTA('preply','results')">Find a Dutch tutor on Preply &#8594;</a>
 </div>
 
 <!-- Secondary link -->

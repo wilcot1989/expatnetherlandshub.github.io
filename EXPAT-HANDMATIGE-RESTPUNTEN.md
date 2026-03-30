@@ -6,7 +6,7 @@ Peildatum: 9 maart 2026 | Definitieve versie
 ## Prioriteit 1 — Affiliate aanmeldingen (handmatig, ~2 uur)
 
 1. **Babbel** AWIN aanvragen → na goedkeuring tracking URL in 5 bestanden + 1 tool vervangen
-2. **Preply** PartnerStack aanvragen → 5 bestanden + 1 tool
+2. ~~**Preply** PartnerStack aanvragen → 5 bestanden + 1 tool~~ ✅ DONE — ACTIEF via Impact.com (https://preply.sjv.io/bkazQk)
 3. **Surfshark** direct affiliate aanvragen → 1 bestand
 4. **Revolut** direct referral aanmelden → links in 13 bestanden toevoegen
 5. **Booking.com** AWIN aanvragen → links in 3+ bestanden toevoegen

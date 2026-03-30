@@ -11,7 +11,7 @@ Peildatum: 9 maart 2026 | Definitieve versie
 | 2 | Babbel | AWIN | EUR 8-15/abo | 6 | Laag | EUR 50-150 | URGENT |
 | 3 | Surfshark | Direct | 40%+ | 1 | Laag | EUR 30-100 | URGENT |
 | 4 | Booking.com | AWIN | 4-6% | 20 | Laag | EUR 50-200 | HOOG |
-| 5 | Preply | PartnerStack | 20-30% | 6 | Laag | EUR 30-80 | HOOG |
+| 5 | Preply | Impact.com | 20-30% | 6 | Laag | EUR 30-80 | ✅ ACTIEF |
 | 6 | KPN | Daisycon | EUR 10-50 | 8 | Midden | EUR 40-150 | HOOG |
 | 7 | T-Mobile | Daisycon | EUR 15-30 | 8 | Midden | EUR 30-100 | HOOG |
 | 8 | Cigna Global | Direct | USD 50-200 | 5 | Midden | EUR 50-200 | HOOG |

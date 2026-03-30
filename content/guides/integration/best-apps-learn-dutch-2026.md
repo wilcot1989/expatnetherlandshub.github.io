@@ -362,7 +362,7 @@ If you are still in the planning stages of your move, check out our [complete gu
 
 For personalized speaking practice with a real Dutch tutor, Preply is an excellent complement to any of the apps above. Not sure whether Preply or italki is better for Dutch tutoring? Our [Preply vs italki comparison](/guides/integration/preply-vs-italki-dutch-lessons-2026/) breaks down the differences in tutor quality, pricing, and lesson format.
 
-<a href="https://preply.com/" target="_blank" rel="noopener noreferrer" class="cta-affiliate">Book a Dutch lesson on Preply →</a>
+<a href="https://preply.sjv.io/bkazQk" target="_blank" rel="noopener noreferrer" class="cta-affiliate">Book a Dutch lesson on Preply →</a>
 
 ## The Dutch Language Barrier in the Netherlands: Why Apps Are Only Part of the Solution
 

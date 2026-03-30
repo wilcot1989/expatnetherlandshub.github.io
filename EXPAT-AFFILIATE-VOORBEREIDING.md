@@ -11,7 +11,7 @@ Peildatum: 9 maart 2026 | Definitieve versie
 | 2 | Babbel | AWIN | Tracking URL vervangen in 5+1 | 6 | EUR 50-150/mnd |
 | 3 | Surfshark | Direct | Tracking URL vervangen in 1 | 1 | EUR 30-100/mnd |
 | 4 | Booking.com | AWIN | Links toevoegen in city guides | 3+17 | EUR 50-200/mnd |
-| 5 | Preply | PartnerStack | Tracking URL vervangen in 5+1 | 6 | EUR 30-80/mnd |
+| 5 | Preply | Impact.com | ✅ ACTIEF — https://preply.sjv.io/bkazQk | 6 | EUR 30-80/mnd |
 
 ---
 
