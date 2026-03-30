@@ -1,12 +1,12 @@
 ---
-title: "Netherlands vs UK for Expats: Cost of Living & Tax (2026)"
+title: "Netherlands vs UK Cost of Living & Tax Compared (2026)"
 date: 2026-05-02T10:00:00+01:00
-lastmod: 2026-05-02T10:00:00+01:00
+lastmod: 2026-03-30T10:00:00+01:00
 type: "guide"
-description: "Netherlands vs UK comparison for expats. Side-by-side analysis of cost of living, salaries, taxes, healthcare, housing, and quality of life in 2026."
+description: "Netherlands vs UK cost of living compared for expats. Salaries, taxes, healthcare, housing, and quality of life side-by-side for 2026."
 categories: ["integration"]
 tags: ["Netherlands vs UK", "expat comparison", "cost of living", "relocating"]
-keywords: ["netherlands vs uk cost of living", "netherlands vs uk expats", "living in netherlands vs uk", "moving from uk to netherlands"]
+keywords: ["netherlands vs uk cost of living", "netherlands vs uk expats", "living in netherlands vs uk", "moving from uk to netherlands", "cost of living uk vs netherlands", "living in uk vs netherlands"]
 affiliate: true
 author: "Sarah van den Berg"
 author_bio: "Expat coach and relocation specialist. Half Dutch, half British, living in the Netherlands for over 10 years."

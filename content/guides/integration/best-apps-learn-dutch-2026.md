@@ -1,11 +1,11 @@
 ---
-title: "7 Best Apps to Learn Dutch in 2026: Tested & Compared"
+title: "7 Best Apps to Learn Dutch in 2026 (Free & Paid)"
 date: 2026-02-24T11:00:00+01:00
-lastmod: 2026-02-24T11:00:00+01:00
-description: "We tested the 7 best apps to learn Dutch in 2026. Compare Babbel, Duolingo, Pimsleur, Mondly, and more with pricing, pros, cons."
+lastmod: 2026-03-30T10:00:00+01:00
+description: "Best free and paid apps to learn Dutch in 2026. We tested Duolingo, Babbel, Pimsleur, Mondly, and more — with pricing, pros, cons, and free options."
 categories: ["language"]
-tags: ["learn dutch", "dutch language apps", "language learning", "babbel", "duolingo", "pimsleur"]
-keywords: ["best app learn dutch", "learn dutch app", "dutch language app", "best dutch learning app 2026", "learn dutch online"]
+tags: ["learn dutch", "dutch language apps", "language learning", "babbel", "duolingo", "pimsleur", "free dutch apps"]
+keywords: ["best app learn dutch", "learn dutch app", "dutch language app", "best dutch learning app 2026", "learn dutch online", "learn dutch free", "free dutch learning apps", "learn dutch app free 2026"]
 affiliate: true
 author: "Sarah van den Berg"
 author_bio: "Expat coach and relocation specialist. Half Dutch, half British, living in the Netherlands for over 10 years."

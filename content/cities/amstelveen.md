@@ -1,11 +1,13 @@
 ---
-title: "Amstelveen Expat Guide 2026: Most International Suburb"
-description: "The Netherlands' largest expat community outside Amsterdam. KPMG, ABN AMRO hub. Rent prices, best neighbourhoods, commute times, and honest tips."
+title: "Living in Amstelveen as an Expat: 2026 Guide"
+description: "Amstelveen expat guide: rent prices, expat community, best neighbourhoods, international schools, commute to Amsterdam, and honest tips for 2026."
 date: 2026-03-07T10:00:00+01:00
-lastmod: 2026-03-07
+lastmod: 2026-03-30T10:00:00+01:00
 featured_image: "/images/categories/cities.svg"
 author: "Sarah van den Berg"
 categories: ["cities"]
+tags: ["amstelveen", "expat city guide", "amsterdam suburbs", "expat community"]
+keywords: ["amstelveen expat guide", "living in amstelveen expat", "amstelveen expat community", "amstelveen rent prices", "amstelveen international schools"]
 ---
 
 ## Amstelveen at a Glance

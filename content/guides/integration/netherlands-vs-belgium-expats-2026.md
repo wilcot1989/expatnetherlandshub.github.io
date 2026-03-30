@@ -1,11 +1,11 @@
 ---
-title: "Netherlands vs Belgium for Expats 2026"
+title: "Netherlands vs Belgium for Expats: Cost & Life (2026)"
 date: 2026-06-20T10:00:00+01:00
-lastmod: 2026-06-20T10:00:00+01:00
-description: "Netherlands vs Belgium for expats 2026: tax, cost of living, healthcare, housing, work culture, language, and bureaucracy compared to help you decide."
+lastmod: 2026-03-30T10:00:00+01:00
+description: "Netherlands vs Belgium cost of living, taxes, healthcare, and housing compared for expats. An honest side-by-side to help you pick the right country in 2026."
 categories: ["integration"]
 tags: ["netherlands vs belgium", "expat comparison", "living in belgium", "living in netherlands", "expat europe", "where to move europe"]
-keywords: ["netherlands vs belgium expats", "netherlands or belgium 2026", "best country for expats europe", "belgium vs netherlands cost of living", "moving to belgium vs netherlands"]
+keywords: ["netherlands vs belgium expats", "netherlands or belgium 2026", "best country for expats europe", "belgium vs netherlands cost of living", "moving to belgium vs netherlands", "netherlands vs belgium for expats", "living in belgium vs netherlands"]
 affiliate: true
 author: "Sarah van den Berg"
 author_bio: "Expat coach and relocation specialist. Half Dutch, half British, living in the Netherlands for over 10 years."
