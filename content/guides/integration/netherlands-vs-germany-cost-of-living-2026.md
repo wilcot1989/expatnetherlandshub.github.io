@@ -53,13 +53,11 @@ This article is the breakdown I wish someone had given me before I signed my fir
 
 Before I get into the detail, here is the short version.
 
-{{< box >}}
-**Bottom line:** Germany is 10-20% cheaper than the Netherlands for daily living. Rent is the biggest difference — you will save EUR 300-800 per month on a comparable apartment outside Munich. Groceries, energy, transport, and childcare are all lower in Germany.
-
-**But there is a catch.** The Dutch 30% ruling can flip the equation completely. A skilled migrant earning EUR 70,000 in the Netherlands keeps more money after tax than the same person in Germany — enough to offset the higher costs and still come out ahead.
-
-**My advice:** If you qualify for the 30% ruling, the Netherlands is likely the better financial deal for your first five years. If you do not qualify, Germany offers more purchasing power in almost every category.
-{{< /box >}}
+> **Bottom line:** Germany is 10-20% cheaper than the Netherlands for daily living. Rent is the biggest difference — you will save EUR 300-800 per month on a comparable apartment outside Munich. Groceries, energy, transport, and childcare are all lower in Germany.
+>
+> **But there is a catch.** The Dutch 30% ruling can flip the equation completely. A skilled migrant earning EUR 70,000 in the Netherlands keeps more money after tax than the same person in Germany — enough to offset the higher costs and still come out ahead.
+>
+> **My advice:** If you qualify for the 30% ruling, the Netherlands is likely the better financial deal for your first five years. If you do not qualify, Germany offers more purchasing power in almost every category.
 
 ---
 
