@@ -1,6 +1,6 @@
 ---
 title: "The 30% Ruling in the Netherlands 2026: Complete Guide"
-date: 2026-03-06T11:00:00+01:00
+date: 2026-03-06T10:00:00+01:00
 lastmod: 2026-03-18T09:00:00+01:00
 description: "Complete guide to the 30% ruling in the Netherlands for 2026. Eligibility, salary thresholds, application process, recent changes, and tax savings."
 categories: ["finance"]

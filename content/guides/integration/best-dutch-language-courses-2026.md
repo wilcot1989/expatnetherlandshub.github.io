@@ -1,7 +1,7 @@
 ---
 title: "Best Dutch Language Courses 2026: Online & In-Person"
-date: 2026-03-06T12:00:00+01:00
-lastmod: 2026-03-06T12:00:00+01:00
+date: 2026-03-06T10:00:00+01:00
+lastmod: 2026-03-06T10:00:00+01:00
 description: "Compare the best Dutch language courses in 2026: Babbel, Duolingo, Preply, italki, Taalhuis, UvA Talen, Direct Dutch, and NT2 exam prep options reviewed."
 categories: ["language"]
 tags: ["dutch language course", "learn dutch", "NT2 exam", "dutch classes", "online dutch course", "dutch language school", "taalhuis", "preply dutch"]

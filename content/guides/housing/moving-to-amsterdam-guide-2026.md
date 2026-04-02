@@ -1,7 +1,7 @@
 ---
 title: "Moving to Amsterdam 2026: The Complete Expat Guide"
-date: 2026-03-06T12:00:00+01:00
-lastmod: 2026-03-06T12:00:00+01:00
+date: 2026-03-06T10:00:00+01:00
+lastmod: 2026-03-06T10:00:00+01:00
 description: "Everything you need to know about moving to Amsterdam in 2026. Housing, neighborhoods, registration, costs, transport, and practical tips for expats."
 categories: ["relocation"]
 tags: ["amsterdam", "moving to amsterdam", "amsterdam expat", "amsterdam neighborhoods", "amsterdam housing", "relocation"]

@@ -1,7 +1,7 @@
 ---
 title: "Best Bank Netherlands 2026: Top 7 for Expats"
-date: 2026-02-24T11:00:00+01:00
-lastmod: 2026-03-30T11:00:00+01:00
+date: 2026-02-24T10:00:00+01:00
+lastmod: 2026-03-30T10:00:00+01:00
 description: "Best bank in the Netherlands for expats? I compared 7 banks on fees, English support, and BSN requirements. Wise, bunq, ING, ABN AMRO and more."
 categories: ["finance"]
 tags: ["dutch bank account", "expat banking", "wise", "bunq", "n26", "ing netherlands", "abn amro", "best bank"]

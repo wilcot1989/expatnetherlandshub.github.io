@@ -1,7 +1,7 @@
 ---
 title: "Learn Dutch Free Online in 2026: 10 Best Resources"
-date: 2026-07-17T12:00:00+02:00
-lastmod: 2026-07-17T12:00:00+02:00
+date: 2026-07-17T10:00:00+02:00
+lastmod: 2026-07-17T10:00:00+02:00
 description: "The 10 best free resources to learn Dutch online in 2026. Apps, podcasts, TV, university courses, and communities reviewed by an expat."
 categories: ["integration"]
 tags: ["learn dutch free", "free dutch course", "learn dutch online", "dutch language free", "duolingo dutch", "free dutch lessons", "learn dutch 2026"]
