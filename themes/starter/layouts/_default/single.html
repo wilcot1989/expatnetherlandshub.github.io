@@ -122,14 +122,19 @@
       </div>
       {{ end }}
 
-      {{/* Email signup in sidebar */}}
+      {{/* Email signup in sidebar — FormSubmit.co (no signup needed, delivers to configured email) */}}
       <div class="sidebar-block sidebar-block-email">
         <div class="sidebar-block-header">
           <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round"><path d="M4 4h16c1.1 0 2 .9 2 2v12c0 1.1-.9 2-2 2H4c-1.1 0-2-.9-2-2V6c0-1.1.9-2 2-2z"/><polyline points="22,6 12,13 2,6"/></svg>
-          <h4>Free Checklist</h4>
+          <h4>Free Expat Checklist</h4>
         </div>
-        <p class="sidebar-email-desc">47 things to do in your first 3 months in the Netherlands.</p>
-        <form class="sidebar-email-form" action="#" method="post" onsubmit="return false;">
+        <p class="sidebar-email-desc">47 things to do in your first 3 months in the Netherlands — sent to your inbox.</p>
+        <form class="sidebar-email-form" action="https://formsubmit.co/wt@port-it.nl" method="POST">
+          <input type="hidden" name="_subject" value="Expat Checklist Request">
+          <input type="hidden" name="_captcha" value="false">
+          <input type="hidden" name="_next" value="https://expatnetherlandshub.com/thanks/">
+          <input type="hidden" name="_template" value="table">
+          <input type="hidden" name="source_page" value="{{ .RelPermalink }}">
           <input type="email" name="email" placeholder="your@email.com" required class="sidebar-email-input">
           <button type="submit" class="cta cta-block">Download free &rarr;</button>
         </form>
