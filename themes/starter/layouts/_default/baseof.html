@@ -101,10 +101,10 @@
       {{ range $i, $item := .Params.faq }}{{ if $i }},{{ end }}
       {
         "@type": "Question",
-        "name": "{{ $item.q }}",
+        "name": {{ $item.q | jsonify }},
         "acceptedAnswer": {
           "@type": "Answer",
-          "text": "{{ $item.a }}"
+          "text": {{ $item.a | jsonify }}
         }
       }{{ end }}
     ]
