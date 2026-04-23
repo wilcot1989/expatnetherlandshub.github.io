@@ -1,7 +1,7 @@
 ---
 title: "Best Accounting Software Freelancers NL 2026"
 date: 2026-05-26T10:00:00+01:00
-lastmod: 2026-05-26T10:00:00+01:00
+lastmod: 2026-04-23T10:00:00+01:00
 description: "Best accounting software for ZZP freelancers in the Netherlands: Moneybird, Exact Online, e-Boekhouden, and Jortt compared on price and BTW support."
 categories: ["work"]
 tags: ["accounting", "ZZP", "freelancer", "boekhouding", "Moneybird", "invoicing"]

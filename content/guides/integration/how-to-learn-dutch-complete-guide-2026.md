@@ -1,7 +1,7 @@
 ---
 title: "How to Learn Dutch in 2026: Free Resources, Courses and Apps"
 date: 2026-03-26T09:00:00+02:00
-lastmod: 2026-03-26T09:00:00+02:00
+lastmod: 2026-04-23T10:00:00+01:00
 description: "A complete guide on how to learn Dutch in 2026. Free resources, paid courses, apps, NT2 exam prep, and honest timelines from an expat who did it the hard way."
 categories: ["integration"]
 tags: ["learn Dutch", "Dutch language", "language courses", "Duolingo", "integration"]

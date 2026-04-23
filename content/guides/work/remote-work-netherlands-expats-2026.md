@@ -1,7 +1,7 @@
 ---
 title: "Remote Work in Netherlands: Expat Guide 2026"
 date: 2026-03-18T10:00:00+01:00
-lastmod: 2026-03-18T10:00:00+01:00
+lastmod: 2026-04-23T10:00:00+01:00
 description: "Remote work in the Netherlands for expats 2026: thuiswerkvergoeding, ARBO law, cross-border tax rules, the 183-day rule, and home office security."
 categories: ["work"]
 tags: ["remote work netherlands", "thuiswerkvergoeding", "working from home netherlands", "expat work netherlands", "183 day rule", "ARBO law", "cross-border remote work"]

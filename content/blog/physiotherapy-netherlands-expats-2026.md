@@ -1,7 +1,7 @@
 ---
 title: "Physiotherapy in Netherlands: Expat Guide 2026"
 date: 2026-03-22T08:10:00+01:00
-lastmod: 2026-03-22T08:10:00+01:00
+lastmod: 2026-04-23T10:00:00+01:00
 description: "How physiotherapy works in the Netherlands for expats: referrals, costs, insurance coverage, finding an English-speaking physio, and what to expect."
 categories: ["health"]
 tags: ["physiotherapy", "fysiotherapie", "dutch healthcare", "expat health", "health insurance", "physical therapy netherlands"]

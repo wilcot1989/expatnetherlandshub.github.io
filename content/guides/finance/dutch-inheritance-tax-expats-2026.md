@@ -1,7 +1,7 @@
 ---
 title: "Dutch Inheritance Tax for Expats 2026: What You Need to Know"
 date: 2026-05-05T10:00:00+01:00
-lastmod: 2026-05-05T10:00:00+01:00
+lastmod: 2026-04-23T10:00:00+01:00
 type: "guide"
 description: "Dutch inheritance tax (erfbelasting) for expats. Tax rates, exemptions, the 10-year rule, and how it affects your estate planning in the Netherlands."
 categories: ["finance"]

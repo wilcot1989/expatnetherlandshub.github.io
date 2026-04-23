@@ -2,7 +2,7 @@
 title: "Netherlands vs Nigeria for Expats 2026"
 description: "Comparing life in the Netherlands and Nigeria for expats: cost of living, work, healthcare, visas, and what the move really looks like in 2026."
 date: 2026-03-22
-lastmod: 2026-03-22
+lastmod: 2026-04-23T10:00:00+01:00
 author: "Sarah van den Berg"
 categories: ["integration"]
 tags: ["netherlands", "nigeria", "expats", "comparison", "moving", "relocation", "africa"]

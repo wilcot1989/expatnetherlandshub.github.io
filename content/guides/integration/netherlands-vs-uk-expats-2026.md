@@ -1,7 +1,7 @@
 ---
 title: "Netherlands vs UK Cost of Living & Tax Compared (2026)"
 date: 2026-05-02T10:00:00+01:00
-lastmod: 2026-03-30T10:00:00+01:00
+lastmod: 2026-04-23T10:00:00+01:00
 type: "guide"
 description: "Netherlands vs UK cost of living compared for expats. Salaries, taxes, healthcare, housing, and quality of life side-by-side for 2026."
 categories: ["integration"]

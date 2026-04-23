@@ -1,7 +1,7 @@
 ---
 title: "What Dutch Health Insurance Covers (2026 Guide)"
 date: 2026-04-11T10:00:00+01:00
-lastmod: 2026-04-11T10:00:00+01:00
+lastmod: 2026-04-23T10:00:00+01:00
 description: "What does Dutch basisverzekering cover? GP visits, hospital care, eigen risico, dental, and mental health — explained in plain English for expats."
 categories: ["health"]
 tags: ["health insurance", "zorgverzekering", "expat healthcare", "eigen risico", "aanvullende verzekering"]

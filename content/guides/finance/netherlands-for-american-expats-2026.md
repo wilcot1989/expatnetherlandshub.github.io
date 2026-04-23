@@ -1,7 +1,7 @@
 ---
 title: "Netherlands for American Expats: Tax & Finance 2026"
 date: 2026-05-09T10:00:00+01:00
-lastmod: 2026-05-09T10:00:00+01:00
+lastmod: 2026-04-23T10:00:00+01:00
 description: "The definitive guide for American expats in the Netherlands: US worldwide taxation, FBAR, FATCA, the Dutch banking hurdles, and the 30% ruling explained."
 categories: ["finance"]
 tags: ["American expat", "US tax", "FATCA", "FBAR", "30% ruling", "US Netherlands"]

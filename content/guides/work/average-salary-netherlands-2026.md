@@ -1,7 +1,7 @@
 ---
 title: "Average Salary in the Netherlands 2026: By City & Industry"
 date: 2026-03-26
-lastmod: 2026-03-26
+lastmod: 2026-04-23T10:00:00+01:00
 draft: false
 author: "Sarah van den Berg"
 authorBio: "Expat coach and writer at ExpatNetherlandsHub.com"

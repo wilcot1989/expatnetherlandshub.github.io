@@ -1,7 +1,7 @@
 ---
 title: "Side Hustle Netherlands: Ideas + Tax Rules"
 date: 2026-03-22T10:00:00+01:00
-lastmod: 2026-07-05T10:00:00+01:00
+lastmod: 2026-04-23T10:00:00+01:00
 description: "Earn extra income in the Netherlands as an expat: legal rules, bijverdienste tax, KvK, the best side hustles, and passive income options explained."
 categories: ["work"]
 tags: ["side hustle", "passive income", "bijverdienste", "KvK", "ZZP", "freelance", "tax"]

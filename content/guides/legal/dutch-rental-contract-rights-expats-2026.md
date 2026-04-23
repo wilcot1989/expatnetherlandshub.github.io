@@ -1,7 +1,7 @@
 ---
 title: "Dutch Rental Contracts: Your Tenant Rights Explained (2026)"
 date: 2026-03-17T10:00:00+01:00
-lastmod: 2026-03-17T10:00:00+01:00
+lastmod: 2026-04-23T10:00:00+01:00
 description: "Understand Dutch rental contracts and your rights as a tenant. Contract types, deposit rules, rent protection, and 2026 law changes explained."
 categories: ["legal"]
 tags: ["rental contract", "tenant rights", "huurcontract", "housing law", "renting Netherlands"]

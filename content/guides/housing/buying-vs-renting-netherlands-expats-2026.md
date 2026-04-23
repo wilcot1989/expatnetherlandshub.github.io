@@ -1,7 +1,7 @@
 ---
 title: "Buying vs Renting Netherlands: Expat Guide 2026"
 date: 2026-05-21T10:00:00+01:00
-lastmod: 2026-05-21T10:00:00+01:00
+lastmod: 2026-04-23T10:00:00+01:00
 description: "Buy or rent in the Netherlands as an expat? Real mortgage calculations, break-even analysis, and the 30% ruling impact for 2026."
 categories: ["housing"]
 tags: ["buying", "renting", "housing", "mortgage", "koopwoning"]

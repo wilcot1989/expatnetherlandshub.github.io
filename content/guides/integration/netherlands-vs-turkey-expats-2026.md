@@ -1,7 +1,7 @@
 ---
 title: "Netherlands vs Turkey for Expats 2026"
 date: 2026-03-18T10:00:00+01:00
-lastmod: 2026-03-18T10:00:00+01:00
+lastmod: 2026-04-23T10:00:00+01:00
 description: "Netherlands vs Turkey for expats 2026: salary, tax, healthcare, housing, culture, and dual nationality compared with real numbers."
 categories: ["integration"]
 tags: ["netherlands vs turkey", "expat comparison", "living in turkey", "living in netherlands", "turkish community netherlands", "expat europe"]

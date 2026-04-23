@@ -2,7 +2,7 @@
 title: "eToro Review for Expats Netherlands 2026"
 description: "Is eToro the right investing platform for expats in the Netherlands? My honest review covering fees, accounts, and what works — and what doesn't."
 date: 2026-03-22
-lastmod: 2026-03-22
+lastmod: 2026-04-23T10:00:00+01:00
 author: "Sarah van den Berg"
 categories: ["finance"]
 tags: ["etoro", "investing", "expats", "netherlands", "stocks", "crypto", "review"]

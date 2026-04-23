@@ -2,7 +2,7 @@
 title: "DAFT Visa Netherlands: American Entrepreneurs"
 slug: "daft-visa-american-entrepreneurs-netherlands-2026"
 date: 2026-03-18T10:00:00+01:00
-lastmod: 2026-03-18T10:00:00+01:00
+lastmod: 2026-04-23T10:00:00+01:00
 description: "The DAFT visa lets American entrepreneurs live and work in the Netherlands self-employed. Requirements, costs, process, and common mistakes explained."
 categories: ["legal"]
 type: "guide"

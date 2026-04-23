@@ -1,7 +1,7 @@
 ---
 title: "Wise vs Revolut vs bunq for Expats 2026"
 date: 2026-06-07T10:00:00+01:00
-lastmod: 2026-06-07T10:00:00+01:00
+lastmod: 2026-04-23T10:00:00+01:00
 description: "Wise, Revolut, or bunq for expats in the Netherlands? I compare IBAN acceptance, fees, and real banking capability so you can choose the right one."
 categories: ["finance"]
 tags: ["Wise", "Revolut", "bunq", "bank comparison", "fintech"]

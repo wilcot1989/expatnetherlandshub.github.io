@@ -2,7 +2,7 @@
 title: "Diploma Recognition Netherlands: Expat Guide"
 description: "How to get your foreign diploma recognised in the Netherlands. I cover IDW, Nuffic, regulated professions, and practical steps for expats in 2026."
 date: 2026-03-22
-lastmod: 2026-03-22
+lastmod: 2026-04-23T10:00:00+01:00
 author: "Sarah van den Berg"
 categories: ["work"]
 tags: ["diploma recognition", "Netherlands", "expats", "Nuffic", "IDW", "credentials", "work", "qualifications"]

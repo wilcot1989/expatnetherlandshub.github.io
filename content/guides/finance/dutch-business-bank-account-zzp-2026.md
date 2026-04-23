@@ -2,7 +2,7 @@
 title: "Business Bank Account Netherlands ZZP/Freelancer"
 slug: "dutch-business-bank-account-zzp-2026"
 date: 2026-05-06T10:00:00+01:00
-lastmod: 2026-05-06T10:00:00+01:00
+lastmod: 2026-04-23T10:00:00+01:00
 author: "Sarah van den Berg"
 author_bio: "Expat coach and relocation specialist. Half Dutch, half British, living in the Netherlands for over 10 years."
 description: "Best business bank accounts for ZZP freelancers in the Netherlands. Compare ING, ABN AMRO, Rabobank, bunq, and Wise on fees and English support."

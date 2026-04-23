@@ -1,7 +1,7 @@
 ---
 title: "Vaccinations in Netherlands: Expat Guide"
 date: 2026-03-18T10:00:00+01:00
-lastmod: 2026-03-18T10:00:00+01:00
+lastmod: 2026-04-23T10:00:00+01:00
 description: "Vaccinations in the Netherlands for expats 2026: the Rijksvaccinatieprogramma, travel vaccines, where to get vaccinated, costs, and insurance coverage."
 categories: ["health"]
 tags: ["vaccinations", "health", "rivm", "travel health", "insurance", "prevention"]

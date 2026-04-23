@@ -1,7 +1,7 @@
 ---
 title: "Expat Relocation Services NL: Worth It? (2026)"
 date: 2026-05-25T10:00:00+01:00
-lastmod: 2026-05-25T10:00:00+01:00
+lastmod: 2026-04-23T10:00:00+01:00
 description: "Honest review of expat relocation services in the Netherlands: what they actually do, what they cost, and when you should skip them entirely."
 categories: ["legal"]
 tags: ["relocation", "relocation service", "moving", "expat service"]

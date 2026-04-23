@@ -2,7 +2,7 @@
 title: "Netherlands vs France for Expats 2026"
 slug: "netherlands-vs-france-expats-2026"
 date: 2026-06-06T10:00:00+01:00
-lastmod: 2026-06-06T10:00:00+01:00
+lastmod: 2026-04-23T10:00:00+01:00
 author: "Sarah van den Berg"
 author_bio: "Expat coach and relocation specialist. Half Dutch, half British, living in the Netherlands for over 10 years."
 description: "Netherlands vs France for expats 2026: cost of living, taxes, healthcare, work culture, housing, and quality of life compared side by side."

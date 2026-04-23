@@ -2,7 +2,7 @@
 title: "Finding a Mortgage Broker Netherlands: Expat Guide"
 description: "How to find a good mortgage broker in the Netherlands as an expat. What brokers do, what they cost, and what to expect when buying property in 2026."
 date: 2026-03-22
-lastmod: 2026-03-22
+lastmod: 2026-04-23T10:00:00+01:00
 author: "Sarah van den Berg"
 categories: ["housing"]
 tags: ["mortgage", "broker", "hypotheek", "netherlands", "expats", "housing", "property", "buying"]

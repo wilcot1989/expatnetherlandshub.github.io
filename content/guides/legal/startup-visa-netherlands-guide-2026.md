@@ -2,7 +2,7 @@
 title: "Startup Visa Netherlands 2026: How to Apply"
 slug: "startup-visa-netherlands-guide-2026"
 date: 2026-03-18T10:00:00+01:00
-lastmod: 2026-03-18T10:00:00+01:00
+lastmod: 2026-04-23T10:00:00+01:00
 description: "How to get a Dutch startup visa in 2026. Requirements, approved facilitators, application steps, costs, and how it compares to the DAFT visa."
 categories: ["legal"]
 type: "guide"

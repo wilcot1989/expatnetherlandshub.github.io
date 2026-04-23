@@ -2,7 +2,7 @@
 title: "Delft Expat Guide 2026: Living, Working & Costs"
 description: "Expat guide to Delft 2026. Rent prices, best neighbourhoods, jobs at TU Delft and TNO, registration, transport, and honest tips for moving here."
 date: 2026-03-07T10:00:00+01:00
-lastmod: 2026-03-07
+lastmod: 2026-04-23T10:00:00+01:00
 featured_image: "/images/featured/delft.webp"
 author: "Sarah van den Berg"
 categories: ["cities"]

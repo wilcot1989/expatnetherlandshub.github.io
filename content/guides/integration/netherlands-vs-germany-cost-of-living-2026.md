@@ -1,7 +1,7 @@
 ---
 title: "Netherlands vs Germany Cost of Living (2026)"
 date: 2026-07-15T10:00:00+01:00
-lastmod: 2026-07-15T10:00:00+01:00
+lastmod: 2026-04-23T10:00:00+01:00
 type: "guide"
 description: "Netherlands vs Germany cost of living compared for expats. Rent, groceries, healthcare, taxes, and net salary breakdown with real 2026 numbers."
 categories: ["integration"]

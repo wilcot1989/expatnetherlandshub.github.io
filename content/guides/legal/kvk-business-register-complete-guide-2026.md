@@ -1,7 +1,7 @@
 ---
 title: "KvK Business Register: Registration & Search Guide 2026"
 date: 2026-03-26T10:00:00+01:00
-lastmod: 2026-03-26T10:00:00+01:00
+lastmod: 2026-04-23T10:00:00+01:00
 description: "KvK business register guide: how to register, search companies, get an uittreksel and what it costs. Updated for 2026 with step-by-step instructions."
 categories: ["legal"]
 tags: ["KvK", "Chamber of Commerce", "business register", "handelsregister", "company registration"]

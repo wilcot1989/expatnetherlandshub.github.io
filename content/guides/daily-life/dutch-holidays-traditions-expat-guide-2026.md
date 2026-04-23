@@ -1,7 +1,7 @@
 ---
 title: "Dutch Holidays & Traditions 2026: What Expats Should Know"
 date: 2026-04-25T10:00:00+01:00
-lastmod: 2026-04-25T10:00:00+01:00
+lastmod: 2026-04-23T10:00:00+01:00
 description: "Complete guide to Dutch holidays and traditions for expats. King's Day, Sinterklaas, Carnival, and all public holidays in 2026."
 categories: ["culture"]
 tags: ["Dutch holidays", "King's Day", "Sinterklaas", "Dutch traditions", "public holidays"]

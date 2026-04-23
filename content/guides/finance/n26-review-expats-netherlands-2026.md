@@ -1,7 +1,7 @@
 ---
 title: "N26 Review Netherlands 2026: Honest Verdict"
 date: 2026-03-18T10:00:00+01:00
-lastmod: 2026-03-18T10:00:00+01:00
+lastmod: 2026-04-23T10:00:00+01:00
 description: "Full N26 review for expats in the Netherlands 2026. German IBAN, free and premium plans, honest assessment of what works and what does not for life here."
 categories: ["finance"]
 tags: ["N26", "fintech", "expat banking", "German bank", "IBAN Netherlands"]

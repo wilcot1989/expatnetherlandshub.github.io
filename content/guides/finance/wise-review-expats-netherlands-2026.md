@@ -1,7 +1,7 @@
 ---
 title: "Wise Review Netherlands 2026: Full Verdict"
 date: 2026-03-18T10:00:00+01:00
-lastmod: 2026-03-18T10:00:00+01:00
+lastmod: 2026-04-23T10:00:00+01:00
 description: "Full Wise review for expats in the Netherlands 2026. Belgian IBAN, real exchange rates, fees, savings, and comparison with ING, ABN AMRO, Revolut, bunq."
 categories: ["finance"]
 tags: ["Wise", "expat banking", "money transfer", "multi-currency account", "IBAN Netherlands"]

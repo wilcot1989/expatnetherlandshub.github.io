@@ -1,7 +1,7 @@
 ---
 title: "Leaving the Netherlands: Deregistration Guide 2026"
 date: 2026-05-17T10:00:00+01:00
-lastmod: 2026-05-17
+lastmod: 2026-04-23T10:00:00+01:00
 type: "guide"
 description: "Step-by-step guide to Dutch BRP deregistration (uitschrijven): health insurance, tax return, DigiD, pension, bank accounts, and full departure timeline."
 categories: ["legal"]

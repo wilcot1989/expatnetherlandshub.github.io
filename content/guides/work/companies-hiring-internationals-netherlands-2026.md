@@ -1,7 +1,7 @@
 ---
 title: "Companies Hiring Internationals in NL 2026"
 date: 2026-03-18T10:00:00+01:00
-lastmod: 2026-03-18T10:00:00+01:00
+lastmod: 2026-04-23T10:00:00+01:00
 description: "Top companies in the Netherlands hiring international talent in 2026. Sectors, cities, English-language roles, 30% ruling eligibility, and how to apply."
 categories: ["work"]
 tags: ["jobs netherlands", "english speaking jobs", "expat jobs", "international companies netherlands", "30% ruling"]

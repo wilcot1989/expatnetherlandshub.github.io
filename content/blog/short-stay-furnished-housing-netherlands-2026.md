@@ -1,7 +1,7 @@
 ---
 title: "Short-Stay Housing Netherlands: Expat Guide"
 date: 2026-03-22T10:00:00+01:00
-lastmod: 2026-03-22T10:00:00+01:00
+lastmod: 2026-04-23T10:00:00+01:00
 description: "Short-stay furnished housing in the Netherlands for expats: platforms, typical costs, tenant rights, scam warnings, and how to find something fast."
 categories: ["housing"]
 tags: ["short stay housing", "furnished apartments Netherlands", "expat housing", "temporary accommodation", "Amsterdam housing"]

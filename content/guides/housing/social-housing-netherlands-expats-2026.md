@@ -1,7 +1,7 @@
 ---
 title: "Social Housing Netherlands: Can Expats Get It?"
 date: 2026-03-18T10:00:00+01:00
-lastmod: 2026-03-18T10:00:00+01:00
+lastmod: 2026-04-23T10:00:00+01:00
 description: "Social housing in the Netherlands for expats: waiting lists, income ceiling, WoningNet registration, urgentieverklaring, and private rental alternatives."
 categories: ["housing"]
 tags: ["social housing netherlands", "woningnet", "social rent", "expat housing", "corporatie", "waiting list netherlands", "huurwoning"]

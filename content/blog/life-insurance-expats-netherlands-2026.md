@@ -2,7 +2,7 @@
 title: "Life Insurance for Expats in Netherlands 2026"
 description: "Do expats in the Netherlands need life insurance? What's covered, what isn't, and how to find the right policy in 2026 — including mortgage-linked options."
 date: 2026-03-22
-lastmod: 2026-03-22
+lastmod: 2026-04-23T10:00:00+01:00
 author: "Sarah van den Berg"
 categories: ["finance"]
 tags: ["life insurance", "expats", "netherlands", "overlijdensrisicoverzekering", "finance", "mortgage"]

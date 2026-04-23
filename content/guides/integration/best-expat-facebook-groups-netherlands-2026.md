@@ -2,7 +2,7 @@
 title: "Best Expat Facebook Groups Netherlands 2026"
 slug: "best-expat-facebook-groups-netherlands-2026"
 date: 2026-05-22T10:00:00+01:00
-lastmod: 2026-05-22T10:00:00+01:00
+lastmod: 2026-04-23T10:00:00+01:00
 categories: ["integration"]
 type: "guide"
 author: "Sarah van den Berg"

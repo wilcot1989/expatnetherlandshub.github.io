@@ -1,7 +1,7 @@
 ---
 title: "Asylum Process Netherlands 2026 Guide"
 date: 2026-03-18T10:00:00+01:00
-lastmod: 2026-03-18T10:00:00+01:00
+lastmod: 2026-04-23T10:00:00+01:00
 description: "Asylum process in the Netherlands 2026: how to apply, the IND procedure, COA reception, your rights, appeals, and what happens after a decision."
 categories: ["legal"]
 tags: ["asylum", "refugee", "IND", "COA", "immigration", "legal rights"]

@@ -1,7 +1,7 @@
 ---
 title: "Best Coworking Spaces Amsterdam by Area 2026"
 date: 2026-06-27T10:00:00+01:00
-lastmod: 2026-06-27T10:00:00+01:00
+lastmod: 2026-04-23T10:00:00+01:00
 description: "Amsterdam coworking by neighbourhood 2026: Centrum (WeWork), Zuid (TQ, B.Amsterdam), Oost (A Lab), West (Westergas), Noord (NDSM). Prices and day passes."
 categories: ["work"]
 tags: ["coworking amsterdam", "amsterdam coworking spaces", "remote work amsterdam", "coworking space amsterdam 2026", "amsterdam freelance space"]

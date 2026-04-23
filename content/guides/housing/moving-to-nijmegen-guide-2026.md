@@ -1,7 +1,7 @@
 ---
 title: "Moving to Nijmegen: Expat Guide 2026"
 date: 2026-06-02T10:00:00+01:00
-lastmod: 2026-06-02T10:00:00+01:00
+lastmod: 2026-04-23T10:00:00+01:00
 description: "Expat guide to Nijmegen 2026: neighbourhoods, housing costs, commute times, Radboud UMC jobs, and life in the Netherlands' oldest city."
 categories: ["housing"]
 tags: ["Nijmegen", "moving", "housing", "city guide"]

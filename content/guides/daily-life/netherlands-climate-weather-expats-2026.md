@@ -1,7 +1,7 @@
 ---
 title: "Netherlands Climate and Weather: The Honest Expat Guide 2026"
 date: 2026-05-23T10:00:00+01:00
-lastmod: 2026-05-23T10:00:00+01:00
+lastmod: 2026-04-23T10:00:00+01:00
 description: "The honest truth about Dutch weather for expats: seasons, rain, grey winters, and how to survive — even enjoy — it all. Practical tips included."
 categories: ["daily-life"]
 tags: ["weather", "climate", "seasons", "winter", "rain"]

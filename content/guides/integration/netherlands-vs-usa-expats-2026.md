@@ -1,7 +1,7 @@
 ---
 title: "Netherlands vs USA for Expats 2026"
 date: 2026-03-22T10:00:00+01:00
-lastmod: 2026-03-22T10:00:00+01:00
+lastmod: 2026-04-23T10:00:00+01:00
 type: "guide"
 description: "Netherlands vs USA comparison for expats in 2026. Side-by-side analysis of cost of living, salaries, taxes, healthcare, work culture, and quality of life."
 categories: ["integration"]

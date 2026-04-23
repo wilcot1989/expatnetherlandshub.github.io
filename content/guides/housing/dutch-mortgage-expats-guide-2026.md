@@ -1,7 +1,7 @@
 ---
 title: "Dutch Mortgage for Expats 2026: Requirements & Process"
 date: 2026-03-26T10:00:00+01:00
-lastmod: 2026-03-26T10:00:00+01:00
+lastmod: 2026-04-23T10:00:00+01:00
 description: "Everything expats need to know about getting a Dutch mortgage in 2026: requirements, costs, the step-by-step process, and what to watch out for with the 30% ruling."
 categories: ["housing"]
 tags: ["mortgage", "housing", "buying property", "hypotheek", "expat housing"]

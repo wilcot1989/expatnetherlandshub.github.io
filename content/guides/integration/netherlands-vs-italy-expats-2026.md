@@ -1,7 +1,7 @@
 ---
 title: "Netherlands vs Italy for Expats 2026"
 date: 2026-03-18T10:00:00+01:00
-lastmod: 2026-03-18T10:00:00+01:00
+lastmod: 2026-04-23T10:00:00+01:00
 description: "Netherlands vs Italy for expats 2026: salaries, taxes, costs, bureaucracy, healthcare, language, and quality of life compared side by side."
 categories: ["integration"]
 tags: ["netherlands vs italy", "expat comparison", "cost of living", "tax", "quality of life", "europe"]

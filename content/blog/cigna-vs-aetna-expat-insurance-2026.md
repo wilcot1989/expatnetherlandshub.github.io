@@ -1,7 +1,7 @@
 ---
 title: "Cigna vs Aetna International Health Insurance for Expats 2026"
 date: 2026-03-26T10:00:00+01:00
-lastmod: 2026-03-26T10:00:00+01:00
+lastmod: 2026-04-23T10:00:00+01:00
 description: "Cigna vs Aetna for expats in the Netherlands 2026. Compare coverage, costs, networks, claims process and which international health plan fits you best."
 categories: ["health"]
 tags: ["health insurance", "Cigna", "Aetna", "international insurance", "expat insurance"]

@@ -1,7 +1,7 @@
 ---
 title: "Partner Visa Netherlands: Complete Guide 2026"
 date: 2026-06-08T10:00:00+01:00
-lastmod: 2026-06-08T10:00:00+01:00
+lastmod: 2026-04-23T10:00:00+01:00
 description: "Bringing your partner to the Netherlands in 2026: MVV, income requirements, documents, timeline, and the inburgeringsexamen — explained step by step."
 categories: ["legal"]
 tags: ["partner visa", "MVV", "family reunification", "spouse visa"]

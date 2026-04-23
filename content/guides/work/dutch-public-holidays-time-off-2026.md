@@ -1,7 +1,7 @@
 ---
 title: "Dutch Public Holidays & Time Off 2026"
 date: 2026-06-03T10:00:00+01:00
-lastmod: 2026-06-03T10:00:00+01:00
+lastmod: 2026-04-23T10:00:00+01:00
 description: "All Dutch public holidays in 2026: dates, vacation entitlements, vakantiegeld, brugdagen, and how to plan time off strategically as an expat."
 categories: ["work"]
 tags: ["public holidays", "vacation", "vrije dagen", "employment", "work-life balance"]

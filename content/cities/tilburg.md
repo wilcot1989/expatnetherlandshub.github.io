@@ -2,7 +2,7 @@
 title: "Tilburg Expat Guide 2026: Living, Working & Costs"
 description: "Complete expat guide to Tilburg in 2026. Affordable Brabant city with a growing expat scene, rent prices, university area, logistics jobs, and practical tips."
 date: 2026-03-07T10:00:00+01:00
-lastmod: 2026-03-07
+lastmod: 2026-04-23T10:00:00+01:00
 featured_image: "/images/categories/cities.svg"
 author: "Sarah van den Berg"
 categories: ["cities"]

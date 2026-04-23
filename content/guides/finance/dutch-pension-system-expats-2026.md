@@ -1,7 +1,7 @@
 ---
 title: "Dutch Pension System for Expats: AOW & Planning (2026)"
 date: 2026-04-21T10:00:00+01:00
-lastmod: 2026-04-21T10:00:00+01:00
+lastmod: 2026-04-23T10:00:00+01:00
 description: "Complete guide to the Dutch pension system for expats. AOW state pension, employer pension funds, tax benefits, and retirement planning in the Netherlands."
 categories: ["finance"]
 tags: ["pension", "AOW", "retirement", "employer pension", "expat finance"]

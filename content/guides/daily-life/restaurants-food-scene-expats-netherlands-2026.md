@@ -1,7 +1,7 @@
 ---
 title: "Eating Out in Netherlands: Expat Food Guide"
 date: 2026-03-18T10:00:00+01:00
-lastmod: 2026-03-18T10:00:00+01:00
+lastmod: 2026-04-23T10:00:00+01:00
 description: "Eating out in the Netherlands for expats: restaurant culture, tipping, street food, international cuisine, Michelin stars, and the best food cities."
 categories: ["daily-life"]
 tags: ["eating out netherlands", "dutch restaurants", "dutch food expat", "dutch street food", "rijsttafel", "bitterballen", "michelin netherlands", "haring netherlands"]

@@ -1,7 +1,7 @@
 ---
 title: "Dutch Trains Guide: NS, OV and Rail Passes"
 date: 2026-03-22T10:00:00+01:00
-lastmod: 2026-03-22T10:00:00+01:00
+lastmod: 2026-04-23T10:00:00+01:00
 description: "Complete guide to Dutch trains for expats: NS app, OV-chipkaart, subscription options, pricing, and how to get around the Netherlands cheaply."
 categories: ["daily-life"]
 tags: ["Dutch trains", "NS trains", "OV-chipkaart", "Netherlands public transport", "train Netherlands"]

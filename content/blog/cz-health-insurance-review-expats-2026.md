@@ -1,7 +1,7 @@
 ---
 title: "CZ Health Insurance Review for Expats 2026"
 date: 2026-03-22T08:05:00+01:00
-lastmod: 2026-03-22T08:05:00+01:00
+lastmod: 2026-04-23T10:00:00+01:00
 description: "CZ health insurance reviewed for expats in 2026. Premiums, English support, coverage options, and how CZ compares to other Dutch insurers."
 categories: ["health"]
 tags: ["cz health insurance", "basisverzekering", "expat insurance", "dutch health insurance", "zorgverzekering", "cz groep"]

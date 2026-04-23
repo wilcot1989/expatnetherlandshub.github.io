@@ -1,7 +1,7 @@
 ---
 title: "Exchange Student Netherlands Guide 2026"
 date: 2026-03-18T10:00:00+01:00
-lastmod: 2026-03-18T10:00:00+01:00
+lastmod: 2026-04-23T10:00:00+01:00
 description: "Exchange student Netherlands 2026: visas, health insurance, housing, Erasmus grants, banking, and practical tips for your semester abroad."
 categories: ["legal"]
 tags: ["exchange student", "erasmus", "visa", "student", "housing", "health insurance"]

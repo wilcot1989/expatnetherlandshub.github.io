@@ -1,7 +1,7 @@
 ---
 title: "Pregnancy & Maternity Care in NL: Expat Guide"
 date: 2026-03-18T10:00:00+01:00
-lastmod: 2026-03-18T10:00:00+01:00
+lastmod: 2026-04-23T10:00:00+01:00
 description: "How pregnancy and maternity care works in the Netherlands for expats: midwife system, kraamzorg, costs, home birth, hospital birth, and what to expect."
 categories: ["health"]
 tags: ["pregnancy netherlands", "maternity care", "verloskundige", "kraamzorg", "expat pregnancy", "dutch midwife"]

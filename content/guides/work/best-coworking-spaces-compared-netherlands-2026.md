@@ -1,7 +1,7 @@
 ---
 title: "Best Coworking Spaces Netherlands 2026 Compared"
 date: 2026-05-30T10:00:00+01:00
-lastmod: 2026-05-30T10:00:00+01:00
+lastmod: 2026-04-23T10:00:00+01:00
 description: "Best coworking spaces in the Netherlands 2026: Spaces, WeWork, Tribes, and Seats2Meet compared with prices and city-by-city recommendations."
 categories: ["work"]
 tags: ["coworking", "freelancer", "remote work", "office"]

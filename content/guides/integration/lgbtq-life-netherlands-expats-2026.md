@@ -1,7 +1,7 @@
 ---
 title: "LGBTQ+ Life in the Netherlands: Expat Guide"
 date: 2026-03-18T10:00:00+01:00
-lastmod: 2026-03-18T10:00:00+01:00
+lastmod: 2026-04-23T10:00:00+01:00
 type: "guide"
 description: "LGBTQ+ expat guide to the Netherlands: rights, Amsterdam scene, Pride events, trans healthcare, workplace protections, and community life in 2026."
 categories: ["integration"]

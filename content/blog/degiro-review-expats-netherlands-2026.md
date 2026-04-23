@@ -1,7 +1,7 @@
 ---
 title: "DeGiro Review for Expats in Netherlands 2026"
 date: 2026-03-22T10:00:00+01:00
-lastmod: 2026-07-01T10:00:00+01:00
+lastmod: 2026-04-23T10:00:00+01:00
 description: "DeGiro is the cheapest broker in the Netherlands. Honest review covering BSN, Box 3 tax, ETF selection, and account setup for expats."
 categories: ["finance"]
 tags: ["DeGiro", "investing", "ETF", "Box 3", "expat finance", "broker review"]

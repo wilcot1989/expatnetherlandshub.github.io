@@ -1,7 +1,7 @@
 ---
 title: "Study in the Netherlands: University Guide 2026"
 date: 2026-03-18T10:00:00+01:00
-lastmod: 2026-03-18T10:00:00+01:00
+lastmod: 2026-04-23T10:00:00+01:00
 description: "Study in the Netherlands 2026: Dutch uni system, top universities, tuition fees, admissions, housing, Studielink, and what no one tells you beforehand."
 categories: ["legal"]
 tags: ["study netherlands", "dutch universities", "international students", "tuition fees", "studielink", "university guide"]

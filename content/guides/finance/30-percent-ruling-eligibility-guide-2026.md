@@ -1,7 +1,7 @@
 ---
 title: "30% Ruling Eligibility: Do You Qualify? (2026)"
 date: 2026-04-29T10:00:00+01:00
-lastmod: 2026-04-29T10:00:00+01:00
+lastmod: 2026-04-23T10:00:00+01:00
 description: "Find out if you qualify for the Dutch 30% ruling in 2026. I cover all 5 eligibility requirements, the 150km rule, salary thresholds, and a decision tree."
 categories: ["finance"]
 tags: ["30% ruling", "tax", "eligibility", "knowledge migrant", "expat tax"]

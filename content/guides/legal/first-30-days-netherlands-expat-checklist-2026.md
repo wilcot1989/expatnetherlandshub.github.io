@@ -1,7 +1,7 @@
 ---
 title: "First 30 Days in the Netherlands: Checklist 2026"
 date: 2026-05-07T10:00:00+01:00
-lastmod: 2026-05-07T10:00:00+01:00
+lastmod: 2026-04-23T10:00:00+01:00
 description: "Arrived in the Netherlands? The exact day-by-day checklist: gemeente registration, BSN, DigiD, health insurance, banking, and more — for every new expat."
 categories: ["legal"]
 tags: ["checklist", "first days", "moving", "registration", "BSN", "DigiD"]

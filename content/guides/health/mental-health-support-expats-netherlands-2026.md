@@ -2,7 +2,7 @@
 title: "Mental Health Support for Expats in the Netherlands (2026)"
 slug: "mental-health-support-expats-netherlands-2026"
 date: 2026-04-07T10:00:00+01:00
-lastmod: 2026-04-07T10:00:00+01:00
+lastmod: 2026-04-23T10:00:00+01:00
 categories: ["health"]
 type: "guide"
 author: "Sarah van den Berg"

@@ -1,6 +1,7 @@
 ---
 title: "How We Earn Money"
 date: 2026-03-25
+lastmod: 2026-04-23T10:00:00+01:00
 description: "A straightforward explanation of how Expat Netherlands Hub earns money, who our affiliate partners are, and why that does not affect our recommendations."
 layout: single
 author: "Sarah van den Berg"

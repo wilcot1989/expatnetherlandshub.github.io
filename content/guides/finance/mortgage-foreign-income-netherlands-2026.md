@@ -1,7 +1,7 @@
 ---
 title: "Dutch Mortgage with Foreign Income 2026"
 date: 2026-06-23T10:00:00+01:00
-lastmod: 2026-06-23T10:00:00+01:00
+lastmod: 2026-04-23T10:00:00+01:00
 description: "Dutch mortgage with foreign income 2026: banks accepting foreign contracts, ZZP mortgages, intentieverklaring, 30% ruling impact."
 categories: ["finance"]
 tags: ["dutch mortgage", "mortgage netherlands expats", "foreign income mortgage", "zzp mortgage netherlands", "30 ruling mortgage", "hypotheek expats"]

@@ -1,7 +1,7 @@
 ---
 title: "Student Expat Guide Netherlands 2026"
 date: 2026-05-10T10:00:00+01:00
-lastmod: 2026-05-10T10:00:00+01:00
+lastmod: 2026-04-23T10:00:00+01:00
 description: "Complete guide for international students moving to the Netherlands 2026. Visas, tuition, housing, DUO finance, health insurance, and working rights."
 categories: ["legal"]
 tags: ["student", "university", "visa", "housing", "student finance"]

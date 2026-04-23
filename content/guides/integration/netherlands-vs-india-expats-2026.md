@@ -1,7 +1,7 @@
 ---
 title: "Netherlands vs India for Expats 2026"
 date: 2026-04-22T10:00:00+01:00
-lastmod: 2026-04-22T10:00:00+01:00
+lastmod: 2026-04-23T10:00:00+01:00
 type: "guide"
 description: "Moving from India to the Netherlands? Honest comparison of cost of living, salaries, tax, healthcare, and work culture for Indian knowledge migrants."
 categories: ["integration"]

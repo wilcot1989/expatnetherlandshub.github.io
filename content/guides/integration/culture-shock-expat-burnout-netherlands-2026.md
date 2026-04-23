@@ -2,7 +2,7 @@
 title: "Culture Shock in Netherlands: Expat Guide 2026"
 slug: "culture-shock-expat-burnout-netherlands-2026"
 date: 2026-03-18T10:00:00+01:00
-lastmod: 2026-03-18T10:00:00+01:00
+lastmod: 2026-04-23T10:00:00+01:00
 description: "The 4 stages of culture shock in the Netherlands, why it's rated hard for friendship, expat burnout signs, and strategies that actually help."
 categories: ["integration"]
 type: "guide"

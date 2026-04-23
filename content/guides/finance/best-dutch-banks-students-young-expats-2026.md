@@ -1,7 +1,7 @@
 ---
 title: "Best Banks for Students in Netherlands 2026"
 date: 2026-06-13T10:00:00+01:00
-lastmod: 2026-06-13T10:00:00+01:00
+lastmod: 2026-04-23T10:00:00+01:00
 description: "ING free until 28, ABN AMRO free until 30, bunq for budgeting — which bank works best for students and young expats, including DUO compatibility."
 categories: ["finance"]
 tags: ["student bank", "youth account", "bunq", "N26", "ING"]

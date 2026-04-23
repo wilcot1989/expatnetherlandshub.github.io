@@ -1,7 +1,7 @@
 ---
 title: "Dutch Disability Benefits for Expats 2026"
 date: 2026-06-17T10:00:00+01:00
-lastmod: 2026-06-17T10:00:00+01:00
+lastmod: 2026-04-23T10:00:00+01:00
 description: "Dutch disability and social security for expats 2026: Ziektewet, WIA, WGA, IVA, WW, and bijstand — what you're entitled to, amounts, and how to apply."
 categories: ["legal"]
 tags: ["disability", "social security", "WIA", "ZW", "benefits"]

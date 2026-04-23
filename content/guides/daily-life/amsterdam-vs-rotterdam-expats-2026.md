@@ -2,7 +2,7 @@
 title: "Amsterdam vs Rotterdam for Expats 2026: Full Comparison"
 slug: "amsterdam-vs-rotterdam-expats-2026"
 date: 2026-03-26T10:00:00+01:00
-lastmod: 2026-03-26T10:00:00+01:00
+lastmod: 2026-04-23T10:00:00+01:00
 author: "Sarah van den Berg"
 author_bio: "Expat coach and writer at ExpatNetherlandsHub.com"
 description: "Amsterdam vs Rotterdam for expats 2026: honest comparison of rent, jobs, housing, social life and commuting — by someone who has lived in both cities."

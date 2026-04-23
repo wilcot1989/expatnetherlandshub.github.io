@@ -1,7 +1,7 @@
 ---
 title: "Moving to Arnhem: Expat Guide 2026"
 date: 2026-06-16T10:00:00+01:00
-lastmod: 2026-06-16T10:00:00+01:00
+lastmod: 2026-04-23T10:00:00+01:00
 description: "Expat guide to Arnhem 2026: neighbourhoods, rent prices, employers, Veluwe access, and why this green city is one of the best relocation picks."
 categories: ["housing"]
 tags: ["Arnhem", "moving", "housing", "city guide"]

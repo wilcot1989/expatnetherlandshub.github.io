@@ -1,7 +1,7 @@
 ---
 title: "TV & Streaming in Netherlands: Expat Guide"
 date: 2026-03-18T10:00:00+01:00
-lastmod: 2026-03-18T10:00:00+01:00
+lastmod: 2026-04-23T10:00:00+01:00
 description: "TV and streaming in the Netherlands for expats: Netflix NL, Videoland, NPO Start, BBC, sports, Dutch radio, and a VPN to access home content."
 categories: ["daily-life"]
 tags: ["streaming netherlands", "netflix netherlands", "vpn streaming", "dutch tv expats", "videoland", "npo start", "ziggo sport", "expat entertainment"]

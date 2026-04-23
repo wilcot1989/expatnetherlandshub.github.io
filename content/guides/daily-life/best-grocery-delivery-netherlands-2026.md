@@ -1,7 +1,7 @@
 ---
 title: "Best Grocery Delivery Services in the Netherlands 2026"
 date: 2026-03-31T10:00:00+01:00
-lastmod: 2026-03-31T10:00:00+01:00
+lastmod: 2026-04-23T10:00:00+01:00
 description: "Compare the best grocery delivery services in the Netherlands 2026: Albert Heijn, Jumbo, Picnic, Flink, and Crisp. Prices and expat tips."
 categories: ["daily-life"]
 tags: ["grocery delivery", "albert heijn", "jumbo", "picnic", "flink", "supermarket netherlands", "food delivery"]

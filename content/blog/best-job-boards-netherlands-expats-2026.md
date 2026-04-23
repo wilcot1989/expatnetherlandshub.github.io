@@ -1,7 +1,7 @@
 ---
 title: "Best Job Boards Netherlands for Expats 2026"
 date: 2026-03-22T10:00:00+01:00
-lastmod: 2026-03-22T10:00:00+01:00
+lastmod: 2026-04-23T10:00:00+01:00
 description: "The best job boards in the Netherlands for expats in 2026: LinkedIn, Pararius, IamExpat Jobs, Indeed NL, and sector-specific platforms reviewed honestly."
 categories: ["work"]
 tags: ["job boards Netherlands", "expat jobs Netherlands", "English jobs Netherlands", "LinkedIn Netherlands", "IamExpat"]

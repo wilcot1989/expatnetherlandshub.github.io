@@ -1,7 +1,7 @@
 ---
 title: "Crypto Tax Netherlands 2026: Expat Guide"
 date: 2026-03-22T10:00:00+01:00
-lastmod: 2026-07-02T10:00:00+01:00
+lastmod: 2026-04-23T10:00:00+01:00
 description: "How crypto is taxed in the Netherlands in 2026: Box 3 rules, reporting requirements, staking, DeFi, NFTs, and the mistakes that get expats into trouble."
 categories: ["finance"]
 tags: ["crypto", "Box 3", "tax", "Bitcoin", "DeFi", "expat finance"]

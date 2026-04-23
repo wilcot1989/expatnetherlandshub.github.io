@@ -1,7 +1,7 @@
 ---
 title: "7 Best Apps to Learn Dutch in 2026 (Free & Paid)"
 date: 2026-02-24T10:00:00+01:00
-lastmod: 2026-03-30T10:00:00+01:00
+lastmod: 2026-04-23T10:00:00+01:00
 description: "Best free and paid apps to learn Dutch in 2026. We tested Duolingo, Babbel, Pimsleur, Mondly, and more — with pricing, pros, cons, and free options."
 categories: ["language"]
 tags: ["learn dutch", "dutch language apps", "language learning", "babbel", "duolingo", "pimsleur", "free dutch apps"]

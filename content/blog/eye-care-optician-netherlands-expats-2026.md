@@ -1,7 +1,7 @@
 ---
 title: "Eye Care in Netherlands: Optician Expat Guide"
 date: 2026-03-22T08:15:00+01:00
-lastmod: 2026-03-22T08:15:00+01:00
+lastmod: 2026-04-23T10:00:00+01:00
 description: "Eye care in the Netherlands for expats: opticians, ophthalmologists, insurance coverage, contact lens costs, and finding English-speaking eye care."
 categories: ["health"]
 tags: ["eye care", "optician", "opticien", "dutch healthcare", "expat health", "glasses netherlands", "contact lenses netherlands"]

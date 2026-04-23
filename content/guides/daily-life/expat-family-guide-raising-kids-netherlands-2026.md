@@ -1,7 +1,7 @@
 ---
 title: "Raising Kids in the Netherlands: Expat Guide 2026"
 date: 2026-05-19T10:00:00+01:00
-lastmod: 2026-05-19T10:00:00+01:00
+lastmod: 2026-04-23T10:00:00+01:00
 description: "Raising kids in the Netherlands as an expat: childcare, international schools, subsidies, healthcare, and Dutch parenting culture explained."
 categories: ["daily-life"]
 tags: ["family", "children", "schools", "childcare", "kinderopvangtoeslag"]

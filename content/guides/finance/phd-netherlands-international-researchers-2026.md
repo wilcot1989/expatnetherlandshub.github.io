@@ -1,7 +1,7 @@
 ---
 title: "PhD in the Netherlands: Researcher Guide 2026"
 date: 2026-03-18T10:00:00+01:00
-lastmod: 2026-03-18T10:00:00+01:00
+lastmod: 2026-04-23T10:00:00+01:00
 description: "International PhD candidates in the Netherlands 2026: employment contract, salary, 30% ruling, tax, banking, health insurance, and visa explained."
 categories: ["finance"]
 tags: ["phd", "researcher", "university", "employment", "tax", "visa"]

@@ -1,7 +1,7 @@
 ---
 title: "Wise vs Revolut Netherlands 2026: Expat Guide"
 date: 2026-03-09T10:00:00+01:00
-lastmod: 2026-03-09T10:00:00+01:00
+lastmod: 2026-04-23T10:00:00+01:00
 description: "Wise gives a European IBAN accepted by Dutch employers. Revolut's Lithuanian IBAN causes problems. Breakdown of fees, exchange rates, and which to use."
 categories: ["finance"]
 tags: ["Wise", "Revolut", "money transfer", "fintech", "expat banking"]

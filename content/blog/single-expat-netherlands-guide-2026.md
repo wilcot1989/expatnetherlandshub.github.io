@@ -1,7 +1,7 @@
 ---
 title: "Single Expat in the Netherlands: Complete Guide"
 date: 2026-03-22T10:00:00+01:00
-lastmod: 2026-07-08T10:00:00+01:00
+lastmod: 2026-04-23T10:00:00+01:00
 description: "Single expat in the Netherlands 2026: solo housing, managing finances alone, building a social life, dating apps, mental health, and community groups."
 categories: ["daily-life"]
 tags: ["single expat netherlands", "solo expat housing", "expat social life netherlands", "dating netherlands expat", "expat loneliness netherlands", "expat community netherlands"]

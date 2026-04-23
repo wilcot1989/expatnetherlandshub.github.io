@@ -1,7 +1,7 @@
 ---
 title: "ONVZ vs Aetna International: Expat Health Insurance (2026)"
 date: 2026-03-20T10:00:00+01:00
-lastmod: 2026-03-20T10:00:00+01:00
+lastmod: 2026-04-23T10:00:00+01:00
 description: "ONVZ vs Aetna International health insurance compared for expats in the Netherlands. Premiums, coverage, and which to choose in 2026."
 categories: ["health"]
 tags: ["ONVZ", "Aetna", "health insurance", "international insurance", "expat insurance"]

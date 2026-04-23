@@ -1,7 +1,7 @@
 ---
 title: "Netherlands vs Canada for Expats 2026"
 date: 2026-03-18T10:00:00+01:00
-lastmod: 2026-03-18T10:00:00+01:00
+lastmod: 2026-04-23T10:00:00+01:00
 description: "Netherlands vs Canada for expats 2026: cost of living, tax, healthcare, housing, weather, and immigration compared to help you choose."
 categories: ["integration"]
 tags: ["netherlands vs canada", "expat comparison", "living in canada", "living in netherlands", "move to canada", "expat europe", "kennismigrant", "express entry"]

@@ -1,7 +1,7 @@
 ---
 title: "Moving to Enschede: Expat Guide 2026"
 date: 2026-06-24T10:00:00+01:00
-lastmod: 2026-06-24T10:00:00+01:00
+lastmod: 2026-04-23T10:00:00+01:00
 description: "Expat guide to Enschede 2026: University of Twente, tech employers, affordable housing, best neighbourhoods, and German border life covered in detail."
 categories: ["housing"]
 tags: ["moving to enschede", "enschede expat guide", "university of twente", "enschede housing", "twente tech valley", "enschede netherlands"]

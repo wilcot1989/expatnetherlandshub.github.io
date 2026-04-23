@@ -1,7 +1,7 @@
 ---
 title: "Bunq Review 2026: Is It Worth It for Expats?"
 date: 2026-05-29T10:00:00+01:00
-lastmod: 2026-05-29T10:00:00+01:00
+lastmod: 2026-04-23T10:00:00+01:00
 description: "A full bunq review from an expat perspective — pricing, features, sub-accounts, iDEAL, and how it compares to ING, ABN AMRO, Wise, and Revolut."
 categories: ["finance"]
 tags: ["bunq", "bank", "fintech", "expat banking"]

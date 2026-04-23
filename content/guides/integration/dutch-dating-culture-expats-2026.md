@@ -1,7 +1,7 @@
 ---
 title: "Dutch Dating Culture: What Expats Need to Know"
 date: 2026-05-28T10:00:00+01:00
-lastmod: 2026-05-28T10:00:00+01:00
+lastmod: 2026-04-23T10:00:00+01:00
 description: "Dutch dating culture for expats: going Dutch, the Tikkie after dinner, directness in relationships, and why living together before marriage is the norm."
 categories: ["integration"]
 tags: ["dating", "Dutch culture", "relationships", "social life"]

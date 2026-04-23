@@ -1,7 +1,7 @@
 ---
 title: "Best Dutch Apps Every Expat Needs (2026)"
 date: 2026-06-18T10:00:00+01:00
-lastmod: 2026-06-18T10:00:00+01:00
+lastmod: 2026-04-23T10:00:00+01:00
 description: "Must-have Dutch apps for expats 2026: Tikkie, Buienradar, 9292, NS, DigiD, Funda, iDEAL and more — what each does and whether it's free."
 categories: ["daily-life"]
 tags: ["apps", "Dutch apps", "Tikkie", "Buienradar", "9292"]

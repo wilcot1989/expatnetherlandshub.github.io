@@ -1,7 +1,7 @@
 ---
 title: "Dutch Food Culture Explained for Expats 2026"
 date: 2026-03-18T10:00:00+01:00
-lastmod: 2026-03-18T10:00:00+01:00
+lastmod: 2026-04-23T10:00:00+01:00
 description: "An honest guide to Dutch food culture for expats. From hagelslag and stamppot to Albert Heijn vs Jumbo, borrels, and why lunch is a broodje at your desk."
 categories: ["daily-life"]
 tags: ["dutch food culture", "dutch food expat", "stamppot", "hagelslag", "dutch supermarkets", "borrel", "bitterballen", "dutch meal times"]

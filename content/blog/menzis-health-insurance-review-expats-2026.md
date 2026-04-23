@@ -1,7 +1,7 @@
 ---
 title: "Menzis Health Insurance Review for Expats 2026"
 date: 2026-03-22T10:00:00+01:00
-lastmod: 2026-03-22T10:00:00+01:00
+lastmod: 2026-04-23T10:00:00+01:00
 description: "Honest Menzis health insurance review for expats in 2026. Premiums, coverage, supplementary options, and how it compares to other Dutch health insurers."
 categories: ["health"]
 tags: ["Menzis", "health insurance Netherlands", "zorgverzekering review", "expat insurance Netherlands", "Dutch healthcare"]

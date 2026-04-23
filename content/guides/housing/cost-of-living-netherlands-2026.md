@@ -1,7 +1,7 @@
 ---
 title: "Cost of Living in the Netherlands 2026: Complete Breakdown"
 date: 2026-03-04T10:00:00+01:00
-lastmod: 2026-03-04T10:00:00+01:00
+lastmod: 2026-04-23T10:00:00+01:00
 description: "Complete breakdown of living costs in the Netherlands for 2026. Rent, groceries, transport, insurance, and monthly budgets for expats."
 categories: ["relocation"]
 tags: ["cost of living netherlands", "expat budget netherlands", "rent amsterdam", "living expenses netherlands", "30 percent ruling", "monthly costs netherlands"]

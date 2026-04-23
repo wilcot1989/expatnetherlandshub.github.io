@@ -1,7 +1,7 @@
 ---
 title: "Childcare in Netherlands: Costs + Options 2026"
 date: 2026-03-22T08:20:00+01:00
-lastmod: 2026-03-22T08:20:00+01:00
+lastmod: 2026-04-23T10:00:00+01:00
 description: "Full guide to childcare in the Netherlands for expats in 2026: daycare, after-school care, costs, kinderopvangtoeslag, and how to find a place."
 categories: ["health"]
 tags: ["childcare", "kinderopvang", "daycare", "expat family", "netherlands family", "kinderopvangtoeslag", "BSO"]

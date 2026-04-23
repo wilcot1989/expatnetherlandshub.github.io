@@ -1,7 +1,7 @@
 ---
 title: "Dutch Healthcare in English: Practical Guide"
 date: 2026-06-15T10:00:00+01:00
-lastmod: 2026-06-15T10:00:00+01:00
+lastmod: 2026-04-23T10:00:00+01:00
 description: "Find an English-speaking GP, handle Dutch pharmacies, and manage hospital visits without Dutch — practical guide with vocabulary, directories, and scripts."
 categories: ["health"]
 tags: ["healthcare", "English", "medical", "huisarts", "hospital"]

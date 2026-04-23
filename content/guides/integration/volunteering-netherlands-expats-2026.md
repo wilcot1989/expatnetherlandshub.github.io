@@ -1,7 +1,7 @@
 ---
 title: "Volunteering in Netherlands: Expat Guide"
 date: 2026-03-18T10:00:00+01:00
-lastmod: 2026-03-18T10:00:00+01:00
+lastmod: 2026-04-23T10:00:00+01:00
 description: "Volunteering in the Netherlands as an expat 2026: how to find opportunities, visa rules, types of work, language tips, and why it accelerates integration."
 categories: ["integration"]
 tags: ["volunteering", "vrijwilligerswerk", "community", "integration", "social", "expat"]

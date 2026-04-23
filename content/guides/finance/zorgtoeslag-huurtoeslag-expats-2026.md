@@ -2,7 +2,7 @@
 title: "Zorgtoeslag & Huurtoeslag: Dutch Benefits for Expats (2026)"
 slug: "zorgtoeslag-huurtoeslag-expats-2026"
 date: 2026-04-13T10:00:00+01:00
-lastmod: 2026-04-13T10:00:00+01:00
+lastmod: 2026-04-23T10:00:00+01:00
 description: "Zorgtoeslag and huurtoeslag explained for expats in the Netherlands. Income limits, eligibility rules, how to apply at Belastingdienst, and the 30% ruling impact."
 categories: ["finance"]
 tags: ["zorgtoeslag", "huurtoeslag", "dutch benefits", "toeslagen", "expat netherlands", "healthcare allowance", "rent allowance"]

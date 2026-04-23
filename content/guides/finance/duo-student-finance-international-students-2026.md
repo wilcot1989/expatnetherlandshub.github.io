@@ -1,7 +1,7 @@
 ---
 title: "DUO Student Finance Netherlands 2026 Guide"
 date: 2026-03-18T10:00:00+01:00
-lastmod: 2026-03-18T10:00:00+01:00
+lastmod: 2026-04-23T10:00:00+01:00
 type: "guide"
 description: "Can international students get DUO finance in the Netherlands? Full 2026 guide: basisbeurs, OV-kaart, loans, repayment, and how to apply via MijnDUO."
 categories: ["finance"]

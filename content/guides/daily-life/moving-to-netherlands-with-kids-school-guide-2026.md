@@ -1,7 +1,7 @@
 ---
 title: "Moving to NL with Kids: School Guide 2026"
 date: 2026-03-18T10:00:00+01:00
-lastmod: 2026-03-18T10:00:00+01:00
+lastmod: 2026-04-23T10:00:00+01:00
 description: "Schooling guide when moving to the Netherlands with children 2026. Dutch vs international schools, costs, waiting lists, and what expat parents need."
 categories: ["daily-life"]
 tags: ["schools Netherlands", "international schools", "Dutch schools", "expat kids", "basisschool", "education Netherlands"]

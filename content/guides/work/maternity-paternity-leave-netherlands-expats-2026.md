@@ -1,7 +1,7 @@
 ---
 title: "Maternity & Paternity Leave Netherlands 2026"
 date: 2026-06-14T10:00:00+01:00
-lastmod: 2026-06-14T10:00:00+01:00
+lastmod: 2026-04-23T10:00:00+01:00
 description: "16 weeks maternity at 100% pay, 5 weeks partner leave at 70% — what Dutch parental leave covers, how to apply, and what expats often get wrong."
 categories: ["work"]
 tags: ["maternity leave", "paternity leave", "parental leave", "zwangerschapsverlof"]

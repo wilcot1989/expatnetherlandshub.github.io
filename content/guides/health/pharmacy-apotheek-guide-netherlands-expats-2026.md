@@ -1,7 +1,7 @@
 ---
 title: "Dutch Pharmacy Guide: Apotheek for Expats 2026"
 date: 2026-03-18T10:00:00+01:00
-lastmod: 2026-03-18T10:00:00+01:00
+lastmod: 2026-04-23T10:00:00+01:00
 type: "guide"
 description: "How Dutch pharmacies work for expats: prescriptions, OTC rules, repeat prescriptions, online pharmacies, and medication coverage under Dutch insurance."
 categories: ["health"]

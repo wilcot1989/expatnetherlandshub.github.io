@@ -1,7 +1,7 @@
 ---
 title: "How to Find a Job in the Netherlands 2026"
 date: 2026-03-22T10:00:00+01:00
-lastmod: 2026-03-22T10:00:00+01:00
+lastmod: 2026-04-23T10:00:00+01:00
 description: "Complete guide to finding a job in the Netherlands as an expat. Job boards, visa rules, salary norms, Dutch CV tips, and what recruiters actually want."
 categories: ["work"]
 tags: ["job hunting", "Netherlands work", "expat career", "work permit", "Dutch labour market"]

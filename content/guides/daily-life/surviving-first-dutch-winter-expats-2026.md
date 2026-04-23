@@ -1,7 +1,7 @@
 ---
 title: "Surviving Your First Dutch Winter as an Expat (2026 Guide)"
 date: 2026-05-31T10:00:00+01:00
-lastmod: 2026-05-31T10:00:00+01:00
+lastmod: 2026-04-23T10:00:00+01:00
 description: "Dark by 4:30pm, constant rain, everyone still cycling. What to expect from a Dutch winter as an expat — and how to get through it well."
 categories: ["daily-life"]
 tags: ["winter", "weather", "SAD", "cycling", "practical tips"]

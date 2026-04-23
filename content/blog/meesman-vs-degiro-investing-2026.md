@@ -2,7 +2,7 @@
 title: "Meesman vs DEGIRO: Best Dutch Investing 2026"
 description: "Meesman vs DEGIRO compared: fees, funds, ease of use, and which platform suits expats in the Netherlands best for long-term index fund investing in 2026."
 date: 2026-03-22
-lastmod: 2026-03-22
+lastmod: 2026-04-23T10:00:00+01:00
 author: "Sarah van den Berg"
 categories: ["finance"]
 tags: ["meesman", "degiro", "investing", "netherlands", "expats", "ETF", "index funds", "comparison"]

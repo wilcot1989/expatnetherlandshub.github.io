@@ -2,7 +2,7 @@
 title: "Dutch Nationality: Become a Dutch Citizen as an Expat"
 slug: "dutch-nationality-guide-expats-2026"
 date: 2026-04-03T10:00:00+01:00
-lastmod: 2026-04-03
+lastmod: 2026-04-23T10:00:00+01:00
 draft: false
 author: "Sarah van den Berg"
 author_bio: "Expat coach and relocation specialist. Half Dutch, half British, living in the Netherlands for over 10 years."

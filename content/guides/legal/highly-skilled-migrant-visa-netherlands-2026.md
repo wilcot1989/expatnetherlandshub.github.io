@@ -1,7 +1,7 @@
 ---
 title: "Highly Skilled Migrant Visa Netherlands 2026: Full Guide"
 date: 2026-03-06T10:00:00+01:00
-lastmod: 2026-03-06T10:00:00+01:00
+lastmod: 2026-04-23T10:00:00+01:00
 description: "Complete guide to the Dutch Highly Skilled Migrant (Kennismigrant) visa in 2026. Salary requirements, application process, and timeline explained."
 categories: ["relocation"]
 tags: ["highly skilled migrant", "kennismigrant", "work visa", "IND", "immigration"]

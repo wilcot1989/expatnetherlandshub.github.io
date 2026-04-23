@@ -1,7 +1,7 @@
 ---
 title: "Dutch Customs & Birthday Traditions for Expats"
 date: 2026-03-18T10:00:00+01:00
-lastmod: 2026-03-18T10:00:00+01:00
+lastmod: 2026-04-23T10:00:00+01:00
 description: "Dutch birthday customs for expats: the verjaardagskring, bringing your own cake to work, congratulating the whole family, birthday songs, and name days."
 categories: ["daily-life"]
 tags: ["birthday", "dutch customs", "traditions", "culture", "integration", "verjaardagskring"]

@@ -1,7 +1,7 @@
 ---
 title: "Netherlands vs Australia for Expats 2026"
 date: 2026-03-22T10:00:00+01:00
-lastmod: 2026-03-22T10:00:00+01:00
+lastmod: 2026-04-23T10:00:00+01:00
 description: "Netherlands vs Australia for expats 2026: cost of living, salaries, healthcare, visas, and quality of life compared honestly."
 categories: ["integration"]
 tags: ["Netherlands vs Australia", "expat comparison", "moving to Netherlands", "expat life", "country comparison"]

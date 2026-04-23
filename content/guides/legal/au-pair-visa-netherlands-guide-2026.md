@@ -1,7 +1,7 @@
 ---
 title: "Au Pair Visa Netherlands 2026 Guide"
 date: 2026-03-18T10:00:00+01:00
-lastmod: 2026-03-18T10:00:00+01:00
+lastmod: 2026-04-23T10:00:00+01:00
 description: "Au pair visa Netherlands 2026: eligibility, application steps, host family rules, pocket money, working hours, and health insurance explained."
 categories: ["legal"]
 tags: ["au pair", "visa", "residence permit", "host family", "young adults"]

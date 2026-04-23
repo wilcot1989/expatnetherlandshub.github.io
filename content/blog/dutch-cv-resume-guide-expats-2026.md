@@ -1,7 +1,7 @@
 ---
 title: "How to Write a Dutch CV: Expat Guide 2026"
 date: 2026-03-22T10:00:00+01:00
-lastmod: 2026-03-22T10:00:00+01:00
+lastmod: 2026-04-23T10:00:00+01:00
 description: "Write a Dutch CV that gets interviews. Expat guide covering format, photo rules, length, cover letters, and what Dutch recruiters actually look for."
 categories: ["work"]
 tags: ["Dutch CV", "resume Netherlands", "job application Netherlands", "expat career", "Dutch job market"]

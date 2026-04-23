@@ -2,7 +2,7 @@
 title: "Moving to Breda as an Expat: Complete City Guide 2026"
 slug: "moving-to-breda-guide-2026"
 date: 2026-03-07T10:00:00+01:00
-lastmod: 2026-03-07T10:00:00+01:00
+lastmod: 2026-04-23T10:00:00+01:00
 categories: ["housing"]
 tags: ["breda", "city guide", "expat", "brabant", "relocation", "north brabant"]
 author: "Sarah van den Berg"

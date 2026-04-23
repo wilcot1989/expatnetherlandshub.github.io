@@ -1,7 +1,7 @@
 ---
 title: "Moving to Almere as an Expat: Complete City Guide 2026"
 date: 2026-03-18T10:00:00+01:00
-lastmod: 2026-03-18T10:00:00+01:00
+lastmod: 2026-04-23T10:00:00+01:00
 description: "Moving to Almere in 2026? Honest expat guide: housing costs, neighbourhoods, transport to Amsterdam, and life in the Netherlands' newest city."
 categories: ["housing"]
 tags: ["Almere", "city guide", "moving to Almere", "expat Almere", "affordable Netherlands", "Flevoland"]

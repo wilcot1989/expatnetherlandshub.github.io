@@ -1,7 +1,7 @@
 ---
 title: "Shopping in Netherlands: Expat Store Guide"
 date: 2026-03-18T10:00:00+01:00
-lastmod: 2026-03-18T10:00:00+01:00
+lastmod: 2026-04-23T10:00:00+01:00
 description: "Shopping guide for expats in the Netherlands. HEMA, Action, Coolblue, Bol.com, kringloopwinkels, Marktplaats — where to buy everything and what it costs."
 categories: ["daily-life"]
 tags: ["shopping Netherlands", "HEMA", "Bol.com", "Coolblue", "expat shopping", "kringloopwinkel"]

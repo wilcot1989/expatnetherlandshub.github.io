@@ -1,7 +1,7 @@
 ---
 title: "Dutch Box 3 Tax 2026: How Savings and Investments Are Taxed"
 date: 2026-03-26T09:00:00+02:00
-lastmod: 2026-03-26T09:00:00+02:00
+lastmod: 2026-04-23T10:00:00+01:00
 description: "How Box 3 tax works on savings and investments in the Netherlands. 2026 rates, thresholds, worked examples and legal ways to reduce your tax bill."
 categories: ["finance"]
 tags: ["tax", "Box 3", "savings tax", "investment tax", "wealth tax Netherlands"]

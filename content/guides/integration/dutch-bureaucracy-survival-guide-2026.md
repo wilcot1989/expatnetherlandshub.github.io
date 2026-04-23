@@ -1,7 +1,7 @@
 ---
 title: "Dutch Bureaucracy: Expat Survival Guide 2026"
 date: 2026-03-18T10:00:00+01:00
-lastmod: 2026-03-18T10:00:00+01:00
+lastmod: 2026-04-23T10:00:00+01:00
 description: "Surviving Dutch bureaucracy as an expat. What the gemeente, Belastingdienst, UWV, IND, and DigiD do — and how to deal with them without losing your mind."
 categories: ["integration"]
 tags: ["dutch bureaucracy", "gemeente", "belastingdienst", "DigiD", "IND", "UWV", "expat netherlands admin", "dutch government services"]

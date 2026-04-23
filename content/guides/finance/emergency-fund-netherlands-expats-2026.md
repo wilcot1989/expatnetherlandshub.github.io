@@ -1,7 +1,7 @@
 ---
 title: "Emergency Fund Netherlands: Expat Guide 2026"
 date: 2026-06-25T10:00:00+01:00
-lastmod: 2026-06-25T10:00:00+01:00
+lastmod: 2026-04-23T10:00:00+01:00
 description: "How much emergency fund do expats in the Netherlands need? The 3-6 month rule, where to save (bunq, Raisin), box 3 tax on savings, and repatriation costs."
 categories: ["finance"]
 tags: ["emergency fund netherlands", "expat savings netherlands", "bunq savings", "raisin netherlands", "box 3 savings tax", "expat financial planning"]

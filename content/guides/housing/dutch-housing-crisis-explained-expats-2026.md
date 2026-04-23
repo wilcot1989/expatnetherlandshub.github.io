@@ -1,7 +1,7 @@
 ---
 title: "Dutch Housing Crisis Explained for Expats 2026"
 date: 2026-06-19T10:00:00+01:00
-lastmod: 2026-06-19T10:00:00+01:00
+lastmod: 2026-04-23T10:00:00+01:00
 description: "The Dutch housing crisis explained for expats: puntensysteem, regulated vs free sector rental market, and what housing scarcity means for you."
 categories: ["housing"]
 tags: ["housing crisis", "rental market", "woningnood", "housing shortage"]

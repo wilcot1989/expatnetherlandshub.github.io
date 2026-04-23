@@ -1,7 +1,7 @@
 ---
 title: "Revolut Review Netherlands 2026: Honest Verdict"
 date: 2026-04-04T10:00:00+01:00
-lastmod: 2026-04-04T10:00:00+01:00
+lastmod: 2026-04-23T10:00:00+01:00
 description: "Revolut has great features but one big problem in the Netherlands: its Lithuanian IBAN is rejected by many employers and landlords. Full honest review."
 categories: ["finance"]
 tags: ["Revolut", "fintech", "expat banking", "money transfer", "bank account"]

@@ -2,7 +2,7 @@
 title: "Tax for Freelancers (ZZP) in Netherlands 2026"
 slug: "tax-freelancers-zzp-netherlands-2026"
 date: 2026-05-14T10:00:00+01:00
-lastmod: 2026-05-14T10:00:00+01:00
+lastmod: 2026-04-23T10:00:00+01:00
 author: "Sarah van den Berg"
 author_bio: "Expat coach and relocation specialist. Half Dutch, half British, living in the Netherlands for over 10 years."
 description: "Complete tax guide for ZZP freelancers in the Netherlands 2026: BTW registration, IB aangifte, zelfstandigenaftrek, KOR, and what you can deduct."

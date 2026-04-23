@@ -1,7 +1,7 @@
 ---
 title: "Recycling in the Netherlands: Expat Guide"
 date: 2026-06-28T10:00:00+01:00
-lastmod: 2026-06-28T10:00:00+01:00
+lastmod: 2026-04-23T10:00:00+01:00
 description: "Dutch recycling for expats 2026: PMD, paper, glass, GFT, statiegeld deposit return, kringloop thrift shops, Milieupas, and reading your afvalkalender."
 categories: ["daily-life"]
 tags: ["recycling netherlands", "dutch waste sorting", "statiegeld netherlands", "kringloop shop", "pmd recycling netherlands", "afvalkalender"]

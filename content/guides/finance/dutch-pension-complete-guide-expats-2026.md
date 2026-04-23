@@ -1,7 +1,7 @@
 ---
 title: "Dutch Pension for Expats 2026: AOW, Transfers & More"
 date: 2026-03-26T10:00:00+01:00
-lastmod: 2026-03-26T10:00:00+01:00
+lastmod: 2026-04-23T10:00:00+01:00
 description: "Complete guide to the Dutch pension system for expats. AOW state pension, occupational pensions, how much you build up, and what happens when you leave."
 categories: ["finance"]
 tags: ["pension", "AOW", "retirement", "expat pension", "pension transfer"]

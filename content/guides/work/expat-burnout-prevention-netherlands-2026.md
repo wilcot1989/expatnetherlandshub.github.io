@@ -1,7 +1,7 @@
 ---
 title: "Preventing Expat Burnout in Netherlands 2026"
 date: 2026-03-18T10:00:00+01:00
-lastmod: 2026-03-18T10:00:00+01:00
+lastmod: 2026-04-23T10:00:00+01:00
 description: "Prevent expat burnout in the Netherlands 2026: warning signs, Dutch winter coping, mental health support, and practical wellbeing strategies."
 categories: ["work"]
 tags: ["burnout", "mental health", "expat wellbeing", "work-life balance", "stress", "self-care"]

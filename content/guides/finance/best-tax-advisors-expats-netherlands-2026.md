@@ -1,7 +1,7 @@
 ---
 title: "Best Tax Advisors for Expats in the Netherlands 2026"
 date: 2026-05-15T10:00:00+01:00
-lastmod: 2026-05-15T10:00:00+01:00
+lastmod: 2026-04-23T10:00:00+01:00
 description: "Best English-speaking tax advisors for expats in the Netherlands 2026: who needs one, which firms specialise in expat tax, and what it costs."
 categories: ["finance"]
 tags: ["tax advisor", "accountant", "expat tax", "tax return", "30% ruling"]

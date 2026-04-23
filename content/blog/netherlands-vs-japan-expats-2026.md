@@ -2,7 +2,7 @@
 title: "Netherlands vs Japan for Expats 2026"
 description: "Netherlands vs Japan for expats: an honest comparison of costs, visas, culture, healthcare, and day-to-day life for those choosing between the two in 2026."
 date: 2026-03-22
-lastmod: 2026-03-22
+lastmod: 2026-04-23T10:00:00+01:00
 author: "Sarah van den Berg"
 categories: ["integration"]
 tags: ["netherlands", "japan", "expats", "comparison", "moving", "relocation", "asia"]

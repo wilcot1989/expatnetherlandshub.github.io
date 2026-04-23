@@ -1,7 +1,7 @@
 ---
 title: "Best Dutch Health Insurance Plans 2026 Compared"
 date: 2026-03-22T10:00:00+01:00
-lastmod: 2026-03-22T10:00:00+01:00
+lastmod: 2026-04-23T10:00:00+01:00
 description: "Compare the best Dutch health insurance plans for expats in 2026. Premiums, coverage, eigen risico, and which insurer suits your situation."
 categories: ["health"]
 tags: ["health insurance", "zorgverzekering", "expat insurance Netherlands", "Dutch healthcare", "Independer"]

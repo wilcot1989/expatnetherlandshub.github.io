@@ -1,7 +1,7 @@
 ---
 title: "Unemployment Benefits (WW) Netherlands 2026"
 date: 2026-03-22T08:25:00+01:00
-lastmod: 2026-03-22T08:25:00+01:00
+lastmod: 2026-04-23T10:00:00+01:00
 description: "How Dutch unemployment benefits (WW-uitkering) work for expats in 2026: eligibility, how much you get, how long, and how to apply via UWV."
 categories: ["work"]
 tags: ["unemployment benefits", "WW-uitkering", "UWV", "dutch employment", "expat work rights", "social security netherlands"]

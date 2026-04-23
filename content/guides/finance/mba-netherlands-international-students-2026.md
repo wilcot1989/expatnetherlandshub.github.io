@@ -1,7 +1,7 @@
 ---
 title: "MBA in the Netherlands 2026: Top Programs"
 date: 2026-03-18T10:00:00+01:00
-lastmod: 2026-03-18T10:00:00+01:00
+lastmod: 2026-04-23T10:00:00+01:00
 description: "MBA in the Netherlands 2026: RSM, TIAS, Amsterdam compared. Costs, scholarships, visas, working rights, and money management for international students."
 categories: ["finance"]
 tags: ["mba", "business school", "university", "student", "visa", "finance"]

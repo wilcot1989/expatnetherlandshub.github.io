@@ -2,7 +2,7 @@
 title: "Maastricht Expat Guide 2026: Living, Working & Costs"
 description: "Complete expat guide to Maastricht in 2026. Burgundian lifestyle, affordable rent, Belgian and German border perks, neighbourhoods, and practical tips for expats."
 date: 2026-03-06T10:00:00+01:00
-lastmod: 2026-03-06
+lastmod: 2026-04-23T10:00:00+01:00
 featured_image: "/images/featured/maastricht.webp"
 author: "Sarah van den Berg"
 categories: ["cities"]

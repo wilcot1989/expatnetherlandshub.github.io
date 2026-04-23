@@ -2,7 +2,7 @@
 title: "Best Dutch Phone Plans for Expats in 2026"
 slug: "best-dutch-phone-plans-expats-2026"
 date: 2026-04-17T10:00:00+01:00
-lastmod: 2026-04-17T10:00:00+01:00
+lastmod: 2026-04-23T10:00:00+01:00
 draft: false
 type: "guide"
 categories: ["daily-life"]

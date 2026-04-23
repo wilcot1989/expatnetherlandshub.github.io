@@ -1,7 +1,7 @@
 ---
 title: "Subletting in Netherlands: Rules for Expats 2026"
 date: 2026-03-18T10:00:00+01:00
-lastmod: 2026-03-18T10:00:00+01:00
+lastmod: 2026-04-23T10:00:00+01:00
 type: "guide"
 description: "When subletting is legal in the Netherlands, Airbnb city rules, how to sublet with permission, and what happens if you sublet illegally. Expat guide 2026."
 categories: ["housing"]

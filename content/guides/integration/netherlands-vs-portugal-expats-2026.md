@@ -1,7 +1,7 @@
 ---
 title: "Netherlands vs Portugal for Expats 2026"
 date: 2026-03-18T10:00:00+01:00
-lastmod: 2026-03-18T10:00:00+01:00
+lastmod: 2026-04-23T10:00:00+01:00
 description: "Netherlands vs Portugal for expats 2026: costs, salaries, taxes, healthcare, visa routes, language, climate, and quality of life compared honestly."
 categories: ["integration"]
 tags: ["netherlands vs portugal", "expat comparison", "cost of living", "tax", "visa", "quality of life"]

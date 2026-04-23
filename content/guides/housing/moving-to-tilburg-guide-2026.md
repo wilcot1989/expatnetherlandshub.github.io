@@ -1,7 +1,7 @@
 ---
 title: "Moving to Tilburg: Expat Guide 2026"
 date: 2026-06-11T10:00:00+01:00
-lastmod: 2026-06-11T10:00:00+01:00
+lastmod: 2026-04-23T10:00:00+01:00
 description: "Expat guide to Tilburg 2026: neighbourhoods, rent prices, major employers, Brabant culture, and daily life in this affordable university city."
 categories: ["housing"]
 tags: ["Tilburg", "moving", "housing", "city guide"]

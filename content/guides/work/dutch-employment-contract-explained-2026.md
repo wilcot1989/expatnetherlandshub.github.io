@@ -1,7 +1,7 @@
 ---
 title: "Dutch Employment Contracts: What Every Expat Must Know"
 date: 2026-03-29T10:00:00+01:00
-lastmod: 2026-03-29T10:00:00+01:00
+lastmod: 2026-04-23T10:00:00+01:00
 description: "Dutch employment contracts explained for expats. Contract types, notice periods, probation rules, holiday allowance (vakantiegeld), and your legal rights as an employee."
 categories: ["work"]
 tags: ["employment contract", "arbeidsovereenkomst", "labour law", "work rights", "vakantiegeld"]

@@ -1,7 +1,7 @@
 ---
 title: "Inburgeringsexamen 2026: Preparation Guide for Expats"
 date: 2026-03-02T10:00:00+01:00
-lastmod: 2026-03-02T10:00:00+01:00
+lastmod: 2026-04-23T10:00:00+01:00
 description: "Complete guide to the Dutch inburgeringsexamen. Exam components, study materials, costs, exemptions, and preparation tips for 2026."
 categories: ["language"]
 tags: ["inburgeringsexamen", "dutch integration exam", "inburgering", "civic integration", "learn dutch", "KNM exam", "ONA exam"]

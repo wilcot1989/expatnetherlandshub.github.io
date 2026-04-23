@@ -1,7 +1,7 @@
 ---
 title: "English-Speaking Dentist in Netherlands 2026"
 date: 2026-06-09T10:00:00+01:00
-lastmod: 2026-06-09T10:00:00+01:00
+lastmod: 2026-04-23T10:00:00+01:00
 description: "Find an English-speaking tandarts in the Netherlands: register at a practice, understand dental costs, emergency care, and dental insurance options."
 categories: ["health"]
 tags: ["dentist", "tandarts", "dental care", "healthcare"]

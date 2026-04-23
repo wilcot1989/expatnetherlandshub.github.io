@@ -1,7 +1,7 @@
 ---
 title: "Best Ways to Send Money from the Netherlands in 2026"
 date: 2026-05-18T10:00:00+01:00
-lastmod: 2026-05-18T10:00:00+01:00
+lastmod: 2026-04-23T10:00:00+01:00
 description: "Best ways to send money from the Netherlands in 2026. Compare Wise, Revolut, bank transfers, and Remitly on real cost, speed, and hidden fees."
 categories: ["finance"]
 tags: ["money transfer", "Wise", "Revolut", "remittance", "international transfer"]

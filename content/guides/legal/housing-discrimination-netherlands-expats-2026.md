@@ -1,7 +1,7 @@
 ---
 title: "Housing Discrimination Netherlands: Know Your Rights"
 date: 2026-05-24T10:00:00+01:00
-lastmod: 2026-05-24T10:00:00+01:00
+lastmod: 2026-04-23T10:00:00+01:00
 description: "Facing housing discrimination as an expat in the Netherlands? Know your rights on IBAN rejection, nationality-based refusals, and how to report it."
 categories: ["legal"]
 tags: ["housing discrimination", "rental rights", "IBAN discrimination", "expat rights"]

@@ -1,7 +1,7 @@
 ---
 title: "Moving to Leiden as an Expat: Complete City Guide 2026"
 date: 2026-03-07T10:00:00+01:00
-lastmod: 2026-03-07T10:00:00+01:00
+lastmod: 2026-04-23T10:00:00+01:00
 description: "Complete guide to moving to Leiden as an expat. Housing, neighbourhoods, university life, transport links, and cost of living in 2026."
 categories: ["housing"]
 tags: ["Leiden", "city guide", "moving to Leiden", "expat Leiden", "university city"]

@@ -1,7 +1,7 @@
 ---
 title: "Netherlands vs Spain for Expats 2026"
 date: 2026-03-18T10:00:00+01:00
-lastmod: 2026-03-18T10:00:00+01:00
+lastmod: 2026-04-23T10:00:00+01:00
 type: "guide"
 description: "Netherlands vs Spain for expats in 2026: cost of living, taxes, healthcare, work culture, housing, weather, and which country suits your expat lifestyle."
 categories: ["integration"]

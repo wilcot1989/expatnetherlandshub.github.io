@@ -1,7 +1,7 @@
 ---
 title: "30% Ruling in 2026: Still Worth It?"
 date: 2026-06-30T10:00:00+01:00
-lastmod: 2026-06-30T10:00:00+01:00
+lastmod: 2026-04-23T10:00:00+01:00
 description: "Is the 30% ruling still worth it after the 30/20/10 step-down and 5-year cap? Real calculations per salary level show when it matters and when it doesn't."
 categories: ["finance"]
 tags: ["30 percent ruling 2026", "30 ruling step down", "dutch tax ruling worth it", "30 ruling calculation", "expat tax netherlands 2026"]

@@ -1,7 +1,7 @@
 ---
 title: "Best Cities in the Netherlands for Expats: 2026 Rankings"
 date: 2026-03-07T10:00:00+01:00
-lastmod: 2026-03-07T10:00:00+01:00
+lastmod: 2026-04-23T10:00:00+01:00
 description: "The 8 best Dutch cities for expats in 2026. Compare rent, jobs, English-friendliness, and quality of life in Amsterdam, Rotterdam, The Hague, and more."
 categories: ["housing"]
 tags: ["best cities", "expat life", "amsterdam", "rotterdam", "the hague", "utrecht", "eindhoven", "groningen", "leiden", "maastricht"]

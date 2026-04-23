@@ -1,7 +1,7 @@
 ---
 title: "Best Savings Account Netherlands 2026 for Expats"
 date: 2026-07-16T10:00:00+01:00
-lastmod: 2026-07-16T10:00:00+01:00
+lastmod: 2026-04-23T10:00:00+01:00
 description: "I compared 7 savings accounts in the Netherlands for expats. Actual 2026 interest rates, tax rules, and which spaarrekening is worth opening."
 categories: ["finance"]
 tags: ["savings account", "spaarrekening", "expat banking", "interest rates", "box 3", "deposit guarantee", "wise", "bunq", "ing", "raisin"]

@@ -1,7 +1,7 @@
 ---
 title: "Find an English-Speaking Doctor in the Netherlands (2026)"
 date: 2026-05-01T10:00:00+01:00
-lastmod: 2026-05-01T10:00:00+01:00
+lastmod: 2026-04-23T10:00:00+01:00
 type: "guide"
 description: "How to find and register with an English-speaking GP (huisarts) in the Netherlands. Tips for Amsterdam, Rotterdam, The Hague, and other Dutch cities."
 categories: ["health"]

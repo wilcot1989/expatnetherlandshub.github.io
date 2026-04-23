@@ -1,7 +1,7 @@
 ---
 title: "Netherlands vs China for Expats 2026"
 date: 2026-03-22T10:00:00+01:00
-lastmod: 2026-03-22T10:00:00+01:00
+lastmod: 2026-04-23T10:00:00+01:00
 description: "Netherlands vs China for expats 2026: salaries, cost of living, internet freedom, healthcare, and quality of life compared honestly."
 categories: ["integration"]
 tags: ["Netherlands vs China", "expat comparison", "living in China", "expat life Netherlands", "country comparison"]

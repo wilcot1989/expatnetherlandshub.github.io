@@ -1,7 +1,7 @@
 ---
 title: "Moving to Eindhoven 2026: Complete Expat Guide"
 date: 2026-03-06T10:00:00+01:00
-lastmod: 2026-03-06T10:00:00+01:00
+lastmod: 2026-04-23T10:00:00+01:00
 description: "Complete guide to moving to Eindhoven as an expat. Neighborhoods, tech industry, housing, costs, and practical tips for the Netherlands' Silicon Valley."
 categories: ["housing"]
 tags: ["Eindhoven", "expat guide", "tech hub", "Brainport", "relocation"]

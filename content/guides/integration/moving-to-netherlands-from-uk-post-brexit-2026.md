@@ -1,7 +1,7 @@
 ---
 title: "Moving to NL from UK Post-Brexit 2026"
 date: 2026-03-18T10:00:00+01:00
-lastmod: 2026-03-18T10:00:00+01:00
+lastmod: 2026-04-23T10:00:00+01:00
 description: "Post-Brexit guide for British expats in the Netherlands 2026. Visa options, driving licence, healthcare, banking, pension, and tax explained."
 categories: ["integration"]
 tags: ["Brexit", "UK expat", "Netherlands visa", "DAFT visa", "HSM visa", "British expat Netherlands"]

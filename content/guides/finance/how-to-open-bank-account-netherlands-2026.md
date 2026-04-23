@@ -1,7 +1,7 @@
 ---
 title: "How to Open a Dutch Bank Account as an Expat (2026 Guide)"
 date: 2026-03-07T10:00:00+01:00
-lastmod: 2026-03-30T10:00:00+01:00
+lastmod: 2026-04-23T10:00:00+01:00
 description: "Open a Dutch bank account without a BSN — here is how. Options for expats before and after BSN registration, including Wise, bunq, ING, and ABN AMRO."
 categories: ["finance"]
 tags: ["bank account", "expat banking", "wise", "bunq", "ing netherlands", "abn amro", "revolut"]

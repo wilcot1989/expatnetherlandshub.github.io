@@ -1,7 +1,7 @@
 ---
 title: "Dutch Health Insurance for Expats: Complete Guide 2026"
 date: 2026-02-24T10:00:00+01:00
-lastmod: 2026-03-18T10:00:00+01:00
+lastmod: 2026-04-23T10:00:00+01:00
 description: "Everything expats need to know about Dutch health insurance in 2026: basisverzekering, eigen risico, zorgtoeslag, and how to choose."
 categories: ["finance"]
 tags: ["dutch health insurance", "basisverzekering", "zorgtoeslag", "expat insurance", "eigen risico", "health insurance netherlands"]

@@ -1,7 +1,7 @@
 ---
 title: "VGZ Health Insurance Review for Expats 2026"
 date: 2026-03-22T10:00:00+01:00
-lastmod: 2026-03-22T10:00:00+01:00
+lastmod: 2026-04-23T10:00:00+01:00
 description: "Honest VGZ health insurance review for expats in 2026. Premiums, sub-brands, supplementary cover, employer schemes, and how VGZ compares to rivals."
 categories: ["health"]
 tags: ["VGZ", "health insurance Netherlands", "zorgverzekering review", "expat insurance Netherlands", "Dutch healthcare"]

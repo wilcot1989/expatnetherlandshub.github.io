@@ -1,7 +1,7 @@
 ---
 title: "Bunq vs N26 for Expats in the Netherlands: 2026 Guide"
 date: 2026-03-11T10:00:00+01:00
-lastmod: 2026-03-11T10:00:00+01:00
+lastmod: 2026-04-23T10:00:00+01:00
 description: "Bunq vs N26 compared for expats living in the Netherlands. IBAN type, iDEAL support, fees, features, and which digital bank to pick in 2026."
 categories: ["finance"]
 tags: ["bunq", "N26", "digital bank", "neobank", "expat banking"]

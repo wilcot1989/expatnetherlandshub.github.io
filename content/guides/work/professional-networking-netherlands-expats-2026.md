@@ -1,7 +1,7 @@
 ---
 title: "Networking in Netherlands: Expat Guide 2026"
 date: 2026-03-18T10:00:00+01:00
-lastmod: 2026-03-18T10:00:00+01:00
+lastmod: 2026-04-23T10:00:00+01:00
 description: "How to build a professional network in the Netherlands as an expat. Dutch networking culture, events, LinkedIn tips, and city-by-city scene guide."
 categories: ["work"]
 tags: ["networking", "expat jobs", "LinkedIn", "career Netherlands", "professional events"]

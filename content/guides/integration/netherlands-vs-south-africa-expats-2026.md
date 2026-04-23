@@ -1,7 +1,7 @@
 ---
 title: "Netherlands vs South Africa for Expats 2026"
 date: 2026-03-18T10:00:00+01:00
-lastmod: 2026-03-18T10:00:00+01:00
+lastmod: 2026-04-23T10:00:00+01:00
 type: "guide"
 description: "Moving from South Africa to the Netherlands? Honest comparison of salaries, cost of living, safety, healthcare, and the growing SA→NL tech corridor."
 categories: ["integration"]

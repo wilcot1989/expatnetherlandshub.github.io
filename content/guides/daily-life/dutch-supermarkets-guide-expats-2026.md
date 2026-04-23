@@ -1,7 +1,7 @@
 ---
 title: "Dutch Supermarkets Ranked: Complete Guide for Expats (2026)"
 date: 2026-03-23T10:00:00+01:00
-lastmod: 2026-03-23T10:00:00+01:00
+lastmod: 2026-04-23T10:00:00+01:00
 description: "Honest ranking of Dutch supermarkets for expats. Albert Heijn, Jumbo, Lidl, PLUS, Dirk — prices, quality, and international products compared."
 categories: ["daily-life"]
 tags: ["supermarkets", "grocery", "Albert Heijn", "Jumbo", "shopping Netherlands"]

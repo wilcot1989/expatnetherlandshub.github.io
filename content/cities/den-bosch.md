@@ -2,7 +2,7 @@
 title: "Den Bosch Expat Guide 2026: Living, Working & Costs"
 description: "Complete expat guide to Den Bosch ('s-Hertogenbosch) in 2026. Rent prices, neighbourhoods, jobs, registration, and practical tips."
 date: 2026-03-07T10:00:00+01:00
-lastmod: 2026-03-07
+lastmod: 2026-04-23T10:00:00+01:00
 featured_image: "/images/featured/den-bosch.webp"
 author: "Sarah van den Berg"
 categories: ["cities"]
