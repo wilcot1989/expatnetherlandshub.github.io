@@ -111,6 +111,35 @@
   }
   </script>
   {{ end }}
+  {{ if .Params.products }}
+  <script type="application/ld+json">
+  {
+    "@context": "https://schema.org",
+    "@type": "ItemList",
+    "itemListOrder": "https://schema.org/ItemListOrderDescending",
+    "numberOfItems": {{ len .Params.products }},
+    "itemListElement": [
+      {{ range $i, $p := .Params.products }}{{ if $i }},{{ end }}
+      {
+        "@type": "ListItem",
+        "position": {{ add $i 1 }},
+        "item": {
+          "@type": "Product",
+          "name": {{ $p.name | jsonify }},
+          "url": {{ $p.url | jsonify }}{{ with $p.price }},
+          "offers": {
+            "@type": "Offer",
+            "price": {{ . | jsonify }},
+            "priceCurrency": "EUR",
+            "availability": "https://schema.org/InStock",
+            "url": {{ $p.url | jsonify }}
+          }{{ end }}
+        }
+      }{{ end }}
+    ]
+  }
+  </script>
+  {{ end }}
   {{ end }}
 
   <!-- BreadcrumbList JSON-LD -->
