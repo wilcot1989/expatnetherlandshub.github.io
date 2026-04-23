@@ -624,17 +624,22 @@
       }
     });
 
-    /* ── GA4 affiliate click tracking ── */
-    document.querySelectorAll('.cta-affiliate').forEach(function(el){
-      el.addEventListener('click', function(){
-        if(typeof gtag === 'function'){
-          gtag('event', 'affiliate_click', {
-            'event_category': 'affiliate',
-            'event_label': el.textContent.trim(),
-            'transport_type': 'beacon'
-          });
-        }
-      });
+    /* ── GA4 affiliate click tracking (rich payload) ── */
+    document.addEventListener('click', function(e){
+      var link = e.target.closest('.cta-affiliate');
+      if(!link) return;
+      if(typeof gtag === 'function'){
+        var dest = '';
+        try { dest = new URL(link.href).hostname; } catch(_) {}
+        gtag('event', 'affiliate_click', {
+          'event_category': 'affiliate',
+          'event_label': link.textContent.replace(/\s+/g,' ').trim(),
+          'product': link.textContent.replace(/Try |Visit |Open |→|&rarr;/g,'').trim(),
+          'destination': dest,
+          'article': window.location.pathname,
+          'transport_type': 'beacon'
+        });
+      }
     });
   })();
   </script>
