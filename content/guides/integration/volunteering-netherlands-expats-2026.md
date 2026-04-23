@@ -5,7 +5,7 @@ lastmod: 2026-03-18T10:00:00+01:00
 description: "Volunteering in the Netherlands as an expat 2026: how to find opportunities, visa rules, types of work, language tips, and why it accelerates integration."
 categories: ["integration"]
 tags: ["volunteering", "vrijwilligerswerk", "community", "integration", "social", "expat"]
-keywords: ["volunteering netherlands expats", "vrijwilligerswerk nederland", "volunteer expat netherlands 2026", "how to volunteer netherlands", "expat community netherlands"]
+keywords: ["volunteering netherlands expats", "volunteer expat netherlands 2026", "how to volunteer netherlands", "expat community netherlands"]
 affiliate: false
 author: "Sarah van den Berg"
 author_bio: "Expat coach and relocation specialist. Half Dutch, half British, living in the Netherlands for over 10 years."

@@ -5,7 +5,7 @@ lastmod: 2026-07-17T10:00:00+02:00
 description: "The 10 best free resources to learn Dutch online in 2026. Apps, podcasts, TV, university courses, and communities reviewed by an expat."
 categories: ["integration"]
 tags: ["learn dutch free", "free dutch course", "learn dutch online", "dutch language free", "duolingo dutch", "free dutch lessons", "learn dutch 2026"]
-keywords: ["learn dutch free online", "learn dutch free 2026", "free dutch lessons online", "dutch language free course", "gratis nederlands leren", "learn dutch for free"]
+keywords: ["learn dutch free online", "learn dutch free 2026", "free dutch lessons online", "dutch language free course", "learn dutch for free"]
 affiliate: true
 author: "Sarah van den Berg"
 author_bio: "Expat coach and relocation specialist. Half Dutch, half British, living in the Netherlands for over 10 years."

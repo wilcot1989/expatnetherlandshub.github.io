@@ -5,7 +5,7 @@ lastmod: 2026-04-23T10:00:00+01:00
 description: "English-language guide: best bank in the Netherlands for expats in 2026. I compared 7 banks on fees, English app support, and no-BSN options. Wise, bunq, ING, ABN AMRO, Revolut, N26 and Rabobank reviewed."
 categories: ["finance"]
 tags: ["dutch bank account", "expat banking", "wise", "bunq", "n26", "ing netherlands", "abn amro", "best bank"]
-keywords: ["best bank netherlands 2026", "beste bank nederland 2026", "best bank expats netherlands", "dutch bank account expat", "open bank account netherlands", "best bank netherlands english", "expat banking netherlands 2026", "best bank netherlands for expats"]
+keywords: ["best bank netherlands 2026", "best bank expats netherlands", "dutch bank account expat", "open bank account netherlands", "best bank netherlands english", "expat banking netherlands 2026", "best bank netherlands for expats"]
 affiliate: true
 author: "Sarah van den Berg"
 author_bio: "Expat coach and relocation specialist. Half Dutch, half British, living in the Netherlands for over 10 years."

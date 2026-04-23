@@ -5,7 +5,7 @@ lastmod: 2026-03-18T10:00:00+01:00
 description: "Buying a house in the Netherlands as an expat in 2026: the full process, costs, overbidding, mortgages, and the mistakes to avoid."
 categories: ["finance"]
 tags: ["buying house netherlands", "expat property", "koopwoning", "dutch housing market", "expat mortgage", "makelaar", "notaris", "overbieden"]
-keywords: ["buying house netherlands expat 2026", "huis kopen als expat nederland", "overdrachtsbelasting 2026", "koopovereenkomst netherlands", "overbieden netherlands 2026", "aankoopmakelaar expat", "bouwkundige keuring netherlands", "notaris costs buying house netherlands", "expat buying property netherlands", "NHG 2026 house purchase", "ontbindende voorwaarden explained", "first time buyer netherlands expat"]
+keywords: ["buying house netherlands expat 2026", "overdrachtsbelasting 2026", "koopovereenkomst netherlands", "overbieden netherlands 2026", "aankoopmakelaar expat", "bouwkundige keuring netherlands", "notaris costs buying house netherlands", "expat buying property netherlands", "NHG 2026 house purchase", "ontbindende voorwaarden explained", "first time buyer netherlands expat"]
 affiliate: true
 author: "Sarah van den Berg"
 author_bio: "Expat coach and relocation specialist. Half Dutch, half British, living in the Netherlands for over 10 years."

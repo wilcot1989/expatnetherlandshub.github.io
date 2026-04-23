@@ -5,7 +5,7 @@ lastmod: 2026-03-30T10:00:00+01:00
 description: "Open a Dutch bank account without a BSN — here is how. Options for expats before and after BSN registration, including Wise, bunq, ING, and ABN AMRO."
 categories: ["finance"]
 tags: ["bank account", "expat banking", "wise", "bunq", "ing netherlands", "abn amro", "revolut"]
-keywords: ["open bank account netherlands expat", "how to open bank account netherlands", "dutch bank account expat", "bank account without BSN", "open dutch bank account from abroad", "joint bank account netherlands", "student bank account netherlands", "non resident bank account netherlands", "banking without bsn netherlands", "open bank account without bsn", "dutch bank account no bsn", "nederlandse bankrekening openen als expat", "bankrekening openen nederland"]
+keywords: ["open bank account netherlands expat", "how to open bank account netherlands", "dutch bank account expat", "bank account without BSN", "open dutch bank account from abroad", "joint bank account netherlands", "student bank account netherlands", "non resident bank account netherlands", "banking without bsn netherlands", "open bank account without bsn", "dutch bank account no bsn", "nederlandse bankrekening openen als expat"]
 affiliate: true
 author: "Sarah van den Berg"
 author_bio: "Expat coach and relocation specialist. Half Dutch, half British, living in the Netherlands for over 10 years."
