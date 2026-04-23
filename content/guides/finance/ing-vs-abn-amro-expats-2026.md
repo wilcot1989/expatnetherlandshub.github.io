@@ -381,6 +381,9 @@ Neither ING nor ABN AMRO has a particularly strong offering for ZZP freelancers 
 ## Related Guides
 
 - [Best Bank Accounts for Expats in the Netherlands (2026)](/guides/finance/best-bank-account-expats-netherlands-2026/)
+- [Best Savings Accounts in the Netherlands for Expats 2026](/guides/finance/best-savings-account-netherlands-2026/)
+- [Wise vs Revolut vs Bunq: three-way comparison](/guides/finance/wise-vs-revolut-vs-bunq-expats-2026/)
+- [Best way to send money from the Netherlands](/guides/finance/best-way-send-money-from-netherlands-2026/)
 - [BSN Registration Guide: How to Get Your Dutch Citizen Number](/guides/legal/bsn-registration-guide-2026/)
 - [Wise vs Revolut for Expats in the Netherlands](/guides/finance/wise-vs-revolut-netherlands-2026/)
 - [The 30% Ruling Explained: What It Means for Your Salary and Taxes](/guides/finance/30-percent-ruling-netherlands-2026/)

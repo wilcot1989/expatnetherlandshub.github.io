@@ -422,3 +422,6 @@ If you are moving from the US, UK, or Australia — countries with mature credit
 **No concept of a "secured" credit card.** In the US, expats often use secured credit cards to build credit history from scratch. The Netherlands has no equivalent product. Dutch credit access is based on income verification and employment stability, not a credit score building process. Focus on stable income rather than trying to build credit score equivalents.
 
 - [Best finance apps for expats](/guides/finance/best-finance-apps-expats-netherlands-2026/) — the full toolkit for managing money in the Netherlands
+- [Best savings accounts in the Netherlands for expats](/guides/finance/best-savings-account-netherlands-2026/) — where to park the money you are not spending on credit
+- [Best way to send money from the Netherlands](/guides/finance/best-way-send-money-from-netherlands-2026/) — because credit cards are not the cheapest way to transfer
+- [Wise vs Revolut vs Bunq three-way comparison](/guides/finance/wise-vs-revolut-vs-bunq-expats-2026/) — decide between the digital alternatives

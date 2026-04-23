@@ -357,9 +357,12 @@ Upgrade Revolut to paid if you travel more than 6 times a year and value the ins
 ## Related Guides
 
 - [Best bank accounts for expats in the Netherlands 2026](/guides/finance/best-bank-account-expats-netherlands-2026/)
+- [Wise vs Revolut vs Bunq three-way comparison for expats](/guides/finance/wise-vs-revolut-vs-bunq-expats-2026/)
 - [ING vs ABN AMRO: which Dutch bank for expats?](/guides/finance/ing-vs-abn-amro-expats-2026/)
 - [Bunq vs N26 in the Netherlands](/guides/finance/bunq-vs-n26-expats-netherlands-2026/)
 - [Best international money transfer services in the Netherlands](/guides/finance/best-international-money-transfer-netherlands-2026/)
+- [The best way to send money from the Netherlands in 2026](/guides/finance/best-way-send-money-from-netherlands-2026/)
+- [Best savings accounts in the Netherlands for expats](/guides/finance/best-savings-account-netherlands-2026/)
 - [Complete guide to moving to the Netherlands](/guides/legal/complete-guide-moving-to-netherlands-2026/)
 - [The 30% ruling explained](/guides/finance/30-percent-ruling-netherlands-2026/)
 - [Find the right bank account with the Bank Account Chooser](/tools/bank-account-chooser/)

@@ -28,6 +28,14 @@ Dutch pension law is complex, especially if you move between countries mid-caree
 
 ## Money Transfers
 
-Sending money between the Netherlands and your home country regularly? The difference between using your bank and a dedicated transfer service like Wise can add up to hundreds of euros per year. I compare the main options on fees, exchange rates, and transfer speed.
+Sending money between the Netherlands and your home country regularly? The difference between using your bank and a dedicated transfer service like Wise can add up to hundreds of euros per year. Start with my overview of the [best international money transfer services from the Netherlands](/guides/finance/best-international-money-transfer-netherlands-2026/) and the [best way to send money from the Netherlands](/guides/finance/best-way-send-money-from-netherlands-2026/), plus the three-way comparison [Wise vs Revolut vs Bunq for expats](/guides/finance/wise-vs-revolut-vs-bunq-expats-2026/).
+
+## Savings and Emergency Funds
+
+Where to park your savings matters more than most expats realise. Dutch banks pay almost nothing, but Box 3 tax still applies. Read the [best savings accounts in the Netherlands for expats](/guides/finance/best-savings-account-netherlands-2026/) and my [emergency fund guide](/guides/finance/emergency-fund-netherlands-expats-2026/) to decide how much cash to keep liquid and where.
+
+## Student Finance
+
+If you are studying here, I cover finance routes for [international students doing an MBA](/guides/finance/mba-netherlands-international-students-2026/) and [PhD researchers](/guides/finance/phd-netherlands-international-researchers-2026/), including DUO student finance eligibility, scholarships, and banking as a student.
 
 Use the [salary checker](/tools/salary-checker/) to understand your Dutch net pay before diving into the individual guides.

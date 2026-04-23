@@ -453,4 +453,4 @@ My practical tip: screenshot your Wise IBAN before you land. Your letting agent,
 
 ---
 
-*Looking for more on managing money as an expat in the Netherlands? See the [complete guide to moving to the Netherlands](/guides/legal/complete-guide-moving-to-netherlands-2026/) and the [best international money transfer services](/guides/finance/best-international-money-transfer-netherlands-2026/).*
+*Looking for more on managing money as an expat in the Netherlands? See the [complete guide to moving to the Netherlands](/guides/legal/complete-guide-moving-to-netherlands-2026/), the [best international money transfer services](/guides/finance/best-international-money-transfer-netherlands-2026/), my review of the [best savings accounts for expats](/guides/finance/best-savings-account-netherlands-2026/), and the [Wise vs Revolut vs Bunq three-way comparison](/guides/finance/wise-vs-revolut-vs-bunq-expats-2026/) if you are deciding between the digital options.*
