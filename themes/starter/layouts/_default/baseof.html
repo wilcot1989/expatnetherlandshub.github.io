@@ -624,17 +624,30 @@
       }
     });
 
-    /* ── GA4 affiliate click tracking (rich payload) ── */
+    /* ── GA4 outbound + affiliate click tracking ── */
     document.addEventListener('click', function(e){
-      var link = e.target.closest('.cta-affiliate');
-      if(!link) return;
-      if(typeof gtag === 'function'){
-        var dest = '';
-        try { dest = new URL(link.href).hostname; } catch(_) {}
+      var link = e.target.closest('a[href]');
+      if(!link || typeof gtag !== 'function') return;
+      var href = link.getAttribute('href') || '';
+      if(!/^https?:\/\//i.test(href)) return;
+      var dest = '';
+      try { dest = new URL(link.href).hostname; } catch(_) { return; }
+      if(dest === location.hostname) return;
+      var isAffiliate = !!link.closest('.cta-affiliate') || /awin1\.com|wise\.com\/invite|nordvpn\.com\/.*aff_id|safetywing\.com\/.*referenceID|impactradius|sjv\.io|preply\.sjv|notion\.so\/.*affiliate|partnerstack/i.test(link.href);
+      var label = (link.textContent||'').replace(/\s+/g,' ').trim();
+      gtag('event', 'outbound_click', {
+        'event_category': isAffiliate ? 'affiliate' : 'outbound',
+        'event_label': label.slice(0,100),
+        'destination': dest,
+        'article': window.location.pathname,
+        'is_affiliate': isAffiliate,
+        'transport_type': 'beacon'
+      });
+      if(isAffiliate){
         gtag('event', 'affiliate_click', {
           'event_category': 'affiliate',
-          'event_label': link.textContent.replace(/\s+/g,' ').trim(),
-          'product': link.textContent.replace(/Try |Visit |Open |→|&rarr;/g,'').trim(),
+          'event_label': label,
+          'product': label.replace(/Try |Visit |Open |→|&rarr;/g,'').trim(),
           'destination': dest,
           'article': window.location.pathname,
           'transport_type': 'beacon'
