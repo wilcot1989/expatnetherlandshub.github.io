@@ -25,11 +25,11 @@ faq:
     a: "Yes, but international bank transfers between EUR and AUD have wide margins at traditional banks. Using Wise for EUR–AUD transfers gives you the real mid-market exchange rate with a small transparent fee, saving significantly compared to bank rates — typically 3–5% cheaper than a major bank. If you are maintaining finances in both countries, Wise's multi-currency account lets you hold, convert, and send between EUR and AUD without needing a separate Australian bank account."
 products:
   - name: "Wise"
-    url: "https://wise.com/invite/ihpc/willemt52"
+    url: "https://go.expatnetherlandshub.com/wise?ref=/blog/netherlands-vs-australia-expats-2026/"
     price: "0.00"
     tag: "Currency Transfer"
   - name: "SafetyWing"
-    url: "https://safetywing.com/?referenceID=26482728"
+    url: "https://go.expatnetherlandshub.com/safetywing?ref=/blog/netherlands-vs-australia-expats-2026/"
     price: "0.00"
     tag: "Expat Insurance"
 ---
@@ -217,7 +217,7 @@ Standard bank transfers for EUR–AUD conversions typically use exchange rates 2
 
 **Wise** uses the real mid-market exchange rate with a transparent fee of around 0.4–0.7% for EUR–AUD transfers. On a EUR 10,000 transfer, the saving versus a bank is typically EUR 150–350. For regular transfers, this adds up significantly over a year.
 
-<a href="https://wise.com/invite/ihpc/willemt52" rel="noopener nofollow sponsored" class="cta-affiliate">Open a Wise account for cheap EUR–AUD money transfers</a>
+<a href="https://go.expatnetherlandshub.com/wise?ref=/blog/netherlands-vs-australia-expats-2026/" rel="noopener nofollow sponsored" class="cta-affiliate">Open a Wise account for cheap EUR–AUD money transfers</a>
 
 Wise's multi-currency account also lets you hold both EUR and AUD balances, receive money in either currency, and convert when the rate suits you — useful if you are transitioning between countries or maintaining accounts in both.
 

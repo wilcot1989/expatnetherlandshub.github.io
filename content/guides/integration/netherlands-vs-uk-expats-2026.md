@@ -284,7 +284,7 @@ The UK, despite its current political and economic turbulence, remains a cultura
 
 One practical reality for British expats in the Netherlands is the ongoing need to move money between GBP and EUR — whether managing UK pensions, paying UK mortgages, or sending money to family. Exchange rates move, bank fees add up, and the wrong approach can cost hundreds of pounds per year.
 
-I use <a href="https://wise.com/invite/ihpc/willemt52" rel="noopener nofollow sponsored" target="_blank">Wise</a> for all my GBP-EUR transfers. The exchange rate is the real mid-market rate, fees are transparent and low (typically 0.3–0.6%), and transfers usually arrive within hours. If you are moving to the Netherlands from the UK and need to transfer savings, pay a UK mortgage while renting in the Netherlands, or receive GBP income in a EUR account, Wise is the most cost-effective option I have found.
+I use <a href="https://go.expatnetherlandshub.com/wise?ref=/guides/integration/netherlands-vs-uk-expats-2026/" rel="noopener nofollow sponsored" target="_blank">Wise</a> for all my GBP-EUR transfers. The exchange rate is the real mid-market rate, fees are transparent and low (typically 0.3–0.6%), and transfers usually arrive within hours. If you are moving to the Netherlands from the UK and need to transfer savings, pay a UK mortgage while renting in the Netherlands, or receive GBP income in a EUR account, Wise is the most cost-effective option I have found.
 
 For a Dutch bank account, most expats use ING, ABN AMRO, or Bunq (the most international-friendly option). You will need a BSN (citizen service number) to open a bank account in the Netherlands, which requires registration at your local gemeente.
 

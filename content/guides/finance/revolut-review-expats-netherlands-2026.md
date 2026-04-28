@@ -12,7 +12,7 @@ author_bio: "Expat coach and relocation specialist. Half Dutch, half British, li
 featured_image: "/images/categories/finance.svg"
 products:
   - name: "Wise"
-    url: "https://wise.com/invite/ihpc/willemt52"
+    url: "https://go.expatnetherlandshub.com/wise?ref=/guides/finance/revolut-review-expats-netherlands-2026/"
     price: "0.00"
   - name: "bunq"
     url: "https://www.bunq.com/"
@@ -206,7 +206,7 @@ Since these are the two most popular fintech options for expats in the Netherlan
 | **Monthly fee** | Free–EUR 15.99 | Free |
 | **Customer support** | In-app chat | Email + phone (paid) |
 
-My honest take: for anything connected to Dutch life — salary, rent, utilities, direct debits — use <a href="https://wise.com/invite/ihpc/willemt52" target="_blank" rel="noopener nofollow sponsored" class="cta-affiliate">Use Wise for international transfers →</a>. Wise's Belgian IBAN is accepted by significantly more Dutch employers than Revolut's Lithuanian one, and for regular international transfers the fees are transparent and typically lower.
+My honest take: for anything connected to Dutch life — salary, rent, utilities, direct debits — use <a href="https://go.expatnetherlandshub.com/wise?ref=/guides/finance/revolut-review-expats-netherlands-2026/" target="_blank" rel="noopener nofollow sponsored" class="cta-affiliate">Use Wise for international transfers →</a>. Wise's Belgian IBAN is accepted by significantly more Dutch employers than Revolut's Lithuanian one, and for regular international transfers the fees are transparent and typically lower.
 
 Use Revolut for what it does well: travel, multi-currency spending, day-to-day budgeting alongside your main account, and currency exchange when you are not moving large sums.
 
@@ -302,7 +302,7 @@ This is your administrative anchor. Salary goes here. Rent direct debit comes fr
 Monthly cost: EUR 2–6.
 
 **Layer 2: Wise**
-Your international transfer layer. When you need to send money to the UK, India, the US, or anywhere else, you send it via <a href="https://wise.com/invite/ihpc/willemt52" target="_blank" rel="noopener nofollow sponsored" class="cta-affiliate">Use Wise for international transfers →</a> rather than through your Dutch bank. The rates are dramatically better and the fees are transparent. Wise also serves as a backup account with a European IBAN if your Dutch bank has issues.
+Your international transfer layer. When you need to send money to the UK, India, the US, or anywhere else, you send it via <a href="https://go.expatnetherlandshub.com/wise?ref=/guides/finance/revolut-review-expats-netherlands-2026/" target="_blank" rel="noopener nofollow sponsored" class="cta-affiliate">Use Wise for international transfers →</a> rather than through your Dutch bank. The rates are dramatically better and the fees are transparent. Wise also serves as a backup account with a European IBAN if your Dutch bank has issues.
 
 Monthly cost: Free (pay per transfer).
 

@@ -15,7 +15,7 @@ products:
     url: "https://www.degiro.nl/"
     price: "0.00"
   - name: "Wise"
-    url: "https://wise.com/invite/ihpc/willemt52"
+    url: "https://go.expatnetherlandshub.com/wise?ref=/guides/finance/investing-netherlands-expats-2026/"
     price: "0.00"
   - name: "bunq"
     url: "https://www.bunq.com/"

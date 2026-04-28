@@ -12,7 +12,7 @@ author_bio: "Expat coach and relocation specialist. Half Dutch, half British, li
 featured_image: "/images/categories/finance.svg"
 products:
   - name: "Wise"
-    url: "https://wise.com/invite/ihpc/willemt52"
+    url: "https://go.expatnetherlandshub.com/wise?ref=/guides/finance/how-expats-claim-dutch-benefits-toeslagen-2026/"
     price: "0.00"
   - name: "bunq"
     url: "https://www.bunq.com/"

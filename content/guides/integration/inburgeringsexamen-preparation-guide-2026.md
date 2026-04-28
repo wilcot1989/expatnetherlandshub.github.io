@@ -33,7 +33,7 @@ products:
     url: "https://www.dutchpod101.com/"
     price: "0.00"
   - name: "Preply"
-    url: "https://preply.sjv.io/bkazQk"
+    url: "https://go.expatnetherlandshub.com/preply?ref=/guides/integration/inburgeringsexamen-preparation-guide-2026/"
     price: "0.00"
 ---
 

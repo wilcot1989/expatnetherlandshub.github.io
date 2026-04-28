@@ -9,7 +9,7 @@ keywords: ["ZZP Netherlands", "freelancer Netherlands guide", "self-employed exp
 affiliate: true
 products:
   - name: "Wise"
-    url: "https://wise.com/invite/ihpc/willemt52"
+    url: "https://go.expatnetherlandshub.com/wise?ref=/guides/work/freelancer-zzp-guide-netherlands-2026/"
     price: "0.00"
   - name: "LinkedIn Premium"
     url: "https://www.linkedin.com/premium/"
@@ -345,7 +345,7 @@ If your professional qualifications were obtained outside the EU, some clients o
 
 ### Money Transfers
 
-For international money transfers (receiving payments from abroad, paying suppliers), use <a href="https://wise.com/invite/ihpc/willemt52" rel="noopener nofollow sponsored" target="_blank">Wise</a> to avoid high bank fees. Dutch banks charge 2-5% in hidden exchange rate markups — Wise charges the real exchange rate plus a small transparent fee.
+For international money transfers (receiving payments from abroad, paying suppliers), use <a href="https://go.expatnetherlandshub.com/wise?ref=/guides/work/freelancer-zzp-guide-netherlands-2026/" rel="noopener nofollow sponsored" target="_blank">Wise</a> to avoid high bank fees. Dutch banks charge 2-5% in hidden exchange rate markups — Wise charges the real exchange rate plus a small transparent fee.
 
 If you work remotely from coworking spaces or cafés, you will regularly be accessing tax portals, accounting software, and client systems over shared WiFi. A VPN keeps that traffic private. <a href="https://go.nordvpn.net/aff_c?offer_id=612&aff_id=141337&url_id=14830" rel="noopener nofollow sponsored" target="_blank">Stay secure on public WiFi with NordVPN →</a> For a guide to the best coworking spaces across Dutch cities — including day pass options and spaces with strong freelancer communities — see our [best coworking spaces in the Netherlands guide](/guides/work/best-coworking-spaces-netherlands-2026/).
 

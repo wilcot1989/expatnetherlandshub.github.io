@@ -196,7 +196,7 @@ Open a Wise account if you have not already. Wise gives you:
 
 For many British expats, Wise solves the "keep a UK account" problem entirely — you have UK bank details without needing a UK bank to maintain an account for you.
 
-<a href="https://wise.com/invite/ihpc/willemt52" target="_blank" rel="noopener nofollow sponsored" class="cta-affiliate">Open a Wise account →</a>
+<a href="https://go.expatnetherlandshub.com/wise?ref=/guides/integration/moving-to-netherlands-from-uk-post-brexit-2026/" target="_blank" rel="noopener nofollow sponsored" class="cta-affiliate">Open a Wise account →</a>
 
 ---
 
@@ -328,7 +328,7 @@ The British community in the Netherlands is substantial — estimates suggest 40
 
 For banking: Wise provides UK sort code + Belgian IBAN in one account, which is the most practical solution for British expats managing finances in both countries.
 
-<a href="https://wise.com/invite/ihpc/willemt52" target="_blank" rel="noopener nofollow sponsored" class="cta-affiliate">Open a Wise account →</a>
+<a href="https://go.expatnetherlandshub.com/wise?ref=/guides/integration/moving-to-netherlands-from-uk-post-brexit-2026/" target="_blank" rel="noopener nofollow sponsored" class="cta-affiliate">Open a Wise account →</a>
 
 For gap health coverage during your first weeks before Dutch insurance starts:
 

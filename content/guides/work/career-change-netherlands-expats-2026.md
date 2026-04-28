@@ -111,9 +111,9 @@ The process is genuinely simple. Visit a KvK (Kamer van Koophandel / Chamber of 
 
 The first six to twelve months of a ZZP career — especially one starting in a new sector — typically involve variable and sometimes international income. Invoicing clients in different currencies, receiving payments from international clients, and managing the gap between invoice and payment all benefit from good financial infrastructure.
 
-[Wise](https://wise.com/invite/ihpc/willemt52) is genuinely useful here. The multi-currency account allows you to hold balances in EUR, GBP, USD, and other currencies, and the business account supports invoicing and international transfers at mid-market exchange rates — significantly cheaper than Dutch banks for international transactions.
+[Wise](https://go.expatnetherlandshub.com/wise?ref=/guides/work/career-change-netherlands-expats-2026/) is genuinely useful here. The multi-currency account allows you to hold balances in EUR, GBP, USD, and other currencies, and the business account supports invoicing and international transfers at mid-market exchange rates — significantly cheaper than Dutch banks for international transactions.
 
-<a href="https://wise.com/invite/ihpc/willemt52" target="_blank" rel="noopener nofollow sponsored" class="cta-affiliate">Open a Wise account for your ZZP transition →</a>
+<a href="https://go.expatnetherlandshub.com/wise?ref=/guides/work/career-change-netherlands-expats-2026/" target="_blank" rel="noopener nofollow sponsored" class="cta-affiliate">Open a Wise account for your ZZP transition →</a>
 
 ### ZZP taxes during transition
 

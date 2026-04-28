@@ -256,8 +256,8 @@ The EUR-to-CAD rate fluctuates but has historically been in the range of 1 EUR =
 
 <div class="affiliate-cta">
   <h3>Send Money Between the Netherlands and Canada with Wise</h3>
-  <p><a href="https://wise.com/invite/ihpc/willemt52" target="_blank" rel="noopener nofollow sponsored">Wise</a> uses the real mid-market exchange rate with low, transparent fees — typically 0.4-1.5% of the transfer amount. For regular transfers on the EUR-CAD corridor, this can save hundreds of euros per year compared to bank wire transfers. You can hold both EUR and CAD in a single Wise multi-currency account, send money from your phone, and receive local account details in both currencies. Used by thousands of expats on the NL-Canada corridor.</p>
-  <a href="https://wise.com/invite/ihpc/willemt52" class="cta-button" target="_blank" rel="noopener nofollow sponsored">Open a Wise Account — No Monthly Fees</a>
+  <p><a href="https://go.expatnetherlandshub.com/wise?ref=/guides/integration/netherlands-vs-canada-expats-2026/" target="_blank" rel="noopener nofollow sponsored">Wise</a> uses the real mid-market exchange rate with low, transparent fees — typically 0.4-1.5% of the transfer amount. For regular transfers on the EUR-CAD corridor, this can save hundreds of euros per year compared to bank wire transfers. You can hold both EUR and CAD in a single Wise multi-currency account, send money from your phone, and receive local account details in both currencies. Used by thousands of expats on the NL-Canada corridor.</p>
+  <a href="https://go.expatnetherlandshub.com/wise?ref=/guides/integration/netherlands-vs-canada-expats-2026/" class="cta-button" target="_blank" rel="noopener nofollow sponsored">Open a Wise Account — No Monthly Fees</a>
 </div>
 
 For managing the financial side of the move — including setting up Dutch banking and understanding transfer options — the [best international money transfers from the Netherlands](/guides/finance/best-international-money-transfer-netherlands-2026/) guide covers the full range of options.

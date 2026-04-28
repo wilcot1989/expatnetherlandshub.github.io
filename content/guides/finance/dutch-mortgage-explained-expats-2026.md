@@ -12,7 +12,7 @@ author_bio: "Expat coach and relocation specialist. Half Dutch, half British, li
 featured_image: "/images/featured/dutch-mortgage-explained-expats-2026.webp"
 products:
   - name: "Wise"
-    url: "https://wise.com/invite/ihpc/willemt52"
+    url: "https://go.expatnetherlandshub.com/wise?ref=/guides/finance/dutch-mortgage-explained-expats-2026/"
     price: "0.00"
   - name: "bunq"
     url: "https://www.bunq.com/"
@@ -329,7 +329,7 @@ See our [guide to finding housing in the Netherlands](/guides/housing/finding-ho
 
 If you are transferring your deposit or purchase costs from a foreign bank account, use Wise to avoid the exchange rate markups Dutch banks add on international transfers — typically 2–4% on top of the mid-market rate.
 
-<a href="https://wise.com/invite/ihpc/willemt52" rel="noopener nofollow sponsored" target="_blank">Transfer your deposit internationally with Wise →</a>
+<a href="https://go.expatnetherlandshub.com/wise?ref=/guides/finance/dutch-mortgage-explained-expats-2026/" rel="noopener nofollow sponsored" target="_blank">Transfer your deposit internationally with Wise →</a>
 
 ### Step 4: Mortgage Application (Weeks 1–6 After Koopovereenkomst)
 

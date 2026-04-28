@@ -12,7 +12,7 @@ author_bio: "Expat coach and writer at ExpatNetherlandsHub.com"
 featured_image: "/images/categories/finance.svg"
 products:
   - name: "Wise"
-    url: "https://wise.com/invite/ihpc/willemt52"
+    url: "https://go.expatnetherlandshub.com/wise?ref=/blog/ing-vs-rabobank-expats-2026/"
     price: "0.00"
     tag: "Currency Transfer"
 faq:
@@ -90,7 +90,7 @@ This is where both ING and Rabobank show a significant weakness. ING charges **�
 
 Within the SEPA zone (EU + several neighbouring countries), ING SEPA transfers are free and fast (usually same-day or next-day). If your international transfers stay within Europe, this is not an issue. If you regularly send money to family outside Europe, or receive salary in a non-euro currency, the transfer costs add up quickly.
 
-I use [Wise](https://wise.com/invite/ihpc/willemt52) for all transfers outside the SEPA zone. Wise uses the mid-market exchange rate with a transparent fee that is typically 0.4–1.5% of the transferred amount — compared to an effective 2–4% with bank transfers when the exchange rate margin is included. More on this later.
+I use [Wise](https://go.expatnetherlandshub.com/wise?ref=/blog/ing-vs-rabobank-expats-2026/) for all transfers outside the SEPA zone. Wise uses the mid-market exchange rate with a transparent fee that is typically 0.4–1.5% of the transferred amount — compared to an effective 2–4% with bank transfers when the exchange rate margin is included. More on this later.
 
 ### English Customer Service
 
@@ -132,7 +132,7 @@ The app supports iDEAL and standard SEPA transfers. It is not as polished or fea
 
 ### International Transfers
 
-Rabobank's international transfer fees are similar to ING's: around **€5–€10 for SWIFT transfers**, plus an exchange rate margin. The same advice applies: use [Wise](https://wise.com/invite/ihpc/willemt52) for international transfers outside the SEPA zone.
+Rabobank's international transfer fees are similar to ING's: around **€5–€10 for SWIFT transfers**, plus an exchange rate margin. The same advice applies: use [Wise](https://go.expatnetherlandshub.com/wise?ref=/blog/ing-vs-rabobank-expats-2026/) for international transfers outside the SEPA zone.
 
 ### Mortgage Expertise
 
@@ -180,7 +180,7 @@ Over 12 months, that is €27.60 saved. Over three years, €82.80. Not a life-c
 
 Both ING and Rabobank charge €5–€10 for SWIFT transfers plus an undisclosed exchange rate spread. For a regular transfer of €500 to the UK, you might pay an effective €15–€20 in combined fees and rate margin at either bank.
 
-[Wise](https://wise.com/invite/ihpc/willemt52) transfers the same €500 for around €3–€8 total (depending on currency), using the mid-market rate. The saving is real and consistent. I use Wise for everything outside the SEPA zone — it is not a replacement for your Dutch current account, but a complement to it. See our full [Wise review for expats](/guides/finance/wise-review-expats-2026/) for a detailed breakdown of fees and use cases.
+[Wise](https://go.expatnetherlandshub.com/wise?ref=/blog/ing-vs-rabobank-expats-2026/) transfers the same €500 for around €3–€8 total (depending on currency), using the mid-market rate. The saving is real and consistent. I use Wise for everything outside the SEPA zone — it is not a replacement for your Dutch current account, but a complement to it. See our full [Wise review for expats](/guides/finance/wise-review-expats-2026/) for a detailed breakdown of fees and use cases.
 
 ### 5. Mortgage Services
 
@@ -224,7 +224,7 @@ For standard expat banking, ABN AMRO is a reasonable choice but does not clearly
 
 A Dutch bank account is not optional — you need one. iDEAL, the standard Dutch payment system for online purchases, rental deposits, and most bill payments, only works through Dutch bank accounts. This is non-negotiable.
 
-But your Dutch bank account does not need to handle everything. Here are the cases where adding [Wise](https://wise.com/invite/ihpc/willemt52) is worth it:
+But your Dutch bank account does not need to handle everything. Here are the cases where adding [Wise](https://go.expatnetherlandshub.com/wise?ref=/blog/ing-vs-rabobank-expats-2026/) is worth it:
 
 **You send money home regularly.** Whether it is support to family, mortgage payments on property abroad, or investing in your home country, ING and Rabobank will cost you significantly more per transfer than Wise. On a €1,000 transfer monthly, the saving is roughly €10–€20 per month.
 
@@ -308,7 +308,7 @@ For most expats arriving in the Netherlands, **ING is the better starting point*
 - English customer service is important to you
 - You are not buying property in the near term
 
-**In both cases:** add [Wise](https://wise.com/invite/ihpc/willemt52) for international transfers and foreign currency spending. Neither bank offers competitive rates for non-SEPA transfers, and the savings are real and ongoing.
+**In both cases:** add [Wise](https://go.expatnetherlandshub.com/wise?ref=/blog/ing-vs-rabobank-expats-2026/) for international transfers and foreign currency spending. Neither bank offers competitive rates for non-SEPA transfers, and the savings are real and ongoing.
 
 The ING vs Rabobank decision is less critical than expats sometimes make it. Both are reliable Dutch banks with solid infrastructure. Opening an account at ING, using Wise for international transfers, and revisiting Rabobank when a mortgage becomes relevant covers the vast majority of expat banking needs in the Netherlands.
 

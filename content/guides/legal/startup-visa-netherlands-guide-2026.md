@@ -177,7 +177,7 @@ On arrival (or after receiving your permit if already in the Netherlands legally
 2. Open a Dutch business bank account. The [ZZP business bank guide](/guides/finance/dutch-business-bank-account-zzp-2026/) covers options for newly registered companies.
 3. Arrange Dutch health insurance. As a legal resident, you are required to take out Dutch basic health insurance (basisverzekering). See the [Dutch health insurance guide for expats](/guides/health/dutch-health-insurance-guide-expats-2026/).
 
-<a href="https://wise.com/invite/ihpc/willemt52" target="_blank" rel="noopener nofollow sponsored" class="cta-affiliate">Open a Wise account to manage international payments and startup expenses →</a>
+<a href="https://go.expatnetherlandshub.com/wise?ref=/guides/legal/startup-visa-netherlands-guide-2026/" target="_blank" rel="noopener nofollow sponsored" class="cta-affiliate">Open a Wise account to manage international payments and startup expenses →</a>
 
 Wise is particularly useful in the startup year: you will likely be paying for international services, receiving income from clients outside the Netherlands, and managing currency exposure. The multi-currency account with real exchange rates reduces the cost of that complexity significantly compared to a standard Dutch business account.
 

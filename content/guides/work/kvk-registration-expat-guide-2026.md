@@ -9,7 +9,7 @@ keywords: ["KvK registration Netherlands expat", "how to register KvK Netherland
 affiliate: true
 products:
   - name: "Wise"
-    url: "https://wise.com/invite/ihpc/willemt52"
+    url: "https://go.expatnetherlandshub.com/wise?ref=/guides/work/kvk-registration-expat-guide-2026/"
     price: "0.00"
   - name: "LinkedIn Premium"
     url: "https://www.linkedin.com/premium/"

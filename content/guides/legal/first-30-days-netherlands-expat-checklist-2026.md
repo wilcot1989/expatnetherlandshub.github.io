@@ -15,7 +15,7 @@ products:
     url: "https://www.expatax.nl/"
     price: "0.00"
   - name: "Wise"
-    url: "https://wise.com/invite/ihpc/willemt52"
+    url: "https://go.expatnetherlandshub.com/wise?ref=/guides/legal/first-30-days-netherlands-expat-checklist-2026/"
     price: "0.00"
 author: "Sarah van den Berg"
 author_bio: "Expat coach and relocation specialist. Half Dutch, half British, living in the Netherlands for over 10 years."
@@ -106,7 +106,7 @@ I have a detailed comparison of [SafetyWing vs Cigna for expat insurance](/guide
 
 ### Open a Wise Account for International Transfers
 
-Before you leave, open a <a href="https://wise.com/invite/ihpc/willemt52" rel="noopener nofollow sponsored" class="cta-affiliate">Wise multi-currency account</a>. This is one of the most practically useful things you can do before your move, and it costs nothing to open.
+Before you leave, open a <a href="https://go.expatnetherlandshub.com/wise?ref=/guides/legal/first-30-days-netherlands-expat-checklist-2026/" rel="noopener nofollow sponsored" class="cta-affiliate">Wise multi-currency account</a>. This is one of the most practically useful things you can do before your move, and it costs nothing to open.
 
 Here is why it matters in those first weeks:
 

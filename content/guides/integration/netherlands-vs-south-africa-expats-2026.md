@@ -102,7 +102,7 @@ Over five years, the 30% ruling can add €25,000–47,000 to your take-home pay
 
 Use Wise to send money back to South Africa. At current rates, €1,000 converts to approximately R20,000–21,000. Wise charges 0.5–0.7% versus 2–4% at most banks — the difference is meaningful if you are remitting every month.
 
-<a href="https://wise.com/invite/ihpc/willemt52" target="_blank" rel="noopener nofollow sponsored" class="cta-affiliate">Send money to South Africa with Wise →</a>
+<a href="https://go.expatnetherlandshub.com/wise?ref=/guides/integration/netherlands-vs-south-africa-expats-2026/" target="_blank" rel="noopener nofollow sponsored" class="cta-affiliate">Send money to South Africa with Wise →</a>
 
 ---
 

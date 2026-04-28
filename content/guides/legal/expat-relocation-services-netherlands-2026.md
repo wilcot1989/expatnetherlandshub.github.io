@@ -93,7 +93,7 @@ Relocation companies can guide you through the sequence and help you open an acc
 
 My recommendation, regardless of whether you use a relocation service: set up a Wise account before you arrive. It works without a BSN, handles international transfers at fair mid-market exchange rates, and will carry you through the first weeks while you wait for everything else to fall into place.
 
-<a href="https://wise.com/invite/ihpc/willemt52" target="_blank" rel="noopener nofollow sponsored" class="cta-affiliate">Set up Wise before you arrive →</a>
+<a href="https://go.expatnetherlandshub.com/wise?ref=/guides/legal/expat-relocation-services-netherlands-2026/" target="_blank" rel="noopener nofollow sponsored" class="cta-affiliate">Set up Wise before you arrive →</a>
 
 Once you have your BSN, my [guide to bank accounts for expats in the Netherlands](/guides/finance/best-bank-account-expats-netherlands-2026/) walks you through which Dutch banks are actually worth opening an account with.
 

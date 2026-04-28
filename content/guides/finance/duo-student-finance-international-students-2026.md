@@ -13,7 +13,7 @@ author_bio: "Expat coach and relocation specialist. Half Dutch, half British, li
 featured_image: "/images/categories/finance.svg"
 products:
   - name: "Wise"
-    url: "https://wise.com/invite/ihpc/willemt52"
+    url: "https://go.expatnetherlandshub.com/wise?ref=/guides/finance/duo-student-finance-international-students-2026/"
     price: "0.00"
   - name: "bunq"
     url: "https://www.bunq.com/"
@@ -213,7 +213,7 @@ DUO pays into a Dutch bank account. You can in principle provide a foreign IBAN,
 
 Once you are receiving DUO payments and potentially sending money home, a multi-currency account simplifies the process considerably.
 
-<a href="https://wise.com/invite/ihpc/willemt52" target="_blank" rel="noopener nofollow sponsored" class="cta-affiliate">Manage your DUO payments with Wise →</a>
+<a href="https://go.expatnetherlandshub.com/wise?ref=/guides/finance/duo-student-finance-international-students-2026/" target="_blank" rel="noopener nofollow sponsored" class="cta-affiliate">Manage your DUO payments with Wise →</a>
 
 ---
 

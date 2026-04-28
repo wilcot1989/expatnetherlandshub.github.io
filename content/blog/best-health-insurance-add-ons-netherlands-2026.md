@@ -22,7 +22,7 @@ faq:
     a: "No. In the Netherlands, health insurance (both basic and supplementary) can only be changed between 1 November and 31 December each year, with changes taking effect on 1 January the following year. The one exception is if you move to a new address or have a major life change that triggers a mid-year switch right."
 products:
   - name: "SafetyWing"
-    url: "https://safetywing.com/?referenceID=26482728"
+    url: "https://go.expatnetherlandshub.com/safetywing?ref=/blog/best-health-insurance-add-ons-netherlands-2026/"
     price: "0.00"
     tag: "Expat Insurance"
 ---

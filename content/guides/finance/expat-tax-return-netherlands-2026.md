@@ -12,7 +12,7 @@ author_bio: "Expat coach and relocation specialist. Half Dutch, half British, li
 featured_image: "/images/featured/expat-tax-return-netherlands-2026.webp"
 products:
   - name: "Wise"
-    url: "https://wise.com/invite/ihpc/willemt52"
+    url: "https://go.expatnetherlandshub.com/wise?ref=/guides/finance/expat-tax-return-netherlands-2026/"
     price: "0.00"
   - name: "Expatax"
     url: "https://www.expatax.nl/"
@@ -212,7 +212,7 @@ Missing a deadline costs money. Here is the complete picture:
 
 If you are managing money across borders — paying foreign taxes, transferring savings, or receiving income from your home country — Wise is the most cost-effective way to move money internationally. Far cheaper than Dutch bank wire fees.
 
-<a href="https://wise.com/invite/ihpc/willemt52" target="_blank" rel="noopener nofollow sponsored" class="cta-affiliate">Send money abroad with Wise →</a>
+<a href="https://go.expatnetherlandshub.com/wise?ref=/guides/finance/expat-tax-return-netherlands-2026/" target="_blank" rel="noopener nofollow sponsored" class="cta-affiliate">Send money abroad with Wise →</a>
 
 ## Common Deductions Expats Miss
 

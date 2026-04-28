@@ -25,7 +25,7 @@ faq:
     a: "The Undutchables is a Dutch recruitment agency specialising in placing multilingual and English-speaking professionals in the Netherlands. They work across sectors including finance, HR, marketing, legal, customer service, and operations. Unlike a job board, you register with them (free) and are matched with roles. They also advertise specific openings on their website. Their specialisation in expat placements means their consultants understand the Dutch work permit and Kennismigrant system, which is useful for non-EU candidates. They have offices in Amsterdam, Rotterdam, The Hague, and Utrecht."
 products:
   - name: "Wise"
-    url: "https://wise.com/invite/ihpc/willemt52"
+    url: "https://go.expatnetherlandshub.com/wise?ref=/blog/best-job-boards-netherlands-expats-2026/"
     price: "0.00"
     tag: "Currency Transfer"
 ---
@@ -367,7 +367,7 @@ Different categories of expat face different rules when applying for Dutch jobs.
 
 Job searches take time — typically three to six months for a professional role in the Netherlands. If you are receiving income from outside the Netherlands while searching, or transferring savings from another country, the cost of currency conversion matters.
 
-<a href="https://wise.com/invite/ihpc/willemt52" rel="noopener nofollow sponsored" class="cta-affiliate">Open a Wise account — real exchange rates for international money transfers while you job search</a>
+<a href="https://go.expatnetherlandshub.com/wise?ref=/blog/best-job-boards-netherlands-expats-2026/" rel="noopener nofollow sponsored" class="cta-affiliate">Open a Wise account — real exchange rates for international money transfers while you job search</a>
 
 Wise gives you the real mid-market exchange rate with a small transparent fee, significantly cheaper than standard bank transfers. Their multi-currency account also lets you hold your home currency and convert to EUR when you need it.
 

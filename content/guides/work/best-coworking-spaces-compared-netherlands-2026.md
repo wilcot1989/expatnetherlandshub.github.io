@@ -9,7 +9,7 @@ keywords: ["coworking netherlands expats", "coworking amsterdam 2026", "best cow
 affiliate: true
 products:
   - name: "Wise"
-    url: "https://wise.com/invite/ihpc/willemt52"
+    url: "https://go.expatnetherlandshub.com/wise?ref=/guides/work/best-coworking-spaces-compared-netherlands-2026/"
     price: "0.00"
   - name: "LinkedIn Premium"
     url: "https://www.linkedin.com/premium/"

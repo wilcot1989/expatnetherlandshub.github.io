@@ -15,7 +15,7 @@ products:
     url: "https://www.expatax.nl/"
     price: "0.00"
   - name: "Wise"
-    url: "https://wise.com/invite/ihpc/willemt52"
+    url: "https://go.expatnetherlandshub.com/wise?ref=/guides/legal/complete-guide-moving-to-netherlands-2026/"
     price: "0.00"
 author: "Sarah van den Berg"
 author_bio: "Expat coach and relocation specialist. Half Dutch, half British, living in the Netherlands for over 10 years."
@@ -164,7 +164,7 @@ You will need a Dutch bank account (or at least an IBAN) to receive your salary,
 
 ### Recommended First Step: Wise
 
-Before you even leave your home country, set up a <a href="https://wise.com/invite/ihpc/willemt52" target="_blank" rel="noopener nofollow sponsored">Wise account</a>. Wise (formerly TransferWise) gives you a multi-currency account with a European IBAN, which is incredibly useful during the transition period. You can:
+Before you even leave your home country, set up a <a href="https://go.expatnetherlandshub.com/wise?ref=/guides/legal/complete-guide-moving-to-netherlands-2026/" target="_blank" rel="noopener nofollow sponsored">Wise account</a>. Wise (formerly TransferWise) gives you a multi-currency account with a European IBAN, which is incredibly useful during the transition period. You can:
 
 - Receive your first salary before opening a traditional Dutch bank account
 - Transfer money between countries at the real exchange rate with low fees
@@ -173,7 +173,7 @@ Before you even leave your home country, set up a <a href="https://wise.com/invi
 
 Once you have your BSN, you can open an account at a traditional Dutch bank like ING, ABN AMRO, or Rabobank, or stay with a modern bank like Bunq or N26. For a full comparison, see my guide to the [best bank accounts for expats in the Netherlands](/guides/finance/best-bank-account-expats-netherlands-2026/).
 
-<a href="https://wise.com/invite/ihpc/willemt52" class="cta-affiliate" rel="noopener nofollow sponsored" target="_blank">Open Your Free Wise Account Before You Move</a>
+<a href="https://go.expatnetherlandshub.com/wise?ref=/guides/legal/complete-guide-moving-to-netherlands-2026/" class="cta-affiliate" rel="noopener nofollow sponsored" target="_blank">Open Your Free Wise Account Before You Move</a>
 
 ---
 
@@ -376,7 +376,7 @@ If you hold OCI (Overseas Citizen of India) status, you can use your OCI card as
 
 ### Opening a Bank Account Before You Arrive
 
-This is one of the most common pain points for Indian professionals arriving in the Netherlands. Traditional Dutch banks require a BSN, and you cannot get a BSN until you have a registered address. My strong advice is to open a <a href="https://wise.com/invite/ihpc/willemt52" target="_blank" rel="noopener nofollow sponsored">Wise account</a> before you leave India. Wise gives you a European IBAN, lets you hold and convert between Indian rupees, euros, and other currencies at the real exchange rate, and means you have a functional account from day one. I have walked dozens of Indian clients through this, and it consistently removes one of the biggest early stresses.
+This is one of the most common pain points for Indian professionals arriving in the Netherlands. Traditional Dutch banks require a BSN, and you cannot get a BSN until you have a registered address. My strong advice is to open a <a href="https://go.expatnetherlandshub.com/wise?ref=/guides/legal/complete-guide-moving-to-netherlands-2026/" target="_blank" rel="noopener nofollow sponsored">Wise account</a> before you leave India. Wise gives you a European IBAN, lets you hold and convert between Indian rupees, euros, and other currencies at the real exchange rate, and means you have a functional account from day one. I have walked dozens of Indian clients through this, and it consistently removes one of the biggest early stresses.
 
 ### The Indian Community in the Netherlands
 
@@ -553,6 +553,6 @@ Moving to the Netherlands is a big step, but the country rewards those who make 
 
 The key to a smooth transition is preparation. Handle your visa and housing early, register at your gemeente as soon as possible, and set up your key services — banking, insurance, phone, and transport — in the first two weeks. And if circumstances change and you find yourself planning to leave, our [leaving the Netherlands checklist](/guides/legal/leaving-netherlands-expat-checklist-2026/) covers every step from deregistration to your final tax return.
 
-For banking, start with <a href="https://wise.com/invite/ihpc/willemt52" target="_blank" rel="noopener nofollow sponsored">Wise</a> before you arrive. For temporary health coverage, consider <a href="https://safetywing.com/nomad-insurance/?referenceID=26482728&utm_source=26482728&utm_medium=Ambassador" target="_blank" rel="noopener nofollow sponsored">SafetyWing</a> until your Dutch insurance kicks in. And protect your digital life with <a href="https://go.nordvpn.net/aff_c?offer_id=612&aff_id=141337&url_id=14830" target="_blank" rel="noopener nofollow sponsored" class="cta-affiliate">NordVPN →</a> from day one.
+For banking, start with <a href="https://go.expatnetherlandshub.com/wise?ref=/guides/legal/complete-guide-moving-to-netherlands-2026/" target="_blank" rel="noopener nofollow sponsored">Wise</a> before you arrive. For temporary health coverage, consider <a href="https://safetywing.com/nomad-insurance/?referenceID=26482728&utm_source=26482728&utm_medium=Ambassador" target="_blank" rel="noopener nofollow sponsored">SafetyWing</a> until your Dutch insurance kicks in. And protect your digital life with <a href="https://go.nordvpn.net/aff_c?offer_id=612&aff_id=141337&url_id=14830" target="_blank" rel="noopener nofollow sponsored" class="cta-affiliate">NordVPN →</a> from day one.
 
 Welcome to the Netherlands. Welkom in Nederland.

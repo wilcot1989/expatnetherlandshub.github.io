@@ -803,7 +803,7 @@ Print this checklist
 <strong>Wise — multi-currency account, works from day one</strong>
 No BSN required, holds 40+ currencies, Dutch IBAN available, low international transfer fees.
 </div>
-<a href="https://wise.com/invite/ihpc/willemt52" rel="noopener nofollow sponsored" target="_blank" class="aff-cta">Open a Wise account →</a>
+<a href="https://go.expatnetherlandshub.com/wise?ref=/downloads/" rel="noopener nofollow sponsored" target="_blank" class="aff-cta">Open a Wise account →</a>
 </div>
 </div>
 

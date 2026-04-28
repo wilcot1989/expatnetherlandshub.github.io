@@ -12,7 +12,7 @@ author_bio: "Expat coach and writer at ExpatNetherlandsHub.com"
 featured_image: "/images/categories/finance.svg"
 products:
   - name: "Wise"
-    url: "https://wise.com/invite/ihpc/willemt52"
+    url: "https://go.expatnetherlandshub.com/wise?ref=/guides/finance/dutch-box-3-tax-savings-expats-2026/"
     price: "0.00"
     tag: "Currency Transfer"
 faq:
@@ -314,7 +314,7 @@ Box 3 assets and liabilities are reported in Section 8 (Vermogen / Savings and I
 **Converting foreign assets to euros:**
 Foreign accounts must be converted at the EUR exchange rate on January 1. For example, for a UK GBP account, use the GBP/EUR rate on January 1, 2026. Major financial data providers publish these rates. Your bank or broker may also provide a year-end or year-start statement in euros if you request it.
 
-If you use [Wise](https://wise.com/invite/ihpc/willemt52) to hold foreign currencies or make international transfers, the Wise account history gives you precise balance statements by date — useful for pulling the exact January 1 figure for reporting purposes. This is particularly handy if you hold multiple currencies.
+If you use [Wise](https://go.expatnetherlandshub.com/wise?ref=/guides/finance/dutch-box-3-tax-savings-expats-2026/) to hold foreign currencies or make international transfers, the Wise account history gives you precise balance statements by date — useful for pulling the exact January 1 figure for reporting purposes. This is particularly handy if you hold multiple currencies.
 
 For help filing a Dutch tax return from scratch, the [Dutch tax return guide](/guides/finance/dutch-tax-return-expats-guide-2026/) covers the full process step by step.
 
@@ -397,4 +397,4 @@ Box 3 reform is coming, but not yet here. The 2026 system is still deemed-return
 
 In the meantime, if your Box 3 situation is complex — significant foreign assets, property in multiple countries, or large investment portfolios — a session with a Dutch expat tax advisor is worth the fee. The [best tax advisors for expats guide](/guides/finance/best-tax-advisors-expats-netherlands-2026/) has a shortlist if you need one.
 
-<a href="https://wise.com/invite/ihpc/willemt52" class="cta-affiliate" rel="noopener nofollow sponsored" target="_blank">Open a Wise account to manage foreign currency balances and get precise January 1 snapshots for tax reporting →</a>
+<a href="https://go.expatnetherlandshub.com/wise?ref=/guides/finance/dutch-box-3-tax-savings-expats-2026/" class="cta-affiliate" rel="noopener nofollow sponsored" target="_blank">Open a Wise account to manage foreign currency balances and get precise January 1 snapshots for tax reporting →</a>

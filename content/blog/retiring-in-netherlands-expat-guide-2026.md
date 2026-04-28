@@ -25,11 +25,11 @@ faq:
     a: "Box 3 applies to all Dutch residents' worldwide savings and investments above approximately €57,000 (single) or €114,000 (couple/fiscal partners). For retirees with significant savings or investment portfolios, Box 3 is an important ongoing cost. The deemed return for 2026 on investments is approximately 5.88%, taxed at 36%. On a €300,000 portfolio (€243,000 above the threshold), this produces approximately €5,150 of annual Box 3 tax. Retirees who plan their assets carefully — potentially through an annuity or lijfrente that reduces Box 3 exposure — can reduce this liability. A Dutch tax advisor can model your specific situation."
 products:
   - name: "Wise"
-    url: "https://wise.com/invite/ihpc/willemt52"
+    url: "https://go.expatnetherlandshub.com/wise?ref=/blog/retiring-in-netherlands-expat-guide-2026/"
     price: "0.00"
     tag: "Currency Transfer"
   - name: "SafetyWing"
-    url: "https://safetywing.com/?referenceID=26482728"
+    url: "https://go.expatnetherlandshub.com/safetywing?ref=/blog/retiring-in-netherlands-expat-guide-2026/"
     price: "0.00"
     tag: "Expat Insurance"
 ---

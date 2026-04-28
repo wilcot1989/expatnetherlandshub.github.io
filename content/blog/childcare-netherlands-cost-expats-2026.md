@@ -25,7 +25,7 @@ faq:
     a: "A KDV (kinderdagverblijf, daycare centre) cares for children aged 0-4, typically during full working days. A BSO (buitenschoolse opvang, after-school care) is for school-age children aged 4-12, providing care before school, after school, and during school holidays. Both are covered by kinderopvangtoeslag. Some organisations offer both types in the same building, which is practical if you have children of different ages."
 products:
   - name: "Wise"
-    url: "https://wise.com/invite/ihpc/willemt52"
+    url: "https://go.expatnetherlandshub.com/wise?ref=/blog/childcare-netherlands-cost-expats-2026/"
     price: "0.00"
     tag: "Currency Transfer"
 ---

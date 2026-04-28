@@ -13,7 +13,7 @@ featured_image: "/images/categories/legal.svg"
 affiliate: true
 products:
   - name: "Wise"
-    url: "https://wise.com/invite/ihpc/willemt52"
+    url: "https://go.expatnetherlandshub.com/wise?ref=/guides/legal/freelance-visa-netherlands-2026/"
     price: "0.00"
     tag: "Business Banking"
 faq:
@@ -74,7 +74,7 @@ This is the requirement that confuses most people. You must deposit €4,500 int
 
 Opening a Dutch business bank account before you have your residence permit is possible but requires KvK registration. Some banks accept applications from people in the MVV application process. This is one of those bureaucratic chicken-and-egg situations that requires a bit of planning — more on the step-by-step below.
 
-For transferring money from a US account to open your Dutch business account, [Wise](https://wise.com/invite/ihpc/willemt52) is the most cost-effective option I've seen. The exchange rates are mid-market, the transfers are fast, and the fees on a €4,500 transfer are a fraction of what a US bank charges. When I help American clients set this up, Wise is always my first recommendation.
+For transferring money from a US account to open your Dutch business account, [Wise](https://go.expatnetherlandshub.com/wise?ref=/guides/legal/freelance-visa-netherlands-2026/) is the most cost-effective option I've seen. The exchange rates are mid-market, the transfers are fast, and the fees on a €4,500 transfer are a fraction of what a US bank charges. When I help American clients set this up, Wise is always my first recommendation.
 
 ### Step-by-step DAFT application process
 
@@ -310,7 +310,7 @@ Once your freelance visa is in place, the admin work isn't over — it's just sh
 
 1. **KvK registration** — [full guide here](/guides/legal/kvk-registration-expat-guide-2026/)
 2. **ZZP setup** — invoicing, VAT, and tax registration: [freelancer guide](/guides/work/freelancer-zzp-guide-netherlands-2026/)
-3. **Business bank account** — [Wise](https://wise.com/invite/ihpc/willemt52) works well for international transactions; Dutch banks like Bunq and ING are options for a local account
+3. **Business bank account** — [Wise](https://go.expatnetherlandshub.com/wise?ref=/guides/legal/freelance-visa-netherlands-2026/) works well for international transactions; Dutch banks like Bunq and ING are options for a local account
 4. **30% ruling check** — if you were previously on a highly skilled migrant permit, check eligibility: [30% ruling guide](/guides/finance/30-percent-ruling-netherlands-2026/)
 5. **Health insurance** — [Dutch health insurance guide](/guides/health/dutch-health-insurance-guide-expats-2026/)
 6. **Income expectations** — [average salary guide](/guides/work/average-salary-netherlands-2026/) for benchmarking your rates

@@ -12,7 +12,7 @@ author_bio: "Expat coach and relocation specialist. Half Dutch, half British, li
 featured_image: "/images/categories/finance.svg"
 products:
   - name: "Wise"
-    url: "https://wise.com/invite/ihpc/willemt52"
+    url: "https://go.expatnetherlandshub.com/wise?ref=/guides/finance/best-tax-advisors-expats-netherlands-2026/"
     price: "0.00"
   - name: "Expatax"
     url: "https://www.expatax.nl/"
@@ -306,7 +306,7 @@ If you have recently moved to the Netherlands, do not wait until April to start 
 
 Good tax planning and good financial management go together. Part of minimising your Dutch tax burden legitimately is keeping your finances organised throughout the year — knowing what you hold in Box 3, understanding your pension contributions, and keeping records of any deductible expenses.
 
-If you are regularly moving money internationally — between your home country and the Netherlands, or paying for services in foreign currencies — using a tool that gives you clear records and low conversion costs helps at tax time. I use <a href="https://wise.com/invite/ihpc/willemt52" target="_blank" rel="noopener nofollow sponsored" class="cta-affiliate">Manage international finances with Wise →</a> for international transfers because the transaction history is clean and exportable, which makes it easy to pull together records when my adviser asks for them.
+If you are regularly moving money internationally — between your home country and the Netherlands, or paying for services in foreign currencies — using a tool that gives you clear records and low conversion costs helps at tax time. I use <a href="https://go.expatnetherlandshub.com/wise?ref=/guides/finance/best-tax-advisors-expats-netherlands-2026/" target="_blank" rel="noopener nofollow sponsored" class="cta-affiliate">Manage international finances with Wise →</a> for international transfers because the transaction history is clean and exportable, which makes it easy to pull together records when my adviser asks for them.
 
 ---
 

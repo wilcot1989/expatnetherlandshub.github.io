@@ -15,7 +15,7 @@ products:
     url: "https://www.expatax.nl/"
     price: "0.00"
   - name: "Wise"
-    url: "https://wise.com/invite/ihpc/willemt52"
+    url: "https://go.expatnetherlandshub.com/wise?ref=/guides/legal/digid-guide-expats-2026/"
     price: "0.00"
 author: "Sarah van den Berg"
 author_bio: "Expat coach and relocation specialist. Half Dutch, half British, living in the Netherlands for over 10 years."

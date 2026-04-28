@@ -25,7 +25,7 @@ faq:
     a: "VGZ is one of the most common collective insurance scheme partners for Dutch employers, alongside Zilveren Kruis and CZ. If your employer has a VGZ collective scheme, you may receive a discount of 5–15% on your VGZ premium — sometimes including supplementary insurance discounts too. This is offered as part of your employment benefits. To check: ask your HR department whether your company has a collective VGZ scheme and what the discounted premium would be. Then compare this discounted price to the current best individual policy price on Independer. If the collective scheme is still competitive after comparison, take it. If a competitor's individual policy is cheaper even without a collective discount, the collective scheme may not represent the best value."
 products:
   - name: "SafetyWing"
-    url: "https://safetywing.com/?referenceID=26482728"
+    url: "https://go.expatnetherlandshub.com/safetywing?ref=/blog/vgz-health-insurance-review-expats-2026/"
     price: "0.00"
     tag: "Expat Insurance"
 ---

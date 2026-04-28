@@ -33,7 +33,7 @@ faq:
     a: "From starting your mortgage application to getting the keys, typically 6-10 weeks. Pre-approval (hypotheekcheck) takes a few days to two weeks. Once you have an accepted offer on a property, you usually have 4-6 weeks to arrange final mortgage approval before the notary appointment. The notary signing can be arranged within days once all documents are in order. In a competitive market, getting pre-approval before you start house hunting puts you in a much stronger position."
 products:
   - name: "Wise"
-    url: "https://wise.com/invite/ihpc/willemt52"
+    url: "https://go.expatnetherlandshub.com/wise?ref=/guides/housing/dutch-mortgage-expats-guide-2026/"
     price: "0.00"
     tag: "Currency Transfer"
 ---
@@ -286,7 +286,7 @@ If you earn in a currency other than euros — or if part of your income comes f
 
 If you are bringing money from another country to fund the deposit or buyer's costs, currency exchange fees can eat into your budget. I use **Wise** for international transfers because it uses the real exchange rate with a transparent fee — much cheaper than bank transfers. On a €20,000 transfer, the saving versus a traditional bank can be €300-€600.
 
-[Transfer money via Wise](https://wise.com/invite/ihpc/willemt52)
+[Transfer money via Wise](https://go.expatnetherlandshub.com/wise?ref=/guides/housing/dutch-mortgage-expats-guide-2026/)
 
 For a full review, see the [Wise review for expats](/guides/finance/wise-review-expats-2026/).
 

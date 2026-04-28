@@ -12,7 +12,7 @@ author_bio: "Expat coach and relocation specialist. Half Dutch, half British, li
 featured_image: "/images/categories/finance.svg"
 products:
   - name: "Wise"
-    url: "https://wise.com/invite/ihpc/willemt52"
+    url: "https://go.expatnetherlandshub.com/wise?ref=/guides/finance/best-dutch-banks-students-young-expats-2026/"
     price: "0.00"
   - name: "bunq"
     url: "https://www.bunq.com/"
@@ -195,7 +195,7 @@ Use Wise for international transfers and as a bridge account before your Dutch a
 
 **My take on the Wise affiliate relationship:** I include a Wise referral link here and earn a small commission if you sign up. I recommend it because I genuinely use it myself for transfers home and have done for years. But if you never send money internationally, the benefit is minimal.
 
-<a href="https://wise.com/invite/ihpc/willemt52" target="_blank" rel="noopener nofollow sponsored">Open a Wise account (no BSN required)</a>
+<a href="https://go.expatnetherlandshub.com/wise?ref=/guides/finance/best-dutch-banks-students-young-expats-2026/" target="_blank" rel="noopener nofollow sponsored">Open a Wise account (no BSN required)</a>
 
 For more on Wise's features, see the [full Wise and international transfers guide](/guides/finance/best-international-money-transfer-netherlands-2026/) and the [best bank accounts for expats overview](/guides/finance/best-bank-account-expats-netherlands-2026/).
 
@@ -299,7 +299,7 @@ What you should not do: try to run your entire Dutch life on N26 or Wise alone. 
 
 For the complete picture of expat banking options beyond just student accounts, read the [best bank accounts for expats in the Netherlands](/guides/finance/best-bank-account-expats-netherlands-2026/). And if you are just arriving in the Netherlands as a student, the [student expat guide to the Netherlands](/guides/legal/student-expat-guide-netherlands-2026/) covers everything from BSN registration to housing — worth reading alongside this one.
 
-<a href="https://wise.com/invite/ihpc/willemt52" target="_blank" rel="noopener nofollow sponsored">Open a Wise account — no BSN required, free to set up</a>
+<a href="https://go.expatnetherlandshub.com/wise?ref=/guides/finance/best-dutch-banks-students-young-expats-2026/" target="_blank" rel="noopener nofollow sponsored">Open a Wise account — no BSN required, free to set up</a>
 
 Also useful: the [bank account chooser tool](/tools/bank-account-chooser/) if you want to answer a few quick questions and get a personalised recommendation.
 

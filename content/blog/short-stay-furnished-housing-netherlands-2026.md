@@ -25,7 +25,7 @@ faq:
     a: "For official registration at the gemeente (BRP registration), you need a residential address where you actually live. Serviced apartments and short-stay accommodations that are commercially registered as hotels or corporate housing cannot always be used for BRP registration. Many landlords of furnished apartments will allow registration — this is a critical question to ask before signing. Without BRP registration, you cannot get a BSN, and without a BSN you cannot open a bank account, access healthcare, or apply for the 30% ruling. Always confirm registration permission before committing to any short-stay arrangement."
 products:
   - name: "Wise"
-    url: "https://wise.com/invite/ihpc/willemt52"
+    url: "https://go.expatnetherlandshub.com/wise?ref=/blog/short-stay-furnished-housing-netherlands-2026/"
     price: "0.00"
     tag: "Currency Transfer"
 ---
@@ -244,7 +244,7 @@ If you are moving from outside the Eurozone, you will need to convert currency f
 
 Standard bank transfers typically add a 2–4% spread on exchange rates. On a EUR 5,000 deposit, that is EUR 100–200 in hidden costs.
 
-<a href="https://wise.com/invite/ihpc/willemt52" rel="noopener nofollow sponsored" class="cta-affiliate">Use Wise for international transfers — real exchange rate, small transparent fee</a>
+<a href="https://go.expatnetherlandshub.com/wise?ref=/blog/short-stay-furnished-housing-netherlands-2026/" rel="noopener nofollow sponsored" class="cta-affiliate">Use Wise for international transfers — real exchange rate, small transparent fee</a>
 
 Wise uses the real mid-market rate with a transparent conversion fee around 0.4–0.7%, which is significantly cheaper than any high street bank. Their multi-currency account also allows you to hold both EUR and your home currency, useful while you are transitioning.
 

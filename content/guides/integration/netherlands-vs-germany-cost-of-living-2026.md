@@ -38,7 +38,7 @@ faq:
     a: "Both rank in Europe's top 10 for quality of life, but the experience differs. The Netherlands scores higher on work-life balance (part-time work is normalized), cycling infrastructure, and English accessibility. Germany scores higher on cultural offerings, nature, affordable housing, and career opportunities in engineering and manufacturing. Your personal priorities determine which fits better."
 products:
   - name: "Wise"
-    url: "https://wise.com/invite/ihpc/willemt52"
+    url: "https://go.expatnetherlandshub.com/wise?ref=/guides/integration/netherlands-vs-germany-cost-of-living-2026/"
     price: "0.00"
 ---
 
@@ -270,7 +270,7 @@ If you are splitting your life between the Netherlands and Germany — or sendin
 
 I use Wise for all my cross-border transfers. It uses the real mid-market exchange rate with no hidden fees. For EUR-to-EUR transfers within SEPA, your regular bank is usually fine. But the moment you need to convert currencies — sending money to the UK, US, India, or anywhere else — Wise saves real money.
 
-<a href="https://wise.com/invite/ihpc/willemt52" target="_blank" rel="noopener nofollow sponsored" class="cta-affiliate">Try Wise for free transfers →</a>
+<a href="https://go.expatnetherlandshub.com/wise?ref=/guides/integration/netherlands-vs-germany-cost-of-living-2026/" target="_blank" rel="noopener nofollow sponsored" class="cta-affiliate">Try Wise for free transfers →</a>
 
 You can open a Wise account in minutes from either the Netherlands or Germany. I have a [guide to opening a bank account in the Netherlands](/guides/finance/how-to-open-bank-account-netherlands-2026/) that covers Wise alongside traditional Dutch banks.
 
@@ -443,7 +443,7 @@ Dutch courses cost EUR 500-1,500 for a full course at a language school. German 
 
 ### Can I open bank accounts in both countries?
 
-Yes. If you are a resident of one country, you can open a bank account in the other as an EU citizen (or with a valid residence permit). For cross-border transfers and currency exchange, <a href="https://wise.com/invite/ihpc/willemt52" target="_blank" rel="noopener nofollow sponsored" class="cta-affiliate">Wise</a> is the most cost-effective option — I use it for all my non-SEPA transfers.
+Yes. If you are a resident of one country, you can open a bank account in the other as an EU citizen (or with a valid residence permit). For cross-border transfers and currency exchange, <a href="https://go.expatnetherlandshub.com/wise?ref=/guides/integration/netherlands-vs-germany-cost-of-living-2026/" target="_blank" rel="noopener nofollow sponsored" class="cta-affiliate">Wise</a> is the most cost-effective option — I use it for all my non-SEPA transfers.
 
 
 ## Final Thoughts
@@ -458,4 +458,4 @@ Start by running the numbers for your specific salary, family size, and target c
 
 For more on building your financial life in the Netherlands, check out my [complete guide to the Dutch tax system](/guides/finance/dutch-tax-system-expats-2026/) and the [Netherlands vs UK comparison](/guides/integration/netherlands-vs-uk-expats-2026/) if you are weighing other options.
 
-<a href="https://wise.com/invite/ihpc/willemt52" target="_blank" rel="noopener nofollow sponsored" class="cta-affiliate">Try Wise for free transfers →</a>
+<a href="https://go.expatnetherlandshub.com/wise?ref=/guides/integration/netherlands-vs-germany-cost-of-living-2026/" target="_blank" rel="noopener nofollow sponsored" class="cta-affiliate">Try Wise for free transfers →</a>

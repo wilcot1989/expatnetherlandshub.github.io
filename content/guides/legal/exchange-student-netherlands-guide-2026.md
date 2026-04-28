@@ -153,7 +153,7 @@ For stays over four months, a Dutch bank account simplifies paying rent and mana
 
 ### Option 2: Use Wise
 
-For shorter stays or if you prefer not to deal with Dutch bank onboarding, <a href="https://wise.com/invite/ihpc/willemt52" rel="noopener nofollow sponsored" class="cta-affiliate">Wise</a> gives you a European IBAN that works for most rent payments, receives euro transfers, and handles currency conversion at the real exchange rate. You can convert money from your home currency to euros at very low cost and pay directly from the Wise account or card.
+For shorter stays or if you prefer not to deal with Dutch bank onboarding, <a href="https://go.expatnetherlandshub.com/wise?ref=/guides/legal/exchange-student-netherlands-guide-2026/" rel="noopener nofollow sponsored" class="cta-affiliate">Wise</a> gives you a European IBAN that works for most rent payments, receives euro transfers, and handles currency conversion at the real exchange rate. You can convert money from your home currency to euros at very low cost and pay directly from the Wise account or card.
 
 Many exchange students use Wise as their primary euro account for the semester, avoiding Dutch bank account fees and paperwork entirely. The Wise Mastercard works anywhere cards are accepted in the Netherlands, and Dutch debit-card culture means you will use a card constantly.
 

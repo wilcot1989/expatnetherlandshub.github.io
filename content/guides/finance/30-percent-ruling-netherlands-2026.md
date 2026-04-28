@@ -12,7 +12,7 @@ author_bio: "Expat coach and relocation specialist. Half Dutch, half British, li
 featured_image: "/images/featured/30-percent-ruling-netherlands-2026.webp"
 products:
   - name: "Wise"
-    url: "https://wise.com/invite/ihpc/willemt52"
+    url: "https://go.expatnetherlandshub.com/wise?ref=/guides/finance/30-percent-ruling-netherlands-2026/"
     price: "0.00"
   - name: "Expatax"
     url: "https://www.expatax.nl/"
@@ -304,7 +304,7 @@ You elect partial non-resident status in your annual Dutch tax return (aangifte 
 
 If you are unsure whether the election is beneficial in your case (for example, if you own Dutch investment property and little else abroad), run the numbers with your tax advisor before filing. In most situations where foreign assets exceed EUR 50,000, the election is clearly worth making.
 
-For managing foreign accounts and transferring money internationally, a multi-currency account like <a href="https://wise.com/invite/ihpc/willemt52" target="_blank" rel="noopener nofollow sponsored" class="cta-affiliate">Wise →</a> keeps costs down when moving funds between your Dutch and home-country accounts.
+For managing foreign accounts and transferring money internationally, a multi-currency account like <a href="https://go.expatnetherlandshub.com/wise?ref=/guides/finance/30-percent-ruling-netherlands-2026/" target="_blank" rel="noopener nofollow sponsored" class="cta-affiliate">Wise →</a> keeps costs down when moving funds between your Dutch and home-country accounts.
 
 ---
 
@@ -407,11 +407,11 @@ Your social security contributions are based on your taxable salary (after the 3
 
 With lower taxable income during the ruling period, your pension accrual may be lower. Consider supplementing with private pension savings or investments. This is particularly important if you plan to stay in the Netherlands long-term.
 
-For help managing international finances during your time in the Netherlands, a multi-currency account like <a href="https://wise.com/invite/ihpc/willemt52" rel="noopener nofollow sponsored" target="_blank">Wise</a> can be useful for handling money in multiple countries. See our [complete guide to moving to the Netherlands in 2026](/guides/legal/complete-guide-moving-to-netherlands-2026/) for more on setting up your financial life.
+For help managing international finances during your time in the Netherlands, a multi-currency account like <a href="https://go.expatnetherlandshub.com/wise?ref=/guides/finance/30-percent-ruling-netherlands-2026/" rel="noopener nofollow sponsored" target="_blank">Wise</a> can be useful for handling money in multiple countries. See our [complete guide to moving to the Netherlands in 2026](/guides/legal/complete-guide-moving-to-netherlands-2026/) for more on setting up your financial life.
 
 Want to know how much you could save? Use our [30% ruling calculator](/tools/30-percent-ruling-calculator/) to estimate your tax benefit based on your salary, or run your figures through the [salary checker](/tools/salary-checker/) to see your net take-home pay. For a broader picture of how Dutch taxes work, our [Dutch tax system guide for expats](/guides/finance/dutch-tax-system-expats-guide-2026/) explains the full three-box structure.
 
-<a href="https://wise.com/invite/ihpc/willemt52" class="cta-affiliate" rel="noopener nofollow sponsored" target="_blank">Manage Your International Finances with Wise</a>
+<a href="https://go.expatnetherlandshub.com/wise?ref=/guides/finance/30-percent-ruling-netherlands-2026/" class="cta-affiliate" rel="noopener nofollow sponsored" target="_blank">Manage Your International Finances with Wise</a>
 
 ---
 

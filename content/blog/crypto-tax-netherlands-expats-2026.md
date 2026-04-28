@@ -25,7 +25,7 @@ faq:
     a: "DAC8 is a European Union directive that requires crypto asset service providers (exchanges, brokers, wallet providers) operating in the EU to report user information — including account balances and transactions — to tax authorities in EU member states. From 2026, this means the Belastingdienst can automatically receive data from exchanges like Coinbase, Kraken, and others about Dutch residents' holdings. This significantly reduces the ability to hold undeclared crypto without detection. Non-EU exchanges are not covered by DAC8, but the Belastingdienst can request information through other international tax cooperation channels."
 products:
   - name: "Wise"
-    url: "https://wise.com/invite/ihpc/willemt52"
+    url: "https://go.expatnetherlandshub.com/wise?ref=/blog/crypto-tax-netherlands-expats-2026/"
     price: "0.00"
     tag: "Currency Transfer"
 ---

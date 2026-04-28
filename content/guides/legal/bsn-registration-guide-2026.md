@@ -15,7 +15,7 @@ products:
     url: "https://www.expatax.nl/"
     price: "0.00"
   - name: "Wise"
-    url: "https://wise.com/invite/ihpc/willemt52"
+    url: "https://go.expatnetherlandshub.com/wise?ref=/guides/legal/bsn-registration-guide-2026/"
     price: "0.00"
 author: "Sarah van den Berg"
 author_bio: "Expat coach and relocation specialist. Half Dutch, half British, living in the Netherlands for over 10 years."
@@ -289,11 +289,11 @@ The waiting period between booking and attending your appointment is frustrating
 
 ### Open a Wise Account
 
-<a href="https://wise.com/invite/ihpc/willemt52" rel="noopener nofollow sponsored" target="_blank">Wise (formerly TransferWise)</a> accounts do not require a BSN. You can open one with just your passport, and you get a European IBAN that can receive salary payments, pay Dutch invoices, and handle international transfers at competitive rates.
+<a href="https://go.expatnetherlandshub.com/wise?ref=/guides/legal/bsn-registration-guide-2026/" rel="noopener nofollow sponsored" target="_blank">Wise (formerly TransferWise)</a> accounts do not require a BSN. You can open one with just your passport, and you get a European IBAN that can receive salary payments, pay Dutch invoices, and handle international transfers at competitive rates.
 
 This is not a permanent solution — you will want a Dutch bank account eventually — but it gets you through the waiting period. Some employers will pay salary to a Wise account in the interim.
 
-<a href="https://wise.com/invite/ihpc/willemt52" rel="noopener nofollow sponsored" target="_blank">Open a Wise account for international transfers →</a>
+<a href="https://go.expatnetherlandshub.com/wise?ref=/guides/legal/bsn-registration-guide-2026/" rel="noopener nofollow sponsored" target="_blank">Open a Wise account for international transfers →</a>
 
 ### Keep Your Home Country Bank Account Active
 

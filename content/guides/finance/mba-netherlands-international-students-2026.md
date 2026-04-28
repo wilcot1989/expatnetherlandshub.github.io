@@ -12,7 +12,7 @@ author_bio: "Expat coach and relocation specialist. Half Dutch, half British, li
 featured_image: "/images/categories/finance.svg"
 products:
   - name: "Wise"
-    url: "https://wise.com/invite/ihpc/willemt52"
+    url: "https://go.expatnetherlandshub.com/wise?ref=/guides/finance/mba-netherlands-international-students-2026/"
     price: "0.00"
   - name: "bunq"
     url: "https://www.bunq.com/"
@@ -171,7 +171,7 @@ Managing money across currencies is a practical reality for most MBA students. Y
 
 **For a Dutch bank account:** Open an account at ING, ABN AMRO, or Rabobank as soon as you have your BSN. You need this for rent and local expenses.
 
-**For international transfers:** <a href="https://wise.com/invite/ihpc/willemt52" rel="noopener nofollow sponsored" class="cta-affiliate">Wise</a> is the most cost-effective way to move money between currencies. Rather than using your Dutch bank's international wire service (which charges high fees and poor exchange rates), Wise uses the real mid-market rate and charges a transparent percentage fee — typically 0.4-1%. You can also hold balances in multiple currencies and receive local bank details in EUR, GBP, USD, AUD, and others. For MBA students managing tuition payments, family support, or loan drawdowns in their home currency, the savings add up quickly.
+**For international transfers:** <a href="https://go.expatnetherlandshub.com/wise?ref=/guides/finance/mba-netherlands-international-students-2026/" rel="noopener nofollow sponsored" class="cta-affiliate">Wise</a> is the most cost-effective way to move money between currencies. Rather than using your Dutch bank's international wire service (which charges high fees and poor exchange rates), Wise uses the real mid-market rate and charges a transparent percentage fee — typically 0.4-1%. You can also hold balances in multiple currencies and receive local bank details in EUR, GBP, USD, AUD, and others. For MBA students managing tuition payments, family support, or loan drawdowns in their home currency, the savings add up quickly.
 
 See our [international money transfer guide](/guides/finance/best-international-money-transfer-netherlands-2026/) for a detailed comparison.
 
@@ -349,4 +349,4 @@ Monthly total: approximately EUR 1,215-1,725. Annual: EUR 14,580-20,700.
 
 Most international MBA students manage money from two directions: funds from home (in home currency) to pay living costs and supplement savings, and tuition payments in EUR. Using your home country bank's international transfer service for this is expensive — conversion fees of 2-4% on repeated transfers add up to thousands of euros over the year.
 
-I recommend setting up a <a href="https://wise.com/invite/ihpc/willemt52" rel="noopener nofollow sponsored" class="cta-affiliate">Wise account</a> for all international transfers. The real mid-market exchange rate and low transparent fees (typically 0.4-1%) mean that on a EUR 5,000 tuition payment from USD or GBP, you save EUR 100-200 compared to a bank wire. Over a full year of monthly transfers, the savings cover a few weeks of rent. Wise also allows you to hold your emergency buffer in multiple currencies — useful if your family is sending financial support from abroad and you want to keep some in your home currency while converting to EUR as needed for monthly expenses. The Wise debit card works everywhere in the Netherlands and across the Schengen Area, which is useful for study trips and conference travel included in many MBA programmes.
+I recommend setting up a <a href="https://go.expatnetherlandshub.com/wise?ref=/guides/finance/mba-netherlands-international-students-2026/" rel="noopener nofollow sponsored" class="cta-affiliate">Wise account</a> for all international transfers. The real mid-market exchange rate and low transparent fees (typically 0.4-1%) mean that on a EUR 5,000 tuition payment from USD or GBP, you save EUR 100-200 compared to a bank wire. Over a full year of monthly transfers, the savings cover a few weeks of rent. Wise also allows you to hold your emergency buffer in multiple currencies — useful if your family is sending financial support from abroad and you want to keep some in your home currency while converting to EUR as needed for monthly expenses. The Wise debit card works everywhere in the Netherlands and across the Schengen Area, which is useful for study trips and conference travel included in many MBA programmes.

@@ -923,7 +923,7 @@ freeAccount: true,
 applePay: true,
 jointAccount: false,
 businessAccount: true,
-affiliateUrl: "https://wise.com/invite/ihpc/willemt52",
+affiliateUrl: "https://go.expatnetherlandshub.com/wise?ref=/tools/bank-account-chooser/index/",
 score: 0
 },
 {

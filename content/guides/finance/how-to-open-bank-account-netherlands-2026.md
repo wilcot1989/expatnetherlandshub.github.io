@@ -12,7 +12,7 @@ author_bio: "Expat coach and relocation specialist. Half Dutch, half British, li
 featured_image: "/images/featured/how-to-open-bank-account-netherlands-2026.webp"
 products:
   - name: "Wise"
-    url: "https://wise.com/invite/ihpc/willemt52"
+    url: "https://go.expatnetherlandshub.com/wise?ref=/guides/finance/how-to-open-bank-account-netherlands-2026/"
     price: "0.00"
   - name: "bunq"
     url: "https://www.bunq.com/"
@@ -59,7 +59,7 @@ Here is the short version, front-loaded, because that is what you actually need:
 
 | Stage | Action | Time needed |
 |-------|--------|-------------|
-| Before arriving (or day 1) | Open a <a href="https://wise.com/invite/ihpc/willemt52" target="_blank" rel="noopener nofollow sponsored">Wise</a> account — European IBAN, no BSN required | 10–30 minutes |
+| Before arriving (or day 1) | Open a <a href="https://go.expatnetherlandshub.com/wise?ref=/guides/finance/how-to-open-bank-account-netherlands-2026/" target="_blank" rel="noopener nofollow sponsored">Wise</a> account — European IBAN, no BSN required | 10–30 minutes |
 | Week 1–2 | Register at the gemeente, get your BSN | 1–3 weeks depending on municipality |
 | After BSN | Apply for ING or ABN AMRO account | 3–10 business days |
 | After bank card arrives | Set up iDEAL and direct debits | 30 minutes |
@@ -101,11 +101,11 @@ Do this before you get on the plane, or on the day you land. It solves the iDEAL
 
 ### Wise
 
-<a href="https://wise.com/invite/ihpc/willemt52" target="_blank" rel="noopener nofollow sponsored">Wise</a> gives you a European IBAN that most Dutch employers and landlords accept. The account is free to open. You get a debit card (small one-time fee), can hold euros alongside other currencies, and send money internationally at real exchange rates.
+<a href="https://go.expatnetherlandshub.com/wise?ref=/guides/finance/how-to-open-bank-account-netherlands-2026/" target="_blank" rel="noopener nofollow sponsored">Wise</a> gives you a European IBAN that most Dutch employers and landlords accept. The account is free to open. You get a debit card (small one-time fee), can hold euros alongside other currencies, and send money internationally at real exchange rates.
 
 **How to open a Wise account:**
 
-1. Go to <a href="https://wise.com/invite/ihpc/willemt52" target="_blank" rel="noopener nofollow sponsored">wise.com</a> and click "Register"
+1. Go to <a href="https://go.expatnetherlandshub.com/wise?ref=/guides/finance/how-to-open-bank-account-netherlands-2026/" target="_blank" rel="noopener nofollow sponsored">wise.com</a> and click "Register"
 2. Sign up with your email address
 3. Complete the identity verification — upload your passport photo and take a selfie
 4. Once verified, go to "Account details" and add EUR to see your European IBAN
@@ -113,7 +113,7 @@ Do this before you get on the plane, or on the day you land. It solves the iDEAL
 
 The whole process takes between 10 and 30 minutes. Verification is usually instant but can occasionally take up to 24 hours.
 
-<a href="https://wise.com/invite/ihpc/willemt52" class="cta-affiliate" rel="noopener nofollow sponsored" target="_blank">Open Your Wise Account in Minutes →</a>
+<a href="https://go.expatnetherlandshub.com/wise?ref=/guides/finance/how-to-open-bank-account-netherlands-2026/" class="cta-affiliate" rel="noopener nofollow sponsored" target="_blank">Open Your Wise Account in Minutes →</a>
 
 Your Wise IBAN works for receiving a salary and setting up direct debits. It is not a full Dutch bank account in the traditional sense — you do not get a Dutch bank app experience, overdraft facilities, or a local branch — but for your first weeks in the country, it is exactly what you need.
 
@@ -205,11 +205,11 @@ The short answer: you cannot open an account at ING, ABN AMRO, or Rabobank witho
 
 ### Option 1: Wise (recommended)
 
-<a href="https://wise.com/invite/ihpc/willemt52" target="_blank" rel="noopener nofollow sponsored">Wise</a> is the most practical solution for most expats, regardless of nationality. It does not require a BSN, a Dutch address, or any Dutch documentation whatsoever.
+<a href="https://go.expatnetherlandshub.com/wise?ref=/guides/finance/how-to-open-bank-account-netherlands-2026/" target="_blank" rel="noopener nofollow sponsored">Wise</a> is the most practical solution for most expats, regardless of nationality. It does not require a BSN, a Dutch address, or any Dutch documentation whatsoever.
 
 **Step-by-step: opening Wise without a BSN**
 
-1. Download the Wise app or go to <a href="https://wise.com/invite/ihpc/willemt52" target="_blank" rel="noopener nofollow sponsored">wise.com</a>
+1. Download the Wise app or go to <a href="https://go.expatnetherlandshub.com/wise?ref=/guides/finance/how-to-open-bank-account-netherlands-2026/" target="_blank" rel="noopener nofollow sponsored">wise.com</a>
 2. Register with your email address and choose a password
 3. Verify your identity — upload a photo of your passport and take a selfie. The system is automated and usually approves within minutes
 4. Once your account is active, navigate to "Account details" and activate EUR. You will receive a European IBAN immediately
@@ -217,7 +217,7 @@ The short answer: you cannot open an account at ING, ABN AMRO, or Rabobank witho
 
 You do not need to add any money to activate the IBAN. The account is free. A physical debit card is optional and costs a small one-time fee.
 
-<a href="https://wise.com/invite/ihpc/willemt52" class="cta-affiliate" rel="noopener nofollow sponsored" target="_blank">Get Your European IBAN with Wise — No BSN Needed →</a>
+<a href="https://go.expatnetherlandshub.com/wise?ref=/guides/finance/how-to-open-bank-account-netherlands-2026/" class="cta-affiliate" rel="noopener nofollow sponsored" target="_blank">Get Your European IBAN with Wise — No BSN Needed →</a>
 
 **What Wise cannot do** without a BSN: it is not a full Dutch bank account. You will not be able to apply for a Dutch mortgage, get a Dutch overdraft facility, or use some iDEAL integrations that explicitly require a traditional Dutch bank. For day-to-day payments, rent, and salary, it is sufficient.
 
@@ -255,7 +255,7 @@ The pre-arrival window is your most stressful financial moment. You have a signe
 
 **Wise** is the easiest option for opening from abroad. There are no geographic restrictions — you can sign up from the UK, India, the US, anywhere. The identity verification is entirely online. Once your account is active and your EUR details are enabled, you have a working European IBAN you can share immediately.
 
-<a href="https://wise.com/invite/ihpc/willemt52" class="cta-affiliate" rel="noopener nofollow sponsored" target="_blank">Open Wise Before You Fly →</a>
+<a href="https://go.expatnetherlandshub.com/wise?ref=/guides/finance/how-to-open-bank-account-netherlands-2026/" class="cta-affiliate" rel="noopener nofollow sponsored" target="_blank">Open Wise Before You Fly →</a>
 
 **Bunq** allows remote sign-up for EU/EEA citizens. If you are moving from within the EU and want a Dutch NL IBAN from day one, bunq is the best pre-arrival option.
 
@@ -339,7 +339,7 @@ Some Dutch universities have partnerships with specific banks. Delft (TU Delft),
 
 ### Practical recommendation for students
 
-1. Open <a href="https://wise.com/invite/ihpc/willemt52" target="_blank" rel="noopener nofollow sponsored">Wise</a> before you arrive — it covers you immediately for receiving stipends, paying rent, and managing money from your home country
+1. Open <a href="https://go.expatnetherlandshub.com/wise?ref=/guides/finance/how-to-open-bank-account-netherlands-2026/" target="_blank" rel="noopener nofollow sponsored">Wise</a> before you arrive — it covers you immediately for receiving stipends, paying rent, and managing money from your home country
 2. Register at the gemeente (or use your university's group registration if available) and get your BSN
 3. Open an ING Student Account once your BSN arrives — it is the most practical long-term option for a Dutch student
 4. Keep Wise open for international transfers, especially if you are receiving money from your home country
@@ -358,7 +358,7 @@ Dutch banks define residency based on your BRP registration (inschrijving in de 
 
 ### Wise: the realistic non-resident option
 
-For most non-residents, <a href="https://wise.com/invite/ihpc/willemt52" target="_blank" rel="noopener nofollow sponsored">Wise</a> is the only practical account that genuinely works. You can:
+For most non-residents, <a href="https://go.expatnetherlandshub.com/wise?ref=/guides/finance/how-to-open-bank-account-netherlands-2026/" target="_blank" rel="noopener nofollow sponsored">Wise</a> is the only practical account that genuinely works. You can:
 
 - Hold and send EUR with a European IBAN
 - Pay Dutch suppliers, landlords, and services
@@ -368,7 +368,7 @@ For most non-residents, <a href="https://wise.com/invite/ihpc/willemt52" target=
 
 Wise does not require a Dutch address, a Dutch BSN, or any Dutch documentation. It is available to residents of over 180 countries.
 
-<a href="https://wise.com/invite/ihpc/willemt52" class="cta-affiliate" rel="noopener nofollow sponsored" target="_blank">Open a Wise Account as a Non-Resident →</a>
+<a href="https://go.expatnetherlandshub.com/wise?ref=/guides/finance/how-to-open-bank-account-netherlands-2026/" class="cta-affiliate" rel="noopener nofollow sponsored" target="_blank">Open a Wise Account as a Non-Resident →</a>
 
 ### Revolut for non-residents
 
@@ -402,7 +402,7 @@ If you are a non-resident operating a registered Dutch business (eenmanszaak, BV
 
 This depends on your situation:
 
-**Just arrived, no BSN yet:** Open <a href="https://wise.com/invite/ihpc/willemt52" target="_blank" rel="noopener nofollow sponsored">Wise</a> today. It is the only sensible option at this stage.
+**Just arrived, no BSN yet:** Open <a href="https://go.expatnetherlandshub.com/wise?ref=/guides/finance/how-to-open-bank-account-netherlands-2026/" target="_blank" rel="noopener nofollow sponsored">Wise</a> today. It is the only sensible option at this stage.
 
 **EU citizen, want a full Dutch bank from day one:** Bunq allows remote sign-up for EU citizens and functions as a proper Dutch bank account. More expensive, but fully Dutch.
 

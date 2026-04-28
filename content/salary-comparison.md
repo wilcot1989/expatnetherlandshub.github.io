@@ -236,7 +236,7 @@ Many expats in the Netherlands receive salary components from abroad, support fa
 
 **The standard option** is your bank's international transfer — convenient but often carrying a 2–4% spread on the exchange rate plus a flat fee. On a EUR 2,000 monthly transfer, that is EUR 40–80 per month or up to EUR 960 per year in hidden costs.
 
-<a href="https://wise.com/invite/ihpc/willemt52" target="_blank" rel="noopener nofollow sponsored" class="cta-affiliate">Check real exchange rates with Wise →</a>
+<a href="https://go.expatnetherlandshub.com/wise?ref=/salary-comparison/" target="_blank" rel="noopener nofollow sponsored" class="cta-affiliate">Check real exchange rates with Wise →</a>
 
 Wise uses the mid-market exchange rate (the real rate, without markup) and charges a small transparent fee typically below 1%. For regular salary transfers or sending money home to family, the difference adds up quickly over a year. I have used it personally for transfers to the UK and can confirm the rates hold up.
 

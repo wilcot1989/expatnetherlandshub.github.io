@@ -25,7 +25,7 @@ faq:
     a: "Yes. If you have a valid glasses prescription from another country, Dutch opticians will generally use it to make new glasses or fit contact lenses. However, most Dutch opticians will do a quick check to verify the prescription is current (typically valid for 1-2 years) before making expensive eyewear. If your prescription is more than two years old, they may recommend a new eye test."
 products:
   - name: "SafetyWing"
-    url: "https://safetywing.com/?referenceID=26482728"
+    url: "https://go.expatnetherlandshub.com/safetywing?ref=/blog/eye-care-optician-netherlands-expats-2026/"
     price: "0.00"
     tag: "Expat Insurance"
 ---

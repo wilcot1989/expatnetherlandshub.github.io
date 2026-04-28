@@ -33,7 +33,7 @@ faq:
     a: "Dutch is one of the easiest languages for English speakers. The Foreign Service Institute classifies it as a Category I language, meaning it takes roughly 600-750 hours to reach proficiency. Dutch shares a huge amount of vocabulary and grammar structures with English, and word order (while tricky at times) follows patterns that English speakers can learn to predict. The most common challenges are the guttural 'g' sound, gendered articles (de/het), and verb placement in subordinate clauses."
 products:
   - name: "Preply"
-    url: "https://preply.sjv.io/bkazQk"
+    url: "https://go.expatnetherlandshub.com/preply?ref=/guides/integration/learn-dutch-free-online-2026/"
     price: "15.00"
   - name: "Duolingo"
     url: "https://www.duolingo.com/"
@@ -318,7 +318,7 @@ The most cost-effective approach I have seen — and the one I recommend to the 
 
 A platform like Preply lets you find Dutch tutors at various price points and schedule lessons that fit your life. Unlike a language school where you pay hundreds of euros per month, you can start with just one 60-minute lesson per week with a tutor and supplement with free daily practice using the resources above. My full comparison of tutoring platforms is in the [Preply vs italki guide](/guides/integration/preply-vs-italki-dutch-lessons-2026/).
 
-<a href="https://preply.sjv.io/bkazQk" target="_blank" rel="noopener nofollow sponsored" class="cta-affiliate">Find a Dutch tutor on Preply →</a>
+<a href="https://go.expatnetherlandshub.com/preply?ref=/guides/integration/learn-dutch-free-online-2026/" target="_blank" rel="noopener nofollow sponsored" class="cta-affiliate">Find a Dutch tutor on Preply →</a>
 
 The combination of free apps (for vocabulary and grammar drills) plus a real tutor (for speaking, pronunciation, and personalized correction) gets most learners to conversational Dutch faster than either approach alone.
 
@@ -416,7 +416,7 @@ At this stage, you have a solid A2 foundation. The question becomes: are free re
 
 If your goal is B1 (comfortable conversation), I strongly recommend adding weekly conversation practice. This can be free (Discord, tandem partner, Dutch friends) or paid (a tutor on Preply). The expats I work with who add just one tutor session per week to their free self-study routine typically reach B1 within another 4-6 months.
 
-<a href="https://preply.sjv.io/bkazQk" target="_blank" rel="noopener nofollow sponsored" class="cta-affiliate">Find a Dutch tutor on Preply →</a>
+<a href="https://go.expatnetherlandshub.com/preply?ref=/guides/integration/learn-dutch-free-online-2026/" target="_blank" rel="noopener nofollow sponsored" class="cta-affiliate">Find a Dutch tutor on Preply →</a>
 
 
 ---
@@ -490,7 +490,7 @@ Watching Dutch TV is an excellent supplement but not sufficient on its own. NPO 
 
 ### When should I start paying for Dutch lessons?
 
-Consider investing in paid resources when you hit a plateau, usually around A2-B1 level. At this stage, free apps and passive learning become less effective, and you need personalized feedback on pronunciation, grammar errors, and conversation skills. A tutor on a platform like [Preply](https://preply.sjv.io/bkazQk) can identify your specific weak points and accelerate your progress in ways that self-study cannot.
+Consider investing in paid resources when you hit a plateau, usually around A2-B1 level. At this stage, free apps and passive learning become less effective, and you need personalized feedback on pronunciation, grammar errors, and conversation skills. A tutor on a platform like [Preply](https://go.expatnetherlandshub.com/preply?ref=/guides/integration/learn-dutch-free-online-2026/) can identify your specific weak points and accelerate your progress in ways that self-study cannot.
 
 ### Is Dutch hard to learn for English speakers?
 
@@ -520,6 +520,6 @@ Commit to 30 minutes a day and follow the six-month plan above. You will be surp
 
 And when you are ready to take the next step — when you want someone who can hear your pronunciation mistakes, correct your grammar in real time, and hold you accountable — consider booking your first session with a Dutch tutor.
 
-<a href="https://preply.sjv.io/bkazQk" target="_blank" rel="noopener nofollow sponsored" class="cta-affiliate">Find a Dutch tutor on Preply →</a>
+<a href="https://go.expatnetherlandshub.com/preply?ref=/guides/integration/learn-dutch-free-online-2026/" target="_blank" rel="noopener nofollow sponsored" class="cta-affiliate">Find a Dutch tutor on Preply →</a>
 
 *Veel succes met je Nederlands!* And if you are planning your broader integration journey, start with my guide to the [best Dutch language courses](/guides/integration/best-dutch-language-courses-2026/) and the full [how to prepare for the inburgeringsexamen](/guides/integration/inburgeringsexamen-preparation-guide-2026/). You can also explore [working as a freelancer in the Netherlands](/guides/work/freelancer-zzp-guide-netherlands-2026/) if that is part of your plans — being able to speak Dutch opens up many more business opportunities.

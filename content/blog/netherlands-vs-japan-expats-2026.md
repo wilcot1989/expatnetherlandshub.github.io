@@ -22,11 +22,11 @@ faq:
     a: "For the Netherlands, EU freedom of movement does not apply to British or Australian citizens post-Brexit, so a residence permit is needed. For Japan, working holiday visas are available for Australians and some other nationalities. Both countries require employer sponsorship or specific visa categories for professional long-term stays."
 products:
   - name: "Wise"
-    url: "https://wise.com/invite/ihpc/willemt52"
+    url: "https://go.expatnetherlandshub.com/wise?ref=/blog/netherlands-vs-japan-expats-2026/"
     price: "0.00"
     tag: "Currency Transfer"
   - name: "SafetyWing"
-    url: "https://safetywing.com/?referenceID=26482728"
+    url: "https://go.expatnetherlandshub.com/safetywing?ref=/blog/netherlands-vs-japan-expats-2026/"
     price: "0.00"
     tag: "Expat Insurance"
 ---
@@ -237,7 +237,7 @@ Opening a Dutch bank account requires a BSN, a registered address, and sometimes
 
 For international transfers, using Wise significantly reduces costs compared to bank wire transfers. If you are managing money across multiple countries, a Wise multi-currency account is genuinely practical.
 
-<a href="https://wise.com/invite/ihpc/willemt52" rel="noopener nofollow sponsored" class="cta-affiliate">Open a Wise account — multi-currency banking for expats in the Netherlands or Japan</a>
+<a href="https://go.expatnetherlandshub.com/wise?ref=/blog/netherlands-vs-japan-expats-2026/" rel="noopener nofollow sponsored" class="cta-affiliate">Open a Wise account — multi-currency banking for expats in the Netherlands or Japan</a>
 
 ### Japan Banking
 Japanese banking remains relatively traditional. Opening a Japanese bank account as a foreigner has historically required a residence card and some patience. Japan Post Bank (Yucho) is accessible. Large banks including MUFG, SMBC, and Mizuho have English-language support but the processes are more paper-intensive than in the Netherlands.

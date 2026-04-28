@@ -12,7 +12,7 @@ author_bio: "Expat coach and relocation specialist. Half Dutch, half British, li
 featured_image: "/images/categories/finance.svg"
 products:
   - name: "Wise"
-    url: "https://wise.com/invite/ihpc/willemt52"
+    url: "https://go.expatnetherlandshub.com/wise?ref=/guides/finance/bunq-review-expats-netherlands-2026/"
     price: "0.00"
   - name: "bunq"
     url: "https://www.bunq.com/"
@@ -167,9 +167,9 @@ Bunq is primarily a euro-denominated account. For international transfers (sendi
 
 Bunq does offer multi-currency accounts in some plans, allowing you to hold USD, GBP, and a selection of other currencies. But the exchange rates and fees are not as sharp as Wise's mid-market rate approach.
 
-My recommendation: use bunq as your Dutch banking account and <a href="https://wise.com/invite/ihpc/willemt52" target="_blank" rel="noopener nofollow sponsored" class="cta-affiliate">Use Wise for international transfers →</a>. Wise gives you the real mid-market exchange rate with a transparent percentage fee, which almost always beats bunq (or any traditional bank) for sending money abroad.
+My recommendation: use bunq as your Dutch banking account and <a href="https://go.expatnetherlandshub.com/wise?ref=/guides/finance/bunq-review-expats-netherlands-2026/" target="_blank" rel="noopener nofollow sponsored" class="cta-affiliate">Use Wise for international transfers →</a>. Wise gives you the real mid-market exchange rate with a transparent percentage fee, which almost always beats bunq (or any traditional bank) for sending money abroad.
 
-<a href="https://wise.com/invite/ihpc/willemt52" target="_blank" rel="noopener nofollow sponsored" class="cta-affiliate">Use Wise alongside bunq for international transfers →</a>
+<a href="https://go.expatnetherlandshub.com/wise?ref=/guides/finance/bunq-review-expats-netherlands-2026/" target="_blank" rel="noopener nofollow sponsored" class="cta-affiliate">Use Wise alongside bunq for international transfers →</a>
 
 ---
 
@@ -360,7 +360,7 @@ Bunq is a genuinely good bank for expats in the Netherlands. The NL IBAN and iDE
 
 The price is the honest catch. EUR 8.99/month for the plan that actually makes bunq worthwhile is about four times more than the cheapest traditional Dutch account. You are paying for features that many people will use, but some people will not.
 
-My recommendation for most expats: start with the [best bank account overview for expats](/guides/finance/best-bank-account-expats-netherlands-2026/) to understand all your options. If you value budgeting tools, environmental features, or a modern app experience, Easy Money is worth the cost. If you want the cheapest functional Dutch bank account, ING wins on price. If you need international transfers, add <a href="https://wise.com/invite/ihpc/willemt52" target="_blank" rel="noopener nofollow sponsored" class="cta-affiliate">Use Wise for international transfers →</a> regardless of which Dutch bank you choose.
+My recommendation for most expats: start with the [best bank account overview for expats](/guides/finance/best-bank-account-expats-netherlands-2026/) to understand all your options. If you value budgeting tools, environmental features, or a modern app experience, Easy Money is worth the cost. If you want the cheapest functional Dutch bank account, ING wins on price. If you need international transfers, add <a href="https://go.expatnetherlandshub.com/wise?ref=/guides/finance/bunq-review-expats-netherlands-2026/" target="_blank" rel="noopener nofollow sponsored" class="cta-affiliate">Use Wise for international transfers →</a> regardless of which Dutch bank you choose.
 
 For further comparisons, see our [full breakdown of the best finance apps for expats in the Netherlands](/guides/finance/best-finance-apps-expats-netherlands-2026/) and use our [bank account chooser tool](/tools/bank-account-chooser/) to find the right fit for your situation. You can also run the numbers on your total banking costs with our [cost of living calculator](/tools/cost-of-living-calculator/).
 
@@ -442,7 +442,7 @@ If you are here for 6 months or less:
 - Traditional banks with free or low-cost accounts may be simpler. ING's standard account is easy to open, fully functional, and cheap
 - The registration process for bunq is similarly quick, so there is no real onboarding advantage either way
 
-My actual recommendation for short-stay expats: start with a free or low-cost Dutch account (ING), add <a href="https://wise.com/invite/ihpc/willemt52" target="_blank" rel="noopener nofollow sponsored" class="cta-affiliate">Wise for international transfers →</a>, and assess whether you want to add bunq for its sub-account features after a month or two.
+My actual recommendation for short-stay expats: start with a free or low-cost Dutch account (ING), add <a href="https://go.expatnetherlandshub.com/wise?ref=/guides/finance/bunq-review-expats-netherlands-2026/" target="_blank" rel="noopener nofollow sponsored" class="cta-affiliate">Wise for international transfers →</a>, and assess whether you want to add bunq for its sub-account features after a month or two.
 
 ---
 

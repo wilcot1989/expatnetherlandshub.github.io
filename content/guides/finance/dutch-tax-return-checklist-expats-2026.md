@@ -12,7 +12,7 @@ author_bio: "Expat coach and relocation specialist. Half Dutch, half British, li
 featured_image: "/images/featured/dutch-tax-return-checklist-expats-2026.webp"
 products:
   - name: "Wise"
-    url: "https://wise.com/invite/ihpc/willemt52"
+    url: "https://go.expatnetherlandshub.com/wise?ref=/guides/finance/dutch-tax-return-checklist-expats-2026/"
     price: "0.00"
   - name: "Expatax"
     url: "https://www.expatax.nl/"
@@ -184,7 +184,7 @@ For a thorough grounding in the Dutch tax system before you start, see the [Dutc
 
 If you are managing money across countries — receiving income from abroad, transferring savings, or paying tax in multiple places — Wise is the most cost-effective way to move money internationally without bank wire fees eating into your refund.
 
-<a href="https://wise.com/invite/ihpc/willemt52" class="cta-affiliate" rel="noopener nofollow sponsored" target="_blank">Open a Wise Account for Easy International Transfers →</a>
+<a href="https://go.expatnetherlandshub.com/wise?ref=/guides/finance/dutch-tax-return-checklist-expats-2026/" class="cta-affiliate" rel="noopener nofollow sponsored" target="_blank">Open a Wise Account for Easy International Transfers →</a>
 
 ---
 

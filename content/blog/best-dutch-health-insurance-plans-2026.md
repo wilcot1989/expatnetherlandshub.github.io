@@ -25,7 +25,7 @@ faq:
     a: "You can switch health insurer once per year during the open enrolment period, which runs from 1 November to 31 December. Your new insurance starts on 1 January. Outside this window, you can only switch if you change jobs and your collective insurance scheme changes, or in a few other specific circumstances. It is worth comparing annually — premiums change every year, and the insurer that was cheapest in 2024 may not be the best value in 2026."
 products:
   - name: "SafetyWing"
-    url: "https://safetywing.com/?referenceID=26482728"
+    url: "https://go.expatnetherlandshub.com/safetywing?ref=/blog/best-dutch-health-insurance-plans-2026/"
     price: "0.00"
     tag: "Expat Insurance"
 ---

@@ -25,7 +25,7 @@ faq:
     a: "Menzis, CZ, and Zilveren Kruis are all mainstream Dutch insurers at a comparable service level, with premiums within EUR 5–15/month of each other. Menzis tends to have slightly lower premiums than Zilveren Kruis but a slightly smaller national network. CZ is strong in North Brabant and Zeeland; Menzis is stronger in northern and eastern Netherlands. All three have adequate English support. For expats in Amsterdam or Rotterdam, the practical differences are small — hospital networks, coverage, and service quality are broadly comparable. The most meaningful factors are premium cost (check annually, as it shifts), supplementary package quality relative to your personal needs, and whether your employer offers a collective discount with any of them."
 products:
   - name: "SafetyWing"
-    url: "https://safetywing.com/?referenceID=26482728"
+    url: "https://go.expatnetherlandshub.com/safetywing?ref=/blog/menzis-health-insurance-review-expats-2026/"
     price: "0.00"
     tag: "Expat Insurance"
 ---

@@ -216,7 +216,7 @@ Contact your bank before your departure date and ask specifically about their no
 
 ### For transfers after leaving
 
-<a href="https://wise.com/invite/ihpc/willemt52" target="_blank" rel="noopener nofollow sponsored" class="cta-affiliate">Keep a Wise account for transfers after leaving →</a>
+<a href="https://go.expatnetherlandshub.com/wise?ref=/guides/legal/dutch-deregistration-leaving-checklist-2026/" target="_blank" rel="noopener nofollow sponsored" class="cta-affiliate">Keep a Wise account for transfers after leaving →</a>
 
 A Wise multi-currency account is useful here. You can hold a EUR balance and receive refunds or deposits from Dutch sources, then convert or transfer to your local currency as needed. I used this for over a year after leaving and it saved me considerable transfer fees compared to using my new local bank account for Dutch inflows.
 

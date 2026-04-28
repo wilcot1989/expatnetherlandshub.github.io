@@ -9,7 +9,7 @@ keywords: ["best coworking amsterdam 2026", "coworking amsterdam neighbourhood",
 affiliate: true
 products:
   - name: "Wise"
-    url: "https://wise.com/invite/ihpc/willemt52"
+    url: "https://go.expatnetherlandshub.com/wise?ref=/guides/work/best-coworking-amsterdam-neighbourhood-2026/"
     price: "0.00"
   - name: "LinkedIn Premium"
     url: "https://www.linkedin.com/premium/"

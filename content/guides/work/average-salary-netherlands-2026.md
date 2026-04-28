@@ -12,7 +12,7 @@ tags: ["salary Netherlands", "average salary", "expat salary", "Dutch wages", "s
 keywords: ["average salary Netherlands 2026", "salary Netherlands by industry", "Dutch salary expats", "average wage Netherlands"]
 products:
   - name: "Wise"
-    url: "https://wise.com/invite/ihpc/willemt52"
+    url: "https://go.expatnetherlandshub.com/wise?ref=/guides/work/average-salary-netherlands-2026/"
     price: "0.00"
     tag: "Currency Transfer"
 faq:
@@ -358,7 +358,7 @@ Many expats earning in euros send money back to family, repay loans, or maintain
 
 Wise transfers money using the real mid-market exchange rate with a small transparent fee (usually 0.4–0.8%). On a €1,000 monthly transfer, that difference often adds up to €20–€40 saved per month versus a traditional bank.
 
-<a href="https://wise.com/invite/ihpc/willemt52" target="_blank" rel="noopener nofollow sponsored" class="cta-affiliate">Try Wise for international transfers →</a>
+<a href="https://go.expatnetherlandshub.com/wise?ref=/guides/work/average-salary-netherlands-2026/" target="_blank" rel="noopener nofollow sponsored" class="cta-affiliate">Try Wise for international transfers →</a>
 
 Read my full [Wise review for expats in the Netherlands](/guides/finance/wise-review-expats-2026/) for a detailed breakdown of fees, supported currencies, and how it compares to Revolut.
 
@@ -461,7 +461,7 @@ The average gross salary in the Netherlands is €44,000 — a solid benchmark, 
 
 **The practical takeaway:** before accepting any offer, check it against CBS data and Loonwijzer, calculate your 30% ruling benefit if applicable, and think in terms of net salary against actual cost of living in the city you're moving to. A €50,000 offer in Rotterdam is financially more comfortable than a €55,000 offer in central Amsterdam for most lifestyles.
 
-If you're sending part of your salary home, set up a [Wise account](https://wise.com/invite/ihpc/willemt52) before your first payday — the savings on exchange rates add up fast.
+If you're sending part of your salary home, set up a [Wise account](https://go.expatnetherlandshub.com/wise?ref=/guides/work/average-salary-netherlands-2026/) before your first payday — the savings on exchange rates add up fast.
 
 For a full picture of your personal finances as an expat in the Netherlands, use the [salary comparison tool](/salary-comparison/) and work through the [expat tax return guide](/guides/finance/dutch-tax-return-expats-guide-2026/). And if you're weighing up a freelance career versus employment, the [ZZP guide](/guides/work/freelancer-zzp-guide-netherlands-2026/) will help you make that call with actual numbers.
 

@@ -25,7 +25,7 @@ faq:
     a: "Switching is easy. You sign up with your new supplier online; they contact your grid operator and handle the administrative transfer. Your current supplier must be given notice (opzegtermijn), usually 30 days for month-to-month contracts or as specified in your contract. Fixed-rate contracts have a specific end date; switching before that end date may incur a cancellation fee (boete). Compare suppliers via Independer, Energievergelijk, or Gaslicht.com. When switching, have your current energy usage data (annual kWh and m³ from your last bill) and EAN codes (the unique codes identifying your electricity and gas connection points, found on your energy bill) ready."
 products:
   - name: "Wise"
-    url: "https://wise.com/invite/ihpc/willemt52"
+    url: "https://go.expatnetherlandshub.com/wise?ref=/blog/dutch-utilities-explained-expats-2026/"
     price: "0.00"
     tag: "Currency Transfer"
 ---

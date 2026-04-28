@@ -12,7 +12,7 @@ keywords: ["expat insurance cost Netherlands", "health insurance Netherlands pri
 type: "guide"
 products:
   - name: "SafetyWing"
-    url: "https://safetywing.com/?referenceID=26482728"
+    url: "https://go.expatnetherlandshub.com/safetywing?ref=/guides/health/expat-insurance-cost-netherlands-2026/"
     price: "0.00"
     tag: "Expat Insurance"
 faq:
@@ -154,7 +154,7 @@ Dutch basisverzekering is the right choice once you are a full resident. But the
 
 ### SafetyWing — budget option for nomads and transitional expats
 
-[SafetyWing](https://safetywing.com/?referenceID=26482728) is designed for people who are between residencies, moving countries frequently, or in that awkward pre-registration gap. It is not a replacement for Dutch basisverzekering once you are a registered resident — but for the transition period, it fills the gap well. For a full roundup of all international options, see [best expat insurance Netherlands 2026](/blog/best-expat-insurance-netherlands-2026/).
+[SafetyWing](https://go.expatnetherlandshub.com/safetywing?ref=/guides/health/expat-insurance-cost-netherlands-2026/) is designed for people who are between residencies, moving countries frequently, or in that awkward pre-registration gap. It is not a replacement for Dutch basisverzekering once you are a registered resident — but for the transition period, it fills the gap well. For a full roundup of all international options, see [best expat insurance Netherlands 2026](/blog/best-expat-insurance-netherlands-2026/).
 
 **Prices (2026):**
 - Age 18–39: from **€45–€55/month**

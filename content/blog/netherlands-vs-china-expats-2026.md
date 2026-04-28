@@ -25,11 +25,11 @@ faq:
     a: "Most expats living or working in China use a VPN to access blocked services. The challenge is that China actively blocks VPN traffic, and not all VPNs work consistently. VPNs with obfuscation technology — which disguises VPN traffic as regular HTTPS traffic — are generally more reliable in China than standard VPN protocols. NordVPN includes obfuscated servers and is used by many expats in China as part of their toolkit. Download and configure your VPN before arriving in China — once you are inside the country, downloading VPN software itself can be difficult because many VPN provider websites are also blocked."
 products:
   - name: "Wise"
-    url: "https://wise.com/invite/ihpc/willemt52"
+    url: "https://go.expatnetherlandshub.com/wise?ref=/blog/netherlands-vs-china-expats-2026/"
     price: "0.00"
     tag: "Currency Transfer"
   - name: "SafetyWing"
-    url: "https://safetywing.com/?referenceID=26482728"
+    url: "https://go.expatnetherlandshub.com/safetywing?ref=/blog/netherlands-vs-china-expats-2026/"
     price: "0.00"
     tag: "Expat Insurance"
 ---
@@ -276,7 +276,7 @@ Bank transfers between euros and Chinese renminbi are consistently expensive at 
 
 One practical note: China has capital controls on outbound yuan transfers. There are limits on how much CNY can be moved out of China per year per individual (the basic limit is USD 50,000 equivalent annually). This is relevant for expats who have accumulated savings in China and want to repatriate them. Plan accordingly — large transfers out of China should be discussed with a financial adviser familiar with Chinese capital regulations.
 
-<a href="https://wise.com/invite/ihpc/willemt52" rel="noopener nofollow sponsored" class="cta-affiliate">Send money between EUR and CNY — Wise mid-market rates, transparent fees</a>
+<a href="https://go.expatnetherlandshub.com/wise?ref=/blog/netherlands-vs-china-expats-2026/" rel="noopener nofollow sponsored" class="cta-affiliate">Send money between EUR and CNY — Wise mid-market rates, transparent fees</a>
 
 ---
 

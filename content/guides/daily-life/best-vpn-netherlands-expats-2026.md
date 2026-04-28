@@ -293,7 +293,7 @@ Download the VPN app for your device:
 
 - Connect to your home country server before opening your banking app or website.
 - Some banks use additional detection beyond IP addresses. If you are still blocked, try clearing your browser cookies or using an incognito window.
-- Consider setting up a <a href="https://wise.com/invite/ihpc/willemt52" rel="noopener nofollow sponsored" target="_blank">Wise account</a> for international transfers. Wise works globally without VPN issues and offers far better exchange rates than traditional banks. See our [guide to the best bank accounts for expats](/guides/finance/best-bank-account-expats-netherlands-2026/).
+- Consider setting up a <a href="https://go.expatnetherlandshub.com/wise?ref=/guides/daily-life/best-vpn-netherlands-expats-2026/" rel="noopener nofollow sponsored" target="_blank">Wise account</a> for international transfers. Wise works globally without VPN issues and offers far better exchange rates than traditional banks. See our [guide to the best bank accounts for expats](/guides/finance/best-bank-account-expats-netherlands-2026/).
 
 ### For Work
 
@@ -387,7 +387,7 @@ Most banks detect where you are connecting from using your IP address. If you tr
 - Some banks also check your device fingerprint, not just your IP — if you face issues, try clearing cookies and using an incognito window alongside the VPN
 - For Dutch banking, no VPN is needed — you can access ING, ABN AMRO, bunq, and all other Dutch banks from any IP address without triggering checks
 
-If you are still primarily using a home country bank in the Netherlands, a VPN makes this frictionless. Once you have a Dutch bank account set up, a service like [Wise](https://wise.com/invite/ihpc/willemt52) handles international money transfers between your home currency and EUR at fair exchange rates without geographic IP concerns.
+If you are still primarily using a home country bank in the Netherlands, a VPN makes this frictionless. Once you have a Dutch bank account set up, a service like [Wise](https://go.expatnetherlandshub.com/wise?ref=/guides/daily-life/best-vpn-netherlands-expats-2026/) handles international money transfers between your home currency and EUR at fair exchange rates without geographic IP concerns.
 
 ---
 

@@ -12,7 +12,7 @@ author_bio: "Expat coach and relocation specialist. Half Dutch, half British, li
 featured_image: "/images/featured/dutch-pension-system-expats-2026.webp"
 products:
   - name: "Wise"
-    url: "https://wise.com/invite/ihpc/willemt52"
+    url: "https://go.expatnetherlandshub.com/wise?ref=/guides/finance/dutch-pension-system-expats-2026/"
     price: "0.00"
   - name: "bunq"
     url: "https://www.bunq.com/"
@@ -144,7 +144,7 @@ If you prefer flexibility over tax advantages:
 - **ETFs** — Broad market exposure with minimal fees
 - **Savings accounts** — Low returns but zero risk
 
-Use <a href="https://wise.com/invite/ihpc/willemt52" rel="noopener nofollow sponsored" target="_blank">Wise</a> to transfer money between your Dutch and home country accounts at the real exchange rate.
+Use <a href="https://go.expatnetherlandshub.com/wise?ref=/guides/finance/dutch-pension-system-expats-2026/" rel="noopener nofollow sponsored" target="_blank">Wise</a> to transfer money between your Dutch and home country accounts at the real exchange rate.
 
 ## The 30% Ruling and Your Pension
 

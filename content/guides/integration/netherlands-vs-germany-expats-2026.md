@@ -95,7 +95,7 @@ On the same gross salary, the 30% ruling gives you roughly EUR 11,000 more per y
 
 Germany has no equivalent to the 30% ruling. The tax system is progressive with rates from 14% to 45%, plus a 5.5% solidarity surcharge on the tax amount. Church tax (8-9% of income tax) applies if you are registered with a recognized church, which catches some expats by surprise. Social contributions in Germany are also higher, covering pension, unemployment insurance, healthcare, and long-term care insurance.
 
-For expats transferring money between countries during a relocation, <a href="https://wise.com/invite/ihpc/willemt52" rel="noopener nofollow sponsored" target="_blank">Wise</a> offers transparent exchange rates with low fees, which is particularly useful for managing salary payments and savings across currencies.
+For expats transferring money between countries during a relocation, <a href="https://go.expatnetherlandshub.com/wise?ref=/guides/integration/netherlands-vs-germany-expats-2026/" rel="noopener nofollow sponsored" target="_blank">Wise</a> offers transparent exchange rates with low fees, which is particularly useful for managing salary payments and savings across currencies.
 
 ---
 
@@ -350,7 +350,7 @@ Germany's Indian community has grown rapidly, particularly in tech hubs like Fra
 
 **Consulting and finance:** Both countries have consulting and financial services hubs (Rotterdam port logistics, Amsterdam finance; Frankfurt as Europe's banking capital, Munich's insurance sector). German consulting roles more frequently require German language proficiency.
 
-**Remittance comparison:** Sending money back to India is a regular priority for many expats. Based on my own use and feedback from the community, <a href="https://wise.com/invite/ihpc/willemt52" rel="noopener nofollow sponsored" target="_blank">Wise</a> offers consistently low fees and mid-market exchange rates for EUR-INR transfers, outperforming most traditional banks and many transfer services. From either country, the process is identical: set up a Wise account, link your local bank account, and transfers typically arrive in India within 1-2 business days. German bank accounts (Konto) and Dutch bank accounts (both with IBAN) are both supported.
+**Remittance comparison:** Sending money back to India is a regular priority for many expats. Based on my own use and feedback from the community, <a href="https://go.expatnetherlandshub.com/wise?ref=/guides/integration/netherlands-vs-germany-expats-2026/" rel="noopener nofollow sponsored" target="_blank">Wise</a> offers consistently low fees and mid-market exchange rates for EUR-INR transfers, outperforming most traditional banks and many transfer services. From either country, the process is identical: set up a Wise account, link your local bank account, and transfers typically arrive in India within 1-2 business days. German bank accounts (Konto) and Dutch bank accounts (both with IBAN) are both supported.
 
 The Dutch 30% ruling also has a direct impact on how much Indian expats can save and remit. On a EUR 70,000 salary, the ruling adds roughly EUR 11,000 in annual take-home pay — money that can meaningfully accelerate savings goals, family support, or property investment back in India.
 

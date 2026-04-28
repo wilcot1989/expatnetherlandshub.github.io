@@ -13,7 +13,7 @@ author_bio: "Expat coach and relocation specialist. Half Dutch, half British, li
 featured_image: "/images/featured/zorgtoeslag-huurtoeslag-expats-2026.webp"
 products:
   - name: "Wise"
-    url: "https://wise.com/invite/ihpc/willemt52"
+    url: "https://go.expatnetherlandshub.com/wise?ref=/guides/finance/zorgtoeslag-huurtoeslag-expats-2026/"
     price: "0.00"
   - name: "bunq"
     url: "https://www.bunq.com/"

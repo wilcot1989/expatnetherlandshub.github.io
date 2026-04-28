@@ -25,11 +25,11 @@ faq:
     a: "The Dutch healthcare system covers basic mental health support through your GP (huisarts). Your GP can refer you to a psychologist or mental health practice (GGZ) covered by basic insurance (basisverzekering), though waiting lists can be long. Private psychologists and therapists offering English-language sessions are available in all major cities — expect to pay €80–150 per session privately. Online therapy platforms such as OpenUp (used by many international companies) and Better Help are also used by expats. Expat-specific support groups exist through some international churches and community organisations. The Mind (themindinstitute.com) offers English-language therapy in Amsterdam."
 products:
   - name: "Wise"
-    url: "https://wise.com/invite/ihpc/willemt52"
+    url: "https://go.expatnetherlandshub.com/wise?ref=/blog/single-expat-netherlands-guide-2026/"
     price: "0.00"
     tag: "Currency Transfer"
   - name: "SafetyWing"
-    url: "https://safetywing.com/?referenceID=26482728"
+    url: "https://go.expatnetherlandshub.com/safetywing?ref=/blog/single-expat-netherlands-guide-2026/"
     price: "0.00"
     tag: "Expat Insurance"
 ---

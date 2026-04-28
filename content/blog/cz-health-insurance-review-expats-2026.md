@@ -25,7 +25,7 @@ faq:
     a: "You can only switch your basic health insurer during the annual open enrollment period, which runs from mid-November to 31 December. The new policy takes effect on 1 January. If you are new to the Netherlands and registering for the first time, you can take out CZ at any point in the year — your coverage starts from your municipality registration date."
 products:
   - name: "SafetyWing"
-    url: "https://safetywing.com/?referenceID=26482728"
+    url: "https://go.expatnetherlandshub.com/safetywing?ref=/blog/cz-health-insurance-review-expats-2026/"
     price: "0.00"
     tag: "Expat Insurance"
 ---

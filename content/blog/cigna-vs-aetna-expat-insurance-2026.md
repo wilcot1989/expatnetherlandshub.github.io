@@ -27,11 +27,11 @@ faq:
     a: "SafetyWing is a legitimate, much cheaper alternative for expats who primarily need emergency and hospitalisation cover. At approximately USD 40–100/month, it costs a fraction of Cigna or Aetna. The trade-off is that coverage is more limited — it focuses on emergencies and accidents rather than full primary care and specialist outpatient services. For young, healthy expats on a budget or for short assignments, it is worth serious consideration. For older expats, families, or people with ongoing health needs, Cigna or Aetna provide more thorough cover."
 products:
   - name: "SafetyWing"
-    url: "https://safetywing.com/?referenceID=26482728"
+    url: "https://go.expatnetherlandshub.com/safetywing?ref=/blog/cigna-vs-aetna-expat-insurance-2026/"
     price: "0.00"
     tag: "Expat Insurance"
   - name: "Wise"
-    url: "https://wise.com/invite/ihpc/willemt52"
+    url: "https://go.expatnetherlandshub.com/wise?ref=/blog/cigna-vs-aetna-expat-insurance-2026/"
     price: "0.00"
     tag: "Currency Transfer"
 ---
@@ -260,7 +260,7 @@ This is a genuine advantage over Dutch basisverzekering if you are not planning 
 
 If the pricing above made you wince, SafetyWing is worth knowing about.
 
-<a href="https://safetywing.com/?referenceID=26482728" target="_blank" rel="noopener nofollow sponsored" class="cta-affiliate">Check SafetyWing pricing →</a>
+<a href="https://go.expatnetherlandshub.com/safetywing?ref=/blog/cigna-vs-aetna-expat-insurance-2026/" target="_blank" rel="noopener nofollow sponsored" class="cta-affiliate">Check SafetyWing pricing →</a>
 
 SafetyWing's Nomad Insurance plan runs approximately USD 40–100/month depending on age. That is roughly EUR 37–92/month at current exchange rates — a fraction of Cigna or Aetna.
 
@@ -331,7 +331,7 @@ For context on that process, see my guides on [30% ruling and tax implications](
 
 **Plan your transition to Dutch insurance.** If you expect to register in the Netherlands within six to twelve months, buy international cover for the transition period without overcommitting. Most international policies are annual — check cancellation terms if your situation changes.
 
-**Currency matters.** Both Cigna and Aetna price policies in USD or EUR. If you earn in a different currency, consider the exchange rate exposure. For expats moving money between currencies, <a href="https://wise.com/invite/ihpc/willemt52" target="_blank" rel="noopener nofollow sponsored" class="cta-affiliate">Wise</a> offers much lower fees than traditional bank transfers — relevant when paying international insurance premiums.
+**Currency matters.** Both Cigna and Aetna price policies in USD or EUR. If you earn in a different currency, consider the exchange rate exposure. For expats moving money between currencies, <a href="https://go.expatnetherlandshub.com/wise?ref=/blog/cigna-vs-aetna-expat-insurance-2026/" target="_blank" rel="noopener nofollow sponsored" class="cta-affiliate">Wise</a> offers much lower fees than traditional bank transfers — relevant when paying international insurance premiums.
 
 ---
 
@@ -363,7 +363,7 @@ Yes, but switching mid-policy typically means losing continuous cover benefits a
 
 ### Is SafetyWing a real alternative to Cigna and Aetna?
 
-SafetyWing is a legitimate, much cheaper alternative for expats who primarily need emergency and hospitalisation cover. At approximately USD 40–100/month, it costs a fraction of Cigna or Aetna. The trade-off is more limited coverage — it focuses on emergencies rather than full primary care. For young, healthy expats on a budget or for short assignments, it is worth serious consideration. <a href="https://safetywing.com/?referenceID=26482728" target="_blank" rel="noopener nofollow sponsored" class="cta-affiliate">Check SafetyWing pricing →</a>
+SafetyWing is a legitimate, much cheaper alternative for expats who primarily need emergency and hospitalisation cover. At approximately USD 40–100/month, it costs a fraction of Cigna or Aetna. The trade-off is more limited coverage — it focuses on emergencies rather than full primary care. For young, healthy expats on a budget or for short assignments, it is worth serious consideration. <a href="https://go.expatnetherlandshub.com/safetywing?ref=/blog/cigna-vs-aetna-expat-insurance-2026/" target="_blank" rel="noopener nofollow sponsored" class="cta-affiliate">Check SafetyWing pricing →</a>
 
 ---
 

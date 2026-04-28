@@ -269,7 +269,7 @@ Use [rental contract rights for expats](/guides/legal/dutch-rental-contract-righ
 
 For transfers from the UK, US, Australia, or elsewhere, I use and recommend Wise. The fees are transparent and the exchange rates are far better than standard bank transfers — which matters when you are moving €50,000 or more.
 
-<a href="https://wise.com/invite/ihpc/willemt52" target="_blank" rel="noopener nofollow sponsored" class="cta-affiliate">Transfer your down payment with Wise →</a>
+<a href="https://go.expatnetherlandshub.com/wise?ref=/guides/housing/buying-vs-renting-netherlands-expats-2026/" target="_blank" rel="noopener nofollow sponsored" class="cta-affiliate">Transfer your down payment with Wise →</a>
 
 Make sure any international transfer arrives in your Dutch bank account clearly labelled with the source (the notaris will ask about it), and allow at least 3-5 business days before your completion date.
 

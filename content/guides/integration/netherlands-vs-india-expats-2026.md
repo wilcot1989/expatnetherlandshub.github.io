@@ -112,7 +112,7 @@ After housing (€1,600/month for a decent one-bedroom in Eindhoven), health ins
 
 And when you send that surplus home? At current rates, €1,000 converts to approximately ₹92,000. That pays for a lot in India.
 
-<a href="https://wise.com/invite/ihpc/willemt52" target="_blank" rel="noopener nofollow sponsored" class="cta-affiliate">Send money to India with Wise →</a>
+<a href="https://go.expatnetherlandshub.com/wise?ref=/guides/integration/netherlands-vs-india-expats-2026/" target="_blank" rel="noopener nofollow sponsored" class="cta-affiliate">Send money to India with Wise →</a>
 
 Wise consistently charges 0.5–0.7% on EUR to INR transfers, compared to 2–4% at most banks. On €1,000, the difference is around €25–35 per transfer. If you are sending money home every month, that adds up to €300–400 per year in savings.
 
@@ -357,7 +357,7 @@ If you have a role lined up or are actively considering the move, here is a prac
 1. Apply for your [Highly Skilled Migrant (kennismigrant) visa](/guides/legal/highly-skilled-migrant-visa-netherlands-2026/) — your employer's HR team should sponsor this, but understand the process yourself
 2. Confirm with your employer that they will apply for the 30% ruling within four months of your start date
 3. Arrange temporary furnished accommodation for the first 1–3 months — do not sign a long-term lease remotely if you can avoid it
-4. Open a Wise account before you travel to manage EUR-INR transfers affordably: <a href="https://wise.com/invite/ihpc/willemt52" target="_blank" rel="noopener nofollow sponsored" class="cta-affiliate">Send money to India with Wise →</a>
+4. Open a Wise account before you travel to manage EUR-INR transfers affordably: <a href="https://go.expatnetherlandshub.com/wise?ref=/guides/integration/netherlands-vs-india-expats-2026/" target="_blank" rel="noopener nofollow sponsored" class="cta-affiliate">Send money to India with Wise →</a>
 
 **In your first month:**
 5. Register at the gemeente (municipal office) — this is your DigiD, which you need for almost everything in the Netherlands

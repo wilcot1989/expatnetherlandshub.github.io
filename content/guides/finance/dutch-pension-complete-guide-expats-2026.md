@@ -12,7 +12,7 @@ author_bio: "Expat coach and writer at ExpatNetherlandsHub.com"
 featured_image: "/images/categories/finance.svg"
 products:
   - name: "Wise"
-    url: "https://wise.com/invite/ihpc/willemt52"
+    url: "https://go.expatnetherlandshub.com/wise?ref=/guides/finance/dutch-pension-complete-guide-expats-2026/"
     price: "0.00"
     tag: "Currency Transfer"
 faq:
@@ -224,7 +224,7 @@ The SVB website (svb.nl) has an English-language section with application forms.
 
 Payments are made in euros. If your bank account is in a different currency, exchange fees can erode your payments over time. This is where a tool like **Wise** is genuinely useful: you receive your AOW in a euro account and convert at the real exchange rate when you need local currency.
 
-[Open a Wise account](https://wise.com/invite/ihpc/willemt52) — no monthly fee, mid-market exchange rate, and you can hold multiple currencies in one account. See my [full Wise review for expats](/guides/finance/wise-review-expats-netherlands-2026/) for details on how it works.
+[Open a Wise account](https://go.expatnetherlandshub.com/wise?ref=/guides/finance/dutch-pension-complete-guide-expats-2026/) — no monthly fee, mid-market exchange rate, and you can hold multiple currencies in one account. See my [full Wise review for expats](/guides/finance/wise-review-expats-netherlands-2026/) for details on how it works.
 
 ### Employer Pension: Contact the Fund Directly
 
@@ -366,7 +366,7 @@ If that is part of a broader international retirement picture, it can be a meani
 | **SVB** | AOW applications, voluntary continuation | svb.nl |
 | **Belastingdienst** | Dutch tax authority, pension tax information | belastingdienst.nl |
 | **Pensioenregister** | Register behind mijnpensioenoverzicht | pensioenregister.nl |
-| **Wise** | Receive pension abroad in euros, convert efficiently | [wise.com](https://wise.com/invite/ihpc/willemt52) |
+| **Wise** | Receive pension abroad in euros, convert efficiently | [wise.com](https://go.expatnetherlandshub.com/wise?ref=/guides/finance/dutch-pension-complete-guide-expats-2026/) |
 
 For interactive tools to help plan your Dutch finances, visit the [ExpatNetherlandsHub tools page](/tools/). The [salary comparison tool](/salary-comparison/) gives you a benchmark for pension adequacy based on your sector and seniority.
 
@@ -422,7 +422,7 @@ As an expat, the most important things to do are:
 
 Dutch pension from a short or medium-length stay in the Netherlands can add meaningfully to your retirement income. Even 10 years of AOW (€280/month) and a few years of employer pension can amount to €500+ per month in retirement — real money over a 20-year retirement period.
 
-If you are going to retire outside the Netherlands, think about how you will receive those euro payments. A service like [Wise](https://wise.com/invite/ihpc/willemt52) lets you receive pension payments in a euro account and convert to your local currency at the real exchange rate — avoiding the bank fees that erode small monthly payments most. For more on how Wise works for expats, see my [Wise review](/guides/finance/wise-review-expats-netherlands-2026/).
+If you are going to retire outside the Netherlands, think about how you will receive those euro payments. A service like [Wise](https://go.expatnetherlandshub.com/wise?ref=/guides/finance/dutch-pension-complete-guide-expats-2026/) lets you receive pension payments in a euro account and convert to your local currency at the real exchange rate — avoiding the bank fees that erode small monthly payments most. For more on how Wise works for expats, see my [Wise review](/guides/finance/wise-review-expats-netherlands-2026/).
 
 For a ZZP or freelancer perspective on pension without an employer, read my [ZZP guide for the Netherlands](/guides/work/freelancer-zzp-guide-netherlands-2026/).
 

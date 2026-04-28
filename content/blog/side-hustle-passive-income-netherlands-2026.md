@@ -25,7 +25,7 @@ faq:
     a: "Yes. Renting out a room in your primary residence (where you also live) qualifies for the kamerverhuurvrijstelling — a rental income exemption. If the rental income is below EUR 5,998 per year (2026 approximate; check the Belastingdienst for the current threshold), it is fully exempt from tax and does not need to be declared. Above that threshold, the excess is taxable. This applies to room rental, not to renting your entire home while you are away (which is subject to different rules and often prohibited by your rental contract or mortgage terms). Platforms like Airbnb publish Dutch tax guides on their websites that are worth reading if you plan to use them."
 products:
   - name: "Wise"
-    url: "https://wise.com/invite/ihpc/willemt52"
+    url: "https://go.expatnetherlandshub.com/wise?ref=/blog/side-hustle-passive-income-netherlands-2026/"
     price: "0.00"
     tag: "Currency Transfer"
 ---

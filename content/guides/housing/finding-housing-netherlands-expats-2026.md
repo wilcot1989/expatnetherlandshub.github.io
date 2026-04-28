@@ -379,6 +379,6 @@ If you are still planning your move, our [complete guide to moving to the Nether
 
 Need to transfer your rental deposit or first month's rent from abroad? Wise is significantly cheaper than a standard international bank transfer — many expats save EUR 50-150 on their first deposit alone.
 
-<a href="https://wise.com/invite/ihpc/willemt52" target="_blank" rel="noopener nofollow sponsored" class="cta-affiliate">Transfer your deposit with Wise →</a>
+<a href="https://go.expatnetherlandshub.com/wise?ref=/guides/housing/finding-housing-netherlands-expats-2026/" target="_blank" rel="noopener nofollow sponsored" class="cta-affiliate">Transfer your deposit with Wise →</a>
 
 Veel succes met je zoektocht. Good luck with your search.

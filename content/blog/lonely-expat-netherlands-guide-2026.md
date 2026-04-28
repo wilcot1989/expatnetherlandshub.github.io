@@ -25,7 +25,7 @@ faq:
     a: "InterNations is worth trying, particularly in the first 1–2 years after arrival. The free membership gives access to community forums and some events; the paid Albatross membership (around EUR 10 per month) gives access to all events and the full platform. The quality varies significantly by city — Amsterdam and The Hague have the most active communities. InterNations events tend toward the slightly older, more professionally-oriented expat demographic. They are good for networking and for meeting people in a similar transition phase. They are less useful for building deep friendships, which tend to come from repeated contact in a shared-interest setting rather than one-off networking events."
 products:
   - name: "SafetyWing"
-    url: "https://safetywing.com/?referenceID=26482728"
+    url: "https://go.expatnetherlandshub.com/safetywing?ref=/blog/lonely-expat-netherlands-guide-2026/"
     price: "0.00"
     tag: "Expat Insurance"
 ---

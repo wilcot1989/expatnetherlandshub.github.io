@@ -273,7 +273,7 @@ For expats with financial ties in both France and the Netherlands — or who are
 
 Wise gives you EUR, GBP, USD, and 40+ other currency accounts with real exchange rates. For expats moving between European countries or receiving income in multiple currencies, it handles the practical realities of cross-border finance better than most traditional banks.
 
-<a href="https://wise.com/invite/ihpc/willemt52" target="_blank" rel="noopener nofollow sponsored" class="cta-affiliate">Open a Wise Account →</a>
+<a href="https://go.expatnetherlandshub.com/wise?ref=/guides/integration/netherlands-vs-france-expats-2026/" target="_blank" rel="noopener nofollow sponsored" class="cta-affiliate">Open a Wise Account →</a>
 
 ---
 

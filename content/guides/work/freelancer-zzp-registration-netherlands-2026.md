@@ -9,7 +9,7 @@ keywords: ["freelance Netherlands", "ZZP registration", "how to become freelance
 affiliate: true
 products:
   - name: "Wise"
-    url: "https://wise.com/invite/ihpc/willemt52"
+    url: "https://go.expatnetherlandshub.com/wise?ref=/guides/work/freelancer-zzp-registration-netherlands-2026/"
     price: "0.00"
     tag: "Business Banking"
 author: "Sarah van den Berg"
@@ -270,7 +270,7 @@ Most Dutch banks offer business accounts: ABN AMRO, ING, Rabobank, and Bunq all 
 
 If you invoice clients in other currencies — euros from EU clients, pounds from UK clients, dollars from US clients — Wise Business is worth serious consideration. It lets you receive and hold multiple currencies, convert at the mid-market rate with transparent fees, and pay out to your Dutch account. For expat freelancers with international client bases, it is often significantly cheaper than routing everything through a Dutch bank.
 
-[Open a Wise Business account](https://wise.com/invite/ihpc/willemt52) — and see the full [Wise review for expats](/guides/finance/wise-review-expats-2026/) if you want a detailed comparison before deciding.
+[Open a Wise Business account](https://go.expatnetherlandshub.com/wise?ref=/guides/work/freelancer-zzp-registration-netherlands-2026/) — and see the full [Wise review for expats](/guides/finance/wise-review-expats-2026/) if you want a detailed comparison before deciding.
 
 ### What Every Invoice Must Include
 

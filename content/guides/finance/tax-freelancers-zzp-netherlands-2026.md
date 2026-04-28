@@ -16,7 +16,7 @@ schema_type: "Article"
 toc: true
 products:
   - name: "Wise"
-    url: "https://wise.com/invite/ihpc/willemt52"
+    url: "https://go.expatnetherlandshub.com/wise?ref=/guides/finance/tax-freelancers-zzp-netherlands-2026/"
     price: "0.00"
   - name: "Expatax"
     url: "https://www.expatax.nl/"
@@ -376,7 +376,7 @@ Your accounting software should connect to your business bank account via a bank
 
 Keeping your business and personal finances completely separate is not just good practice — it is the difference between a smooth audit and a painful one. For expat freelancers, [Wise Business](/guides/finance/dutch-business-bank-account-zzp-2026/) deserves particular attention because it handles international payments at real exchange rates and gives you local account details in multiple currencies.
 
-<a href="https://wise.com/invite/ihpc/willemt52" target="_blank" rel="noopener nofollow sponsored" class="cta-affiliate">Open a Wise Business account →</a>
+<a href="https://go.expatnetherlandshub.com/wise?ref=/guides/finance/tax-freelancers-zzp-netherlands-2026/" target="_blank" rel="noopener nofollow sponsored" class="cta-affiliate">Open a Wise Business account →</a>
 
 Wise Business integrates with most Dutch accounting packages, gives you a Dutch IBAN for client payments, and makes receiving payments from international clients far less expensive than traditional Dutch banks. If you work with clients across multiple countries — which many expat freelancers do — this alone can save you several hundred euros a year in conversion fees. I use it alongside my Dutch bank account and would not go back.
 

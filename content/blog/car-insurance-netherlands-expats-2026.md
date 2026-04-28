@@ -25,7 +25,7 @@ faq:
     a: "The schadevrije jaren system gives you a discount on your premium for each claim-free year. After one claim-free year you are placed at step 1; after five years at step 5, and so on, up to around step 14–15 with most insurers, where the maximum discount (typically 60–75% off the base premium) applies. Each time you make a fault claim, you are moved back several steps and your premium increases. When switching insurers, your schadevrije jaren follow you via a central database (Roy-Data) that all Dutch insurers query. Foreign years are added to your starting step when your foreign history is accepted."
 products:
   - name: "SafetyWing"
-    url: "https://safetywing.com/?referenceID=26482728"
+    url: "https://go.expatnetherlandshub.com/safetywing?ref=/blog/car-insurance-netherlands-expats-2026/"
     price: "0.00"
     tag: "Expat Insurance"
 ---

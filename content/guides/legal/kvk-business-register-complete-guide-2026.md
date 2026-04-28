@@ -9,7 +9,7 @@ keywords: ["KvK business register", "KvK registration Netherlands", "handelsregi
 affiliate: true
 products:
   - name: "Wise"
-    url: "https://wise.com/invite/ihpc/willemt52"
+    url: "https://go.expatnetherlandshub.com/wise?ref=/guides/legal/kvk-business-register-complete-guide-2026/"
     price: "0.00"
     tag: "Business Banking"
 author: "Sarah van den Berg"
@@ -379,7 +379,7 @@ Once you have your KvK number, the next practical step is opening a business ban
 
 Most Dutch banks ask for your KvK number at minimum; some also want your BTW number, so you may need to wait the 2 weeks.
 
-For expats, I consistently recommend **[Wise Business](https://wise.com/invite/ihpc/willemt52)** as a complement or alternative to a traditional Dutch bank account. Wise gives you:
+For expats, I consistently recommend **[Wise Business](https://go.expatnetherlandshub.com/wise?ref=/guides/legal/kvk-business-register-complete-guide-2026/)** as a complement or alternative to a traditional Dutch bank account. Wise gives you:
 
 - EUR account with Dutch IBAN (ING-backed)
 - Multi-currency accounts for receiving payments in GBP, USD, and other currencies without conversion fees

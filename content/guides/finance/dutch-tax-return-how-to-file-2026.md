@@ -19,7 +19,7 @@ tags:
   - box 1 box 2 box 3
 products:
   - name: "Wise"
-    url: "https://wise.com/invite/ihpc/willemt52"
+    url: "https://go.expatnetherlandshub.com/wise?ref=/guides/finance/dutch-tax-return-how-to-file-2026/"
     price: "0.00"
   - name: "Expatax"
     url: "https://www.expatax.nl/"

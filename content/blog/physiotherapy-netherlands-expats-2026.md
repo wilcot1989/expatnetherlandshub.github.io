@@ -25,7 +25,7 @@ faq:
     a: "A fysiotherapeut (physiotherapist) is a general physical therapy practitioner. A manueel therapeut (manual therapist) has completed additional post-graduate training in manipulative therapy of the spine and joints. Manual therapists are often sought for chronic neck and back problems where spinal manipulation is indicated. Both are registered under the BIG register in the Netherlands. Manual therapy sessions are covered by some supplementary insurance packages but not all — check your policy before booking."
 products:
   - name: "SafetyWing"
-    url: "https://safetywing.com/?referenceID=26482728"
+    url: "https://go.expatnetherlandshub.com/safetywing?ref=/blog/physiotherapy-netherlands-expats-2026/"
     price: "0.00"
     tag: "Expat Insurance"
 ---

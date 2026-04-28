@@ -25,7 +25,7 @@ faq:
     a: "2dehands.be is a Belgian classifieds platform (owned by the same company as Marktplaats). It is primarily used in Belgium and the Dutch-speaking Flanders region, but many listings ship to the Netherlands and some Dutch sellers list on both platforms. If you cannot find a specific item on Marktplaats, checking 2dehands is worth a try, especially for niche items. The interface is identical to Marktplaats."
 products:
   - name: "Wise"
-    url: "https://wise.com/invite/ihpc/willemt52"
+    url: "https://go.expatnetherlandshub.com/wise?ref=/blog/buying-second-hand-netherlands-guide-2026/"
     price: "0.00"
     tag: "Currency Transfer"
 ---

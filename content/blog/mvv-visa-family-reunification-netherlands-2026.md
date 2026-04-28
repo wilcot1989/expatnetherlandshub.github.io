@@ -22,11 +22,11 @@ faq:
     a: "No. EU/EEA and Swiss citizens do not need an MVV. They can enter the Netherlands and register at the municipality. Family members of EU citizens may also be exempt from the MVV requirement depending on their own nationality and whether they qualify under EU free movement rules."
 products:
   - name: "Wise"
-    url: "https://wise.com/invite/ihpc/willemt52"
+    url: "https://go.expatnetherlandshub.com/wise?ref=/blog/mvv-visa-family-reunification-netherlands-2026/"
     price: "0.00"
     tag: "Currency Transfer"
   - name: "SafetyWing"
-    url: "https://safetywing.com/?referenceID=26482728"
+    url: "https://go.expatnetherlandshub.com/safetywing?ref=/blog/mvv-visa-family-reunification-netherlands-2026/"
     price: "0.00"
     tag: "Expat Insurance"
 ---

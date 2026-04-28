@@ -196,7 +196,7 @@ This central location means you can work anywhere in the Randstad while living i
 
 ### Week 2-4: First Weeks
 1. Register at the municipality (gemeente) — get BSN
-2. Open a bank account — use <a href="https://wise.com/invite/ihpc/willemt52" rel="noopener nofollow sponsored" target="_blank">Wise</a> for international transfers
+2. Open a bank account — use <a href="https://go.expatnetherlandshub.com/wise?ref=/guides/housing/moving-to-utrecht-guide-2026/" rel="noopener nofollow sponsored" target="_blank">Wise</a> for international transfers
 3. Get health insurance (mandatory)
 4. Get a Dutch SIM card or phone plan
 5. Buy or rent a bicycle
@@ -299,7 +299,7 @@ For the full housing search process in Utrecht's competitive market, read our [f
 
 For dental care, the same applies — register proactively, not when you have a problem. See the [English-speaking dentist guide](/guides/health/english-speaking-dentist-netherlands-2026/) for how to find a practice.
 
-**Banking:** Every major Dutch bank has branches in Utrecht (ING, ABN AMRO, Rabobank). You need a BSN before you can open a traditional bank account. For the period between arrival and BSN registration — typically 5-10 business days — a <a href="https://wise.com/invite/ihpc/willemt52" rel="noopener nofollow sponsored" target="_blank">Wise account</a> lets you hold and spend euros immediately without waiting. The [bank account guide for expats](/guides/finance/best-bank-account-expats-netherlands-2026/) covers your options in detail.
+**Banking:** Every major Dutch bank has branches in Utrecht (ING, ABN AMRO, Rabobank). You need a BSN before you can open a traditional bank account. For the period between arrival and BSN registration — typically 5-10 business days — a <a href="https://go.expatnetherlandshub.com/wise?ref=/guides/housing/moving-to-utrecht-guide-2026/" rel="noopener nofollow sponsored" target="_blank">Wise account</a> lets you hold and spend euros immediately without waiting. The [bank account guide for expats](/guides/finance/best-bank-account-expats-netherlands-2026/) covers your options in detail.
 
 **Internet and connectivity:** Fibre internet is widely available in Utrecht. Ziggo, KPN, and T-Mobile all have good coverage. Expect to pay €35-€60/month for 500Mbps+ fibre. Most providers require a BSN and Dutch bank account, so this is a week-two task, not week-one. See the [best internet providers guide](/guides/daily-life/best-internet-providers-netherlands-2026/) for a comparison.
 

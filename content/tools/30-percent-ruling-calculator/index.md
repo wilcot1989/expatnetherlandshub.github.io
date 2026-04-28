@@ -1201,7 +1201,7 @@ RESULTS
 <h3>Ready for the next step?</h3>
 <div class="cta-buttons">
 <a
-href="https://wise.com/invite/ihpc/willemt52"
+href="https://go.expatnetherlandshub.com/wise?ref=/tools/30-percent-ruling-calculator/index/"
 target="_blank"
 rel="noopener noreferrer"
 class="cta-affiliate"

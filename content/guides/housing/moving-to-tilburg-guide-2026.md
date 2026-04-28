@@ -144,7 +144,7 @@ The Tilburg rental market is competitive for good properties in Centrum and Oud-
 
 One thing worth knowing about the Tilburg market specifically: the student population creates high demand for smaller properties (rooms, studios, one-beds) between April and September each year. If you are looking in this size range and timing your move during peak university intake periods, start your search earlier than you think necessary.
 
-For transferring money for rental deposits and advance rent payments, <a href="https://wise.com/invite/ihpc/willemt52" target="_blank" rel="noopener nofollow sponsored">Wise</a> saves significantly on exchange fees compared to transferring through a bank — particularly relevant if you are sending from a non-euro currency. The transparency on fees is also genuinely useful when you are trying to calculate exact deposit amounts.
+For transferring money for rental deposits and advance rent payments, <a href="https://go.expatnetherlandshub.com/wise?ref=/guides/housing/moving-to-tilburg-guide-2026/" target="_blank" rel="noopener nofollow sponsored">Wise</a> saves significantly on exchange fees compared to transferring through a bank — particularly relevant if you are sending from a non-euro currency. The transparency on fees is also genuinely useful when you are trying to calculate exact deposit amounts.
 
 ## Major Employers in Tilburg
 

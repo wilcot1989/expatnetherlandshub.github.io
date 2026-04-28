@@ -12,7 +12,7 @@ author_bio: "Expat coach and relocation specialist. Half Dutch, half British, li
 featured_image: "/images/featured/best-bank-account-expats-netherlands-2026.webp"
 products:
   - name: "Wise"
-    url: "https://wise.com/invite/ihpc/willemt52"
+    url: "https://go.expatnetherlandshub.com/wise?ref=/guides/finance/best-bank-account-expats-netherlands-2026/"
     price: "0.00"
   - name: "bunq"
     url: "https://www.bunq.com/"
@@ -60,17 +60,17 @@ When I arrived in the Netherlands, I spent two weeks without a functioning bank 
 
 Before diving into each bank in detail, here are our top picks:
 
-1. **Best first account (open before you arrive)**: <a href="https://wise.com/invite/ihpc/willemt52" target="_blank" rel="noopener nofollow sponsored">Wise</a>
+1. **Best first account (open before you arrive)**: <a href="https://go.expatnetherlandshub.com/wise?ref=/guides/finance/best-bank-account-expats-netherlands-2026/" target="_blank" rel="noopener nofollow sponsored">Wise</a>
 2. **Best digital bank for daily use in the Netherlands**: [Bunq](https://www.bunq.com/nl)
 3. **Best traditional bank for long-term residents**: ING
 
-Most expats benefit from having two accounts: a <a href="https://wise.com/invite/ihpc/willemt52" target="_blank" rel="noopener nofollow sponsored">Wise account</a> for international transfers and currency conversion, plus either a traditional Dutch bank or Bunq for everyday Dutch banking.
+Most expats benefit from having two accounts: a <a href="https://go.expatnetherlandshub.com/wise?ref=/guides/finance/best-bank-account-expats-netherlands-2026/" target="_blank" rel="noopener nofollow sponsored">Wise account</a> for international transfers and currency conversion, plus either a traditional Dutch bank or Bunq for everyday Dutch banking.
 
 ---
 
 ## 1. Wise -- Best First Account for Expats
 
-<a href="https://wise.com/invite/ihpc/willemt52" target="_blank" rel="noopener nofollow sponsored">Wise</a> (formerly TransferWise) is the single best financial tool for anyone moving to the Netherlands. It solves the biggest problem new expats face: you need a bank account before you have a BSN, and you need to transfer money internationally without getting destroyed by exchange rate markups.
+<a href="https://go.expatnetherlandshub.com/wise?ref=/guides/finance/best-bank-account-expats-netherlands-2026/" target="_blank" rel="noopener nofollow sponsored">Wise</a> (formerly TransferWise) is the single best financial tool for anyone moving to the Netherlands. It solves the biggest problem new expats face: you need a bank account before you have a BSN, and you need to transfer money internationally without getting destroyed by exchange rate markups.
 
 ### Key Features
 
@@ -100,9 +100,9 @@ The ability to open an account before arriving in the Netherlands is invaluable.
 
 ### Our Verdict
 
-Every expat moving to the Netherlands should open a <a href="https://wise.com/invite/ihpc/willemt52" rel="noopener nofollow sponsored" target="_blank">Wise account</a>. Even if you eventually set up a traditional Dutch bank account, Wise remains the go-to tool for international transfers and multi-currency management.
+Every expat moving to the Netherlands should open a <a href="https://go.expatnetherlandshub.com/wise?ref=/guides/finance/best-bank-account-expats-netherlands-2026/" rel="noopener nofollow sponsored" target="_blank">Wise account</a>. Even if you eventually set up a traditional Dutch bank account, Wise remains the go-to tool for international transfers and multi-currency management.
 
-<a href="https://wise.com/invite/ihpc/willemt52" class="cta-affiliate" rel="noopener nofollow sponsored" target="_blank">Open Your Free Wise Account →</a>
+<a href="https://go.expatnetherlandshub.com/wise?ref=/guides/finance/best-bank-account-expats-netherlands-2026/" class="cta-affiliate" rel="noopener nofollow sponsored" target="_blank">Open Your Free Wise Account →</a>
 
 ---
 
@@ -327,13 +327,13 @@ Revolut is a useful secondary account for travel and multi-currency spending, bu
 
 ## How to Open Your First Dutch Bank Account: Step by Step
 
-1. **Before you move**: Open a <a href="https://wise.com/invite/ihpc/willemt52" target="_blank" rel="noopener nofollow sponsored">Wise account</a> to get a European IBAN immediately. Transfer initial funds from your home country at the best exchange rate.
+1. **Before you move**: Open a <a href="https://go.expatnetherlandshub.com/wise?ref=/guides/finance/best-bank-account-expats-netherlands-2026/" target="_blank" rel="noopener nofollow sponsored">Wise account</a> to get a European IBAN immediately. Transfer initial funds from your home country at the best exchange rate.
 
 2. **After registration at the gemeente**: Once you have your BSN, apply for a traditional Dutch bank (ING or ABN AMRO recommended) or a full-featured digital bank ([Bunq](https://www.bunq.com/nl) or [N26](https://n26.com/en-nl)).
 
 3. **Set up direct debits**: Link your health insurance, rent (if paid by direct debit), and utility payments to your Dutch bank account.
 
-4. **Keep Wise for international transfers**: Continue using <a href="https://wise.com/invite/ihpc/willemt52" target="_blank" rel="noopener nofollow sponsored">Wise</a> whenever you need to send money internationally or convert currencies. The savings compared to traditional bank transfers add up quickly.
+4. **Keep Wise for international transfers**: Continue using <a href="https://go.expatnetherlandshub.com/wise?ref=/guides/finance/best-bank-account-expats-netherlands-2026/" target="_blank" rel="noopener nofollow sponsored">Wise</a> whenever you need to send money internationally or convert currencies. The savings compared to traditional bank transfers add up quickly.
 
 ---
 
@@ -437,7 +437,7 @@ Whether you are transferring your savings from your home country to the Netherla
 
 For expats making regular monthly transfers (for example, maintaining a mortgage or investment in their home country from Dutch earnings), the cumulative saving over a year is substantial.
 
-<a href="https://wise.com/invite/ihpc/willemt52" rel="noopener nofollow sponsored" target="_blank" class="cta-affiliate">Send money internationally with Wise — real exchange rates</a>
+<a href="https://go.expatnetherlandshub.com/wise?ref=/guides/finance/best-bank-account-expats-netherlands-2026/" rel="noopener nofollow sponsored" target="_blank" class="cta-affiliate">Send money internationally with Wise — real exchange rates</a>
 
 ---
 
@@ -470,14 +470,14 @@ Not sure which banking setup suits your situation? Our [bank account chooser](/t
 
 For most expats arriving in the Netherlands in 2026, I recommend this two-account setup:
 
-1. **<a href="https://wise.com/invite/ihpc/willemt52" target="_blank" rel="noopener nofollow sponsored">Wise</a>** as your first and international account (open before you arrive)
+1. **<a href="https://go.expatnetherlandshub.com/wise?ref=/guides/finance/best-bank-account-expats-netherlands-2026/" target="_blank" rel="noopener nofollow sponsored">Wise</a>** as your first and international account (open before you arrive)
 2. **ING or [Bunq](https://www.bunq.com/nl)** as your primary Dutch bank for everyday use (open after receiving your BSN)
 
 This combination gives you the best of both worlds: low-cost international transfers and multi-currency management with Wise, plus full Dutch banking integration (iDEAL, direct debits, ATMs) with your Dutch bank.
 
-Start by opening your <a href="https://wise.com/invite/ihpc/willemt52" rel="noopener nofollow sponsored" target="_blank">Wise account today</a> so you are ready to hit the ground running when you arrive.
+Start by opening your <a href="https://go.expatnetherlandshub.com/wise?ref=/guides/finance/best-bank-account-expats-netherlands-2026/" rel="noopener nofollow sponsored" target="_blank">Wise account today</a> so you are ready to hit the ground running when you arrive.
 
-<a href="https://wise.com/invite/ihpc/willemt52" class="cta-affiliate" rel="noopener nofollow sponsored" target="_blank">Open Your Free Wise Account →</a>
+<a href="https://go.expatnetherlandshub.com/wise?ref=/guides/finance/best-bank-account-expats-netherlands-2026/" class="cta-affiliate" rel="noopener nofollow sponsored" target="_blank">Open Your Free Wise Account →</a>
 
 ---
 

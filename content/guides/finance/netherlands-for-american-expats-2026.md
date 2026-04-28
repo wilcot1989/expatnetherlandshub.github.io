@@ -12,7 +12,7 @@ author_bio: "Expat coach and relocation specialist. Half Dutch, half British, li
 featured_image: "/images/categories/finance.svg"
 products:
   - name: "Wise"
-    url: "https://wise.com/invite/ihpc/willemt52"
+    url: "https://go.expatnetherlandshub.com/wise?ref=/guides/finance/netherlands-for-american-expats-2026/"
     price: "0.00"
   - name: "Expatax"
     url: "https://www.expatax.nl/"
@@ -165,7 +165,7 @@ For a detailed comparison of the main Dutch banks, see my [ING vs ABN AMRO compa
 
 ---
 
-<a href="https://wise.com/invite/ihpc/willemt52" target="_blank" rel="noopener nofollow sponsored" class="cta-affiliate">Open a Wise account — no hidden fees, real exchange rate →</a>
+<a href="https://go.expatnetherlandshub.com/wise?ref=/guides/finance/netherlands-for-american-expats-2026/" target="_blank" rel="noopener nofollow sponsored" class="cta-affiliate">Open a Wise account — no hidden fees, real exchange rate →</a>
 
 ---
 

@@ -22,7 +22,7 @@ faq:
     a: "EU diplomas are generally recognised under EU mutual recognition directives, particularly for regulated professions. For non-regulated work, Dutch employers typically accept EU qualifications based on the country and institution. However, some employers and institutions still request a Nuffic IDW statement for clarity."
 products:
   - name: "Wise"
-    url: "https://wise.com/invite/ihpc/willemt52"
+    url: "https://go.expatnetherlandshub.com/wise?ref=/blog/diploma-recognition-netherlands-expats-2026/"
     price: "0.00"
     tag: "Currency Transfer"
 ---

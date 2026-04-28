@@ -25,7 +25,7 @@ faq:
     a: "American expats face serious restrictions. Most non-US ETFs (including European UCITS ETFs traded on DEGIRO, Trading 212, or ABN AMRO) are classified as Passive Foreign Investment Companies (PFICs) under US tax law. Investing in PFICs triggers punitive US tax treatment. Interactive Brokers is the primary platform that accepts US persons in the Netherlands and provides access to US-listed ETFs (such as those on NYSE Arca), which are not subject to PFIC rules. US expats should consult a dual-qualified US-Dutch tax advisor before investing anything."
 products:
   - name: "Wise"
-    url: "https://wise.com/invite/ihpc/willemt52"
+    url: "https://go.expatnetherlandshub.com/wise?ref=/blog/best-etf-platforms-netherlands-expats-2026/"
     price: "0.00"
     tag: "Currency Transfer"
 ---

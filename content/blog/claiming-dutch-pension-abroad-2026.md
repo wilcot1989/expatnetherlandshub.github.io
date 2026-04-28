@@ -12,7 +12,7 @@ author_bio: "Expat coach and writer at ExpatNetherlandsHub.com"
 featured_image: "/images/categories/finance.svg"
 products:
   - name: "Wise"
-    url: "https://wise.com/invite/ihpc/willemt52"
+    url: "https://go.expatnetherlandshub.com/wise?ref=/blog/claiming-dutch-pension-abroad-2026/"
     price: "0.00"
     tag: "Currency Transfer"
 faq:
@@ -121,7 +121,7 @@ The SVB can pay your AOW directly into a foreign bank account. You provide your 
 
 **For non-euro countries:** If you live in the UK, US, Australia, Canada, or another non-euro country, receiving payment in euros means your bank converts it — often at poor exchange rates with high fees.
 
-A much better option is to use [Wise](https://wise.com/invite/ihpc/willemt52) to receive your pension. Wise gives you a European IBAN in euros that you can give to the SVB, and then converts your pension to your local currency at the mid-market rate. Over the course of a year, the difference between bank exchange rates and Wise exchange rates on regular payments can easily add up to hundreds of euros.
+A much better option is to use [Wise](https://go.expatnetherlandshub.com/wise?ref=/blog/claiming-dutch-pension-abroad-2026/) to receive your pension. Wise gives you a European IBAN in euros that you can give to the SVB, and then converts your pension to your local currency at the mid-market rate. Over the course of a year, the difference between bank exchange rates and Wise exchange rates on regular payments can easily add up to hundreds of euros.
 
 I use Wise myself for receiving Dutch payments now that I'm no longer based in Amsterdam full-time. The setup takes about 15 minutes and you can have your IBAN immediately.
 
@@ -169,7 +169,7 @@ You typically have a window of a few months before your pension start date to ma
 
 ### Step 4: Receive Your Pension Payments
 
-Like AOW, occupational pension payments can be made directly to a foreign bank account. The same considerations apply regarding currency conversion — [Wise](https://wise.com/invite/ihpc/willemt52) is a practical solution for non-euro countries.
+Like AOW, occupational pension payments can be made directly to a foreign bank account. The same considerations apply regarding currency conversion — [Wise](https://go.expatnetherlandshub.com/wise?ref=/blog/claiming-dutch-pension-abroad-2026/) is a practical solution for non-euro countries.
 
 ---
 
@@ -251,7 +251,7 @@ Most banks — Dutch or foreign — apply exchange rates that are significantly 
 
 ### Using Wise for Pension Payments
 
-[Wise](https://wise.com/invite/ihpc/willemt52) is the most practical solution for most expats receiving Dutch pension payments abroad. Here is how it works:
+[Wise](https://go.expatnetherlandshub.com/wise?ref=/blog/claiming-dutch-pension-abroad-2026/) is the most practical solution for most expats receiving Dutch pension payments abroad. Here is how it works:
 
 1. **Open a Wise account** — takes about 15 minutes online, verified with your passport
 2. **Get your Wise EUR account details** — Wise gives you a real European IBAN
@@ -299,7 +299,7 @@ If you are approaching retirement or have recently left the Netherlands, here is
 **6+ months before AOW age:**
 - [ ] Log in to mijnpensioenoverzicht.nl (or contact SVB directly) to confirm your AOW entitlement
 - [ ] Apply for AOW via the SVB website — do not wait until the last minute
-- [ ] Set up a [Wise account](https://wise.com/invite/ihpc/willemt52) and get your EUR IBAN ready
+- [ ] Set up a [Wise account](https://go.expatnetherlandshub.com/wise?ref=/blog/claiming-dutch-pension-abroad-2026/) and get your EUR IBAN ready
 - [ ] Provide SVB with your foreign bank account details
 
 **For occupational pension:**
@@ -372,7 +372,7 @@ Yes, but you need a DigiD to log in. If you no longer have a Dutch address, rene
 
 ### Can I use Wise to receive my Dutch pension abroad?
 
-Yes, and for many expats it is the most cost-effective option. [Wise](https://wise.com/invite/ihpc/willemt52) gives you a local EUR account number (with IBAN) that the SVB and pension funds can pay into, plus the ability to convert and transfer in your local currency at mid-market exchange rates. This is particularly useful if you are living in the UK, US, Australia, or another non-euro country. You can set up a Wise account before you leave the Netherlands and use the same account details for all Dutch pension payments.
+Yes, and for many expats it is the most cost-effective option. [Wise](https://go.expatnetherlandshub.com/wise?ref=/blog/claiming-dutch-pension-abroad-2026/) gives you a local EUR account number (with IBAN) that the SVB and pension funds can pay into, plus the ability to convert and transfer in your local currency at mid-market exchange rates. This is particularly useful if you are living in the UK, US, Australia, or another non-euro country. You can set up a Wise account before you leave the Netherlands and use the same account details for all Dutch pension payments.
 
 ### Can I voluntarily contribute to fill AOW gaps?
 

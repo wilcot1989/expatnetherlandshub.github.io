@@ -12,7 +12,7 @@ author_bio: "Expat coach and relocation specialist. Half Dutch, half British, li
 featured_image: "/images/categories/finance.svg"
 products:
   - name: "Wise"
-    url: "https://wise.com/invite/ihpc/willemt52"
+    url: "https://go.expatnetherlandshub.com/wise?ref=/guides/finance/best-finance-apps-expats-netherlands-2026/"
     price: "0.00"
   - name: "bunq"
     url: "https://www.bunq.com/"
@@ -110,7 +110,7 @@ Wise also gives you a "balance" in multiple currencies that you can hold. I keep
 
 Beyond transfers, Wise gives you a European IBAN that works for salary deposits in the Netherlands — useful before you have a Dutch bank account, and useful as a permanent international account alongside one.
 
-<a href="https://wise.com/invite/ihpc/willemt52" rel="noopener nofollow sponsored" class="cta-affiliate">Open a Wise account — no monthly fee, mid-market exchange rates</a>
+<a href="https://go.expatnetherlandshub.com/wise?ref=/guides/finance/best-finance-apps-expats-netherlands-2026/" rel="noopener nofollow sponsored" class="cta-affiliate">Open a Wise account — no monthly fee, mid-market exchange rates</a>
 
 For a detailed comparison of Wise and Revolut in the Dutch context, see [Wise vs Revolut Netherlands](/guides/finance/wise-vs-revolut-netherlands-2026/).
 
@@ -219,7 +219,7 @@ You need this for iDEAL, Tikkie, and salary payments from Dutch employers who re
 **Layer 2 — International transfers and multi-currency: Wise**
 Open this before or immediately upon arriving. Use it for sending money internationally, holding foreign currency, and as a backup account. The Wise debit card is excellent for travel.
 
-<a href="https://wise.com/invite/ihpc/willemt52" rel="noopener nofollow sponsored" class="cta-affiliate">Get a Wise account — free to open, no monthly fees</a>
+<a href="https://go.expatnetherlandshub.com/wise?ref=/guides/finance/best-finance-apps-expats-netherlands-2026/" rel="noopener nofollow sponsored" class="cta-affiliate">Get a Wise account — free to open, no monthly fees</a>
 
 **Layer 3 — Budgeting: YNAB or bunq sub-accounts**
 If you want serious budget control, YNAB. If you prefer everything in one banking app, bunq's pockets system achieves something similar without needing a separate tool.

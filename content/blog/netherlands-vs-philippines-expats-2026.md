@@ -22,11 +22,11 @@ faq:
     a: "The Philippines Special Resident Retiree's Visa (SRRV) allows foreigners to retire there with relatively few requirements. Dutch citizens can apply, and the visa is relatively affordable and accessible compared to many Asian retirement visa programmes."
 products:
   - name: "Wise"
-    url: "https://wise.com/invite/ihpc/willemt52"
+    url: "https://go.expatnetherlandshub.com/wise?ref=/blog/netherlands-vs-philippines-expats-2026/"
     price: "0.00"
     tag: "Currency Transfer"
   - name: "SafetyWing"
-    url: "https://safetywing.com/?referenceID=26482728"
+    url: "https://go.expatnetherlandshub.com/safetywing?ref=/blog/netherlands-vs-philippines-expats-2026/"
     price: "0.00"
     tag: "Expat Insurance"
 ---
@@ -95,9 +95,9 @@ A comfortable middle-class lifestyle in Manila's business districts costs approx
 
 ### Sending Money Between the Netherlands and the Philippines
 
-EUR–PHP transfers are one of the most common remittance corridors globally. I use [Wise](https://wise.com/invite/ihpc/willemt52) for this. The rates are transparent, fees are low compared to bank wires, and transfers typically arrive within a few hours to a business day. For Filipino expats sending money home regularly, the savings over a year using a service like Wise versus a bank can be substantial.
+EUR–PHP transfers are one of the most common remittance corridors globally. I use [Wise](https://go.expatnetherlandshub.com/wise?ref=/blog/netherlands-vs-philippines-expats-2026/) for this. The rates are transparent, fees are low compared to bank wires, and transfers typically arrive within a few hours to a business day. For Filipino expats sending money home regularly, the savings over a year using a service like Wise versus a bank can be substantial.
 
-<a href="https://wise.com/invite/ihpc/willemt52" rel="noopener nofollow sponsored" class="cta-affiliate">Send money to the Philippines with Wise — low fees, real exchange rates</a>
+<a href="https://go.expatnetherlandshub.com/wise?ref=/blog/netherlands-vs-philippines-expats-2026/" rel="noopener nofollow sponsored" class="cta-affiliate">Send money to the Philippines with Wise — low fees, real exchange rates</a>
 
 ## Healthcare
 
@@ -223,7 +223,7 @@ The practical options in 2026:
 
 **GCash and Philippine fintech:** GCash, the dominant Philippine mobile wallet, accepts international transfers from several partners. If your family uses GCash, check whether your chosen transfer service integrates directly.
 
-<a href="https://wise.com/invite/ihpc/willemt52" rel="noopener nofollow sponsored" class="cta-affiliate">Send money to the Philippines with Wise — transparent rates, low fees</a>
+<a href="https://go.expatnetherlandshub.com/wise?ref=/blog/netherlands-vs-philippines-expats-2026/" rel="noopener nofollow sponsored" class="cta-affiliate">Send money to the Philippines with Wise — transparent rates, low fees</a>
 
 ## Cultural Adjustment: Philippines to Netherlands
 

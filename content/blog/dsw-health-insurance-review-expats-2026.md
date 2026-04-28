@@ -25,7 +25,7 @@ faq:
     a: "With the restitutie (reimbursement) policy, you can use any hospital in the Netherlands, including non-contracted ones, and DSW reimburses you for the reasonable cost. With the natura (in-kind) policy, you get full coverage only at contracted hospitals. Contracted care is strongest in DSW's home region of south-west Netherlands. Check the DSW website or contact your preferred hospital before choosing a policy type."
 products:
   - name: "SafetyWing"
-    url: "https://safetywing.com/?referenceID=26482728"
+    url: "https://go.expatnetherlandshub.com/safetywing?ref=/blog/dsw-health-insurance-review-expats-2026/"
     price: "0.00"
     tag: "Expat Insurance"
 ---

@@ -12,7 +12,7 @@ author_bio: "Expat coach and relocation specialist. Half Dutch, half British, li
 featured_image: "/images/categories/finance.svg"
 products:
   - name: "Wise"
-    url: "https://wise.com/invite/ihpc/willemt52"
+    url: "https://go.expatnetherlandshub.com/wise?ref=/guides/finance/30-percent-ruling-eligibility-guide-2026/"
     price: "0.00"
   - name: "Expatax"
     url: "https://www.expatax.nl/"
@@ -370,7 +370,7 @@ When you are planning your move, you will also want to model your full cost of l
 
 One area where the ruling matters significantly for expats is international money transfers — particularly if you are supporting family abroad, paying down a mortgage in your home country, or saving in foreign currency. The tax saving from the ruling can meaningfully change how much you can transfer each month. If this applies to you, set up a low-cost international account early:
 
-<a href="https://wise.com/invite/ihpc/willemt52" target="_blank" rel="noopener nofollow sponsored" class="cta-affiliate">Open a Wise account for international transfers →</a>
+<a href="https://go.expatnetherlandshub.com/wise?ref=/guides/finance/30-percent-ruling-eligibility-guide-2026/" target="_blank" rel="noopener nofollow sponsored" class="cta-affiliate">Open a Wise account for international transfers →</a>
 
 Wise consistently offers the best exchange rates for EUR to GBP, EUR to USD, and other common expat currency pairs, with transparent fees. I use it myself for transfers to the UK.
 

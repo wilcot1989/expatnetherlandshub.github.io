@@ -12,7 +12,7 @@ author_bio: "Expat coach and relocation specialist. Half Dutch, half British, li
 featured_image: "/images/categories/finance.svg"
 products:
   - name: "Wise"
-    url: "https://wise.com/invite/ihpc/willemt52"
+    url: "https://go.expatnetherlandshub.com/wise?ref=/guides/finance/best-savings-account-netherlands-2026/"
     price: "0.00"
   - name: "bunq"
     url: "https://www.bunq.com/"
@@ -264,7 +264,7 @@ Wise is not a traditional savings account, but since 2023, it has offered intere
 
 **Who it is for:** Expats who receive income or hold savings in GBP, USD, or other currencies. If you still have British pounds from before your move, earning 3.85 percent on them at Wise beats converting them to euros and earning 1.75 percent at ING. I keep a GBP balance at Wise for exactly this reason.
 
-<a href="https://wise.com/invite/ihpc/willemt52" target="_blank" rel="noopener nofollow sponsored" class="cta-affiliate">Open a Wise account →</a>
+<a href="https://go.expatnetherlandshub.com/wise?ref=/guides/finance/best-savings-account-netherlands-2026/" target="_blank" rel="noopener nofollow sponsored" class="cta-affiliate">Open a Wise account →</a>
 
 If you are new to Wise, my [best bank account guide](/guides/finance/best-bank-account-expats-netherlands-2026/) covers how it works as a daily banking option alongside a traditional Dutch bank.
 
@@ -393,7 +393,7 @@ Before chasing the highest rates, build an emergency fund of 3-6 months of livin
 
 If you still receive income in GBP, USD, or another currency, do not automatically convert everything to euros. Wise pays 3.85 percent on GBP and 4.35 percent on USD — more than double what ING pays on euros. If you have GBP savings you are not converting soon, letting them earn interest at Wise is smarter than converting to euros and earning 1.75 percent.
 
-<a href="https://wise.com/invite/ihpc/willemt52" target="_blank" rel="noopener nofollow sponsored" class="cta-affiliate">Open a Wise account →</a>
+<a href="https://go.expatnetherlandshub.com/wise?ref=/guides/finance/best-savings-account-netherlands-2026/" target="_blank" rel="noopener nofollow sponsored" class="cta-affiliate">Open a Wise account →</a>
 
 ---
 
@@ -453,7 +453,7 @@ If you already have a Dutch current account, adding a savings account is usually
 3. Add money in any currency
 4. Interest accrues automatically — no separate savings account to open
 
-<a href="https://wise.com/invite/ihpc/willemt52" target="_blank" rel="noopener nofollow sponsored" class="cta-affiliate">Open a Wise account →</a>
+<a href="https://go.expatnetherlandshub.com/wise?ref=/guides/finance/best-savings-account-netherlands-2026/" target="_blank" rel="noopener nofollow sponsored" class="cta-affiliate">Open a Wise account →</a>
 
 ---
 
@@ -572,6 +572,6 @@ The Dutch savings market is not exciting — but it does not need to be. Your go
 
 Do not overthink this. The biggest mistake is doing nothing. Moving EUR 20,000 from a zero-interest current account to any savings account on this list is worth EUR 300-600 per year — and it takes five minutes.
 
-<a href="https://wise.com/invite/ihpc/willemt52" target="_blank" rel="noopener nofollow sponsored" class="cta-affiliate">Open a Wise account →</a>
+<a href="https://go.expatnetherlandshub.com/wise?ref=/guides/finance/best-savings-account-netherlands-2026/" target="_blank" rel="noopener nofollow sponsored" class="cta-affiliate">Open a Wise account →</a>
 
 *Interest rates in this article are current as of July 2026. I update this page when rates change significantly. Last verified: July 16, 2026.*

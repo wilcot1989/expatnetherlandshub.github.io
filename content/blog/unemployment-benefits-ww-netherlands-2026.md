@@ -25,7 +25,7 @@ faq:
     a: "This depends on your residence permit type. EU/EEA citizens do not need a separate residence permit and WW entitlement is not affected by benefit receipt. For non-EU citizens, the situation is more complex. Most work permits (kennismigrant/highly skilled migrant permits) require you to be employed — if you lose your job, you typically have a period of 3 months (or longer for highly skilled migrants) to find new employment before your permit status may be affected. Contact IND (Immigratie en Naturalisatiedienst) and your immigration lawyer promptly if you lose your job on a work-based permit."
 products:
   - name: "Wise"
-    url: "https://wise.com/invite/ihpc/willemt52"
+    url: "https://go.expatnetherlandshub.com/wise?ref=/blog/unemployment-benefits-ww-netherlands-2026/"
     price: "0.00"
     tag: "Currency Transfer"
 ---

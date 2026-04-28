@@ -15,7 +15,7 @@ schema_type: "Article"
 toc: true
 products:
   - name: "Wise"
-    url: "https://wise.com/invite/ihpc/willemt52"
+    url: "https://go.expatnetherlandshub.com/wise?ref=/guides/finance/dutch-business-bank-account-zzp-2026/"
     price: "0.00"
   - name: "bunq"
     url: "https://www.bunq.com/"
@@ -174,7 +174,7 @@ The one thing bunq doesn't do brilliantly is multi-currency. If you have signifi
 
 Wise Business is where I start the conversation with almost every expat freelancer who has international clients.
 
-<a href="https://wise.com/invite/ihpc/willemt52" target="_blank" rel="noopener nofollow sponsored" class="cta-affiliate">Open a Wise Business account →</a>
+<a href="https://go.expatnetherlandshub.com/wise?ref=/guides/finance/dutch-business-bank-account-zzp-2026/" target="_blank" rel="noopener nofollow sponsored" class="cta-affiliate">Open a Wise Business account →</a>
 
 Wise isn't a Dutch bank — it's a UK-headquartered payments company regulated in Europe by the National Bank of Belgium. That means it functions differently from a traditional bank, but for many ZZP freelancers, it's everything they actually need.
 
@@ -267,7 +267,7 @@ If 90% of your work is with Dutch clients, paid in euros, bunq Business gives yo
 
 Open Wise first. It's the fastest, the cheapest, and the least intimidating. You can have a functional business account within 48 hours of registering your KvK. Once your income stabilises and you understand your needs better, you can add a traditional account if necessary.
 
-<a href="https://wise.com/invite/ihpc/willemt52" target="_blank" rel="noopener nofollow sponsored" class="cta-affiliate">Open a Wise Business account →</a>
+<a href="https://go.expatnetherlandshub.com/wise?ref=/guides/finance/dutch-business-bank-account-zzp-2026/" target="_blank" rel="noopener nofollow sponsored" class="cta-affiliate">Open a Wise Business account →</a>
 
 ---
 
@@ -403,7 +403,7 @@ Getting your business banking right from the start is one of the highest-impact 
 
 If you're just starting out: open a Wise Business account this week. If you're more established and want a fully Dutch setup: bunq Business is excellent. And if you're doing significant business with UK or US clients, consider both.
 
-<a href="https://wise.com/invite/ihpc/willemt52" target="_blank" rel="noopener nofollow sponsored" class="cta-affiliate">Open a Wise Business account →</a>
+<a href="https://go.expatnetherlandshub.com/wise?ref=/guides/finance/dutch-business-bank-account-zzp-2026/" target="_blank" rel="noopener nofollow sponsored" class="cta-affiliate">Open a Wise Business account →</a>
 
 Good luck with your freelance business in the Netherlands. It's a genuinely great place to build something of your own — especially once the admin is working for you rather than against you.
 

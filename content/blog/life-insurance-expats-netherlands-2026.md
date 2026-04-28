@@ -22,7 +22,7 @@ faq:
     a: "This depends on the policy terms. Many Dutch policies allow you to maintain coverage if you move to another country, but you should check your insurer's terms carefully. Some policies become void if you no longer reside in the Netherlands. Notify your insurer before relocating."
 products:
   - name: "SafetyWing"
-    url: "https://safetywing.com/?referenceID=26482728"
+    url: "https://go.expatnetherlandshub.com/safetywing?ref=/blog/life-insurance-expats-netherlands-2026/"
     price: "0.00"
     tag: "Expat Insurance"
 ---

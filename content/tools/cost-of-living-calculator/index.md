@@ -437,7 +437,7 @@ Find the right bank account <span class="cta-arrow">&rarr;</span>
 <a href="/tools/housing-budget-checker/" class="cta-affiliate secondary">
 Check housing affordability <span class="cta-arrow">&rarr;</span>
 </a>
-<a href="https://wise.com/invite/ihpc/willemt52" class="cta-affiliate accent" rel="sponsored" target="_blank">
+<a href="https://go.expatnetherlandshub.com/wise?ref=/tools/cost-of-living-calculator/index/" class="cta-affiliate accent" rel="sponsored" target="_blank">
 Save on international transfers &mdash; Wise <span class="cta-arrow">&rarr;</span>
 </a>
 </div>
@@ -494,7 +494,7 @@ Save on international transfers &mdash; Wise <span class="cta-arrow">&rarr;</spa
 <ul>
 <li><strong>Choose the right city:</strong> Groningen and Maastricht can save you &euro;600&ndash;700/month compared to Amsterdam on rent alone. Both have strong expat communities.</li>
 <li><strong>Compare health insurers:</strong> Premiums can differ by &euro;20&ndash;30/month for equivalent cover. Use our <a href="/tools/health-insurance-wizard/">Health Insurance Comparison</a> tool.</li>
-<li><strong>Get a Wise account for international transfers:</strong> If you&rsquo;re sending money home or receiving foreign income, Wise is typically much cheaper than your Dutch bank. <a href="https://wise.com/invite/ihpc/willemt52" rel="sponsored">Open a Wise account here.</a></li>
+<li><strong>Get a Wise account for international transfers:</strong> If you&rsquo;re sending money home or receiving foreign income, Wise is typically much cheaper than your Dutch bank. <a href="https://go.expatnetherlandshub.com/wise?ref=/tools/cost-of-living-calculator/index/" rel="sponsored">Open a Wise account here.</a></li>
 <li><strong>Use your employer&rsquo;s travel reimbursement:</strong> Many Dutch employers offer &euro;0.23/km or a monthly OV pass. Don&rsquo;t leave this on the table.</li>
 <li><strong>Cook at home during the week:</strong> Dutch restaurants are not cheap. Limiting dining out to weekends can save &euro;100&ndash;200/month.</li>
 <li><strong>Shared housing is common:</strong> Especially in Amsterdam and Utrecht, sharing a flat is financially sensible and socially normal even for working professionals in their 30s.</li>
@@ -535,7 +535,7 @@ Save on international transfers &mdash; Wise <span class="cta-arrow">&rarr;</spa
 <div class="card sidebar-card">
 <h2>Save on Transfers</h2>
 <p style="font-size:0.85rem;color:var(--expat-muted);margin-bottom:0.75rem;line-height:1.55;">Sending money home or receiving foreign income? Wise is significantly cheaper than Dutch banks for international transfers.</p>
-<a href="https://wise.com/invite/ihpc/willemt52" rel="sponsored" target="_blank" class="cta-affiliate accent" style="margin-bottom:0;font-size:0.85rem;">
+<a href="https://go.expatnetherlandshub.com/wise?ref=/tools/cost-of-living-calculator/index/" rel="sponsored" target="_blank" class="cta-affiliate accent" style="margin-bottom:0;font-size:0.85rem;">
 Open a Wise account <span class="cta-arrow">&rarr;</span>
 </a>
 </div>

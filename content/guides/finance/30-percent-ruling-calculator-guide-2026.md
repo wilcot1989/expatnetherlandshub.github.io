@@ -12,7 +12,7 @@ author_bio: "Expat coach and writer at ExpatNetherlandsHub.com"
 featured_image: "/images/categories/finance.svg"
 products:
   - name: "Wise"
-    url: "https://wise.com/invite/ihpc/willemt52"
+    url: "https://go.expatnetherlandshub.com/wise?ref=/guides/finance/30-percent-ruling-calculator-guide-2026/"
     price: "0.00"
     tag: "Currency Transfer"
 faq:
@@ -259,7 +259,7 @@ The [Dutch pension system for expats guide](/guides/finance/dutch-pension-system
 
 One reason the 30% ruling is so valuable is that it leaves more money in your pocket each month. Many expats use this period to build savings and investments back in their home country or in international accounts.
 
-If you are regularly transferring money out of the Netherlands — to a savings account, investment platform, or family members abroad — transfer costs add up. I use [Wise](https://wise.com/invite/ihpc/willemt52) for international transfers from my Dutch account. The mid-market exchange rate and transparent fee structure mean I pay substantially less than the bank charges. On a regular €1,000 monthly transfer, that difference is often €20–€40 per transfer.
+If you are regularly transferring money out of the Netherlands — to a savings account, investment platform, or family members abroad — transfer costs add up. I use [Wise](https://go.expatnetherlandshub.com/wise?ref=/guides/finance/30-percent-ruling-calculator-guide-2026/) for international transfers from my Dutch account. The mid-market exchange rate and transparent fee structure mean I pay substantially less than the bank charges. On a regular €1,000 monthly transfer, that difference is often €20–€40 per transfer.
 
 See the [Wise review for expats](/guides/finance/wise-review-expats-2026/) for a full breakdown of what Wise costs versus bank transfers on common currency pairs including EUR/GBP, EUR/USD, and EUR/INR.
 
@@ -367,4 +367,4 @@ The mechanics are not complicated once you run through the calculation once. The
 
 [Run your personalised calculation in our 30% ruling calculator](/tools/30-percent-ruling-calculator/) — it takes under a minute and gives you the monthly and annual net income difference for your specific salary and situation.
 
-If you are also planning your broader financial setup in the Netherlands, the guides on [Dutch taxes for expats](/guides/finance/dutch-tax-system-expats-guide-2026/), [pension planning](/guides/finance/dutch-pension-system-expats-2026/), and [investing as an expat](/guides/finance/dutch-savings-investment-expats-2026/) cover the wider picture. And if you are sending money internationally — whether remittances home or building savings in another currency — [Wise](https://wise.com/invite/ihpc/willemt52) remains the most cost-effective option I have found for moving euros across borders.
+If you are also planning your broader financial setup in the Netherlands, the guides on [Dutch taxes for expats](/guides/finance/dutch-tax-system-expats-guide-2026/), [pension planning](/guides/finance/dutch-pension-system-expats-2026/), and [investing as an expat](/guides/finance/dutch-savings-investment-expats-2026/) cover the wider picture. And if you are sending money internationally — whether remittances home or building savings in another currency — [Wise](https://go.expatnetherlandshub.com/wise?ref=/guides/finance/30-percent-ruling-calculator-guide-2026/) remains the most cost-effective option I have found for moving euros across borders.

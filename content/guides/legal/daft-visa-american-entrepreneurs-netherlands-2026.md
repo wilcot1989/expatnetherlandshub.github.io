@@ -97,7 +97,7 @@ You need this money in a Dutch business bank account. That creates a sequencing 
 
 The [Dutch business bank account guide for ZZP entrepreneurs](/guides/finance/dutch-business-bank-account-zzp-2026/) covers which banks are available for newly registered sole traders without an established Dutch credit history.
 
-Transferring money from a US bank account to a Dutch business account is easy with the right service. <a href="https://wise.com/invite/ihpc/willemt52" target="_blank" rel="noopener nofollow sponsored" class="cta-affiliate">Transfer your €4,500 deposit with Wise →</a> Wise offers mid-market exchange rates with no hidden fees, and transfers typically arrive within one to two business days — well within the timing you need for an IND application. For amounts at this level, the difference between Wise and a traditional bank wire can be €80–150 in exchange rate margin.
+Transferring money from a US bank account to a Dutch business account is easy with the right service. <a href="https://go.expatnetherlandshub.com/wise?ref=/guides/legal/daft-visa-american-entrepreneurs-netherlands-2026/" target="_blank" rel="noopener nofollow sponsored" class="cta-affiliate">Transfer your €4,500 deposit with Wise →</a> Wise offers mid-market exchange rates with no hidden fees, and transfers typically arrive within one to two business days — well within the timing you need for an IND application. For amounts at this level, the difference between Wise and a traditional bank wire can be €80–150 in exchange rate margin.
 
 ### KvK Registration
 

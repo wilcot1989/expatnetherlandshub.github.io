@@ -146,7 +146,7 @@ The Arnhem rental market is notably more relaxed than the Randstad, though compe
 
 For context, the same lifestyle in Amsterdam would cost €2,400-€3,200 per month. The saving is substantial.
 
-**Deposits:** Landlords in Arnhem typically ask for one to three months' rent as a deposit. This is a significant upfront cost — often €1,500-€3,000. If you are transferring money from abroad to cover your deposit and first month, using <a href="https://wise.com/invite/ihpc/willemt52" target="_blank" rel="noopener nofollow sponsored">Wise</a> will save you considerably on the exchange rate and transfer fees compared to a Dutch bank transfer.
+**Deposits:** Landlords in Arnhem typically ask for one to three months' rent as a deposit. This is a significant upfront cost — often €1,500-€3,000. If you are transferring money from abroad to cover your deposit and first month, using <a href="https://go.expatnetherlandshub.com/wise?ref=/guides/housing/moving-to-arnhem-guide-2026/" target="_blank" rel="noopener nofollow sponsored">Wise</a> will save you considerably on the exchange rate and transfer fees compared to a Dutch bank transfer.
 
 For finding properties, <a href="https://ds1.nl/c/?si=447&li=26287&wi=418902&ws=&dl=" target="_blank" rel="noopener nofollow sponsored">Kamernet</a> is one of the best platforms for Arnhem and the Gelderland region — it lists both short-term furnished options and longer-term unfurnished rentals and is widely used by the international community.
 
@@ -225,7 +225,7 @@ Here is what the first few weeks look like in practice:
 - Secure temporary housing via Kamernet or a relocation agency (short-term furnished rentals are available in Centrum and Klarendal)
 - Open a Dutch bank account (many banks allow online pre-registration)
 - Arrange health insurance to start from day one of arrival
-- Transfer your deposit and first month's rent in advance — use <a href="https://wise.com/invite/ihpc/willemt52" target="_blank" rel="noopener nofollow sponsored">Wise</a> to avoid bank conversion fees
+- Transfer your deposit and first month's rent in advance — use <a href="https://go.expatnetherlandshub.com/wise?ref=/guides/housing/moving-to-arnhem-guide-2026/" target="_blank" rel="noopener nofollow sponsored">Wise</a> to avoid bank conversion fees
 
 **First week:**
 - Register at Gemeente Arnhem — book an appointment online; you need your passport, rental contract, and proof of address

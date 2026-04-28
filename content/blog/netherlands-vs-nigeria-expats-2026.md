@@ -22,11 +22,11 @@ faq:
     a: "Yes. Transfer services such as Wise offer competitive exchange rates between euros and Nigerian naira. Bank transfers are also available but typically carry higher fees. Always compare rates before sending large amounts."
 products:
   - name: "Wise"
-    url: "https://wise.com/invite/ihpc/willemt52"
+    url: "https://go.expatnetherlandshub.com/wise?ref=/blog/netherlands-vs-nigeria-expats-2026/"
     price: "0.00"
     tag: "Currency Transfer"
   - name: "SafetyWing"
-    url: "https://safetywing.com/?referenceID=26482728"
+    url: "https://go.expatnetherlandshub.com/safetywing?ref=/blog/netherlands-vs-nigeria-expats-2026/"
     price: "0.00"
     tag: "Expat Insurance"
 ---
@@ -90,9 +90,9 @@ For a Nigerian expat moving to the Netherlands, the absolute costs are higher, b
 
 ### Sending Money Home
 
-Many Nigerian expats in the Netherlands send money to family in Nigeria regularly. I use [Wise](https://wise.com/invite/ihpc/willemt52) for this — the exchange rates are transparent and significantly better than bank transfers. The EUR–NGN corridor is well-supported, and transfers typically arrive within one business day.
+Many Nigerian expats in the Netherlands send money to family in Nigeria regularly. I use [Wise](https://go.expatnetherlandshub.com/wise?ref=/blog/netherlands-vs-nigeria-expats-2026/) for this — the exchange rates are transparent and significantly better than bank transfers. The EUR–NGN corridor is well-supported, and transfers typically arrive within one business day.
 
-<a href="https://wise.com/invite/ihpc/willemt52" rel="noopener nofollow sponsored" class="cta-affiliate">Send money to Nigeria with Wise — transparent rates, low fees</a>
+<a href="https://go.expatnetherlandshub.com/wise?ref=/blog/netherlands-vs-nigeria-expats-2026/" rel="noopener nofollow sponsored" class="cta-affiliate">Send money to Nigeria with Wise — transparent rates, low fees</a>
 
 ## Healthcare
 
@@ -197,7 +197,7 @@ Lagos has an established expat community centred around Victoria Island, Ikoyi, 
 
 Opening a Dutch bank account requires registration at the gemeente (municipality) and a BSN. I recommend reading our guide on [banking options for expats](/blog/best-etf-platforms-netherlands-expats-2026/) once you've settled.
 
-For international money transfers — whether sending remittances to Nigeria or receiving money from abroad — [Wise](https://wise.com/invite/ihpc/willemt52) offers excellent EUR–NGN rates.
+For international money transfers — whether sending remittances to Nigeria or receiving money from abroad — [Wise](https://go.expatnetherlandshub.com/wise?ref=/blog/netherlands-vs-nigeria-expats-2026/) offers excellent EUR–NGN rates.
 
 ### For Dutch Expats in Nigeria
 
@@ -232,11 +232,11 @@ The EUR–NGN exchange rate is volatile. The naira has depreciated significantly
 | Bank transfer | 3–5 days | €15–€30 | Poor rate |
 | Remitly | 1 business day | ~€3–€6 | Competitive |
 
-I use [Wise](https://wise.com/invite/ihpc/willemt52) for transfers home. The key advantage is that the rate you see is the mid-market rate — the one you'd find on Google — with a small, disclosed percentage fee added. Banks typically hide their margin in the exchange rate, so you only notice how much you've lost after the transfer completes.
+I use [Wise](https://go.expatnetherlandshub.com/wise?ref=/blog/netherlands-vs-nigeria-expats-2026/) for transfers home. The key advantage is that the rate you see is the mid-market rate — the one you'd find on Google — with a small, disclosed percentage fee added. Banks typically hide their margin in the exchange rate, so you only notice how much you've lost after the transfer completes.
 
 One practical note: Wise sends to Nigerian GTBank, Zenith, First Bank, and most major local accounts. If your recipient uses a smaller cooperative or community bank, verify compatibility before your first transfer.
 
-<a href="https://wise.com/invite/ihpc/willemt52" rel="noopener nofollow sponsored" class="cta-affiliate">Compare rates before your next transfer — Wise EUR to NGN</a>
+<a href="https://go.expatnetherlandshub.com/wise?ref=/blog/netherlands-vs-nigeria-expats-2026/" rel="noopener nofollow sponsored" class="cta-affiliate">Compare rates before your next transfer — Wise EUR to NGN</a>
 
 ## Cultural Adjustment: Nigeria to the Netherlands
 
