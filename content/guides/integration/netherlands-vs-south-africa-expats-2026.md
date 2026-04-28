@@ -177,7 +177,7 @@ Use Independer to compare Dutch health insurers in English and find the best pri
 
 If you are in the Netherlands before you have registered and arranged mandatory health insurance, you have a gap. SafetyWing's Nomad Insurance covers you globally for approximately $45/month and is a sensible bridge while you sort out your BSN and formal registration.
 
-<a href="https://safetywing.com/nomad-insurance/?referenceID=26482728&utm_source=26482728&utm_medium=Ambassador" target="_blank" rel="noopener nofollow sponsored" class="cta-affiliate">Get SafetyWing bridging coverage →</a>
+<a href="https://go.expatnetherlandshub.com/safetywing?ref=/guides/integration/netherlands-vs-south-africa-expats-2026/" target="_blank" rel="noopener nofollow sponsored" class="cta-affiliate">Get SafetyWing bridging coverage →</a>
 
 ### South African Healthcare in Context
 

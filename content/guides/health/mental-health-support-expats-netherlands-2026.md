@@ -11,7 +11,7 @@ featured_image: "/images/featured/mental-health-support-expats-netherlands-2026.
 affiliate: true
 products:
   - name: "SafetyWing"
-    url: "https://safetywing.com/nomad-insurance/?referenceID=26482728"
+    url: "https://go.expatnetherlandshub.com/safetywing?ref=/guides/health/mental-health-support-expats-netherlands-2026/"
     price: "45.08"
   - name: "Cigna"
     url: "https://www.cigna.nl/"

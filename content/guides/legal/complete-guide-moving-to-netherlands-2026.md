@@ -152,9 +152,9 @@ For a detailed breakdown of Dutch insurers, coverage options, and how to choose 
 
 ### Temporary Coverage Before Registration
 
-If you have just arrived and are not yet eligible for Dutch health insurance, or if you are waiting for your BSN, consider temporary international health coverage through <a href="https://safetywing.com/nomad-insurance/?referenceID=26482728&utm_source=26482728&utm_medium=Ambassador" rel="noopener nofollow sponsored" target="_blank">SafetyWing</a>. SafetyWing offers flexible monthly plans designed for expats and digital nomads, starting from around USD 45 per month. It provides solid coverage while you sort out your Dutch registration.
+If you have just arrived and are not yet eligible for Dutch health insurance, or if you are waiting for your BSN, consider temporary international health coverage through <a href="https://go.expatnetherlandshub.com/safetywing?ref=/guides/legal/complete-guide-moving-to-netherlands-2026/" rel="noopener nofollow sponsored" target="_blank">SafetyWing</a>. SafetyWing offers flexible monthly plans designed for expats and digital nomads, starting from around USD 45 per month. It provides solid coverage while you sort out your Dutch registration.
 
-<a href="https://safetywing.com/nomad-insurance/?referenceID=26482728&utm_source=26482728&utm_medium=Ambassador" class="cta-affiliate" rel="noopener nofollow sponsored" target="_blank">Get SafetyWing Temporary Health Coverage from $45/month</a>
+<a href="https://go.expatnetherlandshub.com/safetywing?ref=/guides/legal/complete-guide-moving-to-netherlands-2026/" class="cta-affiliate" rel="noopener nofollow sponsored" target="_blank">Get SafetyWing Temporary Health Coverage from $45/month</a>
 
 ---
 
@@ -553,6 +553,6 @@ Moving to the Netherlands is a big step, but the country rewards those who make 
 
 The key to a smooth transition is preparation. Handle your visa and housing early, register at your gemeente as soon as possible, and set up your key services — banking, insurance, phone, and transport — in the first two weeks. And if circumstances change and you find yourself planning to leave, our [leaving the Netherlands checklist](/guides/legal/leaving-netherlands-expat-checklist-2026/) covers every step from deregistration to your final tax return.
 
-For banking, start with <a href="https://go.expatnetherlandshub.com/wise?ref=/guides/legal/complete-guide-moving-to-netherlands-2026/" target="_blank" rel="noopener nofollow sponsored">Wise</a> before you arrive. For temporary health coverage, consider <a href="https://safetywing.com/nomad-insurance/?referenceID=26482728&utm_source=26482728&utm_medium=Ambassador" target="_blank" rel="noopener nofollow sponsored">SafetyWing</a> until your Dutch insurance kicks in. And protect your digital life with <a href="https://go.nordvpn.net/aff_c?offer_id=612&aff_id=141337&url_id=14830" target="_blank" rel="noopener nofollow sponsored" class="cta-affiliate">NordVPN →</a> from day one.
+For banking, start with <a href="https://go.expatnetherlandshub.com/wise?ref=/guides/legal/complete-guide-moving-to-netherlands-2026/" target="_blank" rel="noopener nofollow sponsored">Wise</a> before you arrive. For temporary health coverage, consider <a href="https://go.expatnetherlandshub.com/safetywing?ref=/guides/legal/complete-guide-moving-to-netherlands-2026/" target="_blank" rel="noopener nofollow sponsored">SafetyWing</a> until your Dutch insurance kicks in. And protect your digital life with <a href="https://go.nordvpn.net/aff_c?offer_id=612&aff_id=141337&url_id=14830" target="_blank" rel="noopener nofollow sponsored" class="cta-affiliate">NordVPN →</a> from day one.
 
 Welcome to the Netherlands. Welkom in Nederland.

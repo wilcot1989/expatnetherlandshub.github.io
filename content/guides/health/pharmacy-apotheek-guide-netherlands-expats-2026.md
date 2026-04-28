@@ -10,7 +10,7 @@ keywords: ["dutch pharmacy expats", "apotheek netherlands", "prescription nether
 affiliate: true
 products:
   - name: "SafetyWing"
-    url: "https://safetywing.com/nomad-insurance/?referenceID=26482728"
+    url: "https://go.expatnetherlandshub.com/safetywing?ref=/guides/health/pharmacy-apotheek-guide-netherlands-expats-2026/"
     price: "45.08"
   - name: "CZ"
     url: "https://www.cz.nl/"

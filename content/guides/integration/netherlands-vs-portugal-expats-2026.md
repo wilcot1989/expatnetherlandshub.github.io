@@ -135,7 +135,7 @@ Portuguese public healthcare (SNS — Serviço Nacional de Saúde) is available 
 
 Private health insurance in Portugal costs EUR 80-200/month depending on age and coverage — cheap compared to what you get.
 
-**For managing international health insurance in either country**, <a href="https://safetywing.com/nomad-insurance/?referenceID=26482728" rel="noopener nofollow sponsored" class="cta-affiliate">SafetyWing's Nomad Insurance</a> provides a practical international health and emergency coverage option that works across both the Netherlands and Portugal — useful during a transition between the two countries or for anyone maintaining mobility between European locations.
+**For managing international health insurance in either country**, <a href="https://go.expatnetherlandshub.com/safetywing?ref=/guides/integration/netherlands-vs-portugal-expats-2026/" rel="noopener nofollow sponsored" class="cta-affiliate">SafetyWing's Nomad Insurance</a> provides a practical international health and emergency coverage option that works across both the Netherlands and Portugal — useful during a transition between the two countries or for anyone maintaining mobility between European locations.
 
 ---
 

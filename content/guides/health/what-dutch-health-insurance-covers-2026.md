@@ -9,7 +9,7 @@ keywords: ["what does dutch health insurance cover", "dutch health insurance cov
 affiliate: true
 products:
   - name: "SafetyWing"
-    url: "https://safetywing.com/nomad-insurance/?referenceID=26482728"
+    url: "https://go.expatnetherlandshub.com/safetywing?ref=/guides/health/what-dutch-health-insurance-covers-2026/"
     price: "45.08"
   - name: "CZ"
     url: "https://www.cz.nl/"
@@ -355,7 +355,7 @@ Make this a priority. You need your BSN before you can register for health insur
 
 While you are waiting to complete registration — if there is a gap between arriving and getting your BSN — temporary insurance from a provider like SafetyWing can cover you for unexpected medical costs in the meantime:
 
-<a href="https://safetywing.com/nomad-insurance/?referenceID=26482728" target="_blank" rel="noopener nofollow sponsored" class="cta-affiliate">Check SafetyWing for temporary coverage →</a>
+<a href="https://go.expatnetherlandshub.com/safetywing?ref=/guides/health/what-dutch-health-insurance-covers-2026/" target="_blank" rel="noopener nofollow sponsored" class="cta-affiliate">Check SafetyWing for temporary coverage →</a>
 
 ### Mental health: the waiting list reality
 

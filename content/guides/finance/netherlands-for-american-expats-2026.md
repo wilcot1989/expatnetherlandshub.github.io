@@ -261,7 +261,7 @@ Some newly-arrived Americans use international health insurance (from providers 
 
 ---
 
-<a href="https://safetywing.com/nomad-insurance/?referenceID=26482728" target="_blank" rel="noopener nofollow sponsored" class="cta-affiliate">Get a SafetyWing Nomad Insurance quote — designed for people on the move →</a>
+<a href="https://go.expatnetherlandshub.com/safetywing?ref=/guides/finance/netherlands-for-american-expats-2026/" target="_blank" rel="noopener nofollow sponsored" class="cta-affiliate">Get a SafetyWing Nomad Insurance quote — designed for people on the move →</a>
 
 ---
 

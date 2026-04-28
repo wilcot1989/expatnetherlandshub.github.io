@@ -9,7 +9,7 @@ keywords: ["dutch healthcare system expats", "how dutch healthcare works", "huis
 affiliate: true
 products:
   - name: "SafetyWing"
-    url: "https://safetywing.com/nomad-insurance/?referenceID=26482728"
+    url: "https://go.expatnetherlandshub.com/safetywing?ref=/guides/health/dutch-healthcare-system-explained-2026/"
     price: "45.08"
   - name: "CZ"
     url: "https://www.cz.nl/"
@@ -349,7 +349,7 @@ Even if your huisarts speaks English (many do, especially in cities), knowing ba
 If you know you have a planned surgery or specialist care coming up, you will hit your EUR 385 eigen risico. Once you have hit it, all subsequent covered care for the rest of the calendar year is free (beyond your monthly premium). This means it can make sense to schedule multiple interventions in the same calendar year once the deductible is met. More on this in my [health insurance coverage guide](/guides/health/what-dutch-health-insurance-covers-2026/).
 
 **7. Consider whether you need international coverage as a bridge.**
-If you travel frequently for work or plan to visit home country regularly, the standard basisverzekering may leave gaps — particularly for non-emergency care outside the EU. Providers like <a href="https://safetywing.com/nomad-insurance/?referenceID=26482728" target="_blank" rel="noopener nofollow sponsored">SafetyWing</a> offer affordable international health cover that works well as a complement to Dutch insurance. I have compared [SafetyWing and Cigna in detail](/guides/health/safetywing-vs-cigna-expat-insurance-2026/) if you want to understand the differences.
+If you travel frequently for work or plan to visit home country regularly, the standard basisverzekering may leave gaps — particularly for non-emergency care outside the EU. Providers like <a href="https://go.expatnetherlandshub.com/safetywing?ref=/guides/health/dutch-healthcare-system-explained-2026/" target="_blank" rel="noopener nofollow sponsored">SafetyWing</a> offer affordable international health cover that works well as a complement to Dutch insurance. I have compared [SafetyWing and Cigna in detail](/guides/health/safetywing-vs-cigna-expat-insurance-2026/) if you want to understand the differences.
 
 **8. Use the insurer's app.**
 Every major Dutch health insurer has an app (Mijn Zilveren Kruis, Mijn CZ, Mijn ONVZ, etc.). These let you find contracted care providers, check reimbursement status, locate the nearest duty pharmacy and huisartsenpost, and manage your eigen risico balance. They are surprisingly good and genuinely useful in day-to-day situations.
@@ -376,7 +376,7 @@ If all of this has made you realise you need to revisit your insurance situation
 
 **For freelancers or newly arrived expats:** If you are not yet registered in the Netherlands or are between insurance setups, SafetyWing offers pay-as-you-go international health insurance that can cover you during the gap. It is not a substitute for Dutch basisverzekering once you are legally resident, but it is a practical solution for the transitional period.
 
-<a href="https://safetywing.com/nomad-insurance/?referenceID=26482728" target="_blank" rel="noopener nofollow sponsored" class="cta-affiliate">Get SafetyWing Gap Coverage from $45/month →</a>
+<a href="https://go.expatnetherlandshub.com/safetywing?ref=/guides/health/dutch-healthcare-system-explained-2026/" target="_blank" rel="noopener nofollow sponsored" class="cta-affiliate">Get SafetyWing Gap Coverage from $45/month →</a>
 
 ---
 

@@ -114,7 +114,7 @@ Turkey has invested significantly in its healthcare infrastructure over the past
 
 For expats not employed in Turkey, private health insurance is the practical route. Excellent coverage from Turkish insurers costs €80-150 per month for a 30-40 year old, less than Dutch equivalents.
 
-If you are between long-term residencies or travelling between the two countries, <a href="https://safetywing.com/nomad-insurance/?referenceID=26482728" rel="noopener nofollow sponsored" class="cta-affiliate">SafetyWing Nomad Insurance</a> is worth considering — it covers you across countries at €45-60 per month and handles gaps between employer schemes well.
+If you are between long-term residencies or travelling between the two countries, <a href="https://go.expatnetherlandshub.com/safetywing?ref=/guides/integration/netherlands-vs-turkey-expats-2026/" rel="noopener nofollow sponsored" class="cta-affiliate">SafetyWing Nomad Insurance</a> is worth considering — it covers you across countries at €45-60 per month and handles gaps between employer schemes well.
 
 ---
 
@@ -317,7 +317,7 @@ In the Netherlands, English is effectively a second official language in practic
 
 ### How does the Turkish SGK compare to Dutch health insurance?
 
-Dutch health insurance (zorgverzekering) is mandatory private insurance with a well-defined basic package and strong regulatory oversight. Turkish SGK is a social security system that provides public healthcare access. For employed people, both systems are functional and broadly adequate. For expats between jobs or self-employed, private insurance is the better option in both countries — and <a href="https://safetywing.com/nomad-insurance/?referenceID=26482728" rel="noopener nofollow sponsored" class="cta-affiliate">SafetyWing</a> offers a practical bridge solution if you are transitioning between countries or uncertain about your employment timeline.
+Dutch health insurance (zorgverzekering) is mandatory private insurance with a well-defined basic package and strong regulatory oversight. Turkish SGK is a social security system that provides public healthcare access. For employed people, both systems are functional and broadly adequate. For expats between jobs or self-employed, private insurance is the better option in both countries — and <a href="https://go.expatnetherlandshub.com/safetywing?ref=/guides/integration/netherlands-vs-turkey-expats-2026/" rel="noopener nofollow sponsored" class="cta-affiliate">SafetyWing</a> offers a practical bridge solution if you are transitioning between countries or uncertain about your employment timeline.
 
 ### What is the integration process for Turkish nationals moving to the Netherlands?
 

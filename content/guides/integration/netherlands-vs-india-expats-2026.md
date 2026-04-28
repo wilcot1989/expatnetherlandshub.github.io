@@ -173,7 +173,7 @@ That last point surprises many Indian expats, particularly those used to Indian 
 
 For full details on how the system works, see our [Dutch Health Insurance Guide for Expats](/guides/health/dutch-health-insurance-guide-expats-2026/).
 
-If you are between jobs, relocating, or in a waiting period, interim travel/health cover through <a href="https://safetywing.com/nomad-insurance/?referenceID=26482728" target="_blank" rel="noopener nofollow sponsored" class="cta-affiliate">SafetyWing →</a> is worth considering while you sort out your Dutch insurance.
+If you are between jobs, relocating, or in a waiting period, interim travel/health cover through <a href="https://go.expatnetherlandshub.com/safetywing?ref=/guides/integration/netherlands-vs-india-expats-2026/" target="_blank" rel="noopener nofollow sponsored" class="cta-affiliate">SafetyWing →</a> is worth considering while you sort out your Dutch insurance.
 
 ---
 

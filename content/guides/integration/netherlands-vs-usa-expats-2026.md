@@ -198,7 +198,7 @@ The Netherlands removes that linkage entirely. Your healthcare is yours regardle
 
 When I first moved here from the UK, I already had experience with a public healthcare system. American clients consistently report the strongest emotional response to the Dutch system — not just the cost, but the sense of stability it provides.
 
-If you are moving to the Netherlands and need temporary coverage before your Dutch insurance kicks in, <a href="https://safetywing.com/nomad-insurance/?referenceID=26482728" class="cta-affiliate" rel="noopener nofollow sponsored" target="_blank">SafetyWing's Nomad Insurance</a> covers you in the gap period for around USD 45–100/month depending on your age, and it handles international medical emergencies while you are sorting out registration.
+If you are moving to the Netherlands and need temporary coverage before your Dutch insurance kicks in, <a href="https://go.expatnetherlandshub.com/safetywing?ref=/guides/integration/netherlands-vs-usa-expats-2026/" class="cta-affiliate" rel="noopener nofollow sponsored" target="_blank">SafetyWing's Nomad Insurance</a> covers you in the gap period for around USD 45–100/month depending on your age, and it handles international medical emergencies while you are sorting out registration.
 
 ---
 
@@ -360,7 +360,7 @@ Here is the sequence that works for most of my American clients:
 
 **3. Set up a Wise account for your USD-EUR transfers.** Moving savings from the US to a Dutch bank account, receiving USD income while in the Netherlands, or managing a US mortgage alongside Dutch rent — all of these involve currency conversion. <a href="https://go.expatnetherlandshub.com/wise?ref=/guides/integration/netherlands-vs-usa-expats-2026/" class="cta-affiliate" rel="noopener nofollow sponsored" target="_blank">Wise</a> gives you the real mid-market exchange rate with fees of 0.3–0.6%, and you can hold both USD and EUR in the same account. It is the most practical tool I recommend to every American client, without exception.
 
-**4. Sort health insurance before you arrive.** Your Dutch insurance starts from the date you register your address (gemeente inschrijving). Until then, you need coverage. <a href="https://safetywing.com/nomad-insurance/?referenceID=26482728" class="cta-affiliate" rel="noopener nofollow sponsored" target="_blank">SafetyWing Nomad Insurance</a> covers international medical emergencies and is designed for exactly this transition period.
+**4. Sort health insurance before you arrive.** Your Dutch insurance starts from the date you register your address (gemeente inschrijving). Until then, you need coverage. <a href="https://go.expatnetherlandshub.com/safetywing?ref=/guides/integration/netherlands-vs-usa-expats-2026/" class="cta-affiliate" rel="noopener nofollow sponsored" target="_blank">SafetyWing Nomad Insurance</a> covers international medical emergencies and is designed for exactly this transition period.
 
 **5. Apply for the 30% ruling through your employer.** Your HR department at a Dutch company will likely know the process. If they do not, point them to the IND guidance. You must apply within 4 months of starting work in the Netherlands. Missing this deadline means losing the benefit entirely.
 

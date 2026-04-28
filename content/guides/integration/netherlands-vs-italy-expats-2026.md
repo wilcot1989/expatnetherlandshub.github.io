@@ -126,7 +126,7 @@ Italian healthcare (SSN) is technically available to all registered residents. Q
 
 Many expats in Italy use supplementary private health insurance (assicurazione sanitaria integrativa) for faster access and English-speaking providers. Private insurance costs EUR 100-300/month depending on age and coverage.
 
-**For international health coverage during your transition to either country**, <a href="https://safetywing.com/nomad-insurance/?referenceID=26482728" rel="noopener nofollow sponsored" class="cta-affiliate">SafetyWing's Nomad Insurance</a> provides Schengen-wide medical coverage that works in both the Netherlands and Italy — useful when you are still setting up local health insurance or managing residency registration.
+**For international health coverage during your transition to either country**, <a href="https://go.expatnetherlandshub.com/safetywing?ref=/guides/integration/netherlands-vs-italy-expats-2026/" rel="noopener nofollow sponsored" class="cta-affiliate">SafetyWing's Nomad Insurance</a> provides Schengen-wide medical coverage that works in both the Netherlands and Italy — useful when you are still setting up local health insurance or managing residency registration.
 
 ---
 
@@ -325,7 +325,7 @@ Regardless of which country you choose, managing your finances across borders ef
 
 When you first arrive in the Netherlands, you need a bank account before your Dutch employer can pay you — but you often do not have your BSN yet. <a href="https://go.expatnetherlandshub.com/wise?ref=/guides/integration/netherlands-vs-italy-expats-2026/" rel="noopener nofollow sponsored" class="cta-affiliate">Wise</a> provides a multi-currency account that works without a BSN and can receive euro salary payments, send money home, and manage multiple currencies simultaneously. For expats maintaining ties in both Italy and the Netherlands — whether that is a family home in one country or investments split between the two — Wise's real exchange rate and transparent fees make cross-border management significantly cheaper than bank-to-bank transfers.
 
-For health insurance during your transition between countries, <a href="https://safetywing.com/nomad-insurance/?referenceID=26482728" rel="noopener nofollow sponsored" class="cta-affiliate">SafetyWing's Nomad Insurance</a> covers you across the Schengen area, which means it works during the gap period in either country before local insurance kicks in.
+For health insurance during your transition between countries, <a href="https://go.expatnetherlandshub.com/safetywing?ref=/guides/integration/netherlands-vs-italy-expats-2026/" rel="noopener nofollow sponsored" class="cta-affiliate">SafetyWing's Nomad Insurance</a> covers you across the Schengen area, which means it works during the gap period in either country before local insurance kicks in.
 
 ---
 

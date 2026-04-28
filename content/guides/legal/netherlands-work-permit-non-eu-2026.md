@@ -251,7 +251,7 @@ Total out-of-pocket costs for the employee in a standard relocation are typicall
 
 There is often a period — sometimes several weeks — between your arrival in the Netherlands and the moment your Dutch health insurance and employment coverage kicks in. During this window, you are not covered by the Dutch healthcare system.
 
-For many clients I advise in this situation, <a href="https://safetywing.com/nomad-insurance/?referenceID=26482728" target="_blank" rel="noopener nofollow sponsored">SafetyWing Nomad Insurance</a> is a practical short-term solution. It covers medical emergencies, hospitalisation, and evacuation at a low monthly cost, and you can start it immediately from abroad before your Dutch basisverzekering takes effect. It is not a substitute for Dutch health insurance long-term, but it fills the gap cleanly.
+For many clients I advise in this situation, <a href="https://go.expatnetherlandshub.com/safetywing?ref=/guides/legal/netherlands-work-permit-non-eu-2026/" target="_blank" rel="noopener nofollow sponsored">SafetyWing Nomad Insurance</a> is a practical short-term solution. It covers medical emergencies, hospitalisation, and evacuation at a low monthly cost, and you can start it immediately from abroad before your Dutch basisverzekering takes effect. It is not a substitute for Dutch health insurance long-term, but it fills the gap cleanly.
 
 Once you have your permit and BSN number, you have four months to arrange Dutch basic health insurance. Read the [Dutch health insurance guide for expats](/guides/health/dutch-health-insurance-guide-expats-2026/) to understand your options and obligations.
 
@@ -377,7 +377,7 @@ The working holiday visa is intentionally flexible, but there are a few limits:
 
 Despite these restrictions, it is an excellent route for career-testing, gaining Dutch work experience, or deciding whether to pursue the kennismigrant path through a longer-term employer sponsor. Many expats I have spoken to used a working holiday year to find an employer willing to sponsor a proper kennismigrant permit.
 
-For health cover during the working holiday period, <a href="https://safetywing.com/nomad-insurance/?referenceID=26482728" target="_blank" rel="noopener nofollow sponsored">SafetyWing Nomad Insurance</a> is a flexible option — it can be started from your home country before you travel and continued month-to-month while you settle in. Once you are registered in the Netherlands and have a BSN, you will need to switch to a Dutch basisverzekering.
+For health cover during the working holiday period, <a href="https://go.expatnetherlandshub.com/safetywing?ref=/guides/legal/netherlands-work-permit-non-eu-2026/" target="_blank" rel="noopener nofollow sponsored">SafetyWing Nomad Insurance</a> is a flexible option — it can be started from your home country before you travel and continued month-to-month while you settle in. Once you are registered in the Netherlands and have a BSN, you will need to switch to a Dutch basisverzekering.
 
 ---
 

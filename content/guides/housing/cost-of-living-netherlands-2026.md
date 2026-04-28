@@ -127,9 +127,9 @@ Compare premiums from all Dutch insurers on <a href="https://www.awin1.com/cread
 
 ### Temporary Coverage
 
-If you are in a waiting period before your Dutch insurance starts, <a href="https://safetywing.com/nomad-insurance/?referenceID=26482728&utm_source=26482728&utm_medium=Ambassador" rel="noopener nofollow sponsored" target="_blank">SafetyWing</a> offers international health coverage from around USD 45 per month, designed specifically for expats and remote workers.
+If you are in a waiting period before your Dutch insurance starts, <a href="https://go.expatnetherlandshub.com/safetywing?ref=/guides/housing/cost-of-living-netherlands-2026/" rel="noopener nofollow sponsored" target="_blank">SafetyWing</a> offers international health coverage from around USD 45 per month, designed specifically for expats and remote workers.
 
-<a href="https://safetywing.com/nomad-insurance/?referenceID=26482728&utm_source=26482728&utm_medium=Ambassador" class="cta-affiliate" rel="noopener nofollow sponsored" target="_blank">Get SafetyWing Temporary Coverage from $45/month</a>
+<a href="https://go.expatnetherlandshub.com/safetywing?ref=/guides/housing/cost-of-living-netherlands-2026/" class="cta-affiliate" rel="noopener nofollow sponsored" target="_blank">Get SafetyWing Temporary Coverage from $45/month</a>
 
 ---
 

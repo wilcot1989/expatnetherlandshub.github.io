@@ -263,7 +263,7 @@ Get a Dutch SIM card or port your existing number within the first week. Data is
 
 As a full-time student on a Dutch residence permit, you are generally not required to take out Dutch basic health insurance (basisverzekering). However, you must have valid health coverage. Many MBA students use international health insurance during their programme, transitioning to Dutch insurance when they start employment.
 
-For international students who want Schengen-wide coverage including the Netherlands, <a href="https://safetywing.com/nomad-insurance/?referenceID=26482728" rel="noopener nofollow sponsored" class="cta-affiliate">SafetyWing's Nomad Insurance</a> is a cost-effective option that covers the Netherlands and the rest of Europe. This is particularly useful if you are travelling between countries for study trips, conferences, or job interviews during your programme.
+For international students who want Schengen-wide coverage including the Netherlands, <a href="https://go.expatnetherlandshub.com/safetywing?ref=/guides/finance/mba-netherlands-international-students-2026/" rel="noopener nofollow sponsored" class="cta-affiliate">SafetyWing's Nomad Insurance</a> is a cost-effective option that covers the Netherlands and the rest of Europe. This is particularly useful if you are travelling between countries for study trips, conferences, or job interviews during your programme.
 
 Once you start employment, you switch to Dutch basic health insurance. See our [Dutch health insurance guide](/guides/health/dutch-health-insurance-guide-expats-2026/) for how the Dutch system works.
 

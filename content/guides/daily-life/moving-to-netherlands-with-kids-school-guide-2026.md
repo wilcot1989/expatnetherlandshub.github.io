@@ -243,7 +243,7 @@ Moving to the Netherlands with children means getting the whole family onto Dutc
 
 During the gap period before your family's Dutch health insurance is active, SafetyWing's family pricing is notably good: children under 10 are covered free when a parent is insured.
 
-<a href="https://safetywing.com/nomad-insurance/?referenceID=26482728" target="_blank" rel="noopener nofollow sponsored" class="cta-affiliate">Check SafetyWing family coverage →</a>
+<a href="https://go.expatnetherlandshub.com/safetywing?ref=/guides/daily-life/moving-to-netherlands-with-kids-school-guide-2026/" target="_blank" rel="noopener nofollow sponsored" class="cta-affiliate">Check SafetyWing family coverage →</a>
 
 ---
 

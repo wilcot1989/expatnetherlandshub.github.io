@@ -151,7 +151,7 @@ Waiting times in the Spanish public system can be long for non-urgent specialist
 
 SafetyWing's travel and expat health insurance is worth considering as a bridge while you establish residency in either country — particularly useful in the months before your Dutch or Spanish health registration is confirmed.
 
-<a href="https://safetywing.com/nomad-insurance/?referenceID=26482728" target="_blank" rel="noopener nofollow sponsored" class="cta-affiliate">Compare SafetyWing expat health coverage →</a>
+<a href="https://go.expatnetherlandshub.com/safetywing?ref=/guides/integration/netherlands-vs-spain-expats-2026/" target="_blank" rel="noopener nofollow sponsored" class="cta-affiliate">Compare SafetyWing expat health coverage →</a>
 
 ---
 

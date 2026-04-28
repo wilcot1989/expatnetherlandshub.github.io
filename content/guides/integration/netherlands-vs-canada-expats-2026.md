@@ -122,7 +122,7 @@ The Netherlands is excellent for freelancers. Dutch ZZP (self-employed professio
 
 ### Canadian Healthcare: Publicly Funded, Notoriously Slow
 
-Canadian healthcare is funded through general taxation and is free at the point of use for hospital care, GP visits, and most specialist consultations — but only once you are a registered provincial resident. In Ontario, for example, there is a 3-month waiting period before OHIP (Ontario Health Insurance Plan) kicks in, during which you need private travel insurance. Travel health insurance like [SafetyWing](https://safetywing.com/nomad-insurance?referenceID=26482728&utm_source=26482728&utm_medium=Shield) is particularly useful during this gap period.
+Canadian healthcare is funded through general taxation and is free at the point of use for hospital care, GP visits, and most specialist consultations — but only once you are a registered provincial resident. In Ontario, for example, there is a 3-month waiting period before OHIP (Ontario Health Insurance Plan) kicks in, during which you need private travel insurance. Travel health insurance like [SafetyWing](https://go.expatnetherlandshub.com/safetywing?ref=/guides/integration/netherlands-vs-canada-expats-2026/) is particularly useful during this gap period.
 
 The serious limitation of Canadian public healthcare is waiting times. GP shortages mean millions of Canadians do not have a family doctor. Specialist referral waiting times of 6-18 months are common for non-emergency procedures. Emergency care is generally good but overcrowded. Dental, vision, and prescription drug coverage are not included in public insurance and require private supplementary plans.
 
@@ -274,8 +274,8 @@ If you are leaving the Netherlands for Canada: Dutch health insurance terminates
 
 <div class="affiliate-cta">
   <h3>Health Coverage for Expats in Transit: SafetyWing</h3>
-  <p><a href="https://safetywing.com/nomad-insurance?referenceID=26482728&utm_source=26482728&utm_medium=Shield" target="_blank" rel="noopener nofollow sponsored">SafetyWing Nomad Insurance</a> covers medical emergencies globally, including both the Netherlands and Canada, and is designed specifically for internationally mobile people. It is used by expats moving between countries to fill the gap between old and new healthcare systems, during probationary periods, and for frequent cross-border travel. Plans start from approximately USD 45.08/month (under 39 years of age) and can be started from anywhere.</p>
-  <a href="https://safetywing.com/nomad-insurance?referenceID=26482728&utm_source=26482728&utm_medium=Shield" class="cta-button" target="_blank" rel="noopener nofollow sponsored">Get SafetyWing Nomad Insurance</a>
+  <p><a href="https://go.expatnetherlandshub.com/safetywing?ref=/guides/integration/netherlands-vs-canada-expats-2026/" target="_blank" rel="noopener nofollow sponsored">SafetyWing Nomad Insurance</a> covers medical emergencies globally, including both the Netherlands and Canada, and is designed specifically for internationally mobile people. It is used by expats moving between countries to fill the gap between old and new healthcare systems, during probationary periods, and for frequent cross-border travel. Plans start from approximately USD 45.08/month (under 39 years of age) and can be started from anywhere.</p>
+  <a href="https://go.expatnetherlandshub.com/safetywing?ref=/guides/integration/netherlands-vs-canada-expats-2026/" class="cta-button" target="_blank" rel="noopener nofollow sponsored">Get SafetyWing Nomad Insurance</a>
 </div>
 
 ---

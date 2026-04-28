@@ -9,7 +9,7 @@ keywords: ["pregnancy netherlands expat", "maternity care netherlands", "verlosk
 affiliate: true
 products:
   - name: "SafetyWing"
-    url: "https://safetywing.com/nomad-insurance/?referenceID=26482728"
+    url: "https://go.expatnetherlandshub.com/safetywing?ref=/guides/health/pregnancy-maternity-care-netherlands-expats-2026/"
     price: "45.08"
   - name: "CZ"
     url: "https://www.cz.nl/"

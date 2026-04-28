@@ -223,7 +223,7 @@ When you live near borders — or when you have accounts in multiple countries �
 
 **SafetyWing** is relevant specifically for those who are not yet covered by a local health insurance system — common in the first weeks after arrival or when moving between countries. Their Nomad Insurance and Remote Health plans bridge the gap between countries.
 
-<a href="https://safetywing.com/nomad-insurance/?referenceID=26482728&utm_source=26482728&utm_medium=Shield" target="_blank" rel="noopener nofollow sponsored">See SafetyWing plans</a>
+<a href="https://go.expatnetherlandshub.com/safetywing?ref=/guides/integration/netherlands-vs-belgium-expats-2026/" target="_blank" rel="noopener nofollow sponsored">See SafetyWing plans</a>
 
 ---
 
@@ -350,7 +350,7 @@ If the Netherlands is your preferred choice and you are comparing it against oth
 - [Numbeo: Cost of Living Belgium vs Netherlands](https://www.numbeo.com/cost-of-living/compare_countries_result.jsp?country1=Netherlands&country2=Belgium)
 - [EF English Proficiency Index](https://www.ef.com/wwen/epi/)
 - <a href="https://go.expatnetherlandshub.com/wise?ref=/guides/integration/netherlands-vs-belgium-expats-2026/" target="_blank" rel="noopener nofollow sponsored">Wise multi-currency account</a>
-- <a href="https://safetywing.com/nomad-insurance/?referenceID=26482728&utm_source=26482728&utm_medium=Shield" target="_blank" rel="noopener nofollow sponsored">SafetyWing health insurance for expats</a>
+- <a href="https://go.expatnetherlandshub.com/safetywing?ref=/guides/integration/netherlands-vs-belgium-expats-2026/" target="_blank" rel="noopener nofollow sponsored">SafetyWing health insurance for expats</a>
 - [Internations: Belgium expat community](https://www.internations.org/go/moving-to-belgium)
 - [IamExpat Netherlands](https://www.iamexpat.nl)
 - [Brussels expat guide — Expatica](https://www.expatica.com/be/moving/relocation/brussels-expat-guide/)

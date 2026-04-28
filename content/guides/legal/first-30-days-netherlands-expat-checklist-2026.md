@@ -93,7 +93,7 @@ This is the step most people skip, and it is the one that bites them.
 
 Dutch health insurance — the basisverzekering — requires a BSN to activate. You will not have a BSN until your gemeente appointment, which could be 4-6 weeks after arrival. In that gap, you are uninsured unless you arrange something specifically for this transitional period.
 
-My recommendation is <a href="https://safetywing.com/nomad-insurance/?referenceID=26482728" rel="noopener nofollow sponsored" class="cta-affiliate">SafetyWing Nomad Insurance</a>. It is a subscription-based travel and health insurance designed exactly for this situation: international relocations, gaps between policies, and the first weeks in a new country. It covers you for emergency medical care, hospitalisation, and medical evacuation. At roughly €40-60 per month for most adults, it is far cheaper than the risk of an uninsured A&E visit.
+My recommendation is <a href="https://go.expatnetherlandshub.com/safetywing?ref=/guides/legal/first-30-days-netherlands-expat-checklist-2026/" rel="noopener nofollow sponsored" class="cta-affiliate">SafetyWing Nomad Insurance</a>. It is a subscription-based travel and health insurance designed exactly for this situation: international relocations, gaps between policies, and the first weeks in a new country. It covers you for emergency medical care, hospitalisation, and medical evacuation. At roughly €40-60 per month for most adults, it is far cheaper than the risk of an uninsured A&E visit.
 
 Activate it from your home country before you fly, so the coverage starts on arrival day.
 

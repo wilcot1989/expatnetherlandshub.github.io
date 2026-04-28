@@ -9,7 +9,7 @@ keywords: ["dutch health insurance expats", "health insurance netherlands", "bas
 affiliate: true
 products:
   - name: "SafetyWing"
-    url: "https://safetywing.com/nomad-insurance/?referenceID=26482728"
+    url: "https://go.expatnetherlandshub.com/safetywing?ref=/guides/health/dutch-health-insurance-guide-expats-2026/"
     price: "45.08"
   - name: "CZ"
     url: "https://www.cz.nl/"
@@ -370,7 +370,7 @@ Do not let this happen. Arrange your insurance within the first few weeks of arr
 
 There is often a gap between arriving in the Netherlands and getting your Dutch health insurance set up. You might be waiting for your BSN, comparing insurers, or simply dealing with the chaos of relocation.
 
-During this period, <a href="https://safetywing.com/nomad-insurance/?referenceID=26482728&utm_source=26482728&utm_medium=Ambassador" target="_blank" rel="noopener nofollow sponsored">SafetyWing</a> offers an excellent temporary solution. SafetyWing provides international health insurance designed for expats and digital nomads, with the following features:
+During this period, <a href="https://go.expatnetherlandshub.com/safetywing?ref=/guides/health/dutch-health-insurance-guide-expats-2026/" target="_blank" rel="noopener nofollow sponsored">SafetyWing</a> offers an excellent temporary solution. SafetyWing provides international health insurance designed for expats and digital nomads, with the following features:
 
 - **Monthly subscription starting from approximately USD 45 per month**
 - **No commitment**: Cancel anytime
@@ -379,16 +379,16 @@ During this period, <a href="https://safetywing.com/nomad-insurance/?referenceID
 - **Emergency and urgent care**: Fully covered
 - **Sign up online in minutes**, no BSN or Dutch address required
 
-<a href="https://safetywing.com/nomad-insurance/?referenceID=26482728&utm_source=26482728&utm_medium=Ambassador" target="_blank" rel="noopener nofollow sponsored">SafetyWing</a> is not a replacement for Dutch basisverzekering. Once you are registered and have arranged your Dutch health insurance, you should cancel SafetyWing. But as bridge coverage, it provides genuine peace of mind during the transition period. If you are comparing international options at this stage, see our [SafetyWing vs Cigna comparison](/guides/health/safetywing-vs-cigna-expat-insurance-2026/) for a detailed side-by-side analysis.
+<a href="https://go.expatnetherlandshub.com/safetywing?ref=/guides/health/dutch-health-insurance-guide-expats-2026/" target="_blank" rel="noopener nofollow sponsored">SafetyWing</a> is not a replacement for Dutch basisverzekering. Once you are registered and have arranged your Dutch health insurance, you should cancel SafetyWing. But as bridge coverage, it provides genuine peace of mind during the transition period. If you are comparing international options at this stage, see our [SafetyWing vs Cigna comparison](/guides/health/safetywing-vs-cigna-expat-insurance-2026/) for a detailed side-by-side analysis.
 
 This is especially relevant for:
 - Expats who arrive a few weeks before their employment start date
 - Partners or family members who may have a gap in coverage
 - Anyone waiting for their BSN to process their Dutch insurance application
 
-<a href="https://safetywing.com/nomad-insurance/?referenceID=26482728&utm_source=26482728&utm_medium=Ambassador" target="_blank" rel="noopener nofollow sponsored">Get temporary expat coverage with SafetyWing</a>
+<a href="https://go.expatnetherlandshub.com/safetywing?ref=/guides/health/dutch-health-insurance-guide-expats-2026/" target="_blank" rel="noopener nofollow sponsored">Get temporary expat coverage with SafetyWing</a>
 
-<a href="https://safetywing.com/nomad-insurance/?referenceID=26482728&utm_source=26482728&utm_medium=Ambassador" class="cta-affiliate" rel="noopener nofollow sponsored" target="_blank">Get SafetyWing Temporary Health Coverage from $45/month</a>
+<a href="https://go.expatnetherlandshub.com/safetywing?ref=/guides/health/dutch-health-insurance-guide-expats-2026/" class="cta-affiliate" rel="noopener nofollow sponsored" target="_blank">Get SafetyWing Temporary Health Coverage from $45/month</a>
 
 ---
 
@@ -399,7 +399,7 @@ Here is the complete process from arrival to being fully insured:
 ### Week 1: Arrival and Registration
 
 1. Register at your gemeente and receive your BSN
-2. If you do not yet have coverage, sign up for <a href="https://safetywing.com/nomad-insurance/?referenceID=26482728&utm_source=26482728&utm_medium=Ambassador" target="_blank" rel="noopener nofollow sponsored">SafetyWing</a> as temporary insurance
+2. If you do not yet have coverage, sign up for <a href="https://go.expatnetherlandshub.com/safetywing?ref=/guides/health/dutch-health-insurance-guide-expats-2026/" target="_blank" rel="noopener nofollow sponsored">SafetyWing</a> as temporary insurance
 
 ### Week 2-3: Research and Compare
 
@@ -607,7 +607,7 @@ Dutch health insurance may seem complicated at first, but the system is logical 
 
 For expats just arriving, the most important steps are:
 
-1. Get temporary coverage through <a href="https://safetywing.com/nomad-insurance/?referenceID=26482728&utm_source=26482728&utm_medium=Ambassador" rel="noopener nofollow sponsored" target="_blank">SafetyWing</a> if there will be any gap before your Dutch insurance starts
+1. Get temporary coverage through <a href="https://go.expatnetherlandshub.com/safetywing?ref=/guides/health/dutch-health-insurance-guide-expats-2026/" rel="noopener nofollow sponsored" target="_blank">SafetyWing</a> if there will be any gap before your Dutch insurance starts
 2. Compare policies on <a href="https://www.awin1.com/cread.php?awinmid=8558&awinaffid=2776410&ued=https%3A%2F%2Fwww.independer.nl%2Fzorgverzekering" rel="noopener nofollow sponsored" target="_blank">Independer.nl</a> once you have your BSN
 3. Sign up within your first few weeks, well before the 4-month deadline
 4. Register with a GP immediately after your insurance is active
@@ -615,4 +615,4 @@ For expats just arriving, the most important steps are:
 
 The Dutch healthcare system is excellent. Once you are set up, you will have access to high-quality, affordable care that covers virtually all your medical needs. Take the time to get it right from the start, and it will serve you well throughout your time in the Netherlands.
 
-<a href="https://safetywing.com/nomad-insurance/?referenceID=26482728&utm_source=26482728&utm_medium=Ambassador" class="cta-affiliate" rel="noopener nofollow sponsored" target="_blank">Get SafetyWing Bridge Coverage for Your Move to the Netherlands</a>
+<a href="https://go.expatnetherlandshub.com/safetywing?ref=/guides/health/dutch-health-insurance-guide-expats-2026/" class="cta-affiliate" rel="noopener nofollow sponsored" target="_blank">Get SafetyWing Bridge Coverage for Your Move to the Netherlands</a>

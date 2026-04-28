@@ -9,7 +9,7 @@ keywords: ["expat insurance Netherlands", "health insurance expats NL", "best in
 affiliate: true
 products:
   - name: "SafetyWing"
-    url: "https://safetywing.com/nomad-insurance/?referenceID=26482728"
+    url: "https://go.expatnetherlandshub.com/safetywing?ref=/guides/health/best-expat-insurance-netherlands-2026/"
     price: "45.08"
   - name: "CZ"
     url: "https://www.cz.nl/"
@@ -162,7 +162,7 @@ As an expat, you likely travel more than average — visiting home, exploring Eu
 
 For international travel insurance that works globally, SafetyWing Nomad Insurance offers flexible monthly coverage starting at $45/month — ideal for expats who travel frequently or work remotely. I personally keep a travel insurance policy active year-round because the Dutch basic health insurance has very limited coverage outside Europe, and a single emergency room visit in the United States can easily cost $10,000 or more without coverage.
 
-<a href="https://safetywing.com/nomad-insurance/?referenceID=26482728" target="_blank" rel="noopener nofollow sponsored" class="cta-affiliate">Get SafetyWing Nomad Insurance from $45/month →</a>
+<a href="https://go.expatnetherlandshub.com/safetywing?ref=/guides/health/best-expat-insurance-netherlands-2026/" target="_blank" rel="noopener nofollow sponsored" class="cta-affiliate">Get SafetyWing Nomad Insurance from $45/month →</a>
 
 ## 5. Disability Insurance (Arbeidsongeschiktheidsverzekering) — For Self-Employed
 

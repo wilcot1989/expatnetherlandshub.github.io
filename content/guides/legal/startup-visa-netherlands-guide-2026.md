@@ -224,7 +224,7 @@ The most variable cost is the facilitator program fee. Some facilitators — par
 
 Living costs in the Netherlands during the startup year are the dominant expense. Amsterdam is one of Europe's more expensive cities; Rotterdam, Utrecht, Eindhoven, and Delft are meaningfully cheaper for daily expenses and particularly for housing. The [cost of living guide for Netherlands expats](/guides/housing/cost-of-living-netherlands-2026/) has current figures across Dutch cities.
 
-For health coverage during the gap before Dutch insurance kicks in — or as travel health coverage if you are arriving for facilitator meetings before your permit is finalised — <a href="https://safetywing.com/nomad-insurance/?referenceID=26482728&utm_source=26482728&utm_medium=shield" target="_blank" rel="noopener nofollow sponsored" class="cta-affiliate">SafetyWing Nomad Insurance covers you internationally while you get settled →</a>
+For health coverage during the gap before Dutch insurance kicks in — or as travel health coverage if you are arriving for facilitator meetings before your permit is finalised — <a href="https://go.expatnetherlandshub.com/safetywing?ref=/guides/legal/startup-visa-netherlands-guide-2026/" target="_blank" rel="noopener nofollow sponsored" class="cta-affiliate">SafetyWing Nomad Insurance covers you internationally while you get settled →</a>
 
 ---
 
