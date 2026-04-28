@@ -343,3 +343,5 @@ Children with additional care needs or disabilities can access adapted childcare
 *Related reading: [Maternity and Paternity Leave Netherlands](/guides/work/maternity-paternity-leave-netherlands-expats-2026/) | [Dutch Health Insurance for Expats](/guides/health/dutch-health-insurance-guide-expats-2026/) | [International Schools Netherlands](/guides/daily-life/international-schools-netherlands-2026/) | [Registering at the Gemeente](/guides/admin/registering-gemeente-netherlands-2026/)*
 
 One thing worth noting for recently arrived expats: kinderopvangtoeslag is considered a toeslag (benefit) and is paid via the Belastingdienst portal at toeslagen.nl using your DigiD. If you do not yet have a DigiD, getting this set up is the single most important administrative task before your child starts childcare — without it, you cannot apply for the subsidy, and retroactive claims have strict time limits.
+
+<a href="/go/preply" class="cta-affiliate" rel="sponsored noopener">Try Preply</a>

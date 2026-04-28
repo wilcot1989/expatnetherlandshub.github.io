@@ -324,3 +324,5 @@ Switching is handled almost entirely by your new supplier — you sign up online
 - [Best Dutch apps for expats](/guides/daily-life/best-dutch-apps-expats-2026/)
 - [Buying second-hand in the Netherlands](/blog/buying-second-hand-netherlands-guide-2026/)
 - [Dutch customs and birthday traditions explained](/guides/daily-life/dutch-customs-birthday-traditions-expats-2026/)
+
+<a href="/go/wise" class="cta-affiliate" rel="sponsored noopener">Try Wise</a>
