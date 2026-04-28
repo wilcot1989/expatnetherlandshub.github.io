@@ -250,7 +250,7 @@ DSW is less suitable for expats who:
 
 The best approach is always to compare all insurers on a comparison platform rather than going directly. Comparison tools show you exact premiums, contracted care lists, and supplementary packages side by side.
 
-<a href="https://www.awin1.com/cread.php?awinmid=19918&awinaffid=2776410&ued=https://www.independer.nl/zorgverzekering" rel="noopener nofollow sponsored" class="cta-affiliate">Compare DSW against all Dutch insurers on Independer →</a>
+<a href="https://go.expatnetherlandshub.com/independer-zorg?ref=/blog/dsw-health-insurance-review-expats-2026/" rel="noopener nofollow sponsored" class="cta-affiliate">Compare DSW against all Dutch insurers on Independer →</a>
 
 Independer is the largest Dutch insurance comparison platform. It shows live premiums, lets you filter by contracted care, and takes about five minutes to complete.
 
@@ -337,7 +337,7 @@ The main drawback for expats is the English support gap and the regional network
 
 Whatever you decide, compare before you commit. Premiums change each year, contracted care lists shift, and a five-minute check on a comparison platform could save you money or reveal a better fit.
 
-<a href="https://www.awin1.com/cread.php?awinmid=19918&awinaffid=2776410&ued=https://www.independer.nl/zorgverzekering" rel="noopener nofollow sponsored" class="cta-affiliate">See current DSW premiums and compare all insurers on Independer →</a>
+<a href="https://go.expatnetherlandshub.com/independer-zorg?ref=/blog/dsw-health-insurance-review-expats-2026/" rel="noopener nofollow sponsored" class="cta-affiliate">See current DSW premiums and compare all insurers on Independer →</a>
 
 ---
 

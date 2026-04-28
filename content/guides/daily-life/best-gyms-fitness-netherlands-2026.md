@@ -66,7 +66,7 @@ If you prefer variety over one gym, **Urban Sports Club** (€29-€99/month) gi
 
 A practical tip: most gyms offer free WiFi, but public gym networks are unsecured. If you use your phone or laptop for work, banking, or streaming between sessions, a VPN keeps your data private. NordVPN works in the background without affecting your workout.
 
-<a href="https://go.nordvpn.net/aff_c?offer_id=612&aff_id=141337&url_id=14830" target="_blank" rel="noopener nofollow sponsored" class="cta-affiliate">Stay private on gym WiFi with NordVPN →</a>
+<a href="https://go.expatnetherlandshub.com/nordvpn?ref=/guides/daily-life/best-gyms-fitness-netherlands-2026/" target="_blank" rel="noopener nofollow sponsored" class="cta-affiliate">Stay private on gym WiFi with NordVPN →</a>
 
 | Plan | Price/month | Access |
 |------|-----------|--------|
@@ -167,7 +167,7 @@ For transport between fitness spots, read our [OV-chipkaart guide](/guides/daily
 
 If you stream workouts, music, or podcasts while at the gym, NordVPN also unlocks content from your home country — useful for keeping your favorite fitness apps and channels when the Dutch geo-restrictions kick in.
 
-<a href="https://go.nordvpn.net/aff_c?offer_id=612&aff_id=141337&url_id=14830" target="_blank" rel="noopener nofollow sponsored" class="cta-affiliate">Get NordVPN — access your home country content →</a>
+<a href="https://go.expatnetherlandshub.com/nordvpn?ref=/guides/daily-life/best-gyms-fitness-netherlands-2026/" target="_blank" rel="noopener nofollow sponsored" class="cta-affiliate">Get NordVPN — access your home country content →</a>
 
 ## Gym Pricing by Category: The Full 2026 Picture
 

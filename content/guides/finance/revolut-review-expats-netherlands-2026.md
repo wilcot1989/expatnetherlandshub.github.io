@@ -167,7 +167,7 @@ One Revolut feature that I think is genuinely underused: disposable virtual card
 
 This dramatically reduces the risk from data breaches. If an online shop gets hacked and your card details are stolen, there is nothing to steal — the number has already been retired. For someone doing a lot of online shopping or using unfamiliar services, this is a meaningful security improvement over a regular card.
 
-Speaking of security: if you are doing any mobile banking on public WiFi — in a café, at Schiphol, on the train — a VPN is worth using. I recommend <a href="https://go.nordvpn.net/aff_c?offer_id=612&aff_id=141337&url_id=14830" target="_blank" rel="noopener nofollow sponsored" class="cta-affiliate">Protect your banking with NordVPN →</a> for this; it works well on mobile and the Netherlands has good server coverage.
+Speaking of security: if you are doing any mobile banking on public WiFi — in a café, at Schiphol, on the train — a VPN is worth using. I recommend <a href="https://go.expatnetherlandshub.com/nordvpn?ref=/guides/finance/revolut-review-expats-netherlands-2026/" target="_blank" rel="noopener nofollow sponsored" class="cta-affiliate">Protect your banking with NordVPN →</a> for this; it works well on mobile and the Netherlands has good server coverage.
 
 ---
 

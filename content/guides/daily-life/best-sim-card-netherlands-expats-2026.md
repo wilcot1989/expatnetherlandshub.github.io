@@ -306,7 +306,7 @@ If you also need home internet, some providers offer discounts when you bundle m
 
 As a newly arrived expat, you are creating accounts on dozens of new platforms, often on unfamiliar public WiFi networks in hotels, coworking spaces, and cafes. Protecting your digital privacy is important. A VPN encrypts your internet connection and can also let you access streaming content from your home country.
 
-I recommend <a href="https://go.nordvpn.net/aff_c?offer_id=612&aff_id=141337&url_id=14830" rel="noopener nofollow sponsored" target="_blank">NordVPN</a> for expats in the Netherlands. Read our full [VPN guide for expats in the Netherlands](/guides/daily-life/best-vpn-netherlands-expats-2026/) for detailed comparisons.
+I recommend <a href="https://go.expatnetherlandshub.com/nordvpn?ref=/guides/daily-life/best-sim-card-netherlands-expats-2026/" rel="noopener nofollow sponsored" target="_blank">NordVPN</a> for expats in the Netherlands. Read our full [VPN guide for expats in the Netherlands](/guides/daily-life/best-vpn-netherlands-expats-2026/) for detailed comparisons.
 
 ---
 
@@ -361,7 +361,7 @@ For students on a tight budget, Simyo's 5 GB flex plan at €10/month on KPN's n
 
 If your work involves sensitive business information — legal, financial, medical, HR — you should be using a VPN regardless of which provider you choose. Public WiFi networks at coworking spaces, cafes, and client offices are shared environments where data can be intercepted. NordVPN runs quietly in the background and costs less per month than a single café visit.
 
-<a href="https://go.nordvpn.net/aff_c?offer_id=612&aff_id=141337&url_id=14830" rel="noopener nofollow sponsored" class="cta-affiliate">Protect your work data with NordVPN →</a>
+<a href="https://go.expatnetherlandshub.com/nordvpn?ref=/guides/daily-life/best-sim-card-netherlands-expats-2026/" rel="noopener nofollow sponsored" class="cta-affiliate">Protect your work data with NordVPN →</a>
 
 ### If You Call Home Frequently
 

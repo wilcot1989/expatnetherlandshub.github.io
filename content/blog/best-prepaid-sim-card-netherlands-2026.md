@@ -12,7 +12,7 @@ author_bio: "Expat coach and writer at ExpatNetherlandsHub.com"
 featured_image: "/images/categories/daily-life.svg"
 products:
   - name: "NordVPN"
-    url: "https://go.nordvpn.net/aff_c?offer_id=612&aff_id=141337&url_id=17004"
+    url: "https://go.expatnetherlandshub.com/nordvpn?ref=/blog/best-prepaid-sim-card-netherlands-2026/"
     price: "3.09"
     tag: "VPN"
 faq:
@@ -245,7 +245,7 @@ If you are arriving at Schiphol and want a Dutch number immediately without phys
 
 While you are spending your first weeks in cafes, libraries, co-working spaces, and using public Wi-Fi at Schiphol — before your home internet is connected — your phone and laptop traffic is exposed on open networks.
 
-A VPN solves this cleanly. I use [NordVPN](https://go.nordvpn.net/aff_c?offer_id=612&aff_id=141337&url_id=17004) (from €3.09/month) to protect my data on public Wi-Fi while getting set up in a new place. The Dutch government's DigiD portal and your banking app transmit sensitive credentials — using them on unencrypted public networks is a risk that takes about five minutes to eliminate. NordVPN works on all major devices, supports up to 10 simultaneous connections, and does not throttle speeds on the Dutch servers.
+A VPN solves this cleanly. I use [NordVPN](https://go.expatnetherlandshub.com/nordvpn?ref=/blog/best-prepaid-sim-card-netherlands-2026/) (from €3.09/month) to protect my data on public Wi-Fi while getting set up in a new place. The Dutch government's DigiD portal and your banking app transmit sensitive credentials — using them on unencrypted public networks is a risk that takes about five minutes to eliminate. NordVPN works on all major devices, supports up to 10 simultaneous connections, and does not throttle speeds on the Dutch servers.
 
 More on managing finances securely is covered in the [cost of living Netherlands 2026 guide](/guides/finance/cost-of-living-netherlands-2026/).
 

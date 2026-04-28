@@ -233,7 +233,7 @@ Install it. Use it. Embrace it.
 **Optional — Revolut or N26**
 If you travel frequently within Europe or want better spending analytics without YNAB, either of these works as a travel card alongside your Dutch base account.
 
-One more thing: if you are regularly using public WiFi — in cafes, airports, or co-working spaces — a VPN protects your banking sessions from anyone on the same network. I use <a href="https://go.nordvpn.net/aff_c?offer_id=612&aff_id=141337&url_id=14830" rel="noopener nofollow sponsored" class="cta-affiliate">NordVPN</a> when working from coffee shops in Amsterdam. Dutch banking apps do not warn you about this, but it is worth thinking about.
+One more thing: if you are regularly using public WiFi — in cafes, airports, or co-working spaces — a VPN protects your banking sessions from anyone on the same network. I use <a href="https://go.expatnetherlandshub.com/nordvpn?ref=/guides/finance/best-finance-apps-expats-netherlands-2026/" rel="noopener nofollow sponsored" class="cta-affiliate">NordVPN</a> when working from coffee shops in Amsterdam. Dutch banking apps do not warn you about this, but it is worth thinking about.
 
 For help choosing the right bank account combination, try the [bank account chooser tool](/tools/bank-account-chooser/).
 

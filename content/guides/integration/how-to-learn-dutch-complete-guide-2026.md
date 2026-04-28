@@ -29,7 +29,7 @@ faq:
     a: "Duolingo alone is not enough to become conversational. It is excellent for building vocabulary and basic grammar up to A2 level, and it creates a daily habit. But it provides very little speaking practice and limited grammatical depth. To become conversational, combine Duolingo with a speaking-focused resource — an italki tutor, a taalcafé, or a conversation partner."
 products:
   - name: "NordVPN"
-    url: "https://go.nordvpn.net/aff_c?offer_id=612&aff_id=141337&url_id=17004"
+    url: "https://go.expatnetherlandshub.com/nordvpn?ref=/guides/integration/how-to-learn-dutch-complete-guide-2026/"
     price: "3.09"
     tag: "VPN"
 ---
@@ -243,7 +243,7 @@ This is one of the most effective passive immersion methods. Start with subtitle
 
 **Nieuws** — the NOS 8 o'clock news is formal, clearly spoken, and uses standard vocabulary. Good for building listening skills at any level.
 
-NPO Start (npo.nl) hosts most Dutch public TV content. If you are accessing it from outside the Netherlands, note that much of NPO Start is geo-blocked. A VPN like [NordVPN](https://go.nordvpn.net/aff_c?offer_id=612&aff_id=141337&url_id=17004) with a Dutch server will let you access the full catalog from anywhere — useful if you spend time outside the country but want to keep up your Dutch immersion. NordVPN costs from €3.09/month on a two-year plan.
+NPO Start (npo.nl) hosts most Dutch public TV content. If you are accessing it from outside the Netherlands, note that much of NPO Start is geo-blocked. A VPN like [NordVPN](https://go.expatnetherlandshub.com/nordvpn?ref=/guides/integration/how-to-learn-dutch-complete-guide-2026/) with a Dutch server will let you access the full catalog from anywhere — useful if you spend time outside the country but want to keep up your Dutch immersion. NordVPN costs from €3.09/month on a two-year plan.
 
 ### Set Your Phone and Apps to Dutch
 

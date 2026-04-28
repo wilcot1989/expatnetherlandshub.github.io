@@ -159,7 +159,7 @@ One of the quiet sources of expat wellbeing that rarely gets mentioned: access t
 
 Dutch streaming content is Dutch. Netflix and streaming services have geo-restricted libraries. BBC iPlayer, home-country sports, news in your language — all blocked by geographic IP rules.
 
-<a href="https://go.nordvpn.net/aff_c?offer_id=612&aff_id=141337&url_id=14830" rel="noopener nofollow sponsored" class="cta-affiliate">NordVPN</a> removes this barrier. Connect to a server in your home country, and your streaming services work normally — BBC iPlayer, Australian Netflix, American Hulu, sports coverage. This is not a frivolous luxury for expats: access to familiar content in your native language is a genuine mental health resource, particularly during the dark winter months when you are already depleted. A Friday evening watching something comforting from home, in your language, is a small thing with disproportionate emotional value.
+<a href="https://go.expatnetherlandshub.com/nordvpn?ref=/guides/work/expat-burnout-prevention-netherlands-2026/" rel="noopener nofollow sponsored" class="cta-affiliate">NordVPN</a> removes this barrier. Connect to a server in your home country, and your streaming services work normally — BBC iPlayer, Australian Netflix, American Hulu, sports coverage. This is not a frivolous luxury for expats: access to familiar content in your native language is a genuine mental health resource, particularly during the dark winter months when you are already depleted. A Friday evening watching something comforting from home, in your language, is a small thing with disproportionate emotional value.
 
 ### Manage Bureaucratic Load
 

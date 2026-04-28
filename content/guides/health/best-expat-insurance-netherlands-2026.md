@@ -219,7 +219,7 @@ Legal expenses insurance covers the cost of legal assistance in disputes. In the
 
 Compare health insurance options easily through Independer — the Netherlands' most popular comparison platform with English-language support.
 
-<a href="https://www.awin1.com/cread.php?awinmid=19918&awinaffid=2776410&ued=https://www.independer.nl/zorgverzekering" target="_blank" rel="noopener nofollow sponsored" class="cta-affiliate">Compare Dutch Health Insurance on Independer →</a>
+<a href="https://go.expatnetherlandshub.com/independer-zorg?ref=/guides/health/best-expat-insurance-netherlands-2026/" target="_blank" rel="noopener nofollow sponsored" class="cta-affiliate">Compare Dutch Health Insurance on Independer →</a>
 
 ## Common Mistakes Expats Make
 

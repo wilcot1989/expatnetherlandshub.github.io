@@ -404,7 +404,7 @@ One thing I always mention when talking about mobile plans is what happens when 
 
 Public Wi-Fi in the Netherlands is widely available and generally reliable, but it is unencrypted and shared. I use a VPN whenever I am on public Wi-Fi, particularly for online banking, accessing email, or anything involving passwords. After trying several options, NordVPN is what I settled on — it is fast enough not to notice on a good connection and has good server options in the Netherlands and elsewhere in Europe.
 
-<a href="https://go.nordvpn.net/aff_c?offer_id=612&aff_id=141337&url_id=14830" target="_blank" rel="noopener nofollow sponsored" class="cta-affiliate">Protect your phone with NordVPN →</a>
+<a href="https://go.expatnetherlandshub.com/nordvpn?ref=/guides/daily-life/mobile-phone-plans-netherlands-expats-2026/" target="_blank" rel="noopener nofollow sponsored" class="cta-affiliate">Protect your phone with NordVPN →</a>
 
 For more on why this matters for expats specifically (including using streaming services and accessing home-country banking sites), I have a full [VPN guide for expats in the Netherlands](/guides/daily-life/best-vpn-netherlands-expats-2026/).
 

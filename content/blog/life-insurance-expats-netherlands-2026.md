@@ -131,9 +131,9 @@ Be aware that advisers earn commission on insurance products. This doesn't mean 
 
 ### Option 2: Via Independer or Vergelijk.nl
 
-Comparison platforms like [Independer](https://awin1.com/cread.php?awinmid=19918&awinaffid=2776410&ued=https://www.independer.nl/zorgverzekering) allow you to compare insurance products in the Netherlands. Life insurance comparison is available alongside health insurance comparisons.
+Comparison platforms like [Independer](https://go.expatnetherlandshub.com/independer-zorg?ref=/blog/life-insurance-expats-netherlands-2026/) allow you to compare insurance products in the Netherlands. Life insurance comparison is available alongside health insurance comparisons.
 
-<a href="https://awin1.com/cread.php?awinmid=19918&awinaffid=2776410&ued=https://www.independer.nl/zorgverzekering" rel="noopener nofollow sponsored" class="cta-affiliate">Compare Dutch insurance options on Independer</a>
+<a href="https://go.expatnetherlandshub.com/independer-zorg?ref=/blog/life-insurance-expats-netherlands-2026/" rel="noopener nofollow sponsored" class="cta-affiliate">Compare Dutch insurance options on Independer</a>
 
 These platforms are in Dutch, but the interfaces are manageable and many expats use them successfully. Entering your details will generate comparison quotes from multiple providers.
 

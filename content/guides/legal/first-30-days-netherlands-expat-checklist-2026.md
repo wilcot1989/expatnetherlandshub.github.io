@@ -287,7 +287,7 @@ Setup times vary. Most providers can install within 1-2 weeks, but some addresse
 
 My [best internet providers in the Netherlands guide](/guides/daily-life/best-internet-providers-netherlands-expats-2026/) covers speeds, pricing, contract terms, and English-language support for each provider.
 
-**A note on VPNs:** If you are working remotely or accessing services from your home country, a VPN is useful in the Netherlands. <a href="https://go.nordvpn.net/aff_c?offer_id=612&aff_id=141337&url_id=14830" rel="noopener nofollow sponsored" class="cta-affiliate">NordVPN</a> is the one I use — reliable, fast, and easy to set up on all your devices.
+**A note on VPNs:** If you are working remotely or accessing services from your home country, a VPN is useful in the Netherlands. <a href="https://go.expatnetherlandshub.com/nordvpn?ref=/guides/legal/first-30-days-netherlands-expat-checklist-2026/" rel="noopener nofollow sponsored" class="cta-affiliate">NordVPN</a> is the one I use — reliable, fast, and easy to set up on all your devices.
 
 **Checklist:**
 - [ ] Order home internet connection

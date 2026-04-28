@@ -335,7 +335,7 @@ Speed cameras (flitspalen) are widespread and strictly enforced. Fines start at 
 
 For expat drivers new to the Netherlands, premiums are calculated partly based on your schadevrijejaren (no-claims history). If you have accumulated no-claims in another country, many Dutch insurers accept a foreign no-claims certificate as evidence — ask specifically about this when getting quotes. Independer.nl compares car insurance prices from all major Dutch providers.
 
-<a href="https://www.awin1.com/cread.php?awinmid=19918&awinaffid=2776410&ued=https://www.independer.nl/autoverzekering" rel="noopener nofollow sponsored" target="_blank" class="cta-affiliate">Compare Car Insurance on Independer →</a>
+<a href="https://go.expatnetherlandshub.com/independer-auto?ref=/guides/daily-life/driving-in-netherlands-guide-2026/" rel="noopener nofollow sponsored" target="_blank" class="cta-affiliate">Compare Car Insurance on Independer →</a>
 
 ---
 

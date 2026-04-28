@@ -281,7 +281,7 @@ For the majority of expats settling in the Netherlands — registering, getting 
 
 If you need to find and compare Dutch basisverzekering options, Independer lets you compare all major Dutch insurers in one place:
 
-<a href="https://www.awin1.com/cread.php?awinmid=19918&awinaffid=2776410&ued=https://www.independer.nl/zorgverzekering" target="_blank" rel="noopener nofollow sponsored" class="cta-affiliate">Compare Dutch Health Insurance on Independer →</a>
+<a href="https://go.expatnetherlandshub.com/independer-zorg?ref=/guides/health/safetywing-vs-cigna-expat-insurance-2026/" target="_blank" rel="noopener nofollow sponsored" class="cta-affiliate">Compare Dutch Health Insurance on Independer →</a>
 
 Start with the [complete expat health insurance guide for the Netherlands](/guides/health/dutch-health-insurance-guide-expats-2026/) if you have not already. It will give you the full picture of what you are required to have, what you are entitled to, and where international products like SafetyWing and Cigna Global legitimately fit in.
 

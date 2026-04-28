@@ -293,7 +293,7 @@ When I started freelancing, I spent far too long worrying about whether my invoi
 
 For health insurance, compare all major Dutch providers in one place — Independer is the Netherlands' most-used comparison platform and shows your estimated net cost after any zorgtoeslag (healthcare allowance) you qualify for.
 
-<a href="https://www.awin1.com/cread.php?awinmid=19918&awinaffid=2776410&ued=https://www.independer.nl/zorgverzekering" target="_blank" rel="noopener nofollow sponsored" class="cta-affiliate">Compare Dutch Health Insurance for ZZP on Independer →</a>
+<a href="https://go.expatnetherlandshub.com/independer-zorg?ref=/guides/work/freelancer-zzp-guide-netherlands-2026/" target="_blank" rel="noopener nofollow sponsored" class="cta-affiliate">Compare Dutch Health Insurance for ZZP on Independer →</a>
 
 Read our [complete expat insurance guide](/guides/health/best-expat-insurance-netherlands-2026/) for details.
 
@@ -347,7 +347,7 @@ If your professional qualifications were obtained outside the EU, some clients o
 
 For international money transfers (receiving payments from abroad, paying suppliers), use <a href="https://go.expatnetherlandshub.com/wise?ref=/guides/work/freelancer-zzp-guide-netherlands-2026/" rel="noopener nofollow sponsored" target="_blank">Wise</a> to avoid high bank fees. Dutch banks charge 2-5% in hidden exchange rate markups — Wise charges the real exchange rate plus a small transparent fee.
 
-If you work remotely from coworking spaces or cafés, you will regularly be accessing tax portals, accounting software, and client systems over shared WiFi. A VPN keeps that traffic private. <a href="https://go.nordvpn.net/aff_c?offer_id=612&aff_id=141337&url_id=14830" rel="noopener nofollow sponsored" target="_blank">Stay secure on public WiFi with NordVPN →</a> For a guide to the best coworking spaces across Dutch cities — including day pass options and spaces with strong freelancer communities — see our [best coworking spaces in the Netherlands guide](/guides/work/best-coworking-spaces-netherlands-2026/).
+If you work remotely from coworking spaces or cafés, you will regularly be accessing tax portals, accounting software, and client systems over shared WiFi. A VPN keeps that traffic private. <a href="https://go.expatnetherlandshub.com/nordvpn?ref=/guides/work/freelancer-zzp-guide-netherlands-2026/" rel="noopener nofollow sponsored" target="_blank">Stay secure on public WiFi with NordVPN →</a> For a guide to the best coworking spaces across Dutch cities — including day pass options and spaces with strong freelancer communities — see our [best coworking spaces in the Netherlands guide](/guides/work/best-coworking-spaces-netherlands-2026/).
 
 ### Pension
 

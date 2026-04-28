@@ -202,7 +202,7 @@ For most expats, the best approach is not to go direct to a single insurer first
 
 ### Comparing Prices: Use Independer
 
-<a href="https://www.awin1.com/cread.php?awinmid=19918&awinaffid=2776410&ued=https://www.independer.nl/autoverzekering" target="_blank" rel="noopener nofollow sponsored" class="cta-affiliate">Compare car insurance on Independer →</a>
+<a href="https://go.expatnetherlandshub.com/independer-auto?ref=/blog/car-insurance-netherlands-expats-2026/" target="_blank" rel="noopener nofollow sponsored" class="cta-affiliate">Compare car insurance on Independer →</a>
 
 Independer is the largest and most detailed insurance comparison platform in the Netherlands. It compares policies from all major Dutch insurers in real time. You can filter by coverage type, excess amount, and optional add-ons. The interface is in Dutch, but easy to navigate.
 

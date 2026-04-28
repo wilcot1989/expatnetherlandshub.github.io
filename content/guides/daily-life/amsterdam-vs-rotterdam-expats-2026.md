@@ -17,7 +17,7 @@ products:
     price: "0.00"
     tag: "Currency Transfer"
   - name: "NordVPN"
-    url: "https://go.nordvpn.net/aff_c?offer_id=612&aff_id=141337&url_id=17004"
+    url: "https://go.expatnetherlandshub.com/nordvpn?ref=/guides/daily-life/amsterdam-vs-rotterdam-expats-2026/"
     price: "3.09"
     tag: "VPN"
 schema_type: "Article"
@@ -277,7 +277,7 @@ A few things apply regardless of whether you land in Amsterdam or Rotterdam.
 
 **Internet:** Both cities have good fibre broadband coverage. My [internet providers guide](/guides/daily-life/best-internet-providers-netherlands-2026/) compares KPN, Ziggo, T-Mobile Thuis, and Odido with current pricing.
 
-**VPN:** Worth having, particularly if you are streaming content from your home country or working with sensitive client data. <a href="https://go.nordvpn.net/aff_c?offer_id=612&aff_id=141337&url_id=17004" target="_blank" rel="noopener nofollow sponsored" class="cta-affiliate">NordVPN is the one I use — from €3.09/month →</a>.
+**VPN:** Worth having, particularly if you are streaming content from your home country or working with sensitive client data. <a href="https://go.expatnetherlandshub.com/nordvpn?ref=/guides/daily-life/amsterdam-vs-rotterdam-expats-2026/" target="_blank" rel="noopener nofollow sponsored" class="cta-affiliate">NordVPN is the one I use — from €3.09/month →</a>.
 
 **Salary transparency:** Use the [salary comparison tool](/salary-comparison/) before accepting a job offer in either city. Dutch salary norms differ significantly by sector, and Amsterdam's cost premium can disappear quickly if you are not paid at the Amsterdam market rate.
 

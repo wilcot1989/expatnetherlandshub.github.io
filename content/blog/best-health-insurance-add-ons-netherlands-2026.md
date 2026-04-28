@@ -43,9 +43,9 @@ Before getting into add-ons, it's useful to know the structure:
 
 **Tandartsverzekering (dental insurance)** — sometimes bundled into supplementary packages, sometimes sold separately.
 
-You can compare both basic and supplementary options using a comparison platform like [Independer](https://awin1.com/cread.php?awinmid=19918&awinaffid=2776410&ued=https://www.independer.nl/zorgverzekering).
+You can compare both basic and supplementary options using a comparison platform like [Independer](https://go.expatnetherlandshub.com/independer-zorg?ref=/blog/best-health-insurance-add-ons-netherlands-2026/).
 
-<a href="https://awin1.com/cread.php?awinmid=19918&awinaffid=2776410&ued=https://www.independer.nl/zorgverzekering" rel="noopener nofollow sponsored" class="cta-affiliate">Compare Dutch health insurance and add-ons on Independer</a>
+<a href="https://go.expatnetherlandshub.com/independer-zorg?ref=/blog/best-health-insurance-add-ons-netherlands-2026/" rel="noopener nofollow sponsored" class="cta-affiliate">Compare Dutch health insurance and add-ons on Independer</a>
 
 ## What the Basic Package Doesn't Cover (That Matters for Expats)
 
@@ -204,9 +204,9 @@ The right combination depends on your personal situation. Here's a quick guide:
 
 A critical practical point: you can only change your health insurance (basic and supplementary) between **1 November and 31 December**, with changes taking effect on 1 January. Missing this window means you're locked in for another year.
 
-Mark this window in your calendar each October. Spend a few hours comparing packages on [Independer](https://awin1.com/cread.php?awinmid=19918&awinaffid=2776410&ued=https://www.independer.nl/zorgverzekering) before the deadline.
+Mark this window in your calendar each October. Spend a few hours comparing packages on [Independer](https://go.expatnetherlandshub.com/independer-zorg?ref=/blog/best-health-insurance-add-ons-netherlands-2026/) before the deadline.
 
-<a href="https://awin1.com/cread.php?awinmid=19918&awinaffid=2776410&ued=https://www.independer.nl/zorgverzekering" rel="noopener nofollow sponsored" class="cta-affiliate">Compare health insurance add-ons on Independer before November</a>
+<a href="https://go.expatnetherlandshub.com/independer-zorg?ref=/blog/best-health-insurance-add-ons-netherlands-2026/" rel="noopener nofollow sponsored" class="cta-affiliate">Compare health insurance add-ons on Independer before November</a>
 
 ## The Own Risk (Eigen Risico)
 
@@ -244,7 +244,7 @@ If you have just registered at the municipality and are choosing health insuranc
 
 **Step 2: Get your BSN.** You need your burgerservicenummer to sign up with an insurer. The gemeente gives you this when you register.
 
-**Step 3: Compare before you pick.** Spend an hour on [Independer](https://awin1.com/cread.php?awinmid=19918&awinaffid=2776410&ued=https://www.independer.nl/zorgverzekering) comparing current premiums side by side. Enter your age, the eigen risico you want, and whether you want supplementary coverage. The price differences between comparable policies can be €15–€30 per month — over a year that is €180–€360 in your pocket or out of it.
+**Step 3: Compare before you pick.** Spend an hour on [Independer](https://go.expatnetherlandshub.com/independer-zorg?ref=/blog/best-health-insurance-add-ons-netherlands-2026/) comparing current premiums side by side. Enter your age, the eigen risico you want, and whether you want supplementary coverage. The price differences between comparable policies can be €15–€30 per month — over a year that is €180–€360 in your pocket or out of it.
 
 **Step 4: Choose your insurer, basic policy type, and add-ons simultaneously.** Supplementary insurance is sold by the same company as your basic insurance in most cases. Choosing them at the same time prevents gaps.
 
@@ -286,7 +286,7 @@ When you compare supplementary packages on Independer or directly on insurer web
 
 **5. Alternative medicine inclusion.** If you use this, check whether your specific discipline (chiropractic, acupuncture, etc.) is on the accepted list. The list varies by insurer.
 
-<a href="https://awin1.com/cread.php?awinmid=19918&awinaffid=2776410&ued=https://www.independer.nl/zorgverzekering" rel="noopener nofollow sponsored" class="cta-affiliate">Compare supplementary health insurance add-ons on Independer — see exact coverage details side by side</a>
+<a href="https://go.expatnetherlandshub.com/independer-zorg?ref=/blog/best-health-insurance-add-ons-netherlands-2026/" rel="noopener nofollow sponsored" class="cta-affiliate">Compare supplementary health insurance add-ons on Independer — see exact coverage details side by side</a>
 
 ## Hearing Aids, Orthopaedic Aids, and Prosthetics
 
@@ -386,7 +386,7 @@ Dutch supplementary insurance policies have a reputation for complexity, but the
 
 One practical tip: when comparing two supplementary packages on Independer, click through to the actual policy documents rather than relying on the summary tables. The summary shows maximum amounts; the full policy shows the conditions attached to those amounts — including waiting periods, session limits, and provider restrictions that significantly affect the real value.
 
-<a href="https://awin1.com/cread.php?awinmid=19918&awinaffid=2776410&ued=https://www.independer.nl/zorgverzekering" rel="noopener nofollow sponsored" class="cta-affiliate">Compare aanvullende verzekering policies in detail on Independer</a>
+<a href="https://go.expatnetherlandshub.com/independer-zorg?ref=/blog/best-health-insurance-add-ons-netherlands-2026/" rel="noopener nofollow sponsored" class="cta-affiliate">Compare aanvullende verzekering policies in detail on Independer</a>
 
 ---
 

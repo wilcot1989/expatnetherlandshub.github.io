@@ -55,7 +55,7 @@ New to the Netherlands? Start with our [complete expat guide](/guides/legal/comp
 
 Want to explore the Netherlands during public holidays without language barriers? Booking travel from your home country is easier with geo-restrictions removed — NordVPN lets you access your familiar booking platforms wherever you are.
 
-<a href="https://go.nordvpn.net/aff_c?offer_id=612&aff_id=141337&url_id=14830" target="_blank" rel="noopener nofollow sponsored" class="cta-affiliate">Access home-country travel deals with NordVPN →</a>
+<a href="https://go.expatnetherlandshub.com/nordvpn?ref=/guides/daily-life/dutch-holidays-traditions-expat-guide-2026/" target="_blank" rel="noopener nofollow sponsored" class="cta-affiliate">Access home-country travel deals with NordVPN →</a>
 
 ## The Big Celebrations
 

@@ -254,7 +254,7 @@ Productive uses of long Dutch winter evenings:
 - Building a side project
 - Watching content from home (your regular streaming services may have limited content in the Netherlands — a VPN helps you access your home country's library)
 
-<a href="https://go.nordvpn.net/aff_c?offer_id=612&aff_id=141337&url_id=14830" target="_blank" rel="noopener nofollow sponsored" class="cta-affiliate">Stream home content during long winter evenings with NordVPN →</a>
+<a href="https://go.expatnetherlandshub.com/nordvpn?ref=/guides/daily-life/surviving-first-dutch-winter-expats-2026/" target="_blank" rel="noopener nofollow sponsored" class="cta-affiliate">Stream home content during long winter evenings with NordVPN →</a>
 
 On the social side: winter evenings are when Dutch dinner culture shines. Dutch people eat dinner early (6-7pm is standard), which means evenings are long and unhurried. A dinner invitation for 6:30pm can easily go to midnight without being unusual. This is one of the most enjoyable aspects of Dutch social life in winter.
 

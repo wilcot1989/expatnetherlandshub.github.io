@@ -360,7 +360,7 @@ Providers aggressively market bundles combining internet, TV, and phone. If you 
 
 ### Protect Your Privacy with a VPN
 
-Once your internet is set up, consider adding a VPN for privacy and to access streaming content from your home country. Your Dutch ISP can see your browsing activity, and a VPN encrypts this traffic. It also lets you connect to servers in your home country to watch Netflix, BBC iPlayer, Hulu, and other services as if you never left. I recommend <a href="https://go.nordvpn.net/aff_c?offer_id=612&aff_id=141337&url_id=14830" rel="noopener nofollow sponsored" target="_blank">NordVPN</a> for expats in the Netherlands. Read our full [VPN comparison for expats](/guides/daily-life/best-vpn-netherlands-expats-2026/) for detailed reviews.
+Once your internet is set up, consider adding a VPN for privacy and to access streaming content from your home country. Your Dutch ISP can see your browsing activity, and a VPN encrypts this traffic. It also lets you connect to servers in your home country to watch Netflix, BBC iPlayer, Hulu, and other services as if you never left. I recommend <a href="https://go.expatnetherlandshub.com/nordvpn?ref=/guides/daily-life/best-internet-providers-netherlands-2026/" rel="noopener nofollow sponsored" target="_blank">NordVPN</a> for expats in the Netherlands. Read our full [VPN comparison for expats](/guides/daily-life/best-vpn-netherlands-expats-2026/) for detailed reviews.
 
 ---
 

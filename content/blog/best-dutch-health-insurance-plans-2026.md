@@ -36,7 +36,7 @@ I picked almost at random. I later spent two hours on hold trying to get a physi
 
 If you are navigating Dutch health insurance for the first time — or thinking about switching — this guide will tell you everything you need to know: how the system works, what the major insurers offer, what the current premiums look like, and how to compare options in a way that accounts for your actual situation.
 
-I use <a href="https://www.awin1.com/cread.php?awinmid=19918&awinaffid=2776410&ued=https://www.independer.nl/zorgverzekering" rel="noopener nofollow sponsored" class="cta-affiliate">Independer</a> to compare insurance options in the Netherlands — it is free, shows real pricing, and covers both basic and supplementary policies.
+I use <a href="https://go.expatnetherlandshub.com/independer-zorg?ref=/blog/best-dutch-health-insurance-plans-2026/" rel="noopener nofollow sponsored" class="cta-affiliate">Independer</a> to compare insurance options in the Netherlands — it is free, shows real pricing, and covers both basic and supplementary policies.
 
 ---
 
@@ -175,7 +175,7 @@ You can use any registered Dutch healthcare provider and be reimbursed at the fu
 
 *Premiums vary by age, region, and chosen eigen risico. These are estimates for a 30-year-old adult in Amsterdam with EUR 385 eigen risico. Use Independer for current exact pricing.*
 
-<a href="https://www.awin1.com/cread.php?awinmid=19918&awinaffid=2776410&ued=https://www.independer.nl/zorgverzekering" rel="noopener nofollow sponsored" class="cta-affiliate">Compare current Dutch health insurance prices on Independer</a>
+<a href="https://go.expatnetherlandshub.com/independer-zorg?ref=/blog/best-dutch-health-insurance-plans-2026/" rel="noopener nofollow sponsored" class="cta-affiliate">Compare current Dutch health insurance prices on Independer</a>
 
 ---
 
@@ -255,7 +255,7 @@ Switching is simple if you do it during the open enrolment window (1 November �
 
 If you have supplementary insurance, be aware that some insurers apply a waiting period (up to one year) for dental coverage when you switch. Check the conditions before switching mid-treatment.
 
-<a href="https://www.awin1.com/cread.php?awinmid=19918&awinaffid=2776410&ued=https://www.independer.nl/zorgverzekering" rel="noopener nofollow sponsored" class="cta-affiliate">Compare Dutch health insurance options on Independer — free and updated for 2026</a>
+<a href="https://go.expatnetherlandshub.com/independer-zorg?ref=/blog/best-dutch-health-insurance-plans-2026/" rel="noopener nofollow sponsored" class="cta-affiliate">Compare Dutch health insurance options on Independer — free and updated for 2026</a>
 
 ---
 

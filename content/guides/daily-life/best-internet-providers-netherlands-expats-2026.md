@@ -332,7 +332,7 @@ After ten years of this, and helping dozens of clients sort out their internet c
 
 **Moving into a new flat where internet is already included:** Lucky you. Check what speed you are getting and whether it meets your needs. If you are paying for the internet yourself later, you will want to know your options in advance.
 
-**You travel frequently and want to keep your connection secure on hotel and café networks:** I use a VPN on every network that is not my home connection. See my guide to the [best VPNs for expats in the Netherlands](/guides/daily-life/best-vpn-netherlands-expats-2026/) — and yes, I recommend securing even your fast Dutch fiber connection when working on public WiFi. <a href="https://go.nordvpn.net/aff_c?offer_id=612&aff_id=141337&url_id=14830" target="_blank" rel="noopener nofollow sponsored" class="cta-affiliate">Secure your connection with NordVPN →</a>
+**You travel frequently and want to keep your connection secure on hotel and café networks:** I use a VPN on every network that is not my home connection. See my guide to the [best VPNs for expats in the Netherlands](/guides/daily-life/best-vpn-netherlands-expats-2026/) — and yes, I recommend securing even your fast Dutch fiber connection when working on public WiFi. <a href="https://go.expatnetherlandshub.com/nordvpn?ref=/guides/daily-life/best-internet-providers-netherlands-expats-2026/" target="_blank" rel="noopener nofollow sponsored" class="cta-affiliate">Secure your connection with NordVPN →</a>
 
 ---
 

@@ -238,7 +238,7 @@ For treatments where you pay upfront (common for non-contracted providers, some 
 
 *2026 estimates. Always compare current exact premiums before committing.*
 
-<a href="https://www.awin1.com/cread.php?awinmid=19918&awinaffid=2776410&ued=https://www.independer.nl/zorgverzekering" rel="noopener nofollow sponsored" class="cta-affiliate">Compare Menzis vs other Dutch health insurers on Independer</a>
+<a href="https://go.expatnetherlandshub.com/independer-zorg?ref=/blog/menzis-health-insurance-review-expats-2026/" rel="noopener nofollow sponsored" class="cta-affiliate">Compare Menzis vs other Dutch health insurers on Independer</a>
 
 ---
 

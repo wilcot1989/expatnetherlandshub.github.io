@@ -258,7 +258,7 @@ Building a social circle is a common challenge in both countries. The Dutch are 
 
 Germany shares a similar pattern, though the culture is generally considered slightly more open to forming new friendships in adulthood, particularly in diverse cities like Berlin. Verein culture (clubs and associations for everything from hiking to board games) provides a structured way to meet people.
 
-For privacy and security while settling into a new country, using a VPN on public Wi-Fi networks in cafes, coworking spaces, and shared housing is advisable. <a href="https://go.nordvpn.net/aff_c?offer_id=612&aff_id=141337&url_id=14830" rel="noopener nofollow sponsored" target="_blank">NordVPN</a> works reliably in both countries and lets you access content from your home country while abroad.
+For privacy and security while settling into a new country, using a VPN on public Wi-Fi networks in cafes, coworking spaces, and shared housing is advisable. <a href="https://go.expatnetherlandshub.com/nordvpn?ref=/guides/integration/netherlands-vs-germany-expats-2026/" rel="noopener nofollow sponsored" target="_blank">NordVPN</a> works reliably in both countries and lets you access content from your home country while abroad.
 
 ---
 
@@ -412,7 +412,7 @@ Gross salaries are broadly comparable, with Germany edging ahead in engineering 
 
 For job searching, LinkedIn is the dominant platform in both countries. In the Netherlands, Indeed NL and Werkzoeken are also widely used. In Germany, XING (a LinkedIn competitor with a strong German market share), StepStone, and Indeed DE are popular. English-language job boards like EuroJobs and the Amsterdam-based Honeypot (tech-focused) can help international candidates find English-friendly roles.
 
-For networking and community support while job searching, <a href="https://go.nordvpn.net/aff_c?offer_id=612&aff_id=141337&url_id=14830" rel="noopener nofollow sponsored" target="_blank">NordVPN</a> is useful for securely browsing and applying on public Wi-Fi in coworking spaces — a common situation during the job search phase of a relocation.
+For networking and community support while job searching, <a href="https://go.expatnetherlandshub.com/nordvpn?ref=/guides/integration/netherlands-vs-germany-expats-2026/" rel="noopener nofollow sponsored" target="_blank">NordVPN</a> is useful for securely browsing and applying on public Wi-Fi in coworking spaces — a common situation during the job search phase of a relocation.
 
 ---
 

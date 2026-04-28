@@ -230,7 +230,7 @@ CZ is mid-tier on price and solid on most other dimensions. It is not the cheape
 
 Before committing to CZ, I always recommend running a comparison. Premiums shift each year, CZ may or may not be the best value for your specific situation, and small differences add up over 12 months.
 
-<a href="https://www.awin1.com/cread.php?awinmid=19918&awinaffid=2776410&ued=https://www.independer.nl/zorgverzekering" rel="noopener nofollow sponsored" class="cta-affiliate">Compare CZ against all Dutch insurers on Independer →</a>
+<a href="https://go.expatnetherlandshub.com/independer-zorg?ref=/blog/cz-health-insurance-review-expats-2026/" rel="noopener nofollow sponsored" class="cta-affiliate">Compare CZ against all Dutch insurers on Independer →</a>
 
 Independer shows you exact 2026 premiums side by side, lets you filter by contracted care and supplementary options, and takes about five minutes. I use it every year during the open enrollment period.
 
@@ -318,7 +318,7 @@ It is not the cheapest option and it is not the best for English support. But fo
 
 As always: compare first. Your personal situation — location, health needs, employer, and budget — should drive the decision.
 
-<a href="https://www.awin1.com/cread.php?awinmid=19918&awinaffid=2776410&ued=https://www.independer.nl/zorgverzekering" rel="noopener nofollow sponsored" class="cta-affiliate">See CZ's current premiums and compare all insurers →</a>
+<a href="https://go.expatnetherlandshub.com/independer-zorg?ref=/blog/cz-health-insurance-review-expats-2026/" rel="noopener nofollow sponsored" class="cta-affiliate">See CZ's current premiums and compare all insurers →</a>
 
 ---
 

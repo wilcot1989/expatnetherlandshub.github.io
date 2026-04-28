@@ -181,7 +181,7 @@ Most expats use a VPN to access blocked services. This is technically illegal in
 3. Have a backup VPN as a second option
 4. Accept that no VPN works 100% of the time in China
 
-<a href="https://go.nordvpn.net/aff_c?offer_id=612&aff_id=141337&url_id=14830" rel="noopener nofollow sponsored" class="cta-affiliate">Get NordVPN — reliable obfuscated servers for use in restricted internet environments</a>
+<a href="https://go.expatnetherlandshub.com/nordvpn?ref=/blog/netherlands-vs-china-expats-2026/" rel="noopener nofollow sponsored" class="cta-affiliate">Get NordVPN — reliable obfuscated servers for use in restricted internet environments</a>
 
 In the Netherlands, there is no internet censorship. You can access everything. This sounds obvious but becomes very noticeable as a contrast if you have lived in China.
 

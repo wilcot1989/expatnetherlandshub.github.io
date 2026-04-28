@@ -368,7 +368,7 @@ If all of this has made you realise you need to revisit your insurance situation
 
 **Compare Dutch health insurers:** Use Independer's zorgverzekering comparison tool to compare premiums, contracted care networks, and customer service ratings side by side. It is free, takes about 10 minutes, and I use it myself every November.
 
-<a href="https://www.awin1.com/cread.php?awinmid=19918&awinaffid=2776410&ued=https://www.independer.nl/zorgverzekering" target="_blank" rel="noopener nofollow sponsored" class="cta-affiliate">Compare Dutch Health Insurance on Independer →</a>
+<a href="https://go.expatnetherlandshub.com/independer-zorg?ref=/guides/health/dutch-healthcare-system-explained-2026/" target="_blank" rel="noopener nofollow sponsored" class="cta-affiliate">Compare Dutch Health Insurance on Independer →</a>
 
 **Read the full insurance guide:** My [Dutch health insurance guide for expats](/guides/health/dutch-health-insurance-guide-expats-2026/) explains the basisverzekering, eigen risico, zorgtoeslag, and aanvullende verzekering in full detail.
 

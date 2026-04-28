@@ -63,7 +63,7 @@ Your DigiD is the key to your entire Dutch administrative life. Treat it accordi
 - Enable the DigiD app two-factor authentication
 - If using DigiD on public networks or shared devices, use a VPN for additional security
 
-<a href="https://go.nordvpn.net/aff_c?offer_id=612&aff_id=141337&url_id=14830" target="_blank" rel="noopener nofollow sponsored" class="cta-affiliate">Secure your DigiD sessions with NordVPN →</a>
+<a href="https://go.expatnetherlandshub.com/nordvpn?ref=/guides/integration/dutch-bureaucracy-survival-guide-2026/" target="_blank" rel="noopener nofollow sponsored" class="cta-affiliate">Secure your DigiD sessions with NordVPN →</a>
 
 Our [complete DigiD guide for expats](/guides/legal/digid-guide-expats-2026/) covers the full setup process, troubleshooting, and security.
 
@@ -292,7 +292,7 @@ Start with the gemeente. Get your BSN. Set up DigiD the same week. From that poi
 
 One practical tip that has saved my clients hours of frustration: set up a folder (physical or digital) for Dutch admin. Put every letter from the Belastingdienst, every permit document, every gemeente communication in it. Dutch bureaucracy generates a lot of correspondence and references its own previous correspondence. Having it all in one place will save you when the Belastingdienst writes about your "aanslag IB 2024/nummer X" and you need to know what that is.
 
-<a href="https://go.nordvpn.net/aff_c?offer_id=612&aff_id=141337&url_id=14830" target="_blank" rel="noopener nofollow sponsored" class="cta-affiliate">Protect your DigiD and government account access with NordVPN →</a>
+<a href="https://go.expatnetherlandshub.com/nordvpn?ref=/guides/integration/dutch-bureaucracy-survival-guide-2026/" target="_blank" rel="noopener nofollow sponsored" class="cta-affiliate">Protect your DigiD and government account access with NordVPN →</a>
 
 ## Frequently Asked Questions
 
