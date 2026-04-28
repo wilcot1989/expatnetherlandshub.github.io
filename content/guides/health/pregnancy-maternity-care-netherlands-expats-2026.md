@@ -101,7 +101,7 @@ Since 2023, the NIPT (a blood test that screens for Down syndrome and other chro
 
 The older Combinatietest (blood test + nuchal measurement + risk calculation) is still available as an alternative. Discuss the options with your midwife — there is no right answer, only your informed preference.
 
-Ensure your [Dutch health insurance covers](/guides/health/what-dutch-health-insurance-covers-2026/) these tests adequately, particularly if you want supplementary coverage for the NIPT. <a href="https://www.awin1.com/cread.php?awinmid=8558&awinaffid=2776410&ued=https%3A%2F%2Fwww.independer.nl%2Fzorgverzekering" target="_blank" rel="noopener nofollow sponsored" class="cta-affiliate">Compare maternity coverage options on Independer →</a>
+Ensure your [Dutch health insurance covers](/guides/health/what-dutch-health-insurance-covers-2026/) these tests adequately, particularly if you want supplementary coverage for the NIPT. <a href="https://go.expatnetherlandshub.com/independer-zorg?ref=/guides/health/pregnancy-maternity-care-netherlands-expats-2026/" target="_blank" rel="noopener nofollow sponsored" class="cta-affiliate">Compare maternity coverage options on Independer →</a>
 
 ### Weeks 13-28: Second Trimester
 

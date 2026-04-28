@@ -171,7 +171,7 @@ Your GP (huisarts) is your gatekeeper. Almost nothing happens without a GP refer
 
 Use Independer to compare Dutch health insurers in English and find the best price for your situation.
 
-<a href="https://www.awin1.com/cread.php?awinmid=8558&awinaffid=2776410&ued=https%3A%2F%2Fwww.independer.nl%2Fzorgverzekering" target="_blank" rel="noopener nofollow sponsored" class="cta-affiliate">Compare Dutch health insurance on Independer →</a>
+<a href="https://go.expatnetherlandshub.com/independer-zorg?ref=/guides/integration/netherlands-vs-south-africa-expats-2026/" target="_blank" rel="noopener nofollow sponsored" class="cta-affiliate">Compare Dutch health insurance on Independer →</a>
 
 ### Bridging Coverage: Before Your Dutch Insurance Kicks In
 

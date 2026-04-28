@@ -126,11 +126,11 @@ Not sure where to start? Our [health insurance wizard](/tools/health-insurance-w
 
 Use these Dutch comparison websites to find the best policy for your situation:
 
-- <a href="https://www.awin1.com/cread.php?awinmid=8558&awinaffid=2776410&ued=https%3A%2F%2Fwww.independer.nl%2Fzorgverzekering" rel="noopener nofollow sponsored" target="_blank">**Independer.nl**</a>: The most popular comparison site for health insurance
+- <a href="https://go.expatnetherlandshub.com/independer-zorg?ref=/guides/health/dutch-health-insurance-guide-expats-2026/" rel="noopener nofollow sponsored" target="_blank">**Independer.nl**</a>: The most popular comparison site for health insurance
 - **Zorgwijzer.nl**: Clear overviews and annual comparisons
 - **Consumentenbond.nl**: Consumer association with detailed testing
 
-<a href="https://www.awin1.com/cread.php?awinmid=8558&awinaffid=2776410&ued=https%3A%2F%2Fwww.independer.nl%2Fzorgverzekering" class="cta-affiliate" rel="noopener nofollow sponsored" target="_blank">Compare Dutch Health Insurance on Independer.nl</a>
+<a href="https://go.expatnetherlandshub.com/independer-zorg?ref=/guides/health/dutch-health-insurance-guide-expats-2026/" class="cta-affiliate" rel="noopener nofollow sponsored" target="_blank">Compare Dutch Health Insurance on Independer.nl</a>
 
 ---
 
@@ -403,7 +403,7 @@ Here is the complete process from arrival to being fully insured:
 
 ### Week 2-3: Research and Compare
 
-3. Use <a href="https://www.awin1.com/cread.php?awinmid=8558&awinaffid=2776410&ued=https%3A%2F%2Fwww.independer.nl%2Fzorgverzekering" rel="noopener nofollow sponsored" target="_blank">Independer.nl</a> or Zorgwijzer.nl to compare basic insurance premiums
+3. Use <a href="https://go.expatnetherlandshub.com/independer-zorg?ref=/guides/health/dutch-health-insurance-guide-expats-2026/" rel="noopener nofollow sponsored" target="_blank">Independer.nl</a> or Zorgwijzer.nl to compare basic insurance premiums
 4. Check if your employer offers a group discount (collectiviteitskorting) with a specific insurer
 5. Decide whether you need supplementary insurance (dental, physiotherapy, etc.)
 
@@ -524,7 +524,7 @@ Switching Dutch health insurance is simpler than most people expect, but it only
 You can switch your basic health insurance provider during the **open enrollment period: mid-November to 31 December**. Your new policy takes effect on **1 January** of the following year. Outside this window, you cannot switch unless you have a qualifying life event (see below).
 
 The process:
-1. **Compare policies** in October or November using <a href="https://www.awin1.com/cread.php?awinmid=8558&awinaffid=2776410&ued=https%3A%2F%2Fwww.independer.nl%2Fzorgverzekering" rel="noopener nofollow sponsored" target="_blank">Independer.nl</a> or Zorgwijzer.nl
+1. **Compare policies** in October or November using <a href="https://go.expatnetherlandshub.com/independer-zorg?ref=/guides/health/dutch-health-insurance-guide-expats-2026/" rel="noopener nofollow sponsored" target="_blank">Independer.nl</a> or Zorgwijzer.nl
 2. **Sign up with the new insurer** before 31 December — they will handle the cancellation of your old policy on your behalf
 3. **Your new policy starts on 1 January** — there is no gap in coverage
 
@@ -546,7 +546,7 @@ You can switch mid-year only in specific circumstances:
 
 These mid-year switches are uncommon. For most people, the November-December window is the only opportunity.
 
-<a href="https://www.awin1.com/cread.php?awinmid=8558&awinaffid=2776410&ued=https%3A%2F%2Fwww.independer.nl%2Fzorgverzekering" class="cta-affiliate" rel="noopener nofollow sponsored" target="_blank">Compare and Switch Dutch Health Insurance on Independer.nl</a>
+<a href="https://go.expatnetherlandshub.com/independer-zorg?ref=/guides/health/dutch-health-insurance-guide-expats-2026/" class="cta-affiliate" rel="noopener nofollow sponsored" target="_blank">Compare and Switch Dutch Health Insurance on Independer.nl</a>
 
 ---
 
@@ -608,7 +608,7 @@ Dutch health insurance may seem complicated at first, but the system is logical 
 For expats just arriving, the most important steps are:
 
 1. Get temporary coverage through <a href="https://go.expatnetherlandshub.com/safetywing?ref=/guides/health/dutch-health-insurance-guide-expats-2026/" rel="noopener nofollow sponsored" target="_blank">SafetyWing</a> if there will be any gap before your Dutch insurance starts
-2. Compare policies on <a href="https://www.awin1.com/cread.php?awinmid=8558&awinaffid=2776410&ued=https%3A%2F%2Fwww.independer.nl%2Fzorgverzekering" rel="noopener nofollow sponsored" target="_blank">Independer.nl</a> once you have your BSN
+2. Compare policies on <a href="https://go.expatnetherlandshub.com/independer-zorg?ref=/guides/health/dutch-health-insurance-guide-expats-2026/" rel="noopener nofollow sponsored" target="_blank">Independer.nl</a> once you have your BSN
 3. Sign up within your first few weeks, well before the 4-month deadline
 4. Register with a GP immediately after your insurance is active
 5. Apply for zorgtoeslag if your income qualifies

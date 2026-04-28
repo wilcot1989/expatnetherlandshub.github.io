@@ -123,7 +123,7 @@ Children under 18 are covered **free** under a parent's basic insurance. This is
 
 If your income is below approximately EUR 38,000 per year (single) or EUR 48,000 (couple), you may qualify for zorgtoeslag, a monthly healthcare allowance of up to EUR 150 per person. This can reduce your effective health insurance cost to near zero.
 
-Compare premiums from all Dutch insurers on <a href="https://www.awin1.com/cread.php?awinmid=8558&awinaffid=2776410&ued=https%3A%2F%2Fwww.independer.nl%2Fzorgverzekering" rel="noopener nofollow sponsored" target="_blank">Independer.nl</a>. For a detailed comparison, see our [complete guide to Dutch health insurance for expats](/guides/health/dutch-health-insurance-guide-expats-2026/).
+Compare premiums from all Dutch insurers on <a href="https://go.expatnetherlandshub.com/independer-zorg?ref=/guides/housing/cost-of-living-netherlands-2026/" rel="noopener nofollow sponsored" target="_blank">Independer.nl</a>. For a detailed comparison, see our [complete guide to Dutch health insurance for expats](/guides/health/dutch-health-insurance-guide-expats-2026/).
 
 ### Temporary Coverage
 
@@ -245,7 +245,7 @@ Dutch utility costs have stabilized after the energy price spike of 2022-2023, t
 
 Energy is one of the easiest costs to reduce in the Netherlands — the market is competitive and switching providers is free. Independer lets you compare all major suppliers in minutes. For a detailed breakdown of what to look for, see our [guide to the best energy providers in the Netherlands](/guides/housing/energy-providers-expats-netherlands-2026/).
 
-<a href="https://www.awin1.com/cread.php?awinmid=8558&awinaffid=2776410&ued=https%3A%2F%2Fwww.independer.nl%2Fenergie" rel="noopener nofollow sponsored" target="_blank" class="cta-affiliate">Compare Energy Providers on Independer →</a>
+<a href="https://go.expatnetherlandshub.com/independer-energie?ref=/guides/housing/cost-of-living-netherlands-2026/" rel="noopener nofollow sponsored" target="_blank" class="cta-affiliate">Compare Energy Providers on Independer →</a>
 
 ---
 

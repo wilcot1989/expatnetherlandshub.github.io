@@ -395,7 +395,7 @@ The most common mistake expats make with home contents insurance is either not h
 
 **Cost:** Basic home contents coverage in the Netherlands starts from approximately €5–8/month for a typical furnished apartment, rising with coverage amount and location. Compare using Independer, which covers inboedelverzekering alongside health insurance.
 
-<a href="https://www.awin1.com/cread.php?awinmid=19918&awinaffid=2776410&ued=https://www.independer.nl/inboedelverzekering" rel="noopener nofollow sponsored" class="cta-affiliate">Compare home contents insurance on Independer</a>
+<a href="https://go.expatnetherlandshub.com/independer-inboedel?ref=/guides/health/best-expat-insurance-netherlands-2026/" rel="noopener nofollow sponsored" class="cta-affiliate">Compare home contents insurance on Independer</a>
 
 ---
 

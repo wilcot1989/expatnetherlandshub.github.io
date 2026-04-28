@@ -53,7 +53,7 @@ One of the few things that genuinely impressed me when I moved to the Netherland
 
 Want to skip the research and just find the best deal at your address? Independer compares all major Dutch internet providers in one place.
 
-<a href="https://www.awin1.com/cread.php?awinmid=8558&awinaffid=2776410&ued=https%3A%2F%2Fwww.independer.nl%2Finternet" rel="noopener nofollow sponsored" target="_blank" class="cta-affiliate">Compare Internet Providers on Independer →</a>
+<a href="https://go.expatnetherlandshub.com/independer-internet?ref=/guides/daily-life/best-internet-providers-netherlands-2026/" rel="noopener nofollow sponsored" target="_blank" class="cta-affiliate">Compare Internet Providers on Independer →</a>
 
 ---
 
@@ -443,7 +443,7 @@ Check what is available at your address, pick the plan that matches your househo
 
 The quickest way to find the best available deal at your specific address is to run a comparison on Independer — it checks live prices from all major providers in one place.
 
-<a href="https://www.awin1.com/cread.php?awinmid=8558&awinaffid=2776410&ued=https%3A%2F%2Fwww.independer.nl%2Finternet" rel="noopener nofollow sponsored" target="_blank" class="cta-affiliate">Compare Internet Providers on Independer →</a>
+<a href="https://go.expatnetherlandshub.com/independer-internet?ref=/guides/daily-life/best-internet-providers-netherlands-2026/" rel="noopener nofollow sponsored" target="_blank" class="cta-affiliate">Compare Internet Providers on Independer →</a>
 
 Internet is just one piece of your monthly budget — see our [cost of living in the Netherlands guide](/guides/housing/cost-of-living-netherlands-2026/) for a full breakdown of what to expect.
 

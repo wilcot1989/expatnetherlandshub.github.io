@@ -339,7 +339,7 @@ The tandarts (dental) component is the most consistently valuable for expats. I 
 
 You can compare basisverzekering and aanvullende packages side by side on Independer:
 
-<a href="https://www.awin1.com/cread.php?awinmid=8558&awinaffid=2776410&ued=https%3A%2F%2Fwww.independer.nl%2Fzorgverzekering" target="_blank" rel="noopener nofollow sponsored" class="cta-affiliate">Compare Dutch health insurance on Independer →</a>
+<a href="https://go.expatnetherlandshub.com/independer-zorg?ref=/guides/health/what-dutch-health-insurance-covers-2026/" target="_blank" rel="noopener nofollow sponsored" class="cta-affiliate">Compare Dutch health insurance on Independer →</a>
 
 Independer lets you filter by what matters to you — dental coverage level, physio sessions, glasses budget — and shows you the total annual cost including premiums and eigen risico. I use it every November to check whether switching makes sense.
 
@@ -484,7 +484,7 @@ If you are unsure which insurer offers the best family coverage, the [best expat
 
 **Why:** The basispakket is legally identical regardless of insurer. There is no reason to pay for a premium brand name if your priority is cost. Apply for zorgtoeslag if eligible.
 
-Use [Independer to compare](https://www.awin1.com/cread.php?awinmid=8558&awinaffid=2776410&ued=https%3A%2F%2Fwww.independer.nl%2Fzorgverzekering) — it shows the cheapest options clearly alongside the coverage details.
+Use [Independer to compare](https://go.expatnetherlandshub.com/independer-zorg?ref=/guides/health/what-dutch-health-insurance-covers-2026/) — it shows the cheapest options clearly alongside the coverage details.
 
 ---
 

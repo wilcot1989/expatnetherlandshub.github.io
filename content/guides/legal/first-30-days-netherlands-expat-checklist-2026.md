@@ -238,7 +238,7 @@ Dutch health insurance is mandatory. Every person legally residing and working i
 
 **How to compare and choose:**
 
-Use <a href="https://www.awin1.com/cread.php?awinmid=8558&awinaffid=2776410&ued=https%3A%2F%2Fwww.independer.nl%2Fzorgverzekering" rel="noopener nofollow sponsored" class="cta-affiliate">Independer's health insurance comparison tool</a> — it is the most widely used comparison platform in the Netherlands and shows all major insurers side by side. Filter by price, supplementary packages (tandarts/dental is the big one), and English-language customer service.
+Use <a href="https://go.expatnetherlandshub.com/independer-zorg?ref=/guides/legal/first-30-days-netherlands-expat-checklist-2026/" rel="noopener nofollow sponsored" class="cta-affiliate">Independer's health insurance comparison tool</a> — it is the most widely used comparison platform in the Netherlands and shows all major insurers side by side. Filter by price, supplementary packages (tandarts/dental is the big one), and English-language customer service.
 
 For a fuller picture of what to look for, read my [Dutch health insurance guide for expats](/guides/health/dutch-health-insurance-guide-expats-2026/), which covers the basisverzekering in detail, compares the main insurers, and explains the supplementary (aanvullende) packages worth adding.
 

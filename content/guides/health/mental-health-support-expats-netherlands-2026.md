@@ -142,7 +142,7 @@ Some supplementary insurance (aanvullende verzekering) packages do cover a numbe
 
 If you're still in the process of choosing your Dutch basisverzekering — or want to check whether switching to a policy with better aanvullende cover makes sense — Independer lets you compare all Dutch insurers in one place:
 
-<a href="https://www.awin1.com/cread.php?awinmid=8558&awinaffid=2776410&ued=https%3A%2F%2Fwww.independer.nl%2Fzorgverzekering" rel="noopener nofollow sponsored" target="_blank" class="cta-affiliate">Compare Dutch Health Insurance on Independer →</a>
+<a href="https://go.expatnetherlandshub.com/independer-zorg?ref=/guides/health/mental-health-support-expats-netherlands-2026/" rel="noopener nofollow sponsored" target="_blank" class="cta-affiliate">Compare Dutch Health Insurance on Independer →</a>
 
 You can also use the [health insurance wizard](/tools/health-insurance-wizard/) to find a package that suits your situation.
 

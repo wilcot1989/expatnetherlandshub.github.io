@@ -348,11 +348,11 @@ Once you have secured your housing, handle these tasks quickly:
 1. **Register at the gemeente**: You need your rental contract and address to register and receive your BSN. See our [complete guide to moving to the Netherlands](/guides/legal/complete-guide-moving-to-netherlands-2026/) for the full registration process.
 2. **Set up utilities**: If utilities are not included, arrange gas, electricity, and water with a provider like Vattenfall, Eneco, or Budget Energie. Comparing before you sign takes five minutes and can save EUR 200-400 per year. See our [guide to the best energy providers in the Netherlands](/guides/housing/energy-providers-expats-netherlands-2026/) for a current comparison.
 
-   <a href="https://www.awin1.com/cread.php?awinmid=8558&awinaffid=2776410&ued=https%3A%2F%2Fwww.independer.nl%2Fenergie" rel="noopener nofollow sponsored" target="_blank" class="cta-affiliate">Compare Energy Providers on Independer →</a>
+   <a href="https://go.expatnetherlandshub.com/independer-energie?ref=/guides/housing/finding-housing-netherlands-expats-2026/" rel="noopener nofollow sponsored" target="_blank" class="cta-affiliate">Compare Energy Providers on Independer →</a>
 
 3. **Arrange internet**: Providers like KPN, Ziggo, T-Mobile, and Budget Thuis offer home internet packages. Prices and availability vary by address, so it is worth comparing before committing.
 
-   <a href="https://www.awin1.com/cread.php?awinmid=8558&awinaffid=2776410&ued=https%3A%2F%2Fwww.independer.nl%2Finternet" rel="noopener nofollow sponsored" target="_blank" class="cta-affiliate">Compare Internet Providers on Independer →</a>
+   <a href="https://go.expatnetherlandshub.com/independer-internet?ref=/guides/housing/finding-housing-netherlands-expats-2026/" rel="noopener nofollow sponsored" target="_blank" class="cta-affiliate">Compare Internet Providers on Independer →</a>
 4. **Get home insurance**: Inboedelverzekering (contents insurance) is not legally required but strongly recommended. Many landlords require it.
 5. **Document the property condition**: Take photos and videos of every room when you move in. This protects your deposit when you move out.
 6. **Understand waste collection**: Each municipality has its own system for waste separation and collection. Check your gemeente's website for schedules and rules.

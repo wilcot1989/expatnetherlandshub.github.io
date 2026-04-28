@@ -312,7 +312,7 @@ After ten years of helping expats sort out their insurance in the Netherlands, m
 
 If you need to find and compare Dutch basisverzekering options, Independer lets you compare all major Dutch insurers — premiums, coverage levels, and eigen risico options — in one place:
 
-<a href="https://www.awin1.com/cread.php?awinmid=8558&awinaffid=2776410&ued=https%3A%2F%2Fwww.independer.nl%2Fzorgverzekering" rel="noopener nofollow sponsored" target="_blank" class="cta-affiliate">Compare Dutch Health Insurance on Independer →</a>
+<a href="https://go.expatnetherlandshub.com/independer-zorg?ref=/guides/health/onvz-vs-aetna-international-health-insurance-2026/" rel="noopener nofollow sponsored" target="_blank" class="cta-affiliate">Compare Dutch Health Insurance on Independer →</a>
 
 **For expats who are exempt from the Dutch system — posted workers, international organisation staff, short-term assignees — ONVZ's international plans are the better choice if your life is primarily Netherlands-based.** They give you outstanding Dutch healthcare access, Dutch consumer protections, and competitive premiums. The Dutch-language service is a real limitation, but not an insurmountable one.
 

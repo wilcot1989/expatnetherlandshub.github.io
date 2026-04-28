@@ -131,7 +131,7 @@ Some medications have a co-payment even with insurance — this happens when you
 
 Medications not on the government's covered list require full out-of-pocket payment or supplementary insurance coverage. Check the [aanvullende verzekering guide](/guides/health/best-expat-insurance-netherlands-2026/) to understand what supplementary plans cover.
 
-<a href="https://www.awin1.com/cread.php?awinmid=8558&awinaffid=2776410&ued=https%3A%2F%2Fwww.independer.nl%2Fzorgverzekering" target="_blank" rel="noopener nofollow sponsored" class="cta-affiliate">Compare aanvullende verzekering options on Independer →</a>
+<a href="https://go.expatnetherlandshub.com/independer-zorg?ref=/guides/health/pharmacy-apotheek-guide-netherlands-expats-2026/" target="_blank" rel="noopener nofollow sponsored" class="cta-affiliate">Compare aanvullende verzekering options on Independer →</a>
 
 ---
 
@@ -236,7 +236,7 @@ If you take medication not on the basic coverage list, an aanvullende verzekerin
 
 Use Independer to compare plans that include aanvullende modules relevant to your specific medication needs. The platform has an English-language comparison tool.
 
-<a href="https://www.awin1.com/cread.php?awinmid=8558&awinaffid=2776410&ued=https%3A%2F%2Fwww.independer.nl%2Fzorgverzekering" target="_blank" rel="noopener nofollow sponsored" class="cta-affiliate">Compare supplementary insurance plans on Independer →</a>
+<a href="https://go.expatnetherlandshub.com/independer-zorg?ref=/guides/health/pharmacy-apotheek-guide-netherlands-expats-2026/" target="_blank" rel="noopener nofollow sponsored" class="cta-affiliate">Compare supplementary insurance plans on Independer →</a>
 
 ---
 
@@ -307,6 +307,6 @@ The cost of prescription medication in the Netherlands surprises some expats —
 
 For a comparison of Dutch health insurance plans — including which have better medication coverage via supplementary packages — use the Independer comparison tool:
 
-<a href="https://www.awin1.com/cread.php?awinmid=8558&awinaffid=2776410&ued=https%3A%2F%2Fwww.independer.nl%2Fzorgverzekering" target="_blank" rel="noopener nofollow sponsored" class="cta-affiliate">Compare Dutch health insurance on Independer →</a>
+<a href="https://go.expatnetherlandshub.com/independer-zorg?ref=/guides/health/pharmacy-apotheek-guide-netherlands-expats-2026/" target="_blank" rel="noopener nofollow sponsored" class="cta-affiliate">Compare Dutch health insurance on Independer →</a>
 
 One more practical note: your apotheek can tell you your eigen risico balance at any time. If you are approaching the end of the calendar year and have nearly reached EUR 385 in medical costs, it may be worth scheduling any planned procedures before year-end to avoid the deductible resetting on 1 January. This is particularly relevant for planned physiotherapy, specialist consultations, or minor surgical procedures that are medically appropriate but not urgent — timing them in the same calendar year as other healthcare costs can save you the full EUR 385 deductible amount.

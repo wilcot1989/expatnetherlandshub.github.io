@@ -63,7 +63,7 @@ That experience is why I now tell every client: before you sign anything, check 
 
 Want to skip the research and just find what is available at your address today?
 
-<a href="https://www.awin1.com/cread.php?awinmid=8558&awinaffid=2776410&ued=https%3A%2F%2Fwww.independer.nl%2Finternet" target="_blank" rel="noopener nofollow sponsored" class="cta-affiliate">Compare internet deals on Independer →</a>
+<a href="https://go.expatnetherlandshub.com/independer-internet?ref=/guides/daily-life/best-internet-providers-netherlands-expats-2026/" target="_blank" rel="noopener nofollow sponsored" class="cta-affiliate">Compare internet deals on Independer →</a>
 
 ---
 
@@ -231,7 +231,7 @@ The key thing to understand: these providers do not own their own network. They 
 
 My view: budget providers make sense if you have someone who can help you in Dutch (a colleague, a partner, a Dutch friend), if you are confident enough in Dutch to handle a support call, or if you are only staying for a defined period and want to keep costs down. For most newly arrived expats still finding their feet, the €10–15 monthly saving is not worth the potential headache of dealing with a Dutch-only support chain when your internet goes down.
 
-<a href="https://www.awin1.com/cread.php?awinmid=8558&awinaffid=2776410&ued=https%3A%2F%2Fwww.independer.nl%2Finternet" target="_blank" rel="noopener nofollow sponsored" class="cta-affiliate">Compare internet deals on Independer →</a>
+<a href="https://go.expatnetherlandshub.com/independer-internet?ref=/guides/daily-life/best-internet-providers-netherlands-expats-2026/" target="_blank" rel="noopener nofollow sponsored" class="cta-affiliate">Compare internet deals on Independer →</a>
 
 ---
 
@@ -368,7 +368,7 @@ I use Independer for almost every utility comparison I do with clients, and inte
 
 It is genuinely the most efficient way to find what is actually available at your specific address — which, as I have explained, determines your real options more than any general provider ranking does.
 
-<a href="https://www.awin1.com/cread.php?awinmid=8558&awinaffid=2776410&ued=https%3A%2F%2Fwww.independer.nl%2Finternet" target="_blank" rel="noopener nofollow sponsored" class="cta-affiliate">Compare internet deals on Independer →</a>
+<a href="https://go.expatnetherlandshub.com/independer-internet?ref=/guides/daily-life/best-internet-providers-netherlands-expats-2026/" target="_blank" rel="noopener nofollow sponsored" class="cta-affiliate">Compare internet deals on Independer →</a>
 
 ---
 

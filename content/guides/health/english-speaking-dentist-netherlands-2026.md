@@ -203,7 +203,7 @@ A more extensive package at EUR 20–35 per month (EUR 240–420 per year) might
 
 The honest answer: if your teeth are in good shape and you only need annual checkups, the cheapest packages barely pay for themselves. If you have older fillings that will eventually need replacement, or if you have been told you will need more significant dental work, fuller dental coverage is worth the premium.
 
-Use the comparison tool on Independer to check the current dental packages from all major Dutch insurers: <a href="https://www.awin1.com/cread.php?awinmid=8558&awinaffid=2776410&ued=https%3A%2F%2Fwww.independer.nl%2Fzorgverzekering" target="_blank" rel="noopener nofollow sponsored" class="cta-affiliate">Compare dental coverage on Independer →</a>
+Use the comparison tool on Independer to check the current dental packages from all major Dutch insurers: <a href="https://go.expatnetherlandshub.com/independer-zorg?ref=/guides/health/english-speaking-dentist-netherlands-2026/" target="_blank" rel="noopener nofollow sponsored" class="cta-affiliate">Compare dental coverage on Independer →</a>
 
 For a broader look at the best insurance options for expats, see the [best expat insurance in the Netherlands guide](/guides/health/best-expat-insurance-netherlands-2026/).
 

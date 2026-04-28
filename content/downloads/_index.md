@@ -528,7 +528,7 @@ Print this checklist
 <strong>Compare all Dutch health insurers side by side</strong>
 Independer is the Netherlands' largest comparison platform — free, takes 10 minutes, shows exact premiums for your age and preferred own risk.
 </div>
-<a href="https://www.awin1.com/cread.php?awinmid=8558&awinaffid=2776410&ued=https%3A%2F%2Fwww.independer.nl%2Fzorgverzekering" rel="noopener nofollow sponsored" target="_blank" class="aff-cta">Compare on Independer →</a>
+<a href="https://go.expatnetherlandshub.com/independer-zorg?ref=/downloads/" rel="noopener nofollow sponsored" target="_blank" class="aff-cta">Compare on Independer →</a>
 </div>
 </div>
 
