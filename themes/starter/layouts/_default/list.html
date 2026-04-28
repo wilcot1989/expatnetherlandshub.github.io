@@ -90,7 +90,7 @@
       {{ $svgFile := printf "static/images/categories/%s.svg" $cat }}
       {{ if (fileExists $svgFile) }}
       <a href="{{ .RelPermalink }}" tabindex="-1" aria-hidden="true">
-        <img src="{{ $svgPath }}" alt="{{ $pageTitle }}" class="card-thumb" loading="lazy">
+        <img loading="lazy" src="{{ $svgPath }}" alt="{{ $pageTitle }}" class="card-thumb" loading="lazy">
       </a>
       {{ else }}
       <div class="card-thumb card-thumb-placeholder"></div>
