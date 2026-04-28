@@ -382,3 +382,5 @@ One thing to be aware of: when the 30% ruling ends, your toetsingsinkomen jumps 
 The [30% ruling guide](/guides/finance/30-percent-ruling-netherlands-2026/) explains the ruling's broader tax implications in detail, and the [30% ruling calculator](/tools/30-percent-ruling-calculator/) lets you model the effect on your net income. Understanding how the ruling interacts with toeslagen is one of the more financially impactful pieces of knowledge an expat in the Netherlands can have — and it is one that most people learn far too late.
 
 <a href="/go/wise" class="cta-affiliate" rel="sponsored noopener">Try Wise</a>
+
+Also compare Dutch health insurance to maximise your zorgtoeslag benefit: <a href="/go/independer-zorg" class="cta-affiliate" rel="sponsored noopener">Compare Health Insurance at Independer</a>

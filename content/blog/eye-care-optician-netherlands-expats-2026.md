@@ -328,3 +328,5 @@ For expats who wear glasses or contact lenses, the Dutch optical market offers g
 **Insurance reimbursement for glasses.** Many Dutch aanvullende verzekering (supplementary insurance) packages include a biannual or annual glasses allowance. The amount varies by package — typically €50–150 per year or per two years. Some packages offer more for higher-cost prescription needs (strong prescriptions, varifocals). Check your policy before purchasing — the reimbursement process usually requires a receipt submitted through your insurer's portal.
 
 <a href="/go/nordvpn" class="cta-affiliate" rel="sponsored noopener">Try Nordvpn</a>
+
+And check if your Dutch health insurance covers glasses and eye care: <a href="/go/independer-zorg" class="cta-affiliate" rel="sponsored noopener">Compare Health Insurance at Independer</a>

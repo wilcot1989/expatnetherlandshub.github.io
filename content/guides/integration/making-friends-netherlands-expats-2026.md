@@ -245,3 +245,5 @@ A few resources:
 There is no shame in finding the Dutch social environment challenging. It is genuinely harder than many other countries. Acknowledging that, and actively using available resources, is more productive than waiting passively for things to improve.
 
 <a href="/go/preply" class="cta-affiliate" rel="sponsored noopener">Try Preply</a>
+
+Or start learning Dutch at your own pace — it genuinely helps: <a href="/go/mondly" class="cta-affiliate" rel="sponsored noopener">Learn Dutch with Mondly</a>

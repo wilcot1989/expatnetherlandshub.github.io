@@ -273,3 +273,5 @@ If you want to complement your LinkedIn strategy with direct interview preparati
 Good luck. The Dutch professional community on LinkedIn is open and active. Show up well and it will notice you.
 
 <a href="/go/preply" class="cta-affiliate" rel="sponsored noopener">Try Preply</a>
+
+Or improve your professional Dutch on the go: <a href="/go/mondly" class="cta-affiliate" rel="sponsored noopener">Learn Dutch with Mondly</a>

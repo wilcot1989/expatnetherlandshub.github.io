@@ -292,3 +292,5 @@ The Dutch food scene rewards exploration more than first impressions suggest. Th
 The Michelin stars are a nice bonus.
 
 <a href="/go/wise" class="cta-affiliate" rel="sponsored noopener">Try Wise</a>
+
+And keep your expat health and travel covered while you explore: <a href="/go/safetywing" class="cta-affiliate" rel="sponsored noopener">Get Expat Coverage with SafetyWing</a>

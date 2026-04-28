@@ -433,3 +433,5 @@ If you are just starting your journey in the Netherlands, the [complete guide to
 *Sarah van den Berg is an expat coach and relocation specialist. Half Dutch, half British, living in the Netherlands for over 10 years. She helps expats with life admin, integration, and long-term planning in the Netherlands.*
 
 <a href="/go/preply" class="cta-affiliate" rel="sponsored noopener">Try Preply</a>
+
+Or build your Dutch language skills with daily practice: <a href="/go/mondly" class="cta-affiliate" rel="sponsored noopener">Learn Dutch with Mondly</a>

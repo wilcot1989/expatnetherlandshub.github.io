@@ -304,3 +304,5 @@ Check whether your inboedelverzekering (contents insurance) covers a subletting 
 Give your subtenant a clear written notice schedule. Under Dutch law, your subtenant has protection rights — you cannot simply ask them to leave on short notice if the agreement does not specify an end date. Fixed-duration agreements are safer for this reason. For stays under 2 years, a fixed-term contract with a clear end date is the standard approach. When the sublet ends, do a documented check-out together — photograph the property, note any changes from the check-in condition report, and settle the deposit formally in writing. Keeping the process documented at every stage protects both parties and avoids the ambiguity that leads to Huurcommissie disputes after the fact.
 
 <a href="/go/wise" class="cta-affiliate" rel="sponsored noopener">Try Wise</a>
+
+And compare energy contracts for your Dutch home: <a href="/go/independer-energie" class="cta-affiliate" rel="sponsored noopener">Compare Energy Plans at Independer</a>

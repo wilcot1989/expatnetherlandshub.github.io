@@ -287,3 +287,5 @@ The [Dutch employment contract guide](/guides/work/dutch-employment-contract-exp
 - [Check Your Salary: Is Your Offer Fair?](/tools/salary-checker/)
 
 <a href="/go/preply" class="cta-affiliate" rel="sponsored noopener">Try Preply</a>
+
+Or boost your Dutch language skills before the interview: <a href="/go/mondly" class="cta-affiliate" rel="sponsored noopener">Learn Dutch with Mondly</a>

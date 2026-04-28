@@ -353,3 +353,5 @@ Give Dutch summer a real chance. Buy the fan before June, learn the bouwvak date
 And check Buienradar before you leave the house.
 
 <a href="/go/nordvpn" class="cta-affiliate" rel="sponsored noopener">Try Nordvpn</a>
+
+Stay covered for travel and healthcare during your Dutch summer adventures: <a href="/go/safetywing" class="cta-affiliate" rel="sponsored noopener">Get Expat Coverage with SafetyWing</a>

@@ -247,6 +247,8 @@ Estate planning does not live in isolation. A decision about how to hold investm
 
 <a href="/go/wise" class="cta-affiliate" rel="sponsored noopener">Try Wise</a>
 
+Protect your family's finances with comprehensive expat coverage: <a href="/go/safetywing" class="cta-affiliate" rel="sponsored noopener">Get Expat Coverage with SafetyWing</a>
+
 ## Related Guides
 
 - [Dutch Tax System Explained for Expats 2026](/guides/finance/dutch-tax-system-expats-guide-2026/)
