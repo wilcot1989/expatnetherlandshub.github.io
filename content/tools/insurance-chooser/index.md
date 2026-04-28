@@ -706,7 +706,7 @@ coverage: [
 'Family members included'
 ],
 why: 'The most affordable option from one of the largest Dutch insurers — solid coverage at a minimal cost.',
-cta: 'https://go.expatnetherlandshub.com/independer-zorg?ref=/tools/insurance-chooser/index/
+cta: 'https://go.expatnetherlandshub.com/independer-zorg?ref=/tools/insurance-chooser/index/'
 },
 {
 id: 'interpolis-liability',
@@ -722,7 +722,7 @@ coverage: [
 'Optional extras available'
 ],
 why: 'Double the coverage limit of budget options for barely any extra cost — the smart choice for peace of mind.',
-cta: 'https://go.expatnetherlandshub.com/independer-zorg?ref=/tools/insurance-chooser/index/
+cta: 'https://go.expatnetherlandshub.com/independer-zorg?ref=/tools/insurance-chooser/index/'
 }
 ]
 },
@@ -745,7 +745,7 @@ coverage: [
 'Can add bicycle coverage'
 ],
 why: 'Solid coverage with a strong digital claims process and competitive pricing for standard apartments.',
-cta: 'https://go.expatnetherlandshub.com/independer-zorg?ref=/tools/insurance-chooser/index/
+cta: 'https://go.expatnetherlandshub.com/independer-zorg?ref=/tools/insurance-chooser/index/'
 },
 {
 id: 'allianz-contents',
@@ -761,7 +761,7 @@ coverage: [
 'International claims support'
 ],
 why: 'Replacement value coverage means you receive the cost of a new item, not its depreciated value — essential for electronics.',
-cta: 'https://go.expatnetherlandshub.com/independer-zorg?ref=/tools/insurance-chooser/index/
+cta: 'https://go.expatnetherlandshub.com/independer-zorg?ref=/tools/insurance-chooser/index/'
 }
 ]
 },
@@ -784,7 +784,7 @@ coverage: [
 'Coverage in 185+ countries'
 ],
 why: 'Flexible month-to-month coverage ideal for digital nomads or expats who travel frequently between countries.',
-cta: 'https://go.expatnetherlandshub.com/independer-zorg?ref=/tools/insurance-chooser/index/
+cta: 'https://go.expatnetherlandshub.com/independer-zorg?ref=/tools/insurance-chooser/index/'
 },
 {
 id: 'cigna-travel',
@@ -800,7 +800,7 @@ coverage: [
 'Mental health support included'
 ],
 why: 'Industry-leading expat travel insurance with full benefits and a dedicated multilingual support team.',
-cta: 'https://go.expatnetherlandshub.com/independer-zorg?ref=/tools/insurance-chooser/index/
+cta: 'https://go.expatnetherlandshub.com/independer-zorg?ref=/tools/insurance-chooser/index/'
 }
 ]
 },
@@ -823,7 +823,7 @@ coverage: [
 'Up to €25,000 legal costs covered'
 ],
 why: 'Solid basic legal coverage from a trusted Dutch insurer — covers the most common expat dispute scenarios.',
-cta: 'https://go.expatnetherlandshub.com/independer-zorg?ref=/tools/insurance-chooser/index/
+cta: 'https://go.expatnetherlandshub.com/independer-zorg?ref=/tools/insurance-chooser/index/'
 },
 {
 id: 'das-legal',
@@ -839,7 +839,7 @@ coverage: [
 'English-speaking legal advisors available'
 ],
 why: 'The market leader in Dutch legal insurance with a dedicated in-house team — especially valuable for expats dealing with Dutch bureaucracy.',
-cta: 'https://go.expatnetherlandshub.com/independer-zorg?ref=/tools/insurance-chooser/index/
+cta: 'https://go.expatnetherlandshub.com/independer-zorg?ref=/tools/insurance-chooser/index/'
 }
 ]
 },
@@ -862,7 +862,7 @@ coverage: [
 'Coverage in 185+ countries'
 ],
 why: 'The most affordable international health option — ideal as a gap measure while awaiting Dutch zorgverzekering.',
-cta: 'https://go.expatnetherlandshub.com/independer-zorg?ref=/tools/insurance-chooser/index/
+cta: 'https://go.expatnetherlandshub.com/independer-zorg?ref=/tools/insurance-chooser/index/'
 },
 {
 id: 'allianzcare-health',
@@ -878,7 +878,7 @@ coverage: [
 'Maternity coverage available'
 ],
 why: 'Excellent Dutch hospital network and full benefits make this the top pick for expat families.',
-cta: 'https://go.expatnetherlandshub.com/independer-zorg?ref=/tools/insurance-chooser/index/
+cta: 'https://go.expatnetherlandshub.com/independer-zorg?ref=/tools/insurance-chooser/index/'
 }
 ]
 },
@@ -901,7 +901,7 @@ coverage: [
 'Both accident and illness covered'
 ],
 why: 'Flexible and well-regarded policy for general ZZP\u2019ers with customisable waiting periods to manage premium costs.',
-cta: 'https://go.expatnetherlandshub.com/independer-zorg?ref=/tools/insurance-chooser/index/
+cta: 'https://go.expatnetherlandshub.com/independer-zorg?ref=/tools/insurance-chooser/index/'
 },
 {
 id: 'movir-aov',
@@ -917,7 +917,7 @@ coverage: [
 'Premium waived during claims'
 ],
 why: 'The preferred AOV provider for medical professionals and specialists who need accurate occupational disability definitions.',
-cta: 'https://go.expatnetherlandshub.com/independer-zorg?ref=/tools/insurance-chooser/index/
+cta: 'https://go.expatnetherlandshub.com/independer-zorg?ref=/tools/insurance-chooser/index/'
 }
 ]
 }
