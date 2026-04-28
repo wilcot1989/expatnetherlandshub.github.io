@@ -36,6 +36,8 @@ This guide explains exactly how Dutch unemployment benefits work for expats: who
 
 ---
 
+
+💡 *Looking for a complete banking comparison? Read [Best banking for expats in the Netherlands 2026](/blog/best-banking-expats-netherlands-2026/) — covers ABN, ING, Bunq, Wise, Revolut & 5 others by expat use case.*
 ## What Is WW (Werkloosheidswet)?
 
 WW stands for Werkloosheidswet — the Dutch Unemployment Insurance Act. It is a social insurance scheme funded by premiums paid by both employers and employees during employment. When you work legally in the Netherlands, you automatically build up WW entitlement through these contributions.

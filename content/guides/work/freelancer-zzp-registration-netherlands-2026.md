@@ -42,6 +42,8 @@ This guide covers all of it, in the order you actually need it.
 
 ---
 
+
+💡 *Looking for a complete banking comparison? Read [Best banking for expats in the Netherlands 2026](/blog/best-banking-expats-netherlands-2026/) — covers ABN, ING, Bunq, Wise, Revolut & 5 others by expat use case.*
 ## What Is a ZZP'er?
 
 ZZP stands for *zelfstandige zonder personeel* — self-employed without employees. It is the Dutch term for a sole-trader freelancer: someone who runs their own business, invoices clients directly, and works without taking on staff.

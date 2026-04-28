@@ -37,6 +37,8 @@ Here is everything you need to know.
 
 ---
 
+
+💡 *Looking for a complete banking comparison? Read [Best banking for expats in the Netherlands 2026](/blog/best-banking-expats-netherlands-2026/) — covers ABN, ING, Bunq, Wise, Revolut & 5 others by expat use case.*
 ## Traktatie: Bringing Your Own Cake to Work
 
 Let us start with the one that shocks every new expat: **on your birthday, you bring cake to the office. Not your colleagues bringing cake for you — you for them.**

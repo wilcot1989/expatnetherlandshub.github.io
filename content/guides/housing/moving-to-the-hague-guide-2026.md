@@ -40,6 +40,8 @@ If I had to recommend one Dutch city for expat families, it would be The Hague. 
 
 New to the Netherlands? Start with our [complete moving guide](/guides/legal/complete-guide-moving-to-netherlands-2026/) and set up your [DigiD](/guides/legal/digid-guide-expats-2026/).
 
+
+💡 *Looking for a complete banking comparison? Read [Best banking for expats in the Netherlands 2026](/blog/best-banking-expats-netherlands-2026/) — covers ABN, ING, Bunq, Wise, Revolut & 5 others by expat use case.*
 ## Why Expats Love The Hague
 
 ![The Hague city view](/images/cities/the-hague.webp)

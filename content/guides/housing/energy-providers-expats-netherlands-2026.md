@@ -40,6 +40,8 @@ I accidentally left my energy contract on the default provider for six months af
 
 New to the Netherlands? Start with our [complete expat guide](/guides/legal/complete-guide-moving-to-netherlands-2026/).
 
+
+💡 *Looking for a complete banking comparison? Read [Best banking for expats in the Netherlands 2026](/blog/best-banking-expats-netherlands-2026/) — covers ABN, ING, Bunq, Wise, Revolut & 5 others by expat use case.*
 ## How the Dutch Energy Market Works
 
 ### Key Concepts

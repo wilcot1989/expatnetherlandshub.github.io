@@ -41,6 +41,8 @@ This guide covers what you need to know as an international PhD candidate or ear
 
 ---
 
+
+💡 *Looking for a complete banking comparison? Read [Best banking for expats in the Netherlands 2026](/blog/best-banking-expats-netherlands-2026/) — covers ABN, ING, Bunq, Wise, Revolut & 5 others by expat use case.*
 ## The Employment Model: Why It Matters
 
 In most countries, PhD candidates are students who may receive a stipend. In the Netherlands, you are an **employee (promovendus)**. Your university is your employer. You:

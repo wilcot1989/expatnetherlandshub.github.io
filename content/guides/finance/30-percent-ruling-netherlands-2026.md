@@ -47,6 +47,8 @@ I still remember the look on my face when I first saw my Dutch payslip and reali
 
 > **Want to skip straight to the numbers?** Use my [30% ruling calculator](/tools/30-percent-ruling-calculator/) to see exactly how much you could save based on your gross salary and when your ruling starts. It accounts for the 2024 step-down model, so the figure you get is realistic -- not the old flat-30% estimate that is now outdated for most new applicants.
 
+
+💡 *Looking for a complete banking comparison? Read [Best banking for expats in the Netherlands 2026](/blog/best-banking-expats-netherlands-2026/) — covers ABN, ING, Bunq, Wise, Revolut & 5 others by expat use case.*
 ## What is the 30% Ruling?
 
 The 30% ruling (30%-regeling) allows qualifying employers to pay up to 30% of an employee's gross salary as a tax-free allowance. This allowance is intended to cover the "extraterritorial costs" of living abroad, such as:

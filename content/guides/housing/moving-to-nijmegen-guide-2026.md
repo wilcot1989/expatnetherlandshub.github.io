@@ -45,6 +45,8 @@ I have placed a number of clients in Nijmegen over the years — medical researc
 
 Before you dive in: use our [housing budget checker](/tools/housing-budget-checker/) to understand what you can actually afford in Nijmegen, and read the [finding housing in the Netherlands guide](/guides/housing/finding-housing-netherlands-expats-2026/) for the full rental strategy.
 
+
+💡 *Looking for a complete banking comparison? Read [Best banking for expats in the Netherlands 2026](/blog/best-banking-expats-netherlands-2026/) — covers ABN, ING, Bunq, Wise, Revolut & 5 others by expat use case.*
 ## Why Nijmegen?
 
 A few facts worth knowing before we go into the detail.

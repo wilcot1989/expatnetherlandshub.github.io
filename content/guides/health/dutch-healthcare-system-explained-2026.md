@@ -51,6 +51,8 @@ If you have not yet sorted your health insurance, start with my [complete Dutch 
 
 ---
 
+
+💡 *Looking for a complete banking comparison? Read [Best banking for expats in the Netherlands 2026](/blog/best-banking-expats-netherlands-2026/) — covers ABN, ING, Bunq, Wise, Revolut & 5 others by expat use case.*
 ## The huisarts: the entire system starts here
 
 The huisarts — the Dutch GP — is not simply your first point of contact with healthcare. The huisarts is the gatekeeper to the entire system. In the Netherlands, almost nothing happens in healthcare without going through your registered GP first.

@@ -43,6 +43,8 @@ If you are working here and want to understand how time off actually works — f
 
 ---
 
+
+💡 *Looking for a complete banking comparison? Read [Best banking for expats in the Netherlands 2026](/blog/best-banking-expats-netherlands-2026/) — covers ABN, ING, Bunq, Wise, Revolut & 5 others by expat use case.*
 ## All Dutch Public Holidays in 2026
 
 The Netherlands has eleven official public holidays (officiële feestdagen) in 2026. Here they are with their dates and a short note on what they mean in practice.

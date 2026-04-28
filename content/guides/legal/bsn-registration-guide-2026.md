@@ -45,6 +45,8 @@ If you are still in the planning phase, read my [moving to the Netherlands](/gui
 
 ---
 
+
+💡 *Looking for a complete banking comparison? Read [Best banking for expats in the Netherlands 2026](/blog/best-banking-expats-netherlands-2026/) — covers ABN, ING, Bunq, Wise, Revolut & 5 others by expat use case.*
 ## What Is a BSN — and Why Does Everything Require It?
 
 The BSN (burgerservicenummer, or citizen service number) is a unique 9-digit personal identification number assigned by the Dutch government. Every person registered in the Netherlands has one. It is used across virtually every public and private system in the country.

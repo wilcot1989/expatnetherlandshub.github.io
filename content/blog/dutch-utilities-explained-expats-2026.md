@@ -36,6 +36,8 @@ Ten years later, the Dutch utility system feels completely familiar. But it took
 
 ---
 
+
+💡 *Looking for a complete banking comparison? Read [Best banking for expats in the Netherlands 2026](/blog/best-banking-expats-netherlands-2026/) — covers ABN, ING, Bunq, Wise, Revolut & 5 others by expat use case.*
 ## Overview: How Dutch Utilities Work
 
 The Dutch utility system has one important structural quirk that confuses many expats: **your energy supplier (leverancier) and your grid operator (netbeheerder) are different organisations, and you pay both separately**.

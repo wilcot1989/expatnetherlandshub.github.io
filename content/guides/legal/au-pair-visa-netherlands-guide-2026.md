@@ -41,6 +41,8 @@ I have put together this guide to walk you through the au pair visa in detail: w
 
 ---
 
+
+💡 *Looking for a complete banking comparison? Read [Best banking for expats in the Netherlands 2026](/blog/best-banking-expats-netherlands-2026/) — covers ABN, ING, Bunq, Wise, Revolut & 5 others by expat use case.*
 ## What Is the Au Pair Programme in the Netherlands?
 
 The au pair programme is classed as a **cultural exchange arrangement**, not a work visa. The Dutch government recognises it as a way for young adults from abroad to experience Dutch family life and culture, while helping a Dutch household with childcare and light domestic tasks.

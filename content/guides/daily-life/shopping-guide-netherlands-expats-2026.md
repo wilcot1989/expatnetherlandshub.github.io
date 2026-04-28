@@ -35,6 +35,8 @@ This guide covers what you actually need to know: where to buy things, how to pa
 
 ---
 
+
+💡 *Looking for a complete banking comparison? Read [Best banking for expats in the Netherlands 2026](/blog/best-banking-expats-netherlands-2026/) — covers ABN, ING, Bunq, Wise, Revolut & 5 others by expat use case.*
 ## HEMA: The Dutch Institution You Will Come to Love
 
 [HEMA](https://www.hema.nl/) is the Dutch equivalent of Marks & Spencer crossed with Muji — a general merchandise retailer that does a specific range of things well and is unmistakably, defiantly Dutch.

@@ -43,6 +43,8 @@ This guide covers the practical side: finding English-speaking care, the vocabul
 
 ---
 
+
+💡 *Looking for a complete banking comparison? Read [Best banking for expats in the Netherlands 2026](/blog/best-banking-expats-netherlands-2026/) — covers ABN, ING, Bunq, Wise, Revolut & 5 others by expat use case.*
 ## How the Dutch Healthcare System Works (The Part That Matters for Expats)
 
 Before getting into language specifics, the structure matters because it affects who you can access. For the full picture, see the [Dutch healthcare system explained guide](/guides/health/dutch-healthcare-system-explained-2026/) and [what Dutch health insurance covers](/guides/health/what-dutch-health-insurance-covers-2026/). Here is the short version:

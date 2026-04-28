@@ -39,6 +39,8 @@ This guide covers what you actually need to know about eating out in the Netherl
 
 ---
 
+
+💡 *Looking for a complete banking comparison? Read [Best banking for expats in the Netherlands 2026](/blog/best-banking-expats-netherlands-2026/) — covers ABN, ING, Bunq, Wise, Revolut & 5 others by expat use case.*
 ## Dutch Restaurant Culture: The Rules You Need to Know
 
 ### The Kitchen Closes Early

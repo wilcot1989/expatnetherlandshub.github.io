@@ -34,6 +34,8 @@ If there is one thing I tell expat parents immediately, it is this: register for
 
 New to the Netherlands? Start with our [complete expat guide](/guides/legal/complete-guide-moving-to-netherlands-2026/) and set up your [DigiD](/guides/legal/digid-guide-expats-2026/) (needed for subsidy applications).
 
+
+💡 *Looking for a complete banking comparison? Read [Best banking for expats in the Netherlands 2026](/blog/best-banking-expats-netherlands-2026/) — covers ABN, ING, Bunq, Wise, Revolut & 5 others by expat use case.*
 ## Types of Childcare
 
 ### 1. Kinderdagverblijf (Daycare) — Ages 0-4

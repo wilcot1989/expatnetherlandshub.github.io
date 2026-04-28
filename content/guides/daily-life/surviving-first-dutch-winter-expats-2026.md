@@ -41,6 +41,8 @@ Ten years later, I actually like Dutch winter. Not all of it — the grey weeks 
 
 ---
 
+
+💡 *Looking for a complete banking comparison? Read [Best banking for expats in the Netherlands 2026](/blog/best-banking-expats-netherlands-2026/) — covers ABN, ING, Bunq, Wise, Revolut & 5 others by expat use case.*
 ## Month-by-Month: What to Actually Expect
 
 ### October: The Warning Signs

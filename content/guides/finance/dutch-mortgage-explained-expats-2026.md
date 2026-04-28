@@ -43,6 +43,8 @@ Before you read on, check your overall financial picture with our [housing budge
 
 ---
 
+
+💡 *Looking for a complete banking comparison? Read [Best banking for expats in the Netherlands 2026](/blog/best-banking-expats-netherlands-2026/) — covers ABN, ING, Bunq, Wise, Revolut & 5 others by expat use case.*
 ## How Dutch Mortgages Work: The Basics
 
 A Dutch mortgage (hypotheek) is a secured loan on a property, with the home itself as collateral. You borrow from a lender, repay monthly over a set term (almost always 30 years), and the lender holds a right of mortgage (hypotheekrecht) over the property until you have paid it off or sold.

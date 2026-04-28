@@ -43,6 +43,8 @@ If you are looking for housing in the Netherlands as an expat, there is a good c
 
 ---
 
+
+💡 *Looking for a complete banking comparison? Read [Best banking for expats in the Netherlands 2026](/blog/best-banking-expats-netherlands-2026/) — covers ABN, ING, Bunq, Wise, Revolut & 5 others by expat use case.*
 ## What Housing Discrimination Looks Like in Practice
 
 Most discrimination in the Dutch rental market does not arrive wearing a sign. It comes in the form of vague excuses, impossible requirements, and listing language that is technically ambiguous but practically exclusionary. Here is what I see most often among the clients I work with.

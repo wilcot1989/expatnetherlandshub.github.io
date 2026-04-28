@@ -31,6 +31,8 @@ I've been investing in the Netherlands for several years now, and the Meesman vs
 
 This comparison is aimed at expats who want to build an investment portfolio in the Netherlands — especially those focused on low-cost, long-term index investing rather than active trading.
 
+
+💡 *Looking for a complete banking comparison? Read [Best banking for expats in the Netherlands 2026](/blog/best-banking-expats-netherlands-2026/) — covers ABN, ING, Bunq, Wise, Revolut & 5 others by expat use case.*
 ## What Each Platform Is
 
 ### Meesman

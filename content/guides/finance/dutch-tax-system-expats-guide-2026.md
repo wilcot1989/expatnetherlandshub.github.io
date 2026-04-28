@@ -50,6 +50,8 @@ faq:
 The Dutch tax system is unlike anything I had seen in the UK. Three separate "boxes" for different types of income? A tax on your savings even if you did not earn anything from them? It took me years and a very patient tax advisor to fully understand it. Now I explain it to my expat clients regularly, and I always start the same way: once you understand the three boxes, everything else clicks. Here is how it all works in 2026.
 
 
+
+💡 *Looking for a complete banking comparison? Read [Best banking for expats in the Netherlands 2026](/blog/best-banking-expats-netherlands-2026/) — covers ABN, ING, Bunq, Wise, Revolut & 5 others by expat use case.*
 ## How the Dutch Tax System Works: The Three-Box Structure
 
 The Dutch income tax system is built around three "boxes," each covering a different type of income with its own rules and rates. Understanding these boxes is the key to understanding your tax obligations.

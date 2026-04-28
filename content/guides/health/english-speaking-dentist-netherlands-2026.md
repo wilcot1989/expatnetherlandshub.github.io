@@ -45,6 +45,8 @@ Before we start: dental care for adults is not covered by the standard Dutch hea
 
 ---
 
+
+💡 *Looking for a complete banking comparison? Read [Best banking for expats in the Netherlands 2026](/blog/best-banking-expats-netherlands-2026/) — covers ABN, ING, Bunq, Wise, Revolut & 5 others by expat use case.*
 ## Why Dental Care Is Not Covered for Adults
 
 The Dutch basisverzekering (basic health insurance) covers most medically necessary care — GP visits, hospital treatment, mental health care, and more. But dental care for adults was moved out of the basic package in 1995. The reasoning at the time was that dental health had improved significantly in the Netherlands, and adults were deemed able to pay for routine dental care themselves.

@@ -46,6 +46,8 @@ When I registered as a ZZP at the KvK, the whole process took less than an hour.
 
 New to the Netherlands? Start with our [complete expat guide](/guides/legal/complete-guide-moving-to-netherlands-2026/) and set up your [DigiD](/guides/legal/digid-guide-expats-2026/).
 
+
+💡 *Looking for a complete banking comparison? Read [Best banking for expats in the Netherlands 2026](/blog/best-banking-expats-netherlands-2026/) — covers ABN, ING, Bunq, Wise, Revolut & 5 others by expat use case.*
 ## Step 1: Check Your Right to Freelance
 
 ### EU/EEA Citizens

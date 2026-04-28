@@ -43,6 +43,8 @@ This guide covers everything you need to know. For a quick overview of the city 
 
 Before you start searching for apartments, use our [housing budget checker](/tools/housing-budget-checker/) to understand what your budget gets you in Tilburg compared to other Dutch cities, and read the [finding housing in the Netherlands guide](/guides/housing/finding-housing-netherlands-expats-2026/) for the full rental strategy.
 
+
+💡 *Looking for a complete banking comparison? Read [Best banking for expats in the Netherlands 2026](/blog/best-banking-expats-netherlands-2026/) — covers ABN, ING, Bunq, Wise, Revolut & 5 others by expat use case.*
 ## Why Tilburg?
 
 Let me put the numbers on the table first.

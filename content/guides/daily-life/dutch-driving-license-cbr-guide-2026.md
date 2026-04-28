@@ -44,6 +44,8 @@ If you are not sure whether your country has an exchange agreement, read my [exc
 
 ---
 
+
+💡 *Looking for a complete banking comparison? Read [Best banking for expats in the Netherlands 2026](/blog/best-banking-expats-netherlands-2026/) — covers ABN, ING, Bunq, Wise, Revolut & 5 others by expat use case.*
 ## Who Must Get a Dutch Licence from Scratch?
 
 Let me be clear about who this article is for, because it is a question I get wrong answers to constantly — including on expat forums.

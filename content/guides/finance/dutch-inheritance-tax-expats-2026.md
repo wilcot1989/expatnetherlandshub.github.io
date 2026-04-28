@@ -35,6 +35,8 @@ When I sat down with a couple who had just relocated from the US to Amsterdam, o
 If you have moved to the Netherlands, are planning to, or even if you have already left and returned home, this guide explains exactly how Dutch inheritance tax works, who pays it, what the rates and exemptions are in 2026, and what you should be thinking about before it becomes relevant.
 
 
+
+💡 *Looking for a complete banking comparison? Read [Best banking for expats in the Netherlands 2026](/blog/best-banking-expats-netherlands-2026/) — covers ABN, ING, Bunq, Wise, Revolut & 5 others by expat use case.*
 ## What Is Erfbelasting?
 
 Erfbelasting is the Dutch word for inheritance tax. It is a tax levied on the value of assets that heirs receive from an estate. The tax is paid by the heirs themselves, not the estate — a distinction that matters practically, because each heir pays based on their own relationship to the deceased and the amount they personally receive.

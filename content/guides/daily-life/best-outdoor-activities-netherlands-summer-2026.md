@@ -37,6 +37,8 @@ Here is my honest guide to the best outdoor activities for summer 2026.
 
 ---
 
+
+💡 *Looking for a complete banking comparison? Read [Best banking for expats in the Netherlands 2026](/blog/best-banking-expats-netherlands-2026/) — covers ABN, ING, Bunq, Wise, Revolut & 5 others by expat use case.*
 ## Cycling: The Netherlands' Greatest Strength
 
 Cycling is not just an activity here — it is infrastructure. The Dutch cycling network (knooppuntennetwerk) consists of over 35,000 km of marked routes accessible to anyone with a basic bike. Every junction is numbered (knooppunt), and you can plan a route by stringing together numbers from any starting point.

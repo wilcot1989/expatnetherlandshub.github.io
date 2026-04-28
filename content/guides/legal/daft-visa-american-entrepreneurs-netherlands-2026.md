@@ -45,6 +45,8 @@ This guide covers the full process, the real costs, what you can and cannot do o
 
 ---
 
+
+💡 *Looking for a complete banking comparison? Read [Best banking for expats in the Netherlands 2026](/blog/best-banking-expats-netherlands-2026/) — covers ABN, ING, Bunq, Wise, Revolut & 5 others by expat use case.*
 ## What Is the Dutch-American Friendship Treaty?
 
 The Dutch-American Friendship Treaty (DAFT) is a bilateral trade and investment treaty between the United States and the Netherlands, signed in 1956. Among other provisions, it allows US citizens to obtain a Dutch residence permit for the purpose of self-employment.

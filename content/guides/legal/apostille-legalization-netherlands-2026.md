@@ -37,6 +37,8 @@ We sorted it out — a combination of express services and a very patient HR dep
 
 ---
 
+
+💡 *Looking for a complete banking comparison? Read [Best banking for expats in the Netherlands 2026](/blog/best-banking-expats-netherlands-2026/) — covers ABN, ING, Bunq, Wise, Revolut & 5 others by expat use case.*
 ## What Is an Apostille?
 
 An apostille (pronounced "ah-po-STEEL") is a certificate that authenticates the origin of a public document so that it can be recognised in another country. It does not verify the content of the document — it confirms that the signature, seal, or stamp on the document is genuine.

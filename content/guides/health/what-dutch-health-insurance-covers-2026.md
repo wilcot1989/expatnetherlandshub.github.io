@@ -57,6 +57,8 @@ If you want a broader overview of the Dutch health system itself, my [complete D
 
 ---
 
+
+💡 *Looking for a complete banking comparison? Read [Best banking for expats in the Netherlands 2026](/blog/best-banking-expats-netherlands-2026/) — covers ABN, ING, Bunq, Wise, Revolut & 5 others by expat use case.*
 ## The basispakket: what everyone gets
 
 The basisverzekering (basic health insurance) in the Netherlands is defined by the government, not by individual insurers. Every approved insurer must offer the same basispakket — the core package of covered treatments. What differs between insurers is the premium cost, the quality of their customer service, how quickly they process claims, and which healthcare providers are in their contracted network.

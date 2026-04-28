@@ -44,6 +44,8 @@ Before any of this is relevant, you need to be registered in the Netherlands. Yo
 
 ---
 
+
+💡 *Looking for a complete banking comparison? Read [Best banking for expats in the Netherlands 2026](/blog/best-banking-expats-netherlands-2026/) — covers ABN, ING, Bunq, Wise, Revolut & 5 others by expat use case.*
 ## How the Dutch Pharmacy System Works: An Overview
 
 The Dutch apotheek is a registered pharmacy staffed by qualified pharmacists (apothekers) and pharmacy assistants (apotheekassistenten). Unlike a drogisterij (drugstore), your apotheek:

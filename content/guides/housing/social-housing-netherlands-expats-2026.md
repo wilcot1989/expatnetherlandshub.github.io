@@ -47,6 +47,8 @@ For broader housing strategy, read [finding housing in the Netherlands as an exp
 
 ---
 
+
+💡 *Looking for a complete banking comparison? Read [Best banking for expats in the Netherlands 2026](/blog/best-banking-expats-netherlands-2026/) — covers ABN, ING, Bunq, Wise, Revolut & 5 others by expat use case.*
 ## How Dutch Social Housing Works
 
 The Netherlands has one of the largest social housing sectors in the world by percentage. Around 33% of all Dutch housing — approximately 2.4 million properties — is managed by non-profit housing corporations (woningcorporaties). These organisations own and manage housing that must, by law, primarily be allocated to people below a certain income threshold.

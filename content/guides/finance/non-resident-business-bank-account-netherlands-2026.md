@@ -38,6 +38,8 @@ faq:
     a: "For many small BVs with international operations, yes. Wise Business gives you a Dutch IBAN, multi-currency accounts, batch payments, and accounting integrations. The gap is that Dutch payment systems like Tikkies and some iDEAL integrations work better with a traditional Dutch bank. If your clients are primarily international, Wise is often sufficient. If you deal heavily with Dutch consumers or suppliers, consider pairing it with a bunq Business account."
 ---
 
+
+💡 *Looking for a complete banking comparison? Read [Best banking for expats in the Netherlands 2026](/blog/best-banking-expats-netherlands-2026/) — covers ABN, ING, Bunq, Wise, Revolut & 5 others by expat use case.*
 ## The Phone Call I Get More Than Any Other
 
 Every few weeks, someone messages me with a version of the same situation: they have decided to start a Dutch company. They have done the research, maybe even spoken to a Dutch notary. They are based in Germany, the UK, the US, or somewhere in Southeast Asia. And then they hit the same wall.

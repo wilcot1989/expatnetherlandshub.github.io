@@ -42,6 +42,8 @@ If you just want the numbers fast, [try our 30% ruling calculator](/tools/30-per
 
 ---
 
+
+💡 *Looking for a complete banking comparison? Read [Best banking for expats in the Netherlands 2026](/blog/best-banking-expats-netherlands-2026/) — covers ABN, ING, Bunq, Wise, Revolut & 5 others by expat use case.*
 ## What Is the 30% Ruling? (Short Version)
 
 The 30% ruling is a Dutch tax benefit for highly skilled migrants recruited from abroad. It allows your employer to pay up to 30% of your agreed gross salary as a tax-free allowance, on top of your regular salary — officially as compensation for the extra costs of relocating and living in the Netherlands.

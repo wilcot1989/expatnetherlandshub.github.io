@@ -45,6 +45,8 @@ I have worked with dozens of British expats navigating post-Brexit relocation to
 
 ---
 
+
+💡 *Looking for a complete banking comparison? Read [Best banking for expats in the Netherlands 2026](/blog/best-banking-expats-netherlands-2026/) — covers ABN, ING, Bunq, Wise, Revolut & 5 others by expat use case.*
 ## The Immigration Reality: What Changed with Brexit
 
 The core change: British citizens are now treated as third-country nationals under Dutch and EU immigration law. Before 2021, you had the right of free movement as an EU citizen. Now you need a residence permit for stays longer than 90 days, and you need to meet specific criteria based on your reason for moving.

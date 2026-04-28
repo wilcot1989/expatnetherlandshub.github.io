@@ -40,6 +40,8 @@ I did not think about my Dutch pension for the first five years I lived here. Bi
 
 New to Dutch finances? Start with our [Dutch tax system guide](/guides/finance/dutch-tax-system-expats-guide-2026/).
 
+
+💡 *Looking for a complete banking comparison? Read [Best banking for expats in the Netherlands 2026](/blog/best-banking-expats-netherlands-2026/) — covers ABN, ING, Bunq, Wise, Revolut & 5 others by expat use case.*
 ## The Three Pillars
 
 | Pillar | What | Who Pays | How Much |

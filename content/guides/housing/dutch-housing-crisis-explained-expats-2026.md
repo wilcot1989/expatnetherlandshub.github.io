@@ -43,6 +43,8 @@ This guide explains why that is, what the structural causes are, and what it mea
 
 For the practical strategy of actually finding a property, the [finding housing in the Netherlands guide](/guides/housing/finding-housing-netherlands-expats-2026/) covers the tactics in detail. This guide is about the context that explains why those tactics are necessary.
 
+
+💡 *Looking for a complete banking comparison? Read [Best banking for expats in the Netherlands 2026](/blog/best-banking-expats-netherlands-2026/) — covers ABN, ING, Bunq, Wise, Revolut & 5 others by expat use case.*
 ## The Scale of the Problem
 
 The Netherlands has a **housing shortage** of approximately 400,000 homes as of 2026 — estimates vary, but most housing economists put the gap between supply and demand in this range. In a country of 18 million people, that represents a structural deficit of around 5-6% of total housing stock.

@@ -40,6 +40,8 @@ My first Dutch tax return took me an entire weekend and two panicked calls to a 
 
 For background on the Dutch tax system, read our [tax system overview](/guides/finance/dutch-tax-system-expats-guide-2026/).
 
+
+💡 *Looking for a complete banking comparison? Read [Best banking for expats in the Netherlands 2026](/blog/best-banking-expats-netherlands-2026/) — covers ABN, ING, Bunq, Wise, Revolut & 5 others by expat use case.*
 ## Key Dates 2026
 
 | Date | What |

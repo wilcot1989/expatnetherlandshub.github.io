@@ -43,6 +43,8 @@ This guide is everything I wish I had known when I started. I will compare every
 
 ---
 
+
+💡 *Looking for a complete banking comparison? Read [Best banking for expats in the Netherlands 2026](/blog/best-banking-expats-netherlands-2026/) — covers ABN, ING, Bunq, Wise, Revolut & 5 others by expat use case.*
 ## The Single Most Important Thing to Know
 
 Before comparing any services, you need to understand one thing: **the exchange rate markup is the hidden fee that nobody advertises, and it is almost always larger than the visible fee**.

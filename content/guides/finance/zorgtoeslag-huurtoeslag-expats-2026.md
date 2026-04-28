@@ -40,6 +40,8 @@ Zorgtoeslag (healthcare allowance) and huurtoeslag (rent allowance) are two of t
 
 ---
 
+
+💡 *Looking for a complete banking comparison? Read [Best banking for expats in the Netherlands 2026](/blog/best-banking-expats-netherlands-2026/) — covers ABN, ING, Bunq, Wise, Revolut & 5 others by expat use case.*
 ## What is Zorgtoeslag?
 
 Zorgtoeslag is a monthly contribution from the Dutch government towards the cost of your health insurance. In the Netherlands, everyone is required to have basic health insurance (basisverzekering). The monthly premium for this insurance runs to roughly EUR 150-175 per month in 2026, which is a significant expense — especially for lower and middle-income earners.

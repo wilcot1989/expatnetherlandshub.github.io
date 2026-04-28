@@ -35,6 +35,8 @@ Family reunification — bringing your partner, spouse, or children to join you 
 
 I've helped several expat friends manage this process, and I've seen the frustration caused by missing documents, income shortfalls, and unclear procedures. This guide is my attempt to give you a clear picture of what the process actually involves, what the requirements are, and how to avoid common mistakes.
 
+
+💡 *Looking for a complete banking comparison? Read [Best banking for expats in the Netherlands 2026](/blog/best-banking-expats-netherlands-2026/) — covers ABN, ING, Bunq, Wise, Revolut & 5 others by expat use case.*
 ## What is an MVV?
 
 MVV stands for **Machtiging tot Voorlopig Verblijf** — Provisional Residence Permit. It is a long-stay visa sticker (valid for 90 days) placed in the passport of the family member who wants to come to the Netherlands.

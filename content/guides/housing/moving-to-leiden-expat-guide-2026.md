@@ -39,6 +39,8 @@ This guide covers everything a relocating expat needs to know about moving to Le
 
 ---
 
+
+💡 *Looking for a complete banking comparison? Read [Best banking for expats in the Netherlands 2026](/blog/best-banking-expats-netherlands-2026/) — covers ABN, ING, Bunq, Wise, Revolut & 5 others by expat use case.*
 ## Why Leiden? The Case for the Netherlands' Oldest University City
 
 ![Leiden city view](/images/cities/leiden.webp)

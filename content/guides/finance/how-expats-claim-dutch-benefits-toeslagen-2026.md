@@ -43,6 +43,8 @@ You paid Dutch taxes. These allowances exist for Dutch taxpayers. This guide is 
 
 ---
 
+
+💡 *Looking for a complete banking comparison? Read [Best banking for expats in the Netherlands 2026](/blog/best-banking-expats-netherlands-2026/) — covers ABN, ING, Bunq, Wise, Revolut & 5 others by expat use case.*
 ## What Are Toeslagen?
 
 Toeslagen are income-dependent allowances paid by the Belastingdienst (Dutch tax authority). They exist to make essential costs — healthcare, housing, childcare, and raising children — affordable for lower and middle-income households.

@@ -45,6 +45,8 @@ This guide is that warning.
 
 ---
 
+
+💡 *Looking for a complete banking comparison? Read [Best banking for expats in the Netherlands 2026](/blog/best-banking-expats-netherlands-2026/) — covers ABN, ING, Bunq, Wise, Revolut & 5 others by expat use case.*
 ## Dutch Directness: It Is Not Rude, It Is Honest
 
 Let us start with the thing that shocks most expats first. Dutch people will tell you, to your face, without softening it:

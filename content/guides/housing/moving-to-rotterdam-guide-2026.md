@@ -42,6 +42,8 @@ Rotterdam is the Dutch city that surprises everyone. My clients often arrive exp
 For a broader overview of relocating to the Netherlands, read our [Complete Guide to Moving to the Netherlands 2026](/guides/legal/complete-guide-moving-to-netherlands-2026/).
 
 
+
+💡 *Looking for a complete banking comparison? Read [Best banking for expats in the Netherlands 2026](/blog/best-banking-expats-netherlands-2026/) — covers ABN, ING, Bunq, Wise, Revolut & 5 others by expat use case.*
 ## Why Choose Rotterdam?
 
 ![Rotterdam city view](/images/cities/rotterdam.webp)

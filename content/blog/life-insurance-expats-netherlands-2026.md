@@ -31,6 +31,8 @@ When I first arrived in the Netherlands, life insurance was not on my list of pr
 
 This guide covers what life insurance means in the Dutch context, who needs it as an expat, how much it costs, and how to find a policy that works for your situation.
 
+
+💡 *Looking for a complete banking comparison? Read [Best banking for expats in the Netherlands 2026](/blog/best-banking-expats-netherlands-2026/) — covers ABN, ING, Bunq, Wise, Revolut & 5 others by expat use case.*
 ## What is Life Insurance in the Netherlands?
 
 In the Netherlands, the most common form of life insurance is called **overlijdensrisicoverzekering** (OVR) — literally "death risk insurance." It is a term life insurance policy: you pay a monthly premium, and if you die during the policy term, the insurer pays a lump sum to your nominated beneficiaries.

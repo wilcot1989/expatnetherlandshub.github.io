@@ -37,6 +37,8 @@ That is the thing about Groningen that is hard to convey in lists and tables: it
 
 New to the Netherlands? Start with our [complete guide to finding housing as an expat](/guides/housing/finding-housing-netherlands-expats-2026/) and use the [housing budget checker](/tools/housing-budget-checker/) before you begin your search.
 
+
+💡 *Looking for a complete banking comparison? Read [Best banking for expats in the Netherlands 2026](/blog/best-banking-expats-netherlands-2026/) — covers ABN, ING, Bunq, Wise, Revolut & 5 others by expat use case.*
 ## Why Groningen?
 
 ![Groningen city view](/images/cities/groningen.webp)

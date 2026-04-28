@@ -41,6 +41,8 @@ This guide is everything I wish someone had told me before I arrived — about w
 
 ---
 
+
+💡 *Looking for a complete banking comparison? Read [Best banking for expats in the Netherlands 2026](/blog/best-banking-expats-netherlands-2026/) — covers ABN, ING, Bunq, Wise, Revolut & 5 others by expat use case.*
 ## Why Making Friends Here Feels Hard
 
 Let me say this plainly: the Netherlands is not an unfriendly country. Dutch people are direct, generally helpful, and capable of warmth that can genuinely catch you off guard once you experience it. The difficulty is not unfriendliness. It is something structural.

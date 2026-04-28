@@ -40,6 +40,8 @@ When I first explained to a non-Dutch friend how the Dutch student finance syste
 
 ---
 
+
+💡 *Looking for a complete banking comparison? Read [Best banking for expats in the Netherlands 2026](/blog/best-banking-expats-netherlands-2026/) — covers ABN, ING, Bunq, Wise, Revolut & 5 others by expat use case.*
 ## What is DUO?
 
 DUO (Dienst Uitvoering Onderwijs) is the Dutch government agency responsible for student finance. It sits under the Ministry of Education, Culture and Science and handles:

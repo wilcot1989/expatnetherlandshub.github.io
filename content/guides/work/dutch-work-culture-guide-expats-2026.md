@@ -43,6 +43,8 @@ If you are [moving to the Netherlands](/guides/legal/complete-guide-moving-to-ne
 
 ---
 
+
+💡 *Looking for a complete banking comparison? Read [Best banking for expats in the Netherlands 2026](/blog/best-banking-expats-netherlands-2026/) — covers ABN, ING, Bunq, Wise, Revolut & 5 others by expat use case.*
 ## 1. Dutch Directness Is Real (and It Will Shock You)
 
 Let me get this one out of the way first, because nothing else prepares you for it.

@@ -42,6 +42,8 @@ Amsterdam is where I landed when I first moved to the Netherlands, and I have a 
 For a broader perspective on moving to the Netherlands as a whole, read our [Complete Guide to Moving to the Netherlands 2026](/guides/legal/complete-guide-moving-to-netherlands-2026/).
 
 
+
+💡 *Looking for a complete banking comparison? Read [Best banking for expats in the Netherlands 2026](/blog/best-banking-expats-netherlands-2026/) — covers ABN, ING, Bunq, Wise, Revolut & 5 others by expat use case.*
 ## Before You Move: Key Preparation
 
 ![Amsterdam city view](/images/cities/amsterdam.webp)

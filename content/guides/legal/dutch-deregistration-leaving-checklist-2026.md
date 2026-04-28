@@ -46,6 +46,8 @@ For a broader picture of everything involved in leaving the country, my [leaving
 
 ---
 
+
+💡 *Looking for a complete banking comparison? Read [Best banking for expats in the Netherlands 2026](/blog/best-banking-expats-netherlands-2026/) — covers ABN, ING, Bunq, Wise, Revolut & 5 others by expat use case.*
 ## What Is the BRP and Why Deregistration Matters
 
 The **BRP** (Basisregistratie Personen) is the Dutch population register. Every person legally resident in the Netherlands is registered in it with their gemeente (municipality). Your entry in the BRP is what connects your BSN to your address, your tax file, your health insurance entitlement, your benefit eligibility, and your pension accrual.

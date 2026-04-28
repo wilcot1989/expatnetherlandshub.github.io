@@ -37,6 +37,8 @@ I resisted getting a car in the Netherlands for years -- the cycling is great, t
 
 New to the Netherlands? Start with our [complete expat guide](/guides/legal/complete-guide-moving-to-netherlands-2026/).
 
+
+💡 *Looking for a complete banking comparison? Read [Best banking for expats in the Netherlands 2026](/blog/best-banking-expats-netherlands-2026/) — covers ABN, ING, Bunq, Wise, Revolut & 5 others by expat use case.*
 ## Driver's License: What You Need
 
 ### EU/EEA License Holders

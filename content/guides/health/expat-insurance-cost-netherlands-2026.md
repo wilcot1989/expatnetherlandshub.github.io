@@ -40,6 +40,8 @@ The longer version — with exact prices, scenarios, and money-saving tactics �
 
 ---
 
+
+💡 *Looking for a complete banking comparison? Read [Best banking for expats in the Netherlands 2026](/blog/best-banking-expats-netherlands-2026/) — covers ABN, ING, Bunq, Wise, Revolut & 5 others by expat use case.*
 ## How much does Dutch basisverzekering cost in 2026?
 
 Every person legally residing in the Netherlands and registered at a Dutch address is legally required to take out basisverzekering within four months of arrival. This is not optional and not something you can skip to save money. For a full explanation of how the system works, see the [Dutch health insurance guide for expats 2026](/guides/health/dutch-health-insurance-guide-expats-2026/).

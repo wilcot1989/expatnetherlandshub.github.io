@@ -36,6 +36,8 @@ This checklist is what I wish I had. It is structured chronologically, starting 
 
 ---
 
+
+💡 *Looking for a complete banking comparison? Read [Best banking for expats in the Netherlands 2026](/blog/best-banking-expats-netherlands-2026/) — covers ABN, ING, Bunq, Wise, Revolut & 5 others by expat use case.*
 ## Why Leaving the Netherlands Takes More Planning Than You Think
 
 The Dutch administrative system is deeply interconnected. Your BSN ties together your tax record, health insurance, pension contributions, and municipality registration. When you deregister (uitschrijven) from the BRP — the population register — a cascade of consequences follows automatically.

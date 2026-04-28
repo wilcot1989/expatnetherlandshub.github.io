@@ -40,6 +40,8 @@ I will be honest: when I first visited Eindhoven years ago, I did not get the hy
 
 New to the Netherlands? Start with our [complete expat guide](/guides/legal/complete-guide-moving-to-netherlands-2026/) and work permit information in our [highly skilled migrant visa guide](/guides/legal/highly-skilled-migrant-visa-netherlands-2026/).
 
+
+💡 *Looking for a complete banking comparison? Read [Best banking for expats in the Netherlands 2026](/blog/best-banking-expats-netherlands-2026/) — covers ABN, ING, Bunq, Wise, Revolut & 5 others by expat use case.*
 ## Why Eindhoven?
 
 ![Eindhoven city view](/images/cities/eindhoven.webp)

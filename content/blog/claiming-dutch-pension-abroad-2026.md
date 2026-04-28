@@ -42,6 +42,8 @@ I am not a pension advisor or tax professional. For complex situations — large
 
 ---
 
+
+💡 *Looking for a complete banking comparison? Read [Best banking for expats in the Netherlands 2026](/blog/best-banking-expats-netherlands-2026/) — covers ABN, ING, Bunq, Wise, Revolut & 5 others by expat use case.*
 ## The Three Types of Dutch Pension You May Have
 
 Before getting into how to claim, it helps to understand what you may actually be entitled to. Dutch pension is built up in three distinct layers, and each requires a different process to access.

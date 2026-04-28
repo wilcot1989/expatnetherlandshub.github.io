@@ -43,6 +43,8 @@ This is my honest analysis of where the ruling stands in June 2026.
 
 ---
 
+
+💡 *Looking for a complete banking comparison? Read [Best banking for expats in the Netherlands 2026](/blog/best-banking-expats-netherlands-2026/) — covers ABN, ING, Bunq, Wise, Revolut & 5 others by expat use case.*
 ## What the 30% Ruling Actually Is (Brief Refresher)
 
 The 30% ruling (30%-regeling) allows a qualifying employer to pay an employee a tax-free allowance equal to a percentage of their gross salary. This allowance is intended to cover "extraterritorial costs" of living and working in the Netherlands.

@@ -34,6 +34,8 @@ Choosing a school is the decision that keeps my expat parent clients up at night
 
 New to the Netherlands? Start with our [complete guide to moving to the Netherlands](/guides/legal/complete-guide-moving-to-netherlands-2026/) for the full picture.
 
+
+💡 *Looking for a complete banking comparison? Read [Best banking for expats in the Netherlands 2026](/blog/best-banking-expats-netherlands-2026/) — covers ABN, ING, Bunq, Wise, Revolut & 5 others by expat use case.*
 ## Cost Overview
 
 | Age Group | Annual Tuition | Registration Fee |

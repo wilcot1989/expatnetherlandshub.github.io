@@ -43,6 +43,8 @@ This guide walks through every major Dutch government institution that expats re
 
 ---
 
+
+💡 *Looking for a complete banking comparison? Read [Best banking for expats in the Netherlands 2026](/blog/best-banking-expats-netherlands-2026/) — covers ABN, ING, Bunq, Wise, Revolut & 5 others by expat use case.*
 ## DigiD: The Key to Everything
 
 Before anything else: get DigiD. Everything else in Dutch digital bureaucracy flows from this.

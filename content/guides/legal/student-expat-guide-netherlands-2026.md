@@ -43,6 +43,8 @@ This guide covers everything I wish every student knew before they arrived.
 
 ---
 
+
+💡 *Looking for a complete banking comparison? Read [Best banking for expats in the Netherlands 2026](/blog/best-banking-expats-netherlands-2026/) — covers ABN, ING, Bunq, Wise, Revolut & 5 others by expat use case.*
 ## Who This Guide Is For
 
 Whether you are a first-year bachelor's student from Germany, an Indian master's student heading to TU Delft, or an American PhD candidate joining a research group in Leiden, your practical situation as a student in the Netherlands depends heavily on your nationality. I have structured this guide accordingly. Where the rules differ between EU and non-EU students, I say so clearly.

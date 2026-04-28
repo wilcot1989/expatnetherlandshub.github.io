@@ -47,6 +47,8 @@ This guide is what I wish someone had handed me in those first confusing weeks o
 
 ---
 
+
+💡 *Looking for a complete banking comparison? Read [Best banking for expats in the Netherlands 2026](/blog/best-banking-expats-netherlands-2026/) — covers ABN, ING, Bunq, Wise, Revolut & 5 others by expat use case.*
 ## Who Is Sinterklaas?
 
 Before anything else, let us be clear about who this person actually is, because a lot of expats assume Sinterklaas is simply a Dutch version of Father Christmas.

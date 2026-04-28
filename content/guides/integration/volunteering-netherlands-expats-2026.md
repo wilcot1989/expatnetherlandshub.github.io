@@ -43,6 +43,8 @@ Here is everything you need to know to get started.
 
 ---
 
+
+💡 *Looking for a complete banking comparison? Read [Best banking for expats in the Netherlands 2026](/blog/best-banking-expats-netherlands-2026/) — covers ABN, ING, Bunq, Wise, Revolut & 5 others by expat use case.*
 ## Why Volunteering Works for Expats
 
 The social side of settling in the Netherlands can be challenging for new arrivals. Dutch people tend toward stable, long-standing social circles rather than open networking. Work colleagues can be friendly but do not always become friends. Expat social networks are warm but sometimes feel like a parallel universe to actual Dutch life.

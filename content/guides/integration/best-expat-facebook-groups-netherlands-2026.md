@@ -43,6 +43,8 @@ This guide covers the groups and communities that are actually worth your time �
 
 ---
 
+
+💡 *Looking for a complete banking comparison? Read [Best banking for expats in the Netherlands 2026](/blog/best-banking-expats-netherlands-2026/) — covers ABN, ING, Bunq, Wise, Revolut & 5 others by expat use case.*
 ## Why online communities matter for expats in the Netherlands
 
 The Netherlands can feel socially closed when you first arrive. Dutch social circles are tight-knit and formed early — school, university, childhood neighbourhoods. Breaking into those circles as an adult foreigner takes time and patience, as I cover in detail in my guide to [making friends in the Netherlands](/guides/integration/making-friends-netherlands-expats-2026/).

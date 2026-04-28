@@ -46,6 +46,8 @@ After years of renting in the Netherlands, I finally decided to buy -- and immed
 
 New to the Netherlands? Start with our [complete expat guide](/guides/legal/complete-guide-moving-to-netherlands-2026/) and explore [neighborhoods in The Hague](/guides/housing/moving-to-the-hague-guide-2026/).
 
+
+💡 *Looking for a complete banking comparison? Read [Best banking for expats in the Netherlands 2026](/blog/best-banking-expats-netherlands-2026/) — covers ABN, ING, Bunq, Wise, Revolut & 5 others by expat use case.*
 ## Can Foreigners Get a Mortgage in the Netherlands?
 
 **Yes — and more easily than most expats expect.** Dutch mortgage lenders do not discriminate based on nationality. What they do care about is your legal status, income stability, and credit history in the Netherlands. Here is the direct answer to the most common questions I get from clients.

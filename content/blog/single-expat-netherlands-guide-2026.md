@@ -42,6 +42,8 @@ This guide covers what I learned, and what I have since helped dozens of single 
 
 ---
 
+
+💡 *Looking for a complete banking comparison? Read [Best banking for expats in the Netherlands 2026](/blog/best-banking-expats-netherlands-2026/) — covers ABN, ING, Bunq, Wise, Revolut & 5 others by expat use case.*
 ## Housing: The Single Expat's Biggest Challenge
 
 Housing is harder as a single expat than as a couple. You are paying everything yourself, which in a country where housing is expensive means the maths are tight. But there are options, and it is worth being strategic.

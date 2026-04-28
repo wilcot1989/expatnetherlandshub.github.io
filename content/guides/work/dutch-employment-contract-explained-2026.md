@@ -39,6 +39,8 @@ If you have not yet landed the role, take a look at my [job interview tips for t
 
 ---
 
+
+💡 *Looking for a complete banking comparison? Read [Best banking for expats in the Netherlands 2026](/blog/best-banking-expats-netherlands-2026/) — covers ABN, ING, Bunq, Wise, Revolut & 5 others by expat use case.*
 ## The Basics: What Makes a Dutch Employment Contract Valid
 
 In the Netherlands, an employment contract (arbeidsovereenkomst) does not legally have to be in writing to be valid. A verbal agreement can suffice. That said, every employer is required to provide a written statement of the key terms within one week of you starting work. In practice, you will almost always receive a written contract before your first day.

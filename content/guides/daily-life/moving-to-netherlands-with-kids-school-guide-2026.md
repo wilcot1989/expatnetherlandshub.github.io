@@ -41,6 +41,8 @@ Here is everything you need to know. For the broader relocation picture, see my 
 
 ---
 
+
+💡 *Looking for a complete banking comparison? Read [Best banking for expats in the Netherlands 2026](/blog/best-banking-expats-netherlands-2026/) — covers ABN, ING, Bunq, Wise, Revolut & 5 others by expat use case.*
 ## The Big Decision: Dutch School or International School?
 
 This is the first question every expat family faces, and the right answer depends on factors specific to your situation. Let me walk through the framework I use with families.

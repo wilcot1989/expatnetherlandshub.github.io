@@ -47,6 +47,8 @@ Whether you have just landed or have been here a while and kept putting this off
 
 ---
 
+
+💡 *Looking for a complete banking comparison? Read [Best banking for expats in the Netherlands 2026](/blog/best-banking-expats-netherlands-2026/) — covers ABN, ING, Bunq, Wise, Revolut & 5 others by expat use case.*
 ## Can You Drive on Your Foreign Licence in the Netherlands?
 
 The short answer: yes, but only for a while — and the exact rules depend on where your licence was issued.

@@ -52,6 +52,8 @@ So after a decade of learning Dutch the hard way, coaching hundreds of expats th
 If you also want to explore paid options, I have a full comparison in my [best Dutch language courses 2026 guide](/guides/integration/best-dutch-language-courses-2026/), and for apps specifically, check my [best apps to learn Dutch](/guides/integration/best-apps-learn-dutch-2026/) review.
 
 
+
+💡 *Looking for a complete banking comparison? Read [Best banking for expats in the Netherlands 2026](/blog/best-banking-expats-netherlands-2026/) — covers ABN, ING, Bunq, Wise, Revolut & 5 others by expat use case.*
 ## Quick Verdict: Top 10 Free Dutch Learning Resources
 
 | Resource | Type | Level | What's Free | Best For |

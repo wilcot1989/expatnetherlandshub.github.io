@@ -40,6 +40,8 @@ After years of working from my tiny [Amsterdam](/cities/amsterdam/) apartment --
 
 Working as a freelancer? Read our [complete ZZP guide](/guides/work/freelancer-zzp-guide-netherlands-2026/) for registration and taxes.
 
+
+💡 *Looking for a complete banking comparison? Read [Best banking for expats in the Netherlands 2026](/blog/best-banking-expats-netherlands-2026/) — covers ABN, ING, Bunq, Wise, Revolut & 5 others by expat use case.*
 ## Best Coworking Chains in the Netherlands
 
 | Chain | Locations | Day Pass | Hot Desk/month | Best For |

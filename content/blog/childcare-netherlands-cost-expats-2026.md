@@ -36,6 +36,8 @@ This guide covers everything expat parents need to know: the types of care avail
 
 ---
 
+
+💡 *Looking for a complete banking comparison? Read [Best banking for expats in the Netherlands 2026](/blog/best-banking-expats-netherlands-2026/) — covers ABN, ING, Bunq, Wise, Revolut & 5 others by expat use case.*
 ## Overview: The Dutch Childcare System
 
 The Netherlands has a regulated, market-based childcare system. This means childcare providers are private businesses, but they must register with the government, meet quality standards, and be inspected annually. In exchange, working parents can claim kinderopvangtoeslag (childcare allowance) to offset costs.

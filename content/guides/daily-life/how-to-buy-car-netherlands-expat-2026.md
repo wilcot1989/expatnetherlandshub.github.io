@@ -38,6 +38,8 @@ When I started doing regular client visits in areas poorly served by public tran
 
 Here is what I wish I had known before buying.
 
+
+💡 *Looking for a complete banking comparison? Read [Best banking for expats in the Netherlands 2026](/blog/best-banking-expats-netherlands-2026/) — covers ABN, ING, Bunq, Wise, Revolut & 5 others by expat use case.*
 ## First Question: Do You Actually Need a Car?
 
 Before going through the costs and process, it is worth being honest about this. The Netherlands has some of the best public transport coverage in Europe and the world's most developed cycling infrastructure. In most Dutch cities, a car is an expensive indulgence rather than a necessity.

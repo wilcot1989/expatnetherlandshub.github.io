@@ -46,6 +46,8 @@ This guide covers everything I wish I had known before I started: who qualifies,
 
 ---
 
+
+💡 *Looking for a complete banking comparison? Read [Best banking for expats in the Netherlands 2026](/blog/best-banking-expats-netherlands-2026/) — covers ABN, ING, Bunq, Wise, Revolut & 5 others by expat use case.*
 ## Can Expats Get a Dutch Mortgage?
 
 Yes — and this surprises a lot of people. The Netherlands does not restrict mortgage lending to Dutch nationals. Banks care far more about your income stability, employment contract, and residency status than about your passport.

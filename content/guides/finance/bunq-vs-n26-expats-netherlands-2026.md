@@ -43,6 +43,8 @@ If you want a broader look at all your banking options, start with my guide to t
 
 ---
 
+
+💡 *Looking for a complete banking comparison? Read [Best banking for expats in the Netherlands 2026](/blog/best-banking-expats-netherlands-2026/) — covers ABN, ING, Bunq, Wise, Revolut & 5 others by expat use case.*
 ## Quick Verdict
 
 **Choose bunq if you are living in the Netherlands full-time.** The Dutch IBAN and iDEAL support are not optional extras — you need both to function in Dutch society. Bunq's app is excellent, the sub-accounts feature is genuinely useful for budgeting, and the savings interest on paid plans is competitive.

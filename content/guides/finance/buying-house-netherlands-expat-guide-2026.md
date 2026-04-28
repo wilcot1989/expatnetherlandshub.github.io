@@ -49,6 +49,8 @@ This guide covers everything: the buying process step by step, costs, overbiddin
 
 ---
 
+
+💡 *Looking for a complete banking comparison? Read [Best banking for expats in the Netherlands 2026](/blog/best-banking-expats-netherlands-2026/) — covers ABN, ING, Bunq, Wise, Revolut & 5 others by expat use case.*
 ## Can Expats Buy Property in the Netherlands?
 
 Yes — and with no restrictions at all. The Netherlands does not discriminate between Dutch nationals and foreign nationals when it comes to property ownership. EU and non-EU citizens alike have the same legal right to buy property here.

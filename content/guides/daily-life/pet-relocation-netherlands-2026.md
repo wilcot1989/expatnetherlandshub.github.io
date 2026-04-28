@@ -30,6 +30,8 @@ If you are moving to the Netherlands with a dog, cat, or other pet, this guide c
 
 ---
 
+
+💡 *Looking for a complete banking comparison? Read [Best banking for expats in the Netherlands 2026](/blog/best-banking-expats-netherlands-2026/) — covers ABN, ING, Bunq, Wise, Revolut & 5 others by expat use case.*
 ## The Netherlands Is a Pet-Friendly Country
 
 The Dutch take their pets seriously. The Netherlands consistently ranks among the most pet-friendly countries in Europe. Dogs are welcome in most shops, restaurants, and public spaces. There are dedicated dog parks, off-leash areas, and a genuine culture of treating animals well.

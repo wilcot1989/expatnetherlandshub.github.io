@@ -36,6 +36,8 @@ Before anything else: sort out your [Dutch health insurance](/guides/health/dutc
 
 ---
 
+
+💡 *Looking for a complete banking comparison? Read [Best banking for expats in the Netherlands 2026](/blog/best-banking-expats-netherlands-2026/) — covers ABN, ING, Bunq, Wise, Revolut & 5 others by expat use case.*
 ## How the Huisarts System Works
 
 The huisarts (GP or general practitioner) is the foundation of Dutch primary healthcare. Unlike the UK's NHS, where you may have a choice of several practices within your area, or the US system, where you can often walk into many clinics, the Dutch system is built around having one registered GP who knows your medical history and acts as a gatekeeper to all specialist care.

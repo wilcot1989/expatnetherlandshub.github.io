@@ -38,6 +38,8 @@ This guide is what I wish I had had. It covers the three coverage types in plain
 
 ---
 
+
+💡 *Looking for a complete banking comparison? Read [Best banking for expats in the Netherlands 2026](/blog/best-banking-expats-netherlands-2026/) — covers ABN, ING, Bunq, Wise, Revolut & 5 others by expat use case.*
 ## The Dutch Car Insurance System at a Glance
 
 | Coverage Type | Covers damage to others? | Covers own car? | Required by law? |

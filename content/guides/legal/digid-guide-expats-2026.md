@@ -40,6 +40,8 @@ The first time someone asked me "Do you have a DigiD?" I had absolutely no idea 
 
 Just arrived? Start with our [complete guide to moving to the Netherlands](/guides/legal/complete-guide-moving-to-netherlands-2026/).
 
+
+💡 *Looking for a complete banking comparison? Read [Best banking for expats in the Netherlands 2026](/blog/best-banking-expats-netherlands-2026/) — covers ABN, ING, Bunq, Wise, Revolut & 5 others by expat use case.*
 ## What Is DigiD?
 
 DigiD stands for **Digitale Identiteit** (Digital Identity). It is a login system created by the Dutch government that allows you to securely identify yourself online. Think of it as a government-issued username and password for accessing public services.

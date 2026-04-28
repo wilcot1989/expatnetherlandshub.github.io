@@ -44,6 +44,8 @@ The broader [Dutch housing crisis context](/guides/housing/dutch-housing-crisis-
 
 ---
 
+
+💡 *Looking for a complete banking comparison? Read [Best banking for expats in the Netherlands 2026](/blog/best-banking-expats-netherlands-2026/) — covers ABN, ING, Bunq, Wise, Revolut & 5 others by expat use case.*
 ## The Core Rule: No Permission, No Subletting
 
 Dutch law is clear. Article 7:244 of the Dutch Civil Code prohibits tenants from subletting — in whole or in part — without explicit permission from their landlord. This applies to:

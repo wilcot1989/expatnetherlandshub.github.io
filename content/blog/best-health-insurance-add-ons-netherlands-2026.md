@@ -33,6 +33,8 @@ The Dutch basic health insurance (basisverzekering) is genuinely good for medica
 
 This guide covers the main supplementary insurance options (aanvullende verzekering), what they cost, what they actually cover, and my honest view on which are worth buying for expats.
 
+
+💡 *Looking for a complete banking comparison? Read [Best banking for expats in the Netherlands 2026](/blog/best-banking-expats-netherlands-2026/) — covers ABN, ING, Bunq, Wise, Revolut & 5 others by expat use case.*
 ## How Dutch Health Insurance Works
 
 Before getting into add-ons, it's useful to know the structure:

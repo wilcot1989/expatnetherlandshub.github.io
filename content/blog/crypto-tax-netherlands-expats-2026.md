@@ -42,6 +42,8 @@ I am not a tax advisor. For complex situations — large holdings, professional 
 
 ---
 
+
+💡 *Looking for a complete banking comparison? Read [Best banking for expats in the Netherlands 2026](/blog/best-banking-expats-netherlands-2026/) — covers ABN, ING, Bunq, Wise, Revolut & 5 others by expat use case.*
 ## The Core Rule: Crypto Is Box 3 in the Netherlands
 
 The Dutch tax system divides income and assets into three "boxes":

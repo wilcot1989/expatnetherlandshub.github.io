@@ -42,6 +42,8 @@ Before we get into cars, make sure your Dutch admin foundations are in place. Yo
 
 ---
 
+
+💡 *Looking for a complete banking comparison? Read [Best banking for expats in the Netherlands 2026](/blog/best-banking-expats-netherlands-2026/) — covers ABN, ING, Bunq, Wise, Revolut & 5 others by expat use case.*
 ## Two Routes: Buying Locally vs Importing
 
 The first decision shapes everything else. Let's be clear about what each path involves.

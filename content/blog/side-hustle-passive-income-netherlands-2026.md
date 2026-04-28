@@ -38,6 +38,8 @@ This guide covers the legal framework, the tax rules, the best side hustle optio
 
 ---
 
+
+💡 *Looking for a complete banking comparison? Read [Best banking for expats in the Netherlands 2026](/blog/best-banking-expats-netherlands-2026/) — covers ABN, ING, Bunq, Wise, Revolut & 5 others by expat use case.*
 ## The Legal Framework: Bijverdienste vs ZZP
 
 There are two distinct categories of extra income in the Netherlands, and they are treated very differently.

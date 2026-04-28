@@ -36,6 +36,8 @@ Getting the most out of the system does require knowing how it works: the OV-chi
 
 ---
 
+
+💡 *Looking for a complete banking comparison? Read [Best banking for expats in the Netherlands 2026](/blog/best-banking-expats-netherlands-2026/) — covers ABN, ING, Bunq, Wise, Revolut & 5 others by expat use case.*
 ## The NS Network: An Overview
 
 **NS (Nederlandse Spoorwegen)** is the main Dutch national rail operator, running intercity and regional services across the country. It is supplemented by a few regional operators (Connexxion, Arriva, Keolis) in less-served areas.

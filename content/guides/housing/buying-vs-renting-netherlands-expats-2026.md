@@ -41,6 +41,8 @@ I bought my apartment in Utrecht in 2019 after four years of renting, and I stil
 
 This article gives you the honest comparison I wish I had when I was deciding. Not the version that tells you "it depends" and leaves you to figure it out. Real numbers, a clear decision framework, and the specific factors that apply to expats that Dutch advice columns completely ignore.
 
+
+💡 *Looking for a complete banking comparison? Read [Best banking for expats in the Netherlands 2026](/blog/best-banking-expats-netherlands-2026/) — covers ABN, ING, Bunq, Wise, Revolut & 5 others by expat use case.*
 ## The Numbers First: What Does Each Option Actually Cost?
 
 Before anything else, let us ground this in concrete figures. I will use a scenario that matches the situation of many expats I work with: a 32-year-old earning €70,000 gross per year, living in a mid-sized Dutch city (Utrecht, Eindhoven, or similar), and genuinely unsure whether they will stay for three years or ten.

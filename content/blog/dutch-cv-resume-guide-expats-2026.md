@@ -38,6 +38,8 @@ This guide covers what she told me — plus everything else I have learned since
 
 ---
 
+
+💡 *Looking for a complete banking comparison? Read [Best banking for expats in the Netherlands 2026](/blog/best-banking-expats-netherlands-2026/) — covers ABN, ING, Bunq, Wise, Revolut & 5 others by expat use case.*
 ## The Dutch CV in Context
 
 The Netherlands is not the UK, and it is not the US. Dutch professional culture has specific conventions around CVs that differ meaningfully from other markets. The good news is that the differences are not complicated — once you know what they are, adapting is easy.

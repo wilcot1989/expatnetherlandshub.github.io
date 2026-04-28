@@ -43,6 +43,8 @@ I went through this myself. I had a solid credit history in the UK, a good salar
 
 ---
 
+
+💡 *Looking for a complete banking comparison? Read [Best banking for expats in the Netherlands 2026](/blog/best-banking-expats-netherlands-2026/) — covers ABN, ING, Bunq, Wise, Revolut & 5 others by expat use case.*
 ## The Dutch Credit Card Problem: Why It Is Hard for Expats
 
 Dutch banks and credit card issuers rely almost entirely on BKR (Bureau Krediet Registratie) data when assessing applications. BKR is the Dutch equivalent of Experian or Equifax — it tracks every credit product you have ever held in the Netherlands, your repayment history, and any defaults.

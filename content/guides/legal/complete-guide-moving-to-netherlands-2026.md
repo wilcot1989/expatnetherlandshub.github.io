@@ -48,6 +48,8 @@ faq:
 When I moved to the Netherlands over ten years ago, I thought having a Dutch mother would make everything easy. Spoiler: it did not. The bureaucracy, the housing market, the endless paperwork -- I had to figure it all out the hard way. Now, as a relocation specialist, I walk expats through this process every single week. This guide is everything I wish someone had told me before I arrived.
 
 
+
+💡 *Looking for a complete banking comparison? Read [Best banking for expats in the Netherlands 2026](/blog/best-banking-expats-netherlands-2026/) — covers ABN, ING, Bunq, Wise, Revolut & 5 others by expat use case.*
 ## Quick Overview: Your Moving Checklist
 
 | Step | Priority | Timeframe |

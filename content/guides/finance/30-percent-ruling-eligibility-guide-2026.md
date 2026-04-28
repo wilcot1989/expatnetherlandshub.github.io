@@ -51,6 +51,8 @@ This article is specifically about eligibility. If you want to understand how th
 
 ---
 
+
+💡 *Looking for a complete banking comparison? Read [Best banking for expats in the Netherlands 2026](/blog/best-banking-expats-netherlands-2026/) — covers ABN, ING, Bunq, Wise, Revolut & 5 others by expat use case.*
 ## The Five Requirements You Must Meet
 
 There is no single, simple checklist that the Belastingdienst publishes in plain English. What exists is a combination of legislation (the Wet op de loonbelasting and subsequent amendments) and official guidance. Based on those sources, there are five conditions you must satisfy simultaneously.

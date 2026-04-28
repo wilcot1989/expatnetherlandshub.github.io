@@ -40,6 +40,8 @@ faq:
 The first thing I learned about Dutch social life is that everything happens on WhatsApp. Your street has a WhatsApp group. Your building has a WhatsApp group. Your kid's school has three WhatsApp groups. So getting a Dutch phone number is genuinely one of the first things you need to sort out. I have used several providers over the years and helped countless clients pick the right one, so here is my no-nonsense comparison for 2026.
 
 
+
+💡 *Looking for a complete banking comparison? Read [Best banking for expats in the Netherlands 2026](/blog/best-banking-expats-netherlands-2026/) — covers ABN, ING, Bunq, Wise, Revolut & 5 others by expat use case.*
 ## Quick Comparison: Best SIM Cards for Expats in the Netherlands
 
 | Provider | Network | Best For | Monthly Cost | Data | eSIM | English Support |

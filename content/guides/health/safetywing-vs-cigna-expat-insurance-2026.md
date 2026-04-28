@@ -45,6 +45,8 @@ Before going further, let me be direct about one thing that matters enormously a
 
 ---
 
+
+💡 *Looking for a complete banking comparison? Read [Best banking for expats in the Netherlands 2026](/blog/best-banking-expats-netherlands-2026/) — covers ABN, ING, Bunq, Wise, Revolut & 5 others by expat use case.*
 ## The Legal Reality in the Netherlands: Neither May Be Enough on Its Own
 
 This is not a footnote. It is the most important section in this article.

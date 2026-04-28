@@ -48,6 +48,8 @@ Whether you've just received your first aangifte invitation or you're on your fi
 
 ---
 
+
+💡 *Looking for a complete banking comparison? Read [Best banking for expats in the Netherlands 2026](/blog/best-banking-expats-netherlands-2026/) — covers ABN, ING, Bunq, Wise, Revolut & 5 others by expat use case.*
 ## Who Needs to File a Dutch Tax Return?
 
 Let's start with the question I get most often: do I actually have to do this?

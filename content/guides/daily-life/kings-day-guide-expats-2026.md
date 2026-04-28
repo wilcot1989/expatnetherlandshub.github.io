@@ -41,6 +41,8 @@ That was ten years ago. Since then, King's Day — or Koningsdag as the Dutch ca
 
 ---
 
+
+💡 *Looking for a complete banking comparison? Read [Best banking for expats in the Netherlands 2026](/blog/best-banking-expats-netherlands-2026/) — covers ABN, ING, Bunq, Wise, Revolut & 5 others by expat use case.*
 ## What Is Koningsdag?
 
 Koningsdag is the Dutch national celebration of the King's birthday. The current king, Willem-Alexander, was born on 27 April 1967, so that is the official date. Before him, it was Koninginnedag (Queen's Day) — first for Queen Juliana (born 30 April) and then for Queen Beatrix, who kept 30 April even though her own birthday was in January. When Willem-Alexander became king in 2013, the date shifted to 27 April.

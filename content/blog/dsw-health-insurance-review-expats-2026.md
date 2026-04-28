@@ -36,6 +36,8 @@ This review covers everything you need to know about DSW as an expat: premiums, 
 
 ---
 
+
+💡 *Looking for a complete banking comparison? Read [Best banking for expats in the Netherlands 2026](/blog/best-banking-expats-netherlands-2026/) — covers ABN, ING, Bunq, Wise, Revolut & 5 others by expat use case.*
 ## What Is DSW?
 
 DSW (De Samenwerking Westland) is a regional Dutch health insurer based in Schiedam, near Rotterdam. Founded in 1917 as a workers' mutual, it is one of the oldest health insurers in the Netherlands. Today DSW serves approximately 650,000 members, making it mid-sized compared to giants like VGZ or Menzis.

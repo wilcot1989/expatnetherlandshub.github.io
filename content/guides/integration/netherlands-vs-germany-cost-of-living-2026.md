@@ -49,6 +49,8 @@ I have spent over a decade helping expats relocate to the Netherlands, and Germa
 This article is the breakdown I wish someone had given me before I signed my first Dutch lease. I am comparing real 2026 numbers — rent, groceries, healthcare, taxes, transport, childcare, energy — so you can make a clear financial decision.
 
 
+
+💡 *Looking for a complete banking comparison? Read [Best banking for expats in the Netherlands 2026](/blog/best-banking-expats-netherlands-2026/) — covers ABN, ING, Bunq, Wise, Revolut & 5 others by expat use case.*
 ## Quick Verdict: Which Country Is Cheaper?
 
 Before I get into the detail, here is the short version.

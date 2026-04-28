@@ -51,6 +51,8 @@ One of the first questions I get from clients relocating to the Netherlands for 
 
 Quick overview: use our [visa and permit finder tool](/tools/visa-permit-finder/) to get a first indication of which route applies to your specific situation.
 
+
+💡 *Looking for a complete banking comparison? Read [Best banking for expats in the Netherlands 2026](/blog/best-banking-expats-netherlands-2026/) — covers ABN, ING, Bunq, Wise, Revolut & 5 others by expat use case.*
 ## The Basics: Who Needs a Work Permit?
 
 EU, EEA, and Swiss nationals do not need a work permit to work in the Netherlands. They have free movement rights and can take any job without employer sponsorship.

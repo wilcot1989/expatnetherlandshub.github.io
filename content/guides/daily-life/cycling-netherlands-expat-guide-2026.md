@@ -37,6 +37,8 @@ faq:
 My Dutch mother cycles everywhere in any weather without a second thought. When I moved here from the UK, I thought I could do the same. My first ride through Amsterdam rush hour nearly ended me -- three near-misses, a wrong turn into a tram lane, and the discovery that hand signals are not optional. A decade later, I cannot imagine life without my bike. Here is everything I have learned about cycling in the Netherlands so your transition is smoother than mine.
 
 
+
+💡 *Looking for a complete banking comparison? Read [Best banking for expats in the Netherlands 2026](/blog/best-banking-expats-netherlands-2026/) — covers ABN, ING, Bunq, Wise, Revolut & 5 others by expat use case.*
 ## Why Cycling Matters in the Netherlands
 
 ### It is Often the Fastest Option

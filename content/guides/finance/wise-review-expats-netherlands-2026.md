@@ -45,6 +45,8 @@ I have a Wise account. I have had one for years. I also have ING, because I live
 
 ---
 
+
+💡 *Looking for a complete banking comparison? Read [Best banking for expats in the Netherlands 2026](/blog/best-banking-expats-netherlands-2026/) — covers ABN, ING, Bunq, Wise, Revolut & 5 others by expat use case.*
 ## Wise at a Glance
 
 | Feature | Detail |

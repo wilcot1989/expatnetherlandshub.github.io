@@ -47,6 +47,8 @@ This guide focuses on the university system itself: choosing programmes, admissi
 
 ---
 
+
+💡 *Looking for a complete banking comparison? Read [Best banking for expats in the Netherlands 2026](/blog/best-banking-expats-netherlands-2026/) — covers ABN, ING, Bunq, Wise, Revolut & 5 others by expat use case.*
 ## The Dutch Higher Education System: WO vs HBO
 
 The Netherlands divides its higher education into two primary tracks:

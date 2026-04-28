@@ -45,6 +45,8 @@ This guide is everything I know about how these scams work, how to spot them bef
 
 ---
 
+
+💡 *Looking for a complete banking comparison? Read [Best banking for expats in the Netherlands 2026](/blog/best-banking-expats-netherlands-2026/) — covers ABN, ING, Bunq, Wise, Revolut & 5 others by expat use case.*
 ## Why Expats Are the Primary Target
 
 Let me be direct about this: expats are specifically targeted because we are easier to defraud than locals.

@@ -53,6 +53,8 @@ This guide walks you through the exact process of opening a bank account in the 
 
 ---
 
+
+💡 *Looking for a complete banking comparison? Read [Best banking for expats in the Netherlands 2026](/blog/best-banking-expats-netherlands-2026/) — covers ABN, ING, Bunq, Wise, Revolut & 5 others by expat use case.*
 ## The Timeline at a Glance
 
 Here is the short version, front-loaded, because that is what you actually need:

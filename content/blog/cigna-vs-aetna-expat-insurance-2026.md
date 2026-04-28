@@ -42,6 +42,8 @@ This comparison gives you an honest look at what each insurer actually offers fo
 
 ---
 
+
+💡 *Looking for a complete banking comparison? Read [Best banking for expats in the Netherlands 2026](/blog/best-banking-expats-netherlands-2026/) — covers ABN, ING, Bunq, Wise, Revolut & 5 others by expat use case.*
 ## Quick Comparison: Cigna vs Aetna at a Glance
 
 | | **Cigna Global** | **Aetna International** |

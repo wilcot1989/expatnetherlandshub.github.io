@@ -40,6 +40,8 @@ faq:
     a: "Many expat ZZP freelancers do exactly this. Wise Business gives you a Dutch IBAN, multi-currency accounts, invoicing tools, and accounting integrations. The one caveat: some Dutch clients still expect a traditional IBAN starting with NL from a recognised bank. In practice this is rarely a problem, but worth knowing."
 ---
 
+
+💡 *Looking for a complete banking comparison? Read [Best banking for expats in the Netherlands 2026](/blog/best-banking-expats-netherlands-2026/) — covers ABN, ING, Bunq, Wise, Revolut & 5 others by expat use case.*
 ## The Story That Made Me Take Business Banking Seriously
 
 A client of mine — I'll call her Priya — moved to Amsterdam from London in 2023. She registered her KvK within a month of arriving, started picking up consultancy work almost immediately, and felt rightly proud of how smoothly her freelance career was taking off in the Netherlands.

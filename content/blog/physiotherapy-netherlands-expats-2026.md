@@ -36,6 +36,8 @@ This guide covers everything expats need to know about physiotherapy in the Neth
 
 ---
 
+
+💡 *Looking for a complete banking comparison? Read [Best banking for expats in the Netherlands 2026](/blog/best-banking-expats-netherlands-2026/) — covers ABN, ING, Bunq, Wise, Revolut & 5 others by expat use case.*
 ## How Physiotherapy Works in the Netherlands: The Basics
 
 The Dutch healthcare system gives you more direct access to physiotherapy than many expats are used to. Here is how it works:

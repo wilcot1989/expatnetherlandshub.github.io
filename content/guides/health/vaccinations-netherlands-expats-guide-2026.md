@@ -41,6 +41,8 @@ The Dutch approach to vaccination is thorough, well-organised, and entirely volu
 
 ---
 
+
+💡 *Looking for a complete banking comparison? Read [Best banking for expats in the Netherlands 2026](/blog/best-banking-expats-netherlands-2026/) — covers ABN, ING, Bunq, Wise, Revolut & 5 others by expat use case.*
 ## The Dutch National Vaccination Programme (Rijksvaccinatieprogramma)
 
 The **Rijksvaccinatieprogramma (RVP)** is managed by the RIVM (Rijksinstituut voor Volksgezondheid en Milieu — the National Institute for Public Health and the Environment). It is one of the most complete free childhood immunisation programmes in the world.

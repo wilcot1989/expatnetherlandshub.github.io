@@ -33,6 +33,8 @@ The Dutch supermarket sector is genuinely competitive and, by European standards
 
 ---
 
+
+💡 *Looking for a complete banking comparison? Read [Best banking for expats in the Netherlands 2026](/blog/best-banking-expats-netherlands-2026/) — covers ABN, ING, Bunq, Wise, Revolut & 5 others by expat use case.*
 ## The Dutch Supermarket Market at a Glance
 
 The Netherlands has a concentrated grocery market. Albert Heijn dominates with around 35% market share, followed by Jumbo with around 22%. Together they account for well over half of all grocery spending. But the remaining market is contested by budget chains, neighbourhood stores, and regional players — and some of them are genuinely excellent value.

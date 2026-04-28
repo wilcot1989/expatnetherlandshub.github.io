@@ -43,6 +43,8 @@ Here is what I know about each. For coworking options outside Amsterdam, see my 
 
 ---
 
+
+💡 *Looking for a complete banking comparison? Read [Best banking for expats in the Netherlands 2026](/blog/best-banking-expats-netherlands-2026/) — covers ABN, ING, Bunq, Wise, Revolut & 5 others by expat use case.*
 ## Centrum: The Business Core
 
 Amsterdam's central district (Centrum) is not primarily a residential neighbourhood — it is the commercial and tourist heart of the city. Coworking here means excellent transport links, proximity to clients and hotels, and a professional atmosphere. It also means higher prices and the constant background noise of one of Europe's busiest tourist areas.

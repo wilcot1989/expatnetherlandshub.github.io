@@ -36,6 +36,8 @@ This guide covers everything you need to know about eye care in the Netherlands:
 
 ---
 
+
+💡 *Looking for a complete banking comparison? Read [Best banking for expats in the Netherlands 2026](/blog/best-banking-expats-netherlands-2026/) — covers ABN, ING, Bunq, Wise, Revolut & 5 others by expat use case.*
 ## The Dutch Eye Care System: Who Does What
 
 Understanding the different types of eye care providers in the Netherlands saves confusion:

@@ -38,6 +38,8 @@ I have been there. I have helped dozens of clients through it. And I want to wri
 
 ---
 
+
+💡 *Looking for a complete banking comparison? Read [Best banking for expats in the Netherlands 2026](/blog/best-banking-expats-netherlands-2026/) — covers ABN, ING, Bunq, Wise, Revolut & 5 others by expat use case.*
 ## Why Expat Loneliness in the Netherlands Is a Real Thing
 
 Before I get into practical steps, I want to address why this happens — because understanding the why matters for not blaming yourself.

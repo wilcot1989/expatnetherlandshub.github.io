@@ -45,6 +45,8 @@ This guide explains Dutch inheritance law clearly and honestly. It is not a subs
 
 ---
 
+
+💡 *Looking for a complete banking comparison? Read [Best banking for expats in the Netherlands 2026](/blog/best-banking-expats-netherlands-2026/) — covers ABN, ING, Bunq, Wise, Revolut & 5 others by expat use case.*
 ## The Basics of Dutch Inheritance Law (Erfrecht)
 
 Dutch inheritance law is governed by Book 4 of the Burgerlijk Wetboek (Civil Code). The key principles:

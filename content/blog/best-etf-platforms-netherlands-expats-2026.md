@@ -36,6 +36,8 @@ This guide is what I wish I had found in those early weeks. I have used or thoro
 
 ---
 
+
+💡 *Looking for a complete banking comparison? Read [Best banking for expats in the Netherlands 2026](/blog/best-banking-expats-netherlands-2026/) — covers ABN, ING, Bunq, Wise, Revolut & 5 others by expat use case.*
 ## Why ETF Investing Makes Sense for Expats in the Netherlands
 
 Before comparing platforms, it is worth understanding why ETFs (Exchange-Traded Funds) are particularly well-suited to expats.

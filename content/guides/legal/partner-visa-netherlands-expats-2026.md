@@ -45,6 +45,8 @@ If you are still working through your own immigration status in the Netherlands,
 
 ---
 
+
+💡 *Looking for a complete banking comparison? Read [Best banking for expats in the Netherlands 2026](/blog/best-banking-expats-netherlands-2026/) — covers ABN, ING, Bunq, Wise, Revolut & 5 others by expat use case.*
 ## Who Needs an MVV (Machtiging tot Voorlopig Verblijf)?
 
 The MVV — machtiging tot voorlopig verblijf — is the Dutch long-stay visa sticker placed in a passport that allows entry into the Netherlands for the purpose of residing there. It is step one of a two-step process: first the MVV, then the residence permit after arrival.

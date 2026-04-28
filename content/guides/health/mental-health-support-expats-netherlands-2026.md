@@ -44,6 +44,8 @@ This guide is for anyone who is ready to bring it to the foreground. Whether you
 
 ---
 
+
+💡 *Looking for a complete banking comparison? Read [Best banking for expats in the Netherlands 2026](/blog/best-banking-expats-netherlands-2026/) — covers ABN, ING, Bunq, Wise, Revolut & 5 others by expat use case.*
 ## How the Dutch Mental Health System Works
 
 The Dutch healthcare system is structured in tiers, and mental health care follows the same logic. Understanding the pathway makes it far less daunting.

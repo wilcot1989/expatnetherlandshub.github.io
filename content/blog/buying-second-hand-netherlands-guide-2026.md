@@ -38,6 +38,8 @@ This guide covers every major platform and shop type, with practical tips for ea
 
 ---
 
+
+💡 *Looking for a complete banking comparison? Read [Best banking for expats in the Netherlands 2026](/blog/best-banking-expats-netherlands-2026/) — covers ABN, ING, Bunq, Wise, Revolut & 5 others by expat use case.*
 ## Why Second-Hand Makes Sense for Expats
 
 Before diving into the platforms, a quick note on why second-hand is especially worth considering as an expat.

@@ -39,6 +39,8 @@ This guide covers every freelance visa option available in the Netherlands in 20
 
 ---
 
+
+💡 *Looking for a complete banking comparison? Read [Best banking for expats in the Netherlands 2026](/blog/best-banking-expats-netherlands-2026/) — covers ABN, ING, Bunq, Wise, Revolut & 5 others by expat use case.*
 ## What are your freelance visa options in the Netherlands?
 
 Before going deep on each route, here's the quick version:

@@ -41,6 +41,8 @@ Years of living here and working with expats adjusting to Dutch life has convinc
 
 ---
 
+
+💡 *Looking for a complete banking comparison? Read [Best banking for expats in the Netherlands 2026](/blog/best-banking-expats-netherlands-2026/) — covers ABN, ING, Bunq, Wise, Revolut & 5 others by expat use case.*
 ## The Foundation: Egalitarianism
 
 To understand almost everything about Dutch culture, start with one word: **gelijkheid** (equality). The Netherlands is one of the most genuinely egalitarian societies in the world, and this value pervades social interaction at every level.

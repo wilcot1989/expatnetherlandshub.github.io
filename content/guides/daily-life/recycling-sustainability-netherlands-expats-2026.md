@@ -43,6 +43,8 @@ This guide explains the Dutch system clearly, so you do not need twenty minutes 
 
 ---
 
+
+💡 *Looking for a complete banking comparison? Read [Best banking for expats in the Netherlands 2026](/blog/best-banking-expats-netherlands-2026/) — covers ABN, ING, Bunq, Wise, Revolut & 5 others by expat use case.*
 ## The Dutch Waste Categories
 
 The Netherlands typically separates household waste into 5-8 categories, depending on your municipality. The main ones are:

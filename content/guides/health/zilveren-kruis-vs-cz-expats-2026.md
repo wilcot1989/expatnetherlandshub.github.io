@@ -41,6 +41,8 @@ If you want a broader look at all your options, start with my [Dutch health insu
 
 ---
 
+
+💡 *Looking for a complete banking comparison? Read [Best banking for expats in the Netherlands 2026](/blog/best-banking-expats-netherlands-2026/) — covers ABN, ING, Bunq, Wise, Revolut & 5 others by expat use case.*
 ## Quick Verdict
 
 Before I walk through everything in detail, here is my short answer:

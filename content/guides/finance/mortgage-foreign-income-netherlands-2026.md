@@ -43,6 +43,8 @@ I have helped expat clients through the Dutch mortgage process more times than I
 
 ---
 
+
+💡 *Looking for a complete banking comparison? Read [Best banking for expats in the Netherlands 2026](/blog/best-banking-expats-netherlands-2026/) — covers ABN, ING, Bunq, Wise, Revolut & 5 others by expat use case.*
 ## The Dutch Mortgage Market: Key Facts
 
 The Netherlands has a highly developed mortgage market. Key features:

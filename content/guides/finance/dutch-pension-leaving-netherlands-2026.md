@@ -41,6 +41,8 @@ Before we dig in: if you want to understand how the Dutch pension system works f
 
 ---
 
+
+💡 *Looking for a complete banking comparison? Read [Best banking for expats in the Netherlands 2026](/blog/best-banking-expats-netherlands-2026/) — covers ABN, ING, Bunq, Wise, Revolut & 5 others by expat use case.*
 ## Two Types of Dutch Pension — Two Very Different Rules
 
 The Dutch pension system has three pillars, but for departing expats, two matter most:

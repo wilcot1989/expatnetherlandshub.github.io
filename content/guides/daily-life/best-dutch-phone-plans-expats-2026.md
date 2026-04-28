@@ -42,6 +42,8 @@ This guide covers everything you need to know about Dutch mobile plans in 2026 �
 
 ---
 
+
+💡 *Looking for a complete banking comparison? Read [Best banking for expats in the Netherlands 2026](/blog/best-banking-expats-netherlands-2026/) — covers ABN, ING, Bunq, Wise, Revolut & 5 others by expat use case.*
 ## How Dutch Mobile Works: The Basics
 
 Before you start comparing prices, it helps to understand the structure of the Dutch telecom market. It is simpler than you might think.

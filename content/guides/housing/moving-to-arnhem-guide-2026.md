@@ -43,6 +43,8 @@ Before you start planning: use the [housing budget checker](/tools/housing-budge
 
 If you are comparing cities, we also have a detailed [guide to the best cities in the Netherlands for expats](/guides/housing/best-cities-netherlands-expats-2026/), and our [Nijmegen city guide](/guides/housing/moving-to-nijmegen-guide-2026/) covers Arnhem's nearest neighbour just 15 minutes down the train line.
 
+
+💡 *Looking for a complete banking comparison? Read [Best banking for expats in the Netherlands 2026](/blog/best-banking-expats-netherlands-2026/) — covers ABN, ING, Bunq, Wise, Revolut & 5 others by expat use case.*
 ## Why Arnhem?
 
 ![Arnhem city view — the Rhine and green city setting](/images/cities/arnhem.webp)

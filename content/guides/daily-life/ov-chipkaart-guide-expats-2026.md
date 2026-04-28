@@ -37,6 +37,8 @@ faq:
 The first time I tried to use Dutch public transport, I tapped my anonymous OV-chipkaart, got on the train, and promptly forgot to check out. That little mistake cost me twenty euros in "boarding fare." I have since become a public transport expert out of pure self-defense. After ten years of trains, trams, buses, and the glorious OV-fiets, I know every trick to save money and avoid the pitfalls. Here is everything you need to know.
 
 
+
+💡 *Looking for a complete banking comparison? Read [Best banking for expats in the Netherlands 2026](/blog/best-banking-expats-netherlands-2026/) — covers ABN, ING, Bunq, Wise, Revolut & 5 others by expat use case.*
 ## The OV-chipkaart: Your Key to Dutch Public Transport
 
 The OV-chipkaart (openbaar vervoer chipkaart, literally "public transport chip card") is a contactless smart card that works on all public transport in the Netherlands: NS trains, regional trains (Arriva, Keolis), trams (GVB, HTM, RET), buses, metro, and ferries.

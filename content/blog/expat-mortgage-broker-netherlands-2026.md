@@ -31,6 +31,8 @@ Buying a property in the Netherlands as an expat involves layers of complexity t
 
 A good mortgage broker makes the difference between a smooth process and months of frustration. This guide explains what mortgage brokers do in the Netherlands, how to find one who works with expats, and what to expect throughout the process.
 
+
+💡 *Looking for a complete banking comparison? Read [Best banking for expats in the Netherlands 2026](/blog/best-banking-expats-netherlands-2026/) — covers ABN, ING, Bunq, Wise, Revolut & 5 others by expat use case.*
 ## How Dutch Mortgages Work
 
 The Netherlands has a regulated mortgage market with strict lending rules set by the Dutch Authority for the Financial Markets (AFM) and the national government.

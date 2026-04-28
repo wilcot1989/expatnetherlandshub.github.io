@@ -42,6 +42,8 @@ In this guide I break down Dutch salaries by industry, city, and experience leve
 
 ---
 
+
+💡 *Looking for a complete banking comparison? Read [Best banking for expats in the Netherlands 2026](/blog/best-banking-expats-netherlands-2026/) — covers ABN, ING, Bunq, Wise, Revolut & 5 others by expat use case.*
 ## How Dutch Salaries Work: The Basics
 
 Before diving into numbers, it's worth understanding a few quirks of the Dutch salary system that are different from what you may be used to.

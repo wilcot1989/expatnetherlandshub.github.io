@@ -43,6 +43,8 @@ If you are still in the process of finding a property, start with my guide to [f
 
 ---
 
+
+💡 *Looking for a complete banking comparison? Read [Best banking for expats in the Netherlands 2026](/blog/best-banking-expats-netherlands-2026/) — covers ABN, ING, Bunq, Wise, Revolut & 5 others by expat use case.*
 ## The Dutch Rental Market: Two Separate Systems
 
 Before you can understand your contract, you need to understand the fundamental split in the Dutch rental market. There are essentially two worlds:

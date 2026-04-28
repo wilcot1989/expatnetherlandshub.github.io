@@ -31,6 +31,8 @@ When I moved to the Netherlands, one of my first practical concerns was whether 
 
 This guide walks through how diploma recognition works in the Netherlands, who needs formal recognition, and how to manage the process without unnecessary delays.
 
+
+💡 *Looking for a complete banking comparison? Read [Best banking for expats in the Netherlands 2026](/blog/best-banking-expats-netherlands-2026/) — covers ABN, ING, Bunq, Wise, Revolut & 5 others by expat use case.*
 ## Two Different Situations
 
 Before getting into the mechanics, it's worth distinguishing two very different scenarios:

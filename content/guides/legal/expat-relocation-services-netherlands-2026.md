@@ -45,6 +45,8 @@ If you are still working out the basics of your move, start with my [complete gu
 
 ---
 
+
+💡 *Looking for a complete banking comparison? Read [Best banking for expats in the Netherlands 2026](/blog/best-banking-expats-netherlands-2026/) — covers ABN, ING, Bunq, Wise, Revolut & 5 others by expat use case.*
 ## What Relocation Services Actually Do
 
 The term "relocation service" gets used loosely. It can mean anything from a single housing agent to a full-service company that holds your hand from before you land until six months after. When you are comparing options, the most important thing to establish is what, specifically, is included.

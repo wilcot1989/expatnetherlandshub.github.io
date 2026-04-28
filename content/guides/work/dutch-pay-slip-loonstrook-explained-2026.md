@@ -47,6 +47,8 @@ If you have not yet accepted a job offer, the [salary negotiation guide for expa
 
 ---
 
+
+💡 *Looking for a complete banking comparison? Read [Best banking for expats in the Netherlands 2026](/blog/best-banking-expats-netherlands-2026/) — covers ABN, ING, Bunq, Wise, Revolut & 5 others by expat use case.*
 ## What Is a Loonstrook?
 
 A loonstrook is your Dutch pay slip — a statutory document your employer must provide with every salary payment. It shows, in itemised form, exactly what you were paid and exactly what was withheld before the money reached your account.

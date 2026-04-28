@@ -40,6 +40,8 @@ I learned about Dutch liability insurance the hard way -- my bicycle knocked ove
 
 New to the Netherlands? Start with our [complete expat guide](/guides/legal/complete-guide-moving-to-netherlands-2026/) and make sure you have your [DigiD set up](/guides/legal/digid-guide-expats-2026/).
 
+
+💡 *Looking for a complete banking comparison? Read [Best banking for expats in the Netherlands 2026](/blog/best-banking-expats-netherlands-2026/) — covers ABN, ING, Bunq, Wise, Revolut & 5 others by expat use case.*
 ## Insurance Overview for Expats
 
 | Insurance | Mandatory? | Monthly Cost | Priority |

@@ -47,6 +47,8 @@ This guide covers everything: who qualifies, what the process looks like, the dr
 
 ---
 
+
+💡 *Looking for a complete banking comparison? Read [Best banking for expats in the Netherlands 2026](/blog/best-banking-expats-netherlands-2026/) — covers ABN, ING, Bunq, Wise, Revolut & 5 others by expat use case.*
 ## Who Can Apply for Dutch Nationality?
 
 There are two main routes to Dutch nationality: **naturalisation** (naturalisatie) and the **option procedure** (optie). Which one applies to you depends on your personal situation.

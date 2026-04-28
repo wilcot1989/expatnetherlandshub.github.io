@@ -40,6 +40,8 @@ I moved to Amsterdam with my partner in 2016 and spent the first week half-expec
 
 ---
 
+
+💡 *Looking for a complete banking comparison? Read [Best banking for expats in the Netherlands 2026](/blog/best-banking-expats-netherlands-2026/) — covers ABN, ING, Bunq, Wise, Revolut & 5 others by expat use case.*
 ## The Netherlands: A Global Pioneer for LGBTQ+ Rights
 
 On 1 April 2001, the Netherlands became the first country in the world to legalise same-sex marriage. That date matters — not just symbolically, but because it set the legal foundation for everything that followed. Over two decades later, the Dutch legal framework for LGBTQ+ rights remains among the strongest anywhere.

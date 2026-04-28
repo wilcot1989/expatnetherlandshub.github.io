@@ -41,6 +41,8 @@ If you want to start with a broader overview of how Dutch health insurance works
 
 ---
 
+
+💡 *Looking for a complete banking comparison? Read [Best banking for expats in the Netherlands 2026](/blog/best-banking-expats-netherlands-2026/) — covers ABN, ING, Bunq, Wise, Revolut & 5 others by expat use case.*
 ## The Critical First Question: Do You Need Dutch Health Insurance?
 
 Before comparing ONVZ and Aetna, you must answer this. It shapes everything.

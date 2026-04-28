@@ -43,6 +43,8 @@ I have helped dozens of expats through this process. Here is everything you actu
 
 ---
 
+
+💡 *Looking for a complete banking comparison? Read [Best banking for expats in the Netherlands 2026](/blog/best-banking-expats-netherlands-2026/) — covers ABN, ING, Bunq, Wise, Revolut & 5 others by expat use case.*
 ## Who Needs to Register at the KvK?
 
 In the Netherlands, anyone who runs a business — regardless of size, income, or how many clients they have — is legally required to register with the Kamer van Koophandel (KvK), the Dutch Chamber of Commerce. This is not optional and there is no threshold below which you are exempt.

@@ -43,6 +43,8 @@ I have put together this guide to cover every practical angle — so you spend y
 
 ---
 
+
+💡 *Looking for a complete banking comparison? Read [Best banking for expats in the Netherlands 2026](/blog/best-banking-expats-netherlands-2026/) — covers ABN, ING, Bunq, Wise, Revolut & 5 others by expat use case.*
 ## Before You Arrive: Your Checklist
 
 1. Confirm your exchange placement and receive your acceptance letter from your Dutch host university

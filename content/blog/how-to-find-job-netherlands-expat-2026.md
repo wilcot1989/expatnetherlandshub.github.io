@@ -38,6 +38,8 @@ I have updated this for 2026, with current salary benchmarks, the latest 30% rul
 
 ---
 
+
+💡 *Looking for a complete banking comparison? Read [Best banking for expats in the Netherlands 2026](/blog/best-banking-expats-netherlands-2026/) — covers ABN, ING, Bunq, Wise, Revolut & 5 others by expat use case.*
 ## The Dutch Labour Market in 2026: What You Need to Know
 
 The Netherlands has one of the lowest unemployment rates in Europe — consistently around 3.5–4% — which is good news for job seekers. The country is also one of the most internationalised in Europe, with a high proportion of companies operating in English.

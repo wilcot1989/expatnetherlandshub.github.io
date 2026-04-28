@@ -36,6 +36,8 @@ This review covers CZ's premiums, coverage, English-language support, the claims
 
 ---
 
+
+💡 *Looking for a complete banking comparison? Read [Best banking for expats in the Netherlands 2026](/blog/best-banking-expats-netherlands-2026/) — covers ABN, ING, Bunq, Wise, Revolut & 5 others by expat use case.*
 ## What Is CZ?
 
 CZ (CZ Groep) is one of the four largest health insurers in the Netherlands, alongside VGZ, Menzis, and Zilveren Kruis. Based in Tilburg, CZ serves approximately 3.3 million members across the country. It is a non-profit insurer (onderlinge waarborgmaatschappij), meaning profits are reinvested rather than distributed to shareholders.

@@ -34,6 +34,8 @@ faq:
 In my first week in the Netherlands, I tried to carry four bags of groceries up three flights of those impossibly steep Dutch stairs. Never again. That is when I discovered the wonderful world of Dutch grocery delivery, and honestly, it has been one of the small luxuries that makes expat life easier. I have tested every major service over the years, and here is my comparison to help you find the one that fits your shopping habits.
 
 
+
+💡 *Looking for a complete banking comparison? Read [Best banking for expats in the Netherlands 2026](/blog/best-banking-expats-netherlands-2026/) — covers ABN, ING, Bunq, Wise, Revolut & 5 others by expat use case.*
 ## Quick Comparison
 
 | Service | Type | Delivery Fee | Min. Order | Delivery Speed | Product Range | English App | Best For |

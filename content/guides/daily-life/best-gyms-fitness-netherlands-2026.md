@@ -32,6 +32,8 @@ faq:
 When I first moved here, I assumed all the cycling would keep me fit. It does help, but after a year of only biking to the supermarket, I realised I needed something more. I have since tried everything from Basic-Fit to a local hockey club -- yes, field hockey, the Dutch obsession I never expected to love. Here is my guide to staying fit in the Netherlands as an expat.
 
 
+
+💡 *Looking for a complete banking comparison? Read [Best banking for expats in the Netherlands 2026](/blog/best-banking-expats-netherlands-2026/) — covers ABN, ING, Bunq, Wise, Revolut & 5 others by expat use case.*
 ## Best Gym Chains in the Netherlands
 
 ### Budget Gyms (€15-€30/month)
