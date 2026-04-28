@@ -327,6 +327,10 @@ The Netherlands is exceptionally bike-friendly for families:
 
 ---
 
+
+
+<a href="/go/wise" class="cta-affiliate" rel="sponsored noopener">Try Wise</a>
+
 ## Related Guides
 
 - [OV-chipkaart Guide for Expats](/guides/daily-life/ov-chipkaart-guide-expats-2026/) -- public transport setup

@@ -338,3 +338,5 @@ The things to get right as an expat:
 For a broader picture of working life here, the [Dutch work culture guide](/guides/work/dutch-work-culture-guide-expats-2026/) covers everything from direct feedback to office borrels to the hierarchy-flattening culture that makes Dutch workplaces unlike most others in Europe.
 
 The Netherlands does not do everything right. But public holidays and time off? They have figured this one out.
+
+<a href="/go/wise" class="cta-affiliate" rel="sponsored noopener">Try Wise</a>

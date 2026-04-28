@@ -325,3 +325,5 @@ Dutch tenant law is actually quite protective. The problem is that most of those
 You do not need to be a legal expert. You need to read your contract, know the basics covered in this guide, and know where to get help when something does not feel right. The huurcommissie and the Juridisch Loket exist precisely for moments like that.
 
 And take those move-in photos. Every single room. I cannot say this enough.
+
+<a href="/go/wise" class="cta-affiliate" rel="sponsored noopener">Try Wise</a>

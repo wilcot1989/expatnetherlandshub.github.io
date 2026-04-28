@@ -324,6 +324,10 @@ If you have just arrived in the Netherlands and want to start investing sensibly
 
 ---
 
+
+
+<a href="/go/wise" class="cta-affiliate" rel="sponsored noopener">Try Wise</a>
+
 ## Related Guides
 
 - [Dutch Tax System for Expats 2026](/guides/finance/dutch-tax-system-expats-guide-2026/) — understand Box 1, 2, and 3 in full

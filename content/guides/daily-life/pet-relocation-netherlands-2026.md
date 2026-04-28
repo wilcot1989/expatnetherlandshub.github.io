@@ -316,6 +316,10 @@ This guide has focused on dogs and cats, which cover the majority of expat pet r
 
 ---
 
+
+
+<a href="/go/wise" class="cta-affiliate" rel="sponsored noopener">Try Wise</a>
+
 ## Related Guides
 
 - [Complete Guide to Moving to the Netherlands as an Expat 2026](/guides/legal/complete-guide-moving-to-netherlands-2026/) — the full picture on visas, registration, and settling in

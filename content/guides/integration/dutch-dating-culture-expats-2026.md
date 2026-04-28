@@ -204,3 +204,5 @@ It is terrifying for approximately forty-eight hours. Then it is the most refres
 ---
 
 *Sarah van den Berg is a relocation specialist and expat coach based in Amsterdam. She has been writing about expat life in the Netherlands for over a decade and is the author of several guides on Dutch culture, integration, and practical life in the Netherlands.*
+
+<a href="/go/wise" class="cta-affiliate" rel="sponsored noopener">Try Wise</a>

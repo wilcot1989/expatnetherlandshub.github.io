@@ -277,3 +277,5 @@ Beyond the high-level directness and egalitarianism, a few specific Dutch social
 **Directness in personal matters:** The Dutch can be surprisingly direct about personal topics — weight, relationship status, salary — that would be considered intrusive in British or American culture. This is not malice; it reflects a cultural belief that honest direct communication is respectful. The appropriate response is to answer directly if you are comfortable, or to say clearly "I prefer not to discuss that" — which will be accepted without offence.
 
 **Cycling culture as social code:** The bicycle is not just transport in the Netherlands — it is identity. Cycling etiquette matters: ring your bell to signal, do not walk in the fietspad (bike lane), and do not chain your bike to spots where it obstructs pedestrians. Getting these wrong marks you as a newcomer. Getting them right signals that you respect how the city works.
+
+<a href="/go/preply" class="cta-affiliate" rel="sponsored noopener">Try Preply</a>

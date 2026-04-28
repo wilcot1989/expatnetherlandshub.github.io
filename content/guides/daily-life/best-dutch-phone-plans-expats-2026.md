@@ -411,3 +411,5 @@ After helping dozens of newly arrived expats navigate the Dutch telecom market, 
 ---
 
 *Have a question about Dutch phone plans? Drop it in the comments or get in touch. I update this guide regularly as the market changes.*
+
+<a href="/go/wise" class="cta-affiliate" rel="sponsored noopener">Try Wise</a>

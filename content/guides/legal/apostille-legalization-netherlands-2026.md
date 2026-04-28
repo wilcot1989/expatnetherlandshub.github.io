@@ -267,3 +267,5 @@ Bring or submit the original apostilled document (with translation if needed) to
 | Power of attorney | Notarial transactions, property purchases |
 
 The IND is the most frequent requester of apostilled documents for expats. Their website specifies the exact documentation required for each permit type — always check the current requirements before submitting, as they are updated periodically.
+
+<a href="/go/nordvpn" class="cta-affiliate" rel="sponsored noopener">Try Nordvpn</a>

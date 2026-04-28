@@ -351,3 +351,5 @@ But the Dutch summer, when it shows up, is one of the best things about living h
 Give Dutch summer a real chance. Buy the fan before June, learn the bouwvak dates, get on a bike, and let the country show you what it can do when the sun cooperates.
 
 And check Buienradar before you leave the house.
+
+<a href="/go/nordvpn" class="cta-affiliate" rel="sponsored noopener">Try Nordvpn</a>

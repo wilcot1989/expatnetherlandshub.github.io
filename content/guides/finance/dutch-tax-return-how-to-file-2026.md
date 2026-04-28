@@ -334,3 +334,5 @@ Many expats file their return and then wonder what to expect. Here is what typic
 **Objection (bezwaar):** If you disagree with the assessment, you can file an objection (bezwaar) within 6 weeks of receiving the assessment. The process involves a formal written objection with your reasoning. For complex disputes, a tax advisor or lawyer handles this. For simple errors (a miskeyed figure), a phone call to the Belastingdienst often resolves things more quickly than a formal bezwaar.
 
 **Automatic pre-filling improvements:** Each year, the Belastingdienst pre-fills more data into your return — your employer's data from the jaaropgave, your bank's data, your DeGiro investment data, and more. The quality of pre-filling improves annually. However, pre-filled data can be wrong (particularly employer data in the first year, or if you switched employers). Always check before accepting pre-filled figures.
+
+<a href="/go/wise" class="cta-affiliate" rel="sponsored noopener">Try Wise</a>

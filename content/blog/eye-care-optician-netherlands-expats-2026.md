@@ -326,3 +326,5 @@ For expats who wear glasses or contact lenses, the Dutch optical market offers g
 **Contact lens supply.** All major optician chains sell contact lenses. Online subscriptions from Lenstore, Vision Direct, and similar are widely used by Dutch residents and ship within 1–3 days. Contact lens prescriptions typically expire after one year in the Netherlands — your optician will want to update your prescription before issuing a new supply if your previous one is expired.
 
 **Insurance reimbursement for glasses.** Many Dutch aanvullende verzekering (supplementary insurance) packages include a biannual or annual glasses allowance. The amount varies by package — typically €50–150 per year or per two years. Some packages offer more for higher-cost prescription needs (strong prescriptions, varifocals). Check your policy before purchasing — the reimbursement process usually requires a receipt submitted through your insurer's portal.
+
+<a href="/go/nordvpn" class="cta-affiliate" rel="sponsored noopener">Try Nordvpn</a>

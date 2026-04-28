@@ -288,3 +288,5 @@ Not immediately. Leiden has a large international population thanks to Leiden Un
 ---
 
 *Sarah van den Berg is an expat coach and relocation specialist. Half Dutch, half British, she has lived in the Netherlands for over 10 years and has helped hundreds of expats settle into Dutch life. If you are planning a move to Leiden and want personalised advice, get in touch through the contact page.*
+
+<a href="/go/wise" class="cta-affiliate" rel="sponsored noopener">Try Wise</a>

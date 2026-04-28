@@ -243,3 +243,5 @@ A few resources:
 - **Your employer's EAP (Employee Assistance Programme)**: many Dutch employers offer confidential counselling through EAP providers — check your employee benefits
 
 There is no shame in finding the Dutch social environment challenging. It is genuinely harder than many other countries. Acknowledging that, and actively using available resources, is more productive than waiting passively for things to improve.
+
+<a href="/go/preply" class="cta-affiliate" rel="sponsored noopener">Try Preply</a>

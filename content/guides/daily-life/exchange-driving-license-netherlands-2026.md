@@ -334,3 +334,5 @@ When your Dutch licence expires after 10 years, you renew at your gemeente with 
 ---
 
 *Sarah van den Berg is an expat coach and relocation specialist. Half Dutch, half British, living in the Netherlands for over 10 years.*
+
+<a href="/go/nordvpn" class="cta-affiliate" rel="sponsored noopener">Try Nordvpn</a>

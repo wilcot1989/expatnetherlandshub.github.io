@@ -311,3 +311,5 @@ Prettige pakjesavond.
 ---
 
 *Sarah van den Berg is an expat coach and relocation specialist based in Amsterdam. She has been helping expats settle into Dutch life for over eight years. For more on Dutch culture and integration, see the [King's Day guide for expats](/guides/daily-life/kings-day-guide-expats-2026/) and the full [integration guide series](/guides/integration/).*
+
+<a href="/go/wise" class="cta-affiliate" rel="sponsored noopener">Try Wise</a>

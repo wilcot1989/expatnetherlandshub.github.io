@@ -380,3 +380,5 @@ The same arithmetic applies to huurtoeslag, though the rent ceiling still applie
 One thing to be aware of: when the 30% ruling ends, your toetsingsinkomen jumps up. If you have been receiving toeslagen based on the lower taxable income, you will need to update your income estimate in Mijn Toeslagen in the month your ruling expires. Failing to do this leads to a substantial terugvordering at year-end, because the advance payments continue at the lower rate even though your taxable income has increased.
 
 The [30% ruling guide](/guides/finance/30-percent-ruling-netherlands-2026/) explains the ruling's broader tax implications in detail, and the [30% ruling calculator](/tools/30-percent-ruling-calculator/) lets you model the effect on your net income. Understanding how the ruling interacts with toeslagen is one of the more financially impactful pieces of knowledge an expat in the Netherlands can have — and it is one that most people learn far too late.
+
+<a href="/go/wise" class="cta-affiliate" rel="sponsored noopener">Try Wise</a>

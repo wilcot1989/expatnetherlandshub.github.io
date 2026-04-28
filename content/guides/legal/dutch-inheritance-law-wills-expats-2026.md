@@ -313,3 +313,5 @@ Get specialist advice on this if you have an international estate. The cost of a
 - [Rijksoverheid: Erfenis en erven](https://www.rijksoverheid.nl/onderwerpen/erfenis)
 - [Expatica: Dutch inheritance guide](https://www.expatica.com/nl/living/finance/inheritance-in-the-netherlands/)
 - [IamExpat: Estate planning Netherlands](https://www.iamexpat.nl/expat-info/legal/inheritance-netherlands)
+
+<a href="/go/wise" class="cta-affiliate" rel="sponsored noopener">Try Wise</a>

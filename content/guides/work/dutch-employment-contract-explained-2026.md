@@ -318,3 +318,5 @@ The Netherlands has strong employee protections — use them. They exist precise
 ---
 
 *Got questions about your specific contract situation? Feel free to reach out — I read every message, even if it takes me a few days to reply.*
+
+<a href="/go/wise" class="cta-affiliate" rel="sponsored noopener">Try Wise</a>

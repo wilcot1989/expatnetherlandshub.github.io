@@ -364,3 +364,5 @@ For a full picture of what living in the Netherlands actually costs — rent, tr
 **Do not forget:** Statiegeld deposits, bring your own bags, bonuskaart before first shop
 
 Shopping in the Netherlands is genuinely pleasant once you know the system. The quality of food — particularly fresh produce, dairy, and bread — is high by European standards, and the price competition between chains keeps costs reasonable. Get the loyalty apps set up, find your nearest toko, and you will be eating well within your first week.
+
+<a href="/go/preply" class="cta-affiliate" rel="sponsored noopener">Try Preply</a>

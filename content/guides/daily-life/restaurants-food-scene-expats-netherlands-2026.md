@@ -290,3 +290,5 @@ For a realistic assessment of total monthly food costs including both eating out
 The Dutch food scene rewards exploration more than first impressions suggest. The first months of eating bread and cheese for every meal is a transitional phase, not a permanent state. Once you find your local Indonesian restaurant, discover the market, learn the borrel rhythm, and understand why the kitchen closes at 9pm, eating well in the Netherlands becomes entirely natural.
 
 The Michelin stars are a nice bonus.
+
+<a href="/go/wise" class="cta-affiliate" rel="sponsored noopener">Try Wise</a>

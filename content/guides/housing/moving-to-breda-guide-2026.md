@@ -257,3 +257,5 @@ For expats who want real Dutch life — cycling everywhere, good food, warm comm
 If you are in the planning stages, start with the [housing budget checker](/tools/housing-budget-checker/) to get your numbers right, book your Gemeente appointment as soon as you have an address, and get your [BSN process underway](/guides/legal/bsn-registration-guide-2026/) early. The rest follows from there.
 
 Good luck with the move — I hope Breda turns out to be as good a decision for you as it has been for the people I have helped settle there.
+
+<a href="/go/wise" class="cta-affiliate" rel="sponsored noopener">Try Wise</a>

@@ -430,3 +430,5 @@ The Netherlands looks uniform from a map but divides into quite distinct outdoor
 
 **Sunscreen for summer.** Dutch summer sun is often underestimated by people who associate the Netherlands with grey weather. In June and July particularly, UV levels are significant and sunscreen at the beach or on a long cycle is as necessary here as anywhere in Western Europe.
 - [Rijkswaterstaat: Waterways information](https://www.rijkswaterstaat.nl)
+
+<a href="/go/wise" class="cta-affiliate" rel="sponsored noopener">Try Wise</a>

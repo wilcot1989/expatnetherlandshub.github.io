@@ -271,6 +271,10 @@ For patients with complex international health histories — multiple countries,
 
 ---
 
+
+
+<a href="/go/independer-zorg" class="cta-affiliate" rel="sponsored noopener">Try Independer Zorg</a>
+
 ## Related Guides
 
 - [Dutch Health Insurance for Expats: Complete Guide 2026](/guides/health/dutch-health-insurance-guide-expats-2026/)

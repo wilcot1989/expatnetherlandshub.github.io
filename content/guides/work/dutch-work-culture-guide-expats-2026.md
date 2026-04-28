@@ -314,6 +314,10 @@ And — when in doubt — bring good cake.
 
 ---
 
+
+
+<a href="/go/wise" class="cta-affiliate" rel="sponsored noopener">Try Wise</a>
+
 ## Related Guides
 
 - [30% Ruling: Full Guide for Expats in 2026](/guides/finance/30-percent-ruling-netherlands-2026/)

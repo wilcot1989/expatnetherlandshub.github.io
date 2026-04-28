@@ -325,3 +325,5 @@ The required level for the inburgering is **A2 Dutch** (on the CEFR scale), with
 **Consequences of failing:** Failing to pass the inburgering within the required period (three years in most cases, with possible extension) can result in fines and complications with future permit renewals or permanent residence applications.
 
 Start early. Many families underestimate the time commitment required.
+
+<a href="/go/preply" class="cta-affiliate" rel="sponsored noopener">Try Preply</a>

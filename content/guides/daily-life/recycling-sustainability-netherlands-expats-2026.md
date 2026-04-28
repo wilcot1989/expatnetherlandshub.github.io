@@ -428,3 +428,5 @@ The Netherlands' relationship with water is unique and worth understanding:
 **Grey water and garden watering:** Dutch gardens in dry summers can face hosepipe restrictions in some municipalities. Check your local municipality's rules in summer dry periods — using collected rainwater for garden irrigation is both permitted and encouraged.
 
 For broader sustainability in your daily life in the Netherlands, the [cost of living guide](/guides/housing/cost-of-living-netherlands-2026/) covers energy costs in detail, and the [energy providers guide](/guides/housing/energy-providers-expats-netherlands-2026/) explains how to choose a green energy tariff.
+
+<a href="/go/wise" class="cta-affiliate" rel="sponsored noopener">Try Wise</a>

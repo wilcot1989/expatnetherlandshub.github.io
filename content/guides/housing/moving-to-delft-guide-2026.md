@@ -309,6 +309,10 @@ Being direct about this saves people from arriving with the wrong expectations.
 
 ---
 
+
+
+<a href="/go/wise" class="cta-affiliate" rel="sponsored noopener">Try Wise</a>
+
 ## Related Guides
 
 If you are comparing cities or preparing for broader aspects of expat life in the Netherlands, these guides cover the topics that come up most often:

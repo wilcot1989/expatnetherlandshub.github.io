@@ -423,3 +423,4 @@ For more on working in the Netherlands as an expat or freelancer:
 
 ---
 
+<a href="/go/wise" class="cta-affiliate" rel="sponsored noopener">Try Wise</a>

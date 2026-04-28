@@ -259,3 +259,5 @@ For your first week: book your gemeente appointment for BRP registration before 
 ---
 
 *Sarah van den Berg is an expat coach and relocation specialist. Half Dutch, half British, living in the Netherlands for over 10 years.*
+
+<a href="/go/wise" class="cta-affiliate" rel="sponsored noopener">Try Wise</a>

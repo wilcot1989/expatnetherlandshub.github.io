@@ -291,3 +291,5 @@ After working with single expats for years and living this experience myself, th
 **Second, your housing decision shapes your social life more than anything else.** An expat who starts in shared housing has automatic social contact, neighbourhood familiarity, and lower financial stress. An expat who starts in an isolated studio apartment may have more privacy but starts their social life from a much harder position. If you are on the fence, lean towards shared housing for the first 6 months.
 
 **Third, the Dutch will surprise you.** The reputation for reserve is real but misleading about the end result. Dutch people take longer to warm up, but once they do, you have a friend who will actually show up when you need them. I have found my Dutch friendships to be among the most reliable and direct I have ever had. The effort to get there is worth it.
+
+<a href="/go/wise" class="cta-affiliate" rel="sponsored noopener">Try Wise</a>

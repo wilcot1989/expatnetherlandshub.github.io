@@ -378,3 +378,5 @@ A few things I have learned after years of using Dutch delivery apps that do not
 **Combine Picnic with local markets.** Picnic handles dry goods, branded items, and dairy well. Dutch farmers' markets and street markets handle fresh vegetables, bread, and specialty items better at equivalent or lower prices. The combination — Picnic for the weekly staples, market for the seasonal fresh produce — is both economical and a much better culinary experience than using any single delivery service for everything.
 
 For a broader view of Dutch grocery shopping — including the physical supermarkets, specialty stores, and weekly markets that complement delivery — see the [complete guide to grocery shopping in the Netherlands for expats](/guides/daily-life/best-grocery-delivery-netherlands-2026/). And if you are still in the process of setting up your Dutch bank account for iDEAL payments, the [bank account guide](/guides/finance/best-bank-account-expats-netherlands-2026/) walks through which account to open first.
+
+<a href="/go/wise" class="cta-affiliate" rel="sponsored noopener">Try Wise</a>

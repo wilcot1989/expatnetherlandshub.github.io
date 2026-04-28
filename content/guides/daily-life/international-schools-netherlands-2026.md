@@ -337,6 +337,10 @@ The transition to a new school in a new country is a significant life event for 
 
 <a href="/tools/inburgering-route-builder/" class="cta-affiliate">Check your own integration requirements →</a>
 
+
+
+<a href="/go/wise" class="cta-affiliate" rel="sponsored noopener">Try Wise</a>
+
 ## Related Guides
 
 - **[Complete Guide to Moving to the Netherlands 2026](/guides/legal/complete-guide-moving-to-netherlands-2026/)** — Everything you need to know about relocating

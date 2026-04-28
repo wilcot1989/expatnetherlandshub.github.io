@@ -286,3 +286,4 @@ The [Dutch employment contract guide](/guides/work/dutch-employment-contract-exp
 - [LinkedIn Tips for Expats in the Netherlands](/guides/work/linkedin-netherlands-expat-tips-2026/) — how to optimize your Dutch market presence and use LinkedIn to find jobs and build your professional network here
 - [Check Your Salary: Is Your Offer Fair?](/tools/salary-checker/)
 
+<a href="/go/preply" class="cta-affiliate" rel="sponsored noopener">Try Preply</a>

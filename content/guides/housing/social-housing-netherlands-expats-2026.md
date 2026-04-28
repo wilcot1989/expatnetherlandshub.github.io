@@ -257,3 +257,5 @@ Register on WoningNet when you arrive — it costs nothing and you start buildin
 For context on why the Dutch housing market is this tight and what is being done about it, the [Dutch housing crisis explained](/guides/housing/dutch-housing-crisis-explained-expats-2026/) is the next article to read.
 
 One practical note on WoningNet registration: the application is free and takes about 15 minutes online, but you must have a valid Dutch address and BSN at the time you register. If you are still in temporary accommodation when you first arrive, register on WoningNet as soon as you have both. Every week of waiting time you defer is a week you cannot get back. Even if you are certain you will not use social housing for years, registering now means the clock starts. Given that waiting times in Amsterdam currently run 14+ years, starting at month one versus month twelve matters more than most people expect.
+
+<a href="/go/wise" class="cta-affiliate" rel="sponsored noopener">Try Wise</a>

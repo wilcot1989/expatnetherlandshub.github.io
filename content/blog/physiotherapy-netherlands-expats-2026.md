@@ -330,3 +330,5 @@ Beyond the standard musculoskeletal treatment most people associate with physiot
 **Psychosomatische fysiotherapie.** This subspecialty addresses the physical manifestations of stress, anxiety, burnout, and chronic pain with a psychosomatic component. It is covered by some supplementary packages and is relevant to expats navigating the physical stress response to relocation, work pressure, and adjustment. If you are experiencing physical symptoms — chronic muscle tension, fatigue, sleep disruption — with a suspected stress component, ask your GP whether a referral to a psychosomatisch fysiotherapeut is appropriate.
 
 **Sports physiotherapy.** Dutch sports clubs and sports medicine clinics offer specialist sports physiotherapy for injury rehabilitation, performance optimisation, and injury prevention. These services are available privately and are not always covered by basic supplementary packages. Major Dutch sports medicine centres (SportMedisch Centrum) in all large cities offer combined orthopaedic and physiotherapy assessment for sports injuries.
+
+<a href="/go/preply" class="cta-affiliate" rel="sponsored noopener">Try Preply</a>

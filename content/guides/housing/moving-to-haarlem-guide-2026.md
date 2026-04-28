@@ -346,3 +346,5 @@ But for a couple moving to the Netherlands for the first time, or a professional
 Before committing, read our [finding housing in the Netherlands guide](/guides/housing/finding-housing-netherlands-expats-2026/) for the full rental process, use the [housing budget checker](/tools/housing-budget-checker/) to set a realistic budget, and make sure your registration paperwork is in order with our [BSN registration guide](/guides/legal/bsn-registration-guide-2026/).
 
 Welcome to Haarlem.
+
+<a href="/go/wise" class="cta-affiliate" rel="sponsored noopener">Try Wise</a>

@@ -282,3 +282,5 @@ If you are comparing Groningen with other Dutch cities, these guides cover the s
 ---
 
 *Last updated: March 2026.*
+
+<a href="/go/independer-energie" class="cta-affiliate" rel="sponsored noopener">Try Independer Energie</a>

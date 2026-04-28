@@ -319,3 +319,5 @@ For expats working in regulated professions, the recognition pathway is more for
 **Engineers and architects:** These professions are less tightly regulated in the Netherlands than in some countries. Most engineering roles do not require formal registration, and employers assess qualifications directly. Architects wishing to use the protected title "architect" must register with the Bureau Architectenregister. Technical engineering roles in Dutch industry (including ASML, Shell, and technology multinationals) typically assess qualifications on a case-by-case basis without formal recognition requirements.
 
 **Accountants and financial professionals:** The Dutch financial sector has specific qualification requirements for certain roles (chartered accountants, registered controllers). The NBA (Nederlandse Beroepsorganisatie van Accountants) handles recognition of accountancy qualifications. For general finance roles, Dutch employers assess international qualifications directly.
+
+<a href="/go/preply" class="cta-affiliate" rel="sponsored noopener">Try Preply</a>
