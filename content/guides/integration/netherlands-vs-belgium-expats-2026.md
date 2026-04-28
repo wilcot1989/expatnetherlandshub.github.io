@@ -351,6 +351,6 @@ If the Netherlands is your preferred choice and you are comparing it against oth
 - [EF English Proficiency Index](https://www.ef.com/wwen/epi/)
 - <a href="https://go.expatnetherlandshub.com/wise?ref=/guides/integration/netherlands-vs-belgium-expats-2026/" target="_blank" rel="noopener nofollow sponsored">Wise multi-currency account</a>
 - <a href="https://go.expatnetherlandshub.com/safetywing?ref=/guides/integration/netherlands-vs-belgium-expats-2026/" target="_blank" rel="noopener nofollow sponsored">SafetyWing health insurance for expats</a>
-- [Internations: Belgium expat community](https://www.internations.org/go/moving-to-belgium)
+- [Internations: Belgium expat community](https://www.internations.org/go/wise)
 - [IamExpat Netherlands](https://www.iamexpat.nl)
 - [Brussels expat guide — Expatica](https://www.expatica.com/be/moving/relocation/brussels-expat-guide/)
