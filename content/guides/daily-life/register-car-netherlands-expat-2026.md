@@ -360,3 +360,5 @@ For many expats in the Randstad, a combination of cycling and public transport i
 ---
 
 <a href="/go/wise" class="cta-affiliate" rel="sponsored noopener">Try Wise</a>
+
+Also compare car insurance options for your newly registered vehicle: <a href="/go/independer-auto" class="cta-affiliate" rel="sponsored noopener">Compare Car Insurance at Independer</a>

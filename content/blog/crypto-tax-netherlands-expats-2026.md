@@ -347,3 +347,5 @@ The key principle is transparency and documented reasoning. Errors in good faith
 *Related reading: [Dutch Tax Return Checklist for Expats](/guides/finance/dutch-tax-return-checklist-expats-2026/) | [Investing in the Netherlands as an Expat](/guides/finance/investing-netherlands-expats-2026/) | [Best Tax Advisors for Expats Netherlands](/guides/finance/best-tax-advisors-expats-netherlands-2026/) | [30% Ruling Eligibility Guide](/guides/finance/30-percent-ruling-eligibility-guide-2026/) | [Dutch Inheritance Tax for Expats](/guides/finance/dutch-inheritance-tax-expats-2026/)*
 
 <a href="/go/wise" class="cta-affiliate" rel="sponsored noopener">Try Wise</a>
+
+And protect your stay in the Netherlands with flexible expat insurance: <a href="/go/safetywing" class="cta-affiliate" rel="sponsored noopener">Get Expat Coverage with SafetyWing</a>

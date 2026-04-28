@@ -353,3 +353,5 @@ The transition from kinderopvang to basisschool (primary school) is smoother tha
 *Last updated: March 2026.*
 
 <a href="/go/wise" class="cta-affiliate" rel="sponsored noopener">Try Wise</a>
+
+Also make sure your family has proper health coverage: <a href="/go/independer-zorg" class="cta-affiliate" rel="sponsored noopener">Compare Health Insurance at Independer</a>

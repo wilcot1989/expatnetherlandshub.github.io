@@ -341,6 +341,8 @@ The transition to a new school in a new country is a significant life event for 
 
 <a href="/go/wise" class="cta-affiliate" rel="sponsored noopener">Try Wise</a>
 
+Also make sure your family has Dutch health insurance sorted: <a href="/go/independer-zorg" class="cta-affiliate" rel="sponsored noopener">Compare Health Insurance at Independer</a>
+
 ## Related Guides
 
 - **[Complete Guide to Moving to the Netherlands 2026](/guides/legal/complete-guide-moving-to-netherlands-2026/)** — Everything you need to know about relocating

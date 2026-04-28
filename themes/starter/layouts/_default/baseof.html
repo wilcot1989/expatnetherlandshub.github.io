@@ -140,6 +140,36 @@
   }
   </script>
   {{ end }}
+  {{ if and .Params.products (or (in .Title "review") (in .Title "Review") (in .Title "vs") (in .Title "Vs")) }}
+  {{ with index .Params.products 0 }}
+  <script type="application/ld+json">
+  {
+    "@context": "https://schema.org",
+    "@type": "Review",
+    "itemReviewed": {
+      "@type": "Product",
+      "name": {{ .name | jsonify }},
+      "description": {{ $.Description | jsonify }}
+    },
+    "author": {
+      "@type": "Person",
+      "name": {{ ($.Params.author | default $.Site.Params.author) | jsonify }}
+    },
+    "datePublished": "{{ $.Date.Format "2006-01-02" }}",
+    "reviewRating": {
+      "@type": "Rating",
+      "ratingValue": "{{ .rating_value | default "4.5" }}",
+      "bestRating": "5",
+      "worstRating": "1"
+    },
+    "publisher": {
+      "@type": "Organization",
+      "name": {{ $.Site.Title | jsonify }}
+    }
+  }
+  </script>
+  {{ end }}
+  {{ end }}
   {{ end }}
 
   <!-- BreadcrumbList JSON-LD -->
