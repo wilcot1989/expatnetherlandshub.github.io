@@ -298,6 +298,6 @@ Loneliness peaks at certain specific moments in the expat experience that are wo
 
 *Related reading: [Dutch Social Etiquette for Expats](/guides/integration/dutch-social-etiquette-expats-2026/) | [Best Dutch Language Courses 2026](/guides/integration/best-dutch-language-courses-2026/) | [Dutch Dating Culture for Expats](/guides/integration/dutch-dating-culture-expats-2026/) | [Best Expat Facebook Groups Netherlands](/guides/integration/best-expat-facebook-groups-netherlands-2026/) | [Netherlands vs UK for Expats](/guides/integration/netherlands-vs-uk-expats-2026/)*
 
-<a href="/go/wise" class="cta-affiliate" rel="sponsored noopener">Try Wise</a>
+<a href="https://go.expatnetherlandshub.com/wise" class="cta-affiliate" rel="sponsored noopener">Try Wise</a>
 
-Speaking Dutch opens doors to real friendships — start learning today: <a href="/go/preply" class="cta-affiliate" rel="sponsored noopener">Find a Dutch Tutor on Preply</a>
+Speaking Dutch opens doors to real friendships — start learning today: <a href="https://go.expatnetherlandshub.com/preply" class="cta-affiliate" rel="sponsored noopener">Find a Dutch Tutor on Preply</a>

@@ -29,7 +29,7 @@ faq:
     a: "Yes, but the process varies by insurer. Most Dutch insurers accept a no-claims declaration (schadevrij-jaren verklaring) from a foreign insurer as evidence of your claims history. You need a letter from your previous insurer on official letterhead stating the number of claim-free years. Some insurers only accept letters from EU/EEA countries; others accept worldwide. Independer's comparison tool shows which Dutch insurers accept foreign no-claims history — compare before you commit."
 products:
   - name: "Independer Auto"
-    url: "/go/independer-auto"
+    url: "https://go.expatnetherlandshub.com/independer-auto"
     price: "0.00"
     tag: "Car Insurance Comparison"
 ---
@@ -242,7 +242,7 @@ If you have driven claim-free abroad for several years, you can transfer that hi
 
 Some Dutch insurers only accept letters from EU/EEA countries; others accept worldwide. Compare before committing to a policy.
 
-<a href="/go/independer-auto" rel="noopener nofollow sponsored" class="cta-affiliate">Compare Dutch car insurance policies and find insurers that accept foreign no-claims history →</a>
+<a href="https://go.expatnetherlandshub.com/independer-auto" rel="noopener nofollow sponsored" class="cta-affiliate">Compare Dutch car insurance policies and find insurers that accept foreign no-claims history →</a>
 
 ### WA vs. All-Risk
 
@@ -254,7 +254,7 @@ Dutch car insurance has three main levels:
 
 For a newly arrived expat with a recently exchanged license, insurers may classify you as a "new driver" even if you have decades of experience — this affects your premium level and which coverage options are available. Using a comparison tool lets you see which insurers treat foreign-licensed drivers most favourably.
 
-<a href="/go/independer-auto" rel="noopener nofollow sponsored" class="cta-affiliate">Find the best Dutch car insurance for expats with foreign driving experience →</a>
+<a href="https://go.expatnetherlandshub.com/independer-auto" rel="noopener nofollow sponsored" class="cta-affiliate">Find the best Dutch car insurance for expats with foreign driving experience →</a>
 
 ---
 

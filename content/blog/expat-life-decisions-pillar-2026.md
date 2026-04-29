@@ -216,9 +216,9 @@ FREELANCER / ZZP
 
 ### Recommended services
 
-**[Wise](/go/wise)** — Best for international transfers and as a starter account. Real exchange rate, low fees, works without a Dutch address or BSN. I personally still use Wise for sending money to Spain and for any payment in a non-Euro currency.
+**[Wise](https://go.expatnetherlandshub.com/wise)** — Best for international transfers and as a starter account. Real exchange rate, low fees, works without a Dutch address or BSN. I personally still use Wise for sending money to Spain and for any payment in a non-Euro currency.
 
-**[Revolut](/go/revolut)** — Excellent for travel spending and multiple currencies. Monthly limits apply on the free tier. Upgrade to Standard or Premium if you transfer more than €1,000/month abroad.
+**[Revolut](https://go.expatnetherlandshub.com/revolut)** — Excellent for travel spending and multiple currencies. Monthly limits apply on the free tier. Upgrade to Standard or Premium if you transfer more than €1,000/month abroad.
 
 ### What you'll need for a Dutch bank account
 - BSN number
@@ -245,7 +245,7 @@ The Dutch health system is excellent — once you're in it. The basic package (b
 
 ### How to choose
 
-1. **Compare plans on [Independer](/go/independer-zorg)** — the largest Dutch comparison site, available in English. Filter by premium, own-risk level, and GP/hospital access.
+1. **Compare plans on [Independer](https://go.expatnetherlandshub.com/independer-zorg)** — the largest Dutch comparison site, available in English. Filter by premium, own-risk level, and GP/hospital access.
 2. **Check your preferred GP and hospital are in-network** — most basic policies cover any Dutch provider, but cheaper "naturapolis" policies restrict you to specific networks.
 3. **Consider additional coverage (aanvullende verzekering)** — dental, physiotherapy, and alternative medicine are not in the basic package.
 
@@ -253,7 +253,7 @@ The Dutch health system is excellent — once you're in it. The basic package (b
 Anyone registered in the BRP (municipality register) and living/working in the Netherlands. Exceptions: diplomats, some cross-border workers (check your employment country), and those covered by a valid EU S1 form.
 
 ### Short-stay alternative
-If you're here for under 4 months and not registered in the BRP, you may use international travel insurance like [SafetyWing](/go/safetywing) instead. SafetyWing offers monthly coverage from around €45, no long-term commitment, and covers basic medical emergencies. Once you register in the BRP, switch to a Dutch zorgverzekering.
+If you're here for under 4 months and not registered in the BRP, you may use international travel insurance like [SafetyWing](https://go.expatnetherlandshub.com/safetywing) instead. SafetyWing offers monthly coverage from around €45, no long-term commitment, and covers basic medical emergencies. Once you register in the BRP, switch to a Dutch zorgverzekering.
 
 ### Required documents
 - BSN
@@ -360,7 +360,7 @@ Application takes 6–12 weeks for Belastingdienst approval. Retroactive payment
 
 ### Energy (gas + electricity)
 
-The Dutch energy market was liberalised — you can choose any supplier. Use [Independer Energie](/go/independer-energie) to compare based on your postcode and estimated usage.
+The Dutch energy market was liberalised — you can choose any supplier. Use [Independer Energie](https://go.expatnetherlandshub.com/independer-energie) to compare based on your postcode and estimated usage.
 
 **Typical usage estimates:**
 - Studio apartment: 1,200 kWh electricity + 600 m³ gas/year
@@ -373,7 +373,7 @@ The Dutch energy market was liberalised — you can choose any supplier. Use [In
 
 ### Internet
 
-Use [Independer Internet](/go/independer-internet) to compare fibre (glasvezel) vs cable (kabel) options by postcode.
+Use [Independer Internet](https://go.expatnetherlandshub.com/independer-internet) to compare fibre (glasvezel) vs cable (kabel) options by postcode.
 
 | Provider | Type | Speed | Price |
 |----------|------|-------|-------|
@@ -386,7 +386,7 @@ Fibre is available in most urban areas. If your apartment is not yet connected, 
 
 ### Mobile phone
 
-Use [Independer Telecom](/go/independer-telecom) to compare SIM-only plans.
+Use [Independer Telecom](https://go.expatnetherlandshub.com/independer-telecom) to compare SIM-only plans.
 
 Dutch mobile plans are comparatively cheap. A good SIM-only plan with 20GB data runs €10–€20/month. Most expats use:
 - Odido (formerly T-Mobile)
@@ -398,7 +398,7 @@ Bring your foreign phone — the Netherlands has no SIM locking regulations. eSI
 
 ### Auto insurance (if you drive)
 
-If you own or lease a car in the Netherlands, third-party liability (WA) insurance is mandatory. Compare with [Independer Auto](/go/independer-auto).
+If you own or lease a car in the Netherlands, third-party liability (WA) insurance is mandatory. Compare with [Independer Auto](https://go.expatnetherlandshub.com/independer-auto).
 
 ### Required documents for utilities
 - BSN (most suppliers ask for this)
@@ -479,8 +479,8 @@ Check your permit type via IND.nl or ask your employer's HR department.
 Even if integration is not mandatory for you, I strongly recommend learning Dutch. It changes everything: making local friends, navigating bureaucracy, job opportunities, and simply feeling at home.
 
 My top picks:
-- **[Preply](/go/preply)** — One-on-one tutoring with Dutch tutors, flexible scheduling, excellent for fast conversational progress
-- **[Mondly](/go/mondly)** — App-based learning, great for vocabulary and daily practice, affordable monthly subscription
+- **[Preply](https://go.expatnetherlandshub.com/preply)** — One-on-one tutoring with Dutch tutors, flexible scheduling, excellent for fast conversational progress
+- **[Mondly](https://go.expatnetherlandshub.com/mondly)** — App-based learning, great for vocabulary and daily practice, affordable monthly subscription
 - Group courses through ROC (Regional Training Centres) — subsidised, good for integration points
 - Language exchanges (taalmaatje) — free, offered by most municipalities
 
@@ -682,17 +682,17 @@ The practical stuff is manageable. The hardest part of expat life is the social 
 | Step | Recommended Service | Link |
 |------|--------------------|----|
 | Step 2: BSN | BSN Registration Guide | [Read guide](/guides/legal/expat-bsn-application-guide-2026/) |
-| Step 3: Banking | Wise (international transfers) | [/go/wise](/go/wise) |
-| Step 3: Banking | Revolut (travel spending) | [/go/revolut](/go/revolut) |
-| Step 4: Health insurance | Independer Zorgverzekering | [/go/independer-zorg](/go/independer-zorg) |
-| Step 4: Short-stay insurance | SafetyWing | [/go/safetywing](/go/safetywing) |
-| Step 7: Energy comparison | Independer Energie | [/go/independer-energie](/go/independer-energie) |
-| Step 7: Internet comparison | Independer Internet | [/go/independer-internet](/go/independer-internet) |
-| Step 7: Mobile comparison | Independer Telecom | [/go/independer-telecom](/go/independer-telecom) |
-| Step 7: Car insurance | Independer Auto | [/go/independer-auto](/go/independer-auto) |
-| Step 9: Dutch tutoring | Preply | [/go/preply](/go/preply) |
-| Step 9: Language app | Mondly | [/go/mondly](/go/mondly) |
-| Security | NordVPN | [/go/nordvpn](/go/nordvpn) |
+| Step 3: Banking | Wise (international transfers) | [/go/wise](https://go.expatnetherlandshub.com/wise) |
+| Step 3: Banking | Revolut (travel spending) | [/go/revolut](https://go.expatnetherlandshub.com/revolut) |
+| Step 4: Health insurance | Independer Zorgverzekering | [/go/independer-zorg](https://go.expatnetherlandshub.com/independer-zorg) |
+| Step 4: Short-stay insurance | SafetyWing | [/go/safetywing](https://go.expatnetherlandshub.com/safetywing) |
+| Step 7: Energy comparison | Independer Energie | [/go/independer-energie](https://go.expatnetherlandshub.com/independer-energie) |
+| Step 7: Internet comparison | Independer Internet | [/go/independer-internet](https://go.expatnetherlandshub.com/independer-internet) |
+| Step 7: Mobile comparison | Independer Telecom | [/go/independer-telecom](https://go.expatnetherlandshub.com/independer-telecom) |
+| Step 7: Car insurance | Independer Auto | [/go/independer-auto](https://go.expatnetherlandshub.com/independer-auto) |
+| Step 9: Dutch tutoring | Preply | [/go/preply](https://go.expatnetherlandshub.com/preply) |
+| Step 9: Language app | Mondly | [/go/mondly](https://go.expatnetherlandshub.com/mondly) |
+| Security | NordVPN | [/go/nordvpn](https://go.expatnetherlandshub.com/nordvpn) |
 | Tools | 30% Ruling Calculator | [/tools/30-percent-ruling-calculator/](/tools/30-percent-ruling-calculator/) |
 | Tools | Net Salary Calculator | [/tools/salary-checker/](/tools/salary-checker/) |
 | Tools | Health Insurance Wizard | [/tools/health-insurance-wizard/](/tools/health-insurance-wizard/) |

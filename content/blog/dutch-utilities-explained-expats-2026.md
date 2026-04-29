@@ -327,6 +327,6 @@ Switching is handled almost entirely by your new supplier — you sign up online
 - [Buying second-hand in the Netherlands](/blog/buying-second-hand-netherlands-guide-2026/)
 - [Dutch customs and birthday traditions explained](/guides/daily-life/dutch-customs-birthday-traditions-expats-2026/)
 
-<a href="/go/wise" class="cta-affiliate" rel="sponsored noopener">Try Wise</a>
+<a href="https://go.expatnetherlandshub.com/wise" class="cta-affiliate" rel="sponsored noopener">Try Wise</a>
 
-Or compare internet and energy providers: <a href="/go/independer-internet" class="cta-affiliate" rel="sponsored noopener">Compare Internet Plans at Independer</a>
+Or compare internet and energy providers: <a href="https://go.expatnetherlandshub.com/independer-internet" class="cta-affiliate" rel="sponsored noopener">Compare Internet Plans at Independer</a>

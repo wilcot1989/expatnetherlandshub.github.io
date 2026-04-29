@@ -258,4 +258,4 @@ You have every right to be in this housing market. You have every right to be tr
 
 *Have you encountered housing discrimination in the Netherlands? I would like to hear about your experience — what happened, what you did, and whether the complaint process helped. Sharing these experiences helps other expats know what to expect and what to do.*
 
-<a href="/go/wise" class="cta-affiliate" rel="sponsored noopener">Try Wise</a>
+<a href="https://go.expatnetherlandshub.com/wise" class="cta-affiliate" rel="sponsored noopener">Try Wise</a>

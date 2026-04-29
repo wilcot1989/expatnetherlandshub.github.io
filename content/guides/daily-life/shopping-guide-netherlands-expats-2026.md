@@ -293,4 +293,4 @@ Coolblue's website and app are currently available in Dutch only, though their c
 
 Marktplaats is the fastest route — set up an account before you arrive, configure location and search alerts for the items you need, and start messaging sellers from day one. Be ready to move fast on good listings as competition can be high in the Randstad. For items you need immediately and Marktplaats cannot supply quickly, kringloopwinkels and IKEA (with same-day in-store purchase and transport arranged through services like BringBee) are the fastest alternatives.
 
-<a href="/go/wise" class="cta-affiliate" rel="sponsored noopener">Try Wise</a>
+<a href="https://go.expatnetherlandshub.com/wise" class="cta-affiliate" rel="sponsored noopener">Try Wise</a>

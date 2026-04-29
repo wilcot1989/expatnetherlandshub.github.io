@@ -341,9 +341,9 @@ The transition to a new school in a new country is a significant life event for 
 
 
 
-<a href="/go/wise" class="cta-affiliate" rel="sponsored noopener">Try Wise</a>
+<a href="https://go.expatnetherlandshub.com/wise" class="cta-affiliate" rel="sponsored noopener">Try Wise</a>
 
-Also make sure your family has Dutch health insurance sorted: <a href="/go/independer-zorg" class="cta-affiliate" rel="sponsored noopener">Compare Health Insurance at Independer</a>
+Also make sure your family has Dutch health insurance sorted: <a href="https://go.expatnetherlandshub.com/independer-zorg" class="cta-affiliate" rel="sponsored noopener">Compare Health Insurance at Independer</a>
 
 ## Related Guides
 

@@ -391,6 +391,6 @@ For expats planning to stay long-term, reaching B2 or C1 significantly changes y
 
 After passing the inburgering exam, continuing language development through NT2 (Dutch as a second language) courses, language exchange partnerships, or immersive social participation is worth investing in. The [best Dutch language courses guide](/guides/integration/best-dutch-language-courses-2026/) covers post-inburgering options at B2 and C1 level.
 
-<a href="/go/preply" class="cta-affiliate" rel="sponsored noopener">Try Preply</a>
+<a href="https://go.expatnetherlandshub.com/preply" class="cta-affiliate" rel="sponsored noopener">Try Preply</a>
 
-Or practice Dutch on your own schedule with a language app: <a href="/go/mondly" class="cta-affiliate" rel="sponsored noopener">Learn Dutch with Mondly</a>
+Or practice Dutch on your own schedule with a language app: <a href="https://go.expatnetherlandshub.com/mondly" class="cta-affiliate" rel="sponsored noopener">Learn Dutch with Mondly</a>

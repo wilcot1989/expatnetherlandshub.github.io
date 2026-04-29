@@ -299,4 +299,4 @@ This is not a reason to be put off — it is actually a quality. Showing up cons
 
 For all the integration resources covered in these guides, the [complete moving to Netherlands guide](/guides/legal/complete-guide-moving-to-netherlands-2026/) is the starting point for the practical admin, and the [Dutch culture guide](/guides/integration/dutch-culture-humor-directness-explained-2026/) explains the social norms that make volunteering and social integration easier once you understand them. If you are also looking for paid employment alongside volunteering, the [job search guide for expats](/guides/work/job-hunting-netherlands-expats-2026/) covers the Dutch recruitment process, CV standards, and how Dutch employers evaluate international applicants. The network you build through volunteering can complement your professional job search in ways that are genuinely useful over time.
 
-<a href="/go/wise" class="cta-affiliate" rel="sponsored noopener">Try Wise</a>
+<a href="https://go.expatnetherlandshub.com/wise" class="cta-affiliate" rel="sponsored noopener">Try Wise</a>

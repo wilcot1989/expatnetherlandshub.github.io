@@ -330,9 +330,9 @@ If you have just arrived in the Netherlands and want to start investing sensibly
 
 
 
-<a href="/go/wise" class="cta-affiliate" rel="sponsored noopener">Try Wise</a>
+<a href="https://go.expatnetherlandshub.com/wise" class="cta-affiliate" rel="sponsored noopener">Try Wise</a>
 
-Also protect your finances while living abroad: <a href="/go/safetywing" class="cta-affiliate" rel="sponsored noopener">Get Expat Coverage with SafetyWing</a>
+Also protect your finances while living abroad: <a href="https://go.expatnetherlandshub.com/safetywing" class="cta-affiliate" rel="sponsored noopener">Get Expat Coverage with SafetyWing</a>
 
 ## Related Guides
 

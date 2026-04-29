@@ -280,6 +280,6 @@ Beyond the high-level directness and egalitarianism, a few specific Dutch social
 
 **Cycling culture as social code:** The bicycle is not just transport in the Netherlands — it is identity. Cycling etiquette matters: ring your bell to signal, do not walk in the fietspad (bike lane), and do not chain your bike to spots where it obstructs pedestrians. Getting these wrong marks you as a newcomer. Getting them right signals that you respect how the city works.
 
-<a href="/go/preply" class="cta-affiliate" rel="sponsored noopener">Try Preply</a>
+<a href="https://go.expatnetherlandshub.com/preply" class="cta-affiliate" rel="sponsored noopener">Try Preply</a>
 
-Or pick up Dutch vocabulary on the go: <a href="/go/mondly" class="cta-affiliate" rel="sponsored noopener">Learn Dutch with Mondly</a>
+Or pick up Dutch vocabulary on the go: <a href="https://go.expatnetherlandshub.com/mondly" class="cta-affiliate" rel="sponsored noopener">Learn Dutch with Mondly</a>

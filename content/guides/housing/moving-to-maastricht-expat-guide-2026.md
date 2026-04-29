@@ -313,4 +313,4 @@ Housing in Maastricht is more accessible than in the Randstad but still competit
 
 *Last updated: March 2026.*
 
-<a href="/go/preply" class="cta-affiliate" rel="sponsored noopener">Try Preply</a>
+<a href="https://go.expatnetherlandshub.com/preply" class="cta-affiliate" rel="sponsored noopener">Try Preply</a>

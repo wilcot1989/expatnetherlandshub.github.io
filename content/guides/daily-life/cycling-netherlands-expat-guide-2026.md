@@ -331,7 +331,7 @@ The Netherlands is exceptionally bike-friendly for families:
 
 
 
-<a href="/go/wise" class="cta-affiliate" rel="sponsored noopener">Try Wise</a>
+<a href="https://go.expatnetherlandshub.com/wise" class="cta-affiliate" rel="sponsored noopener">Try Wise</a>
 
 ## Related Guides
 

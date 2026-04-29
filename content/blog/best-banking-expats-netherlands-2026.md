@@ -154,7 +154,7 @@ Wise is not a Dutch bank — it is a UK-licensed e-money institution with a Euro
 
 **Best for:** Day-one banking before BSN, international transfers permanently, expats who want a low-cost EUR account alongside a Dutch bank.
 
-**[Open a Wise account →](/go/wise)**
+**[Open a Wise account →](https://go.expatnetherlandshub.com/wise)**
 
 ---
 
@@ -166,7 +166,7 @@ Revolut is the most downloaded fintech in Europe, and for good reason: it does a
 
 **Best for:** Secondary card for travel and currency spending, not as a primary Dutch account.
 
-**[Open a Revolut account →](/go/revolut)**
+**[Open a Revolut account →](https://go.expatnetherlandshub.com/revolut)**
 
 ---
 

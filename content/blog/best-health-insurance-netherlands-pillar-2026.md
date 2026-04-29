@@ -33,11 +33,11 @@ faq:
     a: "OOM Verzekeringen (OOM stands for 'Onderlinge Waarborgmaatschappij', a mutual insurer model) is a fully licensed Dutch insurer regulated by De Nederlandsche Bank (DNB) and the AFM. It specifically positions itself for expats and internationals, offering English-language onboarding and support. OOM is not as widely known as Zilveren Kruis or CZ, but it is a legitimate, regulated insurer that has operated in the Netherlands for decades. Its premiums tend to be mid-range, and its English service quality is among the best available for expats who are not comfortable navigating Dutch-language insurance processes."
 products:
   - name: "Independer Zorgverzekering"
-    url: "/go/independer-zorg"
+    url: "https://go.expatnetherlandshub.com/independer-zorg"
     price: "0.00"
     tag: "Insurance Comparison"
   - name: "SafetyWing"
-    url: "/go/safetywing"
+    url: "https://go.expatnetherlandshub.com/safetywing"
     price: "0.00"
     tag: "Short-Stay Expat Insurance"
 ---
@@ -54,7 +54,7 @@ The Dutch health insurance system is genuinely well-designed. The basic package 
 
 But choosing wrong costs you real money — not just in premiums, but in the frustration tax of trying to manage claims in a language you do not speak with a company that did not expect international clients.
 
-This guide covers all ten major insurers in detail. It gives you a decision framework, a full comparison table, and clear top picks by expat situation. I use <a href="/go/independer-zorg" rel="noopener nofollow sponsored" class="cta-affiliate">Independer</a> to compare prices — it is free, covers all major insurers, and shows real-time 2026 premiums.
+This guide covers all ten major insurers in detail. It gives you a decision framework, a full comparison table, and clear top picks by expat situation. I use <a href="https://go.expatnetherlandshub.com/independer-zorg" rel="noopener nofollow sponsored" class="cta-affiliate">Independer</a> to compare prices — it is free, covers all major insurers, and shows real-time 2026 premiums.
 
 ---
 
@@ -128,7 +128,7 @@ Apply via the Belastingdienst using your DigiD. Many expats qualify in their fir
 Before going through all 10 insurers, use this decision tree to identify your category:
 
 **1. Are you here for less than 12 months and not yet BRP-registered?**
-→ Skip Dutch basisverzekering for now. Consider <a href="/go/safetywing" rel="noopener nofollow sponsored" class="cta-affiliate">SafetyWing</a> as a short-term portable alternative. Once you register, revisit this guide.
+→ Skip Dutch basisverzekering for now. Consider <a href="https://go.expatnetherlandshub.com/safetywing" rel="noopener nofollow sponsored" class="cta-affiliate">SafetyWing</a> as a short-term portable alternative. Once you register, revisit this guide.
 
 **2. Is English-language service your top priority?**
 → Shortlist: ONVZ, OOM Verzekeringen, Zilveren Kruis (International desk)
@@ -372,7 +372,7 @@ OOM (Onderlinge Waarborgmaatschappij) is a mutual insurer that has built its mod
 - Smaller provider network (though all major hospitals are contracted)
 - Less name recognition — some Dutch providers are unfamiliar with them
 
-**My verdict:** Excellent alternative to ONVZ for expats who want English-first service. Particularly useful if you are transitioning from an international health policy to Dutch basisverzekering — OOM can handle the transition seamlessly. Compare premium vs. ONVZ on <a href="/go/independer-zorg" rel="noopener nofollow sponsored" class="cta-affiliate">Independer</a> to see which is cheaper in your specific situation.
+**My verdict:** Excellent alternative to ONVZ for expats who want English-first service. Particularly useful if you are transitioning from an international health policy to Dutch basisverzekering — OOM can handle the transition seamlessly. Compare premium vs. ONVZ on <a href="https://go.expatnetherlandshub.com/independer-zorg" rel="noopener nofollow sponsored" class="cta-affiliate">Independer</a> to see which is cheaper in your specific situation.
 
 ---
 
@@ -380,7 +380,7 @@ OOM (Onderlinge Waarborgmaatschappij) is a mutual insurer that has built its mod
 
 **Note:** Independer is not an insurer — it is the Netherlands' leading insurance comparison platform. It displays premiums from all major insurers, including all nine above. Using Independer does not cost you anything and often surfaces promotions and collective rates that are not visible when going directly to an insurer's website.
 
-<a href="/go/independer-zorg" rel="noopener nofollow sponsored" class="cta-affiliate">Compare all Dutch health insurers on Independer →</a>
+<a href="https://go.expatnetherlandshub.com/independer-zorg" rel="noopener nofollow sponsored" class="cta-affiliate">Compare all Dutch health insurers on Independer →</a>
 
 ---
 
@@ -419,7 +419,7 @@ The largest insurer with the most comprehensive provider network, decent English
 
 ### Best for Short-Stay Expats (Pre-BRP Registration): SafetyWing
 
-If you are not yet BRP-registered and need coverage for the interim period, <a href="/go/safetywing" rel="noopener nofollow sponsored" class="cta-affiliate">SafetyWing</a> offers internationally portable health and travel insurance from €42/month. It is designed for expats and digital nomads, operates in English, and covers you across Europe including the Netherlands. Once you register in the BRP, you will need Dutch basisverzekering — but SafetyWing covers the gap.
+If you are not yet BRP-registered and need coverage for the interim period, <a href="https://go.expatnetherlandshub.com/safetywing" rel="noopener nofollow sponsored" class="cta-affiliate">SafetyWing</a> offers internationally portable health and travel insurance from €42/month. It is designed for expats and digital nomads, operates in English, and covers you across Europe including the Netherlands. Once you register in the BRP, you will need Dutch basisverzekering — but SafetyWing covers the gap.
 
 ### Best for Expats Already Comparing on Independer: Use the Collective Rate
 
@@ -444,7 +444,7 @@ However, the 30% ruling's **partial non-resident status** does affect your Box 3
 The switching window is 1 November – 31 December each year. Here is the process:
 
 **1. November: Compare current premiums**
-Visit <a href="/go/independer-zorg" rel="noopener nofollow sponsored" class="cta-affiliate">Independer</a> and compare your current insurer's new 2026 premium against alternatives. Note what supplementary packages you have and compare equivalents.
+Visit <a href="https://go.expatnetherlandshub.com/independer-zorg" rel="noopener nofollow sponsored" class="cta-affiliate">Independer</a> and compare your current insurer's new 2026 premium against alternatives. Note what supplementary packages you have and compare equivalents.
 
 **2. Before 31 December: Cancel your current policy**
 In practice, if you sign up with a new insurer by 31 December, they usually handle the cancellation notice to your current insurer automatically. But confirm this — some insurers require you to cancel directly.
@@ -496,7 +496,7 @@ Acupuncture, homeopathy, osteopathy, and similar therapies are covered under som
 ## Frequently Asked Questions
 
 **Is Dutch health insurance mandatory for expats?**
-Yes. BRP-registered residents must have basisverzekering within four months of registration. Use <a href="/go/independer-zorg" rel="noopener nofollow sponsored" class="cta-affiliate">Independer</a> to compare.
+Yes. BRP-registered residents must have basisverzekering within four months of registration. Use <a href="https://go.expatnetherlandshub.com/independer-zorg" rel="noopener nofollow sponsored" class="cta-affiliate">Independer</a> to compare.
 
 **What does Dutch basic health insurance cover?**
 GP visits, hospital care (after referral), specialist care, mental health, maternity, prescription medicines, physiotherapy (9 sessions), and ambulance transport. Dental for adults, glasses, and cosmetic care are excluded.
@@ -531,13 +531,13 @@ A fully licensed Dutch mutual insurer designed specifically for expats and inter
 
 The fastest and most complete way to compare Dutch health insurance in 2026:
 
-1. Visit <a href="/go/independer-zorg" rel="noopener nofollow sponsored" class="cta-affiliate">Independer</a> (free, no account required)
+1. Visit <a href="https://go.expatnetherlandshub.com/independer-zorg" rel="noopener nofollow sponsored" class="cta-affiliate">Independer</a> (free, no account required)
 2. Enter your age, postcode, and income level
 3. Select your preferred eigen risico level
 4. Compare basic and supplementary packages side by side
 5. Apply directly through Independer — coverage confirmation within minutes for most insurers
 
-For short-stay expats or those not yet BRP-registered, <a href="/go/safetywing" rel="noopener nofollow sponsored" class="cta-affiliate">SafetyWing</a> offers an internationally portable alternative from €42/month while you are sorting out your Dutch registration.
+For short-stay expats or those not yet BRP-registered, <a href="https://go.expatnetherlandshub.com/safetywing" rel="noopener nofollow sponsored" class="cta-affiliate">SafetyWing</a> offers an internationally portable alternative from €42/month while you are sorting out your Dutch registration.
 
 ---
 

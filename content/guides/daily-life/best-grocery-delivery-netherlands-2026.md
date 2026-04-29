@@ -531,4 +531,4 @@ One thing that surprises many new expats is how well-stocked Dutch supermarkets 
 
 For more practical guides on settling into Dutch daily life, read our articles on the [best internet providers](/guides/daily-life/best-internet-providers-netherlands-2026/), [cost of living](/guides/housing/cost-of-living-netherlands-2026/), and [best SIM cards for expats](/guides/daily-life/best-sim-card-netherlands-expats-2026/). If you're still figuring out your budget before arrival, our [cost of living guide](/guides/housing/cost-of-living-netherlands-2026/) breaks down what groceries, housing, and transport actually cost month to month. And once you've sorted your shopping routine, our [cycling guide](/guides/daily-life/cycling-netherlands-expat-guide-2026/) covers the other daily-life must-have in the Netherlands.
 
-<a href="/go/preply" class="cta-affiliate" rel="sponsored noopener">Try Preply</a>
+<a href="https://go.expatnetherlandshub.com/preply" class="cta-affiliate" rel="sponsored noopener">Try Preply</a>

@@ -328,6 +328,6 @@ The first 48–72 hours after losing your job are the most important for protect
 
 Getting these first steps right in the correct sequence matters more than it might seem. A late WW application — even by a day or two — can result in a deduction of your benefit. The Dutch system is structured, rule-based, and will apply those rules precisely, including to your disadvantage if you miss a deadline. Taking the 30 minutes on day one to apply via uwv.nl and register at werk.nl protects weeks of benefit income.
 
-<a href="/go/wise" class="cta-affiliate" rel="sponsored noopener">Try Wise</a>
+<a href="https://go.expatnetherlandshub.com/wise" class="cta-affiliate" rel="sponsored noopener">Try Wise</a>
 
-During this period, make sure your health coverage doesn't lapse: <a href="/go/independer-zorg" class="cta-affiliate" rel="sponsored noopener">Compare Health Insurance at Independer</a>
+During this period, make sure your health coverage doesn't lapse: <a href="https://go.expatnetherlandshub.com/independer-zorg" class="cta-affiliate" rel="sponsored noopener">Compare Health Insurance at Independer</a>

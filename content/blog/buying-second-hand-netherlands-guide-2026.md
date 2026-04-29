@@ -359,4 +359,4 @@ Yes, Vinted is very active in the Netherlands for clothing, shoes, and accessori
 - [Moving to the Netherlands with kids](/guides/daily-life/moving-to-netherlands-with-kids-school-guide-2026/)
 - [Dutch food and culture for expats](/guides/daily-life/dutch-food-culture-expats-2026/)
 
-<a href="/go/wise" class="cta-affiliate" rel="sponsored noopener">Try Wise</a>
+<a href="https://go.expatnetherlandshub.com/wise" class="cta-affiliate" rel="sponsored noopener">Try Wise</a>

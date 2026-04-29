@@ -317,6 +317,6 @@ You do not need to include date of birth, nationality, or marital status on a Du
 
 Be brief and honest. Dutch culture values direct, factual communication — a short explanation is better than omission (which invites speculation) or an elaborate justification (which sounds defensive). For a gap due to caring responsibilities, job searching, health, travel, or relocation: a one-line note in your work history such as 'Career break: family relocation and settling in the Netherlands (2023–2024)' is perfectly acceptable. Dutch employers are generally understanding of relocation periods. Gaps due to mental health, burnout (overspanning or burn-out is well understood and destigmatised in the Netherlands), or other personal reasons can be addressed briefly and honestly. You do not owe a detailed explanation on the CV itself; save the fuller context for the interview if relevant.
 
-<a href="/go/preply" class="cta-affiliate" rel="sponsored noopener">Try Preply</a>
+<a href="https://go.expatnetherlandshub.com/preply" class="cta-affiliate" rel="sponsored noopener">Try Preply</a>
 
-And polish your Dutch language skills to stand out in the job market: <a href="/go/mondly" class="cta-affiliate" rel="sponsored noopener">Learn Dutch with Mondly</a>
+And polish your Dutch language skills to stand out in the job market: <a href="https://go.expatnetherlandshub.com/mondly" class="cta-affiliate" rel="sponsored noopener">Learn Dutch with Mondly</a>

@@ -435,7 +435,7 @@ Your employer technically pays the income-related ZVW premium for you — but in
 
 **Choosing health insurance:** All Dutch residents must have at least the basic insurance (basisverzekering). You choose your insurer, and you can switch every year before January 1. Comparing insurers on Independer can save €200–400/year with identical base coverage.
 
-**[Compare health insurance on Independer →](/go/independer-zorg)**
+**[Compare health insurance on Independer →](https://go.expatnetherlandshub.com/independer-zorg)**
 
 ---
 
@@ -523,7 +523,7 @@ If you regularly send a portion of your Dutch salary to your home country, the t
 
 Over 12 months, using Wise instead of a Dutch bank saves approximately €180–360 on transfer fees alone.
 
-**[Open a Wise account →](/go/wise)**
+**[Open a Wise account →](https://go.expatnetherlandshub.com/wise)**
 
 ---
 

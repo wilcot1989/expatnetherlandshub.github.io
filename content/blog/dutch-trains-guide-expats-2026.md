@@ -325,4 +325,4 @@ Schiphol Airport has a direct NS train station below the arrivals hall (follow y
 
 NS operates three main service types. Intercity Direct (IC Direct) is the fastest service, running between major cities with few or no intermediate stops — Amsterdam to Rotterdam takes about 40 minutes. A supplement (toeslag) of around EUR 2.80 per journey is charged for Intercity Direct on the Amsterdam–Rotterdam route via the high-speed HSL track; you must either have a valid toeslag or use a subscription that includes it. Intercity (IC) trains stop at main stations between cities — Amsterdam to Rotterdam Intercity takes about 65 minutes but avoids the supplement. Sprinter trains are regional, stopping at every station along a line. They are cheaper and slower, appropriate for shorter local journeys.
 
-<a href="/go/wise" class="cta-affiliate" rel="sponsored noopener">Try Wise</a>
+<a href="https://go.expatnetherlandshub.com/wise" class="cta-affiliate" rel="sponsored noopener">Try Wise</a>

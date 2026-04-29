@@ -440,4 +440,4 @@ This means expat investors in the Netherlands can rebalance their portfolios whe
 
 *This article is for information purposes only and does not constitute financial advice. Consult a licensed financial advisor and a Dutch tax professional for advice specific to your situation.*
 
-<a href="/go/wise" class="cta-affiliate" rel="sponsored noopener">Try Wise</a>
+<a href="https://go.expatnetherlandshub.com/wise" class="cta-affiliate" rel="sponsored noopener">Try Wise</a>

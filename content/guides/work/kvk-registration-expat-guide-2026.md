@@ -498,4 +498,4 @@ The registration itself is genuinely one of the simpler parts of running a busin
 
 *Last updated: March 2026.*
 
-<a href="/go/wise" class="cta-affiliate" rel="sponsored noopener">Try Wise</a>
+<a href="https://go.expatnetherlandshub.com/wise" class="cta-affiliate" rel="sponsored noopener">Try Wise</a>
