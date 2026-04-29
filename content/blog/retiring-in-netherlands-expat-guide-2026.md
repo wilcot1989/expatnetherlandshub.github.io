@@ -226,7 +226,7 @@ If you are planning to move to the Netherlands to retire and are not yet residen
 
 For international health cover during a transition, or for retirees who split their time between the Netherlands and another country, international health insurance may be appropriate:
 
-<a href="https://go.expatnetherlandshub.com/safetywing?ref=/blog/retiring-in-netherlands-expat-guide-2026/" target="_blank" rel="noopener nofollow sponsored" class="cta-affiliate">SafetyWing international health insurance for expats →</a>
+<a href="https://go.expatnetherlandshub.com/safetywing?ref=/blog/retiring-in-netherlands-expat-guide-2026/" target="_blank" rel="nofollow noopener sponsored" class="cta-affiliate">SafetyWing international health insurance for expats →</a>
 
 For full international health cover for retirees with higher needs (chronic conditions, private hospital preference):
 

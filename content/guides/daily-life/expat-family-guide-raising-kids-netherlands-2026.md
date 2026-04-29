@@ -191,7 +191,7 @@ One of the most welcome surprises for expat parents is how the Dutch health syst
 
 The Dutch health insurance covers you in the Netherlands and within the EU for emergency treatment. For families who travel internationally — for holidays, to visit family, or for work — standard Dutch insurance leaves gaps. This is where an international travel health plan is useful.
 
-<a href="https://go.expatnetherlandshub.com/safetywing?ref=/guides/daily-life/expat-family-guide-raising-kids-netherlands-2026/" target="_blank" rel="noopener nofollow sponsored" class="cta-affiliate">Check SafetyWing family coverage →</a>
+<a href="https://go.expatnetherlandshub.com/safetywing?ref=/guides/daily-life/expat-family-guide-raising-kids-netherlands-2026/" target="_blank" rel="nofollow noopener sponsored" class="cta-affiliate">Check SafetyWing family coverage →</a>
 
 SafetyWing's Nomad Insurance covers families with children at a reasonable flat rate, including children under 10 at no extra charge. If you travel several times a year or have family abroad you visit regularly, it is worth comparing to what your Dutch insurer charges for international coverage top-ups.
 

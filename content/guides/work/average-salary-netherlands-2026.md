@@ -362,7 +362,7 @@ Many expats earning in euros send money back to family, repay loans, or maintain
 
 Wise transfers money using the real mid-market exchange rate with a small transparent fee (usually 0.4–0.8%). On a €1,000 monthly transfer, that difference often adds up to €20–€40 saved per month versus a traditional bank.
 
-<a href="https://go.expatnetherlandshub.com/wise?ref=/guides/work/average-salary-netherlands-2026/" target="_blank" rel="noopener nofollow sponsored" class="cta-affiliate">Try Wise for international transfers →</a>
+<a href="https://go.expatnetherlandshub.com/wise?ref=/guides/work/average-salary-netherlands-2026/" target="_blank" rel="nofollow noopener sponsored" class="cta-affiliate">Try Wise for international transfers →</a>
 
 Read my full [Wise review for expats in the Netherlands](/guides/finance/wise-review-expats-2026/) for a detailed breakdown of fees, supported currencies, and how it compares to Revolut.
 

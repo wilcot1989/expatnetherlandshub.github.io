@@ -329,4 +329,4 @@ The required level for the inburgering is **A2 Dutch** (on the CEFR scale), with
 
 Start early. Many families underestimate the time commitment required.
 
-<a href="https://go.expatnetherlandshub.com/preply" class="cta-affiliate" rel="sponsored noopener">Try Preply</a>
+<a href="https://go.expatnetherlandshub.com/preply" class="cta-affiliate" rel="nofollow noopener sponsored" target="_blank">Try Preply</a>

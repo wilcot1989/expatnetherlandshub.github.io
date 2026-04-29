@@ -144,7 +144,7 @@ The main platforms for used cars in the Netherlands:
 
 A pre-purchase inspection from an independent mechanic (typically €50-€150) is money well spent on any private purchase over €5,000.
 
-One practical tip: when researching used car listings late at night from a café or co-working space on public wifi, using a VPN protects your personal details when you are logged into accounts and comparing prices. <a href="https://go.expatnetherlandshub.com/nordvpn?ref=/guides/daily-life/how-to-buy-car-netherlands-expat-2026/" target="_blank" rel="noopener nofollow sponsored">NordVPN</a> is a solid option if you do not already use one — this is not specific to car buying, but worth mentioning for general security when handling financial transactions on unsecured networks.
+One practical tip: when researching used car listings late at night from a café or co-working space on public wifi, using a VPN protects your personal details when you are logged into accounts and comparing prices. <a href="https://go.expatnetherlandshub.com/nordvpn?ref=/guides/daily-life/how-to-buy-car-netherlands-expat-2026/" target="_blank" rel="nofollow noopener sponsored">NordVPN</a> is a solid option if you do not already use one — this is not specific to car buying, but worth mentioning for general security when handling financial transactions on unsecured networks.
 
 ## Importing a Car from Abroad
 

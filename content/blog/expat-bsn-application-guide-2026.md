@@ -211,7 +211,7 @@ For non-EU expats, the sequence matters: the IND (Immigratie en Naturalisatiedie
 
 Your first financial priority is a Dutch bank account. With a BSN, ABN AMRO, ING, and Bunq can process your application within a few business days. If you used Wise during the BSN waiting period (which I strongly recommend — it gives you a Dutch NL IBAN immediately with no BSN required), keep it as a backup account for international transfers.
 
-<a href="https://go.expatnetherlandshub.com/wise" rel="noopener nofollow sponsored" class="cta-affiliate">Open a Wise account for day-one NL banking while you wait for your BSN →</a>
+<a href="https://go.expatnetherlandshub.com/wise" rel="nofollow noopener sponsored" class="cta-affiliate" target="_blank">Open a Wise account for day-one NL banking while you wait for your BSN →</a>
 
 ### 2. Apply for DigiD
 
@@ -305,7 +305,7 @@ For detailed answers to common BSN questions, see the FAQ section above. The mos
 
 The fastest path for most expats is: book an appointment online before you board your flight, bring every document on the full list (including apostilled and translated versions if non-EU), and have a Wise account set up before you leave home so you have banking access from day one regardless of the BSN wait.
 
-<a href="https://go.expatnetherlandshub.com/wise" rel="noopener nofollow sponsored" class="cta-affiliate">Set up a Wise NL account before your flight — no BSN needed →</a>
+<a href="https://go.expatnetherlandshub.com/wise" rel="nofollow noopener sponsored" class="cta-affiliate" target="_blank">Set up a Wise NL account before your flight — no BSN needed →</a>
 
 ---
 

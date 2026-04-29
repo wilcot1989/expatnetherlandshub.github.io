@@ -95,7 +95,7 @@ This is the step most people skip, and it is the one that bites them.
 
 Dutch health insurance — the basisverzekering — requires a BSN to activate. You will not have a BSN until your gemeente appointment, which could be 4-6 weeks after arrival. In that gap, you are uninsured unless you arrange something specifically for this transitional period.
 
-My recommendation is <a href="https://go.expatnetherlandshub.com/safetywing?ref=/guides/legal/first-30-days-netherlands-expat-checklist-2026/" rel="noopener nofollow sponsored" class="cta-affiliate">SafetyWing Nomad Insurance</a>. It is a subscription-based travel and health insurance designed exactly for this situation: international relocations, gaps between policies, and the first weeks in a new country. It covers you for emergency medical care, hospitalisation, and medical evacuation. At roughly €40-60 per month for most adults, it is far cheaper than the risk of an uninsured A&E visit.
+My recommendation is <a href="https://go.expatnetherlandshub.com/safetywing?ref=/guides/legal/first-30-days-netherlands-expat-checklist-2026/" rel="nofollow noopener sponsored" class="cta-affiliate" target="_blank">SafetyWing Nomad Insurance</a>. It is a subscription-based travel and health insurance designed exactly for this situation: international relocations, gaps between policies, and the first weeks in a new country. It covers you for emergency medical care, hospitalisation, and medical evacuation. At roughly €40-60 per month for most adults, it is far cheaper than the risk of an uninsured A&E visit.
 
 Activate it from your home country before you fly, so the coverage starts on arrival day.
 
@@ -108,7 +108,7 @@ I have a detailed comparison of [SafetyWing vs Cigna for expat insurance](/guide
 
 ### Open a Wise Account for International Transfers
 
-Before you leave, open a <a href="https://go.expatnetherlandshub.com/wise?ref=/guides/legal/first-30-days-netherlands-expat-checklist-2026/" rel="noopener nofollow sponsored" class="cta-affiliate">Wise multi-currency account</a>. This is one of the most practically useful things you can do before your move, and it costs nothing to open.
+Before you leave, open a <a href="https://go.expatnetherlandshub.com/wise?ref=/guides/legal/first-30-days-netherlands-expat-checklist-2026/" rel="nofollow noopener sponsored" class="cta-affiliate" target="_blank">Wise multi-currency account</a>. This is one of the most practically useful things you can do before your move, and it costs nothing to open.
 
 Here is why it matters in those first weeks:
 
@@ -240,7 +240,7 @@ Dutch health insurance is mandatory. Every person legally residing and working i
 
 **How to compare and choose:**
 
-Use <a href="https://go.expatnetherlandshub.com/independer-zorg?ref=/guides/legal/first-30-days-netherlands-expat-checklist-2026/" rel="noopener nofollow sponsored" class="cta-affiliate">Independer's health insurance comparison tool</a> — it is the most widely used comparison platform in the Netherlands and shows all major insurers side by side. Filter by price, supplementary packages (tandarts/dental is the big one), and English-language customer service.
+Use <a href="https://go.expatnetherlandshub.com/independer-zorg?ref=/guides/legal/first-30-days-netherlands-expat-checklist-2026/" rel="nofollow noopener sponsored" class="cta-affiliate" target="_blank">Independer's health insurance comparison tool</a> — it is the most widely used comparison platform in the Netherlands and shows all major insurers side by side. Filter by price, supplementary packages (tandarts/dental is the big one), and English-language customer service.
 
 For a fuller picture of what to look for, read my [Dutch health insurance guide for expats](/guides/health/dutch-health-insurance-guide-expats-2026/), which covers the basisverzekering in detail, compares the main insurers, and explains the supplementary (aanvullende) packages worth adding.
 
@@ -289,7 +289,7 @@ Setup times vary. Most providers can install within 1-2 weeks, but some addresse
 
 My [best internet providers in the Netherlands guide](/guides/daily-life/best-internet-providers-netherlands-expats-2026/) covers speeds, pricing, contract terms, and English-language support for each provider.
 
-**A note on VPNs:** If you are working remotely or accessing services from your home country, a VPN is useful in the Netherlands. <a href="https://go.expatnetherlandshub.com/nordvpn?ref=/guides/legal/first-30-days-netherlands-expat-checklist-2026/" rel="noopener nofollow sponsored" class="cta-affiliate">NordVPN</a> is the one I use — reliable, fast, and easy to set up on all your devices.
+**A note on VPNs:** If you are working remotely or accessing services from your home country, a VPN is useful in the Netherlands. <a href="https://go.expatnetherlandshub.com/nordvpn?ref=/guides/legal/first-30-days-netherlands-expat-checklist-2026/" rel="nofollow noopener sponsored" class="cta-affiliate" target="_blank">NordVPN</a> is the one I use — reliable, fast, and easy to set up on all your devices.
 
 **Checklist:**
 - [ ] Order home internet connection

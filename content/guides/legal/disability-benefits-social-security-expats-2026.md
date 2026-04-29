@@ -286,4 +286,4 @@ Do not miss the 6-week deadlines — late bezwaar submissions are almost never a
 
 Being on WIA disability benefit does not automatically affect your residence permit if you are a highly skilled migrant or knowledge migrant. However, if your permit is linked to specific employment and that employment ends due to disability, your situation changes. Inform the IND promptly and seek specialist immigration legal advice — the interaction between disability, employment-linked permits, and Dutch social security law is complex and has case-specific outcomes.
 
-<a href="https://go.expatnetherlandshub.com/wise" class="cta-affiliate" rel="sponsored noopener">Try Wise</a>
+<a href="https://go.expatnetherlandshub.com/wise" class="cta-affiliate" rel="nofollow noopener sponsored" target="_blank">Try Wise</a>

@@ -240,7 +240,7 @@ Opening a Dutch bank account requires a BSN, a registered address, and sometimes
 
 For international transfers, using Wise significantly reduces costs compared to bank wire transfers. If you are managing money across multiple countries, a Wise multi-currency account is genuinely practical.
 
-<a href="https://go.expatnetherlandshub.com/wise?ref=/blog/netherlands-vs-japan-expats-2026/" rel="noopener nofollow sponsored" class="cta-affiliate">Open a Wise account — multi-currency banking for expats in the Netherlands or Japan</a>
+<a href="https://go.expatnetherlandshub.com/wise?ref=/blog/netherlands-vs-japan-expats-2026/" rel="nofollow noopener sponsored" class="cta-affiliate" target="_blank">Open a Wise account — multi-currency banking for expats in the Netherlands or Japan</a>
 
 ### Japan Banking
 Japanese banking remains relatively traditional. Opening a Japanese bank account as a foreigner has historically required a residence card and some patience. Japan Post Bank (Yucho) is accessible. Large banks including MUFG, SMBC, and Mizuho have English-language support but the processes are more paper-intensive than in the Netherlands.

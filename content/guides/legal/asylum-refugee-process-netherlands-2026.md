@@ -329,4 +329,4 @@ Several organisations specifically support refugees and status holders in the tr
 
 If you have professional qualifications from your home country, contact UAF early — the credential recognition process takes time and starting it promptly avoids delays in your career. The NUFFIC (Netherlands Universities of Applied Sciences) handles formal diploma recognition, and their "Comparability Tool" online gives you an initial indication of how your qualifications compare to Dutch equivalents. For regulated professions — medicine, law, engineering — a formal recognition procedure through the relevant professional body (BIG register for healthcare, for example) is required before you can practise. Start this process within the first three months of receiving your residence permit, not after you have already spent a year in a role below your qualification level.
 
-<a href="https://go.expatnetherlandshub.com/wise" class="cta-affiliate" rel="sponsored noopener">Try Wise</a>
+<a href="https://go.expatnetherlandshub.com/wise" class="cta-affiliate" rel="nofollow noopener sponsored" target="_blank">Try Wise</a>

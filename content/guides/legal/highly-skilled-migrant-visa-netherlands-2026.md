@@ -177,15 +177,15 @@ Parents and other extended family members generally cannot join you under the hi
 
 Once you have your BSN and residence permit, complete these steps:
 
-- **Banking:** Open a Dutch account — use <a href="https://go.expatnetherlandshub.com/wise?ref=/guides/legal/highly-skilled-migrant-visa-netherlands-2026/" rel="noopener nofollow sponsored" target="_blank">Wise</a> for international transfers while waiting for your Dutch account. See our [best bank accounts guide](/guides/finance/best-bank-account-expats-netherlands-2026/).
+- **Banking:** Open a Dutch account — use <a href="https://go.expatnetherlandshub.com/wise?ref=/guides/legal/highly-skilled-migrant-visa-netherlands-2026/" rel="nofollow noopener sponsored" target="_blank">Wise</a> for international transfers while waiting for your Dutch account. See our [best bank accounts guide](/guides/finance/best-bank-account-expats-netherlands-2026/).
 
-- **Health insurance:** Compare and choose your plan. Use <a href="https://go.expatnetherlandshub.com/independer-zorg?ref=/guides/legal/highly-skilled-migrant-visa-netherlands-2026/" rel="noopener nofollow sponsored" target="_blank">Independer.nl</a> to compare Dutch health insurance plans. Read our [complete health insurance guide](/guides/health/dutch-health-insurance-guide-expats-2026/). If you are still in the gap period before your Dutch registration is finalised and you need temporary emergency medical coverage, <a href="https://go.expatnetherlandshub.com/safetywing?ref=/guides/legal/highly-skilled-migrant-visa-netherlands-2026/" rel="noopener nofollow sponsored" target="_blank">SafetyWing</a> offers affordable short-term cover from around $45/month — useful as a stop-gap, though it does not replace the Dutch basisverzekering you will be required to hold once you are registered.
+- **Health insurance:** Compare and choose your plan. Use <a href="https://go.expatnetherlandshub.com/independer-zorg?ref=/guides/legal/highly-skilled-migrant-visa-netherlands-2026/" rel="nofollow noopener sponsored" target="_blank">Independer.nl</a> to compare Dutch health insurance plans. Read our [complete health insurance guide](/guides/health/dutch-health-insurance-guide-expats-2026/). If you are still in the gap period before your Dutch registration is finalised and you need temporary emergency medical coverage, <a href="https://go.expatnetherlandshub.com/safetywing?ref=/guides/legal/highly-skilled-migrant-visa-netherlands-2026/" rel="nofollow noopener sponsored" target="_blank">SafetyWing</a> offers affordable short-term cover from around $45/month — useful as a stop-gap, though it does not replace the Dutch basisverzekering you will be required to hold once you are registered.
 
 - **Taxes:** Understand the [Dutch tax system](/guides/finance/dutch-tax-system-expats-guide-2026/) and make sure the 30% ruling is applied.
 
 - **Language:** Start learning Dutch early with one of the [best apps to learn Dutch](/guides/integration/best-apps-learn-dutch-2026/).
 
-<a href="https://go.expatnetherlandshub.com/wise?ref=/guides/legal/highly-skilled-migrant-visa-netherlands-2026/" class="cta-affiliate" rel="noopener nofollow sponsored" target="_blank">Open Your Free Wise Account — Send Money Internationally →</a>
+<a href="https://go.expatnetherlandshub.com/wise?ref=/guides/legal/highly-skilled-migrant-visa-netherlands-2026/" class="cta-affiliate" rel="nofollow noopener sponsored" target="_blank">Open Your Free Wise Account — Send Money Internationally →</a>
 
 ## IND Expat Centers
 

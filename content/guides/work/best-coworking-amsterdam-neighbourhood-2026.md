@@ -444,4 +444,4 @@ If you are new to Amsterdam and overwhelmed by the options, here is the decision
 **Step 5: Ask about the exit terms.** Monthly rolling contracts are standard in Amsterdam, but some operators require notice periods of up to 30 days. For expats with uncertain timelines, understanding exit terms before committing is important. WeWork and Spaces have online management; independent spaces may require more notice. Confirm in writing what notice is required before signing.
 - [Mindspace Amsterdam](https://www.mindspace.me/locations/amsterdam/)
 
-<a href="https://go.expatnetherlandshub.com/independer-internet" class="cta-affiliate" rel="sponsored noopener">Try Independer Internet</a>
+<a href="https://go.expatnetherlandshub.com/independer-internet" class="cta-affiliate" rel="nofollow noopener sponsored" target="_blank">Try Independer Internet</a>

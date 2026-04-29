@@ -260,4 +260,4 @@ If you are in the planning stages, start with the [housing budget checker](/tool
 
 Good luck with the move — I hope Breda turns out to be as good a decision for you as it has been for the people I have helped settle there.
 
-<a href="https://go.expatnetherlandshub.com/wise" class="cta-affiliate" rel="sponsored noopener">Try Wise</a>
+<a href="https://go.expatnetherlandshub.com/wise" class="cta-affiliate" rel="nofollow noopener sponsored" target="_blank">Try Wise</a>

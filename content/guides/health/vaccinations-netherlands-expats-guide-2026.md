@@ -157,7 +157,7 @@ Travel vaccinations are generally excluded from basic coverage. You pay these yo
 
 If you have international health insurance rather than Dutch basic insurance (for example, you are a recent arrival, an au pair, or a student on a short-term stay), check your policy's vaccination and preventive care section. Some international policies include a preventive care budget that covers recommended vaccinations.
 
-<a href="https://go.expatnetherlandshub.com/independer-zorg?ref=/guides/health/vaccinations-netherlands-expats-guide-2026/" rel="noopener nofollow sponsored" class="cta-affiliate">Compare Dutch health insurance options on Independer</a> to find a policy with supplementary coverage that suits your travel patterns. This is particularly relevant if you travel frequently to regions where travel vaccinations are recommended.
+<a href="https://go.expatnetherlandshub.com/independer-zorg?ref=/guides/health/vaccinations-netherlands-expats-guide-2026/" rel="nofollow noopener sponsored" class="cta-affiliate" target="_blank">Compare Dutch health insurance options on Independer</a> to find a policy with supplementary coverage that suits your travel patterns. This is particularly relevant if you travel frequently to regions where travel vaccinations are recommended.
 
 ---
 

@@ -291,4 +291,4 @@ The separation of church and state (scheiding van kerk en staat) is a constituti
 
 For expats coming from countries with state religions or state-controlled religious organisations, the Dutch framework can feel unusually open and unregulated — in a good way. Your faith community operates on its own terms, not at the discretion of a government ministry. If you want to establish a new religious community or register an existing one as a charity, the ANBI (Algemeen Nut Beogende Instelling) registration process through the Belastingdienst is the route to take — it enables tax-deductible donations and exempts the organisation from certain taxes. The process is straightforward and fully documented on the Belastingdienst website in Dutch, with English guidance available through legal advisors.
 
-<a href="https://go.expatnetherlandshub.com/wise" class="cta-affiliate" rel="sponsored noopener">Try Wise</a>
+<a href="https://go.expatnetherlandshub.com/wise" class="cta-affiliate" rel="nofollow noopener sponsored" target="_blank">Try Wise</a>

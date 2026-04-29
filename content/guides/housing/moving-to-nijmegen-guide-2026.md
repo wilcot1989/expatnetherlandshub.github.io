@@ -243,7 +243,7 @@ Our [Dutch health insurance guide](/guides/health/dutch-health-insurance-guide-e
 
 You cannot open most Dutch bank accounts without a BSN. Once you have it, the main options in Nijmegen are the major banks (ABN AMRO, ING, Rabobank, all with branches in the city) or a digital account. Many expats use a combination — a Dutch current account for local transactions and salaries, and **Wise** for international transfers and managing money across currencies.
 
-> **Wise for expats:** If you are sending money home, managing accounts in multiple currencies, or receiving a salary in euros while paying expenses abroad, Wise is one of the most cost-effective tools available. No hidden exchange rate markups, transparent fees, and direct integration with Dutch banking. <a href="https://go.expatnetherlandshub.com/wise?ref=/guides/housing/moving-to-nijmegen-guide-2026/" target="_blank" rel="noopener nofollow sponsored">Open a Wise account</a>.
+> **Wise for expats:** If you are sending money home, managing accounts in multiple currencies, or receiving a salary in euros while paying expenses abroad, Wise is one of the most cost-effective tools available. No hidden exchange rate markups, transparent fees, and direct integration with Dutch banking. <a href="https://go.expatnetherlandshub.com/wise?ref=/guides/housing/moving-to-nijmegen-guide-2026/" target="_blank" rel="nofollow noopener sponsored">Open a Wise account</a>.
 
 Our [best bank accounts for expats in the Netherlands guide](/guides/finance/best-bank-account-expats-netherlands-2026/) compares all the main options in detail.
 
@@ -307,7 +307,7 @@ The **Wylerbergmeer** and **Reichswald** forest on the German border (20 minutes
 
 1. Register at **Gemeente Nijmegen** (Mariënburg, city centre) — this gives you your BSN. Our [BSN registration guide](/guides/legal/bsn-registration-guide-2026/) explains exactly what to bring
 2. Arrange [health insurance](/guides/health/dutch-health-insurance-guide-expats-2026/) — mandatory, and you need to sort it within days of registration
-3. Open a bank account. You need your BSN first. Set up <a href="https://go.expatnetherlandshub.com/wise?ref=/guides/housing/moving-to-nijmegen-guide-2026/" target="_blank" rel="noopener nofollow sponsored">Wise</a> in parallel if you have overseas financial commitments
+3. Open a bank account. You need your BSN first. Set up <a href="https://go.expatnetherlandshub.com/wise?ref=/guides/housing/moving-to-nijmegen-guide-2026/" target="_blank" rel="nofollow noopener sponsored">Wise</a> in parallel if you have overseas financial commitments
 4. Buy a bike. This is not optional. The second-hand market is active around the university
 
 ### First Month

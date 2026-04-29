@@ -316,7 +316,7 @@ After ten years of helping expats sort out their insurance in the Netherlands, m
 
 If you need to find and compare Dutch basisverzekering options, Independer lets you compare all major Dutch insurers — premiums, coverage levels, and eigen risico options — in one place:
 
-<a href="https://go.expatnetherlandshub.com/independer-zorg?ref=/guides/health/onvz-vs-aetna-international-health-insurance-2026/" rel="noopener nofollow sponsored" target="_blank" class="cta-affiliate">Compare Dutch Health Insurance on Independer →</a>
+<a href="https://go.expatnetherlandshub.com/independer-zorg?ref=/guides/health/onvz-vs-aetna-international-health-insurance-2026/" rel="nofollow noopener sponsored" target="_blank" class="cta-affiliate">Compare Dutch Health Insurance on Independer →</a>
 
 **For expats who are exempt from the Dutch system — posted workers, international organisation staff, short-term assignees — ONVZ's international plans are the better choice if your life is primarily Netherlands-based.** They give you outstanding Dutch healthcare access, Dutch consumer protections, and competitive premiums. The Dutch-language service is a real limitation, but not an insurmountable one.
 
@@ -330,9 +330,9 @@ For a personalised recommendation based on your visa type, employer situation, a
 
 One question I get from expats who are between assignments, waiting for their Dutch registration to be processed, or taking a short working holiday before committing to the Dutch system: is there a cheaper option for temporary coverage?
 
-For purely temporary or travel-based coverage — not as a replacement for Dutch basisverzekering, which remains legally mandatory once you are a resident — <a href="https://go.expatnetherlandshub.com/safetywing?ref=/guides/health/onvz-vs-aetna-international-health-insurance-2026/" rel="noopener nofollow sponsored" target="_blank">SafetyWing Nomad Insurance</a> is worth knowing about. It is designed for digital nomads and internationally mobile people, and starts from around $45/month. It covers emergency medical care, hospitalisations, and evacuation, but it is explicitly travel insurance, not a regulated health plan. **It does not satisfy the Dutch legal requirement to hold basisverzekering.** Use it only for the gap period before you are legally required to enter the Dutch system, or as basic travel cover when you are temporarily outside the Netherlands.
+For purely temporary or travel-based coverage — not as a replacement for Dutch basisverzekering, which remains legally mandatory once you are a resident — <a href="https://go.expatnetherlandshub.com/safetywing?ref=/guides/health/onvz-vs-aetna-international-health-insurance-2026/" rel="nofollow noopener sponsored" target="_blank">SafetyWing Nomad Insurance</a> is worth knowing about. It is designed for digital nomads and internationally mobile people, and starts from around $45/month. It covers emergency medical care, hospitalisations, and evacuation, but it is explicitly travel insurance, not a regulated health plan. **It does not satisfy the Dutch legal requirement to hold basisverzekering.** Use it only for the gap period before you are legally required to enter the Dutch system, or as basic travel cover when you are temporarily outside the Netherlands.
 
-<a href="https://go.expatnetherlandshub.com/safetywing?ref=/guides/health/onvz-vs-aetna-international-health-insurance-2026/" rel="noopener nofollow sponsored" target="_blank">Get SafetyWing temporary coverage from $45/month →</a>
+<a href="https://go.expatnetherlandshub.com/safetywing?ref=/guides/health/onvz-vs-aetna-international-health-insurance-2026/" rel="nofollow noopener sponsored" target="_blank">Get SafetyWing temporary coverage from $45/month →</a>
 
 ---
 

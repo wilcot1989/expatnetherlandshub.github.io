@@ -341,7 +341,7 @@ The tandarts (dental) component is the most consistently valuable for expats. I 
 
 You can compare basisverzekering and aanvullende packages side by side on Independer:
 
-<a href="https://go.expatnetherlandshub.com/independer-zorg?ref=/guides/health/what-dutch-health-insurance-covers-2026/" target="_blank" rel="noopener nofollow sponsored" class="cta-affiliate">Compare Dutch health insurance on Independer →</a>
+<a href="https://go.expatnetherlandshub.com/independer-zorg?ref=/guides/health/what-dutch-health-insurance-covers-2026/" target="_blank" rel="nofollow noopener sponsored" class="cta-affiliate">Compare Dutch health insurance on Independer →</a>
 
 Independer lets you filter by what matters to you — dental coverage level, physio sessions, glasses budget — and shows you the total annual cost including premiums and eigen risico. I use it every November to check whether switching makes sense.
 
@@ -357,7 +357,7 @@ Make this a priority. You need your BSN before you can register for health insur
 
 While you are waiting to complete registration — if there is a gap between arriving and getting your BSN — temporary insurance from a provider like SafetyWing can cover you for unexpected medical costs in the meantime:
 
-<a href="https://go.expatnetherlandshub.com/safetywing?ref=/guides/health/what-dutch-health-insurance-covers-2026/" target="_blank" rel="noopener nofollow sponsored" class="cta-affiliate">Check SafetyWing for temporary coverage →</a>
+<a href="https://go.expatnetherlandshub.com/safetywing?ref=/guides/health/what-dutch-health-insurance-covers-2026/" target="_blank" rel="nofollow noopener sponsored" class="cta-affiliate">Check SafetyWing for temporary coverage →</a>
 
 ### Mental health: the waiting list reality
 

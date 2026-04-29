@@ -1167,7 +1167,7 @@ stepNum++, 'current', '&#127968;',
 cityHousingTips[city] || cityHousingTips['other'],
 'What you will need to show at your BSN appointment',
 ['Rental contract signed by both tenant and landlord', 'Or: a landlord declaration (huurverklaring) if subletting'],
-`<a href="https://go.expatnetherlandshub.com/wise?ref=/tools/bsn-planner/index/" target="_blank" rel="noopener nofollow sponsored" class="cta-affiliate">Open a bank account before your BSN with Wise &rarr;</a>
+`<a href="https://go.expatnetherlandshub.com/wise?ref=/tools/bsn-planner/index/" target="_blank" rel="nofollow noopener sponsored" class="cta-affiliate">Open a bank account before your BSN with Wise &rarr;</a>
 <p style="font-size:.8rem;color:#6B7280;margin-top:6px;">Wise lets you send and receive money before you have a Dutch bank account — useful for paying a rental deposit.</p>`
 );
 }

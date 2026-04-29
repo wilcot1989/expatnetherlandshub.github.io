@@ -165,7 +165,7 @@ For expats, the key practical difference is the reimbursement model: in France y
 
 If you are moving between the two countries, have family on both sides, or travel frequently outside Europe, SafetyWing's international health insurance covers you across borders.
 
-<a href="https://go.expatnetherlandshub.com/safetywing?ref=/guides/integration/netherlands-vs-france-expats-2026/" target="_blank" rel="noopener nofollow sponsored" class="cta-affiliate">Get a SafetyWing Quote →</a>
+<a href="https://go.expatnetherlandshub.com/safetywing?ref=/guides/integration/netherlands-vs-france-expats-2026/" target="_blank" rel="nofollow noopener sponsored" class="cta-affiliate">Get a SafetyWing Quote →</a>
 
 ---
 
@@ -275,7 +275,7 @@ For expats with financial ties in both France and the Netherlands — or who are
 
 Wise gives you EUR, GBP, USD, and 40+ other currency accounts with real exchange rates. For expats moving between European countries or receiving income in multiple currencies, it handles the practical realities of cross-border finance better than most traditional banks.
 
-<a href="https://go.expatnetherlandshub.com/wise?ref=/guides/integration/netherlands-vs-france-expats-2026/" target="_blank" rel="noopener nofollow sponsored" class="cta-affiliate">Open a Wise Account →</a>
+<a href="https://go.expatnetherlandshub.com/wise?ref=/guides/integration/netherlands-vs-france-expats-2026/" target="_blank" rel="nofollow noopener sponsored" class="cta-affiliate">Open a Wise Account →</a>
 
 ---
 

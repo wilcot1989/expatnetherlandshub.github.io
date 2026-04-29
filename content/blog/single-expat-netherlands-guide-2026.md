@@ -294,6 +294,6 @@ After working with single expats for years and living this experience myself, th
 
 **Third, the Dutch will surprise you.** The reputation for reserve is real but misleading about the end result. Dutch people take longer to warm up, but once they do, you have a friend who will actually show up when you need them. I have found my Dutch friendships to be among the most reliable and direct I have ever had. The effort to get there is worth it.
 
-<a href="https://go.expatnetherlandshub.com/wise" class="cta-affiliate" rel="sponsored noopener">Try Wise</a>
+<a href="https://go.expatnetherlandshub.com/wise" class="cta-affiliate" rel="nofollow noopener sponsored" target="_blank">Try Wise</a>
 
-And make sure you have expat health coverage while you settle in: <a href="https://go.expatnetherlandshub.com/safetywing" class="cta-affiliate" rel="sponsored noopener">Get Expat Coverage with SafetyWing</a>
+And make sure you have expat health coverage while you settle in: <a href="https://go.expatnetherlandshub.com/safetywing" class="cta-affiliate" rel="nofollow noopener sponsored" target="_blank">Get Expat Coverage with SafetyWing</a>

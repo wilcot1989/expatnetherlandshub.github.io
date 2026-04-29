@@ -149,7 +149,7 @@ Wise is not a licensed bank under Dutch law — it holds an e-money licence — 
 
 The application is fully online, and Wise is significantly more tolerant of non-resident directors than Dutch banks — as long as the BV is legitimately registered with the KvK and the UBO register is complete.
 
-<a href="https://go.expatnetherlandshub.com/wise?ref=/guides/finance/non-resident-business-bank-account-netherlands-2026/" target="_blank" rel="noopener nofollow sponsored" class="cta-affiliate">Open Wise Business →</a>
+<a href="https://go.expatnetherlandshub.com/wise?ref=/guides/finance/non-resident-business-bank-account-netherlands-2026/" target="_blank" rel="nofollow noopener sponsored" class="cta-affiliate">Open Wise Business →</a>
 
 ---
 
@@ -292,7 +292,7 @@ Once the company is up and running and generating revenue, I would add a bunq Bu
 
 For more context on how Dutch business banking compares across different account types and user situations, the [bank account chooser tool](/tools/bank-account-chooser/) can help you narrow down the right option for your specific setup. If you are also considering Wise against other international transfer services, the [best international money transfer guide for the Netherlands](/guides/finance/best-international-money-transfer-netherlands-2026/) covers the main options side by side.
 
-<a href="https://go.expatnetherlandshub.com/wise?ref=/guides/finance/non-resident-business-bank-account-netherlands-2026/" target="_blank" rel="noopener nofollow sponsored" class="cta-affiliate">Open Wise Business →</a>
+<a href="https://go.expatnetherlandshub.com/wise?ref=/guides/finance/non-resident-business-bank-account-netherlands-2026/" target="_blank" rel="nofollow noopener sponsored" class="cta-affiliate">Open Wise Business →</a>
 
 ---
 

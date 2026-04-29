@@ -242,7 +242,7 @@ Practical example: you have £15,000 in a UK savings account (leftover from your
 
 This is not about Wise replacing your savings account — it is about using the right tool for each part of the job.
 
-<a href="https://go.expatnetherlandshub.com/wise?ref=/guides/finance/emergency-fund-netherlands-expats-2026/" target="_blank" rel="noopener nofollow sponsored">Transfer money with Wise at mid-market rates</a>
+<a href="https://go.expatnetherlandshub.com/wise?ref=/guides/finance/emergency-fund-netherlands-expats-2026/" target="_blank" rel="nofollow noopener sponsored">Transfer money with Wise at mid-market rates</a>
 
 ---
 
@@ -265,7 +265,7 @@ This is not about Wise replacing your savings account — it is about using the 
 - [Depositogarantiestelsel: Dutch deposit protection](https://www.toezicht.dnb.nl/en/3/1-50006.jsp)
 - [Raisin: Compare EU savings accounts](https://www.raisin.nl)
 - [bunq: Easy savings](https://www.bunq.com)
-- <a href="https://go.expatnetherlandshub.com/wise?ref=/guides/finance/emergency-fund-netherlands-expats-2026/" target="_blank" rel="noopener nofollow sponsored">Wise: International money transfers</a>
+- <a href="https://go.expatnetherlandshub.com/wise?ref=/guides/finance/emergency-fund-netherlands-expats-2026/" target="_blank" rel="nofollow noopener sponsored">Wise: International money transfers</a>
 - [AFM: Consumer guide to savings](https://www.afm.nl)
 - [Raad voor Rechtsbijstand: Legal aid for expats](https://www.rvr.org)
 

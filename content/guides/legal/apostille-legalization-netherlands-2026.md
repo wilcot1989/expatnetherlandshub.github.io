@@ -270,6 +270,6 @@ Bring or submit the original apostilled document (with translation if needed) to
 
 The IND is the most frequent requester of apostilled documents for expats. Their website specifies the exact documentation required for each permit type — always check the current requirements before submitting, as they are updated periodically.
 
-<a href="https://go.expatnetherlandshub.com/nordvpn" class="cta-affiliate" rel="sponsored noopener">Try Nordvpn</a>
+<a href="https://go.expatnetherlandshub.com/nordvpn" class="cta-affiliate" rel="nofollow noopener sponsored" target="_blank">Try Nordvpn</a>
 
-And manage your international finances securely while dealing with paperwork abroad: <a href="https://go.expatnetherlandshub.com/wise" class="cta-affiliate" rel="sponsored noopener">Try Wise for International Transfers</a>
+And manage your international finances securely while dealing with paperwork abroad: <a href="https://go.expatnetherlandshub.com/wise" class="cta-affiliate" rel="nofollow noopener sponsored" target="_blank">Try Wise for International Transfers</a>

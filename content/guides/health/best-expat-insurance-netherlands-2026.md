@@ -164,7 +164,7 @@ As an expat, you likely travel more than average — visiting home, exploring Eu
 
 For international travel insurance that works globally, SafetyWing Nomad Insurance offers flexible monthly coverage starting at $45/month — ideal for expats who travel frequently or work remotely. I personally keep a travel insurance policy active year-round because the Dutch basic health insurance has very limited coverage outside Europe, and a single emergency room visit in the United States can easily cost $10,000 or more without coverage.
 
-<a href="https://go.expatnetherlandshub.com/safetywing?ref=/guides/health/best-expat-insurance-netherlands-2026/" target="_blank" rel="noopener nofollow sponsored" class="cta-affiliate">Get SafetyWing Nomad Insurance from $45/month →</a>
+<a href="https://go.expatnetherlandshub.com/safetywing?ref=/guides/health/best-expat-insurance-netherlands-2026/" target="_blank" rel="nofollow noopener sponsored" class="cta-affiliate">Get SafetyWing Nomad Insurance from $45/month →</a>
 
 ## 5. Disability Insurance (Arbeidsongeschiktheidsverzekering) — For Self-Employed
 
@@ -221,7 +221,7 @@ Legal expenses insurance covers the cost of legal assistance in disputes. In the
 
 Compare health insurance options easily through Independer — the Netherlands' most popular comparison platform with English-language support.
 
-<a href="https://go.expatnetherlandshub.com/independer-zorg?ref=/guides/health/best-expat-insurance-netherlands-2026/" target="_blank" rel="noopener nofollow sponsored" class="cta-affiliate">Compare Dutch Health Insurance on Independer →</a>
+<a href="https://go.expatnetherlandshub.com/independer-zorg?ref=/guides/health/best-expat-insurance-netherlands-2026/" target="_blank" rel="nofollow noopener sponsored" class="cta-affiliate">Compare Dutch Health Insurance on Independer →</a>
 
 ## Common Mistakes Expats Make
 
@@ -397,7 +397,7 @@ The most common mistake expats make with home contents insurance is either not h
 
 **Cost:** Basic home contents coverage in the Netherlands starts from approximately €5–8/month for a typical furnished apartment, rising with coverage amount and location. Compare using Independer, which covers inboedelverzekering alongside health insurance.
 
-<a href="https://go.expatnetherlandshub.com/independer-inboedel?ref=/guides/health/best-expat-insurance-netherlands-2026/" rel="noopener nofollow sponsored" class="cta-affiliate">Compare home contents insurance on Independer</a>
+<a href="https://go.expatnetherlandshub.com/independer-inboedel?ref=/guides/health/best-expat-insurance-netherlands-2026/" rel="nofollow noopener sponsored" class="cta-affiliate" target="_blank">Compare home contents insurance on Independer</a>
 
 ---
 

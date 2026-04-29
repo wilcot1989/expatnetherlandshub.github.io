@@ -341,7 +341,7 @@ Job searching in a new country takes time — often three to six months for a pr
 
 **Wise** is the tool I use and recommend. It uses the real mid-market exchange rate with a small transparent fee — significantly cheaper than any high street bank for international transfers. If you are moving savings from your home country to cover your first months in the Netherlands, the difference between using Wise and your bank can be hundreds of euros on a meaningful sum.
 
-<a href="https://go.expatnetherlandshub.com/wise?ref=/blog/how-to-find-job-netherlands-expat-2026/" rel="noopener nofollow sponsored" class="cta-affiliate">Open a Wise account — real exchange rates, no hidden fees</a>
+<a href="https://go.expatnetherlandshub.com/wise?ref=/blog/how-to-find-job-netherlands-expat-2026/" rel="nofollow noopener sponsored" class="cta-affiliate" target="_blank">Open a Wise account — real exchange rates, no hidden fees</a>
 
 ---
 

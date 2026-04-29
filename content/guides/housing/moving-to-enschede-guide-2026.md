@@ -164,7 +164,7 @@ Register with a huisarts (GP) promptly after arrival. Good practices near the UT
 
 Major Dutch banks (ING, ABN AMRO, Rabobank) all have branches in Enschede. Opening a Dutch bank account requires your BSN, passport, and proof of address. Some expats use Wise as a holding account while waiting for a Dutch account to open.
 
-<a href="https://go.expatnetherlandshub.com/wise?ref=/guides/housing/moving-to-enschede-guide-2026/" target="_blank" rel="noopener nofollow sponsored">Open a Wise account</a> — useful for receiving salary internationally or sending money home while you set up your Dutch finances.
+<a href="https://go.expatnetherlandshub.com/wise?ref=/guides/housing/moving-to-enschede-guide-2026/" target="_blank" rel="nofollow noopener sponsored">Open a Wise account</a> — useful for receiving salary internationally or sending money home while you set up your Dutch finances.
 
 ### Finding Housing
 
@@ -326,7 +326,7 @@ The city has a clear industrial and design heritage — the textile industry tha
 - [Funda: Property portal](https://www.funda.nl)
 - [Kennispark Twente: Tech park jobs](https://www.kennispark.nl)
 - [FC Twente: Tickets and info](https://www.fctwente.nl)
-- <a href="https://go.expatnetherlandshub.com/wise?ref=/guides/housing/moving-to-enschede-guide-2026/" target="_blank" rel="noopener nofollow sponsored">Wise: Multi-currency account</a>
+- <a href="https://go.expatnetherlandshub.com/wise?ref=/guides/housing/moving-to-enschede-guide-2026/" target="_blank" rel="nofollow noopener sponsored">Wise: Multi-currency account</a>
 - [IamExpat: Enschede information](https://www.iamexpat.nl)
 - [Rijksmuseum Twenthe](https://www.rijksmuseum.nl/nl/rijksmuseum-twenthe)
 - [Twente Travel: Regional tourism](https://www.twente.travel)

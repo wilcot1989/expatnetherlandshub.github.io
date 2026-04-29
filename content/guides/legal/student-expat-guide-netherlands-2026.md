@@ -453,4 +453,4 @@ Good luck with your studies, and feel free to work through our [complete moving 
 
 *Affiliate disclosure: This article contains affiliate links to Wise, SafetyWing, and Kamernet. If you use these links to sign up, I may receive a small commission at no extra cost to you. I only recommend products I genuinely use and recommend to my own clients.*
 
-<a href="https://go.expatnetherlandshub.com/wise" class="cta-affiliate" rel="sponsored noopener">Try Wise</a>
+<a href="https://go.expatnetherlandshub.com/wise" class="cta-affiliate" rel="nofollow noopener sponsored" target="_blank">Try Wise</a>

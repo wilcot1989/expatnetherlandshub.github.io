@@ -337,6 +337,6 @@ Many expats file their return and then wonder what to expect. Here is what typic
 
 **Automatic pre-filling improvements:** Each year, the Belastingdienst pre-fills more data into your return — your employer's data from the jaaropgave, your bank's data, your DeGiro investment data, and more. The quality of pre-filling improves annually. However, pre-filled data can be wrong (particularly employer data in the first year, or if you switched employers). Always check before accepting pre-filled figures.
 
-<a href="https://go.expatnetherlandshub.com/wise" class="cta-affiliate" rel="sponsored noopener">Try Wise</a>
+<a href="https://go.expatnetherlandshub.com/wise" class="cta-affiliate" rel="nofollow noopener sponsored" target="_blank">Try Wise</a>
 
-And if you're a digital nomad or recent arrival, get your expat insurance sorted: <a href="https://go.expatnetherlandshub.com/safetywing" class="cta-affiliate" rel="sponsored noopener">Get Expat Coverage with SafetyWing</a>
+And if you're a digital nomad or recent arrival, get your expat insurance sorted: <a href="https://go.expatnetherlandshub.com/safetywing" class="cta-affiliate" rel="nofollow noopener sponsored" target="_blank">Get Expat Coverage with SafetyWing</a>

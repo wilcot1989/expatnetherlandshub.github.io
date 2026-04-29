@@ -106,11 +106,11 @@ For a full explanation of how OV travel works in the Netherlands, see the [OV-ch
 
 Moving to Rotterdam requires a few first steps. Here are the most important ones:
 
-**Open a bank account** — You'll need a Dutch bank account for rent, salary, and daily expenses. [Wise](https://go.expatnetherlandshub.com/wise?ref=/cities/rotterdam/) offers a multi-currency account that works from day one, even before your BSN arrives. <a href="https://go.expatnetherlandshub.com/wise?ref=/cities/rotterdam/" target="_blank" rel="noopener nofollow sponsored" class="cta-affiliate">Open a Wise account →</a>
+**Open a bank account** — You'll need a Dutch bank account for rent, salary, and daily expenses. [Wise](https://go.expatnetherlandshub.com/wise?ref=/cities/rotterdam/) offers a multi-currency account that works from day one, even before your BSN arrives. <a href="https://go.expatnetherlandshub.com/wise?ref=/cities/rotterdam/" target="_blank" rel="nofollow noopener sponsored" class="cta-affiliate">Open a Wise account →</a>
 
-**Get health insurance** — Dutch health insurance (zorgverzekering) is mandatory. Use [Independer](https://go.expatnetherlandshub.com/independer-zorg?ref=/cities/rotterdam/) to compare all Dutch health insurers in English. <a href="https://go.expatnetherlandshub.com/independer-zorg?ref=/cities/rotterdam/" target="_blank" rel="noopener nofollow sponsored" class="cta-affiliate">Compare health insurance →</a>
+**Get health insurance** — Dutch health insurance (zorgverzekering) is mandatory. Use [Independer](https://go.expatnetherlandshub.com/independer-zorg?ref=/cities/rotterdam/) to compare all Dutch health insurers in English. <a href="https://go.expatnetherlandshub.com/independer-zorg?ref=/cities/rotterdam/" target="_blank" rel="nofollow noopener sponsored" class="cta-affiliate">Compare health insurance →</a>
 
-**Consider expat insurance** — If you're still settling in or working remotely, [SafetyWing](https://go.expatnetherlandshub.com/safetywing?ref=/cities/rotterdam/) provides affordable global coverage from $45/month. <a href="https://go.expatnetherlandshub.com/safetywing?ref=/cities/rotterdam/" target="_blank" rel="noopener nofollow sponsored" class="cta-affiliate">Get SafetyWing coverage →</a>
+**Consider expat insurance** — If you're still settling in or working remotely, [SafetyWing](https://go.expatnetherlandshub.com/safetywing?ref=/cities/rotterdam/) provides affordable global coverage from $45/month. <a href="https://go.expatnetherlandshub.com/safetywing?ref=/cities/rotterdam/" target="_blank" rel="nofollow noopener sponsored" class="cta-affiliate">Get SafetyWing coverage →</a>
 
 **Compare banks** — Use the [Bank Account Comparison](/tools/bank-account-chooser/) to find the right Dutch bank for your situation.
 

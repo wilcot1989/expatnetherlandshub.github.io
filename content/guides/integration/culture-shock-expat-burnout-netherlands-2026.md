@@ -163,7 +163,7 @@ This was wrong. Reconnecting with familiar culture — your own language, your o
 
 The practical complication is that streaming services are geo-restricted. Your Netflix catalogue changes when you move countries. BBC iPlayer is UK-only. Many local news sites and streaming platforms from your home country block non-local IP addresses.
 
-A VPN solves this cleanly. <a href="https://go.expatnetherlandshub.com/nordvpn?ref=/guides/integration/culture-shock-expat-burnout-netherlands-2026/" target="_blank" rel="noopener nofollow sponsored" class="cta-affiliate">Get NordVPN — access your home streaming library from the Netherlands →</a>
+A VPN solves this cleanly. <a href="https://go.expatnetherlandshub.com/nordvpn?ref=/guides/integration/culture-shock-expat-burnout-netherlands-2026/" target="_blank" rel="nofollow noopener sponsored" class="cta-affiliate">Get NordVPN — access your home streaming library from the Netherlands →</a>
 
 I use NordVPN to access British content when I need an evening of familiar television, and I stopped feeling guilty about it. Comfort is not weakness. During a difficult adjustment period, being able to watch something in your native language, with your native cultural references, is genuinely restorative.
 

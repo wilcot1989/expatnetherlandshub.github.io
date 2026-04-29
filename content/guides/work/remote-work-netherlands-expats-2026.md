@@ -109,7 +109,7 @@ A VPN is not just for streaming — it has genuine work-related uses for expats:
 - **Accessing home country services:** Your home country bank, streaming accounts, or government portals may not work from a Dutch IP address.
 - **Privacy:** Dutch ISPs are subject to data retention requirements. A VPN adds a layer of privacy for sensitive work.
 
-<a href="https://go.expatnetherlandshub.com/nordvpn?ref=/guides/work/remote-work-netherlands-expats-2026/" target="_blank" rel="noopener nofollow sponsored" class="cta-affiliate">Protect your remote work connection with NordVPN →</a>
+<a href="https://go.expatnetherlandshub.com/nordvpn?ref=/guides/work/remote-work-netherlands-expats-2026/" target="_blank" rel="nofollow noopener sponsored" class="cta-affiliate">Protect your remote work connection with NordVPN →</a>
 
 NordVPN connects to 7,000+ servers across 118 countries, works on all devices simultaneously, and is one of the few VPNs that consistently maintains speed adequate for video calls and large file transfers.
 
@@ -192,7 +192,7 @@ Our [best coworking spaces guide](/guides/work/best-coworking-spaces-netherlands
 
 Many coworking spaces offer day passes (EUR 15-35/day) if you only need occasional access.
 
-**Security note:** Always use a VPN when working from coworking spaces. Shared networks — even well-managed ones — carry more risk than home networks. <a href="https://go.expatnetherlandshub.com/nordvpn?ref=/guides/work/remote-work-netherlands-expats-2026/" rel="noopener nofollow sponsored" target="_blank">NordVPN</a> takes 30 seconds to connect and covers up to 10 devices simultaneously.
+**Security note:** Always use a VPN when working from coworking spaces. Shared networks — even well-managed ones — carry more risk than home networks. <a href="https://go.expatnetherlandshub.com/nordvpn?ref=/guides/work/remote-work-netherlands-expats-2026/" rel="nofollow noopener sponsored" target="_blank">NordVPN</a> takes 30 seconds to connect and covers up to 10 devices simultaneously.
 
 ---
 
@@ -247,7 +247,7 @@ Remote work in the Netherlands is well-supported legally and practically. The th
 
 The one consistent recommendation I make to every remote-working expat: get a VPN, use it on every network that is not your home broadband, and make sure your home connection is genuinely fast enough. Those two things eliminate the majority of day-to-day remote work problems.
 
-<a href="https://go.expatnetherlandshub.com/nordvpn?ref=/guides/work/remote-work-netherlands-expats-2026/" target="_blank" rel="noopener nofollow sponsored" class="cta-affiliate">Get NordVPN for secure remote work in the Netherlands →</a>
+<a href="https://go.expatnetherlandshub.com/nordvpn?ref=/guides/work/remote-work-netherlands-expats-2026/" target="_blank" rel="nofollow noopener sponsored" class="cta-affiliate">Get NordVPN for secure remote work in the Netherlands →</a>
 
 ## Frequently Asked Questions
 

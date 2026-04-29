@@ -218,7 +218,7 @@ Contact your bank before your departure date and ask specifically about their no
 
 ### For transfers after leaving
 
-<a href="https://go.expatnetherlandshub.com/wise?ref=/guides/legal/dutch-deregistration-leaving-checklist-2026/" target="_blank" rel="noopener nofollow sponsored" class="cta-affiliate">Keep a Wise account for transfers after leaving →</a>
+<a href="https://go.expatnetherlandshub.com/wise?ref=/guides/legal/dutch-deregistration-leaving-checklist-2026/" target="_blank" rel="nofollow noopener sponsored" class="cta-affiliate">Keep a Wise account for transfers after leaving →</a>
 
 A Wise multi-currency account is useful here. You can hold a EUR balance and receive refunds or deposits from Dutch sources, then convert or transfer to your local currency as needed. I used this for over a year after leaving and it saved me considerable transfer fees compared to using my new local bank account for Dutch inflows.
 
@@ -348,7 +348,7 @@ Book your vet appointment at least 3–4 weeks before departure to allow time fo
 
 After leaving, you will still occasionally need to deal with Dutch government services — filing the M-biljet, checking pension statements, responding to tax correspondence. A VPN with a Dutch server makes this easier, as some Dutch government portals can behave oddly when accessed from foreign IP addresses.
 
-<a href="https://go.expatnetherlandshub.com/nordvpn?ref=/guides/legal/dutch-deregistration-leaving-checklist-2026/" target="_blank" rel="noopener nofollow sponsored" class="cta-affiliate">Access Dutch services abroad with NordVPN →</a>
+<a href="https://go.expatnetherlandshub.com/nordvpn?ref=/guides/legal/dutch-deregistration-leaving-checklist-2026/" target="_blank" rel="nofollow noopener sponsored" class="cta-affiliate">Access Dutch services abroad with NordVPN →</a>
 
 I use NordVPN for exactly this — connecting to a Dutch server when filing tax returns or checking belastingdienst.nl from abroad. It is particularly useful in the first year after leaving when the administrative tail is still active.
 

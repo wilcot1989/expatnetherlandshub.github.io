@@ -164,7 +164,7 @@ All applications go through **toeslagen.nl**, which requires DigiD.
 
 ### Checking Your Health Insurance
 
-Access **mijnverzekerdegegevens.nl** to verify your health insurance status, check your deductible usage, and see which care costs have been declared. Compare plans using <a href="https://go.expatnetherlandshub.com/independer-zorg?ref=/guides/legal/digid-guide-expats-2026/" rel="noopener nofollow sponsored" target="_blank">Independer.nl</a>. Read our [health insurance guide](/guides/health/dutch-health-insurance-guide-expats-2026/).
+Access **mijnverzekerdegegevens.nl** to verify your health insurance status, check your deductible usage, and see which care costs have been declared. Compare plans using <a href="https://go.expatnetherlandshub.com/independer-zorg?ref=/guides/legal/digid-guide-expats-2026/" rel="nofollow noopener sponsored" target="_blank">Independer.nl</a>. Read our [health insurance guide](/guides/health/dutch-health-insurance-guide-expats-2026/).
 
 ### MijnOverheid — Your Digital Mailbox
 

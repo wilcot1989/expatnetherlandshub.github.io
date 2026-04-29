@@ -283,4 +283,4 @@ Late birthday wishes in the Netherlands are entirely acceptable — just say "Ge
 
 It is still very much present in family and traditional social settings, particularly outside the major cities and among older generations. In Amsterdam and Rotterdam among younger international professionals, birthday formats are more varied (dinners, bar evenings, outdoor gatherings). But the circle is still very Dutch, still very common, and still worth understanding — because the first time you encounter it without preparation, it is genuinely bewildering.
 
-<a href="https://go.expatnetherlandshub.com/preply" class="cta-affiliate" rel="sponsored noopener">Try Preply</a>
+<a href="https://go.expatnetherlandshub.com/preply" class="cta-affiliate" rel="nofollow noopener sponsored" target="_blank">Try Preply</a>

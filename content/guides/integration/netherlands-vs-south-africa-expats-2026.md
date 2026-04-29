@@ -104,7 +104,7 @@ Over five years, the 30% ruling can add €25,000–47,000 to your take-home pay
 
 Use Wise to send money back to South Africa. At current rates, €1,000 converts to approximately R20,000–21,000. Wise charges 0.5–0.7% versus 2–4% at most banks — the difference is meaningful if you are remitting every month.
 
-<a href="https://go.expatnetherlandshub.com/wise?ref=/guides/integration/netherlands-vs-south-africa-expats-2026/" target="_blank" rel="noopener nofollow sponsored" class="cta-affiliate">Send money to South Africa with Wise →</a>
+<a href="https://go.expatnetherlandshub.com/wise?ref=/guides/integration/netherlands-vs-south-africa-expats-2026/" target="_blank" rel="nofollow noopener sponsored" class="cta-affiliate">Send money to South Africa with Wise →</a>
 
 ---
 
@@ -173,13 +173,13 @@ Your GP (huisarts) is your gatekeeper. Almost nothing happens without a GP refer
 
 Use Independer to compare Dutch health insurers in English and find the best price for your situation.
 
-<a href="https://go.expatnetherlandshub.com/independer-zorg?ref=/guides/integration/netherlands-vs-south-africa-expats-2026/" target="_blank" rel="noopener nofollow sponsored" class="cta-affiliate">Compare Dutch health insurance on Independer →</a>
+<a href="https://go.expatnetherlandshub.com/independer-zorg?ref=/guides/integration/netherlands-vs-south-africa-expats-2026/" target="_blank" rel="nofollow noopener sponsored" class="cta-affiliate">Compare Dutch health insurance on Independer →</a>
 
 ### Bridging Coverage: Before Your Dutch Insurance Kicks In
 
 If you are in the Netherlands before you have registered and arranged mandatory health insurance, you have a gap. SafetyWing's Nomad Insurance covers you globally for approximately $45/month and is a sensible bridge while you sort out your BSN and formal registration.
 
-<a href="https://go.expatnetherlandshub.com/safetywing?ref=/guides/integration/netherlands-vs-south-africa-expats-2026/" target="_blank" rel="noopener nofollow sponsored" class="cta-affiliate">Get SafetyWing bridging coverage →</a>
+<a href="https://go.expatnetherlandshub.com/safetywing?ref=/guides/integration/netherlands-vs-south-africa-expats-2026/" target="_blank" rel="nofollow noopener sponsored" class="cta-affiliate">Get SafetyWing bridging coverage →</a>
 
 ### South African Healthcare in Context
 

@@ -261,7 +261,7 @@ For a passive investor buying one or two ETFs every month and leaving them alone
 
 2. **Choose Custody over Basic** unless you have a specific reason not to. The extra EUR 1 per trade is insignificant for long-term investors.
 
-3. **Fund your account via SEPA bank transfer**. Deposit minimum is EUR 0.01 but practically you will want at least EUR 500–1,000 to make the first trade worthwhile relative to any spread costs. If you are transferring funds from a foreign bank account, use <a href="https://go.expatnetherlandshub.com/wise?ref=/blog/degiro-review-expats-netherlands-2026/" target="_blank" rel="noopener nofollow sponsored" class="cta-affiliate">Wise →</a> to get the real mid-market exchange rate — banks typically add a 2–4% markup on currency conversions that quietly erodes your investment before it even begins.
+3. **Fund your account via SEPA bank transfer**. Deposit minimum is EUR 0.01 but practically you will want at least EUR 500–1,000 to make the first trade worthwhile relative to any spread costs. If you are transferring funds from a foreign bank account, use <a href="https://go.expatnetherlandshub.com/wise?ref=/blog/degiro-review-expats-netherlands-2026/" target="_blank" rel="nofollow noopener sponsored" class="cta-affiliate">Wise →</a> to get the real mid-market exchange rate — banks typically add a 2–4% markup on currency conversions that quietly erodes your investment before it even begins.
 
 4. **Check the Core Selection list on the day you plan to trade**. DeGiro's free ETF list is updated periodically. Confirm your chosen ETF is still on the list before assuming the trade is free.
 
@@ -300,7 +300,7 @@ If you are an American, look at Interactive Brokers instead. If you want zero co
 
 Read my [full guide to investing as an expat in the Netherlands](/guides/finance/investing-netherlands-expats-2026/) for the broader context — platform choice is just one piece of the puzzle.
 
-<a href="https://go.expatnetherlandshub.com/wise?ref=/blog/degiro-review-expats-netherlands-2026/" target="_blank" rel="noopener nofollow sponsored" class="cta-affiliate">Open a Free Wise Account for Currency Transfers →</a>
+<a href="https://go.expatnetherlandshub.com/wise?ref=/blog/degiro-review-expats-netherlands-2026/" target="_blank" rel="nofollow noopener sponsored" class="cta-affiliate">Open a Free Wise Account for Currency Transfers →</a>
 
 ---
 

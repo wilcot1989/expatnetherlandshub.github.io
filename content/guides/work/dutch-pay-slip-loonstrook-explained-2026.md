@@ -248,7 +248,7 @@ If you spot a discrepancy, raise it with HR in writing and keep a copy. Payroll 
 
 One practical note for expats sending a portion of their net salary to family abroad or maintaining a bank account in another country: the exchange rate you receive at a high-street bank is almost never the mid-market rate. The spread can cost you €50–€100 per transfer on a regular remittance.
 
-<a href="https://go.expatnetherlandshub.com/wise?ref=/guides/work/dutch-pay-slip-loonstrook-explained-2026/" target="_blank" rel="noopener nofollow sponsored" class="cta-affiliate">Check real exchange rates with Wise →</a>
+<a href="https://go.expatnetherlandshub.com/wise?ref=/guides/work/dutch-pay-slip-loonstrook-explained-2026/" target="_blank" rel="nofollow noopener sponsored" class="cta-affiliate">Check real exchange rates with Wise →</a>
 
 Wise uses the mid-market rate with a transparent fee. On a regular monthly transfer, the difference compared with using your Dutch bank's standard international transfer can easily cover your monthly health insurance premium over the course of a year.
 

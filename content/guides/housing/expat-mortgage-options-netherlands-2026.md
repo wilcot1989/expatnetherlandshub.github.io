@@ -347,7 +347,7 @@ Contact the NHG foundation (nhg.nl) directly in a divorce situation — they hav
 
 If you are transferring savings from abroad for your down payment or additional costs, use Wise to get the real exchange rate. Banks typically add 2-5% in hidden markups on large transfers — on a €20,000 transfer, that could cost you €400-€1,000.
 
-<a href="https://go.expatnetherlandshub.com/wise?ref=/guides/housing/expat-mortgage-options-netherlands-2026/" target="_blank" rel="noopener nofollow sponsored" class="cta-affiliate">Transfer Your Down Payment with Wise →</a>
+<a href="https://go.expatnetherlandshub.com/wise?ref=/guides/housing/expat-mortgage-options-netherlands-2026/" target="_blank" rel="nofollow noopener sponsored" class="cta-affiliate">Transfer Your Down Payment with Wise →</a>
 
 ## Tools for Expat Buyers
 

@@ -167,7 +167,7 @@ For a detailed comparison of the main Dutch banks, see my [ING vs ABN AMRO compa
 
 ---
 
-<a href="https://go.expatnetherlandshub.com/wise?ref=/guides/finance/netherlands-for-american-expats-2026/" target="_blank" rel="noopener nofollow sponsored" class="cta-affiliate">Open a Wise account — no hidden fees, real exchange rate →</a>
+<a href="https://go.expatnetherlandshub.com/wise?ref=/guides/finance/netherlands-for-american-expats-2026/" target="_blank" rel="nofollow noopener sponsored" class="cta-affiliate">Open a Wise account — no hidden fees, real exchange rate →</a>
 
 ---
 
@@ -263,7 +263,7 @@ Some newly-arrived Americans use international health insurance (from providers 
 
 ---
 
-<a href="https://go.expatnetherlandshub.com/safetywing?ref=/guides/finance/netherlands-for-american-expats-2026/" target="_blank" rel="noopener nofollow sponsored" class="cta-affiliate">Get a SafetyWing Nomad Insurance quote — designed for people on the move →</a>
+<a href="https://go.expatnetherlandshub.com/safetywing?ref=/guides/finance/netherlands-for-american-expats-2026/" target="_blank" rel="nofollow noopener sponsored" class="cta-affiliate">Get a SafetyWing Nomad Insurance quote — designed for people on the move →</a>
 
 ---
 

@@ -55,7 +55,7 @@ This is not a footnote. It is the most important section in this article.
 
 If you are legally resident in the Netherlands and subject to Dutch social insurance rules — which includes the vast majority of employed workers, self-employed ZZP'ers, and registered residents — you are required by law to hold a Dutch basisverzekering (basic health insurance policy from a registered Dutch insurer).
 
-Neither <a href="https://go.expatnetherlandshub.com/safetywing?ref=/guides/health/safetywing-vs-cigna-expat-insurance-2026/" rel="noopener nofollow sponsored" target="_blank">SafetyWing</a> nor Cigna Global fulfils this legal requirement. They are international insurance products, not Dutch statutory health insurance. Using one of them as a substitute will leave you liable for fines from the CAK (Centraal Administratie Kantoor), which start at around EUR 500 and increase the longer you remain uninsured.
+Neither <a href="https://go.expatnetherlandshub.com/safetywing?ref=/guides/health/safetywing-vs-cigna-expat-insurance-2026/" rel="nofollow noopener sponsored" target="_blank">SafetyWing</a> nor Cigna Global fulfils this legal requirement. They are international insurance products, not Dutch statutory health insurance. Using one of them as a substitute will leave you liable for fines from the CAK (Centraal Administratie Kantoor), which start at around EUR 500 and increase the longer you remain uninsured.
 
 For a full explanation of how the Dutch health insurance system works and who is exempt, read the [Dutch health insurance guide for expats](/guides/health/dutch-health-insurance-guide-expats-2026/) — it covers the rules in detail, including the situations where you may legitimately be exempt (posted workers under an A1 certificate, diplomatic staff, employees of international organisations, and some short-stay visitors).
 
@@ -277,7 +277,7 @@ If you are still unsure which type of cover fits your specific situation, the [I
 
 SafetyWing and Cigna Global are both legitimate products — but they serve very different needs.
 
-<a href="https://go.expatnetherlandshub.com/safetywing?ref=/guides/health/safetywing-vs-cigna-expat-insurance-2026/" rel="noopener nofollow sponsored" target="_blank">SafetyWing</a> is affordable, flexible, and genuinely useful for the nomad or short-stay traveller who needs emergency coverage without committing to a long-term policy. It is not a health insurance plan. It will not cover your GP visits, your prescriptions, your mental health therapy, or your pregnancy. If you are living in the Netherlands as a registered resident, it is not a legal substitute for basisverzekering.
+<a href="https://go.expatnetherlandshub.com/safetywing?ref=/guides/health/safetywing-vs-cigna-expat-insurance-2026/" rel="nofollow noopener sponsored" target="_blank">SafetyWing</a> is affordable, flexible, and genuinely useful for the nomad or short-stay traveller who needs emergency coverage without committing to a long-term policy. It is not a health insurance plan. It will not cover your GP visits, your prescriptions, your mental health therapy, or your pregnancy. If you are living in the Netherlands as a registered resident, it is not a legal substitute for basisverzekering.
 
 Cigna Global is a proper international health insurance product with strong coverage, a good global network, and the customer service infrastructure to handle serious medical situations well. It is also expensive. For expats who are genuinely legally exempt from the Dutch system and want full-spectrum private coverage, it is one of the better options in the market.
 
@@ -285,7 +285,7 @@ For the majority of expats settling in the Netherlands — registering, getting 
 
 If you need to find and compare Dutch basisverzekering options, Independer lets you compare all major Dutch insurers in one place:
 
-<a href="https://go.expatnetherlandshub.com/independer-zorg?ref=/guides/health/safetywing-vs-cigna-expat-insurance-2026/" target="_blank" rel="noopener nofollow sponsored" class="cta-affiliate">Compare Dutch Health Insurance on Independer →</a>
+<a href="https://go.expatnetherlandshub.com/independer-zorg?ref=/guides/health/safetywing-vs-cigna-expat-insurance-2026/" target="_blank" rel="nofollow noopener sponsored" class="cta-affiliate">Compare Dutch Health Insurance on Independer →</a>
 
 Start with the [complete expat health insurance guide for the Netherlands](/guides/health/dutch-health-insurance-guide-expats-2026/) if you have not already. It will give you the full picture of what you are required to have, what you are entitled to, and where international products like SafetyWing and Cigna Global legitimately fit in.
 

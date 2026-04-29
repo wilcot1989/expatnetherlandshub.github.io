@@ -107,7 +107,7 @@ For a full guide to building your LinkedIn presence for the Dutch job market, se
 
 One practical note: if you are building a LinkedIn presence from public Wi-Fi at coworking spaces or networking events, protect your account activity with a VPN. Public networks at events and coworking spaces carry real security risks, and LinkedIn accounts with professional contact details are targets.
 
-<a href="https://go.expatnetherlandshub.com/nordvpn?ref=/guides/work/professional-networking-netherlands-expats-2026/" target="_blank" rel="noopener nofollow sponsored" class="cta-affiliate">Protect your professional online activity with NordVPN →</a>
+<a href="https://go.expatnetherlandshub.com/nordvpn?ref=/guides/work/professional-networking-netherlands-expats-2026/" target="_blank" rel="nofollow noopener sponsored" class="cta-affiliate">Protect your professional online activity with NordVPN →</a>
 
 NordVPN works across all devices — including your phone at events — and connects in under 30 seconds.
 

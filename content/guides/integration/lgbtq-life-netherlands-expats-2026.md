@@ -172,7 +172,7 @@ The caveat is the bluntness itself. Questions about your partner or family that 
 
 If you use work devices for any personal activity, including LGBTQ+ dating apps or community forums, it is worth protecting your digital privacy — especially in industries where client relationships and external reputation are scrutinised. Using a VPN keeps your browsing private even on shared or monitored networks.
 
-<a href="https://go.expatnetherlandshub.com/nordvpn?ref=/guides/integration/lgbtq-life-netherlands-expats-2026/" target="_blank" rel="noopener nofollow sponsored" class="cta-affiliate">Protect your privacy with NordVPN →</a>
+<a href="https://go.expatnetherlandshub.com/nordvpn?ref=/guides/integration/lgbtq-life-netherlands-expats-2026/" target="_blank" rel="nofollow noopener sponsored" class="cta-affiliate">Protect your privacy with NordVPN →</a>
 
 ---
 

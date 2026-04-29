@@ -263,7 +263,7 @@ I use DEGIRO for my main equity portfolio — specifically, I buy iShares Core M
 
 I looked seriously at Meesman when I started and I understand why many expats prefer it. If I were starting fresh with no investment experience, I might choose Meesman first.
 
-One thing both platforms have in common: if you are funding your investment account by transferring money from abroad, using <a href="https://go.expatnetherlandshub.com/wise?ref=/blog/meesman-vs-degiro-investing-2026/" target="_blank" rel="noopener nofollow sponsored" class="cta-affiliate">Wise →</a> for the currency conversion will save you noticeably more than transferring via your home bank — the exchange rate markup banks add quietly undermines your investment from the start.
+One thing both platforms have in common: if you are funding your investment account by transferring money from abroad, using <a href="https://go.expatnetherlandshub.com/wise?ref=/blog/meesman-vs-degiro-investing-2026/" target="_blank" rel="nofollow noopener sponsored" class="cta-affiliate">Wise →</a> for the currency conversion will save you noticeably more than transferring via your home bank — the exchange rate markup banks add quietly undermines your investment from the start.
 
 ## Internal Resources
 

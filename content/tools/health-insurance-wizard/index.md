@@ -1089,7 +1089,7 @@ grid-template-columns: 1fr;
 <div class="results-cta">
 <p>Ready to compare exact premiums and sign up? Use Independer to see live prices for all Dutch health insurers — in English.</p>
 <div class="cta-buttons">
-<a href="https://go.expatnetherlandshub.com/independer-zorg?ref=/tools/health-insurance-wizard/index/" target="_blank" rel="noopener nofollow sponsored" class="cta-affiliate">Compare all plans on Independer →</a>
+<a href="https://go.expatnetherlandshub.com/independer-zorg?ref=/tools/health-insurance-wizard/index/" target="_blank" rel="nofollow noopener sponsored" class="cta-affiliate">Compare all plans on Independer →</a>
 <a href="/guides/health/dutch-health-insurance-guide-expats-2026/" class="cta-internal">Read our full insurance guide →</a>
 </div>
 </div>

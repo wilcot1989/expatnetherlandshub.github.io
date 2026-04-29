@@ -535,7 +535,7 @@ You must register for a zorgverzekering within 4 months of starting work in the 
 <!-- CTA Bar -->
 <div class="cta-bar">
 <p>Compare all Dutch insurance policies and get instant quotes in one place.</p>
-<a href="https://go.expatnetherlandshub.com/independer-zorg?ref=/tools/insurance-chooser/index/" target="_blank" rel="noopener nofollow sponsored" class="cta-affiliate">Compare on Independer →</a>
+<a href="https://go.expatnetherlandshub.com/independer-zorg?ref=/tools/insurance-chooser/index/" target="_blank" rel="nofollow noopener sponsored" class="cta-affiliate">Compare on Independer →</a>
 <a href="/guides/health/best-expat-insurance-netherlands-2026/" class="cta-secondary">Read expat insurance guide →</a>
 </div>
 

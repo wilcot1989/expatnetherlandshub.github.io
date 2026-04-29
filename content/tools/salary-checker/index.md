@@ -1225,7 +1225,7 @@ Calculate your 30% ruling benefit <span class="cta-arrow">&rarr;</span>
 <a href="/guides/legal/highly-skilled-migrant-visa-netherlands-2026/" class="cta-affiliate secondary">
 Read the complete HSM visa guide <span class="cta-arrow">&rarr;</span>
 </a>
-<a href="https://go.expatnetherlandshub.com/wise?ref=/tools/salary-checker/index/" target="_blank" rel="noopener noreferrer" class="cta-affiliate secondary">
+<a href="https://go.expatnetherlandshub.com/wise?ref=/tools/salary-checker/index/" target="_blank" rel="nofollow noopener noreferrer sponsored" class="cta-affiliate secondary">
 Open a Dutch bank account with Wise <span class="cta-arrow">&rarr;</span>
 </a>
 `;

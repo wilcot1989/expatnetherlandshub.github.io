@@ -324,7 +324,7 @@ This guide has focused on dogs and cats, which cover the majority of expat pet r
 
 
 
-<a href="https://go.expatnetherlandshub.com/wise" class="cta-affiliate" rel="sponsored noopener">Try Wise</a>
+<a href="https://go.expatnetherlandshub.com/wise" class="cta-affiliate" rel="nofollow noopener sponsored" target="_blank">Try Wise</a>
 
 ## Related Guides
 

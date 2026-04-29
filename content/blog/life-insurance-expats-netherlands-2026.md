@@ -139,7 +139,7 @@ Be aware that advisers earn commission on insurance products. This doesn't mean 
 
 Comparison platforms like [Independer](https://go.expatnetherlandshub.com/independer-zorg?ref=/blog/life-insurance-expats-netherlands-2026/) allow you to compare insurance products in the Netherlands. Life insurance comparison is available alongside health insurance comparisons.
 
-<a href="https://go.expatnetherlandshub.com/independer-zorg?ref=/blog/life-insurance-expats-netherlands-2026/" rel="noopener nofollow sponsored" class="cta-affiliate">Compare Dutch insurance options on Independer</a>
+<a href="https://go.expatnetherlandshub.com/independer-zorg?ref=/blog/life-insurance-expats-netherlands-2026/" rel="nofollow noopener sponsored" class="cta-affiliate" target="_blank">Compare Dutch insurance options on Independer</a>
 
 These platforms are in Dutch, but the interfaces are manageable and many expats use them successfully. Entering your details will generate comparison quotes from multiple providers.
 

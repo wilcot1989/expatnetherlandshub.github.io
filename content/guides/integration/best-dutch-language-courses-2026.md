@@ -194,7 +194,7 @@ One-on-one tutoring is the fastest way to improve your spoken Dutch. These platf
 
 [Preply](https://go.expatnetherlandshub.com/preply?ref=/guides/integration/best-dutch-language-courses-2026/) is the best online tutoring option for expats who want structured, professional Dutch lessons from home. It is particularly valuable for exam preparation and for learners who need to work on specific skills like pronunciation or business Dutch. [Find a Dutch tutor on Preply](https://go.expatnetherlandshub.com/preply?ref=/guides/integration/best-dutch-language-courses-2026/).
 
-<a href="https://go.expatnetherlandshub.com/preply?ref=/guides/integration/best-dutch-language-courses-2026/" target="_blank" rel="noopener noreferrer" class="cta-affiliate">Find a Dutch tutor on Preply →</a>
+<a href="https://go.expatnetherlandshub.com/preply?ref=/guides/integration/best-dutch-language-courses-2026/" target="_blank" rel="nofollow noopener noreferrer sponsored" class="cta-affiliate">Find a Dutch tutor on Preply →</a>
 
 ---
 

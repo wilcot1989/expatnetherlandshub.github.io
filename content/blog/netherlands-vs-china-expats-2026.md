@@ -183,7 +183,7 @@ Most expats use a VPN to access blocked services. This is technically illegal in
 3. Have a backup VPN as a second option
 4. Accept that no VPN works 100% of the time in China
 
-<a href="https://go.expatnetherlandshub.com/nordvpn?ref=/blog/netherlands-vs-china-expats-2026/" rel="noopener nofollow sponsored" class="cta-affiliate">Get NordVPN — reliable obfuscated servers for use in restricted internet environments</a>
+<a href="https://go.expatnetherlandshub.com/nordvpn?ref=/blog/netherlands-vs-china-expats-2026/" rel="nofollow noopener sponsored" class="cta-affiliate" target="_blank">Get NordVPN — reliable obfuscated servers for use in restricted internet environments</a>
 
 In the Netherlands, there is no internet censorship. You can access everything. This sounds obvious but becomes very noticeable as a contrast if you have lived in China.
 
@@ -278,7 +278,7 @@ Bank transfers between euros and Chinese renminbi are consistently expensive at 
 
 One practical note: China has capital controls on outbound yuan transfers. There are limits on how much CNY can be moved out of China per year per individual (the basic limit is USD 50,000 equivalent annually). This is relevant for expats who have accumulated savings in China and want to repatriate them. Plan accordingly — large transfers out of China should be discussed with a financial adviser familiar with Chinese capital regulations.
 
-<a href="https://go.expatnetherlandshub.com/wise?ref=/blog/netherlands-vs-china-expats-2026/" rel="noopener nofollow sponsored" class="cta-affiliate">Send money between EUR and CNY — Wise mid-market rates, transparent fees</a>
+<a href="https://go.expatnetherlandshub.com/wise?ref=/blog/netherlands-vs-china-expats-2026/" rel="nofollow noopener sponsored" class="cta-affiliate" target="_blank">Send money between EUR and CNY — Wise mid-market rates, transparent fees</a>
 
 ---
 

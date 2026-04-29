@@ -169,7 +169,7 @@ Pimsleur is the best choice if you want to speak Dutch with confidence. It is pa
 
 ## 4. Mondly -- Best for Visual and Interactive Learners
 
-<a href="https://go.expatnetherlandshub.com/mondly?ref=/guides/integration/best-apps-learn-dutch-2026/" target="_blank" rel="noopener nofollow sponsored">Mondly</a> offers a visually polished experience with some modern features including augmented reality and chatbot conversations.
+<a href="https://go.expatnetherlandshub.com/mondly?ref=/guides/integration/best-apps-learn-dutch-2026/" target="_blank" rel="nofollow noopener sponsored">Mondly</a> offers a visually polished experience with some modern features including augmented reality and chatbot conversations.
 
 ### What Makes Mondly Stand Out
 
@@ -198,9 +198,9 @@ Mondly uses a conversation-first approach. Each lesson begins with a dialogue th
 
 ### Verdict
 
-Mondly is a good choice if you learn best through visual and interactive content. The chatbot and AR features add engagement that other apps lack. <a href="https://go.expatnetherlandshub.com/mondly?ref=/guides/integration/best-apps-learn-dutch-2026/" target="_blank" rel="noopener nofollow sponsored">Start learning Dutch with Mondly</a>.
+Mondly is a good choice if you learn best through visual and interactive content. The chatbot and AR features add engagement that other apps lack. <a href="https://go.expatnetherlandshub.com/mondly?ref=/guides/integration/best-apps-learn-dutch-2026/" target="_blank" rel="nofollow noopener sponsored">Start learning Dutch with Mondly</a>.
 
-<a href="https://go.expatnetherlandshub.com/mondly?ref=/guides/integration/best-apps-learn-dutch-2026/" target="_blank" rel="noopener nofollow sponsored" class="cta-affiliate">Try Mondly for Dutch →</a>
+<a href="https://go.expatnetherlandshub.com/mondly?ref=/guides/integration/best-apps-learn-dutch-2026/" target="_blank" rel="nofollow noopener sponsored" class="cta-affiliate">Try Mondly for Dutch →</a>
 
 ---
 
@@ -332,7 +332,7 @@ Based on my testing, here is the combination I recommend for expats learning Dut
 
 1. **[Pimsleur](https://www.pimsleur.com/)** during your commute (30 minutes per day, no screen required)
 2. **Duolingo** for 5-minute sessions during breaks (free)
-3. **<a href="https://go.expatnetherlandshub.com/mondly?ref=/guides/integration/best-apps-learn-dutch-2026/" target="_blank" rel="noopener nofollow sponsored">Mondly</a>** daily lesson reminders to maintain consistency
+3. **<a href="https://go.expatnetherlandshub.com/mondly?ref=/guides/integration/best-apps-learn-dutch-2026/" target="_blank" rel="nofollow noopener sponsored">Mondly</a>** daily lesson reminders to maintain consistency
 
 ---
 
@@ -364,7 +364,7 @@ If you are still in the planning stages of your move, check out our [complete gu
 
 For personalized speaking practice with a real Dutch tutor, Preply is an excellent complement to any of the apps above. Not sure whether Preply or italki is better for Dutch tutoring? Our [Preply vs italki comparison](/guides/integration/preply-vs-italki-dutch-lessons-2026/) breaks down the differences in tutor quality, pricing, and lesson format.
 
-<a href="https://go.expatnetherlandshub.com/preply?ref=/guides/integration/best-apps-learn-dutch-2026/" target="_blank" rel="noopener noreferrer" class="cta-affiliate">Book a Dutch lesson on Preply →</a>
+<a href="https://go.expatnetherlandshub.com/preply?ref=/guides/integration/best-apps-learn-dutch-2026/" target="_blank" rel="nofollow noopener noreferrer sponsored" class="cta-affiliate">Book a Dutch lesson on Preply →</a>
 
 ## The Dutch Language Barrier in the Netherlands: Why Apps Are Only Part of the Solution
 

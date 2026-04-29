@@ -352,4 +352,4 @@ First, do not sign anything immediately. You typically have time to consider you
 
 Holiday: the statutory minimum is 4 times your weekly working hours per year — for full-time employees (5 days/week), this is 20 days. Most Dutch employment contracts and CAOs provide 25 days. Unused holiday entitlement accumulates and must be paid out on termination. Sick leave: you are entitled to at least 70% of your salary during the first 2 years of illness — most employers pay 100% in the first year. Your employer cannot dismiss you during the first 2 years of illness (the 'opzijgingsverbod'). After 2 years of illness, a dismissal process may begin.
 
-<a href="https://go.expatnetherlandshub.com/wise" class="cta-affiliate" rel="sponsored noopener">Try Wise</a>
+<a href="https://go.expatnetherlandshub.com/wise" class="cta-affiliate" rel="nofollow noopener sponsored" target="_blank">Try Wise</a>

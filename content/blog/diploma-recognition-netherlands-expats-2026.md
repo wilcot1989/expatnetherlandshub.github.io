@@ -323,6 +323,6 @@ For expats working in regulated professions, the recognition pathway is more for
 
 **Accountants and financial professionals:** The Dutch financial sector has specific qualification requirements for certain roles (chartered accountants, registered controllers). The NBA (Nederlandse Beroepsorganisatie van Accountants) handles recognition of accountancy qualifications. For general finance roles, Dutch employers assess international qualifications directly.
 
-<a href="https://go.expatnetherlandshub.com/preply" class="cta-affiliate" rel="sponsored noopener">Try Preply</a>
+<a href="https://go.expatnetherlandshub.com/preply" class="cta-affiliate" rel="nofollow noopener sponsored" target="_blank">Try Preply</a>
 
-And start learning Dutch to strengthen your professional integration: <a href="https://go.expatnetherlandshub.com/mondly" class="cta-affiliate" rel="sponsored noopener">Learn Dutch with Mondly</a>
+And start learning Dutch to strengthen your professional integration: <a href="https://go.expatnetherlandshub.com/mondly" class="cta-affiliate" rel="nofollow noopener sponsored" target="_blank">Learn Dutch with Mondly</a>

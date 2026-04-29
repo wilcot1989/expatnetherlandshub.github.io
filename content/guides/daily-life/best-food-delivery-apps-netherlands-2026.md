@@ -381,4 +381,4 @@ A few things I have learned after years of using Dutch delivery apps that do not
 
 For a broader view of Dutch grocery shopping — including the physical supermarkets, specialty stores, and weekly markets that complement delivery — see the [complete guide to grocery shopping in the Netherlands for expats](/guides/daily-life/best-grocery-delivery-netherlands-2026/). And if you are still in the process of setting up your Dutch bank account for iDEAL payments, the [bank account guide](/guides/finance/best-bank-account-expats-netherlands-2026/) walks through which account to open first.
 
-<a href="https://go.expatnetherlandshub.com/wise" class="cta-affiliate" rel="sponsored noopener">Try Wise</a>
+<a href="https://go.expatnetherlandshub.com/wise" class="cta-affiliate" rel="nofollow noopener sponsored" target="_blank">Try Wise</a>

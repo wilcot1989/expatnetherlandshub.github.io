@@ -380,4 +380,4 @@ Yes, Funda covers both the rental (huur) and purchase (koop) markets. It is by f
 
 Neither Funda nor Pararius focuses primarily on room rentals or shared housing. For rooms and house-shares, <a href="https://ds1.nl/c/?si=447&li=26287&wi=418902&ws=&dl=" target="_blank" rel="noopener nofollow sponsored">Kamernet</a> and HousingAnywhere are more suitable. Funda and Pararius are both geared towards self-contained apartments and houses. If you are a student or looking for a room in a shared flat, start with <a href="https://ds1.nl/c/?si=447&li=26287&wi=418902&ws=&dl=" target="_blank" rel="noopener nofollow sponsored">Kamernet</a> or HousingAnywhere instead, and use Pararius once you are ready for your own place.
 
-<a href="https://go.expatnetherlandshub.com/independer-energie" class="cta-affiliate" rel="sponsored noopener">Try Independer Energie</a>
+<a href="https://go.expatnetherlandshub.com/independer-energie" class="cta-affiliate" rel="nofollow noopener sponsored" target="_blank">Try Independer Energie</a>

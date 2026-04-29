@@ -337,6 +337,6 @@ When your Dutch licence expires after 10 years, you renew at your gemeente with 
 
 *Sarah van den Berg is an expat coach and relocation specialist. Half Dutch, half British, living in the Netherlands for over 10 years.*
 
-<a href="https://go.expatnetherlandshub.com/nordvpn" class="cta-affiliate" rel="sponsored noopener">Try Nordvpn</a>
+<a href="https://go.expatnetherlandshub.com/nordvpn" class="cta-affiliate" rel="nofollow noopener sponsored" target="_blank">Try Nordvpn</a>
 
-Also compare car insurance now that you have a Dutch licence: <a href="https://go.expatnetherlandshub.com/independer-auto" class="cta-affiliate" rel="sponsored noopener">Compare Car Insurance at Independer</a>
+Also compare car insurance now that you have a Dutch licence: <a href="https://go.expatnetherlandshub.com/independer-auto" class="cta-affiliate" rel="nofollow noopener sponsored" target="_blank">Compare Car Insurance at Independer</a>

@@ -156,7 +156,7 @@ This is where most people underestimate the work involved. Even if you have been
 - **Rijbewijs theorie practice websites:** Sites like Theorie Oefenen and Verkeerschool.nl offer free practice tests. Run through as many as you can until you are consistently scoring 60/65 or above.
 - **YouTube:** Search "Dutch theory exam English" for walkthroughs of the hazard recognition format.
 
-A note on accessing some of these platforms: a few theory practice apps and their full question banks are geo-restricted or require Dutch payment methods. If you run into access issues from outside the Netherlands, a VPN can resolve this. I use <a href="https://go.expatnetherlandshub.com/nordvpn?ref=/guides/daily-life/dutch-driving-license-cbr-guide-2026/" target="_blank" rel="noopener nofollow sponsored" class="cta-affiliate">Practice theory safely with NordVPN →</a> — it is reliable and quick to set up.
+A note on accessing some of these platforms: a few theory practice apps and their full question banks are geo-restricted or require Dutch payment methods. If you run into access issues from outside the Netherlands, a VPN can resolve this. I use <a href="https://go.expatnetherlandshub.com/nordvpn?ref=/guides/daily-life/dutch-driving-license-cbr-guide-2026/" target="_blank" rel="nofollow noopener sponsored" class="cta-affiliate">Practice theory safely with NordVPN →</a> — it is reliable and quick to set up.
 
 **Realistic study time:** 3–4 weeks of daily practice (30–60 minutes per day) is typical for someone approaching the exam seriously. If you are working full-time and studying in the evenings, allow 4–6 weeks.
 

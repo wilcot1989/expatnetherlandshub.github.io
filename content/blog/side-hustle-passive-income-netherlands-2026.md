@@ -309,6 +309,6 @@ Yes, up to approximately EUR 5,998 per year in rental income is exempt under the
 
 *Related reading: [KvK Registration Guide for Expats](/guides/work/kvk-registration-expat-guide-2026/) | [Tax for Freelancers and ZZP in the Netherlands](/guides/finance/tax-freelancers-zzp-netherlands-2026/) | [Investing in the Netherlands as an Expat](/guides/finance/investing-netherlands-expats-2026/) | [30% Ruling Eligibility Guide](/guides/finance/30-percent-ruling-eligibility-guide-2026/) | [DeGiro Review for Expats](/blog/degiro-review-expats-netherlands-2026/) | [Dutch Employment Contract Explained](/guides/work/dutch-employment-contract-explained-2026/) | [Best Accounting Software for Freelancers Netherlands](/guides/work/best-accounting-software-freelancers-netherlands-2026/) | [Dutch Business Bank Account for ZZP](/guides/finance/dutch-business-bank-account-zzp-2026/)*
 
-<a href="https://go.expatnetherlandshub.com/wise" class="cta-affiliate" rel="sponsored noopener">Try Wise</a>
+<a href="https://go.expatnetherlandshub.com/wise" class="cta-affiliate" rel="nofollow noopener sponsored" target="_blank">Try Wise</a>
 
-Stay secure online while managing your freelance income: <a href="https://go.expatnetherlandshub.com/nordvpn" class="cta-affiliate" rel="sponsored noopener">Protect Yourself with NordVPN</a>
+Stay secure online while managing your freelance income: <a href="https://go.expatnetherlandshub.com/nordvpn" class="cta-affiliate" rel="nofollow noopener sponsored" target="_blank">Protect Yourself with NordVPN</a>

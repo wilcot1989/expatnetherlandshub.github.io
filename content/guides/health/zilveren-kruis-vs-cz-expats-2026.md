@@ -323,7 +323,7 @@ If you want access to private English-speaking therapists without long waits, yo
 
 ## How to Sign Up
 
-The most practical way to compare and sign up for either Zilveren Kruis or CZ is through <a href="https://go.expatnetherlandshub.com/independer-zorg?ref=/guides/health/zilveren-kruis-vs-cz-expats-2026/" target="_blank" rel="noopener nofollow sponsored">Independer</a>. Independer is the Netherlands' largest insurance comparison platform, and they are accustomed to expat users. You can filter by insurer, policy type, and supplementary packages, and the sign-up process is handled in one place.
+The most practical way to compare and sign up for either Zilveren Kruis or CZ is through <a href="https://go.expatnetherlandshub.com/independer-zorg?ref=/guides/health/zilveren-kruis-vs-cz-expats-2026/" target="_blank" rel="nofollow noopener sponsored">Independer</a>. Independer is the Netherlands' largest insurance comparison platform, and they are accustomed to expat users. You can filter by insurer, policy type, and supplementary packages, and the sign-up process is handled in one place.
 
 Why use a comparison platform rather than going direct?
 
@@ -342,7 +342,7 @@ You must arrange health insurance within **4 months of registering in the Nether
 
 If you want a tool to match your situation to the best policy, try the [Insurance Chooser tool](/tools/insurance-chooser/) — it asks a few questions and gives you a filtered recommendation.
 
-<a href="https://go.expatnetherlandshub.com/independer-zorg?ref=/guides/health/zilveren-kruis-vs-cz-expats-2026/" target="_blank" rel="noopener nofollow sponsored" class="cta-affiliate">Compare Zilveren Kruis and CZ on Independer →</a>
+<a href="https://go.expatnetherlandshub.com/independer-zorg?ref=/guides/health/zilveren-kruis-vs-cz-expats-2026/" target="_blank" rel="nofollow noopener sponsored" class="cta-affiliate">Compare Zilveren Kruis and CZ on Independer →</a>
 
 ---
 
@@ -358,7 +358,7 @@ Where most expats go wrong is not on the choice between Zilveren Kruis and CZ �
 
 One situation where neither Zilveren Kruis nor CZ is the right answer: the gap before your Dutch registration is complete, or a short visit before you become a legal resident. Both require you to be registered to sign up. For that interim window — or if you are travelling outside the Netherlands for an extended period — SafetyWing Nomad Insurance offers temporary emergency medical coverage from around $45/month. It is not a substitute for Dutch basisverzekering (and cannot legally replace it once you are a resident), but as a stop-gap or travel layer it does the job at a fraction of the cost of a full international plan.
 
-<a href="https://go.expatnetherlandshub.com/safetywing?ref=/guides/health/zilveren-kruis-vs-cz-expats-2026/" target="_blank" rel="noopener nofollow sponsored" class="cta-affiliate">Get SafetyWing Gap Coverage from $45/month →</a>
+<a href="https://go.expatnetherlandshub.com/safetywing?ref=/guides/health/zilveren-kruis-vs-cz-expats-2026/" target="_blank" rel="nofollow noopener sponsored" class="cta-affiliate">Get SafetyWing Gap Coverage from $45/month →</a>
 
 ---
 

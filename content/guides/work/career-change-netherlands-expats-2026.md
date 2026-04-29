@@ -115,7 +115,7 @@ The first six to twelve months of a ZZP career — especially one starting in a 
 
 [Wise](https://go.expatnetherlandshub.com/wise?ref=/guides/work/career-change-netherlands-expats-2026/) is genuinely useful here. The multi-currency account allows you to hold balances in EUR, GBP, USD, and other currencies, and the business account supports invoicing and international transfers at mid-market exchange rates — significantly cheaper than Dutch banks for international transactions.
 
-<a href="https://go.expatnetherlandshub.com/wise?ref=/guides/work/career-change-netherlands-expats-2026/" target="_blank" rel="noopener nofollow sponsored" class="cta-affiliate">Open a Wise account for your ZZP transition →</a>
+<a href="https://go.expatnetherlandshub.com/wise?ref=/guides/work/career-change-netherlands-expats-2026/" target="_blank" rel="nofollow noopener sponsored" class="cta-affiliate">Open a Wise account for your ZZP transition →</a>
 
 ### ZZP taxes during transition
 

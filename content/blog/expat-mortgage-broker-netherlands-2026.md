@@ -209,7 +209,7 @@ To complete a mortgage in the Netherlands you will need a Dutch bank account. Th
 
 For international money transfers — bringing funds from abroad to cover buying costs — [Wise](https://go.expatnetherlandshub.com/wise?ref=/blog/expat-mortgage-broker-netherlands-2026/) offers transparent rates for large EUR transfers and can save significant amounts compared to bank wires.
 
-<a href="https://go.expatnetherlandshub.com/wise?ref=/blog/expat-mortgage-broker-netherlands-2026/" rel="noopener nofollow sponsored" class="cta-affiliate">Transfer large sums to the Netherlands with Wise — low fees, real rates</a>
+<a href="https://go.expatnetherlandshub.com/wise?ref=/blog/expat-mortgage-broker-netherlands-2026/" rel="nofollow noopener sponsored" class="cta-affiliate" target="_blank">Transfer large sums to the Netherlands with Wise — low fees, real rates</a>
 
 ## Internal Resources
 

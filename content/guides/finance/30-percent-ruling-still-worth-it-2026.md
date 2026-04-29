@@ -268,7 +268,7 @@ Building a financial cushion alongside the ruling makes sense — the savings ar
 
 If you are negotiating a move to the Netherlands and the ruling is central to your financial plan, get proper advice. Use Wise to model the actual after-tax income in EUR, compare it honestly with what you earn at home, and make a decision based on the current stepped system — not on articles that describe the old flat 30% regime.
 
-<a href="https://go.expatnetherlandshub.com/wise?ref=/guides/finance/30-percent-ruling-still-worth-it-2026/" target="_blank" rel="noopener nofollow sponsored">Wise multi-currency account for comparing salaries across countries</a>
+<a href="https://go.expatnetherlandshub.com/wise?ref=/guides/finance/30-percent-ruling-still-worth-it-2026/" target="_blank" rel="nofollow noopener sponsored">Wise multi-currency account for comparing salaries across countries</a>
 
 ---
 
@@ -279,7 +279,7 @@ If you are negotiating a move to the Netherlands and the ruling is central to yo
 - [Nibud: Income tax calculator](https://www.nibud.nl)
 - [IamExpat: 30% ruling explained](https://www.iamexpat.nl/expat-info/taxation/30-percent-ruling)
 - [Expatax: Tax advisors specialising in expats](https://www.expatax.nl)
-- <a href="https://go.expatnetherlandshub.com/wise?ref=/guides/finance/30-percent-ruling-still-worth-it-2026/" target="_blank" rel="noopener nofollow sponsored">Wise: International salary management</a>
+- <a href="https://go.expatnetherlandshub.com/wise?ref=/guides/finance/30-percent-ruling-still-worth-it-2026/" target="_blank" rel="nofollow noopener sponsored">Wise: International salary management</a>
 - [KPMG Netherlands: Expatriate tax services](https://www.kpmg.nl/en/services/tax/expat-tax.html)
 - [EY Netherlands: 30% ruling updates](https://www.ey.com/en_nl)
 

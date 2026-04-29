@@ -66,7 +66,7 @@ I tell you this not to be self-indulgent, but because it illustrates the key ins
 | **Ben** | T-Mobile | €10–20 | 2–15 GB | Monthly flex | Limited | Simple, no fuss |
 | **Youfone** | KPN | €9–15 | 2–15 GB | Monthly flex | Limited | Budget on KPN network |
 
-All prices exclude any handset. These are SIM-only monthly rates for 2026. Prices shift with promotions, so always check the provider website for the current offer before you sign up. You can also use <a href="https://go.expatnetherlandshub.com/independer-telecom?ref=/guides/daily-life/mobile-phone-plans-netherlands-expats-2026/" target="_blank" rel="noopener nofollow sponsored" class="cta-affiliate">Compare phone plans on Independer →</a> to see live pricing across all providers in one place.
+All prices exclude any handset. These are SIM-only monthly rates for 2026. Prices shift with promotions, so always check the provider website for the current offer before you sign up. You can also use <a href="https://go.expatnetherlandshub.com/independer-telecom?ref=/guides/daily-life/mobile-phone-plans-netherlands-expats-2026/" target="_blank" rel="nofollow noopener sponsored" class="cta-affiliate">Compare phone plans on Independer →</a> to see live pricing across all providers in one place.
 
 ---
 
@@ -406,7 +406,7 @@ One thing I always mention when talking about mobile plans is what happens when 
 
 Public Wi-Fi in the Netherlands is widely available and generally reliable, but it is unencrypted and shared. I use a VPN whenever I am on public Wi-Fi, particularly for online banking, accessing email, or anything involving passwords. After trying several options, NordVPN is what I settled on — it is fast enough not to notice on a good connection and has good server options in the Netherlands and elsewhere in Europe.
 
-<a href="https://go.expatnetherlandshub.com/nordvpn?ref=/guides/daily-life/mobile-phone-plans-netherlands-expats-2026/" target="_blank" rel="noopener nofollow sponsored" class="cta-affiliate">Protect your phone with NordVPN →</a>
+<a href="https://go.expatnetherlandshub.com/nordvpn?ref=/guides/daily-life/mobile-phone-plans-netherlands-expats-2026/" target="_blank" rel="nofollow noopener sponsored" class="cta-affiliate">Protect your phone with NordVPN →</a>
 
 For more on why this matters for expats specifically (including using streaming services and accessing home-country banking sites), I have a full [VPN guide for expats in the Netherlands](/guides/daily-life/best-vpn-netherlands-expats-2026/).
 
@@ -416,7 +416,7 @@ For more on why this matters for expats specifically (including using streaming 
 
 Prices in the Dutch telecoms market change frequently. Providers run promotions, adjust their bundles seasonally, and sometimes quietly increase prices mid-year. The table above is accurate for early 2026, but before you sign up, I always recommend checking a comparison site for the current live pricing.
 
-<a href="https://go.expatnetherlandshub.com/independer-telecom?ref=/guides/daily-life/mobile-phone-plans-netherlands-expats-2026/" target="_blank" rel="noopener nofollow sponsored" class="cta-affiliate">Compare phone plans on Independer →</a>
+<a href="https://go.expatnetherlandshub.com/independer-telecom?ref=/guides/daily-life/mobile-phone-plans-netherlands-expats-2026/" target="_blank" rel="nofollow noopener sponsored" class="cta-affiliate">Compare phone plans on Independer →</a>
 
 Independer is the most-used comparison site in the Netherlands for telecoms and insurance. It shows you current pricing across all major providers side-by-side and lets you filter by data, contract length, and budget. It also regularly surfaces deals that are not widely advertised on provider websites directly.
 

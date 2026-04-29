@@ -288,6 +288,6 @@ The [Dutch employment contract guide](/guides/work/dutch-employment-contract-exp
 - [LinkedIn Tips for Expats in the Netherlands](/guides/work/linkedin-netherlands-expat-tips-2026/) — how to optimize your Dutch market presence and use LinkedIn to find jobs and build your professional network here
 - [Check Your Salary: Is Your Offer Fair?](/tools/salary-checker/)
 
-<a href="https://go.expatnetherlandshub.com/preply" class="cta-affiliate" rel="sponsored noopener">Try Preply</a>
+<a href="https://go.expatnetherlandshub.com/preply" class="cta-affiliate" rel="nofollow noopener sponsored" target="_blank">Try Preply</a>
 
-Or boost your Dutch language skills before the interview: <a href="https://go.expatnetherlandshub.com/mondly" class="cta-affiliate" rel="sponsored noopener">Learn Dutch with Mondly</a>
+Or boost your Dutch language skills before the interview: <a href="https://go.expatnetherlandshub.com/mondly" class="cta-affiliate" rel="nofollow noopener sponsored" target="_blank">Learn Dutch with Mondly</a>

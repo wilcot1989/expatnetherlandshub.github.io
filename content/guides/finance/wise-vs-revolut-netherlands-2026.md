@@ -180,7 +180,7 @@ I use both apps daily and they have distinct personalities.
 
 ### Wise
 
-Wise does not have subscription plans in the traditional sense. There is no monthly fee. You pay per transaction. The <a href="https://go.expatnetherlandshub.com/wise?ref=/guides/finance/wise-vs-revolut-netherlands-2026/" rel="noopener nofollow sponsored" target="_blank">Wise</a> account gives you everything — multi-currency balances, European IBAN, debit card, and international transfers — for free to open. The card costs a one-time EUR 9 delivery fee.
+Wise does not have subscription plans in the traditional sense. There is no monthly fee. You pay per transaction. The <a href="https://go.expatnetherlandshub.com/wise?ref=/guides/finance/wise-vs-revolut-netherlands-2026/" rel="nofollow noopener sponsored" target="_blank">Wise</a> account gives you everything — multi-currency balances, European IBAN, debit card, and international transfers — for free to open. The card costs a one-time EUR 9 delivery fee.
 
 This makes Wise extremely good value for people who do not transfer money constantly, because you never pay for features you do not use.
 
@@ -284,9 +284,9 @@ Both are free at the basic level, but Wise has no hidden monthly charges at all.
 - Do you want investment features in your banking app? → **Yes → Revolut Premium or Metal**
 - Do you want formal deposit protection? → **Yes → Revolut (banking licence)**
 
-The honest answer for most expats: open <a href="https://go.expatnetherlandshub.com/wise?ref=/guides/finance/wise-vs-revolut-netherlands-2026/" rel="noopener nofollow sponsored" target="_blank">Wise</a> first, get your European IBAN sorted, and then decide whether Revolut adds enough value for your specific situation. Most of my clients end up using both.
+The honest answer for most expats: open <a href="https://go.expatnetherlandshub.com/wise?ref=/guides/finance/wise-vs-revolut-netherlands-2026/" rel="nofollow noopener sponsored" target="_blank">Wise</a> first, get your European IBAN sorted, and then decide whether Revolut adds enough value for your specific situation. Most of my clients end up using both.
 
-<a href="https://go.expatnetherlandshub.com/wise?ref=/guides/finance/wise-vs-revolut-netherlands-2026/" rel="noopener nofollow sponsored" target="_blank" class="cta-affiliate">Open Your Wise Account →</a>
+<a href="https://go.expatnetherlandshub.com/wise?ref=/guides/finance/wise-vs-revolut-netherlands-2026/" rel="nofollow noopener sponsored" target="_blank" class="cta-affiliate">Open Your Wise Account →</a>
 
 ---
 

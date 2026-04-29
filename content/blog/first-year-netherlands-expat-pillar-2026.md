@@ -106,7 +106,7 @@ If you are arriving on a relocation package, confirm which of these your employe
 
 This is the single most impactful pre-arrival step most expats skip.
 
-<a href="https://go.expatnetherlandshub.com/wise" rel="noopener nofollow sponsored" class="cta-affiliate">Wise</a> gives you a real Dutch IBAN (NL prefix) without requiring a Dutch address or BSN. You can open it from your home country. Once you have it, give the account details to your employer — they can pay your first salary directly there, even if you are still waiting for your gemeente registration appointment.
+<a href="https://go.expatnetherlandshub.com/wise" rel="nofollow noopener sponsored" class="cta-affiliate" target="_blank">Wise</a> gives you a real Dutch IBAN (NL prefix) without requiring a Dutch address or BSN. You can open it from your home country. Once you have it, give the account details to your employer — they can pay your first salary directly there, even if you are still waiting for your gemeente registration appointment.
 
 Without a Wise account, your first salary may go to a foreign account, triggering currency conversion fees and potentially 3–5 extra days of processing time. With a Wise NL IBAN, it lands in your Dutch account the same day.
 
@@ -118,7 +118,7 @@ You have four months from BRP registration to choose Dutch health insurance. But
 
 The Dutch basic health insurance package is standardised by law. Every insurer covers the same core services. What differs is: premium (€130–€175/month in 2026), customer service quality, English support availability, and supplementary add-on options.
 
-Use <a href="https://go.expatnetherlandshub.com/independer-zorg" rel="noopener nofollow sponsored" class="cta-affiliate">Independer</a> — the largest Dutch insurance comparison platform — to get a side-by-side premium comparison. It is free, shows real prices, and covers both the basic package and optional supplementary (aanvullende) insurance.
+Use <a href="https://go.expatnetherlandshub.com/independer-zorg" rel="nofollow noopener sponsored" class="cta-affiliate" target="_blank">Independer</a> — the largest Dutch insurance comparison platform — to get a side-by-side premium comparison. It is free, shows real prices, and covers both the basic package and optional supplementary (aanvullende) insurance.
 
 ---
 
@@ -157,7 +157,7 @@ Once you have your BSN, open a traditional Dutch bank account. The three most ex
 
 **ING** — Largest Dutch bank by customers, solid app, most ATMs, Dutch-primary but English available if you ask. Basic account costs €3.35/month.
 
-Your <a href="https://go.expatnetherlandshub.com/wise" rel="noopener nofollow sponsored" class="cta-affiliate">Wise NL IBAN</a> covers you until your Dutch bank account is active. After that, Wise becomes your international transfer tool — significantly cheaper than Dutch banks for sending money abroad.
+Your <a href="https://go.expatnetherlandshub.com/wise" rel="nofollow noopener sponsored" class="cta-affiliate" target="_blank">Wise NL IBAN</a> covers you until your Dutch bank account is active. After that, Wise becomes your international transfer tool — significantly cheaper than Dutch banks for sending money abroad.
 
 ---
 
@@ -175,9 +175,9 @@ If you have not already chosen your health insurer, do it now. You are legally r
 - **Aanvullende verzekering** (supplementary insurance) covers things the basic package excludes: adult dental care, glasses and contact lenses, physiotherapy beyond statutory limits, and more.
 - **Zorgtoeslag** (healthcare allowance): If your income is below approximately €37,000 (single) or €47,000 (couple), you may be eligible for a monthly government subsidy toward your premium. Apply through the Belastingdienst using your DigiD.
 
-Compare all major insurers — Zilveren Kruis, CZ, Menzis, VGZ, ONVZ, DSW, and others — on <a href="https://go.expatnetherlandshub.com/independer-zorg" rel="noopener nofollow sponsored" class="cta-affiliate">Independer</a>. Their comparison is free and shows English-language summaries for most insurers.
+Compare all major insurers — Zilveren Kruis, CZ, Menzis, VGZ, ONVZ, DSW, and others — on <a href="https://go.expatnetherlandshub.com/independer-zorg" rel="nofollow noopener sponsored" class="cta-affiliate" target="_blank">Independer</a>. Their comparison is free and shows English-language summaries for most insurers.
 
-**Short-stay expats (under 1 year):** If you are here on a short contract and have not yet registered in the BRP, or are waiting for a residence permit, <a href="https://go.expatnetherlandshub.com/safetywing" rel="noopener nofollow sponsored" class="cta-affiliate">SafetyWing</a> is a practical bridge — it is an internationally portable health + travel insurance designed for nomads and expats that covers you across Europe from €42/month. It is not a substitute for Dutch basisverzekering once you are BRP-registered, but it covers the gap.
+**Short-stay expats (under 1 year):** If you are here on a short contract and have not yet registered in the BRP, or are waiting for a residence permit, <a href="https://go.expatnetherlandshub.com/safetywing" rel="nofollow noopener sponsored" class="cta-affiliate" target="_blank">SafetyWing</a> is a practical bridge — it is an internationally portable health + travel insurance designed for nomads and expats that covers you across Europe from €42/month. It is not a substitute for Dutch basisverzekering once you are BRP-registered, but it covers the gap.
 
 ### Internet and Utilities
 
@@ -193,7 +193,7 @@ Broadband options in the Netherlands:
 | Youfone | Up to 100 Mbps | €25–€35 | Monthly |
 | T-Mobile Thuis | Up to 1 Gbps | €40–€65 | 12-month |
 
-Use <a href="https://go.expatnetherlandshub.com/independer-internet" rel="noopener nofollow sponsored" class="cta-affiliate">Independer</a> to compare providers by postcode — availability varies significantly by area and cable type (coax vs. fibre).
+Use <a href="https://go.expatnetherlandshub.com/independer-internet" rel="nofollow noopener sponsored" class="cta-affiliate" target="_blank">Independer</a> to compare providers by postcode — availability varies significantly by area and cable type (coax vs. fibre).
 
 **Tip:** Start with a monthly contract if you are not sure how long you will stay. Many expats move apartments in the first year, and breaking a 12-month broadband contract costs €50–€150.
 
@@ -258,9 +258,9 @@ But the longer you stay without Dutch, the more you exclude yourself from: neigh
 
 **Learning options:**
 
-<a href="https://go.expatnetherlandshub.com/preply" rel="noopener nofollow sponsored" class="cta-affiliate">Preply</a> connects you with certified Dutch tutors for live video lessons. You can book on an hourly basis starting around €15–€30/hour. It is my preferred option for conversational practice because you can match with a tutor who understands the expat context and structures lessons around your actual daily challenges (talking to your gemeente, understanding your pay slip, navigating the huisarts system).
+<a href="https://go.expatnetherlandshub.com/preply" rel="nofollow noopener sponsored" class="cta-affiliate" target="_blank">Preply</a> connects you with certified Dutch tutors for live video lessons. You can book on an hourly basis starting around €15–€30/hour. It is my preferred option for conversational practice because you can match with a tutor who understands the expat context and structures lessons around your actual daily challenges (talking to your gemeente, understanding your pay slip, navigating the huisarts system).
 
-<a href="https://go.expatnetherlandshub.com/mondly" rel="noopener nofollow sponsored" class="cta-affiliate">Mondly</a> is the app-based option for vocabulary and structure. It is not a replacement for human interaction but is excellent for daily 10-minute practice. The Dutch course covers pronunciation, grammar, and vocabulary through speech recognition exercises.
+<a href="https://go.expatnetherlandshub.com/mondly" rel="nofollow noopener sponsored" class="cta-affiliate" target="_blank">Mondly</a> is the app-based option for vocabulary and structure. It is not a replacement for human interaction but is excellent for daily 10-minute practice. The Dutch course covers pronunciation, grammar, and vocabulary through speech recognition exercises.
 
 Many employers cover Dutch language classes as part of the relocation package — always ask, because this benefit goes unclaimed surprisingly often.
 
@@ -286,7 +286,7 @@ Your first Dutch tax filing will be for the year you arrived. Because you were o
 
 As an expat, you will be doing significant amounts of sensitive financial activity online — international transfers, Dutch banking, government portals, insurance comparison — often across multiple devices and networks.
 
-<a href="https://go.expatnetherlandshub.com/nordvpn" rel="noopener nofollow sponsored" class="cta-affiliate">NordVPN</a> encrypts your internet connection so that public Wi-Fi (coffee shops, coworking spaces, train stations) does not expose your banking traffic. It also lets you maintain access to streaming services from your home country. Plans start at approximately €3.09/month on a 2-year plan.
+<a href="https://go.expatnetherlandshub.com/nordvpn" rel="nofollow noopener sponsored" class="cta-affiliate" target="_blank">NordVPN</a> encrypts your internet connection so that public Wi-Fi (coffee shops, coworking spaces, train stations) does not expose your banking traffic. It also lets you maintain access to streaming services from your home country. Plans start at approximately €3.09/month on a 2-year plan.
 
 ### Building a Social Life
 
@@ -346,10 +346,10 @@ The 30% ruling must be applied for within 4 months of your first working day in 
 Every week you delay registration is a week without a BSN, which cascades into delays for banking, insurance, and everything else. Book your appointment the moment you have a confirmed address.
 
 **3. Using your home-country bank for everything**
-International transaction fees and currency conversion charges add up fast. In month one, when you are making large transfers, even a 2% difference costs hundreds of euros. <a href="https://go.expatnetherlandshub.com/wise" rel="noopener nofollow sponsored" class="cta-affiliate">Wise</a> typically charges 0.35–0.65% — a fraction of what traditional banks charge.
+International transaction fees and currency conversion charges add up fast. In month one, when you are making large transfers, even a 2% difference costs hundreds of euros. <a href="https://go.expatnetherlandshub.com/wise" rel="nofollow noopener sponsored" class="cta-affiliate" target="_blank">Wise</a> typically charges 0.35–0.65% — a fraction of what traditional banks charge.
 
 **4. Skipping health insurance research**
-The cheapest insurer is not always the best. Some cheap options have poor English-language customer service and slow claims handling. Compare on <a href="https://go.expatnetherlandshub.com/independer-zorg" rel="noopener nofollow sponsored" class="cta-affiliate">Independer</a>, check reviews on Zorgkiezer.nl, and consider whether you need supplementary dental or glasses cover.
+The cheapest insurer is not always the best. Some cheap options have poor English-language customer service and slow claims handling. Compare on <a href="https://go.expatnetherlandshub.com/independer-zorg" rel="nofollow noopener sponsored" class="cta-affiliate" target="_blank">Independer</a>, check reviews on Zorgkiezer.nl, and consider whether you need supplementary dental or glasses cover.
 
 **5. Signing a 12-month internet contract in your first apartment**
 You may move within the year. Breaking a Dutch telecom contract costs €50–€150. Start monthly, upgrade to annual when you are stable.
@@ -413,13 +413,13 @@ In the year you arrive (and the year you leave), you file the M-form instead of 
 You receive your BSN at your gemeente registration appointment — usually the same day. The appointment takes 15–30 minutes. Booking takes longer: in Amsterdam, expect 1–3 weeks to get an appointment slot. Book the moment you have a confirmed address.
 
 **Do I need a BSN before I can open a bank account in the Netherlands?**
-For traditional Dutch banks, yes. But <a href="https://go.expatnetherlandshub.com/wise" rel="noopener nofollow sponsored" class="cta-affiliate">Wise</a> gives you an NL IBAN without a BSN, letting you receive salary from day one. Bunq also accepts new accounts with a passport only.
+For traditional Dutch banks, yes. But <a href="https://go.expatnetherlandshub.com/wise" rel="nofollow noopener sponsored" class="cta-affiliate" target="_blank">Wise</a> gives you an NL IBAN without a BSN, letting you receive salary from day one. Bunq also accepts new accounts with a passport only.
 
 **What is the 30% ruling and who qualifies?**
 A tax-free allowance worth up to 30% of your gross salary for skilled expats recruited from abroad. Salary threshold: €46,107 taxable in 2026. Duration: 5 years. Apply through your employer within 4 months of starting work.
 
 **Is health insurance mandatory in the Netherlands for expats?**
-Yes. Once BRP-registered, you must have Dutch basisverzekering within four months. Use <a href="https://go.expatnetherlandshub.com/independer-zorg" rel="noopener nofollow sponsored" class="cta-affiliate">Independer</a> to compare. Short-stay expats not yet BRP-registered can use <a href="https://go.expatnetherlandshub.com/safetywing" rel="noopener nofollow sponsored" class="cta-affiliate">SafetyWing</a> as an interim solution.
+Yes. Once BRP-registered, you must have Dutch basisverzekering within four months. Use <a href="https://go.expatnetherlandshub.com/independer-zorg" rel="nofollow noopener sponsored" class="cta-affiliate" target="_blank">Independer</a> to compare. Short-stay expats not yet BRP-registered can use <a href="https://go.expatnetherlandshub.com/safetywing" rel="nofollow noopener sponsored" class="cta-affiliate" target="_blank">SafetyWing</a> as an interim solution.
 
 **How much should I save before moving to the Netherlands?**
 Minimum €5,000–€8,000 for mid-sized cities; €8,000–€15,000 for Amsterdam. Covers deposit, first/last month rent, agency fee, and first month of living costs before salary arrives.

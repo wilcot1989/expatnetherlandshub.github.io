@@ -112,7 +112,7 @@ Wise also gives you a "balance" in multiple currencies that you can hold. I keep
 
 Beyond transfers, Wise gives you a European IBAN that works for salary deposits in the Netherlands — useful before you have a Dutch bank account, and useful as a permanent international account alongside one.
 
-<a href="https://go.expatnetherlandshub.com/wise?ref=/guides/finance/best-finance-apps-expats-netherlands-2026/" rel="noopener nofollow sponsored" class="cta-affiliate">Open a Wise account — no monthly fee, mid-market exchange rates</a>
+<a href="https://go.expatnetherlandshub.com/wise?ref=/guides/finance/best-finance-apps-expats-netherlands-2026/" rel="nofollow noopener sponsored" class="cta-affiliate" target="_blank">Open a Wise account — no monthly fee, mid-market exchange rates</a>
 
 For a detailed comparison of Wise and Revolut in the Dutch context, see [Wise vs Revolut Netherlands](/guides/finance/wise-vs-revolut-netherlands-2026/).
 
@@ -221,7 +221,7 @@ You need this for iDEAL, Tikkie, and salary payments from Dutch employers who re
 **Layer 2 — International transfers and multi-currency: Wise**
 Open this before or immediately upon arriving. Use it for sending money internationally, holding foreign currency, and as a backup account. The Wise debit card is excellent for travel.
 
-<a href="https://go.expatnetherlandshub.com/wise?ref=/guides/finance/best-finance-apps-expats-netherlands-2026/" rel="noopener nofollow sponsored" class="cta-affiliate">Get a Wise account — free to open, no monthly fees</a>
+<a href="https://go.expatnetherlandshub.com/wise?ref=/guides/finance/best-finance-apps-expats-netherlands-2026/" rel="nofollow noopener sponsored" class="cta-affiliate" target="_blank">Get a Wise account — free to open, no monthly fees</a>
 
 **Layer 3 — Budgeting: YNAB or bunq sub-accounts**
 If you want serious budget control, YNAB. If you prefer everything in one banking app, bunq's pockets system achieves something similar without needing a separate tool.
@@ -235,7 +235,7 @@ Install it. Use it. Embrace it.
 **Optional — Revolut or N26**
 If you travel frequently within Europe or want better spending analytics without YNAB, either of these works as a travel card alongside your Dutch base account.
 
-One more thing: if you are regularly using public WiFi — in cafes, airports, or co-working spaces — a VPN protects your banking sessions from anyone on the same network. I use <a href="https://go.expatnetherlandshub.com/nordvpn?ref=/guides/finance/best-finance-apps-expats-netherlands-2026/" rel="noopener nofollow sponsored" class="cta-affiliate">NordVPN</a> when working from coffee shops in Amsterdam. Dutch banking apps do not warn you about this, but it is worth thinking about.
+One more thing: if you are regularly using public WiFi — in cafes, airports, or co-working spaces — a VPN protects your banking sessions from anyone on the same network. I use <a href="https://go.expatnetherlandshub.com/nordvpn?ref=/guides/finance/best-finance-apps-expats-netherlands-2026/" rel="nofollow noopener sponsored" class="cta-affiliate" target="_blank">NordVPN</a> when working from coffee shops in Amsterdam. Dutch banking apps do not warn you about this, but it is worth thinking about.
 
 For help choosing the right bank account combination, try the [bank account chooser tool](/tools/bank-account-chooser/).
 

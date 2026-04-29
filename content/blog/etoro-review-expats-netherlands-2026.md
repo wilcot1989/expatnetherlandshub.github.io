@@ -192,7 +192,7 @@ The practice account (virtual USD 100,000) is genuinely useful and I recommend s
 
 If you're transferring money internationally to fund your eToro account — for example, from a UK, US, or other overseas account — transfer fees can bite into your returns before you've even made a trade. I use Wise for international transfers because the exchange rates are transparent and fees are significantly lower than most banks. Worth factoring in if you're topping up from abroad.
 
-<a href="https://go.expatnetherlandshub.com/wise?ref=/blog/etoro-review-expats-netherlands-2026/" target="_blank" rel="noopener nofollow sponsored" class="cta-affiliate">Send Money Internationally with Wise →</a>
+<a href="https://go.expatnetherlandshub.com/wise?ref=/blog/etoro-review-expats-netherlands-2026/" target="_blank" rel="nofollow noopener sponsored" class="cta-affiliate">Send Money Internationally with Wise →</a>
 
 ## Internal Resources
 

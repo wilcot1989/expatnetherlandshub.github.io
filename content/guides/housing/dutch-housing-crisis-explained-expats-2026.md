@@ -166,7 +166,7 @@ Understanding the crisis structurally is useful. Here is what it means practical
 
 **You are competing against many other people for each property.** Setting up immediate alerts, having your documents ready (recent payslips, employment contract, references, BSN), and being able to respond within hours is the difference between getting a viewing and missing out.
 
-**Deposits are significant.** One to three months' rent as a deposit is standard. On a €1,500/month apartment, that is €1,500-€4,500 upfront, on top of the first month's rent. If you are transferring money from abroad, use <a href="https://go.expatnetherlandshub.com/wise?ref=/guides/housing/dutch-housing-crisis-explained-expats-2026/" target="_blank" rel="noopener nofollow sponsored">Wise</a> — the exchange rate and fee savings on a €3,000-€5,000 transfer are substantial compared to a regular bank transfer.
+**Deposits are significant.** One to three months' rent as a deposit is standard. On a €1,500/month apartment, that is €1,500-€4,500 upfront, on top of the first month's rent. If you are transferring money from abroad, use <a href="https://go.expatnetherlandshub.com/wise?ref=/guides/housing/dutch-housing-crisis-explained-expats-2026/" target="_blank" rel="nofollow noopener sponsored">Wise</a> — the exchange rate and fee savings on a €3,000-€5,000 transfer are substantial compared to a regular bank transfer.
 
 **Consider smaller cities.** The housing crisis is worst in the Randstad — Amsterdam, Utrecht, Rotterdam, The Hague. Mid-sized cities have shortages too, but the competition is less extreme and prices are meaningfully lower. The [best cities for expats guide](/guides/housing/best-cities-netherlands-expats-2026/) covers the trade-offs. The [cost of living comparison](/guides/housing/cost-of-living-netherlands-2026/) shows the rent differences in hard numbers.
 
@@ -192,7 +192,7 @@ Based on what I have seen work for clients in the current market:
 
 **4. Consider a relocation agency.** For senior professional moves, an employer-funded relocation package that includes a housing search agency is worth negotiating. These agencies have relationships with landlords and access to properties before they hit the public platforms.
 
-**5. Be ready for the deposit transfer.** Have funds positioned in an account from which you can transfer €3,000-€6,000 internationally within 24 hours. Landlords who choose you from multiple applicants will want confirmation quickly. <a href="https://go.expatnetherlandshub.com/wise?ref=/guides/housing/dutch-housing-crisis-explained-expats-2026/" target="_blank" rel="noopener nofollow sponsored">Wise</a> allows fast, low-cost international transfers — open an account before you begin the housing search.
+**5. Be ready for the deposit transfer.** Have funds positioned in an account from which you can transfer €3,000-€6,000 internationally within 24 hours. Landlords who choose you from multiple applicants will want confirmation quickly. <a href="https://go.expatnetherlandshub.com/wise?ref=/guides/housing/dutch-housing-crisis-explained-expats-2026/" target="_blank" rel="nofollow noopener sponsored">Wise</a> allows fast, low-cost international transfers — open an account before you begin the housing search.
 
 **6. Look at the finding housing guide.** The [complete finding housing strategy](/guides/housing/finding-housing-netherlands-expats-2026/) covers viewings, negotiations, contract review, and the specific tactics that improve your chances in a competitive market.
 

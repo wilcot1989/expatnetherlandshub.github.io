@@ -399,4 +399,4 @@ Box 3 reform is coming, but not yet here. The 2026 system is still deemed-return
 
 In the meantime, if your Box 3 situation is complex — significant foreign assets, property in multiple countries, or large investment portfolios — a session with a Dutch expat tax advisor is worth the fee. The [best tax advisors for expats guide](/guides/finance/best-tax-advisors-expats-netherlands-2026/) has a shortlist if you need one.
 
-<a href="https://go.expatnetherlandshub.com/wise?ref=/guides/finance/dutch-box-3-tax-savings-expats-2026/" class="cta-affiliate" rel="noopener nofollow sponsored" target="_blank">Open a Wise account to manage foreign currency balances and get precise January 1 snapshots for tax reporting →</a>
+<a href="https://go.expatnetherlandshub.com/wise?ref=/guides/finance/dutch-box-3-tax-savings-expats-2026/" class="cta-affiliate" rel="nofollow noopener sponsored" target="_blank">Open a Wise account to manage foreign currency balances and get precise January 1 snapshots for tax reporting →</a>

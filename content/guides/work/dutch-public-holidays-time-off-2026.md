@@ -341,4 +341,4 @@ For a broader picture of working life here, the [Dutch work culture guide](/guid
 
 The Netherlands does not do everything right. But public holidays and time off? They have figured this one out.
 
-<a href="https://go.expatnetherlandshub.com/wise" class="cta-affiliate" rel="sponsored noopener">Try Wise</a>
+<a href="https://go.expatnetherlandshub.com/wise" class="cta-affiliate" rel="nofollow noopener sponsored" target="_blank">Try Wise</a>

@@ -390,7 +390,7 @@ The most common feedback I hear from expat clients who successfully landed roles
 
 ## Practical Steps Before Your First Day
 
-**Finances first.** Set up a Dutch bank account before your first salary arrives. Most Dutch employers pay salary to Dutch NL IBANs. If you need a bridge account while waiting for your BSN and bank account, <a href="https://go.expatnetherlandshub.com/wise?ref=/guides/work/companies-hiring-internationals-netherlands-2026/" target="_blank" rel="noopener nofollow sponsored" class="cta-affiliate">set up Wise before your first salary arrives →</a> — it works internationally and can receive salary payments while your Dutch banking is in progress.
+**Finances first.** Set up a Dutch bank account before your first salary arrives. Most Dutch employers pay salary to Dutch NL IBANs. If you need a bridge account while waiting for your BSN and bank account, <a href="https://go.expatnetherlandshub.com/wise?ref=/guides/work/companies-hiring-internationals-netherlands-2026/" target="_blank" rel="nofollow noopener sponsored" class="cta-affiliate">set up Wise before your first salary arrives →</a> — it works internationally and can receive salary payments while your Dutch banking is in progress.
 
 **BSN number.** Your employer cannot process your salary correctly without your BSN (Dutch citizen service number). Register at your municipality as soon as you arrive. See the [BSN registration guide](/guides/legal/bsn-registration-guide-2026/).
 

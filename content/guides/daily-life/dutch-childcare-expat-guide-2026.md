@@ -354,6 +354,6 @@ The transition from kinderopvang to basisschool (primary school) is smoother tha
 
 *Last updated: March 2026.*
 
-<a href="https://go.expatnetherlandshub.com/wise" class="cta-affiliate" rel="sponsored noopener">Try Wise</a>
+<a href="https://go.expatnetherlandshub.com/wise" class="cta-affiliate" rel="nofollow noopener sponsored" target="_blank">Try Wise</a>
 
-Also make sure your family has proper health coverage: <a href="https://go.expatnetherlandshub.com/independer-zorg" class="cta-affiliate" rel="sponsored noopener">Compare Health Insurance at Independer</a>
+Also make sure your family has proper health coverage: <a href="https://go.expatnetherlandshub.com/independer-zorg" class="cta-affiliate" rel="nofollow noopener sponsored" target="_blank">Compare Health Insurance at Independer</a>

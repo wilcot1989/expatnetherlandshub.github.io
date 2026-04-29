@@ -80,12 +80,12 @@ The same visa and work permit requirements apply as anywhere in the Netherlands:
 
 ### Financial Setup
 
-1. **Open a bank account**: Set up a <a href="https://go.expatnetherlandshub.com/wise?ref=/guides/housing/moving-to-rotterdam-guide-2026/" rel="noopener nofollow sponsored" target="_blank">Wise account</a> before arriving for a European IBAN. See our [best bank accounts for expats guide](/guides/finance/best-bank-account-expats-netherlands-2026/).
+1. **Open a bank account**: Set up a <a href="https://go.expatnetherlandshub.com/wise?ref=/guides/housing/moving-to-rotterdam-guide-2026/" rel="nofollow noopener sponsored" target="_blank">Wise account</a> before arriving for a European IBAN. See our [best bank accounts for expats guide](/guides/finance/best-bank-account-expats-netherlands-2026/).
 2. **Budget for housing deposits**: Expect 1-2 months' deposit plus first month's rent upfront.
 3. **Arrange health insurance**: Mandatory from your first day of employment. Read our [health insurance guide](/guides/health/dutch-health-insurance-guide-expats-2026/).
-4. **Transfer savings**: Use <a href="https://go.expatnetherlandshub.com/wise?ref=/guides/housing/moving-to-rotterdam-guide-2026/" rel="noopener nofollow sponsored" target="_blank">Wise</a> for the best exchange rates on international transfers. See our [money transfer guide](/guides/finance/best-international-money-transfer-netherlands-2026/).
+4. **Transfer savings**: Use <a href="https://go.expatnetherlandshub.com/wise?ref=/guides/housing/moving-to-rotterdam-guide-2026/" rel="nofollow noopener sponsored" target="_blank">Wise</a> for the best exchange rates on international transfers. See our [money transfer guide](/guides/finance/best-international-money-transfer-netherlands-2026/).
 
-<a href="https://go.expatnetherlandshub.com/wise?ref=/guides/housing/moving-to-rotterdam-guide-2026/" class="cta-affiliate" rel="noopener nofollow sponsored" target="_blank">Open Your Free Wise Account Before Moving to Rotterdam</a>
+<a href="https://go.expatnetherlandshub.com/wise?ref=/guides/housing/moving-to-rotterdam-guide-2026/" class="cta-affiliate" rel="nofollow noopener sponsored" target="_blank">Open Your Free Wise Account Before Moving to Rotterdam</a>
 
 ---
 
@@ -370,7 +370,7 @@ Rotterdam is one of Europe's most underrated cities for expats. It offers afford
 
 If you are considering a move to the Netherlands and want a city that combines quality of life with affordability, Rotterdam deserves serious consideration.
 
-Start your preparation with our [Complete Guide to Moving to the Netherlands 2026](/guides/legal/complete-guide-moving-to-netherlands-2026/), and set up your finances with <a href="https://go.expatnetherlandshub.com/wise?ref=/guides/housing/moving-to-rotterdam-guide-2026/" rel="noopener nofollow sponsored" target="_blank">Wise</a> before arriving.
+Start your preparation with our [Complete Guide to Moving to the Netherlands 2026](/guides/legal/complete-guide-moving-to-netherlands-2026/), and set up your finances with <a href="https://go.expatnetherlandshub.com/wise?ref=/guides/housing/moving-to-rotterdam-guide-2026/" rel="nofollow noopener sponsored" target="_blank">Wise</a> before arriving.
 
 ---
 

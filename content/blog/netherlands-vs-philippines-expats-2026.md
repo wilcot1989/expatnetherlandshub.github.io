@@ -100,7 +100,7 @@ A comfortable middle-class lifestyle in Manila's business districts costs approx
 
 EUR–PHP transfers are one of the most common remittance corridors globally. I use [Wise](https://go.expatnetherlandshub.com/wise?ref=/blog/netherlands-vs-philippines-expats-2026/) for this. The rates are transparent, fees are low compared to bank wires, and transfers typically arrive within a few hours to a business day. For Filipino expats sending money home regularly, the savings over a year using a service like Wise versus a bank can be substantial.
 
-<a href="https://go.expatnetherlandshub.com/wise?ref=/blog/netherlands-vs-philippines-expats-2026/" rel="noopener nofollow sponsored" class="cta-affiliate">Send money to the Philippines with Wise — low fees, real exchange rates</a>
+<a href="https://go.expatnetherlandshub.com/wise?ref=/blog/netherlands-vs-philippines-expats-2026/" rel="nofollow noopener sponsored" class="cta-affiliate" target="_blank">Send money to the Philippines with Wise — low fees, real exchange rates</a>
 
 ## Healthcare
 
@@ -226,7 +226,7 @@ The practical options in 2026:
 
 **GCash and Philippine fintech:** GCash, the dominant Philippine mobile wallet, accepts international transfers from several partners. If your family uses GCash, check whether your chosen transfer service integrates directly.
 
-<a href="https://go.expatnetherlandshub.com/wise?ref=/blog/netherlands-vs-philippines-expats-2026/" rel="noopener nofollow sponsored" class="cta-affiliate">Send money to the Philippines with Wise — transparent rates, low fees</a>
+<a href="https://go.expatnetherlandshub.com/wise?ref=/blog/netherlands-vs-philippines-expats-2026/" rel="nofollow noopener sponsored" class="cta-affiliate" target="_blank">Send money to the Philippines with Wise — transparent rates, low fees</a>
 
 ## Cultural Adjustment: Philippines to Netherlands
 

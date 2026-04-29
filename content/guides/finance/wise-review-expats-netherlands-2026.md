@@ -164,7 +164,7 @@ My recommendation: open both. Use ING (or ABN AMRO — essentially identical for
 
 Opening a basic ING account is free and takes about 15 minutes. There is no reason not to have both.
 
-<a href="https://go.expatnetherlandshub.com/wise?ref=/guides/finance/wise-review-expats-netherlands-2026/" target="_blank" rel="noopener nofollow sponsored" class="cta-affiliate">Open a Wise account →</a>
+<a href="https://go.expatnetherlandshub.com/wise?ref=/guides/finance/wise-review-expats-netherlands-2026/" target="_blank" rel="nofollow noopener sponsored" class="cta-affiliate">Open a Wise account →</a>
 
 ---
 
@@ -255,7 +255,7 @@ For a newly arrived expat, my standard recommendation:
 
 This setup costs nothing extra compared to Wise alone, gives you complete coverage of Dutch payment systems, and keeps your international finances in the most cost-effective tool available.
 
-<a href="https://go.expatnetherlandshub.com/wise?ref=/guides/finance/wise-review-expats-netherlands-2026/" target="_blank" rel="noopener nofollow sponsored" class="cta-affiliate">Open a Wise account →</a>
+<a href="https://go.expatnetherlandshub.com/wise?ref=/guides/finance/wise-review-expats-netherlands-2026/" target="_blank" rel="nofollow noopener sponsored" class="cta-affiliate">Open a Wise account →</a>
 
 ---
 
@@ -289,7 +289,7 @@ Yes, for most of these destinations Wise is significantly cheaper than a traditi
 
 ## Opening a Wise Account: Step by Step
 
-1. Go to <a href="https://go.expatnetherlandshub.com/wise?ref=/guides/finance/wise-review-expats-netherlands-2026/" target="_blank" rel="noopener nofollow sponsored">wise.com</a> or download the Wise app
+1. Go to <a href="https://go.expatnetherlandshub.com/wise?ref=/guides/finance/wise-review-expats-netherlands-2026/" target="_blank" rel="nofollow noopener sponsored">wise.com</a> or download the Wise app
 2. Enter your email address and create a password
 3. Select "Personal" or "Business" account
 4. Verify your identity — you will need a passport or national ID and a selfie. Takes 5–10 minutes
@@ -381,4 +381,4 @@ It is not a complete replacement for a Dutch bank account — specifically becau
 
 I have recommended Wise to hundreds of expats over the years. The feedback I get back is almost universally positive — not because it is perfect, but because it solves the real problems expats have with international banking in a way that traditional Dutch banks simply do not.
 
-<a href="https://go.expatnetherlandshub.com/wise?ref=/guides/finance/wise-review-expats-netherlands-2026/" target="_blank" rel="noopener nofollow sponsored" class="cta-affiliate">Open a Wise account →</a>
+<a href="https://go.expatnetherlandshub.com/wise?ref=/guides/finance/wise-review-expats-netherlands-2026/" target="_blank" rel="nofollow noopener sponsored" class="cta-affiliate">Open a Wise account →</a>

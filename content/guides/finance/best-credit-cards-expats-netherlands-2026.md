@@ -169,7 +169,7 @@ When you genuinely cannot get a credit card approved and need something that wor
 - **PaySafeCard** — widely used for online purchases, not a physical card
 - **Revolut Standard (free)** — works like a debit card for international spending, better rates than traditional banks
 
-The <a href="https://go.expatnetherlandshub.com/wise?ref=/guides/finance/best-credit-cards-expats-netherlands-2026/" target="_blank" rel="noopener nofollow sponsored" class="cta-affiliate">Wise card is my top recommendation as a credit card alternative →</a> — it is not a credit card, but for 90% of what expats actually need a credit card for (online purchases, hotel bookings, car rentals, international spending), it works equally well and often better. No credit check, instant approval, and it works the moment you top it up.
+The <a href="https://go.expatnetherlandshub.com/wise?ref=/guides/finance/best-credit-cards-expats-netherlands-2026/" target="_blank" rel="nofollow noopener sponsored" class="cta-affiliate">Wise card is my top recommendation as a credit card alternative →</a> — it is not a credit card, but for 90% of what expats actually need a credit card for (online purchases, hotel bookings, car rentals, international spending), it works equally well and often better. No credit check, instant approval, and it works the moment you top it up.
 
 ---
 

@@ -260,6 +260,6 @@ For context on why the Dutch housing market is this tight and what is being done
 
 One practical note on WoningNet registration: the application is free and takes about 15 minutes online, but you must have a valid Dutch address and BSN at the time you register. If you are still in temporary accommodation when you first arrive, register on WoningNet as soon as you have both. Every week of waiting time you defer is a week you cannot get back. Even if you are certain you will not use social housing for years, registering now means the clock starts. Given that waiting times in Amsterdam currently run 14+ years, starting at month one versus month twelve matters more than most people expect.
 
-<a href="https://go.expatnetherlandshub.com/wise" class="cta-affiliate" rel="sponsored noopener">Try Wise</a>
+<a href="https://go.expatnetherlandshub.com/wise" class="cta-affiliate" rel="nofollow noopener sponsored" target="_blank">Try Wise</a>
 
-Once you have an address, compare energy contracts to get the best deal: <a href="https://go.expatnetherlandshub.com/independer-energie" class="cta-affiliate" rel="sponsored noopener">Compare Energy Plans at Independer</a>
+Once you have an address, compare energy contracts to get the best deal: <a href="https://go.expatnetherlandshub.com/independer-energie" class="cta-affiliate" rel="nofollow noopener sponsored" target="_blank">Compare Energy Plans at Independer</a>

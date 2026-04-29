@@ -258,7 +258,7 @@ AOW and employer pensions are paid to a bank account. There is no requirement th
 
 If you are retiring to a country outside the eurozone, receiving your Dutch pension in euros and converting it efficiently matters. A dedicated international transfer service can significantly reduce what you lose to exchange rate margins and fees.
 
-<a href="https://go.expatnetherlandshub.com/wise?ref=/guides/finance/dutch-pension-leaving-netherlands-2026/" target="_blank" rel="noopener nofollow sponsored" class="cta-affiliate">Receive pension payments abroad with Wise →</a>
+<a href="https://go.expatnetherlandshub.com/wise?ref=/guides/finance/dutch-pension-leaving-netherlands-2026/" target="_blank" rel="nofollow noopener sponsored" class="cta-affiliate">Receive pension payments abroad with Wise →</a>
 
 Wise (formerly TransferWise) allows you to receive euros directly into a Wise account and convert at the mid-market rate, with transparent fees. You can then transfer to your local bank in local currency. For monthly pension amounts of €300–€2,000, the savings over a traditional bank conversion can add up to hundreds of euros per year over a retirement.
 

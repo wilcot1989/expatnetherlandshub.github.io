@@ -251,9 +251,9 @@ Estate planning does not live in isolation. A decision about how to hold investm
 
 
 
-<a href="https://go.expatnetherlandshub.com/wise" class="cta-affiliate" rel="sponsored noopener">Try Wise</a>
+<a href="https://go.expatnetherlandshub.com/wise" class="cta-affiliate" rel="nofollow noopener sponsored" target="_blank">Try Wise</a>
 
-Protect your family's finances with comprehensive expat coverage: <a href="https://go.expatnetherlandshub.com/safetywing" class="cta-affiliate" rel="sponsored noopener">Get Expat Coverage with SafetyWing</a>
+Protect your family's finances with comprehensive expat coverage: <a href="https://go.expatnetherlandshub.com/safetywing" class="cta-affiliate" rel="nofollow noopener sponsored" target="_blank">Get Expat Coverage with SafetyWing</a>
 
 ## Related Guides
 

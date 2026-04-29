@@ -148,7 +148,7 @@ A broken arm during week three of this period could generate significant costs i
 
 Cost for this use case: approximately EUR 40–80 for 4–8 weeks. Absolutely worth it.
 
-<a href="https://go.expatnetherlandshub.com/safetywing?ref=/guides/health/safetywing-review-expats-netherlands-2026/" target="_blank" rel="noopener nofollow sponsored" class="cta-affiliate">Check SafetyWing coverage →</a>
+<a href="https://go.expatnetherlandshub.com/safetywing?ref=/guides/health/safetywing-review-expats-netherlands-2026/" target="_blank" rel="nofollow noopener sponsored" class="cta-affiliate">Check SafetyWing coverage →</a>
 
 ### Scenario 2: Travel Insurance When You Leave the Netherlands
 
@@ -204,7 +204,7 @@ The price advantage is significant. The coverage difference is also significant:
 
 For families arriving in the Netherlands with a gap period before Dutch insurance starts, SafetyWing is particularly cost-effective family gap coverage.
 
-<a href="https://go.expatnetherlandshub.com/safetywing?ref=/guides/health/safetywing-review-expats-netherlands-2026/" target="_blank" rel="noopener nofollow sponsored" class="cta-affiliate">Check SafetyWing coverage →</a>
+<a href="https://go.expatnetherlandshub.com/safetywing?ref=/guides/health/safetywing-review-expats-netherlands-2026/" target="_blank" rel="nofollow noopener sponsored" class="cta-affiliate">Check SafetyWing coverage →</a>
 
 ---
 
@@ -325,7 +325,7 @@ SafetyWing is a genuinely excellent product for what it is designed to do. For e
 
 What it cannot do: replace Dutch basisverzekering for anyone who is legally required to have it. If you are registered in the Netherlands and working here, get basisverzekering. SafetyWing is the bridge to get you there, not the destination. Use our [health insurance wizard](/tools/health-insurance-wizard/) to find the right basisverzekering plan, and see our guide to [what Dutch health insurance covers](/guides/health/what-dutch-health-insurance-covers-2026/) for the full details.
 
-<a href="https://go.expatnetherlandshub.com/safetywing?ref=/guides/health/safetywing-review-expats-netherlands-2026/" target="_blank" rel="noopener nofollow sponsored" class="cta-affiliate">Check SafetyWing coverage →</a>
+<a href="https://go.expatnetherlandshub.com/safetywing?ref=/guides/health/safetywing-review-expats-netherlands-2026/" target="_blank" rel="nofollow noopener sponsored" class="cta-affiliate">Check SafetyWing coverage →</a>
 
 ## Frequently Asked Questions
 

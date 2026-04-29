@@ -295,7 +295,7 @@ When I started freelancing, I spent far too long worrying about whether my invoi
 
 For health insurance, compare all major Dutch providers in one place — Independer is the Netherlands' most-used comparison platform and shows your estimated net cost after any zorgtoeslag (healthcare allowance) you qualify for.
 
-<a href="https://go.expatnetherlandshub.com/independer-zorg?ref=/guides/work/freelancer-zzp-guide-netherlands-2026/" target="_blank" rel="noopener nofollow sponsored" class="cta-affiliate">Compare Dutch Health Insurance for ZZP on Independer →</a>
+<a href="https://go.expatnetherlandshub.com/independer-zorg?ref=/guides/work/freelancer-zzp-guide-netherlands-2026/" target="_blank" rel="nofollow noopener sponsored" class="cta-affiliate">Compare Dutch Health Insurance for ZZP on Independer →</a>
 
 Read our [complete expat insurance guide](/guides/health/best-expat-insurance-netherlands-2026/) for details.
 
@@ -347,9 +347,9 @@ If your professional qualifications were obtained outside the EU, some clients o
 
 ### Money Transfers
 
-For international money transfers (receiving payments from abroad, paying suppliers), use <a href="https://go.expatnetherlandshub.com/wise?ref=/guides/work/freelancer-zzp-guide-netherlands-2026/" rel="noopener nofollow sponsored" target="_blank">Wise</a> to avoid high bank fees. Dutch banks charge 2-5% in hidden exchange rate markups — Wise charges the real exchange rate plus a small transparent fee.
+For international money transfers (receiving payments from abroad, paying suppliers), use <a href="https://go.expatnetherlandshub.com/wise?ref=/guides/work/freelancer-zzp-guide-netherlands-2026/" rel="nofollow noopener sponsored" target="_blank">Wise</a> to avoid high bank fees. Dutch banks charge 2-5% in hidden exchange rate markups — Wise charges the real exchange rate plus a small transparent fee.
 
-If you work remotely from coworking spaces or cafés, you will regularly be accessing tax portals, accounting software, and client systems over shared WiFi. A VPN keeps that traffic private. <a href="https://go.expatnetherlandshub.com/nordvpn?ref=/guides/work/freelancer-zzp-guide-netherlands-2026/" rel="noopener nofollow sponsored" target="_blank">Stay secure on public WiFi with NordVPN →</a> For a guide to the best coworking spaces across Dutch cities — including day pass options and spaces with strong freelancer communities — see our [best coworking spaces in the Netherlands guide](/guides/work/best-coworking-spaces-netherlands-2026/).
+If you work remotely from coworking spaces or cafés, you will regularly be accessing tax portals, accounting software, and client systems over shared WiFi. A VPN keeps that traffic private. <a href="https://go.expatnetherlandshub.com/nordvpn?ref=/guides/work/freelancer-zzp-guide-netherlands-2026/" rel="nofollow noopener sponsored" target="_blank">Stay secure on public WiFi with NordVPN →</a> For a guide to the best coworking spaces across Dutch cities — including day pass options and spaces with strong freelancer communities — see our [best coworking spaces in the Netherlands guide](/guides/work/best-coworking-spaces-netherlands-2026/).
 
 ### Pension
 
@@ -424,9 +424,9 @@ The Dutch government has been discussing mandatory AOV for ZZP'ers since 2025 �
 
 Use our [insurance chooser](/tools/insurance-chooser/) to compare AOV, liability, and health insurance options side by side based on your ZZP profile.
 
-**Freelancers who travel internationally for client work** should also consider short-term travel medical coverage for trips outside the Netherlands. Your Dutch basisverzekering covers emergency care abroad to a degree, but the reimbursement limits for non-EU countries can fall short — and international business travel is not covered the same way as a holiday. <a href="https://go.expatnetherlandshub.com/safetywing?ref=/guides/work/freelancer-zzp-guide-netherlands-2026/" rel="noopener nofollow sponsored" target="_blank">SafetyWing Nomad Insurance</a> is a practical top-up for ZZPers who work across borders: it covers emergency hospitalisation, evacuation, and trip interruption from around $45/month billed monthly with no long-term commitment. It is not a replacement for your Dutch health insurance — you still need that — but it fills the gap when you are working in the US, Southeast Asia, or anywhere your Dutch insurer's international coverage is limited.
+**Freelancers who travel internationally for client work** should also consider short-term travel medical coverage for trips outside the Netherlands. Your Dutch basisverzekering covers emergency care abroad to a degree, but the reimbursement limits for non-EU countries can fall short — and international business travel is not covered the same way as a holiday. <a href="https://go.expatnetherlandshub.com/safetywing?ref=/guides/work/freelancer-zzp-guide-netherlands-2026/" rel="nofollow noopener sponsored" target="_blank">SafetyWing Nomad Insurance</a> is a practical top-up for ZZPers who work across borders: it covers emergency hospitalisation, evacuation, and trip interruption from around $45/month billed monthly with no long-term commitment. It is not a replacement for your Dutch health insurance — you still need that — but it fills the gap when you are working in the US, Southeast Asia, or anywhere your Dutch insurer's international coverage is limited.
 
-<a href="https://go.expatnetherlandshub.com/safetywing?ref=/guides/work/freelancer-zzp-guide-netherlands-2026/" rel="noopener nofollow sponsored" target="_blank">Get SafetyWing travel coverage from $45/month →</a>
+<a href="https://go.expatnetherlandshub.com/safetywing?ref=/guides/work/freelancer-zzp-guide-netherlands-2026/" rel="nofollow noopener sponsored" target="_blank">Get SafetyWing travel coverage from $45/month →</a>
 
 ## Insurance for ZZP'ers: AOV and Liability in Detail
 

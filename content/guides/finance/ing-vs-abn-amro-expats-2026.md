@@ -49,7 +49,7 @@ Before getting into the details, here is my short answer:
 
 **Choose ING if:**
 - You want the most polished English-language app experience
-- You send money abroad infrequently (or you use <a href="https://go.expatnetherlandshub.com/wise?ref=/guides/finance/ing-vs-abn-amro-expats-2026/" rel="noopener nofollow sponsored" target="_blank">Wise</a> for international transfers)
+- You send money abroad infrequently (or you use <a href="https://go.expatnetherlandshub.com/wise?ref=/guides/finance/ing-vs-abn-amro-expats-2026/" rel="nofollow noopener sponsored" target="_blank">Wise</a> for international transfers)
 - You want a large ATM network across the Netherlands
 - You are new to the Netherlands and want the easiest digital onboarding
 
@@ -105,7 +105,7 @@ The online process takes about 15 minutes. You verify your identity with a video
 
 One sticking point: you must have a BSN before you can open an account with ING. If you just arrived in the Netherlands and have not registered at the gemeente yet, that is your first step. My [BSN registration guide](/guides/legal/bsn-registration-guide-2026/) walks through exactly how to do that, including which documents you need and how long it typically takes.
 
-If you need a bank account urgently before your BSN comes through — which does happen — your best option is a <a href="https://go.expatnetherlandshub.com/wise?ref=/guides/finance/ing-vs-abn-amro-expats-2026/" rel="noopener nofollow sponsored" target="_blank">Wise</a> account with a European IBAN. It is not a full Dutch bank account, but it gives you an IBAN you can use to receive salary and make transfers while you wait for your BSN and then your proper Dutch account.
+If you need a bank account urgently before your BSN comes through — which does happen — your best option is a <a href="https://go.expatnetherlandshub.com/wise?ref=/guides/finance/ing-vs-abn-amro-expats-2026/" rel="nofollow noopener sponsored" target="_blank">Wise</a> account with a European IBAN. It is not a full Dutch bank account, but it gives you an IBAN you can use to receive salary and make transfers while you wait for your BSN and then your proper Dutch account.
 
 ### Opening an Account with ABN AMRO
 
@@ -193,7 +193,7 @@ Both banks issue a standard Maestro/V-Pay debit card included in the monthly fee
 - **ING:** €0 for withdrawals in the EEA (EU, EEA countries), €4.50 outside the EEA
 - **ABN AMRO:** €0 for withdrawals in the EEA, €4.50 outside the EEA
 
-For foreign currency card payments, both banks apply the ECB exchange rate plus a small markup (typically 1.8–2.0%). If you spend frequently in currencies other than euros — for example, if you travel to the UK regularly — those fees add up. My advice is to use a <a href="https://go.expatnetherlandshub.com/wise?ref=/guides/finance/ing-vs-abn-amro-expats-2026/" rel="noopener nofollow sponsored" target="_blank">Wise</a> card for non-euro spending. You get the real mid-market rate with no markup, which on a UK trip can save you €15–€30.
+For foreign currency card payments, both banks apply the ECB exchange rate plus a small markup (typically 1.8–2.0%). If you spend frequently in currencies other than euros — for example, if you travel to the UK regularly — those fees add up. My advice is to use a <a href="https://go.expatnetherlandshub.com/wise?ref=/guides/finance/ing-vs-abn-amro-expats-2026/" rel="nofollow noopener sponsored" target="_blank">Wise</a> card for non-euro spending. You get the real mid-market rate with no markup, which on a UK trip can save you €15–€30.
 
 ### International Transfer Fees
 
@@ -206,9 +206,9 @@ SEPA transfers within Europe are free for both ING and ABN AMRO. But if you need
 
 On a £1,000 transfer, that exchange rate markup alone costs you £20–£40 more than you would pay with Wise. For expats who regularly send money home, using either bank for international transfers is expensive.
 
-My standard recommendation: open a <a href="https://go.expatnetherlandshub.com/wise?ref=/guides/finance/ing-vs-abn-amro-expats-2026/" rel="noopener nofollow sponsored" target="_blank">Wise</a> account alongside your Dutch bank account and use it exclusively for international transfers. Wise charges a small transparent fee (often 0.4–0.8% of the transfer amount) and uses the real exchange rate. On a regular basis, that saves meaningful money.
+My standard recommendation: open a <a href="https://go.expatnetherlandshub.com/wise?ref=/guides/finance/ing-vs-abn-amro-expats-2026/" rel="nofollow noopener sponsored" target="_blank">Wise</a> account alongside your Dutch bank account and use it exclusively for international transfers. Wise charges a small transparent fee (often 0.4–0.8% of the transfer amount) and uses the real exchange rate. On a regular basis, that saves meaningful money.
 
-<a href="https://go.expatnetherlandshub.com/wise?ref=/guides/finance/ing-vs-abn-amro-expats-2026/" target="_blank" rel="noopener nofollow sponsored" class="cta-affiliate">Open a Free Wise Account →</a>
+<a href="https://go.expatnetherlandshub.com/wise?ref=/guides/finance/ing-vs-abn-amro-expats-2026/" target="_blank" rel="nofollow noopener sponsored" class="cta-affiliate">Open a Free Wise Account →</a>
 
 For a full comparison of international transfer options, see my guide on [Wise vs Revolut](/guides/finance/wise-vs-revolut-netherlands-2026/).
 
@@ -314,7 +314,7 @@ After more than a decade of living here and helping hundreds of expats sort out 
 
 **Switch to ABN AMRO, or open an ABN AMRO account as your second Dutch account, if you are planning to buy a home within the next 1–2 years or if you have a particularly complex financial situation.** The international desk is worth the occasional longer hold time when you are dealing with a mortgage application or trying to understand how your 30% ruling interacts with your gross salary calculation.
 
-And regardless of which bank you choose: open a <a href="https://go.expatnetherlandshub.com/wise?ref=/guides/finance/ing-vs-abn-amro-expats-2026/" rel="noopener nofollow sponsored" target="_blank">Wise</a> account alongside it. Both ING and ABN AMRO will charge you a significant markup for international transfers. Wise will not. This is not a criticism unique to these two banks — it is true of virtually every traditional Dutch bank — but it is a real cost that adds up over months and years.
+And regardless of which bank you choose: open a <a href="https://go.expatnetherlandshub.com/wise?ref=/guides/finance/ing-vs-abn-amro-expats-2026/" rel="nofollow noopener sponsored" target="_blank">Wise</a> account alongside it. Both ING and ABN AMRO will charge you a significant markup for international transfers. Wise will not. This is not a criticism unique to these two banks — it is true of virtually every traditional Dutch bank — but it is a real cost that adds up over months and years.
 
 If you are just starting your research into banking options in the Netherlands, my guide on [best bank accounts for expats](/guides/finance/best-bank-account-expats-netherlands-2026/) covers all the main players including Rabobank, Bunq, and N26, so you can make an informed choice. And if you are still early in the relocation process, my [complete guide to moving to the Netherlands](/guides/legal/complete-guide-moving-to-netherlands-2026/) covers the full checklist of what to sort out in what order, including banking, housing, and registration.
 

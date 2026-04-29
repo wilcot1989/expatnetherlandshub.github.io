@@ -343,7 +343,7 @@ For expats on highly skilled migrant permits, legal aid eligibility depends on D
 - [IamExpat: Divorce information](https://www.iamexpat.nl/expat-info/family/divorce-netherlands)
 - [Government.nl: Marriage and partnership dissolution](https://www.government.nl/topics/divorce-and-separation)
 
-<a href="https://go.expatnetherlandshub.com/wise" class="cta-affiliate" rel="sponsored noopener">Try Wise</a>
+<a href="https://go.expatnetherlandshub.com/wise" class="cta-affiliate" rel="nofollow noopener sponsored" target="_blank">Try Wise</a>
 
 ## Related articles
 

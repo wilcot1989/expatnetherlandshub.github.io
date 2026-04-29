@@ -333,4 +333,4 @@ Beyond the standard musculoskeletal treatment most people associate with physiot
 
 **Sports physiotherapy.** Dutch sports clubs and sports medicine clinics offer specialist sports physiotherapy for injury rehabilitation, performance optimisation, and injury prevention. These services are available privately and are not always covered by basic supplementary packages. Major Dutch sports medicine centres (SportMedisch Centrum) in all large cities offer combined orthopaedic and physiotherapy assessment for sports injuries.
 
-<a href="https://go.expatnetherlandshub.com/preply" class="cta-affiliate" rel="sponsored noopener">Try Preply</a>
+<a href="https://go.expatnetherlandshub.com/preply" class="cta-affiliate" rel="nofollow noopener sponsored" target="_blank">Try Preply</a>

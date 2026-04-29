@@ -138,7 +138,7 @@ On EUR 70,000 gross per year, your vakantiegeld is EUR 5,600 gross (paid out in 
 
 **Always add this to your annual calculation.** Your total gross annual compensation package on a EUR 70,000 salary is actually EUR 75,600 — that is the number that matters when comparing offers.
 
-For understanding exactly how your net income changes when you transfer money internationally — for instance if you are maintaining accounts in the UK, Germany, or the US — <a href="https://go.expatnetherlandshub.com/wise?ref=/guides/work/salary-negotiation-netherlands-expats-2026/" target="_blank" rel="noopener nofollow sponsored" class="cta-affiliate">Calculate real transfer costs with Wise →</a>
+For understanding exactly how your net income changes when you transfer money internationally — for instance if you are maintaining accounts in the UK, Germany, or the US — <a href="https://go.expatnetherlandshub.com/wise?ref=/guides/work/salary-negotiation-netherlands-expats-2026/" target="_blank" rel="nofollow noopener sponsored" class="cta-affiliate">Calculate real transfer costs with Wise →</a>
 
 You can also read more about the full Dutch tax picture in my guide to the [Dutch tax system for expats](/guides/finance/dutch-tax-system-expats-guide-2026/).
 

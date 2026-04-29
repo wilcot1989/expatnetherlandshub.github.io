@@ -239,7 +239,7 @@ N26 makes sense as a **supplement** if you value its German deposit insurance pr
 
 You do not need both N26 and Wise — pick one fintech and pair it with a free Dutch bank account (ING, ABN AMRO) for iDEAL and Tikkie.
 
-<a href="https://go.expatnetherlandshub.com/wise?ref=/guides/finance/n26-review-expats-netherlands-2026/" target="_blank" rel="noopener nofollow sponsored" class="cta-affiliate">Open a Wise account →</a>
+<a href="https://go.expatnetherlandshub.com/wise?ref=/guides/finance/n26-review-expats-netherlands-2026/" target="_blank" rel="nofollow noopener sponsored" class="cta-affiliate">Open a Wise account →</a>
 
 ---
 
@@ -319,7 +319,7 @@ Pair it with a free Dutch bank account if you want N26's features. Or skip N26 a
 
 That setup — Wise + free Dutch bank — covers everything N26 covers and more, at lower or no additional cost. See my [guide to opening a bank account in the Netherlands](/guides/finance/how-to-open-bank-account-netherlands-2026/) for the step-by-step process, or use our [bank account chooser tool](/tools/bank-account-chooser/) to find the right fit.
 
-<a href="https://go.expatnetherlandshub.com/wise?ref=/guides/finance/n26-review-expats-netherlands-2026/" target="_blank" rel="noopener nofollow sponsored" class="cta-affiliate">Open a Wise account →</a>
+<a href="https://go.expatnetherlandshub.com/wise?ref=/guides/finance/n26-review-expats-netherlands-2026/" target="_blank" rel="nofollow noopener sponsored" class="cta-affiliate">Open a Wise account →</a>
 
 ## Frequently Asked Questions
 

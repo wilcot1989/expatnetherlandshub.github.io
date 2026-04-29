@@ -281,4 +281,4 @@ Albert Heijn (AH) and Jumbo are the two dominant Dutch supermarkets, together ac
 
 Tipping in the Netherlands is appreciated but not obligatory or expected to the same degree as in the US or UK. The standard approach: round up to a convenient number (e.g., if the bill is EUR 43, leave EUR 47 or EUR 50). For good service at a restaurant, 10% is a generous tip. For bad service, tipping is not expected. At cafés and bars, tipping is uncommon for drinks. Delivery drivers and hairdressers are typically tipped a small amount. The Netherlands does not have the tipping culture that makes service industry wages dependent on gratuities — staff are paid decent wages and tips are genuinely a bonus rather than a necessity.
 
-<a href="https://go.expatnetherlandshub.com/wise" class="cta-affiliate" rel="sponsored noopener">Try Wise</a>
+<a href="https://go.expatnetherlandshub.com/wise" class="cta-affiliate" rel="nofollow noopener sponsored" target="_blank">Try Wise</a>

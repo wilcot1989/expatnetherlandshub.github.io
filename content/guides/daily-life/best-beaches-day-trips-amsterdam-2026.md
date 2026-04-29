@@ -375,4 +375,4 @@ After years of Amsterdam-based day trips in all seasons, I have learned a handfu
 
 Whatever combination you choose, the logistics are simple: the NS app handles train tickets, the OV-fiets system at train stations handles bikes for the last mile, and zwemwater.nl handles the beach safety check. The rest is just showing up and exploring. The Netherlands rewards that approach more generously than its reputation suggests. For building a full Dutch life beyond the day trips — language, community, finance, and everything in between — the other guides on ExpatNetherlandsHub are your reference. Start with the [complete guide to moving to the Netherlands](/guides/legal/complete-guide-moving-to-netherlands-2026/) if you are still in the planning stages.
 
-<a href="https://go.expatnetherlandshub.com/wise" class="cta-affiliate" rel="sponsored noopener">Try Wise</a>
+<a href="https://go.expatnetherlandshub.com/wise" class="cta-affiliate" rel="nofollow noopener sponsored" target="_blank">Try Wise</a>

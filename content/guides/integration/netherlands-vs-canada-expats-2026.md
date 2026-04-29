@@ -258,8 +258,8 @@ The EUR-to-CAD rate fluctuates but has historically been in the range of 1 EUR =
 
 <div class="affiliate-cta">
   <h3>Send Money Between the Netherlands and Canada with Wise</h3>
-  <p><a href="https://go.expatnetherlandshub.com/wise?ref=/guides/integration/netherlands-vs-canada-expats-2026/" target="_blank" rel="noopener nofollow sponsored">Wise</a> uses the real mid-market exchange rate with low, transparent fees — typically 0.4-1.5% of the transfer amount. For regular transfers on the EUR-CAD corridor, this can save hundreds of euros per year compared to bank wire transfers. You can hold both EUR and CAD in a single Wise multi-currency account, send money from your phone, and receive local account details in both currencies. Used by thousands of expats on the NL-Canada corridor.</p>
-  <a href="https://go.expatnetherlandshub.com/wise?ref=/guides/integration/netherlands-vs-canada-expats-2026/" class="cta-button" target="_blank" rel="noopener nofollow sponsored">Open a Wise Account — No Monthly Fees</a>
+  <p><a href="https://go.expatnetherlandshub.com/wise?ref=/guides/integration/netherlands-vs-canada-expats-2026/" target="_blank" rel="nofollow noopener sponsored">Wise</a> uses the real mid-market exchange rate with low, transparent fees — typically 0.4-1.5% of the transfer amount. For regular transfers on the EUR-CAD corridor, this can save hundreds of euros per year compared to bank wire transfers. You can hold both EUR and CAD in a single Wise multi-currency account, send money from your phone, and receive local account details in both currencies. Used by thousands of expats on the NL-Canada corridor.</p>
+  <a href="https://go.expatnetherlandshub.com/wise?ref=/guides/integration/netherlands-vs-canada-expats-2026/" class="cta-button" target="_blank" rel="nofollow noopener sponsored">Open a Wise Account — No Monthly Fees</a>
 </div>
 
 For managing the financial side of the move — including setting up Dutch banking and understanding transfer options — the [best international money transfers from the Netherlands](/guides/finance/best-international-money-transfer-netherlands-2026/) guide covers the full range of options.
@@ -276,8 +276,8 @@ If you are leaving the Netherlands for Canada: Dutch health insurance terminates
 
 <div class="affiliate-cta">
   <h3>Health Coverage for Expats in Transit: SafetyWing</h3>
-  <p><a href="https://go.expatnetherlandshub.com/safetywing?ref=/guides/integration/netherlands-vs-canada-expats-2026/" target="_blank" rel="noopener nofollow sponsored">SafetyWing Nomad Insurance</a> covers medical emergencies globally, including both the Netherlands and Canada, and is designed specifically for internationally mobile people. It is used by expats moving between countries to fill the gap between old and new healthcare systems, during probationary periods, and for frequent cross-border travel. Plans start from approximately USD 45.08/month (under 39 years of age) and can be started from anywhere.</p>
-  <a href="https://go.expatnetherlandshub.com/safetywing?ref=/guides/integration/netherlands-vs-canada-expats-2026/" class="cta-button" target="_blank" rel="noopener nofollow sponsored">Get SafetyWing Nomad Insurance</a>
+  <p><a href="https://go.expatnetherlandshub.com/safetywing?ref=/guides/integration/netherlands-vs-canada-expats-2026/" target="_blank" rel="nofollow noopener sponsored">SafetyWing Nomad Insurance</a> covers medical emergencies globally, including both the Netherlands and Canada, and is designed specifically for internationally mobile people. It is used by expats moving between countries to fill the gap between old and new healthcare systems, during probationary periods, and for frequent cross-border travel. Plans start from approximately USD 45.08/month (under 39 years of age) and can be started from anywhere.</p>
+  <a href="https://go.expatnetherlandshub.com/safetywing?ref=/guides/integration/netherlands-vs-canada-expats-2026/" class="cta-button" target="_blank" rel="nofollow noopener sponsored">Get SafetyWing Nomad Insurance</a>
 </div>
 
 ---

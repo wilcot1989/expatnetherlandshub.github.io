@@ -183,7 +183,7 @@ But Rotterdam's international community tends to be more genuinely mixed with Du
 
 If Dutch integration matters to you, Rotterdam is the better environment. There is more gentle social pressure to learn the language, and more opportunity to actually use it. My guide to [Dutch language courses](/guides/integration/best-dutch-language-courses-2026/) covers the best options in both cities, from evening classes to intensive immersion programmes.
 
-One note on banking when you arrive: whichever city you choose, setting up an account that handles international transfers without painful fees is important early on. I use <a href="https://go.expatnetherlandshub.com/wise?ref=/guides/daily-life/amsterdam-vs-rotterdam-expats-2026/" target="_blank" rel="noopener nofollow sponsored" class="cta-affiliate">Wise for international transfers →</a> — the multi-currency account is especially useful in the first weeks before your Dutch bank account is fully operational.
+One note on banking when you arrive: whichever city you choose, setting up an account that handles international transfers without painful fees is important early on. I use <a href="https://go.expatnetherlandshub.com/wise?ref=/guides/daily-life/amsterdam-vs-rotterdam-expats-2026/" target="_blank" rel="nofollow noopener sponsored" class="cta-affiliate">Wise for international transfers →</a> — the multi-currency account is especially useful in the first weeks before your Dutch bank account is fully operational.
 
 ---
 
@@ -275,11 +275,11 @@ Utrecht is 25 minutes from Amsterdam by train and has a large, young, internatio
 
 A few things apply regardless of whether you land in Amsterdam or Rotterdam.
 
-**Banking:** Dutch banks (ING, ABN AMRO, Rabobank) are fine for domestic payments but charge for international transfers. For sending money home or receiving salary in a foreign currency, <a href="https://go.expatnetherlandshub.com/wise?ref=/guides/daily-life/amsterdam-vs-rotterdam-expats-2026/" target="_blank" rel="noopener nofollow sponsored" class="cta-affiliate">Wise gives you a real exchange rate with low fees →</a>. I set it up in my first week in the Netherlands and still use it for any transfer over €200.
+**Banking:** Dutch banks (ING, ABN AMRO, Rabobank) are fine for domestic payments but charge for international transfers. For sending money home or receiving salary in a foreign currency, <a href="https://go.expatnetherlandshub.com/wise?ref=/guides/daily-life/amsterdam-vs-rotterdam-expats-2026/" target="_blank" rel="nofollow noopener sponsored" class="cta-affiliate">Wise gives you a real exchange rate with low fees →</a>. I set it up in my first week in the Netherlands and still use it for any transfer over €200.
 
 **Internet:** Both cities have good fibre broadband coverage. My [internet providers guide](/guides/daily-life/best-internet-providers-netherlands-2026/) compares KPN, Ziggo, T-Mobile Thuis, and Odido with current pricing.
 
-**VPN:** Worth having, particularly if you are streaming content from your home country or working with sensitive client data. <a href="https://go.expatnetherlandshub.com/nordvpn?ref=/guides/daily-life/amsterdam-vs-rotterdam-expats-2026/" target="_blank" rel="noopener nofollow sponsored" class="cta-affiliate">NordVPN is the one I use — from €3.09/month →</a>.
+**VPN:** Worth having, particularly if you are streaming content from your home country or working with sensitive client data. <a href="https://go.expatnetherlandshub.com/nordvpn?ref=/guides/daily-life/amsterdam-vs-rotterdam-expats-2026/" target="_blank" rel="nofollow noopener sponsored" class="cta-affiliate">NordVPN is the one I use — from €3.09/month →</a>.
 
 **Salary transparency:** Use the [salary comparison tool](/salary-comparison/) before accepting a job offer in either city. Dutch salary norms differ significantly by sector, and Amsterdam's cost premium can disappear quickly if you are not paid at the Amsterdam market rate.
 

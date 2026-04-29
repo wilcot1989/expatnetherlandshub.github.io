@@ -1203,10 +1203,9 @@ RESULTS
 <div class="tool-results-ctas">
 <h3>Ready for the next step?</h3>
 <div class="cta-buttons">
-<a
-href="https://go.expatnetherlandshub.com/wise?ref=/tools/30-percent-ruling-calculator/index/"
+<a href="https://go.expatnetherlandshub.com/wise?ref=/tools/30-percent-ruling-calculator/index/"
 target="_blank"
-rel="noopener noreferrer"
+rel="nofollow noopener noreferrer sponsored"
 class="cta-affiliate"
 id="wiseCtaLink"
 onclick="trackAffiliate('wise')"

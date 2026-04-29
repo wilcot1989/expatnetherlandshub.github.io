@@ -153,7 +153,7 @@ Waiting times in the Spanish public system can be long for non-urgent specialist
 
 SafetyWing's travel and expat health insurance is worth considering as a bridge while you establish residency in either country — particularly useful in the months before your Dutch or Spanish health registration is confirmed.
 
-<a href="https://go.expatnetherlandshub.com/safetywing?ref=/guides/integration/netherlands-vs-spain-expats-2026/" target="_blank" rel="noopener nofollow sponsored" class="cta-affiliate">Compare SafetyWing expat health coverage →</a>
+<a href="https://go.expatnetherlandshub.com/safetywing?ref=/guides/integration/netherlands-vs-spain-expats-2026/" target="_blank" rel="nofollow noopener sponsored" class="cta-affiliate">Compare SafetyWing expat health coverage →</a>
 
 ---
 
@@ -304,7 +304,7 @@ The empadronamiento (padrón registration) system requires a physical appointmen
 
 Whichever country you choose, moving internationally means you will be dealing with currency transfers, multi-currency accounts, and managing finances across borders. Both the Netherlands and Spain have strong banking sectors, but international transfers between the two countries — or between either and your home country — add up quickly at traditional bank rates.
 
-<a href="https://go.expatnetherlandshub.com/wise?ref=/guides/integration/netherlands-vs-spain-expats-2026/" target="_blank" rel="noopener nofollow sponsored" class="cta-affiliate">Open a Wise multi-currency account for your move →</a>
+<a href="https://go.expatnetherlandshub.com/wise?ref=/guides/integration/netherlands-vs-spain-expats-2026/" target="_blank" rel="nofollow noopener sponsored" class="cta-affiliate">Open a Wise multi-currency account for your move →</a>
 
 Use our [Salary Checker](/tools/salary-checker/) to benchmark Dutch salaries for your specific role, and the [Cost of Living Calculator](/tools/cost-of-living-calculator/) to build a side-by-side budget for your target cities in both countries.
 

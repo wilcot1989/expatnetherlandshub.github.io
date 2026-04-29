@@ -61,7 +61,7 @@ The services that are genuinely cheap (Wise, Revolut) charge you the mid-market 
 
 ### 1. Wise — Best Overall for Most People
 
-<a href="https://go.expatnetherlandshub.com/wise?ref=/guides/finance/best-way-send-money-from-netherlands-2026/" target="_blank" rel="noopener nofollow sponsored" class="cta-affiliate">Send money with Wise →</a>
+<a href="https://go.expatnetherlandshub.com/wise?ref=/guides/finance/best-way-send-money-from-netherlands-2026/" target="_blank" rel="nofollow noopener sponsored" class="cta-affiliate">Send money with Wise →</a>
 
 Wise (formerly TransferWise) is my default recommendation for almost every expat who asks me about sending money from the Netherlands. I use it myself, I recommend it to my relocation clients, and the reason is simple: it consistently offers the lowest total cost on the widest range of currency corridors.
 
@@ -246,7 +246,7 @@ The Netherlands-to-UK corridor is one of the busiest in Europe, driven by the la
 
 Note that since Brexit, UK bank accounts are outside SEPA. Even GBP transfers between EU and UK banks go through SWIFT or private routing. There is no cheap "euro equivalent" for Netherlands-to-UK transfers — you always need a dedicated service or accept high bank fees.
 
-<a href="https://go.expatnetherlandshub.com/wise?ref=/guides/finance/best-way-send-money-from-netherlands-2026/" target="_blank" rel="noopener nofollow sponsored" class="cta-affiliate">Send money to the UK with Wise →</a>
+<a href="https://go.expatnetherlandshub.com/wise?ref=/guides/finance/best-way-send-money-from-netherlands-2026/" target="_blank" rel="nofollow noopener sponsored" class="cta-affiliate">Send money to the UK with Wise →</a>
 
 ---
 
@@ -341,7 +341,7 @@ Pay via iDEAL (fastest, usually instant), SEPA bank transfer from your Dutch acc
 
 Wise sends email updates as your transfer moves through each stage. You can also track it in the app. Once delivered, both you and your recipient receive a confirmation.
 
-<a href="https://go.expatnetherlandshub.com/wise?ref=/guides/finance/best-way-send-money-from-netherlands-2026/" target="_blank" rel="noopener nofollow sponsored" class="cta-affiliate">Open a Wise account and send your first transfer →</a>
+<a href="https://go.expatnetherlandshub.com/wise?ref=/guides/finance/best-way-send-money-from-netherlands-2026/" target="_blank" rel="nofollow noopener sponsored" class="cta-affiliate">Open a Wise account and send your first transfer →</a>
 
 ---
 
@@ -403,7 +403,7 @@ Use **Wise** as your primary transfer service for any cross-currency internation
 
 **For large one-off transfers (EUR 20,000+):** Wise handles these well, but also get a comparison quote from OFX, which has no transfer fee and occasionally offers tighter exchange rate margins for very large transfers.
 
-<a href="https://go.expatnetherlandshub.com/wise?ref=/guides/finance/best-way-send-money-from-netherlands-2026/" target="_blank" rel="noopener nofollow sponsored" class="cta-affiliate">Start saving on international transfers with Wise →</a>
+<a href="https://go.expatnetherlandshub.com/wise?ref=/guides/finance/best-way-send-money-from-netherlands-2026/" target="_blank" rel="nofollow noopener sponsored" class="cta-affiliate">Start saving on international transfers with Wise →</a>
 
 ---
 

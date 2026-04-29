@@ -125,13 +125,13 @@ Children under 18 are covered **free** under a parent's basic insurance. This is
 
 If your income is below approximately EUR 38,000 per year (single) or EUR 48,000 (couple), you may qualify for zorgtoeslag, a monthly healthcare allowance of up to EUR 150 per person. This can reduce your effective health insurance cost to near zero.
 
-Compare premiums from all Dutch insurers on <a href="https://go.expatnetherlandshub.com/independer-zorg?ref=/guides/housing/cost-of-living-netherlands-2026/" rel="noopener nofollow sponsored" target="_blank">Independer.nl</a>. For a detailed comparison, see our [complete guide to Dutch health insurance for expats](/guides/health/dutch-health-insurance-guide-expats-2026/).
+Compare premiums from all Dutch insurers on <a href="https://go.expatnetherlandshub.com/independer-zorg?ref=/guides/housing/cost-of-living-netherlands-2026/" rel="nofollow noopener sponsored" target="_blank">Independer.nl</a>. For a detailed comparison, see our [complete guide to Dutch health insurance for expats](/guides/health/dutch-health-insurance-guide-expats-2026/).
 
 ### Temporary Coverage
 
-If you are in a waiting period before your Dutch insurance starts, <a href="https://go.expatnetherlandshub.com/safetywing?ref=/guides/housing/cost-of-living-netherlands-2026/" rel="noopener nofollow sponsored" target="_blank">SafetyWing</a> offers international health coverage from around USD 45 per month, designed specifically for expats and remote workers.
+If you are in a waiting period before your Dutch insurance starts, <a href="https://go.expatnetherlandshub.com/safetywing?ref=/guides/housing/cost-of-living-netherlands-2026/" rel="nofollow noopener sponsored" target="_blank">SafetyWing</a> offers international health coverage from around USD 45 per month, designed specifically for expats and remote workers.
 
-<a href="https://go.expatnetherlandshub.com/safetywing?ref=/guides/housing/cost-of-living-netherlands-2026/" class="cta-affiliate" rel="noopener nofollow sponsored" target="_blank">Get SafetyWing Temporary Coverage from $45/month</a>
+<a href="https://go.expatnetherlandshub.com/safetywing?ref=/guides/housing/cost-of-living-netherlands-2026/" class="cta-affiliate" rel="nofollow noopener sponsored" target="_blank">Get SafetyWing Temporary Coverage from $45/month</a>
 
 ---
 
@@ -247,7 +247,7 @@ Dutch utility costs have stabilized after the energy price spike of 2022-2023, t
 
 Energy is one of the easiest costs to reduce in the Netherlands — the market is competitive and switching providers is free. Independer lets you compare all major suppliers in minutes. For a detailed breakdown of what to look for, see our [guide to the best energy providers in the Netherlands](/guides/housing/energy-providers-expats-netherlands-2026/).
 
-<a href="https://go.expatnetherlandshub.com/independer-energie?ref=/guides/housing/cost-of-living-netherlands-2026/" rel="noopener nofollow sponsored" target="_blank" class="cta-affiliate">Compare Energy Providers on Independer →</a>
+<a href="https://go.expatnetherlandshub.com/independer-energie?ref=/guides/housing/cost-of-living-netherlands-2026/" rel="nofollow noopener sponsored" target="_blank" class="cta-affiliate">Compare Energy Providers on Independer →</a>
 
 ---
 
@@ -377,11 +377,11 @@ If you receive income from abroad or send money to family in your home country, 
 
 Traditional banks charge 2-5% in hidden exchange rate markups, plus flat fees. For a EUR 1,000 transfer, this can mean EUR 20-50 in unnecessary costs every single time.
 
-We strongly recommend <a href="https://go.expatnetherlandshub.com/wise?ref=/guides/housing/cost-of-living-netherlands-2026/" rel="noopener nofollow sponsored" target="_blank">Wise</a> (formerly TransferWise) for international money transfers. Wise uses the real mid-market exchange rate with transparent, low fees typically ranging from 0.3-1.5%. Over a year of regular transfers, this can save you hundreds or even thousands of euros compared to traditional banks.
+We strongly recommend <a href="https://go.expatnetherlandshub.com/wise?ref=/guides/housing/cost-of-living-netherlands-2026/" rel="nofollow noopener sponsored" target="_blank">Wise</a> (formerly TransferWise) for international money transfers. Wise uses the real mid-market exchange rate with transparent, low fees typically ranging from 0.3-1.5%. Over a year of regular transfers, this can save you hundreds or even thousands of euros compared to traditional banks.
 
 Wise also offers a multi-currency account with a European IBAN, which is useful if you are managing money across countries. See our full [guide to bank accounts for expats](/guides/finance/best-bank-account-expats-netherlands-2026/).
 
-<a href="https://go.expatnetherlandshub.com/wise?ref=/guides/housing/cost-of-living-netherlands-2026/" class="cta-affiliate" rel="noopener nofollow sponsored" target="_blank">Save on International Transfers with Wise</a>
+<a href="https://go.expatnetherlandshub.com/wise?ref=/guides/housing/cost-of-living-netherlands-2026/" class="cta-affiliate" rel="nofollow noopener sponsored" target="_blank">Save on International Transfers with Wise</a>
 
 ---
 
@@ -491,7 +491,7 @@ These are the categories that genuinely surprise Indian expats:
 
 ### Tips for Indian Expats Managing Costs
 
-1. **Send money home with Wise, not your bank**: If you are supporting family in India or maintaining savings there, bank wire transfers lose 3-5% to exchange rate markups. <a href="https://go.expatnetherlandshub.com/wise?ref=/guides/housing/cost-of-living-netherlands-2026/" rel="noopener nofollow sponsored" target="_blank">Wise</a> uses the real mid-market rate with fees typically under 1%. On a EUR 1,000 monthly transfer that saves EUR 20-40 every single month
+1. **Send money home with Wise, not your bank**: If you are supporting family in India or maintaining savings there, bank wire transfers lose 3-5% to exchange rate markups. <a href="https://go.expatnetherlandshub.com/wise?ref=/guides/housing/cost-of-living-netherlands-2026/" rel="nofollow noopener sponsored" target="_blank">Wise</a> uses the real mid-market rate with fees typically under 1%. On a EUR 1,000 monthly transfer that saves EUR 20-40 every single month
 2. **Cook Indian food at home**: Indian grocery stores exist in all major Dutch cities (Toko's, speciality Asian supermarkets, and even dedicated South Asian stores in cities like Amsterdam, The Hague, and Rotterdam). Stock up on rice, dal, spices, and frozen goods to keep food costs down
 3. **Apply for kinderopvangtoeslag if you have children**: The Dutch government covers 30-95% of daycare costs. Many Indian expats I have spoken to simply did not know this benefit existed in the first year
 4. **Check your eligibility for the 30% ruling**: If you were recruited from outside the Netherlands and your salary exceeds the threshold (approximately EUR 46,107 gross in 2026), this ruling lets your employer pay 30% of your salary tax-free. The net monthly benefit can be EUR 500-1,500+
@@ -732,7 +732,7 @@ The Netherlands is expensive by European standards but offers excellent value wh
 
 2. **Apply for toeslagen early**. If you are eligible for government allowances, apply through Mijn Toeslagen (via DigiD) as soon as possible. Backdated payments are limited.
 
-3. **Use <a href="https://go.expatnetherlandshub.com/wise?ref=/guides/housing/cost-of-living-netherlands-2026/" rel="noopener nofollow sponsored" target="_blank">Wise</a> for international transfers**. If you are converting currency regularly, the savings over traditional banks add up quickly.
+3. **Use <a href="https://go.expatnetherlandshub.com/wise?ref=/guides/housing/cost-of-living-netherlands-2026/" rel="nofollow noopener sponsored" target="_blank">Wise</a> for international transfers**. If you are converting currency regularly, the savings over traditional banks add up quickly.
 
 4. **Get the 30% ruling if you qualify**. Discuss eligibility with your employer before you start working. It must be applied for within 4 months of starting employment.
 

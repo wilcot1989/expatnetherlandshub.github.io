@@ -328,4 +328,4 @@ You do not need to be a legal expert. You need to read your contract, know the b
 
 And take those move-in photos. Every single room. I cannot say this enough.
 
-<a href="https://go.expatnetherlandshub.com/wise" class="cta-affiliate" rel="sponsored noopener">Try Wise</a>
+<a href="https://go.expatnetherlandshub.com/wise" class="cta-affiliate" rel="nofollow noopener sponsored" target="_blank">Try Wise</a>

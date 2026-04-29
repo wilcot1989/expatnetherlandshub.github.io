@@ -128,7 +128,7 @@ The no-monthly-fee structure makes Wise attractive as a secondary card to hold a
 
 **Not suitable as:** Your sole Dutch bank account.
 
-Open a Wise account here: <a href="https://go.expatnetherlandshub.com/wise?ref=/guides/finance/wise-vs-revolut-vs-bunq-expats-2026/" target="_blank" rel="noopener nofollow sponsored" class="cta-affiliate">Open Wise →</a>
+Open a Wise account here: <a href="https://go.expatnetherlandshub.com/wise?ref=/guides/finance/wise-vs-revolut-vs-bunq-expats-2026/" target="_blank" rel="nofollow noopener sponsored" class="cta-affiliate">Open Wise →</a>
 
 ---
 
@@ -309,7 +309,7 @@ If €10.99 per month is too much for your current budget, use the Wise account 
 
 ## Practical Steps: Opening Each Account
 
-**Wise:** Go to <a href="https://go.expatnetherlandshub.com/wise?ref=/guides/finance/wise-vs-revolut-vs-bunq-expats-2026/" target="_blank" rel="noopener nofollow sponsored">wise.com</a>, register with your email, upload your ID. No Dutch address or BSN required. You can be up and running in 10 minutes. Order the physical card if you want one (€7).
+**Wise:** Go to <a href="https://go.expatnetherlandshub.com/wise?ref=/guides/finance/wise-vs-revolut-vs-bunq-expats-2026/" target="_blank" rel="nofollow noopener sponsored">wise.com</a>, register with your email, upload your ID. No Dutch address or BSN required. You can be up and running in 10 minutes. Order the physical card if you want one (€7).
 
 **Revolut:** Download the Revolut app, register with your phone number, upload your ID. No BSN required. The free tier is sufficient to start.
 
@@ -331,7 +331,7 @@ If you travel frequently and want to track your spending carefully, add Revolut 
 
 Most expats end up using at least two of these. That is not a failure of the apps — it reflects the reality that no single fintech has yet built a product that is simultaneously the best at international transfers, Dutch IBAN acceptance, and budgeting.
 
-Open a Wise account to get started with transfers: <a href="https://go.expatnetherlandshub.com/wise?ref=/guides/finance/wise-vs-revolut-vs-bunq-expats-2026/" target="_blank" rel="noopener nofollow sponsored" class="cta-affiliate">Open Wise →</a>
+Open a Wise account to get started with transfers: <a href="https://go.expatnetherlandshub.com/wise?ref=/guides/finance/wise-vs-revolut-vs-bunq-expats-2026/" target="_blank" rel="nofollow noopener sponsored" class="cta-affiliate">Open Wise →</a>
 
 For a deeper look at all your banking options in the Netherlands, see my [complete guide to bank accounts for expats](/guides/finance/best-bank-account-expats-netherlands-2026/).
 

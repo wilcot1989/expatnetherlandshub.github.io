@@ -186,7 +186,7 @@ For a thorough grounding in the Dutch tax system before you start, see the [Dutc
 
 If you are managing money across countries — receiving income from abroad, transferring savings, or paying tax in multiple places — Wise is the most cost-effective way to move money internationally without bank wire fees eating into your refund.
 
-<a href="https://go.expatnetherlandshub.com/wise?ref=/guides/finance/dutch-tax-return-checklist-expats-2026/" class="cta-affiliate" rel="noopener nofollow sponsored" target="_blank">Open a Wise Account for Easy International Transfers →</a>
+<a href="https://go.expatnetherlandshub.com/wise?ref=/guides/finance/dutch-tax-return-checklist-expats-2026/" class="cta-affiliate" rel="nofollow noopener sponsored" target="_blank">Open a Wise Account for Easy International Transfers →</a>
 
 ---
 

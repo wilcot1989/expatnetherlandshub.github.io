@@ -128,11 +128,11 @@ Not sure where to start? Our [health insurance wizard](/tools/health-insurance-w
 
 Use these Dutch comparison websites to find the best policy for your situation:
 
-- <a href="https://go.expatnetherlandshub.com/independer-zorg?ref=/guides/health/dutch-health-insurance-guide-expats-2026/" rel="noopener nofollow sponsored" target="_blank">**Independer.nl**</a>: The most popular comparison site for health insurance
+- <a href="https://go.expatnetherlandshub.com/independer-zorg?ref=/guides/health/dutch-health-insurance-guide-expats-2026/" rel="nofollow noopener sponsored" target="_blank">**Independer.nl**</a>: The most popular comparison site for health insurance
 - **Zorgwijzer.nl**: Clear overviews and annual comparisons
 - **Consumentenbond.nl**: Consumer association with detailed testing
 
-<a href="https://go.expatnetherlandshub.com/independer-zorg?ref=/guides/health/dutch-health-insurance-guide-expats-2026/" class="cta-affiliate" rel="noopener nofollow sponsored" target="_blank">Compare Dutch Health Insurance on Independer.nl</a>
+<a href="https://go.expatnetherlandshub.com/independer-zorg?ref=/guides/health/dutch-health-insurance-guide-expats-2026/" class="cta-affiliate" rel="nofollow noopener sponsored" target="_blank">Compare Dutch Health Insurance on Independer.nl</a>
 
 ---
 
@@ -372,7 +372,7 @@ Do not let this happen. Arrange your insurance within the first few weeks of arr
 
 There is often a gap between arriving in the Netherlands and getting your Dutch health insurance set up. You might be waiting for your BSN, comparing insurers, or simply dealing with the chaos of relocation.
 
-During this period, <a href="https://go.expatnetherlandshub.com/safetywing?ref=/guides/health/dutch-health-insurance-guide-expats-2026/" target="_blank" rel="noopener nofollow sponsored">SafetyWing</a> offers an excellent temporary solution. SafetyWing provides international health insurance designed for expats and digital nomads, with the following features:
+During this period, <a href="https://go.expatnetherlandshub.com/safetywing?ref=/guides/health/dutch-health-insurance-guide-expats-2026/" target="_blank" rel="nofollow noopener sponsored">SafetyWing</a> offers an excellent temporary solution. SafetyWing provides international health insurance designed for expats and digital nomads, with the following features:
 
 - **Monthly subscription starting from approximately USD 45 per month**
 - **No commitment**: Cancel anytime
@@ -381,16 +381,16 @@ During this period, <a href="https://go.expatnetherlandshub.com/safetywing?ref=/
 - **Emergency and urgent care**: Fully covered
 - **Sign up online in minutes**, no BSN or Dutch address required
 
-<a href="https://go.expatnetherlandshub.com/safetywing?ref=/guides/health/dutch-health-insurance-guide-expats-2026/" target="_blank" rel="noopener nofollow sponsored">SafetyWing</a> is not a replacement for Dutch basisverzekering. Once you are registered and have arranged your Dutch health insurance, you should cancel SafetyWing. But as bridge coverage, it provides genuine peace of mind during the transition period. If you are comparing international options at this stage, see our [SafetyWing vs Cigna comparison](/guides/health/safetywing-vs-cigna-expat-insurance-2026/) for a detailed side-by-side analysis.
+<a href="https://go.expatnetherlandshub.com/safetywing?ref=/guides/health/dutch-health-insurance-guide-expats-2026/" target="_blank" rel="nofollow noopener sponsored">SafetyWing</a> is not a replacement for Dutch basisverzekering. Once you are registered and have arranged your Dutch health insurance, you should cancel SafetyWing. But as bridge coverage, it provides genuine peace of mind during the transition period. If you are comparing international options at this stage, see our [SafetyWing vs Cigna comparison](/guides/health/safetywing-vs-cigna-expat-insurance-2026/) for a detailed side-by-side analysis.
 
 This is especially relevant for:
 - Expats who arrive a few weeks before their employment start date
 - Partners or family members who may have a gap in coverage
 - Anyone waiting for their BSN to process their Dutch insurance application
 
-<a href="https://go.expatnetherlandshub.com/safetywing?ref=/guides/health/dutch-health-insurance-guide-expats-2026/" target="_blank" rel="noopener nofollow sponsored">Get temporary expat coverage with SafetyWing</a>
+<a href="https://go.expatnetherlandshub.com/safetywing?ref=/guides/health/dutch-health-insurance-guide-expats-2026/" target="_blank" rel="nofollow noopener sponsored">Get temporary expat coverage with SafetyWing</a>
 
-<a href="https://go.expatnetherlandshub.com/safetywing?ref=/guides/health/dutch-health-insurance-guide-expats-2026/" class="cta-affiliate" rel="noopener nofollow sponsored" target="_blank">Get SafetyWing Temporary Health Coverage from $45/month</a>
+<a href="https://go.expatnetherlandshub.com/safetywing?ref=/guides/health/dutch-health-insurance-guide-expats-2026/" class="cta-affiliate" rel="nofollow noopener sponsored" target="_blank">Get SafetyWing Temporary Health Coverage from $45/month</a>
 
 ---
 
@@ -401,11 +401,11 @@ Here is the complete process from arrival to being fully insured:
 ### Week 1: Arrival and Registration
 
 1. Register at your gemeente and receive your BSN
-2. If you do not yet have coverage, sign up for <a href="https://go.expatnetherlandshub.com/safetywing?ref=/guides/health/dutch-health-insurance-guide-expats-2026/" target="_blank" rel="noopener nofollow sponsored">SafetyWing</a> as temporary insurance
+2. If you do not yet have coverage, sign up for <a href="https://go.expatnetherlandshub.com/safetywing?ref=/guides/health/dutch-health-insurance-guide-expats-2026/" target="_blank" rel="nofollow noopener sponsored">SafetyWing</a> as temporary insurance
 
 ### Week 2-3: Research and Compare
 
-3. Use <a href="https://go.expatnetherlandshub.com/independer-zorg?ref=/guides/health/dutch-health-insurance-guide-expats-2026/" rel="noopener nofollow sponsored" target="_blank">Independer.nl</a> or Zorgwijzer.nl to compare basic insurance premiums
+3. Use <a href="https://go.expatnetherlandshub.com/independer-zorg?ref=/guides/health/dutch-health-insurance-guide-expats-2026/" rel="nofollow noopener sponsored" target="_blank">Independer.nl</a> or Zorgwijzer.nl to compare basic insurance premiums
 4. Check if your employer offers a group discount (collectiviteitskorting) with a specific insurer
 5. Decide whether you need supplementary insurance (dental, physiotherapy, etc.)
 
@@ -526,7 +526,7 @@ Switching Dutch health insurance is simpler than most people expect, but it only
 You can switch your basic health insurance provider during the **open enrollment period: mid-November to 31 December**. Your new policy takes effect on **1 January** of the following year. Outside this window, you cannot switch unless you have a qualifying life event (see below).
 
 The process:
-1. **Compare policies** in October or November using <a href="https://go.expatnetherlandshub.com/independer-zorg?ref=/guides/health/dutch-health-insurance-guide-expats-2026/" rel="noopener nofollow sponsored" target="_blank">Independer.nl</a> or Zorgwijzer.nl
+1. **Compare policies** in October or November using <a href="https://go.expatnetherlandshub.com/independer-zorg?ref=/guides/health/dutch-health-insurance-guide-expats-2026/" rel="nofollow noopener sponsored" target="_blank">Independer.nl</a> or Zorgwijzer.nl
 2. **Sign up with the new insurer** before 31 December — they will handle the cancellation of your old policy on your behalf
 3. **Your new policy starts on 1 January** — there is no gap in coverage
 
@@ -548,7 +548,7 @@ You can switch mid-year only in specific circumstances:
 
 These mid-year switches are uncommon. For most people, the November-December window is the only opportunity.
 
-<a href="https://go.expatnetherlandshub.com/independer-zorg?ref=/guides/health/dutch-health-insurance-guide-expats-2026/" class="cta-affiliate" rel="noopener nofollow sponsored" target="_blank">Compare and Switch Dutch Health Insurance on Independer.nl</a>
+<a href="https://go.expatnetherlandshub.com/independer-zorg?ref=/guides/health/dutch-health-insurance-guide-expats-2026/" class="cta-affiliate" rel="nofollow noopener sponsored" target="_blank">Compare and Switch Dutch Health Insurance on Independer.nl</a>
 
 ---
 
@@ -609,12 +609,12 @@ Dutch health insurance may seem complicated at first, but the system is logical 
 
 For expats just arriving, the most important steps are:
 
-1. Get temporary coverage through <a href="https://go.expatnetherlandshub.com/safetywing?ref=/guides/health/dutch-health-insurance-guide-expats-2026/" rel="noopener nofollow sponsored" target="_blank">SafetyWing</a> if there will be any gap before your Dutch insurance starts
-2. Compare policies on <a href="https://go.expatnetherlandshub.com/independer-zorg?ref=/guides/health/dutch-health-insurance-guide-expats-2026/" rel="noopener nofollow sponsored" target="_blank">Independer.nl</a> once you have your BSN
+1. Get temporary coverage through <a href="https://go.expatnetherlandshub.com/safetywing?ref=/guides/health/dutch-health-insurance-guide-expats-2026/" rel="nofollow noopener sponsored" target="_blank">SafetyWing</a> if there will be any gap before your Dutch insurance starts
+2. Compare policies on <a href="https://go.expatnetherlandshub.com/independer-zorg?ref=/guides/health/dutch-health-insurance-guide-expats-2026/" rel="nofollow noopener sponsored" target="_blank">Independer.nl</a> once you have your BSN
 3. Sign up within your first few weeks, well before the 4-month deadline
 4. Register with a GP immediately after your insurance is active
 5. Apply for zorgtoeslag if your income qualifies
 
 The Dutch healthcare system is excellent. Once you are set up, you will have access to high-quality, affordable care that covers virtually all your medical needs. Take the time to get it right from the start, and it will serve you well throughout your time in the Netherlands.
 
-<a href="https://go.expatnetherlandshub.com/safetywing?ref=/guides/health/dutch-health-insurance-guide-expats-2026/" class="cta-affiliate" rel="noopener nofollow sponsored" target="_blank">Get SafetyWing Bridge Coverage for Your Move to the Netherlands</a>
+<a href="https://go.expatnetherlandshub.com/safetywing?ref=/guides/health/dutch-health-insurance-guide-expats-2026/" class="cta-affiliate" rel="nofollow noopener sponsored" target="_blank">Get SafetyWing Bridge Coverage for Your Move to the Netherlands</a>

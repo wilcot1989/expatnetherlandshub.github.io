@@ -116,7 +116,7 @@ Turkey has invested significantly in its healthcare infrastructure over the past
 
 For expats not employed in Turkey, private health insurance is the practical route. Excellent coverage from Turkish insurers costs €80-150 per month for a 30-40 year old, less than Dutch equivalents.
 
-If you are between long-term residencies or travelling between the two countries, <a href="https://go.expatnetherlandshub.com/safetywing?ref=/guides/integration/netherlands-vs-turkey-expats-2026/" rel="noopener nofollow sponsored" class="cta-affiliate">SafetyWing Nomad Insurance</a> is worth considering — it covers you across countries at €45-60 per month and handles gaps between employer schemes well.
+If you are between long-term residencies or travelling between the two countries, <a href="https://go.expatnetherlandshub.com/safetywing?ref=/guides/integration/netherlands-vs-turkey-expats-2026/" rel="nofollow noopener sponsored" class="cta-affiliate" target="_blank">SafetyWing Nomad Insurance</a> is worth considering — it covers you across countries at €45-60 per month and handles gaps between employer schemes well.
 
 ---
 
@@ -241,7 +241,7 @@ The practical challenges are bureaucratic: Turkish government services are not w
 
 If you are moving between the Netherlands and Turkey — or sending money to family in either direction — bank rates for EUR/TRY are extremely poor. Turkish lira volatility means that banks add large margins to protect themselves, and those margins come out of your transfer.
 
-<a href="https://go.expatnetherlandshub.com/wise?ref=/guides/integration/netherlands-vs-turkey-expats-2026/" rel="noopener nofollow sponsored" class="cta-affiliate">Wise</a> offers mid-market exchange rates for EUR-TRY transfers with a transparent fee structure. Given the lira's history of sharp depreciations, timing your transfers thoughtfully and using Wise rather than a bank can save you meaningful amounts over time. Wise also offers a multi-currency account that lets you hold EUR while living in Turkey — useful if you are paid in euros from a European employer.
+<a href="https://go.expatnetherlandshub.com/wise?ref=/guides/integration/netherlands-vs-turkey-expats-2026/" rel="nofollow noopener sponsored" class="cta-affiliate" target="_blank">Wise</a> offers mid-market exchange rates for EUR-TRY transfers with a transparent fee structure. Given the lira's history of sharp depreciations, timing your transfers thoughtfully and using Wise rather than a bank can save you meaningful amounts over time. Wise also offers a multi-currency account that lets you hold EUR while living in Turkey — useful if you are paid in euros from a European employer.
 
 ---
 
@@ -319,7 +319,7 @@ In the Netherlands, English is effectively a second official language in practic
 
 ### How does the Turkish SGK compare to Dutch health insurance?
 
-Dutch health insurance (zorgverzekering) is mandatory private insurance with a well-defined basic package and strong regulatory oversight. Turkish SGK is a social security system that provides public healthcare access. For employed people, both systems are functional and broadly adequate. For expats between jobs or self-employed, private insurance is the better option in both countries — and <a href="https://go.expatnetherlandshub.com/safetywing?ref=/guides/integration/netherlands-vs-turkey-expats-2026/" rel="noopener nofollow sponsored" class="cta-affiliate">SafetyWing</a> offers a practical bridge solution if you are transitioning between countries or uncertain about your employment timeline.
+Dutch health insurance (zorgverzekering) is mandatory private insurance with a well-defined basic package and strong regulatory oversight. Turkish SGK is a social security system that provides public healthcare access. For employed people, both systems are functional and broadly adequate. For expats between jobs or self-employed, private insurance is the better option in both countries — and <a href="https://go.expatnetherlandshub.com/safetywing?ref=/guides/integration/netherlands-vs-turkey-expats-2026/" rel="nofollow noopener sponsored" class="cta-affiliate" target="_blank">SafetyWing</a> offers a practical bridge solution if you are transitioning between countries or uncertain about your employment timeline.
 
 ### What is the integration process for Turkish nationals moving to the Netherlands?
 
@@ -345,6 +345,6 @@ Turkish nationals who are not EU citizens need a residence permit (typically via
 
 The comparison ultimately depends on one question: are you optimising for income and stability, or for lifestyle and purchasing power? The Netherlands pays more, protects you better, and runs more reliably. Turkey offers warmth, lower costs, excellent food, and — for those with foreign-currency income — a lifestyle that is hard to match anywhere in Europe at the price. Most people I know who have done both end up spending their working years in the Netherlands and their later years increasingly drawn toward Turkey. That is not a bad plan.
 
-For currency transfers between these two countries, use <a href="https://go.expatnetherlandshub.com/wise?ref=/guides/integration/netherlands-vs-turkey-expats-2026/" rel="noopener nofollow sponsored" class="cta-affiliate">Wise</a> — the EUR/TRY corridor is one where bank margins are particularly punishing and Wise's transparent fee structure makes a real difference.
+For currency transfers between these two countries, use <a href="https://go.expatnetherlandshub.com/wise?ref=/guides/integration/netherlands-vs-turkey-expats-2026/" rel="nofollow noopener sponsored" class="cta-affiliate" target="_blank">Wise</a> — the EUR/TRY corridor is one where bank margins are particularly punishing and Wise's transparent fee structure makes a real difference.
 
 Also see our comparisons with [Netherlands vs UK](/guides/integration/netherlands-vs-uk-expats-2026/), [Netherlands vs Germany](/guides/integration/netherlands-vs-germany-expats-2026/), [Netherlands vs Spain](/guides/integration/netherlands-vs-spain-expats-2026/), [Netherlands vs France](/guides/integration/netherlands-vs-france-expats-2026/), [Netherlands vs Belgium](/guides/integration/netherlands-vs-belgium-expats-2026/), [Netherlands vs USA](/guides/integration/netherlands-vs-usa-expats-2026/), and [Netherlands vs India](/guides/integration/netherlands-vs-india-expats-2026/) for more reference points.

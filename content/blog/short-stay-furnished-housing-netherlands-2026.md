@@ -246,7 +246,7 @@ If you are moving from outside the Eurozone, you will need to convert currency f
 
 Standard bank transfers typically add a 2–4% spread on exchange rates. On a EUR 5,000 deposit, that is EUR 100–200 in hidden costs.
 
-<a href="https://go.expatnetherlandshub.com/wise?ref=/blog/short-stay-furnished-housing-netherlands-2026/" rel="noopener nofollow sponsored" class="cta-affiliate">Use Wise for international transfers — real exchange rate, small transparent fee</a>
+<a href="https://go.expatnetherlandshub.com/wise?ref=/blog/short-stay-furnished-housing-netherlands-2026/" rel="nofollow noopener sponsored" class="cta-affiliate" target="_blank">Use Wise for international transfers — real exchange rate, small transparent fee</a>
 
 Wise uses the real mid-market rate with a transparent conversion fee around 0.4–0.7%, which is significantly cheaper than any high street bank. Their multi-currency account also allows you to hold both EUR and your home currency, useful while you are transitioning.
 

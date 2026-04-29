@@ -279,9 +279,9 @@ For patients with complex international health histories — multiple countries,
 
 
 
-<a href="https://go.expatnetherlandshub.com/independer-zorg" class="cta-affiliate" rel="sponsored noopener">Try Independer Zorg</a>
+<a href="https://go.expatnetherlandshub.com/independer-zorg" class="cta-affiliate" rel="nofollow noopener sponsored" target="_blank">Try Independer Zorg</a>
 
-Or get flexible international health coverage while you wait for Dutch insurance: <a href="https://go.expatnetherlandshub.com/safetywing" class="cta-affiliate" rel="sponsored noopener">Get Expat Coverage with SafetyWing</a>
+Or get flexible international health coverage while you wait for Dutch insurance: <a href="https://go.expatnetherlandshub.com/safetywing" class="cta-affiliate" rel="nofollow noopener sponsored" target="_blank">Get Expat Coverage with SafetyWing</a>
 
 ## Related Guides
 

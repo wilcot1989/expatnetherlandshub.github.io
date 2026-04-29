@@ -151,7 +151,7 @@ The Dutch health insurance system is actually good — the basisverzekering cove
 **What to do before your Dutch insurance starts:**
 The period between arriving in the Netherlands and getting your BSN (required for Dutch health insurance) and completing insurance registration can take 4–8 weeks. During this gap, you are technically uninsured under Dutch law. SafetyWing's Nomad Insurance can provide temporary gap coverage — emergency medical coverage while you are in the process of getting your Dutch insurance sorted.
 
-<a href="https://go.expatnetherlandshub.com/safetywing?ref=/guides/integration/moving-to-netherlands-from-uk-post-brexit-2026/" target="_blank" rel="noopener nofollow sponsored" class="cta-affiliate">Check SafetyWing coverage →</a>
+<a href="https://go.expatnetherlandshub.com/safetywing?ref=/guides/integration/moving-to-netherlands-from-uk-post-brexit-2026/" target="_blank" rel="nofollow noopener sponsored" class="cta-affiliate">Check SafetyWing coverage →</a>
 
 **The NHS and going back to the UK:**
 As a Dutch resident, you are no longer entitled to NHS treatment as a UK resident. You can access NHS services when visiting the UK as a visitor, but for non-urgent treatment you may be charged. UK nationals who have been resident abroad for more than 183 days per year are generally not entitled to free NHS treatment.
@@ -198,7 +198,7 @@ Open a Wise account if you have not already. Wise gives you:
 
 For many British expats, Wise solves the "keep a UK account" problem entirely — you have UK bank details without needing a UK bank to maintain an account for you.
 
-<a href="https://go.expatnetherlandshub.com/wise?ref=/guides/integration/moving-to-netherlands-from-uk-post-brexit-2026/" target="_blank" rel="noopener nofollow sponsored" class="cta-affiliate">Open a Wise account →</a>
+<a href="https://go.expatnetherlandshub.com/wise?ref=/guides/integration/moving-to-netherlands-from-uk-post-brexit-2026/" target="_blank" rel="nofollow noopener sponsored" class="cta-affiliate">Open a Wise account →</a>
 
 ---
 
@@ -330,11 +330,11 @@ The British community in the Netherlands is substantial — estimates suggest 40
 
 For banking: Wise provides UK sort code + Belgian IBAN in one account, which is the most practical solution for British expats managing finances in both countries.
 
-<a href="https://go.expatnetherlandshub.com/wise?ref=/guides/integration/moving-to-netherlands-from-uk-post-brexit-2026/" target="_blank" rel="noopener nofollow sponsored" class="cta-affiliate">Open a Wise account →</a>
+<a href="https://go.expatnetherlandshub.com/wise?ref=/guides/integration/moving-to-netherlands-from-uk-post-brexit-2026/" target="_blank" rel="nofollow noopener sponsored" class="cta-affiliate">Open a Wise account →</a>
 
 For gap health coverage during your first weeks before Dutch insurance starts:
 
-<a href="https://go.expatnetherlandshub.com/safetywing?ref=/guides/integration/moving-to-netherlands-from-uk-post-brexit-2026/" target="_blank" rel="noopener nofollow sponsored" class="cta-affiliate">Check SafetyWing coverage →</a>
+<a href="https://go.expatnetherlandshub.com/safetywing?ref=/guides/integration/moving-to-netherlands-from-uk-post-brexit-2026/" target="_blank" rel="nofollow noopener sponsored" class="cta-affiliate">Check SafetyWing coverage →</a>
 
 ## Frequently Asked Questions
 

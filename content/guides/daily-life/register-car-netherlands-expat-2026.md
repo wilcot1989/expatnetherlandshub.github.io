@@ -361,6 +361,6 @@ For many expats in the Randstad, a combination of cycling and public transport i
 
 ---
 
-<a href="https://go.expatnetherlandshub.com/wise" class="cta-affiliate" rel="sponsored noopener">Try Wise</a>
+<a href="https://go.expatnetherlandshub.com/wise" class="cta-affiliate" rel="nofollow noopener sponsored" target="_blank">Try Wise</a>
 
-Also compare car insurance options for your newly registered vehicle: <a href="https://go.expatnetherlandshub.com/independer-auto" class="cta-affiliate" rel="sponsored noopener">Compare Car Insurance at Independer</a>
+Also compare car insurance options for your newly registered vehicle: <a href="https://go.expatnetherlandshub.com/independer-auto" class="cta-affiliate" rel="nofollow noopener sponsored" target="_blank">Compare Car Insurance at Independer</a>

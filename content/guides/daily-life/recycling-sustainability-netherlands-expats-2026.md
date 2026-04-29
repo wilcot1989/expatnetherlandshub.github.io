@@ -431,6 +431,6 @@ The Netherlands' relationship with water is unique and worth understanding:
 
 For broader sustainability in your daily life in the Netherlands, the [cost of living guide](/guides/housing/cost-of-living-netherlands-2026/) covers energy costs in detail, and the [energy providers guide](/guides/housing/energy-providers-expats-netherlands-2026/) explains how to choose a green energy tariff.
 
-<a href="https://go.expatnetherlandshub.com/wise" class="cta-affiliate" rel="sponsored noopener">Try Wise</a>
+<a href="https://go.expatnetherlandshub.com/wise" class="cta-affiliate" rel="nofollow noopener sponsored" target="_blank">Try Wise</a>
 
-Switch to a greener energy deal with a few clicks: <a href="https://go.expatnetherlandshub.com/independer-energie" class="cta-affiliate" rel="sponsored noopener">Compare Green Energy Plans at Independer</a>
+Switch to a greener energy deal with a few clicks: <a href="https://go.expatnetherlandshub.com/independer-energie" class="cta-affiliate" rel="nofollow noopener sponsored" target="_blank">Compare Green Energy Plans at Independer</a>

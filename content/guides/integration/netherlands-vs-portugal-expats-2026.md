@@ -137,7 +137,7 @@ Portuguese public healthcare (SNS — Serviço Nacional de Saúde) is available 
 
 Private health insurance in Portugal costs EUR 80-200/month depending on age and coverage — cheap compared to what you get.
 
-**For managing international health insurance in either country**, <a href="https://go.expatnetherlandshub.com/safetywing?ref=/guides/integration/netherlands-vs-portugal-expats-2026/" rel="noopener nofollow sponsored" class="cta-affiliate">SafetyWing's Nomad Insurance</a> provides a practical international health and emergency coverage option that works across both the Netherlands and Portugal — useful during a transition between the two countries or for anyone maintaining mobility between European locations.
+**For managing international health insurance in either country**, <a href="https://go.expatnetherlandshub.com/safetywing?ref=/guides/integration/netherlands-vs-portugal-expats-2026/" rel="nofollow noopener sponsored" class="cta-affiliate" target="_blank">SafetyWing's Nomad Insurance</a> provides a practical international health and emergency coverage option that works across both the Netherlands and Portugal — useful during a transition between the two countries or for anyone maintaining mobility between European locations.
 
 ---
 
@@ -193,7 +193,7 @@ Climate: Mediterranean in Lisbon and south; Atlantic in Porto and north. The Alg
 
 ## Managing Money Across Both Countries
 
-Whether you are deciding between the two or managing finances while living in one and maintaining ties in the other, <a href="https://go.expatnetherlandshub.com/wise?ref=/guides/integration/netherlands-vs-portugal-expats-2026/" rel="noopener nofollow sponsored" class="cta-affiliate">Wise</a> handles EUR transfers and currency management efficiently. Many expats use Wise to manage salary receipt in euros, send money internationally, or hold balances in multiple currencies when splitting time between countries. The real exchange rate and transparent fees make it far more cost-effective than bank wire transfers for cross-border financial management.
+Whether you are deciding between the two or managing finances while living in one and maintaining ties in the other, <a href="https://go.expatnetherlandshub.com/wise?ref=/guides/integration/netherlands-vs-portugal-expats-2026/" rel="nofollow noopener sponsored" class="cta-affiliate" target="_blank">Wise</a> handles EUR transfers and currency management efficiently. Many expats use Wise to manage salary receipt in euros, send money internationally, or hold balances in multiple currencies when splitting time between countries. The real exchange rate and transparent fees make it far more cost-effective than bank wire transfers for cross-border financial management.
 
 See our [international money transfer guide](/guides/finance/best-international-money-transfer-netherlands-2026/) for a detailed comparison of transfer options.
 
@@ -366,4 +366,4 @@ Beyond the financial and bureaucratic comparison, the day-to-day experience of l
 
 **Healthcare access.** Both countries have universal healthcare systems. The Dutch system (basisverzekering) is well-organised, but access to GP appointments in Amsterdam and other large cities can be slow due to high demand. The Portuguese SNS provides free care but is under pressure; specialist waiting times can be long. Both countries have private healthcare options that expats with employer support often use for faster access.
 
-In both cases, a Wise multi-currency account is useful from day one for managing euro transfers before your local bank account is fully operational. <a href="https://go.expatnetherlandshub.com/wise?ref=/guides/integration/netherlands-vs-portugal-expats-2026/" rel="noopener nofollow sponsored" class="cta-affiliate">Open a Wise account</a> before you travel — it works immediately without needing a local address or tax number, which is exactly what you need in the first few days of a move.
+In both cases, a Wise multi-currency account is useful from day one for managing euro transfers before your local bank account is fully operational. <a href="https://go.expatnetherlandshub.com/wise?ref=/guides/integration/netherlands-vs-portugal-expats-2026/" rel="nofollow noopener sponsored" class="cta-affiliate" target="_blank">Open a Wise account</a> before you travel — it works immediately without needing a local address or tax number, which is exactly what you need in the first few days of a move.

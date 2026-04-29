@@ -181,7 +181,7 @@ More useful in Eindhoven than in Amsterdam, especially for reaching surrounding 
 2. **Get BSN** — Assigned at registration
 3. **Health insurance** — Arrange within 4 months. See our [insurance guide](/guides/health/best-expat-insurance-netherlands-2026/)
 4. **DigiD** — Required for government services. See our [DigiD guide](/guides/legal/digid-guide-expats-2026/)
-5. **Bank account** — ING, Rabobank, or Bunq. For international transfers, use <a href="https://go.expatnetherlandshub.com/wise?ref=/guides/housing/moving-to-eindhoven-guide-2026/" rel="noopener nofollow sponsored" target="_blank">Wise</a>
+5. **Bank account** — ING, Rabobank, or Bunq. For international transfers, use <a href="https://go.expatnetherlandshub.com/wise?ref=/guides/housing/moving-to-eindhoven-guide-2026/" rel="nofollow noopener sponsored" target="_blank">Wise</a>
 
 ### International Community
 - **Holland Expat Center South** — Free support for internationals in the Brainport region
@@ -281,7 +281,7 @@ For detailed housing search advice, read our [finding housing in the Netherlands
 
 **Health insurance:** Mandatory from the first day of Dutch residence. All Dutch residents must hold basisverzekering. Catharina Ziekenhuis and Máxima MC are the main hospitals in the Eindhoven area, both with specialist departments. Register with a GP (huisarts) promptly — practices in popular expat areas fill up quickly. The Holland Expat Center South can refer you to English-speaking providers.
 
-**For international money transfers:** If you are receiving a relocation bonus, transferring savings from abroad, or managing finances across currencies, <a href="https://go.expatnetherlandshub.com/wise?ref=/guides/housing/moving-to-eindhoven-guide-2026/" rel="noopener nofollow sponsored" target="_blank">Wise</a> is significantly cheaper than Dutch bank wire transfers for international movements. Many ASML expats use it for managing money between the Netherlands and their home country.
+**For international money transfers:** If you are receiving a relocation bonus, transferring savings from abroad, or managing finances across currencies, <a href="https://go.expatnetherlandshub.com/wise?ref=/guides/housing/moving-to-eindhoven-guide-2026/" rel="nofollow noopener sponsored" target="_blank">Wise</a> is significantly cheaper than Dutch bank wire transfers for international movements. Many ASML expats use it for managing money between the Netherlands and their home country.
 
 ## Explore More Expat Guides
 

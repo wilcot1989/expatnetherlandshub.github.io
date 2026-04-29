@@ -222,7 +222,7 @@ Standard bank transfers for EUR–AUD conversions typically use exchange rates 2
 
 **Wise** uses the real mid-market exchange rate with a transparent fee of around 0.4–0.7% for EUR–AUD transfers. On a EUR 10,000 transfer, the saving versus a bank is typically EUR 150–350. For regular transfers, this adds up significantly over a year.
 
-<a href="https://go.expatnetherlandshub.com/wise?ref=/blog/netherlands-vs-australia-expats-2026/" rel="noopener nofollow sponsored" class="cta-affiliate">Open a Wise account for cheap EUR–AUD money transfers</a>
+<a href="https://go.expatnetherlandshub.com/wise?ref=/blog/netherlands-vs-australia-expats-2026/" rel="nofollow noopener sponsored" class="cta-affiliate" target="_blank">Open a Wise account for cheap EUR–AUD money transfers</a>
 
 Wise's multi-currency account also lets you hold both EUR and AUD balances, receive money in either currency, and convert when the rate suits you — useful if you are transitioning between countries or maintaining accounts in both.
 

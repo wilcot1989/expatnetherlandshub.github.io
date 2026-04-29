@@ -218,7 +218,7 @@ Most Dutch accounting tools connect directly to ING, ABN AMRO, and Rabobank. Bun
 
 If you use Wise Business for client payments or international expenses, I find it works best as a secondary account feeding into your main accounting tool via monthly CSV import. The process takes about five minutes once a month. The advantage of Wise Business for ZZPers dealing with international clients is significant: you invoice in EUR, GBP, USD, or whatever currency your client prefers, receive the payment in that currency, and convert at the mid-market rate when you need EUR for Dutch expenses and taxes.
 
-<a href="https://go.expatnetherlandshub.com/wise?ref=/guides/work/best-accounting-software-freelancers-netherlands-2026/" target="_blank" rel="noopener nofollow sponsored" class="cta-affiliate">Connect Wise Business to your accounting →</a>
+<a href="https://go.expatnetherlandshub.com/wise?ref=/guides/work/best-accounting-software-freelancers-netherlands-2026/" target="_blank" rel="nofollow noopener sponsored" class="cta-affiliate">Connect Wise Business to your accounting →</a>
 
 For a full comparison of banking options as a ZZP, see the guide to [Dutch business bank accounts for freelancers](/guides/finance/dutch-business-bank-account-zzp-2026/).
 

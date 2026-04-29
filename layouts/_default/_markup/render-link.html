@@ -1,0 +1,7 @@
+{{- $href := .Destination -}}
+{{- $isAffiliate := or (hasPrefix $href "https://go.") (hasPrefix $href "http://go.") -}}
+{{- if $isAffiliate -}}
+<a href="{{ $href | safeURL }}"{{ with .Title }} title="{{ . }}"{{ end }} target="_blank" rel="nofollow sponsored noopener">{{ .Text | safeHTML }}</a>
+{{- else -}}
+<a href="{{ $href | safeURL }}"{{ with .Title }} title="{{ . }}"{{ end }}>{{ .Text | safeHTML }}</a>
+{{- end -}}

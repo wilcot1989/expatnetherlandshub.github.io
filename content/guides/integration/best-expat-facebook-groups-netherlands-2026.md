@@ -464,4 +464,4 @@ Being in a group is not the same as benefiting from it. A few approaches that ma
 
 *Sarah van den Berg is an expat coach and relocation specialist based in Utrecht. She has lived in the Netherlands for over ten years and works with individuals and families navigating the Dutch system.*
 
-<a href="https://go.expatnetherlandshub.com/preply" class="cta-affiliate" rel="sponsored noopener">Try Preply</a>
+<a href="https://go.expatnetherlandshub.com/preply" class="cta-affiliate" rel="nofollow noopener sponsored" target="_blank">Try Preply</a>

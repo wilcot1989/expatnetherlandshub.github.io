@@ -316,7 +316,7 @@ Get specialist advice on this if you have an international estate. The cost of a
 - [Expatica: Dutch inheritance guide](https://www.expatica.com/nl/living/finance/inheritance-in-the-netherlands/)
 - [IamExpat: Estate planning Netherlands](https://www.iamexpat.nl/expat-info/legal/inheritance-netherlands)
 
-<a href="https://go.expatnetherlandshub.com/wise" class="cta-affiliate" rel="sponsored noopener">Try Wise</a>
+<a href="https://go.expatnetherlandshub.com/wise" class="cta-affiliate" rel="nofollow noopener sponsored" target="_blank">Try Wise</a>
 
 ## Related articles
 

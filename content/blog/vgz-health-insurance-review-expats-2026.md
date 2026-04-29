@@ -201,7 +201,7 @@ Your employer has negotiated a contract with VGZ (or IZA/IZZ) that offers employ
 
 Then compare on Independer. Sometimes the collective scheme is excellent value. Sometimes it is not — particularly if your employer's base premium was set some time ago and the market has moved.
 
-<a href="https://go.expatnetherlandshub.com/independer-zorg?ref=/blog/vgz-health-insurance-review-expats-2026/" rel="noopener nofollow sponsored" class="cta-affiliate">Compare VGZ vs all Dutch health insurers on Independer — including collective scheme options</a>
+<a href="https://go.expatnetherlandshub.com/independer-zorg?ref=/blog/vgz-health-insurance-review-expats-2026/" rel="nofollow noopener sponsored" class="cta-affiliate" target="_blank">Compare VGZ vs all Dutch health insurers on Independer — including collective scheme options</a>
 
 ---
 

@@ -291,7 +291,7 @@ If you are sending money from a non-Dutch bank account to pay a deposit or first
 
 I use Wise for this — it is significantly cheaper than traditional bank transfers for international payments, and the exchange rates are transparent.
 
-<a href="https://go.expatnetherlandshub.com/wise?ref=/guides/housing/housinganywhere-vs-kamernet-vs-funda-2026/" target="_blank" rel="noopener nofollow sponsored" class="cta-affiliate">Transfer your deposit with Wise →</a>
+<a href="https://go.expatnetherlandshub.com/wise?ref=/guides/housing/housinganywhere-vs-kamernet-vs-funda-2026/" target="_blank" rel="nofollow noopener sponsored" class="cta-affiliate">Transfer your deposit with Wise →</a>
 
 Once you are registered in the Netherlands and have a Dutch bank account, this becomes less of an issue. But in those first weeks, it is a practical money-saver.
 

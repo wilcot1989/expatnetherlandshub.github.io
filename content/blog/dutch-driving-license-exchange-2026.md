@@ -242,7 +242,7 @@ If you have driven claim-free abroad for several years, you can transfer that hi
 
 Some Dutch insurers only accept letters from EU/EEA countries; others accept worldwide. Compare before committing to a policy.
 
-<a href="https://go.expatnetherlandshub.com/independer-auto" rel="noopener nofollow sponsored" class="cta-affiliate">Compare Dutch car insurance policies and find insurers that accept foreign no-claims history →</a>
+<a href="https://go.expatnetherlandshub.com/independer-auto" rel="nofollow noopener sponsored" class="cta-affiliate" target="_blank">Compare Dutch car insurance policies and find insurers that accept foreign no-claims history →</a>
 
 ### WA vs. All-Risk
 
@@ -254,7 +254,7 @@ Dutch car insurance has three main levels:
 
 For a newly arrived expat with a recently exchanged license, insurers may classify you as a "new driver" even if you have decades of experience — this affects your premium level and which coverage options are available. Using a comparison tool lets you see which insurers treat foreign-licensed drivers most favourably.
 
-<a href="https://go.expatnetherlandshub.com/independer-auto" rel="noopener nofollow sponsored" class="cta-affiliate">Find the best Dutch car insurance for expats with foreign driving experience →</a>
+<a href="https://go.expatnetherlandshub.com/independer-auto" rel="nofollow noopener sponsored" class="cta-affiliate" target="_blank">Find the best Dutch car insurance for expats with foreign driving experience →</a>
 
 ---
 

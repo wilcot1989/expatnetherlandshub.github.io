@@ -179,7 +179,7 @@ On arrival (or after receiving your permit if already in the Netherlands legally
 2. Open a Dutch business bank account. The [ZZP business bank guide](/guides/finance/dutch-business-bank-account-zzp-2026/) covers options for newly registered companies.
 3. Arrange Dutch health insurance. As a legal resident, you are required to take out Dutch basic health insurance (basisverzekering). See the [Dutch health insurance guide for expats](/guides/health/dutch-health-insurance-guide-expats-2026/).
 
-<a href="https://go.expatnetherlandshub.com/wise?ref=/guides/legal/startup-visa-netherlands-guide-2026/" target="_blank" rel="noopener nofollow sponsored" class="cta-affiliate">Open a Wise account to manage international payments and startup expenses →</a>
+<a href="https://go.expatnetherlandshub.com/wise?ref=/guides/legal/startup-visa-netherlands-guide-2026/" target="_blank" rel="nofollow noopener sponsored" class="cta-affiliate">Open a Wise account to manage international payments and startup expenses →</a>
 
 Wise is particularly useful in the startup year: you will likely be paying for international services, receiving income from clients outside the Netherlands, and managing currency exposure. The multi-currency account with real exchange rates reduces the cost of that complexity significantly compared to a standard Dutch business account.
 
@@ -226,7 +226,7 @@ The most variable cost is the facilitator program fee. Some facilitators — par
 
 Living costs in the Netherlands during the startup year are the dominant expense. Amsterdam is one of Europe's more expensive cities; Rotterdam, Utrecht, Eindhoven, and Delft are meaningfully cheaper for daily expenses and particularly for housing. The [cost of living guide for Netherlands expats](/guides/housing/cost-of-living-netherlands-2026/) has current figures across Dutch cities.
 
-For health coverage during the gap before Dutch insurance kicks in — or as travel health coverage if you are arriving for facilitator meetings before your permit is finalised — <a href="https://go.expatnetherlandshub.com/safetywing?ref=/guides/legal/startup-visa-netherlands-guide-2026/" target="_blank" rel="noopener nofollow sponsored" class="cta-affiliate">SafetyWing Nomad Insurance covers you internationally while you get settled →</a>
+For health coverage during the gap before Dutch insurance kicks in — or as travel health coverage if you are arriving for facilitator meetings before your permit is finalised — <a href="https://go.expatnetherlandshub.com/safetywing?ref=/guides/legal/startup-visa-netherlands-guide-2026/" target="_blank" rel="nofollow noopener sponsored" class="cta-affiliate">SafetyWing Nomad Insurance covers you internationally while you get settled →</a>
 
 ---
 

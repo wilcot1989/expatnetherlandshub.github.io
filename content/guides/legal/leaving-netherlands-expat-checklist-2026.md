@@ -127,9 +127,9 @@ Contact your bank to discuss your options. The situation varies by bank:
 
 If you need to keep a Dutch account for receiving pension payments or tax refunds later, arrange this before you deregister. Once you are deregistered, updating your bank details becomes harder without a Dutch address.
 
-For transferring larger sums from your Dutch account to a foreign account, <a href="https://go.expatnetherlandshub.com/wise?ref=/guides/legal/leaving-netherlands-expat-checklist-2026/" target="_blank" rel="noopener nofollow sponsored">Wise</a> tends to offer better exchange rates and lower fees than traditional banks. I have used it for years and the mid-market rate saves a noticeable amount on larger transfers.
+For transferring larger sums from your Dutch account to a foreign account, <a href="https://go.expatnetherlandshub.com/wise?ref=/guides/legal/leaving-netherlands-expat-checklist-2026/" target="_blank" rel="nofollow noopener sponsored">Wise</a> tends to offer better exchange rates and lower fees than traditional banks. I have used it for years and the mid-market rate saves a noticeable amount on larger transfers.
 
-<a href="https://go.expatnetherlandshub.com/wise?ref=/guides/legal/leaving-netherlands-expat-checklist-2026/" class="cta-affiliate" rel="noopener nofollow sponsored" target="_blank">Keep Your Wise Account for International Transfers →</a>
+<a href="https://go.expatnetherlandshub.com/wise?ref=/guides/legal/leaving-netherlands-expat-checklist-2026/" class="cta-affiliate" rel="nofollow noopener sponsored" target="_blank">Keep Your Wise Account for International Transfers →</a>
 
 For a full comparison of Dutch banks for expats, see my [bank account guide](/guides/finance/how-to-open-bank-account-netherlands-2026/).
 

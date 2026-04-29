@@ -355,7 +355,7 @@ Both Preply and iTalki are legitimate, well-run platforms with genuine Dutch tut
 
 **Choose Preply** if you are a beginner, value a managed learning experience, and want the reassurance of platform-level quality control and a satisfaction guarantee. The slightly higher prices are justified by the structure, vetting, and built-in tools.
 
-<a href="https://go.expatnetherlandshub.com/preply?ref=/guides/integration/preply-vs-italki-dutch-lessons-2026/" class="cta-affiliate" rel="noopener nofollow sponsored" target="_blank">Find a Dutch Tutor on Preply →</a>
+<a href="https://go.expatnetherlandshub.com/preply?ref=/guides/integration/preply-vs-italki-dutch-lessons-2026/" class="cta-affiliate" rel="nofollow noopener sponsored" target="_blank">Find a Dutch Tutor on Preply →</a>
 
 **Choose iTalki** if you are at an intermediate level, want more tutor choice at a broader price range, and are comfortable taking a more active role in managing your own learning. The community tutor option offers outstanding value if you find the right person.
 
