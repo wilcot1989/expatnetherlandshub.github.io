@@ -56,6 +56,12 @@ This guide is what I wish someone had given me on arrival day. I have now helped
 
 ---
 
+
+🇳🇱 *Need NL-specific software? See also [Best NL accounting software for freelancers](https://bedrijfssoftwaregids.nl/blog/beste-boekhoudsoftware-zzp-mkb-2026-pillar/).*
+
+
+🇳🇱 *Looking for NL-specific tools? See also [Best CRM for freelancers in the Netherlands](https://bedrijfssoftwaregids.nl/blog/beste-crm-software-zzp-freelancer-2026/).*
+
 ## First: Which Type of Expat Are You?
 
 The right bank depends almost entirely on why you are here and how long you plan to stay. Before comparing products, answer these four questions:

@@ -15,6 +15,12 @@ This page collects key data and figures about expat life in the Netherlands in 2
 
 ---
 
+
+🇳🇱 *Need NL-specific software? See also [Best NL accounting software for freelancers](https://bedrijfssoftwaregids.nl/blog/beste-boekhoudsoftware-zzp-mkb-2026-pillar/).*
+
+
+🇳🇱 *Looking for NL-specific tools? See also [Best CRM for freelancers in the Netherlands](https://bedrijfssoftwaregids.nl/blog/beste-crm-software-zzp-freelancer-2026/).*
+
 ## Expat Population
 
 | Metric | Figure | Source |

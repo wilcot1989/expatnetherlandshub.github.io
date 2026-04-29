@@ -7,6 +7,9 @@ layout: "single"
 featured_image: "/images/featured/services.webp"
 ---
 
+
+🇳🇱 *Looking for NL-specific tools? See also [Best CRM for freelancers in the Netherlands](https://bedrijfssoftwaregids.nl/blog/beste-crm-software-zzp-freelancer-2026/).*
+
 ## Expat Services in the Netherlands
 
 Moving to the Netherlands involves a lot of moving parts, and knowing which services to use — and which to skip — saves both time and money. This page gives you an honest overview of the main service categories expats typically need, with links to the guides and tools that go deeper on each one.

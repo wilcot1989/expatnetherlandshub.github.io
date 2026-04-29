@@ -44,6 +44,9 @@ This comparison covers the things that genuinely matter: salary and tax, cost of
 
 
 💡 *Looking for a complete banking comparison? Read [Best banking for expats in the Netherlands 2026](/blog/best-banking-expats-netherlands-2026/) — covers ABN, ING, Bunq, Wise, Revolut & 5 others by expat use case.*
+
+🇳🇱 *Need NL-specific software? See also [Best NL accounting software for freelancers](https://bedrijfssoftwaregids.nl/blog/beste-boekhoudsoftware-zzp-mkb-2026-pillar/).*
+
 ## Quick Overview
 
 | Factor | Netherlands | Australia |

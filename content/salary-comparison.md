@@ -35,6 +35,12 @@ If you want personalised numbers, jump straight to the [Net Salary Calculator](/
 
 ---
 
+
+🇳🇱 *Need NL-specific software? See also [Best NL accounting software for freelancers](https://bedrijfssoftwaregids.nl/blog/beste-boekhoudsoftware-zzp-mkb-2026-pillar/).*
+
+
+🇳🇱 *Looking for NL-specific tools? See also [Best CRM for freelancers in the Netherlands](https://bedrijfssoftwaregids.nl/blog/beste-crm-software-zzp-freelancer-2026/).*
+
 ## Section 1: Average Salary by City in the Netherlands (2026)
 
 The table below shows average gross annual salaries by city, estimated net take-home pay, and a cost-adjusted rating that accounts for local housing costs. The cost-adjusted column is the one that actually matters for your quality of life.

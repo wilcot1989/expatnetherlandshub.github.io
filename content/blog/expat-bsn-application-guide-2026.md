@@ -42,6 +42,9 @@ This guide is everything I have learned since then, from my own experience and f
 
 ---
 
+
+🇳🇱 *Looking for NL-specific tools? See also [Best CRM for freelancers in the Netherlands](https://bedrijfssoftwaregids.nl/blog/beste-crm-software-zzp-freelancer-2026/).*
+
 ## What Is the BSN and Why Does It Matter So Much?
 
 The BSN (Burgerservicenummer, or citizen service number) is a unique nine-digit number assigned to every person registered in the Dutch municipal records (BRP — Basisregistratie Personen). It is the single identifier that links you to the Dutch government, healthcare system, tax authority, banking system, and employer payroll.

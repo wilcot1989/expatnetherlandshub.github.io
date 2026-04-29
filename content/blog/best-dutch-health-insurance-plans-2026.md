@@ -42,6 +42,12 @@ I use <a href="https://go.expatnetherlandshub.com/independer-zorg?ref=/blog/best
 
 
 💡 *Looking for a complete banking comparison? Read [Best banking for expats in the Netherlands 2026](/blog/best-banking-expats-netherlands-2026/) — covers ABN, ING, Bunq, Wise, Revolut & 5 others by expat use case.*
+
+🇳🇱 *Need NL-specific software? See also [Best NL accounting software for freelancers](https://bedrijfssoftwaregids.nl/blog/beste-boekhoudsoftware-zzp-mkb-2026-pillar/).*
+
+
+🇳🇱 *Looking for NL-specific tools? See also [Best CRM for freelancers in the Netherlands](https://bedrijfssoftwaregids.nl/blog/beste-crm-software-zzp-freelancer-2026/).*
+
 ## How Dutch Health Insurance Works
 
 ### The Basic Framework
