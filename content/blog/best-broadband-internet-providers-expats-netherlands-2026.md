@@ -320,3 +320,61 @@ For most expats moving to the Netherlands or settling in for the long term:
 6. **Negotiate annually** or switch — prices and promos shift.
 
 For the full picture of setting up Dutch utilities and services, my [Dutch utilities guide](/blog/dutch-utilities-explained-expats-2026/), [first year pillar](/blog/first-year-netherlands-expat-pillar-2026/), and [SIM-only comparison](/blog/best-sim-only-plans-expats-netherlands-2026/) cover the rest of the connected-life setup expats need.
+
+## Specific Provider Service Realities
+
+After years using and switching providers, some honest observations:
+
+**KPN.** Best customer service, most polished apps, premium pricing. They invest in customer experience and it shows. Tech support knows their stuff. The premium is real but so is the experience.
+
+**Ziggo.** Cable network is fine in cities, can degrade at peak times in dense areas. TV bundle is the strongest live-TV proposition in NL. Customer service is OK but their strength is reach, not service polish.
+
+**Odido (post-T-Mobile NL merger).** Best value-for-money on fiber. App is good. Service is good. The 2023 rebrand was rocky for some customers but is largely behind us.
+
+**Delta.** Strong regional player in Zeeland and the south. Where available, often the best local choice. Customer service in English is decent.
+
+**Freedom Internet.** Privacy-conscious branding genuinely backed by practice. Smaller scale means less aggressive pricing but generally responsive service.
+
+**Tweak / Online.nl / Stipte / Plinq.** Budget fiber resellers. Service quality is provider-dependent — read recent reviews before signing.
+
+## Wi-Fi Quality vs. Internet Quality
+
+A common confusion: people complain about "slow internet" when the real issue is poor Wi-Fi inside their home. The fiber/cable line might deliver 1 Gbps to your modem, but old/cheap Wi-Fi distributes only 100–300 Mbps to devices.
+
+Symptoms of Wi-Fi (not internet) issues:
+
+- Speed varies by room
+- Connection drops in some areas
+- Slow speeds on Wi-Fi but fast on Ethernet cable
+
+Solutions:
+
+- Modern Wi-Fi 6 router (most providers include one with new contracts)
+- Mesh Wi-Fi system for larger homes (€150–€500 — Eero, TP-Link Deco, Asus ZenWiFi)
+- Powerline adapters for problem rooms (€80–€150)
+- Wired Ethernet to fixed-position devices (TVs, gaming consoles)
+
+If you're paying for 1 Gbps fiber and seeing 80 Mbps in your bedroom, the problem is your Wi-Fi setup, not your provider.
+
+## Network Resilience and Outages
+
+Dutch broadband is reliable by international standards — typical major-provider uptime is 99.9%+ (less than 9 hours downtime per year). Outages happen, mainly from:
+
+- Construction work cutting fiber lines (most common cause)
+- Provider-side maintenance windows (typically 1-3am, scheduled in advance)
+- Equipment failures at street cabinets
+- Software issues during platform updates
+
+For mission-critical home users (remote workers, livestreams), having a backup is sensible. Mobile hotspot from your [SIM-only plan](/blog/best-sim-only-plans-expats-netherlands-2026/) covers most short-term outages.
+
+For longer outages, providers offer SLA-credit refunds — but the process is manual and modest (typically a day or two of service credit).
+
+## Smart Home and IoT Considerations
+
+If you have a smart-home setup (Hue, smart thermostats, video doorbells, security cameras), consider:
+
+- **Bandwidth.** Most smart devices use modest bandwidth individually but accumulate. 50+ devices on a single network can saturate weak Wi-Fi.
+- **Wi-Fi networks.** Many Dutch routers support guest networks and IoT-specific networks for security isolation.
+- **Static IP / port forwarding.** For home security camera remote access, you may need provider configuration changes.
+
+For most expats with modest smart-home setups (5–20 devices), default consumer-grade fiber is fine. For heavy smart-home users, upgrading the router is more impactful than upgrading the internet plan.

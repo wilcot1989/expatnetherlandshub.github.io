@@ -262,3 +262,37 @@ If you have to pick exactly one platform and never use the other, **Trade Republ
 DEGIRO remains the better choice if you trade specific stocks, use advanced order types, or want exposure to non-Euronext exchanges. For everything else, Trade Republic has caught up and surpassed.
 
 If your strategy is "monthly contributions to a world ETF for the next 30 years," Trade Republic + a savings plan into VWCE or IWDA is the cleanest setup possible in 2026.
+
+## Box 3 Reform and What It Means for Both Brokers
+
+The Dutch Box 3 system is undergoing reform — the move from "presumed yield on assets" to "actual return-based" taxation. Implementation has been delayed multiple times; current target is 2027–2028 for full transition.
+
+Implications for DEGIRO vs Trade Republic users:
+
+- Both brokers will need to provide more detailed tax statements covering actual realized gains, dividends, and interest received (not just year-end balance).
+- Trade Republic's English statements are likely to remain easier for non-Dutch-speaking expats.
+- DEGIRO's Belastingdienst pre-fill integration may extend to actual-return reporting first.
+
+For ongoing tax planning, it's worth holding broker accounts that produce clear, audit-friendly reports. Both currently meet that bar, but neither is optimized for the future "actual return" Box 3 regime yet.
+
+For more on the reform and current Box 3 rules, see my [tax filing as a freelance expat](/blog/tax-filing-freelance-expat-netherlands-2026/) guide and the [crypto tax guide](/blog/crypto-tax-netherlands-expats-2026/) for the related digital-assets context.
+
+## Real Investor Profiles I've Talked To
+
+A few real-world examples from my own expat circle:
+
+**The Amsterdam Dev (35).** €5,000/month income, max-pension Dutch employer, €1,000/month spare to invest. Uses Trade Republic with savings plan into VWCE. Five-year portfolio: €60K with healthy unrealized gains. Hasn't logged in for months. Set-and-forget works.
+
+**The Utrecht Freelancer (40).** €70K/year freelance income, manages own pension, holds €120K split across DEGIRO (active stock picks, niche ETFs) and Trade Republic (monthly accumulation). Likes the segmentation.
+
+**The Den Bosch Couple (28+30).** Combined €110K income, just bought a flat. Hold combined portfolio of €25K in Trade Republic only — simpler, both partners have access on shared device, no need for DEGIRO's complexity.
+
+**The Rotterdam Engineer (45).** Earlier-career investor, €350K portfolio, all on DEGIRO due to specific ETFs only listed there + active option-trading. Won't move to Trade Republic because he uses limit orders heavily.
+
+These aren't endorsements — just patterns that show how the same two brokers fit different lives differently. Pick the one that matches your style.
+
+## Final Cost-of-Inaction Note
+
+Whichever you pick, the most important investing decision is starting. The expense difference between DEGIRO and Trade Republic over a 30-year investing career is small relative to the cost of waiting another 6 months because you couldn't decide.
+
+If you're new to investing, open Trade Republic this weekend, set up a €100/month savings plan into VWCE or IWDA, and revisit in a year. The difference between "perfect choice" and "good choice" is rounding error. The difference between "investing now" and "investing later" is enormous.
