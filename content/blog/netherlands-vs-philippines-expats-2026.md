@@ -4,6 +4,7 @@ description: "Netherlands vs Philippines for expats: comparing costs, visas, hea
 date: 2026-03-22
 lastmod: 2026-04-23T10:00:00+01:00
 author: "Sarah van den Berg"
+author_bio: "Expat coach and writer at ExpatNetherlandsHub.com"
 categories: ["integration"]
 tags: ["netherlands", "philippines", "expats", "comparison", "moving", "relocation", "southeast-asia"]
 featured_image: "/images/categories/integration.svg"

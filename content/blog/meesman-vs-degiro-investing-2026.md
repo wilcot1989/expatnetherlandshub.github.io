@@ -4,6 +4,7 @@ description: "Meesman vs DEGIRO compared: fees, funds, ease of use, and which pl
 date: 2026-03-22
 lastmod: 2026-04-23T10:00:00+01:00
 author: "Sarah van den Berg"
+author_bio: "Expat coach and writer at ExpatNetherlandsHub.com"
 categories: ["finance"]
 tags: ["meesman", "degiro", "investing", "netherlands", "expats", "ETF", "index funds", "comparison"]
 featured_image: "/images/categories/finance.svg"

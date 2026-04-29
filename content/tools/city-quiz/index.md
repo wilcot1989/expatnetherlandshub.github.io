@@ -4,6 +4,9 @@ description: "Answer 7 quick questions and find out which Dutch city matches you
 type: "tools"
 layout: "single"
 featured_image: "/images/categories/cities.svg"
+author: "Sarah van den Berg"
+author_bio: "Expat coach and writer at ExpatNetherlandsHub.com"
+affiliate: true
 ---
 
 <script type="application/ld+json">

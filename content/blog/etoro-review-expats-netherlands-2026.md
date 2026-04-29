@@ -4,6 +4,7 @@ description: "Is eToro the right investing platform for expats in the Netherland
 date: 2026-03-22
 lastmod: 2026-04-23T10:00:00+01:00
 author: "Sarah van den Berg"
+author_bio: "Expat coach and writer at ExpatNetherlandsHub.com"
 categories: ["finance"]
 tags: ["etoro", "investing", "expats", "netherlands", "stocks", "crypto", "review"]
 featured_image: "/images/categories/finance.svg"

@@ -4,6 +4,7 @@ date: 2026-03-26
 lastmod: 2026-04-23T10:00:00+01:00
 draft: false
 author: "Sarah van den Berg"
+author_bio: "Expat coach and writer at ExpatNetherlandsHub.com"
 authorBio: "Expat coach and writer at ExpatNetherlandsHub.com"
 description: "Average salary in the Netherlands 2026 by age, city and industry. What expats actually earn, how Dutch pay compares, and salary negotiation tips."
 featured_image: "/images/categories/work.svg"
@@ -32,6 +33,7 @@ faq:
     a: "Research salary benchmarks on CBS (Statistics Netherlands), Glassdoor, and Loonwijzer before any negotiation. Dutch employers respond well to data-driven conversations. Always negotiate on total package — pension contribution, training budget, and extra leave days all have real monetary value."
   - q: "Which industries pay the highest salaries in the Netherlands?"
     a: "IT/Tech, Finance/Banking, and Legal consistently pay the highest salaries in the Netherlands. Senior software engineers and finance professionals regularly earn €70,000–€90,000 in major cities."
+affiliate: true
 ---
 
 The first question most expats ask before moving to the Netherlands is not about tulips or cycling distances — it's "will I actually be able to afford living here?" Fair enough. Amsterdam is one of the most expensive cities in Europe, and Dutch rent prices have climbed steeply over the past few years.

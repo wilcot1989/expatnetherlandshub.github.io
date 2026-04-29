@@ -4,6 +4,7 @@ description: "What does health insurance actually cost in the Netherlands? Month
 date: 2026-03-26
 lastmod: 2026-04-23T10:00:00+01:00
 author: "Sarah van den Berg"
+author_bio: "Expat coach and writer at ExpatNetherlandsHub.com"
 authorBio: "Expat coach and writer at ExpatNetherlandsHub.com"
 featured_image: "/images/categories/health.svg"
 categories: ["health"]
@@ -30,6 +31,7 @@ faq:
     a: "Children under 18 are insured free of charge under the Dutch system — you only pay for adults. For a couple, expect €260–€350/month in combined basic premiums. Adding supplementary cover (dental, physio, glasses) for both adults brings the total to €300–€450/month, or €3,600–€5,400/year."
   - q: "When do I need international insurance instead of Dutch basisverzekering?"
     a: "You need international insurance if you are not yet registered in the Netherlands (no BSN), if you are a digital nomad spending fewer than 4 months per year in the Netherlands, or if your employer requires global coverage. Once you are a full resident paying Dutch taxes, basisverzekering is both mandatory and the better financial choice for most people."
+affiliate: true
 ---
 
 The cost question I get asked more than any other: how much should I budget for health insurance in the Netherlands? Whether you have just accepted a job in Amsterdam, you are researching the move from London, or you are six months in and wondering why your bank account looks thinner than expected — the answer matters enormously for your budget planning.

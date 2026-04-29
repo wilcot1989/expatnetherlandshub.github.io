@@ -3,6 +3,9 @@ title: "BSN Registration Guide Netherlands 2026"
 description: "Plan your BSN registration in the Netherlands step by step. Free tool with gemeente appointment timeline, required documents, and wait times for your city."
 type: "tools"
 layout: "single"
+affiliate: true
+author: "Sarah van den Berg"
+author_bio: "Expat coach and writer at ExpatNetherlandsHub.com"
 ---
 
 <script type="application/ld+json">

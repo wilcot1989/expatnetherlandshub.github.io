@@ -3,6 +3,9 @@ title: "Rent Affordability Calculator Netherlands 2026"
 description: "Calculate how much rent or mortgage you can afford in the Netherlands. Free calculator based on your income, city, and expat situation. Updated for 2026."
 type: "tools"
 layout: "single"
+affiliate: true
+author: "Sarah van den Berg"
+author_bio: "Expat coach and writer at ExpatNetherlandsHub.com"
 ---
 
 <style>

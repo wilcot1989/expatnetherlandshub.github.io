@@ -3,6 +3,9 @@ title: "Cost of Living Calculator Netherlands 2026 — Budget Tool"
 description: "Calculate your monthly cost of living in the Netherlands for 2026. Free calculator with rent, groceries, transport, insurance, and lifestyle costs by city."
 type: "tools"
 layout: "single"
+affiliate: true
+author: "Sarah van den Berg"
+author_bio: "Expat coach and writer at ExpatNetherlandsHub.com"
 ---
 
 <style>

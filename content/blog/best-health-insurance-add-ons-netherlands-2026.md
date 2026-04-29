@@ -4,6 +4,7 @@ description: "Which health insurance add-ons are worth it for expats in the Neth
 date: 2026-03-22
 lastmod: 2026-04-23T10:00:00+01:00
 author: "Sarah van den Berg"
+author_bio: "Expat coach and writer at ExpatNetherlandsHub.com"
 categories: ["health"]
 tags: ["health insurance", "add-ons", "aanvullende verzekering", "netherlands", "expats", "dental", "physio", "mental health"]
 featured_image: "/images/categories/health.svg"

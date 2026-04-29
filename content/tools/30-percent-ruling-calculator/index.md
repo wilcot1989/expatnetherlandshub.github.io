@@ -3,6 +3,9 @@ title: "30% Ruling Calculator Netherlands 2026"
 description: "Calculate your exact 30% ruling tax benefit for 2026. Free calculator with step-down phases, salary cap, and 5-year projection. Updated March 2026."
 type: "tools"
 layout: "single"
+affiliate: true
+author: "Sarah van den Berg"
+author_bio: "Expat coach and writer at ExpatNetherlandsHub.com"
 ---
 
 <script type="application/ld+json">
