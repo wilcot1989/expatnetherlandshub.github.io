@@ -1,4 +1,6 @@
 {{ define "main" }}
+{{ if .Params.featured_image }}<img loading="lazy" decoding="async" src="{{ .Params.featured_image }}" alt="{{ .Title }}" style="display:none">{{ end }}
+
 
 {{/* JSON-LD is handled in baseof.html — no duplicates here */}}
 
