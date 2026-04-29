@@ -93,23 +93,19 @@
   }
   </script>
   {{ if .Params.faq }}
+  {{- $items := slice -}}
+  {{- range .Params.faq -}}
+    {{- $q := trim (default "" .q) " " -}}
+    {{- $a := trim (default "" .a) " " -}}
+    {{- if and $q $a -}}
+      {{- $items = $items | append (dict "@type" "Question" "name" $q "acceptedAnswer" (dict "@type" "Answer" "text" $a)) -}}
+    {{- end -}}
+  {{- end -}}
+  {{- if $items -}}
   <script type="application/ld+json">
-  {
-    "@context": "https://schema.org",
-    "@type": "FAQPage",
-    "mainEntity": [
-      {{ range $i, $item := .Params.faq }}{{ if $i }},{{ end }}
-      {
-        "@type": "Question",
-        "name": {{ $item.q | jsonify }},
-        "acceptedAnswer": {
-          "@type": "Answer",
-          "text": {{ $item.a | jsonify }}
-        }
-      }{{ end }}
-    ]
-  }
+  {{- (dict "@context" "https://schema.org" "@type" "FAQPage" "mainEntity" $items) | jsonify | safeJS -}}
   </script>
+  {{- end -}}
   {{ end }}
   {{ if .Params.products }}
   <script type="application/ld+json">
