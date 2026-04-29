@@ -28,6 +28,7 @@ products:
   - name: "DutchPod101"
     url: "https://www.dutchpod101.com/"
     price: "0.00"
+faq:
   - q: "Who is this for?"
     a: "See the section above on who benefits most from this service or guide."
   - q: "What does it cost in 2026?"

@@ -29,6 +29,7 @@ products:
   - name: "italki"
     url: "https://www.italki.com/"
     price: "0.00"
+faq:
   - q: "Who is this for?"
     a: "See the section above on who benefits most from this service or guide."
 ---
