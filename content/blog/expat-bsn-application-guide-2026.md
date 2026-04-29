@@ -332,3 +332,11 @@ The fastest path for most expats is: book an appointment online before you board
 The BSN is the administrative foundation of your life in the Netherlands. Get it right and everything else — banking, healthcare, taxes, housing — becomes straightforward. Get it wrong or delay it, and you spend weeks chasing paperwork while paying too much tax and operating without proper banking access.
 
 Book that appointment today.
+
+## Related articles
+
+- [First 30 Days in the Netherlands: Checklist 2026](/guides/legal/first-30-days-netherlands-expat-checklist-2026/)
+- [BSN Number Netherlands: How to Register Step by Step (2026)](/guides/legal/bsn-registration-guide-2026/)
+- [Dutch Driving License Exchange 2026: 30% Ruling](/blog/dutch-driving-license-exchange-2026/)
+- [MVV Visa and Family Reunification Netherlands](/blog/mvv-visa-family-reunification-netherlands-2026/)
+- [Asylum Process Netherlands 2026 Guide](/guides/legal/asylum-refugee-process-netherlands-2026/)

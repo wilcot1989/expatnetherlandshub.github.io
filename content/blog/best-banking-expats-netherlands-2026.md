@@ -514,3 +514,11 @@ I spent €180 in banking fees in my first three months. You do not have to.
 ---
 
 *This article was last updated April 2026. Fee figures are correct to the best of my research as of that date but may change — always verify current fees directly with the bank before opening an account.*
+
+## Related articles
+
+- [Best Bank in the Netherlands 2026 for Expats (English Guide)](/guides/finance/best-bank-account-expats-netherlands-2026/)
+- [Best Finance Apps for Expats in Netherlands 2026](/guides/finance/best-finance-apps-expats-netherlands-2026/)
+- [Crypto Tax Netherlands 2026: Expat Guide](/blog/crypto-tax-netherlands-expats-2026/)
+- [DeGiro Review for Expats in Netherlands 2026](/blog/degiro-review-expats-netherlands-2026/)
+- [Best Ways to Transfer Money to/from the Netherlands 2026](/guides/finance/best-international-money-transfer-netherlands-2026/)

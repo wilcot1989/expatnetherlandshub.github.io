@@ -311,3 +311,11 @@ For a newly arrived expat with a recently exchanged license, insurers may classi
 - [ ] Confirm your 30% ruling employer is updated if they manage your records
 
 The Dutch driving license exchange is genuinely one of the more straightforward bureaucratic processes for expats — as long as you know the rules, bring the right documents, and start before your 185-day deadline. Get it done early, and you will have one less administrative task hanging over your Dutch life.
+
+## Related articles
+
+- [Expat BSN Application Guide 2026: Step by Step](/blog/expat-bsn-application-guide-2026/)
+- [Leaving the Netherlands: Deregistration Guide 2026](/guides/legal/dutch-deregistration-leaving-checklist-2026/)
+- [Dutch Divorce Law for Expats 2026](/guides/legal/dutch-divorce-law-expats-2026/)
+- [Dutch Employment Law Basics Every Expat Should Know 2026](/guides/legal/dutch-employment-law-basics-expats-2026/)
+- [Dutch Inheritance Law for Expats 2026](/guides/legal/dutch-inheritance-law-wills-expats-2026/)

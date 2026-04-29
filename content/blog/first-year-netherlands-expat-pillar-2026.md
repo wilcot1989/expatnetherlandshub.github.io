@@ -442,3 +442,11 @@ Missing the 30% ruling window, ignoring the M-form, using a home bank for all tr
 ---
 
 *Sarah van den Berg has lived in the Netherlands since 2018. She writes about expat finance, housing, and integration at ExpatNetherlandsHub.com and has helped hundreds of expats navigate their first year through this site, local expat groups, and one-to-one coaching.*
+
+## Related articles
+
+- [Expat Tax Return Netherlands 2026: How to File Step by Step](/guides/finance/expat-tax-return-netherlands-2026/)
+- [Expat Mortgage Options Netherlands 2026: Complete Guide](/guides/housing/expat-mortgage-options-netherlands-2026/)
+- [The 30% Ruling in the Netherlands 2026: Complete Guide](/guides/finance/30-percent-ruling-netherlands-2026/)
+- [Best Bank in the Netherlands 2026 for Expats (English Guide)](/guides/finance/best-bank-account-expats-netherlands-2026/)
+- [Best Credit Cards in the Netherlands 2026 for Expats](/guides/finance/best-credit-cards-expats-netherlands-2026/)

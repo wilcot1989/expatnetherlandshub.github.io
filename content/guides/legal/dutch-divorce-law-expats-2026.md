@@ -344,3 +344,11 @@ For expats on highly skilled migrant permits, legal aid eligibility depends on D
 - [Government.nl: Marriage and partnership dissolution](https://www.government.nl/topics/divorce-and-separation)
 
 <a href="/go/wise" class="cta-affiliate" rel="sponsored noopener">Try Wise</a>
+
+## Related articles
+
+- [Dutch Employment Law Basics Every Expat Should Know 2026](/guides/legal/dutch-employment-law-basics-expats-2026/)
+- [Dutch Nationality: Become a Dutch Citizen as an Expat](/guides/legal/dutch-nationality-guide-expats-2026/)
+- [Dutch Rental Contracts: Your Tenant Rights Explained (2026)](/guides/legal/dutch-rental-contract-rights-expats-2026/)
+- [Dutch Driving License Exchange 2026: 30% Ruling](/blog/dutch-driving-license-exchange-2026/)
+- [Dutch Disability Benefits for Expats 2026](/guides/legal/disability-benefits-social-security-expats-2026/)

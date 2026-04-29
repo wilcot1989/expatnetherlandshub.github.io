@@ -542,3 +542,11 @@ For short-stay expats or those not yet BRP-registered, <a href="/go/safetywing" 
 ---
 
 *Sarah van den Berg has lived in the Netherlands since 2018. She has switched Dutch health insurers three times, helped dozens of expats navigate the system through this site and local expat groups, and regrets that initial twelve-minute insurer choice every November when the new premiums come out.*
+
+## Related articles
+
+- [Best Health Insurance Add-Ons Netherlands 2026](/blog/best-health-insurance-add-ons-netherlands-2026/)
+- [CZ Health Insurance Review for Expats 2026](/blog/cz-health-insurance-review-expats-2026/)
+- [Best Dutch Health Insurance Plans 2026 Compared](/blog/best-dutch-health-insurance-plans-2026/)
+- [DSW Health Insurance Review for Expats 2026](/blog/dsw-health-insurance-review-expats-2026/)
+- [Menzis Health Insurance Review for Expats 2026](/blog/menzis-health-insurance-review-expats-2026/)
