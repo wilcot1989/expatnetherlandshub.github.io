@@ -1,38 +1,52 @@
 ---
-title: "Recycling in the Netherlands: Expat Guide"
-date: 2026-06-28T10:00:00+01:00
-lastmod: 2026-04-23T10:00:00+01:00
-description: "Dutch recycling for expats 2026: PMD, paper, glass, GFT, statiegeld deposit return, kringloop thrift shops, Milieupas, and reading your afvalkalender."
-categories: ["daily-life"]
-tags: ["recycling netherlands", "dutch waste sorting", "statiegeld netherlands", "kringloop shop", "pmd recycling netherlands", "afvalkalender"]
-keywords: ["recycling netherlands expats", "dutch recycling system", "PMD afval netherlands", "statiegeld bottles netherlands", "kringloop netherlands", "afvalkalender how to use"]
+title: 'Recycling in the Netherlands: Expat Guide'
+date: 2026-06-28 10:00:00+01:00
+lastmod: 2026-04-23 10:00:00+01:00
+description: 'Dutch recycling for expats 2026: PMD, paper, glass, GFT, statiegeld deposit return, kringloop thrift shops, Milieupas, and reading your afvalkalender.'
+categories:
+- daily-life
+tags:
+- recycling netherlands
+- dutch waste sorting
+- statiegeld netherlands
+- kringloop shop
+- pmd recycling netherlands
+- afvalkalender
+keywords:
+- recycling netherlands expats
+- dutch recycling system
+- PMD afval netherlands
+- statiegeld bottles netherlands
+- kringloop netherlands
+- afvalkalender how to use
 affiliate: false
 products:
-  - name: "Vattenfall"
-    url: "https://www.vattenfall.nl/"
-    price: "0.00"
-  - name: "Eneco"
-    url: "https://www.eneco.nl/"
-    price: "0.00"
-  - name: "KPN"
-    url: "https://www.kpn.com/"
-    price: "0.00"
-author: "Sarah van den Berg"
-author_bio: "Expat coach and relocation specialist. Half Dutch, half British, living in the Netherlands for over 10 years."
-featured_image: "/images/categories/daily-life.svg"
+- name: Vattenfall
+  url: https://www.vattenfall.nl/
+  price: '0.00'
+- name: Eneco
+  url: https://www.eneco.nl/
+  price: '0.00'
+- name: KPN
+  url: https://www.kpn.com/
+  price: '0.00'
+author: Sarah van den Berg
+author_bio: Expat coach and relocation specialist. Half Dutch, half British, living in the Netherlands for over 10 years.
+featured_image: /images/categories/daily-life.svg
 faq:
-  - q: "What does PMD stand for and what can go in it?"
-    a: "PMD stands for Plastic, Metal, and Drinkpakketten (drink cartons). The orange bags (oranje zak) or orange containers collect: plastic bottles and packaging, metal tins and cans, aluminium foil, aerosol cans (empty), and drink cartons (juice boxes, soup cartons, milk cartons). What does NOT go in PMD: broken toys, garden hoses, plastic bags used as rubbish liners, anything with residual food in it, foam packaging, or plastic bags from the supermarket."
-  - q: "How does the statiegeld deposit system work in the Netherlands?"
-    a: "Statiegeld is a deposit return scheme. You pay a deposit (statiegeld) of €0.15 on small PET bottles and cans, and €0.25 on large PET bottles (above 1 litre) when you buy them. Return the empty bottle or can to a collection machine (inzamelmachine) at supermarkets — Albert Heijn, Jumbo, Lidl, Aldi, and most major chains have them. The machine scans the barcode, accepts the item, and gives you a voucher to use against your next purchase or as cash."
-  - q: "What is a kringloopwinkel and where do I find one?"
-    a: "A kringloopwinkel (literally 'recycling shop' or thrift shop) is a second-hand shop where donated household goods, furniture, clothing, books, and electronics are sold. Kringloops are operated by charities or social enterprises and are excellent for both buying affordable items and donating things you no longer need instead of putting them in general waste. Major chains include Kringloopwinkel (municipal), Het Goed, and Emmaus. You can drop off items directly or have larger pieces collected."
-  - q: "What is the Milieupas?"
-    a: "A Milieupas is a pass required at most Dutch recycling centres (milieustraat or chemokar) to drop off large, bulky, or hazardous waste items. You register your Dutch home address and vehicle registration with the local gemeente, and receive a card that grants access to the milieustraat. Without it, you cannot drop off at these facilities. Some municipalities use a digital pass via an app. Contact your gemeente to register — it is free."
-  - q: "What is the afvalkalender and how do I find mine?"
-    a: "The afvalkalender is a collection calendar showing which type of waste is collected on which day in your area. Waste collection in the Netherlands is highly specific — different bins/bags are collected on different days and sometimes different weeks. Most Dutch municipalities publish their afvalkalender on their website and via a free app (often branded with the municipality or waste collector name). Search '[your municipality] afvalkalender' or check the Afvalwijzer app."
-  - q: "Can I recycle clothes and textiles in the Netherlands?"
-    a: "Yes. Textile containers (textielcontainer or kledingcontainer) are located throughout most Dutch neighbourhoods — on streets, in supermarket car parks, and near community centres. These accept clean clothing, paired shoes, linens, and towels. The collected items are sorted: wearable items go to second-hand sales (nationally and internationally), non-wearable items are recycled into industrial fibre. Brands including H&M and Zara also collect textiles in-store."
+- q: What does PMD stand for and what can go in it?
+  a: 'PMD stands for Plastic, Metal, and Drinkpakketten (drink cartons). The orange bags (oranje zak) or orange containers collect: plastic bottles and packaging, metal tins and cans, aluminium foil, aerosol cans (empty), and drink cartons (juice boxes, soup cartons, milk cartons). What does NOT go in PMD: broken toys, garden hoses, plastic bags used as rubbish liners, anything with residual food in it, foam packaging, or plastic bags from the supermarket.'
+- q: How does the statiegeld deposit system work in the Netherlands?
+  a: Statiegeld is a deposit return scheme. You pay a deposit (statiegeld) of €0.15 on small PET bottles and cans, and €0.25 on large PET bottles (above 1 litre) when you buy them. Return the empty bottle or can to a collection machine (inzamelmachine) at supermarkets — Albert Heijn, Jumbo, Lidl, Aldi, and most major chains have them. The machine scans the barcode, accepts the item, and gives you a voucher to use against your next purchase or as cash.
+- q: What is a kringloopwinkel and where do I find one?
+  a: A kringloopwinkel (literally 'recycling shop' or thrift shop) is a second-hand shop where donated household goods, furniture, clothing, books, and electronics are sold. Kringloops are operated by charities or social enterprises and are excellent for both buying affordable items and donating things you no longer need instead of putting them in general waste. Major chains include Kringloopwinkel (municipal), Het Goed, and Emmaus. You can drop off items directly or have larger pieces collected.
+- q: What is the Milieupas?
+  a: A Milieupas is a pass required at most Dutch recycling centres (milieustraat or chemokar) to drop off large, bulky, or hazardous waste items. You register your Dutch home address and vehicle registration with the local gemeente, and receive a card that grants access to the milieustraat. Without it, you cannot drop off at these facilities. Some municipalities use a digital pass via an app. Contact your gemeente to register — it is free.
+- q: What is the afvalkalender and how do I find mine?
+  a: The afvalkalender is a collection calendar showing which type of waste is collected on which day in your area. Waste collection in the Netherlands is highly specific — different bins/bags are collected on different days and sometimes different weeks. Most Dutch municipalities publish their afvalkalender on their website and via a free app (often branded with the municipality or waste collector name). Search '[your municipality] afvalkalender' or check the Afvalwijzer app.
+- q: Can I recycle clothes and textiles in the Netherlands?
+  a: 'Yes. Textile containers (textielcontainer or kledingcontainer) are located throughout most Dutch neighbourhoods — on streets, in supermarket car parks, and near community centres. These accept clean clothing, paired shoes, linens, and towels. The collected items are sorted: wearable items go to second-hand sales (nationally and internationally), non-wearable items are recycled into industrial fibre. Brands including H&M and Zara also collect textiles in-store.'
+schema_type: Article
 ---
 
 I remember my first week in the Netherlands standing in my kitchen surrounded by identical-looking plastic bags, one orange, one grey, trying to work out where a yoghurt container was supposed to go. My Dutch neighbour spent twenty minutes explaining the system. A decade later, sorting waste is automatic — but I remember how confusing it was at the start.

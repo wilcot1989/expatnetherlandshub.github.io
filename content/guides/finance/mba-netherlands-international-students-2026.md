@@ -1,38 +1,51 @@
 ---
-title: "MBA in the Netherlands 2026: Top Programs"
-date: 2026-03-18T10:00:00+01:00
-lastmod: 2026-04-23T10:00:00+01:00
-description: "MBA in the Netherlands 2026: RSM, TIAS, Amsterdam compared. Costs, scholarships, visas, working rights, and money management for international students."
-categories: ["finance"]
-tags: ["mba", "business school", "university", "student", "visa", "finance"]
-keywords: ["mba netherlands 2026", "mba netherlands international students", "business school netherlands", "RSM mba", "TIAS mba netherlands"]
+title: 'MBA in the Netherlands 2026: Top Programs'
+date: 2026-03-18 10:00:00+01:00
+lastmod: 2026-04-23 10:00:00+01:00
+description: 'MBA in the Netherlands 2026: RSM, TIAS, Amsterdam compared. Costs, scholarships, visas, working rights, and money management for international students.'
+categories:
+- finance
+tags:
+- mba
+- business school
+- university
+- student
+- visa
+- finance
+keywords:
+- mba netherlands 2026
+- mba netherlands international students
+- business school netherlands
+- RSM mba
+- TIAS mba netherlands
 affiliate: true
-author: "Sarah van den Berg"
-author_bio: "Expat coach and relocation specialist. Half Dutch, half British, living in the Netherlands for over 10 years."
-featured_image: "/images/categories/finance.svg"
+author: Sarah van den Berg
+author_bio: Expat coach and relocation specialist. Half Dutch, half British, living in the Netherlands for over 10 years.
+featured_image: /images/categories/finance.svg
 products:
-  - name: "Wise"
-    url: "https://go.expatnetherlandshub.com/wise?ref=/guides/finance/mba-netherlands-international-students-2026/"
-    price: "0.00"
-  - name: "bunq"
-    url: "https://www.bunq.com/"
-    price: "2.99"
-  - name: "ING"
-    url: "https://www.ing.nl/particulier"
-    price: "0.00"
+- name: Wise
+  url: https://go.expatnetherlandshub.com/wise?ref=/guides/finance/mba-netherlands-international-students-2026/
+  price: '0.00'
+- name: bunq
+  url: https://www.bunq.com/
+  price: '2.99'
+- name: ING
+  url: https://www.ing.nl/particulier
+  price: '0.00'
 faq:
-  - q: "What are the top MBA schools in the Netherlands?"
-    a: "The leading MBA providers in the Netherlands are Rotterdam School of Management (RSM) at Erasmus University, TIAS School for Business and Society (Tilburg), Amsterdam Business School (University of Amsterdam), and Nyenrode Business University. RSM consistently ranks among Europe's top 10 business schools in major rankings. TIAS and Nyenrode are strong in executive and part-time formats."
-  - q: "How much does an MBA in the Netherlands cost in 2026?"
-    a: "Costs vary significantly. The RSM full-time MBA costs approximately EUR 53,000 in tuition fees for 2026. TIAS Executive MBA runs around EUR 33,000-38,000. Amsterdam Business School part-time MBA is around EUR 20,000-25,000. Non-EU students also pay living costs of approximately EUR 1,200-1,800 per month in Rotterdam or Amsterdam."
-  - q: "Do international MBA students need a visa for the Netherlands?"
-    a: "EU/EEA and Swiss nationals do not need a visa. Non-EU students need a residence permit. Your business school's international office will guide you through the application, which typically involves the school acting as IND sponsor. The process takes 6-10 weeks, so start early — ideally three to four months before your programme begins."
-  - q: "Can international MBA students work in the Netherlands?"
-    a: "Non-EU students on a study residence permit can work up to 16 hours per week, or full-time in June, July, and August. An employer must apply for a work permit (TWV) from the UWV. EU students have unrestricted working rights. After graduation, the one-year orientation visa (zoekjaar) allows non-EU graduates of Dutch or internationally recognised universities to look for work without needing a job offer in advance."
-  - q: "Are there scholarships for international MBA students in the Netherlands?"
-    a: "Yes. The Holland Scholarship is available for non-EEA students at most Dutch universities, covering EUR 5,000 toward tuition in the first year. RSM offers merit-based scholarships covering 25-50% of tuition. TIAS and Nyenrode also offer partial scholarships. Nuffic administers additional scholarship programmes. Apply early — most deadlines fall well before the programme start."
-  - q: "Should I open a Dutch bank account as an MBA student?"
-    a: "Yes. For paying rent, tuition, and daily expenses, a Dutch bank account is useful. But for international money transfers — receiving funds from abroad or sending money — Wise is far more cost-effective than Dutch banks, especially if you are managing finances in multiple currencies during your programme."
+- q: What are the top MBA schools in the Netherlands?
+  a: The leading MBA providers in the Netherlands are Rotterdam School of Management (RSM) at Erasmus University, TIAS School for Business and Society (Tilburg), Amsterdam Business School (University of Amsterdam), and Nyenrode Business University. RSM consistently ranks among Europe's top 10 business schools in major rankings. TIAS and Nyenrode are strong in executive and part-time formats.
+- q: How much does an MBA in the Netherlands cost in 2026?
+  a: Costs vary significantly. The RSM full-time MBA costs approximately EUR 53,000 in tuition fees for 2026. TIAS Executive MBA runs around EUR 33,000-38,000. Amsterdam Business School part-time MBA is around EUR 20,000-25,000. Non-EU students also pay living costs of approximately EUR 1,200-1,800 per month in Rotterdam or Amsterdam.
+- q: Do international MBA students need a visa for the Netherlands?
+  a: EU/EEA and Swiss nationals do not need a visa. Non-EU students need a residence permit. Your business school's international office will guide you through the application, which typically involves the school acting as IND sponsor. The process takes 6-10 weeks, so start early — ideally three to four months before your programme begins.
+- q: Can international MBA students work in the Netherlands?
+  a: Non-EU students on a study residence permit can work up to 16 hours per week, or full-time in June, July, and August. An employer must apply for a work permit (TWV) from the UWV. EU students have unrestricted working rights. After graduation, the one-year orientation visa (zoekjaar) allows non-EU graduates of Dutch or internationally recognised universities to look for work without needing a job offer in advance.
+- q: Are there scholarships for international MBA students in the Netherlands?
+  a: Yes. The Holland Scholarship is available for non-EEA students at most Dutch universities, covering EUR 5,000 toward tuition in the first year. RSM offers merit-based scholarships covering 25-50% of tuition. TIAS and Nyenrode also offer partial scholarships. Nuffic administers additional scholarship programmes. Apply early — most deadlines fall well before the programme start.
+- q: Should I open a Dutch bank account as an MBA student?
+  a: Yes. For paying rent, tuition, and daily expenses, a Dutch bank account is useful. But for international money transfers — receiving funds from abroad or sending money — Wise is far more cost-effective than Dutch banks, especially if you are managing finances in multiple currencies during your programme.
+schema_type: Article
 ---
 
 The Netherlands punches well above its weight in European business education. For international students considering an MBA, the combination of internationally respected schools, a genuinely global student body, English-language programmes, and a well-connected European location makes it a serious option.

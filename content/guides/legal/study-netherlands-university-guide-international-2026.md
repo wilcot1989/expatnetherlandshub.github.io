@@ -1,40 +1,53 @@
 ---
-title: "Study in the Netherlands: University Guide 2026"
-date: 2026-03-18T10:00:00+01:00
-lastmod: 2026-04-23T10:00:00+01:00
-description: "Study in the Netherlands 2026: Dutch uni system, top universities, tuition fees, admissions, housing, Studielink, and what no one tells you beforehand."
-categories: ["legal"]
-tags: ["study netherlands", "dutch universities", "international students", "tuition fees", "studielink", "university guide"]
-keywords: ["study in the netherlands 2026", "dutch university international students", "netherlands university guide", "tuition fees netherlands", "best universities netherlands expats"]
+title: 'Study in the Netherlands: University Guide 2026'
+date: 2026-03-18 10:00:00+01:00
+lastmod: 2026-04-23 10:00:00+01:00
+description: 'Study in the Netherlands 2026: Dutch uni system, top universities, tuition fees, admissions, housing, Studielink, and what no one tells you beforehand.'
+categories:
+- legal
+tags:
+- study netherlands
+- dutch universities
+- international students
+- tuition fees
+- studielink
+- university guide
+keywords:
+- study in the netherlands 2026
+- dutch university international students
+- netherlands university guide
+- tuition fees netherlands
+- best universities netherlands expats
 affiliate: true
 products:
-  - name: "Expatax"
-    url: "https://www.expatax.nl/"
-    price: "0.00"
-  - name: "Blue Umbrella"
-    url: "https://www.blueumbrella.nl/"
-    price: "0.00"
-  - name: "IND"
-    url: "https://ind.nl/en"
-    price: "0.00"
-author: "Sarah van den Berg"
-author_bio: "Expat coach and relocation specialist. Half Dutch, half British, living in the Netherlands for over 10 years."
-featured_image: "/images/categories/legal.svg"
+- name: Expatax
+  url: https://www.expatax.nl/
+  price: '0.00'
+- name: Blue Umbrella
+  url: https://www.blueumbrella.nl/
+  price: '0.00'
+- name: IND
+  url: https://ind.nl/en
+  price: '0.00'
+author: Sarah van den Berg
+author_bio: Expat coach and relocation specialist. Half Dutch, half British, living in the Netherlands for over 10 years.
+featured_image: /images/categories/legal.svg
 faq:
-  - q: "What is the difference between WO and HBO universities in the Netherlands?"
-    a: "WO (wetenschappelijk onderwijs) are research universities that award bachelor's and master's degrees with an academic, research-oriented curriculum. Examples include Leiden University, University of Amsterdam, and TU Delft. HBO (hoger beroepsonderwijs) are universities of applied sciences with a more practical, professionally-oriented approach. Both award internationally recognised degrees but WO is closer to what most international students associate with 'university' in the UK or US sense."
-  - q: "How much does it cost to study in the Netherlands as a non-EU international student in 2026?"
-    a: "EU/EEA students who qualify for the statutory tuition fee pay €2,530 per year in 2026. Non-EU international students pay institutional fees set by each university, which typically range from €8,000 to €20,000 per year for bachelor's programmes. Master's fees can range from €10,000 to €25,000+. MBA and executive education programmes at Erasmus and other business schools can exceed €40,000 per year."
-  - q: "What English language scores do Dutch universities accept?"
-    a: "Most Dutch universities accept IELTS Academic with a minimum of 6.0-7.0 (band scores vary by programme), TOEFL iBT with a minimum of 80-100, and Cambridge C1 Advanced or C2 Proficiency. Some programmes, particularly at TU Delft and Leiden, require higher scores (IELTS 7.0+ for competitive programmes). Always check the specific programme requirements as they vary even within the same university."
-  - q: "What is Studielink and how does it work?"
-    a: "Studielink is the Dutch national application portal for higher education. All applications to Dutch WO universities and most HBO institutions go through Studielink. You create an account, select your programme, submit your application, and then follow up directly with the university for document submission and admission decisions. The portal handles the administrative side; the university makes the actual admission decision. EU students apply before May 1 for September start (binding study advice programmes). Non-EU students typically have earlier deadlines — often February or March."
-  - q: "Can international students work in the Netherlands?"
-    a: "EU/EEA students can work without restriction in the Netherlands. Non-EU students on a study residence permit can work a maximum of 16 hours per week, or full-time during June, July, and August. The employer must obtain a work permit (TWV) from the UWV. Working over the allowed hours risks your residence permit."
-  - q: "What is the housing situation like for international students in the Netherlands?"
-    a: "Extremely difficult. The Netherlands has a structural student housing shortage, particularly in Amsterdam, Utrecht, Leiden, and Delft. University-linked student housing (SSH, DUWO, etc.) has waiting lists of 1-5 years. Most students must find private rooms through platforms like Kamernet, HousingAnywhere, or rental agencies. Budget €500-1,100 per month for a room in a shared house and apply as soon as you receive your offer letter — ideally before you have formally accepted."
-  - q: "What is diploma recognition (Nuffic) in the Netherlands?"
-    a: "Nuffic is the Dutch organisation for internationalisation in education. It issues idw statements (informatiedossier werkveld) that compare foreign qualifications to Dutch standards. For university admissions, Nuffic credential evaluation is often required to confirm that your secondary school diploma (or prior degree) meets Dutch entry requirements. This is particularly relevant for students from countries with different school-leaving exam systems."
+- q: What is the difference between WO and HBO universities in the Netherlands?
+  a: WO (wetenschappelijk onderwijs) are research universities that award bachelor's and master's degrees with an academic, research-oriented curriculum. Examples include Leiden University, University of Amsterdam, and TU Delft. HBO (hoger beroepsonderwijs) are universities of applied sciences with a more practical, professionally-oriented approach. Both award internationally recognised degrees but WO is closer to what most international students associate with 'university' in the UK or US sense.
+- q: How much does it cost to study in the Netherlands as a non-EU international student in 2026?
+  a: EU/EEA students who qualify for the statutory tuition fee pay €2,530 per year in 2026. Non-EU international students pay institutional fees set by each university, which typically range from €8,000 to €20,000 per year for bachelor's programmes. Master's fees can range from €10,000 to €25,000+. MBA and executive education programmes at Erasmus and other business schools can exceed €40,000 per year.
+- q: What English language scores do Dutch universities accept?
+  a: Most Dutch universities accept IELTS Academic with a minimum of 6.0-7.0 (band scores vary by programme), TOEFL iBT with a minimum of 80-100, and Cambridge C1 Advanced or C2 Proficiency. Some programmes, particularly at TU Delft and Leiden, require higher scores (IELTS 7.0+ for competitive programmes). Always check the specific programme requirements as they vary even within the same university.
+- q: What is Studielink and how does it work?
+  a: Studielink is the Dutch national application portal for higher education. All applications to Dutch WO universities and most HBO institutions go through Studielink. You create an account, select your programme, submit your application, and then follow up directly with the university for document submission and admission decisions. The portal handles the administrative side; the university makes the actual admission decision. EU students apply before May 1 for September start (binding study advice programmes). Non-EU students typically have earlier deadlines — often February or March.
+- q: Can international students work in the Netherlands?
+  a: EU/EEA students can work without restriction in the Netherlands. Non-EU students on a study residence permit can work a maximum of 16 hours per week, or full-time during June, July, and August. The employer must obtain a work permit (TWV) from the UWV. Working over the allowed hours risks your residence permit.
+- q: What is the housing situation like for international students in the Netherlands?
+  a: Extremely difficult. The Netherlands has a structural student housing shortage, particularly in Amsterdam, Utrecht, Leiden, and Delft. University-linked student housing (SSH, DUWO, etc.) has waiting lists of 1-5 years. Most students must find private rooms through platforms like Kamernet, HousingAnywhere, or rental agencies. Budget €500-1,100 per month for a room in a shared house and apply as soon as you receive your offer letter — ideally before you have formally accepted.
+- q: What is diploma recognition (Nuffic) in the Netherlands?
+  a: Nuffic is the Dutch organisation for internationalisation in education. It issues idw statements (informatiedossier werkveld) that compare foreign qualifications to Dutch standards. For university admissions, Nuffic credential evaluation is often required to confirm that your secondary school diploma (or prior degree) meets Dutch entry requirements. This is particularly relevant for students from countries with different school-leaving exam systems.
+schema_type: Article
 ---
 
 The Netherlands is one of the most popular destinations for international students in Europe — and for good reason. Dutch universities consistently rank in the global top 200, the majority of master's programmes are taught in English, the country is small enough that any university city is a reasonable commute from anywhere else, and the post-study work landscape for graduating students has improved significantly in recent years.

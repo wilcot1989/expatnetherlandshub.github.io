@@ -1,33 +1,44 @@
 ---
-title: "Short-Stay Housing Netherlands: Expat Guide"
-date: 2026-03-22T10:00:00+01:00
-lastmod: 2026-04-23T10:00:00+01:00
-description: "Short-stay furnished housing in the Netherlands for expats: platforms, typical costs, tenant rights, scam warnings, and how to find something fast."
-categories: ["housing"]
-tags: ["short stay housing", "furnished apartments Netherlands", "expat housing", "temporary accommodation", "Amsterdam housing"]
-keywords: ["short stay housing Netherlands expat", "furnished apartments Amsterdam expat", "temporary housing Netherlands 2026", "expat housing Netherlands guide"]
+title: 'Short-Stay Housing Netherlands: Expat Guide'
+date: 2026-03-22 10:00:00+01:00
+lastmod: 2026-04-23 10:00:00+01:00
+description: 'Short-stay furnished housing in the Netherlands for expats: platforms, typical costs, tenant rights, scam warnings, and how to find something fast.'
+categories:
+- housing
+tags:
+- short stay housing
+- furnished apartments Netherlands
+- expat housing
+- temporary accommodation
+- Amsterdam housing
+keywords:
+- short stay housing Netherlands expat
+- furnished apartments Amsterdam expat
+- temporary housing Netherlands 2026
+- expat housing Netherlands guide
 affiliate: true
-author: "Sarah van den Berg"
-author_bio: "Expat coach and writer at ExpatNetherlandsHub.com"
-featured_image: "/images/categories/housing.svg"
+author: Sarah van den Berg
+author_bio: Expat coach and writer at ExpatNetherlandsHub.com
+featured_image: /images/categories/housing.svg
 faq:
-  - q: "How much does short-stay furnished housing cost in Amsterdam in 2026?"
-    a: "Short-stay furnished housing in Amsterdam typically costs EUR 1,800–3,500/month for a one-bedroom apartment, depending on location, quality, and lease length. Shorter stays (1–3 months) command a premium over longer arrangements (6–12 months). Serviced apartments with hotel-like facilities (weekly cleaning, concierge) run EUR 2,500–5,000+/month. Outside Amsterdam, Rotterdam and Utrecht offer similar quality at roughly 15–25% lower cost."
-  - q: "What is the minimum rental period for short-stay housing in the Netherlands?"
-    a: "This depends on the type of accommodation. Serviced apartment buildings operated by companies like The Student Hotel (non-student units), YAYS, or Zoku have minimum stays ranging from a few days to one month. Most private landlords offering furnished apartments require a minimum of one to three months. Standard residential leases in the Netherlands have no statutory minimum duration but landlords typically do not offer less than six months because Dutch tenant protection laws are strong — a landlord who offers a shorter period with a fixed end date needs to use a specific temporary rental contract (tijdelijk huurcontract) under the 2024 reforms."
-  - q: "Do I have any tenant rights on a short-stay rental in the Netherlands?"
-    a: "Yes, Dutch tenant protection law (huurrecht) applies to all residential rentals regardless of duration, though some protections vary. For a fixed-term contract (tijdelijk huurcontract) under the 2024 reforms, a landlord can offer a contract of up to 2 years (standalone house) or 5 years (room in a shared house) with a fixed end date — this offers less security than an indefinite contract. If you have a standard indefinite lease, you have very strong security of tenure — the landlord cannot simply end it. Short-stay furnished rentals with a hotel or serviced apartment classification may operate outside standard residential rent law. When signing, ask explicitly whether the contract is a residential huurcontract (strong rights) or a temporary service agreement (fewer rights)."
-  - q: "What are the most reliable platforms for finding short-stay housing in the Netherlands?"
-    a: "The most commonly used platforms for furnished and short-stay housing in the Netherlands are: Funda (funda.nl) for mainstream listings including some furnished rentals; Pararius (pararius.nl) which has the largest selection of furnished expat-oriented rentals; HousingAnywhere (housinganywhere.com), particularly strong for furnished medium-term rentals; Spotahome, which covers furnished rentals with video tours; and direct serviced apartment providers like YAYS, Zoku, The Entourage Group, and Eric Vökel. For corporate relocations, dedicated agencies like Xior, Holland2Stay, and Amsterdam Housing work with employers to arrange housing."
-  - q: "How do I avoid housing scams in the Netherlands?"
-    a: "Housing scams are a real problem in the Netherlands, particularly in Amsterdam and Rotterdam where demand enormously exceeds supply. Red flags include: rent that seems low compared to market rates; landlords who are 'abroad' and want to post keys internationally; requests to pay a deposit before viewing; listings using photos you can find elsewhere via reverse image search; and pressure to transfer money quickly via bank transfer or gift cards. Always view the property in person (or via live video call with the landlord in the property) before paying anything. Verify the identity of the landlord against the Kadaster (land registry) if possible. Use platforms that offer payment protection. Never send money to an unverified individual."
-  - q: "Can I use short-stay housing as my official registration address in the Netherlands?"
-    a: "For official registration at the gemeente (BRP registration), you need a residential address where you actually live. Serviced apartments and short-stay accommodations that are commercially registered as hotels or corporate housing cannot always be used for BRP registration. Many landlords of furnished apartments will allow registration — this is a critical question to ask before signing. Without BRP registration, you cannot get a BSN, and without a BSN you cannot open a bank account, access healthcare, or apply for the 30% ruling. Always confirm registration permission before committing to any short-stay arrangement."
+- q: How much does short-stay furnished housing cost in Amsterdam in 2026?
+  a: Short-stay furnished housing in Amsterdam typically costs EUR 1,800–3,500/month for a one-bedroom apartment, depending on location, quality, and lease length. Shorter stays (1–3 months) command a premium over longer arrangements (6–12 months). Serviced apartments with hotel-like facilities (weekly cleaning, concierge) run EUR 2,500–5,000+/month. Outside Amsterdam, Rotterdam and Utrecht offer similar quality at roughly 15–25% lower cost.
+- q: What is the minimum rental period for short-stay housing in the Netherlands?
+  a: This depends on the type of accommodation. Serviced apartment buildings operated by companies like The Student Hotel (non-student units), YAYS, or Zoku have minimum stays ranging from a few days to one month. Most private landlords offering furnished apartments require a minimum of one to three months. Standard residential leases in the Netherlands have no statutory minimum duration but landlords typically do not offer less than six months because Dutch tenant protection laws are strong — a landlord who offers a shorter period with a fixed end date needs to use a specific temporary rental contract (tijdelijk huurcontract) under the 2024 reforms.
+- q: Do I have any tenant rights on a short-stay rental in the Netherlands?
+  a: Yes, Dutch tenant protection law (huurrecht) applies to all residential rentals regardless of duration, though some protections vary. For a fixed-term contract (tijdelijk huurcontract) under the 2024 reforms, a landlord can offer a contract of up to 2 years (standalone house) or 5 years (room in a shared house) with a fixed end date — this offers less security than an indefinite contract. If you have a standard indefinite lease, you have very strong security of tenure — the landlord cannot simply end it. Short-stay furnished rentals with a hotel or serviced apartment classification may operate outside standard residential rent law. When signing, ask explicitly whether the contract is a residential huurcontract (strong rights) or a temporary service agreement (fewer rights).
+- q: What are the most reliable platforms for finding short-stay housing in the Netherlands?
+  a: 'The most commonly used platforms for furnished and short-stay housing in the Netherlands are: Funda (funda.nl) for mainstream listings including some furnished rentals; Pararius (pararius.nl) which has the largest selection of furnished expat-oriented rentals; HousingAnywhere (housinganywhere.com), particularly strong for furnished medium-term rentals; Spotahome, which covers furnished rentals with video tours; and direct serviced apartment providers like YAYS, Zoku, The Entourage Group, and Eric Vökel. For corporate relocations, dedicated agencies like Xior, Holland2Stay, and Amsterdam Housing work with employers to arrange housing.'
+- q: How do I avoid housing scams in the Netherlands?
+  a: 'Housing scams are a real problem in the Netherlands, particularly in Amsterdam and Rotterdam where demand enormously exceeds supply. Red flags include: rent that seems low compared to market rates; landlords who are ''abroad'' and want to post keys internationally; requests to pay a deposit before viewing; listings using photos you can find elsewhere via reverse image search; and pressure to transfer money quickly via bank transfer or gift cards. Always view the property in person (or via live video call with the landlord in the property) before paying anything. Verify the identity of the landlord against the Kadaster (land registry) if possible. Use platforms that offer payment protection. Never send money to an unverified individual.'
+- q: Can I use short-stay housing as my official registration address in the Netherlands?
+  a: For official registration at the gemeente (BRP registration), you need a residential address where you actually live. Serviced apartments and short-stay accommodations that are commercially registered as hotels or corporate housing cannot always be used for BRP registration. Many landlords of furnished apartments will allow registration — this is a critical question to ask before signing. Without BRP registration, you cannot get a BSN, and without a BSN you cannot open a bank account, access healthcare, or apply for the 30% ruling. Always confirm registration permission before committing to any short-stay arrangement.
 products:
-  - name: "Wise"
-    url: "https://go.expatnetherlandshub.com/wise?ref=/blog/short-stay-furnished-housing-netherlands-2026/"
-    price: "0.00"
-    tag: "Currency Transfer"
+- name: Wise
+  url: https://go.expatnetherlandshub.com/wise?ref=/blog/short-stay-furnished-housing-netherlands-2026/
+  price: '0.00'
+  tag: Currency Transfer
+schema_type: Article
 ---
 
 The first thing you discover about housing in the Netherlands as an expat is that it is genuinely hard. The vacancy rate in Amsterdam hovers around 1%. In some city-centre postcodes it is effectively zero. The waiting list for social housing (which you cannot access as a new arrival anyway) runs to years, sometimes decades.

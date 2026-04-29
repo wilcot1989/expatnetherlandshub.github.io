@@ -1,41 +1,52 @@
 ---
-title: "Netherlands vs USA for Expats 2026"
-date: 2026-03-22T10:00:00+01:00
-lastmod: 2026-04-23T10:00:00+01:00
-type: "guide"
-description: "Netherlands vs USA comparison for expats in 2026. Side-by-side analysis of cost of living, salaries, taxes, healthcare, work culture, and quality of life."
-categories: ["integration"]
-tags: ["Netherlands vs USA", "expat comparison", "moving to Netherlands from America", "American expats Netherlands"]
-keywords: ["netherlands vs usa expats", "living in netherlands vs usa", "moving from usa to netherlands", "american expat netherlands", "netherlands vs america cost of living"]
+title: Netherlands vs USA for Expats 2026
+date: 2026-03-22 10:00:00+01:00
+lastmod: 2026-04-23 10:00:00+01:00
+type: guide
+description: Netherlands vs USA comparison for expats in 2026. Side-by-side analysis of cost of living, salaries, taxes, healthcare, work culture, and quality of life.
+categories:
+- integration
+tags:
+- Netherlands vs USA
+- expat comparison
+- moving to Netherlands from America
+- American expats Netherlands
+keywords:
+- netherlands vs usa expats
+- living in netherlands vs usa
+- moving from usa to netherlands
+- american expat netherlands
+- netherlands vs america cost of living
 affiliate: true
-author: "Sarah van den Berg"
-author_bio: "Expat coach and relocation specialist. Half Dutch, half British, living in the Netherlands for over 10 years."
-featured_image: "/images/categories/integration.svg"
+author: Sarah van den Berg
+author_bio: Expat coach and relocation specialist. Half Dutch, half British, living in the Netherlands for over 10 years.
+featured_image: /images/categories/integration.svg
 faq:
-  - q: "Is the Netherlands more expensive than the USA?"
-    a: "It depends heavily on which American city you are comparing. Amsterdam is significantly cheaper than San Francisco or New York, but more expensive than most mid-sized American cities. The biggest differences are in healthcare (predictable, mandatory insurance in NL at EUR 130-175/month vs unpredictable employer-dependent costs in the US) and education (near-free university in NL vs tens of thousands in the US). Groceries and dining out tend to be slightly more expensive in the Netherlands."
-  - q: "How does the 30% ruling benefit Americans moving to the Netherlands?"
-    a: "The 30% ruling allows qualifying expats recruited from abroad to receive 30% of their gross salary tax-free for up to 5 years. For an American on EUR 80,000 gross, this means paying income tax on only EUR 56,000. Combined with Dutch social security contributions, the effective tax rate can be significantly lower than both US federal tax and the Dutch standard rate. Americans still owe US taxes on worldwide income, but the Foreign Earned Income Exclusion (FEIE) — up to USD 126,500 in 2024 — eliminates most US liability for those living abroad."
-  - q: "Do Americans pay US taxes while living in the Netherlands?"
-    a: "Yes. The US taxes its citizens on worldwide income regardless of where they live — one of only two countries in the world to do so (the other being Eritrea). However, the Foreign Earned Income Exclusion (FEIE) allows you to exclude foreign earned income up to approximately USD 126,500 per year (2024). The US-Netherlands tax treaty also prevents most double taxation. Most American expats owe little or no US income tax on Dutch earnings, but they must still file a US tax return annually."
-  - q: "Is healthcare better in the Netherlands or the USA?"
-    a: "The Netherlands has mandatory universal health insurance. Every resident pays EUR 130-175/month for a basic policy covering GP visits, specialist care, hospital stays, and most prescriptions. There is a EUR 385 annual deductible. In the US, healthcare costs depend entirely on your employer, your plan, and your location — premiums range from USD 200 to 800/month with deductibles of USD 1,500 to 6,000+. The Netherlands scores higher on healthcare outcomes, life expectancy, and financial predictability. Most Americans are relieved by the Dutch system once they understand it."
-  - q: "What is the biggest culture shock for Americans moving to the Netherlands?"
-    a: "Most Americans cite several things: the directness of Dutch communication (which can feel blunt or even rude at first), the small physical scale of homes and apartments, the complete centrality of cycling in daily life, and the relaxed attitude toward vacation time and working hours. Positively, most are surprised by how safe, orderly, and well-functioning Dutch cities are. The Dutch work to live rather than live to work — this can feel genuinely liberating for Americans who have spent their careers in high-pressure, long-hours environments."
-  - q: "How long does it take to get a Dutch work visa as an American?"
-    a: "The Dutch highly skilled migrant visa (kennismigrant) is typically processed in 2-4 weeks once your employer submits the application through an IND-recognised sponsor. You need a job offer from a Dutch employer, and the minimum salary threshold is approximately EUR 5,008/month gross (age 30+) or EUR 3,672 (under 30) in 2026. Your partner receives an open work permit. This is significantly faster than most US visa processes for Europeans."
-  - q: "Can I retire in the Netherlands as an American?"
-    a: "Yes, though it requires either Dutch residency through another route (family, long-term residence) or sufficient passive income. Americans who have built savings and want a high-quality European retirement find the Netherlands attractive: excellent healthcare, safe cities, strong infrastructure, and proximity to the rest of Europe. The pension treaty between the US and the Netherlands prevents double taxation of US Social Security benefits and Dutch AOW pension payments."
+- q: Is the Netherlands more expensive than the USA?
+  a: It depends heavily on which American city you are comparing. Amsterdam is significantly cheaper than San Francisco or New York, but more expensive than most mid-sized American cities. The biggest differences are in healthcare (predictable, mandatory insurance in NL at EUR 130-175/month vs unpredictable employer-dependent costs in the US) and education (near-free university in NL vs tens of thousands in the US). Groceries and dining out tend to be slightly more expensive in the Netherlands.
+- q: How does the 30% ruling benefit Americans moving to the Netherlands?
+  a: The 30% ruling allows qualifying expats recruited from abroad to receive 30% of their gross salary tax-free for up to 5 years. For an American on EUR 80,000 gross, this means paying income tax on only EUR 56,000. Combined with Dutch social security contributions, the effective tax rate can be significantly lower than both US federal tax and the Dutch standard rate. Americans still owe US taxes on worldwide income, but the Foreign Earned Income Exclusion (FEIE) — up to USD 126,500 in 2024 — eliminates most US liability for those living abroad.
+- q: Do Americans pay US taxes while living in the Netherlands?
+  a: Yes. The US taxes its citizens on worldwide income regardless of where they live — one of only two countries in the world to do so (the other being Eritrea). However, the Foreign Earned Income Exclusion (FEIE) allows you to exclude foreign earned income up to approximately USD 126,500 per year (2024). The US-Netherlands tax treaty also prevents most double taxation. Most American expats owe little or no US income tax on Dutch earnings, but they must still file a US tax return annually.
+- q: Is healthcare better in the Netherlands or the USA?
+  a: The Netherlands has mandatory universal health insurance. Every resident pays EUR 130-175/month for a basic policy covering GP visits, specialist care, hospital stays, and most prescriptions. There is a EUR 385 annual deductible. In the US, healthcare costs depend entirely on your employer, your plan, and your location — premiums range from USD 200 to 800/month with deductibles of USD 1,500 to 6,000+. The Netherlands scores higher on healthcare outcomes, life expectancy, and financial predictability. Most Americans are relieved by the Dutch system once they understand it.
+- q: What is the biggest culture shock for Americans moving to the Netherlands?
+  a: 'Most Americans cite several things: the directness of Dutch communication (which can feel blunt or even rude at first), the small physical scale of homes and apartments, the complete centrality of cycling in daily life, and the relaxed attitude toward vacation time and working hours. Positively, most are surprised by how safe, orderly, and well-functioning Dutch cities are. The Dutch work to live rather than live to work — this can feel genuinely liberating for Americans who have spent their careers in high-pressure, long-hours environments.'
+- q: How long does it take to get a Dutch work visa as an American?
+  a: The Dutch highly skilled migrant visa (kennismigrant) is typically processed in 2-4 weeks once your employer submits the application through an IND-recognised sponsor. You need a job offer from a Dutch employer, and the minimum salary threshold is approximately EUR 5,008/month gross (age 30+) or EUR 3,672 (under 30) in 2026. Your partner receives an open work permit. This is significantly faster than most US visa processes for Europeans.
+- q: Can I retire in the Netherlands as an American?
+  a: 'Yes, though it requires either Dutch residency through another route (family, long-term residence) or sufficient passive income. Americans who have built savings and want a high-quality European retirement find the Netherlands attractive: excellent healthcare, safe cities, strong infrastructure, and proximity to the rest of Europe. The pension treaty between the US and the Netherlands prevents double taxation of US Social Security benefits and Dutch AOW pension payments.'
 products:
-  - name: "Babbel"
-    url: "https://www.babbel.com/"
-    price: "6.99"
-  - name: "Meetup"
-    url: "https://www.meetup.com/"
-    price: "0.00"
-  - name: "DutchPod101"
-    url: "https://www.dutchpod101.com/"
-    price: "0.00"
+- name: Babbel
+  url: https://www.babbel.com/
+  price: '6.99'
+- name: Meetup
+  url: https://www.meetup.com/
+  price: '0.00'
+- name: DutchPod101
+  url: https://www.dutchpod101.com/
+  price: '0.00'
+schema_type: Article
 ---
 
 Last autumn, I had a client — let's call her Megan — who arrived in Amsterdam from San Francisco in a complete state of overwhelm. She had researched the Netherlands thoroughly. Read every expat blog, watched countless YouTube videos, downloaded the IND app. She thought she was prepared. Three weeks in, she called me in a mild panic. Not about the visa, not about the language, not about finding a flat. She was upset because her Dutch manager had told her, directly and in front of the whole team, that her presentation had been too vague and needed more data. "He said it like it was nothing," she told me. "Nobody said anything. Am I supposed to just accept that?"

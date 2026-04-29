@@ -1,40 +1,42 @@
 ---
-title: "Startup Visa Netherlands 2026: How to Apply"
-slug: "startup-visa-netherlands-guide-2026"
-date: 2026-03-18T10:00:00+01:00
-lastmod: 2026-04-23T10:00:00+01:00
-description: "How to get a Dutch startup visa in 2026. Requirements, approved facilitators, application steps, costs, and how it compares to the DAFT visa."
-categories: ["legal"]
-type: "guide"
-author: "Sarah van den Berg"
-author_bio: "Expat coach and relocation specialist. Half Dutch, half British, living in the Netherlands for over 10 years."
-featured_image: "/images/categories/legal.svg"
+title: 'Startup Visa Netherlands 2026: How to Apply'
+slug: startup-visa-netherlands-guide-2026
+date: 2026-03-18 10:00:00+01:00
+lastmod: 2026-04-23 10:00:00+01:00
+description: How to get a Dutch startup visa in 2026. Requirements, approved facilitators, application steps, costs, and how it compares to the DAFT visa.
+categories:
+- legal
+type: guide
+author: Sarah van den Berg
+author_bio: Expat coach and relocation specialist. Half Dutch, half British, living in the Netherlands for over 10 years.
+featured_image: /images/categories/legal.svg
 affiliate: true
 products:
-  - name: "Expatax"
-    url: "https://www.expatax.nl/"
-    price: "0.00"
-  - name: "Blue Umbrella"
-    url: "https://www.blueumbrella.nl/"
-    price: "0.00"
-  - name: "IND"
-    url: "https://ind.nl/en"
-    price: "0.00"
+- name: Expatax
+  url: https://www.expatax.nl/
+  price: '0.00'
+- name: Blue Umbrella
+  url: https://www.blueumbrella.nl/
+  price: '0.00'
+- name: IND
+  url: https://ind.nl/en
+  price: '0.00'
 faq:
-  - q: "Who can apply for the Dutch startup visa?"
-    a: "The startup visa is open to non-EU/EEA entrepreneurs of any nationality who want to build an innovative business in the Netherlands. Unlike the DAFT visa, which is limited to US citizens, the startup visa is available to anyone from outside the EU — including Americans, Canadians, Australians, Indians, Brazilians, and others. You do not need to be a tech founder; the key requirement is that your product or service is innovative and scalable."
-  - q: "Do I need a facilitator for the Dutch startup visa?"
-    a: "Yes. You must partner with a Dutch government-approved facilitator — typically an incubator, accelerator, or business development organisation. The facilitator reviews your business plan, mentors you during the visa period, and provides a formal statement to the IND. Without an approved facilitator, you cannot apply. As of 2026, RVO (Netherlands Enterprise Agency) publishes the current list of approved facilitators."
-  - q: "What counts as innovative for the startup visa?"
-    a: "The IND and RVO assess innovation based on whether your product or service is new to the Dutch market, uses technology in a non-obvious way, or solves a problem that existing businesses do not adequately address. You do not need to be a deep-tech company. Software platforms, marketplace businesses, hardware with novel applications, and services with genuinely new delivery models have all been approved. Pure service businesses without technological differentiation are harder to get approved."
-  - q: "How long is the startup visa valid?"
-    a: "The startup visa is valid for one year. It is not renewable under the startup visa category. After the startup year, you can apply to switch to a self-employment permit (zelfstandige arbeid) if your business has developed sufficiently — the IND assesses this using the points-based system for self-employment applicants."
-  - q: "How much does the Dutch startup visa cost?"
-    a: "The IND fee for the residence permit is €345 (as of 2026). You will also pay an MVV fee of €190 if you require entry clearance from outside the Schengen Area. Some facilitators charge a program fee ranging from free to several thousand euros — this varies widely and should be clarified before you commit to a facilitator."
-  - q: "Can my family come with me on a startup visa?"
-    a: "Yes. Your spouse or registered partner and children under 18 can apply for dependent residence permits. Your partner receives the right to live in the Netherlands and to work. The financial requirements for family reunification apply — you must demonstrate sufficient income to support your household, or show that your funding covers family support costs."
-  - q: "What happens after the startup visa year?"
-    a: "After one year, you apply for a self-employment residence permit (zelfstandige arbeid). The IND evaluates your business using a points-based system assessing personal experience, business plan quality, added value to the Netherlands, and innovation. Businesses that have achieved meaningful traction — clients, revenue, investment, or clear product-market fit — pass this assessment more readily. If you do not qualify for the self-employment permit, you do not automatically get to stay."
+- q: Who can apply for the Dutch startup visa?
+  a: The startup visa is open to non-EU/EEA entrepreneurs of any nationality who want to build an innovative business in the Netherlands. Unlike the DAFT visa, which is limited to US citizens, the startup visa is available to anyone from outside the EU — including Americans, Canadians, Australians, Indians, Brazilians, and others. You do not need to be a tech founder; the key requirement is that your product or service is innovative and scalable.
+- q: Do I need a facilitator for the Dutch startup visa?
+  a: Yes. You must partner with a Dutch government-approved facilitator — typically an incubator, accelerator, or business development organisation. The facilitator reviews your business plan, mentors you during the visa period, and provides a formal statement to the IND. Without an approved facilitator, you cannot apply. As of 2026, RVO (Netherlands Enterprise Agency) publishes the current list of approved facilitators.
+- q: What counts as innovative for the startup visa?
+  a: The IND and RVO assess innovation based on whether your product or service is new to the Dutch market, uses technology in a non-obvious way, or solves a problem that existing businesses do not adequately address. You do not need to be a deep-tech company. Software platforms, marketplace businesses, hardware with novel applications, and services with genuinely new delivery models have all been approved. Pure service businesses without technological differentiation are harder to get approved.
+- q: How long is the startup visa valid?
+  a: The startup visa is valid for one year. It is not renewable under the startup visa category. After the startup year, you can apply to switch to a self-employment permit (zelfstandige arbeid) if your business has developed sufficiently — the IND assesses this using the points-based system for self-employment applicants.
+- q: How much does the Dutch startup visa cost?
+  a: The IND fee for the residence permit is €345 (as of 2026). You will also pay an MVV fee of €190 if you require entry clearance from outside the Schengen Area. Some facilitators charge a program fee ranging from free to several thousand euros — this varies widely and should be clarified before you commit to a facilitator.
+- q: Can my family come with me on a startup visa?
+  a: Yes. Your spouse or registered partner and children under 18 can apply for dependent residence permits. Your partner receives the right to live in the Netherlands and to work. The financial requirements for family reunification apply — you must demonstrate sufficient income to support your household, or show that your funding covers family support costs.
+- q: What happens after the startup visa year?
+  a: After one year, you apply for a self-employment residence permit (zelfstandige arbeid). The IND evaluates your business using a points-based system assessing personal experience, business plan quality, added value to the Netherlands, and innovation. Businesses that have achieved meaningful traction — clients, revenue, investment, or clear product-market fit — pass this assessment more readily. If you do not qualify for the self-employment permit, you do not automatically get to stay.
+schema_type: Article
 ---
 
 The Netherlands has spent a decade building one of Europe's more credible startup ecosystems, and the startup visa is a practical entry point for non-EU entrepreneurs who want to build here. It is not the easiest immigration route — the facilitator requirement adds a gatekeeping layer that some founders find frustrating — but it is a legitimate one-year runway that, if used well, leads to long-term residency as a self-employed entrepreneur.

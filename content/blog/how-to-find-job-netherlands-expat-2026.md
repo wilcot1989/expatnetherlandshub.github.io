@@ -1,33 +1,44 @@
 ---
-title: "How to Find a Job in the Netherlands 2026"
-date: 2026-03-22T10:00:00+01:00
-lastmod: 2026-04-23T10:00:00+01:00
-description: "Complete guide to finding a job in the Netherlands as an expat. Job boards, visa rules, salary norms, Dutch CV tips, and what recruiters actually want."
-categories: ["work"]
-tags: ["job hunting", "Netherlands work", "expat career", "work permit", "Dutch labour market"]
-keywords: ["how to find a job in the Netherlands expat", "work in Netherlands 2026", "Netherlands job search expat guide", "Dutch job market 2026"]
+title: How to Find a Job in the Netherlands 2026
+date: 2026-03-22 10:00:00+01:00
+lastmod: 2026-04-23 10:00:00+01:00
+description: Complete guide to finding a job in the Netherlands as an expat. Job boards, visa rules, salary norms, Dutch CV tips, and what recruiters actually want.
+categories:
+- work
+tags:
+- job hunting
+- Netherlands work
+- expat career
+- work permit
+- Dutch labour market
+keywords:
+- how to find a job in the Netherlands expat
+- work in Netherlands 2026
+- Netherlands job search expat guide
+- Dutch job market 2026
 affiliate: true
-author: "Sarah van den Berg"
-author_bio: "Expat coach and writer at ExpatNetherlandsHub.com"
-featured_image: "/images/categories/work.svg"
+author: Sarah van den Berg
+author_bio: Expat coach and writer at ExpatNetherlandsHub.com
+featured_image: /images/categories/work.svg
 faq:
-  - q: "Do I need a work permit to work in the Netherlands as a non-EU citizen?"
-    a: "Yes, if you are a non-EU/EEA citizen you generally need a work permit (TWV) or a combined permit for residence and work (MVVM). Your employer typically sponsors this and applies on your behalf. EU/EEA citizens have the right to work in the Netherlands without a permit. Highly skilled migrants with a salary above the IND threshold (around EUR 46,107 for most applicants in 2026) can apply for the Highly Skilled Migrant (Kennismigrant) permit, which is faster and more flexible."
-  - q: "What is a realistic salary for an expat professional in the Netherlands in 2026?"
-    a: "Salaries in the Netherlands vary significantly by sector and experience. A junior software engineer earns roughly EUR 40,000–55,000 gross per year. A mid-level financial analyst: EUR 55,000–75,000. A senior product manager: EUR 75,000–110,000. Amsterdam and The Hague tend to pay 10–15% above other cities. The Netherlands has a minimum wage of around EUR 2,070 gross per month (2026 rate). Always check Glassdoor Netherlands and Salary.com NL for benchmarks in your specific field."
-  - q: "Is it hard for expats to find jobs in the Netherlands without speaking Dutch?"
-    a: "It depends heavily on the sector. In technology, finance, logistics, consulting, and international organisations, English is the working language and Dutch is not required for most roles. In healthcare, education, legal, government, and client-facing retail roles, Dutch is usually essential. Amsterdam has the highest density of English-language roles. That said, learning even basic Dutch (A2 level) noticeably improves your job chances and makes networking much easier."
-  - q: "How does the 30% ruling affect my job search in the Netherlands?"
-    a: "The 30% ruling is a Dutch tax benefit that allows qualifying expat employees to receive 30% of their gross salary tax-free. To qualify, you must be recruited from abroad, have specific expertise, and earn above the salary threshold (around EUR 46,107 in 2026). Not every employer is registered to apply the ruling. When negotiating job offers, always ask whether the company can apply the 30% ruling and factor this into your effective net salary comparison."
-  - q: "Which industries are hiring expats most actively in the Netherlands in 2026?"
-    a: "Technology (software, data, AI), life sciences and pharma (Philips, ASML, Qiagen), logistics and supply chain (Rotterdam port region), finance and fintech (Amsterdam), international organisations and NGOs (The Hague), and agriculture/food tech (Wageningen region). The Netherlands is also a European hub for multinationals such as KPMG, Deloitte, Shell, Unilever, and ING, all of which hire internationally."
-  - q: "What should I expect from a Dutch job interview?"
-    a: "Dutch interviews are typically direct, informal by comparison to UK or US standards, and consensus-oriented. You will often meet multiple team members across two to three interview rounds. Dutch hiring managers value concrete examples over general statements — use the STAR method (Situation, Task, Action, Result) consistently. Salary negotiation is expected and acceptable. Do not oversell yourself with superlatives; Dutch culture values understatement and honesty. Arriving on time (or one minute early) is non-negotiable."
+- q: Do I need a work permit to work in the Netherlands as a non-EU citizen?
+  a: Yes, if you are a non-EU/EEA citizen you generally need a work permit (TWV) or a combined permit for residence and work (MVVM). Your employer typically sponsors this and applies on your behalf. EU/EEA citizens have the right to work in the Netherlands without a permit. Highly skilled migrants with a salary above the IND threshold (around EUR 46,107 for most applicants in 2026) can apply for the Highly Skilled Migrant (Kennismigrant) permit, which is faster and more flexible.
+- q: What is a realistic salary for an expat professional in the Netherlands in 2026?
+  a: 'Salaries in the Netherlands vary significantly by sector and experience. A junior software engineer earns roughly EUR 40,000–55,000 gross per year. A mid-level financial analyst: EUR 55,000–75,000. A senior product manager: EUR 75,000–110,000. Amsterdam and The Hague tend to pay 10–15% above other cities. The Netherlands has a minimum wage of around EUR 2,070 gross per month (2026 rate). Always check Glassdoor Netherlands and Salary.com NL for benchmarks in your specific field.'
+- q: Is it hard for expats to find jobs in the Netherlands without speaking Dutch?
+  a: It depends heavily on the sector. In technology, finance, logistics, consulting, and international organisations, English is the working language and Dutch is not required for most roles. In healthcare, education, legal, government, and client-facing retail roles, Dutch is usually essential. Amsterdam has the highest density of English-language roles. That said, learning even basic Dutch (A2 level) noticeably improves your job chances and makes networking much easier.
+- q: How does the 30% ruling affect my job search in the Netherlands?
+  a: The 30% ruling is a Dutch tax benefit that allows qualifying expat employees to receive 30% of their gross salary tax-free. To qualify, you must be recruited from abroad, have specific expertise, and earn above the salary threshold (around EUR 46,107 in 2026). Not every employer is registered to apply the ruling. When negotiating job offers, always ask whether the company can apply the 30% ruling and factor this into your effective net salary comparison.
+- q: Which industries are hiring expats most actively in the Netherlands in 2026?
+  a: Technology (software, data, AI), life sciences and pharma (Philips, ASML, Qiagen), logistics and supply chain (Rotterdam port region), finance and fintech (Amsterdam), international organisations and NGOs (The Hague), and agriculture/food tech (Wageningen region). The Netherlands is also a European hub for multinationals such as KPMG, Deloitte, Shell, Unilever, and ING, all of which hire internationally.
+- q: What should I expect from a Dutch job interview?
+  a: Dutch interviews are typically direct, informal by comparison to UK or US standards, and consensus-oriented. You will often meet multiple team members across two to three interview rounds. Dutch hiring managers value concrete examples over general statements — use the STAR method (Situation, Task, Action, Result) consistently. Salary negotiation is expected and acceptable. Do not oversell yourself with superlatives; Dutch culture values understatement and honesty. Arriving on time (or one minute early) is non-negotiable.
 products:
-  - name: "Wise"
-    url: "https://go.expatnetherlandshub.com/wise?ref=/blog/how-to-find-job-netherlands-expat-2026/"
-    price: "0.00"
-    tag: "Currency Transfer"
+- name: Wise
+  url: https://go.expatnetherlandshub.com/wise?ref=/blog/how-to-find-job-netherlands-expat-2026/
+  price: '0.00'
+  tag: Currency Transfer
+schema_type: Article
 ---
 
 When I moved to the Netherlands, I had a CV that worked perfectly well in the UK and a set of assumptions about job hunting that turned out to be almost entirely wrong. Dutch employers do not want the same things. Dutch recruiters operate differently. The job boards I knew were mostly irrelevant.

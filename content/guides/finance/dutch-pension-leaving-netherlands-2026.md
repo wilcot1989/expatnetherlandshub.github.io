@@ -1,38 +1,48 @@
 ---
-title: "Dutch Pension When Leaving Netherlands (2026)"
-date: 2026-05-20T10:00:00+01:00
-lastmod: 2026-04-23T10:00:00+01:00
-description: "What happens to your Dutch AOW and occupational pension when you leave the Netherlands? Accrual, transfer rules, and examples for 3, 5, and 10-year expats."
-categories: ["finance"]
-tags: ["pension", "AOW", "leaving Netherlands", "retirement"]
-keywords: ["dutch pension leaving netherlands", "AOW expat leaving", "pension transfer netherlands", "what happens pension leave NL"]
+title: Dutch Pension When Leaving Netherlands (2026)
+date: 2026-05-20 10:00:00+01:00
+lastmod: 2026-04-23 10:00:00+01:00
+description: What happens to your Dutch AOW and occupational pension when you leave the Netherlands? Accrual, transfer rules, and examples for 3, 5, and 10-year expats.
+categories:
+- finance
+tags:
+- pension
+- AOW
+- leaving Netherlands
+- retirement
+keywords:
+- dutch pension leaving netherlands
+- AOW expat leaving
+- pension transfer netherlands
+- what happens pension leave NL
 affiliate: true
-author: "Sarah van den Berg"
-author_bio: "Expat coach and relocation specialist. Half Dutch, half British, living in the Netherlands for over 10 years."
-featured_image: "/images/categories/finance.svg"
+author: Sarah van den Berg
+author_bio: Expat coach and relocation specialist. Half Dutch, half British, living in the Netherlands for over 10 years.
+featured_image: /images/categories/finance.svg
 products:
-  - name: "Wise"
-    url: "https://go.expatnetherlandshub.com/wise?ref=/guides/finance/dutch-pension-leaving-netherlands-2026/"
-    price: "0.00"
-  - name: "bunq"
-    url: "https://www.bunq.com/"
-    price: "2.99"
-  - name: "ING"
-    url: "https://www.ing.nl/particulier"
-    price: "0.00"
+- name: Wise
+  url: https://go.expatnetherlandshub.com/wise?ref=/guides/finance/dutch-pension-leaving-netherlands-2026/
+  price: '0.00'
+- name: bunq
+  url: https://www.bunq.com/
+  price: '2.99'
+- name: ING
+  url: https://www.ing.nl/particulier
+  price: '0.00'
 faq:
-  - q: "Do I lose my Dutch AOW pension if I leave the Netherlands?"
-    a: "No. Every year you lived or worked in the Netherlands between age 15 and retirement age counts permanently. You keep 2% AOW per year, regardless of where you live when you retire. If you lived in the Netherlands for 10 years, you will receive 20% of the full AOW at Dutch retirement age (67), paid to your bank account anywhere in the world."
-  - q: "Can I voluntarily continue building Dutch AOW after leaving?"
-    a: "Yes. The SVB (Sociale Verzekeringsbank) offers a vrijwillige verzekering (voluntary insurance) that lets you continue accruing AOW for up to 10 years after departure. You must apply within 1 year of leaving the Netherlands. The premium depends on your income and is paid annually. This makes most financial sense if you left with 15-40 years of accrual and want to close the gap."
-  - q: "What happens to my employer pension (bedrijfspensioen) when I leave?"
-    a: "Your accrued employer pension stays with the Dutch pension fund. You cannot cash it out when you leave. At Dutch retirement age — or the age stated in your pension scheme — the pension fund will pay your pension to your bank account, wherever you live. You can request an annual statement (pensioenoverzicht) at any time via Mijn Pensioenoverzicht."
-  - q: "Can I transfer my Dutch pension to a foreign pension scheme?"
-    a: "In limited cases, yes. Within the EU/EEA, EU Regulation 2014/50 allows value transfer (waardeoverdracht) to a qualifying foreign pension scheme. Outside the EU, transfers are very rarely possible — most Dutch pension funds do not allow it, and the receiving scheme must meet strict SVB and Belastingdienst requirements. In practice, most departing expats leave their pension with the Dutch fund."
-  - q: "Will my Dutch pension be taxed if I live abroad?"
-    a: "It depends on the tax treaty between the Netherlands and your country of residence. Most treaties assign the right to tax Dutch pension payments to your country of residence, not the Netherlands. However, for AOW specifically, several treaties — including with Germany, Belgium, and the US — give the Netherlands the right to withhold Dutch tax. Always check the specific treaty and inform the SVB and your pension fund of your country of residence."
-  - q: "What is the deadline for applying for voluntary AOW continuation after leaving?"
-    a: "You must apply within 1 year of the date you deregistered from the Dutch BRP (uitschrijven at the gemeente). After that window closes, you permanently lose the option. There is no extension possible. If you are unsure, apply first and cancel later — you can always stop the voluntary insurance, but you cannot restart it once the deadline has passed."
+- q: Do I lose my Dutch AOW pension if I leave the Netherlands?
+  a: No. Every year you lived or worked in the Netherlands between age 15 and retirement age counts permanently. You keep 2% AOW per year, regardless of where you live when you retire. If you lived in the Netherlands for 10 years, you will receive 20% of the full AOW at Dutch retirement age (67), paid to your bank account anywhere in the world.
+- q: Can I voluntarily continue building Dutch AOW after leaving?
+  a: Yes. The SVB (Sociale Verzekeringsbank) offers a vrijwillige verzekering (voluntary insurance) that lets you continue accruing AOW for up to 10 years after departure. You must apply within 1 year of leaving the Netherlands. The premium depends on your income and is paid annually. This makes most financial sense if you left with 15-40 years of accrual and want to close the gap.
+- q: What happens to my employer pension (bedrijfspensioen) when I leave?
+  a: Your accrued employer pension stays with the Dutch pension fund. You cannot cash it out when you leave. At Dutch retirement age — or the age stated in your pension scheme — the pension fund will pay your pension to your bank account, wherever you live. You can request an annual statement (pensioenoverzicht) at any time via Mijn Pensioenoverzicht.
+- q: Can I transfer my Dutch pension to a foreign pension scheme?
+  a: In limited cases, yes. Within the EU/EEA, EU Regulation 2014/50 allows value transfer (waardeoverdracht) to a qualifying foreign pension scheme. Outside the EU, transfers are very rarely possible — most Dutch pension funds do not allow it, and the receiving scheme must meet strict SVB and Belastingdienst requirements. In practice, most departing expats leave their pension with the Dutch fund.
+- q: Will my Dutch pension be taxed if I live abroad?
+  a: It depends on the tax treaty between the Netherlands and your country of residence. Most treaties assign the right to tax Dutch pension payments to your country of residence, not the Netherlands. However, for AOW specifically, several treaties — including with Germany, Belgium, and the US — give the Netherlands the right to withhold Dutch tax. Always check the specific treaty and inform the SVB and your pension fund of your country of residence.
+- q: What is the deadline for applying for voluntary AOW continuation after leaving?
+  a: You must apply within 1 year of the date you deregistered from the Dutch BRP (uitschrijven at the gemeente). After that window closes, you permanently lose the option. There is no extension possible. If you are unsure, apply first and cancel later — you can always stop the voluntary insurance, but you cannot restart it once the deadline has passed.
+schema_type: Article
 ---
 
 When I moved abroad for two years in my late twenties, I honestly did not give my Dutch pension a second thought. It felt abstract — something for older-me to worry about. It was only when I came back and checked Mijn Pensioenoverzicht that I realised those two years had quietly affected my eventual retirement income. If you are preparing to leave the Netherlands — or you have already left and are catching up — this article covers exactly what happens to your AOW and employer pension, what you can do about it, and what the numbers actually look like.

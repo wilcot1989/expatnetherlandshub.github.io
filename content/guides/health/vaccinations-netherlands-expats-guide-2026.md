@@ -1,38 +1,51 @@
 ---
-title: "Vaccinations in Netherlands: Expat Guide"
-date: 2026-03-18T10:00:00+01:00
-lastmod: 2026-04-23T10:00:00+01:00
-description: "Vaccinations in the Netherlands for expats 2026: the Rijksvaccinatieprogramma, travel vaccines, where to get vaccinated, costs, and insurance coverage."
-categories: ["health"]
-tags: ["vaccinations", "health", "rivm", "travel health", "insurance", "prevention"]
-keywords: ["vaccinations netherlands expats", "vaccines netherlands 2026", "travel vaccination netherlands", "rivm vaccination programme", "expat health netherlands"]
+title: 'Vaccinations in Netherlands: Expat Guide'
+date: 2026-03-18 10:00:00+01:00
+lastmod: 2026-04-23 10:00:00+01:00
+description: 'Vaccinations in the Netherlands for expats 2026: the Rijksvaccinatieprogramma, travel vaccines, where to get vaccinated, costs, and insurance coverage.'
+categories:
+- health
+tags:
+- vaccinations
+- health
+- rivm
+- travel health
+- insurance
+- prevention
+keywords:
+- vaccinations netherlands expats
+- vaccines netherlands 2026
+- travel vaccination netherlands
+- rivm vaccination programme
+- expat health netherlands
 affiliate: true
 products:
-  - name: "SafetyWing"
-    url: "https://go.expatnetherlandshub.com/safetywing?ref=/guides/health/vaccinations-netherlands-expats-guide-2026/"
-    price: "45.08"
-  - name: "CZ"
-    url: "https://www.cz.nl/"
-    price: "0.00"
-  - name: "Zilveren Kruis"
-    url: "https://www.zilverenkruis.nl/"
-    price: "0.00"
-author: "Sarah van den Berg"
-author_bio: "Expat coach and relocation specialist. Half Dutch, half British, living in the Netherlands for over 10 years."
-featured_image: "/images/categories/health.svg"
+- name: SafetyWing
+  url: https://go.expatnetherlandshub.com/safetywing?ref=/guides/health/vaccinations-netherlands-expats-guide-2026/
+  price: '45.08'
+- name: CZ
+  url: https://www.cz.nl/
+  price: '0.00'
+- name: Zilveren Kruis
+  url: https://www.zilverenkruis.nl/
+  price: '0.00'
+author: Sarah van den Berg
+author_bio: Expat coach and relocation specialist. Half Dutch, half British, living in the Netherlands for over 10 years.
+featured_image: /images/categories/health.svg
 faq:
-  - q: "Are vaccinations mandatory in the Netherlands?"
-    a: "No. The Netherlands does not have mandatory vaccination. All vaccinations are voluntary and free under the national programme (Rijksvaccinatieprogramma). However, participation rates are generally high — typically 90-95% for childhood vaccines — and the programme has effectively eliminated many serious diseases in the Netherlands."
-  - q: "What is the Dutch national vaccination programme (Rijksvaccinatieprogramma)?"
-    a: "The Rijksvaccinatieprogramma (RVP) is the Dutch national immunisation programme managed by the RIVM (National Institute for Public Health and the Environment). It provides free vaccinations to all children and young people up to age 18. Vaccines covered include DKTP (diphtheria, pertussis, tetanus, polio), MMR (measles, mumps, rubella), hepatitis B, meningococcal C and ACWY, HPV, pneumococcal, and others."
-  - q: "Can my children join the Dutch vaccination programme as expat children?"
-    a: "Yes. Children registered in the Netherlands (with a BSN and registered at the gemeente) are automatically enrolled in the Rijksvaccinatieprogramma and will receive invitations for all age-appropriate vaccines. The programme is free for all registered children regardless of nationality or health insurance status."
-  - q: "What vaccinations do expats typically need before moving to the Netherlands?"
-    a: "The Netherlands does not require any specific vaccinations for entry. However, your GP or travel health clinic will typically recommend being up to date on DKTP (diphtheria, tetanus, pertussis, polio) and MMR (measles, mumps, rubella) if you are not already vaccinated. If you are coming from a TB-endemic country, you may need a TB test before or after arrival."
-  - q: "Does Dutch health insurance cover travel vaccinations?"
-    a: "It depends. Vaccinations within the Dutch national programme are free and not counted against your deductible. Travel vaccinations (hepatitis A, typhoid, yellow fever, etc.) are generally not covered by basic Dutch health insurance (basisverzekering). Some supplementary insurance (aanvullende verzekering) packages include travel vaccination coverage. Check your specific policy."
-  - q: "Where can I get travel vaccinations in the Netherlands?"
-    a: "Travel vaccinations are available at travel health clinics (reisklinieken), some GPs (huisartsen), and pharmacies. Major travel health clinic chains in the Netherlands include LCR (Landelijk Coördinatiecentrum Reizigersadvisering) affiliated clinics and private vaccination centres in larger cities. You can also use the GGD (Municipal Health Service) for some vaccines."
+- q: Are vaccinations mandatory in the Netherlands?
+  a: No. The Netherlands does not have mandatory vaccination. All vaccinations are voluntary and free under the national programme (Rijksvaccinatieprogramma). However, participation rates are generally high — typically 90-95% for childhood vaccines — and the programme has effectively eliminated many serious diseases in the Netherlands.
+- q: What is the Dutch national vaccination programme (Rijksvaccinatieprogramma)?
+  a: The Rijksvaccinatieprogramma (RVP) is the Dutch national immunisation programme managed by the RIVM (National Institute for Public Health and the Environment). It provides free vaccinations to all children and young people up to age 18. Vaccines covered include DKTP (diphtheria, pertussis, tetanus, polio), MMR (measles, mumps, rubella), hepatitis B, meningococcal C and ACWY, HPV, pneumococcal, and others.
+- q: Can my children join the Dutch vaccination programme as expat children?
+  a: Yes. Children registered in the Netherlands (with a BSN and registered at the gemeente) are automatically enrolled in the Rijksvaccinatieprogramma and will receive invitations for all age-appropriate vaccines. The programme is free for all registered children regardless of nationality or health insurance status.
+- q: What vaccinations do expats typically need before moving to the Netherlands?
+  a: The Netherlands does not require any specific vaccinations for entry. However, your GP or travel health clinic will typically recommend being up to date on DKTP (diphtheria, tetanus, pertussis, polio) and MMR (measles, mumps, rubella) if you are not already vaccinated. If you are coming from a TB-endemic country, you may need a TB test before or after arrival.
+- q: Does Dutch health insurance cover travel vaccinations?
+  a: It depends. Vaccinations within the Dutch national programme are free and not counted against your deductible. Travel vaccinations (hepatitis A, typhoid, yellow fever, etc.) are generally not covered by basic Dutch health insurance (basisverzekering). Some supplementary insurance (aanvullende verzekering) packages include travel vaccination coverage. Check your specific policy.
+- q: Where can I get travel vaccinations in the Netherlands?
+  a: Travel vaccinations are available at travel health clinics (reisklinieken), some GPs (huisartsen), and pharmacies. Major travel health clinic chains in the Netherlands include LCR (Landelijk Coördinatiecentrum Reizigersadvisering) affiliated clinics and private vaccination centres in larger cities. You can also use the GGD (Municipal Health Service) for some vaccines.
+schema_type: Article
 ---
 
 When I help expats settle in the Netherlands, vaccination questions come up more than people expect. Not just for children joining the Dutch school system, but for adults wondering whether they need anything updated, parents trying to understand where the Dutch programme picks up, and families planning travel back home or to other countries.

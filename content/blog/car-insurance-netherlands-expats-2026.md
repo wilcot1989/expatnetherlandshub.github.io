@@ -1,33 +1,44 @@
 ---
-title: "Car Insurance Netherlands for Expats 2026"
-date: 2026-03-22T10:00:00+01:00
-lastmod: 2026-04-23T10:00:00+01:00
-description: "WA, WA+, allrisk explained. How to transfer your no-claims bonus from abroad, average costs, and the best providers for expats in the Netherlands in 2026."
-categories: ["daily-life"]
-tags: ["car insurance", "auto verzekering", "expat daily life", "transport", "Independer"]
-keywords: ["car insurance Netherlands expat 2026", "WA allrisk Netherlands", "no claims bonus transfer Netherlands", "auto verzekering expat"]
+title: Car Insurance Netherlands for Expats 2026
+date: 2026-03-22 10:00:00+01:00
+lastmod: 2026-04-23 10:00:00+01:00
+description: WA, WA+, allrisk explained. How to transfer your no-claims bonus from abroad, average costs, and the best providers for expats in the Netherlands in 2026.
+categories:
+- daily-life
+tags:
+- car insurance
+- auto verzekering
+- expat daily life
+- transport
+- Independer
+keywords:
+- car insurance Netherlands expat 2026
+- WA allrisk Netherlands
+- no claims bonus transfer Netherlands
+- auto verzekering expat
 affiliate: true
-author: "Sarah van den Berg"
-author_bio: "Expat coach and writer at ExpatNetherlandsHub.com"
-featured_image: "/images/categories/daily-life.svg"
+author: Sarah van den Berg
+author_bio: Expat coach and writer at ExpatNetherlandsHub.com
+featured_image: /images/categories/daily-life.svg
 faq:
-  - q: "Is car insurance mandatory in the Netherlands?"
-    a: "Yes. Third-party liability insurance (WA — Wettelijke Aansprakelijkheid) is legally mandatory for every vehicle registered in the Netherlands. You cannot register or drive a car without it. Driving without WA insurance is a criminal offence that can result in fines, vehicle seizure, and in cases of an accident, personal liability for all damages caused. The RDW (Dutch vehicle registration authority) verifies insurance coverage at the time of registration."
-  - q: "Can I transfer my no-claims bonus from abroad to the Netherlands?"
-    a: "Yes, but the process depends on your country of origin and the insurer. Most major Dutch insurers accept a no-claims discount statement (schadevrije jaren verklaring) from foreign insurers, though they may apply it differently. A UK or Belgian no-claims history is generally accepted readily. Some non-EU countries face more scepticism and may need additional documentation. Each insurer has its own policy; always ask explicitly before assuming your full years of bonus will be recognised."
-  - q: "How much does car insurance cost in the Netherlands for expats?"
-    a: "Car insurance costs in the Netherlands vary significantly based on coverage type, vehicle, driver age, and no-claims history. As a rough guide: WA (basic third-party) costs EUR 30–70 per month for a typical family car; WA+ (WA plus limited casco) costs EUR 50–100 per month; Allrisk (comprehensive) costs EUR 80–180 per month. Newly arrived expats without a recognised Dutch no-claims history typically pay at the higher end. Younger drivers (under 25) pay substantially more. Using a comparison tool like Independer typically saves EUR 15–50 per month versus going directly to a single insurer."
-  - q: "What is the difference between WA, WA+, and allrisk in the Netherlands?"
-    a: "WA (Wettelijke Aansprakelijkheid) is basic third-party liability — it covers damage you cause to others' property and injuries to third parties. It does not cover damage to your own car. WA+ (also called WA Beperkt Casco or WA Limited) adds limited own-damage coverage: typically fire, theft, storm, hail, glass breakage, and collision with animals. It does not cover collision damage to your own vehicle. Allrisk (also called WA Volledig Casco or WA All In) adds comprehensive coverage — it covers collision damage to your own vehicle regardless of fault, vandalism, and most other risks. Allrisk is the most expensive but covers you most completely."
-  - q: "Can I insure a car in the Netherlands with a foreign driving licence?"
-    a: "Yes, in most cases. EU/EEA driving licences are fully recognised in the Netherlands with no exchange required. Non-EU licences from countries with exchange agreements (including the UK post-Brexit, US, Canada, Australia, Japan, and others) can generally be exchanged for a Dutch licence. During the exchange process and for a period on a foreign licence, most Dutch insurers will accept your foreign licence, though some may apply a surcharge or limit no-claims recognition. Read my [driving licence exchange guide](/guides/daily-life/exchange-driving-license-netherlands-2026/) for the full process."
-  - q: "How does the Dutch no-claims ladder (schadevrije jaren) work?"
-    a: "The schadevrije jaren system gives you a discount on your premium for each claim-free year. After one claim-free year you are placed at step 1; after five years at step 5, and so on, up to around step 14–15 with most insurers, where the maximum discount (typically 60–75% off the base premium) applies. Each time you make a fault claim, you are moved back several steps and your premium increases. When switching insurers, your schadevrije jaren follow you via a central database (Roy-Data) that all Dutch insurers query. Foreign years are added to your starting step when your foreign history is accepted."
+- q: Is car insurance mandatory in the Netherlands?
+  a: Yes. Third-party liability insurance (WA — Wettelijke Aansprakelijkheid) is legally mandatory for every vehicle registered in the Netherlands. You cannot register or drive a car without it. Driving without WA insurance is a criminal offence that can result in fines, vehicle seizure, and in cases of an accident, personal liability for all damages caused. The RDW (Dutch vehicle registration authority) verifies insurance coverage at the time of registration.
+- q: Can I transfer my no-claims bonus from abroad to the Netherlands?
+  a: Yes, but the process depends on your country of origin and the insurer. Most major Dutch insurers accept a no-claims discount statement (schadevrije jaren verklaring) from foreign insurers, though they may apply it differently. A UK or Belgian no-claims history is generally accepted readily. Some non-EU countries face more scepticism and may need additional documentation. Each insurer has its own policy; always ask explicitly before assuming your full years of bonus will be recognised.
+- q: How much does car insurance cost in the Netherlands for expats?
+  a: 'Car insurance costs in the Netherlands vary significantly based on coverage type, vehicle, driver age, and no-claims history. As a rough guide: WA (basic third-party) costs EUR 30–70 per month for a typical family car; WA+ (WA plus limited casco) costs EUR 50–100 per month; Allrisk (comprehensive) costs EUR 80–180 per month. Newly arrived expats without a recognised Dutch no-claims history typically pay at the higher end. Younger drivers (under 25) pay substantially more. Using a comparison tool like Independer typically saves EUR 15–50 per month versus going directly to a single insurer.'
+- q: What is the difference between WA, WA+, and allrisk in the Netherlands?
+  a: 'WA (Wettelijke Aansprakelijkheid) is basic third-party liability — it covers damage you cause to others'' property and injuries to third parties. It does not cover damage to your own car. WA+ (also called WA Beperkt Casco or WA Limited) adds limited own-damage coverage: typically fire, theft, storm, hail, glass breakage, and collision with animals. It does not cover collision damage to your own vehicle. Allrisk (also called WA Volledig Casco or WA All In) adds comprehensive coverage — it covers collision damage to your own vehicle regardless of fault, vandalism, and most other risks. Allrisk is the most expensive but covers you most completely.'
+- q: Can I insure a car in the Netherlands with a foreign driving licence?
+  a: Yes, in most cases. EU/EEA driving licences are fully recognised in the Netherlands with no exchange required. Non-EU licences from countries with exchange agreements (including the UK post-Brexit, US, Canada, Australia, Japan, and others) can generally be exchanged for a Dutch licence. During the exchange process and for a period on a foreign licence, most Dutch insurers will accept your foreign licence, though some may apply a surcharge or limit no-claims recognition. Read my [driving licence exchange guide](/guides/daily-life/exchange-driving-license-netherlands-2026/) for the full process.
+- q: How does the Dutch no-claims ladder (schadevrije jaren) work?
+  a: The schadevrije jaren system gives you a discount on your premium for each claim-free year. After one claim-free year you are placed at step 1; after five years at step 5, and so on, up to around step 14–15 with most insurers, where the maximum discount (typically 60–75% off the base premium) applies. Each time you make a fault claim, you are moved back several steps and your premium increases. When switching insurers, your schadevrije jaren follow you via a central database (Roy-Data) that all Dutch insurers query. Foreign years are added to your starting step when your foreign history is accepted.
 products:
-  - name: "SafetyWing"
-    url: "https://go.expatnetherlandshub.com/safetywing?ref=/blog/car-insurance-netherlands-expats-2026/"
-    price: "0.00"
-    tag: "Expat Insurance"
+- name: SafetyWing
+  url: https://go.expatnetherlandshub.com/safetywing?ref=/blog/car-insurance-netherlands-expats-2026/
+  price: '0.00'
+  tag: Expat Insurance
+schema_type: Article
 ---
 
 When I arrived in the Netherlands and bought my first car here, I spent about two hours on an insurance comparison website trying to figure out what WA, WA+, and allrisk actually meant, why my UK no-claims history was being treated with mild suspicion, and whether the price I was looking at was reasonable or completely excessive.

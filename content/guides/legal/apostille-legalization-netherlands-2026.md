@@ -1,34 +1,45 @@
 ---
-title: "Apostille & Document Legalisation in the Netherlands (2026)"
-date: 2026-03-26T10:00:00+01:00
-lastmod: 2026-04-23T10:00:00+01:00
-description: "How to get documents apostilled or legalised for use in the Netherlands. Step-by-step process, costs, timelines, and which documents you will need."
-categories: ["legal"]
-tags: ["apostille", "document legalisation", "legal documents", "notarisation", "expat paperwork"]
-keywords: ["apostille Netherlands expat", "document legalisation Netherlands", "apostille Dutch documents", "legalise documents NL"]
+title: Apostille & Document Legalisation in the Netherlands (2026)
+date: 2026-03-26 10:00:00+01:00
+lastmod: 2026-04-23 10:00:00+01:00
+description: How to get documents apostilled or legalised for use in the Netherlands. Step-by-step process, costs, timelines, and which documents you will need.
+categories:
+- legal
+tags:
+- apostille
+- document legalisation
+- legal documents
+- notarisation
+- expat paperwork
+keywords:
+- apostille Netherlands expat
+- document legalisation Netherlands
+- apostille Dutch documents
+- legalise documents NL
 affiliate: false
 products:
-  - name: "Expatax"
-    url: "https://www.expatax.nl/"
-    price: "0.00"
-  - name: "Blue Umbrella"
-    url: "https://www.blueumbrella.nl/"
-    price: "0.00"
-  - name: "IND"
-    url: "https://ind.nl/en"
-    price: "0.00"
-author: "Sarah van den Berg"
-author_bio: "Expat coach and relocation specialist. Half Dutch, half British, living in the Netherlands for over 10 years."
-featured_image: "/images/featured/apostille-legalization-netherlands-2026.webp"
+- name: Expatax
+  url: https://www.expatax.nl/
+  price: '0.00'
+- name: Blue Umbrella
+  url: https://www.blueumbrella.nl/
+  price: '0.00'
+- name: IND
+  url: https://ind.nl/en
+  price: '0.00'
+author: Sarah van den Berg
+author_bio: Expat coach and relocation specialist. Half Dutch, half British, living in the Netherlands for over 10 years.
+featured_image: /images/featured/apostille-legalization-netherlands-2026.webp
 faq:
-  - q: "How long does it take to get an apostille in the Netherlands?"
-    a: "At a Dutch rechtbank (district court), the standard processing time is 3 to 5 working days. Some courts offer an express service where you can collect the apostille the same day or next day, though this varies by location. If you are getting a foreign document apostilled in your home country, timelines differ widely — the UK Legalisation Office, for example, currently processes postal applications in around 10 working days, with a faster service available for an additional fee."
-  - q: "Do I need a sworn translation alongside my apostille?"
-    a: "It depends on how the document will be used. The apostille itself authenticates the signature or seal on the document — it does not translate the content. If your document is in a language other than Dutch, English, French, or German, most Dutch authorities (including the IND, municipalities, and courts) will require a certified translation by a beëdigd vertaler (sworn translator) registered with the Rechtspraak. For documents in English, many institutions accept them without translation, but always confirm this with the receiving body before you pay for a translation."
-  - q: "My country is not a member of the Hague Convention. What do I do?"
-    a: "If your country has not signed the Hague Convention, the apostille process does not apply. Instead, your documents typically need to go through full legalisation: authentication by your country's foreign ministry or equivalent authority, followed by legalisation at the Dutch embassy or consulate in your country. This process is slower, costs more, and the exact steps depend on your country of origin. Contact the Dutch embassy in your home country for country-specific requirements before you start."
-  - q: "Can I get an apostille on a copy rather than the original document?"
-    a: "Generally, no. The apostille is attached to or stamped on the original document (or an officially certified copy issued by the relevant authority). A photocopy you have made yourself will not be accepted. In some cases, a notary can certify a copy and that certified copy can then receive an apostille — but this varies by document type and country. When in doubt, request an official certified copy from the issuing authority (e.g. your local registry office) and get the apostille placed on that."
+- q: How long does it take to get an apostille in the Netherlands?
+  a: At a Dutch rechtbank (district court), the standard processing time is 3 to 5 working days. Some courts offer an express service where you can collect the apostille the same day or next day, though this varies by location. If you are getting a foreign document apostilled in your home country, timelines differ widely — the UK Legalisation Office, for example, currently processes postal applications in around 10 working days, with a faster service available for an additional fee.
+- q: Do I need a sworn translation alongside my apostille?
+  a: It depends on how the document will be used. The apostille itself authenticates the signature or seal on the document — it does not translate the content. If your document is in a language other than Dutch, English, French, or German, most Dutch authorities (including the IND, municipalities, and courts) will require a certified translation by a beëdigd vertaler (sworn translator) registered with the Rechtspraak. For documents in English, many institutions accept them without translation, but always confirm this with the receiving body before you pay for a translation.
+- q: My country is not a member of the Hague Convention. What do I do?
+  a: 'If your country has not signed the Hague Convention, the apostille process does not apply. Instead, your documents typically need to go through full legalisation: authentication by your country''s foreign ministry or equivalent authority, followed by legalisation at the Dutch embassy or consulate in your country. This process is slower, costs more, and the exact steps depend on your country of origin. Contact the Dutch embassy in your home country for country-specific requirements before you start.'
+- q: Can I get an apostille on a copy rather than the original document?
+  a: Generally, no. The apostille is attached to or stamped on the original document (or an officially certified copy issued by the relevant authority). A photocopy you have made yourself will not be accepted. In some cases, a notary can certify a copy and that certified copy can then receive an apostille — but this varies by document type and country. When in doubt, request an official certified copy from the issuing authority (e.g. your local registry office) and get the apostille placed on that.
+schema_type: Article
 ---
 
 A few months after I moved back to the Netherlands from the UK, a client of mine — let's call her Priya — rang me in a panic. She had a job offer from a Dutch company, her work permit application was in progress, and the IND had just requested her university degree with an apostille. Priya had never heard the word before. She assumed it was some sort of extra stamp, rang the university, and was told it would take six weeks. The job offer had a three-week deadline.

@@ -1,34 +1,48 @@
 ---
-title: "Best Grocery Delivery Services in the Netherlands 2026"
-date: 2026-03-31T10:00:00+01:00
-lastmod: 2026-04-23T10:00:00+01:00
-description: "Compare the best grocery delivery services in the Netherlands 2026: Albert Heijn, Jumbo, Picnic, Flink, and Crisp. Prices and expat tips."
-categories: ["daily-life"]
-tags: ["grocery delivery", "albert heijn", "jumbo", "picnic", "flink", "supermarket netherlands", "food delivery"]
-keywords: ["grocery delivery netherlands", "albert heijn delivery", "picnic app", "best supermarket netherlands", "online grocery shopping netherlands"]
+title: Best Grocery Delivery Services in the Netherlands 2026
+date: 2026-03-31 10:00:00+01:00
+lastmod: 2026-04-23 10:00:00+01:00
+description: 'Compare the best grocery delivery services in the Netherlands 2026: Albert Heijn, Jumbo, Picnic, Flink, and Crisp. Prices and expat tips.'
+categories:
+- daily-life
+tags:
+- grocery delivery
+- albert heijn
+- jumbo
+- picnic
+- flink
+- supermarket netherlands
+- food delivery
+keywords:
+- grocery delivery netherlands
+- albert heijn delivery
+- picnic app
+- best supermarket netherlands
+- online grocery shopping netherlands
 affiliate: true
 products:
-  - name: "KPN"
-    url: "https://www.kpn.com/"
-    price: "0.00"
-author: "Sarah van den Berg"
-author_bio: "Expat coach and relocation specialist. Half Dutch, half British, living in the Netherlands for over 10 years."
-featured_image: "/images/featured/best-grocery-delivery-netherlands-2026.webp"
+- name: KPN
+  url: https://www.kpn.com/
+  price: '0.00'
+author: Sarah van den Berg
+author_bio: Expat coach and relocation specialist. Half Dutch, half British, living in the Netherlands for over 10 years.
+featured_image: /images/featured/best-grocery-delivery-netherlands-2026.webp
 faq:
-  - q: "Which grocery delivery service is cheapest in the Netherlands?"
-    a: "Picnic generally offers the lowest prices, as they match the lowest supermarket prices and have no delivery fees (with a minimum order of EUR 35). Albert Heijn and Jumbo have competitive prices but charge delivery fees of EUR 4-8 per order unless you subscribe to a delivery pass."
-  - q: "Can I use grocery delivery apps in English?"
-    a: "Albert Heijn and Picnic offer their apps partially in English, though product descriptions are mostly in Dutch. Crisp has a good English interface. Most apps require basic understanding of Dutch product names, but you will learn these quickly. Google Translate's camera function can help with ingredient lists."
-  - q: "What is the minimum order for grocery delivery?"
-    a: "Picnic requires a minimum order of EUR 35. Albert Heijn requires EUR 30 for delivery. Jumbo requires EUR 50 for free delivery. Flash delivery services like Flink have lower minimums (EUR 10-15) but charge higher delivery fees."
-  - q: "How fast is grocery delivery in the Netherlands?"
-    a: "Standard delivery (Albert Heijn, Jumbo, Picnic) requires ordering 1-3 days in advance and delivers in a chosen time slot. Flash delivery services (Flink, Getir) deliver within 10-20 minutes but have a smaller product selection and higher prices."
-  - q: "Is Picnic available everywhere in the Netherlands?"
-    a: "Picnic is available in most of the Netherlands but not in all areas, particularly more rural regions. Coverage has expanded significantly since 2023 and continues to grow. Check the Picnic app to see if your address is covered."
-  - q: "Which supermarket has the best selection of international products?"
-    a: "Albert Heijn has the widest selection including international products. For specific cuisines, visit specialty stores: Toko (Indonesian/Asian), Amazing Oriental (Asian supermarket chain), Turkish/Moroccan stores in most neighborhoods, and Polish supermarkets. Crisp specializes in high-quality, organic, and specialty products."
-  - q: "Can I get groceries delivered on the same day?"
-    a: "Albert Heijn and Jumbo offer same-day delivery if you order early enough (usually before noon). Picnic delivers the next day at the earliest. Flash delivery services (Flink, Getir) deliver within minutes on the same day but have limited product ranges."
+- q: Which grocery delivery service is cheapest in the Netherlands?
+  a: Picnic generally offers the lowest prices, as they match the lowest supermarket prices and have no delivery fees (with a minimum order of EUR 35). Albert Heijn and Jumbo have competitive prices but charge delivery fees of EUR 4-8 per order unless you subscribe to a delivery pass.
+- q: Can I use grocery delivery apps in English?
+  a: Albert Heijn and Picnic offer their apps partially in English, though product descriptions are mostly in Dutch. Crisp has a good English interface. Most apps require basic understanding of Dutch product names, but you will learn these quickly. Google Translate's camera function can help with ingredient lists.
+- q: What is the minimum order for grocery delivery?
+  a: Picnic requires a minimum order of EUR 35. Albert Heijn requires EUR 30 for delivery. Jumbo requires EUR 50 for free delivery. Flash delivery services like Flink have lower minimums (EUR 10-15) but charge higher delivery fees.
+- q: How fast is grocery delivery in the Netherlands?
+  a: Standard delivery (Albert Heijn, Jumbo, Picnic) requires ordering 1-3 days in advance and delivers in a chosen time slot. Flash delivery services (Flink, Getir) deliver within 10-20 minutes but have a smaller product selection and higher prices.
+- q: Is Picnic available everywhere in the Netherlands?
+  a: Picnic is available in most of the Netherlands but not in all areas, particularly more rural regions. Coverage has expanded significantly since 2023 and continues to grow. Check the Picnic app to see if your address is covered.
+- q: Which supermarket has the best selection of international products?
+  a: 'Albert Heijn has the widest selection including international products. For specific cuisines, visit specialty stores: Toko (Indonesian/Asian), Amazing Oriental (Asian supermarket chain), Turkish/Moroccan stores in most neighborhoods, and Polish supermarkets. Crisp specializes in high-quality, organic, and specialty products.'
+- q: Can I get groceries delivered on the same day?
+  a: Albert Heijn and Jumbo offer same-day delivery if you order early enough (usually before noon). Picnic delivers the next day at the earliest. Flash delivery services (Flink, Getir) deliver within minutes on the same day but have limited product ranges.
+schema_type: Article
 ---
 
 In my first week in the Netherlands, I tried to carry four bags of groceries up three flights of those impossibly steep Dutch stairs. Never again. That is when I discovered the wonderful world of Dutch grocery delivery, and honestly, it has been one of the small luxuries that makes expat life easier. I have tested every major service over the years, and here is my comparison to help you find the one that fits your shopping habits.

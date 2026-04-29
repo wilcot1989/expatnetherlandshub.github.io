@@ -1,38 +1,49 @@
 ---
-title: "English-Speaking Dentist in Netherlands 2026"
-date: 2026-06-09T10:00:00+01:00
-lastmod: 2026-04-23T10:00:00+01:00
-description: "Find an English-speaking tandarts in the Netherlands: register at a practice, understand dental costs, emergency care, and dental insurance options."
-categories: ["health"]
-tags: ["dentist", "tandarts", "dental care", "healthcare"]
-keywords: ["english speaking dentist netherlands", "tandarts expat netherlands", "dentist netherlands cost 2026", "dental care netherlands expat", "english dentist amsterdam rotterdam the hague"]
+title: English-Speaking Dentist in Netherlands 2026
+date: 2026-06-09 10:00:00+01:00
+lastmod: 2026-04-23 10:00:00+01:00
+description: 'Find an English-speaking tandarts in the Netherlands: register at a practice, understand dental costs, emergency care, and dental insurance options.'
+categories:
+- health
+tags:
+- dentist
+- tandarts
+- dental care
+- healthcare
+keywords:
+- english speaking dentist netherlands
+- tandarts expat netherlands
+- dentist netherlands cost 2026
+- dental care netherlands expat
+- english dentist amsterdam rotterdam the hague
 affiliate: true
 products:
-  - name: "SafetyWing"
-    url: "https://go.expatnetherlandshub.com/safetywing?ref=/guides/health/english-speaking-dentist-netherlands-2026/"
-    price: "45.08"
-  - name: "CZ"
-    url: "https://www.cz.nl/"
-    price: "0.00"
-  - name: "Zilveren Kruis"
-    url: "https://www.zilverenkruis.nl/"
-    price: "0.00"
-author: "Sarah van den Berg"
-author_bio: "Expat coach and relocation specialist. Half Dutch, half British, living in the Netherlands for over 10 years."
-featured_image: "/images/categories/health.svg"
+- name: SafetyWing
+  url: https://go.expatnetherlandshub.com/safetywing?ref=/guides/health/english-speaking-dentist-netherlands-2026/
+  price: '45.08'
+- name: CZ
+  url: https://www.cz.nl/
+  price: '0.00'
+- name: Zilveren Kruis
+  url: https://www.zilverenkruis.nl/
+  price: '0.00'
+author: Sarah van den Berg
+author_bio: Expat coach and relocation specialist. Half Dutch, half British, living in the Netherlands for over 10 years.
+featured_image: /images/categories/health.svg
 faq:
-  - q: "Is dental care covered by Dutch health insurance?"
-    a: "For adults aged 18 and over, dental care is not included in the standard Dutch basisverzekering. This includes checkups, fillings, extractions, crowns, and most other routine dental work. Children up to and including age 17 have dental care included in the basic package. Adults can add dental coverage through an aanvullende verzekering (supplementary insurance), which varies significantly by provider and package. Some packages cover only checkups and small treatments; others cover up to EUR 1,000 or more per year including orthodontics."
-  - q: "How much does a dentist checkup cost in the Netherlands without insurance?"
-    a: "A standard routine checkup (periodontal screening and examination) at a regular Dutch tandarts practice typically costs between EUR 25 and EUR 40. This does not include X-rays. A basic set of bitewing X-rays costs an additional EUR 25–50. If the checkup leads to a treatment recommendation, that treatment is billed separately. Private dental practices (especially those targeting expats) can charge higher rates, sometimes EUR 50–80 for the initial appointment."
-  - q: "What are the typical dental treatment costs in the Netherlands?"
-    a: "Dutch dental fees are regulated by the Nederlandse Zorgautoriteit (NZa), which sets maximum prices for each treatment. Approximate costs in 2026: routine checkup EUR 25–40; small filling (amalgam) EUR 50–80; composite filling (tooth-coloured) EUR 80–150; tooth extraction EUR 60–150; root canal (per canal) EUR 120–250; crown EUR 300–600; implant EUR 1,500–2,500; professional cleaning (scaling and polishing) EUR 50–100. Private dental practices may charge differently from NZa rates, particularly for cosmetic work."
-  - q: "Do Dutch dentists speak English?"
-    a: "The majority of Dutch people, including dentists, speak excellent English. In large cities such as Amsterdam, Rotterdam, The Hague, Utrecht, and Eindhoven, you can expect most dental practices to have at least one English-speaking staff member. In smaller towns and rural areas, English proficiency is generally still good but less universal. Practices that specifically market themselves as expat-friendly are more likely to have fully English-speaking staff and translated intake forms."
-  - q: "What happens if I have a dental emergency in the Netherlands?"
-    a: "For dental emergencies outside regular practice hours, most Dutch cities have a tandarts spoedpraktijk (emergency dental clinic) or a duty dentist service (dienstdoende tandarts). Amsterdam has a 24-hour emergency dental service at several locations. Rotterdam and The Hague also have organised after-hours services. You can find the nearest emergency service by calling your registered dentist's voicemail (which usually provides an emergency number), calling 0900-TANDARTS, or using the Dental Union emergency finder online. Costs for emergency treatments are higher than regular tariffs."
-  - q: "Is it worth getting supplementary dental insurance (aanvullende verzekering) in the Netherlands?"
-    a: "It depends entirely on your dental health and expected usage. If you need only one routine checkup per year, the annual premium for even a basic dental add-on (around EUR 10–20 per month) may barely break even. If you have older fillings, expect orthodontic work, or want a safety net for unexpected treatments, a more extensive aanvullende package becomes valuable quickly. A crown at EUR 400–600 can cost more than two years of premium. Compare the annual maximum coverage, the waiting periods, and any exclusions carefully before choosing."
+- q: Is dental care covered by Dutch health insurance?
+  a: For adults aged 18 and over, dental care is not included in the standard Dutch basisverzekering. This includes checkups, fillings, extractions, crowns, and most other routine dental work. Children up to and including age 17 have dental care included in the basic package. Adults can add dental coverage through an aanvullende verzekering (supplementary insurance), which varies significantly by provider and package. Some packages cover only checkups and small treatments; others cover up to EUR 1,000 or more per year including orthodontics.
+- q: How much does a dentist checkup cost in the Netherlands without insurance?
+  a: A standard routine checkup (periodontal screening and examination) at a regular Dutch tandarts practice typically costs between EUR 25 and EUR 40. This does not include X-rays. A basic set of bitewing X-rays costs an additional EUR 25–50. If the checkup leads to a treatment recommendation, that treatment is billed separately. Private dental practices (especially those targeting expats) can charge higher rates, sometimes EUR 50–80 for the initial appointment.
+- q: What are the typical dental treatment costs in the Netherlands?
+  a: 'Dutch dental fees are regulated by the Nederlandse Zorgautoriteit (NZa), which sets maximum prices for each treatment. Approximate costs in 2026: routine checkup EUR 25–40; small filling (amalgam) EUR 50–80; composite filling (tooth-coloured) EUR 80–150; tooth extraction EUR 60–150; root canal (per canal) EUR 120–250; crown EUR 300–600; implant EUR 1,500–2,500; professional cleaning (scaling and polishing) EUR 50–100. Private dental practices may charge differently from NZa rates, particularly for cosmetic work.'
+- q: Do Dutch dentists speak English?
+  a: The majority of Dutch people, including dentists, speak excellent English. In large cities such as Amsterdam, Rotterdam, The Hague, Utrecht, and Eindhoven, you can expect most dental practices to have at least one English-speaking staff member. In smaller towns and rural areas, English proficiency is generally still good but less universal. Practices that specifically market themselves as expat-friendly are more likely to have fully English-speaking staff and translated intake forms.
+- q: What happens if I have a dental emergency in the Netherlands?
+  a: For dental emergencies outside regular practice hours, most Dutch cities have a tandarts spoedpraktijk (emergency dental clinic) or a duty dentist service (dienstdoende tandarts). Amsterdam has a 24-hour emergency dental service at several locations. Rotterdam and The Hague also have organised after-hours services. You can find the nearest emergency service by calling your registered dentist's voicemail (which usually provides an emergency number), calling 0900-TANDARTS, or using the Dental Union emergency finder online. Costs for emergency treatments are higher than regular tariffs.
+- q: Is it worth getting supplementary dental insurance (aanvullende verzekering) in the Netherlands?
+  a: It depends entirely on your dental health and expected usage. If you need only one routine checkup per year, the annual premium for even a basic dental add-on (around EUR 10–20 per month) may barely break even. If you have older fillings, expect orthodontic work, or want a safety net for unexpected treatments, a more extensive aanvullende package becomes valuable quickly. A crown at EUR 400–600 can cost more than two years of premium. Compare the annual maximum coverage, the waiting periods, and any exclusions carefully before choosing.
+schema_type: Article
 ---
 
 My first week in the Netherlands I had a dull ache in a molar I had been ignoring. I needed a dentist, I did not know the Dutch system, and I had no idea whether my health insurance covered anything. I typed "English speaking dentist Amsterdam" into Google and found a practice that charged me EUR 120 for a checkup and X-ray — which I later discovered was about double the regulated rate.

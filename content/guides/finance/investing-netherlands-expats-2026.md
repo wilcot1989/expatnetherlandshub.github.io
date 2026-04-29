@@ -1,36 +1,47 @@
 ---
-title: "Investing in the Netherlands as an Expat: 2026 Guide"
-date: 2026-03-27T10:00:00+01:00
-lastmod: 2026-04-23T10:00:00+01:00
-description: "A practical guide to investing as an expat in the Netherlands. Tax implications, best platforms, Box 3 tax, and common mistakes to avoid in 2026."
-categories: ["finance"]
-tags: ["investing", "Box 3", "vermogensbelasting", "ETF", "expat finance"]
-keywords: ["investing Netherlands expat", "Box 3 tax expats", "best investment platform Netherlands", "expat investing NL 2026"]
+title: 'Investing in the Netherlands as an Expat: 2026 Guide'
+date: 2026-03-27 10:00:00+01:00
+lastmod: 2026-04-23 10:00:00+01:00
+description: A practical guide to investing as an expat in the Netherlands. Tax implications, best platforms, Box 3 tax, and common mistakes to avoid in 2026.
+categories:
+- finance
+tags:
+- investing
+- Box 3
+- vermogensbelasting
+- ETF
+- expat finance
+keywords:
+- investing Netherlands expat
+- Box 3 tax expats
+- best investment platform Netherlands
+- expat investing NL 2026
 affiliate: true
-author: "Sarah van den Berg"
-author_bio: "Expat coach and relocation specialist. Half Dutch, half British, living in the Netherlands for over 10 years."
-featured_image: "/images/featured/investing-netherlands-expats-2026.webp"
+author: Sarah van den Berg
+author_bio: Expat coach and relocation specialist. Half Dutch, half British, living in the Netherlands for over 10 years.
+featured_image: /images/featured/investing-netherlands-expats-2026.webp
 products:
-  - name: "DeGiro"
-    url: "https://www.degiro.nl/"
-    price: "0.00"
-  - name: "Wise"
-    url: "https://go.expatnetherlandshub.com/wise?ref=/guides/finance/investing-netherlands-expats-2026/"
-    price: "0.00"
-  - name: "bunq"
-    url: "https://www.bunq.com/"
-    price: "2.99"
+- name: DeGiro
+  url: https://www.degiro.nl/
+  price: '0.00'
+- name: Wise
+  url: https://go.expatnetherlandshub.com/wise?ref=/guides/finance/investing-netherlands-expats-2026/
+  price: '0.00'
+- name: bunq
+  url: https://www.bunq.com/
+  price: '2.99'
 faq:
-  - q: "Do I pay tax on investment gains in the Netherlands?"
-    a: "In the Netherlands, you do not pay tax on actual investment gains or dividends in the traditional sense. Instead, Box 3 wealth tax applies a deemed (fictional) return to your total net assets above the tax-free threshold of approximately EUR 57,000 per person (EUR 114,000 for fiscal partners). The deemed return percentages for 2026 are based on actual average market returns per asset category (savings, investments, debts), and the tax rate applied is approximately 36%. So even if your portfolio drops in value, a deemed return is still calculated — and if your portfolio grows more than the deemed rate, you keep the excess tax-free."
-  - q: "What is the best investment platform for expats in the Netherlands?"
-    a: "The best platform depends on your situation. DEGIRO is excellent for cost-conscious investors who want broad access to ETFs and individual stocks at very low fees, with a reasonable English interface. Meesman is ideal for passive investors who want fully managed index fund portfolios without any decision-making. Interactive Brokers suits experienced investors with larger portfolios and complex needs. ABN AMRO and ING are convenient if you already bank with them and prefer everything under one roof, but their fees are considerably higher. For most expats starting out, DEGIRO combined with a simple globally diversified ETF is a solid and affordable choice."
-  - q: "How does the 30% ruling affect my Box 3 tax?"
-    a: "The 30% ruling itself does not directly reduce your Box 3 tax. It reduces your taxable income in Box 1, not your wealth tax. However, the 30% ruling includes a partial non-resident status option (partieel buitenlandse belastingplicht) that, if elected, means you are treated as a non-resident for Box 2 and Box 3 purposes. In practice, this means your foreign savings and investments outside the Netherlands may not be subject to Dutch Box 3 tax during your ruling period. This is a significant benefit that many expats are unaware of. You should discuss this option with a tax advisor before it expires."
-  - q: "Can American expats invest normally in the Netherlands?"
-    a: "American expats face significant restrictions due to US tax law. The main issues are FATCA (Foreign Account Tax Compliance Act) reporting requirements and the PFIC (Passive Foreign Investment Company) rules. Most non-US ETFs and mutual funds are classified as PFICs, and investing in them triggers punitive US tax treatment — often meaning the IRS taxes gains at the highest ordinary income rate plus an interest charge. As a result, US persons in the Netherlands are generally limited to US-listed ETFs (such as those on NYSE Arca) or individual stocks. Interactive Brokers is one of the few platforms that will accept US persons. Before investing anything, US expats should consult a dual-qualified US-Dutch tax advisor."
-  - q: "Who is this for?"
-    a: "See the section above on who benefits most from this service or guide."
+- q: Do I pay tax on investment gains in the Netherlands?
+  a: In the Netherlands, you do not pay tax on actual investment gains or dividends in the traditional sense. Instead, Box 3 wealth tax applies a deemed (fictional) return to your total net assets above the tax-free threshold of approximately EUR 57,000 per person (EUR 114,000 for fiscal partners). The deemed return percentages for 2026 are based on actual average market returns per asset category (savings, investments, debts), and the tax rate applied is approximately 36%. So even if your portfolio drops in value, a deemed return is still calculated — and if your portfolio grows more than the deemed rate, you keep the excess tax-free.
+- q: What is the best investment platform for expats in the Netherlands?
+  a: The best platform depends on your situation. DEGIRO is excellent for cost-conscious investors who want broad access to ETFs and individual stocks at very low fees, with a reasonable English interface. Meesman is ideal for passive investors who want fully managed index fund portfolios without any decision-making. Interactive Brokers suits experienced investors with larger portfolios and complex needs. ABN AMRO and ING are convenient if you already bank with them and prefer everything under one roof, but their fees are considerably higher. For most expats starting out, DEGIRO combined with a simple globally diversified ETF is a solid and affordable choice.
+- q: How does the 30% ruling affect my Box 3 tax?
+  a: The 30% ruling itself does not directly reduce your Box 3 tax. It reduces your taxable income in Box 1, not your wealth tax. However, the 30% ruling includes a partial non-resident status option (partieel buitenlandse belastingplicht) that, if elected, means you are treated as a non-resident for Box 2 and Box 3 purposes. In practice, this means your foreign savings and investments outside the Netherlands may not be subject to Dutch Box 3 tax during your ruling period. This is a significant benefit that many expats are unaware of. You should discuss this option with a tax advisor before it expires.
+- q: Can American expats invest normally in the Netherlands?
+  a: American expats face significant restrictions due to US tax law. The main issues are FATCA (Foreign Account Tax Compliance Act) reporting requirements and the PFIC (Passive Foreign Investment Company) rules. Most non-US ETFs and mutual funds are classified as PFICs, and investing in them triggers punitive US tax treatment — often meaning the IRS taxes gains at the highest ordinary income rate plus an interest charge. As a result, US persons in the Netherlands are generally limited to US-listed ETFs (such as those on NYSE Arca) or individual stocks. Interactive Brokers is one of the few platforms that will accept US persons. Before investing anything, US expats should consult a dual-qualified US-Dutch tax advisor.
+- q: Who is this for?
+  a: See the section above on who benefits most from this service or guide.
+schema_type: Article
 ---
 
 When I arrived in the Netherlands from London, I had a modest ISA, a work pension I was not sure what to do with, and a vague sense that I should be "doing something" with money beyond leaving it in a current account. The Dutch tax system turned out to be entirely different from what I knew back home, and the investing world — which platforms existed, how gains were taxed, what was even legal — required a complete rethink.

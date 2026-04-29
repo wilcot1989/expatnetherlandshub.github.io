@@ -1,37 +1,47 @@
 ---
-title: "Dutch Inheritance Tax for Expats 2026: What You Need to Know"
-date: 2026-05-05T10:00:00+01:00
-lastmod: 2026-04-23T10:00:00+01:00
-type: "guide"
-description: "Dutch inheritance tax (erfbelasting) for expats. Tax rates, exemptions, the 10-year rule, and how it affects your estate planning in the Netherlands."
-categories: ["finance"]
-tags: ["inheritance tax", "erfbelasting", "estate planning", "expat tax"]
-keywords: ["dutch inheritance tax expat", "erfbelasting netherlands", "inheritance tax rates netherlands 2026", "10 year rule dutch inheritance tax"]
+title: 'Dutch Inheritance Tax for Expats 2026: What You Need to Know'
+date: 2026-05-05 10:00:00+01:00
+lastmod: 2026-04-23 10:00:00+01:00
+type: guide
+description: Dutch inheritance tax (erfbelasting) for expats. Tax rates, exemptions, the 10-year rule, and how it affects your estate planning in the Netherlands.
+categories:
+- finance
+tags:
+- inheritance tax
+- erfbelasting
+- estate planning
+- expat tax
+keywords:
+- dutch inheritance tax expat
+- erfbelasting netherlands
+- inheritance tax rates netherlands 2026
+- 10 year rule dutch inheritance tax
 affiliate: true
-author: "Sarah van den Berg"
-author_bio: "Expat coach and relocation specialist. Half Dutch, half British, living in the Netherlands for over 10 years."
-featured_image: "/images/categories/finance.svg"
+author: Sarah van den Berg
+author_bio: Expat coach and relocation specialist. Half Dutch, half British, living in the Netherlands for over 10 years.
+featured_image: /images/categories/finance.svg
 products:
-  - name: "Wise"
-    url: "https://go.expatnetherlandshub.com/wise?ref=/guides/finance/dutch-inheritance-tax-expats-2026/"
-    price: "0.00"
-  - name: "bunq"
-    url: "https://www.bunq.com/"
-    price: "2.99"
-  - name: "ING"
-    url: "https://www.ing.nl/particulier"
-    price: "0.00"
+- name: Wise
+  url: https://go.expatnetherlandshub.com/wise?ref=/guides/finance/dutch-inheritance-tax-expats-2026/
+  price: '0.00'
+- name: bunq
+  url: https://www.bunq.com/
+  price: '2.99'
+- name: ING
+  url: https://www.ing.nl/particulier
+  price: '0.00'
 faq:
-  - q: "Do expats pay inheritance tax in the Netherlands?"
-    a: "If you are a Dutch tax resident, your worldwide estate is subject to Dutch inheritance tax (erfbelasting) when you die. The tax also applies if you leave the Netherlands but die within 10 years of emigrating. Rates range from 10% to 40% depending on the relationship to the heir and the amount inherited."
-  - q: "What is the 10-year rule for Dutch inheritance tax?"
-    a: "If you are a Dutch national or have lived in the Netherlands, Dutch inheritance tax may still apply to your estate for up to 10 years after you leave the country. This means that even after emigrating, your worldwide assets could be subject to Dutch erfbelasting. Double taxation treaties may provide relief."
-  - q: "How much can you inherit tax-free in the Netherlands?"
-    a: "In 2026, the tax-free exemption for partners is approximately €795,000. For children, the exemption is approximately €25,000. For grandchildren and others, it is approximately €2,500. These amounts are adjusted annually for inflation."
-  - q: "Who is this for?"
-    a: "See the section above on who benefits most from this service or guide."
-  - q: "What does it cost in 2026?"
-    a: "Pricing varies — see the comparison table above for current rates."
+- q: Do expats pay inheritance tax in the Netherlands?
+  a: If you are a Dutch tax resident, your worldwide estate is subject to Dutch inheritance tax (erfbelasting) when you die. The tax also applies if you leave the Netherlands but die within 10 years of emigrating. Rates range from 10% to 40% depending on the relationship to the heir and the amount inherited.
+- q: What is the 10-year rule for Dutch inheritance tax?
+  a: If you are a Dutch national or have lived in the Netherlands, Dutch inheritance tax may still apply to your estate for up to 10 years after you leave the country. This means that even after emigrating, your worldwide assets could be subject to Dutch erfbelasting. Double taxation treaties may provide relief.
+- q: How much can you inherit tax-free in the Netherlands?
+  a: In 2026, the tax-free exemption for partners is approximately €795,000. For children, the exemption is approximately €25,000. For grandchildren and others, it is approximately €2,500. These amounts are adjusted annually for inflation.
+- q: Who is this for?
+  a: See the section above on who benefits most from this service or guide.
+- q: What does it cost in 2026?
+  a: Pricing varies — see the comparison table above for current rates.
+schema_type: Article
 ---
 
 When I sat down with a couple who had just relocated from the US to Amsterdam, one of the first questions they asked had nothing to do with healthcare or housing. It was: "What happens to our estate if one of us dies here?" They had spent years building a portfolio back home, and nobody had warned them that living in the Netherlands would bring their entire worldwide estate into the Dutch tax net. That conversation is why I now cover erfbelasting — Dutch inheritance tax — with every client I work with, no exceptions.

@@ -1,38 +1,50 @@
 ---
-title: "PhD in the Netherlands: Researcher Guide 2026"
-date: 2026-03-18T10:00:00+01:00
-lastmod: 2026-04-23T10:00:00+01:00
-description: "International PhD candidates in the Netherlands 2026: employment contract, salary, 30% ruling, tax, banking, health insurance, and visa explained."
-categories: ["finance"]
-tags: ["phd", "researcher", "university", "employment", "tax", "visa"]
-keywords: ["phd netherlands international", "phd salary netherlands 2026", "researcher visa netherlands", "phd employment contract netherlands"]
+title: 'PhD in the Netherlands: Researcher Guide 2026'
+date: 2026-03-18 10:00:00+01:00
+lastmod: 2026-04-23 10:00:00+01:00
+description: 'International PhD candidates in the Netherlands 2026: employment contract, salary, 30% ruling, tax, banking, health insurance, and visa explained.'
+categories:
+- finance
+tags:
+- phd
+- researcher
+- university
+- employment
+- tax
+- visa
+keywords:
+- phd netherlands international
+- phd salary netherlands 2026
+- researcher visa netherlands
+- phd employment contract netherlands
 affiliate: true
-author: "Sarah van den Berg"
-author_bio: "Expat coach and relocation specialist. Half Dutch, half British, living in the Netherlands for over 10 years."
-featured_image: "/images/categories/finance.svg"
+author: Sarah van den Berg
+author_bio: Expat coach and relocation specialist. Half Dutch, half British, living in the Netherlands for over 10 years.
+featured_image: /images/categories/finance.svg
 products:
-  - name: "Wise"
-    url: "https://go.expatnetherlandshub.com/wise?ref=/guides/finance/phd-netherlands-international-researchers-2026/"
-    price: "0.00"
-  - name: "bunq"
-    url: "https://www.bunq.com/"
-    price: "2.99"
-  - name: "ING"
-    url: "https://www.ing.nl/particulier"
-    price: "0.00"
+- name: Wise
+  url: https://go.expatnetherlandshub.com/wise?ref=/guides/finance/phd-netherlands-international-researchers-2026/
+  price: '0.00'
+- name: bunq
+  url: https://www.bunq.com/
+  price: '2.99'
+- name: ING
+  url: https://www.ing.nl/particulier
+  price: '0.00'
 faq:
-  - q: "Is a PhD in the Netherlands a job or a study programme?"
-    a: "In the Netherlands, the vast majority of PhD candidates are employed as university staff (promovendus) on a temporary employment contract, not enrolled as students. This means you receive a salary, pay Dutch income tax and social security contributions, and are entitled to employee benefits including paid holiday, sick leave, and pension accrual. This is fundamentally different from PhD systems in the US or UK."
-  - q: "What is the salary for a PhD candidate in the Netherlands in 2026?"
-    a: "PhD candidates employed under the Dutch university collective labour agreement (CAO Nederlandse Universiteiten) receive a gross salary starting at EUR 2,872 per month in year one, rising to EUR 3,670 per month in year four. After tax and social security deductions, take-home pay is roughly EUR 2,100-2,700 per month depending on your personal situation."
-  - q: "Do PhD candidates in the Netherlands get the 30% ruling?"
-    a: "Potentially yes. If you are recruited from abroad, have specific expertise, and your salary meets the threshold (EUR 46,107 gross per year in 2026 for researchers under 30, EUR 46,107 for others), you may qualify for the 30% ruling. Many PhD candidates in years 3 and 4 meet the salary threshold. The benefit reduces your taxable income significantly. Check with your university's HR department or a tax advisor."
-  - q: "Do I need a residence permit to do a PhD in the Netherlands?"
-    a: "EU/EEA nationals and Swiss citizens do not need a residence permit. Non-EU nationals need a residence permit. In most cases, your university arranges this as a highly skilled migrant (kennismigrant) permit because you are employed, not as a student permit. The distinction matters: the highly skilled migrant permit has different rights and requirements than a student permit."
-  - q: "What bank account should I open as a PhD researcher in the Netherlands?"
-    a: "Open a Dutch bank account as soon as you arrive — you need it to receive your salary. ING, ABN AMRO, and Rabobank are the main Dutch banks. For international transfers home, Wise offers much better exchange rates and lower fees than Dutch banks. Many researchers use Wise alongside a Dutch bank account to send money home to family or manage foreign accounts."
-  - q: "How long does a PhD take in the Netherlands?"
-    a: "The standard contract is four years. Some universities offer a 3+1 model (three years with an optional fourth year extension). Extensions beyond four years are possible but require agreement from your supervisor and department. The average actual time to completion including writing and defence is 4.5-5 years, though the employment contract typically ends at four years."
+- q: Is a PhD in the Netherlands a job or a study programme?
+  a: In the Netherlands, the vast majority of PhD candidates are employed as university staff (promovendus) on a temporary employment contract, not enrolled as students. This means you receive a salary, pay Dutch income tax and social security contributions, and are entitled to employee benefits including paid holiday, sick leave, and pension accrual. This is fundamentally different from PhD systems in the US or UK.
+- q: What is the salary for a PhD candidate in the Netherlands in 2026?
+  a: PhD candidates employed under the Dutch university collective labour agreement (CAO Nederlandse Universiteiten) receive a gross salary starting at EUR 2,872 per month in year one, rising to EUR 3,670 per month in year four. After tax and social security deductions, take-home pay is roughly EUR 2,100-2,700 per month depending on your personal situation.
+- q: Do PhD candidates in the Netherlands get the 30% ruling?
+  a: Potentially yes. If you are recruited from abroad, have specific expertise, and your salary meets the threshold (EUR 46,107 gross per year in 2026 for researchers under 30, EUR 46,107 for others), you may qualify for the 30% ruling. Many PhD candidates in years 3 and 4 meet the salary threshold. The benefit reduces your taxable income significantly. Check with your university's HR department or a tax advisor.
+- q: Do I need a residence permit to do a PhD in the Netherlands?
+  a: 'EU/EEA nationals and Swiss citizens do not need a residence permit. Non-EU nationals need a residence permit. In most cases, your university arranges this as a highly skilled migrant (kennismigrant) permit because you are employed, not as a student permit. The distinction matters: the highly skilled migrant permit has different rights and requirements than a student permit.'
+- q: What bank account should I open as a PhD researcher in the Netherlands?
+  a: Open a Dutch bank account as soon as you arrive — you need it to receive your salary. ING, ABN AMRO, and Rabobank are the main Dutch banks. For international transfers home, Wise offers much better exchange rates and lower fees than Dutch banks. Many researchers use Wise alongside a Dutch bank account to send money home to family or manage foreign accounts.
+- q: How long does a PhD take in the Netherlands?
+  a: The standard contract is four years. Some universities offer a 3+1 model (three years with an optional fourth year extension). Extensions beyond four years are possible but require agreement from your supervisor and department. The average actual time to completion including writing and defence is 4.5-5 years, though the employment contract typically ends at four years.
+schema_type: Article
 ---
 
 The Netherlands is one of the best countries in the world for academic research. Its universities consistently rank among Europe's top institutions, funding is relatively well-structured, and the employment model for PhD candidates is genuinely unusual — in a good way. When I advise international researchers on their move here, one of the first things I explain is that a Dutch PhD is almost always a job, not a student programme. That single fact changes everything about how you prepare financially.

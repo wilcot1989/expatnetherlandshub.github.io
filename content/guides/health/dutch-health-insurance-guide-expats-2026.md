@@ -1,50 +1,63 @@
 ---
-title: "Dutch Health Insurance for Expats: Complete Guide 2026"
-date: 2026-02-24T10:00:00+01:00
-lastmod: 2026-04-23T10:00:00+01:00
-description: "Everything expats need to know about Dutch health insurance in 2026: basisverzekering, eigen risico, zorgtoeslag, and how to choose."
-categories: ["finance"]
-tags: ["dutch health insurance", "basisverzekering", "zorgtoeslag", "expat insurance", "eigen risico", "health insurance netherlands"]
-keywords: ["dutch health insurance expats", "health insurance netherlands", "basisverzekering expats", "dutch health insurance 2026", "mandatory health insurance netherlands"]
+title: 'Dutch Health Insurance for Expats: Complete Guide 2026'
+date: 2026-02-24 10:00:00+01:00
+lastmod: 2026-04-23 10:00:00+01:00
+description: 'Everything expats need to know about Dutch health insurance in 2026: basisverzekering, eigen risico, zorgtoeslag, and how to choose.'
+categories:
+- finance
+tags:
+- dutch health insurance
+- basisverzekering
+- zorgtoeslag
+- expat insurance
+- eigen risico
+- health insurance netherlands
+keywords:
+- dutch health insurance expats
+- health insurance netherlands
+- basisverzekering expats
+- dutch health insurance 2026
+- mandatory health insurance netherlands
 affiliate: true
 products:
-  - name: "SafetyWing"
-    url: "https://go.expatnetherlandshub.com/safetywing?ref=/guides/health/dutch-health-insurance-guide-expats-2026/"
-    price: "45.08"
-  - name: "CZ"
-    url: "https://www.cz.nl/"
-    price: "0.00"
-  - name: "Zilveren Kruis"
-    url: "https://www.zilverenkruis.nl/"
-    price: "0.00"
-author: "Sarah van den Berg"
-author_bio: "Expat coach and relocation specialist. Half Dutch, half British, living in the Netherlands for over 10 years."
-featured_image: "/images/featured/dutch-health-insurance-guide-expats-2026.webp"
+- name: SafetyWing
+  url: https://go.expatnetherlandshub.com/safetywing?ref=/guides/health/dutch-health-insurance-guide-expats-2026/
+  price: '45.08'
+- name: CZ
+  url: https://www.cz.nl/
+  price: '0.00'
+- name: Zilveren Kruis
+  url: https://www.zilverenkruis.nl/
+  price: '0.00'
+author: Sarah van den Berg
+author_bio: Expat coach and relocation specialist. Half Dutch, half British, living in the Netherlands for over 10 years.
+featured_image: /images/featured/dutch-health-insurance-guide-expats-2026.webp
 faq:
-  - q: "Is health insurance mandatory in the Netherlands?"
-    a: "Yes. Everyone who legally lives or works in the Netherlands is required by law to have a basic health insurance policy (basisverzekering). You must arrange this within 4 months of your registration date. If you fail to do so, the CAK (Central Administration Office) will assign you a policy and you may face a fine."
-  - q: "How much does Dutch health insurance cost in 2026?"
-    a: "Basic health insurance (basisverzekering) premiums in 2026 range from approximately EUR 140 to EUR 175 per month depending on the insurer. On top of this, you pay an annual own risk (eigen risico) of EUR 385 for most treatments beyond GP visits. Supplementary insurance (aanvullende verzekering) adds EUR 10-80 per month depending on coverage."
-  - q: "What is the eigen risico and how does it work?"
-    a: "The eigen risico (own risk or deductible) is a mandatory annual amount of EUR 385 in 2026 that you pay out of pocket before your insurance covers certain treatments. It applies to specialist care, hospital visits, prescription medication, and mental healthcare. It does NOT apply to GP visits, maternity care, or care for children under 18. You can choose to increase your eigen risico to up to EUR 885 in exchange for a lower monthly premium."
-  - q: "What is zorgtoeslag and am I eligible?"
-    a: "Zorgtoeslag is a monthly healthcare allowance from the Dutch government to help lower-income residents afford health insurance. Eligibility depends on your income and assets. In 2026, single individuals earning below approximately EUR 38,520 and couples earning below approximately EUR 48,224 may qualify. The maximum allowance is approximately EUR 130 per month. You need a DigiD to apply via toeslagen.nl."
-  - q: "Can I keep my home country health insurance in the Netherlands?"
-    a: "Generally no. If you are employed or self-employed in the Netherlands, Dutch law requires you to take out Dutch basic health insurance, even if you have insurance from another country. There are limited exceptions: posted workers covered by their home country's social security system, and certain cross-border workers. If in doubt, check with the SVB (Social Insurance Bank)."
-  - q: "What does Dutch basic health insurance cover?"
-    a: "The basisverzekering covers a full package defined by the government, including: GP care, hospital care, specialist medical care, prescription medication, mental healthcare (with referral), maternity and obstetric care, ambulance transport, dental care for children under 18, physiotherapy (limited sessions for chronic conditions), and medical devices. Dental care for adults and extensive physiotherapy require supplementary insurance."
-  - q: "When can I switch health insurance providers in the Netherlands?"
-    a: "You can switch your basic health insurance provider once per year during the open enrollment period, which runs from mid-November to December 31. Your new policy starts on January 1 of the following year. You do not need to give a reason for switching, and the new insurer must accept you regardless of your health status. Supplementary insurance can be switched at the same time, but the new insurer may reject your supplementary application based on health screening."
-  - q: "Does Dutch health insurance cover pregnancy and maternity care?"
-    a: "Yes. Pregnancy and maternity care is one of the most generous parts of the basisverzekering. Prenatal appointments with a midwife (verloskundige), the birth itself, and postnatal home care (kraamzorg) are all fully covered by basic insurance. Importantly, none of these costs count towards your eigen risico. The standard kraamzorg package includes up to 49 hours of postnatal home care in the first 8 days after birth."
-  - q: "How does mental healthcare work in the Netherlands?"
-    a: "Mental healthcare (geestelijke gezondheidszorg, or GGZ) is covered by the basisverzekering, but you need a referral from your GP first. Your GP may initially refer you to a POH-GGZ (a mental health practitioner attached to the GP practice) for mild to moderate issues, or directly to a BIG-registered psychologist or psychiatrist for more serious conditions. The eigen risico applies to GGZ care. Waiting times at contracted providers can be long — sometimes months. Supplementary insurance or private therapy are alternatives for faster access."
-  - q: "Is physiotherapy covered by Dutch health insurance?"
-    a: "It depends on your condition. The basisverzekering covers physiotherapy from the 1st session onward for conditions on the government's 'chronic list' (chronische lijst), such as COPD, Parkinson's disease, rheumatoid arthritis, and several others. For all other conditions, basic insurance only covers physiotherapy from the 21st session onward — meaning you pay the first 20 sessions out of pocket. Most people with regular physiotherapy needs buy supplementary insurance (aanvullende verzekering) to cover those first 20 sessions."
-  - q: "Do international students need Dutch health insurance?"
-    a: "It depends on whether you work. EU/EEA students who study in the Netherlands but do not work are generally not required to take out Dutch health insurance — they can use their European Health Insurance Card (EHIC). Non-EU students without a work permit are also usually exempt. However, if you work in the Netherlands (even part-time) and your income exceeds roughly EUR 10,000 per year, you become subject to Dutch social insurance law and must take out basisverzekering. Students receiving DUO (student finance) are sometimes exempt from zorgtoeslag but can still be obliged to insure. Always verify with your university's international office."
-  - q: "How do I cancel Dutch health insurance when leaving the Netherlands?"
-    a: "To cancel (opzeggen) your Dutch health insurance, you must formally deregister from the Netherlands — this means handing in your residence permit (if applicable) and deregistering at your gemeente. Your insurer will request proof of deregistration, typically the RES form (Verhuisbericht Emigratie) issued by the gemeente. You must give at least one calendar month's notice. Your insurer will backdate the cancellation to your official departure date. Do not cancel before you have your departure confirmation in writing, as you remain legally liable for premiums until the cancellation is processed."
+- q: Is health insurance mandatory in the Netherlands?
+  a: Yes. Everyone who legally lives or works in the Netherlands is required by law to have a basic health insurance policy (basisverzekering). You must arrange this within 4 months of your registration date. If you fail to do so, the CAK (Central Administration Office) will assign you a policy and you may face a fine.
+- q: How much does Dutch health insurance cost in 2026?
+  a: Basic health insurance (basisverzekering) premiums in 2026 range from approximately EUR 140 to EUR 175 per month depending on the insurer. On top of this, you pay an annual own risk (eigen risico) of EUR 385 for most treatments beyond GP visits. Supplementary insurance (aanvullende verzekering) adds EUR 10-80 per month depending on coverage.
+- q: What is the eigen risico and how does it work?
+  a: The eigen risico (own risk or deductible) is a mandatory annual amount of EUR 385 in 2026 that you pay out of pocket before your insurance covers certain treatments. It applies to specialist care, hospital visits, prescription medication, and mental healthcare. It does NOT apply to GP visits, maternity care, or care for children under 18. You can choose to increase your eigen risico to up to EUR 885 in exchange for a lower monthly premium.
+- q: What is zorgtoeslag and am I eligible?
+  a: Zorgtoeslag is a monthly healthcare allowance from the Dutch government to help lower-income residents afford health insurance. Eligibility depends on your income and assets. In 2026, single individuals earning below approximately EUR 38,520 and couples earning below approximately EUR 48,224 may qualify. The maximum allowance is approximately EUR 130 per month. You need a DigiD to apply via toeslagen.nl.
+- q: Can I keep my home country health insurance in the Netherlands?
+  a: 'Generally no. If you are employed or self-employed in the Netherlands, Dutch law requires you to take out Dutch basic health insurance, even if you have insurance from another country. There are limited exceptions: posted workers covered by their home country''s social security system, and certain cross-border workers. If in doubt, check with the SVB (Social Insurance Bank).'
+- q: What does Dutch basic health insurance cover?
+  a: 'The basisverzekering covers a full package defined by the government, including: GP care, hospital care, specialist medical care, prescription medication, mental healthcare (with referral), maternity and obstetric care, ambulance transport, dental care for children under 18, physiotherapy (limited sessions for chronic conditions), and medical devices. Dental care for adults and extensive physiotherapy require supplementary insurance.'
+- q: When can I switch health insurance providers in the Netherlands?
+  a: You can switch your basic health insurance provider once per year during the open enrollment period, which runs from mid-November to December 31. Your new policy starts on January 1 of the following year. You do not need to give a reason for switching, and the new insurer must accept you regardless of your health status. Supplementary insurance can be switched at the same time, but the new insurer may reject your supplementary application based on health screening.
+- q: Does Dutch health insurance cover pregnancy and maternity care?
+  a: Yes. Pregnancy and maternity care is one of the most generous parts of the basisverzekering. Prenatal appointments with a midwife (verloskundige), the birth itself, and postnatal home care (kraamzorg) are all fully covered by basic insurance. Importantly, none of these costs count towards your eigen risico. The standard kraamzorg package includes up to 49 hours of postnatal home care in the first 8 days after birth.
+- q: How does mental healthcare work in the Netherlands?
+  a: Mental healthcare (geestelijke gezondheidszorg, or GGZ) is covered by the basisverzekering, but you need a referral from your GP first. Your GP may initially refer you to a POH-GGZ (a mental health practitioner attached to the GP practice) for mild to moderate issues, or directly to a BIG-registered psychologist or psychiatrist for more serious conditions. The eigen risico applies to GGZ care. Waiting times at contracted providers can be long — sometimes months. Supplementary insurance or private therapy are alternatives for faster access.
+- q: Is physiotherapy covered by Dutch health insurance?
+  a: It depends on your condition. The basisverzekering covers physiotherapy from the 1st session onward for conditions on the government's 'chronic list' (chronische lijst), such as COPD, Parkinson's disease, rheumatoid arthritis, and several others. For all other conditions, basic insurance only covers physiotherapy from the 21st session onward — meaning you pay the first 20 sessions out of pocket. Most people with regular physiotherapy needs buy supplementary insurance (aanvullende verzekering) to cover those first 20 sessions.
+- q: Do international students need Dutch health insurance?
+  a: It depends on whether you work. EU/EEA students who study in the Netherlands but do not work are generally not required to take out Dutch health insurance — they can use their European Health Insurance Card (EHIC). Non-EU students without a work permit are also usually exempt. However, if you work in the Netherlands (even part-time) and your income exceeds roughly EUR 10,000 per year, you become subject to Dutch social insurance law and must take out basisverzekering. Students receiving DUO (student finance) are sometimes exempt from zorgtoeslag but can still be obliged to insure. Always verify with your university's international office.
+- q: How do I cancel Dutch health insurance when leaving the Netherlands?
+  a: To cancel (opzeggen) your Dutch health insurance, you must formally deregister from the Netherlands — this means handing in your residence permit (if applicable) and deregistering at your gemeente. Your insurer will request proof of deregistration, typically the RES form (Verhuisbericht Emigratie) issued by the gemeente. You must give at least one calendar month's notice. Your insurer will backdate the cancellation to your official departure date. Do not cancel before you have your departure confirmation in writing, as you remain legally liable for premiums until the cancellation is processed.
+schema_type: Article
 ---
 
 Dutch health insurance confused me more than almost anything else when I first moved here. Basisverzekering, eigen risico, zorgtoeslag -- the terminology alone is enough to make your head spin. And then you find out it is mandatory and you have only four months to sort it out. After working through the system myself and helping hundreds of clients choose the right policy, I can tell you it is actually one of the best healthcare setups in the world. You just need to know how it works.

@@ -1,31 +1,39 @@
 ---
-title: "Life Insurance for Expats in Netherlands 2026"
-description: "Do expats in the Netherlands need life insurance? What's covered, what isn't, and how to find the right policy in 2026 — including mortgage-linked options."
+title: Life Insurance for Expats in Netherlands 2026
+description: Do expats in the Netherlands need life insurance? What's covered, what isn't, and how to find the right policy in 2026 — including mortgage-linked options.
 date: 2026-03-22
-lastmod: 2026-04-23T10:00:00+01:00
-author: "Sarah van den Berg"
-author_bio: "Expat coach and writer at ExpatNetherlandsHub.com"
-categories: ["finance"]
-tags: ["life insurance", "expats", "netherlands", "overlijdensrisicoverzekering", "finance", "mortgage"]
-featured_image: "/images/categories/finance.svg"
+lastmod: 2026-04-23 10:00:00+01:00
+author: Sarah van den Berg
+author_bio: Expat coach and writer at ExpatNetherlandsHub.com
+categories:
+- finance
+tags:
+- life insurance
+- expats
+- netherlands
+- overlijdensrisicoverzekering
+- finance
+- mortgage
+featured_image: /images/categories/finance.svg
 affiliate: true
 draft: false
 faq:
-  - q: "Do expats in the Netherlands need life insurance?"
-    a: "It depends on your situation. If you have a mortgage, most lenders require a term life insurance policy (overlijdensrisicoverzekering). If you have dependents relying on your income, life insurance provides important protection. Single expats without dependents or mortgages often don't need it."
-  - q: "What is overlijdensrisicoverzekering?"
-    a: "Overlijdensrisicoverzekering is the Dutch term for term life insurance. It pays out a lump sum to your beneficiaries if you die during the policy term. It is the most common form of life insurance in the Netherlands and is typically linked to a mortgage."
-  - q: "Can expats with temporary residence permits get life insurance in the Netherlands?"
-    a: "Yes, but options may be more limited. Some Dutch insurers require a permanent residence permit or Dutch citizenship. Others will insure expats with a valid temporary permit and a Dutch address. Brokers who work with expats can help you find willing providers."
-  - q: "How much does life insurance cost in the Netherlands?"
-    a: "Premiums depend on age, health, coverage amount, and policy term. A healthy 35-year-old can typically get €200,000 in coverage for 20 years for around €15–€30 per month. Smokers and those with pre-existing conditions pay higher premiums."
-  - q: "What happens to my Dutch life insurance policy if I leave the Netherlands?"
-    a: "This depends on the policy terms. Many Dutch policies allow you to maintain coverage if you move to another country, but you should check your insurer's terms carefully. Some policies become void if you no longer reside in the Netherlands. Notify your insurer before relocating."
+- q: Do expats in the Netherlands need life insurance?
+  a: It depends on your situation. If you have a mortgage, most lenders require a term life insurance policy (overlijdensrisicoverzekering). If you have dependents relying on your income, life insurance provides important protection. Single expats without dependents or mortgages often don't need it.
+- q: What is overlijdensrisicoverzekering?
+  a: Overlijdensrisicoverzekering is the Dutch term for term life insurance. It pays out a lump sum to your beneficiaries if you die during the policy term. It is the most common form of life insurance in the Netherlands and is typically linked to a mortgage.
+- q: Can expats with temporary residence permits get life insurance in the Netherlands?
+  a: Yes, but options may be more limited. Some Dutch insurers require a permanent residence permit or Dutch citizenship. Others will insure expats with a valid temporary permit and a Dutch address. Brokers who work with expats can help you find willing providers.
+- q: How much does life insurance cost in the Netherlands?
+  a: Premiums depend on age, health, coverage amount, and policy term. A healthy 35-year-old can typically get €200,000 in coverage for 20 years for around €15–€30 per month. Smokers and those with pre-existing conditions pay higher premiums.
+- q: What happens to my Dutch life insurance policy if I leave the Netherlands?
+  a: This depends on the policy terms. Many Dutch policies allow you to maintain coverage if you move to another country, but you should check your insurer's terms carefully. Some policies become void if you no longer reside in the Netherlands. Notify your insurer before relocating.
 products:
-  - name: "SafetyWing"
-    url: "https://go.expatnetherlandshub.com/safetywing?ref=/blog/life-insurance-expats-netherlands-2026/"
-    price: "0.00"
-    tag: "Expat Insurance"
+- name: SafetyWing
+  url: https://go.expatnetherlandshub.com/safetywing?ref=/blog/life-insurance-expats-netherlands-2026/
+  price: '0.00'
+  tag: Expat Insurance
+schema_type: Article
 ---
 
 When I first arrived in the Netherlands, life insurance was not on my list of priorities. I was focused on getting my BSN, finding a GP, and working out the public transport system. It was only when I started looking at buying a flat that the topic came up — and I realised I'd been ignoring something that many expats need to think about earlier than they do.

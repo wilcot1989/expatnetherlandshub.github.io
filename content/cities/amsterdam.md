@@ -1,11 +1,13 @@
 ---
-title: "Amsterdam Expat Guide 2026: Living, Working & Costs"
-description: "Complete expat guide to Amsterdam in 2026. Rent prices by neighbourhood, job market, municipality registration, transport, and practical tips for settling in."
-date: 2026-03-06T10:00:00+01:00
-lastmod: 2026-04-23T10:00:00+01:00
-featured_image: "/images/featured/amsterdam.webp"
-author: "Sarah van den Berg"
-categories: ["cities"]
+title: 'Amsterdam Expat Guide 2026: Living, Working & Costs'
+description: Complete expat guide to Amsterdam in 2026. Rent prices by neighbourhood, job market, municipality registration, transport, and practical tips for settling in.
+date: 2026-03-06 10:00:00+01:00
+lastmod: 2026-04-23 10:00:00+01:00
+featured_image: /images/featured/amsterdam.webp
+author: Sarah van den Berg
+categories:
+- cities
+schema_type: Article
 ---
 
 ## Amsterdam at a Glance

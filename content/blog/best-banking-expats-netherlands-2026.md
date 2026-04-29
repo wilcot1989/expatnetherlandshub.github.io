@@ -1,51 +1,67 @@
 ---
-title: "Best Banking Options for Expats in the Netherlands 2026"
-date: 2026-04-29T08:00:00+02:00
-lastmod: 2026-04-29T08:00:00+02:00
-description: "The honest guide to banking in the Netherlands as an expat: Dutch banks vs fintech, BSN-free options, real fee comparisons, and a year-by-year strategy that."
-categories: ["finance"]
-tags: ["banking Netherlands expats", "Dutch bank account", "Wise Netherlands", "Revolut Netherlands", "N26 Netherlands", "bunq Netherlands", "expat finance", "BSN bank account"]
-keywords: ["best bank account Netherlands expats", "open bank account Netherlands without BSN", "Wise vs Revolut Netherlands", "bunq expat Netherlands", "ABN AMRO expat account", "ING bank expat Netherlands 2026"]
+title: Best Banking Options for Expats in the Netherlands 2026
+date: 2026-04-29 08:00:00+02:00
+lastmod: 2026-04-29 08:00:00+02:00
+description: 'The honest guide to banking in the Netherlands as an expat: Dutch banks vs fintech, BSN-free options, real fee comparisons, and a year-by-year strategy that.'
+categories:
+- finance
+tags:
+- banking Netherlands expats
+- Dutch bank account
+- Wise Netherlands
+- Revolut Netherlands
+- N26 Netherlands
+- bunq Netherlands
+- expat finance
+- BSN bank account
+keywords:
+- best bank account Netherlands expats
+- open bank account Netherlands without BSN
+- Wise vs Revolut Netherlands
+- bunq expat Netherlands
+- ABN AMRO expat account
+- ING bank expat Netherlands 2026
 affiliate: true
-author: "Sarah van den Berg"
-author_bio: "Expat coach and writer at ExpatNetherlandsHub.com"
-featured_image: "/images/categories/finance.svg"
+author: Sarah van den Berg
+author_bio: Expat coach and writer at ExpatNetherlandsHub.com
+featured_image: /images/categories/finance.svg
 faq:
-  - q: "Can I open a Dutch bank account without a BSN?"
-    a: "Yes — but only with fintech providers. Wise (formerly TransferWise) lets you open a EUR account and get Dutch IBAN details (NL) with no BSN required. N26 and Revolut also do not require a BSN at registration. Traditional Dutch banks — ABN AMRO, ING, Rabobank, KNAB — all require a BSN before they will open an account. If you have just arrived, start with Wise or N26 for day-one banking and switch to a full Dutch bank once your BSN is issued (usually 3–5 working days after your municipality registration appointment)."
-  - q: "Which bank is best for expats who just arrived in the Netherlands?"
-    a: "For the first 1–4 weeks before your BSN arrives: Wise gives you a real NL IBAN immediately and lets your employer pay salary there. Once you have your BSN: ABN AMRO Expat Banking or ING are the easiest full-service Dutch banks for English speakers. Bunq is the best Dutch-licensed bank with a fully English app and no BSN wait — they accept you with a passport and address proof."
-  - q: "Does Revolut work in the Netherlands?"
-    a: "Yes. Revolut is widely used by expats in the Netherlands. The free plan gives you a European IBAN (not a Dutch NL IBAN), inter-bank exchange rates on weekdays, and a virtual Mastercard. The paid plans (Plus at €3.99/m, Premium at €9.99/m, Metal at €16.99/m) add NL IBAN, cash withdrawals abroad, and travel insurance. For most expats who already have a Dutch primary account, the free Revolut plan is enough for travel and currency spending."
-  - q: "Is a Dutch bank account required to rent an apartment?"
-    a: "Increasingly yes. Most Dutch landlords and housing agencies require rent to be paid from a Dutch IBAN (starting with NL). A Wise account with NL IBAN satisfies this requirement. Revolut's standard European IBANs (starting with LT or other country codes) are sometimes rejected by landlords who run automated SEPA checks. If you need an NL IBAN before your BSN, Wise is the fastest option."
-  - q: "Do I need to declare my foreign bank accounts to the Dutch tax authority?"
-    a: "Yes. The Belastingdienst requires you to report all bank accounts — Dutch and foreign — in your annual income tax return under Box 3 (wealth tax). There is a tax-free threshold of approximately €57,000 per person. If you are a US citizen or permanent resident, you also face FBAR (FinCEN 114) filing requirements for any foreign accounts with balances over $10,000 at any point during the year, plus FATCA Form 8938 if thresholds are met. The US–Netherlands tax treaty does not exempt you from these filing obligations."
-  - q: "Can I use Apple Pay and Google Pay with Dutch banks?"
-    a: "Most major Dutch banks and all major fintechs now support Apple Pay and Google Pay. ABN AMRO, ING, Rabobank, Bunq, N26, Revolut, and Wise all support both. The main exception is ASN Bank, which does not support Apple Pay or Google Pay as of early 2026. KNAB supports Google Pay but Apple Pay support has been inconsistent."
-  - q: "What is the cheapest way to send money from the Netherlands to the US?"
-    a: "Wise is consistently the cheapest for EUR–USD transfers. On a €1,000 transfer to USD, Wise typically charges around €4–6 in fees (0.4–0.6%) compared to €20–40 at ABN AMRO or ING. Revolut is competitive if you transfer on weekdays (inter-bank rate) and stay within your plan's monthly limit. Both are dramatically cheaper than a traditional Dutch bank wire."
-  - q: "What is the monthly fee for Dutch banks in 2026?"
-    a: "ING charges €3.35/month for a basic current account. ABN AMRO charges €2.95/month for Studentenpakket or €5.40/month for Betaalpakket. Rabobank charges €3.70/month. KNAB charges €5/month. Bunq charges €2.99/month for its basic Easy Bank plan. Wise and N26 (standard) have no monthly fee. Triodos charges €6/month and ASN Bank charges €1.20/month for a basic account."
-  - q: "Which bank has the best English customer service?"
-    a: "ABN AMRO Expat Banking has a dedicated English phone line and an expat-specific onboarding process. Bunq is entirely English-first (Dutch is secondary). N26 offers English live chat through the app. ING's main customer service is in Dutch, though English is available if you ask. Rabobank and ASN Bank are Dutch-primary. Wise's English support is good for digital queries but has no phone support."
-  - q: "Is Triodos Bank good for expats in the Netherlands?"
-    a: "Triodos is ideal for expats who prioritise ethical banking: the bank only finances sustainable projects and is fully transparent about where deposits go. However, it has the highest monthly fee (€6), limited ATM network, no Saturday branch access, and moderate app ratings. As a secondary account or values-driven primary account it works well. For expats who need robust daily banking and English support, it ranks below ABN AMRO, ING, and Bunq."
-  - q: "Can freelancers and ZZP expats open a business bank account?"
-    a: "Yes. KVK registration is typically required before a Dutch bank opens a business account for a ZZP (self-employed). Bunq has the fastest ZZP account opening (Easy Money, €9.99/month), followed by KNAB ZZP. ABN AMRO and ING require an in-person appointment. For ZZP expats in their first weeks (no KVK yet), using a Wise personal account to receive payments is common practice — just note that mixing personal and business income in Wise creates bookkeeping headaches."
+- q: Can I open a Dutch bank account without a BSN?
+  a: Yes — but only with fintech providers. Wise (formerly TransferWise) lets you open a EUR account and get Dutch IBAN details (NL) with no BSN required. N26 and Revolut also do not require a BSN at registration. Traditional Dutch banks — ABN AMRO, ING, Rabobank, KNAB — all require a BSN before they will open an account. If you have just arrived, start with Wise or N26 for day-one banking and switch to a full Dutch bank once your BSN is issued (usually 3–5 working days after your municipality registration appointment).
+- q: Which bank is best for expats who just arrived in the Netherlands?
+  a: 'For the first 1–4 weeks before your BSN arrives: Wise gives you a real NL IBAN immediately and lets your employer pay salary there. Once you have your BSN: ABN AMRO Expat Banking or ING are the easiest full-service Dutch banks for English speakers. Bunq is the best Dutch-licensed bank with a fully English app and no BSN wait — they accept you with a passport and address proof.'
+- q: Does Revolut work in the Netherlands?
+  a: Yes. Revolut is widely used by expats in the Netherlands. The free plan gives you a European IBAN (not a Dutch NL IBAN), inter-bank exchange rates on weekdays, and a virtual Mastercard. The paid plans (Plus at €3.99/m, Premium at €9.99/m, Metal at €16.99/m) add NL IBAN, cash withdrawals abroad, and travel insurance. For most expats who already have a Dutch primary account, the free Revolut plan is enough for travel and currency spending.
+- q: Is a Dutch bank account required to rent an apartment?
+  a: Increasingly yes. Most Dutch landlords and housing agencies require rent to be paid from a Dutch IBAN (starting with NL). A Wise account with NL IBAN satisfies this requirement. Revolut's standard European IBANs (starting with LT or other country codes) are sometimes rejected by landlords who run automated SEPA checks. If you need an NL IBAN before your BSN, Wise is the fastest option.
+- q: Do I need to declare my foreign bank accounts to the Dutch tax authority?
+  a: Yes. The Belastingdienst requires you to report all bank accounts — Dutch and foreign — in your annual income tax return under Box 3 (wealth tax). There is a tax-free threshold of approximately €57,000 per person. If you are a US citizen or permanent resident, you also face FBAR (FinCEN 114) filing requirements for any foreign accounts with balances over $10,000 at any point during the year, plus FATCA Form 8938 if thresholds are met. The US–Netherlands tax treaty does not exempt you from these filing obligations.
+- q: Can I use Apple Pay and Google Pay with Dutch banks?
+  a: Most major Dutch banks and all major fintechs now support Apple Pay and Google Pay. ABN AMRO, ING, Rabobank, Bunq, N26, Revolut, and Wise all support both. The main exception is ASN Bank, which does not support Apple Pay or Google Pay as of early 2026. KNAB supports Google Pay but Apple Pay support has been inconsistent.
+- q: What is the cheapest way to send money from the Netherlands to the US?
+  a: Wise is consistently the cheapest for EUR–USD transfers. On a €1,000 transfer to USD, Wise typically charges around €4–6 in fees (0.4–0.6%) compared to €20–40 at ABN AMRO or ING. Revolut is competitive if you transfer on weekdays (inter-bank rate) and stay within your plan's monthly limit. Both are dramatically cheaper than a traditional Dutch bank wire.
+- q: What is the monthly fee for Dutch banks in 2026?
+  a: ING charges €3.35/month for a basic current account. ABN AMRO charges €2.95/month for Studentenpakket or €5.40/month for Betaalpakket. Rabobank charges €3.70/month. KNAB charges €5/month. Bunq charges €2.99/month for its basic Easy Bank plan. Wise and N26 (standard) have no monthly fee. Triodos charges €6/month and ASN Bank charges €1.20/month for a basic account.
+- q: Which bank has the best English customer service?
+  a: ABN AMRO Expat Banking has a dedicated English phone line and an expat-specific onboarding process. Bunq is entirely English-first (Dutch is secondary). N26 offers English live chat through the app. ING's main customer service is in Dutch, though English is available if you ask. Rabobank and ASN Bank are Dutch-primary. Wise's English support is good for digital queries but has no phone support.
+- q: Is Triodos Bank good for expats in the Netherlands?
+  a: 'Triodos is ideal for expats who prioritise ethical banking: the bank only finances sustainable projects and is fully transparent about where deposits go. However, it has the highest monthly fee (€6), limited ATM network, no Saturday branch access, and moderate app ratings. As a secondary account or values-driven primary account it works well. For expats who need robust daily banking and English support, it ranks below ABN AMRO, ING, and Bunq.'
+- q: Can freelancers and ZZP expats open a business bank account?
+  a: Yes. KVK registration is typically required before a Dutch bank opens a business account for a ZZP (self-employed). Bunq has the fastest ZZP account opening (Easy Money, €9.99/month), followed by KNAB ZZP. ABN AMRO and ING require an in-person appointment. For ZZP expats in their first weeks (no KVK yet), using a Wise personal account to receive payments is common practice — just note that mixing personal and business income in Wise creates bookkeeping headaches.
 products:
-  - name: "Wise"
-    url: "https://go.expatnetherlandshub.com/wise?ref=/blog/best-banking-expats-netherlands-2026/"
-    price: "0.00"
-    tag: "International Transfers"
-  - name: "Revolut"
-    url: "https://go.expatnetherlandshub.com/revolut?ref=/blog/best-banking-expats-netherlands-2026/"
-    price: "0.00"
-    tag: "Multi-Currency Account"
-  - name: "N26"
-    url: "https://n26.com/en-eu"
-    price: "0.00"
-    tag: "Digital Banking"
+- name: Wise
+  url: https://go.expatnetherlandshub.com/wise?ref=/blog/best-banking-expats-netherlands-2026/
+  price: '0.00'
+  tag: International Transfers
+- name: Revolut
+  url: https://go.expatnetherlandshub.com/revolut?ref=/blog/best-banking-expats-netherlands-2026/
+  price: '0.00'
+  tag: Multi-Currency Account
+- name: N26
+  url: https://n26.com/en-eu
+  price: '0.00'
+  tag: Digital Banking
+schema_type: Article
 ---
 
 When I moved to the Netherlands in 2018, my Spanish bank charged me €2.50 every time I used an ATM in Amsterdam. Every time. On top of that, they added a 2.75% foreign transaction fee on every card purchase. I was going to the supermarket, the pharmacy, the bakery — all in euros, all somehow "foreign" to a bank in Madrid. In my first three months, I paid over €180 in fees for the privilege of using my own money in a country I now lived in.

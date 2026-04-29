@@ -1,40 +1,52 @@
 ---
-title: "Wise Review Netherlands 2026: Full Verdict"
-date: 2026-03-18T10:00:00+01:00
-lastmod: 2026-04-23T10:00:00+01:00
-description: "Full Wise review for expats in the Netherlands 2026. Belgian IBAN, real exchange rates, fees, savings, and comparison with ING, ABN AMRO, Revolut, bunq."
-categories: ["finance"]
-tags: ["Wise", "expat banking", "money transfer", "multi-currency account", "IBAN Netherlands"]
-keywords: ["wise review netherlands expat", "wise account netherlands", "wise iban netherlands", "wise vs ing expat", "wise vs revolut netherlands"]
+title: 'Wise Review Netherlands 2026: Full Verdict'
+date: 2026-03-18 10:00:00+01:00
+lastmod: 2026-04-23 10:00:00+01:00
+description: Full Wise review for expats in the Netherlands 2026. Belgian IBAN, real exchange rates, fees, savings, and comparison with ING, ABN AMRO, Revolut, bunq.
+categories:
+- finance
+tags:
+- Wise
+- expat banking
+- money transfer
+- multi-currency account
+- IBAN Netherlands
+keywords:
+- wise review netherlands expat
+- wise account netherlands
+- wise iban netherlands
+- wise vs ing expat
+- wise vs revolut netherlands
 affiliate: true
-author: "Sarah van den Berg"
-author_bio: "Expat coach and relocation specialist. Half Dutch, half British, living in the Netherlands for over 10 years."
-featured_image: "/images/categories/finance.svg"
+author: Sarah van den Berg
+author_bio: Expat coach and relocation specialist. Half Dutch, half British, living in the Netherlands for over 10 years.
+featured_image: /images/categories/finance.svg
 products:
-  - name: "Wise"
-    url: "https://go.expatnetherlandshub.com/wise?ref=/guides/finance/wise-review-expats-netherlands-2026/"
-    price: "0.00"
-  - name: "bunq"
-    url: "https://www.bunq.com/"
-    price: "2.99"
-  - name: "ING"
-    url: "https://www.ing.nl/particulier"
-    price: "0.00"
+- name: Wise
+  url: https://go.expatnetherlandshub.com/wise?ref=/guides/finance/wise-review-expats-netherlands-2026/
+  price: '0.00'
+- name: bunq
+  url: https://www.bunq.com/
+  price: '2.99'
+- name: ING
+  url: https://www.ing.nl/particulier
+  price: '0.00'
 faq:
-  - q: "What IBAN does Wise give you in the Netherlands?"
-    a: "Wise gives you a Belgian IBAN (BE prefix). This is significantly better for life in the Netherlands than Revolut's Lithuanian IBAN or N26's German IBAN. Belgian IBANs are accepted by most Dutch employers for salary payments, most landlords for rent, and most utility providers for direct debits. You will occasionally encounter a company that insists on a Dutch NL IBAN, but this is far less common with a BE IBAN than with LT or DE IBANs."
-  - q: "Can I use Wise as my primary bank account in the Netherlands?"
-    a: "For many expats, yes. Wise works well as a primary account for salary, rent, and everyday spending. The Belgian IBAN is accepted by most Dutch employers and service providers. The main gap is iDEAL: Wise does not support iDEAL, the dominant Dutch online payment method. For iDEAL payments (government websites, many Dutch webshops, tax payments) you will need a Dutch bank account or the Tikkie workaround. Many expats use Wise as primary plus a free ING or ABN AMRO account for iDEAL."
-  - q: "How does Wise make money if exchange rates are free?"
-    a: "Wise charges a small conversion fee (typically 0.35–0.65% depending on currency) every time you convert money between currencies. Holding balances in a currency and spending in that same currency has no exchange fee. Wise also charges a one-time card delivery fee and earns interest on pooled customer funds. There is no monthly account fee for the standard account."
-  - q: "Is Wise safe? Is my money protected?"
-    a: "Wise is regulated by De Nederlandsche Bank (DNB) in the Netherlands and the Financial Conduct Authority (FCA) in the UK. Wise is not a bank, which means your money is not covered by the Dutch Deposit Guarantee Scheme (DGS) for the first EUR 100,000 as it would be at ING or ABN AMRO. Instead, Wise holds customer funds separately from company funds in segregated accounts at regulated banks, providing protection against Wise becoming insolvent. For large amounts, this distinction matters."
-  - q: "Does Wise support Tikkie in the Netherlands?"
-    a: "Tikkie is a Dutch payment request app used constantly in social situations in the Netherlands — splitting restaurant bills, reimbursing friends, paying for sports clubs. Tikkie links to iDEAL, which means it requires a Dutch bank account to send and receive payments. Wise accounts do not support Tikkie. You can receive Tikkie payments via a workaround (some Dutch banks allow payment from foreign IBANs) but you cannot send Tikkie requests from a Wise account. For regular Tikkie use, you need a Dutch bank account."
-  - q: "What does Wise cost per month?"
-    a: "The standard Wise account has no monthly fee. You pay a one-time card delivery fee of around EUR 7. Currency conversion fees apply when you convert between currencies, typically 0.35–0.65%. Wise Assets (the interest-bearing savings feature) is free to use. The Wise Business account has a one-time account setup fee of EUR 45 in the Netherlands."
-  - q: "How does Wise compare to a Dutch bank account?"
-    a: "Dutch banks (ING, ABN AMRO, Rabobank) offer a Dutch NL IBAN, full iDEAL support, Tikkie integration, and ATM access throughout the Netherlands. Wise offers far better international money transfers, real exchange rates, multi-currency holding, and a debit card accepted worldwide. The ideal setup for most expats is both: Wise for international finances and a basic Dutch bank account for local Dutch payments."
+- q: What IBAN does Wise give you in the Netherlands?
+  a: Wise gives you a Belgian IBAN (BE prefix). This is significantly better for life in the Netherlands than Revolut's Lithuanian IBAN or N26's German IBAN. Belgian IBANs are accepted by most Dutch employers for salary payments, most landlords for rent, and most utility providers for direct debits. You will occasionally encounter a company that insists on a Dutch NL IBAN, but this is far less common with a BE IBAN than with LT or DE IBANs.
+- q: Can I use Wise as my primary bank account in the Netherlands?
+  a: 'For many expats, yes. Wise works well as a primary account for salary, rent, and everyday spending. The Belgian IBAN is accepted by most Dutch employers and service providers. The main gap is iDEAL: Wise does not support iDEAL, the dominant Dutch online payment method. For iDEAL payments (government websites, many Dutch webshops, tax payments) you will need a Dutch bank account or the Tikkie workaround. Many expats use Wise as primary plus a free ING or ABN AMRO account for iDEAL.'
+- q: How does Wise make money if exchange rates are free?
+  a: Wise charges a small conversion fee (typically 0.35–0.65% depending on currency) every time you convert money between currencies. Holding balances in a currency and spending in that same currency has no exchange fee. Wise also charges a one-time card delivery fee and earns interest on pooled customer funds. There is no monthly account fee for the standard account.
+- q: Is Wise safe? Is my money protected?
+  a: Wise is regulated by De Nederlandsche Bank (DNB) in the Netherlands and the Financial Conduct Authority (FCA) in the UK. Wise is not a bank, which means your money is not covered by the Dutch Deposit Guarantee Scheme (DGS) for the first EUR 100,000 as it would be at ING or ABN AMRO. Instead, Wise holds customer funds separately from company funds in segregated accounts at regulated banks, providing protection against Wise becoming insolvent. For large amounts, this distinction matters.
+- q: Does Wise support Tikkie in the Netherlands?
+  a: Tikkie is a Dutch payment request app used constantly in social situations in the Netherlands — splitting restaurant bills, reimbursing friends, paying for sports clubs. Tikkie links to iDEAL, which means it requires a Dutch bank account to send and receive payments. Wise accounts do not support Tikkie. You can receive Tikkie payments via a workaround (some Dutch banks allow payment from foreign IBANs) but you cannot send Tikkie requests from a Wise account. For regular Tikkie use, you need a Dutch bank account.
+- q: What does Wise cost per month?
+  a: The standard Wise account has no monthly fee. You pay a one-time card delivery fee of around EUR 7. Currency conversion fees apply when you convert between currencies, typically 0.35–0.65%. Wise Assets (the interest-bearing savings feature) is free to use. The Wise Business account has a one-time account setup fee of EUR 45 in the Netherlands.
+- q: How does Wise compare to a Dutch bank account?
+  a: 'Dutch banks (ING, ABN AMRO, Rabobank) offer a Dutch NL IBAN, full iDEAL support, Tikkie integration, and ATM access throughout the Netherlands. Wise offers far better international money transfers, real exchange rates, multi-currency holding, and a debit card accepted worldwide. The ideal setup for most expats is both: Wise for international finances and a basic Dutch bank account for local Dutch payments.'
+schema_type: Review
 ---
 
 I recommend Wise to almost every expat who asks me about banking in the Netherlands. I have been saying this for years, and I continue to say it in 2026 because the product has only improved while the competition has, in many cases, stood still.

@@ -1,11 +1,12 @@
 ---
-title: "Visa Check Netherlands 2026"
-description: "Which Dutch visa or residence permit do you need in 2026? Free tool — answer 5 questions about your nationality for an instant recommendation."
-type: "tools"
-layout: "single"
+title: Visa Check Netherlands 2026
+description: Which Dutch visa or residence permit do you need in 2026? Free tool — answer 5 questions about your nationality for an instant recommendation.
+type: tools
+layout: single
 affiliate: true
-author: "Sarah van den Berg"
-author_bio: "Expat coach and writer at ExpatNetherlandsHub.com"
+author: Sarah van den Berg
+author_bio: Expat coach and writer at ExpatNetherlandsHub.com
+schema_type: Article
 ---
 
 <script type="application/ld+json">

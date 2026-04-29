@@ -1,38 +1,49 @@
 ---
-title: "Dutch Public Holidays & Time Off 2026"
-date: 2026-06-03T10:00:00+01:00
-lastmod: 2026-04-23T10:00:00+01:00
-description: "All Dutch public holidays in 2026: dates, vacation entitlements, vakantiegeld, brugdagen, and how to plan time off strategically as an expat."
-categories: ["work"]
-tags: ["public holidays", "vacation", "vrije dagen", "employment", "work-life balance"]
-keywords: ["dutch public holidays 2026", "netherlands holidays expat", "vacation days netherlands", "how many holidays netherlands"]
+title: Dutch Public Holidays & Time Off 2026
+date: 2026-06-03 10:00:00+01:00
+lastmod: 2026-04-23 10:00:00+01:00
+description: 'All Dutch public holidays in 2026: dates, vacation entitlements, vakantiegeld, brugdagen, and how to plan time off strategically as an expat.'
+categories:
+- work
+tags:
+- public holidays
+- vacation
+- vrije dagen
+- employment
+- work-life balance
+keywords:
+- dutch public holidays 2026
+- netherlands holidays expat
+- vacation days netherlands
+- how many holidays netherlands
 affiliate: false
 products:
-  - name: "LinkedIn Premium"
-    url: "https://www.linkedin.com/premium/"
-    price: "29.99"
-  - name: "Undutchables"
-    url: "https://undutchables.nl/"
-    price: "0.00"
-  - name: "Together Abroad"
-    url: "https://www.togetherabroad.nl/"
-    price: "0.00"
-author: "Sarah van den Berg"
-author_bio: "Expat coach and relocation specialist. Half Dutch, half British, living in the Netherlands for over 10 years."
-featured_image: "/images/categories/work.svg"
+- name: LinkedIn Premium
+  url: https://www.linkedin.com/premium/
+  price: '29.99'
+- name: Undutchables
+  url: https://undutchables.nl/
+  price: '0.00'
+- name: Together Abroad
+  url: https://www.togetherabroad.nl/
+  price: '0.00'
+author: Sarah van den Berg
+author_bio: Expat coach and relocation specialist. Half Dutch, half British, living in the Netherlands for over 10 years.
+featured_image: /images/categories/work.svg
 faq:
-  - q: "How many public holidays are there in the Netherlands in 2026?"
-    a: "There are 11 official public holidays in 2026 (including both days of Easter and Christmas). However, Bevrijdingsdag (Liberation Day, 5 May) is only a public holiday once every 5 years for most employees — in 2026 it is a full public holiday for everyone. Not all employers are legally required to close on every holiday, so check your employment contract."
-  - q: "How many vacation days are Dutch employees entitled to by law?"
-    a: "The legal minimum in the Netherlands is 20 vacation days per year, based on a 5-day working week (4 times the weekly working hours). In practice, most companies offer 25 days, and many offer 26-30 days. Part-time workers receive a proportional amount based on their contracted hours."
-  - q: "What is vakantiegeld and when is it paid?"
-    a: "Vakantiegeld (holiday allowance) is a mandatory 8% bonus on top of your gross annual salary, paid out as a lump sum each May. On a gross salary of EUR 4,000 per month, that is roughly EUR 3,840 gross in a single May payment. It is separate from your vacation days — it is extra money to help you pay for your holiday, not a substitute for paid leave."
-  - q: "What is a brugdag in the Netherlands?"
-    a: "A brugdag (bridge day) is a working day between a public holiday and the weekend that most Dutch employees take off, effectively creating a 4-day weekend. For example, if Hemelvaart (Ascension Day) falls on Thursday, many employers give employees Friday off as a brugdag too. Some companies include brugdagen automatically in the calendar; others require you to use a vacation day."
-  - q: "What happens to unused vacation days in the Netherlands?"
-    a: "Wettelijke vakantiedagen (statutory days — the legal 20) expire 6 months after the calendar year ends, so by 1 July of the following year. Bovenwettelijke vakantiedagen (extra days above the legal minimum) typically expire after 5 years. Unused days should be used, paid out at the end of your contract, or officially carried over — your employer cannot simply cancel them."
-  - q: "Do I get vacation days during probation in the Netherlands?"
-    a: "Yes. You accrue vacation days from your very first day of employment, including during the proeftijd (probation period). You typically cannot take vacation during probation without employer agreement, but you are building up your entitlement from day one."
+- q: How many public holidays are there in the Netherlands in 2026?
+  a: There are 11 official public holidays in 2026 (including both days of Easter and Christmas). However, Bevrijdingsdag (Liberation Day, 5 May) is only a public holiday once every 5 years for most employees — in 2026 it is a full public holiday for everyone. Not all employers are legally required to close on every holiday, so check your employment contract.
+- q: How many vacation days are Dutch employees entitled to by law?
+  a: The legal minimum in the Netherlands is 20 vacation days per year, based on a 5-day working week (4 times the weekly working hours). In practice, most companies offer 25 days, and many offer 26-30 days. Part-time workers receive a proportional amount based on their contracted hours.
+- q: What is vakantiegeld and when is it paid?
+  a: Vakantiegeld (holiday allowance) is a mandatory 8% bonus on top of your gross annual salary, paid out as a lump sum each May. On a gross salary of EUR 4,000 per month, that is roughly EUR 3,840 gross in a single May payment. It is separate from your vacation days — it is extra money to help you pay for your holiday, not a substitute for paid leave.
+- q: What is a brugdag in the Netherlands?
+  a: A brugdag (bridge day) is a working day between a public holiday and the weekend that most Dutch employees take off, effectively creating a 4-day weekend. For example, if Hemelvaart (Ascension Day) falls on Thursday, many employers give employees Friday off as a brugdag too. Some companies include brugdagen automatically in the calendar; others require you to use a vacation day.
+- q: What happens to unused vacation days in the Netherlands?
+  a: Wettelijke vakantiedagen (statutory days — the legal 20) expire 6 months after the calendar year ends, so by 1 July of the following year. Bovenwettelijke vakantiedagen (extra days above the legal minimum) typically expire after 5 years. Unused days should be used, paid out at the end of your contract, or officially carried over — your employer cannot simply cancel them.
+- q: Do I get vacation days during probation in the Netherlands?
+  a: Yes. You accrue vacation days from your very first day of employment, including during the proeftijd (probation period). You typically cannot take vacation during probation without employer agreement, but you are building up your entitlement from day one.
+schema_type: Article
 ---
 
 I remember my first spring in the Netherlands. A Dutch colleague leaned over my desk on a Wednesday afternoon in April and said: "Big plans for the long weekend?" I had no idea what she was talking about. I did not know that Goede Vrijdag was a day off. I did not know about Hemelvaart, or about brugdagen, or about the fact that May was essentially one long patchwork of public holidays that somehow kept creating four-day weekends.

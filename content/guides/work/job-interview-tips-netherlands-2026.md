@@ -1,34 +1,49 @@
 ---
-title: "Job Interviews in the Netherlands: Expat Guide 2026"
-date: 2026-03-19T10:00:00+01:00
-lastmod: 2026-04-23T10:00:00+01:00
-description: "Job interview guide for expats in the Netherlands. Dutch interview culture, common questions, what to wear, salary negotiation, and how many rounds to expect."
-categories: ["work"]
-tags: ["job interview", "Dutch interview", "expat jobs", "work culture", "career Netherlands"]
-keywords: ["job interview tips Netherlands", "Dutch job interview expat", "interview culture Netherlands", "salary negotiation Netherlands expat", "Dutch workplace culture interview", "what to wear job interview Netherlands", "expat job search Netherlands 2026", "30 percent ruling salary negotiation"]
+title: 'Job Interviews in the Netherlands: Expat Guide 2026'
+date: 2026-03-19 10:00:00+01:00
+lastmod: 2026-04-23 10:00:00+01:00
+description: Job interview guide for expats in the Netherlands. Dutch interview culture, common questions, what to wear, salary negotiation, and how many rounds to expect.
+categories:
+- work
+tags:
+- job interview
+- Dutch interview
+- expat jobs
+- work culture
+- career Netherlands
+keywords:
+- job interview tips Netherlands
+- Dutch job interview expat
+- interview culture Netherlands
+- salary negotiation Netherlands expat
+- Dutch workplace culture interview
+- what to wear job interview Netherlands
+- expat job search Netherlands 2026
+- 30 percent ruling salary negotiation
 affiliate: false
 products:
-  - name: "LinkedIn Premium"
-    url: "https://www.linkedin.com/premium/"
-    price: "29.99"
-  - name: "Undutchables"
-    url: "https://undutchables.nl/"
-    price: "0.00"
-  - name: "Together Abroad"
-    url: "https://www.togetherabroad.nl/"
-    price: "0.00"
-author: "Sarah van den Berg"
-author_bio: "Expat coach and relocation specialist. Half Dutch, half British, living in the Netherlands for over 10 years."
-featured_image: "/images/featured/job-interview-tips-netherlands-2026.webp"
+- name: LinkedIn Premium
+  url: https://www.linkedin.com/premium/
+  price: '29.99'
+- name: Undutchables
+  url: https://undutchables.nl/
+  price: '0.00'
+- name: Together Abroad
+  url: https://www.togetherabroad.nl/
+  price: '0.00'
+author: Sarah van den Berg
+author_bio: Expat coach and relocation specialist. Half Dutch, half British, living in the Netherlands for over 10 years.
+featured_image: /images/featured/job-interview-tips-netherlands-2026.webp
 faq:
-  - q: "How many rounds of interviews should I expect in the Netherlands?"
-    a: "Most Dutch employers run two to three rounds. The first is typically a short introductory call or video interview (30–45 minutes) to check basic fit. If that goes well, you'll be invited for a longer in-person interview, often with two or three people. Senior or specialist roles frequently add a third round, which might include a case study, presentation or an assessment day. Some larger companies — especially in finance, consulting or tech — also use online cognitive or personality tests between rounds. Build at least two to three weeks into your timeline from first contact to offer."
-  - q: "Is it acceptable to ask about salary in a Dutch job interview?"
-    a: "Yes, and Dutch employers generally expect it. Salary is not considered a taboo topic the way it can be in some cultures. The Dutch tend to be direct about compensation, and asking early in the process saves everyone time. It helps to have done your homework — use a tool like our salary checker to understand the market rate for your role. If you qualify for the 30% ruling, mention it: it affects your net take-home significantly and some employers factor it into package discussions. Aim to discuss a range rather than a fixed number in the first conversation."
-  - q: "Should I speak Dutch in a job interview in the Netherlands?"
-    a: "It depends on the company and role. Many international companies and tech firms conduct interviews entirely in English and do not require Dutch at all. However, if the job posting was in Dutch, the team is primarily Dutch-speaking, or the role involves client contact in Dutch, you should expect at least part of the interview to be in Dutch. Being honest about your current language level is far better than overstating it — Dutch employers value directness and they will find out quickly enough. If Dutch is relevant, consider mentioning any courses you are taking or your plan to improve."
-  - q: "What are the biggest mistakes expats make in Dutch job interviews?"
-    a: "The most common mistakes I see are: overselling yourself with grand, vague statements (Dutch culture strongly disfavours boasting — use specific, factual examples instead); being too formal or stiff (Dutch interviews are direct but also informal — relax, use first names); failing to ask questions (not asking anything signals a lack of genuine interest); ignoring work-life balance questions (Dutch employers ask these seriously and expect honest answers); and being unprepared for salary discussions (know your number and the 30% ruling before you walk in). Also, turning up in a formal suit when smart casual was expected, or vice versa, can create an awkward first impression — always check the company culture beforehand."
+- q: How many rounds of interviews should I expect in the Netherlands?
+  a: Most Dutch employers run two to three rounds. The first is typically a short introductory call or video interview (30–45 minutes) to check basic fit. If that goes well, you'll be invited for a longer in-person interview, often with two or three people. Senior or specialist roles frequently add a third round, which might include a case study, presentation or an assessment day. Some larger companies — especially in finance, consulting or tech — also use online cognitive or personality tests between rounds. Build at least two to three weeks into your timeline from first contact to offer.
+- q: Is it acceptable to ask about salary in a Dutch job interview?
+  a: 'Yes, and Dutch employers generally expect it. Salary is not considered a taboo topic the way it can be in some cultures. The Dutch tend to be direct about compensation, and asking early in the process saves everyone time. It helps to have done your homework — use a tool like our salary checker to understand the market rate for your role. If you qualify for the 30% ruling, mention it: it affects your net take-home significantly and some employers factor it into package discussions. Aim to discuss a range rather than a fixed number in the first conversation.'
+- q: Should I speak Dutch in a job interview in the Netherlands?
+  a: It depends on the company and role. Many international companies and tech firms conduct interviews entirely in English and do not require Dutch at all. However, if the job posting was in Dutch, the team is primarily Dutch-speaking, or the role involves client contact in Dutch, you should expect at least part of the interview to be in Dutch. Being honest about your current language level is far better than overstating it — Dutch employers value directness and they will find out quickly enough. If Dutch is relevant, consider mentioning any courses you are taking or your plan to improve.
+- q: What are the biggest mistakes expats make in Dutch job interviews?
+  a: 'The most common mistakes I see are: overselling yourself with grand, vague statements (Dutch culture strongly disfavours boasting — use specific, factual examples instead); being too formal or stiff (Dutch interviews are direct but also informal — relax, use first names); failing to ask questions (not asking anything signals a lack of genuine interest); ignoring work-life balance questions (Dutch employers ask these seriously and expect honest answers); and being unprepared for salary discussions (know your number and the 30% ruling before you walk in). Also, turning up in a formal suit when smart casual was expected, or vice versa, can create an awkward first impression — always check the company culture beforehand.'
+schema_type: Article
 ---
 
 A client of mine — I'll call her Priya — arrived in Amsterdam from Mumbai with eight years of project management experience, excellent English, and the kind of CV that should have opened doors immediately. Her first Dutch job interview did not go well. Not because she was underqualified. Not because of language. It went badly because she spent fifteen minutes telling the panel how exceptional she was, listing achievements with the kind of polished confidence she had always been told to project.

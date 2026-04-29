@@ -1,38 +1,51 @@
 ---
-title: "Dutch Inheritance Law for Expats 2026"
-date: 2026-06-29T10:00:00+01:00
-lastmod: 2026-04-23T10:00:00+01:00
-description: "Dutch inheritance law for expats: erfrecht, wettelijke verdeling, writing a testament, cross-border inheritance rules, and legitieme portie explained."
-categories: ["legal"]
-tags: ["dutch inheritance law", "erfrecht netherlands", "will in netherlands", "testament notaris netherlands", "cross border inheritance expats", "EU succession regulation"]
-keywords: ["dutch inheritance law expats", "writing a will in netherlands", "testament netherlands expat", "EU succession regulation netherlands", "erfrecht wettelijke verdeling expats"]
+title: Dutch Inheritance Law for Expats 2026
+date: 2026-06-29 10:00:00+01:00
+lastmod: 2026-04-23 10:00:00+01:00
+description: 'Dutch inheritance law for expats: erfrecht, wettelijke verdeling, writing a testament, cross-border inheritance rules, and legitieme portie explained.'
+categories:
+- legal
+tags:
+- dutch inheritance law
+- erfrecht netherlands
+- will in netherlands
+- testament notaris netherlands
+- cross border inheritance expats
+- EU succession regulation
+keywords:
+- dutch inheritance law expats
+- writing a will in netherlands
+- testament netherlands expat
+- EU succession regulation netherlands
+- erfrecht wettelijke verdeling expats
 affiliate: false
 products:
-  - name: "Expatax"
-    url: "https://www.expatax.nl/"
-    price: "0.00"
-  - name: "Blue Umbrella"
-    url: "https://www.blueumbrella.nl/"
-    price: "0.00"
-  - name: "IND"
-    url: "https://ind.nl/en"
-    price: "0.00"
-author: "Sarah van den Berg"
-author_bio: "Expat coach and relocation specialist. Half Dutch, half British, living in the Netherlands for over 10 years."
-featured_image: "/images/categories/legal.svg"
+- name: Expatax
+  url: https://www.expatax.nl/
+  price: '0.00'
+- name: Blue Umbrella
+  url: https://www.blueumbrella.nl/
+  price: '0.00'
+- name: IND
+  url: https://ind.nl/en
+  price: '0.00'
+author: Sarah van den Berg
+author_bio: Expat coach and relocation specialist. Half Dutch, half British, living in the Netherlands for over 10 years.
+featured_image: /images/categories/legal.svg
 faq:
-  - q: "What happens if I die in the Netherlands without a will?"
-    a: "If you die in the Netherlands without a will (intestaat), Dutch inheritance law (erfrecht) applies by default. Under the wettelijke verdeling (statutory division), your surviving spouse or registered partner and all children inherit equally, but the surviving partner receives all assets for the duration of their lifetime (or until remarriage). Children receive a claim (vordering) that only becomes payable upon the surviving parent's death or bankruptcy. If you have no partner or children, inheritance goes to parents, then siblings, then more distant relatives in a legally set order."
-  - q: "Do I need a Dutch notaris to make a will in the Netherlands?"
-    a: "Yes. In the Netherlands, a valid will (testament) must be drawn up and certified by a licensed Dutch notaris (civil law notary). Handwritten or typed wills signed by witnesses — valid in some countries — are not recognised in the Netherlands. The notaris drafts the will, reads it aloud to you, and registers it in the Central Will Register (Centraal Testamentenregister, CTR). The cost of drafting a basic will is typically €150-400 per person."
-  - q: "Which country's law governs the inheritance of my estate as an expat?"
-    a: "Under the EU Succession Regulation (Brussels IV, applicable since 2015), the default rule is that the law of the country where you were habitually resident at the time of death governs your entire estate. If you live in the Netherlands, Dutch law applies unless you have made a choice of law declaration in your will selecting the law of your nationality. This choice is available to EU citizens and can significantly affect how your estate is distributed."
-  - q: "What is the legitieme portie and can it be avoided?"
-    a: "The legitieme portie (legitimate share) is the minimum inheritance right of children under Dutch law. Regardless of what your will says, each child has a right to receive at least half of what they would have received under intestacy rules. This right exists as a cash claim against the estate — children with a legitieme portie right cannot be entirely disinherited. Partners (spouses, registered partners) do not have a legitieme portie under Dutch law."
-  - q: "How does Dutch inheritance tax work for expats?"
-    a: "Dutch erfbelasting (inheritance tax) applies when the deceased was a Dutch tax resident, or when the heir is a Dutch tax resident (in some situations). Rates depend on the relationship between deceased and heir. Partners pay 10% on amounts above €795,156 (the partner exemption in 2026 is very high — approximately €795,156). Children pay 10-20% depending on amount inherited, with an exemption of approximately €23,338. More distant relatives or non-relatives pay 30-40%. Non-Dutch assets may also be subject to inheritance tax in the relevant country — dual taxation can occur."
-  - q: "Can I choose which country's law governs my Dutch estate?"
-    a: "Under EU Succession Regulation Article 22, you can choose the law of your nationality to govern your entire estate. This choice must be made explicitly in your will. For example, a British national (post-Brexit: UK law applies as a third-country national choice under the Regulation's framework, though this is complex post-Brexit) or a German national living in the Netherlands can choose German law to govern their inheritance instead of Dutch law. This can be strategically important when your home country's law is more favourable for your circumstances."
+- q: What happens if I die in the Netherlands without a will?
+  a: If you die in the Netherlands without a will (intestaat), Dutch inheritance law (erfrecht) applies by default. Under the wettelijke verdeling (statutory division), your surviving spouse or registered partner and all children inherit equally, but the surviving partner receives all assets for the duration of their lifetime (or until remarriage). Children receive a claim (vordering) that only becomes payable upon the surviving parent's death or bankruptcy. If you have no partner or children, inheritance goes to parents, then siblings, then more distant relatives in a legally set order.
+- q: Do I need a Dutch notaris to make a will in the Netherlands?
+  a: Yes. In the Netherlands, a valid will (testament) must be drawn up and certified by a licensed Dutch notaris (civil law notary). Handwritten or typed wills signed by witnesses — valid in some countries — are not recognised in the Netherlands. The notaris drafts the will, reads it aloud to you, and registers it in the Central Will Register (Centraal Testamentenregister, CTR). The cost of drafting a basic will is typically €150-400 per person.
+- q: Which country's law governs the inheritance of my estate as an expat?
+  a: Under the EU Succession Regulation (Brussels IV, applicable since 2015), the default rule is that the law of the country where you were habitually resident at the time of death governs your entire estate. If you live in the Netherlands, Dutch law applies unless you have made a choice of law declaration in your will selecting the law of your nationality. This choice is available to EU citizens and can significantly affect how your estate is distributed.
+- q: What is the legitieme portie and can it be avoided?
+  a: The legitieme portie (legitimate share) is the minimum inheritance right of children under Dutch law. Regardless of what your will says, each child has a right to receive at least half of what they would have received under intestacy rules. This right exists as a cash claim against the estate — children with a legitieme portie right cannot be entirely disinherited. Partners (spouses, registered partners) do not have a legitieme portie under Dutch law.
+- q: How does Dutch inheritance tax work for expats?
+  a: Dutch erfbelasting (inheritance tax) applies when the deceased was a Dutch tax resident, or when the heir is a Dutch tax resident (in some situations). Rates depend on the relationship between deceased and heir. Partners pay 10% on amounts above €795,156 (the partner exemption in 2026 is very high — approximately €795,156). Children pay 10-20% depending on amount inherited, with an exemption of approximately €23,338. More distant relatives or non-relatives pay 30-40%. Non-Dutch assets may also be subject to inheritance tax in the relevant country — dual taxation can occur.
+- q: Can I choose which country's law governs my Dutch estate?
+  a: 'Under EU Succession Regulation Article 22, you can choose the law of your nationality to govern your entire estate. This choice must be made explicitly in your will. For example, a British national (post-Brexit: UK law applies as a third-country national choice under the Regulation''s framework, though this is complex post-Brexit) or a German national living in the Netherlands can choose German law to govern their inheritance instead of Dutch law. This can be strategically important when your home country''s law is more favourable for your circumstances.'
+schema_type: Article
 ---
 
 Making a will is one of those tasks that every adult should do and almost nobody does until something forces the issue. For expats in the Netherlands, it is even more important than for locals — because your estate may span multiple countries, different legal systems, and involve family members who have no knowledge of Dutch law whatsoever.

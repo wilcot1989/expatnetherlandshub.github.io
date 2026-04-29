@@ -1,40 +1,53 @@
 ---
-title: "Moving to Amsterdam 2026: The Complete Expat Guide"
-date: 2026-03-06T10:00:00+01:00
-lastmod: 2026-04-23T10:00:00+01:00
-description: "Everything you need to know about moving to Amsterdam in 2026. Housing, neighborhoods, registration, costs, transport, and practical tips for expats."
-categories: ["relocation"]
-tags: ["amsterdam", "moving to amsterdam", "amsterdam expat", "amsterdam neighborhoods", "amsterdam housing", "relocation"]
-keywords: ["moving to amsterdam", "amsterdam expat guide", "living in amsterdam", "amsterdam relocation", "amsterdam neighborhoods expats"]
+title: 'Moving to Amsterdam 2026: The Complete Expat Guide'
+date: 2026-03-06 10:00:00+01:00
+lastmod: 2026-04-23 10:00:00+01:00
+description: Everything you need to know about moving to Amsterdam in 2026. Housing, neighborhoods, registration, costs, transport, and practical tips for expats.
+categories:
+- relocation
+tags:
+- amsterdam
+- moving to amsterdam
+- amsterdam expat
+- amsterdam neighborhoods
+- amsterdam housing
+- relocation
+keywords:
+- moving to amsterdam
+- amsterdam expat guide
+- living in amsterdam
+- amsterdam relocation
+- amsterdam neighborhoods expats
 affiliate: true
-author: "Sarah van den Berg"
-author_bio: "Expat coach and relocation specialist. Half Dutch, half British, living in the Netherlands for over 10 years."
-featured_image: "/images/featured/moving-to-amsterdam-guide-2026.webp"
+author: Sarah van den Berg
+author_bio: Expat coach and relocation specialist. Half Dutch, half British, living in the Netherlands for over 10 years.
+featured_image: /images/featured/moving-to-amsterdam-guide-2026.webp
 faq:
-  - q: "How much does it cost to live in Amsterdam?"
-    a: "A single expat should budget approximately EUR 2,200-3,500 per month excluding rent. Rent for a one-bedroom apartment ranges from EUR 1,200-2,000 in the city center and EUR 900-1,500 outside the center. A couple should budget EUR 3,000-5,000 per month excluding rent. These figures include health insurance, groceries, transport, and utilities."
-  - q: "What are the best neighborhoods in Amsterdam for expats?"
-    a: "The most popular neighborhoods for expats are De Pijp (vibrant, multicultural), Oud-Zuid (upscale, near Vondelpark), Jordaan (charming, central), Amsterdam-Oost (trendy, growing), and Amstelveen (suburban, international schools). Your best fit depends on budget, lifestyle, and whether you have children."
-  - q: "Do I need to speak Dutch to live in Amsterdam?"
-    a: "No, Amsterdam is one of the most English-friendly cities in Europe. Nearly everyone speaks English, and most business in the international sector is conducted in English. However, learning Dutch improves your social life, career prospects, and integration significantly. Many expats manage fine with English only."
-  - q: "How do I register at the gemeente in Amsterdam?"
-    a: "You must register at the gemeente (municipality) of Amsterdam within 5 days of arriving. Make an appointment online at amsterdam.nl. Bring your passport, rental contract or proof of address, and birth certificate (apostilled). At registration, you receive your BSN (citizen service number), which you need for banking, health insurance, and employment."
-  - q: "Is Amsterdam a good city for expats?"
-    a: "Amsterdam consistently ranks among the best cities in Europe for expats. The city offers excellent infrastructure, a thriving international community, high quality of life, and easy access to the rest of Europe. The main challenges are housing costs (among the highest in Europe), weather, and the difficulty of forming deep friendships with Dutch locals."
-  - q: "How do I find housing in Amsterdam?"
-    a: "Finding housing in Amsterdam is competitive. Use platforms like Funda, Pararius, and Kamernet. Consider hiring a relocation agent (typical fee is one month's rent). Start searching 4-6 weeks before your move. Be prepared to act quickly: good apartments are rented within days. Budget at least EUR 1,200-1,800 per month for a one-bedroom apartment."
-  - q: "What is the best time to move to Amsterdam?"
-    a: "Spring (April-May) and late summer (August-September) are the most popular times. The housing market is slightly less competitive in winter (November-February), which can be advantageous. If you have children, aim to arrive before the school year starts in late August or early September."
+- q: How much does it cost to live in Amsterdam?
+  a: A single expat should budget approximately EUR 2,200-3,500 per month excluding rent. Rent for a one-bedroom apartment ranges from EUR 1,200-2,000 in the city center and EUR 900-1,500 outside the center. A couple should budget EUR 3,000-5,000 per month excluding rent. These figures include health insurance, groceries, transport, and utilities.
+- q: What are the best neighborhoods in Amsterdam for expats?
+  a: The most popular neighborhoods for expats are De Pijp (vibrant, multicultural), Oud-Zuid (upscale, near Vondelpark), Jordaan (charming, central), Amsterdam-Oost (trendy, growing), and Amstelveen (suburban, international schools). Your best fit depends on budget, lifestyle, and whether you have children.
+- q: Do I need to speak Dutch to live in Amsterdam?
+  a: No, Amsterdam is one of the most English-friendly cities in Europe. Nearly everyone speaks English, and most business in the international sector is conducted in English. However, learning Dutch improves your social life, career prospects, and integration significantly. Many expats manage fine with English only.
+- q: How do I register at the gemeente in Amsterdam?
+  a: You must register at the gemeente (municipality) of Amsterdam within 5 days of arriving. Make an appointment online at amsterdam.nl. Bring your passport, rental contract or proof of address, and birth certificate (apostilled). At registration, you receive your BSN (citizen service number), which you need for banking, health insurance, and employment.
+- q: Is Amsterdam a good city for expats?
+  a: Amsterdam consistently ranks among the best cities in Europe for expats. The city offers excellent infrastructure, a thriving international community, high quality of life, and easy access to the rest of Europe. The main challenges are housing costs (among the highest in Europe), weather, and the difficulty of forming deep friendships with Dutch locals.
+- q: How do I find housing in Amsterdam?
+  a: 'Finding housing in Amsterdam is competitive. Use platforms like Funda, Pararius, and Kamernet. Consider hiring a relocation agent (typical fee is one month''s rent). Start searching 4-6 weeks before your move. Be prepared to act quickly: good apartments are rented within days. Budget at least EUR 1,200-1,800 per month for a one-bedroom apartment.'
+- q: What is the best time to move to Amsterdam?
+  a: Spring (April-May) and late summer (August-September) are the most popular times. The housing market is slightly less competitive in winter (November-February), which can be advantageous. If you have children, aim to arrive before the school year starts in late August or early September.
 products:
-  - name: "HousingAnywhere"
-    url: "https://housinganywhere.com/"
-    price: "0.00"
-  - name: "Pararius"
-    url: "https://www.pararius.com/"
-    price: "0.00"
-  - name: "Funda"
-    url: "https://www.funda.nl/"
-    price: "0.00"
+- name: HousingAnywhere
+  url: https://housinganywhere.com/
+  price: '0.00'
+- name: Pararius
+  url: https://www.pararius.com/
+  price: '0.00'
+- name: Funda
+  url: https://www.funda.nl/
+  price: '0.00'
+schema_type: Article
 ---
 
 Amsterdam is where I landed when I first moved to the Netherlands, and I have a complicated relationship with it. I love the canals, the energy, the fact that you can cycle everywhere. I do not love the housing prices, the tourist crowds in the Centrum, or the time I spent three months looking for an apartment and nearly gave up. But there is a reason most expats are drawn here, and once you are settled, it is a brilliant city to call home. Here is the honest guide I wish I had when I arrived.

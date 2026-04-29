@@ -1,40 +1,53 @@
 ---
-title: "Pregnancy & Maternity Care in NL: Expat Guide"
-date: 2026-03-18T10:00:00+01:00
-lastmod: 2026-04-23T10:00:00+01:00
-description: "How pregnancy and maternity care works in the Netherlands for expats: midwife system, kraamzorg, costs, home birth, hospital birth, and what to expect."
-categories: ["health"]
-tags: ["pregnancy netherlands", "maternity care", "verloskundige", "kraamzorg", "expat pregnancy", "dutch midwife"]
-keywords: ["pregnancy netherlands expat", "maternity care netherlands", "verloskundige expat", "kraamzorg explained", "dutch midwife system expat guide"]
+title: 'Pregnancy & Maternity Care in NL: Expat Guide'
+date: 2026-03-18 10:00:00+01:00
+lastmod: 2026-04-23 10:00:00+01:00
+description: 'How pregnancy and maternity care works in the Netherlands for expats: midwife system, kraamzorg, costs, home birth, hospital birth, and what to expect.'
+categories:
+- health
+tags:
+- pregnancy netherlands
+- maternity care
+- verloskundige
+- kraamzorg
+- expat pregnancy
+- dutch midwife
+keywords:
+- pregnancy netherlands expat
+- maternity care netherlands
+- verloskundige expat
+- kraamzorg explained
+- dutch midwife system expat guide
 affiliate: true
 products:
-  - name: "SafetyWing"
-    url: "https://go.expatnetherlandshub.com/safetywing?ref=/guides/health/pregnancy-maternity-care-netherlands-expats-2026/"
-    price: "45.08"
-  - name: "CZ"
-    url: "https://www.cz.nl/"
-    price: "0.00"
-  - name: "Zilveren Kruis"
-    url: "https://www.zilverenkruis.nl/"
-    price: "0.00"
-author: "Sarah van den Berg"
-author_bio: "Expat coach and relocation specialist. Half Dutch, half British, living in the Netherlands for over 10 years."
-featured_image: "/images/categories/health.svg"
+- name: SafetyWing
+  url: https://go.expatnetherlandshub.com/safetywing?ref=/guides/health/pregnancy-maternity-care-netherlands-expats-2026/
+  price: '45.08'
+- name: CZ
+  url: https://www.cz.nl/
+  price: '0.00'
+- name: Zilveren Kruis
+  url: https://www.zilverenkruis.nl/
+  price: '0.00'
+author: Sarah van den Berg
+author_bio: Expat coach and relocation specialist. Half Dutch, half British, living in the Netherlands for over 10 years.
+featured_image: /images/categories/health.svg
 faq:
-  - q: "Do I need a doctor or a midwife for pregnancy in the Netherlands?"
-    a: "In the Netherlands, a registered midwife (verloskundige) is the primary care provider for low-risk pregnancies, not an obstetrician or GP. You register directly with a midwife practice at around 8-10 weeks, and the midwife leads all your prenatal appointments, birth preparation, and postpartum monitoring. A gynecologist (gynaecoloog) is only involved if medical complications arise or if you are classified as high-risk. This is a deliberate policy choice unique in Europe."
-  - q: "Is the midwife (verloskundige) covered by Dutch health insurance?"
-    a: "Yes. Midwife-led care for low-risk pregnancies is part of the basic health insurance package (basisverzekering) and is fully covered with no eigen risico (deductible) applied. Prenatal consultations, scans managed by the midwife practice, and the birth itself are covered. The separate NIPT test for chromosomal screening costs approximately EUR 175 and is not covered by basic insurance, though some supplementary plans include a contribution."
-  - q: "What is kraamzorg and is it really free?"
-    a: "Kraamzorg is postnatal home care provided by a trained kraamverzorgende (maternity nurse) who comes to your home for approximately 8 days after birth — typically 8 hours per day. This includes newborn care, feeding support, monitoring your recovery, and light household help. Kraamzorg is covered by the basisverzekering. You pay only a small personal contribution (eigen bijdrage) currently set at approximately EUR 4.80 per hour, for a maximum of 80 hours total. Book well in advance — demand often exceeds supply, especially in urban areas."
-  - q: "Can I have a hospital birth instead of a home birth in the Netherlands?"
-    a: "Yes. Around 60-65% of births in the Netherlands now take place in a hospital or birthing centre (polykliniek), up from lower figures in earlier decades. Home birth remains an option and accounts for approximately 13% of births — still the highest rate in Europe. A birthing centre or polykliniek is a middle option: a hospital-based setting managed by midwives rather than obstetricians, with medical backup available if needed. Discuss your preferences with your verloskundige early — some practices have stronger home birth cultures than others."
-  - q: "What prenatal tests are offered in the Netherlands?"
-    a: "The standard prenatal screening package includes: the first-trimester ultrasound (between weeks 11-13, dating and nuchal translucency), the 20-week structural anomaly scan (uitgebreid onderzoek/GUO), and a blood test at booking. The NIPT (Non-Invasive Prenatal Test) for chromosomal conditions including Down syndrome is offered to all pregnant women in the Netherlands since 2023 and costs approximately EUR 175 unless covered by supplementary insurance or if indicated medically. The Combinatietest (first trimester blood test + nuchal scan) is an older alternative."
-  - q: "What does it cost to have a baby in the Netherlands as an expat?"
-    a: "For a low-risk pregnancy and birth in the Netherlands, your out-of-pocket costs are relatively low. Midwife care: fully covered. Scans at the midwife practice: covered. Hospital birth with medical indication: covered. Kraamzorg personal contribution: approximately EUR 384 (EUR 4.80 x 80 hours). NIPT test: approximately EUR 175 (optional, not covered by basic insurance). Supplementary insurance that covers NIPT and additional dental/physio during pregnancy: EUR 10-40/month. Total typical out-of-pocket: EUR 500-800 for a low-risk, uncomplicated pregnancy."
-  - q: "How do I register a birth in the Netherlands?"
-    a: "You must register the birth at the municipality (gemeente) where the birth took place, within 3 working days. In practice, hospitals often facilitate registration directly with the gemeente. You will need: proof of identity, your marriage certificate (if applicable, with a certified translation), and the hospital's birth declaration form. You will receive a birth certificate (geboorteakte) which you need for BSN registration for the baby, family health insurance, child benefit (kinderbijslag), and childcare allowance (kinderopvangtoeslag) applications."
+- q: Do I need a doctor or a midwife for pregnancy in the Netherlands?
+  a: In the Netherlands, a registered midwife (verloskundige) is the primary care provider for low-risk pregnancies, not an obstetrician or GP. You register directly with a midwife practice at around 8-10 weeks, and the midwife leads all your prenatal appointments, birth preparation, and postpartum monitoring. A gynecologist (gynaecoloog) is only involved if medical complications arise or if you are classified as high-risk. This is a deliberate policy choice unique in Europe.
+- q: Is the midwife (verloskundige) covered by Dutch health insurance?
+  a: Yes. Midwife-led care for low-risk pregnancies is part of the basic health insurance package (basisverzekering) and is fully covered with no eigen risico (deductible) applied. Prenatal consultations, scans managed by the midwife practice, and the birth itself are covered. The separate NIPT test for chromosomal screening costs approximately EUR 175 and is not covered by basic insurance, though some supplementary plans include a contribution.
+- q: What is kraamzorg and is it really free?
+  a: Kraamzorg is postnatal home care provided by a trained kraamverzorgende (maternity nurse) who comes to your home for approximately 8 days after birth — typically 8 hours per day. This includes newborn care, feeding support, monitoring your recovery, and light household help. Kraamzorg is covered by the basisverzekering. You pay only a small personal contribution (eigen bijdrage) currently set at approximately EUR 4.80 per hour, for a maximum of 80 hours total. Book well in advance — demand often exceeds supply, especially in urban areas.
+- q: Can I have a hospital birth instead of a home birth in the Netherlands?
+  a: 'Yes. Around 60-65% of births in the Netherlands now take place in a hospital or birthing centre (polykliniek), up from lower figures in earlier decades. Home birth remains an option and accounts for approximately 13% of births — still the highest rate in Europe. A birthing centre or polykliniek is a middle option: a hospital-based setting managed by midwives rather than obstetricians, with medical backup available if needed. Discuss your preferences with your verloskundige early — some practices have stronger home birth cultures than others.'
+- q: What prenatal tests are offered in the Netherlands?
+  a: 'The standard prenatal screening package includes: the first-trimester ultrasound (between weeks 11-13, dating and nuchal translucency), the 20-week structural anomaly scan (uitgebreid onderzoek/GUO), and a blood test at booking. The NIPT (Non-Invasive Prenatal Test) for chromosomal conditions including Down syndrome is offered to all pregnant women in the Netherlands since 2023 and costs approximately EUR 175 unless covered by supplementary insurance or if indicated medically. The Combinatietest (first trimester blood test + nuchal scan) is an older alternative.'
+- q: What does it cost to have a baby in the Netherlands as an expat?
+  a: 'For a low-risk pregnancy and birth in the Netherlands, your out-of-pocket costs are relatively low. Midwife care: fully covered. Scans at the midwife practice: covered. Hospital birth with medical indication: covered. Kraamzorg personal contribution: approximately EUR 384 (EUR 4.80 x 80 hours). NIPT test: approximately EUR 175 (optional, not covered by basic insurance). Supplementary insurance that covers NIPT and additional dental/physio during pregnancy: EUR 10-40/month. Total typical out-of-pocket: EUR 500-800 for a low-risk, uncomplicated pregnancy.'
+- q: How do I register a birth in the Netherlands?
+  a: 'You must register the birth at the municipality (gemeente) where the birth took place, within 3 working days. In practice, hospitals often facilitate registration directly with the gemeente. You will need: proof of identity, your marriage certificate (if applicable, with a certified translation), and the hospital''s birth declaration form. You will receive a birth certificate (geboorteakte) which you need for BSN registration for the baby, family health insurance, child benefit (kinderbijslag), and childcare allowance (kinderopvangtoeslag) applications.'
+schema_type: Article
 ---
 
 When I arrived in the Netherlands and found out I was pregnant, the first thing my GP told me was: "I am not your care provider for this. You need to find a verloskundige." I had no idea what that was, or why my doctor was effectively pointing me elsewhere for what felt like the most medically significant event of my life.

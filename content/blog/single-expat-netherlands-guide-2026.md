@@ -1,37 +1,51 @@
 ---
-title: "Single Expat in the Netherlands: Complete Guide"
-date: 2026-03-22T10:00:00+01:00
-lastmod: 2026-04-23T10:00:00+01:00
-description: "Single expat in the Netherlands 2026: solo housing, managing finances alone, building a social life, dating apps, mental health, and community groups."
-categories: ["daily-life"]
-tags: ["single expat netherlands", "solo expat housing", "expat social life netherlands", "dating netherlands expat", "expat loneliness netherlands", "expat community netherlands"]
-keywords: ["single expat netherlands guide", "solo expat amsterdam rotterdam", "dating apps netherlands expats", "expat social life netherlands", "single income housing netherlands", "expat loneliness netherlands"]
+title: 'Single Expat in the Netherlands: Complete Guide'
+date: 2026-03-22 10:00:00+01:00
+lastmod: 2026-04-23 10:00:00+01:00
+description: 'Single expat in the Netherlands 2026: solo housing, managing finances alone, building a social life, dating apps, mental health, and community groups.'
+categories:
+- daily-life
+tags:
+- single expat netherlands
+- solo expat housing
+- expat social life netherlands
+- dating netherlands expat
+- expat loneliness netherlands
+- expat community netherlands
+keywords:
+- single expat netherlands guide
+- solo expat amsterdam rotterdam
+- dating apps netherlands expats
+- expat social life netherlands
+- single income housing netherlands
+- expat loneliness netherlands
 affiliate: false
-author: "Sarah van den Berg"
-author_bio: "Expat coach and writer at ExpatNetherlandsHub.com"
-featured_image: "/images/categories/daily-life.svg"
+author: Sarah van den Berg
+author_bio: Expat coach and writer at ExpatNetherlandsHub.com
+featured_image: /images/categories/daily-life.svg
 faq:
-  - q: "Is the Netherlands a good place to live as a single expat?"
-    a: "Yes, in many respects. The Netherlands has a large international community, particularly in Amsterdam, The Hague, Eindhoven, and Rotterdam. English is spoken widely, social events for internationals are easy to find, and cities are small and walkable compared to London or New York — which makes meeting people easier. The main challenges for single expats are housing costs (without a partner to share with), the Dutch social tendency towards reserved first impressions, and the fact that Dutch social life is often built around existing groups (clubs, sports teams, work colleagues) rather than spontaneous socialising. With effort, building a good social life as a single expat is very achievable."
-  - q: "What is the best housing option for a single expat in the Netherlands?"
-    a: "It depends on budget, city, and how social you want to be. Studio apartments (usually 25–40m²) give you full privacy but cost €1,100–1,800 per month in Amsterdam, €800–1,300 in Rotterdam or Eindhoven. Shared housing (kamer in a shared house, or a room in an expat house-share) is significantly cheaper — €600–1,100 per month all-in — and has the added benefit of built-in social contact. Many single expats start in shared housing to build connections and then move to a studio after 6–12 months. Serviced apartments or expat residences (like The Student Hotel, now serving young professionals) are another option for the first weeks, but are expensive for longer stays."
-  - q: "Which dating apps are most popular in the Netherlands?"
-    a: "Tinder and Bumble are both widely used in the Netherlands and have large user bases in all major cities. Hinge is growing and tends to have a slightly more relationship-focused user base. Happn (based on proximity) is popular in Amsterdam. OkCupid has a smaller but active user base. For expats specifically, Internations members often meet through the app's messaging feature. Dutch dating culture tends to be direct — people say what they want and expect the same. Do not interpret directness as rudeness. It is also very normal for dates to split the bill (going Dutch, appropriately enough) — do not be surprised or offended."
-  - q: "How do I meet people and make friends as a single expat in the Netherlands?"
-    a: "The most reliable ways are: joining a sports club (especially rowing, football, running, cycling, or tennis clubs — the Dutch are very sports-oriented), taking a Dutch language course (you meet people in the same situation as you), joining Internations or Meetup groups, and attending work social events. The Dutch are famously reserved with strangers but become very warm and loyal friends once they open up. The phrase 'doe maar gewoon' (just act normally) captures the Dutch social philosophy — understated, unpretentious, and egalitarian. Expat-specific communities (Facebook groups, Internations) are easier entry points, but mixing with Dutch people accelerates genuine integration."
-  - q: "Is it more expensive to live alone in the Netherlands as an expat?"
-    a: "Yes, significantly. Housing is the biggest cost. In Amsterdam, a single person in a studio pays €1,200–1,700 per month for rent alone. A couple sharing a two-bedroom pays perhaps €1,800–2,400 — so approximately €900–1,200 each, saving 30–40% on the biggest cost. Utilities and internet are fixed costs that do not scale down significantly for solo living. Groceries and eating out, on the other hand, are not dramatically more expensive for one person than for two. As a single expat, maximising income through the 30% ruling (if eligible) and minimising housing costs through strategic neighbourhood choices (Rotterdam and Eindhoven are significantly cheaper than Amsterdam) helps considerably."
-  - q: "Where can I find mental health support as an expat in the Netherlands?"
-    a: "The Dutch healthcare system covers basic mental health support through your GP (huisarts). Your GP can refer you to a psychologist or mental health practice (GGZ) covered by basic insurance (basisverzekering), though waiting lists can be long. Private psychologists and therapists offering English-language sessions are available in all major cities — expect to pay €80–150 per session privately. Online therapy platforms such as OpenUp (used by many international companies) and Better Help are also used by expats. Expat-specific support groups exist through some international churches and community organisations. The Mind (themindinstitute.com) offers English-language therapy in Amsterdam."
+- q: Is the Netherlands a good place to live as a single expat?
+  a: Yes, in many respects. The Netherlands has a large international community, particularly in Amsterdam, The Hague, Eindhoven, and Rotterdam. English is spoken widely, social events for internationals are easy to find, and cities are small and walkable compared to London or New York — which makes meeting people easier. The main challenges for single expats are housing costs (without a partner to share with), the Dutch social tendency towards reserved first impressions, and the fact that Dutch social life is often built around existing groups (clubs, sports teams, work colleagues) rather than spontaneous socialising. With effort, building a good social life as a single expat is very achievable.
+- q: What is the best housing option for a single expat in the Netherlands?
+  a: It depends on budget, city, and how social you want to be. Studio apartments (usually 25–40m²) give you full privacy but cost €1,100–1,800 per month in Amsterdam, €800–1,300 in Rotterdam or Eindhoven. Shared housing (kamer in a shared house, or a room in an expat house-share) is significantly cheaper — €600–1,100 per month all-in — and has the added benefit of built-in social contact. Many single expats start in shared housing to build connections and then move to a studio after 6–12 months. Serviced apartments or expat residences (like The Student Hotel, now serving young professionals) are another option for the first weeks, but are expensive for longer stays.
+- q: Which dating apps are most popular in the Netherlands?
+  a: Tinder and Bumble are both widely used in the Netherlands and have large user bases in all major cities. Hinge is growing and tends to have a slightly more relationship-focused user base. Happn (based on proximity) is popular in Amsterdam. OkCupid has a smaller but active user base. For expats specifically, Internations members often meet through the app's messaging feature. Dutch dating culture tends to be direct — people say what they want and expect the same. Do not interpret directness as rudeness. It is also very normal for dates to split the bill (going Dutch, appropriately enough) — do not be surprised or offended.
+- q: How do I meet people and make friends as a single expat in the Netherlands?
+  a: 'The most reliable ways are: joining a sports club (especially rowing, football, running, cycling, or tennis clubs — the Dutch are very sports-oriented), taking a Dutch language course (you meet people in the same situation as you), joining Internations or Meetup groups, and attending work social events. The Dutch are famously reserved with strangers but become very warm and loyal friends once they open up. The phrase ''doe maar gewoon'' (just act normally) captures the Dutch social philosophy — understated, unpretentious, and egalitarian. Expat-specific communities (Facebook groups, Internations) are easier entry points, but mixing with Dutch people accelerates genuine integration.'
+- q: Is it more expensive to live alone in the Netherlands as an expat?
+  a: Yes, significantly. Housing is the biggest cost. In Amsterdam, a single person in a studio pays €1,200–1,700 per month for rent alone. A couple sharing a two-bedroom pays perhaps €1,800–2,400 — so approximately €900–1,200 each, saving 30–40% on the biggest cost. Utilities and internet are fixed costs that do not scale down significantly for solo living. Groceries and eating out, on the other hand, are not dramatically more expensive for one person than for two. As a single expat, maximising income through the 30% ruling (if eligible) and minimising housing costs through strategic neighbourhood choices (Rotterdam and Eindhoven are significantly cheaper than Amsterdam) helps considerably.
+- q: Where can I find mental health support as an expat in the Netherlands?
+  a: The Dutch healthcare system covers basic mental health support through your GP (huisarts). Your GP can refer you to a psychologist or mental health practice (GGZ) covered by basic insurance (basisverzekering), though waiting lists can be long. Private psychologists and therapists offering English-language sessions are available in all major cities — expect to pay €80–150 per session privately. Online therapy platforms such as OpenUp (used by many international companies) and Better Help are also used by expats. Expat-specific support groups exist through some international churches and community organisations. The Mind (themindinstitute.com) offers English-language therapy in Amsterdam.
 products:
-  - name: "Wise"
-    url: "https://go.expatnetherlandshub.com/wise?ref=/blog/single-expat-netherlands-guide-2026/"
-    price: "0.00"
-    tag: "Currency Transfer"
-  - name: "SafetyWing"
-    url: "https://go.expatnetherlandshub.com/safetywing?ref=/blog/single-expat-netherlands-guide-2026/"
-    price: "0.00"
-    tag: "Expat Insurance"
+- name: Wise
+  url: https://go.expatnetherlandshub.com/wise?ref=/blog/single-expat-netherlands-guide-2026/
+  price: '0.00'
+  tag: Currency Transfer
+- name: SafetyWing
+  url: https://go.expatnetherlandshub.com/safetywing?ref=/blog/single-expat-netherlands-guide-2026/
+  price: '0.00'
+  tag: Expat Insurance
+schema_type: Article
 ---
 
 I moved to the Netherlands alone, with no existing friends here and no partner. I was in my early thirties, had just taken a new job, and knew exactly one person in Amsterdam — a former colleague I had met twice at a conference.

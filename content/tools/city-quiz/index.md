@@ -1,12 +1,13 @@
 ---
-title: "Which Dutch City Is Right for You? — Free Quiz"
-description: "Answer 7 quick questions and find out which Dutch city matches your lifestyle, budget, and priorities. Free interactive quiz for expats moving to the Netherlands."
-type: "tools"
-layout: "single"
-featured_image: "/images/categories/cities.svg"
-author: "Sarah van den Berg"
-author_bio: "Expat coach and writer at ExpatNetherlandsHub.com"
+title: Which Dutch City Is Right for You? — Free Quiz
+description: Answer 7 quick questions and find out which Dutch city matches your lifestyle, budget, and priorities. Free interactive quiz for expats moving to the Netherlands.
+type: tools
+layout: single
+featured_image: /images/categories/cities.svg
+author: Sarah van den Berg
+author_bio: Expat coach and writer at ExpatNetherlandsHub.com
 affiliate: true
+schema_type: Article
 ---
 
 <script type="application/ld+json">

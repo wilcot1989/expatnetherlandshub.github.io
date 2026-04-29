@@ -1,11 +1,13 @@
 ---
-title: "Utrecht Expat Guide 2026: Living, Working & Costs"
-description: "Complete expat guide to Utrecht in 2026. Central location, canal-side living, rent prices by neighbourhood, science park jobs, and practical tips for expats."
-date: 2026-03-06T10:00:00+01:00
-lastmod: 2026-04-23T10:00:00+01:00
-featured_image: "/images/featured/utrecht.webp"
-author: "Sarah van den Berg"
-categories: ["cities"]
+title: 'Utrecht Expat Guide 2026: Living, Working & Costs'
+description: Complete expat guide to Utrecht in 2026. Central location, canal-side living, rent prices by neighbourhood, science park jobs, and practical tips for expats.
+date: 2026-03-06 10:00:00+01:00
+lastmod: 2026-04-23 10:00:00+01:00
+featured_image: /images/featured/utrecht.webp
+author: Sarah van den Berg
+categories:
+- cities
+schema_type: Article
 ---
 
 ## Utrecht at a Glance

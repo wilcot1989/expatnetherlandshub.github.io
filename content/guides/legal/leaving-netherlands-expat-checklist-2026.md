@@ -1,37 +1,48 @@
 ---
-title: "Leaving the Netherlands: Complete Expat Checklist 2026"
-date: 2026-05-04T10:00:00+01:00
-lastmod: 2026-04-23T10:00:00+01:00
-type: "guide"
-description: "Everything you need to do before leaving the Netherlands as an expat. Deregistration, tax return, cancel insurance, pension, bank accounts, and more."
-categories: ["legal"]
-tags: ["leaving Netherlands", "deregistration", "emigration", "expat checklist"]
-keywords: ["leaving netherlands expat", "deregister netherlands", "cancel dutch health insurance", "final tax return netherlands", "leaving netherlands checklist"]
+title: 'Leaving the Netherlands: Complete Expat Checklist 2026'
+date: 2026-05-04 10:00:00+01:00
+lastmod: 2026-04-23 10:00:00+01:00
+type: guide
+description: Everything you need to do before leaving the Netherlands as an expat. Deregistration, tax return, cancel insurance, pension, bank accounts, and more.
+categories:
+- legal
+tags:
+- leaving Netherlands
+- deregistration
+- emigration
+- expat checklist
+keywords:
+- leaving netherlands expat
+- deregister netherlands
+- cancel dutch health insurance
+- final tax return netherlands
+- leaving netherlands checklist
 affiliate: true
 products:
-  - name: "Expatax"
-    url: "https://www.expatax.nl/"
-    price: "0.00"
-  - name: "Blue Umbrella"
-    url: "https://www.blueumbrella.nl/"
-    price: "0.00"
-  - name: "IND"
-    url: "https://ind.nl/en"
-    price: "0.00"
-author: "Sarah van den Berg"
-author_bio: "Expat coach and relocation specialist. Half Dutch, half British, living in the Netherlands for over 10 years."
-featured_image: "/images/categories/legal.svg"
+- name: Expatax
+  url: https://www.expatax.nl/
+  price: '0.00'
+- name: Blue Umbrella
+  url: https://www.blueumbrella.nl/
+  price: '0.00'
+- name: IND
+  url: https://ind.nl/en
+  price: '0.00'
+author: Sarah van den Berg
+author_bio: Expat coach and relocation specialist. Half Dutch, half British, living in the Netherlands for over 10 years.
+featured_image: /images/categories/legal.svg
 faq:
-  - q: "What do I need to do before leaving the Netherlands?"
-    a: "Key steps: deregister at the gemeente (within 5 days of departure), file a final M-form tax return, cancel Dutch health insurance (only after deregistration), close or convert bank accounts, arrange pension transfer or preservation, cancel utility contracts, and return any borrowed library cards or OV-chipkaart deposits."
-  - q: "Do I need to file a tax return when leaving the Netherlands?"
-    a: "Yes. You must file an M-form (migratieaangifte) for the year you leave. This covers your income from January 1 until your departure date. You may be entitled to a refund, especially if you leave mid-year. The M-form can be filed online via the Belastingdienst after the tax year ends."
-  - q: "Can I keep my Dutch bank account after leaving?"
-    a: "It depends on the bank. Some banks (ABN AMRO, ING) allow non-residents to keep accounts with restrictions. Others (bunq, N26) may close your account if you are no longer a Dutch resident. Contact your bank before leaving to understand your options."
-  - q: "Who is this for?"
-    a: "See the section above on who benefits most from this service or guide."
-  - q: "What does it cost in 2026?"
-    a: "Pricing varies — see the comparison table above for current rates."
+- q: What do I need to do before leaving the Netherlands?
+  a: 'Key steps: deregister at the gemeente (within 5 days of departure), file a final M-form tax return, cancel Dutch health insurance (only after deregistration), close or convert bank accounts, arrange pension transfer or preservation, cancel utility contracts, and return any borrowed library cards or OV-chipkaart deposits.'
+- q: Do I need to file a tax return when leaving the Netherlands?
+  a: Yes. You must file an M-form (migratieaangifte) for the year you leave. This covers your income from January 1 until your departure date. You may be entitled to a refund, especially if you leave mid-year. The M-form can be filed online via the Belastingdienst after the tax year ends.
+- q: Can I keep my Dutch bank account after leaving?
+  a: It depends on the bank. Some banks (ABN AMRO, ING) allow non-residents to keep accounts with restrictions. Others (bunq, N26) may close your account if you are no longer a Dutch resident. Contact your bank before leaving to understand your options.
+- q: Who is this for?
+  a: See the section above on who benefits most from this service or guide.
+- q: What does it cost in 2026?
+  a: Pricing varies — see the comparison table above for current rates.
+schema_type: Article
 ---
 
 When I moved to the Netherlands, I had a clear checklist of things to arrange. When I left for a year abroad, I assumed leaving would be simpler. It was not. Deregistering alone triggered a chain reaction: health insurance cancelled automatically, my DigiD access changed, and the Belastingdienst needed a special tax form I had never heard of. Missing even one item cost me months of back-and-forth from a different country.

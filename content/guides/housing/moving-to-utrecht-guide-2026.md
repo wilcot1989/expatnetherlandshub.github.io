@@ -1,38 +1,49 @@
 ---
-title: "Moving to Utrecht 2026: Complete Expat Guide"
-date: 2026-03-06T10:00:00+01:00
-lastmod: 2026-04-23T10:00:00+01:00
-description: "Complete expat guide to moving to Utrecht in 2026. Neighborhoods, housing costs, international schools, and transport links explained."
-categories: ["relocation"]
-tags: ["Utrecht", "moving to Utrecht", "expat city guide", "Netherlands cities", "relocation"]
-keywords: ["moving to Utrecht expat", "Utrecht expat guide 2026", "living in Utrecht", "Utrecht neighborhoods expats"]
+title: 'Moving to Utrecht 2026: Complete Expat Guide'
+date: 2026-03-06 10:00:00+01:00
+lastmod: 2026-04-23 10:00:00+01:00
+description: Complete expat guide to moving to Utrecht in 2026. Neighborhoods, housing costs, international schools, and transport links explained.
+categories:
+- relocation
+tags:
+- Utrecht
+- moving to Utrecht
+- expat city guide
+- Netherlands cities
+- relocation
+keywords:
+- moving to Utrecht expat
+- Utrecht expat guide 2026
+- living in Utrecht
+- Utrecht neighborhoods expats
 affiliate: true
-author: "Sarah van den Berg"
-author_bio: "Expat coach and relocation specialist. Half Dutch, half British, living in the Netherlands for over 10 years."
-featured_image: "/images/featured/moving-to-utrecht-guide-2026.webp"
+author: Sarah van den Berg
+author_bio: Expat coach and relocation specialist. Half Dutch, half British, living in the Netherlands for over 10 years.
+featured_image: /images/featured/moving-to-utrecht-guide-2026.webp
 faq:
-  - q: "Is Utrecht good for expats?"
-    a: "Yes, Utrecht is excellent for expats. It's the 4th largest Dutch city with a vibrant international community, beautiful historic center, excellent public transport (central hub of NL rail network), lower housing costs than Amsterdam, and some of the best quality of life rankings in Europe. The university attracts international talent."
-  - q: "How much does it cost to live in Utrecht?"
-    a: "Monthly costs for a single expat: rent €1,000-€1,600 (1-2 bedroom), utilities €150-€200, groceries €250-€350, transport €100-€150, health insurance €130. Total: €1,630-€2,430/month. For a family: €2,500-€4,000/month. Utrecht is about 15-20% cheaper than Amsterdam."
-  - q: "What are the best neighborhoods in Utrecht for expats?"
-    a: "Top neighborhoods: Wittevrouwen (charming, central, popular with young professionals), Lombok (multicultural, trendy restaurants), Oudwijk (family-friendly, near parks), Tuinwijk (quiet residential, good schools), and Leidsche Rijn (modern, affordable, new development with families)."
-  - q: "How is the job market in Utrecht?"
-    a: "Utrecht has a strong job market, especially in healthcare (UMC Utrecht), education (Utrecht University, HU), IT/tech (growing startup scene), and corporate services. The central location means Amsterdam, The Hague, and Rotterdam are all within 30-60 minutes by train. Many expats commute."
-  - q: "Are there international schools in Utrecht?"
-    a: "Yes, the main international school is the International School Utrecht (ISU), offering IB curriculum for ages 4-18. There's also the Utrecht International School (part of ISU) and several bilingual Dutch schools. Waiting lists can be long, so apply early."
-  - q: "How do I find housing in Utrecht?"
-    a: "Search on Funda.nl, Pararius.nl (English), and Kamernet.nl. Use a rental agent (makelaar) for faster results — they charge 1 month's rent. Average response time is 2-4 weeks. Arrive with documents ready: employment contract, ID, salary slips, employer letter. The rental market is competitive but less extreme than Amsterdam."
+- q: Is Utrecht good for expats?
+  a: Yes, Utrecht is excellent for expats. It's the 4th largest Dutch city with a vibrant international community, beautiful historic center, excellent public transport (central hub of NL rail network), lower housing costs than Amsterdam, and some of the best quality of life rankings in Europe. The university attracts international talent.
+- q: How much does it cost to live in Utrecht?
+  a: 'Monthly costs for a single expat: rent €1,000-€1,600 (1-2 bedroom), utilities €150-€200, groceries €250-€350, transport €100-€150, health insurance €130. Total: €1,630-€2,430/month. For a family: €2,500-€4,000/month. Utrecht is about 15-20% cheaper than Amsterdam.'
+- q: What are the best neighborhoods in Utrecht for expats?
+  a: 'Top neighborhoods: Wittevrouwen (charming, central, popular with young professionals), Lombok (multicultural, trendy restaurants), Oudwijk (family-friendly, near parks), Tuinwijk (quiet residential, good schools), and Leidsche Rijn (modern, affordable, new development with families).'
+- q: How is the job market in Utrecht?
+  a: Utrecht has a strong job market, especially in healthcare (UMC Utrecht), education (Utrecht University, HU), IT/tech (growing startup scene), and corporate services. The central location means Amsterdam, The Hague, and Rotterdam are all within 30-60 minutes by train. Many expats commute.
+- q: Are there international schools in Utrecht?
+  a: Yes, the main international school is the International School Utrecht (ISU), offering IB curriculum for ages 4-18. There's also the Utrecht International School (part of ISU) and several bilingual Dutch schools. Waiting lists can be long, so apply early.
+- q: How do I find housing in Utrecht?
+  a: 'Search on Funda.nl, Pararius.nl (English), and Kamernet.nl. Use a rental agent (makelaar) for faster results — they charge 1 month''s rent. Average response time is 2-4 weeks. Arrive with documents ready: employment contract, ID, salary slips, employer letter. The rental market is competitive but less extreme than Amsterdam.'
 products:
-  - name: "HousingAnywhere"
-    url: "https://housinganywhere.com/"
-    price: "0.00"
-  - name: "Pararius"
-    url: "https://www.pararius.com/"
-    price: "0.00"
-  - name: "Funda"
-    url: "https://www.funda.nl/"
-    price: "0.00"
+- name: HousingAnywhere
+  url: https://housinganywhere.com/
+  price: '0.00'
+- name: Pararius
+  url: https://www.pararius.com/
+  price: '0.00'
+- name: Funda
+  url: https://www.funda.nl/
+  price: '0.00'
+schema_type: Article
 ---
 
 Every time I visit Utrecht, I think about moving there. It has everything I love about Amsterdam -- the canals, the cafe culture, the cycling -- but without the tourist crowds and with a community feel that is hard to find in bigger cities. It is also the most central city in the Netherlands, which means everywhere is a short train ride away. More and more of my clients are choosing Utrecht over Amsterdam, and I completely understand why.

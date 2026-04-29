@@ -1,11 +1,13 @@
 ---
-title: "Rotterdam Expat Guide 2026: Living, Working & Costs"
-description: "Complete expat guide to Rotterdam in 2026. Modern architecture, port city job market, rent prices by neighbourhood, multicultural vibe, and practical expat tips."
-date: 2026-03-06T10:00:00+01:00
-lastmod: 2026-04-23T10:00:00+01:00
-featured_image: "/images/featured/rotterdam.webp"
-author: "Sarah van den Berg"
-categories: ["cities"]
+title: 'Rotterdam Expat Guide 2026: Living, Working & Costs'
+description: Complete expat guide to Rotterdam in 2026. Modern architecture, port city job market, rent prices by neighbourhood, multicultural vibe, and practical expat tips.
+date: 2026-03-06 10:00:00+01:00
+lastmod: 2026-04-23 10:00:00+01:00
+featured_image: /images/featured/rotterdam.webp
+author: Sarah van den Berg
+categories:
+- cities
+schema_type: Article
 ---
 
 ## Rotterdam at a Glance

@@ -1,38 +1,50 @@
 ---
-title: "30% Ruling in 2026: Still Worth It?"
-date: 2026-06-30T10:00:00+01:00
-lastmod: 2026-04-23T10:00:00+01:00
-description: "Is the 30% ruling still worth it after the 30/20/10 step-down and 5-year cap? Real calculations per salary level show when it matters and when it doesn't."
-categories: ["finance"]
-tags: ["30 percent ruling 2026", "30 ruling step down", "dutch tax ruling worth it", "30 ruling calculation", "expat tax netherlands 2026"]
-keywords: ["30 percent ruling still worth it 2026", "30 ruling 30 20 10 step down", "is 30 ruling worth it", "30 percent ruling calculation 2026", "dutch tax ruling analysis"]
+title: '30% Ruling in 2026: Still Worth It?'
+date: 2026-06-30 10:00:00+01:00
+lastmod: 2026-04-23 10:00:00+01:00
+description: Is the 30% ruling still worth it after the 30/20/10 step-down and 5-year cap? Real calculations per salary level show when it matters and when it doesn't.
+categories:
+- finance
+tags:
+- 30 percent ruling 2026
+- 30 ruling step down
+- dutch tax ruling worth it
+- 30 ruling calculation
+- expat tax netherlands 2026
+keywords:
+- 30 percent ruling still worth it 2026
+- 30 ruling 30 20 10 step down
+- is 30 ruling worth it
+- 30 percent ruling calculation 2026
+- dutch tax ruling analysis
 affiliate: true
-author: "Sarah van den Berg"
-author_bio: "Expat coach and relocation specialist. Half Dutch, half British, living in the Netherlands for over 10 years."
-featured_image: "/images/categories/finance.svg"
+author: Sarah van den Berg
+author_bio: Expat coach and relocation specialist. Half Dutch, half British, living in the Netherlands for over 10 years.
+featured_image: /images/categories/finance.svg
 products:
-  - name: "Wise"
-    url: "https://go.expatnetherlandshub.com/wise?ref=/guides/finance/30-percent-ruling-still-worth-it-2026/"
-    price: "0.00"
-  - name: "Expatax"
-    url: "https://www.expatax.nl/"
-    price: "0.00"
-  - name: "Blue Umbrella"
-    url: "https://www.blueumbrella.nl/"
-    price: "0.00"
+- name: Wise
+  url: https://go.expatnetherlandshub.com/wise?ref=/guides/finance/30-percent-ruling-still-worth-it-2026/
+  price: '0.00'
+- name: Expatax
+  url: https://www.expatax.nl/
+  price: '0.00'
+- name: Blue Umbrella
+  url: https://www.blueumbrella.nl/
+  price: '0.00'
 faq:
-  - q: "What changed about the 30% ruling after 2024?"
-    a: "Two significant changes came into force from 2024. First, the ruling was restructured from a flat 30% tax-free allowance to a phased system: 30% in years 1-20 months, 20% in years 2-40 months, and 10% in years 3-60 months (the exact transition periods depend on when you started). Second, from 2026 the 30% flat rate was further modified to the 30/20/10% step-down system. The maximum duration has remained at 5 years (60 months). The result is that the average benefit over the 5-year period is now lower than it was under the old flat 30% system."
-  - q: "How much does the 30% ruling save per year at different salary levels in 2026?"
-    a: "At the maximum 30% phase: a €60,000 gross salary saves approximately €6,600/year; €80,000 saves approximately €9,600/year; €100,000 saves approximately €12,600/year; €120,000 saves approximately €14,400/year. At the 20% phase these savings drop by approximately one-third; at the 10% phase, by approximately two-thirds. These are approximate figures — exact savings depend on personal circumstances, deductions, and the applicable tax rate."
-  - q: "Is the 30% ruling still worth negotiating for as part of a job offer?"
-    a: "Yes, for most highly skilled migrants earning above €60,000. Even with the step-down, the 30% ruling represents significant net pay difference in the first 20 months, and the benefit remains meaningful at the 20% phase. The most important negotiation point is whether the ruling is granted on top of your gross salary, or whether employers structure it as salary redistribution. Always clarify this in your contract."
-  - q: "Does the step-down affect all 30% ruling holders equally?"
-    a: "No. The transition depends on when you received your ruling. Those who received rulings before 2024 may have transitional protections that delay when the step-down applies to their specific case. The exact rules for existing ruling holders versus new applicants are complex. If your ruling started before 2023, consult a tax advisor to understand your specific transition timeline."
-  - q: "Are there salary levels where the 30% ruling barely makes a difference?"
-    a: "At the minimum eligible salary (approximately €46,107 taxable after ruling application in 2026), the benefit is present but modest — roughly €3,500-4,500/year in the 30% phase. At this level, the administrative complexity of managing the ruling, updating it on job changes, and the phased reduction mean the net value over 5 years is lower than many people expect. The ruling becomes very compelling above €80,000 gross."
-  - q: "Can I still choose to be treated as a partial non-resident taxpayer (partiële buitenlandse belastingplicht) with the 30% ruling?"
-    a: "Yes, though this was modified in 2024. Those with the 30% ruling can opt for partial non-resident tax status, which means certain Box 2 and Box 3 foreign income is excluded from Dutch tax. This is particularly beneficial for expats with significant investment income, foreign real estate, or foreign share options. Whether this option is worthwhile depends heavily on your specific financial situation outside the Netherlands. A tax specialist should evaluate this annually."
+- q: What changed about the 30% ruling after 2024?
+  a: 'Two significant changes came into force from 2024. First, the ruling was restructured from a flat 30% tax-free allowance to a phased system: 30% in years 1-20 months, 20% in years 2-40 months, and 10% in years 3-60 months (the exact transition periods depend on when you started). Second, from 2026 the 30% flat rate was further modified to the 30/20/10% step-down system. The maximum duration has remained at 5 years (60 months). The result is that the average benefit over the 5-year period is now lower than it was under the old flat 30% system.'
+- q: How much does the 30% ruling save per year at different salary levels in 2026?
+  a: 'At the maximum 30% phase: a €60,000 gross salary saves approximately €6,600/year; €80,000 saves approximately €9,600/year; €100,000 saves approximately €12,600/year; €120,000 saves approximately €14,400/year. At the 20% phase these savings drop by approximately one-third; at the 10% phase, by approximately two-thirds. These are approximate figures — exact savings depend on personal circumstances, deductions, and the applicable tax rate.'
+- q: Is the 30% ruling still worth negotiating for as part of a job offer?
+  a: Yes, for most highly skilled migrants earning above €60,000. Even with the step-down, the 30% ruling represents significant net pay difference in the first 20 months, and the benefit remains meaningful at the 20% phase. The most important negotiation point is whether the ruling is granted on top of your gross salary, or whether employers structure it as salary redistribution. Always clarify this in your contract.
+- q: Does the step-down affect all 30% ruling holders equally?
+  a: No. The transition depends on when you received your ruling. Those who received rulings before 2024 may have transitional protections that delay when the step-down applies to their specific case. The exact rules for existing ruling holders versus new applicants are complex. If your ruling started before 2023, consult a tax advisor to understand your specific transition timeline.
+- q: Are there salary levels where the 30% ruling barely makes a difference?
+  a: At the minimum eligible salary (approximately €46,107 taxable after ruling application in 2026), the benefit is present but modest — roughly €3,500-4,500/year in the 30% phase. At this level, the administrative complexity of managing the ruling, updating it on job changes, and the phased reduction mean the net value over 5 years is lower than many people expect. The ruling becomes very compelling above €80,000 gross.
+- q: Can I still choose to be treated as a partial non-resident taxpayer (partiële buitenlandse belastingplicht) with the 30% ruling?
+  a: Yes, though this was modified in 2024. Those with the 30% ruling can opt for partial non-resident tax status, which means certain Box 2 and Box 3 foreign income is excluded from Dutch tax. This is particularly beneficial for expats with significant investment income, foreign real estate, or foreign share options. Whether this option is worthwhile depends heavily on your specific financial situation outside the Netherlands. A tax specialist should evaluate this annually.
+schema_type: Article
 ---
 
 The 30% ruling has been the Netherlands' flagship incentive for attracting internationally mobile talent for decades. It has also been the target of reform, criticism, budget cuts, and political debate for just as long.

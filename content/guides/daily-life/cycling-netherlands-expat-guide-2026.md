@@ -1,37 +1,51 @@
 ---
-title: "Cycling in the Netherlands: Complete Expat Guide 2026"
-date: 2026-04-02T10:00:00+01:00
-lastmod: 2026-04-23T10:00:00+01:00
-description: "Everything expats need to know about cycling in the Netherlands: buying a bike, traffic rules, safety tips, and cycling culture in 2026."
-categories: ["daily-life"]
-tags: ["cycling", "bicycle netherlands", "swapfiets", "bike rules", "dutch cycling", "ov-fiets", "bike theft"]
-keywords: ["cycling netherlands", "buy bicycle netherlands", "swapfiets review", "dutch bike rules", "cycling expat guide"]
+title: 'Cycling in the Netherlands: Complete Expat Guide 2026'
+date: 2026-04-02 10:00:00+01:00
+lastmod: 2026-04-23 10:00:00+01:00
+description: 'Everything expats need to know about cycling in the Netherlands: buying a bike, traffic rules, safety tips, and cycling culture in 2026.'
+categories:
+- daily-life
+tags:
+- cycling
+- bicycle netherlands
+- swapfiets
+- bike rules
+- dutch cycling
+- ov-fiets
+- bike theft
+keywords:
+- cycling netherlands
+- buy bicycle netherlands
+- swapfiets review
+- dutch bike rules
+- cycling expat guide
 affiliate: true
 products:
-  - name: "Swapfiets"
-    url: "https://swapfiets.nl/"
-    price: "16.90"
-  - name: "NS"
-    url: "https://www.ns.nl/"
-    price: "0.00"
-author: "Sarah van den Berg"
-author_bio: "Expat coach and relocation specialist. Half Dutch, half British, living in the Netherlands for over 10 years."
-featured_image: "/images/featured/cycling-netherlands-expat-guide-2026.webp"
+- name: Swapfiets
+  url: https://swapfiets.nl/
+  price: '16.90'
+- name: NS
+  url: https://www.ns.nl/
+  price: '0.00'
+author: Sarah van den Berg
+author_bio: Expat coach and relocation specialist. Half Dutch, half British, living in the Netherlands for over 10 years.
+featured_image: /images/featured/cycling-netherlands-expat-guide-2026.webp
 faq:
-  - q: "Do I need to buy a bicycle in the Netherlands?"
-    a: "While not legally required, a bicycle is practically a necessity for daily life in the Netherlands. The country is designed around cycling, and for trips under 5-7 km, a bicycle is often the fastest way to get around. Over 85% of Dutch residents own at least one bicycle."
-  - q: "How much does a bicycle cost in the Netherlands?"
-    a: "A basic secondhand bicycle costs EUR 50-150. A quality secondhand bike costs EUR 150-350. A new Dutch city bike (omafiets or opafiets) costs EUR 300-600. An electric bicycle starts at EUR 1,000-1,500. Alternatively, Swapfiets offers a bicycle subscription from EUR 16.50 per month."
-  - q: "Is Swapfiets worth it?"
-    a: "Swapfiets is worth it if you want a hassle-free experience: a well-maintained bicycle with repair service included, no upfront purchase cost, and replacement if your bike is stolen (with a deductible). For stays of 6-18 months, the subscription cost is comparable to buying and selling a secondhand bike. For longer stays, buying is cheaper over time."
-  - q: "Are helmets required for cycling in the Netherlands?"
-    a: "No, helmets are not legally required for regular bicycles in the Netherlands. The vast majority of Dutch cyclists do not wear helmets. For speed pedelecs (e-bikes that can go above 25 km/h), a helmet is mandatory. While not required, wearing a helmet is a personal choice that some expats prefer, especially when starting out."
-  - q: "What are the most important cycling rules in the Netherlands?"
-    a: "Key rules include: always use bike lanes (marked in red), signal turns with your hand, yield to traffic from the right at unmarked intersections, use lights at night (front white, rear red), do not use your phone while cycling (EUR 160 fine), and never cycle on the sidewalk. Cycling under the influence of alcohol is illegal and fined."
-  - q: "How do I prevent my bicycle from being stolen?"
-    a: "Always use at least two locks: the built-in ring lock plus a chain lock or U-lock. Lock your bike to a fixed object (bike rack, pole). Never leave your bike unlocked, even for a minute. Park in well-lit, busy areas. Register your bike's frame number. Avoid leaving your bike overnight at train stations if possible."
-  - q: "What is an OV-fiets?"
-    a: "OV-fiets is a public rental bike system connected to the OV-chipkaart. You can rent a bike at most train stations for EUR 4.55 per 24 hours. It is perfect for the last mile between a train station and your destination. You need a personal OV-chipkaart with the OV-fiets feature activated."
+- q: Do I need to buy a bicycle in the Netherlands?
+  a: While not legally required, a bicycle is practically a necessity for daily life in the Netherlands. The country is designed around cycling, and for trips under 5-7 km, a bicycle is often the fastest way to get around. Over 85% of Dutch residents own at least one bicycle.
+- q: How much does a bicycle cost in the Netherlands?
+  a: A basic secondhand bicycle costs EUR 50-150. A quality secondhand bike costs EUR 150-350. A new Dutch city bike (omafiets or opafiets) costs EUR 300-600. An electric bicycle starts at EUR 1,000-1,500. Alternatively, Swapfiets offers a bicycle subscription from EUR 16.50 per month.
+- q: Is Swapfiets worth it?
+  a: 'Swapfiets is worth it if you want a hassle-free experience: a well-maintained bicycle with repair service included, no upfront purchase cost, and replacement if your bike is stolen (with a deductible). For stays of 6-18 months, the subscription cost is comparable to buying and selling a secondhand bike. For longer stays, buying is cheaper over time.'
+- q: Are helmets required for cycling in the Netherlands?
+  a: No, helmets are not legally required for regular bicycles in the Netherlands. The vast majority of Dutch cyclists do not wear helmets. For speed pedelecs (e-bikes that can go above 25 km/h), a helmet is mandatory. While not required, wearing a helmet is a personal choice that some expats prefer, especially when starting out.
+- q: What are the most important cycling rules in the Netherlands?
+  a: 'Key rules include: always use bike lanes (marked in red), signal turns with your hand, yield to traffic from the right at unmarked intersections, use lights at night (front white, rear red), do not use your phone while cycling (EUR 160 fine), and never cycle on the sidewalk. Cycling under the influence of alcohol is illegal and fined.'
+- q: How do I prevent my bicycle from being stolen?
+  a: 'Always use at least two locks: the built-in ring lock plus a chain lock or U-lock. Lock your bike to a fixed object (bike rack, pole). Never leave your bike unlocked, even for a minute. Park in well-lit, busy areas. Register your bike''s frame number. Avoid leaving your bike overnight at train stations if possible.'
+- q: What is an OV-fiets?
+  a: OV-fiets is a public rental bike system connected to the OV-chipkaart. You can rent a bike at most train stations for EUR 4.55 per 24 hours. It is perfect for the last mile between a train station and your destination. You need a personal OV-chipkaart with the OV-fiets feature activated.
+schema_type: Article
 ---
 
 My Dutch mother cycles everywhere in any weather without a second thought. When I moved here from the UK, I thought I could do the same. My first ride through Amsterdam rush hour nearly ended me -- three near-misses, a wrong turn into a tram lane, and the discovery that hand signals are not optional. A decade later, I cannot imagine life without my bike. Here is everything I have learned about cycling in the Netherlands so your transition is smoother than mine.

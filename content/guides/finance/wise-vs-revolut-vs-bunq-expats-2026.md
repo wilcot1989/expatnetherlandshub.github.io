@@ -1,40 +1,52 @@
 ---
-title: "Wise vs Revolut vs bunq for Expats 2026"
-date: 2026-06-07T10:00:00+01:00
-lastmod: 2026-04-23T10:00:00+01:00
-description: "Wise, Revolut, or bunq for expats in the Netherlands? I compare IBAN acceptance, fees, and real banking capability so you can choose the right one."
-categories: ["finance"]
-tags: ["Wise", "Revolut", "bunq", "bank comparison", "fintech"]
-keywords: ["wise vs revolut vs bunq netherlands", "best fintech expat netherlands 2026", "wise revolut bunq comparison", "dutch iban expat", "revolut iban problem netherlands"]
+title: Wise vs Revolut vs bunq for Expats 2026
+date: 2026-06-07 10:00:00+01:00
+lastmod: 2026-04-23 10:00:00+01:00
+description: Wise, Revolut, or bunq for expats in the Netherlands? I compare IBAN acceptance, fees, and real banking capability so you can choose the right one.
+categories:
+- finance
+tags:
+- Wise
+- Revolut
+- bunq
+- bank comparison
+- fintech
+keywords:
+- wise vs revolut vs bunq netherlands
+- best fintech expat netherlands 2026
+- wise revolut bunq comparison
+- dutch iban expat
+- revolut iban problem netherlands
 affiliate: true
-author: "Sarah van den Berg"
-author_bio: "Expat coach and relocation specialist. Half Dutch, half British, living in the Netherlands for over 10 years."
-featured_image: "/images/categories/finance.svg"
+author: Sarah van den Berg
+author_bio: Expat coach and relocation specialist. Half Dutch, half British, living in the Netherlands for over 10 years.
+featured_image: /images/categories/finance.svg
 products:
-  - name: "Wise"
-    url: "https://go.expatnetherlandshub.com/wise?ref=/guides/finance/wise-vs-revolut-vs-bunq-expats-2026/"
-    price: "0.00"
-  - name: "bunq"
-    url: "https://www.bunq.com/"
-    price: "2.99"
-  - name: "ING"
-    url: "https://www.ing.nl/particulier"
-    price: "0.00"
+- name: Wise
+  url: https://go.expatnetherlandshub.com/wise?ref=/guides/finance/wise-vs-revolut-vs-bunq-expats-2026/
+  price: '0.00'
+- name: bunq
+  url: https://www.bunq.com/
+  price: '2.99'
+- name: ING
+  url: https://www.ing.nl/particulier
+  price: '0.00'
 faq:
-  - q: "Which fintech gives you a Dutch IBAN?"
-    a: "bunq is the only one of the three that gives you a genuine Dutch IBAN starting with NL. Wise gives you a Belgian IBAN (BE), and Revolut gives you a Lithuanian IBAN (LT). In the Netherlands, a Dutch IBAN matters for rent payments, direct debits with Dutch utilities, and some employers' payroll systems. If a Dutch IBAN is your priority, bunq is the answer."
-  - q: "Does Revolut work as a primary bank account in the Netherlands?"
-    a: "With difficulty. Revolut's Lithuanian IBAN causes real problems in the Netherlands. Many Dutch landlords refuse non-NL IBANs for rent payments. Dutch utilities and telecom providers sometimes reject automatic direct debits from foreign IBANs. Some Dutch employers also cannot process non-NL IBANs for salary payments. Revolut works well as a secondary card and budgeting tool, but relying on it as your sole bank account in the Netherlands will cause friction."
-  - q: "Is Wise safe for storing large amounts of money?"
-    a: "Wise is an e-money institution, not a bank. This means your money is not covered by a deposit guarantee scheme the same way as a traditional bank. Wise does hold client funds in segregated accounts with regulated financial institutions, which provides protection, but it is not the same as the EUR 100,000 deposit guarantee you get with a licensed Dutch bank like ING or ABN AMRO. For everyday balances and transfers, Wise is very safe. For large savings, use a traditional bank."
-  - q: "Which app has the best exchange rates for sending money abroad?"
-    a: "Wise consistently offers the best exchange rates of the three for international transfers. Wise uses the mid-market rate (the real exchange rate you see on Google) and charges a transparent fee of roughly 0.35–1% depending on the currency. Revolut offers mid-market rates on weekdays but adds a weekend markup of around 0.5–1%. bunq charges a 2% conversion fee on foreign currency transactions. For sending money home or receiving salary in a foreign currency, Wise is the clear choice."
-  - q: "Can I use bunq, Wise, or Revolut to receive my Dutch salary?"
-    a: "bunq: yes, with no issues — it has a Dutch NL IBAN. Wise: usually yes, but some Dutch payroll systems reject Belgian IBANs. It is worth checking with your HR department before relying on it. Revolut: often not accepted — many Dutch employers' payroll systems only accept NL IBANs. If salary receipt is a concern, open a bunq or traditional Dutch bank account as your primary account."
-  - q: "What are the actual monthly costs for each app?"
-    a: "Wise: no monthly fee for the basic account; the Wise card costs a one-time €7 fee. You pay per transaction for currency exchange. Revolut: the free plan has no monthly fee but limits currency exchanges to EUR 1,000 per month at the mid-market rate. Revolut Plus costs €3.99/month, Premium €9.99/month. bunq: the free plan (bunq Easy Bank Free) has limited features; bunq Easy Bank Personal costs €10.99/month for the full Dutch banking experience."
-  - q: "Which is best for someone who just arrived in the Netherlands?"
-    a: "The practical answer is: open both Wise and bunq. Use Wise immediately — you can open an account before you arrive in the Netherlands, and it accepts your foreign address. Use it for international transfers and the first weeks. Then open bunq for your Dutch IBAN once you have your BSN number. This combination covers all the bases: Wise for transfers and travel, bunq for Dutch direct debits, utilities, and anything requiring a Dutch IBAN."
+- q: Which fintech gives you a Dutch IBAN?
+  a: bunq is the only one of the three that gives you a genuine Dutch IBAN starting with NL. Wise gives you a Belgian IBAN (BE), and Revolut gives you a Lithuanian IBAN (LT). In the Netherlands, a Dutch IBAN matters for rent payments, direct debits with Dutch utilities, and some employers' payroll systems. If a Dutch IBAN is your priority, bunq is the answer.
+- q: Does Revolut work as a primary bank account in the Netherlands?
+  a: With difficulty. Revolut's Lithuanian IBAN causes real problems in the Netherlands. Many Dutch landlords refuse non-NL IBANs for rent payments. Dutch utilities and telecom providers sometimes reject automatic direct debits from foreign IBANs. Some Dutch employers also cannot process non-NL IBANs for salary payments. Revolut works well as a secondary card and budgeting tool, but relying on it as your sole bank account in the Netherlands will cause friction.
+- q: Is Wise safe for storing large amounts of money?
+  a: Wise is an e-money institution, not a bank. This means your money is not covered by a deposit guarantee scheme the same way as a traditional bank. Wise does hold client funds in segregated accounts with regulated financial institutions, which provides protection, but it is not the same as the EUR 100,000 deposit guarantee you get with a licensed Dutch bank like ING or ABN AMRO. For everyday balances and transfers, Wise is very safe. For large savings, use a traditional bank.
+- q: Which app has the best exchange rates for sending money abroad?
+  a: Wise consistently offers the best exchange rates of the three for international transfers. Wise uses the mid-market rate (the real exchange rate you see on Google) and charges a transparent fee of roughly 0.35–1% depending on the currency. Revolut offers mid-market rates on weekdays but adds a weekend markup of around 0.5–1%. bunq charges a 2% conversion fee on foreign currency transactions. For sending money home or receiving salary in a foreign currency, Wise is the clear choice.
+- q: Can I use bunq, Wise, or Revolut to receive my Dutch salary?
+  a: 'bunq: yes, with no issues — it has a Dutch NL IBAN. Wise: usually yes, but some Dutch payroll systems reject Belgian IBANs. It is worth checking with your HR department before relying on it. Revolut: often not accepted — many Dutch employers'' payroll systems only accept NL IBANs. If salary receipt is a concern, open a bunq or traditional Dutch bank account as your primary account.'
+- q: What are the actual monthly costs for each app?
+  a: 'Wise: no monthly fee for the basic account; the Wise card costs a one-time €7 fee. You pay per transaction for currency exchange. Revolut: the free plan has no monthly fee but limits currency exchanges to EUR 1,000 per month at the mid-market rate. Revolut Plus costs €3.99/month, Premium €9.99/month. bunq: the free plan (bunq Easy Bank Free) has limited features; bunq Easy Bank Personal costs €10.99/month for the full Dutch banking experience.'
+- q: Which is best for someone who just arrived in the Netherlands?
+  a: 'The practical answer is: open both Wise and bunq. Use Wise immediately — you can open an account before you arrive in the Netherlands, and it accepts your foreign address. Use it for international transfers and the first weeks. Then open bunq for your Dutch IBAN once you have your BSN number. This combination covers all the bases: Wise for transfers and travel, bunq for Dutch direct debits, utilities, and anything requiring a Dutch IBAN.'
+schema_type: Article
 ---
 
 When I moved back to the Netherlands after several years in the UK, I made the mistake of assuming that a Revolut account would be enough for the first few months. It took exactly one rental payment attempt and one failed energy direct debit to understand that the Dutch banking system has strong opinions about IBANs.

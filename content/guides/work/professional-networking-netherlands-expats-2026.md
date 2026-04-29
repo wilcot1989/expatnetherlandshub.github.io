@@ -1,36 +1,47 @@
 ---
-title: "Networking in Netherlands: Expat Guide 2026"
-date: 2026-03-18T10:00:00+01:00
-lastmod: 2026-04-23T10:00:00+01:00
-description: "How to build a professional network in the Netherlands as an expat. Dutch networking culture, events, LinkedIn tips, and city-by-city scene guide."
-categories: ["work"]
-tags: ["networking", "expat jobs", "LinkedIn", "career Netherlands", "professional events"]
-keywords: ["networking Netherlands expat", "professional networking Amsterdam", "expat networking events Netherlands", "Dutch networking culture"]
+title: 'Networking in Netherlands: Expat Guide 2026'
+date: 2026-03-18 10:00:00+01:00
+lastmod: 2026-04-23 10:00:00+01:00
+description: How to build a professional network in the Netherlands as an expat. Dutch networking culture, events, LinkedIn tips, and city-by-city scene guide.
+categories:
+- work
+tags:
+- networking
+- expat jobs
+- LinkedIn
+- career Netherlands
+- professional events
+keywords:
+- networking Netherlands expat
+- professional networking Amsterdam
+- expat networking events Netherlands
+- Dutch networking culture
 affiliate: true
 products:
-  - name: "LinkedIn Premium"
-    url: "https://www.linkedin.com/premium/"
-    price: "29.99"
-  - name: "Undutchables"
-    url: "https://undutchables.nl/"
-    price: "0.00"
-  - name: "Together Abroad"
-    url: "https://www.togetherabroad.nl/"
-    price: "0.00"
-author: "Sarah van den Berg"
-author_bio: "Expat coach and relocation specialist. Half Dutch, half British, living in the Netherlands for over 10 years."
-featured_image: "/images/categories/work.svg"
+- name: LinkedIn Premium
+  url: https://www.linkedin.com/premium/
+  price: '29.99'
+- name: Undutchables
+  url: https://undutchables.nl/
+  price: '0.00'
+- name: Together Abroad
+  url: https://www.togetherabroad.nl/
+  price: '0.00'
+author: Sarah van den Berg
+author_bio: Expat coach and relocation specialist. Half Dutch, half British, living in the Netherlands for over 10 years.
+featured_image: /images/categories/work.svg
 faq:
-  - q: "Is networking in the Netherlands different from other countries?"
-    a: "Yes, noticeably so. Dutch professional networking is direct and purposeful — people get to the point quickly and small talk is minimal. The question 'what do you do?' arrives within the first two minutes of any conversation, which can feel abrupt if you come from a culture that warms up more slowly. Dutch professionals also value honesty over politeness: if they are not interested in a connection, they will not pretend otherwise. This directness is not rudeness — it is efficiency. Once you understand that, networking in the Netherlands becomes considerably easier, because you always know where you stand."
-  - q: "What is a borrel and how do I use it for networking?"
-    a: "A borrel is an informal after-work drinks gathering — one of the most important social and professional rituals in Dutch culture. Companies hold internal borreltjes, but many sector groups, meetup communities, and coworking spaces also host borrels open to the public. The format is always the same: drinks (usually beer or wine), bitterballen or snacks, and unstructured conversation. Borrels are excellent for networking because the informal setting removes the awkward formality of a structured event. Show up, grab a drink, and join the nearest group conversation. If you wait to be introduced, you will be waiting all evening."
-  - q: "How important is LinkedIn for professional networking in the Netherlands?"
-    a: "Extremely important. The Netherlands has the highest LinkedIn usage rate per capita in the world — around 11 million users in a country of 17 million people. Dutch recruiters actively source candidates on the platform, and professional relationships are routinely initiated and maintained there. Being active on LinkedIn is not optional if you want to build a Dutch professional network. Post occasionally, engage with content in your field, and keep your profile updated with Dutch context. See our dedicated LinkedIn guide for expats for a full breakdown."
-  - q: "Which Dutch cities have the best networking scenes for expats?"
-    a: "Amsterdam leads by a wide margin for volume and variety — particularly in tech, finance, creative, and startup sectors. The Hague is strongest for international affairs, NGOs, public policy, and multilateral organisations (it hosts more international institutions than any other Dutch city). Eindhoven punches well above its size in manufacturing, deep tech, design, and hardware innovation — the Dutch Design Week in October is one of Europe's best networking events. Utrecht and Rotterdam both have growing scenes, particularly in sustainability, logistics, and health tech respectively."
-  - q: "Are there English-language networking events in the Netherlands?"
-    a: "Yes, many. InterNations organises events in Amsterdam, Rotterdam, The Hague, Utrecht, and Eindhoven that are conducted in English and specifically designed for expats and internationals. Most tech and startup events — including TNW Conference and Startup Amsterdam — are English by default. LinkedIn Groups for expats in the Netherlands also have regular meetups. Outside Amsterdam, English-language events are less frequent but exist; Meetup.com is the best place to find them."
+- q: Is networking in the Netherlands different from other countries?
+  a: 'Yes, noticeably so. Dutch professional networking is direct and purposeful — people get to the point quickly and small talk is minimal. The question ''what do you do?'' arrives within the first two minutes of any conversation, which can feel abrupt if you come from a culture that warms up more slowly. Dutch professionals also value honesty over politeness: if they are not interested in a connection, they will not pretend otherwise. This directness is not rudeness — it is efficiency. Once you understand that, networking in the Netherlands becomes considerably easier, because you always know where you stand.'
+- q: What is a borrel and how do I use it for networking?
+  a: 'A borrel is an informal after-work drinks gathering — one of the most important social and professional rituals in Dutch culture. Companies hold internal borreltjes, but many sector groups, meetup communities, and coworking spaces also host borrels open to the public. The format is always the same: drinks (usually beer or wine), bitterballen or snacks, and unstructured conversation. Borrels are excellent for networking because the informal setting removes the awkward formality of a structured event. Show up, grab a drink, and join the nearest group conversation. If you wait to be introduced, you will be waiting all evening.'
+- q: How important is LinkedIn for professional networking in the Netherlands?
+  a: Extremely important. The Netherlands has the highest LinkedIn usage rate per capita in the world — around 11 million users in a country of 17 million people. Dutch recruiters actively source candidates on the platform, and professional relationships are routinely initiated and maintained there. Being active on LinkedIn is not optional if you want to build a Dutch professional network. Post occasionally, engage with content in your field, and keep your profile updated with Dutch context. See our dedicated LinkedIn guide for expats for a full breakdown.
+- q: Which Dutch cities have the best networking scenes for expats?
+  a: Amsterdam leads by a wide margin for volume and variety — particularly in tech, finance, creative, and startup sectors. The Hague is strongest for international affairs, NGOs, public policy, and multilateral organisations (it hosts more international institutions than any other Dutch city). Eindhoven punches well above its size in manufacturing, deep tech, design, and hardware innovation — the Dutch Design Week in October is one of Europe's best networking events. Utrecht and Rotterdam both have growing scenes, particularly in sustainability, logistics, and health tech respectively.
+- q: Are there English-language networking events in the Netherlands?
+  a: Yes, many. InterNations organises events in Amsterdam, Rotterdam, The Hague, Utrecht, and Eindhoven that are conducted in English and specifically designed for expats and internationals. Most tech and startup events — including TNW Conference and Startup Amsterdam — are English by default. LinkedIn Groups for expats in the Netherlands also have regular meetups. Outside Amsterdam, English-language events are less frequent but exist; Meetup.com is the best place to find them.
+schema_type: Article
 ---
 
 The first time I walked into a Dutch networking event, I made the classic expat mistake of waiting for someone to come and introduce themselves to me. I stood near the drinks table for about ten minutes, drink in hand, watching people around me launch directly into substantive conversations as though they had known each other for years — some of them had, but most had not.

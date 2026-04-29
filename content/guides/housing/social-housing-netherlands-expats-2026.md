@@ -1,40 +1,54 @@
 ---
-title: "Social Housing Netherlands: Can Expats Get It?"
-date: 2026-03-18T10:00:00+01:00
-lastmod: 2026-04-23T10:00:00+01:00
-description: "Social housing in the Netherlands for expats: waiting lists, income ceiling, WoningNet registration, urgentieverklaring, and private rental alternatives."
-categories: ["housing"]
-tags: ["social housing netherlands", "woningnet", "social rent", "expat housing", "corporatie", "waiting list netherlands", "huurwoning"]
-keywords: ["social housing netherlands expats", "woningnet expat", "social housing waiting list netherlands", "corporatie netherlands expat", "can expats get social housing netherlands"]
+title: 'Social Housing Netherlands: Can Expats Get It?'
+date: 2026-03-18 10:00:00+01:00
+lastmod: 2026-04-23 10:00:00+01:00
+description: 'Social housing in the Netherlands for expats: waiting lists, income ceiling, WoningNet registration, urgentieverklaring, and private rental alternatives.'
+categories:
+- housing
+tags:
+- social housing netherlands
+- woningnet
+- social rent
+- expat housing
+- corporatie
+- waiting list netherlands
+- huurwoning
+keywords:
+- social housing netherlands expats
+- woningnet expat
+- social housing waiting list netherlands
+- corporatie netherlands expat
+- can expats get social housing netherlands
 affiliate: true
-author: "Sarah van den Berg"
-author_bio: "Expat coach and relocation specialist. Half Dutch, half British, living in the Netherlands for over 10 years."
-featured_image: "/images/categories/housing.svg"
+author: Sarah van den Berg
+author_bio: Expat coach and relocation specialist. Half Dutch, half British, living in the Netherlands for over 10 years.
+featured_image: /images/categories/housing.svg
 faq:
-  - q: "Can expats register for social housing in the Netherlands?"
-    a: "Yes, as long as you are registered in the BRP (municipal population register) and meet the income ceiling, you can register on WoningNet or the relevant regional platform. EU citizens register without any additional requirements. Non-EU citizens with a valid residence permit are also eligible. Registration is free and starting early is the only way to build up waiting time, which is the main allocation currency."
-  - q: "What is the income ceiling for social housing in the Netherlands in 2026?"
-    a: "The main income ceiling for social housing (sociale huurwoning) is €44,035 gross per year for a single person or couple in 2026. There is also a higher mid-tier band (€44,035-€55,000) under which at least 10% of social housing can be allocated. Above €55,000 gross you are effectively excluded from social housing by law."
-  - q: "How long is the waiting list for social housing in Amsterdam?"
-    a: "In Amsterdam, the average waiting time for a social housing allocation in 2026 is 11-14 years. This has increased significantly over the past decade. Rotterdam's waiting list runs 3-6 years in popular areas. Smaller cities like Almere, Breda, or Enschede have shorter lists of 2-4 years, though this varies by neighbourhood and dwelling type."
-  - q: "What is WoningNet?"
-    a: "WoningNet is the main housing allocation platform for social housing in the Amsterdam metropolitan region, covering Amsterdam, Almere, Purmerend, and other municipalities. You register for free, build up waiting time (inschrijftijd), and respond to weekly advertisements for available properties. Your waiting time determines your position in the allocation queue. Most properties go to the applicant with the most waiting time who meets the criteria."
-  - q: "What is an urgentieverklaring and who qualifies?"
-    a: "An urgentieverklaring is a priority declaration that jumps you to the front of the social housing queue. It is reserved for people in acute housing crises: domestic violence victims (leaving a shelter), people with severe medical conditions that cannot be managed in their current home, and in some cases people leaving care or prison. Standard housing situations — even very difficult ones like high private rent — do not qualify. The bar is intentionally high and decisions are made by municipal committees."
-  - q: "What is middenhuur and is it a better option for expats?"
-    a: "Middenhuur (middle-market rental) is the private rental sector between social housing and high-end rentals, roughly €900-1,250 per month in most cities. It is increasingly targeted by new government policy to create a regulated middle segment. Middenhuur properties are faster to access than social housing (no multi-year wait), have no income ceiling, and are typically better maintained than the oldest social housing stock. For most expats, middenhuur is the realistic target rather than social housing."
-  - q: "Does my waiting time on WoningNet carry over if I move cities?"
-    a: "No. Waiting time is specific to each regional platform. WoningNet Amsterdam waiting time does not transfer to WoningNet Rijnmond (Rotterdam) or Woningnet Regio Utrecht. If you register on multiple regional platforms simultaneously, you build up waiting time in each independently. Some people register in multiple regions as a long-term strategy."
+- q: Can expats register for social housing in the Netherlands?
+  a: Yes, as long as you are registered in the BRP (municipal population register) and meet the income ceiling, you can register on WoningNet or the relevant regional platform. EU citizens register without any additional requirements. Non-EU citizens with a valid residence permit are also eligible. Registration is free and starting early is the only way to build up waiting time, which is the main allocation currency.
+- q: What is the income ceiling for social housing in the Netherlands in 2026?
+  a: The main income ceiling for social housing (sociale huurwoning) is €44,035 gross per year for a single person or couple in 2026. There is also a higher mid-tier band (€44,035-€55,000) under which at least 10% of social housing can be allocated. Above €55,000 gross you are effectively excluded from social housing by law.
+- q: How long is the waiting list for social housing in Amsterdam?
+  a: In Amsterdam, the average waiting time for a social housing allocation in 2026 is 11-14 years. This has increased significantly over the past decade. Rotterdam's waiting list runs 3-6 years in popular areas. Smaller cities like Almere, Breda, or Enschede have shorter lists of 2-4 years, though this varies by neighbourhood and dwelling type.
+- q: What is WoningNet?
+  a: WoningNet is the main housing allocation platform for social housing in the Amsterdam metropolitan region, covering Amsterdam, Almere, Purmerend, and other municipalities. You register for free, build up waiting time (inschrijftijd), and respond to weekly advertisements for available properties. Your waiting time determines your position in the allocation queue. Most properties go to the applicant with the most waiting time who meets the criteria.
+- q: What is an urgentieverklaring and who qualifies?
+  a: 'An urgentieverklaring is a priority declaration that jumps you to the front of the social housing queue. It is reserved for people in acute housing crises: domestic violence victims (leaving a shelter), people with severe medical conditions that cannot be managed in their current home, and in some cases people leaving care or prison. Standard housing situations — even very difficult ones like high private rent — do not qualify. The bar is intentionally high and decisions are made by municipal committees.'
+- q: What is middenhuur and is it a better option for expats?
+  a: Middenhuur (middle-market rental) is the private rental sector between social housing and high-end rentals, roughly €900-1,250 per month in most cities. It is increasingly targeted by new government policy to create a regulated middle segment. Middenhuur properties are faster to access than social housing (no multi-year wait), have no income ceiling, and are typically better maintained than the oldest social housing stock. For most expats, middenhuur is the realistic target rather than social housing.
+- q: Does my waiting time on WoningNet carry over if I move cities?
+  a: No. Waiting time is specific to each regional platform. WoningNet Amsterdam waiting time does not transfer to WoningNet Rijnmond (Rotterdam) or Woningnet Regio Utrecht. If you register on multiple regional platforms simultaneously, you build up waiting time in each independently. Some people register in multiple regions as a long-term strategy.
 products:
-  - name: "HousingAnywhere"
-    url: "https://housinganywhere.com/"
-    price: "0.00"
-  - name: "Kamernet"
-    url: "https://kamernet.nl/"
-    price: "0.00"
-  - name: "Pararius"
-    url: "https://www.pararius.com/"
-    price: "0.00"
+- name: HousingAnywhere
+  url: https://housinganywhere.com/
+  price: '0.00'
+- name: Kamernet
+  url: https://kamernet.nl/
+  price: '0.00'
+- name: Pararius
+  url: https://www.pararius.com/
+  price: '0.00'
+schema_type: Article
 ---
 
 One of the most common questions I hear from expats who have been in the Netherlands for a year or two and are tired of paying €1,600 per month for a small Amsterdam apartment: "Can I get social housing?"

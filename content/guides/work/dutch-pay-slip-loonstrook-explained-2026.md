@@ -1,38 +1,49 @@
 ---
-title: "Dutch Pay Slip Explained: Your Loonstrook 2026"
-date: 2026-05-11T10:00:00+01:00
-lastmod: 2026-04-23T10:00:00+01:00
-description: "How to read your Dutch pay slip (loonstrook). Bruto loon, loonheffing, ZVW, pensioenpremie, vakantiegeld and why your net is lower than your gross."
-categories: ["work"]
-tags: ["pay slip", "loonstrook", "salary", "tax", "vakantiegeld"]
-keywords: ["dutch pay slip explained", "loonstrook netherlands", "dutch salary deductions", "vakantiegeld explained"]
+title: 'Dutch Pay Slip Explained: Your Loonstrook 2026'
+date: 2026-05-11 10:00:00+01:00
+lastmod: 2026-04-23 10:00:00+01:00
+description: How to read your Dutch pay slip (loonstrook). Bruto loon, loonheffing, ZVW, pensioenpremie, vakantiegeld and why your net is lower than your gross.
+categories:
+- work
+tags:
+- pay slip
+- loonstrook
+- salary
+- tax
+- vakantiegeld
+keywords:
+- dutch pay slip explained
+- loonstrook netherlands
+- dutch salary deductions
+- vakantiegeld explained
 affiliate: true
 products:
-  - name: "LinkedIn Premium"
-    url: "https://www.linkedin.com/premium/"
-    price: "29.99"
-  - name: "Undutchables"
-    url: "https://undutchables.nl/"
-    price: "0.00"
-  - name: "Together Abroad"
-    url: "https://www.togetherabroad.nl/"
-    price: "0.00"
-author: "Sarah van den Berg"
-author_bio: "Expat coach and relocation specialist. Half Dutch, half British, living in the Netherlands for over 10 years."
-featured_image: "/images/categories/work.svg"
+- name: LinkedIn Premium
+  url: https://www.linkedin.com/premium/
+  price: '29.99'
+- name: Undutchables
+  url: https://undutchables.nl/
+  price: '0.00'
+- name: Together Abroad
+  url: https://www.togetherabroad.nl/
+  price: '0.00'
+author: Sarah van den Berg
+author_bio: Expat coach and relocation specialist. Half Dutch, half British, living in the Netherlands for over 10 years.
+featured_image: /images/categories/work.svg
 faq:
-  - q: "What is a loonstrook in the Netherlands?"
-    a: "A loonstrook is your Dutch pay slip — the document your employer provides with every salary payment, breaking down your gross pay (bruto loon), all deductions (tax, social contributions, pension), and your net pay (netto loon). You are legally entitled to receive one every pay period. Most Dutch employers now send them digitally via an employee portal."
-  - q: "Why is there such a big difference between my gross and net salary in the Netherlands?"
-    a: "The gap between gross and net in the Netherlands is larger than in many countries because Dutch social insurance contributions are paid by employees as well as employers. Your gross salary is reduced by loonheffing (a combined income tax and national insurance withholding), ZVW-bijdrage (health insurance contribution), and often pensioenpremie (pension premium). On a gross salary of €4,500 per month, you might take home roughly €3,000–€3,200 net, depending on your situation and whether the 30% ruling applies."
-  - q: "What is vakantiegeld and when do I receive it?"
-    a: "Vakantiegeld (holiday allowance) is a mandatory payment of at least 8% of your gross annual salary. It is built up each month — usually shown as a reserved amount on your pay slip — and paid out in a lump sum, typically in May. For a gross monthly salary of €4,500, your May paycheck will include approximately €4,320 extra on top of your regular salary. It is taxed as regular income."
-  - q: "What is ZVW-bijdrage on my pay slip?"
-    a: "The ZVW-bijdrage is your employer's contribution to the Dutch healthcare system (Zorgverzekeringswet). Although it is legally the employer's contribution, it is paid on your behalf and therefore appears as a deduction on your pay slip rather than as money you actually receive. In 2026, the ZVW rate is 6.51% of your fiscaal loon (capped at a maximum contribution). It is not the same as your monthly health insurance premium, which you pay separately to your insurer."
-  - q: "Do I get a 13th month salary in the Netherlands?"
-    a: "There is no legal right to a 13th month salary in the Netherlands. Whether you receive one depends entirely on your employer and your collective labour agreement (CAO). Some sectors — particularly government, education, and banking — include a year-end bonus (eindejaarsuitkering) that is effectively a 13th month. If your contract or CAO mentions it, it is contractually binding. If not, it is entirely at your employer's discretion."
-  - q: "How does the 30% ruling affect my pay slip?"
-    a: "If you qualify for the 30% ruling, your employer can pay 30% of your gross salary as a tax-free allowance. In practice this means that only 70% of your agreed salary is treated as taxable income, significantly reducing your loonheffing deduction. The ruling appears on your pay slip as a separate tax-free component. Over a full year, the difference in take-home pay is substantial — often €500–€900 per month on a mid-range salary. See the full guide at /guides/finance/30-percent-ruling-netherlands-2026/ for eligibility criteria."
+- q: What is a loonstrook in the Netherlands?
+  a: A loonstrook is your Dutch pay slip — the document your employer provides with every salary payment, breaking down your gross pay (bruto loon), all deductions (tax, social contributions, pension), and your net pay (netto loon). You are legally entitled to receive one every pay period. Most Dutch employers now send them digitally via an employee portal.
+- q: Why is there such a big difference between my gross and net salary in the Netherlands?
+  a: The gap between gross and net in the Netherlands is larger than in many countries because Dutch social insurance contributions are paid by employees as well as employers. Your gross salary is reduced by loonheffing (a combined income tax and national insurance withholding), ZVW-bijdrage (health insurance contribution), and often pensioenpremie (pension premium). On a gross salary of €4,500 per month, you might take home roughly €3,000–€3,200 net, depending on your situation and whether the 30% ruling applies.
+- q: What is vakantiegeld and when do I receive it?
+  a: Vakantiegeld (holiday allowance) is a mandatory payment of at least 8% of your gross annual salary. It is built up each month — usually shown as a reserved amount on your pay slip — and paid out in a lump sum, typically in May. For a gross monthly salary of €4,500, your May paycheck will include approximately €4,320 extra on top of your regular salary. It is taxed as regular income.
+- q: What is ZVW-bijdrage on my pay slip?
+  a: The ZVW-bijdrage is your employer's contribution to the Dutch healthcare system (Zorgverzekeringswet). Although it is legally the employer's contribution, it is paid on your behalf and therefore appears as a deduction on your pay slip rather than as money you actually receive. In 2026, the ZVW rate is 6.51% of your fiscaal loon (capped at a maximum contribution). It is not the same as your monthly health insurance premium, which you pay separately to your insurer.
+- q: Do I get a 13th month salary in the Netherlands?
+  a: There is no legal right to a 13th month salary in the Netherlands. Whether you receive one depends entirely on your employer and your collective labour agreement (CAO). Some sectors — particularly government, education, and banking — include a year-end bonus (eindejaarsuitkering) that is effectively a 13th month. If your contract or CAO mentions it, it is contractually binding. If not, it is entirely at your employer's discretion.
+- q: How does the 30% ruling affect my pay slip?
+  a: If you qualify for the 30% ruling, your employer can pay 30% of your gross salary as a tax-free allowance. In practice this means that only 70% of your agreed salary is treated as taxable income, significantly reducing your loonheffing deduction. The ruling appears on your pay slip as a separate tax-free component. Over a full year, the difference in take-home pay is substantial — often €500–€900 per month on a mid-range salary. See the full guide at /guides/finance/30-percent-ruling-netherlands-2026/ for eligibility criteria.
+schema_type: Article
 ---
 
 The first time I received a Dutch pay slip, I stared at it for a long time. I could see my gross salary at the top and my net salary at the bottom, and the two numbers were separated by a list of Dutch terms I had never encountered and deductions that seemed to eat up more than a third of what I thought I was earning.

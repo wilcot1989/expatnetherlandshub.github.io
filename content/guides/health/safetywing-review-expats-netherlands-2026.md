@@ -1,38 +1,49 @@
 ---
-title: "SafetyWing Review for Expats NL 2026"
-date: 2026-03-18T10:00:00+01:00
-lastmod: 2026-04-23T10:00:00+01:00
-description: "Honest SafetyWing review for expats in the Netherlands 2026. What Nomad Insurance covers, what it doesn't, when it makes sense vs Dutch health insurance."
-categories: ["health"]
-tags: ["SafetyWing", "expat insurance", "nomad insurance", "health coverage Netherlands", "travel insurance"]
-keywords: ["safetywing review netherlands", "safetywing nomad insurance expat", "safetywing netherlands health insurance", "is safetywing enough netherlands"]
+title: SafetyWing Review for Expats NL 2026
+date: 2026-03-18 10:00:00+01:00
+lastmod: 2026-04-23 10:00:00+01:00
+description: Honest SafetyWing review for expats in the Netherlands 2026. What Nomad Insurance covers, what it doesn't, when it makes sense vs Dutch health insurance.
+categories:
+- health
+tags:
+- SafetyWing
+- expat insurance
+- nomad insurance
+- health coverage Netherlands
+- travel insurance
+keywords:
+- safetywing review netherlands
+- safetywing nomad insurance expat
+- safetywing netherlands health insurance
+- is safetywing enough netherlands
 affiliate: true
 products:
-  - name: "SafetyWing"
-    url: "https://go.expatnetherlandshub.com/safetywing?ref=/guides/health/safetywing-review-expats-netherlands-2026/"
-    price: "45.08"
-  - name: "CZ"
-    url: "https://www.cz.nl/"
-    price: "0.00"
-  - name: "Zilveren Kruis"
-    url: "https://www.zilverenkruis.nl/"
-    price: "0.00"
-author: "Sarah van den Berg"
-author_bio: "Expat coach and relocation specialist. Half Dutch, half British, living in the Netherlands for over 10 years."
-featured_image: "/images/categories/health.svg"
+- name: SafetyWing
+  url: https://go.expatnetherlandshub.com/safetywing?ref=/guides/health/safetywing-review-expats-netherlands-2026/
+  price: '45.08'
+- name: CZ
+  url: https://www.cz.nl/
+  price: '0.00'
+- name: Zilveren Kruis
+  url: https://www.zilverenkruis.nl/
+  price: '0.00'
+author: Sarah van den Berg
+author_bio: Expat coach and relocation specialist. Half Dutch, half British, living in the Netherlands for over 10 years.
+featured_image: /images/categories/health.svg
 faq:
-  - q: "Can SafetyWing replace Dutch health insurance (basisverzekering)?"
-    a: "No. SafetyWing Nomad Insurance is travel and emergency medical insurance — it is not a regulated Dutch health insurance product and does not fulfil the legal obligation to hold a basisverzekering. If you are required by Dutch law to have a basisverzekering (which applies to most residents who work in the Netherlands), using SafetyWing instead will leave you exposed to fines from the CAK (Centraal Administratie Kantoor) that can reach several hundred euros. SafetyWing has a specific role: gap coverage during the initial weeks before your Dutch insurance starts, travel coverage when you leave the Netherlands, and coverage for people who are legally exempt from the Dutch system. It should not be treated as a substitute for the basisverzekering by anyone who is legally required to have it."
-  - q: "How much does SafetyWing cost?"
-    a: "SafetyWing Nomad Insurance costs $45.08 USD per 4 weeks (approximately EUR 40–42 per month at current exchange rates) for adults aged 18–39. The price increases with age: $69.44 for ages 40–49, $113.36 for ages 50–59, and $189.68 for ages 60–69. Children aged 0–9 are free when a parent is covered. Children 10–17 cost $11.08 per 4 weeks. These are the standard rates for coverage excluding the USA. Including USA coverage costs more."
-  - q: "What does SafetyWing actually cover?"
-    a: "SafetyWing Nomad Insurance covers emergency medical treatment, hospitalisation, ambulance transport, emergency dental (up to $1,000 USD), trip interruption, travel delay, and lost or stolen luggage (limited). The key word is emergency — SafetyWing covers acute illness and injury, not routine medical care, GP visits, specialist consultations, or ongoing treatment for chronic conditions. There is a $250 USD deductible per claim period."
-  - q: "Does SafetyWing cover pre-existing conditions?"
-    a: "No. SafetyWing explicitly excludes pre-existing conditions. If you have a condition that existed before your SafetyWing policy started, treatment for that condition is not covered. This is a standard exclusion for travel insurance products. For expats with ongoing medical conditions, SafetyWing does not provide the protection they need — Dutch health insurance (basisverzekering) covers pre-existing conditions at regulated rates with no exclusions allowed."
-  - q: "When does SafetyWing make sense for someone in the Netherlands?"
-    a: "SafetyWing makes sense in three specific situations in the Netherlands: 1) As gap coverage during the weeks between arriving and getting your Dutch health insurance started (the period after registration but before your basisverzekering is active). 2) As travel insurance when you leave the Netherlands for trips abroad — it covers you outside your home country. 3) For people who are genuinely exempt from the Dutch basisverzekering requirement, such as certain posted workers from outside the EU, international organisation employees, or truly nomadic people who do not register as Dutch residents."
-  - q: "How does the SafetyWing claims process work?"
-    a: "SafetyWing operates an online claims portal. You submit a claim at safetywing.com with supporting documents (medical receipts, doctor's notes, hospital reports). SafetyWing reviews claims within 5–10 business days in most cases. The $250 USD deductible per claim period applies — you pay the first $250 USD of each claim period yourself. Payment is in USD. For large medical bills, SafetyWing can sometimes arrange direct payment to the hospital; for smaller amounts, you typically pay upfront and are reimbursed. Keep all medical receipts."
+- q: Can SafetyWing replace Dutch health insurance (basisverzekering)?
+  a: 'No. SafetyWing Nomad Insurance is travel and emergency medical insurance — it is not a regulated Dutch health insurance product and does not fulfil the legal obligation to hold a basisverzekering. If you are required by Dutch law to have a basisverzekering (which applies to most residents who work in the Netherlands), using SafetyWing instead will leave you exposed to fines from the CAK (Centraal Administratie Kantoor) that can reach several hundred euros. SafetyWing has a specific role: gap coverage during the initial weeks before your Dutch insurance starts, travel coverage when you leave the Netherlands, and coverage for people who are legally exempt from the Dutch system. It should not be treated as a substitute for the basisverzekering by anyone who is legally required to have it.'
+- q: How much does SafetyWing cost?
+  a: 'SafetyWing Nomad Insurance costs $45.08 USD per 4 weeks (approximately EUR 40–42 per month at current exchange rates) for adults aged 18–39. The price increases with age: $69.44 for ages 40–49, $113.36 for ages 50–59, and $189.68 for ages 60–69. Children aged 0–9 are free when a parent is covered. Children 10–17 cost $11.08 per 4 weeks. These are the standard rates for coverage excluding the USA. Including USA coverage costs more.'
+- q: What does SafetyWing actually cover?
+  a: SafetyWing Nomad Insurance covers emergency medical treatment, hospitalisation, ambulance transport, emergency dental (up to $1,000 USD), trip interruption, travel delay, and lost or stolen luggage (limited). The key word is emergency — SafetyWing covers acute illness and injury, not routine medical care, GP visits, specialist consultations, or ongoing treatment for chronic conditions. There is a $250 USD deductible per claim period.
+- q: Does SafetyWing cover pre-existing conditions?
+  a: No. SafetyWing explicitly excludes pre-existing conditions. If you have a condition that existed before your SafetyWing policy started, treatment for that condition is not covered. This is a standard exclusion for travel insurance products. For expats with ongoing medical conditions, SafetyWing does not provide the protection they need — Dutch health insurance (basisverzekering) covers pre-existing conditions at regulated rates with no exclusions allowed.
+- q: When does SafetyWing make sense for someone in the Netherlands?
+  a: 'SafetyWing makes sense in three specific situations in the Netherlands: 1) As gap coverage during the weeks between arriving and getting your Dutch health insurance started (the period after registration but before your basisverzekering is active). 2) As travel insurance when you leave the Netherlands for trips abroad — it covers you outside your home country. 3) For people who are genuinely exempt from the Dutch basisverzekering requirement, such as certain posted workers from outside the EU, international organisation employees, or truly nomadic people who do not register as Dutch residents.'
+- q: How does the SafetyWing claims process work?
+  a: SafetyWing operates an online claims portal. You submit a claim at safetywing.com with supporting documents (medical receipts, doctor's notes, hospital reports). SafetyWing reviews claims within 5–10 business days in most cases. The $250 USD deductible per claim period applies — you pay the first $250 USD of each claim period yourself. Payment is in USD. For large medical bills, SafetyWing can sometimes arrange direct payment to the hospital; for smaller amounts, you typically pay upfront and are reimbursed. Keep all medical receipts.
+schema_type: Review
 ---
 
 SafetyWing is one of the products I recommend most frequently, and also one of the products I spend the most time explaining the limits of. Both of those things can be true simultaneously, and understanding the distinction is the most important thing you can take from this review.

@@ -1,36 +1,55 @@
 ---
-title: "Dutch Mortgage Explained: Complete Guide for Expats (2026)"
-date: 2026-03-21T10:00:00+01:00
-lastmod: 2026-04-23T10:00:00+01:00
-description: "How to get a Dutch mortgage as an expat in 2026. Mortgage types, maximum borrowing, NHG, 30% ruling impact, and buying process explained."
-categories: ["finance"]
-tags: ["mortgage", "hypotheek", "buying house", "expat mortgage", "Dutch mortgage"]
-keywords: ["dutch mortgage expats 2026", "hypotheek expat netherlands", "buying house netherlands expat", "NHG 2026 limit", "mortgage interest deduction netherlands", "30 percent ruling mortgage impact", "annuity vs linear mortgage netherlands", "ZZP mortgage netherlands", "temporary contract mortgage netherlands", "eigenwoningforfait explained", "mortgage costs buying house netherlands", "expat home loan netherlands"]
+title: 'Dutch Mortgage Explained: Complete Guide for Expats (2026)'
+date: 2026-03-21 10:00:00+01:00
+lastmod: 2026-04-23 10:00:00+01:00
+description: How to get a Dutch mortgage as an expat in 2026. Mortgage types, maximum borrowing, NHG, 30% ruling impact, and buying process explained.
+categories:
+- finance
+tags:
+- mortgage
+- hypotheek
+- buying house
+- expat mortgage
+- Dutch mortgage
+keywords:
+- dutch mortgage expats 2026
+- hypotheek expat netherlands
+- buying house netherlands expat
+- NHG 2026 limit
+- mortgage interest deduction netherlands
+- 30 percent ruling mortgage impact
+- annuity vs linear mortgage netherlands
+- ZZP mortgage netherlands
+- temporary contract mortgage netherlands
+- eigenwoningforfait explained
+- mortgage costs buying house netherlands
+- expat home loan netherlands
 affiliate: true
-author: "Sarah van den Berg"
-author_bio: "Expat coach and relocation specialist. Half Dutch, half British, living in the Netherlands for over 10 years."
-featured_image: "/images/featured/dutch-mortgage-explained-expats-2026.webp"
+author: Sarah van den Berg
+author_bio: Expat coach and relocation specialist. Half Dutch, half British, living in the Netherlands for over 10 years.
+featured_image: /images/featured/dutch-mortgage-explained-expats-2026.webp
 products:
-  - name: "Wise"
-    url: "https://go.expatnetherlandshub.com/wise?ref=/guides/finance/dutch-mortgage-explained-expats-2026/"
-    price: "0.00"
-  - name: "bunq"
-    url: "https://www.bunq.com/"
-    price: "2.99"
-  - name: "ING"
-    url: "https://www.ing.nl/particulier"
-    price: "0.00"
+- name: Wise
+  url: https://go.expatnetherlandshub.com/wise?ref=/guides/finance/dutch-mortgage-explained-expats-2026/
+  price: '0.00'
+- name: bunq
+  url: https://www.bunq.com/
+  price: '2.99'
+- name: ING
+  url: https://www.ing.nl/particulier
+  price: '0.00'
 faq:
-  - q: "Can I get a Dutch mortgage as an expat without a permanent residence permit?"
-    a: "Yes, you can. Dutch lenders do not legally require permanent residency to approve a mortgage. What they care about is income stability and your ability to repay. You will typically need a valid residence and work permit, a BSN number, and a Dutch employment contract. If you have a temporary contract, your employer can provide an intentieverklaring (employer intent statement) to show the contract is likely to be renewed. Some lenders are stricter than others, which is why using a mortgage advisor who specialises in expat applications makes a significant difference — they know which lenders are actually expat-friendly rather than just claiming to be."
-  - q: "How does the 30% ruling affect how much mortgage I can borrow?"
-    a: "The 30% ruling reduces your taxable income to 70% of your gross salary, and most standard Dutch lenders calculate your borrowing capacity based on taxable income rather than gross income. This means a €90,000 gross salary with the 30% ruling could be treated as €63,000 for mortgage purposes — reducing your borrowing capacity by tens of thousands of euros. However, several expat-specialist lenders and brokers can arrange mortgages that use your full gross salary for the calculation. This is one of the most important reasons to use a specialist advisor rather than walking into a high-street bank. See our full breakdown in the [30% ruling guide](/guides/finance/30-percent-ruling-netherlands-2026/)."
-  - q: "What is the NHG limit for 2026 and how does it help expats?"
-    a: "In 2026, the Nationale Hypotheek Garantie (NHG) limit is €435,000 (or €461,100 if you take an energy-saving mortgage). NHG is a state guarantee that protects both you and the lender if you default on your mortgage due to circumstances beyond your control, such as job loss, divorce, or illness. For borrowers, the main benefit is a lower interest rate — typically 0.4–0.6% lower than a non-NHG mortgage. The one-time NHG fee (borgtochtprovisie) is 0.6% of the mortgage amount in 2026. For expats buying below the NHG threshold, it is almost always worth taking."
-  - q: "What is eigenwoningforfait and will it affect me as an expat homeowner?"
-    a: "Eigenwoningforfait is a notional rental value that the Dutch tax authorities add to your taxable income once you own a home. The idea is that by living in your own property rather than renting it out, you are effectively earning an income in kind. In 2026, the rate is 0.35% of your home's WOZ value (capped at a maximum for higher-value properties). This amount is added to Box 1 income. However, it is partially offset by the mortgage interest deduction (hypotheekrenteaftrek), which allows you to deduct the interest you pay on your mortgage from your taxable income. For most expat homeowners, the interest deduction far outweighs the eigenwoningforfait, particularly in the early years of an annuity mortgage when interest payments are highest."
-  - q: "Who is this for?"
-    a: "See the section above on who benefits most from this service or guide."
+- q: Can I get a Dutch mortgage as an expat without a permanent residence permit?
+  a: Yes, you can. Dutch lenders do not legally require permanent residency to approve a mortgage. What they care about is income stability and your ability to repay. You will typically need a valid residence and work permit, a BSN number, and a Dutch employment contract. If you have a temporary contract, your employer can provide an intentieverklaring (employer intent statement) to show the contract is likely to be renewed. Some lenders are stricter than others, which is why using a mortgage advisor who specialises in expat applications makes a significant difference — they know which lenders are actually expat-friendly rather than just claiming to be.
+- q: How does the 30% ruling affect how much mortgage I can borrow?
+  a: The 30% ruling reduces your taxable income to 70% of your gross salary, and most standard Dutch lenders calculate your borrowing capacity based on taxable income rather than gross income. This means a €90,000 gross salary with the 30% ruling could be treated as €63,000 for mortgage purposes — reducing your borrowing capacity by tens of thousands of euros. However, several expat-specialist lenders and brokers can arrange mortgages that use your full gross salary for the calculation. This is one of the most important reasons to use a specialist advisor rather than walking into a high-street bank. See our full breakdown in the [30% ruling guide](/guides/finance/30-percent-ruling-netherlands-2026/).
+- q: What is the NHG limit for 2026 and how does it help expats?
+  a: In 2026, the Nationale Hypotheek Garantie (NHG) limit is €435,000 (or €461,100 if you take an energy-saving mortgage). NHG is a state guarantee that protects both you and the lender if you default on your mortgage due to circumstances beyond your control, such as job loss, divorce, or illness. For borrowers, the main benefit is a lower interest rate — typically 0.4–0.6% lower than a non-NHG mortgage. The one-time NHG fee (borgtochtprovisie) is 0.6% of the mortgage amount in 2026. For expats buying below the NHG threshold, it is almost always worth taking.
+- q: What is eigenwoningforfait and will it affect me as an expat homeowner?
+  a: Eigenwoningforfait is a notional rental value that the Dutch tax authorities add to your taxable income once you own a home. The idea is that by living in your own property rather than renting it out, you are effectively earning an income in kind. In 2026, the rate is 0.35% of your home's WOZ value (capped at a maximum for higher-value properties). This amount is added to Box 1 income. However, it is partially offset by the mortgage interest deduction (hypotheekrenteaftrek), which allows you to deduct the interest you pay on your mortgage from your taxable income. For most expat homeowners, the interest deduction far outweighs the eigenwoningforfait, particularly in the early years of an annuity mortgage when interest payments are highest.
+- q: Who is this for?
+  a: See the section above on who benefits most from this service or guide.
+schema_type: Article
 ---
 
 A client of mine — a British software engineer who had been renting in Utrecht for three years — came to me in a state of near-panic. She had just had her mortgage application rejected by a major Dutch bank and could not understand why. She earned €95,000 gross, had savings, held a stable job at a tech company with a permanent contract. On paper, she was an ideal borrower.

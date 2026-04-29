@@ -1,11 +1,12 @@
 ---
-title: "Expat Insurance Comparison Netherlands 2026"
-description: "Compare expat insurance options in the Netherlands for 2026. Recommendations for liability, home contents, travel, and health insurance for your situation."
-type: "tools"
-layout: "single"
+title: Expat Insurance Comparison Netherlands 2026
+description: Compare expat insurance options in the Netherlands for 2026. Recommendations for liability, home contents, travel, and health insurance for your situation.
+type: tools
+layout: single
 affiliate: true
-author: "Sarah van den Berg"
-author_bio: "Expat coach and writer at ExpatNetherlandsHub.com"
+author: Sarah van den Berg
+author_bio: Expat coach and writer at ExpatNetherlandsHub.com
+schema_type: Article
 ---
 
 <script type="application/ld+json">

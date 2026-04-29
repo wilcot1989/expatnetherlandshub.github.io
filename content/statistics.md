@@ -1,12 +1,13 @@
 ---
-title: "Expat Statistics Netherlands 2026: Key Data & Figures"
-date: 2026-03-17T10:00:00+01:00
-lastmod: 2026-04-23T10:00:00+01:00
-description: "Key statistics about expats in the Netherlands: population, salaries, cost of living, housing, and healthcare costs. Free to cite with attribution."
-featured_image: "/images/categories/finance.svg"
+title: 'Expat Statistics Netherlands 2026: Key Data & Figures'
+date: 2026-03-17 10:00:00+01:00
+lastmod: 2026-04-23 10:00:00+01:00
+description: 'Key statistics about expats in the Netherlands: population, salaries, cost of living, housing, and healthcare costs. Free to cite with attribution.'
+featured_image: /images/categories/finance.svg
 affiliate: false
-author: "Sarah van den Berg"
-author_bio: "Expat coach and relocation specialist. Half Dutch, half British, living in the Netherlands for over 10 years."
+author: Sarah van den Berg
+author_bio: Expat coach and relocation specialist. Half Dutch, half British, living in the Netherlands for over 10 years.
+schema_type: Article
 ---
 
 This page collects key data and figures about expat life in the Netherlands in 2026. Sources include CBS (Statistics Netherlands), IND (Immigration and Naturalisation Service), Belastingdienst, and other Dutch government bodies. All figures are updated as new data becomes available.

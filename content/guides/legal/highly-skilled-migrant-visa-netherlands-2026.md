@@ -1,38 +1,49 @@
 ---
-title: "Highly Skilled Migrant Visa Netherlands 2026: Full Guide"
-date: 2026-03-06T10:00:00+01:00
-lastmod: 2026-04-23T10:00:00+01:00
-description: "Complete guide to the Dutch Highly Skilled Migrant (Kennismigrant) visa in 2026. Salary requirements, application process, and timeline explained."
-categories: ["relocation"]
-tags: ["highly skilled migrant", "kennismigrant", "work visa", "IND", "immigration"]
-keywords: ["highly skilled migrant visa Netherlands", "kennismigrant visa", "work permit Netherlands", "IND visa application"]
+title: 'Highly Skilled Migrant Visa Netherlands 2026: Full Guide'
+date: 2026-03-06 10:00:00+01:00
+lastmod: 2026-04-23 10:00:00+01:00
+description: Complete guide to the Dutch Highly Skilled Migrant (Kennismigrant) visa in 2026. Salary requirements, application process, and timeline explained.
+categories:
+- relocation
+tags:
+- highly skilled migrant
+- kennismigrant
+- work visa
+- IND
+- immigration
+keywords:
+- highly skilled migrant visa Netherlands
+- kennismigrant visa
+- work permit Netherlands
+- IND visa application
 affiliate: true
 products:
-  - name: "Expatax"
-    url: "https://www.expatax.nl/"
-    price: "0.00"
-  - name: "Blue Umbrella"
-    url: "https://www.blueumbrella.nl/"
-    price: "0.00"
-  - name: "IND"
-    url: "https://ind.nl/en"
-    price: "0.00"
-author: "Sarah van den Berg"
-author_bio: "Expat coach and relocation specialist. Half Dutch, half British, living in the Netherlands for over 10 years."
-featured_image: "/images/featured/highly-skilled-migrant-visa-netherlands-2026.webp"
+- name: Expatax
+  url: https://www.expatax.nl/
+  price: '0.00'
+- name: Blue Umbrella
+  url: https://www.blueumbrella.nl/
+  price: '0.00'
+- name: IND
+  url: https://ind.nl/en
+  price: '0.00'
+author: Sarah van den Berg
+author_bio: Expat coach and relocation specialist. Half Dutch, half British, living in the Netherlands for over 10 years.
+featured_image: /images/featured/highly-skilled-migrant-visa-netherlands-2026.webp
 faq:
-  - q: "What is the salary requirement for a highly skilled migrant visa in 2026?"
-    a: "For applicants aged 30 and over, the minimum gross monthly salary is €5,331 (excluding 8% holiday allowance). For those under 30, it is €3,909. Reduced rates apply for certain categories like researchers and recent graduates from Dutch universities. These amounts are adjusted annually by the IND."
-  - q: "How long does it take to get a highly skilled migrant visa?"
-    a: "The standard processing time is 2-4 weeks after the employer submits the application. However, if additional documents are needed or during busy periods, it can take up to 6-8 weeks. Employers with recognized sponsor status benefit from faster processing."
-  - q: "Can I change employers on a highly skilled migrant visa?"
-    a: "Yes, but your new employer must also be an IND-recognized sponsor and must submit a new visa application for you. There is typically a 3-month grace period between jobs to find a new sponsor. During this time your residence permit remains valid."
-  - q: "Does my partner automatically get a visa too?"
-    a: "Your partner (spouse or registered partner) can apply for a dependent residence permit, which includes the right to work without restrictions. Unmarried partners must prove they have lived together for at least 6 months or have a notarized cohabitation agreement."
-  - q: "Do I need to speak Dutch for a highly skilled migrant visa?"
-    a: "No, there is no Dutch language requirement for the highly skilled migrant visa. However, learning Dutch is beneficial for daily life and long-term integration. The inburgeringsexamen (civic integration exam) is not required for highly skilled migrants, unlike some other visa categories."
-  - q: "Can I become a permanent resident after a highly skilled migrant visa?"
-    a: "Yes, after 5 years of continuous legal residence in the Netherlands, you can apply for permanent residency or Dutch citizenship. Note that for citizenship, you will need to pass the inburgeringsexamen, which requires Dutch language skills at B1 level."
+- q: What is the salary requirement for a highly skilled migrant visa in 2026?
+  a: For applicants aged 30 and over, the minimum gross monthly salary is €5,331 (excluding 8% holiday allowance). For those under 30, it is €3,909. Reduced rates apply for certain categories like researchers and recent graduates from Dutch universities. These amounts are adjusted annually by the IND.
+- q: How long does it take to get a highly skilled migrant visa?
+  a: The standard processing time is 2-4 weeks after the employer submits the application. However, if additional documents are needed or during busy periods, it can take up to 6-8 weeks. Employers with recognized sponsor status benefit from faster processing.
+- q: Can I change employers on a highly skilled migrant visa?
+  a: Yes, but your new employer must also be an IND-recognized sponsor and must submit a new visa application for you. There is typically a 3-month grace period between jobs to find a new sponsor. During this time your residence permit remains valid.
+- q: Does my partner automatically get a visa too?
+  a: Your partner (spouse or registered partner) can apply for a dependent residence permit, which includes the right to work without restrictions. Unmarried partners must prove they have lived together for at least 6 months or have a notarized cohabitation agreement.
+- q: Do I need to speak Dutch for a highly skilled migrant visa?
+  a: No, there is no Dutch language requirement for the highly skilled migrant visa. However, learning Dutch is beneficial for daily life and long-term integration. The inburgeringsexamen (civic integration exam) is not required for highly skilled migrants, unlike some other visa categories.
+- q: Can I become a permanent resident after a highly skilled migrant visa?
+  a: Yes, after 5 years of continuous legal residence in the Netherlands, you can apply for permanent residency or Dutch citizenship. Note that for citizenship, you will need to pass the inburgeringsexamen, which requires Dutch language skills at B1 level.
+schema_type: Article
 ---
 
 Most of my expat clients come to the Netherlands on a highly skilled migrant visa, and the good news is that it is one of the smoother immigration processes I have seen. Your employer does most of the heavy lifting, and the turnaround is surprisingly fast. That said, I have watched a few applications hit unnecessary snags because of avoidable mistakes. Here is the step-by-step guide I give every client to make sure everything goes right the first time.

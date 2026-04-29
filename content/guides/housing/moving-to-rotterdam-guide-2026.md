@@ -1,40 +1,53 @@
 ---
-title: "Moving to Rotterdam 2026: The Complete Expat Guide"
-date: 2026-03-06T10:00:00+01:00
-lastmod: 2026-04-23T10:00:00+01:00
-description: "Complete guide to moving to Rotterdam as an expat in 2026. Housing, neighborhoods, costs, transport, and practical relocation tips."
-categories: ["relocation"]
-tags: ["rotterdam", "moving to rotterdam", "rotterdam expat", "rotterdam neighborhoods", "rotterdam housing", "relocation"]
-keywords: ["moving to rotterdam", "rotterdam expat guide", "living in rotterdam", "rotterdam relocation", "rotterdam neighborhoods expats"]
+title: 'Moving to Rotterdam 2026: The Complete Expat Guide'
+date: 2026-03-06 10:00:00+01:00
+lastmod: 2026-04-23 10:00:00+01:00
+description: Complete guide to moving to Rotterdam as an expat in 2026. Housing, neighborhoods, costs, transport, and practical relocation tips.
+categories:
+- relocation
+tags:
+- rotterdam
+- moving to rotterdam
+- rotterdam expat
+- rotterdam neighborhoods
+- rotterdam housing
+- relocation
+keywords:
+- moving to rotterdam
+- rotterdam expat guide
+- living in rotterdam
+- rotterdam relocation
+- rotterdam neighborhoods expats
 affiliate: true
-author: "Sarah van den Berg"
-author_bio: "Expat coach and relocation specialist. Half Dutch, half British, living in the Netherlands for over 10 years."
-featured_image: "/images/featured/moving-to-rotterdam-guide-2026.webp"
+author: Sarah van den Berg
+author_bio: Expat coach and relocation specialist. Half Dutch, half British, living in the Netherlands for over 10 years.
+featured_image: /images/featured/moving-to-rotterdam-guide-2026.webp
 faq:
-  - q: "Is Rotterdam cheaper than Amsterdam?"
-    a: "Yes, significantly. Rent in Rotterdam is approximately 20-35% lower than in Amsterdam. A one-bedroom apartment in the center of Rotterdam costs EUR 1,000-1,500 per month compared to EUR 1,400-2,000 in Amsterdam. Groceries, dining out, and general living costs are also moderately lower."
-  - q: "Is Rotterdam a good city for expats?"
-    a: "Rotterdam is increasingly popular with expats who want the benefits of living in a major Dutch city without Amsterdam's prices and crowds. The city has a strong international community, modern architecture, excellent food scene, and good job market, especially in logistics, maritime, engineering, and tech."
-  - q: "Do people speak English in Rotterdam?"
-    a: "Yes, English is widely spoken in Rotterdam, especially among younger residents and in professional settings. However, the level of English proficiency is slightly lower than in Amsterdam, and learning basic Dutch is more beneficial here for daily interactions and integration."
-  - q: "What are the best neighborhoods in Rotterdam for expats?"
-    a: "Popular neighborhoods for expats include Kralingen (green, upscale), Centrum (urban, convenient), Delfshaven (diverse, affordable), Blijdorp (near the zoo, family-friendly), and Katendrecht (trendy, waterfront). Hillegersberg and Overschie offer suburban alternatives."
-  - q: "How do I get from Rotterdam to Amsterdam?"
-    a: "Direct intercity trains run between Rotterdam Centraal and Amsterdam Centraal every 10 minutes, with a travel time of approximately 40 minutes (intercity direct) to 70 minutes (regular intercity). A one-way ticket costs approximately EUR 17. Many Rotterdam residents commute to Amsterdam and vice versa."
-  - q: "What industries are strong in Rotterdam?"
-    a: "Rotterdam's economy is driven by its port (the largest in Europe), logistics, maritime, energy, engineering, and increasingly tech and creative industries. Major employers include the Port of Rotterdam Authority, Shell, Unilever, and numerous logistics and trading companies."
-  - q: "How do I register in Rotterdam?"
-    a: "Register at a Stadswinkel (City Office) within 5 days of arrival. Book an appointment online via rotterdam.nl. Bring your passport, rental contract, birth certificate (apostilled), and marriage certificate if applicable. You will receive your BSN at registration."
+- q: Is Rotterdam cheaper than Amsterdam?
+  a: Yes, significantly. Rent in Rotterdam is approximately 20-35% lower than in Amsterdam. A one-bedroom apartment in the center of Rotterdam costs EUR 1,000-1,500 per month compared to EUR 1,400-2,000 in Amsterdam. Groceries, dining out, and general living costs are also moderately lower.
+- q: Is Rotterdam a good city for expats?
+  a: Rotterdam is increasingly popular with expats who want the benefits of living in a major Dutch city without Amsterdam's prices and crowds. The city has a strong international community, modern architecture, excellent food scene, and good job market, especially in logistics, maritime, engineering, and tech.
+- q: Do people speak English in Rotterdam?
+  a: Yes, English is widely spoken in Rotterdam, especially among younger residents and in professional settings. However, the level of English proficiency is slightly lower than in Amsterdam, and learning basic Dutch is more beneficial here for daily interactions and integration.
+- q: What are the best neighborhoods in Rotterdam for expats?
+  a: Popular neighborhoods for expats include Kralingen (green, upscale), Centrum (urban, convenient), Delfshaven (diverse, affordable), Blijdorp (near the zoo, family-friendly), and Katendrecht (trendy, waterfront). Hillegersberg and Overschie offer suburban alternatives.
+- q: How do I get from Rotterdam to Amsterdam?
+  a: Direct intercity trains run between Rotterdam Centraal and Amsterdam Centraal every 10 minutes, with a travel time of approximately 40 minutes (intercity direct) to 70 minutes (regular intercity). A one-way ticket costs approximately EUR 17. Many Rotterdam residents commute to Amsterdam and vice versa.
+- q: What industries are strong in Rotterdam?
+  a: Rotterdam's economy is driven by its port (the largest in Europe), logistics, maritime, energy, engineering, and increasingly tech and creative industries. Major employers include the Port of Rotterdam Authority, Shell, Unilever, and numerous logistics and trading companies.
+- q: How do I register in Rotterdam?
+  a: Register at a Stadswinkel (City Office) within 5 days of arrival. Book an appointment online via rotterdam.nl. Bring your passport, rental contract, birth certificate (apostilled), and marriage certificate if applicable. You will receive your BSN at registration.
 products:
-  - name: "HousingAnywhere"
-    url: "https://housinganywhere.com/"
-    price: "0.00"
-  - name: "Pararius"
-    url: "https://www.pararius.com/"
-    price: "0.00"
-  - name: "Funda"
-    url: "https://www.funda.nl/"
-    price: "0.00"
+- name: HousingAnywhere
+  url: https://housinganywhere.com/
+  price: '0.00'
+- name: Pararius
+  url: https://www.pararius.com/
+  price: '0.00'
+- name: Funda
+  url: https://www.funda.nl/
+  price: '0.00'
+schema_type: Article
 ---
 
 Rotterdam is the Dutch city that surprises everyone. My clients often arrive expecting a smaller version of Amsterdam and discover something completely different -- modern skyline, incredible food scene, and a no-nonsense energy that feels more like a real city than a postcard. I spent two years living in Rotterdam and honestly loved it. The housing is more affordable, the people are more direct (which is saying something for the Netherlands), and the architecture is unlike anything else in the country. Here is my guide to making the move.

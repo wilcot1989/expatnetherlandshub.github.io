@@ -1,38 +1,49 @@
 ---
-title: "Dutch Pension System for Expats: AOW & Planning (2026)"
-date: 2026-04-21T10:00:00+01:00
-lastmod: 2026-04-23T10:00:00+01:00
-description: "Complete guide to the Dutch pension system for expats. AOW state pension, employer pension funds, tax benefits, and retirement planning in the Netherlands."
-categories: ["finance"]
-tags: ["pension", "AOW", "retirement", "employer pension", "expat finance"]
-keywords: ["Dutch pension system expat", "AOW pension Netherlands", "employer pension NL", "retirement planning Netherlands"]
+title: 'Dutch Pension System for Expats: AOW & Planning (2026)'
+date: 2026-04-21 10:00:00+01:00
+lastmod: 2026-04-23 10:00:00+01:00
+description: Complete guide to the Dutch pension system for expats. AOW state pension, employer pension funds, tax benefits, and retirement planning in the Netherlands.
+categories:
+- finance
+tags:
+- pension
+- AOW
+- retirement
+- employer pension
+- expat finance
+keywords:
+- Dutch pension system expat
+- AOW pension Netherlands
+- employer pension NL
+- retirement planning Netherlands
 affiliate: true
-author: "Sarah van den Berg"
-author_bio: "Expat coach and relocation specialist. Half Dutch, half British, living in the Netherlands for over 10 years."
-featured_image: "/images/featured/dutch-pension-system-expats-2026.webp"
+author: Sarah van den Berg
+author_bio: Expat coach and relocation specialist. Half Dutch, half British, living in the Netherlands for over 10 years.
+featured_image: /images/featured/dutch-pension-system-expats-2026.webp
 products:
-  - name: "Wise"
-    url: "https://go.expatnetherlandshub.com/wise?ref=/guides/finance/dutch-pension-system-expats-2026/"
-    price: "0.00"
-  - name: "bunq"
-    url: "https://www.bunq.com/"
-    price: "2.99"
-  - name: "ING"
-    url: "https://www.ing.nl/particulier"
-    price: "0.00"
+- name: Wise
+  url: https://go.expatnetherlandshub.com/wise?ref=/guides/finance/dutch-pension-system-expats-2026/
+  price: '0.00'
+- name: bunq
+  url: https://www.bunq.com/
+  price: '2.99'
+- name: ING
+  url: https://www.ing.nl/particulier
+  price: '0.00'
 faq:
-  - q: "How does the Dutch pension system work?"
-    a: "The Dutch pension system has three pillars: (1) AOW — state pension for everyone who lived/worked in the Netherlands, currently about €1,330/month for singles. (2) Employer pension — occupational pension through your employer's pension fund, typically 60-70% of your salary after 40 years. (3) Private pension — individual savings and investments with tax advantages."
-  - q: "Am I entitled to AOW as an expat?"
-    a: "You build up 2% AOW for each year you live or work in the Netherlands between age 15 and retirement age (67). If you lived in the Netherlands for 10 years, you receive 20% of the full AOW (about €266/month). You can voluntarily continue building AOW if you leave the Netherlands, but you must apply within 10 years of departure."
-  - q: "What happens to my Dutch pension if I leave the Netherlands?"
-    a: "Your AOW right is preserved — you receive 2% per year lived in NL, payable worldwide. Your employer pension stays with the pension fund and will be paid out at retirement age, also worldwide. You can sometimes transfer your employer pension to a pension fund in your new country (EU value transfer regulation)."
-  - q: "How much pension do I build up through my employer?"
-    a: "Most employer pension schemes build up 1.5-1.875% of your pensionable salary per year. After 40 years, that's 60-75% of your average salary. With the new Dutch pension system (WTP, effective 2027), employers contribute a fixed percentage (typically 20-30% of salary) to an individual pension account."
-  - q: "Does the 30% ruling affect my pension?"
-    a: "Indirectly yes. The 30% ruling reduces your taxable salary, which means your pensionable salary is also lower (unless your employer uses your full salary as the pension base). This results in lower pension accrual. Check with your employer whether your pension is calculated on your full or reduced salary."
-  - q: "Should I save for retirement privately as an expat?"
-    a: "Yes, especially if you haven't lived in the Netherlands long enough for a full AOW, or if you plan to retire in a country with a higher cost of living. Consider tax-advantaged options: jaarruimte (annual contribution space), lijfrente (annuity), and investing via a low-cost broker. A financial advisor specialized in expats can help optimize your strategy."
+- q: How does the Dutch pension system work?
+  a: 'The Dutch pension system has three pillars: (1) AOW — state pension for everyone who lived/worked in the Netherlands, currently about €1,330/month for singles. (2) Employer pension — occupational pension through your employer''s pension fund, typically 60-70% of your salary after 40 years. (3) Private pension — individual savings and investments with tax advantages.'
+- q: Am I entitled to AOW as an expat?
+  a: You build up 2% AOW for each year you live or work in the Netherlands between age 15 and retirement age (67). If you lived in the Netherlands for 10 years, you receive 20% of the full AOW (about €266/month). You can voluntarily continue building AOW if you leave the Netherlands, but you must apply within 10 years of departure.
+- q: What happens to my Dutch pension if I leave the Netherlands?
+  a: Your AOW right is preserved — you receive 2% per year lived in NL, payable worldwide. Your employer pension stays with the pension fund and will be paid out at retirement age, also worldwide. You can sometimes transfer your employer pension to a pension fund in your new country (EU value transfer regulation).
+- q: How much pension do I build up through my employer?
+  a: Most employer pension schemes build up 1.5-1.875% of your pensionable salary per year. After 40 years, that's 60-75% of your average salary. With the new Dutch pension system (WTP, effective 2027), employers contribute a fixed percentage (typically 20-30% of salary) to an individual pension account.
+- q: Does the 30% ruling affect my pension?
+  a: Indirectly yes. The 30% ruling reduces your taxable salary, which means your pensionable salary is also lower (unless your employer uses your full salary as the pension base). This results in lower pension accrual. Check with your employer whether your pension is calculated on your full or reduced salary.
+- q: Should I save for retirement privately as an expat?
+  a: 'Yes, especially if you haven''t lived in the Netherlands long enough for a full AOW, or if you plan to retire in a country with a higher cost of living. Consider tax-advantaged options: jaarruimte (annual contribution space), lijfrente (annuity), and investing via a low-cost broker. A financial advisor specialized in expats can help optimize your strategy.'
+schema_type: Article
 ---
 
 I did not think about my Dutch pension for the first five years I lived here. Big mistake. When I finally looked into it, I realised I had been building up AOW rights without knowing it, my employer had been contributing to a pension fund I had never checked, and I had no idea what any of it meant. If you are an expat wondering whether any of this matters to you -- it does, even if you are not planning to retire here. Let me break it down.

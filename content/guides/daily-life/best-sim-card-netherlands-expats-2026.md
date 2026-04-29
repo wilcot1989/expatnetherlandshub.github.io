@@ -1,40 +1,54 @@
 ---
-title: "Best SIM Cards & Mobile Plans for Expats in the Netherlands"
-date: 2026-03-01T10:00:00+01:00
-lastmod: 2026-04-23T10:00:00+01:00
-description: "Compare the best SIM cards and mobile plans for expats in the Netherlands. KPN, T-Mobile, Vodafone, Simyo, Lebara, Ben, and Lyca reviewed."
-categories: ["daily-life"]
-tags: ["sim card netherlands", "mobile plan expats", "dutch phone number", "prepaid sim netherlands", "eSIM netherlands", "dutch mobile providers"]
-keywords: ["best sim card netherlands", "mobile plan expats netherlands", "dutch sim card", "prepaid sim card netherlands", "eSIM netherlands expats", "cheapest phone plan netherlands"]
+title: Best SIM Cards & Mobile Plans for Expats in the Netherlands
+date: 2026-03-01 10:00:00+01:00
+lastmod: 2026-04-23 10:00:00+01:00
+description: Compare the best SIM cards and mobile plans for expats in the Netherlands. KPN, T-Mobile, Vodafone, Simyo, Lebara, Ben, and Lyca reviewed.
+categories:
+- daily-life
+tags:
+- sim card netherlands
+- mobile plan expats
+- dutch phone number
+- prepaid sim netherlands
+- eSIM netherlands
+- dutch mobile providers
+keywords:
+- best sim card netherlands
+- mobile plan expats netherlands
+- dutch sim card
+- prepaid sim card netherlands
+- eSIM netherlands expats
+- cheapest phone plan netherlands
 affiliate: true
 products:
-  - name: "KPN"
-    url: "https://www.kpn.com/"
-    price: "0.00"
-  - name: "T-Mobile"
-    url: "https://www.t-mobile.nl/"
-    price: "0.00"
-  - name: "Ziggo"
-    url: "https://www.ziggo.nl/"
-    price: "0.00"
-author: "Sarah van den Berg"
-author_bio: "Expat coach and relocation specialist. Half Dutch, half British, living in the Netherlands for over 10 years."
-featured_image: "/images/featured/best-sim-card-netherlands-expats-2026.webp"
+- name: KPN
+  url: https://www.kpn.com/
+  price: '0.00'
+- name: T-Mobile
+  url: https://www.t-mobile.nl/
+  price: '0.00'
+- name: Ziggo
+  url: https://www.ziggo.nl/
+  price: '0.00'
+author: Sarah van den Berg
+author_bio: Expat coach and relocation specialist. Half Dutch, half British, living in the Netherlands for over 10 years.
+featured_image: /images/featured/best-sim-card-netherlands-expats-2026.webp
 faq:
-  - q: "Can I buy a SIM card in the Netherlands without a BSN?"
-    a: "Yes. You can buy a prepaid SIM card at supermarkets, electronics stores, or provider shops without a BSN. However, since September 2023, Dutch regulations require identity verification for prepaid SIMs, so you will need to show a valid passport or ID. For postpaid contracts, most providers require a BSN and a Dutch bank account."
-  - q: "Which Dutch mobile network has the best coverage?"
-    a: "KPN consistently ranks first for network coverage in the Netherlands, particularly in rural areas. T-Mobile (Odido) has invested heavily in 5G and comes a close second. Vodafone offers solid coverage in urban areas. Budget providers like Simyo and Ben use the KPN network, so they offer the same coverage at a lower price."
-  - q: "Do Dutch SIM cards work in other EU countries?"
-    a: "Yes. Under EU roaming regulations, you can use your Dutch SIM card in all EU and EEA countries at no extra cost, using your plan's included data, minutes, and texts. However, there is a fair use policy, meaning providers may limit roaming data if you consistently use more data abroad than in the Netherlands."
-  - q: "What is the cheapest mobile plan in the Netherlands for expats?"
-    a: "For the absolute lowest cost, Lebara and Lyca Mobile offer prepaid bundles starting from around EUR 5-10 per month with modest data. Among contract plans, Simyo and Ben offer packages from around EUR 7-10 per month. If you need more data, T-Mobile and Simyo offer competitive mid-range plans between EUR 15-25 per month."
-  - q: "Can I keep my home country phone number when I move to the Netherlands?"
-    a: "You cannot port a non-Dutch number to a Dutch provider. However, you can keep your old SIM active alongside your Dutch SIM using a dual-SIM phone or an eSIM. Many expats use their Dutch number for daily life and keep their home number active for banking verification or staying in touch with family."
-  - q: "Do Dutch providers offer eSIM?"
-    a: "Yes. KPN, T-Mobile (Odido), and Vodafone all offer eSIM for both prepaid and contract plans. This is particularly convenient for expats with dual-SIM phones, as you can keep your home country physical SIM while using a Dutch eSIM. Some budget providers like Simyo have also started offering eSIM in 2026."
-  - q: "How long does a Dutch phone contract last?"
-    a: "Dutch phone contracts are available in 1-month (flex), 1-year, and 2-year terms. After the initial term, contracts automatically convert to a monthly rolling agreement that you can cancel with one month's notice. Since 2024, Dutch law makes it easy to switch providers, and your number is ported within one business day."
+- q: Can I buy a SIM card in the Netherlands without a BSN?
+  a: Yes. You can buy a prepaid SIM card at supermarkets, electronics stores, or provider shops without a BSN. However, since September 2023, Dutch regulations require identity verification for prepaid SIMs, so you will need to show a valid passport or ID. For postpaid contracts, most providers require a BSN and a Dutch bank account.
+- q: Which Dutch mobile network has the best coverage?
+  a: KPN consistently ranks first for network coverage in the Netherlands, particularly in rural areas. T-Mobile (Odido) has invested heavily in 5G and comes a close second. Vodafone offers solid coverage in urban areas. Budget providers like Simyo and Ben use the KPN network, so they offer the same coverage at a lower price.
+- q: Do Dutch SIM cards work in other EU countries?
+  a: Yes. Under EU roaming regulations, you can use your Dutch SIM card in all EU and EEA countries at no extra cost, using your plan's included data, minutes, and texts. However, there is a fair use policy, meaning providers may limit roaming data if you consistently use more data abroad than in the Netherlands.
+- q: What is the cheapest mobile plan in the Netherlands for expats?
+  a: For the absolute lowest cost, Lebara and Lyca Mobile offer prepaid bundles starting from around EUR 5-10 per month with modest data. Among contract plans, Simyo and Ben offer packages from around EUR 7-10 per month. If you need more data, T-Mobile and Simyo offer competitive mid-range plans between EUR 15-25 per month.
+- q: Can I keep my home country phone number when I move to the Netherlands?
+  a: You cannot port a non-Dutch number to a Dutch provider. However, you can keep your old SIM active alongside your Dutch SIM using a dual-SIM phone or an eSIM. Many expats use their Dutch number for daily life and keep their home number active for banking verification or staying in touch with family.
+- q: Do Dutch providers offer eSIM?
+  a: Yes. KPN, T-Mobile (Odido), and Vodafone all offer eSIM for both prepaid and contract plans. This is particularly convenient for expats with dual-SIM phones, as you can keep your home country physical SIM while using a Dutch eSIM. Some budget providers like Simyo have also started offering eSIM in 2026.
+- q: How long does a Dutch phone contract last?
+  a: Dutch phone contracts are available in 1-month (flex), 1-year, and 2-year terms. After the initial term, contracts automatically convert to a monthly rolling agreement that you can cancel with one month's notice. Since 2024, Dutch law makes it easy to switch providers, and your number is ported within one business day.
+schema_type: Article
 ---
 
 The first thing I learned about Dutch social life is that everything happens on WhatsApp. Your street has a WhatsApp group. Your building has a WhatsApp group. Your kid's school has three WhatsApp groups. So getting a Dutch phone number is genuinely one of the first things you need to sort out. I have used several providers over the years and helped countless clients pick the right one, so here is my no-nonsense comparison for 2026.

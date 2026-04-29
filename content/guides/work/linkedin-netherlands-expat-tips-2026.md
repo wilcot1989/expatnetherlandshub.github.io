@@ -1,34 +1,45 @@
 ---
-title: "LinkedIn in the Netherlands: Land a Job as an Expat (2026)"
-date: 2026-03-24T10:00:00+01:00
-lastmod: 2026-04-23T10:00:00+01:00
-description: "How to use LinkedIn to find work in the Netherlands as an expat. Profile optimisation tips, networking strategies, and what Dutch recruiters actually look for."
-categories: ["work"]
-tags: ["LinkedIn", "job search", "networking", "expat jobs", "career Netherlands"]
-keywords: ["LinkedIn Netherlands expat", "find job Netherlands LinkedIn", "Dutch recruiter LinkedIn", "expat job search NL"]
+title: 'LinkedIn in the Netherlands: Land a Job as an Expat (2026)'
+date: 2026-03-24 10:00:00+01:00
+lastmod: 2026-04-23 10:00:00+01:00
+description: How to use LinkedIn to find work in the Netherlands as an expat. Profile optimisation tips, networking strategies, and what Dutch recruiters actually look for.
+categories:
+- work
+tags:
+- LinkedIn
+- job search
+- networking
+- expat jobs
+- career Netherlands
+keywords:
+- LinkedIn Netherlands expat
+- find job Netherlands LinkedIn
+- Dutch recruiter LinkedIn
+- expat job search NL
 affiliate: false
 products:
-  - name: "LinkedIn Premium"
-    url: "https://www.linkedin.com/premium/"
-    price: "29.99"
-  - name: "Undutchables"
-    url: "https://undutchables.nl/"
-    price: "0.00"
-  - name: "Together Abroad"
-    url: "https://www.togetherabroad.nl/"
-    price: "0.00"
-author: "Sarah van den Berg"
-author_bio: "Expat coach and relocation specialist. Half Dutch, half British, living in the Netherlands for over 10 years."
-featured_image: "/images/featured/linkedin-netherlands-expat-tips-2026.webp"
+- name: LinkedIn Premium
+  url: https://www.linkedin.com/premium/
+  price: '29.99'
+- name: Undutchables
+  url: https://undutchables.nl/
+  price: '0.00'
+- name: Together Abroad
+  url: https://www.togetherabroad.nl/
+  price: '0.00'
+author: Sarah van den Berg
+author_bio: Expat coach and relocation specialist. Half Dutch, half British, living in the Netherlands for over 10 years.
+featured_image: /images/featured/linkedin-netherlands-expat-tips-2026.webp
 faq:
-  - q: "Should I set my LinkedIn profile language to Dutch or English when job hunting in the Netherlands?"
-    a: "For most expats, English is the right choice — especially if you are targeting international companies, tech firms, or multinationals. The Netherlands has the highest LinkedIn usage rate in the world, and a large proportion of Dutch professionals keep English profiles precisely because they work in or with international teams. That said, if you are targeting Dutch SMEs, government-adjacent roles, or companies where Dutch is the working language, consider writing a Dutch version or at least a Dutch summary. You can maintain two languages on your profile by adding a secondary language version via LinkedIn's profile settings. The key is to match the language of the job postings you are actually applying for."
-  - q: "How important is the 30% ruling to mention on LinkedIn?"
-    a: "If you currently hold or are likely to qualify for the 30% ruling, it is worth signalling this to Dutch recruiters — either in your About section or in early conversations. The ruling significantly affects your net salary and the cost calculation for employers sponsoring highly skilled migrants. Many Dutch recruiters will ask about it directly. You do not need to shout it from the headline, but a brief mention in your About section (something like 'I hold a 30% tax ruling valid until [year]') is practical information that saves time on both sides. If you are unsure whether you qualify, see our [30% ruling guide](/guides/finance/30-percent-ruling-netherlands-2026/) for the full breakdown."
-  - q: "Is the Open to Work feature on LinkedIn seen negatively by Dutch recruiters?"
-    a: "Less so than in some other markets. Dutch professional culture is fairly pragmatic about job searching — there is less of the stigma around being visible as a candidate that you find in, say, the UK or US corporate world. Most Dutch recruiters I have spoken to say they actively use the Open to Work filter to find candidates, and the green banner does not put them off. The one nuance is that if you are currently employed and want to be discreet, use the private setting (visible only to recruiters, not your entire network). If you are not currently employed and actively searching, the public green banner is genuinely useful and Dutch recruiters will not hold it against you."
-  - q: "What are the most common LinkedIn mistakes expats make when job hunting in the Netherlands?"
-    a: "The biggest mistakes I see repeatedly are: a generic headline that just lists a job title with no differentiation; an About section that reads like a formal CV summary rather than a human introduction; no Dutch-market context (employers listed without any mention of size, sector or relevance); connecting with recruiters and then immediately asking for a job (build the relationship first); ignoring Dutch-language content from companies you want to work for (engaging with it signals genuine interest); and failing to mention the 30% ruling or relocation status when it is relevant. Also, many expats set their location to their home country even after moving to the Netherlands — update your location immediately, as Dutch recruiters filter heavily by geography."
+- q: Should I set my LinkedIn profile language to Dutch or English when job hunting in the Netherlands?
+  a: For most expats, English is the right choice — especially if you are targeting international companies, tech firms, or multinationals. The Netherlands has the highest LinkedIn usage rate in the world, and a large proportion of Dutch professionals keep English profiles precisely because they work in or with international teams. That said, if you are targeting Dutch SMEs, government-adjacent roles, or companies where Dutch is the working language, consider writing a Dutch version or at least a Dutch summary. You can maintain two languages on your profile by adding a secondary language version via LinkedIn's profile settings. The key is to match the language of the job postings you are actually applying for.
+- q: How important is the 30% ruling to mention on LinkedIn?
+  a: If you currently hold or are likely to qualify for the 30% ruling, it is worth signalling this to Dutch recruiters — either in your About section or in early conversations. The ruling significantly affects your net salary and the cost calculation for employers sponsoring highly skilled migrants. Many Dutch recruiters will ask about it directly. You do not need to shout it from the headline, but a brief mention in your About section (something like 'I hold a 30% tax ruling valid until [year]') is practical information that saves time on both sides. If you are unsure whether you qualify, see our [30% ruling guide](/guides/finance/30-percent-ruling-netherlands-2026/) for the full breakdown.
+- q: Is the Open to Work feature on LinkedIn seen negatively by Dutch recruiters?
+  a: Less so than in some other markets. Dutch professional culture is fairly pragmatic about job searching — there is less of the stigma around being visible as a candidate that you find in, say, the UK or US corporate world. Most Dutch recruiters I have spoken to say they actively use the Open to Work filter to find candidates, and the green banner does not put them off. The one nuance is that if you are currently employed and want to be discreet, use the private setting (visible only to recruiters, not your entire network). If you are not currently employed and actively searching, the public green banner is genuinely useful and Dutch recruiters will not hold it against you.
+- q: What are the most common LinkedIn mistakes expats make when job hunting in the Netherlands?
+  a: 'The biggest mistakes I see repeatedly are: a generic headline that just lists a job title with no differentiation; an About section that reads like a formal CV summary rather than a human introduction; no Dutch-market context (employers listed without any mention of size, sector or relevance); connecting with recruiters and then immediately asking for a job (build the relationship first); ignoring Dutch-language content from companies you want to work for (engaging with it signals genuine interest); and failing to mention the 30% ruling or relocation status when it is relevant. Also, many expats set their location to their home country even after moving to the Netherlands — update your location immediately, as Dutch recruiters filter heavily by geography.'
+schema_type: Article
 ---
 
 When I moved to the Netherlands from London about a decade ago, I had what I thought was a solid LinkedIn profile. Good headline, decent summary, all my jobs listed. I sent connection requests to a handful of Amsterdam-based recruiters, applied for a few roles through the platform, and waited.

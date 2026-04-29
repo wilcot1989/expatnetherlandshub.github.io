@@ -1,32 +1,43 @@
 ---
-title: "Dutch Holidays & Traditions 2026: What Expats Should Know"
-date: 2026-04-25T10:00:00+01:00
-lastmod: 2026-04-23T10:00:00+01:00
-description: "Complete guide to Dutch holidays and traditions for expats. King's Day, Sinterklaas, Carnival, and all public holidays in 2026."
-categories: ["culture"]
-tags: ["Dutch holidays", "King's Day", "Sinterklaas", "Dutch traditions", "public holidays"]
-keywords: ["Dutch holidays 2026", "Netherlands public holidays", "King's Day guide", "Dutch traditions expats"]
+title: 'Dutch Holidays & Traditions 2026: What Expats Should Know'
+date: 2026-04-25 10:00:00+01:00
+lastmod: 2026-04-23 10:00:00+01:00
+description: Complete guide to Dutch holidays and traditions for expats. King's Day, Sinterklaas, Carnival, and all public holidays in 2026.
+categories:
+- culture
+tags:
+- Dutch holidays
+- King's Day
+- Sinterklaas
+- Dutch traditions
+- public holidays
+keywords:
+- Dutch holidays 2026
+- Netherlands public holidays
+- King's Day guide
+- Dutch traditions expats
 affiliate: true
 products:
-  - name: "KPN"
-    url: "https://www.kpn.com/"
-    price: "0.00"
-author: "Sarah van den Berg"
-author_bio: "Expat coach and relocation specialist. Half Dutch, half British, living in the Netherlands for over 10 years."
-featured_image: "/images/featured/dutch-holidays-traditions-expat-guide-2026.webp"
+- name: KPN
+  url: https://www.kpn.com/
+  price: '0.00'
+author: Sarah van den Berg
+author_bio: Expat coach and relocation specialist. Half Dutch, half British, living in the Netherlands for over 10 years.
+featured_image: /images/featured/dutch-holidays-traditions-expat-guide-2026.webp
 faq:
-  - q: "How many public holidays does the Netherlands have?"
-    a: "The Netherlands has approximately 8-10 public holidays per year, though not all are official days off by law. Most employers give 7-8 days off: New Year's Day, King's Day (Apr 27), Good Friday (varies), Easter Monday, Liberation Day (May 5, once every 5 years), Ascension Day, Whit Monday, Christmas Day, and Boxing Day."
-  - q: "What is King's Day and how do I celebrate?"
-    a: "King's Day (Koningsdag, April 27) is the Netherlands' biggest national holiday celebrating the King's birthday. The entire country turns orange: street markets (vrijmarkt), outdoor parties, boat parades in Amsterdam, and live music everywhere. Wear orange, go to a vrijmarkt, and enjoy the festive atmosphere. Most businesses are closed."
-  - q: "What is Sinterklaas?"
-    a: "Sinterklaas is the Dutch version of Santa Claus, celebrated on December 5 (pakjesavond). He arrives by steamboat in mid-November with his helpers (Pieten). Children put their shoes by the fireplace and receive small gifts and poems. It's the primary gift-giving holiday in the Netherlands — more important than Christmas for many Dutch families."
-  - q: "Is Christmas different in the Netherlands?"
-    a: "Yes. Christmas in the Netherlands is relatively low-key compared to other countries because Sinterklaas (Dec 5) is the main gift-giving holiday. Christmas is focused on family dinners (gourmetten is popular), church services, and relaxation. December 25 and 26 (Tweede Kerstdag) are both public holidays."
-  - q: "Do I get Liberation Day off work?"
-    a: "Liberation Day (Bevrijdingsdag, May 5) celebrates the end of WWII occupation. It's officially a public holiday every year, but a paid day off only once every 5 years (next: 2030). However, many employers give the day off annually. Festivals are held across the country with free concerts and events."
-  - q: "What is Carnival in the Netherlands?"
-    a: "Carnival is a 3-day celebration (Sunday-Tuesday before Ash Wednesday, usually in February) mainly in the southern provinces (Noord-Brabant and Limburg). Cities like Den Bosch, Eindhoven, Maastricht, and Breda transform into non-stop parties with costumes, parades, and music. It's not a national holiday but many southerners take days off."
+- q: How many public holidays does the Netherlands have?
+  a: 'The Netherlands has approximately 8-10 public holidays per year, though not all are official days off by law. Most employers give 7-8 days off: New Year''s Day, King''s Day (Apr 27), Good Friday (varies), Easter Monday, Liberation Day (May 5, once every 5 years), Ascension Day, Whit Monday, Christmas Day, and Boxing Day.'
+- q: What is King's Day and how do I celebrate?
+  a: 'King''s Day (Koningsdag, April 27) is the Netherlands'' biggest national holiday celebrating the King''s birthday. The entire country turns orange: street markets (vrijmarkt), outdoor parties, boat parades in Amsterdam, and live music everywhere. Wear orange, go to a vrijmarkt, and enjoy the festive atmosphere. Most businesses are closed.'
+- q: What is Sinterklaas?
+  a: Sinterklaas is the Dutch version of Santa Claus, celebrated on December 5 (pakjesavond). He arrives by steamboat in mid-November with his helpers (Pieten). Children put their shoes by the fireplace and receive small gifts and poems. It's the primary gift-giving holiday in the Netherlands — more important than Christmas for many Dutch families.
+- q: Is Christmas different in the Netherlands?
+  a: Yes. Christmas in the Netherlands is relatively low-key compared to other countries because Sinterklaas (Dec 5) is the main gift-giving holiday. Christmas is focused on family dinners (gourmetten is popular), church services, and relaxation. December 25 and 26 (Tweede Kerstdag) are both public holidays.
+- q: Do I get Liberation Day off work?
+  a: 'Liberation Day (Bevrijdingsdag, May 5) celebrates the end of WWII occupation. It''s officially a public holiday every year, but a paid day off only once every 5 years (next: 2030). However, many employers give the day off annually. Festivals are held across the country with free concerts and events.'
+- q: What is Carnival in the Netherlands?
+  a: Carnival is a 3-day celebration (Sunday-Tuesday before Ash Wednesday, usually in February) mainly in the southern provinces (Noord-Brabant and Limburg). Cities like Den Bosch, Eindhoven, Maastricht, and Breda transform into non-stop parties with costumes, parades, and music. It's not a national holiday but many southerners take days off.
+schema_type: Article
 ---
 
 My first King's Day in the Netherlands, I walked outside in a normal outfit and was immediately swallowed by a sea of orange. Thousands of people in orange wigs, orange suits, orange face paint -- selling old junk on blankets and dancing on boats in the canals. Nobody had warned me. That is the thing about Dutch holidays: they are wonderfully bizarre, and as a half-Dutch person who grew up in the UK, even I was caught off guard. Here is your heads-up for every major holiday and tradition so you will not be surprised by a closed supermarket or an unexpected orange invasion.

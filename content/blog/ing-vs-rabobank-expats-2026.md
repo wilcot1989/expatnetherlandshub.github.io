@@ -1,35 +1,46 @@
 ---
-title: "ING vs Rabobank for Expats 2026: Which Dutch Bank Is Better?"
-date: 2026-03-26T10:00:00+01:00
-lastmod: 2026-04-23T10:00:00+01:00
-description: "ING vs Rabobank for expats: honest comparison of fees, apps, English support, mortgage services, and international transfers to help you choose."
-categories: ["finance"]
-tags: ["banking", "ING", "Rabobank", "Dutch bank", "expat banking"]
-keywords: ["ING vs Rabobank expats", "best Dutch bank expats", "ING Netherlands review", "Rabobank expat account"]
+title: 'ING vs Rabobank for Expats 2026: Which Dutch Bank Is Better?'
+date: 2026-03-26 10:00:00+01:00
+lastmod: 2026-04-23 10:00:00+01:00
+description: 'ING vs Rabobank for expats: honest comparison of fees, apps, English support, mortgage services, and international transfers to help you choose.'
+categories:
+- finance
+tags:
+- banking
+- ING
+- Rabobank
+- Dutch bank
+- expat banking
+keywords:
+- ING vs Rabobank expats
+- best Dutch bank expats
+- ING Netherlands review
+- Rabobank expat account
 affiliate: true
-author: "Sarah van den Berg"
-author_bio: "Expat coach and writer at ExpatNetherlandsHub.com"
-featured_image: "/images/categories/finance.svg"
+author: Sarah van den Berg
+author_bio: Expat coach and writer at ExpatNetherlandsHub.com
+featured_image: /images/categories/finance.svg
 products:
-  - name: "Wise"
-    url: "https://go.expatnetherlandshub.com/wise?ref=/blog/ing-vs-rabobank-expats-2026/"
-    price: "0.00"
-    tag: "Currency Transfer"
+- name: Wise
+  url: https://go.expatnetherlandshub.com/wise?ref=/blog/ing-vs-rabobank-expats-2026/
+  price: '0.00'
+  tag: Currency Transfer
 faq:
-  - q: "Which bank is easier to open as an expat — ING or Rabobank?"
-    a: "ING is generally easier and faster for expats. The online application is fully in English, and ING is more flexible about opening accounts without a BSN if you are in the early days of your arrival. Rabobank's process is more involved, partly in Dutch, and typically requires a branch visit or video call to complete identity verification. Most newly arrived expats report getting their ING account within 2–3 working days versus a week or more for Rabobank."
-  - q: "Do I need a BSN to open an account at ING or Rabobank?"
-    a: "Both banks technically require a BSN (Burgerservicenummer) for full account activation, as Dutch law requires banks to register residents by their citizen service number. ING has been known to allow a temporary account opening while you wait for your BSN appointment, though this depends on your situation. Rabobank is stricter and will almost always require your BSN upfront. If you arrive before you have a BSN, ING is the more practical choice. Read more about the registration process in our guide to the 30% ruling and other relocation steps."
-  - q: "Does ING have an English app and English customer service?"
-    a: "Yes. ING's mobile app is available in English, and the language toggle is prominent and works well across all main features. ING's phone and chat support can be conducted in English — this is not always guaranteed with every agent, but the bank officially supports English-language service. Rabobank's app is predominantly Dutch, though basic navigation is manageable if you are comfortable using translation tools. Rabobank's phone support is primarily in Dutch."
-  - q: "Which Dutch bank is cheapest for expats?"
-    a: "Rabobank's basic current account costs €2.30 per month. ING's basic account is free (€0/month), which makes ING the cheaper option for day-to-day banking. ING also offers a Plus account at €4.95/month with extras including travel insurance. For international transfers, both banks are expensive compared to Wise — ING charges around €5–€10 for SWIFT transfers, and Rabobank is similar. If you regularly send money abroad, Wise will save you more than the monthly fee difference between the two banks."
-  - q: "Which bank is better for getting a Dutch mortgage as an expat?"
-    a: "Rabobank has a stronger mortgage reputation, particularly for expats with permanent residence or Dutch employment contracts. The bank has more advisers with experience of international income documentation. ING also offers mortgages to expats, but the process has historically been slower and their advisers less versed in 30% ruling income calculations. That said, most expats use an independent mortgage broker regardless of which bank they use for daily banking — the two decisions do not need to be linked."
-  - q: "Can I open an ING or Rabobank account entirely online?"
-    a: "ING: yes, the entire process can be done via the ING app or website, including identity verification using your passport or ID via a video check. Rabobank: partly. You can start the application online, but many customers — especially non-EU expats — are required to visit a branch or complete a video identification step that is only available in Dutch. ING is clearly the more digital-first option."
-  - q: "What are ING and Rabobank's savings account interest rates in 2026?"
-    a: "In 2026, Dutch savings rates have settled following the European Central Bank's rate adjustments. ING's standard savings account (Oranje Spaarrekening) offers around 1.50–1.75% AER on balances up to €1 million, with promotional rates sometimes reaching higher for new customers. Rabobank's savings account offers comparable rates, typically around 1.50% AER. Both are below what you can get through dedicated savings platforms or government bonds. If maximising interest is a priority, platforms like Raisin (available in the Netherlands) aggregate better rates from European banks."
+- q: Which bank is easier to open as an expat — ING or Rabobank?
+  a: ING is generally easier and faster for expats. The online application is fully in English, and ING is more flexible about opening accounts without a BSN if you are in the early days of your arrival. Rabobank's process is more involved, partly in Dutch, and typically requires a branch visit or video call to complete identity verification. Most newly arrived expats report getting their ING account within 2–3 working days versus a week or more for Rabobank.
+- q: Do I need a BSN to open an account at ING or Rabobank?
+  a: Both banks technically require a BSN (Burgerservicenummer) for full account activation, as Dutch law requires banks to register residents by their citizen service number. ING has been known to allow a temporary account opening while you wait for your BSN appointment, though this depends on your situation. Rabobank is stricter and will almost always require your BSN upfront. If you arrive before you have a BSN, ING is the more practical choice. Read more about the registration process in our guide to the 30% ruling and other relocation steps.
+- q: Does ING have an English app and English customer service?
+  a: Yes. ING's mobile app is available in English, and the language toggle is prominent and works well across all main features. ING's phone and chat support can be conducted in English — this is not always guaranteed with every agent, but the bank officially supports English-language service. Rabobank's app is predominantly Dutch, though basic navigation is manageable if you are comfortable using translation tools. Rabobank's phone support is primarily in Dutch.
+- q: Which Dutch bank is cheapest for expats?
+  a: Rabobank's basic current account costs €2.30 per month. ING's basic account is free (€0/month), which makes ING the cheaper option for day-to-day banking. ING also offers a Plus account at €4.95/month with extras including travel insurance. For international transfers, both banks are expensive compared to Wise — ING charges around €5–€10 for SWIFT transfers, and Rabobank is similar. If you regularly send money abroad, Wise will save you more than the monthly fee difference between the two banks.
+- q: Which bank is better for getting a Dutch mortgage as an expat?
+  a: Rabobank has a stronger mortgage reputation, particularly for expats with permanent residence or Dutch employment contracts. The bank has more advisers with experience of international income documentation. ING also offers mortgages to expats, but the process has historically been slower and their advisers less versed in 30% ruling income calculations. That said, most expats use an independent mortgage broker regardless of which bank they use for daily banking — the two decisions do not need to be linked.
+- q: Can I open an ING or Rabobank account entirely online?
+  a: 'ING: yes, the entire process can be done via the ING app or website, including identity verification using your passport or ID via a video check. Rabobank: partly. You can start the application online, but many customers — especially non-EU expats — are required to visit a branch or complete a video identification step that is only available in Dutch. ING is clearly the more digital-first option.'
+- q: What are ING and Rabobank's savings account interest rates in 2026?
+  a: In 2026, Dutch savings rates have settled following the European Central Bank's rate adjustments. ING's standard savings account (Oranje Spaarrekening) offers around 1.50–1.75% AER on balances up to €1 million, with promotional rates sometimes reaching higher for new customers. Rabobank's savings account offers comparable rates, typically around 1.50% AER. Both are below what you can get through dedicated savings platforms or government bonds. If maximising interest is a priority, platforms like Raisin (available in the Netherlands) aggregate better rates from European banks.
+schema_type: Article
 ---
 
 I've had accounts at both ING and Rabobank during my time in the Netherlands. Here's what I wish I'd known before opening either.

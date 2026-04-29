@@ -1,11 +1,12 @@
 ---
-title: "Diploma Recognition Netherlands 2026"
-description: "Check if you need Nuffic credential evaluation for your diploma in the Netherlands. Guide with required documents, processing times, and costs for 2026."
-type: "tools"
-layout: "single"
+title: Diploma Recognition Netherlands 2026
+description: Check if you need Nuffic credential evaluation for your diploma in the Netherlands. Guide with required documents, processing times, and costs for 2026.
+type: tools
+layout: single
 affiliate: true
-author: "Sarah van den Berg"
-author_bio: "Expat coach and writer at ExpatNetherlandsHub.com"
+author: Sarah van den Berg
+author_bio: Expat coach and writer at ExpatNetherlandsHub.com
+schema_type: Article
 ---
 
 <script type="application/ld+json">

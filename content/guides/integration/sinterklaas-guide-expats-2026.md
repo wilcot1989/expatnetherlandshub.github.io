@@ -1,38 +1,49 @@
 ---
-title: "Sinterklaas Guide for Expats in the Netherlands"
-date: 2026-05-13T10:00:00+01:00
-lastmod: 2026-04-23T10:00:00+01:00
-description: "Everything expats need to know about Sinterklaas: the arrival, schoen zetten, pakjesavond, gedichten, pepernoten, and how to participate at Dutch offices."
-categories: ["integration"]
-tags: ["Sinterklaas", "Dutch culture", "traditions", "holidays", "integration"]
-keywords: ["sinterklaas explained expats", "sinterklaas netherlands guide", "dutch christmas tradition", "sinterklaas vs santa claus"]
+title: Sinterklaas Guide for Expats in the Netherlands
+date: 2026-05-13 10:00:00+01:00
+lastmod: 2026-04-23 10:00:00+01:00
+description: 'Everything expats need to know about Sinterklaas: the arrival, schoen zetten, pakjesavond, gedichten, pepernoten, and how to participate at Dutch offices.'
+categories:
+- integration
+tags:
+- Sinterklaas
+- Dutch culture
+- traditions
+- holidays
+- integration
+keywords:
+- sinterklaas explained expats
+- sinterklaas netherlands guide
+- dutch christmas tradition
+- sinterklaas vs santa claus
 affiliate: false
-author: "Sarah van den Berg"
-author_bio: "Expat coach and relocation specialist. Half Dutch, half British, living in the Netherlands for over 10 years."
-featured_image: "/images/categories/integration.svg"
+author: Sarah van den Berg
+author_bio: Expat coach and relocation specialist. Half Dutch, half British, living in the Netherlands for over 10 years.
+featured_image: /images/categories/integration.svg
 faq:
-  - q: "When is Sinterklaas in the Netherlands?"
-    a: "The main celebration is pakjesavond on December 5th, the evening before the feast day of Sint Nicolaas on December 6th. The season officially begins when Sinterklaas arrives by boat from Spain in mid-November — usually the second or third Saturday of November. From that point until December 5th, Dutch children can set their shoe each evening to receive small gifts and sweets."
-  - q: "What is the difference between Sinterklaas and Santa Claus?"
-    a: "They share distant historical roots — both draw on the legend of Saint Nicholas — but they are distinct traditions. Sinterklaas is an elderly white-bearded bishop who arrives by steamboat from Spain, rides a white horse called Amerigo, and is assisted by helpers called Pieten. He brings gifts on December 5th. Santa Claus arrives from the North Pole by sleigh on Christmas Eve (December 24th). In the Netherlands, both are celebrated, but Sinterklaas is the dominant gift-giving occasion, especially for children."
-  - q: "What are pepernoten and kruidnoten?"
-    a: "Both are traditional Sinterklaas sweets and the words are often used interchangeably in everyday speech, though technically they are different. Kruidnoten are small, hard, round spiced biscuits — the type you find in supermarket bags by the kilo. Pepernoten are softer, chewier, and larger, made with anise and other spices. Both appear in shops from mid-September onwards and are scattered freely during Sinterklaas celebrations."
-  - q: "What is schoen zetten and how does it work?"
-    a: "Schoen zetten (shoe-setting) is the tradition where children place one of their shoes near the fireplace, radiator, or front door on evenings during the Sinterklaas season. They often leave a carrot or drawing for Sinterklaas's horse Amerigo. In the morning, the shoe is supposedly filled with small treats — pepernoten, chocolate letters, tangerines, or small toys. The tradition runs from the intocht (arrival) through to December 5th."
-  - q: "What is a gedicht in the context of Sinterklaas?"
-    a: "A gedicht (poem) is a core part of pakjesavond gift-giving. Every gift is traditionally accompanied by a handwritten poem, supposedly written by Sinterklaas or one of his helpers, that teases the recipient affectionately about something that happened during the year — a bad habit, an embarrassing moment, a running joke. The poem is read aloud before the gift is opened. Writing a good gedicht is considered a skill, and Dutch people take it seriously."
-  - q: "What is the controversy around Zwarte Piet?"
-    a: "Zwarte Piet (Black Pete) is the traditional helper figure of Sinterklaas, historically depicted with black face paint, curly hair, red lips, and colourful clothing. In recent years there has been a significant and sometimes heated public debate about whether this depiction is a racist caricature rooted in the history of enslavement. Many municipalities, schools, broadcasters, and businesses have shifted to 'roetveegpiet' — a sooty Pete whose face is smudged with chimney soot rather than painted black. This remains a sensitive subject in Dutch society, with strong feelings on multiple sides."
+- q: When is Sinterklaas in the Netherlands?
+  a: The main celebration is pakjesavond on December 5th, the evening before the feast day of Sint Nicolaas on December 6th. The season officially begins when Sinterklaas arrives by boat from Spain in mid-November — usually the second or third Saturday of November. From that point until December 5th, Dutch children can set their shoe each evening to receive small gifts and sweets.
+- q: What is the difference between Sinterklaas and Santa Claus?
+  a: They share distant historical roots — both draw on the legend of Saint Nicholas — but they are distinct traditions. Sinterklaas is an elderly white-bearded bishop who arrives by steamboat from Spain, rides a white horse called Amerigo, and is assisted by helpers called Pieten. He brings gifts on December 5th. Santa Claus arrives from the North Pole by sleigh on Christmas Eve (December 24th). In the Netherlands, both are celebrated, but Sinterklaas is the dominant gift-giving occasion, especially for children.
+- q: What are pepernoten and kruidnoten?
+  a: Both are traditional Sinterklaas sweets and the words are often used interchangeably in everyday speech, though technically they are different. Kruidnoten are small, hard, round spiced biscuits — the type you find in supermarket bags by the kilo. Pepernoten are softer, chewier, and larger, made with anise and other spices. Both appear in shops from mid-September onwards and are scattered freely during Sinterklaas celebrations.
+- q: What is schoen zetten and how does it work?
+  a: Schoen zetten (shoe-setting) is the tradition where children place one of their shoes near the fireplace, radiator, or front door on evenings during the Sinterklaas season. They often leave a carrot or drawing for Sinterklaas's horse Amerigo. In the morning, the shoe is supposedly filled with small treats — pepernoten, chocolate letters, tangerines, or small toys. The tradition runs from the intocht (arrival) through to December 5th.
+- q: What is a gedicht in the context of Sinterklaas?
+  a: A gedicht (poem) is a core part of pakjesavond gift-giving. Every gift is traditionally accompanied by a handwritten poem, supposedly written by Sinterklaas or one of his helpers, that teases the recipient affectionately about something that happened during the year — a bad habit, an embarrassing moment, a running joke. The poem is read aloud before the gift is opened. Writing a good gedicht is considered a skill, and Dutch people take it seriously.
+- q: What is the controversy around Zwarte Piet?
+  a: Zwarte Piet (Black Pete) is the traditional helper figure of Sinterklaas, historically depicted with black face paint, curly hair, red lips, and colourful clothing. In recent years there has been a significant and sometimes heated public debate about whether this depiction is a racist caricature rooted in the history of enslavement. Many municipalities, schools, broadcasters, and businesses have shifted to 'roetveegpiet' — a sooty Pete whose face is smudged with chimney soot rather than painted black. This remains a sensitive subject in Dutch society, with strong feelings on multiple sides.
 products:
-  - name: "Babbel"
-    url: "https://www.babbel.com/"
-    price: "6.99"
-  - name: "Meetup"
-    url: "https://www.meetup.com/"
-    price: "0.00"
-  - name: "DutchPod101"
-    url: "https://www.dutchpod101.com/"
-    price: "0.00"
+- name: Babbel
+  url: https://www.babbel.com/
+  price: '6.99'
+- name: Meetup
+  url: https://www.meetup.com/
+  price: '0.00'
+- name: DutchPod101
+  url: https://www.dutchpod101.com/
+  price: '0.00'
+schema_type: Article
 ---
 
 My first Sinterklaas in the Netherlands nearly broke me.

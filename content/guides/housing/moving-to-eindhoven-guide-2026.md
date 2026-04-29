@@ -1,38 +1,49 @@
 ---
-title: "Moving to Eindhoven 2026: Complete Expat Guide"
-date: 2026-03-06T10:00:00+01:00
-lastmod: 2026-04-23T10:00:00+01:00
-description: "Complete guide to moving to Eindhoven as an expat. Neighborhoods, tech industry, housing, costs, and practical tips for the Netherlands' Silicon Valley."
-categories: ["housing"]
-tags: ["Eindhoven", "expat guide", "tech hub", "Brainport", "relocation"]
-keywords: ["moving to Eindhoven", "Eindhoven expat guide", "living in Eindhoven", "Brainport region"]
+title: 'Moving to Eindhoven 2026: Complete Expat Guide'
+date: 2026-03-06 10:00:00+01:00
+lastmod: 2026-04-23 10:00:00+01:00
+description: Complete guide to moving to Eindhoven as an expat. Neighborhoods, tech industry, housing, costs, and practical tips for the Netherlands' Silicon Valley.
+categories:
+- housing
+tags:
+- Eindhoven
+- expat guide
+- tech hub
+- Brainport
+- relocation
+keywords:
+- moving to Eindhoven
+- Eindhoven expat guide
+- living in Eindhoven
+- Brainport region
 affiliate: true
-author: "Sarah van den Berg"
-author_bio: "Expat coach and relocation specialist. Half Dutch, half British, living in the Netherlands for over 10 years."
-featured_image: "/images/featured/moving-to-eindhoven-guide-2026.webp"
+author: Sarah van den Berg
+author_bio: Expat coach and relocation specialist. Half Dutch, half British, living in the Netherlands for over 10 years.
+featured_image: /images/featured/moving-to-eindhoven-guide-2026.webp
 faq:
-  - q: "Is Eindhoven good for expats?"
-    a: "Eindhoven is excellent for tech and engineering expats. The Brainport region houses ASML, Philips, NXP, and hundreds of tech startups. The international community is large and growing, housing is more affordable than Amsterdam, and the quality of life is high. The main downside is less cultural variety compared to Amsterdam."
-  - q: "How much does it cost to live in Eindhoven?"
-    a: "Eindhoven is 20-30% cheaper than Amsterdam. A single professional can expect €1,800-€2,600/month total. Rent for a one-bedroom apartment: €800-€1,200 (city center) or €650-€950 (outskirts). Groceries: €250-€350/month."
-  - q: "What are the best neighborhoods in Eindhoven for expats?"
-    a: "Popular expat neighborhoods include: Strijp-S (trendy, former Philips factory complex), Centrum (walkable, restaurants), Woensel-Zuid (family-friendly, near international school), Gestel (green, quiet), and Veldhoven (nearby town, close to ASML). Each offers a different lifestyle."
-  - q: "What major companies are in Eindhoven?"
-    a: "Eindhoven's Brainport region hosts: ASML (chip lithography, 42,000 employees), Philips (healthcare technology), NXP Semiconductors, DAF Trucks, VDL Groep, TomTom, and hundreds of high-tech startups and scale-ups. It is the Netherlands' innovation engine."
-  - q: "How is the housing market in Eindhoven?"
-    a: "The Eindhoven housing market is tight due to Brainport growth, but more affordable than Amsterdam or Utrecht. Average rent for a 2-bedroom: €1,000-€1,500/month. Buying prices: €3,500-€5,000/m². Many new developments are planned. Start searching 4-6 weeks before your move."
-  - q: "Does Eindhoven have international schools?"
-    a: "Yes, the International School Eindhoven (ISE) offers IB curriculum from age 4-18. The Mondial College has an International Transition Class. Tuition at ISE ranges from €8,000-€18,000/year. Many tech companies cover or subsidize school fees as part of relocation packages."
+- q: Is Eindhoven good for expats?
+  a: Eindhoven is excellent for tech and engineering expats. The Brainport region houses ASML, Philips, NXP, and hundreds of tech startups. The international community is large and growing, housing is more affordable than Amsterdam, and the quality of life is high. The main downside is less cultural variety compared to Amsterdam.
+- q: How much does it cost to live in Eindhoven?
+  a: 'Eindhoven is 20-30% cheaper than Amsterdam. A single professional can expect €1,800-€2,600/month total. Rent for a one-bedroom apartment: €800-€1,200 (city center) or €650-€950 (outskirts). Groceries: €250-€350/month.'
+- q: What are the best neighborhoods in Eindhoven for expats?
+  a: 'Popular expat neighborhoods include: Strijp-S (trendy, former Philips factory complex), Centrum (walkable, restaurants), Woensel-Zuid (family-friendly, near international school), Gestel (green, quiet), and Veldhoven (nearby town, close to ASML). Each offers a different lifestyle.'
+- q: What major companies are in Eindhoven?
+  a: 'Eindhoven''s Brainport region hosts: ASML (chip lithography, 42,000 employees), Philips (healthcare technology), NXP Semiconductors, DAF Trucks, VDL Groep, TomTom, and hundreds of high-tech startups and scale-ups. It is the Netherlands'' innovation engine.'
+- q: How is the housing market in Eindhoven?
+  a: 'The Eindhoven housing market is tight due to Brainport growth, but more affordable than Amsterdam or Utrecht. Average rent for a 2-bedroom: €1,000-€1,500/month. Buying prices: €3,500-€5,000/m². Many new developments are planned. Start searching 4-6 weeks before your move.'
+- q: Does Eindhoven have international schools?
+  a: Yes, the International School Eindhoven (ISE) offers IB curriculum from age 4-18. The Mondial College has an International Transition Class. Tuition at ISE ranges from €8,000-€18,000/year. Many tech companies cover or subsidize school fees as part of relocation packages.
 products:
-  - name: "HousingAnywhere"
-    url: "https://housinganywhere.com/"
-    price: "0.00"
-  - name: "Pararius"
-    url: "https://www.pararius.com/"
-    price: "0.00"
-  - name: "Funda"
-    url: "https://www.funda.nl/"
-    price: "0.00"
+- name: HousingAnywhere
+  url: https://housinganywhere.com/
+  price: '0.00'
+- name: Pararius
+  url: https://www.pararius.com/
+  price: '0.00'
+- name: Funda
+  url: https://www.funda.nl/
+  price: '0.00'
+schema_type: Article
 ---
 
 I will be honest: when I first visited Eindhoven years ago, I did not get the hype. It felt quiet compared to Amsterdam. Then I started working with clients relocating there for ASML, Philips, and the tech startups popping up everywhere, and I saw what they saw -- affordable housing, a genuinely international community, and a city that is growing fast without the chaos of the Randstad. I have come to really appreciate Eindhoven, and if you are moving there, you are in for a pleasant surprise.

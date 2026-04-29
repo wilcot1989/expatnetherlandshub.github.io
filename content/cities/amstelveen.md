@@ -1,13 +1,28 @@
 ---
-title: "Expats in Amstelveen 2026: Complete Guide for Internationals"
-description: "Guide for expats in Amstelveen 2026: rent prices, expat community, best neighbourhoods, international schools, commute to Amsterdam, and honest tips. Why so many expats choose Amstelveen."
-date: 2026-03-07T10:00:00+01:00
-lastmod: 2026-04-23T10:00:00+01:00
-featured_image: "/images/categories/cities.svg"
-author: "Sarah van den Berg"
-categories: ["cities"]
-tags: ["amstelveen", "expat city guide", "amsterdam suburbs", "expat community"]
-keywords: ["expats in amstelveen", "expat amstelveen", "expats amstelveen", "amstelveen expat guide", "living in amstelveen expat", "amstelveen expat community", "amstelveen rent prices", "amstelveen international schools", "amstelveen netherlands"]
+title: 'Expats in Amstelveen 2026: Complete Guide for Internationals'
+description: 'Guide for expats in Amstelveen 2026: rent prices, expat community, best neighbourhoods, international schools, commute to Amsterdam, and honest tips. Why so.'
+date: 2026-03-07 10:00:00+01:00
+lastmod: 2026-04-23 10:00:00+01:00
+featured_image: /images/categories/cities.svg
+author: Sarah van den Berg
+categories:
+- cities
+tags:
+- amstelveen
+- expat city guide
+- amsterdam suburbs
+- expat community
+keywords:
+- expats in amstelveen
+- expat amstelveen
+- expats amstelveen
+- amstelveen expat guide
+- living in amstelveen expat
+- amstelveen expat community
+- amstelveen rent prices
+- amstelveen international schools
+- amstelveen netherlands
+schema_type: Article
 ---
 
 ## Amstelveen at a Glance

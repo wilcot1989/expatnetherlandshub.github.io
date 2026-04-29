@@ -1,38 +1,50 @@
 ---
-title: "Best Accounting Software Freelancers NL 2026"
-date: 2026-05-26T10:00:00+01:00
-lastmod: 2026-04-23T10:00:00+01:00
-description: "Best accounting software for ZZP freelancers in the Netherlands: Moneybird, Exact Online, e-Boekhouden, and Jortt compared on price and BTW support."
-categories: ["work"]
-tags: ["accounting", "ZZP", "freelancer", "boekhouding", "Moneybird", "invoicing"]
-keywords: ["accounting software freelancer netherlands", "best bookkeeping software zzp", "moneybird vs exact freelancer", "invoicing software netherlands expat"]
+title: Best Accounting Software Freelancers NL 2026
+date: 2026-05-26 10:00:00+01:00
+lastmod: 2026-04-23 10:00:00+01:00
+description: 'Best accounting software for ZZP freelancers in the Netherlands: Moneybird, Exact Online, e-Boekhouden, and Jortt compared on price and BTW support.'
+categories:
+- work
+tags:
+- accounting
+- ZZP
+- freelancer
+- boekhouding
+- Moneybird
+- invoicing
+keywords:
+- accounting software freelancer netherlands
+- best bookkeeping software zzp
+- moneybird vs exact freelancer
+- invoicing software netherlands expat
 affiliate: true
 products:
-  - name: "Wise"
-    url: "https://go.expatnetherlandshub.com/wise?ref=/guides/work/best-accounting-software-freelancers-netherlands-2026/"
-    price: "0.00"
-  - name: "LinkedIn Premium"
-    url: "https://www.linkedin.com/premium/"
-    price: "29.99"
-  - name: "Undutchables"
-    url: "https://undutchables.nl/"
-    price: "0.00"
-author: "Sarah van den Berg"
-author_bio: "Expat coach and relocation specialist. Half Dutch, half British, living in the Netherlands for over 10 years."
-featured_image: "/images/categories/work.svg"
+- name: Wise
+  url: https://go.expatnetherlandshub.com/wise?ref=/guides/work/best-accounting-software-freelancers-netherlands-2026/
+  price: '0.00'
+- name: LinkedIn Premium
+  url: https://www.linkedin.com/premium/
+  price: '29.99'
+- name: Undutchables
+  url: https://undutchables.nl/
+  price: '0.00'
+author: Sarah van den Berg
+author_bio: Expat coach and relocation specialist. Half Dutch, half British, living in the Netherlands for over 10 years.
+featured_image: /images/categories/work.svg
 faq:
-  - q: "Does accounting software in the Netherlands have to be in Dutch?"
-    a: "No, the Belastingdienst does not require your software to operate in Dutch — only that it produces BTW-compliant records and exports data in a Dutch-standard format. Moneybird and Jortt both offer partial English interfaces. FreshBooks is fully English but requires workarounds to meet Dutch BTW rules. What matters legally is the output, not the language of the menus."
-  - q: "Can I use FreshBooks as a Dutch ZZP?"
-    a: "Technically yes, but it requires extra effort. FreshBooks is not built around Dutch tax rules, so you need to manually configure BTW rates (21%, 9%, 0%), ensure your invoice numbering meets Dutch requirements, and export data in a format your boekhouder or the Belastingdienst can read. Many Dutch accountants find FreshBooks exports awkward to work with. If you are serious about efficiency, a Dutch-native tool like Moneybird or e-Boekhouden is more practical."
-  - q: "How often do freelancers file BTW (VAT) in the Netherlands?"
-    a: "Most ZZPers file quarterly (per kwartaal). If your annual VAT liability is less than €1,883, you can ask to file annually instead. If you are eligible for the KOR (Kleineondernemersregeling — turnover under €20,000/year), you can be exempt from BTW altogether. Your accounting software should generate the quarterly BTW aangifte report automatically."
-  - q: "What is the KOR and do I need accounting software if I qualify?"
-    a: "The KOR (Kleineondernemersregeling) exempts ZZPers with annual revenue under €20,000 from charging and remitting BTW. If you qualify and apply for it, your invoicing is simpler, but you still need to track income and expenses for income tax purposes. A lightweight tool like Jortt or even a well-organised spreadsheet may be sufficient. Once you cross the €20,000 threshold you must immediately switch back to charging BTW."
-  - q: "Can I send invoices in English to Dutch clients?"
-    a: "Yes. Dutch law does not require invoices to be in Dutch. Many Dutch businesses receive English invoices regularly, especially in tech, consulting, and creative industries. Your invoice must include the legally required fields: your name, KvK number, BTW number, invoice number, invoice date, service description, amounts per BTW rate, and the total BTW amount. All accounting software covered in this guide generates compliant invoices regardless of the language."
-  - q: "When should I hire a boekhouder instead of doing it myself?"
-    a: "Hire a boekhouder if: your revenue is above €80,000/year; you have international income or clients in multiple countries; you want to claim the 30% ruling via a BV structure; you have employees; or you simply do not want to spend 2–3 hours a month on financial admin. A good ZZP boekhouder costs €60–150/month and typically saves more than that in deductions they find that you would have missed."
+- q: Does accounting software in the Netherlands have to be in Dutch?
+  a: No, the Belastingdienst does not require your software to operate in Dutch — only that it produces BTW-compliant records and exports data in a Dutch-standard format. Moneybird and Jortt both offer partial English interfaces. FreshBooks is fully English but requires workarounds to meet Dutch BTW rules. What matters legally is the output, not the language of the menus.
+- q: Can I use FreshBooks as a Dutch ZZP?
+  a: Technically yes, but it requires extra effort. FreshBooks is not built around Dutch tax rules, so you need to manually configure BTW rates (21%, 9%, 0%), ensure your invoice numbering meets Dutch requirements, and export data in a format your boekhouder or the Belastingdienst can read. Many Dutch accountants find FreshBooks exports awkward to work with. If you are serious about efficiency, a Dutch-native tool like Moneybird or e-Boekhouden is more practical.
+- q: How often do freelancers file BTW (VAT) in the Netherlands?
+  a: Most ZZPers file quarterly (per kwartaal). If your annual VAT liability is less than €1,883, you can ask to file annually instead. If you are eligible for the KOR (Kleineondernemersregeling — turnover under €20,000/year), you can be exempt from BTW altogether. Your accounting software should generate the quarterly BTW aangifte report automatically.
+- q: What is the KOR and do I need accounting software if I qualify?
+  a: The KOR (Kleineondernemersregeling) exempts ZZPers with annual revenue under €20,000 from charging and remitting BTW. If you qualify and apply for it, your invoicing is simpler, but you still need to track income and expenses for income tax purposes. A lightweight tool like Jortt or even a well-organised spreadsheet may be sufficient. Once you cross the €20,000 threshold you must immediately switch back to charging BTW.
+- q: Can I send invoices in English to Dutch clients?
+  a: 'Yes. Dutch law does not require invoices to be in Dutch. Many Dutch businesses receive English invoices regularly, especially in tech, consulting, and creative industries. Your invoice must include the legally required fields: your name, KvK number, BTW number, invoice number, invoice date, service description, amounts per BTW rate, and the total BTW amount. All accounting software covered in this guide generates compliant invoices regardless of the language.'
+- q: When should I hire a boekhouder instead of doing it myself?
+  a: 'Hire a boekhouder if: your revenue is above €80,000/year; you have international income or clients in multiple countries; you want to claim the 30% ruling via a BV structure; you have employees; or you simply do not want to spend 2–3 hours a month on financial admin. A good ZZP boekhouder costs €60–150/month and typically saves more than that in deductions they find that you would have missed.'
+schema_type: Article
 ---
 
 The first BTW aangifte I filed as a ZZP nearly broke me. Not because it was mathematically hard — the numbers were fine — but because I could not figure out which software spoke English, which ones actually understood Dutch tax rules, and which were just international tools dressed up with a Dutch flag icon on their marketing page.

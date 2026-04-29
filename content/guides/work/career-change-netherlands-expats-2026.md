@@ -1,36 +1,48 @@
 ---
-title: "Career Change in Netherlands: Expat Guide 2026"
-date: 2026-03-18T10:00:00+01:00
-lastmod: 2026-04-23T10:00:00+01:00
-description: "Changing careers as an expat in the Netherlands. Diploma recognition, UWV retraining, ZZP pivot, sector opportunities, and language barriers explained."
-categories: ["work"]
-tags: ["career change", "expat career", "diploma recognition", "ZZP", "retraining Netherlands"]
-keywords: ["career change Netherlands expat", "diploma recognition Netherlands", "Nuffic credential assessment", "UWV retraining expat", "career pivot Netherlands"]
+title: 'Career Change in Netherlands: Expat Guide 2026'
+date: 2026-03-18 10:00:00+01:00
+lastmod: 2026-04-23 10:00:00+01:00
+description: Changing careers as an expat in the Netherlands. Diploma recognition, UWV retraining, ZZP pivot, sector opportunities, and language barriers explained.
+categories:
+- work
+tags:
+- career change
+- expat career
+- diploma recognition
+- ZZP
+- retraining Netherlands
+keywords:
+- career change Netherlands expat
+- diploma recognition Netherlands
+- Nuffic credential assessment
+- UWV retraining expat
+- career pivot Netherlands
 affiliate: true
 products:
-  - name: "LinkedIn Premium"
-    url: "https://www.linkedin.com/premium/"
-    price: "29.99"
-  - name: "Undutchables"
-    url: "https://undutchables.nl/"
-    price: "0.00"
-  - name: "Together Abroad"
-    url: "https://www.togetherabroad.nl/"
-    price: "0.00"
-author: "Sarah van den Berg"
-author_bio: "Expat coach and relocation specialist. Half Dutch, half British, living in the Netherlands for over 10 years."
-featured_image: "/images/categories/work.svg"
+- name: LinkedIn Premium
+  url: https://www.linkedin.com/premium/
+  price: '29.99'
+- name: Undutchables
+  url: https://undutchables.nl/
+  price: '0.00'
+- name: Together Abroad
+  url: https://www.togetherabroad.nl/
+  price: '0.00'
+author: Sarah van den Berg
+author_bio: Expat coach and relocation specialist. Half Dutch, half British, living in the Netherlands for over 10 years.
+featured_image: /images/categories/work.svg
 faq:
-  - q: "How do I get my foreign qualifications recognised in the Netherlands?"
-    a: "It depends on your profession. For general academic qualifications, Nuffic (the Dutch organisation for internationalisation in education) provides credential evaluations — either a diploma assessment for academic recognition or a statement of comparability for employment purposes. Regulated professions require sector-specific recognition: medical professionals use the BIG-register, engineers can use IDW (part of Kiwa), legal professionals must pass through the Netherlands Bar Association or the specific court system. Non-regulated professions — most business, tech, and creative roles — do not require formal recognition; your CV and portfolio are sufficient, and Dutch employers in international environments are accustomed to evaluating foreign credentials directly."
-  - q: "Is the STAP budget still available for retraining in the Netherlands?"
-    a: "No. The STAP budget (Stimulering Arbeidsmarktpositie) was discontinued in December 2023 after the Dutch government ended the programme due to high demand and fraud concerns. It offered up to €1,000 per person per year towards approved training. The replacement framework is still being developed. UWV still offers retraining support for unemployed people registered as job seekers, and some employer-funded options exist through O&O fondsen (sector training funds). Check the UWV website for current provisions, as the landscape is shifting."
-  - q: "Can I retrain as a ZZP while changing careers in the Netherlands?"
-    a: "Yes, and this is an increasingly common path for expats. Becoming a ZZP (self-employed freelancer) while transitioning into a new sector allows you to build a portfolio of work in your new direction while managing your income. The main requirement is KvK registration (€75 one-time fee). The challenge is building credibility in a new sector without a traditional employment track record in the Netherlands — which is where portfolio projects, certifications, and networking become especially important. The financial transition is manageable if you have a financial buffer and a clear revenue plan. Wise is useful here for managing income from multiple currencies or international clients during the transition period."
-  - q: "Which sectors in the Netherlands are most open to career changers?"
-    a: "Technology and software development are the most accommodating — the talent shortage is severe enough that employers actively recruit career changers who can demonstrate competency through bootcamps, portfolios, or certifications. Sustainability and circular economy roles are growing faster than the educational pipeline can supply, making them accessible to those transitioning from adjacent sectors. Management consulting firms (particularly Big 4 and Tier 2 firms in Amsterdam) regularly hire career changers from industry roles. Healthcare-adjacent roles — health tech, digital health, healthcare management — are also accessible depending on your background. The most difficult sectors for career changers are law (requires Dutch qualification), medicine (requires BIG-register recognition), and government roles that often require Dutch language fluency."
-  - q: "Does age discrimination exist in the Dutch job market?"
-    a: "It exists, though it is less overt than in some other markets and is illegal under Dutch anti-discrimination law (WGBL — Wet gelijke behandeling op grond van leeftijd bij arbeid). In practice, career changers over 45 face additional friction in the Dutch job market. Employers occasionally screen out older candidates informally at application stage, and some sectors (particularly fast-growth tech startups) skew young in their hiring. The most effective counter-strategies are: positioning experience as an asset rather than a liability, targeting companies with more mature culture (larger corporates, consultancies, sector organisations), freelancing to build the new portfolio independently of hiring processes, and being explicit about your energy and motivation for the change."
+- q: How do I get my foreign qualifications recognised in the Netherlands?
+  a: 'It depends on your profession. For general academic qualifications, Nuffic (the Dutch organisation for internationalisation in education) provides credential evaluations — either a diploma assessment for academic recognition or a statement of comparability for employment purposes. Regulated professions require sector-specific recognition: medical professionals use the BIG-register, engineers can use IDW (part of Kiwa), legal professionals must pass through the Netherlands Bar Association or the specific court system. Non-regulated professions — most business, tech, and creative roles — do not require formal recognition; your CV and portfolio are sufficient, and Dutch employers in international environments are accustomed to evaluating foreign credentials directly.'
+- q: Is the STAP budget still available for retraining in the Netherlands?
+  a: No. The STAP budget (Stimulering Arbeidsmarktpositie) was discontinued in December 2023 after the Dutch government ended the programme due to high demand and fraud concerns. It offered up to €1,000 per person per year towards approved training. The replacement framework is still being developed. UWV still offers retraining support for unemployed people registered as job seekers, and some employer-funded options exist through O&O fondsen (sector training funds). Check the UWV website for current provisions, as the landscape is shifting.
+- q: Can I retrain as a ZZP while changing careers in the Netherlands?
+  a: Yes, and this is an increasingly common path for expats. Becoming a ZZP (self-employed freelancer) while transitioning into a new sector allows you to build a portfolio of work in your new direction while managing your income. The main requirement is KvK registration (€75 one-time fee). The challenge is building credibility in a new sector without a traditional employment track record in the Netherlands — which is where portfolio projects, certifications, and networking become especially important. The financial transition is manageable if you have a financial buffer and a clear revenue plan. Wise is useful here for managing income from multiple currencies or international clients during the transition period.
+- q: Which sectors in the Netherlands are most open to career changers?
+  a: Technology and software development are the most accommodating — the talent shortage is severe enough that employers actively recruit career changers who can demonstrate competency through bootcamps, portfolios, or certifications. Sustainability and circular economy roles are growing faster than the educational pipeline can supply, making them accessible to those transitioning from adjacent sectors. Management consulting firms (particularly Big 4 and Tier 2 firms in Amsterdam) regularly hire career changers from industry roles. Healthcare-adjacent roles — health tech, digital health, healthcare management — are also accessible depending on your background. The most difficult sectors for career changers are law (requires Dutch qualification), medicine (requires BIG-register recognition), and government roles that often require Dutch language fluency.
+- q: Does age discrimination exist in the Dutch job market?
+  a: 'It exists, though it is less overt than in some other markets and is illegal under Dutch anti-discrimination law (WGBL — Wet gelijke behandeling op grond van leeftijd bij arbeid). In practice, career changers over 45 face additional friction in the Dutch job market. Employers occasionally screen out older candidates informally at application stage, and some sectors (particularly fast-growth tech startups) skew young in their hiring. The most effective counter-strategies are: positioning experience as an asset rather than a liability, targeting companies with more mature culture (larger corporates, consultancies, sector organisations), freelancing to build the new portfolio independently of hiring processes, and being explicit about your energy and motivation for the change.'
+schema_type: Article
 ---
 
 One of the most common conversations I have with expat coaching clients goes something like this: they have moved to the Netherlands for a partner's job or their own relocation package, they have been working in the same field for a decade or more, and now — uprooted, with a city to explore and a natural break in their career — they are wondering whether this is the moment to change direction.

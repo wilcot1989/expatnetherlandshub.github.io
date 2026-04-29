@@ -1,36 +1,53 @@
 ---
-title: "Eating Out in Netherlands: Expat Food Guide"
-date: 2026-03-18T10:00:00+01:00
-lastmod: 2026-04-23T10:00:00+01:00
-description: "Eating out in the Netherlands for expats: restaurant culture, tipping, street food, international cuisine, Michelin stars, and the best food cities."
-categories: ["daily-life"]
-tags: ["eating out netherlands", "dutch restaurants", "dutch food expat", "dutch street food", "rijsttafel", "bitterballen", "michelin netherlands", "haring netherlands"]
-keywords: ["eating out netherlands expats", "dutch restaurant culture 2026", "dutch tipping culture", "rijsttafel netherlands", "street food netherlands", "best food cities netherlands", "dutch michelin restaurants"]
+title: 'Eating Out in Netherlands: Expat Food Guide'
+date: 2026-03-18 10:00:00+01:00
+lastmod: 2026-04-23 10:00:00+01:00
+description: 'Eating out in the Netherlands for expats: restaurant culture, tipping, street food, international cuisine, Michelin stars, and the best food cities.'
+categories:
+- daily-life
+tags:
+- eating out netherlands
+- dutch restaurants
+- dutch food expat
+- dutch street food
+- rijsttafel
+- bitterballen
+- michelin netherlands
+- haring netherlands
+keywords:
+- eating out netherlands expats
+- dutch restaurant culture 2026
+- dutch tipping culture
+- rijsttafel netherlands
+- street food netherlands
+- best food cities netherlands
+- dutch michelin restaurants
 affiliate: true
 products:
-  - name: "KPN"
-    url: "https://www.kpn.com/"
-    price: "0.00"
-author: "Sarah van den Berg"
-author_bio: "Expat coach and relocation specialist. Half Dutch, half British, living in the Netherlands for over 10 years."
-featured_image: "/images/categories/daily-life.svg"
+- name: KPN
+  url: https://www.kpn.com/
+  price: '0.00'
+author: Sarah van den Berg
+author_bio: Expat coach and relocation specialist. Half Dutch, half British, living in the Netherlands for over 10 years.
+featured_image: /images/categories/daily-life.svg
 faq:
-  - q: "Do you tip in the Netherlands?"
-    a: "Tipping is appreciated but not obligatory. The Dutch system is very different from the US — restaurant staff earn a living wage and do not depend on tips to survive. The standard approach is to round up to a convenient number (e.g., if the bill is EUR 37, leave EUR 40) or add 5-10% for genuinely good service. You will not cause offence by not tipping, but a small tip for excellent service is always welcomed. For delivery drivers, rounding up to the nearest euro or adding EUR 1-2 is typical."
-  - q: "What time do restaurants close in the Netherlands?"
-    a: "Earlier than most expats expect. Dutch restaurants typically stop taking new orders by 9pm, and many close their kitchens by 9:30pm. In major cities like Amsterdam, some restaurants stay open until 10pm or 10:30pm, but ordering after 9pm is increasingly difficult even in tourist areas. This reflects Dutch dinner culture — people eat early, typically between 6pm and 7:30pm. If you want to eat late, you are generally better off with cafes (which serve food until later), kebab shops, pizza delivery, or a few late-night restaurants in tourist districts."
-  - q: "What is a rijsttafel and where can I eat one?"
-    a: "Rijsttafel (rice table) is an Indonesian-style feast of 15-25 small dishes served with rice — dishes like satay, rendang, gado-gado, nasi goreng, and various sambals. It was developed in colonial Indonesia by Dutch administrators who wanted to sample many dishes at once. Today it is considered as Dutch as it is Indonesian, and a rijsttafel dinner is one of the great Dutch eating experiences. Good Indonesian restaurants with rijsttafel are found throughout the Netherlands. In Amsterdam: Blauw, Tujuh Maret. In Utrecht: Blauw (same group). Most Indonesian restaurants in the Netherlands also offer individual dishes if you prefer a lighter meal."
-  - q: "What is haring and how do you eat it?"
-    a: "Haring (Dutch herring) is a raw salt-cured herring, lightly brined in a traditional Dutch method. It is eaten at street stalls from May (when the new season's soused herring — Hollandse Nieuwe — is released) through autumn. The traditional way is to hold the fish by the tail, tilt your head back, and lower it into your mouth in bites. A less theatrical but equally valid method is to have it diced on a small plate with chopped raw onion and gherkin. The taste is mild and fresh — not fishy in the way most people expect. If you have tried salt herring elsewhere and disliked it, Dutch haring may surprise you. It is a genuinely excellent street food."
-  - q: "How good is the restaurant scene in the Netherlands overall?"
-    a: "Much better than its reputation suggests. The Netherlands has over 100 Michelin-starred restaurants — a remarkable number for a country of 18 million people. Amsterdam has more Michelin stars per capita than Paris. Beyond the fine dining top tier, the Dutch restaurant scene in major cities is diverse, cosmopolitan, and includes some of Europe's best Indonesian, Surinamese, Turkish, Moroccan, and Vietnamese food. The historical perception of Dutch food as boring applies mainly to traditional home cooking — it does not reflect the actual restaurant landscape in cities like Amsterdam, Rotterdam, or The Hague."
-  - q: "What is Surinamese food and where can I find it?"
-    a: "Surinamese cuisine is one of the Netherlands' great culinary contributions and almost unknown outside the Dutch-speaking world. Suriname was a Dutch colony, and a large Surinamese community migrated to the Netherlands in the 1970s, bringing their food. Surinamese cuisine blends African, Indian (indentured labour from India brought curry traditions), Indonesian, Chinese, and Native Amerindian influences. Key dishes: roti (flatbread wrap with curried chicken or vegetables), moksi meti (mixed meats in savory sauce), bara (fried dough balls), saoto soup. Surinamese restaurants are found throughout the Netherlands, often as small, family-run takeaways — among the best value meals you can eat in the country."
-  - q: "Is the Albert Heijn Bonus card worth it?"
-    a: "Yes, unambiguously. The AH Bonus card is free to register for and provides automatic discounts on the Bonus items marked in-store and in the AH app each week. Discounts typically range from 25-50% on rotating products. There is no catch — you do not need to spend a minimum or collect points. Just register online or in-store with your email address, link it to the AH app, and discounts apply automatically at checkout. Regular AH shoppers save EUR 15-40/month through Bonus discounts. The AH app also shows your purchase history and allows digital receipts."
-  - q: "What is bitterballen?"
-    a: "Bitterballen are perhaps the most quintessentially Dutch snack: small, round, deep-fried crispy balls filled with a thick beef ragout (vleesragout) that is almost molten inside. The exterior is crunchy breadcrumbs; the interior is intensely savoury. They are served hot with Dutch mustard for dipping. They are almost always served at borrels (Dutch social drinks gatherings), available at any Dutch eetcafe (pub with food), and found at FEBO (the Dutch automat snack chain) at any hour. Warning: the inside is extremely hot immediately after frying. Always wait 60 seconds and bite carefully to avoid burning your mouth. This is a mistake every expat makes exactly once."
+- q: Do you tip in the Netherlands?
+  a: Tipping is appreciated but not obligatory. The Dutch system is very different from the US — restaurant staff earn a living wage and do not depend on tips to survive. The standard approach is to round up to a convenient number (e.g., if the bill is EUR 37, leave EUR 40) or add 5-10% for genuinely good service. You will not cause offence by not tipping, but a small tip for excellent service is always welcomed. For delivery drivers, rounding up to the nearest euro or adding EUR 1-2 is typical.
+- q: What time do restaurants close in the Netherlands?
+  a: Earlier than most expats expect. Dutch restaurants typically stop taking new orders by 9pm, and many close their kitchens by 9:30pm. In major cities like Amsterdam, some restaurants stay open until 10pm or 10:30pm, but ordering after 9pm is increasingly difficult even in tourist areas. This reflects Dutch dinner culture — people eat early, typically between 6pm and 7:30pm. If you want to eat late, you are generally better off with cafes (which serve food until later), kebab shops, pizza delivery, or a few late-night restaurants in tourist districts.
+- q: What is a rijsttafel and where can I eat one?
+  a: 'Rijsttafel (rice table) is an Indonesian-style feast of 15-25 small dishes served with rice — dishes like satay, rendang, gado-gado, nasi goreng, and various sambals. It was developed in colonial Indonesia by Dutch administrators who wanted to sample many dishes at once. Today it is considered as Dutch as it is Indonesian, and a rijsttafel dinner is one of the great Dutch eating experiences. Good Indonesian restaurants with rijsttafel are found throughout the Netherlands. In Amsterdam: Blauw, Tujuh Maret. In Utrecht: Blauw (same group). Most Indonesian restaurants in the Netherlands also offer individual dishes if you prefer a lighter meal.'
+- q: What is haring and how do you eat it?
+  a: Haring (Dutch herring) is a raw salt-cured herring, lightly brined in a traditional Dutch method. It is eaten at street stalls from May (when the new season's soused herring — Hollandse Nieuwe — is released) through autumn. The traditional way is to hold the fish by the tail, tilt your head back, and lower it into your mouth in bites. A less theatrical but equally valid method is to have it diced on a small plate with chopped raw onion and gherkin. The taste is mild and fresh — not fishy in the way most people expect. If you have tried salt herring elsewhere and disliked it, Dutch haring may surprise you. It is a genuinely excellent street food.
+- q: How good is the restaurant scene in the Netherlands overall?
+  a: Much better than its reputation suggests. The Netherlands has over 100 Michelin-starred restaurants — a remarkable number for a country of 18 million people. Amsterdam has more Michelin stars per capita than Paris. Beyond the fine dining top tier, the Dutch restaurant scene in major cities is diverse, cosmopolitan, and includes some of Europe's best Indonesian, Surinamese, Turkish, Moroccan, and Vietnamese food. The historical perception of Dutch food as boring applies mainly to traditional home cooking — it does not reflect the actual restaurant landscape in cities like Amsterdam, Rotterdam, or The Hague.
+- q: What is Surinamese food and where can I find it?
+  a: 'Surinamese cuisine is one of the Netherlands'' great culinary contributions and almost unknown outside the Dutch-speaking world. Suriname was a Dutch colony, and a large Surinamese community migrated to the Netherlands in the 1970s, bringing their food. Surinamese cuisine blends African, Indian (indentured labour from India brought curry traditions), Indonesian, Chinese, and Native Amerindian influences. Key dishes: roti (flatbread wrap with curried chicken or vegetables), moksi meti (mixed meats in savory sauce), bara (fried dough balls), saoto soup. Surinamese restaurants are found throughout the Netherlands, often as small, family-run takeaways — among the best value meals you can eat in the country.'
+- q: Is the Albert Heijn Bonus card worth it?
+  a: Yes, unambiguously. The AH Bonus card is free to register for and provides automatic discounts on the Bonus items marked in-store and in the AH app each week. Discounts typically range from 25-50% on rotating products. There is no catch — you do not need to spend a minimum or collect points. Just register online or in-store with your email address, link it to the AH app, and discounts apply automatically at checkout. Regular AH shoppers save EUR 15-40/month through Bonus discounts. The AH app also shows your purchase history and allows digital receipts.
+- q: What is bitterballen?
+  a: 'Bitterballen are perhaps the most quintessentially Dutch snack: small, round, deep-fried crispy balls filled with a thick beef ragout (vleesragout) that is almost molten inside. The exterior is crunchy breadcrumbs; the interior is intensely savoury. They are served hot with Dutch mustard for dipping. They are almost always served at borrels (Dutch social drinks gatherings), available at any Dutch eetcafe (pub with food), and found at FEBO (the Dutch automat snack chain) at any hour. Warning: the inside is extremely hot immediately after frying. Always wait 60 seconds and bite carefully to avoid burning your mouth. This is a mistake every expat makes exactly once.'
+schema_type: Article
 ---
 
 I expected to struggle with the food when I moved to the Netherlands. Dutch cuisine does not have the international reputation of French, Italian, or even Scandinavian cooking. My expectations were low. Within a few months, I was eating some of the best Indonesian food of my life, discovering that Dutch street food is genuinely excellent, and adjusting to the peculiar rhythm of Dutch restaurant life — earlier, more relaxed, and ultimately more enjoyable than I had anticipated.

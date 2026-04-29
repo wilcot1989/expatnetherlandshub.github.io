@@ -1,36 +1,52 @@
 ---
-title: "Best Cities in the Netherlands for Expats: 2026 Rankings"
-date: 2026-03-07T10:00:00+01:00
-lastmod: 2026-04-23T10:00:00+01:00
-description: "The 8 best Dutch cities for expats in 2026. Compare rent, jobs, English-friendliness, and quality of life in Amsterdam, Rotterdam, The Hague, and more."
-categories: ["housing"]
-tags: ["best cities", "expat life", "amsterdam", "rotterdam", "the hague", "utrecht", "eindhoven", "groningen", "leiden", "maastricht"]
-keywords: ["best cities netherlands expats", "best city to live in netherlands", "best dutch cities for expats 2026", "where to live netherlands expat"]
+title: 'Best Cities in the Netherlands for Expats: 2026 Rankings'
+date: 2026-03-07 10:00:00+01:00
+lastmod: 2026-04-23 10:00:00+01:00
+description: The 8 best Dutch cities for expats in 2026. Compare rent, jobs, English-friendliness, and quality of life in Amsterdam, Rotterdam, The Hague, and more.
+categories:
+- housing
+tags:
+- best cities
+- expat life
+- amsterdam
+- rotterdam
+- the hague
+- utrecht
+- eindhoven
+- groningen
+- leiden
+- maastricht
+keywords:
+- best cities netherlands expats
+- best city to live in netherlands
+- best dutch cities for expats 2026
+- where to live netherlands expat
 affiliate: true
-author: "Sarah van den Berg"
-author_bio: "Expat coach and relocation specialist. Half Dutch, half British, living in the Netherlands for over 10 years."
-featured_image: "/images/featured/best-cities-netherlands-expats-2026.webp"
+author: Sarah van den Berg
+author_bio: Expat coach and relocation specialist. Half Dutch, half British, living in the Netherlands for over 10 years.
+featured_image: /images/featured/best-cities-netherlands-expats-2026.webp
 faq:
-  - q: "What is the best city in the Netherlands for expats?"
-    a: "It depends on your priorities. Amsterdam has the most international community and job market but the highest rents (EUR 1,500-1,800 for a 1-bedroom). Rotterdam offers better affordability with a growing international scene. The Hague suits government and NGO workers. Eindhoven is ideal for tech professionals, especially at ASML, Philips, or NXP. For students and young professionals on a budget, Groningen offers the best value."
-  - q: "Which Dutch city is cheapest for expats?"
-    a: "Groningen and Eindhoven offer the best value. A 1-bedroom apartment in Groningen costs EUR 900-1,200 per month, compared to EUR 1,500-1,800 in Amsterdam. Eindhoven is similar at EUR 1,000-1,300. Both cities have strong job markets relative to their cost of living."
-  - q: "Which Dutch city has the most English speakers?"
-    a: "Amsterdam is the most English-friendly city — you can live and work entirely in English. Rotterdam and The Hague are close seconds. In Eindhoven, the tech industry operates largely in English. Smaller cities like Groningen and Maastricht have large student populations that speak English, but daily life (government offices, shops, tradespeople) often requires more Dutch."
-  - q: "Is it worth living outside Amsterdam as an expat?"
-    a: "Absolutely. Dutch cities are well-connected by train — Rotterdam to Amsterdam takes 40 minutes, Utrecht to Amsterdam 25 minutes. Living outside Amsterdam typically saves you EUR 300-600 per month in rent while offering a better quality of life. Many expats who initially move to Amsterdam relocate to smaller cities within their first two years."
-  - q: "Which Dutch city is best for families with children?"
-    a: "Utrecht and The Hague are popular with expat families. Utrecht has excellent international schools, a family-friendly city centre, and good cycling infrastructure. The Hague has the European School, many international organisations, and a beach nearby. Leiden is another strong option — smaller, safer, and only 15 minutes from The Hague by train."
+- q: What is the best city in the Netherlands for expats?
+  a: It depends on your priorities. Amsterdam has the most international community and job market but the highest rents (EUR 1,500-1,800 for a 1-bedroom). Rotterdam offers better affordability with a growing international scene. The Hague suits government and NGO workers. Eindhoven is ideal for tech professionals, especially at ASML, Philips, or NXP. For students and young professionals on a budget, Groningen offers the best value.
+- q: Which Dutch city is cheapest for expats?
+  a: Groningen and Eindhoven offer the best value. A 1-bedroom apartment in Groningen costs EUR 900-1,200 per month, compared to EUR 1,500-1,800 in Amsterdam. Eindhoven is similar at EUR 1,000-1,300. Both cities have strong job markets relative to their cost of living.
+- q: Which Dutch city has the most English speakers?
+  a: Amsterdam is the most English-friendly city — you can live and work entirely in English. Rotterdam and The Hague are close seconds. In Eindhoven, the tech industry operates largely in English. Smaller cities like Groningen and Maastricht have large student populations that speak English, but daily life (government offices, shops, tradespeople) often requires more Dutch.
+- q: Is it worth living outside Amsterdam as an expat?
+  a: Absolutely. Dutch cities are well-connected by train — Rotterdam to Amsterdam takes 40 minutes, Utrecht to Amsterdam 25 minutes. Living outside Amsterdam typically saves you EUR 300-600 per month in rent while offering a better quality of life. Many expats who initially move to Amsterdam relocate to smaller cities within their first two years.
+- q: Which Dutch city is best for families with children?
+  a: Utrecht and The Hague are popular with expat families. Utrecht has excellent international schools, a family-friendly city centre, and good cycling infrastructure. The Hague has the European School, many international organisations, and a beach nearby. Leiden is another strong option — smaller, safer, and only 15 minutes from The Hague by train.
 products:
-  - name: "HousingAnywhere"
-    url: "https://housinganywhere.com/"
-    price: "0.00"
-  - name: "Pararius"
-    url: "https://www.pararius.com/"
-    price: "0.00"
-  - name: "Funda"
-    url: "https://www.funda.nl/"
-    price: "0.00"
+- name: HousingAnywhere
+  url: https://housinganywhere.com/
+  price: '0.00'
+- name: Pararius
+  url: https://www.pararius.com/
+  price: '0.00'
+- name: Funda
+  url: https://www.funda.nl/
+  price: '0.00'
+schema_type: Article
 ---
 
 I have lived in three Dutch cities — Amsterdam, Utrecht, and now Leiden — and I have helped hundreds of expats choose where to settle in the Netherlands. My honest view: most people who ask "which city should I move to?" are asking the wrong question. The right question is "which city fits my situation?"

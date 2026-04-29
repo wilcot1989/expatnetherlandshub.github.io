@@ -1,38 +1,53 @@
 ---
-title: "Remote Work in Netherlands: Expat Guide 2026"
-date: 2026-03-18T10:00:00+01:00
-lastmod: 2026-04-23T10:00:00+01:00
-description: "Remote work in the Netherlands for expats 2026: thuiswerkvergoeding, ARBO law, cross-border tax rules, the 183-day rule, and home office security."
-categories: ["work"]
-tags: ["remote work netherlands", "thuiswerkvergoeding", "working from home netherlands", "expat work netherlands", "183 day rule", "ARBO law", "cross-border remote work"]
-keywords: ["remote work netherlands expat 2026", "thuiswerkvergoeding expat", "working from home netherlands tax", "183 day rule netherlands", "ARBO law home office", "cross-border remote work netherlands"]
+title: 'Remote Work in Netherlands: Expat Guide 2026'
+date: 2026-03-18 10:00:00+01:00
+lastmod: 2026-04-23 10:00:00+01:00
+description: 'Remote work in the Netherlands for expats 2026: thuiswerkvergoeding, ARBO law, cross-border tax rules, the 183-day rule, and home office security.'
+categories:
+- work
+tags:
+- remote work netherlands
+- thuiswerkvergoeding
+- working from home netherlands
+- expat work netherlands
+- 183 day rule
+- ARBO law
+- cross-border remote work
+keywords:
+- remote work netherlands expat 2026
+- thuiswerkvergoeding expat
+- working from home netherlands tax
+- 183 day rule netherlands
+- ARBO law home office
+- cross-border remote work netherlands
 affiliate: true
 products:
-  - name: "LinkedIn Premium"
-    url: "https://www.linkedin.com/premium/"
-    price: "29.99"
-  - name: "Undutchables"
-    url: "https://undutchables.nl/"
-    price: "0.00"
-  - name: "Together Abroad"
-    url: "https://www.togetherabroad.nl/"
-    price: "0.00"
-author: "Sarah van den Berg"
-author_bio: "Expat coach and relocation specialist. Half Dutch, half British, living in the Netherlands for over 10 years."
-featured_image: "/images/categories/work.svg"
+- name: LinkedIn Premium
+  url: https://www.linkedin.com/premium/
+  price: '29.99'
+- name: Undutchables
+  url: https://undutchables.nl/
+  price: '0.00'
+- name: Together Abroad
+  url: https://www.togetherabroad.nl/
+  price: '0.00'
+author: Sarah van den Berg
+author_bio: Expat coach and relocation specialist. Half Dutch, half British, living in the Netherlands for over 10 years.
+featured_image: /images/categories/work.svg
 faq:
-  - q: "Can I work remotely in the Netherlands for a foreign employer?"
-    a: "Yes, in most cases. If you live in the Netherlands and work remotely for a foreign employer, you are a Dutch tax resident working for a foreign company. Your employer must consider whether they have a permanent establishment obligation in the Netherlands (triggering Dutch corporate tax), and both you and your employer need to work through social security obligations. Whether Dutch social security applies depends on where your employer is based and relevant EU or bilateral treaty rules. This situation requires careful handling — it is worth raising it explicitly with your employer's HR and potentially a cross-border tax advisor."
-  - q: "What is the thuiswerkvergoeding in the Netherlands?"
-    a: "The thuiswerkvergoeding is a tax-free home office allowance that Dutch employers can pay to employees who work from home. Since January 2022, the amount is EUR 2.35 per day worked from home (2026 figure — this is adjusted annually). This allowance compensates for costs like heating, electricity, and coffee that you incur at home rather than in the office. The allowance is paid on top of your salary and is not taxed. Employers are not legally required to pay it, but most large Dutch employers do as part of their home working policy."
-  - q: "Does the 183-day rule affect me as a remote worker in the Netherlands?"
-    a: "The 183-day rule is relevant primarily if you live in one country and work for an employer in another. It generally means that if you spend more than 183 days working in the Netherlands for a foreign employer, the Netherlands may have the right to tax your employment income — even if your employer is based abroad. The exact rules depend on the tax treaty between the Netherlands and your employer's country. For expats who are Dutch tax residents working remotely for a foreign employer full-time, you are already subject to Dutch income tax on your worldwide income, so the 183-day rule typically applies in a different context — for example, if you travel regularly to your employer's country."
-  - q: "Does ARBO law apply to home offices in the Netherlands?"
-    a: "Yes. The Arbeidsomstandighedenwet (ARBO law) — the Dutch occupational health and safety legislation — applies to your home office if you work there regularly for a Dutch employer. This means your employer has obligations regarding your workstation: adequate lighting, an ergonomic chair and desk, monitor positioning, and prevention of repetitive strain injuries. In practice, many Dutch employers provide a home office budget (thuiswerkbudget) for employees to purchase ergonomic equipment. Ask your employer about this — it is often available but not automatically applied."
-  - q: "What internet connection do I need for working from home in the Netherlands?"
-    a: "The Netherlands has excellent internet infrastructure. Fibre-optic connections (glasvezel) are widely available in most urban and suburban areas, with speeds typically 200-1000 Mbps. KPN, Ziggo, and T-Mobile are the main providers. For reliable home working, a fibre or cable connection with at least 100 Mbps is recommended. The Netherlands consistently ranks among Europe's top countries for broadband penetration and speed. In most cities, connectivity is excellent; some rural areas may be limited to ADSL or 4G home broadband."
-  - q: "Should I use a VPN for remote work in the Netherlands?"
-    a: "Yes, a VPN is advisable for several reasons. If you work for a foreign employer, you may need a VPN to access company systems from outside their country of operation — many corporate systems restrict access by geography. Even if not required, a VPN protects your work traffic when using public Wi-Fi at coworking spaces, cafés, or shared offices. It also allows you to access geo-restricted content from your home country (banking apps, streaming, news sites). NordVPN is the most widely used option — reliable, fast, and works on all devices."
+- q: Can I work remotely in the Netherlands for a foreign employer?
+  a: Yes, in most cases. If you live in the Netherlands and work remotely for a foreign employer, you are a Dutch tax resident working for a foreign company. Your employer must consider whether they have a permanent establishment obligation in the Netherlands (triggering Dutch corporate tax), and both you and your employer need to work through social security obligations. Whether Dutch social security applies depends on where your employer is based and relevant EU or bilateral treaty rules. This situation requires careful handling — it is worth raising it explicitly with your employer's HR and potentially a cross-border tax advisor.
+- q: What is the thuiswerkvergoeding in the Netherlands?
+  a: The thuiswerkvergoeding is a tax-free home office allowance that Dutch employers can pay to employees who work from home. Since January 2022, the amount is EUR 2.35 per day worked from home (2026 figure — this is adjusted annually). This allowance compensates for costs like heating, electricity, and coffee that you incur at home rather than in the office. The allowance is paid on top of your salary and is not taxed. Employers are not legally required to pay it, but most large Dutch employers do as part of their home working policy.
+- q: Does the 183-day rule affect me as a remote worker in the Netherlands?
+  a: The 183-day rule is relevant primarily if you live in one country and work for an employer in another. It generally means that if you spend more than 183 days working in the Netherlands for a foreign employer, the Netherlands may have the right to tax your employment income — even if your employer is based abroad. The exact rules depend on the tax treaty between the Netherlands and your employer's country. For expats who are Dutch tax residents working remotely for a foreign employer full-time, you are already subject to Dutch income tax on your worldwide income, so the 183-day rule typically applies in a different context — for example, if you travel regularly to your employer's country.
+- q: Does ARBO law apply to home offices in the Netherlands?
+  a: 'Yes. The Arbeidsomstandighedenwet (ARBO law) — the Dutch occupational health and safety legislation — applies to your home office if you work there regularly for a Dutch employer. This means your employer has obligations regarding your workstation: adequate lighting, an ergonomic chair and desk, monitor positioning, and prevention of repetitive strain injuries. In practice, many Dutch employers provide a home office budget (thuiswerkbudget) for employees to purchase ergonomic equipment. Ask your employer about this — it is often available but not automatically applied.'
+- q: What internet connection do I need for working from home in the Netherlands?
+  a: The Netherlands has excellent internet infrastructure. Fibre-optic connections (glasvezel) are widely available in most urban and suburban areas, with speeds typically 200-1000 Mbps. KPN, Ziggo, and T-Mobile are the main providers. For reliable home working, a fibre or cable connection with at least 100 Mbps is recommended. The Netherlands consistently ranks among Europe's top countries for broadband penetration and speed. In most cities, connectivity is excellent; some rural areas may be limited to ADSL or 4G home broadband.
+- q: Should I use a VPN for remote work in the Netherlands?
+  a: Yes, a VPN is advisable for several reasons. If you work for a foreign employer, you may need a VPN to access company systems from outside their country of operation — many corporate systems restrict access by geography. Even if not required, a VPN protects your work traffic when using public Wi-Fi at coworking spaces, cafés, or shared offices. It also allows you to access geo-restricted content from your home country (banking apps, streaming, news sites). NordVPN is the most widely used option — reliable, fast, and works on all devices.
+schema_type: Article
 ---
 
 Working from home is, by now, completely normalised in the Netherlands. Dutch employers were ahead of most European countries in embracing hybrid and remote arrangements well before the pandemic made it mandatory — partly because of practical necessity (cycling to the office in a storm has limits) and partly because Dutch workplace culture has always emphasised output over presence. The concept of "thuiswerken" (home working) has legal infrastructure, a dedicated allowance, and ARBO rules that apply to your kitchen table.

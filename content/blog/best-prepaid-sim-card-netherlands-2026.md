@@ -1,35 +1,46 @@
 ---
-title: "Best Prepaid SIM Cards in the Netherlands 2026 for Expats"
-date: 2026-03-26T10:00:00+01:00
-lastmod: 2026-04-23T10:00:00+01:00
-description: "Best prepaid SIM cards in the Netherlands for expats 2026: Lebara, Lycamobile, KPN Prepaid, Vodafone, Simyo and Ben compared on price, data, network and."
-categories: ["daily-life"]
-tags: ["SIM card", "prepaid", "mobile phone", "telecom", "expat essentials"]
-keywords: ["best prepaid SIM Netherlands", "prepaid SIM card Netherlands expat", "Dutch SIM card tourist", "cheapest mobile Netherlands"]
+title: Best Prepaid SIM Cards in the Netherlands 2026 for Expats
+date: 2026-03-26 10:00:00+01:00
+lastmod: 2026-04-23 10:00:00+01:00
+description: 'Best prepaid SIM cards in the Netherlands for expats 2026: Lebara, Lycamobile, KPN Prepaid, Vodafone, Simyo and Ben compared on price, data, network and.'
+categories:
+- daily-life
+tags:
+- SIM card
+- prepaid
+- mobile phone
+- telecom
+- expat essentials
+keywords:
+- best prepaid SIM Netherlands
+- prepaid SIM card Netherlands expat
+- Dutch SIM card tourist
+- cheapest mobile Netherlands
 affiliate: true
-author: "Sarah van den Berg"
-author_bio: "Expat coach and writer at ExpatNetherlandsHub.com"
-featured_image: "/images/categories/daily-life.svg"
+author: Sarah van den Berg
+author_bio: Expat coach and writer at ExpatNetherlandsHub.com
+featured_image: /images/categories/daily-life.svg
 products:
-  - name: "NordVPN"
-    url: "https://go.expatnetherlandshub.com/nordvpn?ref=/blog/best-prepaid-sim-card-netherlands-2026/"
-    price: "3.09"
-    tag: "VPN"
+- name: NordVPN
+  url: https://go.expatnetherlandshub.com/nordvpn?ref=/blog/best-prepaid-sim-card-netherlands-2026/
+  price: '3.09'
+  tag: VPN
 faq:
-  - q: "What is the best prepaid SIM card for expats in the Netherlands?"
-    a: "Lebara is the most popular choice for expats in the Netherlands. It offers a €10 starter pack with a Dutch number, a solid 4G/5G network, and cheap international call add-ons for over 40 countries. Setup takes about 15 minutes online after you receive the SIM. If you primarily need local data and the lowest possible price, Lycamobile is the better budget pick."
-  - q: "Do I need a BSN to buy a prepaid SIM in the Netherlands?"
-    a: "No — you do not need a BSN (Burger Service Nummer) to buy a prepaid SIM. However, since new Dutch telecom regulations that came into full effect in 2022, all prepaid SIMs must be registered with a valid ID (passport or EU identity card) and a residential address. This is purely for registration purposes; a temporary address such as a hotel, Airbnb, or expat housing works fine. You cannot activate a prepaid SIM anonymously."
-  - q: "Is prepaid better than a postpaid contract for expats?"
-    a: "Prepaid is the right starting point for most expats. You get a Dutch number within hours, without a credit check, a Dutch bank account, or a fixed address. Once you have your DigiD, a Dutch bank account, and know you are staying longer than six months, switching to a postpaid subscription makes sense. Monthly contracts typically cost €15–25 and include significantly more data — often unlimited — for similar or lower monthly spend once you factor in top-up costs."
-  - q: "What is the cheapest prepaid SIM option in the Netherlands?"
-    a: "Lycamobile consistently offers the cheapest bundles. A SIM card costs €1 at Albert Heijn or online, and monthly data+call bundles start from around €5 for 3 GB of data. Simyo is a close alternative for budget-conscious expats who want slightly more network reliability, with bundles starting from €5–8/month on the KPN network."
-  - q: "Where can I buy a prepaid SIM card in Amsterdam?"
-    a: "SIM cards are available at Albert Heijn (the most convenient option — most locations stock Lebara, Lycamobile, and KPN), Mediamarkt (Alexandrium, ArenA Boulevard, or city centre), Vodafone and KPN stores, phone accessory shops (particularly near Central Station and in the Bijlmer area), and online via the providers' own websites with delivery to your address. Schiphol Airport has a Vodafone store and several kiosks in the arrivals hall."
-  - q: "Are eSIMs available for prepaid in the Netherlands?"
-    a: "Yes, but options are limited compared to postpaid. KPN Prepaid offers an eSIM option via its app. Vodafone also supports prepaid eSIM on compatible devices. Lebara and Lycamobile currently require a physical SIM for prepaid plans. If you have an eSIM-compatible phone and want to avoid waiting for delivery, KPN Prepaid is the clearest option — you can activate it online within minutes of arrival."
-  - q: "Can I keep my home country number when using a Dutch SIM?"
-    a: "You cannot use your home number on a Dutch SIM — they are two separate numbers on two separate networks. You have two practical options. First, put your home SIM on a travel plan or suspend the contract so you are not paying a full monthly fee while using a Dutch number. Second, use a dual-SIM phone and keep both SIMs active simultaneously. Many modern smartphones support dual-SIM (or SIM + eSIM), which is by far the most convenient solution for expats who still need to receive calls on their home number."
+- q: What is the best prepaid SIM card for expats in the Netherlands?
+  a: Lebara is the most popular choice for expats in the Netherlands. It offers a €10 starter pack with a Dutch number, a solid 4G/5G network, and cheap international call add-ons for over 40 countries. Setup takes about 15 minutes online after you receive the SIM. If you primarily need local data and the lowest possible price, Lycamobile is the better budget pick.
+- q: Do I need a BSN to buy a prepaid SIM in the Netherlands?
+  a: No — you do not need a BSN (Burger Service Nummer) to buy a prepaid SIM. However, since new Dutch telecom regulations that came into full effect in 2022, all prepaid SIMs must be registered with a valid ID (passport or EU identity card) and a residential address. This is purely for registration purposes; a temporary address such as a hotel, Airbnb, or expat housing works fine. You cannot activate a prepaid SIM anonymously.
+- q: Is prepaid better than a postpaid contract for expats?
+  a: Prepaid is the right starting point for most expats. You get a Dutch number within hours, without a credit check, a Dutch bank account, or a fixed address. Once you have your DigiD, a Dutch bank account, and know you are staying longer than six months, switching to a postpaid subscription makes sense. Monthly contracts typically cost €15–25 and include significantly more data — often unlimited — for similar or lower monthly spend once you factor in top-up costs.
+- q: What is the cheapest prepaid SIM option in the Netherlands?
+  a: Lycamobile consistently offers the cheapest bundles. A SIM card costs €1 at Albert Heijn or online, and monthly data+call bundles start from around €5 for 3 GB of data. Simyo is a close alternative for budget-conscious expats who want slightly more network reliability, with bundles starting from €5–8/month on the KPN network.
+- q: Where can I buy a prepaid SIM card in Amsterdam?
+  a: SIM cards are available at Albert Heijn (the most convenient option — most locations stock Lebara, Lycamobile, and KPN), Mediamarkt (Alexandrium, ArenA Boulevard, or city centre), Vodafone and KPN stores, phone accessory shops (particularly near Central Station and in the Bijlmer area), and online via the providers' own websites with delivery to your address. Schiphol Airport has a Vodafone store and several kiosks in the arrivals hall.
+- q: Are eSIMs available for prepaid in the Netherlands?
+  a: Yes, but options are limited compared to postpaid. KPN Prepaid offers an eSIM option via its app. Vodafone also supports prepaid eSIM on compatible devices. Lebara and Lycamobile currently require a physical SIM for prepaid plans. If you have an eSIM-compatible phone and want to avoid waiting for delivery, KPN Prepaid is the clearest option — you can activate it online within minutes of arrival.
+- q: Can I keep my home country number when using a Dutch SIM?
+  a: You cannot use your home number on a Dutch SIM — they are two separate numbers on two separate networks. You have two practical options. First, put your home SIM on a travel plan or suspend the contract so you are not paying a full monthly fee while using a Dutch number. Second, use a dual-SIM phone and keep both SIMs active simultaneously. Many modern smartphones support dual-SIM (or SIM + eSIM), which is by far the most convenient solution for expats who still need to receive calls on their home number.
+schema_type: Article
 ---
 
 Your first week in the Netherlands and you need a working phone number — for DigiD, for your bank, for everything. Finding the best prepaid SIM card in the Netherlands is one of those logistical tasks that sounds minor until you are standing in an unfamiliar city, trying to handle Dutch government websites without mobile data. I have been there, and I have helped dozens of expat clients sort this out.

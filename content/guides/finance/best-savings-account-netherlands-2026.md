@@ -1,60 +1,76 @@
 ---
-title: "Best Savings Account Netherlands 2026 for Expats"
-date: 2026-07-16T10:00:00+01:00
-lastmod: 2026-04-23T10:00:00+01:00
-description: "I compared 7 savings accounts in the Netherlands for expats. Actual 2026 interest rates, tax rules, and which spaarrekening is worth opening."
-categories: ["finance"]
-tags: ["savings account", "spaarrekening", "expat banking", "interest rates", "box 3", "deposit guarantee", "wise", "bunq", "ing", "raisin"]
-keywords: ["best savings account netherlands 2026", "savings account netherlands expat", "best interest rate netherlands", "high yield savings netherlands"]
+title: Best Savings Account Netherlands 2026 for Expats
+date: 2026-07-16 10:00:00+01:00
+lastmod: 2026-04-23 10:00:00+01:00
+description: I compared 7 savings accounts in the Netherlands for expats. Actual 2026 interest rates, tax rules, and which spaarrekening is worth opening.
+categories:
+- finance
+tags:
+- savings account
+- spaarrekening
+- expat banking
+- interest rates
+- box 3
+- deposit guarantee
+- wise
+- bunq
+- ing
+- raisin
+keywords:
+- best savings account netherlands 2026
+- savings account netherlands expat
+- best interest rate netherlands
+- high yield savings netherlands
 affiliate: true
-author: "Sarah van den Berg"
-author_bio: "Expat coach and relocation specialist. Half Dutch, half British, living in the Netherlands for over 10 years."
-featured_image: "/images/categories/finance.svg"
+author: Sarah van den Berg
+author_bio: Expat coach and relocation specialist. Half Dutch, half British, living in the Netherlands for over 10 years.
+featured_image: /images/categories/finance.svg
 products:
-  - name: "Wise"
-    url: "https://go.expatnetherlandshub.com/wise?ref=/guides/finance/best-savings-account-netherlands-2026/"
-    price: "0.00"
-  - name: "bunq"
-    url: "https://www.bunq.com/"
-    price: "2.99"
-  - name: "ING"
-    url: "https://www.ing.nl/particulier"
-    price: "0.00"
-  - name: "Raisin"
-    url: "https://www.raisin.nl/"
-    price: "0.00"
-  - name: "NIBC Direct"
-    url: "https://www.nibcdirect.nl/"
-    price: "0.00"
-  - name: "ABN AMRO"
-    url: "https://www.abnamro.nl/"
-    price: "0.00"
-  - name: "Rabobank"
-    url: "https://www.rabobank.nl/"
-    price: "0.00"
+- name: Wise
+  url: https://go.expatnetherlandshub.com/wise?ref=/guides/finance/best-savings-account-netherlands-2026/
+  price: '0.00'
+- name: bunq
+  url: https://www.bunq.com/
+  price: '2.99'
+- name: ING
+  url: https://www.ing.nl/particulier
+  price: '0.00'
+- name: Raisin
+  url: https://www.raisin.nl/
+  price: '0.00'
+- name: NIBC Direct
+  url: https://www.nibcdirect.nl/
+  price: '0.00'
+- name: ABN AMRO
+  url: https://www.abnamro.nl/
+  price: '0.00'
+- name: Rabobank
+  url: https://www.rabobank.nl/
+  price: '0.00'
 faq:
-  - q: "Can I open a Dutch savings account without a BSN?"
-    a: "Traditional Dutch banks require a BSN (burgerservicenummer) for any savings product. However, Wise allows you to earn interest on your balance without a BSN or Dutch residency. If you have not yet received your BSN, open a Wise account first and move to a Dutch spaarrekening once your BSN arrives."
-  - q: "Is my savings account in the Netherlands guaranteed?"
-    a: "Yes. The Dutch Deposit Guarantee Scheme (DGS) protects up to EUR 100,000 per person per banking licence. This applies to all banks with a Dutch banking licence, including ING, ABN AMRO, Rabobank, bunq, and NIBC Direct. For Raisin deposits placed with foreign EU banks, the guarantee falls under that country's national scheme, but the EUR 100,000 limit applies across the EU."
-  - q: "Do I pay tax on savings interest in the Netherlands?"
-    a: "The Netherlands does not tax actual interest earned. Instead, under box 3, the tax office assumes a fictional return on your total assets above the tax-free threshold (EUR 57,000 per person in 2026). You pay approximately 36 percent tax on this fictional return. So you are taxed on what the government thinks you earned, not what you actually earned."
-  - q: "What is the difference between a spaarrekening and a deposito?"
-    a: "A spaarrekening is a regular savings account with flexible access — you can withdraw anytime. A deposito (fixed-term deposit) locks your money for a set period (usually 1 to 10 years) in exchange for a higher interest rate. Early withdrawal from a deposito usually incurs a penalty."
-  - q: "How does the 30% ruling affect savings tax?"
-    a: "If you have the 30% ruling, you can opt for partial non-resident taxpayer status, which exempts your box 3 assets (including savings) from Dutch taxation. This is a significant benefit. However, this option disappears when your 30% ruling ends, so plan ahead for the transition."
-  - q: "Which savings account has the highest interest rate in the Netherlands in 2026?"
-    a: "For flexible savings, NIBC Direct offers around 2.65 percent. Through Raisin, you can access EU banks offering up to 3.10 percent on flexible savings and up to 3.50 percent on 1-year fixed deposits. Among the big three Dutch banks, ING and ABN AMRO offer between 1.50 and 1.75 percent."
-  - q: "Can I have savings accounts at multiple Dutch banks?"
-    a: "Yes, and I recommend it. Each bank's deposit guarantee covers up to EUR 100,000 per person. If you have more than EUR 100,000 in savings, spreading it across multiple banks ensures full protection. This also lets you take advantage of different interest rates."
-  - q: "Is Raisin (WeltSparen) safe for expats in the Netherlands?"
-    a: "Raisin is a German fintech platform regulated by BaFin. It acts as an intermediary connecting you to EU banks. Each underlying bank has its own national deposit guarantee up to EUR 100,000. Raisin itself does not hold your deposits. The platform has been operating since 2013 and manages over EUR 50 billion in deposits across Europe."
-  - q: "Do Dutch savings accounts have minimum deposit requirements?"
-    a: "Most Dutch savings accounts have very low minimums. ING, ABN AMRO, and Rabobank allow you to start with EUR 1. NIBC Direct requires EUR 250. Raisin minimums vary by bank but typically start at EUR 1,000 for fixed deposits. Bunq Easy Savings has no minimum."
-  - q: "Should I keep my emergency fund in a Dutch savings account?"
-    a: "Yes. I recommend keeping 3 to 6 months of living expenses in a flexible Dutch savings account (spaarrekening, not a deposito). You need immediate access in an emergency, and keeping it in the Netherlands avoids currency conversion delays. A flexible account at ING, bunq, or NIBC Direct works well for this purpose."
-  - q: "What happens to my Dutch savings account if I leave the Netherlands?"
-    a: "Most Dutch banks allow you to keep your savings account after moving abroad, but some may close accounts of non-residents or change the terms. ING and ABN AMRO generally allow non-residents to maintain existing accounts. Check your bank's specific policy before relocating, and consider transferring funds to Wise or your home country bank before you leave."
+- q: Can I open a Dutch savings account without a BSN?
+  a: Traditional Dutch banks require a BSN (burgerservicenummer) for any savings product. However, Wise allows you to earn interest on your balance without a BSN or Dutch residency. If you have not yet received your BSN, open a Wise account first and move to a Dutch spaarrekening once your BSN arrives.
+- q: Is my savings account in the Netherlands guaranteed?
+  a: Yes. The Dutch Deposit Guarantee Scheme (DGS) protects up to EUR 100,000 per person per banking licence. This applies to all banks with a Dutch banking licence, including ING, ABN AMRO, Rabobank, bunq, and NIBC Direct. For Raisin deposits placed with foreign EU banks, the guarantee falls under that country's national scheme, but the EUR 100,000 limit applies across the EU.
+- q: Do I pay tax on savings interest in the Netherlands?
+  a: The Netherlands does not tax actual interest earned. Instead, under box 3, the tax office assumes a fictional return on your total assets above the tax-free threshold (EUR 57,000 per person in 2026). You pay approximately 36 percent tax on this fictional return. So you are taxed on what the government thinks you earned, not what you actually earned.
+- q: What is the difference between a spaarrekening and a deposito?
+  a: A spaarrekening is a regular savings account with flexible access — you can withdraw anytime. A deposito (fixed-term deposit) locks your money for a set period (usually 1 to 10 years) in exchange for a higher interest rate. Early withdrawal from a deposito usually incurs a penalty.
+- q: How does the 30% ruling affect savings tax?
+  a: If you have the 30% ruling, you can opt for partial non-resident taxpayer status, which exempts your box 3 assets (including savings) from Dutch taxation. This is a significant benefit. However, this option disappears when your 30% ruling ends, so plan ahead for the transition.
+- q: Which savings account has the highest interest rate in the Netherlands in 2026?
+  a: For flexible savings, NIBC Direct offers around 2.65 percent. Through Raisin, you can access EU banks offering up to 3.10 percent on flexible savings and up to 3.50 percent on 1-year fixed deposits. Among the big three Dutch banks, ING and ABN AMRO offer between 1.50 and 1.75 percent.
+- q: Can I have savings accounts at multiple Dutch banks?
+  a: Yes, and I recommend it. Each bank's deposit guarantee covers up to EUR 100,000 per person. If you have more than EUR 100,000 in savings, spreading it across multiple banks ensures full protection. This also lets you take advantage of different interest rates.
+- q: Is Raisin (WeltSparen) safe for expats in the Netherlands?
+  a: Raisin is a German fintech platform regulated by BaFin. It acts as an intermediary connecting you to EU banks. Each underlying bank has its own national deposit guarantee up to EUR 100,000. Raisin itself does not hold your deposits. The platform has been operating since 2013 and manages over EUR 50 billion in deposits across Europe.
+- q: Do Dutch savings accounts have minimum deposit requirements?
+  a: Most Dutch savings accounts have very low minimums. ING, ABN AMRO, and Rabobank allow you to start with EUR 1. NIBC Direct requires EUR 250. Raisin minimums vary by bank but typically start at EUR 1,000 for fixed deposits. Bunq Easy Savings has no minimum.
+- q: Should I keep my emergency fund in a Dutch savings account?
+  a: Yes. I recommend keeping 3 to 6 months of living expenses in a flexible Dutch savings account (spaarrekening, not a deposito). You need immediate access in an emergency, and keeping it in the Netherlands avoids currency conversion delays. A flexible account at ING, bunq, or NIBC Direct works well for this purpose.
+- q: What happens to my Dutch savings account if I leave the Netherlands?
+  a: Most Dutch banks allow you to keep your savings account after moving abroad, but some may close accounts of non-residents or change the terms. ING and ABN AMRO generally allow non-residents to maintain existing accounts. Check your bank's specific policy before relocating, and consider transferring funds to Wise or your home country bank before you leave.
+schema_type: Article
 ---
 
 Your salary is in a Dutch bank earning 0.01 percent — here is how to actually grow it.

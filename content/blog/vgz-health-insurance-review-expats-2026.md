@@ -1,33 +1,44 @@
 ---
-title: "VGZ Health Insurance Review for Expats 2026"
-date: 2026-03-22T10:00:00+01:00
-lastmod: 2026-04-23T10:00:00+01:00
-description: "Honest VGZ health insurance review for expats in 2026. Premiums, sub-brands, supplementary cover, employer schemes, and how VGZ compares to rivals."
-categories: ["health"]
-tags: ["VGZ", "health insurance Netherlands", "zorgverzekering review", "expat insurance Netherlands", "Dutch healthcare"]
-keywords: ["VGZ health insurance review expats 2026", "VGZ zorgverzekering expat", "VGZ vs other Dutch insurers", "VGZ review 2026"]
+title: VGZ Health Insurance Review for Expats 2026
+date: 2026-03-22 10:00:00+01:00
+lastmod: 2026-04-23 10:00:00+01:00
+description: Honest VGZ health insurance review for expats in 2026. Premiums, sub-brands, supplementary cover, employer schemes, and how VGZ compares to rivals.
+categories:
+- health
+tags:
+- VGZ
+- health insurance Netherlands
+- zorgverzekering review
+- expat insurance Netherlands
+- Dutch healthcare
+keywords:
+- VGZ health insurance review expats 2026
+- VGZ zorgverzekering expat
+- VGZ vs other Dutch insurers
+- VGZ review 2026
 affiliate: true
-author: "Sarah van den Berg"
-author_bio: "Expat coach and writer at ExpatNetherlandsHub.com"
-featured_image: "/images/categories/health.svg"
+author: Sarah van den Berg
+author_bio: Expat coach and writer at ExpatNetherlandsHub.com
+featured_image: /images/categories/health.svg
 faq:
-  - q: "Is VGZ a good health insurer for expats in the Netherlands?"
-    a: "VGZ is one of the three largest health insurers in the Netherlands and works well for many expats, particularly those whose employers offer a VGZ collective insurance scheme (which can give a 5–15% premium discount). Their basic coverage is identical to all Dutch insurers — set by law — and their contracted hospital network is national and broad. VGZ's English-language support is moderate — adequate for self-service and basic queries but not as strong as ONVZ for complex situations. Overall, VGZ is a reliable mid-range choice. Their main differentiator is the employer collective scheme value and a broad sub-brand portfolio (IZZ, IZA, UMC) that may be relevant for specific professional groups."
-  - q: "What are VGZ's current basic insurance premiums for 2026?"
-    a: "VGZ's standard individual basic insurance (basisverzekering) premiums for 2026 are approximately EUR 146–162/month for a standard adult policy with EUR 385 eigen risico. Premiums vary by sub-brand (VGZ, IZZ for healthcare workers, IZA for government employees, and others) and by whether you choose a naturapolis or restitutiepolis. Employer collective schemes typically offer 5–15% discounts off individual premiums. Check current exact pricing on Independer or at vgz.nl, as premiums change annually."
-  - q: "What are VGZ's sub-brands and do they matter?"
-    a: "VGZ operates several sub-brands, each originally targeting a specific professional or organisational group. VGZ (the main brand) is open to all. IZZ is specifically for healthcare workers (zorg = care sector). IZA was originally for government employees but is now broadly available. UMC is for university medical centre staff. In practice, the basic package coverage is identical across all sub-brands — the differences are in supplementary packages, pricing structures, and the contracted network (IZA and IZZ have some specialised care agreements). For most general expats, the main VGZ brand is the relevant option. If you work in healthcare or public administration, the IZZ or IZA sub-brands may offer relevant advantages — check via your employer."
-  - q: "Does VGZ offer English-language customer service?"
-    a: "VGZ provides English support through their customer service line and online portal, but Dutch is the primary language. Their website and the MijnVGZ app are Dutch-first. For basic self-service tasks — checking your policy, viewing eigen risico status, submitting a claim online — the portal is manageable with browser auto-translate. For complex queries (coverage appeals, specialist authorisation, mental health care referrals), having Dutch assistance available is genuinely useful. VGZ's English service is adequate but not proactive — if you need consistently strong English-language healthcare administration support, ONVZ is a better fit."
-  - q: "What supplementary insurance does VGZ offer?"
-    a: "VGZ offers a tiered supplementary insurance system branded as Aanvullend 1, 2, 3, and 4 (plus a dental-only Tand supplement). Aanvullend 1 (around EUR 8–12/month) covers basic dental check-ups and limited physiotherapy. Aanvullend 3 and 4 (EUR 28–42/month) include dental treatment up to EUR 1,500–2,500/year, extensive physiotherapy, glasses EUR 150–250/year, travel vaccinations, and some alternative medicine. The dental-only Tand supplement (EUR 12–22/month) focuses entirely on dental coverage. For expats who need full dental or physiotherapy coverage, the higher supplement tiers are competitive in value compared to CZ and Zilveren Kruis."
-  - q: "How does VGZ handle employer collective insurance schemes?"
-    a: "VGZ is one of the most common collective insurance scheme partners for Dutch employers, alongside Zilveren Kruis and CZ. If your employer has a VGZ collective scheme, you may receive a discount of 5–15% on your VGZ premium — sometimes including supplementary insurance discounts too. This is offered as part of your employment benefits. To check: ask your HR department whether your company has a collective VGZ scheme and what the discounted premium would be. Then compare this discounted price to the current best individual policy price on Independer. If the collective scheme is still competitive after comparison, take it. If a competitor's individual policy is cheaper even without a collective discount, the collective scheme may not represent the best value."
+- q: Is VGZ a good health insurer for expats in the Netherlands?
+  a: VGZ is one of the three largest health insurers in the Netherlands and works well for many expats, particularly those whose employers offer a VGZ collective insurance scheme (which can give a 5–15% premium discount). Their basic coverage is identical to all Dutch insurers — set by law — and their contracted hospital network is national and broad. VGZ's English-language support is moderate — adequate for self-service and basic queries but not as strong as ONVZ for complex situations. Overall, VGZ is a reliable mid-range choice. Their main differentiator is the employer collective scheme value and a broad sub-brand portfolio (IZZ, IZA, UMC) that may be relevant for specific professional groups.
+- q: What are VGZ's current basic insurance premiums for 2026?
+  a: VGZ's standard individual basic insurance (basisverzekering) premiums for 2026 are approximately EUR 146–162/month for a standard adult policy with EUR 385 eigen risico. Premiums vary by sub-brand (VGZ, IZZ for healthcare workers, IZA for government employees, and others) and by whether you choose a naturapolis or restitutiepolis. Employer collective schemes typically offer 5–15% discounts off individual premiums. Check current exact pricing on Independer or at vgz.nl, as premiums change annually.
+- q: What are VGZ's sub-brands and do they matter?
+  a: VGZ operates several sub-brands, each originally targeting a specific professional or organisational group. VGZ (the main brand) is open to all. IZZ is specifically for healthcare workers (zorg = care sector). IZA was originally for government employees but is now broadly available. UMC is for university medical centre staff. In practice, the basic package coverage is identical across all sub-brands — the differences are in supplementary packages, pricing structures, and the contracted network (IZA and IZZ have some specialised care agreements). For most general expats, the main VGZ brand is the relevant option. If you work in healthcare or public administration, the IZZ or IZA sub-brands may offer relevant advantages — check via your employer.
+- q: Does VGZ offer English-language customer service?
+  a: VGZ provides English support through their customer service line and online portal, but Dutch is the primary language. Their website and the MijnVGZ app are Dutch-first. For basic self-service tasks — checking your policy, viewing eigen risico status, submitting a claim online — the portal is manageable with browser auto-translate. For complex queries (coverage appeals, specialist authorisation, mental health care referrals), having Dutch assistance available is genuinely useful. VGZ's English service is adequate but not proactive — if you need consistently strong English-language healthcare administration support, ONVZ is a better fit.
+- q: What supplementary insurance does VGZ offer?
+  a: VGZ offers a tiered supplementary insurance system branded as Aanvullend 1, 2, 3, and 4 (plus a dental-only Tand supplement). Aanvullend 1 (around EUR 8–12/month) covers basic dental check-ups and limited physiotherapy. Aanvullend 3 and 4 (EUR 28–42/month) include dental treatment up to EUR 1,500–2,500/year, extensive physiotherapy, glasses EUR 150–250/year, travel vaccinations, and some alternative medicine. The dental-only Tand supplement (EUR 12–22/month) focuses entirely on dental coverage. For expats who need full dental or physiotherapy coverage, the higher supplement tiers are competitive in value compared to CZ and Zilveren Kruis.
+- q: How does VGZ handle employer collective insurance schemes?
+  a: 'VGZ is one of the most common collective insurance scheme partners for Dutch employers, alongside Zilveren Kruis and CZ. If your employer has a VGZ collective scheme, you may receive a discount of 5–15% on your VGZ premium — sometimes including supplementary insurance discounts too. This is offered as part of your employment benefits. To check: ask your HR department whether your company has a collective VGZ scheme and what the discounted premium would be. Then compare this discounted price to the current best individual policy price on Independer. If the collective scheme is still competitive after comparison, take it. If a competitor''s individual policy is cheaper even without a collective discount, the collective scheme may not represent the best value.'
 products:
-  - name: "SafetyWing"
-    url: "https://go.expatnetherlandshub.com/safetywing?ref=/blog/vgz-health-insurance-review-expats-2026/"
-    price: "0.00"
-    tag: "Expat Insurance"
+- name: SafetyWing
+  url: https://go.expatnetherlandshub.com/safetywing?ref=/blog/vgz-health-insurance-review-expats-2026/
+  price: '0.00'
+  tag: Expat Insurance
+schema_type: Review
 ---
 
 VGZ is one of those Dutch insurers that most expats end up considering at some point — either because a colleague mentions it, because their employer has a collective scheme with them, or because they show up prominently in price comparison results.

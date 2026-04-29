@@ -1,39 +1,53 @@
 ---
-title: "DUO Student Finance Netherlands 2026 Guide"
-date: 2026-03-18T10:00:00+01:00
-lastmod: 2026-04-23T10:00:00+01:00
-type: "guide"
-description: "Can international students get DUO finance in the Netherlands? Full 2026 guide: basisbeurs, OV-kaart, loans, repayment, and how to apply via MijnDUO."
-categories: ["finance"]
-tags: ["DUO", "student finance", "studiefinanciering", "Netherlands students", "international students", "OV-studentenkaart"]
-keywords: ["duo student finance netherlands", "studiefinanciering international students", "duo netherlands 2026", "basisbeurs netherlands", "ov-studentenkaart international", "duo loan netherlands"]
+title: DUO Student Finance Netherlands 2026 Guide
+date: 2026-03-18 10:00:00+01:00
+lastmod: 2026-04-23 10:00:00+01:00
+type: guide
+description: 'Can international students get DUO finance in the Netherlands? Full 2026 guide: basisbeurs, OV-kaart, loans, repayment, and how to apply via MijnDUO.'
+categories:
+- finance
+tags:
+- DUO
+- student finance
+- studiefinanciering
+- Netherlands students
+- international students
+- OV-studentenkaart
+keywords:
+- duo student finance netherlands
+- studiefinanciering international students
+- duo netherlands 2026
+- basisbeurs netherlands
+- ov-studentenkaart international
+- duo loan netherlands
 affiliate: true
-author: "Sarah van den Berg"
-author_bio: "Expat coach and relocation specialist. Half Dutch, half British, living in the Netherlands for over 10 years."
-featured_image: "/images/categories/finance.svg"
+author: Sarah van den Berg
+author_bio: Expat coach and relocation specialist. Half Dutch, half British, living in the Netherlands for over 10 years.
+featured_image: /images/categories/finance.svg
 products:
-  - name: "Wise"
-    url: "https://go.expatnetherlandshub.com/wise?ref=/guides/finance/duo-student-finance-international-students-2026/"
-    price: "0.00"
-  - name: "bunq"
-    url: "https://www.bunq.com/"
-    price: "2.99"
-  - name: "ING"
-    url: "https://www.ing.nl/particulier"
-    price: "0.00"
+- name: Wise
+  url: https://go.expatnetherlandshub.com/wise?ref=/guides/finance/duo-student-finance-international-students-2026/
+  price: '0.00'
+- name: bunq
+  url: https://www.bunq.com/
+  price: '2.99'
+- name: ING
+  url: https://www.ing.nl/particulier
+  price: '0.00'
 faq:
-  - q: "Can EU students get DUO student finance in the Netherlands?"
-    a: "Yes, if you are an EU/EEA citizen and work at least 56 hours per month alongside your studies, you qualify for studiefinanciering from DUO. This includes the basisbeurs (basic grant), supplementary grant, OV-studentenkaart, and student loan. The work requirement is assessed across the academic year, not month by month — you need to average 56 hours per month."
-  - q: "Can non-EU students get DUO finance in the Netherlands?"
-    a: "Non-EU students are not eligible for the basisbeurs or supplementary grant. However, non-EU students with a valid Dutch residence permit can apply for a DUO student loan (lening) of up to EUR 1,091 per month. They cannot get the OV-studentenkaart or any grant component."
-  - q: "What is the DUO basisbeurs in 2026?"
-    a: "The basisbeurs in 2026 is EUR 110.27 per month for students living with their parents (uitwonend: living away from home EUR 319.05 per month). These amounts are reviewed annually. The basisbeurs is a grant — it does not need to be repaid — as long as you complete your degree within 10 years of starting it."
-  - q: "What is the OV-studentenkaart and who gets it?"
-    a: "The OV-studentenkaart gives students free travel on NS trains, buses, and trams throughout the Netherlands on either weekdays or weekends (you choose one). It is one of the most valuable benefits of Dutch student finance and is provided on a physical OV-chipkaart. EU students who meet the work requirement qualify; non-EU students do not."
-  - q: "How long do I have to repay a DUO student loan?"
-    a: "DUO gives you 35 years to repay your student loan, with repayments based on your income. If your income is below the minimum threshold, you pay nothing in that period and the clock still runs. After 35 years, any remaining balance is written off. The repayment threshold is reviewed annually."
-  - q: "What happens if I don't finish my degree within 10 years?"
-    a: "If you do not complete your degree within 10 years of first receiving the basisbeurs, the full amount of the basisbeurs is automatically converted into a loan that must be repaid. This is one of the most important DUO rules and catches students who take long breaks or switch programmes multiple times."
+- q: Can EU students get DUO student finance in the Netherlands?
+  a: Yes, if you are an EU/EEA citizen and work at least 56 hours per month alongside your studies, you qualify for studiefinanciering from DUO. This includes the basisbeurs (basic grant), supplementary grant, OV-studentenkaart, and student loan. The work requirement is assessed across the academic year, not month by month — you need to average 56 hours per month.
+- q: Can non-EU students get DUO finance in the Netherlands?
+  a: Non-EU students are not eligible for the basisbeurs or supplementary grant. However, non-EU students with a valid Dutch residence permit can apply for a DUO student loan (lening) of up to EUR 1,091 per month. They cannot get the OV-studentenkaart or any grant component.
+- q: What is the DUO basisbeurs in 2026?
+  a: 'The basisbeurs in 2026 is EUR 110.27 per month for students living with their parents (uitwonend: living away from home EUR 319.05 per month). These amounts are reviewed annually. The basisbeurs is a grant — it does not need to be repaid — as long as you complete your degree within 10 years of starting it.'
+- q: What is the OV-studentenkaart and who gets it?
+  a: The OV-studentenkaart gives students free travel on NS trains, buses, and trams throughout the Netherlands on either weekdays or weekends (you choose one). It is one of the most valuable benefits of Dutch student finance and is provided on a physical OV-chipkaart. EU students who meet the work requirement qualify; non-EU students do not.
+- q: How long do I have to repay a DUO student loan?
+  a: DUO gives you 35 years to repay your student loan, with repayments based on your income. If your income is below the minimum threshold, you pay nothing in that period and the clock still runs. After 35 years, any remaining balance is written off. The repayment threshold is reviewed annually.
+- q: What happens if I don't finish my degree within 10 years?
+  a: If you do not complete your degree within 10 years of first receiving the basisbeurs, the full amount of the basisbeurs is automatically converted into a loan that must be repaid. This is one of the most important DUO rules and catches students who take long breaks or switch programmes multiple times.
+schema_type: Article
 ---
 
 When I first explained to a non-Dutch friend how the Dutch student finance system works, her jaw dropped at the OV-studentenkaart. Free travel across the entire country, for the duration of your studies, because you are a student. I have lived in the Netherlands long enough that this no longer surprises me — but it is, objectively, remarkable. The DUO system is genuinely generous, and international students can access significant parts of it. The rules are also specific, the mistakes are costly, and almost nobody explains them clearly before you arrive. This guide fixes that.

@@ -1,11 +1,13 @@
 ---
-title: "Almere Expat Guide 2026: Living, Working & Costs"
-description: "Complete expat guide to Almere in 2026. Rent prices, neighbourhoods, jobs, registration, and practical tips for moving to the Netherlands' youngest city."
-date: 2026-03-07T10:00:00+01:00
-lastmod: 2026-04-23T10:00:00+01:00
-featured_image: "/images/categories/cities.svg"
-author: "Sarah van den Berg"
-categories: ["cities"]
+title: 'Almere Expat Guide 2026: Living, Working & Costs'
+description: Complete expat guide to Almere in 2026. Rent prices, neighbourhoods, jobs, registration, and practical tips for moving to the Netherlands' youngest city.
+date: 2026-03-07 10:00:00+01:00
+lastmod: 2026-04-23 10:00:00+01:00
+featured_image: /images/categories/cities.svg
+author: Sarah van den Berg
+categories:
+- cities
+schema_type: Article
 ---
 
 ## Almere at a Glance

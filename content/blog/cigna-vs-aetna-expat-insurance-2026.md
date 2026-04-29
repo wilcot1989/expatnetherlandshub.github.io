@@ -1,39 +1,50 @@
 ---
-title: "Cigna vs Aetna International Health Insurance for Expats 2026"
-date: 2026-03-26T10:00:00+01:00
-lastmod: 2026-04-23T10:00:00+01:00
-description: "Cigna vs Aetna for expats in the Netherlands 2026. Compare coverage, costs, networks, claims process and which international health plan fits you best."
-categories: ["health"]
-tags: ["health insurance", "Cigna", "Aetna", "international insurance", "expat insurance"]
-keywords: ["Cigna vs Aetna expat", "international health insurance Netherlands", "Cigna expat review", "Aetna international review"]
+title: Cigna vs Aetna International Health Insurance for Expats 2026
+date: 2026-03-26 10:00:00+01:00
+lastmod: 2026-04-23 10:00:00+01:00
+description: Cigna vs Aetna for expats in the Netherlands 2026. Compare coverage, costs, networks, claims process and which international health plan fits you best.
+categories:
+- health
+tags:
+- health insurance
+- Cigna
+- Aetna
+- international insurance
+- expat insurance
+keywords:
+- Cigna vs Aetna expat
+- international health insurance Netherlands
+- Cigna expat review
+- Aetna international review
 affiliate: true
-author: "Sarah van den Berg"
-author_bio: "Expat coach and writer at ExpatNetherlandsHub.com"
-featured_image: "/images/categories/health.svg"
+author: Sarah van den Berg
+author_bio: Expat coach and writer at ExpatNetherlandsHub.com
+featured_image: /images/categories/health.svg
 faq:
-  - q: "Which is cheaper, Cigna or Aetna international health insurance?"
-    a: "Aetna International generally starts slightly lower — around EUR 130/month for younger applicants on its entry-level Navigator plan versus Cigna's Silver plan at approximately EUR 150/month. However, pricing varies significantly by age, region, and the coverage tier you choose. Request quotes from both directly and compare the same coverage level, not just the headline monthly figure."
-  - q: "Do I need international health insurance in the Netherlands?"
-    a: "Not always. If you are registered as a resident in the Netherlands (ingeschreven in the BRP), Dutch law requires you to hold Dutch basic health insurance (basisverzekering), not an international policy. International insurance is relevant for expats who have not yet registered, are on a short assignment (under 3 months), are on a diplomatic posting exempt from Dutch insurance rules, or are in a transition period between arrival and BRP registration."
-  - q: "How does Cigna compare to Dutch basisverzekering?"
-    a: "They serve different purposes. Dutch basisverzekering is mandatory once you are registered as a resident and covers you within the Netherlands through the Dutch healthcare system. Cigna Global covers you in multiple countries simultaneously — useful if you travel frequently or move between countries. Cigna is generally more expensive (EUR 150–400/month versus EUR 145–175/month for Dutch insurance), but it works internationally and does not require Dutch residency registration."
-  - q: "Does Aetna International cover dental?"
-    a: "Aetna International offers dental and vision coverage as optional add-ons to its main plans. Dental is not included in the base Pioneer or Voyager plans — you purchase it as a separate module. Coverage typically includes routine check-ups, fillings, and extractions up to an annual limit. Orthodontics and implants are usually excluded or subject to separate sub-limits. Always check the specific benefit schedule for the plan year you are buying."
-  - q: "How does the claims process work for Cigna and Aetna?"
-    a: "Both insurers offer direct billing for in-network hospitals, which means the hospital bills your insurer directly and you pay nothing upfront (beyond any deductible or co-payment). For out-of-network care, you pay the provider and submit a claim for reimbursement. Cigna's app and online portal allow you to track claims, but some users report slow reimbursement times (3–6 weeks for out-of-network). Aetna's app is generally well-regarded for claim submission, with typical reimbursement in 10–15 business days for clean claims."
-  - q: "Can I switch between Cigna and Aetna?"
-    a: "Yes, but switching international health insurers mid-policy typically means losing any continuous cover benefits. Pre-existing conditions may be re-underwritten when you switch, and some conditions may be excluded under the new policy. Both insurers offer annual policy terms, so switching at renewal avoids mid-term complications. If you plan to switch to Dutch basisverzekering after registering, that is a straightforward move — just purchase your Dutch policy within four months of BRP registration."
-  - q: "Is SafetyWing a real alternative to Cigna and Aetna?"
-    a: "SafetyWing is a legitimate, much cheaper alternative for expats who primarily need emergency and hospitalisation cover. At approximately USD 40–100/month, it costs a fraction of Cigna or Aetna. The trade-off is that coverage is more limited — it focuses on emergencies and accidents rather than full primary care and specialist outpatient services. For young, healthy expats on a budget or for short assignments, it is worth serious consideration. For older expats, families, or people with ongoing health needs, Cigna or Aetna provide more thorough cover."
+- q: Which is cheaper, Cigna or Aetna international health insurance?
+  a: Aetna International generally starts slightly lower — around EUR 130/month for younger applicants on its entry-level Navigator plan versus Cigna's Silver plan at approximately EUR 150/month. However, pricing varies significantly by age, region, and the coverage tier you choose. Request quotes from both directly and compare the same coverage level, not just the headline monthly figure.
+- q: Do I need international health insurance in the Netherlands?
+  a: Not always. If you are registered as a resident in the Netherlands (ingeschreven in the BRP), Dutch law requires you to hold Dutch basic health insurance (basisverzekering), not an international policy. International insurance is relevant for expats who have not yet registered, are on a short assignment (under 3 months), are on a diplomatic posting exempt from Dutch insurance rules, or are in a transition period between arrival and BRP registration.
+- q: How does Cigna compare to Dutch basisverzekering?
+  a: They serve different purposes. Dutch basisverzekering is mandatory once you are registered as a resident and covers you within the Netherlands through the Dutch healthcare system. Cigna Global covers you in multiple countries simultaneously — useful if you travel frequently or move between countries. Cigna is generally more expensive (EUR 150–400/month versus EUR 145–175/month for Dutch insurance), but it works internationally and does not require Dutch residency registration.
+- q: Does Aetna International cover dental?
+  a: Aetna International offers dental and vision coverage as optional add-ons to its main plans. Dental is not included in the base Pioneer or Voyager plans — you purchase it as a separate module. Coverage typically includes routine check-ups, fillings, and extractions up to an annual limit. Orthodontics and implants are usually excluded or subject to separate sub-limits. Always check the specific benefit schedule for the plan year you are buying.
+- q: How does the claims process work for Cigna and Aetna?
+  a: Both insurers offer direct billing for in-network hospitals, which means the hospital bills your insurer directly and you pay nothing upfront (beyond any deductible or co-payment). For out-of-network care, you pay the provider and submit a claim for reimbursement. Cigna's app and online portal allow you to track claims, but some users report slow reimbursement times (3–6 weeks for out-of-network). Aetna's app is generally well-regarded for claim submission, with typical reimbursement in 10–15 business days for clean claims.
+- q: Can I switch between Cigna and Aetna?
+  a: Yes, but switching international health insurers mid-policy typically means losing any continuous cover benefits. Pre-existing conditions may be re-underwritten when you switch, and some conditions may be excluded under the new policy. Both insurers offer annual policy terms, so switching at renewal avoids mid-term complications. If you plan to switch to Dutch basisverzekering after registering, that is a straightforward move — just purchase your Dutch policy within four months of BRP registration.
+- q: Is SafetyWing a real alternative to Cigna and Aetna?
+  a: SafetyWing is a legitimate, much cheaper alternative for expats who primarily need emergency and hospitalisation cover. At approximately USD 40–100/month, it costs a fraction of Cigna or Aetna. The trade-off is that coverage is more limited — it focuses on emergencies and accidents rather than full primary care and specialist outpatient services. For young, healthy expats on a budget or for short assignments, it is worth serious consideration. For older expats, families, or people with ongoing health needs, Cigna or Aetna provide more thorough cover.
 products:
-  - name: "SafetyWing"
-    url: "https://go.expatnetherlandshub.com/safetywing?ref=/blog/cigna-vs-aetna-expat-insurance-2026/"
-    price: "0.00"
-    tag: "Expat Insurance"
-  - name: "Wise"
-    url: "https://go.expatnetherlandshub.com/wise?ref=/blog/cigna-vs-aetna-expat-insurance-2026/"
-    price: "0.00"
-    tag: "Currency Transfer"
+- name: SafetyWing
+  url: https://go.expatnetherlandshub.com/safetywing?ref=/blog/cigna-vs-aetna-expat-insurance-2026/
+  price: '0.00'
+  tag: Expat Insurance
+- name: Wise
+  url: https://go.expatnetherlandshub.com/wise?ref=/blog/cigna-vs-aetna-expat-insurance-2026/
+  price: '0.00'
+  tag: Currency Transfer
+schema_type: Article
 ---
 
 If you need international health insurance in the Netherlands — before registration, during a transition, or alongside your Dutch policy — Cigna and Aetna are the two names you will hear most. Both are large, established global insurers with decades of expat experience. Both cover you in the Netherlands and across dozens of other countries. And both charge premiums that, frankly, make you stop and think before clicking "buy."

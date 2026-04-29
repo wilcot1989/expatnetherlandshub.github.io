@@ -1,38 +1,50 @@
 ---
-title: "Dutch Healthcare in English: Practical Guide"
-date: 2026-06-15T10:00:00+01:00
-lastmod: 2026-04-23T10:00:00+01:00
-description: "Find an English-speaking GP, handle Dutch pharmacies, and manage hospital visits without Dutch — practical guide with vocabulary, directories, and scripts."
-categories: ["health"]
-tags: ["healthcare", "English", "medical", "huisarts", "hospital"]
-keywords: ["english speaking doctor netherlands", "english speaking GP amsterdam", "dutch healthcare english", "huisarts english speaking", "medical care netherlands expat 2026"]
+title: 'Dutch Healthcare in English: Practical Guide'
+date: 2026-06-15 10:00:00+01:00
+lastmod: 2026-04-23 10:00:00+01:00
+description: Find an English-speaking GP, handle Dutch pharmacies, and manage hospital visits without Dutch — practical guide with vocabulary, directories, and scripts.
+categories:
+- health
+tags:
+- healthcare
+- English
+- medical
+- huisarts
+- hospital
+keywords:
+- english speaking doctor netherlands
+- english speaking GP amsterdam
+- dutch healthcare english
+- huisarts english speaking
+- medical care netherlands expat 2026
 affiliate: true
 products:
-  - name: "SafetyWing"
-    url: "https://go.expatnetherlandshub.com/safetywing?ref=/guides/health/navigate-dutch-healthcare-english-2026/"
-    price: "45.08"
-  - name: "CZ"
-    url: "https://www.cz.nl/"
-    price: "0.00"
-  - name: "Zilveren Kruis"
-    url: "https://www.zilverenkruis.nl/"
-    price: "0.00"
-author: "Sarah van den Berg"
-author_bio: "Expat coach and relocation specialist. Half Dutch, half British, living in the Netherlands for over 10 years."
-featured_image: "/images/categories/health.svg"
+- name: SafetyWing
+  url: https://go.expatnetherlandshub.com/safetywing?ref=/guides/health/navigate-dutch-healthcare-english-2026/
+  price: '45.08'
+- name: CZ
+  url: https://www.cz.nl/
+  price: '0.00'
+- name: Zilveren Kruis
+  url: https://www.zilverenkruis.nl/
+  price: '0.00'
+author: Sarah van den Berg
+author_bio: Expat coach and relocation specialist. Half Dutch, half British, living in the Netherlands for over 10 years.
+featured_image: /images/categories/health.svg
 faq:
-  - q: "How do I find an English-speaking GP (huisarts) in the Netherlands?"
-    a: "The most reliable method is searching Doctolib (doctolib.nl) or Zorgkaart Nederland (zorgkaartnederland.nl), both of which let you filter by language spoken. You can also search 'huisarts English Amsterdam' (or your city) on Google Maps. When calling to register, simply ask: 'Do you have doctors who speak English?' and 'Are you accepting new patients?' Many practices in larger cities have at least one English-speaking doctor."
-  - q: "Can a Dutch GP refuse to treat you in English?"
-    a: "A GP cannot legally refuse to treat you based on language, but in practice, many Dutch GPs will treat you in Dutch unless you specifically ask for English. The key phrase is: 'Spreekt u Engels? Mijn Nederlands is nog niet zo goed.' (Do you speak English? My Dutch is not very good yet.) In urban areas, most GPs speak excellent English. In rural areas, you may need to bring a Dutch-speaking friend or use a phone interpreter service."
-  - q: "Do Dutch hospitals have English-speaking staff?"
-    a: "Most Dutch hospitals (especially in the Randstad — Amsterdam, Rotterdam, The Hague, Utrecht) have English-speaking staff at reception, in outpatient clinics, and in most specialist departments. Smaller regional hospitals may have less English-speaking capacity. Teaching hospitals (UMC hospitals) typically have the strongest English capability. If you are being referred for a procedure, you can request an English-speaking specialist via your GP referral letter."
-  - q: "How do I find a therapist or psychologist who works in English in the Netherlands?"
-    a: "The Psychology Today therapist directory (psychologytoday.com/intl/counselors/nl) allows filtering by language and specialisation. The Expat Spouses Initiative (ESI) maintains a list of English-speaking mental health professionals. Some international companies have Employee Assistance Programmes (EAPs) that include English-speaking mental health referrals. GGZ (Geestelijke Gezondheidszorg) centres — the public mental health centres — vary by location in English capability, but many urban centres have English-speaking staff."
-  - q: "What should I do in a medical emergency in the Netherlands if I don't speak Dutch?"
-    a: "Call 112 immediately. Emergency dispatchers are trained to handle calls in English. Say 'I need an ambulance' and give your address. In hospitals, emergency departments (Spoedeisende Hulp or SEH) in the Netherlands are required to treat you regardless of language. Most emergency staff speak English. If you are conscious and able, you can say 'Ik spreek geen Nederlands — does anyone here speak English?' at the desk."
-  - q: "Does Dutch health insurance cover GP visits in English?"
-    a: "Yes. Your Dutch health insurance (basisverzekering) covers GP visits regardless of which language the consultation takes place in. There is no additional cost for seeing an English-speaking GP versus a Dutch-speaking one. The GP is covered within your basic insurance — you do not pay anything extra at the point of care. You only pay if you use services above your eigen risico (deductible, EUR 385 in 2026)."
+- q: How do I find an English-speaking GP (huisarts) in the Netherlands?
+  a: 'The most reliable method is searching Doctolib (doctolib.nl) or Zorgkaart Nederland (zorgkaartnederland.nl), both of which let you filter by language spoken. You can also search ''huisarts English Amsterdam'' (or your city) on Google Maps. When calling to register, simply ask: ''Do you have doctors who speak English?'' and ''Are you accepting new patients?'' Many practices in larger cities have at least one English-speaking doctor.'
+- q: Can a Dutch GP refuse to treat you in English?
+  a: 'A GP cannot legally refuse to treat you based on language, but in practice, many Dutch GPs will treat you in Dutch unless you specifically ask for English. The key phrase is: ''Spreekt u Engels? Mijn Nederlands is nog niet zo goed.'' (Do you speak English? My Dutch is not very good yet.) In urban areas, most GPs speak excellent English. In rural areas, you may need to bring a Dutch-speaking friend or use a phone interpreter service.'
+- q: Do Dutch hospitals have English-speaking staff?
+  a: Most Dutch hospitals (especially in the Randstad — Amsterdam, Rotterdam, The Hague, Utrecht) have English-speaking staff at reception, in outpatient clinics, and in most specialist departments. Smaller regional hospitals may have less English-speaking capacity. Teaching hospitals (UMC hospitals) typically have the strongest English capability. If you are being referred for a procedure, you can request an English-speaking specialist via your GP referral letter.
+- q: How do I find a therapist or psychologist who works in English in the Netherlands?
+  a: The Psychology Today therapist directory (psychologytoday.com/intl/counselors/nl) allows filtering by language and specialisation. The Expat Spouses Initiative (ESI) maintains a list of English-speaking mental health professionals. Some international companies have Employee Assistance Programmes (EAPs) that include English-speaking mental health referrals. GGZ (Geestelijke Gezondheidszorg) centres — the public mental health centres — vary by location in English capability, but many urban centres have English-speaking staff.
+- q: What should I do in a medical emergency in the Netherlands if I don't speak Dutch?
+  a: Call 112 immediately. Emergency dispatchers are trained to handle calls in English. Say 'I need an ambulance' and give your address. In hospitals, emergency departments (Spoedeisende Hulp or SEH) in the Netherlands are required to treat you regardless of language. Most emergency staff speak English. If you are conscious and able, you can say 'Ik spreek geen Nederlands — does anyone here speak English?' at the desk.
+- q: Does Dutch health insurance cover GP visits in English?
+  a: Yes. Your Dutch health insurance (basisverzekering) covers GP visits regardless of which language the consultation takes place in. There is no additional cost for seeing an English-speaking GP versus a Dutch-speaking one. The GP is covered within your basic insurance — you do not pay anything extra at the point of care. You only pay if you use services above your eigen risico (deductible, EUR 385 in 2026).
+schema_type: Article
 ---
 
 When I first needed to see a doctor in Amsterdam, I rang the nearest huisarts practice and the receptionist answered entirely in Dutch. I fumbled through a combination of schoolbook Dutch and hand gestures until someone at the desk switched to English — but not before I had accidentally agreed to a Tuesday appointment I did not want. Ten years later, I have helped dozens of expat clients work through the same situation more efficiently. Here is what actually works.

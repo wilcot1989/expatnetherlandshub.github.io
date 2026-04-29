@@ -1,34 +1,45 @@
 ---
-title: "Raising Kids in the Netherlands: Expat Guide 2026"
-date: 2026-05-19T10:00:00+01:00
-lastmod: 2026-04-23T10:00:00+01:00
-description: "Raising kids in the Netherlands as an expat: childcare, international schools, subsidies, healthcare, and Dutch parenting culture explained."
-categories: ["daily-life"]
-tags: ["family", "children", "schools", "childcare", "kinderopvangtoeslag"]
-keywords: ["expat family netherlands", "raising kids netherlands expat", "international schools netherlands", "childcare netherlands expat"]
+title: 'Raising Kids in the Netherlands: Expat Guide 2026'
+date: 2026-05-19 10:00:00+01:00
+lastmod: 2026-04-23 10:00:00+01:00
+description: 'Raising kids in the Netherlands as an expat: childcare, international schools, subsidies, healthcare, and Dutch parenting culture explained.'
+categories:
+- daily-life
+tags:
+- family
+- children
+- schools
+- childcare
+- kinderopvangtoeslag
+keywords:
+- expat family netherlands
+- raising kids netherlands expat
+- international schools netherlands
+- childcare netherlands expat
 affiliate: true
 products:
-  - name: "KPN"
-    url: "https://www.kpn.com/"
-    price: "0.00"
-author: "Sarah van den Berg"
-author_bio: "Expat coach and relocation specialist. Half Dutch, half British, living in the Netherlands for over 10 years."
-featured_image: "/images/categories/daily-life.svg"
+- name: KPN
+  url: https://www.kpn.com/
+  price: '0.00'
+author: Sarah van den Berg
+author_bio: Expat coach and relocation specialist. Half Dutch, half British, living in the Netherlands for over 10 years.
+featured_image: /images/categories/daily-life.svg
 faq:
-  - q: "Is the Netherlands a good country to raise children as an expat family?"
-    a: "Yes, consistently. UNICEF regularly ranks the Netherlands among the top countries in the world for child wellbeing. Children benefit from strong childcare subsidies, free dental care until age 18, safe cycling infrastructure, and an education system with international options. The work culture also supports parenting — part-time work is normal and widely accepted."
-  - q: "How much does childcare cost in the Netherlands for expats?"
-    a: "Before subsidy, daycare (kinderdagverblijf) costs roughly €8-€10 per hour. For a child attending 3 days a week, that is €1,200-€2,000 per month. After kinderopvangtoeslag (the government childcare subsidy), most families pay €200-€800 per month. Families with lower combined incomes can receive up to 96% reimbursement, meaning you pay as little as €4 per 10-hour day."
-  - q: "Can expats receive kinderopvangtoeslag (childcare subsidy)?"
-    a: "Yes, if you live and work in the Netherlands and your child attends a registered childcare provider, you are entitled to kinderopvangtoeslag. Both parents must work or study to qualify. EU citizens and most non-EU expats with valid residence permits and a BSN are eligible. Apply via the Belastingdienst (Tax Authority) at toeslagen.nl using your DigiD."
-  - q: "Should my expat child go to an international school or a Dutch school?"
-    a: "It depends on how long you plan to stay and your child's age. If you are staying under 2 years, an international school reduces disruption. For longer stays — especially with younger children — a Dutch school has real advantages: children become fluent in Dutch, integrate deeply with local peers, and the education is excellent and virtually free. Many expat families choose Dutch school and are very happy they did."
-  - q: "Do children in the Netherlands get free dental care?"
-    a: "Yes. Dental care for children under 18 is fully covered by the basic health insurance package (basisverzekering) at no extra cost. You do not need a supplementary dental policy for your children. Adults need supplementary dental insurance (tandartsverzekering), but children are automatically covered."
-  - q: "What is kinderbijslag and how much is it?"
-    a: "Kinderbijslag is the Dutch child benefit, a quarterly payment from the SVB (Social Insurance Bank) for every child under 18 living with you. In 2026, it is approximately €264 per quarter per child aged 0-5, €321 for ages 6-11, and €378 for ages 12-17. You apply once after your child is born or after you register in the Netherlands. Payments are automatic after approval."
-  - q: "What health insurance do expat children need in the Netherlands?"
-    a: "Children under 18 do not pay a health insurance premium — they are co-insured under one parent's basic insurance at no additional cost. The eigen risico (deductible) also does not apply to children. All dental care until age 18 is covered. As a parent, you need your own basisverzekering. If you travel internationally, consider a family travel insurance plan like SafetyWing to cover gaps abroad."
+- q: Is the Netherlands a good country to raise children as an expat family?
+  a: Yes, consistently. UNICEF regularly ranks the Netherlands among the top countries in the world for child wellbeing. Children benefit from strong childcare subsidies, free dental care until age 18, safe cycling infrastructure, and an education system with international options. The work culture also supports parenting — part-time work is normal and widely accepted.
+- q: How much does childcare cost in the Netherlands for expats?
+  a: Before subsidy, daycare (kinderdagverblijf) costs roughly €8-€10 per hour. For a child attending 3 days a week, that is €1,200-€2,000 per month. After kinderopvangtoeslag (the government childcare subsidy), most families pay €200-€800 per month. Families with lower combined incomes can receive up to 96% reimbursement, meaning you pay as little as €4 per 10-hour day.
+- q: Can expats receive kinderopvangtoeslag (childcare subsidy)?
+  a: Yes, if you live and work in the Netherlands and your child attends a registered childcare provider, you are entitled to kinderopvangtoeslag. Both parents must work or study to qualify. EU citizens and most non-EU expats with valid residence permits and a BSN are eligible. Apply via the Belastingdienst (Tax Authority) at toeslagen.nl using your DigiD.
+- q: Should my expat child go to an international school or a Dutch school?
+  a: 'It depends on how long you plan to stay and your child''s age. If you are staying under 2 years, an international school reduces disruption. For longer stays — especially with younger children — a Dutch school has real advantages: children become fluent in Dutch, integrate deeply with local peers, and the education is excellent and virtually free. Many expat families choose Dutch school and are very happy they did.'
+- q: Do children in the Netherlands get free dental care?
+  a: Yes. Dental care for children under 18 is fully covered by the basic health insurance package (basisverzekering) at no extra cost. You do not need a supplementary dental policy for your children. Adults need supplementary dental insurance (tandartsverzekering), but children are automatically covered.
+- q: What is kinderbijslag and how much is it?
+  a: Kinderbijslag is the Dutch child benefit, a quarterly payment from the SVB (Social Insurance Bank) for every child under 18 living with you. In 2026, it is approximately €264 per quarter per child aged 0-5, €321 for ages 6-11, and €378 for ages 12-17. You apply once after your child is born or after you register in the Netherlands. Payments are automatic after approval.
+- q: What health insurance do expat children need in the Netherlands?
+  a: Children under 18 do not pay a health insurance premium — they are co-insured under one parent's basic insurance at no additional cost. The eigen risico (deductible) also does not apply to children. All dental care until age 18 is covered. As a parent, you need your own basisverzekering. If you travel internationally, consider a family travel insurance plan like SafetyWing to cover gaps abroad.
+schema_type: Article
 ---
 
 When I moved to the Netherlands eleven years ago, I did not yet have children. I thought about schools vaguely, the way you do when it still feels hypothetical. Then I had two kids, worked through the Dutch childcare system, sat through parent evenings at a local Dutch school, discovered kinderbijslag, argued with myself over whether to buy a bakfiets — and realised that the Netherlands is, genuinely, an outstanding place to raise a family. Not perfect, but very good. This guide covers everything I have learned and everything I tell the families I coach when they arrive here with children in tow.

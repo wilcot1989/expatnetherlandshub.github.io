@@ -1,39 +1,49 @@
 ---
-title: "Leaving the Netherlands: Deregistration Guide 2026"
-date: 2026-05-17T10:00:00+01:00
-lastmod: 2026-04-23T10:00:00+01:00
-type: "guide"
-description: "Step-by-step guide to Dutch BRP deregistration (uitschrijven): health insurance, tax return, DigiD, pension, bank accounts, and full departure timeline."
-categories: ["legal"]
-tags: ["deregistration", "uitschrijven", "leaving Netherlands", "emigration"]
-keywords: ["deregistration netherlands", "uitschrijven gemeente", "leaving netherlands checklist", "cancel dutch insurance leaving"]
+title: 'Leaving the Netherlands: Deregistration Guide 2026'
+date: 2026-05-17 10:00:00+01:00
+lastmod: 2026-04-23 10:00:00+01:00
+type: guide
+description: 'Step-by-step guide to Dutch BRP deregistration (uitschrijven): health insurance, tax return, DigiD, pension, bank accounts, and full departure timeline.'
+categories:
+- legal
+tags:
+- deregistration
+- uitschrijven
+- leaving Netherlands
+- emigration
+keywords:
+- deregistration netherlands
+- uitschrijven gemeente
+- leaving netherlands checklist
+- cancel dutch insurance leaving
 affiliate: true
 products:
-  - name: "Expatax"
-    url: "https://www.expatax.nl/"
-    price: "0.00"
-  - name: "Blue Umbrella"
-    url: "https://www.blueumbrella.nl/"
-    price: "0.00"
-  - name: "IND"
-    url: "https://ind.nl/en"
-    price: "0.00"
-author: "Sarah van den Berg"
-author_bio: "Expat coach and relocation specialist. Half Dutch, half British, living in the Netherlands for over 10 years."
-featured_image: "/images/categories/legal.svg"
+- name: Expatax
+  url: https://www.expatax.nl/
+  price: '0.00'
+- name: Blue Umbrella
+  url: https://www.blueumbrella.nl/
+  price: '0.00'
+- name: IND
+  url: https://ind.nl/en
+  price: '0.00'
+author: Sarah van den Berg
+author_bio: Expat coach and relocation specialist. Half Dutch, half British, living in the Netherlands for over 10 years.
+featured_image: /images/categories/legal.svg
 faq:
-  - q: "When should I deregister (uitschrijven) from the gemeente?"
-    a: "You can deregister up to 5 days before your departure date, or within 5 days after you leave. Most people do it on the day before departure or the actual departure day. You visit your local gemeente office (burgerzaken), bring your passport or ID, and confirm your departure date and destination country. Some municipalities allow you to do this online via MijnOverheid."
-  - q: "Does deregistering automatically cancel my Dutch health insurance?"
-    a: "No — cancelling your health insurance is a separate step you must take yourself. However, your legal obligation to have Dutch health insurance ends on your uitschrijfdatum (deregistration date). If you cancel before that date, you risk a fine. Contact your insurer and ask them to end the policy on exactly your deregistration date."
-  - q: "Do I need to file a Dutch tax return when leaving?"
-    a: "Yes. You must file an M-biljet (migration tax return) for the calendar year in which you leave. This covers your Dutch income from 1 January until your departure date. Many people leaving mid-year are entitled to a refund because too much tax was withheld based on a full year. File via Belastingdienst after the year ends."
-  - q: "What happens to my DigiD after I deregister?"
-    a: "Your DigiD account does not disappear automatically, but your ability to keep using it is affected once you are no longer in the BRP. Download all important documents — tax returns, pension overviews, benefit letters — before you leave. You can still use DigiD from abroad for filing the M-biljet and checking pension statements."
-  - q: "Can I cancel zorgtoeslag before I deregister?"
-    a: "No. You must cancel zorgtoeslag (and huurtoeslag if applicable) effective from your uitschrijfdatum, not earlier. If you cancel too early, you lose entitlement for days you were still resident. If you forget to cancel, the Belastingdienst will claim it all back (terugvordering) after your deregistration is processed — with interest."
-  - q: "What happens to my AOW pension if I leave the Netherlands?"
-    a: "AOW years already accrued are preserved. You accrue 2% of the full AOW amount for each year you are registered in the Netherlands (from age 15–66). When you reach Dutch pension age, SVB will pay your AOW to a foreign bank account — you do not lose what you built up. However, years you are absent do not accrue, so gaps matter if you plan to return later."
+- q: When should I deregister (uitschrijven) from the gemeente?
+  a: You can deregister up to 5 days before your departure date, or within 5 days after you leave. Most people do it on the day before departure or the actual departure day. You visit your local gemeente office (burgerzaken), bring your passport or ID, and confirm your departure date and destination country. Some municipalities allow you to do this online via MijnOverheid.
+- q: Does deregistering automatically cancel my Dutch health insurance?
+  a: No — cancelling your health insurance is a separate step you must take yourself. However, your legal obligation to have Dutch health insurance ends on your uitschrijfdatum (deregistration date). If you cancel before that date, you risk a fine. Contact your insurer and ask them to end the policy on exactly your deregistration date.
+- q: Do I need to file a Dutch tax return when leaving?
+  a: Yes. You must file an M-biljet (migration tax return) for the calendar year in which you leave. This covers your Dutch income from 1 January until your departure date. Many people leaving mid-year are entitled to a refund because too much tax was withheld based on a full year. File via Belastingdienst after the year ends.
+- q: What happens to my DigiD after I deregister?
+  a: Your DigiD account does not disappear automatically, but your ability to keep using it is affected once you are no longer in the BRP. Download all important documents — tax returns, pension overviews, benefit letters — before you leave. You can still use DigiD from abroad for filing the M-biljet and checking pension statements.
+- q: Can I cancel zorgtoeslag before I deregister?
+  a: No. You must cancel zorgtoeslag (and huurtoeslag if applicable) effective from your uitschrijfdatum, not earlier. If you cancel too early, you lose entitlement for days you were still resident. If you forget to cancel, the Belastingdienst will claim it all back (terugvordering) after your deregistration is processed — with interest.
+- q: What happens to my AOW pension if I leave the Netherlands?
+  a: AOW years already accrued are preserved. You accrue 2% of the full AOW amount for each year you are registered in the Netherlands (from age 15–66). When you reach Dutch pension age, SVB will pay your AOW to a foreign bank account — you do not lose what you built up. However, years you are absent do not accrue, so gaps matter if you plan to return later.
+schema_type: Article
 ---
 
 I left the Netherlands for the first time after four years. I had a list of things to do, a rough timeline in my head, and confidence that it would all be fairly simple. It was not. Within two weeks of deregistering at the gemeente, I had received a letter from my health insurer saying I owed money for cancelled coverage, a message from the Belastingdienst about zorgtoeslag I had not properly stopped, and a DigiD activation reminder I could no longer act on from abroad.

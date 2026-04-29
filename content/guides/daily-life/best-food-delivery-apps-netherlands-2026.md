@@ -1,32 +1,46 @@
 ---
-title: "Best Food Delivery Apps Netherlands 2026"
-date: 2026-03-18T10:00:00+01:00
-lastmod: 2026-04-23T10:00:00+01:00
-description: "Food and grocery delivery in the Netherlands 2026. Thuisbezorgd, Uber Eats, Flink, Picnic, and Crisp compared — prices, delivery areas, and expat tips."
-categories: ["daily-life"]
-tags: ["food delivery", "thuisbezorgd", "uber eats", "picnic", "flink", "grocery delivery", "netherlands"]
-keywords: ["food delivery netherlands", "thuisbezorgd review", "uber eats netherlands", "best delivery app netherlands", "grocery delivery amsterdam"]
+title: Best Food Delivery Apps Netherlands 2026
+date: 2026-03-18 10:00:00+01:00
+lastmod: 2026-04-23 10:00:00+01:00
+description: Food and grocery delivery in the Netherlands 2026. Thuisbezorgd, Uber Eats, Flink, Picnic, and Crisp compared — prices, delivery areas, and expat tips.
+categories:
+- daily-life
+tags:
+- food delivery
+- thuisbezorgd
+- uber eats
+- picnic
+- flink
+- grocery delivery
+- netherlands
+keywords:
+- food delivery netherlands
+- thuisbezorgd review
+- uber eats netherlands
+- best delivery app netherlands
+- grocery delivery amsterdam
 affiliate: true
 products:
-  - name: "KPN"
-    url: "https://www.kpn.com/"
-    price: "0.00"
-author: "Sarah van den Berg"
-author_bio: "Expat coach and relocation specialist. Half Dutch, half British, living in the Netherlands for over 10 years."
-featured_image: "/images/categories/daily-life.svg"
+- name: KPN
+  url: https://www.kpn.com/
+  price: '0.00'
+author: Sarah van den Berg
+author_bio: Expat coach and relocation specialist. Half Dutch, half British, living in the Netherlands for over 10 years.
+featured_image: /images/categories/daily-life.svg
 faq:
-  - q: "Is Thuisbezorgd the same as Just Eat?"
-    a: "Yes. Thuisbezorgd.nl is the Dutch brand of Just Eat Takeaway.com, one of Europe's largest food delivery companies. Just Eat Takeaway.com also owns Grubhub in the US. In the Netherlands the service operates under the Thuisbezorgd name and is far and away the largest restaurant delivery platform, with more restaurants listed than any competitor."
-  - q: "Did Deliveroo leave the Netherlands?"
-    a: "Yes. Deliveroo exited the Netherlands in November 2022. After an employment court ruling that Deliveroo's couriers were employees rather than self-employed contractors, the company decided to withdraw from the Dutch market entirely rather than restructure its operations. Several other European countries where similar rulings threatened the gig economy model also saw Deliveroo scale back. If you used Deliveroo in the Netherlands, Thuisbezorgd or Uber Eats are the main alternatives."
-  - q: "What is the cheapest food delivery option in the Netherlands?"
-    a: "For grocery delivery, Picnic is typically the cheapest — they match competitive supermarket prices and charge no delivery fee on orders over EUR 35. For restaurant delivery, it depends more on the restaurant. Thuisbezorgd and Uber Eats have broadly similar pricing; the platform fees are comparable. Using the restaurant's own website or calling directly often saves the delivery platform commission (typically 20–30%) which sometimes gets passed on to you as slightly lower prices, though this varies."
-  - q: "Can I use food delivery apps if I only speak English?"
-    a: "Yes, all major food delivery apps operate in English. Uber Eats and Flink are fully English. Thuisbezorgd has an English version of its app and website. Picnic and Crisp have English interfaces though product descriptions are sometimes in Dutch. You will manage perfectly well with any of them as an English speaker."
-  - q: "Is Gorillas still operating in the Netherlands?"
-    a: "Gorillas was acquired by Getir in 2022. Getir then went through significant financial difficulties and exited most European markets including the Netherlands in 2024. As of 2026, neither Gorillas nor Getir is operating in the Netherlands. The main quick grocery delivery option remaining is Flink, which has weathered the consolidation wave better than its competitors."
-  - q: "Do Dutch food delivery apps accept iDEAL?"
-    a: "Yes. All major food delivery apps operating in the Netherlands accept iDEAL, which matters greatly in a market where iDEAL is the dominant payment method. Thuisbezorgd, Uber Eats, Picnic, Flink, and Crisp all accept iDEAL. They also accept credit and debit cards."
+- q: Is Thuisbezorgd the same as Just Eat?
+  a: Yes. Thuisbezorgd.nl is the Dutch brand of Just Eat Takeaway.com, one of Europe's largest food delivery companies. Just Eat Takeaway.com also owns Grubhub in the US. In the Netherlands the service operates under the Thuisbezorgd name and is far and away the largest restaurant delivery platform, with more restaurants listed than any competitor.
+- q: Did Deliveroo leave the Netherlands?
+  a: Yes. Deliveroo exited the Netherlands in November 2022. After an employment court ruling that Deliveroo's couriers were employees rather than self-employed contractors, the company decided to withdraw from the Dutch market entirely rather than restructure its operations. Several other European countries where similar rulings threatened the gig economy model also saw Deliveroo scale back. If you used Deliveroo in the Netherlands, Thuisbezorgd or Uber Eats are the main alternatives.
+- q: What is the cheapest food delivery option in the Netherlands?
+  a: For grocery delivery, Picnic is typically the cheapest — they match competitive supermarket prices and charge no delivery fee on orders over EUR 35. For restaurant delivery, it depends more on the restaurant. Thuisbezorgd and Uber Eats have broadly similar pricing; the platform fees are comparable. Using the restaurant's own website or calling directly often saves the delivery platform commission (typically 20–30%) which sometimes gets passed on to you as slightly lower prices, though this varies.
+- q: Can I use food delivery apps if I only speak English?
+  a: Yes, all major food delivery apps operate in English. Uber Eats and Flink are fully English. Thuisbezorgd has an English version of its app and website. Picnic and Crisp have English interfaces though product descriptions are sometimes in Dutch. You will manage perfectly well with any of them as an English speaker.
+- q: Is Gorillas still operating in the Netherlands?
+  a: Gorillas was acquired by Getir in 2022. Getir then went through significant financial difficulties and exited most European markets including the Netherlands in 2024. As of 2026, neither Gorillas nor Getir is operating in the Netherlands. The main quick grocery delivery option remaining is Flink, which has weathered the consolidation wave better than its competitors.
+- q: Do Dutch food delivery apps accept iDEAL?
+  a: Yes. All major food delivery apps operating in the Netherlands accept iDEAL, which matters greatly in a market where iDEAL is the dominant payment method. Thuisbezorgd, Uber Eats, Picnic, Flink, and Crisp all accept iDEAL. They also accept credit and debit cards.
+schema_type: Article
 ---
 
 Food delivery in the Netherlands has changed a lot in the past few years. Deliveroo has gone. Gorillas has gone. Getir has gone. The quick-commerce boom of 2020–2022 went through a shakeout, and what remains in 2026 is a leaner, more stable market.

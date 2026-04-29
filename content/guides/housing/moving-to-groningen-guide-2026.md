@@ -1,34 +1,45 @@
 ---
-title: "Moving to Groningen as an Expat: Complete City Guide 2026"
-date: 2026-03-07T10:00:00+01:00
-lastmod: 2026-04-23T10:00:00+01:00
-description: "Complete expat guide to moving to Groningen in 2026. Housing costs, neighbourhoods, transport, and university life covered."
-categories: ["housing"]
-tags: ["Groningen", "city guide", "moving to Groningen", "expat Groningen", "student city"]
-keywords: ["moving to Groningen expat", "Groningen expat guide 2026", "living in Groningen", "Groningen housing"]
+title: 'Moving to Groningen as an Expat: Complete City Guide 2026'
+date: 2026-03-07 10:00:00+01:00
+lastmod: 2026-04-23 10:00:00+01:00
+description: Complete expat guide to moving to Groningen in 2026. Housing costs, neighbourhoods, transport, and university life covered.
+categories:
+- housing
+tags:
+- Groningen
+- city guide
+- moving to Groningen
+- expat Groningen
+- student city
+keywords:
+- moving to Groningen expat
+- Groningen expat guide 2026
+- living in Groningen
+- Groningen housing
 affiliate: false
-author: "Sarah van den Berg"
-author_bio: "Expat coach and relocation specialist. Half Dutch, half British, living in the Netherlands for over 10 years."
-featured_image: "/images/featured/moving-to-groningen-guide-2026.webp"
+author: Sarah van den Berg
+author_bio: Expat coach and relocation specialist. Half Dutch, half British, living in the Netherlands for over 10 years.
+featured_image: /images/featured/moving-to-groningen-guide-2026.webp
 faq:
-  - q: "Is Groningen good for expats?"
-    a: "Groningen is an excellent choice for expats working at the University of Groningen, UMCG, or in the energy and research sectors. It is the Netherlands' youngest city by average age, with a large international academic community, genuinely affordable housing by Dutch standards, and a cultural scene that punches well above its size. The main challenge is distance from the Randstad — Amsterdam is 2 hours 15 minutes by train — which matters if your job or family requires regular travel south. For those who can work locally or remotely, the quality of life is high and the cost of living substantially lower than the west."
-  - q: "How much does it cost to live in Groningen?"
-    a: "Groningen is one of the most affordable Dutch cities. A single expat can expect: rent €700-€1,100 (1-bed), utilities €120-€170, groceries €230-€320, transport €60-€100, health insurance €130. Total: roughly €1,240-€1,820/month. A couple should budget €2,000-€2,800/month. These figures are 30-40% below Amsterdam and meaningfully below Utrecht or The Hague. Housing is the biggest saving — a two-bedroom apartment that would cost €1,800+ in Amsterdam typically rents for €1,000-€1,300 in Groningen."
-  - q: "What are the best neighbourhoods in Groningen for expats?"
-    a: "The most popular expat neighbourhoods are: Centrum (central, walkable, higher rent), Helpman (quiet, green, family-friendly, south of centre), Paddepoel (affordable, near Zernike campus, popular with researchers), Selwerd (residential, good value, cycling distance to university), and Hoornsemeer (newer development, families, modern housing). Most expats working at the university or UMCG choose Paddepoel or Selwerd for the short commute; families with children often prefer Helpman for the green surroundings and better schools."
-  - q: "How far is Groningen from Amsterdam?"
-    a: "Groningen is 2 hours 15 minutes from Amsterdam Centraal by direct Intercity train, with departures roughly every 30 minutes. To Rotterdam it is around 2 hours 45 minutes; to Utrecht around 2 hours. This is manageable for occasional trips but makes daily commuting to the Randstad impractical. The domestic airport Groningen Airport Eelde has limited connections — most international travel goes via Amsterdam Schiphol. Within the northern Netherlands, Leeuwarden is 35 minutes and Assen 20 minutes."
+- q: Is Groningen good for expats?
+  a: Groningen is an excellent choice for expats working at the University of Groningen, UMCG, or in the energy and research sectors. It is the Netherlands' youngest city by average age, with a large international academic community, genuinely affordable housing by Dutch standards, and a cultural scene that punches well above its size. The main challenge is distance from the Randstad — Amsterdam is 2 hours 15 minutes by train — which matters if your job or family requires regular travel south. For those who can work locally or remotely, the quality of life is high and the cost of living substantially lower than the west.
+- q: How much does it cost to live in Groningen?
+  a: 'Groningen is one of the most affordable Dutch cities. A single expat can expect: rent €700-€1,100 (1-bed), utilities €120-€170, groceries €230-€320, transport €60-€100, health insurance €130. Total: roughly €1,240-€1,820/month. A couple should budget €2,000-€2,800/month. These figures are 30-40% below Amsterdam and meaningfully below Utrecht or The Hague. Housing is the biggest saving — a two-bedroom apartment that would cost €1,800+ in Amsterdam typically rents for €1,000-€1,300 in Groningen.'
+- q: What are the best neighbourhoods in Groningen for expats?
+  a: 'The most popular expat neighbourhoods are: Centrum (central, walkable, higher rent), Helpman (quiet, green, family-friendly, south of centre), Paddepoel (affordable, near Zernike campus, popular with researchers), Selwerd (residential, good value, cycling distance to university), and Hoornsemeer (newer development, families, modern housing). Most expats working at the university or UMCG choose Paddepoel or Selwerd for the short commute; families with children often prefer Helpman for the green surroundings and better schools.'
+- q: How far is Groningen from Amsterdam?
+  a: Groningen is 2 hours 15 minutes from Amsterdam Centraal by direct Intercity train, with departures roughly every 30 minutes. To Rotterdam it is around 2 hours 45 minutes; to Utrecht around 2 hours. This is manageable for occasional trips but makes daily commuting to the Randstad impractical. The domestic airport Groningen Airport Eelde has limited connections — most international travel goes via Amsterdam Schiphol. Within the northern Netherlands, Leeuwarden is 35 minutes and Assen 20 minutes.
 products:
-  - name: "HousingAnywhere"
-    url: "https://housinganywhere.com/"
-    price: "0.00"
-  - name: "Kamernet"
-    url: "https://kamernet.nl/"
-    price: "0.00"
-  - name: "Pararius"
-    url: "https://www.pararius.com/"
-    price: "0.00"
+- name: HousingAnywhere
+  url: https://housinganywhere.com/
+  price: '0.00'
+- name: Kamernet
+  url: https://kamernet.nl/
+  price: '0.00'
+- name: Pararius
+  url: https://www.pararius.com/
+  price: '0.00'
+schema_type: Article
 ---
 
 The first time I properly spent time in Groningen, I had gone up for a long weekend to help a client settle in after a research position at the University of Groningen. I expected a quiet, slightly provincial Dutch city. What I found was a place with an energy I had not anticipated — streets full of students cycling in every direction, a Saturday market at the Vismarkt that felt genuinely alive, and a pub culture in the Poelestraat quarter that seemed to go on well past midnight on a Wednesday. My client, a molecular biologist from Edinburgh, had been anxious about moving so far north. Within a month she had stopped mentioning it.

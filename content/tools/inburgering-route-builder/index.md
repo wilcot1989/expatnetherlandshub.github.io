@@ -1,11 +1,12 @@
 ---
-title: "Inburgering Exam Guide 2026 — Find Your Integration Path"
-description: "Find which inburgering (civic integration) route and exams you need in the Netherlands. Free guide with timelines, exam types, and costs for 2026."
-type: "tools"
-layout: "single"
+title: Inburgering Exam Guide 2026 — Find Your Integration Path
+description: Find which inburgering (civic integration) route and exams you need in the Netherlands. Free guide with timelines, exam types, and costs for 2026.
+type: tools
+layout: single
 affiliate: true
-author: "Sarah van den Berg"
-author_bio: "Expat coach and writer at ExpatNetherlandsHub.com"
+author: Sarah van den Berg
+author_bio: Expat coach and writer at ExpatNetherlandsHub.com
+schema_type: Article
 ---
 
 <script type="application/ld+json">

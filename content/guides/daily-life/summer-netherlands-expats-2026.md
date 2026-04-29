@@ -1,45 +1,45 @@
 ---
-title: "Summer in the Netherlands: Expat Guide 2026"
-slug: "summer-netherlands-expats-2026"
-date: 2026-06-01T10:00:00+01:00
-lastmod: 2026-04-23T10:00:00+01:00
-author: "Sarah van den Berg"
-author_bio: "Expat coach and relocation specialist. Half Dutch, half British, living in the Netherlands for over 10 years."
-description: "Summer in the Netherlands for expats: weather, terrasjes, beaches, festivals, bouwvak, and the AC question no one warns you about."
-featured_image: "/images/categories/daily-life.svg"
-categories: ["daily-life"]
-type: "seasonal guide"
+title: 'Summer in the Netherlands: Expat Guide 2026'
+slug: summer-netherlands-expats-2026
+date: 2026-06-01 10:00:00+01:00
+lastmod: 2026-04-23 10:00:00+01:00
+author: Sarah van den Berg
+author_bio: Expat coach and relocation specialist. Half Dutch, half British, living in the Netherlands for over 10 years.
+description: 'Summer in the Netherlands for expats: weather, terrasjes, beaches, festivals, bouwvak, and the AC question no one warns you about.'
+featured_image: /images/categories/daily-life.svg
+categories:
+- daily-life
+type: seasonal guide
 affiliate: true
 products:
-  - name: "KPN"
-    url: "https://www.kpn.com/"
-    price: "0.00"
+- name: KPN
+  url: https://www.kpn.com/
+  price: '0.00'
 tags:
-  - "summer"
-  - "weather"
-  - "activities"
-  - "festivals"
-  - "terras"
-
+- summer
+- weather
+- activities
+- festivals
+- terras
 keywords:
-  - "summer netherlands expat"
-  - "things to do summer netherlands"
-  - "dutch summer guide"
-  - "best summer activities netherlands"
-
+- summer netherlands expat
+- things to do summer netherlands
+- dutch summer guide
+- best summer activities netherlands
 faq:
-  - q: "How hot does it get in the Netherlands in summer?"
-    a: "Average daytime temperatures in June, July, and August sit between 20 and 25°C. Heatwaves are becoming more frequent — it is not unusual to see several days above 30°C, and occasionally even 35°C or higher. The heat usually breaks after a few days with a thunderstorm."
-  - q: "Do homes in the Netherlands have air conditioning?"
-    a: "The vast majority of Dutch homes do not have air conditioning. This is changing slowly, but it remains unusual. Most people rely on blackout curtains, fans, and cross-ventilation. If you are renting, a portable air conditioning unit is worth considering before the first heatwave hits."
-  - q: "What is bouwvak and how does it affect expats?"
-    a: "Bouwvak is the Dutch construction industry holiday, which falls in the last three weeks of July for the northern provinces and August for the rest of the country. Many Dutch families take their annual summer holiday during bouwvak, which means roads are busy, camping sites are full, and cities can feel quieter — or more tourist-heavy, depending on where you are."
-  - q: "Which is the best beach near Amsterdam for a day trip?"
-    a: "Zandvoort is the closest — about 30 minutes by direct train from Amsterdam Centraal. It can get very busy on hot weekends. For a quieter, more upmarket atmosphere, Bloemendaal aan Zee is a 10-minute bus ride from Zandvoort station."
-  - q: "What are the biggest summer music festivals in the Netherlands?"
-    a: "The four major ones are Pinkpop (June, Landgraaf), North Sea Jazz (July, Rotterdam), Lowlands (August, Biddinghuizen), and Mysteryland (August, Haarlemmermeer). Lowlands and Mysteryland are multi-day camping festivals. North Sea Jazz is an indoor arena event with a legendary lineup tradition."
-  - q: "Is it possible to swim in lakes in the Netherlands?"
-    a: "Yes, and it is very popular. The Loosdrechtse Plassen, Veluwemeer, and many smaller lakes and plas areas are designated swimming spots. Water quality is generally good and monitored by local authorities. Check the zwemwater.nl website for up-to-date water quality reports before you go."
+- q: How hot does it get in the Netherlands in summer?
+  a: Average daytime temperatures in June, July, and August sit between 20 and 25°C. Heatwaves are becoming more frequent — it is not unusual to see several days above 30°C, and occasionally even 35°C or higher. The heat usually breaks after a few days with a thunderstorm.
+- q: Do homes in the Netherlands have air conditioning?
+  a: The vast majority of Dutch homes do not have air conditioning. This is changing slowly, but it remains unusual. Most people rely on blackout curtains, fans, and cross-ventilation. If you are renting, a portable air conditioning unit is worth considering before the first heatwave hits.
+- q: What is bouwvak and how does it affect expats?
+  a: Bouwvak is the Dutch construction industry holiday, which falls in the last three weeks of July for the northern provinces and August for the rest of the country. Many Dutch families take their annual summer holiday during bouwvak, which means roads are busy, camping sites are full, and cities can feel quieter — or more tourist-heavy, depending on where you are.
+- q: Which is the best beach near Amsterdam for a day trip?
+  a: Zandvoort is the closest — about 30 minutes by direct train from Amsterdam Centraal. It can get very busy on hot weekends. For a quieter, more upmarket atmosphere, Bloemendaal aan Zee is a 10-minute bus ride from Zandvoort station.
+- q: What are the biggest summer music festivals in the Netherlands?
+  a: The four major ones are Pinkpop (June, Landgraaf), North Sea Jazz (July, Rotterdam), Lowlands (August, Biddinghuizen), and Mysteryland (August, Haarlemmermeer). Lowlands and Mysteryland are multi-day camping festivals. North Sea Jazz is an indoor arena event with a legendary lineup tradition.
+- q: Is it possible to swim in lakes in the Netherlands?
+  a: Yes, and it is very popular. The Loosdrechtse Plassen, Veluwemeer, and many smaller lakes and plas areas are designated swimming spots. Water quality is generally good and monitored by local authorities. Check the zwemwater.nl website for up-to-date water quality reports before you go.
+schema_type: Article
 ---
 
 My first summer in the Netherlands, I made every mistake possible. I wore a heavy jacket to an outdoor festival because "it's the Netherlands, it'll be cold." I planned a beach day two weeks in advance and booked nothing. I had no fan, no blackout curtains, and no idea what bouwvak was when my entire neighbourhood suddenly disappeared for three weeks.

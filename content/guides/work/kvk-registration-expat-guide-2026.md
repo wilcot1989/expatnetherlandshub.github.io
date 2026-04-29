@@ -1,36 +1,53 @@
 ---
-title: "KvK Registration for Expats: Start a Business in NL (2026)"
-date: 2026-03-15T10:00:00+01:00
-lastmod: 2026-04-23T10:00:00+01:00
-description: "Step-by-step guide to KvK registration for expats. Legal structures, documents, costs (€75.75), BTW number, and common mistakes to avoid in 2026."
-categories: ["work"]
-tags: ["KvK", "chamber of commerce", "freelancer", "ZZP", "start business Netherlands"]
-keywords: ["KvK registration Netherlands expat", "how to register KvK Netherlands", "start business Netherlands expat 2026", "chamber of commerce Netherlands foreigner", "eenmanszaak registration Netherlands", "KvK appointment expat", "ZZP registration Netherlands guide", "BTW number Netherlands freelancer", "KvK registration cost 2026", "start freelancing Netherlands non-EU"]
+title: 'KvK Registration for Expats: Start a Business in NL (2026)'
+date: 2026-03-15 10:00:00+01:00
+lastmod: 2026-04-23 10:00:00+01:00
+description: Step-by-step guide to KvK registration for expats. Legal structures, documents, costs (€75.75), BTW number, and common mistakes to avoid in 2026.
+categories:
+- work
+tags:
+- KvK
+- chamber of commerce
+- freelancer
+- ZZP
+- start business Netherlands
+keywords:
+- KvK registration Netherlands expat
+- how to register KvK Netherlands
+- start business Netherlands expat 2026
+- chamber of commerce Netherlands foreigner
+- eenmanszaak registration Netherlands
+- KvK appointment expat
+- ZZP registration Netherlands guide
+- BTW number Netherlands freelancer
+- KvK registration cost 2026
+- start freelancing Netherlands non-EU
 affiliate: true
 products:
-  - name: "Wise"
-    url: "https://go.expatnetherlandshub.com/wise?ref=/guides/work/kvk-registration-expat-guide-2026/"
-    price: "0.00"
-  - name: "LinkedIn Premium"
-    url: "https://www.linkedin.com/premium/"
-    price: "29.99"
-  - name: "Undutchables"
-    url: "https://undutchables.nl/"
-    price: "0.00"
-author: "Sarah van den Berg"
-author_bio: "Expat coach and relocation specialist. Half Dutch, half British, living in the Netherlands for over 10 years."
-featured_image: "/images/featured/kvk-registration-expat-guide-2026.webp"
+- name: Wise
+  url: https://go.expatnetherlandshub.com/wise?ref=/guides/work/kvk-registration-expat-guide-2026/
+  price: '0.00'
+- name: LinkedIn Premium
+  url: https://www.linkedin.com/premium/
+  price: '29.99'
+- name: Undutchables
+  url: https://undutchables.nl/
+  price: '0.00'
+author: Sarah van den Berg
+author_bio: Expat coach and relocation specialist. Half Dutch, half British, living in the Netherlands for over 10 years.
+featured_image: /images/featured/kvk-registration-expat-guide-2026.webp
 faq:
-  - q: "How much does KvK registration cost in the Netherlands?"
-    a: "The one-time registration fee at the KvK (Kamer van Koophandel) is €75.75 in 2026. This covers all legal structures including eenmanszaak, VOF, and BV. There are no annual renewal fees — you pay once when you register. After registration, you will receive both a KvK number and a BTW (VAT) number at no additional cost."
-  - q: "Can I register at the KvK without a Dutch address?"
-    a: "You need a registered business address in the Netherlands to complete your KvK registration. This can be your home address, a rented office, a coworking space, or a registered address service (some providers offer this for €10–€30/month). A PO box is not accepted as a business address. EU citizens can register immediately upon arrival; non-EU citizens typically need a valid residence permit first."
-  - q: "How long does KvK registration take?"
-    a: "The appointment itself takes 30–60 minutes. You receive your KvK number immediately at the end of the appointment. Your BTW (VAT) number arrives by post within 10–14 working days. Most banks require both numbers before opening a business account, so factor in roughly three weeks from appointment to having everything fully operational."
-  - q: "Do I need a BSN before registering at the KvK?"
-    a: "Yes. Your BSN (burgerservicenummer) is a required piece of information for KvK registration. You also need your residence permit if you are a non-EU citizen. EU/EEA citizens need a valid passport or national ID. If you have not yet obtained your BSN, read the BSN registration guide first and complete that step before booking your KvK appointment."
-  - q: "Who is this for?"
-    a: "See the section above on who benefits most from this service or guide."
+- q: How much does KvK registration cost in the Netherlands?
+  a: The one-time registration fee at the KvK (Kamer van Koophandel) is €75.75 in 2026. This covers all legal structures including eenmanszaak, VOF, and BV. There are no annual renewal fees — you pay once when you register. After registration, you will receive both a KvK number and a BTW (VAT) number at no additional cost.
+- q: Can I register at the KvK without a Dutch address?
+  a: You need a registered business address in the Netherlands to complete your KvK registration. This can be your home address, a rented office, a coworking space, or a registered address service (some providers offer this for €10–€30/month). A PO box is not accepted as a business address. EU citizens can register immediately upon arrival; non-EU citizens typically need a valid residence permit first.
+- q: How long does KvK registration take?
+  a: The appointment itself takes 30–60 minutes. You receive your KvK number immediately at the end of the appointment. Your BTW (VAT) number arrives by post within 10–14 working days. Most banks require both numbers before opening a business account, so factor in roughly three weeks from appointment to having everything fully operational.
+- q: Do I need a BSN before registering at the KvK?
+  a: Yes. Your BSN (burgerservicenummer) is a required piece of information for KvK registration. You also need your residence permit if you are a non-EU citizen. EU/EEA citizens need a valid passport or national ID. If you have not yet obtained your BSN, read the BSN registration guide first and complete that step before booking your KvK appointment.
+- q: Who is this for?
+  a: See the section above on who benefits most from this service or guide.
+schema_type: Article
 ---
 
 Priya arrived in my office on a Tuesday morning, nine months after moving from Mumbai to Amsterdam on a highly skilled migrant visa. She had been working as a data consultant for a Dutch tech company the whole time, but three of her former clients — companies she had worked with before relocating — kept asking if she could do project work for them on the side. Her employer had given the green light. She had the clients, the skills, and the time. What she did not have was a KvK registration.

@@ -1,36 +1,48 @@
 ---
-title: "BSN Number Netherlands: How to Register Step by Step (2026)"
-date: 2026-03-10T10:00:00+01:00
-lastmod: 2026-04-23T10:00:00+01:00
-description: "Complete guide to getting your BSN number in the Netherlands. Gemeente registration, required documents, and appointment booking explained."
-categories: ["legal"]
-tags: ["BSN", "burgerservicenummer", "gemeente registration", "expat registration", "Dutch bureaucracy"]
-keywords: ["BSN number Netherlands", "how to get BSN", "gemeente registration expat", "BSN appointment", "burgerservicenummer guide"]
+title: 'BSN Number Netherlands: How to Register Step by Step (2026)'
+date: 2026-03-10 10:00:00+01:00
+lastmod: 2026-04-23 10:00:00+01:00
+description: Complete guide to getting your BSN number in the Netherlands. Gemeente registration, required documents, and appointment booking explained.
+categories:
+- legal
+tags:
+- BSN
+- burgerservicenummer
+- gemeente registration
+- expat registration
+- Dutch bureaucracy
+keywords:
+- BSN number Netherlands
+- how to get BSN
+- gemeente registration expat
+- BSN appointment
+- burgerservicenummer guide
 affiliate: true
 products:
-  - name: "IND"
-    url: "https://ind.nl/en"
-    price: "0.00"
-  - name: "Expatax"
-    url: "https://www.expatax.nl/"
-    price: "0.00"
-  - name: "Wise"
-    url: "https://go.expatnetherlandshub.com/wise?ref=/guides/legal/bsn-registration-guide-2026/"
-    price: "0.00"
-author: "Sarah van den Berg"
-author_bio: "Expat coach and relocation specialist. Half Dutch, half British, living in the Netherlands for over 10 years."
-featured_image: "/images/featured/bsn-registration-guide-2026.webp"
+- name: IND
+  url: https://ind.nl/en
+  price: '0.00'
+- name: Expatax
+  url: https://www.expatax.nl/
+  price: '0.00'
+- name: Wise
+  url: https://go.expatnetherlandshub.com/wise?ref=/guides/legal/bsn-registration-guide-2026/
+  price: '0.00'
+author: Sarah van den Berg
+author_bio: Expat coach and relocation specialist. Half Dutch, half British, living in the Netherlands for over 10 years.
+featured_image: /images/featured/bsn-registration-guide-2026.webp
 faq:
-  - q: "How long does it take to get a BSN in the Netherlands?"
-    a: "Once you attend your registration appointment at the gemeente, you receive your BSN immediately — it is printed on the confirmation letter. The challenge is getting the appointment itself. In Amsterdam, wait times can be 4-6 weeks. In smaller cities like Leiden or Delft, you can often get an appointment within 1-2 weeks."
-  - q: "Can I work in the Netherlands without a BSN?"
-    a: "Technically your employer can apply for a temporary BSN (sofinummer) through the Belastingdienst, but most employers prefer you to have a BSN before starting. You should book your gemeente appointment as early as possible — ideally before you arrive."
-  - q: "What documents do I need for BSN registration?"
-    a: "You need a valid passport, birth certificate (apostilled or legalised), proof of address in the Netherlands (rental contract or declaration from your landlord), and if applicable, a marriage certificate and your partner's documents. EU citizens need a valid passport or national ID. Non-EU citizens also need their residence permit or MVV sticker."
-  - q: "Can I register at any gemeente in the Netherlands?"
-    a: "No, you must register at the gemeente where you will be living. Your registration address must be a valid residential address in that municipality. You cannot register at a PO box or a business address."
-  - q: "What is the difference between a BSN and a sofinummer?"
-    a: "They are the same number. The sofinummer (social-fiscal number) was renamed to BSN (burgerservicenummer or citizen service number) in 2007. If you hear either term, they refer to the same 9-digit personal identification number used for tax, healthcare, and government services."
+- q: How long does it take to get a BSN in the Netherlands?
+  a: Once you attend your registration appointment at the gemeente, you receive your BSN immediately — it is printed on the confirmation letter. The challenge is getting the appointment itself. In Amsterdam, wait times can be 4-6 weeks. In smaller cities like Leiden or Delft, you can often get an appointment within 1-2 weeks.
+- q: Can I work in the Netherlands without a BSN?
+  a: Technically your employer can apply for a temporary BSN (sofinummer) through the Belastingdienst, but most employers prefer you to have a BSN before starting. You should book your gemeente appointment as early as possible — ideally before you arrive.
+- q: What documents do I need for BSN registration?
+  a: You need a valid passport, birth certificate (apostilled or legalised), proof of address in the Netherlands (rental contract or declaration from your landlord), and if applicable, a marriage certificate and your partner's documents. EU citizens need a valid passport or national ID. Non-EU citizens also need their residence permit or MVV sticker.
+- q: Can I register at any gemeente in the Netherlands?
+  a: No, you must register at the gemeente where you will be living. Your registration address must be a valid residential address in that municipality. You cannot register at a PO box or a business address.
+- q: What is the difference between a BSN and a sofinummer?
+  a: They are the same number. The sofinummer (social-fiscal number) was renamed to BSN (burgerservicenummer or citizen service number) in 2007. If you hear either term, they refer to the same 9-digit personal identification number used for tax, healthcare, and government services.
+schema_type: Article
 ---
 
 My first week in the Netherlands was a comedy of errors. I had a new job starting in two weeks, a flat I could barely afford in [Amsterdam](/cities/amsterdam/), and a growing list of things I couldn't do without a BSN number. I couldn't open a bank account. I couldn't register with a GP. I couldn't even set up a pay-as-you-go mobile plan without one. The gemeente's online booking system showed the next available appointment was five weeks away.

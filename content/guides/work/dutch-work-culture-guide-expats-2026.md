@@ -1,36 +1,47 @@
 ---
-title: "Dutch Work Culture: 15 Things Every Expat Should Know"
-date: 2026-03-13T10:00:00+01:00
-lastmod: 2026-04-23T10:00:00+01:00
-description: "Guide to Dutch work culture for expats. Direct feedback, flat hierarchy, borrels, holiday allowance and unwritten office rules."
-categories: ["work"]
-tags: ["Dutch work culture", "working in Netherlands", "office culture", "expat work", "Dutch directness"]
-keywords: ["Dutch work culture expats", "working in Netherlands culture", "Dutch office culture", "Dutch directness work"]
+title: 'Dutch Work Culture: 15 Things Every Expat Should Know'
+date: 2026-03-13 10:00:00+01:00
+lastmod: 2026-04-23 10:00:00+01:00
+description: Guide to Dutch work culture for expats. Direct feedback, flat hierarchy, borrels, holiday allowance and unwritten office rules.
+categories:
+- work
+tags:
+- Dutch work culture
+- working in Netherlands
+- office culture
+- expat work
+- Dutch directness
+keywords:
+- Dutch work culture expats
+- working in Netherlands culture
+- Dutch office culture
+- Dutch directness work
 affiliate: false
 products:
-  - name: "LinkedIn Premium"
-    url: "https://www.linkedin.com/premium/"
-    price: "29.99"
-  - name: "Undutchables"
-    url: "https://undutchables.nl/"
-    price: "0.00"
-  - name: "Together Abroad"
-    url: "https://www.togetherabroad.nl/"
-    price: "0.00"
-author: "Sarah van den Berg"
-author_bio: "Expat coach and relocation specialist. Half Dutch, half British, living in the Netherlands for over 10 years."
-featured_image: "/images/featured/dutch-work-culture-guide-expats-2026.webp"
+- name: LinkedIn Premium
+  url: https://www.linkedin.com/premium/
+  price: '29.99'
+- name: Undutchables
+  url: https://undutchables.nl/
+  price: '0.00'
+- name: Together Abroad
+  url: https://www.togetherabroad.nl/
+  price: '0.00'
+author: Sarah van den Berg
+author_bio: Expat coach and relocation specialist. Half Dutch, half British, living in the Netherlands for over 10 years.
+featured_image: /images/featured/dutch-work-culture-guide-expats-2026.webp
 faq:
-  - q: "What are typical working hours in the Netherlands?"
-    a: "The standard working week in the Netherlands is 36-40 hours, typically Monday to Friday from 9:00 to 17:00 or 17:30. Part-time work is extremely common — the Netherlands has the highest rate of part-time workers in Europe. Many Dutch employees work 4 days per week, and leaving the office at 17:00 sharp is perfectly normal and expected."
-  - q: "What is a borrel in Dutch work culture?"
-    a: "A borrel is an informal drinks gathering, usually on Friday afternoon after work (vrijdagmiddagborrel). It is a key social ritual in Dutch offices and an important way to build relationships with colleagues. Beer, wine, and bitterballen (fried meat snacks) are typical. Attending is technically optional but socially important, especially when you are new."
-  - q: "How direct are Dutch colleagues really?"
-    a: "Very direct. A Dutch colleague will tell you straight if your presentation was weak, your idea will not work, or your report needs rewriting. This is not meant as an insult — in Dutch culture, honest feedback is a sign of respect. It can feel harsh if you come from a culture that values indirect communication, but you will adjust and likely come to appreciate it."
-  - q: "What is vakantiegeld (holiday allowance)?"
-    a: "Vakantiegeld is a mandatory 8% holiday allowance on top of your gross annual salary, paid out as a lump sum in May or June. If your gross salary is EUR 4,000 per month, you receive approximately EUR 3,840 gross (12 x EUR 320) as a single payment in May. Some employers offer the option to spread it across monthly payments instead."
-  - q: "Is it normal to work part-time in the Netherlands?"
-    a: "Absolutely. The Netherlands is the part-time capital of the world. Nearly half of all Dutch workers work part-time, and there is no stigma attached to it. Parents commonly work 4 days (32 hours), and requesting part-time hours is a legal right after 6 months of employment (Wet Flexibel Werken). This applies to both men and women."
+- q: What are typical working hours in the Netherlands?
+  a: The standard working week in the Netherlands is 36-40 hours, typically Monday to Friday from 9:00 to 17:00 or 17:30. Part-time work is extremely common — the Netherlands has the highest rate of part-time workers in Europe. Many Dutch employees work 4 days per week, and leaving the office at 17:00 sharp is perfectly normal and expected.
+- q: What is a borrel in Dutch work culture?
+  a: A borrel is an informal drinks gathering, usually on Friday afternoon after work (vrijdagmiddagborrel). It is a key social ritual in Dutch offices and an important way to build relationships with colleagues. Beer, wine, and bitterballen (fried meat snacks) are typical. Attending is technically optional but socially important, especially when you are new.
+- q: How direct are Dutch colleagues really?
+  a: Very direct. A Dutch colleague will tell you straight if your presentation was weak, your idea will not work, or your report needs rewriting. This is not meant as an insult — in Dutch culture, honest feedback is a sign of respect. It can feel harsh if you come from a culture that values indirect communication, but you will adjust and likely come to appreciate it.
+- q: What is vakantiegeld (holiday allowance)?
+  a: Vakantiegeld is a mandatory 8% holiday allowance on top of your gross annual salary, paid out as a lump sum in May or June. If your gross salary is EUR 4,000 per month, you receive approximately EUR 3,840 gross (12 x EUR 320) as a single payment in May. Some employers offer the option to spread it across monthly payments instead.
+- q: Is it normal to work part-time in the Netherlands?
+  a: Absolutely. The Netherlands is the part-time capital of the world. Nearly half of all Dutch workers work part-time, and there is no stigma attached to it. Parents commonly work 4 days (32 hours), and requesting part-time hours is a legal right after 6 months of employment (Wet Flexibel Werken). This applies to both men and women.
+schema_type: Article
 ---
 
 I started my first day at a Dutch company wearing a blazer. My Dutch colleagues arrived in jeans and trainers. One of them — a senior manager, as I later found out — rolled up on a bicycle with a bag of groceries hanging from the handlebars. He wished me a cheerful "Hoi!" and disappeared into the kitchen to make his own coffee.

@@ -1,38 +1,44 @@
 ---
-title: "Moving to Maastricht as an Expat: Complete City Guide 2026"
-slug: "moving-to-maastricht-expat-guide-2026"
-date: 2026-03-07T10:00:00+01:00
-lastmod: 2026-04-23T10:00:00+01:00
-description: "Moving to Maastricht as an expat? This city guide covers housing, cost of living, neighbourhoods, registration, transport and work in 2026."
-categories: ["housing"]
-tags: ["maastricht", "city guide", "expat life", "relocation", "netherlands"]
-author: "Sarah van den Berg"
-author_bio: "Expat coach and relocation specialist. Half Dutch, half British, living in the Netherlands for over 10 years."
-featured_image: "/images/featured/moving-to-maastricht-expat-guide-2026.webp"
+title: 'Moving to Maastricht as an Expat: Complete City Guide 2026'
+slug: moving-to-maastricht-expat-guide-2026
+date: 2026-03-07 10:00:00+01:00
+lastmod: 2026-04-23 10:00:00+01:00
+description: Moving to Maastricht as an expat? This city guide covers housing, cost of living, neighbourhoods, registration, transport and work in 2026.
+categories:
+- housing
+tags:
+- maastricht
+- city guide
+- expat life
+- relocation
+- netherlands
+author: Sarah van den Berg
+author_bio: Expat coach and relocation specialist. Half Dutch, half British, living in the Netherlands for over 10 years.
+featured_image: /images/featured/moving-to-maastricht-expat-guide-2026.webp
 affiliate: false
-type: "city-guide"
-
+type: city-guide
 faq:
-  - q: "Is Maastricht a good city for expats?"
-    a: "Yes. Maastricht has a strong international community thanks to Maastricht University, a relaxed Burgundian culture, and good connections to Belgium and Germany. It is smaller and slower-paced than Amsterdam, which many expats find a welcome change."
-  - q: "How expensive is it to rent in Maastricht?"
-    a: "Cheaper than Amsterdam or Utrecht. A one-bedroom flat in the centre typically costs €900–€1,300 per month in 2026, while a room in a shared house runs €500–€750. Prices have risen but remain more manageable than in the Randstad."
-  - q: "Do people speak English in Maastricht?"
-    a: "Widely, yes. University staff, students, and most service workers are comfortable in English. You will also hear French and German regularly near the borders."
-  - q: "How do I register in Maastricht as an expat?"
-    a: "Book an appointment at Gemeente Maastricht, bring your passport and proof of address, and register to receive your BSN (citizen service number). EU citizens can stay indefinitely; non-EU citizens need a valid residence permit first."
-  - q: "Is Maastricht far from Amsterdam?"
-    a: "It takes about 2.5 hours by direct Intercity train from Amsterdam Centraal. It is closer to Liège (30 min), Aachen (45 min), and Brussels (1.5 hours) than to most Dutch cities."
+- q: Is Maastricht a good city for expats?
+  a: Yes. Maastricht has a strong international community thanks to Maastricht University, a relaxed Burgundian culture, and good connections to Belgium and Germany. It is smaller and slower-paced than Amsterdam, which many expats find a welcome change.
+- q: How expensive is it to rent in Maastricht?
+  a: Cheaper than Amsterdam or Utrecht. A one-bedroom flat in the centre typically costs €900–€1,300 per month in 2026, while a room in a shared house runs €500–€750. Prices have risen but remain more manageable than in the Randstad.
+- q: Do people speak English in Maastricht?
+  a: Widely, yes. University staff, students, and most service workers are comfortable in English. You will also hear French and German regularly near the borders.
+- q: How do I register in Maastricht as an expat?
+  a: Book an appointment at Gemeente Maastricht, bring your passport and proof of address, and register to receive your BSN (citizen service number). EU citizens can stay indefinitely; non-EU citizens need a valid residence permit first.
+- q: Is Maastricht far from Amsterdam?
+  a: It takes about 2.5 hours by direct Intercity train from Amsterdam Centraal. It is closer to Liège (30 min), Aachen (45 min), and Brussels (1.5 hours) than to most Dutch cities.
 products:
-  - name: "HousingAnywhere"
-    url: "https://housinganywhere.com/"
-    price: "0.00"
-  - name: "Kamernet"
-    url: "https://kamernet.nl/"
-    price: "0.00"
-  - name: "Pararius"
-    url: "https://www.pararius.com/"
-    price: "0.00"
+- name: HousingAnywhere
+  url: https://housinganywhere.com/
+  price: '0.00'
+- name: Kamernet
+  url: https://kamernet.nl/
+  price: '0.00'
+- name: Pararius
+  url: https://www.pararius.com/
+  price: '0.00'
+schema_type: Article
 ---
 
 I have a confession: I nearly moved to Utrecht.

@@ -1,33 +1,45 @@
 ---
-title: "Crypto Tax Netherlands 2026: Expat Guide"
-date: 2026-03-22T10:00:00+01:00
-lastmod: 2026-04-23T10:00:00+01:00
-description: "How crypto is taxed in the Netherlands in 2026: Box 3 rules, reporting requirements, staking, DeFi, NFTs, and the mistakes that get expats into trouble."
-categories: ["finance"]
-tags: ["crypto", "Box 3", "tax", "Bitcoin", "DeFi", "expat finance"]
-keywords: ["crypto tax Netherlands 2026", "Bitcoin tax Netherlands expat", "Box 3 crypto Netherlands", "how to declare crypto Netherlands"]
+title: 'Crypto Tax Netherlands 2026: Expat Guide'
+date: 2026-03-22 10:00:00+01:00
+lastmod: 2026-04-23 10:00:00+01:00
+description: 'How crypto is taxed in the Netherlands in 2026: Box 3 rules, reporting requirements, staking, DeFi, NFTs, and the mistakes that get expats into trouble.'
+categories:
+- finance
+tags:
+- crypto
+- Box 3
+- tax
+- Bitcoin
+- DeFi
+- expat finance
+keywords:
+- crypto tax Netherlands 2026
+- Bitcoin tax Netherlands expat
+- Box 3 crypto Netherlands
+- how to declare crypto Netherlands
 affiliate: false
-author: "Sarah van den Berg"
-author_bio: "Expat coach and writer at ExpatNetherlandsHub.com"
-featured_image: "/images/categories/finance.svg"
+author: Sarah van den Berg
+author_bio: Expat coach and writer at ExpatNetherlandsHub.com
+featured_image: /images/categories/finance.svg
 faq:
-  - q: "Do I pay tax on crypto profits in the Netherlands?"
-    a: "In most cases, no — not on profits directly. The Netherlands taxes crypto under Box 3, which is a wealth tax on your total net assets above approximately EUR 57,000 per person. You pay a deemed return tax on your crypto portfolio value on 1 January each year, regardless of whether you sold anything or made a gain. The tax rate is approximately 36% applied to a deemed return of around 5.88% on investment assets. However, if you are considered a professional trader or if crypto forms part of your business activities, profits can fall under Box 1 (income tax at up to 49.5%). This distinction is fact-specific and worth discussing with a tax advisor."
-  - q: "How do I declare crypto in my Dutch tax return?"
-    a: "You declare the total value of your crypto holdings on 1 January each year under Box 3 in your Dutch tax return (aangifte inkomstenbelasting). You add up the EUR value of all your holdings across all wallets and exchanges at the 1 January midnight value and enter this as an asset in the Box 3 section alongside your bank balances and other investments. Unlike DeGiro or Dutch banks, most crypto exchanges do not pre-fill this for you — you need to calculate and enter it manually. The Belastingdienst has stated explicitly that crypto assets must be declared."
-  - q: "What happens if I forget to declare my crypto holdings in the Netherlands?"
-    a: "Failing to declare crypto assets that should be reported under Box 3 is tax evasion in the Netherlands. The Belastingdienst has been actively working with major exchanges including Coinbase and Binance to obtain user data under EU DAC8 reporting requirements (which came into force from 2026). If undeclared assets are discovered, you face backdated tax assessments, interest charges, and potentially significant fines. The penalty for deliberate non-disclosure can be substantial. If you have not declared previous years correctly, a voluntary correction (vrijwillige verbetering) is possible and results in reduced penalties."
-  - q: "Is staking income taxed in the Netherlands?"
-    a: "This is genuinely unclear under Dutch law in 2026, and the Belastingdienst has not issued definitive guidance on staking specifically. The most widely accepted interpretation is that staking rewards are new assets, which are added to your Box 3 portfolio value. Some advisors argue that regular staking income from proof-of-stake tokens could be characterised as income (Box 1) if it is systematic and substantial. For most retail stakers with modest holdings, Box 3 treatment is the standard assumption — but if you are staking significant amounts, a conversation with a Dutch tax advisor specialising in crypto is worthwhile."
-  - q: "Do I need to declare crypto held on foreign exchanges?"
-    a: "Yes. Dutch tax residents must declare all worldwide assets in Box 3, regardless of where they are held. A Bitcoin wallet on Coinbase US, holdings on Kraken in the UK, or self-custody in a hardware wallet — all of these are subject to Dutch Box 3 reporting if you are a Dutch tax resident. The location of the exchange or wallet does not change your Dutch tax obligation."
-  - q: "What is DAC8 and how does it affect crypto holders in the Netherlands?"
-    a: "DAC8 is a European Union directive that requires crypto asset service providers (exchanges, brokers, wallet providers) operating in the EU to report user information — including account balances and transactions — to tax authorities in EU member states. From 2026, this means the Belastingdienst can automatically receive data from exchanges like Coinbase, Kraken, and others about Dutch residents' holdings. This significantly reduces the ability to hold undeclared crypto without detection. Non-EU exchanges are not covered by DAC8, but the Belastingdienst can request information through other international tax cooperation channels."
+- q: Do I pay tax on crypto profits in the Netherlands?
+  a: In most cases, no — not on profits directly. The Netherlands taxes crypto under Box 3, which is a wealth tax on your total net assets above approximately EUR 57,000 per person. You pay a deemed return tax on your crypto portfolio value on 1 January each year, regardless of whether you sold anything or made a gain. The tax rate is approximately 36% applied to a deemed return of around 5.88% on investment assets. However, if you are considered a professional trader or if crypto forms part of your business activities, profits can fall under Box 1 (income tax at up to 49.5%). This distinction is fact-specific and worth discussing with a tax advisor.
+- q: How do I declare crypto in my Dutch tax return?
+  a: You declare the total value of your crypto holdings on 1 January each year under Box 3 in your Dutch tax return (aangifte inkomstenbelasting). You add up the EUR value of all your holdings across all wallets and exchanges at the 1 January midnight value and enter this as an asset in the Box 3 section alongside your bank balances and other investments. Unlike DeGiro or Dutch banks, most crypto exchanges do not pre-fill this for you — you need to calculate and enter it manually. The Belastingdienst has stated explicitly that crypto assets must be declared.
+- q: What happens if I forget to declare my crypto holdings in the Netherlands?
+  a: Failing to declare crypto assets that should be reported under Box 3 is tax evasion in the Netherlands. The Belastingdienst has been actively working with major exchanges including Coinbase and Binance to obtain user data under EU DAC8 reporting requirements (which came into force from 2026). If undeclared assets are discovered, you face backdated tax assessments, interest charges, and potentially significant fines. The penalty for deliberate non-disclosure can be substantial. If you have not declared previous years correctly, a voluntary correction (vrijwillige verbetering) is possible and results in reduced penalties.
+- q: Is staking income taxed in the Netherlands?
+  a: This is genuinely unclear under Dutch law in 2026, and the Belastingdienst has not issued definitive guidance on staking specifically. The most widely accepted interpretation is that staking rewards are new assets, which are added to your Box 3 portfolio value. Some advisors argue that regular staking income from proof-of-stake tokens could be characterised as income (Box 1) if it is systematic and substantial. For most retail stakers with modest holdings, Box 3 treatment is the standard assumption — but if you are staking significant amounts, a conversation with a Dutch tax advisor specialising in crypto is worthwhile.
+- q: Do I need to declare crypto held on foreign exchanges?
+  a: Yes. Dutch tax residents must declare all worldwide assets in Box 3, regardless of where they are held. A Bitcoin wallet on Coinbase US, holdings on Kraken in the UK, or self-custody in a hardware wallet — all of these are subject to Dutch Box 3 reporting if you are a Dutch tax resident. The location of the exchange or wallet does not change your Dutch tax obligation.
+- q: What is DAC8 and how does it affect crypto holders in the Netherlands?
+  a: DAC8 is a European Union directive that requires crypto asset service providers (exchanges, brokers, wallet providers) operating in the EU to report user information — including account balances and transactions — to tax authorities in EU member states. From 2026, this means the Belastingdienst can automatically receive data from exchanges like Coinbase, Kraken, and others about Dutch residents' holdings. This significantly reduces the ability to hold undeclared crypto without detection. Non-EU exchanges are not covered by DAC8, but the Belastingdienst can request information through other international tax cooperation channels.
 products:
-  - name: "Wise"
-    url: "https://go.expatnetherlandshub.com/wise?ref=/blog/crypto-tax-netherlands-expats-2026/"
-    price: "0.00"
-    tag: "Currency Transfer"
+- name: Wise
+  url: https://go.expatnetherlandshub.com/wise?ref=/blog/crypto-tax-netherlands-expats-2026/
+  price: '0.00'
+  tag: Currency Transfer
+schema_type: Article
 ---
 
 I get a version of this question at least once a week: "I have some crypto — do I need to declare it in the Netherlands?"

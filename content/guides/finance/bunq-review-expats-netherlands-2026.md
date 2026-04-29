@@ -1,40 +1,50 @@
 ---
-title: "Bunq Review 2026: Is It Worth It for Expats?"
-date: 2026-05-29T10:00:00+01:00
-lastmod: 2026-04-23T10:00:00+01:00
-description: "A full bunq review from an expat perspective — pricing, features, sub-accounts, iDEAL, and how it compares to ING, ABN AMRO, Wise, and Revolut."
-categories: ["finance"]
-tags: ["bunq", "bank", "fintech", "expat banking"]
-keywords: ["bunq review expats", "bunq netherlands 2026", "bunq vs ing", "bunq expat account"]
+title: 'Bunq Review 2026: Is It Worth It for Expats?'
+date: 2026-05-29 10:00:00+01:00
+lastmod: 2026-04-23 10:00:00+01:00
+description: A full bunq review from an expat perspective — pricing, features, sub-accounts, iDEAL, and how it compares to ING, ABN AMRO, Wise, and Revolut.
+categories:
+- finance
+tags:
+- bunq
+- bank
+- fintech
+- expat banking
+keywords:
+- bunq review expats
+- bunq netherlands 2026
+- bunq vs ing
+- bunq expat account
 affiliate: true
-author: "Sarah van den Berg"
-author_bio: "Expat coach and relocation specialist. Half Dutch, half British, living in the Netherlands for over 10 years."
-featured_image: "/images/categories/finance.svg"
+author: Sarah van den Berg
+author_bio: Expat coach and relocation specialist. Half Dutch, half British, living in the Netherlands for over 10 years.
+featured_image: /images/categories/finance.svg
 products:
-  - name: "Wise"
-    url: "https://go.expatnetherlandshub.com/wise?ref=/guides/finance/bunq-review-expats-netherlands-2026/"
-    price: "0.00"
-  - name: "bunq"
-    url: "https://www.bunq.com/"
-    price: "2.99"
-  - name: "ING"
-    url: "https://www.ing.nl/particulier"
-    price: "0.00"
+- name: Wise
+  url: https://go.expatnetherlandshub.com/wise?ref=/guides/finance/bunq-review-expats-netherlands-2026/
+  price: '0.00'
+- name: bunq
+  url: https://www.bunq.com/
+  price: '2.99'
+- name: ING
+  url: https://www.ing.nl/particulier
+  price: '0.00'
 faq:
-  - q: "Does bunq work without a BSN?"
-    a: "You can start the bunq sign-up process before receiving your BSN, but full account functionality — including direct debits and iDEAL payments — requires a verified Dutch BSN. If you need banking before your BSN arrives, open a Wise account as a bridge."
-  - q: "Does bunq support iDEAL?"
-    a: "Yes. All paid bunq plans (Easy Bank, Easy Savings, Easy Money, Easy Green) support iDEAL payments. This is a significant advantage over Revolut, which does not support iDEAL at all, and makes bunq a genuinely usable daily account in the Netherlands."
-  - q: "Does bunq give a Dutch IBAN (NL IBAN)?"
-    a: "Yes. Every bunq account comes with a Dutch NL IBAN. This is important for Dutch salary payments, government communications, and many Dutch subscription services that specifically require a Dutch account number rather than a European IBAN."
-  - q: "What is the cheapest bunq plan for expats?"
-    a: "Easy Bank at EUR 2.99 per month is the entry-level plan. It includes one account, iDEAL, a debit card, and the basic app. For most expats who want to test bunq before committing, this is the right starting point. Easy Money at EUR 8.99 unlocks sub-accounts and most features you actually need."
-  - q: "How does bunq compare to Revolut for expats in the Netherlands?"
-    a: "Bunq has a real Dutch NL IBAN and supports iDEAL and direct debits, making it far more functional as a day-to-day Dutch account. Revolut has no NL IBAN and no iDEAL support. However, Revolut is cheaper (free tier available) and has better multi-currency spending features. Most expats who pick Revolut eventually add a Dutch bank account alongside it."
-  - q: "Is bunq customer service good?"
-    a: "This is bunq's weakest point. Support is handled via in-app chat and is AI-driven at first contact. Response times for complex issues can be slow, and there are no physical branches or phone lines. For routine transactions it is fine, but if you have a dispute or a complicated issue, expect to wait."
-  - q: "Can I use bunq as my sole bank account in the Netherlands?"
-    a: "Yes, and many expats do. With a Dutch NL IBAN, iDEAL, direct debits, a physical card, and savings features, bunq covers everything you need for daily Dutch life. The main limitation is the monthly fee, which makes it more expensive than traditional Dutch banks for basic use. Some expats pair it with Wise for international transfers."
+- q: Does bunq work without a BSN?
+  a: You can start the bunq sign-up process before receiving your BSN, but full account functionality — including direct debits and iDEAL payments — requires a verified Dutch BSN. If you need banking before your BSN arrives, open a Wise account as a bridge.
+- q: Does bunq support iDEAL?
+  a: Yes. All paid bunq plans (Easy Bank, Easy Savings, Easy Money, Easy Green) support iDEAL payments. This is a significant advantage over Revolut, which does not support iDEAL at all, and makes bunq a genuinely usable daily account in the Netherlands.
+- q: Does bunq give a Dutch IBAN (NL IBAN)?
+  a: Yes. Every bunq account comes with a Dutch NL IBAN. This is important for Dutch salary payments, government communications, and many Dutch subscription services that specifically require a Dutch account number rather than a European IBAN.
+- q: What is the cheapest bunq plan for expats?
+  a: Easy Bank at EUR 2.99 per month is the entry-level plan. It includes one account, iDEAL, a debit card, and the basic app. For most expats who want to test bunq before committing, this is the right starting point. Easy Money at EUR 8.99 unlocks sub-accounts and most features you actually need.
+- q: How does bunq compare to Revolut for expats in the Netherlands?
+  a: Bunq has a real Dutch NL IBAN and supports iDEAL and direct debits, making it far more functional as a day-to-day Dutch account. Revolut has no NL IBAN and no iDEAL support. However, Revolut is cheaper (free tier available) and has better multi-currency spending features. Most expats who pick Revolut eventually add a Dutch bank account alongside it.
+- q: Is bunq customer service good?
+  a: This is bunq's weakest point. Support is handled via in-app chat and is AI-driven at first contact. Response times for complex issues can be slow, and there are no physical branches or phone lines. For routine transactions it is fine, but if you have a dispute or a complicated issue, expect to wait.
+- q: Can I use bunq as my sole bank account in the Netherlands?
+  a: Yes, and many expats do. With a Dutch NL IBAN, iDEAL, direct debits, a physical card, and savings features, bunq covers everything you need for daily Dutch life. The main limitation is the monthly fee, which makes it more expensive than traditional Dutch banks for basic use. Some expats pair it with Wise for international transfers.
+schema_type: Review
 ---
 
 I have had a bunq account for three years. I also guide expats through their banking setup every week, which means I hear the same questions repeatedly: is bunq worth it? Is it better than ING? Does it actually work in the Netherlands or will it let me down at the Albert Heijn checkout?

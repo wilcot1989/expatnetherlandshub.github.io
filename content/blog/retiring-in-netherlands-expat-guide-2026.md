@@ -1,37 +1,51 @@
 ---
-title: "Retiring in the Netherlands as an Expat 2026"
-date: 2026-03-22T10:00:00+01:00
-lastmod: 2026-04-23T10:00:00+01:00
-description: "Retiring in the Netherlands as an expat: AOW entitlement, pension transfer, healthcare, US Social Security, cost of living, and tax implications explained."
-categories: ["finance"]
-tags: ["retiring netherlands expat", "AOW pension expats", "expat retirement Netherlands", "pension transfer Netherlands", "US Social Security Netherlands", "healthcare retirees Netherlands"]
-keywords: ["retiring in Netherlands as expat", "AOW entitlement expats netherlands", "pension transfer from abroad netherlands", "US Social Security Netherlands", "expat retirement healthcare netherlands", "cost of living retirement netherlands 2026"]
+title: Retiring in the Netherlands as an Expat 2026
+date: 2026-03-22 10:00:00+01:00
+lastmod: 2026-04-23 10:00:00+01:00
+description: 'Retiring in the Netherlands as an expat: AOW entitlement, pension transfer, healthcare, US Social Security, cost of living, and tax implications explained.'
+categories:
+- finance
+tags:
+- retiring netherlands expat
+- AOW pension expats
+- expat retirement Netherlands
+- pension transfer Netherlands
+- US Social Security Netherlands
+- healthcare retirees Netherlands
+keywords:
+- retiring in Netherlands as expat
+- AOW entitlement expats netherlands
+- pension transfer from abroad netherlands
+- US Social Security Netherlands
+- expat retirement healthcare netherlands
+- cost of living retirement netherlands 2026
 affiliate: true
-author: "Sarah van den Berg"
-author_bio: "Expat coach and writer at ExpatNetherlandsHub.com"
-featured_image: "/images/categories/finance.svg"
+author: Sarah van den Berg
+author_bio: Expat coach and writer at ExpatNetherlandsHub.com
+featured_image: /images/categories/finance.svg
 faq:
-  - q: "Can I retire in the Netherlands as a non-EU citizen?"
-    a: "EU/EEA citizens have the right to reside in the Netherlands indefinitely, including in retirement, provided they have sufficient income or savings and health insurance. Non-EU citizens face more complexity. There is no dedicated 'retirement visa' in the Netherlands. Most non-EU retirees who stay legally do so through a long-term residence permit (verblijfsvergunning) based on having lived legally in the Netherlands for 5+ years, through a Dutch partner's permit, or through a residence permit in a different EU country and using freedom of movement within the Schengen area. Americans, Canadians, Australians, and nationals of countries with bilateral agreements may have specific options — consult an immigration lawyer. For those not yet residing in the Netherlands, retiring here as a first-time arrival from a non-EU country is challenging without a specific qualifying basis."
-  - q: "How does AOW work and will I receive it as an expat retiree?"
-    a: "AOW (Algemene Ouderdomswet) is the Dutch state pension. You build up AOW entitlement at a rate of 2% per year of legal residence in the Netherlands between the ages of 15 and your AOW retirement age (67 years in 2026, subject to adjustment). 50 years of residence = 100% AOW. To receive any AOW, you must have lived or worked in the Netherlands for at least one year. The full AOW (2026 approximate figures) is approximately €1,400/month for a single person and €950/month per person in a couple. If you arrive in the Netherlands at age 50 and work until 67, you accrue 17 years × 2% = 34% of full AOW. You can top up missing AOW years voluntarily through the SVB (Sociale Verzekeringsbank) — this option is available up to 1 year before your AOW age."
-  - q: "Can I transfer my foreign pension to the Netherlands?"
-    a: "In some cases, yes. The Netherlands has tax treaties with many countries that govern how foreign pensions are taxed when paid to a Dutch resident. Whether you can physically transfer the pension capital (as opposed to just receiving payments) depends on the rules in your home country and the type of pension. UK defined contribution pensions, for example, can sometimes be transferred to a Qualifying Recognised Overseas Pension Scheme (QROPS) in the Netherlands, but this is complex and has tax implications in both countries. US 401(k)s and IRAs are generally not transferable to Dutch pension vehicles without significant adverse tax consequences. Always consult a qualified pension advisor with expertise in both countries before moving any pension capital."
-  - q: "What happens to my US Social Security if I retire in the Netherlands?"
-    a: "The US and the Netherlands have a bilateral totalization agreement, which prevents double social security taxation and allows periods of contributions in both countries to be combined for qualifying purposes. If you have worked in both the US and the Netherlands, your US Social Security benefit can be paid to you in the Netherlands — the SSA pays directly to a foreign bank account. Your US Social Security is generally taxable in the Netherlands under the US-Netherlands tax treaty (Article 17), though the specifics depend on the treaty version and your individual circumstances. It is subject to Dutch income tax at Box 1 rates. US Social Security is also partially taxable in the US depending on your total income. A dual-qualified US-Dutch tax advisor is essential."
-  - q: "What does healthcare for retirees in the Netherlands look like?"
-    a: "All Dutch residents must have Dutch health insurance, regardless of age or origin. In retirement, you pay the same standard monthly premium as everyone else (approximately €130–160/month for basic insurance in 2026), plus a government-set deductible (eigen risico) of approximately €385 per year. Retirees who are on lower incomes may qualify for zorgtoeslag (healthcare allowance). Unlike the UK NHS or some other systems, the Dutch system is insurance-based: you choose a private insurer from about a dozen options. The basic package is identical regardless of insurer; insurers compete on supplementary coverage and price. For retirees who need regular specialist care, GP visits, physiotherapy, and prescriptions, Dutch health insurance covers most needs effectively. Dental care for adults is not in the basic package and must be covered via supplementary insurance."
-  - q: "How does the Box 3 wealth tax affect expat retirees?"
-    a: "Box 3 applies to all Dutch residents' worldwide savings and investments above approximately €57,000 (single) or €114,000 (couple/fiscal partners). For retirees with significant savings or investment portfolios, Box 3 is an important ongoing cost. The deemed return for 2026 on investments is approximately 5.88%, taxed at 36%. On a €300,000 portfolio (€243,000 above the threshold), this produces approximately €5,150 of annual Box 3 tax. Retirees who plan their assets carefully — potentially through an annuity or lijfrente that reduces Box 3 exposure — can reduce this liability. A Dutch tax advisor can model your specific situation."
+- q: Can I retire in the Netherlands as a non-EU citizen?
+  a: EU/EEA citizens have the right to reside in the Netherlands indefinitely, including in retirement, provided they have sufficient income or savings and health insurance. Non-EU citizens face more complexity. There is no dedicated 'retirement visa' in the Netherlands. Most non-EU retirees who stay legally do so through a long-term residence permit (verblijfsvergunning) based on having lived legally in the Netherlands for 5+ years, through a Dutch partner's permit, or through a residence permit in a different EU country and using freedom of movement within the Schengen area. Americans, Canadians, Australians, and nationals of countries with bilateral agreements may have specific options — consult an immigration lawyer. For those not yet residing in the Netherlands, retiring here as a first-time arrival from a non-EU country is challenging without a specific qualifying basis.
+- q: How does AOW work and will I receive it as an expat retiree?
+  a: AOW (Algemene Ouderdomswet) is the Dutch state pension. You build up AOW entitlement at a rate of 2% per year of legal residence in the Netherlands between the ages of 15 and your AOW retirement age (67 years in 2026, subject to adjustment). 50 years of residence = 100% AOW. To receive any AOW, you must have lived or worked in the Netherlands for at least one year. The full AOW (2026 approximate figures) is approximately €1,400/month for a single person and €950/month per person in a couple. If you arrive in the Netherlands at age 50 and work until 67, you accrue 17 years × 2% = 34% of full AOW. You can top up missing AOW years voluntarily through the SVB (Sociale Verzekeringsbank) — this option is available up to 1 year before your AOW age.
+- q: Can I transfer my foreign pension to the Netherlands?
+  a: In some cases, yes. The Netherlands has tax treaties with many countries that govern how foreign pensions are taxed when paid to a Dutch resident. Whether you can physically transfer the pension capital (as opposed to just receiving payments) depends on the rules in your home country and the type of pension. UK defined contribution pensions, for example, can sometimes be transferred to a Qualifying Recognised Overseas Pension Scheme (QROPS) in the Netherlands, but this is complex and has tax implications in both countries. US 401(k)s and IRAs are generally not transferable to Dutch pension vehicles without significant adverse tax consequences. Always consult a qualified pension advisor with expertise in both countries before moving any pension capital.
+- q: What happens to my US Social Security if I retire in the Netherlands?
+  a: The US and the Netherlands have a bilateral totalization agreement, which prevents double social security taxation and allows periods of contributions in both countries to be combined for qualifying purposes. If you have worked in both the US and the Netherlands, your US Social Security benefit can be paid to you in the Netherlands — the SSA pays directly to a foreign bank account. Your US Social Security is generally taxable in the Netherlands under the US-Netherlands tax treaty (Article 17), though the specifics depend on the treaty version and your individual circumstances. It is subject to Dutch income tax at Box 1 rates. US Social Security is also partially taxable in the US depending on your total income. A dual-qualified US-Dutch tax advisor is essential.
+- q: What does healthcare for retirees in the Netherlands look like?
+  a: 'All Dutch residents must have Dutch health insurance, regardless of age or origin. In retirement, you pay the same standard monthly premium as everyone else (approximately €130–160/month for basic insurance in 2026), plus a government-set deductible (eigen risico) of approximately €385 per year. Retirees who are on lower incomes may qualify for zorgtoeslag (healthcare allowance). Unlike the UK NHS or some other systems, the Dutch system is insurance-based: you choose a private insurer from about a dozen options. The basic package is identical regardless of insurer; insurers compete on supplementary coverage and price. For retirees who need regular specialist care, GP visits, physiotherapy, and prescriptions, Dutch health insurance covers most needs effectively. Dental care for adults is not in the basic package and must be covered via supplementary insurance.'
+- q: How does the Box 3 wealth tax affect expat retirees?
+  a: Box 3 applies to all Dutch residents' worldwide savings and investments above approximately €57,000 (single) or €114,000 (couple/fiscal partners). For retirees with significant savings or investment portfolios, Box 3 is an important ongoing cost. The deemed return for 2026 on investments is approximately 5.88%, taxed at 36%. On a €300,000 portfolio (€243,000 above the threshold), this produces approximately €5,150 of annual Box 3 tax. Retirees who plan their assets carefully — potentially through an annuity or lijfrente that reduces Box 3 exposure — can reduce this liability. A Dutch tax advisor can model your specific situation.
 products:
-  - name: "Wise"
-    url: "https://go.expatnetherlandshub.com/wise?ref=/blog/retiring-in-netherlands-expat-guide-2026/"
-    price: "0.00"
-    tag: "Currency Transfer"
-  - name: "SafetyWing"
-    url: "https://go.expatnetherlandshub.com/safetywing?ref=/blog/retiring-in-netherlands-expat-guide-2026/"
-    price: "0.00"
-    tag: "Expat Insurance"
+- name: Wise
+  url: https://go.expatnetherlandshub.com/wise?ref=/blog/retiring-in-netherlands-expat-guide-2026/
+  price: '0.00'
+  tag: Currency Transfer
+- name: SafetyWing
+  url: https://go.expatnetherlandshub.com/safetywing?ref=/blog/retiring-in-netherlands-expat-guide-2026/
+  price: '0.00'
+  tag: Expat Insurance
+schema_type: Article
 ---
 
 Most of the expats I work with are in their thirties or forties — mid-career, planning ahead. But I have worked with an increasing number of people who are either retiring in the Netherlands having lived here for years, or who are considering the Netherlands as a retirement destination after careers that took them elsewhere.

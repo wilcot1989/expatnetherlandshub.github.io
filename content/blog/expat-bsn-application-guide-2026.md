@@ -1,37 +1,49 @@
 ---
-title: "Expat BSN Application Guide 2026: Step by Step"
-date: 2026-05-27T08:00:00+02:00
-lastmod: 2026-05-27T08:00:00+02:00
-description: "Get your Dutch BSN in 2026: appointment booking, required docs, edge cases for non-EU expats, and how to skip common 6-week delays."
-categories: ["legal"]
-tags: ["BSN", "registration", "expat", "immigration"]
-keywords: ["BSN application Netherlands expat", "DigiD BSN Netherlands", "BSN without fixed address", "non-EU BSN application", "gemeente appointment BSN", "burgerservicenummer expat 2026"]
+title: 'Expat BSN Application Guide 2026: Step by Step'
+date: 2026-05-27 08:00:00+02:00
+lastmod: 2026-05-27 08:00:00+02:00
+description: 'Get your Dutch BSN in 2026: appointment booking, required docs, edge cases for non-EU expats, and how to skip common 6-week delays.'
+categories:
+- legal
+tags:
+- BSN
+- registration
+- expat
+- immigration
+keywords:
+- BSN application Netherlands expat
+- DigiD BSN Netherlands
+- BSN without fixed address
+- non-EU BSN application
+- gemeente appointment BSN
+- burgerservicenummer expat 2026
 affiliate: true
-author: "Sarah van den Berg"
-author_bio: "Expatcoach and writer at ExpatNetherlandsHub.com"
-featured_image: "/images/categories/expat-life.svg"
+author: Sarah van den Berg
+author_bio: Expatcoach and writer at ExpatNetherlandsHub.com
+featured_image: /images/categories/expat-life.svg
 faq:
-  - q: "How long does it take to get a BSN in the Netherlands?"
-    a: "If you register at your gemeente (municipality) on arrival and bring all required documents, you typically receive your BSN within 3–5 working days. The appointment itself usually takes 20–40 minutes. Delays happen when documents are missing, your address is not yet in the BRP (Basisregistratie Personen), or your municipality has a backlog. In Amsterdam and Rotterdam the wait for an initial appointment can be 2–4 weeks — book immediately on arrival."
-  - q: "Can I get a BSN without a permanent address in the Netherlands?"
-    a: "Yes, but it is more complex. If you have no fixed address, you can register as a 'briefadres' (correspondence address) at a friend's address, a shelter, or in some cases at the municipality itself. You need written permission from the address holder and proof that you are actively seeking housing. Some municipalities are stricter than others about accepting briefadres registrations — Amsterdam, for example, requires a formal declaration form."
-  - q: "Do I need a BSN to open a Dutch bank account?"
-    a: "Traditional Dutch banks (ABN AMRO, ING, Rabobank) all require a BSN before opening a current account. However, Wise lets you open a EUR account with a Dutch NL IBAN using only your passport and address — no BSN required. This makes Wise the practical choice for day-one banking while you wait for your BSN. Once your BSN is issued, you can upgrade to a full Dutch bank account."
-  - q: "What documents do non-EU expats need for BSN registration?"
-    a: "Non-EU expats need: (1) valid passport or travel document; (2) valid residence permit or MVV entry visa sticker; (3) proof of address in the Netherlands (rental contract, purchase deed, or letter from the person you are staying with); (4) proof of civil status if applicable (birth certificate, marriage certificate) — these must be legalised (apostille) and translated into Dutch, English, French, or German by a sworn translator."
-  - q: "Can I get a BSN at the airport on arrival?"
-    a: "Yes, but only if your employer has pre-arranged it through IND and the Central Administration Office (RNI). The Amsterdam Schiphol Airport 'expat centre' can issue a BSN on the same day as your arrival for highly skilled migrants whose employer has filed an IND notification and submitted documents in advance. This service is not automatic — it requires employer action before your flight. Ask your HR or relocation company at least two weeks before travel."
-  - q: "I have been in the Netherlands for 6 weeks with no BSN — what do I do?"
-    a: "First, check whether you are registered in the BRP at your address. Log into MijnOverheid.nl (if you already have DigiD) or call your gemeente directly. A 6-week wait usually means one of three things: (1) your appointment is still pending — book immediately at gemeente.nl or your local municipality website; (2) your documents were incomplete at registration — the gemeente should have contacted you; (3) your address registration is disputed. Call your municipality's burgerzaken department and ask for the current status of your BRP registration."
-  - q: "Is a BSN the same as a DigiD?"
-    a: "No. The BSN (Burgerservicenummer) is your unique citizen service number — a permanent identifier used by the government, employers, banks, and healthcare providers. DigiD is a separate digital authentication tool that uses your BSN to let you log into Dutch government websites. You apply for DigiD separately at digid.nl after receiving your BSN. You need your BSN to activate DigiD, but the two are distinct."
-  - q: "Do EU citizens need a different process than non-EU citizens?"
-    a: "The BSN registration process at the gemeente is the same for EU and non-EU citizens. However, non-EU expats additionally need a valid residence permit or MVV visa before they can register. EU citizens only need their passport and proof of address. Non-EU citizens may also need legalised and translated civil status documents, which EU citizens often do not. The practical result: EU registration is usually faster and involves fewer documents."
+- q: How long does it take to get a BSN in the Netherlands?
+  a: If you register at your gemeente (municipality) on arrival and bring all required documents, you typically receive your BSN within 3–5 working days. The appointment itself usually takes 20–40 minutes. Delays happen when documents are missing, your address is not yet in the BRP (Basisregistratie Personen), or your municipality has a backlog. In Amsterdam and Rotterdam the wait for an initial appointment can be 2–4 weeks — book immediately on arrival.
+- q: Can I get a BSN without a permanent address in the Netherlands?
+  a: Yes, but it is more complex. If you have no fixed address, you can register as a 'briefadres' (correspondence address) at a friend's address, a shelter, or in some cases at the municipality itself. You need written permission from the address holder and proof that you are actively seeking housing. Some municipalities are stricter than others about accepting briefadres registrations — Amsterdam, for example, requires a formal declaration form.
+- q: Do I need a BSN to open a Dutch bank account?
+  a: Traditional Dutch banks (ABN AMRO, ING, Rabobank) all require a BSN before opening a current account. However, Wise lets you open a EUR account with a Dutch NL IBAN using only your passport and address — no BSN required. This makes Wise the practical choice for day-one banking while you wait for your BSN. Once your BSN is issued, you can upgrade to a full Dutch bank account.
+- q: What documents do non-EU expats need for BSN registration?
+  a: 'Non-EU expats need: (1) valid passport or travel document; (2) valid residence permit or MVV entry visa sticker; (3) proof of address in the Netherlands (rental contract, purchase deed, or letter from the person you are staying with); (4) proof of civil status if applicable (birth certificate, marriage certificate) — these must be legalised (apostille) and translated into Dutch, English, French, or German by a sworn translator.'
+- q: Can I get a BSN at the airport on arrival?
+  a: Yes, but only if your employer has pre-arranged it through IND and the Central Administration Office (RNI). The Amsterdam Schiphol Airport 'expat centre' can issue a BSN on the same day as your arrival for highly skilled migrants whose employer has filed an IND notification and submitted documents in advance. This service is not automatic — it requires employer action before your flight. Ask your HR or relocation company at least two weeks before travel.
+- q: I have been in the Netherlands for 6 weeks with no BSN — what do I do?
+  a: 'First, check whether you are registered in the BRP at your address. Log into MijnOverheid.nl (if you already have DigiD) or call your gemeente directly. A 6-week wait usually means one of three things: (1) your appointment is still pending — book immediately at gemeente.nl or your local municipality website; (2) your documents were incomplete at registration — the gemeente should have contacted you; (3) your address registration is disputed. Call your municipality''s burgerzaken department and ask for the current status of your BRP registration.'
+- q: Is a BSN the same as a DigiD?
+  a: No. The BSN (Burgerservicenummer) is your unique citizen service number — a permanent identifier used by the government, employers, banks, and healthcare providers. DigiD is a separate digital authentication tool that uses your BSN to let you log into Dutch government websites. You apply for DigiD separately at digid.nl after receiving your BSN. You need your BSN to activate DigiD, but the two are distinct.
+- q: Do EU citizens need a different process than non-EU citizens?
+  a: 'The BSN registration process at the gemeente is the same for EU and non-EU citizens. However, non-EU expats additionally need a valid residence permit or MVV visa before they can register. EU citizens only need their passport and proof of address. Non-EU citizens may also need legalised and translated civil status documents, which EU citizens often do not. The practical result: EU registration is usually faster and involves fewer documents.'
 products:
-  - name: "Wise"
-    url: "https://go.expatnetherlandshub.com/wise"
-    price: "0.00"
-    tag: "NL IBAN Without BSN"
+- name: Wise
+  url: https://go.expatnetherlandshub.com/wise
+  price: '0.00'
+  tag: NL IBAN Without BSN
+schema_type: Article
 ---
 
 When I arrived in the Netherlands from Australia in 2019, nobody told me the BSN was the key to everything. I assumed it was just a tax number — the kind of thing you sort out eventually. I was wrong. Within my first two weeks I needed it to open a bank account, sign my rental contract, register with a GP, and start my employment contract. I did not have it. I had not even booked an appointment yet.

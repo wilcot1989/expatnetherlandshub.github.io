@@ -1,42 +1,49 @@
 ---
-title: "Dutch Nationality: Become a Dutch Citizen as an Expat"
-slug: "dutch-nationality-guide-expats-2026"
-date: 2026-04-03T10:00:00+01:00
-lastmod: 2026-04-23T10:00:00+01:00
+title: 'Dutch Nationality: Become a Dutch Citizen as an Expat'
+slug: dutch-nationality-guide-expats-2026
+date: 2026-04-03 10:00:00+01:00
+lastmod: 2026-04-23 10:00:00+01:00
 draft: false
-author: "Sarah van den Berg"
-author_bio: "Expat coach and relocation specialist. Half Dutch, half British, living in the Netherlands for over 10 years."
-featured_image: "/images/featured/dutch-nationality-guide-expats-2026.webp"
-categories: ["legal"]
-tags: ["dutch nationality", "naturalisation", "citizenship", "expat netherlands", "inburgering"]
-type: "pillar"
+author: Sarah van den Berg
+author_bio: Expat coach and relocation specialist. Half Dutch, half British, living in the Netherlands for over 10 years.
+featured_image: /images/featured/dutch-nationality-guide-expats-2026.webp
+categories:
+- legal
+tags:
+- dutch nationality
+- naturalisation
+- citizenship
+- expat netherlands
+- inburgering
+type: pillar
 affiliate: false
 products:
-  - name: "Expatax"
-    url: "https://www.expatax.nl/"
-    price: "0.00"
-  - name: "Blue Umbrella"
-    url: "https://www.blueumbrella.nl/"
-    price: "0.00"
-  - name: "IND"
-    url: "https://ind.nl/en"
-    price: "0.00"
-description: "How to become a Dutch citizen in 2026. Residency requirements, inburgeringsexamen, dual nationality rules, costs, and the full process for expats."
+- name: Expatax
+  url: https://www.expatax.nl/
+  price: '0.00'
+- name: Blue Umbrella
+  url: https://www.blueumbrella.nl/
+  price: '0.00'
+- name: IND
+  url: https://ind.nl/en
+  price: '0.00'
+description: How to become a Dutch citizen in 2026. Residency requirements, inburgeringsexamen, dual nationality rules, costs, and the full process for expats.
 faq:
-  - q: "How long do I need to live in the Netherlands before I can apply for Dutch nationality?"
-    a: "In most cases, you need five years of uninterrupted legal residence in the Netherlands. There are exceptions: if you are married to or have a registered partnership with a Dutch citizen, the requirement drops to three years of cohabitation. Stateless persons may also qualify after three years."
-  - q: "Do I have to give up my current nationality to become Dutch?"
-    a: "The Netherlands generally does not allow dual nationality. You will normally be required to renounce your original nationality. However, there are significant exceptions: EU/EEA citizens, recognised refugees, people who would become stateless, and those whose country of origin does not allow renunciation are exempt from this rule."
-  - q: "What is the inburgeringsexamen and do I need it?"
-    a: "The inburgeringsexamen is the Dutch civic integration exam. It tests your Dutch language skills (speaking, listening, reading, writing) and knowledge of Dutch society. You need to pass it — or hold an equivalent qualification — to naturalise. There are exemptions for people who attended school in the Netherlands for at least eight years."
-  - q: "How much does naturalisation cost?"
-    a: "As of 2026, the government fee (leges) for a naturalisation application is €1,048 for a single adult. The option procedure is considerably cheaper at €188. Additional costs include language courses, official document translations, and apostilles, which can add several hundred euros to the total."
-  - q: "How long does the naturalisation process take?"
-    a: "From submitting your application to the ceremony, expect roughly 12 months. The IND has a statutory decision period of 12 months, though in practice many applications are processed in six to nine months. Delays most commonly occur when documents are missing or need to be legalised."
-  - q: "Can my children become Dutch at the same time?"
-    a: "Yes. Minor children (under 18) can be included in your naturalisation application at no extra cost. If your child is 16 or 17, they can also apply independently. Children born in the Netherlands to a naturalising parent acquire Dutch nationality automatically on the date the parent is naturalised."
-  - q: "What happens at the naturalisation ceremony?"
-    a: "The Netherlands requires a formal naturalisation ceremony at your municipality. You take a solemn declaration (plechtige verklaring) affirming your commitment to the Netherlands and its values. This is not optional — if you skip it without a valid reason, your naturalisation is void. Most municipalities make it a pleasant occasion, often with a small speech and a copy of the Dutch constitution."
+- q: How long do I need to live in the Netherlands before I can apply for Dutch nationality?
+  a: 'In most cases, you need five years of uninterrupted legal residence in the Netherlands. There are exceptions: if you are married to or have a registered partnership with a Dutch citizen, the requirement drops to three years of cohabitation. Stateless persons may also qualify after three years.'
+- q: Do I have to give up my current nationality to become Dutch?
+  a: 'The Netherlands generally does not allow dual nationality. You will normally be required to renounce your original nationality. However, there are significant exceptions: EU/EEA citizens, recognised refugees, people who would become stateless, and those whose country of origin does not allow renunciation are exempt from this rule.'
+- q: What is the inburgeringsexamen and do I need it?
+  a: The inburgeringsexamen is the Dutch civic integration exam. It tests your Dutch language skills (speaking, listening, reading, writing) and knowledge of Dutch society. You need to pass it — or hold an equivalent qualification — to naturalise. There are exemptions for people who attended school in the Netherlands for at least eight years.
+- q: How much does naturalisation cost?
+  a: As of 2026, the government fee (leges) for a naturalisation application is €1,048 for a single adult. The option procedure is considerably cheaper at €188. Additional costs include language courses, official document translations, and apostilles, which can add several hundred euros to the total.
+- q: How long does the naturalisation process take?
+  a: From submitting your application to the ceremony, expect roughly 12 months. The IND has a statutory decision period of 12 months, though in practice many applications are processed in six to nine months. Delays most commonly occur when documents are missing or need to be legalised.
+- q: Can my children become Dutch at the same time?
+  a: Yes. Minor children (under 18) can be included in your naturalisation application at no extra cost. If your child is 16 or 17, they can also apply independently. Children born in the Netherlands to a naturalising parent acquire Dutch nationality automatically on the date the parent is naturalised.
+- q: What happens at the naturalisation ceremony?
+  a: The Netherlands requires a formal naturalisation ceremony at your municipality. You take a solemn declaration (plechtige verklaring) affirming your commitment to the Netherlands and its values. This is not optional — if you skip it without a valid reason, your naturalisation is void. Most municipalities make it a pleasant occasion, often with a small speech and a copy of the Dutch constitution.
+schema_type: Article
 ---
 
 Over the past ten years, I've helped dozens of expats through the Dutch naturalisation process. I've sat in municipality waiting rooms, chased apostilled documents across three continents, and talked people through the dual nationality decision at midnight when they were panicking about what renunciation actually means.

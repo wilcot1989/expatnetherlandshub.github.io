@@ -1,33 +1,44 @@
 ---
-title: "Dealing with Loneliness as an Expat in NL"
-date: 2026-03-22T10:00:00+01:00
-lastmod: 2026-04-23T10:00:00+01:00
-description: "Expat loneliness in the Netherlands is real. An honest guide to why it happens, what Dutch social culture means for you, and how to build a real life."
-categories: ["daily-life"]
-tags: ["expat wellbeing", "mental health", "social life", "Dutch culture", "loneliness"]
-keywords: ["expat loneliness Netherlands", "making friends Netherlands expat", "Dutch social culture expats", "expat mental health Netherlands 2026"]
+title: Dealing with Loneliness as an Expat in NL
+date: 2026-03-22 10:00:00+01:00
+lastmod: 2026-04-23 10:00:00+01:00
+description: Expat loneliness in the Netherlands is real. An honest guide to why it happens, what Dutch social culture means for you, and how to build a real life.
+categories:
+- daily-life
+tags:
+- expat wellbeing
+- mental health
+- social life
+- Dutch culture
+- loneliness
+keywords:
+- expat loneliness Netherlands
+- making friends Netherlands expat
+- Dutch social culture expats
+- expat mental health Netherlands 2026
 affiliate: false
-author: "Sarah van den Berg"
-author_bio: "Expat coach and writer at ExpatNetherlandsHub.com"
-featured_image: "/images/categories/daily-life.svg"
+author: Sarah van den Berg
+author_bio: Expat coach and writer at ExpatNetherlandsHub.com
+featured_image: /images/categories/daily-life.svg
 faq:
-  - q: "Is it normal to feel lonely as an expat in the Netherlands?"
-    a: "Yes — it is very common and more widespread than most expats admit. Studies consistently show that social isolation is one of the top three challenges expats face globally, and the Netherlands specifically presents some cultural barriers that can make building friendships slower than in other countries. The Dutch social culture is not unfriendly, but it is more closed than many expats expect: strong existing social circles, structured rather than spontaneous socialising, and a cultural preference for privacy and directness. Feeling lonely in your first year in the Netherlands — or even your second — does not mean something is wrong with you."
-  - q: "Why do Dutch people seem so hard to get to know?"
-    a: "The Dutch have a cultural pattern sometimes called 'closed doors' — they have close friendships formed early in life (often school or university) that are maintained with considerable depth and loyalty, but they rarely expand these circles easily. This is not unfriendliness or rudeness; it is a different social model. Dutch people are not looking to make new best friends in the same way some more socially open cultures are. They are direct, which can initially feel blunt, but they mean it when they say something positive. The key shift for most expats is to stop trying to fit into Dutch social circles and instead build your social life through the international community and through organised activities where the common purpose creates a natural connection point."
-  - q: "What are the best apps and platforms for meeting people in the Netherlands as an expat?"
-    a: "The most effective platforms in 2026 are: Meetup (excellent in Amsterdam, Utrecht, and Rotterdam for activity-based groups including expat networking, hiking, language exchange, and board games); InterNations (specifically designed for expats, with local events in all major Dutch cities); Facebook Groups (search for '[your city] expats' — these groups are genuinely active and a quick way to find people in similar situations); Bumble BFF (the friend-finding mode of Bumble, increasingly popular with expats for finding women friends in particular); and Eventbrite for one-off events that align with your interests. WhatsApp groups within these communities are where the day-to-day connection happens once you have made initial contact."
-  - q: "How do I deal with seasonal depression as an expat in the Netherlands?"
-    a: "The Netherlands in autumn and winter — particularly November through February — is genuinely difficult for many expats. The country sits at 52 degrees north latitude, meaning very short days (sometimes as little as 7–8 hours of daylight in December), consistent grey cloud cover, and persistent rain. Seasonal Affective Disorder (SAD) is significantly more prevalent here than in many expats' home countries. Practical steps that help: a daylight lamp (lichttherapielamp) used for 20–30 minutes each morning from September onwards; maintaining an outdoor exercise routine even in bad weather (cycling in drizzle becomes oddly normal after a year); keeping social commitments scheduled even when the instinct is to hibernate; and being honest with yourself and your GP if you notice persistent low mood, fatigue, or loss of motivation. Many Dutch GPs are familiar with SAD and can advise."
-  - q: "Where can I find English-speaking therapists in the Netherlands?"
-    a: "English-speaking therapy options in the Netherlands include: the GGZ (Geestelijke Gezondheidszorg — Dutch mental health services), which refers you to psychologists covered by your basic health insurance after a GP referral; Psychology Today Netherlands (therapist directory with English-speaking filter); OpenUp (an employee assistance programme offered by many international employers — check your benefits); online platforms including Talkspace and BetterHelp which have English therapists available; and practices specifically serving expats such as The Human Connection (Amsterdam), Expat Therapy 4U (online directory), and various private psychologists in Amsterdam, The Hague, and Rotterdam who specifically advertise English services. Your GP (huisarts) is the starting point for insurance-covered referrals."
-  - q: "Is it worth joining InterNations as an expat in the Netherlands?"
-    a: "InterNations is worth trying, particularly in the first 1–2 years after arrival. The free membership gives access to community forums and some events; the paid Albatross membership (around EUR 10 per month) gives access to all events and the full platform. The quality varies significantly by city — Amsterdam and The Hague have the most active communities. InterNations events tend toward the slightly older, more professionally-oriented expat demographic. They are good for networking and for meeting people in a similar transition phase. They are less useful for building deep friendships, which tend to come from repeated contact in a shared-interest setting rather than one-off networking events."
+- q: Is it normal to feel lonely as an expat in the Netherlands?
+  a: 'Yes — it is very common and more widespread than most expats admit. Studies consistently show that social isolation is one of the top three challenges expats face globally, and the Netherlands specifically presents some cultural barriers that can make building friendships slower than in other countries. The Dutch social culture is not unfriendly, but it is more closed than many expats expect: strong existing social circles, structured rather than spontaneous socialising, and a cultural preference for privacy and directness. Feeling lonely in your first year in the Netherlands — or even your second — does not mean something is wrong with you.'
+- q: Why do Dutch people seem so hard to get to know?
+  a: The Dutch have a cultural pattern sometimes called 'closed doors' — they have close friendships formed early in life (often school or university) that are maintained with considerable depth and loyalty, but they rarely expand these circles easily. This is not unfriendliness or rudeness; it is a different social model. Dutch people are not looking to make new best friends in the same way some more socially open cultures are. They are direct, which can initially feel blunt, but they mean it when they say something positive. The key shift for most expats is to stop trying to fit into Dutch social circles and instead build your social life through the international community and through organised activities where the common purpose creates a natural connection point.
+- q: What are the best apps and platforms for meeting people in the Netherlands as an expat?
+  a: 'The most effective platforms in 2026 are: Meetup (excellent in Amsterdam, Utrecht, and Rotterdam for activity-based groups including expat networking, hiking, language exchange, and board games); InterNations (specifically designed for expats, with local events in all major Dutch cities); Facebook Groups (search for ''[your city] expats'' — these groups are genuinely active and a quick way to find people in similar situations); Bumble BFF (the friend-finding mode of Bumble, increasingly popular with expats for finding women friends in particular); and Eventbrite for one-off events that align with your interests. WhatsApp groups within these communities are where the day-to-day connection happens once you have made initial contact.'
+- q: How do I deal with seasonal depression as an expat in the Netherlands?
+  a: 'The Netherlands in autumn and winter — particularly November through February — is genuinely difficult for many expats. The country sits at 52 degrees north latitude, meaning very short days (sometimes as little as 7–8 hours of daylight in December), consistent grey cloud cover, and persistent rain. Seasonal Affective Disorder (SAD) is significantly more prevalent here than in many expats'' home countries. Practical steps that help: a daylight lamp (lichttherapielamp) used for 20–30 minutes each morning from September onwards; maintaining an outdoor exercise routine even in bad weather (cycling in drizzle becomes oddly normal after a year); keeping social commitments scheduled even when the instinct is to hibernate; and being honest with yourself and your GP if you notice persistent low mood, fatigue, or loss of motivation. Many Dutch GPs are familiar with SAD and can advise.'
+- q: Where can I find English-speaking therapists in the Netherlands?
+  a: 'English-speaking therapy options in the Netherlands include: the GGZ (Geestelijke Gezondheidszorg — Dutch mental health services), which refers you to psychologists covered by your basic health insurance after a GP referral; Psychology Today Netherlands (therapist directory with English-speaking filter); OpenUp (an employee assistance programme offered by many international employers — check your benefits); online platforms including Talkspace and BetterHelp which have English therapists available; and practices specifically serving expats such as The Human Connection (Amsterdam), Expat Therapy 4U (online directory), and various private psychologists in Amsterdam, The Hague, and Rotterdam who specifically advertise English services. Your GP (huisarts) is the starting point for insurance-covered referrals.'
+- q: Is it worth joining InterNations as an expat in the Netherlands?
+  a: InterNations is worth trying, particularly in the first 1–2 years after arrival. The free membership gives access to community forums and some events; the paid Albatross membership (around EUR 10 per month) gives access to all events and the full platform. The quality varies significantly by city — Amsterdam and The Hague have the most active communities. InterNations events tend toward the slightly older, more professionally-oriented expat demographic. They are good for networking and for meeting people in a similar transition phase. They are less useful for building deep friendships, which tend to come from repeated contact in a shared-interest setting rather than one-off networking events.
 products:
-  - name: "SafetyWing"
-    url: "https://go.expatnetherlandshub.com/safetywing?ref=/blog/lonely-expat-netherlands-guide-2026/"
-    price: "0.00"
-    tag: "Expat Insurance"
+- name: SafetyWing
+  url: https://go.expatnetherlandshub.com/safetywing?ref=/blog/lonely-expat-netherlands-guide-2026/
+  price: '0.00'
+  tag: Expat Insurance
+schema_type: Article
 ---
 
 I want to start this piece with something I do not say often enough in my work: moving to the Netherlands and feeling genuinely lonely — sometimes devastatingly so — is one of the most common experiences I hear about from expat clients, and one of the least talked about.

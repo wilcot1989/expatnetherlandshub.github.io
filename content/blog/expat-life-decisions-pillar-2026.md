@@ -1,88 +1,90 @@
 ---
-title: "Expat Life Decisions Pillar 2026: Your 10-Step Framework"
-description: "Banking, health, utilities, insurance, taxes — the complete 10-step decision framework for moving to and living in the Netherlands."
+title: 'Expat Life Decisions Pillar 2026: Your 10-Step Framework'
+description: Banking, health, utilities, insurance, taxes — the complete 10-step decision framework for moving to and living in the Netherlands.
 date: 2026-04-30
-author: "Sarah van den Berg"
-author_bio: "Expat coach and writer at ExpatNetherlandsHub.com"
-featured_image: "/images/categories/expat-life.svg"
-categories: ["expat-life"]
+author: Sarah van den Berg
+author_bio: Expat coach and writer at ExpatNetherlandsHub.com
+featured_image: /images/categories/expat-life.svg
+categories:
+- expat-life
 affiliate: true
 faq:
-  - question: "Do I need a BSN before I can open a bank account in the Netherlands?"
-    answer: "Not always. Wise and Revolut work without a Dutch BSN. However, for a traditional Dutch bank account at ABN AMRO, ING, or Rabobank, you'll need your BSN first. Get registered at your municipality as early as possible."
-  - question: "How long do I have to arrange health insurance after arriving?"
-    answer: "You have 4 months from the date you register in the BRP (municipality register). Missing this window can result in a fine and backdated premiums. Don't delay — apply within the first month if possible."
-  - question: "What is the 30% ruling and am I eligible?"
-    answer: "The 30% ruling allows qualifying expats to receive 30% of their gross salary tax-free. You must be recruited from abroad, earn above the income threshold (€46,107 in 2026 for most), and have lived more than 150km from the Dutch border for at least 16 of the 24 months before your first day of work."
-  - question: "Can I work as a freelancer (ZZP) in the Netherlands without Dutch citizenship?"
-    answer: "Yes, EU/EEA citizens can register as ZZP'er freely. Non-EU expats need a work permit that covers self-employment, or must apply for a self-employment residence permit. Register at the KVK (Chamber of Commerce) to get your KVK number."
-  - question: "Is Dutch language integration mandatory?"
-    answer: "For non-EU citizens who hold a residence permit that requires civic integration (inburgering), Dutch language courses are mandatory. EU citizens are exempt. The integration exam must be passed within 3 years of arrival in most cases."
-  - question: "What documents do I need to register my address in the Netherlands?"
-    answer: "A valid passport or ID, proof of address (rental contract or a letter from your landlord/host), and sometimes a birth certificate. Non-EU citizens also need their residence permit. Make an appointment at your local gemeente (municipality) in advance."
-  - question: "How does the Dutch rental market work and what should I avoid?"
-    answer: "The Dutch rental market is competitive, especially in Amsterdam, Rotterdam, and Utrecht. Avoid listings that ask for payment before viewing, landlords who won't provide a formal rental contract, and rentals priced suspiciously below market rate. Always verify the landlord's identity and use a written contract."
-  - question: "What is a DigiD and why do I need one?"
-    answer: "DigiD is your digital identity for Dutch government services — tax authority (Belastingdienst), health insurance, and municipal services all require it. Apply online at digid.nl after you have your BSN. The activation letter takes about a week by post."
-  - question: "When should I file the M-form (M-biljet)?"
-    answer: "The M-form (Migrant form) applies in the tax year you first arrive or leave the Netherlands. It covers periods of partial residency. The Belastingdienst usually sends it automatically, but you can request it if you don't receive it by April of the following year."
-  - question: "Is SafetyWing a replacement for Dutch health insurance (zorgverzekering)?"
-    answer: "No. SafetyWing is travel medical insurance — useful for short stays or while waiting for your Dutch health insurance to kick in. Once you're registered and legally residing in the Netherlands, you are required by law to take out a Dutch health insurance policy (zorgverzekering)."
-  - question: "What are typical utility costs for an expat in the Netherlands?"
-    answer: "Energy (gas + electricity) averages €100–€180/month depending on home size and provider. Internet runs €25–€45/month. Mobile plans start at around €10/month for SIM-only. In Amsterdam, add about 20–30% to these estimates due to higher living costs."
-  - question: "Can I use my foreign driving licence in the Netherlands?"
-    answer: "EU/EEA licence holders can drive indefinitely. Most other nationalities can drive for up to 6 months, after which they must exchange for a Dutch licence. Some countries have exchange agreements (USA, Canada, Japan, South Korea). Check the RDW website for your specific country."
-  - question: "What is the AOW and will I receive a Dutch pension?"
-    answer: "AOW is the Dutch state pension. You build up 2% per year of legal residence in the Netherlands. If you live here for 50 years, you get a full pension. Gaps in coverage can be purchased. Many expats also have pension through their employer (second pillar) and private investments (third pillar)."
-  - question: "How do I choose between Wise, Revolut, and a Dutch bank account?"
-    answer: "Short stays: Wise for transfers, SafetyWing for insurance coverage. Medium stays: Wise as primary + Dutch account for salary. Permanent settlers: full Dutch bank (ABN, ING, Rabobank) for mortgage eligibility + Wise for international transfers."
-  - question: "What is the biggest financial mistake expats make in the Netherlands?"
-    answer: "Missing the 30% ruling application window. You must apply within 4 months of your first working day in the Netherlands. If your employer misses this deadline, you lose the benefit for that employer entirely. The second biggest mistake is not filing the M-form in your first year, leaving money on the table."
+- question: Do I need a BSN before I can open a bank account in the Netherlands?
+  answer: Not always. Wise and Revolut work without a Dutch BSN. However, for a traditional Dutch bank account at ABN AMRO, ING, or Rabobank, you'll need your BSN first. Get registered at your municipality as early as possible.
+- question: How long do I have to arrange health insurance after arriving?
+  answer: You have 4 months from the date you register in the BRP (municipality register). Missing this window can result in a fine and backdated premiums. Don't delay — apply within the first month if possible.
+- question: What is the 30% ruling and am I eligible?
+  answer: The 30% ruling allows qualifying expats to receive 30% of their gross salary tax-free. You must be recruited from abroad, earn above the income threshold (€46,107 in 2026 for most), and have lived more than 150km from the Dutch border for at least 16 of the 24 months before your first day of work.
+- question: Can I work as a freelancer (ZZP) in the Netherlands without Dutch citizenship?
+  answer: Yes, EU/EEA citizens can register as ZZP'er freely. Non-EU expats need a work permit that covers self-employment, or must apply for a self-employment residence permit. Register at the KVK (Chamber of Commerce) to get your KVK number.
+- question: Is Dutch language integration mandatory?
+  answer: For non-EU citizens who hold a residence permit that requires civic integration (inburgering), Dutch language courses are mandatory. EU citizens are exempt. The integration exam must be passed within 3 years of arrival in most cases.
+- question: What documents do I need to register my address in the Netherlands?
+  answer: A valid passport or ID, proof of address (rental contract or a letter from your landlord/host), and sometimes a birth certificate. Non-EU citizens also need their residence permit. Make an appointment at your local gemeente (municipality) in advance.
+- question: How does the Dutch rental market work and what should I avoid?
+  answer: The Dutch rental market is competitive, especially in Amsterdam, Rotterdam, and Utrecht. Avoid listings that ask for payment before viewing, landlords who won't provide a formal rental contract, and rentals priced suspiciously below market rate. Always verify the landlord's identity and use a written contract.
+- question: What is a DigiD and why do I need one?
+  answer: DigiD is your digital identity for Dutch government services — tax authority (Belastingdienst), health insurance, and municipal services all require it. Apply online at digid.nl after you have your BSN. The activation letter takes about a week by post.
+- question: When should I file the M-form (M-biljet)?
+  answer: The M-form (Migrant form) applies in the tax year you first arrive or leave the Netherlands. It covers periods of partial residency. The Belastingdienst usually sends it automatically, but you can request it if you don't receive it by April of the following year.
+- question: Is SafetyWing a replacement for Dutch health insurance (zorgverzekering)?
+  answer: No. SafetyWing is travel medical insurance — useful for short stays or while waiting for your Dutch health insurance to kick in. Once you're registered and legally residing in the Netherlands, you are required by law to take out a Dutch health insurance policy (zorgverzekering).
+- question: What are typical utility costs for an expat in the Netherlands?
+  answer: Energy (gas + electricity) averages €100–€180/month depending on home size and provider. Internet runs €25–€45/month. Mobile plans start at around €10/month for SIM-only. In Amsterdam, add about 20–30% to these estimates due to higher living costs.
+- question: Can I use my foreign driving licence in the Netherlands?
+  answer: EU/EEA licence holders can drive indefinitely. Most other nationalities can drive for up to 6 months, after which they must exchange for a Dutch licence. Some countries have exchange agreements (USA, Canada, Japan, South Korea). Check the RDW website for your specific country.
+- question: What is the AOW and will I receive a Dutch pension?
+  answer: AOW is the Dutch state pension. You build up 2% per year of legal residence in the Netherlands. If you live here for 50 years, you get a full pension. Gaps in coverage can be purchased. Many expats also have pension through their employer (second pillar) and private investments (third pillar).
+- question: How do I choose between Wise, Revolut, and a Dutch bank account?
+  answer: 'Short stays: Wise for transfers, SafetyWing for insurance coverage. Medium stays: Wise as primary + Dutch account for salary. Permanent settlers: full Dutch bank (ABN, ING, Rabobank) for mortgage eligibility + Wise for international transfers.'
+- question: What is the biggest financial mistake expats make in the Netherlands?
+  answer: Missing the 30% ruling application window. You must apply within 4 months of your first working day in the Netherlands. If your employer misses this deadline, you lose the benefit for that employer entirely. The second biggest mistake is not filing the M-form in your first year, leaving money on the table.
 products:
-  - name: "Wise"
-    slug: "wise"
-    category: "banking"
-    affiliate: true
-  - name: "Revolut"
-    slug: "revolut"
-    category: "banking"
-    affiliate: true
-  - name: "Independer Zorgverzekering"
-    slug: "independer-zorg"
-    category: "health-insurance"
-    affiliate: true
-  - name: "Independer Internet"
-    slug: "independer-internet"
-    category: "utilities"
-    affiliate: true
-  - name: "Independer Energie"
-    slug: "independer-energie"
-    category: "utilities"
-    affiliate: true
-  - name: "Independer Auto"
-    slug: "independer-auto"
-    category: "insurance"
-    affiliate: true
-  - name: "Independer Telecom"
-    slug: "independer-telecom"
-    category: "utilities"
-    affiliate: true
-  - name: "SafetyWing"
-    slug: "safetywing"
-    category: "insurance"
-    affiliate: true
-  - name: "NordVPN"
-    slug: "nordvpn"
-    category: "security"
-    affiliate: true
-  - name: "Preply"
-    slug: "preply"
-    category: "education"
-    affiliate: true
-  - name: "Mondly"
-    slug: "mondly"
-    category: "education"
-    affiliate: true
+- name: Wise
+  slug: wise
+  category: banking
+  affiliate: true
+- name: Revolut
+  slug: revolut
+  category: banking
+  affiliate: true
+- name: Independer Zorgverzekering
+  slug: independer-zorg
+  category: health-insurance
+  affiliate: true
+- name: Independer Internet
+  slug: independer-internet
+  category: utilities
+  affiliate: true
+- name: Independer Energie
+  slug: independer-energie
+  category: utilities
+  affiliate: true
+- name: Independer Auto
+  slug: independer-auto
+  category: insurance
+  affiliate: true
+- name: Independer Telecom
+  slug: independer-telecom
+  category: utilities
+  affiliate: true
+- name: SafetyWing
+  slug: safetywing
+  category: insurance
+  affiliate: true
+- name: NordVPN
+  slug: nordvpn
+  category: security
+  affiliate: true
+- name: Preply
+  slug: preply
+  category: education
+  affiliate: true
+- name: Mondly
+  slug: mondly
+  category: education
+  affiliate: true
+schema_type: Article
 ---
 
 I moved to the Netherlands in 2018. I came from Madrid with two suitcases, a job offer, and absolutely no idea what I was getting into.

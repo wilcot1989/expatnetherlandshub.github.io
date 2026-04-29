@@ -1,33 +1,45 @@
 ---
-title: "DSW Health Insurance Review for Expats 2026"
-date: 2026-03-22T08:00:00+01:00
-lastmod: 2026-04-23T10:00:00+01:00
-description: "DSW health insurance reviewed for expats in 2026. Premiums, coverage, English support, and how it compares to other Dutch insurers."
-categories: ["health"]
-tags: ["dsw", "health insurance", "basisverzekering", "expat insurance", "dutch health insurance", "zorgverzekering"]
-keywords: ["DSW health insurance expats", "DSW zorgverzekering review", "DSW health insurance netherlands", "DSW expat review 2026"]
+title: DSW Health Insurance Review for Expats 2026
+date: 2026-03-22 08:00:00+01:00
+lastmod: 2026-04-23 10:00:00+01:00
+description: DSW health insurance reviewed for expats in 2026. Premiums, coverage, English support, and how it compares to other Dutch insurers.
+categories:
+- health
+tags:
+- dsw
+- health insurance
+- basisverzekering
+- expat insurance
+- dutch health insurance
+- zorgverzekering
+keywords:
+- DSW health insurance expats
+- DSW zorgverzekering review
+- DSW health insurance netherlands
+- DSW expat review 2026
 affiliate: true
-author: "Sarah van den Berg"
-author_bio: "Expat coach and relocation specialist. Half Dutch, half British, living in the Netherlands for over 10 years."
-featured_image: "/images/featured/dsw-health-insurance-review-expats-2026.webp"
+author: Sarah van den Berg
+author_bio: Expat coach and relocation specialist. Half Dutch, half British, living in the Netherlands for over 10 years.
+featured_image: /images/featured/dsw-health-insurance-review-expats-2026.webp
 faq:
-  - q: "Is DSW a good insurer for expats?"
-    a: "DSW is a regional insurer based in the Rotterdam area. It consistently scores well in Dutch customer satisfaction surveys and has a relatively simple product range. The downside for expats is limited English-language support and a smaller contracted care network outside the south-west Netherlands. If you live in Rotterdam, Zeeland, or South Holland, DSW is worth serious consideration. If you live elsewhere in the country, a national insurer may give you a wider contracted care network."
-  - q: "What is DSW's basic insurance premium in 2026?"
-    a: "DSW's basisverzekering premium in 2026 is approximately EUR 149 per month for the restitutie (reimbursement) policy and around EUR 143 per month for the natura (in-kind) policy. These are among the lower premiums on the market. You can reduce your premium further by increasing your voluntary eigen risico (deductible) above the mandatory EUR 385."
-  - q: "Does DSW offer English-language customer service?"
-    a: "DSW does not offer a dedicated English-language customer service line. Most communication is in Dutch. That said, many customer service representatives speak basic English. For complex queries — especially around reimbursements, supplementary coverage, or deregistration — you may need someone to help you communicate or use a translation tool."
-  - q: "What supplementary insurance does DSW offer?"
-    a: "DSW offers supplementary (aanvullende) packages called DSW Aanvullend 1, 2, and 3, plus a separate tandarts (dental) package. The higher-tier packages add physiotherapy sessions, orthodontics, alternative therapies, and travel vaccinations. Most expats find DSW Aanvullend 2 a practical balance of cost and coverage."
-  - q: "How do I register with DSW as an expat?"
-    a: "You register online at dsw.nl. You will need your BSN (Burger Service Number), bank details for the direct debit, and your date of municipality registration. The process is in Dutch, but the form is relatively simple. Coverage starts from your registration date if you apply within four months of registering in the Netherlands."
-  - q: "Can I use DSW insurance at any hospital in the Netherlands?"
-    a: "With the restitutie (reimbursement) policy, you can use any hospital in the Netherlands, including non-contracted ones, and DSW reimburses you for the reasonable cost. With the natura (in-kind) policy, you get full coverage only at contracted hospitals. Contracted care is strongest in DSW's home region of south-west Netherlands. Check the DSW website or contact your preferred hospital before choosing a policy type."
+- q: Is DSW a good insurer for expats?
+  a: DSW is a regional insurer based in the Rotterdam area. It consistently scores well in Dutch customer satisfaction surveys and has a relatively simple product range. The downside for expats is limited English-language support and a smaller contracted care network outside the south-west Netherlands. If you live in Rotterdam, Zeeland, or South Holland, DSW is worth serious consideration. If you live elsewhere in the country, a national insurer may give you a wider contracted care network.
+- q: What is DSW's basic insurance premium in 2026?
+  a: DSW's basisverzekering premium in 2026 is approximately EUR 149 per month for the restitutie (reimbursement) policy and around EUR 143 per month for the natura (in-kind) policy. These are among the lower premiums on the market. You can reduce your premium further by increasing your voluntary eigen risico (deductible) above the mandatory EUR 385.
+- q: Does DSW offer English-language customer service?
+  a: DSW does not offer a dedicated English-language customer service line. Most communication is in Dutch. That said, many customer service representatives speak basic English. For complex queries — especially around reimbursements, supplementary coverage, or deregistration — you may need someone to help you communicate or use a translation tool.
+- q: What supplementary insurance does DSW offer?
+  a: DSW offers supplementary (aanvullende) packages called DSW Aanvullend 1, 2, and 3, plus a separate tandarts (dental) package. The higher-tier packages add physiotherapy sessions, orthodontics, alternative therapies, and travel vaccinations. Most expats find DSW Aanvullend 2 a practical balance of cost and coverage.
+- q: How do I register with DSW as an expat?
+  a: You register online at dsw.nl. You will need your BSN (Burger Service Number), bank details for the direct debit, and your date of municipality registration. The process is in Dutch, but the form is relatively simple. Coverage starts from your registration date if you apply within four months of registering in the Netherlands.
+- q: Can I use DSW insurance at any hospital in the Netherlands?
+  a: With the restitutie (reimbursement) policy, you can use any hospital in the Netherlands, including non-contracted ones, and DSW reimburses you for the reasonable cost. With the natura (in-kind) policy, you get full coverage only at contracted hospitals. Contracted care is strongest in DSW's home region of south-west Netherlands. Check the DSW website or contact your preferred hospital before choosing a policy type.
 products:
-  - name: "SafetyWing"
-    url: "https://go.expatnetherlandshub.com/safetywing?ref=/blog/dsw-health-insurance-review-expats-2026/"
-    price: "0.00"
-    tag: "Expat Insurance"
+- name: SafetyWing
+  url: https://go.expatnetherlandshub.com/safetywing?ref=/blog/dsw-health-insurance-review-expats-2026/
+  price: '0.00'
+  tag: Expat Insurance
+schema_type: Review
 ---
 
 I have been reviewing Dutch health insurers for expats for several years now, and DSW is one that often gets overlooked in favour of the larger national brands. That is a shame, because for certain expats — particularly those living in or near Rotterdam — DSW can be genuinely excellent value.

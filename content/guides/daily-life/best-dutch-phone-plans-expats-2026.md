@@ -1,39 +1,45 @@
 ---
-title: "Best Dutch Phone Plans for Expats in 2026"
-slug: "best-dutch-phone-plans-expats-2026"
-date: 2026-04-17T10:00:00+01:00
-lastmod: 2026-04-23T10:00:00+01:00
+title: Best Dutch Phone Plans for Expats in 2026
+slug: best-dutch-phone-plans-expats-2026
+date: 2026-04-17 10:00:00+01:00
+lastmod: 2026-04-23 10:00:00+01:00
 draft: false
-type: "guide"
-categories: ["daily-life"]
-description: "The best Dutch phone plans for expats in 2026 — from budget SIM cards to unlimited data. Real advice from someone who's lived here 10 years."
-featured_image: "/images/featured/best-dutch-phone-plans-expats-2026.webp"
+type: guide
+categories:
+- daily-life
+description: The best Dutch phone plans for expats in 2026 — from budget SIM cards to unlimited data. Real advice from someone who's lived here 10 years.
+featured_image: /images/featured/best-dutch-phone-plans-expats-2026.webp
 affiliate: false
 products:
-  - name: "KPN"
-    url: "https://www.kpn.com/"
-    price: "0.00"
-  - name: "T-Mobile"
-    url: "https://www.t-mobile.nl/"
-    price: "0.00"
-  - name: "Ziggo"
-    url: "https://www.ziggo.nl/"
-    price: "0.00"
-author: "Sarah van den Berg"
-author_bio: "Expat coach and relocation specialist. Half Dutch, half British, living in the Netherlands for over 10 years."
-tags: ["phone plans", "SIM card", "mobile", "expat Netherlands", "telecom"]
-
+- name: KPN
+  url: https://www.kpn.com/
+  price: '0.00'
+- name: T-Mobile
+  url: https://www.t-mobile.nl/
+  price: '0.00'
+- name: Ziggo
+  url: https://www.ziggo.nl/
+  price: '0.00'
+author: Sarah van den Berg
+author_bio: Expat coach and relocation specialist. Half Dutch, half British, living in the Netherlands for over 10 years.
+tags:
+- phone plans
+- SIM card
+- mobile
+- expat Netherlands
+- telecom
 faq:
-  - q: "Do I need a BSN to get a Dutch phone plan?"
-    a: "For a postpaid contract you will usually need a BSN and a Dutch bank account. Prepaid SIM cards can be bought without a BSN — you just need a valid ID."
-  - q: "Can I use an eSIM in the Netherlands?"
-    a: "Yes. KPN, T-Mobile and Vodafone all offer eSIM support, and several budget providers do too. Check that your handset supports eSIM before switching."
-  - q: "Which Dutch provider is cheapest for international calls?"
-    a: "Lebara and Lycamobile are consistently the cheapest for calling outside the Netherlands, particularly to South Asia, the Middle East and Africa. They include bundles to many countries as standard."
-  - q: "Is 5G available in the Netherlands?"
-    a: "Yes. KPN, T-Mobile (Odido) and Vodafone all have 5G networks. Coverage is strongest in cities and along major motorways. Rural coverage is still patchy in places."
-  - q: "Can I keep my foreign number when I move to the Netherlands?"
-    a: "No — you will need a Dutch number. However, you can port an existing Dutch number between providers, usually within one working day."
+- q: Do I need a BSN to get a Dutch phone plan?
+  a: For a postpaid contract you will usually need a BSN and a Dutch bank account. Prepaid SIM cards can be bought without a BSN — you just need a valid ID.
+- q: Can I use an eSIM in the Netherlands?
+  a: Yes. KPN, T-Mobile and Vodafone all offer eSIM support, and several budget providers do too. Check that your handset supports eSIM before switching.
+- q: Which Dutch provider is cheapest for international calls?
+  a: Lebara and Lycamobile are consistently the cheapest for calling outside the Netherlands, particularly to South Asia, the Middle East and Africa. They include bundles to many countries as standard.
+- q: Is 5G available in the Netherlands?
+  a: Yes. KPN, T-Mobile (Odido) and Vodafone all have 5G networks. Coverage is strongest in cities and along major motorways. Rural coverage is still patchy in places.
+- q: Can I keep my foreign number when I move to the Netherlands?
+  a: No — you will need a Dutch number. However, you can port an existing Dutch number between providers, usually within one working day.
+schema_type: Article
 ---
 
 When I first moved to the Netherlands from the UK, sorting out a phone plan felt oddly stressful. The supermarket shelves had SIM cards from about eight different brands, none of which I recognised, and the Dutch websites were not exactly welcoming to someone still learning what *goedkoop* meant. Ten years on, I know this market well. I've tried most of the major providers, switched plans more times than I care to admit, and helped dozens of newly arrived expats pick the right option for their situation.

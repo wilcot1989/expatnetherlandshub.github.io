@@ -1,40 +1,51 @@
 ---
-title: "Revolut Review Netherlands 2026: Honest Verdict"
-date: 2026-04-04T10:00:00+01:00
-lastmod: 2026-04-23T10:00:00+01:00
-description: "Revolut has great features but one big problem in the Netherlands: its Lithuanian IBAN is rejected by many employers and landlords. Full honest review."
-categories: ["finance"]
-tags: ["Revolut", "fintech", "expat banking", "money transfer", "bank account"]
-keywords: ["revolut netherlands expat", "revolut review netherlands", "revolut dutch bank account", "revolut iban netherlands"]
+title: 'Revolut Review Netherlands 2026: Honest Verdict'
+date: 2026-04-04 10:00:00+01:00
+lastmod: 2026-04-23 10:00:00+01:00
+description: 'Revolut has great features but one big problem in the Netherlands: its Lithuanian IBAN is rejected by many employers and landlords. Full honest review.'
+categories:
+- finance
+tags:
+- Revolut
+- fintech
+- expat banking
+- money transfer
+- bank account
+keywords:
+- revolut netherlands expat
+- revolut review netherlands
+- revolut dutch bank account
+- revolut iban netherlands
 affiliate: true
-author: "Sarah van den Berg"
-author_bio: "Expat coach and relocation specialist. Half Dutch, half British, living in the Netherlands for over 10 years."
-featured_image: "/images/categories/finance.svg"
+author: Sarah van den Berg
+author_bio: Expat coach and relocation specialist. Half Dutch, half British, living in the Netherlands for over 10 years.
+featured_image: /images/categories/finance.svg
 products:
-  - name: "Wise"
-    url: "https://go.expatnetherlandshub.com/wise?ref=/guides/finance/revolut-review-expats-netherlands-2026/"
-    price: "0.00"
-  - name: "bunq"
-    url: "https://www.bunq.com/"
-    price: "2.99"
-  - name: "ING"
-    url: "https://www.ing.nl/particulier"
-    price: "0.00"
+- name: Wise
+  url: https://go.expatnetherlandshub.com/wise?ref=/guides/finance/revolut-review-expats-netherlands-2026/
+  price: '0.00'
+- name: bunq
+  url: https://www.bunq.com/
+  price: '2.99'
+- name: ING
+  url: https://www.ing.nl/particulier
+  price: '0.00'
 faq:
-  - q: "Does Revolut work as a primary bank account in the Netherlands?"
-    a: "Revolut should not be used as your only bank in the Netherlands. Its Lithuanian IBAN (starting with LT) is rejected by many Dutch employers for salary payments and by some landlords and utility providers for direct debits. You need a Dutch bank or a Wise account alongside Revolut for day-to-day life in the Netherlands."
-  - q: "What IBAN does Revolut give you in the Netherlands?"
-    a: "Revolut issues a Lithuanian IBAN (LT prefix) for customers in the Netherlands. This is legal and technically valid across the EU, but IBAN discrimination is common in the Netherlands in practice. Many Dutch employers, landlords, and utilities will reject a non-NL IBAN."
-  - q: "Is IBAN discrimination legal in the Netherlands?"
-    a: "No, IBAN discrimination is prohibited under EU Regulation 260/2012. Any EU IBAN must be accepted for SEPA payments. However, enforcement is inconsistent. Many Dutch companies refuse non-NL IBANs informally, and complaining to the Dutch consumer authority (ACM) takes time you often do not have when you have just arrived and need your salary paid."
-  - q: "How does Revolut compare to Wise for expats in the Netherlands?"
-    a: "Wise gives you a Belgian IBAN (BE prefix), which is accepted by significantly more Dutch employers than Revolut's Lithuanian IBAN. Wise is better for receiving salary and large international transfers. Revolut is better for daily spending, travel, and budgeting features. Most expats who use Revolut also have a Wise or Dutch bank account alongside it."
-  - q: "Does Revolut support iDEAL in the Netherlands?"
-    a: "No. Revolut does not support iDEAL, which is the dominant online payment method in the Netherlands used for webshops, government services, and tax payments. For iDEAL you need a Dutch bank account such as ING, ABN AMRO, or Rabobank."
-  - q: "What are Revolut's monthly fees in 2026?"
-    a: "Revolut Standard is free. Plus costs EUR 3.99 per month, Premium costs EUR 8.99 per month, and Metal costs EUR 15.99 per month. The free plan includes basic currency exchange up to EUR 1,000 per month at the interbank rate (weekdays only), a Mastercard debit card, and ATM withdrawals up to EUR 200 per month."
-  - q: "Can I receive my Dutch salary into a Revolut account?"
-    a: "You can try, but expect problems. Many Dutch employers refuse to pay salary into a non-NL IBAN, and Revolut's Lithuanian IBAN triggers this rejection regularly. Even if your employer accepts it initially, some Dutch payroll systems reject LT IBANs automatically. I recommend using a Dutch bank or Wise for salary, and Revolut as a secondary account."
+- q: Does Revolut work as a primary bank account in the Netherlands?
+  a: Revolut should not be used as your only bank in the Netherlands. Its Lithuanian IBAN (starting with LT) is rejected by many Dutch employers for salary payments and by some landlords and utility providers for direct debits. You need a Dutch bank or a Wise account alongside Revolut for day-to-day life in the Netherlands.
+- q: What IBAN does Revolut give you in the Netherlands?
+  a: Revolut issues a Lithuanian IBAN (LT prefix) for customers in the Netherlands. This is legal and technically valid across the EU, but IBAN discrimination is common in the Netherlands in practice. Many Dutch employers, landlords, and utilities will reject a non-NL IBAN.
+- q: Is IBAN discrimination legal in the Netherlands?
+  a: No, IBAN discrimination is prohibited under EU Regulation 260/2012. Any EU IBAN must be accepted for SEPA payments. However, enforcement is inconsistent. Many Dutch companies refuse non-NL IBANs informally, and complaining to the Dutch consumer authority (ACM) takes time you often do not have when you have just arrived and need your salary paid.
+- q: How does Revolut compare to Wise for expats in the Netherlands?
+  a: Wise gives you a Belgian IBAN (BE prefix), which is accepted by significantly more Dutch employers than Revolut's Lithuanian IBAN. Wise is better for receiving salary and large international transfers. Revolut is better for daily spending, travel, and budgeting features. Most expats who use Revolut also have a Wise or Dutch bank account alongside it.
+- q: Does Revolut support iDEAL in the Netherlands?
+  a: No. Revolut does not support iDEAL, which is the dominant online payment method in the Netherlands used for webshops, government services, and tax payments. For iDEAL you need a Dutch bank account such as ING, ABN AMRO, or Rabobank.
+- q: What are Revolut's monthly fees in 2026?
+  a: Revolut Standard is free. Plus costs EUR 3.99 per month, Premium costs EUR 8.99 per month, and Metal costs EUR 15.99 per month. The free plan includes basic currency exchange up to EUR 1,000 per month at the interbank rate (weekdays only), a Mastercard debit card, and ATM withdrawals up to EUR 200 per month.
+- q: Can I receive my Dutch salary into a Revolut account?
+  a: You can try, but expect problems. Many Dutch employers refuse to pay salary into a non-NL IBAN, and Revolut's Lithuanian IBAN triggers this rejection regularly. Even if your employer accepts it initially, some Dutch payroll systems reject LT IBANs automatically. I recommend using a Dutch bank or Wise for salary, and Revolut as a secondary account.
+schema_type: Review
 ---
 
 I am going to be honest about something before I start: if you have landed on this page hoping I will tell you that Revolut is a perfectly fine primary bank account for life in the Netherlands, you are going to be disappointed. It is not. I have worked as an expat coach for over a decade, and the single most common banking crisis I help people through is some variation of: "My employer won't pay my salary into my Revolut account and I don't understand why."

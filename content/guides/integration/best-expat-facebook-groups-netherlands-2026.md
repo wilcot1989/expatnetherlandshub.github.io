@@ -1,40 +1,51 @@
 ---
-title: "Best Expat Facebook Groups Netherlands 2026"
-slug: "best-expat-facebook-groups-netherlands-2026"
-date: 2026-05-22T10:00:00+01:00
-lastmod: 2026-04-23T10:00:00+01:00
-categories: ["integration"]
-type: "guide"
-author: "Sarah van den Berg"
-author_bio: "Expat coach and relocation specialist. Half Dutch, half British, living in the Netherlands for over 10 years."
-featured_image: "/images/categories/integration.svg"
+title: Best Expat Facebook Groups Netherlands 2026
+slug: best-expat-facebook-groups-netherlands-2026
+date: 2026-05-22 10:00:00+01:00
+lastmod: 2026-04-23 10:00:00+01:00
+categories:
+- integration
+type: guide
+author: Sarah van den Berg
+author_bio: Expat coach and relocation specialist. Half Dutch, half British, living in the Netherlands for over 10 years.
+featured_image: /images/categories/integration.svg
 affiliate: false
-description: "The best expat Facebook groups in the Netherlands — housing, jobs, city-specific groups and nationality networks. What's actually worth joining."
-tags: ["community", "Facebook groups", "expat network", "social", "making friends"]
-keywords: ["expat facebook groups netherlands", "expat community netherlands", "best expat groups amsterdam", "international community netherlands"]
+description: The best expat Facebook groups in the Netherlands — housing, jobs, city-specific groups and nationality networks. What's actually worth joining.
+tags:
+- community
+- Facebook groups
+- expat network
+- social
+- making friends
+keywords:
+- expat facebook groups netherlands
+- expat community netherlands
+- best expat groups amsterdam
+- international community netherlands
 faq:
-  - q: "What is the biggest expat Facebook group in the Netherlands?"
-    a: "Expats in Netherlands is the largest general group, with over 100,000 members. It covers the whole country and is active daily. Amsterdam Expats is the largest city-specific group, with around 80,000 members. Both are good starting points but noisy — more focused groups often give better answers."
-  - q: "Are Facebook groups safe for finding housing in the Netherlands?"
-    a: "They can be useful for leads and recommendations, but the rental scam rate in Dutch Facebook housing groups is very high. Never pay a deposit without viewing the property in person, be sceptical of any landlord who claims to be abroad, and never send money via Western Union or cryptocurrency. Read the full rental scams guide before you start looking."
-  - q: "Is there an expat community for my nationality in the Netherlands?"
-    a: "Almost certainly, yes. The Netherlands has active Facebook groups for Americans, British, Indians, Brazilians, Filipinos, South Africans, Canadians, Australians, Germans, and many other nationalities. Search your country name plus 'Netherlands' or 'Amsterdam' on Facebook and you will find them."
-  - q: "Is Reddit better than Facebook for expat questions in the Netherlands?"
-    a: "Different strengths. Reddit (r/Netherlands and r/Amsterdam) tends to give more direct, unfiltered answers and is better for practical questions. Facebook groups have more local activity, event listings, and community feel. I use both — Reddit when I want a quick honest answer, Facebook when I want a recommendation from someone in my city."
-  - q: "What is InterNations and is it worth it?"
-    a: "InterNations is a global expat networking platform with active chapters in Amsterdam, Rotterdam, Den Haag, and Eindhoven. Free membership gives limited access; the paid Albatross membership (around €8-10 per month) unlocks events and full networking features. Worth trying for the first month or two after arrival, especially for professional networking."
-  - q: "How do I avoid getting scammed in expat Facebook groups?"
-    a: "Stick to groups with active admins and clear rules. Never pay deposits without meeting in person. Be suspicious of deals that seem unusually cheap. Do not click links sent by private message from people you just met in a group. If someone asks you to use Tikkie, iDEAL, or bank transfer for a large sum before any formal agreement, that is a red flag."
+- q: What is the biggest expat Facebook group in the Netherlands?
+  a: Expats in Netherlands is the largest general group, with over 100,000 members. It covers the whole country and is active daily. Amsterdam Expats is the largest city-specific group, with around 80,000 members. Both are good starting points but noisy — more focused groups often give better answers.
+- q: Are Facebook groups safe for finding housing in the Netherlands?
+  a: They can be useful for leads and recommendations, but the rental scam rate in Dutch Facebook housing groups is very high. Never pay a deposit without viewing the property in person, be sceptical of any landlord who claims to be abroad, and never send money via Western Union or cryptocurrency. Read the full rental scams guide before you start looking.
+- q: Is there an expat community for my nationality in the Netherlands?
+  a: Almost certainly, yes. The Netherlands has active Facebook groups for Americans, British, Indians, Brazilians, Filipinos, South Africans, Canadians, Australians, Germans, and many other nationalities. Search your country name plus 'Netherlands' or 'Amsterdam' on Facebook and you will find them.
+- q: Is Reddit better than Facebook for expat questions in the Netherlands?
+  a: Different strengths. Reddit (r/Netherlands and r/Amsterdam) tends to give more direct, unfiltered answers and is better for practical questions. Facebook groups have more local activity, event listings, and community feel. I use both — Reddit when I want a quick honest answer, Facebook when I want a recommendation from someone in my city.
+- q: What is InterNations and is it worth it?
+  a: InterNations is a global expat networking platform with active chapters in Amsterdam, Rotterdam, Den Haag, and Eindhoven. Free membership gives limited access; the paid Albatross membership (around €8-10 per month) unlocks events and full networking features. Worth trying for the first month or two after arrival, especially for professional networking.
+- q: How do I avoid getting scammed in expat Facebook groups?
+  a: Stick to groups with active admins and clear rules. Never pay deposits without meeting in person. Be suspicious of deals that seem unusually cheap. Do not click links sent by private message from people you just met in a group. If someone asks you to use Tikkie, iDEAL, or bank transfer for a large sum before any formal agreement, that is a red flag.
 products:
-  - name: "Babbel"
-    url: "https://www.babbel.com/"
-    price: "6.99"
-  - name: "Meetup"
-    url: "https://www.meetup.com/"
-    price: "0.00"
-  - name: "DutchPod101"
-    url: "https://www.dutchpod101.com/"
-    price: "0.00"
+- name: Babbel
+  url: https://www.babbel.com/
+  price: '6.99'
+- name: Meetup
+  url: https://www.meetup.com/
+  price: '0.00'
+- name: DutchPod101
+  url: https://www.dutchpod101.com/
+  price: '0.00'
+schema_type: Article
 ---
 
 When I arrived in the Netherlands from London, the first practical advice a colleague gave me was: "Join every Facebook group you can find." I thought this sounded desperate. A decade later, I give the same advice to every expat I coach. Online communities are not a replacement for real-world connection, but they are often the fastest way to find it.

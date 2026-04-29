@@ -1,38 +1,52 @@
 ---
-title: "Moving to Enschede: Expat Guide 2026"
-date: 2026-06-24T10:00:00+01:00
-lastmod: 2026-04-23T10:00:00+01:00
-description: "Expat guide to Enschede 2026: University of Twente, tech employers, affordable housing, best neighbourhoods, and German border life covered in detail."
-categories: ["housing"]
-tags: ["moving to enschede", "enschede expat guide", "university of twente", "enschede housing", "twente tech valley", "enschede netherlands"]
-keywords: ["moving to enschede guide", "enschede expat 2026", "living in enschede", "enschede housing rent", "university of twente expats", "enschede tech companies"]
+title: 'Moving to Enschede: Expat Guide 2026'
+date: 2026-06-24 10:00:00+01:00
+lastmod: 2026-04-23 10:00:00+01:00
+description: 'Expat guide to Enschede 2026: University of Twente, tech employers, affordable housing, best neighbourhoods, and German border life covered in detail.'
+categories:
+- housing
+tags:
+- moving to enschede
+- enschede expat guide
+- university of twente
+- enschede housing
+- twente tech valley
+- enschede netherlands
+keywords:
+- moving to enschede guide
+- enschede expat 2026
+- living in enschede
+- enschede housing rent
+- university of twente expats
+- enschede tech companies
 affiliate: true
-author: "Sarah van den Berg"
-author_bio: "Expat coach and relocation specialist. Half Dutch, half British, living in the Netherlands for over 10 years."
-featured_image: "/images/categories/cities.svg"
+author: Sarah van den Berg
+author_bio: Expat coach and relocation specialist. Half Dutch, half British, living in the Netherlands for over 10 years.
+featured_image: /images/categories/cities.svg
 faq:
-  - q: "Is Enschede a good place to live for expats?"
-    a: "Enschede is an excellent choice for expats connected to the University of Twente, the local tech sector, or those who want significantly lower housing costs than Amsterdam or Utrecht. The city is relaxed, affordable, and well-connected by train to the Randstad. The international community is smaller than in Amsterdam but close-knit, largely centred around the university. German border proximity adds practical benefits."
-  - q: "How much does it cost to rent in Enschede?"
-    a: "Enschede is one of the most affordable cities in the Netherlands for renters. A one-bedroom apartment in the city centre typically costs €750-1,100/month, compared to €1,600-2,000 in Amsterdam. A two-bedroom apartment runs €950-1,400. The neighbourhood near the University of Twente has student-oriented housing at lower prices, while the Wesselerbrink and Roombeek areas offer good quality housing for families."
-  - q: "How far is Enschede from Germany?"
-    a: "The German city of Gronau is approximately 10 km from Enschede city centre — about a 15-minute drive. The larger German city of Münster is about 75 km away (1 hour by car). Many Enschede residents shop in Germany for groceries, electronics, and petrol, where prices are often lower. Cross-border commuting is common."
-  - q: "What international employers are in Enschede and the Twente region?"
-    a: "Major employers include Thales Netherlands (defence electronics), VDL Nedcar, Nedap, Demcon (high-tech systems), Sioux Technologies, Sensata Technologies, and various University of Twente spin-offs. The Brainport network extends east from Eindhoven and the Twente Tech Valley initiative has attracted international technology companies. Many positions are English-language accessible."
-  - q: "Is there good public transport from Enschede to Amsterdam?"
-    a: "Yes. Direct intercity trains run regularly between Enschede and Amsterdam, with a journey time of approximately 1h45. The Enschede-Utrecht service takes about 1h20. Within Enschede, the bus network (Twents OV) covers the city adequately, though most residents use bikes or cars for daily life. The NS (Dutch rail) app is the standard tool for train planning."
-  - q: "Are there international schools near Enschede?"
-    a: "Enschede does not have a full international school, but the University of Twente runs an International School Twente (IST) programme within local schools that offers the International Baccalaureate (IB). Several primary schools in the area have international sections. For full English-medium secondary education, some families commute to schools in the larger Randstad cities or consider the German international school in Münster."
+- q: Is Enschede a good place to live for expats?
+  a: Enschede is an excellent choice for expats connected to the University of Twente, the local tech sector, or those who want significantly lower housing costs than Amsterdam or Utrecht. The city is relaxed, affordable, and well-connected by train to the Randstad. The international community is smaller than in Amsterdam but close-knit, largely centred around the university. German border proximity adds practical benefits.
+- q: How much does it cost to rent in Enschede?
+  a: Enschede is one of the most affordable cities in the Netherlands for renters. A one-bedroom apartment in the city centre typically costs €750-1,100/month, compared to €1,600-2,000 in Amsterdam. A two-bedroom apartment runs €950-1,400. The neighbourhood near the University of Twente has student-oriented housing at lower prices, while the Wesselerbrink and Roombeek areas offer good quality housing for families.
+- q: How far is Enschede from Germany?
+  a: The German city of Gronau is approximately 10 km from Enschede city centre — about a 15-minute drive. The larger German city of Münster is about 75 km away (1 hour by car). Many Enschede residents shop in Germany for groceries, electronics, and petrol, where prices are often lower. Cross-border commuting is common.
+- q: What international employers are in Enschede and the Twente region?
+  a: Major employers include Thales Netherlands (defence electronics), VDL Nedcar, Nedap, Demcon (high-tech systems), Sioux Technologies, Sensata Technologies, and various University of Twente spin-offs. The Brainport network extends east from Eindhoven and the Twente Tech Valley initiative has attracted international technology companies. Many positions are English-language accessible.
+- q: Is there good public transport from Enschede to Amsterdam?
+  a: Yes. Direct intercity trains run regularly between Enschede and Amsterdam, with a journey time of approximately 1h45. The Enschede-Utrecht service takes about 1h20. Within Enschede, the bus network (Twents OV) covers the city adequately, though most residents use bikes or cars for daily life. The NS (Dutch rail) app is the standard tool for train planning.
+- q: Are there international schools near Enschede?
+  a: Enschede does not have a full international school, but the University of Twente runs an International School Twente (IST) programme within local schools that offers the International Baccalaureate (IB). Several primary schools in the area have international sections. For full English-medium secondary education, some families commute to schools in the larger Randstad cities or consider the German international school in Münster.
 products:
-  - name: "HousingAnywhere"
-    url: "https://housinganywhere.com/"
-    price: "0.00"
-  - name: "Kamernet"
-    url: "https://kamernet.nl/"
-    price: "0.00"
-  - name: "Pararius"
-    url: "https://www.pararius.com/"
-    price: "0.00"
+- name: HousingAnywhere
+  url: https://housinganywhere.com/
+  price: '0.00'
+- name: Kamernet
+  url: https://kamernet.nl/
+  price: '0.00'
+- name: Pararius
+  url: https://www.pararius.com/
+  price: '0.00'
+schema_type: Article
 ---
 
 When people ask me about affordable Dutch cities for expats, Enschede comes up less often than it should. It has spent decades in the shadow of Amsterdam, Rotterdam, and Eindhoven — yet it quietly delivers something those cities increasingly cannot: affordable housing, a real community feel, and a genuinely strong tech and academic sector.

@@ -1,38 +1,50 @@
 ---
-title: "Netherlands vs Portugal for Expats 2026"
-date: 2026-03-18T10:00:00+01:00
-lastmod: 2026-04-23T10:00:00+01:00
-description: "Netherlands vs Portugal for expats 2026: costs, salaries, taxes, healthcare, visa routes, language, climate, and quality of life compared honestly."
-categories: ["integration"]
-tags: ["netherlands vs portugal", "expat comparison", "cost of living", "tax", "visa", "quality of life"]
-keywords: ["netherlands vs portugal expats 2026", "move netherlands or portugal expat", "portugal vs netherlands cost living", "best country expats europe"]
+title: Netherlands vs Portugal for Expats 2026
+date: 2026-03-18 10:00:00+01:00
+lastmod: 2026-04-23 10:00:00+01:00
+description: 'Netherlands vs Portugal for expats 2026: costs, salaries, taxes, healthcare, visa routes, language, climate, and quality of life compared honestly.'
+categories:
+- integration
+tags:
+- netherlands vs portugal
+- expat comparison
+- cost of living
+- tax
+- visa
+- quality of life
+keywords:
+- netherlands vs portugal expats 2026
+- move netherlands or portugal expat
+- portugal vs netherlands cost living
+- best country expats europe
 affiliate: true
-author: "Sarah van den Berg"
-author_bio: "Expat coach and relocation specialist. Half Dutch, half British, living in the Netherlands for over 10 years."
-featured_image: "/images/categories/integration.svg"
+author: Sarah van den Berg
+author_bio: Expat coach and relocation specialist. Half Dutch, half British, living in the Netherlands for over 10 years.
+featured_image: /images/categories/integration.svg
 faq:
-  - q: "Which is cheaper to live in — the Netherlands or Portugal?"
-    a: "Portugal is significantly cheaper. Rent in Lisbon is roughly 30-40% lower than Amsterdam, and outside the capital the gap is even larger. Groceries, restaurants, and services are notably cheaper in Portugal. The Netherlands has higher average salaries that partially offset higher costs, but for retirees or remote workers with fixed income, Portugal's cost advantage is substantial."
-  - q: "Which country has better salaries for expat professionals?"
-    a: "The Netherlands. Average gross salaries in the Netherlands are significantly higher than Portugal across most professional sectors — roughly 40-60% higher in finance, tech, and engineering. The Dutch labour market is more internationally competitive, and major multinational employers are concentrated there. Portugal's tech sector (Lisbon and Porto) has grown fast but still pays below Dutch levels for most roles."
-  - q: "How does tax compare between the Netherlands and Portugal for expats?"
-    a: "Both countries have tax incentive programmes for incoming expats. The Netherlands offers the 30% ruling (up to 5 years, reducing taxable income by 30%) for qualifying employees. Portugal ended its Non-Habitual Resident (NHR) scheme in 2024 and replaced it with a new IFICI regime (for specific professions including tech, research, and highly qualified roles). Overall, the Dutch 30% ruling often provides a better net advantage for high-earning professionals, while Portugal has lower baseline tax rates."
-  - q: "Which country is better for non-EU expats seeking residency?"
-    a: "Portugal's D7 passive income visa and Digital Nomad visa are easier to qualify for than Dutch residency routes for non-EU citizens without a job offer. The Netherlands mainly offers highly skilled migrant routes tied to employment. For retirees or remote workers, Portugal is considerably more accessible. For skilled professionals with employer sponsorship, the Netherlands is the stronger option."
-  - q: "What is the language situation for expats in each country?"
-    a: "The Netherlands is easier for English speakers. The Dutch population has exceptionally high English fluency — roughly 95% of Dutch adults speak good English. Portugal is improving but the English level, particularly outside Lisbon and Porto, is lower. Learning basic Dutch or Portuguese is important for full integration, but daily expat life in the Netherlands requires less Portuguese than living in Portugal requires Dutch."
-  - q: "Which country has better weather for expats?"
-    a: "Portugal has vastly better weather. The Algarve and Alentejo receive 280-300 days of sunshine per year. Lisbon averages 2800 hours of sunshine. The Netherlands averages around 1700 hours of sunshine and is known for grey, rainy winters. If weather quality is a significant factor in your decision, Portugal wins without contest."
+- q: Which is cheaper to live in — the Netherlands or Portugal?
+  a: Portugal is significantly cheaper. Rent in Lisbon is roughly 30-40% lower than Amsterdam, and outside the capital the gap is even larger. Groceries, restaurants, and services are notably cheaper in Portugal. The Netherlands has higher average salaries that partially offset higher costs, but for retirees or remote workers with fixed income, Portugal's cost advantage is substantial.
+- q: Which country has better salaries for expat professionals?
+  a: The Netherlands. Average gross salaries in the Netherlands are significantly higher than Portugal across most professional sectors — roughly 40-60% higher in finance, tech, and engineering. The Dutch labour market is more internationally competitive, and major multinational employers are concentrated there. Portugal's tech sector (Lisbon and Porto) has grown fast but still pays below Dutch levels for most roles.
+- q: How does tax compare between the Netherlands and Portugal for expats?
+  a: Both countries have tax incentive programmes for incoming expats. The Netherlands offers the 30% ruling (up to 5 years, reducing taxable income by 30%) for qualifying employees. Portugal ended its Non-Habitual Resident (NHR) scheme in 2024 and replaced it with a new IFICI regime (for specific professions including tech, research, and highly qualified roles). Overall, the Dutch 30% ruling often provides a better net advantage for high-earning professionals, while Portugal has lower baseline tax rates.
+- q: Which country is better for non-EU expats seeking residency?
+  a: Portugal's D7 passive income visa and Digital Nomad visa are easier to qualify for than Dutch residency routes for non-EU citizens without a job offer. The Netherlands mainly offers highly skilled migrant routes tied to employment. For retirees or remote workers, Portugal is considerably more accessible. For skilled professionals with employer sponsorship, the Netherlands is the stronger option.
+- q: What is the language situation for expats in each country?
+  a: The Netherlands is easier for English speakers. The Dutch population has exceptionally high English fluency — roughly 95% of Dutch adults speak good English. Portugal is improving but the English level, particularly outside Lisbon and Porto, is lower. Learning basic Dutch or Portuguese is important for full integration, but daily expat life in the Netherlands requires less Portuguese than living in Portugal requires Dutch.
+- q: Which country has better weather for expats?
+  a: Portugal has vastly better weather. The Algarve and Alentejo receive 280-300 days of sunshine per year. Lisbon averages 2800 hours of sunshine. The Netherlands averages around 1700 hours of sunshine and is known for grey, rainy winters. If weather quality is a significant factor in your decision, Portugal wins without contest.
 products:
-  - name: "Babbel"
-    url: "https://www.babbel.com/"
-    price: "6.99"
-  - name: "Meetup"
-    url: "https://www.meetup.com/"
-    price: "0.00"
-  - name: "DutchPod101"
-    url: "https://www.dutchpod101.com/"
-    price: "0.00"
+- name: Babbel
+  url: https://www.babbel.com/
+  price: '6.99'
+- name: Meetup
+  url: https://www.meetup.com/
+  price: '0.00'
+- name: DutchPod101
+  url: https://www.dutchpod101.com/
+  price: '0.00'
+schema_type: Article
 ---
 
 I get this question from expats more than almost any other comparison. The Netherlands and Portugal have both become major destinations for internationally mobile professionals and retirees, but they attract very different profiles of person — and for different reasons. After years of working with expats considering both, I have seen people thrive in each. The key is matching the country to your specific situation rather than going by reputation.

@@ -1,34 +1,51 @@
 ---
-title: "Dutch Rental Contracts: Your Tenant Rights Explained (2026)"
-date: 2026-03-17T10:00:00+01:00
-lastmod: 2026-04-23T10:00:00+01:00
-description: "Understand Dutch rental contracts and your rights as a tenant. Contract types, deposit rules, rent protection, and 2026 law changes explained."
-categories: ["legal"]
-tags: ["rental contract", "tenant rights", "huurcontract", "housing law", "renting Netherlands"]
-keywords: ["dutch rental contract expat", "tenant rights netherlands", "huurcontract netherlands english", "dutch rental law 2026", "deposit rules netherlands", "huurcommissie complaint", "bepaalde tijd onbepaalde tijd rental", "diplomatenclausule netherlands", "puntentelsel huurwoning", "middenhuur rent protection 2026"]
+title: 'Dutch Rental Contracts: Your Tenant Rights Explained (2026)'
+date: 2026-03-17 10:00:00+01:00
+lastmod: 2026-04-23 10:00:00+01:00
+description: Understand Dutch rental contracts and your rights as a tenant. Contract types, deposit rules, rent protection, and 2026 law changes explained.
+categories:
+- legal
+tags:
+- rental contract
+- tenant rights
+- huurcontract
+- housing law
+- renting Netherlands
+keywords:
+- dutch rental contract expat
+- tenant rights netherlands
+- huurcontract netherlands english
+- dutch rental law 2026
+- deposit rules netherlands
+- huurcommissie complaint
+- bepaalde tijd onbepaalde tijd rental
+- diplomatenclausule netherlands
+- puntentelsel huurwoning
+- middenhuur rent protection 2026
 affiliate: false
 products:
-  - name: "Expatax"
-    url: "https://www.expatax.nl/"
-    price: "0.00"
-  - name: "Blue Umbrella"
-    url: "https://www.blueumbrella.nl/"
-    price: "0.00"
-  - name: "IND"
-    url: "https://ind.nl/en"
-    price: "0.00"
-author: "Sarah van den Berg"
-author_bio: "Expat coach and relocation specialist. Half Dutch, half British, living in the Netherlands for over 10 years."
-featured_image: "/images/featured/dutch-rental-contract-rights-expats-2026.webp"
+- name: Expatax
+  url: https://www.expatax.nl/
+  price: '0.00'
+- name: Blue Umbrella
+  url: https://www.blueumbrella.nl/
+  price: '0.00'
+- name: IND
+  url: https://ind.nl/en
+  price: '0.00'
+author: Sarah van den Berg
+author_bio: Expat coach and relocation specialist. Half Dutch, half British, living in the Netherlands for over 10 years.
+featured_image: /images/featured/dutch-rental-contract-rights-expats-2026.webp
 faq:
-  - q: "What is the maximum deposit a landlord can charge in the Netherlands?"
-    a: "Since the Affordable Rent Act came into force, landlords are legally limited to charging a deposit (waarborgsom) of maximum two months' bare rent (kale huur). That means two times the agreed monthly rent, excluding any service costs. Charging three months or more is illegal. If your landlord demands more than two months, you can refuse and cite Article 7:261b of the Dutch Civil Code. After the tenancy ends, the landlord must return the deposit within 14 days if there are no legitimate deductions. If they fail to do so, you can claim the deposit back via the huurcommissie or the courts."
-  - q: "Can a landlord refuse to renew my rental contract in the Netherlands?"
-    a: "It depends on the contract type. If you have an onbepaalde tijd (open-ended) contract, you have very strong protection — your landlord can only terminate the contract in very specific legal circumstances, such as urgent personal use of the property, structural renovation, or non-payment of rent. They cannot simply end the contract because they want to. Fixed-term contracts (bepaalde tijd) of up to two years for independent dwellings legally end on the agreed date without needing formal cancellation from the landlord — though they must notify you 1 to 3 months before the end date. If they fail to notify you in time, the contract automatically becomes open-ended."
-  - q: "What is the huurcommissie and how can it help me as an expat?"
-    a: "The huurcommissie (Rent Tribunal) is an independent Dutch government body that mediates disputes between tenants and landlords. It can rule on whether your rent is too high for a social housing property, whether your deposit was unfairly withheld, whether service costs are excessive, and whether the landlord has maintained the property properly. Filing a complaint costs a small fee (currently EUR 25 for tenants) and the process is entirely in Dutch, so consider getting a translation or support from a legal aid organisation (Juridisch Loket). For liberalised (private sector) rentals, the huurcommissie has more limited powers, but it can still rule on service costs and deposit disputes."
-  - q: "My landlord wants to increase the rent. What are my rights in 2026?"
-    a: "In 2026, rent increase rules depend heavily on which sector your home falls in. For social housing (below the liberalisation threshold of approximately EUR 879/month), increases are capped at the rate set annually by the government — for 2026 this is a maximum of CPI inflation plus 1%. For the new mid-market segment created by the Wet betaalbare huur (homes scoring 143-186 points on the puntentelsel), rent increases are also capped. For liberalised (free market) private rentals, there is no statutory cap — however, your contract may include a specific clause, often linked to the CBS consumer price index. Your landlord must give at least three months' written notice before any rent increase takes effect. If you believe the increase is unlawful, contact the huurcommissie or Juridisch Loket."
+- q: What is the maximum deposit a landlord can charge in the Netherlands?
+  a: Since the Affordable Rent Act came into force, landlords are legally limited to charging a deposit (waarborgsom) of maximum two months' bare rent (kale huur). That means two times the agreed monthly rent, excluding any service costs. Charging three months or more is illegal. If your landlord demands more than two months, you can refuse and cite Article 7:261b of the Dutch Civil Code. After the tenancy ends, the landlord must return the deposit within 14 days if there are no legitimate deductions. If they fail to do so, you can claim the deposit back via the huurcommissie or the courts.
+- q: Can a landlord refuse to renew my rental contract in the Netherlands?
+  a: It depends on the contract type. If you have an onbepaalde tijd (open-ended) contract, you have very strong protection — your landlord can only terminate the contract in very specific legal circumstances, such as urgent personal use of the property, structural renovation, or non-payment of rent. They cannot simply end the contract because they want to. Fixed-term contracts (bepaalde tijd) of up to two years for independent dwellings legally end on the agreed date without needing formal cancellation from the landlord — though they must notify you 1 to 3 months before the end date. If they fail to notify you in time, the contract automatically becomes open-ended.
+- q: What is the huurcommissie and how can it help me as an expat?
+  a: The huurcommissie (Rent Tribunal) is an independent Dutch government body that mediates disputes between tenants and landlords. It can rule on whether your rent is too high for a social housing property, whether your deposit was unfairly withheld, whether service costs are excessive, and whether the landlord has maintained the property properly. Filing a complaint costs a small fee (currently EUR 25 for tenants) and the process is entirely in Dutch, so consider getting a translation or support from a legal aid organisation (Juridisch Loket). For liberalised (private sector) rentals, the huurcommissie has more limited powers, but it can still rule on service costs and deposit disputes.
+- q: My landlord wants to increase the rent. What are my rights in 2026?
+  a: In 2026, rent increase rules depend heavily on which sector your home falls in. For social housing (below the liberalisation threshold of approximately EUR 879/month), increases are capped at the rate set annually by the government — for 2026 this is a maximum of CPI inflation plus 1%. For the new mid-market segment created by the Wet betaalbare huur (homes scoring 143-186 points on the puntentelsel), rent increases are also capped. For liberalised (free market) private rentals, there is no statutory cap — however, your contract may include a specific clause, often linked to the CBS consumer price index. Your landlord must give at least three months' written notice before any rent increase takes effect. If you believe the increase is unlawful, contact the huurcommissie or Juridisch Loket.
+schema_type: Article
 ---
 
 The first rental contract I signed in the Netherlands was four pages long, written entirely in Dutch, and I understood about 40% of it. I was twenty-six, newly arrived in Amsterdam, desperate for a flat after three weeks in a shared Airbnb, and I just signed it. I told myself I would get it properly translated later. I never did.

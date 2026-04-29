@@ -1,38 +1,48 @@
 ---
-title: "Moving to Nijmegen: Expat Guide 2026"
-date: 2026-06-02T10:00:00+01:00
-lastmod: 2026-04-23T10:00:00+01:00
-description: "Expat guide to Nijmegen 2026: neighbourhoods, housing costs, commute times, Radboud UMC jobs, and life in the Netherlands' oldest city."
-categories: ["housing"]
-tags: ["Nijmegen", "moving", "housing", "city guide"]
-keywords: ["moving to nijmegen expat", "nijmegen expat guide", "living in nijmegen", "nijmegen housing expat"]
+title: 'Moving to Nijmegen: Expat Guide 2026'
+date: 2026-06-02 10:00:00+01:00
+lastmod: 2026-04-23 10:00:00+01:00
+description: 'Expat guide to Nijmegen 2026: neighbourhoods, housing costs, commute times, Radboud UMC jobs, and life in the Netherlands'' oldest city.'
+categories:
+- housing
+tags:
+- Nijmegen
+- moving
+- housing
+- city guide
+keywords:
+- moving to nijmegen expat
+- nijmegen expat guide
+- living in nijmegen
+- nijmegen housing expat
 affiliate: true
-author: "Sarah van den Berg"
-author_bio: "Expat coach and relocation specialist. Half Dutch, half British, living in the Netherlands for over 10 years."
-featured_image: "/images/categories/cities.svg"
+author: Sarah van den Berg
+author_bio: Expat coach and relocation specialist. Half Dutch, half British, living in the Netherlands for over 10 years.
+featured_image: /images/categories/cities.svg
 faq:
-  - q: "Is Nijmegen a good city for expats?"
-    a: "Nijmegen works very well for expats with a connection to Radboud University, Radboud UMC, NXP Semiconductors, or the Novio Tech Campus research cluster. It is the oldest city in the Netherlands with a relaxed, student-influenced atmosphere, genuinely affordable housing relative to Amsterdam or Utrecht, and good train links to the Randstad. The international community is smaller than in The Hague or Amsterdam but more cohesive, especially within the academic and medical sectors. English is widely spoken, particularly among the younger, university-connected population."
-  - q: "How much does rent cost in Nijmegen?"
-    a: "Nijmegen is meaningfully cheaper than the major Randstad cities. Expect to pay €750-€1,050 per month for a one-bedroom apartment, €1,000-€1,500 for a two-bedroom, and €1,300-€1,900 for a three-bedroom house. Prices in Centrum and Bottendaal are at the higher end; Heyendaal near the university and the newer Lent district across the river offer good value for families. These figures are roughly 30-40% below Amsterdam and 15-20% below Utrecht."
-  - q: "What are the best neighbourhoods in Nijmegen for expats?"
-    a: "The four main options are: Centrum (historic centre, walkable, vibrant, highest rents), Bottendaal (young professional favourite, canal-side streets, great local cafés), Heyendaal (directly adjacent to Radboud University and UMC, practical for academic and medical staff), and Lent (modern district north of the Waal river, family-friendly, newer housing). Most single expats and young professionals prefer Bottendaal or Centrum; families and those working at the university often choose Heyendaal or Lent."
-  - q: "How long is the commute from Nijmegen to Amsterdam or Utrecht?"
-    a: "Nijmegen to Amsterdam Centraal takes approximately 1 hour 15 minutes by direct Intercity train, with services every 30 minutes. To Utrecht Centraal it is around 45-50 minutes; to Arnhem just 12-15 minutes, which makes Arnhem an easy destination for work or weekends. Nijmegen is not a practical daily commute to Amsterdam, but it is entirely manageable for weekly travel or regular meetings. The high-speed Intercity Direct and regular IC services make the connections reliable."
-  - q: "What are the main employers in Nijmegen?"
-    a: "The two dominant employers are Radboud University Medical Centre (Radboud UMC), one of the Netherlands' top university hospitals with around 10,000 staff, and Radboud University itself. NXP Semiconductors has a significant R&D presence in Nijmegen — the city has been a core site for semiconductor development since the Philips era. Novio Tech Campus is an innovation cluster housing biomedical, tech, and materials science companies, many of which have spun out of Radboud research. Beyond these, there is a public sector, healthcare, and retail-service base typical of a regional city of this size."
-  - q: "What is the Vierdaagse and does it affect expats?"
-    a: "The Vierdaagse — officially the International Four Days Marches Nijmegen — is the largest walking event in the world, held annually in mid-July. Around 50,000 walkers complete a four-day route of 30 to 50 kilometres per day through the Nijmegen countryside. The Vierdaagsefeesten, the accompanying street festival, runs for ten days and transforms the entire city centre into one of the largest outdoor festivals in Europe. For expats living in Nijmegen, it means: intense accommodation demand, a jubilant city atmosphere, and streets that are impossible to cycle through efficiently for two weeks. It is spectacular if you embrace it, disruptive if you are trying to move during that period. Avoid scheduling your relocation for the third week of July."
+- q: Is Nijmegen a good city for expats?
+  a: Nijmegen works very well for expats with a connection to Radboud University, Radboud UMC, NXP Semiconductors, or the Novio Tech Campus research cluster. It is the oldest city in the Netherlands with a relaxed, student-influenced atmosphere, genuinely affordable housing relative to Amsterdam or Utrecht, and good train links to the Randstad. The international community is smaller than in The Hague or Amsterdam but more cohesive, especially within the academic and medical sectors. English is widely spoken, particularly among the younger, university-connected population.
+- q: How much does rent cost in Nijmegen?
+  a: Nijmegen is meaningfully cheaper than the major Randstad cities. Expect to pay €750-€1,050 per month for a one-bedroom apartment, €1,000-€1,500 for a two-bedroom, and €1,300-€1,900 for a three-bedroom house. Prices in Centrum and Bottendaal are at the higher end; Heyendaal near the university and the newer Lent district across the river offer good value for families. These figures are roughly 30-40% below Amsterdam and 15-20% below Utrecht.
+- q: What are the best neighbourhoods in Nijmegen for expats?
+  a: 'The four main options are: Centrum (historic centre, walkable, vibrant, highest rents), Bottendaal (young professional favourite, canal-side streets, great local cafés), Heyendaal (directly adjacent to Radboud University and UMC, practical for academic and medical staff), and Lent (modern district north of the Waal river, family-friendly, newer housing). Most single expats and young professionals prefer Bottendaal or Centrum; families and those working at the university often choose Heyendaal or Lent.'
+- q: How long is the commute from Nijmegen to Amsterdam or Utrecht?
+  a: Nijmegen to Amsterdam Centraal takes approximately 1 hour 15 minutes by direct Intercity train, with services every 30 minutes. To Utrecht Centraal it is around 45-50 minutes; to Arnhem just 12-15 minutes, which makes Arnhem an easy destination for work or weekends. Nijmegen is not a practical daily commute to Amsterdam, but it is entirely manageable for weekly travel or regular meetings. The high-speed Intercity Direct and regular IC services make the connections reliable.
+- q: What are the main employers in Nijmegen?
+  a: The two dominant employers are Radboud University Medical Centre (Radboud UMC), one of the Netherlands' top university hospitals with around 10,000 staff, and Radboud University itself. NXP Semiconductors has a significant R&D presence in Nijmegen — the city has been a core site for semiconductor development since the Philips era. Novio Tech Campus is an innovation cluster housing biomedical, tech, and materials science companies, many of which have spun out of Radboud research. Beyond these, there is a public sector, healthcare, and retail-service base typical of a regional city of this size.
+- q: What is the Vierdaagse and does it affect expats?
+  a: 'The Vierdaagse — officially the International Four Days Marches Nijmegen — is the largest walking event in the world, held annually in mid-July. Around 50,000 walkers complete a four-day route of 30 to 50 kilometres per day through the Nijmegen countryside. The Vierdaagsefeesten, the accompanying street festival, runs for ten days and transforms the entire city centre into one of the largest outdoor festivals in Europe. For expats living in Nijmegen, it means: intense accommodation demand, a jubilant city atmosphere, and streets that are impossible to cycle through efficiently for two weeks. It is spectacular if you embrace it, disruptive if you are trying to move during that period. Avoid scheduling your relocation for the third week of July.'
 products:
-  - name: "HousingAnywhere"
-    url: "https://housinganywhere.com/"
-    price: "0.00"
-  - name: "Pararius"
-    url: "https://www.pararius.com/"
-    price: "0.00"
-  - name: "Funda"
-    url: "https://www.funda.nl/"
-    price: "0.00"
+- name: HousingAnywhere
+  url: https://housinganywhere.com/
+  price: '0.00'
+- name: Pararius
+  url: https://www.pararius.com/
+  price: '0.00'
+- name: Funda
+  url: https://www.funda.nl/
+  price: '0.00'
+schema_type: Article
 ---
 
 The first thing people ask when I mention Nijmegen to clients looking at Dutch cities is: where exactly is that? It is a fair question from someone who has only heard of Amsterdam, Utrecht, and The Hague. The second question, once they have looked it up, is usually: why does no one talk about it more?

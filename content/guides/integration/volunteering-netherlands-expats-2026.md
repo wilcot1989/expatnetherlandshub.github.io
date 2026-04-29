@@ -1,38 +1,50 @@
 ---
-title: "Volunteering in Netherlands: Expat Guide"
-date: 2026-03-18T10:00:00+01:00
-lastmod: 2026-04-23T10:00:00+01:00
-description: "Volunteering in the Netherlands as an expat 2026: how to find opportunities, visa rules, types of work, language tips, and why it accelerates integration."
-categories: ["integration"]
-tags: ["volunteering", "vrijwilligerswerk", "community", "integration", "social", "expat"]
-keywords: ["volunteering netherlands expats", "volunteer expat netherlands 2026", "how to volunteer netherlands", "expat community netherlands"]
+title: 'Volunteering in Netherlands: Expat Guide'
+date: 2026-03-18 10:00:00+01:00
+lastmod: 2026-04-23 10:00:00+01:00
+description: 'Volunteering in the Netherlands as an expat 2026: how to find opportunities, visa rules, types of work, language tips, and why it accelerates integration.'
+categories:
+- integration
+tags:
+- volunteering
+- vrijwilligerswerk
+- community
+- integration
+- social
+- expat
+keywords:
+- volunteering netherlands expats
+- volunteer expat netherlands 2026
+- how to volunteer netherlands
+- expat community netherlands
 affiliate: false
-author: "Sarah van den Berg"
-author_bio: "Expat coach and relocation specialist. Half Dutch, half British, living in the Netherlands for over 10 years."
-featured_image: "/images/categories/integration.svg"
+author: Sarah van den Berg
+author_bio: Expat coach and relocation specialist. Half Dutch, half British, living in the Netherlands for over 10 years.
+featured_image: /images/categories/integration.svg
 faq:
-  - q: "Can expats volunteer in the Netherlands without speaking Dutch?"
-    a: "Yes. Many organisations — particularly in the international cities — actively seek English-speaking volunteers. International relief organisations, English-language tutoring programmes, refugee support organisations, and animal shelters often work in or can work in English. That said, volunteering is also one of the best ways to practise Dutch in a low-stakes environment where native speakers are patient and supportive."
-  - q: "Do I need a visa or work permit to volunteer in the Netherlands?"
-    a: "Volunteering (vrijwilligerswerk) in the Netherlands is generally exempt from work permit requirements, provided it is genuinely voluntary (unpaid, not replacing paid work, and within limits set by the IND). EU/EEA nationals can volunteer without restriction. Non-EU nationals on a valid residence permit can typically volunteer as well, but should confirm with the IND or their residence permit conditions, particularly for significant commitments."
-  - q: "Where do I find volunteering opportunities in the Netherlands?"
-    a: "The main platform is NLdoet.nl (managed by MOVISIE), which lists volunteer opportunities across the country. Vrijwilligerscentrale branches in most major cities also match volunteers with local organisations. For English-friendly options, search the national KNVB (volunteer network) or check Internations.org for expat community activities. Local Facebook groups for expats in your city also regularly list opportunities."
-  - q: "What types of volunteering are available in the Netherlands?"
-    a: "A wide range: food banks (voedselbank), refugee support and Dutch language tutoring, environmental projects, animal welfare, sports coaching, elderly care, hospice support, heritage preservation, arts and festival organisation, and charity shop (kringloopwinkel) work. Most Dutch charities and non-profits rely heavily on volunteers and are well-organised for integrating new people."
-  - q: "Does volunteering help with the Dutch inburgeringsexamen or integration process?"
-    a: "Volunteering itself is not a formal part of the inburgeringsexamen, but it is strongly recommended by integration advisors. It builds Dutch language skills, creates social networks, adds to your understanding of Dutch culture and community norms, and demonstrates civic participation. Some municipalities will credit volunteer activities in civic integration assessments."
-  - q: "Can I volunteer at an organisation related to my professional skills?"
-    a: "Absolutely. Skill-based volunteering is well-developed in the Netherlands. Legal professionals volunteer at rechtswinkels (free legal advice shops), accountants help non-profits with their books, marketers support charities' communications. Platforms like Thuisafgesproken.nl and ProDeo facilitate skill-based volunteering for professionals."
+- q: Can expats volunteer in the Netherlands without speaking Dutch?
+  a: Yes. Many organisations — particularly in the international cities — actively seek English-speaking volunteers. International relief organisations, English-language tutoring programmes, refugee support organisations, and animal shelters often work in or can work in English. That said, volunteering is also one of the best ways to practise Dutch in a low-stakes environment where native speakers are patient and supportive.
+- q: Do I need a visa or work permit to volunteer in the Netherlands?
+  a: Volunteering (vrijwilligerswerk) in the Netherlands is generally exempt from work permit requirements, provided it is genuinely voluntary (unpaid, not replacing paid work, and within limits set by the IND). EU/EEA nationals can volunteer without restriction. Non-EU nationals on a valid residence permit can typically volunteer as well, but should confirm with the IND or their residence permit conditions, particularly for significant commitments.
+- q: Where do I find volunteering opportunities in the Netherlands?
+  a: The main platform is NLdoet.nl (managed by MOVISIE), which lists volunteer opportunities across the country. Vrijwilligerscentrale branches in most major cities also match volunteers with local organisations. For English-friendly options, search the national KNVB (volunteer network) or check Internations.org for expat community activities. Local Facebook groups for expats in your city also regularly list opportunities.
+- q: What types of volunteering are available in the Netherlands?
+  a: 'A wide range: food banks (voedselbank), refugee support and Dutch language tutoring, environmental projects, animal welfare, sports coaching, elderly care, hospice support, heritage preservation, arts and festival organisation, and charity shop (kringloopwinkel) work. Most Dutch charities and non-profits rely heavily on volunteers and are well-organised for integrating new people.'
+- q: Does volunteering help with the Dutch inburgeringsexamen or integration process?
+  a: Volunteering itself is not a formal part of the inburgeringsexamen, but it is strongly recommended by integration advisors. It builds Dutch language skills, creates social networks, adds to your understanding of Dutch culture and community norms, and demonstrates civic participation. Some municipalities will credit volunteer activities in civic integration assessments.
+- q: Can I volunteer at an organisation related to my professional skills?
+  a: Absolutely. Skill-based volunteering is well-developed in the Netherlands. Legal professionals volunteer at rechtswinkels (free legal advice shops), accountants help non-profits with their books, marketers support charities' communications. Platforms like Thuisafgesproken.nl and ProDeo facilitate skill-based volunteering for professionals.
 products:
-  - name: "Babbel"
-    url: "https://www.babbel.com/"
-    price: "6.99"
-  - name: "Meetup"
-    url: "https://www.meetup.com/"
-    price: "0.00"
-  - name: "DutchPod101"
-    url: "https://www.dutchpod101.com/"
-    price: "0.00"
+- name: Babbel
+  url: https://www.babbel.com/
+  price: '6.99'
+- name: Meetup
+  url: https://www.meetup.com/
+  price: '0.00'
+- name: DutchPod101
+  url: https://www.dutchpod101.com/
+  price: '0.00'
+schema_type: Article
 ---
 
 One of the best decisions I made in my first year in the Netherlands was signing up to volunteer at a food bank. My Dutch was basic and my social network was thin. Within three months, I had a weekly routine that got me out of my flat, regular Dutch conversation practice, a growing understanding of how Dutch community organisations work, and friendships with people I would never have met any other way.

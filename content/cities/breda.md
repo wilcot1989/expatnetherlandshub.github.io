@@ -1,11 +1,13 @@
 ---
-title: "Breda Expat Guide 2026: Living, Working & Costs"
-description: "Expat guide to Breda in 2026. Rent prices, neighbourhoods, jobs, registration, and practical tips for moving to North Brabant."
-date: 2026-03-07T10:00:00+01:00
-lastmod: 2026-04-23T10:00:00+01:00
-featured_image: "/images/featured/breda.webp"
-author: "Sarah van den Berg"
-categories: ["cities"]
+title: 'Breda Expat Guide 2026: Living, Working & Costs'
+description: Expat guide to Breda in 2026. Rent prices, neighbourhoods, jobs, registration, and practical tips for moving to North Brabant.
+date: 2026-03-07 10:00:00+01:00
+lastmod: 2026-04-23 10:00:00+01:00
+featured_image: /images/featured/breda.webp
+author: Sarah van den Berg
+categories:
+- cities
+schema_type: Article
 ---
 
 ## Breda at a Glance

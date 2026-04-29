@@ -1,38 +1,49 @@
 ---
-title: "Salary Negotiation Netherlands: Expat Guide 2026"
-date: 2026-04-27T10:00:00+01:00
-lastmod: 2026-04-23T10:00:00+01:00
-description: "How to negotiate salary in the Netherlands as an expat. Average salaries by sector, gross vs net, the 30% ruling, what's negotiable, and scripts to use."
-categories: ["work"]
-tags: ["salary", "negotiation", "employment", "30% ruling", "gross net"]
-keywords: ["salary negotiation netherlands", "dutch salary expat", "how to negotiate salary netherlands", "average salary netherlands 2026"]
+title: 'Salary Negotiation Netherlands: Expat Guide 2026'
+date: 2026-04-27 10:00:00+01:00
+lastmod: 2026-04-23 10:00:00+01:00
+description: How to negotiate salary in the Netherlands as an expat. Average salaries by sector, gross vs net, the 30% ruling, what's negotiable, and scripts to use.
+categories:
+- work
+tags:
+- salary
+- negotiation
+- employment
+- 30% ruling
+- gross net
+keywords:
+- salary negotiation netherlands
+- dutch salary expat
+- how to negotiate salary netherlands
+- average salary netherlands 2026
 affiliate: true
 products:
-  - name: "LinkedIn Premium"
-    url: "https://www.linkedin.com/premium/"
-    price: "29.99"
-  - name: "Undutchables"
-    url: "https://undutchables.nl/"
-    price: "0.00"
-  - name: "Together Abroad"
-    url: "https://www.togetherabroad.nl/"
-    price: "0.00"
-author: "Sarah van den Berg"
-author_bio: "Expat coach and relocation specialist. Half Dutch, half British, living in the Netherlands for over 10 years."
-featured_image: "/images/categories/work.svg"
+- name: LinkedIn Premium
+  url: https://www.linkedin.com/premium/
+  price: '29.99'
+- name: Undutchables
+  url: https://undutchables.nl/
+  price: '0.00'
+- name: Together Abroad
+  url: https://www.togetherabroad.nl/
+  price: '0.00'
+author: Sarah van den Berg
+author_bio: Expat coach and relocation specialist. Half Dutch, half British, living in the Netherlands for over 10 years.
+featured_image: /images/categories/work.svg
 faq:
-  - q: "What is the average salary in the Netherlands in 2026?"
-    a: "The average gross salary in the Netherlands in 2026 is approximately EUR 44,000 to EUR 48,000 per year (roughly EUR 3,650 to EUR 4,000 per month gross). This varies significantly by sector. Tech professionals typically earn EUR 50,000 to EUR 90,000, finance and consulting EUR 55,000 to EUR 100,000+, and engineering EUR 45,000 to EUR 75,000. Salaries in Amsterdam and the Randstad area are generally 10-15% higher than elsewhere in the country."
-  - q: "Is it normal to negotiate salary in the Netherlands?"
-    a: "Yes, but it is done differently than in many other countries. Dutch employers generally expect candidates to negotiate — not negotiating at all can actually signal a lack of confidence or self-knowledge. However, the negotiation is expected to be calm, data-driven, and professional. Dramatic counter-offers, emotional appeals, or bluffing about competing offers will backfire. Come prepared with market data, know your number, and make your case plainly."
-  - q: "Does the 30% ruling affect salary negotiation?"
-    a: "Significantly, yes. If you qualify for the 30% ruling, 30% of your gross salary is paid tax-free, which can increase your net income by EUR 8,000 to EUR 15,000 per year depending on your salary level. This means the gross salary a Dutch employer offers may look lower than a comparable offer in the UK or Germany, but your actual take-home pay could be higher. Always model the net figures when comparing offers."
-  - q: "What is vakantiegeld and is it negotiable?"
-    a: "Vakantiegeld (holiday allowance) is a mandatory 8% addition to your gross annual salary, paid out as a lump sum — typically in May or June. On a gross salary of EUR 60,000 per year, that adds EUR 4,800 gross (approximately EUR 2,700 to EUR 3,200 net after tax). It is a legal entitlement under Dutch law, not a perk, so it is not really 'negotiable' in the sense of being traded — but some employers offer to spread it across monthly payments instead of one annual lump sum."
-  - q: "What should I not negotiate in Dutch job offers?"
-    a: "Avoid negotiating if the role is covered by a CAO (collectieve arbeidsovereenkomst — collective labour agreement) that fixes salary scales. This includes most jobs in healthcare, education, government, and some manufacturing sectors. Also avoid negotiating on your very first entry-level job in the Netherlands if you have no local market data to support your ask. Always check whether a CAO applies before your interview."
-  - q: "What red flags should I look for in Dutch job offers?"
-    a: "Watch out for: gross salary presented without mentioning vakantiegeld (it may not be included, which would be unusual), no mention of pension contribution or a very low employer contribution (below 5%), probationary periods longer than two months for permanent contracts, trial periods described as 'unpaid internships' for professional roles, and salary described as 'all-in' without breaking down what is included. 'All-in' contracts where vakantiegeld is supposedly bundled into the monthly gross are legal but often disadvantageous."
+- q: What is the average salary in the Netherlands in 2026?
+  a: The average gross salary in the Netherlands in 2026 is approximately EUR 44,000 to EUR 48,000 per year (roughly EUR 3,650 to EUR 4,000 per month gross). This varies significantly by sector. Tech professionals typically earn EUR 50,000 to EUR 90,000, finance and consulting EUR 55,000 to EUR 100,000+, and engineering EUR 45,000 to EUR 75,000. Salaries in Amsterdam and the Randstad area are generally 10-15% higher than elsewhere in the country.
+- q: Is it normal to negotiate salary in the Netherlands?
+  a: Yes, but it is done differently than in many other countries. Dutch employers generally expect candidates to negotiate — not negotiating at all can actually signal a lack of confidence or self-knowledge. However, the negotiation is expected to be calm, data-driven, and professional. Dramatic counter-offers, emotional appeals, or bluffing about competing offers will backfire. Come prepared with market data, know your number, and make your case plainly.
+- q: Does the 30% ruling affect salary negotiation?
+  a: Significantly, yes. If you qualify for the 30% ruling, 30% of your gross salary is paid tax-free, which can increase your net income by EUR 8,000 to EUR 15,000 per year depending on your salary level. This means the gross salary a Dutch employer offers may look lower than a comparable offer in the UK or Germany, but your actual take-home pay could be higher. Always model the net figures when comparing offers.
+- q: What is vakantiegeld and is it negotiable?
+  a: Vakantiegeld (holiday allowance) is a mandatory 8% addition to your gross annual salary, paid out as a lump sum — typically in May or June. On a gross salary of EUR 60,000 per year, that adds EUR 4,800 gross (approximately EUR 2,700 to EUR 3,200 net after tax). It is a legal entitlement under Dutch law, not a perk, so it is not really 'negotiable' in the sense of being traded — but some employers offer to spread it across monthly payments instead of one annual lump sum.
+- q: What should I not negotiate in Dutch job offers?
+  a: Avoid negotiating if the role is covered by a CAO (collectieve arbeidsovereenkomst — collective labour agreement) that fixes salary scales. This includes most jobs in healthcare, education, government, and some manufacturing sectors. Also avoid negotiating on your very first entry-level job in the Netherlands if you have no local market data to support your ask. Always check whether a CAO applies before your interview.
+- q: What red flags should I look for in Dutch job offers?
+  a: 'Watch out for: gross salary presented without mentioning vakantiegeld (it may not be included, which would be unusual), no mention of pension contribution or a very low employer contribution (below 5%), probationary periods longer than two months for permanent contracts, trial periods described as ''unpaid internships'' for professional roles, and salary described as ''all-in'' without breaking down what is included. ''All-in'' contracts where vakantiegeld is supposedly bundled into the monthly gross are legal but often disadvantageous.'
+schema_type: Article
 ---
 
 A client of mine — I will call her Marta — arrived in Amsterdam from Warsaw with a strong CV, four years of experience in product management, and a job offer she was genuinely delighted with. She accepted it the same day it arrived.

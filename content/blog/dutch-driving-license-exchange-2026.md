@@ -1,37 +1,49 @@
 ---
-title: "Dutch Driving License Exchange 2026: 30% Ruling"
-date: 2026-06-10T08:00:00+02:00
-lastmod: 2026-06-10T08:00:00+02:00
-description: "Exchange your foreign license for Dutch RDW license: 30% ruling exemption, country-list eligibility, and the practical timeline 2026."
-categories: ["legal"]
-tags: ["driving license", "RDW", "30% ruling", "expat"]
-keywords: ["exchange foreign driving license Netherlands", "RDW rijbewijs exchange 2026", "30 percent ruling driving license", "CBR theory test expat Netherlands", "driving license exchange non-EU Netherlands", "convert foreign driving license Dutch"]
+title: 'Dutch Driving License Exchange 2026: 30% Ruling'
+date: 2026-06-10 08:00:00+02:00
+lastmod: 2026-06-10 08:00:00+02:00
+description: 'Exchange your foreign license for Dutch RDW license: 30% ruling exemption, country-list eligibility, and the practical timeline 2026.'
+categories:
+- legal
+tags:
+- driving license
+- RDW
+- 30% ruling
+- expat
+keywords:
+- exchange foreign driving license Netherlands
+- RDW rijbewijs exchange 2026
+- 30 percent ruling driving license
+- CBR theory test expat Netherlands
+- driving license exchange non-EU Netherlands
+- convert foreign driving license Dutch
 affiliate: true
-author: "Sarah van den Berg"
-author_bio: "Expat coach and writer at ExpatNetherlandsHub.com"
-featured_image: "/images/categories/expat-life.svg"
+author: Sarah van den Berg
+author_bio: Expat coach and writer at ExpatNetherlandsHub.com
+featured_image: /images/categories/expat-life.svg
 faq:
-  - q: "Which countries can exchange their driving license in the Netherlands without a theory test?"
-    a: "As of 2026, the Netherlands has bilateral agreements with the following countries that allow direct exchange (no theory or practical test): all EU/EEA member states, plus Australia, Japan, South Korea, Taiwan, New Zealand, Singapore, Switzerland, Liechtenstein, Norway, Iceland, Israel (limited categories), Serbia, Bosnia-Herzegovina, Cape Verde, Turkey (under specific conditions), and several others. The full list is maintained by the RDW and updated periodically. Non-EU countries NOT on the list — including the USA, Canada, India, China, Brazil, and most of Africa and Southeast Asia — must pass the CBR theory exam and practical driving test."
-  - q: "Does the 30% ruling speed up or simplify the driving license exchange?"
-    a: "Yes, indirectly. The 30% ruling designates you as a highly skilled migrant (kennismigrant or expat employee), which is relevant in two ways: (1) Some RDW exchange procedures give priority processing to kennismigranten with employer-supported applications; (2) The 30% ruling documentation package (IND decision + employer statement) can serve as secondary identity confirmation during the exchange process. The ruling itself does not exempt you from theory or practical tests — only bilateral agreements do. However, 30% ruling holders from non-agreement countries can request fee waivers in certain municipalities for the CBR theory course."
-  - q: "Can I drive in the Netherlands on my foreign license while waiting for the exchange?"
-    a: "It depends. EU/EEA license holders can drive indefinitely in the Netherlands on their home license — there is no exchange deadline for EU licenses, though the exchange is still advisable for practical reasons (Dutch ID, renewals, insurance complications). Non-EU license holders can drive on a foreign license for up to 185 days after registering as a Dutch resident (BRP registration). After 185 days, driving on a non-EU foreign license is illegal and your car insurance may become void. Book your exchange appointment well before this deadline."
-  - q: "What is the medical exam requirement for driving license exchange?"
-    a: "A medical fitness declaration (gezondheidsverklaring) is required for: (1) anyone applying for a Dutch license for the first time who is over 75 years old; (2) anyone applying for category C/CE or D/DE (trucks, buses); (3) anyone who has a known medical condition that may affect driving ability (diabetes requiring insulin, epilepsy, severe cardiovascular disease, vision impairment below legal thresholds). For a standard passenger vehicle (category B) exchange by a healthy adult under 75, no medical exam is required."
-  - q: "How long does the RDW exchange process take?"
-    a: "For EU license holders at a gemeente: typically 2–6 weeks from application submission to receiving the Dutch license by post. For non-EU license holders from agreement countries: same, 2–6 weeks. For non-EU holders who need CBR tests: the theory test can usually be booked within 3–6 weeks; the practical test within 4–8 weeks after passing theory. Total time for the full CBR route: 3–5 months on average. Processing time at the RDW itself is 10 working days once all documents are submitted."
-  - q: "Does my foreign license get confiscated when I exchange it?"
-    a: "Yes. When your Dutch driving license is issued, the RDW retains your original foreign license. They send it back to the issuing country's authority. You cannot keep both. Make a high-quality photocopy of your foreign license before submitting it — some expats need it for reference or for driving in their home country on return visits (in which case you would need to re-exchange back, which is possible in most countries with a Dutch license)."
-  - q: "What car insurance do I need after exchanging my Dutch driving license?"
-    a: "Dutch law requires at minimum a WA (Wettelijke Aansprakelijkheid / third-party liability) policy for any vehicle registered or driven in the Netherlands. After your license exchange, you should also update your insurer with your new Dutch license details — driving on a foreign license under a Dutch insurance policy can invalidate claims. Use a comparison tool like Independer to find the best policy for your situation, including options that recognise your foreign no-claims history."
-  - q: "Can I transfer my no-claims discount from a foreign insurer to the Netherlands?"
-    a: "Yes, but the process varies by insurer. Most Dutch insurers accept a no-claims declaration (schadevrij-jaren verklaring) from a foreign insurer as evidence of your claims history. You need a letter from your previous insurer on official letterhead stating the number of claim-free years. Some insurers only accept letters from EU/EEA countries; others accept worldwide. Independer's comparison tool shows which Dutch insurers accept foreign no-claims history — compare before you commit."
+- q: Which countries can exchange their driving license in the Netherlands without a theory test?
+  a: 'As of 2026, the Netherlands has bilateral agreements with the following countries that allow direct exchange (no theory or practical test): all EU/EEA member states, plus Australia, Japan, South Korea, Taiwan, New Zealand, Singapore, Switzerland, Liechtenstein, Norway, Iceland, Israel (limited categories), Serbia, Bosnia-Herzegovina, Cape Verde, Turkey (under specific conditions), and several others. The full list is maintained by the RDW and updated periodically. Non-EU countries NOT on the list — including the USA, Canada, India, China, Brazil, and most of Africa and Southeast Asia — must pass the CBR theory exam and practical driving test.'
+- q: Does the 30% ruling speed up or simplify the driving license exchange?
+  a: 'Yes, indirectly. The 30% ruling designates you as a highly skilled migrant (kennismigrant or expat employee), which is relevant in two ways: (1) Some RDW exchange procedures give priority processing to kennismigranten with employer-supported applications; (2) The 30% ruling documentation package (IND decision + employer statement) can serve as secondary identity confirmation during the exchange process. The ruling itself does not exempt you from theory or practical tests — only bilateral agreements do. However, 30% ruling holders from non-agreement countries can request fee waivers in certain municipalities for the CBR theory course.'
+- q: Can I drive in the Netherlands on my foreign license while waiting for the exchange?
+  a: It depends. EU/EEA license holders can drive indefinitely in the Netherlands on their home license — there is no exchange deadline for EU licenses, though the exchange is still advisable for practical reasons (Dutch ID, renewals, insurance complications). Non-EU license holders can drive on a foreign license for up to 185 days after registering as a Dutch resident (BRP registration). After 185 days, driving on a non-EU foreign license is illegal and your car insurance may become void. Book your exchange appointment well before this deadline.
+- q: What is the medical exam requirement for driving license exchange?
+  a: 'A medical fitness declaration (gezondheidsverklaring) is required for: (1) anyone applying for a Dutch license for the first time who is over 75 years old; (2) anyone applying for category C/CE or D/DE (trucks, buses); (3) anyone who has a known medical condition that may affect driving ability (diabetes requiring insulin, epilepsy, severe cardiovascular disease, vision impairment below legal thresholds). For a standard passenger vehicle (category B) exchange by a healthy adult under 75, no medical exam is required.'
+- q: How long does the RDW exchange process take?
+  a: 'For EU license holders at a gemeente: typically 2–6 weeks from application submission to receiving the Dutch license by post. For non-EU license holders from agreement countries: same, 2–6 weeks. For non-EU holders who need CBR tests: the theory test can usually be booked within 3–6 weeks; the practical test within 4–8 weeks after passing theory. Total time for the full CBR route: 3–5 months on average. Processing time at the RDW itself is 10 working days once all documents are submitted.'
+- q: Does my foreign license get confiscated when I exchange it?
+  a: Yes. When your Dutch driving license is issued, the RDW retains your original foreign license. They send it back to the issuing country's authority. You cannot keep both. Make a high-quality photocopy of your foreign license before submitting it — some expats need it for reference or for driving in their home country on return visits (in which case you would need to re-exchange back, which is possible in most countries with a Dutch license).
+- q: What car insurance do I need after exchanging my Dutch driving license?
+  a: Dutch law requires at minimum a WA (Wettelijke Aansprakelijkheid / third-party liability) policy for any vehicle registered or driven in the Netherlands. After your license exchange, you should also update your insurer with your new Dutch license details — driving on a foreign license under a Dutch insurance policy can invalidate claims. Use a comparison tool like Independer to find the best policy for your situation, including options that recognise your foreign no-claims history.
+- q: Can I transfer my no-claims discount from a foreign insurer to the Netherlands?
+  a: Yes, but the process varies by insurer. Most Dutch insurers accept a no-claims declaration (schadevrij-jaren verklaring) from a foreign insurer as evidence of your claims history. You need a letter from your previous insurer on official letterhead stating the number of claim-free years. Some insurers only accept letters from EU/EEA countries; others accept worldwide. Independer's comparison tool shows which Dutch insurers accept foreign no-claims history — compare before you commit.
 products:
-  - name: "Independer Auto"
-    url: "https://go.expatnetherlandshub.com/independer-auto"
-    price: "0.00"
-    tag: "Car Insurance Comparison"
+- name: Independer Auto
+  url: https://go.expatnetherlandshub.com/independer-auto
+  price: '0.00'
+  tag: Car Insurance Comparison
+schema_type: Article
 ---
 
 When I exchanged my Australian driving license for a Dutch one in 2020, I assumed it would take a week, maybe two. In the end it took eleven weeks — not because of bureaucratic inefficiency, but because I did not understand the sequence, missed a step in the RDW document requirements, and did not know that my Australian license entitled me to a direct exchange without tests.

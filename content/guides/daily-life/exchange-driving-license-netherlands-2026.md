@@ -1,40 +1,42 @@
 ---
-title: "Exchange Your Driving Licence in the Netherlands (2026)"
-slug: "exchange-driving-license-netherlands-2026"
-date: 2026-04-09T10:00:00+01:00
-lastmod: 2026-04-23T10:00:00+01:00
-author: "Sarah van den Berg"
-author_bio: "Expat coach and relocation specialist. Half Dutch, half British, living in the Netherlands for over 10 years."
-categories: ["daily-life"]
-type: "guide"
-featured_image: "/images/featured/exchange-driving-license-netherlands-2026.webp"
+title: Exchange Your Driving Licence in the Netherlands (2026)
+slug: exchange-driving-license-netherlands-2026
+date: 2026-04-09 10:00:00+01:00
+lastmod: 2026-04-23 10:00:00+01:00
+author: Sarah van den Berg
+author_bio: Expat coach and relocation specialist. Half Dutch, half British, living in the Netherlands for over 10 years.
+categories:
+- daily-life
+type: guide
+featured_image: /images/featured/exchange-driving-license-netherlands-2026.webp
 affiliate: true
 products:
-  - name: "Swapfiets"
-    url: "https://swapfiets.nl/"
-    price: "16.90"
-  - name: "NS"
-    url: "https://www.ns.nl/"
-    price: "0.00"
-description: "How to exchange your foreign driving licence in the Netherlands. EU and non-EU rules, documents, costs, and what to do if your country is not listed."
+- name: Swapfiets
+  url: https://swapfiets.nl/
+  price: '16.90'
+- name: NS
+  url: https://www.ns.nl/
+  price: '0.00'
+description: How to exchange your foreign driving licence in the Netherlands. EU and non-EU rules, documents, costs, and what to do if your country is not listed.
 faq:
-  - q: "Can I drive in the Netherlands on my foreign driving licence?"
-    a: "Yes, but only temporarily. EU/EEA licence holders can drive indefinitely. Non-EU licence holders can drive for 185 days after registering in the Netherlands. After that, you must have exchanged your licence or passed the Dutch driving exam."
-  - q: "Which countries can exchange their driving licence without a Dutch driving exam?"
-    a: "Over 30 countries have an exchange agreement with the Netherlands, including the UK, USA, Canada, Australia, Japan, South Korea, and many others. If your country is on the list, you skip the theory and practical tests entirely."
-  - q: "How long does the driving licence exchange take in the Netherlands?"
-    a: "Processing time is typically 4 to 8 weeks after you submit your application at the gemeente. During this period, you receive a temporary driving permit so you can still drive legally."
-  - q: "How much does it cost to exchange a driving licence in the Netherlands?"
-    a: "The municipality fee is usually between €40 and €50. You also pay a national CBR/RDW fee of around €42. Total costs are typically €80–€100, though municipalities vary slightly."
-  - q: "What if my country is NOT on the exchange list?"
-    a: "You will need to pass the full Dutch driving exam — a theory test (theorie-examen) and a practical driving test (rijexamen) administered by the CBR. Most expats in this situation take a course of 10–20 lessons."
+- q: Can I drive in the Netherlands on my foreign driving licence?
+  a: Yes, but only temporarily. EU/EEA licence holders can drive indefinitely. Non-EU licence holders can drive for 185 days after registering in the Netherlands. After that, you must have exchanged your licence or passed the Dutch driving exam.
+- q: Which countries can exchange their driving licence without a Dutch driving exam?
+  a: Over 30 countries have an exchange agreement with the Netherlands, including the UK, USA, Canada, Australia, Japan, South Korea, and many others. If your country is on the list, you skip the theory and practical tests entirely.
+- q: How long does the driving licence exchange take in the Netherlands?
+  a: Processing time is typically 4 to 8 weeks after you submit your application at the gemeente. During this period, you receive a temporary driving permit so you can still drive legally.
+- q: How much does it cost to exchange a driving licence in the Netherlands?
+  a: The municipality fee is usually between €40 and €50. You also pay a national CBR/RDW fee of around €42. Total costs are typically €80–€100, though municipalities vary slightly.
+- q: What if my country is NOT on the exchange list?
+  a: You will need to pass the full Dutch driving exam — a theory test (theorie-examen) and a practical driving test (rijexamen) administered by the CBR. Most expats in this situation take a course of 10–20 lessons.
 tags:
-  - driving licence
-  - expat
-  - gemeente
-  - CBR
-  - RDW
-  - daily life
+- driving licence
+- expat
+- gemeente
+- CBR
+- RDW
+- daily life
+schema_type: Article
 ---
 
 When I arrived in the Netherlands from the UK, I made the mistake of assuming my British driving licence would simply work here — forever, no questions asked. I was wrong, and I found out the hard way when a friend mentioned, almost in passing, that the 185-day clock had already started ticking.

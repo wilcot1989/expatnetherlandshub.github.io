@@ -1,38 +1,43 @@
 ---
-title: "Netherlands vs UK Cost of Living & Tax Compared (2026)"
-date: 2026-05-02T10:00:00+01:00
-lastmod: 2026-04-23T10:00:00+01:00
-type: "guide"
-description: "Netherlands vs UK cost of living compared for expats. Salaries, taxes, healthcare, housing, and quality of life side-by-side for 2026."
-categories: ["integration"]
-tags: ["Netherlands vs UK", "expat comparison", "cost of living", "relocating"]
-keywords: ["netherlands vs uk cost of living", "netherlands vs uk expats", "living in netherlands vs uk", "moving from uk to netherlands", "cost of living uk vs netherlands", "living in uk vs netherlands"]
+title: Netherlands vs UK Cost of Living & Tax Compared (2026)
+date: 2026-05-02 10:00:00+01:00
+lastmod: 2026-04-23 10:00:00+01:00
+type: guide
+description: Netherlands vs UK cost of living compared for expats. Salaries, taxes, healthcare, housing, and quality of life side-by-side for 2026.
+categories:
+- integration
+tags:
+- Netherlands vs UK
+- expat comparison
+- cost of living
+- relocating
+keywords:
+- netherlands vs uk cost of living
+- netherlands vs uk expats
+- living in netherlands vs uk
+- moving from uk to netherlands
+- cost of living uk vs netherlands
+- living in uk vs netherlands
 affiliate: true
-author: "Sarah van den Berg"
-author_bio: "Expat coach and relocation specialist. Half Dutch, half British, living in the Netherlands for over 10 years."
-featured_image: "/images/categories/integration.svg"
+author: Sarah van den Berg
+author_bio: Expat coach and relocation specialist. Half Dutch, half British, living in the Netherlands for over 10 years.
+featured_image: /images/categories/integration.svg
 faq:
-  - q: "Is the Netherlands more expensive than the UK?"
-    a: "Overall, yes — the Netherlands is roughly 10-15% more expensive than the UK on average. Housing in Amsterdam is comparable to London, but Dutch cities outside the Randstad are significantly cheaper. Groceries are 5-10% higher, but healthcare and childcare costs are more predictable. Salaries in the Netherlands are generally higher for equivalent roles, and the 30% ruling can make a significant difference for qualifying expats."
-  - q: "Is healthcare better in the Netherlands or the UK?"
-    a: "The systems are fundamentally different. The UK has the NHS (free at point of use, tax-funded), while the Netherlands has mandatory private insurance (€130-170/month with a €385 deductible). Dutch healthcare scores higher on waiting times and access to specialists, but the UK system is better for those on very low incomes. Both countries have high-quality medical care."
-  - q: "Are taxes higher in the Netherlands or the UK?"
-    a: "Dutch income tax rates are slightly higher (36.97% up to €75,518, then 49.50%), but the 30% ruling can reduce your effective tax rate dramatically. The UK has a more graduated system (20%, 40%, 45%). VAT is 21% in NL vs 20% in the UK. Council tax in the UK vs gemeentebelastingen in NL are roughly comparable."
+- q: Who is this for?
+  a: See the section above on who benefits most from this service or guide.
+- q: What does it cost in 2026?
+  a: Pricing varies — see the comparison table above for current rates.
 products:
-  - name: "Babbel"
-    url: "https://www.babbel.com/"
-    price: "6.99"
-  - name: "Meetup"
-    url: "https://www.meetup.com/"
-    price: "0.00"
-  - name: "DutchPod101"
-    url: "https://www.dutchpod101.com/"
-    price: "0.00"
-faq:
-  - q: "Who is this for?"
-    a: "See the section above on who benefits most from this service or guide."
-  - q: "What does it cost in 2026?"
-    a: "Pricing varies — see the comparison table above for current rates."
+- name: Babbel
+  url: https://www.babbel.com/
+  price: '6.99'
+- name: Meetup
+  url: https://www.meetup.com/
+  price: '0.00'
+- name: DutchPod101
+  url: https://www.dutchpod101.com/
+  price: '0.00'
+schema_type: Article
 ---
 
 I have one foot in each country. My mother is Dutch, my father is British, and I grew up shuttling between Rotterdam and South London. When I moved to the Netherlands full-time in 2015, I thought I knew exactly what to expect. Ten years later, I still catch myself surprised by the differences — some obvious, some completely invisible until you are living them. This comparison is the article I wish I had before I made the move. Whether you are a British expat considering the Netherlands or comparing both options from somewhere else entirely, here is an honest side-by-side of what life actually looks like in 2026.

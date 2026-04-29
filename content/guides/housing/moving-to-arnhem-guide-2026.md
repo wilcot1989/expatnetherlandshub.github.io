@@ -1,38 +1,48 @@
 ---
-title: "Moving to Arnhem: Expat Guide 2026"
-date: 2026-06-16T10:00:00+01:00
-lastmod: 2026-04-23T10:00:00+01:00
-description: "Expat guide to Arnhem 2026: neighbourhoods, rent prices, employers, Veluwe access, and why this green city is one of the best relocation picks."
-categories: ["housing"]
-tags: ["Arnhem", "moving", "housing", "city guide"]
-keywords: ["moving to arnhem expat", "arnhem expat guide 2026", "living in arnhem", "arnhem housing expat"]
+title: 'Moving to Arnhem: Expat Guide 2026'
+date: 2026-06-16 10:00:00+01:00
+lastmod: 2026-04-23 10:00:00+01:00
+description: 'Expat guide to Arnhem 2026: neighbourhoods, rent prices, employers, Veluwe access, and why this green city is one of the best relocation picks.'
+categories:
+- housing
+tags:
+- Arnhem
+- moving
+- housing
+- city guide
+keywords:
+- moving to arnhem expat
+- arnhem expat guide 2026
+- living in arnhem
+- arnhem housing expat
 affiliate: true
-author: "Sarah van den Berg"
-author_bio: "Expat coach and relocation specialist. Half Dutch, half British, living in the Netherlands for over 10 years."
-featured_image: "/images/categories/cities.svg"
+author: Sarah van den Berg
+author_bio: Expat coach and relocation specialist. Half Dutch, half British, living in the Netherlands for over 10 years.
+featured_image: /images/categories/cities.svg
 faq:
-  - q: "Is Arnhem a good city for expats?"
-    a: "Arnhem suits expats working at Engie, Arcadis, Rijnstate hospital, or any of the regional logistics and technology employers well. The city is genuinely green — it borders the Veluwe National Park directly — and has good train links to Amsterdam (1h20), Utrecht (50 min), and Nijmegen (12-15 min). Housing is significantly cheaper than the Randstad, the cycling infrastructure is excellent, and the Sonsbeekpark provides a level of urban green space that most Dutch cities cannot match. The international community is smaller than in The Hague or Eindhoven, but the city is English-friendly and has a growing creative and fashion identity thanks to ArtEZ University of the Arts."
-  - q: "How much does rent cost in Arnhem?"
-    a: "Arnhem is one of the more affordable mid-sized Dutch cities. Expect to pay €800-€1,100 per month for a one-bedroom apartment, €1,050-€1,550 for a two-bedroom, and €1,350-€2,000 for a three-bedroom house. Centrum and Sonsbeek are at the higher end; Presikhaaf and the areas further east offer better value. These figures are roughly 35-45% below Amsterdam. A single expat can live reasonably on €1,400-€1,900 per month all-in; a couple should budget €2,200-€3,000 per month."
-  - q: "What are the best neighbourhoods in Arnhem for expats?"
-    a: "The main options are: Centrum (historic centre, close to everything, higher rents), Klarendal (creative, up-and-coming, the fashion quarter, excellent value for its character), Sonsbeek (leafy, bourgeois, park-adjacent, popular with families and professionals), Presikhaaf (affordable, multicultural, practical), and Velp (suburban, technically a separate municipality but effectively part of the Arnhem agglomeration, quiet and green). Most single expats gravitate toward Klarendal or Centrum; families with children often prefer Sonsbeek or Velp for the space and green surroundings."
-  - q: "How far is Arnhem from Amsterdam and other major cities?"
-    a: "Arnhem to Amsterdam Centraal is 1 hour 20 minutes by direct Intercity train, with departures every 30 minutes. To Utrecht Centraal it is around 50 minutes; to Nijmegen just 12-15 minutes. The city also has direct connections to Düsseldorf and other German cities via international rail, which is useful for expats with cross-border work. Daily commuting to Amsterdam is possible but tiring; for weekly or occasional travel it is entirely practical."
-  - q: "What is the Arnhem Fashion Quarter?"
-    a: "Arnhem has built a genuine identity as a fashion city, centred on the Fashion & Design department at ArtEZ University of the Arts. The area known informally as the Arnhem Fashion Quarter is largely based around the Klarendal neighbourhood, where independent boutiques, ateliers, and concept stores run by ArtEZ graduates have taken over former social housing properties. The annual Arnhem Mode Biennale attracts international fashion professionals. For expats in creative industries, this gives Arnhem a distinct identity that few Dutch cities outside Amsterdam can offer."
-  - q: "Is the Veluwe easy to access from Arnhem?"
-    a: "The Veluwe National Park — the largest nature reserve in the Netherlands, covering 900 square kilometres of heathland, forest, and sand dunes — begins within cycling distance of Arnhem's eastern and northern edges. The Hoge Veluwe National Park, which includes the Kröller-Müller Museum with one of the world's largest Van Gogh collections, is accessible by bike from the city in 45-60 minutes or by bus from the centre. Sonsbeekpark, within the city itself, connects to the wider green belt. For expats who want urban convenience with immediate nature access, the Arnhem location is genuinely exceptional."
+- q: Is Arnhem a good city for expats?
+  a: Arnhem suits expats working at Engie, Arcadis, Rijnstate hospital, or any of the regional logistics and technology employers well. The city is genuinely green — it borders the Veluwe National Park directly — and has good train links to Amsterdam (1h20), Utrecht (50 min), and Nijmegen (12-15 min). Housing is significantly cheaper than the Randstad, the cycling infrastructure is excellent, and the Sonsbeekpark provides a level of urban green space that most Dutch cities cannot match. The international community is smaller than in The Hague or Eindhoven, but the city is English-friendly and has a growing creative and fashion identity thanks to ArtEZ University of the Arts.
+- q: How much does rent cost in Arnhem?
+  a: Arnhem is one of the more affordable mid-sized Dutch cities. Expect to pay €800-€1,100 per month for a one-bedroom apartment, €1,050-€1,550 for a two-bedroom, and €1,350-€2,000 for a three-bedroom house. Centrum and Sonsbeek are at the higher end; Presikhaaf and the areas further east offer better value. These figures are roughly 35-45% below Amsterdam. A single expat can live reasonably on €1,400-€1,900 per month all-in; a couple should budget €2,200-€3,000 per month.
+- q: What are the best neighbourhoods in Arnhem for expats?
+  a: 'The main options are: Centrum (historic centre, close to everything, higher rents), Klarendal (creative, up-and-coming, the fashion quarter, excellent value for its character), Sonsbeek (leafy, bourgeois, park-adjacent, popular with families and professionals), Presikhaaf (affordable, multicultural, practical), and Velp (suburban, technically a separate municipality but effectively part of the Arnhem agglomeration, quiet and green). Most single expats gravitate toward Klarendal or Centrum; families with children often prefer Sonsbeek or Velp for the space and green surroundings.'
+- q: How far is Arnhem from Amsterdam and other major cities?
+  a: Arnhem to Amsterdam Centraal is 1 hour 20 minutes by direct Intercity train, with departures every 30 minutes. To Utrecht Centraal it is around 50 minutes; to Nijmegen just 12-15 minutes. The city also has direct connections to Düsseldorf and other German cities via international rail, which is useful for expats with cross-border work. Daily commuting to Amsterdam is possible but tiring; for weekly or occasional travel it is entirely practical.
+- q: What is the Arnhem Fashion Quarter?
+  a: Arnhem has built a genuine identity as a fashion city, centred on the Fashion & Design department at ArtEZ University of the Arts. The area known informally as the Arnhem Fashion Quarter is largely based around the Klarendal neighbourhood, where independent boutiques, ateliers, and concept stores run by ArtEZ graduates have taken over former social housing properties. The annual Arnhem Mode Biennale attracts international fashion professionals. For expats in creative industries, this gives Arnhem a distinct identity that few Dutch cities outside Amsterdam can offer.
+- q: Is the Veluwe easy to access from Arnhem?
+  a: The Veluwe National Park — the largest nature reserve in the Netherlands, covering 900 square kilometres of heathland, forest, and sand dunes — begins within cycling distance of Arnhem's eastern and northern edges. The Hoge Veluwe National Park, which includes the Kröller-Müller Museum with one of the world's largest Van Gogh collections, is accessible by bike from the city in 45-60 minutes or by bus from the centre. Sonsbeekpark, within the city itself, connects to the wider green belt. For expats who want urban convenience with immediate nature access, the Arnhem location is genuinely exceptional.
 products:
-  - name: "HousingAnywhere"
-    url: "https://housinganywhere.com/"
-    price: "0.00"
-  - name: "Pararius"
-    url: "https://www.pararius.com/"
-    price: "0.00"
-  - name: "Funda"
-    url: "https://www.funda.nl/"
-    price: "0.00"
+- name: HousingAnywhere
+  url: https://housinganywhere.com/
+  price: '0.00'
+- name: Pararius
+  url: https://www.pararius.com/
+  price: '0.00'
+- name: Funda
+  url: https://www.funda.nl/
+  price: '0.00'
+schema_type: Article
 ---
 
 I have been placing expat clients in Dutch cities for over a decade, and Arnhem is consistently the one that surprises people most. They come expecting a quiet, unremarkable regional city somewhere in the east, and they find something that is harder to categorise: a place where forested heathland begins where the suburbs end, where a fashion quarter has grown organically out of a deprived neighbourhood, and where the shadow of one of the Second World War's most famous battles still shapes how the city thinks about itself.

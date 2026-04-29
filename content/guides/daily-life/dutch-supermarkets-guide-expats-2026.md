@@ -1,30 +1,41 @@
 ---
-title: "Dutch Supermarkets Ranked: Complete Guide for Expats (2026)"
-date: 2026-03-23T10:00:00+01:00
-lastmod: 2026-04-23T10:00:00+01:00
-description: "Honest ranking of Dutch supermarkets for expats. Albert Heijn, Jumbo, Lidl, PLUS, Dirk — prices, quality, and international products compared."
-categories: ["daily-life"]
-tags: ["supermarkets", "grocery", "Albert Heijn", "Jumbo", "shopping Netherlands"]
-keywords: ["dutch supermarkets expats", "best supermarket netherlands", "Albert Heijn vs Jumbo", "grocery shopping netherlands"]
+title: 'Dutch Supermarkets Ranked: Complete Guide for Expats (2026)'
+date: 2026-03-23 10:00:00+01:00
+lastmod: 2026-04-23 10:00:00+01:00
+description: Honest ranking of Dutch supermarkets for expats. Albert Heijn, Jumbo, Lidl, PLUS, Dirk — prices, quality, and international products compared.
+categories:
+- daily-life
+tags:
+- supermarkets
+- grocery
+- Albert Heijn
+- Jumbo
+- shopping Netherlands
+keywords:
+- dutch supermarkets expats
+- best supermarket netherlands
+- Albert Heijn vs Jumbo
+- grocery shopping netherlands
 affiliate: true
 products:
-  - name: "KPN"
-    url: "https://www.kpn.com/"
-    price: "0.00"
-author: "Sarah van den Berg"
-author_bio: "Expat coach and relocation specialist. Half Dutch, half British, living in the Netherlands for over 10 years."
-featured_image: "/images/featured/dutch-supermarkets-guide-expats-2026.webp"
+- name: KPN
+  url: https://www.kpn.com/
+  price: '0.00'
+author: Sarah van den Berg
+author_bio: Expat coach and relocation specialist. Half Dutch, half British, living in the Netherlands for over 10 years.
+featured_image: /images/featured/dutch-supermarkets-guide-expats-2026.webp
 faq:
-  - q: "Is Albert Heijn or Jumbo better for expats?"
-    a: "It depends on what matters most to you. Albert Heijn is the better choice if you prioritise an extensive English-friendly app, wide product range, international products, and convenient AH to go locations. Jumbo wins on price for a comparable quality shop, has more space in its larger stores, and offers a 'Geen Gedoe' price guarantee. Many expats do a main weekly shop at Jumbo and top up at Albert Heijn for specific items or convenience. If you live in the Randstad and are on a tight budget, Dirk van den Broek offers the lowest prices of any full-service supermarket."
-  - q: "What is the statiegeld system and how does it work?"
-    a: "Statiegeld is a deposit-refund system for bottles and cans. You pay a deposit when you buy a drink: EUR 0.15 for small plastic bottles (under 1 litre), EUR 0.25 for large plastic bottles and glass bottles, and EUR 0.15 for aluminium cans (introduced in 2023). When you return the empty container to a statiegeld machine (a retourautomaat) at any supermarket, you get the deposit back as a voucher to spend in that store. The machine is usually near the entrance. You do not need to return containers to the same shop where you bought them."
-  - q: "Which Dutch supermarket has the most international and English-language products?"
-    a: "Albert Heijn has the widest range of international products, particularly in larger city-centre branches (the 'AH XL' format). You will find British staples like Heinz beans, Marmite, Tetley tea, and Cadbury chocolate, plus a reasonable selection of Asian, Middle Eastern, and American products. Jumbo also stocks a solid international range. For more specialist items — South Asian spices, Caribbean ingredients, Japanese products, halal meat — you will need a dedicated toko (Asian grocery) or Moroccan/Turkish supermarket. In any major city, these are easy to find."
-  - q: "Can I do grocery shopping on Sundays in the Netherlands?"
-    a: "Yes, most supermarkets in the Netherlands are open on Sundays, though with reduced hours — typically 11:00 to 19:00 or 10:00 to 18:00 depending on the municipality. Large cities like Amsterdam, Rotterdam, Utrecht, and The Hague have liberal Sunday trading rules and you will rarely be caught out. Smaller towns and villages may have shorter Sunday hours or, in some cases, no Sunday opening at all. Albert Heijn and Jumbo are reliable bets on Sundays. The Albert Heijn to go convenience stores in train stations are open seven days a week, often from early morning until late evening."
-  - q: "Who is this for?"
-    a: "See the section above on who benefits most from this service or guide."
+- q: Is Albert Heijn or Jumbo better for expats?
+  a: It depends on what matters most to you. Albert Heijn is the better choice if you prioritise an extensive English-friendly app, wide product range, international products, and convenient AH to go locations. Jumbo wins on price for a comparable quality shop, has more space in its larger stores, and offers a 'Geen Gedoe' price guarantee. Many expats do a main weekly shop at Jumbo and top up at Albert Heijn for specific items or convenience. If you live in the Randstad and are on a tight budget, Dirk van den Broek offers the lowest prices of any full-service supermarket.
+- q: What is the statiegeld system and how does it work?
+  a: 'Statiegeld is a deposit-refund system for bottles and cans. You pay a deposit when you buy a drink: EUR 0.15 for small plastic bottles (under 1 litre), EUR 0.25 for large plastic bottles and glass bottles, and EUR 0.15 for aluminium cans (introduced in 2023). When you return the empty container to a statiegeld machine (a retourautomaat) at any supermarket, you get the deposit back as a voucher to spend in that store. The machine is usually near the entrance. You do not need to return containers to the same shop where you bought them.'
+- q: Which Dutch supermarket has the most international and English-language products?
+  a: Albert Heijn has the widest range of international products, particularly in larger city-centre branches (the 'AH XL' format). You will find British staples like Heinz beans, Marmite, Tetley tea, and Cadbury chocolate, plus a reasonable selection of Asian, Middle Eastern, and American products. Jumbo also stocks a solid international range. For more specialist items — South Asian spices, Caribbean ingredients, Japanese products, halal meat — you will need a dedicated toko (Asian grocery) or Moroccan/Turkish supermarket. In any major city, these are easy to find.
+- q: Can I do grocery shopping on Sundays in the Netherlands?
+  a: Yes, most supermarkets in the Netherlands are open on Sundays, though with reduced hours — typically 11:00 to 19:00 or 10:00 to 18:00 depending on the municipality. Large cities like Amsterdam, Rotterdam, Utrecht, and The Hague have liberal Sunday trading rules and you will rarely be caught out. Smaller towns and villages may have shorter Sunday hours or, in some cases, no Sunday opening at all. Albert Heijn and Jumbo are reliable bets on Sundays. The Albert Heijn to go convenience stores in train stations are open seven days a week, often from early morning until late evening.
+- q: Who is this for?
+  a: See the section above on who benefits most from this service or guide.
+schema_type: Article
 ---
 
 The first time I walked into a Dutch supermarket on my own, I came out with two bags of groceries and a mild identity crisis. The bonuskaart lady at the checkout asked me something I did not understand. I smiled and nodded. She asked again, more slowly, still in Dutch. I handed her my debit card. She sighed gently and moved on. I later discovered she was asking whether I had a loyalty card. In hindsight, not a catastrophe. At the time, it felt like failing some kind of citizenship test.

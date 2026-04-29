@@ -1,35 +1,44 @@
 ---
-title: "MVV Visa and Family Reunification Netherlands"
-description: "How does family reunification work in the Netherlands? I explain the MVV visa, who qualifies, what the process involves, and what to expect in 2026."
+title: MVV Visa and Family Reunification Netherlands
+description: How does family reunification work in the Netherlands? I explain the MVV visa, who qualifies, what the process involves, and what to expect in 2026.
 date: 2026-03-22
-lastmod: 2026-04-23T10:00:00+01:00
-author: "Sarah van den Berg"
-author_bio: "Expat coach and writer at ExpatNetherlandsHub.com"
-categories: ["legal"]
-tags: ["MVV", "visa", "family reunification", "Netherlands", "immigration", "IND", "residence permit"]
-featured_image: "/images/categories/legal.svg"
+lastmod: 2026-04-23 10:00:00+01:00
+author: Sarah van den Berg
+author_bio: Expat coach and writer at ExpatNetherlandsHub.com
+categories:
+- legal
+tags:
+- MVV
+- visa
+- family reunification
+- Netherlands
+- immigration
+- IND
+- residence permit
+featured_image: /images/categories/legal.svg
 affiliate: false
 draft: false
 faq:
-  - q: "What is an MVV visa for the Netherlands?"
-    a: "MVV stands for Machtiging tot Voorlopig Verblijf, or Provisional Residence Permit. It is a long-stay visa sticker placed in your passport that allows you to enter the Netherlands and then apply for a residence permit. Most people applying from outside the EU to join family in the Netherlands need an MVV before they travel."
-  - q: "Who qualifies for family reunification in the Netherlands?"
-    a: "A Dutch citizen or legal resident can apply to be joined by their spouse or registered partner, minor children (under 18), or in some cases adult children. The sponsor (the person already in the Netherlands) must meet income requirements and have a valid residence permit. The family member must meet relationship and identity requirements."
-  - q: "What is the income requirement for family reunification in the Netherlands?"
-    a: "The sponsor must earn at least 100% of the statutory minimum wage, which in 2026 is approximately €2,070 gross per month. This must be stable income — temporary contracts may be assessed differently. Self-employed sponsors must demonstrate stable income over at least three years."
-  - q: "How long does the MVV and family reunification process take?"
-    a: "The IND has a target of processing applications within 90 days of receiving a complete application. In practice, timelines vary. Complex cases or missing documentation can significantly extend the process. Processing times are updated on the IND website."
-  - q: "Do EU citizens need an MVV to join family in the Netherlands?"
-    a: "No. EU/EEA and Swiss citizens do not need an MVV. They can enter the Netherlands and register at the municipality. Family members of EU citizens may also be exempt from the MVV requirement depending on their own nationality and whether they qualify under EU free movement rules."
+- q: What is an MVV visa for the Netherlands?
+  a: MVV stands for Machtiging tot Voorlopig Verblijf, or Provisional Residence Permit. It is a long-stay visa sticker placed in your passport that allows you to enter the Netherlands and then apply for a residence permit. Most people applying from outside the EU to join family in the Netherlands need an MVV before they travel.
+- q: Who qualifies for family reunification in the Netherlands?
+  a: A Dutch citizen or legal resident can apply to be joined by their spouse or registered partner, minor children (under 18), or in some cases adult children. The sponsor (the person already in the Netherlands) must meet income requirements and have a valid residence permit. The family member must meet relationship and identity requirements.
+- q: What is the income requirement for family reunification in the Netherlands?
+  a: The sponsor must earn at least 100% of the statutory minimum wage, which in 2026 is approximately €2,070 gross per month. This must be stable income — temporary contracts may be assessed differently. Self-employed sponsors must demonstrate stable income over at least three years.
+- q: How long does the MVV and family reunification process take?
+  a: The IND has a target of processing applications within 90 days of receiving a complete application. In practice, timelines vary. Complex cases or missing documentation can significantly extend the process. Processing times are updated on the IND website.
+- q: Do EU citizens need an MVV to join family in the Netherlands?
+  a: No. EU/EEA and Swiss citizens do not need an MVV. They can enter the Netherlands and register at the municipality. Family members of EU citizens may also be exempt from the MVV requirement depending on their own nationality and whether they qualify under EU free movement rules.
 products:
-  - name: "Wise"
-    url: "https://go.expatnetherlandshub.com/wise?ref=/blog/mvv-visa-family-reunification-netherlands-2026/"
-    price: "0.00"
-    tag: "Currency Transfer"
-  - name: "SafetyWing"
-    url: "https://go.expatnetherlandshub.com/safetywing?ref=/blog/mvv-visa-family-reunification-netherlands-2026/"
-    price: "0.00"
-    tag: "Expat Insurance"
+- name: Wise
+  url: https://go.expatnetherlandshub.com/wise?ref=/blog/mvv-visa-family-reunification-netherlands-2026/
+  price: '0.00'
+  tag: Currency Transfer
+- name: SafetyWing
+  url: https://go.expatnetherlandshub.com/safetywing?ref=/blog/mvv-visa-family-reunification-netherlands-2026/
+  price: '0.00'
+  tag: Expat Insurance
+schema_type: Article
 ---
 
 Family reunification — bringing your partner, spouse, or children to join you in the Netherlands — is one of the most emotionally important immigration processes you'll go through. It's also one of the more bureaucratically involved.

@@ -1,38 +1,49 @@
 ---
-title: "Partner Visa Netherlands: Complete Guide 2026"
-date: 2026-06-08T10:00:00+01:00
-lastmod: 2026-04-23T10:00:00+01:00
-description: "Bringing your partner to the Netherlands in 2026: MVV, income requirements, documents, timeline, and the inburgeringsexamen — explained step by step."
-categories: ["legal"]
-tags: ["partner visa", "MVV", "family reunification", "spouse visa"]
-keywords: ["partner visa netherlands 2026", "mvv partner netherlands", "bring spouse to netherlands expat", "family reunification netherlands income requirement", "partner visa netherlands non-eu"]
+title: 'Partner Visa Netherlands: Complete Guide 2026'
+date: 2026-06-08 10:00:00+01:00
+lastmod: 2026-04-23 10:00:00+01:00
+description: 'Bringing your partner to the Netherlands in 2026: MVV, income requirements, documents, timeline, and the inburgeringsexamen — explained step by step.'
+categories:
+- legal
+tags:
+- partner visa
+- MVV
+- family reunification
+- spouse visa
+keywords:
+- partner visa netherlands 2026
+- mvv partner netherlands
+- bring spouse to netherlands expat
+- family reunification netherlands income requirement
+- partner visa netherlands non-eu
 affiliate: true
 products:
-  - name: "Expatax"
-    url: "https://www.expatax.nl/"
-    price: "0.00"
-  - name: "Blue Umbrella"
-    url: "https://www.blueumbrella.nl/"
-    price: "0.00"
-  - name: "IND"
-    url: "https://ind.nl/en"
-    price: "0.00"
-author: "Sarah van den Berg"
-author_bio: "Expat coach and relocation specialist. Half Dutch, half British, living in the Netherlands for over 10 years."
-featured_image: "/images/categories/legal.svg"
+- name: Expatax
+  url: https://www.expatax.nl/
+  price: '0.00'
+- name: Blue Umbrella
+  url: https://www.blueumbrella.nl/
+  price: '0.00'
+- name: IND
+  url: https://ind.nl/en
+  price: '0.00'
+author: Sarah van den Berg
+author_bio: Expat coach and relocation specialist. Half Dutch, half British, living in the Netherlands for over 10 years.
+featured_image: /images/categories/legal.svg
 faq:
-  - q: "What is the income requirement to bring a partner to the Netherlands in 2026?"
-    a: "In 2026, the sponsoring partner in the Netherlands must earn at least EUR 2,032.33 net per month. This is based on the Dutch statutory minimum wage (minimumloon) and is updated twice per year, in January and July. The amount must be from a stable, lasting income source — typically employment. Freelance or self-employed income requires additional documentation to demonstrate stability. The income must be from the reference person in the Netherlands; the foreign partner's income does not count."
-  - q: "Does my partner need to pass an integration exam before coming to the Netherlands?"
-    a: "If your partner is a non-EU national from a country not on the exemption list, yes — they must pass the inburgeringsexamen buitenland (civic integration exam abroad) before the MVV application can be approved. This exam is taken at a Dutch embassy or consulate in the country where your partner lives. It tests basic Dutch language (A1 level) and knowledge of Dutch society. Citizens of countries including the USA, Canada, Australia, Japan, South Korea, Switzerland, and all EU/EEA states are exempt."
-  - q: "How long does the partner visa process take in the Netherlands?"
-    a: "The full process typically takes 3 to 6 months from submitting the complete application to your partner receiving the MVV and being able to travel to the Netherlands. The IND has a statutory processing time of 90 days for partner permits, but this can extend if documentation is incomplete or the application needs additional assessment. After arriving in the Netherlands with the MVV, your partner must convert it to a residence permit (verblijfsvergunning) within the validity period of the MVV."
-  - q: "What is the difference between a married partner and an unmarried partner for the visa?"
-    a: "For married partners (or registered partners), the documentation requirements are clear: the IND requires a valid marriage certificate, apostilled and translated into Dutch. For unmarried partners, the requirements are more demanding. You must prove a durable relationship, typically by demonstrating cohabitation for at least 6 months (via joint leases or utility bills) or a relationship of at least 12 months with evidence of regular contact (travel records, correspondence, photos). Unmarried partner applications take longer to assess and have a higher rejection rate."
-  - q: "Does an EU partner also need an MVV?"
-    a: "No. EU/EEA citizens and their family members fall under EU freedom of movement law, not Dutch immigration law. An EU partner does not need an MVV. They must register with the IND (for stays over 90 days) and may need to apply for an EU residence document if staying long-term, but this process is significantly simpler and faster than the standard non-EU MVV process. They do not need to pass the inburgeringsexamen buitenland."
-  - q: "Can I sponsor my partner if I am self-employed or a freelancer in the Netherlands?"
-    a: "Yes, but it is more complicated. The IND assesses self-employed income differently from employment income. You will need to provide at least one to three years of annual accounts (jaarrekeningen), tax returns from the Belastingdienst, and evidence that the income is stable and likely to continue. A single good year is usually insufficient — the IND looks at the trend. If your income fluctuates significantly, consider whether your average net income clearly exceeds the EUR 2,032.33 threshold."
+- q: What is the income requirement to bring a partner to the Netherlands in 2026?
+  a: In 2026, the sponsoring partner in the Netherlands must earn at least EUR 2,032.33 net per month. This is based on the Dutch statutory minimum wage (minimumloon) and is updated twice per year, in January and July. The amount must be from a stable, lasting income source — typically employment. Freelance or self-employed income requires additional documentation to demonstrate stability. The income must be from the reference person in the Netherlands; the foreign partner's income does not count.
+- q: Does my partner need to pass an integration exam before coming to the Netherlands?
+  a: If your partner is a non-EU national from a country not on the exemption list, yes — they must pass the inburgeringsexamen buitenland (civic integration exam abroad) before the MVV application can be approved. This exam is taken at a Dutch embassy or consulate in the country where your partner lives. It tests basic Dutch language (A1 level) and knowledge of Dutch society. Citizens of countries including the USA, Canada, Australia, Japan, South Korea, Switzerland, and all EU/EEA states are exempt.
+- q: How long does the partner visa process take in the Netherlands?
+  a: The full process typically takes 3 to 6 months from submitting the complete application to your partner receiving the MVV and being able to travel to the Netherlands. The IND has a statutory processing time of 90 days for partner permits, but this can extend if documentation is incomplete or the application needs additional assessment. After arriving in the Netherlands with the MVV, your partner must convert it to a residence permit (verblijfsvergunning) within the validity period of the MVV.
+- q: What is the difference between a married partner and an unmarried partner for the visa?
+  a: 'For married partners (or registered partners), the documentation requirements are clear: the IND requires a valid marriage certificate, apostilled and translated into Dutch. For unmarried partners, the requirements are more demanding. You must prove a durable relationship, typically by demonstrating cohabitation for at least 6 months (via joint leases or utility bills) or a relationship of at least 12 months with evidence of regular contact (travel records, correspondence, photos). Unmarried partner applications take longer to assess and have a higher rejection rate.'
+- q: Does an EU partner also need an MVV?
+  a: No. EU/EEA citizens and their family members fall under EU freedom of movement law, not Dutch immigration law. An EU partner does not need an MVV. They must register with the IND (for stays over 90 days) and may need to apply for an EU residence document if staying long-term, but this process is significantly simpler and faster than the standard non-EU MVV process. They do not need to pass the inburgeringsexamen buitenland.
+- q: Can I sponsor my partner if I am self-employed or a freelancer in the Netherlands?
+  a: Yes, but it is more complicated. The IND assesses self-employed income differently from employment income. You will need to provide at least one to three years of annual accounts (jaarrekeningen), tax returns from the Belastingdienst, and evidence that the income is stable and likely to continue. A single good year is usually insufficient — the IND looks at the trend. If your income fluctuates significantly, consider whether your average net income clearly exceeds the EUR 2,032.33 threshold.
+schema_type: Article
 ---
 
 A colleague of mine at an Amsterdam tech company spent almost eight months separated from her husband while her MVV application made its way through the IND system. They had done most things correctly, but they had missed one document: the apostille on their marriage certificate. The application was suspended while the correct documents were obtained from their home country's registrar. By the time it was resolved, seven months had passed.

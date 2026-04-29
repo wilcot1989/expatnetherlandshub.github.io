@@ -1,36 +1,48 @@
 ---
-title: "Dutch Social Etiquette: Unwritten Rules Every Expat Needs"
-date: 2026-04-14T10:00:00+01:00
-lastmod: 2026-04-23T10:00:00+01:00
-description: "Dutch social etiquette for expats: directness, birthday circles, agenda culture, splitting bills, and the unwritten rules you need to know."
-categories: ["integration"]
-tags: ["Dutch culture", "social etiquette", "expat life", "Netherlands", "integration"]
-keywords: ["Dutch social etiquette", "Dutch culture expats", "unwritten rules Netherlands", "Dutch directness", "expat Netherlands integration"]
+title: 'Dutch Social Etiquette: Unwritten Rules Every Expat Needs'
+date: 2026-04-14 10:00:00+01:00
+lastmod: 2026-04-23 10:00:00+01:00
+description: 'Dutch social etiquette for expats: directness, birthday circles, agenda culture, splitting bills, and the unwritten rules you need to know.'
+categories:
+- integration
+tags:
+- Dutch culture
+- social etiquette
+- expat life
+- Netherlands
+- integration
+keywords:
+- Dutch social etiquette
+- Dutch culture expats
+- unwritten rules Netherlands
+- Dutch directness
+- expat Netherlands integration
 affiliate: false
-author: "Sarah van den Berg"
-author_bio: "Expat coach and relocation specialist. Half Dutch, half British, living in the Netherlands for over 10 years."
-featured_image: "/images/featured/dutch-social-etiquette-expats-2026.webp"
+author: Sarah van den Berg
+author_bio: Expat coach and relocation specialist. Half Dutch, half British, living in the Netherlands for over 10 years.
+featured_image: /images/featured/dutch-social-etiquette-expats-2026.webp
 faq:
-  - q: "Why are Dutch people so direct?"
-    a: "Dutch directness comes from a cultural value called 'doe maar gewoon' — just act normal — combined with a deep respect for honesty. It is not rudeness. Dutch people consider it a sign of respect to tell you the truth rather than wrap it in polite cushioning. Once you understand this, interactions become much easier."
-  - q: "What is the Dutch birthday circle tradition?"
-    a: "At Dutch birthday parties, guests often sit in a circle and congratulate not just the birthday person but every single family member present. It can feel bizarre to a newcomer. You walk in, shake or kiss everyone's hand, and say 'Gefeliciteerd met je moeder' (congratulations on your mother) to strangers. It is entirely normal."
-  - q: "Is 'going Dutch' actually a Dutch thing?"
-    a: "Absolutely. Splitting bills precisely — sometimes down to the cent — is standard practice in the Netherlands. Dutch people are not stingy; they value financial fairness and independence. Do not expect someone to cover your share unless they have explicitly offered."
-  - q: "How do I greet Dutch people correctly?"
-    a: "In social settings, three kisses on alternating cheeks (starting with the right cheek) is the norm among people who know each other. In professional settings, a firm handshake is standard. Since COVID, some Dutch people have moved to a simple nod or wave — check what the other person initiates."
-  - q: "How important is punctuality in the Netherlands?"
-    a: "Very. Arriving on time — or even a minute or two early — is expected for both professional and social appointments. Showing up 20 minutes late to a dinner invitation without warning is genuinely considered disrespectful. If you are running late, a quick message is the bare minimum."
+- q: Why are Dutch people so direct?
+  a: Dutch directness comes from a cultural value called 'doe maar gewoon' — just act normal — combined with a deep respect for honesty. It is not rudeness. Dutch people consider it a sign of respect to tell you the truth rather than wrap it in polite cushioning. Once you understand this, interactions become much easier.
+- q: What is the Dutch birthday circle tradition?
+  a: At Dutch birthday parties, guests often sit in a circle and congratulate not just the birthday person but every single family member present. It can feel bizarre to a newcomer. You walk in, shake or kiss everyone's hand, and say 'Gefeliciteerd met je moeder' (congratulations on your mother) to strangers. It is entirely normal.
+- q: Is 'going Dutch' actually a Dutch thing?
+  a: Absolutely. Splitting bills precisely — sometimes down to the cent — is standard practice in the Netherlands. Dutch people are not stingy; they value financial fairness and independence. Do not expect someone to cover your share unless they have explicitly offered.
+- q: How do I greet Dutch people correctly?
+  a: In social settings, three kisses on alternating cheeks (starting with the right cheek) is the norm among people who know each other. In professional settings, a firm handshake is standard. Since COVID, some Dutch people have moved to a simple nod or wave — check what the other person initiates.
+- q: How important is punctuality in the Netherlands?
+  a: Very. Arriving on time — or even a minute or two early — is expected for both professional and social appointments. Showing up 20 minutes late to a dinner invitation without warning is genuinely considered disrespectful. If you are running late, a quick message is the bare minimum.
 products:
-  - name: "Babbel"
-    url: "https://www.babbel.com/"
-    price: "6.99"
-  - name: "Meetup"
-    url: "https://www.meetup.com/"
-    price: "0.00"
-  - name: "DutchPod101"
-    url: "https://www.dutchpod101.com/"
-    price: "0.00"
+- name: Babbel
+  url: https://www.babbel.com/
+  price: '6.99'
+- name: Meetup
+  url: https://www.meetup.com/
+  price: '0.00'
+- name: DutchPod101
+  url: https://www.dutchpod101.com/
+  price: '0.00'
+schema_type: Article
 ---
 
 I have lived in the Netherlands for over ten years. I have also committed virtually every social faux pas on this list, some of them spectacularly. The one I am most willing to admit in print happened within my first month in Amsterdam, at a colleague's birthday drinks. I arrived, found the birthday person in the crowd, gave him a quick hug, grabbed a glass of wine, and started chatting happily in the corner.

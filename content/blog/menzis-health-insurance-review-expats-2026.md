@@ -1,33 +1,44 @@
 ---
-title: "Menzis Health Insurance Review for Expats 2026"
-date: 2026-03-22T10:00:00+01:00
-lastmod: 2026-04-23T10:00:00+01:00
-description: "Honest Menzis health insurance review for expats in 2026. Premiums, coverage, supplementary options, and how it compares to other Dutch health insurers."
-categories: ["health"]
-tags: ["Menzis", "health insurance Netherlands", "zorgverzekering review", "expat insurance Netherlands", "Dutch healthcare"]
-keywords: ["Menzis health insurance review expats 2026", "Menzis zorgverzekering expat", "Menzis vs other Dutch insurers", "Menzis review 2026"]
+title: Menzis Health Insurance Review for Expats 2026
+date: 2026-03-22 10:00:00+01:00
+lastmod: 2026-04-23 10:00:00+01:00
+description: Honest Menzis health insurance review for expats in 2026. Premiums, coverage, supplementary options, and how it compares to other Dutch health insurers.
+categories:
+- health
+tags:
+- Menzis
+- health insurance Netherlands
+- zorgverzekering review
+- expat insurance Netherlands
+- Dutch healthcare
+keywords:
+- Menzis health insurance review expats 2026
+- Menzis zorgverzekering expat
+- Menzis vs other Dutch insurers
+- Menzis review 2026
 affiliate: true
-author: "Sarah van den Berg"
-author_bio: "Expat coach and writer at ExpatNetherlandsHub.com"
-featured_image: "/images/categories/health.svg"
+author: Sarah van den Berg
+author_bio: Expat coach and writer at ExpatNetherlandsHub.com
+featured_image: /images/categories/health.svg
 faq:
-  - q: "Is Menzis a good health insurer for expats in the Netherlands?"
-    a: "Menzis is a solid, well-regarded Dutch health insurer that works well for many expats, particularly those based in northern and eastern Netherlands (Groningen, Drenthe, Overijssel, Gelderland) where Menzis has strong regional roots and a dense contracted network. Their premiums are consistently among the most competitive in the Dutch market, often EUR 5–15/month cheaper than comparable policies from Zilveren Kruis or VGZ. Their customer satisfaction ratings are good. For expats seeking English-language support specifically, they are serviceable but not as polished as ONVZ. For expats who prioritise value and are comfortable using online self-service or basic phone support, Menzis is a strong option."
-  - q: "What are Menzis's current basic insurance premiums for 2026?"
-    a: "Menzis basic insurance (basisverzekering) premiums for 2026 are approximately EUR 143–157/month for a standard adult policy with EUR 385 eigen risico (the mandatory minimum excess). The exact premium depends on your chosen policy variant (Budget, Select, or Plus) and whether you choose a naturapolis (contracted network) or restitutiepolis (any registered provider). Raising your eigen risico to EUR 885 reduces the premium by approximately EUR 15–18/month. Check current exact pricing on Independer or directly at menzis.nl, as premiums are updated annually and vary slightly by region."
-  - q: "Does Menzis offer English-language customer service?"
-    a: "Menzis offers English support primarily through their online portal and written communications, and their customer service line has English-speaking staff available, though this is less consistently available than at ONVZ. Their website (menzis.nl) is in Dutch, though key sections can be translated with browser auto-translate. The Menzis app and My Menzis online portal provide policy management in Dutch with some English functionality. Expats with basic Dutch ability or who are comfortable using translation tools generally manage Menzis without issues. Those who want fully English-language customer service should consider ONVZ, which specialises in expat and international clients."
-  - q: "What supplementary insurance does Menzis offer for expats?"
-    a: "Menzis offers several tiers of supplementary insurance (aanvullende verzekering) branded as Basis Aanvullend, Basis Plus Aanvullend, Extra Aanvullend, and Tandarts Aanvullend (dental-only). The most relevant for expats are the Extra Aanvullend tiers which cover dental treatment up to EUR 1,000–2,500/year, full physiotherapy coverage, glasses up to EUR 200/year, and some alternative medicine. The dental-only supplement (from around EUR 12–18/month) is worth considering if you need regular dental care. Full supplementary packages covering dental, glasses, and extended physio run approximately EUR 25–40/month. Compare on Independer for exact 2026 pricing."
-  - q: "What is the Menzis contracted hospital network like?"
-    a: "Menzis has contracted agreements with the vast majority of Dutch hospitals, which means standard hospital treatment is covered at 100% at contracted providers. Their network is particularly dense in their regional strongholds — Groningen, Drenthe, Overijssel, and Gelderland. In Amsterdam, Rotterdam, and Utrecht, Menzis contracts with all major hospitals (AMC, UMC Utrecht, Erasmus MC, etc.), so urban expats are not disadvantaged. If you choose the Menzis naturapolis and need treatment at a non-contracted provider, reimbursement drops to typically 75–80% of the NZa tariff. Checking that your preferred GP and local hospital are contracted before committing is always worthwhile — Menzis's website has a zorgzoeker (care finder) tool for this."
-  - q: "How does Menzis compare to CZ and Zilveren Kruis for expats?"
-    a: "Menzis, CZ, and Zilveren Kruis are all mainstream Dutch insurers at a comparable service level, with premiums within EUR 5–15/month of each other. Menzis tends to have slightly lower premiums than Zilveren Kruis but a slightly smaller national network. CZ is strong in North Brabant and Zeeland; Menzis is stronger in northern and eastern Netherlands. All three have adequate English support. For expats in Amsterdam or Rotterdam, the practical differences are small — hospital networks, coverage, and service quality are broadly comparable. The most meaningful factors are premium cost (check annually, as it shifts), supplementary package quality relative to your personal needs, and whether your employer offers a collective discount with any of them."
+- q: Is Menzis a good health insurer for expats in the Netherlands?
+  a: Menzis is a solid, well-regarded Dutch health insurer that works well for many expats, particularly those based in northern and eastern Netherlands (Groningen, Drenthe, Overijssel, Gelderland) where Menzis has strong regional roots and a dense contracted network. Their premiums are consistently among the most competitive in the Dutch market, often EUR 5–15/month cheaper than comparable policies from Zilveren Kruis or VGZ. Their customer satisfaction ratings are good. For expats seeking English-language support specifically, they are serviceable but not as polished as ONVZ. For expats who prioritise value and are comfortable using online self-service or basic phone support, Menzis is a strong option.
+- q: What are Menzis's current basic insurance premiums for 2026?
+  a: Menzis basic insurance (basisverzekering) premiums for 2026 are approximately EUR 143–157/month for a standard adult policy with EUR 385 eigen risico (the mandatory minimum excess). The exact premium depends on your chosen policy variant (Budget, Select, or Plus) and whether you choose a naturapolis (contracted network) or restitutiepolis (any registered provider). Raising your eigen risico to EUR 885 reduces the premium by approximately EUR 15–18/month. Check current exact pricing on Independer or directly at menzis.nl, as premiums are updated annually and vary slightly by region.
+- q: Does Menzis offer English-language customer service?
+  a: Menzis offers English support primarily through their online portal and written communications, and their customer service line has English-speaking staff available, though this is less consistently available than at ONVZ. Their website (menzis.nl) is in Dutch, though key sections can be translated with browser auto-translate. The Menzis app and My Menzis online portal provide policy management in Dutch with some English functionality. Expats with basic Dutch ability or who are comfortable using translation tools generally manage Menzis without issues. Those who want fully English-language customer service should consider ONVZ, which specialises in expat and international clients.
+- q: What supplementary insurance does Menzis offer for expats?
+  a: Menzis offers several tiers of supplementary insurance (aanvullende verzekering) branded as Basis Aanvullend, Basis Plus Aanvullend, Extra Aanvullend, and Tandarts Aanvullend (dental-only). The most relevant for expats are the Extra Aanvullend tiers which cover dental treatment up to EUR 1,000–2,500/year, full physiotherapy coverage, glasses up to EUR 200/year, and some alternative medicine. The dental-only supplement (from around EUR 12–18/month) is worth considering if you need regular dental care. Full supplementary packages covering dental, glasses, and extended physio run approximately EUR 25–40/month. Compare on Independer for exact 2026 pricing.
+- q: What is the Menzis contracted hospital network like?
+  a: Menzis has contracted agreements with the vast majority of Dutch hospitals, which means standard hospital treatment is covered at 100% at contracted providers. Their network is particularly dense in their regional strongholds — Groningen, Drenthe, Overijssel, and Gelderland. In Amsterdam, Rotterdam, and Utrecht, Menzis contracts with all major hospitals (AMC, UMC Utrecht, Erasmus MC, etc.), so urban expats are not disadvantaged. If you choose the Menzis naturapolis and need treatment at a non-contracted provider, reimbursement drops to typically 75–80% of the NZa tariff. Checking that your preferred GP and local hospital are contracted before committing is always worthwhile — Menzis's website has a zorgzoeker (care finder) tool for this.
+- q: How does Menzis compare to CZ and Zilveren Kruis for expats?
+  a: Menzis, CZ, and Zilveren Kruis are all mainstream Dutch insurers at a comparable service level, with premiums within EUR 5–15/month of each other. Menzis tends to have slightly lower premiums than Zilveren Kruis but a slightly smaller national network. CZ is strong in North Brabant and Zeeland; Menzis is stronger in northern and eastern Netherlands. All three have adequate English support. For expats in Amsterdam or Rotterdam, the practical differences are small — hospital networks, coverage, and service quality are broadly comparable. The most meaningful factors are premium cost (check annually, as it shifts), supplementary package quality relative to your personal needs, and whether your employer offers a collective discount with any of them.
 products:
-  - name: "SafetyWing"
-    url: "https://go.expatnetherlandshub.com/safetywing?ref=/blog/menzis-health-insurance-review-expats-2026/"
-    price: "0.00"
-    tag: "Expat Insurance"
+- name: SafetyWing
+  url: https://go.expatnetherlandshub.com/safetywing?ref=/blog/menzis-health-insurance-review-expats-2026/
+  price: '0.00'
+  tag: Expat Insurance
+schema_type: Review
 ---
 
 I have had two Dutch health insurers since moving to the Netherlands. My first was a random choice made under time pressure. My second — and current — insurer is Menzis, and I switched to them based on a specific combination of lower premium and a very honest assessment from a Dutch colleague who had used them for six years.

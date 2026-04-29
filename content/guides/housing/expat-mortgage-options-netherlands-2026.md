@@ -1,44 +1,55 @@
 ---
-title: "Expat Mortgage Options Netherlands 2026: Complete Guide"
-date: 2026-04-08T10:00:00+01:00
-lastmod: 2026-04-23T10:00:00+01:00
-description: "Complete guide to getting a mortgage in the Netherlands as an expat. Types, requirements, 30% ruling impact, and step-by-step application process in 2026."
-categories: ["housing"]
-tags: ["mortgage", "hypotheek", "expat housing", "buying property", "30% ruling"]
-keywords: ["expat mortgage Netherlands", "hypotheek expat", "buying house Netherlands expat", "30% ruling mortgage"]
+title: 'Expat Mortgage Options Netherlands 2026: Complete Guide'
+date: 2026-04-08 10:00:00+01:00
+lastmod: 2026-04-23 10:00:00+01:00
+description: Complete guide to getting a mortgage in the Netherlands as an expat. Types, requirements, 30% ruling impact, and step-by-step application process in 2026.
+categories:
+- housing
+tags:
+- mortgage
+- hypotheek
+- expat housing
+- buying property
+- 30% ruling
+keywords:
+- expat mortgage Netherlands
+- hypotheek expat
+- buying house Netherlands expat
+- 30% ruling mortgage
 affiliate: true
-author: "Sarah van den Berg"
-author_bio: "Expat coach and relocation specialist. Half Dutch, half British, living in the Netherlands for over 10 years."
-featured_image: "/images/featured/expat-mortgage-options-netherlands-2026.webp"
+author: Sarah van den Berg
+author_bio: Expat coach and relocation specialist. Half Dutch, half British, living in the Netherlands for over 10 years.
+featured_image: /images/featured/expat-mortgage-options-netherlands-2026.webp
 faq:
-  - q: "Can expats get a mortgage in the Netherlands?"
-    a: "Yes, expats can get mortgages in the Netherlands, even without permanent residency. You typically need a valid residence/work permit, employment contract (preferably permanent), and BSN number. Some lenders specialize in expat mortgages and are more flexible with requirements."
-  - q: "How much can I borrow for a mortgage in the Netherlands?"
-    a: "In 2026, you can borrow up to 100% of the property value (appraised value, not purchase price). The maximum amount depends on your gross income and existing debts. As a rule of thumb, you can borrow roughly 4.5x your gross annual income. Two-income households can combine incomes."
-  - q: "Does the 30% ruling affect my mortgage?"
-    a: "Yes, the 30% ruling reduces your taxable income, which means lenders calculate your borrowing capacity based on your NET income (70% of gross). This significantly reduces your maximum mortgage. Some expat-specialized lenders use the full gross salary for calculation, which gives you more borrowing power."
-  - q: "What interest rates can expats expect in 2026?"
-    a: "Mortgage interest rates in the Netherlands range from 3.5% to 5.5% in 2026, depending on the fixed period and loan-to-value ratio. Rates are slightly higher than Dutch averages for expats due to perceived risk. Shopping around and using a mortgage advisor can save 0.2-0.5% on your rate."
-  - q: "Do I need a permanent contract to get a mortgage?"
-    a: "A permanent contract (vast contract) makes it significantly easier. With a temporary contract, you can still get a mortgage if your employer provides an intention statement (intentieverklaring) that the contract will be extended. Self-employed expats need at least 3 years of financial statements."
-  - q: "What additional costs should I budget for when buying?"
-    a: "Budget 4-6% of the purchase price for additional costs: transfer tax (overdrachtsbelasting, 2% for primary residence, 10.4% for investment), notary fees (€1,000-€2,000), mortgage advisor (€2,000-€3,500), valuation report (€500-€750), and structural survey (€300-€500)."
-  - q: "Can foreigners get a mortgage in the Netherlands?"
-    a: "Yes. Nationality alone is not a barrier to getting a Dutch mortgage. What matters is your legal right to live and work in the Netherlands (residence/work permit or EU free movement), a valid BSN number, sufficient income, and a clean credit history in the Netherlands. Non-EU nationals with temporary permits can still get mortgages — lenders assess whether your permit is likely to be renewed, and expat-specialist advisors know which banks are most flexible."
-  - q: "Does the 30% ruling affect how much I can borrow?"
-    a: "Yes, significantly. Standard Dutch lenders calculate borrowing capacity based on your taxable income, not your gross income. With the 30% ruling, your taxable income is only 70% of your gross salary — which can reduce your maximum mortgage by €80,000–€150,000 on a typical expat salary. However, some expat-specialist lenders accept the full gross salary for calculation. This is one of the most important reasons to use an advisor who specialises in expat mortgages: the right lender can make a very large difference."
-  - q: "Can I get a Dutch mortgage based on foreign income?"
-    a: "It is possible but more difficult. If you earn income from abroad — for example, you are employed by a foreign company while living in the Netherlands, or you have rental income from property abroad — Dutch lenders will assess it case by case. You typically need a Dutch or EU employment contract, a Dutch salary payment into a Dutch account, and Dutch tax residency. Pure foreign-income cases (no Dutch employer) are handled by specialist lenders; a standard Dutch bank will usually decline. If this is your situation, work with an expat mortgage specialist from the outset."
+- q: Can expats get a mortgage in the Netherlands?
+  a: Yes, expats can get mortgages in the Netherlands, even without permanent residency. You typically need a valid residence/work permit, employment contract (preferably permanent), and BSN number. Some lenders specialize in expat mortgages and are more flexible with requirements.
+- q: How much can I borrow for a mortgage in the Netherlands?
+  a: In 2026, you can borrow up to 100% of the property value (appraised value, not purchase price). The maximum amount depends on your gross income and existing debts. As a rule of thumb, you can borrow roughly 4.5x your gross annual income. Two-income households can combine incomes.
+- q: Does the 30% ruling affect my mortgage?
+  a: Yes, the 30% ruling reduces your taxable income, which means lenders calculate your borrowing capacity based on your NET income (70% of gross). This significantly reduces your maximum mortgage. Some expat-specialized lenders use the full gross salary for calculation, which gives you more borrowing power.
+- q: What interest rates can expats expect in 2026?
+  a: Mortgage interest rates in the Netherlands range from 3.5% to 5.5% in 2026, depending on the fixed period and loan-to-value ratio. Rates are slightly higher than Dutch averages for expats due to perceived risk. Shopping around and using a mortgage advisor can save 0.2-0.5% on your rate.
+- q: Do I need a permanent contract to get a mortgage?
+  a: A permanent contract (vast contract) makes it significantly easier. With a temporary contract, you can still get a mortgage if your employer provides an intention statement (intentieverklaring) that the contract will be extended. Self-employed expats need at least 3 years of financial statements.
+- q: What additional costs should I budget for when buying?
+  a: 'Budget 4-6% of the purchase price for additional costs: transfer tax (overdrachtsbelasting, 2% for primary residence, 10.4% for investment), notary fees (€1,000-€2,000), mortgage advisor (€2,000-€3,500), valuation report (€500-€750), and structural survey (€300-€500).'
+- q: Can foreigners get a mortgage in the Netherlands?
+  a: Yes. Nationality alone is not a barrier to getting a Dutch mortgage. What matters is your legal right to live and work in the Netherlands (residence/work permit or EU free movement), a valid BSN number, sufficient income, and a clean credit history in the Netherlands. Non-EU nationals with temporary permits can still get mortgages — lenders assess whether your permit is likely to be renewed, and expat-specialist advisors know which banks are most flexible.
+- q: Does the 30% ruling affect how much I can borrow?
+  a: 'Yes, significantly. Standard Dutch lenders calculate borrowing capacity based on your taxable income, not your gross income. With the 30% ruling, your taxable income is only 70% of your gross salary — which can reduce your maximum mortgage by €80,000–€150,000 on a typical expat salary. However, some expat-specialist lenders accept the full gross salary for calculation. This is one of the most important reasons to use an advisor who specialises in expat mortgages: the right lender can make a very large difference.'
+- q: Can I get a Dutch mortgage based on foreign income?
+  a: It is possible but more difficult. If you earn income from abroad — for example, you are employed by a foreign company while living in the Netherlands, or you have rental income from property abroad — Dutch lenders will assess it case by case. You typically need a Dutch or EU employment contract, a Dutch salary payment into a Dutch account, and Dutch tax residency. Pure foreign-income cases (no Dutch employer) are handled by specialist lenders; a standard Dutch bank will usually decline. If this is your situation, work with an expat mortgage specialist from the outset.
 products:
-  - name: "Funda"
-    url: "https://www.funda.nl/"
-    price: "0.00"
-  - name: "Hypotheek Visie"
-    url: "https://www.hypotheekvisie.nl/"
-    price: "0.00"
-  - name: "Pararius"
-    url: "https://www.pararius.com/"
-    price: "0.00"
+- name: Funda
+  url: https://www.funda.nl/
+  price: '0.00'
+- name: Hypotheek Visie
+  url: https://www.hypotheekvisie.nl/
+  price: '0.00'
+- name: Pararius
+  url: https://www.pararius.com/
+  price: '0.00'
+schema_type: Article
 ---
 
 After years of renting in the Netherlands, I finally decided to buy -- and immediately discovered that the 30% ruling, which had been saving me money on taxes, was now working against me when it came to mortgage borrowing capacity. Nobody had warned me about that. The process of buying a house as an expat is completely doable, but it comes with a few surprises. Here is the step-by-step guide I put together from my own experience and from helping clients through the process.

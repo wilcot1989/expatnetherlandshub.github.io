@@ -1,40 +1,53 @@
 ---
-title: "Best Internet Providers Netherlands Expats 2026"
-date: 2026-04-16T10:00:00+01:00
-lastmod: 2026-04-23T10:00:00+01:00
-description: "Compare KPN, Ziggo, T-Mobile/Odido and budget internet providers in the Netherlands. Prices, speeds, English support, and honest advice for expats."
-categories: ["daily-life"]
-tags: ["internet", "KPN", "Ziggo", "T-Mobile", "Odido", "wifi", "glasvezel"]
-keywords: ["best internet provider netherlands", "internet netherlands expat", "KPN vs Ziggo", "cheapest internet netherlands 2026"]
+title: Best Internet Providers Netherlands Expats 2026
+date: 2026-04-16 10:00:00+01:00
+lastmod: 2026-04-23 10:00:00+01:00
+description: Compare KPN, Ziggo, T-Mobile/Odido and budget internet providers in the Netherlands. Prices, speeds, English support, and honest advice for expats.
+categories:
+- daily-life
+tags:
+- internet
+- KPN
+- Ziggo
+- T-Mobile
+- Odido
+- wifi
+- glasvezel
+keywords:
+- best internet provider netherlands
+- internet netherlands expat
+- KPN vs Ziggo
+- cheapest internet netherlands 2026
 affiliate: true
 products:
-  - name: "KPN"
-    url: "https://www.kpn.com/"
-    price: "0.00"
-  - name: "T-Mobile"
-    url: "https://www.t-mobile.nl/"
-    price: "0.00"
-  - name: "Ziggo"
-    url: "https://www.ziggo.nl/"
-    price: "0.00"
-author: "Sarah van den Berg"
-author_bio: "Expat coach and relocation specialist. Half Dutch, half British, living in the Netherlands for over 10 years."
-featured_image: "/images/categories/daily-life.svg"
+- name: KPN
+  url: https://www.kpn.com/
+  price: '0.00'
+- name: T-Mobile
+  url: https://www.t-mobile.nl/
+  price: '0.00'
+- name: Ziggo
+  url: https://www.ziggo.nl/
+  price: '0.00'
+author: Sarah van den Berg
+author_bio: Expat coach and relocation specialist. Half Dutch, half British, living in the Netherlands for over 10 years.
+featured_image: /images/categories/daily-life.svg
 faq:
-  - q: "What is the best internet provider in the Netherlands for expats in 2026?"
-    a: "For most expats, KPN is the best overall choice. It has the widest fiber coverage, the most reliable customer service in English, and competitive speeds. If fiber is not available at your address, Ziggo is the best cable alternative. If price is your main concern and you are comfortable with Dutch-only support, Budget Thuis or Online.nl offer similar infrastructure at lower monthly costs."
-  - q: "Do Dutch internet providers offer English customer support?"
-    a: "KPN and T-Mobile Home offer English-language support via phone and chat. Ziggo's support is primarily in Dutch, though many agents switch to English when asked. Budget providers like Budget Thuis, Youfone and Online.nl operate almost entirely in Dutch. If English support matters to you — and it will matter on the day something goes wrong — KPN is the safest bet."
-  - q: "How long are Dutch internet contracts, and can I cancel easily?"
-    a: "Most providers offer 1-year or 2-year contracts. After the initial fixed term, your contract automatically rolls over to a month-to-month arrangement with one month's notice to cancel. Dutch consumer law (the Opzeggen rules) makes cancellation relatively fair after the fixed term ends. The trap is the auto-renewal: if you miss the cancellation window before renewal, you can be locked in for another year. Always set a calendar reminder."
-  - q: "Can I get internet in the Netherlands without a BSN?"
-    a: "Most providers require a BSN and a Dutch bank account (for direct debit). If you have just arrived and do not yet have a BSN, some providers allow you to initiate the contract with your passport and proof of address, adding the BSN later. Your landlord's existing connection is another option for the first few weeks. Getting your DigiD and BSN sorted early makes everything easier — see my guide on DigiD for expats."
-  - q: "What is glasvezel and do I need it?"
-    a: "Glasvezel is the Dutch word for fiber-optic internet. It uses glass cables to transmit data as light, giving you symmetrical speeds (equal upload and download) and very low latency. As of 2026, around 75% of Dutch households can get glasvezel. If it is available at your address, I would always choose it over cable — the reliability difference alone is worth it for anyone working from home."
-  - q: "How long does internet installation take in the Netherlands?"
-    a: "Expect 2 to 4 weeks from signing a contract to having a working connection. If your building already has fiber infrastructure (common in new-build apartments), it can be faster. Ziggo is often quicker because the coax cable network is already widely installed. If you are moving into a new home, order your internet connection the same day you sign your rental contract — do not wait."
-  - q: "What speeds do I actually need for working from home in the Netherlands?"
-    a: "For a single person working from home, 50 Mbps is the minimum I would recommend, but 100-200 Mbps is more comfortable. For video calls, each stream uses roughly 3-8 Mbps. For a household with two people working from home, multiple streaming devices and occasional gaming, I would aim for 200-500 Mbps. The Netherlands generally offers these speeds at reasonable prices — you rarely need to pay for a 1 Gbps package unless you do heavy file transfers regularly."
+- q: What is the best internet provider in the Netherlands for expats in 2026?
+  a: For most expats, KPN is the best overall choice. It has the widest fiber coverage, the most reliable customer service in English, and competitive speeds. If fiber is not available at your address, Ziggo is the best cable alternative. If price is your main concern and you are comfortable with Dutch-only support, Budget Thuis or Online.nl offer similar infrastructure at lower monthly costs.
+- q: Do Dutch internet providers offer English customer support?
+  a: KPN and T-Mobile Home offer English-language support via phone and chat. Ziggo's support is primarily in Dutch, though many agents switch to English when asked. Budget providers like Budget Thuis, Youfone and Online.nl operate almost entirely in Dutch. If English support matters to you — and it will matter on the day something goes wrong — KPN is the safest bet.
+- q: How long are Dutch internet contracts, and can I cancel easily?
+  a: 'Most providers offer 1-year or 2-year contracts. After the initial fixed term, your contract automatically rolls over to a month-to-month arrangement with one month''s notice to cancel. Dutch consumer law (the Opzeggen rules) makes cancellation relatively fair after the fixed term ends. The trap is the auto-renewal: if you miss the cancellation window before renewal, you can be locked in for another year. Always set a calendar reminder.'
+- q: Can I get internet in the Netherlands without a BSN?
+  a: Most providers require a BSN and a Dutch bank account (for direct debit). If you have just arrived and do not yet have a BSN, some providers allow you to initiate the contract with your passport and proof of address, adding the BSN later. Your landlord's existing connection is another option for the first few weeks. Getting your DigiD and BSN sorted early makes everything easier — see my guide on DigiD for expats.
+- q: What is glasvezel and do I need it?
+  a: Glasvezel is the Dutch word for fiber-optic internet. It uses glass cables to transmit data as light, giving you symmetrical speeds (equal upload and download) and very low latency. As of 2026, around 75% of Dutch households can get glasvezel. If it is available at your address, I would always choose it over cable — the reliability difference alone is worth it for anyone working from home.
+- q: How long does internet installation take in the Netherlands?
+  a: Expect 2 to 4 weeks from signing a contract to having a working connection. If your building already has fiber infrastructure (common in new-build apartments), it can be faster. Ziggo is often quicker because the coax cable network is already widely installed. If you are moving into a new home, order your internet connection the same day you sign your rental contract — do not wait.
+- q: What speeds do I actually need for working from home in the Netherlands?
+  a: For a single person working from home, 50 Mbps is the minimum I would recommend, but 100-200 Mbps is more comfortable. For video calls, each stream uses roughly 3-8 Mbps. For a household with two people working from home, multiple streaming devices and occasional gaming, I would aim for 200-500 Mbps. The Netherlands generally offers these speeds at reasonable prices — you rarely need to pay for a 1 Gbps package unless you do heavy file transfers regularly.
+schema_type: Article
 ---
 
 Let me tell you about the worst internet decision I made in my first year in the Netherlands.

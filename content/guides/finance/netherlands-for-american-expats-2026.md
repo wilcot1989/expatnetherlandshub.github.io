@@ -1,40 +1,52 @@
 ---
-title: "Netherlands for American Expats: Tax & Finance 2026"
-date: 2026-05-09T10:00:00+01:00
-lastmod: 2026-04-23T10:00:00+01:00
-description: "The definitive guide for American expats in the Netherlands: US worldwide taxation, FBAR, FATCA, the Dutch banking hurdles, and the 30% ruling explained."
-categories: ["finance"]
-tags: ["American expat", "US tax", "FATCA", "FBAR", "30% ruling", "US Netherlands"]
-keywords: ["american expat netherlands", "us expat netherlands tax", "FATCA netherlands", "moving from usa to netherlands"]
+title: 'Netherlands for American Expats: Tax & Finance 2026'
+date: 2026-05-09 10:00:00+01:00
+lastmod: 2026-04-23 10:00:00+01:00
+description: 'The definitive guide for American expats in the Netherlands: US worldwide taxation, FBAR, FATCA, the Dutch banking hurdles, and the 30% ruling explained.'
+categories:
+- finance
+tags:
+- American expat
+- US tax
+- FATCA
+- FBAR
+- 30% ruling
+- US Netherlands
+keywords:
+- american expat netherlands
+- us expat netherlands tax
+- FATCA netherlands
+- moving from usa to netherlands
 affiliate: true
-author: "Sarah van den Berg"
-author_bio: "Expat coach and relocation specialist. Half Dutch, half British, living in the Netherlands for over 10 years."
-featured_image: "/images/categories/finance.svg"
+author: Sarah van den Berg
+author_bio: Expat coach and relocation specialist. Half Dutch, half British, living in the Netherlands for over 10 years.
+featured_image: /images/categories/finance.svg
 products:
-  - name: "Wise"
-    url: "https://go.expatnetherlandshub.com/wise?ref=/guides/finance/netherlands-for-american-expats-2026/"
-    price: "0.00"
-  - name: "Expatax"
-    url: "https://www.expatax.nl/"
-    price: "0.00"
-  - name: "Blue Umbrella"
-    url: "https://www.blueumbrella.nl/"
-    price: "0.00"
+- name: Wise
+  url: https://go.expatnetherlandshub.com/wise?ref=/guides/finance/netherlands-for-american-expats-2026/
+  price: '0.00'
+- name: Expatax
+  url: https://www.expatax.nl/
+  price: '0.00'
+- name: Blue Umbrella
+  url: https://www.blueumbrella.nl/
+  price: '0.00'
 faq:
-  - q: "Do Americans still have to file US taxes when living in the Netherlands?"
-    a: "Yes. The United States taxes its citizens and permanent residents on their worldwide income, regardless of where they live. Living in the Netherlands does not remove your obligation to file a US federal tax return each year with the IRS. You may be able to reduce or eliminate your actual US tax bill through the Foreign Earned Income Exclusion (FEIE) or the Foreign Tax Credit, but the filing obligation remains. Failure to file can result in significant penalties."
-  - q: "What is FBAR and do I need to file it as an American in the Netherlands?"
-    a: "FBAR stands for Report of Foreign Bank and Financial Accounts (FinCEN Form 114). You must file it if the combined total of all your foreign financial accounts exceeds $10,000 at any point during the calendar year. With a Dutch bank account, you will almost certainly hit this threshold. FBAR is filed separately from your tax return, through the FinCEN website, with a deadline of April 15 (automatic extension to October 15). Penalties for non-filing can be up to $10,000 per violation — or more for willful non-compliance."
-  - q: "Can I use the 30% ruling AND the Foreign Earned Income Exclusion at the same time?"
-    a: "No. You cannot double-dip on both benefits for the same income. If you exclude income under the FEIE, that excluded income generally cannot also benefit from the 30% ruling for US tax purposes. However, the interaction is complicated — the 30% ruling reduces your Dutch taxable income, while the FEIE operates on the US side. A specialist in US-Dutch taxation can model which combination produces the lowest combined tax bill for your specific salary level. Generally speaking, higher earners (above roughly $150,000) tend to benefit more from the Foreign Tax Credit approach combined with the 30% ruling."
-  - q: "Will Dutch banks open an account for me as a US citizen?"
-    a: "Some will, but not all, and expect extra paperwork. ING and ABN AMRO are generally the most willing to accept US persons, though they will ask you to complete FATCA compliance forms (W-9 form and possibly IRS Form W-8BEN-E). Some smaller Dutch banks and credit unions decline US citizens entirely due to the reporting burden FATCA places on financial institutions. Neobanks like Wise can work for day-to-day spending but have limitations for US persons — Wise does not offer a full Dutch IBAN in the same way traditional banks do."
-  - q: "What is the US-Netherlands Social Security totalization agreement?"
-    a: "The United States and the Netherlands have a bilateral Social Security totalization agreement, which prevents American expats from having to pay into both the US Social Security system and the Dutch social insurance system simultaneously. In most cases, if you are employed by a Dutch employer and living in the Netherlands, you will pay Dutch social insurance contributions and be exempt from US Social Security and Medicare taxes. However, self-employed Americans face different rules. Consult a specialist, as the implications for your future US Social Security benefits need careful consideration."
-  - q: "How much does a US-Dutch tax specialist cost?"
-    a: "Expect to pay between EUR 1,500 and EUR 3,000 per year for a tax advisor who handles both your Dutch tax return and your US federal return. Some firms charge separately for each; others bundle them. This is significantly more than the cost of a standard Dutch expat tax return (EUR 150-400) because the US side adds substantial complexity: FBAR, FATCA reporting, FEIE or Foreign Tax Credit optimisation, and state tax considerations. Do not attempt to handle dual filing with a generalist accountant who does not specialise in US taxation."
-  - q: "Do I need to keep my US bank account after moving to the Netherlands?"
-    a: "Yes, I strongly advise keeping at least one US bank account active. Many US financial services — including certain investment accounts, some credit cards, and even government services — require a US address and a US bank account. Having a US account also makes it easier to manage US-based financial obligations (student loans, US credit cards, US insurance). Online-friendly US banks like Charles Schwab (which also reimburses ATM fees worldwide) are particularly popular among American expats."
+- q: Do Americans still have to file US taxes when living in the Netherlands?
+  a: Yes. The United States taxes its citizens and permanent residents on their worldwide income, regardless of where they live. Living in the Netherlands does not remove your obligation to file a US federal tax return each year with the IRS. You may be able to reduce or eliminate your actual US tax bill through the Foreign Earned Income Exclusion (FEIE) or the Foreign Tax Credit, but the filing obligation remains. Failure to file can result in significant penalties.
+- q: What is FBAR and do I need to file it as an American in the Netherlands?
+  a: FBAR stands for Report of Foreign Bank and Financial Accounts (FinCEN Form 114). You must file it if the combined total of all your foreign financial accounts exceeds $10,000 at any point during the calendar year. With a Dutch bank account, you will almost certainly hit this threshold. FBAR is filed separately from your tax return, through the FinCEN website, with a deadline of April 15 (automatic extension to October 15). Penalties for non-filing can be up to $10,000 per violation — or more for willful non-compliance.
+- q: Can I use the 30% ruling AND the Foreign Earned Income Exclusion at the same time?
+  a: No. You cannot double-dip on both benefits for the same income. If you exclude income under the FEIE, that excluded income generally cannot also benefit from the 30% ruling for US tax purposes. However, the interaction is complicated — the 30% ruling reduces your Dutch taxable income, while the FEIE operates on the US side. A specialist in US-Dutch taxation can model which combination produces the lowest combined tax bill for your specific salary level. Generally speaking, higher earners (above roughly $150,000) tend to benefit more from the Foreign Tax Credit approach combined with the 30% ruling.
+- q: Will Dutch banks open an account for me as a US citizen?
+  a: Some will, but not all, and expect extra paperwork. ING and ABN AMRO are generally the most willing to accept US persons, though they will ask you to complete FATCA compliance forms (W-9 form and possibly IRS Form W-8BEN-E). Some smaller Dutch banks and credit unions decline US citizens entirely due to the reporting burden FATCA places on financial institutions. Neobanks like Wise can work for day-to-day spending but have limitations for US persons — Wise does not offer a full Dutch IBAN in the same way traditional banks do.
+- q: What is the US-Netherlands Social Security totalization agreement?
+  a: The United States and the Netherlands have a bilateral Social Security totalization agreement, which prevents American expats from having to pay into both the US Social Security system and the Dutch social insurance system simultaneously. In most cases, if you are employed by a Dutch employer and living in the Netherlands, you will pay Dutch social insurance contributions and be exempt from US Social Security and Medicare taxes. However, self-employed Americans face different rules. Consult a specialist, as the implications for your future US Social Security benefits need careful consideration.
+- q: How much does a US-Dutch tax specialist cost?
+  a: 'Expect to pay between EUR 1,500 and EUR 3,000 per year for a tax advisor who handles both your Dutch tax return and your US federal return. Some firms charge separately for each; others bundle them. This is significantly more than the cost of a standard Dutch expat tax return (EUR 150-400) because the US side adds substantial complexity: FBAR, FATCA reporting, FEIE or Foreign Tax Credit optimisation, and state tax considerations. Do not attempt to handle dual filing with a generalist accountant who does not specialise in US taxation.'
+- q: Do I need to keep my US bank account after moving to the Netherlands?
+  a: Yes, I strongly advise keeping at least one US bank account active. Many US financial services — including certain investment accounts, some credit cards, and even government services — require a US address and a US bank account. Having a US account also makes it easier to manage US-based financial obligations (student loans, US credit cards, US insurance). Online-friendly US banks like Charles Schwab (which also reimburses ATM fees worldwide) are particularly popular among American expats.
+schema_type: Article
 ---
 
 I had a client — I will call her Megan — who moved from Boston to Amsterdam three years ago for a tech job. Brilliant woman, sorted everything out methodically: DigiD, BSN, Dutch health insurance, a bank account. Two years in, she got a letter from the IRS. Not a gentle reminder. A formal notice. She had not filed a US tax return since she left, because — and I hear this from almost every American client I work with — she assumed that once you move abroad, you stop being taxed by the US.

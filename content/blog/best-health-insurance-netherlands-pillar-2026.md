@@ -1,45 +1,63 @@
 ---
-title: "Best Dutch Health Insurance for Expats 2026: All 10"
-date: 2026-05-01T08:00:00+02:00
-lastmod: 2026-05-01T08:00:00+02:00
-description: "Compare all 10 NL health insurers — Independer, Zilveren Kruis, CZ, Menzis, etc. Premium, deductible, English support."
-categories: ["health"]
-tags: ["Dutch health insurance expats", "zorgverzekering comparison 2026", "best health insurance Netherlands", "Zilveren Kruis expats", "CZ health insurance", "Menzis expats", "VGZ insurance", "ONVZ expats", "Independer zorgverzekering"]
-keywords: ["best Dutch health insurance expats 2026", "Dutch health insurance comparison all insurers", "zorgverzekering expat Netherlands 2026", "Zilveren Kruis vs CZ expats", "cheapest health insurance Netherlands 2026", "ONVZ expat review", "OOM verzekeringen expats"]
+title: 'Best Dutch Health Insurance for Expats 2026: All 10'
+date: 2026-05-01 08:00:00+02:00
+lastmod: 2026-05-01 08:00:00+02:00
+description: Compare all 10 NL health insurers — Independer, Zilveren Kruis, CZ, Menzis, etc. Premium, deductible, English support.
+categories:
+- health
+tags:
+- Dutch health insurance expats
+- zorgverzekering comparison 2026
+- best health insurance Netherlands
+- Zilveren Kruis expats
+- CZ health insurance
+- Menzis expats
+- VGZ insurance
+- ONVZ expats
+- Independer zorgverzekering
+keywords:
+- best Dutch health insurance expats 2026
+- Dutch health insurance comparison all insurers
+- zorgverzekering expat Netherlands 2026
+- Zilveren Kruis vs CZ expats
+- cheapest health insurance Netherlands 2026
+- ONVZ expat review
+- OOM verzekeringen expats
 affiliate: true
-author: "Sarah van den Berg"
-author_bio: "Expat coach and writer at ExpatNetherlandsHub.com"
-featured_image: "/images/categories/health.svg"
+author: Sarah van den Berg
+author_bio: Expat coach and writer at ExpatNetherlandsHub.com
+featured_image: /images/categories/health.svg
 faq:
-  - q: "Is Dutch health insurance mandatory for expats?"
-    a: "Yes. If you are registered in the Dutch municipal population records (BRP), you are legally required to take out Dutch basic health insurance (basisverzekering) within four months of registration. Failing to do so results in the CAK (Centraal Administratiekantoor) assigning you an insurer and charging a surcharge on top of the standard premium. EU-posted workers with an A1 certificate from their home country may be exempt. All other expats living and working in the Netherlands as registered residents must have Dutch health insurance."
-  - q: "What does Dutch basic health insurance (basisverzekering) cover?"
-    a: "The basisverzekering is legally standardised — all 10 insurers cover exactly the same core services. This includes: GP visits (huisarts, not counted against eigen risico), hospital care after a GP referral, specialist care, mental health treatment (up to 3 years), prescription medicines on the formulary, maternity and obstetric care, physiotherapy (9 sessions per condition for most complaints), ambulance transport, and district nursing. It does NOT cover: adult dental care (except emergency extractions), glasses and contact lenses, most alternative therapies, cosmetic procedures, and most speech therapy for adults."
-  - q: "What is the eigen risico and how much is it in 2026?"
-    a: "The eigen risico is the annual excess (deductible) you pay before your insurer covers most costs. The mandatory minimum eigen risico is €385 in 2026. You can voluntarily increase it to a maximum of €885 in €100 increments, in exchange for a monthly premium discount of roughly €15–20. GP visits, maternity care, and some other services are excluded from the eigen risico — meaning your insurer covers these regardless. If you rarely need specialist or hospital care, a higher eigen risico can save €60–€100 per year. If you have ongoing conditions requiring regular treatment, keep it at the minimum."
-  - q: "Which Dutch health insurer has the best English customer service?"
-    a: "ONVZ is consistently rated highest for English customer service among native Dutch insurers — it positions itself as a premium insurer for international clients and has English-speaking advisors by phone and email. Zilveren Kruis offers an English online portal and English-language policy documents for expats. OOM Verzekeringen is specifically designed for expats and operates in English from the ground up. CZ and Menzis have English support available but are primarily Dutch-language organisations. VGZ, ASR, DSW, and Promovendum are Dutch-primary with limited English support."
-  - q: "Can I keep my home country insurance instead of getting Dutch insurance?"
-    a: "Only in specific circumstances. If you are employed by a foreign company and posted to the Netherlands for a fixed period, you may be covered under EU social security coordination rules with an A1 certificate, allowing you to remain on your home country scheme. Self-employed expats, employees of Dutch employers, and anyone who establishes legal residence and works in the Netherlands generally cannot use foreign insurance as a substitute for basisverzekering. Confirm your specific situation with your employer's HR team and, if needed, the SVB (Sociale Verzekeringsbank)."
-  - q: "When can I switch Dutch health insurer?"
-    a: "Once per year, during the open enrolment period: 1 November to 31 December. New coverage starts on 1 January. This window is fixed — outside of it, you can only switch if your employer's collective insurance scheme changes, or in a small number of other specific circumstances. Premium prices change every year, and the insurer that offered the best value in 2023 may not be the best value in 2026. Put a November comparison reminder in your calendar now."
-  - q: "Does the 30% ruling affect which health insurance I should choose?"
-    a: "The 30% ruling's partial non-resident status (if elected) affects your Box 3 wealth tax position, not your health insurance obligation. You are still required to have Dutch basisverzekering regardless of 30% ruling status. The ruling does not affect which insurer is best for you. However, if you are using partial non-resident status to exclude foreign assets from Box 3, and those assets include an active foreign health policy, note that the foreign policy does not substitute for Dutch basisverzekering — these are separate obligations."
-  - q: "Is there a government subsidy toward Dutch health insurance premiums?"
-    a: "Yes — the zorgtoeslag. If your income is below approximately €37,496 (single) or €47,368 (fiscal partners combined) in 2026, you may qualify for a monthly subsidy of up to approximately €130 per month toward your premium. Apply via the Belastingdienst using your DigiD. Many expats with lower salaries or those in their first months of work in the Netherlands qualify for this. It is worth checking even if you think you earn too much — the threshold includes the tax-free portion of the 30% ruling if applicable."
-  - q: "What is aanvullende verzekering and do I need it as an expat?"
-    a: "Aanvullende verzekering (supplementary insurance) covers what the basic package excludes. Common additions: adult dental care, glasses and contact lenses, physiotherapy beyond the statutory nine sessions, alternative therapies, and travel/repatriation cover. For expats, the most commonly useful additions are dental (adult dental work in the Netherlands is expensive — a crown costs €500–€1,200 without cover) and glasses. If you wear glasses or have fillings that need replacing, a dental/optical supplement typically pays for itself within a year. Compare supplements on Independer alongside the basic package."
-  - q: "What is OOM Verzekeringen and is it a real Dutch insurer?"
-    a: "OOM Verzekeringen (OOM stands for 'Onderlinge Waarborgmaatschappij', a mutual insurer model) is a fully licensed Dutch insurer regulated by De Nederlandsche Bank (DNB) and the AFM. It specifically positions itself for expats and internationals, offering English-language onboarding and support. OOM is not as widely known as Zilveren Kruis or CZ, but it is a legitimate, regulated insurer that has operated in the Netherlands for decades. Its premiums tend to be mid-range, and its English service quality is among the best available for expats who are not comfortable navigating Dutch-language insurance processes."
+- q: Is Dutch health insurance mandatory for expats?
+  a: Yes. If you are registered in the Dutch municipal population records (BRP), you are legally required to take out Dutch basic health insurance (basisverzekering) within four months of registration. Failing to do so results in the CAK (Centraal Administratiekantoor) assigning you an insurer and charging a surcharge on top of the standard premium. EU-posted workers with an A1 certificate from their home country may be exempt. All other expats living and working in the Netherlands as registered residents must have Dutch health insurance.
+- q: What does Dutch basic health insurance (basisverzekering) cover?
+  a: 'The basisverzekering is legally standardised — all 10 insurers cover exactly the same core services. This includes: GP visits (huisarts, not counted against eigen risico), hospital care after a GP referral, specialist care, mental health treatment (up to 3 years), prescription medicines on the formulary, maternity and obstetric care, physiotherapy (9 sessions per condition for most complaints), ambulance transport, and district nursing. It does NOT cover: adult dental care (except emergency extractions), glasses and contact lenses, most alternative therapies, cosmetic procedures, and most speech therapy for adults.'
+- q: What is the eigen risico and how much is it in 2026?
+  a: The eigen risico is the annual excess (deductible) you pay before your insurer covers most costs. The mandatory minimum eigen risico is €385 in 2026. You can voluntarily increase it to a maximum of €885 in €100 increments, in exchange for a monthly premium discount of roughly €15–20. GP visits, maternity care, and some other services are excluded from the eigen risico — meaning your insurer covers these regardless. If you rarely need specialist or hospital care, a higher eigen risico can save €60–€100 per year. If you have ongoing conditions requiring regular treatment, keep it at the minimum.
+- q: Which Dutch health insurer has the best English customer service?
+  a: ONVZ is consistently rated highest for English customer service among native Dutch insurers — it positions itself as a premium insurer for international clients and has English-speaking advisors by phone and email. Zilveren Kruis offers an English online portal and English-language policy documents for expats. OOM Verzekeringen is specifically designed for expats and operates in English from the ground up. CZ and Menzis have English support available but are primarily Dutch-language organisations. VGZ, ASR, DSW, and Promovendum are Dutch-primary with limited English support.
+- q: Can I keep my home country insurance instead of getting Dutch insurance?
+  a: Only in specific circumstances. If you are employed by a foreign company and posted to the Netherlands for a fixed period, you may be covered under EU social security coordination rules with an A1 certificate, allowing you to remain on your home country scheme. Self-employed expats, employees of Dutch employers, and anyone who establishes legal residence and works in the Netherlands generally cannot use foreign insurance as a substitute for basisverzekering. Confirm your specific situation with your employer's HR team and, if needed, the SVB (Sociale Verzekeringsbank).
+- q: When can I switch Dutch health insurer?
+  a: 'Once per year, during the open enrolment period: 1 November to 31 December. New coverage starts on 1 January. This window is fixed — outside of it, you can only switch if your employer''s collective insurance scheme changes, or in a small number of other specific circumstances. Premium prices change every year, and the insurer that offered the best value in 2023 may not be the best value in 2026. Put a November comparison reminder in your calendar now.'
+- q: Does the 30% ruling affect which health insurance I should choose?
+  a: The 30% ruling's partial non-resident status (if elected) affects your Box 3 wealth tax position, not your health insurance obligation. You are still required to have Dutch basisverzekering regardless of 30% ruling status. The ruling does not affect which insurer is best for you. However, if you are using partial non-resident status to exclude foreign assets from Box 3, and those assets include an active foreign health policy, note that the foreign policy does not substitute for Dutch basisverzekering — these are separate obligations.
+- q: Is there a government subsidy toward Dutch health insurance premiums?
+  a: Yes — the zorgtoeslag. If your income is below approximately €37,496 (single) or €47,368 (fiscal partners combined) in 2026, you may qualify for a monthly subsidy of up to approximately €130 per month toward your premium. Apply via the Belastingdienst using your DigiD. Many expats with lower salaries or those in their first months of work in the Netherlands qualify for this. It is worth checking even if you think you earn too much — the threshold includes the tax-free portion of the 30% ruling if applicable.
+- q: What is aanvullende verzekering and do I need it as an expat?
+  a: 'Aanvullende verzekering (supplementary insurance) covers what the basic package excludes. Common additions: adult dental care, glasses and contact lenses, physiotherapy beyond the statutory nine sessions, alternative therapies, and travel/repatriation cover. For expats, the most commonly useful additions are dental (adult dental work in the Netherlands is expensive — a crown costs €500–€1,200 without cover) and glasses. If you wear glasses or have fillings that need replacing, a dental/optical supplement typically pays for itself within a year. Compare supplements on Independer alongside the basic package.'
+- q: What is OOM Verzekeringen and is it a real Dutch insurer?
+  a: OOM Verzekeringen (OOM stands for 'Onderlinge Waarborgmaatschappij', a mutual insurer model) is a fully licensed Dutch insurer regulated by De Nederlandsche Bank (DNB) and the AFM. It specifically positions itself for expats and internationals, offering English-language onboarding and support. OOM is not as widely known as Zilveren Kruis or CZ, but it is a legitimate, regulated insurer that has operated in the Netherlands for decades. Its premiums tend to be mid-range, and its English service quality is among the best available for expats who are not comfortable navigating Dutch-language insurance processes.
 products:
-  - name: "Independer Zorgverzekering"
-    url: "https://go.expatnetherlandshub.com/independer-zorg"
-    price: "0.00"
-    tag: "Insurance Comparison"
-  - name: "SafetyWing"
-    url: "https://go.expatnetherlandshub.com/safetywing"
-    price: "0.00"
-    tag: "Short-Stay Expat Insurance"
+- name: Independer Zorgverzekering
+  url: https://go.expatnetherlandshub.com/independer-zorg
+  price: '0.00'
+  tag: Insurance Comparison
+- name: SafetyWing
+  url: https://go.expatnetherlandshub.com/safetywing
+  price: '0.00'
+  tag: Short-Stay Expat Insurance
+schema_type: Article
 ---
 
 ## Why Most Expats Pick the Wrong Dutch Health Insurer

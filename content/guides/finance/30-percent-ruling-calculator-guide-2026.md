@@ -1,37 +1,48 @@
 ---
-title: "30% Ruling Calculator Netherlands 2026: How Much You Save"
-date: 2026-03-26T08:00:00+02:00
-lastmod: 2026-04-23T10:00:00+01:00
-description: "Calculate your 30% ruling benefit in 2026. Step-by-step guide to eligibility, application, salary thresholds and how much tax you actually save."
-categories: ["finance"]
-tags: ["30% ruling", "tax Netherlands", "expat tax", "salary calculator", "Dutch tax"]
-keywords: ["30% ruling calculator", "30 percent ruling Netherlands 2026", "30% ruling salary threshold", "how much 30% ruling saves"]
+title: '30% Ruling Calculator Netherlands 2026: How Much You Save'
+date: 2026-03-26 08:00:00+02:00
+lastmod: 2026-04-23 10:00:00+01:00
+description: Calculate your 30% ruling benefit in 2026. Step-by-step guide to eligibility, application, salary thresholds and how much tax you actually save.
+categories:
+- finance
+tags:
+- 30% ruling
+- tax Netherlands
+- expat tax
+- salary calculator
+- Dutch tax
+keywords:
+- 30% ruling calculator
+- 30 percent ruling Netherlands 2026
+- 30% ruling salary threshold
+- how much 30% ruling saves
 affiliate: true
-author: "Sarah van den Berg"
-author_bio: "Expat coach and writer at ExpatNetherlandsHub.com"
-featured_image: "/images/categories/finance.svg"
+author: Sarah van den Berg
+author_bio: Expat coach and writer at ExpatNetherlandsHub.com
+featured_image: /images/categories/finance.svg
 products:
-  - name: "Wise"
-    url: "https://go.expatnetherlandshub.com/wise?ref=/guides/finance/30-percent-ruling-calculator-guide-2026/"
-    price: "0.00"
-    tag: "Currency Transfer"
+- name: Wise
+  url: https://go.expatnetherlandshub.com/wise?ref=/guides/finance/30-percent-ruling-calculator-guide-2026/
+  price: '0.00'
+  tag: Currency Transfer
 faq:
-  - q: "How much does the 30% ruling save me in 2026?"
-    a: "The exact amount depends on your gross salary. On a €60,000 gross salary, the 30% ruling saves approximately €6,000–€8,000 per year in net income. On €75,000 gross, you save roughly €9,000–€11,500 per year. On €100,000 gross, the saving is around €14,000–€17,000 per year. Use our 30% ruling calculator to get a personalised figure."
-  - q: "What is the minimum salary for the 30% ruling in 2026?"
-    a: "In 2026, the minimum taxable salary after the 30% reduction is €46,107 per year for standard applicants. This translates to a gross salary of approximately €65,867 (€46,107 ÷ 0.7). For employees under 30 with a qualifying understand's degree, the reduced threshold is €35,048 taxable, or roughly €50,069 gross. Scientific researchers at designated institutions have no minimum salary requirement."
-  - q: "Can I apply for the 30% ruling if I am self-employed or a ZZP freelancer?"
-    a: "Not through the standard route. The 30% ruling requires an employment relationship with a Dutch employer. As a ZZP freelancer or sole trader, you do not qualify unless you work through a payroll company or umbrella company (portage salariale) that employs you in a formal capacity. Some expat contractors do use this route, but you must have a genuine employment contract — the Belastingdienst scrutinises these arrangements."
-  - q: "What happens to the 30% ruling if I switch jobs?"
-    a: "Your 30% ruling does not automatically transfer. When you change employers, your new employer must submit a fresh application to the Belastingdienst within 4 months of your new start date, and there must be no gap longer than 3 months between your old and new role. The remaining duration of your original 5-year period carries over — it does not restart from zero. Your new salary must also still meet the current year's minimum threshold."
-  - q: "How long does the 30% ruling last?"
-    a: "The 30% ruling runs for a maximum of 5 years (60 months). For applicants who started from 1 January 2024 onwards, the benefit steps down over those five years: 30% for the first 20 months, 20% for months 21–40, and 10% for months 41–60. If your ruling predates 2024, transitional rules may protect your flat 30% rate for the original duration."
-  - q: "What is the Box 3 advantage of the 30% ruling?"
-    a: "Holders of the 30% ruling can elect partial non-resident taxpayer status. This means Dutch Box 3 wealth tax does not apply to foreign savings and investments — only Dutch real estate is included in their Box 3 assessment. Foreign bank accounts, share portfolios, and savings held abroad are entirely outside the Dutch tax net for the ruling's duration. For expats with significant assets abroad, this can be worth thousands of euros per year on top of the income tax saving."
-  - q: "Can my employer refuse to apply for the 30% ruling on my behalf?"
-    a: "Technically yes — the application is filed jointly by you and your employer, and your employer must agree to participate. In practice, most employers actively encourage eligible employees to apply because the ruling can also reduce employer social security contributions in some scenarios. If an employer refuses without good reason, it is worth escalating to HR or seeking independent tax advice, as the financial impact for you is substantial."
-  - q: "What happens to my taxes when the 30% ruling ends?"
-    a: "When the ruling expires, your full gross salary becomes taxable at normal Dutch income tax rates. Depending on your salary, this can mean a net income drop of €6,000–€17,000 per year or more. You also lose the partial non-resident status for Box 3, so foreign assets are included in Dutch wealth tax from that point. Planning 12–18 months ahead — adjusting savings, investments, and pension contributions — helps soften the transition."
+- q: How much does the 30% ruling save me in 2026?
+  a: The exact amount depends on your gross salary. On a €60,000 gross salary, the 30% ruling saves approximately €6,000–€8,000 per year in net income. On €75,000 gross, you save roughly €9,000–€11,500 per year. On €100,000 gross, the saving is around €14,000–€17,000 per year. Use our 30% ruling calculator to get a personalised figure.
+- q: What is the minimum salary for the 30% ruling in 2026?
+  a: In 2026, the minimum taxable salary after the 30% reduction is €46,107 per year for standard applicants. This translates to a gross salary of approximately €65,867 (€46,107 ÷ 0.7). For employees under 30 with a qualifying understand's degree, the reduced threshold is €35,048 taxable, or roughly €50,069 gross. Scientific researchers at designated institutions have no minimum salary requirement.
+- q: Can I apply for the 30% ruling if I am self-employed or a ZZP freelancer?
+  a: Not through the standard route. The 30% ruling requires an employment relationship with a Dutch employer. As a ZZP freelancer or sole trader, you do not qualify unless you work through a payroll company or umbrella company (portage salariale) that employs you in a formal capacity. Some expat contractors do use this route, but you must have a genuine employment contract — the Belastingdienst scrutinises these arrangements.
+- q: What happens to the 30% ruling if I switch jobs?
+  a: Your 30% ruling does not automatically transfer. When you change employers, your new employer must submit a fresh application to the Belastingdienst within 4 months of your new start date, and there must be no gap longer than 3 months between your old and new role. The remaining duration of your original 5-year period carries over — it does not restart from zero. Your new salary must also still meet the current year's minimum threshold.
+- q: How long does the 30% ruling last?
+  a: 'The 30% ruling runs for a maximum of 5 years (60 months). For applicants who started from 1 January 2024 onwards, the benefit steps down over those five years: 30% for the first 20 months, 20% for months 21–40, and 10% for months 41–60. If your ruling predates 2024, transitional rules may protect your flat 30% rate for the original duration.'
+- q: What is the Box 3 advantage of the 30% ruling?
+  a: Holders of the 30% ruling can elect partial non-resident taxpayer status. This means Dutch Box 3 wealth tax does not apply to foreign savings and investments — only Dutch real estate is included in their Box 3 assessment. Foreign bank accounts, share portfolios, and savings held abroad are entirely outside the Dutch tax net for the ruling's duration. For expats with significant assets abroad, this can be worth thousands of euros per year on top of the income tax saving.
+- q: Can my employer refuse to apply for the 30% ruling on my behalf?
+  a: Technically yes — the application is filed jointly by you and your employer, and your employer must agree to participate. In practice, most employers actively encourage eligible employees to apply because the ruling can also reduce employer social security contributions in some scenarios. If an employer refuses without good reason, it is worth escalating to HR or seeking independent tax advice, as the financial impact for you is substantial.
+- q: What happens to my taxes when the 30% ruling ends?
+  a: When the ruling expires, your full gross salary becomes taxable at normal Dutch income tax rates. Depending on your salary, this can mean a net income drop of €6,000–€17,000 per year or more. You also lose the partial non-resident status for Box 3, so foreign assets are included in Dutch wealth tax from that point. Planning 12–18 months ahead — adjusting savings, investments, and pension contributions — helps soften the transition.
+schema_type: Article
 ---
 
 The 30% ruling calculator question most expats ask me is not "do I qualify?" — it is "how much does it actually save me?" The honest answer is that on a €60,000 gross salary, the 30% ruling saves approximately **€6,000–€8,000 per year** in net income. On €100,000, that figure rises to **€14,000–€17,000 per year**. If you have been in the Netherlands for a year and have not done this calculation for your own salary, you may well be underestimating one of the most valuable tax benefits available to expats anywhere in Europe.

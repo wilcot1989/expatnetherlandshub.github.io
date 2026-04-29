@@ -1,44 +1,59 @@
 ---
-title: "Freelancer ZZP Guide Netherlands 2026: Complete Guide"
-date: 2026-03-06T10:00:00+01:00
-lastmod: 2026-04-23T10:00:00+01:00
-description: "Complete ZZP freelancer guide for the Netherlands. Registration, taxes, health insurance for self-employed, invoicing, and tips for expat freelancers in 2026."
-categories: ["career"]
-tags: ["ZZP", "freelancer", "self-employed", "KvK registration", "Dutch taxes", "health insurance"]
-keywords: ["ZZP Netherlands", "freelancer Netherlands guide", "self-employed expat NL", "KvK registration freelancer", "health insurance self employed netherlands", "zzp health insurance", "freelancer insurance netherlands"]
+title: 'Freelancer ZZP Guide Netherlands 2026: Complete Guide'
+date: 2026-03-06 10:00:00+01:00
+lastmod: 2026-04-23 10:00:00+01:00
+description: Complete ZZP freelancer guide for the Netherlands. Registration, taxes, health insurance for self-employed, invoicing, and tips for expat freelancers in 2026.
+categories:
+- career
+tags:
+- ZZP
+- freelancer
+- self-employed
+- KvK registration
+- Dutch taxes
+- health insurance
+keywords:
+- ZZP Netherlands
+- freelancer Netherlands guide
+- self-employed expat NL
+- KvK registration freelancer
+- health insurance self employed netherlands
+- zzp health insurance
+- freelancer insurance netherlands
 affiliate: true
 products:
-  - name: "Wise"
-    url: "https://go.expatnetherlandshub.com/wise?ref=/guides/work/freelancer-zzp-guide-netherlands-2026/"
-    price: "0.00"
-  - name: "LinkedIn Premium"
-    url: "https://www.linkedin.com/premium/"
-    price: "29.99"
-  - name: "Undutchables"
-    url: "https://undutchables.nl/"
-    price: "0.00"
-author: "Sarah van den Berg"
-author_bio: "Expat coach and relocation specialist. Half Dutch, half British, living in the Netherlands for over 10 years."
-featured_image: "/images/featured/freelancer-zzp-guide-netherlands-2026.webp"
+- name: Wise
+  url: https://go.expatnetherlandshub.com/wise?ref=/guides/work/freelancer-zzp-guide-netherlands-2026/
+  price: '0.00'
+- name: LinkedIn Premium
+  url: https://www.linkedin.com/premium/
+  price: '29.99'
+- name: Undutchables
+  url: https://undutchables.nl/
+  price: '0.00'
+author: Sarah van den Berg
+author_bio: Expat coach and relocation specialist. Half Dutch, half British, living in the Netherlands for over 10 years.
+featured_image: /images/featured/freelancer-zzp-guide-netherlands-2026.webp
 faq:
-  - q: "What is a ZZP in the Netherlands?"
-    a: "ZZP stands for Zelfstandige Zonder Personeel — a self-employed person without employees. It is the Dutch equivalent of a sole proprietor or freelancer. ZZP is the most common business structure in the Netherlands with over 1.2 million registered ZZPers."
-  - q: "How do I register as a ZZP in the Netherlands?"
-    a: "Register at the KvK (Kamer van Koophandel / Chamber of Commerce). The process takes about 1 hour: book an appointment online, bring your ID and residence permit, fill out the registration form, and pay the one-time fee of approximately €75. You receive a KVK number and BTW (VAT) number."
-  - q: "How much tax does a ZZP pay in the Netherlands?"
-    a: "ZZP income tax follows the regular progressive rates: 36.97% up to €75,518 and 49.50% above that (2026 rates). However, you benefit from the zelfstandigenaftrek (self-employed deduction of ~€2,470) and MKB-winstvrijstelling (14% profit exemption). Effective tax rates for ZZPers are typically 20-35%."
-  - q: "Do I need a VAT number as a ZZP?"
-    a: "Yes, you automatically receive a BTW (VAT) number when registering at the KvK. The standard VAT rate in the Netherlands is 21%. If your revenue is below €20,000/year, you can apply for the KOR (Kleineondernemersregeling) to be exempt from charging and filing VAT."
-  - q: "Can I freelance on a 30% ruling?"
-    a: "Yes, but it is complex. The 30% ruling is typically linked to an employment contract. As a ZZP, you would need to set up a BV (private limited company) and pay yourself a director's salary to potentially qualify. Consult a tax advisor specializing in expat taxation."
-  - q: "What insurance do I need as a freelancer in the Netherlands?"
-    a: "Mandatory: basic health insurance (zorgverzekering). Strongly recommended: liability insurance (aansprakelijkheidsverzekering, €3-5/month), professional liability insurance (beroepsaansprakelijkheid, €15-50/month), and disability insurance (arbeidsongeschiktheid, €50-200/month). Disability insurance is vital since you have no employer safety net."
-  - q: "Can I freelance in the Netherlands on a work visa?"
-    a: "It depends on your visa type. EU/EEA citizens can freelance freely. Non-EU citizens on a Highly Skilled Migrant (HSM) visa cannot freelance — your HSM visa is tied to your employer. To freelance as a non-EU national, you need a separate self-employment residence permit (zelfstandige verblijfsvergunning) from the IND, or a partner/spouse visa with an open work permit. If you want to combine employment and freelancing, check with the IND whether your specific permit allows it."
-  - q: "What is the minimum rate to charge as a freelancer?"
-    a: "There is no legal minimum, but there is a practical floor. Add up your annual living costs, taxes (save 30–35% of income), insurance (health + AOV + liability), pension contributions (10–15% of income), and business costs. Divide that total by your billable hours (typically 1,000–1,200/year, not 2,000 — you need time for admin, marketing, and unpaid time). That gives your break-even rate. Charge at least 30% above it for profit and buffer. For most knowledge workers in the Netherlands, this works out to a minimum of €50–€65/hour, with €75–€125/hour being the realistic market range for experienced professionals."
-  - q: "How do I file taxes as a freelancer?"
-    a: "You file two main tax returns: the BTW-aangifte (VAT return) quarterly via mijn.belastingdienst.nl, and the annual aangifte inkomstenbelasting (income tax return) by 1 May each year. Both are done online using your DigiD. Your accounting software (Moneybird, e-Boekhouden, etc.) generates the figures you need. The income tax return requires you to enter your business profit yourself — the Belastingdienst does not know your ZZP income automatically. Most freelancers benefit from using a belastingadviseur (tax advisor) for the first year to make sure all deductions (zelfstandigenaftrek, MKB-winstvrijstelling, business costs) are correctly claimed."
+- q: What is a ZZP in the Netherlands?
+  a: ZZP stands for Zelfstandige Zonder Personeel — a self-employed person without employees. It is the Dutch equivalent of a sole proprietor or freelancer. ZZP is the most common business structure in the Netherlands with over 1.2 million registered ZZPers.
+- q: How do I register as a ZZP in the Netherlands?
+  a: 'Register at the KvK (Kamer van Koophandel / Chamber of Commerce). The process takes about 1 hour: book an appointment online, bring your ID and residence permit, fill out the registration form, and pay the one-time fee of approximately €75. You receive a KVK number and BTW (VAT) number.'
+- q: How much tax does a ZZP pay in the Netherlands?
+  a: 'ZZP income tax follows the regular progressive rates: 36.97% up to €75,518 and 49.50% above that (2026 rates). However, you benefit from the zelfstandigenaftrek (self-employed deduction of ~€2,470) and MKB-winstvrijstelling (14% profit exemption). Effective tax rates for ZZPers are typically 20-35%.'
+- q: Do I need a VAT number as a ZZP?
+  a: Yes, you automatically receive a BTW (VAT) number when registering at the KvK. The standard VAT rate in the Netherlands is 21%. If your revenue is below €20,000/year, you can apply for the KOR (Kleineondernemersregeling) to be exempt from charging and filing VAT.
+- q: Can I freelance on a 30% ruling?
+  a: Yes, but it is complex. The 30% ruling is typically linked to an employment contract. As a ZZP, you would need to set up a BV (private limited company) and pay yourself a director's salary to potentially qualify. Consult a tax advisor specializing in expat taxation.
+- q: What insurance do I need as a freelancer in the Netherlands?
+  a: 'Mandatory: basic health insurance (zorgverzekering). Strongly recommended: liability insurance (aansprakelijkheidsverzekering, €3-5/month), professional liability insurance (beroepsaansprakelijkheid, €15-50/month), and disability insurance (arbeidsongeschiktheid, €50-200/month). Disability insurance is vital since you have no employer safety net.'
+- q: Can I freelance in the Netherlands on a work visa?
+  a: It depends on your visa type. EU/EEA citizens can freelance freely. Non-EU citizens on a Highly Skilled Migrant (HSM) visa cannot freelance — your HSM visa is tied to your employer. To freelance as a non-EU national, you need a separate self-employment residence permit (zelfstandige verblijfsvergunning) from the IND, or a partner/spouse visa with an open work permit. If you want to combine employment and freelancing, check with the IND whether your specific permit allows it.
+- q: What is the minimum rate to charge as a freelancer?
+  a: There is no legal minimum, but there is a practical floor. Add up your annual living costs, taxes (save 30–35% of income), insurance (health + AOV + liability), pension contributions (10–15% of income), and business costs. Divide that total by your billable hours (typically 1,000–1,200/year, not 2,000 — you need time for admin, marketing, and unpaid time). That gives your break-even rate. Charge at least 30% above it for profit and buffer. For most knowledge workers in the Netherlands, this works out to a minimum of €50–€65/hour, with €75–€125/hour being the realistic market range for experienced professionals.
+- q: How do I file taxes as a freelancer?
+  a: 'You file two main tax returns: the BTW-aangifte (VAT return) quarterly via mijn.belastingdienst.nl, and the annual aangifte inkomstenbelasting (income tax return) by 1 May each year. Both are done online using your DigiD. Your accounting software (Moneybird, e-Boekhouden, etc.) generates the figures you need. The income tax return requires you to enter your business profit yourself — the Belastingdienst does not know your ZZP income automatically. Most freelancers benefit from using a belastingadviseur (tax advisor) for the first year to make sure all deductions (zelfstandigenaftrek, MKB-winstvrijstelling, business costs) are correctly claimed.'
+schema_type: Article
 ---
 
 When I registered as a ZZP at the KvK, the whole process took less than an hour. I walked in, answered some questions, paid the fee, and walked out as an officially registered Dutch freelancer. It was shockingly easy compared to the bureaucratic nightmare I had expected. The harder part comes after: figuring out taxes, insurance, invoicing, and the infamous VAT returns. I have been freelancing in the Netherlands for years and I coach other expats through it regularly. Here is the complete guide.

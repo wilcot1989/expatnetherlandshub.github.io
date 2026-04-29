@@ -1,38 +1,49 @@
 ---
-title: "Moving to The Hague 2026: Complete Expat Guide"
-date: 2026-03-06T10:00:00+01:00
-lastmod: 2026-04-23T10:00:00+01:00
-description: "Everything you need to know about moving to The Hague as an expat. Neighborhoods, housing, international community, costs of living, and practical tips."
-categories: ["housing"]
-tags: ["The Hague", "Den Haag", "expat housing", "international city", "relocation"]
-keywords: ["moving to The Hague", "The Hague expat guide", "living in Den Haag", "The Hague neighborhoods"]
+title: 'Moving to The Hague 2026: Complete Expat Guide'
+date: 2026-03-06 10:00:00+01:00
+lastmod: 2026-04-23 10:00:00+01:00
+description: Everything you need to know about moving to The Hague as an expat. Neighborhoods, housing, international community, costs of living, and practical tips.
+categories:
+- housing
+tags:
+- The Hague
+- Den Haag
+- expat housing
+- international city
+- relocation
+keywords:
+- moving to The Hague
+- The Hague expat guide
+- living in Den Haag
+- The Hague neighborhoods
 affiliate: true
-author: "Sarah van den Berg"
-author_bio: "Expat coach and relocation specialist. Half Dutch, half British, living in the Netherlands for over 10 years."
-featured_image: "/images/featured/moving-to-the-hague-guide-2026.webp"
+author: Sarah van den Berg
+author_bio: Expat coach and relocation specialist. Half Dutch, half British, living in the Netherlands for over 10 years.
+featured_image: /images/featured/moving-to-the-hague-guide-2026.webp
 faq:
-  - q: "Is The Hague a good city for expats?"
-    a: "The Hague is arguably the best city in the Netherlands for expats. It hosts over 200 international organizations (including the International Court of Justice and Europol), has the largest international community in the country, and offers a cosmopolitan atmosphere with beach access. English is widely spoken everywhere."
-  - q: "How much does it cost to live in The Hague?"
-    a: "For a single professional, expect €2,200-€3,200/month total. Rent for a one-bedroom apartment ranges from €1,000-€1,500/month (city center) or €800-€1,200 (outskirts). Groceries cost €250-€350/month. The Hague is 10-15% cheaper than Amsterdam."
-  - q: "What are the best neighborhoods in The Hague for expats?"
-    a: "The most popular expat neighborhoods are: Statenkwartier and Duinoord (upscale, near the beach), Bezuidenhout (near Central Station and international organizations), Archipelbuurt (charming, family-friendly), and Scheveningen (beach living). Benoordenhout is popular with diplomats and families."
-  - q: "How is the housing market in The Hague?"
-    a: "The Hague's housing market is competitive but less extreme than Amsterdam. Average rent for a 2-bedroom apartment is €1,200-€1,800/month. Buying prices average €4,000-€5,500/m². Expect to search for 2-4 weeks for a rental. Having documents ready (employment contract, ID, references) speeds up the process."
-  - q: "Does The Hague have international schools?"
-    a: "Yes, The Hague has the highest concentration of international schools in the Netherlands, including the International School of The Hague (ISH), the British School in The Netherlands, the American School of The Hague, and the European School The Hague. Tuition ranges from €10,000-€25,000 per year."
-  - q: "How do I get from The Hague to other Dutch cities?"
-    a: "The Hague has excellent public transport. By train: Amsterdam (50 min), Rotterdam (25 min), Utrecht (40 min), Leiden (15 min). The Hague has two main stations (Centraal and HS) with frequent intercity connections. Schiphol Airport is 30 minutes by train."
+- q: Is The Hague a good city for expats?
+  a: The Hague is arguably the best city in the Netherlands for expats. It hosts over 200 international organizations (including the International Court of Justice and Europol), has the largest international community in the country, and offers a cosmopolitan atmosphere with beach access. English is widely spoken everywhere.
+- q: How much does it cost to live in The Hague?
+  a: For a single professional, expect €2,200-€3,200/month total. Rent for a one-bedroom apartment ranges from €1,000-€1,500/month (city center) or €800-€1,200 (outskirts). Groceries cost €250-€350/month. The Hague is 10-15% cheaper than Amsterdam.
+- q: What are the best neighborhoods in The Hague for expats?
+  a: 'The most popular expat neighborhoods are: Statenkwartier and Duinoord (upscale, near the beach), Bezuidenhout (near Central Station and international organizations), Archipelbuurt (charming, family-friendly), and Scheveningen (beach living). Benoordenhout is popular with diplomats and families.'
+- q: How is the housing market in The Hague?
+  a: The Hague's housing market is competitive but less extreme than Amsterdam. Average rent for a 2-bedroom apartment is €1,200-€1,800/month. Buying prices average €4,000-€5,500/m². Expect to search for 2-4 weeks for a rental. Having documents ready (employment contract, ID, references) speeds up the process.
+- q: Does The Hague have international schools?
+  a: Yes, The Hague has the highest concentration of international schools in the Netherlands, including the International School of The Hague (ISH), the British School in The Netherlands, the American School of The Hague, and the European School The Hague. Tuition ranges from €10,000-€25,000 per year.
+- q: How do I get from The Hague to other Dutch cities?
+  a: 'The Hague has excellent public transport. By train: Amsterdam (50 min), Rotterdam (25 min), Utrecht (40 min), Leiden (15 min). The Hague has two main stations (Centraal and HS) with frequent intercity connections. Schiphol Airport is 30 minutes by train.'
 products:
-  - name: "HousingAnywhere"
-    url: "https://housinganywhere.com/"
-    price: "0.00"
-  - name: "Pararius"
-    url: "https://www.pararius.com/"
-    price: "0.00"
-  - name: "Funda"
-    url: "https://www.funda.nl/"
-    price: "0.00"
+- name: HousingAnywhere
+  url: https://housinganywhere.com/
+  price: '0.00'
+- name: Pararius
+  url: https://www.pararius.com/
+  price: '0.00'
+- name: Funda
+  url: https://www.funda.nl/
+  price: '0.00'
+schema_type: Article
 ---
 
 If I had to recommend one Dutch city for expat families, it would be The Hague. I know that is a bold statement, but hear me out: the largest international community in the Netherlands, excellent international schools, a beach you can cycle to in fifteen minutes, and housing prices that will not make you cry (as much as Amsterdam). Many of my clients end up here, and almost none of them regret it. Here is why -- and how to make the move.

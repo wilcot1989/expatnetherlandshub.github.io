@@ -1,33 +1,46 @@
 ---
-title: "Side Hustle Netherlands: Ideas + Tax Rules"
-date: 2026-03-22T10:00:00+01:00
-lastmod: 2026-04-23T10:00:00+01:00
-description: "Earn extra income in the Netherlands as an expat: legal rules, bijverdienste tax, KvK, the best side hustles, and passive income options explained."
-categories: ["work"]
-tags: ["side hustle", "passive income", "bijverdienste", "KvK", "ZZP", "freelance", "tax"]
-keywords: ["side hustle Netherlands expat 2026", "bijverdienste Netherlands", "freelance Netherlands expat", "passive income Netherlands 2026"]
+title: 'Side Hustle Netherlands: Ideas + Tax Rules'
+date: 2026-03-22 10:00:00+01:00
+lastmod: 2026-04-23 10:00:00+01:00
+description: 'Earn extra income in the Netherlands as an expat: legal rules, bijverdienste tax, KvK, the best side hustles, and passive income options explained.'
+categories:
+- work
+tags:
+- side hustle
+- passive income
+- bijverdienste
+- KvK
+- ZZP
+- freelance
+- tax
+keywords:
+- side hustle Netherlands expat 2026
+- bijverdienste Netherlands
+- freelance Netherlands expat
+- passive income Netherlands 2026
 affiliate: false
-author: "Sarah van den Berg"
-author_bio: "Expat coach and writer at ExpatNetherlandsHub.com"
-featured_image: "/images/categories/work.svg"
+author: Sarah van den Berg
+author_bio: Expat coach and writer at ExpatNetherlandsHub.com
+featured_image: /images/categories/work.svg
 faq:
-  - q: "Can I do freelance work on the side while employed in the Netherlands?"
-    a: "In most cases, yes — but you need to check three things first. First, your employment contract: many Dutch employment contracts contain a nevenwerkzaamheden clause (secondary activities clause) that requires you to notify or obtain permission from your employer before doing paid work outside your job. Check your contract. Second, your residence permit: if your right to work in the Netherlands is tied to a specific employer or role (common with the highly skilled migrant permit), additional employment or self-employment may require a separate work authorisation or amendment to your permit. Third, if you plan to earn regularly from freelance work, you need to register with the KvK (Chamber of Commerce) and declare the income on your tax return."
-  - q: "Do I need to register with KvK (Chamber of Commerce) for a side hustle in the Netherlands?"
-    a: "It depends on the regularity and commercial nature of your activities. The Belastingdienst uses criteria including frequency, intent to profit, and whether you approach your work in a business-like manner. Occasional small amounts (e.g. selling second-hand items, a one-off translation) are unlikely to require registration. Regular freelance work, offering services consistently, or earning a meaningful supplementary income almost always requires KvK registration. Registration costs EUR 50 as a one-time fee. Once registered, you are a ZZP (zelfstandige zonder personeel — self-employed without staff), which has its own tax obligations. When in doubt, registering is safer than not — operating commercially without registering is considered tax evasion."
-  - q: "How is side hustle income taxed in the Netherlands?"
-    a: "Side hustle income is generally taxed as business income under Box 1 (income from work and home). You add it to your total Box 1 income (salary plus business income), which is then taxed at progressive rates: 36.97% up to approximately EUR 38,000, and 49.5% above that. However, if you qualify as a 'ondernemer voor de inkomstenbelasting' (entrepreneur for income tax purposes, not just a ZZP registrant), you may access significant deductions including the zelfstandigenaftrek (self-employment deduction, approximately EUR 3,750 in 2026) and the MKB-winstvrijstelling (14% profit exemption). Qualifying for these deductions requires meeting the 'hour criterion' — working at least 1,225 hours per year on your business. For most expats with a full-time job and a small side hustle, this threshold is unlikely to be met, and you declare the income simply as supplementary earnings (overige werkzaamheden) without the deductions."
-  - q: "How does a side hustle affect my 30% ruling?"
-    a: "The 30% ruling applies to your employment income from the employer who sponsors it. It does not automatically extend to self-employment income or side hustle earnings. If you earn additional income from freelance work or a side business while receiving the 30% ruling, that additional income is taxed normally under Box 1 without the 30% reduction. Furthermore, if you leave your sponsored employment, your 30% ruling expires and cannot be transferred to a self-employment arrangement (though there is a 3-month transition window if you move to a new qualifying employer). Side hustle income should be declared separately from your main employment income in your tax return."
-  - q: "What is the difference between Box 1 and Box 3 for passive income in the Netherlands?"
-    a: "This is the most important tax distinction for passive income. Box 1 covers income from active work — employment, freelancing, rental income from properties you actively manage, and certain other recurring income streams. Box 3 covers returns on your savings and investments — it is a wealth tax, not an income tax. Dividend income and capital gains from shares and ETFs fall into Box 3 (taxed via the deemed return system on your portfolio value on 1 January). Rental income from property is usually Box 1 if you actively manage the property, or Box 3 if the property is a passive investment. The key distinction: Box 3 may be more tax-efficient for truly passive returns (you pay 36% on a deemed 5.88% return rather than up to 49.5% on actual income), while Box 1 is unavoidable for active income streams."
-  - q: "Can I rent out a room in my Dutch home for income?"
-    a: "Yes. Renting out a room in your primary residence (where you also live) qualifies for the kamerverhuurvrijstelling — a rental income exemption. If the rental income is below EUR 5,998 per year (2026 approximate; check the Belastingdienst for the current threshold), it is fully exempt from tax and does not need to be declared. Above that threshold, the excess is taxable. This applies to room rental, not to renting your entire home while you are away (which is subject to different rules and often prohibited by your rental contract or mortgage terms). Platforms like Airbnb publish Dutch tax guides on their websites that are worth reading if you plan to use them."
+- q: Can I do freelance work on the side while employed in the Netherlands?
+  a: 'In most cases, yes — but you need to check three things first. First, your employment contract: many Dutch employment contracts contain a nevenwerkzaamheden clause (secondary activities clause) that requires you to notify or obtain permission from your employer before doing paid work outside your job. Check your contract. Second, your residence permit: if your right to work in the Netherlands is tied to a specific employer or role (common with the highly skilled migrant permit), additional employment or self-employment may require a separate work authorisation or amendment to your permit. Third, if you plan to earn regularly from freelance work, you need to register with the KvK (Chamber of Commerce) and declare the income on your tax return.'
+- q: Do I need to register with KvK (Chamber of Commerce) for a side hustle in the Netherlands?
+  a: It depends on the regularity and commercial nature of your activities. The Belastingdienst uses criteria including frequency, intent to profit, and whether you approach your work in a business-like manner. Occasional small amounts (e.g. selling second-hand items, a one-off translation) are unlikely to require registration. Regular freelance work, offering services consistently, or earning a meaningful supplementary income almost always requires KvK registration. Registration costs EUR 50 as a one-time fee. Once registered, you are a ZZP (zelfstandige zonder personeel — self-employed without staff), which has its own tax obligations. When in doubt, registering is safer than not — operating commercially without registering is considered tax evasion.
+- q: How is side hustle income taxed in the Netherlands?
+  a: 'Side hustle income is generally taxed as business income under Box 1 (income from work and home). You add it to your total Box 1 income (salary plus business income), which is then taxed at progressive rates: 36.97% up to approximately EUR 38,000, and 49.5% above that. However, if you qualify as a ''ondernemer voor de inkomstenbelasting'' (entrepreneur for income tax purposes, not just a ZZP registrant), you may access significant deductions including the zelfstandigenaftrek (self-employment deduction, approximately EUR 3,750 in 2026) and the MKB-winstvrijstelling (14% profit exemption). Qualifying for these deductions requires meeting the ''hour criterion'' — working at least 1,225 hours per year on your business. For most expats with a full-time job and a small side hustle, this threshold is unlikely to be met, and you declare the income simply as supplementary earnings (overige werkzaamheden) without the deductions.'
+- q: How does a side hustle affect my 30% ruling?
+  a: The 30% ruling applies to your employment income from the employer who sponsors it. It does not automatically extend to self-employment income or side hustle earnings. If you earn additional income from freelance work or a side business while receiving the 30% ruling, that additional income is taxed normally under Box 1 without the 30% reduction. Furthermore, if you leave your sponsored employment, your 30% ruling expires and cannot be transferred to a self-employment arrangement (though there is a 3-month transition window if you move to a new qualifying employer). Side hustle income should be declared separately from your main employment income in your tax return.
+- q: What is the difference between Box 1 and Box 3 for passive income in the Netherlands?
+  a: 'This is the most important tax distinction for passive income. Box 1 covers income from active work — employment, freelancing, rental income from properties you actively manage, and certain other recurring income streams. Box 3 covers returns on your savings and investments — it is a wealth tax, not an income tax. Dividend income and capital gains from shares and ETFs fall into Box 3 (taxed via the deemed return system on your portfolio value on 1 January). Rental income from property is usually Box 1 if you actively manage the property, or Box 3 if the property is a passive investment. The key distinction: Box 3 may be more tax-efficient for truly passive returns (you pay 36% on a deemed 5.88% return rather than up to 49.5% on actual income), while Box 1 is unavoidable for active income streams.'
+- q: Can I rent out a room in my Dutch home for income?
+  a: Yes. Renting out a room in your primary residence (where you also live) qualifies for the kamerverhuurvrijstelling — a rental income exemption. If the rental income is below EUR 5,998 per year (2026 approximate; check the Belastingdienst for the current threshold), it is fully exempt from tax and does not need to be declared. Above that threshold, the excess is taxable. This applies to room rental, not to renting your entire home while you are away (which is subject to different rules and often prohibited by your rental contract or mortgage terms). Platforms like Airbnb publish Dutch tax guides on their websites that are worth reading if you plan to use them.
 products:
-  - name: "Wise"
-    url: "https://go.expatnetherlandshub.com/wise?ref=/blog/side-hustle-passive-income-netherlands-2026/"
-    price: "0.00"
-    tag: "Currency Transfer"
+- name: Wise
+  url: https://go.expatnetherlandshub.com/wise?ref=/blog/side-hustle-passive-income-netherlands-2026/
+  price: '0.00'
+  tag: Currency Transfer
+schema_type: Article
 ---
 
 I started my first side hustle in the Netherlands without really understanding what I was doing from a tax perspective. I was doing some freelance writing on the side of my main job, getting paid into my regular bank account, and telling myself I would "sort out the tax side later." A Dutch accountant friend eventually sat me down and explained, very patiently, that I was operating a commercial activity without being registered with the KvK, which was not a good position to be in.

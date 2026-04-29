@@ -1,40 +1,51 @@
 ---
-title: "30% Ruling Eligibility: Do You Qualify? (2026)"
-date: 2026-04-29T10:00:00+01:00
-lastmod: 2026-04-23T10:00:00+01:00
-description: "Find out if you qualify for the Dutch 30% ruling in 2026. I cover all 5 eligibility requirements, the 150km rule, salary thresholds, and a decision tree."
-categories: ["finance"]
-tags: ["30% ruling", "tax", "eligibility", "knowledge migrant", "expat tax"]
-keywords: ["30 percent ruling eligibility", "do I qualify for 30 ruling", "30 percent ruling requirements 2026", "30 ruling netherlands conditions"]
+title: '30% Ruling Eligibility: Do You Qualify? (2026)'
+date: 2026-04-29 10:00:00+01:00
+lastmod: 2026-04-23 10:00:00+01:00
+description: Find out if you qualify for the Dutch 30% ruling in 2026. I cover all 5 eligibility requirements, the 150km rule, salary thresholds, and a decision tree.
+categories:
+- finance
+tags:
+- 30% ruling
+- tax
+- eligibility
+- knowledge migrant
+- expat tax
+keywords:
+- 30 percent ruling eligibility
+- do I qualify for 30 ruling
+- 30 percent ruling requirements 2026
+- 30 ruling netherlands conditions
 affiliate: true
-author: "Sarah van den Berg"
-author_bio: "Expat coach and relocation specialist. Half Dutch, half British, living in the Netherlands for over 10 years."
-featured_image: "/images/categories/finance.svg"
+author: Sarah van den Berg
+author_bio: Expat coach and relocation specialist. Half Dutch, half British, living in the Netherlands for over 10 years.
+featured_image: /images/categories/finance.svg
 products:
-  - name: "Wise"
-    url: "https://go.expatnetherlandshub.com/wise?ref=/guides/finance/30-percent-ruling-eligibility-guide-2026/"
-    price: "0.00"
-  - name: "Expatax"
-    url: "https://www.expatax.nl/"
-    price: "0.00"
-  - name: "Blue Umbrella"
-    url: "https://www.blueumbrella.nl/"
-    price: "0.00"
+- name: Wise
+  url: https://go.expatnetherlandshub.com/wise?ref=/guides/finance/30-percent-ruling-eligibility-guide-2026/
+  price: '0.00'
+- name: Expatax
+  url: https://www.expatax.nl/
+  price: '0.00'
+- name: Blue Umbrella
+  url: https://www.blueumbrella.nl/
+  price: '0.00'
 faq:
-  - q: "What is the minimum salary to qualify for the 30% ruling in 2026?"
-    a: "In 2026, the minimum taxable salary threshold for the 30% ruling is EUR 46,107 gross per year for most applicants. For employees under 30 with a qualifying master's degree, the threshold is EUR 35,048 gross. These are the gross figures BEFORE the 30% allowance is deducted. The Belastingdienst adjusts these figures annually, so always verify the current year's threshold."
-  - q: "Does the 150km rule apply if I lived in Belgium?"
-    a: "Almost certainly yes, which means you likely do NOT qualify. Most of Belgium, including Brussels, Ghent, Bruges, and Antwerp, lies within 150km of the Dutch border. If you lived in Belgium for the majority of the 24 months before starting work in the Netherlands, you will fail the 150km test. The city of Arlon, in the very south of Belgium, is borderline. If you lived in Belgium, get an address check done before assuming you qualify."
-  - q: "Can I apply for the 30% ruling as a self-employed person or ZZP'er?"
-    a: "No. The 30% ruling is exclusively for employees with a Dutch employer. Self-employed workers (ZZP'ers), sole traders, and those working through their own BV without a formal employment relationship do not qualify. If you are considering becoming self-employed in the Netherlands, weigh this carefully — losing the 30% ruling is a significant financial cost."
-  - q: "What happens if my employer applies for the 30% ruling too late?"
-    a: "Your employer must submit the application within 4 months of your employment start date. If they miss this deadline, the ruling can still be approved, but it will only apply from the first day of the month in which the application was submitted — not retroactively from your start date. Missing the deadline can cost you months of tax benefit. Chase your employer's HR department early."
-  - q: "I came to the Netherlands as a student, then got a job. Do I qualify?"
-    a: "It depends on timing. You need to have lived more than 150km from the Dutch border for at least 16 of the 24 months before your employment started. If you were a full-time student in the Netherlands for more than 8 months of those 24 months, you likely fail the 150km test. However, if you only recently finished your studies (e.g., you studied abroad and just arrived), you may still qualify. Count the months carefully."
-  - q: "If I change jobs in the Netherlands, do I lose my 30% ruling?"
-    a: "Not necessarily. You can transfer the 30% ruling to a new employer, provided there is no gap of more than 3 months between leaving your old job and starting your new one. Your new employer must apply within 4 months of your new start date. The remaining duration from your original 5-year period carries over — the clock does not restart."
-  - q: "What is the application process for the 30% ruling?"
-    a: "Your employer (not you) submits the application to the Belastingdienst using the official request form (Verzoek loonheffingen 30%-faciliteit). The application typically takes 6–10 weeks to process. Your employer will need your employment contract, your previous foreign address documentation, and proof of your qualifications. Once approved, the ruling applies from the first day of the month in which the application was submitted (or retroactively to your start date if submitted within the first 4 months)."
+- q: What is the minimum salary to qualify for the 30% ruling in 2026?
+  a: In 2026, the minimum taxable salary threshold for the 30% ruling is EUR 46,107 gross per year for most applicants. For employees under 30 with a qualifying master's degree, the threshold is EUR 35,048 gross. These are the gross figures BEFORE the 30% allowance is deducted. The Belastingdienst adjusts these figures annually, so always verify the current year's threshold.
+- q: Does the 150km rule apply if I lived in Belgium?
+  a: Almost certainly yes, which means you likely do NOT qualify. Most of Belgium, including Brussels, Ghent, Bruges, and Antwerp, lies within 150km of the Dutch border. If you lived in Belgium for the majority of the 24 months before starting work in the Netherlands, you will fail the 150km test. The city of Arlon, in the very south of Belgium, is borderline. If you lived in Belgium, get an address check done before assuming you qualify.
+- q: Can I apply for the 30% ruling as a self-employed person or ZZP'er?
+  a: No. The 30% ruling is exclusively for employees with a Dutch employer. Self-employed workers (ZZP'ers), sole traders, and those working through their own BV without a formal employment relationship do not qualify. If you are considering becoming self-employed in the Netherlands, weigh this carefully — losing the 30% ruling is a significant financial cost.
+- q: What happens if my employer applies for the 30% ruling too late?
+  a: Your employer must submit the application within 4 months of your employment start date. If they miss this deadline, the ruling can still be approved, but it will only apply from the first day of the month in which the application was submitted — not retroactively from your start date. Missing the deadline can cost you months of tax benefit. Chase your employer's HR department early.
+- q: I came to the Netherlands as a student, then got a job. Do I qualify?
+  a: It depends on timing. You need to have lived more than 150km from the Dutch border for at least 16 of the 24 months before your employment started. If you were a full-time student in the Netherlands for more than 8 months of those 24 months, you likely fail the 150km test. However, if you only recently finished your studies (e.g., you studied abroad and just arrived), you may still qualify. Count the months carefully.
+- q: If I change jobs in the Netherlands, do I lose my 30% ruling?
+  a: Not necessarily. You can transfer the 30% ruling to a new employer, provided there is no gap of more than 3 months between leaving your old job and starting your new one. Your new employer must apply within 4 months of your new start date. The remaining duration from your original 5-year period carries over — the clock does not restart.
+- q: What is the application process for the 30% ruling?
+  a: Your employer (not you) submits the application to the Belastingdienst using the official request form (Verzoek loonheffingen 30%-faciliteit). The application typically takes 6–10 weeks to process. Your employer will need your employment contract, your previous foreign address documentation, and proof of your qualifications. Once approved, the ruling applies from the first day of the month in which the application was submitted (or retroactively to your start date if submitted within the first 4 months).
+schema_type: Article
 ---
 
 A client of mine — I will call her Mina — moved from Singapore to Amsterdam for a senior product role at a Dutch tech company. She had done her research, she knew about the 30% ruling, and she had factored the tax saving into every spreadsheet she had built about whether to make the move. The salary looked excellent. The company was keen. Everything felt aligned.

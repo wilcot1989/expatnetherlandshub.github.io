@@ -1,46 +1,67 @@
 ---
-title: "How to Open a Dutch Bank Account as an Expat (2026 Guide)"
-date: 2026-03-07T10:00:00+01:00
-lastmod: 2026-04-23T10:00:00+01:00
-description: "Open a Dutch bank account without a BSN — here is how. Options for expats before and after BSN registration, including Wise, bunq, ING, and ABN AMRO."
-categories: ["finance"]
-tags: ["bank account", "expat banking", "wise", "bunq", "ing netherlands", "abn amro", "revolut"]
-keywords: ["open bank account netherlands expat", "how to open bank account netherlands", "dutch bank account expat", "bank account without BSN", "open dutch bank account from abroad", "joint bank account netherlands", "student bank account netherlands", "non resident bank account netherlands", "banking without bsn netherlands", "open bank account without bsn", "dutch bank account no bsn", "nederlandse bankrekening openen als expat"]
+title: How to Open a Dutch Bank Account as an Expat (2026 Guide)
+date: 2026-03-07 10:00:00+01:00
+lastmod: 2026-04-23 10:00:00+01:00
+description: Open a Dutch bank account without a BSN — here is how. Options for expats before and after BSN registration, including Wise, bunq, ING, and ABN AMRO.
+categories:
+- finance
+tags:
+- bank account
+- expat banking
+- wise
+- bunq
+- ing netherlands
+- abn amro
+- revolut
+keywords:
+- open bank account netherlands expat
+- how to open bank account netherlands
+- dutch bank account expat
+- bank account without BSN
+- open dutch bank account from abroad
+- joint bank account netherlands
+- student bank account netherlands
+- non resident bank account netherlands
+- banking without bsn netherlands
+- open bank account without bsn
+- dutch bank account no bsn
+- nederlandse bankrekening openen als expat
 affiliate: true
-author: "Sarah van den Berg"
-author_bio: "Expat coach and relocation specialist. Half Dutch, half British, living in the Netherlands for over 10 years."
-featured_image: "/images/featured/how-to-open-bank-account-netherlands-2026.webp"
+author: Sarah van den Berg
+author_bio: Expat coach and relocation specialist. Half Dutch, half British, living in the Netherlands for over 10 years.
+featured_image: /images/featured/how-to-open-bank-account-netherlands-2026.webp
 products:
-  - name: "Wise"
-    url: "https://go.expatnetherlandshub.com/wise?ref=/guides/finance/how-to-open-bank-account-netherlands-2026/"
-    price: "0.00"
-  - name: "bunq"
-    url: "https://www.bunq.com/"
-    price: "2.99"
-  - name: "ING"
-    url: "https://www.ing.nl/particulier"
-    price: "0.00"
+- name: Wise
+  url: https://go.expatnetherlandshub.com/wise?ref=/guides/finance/how-to-open-bank-account-netherlands-2026/
+  price: '0.00'
+- name: bunq
+  url: https://www.bunq.com/
+  price: '2.99'
+- name: ING
+  url: https://www.ing.nl/particulier
+  price: '0.00'
 faq:
-  - q: "Can I open a Dutch bank account before arriving in the Netherlands?"
-    a: "Yes. Wise lets you create a multi-currency account with a European IBAN from anywhere in the world — no BSN or Dutch address required. Bunq also allows remote sign-up for EU citizens. Traditional banks like ING and ABN AMRO require you to be physically present in the Netherlands with a BSN."
-  - q: "How long does it take to open a bank account in the Netherlands?"
-    a: "Digital banks: Wise takes 10-30 minutes, Bunq takes 5-15 minutes, N26 takes about 10 minutes. Traditional banks: ING takes 5-10 business days after online application, ABN AMRO takes 3-7 business days. Having your BSN, valid passport, and proof of address ready speeds up the process."
-  - q: "Do I need a BSN to open a Dutch bank account?"
-    a: "Traditional banks (ING, ABN AMRO, Rabobank) require a BSN. However, Wise does not require a BSN — you can get a European IBAN immediately. Bunq may allow you to start without a BSN for EU citizens. This is why many expats open a Wise account first and add a traditional bank later."
-  - q: "What documents do I need to open a bank account?"
-    a: "For traditional banks: valid passport or EU ID card, BSN number, proof of Dutch address (registration from gemeente), and sometimes proof of income or employment contract. For digital banks like Wise: valid passport or ID card and a selfie for verification. No BSN or Dutch address needed."
-  - q: "Can I receive my salary without a Dutch bank account?"
-    a: "Most Dutch employers require a bank account with a Dutch or European IBAN for salary payments. A Wise account with a European IBAN satisfies this requirement for most employers. Some employers specifically require a traditional Dutch bank account (NL IBAN), but this is increasingly rare."
-  - q: "Can I open a Dutch bank account without a BSN?"
-    a: "Yes — but not with a traditional bank. ING, ABN AMRO, and Rabobank all require a BSN. Wise is the most reliable pre-BSN option: it gives you a European IBAN within 30 minutes and no BSN is needed. Bunq and Revolut also work without a BSN for most nationalities. Many expats use Wise as their primary account for the first weeks and add a traditional bank once their BSN arrives."
-  - q: "Can I open a Dutch bank account from abroad before moving?"
-    a: "Yes. Wise is the most practical option — you can open a full multi-currency account from anywhere in the world, before you have a Dutch address or BSN. The process takes under 30 minutes and gives you a European IBAN you can share with your Dutch employer and landlord before you land. Bunq also allows EU citizens to sign up remotely. Traditional Dutch banks require in-person verification in the Netherlands."
-  - q: "Do Dutch bank accounts have sort codes?"
-    a: "No. The Netherlands uses IBAN (International Bank Account Number) and BIC/SWIFT codes rather than sort codes. Dutch IBANs start with 'NL' followed by two check digits and then the bank code and account number (for example, NL91 ABNA 0417 1643 00). When someone asks for your 'bank details' in the Netherlands, you give your IBAN. There is no equivalent of a British sort code."
-  - q: "Can I receive my salary in a Wise account in the Netherlands?"
-    a: "Yes, for most employers. Wise gives you a European IBAN (beginning with BE for the Belgian IBAN they currently issue), and Dutch employers are generally required to accept any valid EU IBAN for salary payments. A small number of employers — particularly in the public sector or older payroll systems — may insist on a Dutch NL IBAN specifically. If you are unsure, check with HR before your first pay date. If they require an NL IBAN, you will need to open a bunq or traditional bank account."
-  - q: "Are Dutch savings account interest payments taxable?"
-    a: "In the Netherlands, savings interest is not taxed directly as income. Instead, it falls under Box 3 (sparen en beleggen — savings and investments) in your annual tax return. The Dutch tax authority applies a deemed return on your total savings and investment assets above a threshold (approximately €57,000 for individuals in 2026), and you pay 36% tax on that deemed return — not on the actual interest received. In practice, if your total savings are modest, you may owe nothing. Consult a Dutch tax advisor (belastingadviseur) if you hold significant savings."
+- q: Can I open a Dutch bank account before arriving in the Netherlands?
+  a: Yes. Wise lets you create a multi-currency account with a European IBAN from anywhere in the world — no BSN or Dutch address required. Bunq also allows remote sign-up for EU citizens. Traditional banks like ING and ABN AMRO require you to be physically present in the Netherlands with a BSN.
+- q: How long does it take to open a bank account in the Netherlands?
+  a: 'Digital banks: Wise takes 10-30 minutes, Bunq takes 5-15 minutes, N26 takes about 10 minutes. Traditional banks: ING takes 5-10 business days after online application, ABN AMRO takes 3-7 business days. Having your BSN, valid passport, and proof of address ready speeds up the process.'
+- q: Do I need a BSN to open a Dutch bank account?
+  a: Traditional banks (ING, ABN AMRO, Rabobank) require a BSN. However, Wise does not require a BSN — you can get a European IBAN immediately. Bunq may allow you to start without a BSN for EU citizens. This is why many expats open a Wise account first and add a traditional bank later.
+- q: What documents do I need to open a bank account?
+  a: 'For traditional banks: valid passport or EU ID card, BSN number, proof of Dutch address (registration from gemeente), and sometimes proof of income or employment contract. For digital banks like Wise: valid passport or ID card and a selfie for verification. No BSN or Dutch address needed.'
+- q: Can I receive my salary without a Dutch bank account?
+  a: Most Dutch employers require a bank account with a Dutch or European IBAN for salary payments. A Wise account with a European IBAN satisfies this requirement for most employers. Some employers specifically require a traditional Dutch bank account (NL IBAN), but this is increasingly rare.
+- q: Can I open a Dutch bank account without a BSN?
+  a: 'Yes — but not with a traditional bank. ING, ABN AMRO, and Rabobank all require a BSN. Wise is the most reliable pre-BSN option: it gives you a European IBAN within 30 minutes and no BSN is needed. Bunq and Revolut also work without a BSN for most nationalities. Many expats use Wise as their primary account for the first weeks and add a traditional bank once their BSN arrives.'
+- q: Can I open a Dutch bank account from abroad before moving?
+  a: Yes. Wise is the most practical option — you can open a full multi-currency account from anywhere in the world, before you have a Dutch address or BSN. The process takes under 30 minutes and gives you a European IBAN you can share with your Dutch employer and landlord before you land. Bunq also allows EU citizens to sign up remotely. Traditional Dutch banks require in-person verification in the Netherlands.
+- q: Do Dutch bank accounts have sort codes?
+  a: No. The Netherlands uses IBAN (International Bank Account Number) and BIC/SWIFT codes rather than sort codes. Dutch IBANs start with 'NL' followed by two check digits and then the bank code and account number (for example, NL91 ABNA 0417 1643 00). When someone asks for your 'bank details' in the Netherlands, you give your IBAN. There is no equivalent of a British sort code.
+- q: Can I receive my salary in a Wise account in the Netherlands?
+  a: Yes, for most employers. Wise gives you a European IBAN (beginning with BE for the Belgian IBAN they currently issue), and Dutch employers are generally required to accept any valid EU IBAN for salary payments. A small number of employers — particularly in the public sector or older payroll systems — may insist on a Dutch NL IBAN specifically. If you are unsure, check with HR before your first pay date. If they require an NL IBAN, you will need to open a bunq or traditional bank account.
+- q: Are Dutch savings account interest payments taxable?
+  a: In the Netherlands, savings interest is not taxed directly as income. Instead, it falls under Box 3 (sparen en beleggen — savings and investments) in your annual tax return. The Dutch tax authority applies a deemed return on your total savings and investment assets above a threshold (approximately €57,000 for individuals in 2026), and you pay 36% tax on that deemed return — not on the actual interest received. In practice, if your total savings are modest, you may owe nothing. Consult a Dutch tax advisor (belastingadviseur) if you hold significant savings.
+schema_type: Article
 ---
 
 When I arrived in the Netherlands, I had exactly one financial problem I hadn't anticipated: iDEAL.

@@ -1,42 +1,49 @@
 ---
-title: "Funda vs Pararius 2026: Best for Expat Housing?"
-date: 2026-03-16T10:00:00+01:00
-lastmod: 2026-04-23T10:00:00+01:00
-description: "Funda or Pararius — which platform works for expats hunting rentals in the Netherlands? Honest comparison of listings, English support, and scam risk."
-categories: ["housing"]
-tags: ["Funda", "Pararius", "housing", "rental", "expat housing"]
+title: 'Funda vs Pararius 2026: Best for Expat Housing?'
+date: 2026-03-16 10:00:00+01:00
+lastmod: 2026-04-23 10:00:00+01:00
+description: Funda or Pararius — which platform works for expats hunting rentals in the Netherlands? Honest comparison of listings, English support, and scam risk.
+categories:
+- housing
+tags:
+- Funda
+- Pararius
+- housing
+- rental
+- expat housing
 keywords:
-  - "funda vs pararius expats netherlands"
-  - "best housing website netherlands expats"
-  - "pararius english rental netherlands"
-  - "funda english listings netherlands"
-  - "where to find rental apartment netherlands expat"
-  - "netherlands rental platforms 2026"
-  - "housing search expat amsterdam rotterdam"
-  - "pararius rental fees netherlands"
+- funda vs pararius expats netherlands
+- best housing website netherlands expats
+- pararius english rental netherlands
+- funda english listings netherlands
+- where to find rental apartment netherlands expat
+- netherlands rental platforms 2026
+- housing search expat amsterdam rotterdam
+- pararius rental fees netherlands
 affiliate: false
-author: "Sarah van den Berg"
-author_bio: "Expat coach and relocation specialist. Half Dutch, half British, living in the Netherlands for over 10 years."
-featured_image: "/images/featured/funda-vs-pararius-housing-2026.webp"
+author: Sarah van den Berg
+author_bio: Expat coach and relocation specialist. Half Dutch, half British, living in the Netherlands for over 10 years.
+featured_image: /images/featured/funda-vs-pararius-housing-2026.webp
 faq:
-  - q: "Is Funda available in English?"
-    a: "Funda has a partial English translation, but the quality is inconsistent. Many listing descriptions, agent communications, and legal documents remain in Dutch. You can browse and filter in English, but you'll often hit Dutch text as soon as you contact a landlord or agent. Pararius, by contrast, has full English-language listings and support, making it significantly more accessible for non-Dutch speakers."
-  - q: "Does Pararius charge renters a fee?"
-    a: "Pararius itself is free to use for renters — you can search, view listings, and contact landlords without paying anything to the platform. However, some letting agents who list on Pararius charge a separate agency fee (bemiddelingskosten). Since a 2023 law change, landlords and agents in the Netherlands can no longer charge renters a finder's fee for standard rentals, so if anyone asks you to pay a fee just to view a property or submit an application, that is a red flag."
-  - q: "Can I find both rentals and properties to buy on Funda?"
-    a: "Yes, Funda covers both the rental (huur) and purchase (koop) markets. It is by far the dominant platform for buying property in the Netherlands, and it also has a substantial rental section. If you are an expat considering buying rather than renting, Funda is the first place to look. For guidance on mortgages as a foreigner, see our guide to expat mortgage options in the Netherlands."
-  - q: "Which platform is better for finding a room or shared housing?"
-    a: "Neither Funda nor Pararius focuses primarily on room rentals or shared housing. For rooms and house-shares, Kamernet and HousingAnywhere are more suitable. Funda and Pararius are both geared towards self-contained apartments and houses. If you are a student or looking for a room in a shared flat, start with Kamernet or HousingAnywhere instead, and use Pararius once you are ready for your own place."
+- q: Is Funda available in English?
+  a: Funda has a partial English translation, but the quality is inconsistent. Many listing descriptions, agent communications, and legal documents remain in Dutch. You can browse and filter in English, but you'll often hit Dutch text as soon as you contact a landlord or agent. Pararius, by contrast, has full English-language listings and support, making it significantly more accessible for non-Dutch speakers.
+- q: Does Pararius charge renters a fee?
+  a: Pararius itself is free to use for renters — you can search, view listings, and contact landlords without paying anything to the platform. However, some letting agents who list on Pararius charge a separate agency fee (bemiddelingskosten). Since a 2023 law change, landlords and agents in the Netherlands can no longer charge renters a finder's fee for standard rentals, so if anyone asks you to pay a fee just to view a property or submit an application, that is a red flag.
+- q: Can I find both rentals and properties to buy on Funda?
+  a: Yes, Funda covers both the rental (huur) and purchase (koop) markets. It is by far the dominant platform for buying property in the Netherlands, and it also has a substantial rental section. If you are an expat considering buying rather than renting, Funda is the first place to look. For guidance on mortgages as a foreigner, see our guide to expat mortgage options in the Netherlands.
+- q: Which platform is better for finding a room or shared housing?
+  a: Neither Funda nor Pararius focuses primarily on room rentals or shared housing. For rooms and house-shares, Kamernet and HousingAnywhere are more suitable. Funda and Pararius are both geared towards self-contained apartments and houses. If you are a student or looking for a room in a shared flat, start with Kamernet or HousingAnywhere instead, and use Pararius once you are ready for your own place.
 products:
-  - name: "HousingAnywhere"
-    url: "https://housinganywhere.com/"
-    price: "0.00"
-  - name: "Pararius"
-    url: "https://www.pararius.com/"
-    price: "0.00"
-  - name: "Funda"
-    url: "https://www.funda.nl/"
-    price: "0.00"
+- name: HousingAnywhere
+  url: https://housinganywhere.com/
+  price: '0.00'
+- name: Pararius
+  url: https://www.pararius.com/
+  price: '0.00'
+- name: Funda
+  url: https://www.funda.nl/
+  price: '0.00'
+schema_type: Article
 ---
 
 When I first moved to Amsterdam, I had absolutely no idea where to start looking for a flat. A Dutch colleague pointed me to Funda. I spent two weeks on it, sent off a dozen enquiries, and heard back from precisely nobody. Not because the listings were bad — there were plenty of them — but because I was an English speaker in a very Dutch system, competing against locals who already knew the rules.

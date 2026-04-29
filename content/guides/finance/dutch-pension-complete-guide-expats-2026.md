@@ -1,37 +1,48 @@
 ---
-title: "Dutch Pension for Expats 2026: AOW, Transfers & More"
-date: 2026-03-26T10:00:00+01:00
-lastmod: 2026-04-23T10:00:00+01:00
-description: "Complete guide to the Dutch pension system for expats. AOW state pension, occupational pensions, how much you build up, and what happens when you leave."
-categories: ["finance"]
-tags: ["pension", "AOW", "retirement", "expat pension", "pension transfer"]
-keywords: ["Dutch pension expats", "AOW pension Netherlands", "pension transfer Netherlands", "Dutch pension abroad"]
+title: 'Dutch Pension for Expats 2026: AOW, Transfers & More'
+date: 2026-03-26 10:00:00+01:00
+lastmod: 2026-04-23 10:00:00+01:00
+description: Complete guide to the Dutch pension system for expats. AOW state pension, occupational pensions, how much you build up, and what happens when you leave.
+categories:
+- finance
+tags:
+- pension
+- AOW
+- retirement
+- expat pension
+- pension transfer
+keywords:
+- Dutch pension expats
+- AOW pension Netherlands
+- pension transfer Netherlands
+- Dutch pension abroad
 affiliate: true
-author: "Sarah van den Berg"
-author_bio: "Expat coach and writer at ExpatNetherlandsHub.com"
-featured_image: "/images/categories/finance.svg"
+author: Sarah van den Berg
+author_bio: Expat coach and writer at ExpatNetherlandsHub.com
+featured_image: /images/categories/finance.svg
 products:
-  - name: "Wise"
-    url: "https://go.expatnetherlandshub.com/wise?ref=/guides/finance/dutch-pension-complete-guide-expats-2026/"
-    price: "0.00"
-    tag: "Currency Transfer"
+- name: Wise
+  url: https://go.expatnetherlandshub.com/wise?ref=/guides/finance/dutch-pension-complete-guide-expats-2026/
+  price: '0.00'
+  tag: Currency Transfer
 faq:
-  - q: "Do I get a Dutch pension if I leave the Netherlands?"
-    a: "Yes. Your AOW accrual is permanent — you keep 2% for every year you lived or worked in the Netherlands between age 15 and 67. Your employer pension stays with the Dutch pension fund and is paid worldwide at retirement age. Neither pension is lost when you leave."
-  - q: "How much AOW do I build up per year?"
-    a: "You build up 2% of the full AOW for each year of residence or work in the Netherlands. After 50 years (age 17 to 67), you reach 100%. The full AOW in 2026 is approximately €1,400/month gross for singles and €960/month each for couples."
-  - q: "Can I transfer my Dutch pension to the UK after Brexit?"
-    a: "UK transfers are very difficult post-Brexit. Before 2021, EU value transfer rules applied. Now, transfers to UK pension schemes require the receiving scheme to meet Dutch Belastingdienst requirements — most UK pension funds do not qualify. In practice, most expats with UK ties leave their Dutch pension with the Dutch fund and receive it at retirement age."
-  - q: "Is mijnpensioenoverzicht.nl available in English?"
-    a: "The site is primarily in Dutch, but the basic overview page is reasonably usable with a browser translation tool. You will need a DigiD to log in. Once logged in, your pension overview shows total accrued amount from all Dutch pension funds in one place. For a full English-language explanation, your pension fund's member services team can help."
-  - q: "Will my Dutch pension be taxed if I live abroad?"
-    a: "It depends on the tax treaty between the Netherlands and your country of residence. For AOW, the Netherlands retains the right to tax under several treaties (including Germany, Belgium, and the US). For occupational pensions, most treaties assign the taxing right to your country of residence. Always check the specific treaty with a tax advisor."
-  - q: "Can I get a small pension refunded as a lump sum?"
-    a: "Yes. If your employer pension entitlement is below approximately €600 per year (the abfindungsgrens), the pension fund can pay it out as a lump sum when you leave employment or deregister from the Netherlands. This is taxed as income in the year you receive it. Small AOW amounts cannot be paid as a lump sum — they are always paid monthly."
-  - q: "How much does voluntary AOW continuation cost?"
-    a: "The premium for vrijwillige verzekering (voluntary AOW continuation) is based on your income and calculated annually by the SVB. For 2026, the premium percentage is set at the same rate as the standard AOW contribution (17.9% of pensionable income). There is a minimum and maximum premium. The SVB provides a personal calculation when you apply. You must apply within 1 year of leaving the Netherlands."
-  - q: "Does the 30% ruling affect my pension accrual?"
-    a: "Potentially yes. If your employer calculates your pension contribution on your reduced taxable salary (after the 30% ruling exclusion), your pensionable salary is lower, which means lower accrual. Some employers use your full gross salary as the pension base regardless — ask your HR department to confirm which applies to you. Either way, record your pension fund details before the 30% ruling period ends."
+- q: Do I get a Dutch pension if I leave the Netherlands?
+  a: Yes. Your AOW accrual is permanent — you keep 2% for every year you lived or worked in the Netherlands between age 15 and 67. Your employer pension stays with the Dutch pension fund and is paid worldwide at retirement age. Neither pension is lost when you leave.
+- q: How much AOW do I build up per year?
+  a: You build up 2% of the full AOW for each year of residence or work in the Netherlands. After 50 years (age 17 to 67), you reach 100%. The full AOW in 2026 is approximately €1,400/month gross for singles and €960/month each for couples.
+- q: Can I transfer my Dutch pension to the UK after Brexit?
+  a: UK transfers are very difficult post-Brexit. Before 2021, EU value transfer rules applied. Now, transfers to UK pension schemes require the receiving scheme to meet Dutch Belastingdienst requirements — most UK pension funds do not qualify. In practice, most expats with UK ties leave their Dutch pension with the Dutch fund and receive it at retirement age.
+- q: Is mijnpensioenoverzicht.nl available in English?
+  a: The site is primarily in Dutch, but the basic overview page is reasonably usable with a browser translation tool. You will need a DigiD to log in. Once logged in, your pension overview shows total accrued amount from all Dutch pension funds in one place. For a full English-language explanation, your pension fund's member services team can help.
+- q: Will my Dutch pension be taxed if I live abroad?
+  a: It depends on the tax treaty between the Netherlands and your country of residence. For AOW, the Netherlands retains the right to tax under several treaties (including Germany, Belgium, and the US). For occupational pensions, most treaties assign the taxing right to your country of residence. Always check the specific treaty with a tax advisor.
+- q: Can I get a small pension refunded as a lump sum?
+  a: Yes. If your employer pension entitlement is below approximately €600 per year (the abfindungsgrens), the pension fund can pay it out as a lump sum when you leave employment or deregister from the Netherlands. This is taxed as income in the year you receive it. Small AOW amounts cannot be paid as a lump sum — they are always paid monthly.
+- q: How much does voluntary AOW continuation cost?
+  a: The premium for vrijwillige verzekering (voluntary AOW continuation) is based on your income and calculated annually by the SVB. For 2026, the premium percentage is set at the same rate as the standard AOW contribution (17.9% of pensionable income). There is a minimum and maximum premium. The SVB provides a personal calculation when you apply. You must apply within 1 year of leaving the Netherlands.
+- q: Does the 30% ruling affect my pension accrual?
+  a: Potentially yes. If your employer calculates your pension contribution on your reduced taxable salary (after the 30% ruling exclusion), your pensionable salary is lower, which means lower accrual. Some employers use your full gross salary as the pension base regardless — ask your HR department to confirm which applies to you. Either way, record your pension fund details before the 30% ruling period ends.
+schema_type: Article
 ---
 
 The Dutch pension system is one of the best in the world — ranked #2 globally — but it confuses almost every expat I talk to. And honestly, that is understandable. Most expats arrive with no idea that they are already building a state pension from day one, that their employer is quietly paying into a pension fund on their behalf, and that there are real decisions to make if they ever leave the Netherlands.

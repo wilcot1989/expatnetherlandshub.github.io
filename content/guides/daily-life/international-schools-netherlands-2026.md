@@ -1,32 +1,43 @@
 ---
-title: "International Schools in the Netherlands 2026: Full Guide"
-date: 2026-04-06T10:00:00+01:00
-lastmod: 2026-04-23T10:00:00+01:00
-description: "Complete guide to international schools in the Netherlands for expat families. Costs, top schools by city, curriculum types, and enrollment tips for 2026."
-categories: ["daily-life"]
-tags: ["international schools", "education", "expat children", "Netherlands", "IB curriculum"]
-keywords: ["international schools Netherlands", "expat schools Holland", "IB schools Netherlands", "British school Netherlands"]
+title: 'International Schools in the Netherlands 2026: Full Guide'
+date: 2026-04-06 10:00:00+01:00
+lastmod: 2026-04-23 10:00:00+01:00
+description: Complete guide to international schools in the Netherlands for expat families. Costs, top schools by city, curriculum types, and enrollment tips for 2026.
+categories:
+- daily-life
+tags:
+- international schools
+- education
+- expat children
+- Netherlands
+- IB curriculum
+keywords:
+- international schools Netherlands
+- expat schools Holland
+- IB schools Netherlands
+- British school Netherlands
 affiliate: true
 products:
-  - name: "KPN"
-    url: "https://www.kpn.com/"
-    price: "0.00"
-author: "Sarah van den Berg"
-author_bio: "Expat coach and relocation specialist. Half Dutch, half British, living in the Netherlands for over 10 years."
-featured_image: "/images/featured/international-schools-netherlands-2026.webp"
+- name: KPN
+  url: https://www.kpn.com/
+  price: '0.00'
+author: Sarah van den Berg
+author_bio: Expat coach and relocation specialist. Half Dutch, half British, living in the Netherlands for over 10 years.
+featured_image: /images/featured/international-schools-netherlands-2026.webp
 faq:
-  - q: "How much do international schools cost in the Netherlands?"
-    a: "Annual tuition fees range from €5,500 to €24,000 depending on the school and age group. Primary school fees are typically €5,500-€15,000 per year, while secondary and IB Diploma fees range from €12,000-€24,000. Additional costs include registration fees (€500-€3,000), school trips, uniforms, and lunch programs."
-  - q: "Are international schools in the Netherlands subsidized?"
-    a: "Some international schools receive partial Dutch government funding if they offer a bilingual Dutch-English program or are part of a regular Dutch school. Fully private international schools do not receive government subsidies. However, many employers contribute to school fees as part of expat relocation packages."
-  - q: "What curriculum do international schools in the Netherlands follow?"
-    a: "Most international schools offer the International Baccalaureate (IB) program. Some offer British A-levels, American AP curriculum, or French Baccalaureate. Many schools offer the IB Primary Years Programme, Middle Years Programme, and Diploma Programme for a continuous international education path."
-  - q: "When should I apply to an international school in the Netherlands?"
-    a: "Apply as early as possible, ideally 6-12 months before the desired start date. Popular schools in Amsterdam and The Hague have waiting lists of 1-2 years for certain age groups. Some schools accept rolling admissions, but September intake applications typically close in January-March."
-  - q: "Can my child switch from an international school to a Dutch school?"
-    a: "Yes, but the transition is easier at younger ages. Children under 8 typically adapt within 6-12 months. The main challenge is Dutch language proficiency. Many municipalities offer schakelklassen (transition classes) to help children learn Dutch before entering regular Dutch education."
-  - q: "Do international schools teach Dutch?"
-    a: "Most international schools offer Dutch as a second language, typically 2-4 hours per week. Some schools with government funding offer more intensive Dutch instruction. This helps children integrate locally while maintaining their international education."
+- q: How much do international schools cost in the Netherlands?
+  a: Annual tuition fees range from €5,500 to €24,000 depending on the school and age group. Primary school fees are typically €5,500-€15,000 per year, while secondary and IB Diploma fees range from €12,000-€24,000. Additional costs include registration fees (€500-€3,000), school trips, uniforms, and lunch programs.
+- q: Are international schools in the Netherlands subsidized?
+  a: Some international schools receive partial Dutch government funding if they offer a bilingual Dutch-English program or are part of a regular Dutch school. Fully private international schools do not receive government subsidies. However, many employers contribute to school fees as part of expat relocation packages.
+- q: What curriculum do international schools in the Netherlands follow?
+  a: Most international schools offer the International Baccalaureate (IB) program. Some offer British A-levels, American AP curriculum, or French Baccalaureate. Many schools offer the IB Primary Years Programme, Middle Years Programme, and Diploma Programme for a continuous international education path.
+- q: When should I apply to an international school in the Netherlands?
+  a: Apply as early as possible, ideally 6-12 months before the desired start date. Popular schools in Amsterdam and The Hague have waiting lists of 1-2 years for certain age groups. Some schools accept rolling admissions, but September intake applications typically close in January-March.
+- q: Can my child switch from an international school to a Dutch school?
+  a: Yes, but the transition is easier at younger ages. Children under 8 typically adapt within 6-12 months. The main challenge is Dutch language proficiency. Many municipalities offer schakelklassen (transition classes) to help children learn Dutch before entering regular Dutch education.
+- q: Do international schools teach Dutch?
+  a: Most international schools offer Dutch as a second language, typically 2-4 hours per week. Some schools with government funding offer more intensive Dutch instruction. This helps children integrate locally while maintaining their international education.
+schema_type: Article
 ---
 
 Choosing a school is the decision that keeps my expat parent clients up at night more than anything else -- even more than housing. I get it. IB or British curriculum? Is it worth paying twenty thousand euros a year? Will my child be okay switching mid-year? Having gone through international schooling myself as a half-British, half-Dutch kid, and now advising families on this decision regularly, I know how much it matters. Here is my guide to help you make the right call.

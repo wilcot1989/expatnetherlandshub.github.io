@@ -1,41 +1,55 @@
 ---
-title: "Dutch Pharmacy Guide: Apotheek for Expats 2026"
-date: 2026-03-18T10:00:00+01:00
-lastmod: 2026-04-23T10:00:00+01:00
-type: "guide"
-description: "How Dutch pharmacies work for expats: prescriptions, OTC rules, repeat prescriptions, online pharmacies, and medication coverage under Dutch insurance."
-categories: ["health"]
-tags: ["apotheek", "dutch pharmacy", "recept", "medication netherlands", "health expat", "herhaalrecept"]
-keywords: ["dutch pharmacy expats", "apotheek netherlands", "prescription netherlands expat", "recept netherlands", "OTC medication netherlands", "pharmacy netherlands english"]
+title: 'Dutch Pharmacy Guide: Apotheek for Expats 2026'
+date: 2026-03-18 10:00:00+01:00
+lastmod: 2026-04-23 10:00:00+01:00
+type: guide
+description: 'How Dutch pharmacies work for expats: prescriptions, OTC rules, repeat prescriptions, online pharmacies, and medication coverage under Dutch insurance.'
+categories:
+- health
+tags:
+- apotheek
+- dutch pharmacy
+- recept
+- medication netherlands
+- health expat
+- herhaalrecept
+keywords:
+- dutch pharmacy expats
+- apotheek netherlands
+- prescription netherlands expat
+- recept netherlands
+- OTC medication netherlands
+- pharmacy netherlands english
 affiliate: true
 products:
-  - name: "SafetyWing"
-    url: "https://go.expatnetherlandshub.com/safetywing?ref=/guides/health/pharmacy-apotheek-guide-netherlands-expats-2026/"
-    price: "45.08"
-  - name: "CZ"
-    url: "https://www.cz.nl/"
-    price: "0.00"
-  - name: "Zilveren Kruis"
-    url: "https://www.zilverenkruis.nl/"
-    price: "0.00"
-author: "Sarah van den Berg"
-author_bio: "Expat coach and relocation specialist. Half Dutch, half British, living in the Netherlands for over 10 years."
-featured_image: "/images/categories/health.svg"
+- name: SafetyWing
+  url: https://go.expatnetherlandshub.com/safetywing?ref=/guides/health/pharmacy-apotheek-guide-netherlands-expats-2026/
+  price: '45.08'
+- name: CZ
+  url: https://www.cz.nl/
+  price: '0.00'
+- name: Zilveren Kruis
+  url: https://www.zilverenkruis.nl/
+  price: '0.00'
+author: Sarah van den Berg
+author_bio: Expat coach and relocation specialist. Half Dutch, half British, living in the Netherlands for over 10 years.
+featured_image: /images/categories/health.svg
 faq:
-  - q: "Do I need a prescription to buy painkillers in the Netherlands?"
-    a: "It depends on the strength. Basic paracetamol (500mg) and ibuprofen (200mg, 400mg) are available over the counter at pharmacies (apotheek) and drugstores (drogisterij) like Kruidvat and Etos. However, codeine-based painkillers, stronger opioids, and anything above standard OTC dosages require a prescription in the Netherlands. This surprises many expats — codeine combinations available without prescription in the UK, Ireland, or Australia are prescription-only here."
-  - q: "How do I get a prescription (recept) in the Netherlands?"
-    a: "You need to be registered with a GP (huisarts). Your GP issues prescriptions either during a consultation or — for ongoing medication — as a repeat prescription (herhaalrecept) that you request online or by phone through your huisarts practice. The prescription is typically sent electronically to your chosen pharmacy. Walk-in prescriptions without a registered GP are not routinely possible in the Netherlands, which is why registering with a huisarts is the critical first step."
-  - q: "What is a herhaalrecept (repeat prescription)?"
-    a: "A herhaalrecept is a repeat prescription for chronic or ongoing medication that your GP has already assessed and approved. Once you are on a stable medication, you can typically request your repeat prescription online through your GP practice's patient portal, by phone, or via the apotheek's own ordering system if they have direct communication with your GP. You usually do not need a full appointment for repeat prescriptions — you request, it is reviewed, and the apotheek dispenses. Allow 1–3 working days."
-  - q: "What is a dienstapotheek?"
-    a: "A dienstapotheek is a duty pharmacy that operates outside normal business hours — evenings, nights, weekends, and public holidays. Every region in the Netherlands has a rotating duty pharmacy schedule. When you need medication urgently outside normal hours, your GP's out-of-hours service (huisartsenpost) or the 112/1813 system will direct you to the current duty pharmacy for your area. The duty apotheek details are typically on your regular pharmacy's door and on the local municipality website."
-  - q: "Can I bring my medication from abroad when moving to the Netherlands?"
-    a: "Yes, for personal use. EU regulations allow you to bring a 3-month supply of medication for personal use when moving or travelling within the EU. For non-Schengen travel, bring a letter from your doctor (ideally in English and Dutch) listing your medication, dosage, and the medical reason. Controlled substances (opioids, certain benzodiazepines) have stricter rules and may require an official EU certificate. Check the Dutch Customs (Douane) website or your apotheek for specific rules before travelling."
-  - q: "Does Dutch health insurance cover my medication?"
-    a: "Basic Dutch health insurance (basisverzekering) covers prescription medication on the approved list (Geneesmiddelenvergoedingssysteem, or GVS). Generic medications are typically covered; some branded medications may require a co-payment if a generic equivalent exists. Medication is subject to the eigen risico (€385 annual deductible in 2026). OTC medications are not covered by basic insurance. Some supplementary insurance plans (aanvullende verzekering) provide additional medication coverage."
-  - q: "What is the difference between an apotheek and a drogisterij?"
-    a: "An apotheek (pharmacy) is staffed by pharmacists and pharmacy assistants, dispenses prescription medication, stores your medication history, and can advise on drug interactions and dosages. A drogisterij — Kruidvat, Etos, DA — is a drugstore that sells OTC medications, health and beauty products, and some supplements, but cannot dispense prescriptions. For minor ailments like headaches, hay fever, or athlete's foot, the drogisterij is quick and convenient. For anything requiring professional advice or a prescription, go to your apotheek."
+- q: Do I need a prescription to buy painkillers in the Netherlands?
+  a: It depends on the strength. Basic paracetamol (500mg) and ibuprofen (200mg, 400mg) are available over the counter at pharmacies (apotheek) and drugstores (drogisterij) like Kruidvat and Etos. However, codeine-based painkillers, stronger opioids, and anything above standard OTC dosages require a prescription in the Netherlands. This surprises many expats — codeine combinations available without prescription in the UK, Ireland, or Australia are prescription-only here.
+- q: How do I get a prescription (recept) in the Netherlands?
+  a: You need to be registered with a GP (huisarts). Your GP issues prescriptions either during a consultation or — for ongoing medication — as a repeat prescription (herhaalrecept) that you request online or by phone through your huisarts practice. The prescription is typically sent electronically to your chosen pharmacy. Walk-in prescriptions without a registered GP are not routinely possible in the Netherlands, which is why registering with a huisarts is the critical first step.
+- q: What is a herhaalrecept (repeat prescription)?
+  a: A herhaalrecept is a repeat prescription for chronic or ongoing medication that your GP has already assessed and approved. Once you are on a stable medication, you can typically request your repeat prescription online through your GP practice's patient portal, by phone, or via the apotheek's own ordering system if they have direct communication with your GP. You usually do not need a full appointment for repeat prescriptions — you request, it is reviewed, and the apotheek dispenses. Allow 1–3 working days.
+- q: What is a dienstapotheek?
+  a: A dienstapotheek is a duty pharmacy that operates outside normal business hours — evenings, nights, weekends, and public holidays. Every region in the Netherlands has a rotating duty pharmacy schedule. When you need medication urgently outside normal hours, your GP's out-of-hours service (huisartsenpost) or the 112/1813 system will direct you to the current duty pharmacy for your area. The duty apotheek details are typically on your regular pharmacy's door and on the local municipality website.
+- q: Can I bring my medication from abroad when moving to the Netherlands?
+  a: Yes, for personal use. EU regulations allow you to bring a 3-month supply of medication for personal use when moving or travelling within the EU. For non-Schengen travel, bring a letter from your doctor (ideally in English and Dutch) listing your medication, dosage, and the medical reason. Controlled substances (opioids, certain benzodiazepines) have stricter rules and may require an official EU certificate. Check the Dutch Customs (Douane) website or your apotheek for specific rules before travelling.
+- q: Does Dutch health insurance cover my medication?
+  a: Basic Dutch health insurance (basisverzekering) covers prescription medication on the approved list (Geneesmiddelenvergoedingssysteem, or GVS). Generic medications are typically covered; some branded medications may require a co-payment if a generic equivalent exists. Medication is subject to the eigen risico (€385 annual deductible in 2026). OTC medications are not covered by basic insurance. Some supplementary insurance plans (aanvullende verzekering) provide additional medication coverage.
+- q: What is the difference between an apotheek and a drogisterij?
+  a: An apotheek (pharmacy) is staffed by pharmacists and pharmacy assistants, dispenses prescription medication, stores your medication history, and can advise on drug interactions and dosages. A drogisterij — Kruidvat, Etos, DA — is a drugstore that sells OTC medications, health and beauty products, and some supplements, but cannot dispense prescriptions. For minor ailments like headaches, hay fever, or athlete's foot, the drogisterij is quick and convenient. For anything requiring professional advice or a prescription, go to your apotheek.
+schema_type: Article
 ---
 
 I spent my first Dutch winter buying progressively stronger paracetamol combinations at Kruidvat, confused about why nothing seemed to touch a persistent back problem. It was only when I finally went to my huisarts and was directed to my apotheek with a proper prescription that I understood: the Dutch pharmacy system is fundamentally different from what most expats are used to. The rules about what requires a prescription, how you access repeat medication, and what your insurance actually covers are specific to the Netherlands and not always intuitive. After navigating the system for a decade and helping hundreds of expat clients through the same confusion, here is everything you need to know.

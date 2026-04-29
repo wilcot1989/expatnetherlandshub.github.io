@@ -1,38 +1,50 @@
 ---
-title: "Best Dutch Apps Every Expat Needs (2026)"
-date: 2026-06-18T10:00:00+01:00
-lastmod: 2026-04-23T10:00:00+01:00
-description: "Must-have Dutch apps for expats 2026: Tikkie, Buienradar, 9292, NS, DigiD, Funda, iDEAL and more — what each does and whether it's free."
-categories: ["daily-life"]
-tags: ["apps", "Dutch apps", "Tikkie", "Buienradar", "9292"]
-keywords: ["best dutch apps expats", "dutch apps 2026", "tikkie app expat", "buienradar app", "9292 ns app netherlands"]
+title: Best Dutch Apps Every Expat Needs (2026)
+date: 2026-06-18 10:00:00+01:00
+lastmod: 2026-04-23 10:00:00+01:00
+description: 'Must-have Dutch apps for expats 2026: Tikkie, Buienradar, 9292, NS, DigiD, Funda, iDEAL and more — what each does and whether it''s free.'
+categories:
+- daily-life
+tags:
+- apps
+- Dutch apps
+- Tikkie
+- Buienradar
+- '9292'
+keywords:
+- best dutch apps expats
+- dutch apps 2026
+- tikkie app expat
+- buienradar app
+- 9292 ns app netherlands
 affiliate: true
 products:
-  - name: "NordVPN"
-    url: "https://go.expatnetherlandshub.com/nordvpn?ref=/guides/daily-life/best-dutch-apps-expats-2026/"
-    price: "3.09"
-  - name: "NordPass"
-    url: "https://go.expatnetherlandshub.com/nordvpn?ref=/guides/daily-life/best-dutch-apps-expats-2026/"
-    price: "1.29"
-  - name: "KPN"
-    url: "https://www.kpn.com/"
-    price: "0.00"
-author: "Sarah van den Berg"
-author_bio: "Expat coach and relocation specialist. Half Dutch, half British, living in the Netherlands for over 10 years."
-featured_image: "/images/categories/daily-life.svg"
+- name: NordVPN
+  url: https://go.expatnetherlandshub.com/nordvpn?ref=/guides/daily-life/best-dutch-apps-expats-2026/
+  price: '3.09'
+- name: NordPass
+  url: https://go.expatnetherlandshub.com/nordvpn?ref=/guides/daily-life/best-dutch-apps-expats-2026/
+  price: '1.29'
+- name: KPN
+  url: https://www.kpn.com/
+  price: '0.00'
+author: Sarah van den Berg
+author_bio: Expat coach and relocation specialist. Half Dutch, half British, living in the Netherlands for over 10 years.
+featured_image: /images/categories/daily-life.svg
 faq:
-  - q: "What is the most important Dutch app for a new expat?"
-    a: "DigiD is the one you cannot do without. It is the Dutch digital identity system and unlocks almost every government interaction — tax portal, healthcare portal, municipality services, and benefit applications. Getting your DigiD set up in your first weeks makes everything else considerably faster. After DigiD, the 9292 public transport planner and Buienradar (rain forecasting) are the ones you will actually open every day. Tikkie comes third — the Dutch splitting-bills app that everyone uses and that you will be sent within your first social encounter."
-  - q: "Is Tikkie available in English?"
-    a: "Tikkie has an English interface option, which helps. However, you need a Dutch bank account to send and receive Tikkie payment requests. The app is linked to ABN AMRO's infrastructure but works across all Dutch banks — ING, Rabobank, Bunq, and others. Set it up as soon as you have a Dutch bank account. You will receive your first Tikkie within days of meeting Dutch people socially."
-  - q: "Do I need a Dutch phone number to use Dutch apps?"
-    a: "Several important apps, including DigiD and Tikkie, require SMS verification to a Dutch or at least European number. DigiD specifically uses SMS as part of its two-factor authentication. It is worth getting a Dutch SIM card early — not just for calls and data, but because it unlocks the full functionality of several government apps. See the best SIM card guide for expats for current options."
-  - q: "Is NordVPN necessary in the Netherlands?"
-    a: "The Netherlands has good digital infrastructure and no general censorship. However, a VPN is useful for specific practical reasons: accessing streaming services from your home country (BBC iPlayer, US Netflix content), maintaining privacy on public Wi-Fi in cafés and coworking spaces, and securing banking and finance apps when on hotel or airport networks. Many expats find it most valuable during the first months when they are still using unfamiliar networks and accessing home-country financial services that may geo-block."
-  - q: "Can I use iDEAL as a foreigner?"
-    a: "Yes, if you have a Dutch bank account. iDEAL is not a separate app — it is the payment method that appears in the checkout process of most Dutch webshops, utilities, and government payment portals. When you pay online in the Netherlands, you will be redirected to iDEAL and then to your own bank's app to confirm. It is the dominant online payment system in the Netherlands and works out-of-the-box once you have a Dutch bank account set up."
-  - q: "What apps help with finding housing in the Netherlands?"
-    a: "The three main housing platforms all have apps: Funda (buying and renting), Pararius (rentals, professional market), and Kamernet (rooms and short-term rentals, strong for expats and students). Funda's app has good property alerts and map search. For finding a place quickly, setting up alerts on both Funda and Pararius and responding within minutes of a new listing is the practical strategy — the market moves fast."
+- q: What is the most important Dutch app for a new expat?
+  a: DigiD is the one you cannot do without. It is the Dutch digital identity system and unlocks almost every government interaction — tax portal, healthcare portal, municipality services, and benefit applications. Getting your DigiD set up in your first weeks makes everything else considerably faster. After DigiD, the 9292 public transport planner and Buienradar (rain forecasting) are the ones you will actually open every day. Tikkie comes third — the Dutch splitting-bills app that everyone uses and that you will be sent within your first social encounter.
+- q: Is Tikkie available in English?
+  a: Tikkie has an English interface option, which helps. However, you need a Dutch bank account to send and receive Tikkie payment requests. The app is linked to ABN AMRO's infrastructure but works across all Dutch banks — ING, Rabobank, Bunq, and others. Set it up as soon as you have a Dutch bank account. You will receive your first Tikkie within days of meeting Dutch people socially.
+- q: Do I need a Dutch phone number to use Dutch apps?
+  a: Several important apps, including DigiD and Tikkie, require SMS verification to a Dutch or at least European number. DigiD specifically uses SMS as part of its two-factor authentication. It is worth getting a Dutch SIM card early — not just for calls and data, but because it unlocks the full functionality of several government apps. See the best SIM card guide for expats for current options.
+- q: Is NordVPN necessary in the Netherlands?
+  a: 'The Netherlands has good digital infrastructure and no general censorship. However, a VPN is useful for specific practical reasons: accessing streaming services from your home country (BBC iPlayer, US Netflix content), maintaining privacy on public Wi-Fi in cafés and coworking spaces, and securing banking and finance apps when on hotel or airport networks. Many expats find it most valuable during the first months when they are still using unfamiliar networks and accessing home-country financial services that may geo-block.'
+- q: Can I use iDEAL as a foreigner?
+  a: Yes, if you have a Dutch bank account. iDEAL is not a separate app — it is the payment method that appears in the checkout process of most Dutch webshops, utilities, and government payment portals. When you pay online in the Netherlands, you will be redirected to iDEAL and then to your own bank's app to confirm. It is the dominant online payment system in the Netherlands and works out-of-the-box once you have a Dutch bank account set up.
+- q: What apps help with finding housing in the Netherlands?
+  a: 'The three main housing platforms all have apps: Funda (buying and renting), Pararius (rentals, professional market), and Kamernet (rooms and short-term rentals, strong for expats and students). Funda''s app has good property alerts and map search. For finding a place quickly, setting up alerts on both Funda and Pararius and responding within minutes of a new listing is the practical strategy — the market moves fast.'
+schema_type: Article
 ---
 
 Within my first week of arriving in the Netherlands, long before I became a relocation coach, I was sent a Tikkie for €12.50, pointed to the 9292 app for public transport, and told to check Buienradar before leaving the house. I had no idea what any of these were. By the end of that week, I had all three open daily and had realised that Dutch daily life runs, to a surprising degree, on a specific set of apps that the whole country uses and that no one outside the Netherlands has heard of.

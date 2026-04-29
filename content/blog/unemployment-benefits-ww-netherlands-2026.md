@@ -1,33 +1,46 @@
 ---
-title: "Unemployment Benefits (WW) Netherlands 2026"
-date: 2026-03-22T08:25:00+01:00
-lastmod: 2026-04-23T10:00:00+01:00
-description: "How Dutch unemployment benefits (WW-uitkering) work for expats in 2026: eligibility, how much you get, how long, and how to apply via UWV."
-categories: ["work"]
-tags: ["unemployment benefits", "WW-uitkering", "UWV", "dutch employment", "expat work rights", "social security netherlands"]
-keywords: ["unemployment benefits netherlands expats", "WW uitkering expats", "UWV unemployment claim", "dutch unemployment 2026", "job loss netherlands expat"]
+title: Unemployment Benefits (WW) Netherlands 2026
+date: 2026-03-22 08:25:00+01:00
+lastmod: 2026-04-23 10:00:00+01:00
+description: 'How Dutch unemployment benefits (WW-uitkering) work for expats in 2026: eligibility, how much you get, how long, and how to apply via UWV.'
+categories:
+- work
+tags:
+- unemployment benefits
+- WW-uitkering
+- UWV
+- dutch employment
+- expat work rights
+- social security netherlands
+keywords:
+- unemployment benefits netherlands expats
+- WW uitkering expats
+- UWV unemployment claim
+- dutch unemployment 2026
+- job loss netherlands expat
 affiliate: false
-author: "Sarah van den Berg"
-author_bio: "Expat coach and relocation specialist. Half Dutch, half British, living in the Netherlands for over 10 years."
-featured_image: "/images/featured/unemployment-benefits-ww-netherlands-2026.webp"
+author: Sarah van den Berg
+author_bio: Expat coach and relocation specialist. Half Dutch, half British, living in the Netherlands for over 10 years.
+featured_image: /images/featured/unemployment-benefits-ww-netherlands-2026.webp
 faq:
-  - q: "Am I eligible for unemployment benefits (WW) in the Netherlands as an expat?"
-    a: "Expats who have been legally employed in the Netherlands and have paid social insurance contributions are generally eligible for WW-uitkering (unemployment benefits), provided they meet the weeks-worked requirement. You do not need to be a Dutch citizen or have a permanent residence permit. EU/EEA citizens have the same rights as Dutch nationals. Non-EU citizens with a valid work permit are also covered, provided their permit status allows them to continue working and they register with UWV promptly after losing their job."
-  - q: "How many weeks do I need to have worked to qualify for WW?"
-    a: "The basic requirement is the weeks-eis (weeks requirement): you must have worked at least 26 out of the 36 weeks immediately preceding your unemployment. There is also a years requirement (jaren-eis): for a longer WW period (more than 3 months), you must have worked in at least 4 of the last 5 years, with each year counting if you worked at least 208 hours. Most expats on standard employment contracts meet the weeks requirement from around six months of working in the Netherlands."
-  - q: "How much is the WW benefit in the Netherlands?"
-    a: "WW benefit is calculated as 75% of your average daily wage (dagloon) for the first two months, then 70% thereafter. The daily wage is based on your earnings in the year before you became unemployed. There is a maximum daily wage that can be used in the calculation — in 2026 this is approximately EUR 267/day (around EUR 5,735/month). So the maximum WW benefit is approximately EUR 200/day (75%) for the first two months, dropping to EUR 187/day (70%) after that."
-  - q: "How long can I receive WW benefits in the Netherlands?"
-    a: "The duration of your WW depends on your employment history. The basic duration is 3 months. For every year you worked (above the minimum 4 years required), you earn one additional month of WW, up to a maximum of 24 months. Most people with a full employment history of 10+ years receive WW for up to 24 months. Expats who have worked in the Netherlands for a shorter period typically receive WW for 3-12 months depending on their history."
-  - q: "How do I apply for WW in the Netherlands?"
-    a: "Apply via the UWV website (uwv.nl) as soon as you become unemployed — ideally on the first day of unemployment. You need a DigiD to access the UWV portal. The process involves submitting your employment history, reason for unemployment, and banking details. UWV will verify your eligibility and contact you if they need more information. First payment typically arrives within 4-6 weeks of a successful application. Register as a job seeker at werk.nl simultaneously."
-  - q: "Does receiving WW affect my residence permit?"
-    a: "This depends on your residence permit type. EU/EEA citizens do not need a separate residence permit and WW entitlement is not affected by benefit receipt. For non-EU citizens, the situation is more complex. Most work permits (kennismigrant/highly skilled migrant permits) require you to be employed — if you lose your job, you typically have a period of 3 months (or longer for highly skilled migrants) to find new employment before your permit status may be affected. Contact IND (Immigratie en Naturalisatiedienst) and your immigration lawyer promptly if you lose your job on a work-based permit."
+- q: Am I eligible for unemployment benefits (WW) in the Netherlands as an expat?
+  a: Expats who have been legally employed in the Netherlands and have paid social insurance contributions are generally eligible for WW-uitkering (unemployment benefits), provided they meet the weeks-worked requirement. You do not need to be a Dutch citizen or have a permanent residence permit. EU/EEA citizens have the same rights as Dutch nationals. Non-EU citizens with a valid work permit are also covered, provided their permit status allows them to continue working and they register with UWV promptly after losing their job.
+- q: How many weeks do I need to have worked to qualify for WW?
+  a: 'The basic requirement is the weeks-eis (weeks requirement): you must have worked at least 26 out of the 36 weeks immediately preceding your unemployment. There is also a years requirement (jaren-eis): for a longer WW period (more than 3 months), you must have worked in at least 4 of the last 5 years, with each year counting if you worked at least 208 hours. Most expats on standard employment contracts meet the weeks requirement from around six months of working in the Netherlands.'
+- q: How much is the WW benefit in the Netherlands?
+  a: WW benefit is calculated as 75% of your average daily wage (dagloon) for the first two months, then 70% thereafter. The daily wage is based on your earnings in the year before you became unemployed. There is a maximum daily wage that can be used in the calculation — in 2026 this is approximately EUR 267/day (around EUR 5,735/month). So the maximum WW benefit is approximately EUR 200/day (75%) for the first two months, dropping to EUR 187/day (70%) after that.
+- q: How long can I receive WW benefits in the Netherlands?
+  a: The duration of your WW depends on your employment history. The basic duration is 3 months. For every year you worked (above the minimum 4 years required), you earn one additional month of WW, up to a maximum of 24 months. Most people with a full employment history of 10+ years receive WW for up to 24 months. Expats who have worked in the Netherlands for a shorter period typically receive WW for 3-12 months depending on their history.
+- q: How do I apply for WW in the Netherlands?
+  a: Apply via the UWV website (uwv.nl) as soon as you become unemployed — ideally on the first day of unemployment. You need a DigiD to access the UWV portal. The process involves submitting your employment history, reason for unemployment, and banking details. UWV will verify your eligibility and contact you if they need more information. First payment typically arrives within 4-6 weeks of a successful application. Register as a job seeker at werk.nl simultaneously.
+- q: Does receiving WW affect my residence permit?
+  a: This depends on your residence permit type. EU/EEA citizens do not need a separate residence permit and WW entitlement is not affected by benefit receipt. For non-EU citizens, the situation is more complex. Most work permits (kennismigrant/highly skilled migrant permits) require you to be employed — if you lose your job, you typically have a period of 3 months (or longer for highly skilled migrants) to find new employment before your permit status may be affected. Contact IND (Immigratie en Naturalisatiedienst) and your immigration lawyer promptly if you lose your job on a work-based permit.
 products:
-  - name: "Wise"
-    url: "https://go.expatnetherlandshub.com/wise?ref=/blog/unemployment-benefits-ww-netherlands-2026/"
-    price: "0.00"
-    tag: "Currency Transfer"
+- name: Wise
+  url: https://go.expatnetherlandshub.com/wise?ref=/blog/unemployment-benefits-ww-netherlands-2026/
+  price: '0.00'
+  tag: Currency Transfer
+schema_type: Article
 ---
 
 Losing a job is stressful in any country, but doing it in a foreign country with an unfamiliar social security system adds a layer of anxiety. I have helped numerous expats through this process, and the Dutch WW (Werkloosheidswet) system is actually one of the better unemployment insurance systems in the world — if you know how to use it.

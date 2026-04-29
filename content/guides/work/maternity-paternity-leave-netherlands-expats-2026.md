@@ -1,38 +1,49 @@
 ---
-title: "Maternity & Paternity Leave Netherlands 2026"
-date: 2026-06-14T10:00:00+01:00
-lastmod: 2026-04-23T10:00:00+01:00
-description: "16 weeks maternity at 100% pay, 5 weeks partner leave at 70% — what Dutch parental leave covers, how to apply, and what expats often get wrong."
-categories: ["work"]
-tags: ["maternity leave", "paternity leave", "parental leave", "zwangerschapsverlof"]
-keywords: ["maternity leave netherlands expats", "paternity leave netherlands", "parental leave netherlands 2026", "zwangerschapsverlof expat", "UWV parental leave"]
+title: Maternity & Paternity Leave Netherlands 2026
+date: 2026-06-14 10:00:00+01:00
+lastmod: 2026-04-23 10:00:00+01:00
+description: 16 weeks maternity at 100% pay, 5 weeks partner leave at 70% — what Dutch parental leave covers, how to apply, and what expats often get wrong.
+categories:
+- work
+tags:
+- maternity leave
+- paternity leave
+- parental leave
+- zwangerschapsverlof
+keywords:
+- maternity leave netherlands expats
+- paternity leave netherlands
+- parental leave netherlands 2026
+- zwangerschapsverlof expat
+- UWV parental leave
 affiliate: false
 products:
-  - name: "LinkedIn Premium"
-    url: "https://www.linkedin.com/premium/"
-    price: "29.99"
-  - name: "Undutchables"
-    url: "https://undutchables.nl/"
-    price: "0.00"
-  - name: "Together Abroad"
-    url: "https://www.togetherabroad.nl/"
-    price: "0.00"
-author: "Sarah van den Berg"
-author_bio: "Expat coach and relocation specialist. Half Dutch, half British, living in the Netherlands for over 10 years."
-featured_image: "/images/categories/work.svg"
+- name: LinkedIn Premium
+  url: https://www.linkedin.com/premium/
+  price: '29.99'
+- name: Undutchables
+  url: https://undutchables.nl/
+  price: '0.00'
+- name: Together Abroad
+  url: https://www.togetherabroad.nl/
+  price: '0.00'
+author: Sarah van den Berg
+author_bio: Expat coach and relocation specialist. Half Dutch, half British, living in the Netherlands for over 10 years.
+featured_image: /images/categories/work.svg
 faq:
-  - q: "How many weeks is maternity leave in the Netherlands?"
-    a: "Maternity leave (zwangerschapsverlof en bevallingsverlof) is 16 weeks in total. You must take at least 4 weeks before the due date and at least 10 weeks after birth. If the baby arrives early, the remaining prenatal leave is added to the postnatal period, so the total is always at least 16 weeks. UWV pays 100% of your daily wage during this period, up to the maximum daily wage."
-  - q: "How much does the partner get for paternity leave in the Netherlands?"
-    a: "Partners get 1 week (5 working days) of geboorteverlof immediately after birth at 100% salary, paid by the employer. After that, partners can take an additional 5 weeks of aanvullend geboorteverlof within the first 6 months after birth, paid by UWV at 70% of daily wage (up to the maximum daily wage). This 5-week period can be taken all at once or spread out."
-  - q: "What is ouderschapsverlof and how much does it pay?"
-    a: "Ouderschapsverlof (parental leave) gives each parent 26 weeks of leave until the child turns 8. Since August 2022, the first 9 weeks can be taken in the first year of the child's life and are paid at 70% of daily wage (up to maximum daily wage) via UWV. The remaining 17 weeks are unpaid, though some collective labour agreements (CAOs) provide additional pay. Both parents can take this leave independently."
-  - q: "Do I qualify for Dutch maternity or parental leave as an expat?"
-    a: "Yes, if you are employed in the Netherlands and paying Dutch social security contributions (which all employees do automatically), you qualify for UWV-funded leave regardless of nationality. Your employment contract and registration at a Dutch address are required. Expats on short-term assignments may need to check whether their employer is paying Dutch social contributions or those of another country."
-  - q: "How do I notify my employer about maternity leave in the Netherlands?"
-    a: "You must notify your employer in writing at least 3 weeks before you intend to start your maternity leave. Most people do this around week 12-16 of pregnancy. Your employer then submits the request to UWV. You also need to provide a statement from your midwife or GP (verloskundige or huisarts) confirming the expected due date."
-  - q: "What parental leave rights do ZZP (self-employed) workers have in the Netherlands?"
-    a: "ZZP workers are entitled to ZEZ (Zwangerschaps- en bevallingsuitkering voor zelfstandigen), which is a maternity benefit administered by UWV. It pays approximately the minimum wage (around EUR 1,934 gross per month in 2026) for 16 weeks. You must apply to UWV at least 2 weeks before your intended start date. ZZP partners are not entitled to geboorteverlof or the paid portion of ouderschapsverlof unless they are also employed."
+- q: How many weeks is maternity leave in the Netherlands?
+  a: Maternity leave (zwangerschapsverlof en bevallingsverlof) is 16 weeks in total. You must take at least 4 weeks before the due date and at least 10 weeks after birth. If the baby arrives early, the remaining prenatal leave is added to the postnatal period, so the total is always at least 16 weeks. UWV pays 100% of your daily wage during this period, up to the maximum daily wage.
+- q: How much does the partner get for paternity leave in the Netherlands?
+  a: Partners get 1 week (5 working days) of geboorteverlof immediately after birth at 100% salary, paid by the employer. After that, partners can take an additional 5 weeks of aanvullend geboorteverlof within the first 6 months after birth, paid by UWV at 70% of daily wage (up to the maximum daily wage). This 5-week period can be taken all at once or spread out.
+- q: What is ouderschapsverlof and how much does it pay?
+  a: Ouderschapsverlof (parental leave) gives each parent 26 weeks of leave until the child turns 8. Since August 2022, the first 9 weeks can be taken in the first year of the child's life and are paid at 70% of daily wage (up to maximum daily wage) via UWV. The remaining 17 weeks are unpaid, though some collective labour agreements (CAOs) provide additional pay. Both parents can take this leave independently.
+- q: Do I qualify for Dutch maternity or parental leave as an expat?
+  a: Yes, if you are employed in the Netherlands and paying Dutch social security contributions (which all employees do automatically), you qualify for UWV-funded leave regardless of nationality. Your employment contract and registration at a Dutch address are required. Expats on short-term assignments may need to check whether their employer is paying Dutch social contributions or those of another country.
+- q: How do I notify my employer about maternity leave in the Netherlands?
+  a: You must notify your employer in writing at least 3 weeks before you intend to start your maternity leave. Most people do this around week 12-16 of pregnancy. Your employer then submits the request to UWV. You also need to provide a statement from your midwife or GP (verloskundige or huisarts) confirming the expected due date.
+- q: What parental leave rights do ZZP (self-employed) workers have in the Netherlands?
+  a: ZZP workers are entitled to ZEZ (Zwangerschaps- en bevallingsuitkering voor zelfstandigen), which is a maternity benefit administered by UWV. It pays approximately the minimum wage (around EUR 1,934 gross per month in 2026) for 16 weeks. You must apply to UWV at least 2 weeks before your intended start date. ZZP partners are not entitled to geboorteverlof or the paid portion of ouderschapsverlof unless they are also employed.
+schema_type: Article
 ---
 
 A client of mine — Priya, a software engineer from India who had been in Amsterdam for three years — found out she was pregnant and then spent the next two months trying to understand what she was entitled to. Her employer's HR department gave her partial information, she read conflicting things online, and she nearly missed the UWV application deadline because nobody told her the employer submits the request, not the employee directly.

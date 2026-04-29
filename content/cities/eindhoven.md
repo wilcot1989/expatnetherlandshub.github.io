@@ -1,11 +1,13 @@
 ---
-title: "Eindhoven Expat Guide 2026: Living, Working & Costs"
-description: "Complete expat guide to Eindhoven in 2026. Brainport tech jobs, rent prices by neighbourhood, ASML and Philips area, registration, and practical tips for expats."
-date: 2026-03-06T10:00:00+01:00
-lastmod: 2026-04-23T10:00:00+01:00
-featured_image: "/images/featured/eindhoven.webp"
-author: "Sarah van den Berg"
-categories: ["cities"]
+title: 'Eindhoven Expat Guide 2026: Living, Working & Costs'
+description: Complete expat guide to Eindhoven in 2026. Brainport tech jobs, rent prices by neighbourhood, ASML and Philips area, registration, and practical tips for expats.
+date: 2026-03-06 10:00:00+01:00
+lastmod: 2026-04-23 10:00:00+01:00
+featured_image: /images/featured/eindhoven.webp
+author: Sarah van den Berg
+categories:
+- cities
+schema_type: Article
 ---
 
 ## Eindhoven at a Glance

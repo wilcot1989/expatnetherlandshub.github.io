@@ -1,33 +1,44 @@
 ---
-title: "How to Write a Dutch CV: Expat Guide 2026"
-date: 2026-03-22T10:00:00+01:00
-lastmod: 2026-04-23T10:00:00+01:00
-description: "Write a Dutch CV that gets interviews. Expat guide covering format, photo rules, length, cover letters, and what Dutch recruiters actually look for."
-categories: ["work"]
-tags: ["Dutch CV", "resume Netherlands", "job application Netherlands", "expat career", "Dutch job market"]
-keywords: ["Dutch CV guide expats 2026", "how to write CV Netherlands", "Dutch resume format expat", "CV Netherlands photo rules"]
+title: 'How to Write a Dutch CV: Expat Guide 2026'
+date: 2026-03-22 10:00:00+01:00
+lastmod: 2026-04-23 10:00:00+01:00
+description: Write a Dutch CV that gets interviews. Expat guide covering format, photo rules, length, cover letters, and what Dutch recruiters actually look for.
+categories:
+- work
+tags:
+- Dutch CV
+- resume Netherlands
+- job application Netherlands
+- expat career
+- Dutch job market
+keywords:
+- Dutch CV guide expats 2026
+- how to write CV Netherlands
+- Dutch resume format expat
+- CV Netherlands photo rules
 affiliate: false
-author: "Sarah van den Berg"
-author_bio: "Expat coach and writer at ExpatNetherlandsHub.com"
-featured_image: "/images/categories/work.svg"
+author: Sarah van den Berg
+author_bio: Expat coach and writer at ExpatNetherlandsHub.com
+featured_image: /images/categories/work.svg
 faq:
-  - q: "Should I include a photo on my Dutch CV?"
-    a: "Yes, including a professional photo is standard practice in the Netherlands and expected by most Dutch employers. Unlike the UK, where photos on CVs are actively discouraged to prevent discrimination, the Dutch market generally expects a small professional headshot in the top right or left corner of your CV. The photo should be recent, show your face clearly, and look professional — a plain or neutral background, business or smart casual attire. Do not use a holiday photo or a cropped social media image. If you have a professional LinkedIn headshot, that works well."
-  - q: "How long should a Dutch CV be?"
-    a: "One to two pages. For most professionals with under 10 years of experience, one page is ideal. Two pages is acceptable for senior professionals with a substantive career history. Three pages is almost always too long and suggests you cannot prioritise. Dutch recruiters are efficient readers — they scan CVs quickly. A long CV does not signal more experience; it signals that you have not been selective about what matters. Edit ruthlessly."
-  - q: "Do I need to write my Dutch CV in Dutch?"
-    a: "It depends on the job and the company. For international companies, multinationals, and roles explicitly advertised in English, send an English CV. For Dutch SME employers, government roles, or positions where the job advertisement is in Dutch, writing your CV in Dutch shows cultural commitment and will be noticed positively. If your Dutch is limited (A1–A2), writing a poor Dutch CV can work against you — in that case, an English CV with a note about your Dutch learning progress is better than Dutch riddled with errors. Many expat candidates submit one CV in English and one in Dutch and use whichever is most appropriate."
-  - q: "What format should a Dutch CV be in?"
-    a: "PDF format is standard and preferred. It ensures your formatting is preserved regardless of what software the recruiter uses. Microsoft Word format is sometimes requested by larger ATS systems — if so, save your CV as a .docx. Avoid heavily designed, graphic-heavy CV templates: columns, infographic-style skill bars, and elaborate layouts often fail ATS (applicant tracking system) parsing and can look unprofessional in conservative sectors like finance or law. A clean, well-formatted Word or InDesign-style PDF in black and white or minimal colour is always safe."
-  - q: "Should I include personal details like date of birth or nationality on my Dutch CV?"
-    a: "You do not need to include date of birth, nationality, or marital status on a Dutch CV. Dutch anti-discrimination law (WGBH/CZ) prohibits using these characteristics in hiring decisions, and responsible employers do not want to be seen collecting this information unnecessarily. Some older Dutch CV templates still include date of birth — this is an outdated convention. Include your full name, current city (not full address), phone number, professional email address, and LinkedIn profile URL. That is sufficient."
-  - q: "How should I explain a gap in my CV when applying for Dutch jobs?"
-    a: "Be brief and honest. Dutch culture values direct, factual communication — a short explanation is better than omission (which invites speculation) or an elaborate justification (which sounds defensive). For a gap due to caring responsibilities, job searching, health, travel, or relocation: a one-line note in your work history such as 'Career break: family relocation and settling in the Netherlands (2023–2024)' is perfectly acceptable. Dutch employers are generally understanding of relocation periods. Gaps due to mental health, burnout (overspanning or burn-out is well understood and destigmatised in the Netherlands), or other personal reasons can be addressed briefly and honestly. You do not owe a detailed explanation on the CV itself; save the fuller context for the interview if relevant."
+- q: Should I include a photo on my Dutch CV?
+  a: Yes, including a professional photo is standard practice in the Netherlands and expected by most Dutch employers. Unlike the UK, where photos on CVs are actively discouraged to prevent discrimination, the Dutch market generally expects a small professional headshot in the top right or left corner of your CV. The photo should be recent, show your face clearly, and look professional — a plain or neutral background, business or smart casual attire. Do not use a holiday photo or a cropped social media image. If you have a professional LinkedIn headshot, that works well.
+- q: How long should a Dutch CV be?
+  a: One to two pages. For most professionals with under 10 years of experience, one page is ideal. Two pages is acceptable for senior professionals with a substantive career history. Three pages is almost always too long and suggests you cannot prioritise. Dutch recruiters are efficient readers — they scan CVs quickly. A long CV does not signal more experience; it signals that you have not been selective about what matters. Edit ruthlessly.
+- q: Do I need to write my Dutch CV in Dutch?
+  a: It depends on the job and the company. For international companies, multinationals, and roles explicitly advertised in English, send an English CV. For Dutch SME employers, government roles, or positions where the job advertisement is in Dutch, writing your CV in Dutch shows cultural commitment and will be noticed positively. If your Dutch is limited (A1–A2), writing a poor Dutch CV can work against you — in that case, an English CV with a note about your Dutch learning progress is better than Dutch riddled with errors. Many expat candidates submit one CV in English and one in Dutch and use whichever is most appropriate.
+- q: What format should a Dutch CV be in?
+  a: 'PDF format is standard and preferred. It ensures your formatting is preserved regardless of what software the recruiter uses. Microsoft Word format is sometimes requested by larger ATS systems — if so, save your CV as a .docx. Avoid heavily designed, graphic-heavy CV templates: columns, infographic-style skill bars, and elaborate layouts often fail ATS (applicant tracking system) parsing and can look unprofessional in conservative sectors like finance or law. A clean, well-formatted Word or InDesign-style PDF in black and white or minimal colour is always safe.'
+- q: Should I include personal details like date of birth or nationality on my Dutch CV?
+  a: You do not need to include date of birth, nationality, or marital status on a Dutch CV. Dutch anti-discrimination law (WGBH/CZ) prohibits using these characteristics in hiring decisions, and responsible employers do not want to be seen collecting this information unnecessarily. Some older Dutch CV templates still include date of birth — this is an outdated convention. Include your full name, current city (not full address), phone number, professional email address, and LinkedIn profile URL. That is sufficient.
+- q: How should I explain a gap in my CV when applying for Dutch jobs?
+  a: 'Be brief and honest. Dutch culture values direct, factual communication — a short explanation is better than omission (which invites speculation) or an elaborate justification (which sounds defensive). For a gap due to caring responsibilities, job searching, health, travel, or relocation: a one-line note in your work history such as ''Career break: family relocation and settling in the Netherlands (2023–2024)'' is perfectly acceptable. Dutch employers are generally understanding of relocation periods. Gaps due to mental health, burnout (overspanning or burn-out is well understood and destigmatised in the Netherlands), or other personal reasons can be addressed briefly and honestly. You do not owe a detailed explanation on the CV itself; save the fuller context for the interview if relevant.'
 products:
-  - name: "Wise"
-    url: "https://go.expatnetherlandshub.com/wise?ref=/blog/dutch-cv-resume-guide-expats-2026/"
-    price: "0.00"
-    tag: "Currency Transfer"
+- name: Wise
+  url: https://go.expatnetherlandshub.com/wise?ref=/blog/dutch-cv-resume-guide-expats-2026/
+  price: '0.00'
+  tag: Currency Transfer
+schema_type: Article
 ---
 
 When I moved to the Netherlands and started applying for jobs, my CV was good. I had spent years in the UK market, I knew how to write a strong application, and I had been told by multiple UK recruiters that my CV worked well.

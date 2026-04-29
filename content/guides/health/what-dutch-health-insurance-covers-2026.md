@@ -1,40 +1,52 @@
 ---
-title: "What Dutch Health Insurance Covers (2026 Guide)"
-date: 2026-04-11T10:00:00+01:00
-lastmod: 2026-04-23T10:00:00+01:00
-description: "What does Dutch basisverzekering cover? GP visits, hospital care, eigen risico, dental, and mental health — explained in plain English for expats."
-categories: ["health"]
-tags: ["health insurance", "zorgverzekering", "expat healthcare", "eigen risico", "aanvullende verzekering"]
-keywords: ["what does dutch health insurance cover", "dutch health insurance coverage", "zorgverzekering what is covered", "eigen risico netherlands", "aanvullende verzekering expats"]
+title: What Dutch Health Insurance Covers (2026 Guide)
+date: 2026-04-11 10:00:00+01:00
+lastmod: 2026-04-23 10:00:00+01:00
+description: What does Dutch basisverzekering cover? GP visits, hospital care, eigen risico, dental, and mental health — explained in plain English for expats.
+categories:
+- health
+tags:
+- health insurance
+- zorgverzekering
+- expat healthcare
+- eigen risico
+- aanvullende verzekering
+keywords:
+- what does dutch health insurance cover
+- dutch health insurance coverage
+- zorgverzekering what is covered
+- eigen risico netherlands
+- aanvullende verzekering expats
 affiliate: true
 products:
-  - name: "SafetyWing"
-    url: "https://go.expatnetherlandshub.com/safetywing?ref=/guides/health/what-dutch-health-insurance-covers-2026/"
-    price: "45.08"
-  - name: "CZ"
-    url: "https://www.cz.nl/"
-    price: "0.00"
-  - name: "Zilveren Kruis"
-    url: "https://www.zilverenkruis.nl/"
-    price: "0.00"
-author: "Sarah van den Berg"
-author_bio: "Expat coach and relocation specialist. Half Dutch, half British, living in the Netherlands for over 10 years."
-featured_image: "/images/categories/health.svg"
+- name: SafetyWing
+  url: https://go.expatnetherlandshub.com/safetywing?ref=/guides/health/what-dutch-health-insurance-covers-2026/
+  price: '45.08'
+- name: CZ
+  url: https://www.cz.nl/
+  price: '0.00'
+- name: Zilveren Kruis
+  url: https://www.zilverenkruis.nl/
+  price: '0.00'
+author: Sarah van den Berg
+author_bio: Expat coach and relocation specialist. Half Dutch, half British, living in the Netherlands for over 10 years.
+featured_image: /images/categories/health.svg
 faq:
-  - q: "Does Dutch health insurance cover dental care?"
-    a: "Only for children under 18. Adult dental care is not included in the standard basisverzekering. You need aanvullende verzekering (supplementary insurance) with a tandarts package to get partial reimbursement for dental treatment. Most expats who go to the dentist regularly find this add-on worth the cost."
-  - q: "Does Dutch health insurance cover GP visits?"
-    a: "Yes, GP (huisarts) visits are fully covered and do NOT count towards your eigen risico deductible. You can see your registered GP as often as needed without any out-of-pocket cost. You must register with a specific GP practice — you cannot just walk into any practice."
-  - q: "What is the eigen risico in 2026?"
-    a: "The eigen risico (own risk deductible) is €385 in 2026. This is the amount you pay out of pocket each year before your insurance covers certain treatments. It applies to specialist care, hospital visits, prescription medication, and mental healthcare — but NOT to GP visits, maternity care, or care for children under 18."
-  - q: "Is physiotherapy covered by Dutch health insurance?"
-    a: "Only in limited circumstances. For acute (non-chronic) conditions, physiotherapy is not covered under the basisverzekering — you pay the full cost yourself. For officially recognised chronic conditions, 37 sessions per year are covered after your eigen risico is met. Aanvullende verzekering can cover additional sessions."
-  - q: "Is mental health care covered by Dutch health insurance?"
-    a: "Yes, basis GGZ (basic mental healthcare) is included in the basisverzekering, including up to about 5 sessions for mild complaints and specialist GGZ for more serious conditions. However, waiting lists are very long — often 6 to 12 months — which is a real problem many expats face. Private or international insurance can provide faster access."
-  - q: "Can I raise my eigen risico to pay lower premiums?"
-    a: "Yes. You can voluntarily raise your eigen risico above the mandatory €385, in steps up to €885. Each extra €100 typically saves you around €25 per year on your premium. This only makes financial sense if you are generally healthy and rarely need specialist care or medication."
-  - q: "Does Dutch health insurance cover treatment in my home country?"
-    a: "Within the EU/EEA, your Dutch insurance covers emergency care and sometimes planned treatment, but you generally need prior authorisation for non-emergency care abroad. Outside the EU/EEA, coverage is very limited. If you travel home frequently or want predictable coverage abroad, a supplementary international policy or gap coverage from a provider like SafetyWing can make sense."
+- q: Does Dutch health insurance cover dental care?
+  a: Only for children under 18. Adult dental care is not included in the standard basisverzekering. You need aanvullende verzekering (supplementary insurance) with a tandarts package to get partial reimbursement for dental treatment. Most expats who go to the dentist regularly find this add-on worth the cost.
+- q: Does Dutch health insurance cover GP visits?
+  a: Yes, GP (huisarts) visits are fully covered and do NOT count towards your eigen risico deductible. You can see your registered GP as often as needed without any out-of-pocket cost. You must register with a specific GP practice — you cannot just walk into any practice.
+- q: What is the eigen risico in 2026?
+  a: The eigen risico (own risk deductible) is €385 in 2026. This is the amount you pay out of pocket each year before your insurance covers certain treatments. It applies to specialist care, hospital visits, prescription medication, and mental healthcare — but NOT to GP visits, maternity care, or care for children under 18.
+- q: Is physiotherapy covered by Dutch health insurance?
+  a: Only in limited circumstances. For acute (non-chronic) conditions, physiotherapy is not covered under the basisverzekering — you pay the full cost yourself. For officially recognised chronic conditions, 37 sessions per year are covered after your eigen risico is met. Aanvullende verzekering can cover additional sessions.
+- q: Is mental health care covered by Dutch health insurance?
+  a: Yes, basis GGZ (basic mental healthcare) is included in the basisverzekering, including up to about 5 sessions for mild complaints and specialist GGZ for more serious conditions. However, waiting lists are very long — often 6 to 12 months — which is a real problem many expats face. Private or international insurance can provide faster access.
+- q: Can I raise my eigen risico to pay lower premiums?
+  a: Yes. You can voluntarily raise your eigen risico above the mandatory €385, in steps up to €885. Each extra €100 typically saves you around €25 per year on your premium. This only makes financial sense if you are generally healthy and rarely need specialist care or medication.
+- q: Does Dutch health insurance cover treatment in my home country?
+  a: Within the EU/EEA, your Dutch insurance covers emergency care and sometimes planned treatment, but you generally need prior authorisation for non-emergency care abroad. Outside the EU/EEA, coverage is very limited. If you travel home frequently or want predictable coverage abroad, a supplementary international policy or gap coverage from a provider like SafetyWing can make sense.
+schema_type: Article
 ---
 
 I discovered the gap in my Dutch health insurance knowledge the hard way.

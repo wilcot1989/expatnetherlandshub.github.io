@@ -1,40 +1,55 @@
 ---
-title: "Inburgeringsexamen 2026: Preparation Guide for Expats"
-date: 2026-03-02T10:00:00+01:00
-lastmod: 2026-04-23T10:00:00+01:00
-description: "Complete guide to the Dutch inburgeringsexamen. Exam components, study materials, costs, exemptions, and preparation tips for 2026."
-categories: ["language"]
-tags: ["inburgeringsexamen", "dutch integration exam", "inburgering", "civic integration", "learn dutch", "KNM exam", "ONA exam"]
-keywords: ["inburgeringsexamen preparation", "dutch integration exam", "inburgering guide", "civic integration netherlands", "inburgeringsexamen 2026", "how to pass inburgeringsexamen"]
+title: 'Inburgeringsexamen 2026: Preparation Guide for Expats'
+date: 2026-03-02 10:00:00+01:00
+lastmod: 2026-04-23 10:00:00+01:00
+description: Complete guide to the Dutch inburgeringsexamen. Exam components, study materials, costs, exemptions, and preparation tips for 2026.
+categories:
+- language
+tags:
+- inburgeringsexamen
+- dutch integration exam
+- inburgering
+- civic integration
+- learn dutch
+- KNM exam
+- ONA exam
+keywords:
+- inburgeringsexamen preparation
+- dutch integration exam
+- inburgering guide
+- civic integration netherlands
+- inburgeringsexamen 2026
+- how to pass inburgeringsexamen
 affiliate: true
-author: "Sarah van den Berg"
-author_bio: "Expat coach and relocation specialist. Half Dutch, half British, living in the Netherlands for over 10 years."
-featured_image: "/images/featured/inburgeringsexamen-preparation-guide-2026.webp"
+author: Sarah van den Berg
+author_bio: Expat coach and relocation specialist. Half Dutch, half British, living in the Netherlands for over 10 years.
+featured_image: /images/featured/inburgeringsexamen-preparation-guide-2026.webp
 faq:
-  - q: "Who is exempt from the inburgeringsexamen?"
-    a: "EU/EEA and Swiss citizens are exempt. Other exemptions include those who completed Dutch-language education (such as a Dutch high school diploma or university degree), people under 16 or over the state pension age, those who hold a residence permit as a highly skilled migrant (kennismigrant) or European Blue Card holder, and people who can prove they are unable to take the exam due to a physical or mental disability. The IND and DUO can advise on your specific situation."
-  - q: "How much does the inburgeringsexamen cost?"
-    a: "Under the new Civic Integration Act (Wi2021), the municipality arranges and pays for your integration program if you fall under the new system. If you fall under the old system (arrived before January 1, 2022), exam fees are approximately EUR 150 per exam component, and you are responsible for your own study costs. Additional costs may include study materials (EUR 200-500), language courses (EUR 1,000-5,000 depending on provider), and practice exams."
-  - q: "How long do I have to pass the inburgeringsexamen?"
-    a: "Under the new system (Wi2021), you have 3 years to complete your integration program, though extensions may be granted in certain circumstances. Under the old system, the deadline was also 3 years but extensions were more commonly granted. Missing your deadline can result in fines of up to EUR 1,340 and may affect your residence permit renewal or eligibility for permanent residency."
-  - q: "What language level do I need to pass the inburgeringsexamen?"
-    a: "Under the Wi2021 system, the target level is B1 on the Common European Framework of Reference (CEFR) for reading, listening, writing, and speaking. The old system required A2 level. Your municipality will assess your potential level at the start and create a personalized learning route (leerroute). Some people may be assigned a lower target if B1 is not achievable within the timeframe."
-  - q: "Can I take the inburgeringsexamen in English?"
-    a: "No. The language exams (reading, writing, listening, speaking) are entirely in Dutch, as the purpose is to demonstrate Dutch language proficiency. The KNM (Knowledge of Dutch Society) exam is also in Dutch. However, study materials for KNM are available in many languages, so you can learn the content in your native language before tackling it in Dutch."
-  - q: "What happens if I fail the inburgeringsexamen?"
-    a: "You can retake any component that you fail. Under the old system, you pay the exam fee again for each retake. Under the new system, your municipality manages retakes as part of your learning route. There is no limit on the number of retakes, but you must pass all components before your deadline expires. Many people pass some components on the first attempt and need one or two retakes for the more difficult parts."
-  - q: "Is the inburgeringsexamen the same as the NT2 exam?"
-    a: "No. The inburgeringsexamen tests Dutch at A2-B1 level as part of civic integration requirements. The NT2 (Nederlands als Tweede Taal) is a separate, higher-level exam at B1-B2 level, recognized by Dutch educational institutions and employers. Passing NT2 State Exam I or II can exempt you from the language components of the inburgeringsexamen. If you plan to study at a Dutch university or need formal proof of Dutch proficiency for employment, NT2 is the more widely recognized qualification."
+- q: Who is exempt from the inburgeringsexamen?
+  a: EU/EEA and Swiss citizens are exempt. Other exemptions include those who completed Dutch-language education (such as a Dutch high school diploma or university degree), people under 16 or over the state pension age, those who hold a residence permit as a highly skilled migrant (kennismigrant) or European Blue Card holder, and people who can prove they are unable to take the exam due to a physical or mental disability. The IND and DUO can advise on your specific situation.
+- q: How much does the inburgeringsexamen cost?
+  a: Under the new Civic Integration Act (Wi2021), the municipality arranges and pays for your integration program if you fall under the new system. If you fall under the old system (arrived before January 1, 2022), exam fees are approximately EUR 150 per exam component, and you are responsible for your own study costs. Additional costs may include study materials (EUR 200-500), language courses (EUR 1,000-5,000 depending on provider), and practice exams.
+- q: How long do I have to pass the inburgeringsexamen?
+  a: Under the new system (Wi2021), you have 3 years to complete your integration program, though extensions may be granted in certain circumstances. Under the old system, the deadline was also 3 years but extensions were more commonly granted. Missing your deadline can result in fines of up to EUR 1,340 and may affect your residence permit renewal or eligibility for permanent residency.
+- q: What language level do I need to pass the inburgeringsexamen?
+  a: Under the Wi2021 system, the target level is B1 on the Common European Framework of Reference (CEFR) for reading, listening, writing, and speaking. The old system required A2 level. Your municipality will assess your potential level at the start and create a personalized learning route (leerroute). Some people may be assigned a lower target if B1 is not achievable within the timeframe.
+- q: Can I take the inburgeringsexamen in English?
+  a: No. The language exams (reading, writing, listening, speaking) are entirely in Dutch, as the purpose is to demonstrate Dutch language proficiency. The KNM (Knowledge of Dutch Society) exam is also in Dutch. However, study materials for KNM are available in many languages, so you can learn the content in your native language before tackling it in Dutch.
+- q: What happens if I fail the inburgeringsexamen?
+  a: You can retake any component that you fail. Under the old system, you pay the exam fee again for each retake. Under the new system, your municipality manages retakes as part of your learning route. There is no limit on the number of retakes, but you must pass all components before your deadline expires. Many people pass some components on the first attempt and need one or two retakes for the more difficult parts.
+- q: Is the inburgeringsexamen the same as the NT2 exam?
+  a: No. The inburgeringsexamen tests Dutch at A2-B1 level as part of civic integration requirements. The NT2 (Nederlands als Tweede Taal) is a separate, higher-level exam at B1-B2 level, recognized by Dutch educational institutions and employers. Passing NT2 State Exam I or II can exempt you from the language components of the inburgeringsexamen. If you plan to study at a Dutch university or need formal proof of Dutch proficiency for employment, NT2 is the more widely recognized qualification.
 products:
-  - name: "Babbel"
-    url: "https://www.babbel.com/"
-    price: "6.99"
-  - name: "DutchPod101"
-    url: "https://www.dutchpod101.com/"
-    price: "0.00"
-  - name: "Preply"
-    url: "https://go.expatnetherlandshub.com/preply?ref=/guides/integration/inburgeringsexamen-preparation-guide-2026/"
-    price: "0.00"
+- name: Babbel
+  url: https://www.babbel.com/
+  price: '6.99'
+- name: DutchPod101
+  url: https://www.dutchpod101.com/
+  price: '0.00'
+- name: Preply
+  url: https://go.expatnetherlandshub.com/preply?ref=/guides/integration/inburgeringsexamen-preparation-guide-2026/
+  price: '0.00'
+schema_type: Article
 ---
 
 As a half-Dutch, half-British person, I am technically exempt from the inburgeringsexamen. But I have coached so many clients through it that I practically know the KNM exam by heart. The biggest thing I have learned: it is not as scary as people think, but the preparation matters enormously. I have seen well-educated professionals fail because they underestimated it, and I have seen others with less formal education pass on the first try because they prepared strategically. Here is how to approach it.

@@ -1,37 +1,48 @@
 ---
-title: "How to Register as a Freelancer (ZZP) in the Netherlands 2026"
-date: 2026-03-26T10:00:00+01:00
-lastmod: 2026-04-23T10:00:00+01:00
-description: "How to register as a freelancer (ZZP) in the Netherlands in 2026. KvK registration, tax setup, BSN requirements and costs explained step by step."
-categories: ["work"]
-tags: ["freelance", "ZZP", "KvK registration", "self-employed", "entrepreneur Netherlands"]
-keywords: ["freelance Netherlands", "ZZP registration", "how to become freelancer Netherlands", "KvK registration expat"]
+title: How to Register as a Freelancer (ZZP) in the Netherlands 2026
+date: 2026-03-26 10:00:00+01:00
+lastmod: 2026-04-23 10:00:00+01:00
+description: How to register as a freelancer (ZZP) in the Netherlands in 2026. KvK registration, tax setup, BSN requirements and costs explained step by step.
+categories:
+- work
+tags:
+- freelance
+- ZZP
+- KvK registration
+- self-employed
+- entrepreneur Netherlands
+keywords:
+- freelance Netherlands
+- ZZP registration
+- how to become freelancer Netherlands
+- KvK registration expat
 affiliate: true
 products:
-  - name: "Wise"
-    url: "https://go.expatnetherlandshub.com/wise?ref=/guides/work/freelancer-zzp-registration-netherlands-2026/"
-    price: "0.00"
-    tag: "Business Banking"
-author: "Sarah van den Berg"
-author_bio: "Expat coach and writer at ExpatNetherlandsHub.com"
-featured_image: "/images/categories/work.svg"
+- name: Wise
+  url: https://go.expatnetherlandshub.com/wise?ref=/guides/work/freelancer-zzp-registration-netherlands-2026/
+  price: '0.00'
+  tag: Business Banking
+author: Sarah van den Berg
+author_bio: Expat coach and writer at ExpatNetherlandsHub.com
+featured_image: /images/categories/work.svg
 faq:
-  - q: "How much does it cost to register as a ZZP in the Netherlands?"
-    a: "The one-time KvK registration fee is €75.75 in 2026. There are no annual renewal fees. Your BTW (VAT) number is issued automatically at no additional cost and arrives by post within 10–14 working days. Total startup cost for a basic eenmanszaak is minimal — the registration fee plus whatever you spend on a business bank account and accounting software."
-  - q: "Do I need to speak Dutch to register as a ZZP?"
-    a: "No. KvK offices in major cities including Amsterdam, Rotterdam, and The Hague regularly handle registrations in English. The KvK website also has English-language information. Bring your documents, and do not worry about language — front desk staff are accustomed to working with expats."
-  - q: "Can Americans freelance in the Netherlands?"
-    a: "Yes, under the Dutch-American Friendship Treaty (DAFT). This treaty allows US citizens to obtain a self-employment residence permit with simplified requirements compared to the standard self-employment route. You need to invest a minimum of €4,500 in your business and demonstrate that your activities benefit the Dutch economy. DAFT is a genuine and well-used route — speak with an immigration lawyer or the IND for current requirements."
-  - q: "What is the difference between an eenmanszaak and a BV?"
-    a: "An eenmanszaak (sole proprietorship) is simpler, cheaper to set up, and ideal for most freelancers starting out. You and the business are legally one entity, meaning you are personally liable for business debts. A BV (private limited company) is a separate legal entity that limits your personal liability, but requires a notary deed, costs roughly €1,000–€1,500 to establish, and has higher administrative requirements. Most ZZP freelancers should start with an eenmanszaak unless their annual profit consistently exceeds €100,000–€120,000."
-  - q: "How much tax do I pay as a ZZP in the Netherlands?"
-    a: "Your ZZP profit is taxed under Box 1 income tax: 36.97% up to €75,518 and 49.50% above that (2026 rates). However, key deductions reduce your taxable profit significantly: the zelfstandigenaftrek (€2,470), startersaftrek (€2,123 extra for the first three years), and MKB-winstvrijstelling (12.7% of profit after the above deductions). Effective tax rates for freelancers earning €50,000–€80,000 typically land between 25% and 35%, depending on deductions. Set aside 30–35% of every invoice as a tax buffer."
-  - q: "Can I have a regular job AND freelance as a ZZP at the same time?"
-    a: "Yes, this is common in the Netherlands. You register an eenmanszaak at the KvK and freelance alongside your employment. Your freelance income adds to your total Box 1 income for tax purposes. Check your employment contract — some contracts prohibit moonlighting or require prior approval. Non-EU citizens should verify their residence permit conditions with the IND, as some permits restrict or prohibit additional self-employment."
-  - q: "What insurance do I need as a freelancer in the Netherlands?"
-    a: "Basic health insurance (zorgverzekering) is mandatory for everyone in the Netherlands — you arrange this yourself as a freelancer. Professional liability insurance (beroepsaansprakelijkheid) is not legally required but is expected by most Dutch corporate clients. Disability insurance (arbeidsongeschiktheidsverzekering / AOV) is the most important one many freelancers skip: without it, if you cannot work due to illness or injury, there is no safety net. AOV costs €50–€200/month depending on age, health, and coverage level."
-  - q: "How do I find my first freelance clients in the Netherlands?"
-    a: "The most effective early routes are: (1) your existing professional network on LinkedIn, (2) direct outreach to former employers or colleagues, (3) freelance platforms such as Malt, Freelancer.nl, and Marktplaats Diensten, (4) sector-specific job boards where companies post interim/freelance roles, and (5) expat and professional communities in Amsterdam, Rotterdam, and Eindhoven. Building a focused LinkedIn profile in both Dutch and English and setting your status to 'Open to freelance work' generates inbound interest faster than most people expect."
+- q: How much does it cost to register as a ZZP in the Netherlands?
+  a: The one-time KvK registration fee is €75.75 in 2026. There are no annual renewal fees. Your BTW (VAT) number is issued automatically at no additional cost and arrives by post within 10–14 working days. Total startup cost for a basic eenmanszaak is minimal — the registration fee plus whatever you spend on a business bank account and accounting software.
+- q: Do I need to speak Dutch to register as a ZZP?
+  a: No. KvK offices in major cities including Amsterdam, Rotterdam, and The Hague regularly handle registrations in English. The KvK website also has English-language information. Bring your documents, and do not worry about language — front desk staff are accustomed to working with expats.
+- q: Can Americans freelance in the Netherlands?
+  a: Yes, under the Dutch-American Friendship Treaty (DAFT). This treaty allows US citizens to obtain a self-employment residence permit with simplified requirements compared to the standard self-employment route. You need to invest a minimum of €4,500 in your business and demonstrate that your activities benefit the Dutch economy. DAFT is a genuine and well-used route — speak with an immigration lawyer or the IND for current requirements.
+- q: What is the difference between an eenmanszaak and a BV?
+  a: An eenmanszaak (sole proprietorship) is simpler, cheaper to set up, and ideal for most freelancers starting out. You and the business are legally one entity, meaning you are personally liable for business debts. A BV (private limited company) is a separate legal entity that limits your personal liability, but requires a notary deed, costs roughly €1,000–€1,500 to establish, and has higher administrative requirements. Most ZZP freelancers should start with an eenmanszaak unless their annual profit consistently exceeds €100,000–€120,000.
+- q: How much tax do I pay as a ZZP in the Netherlands?
+  a: 'Your ZZP profit is taxed under Box 1 income tax: 36.97% up to €75,518 and 49.50% above that (2026 rates). However, key deductions reduce your taxable profit significantly: the zelfstandigenaftrek (€2,470), startersaftrek (€2,123 extra for the first three years), and MKB-winstvrijstelling (12.7% of profit after the above deductions). Effective tax rates for freelancers earning €50,000–€80,000 typically land between 25% and 35%, depending on deductions. Set aside 30–35% of every invoice as a tax buffer.'
+- q: Can I have a regular job AND freelance as a ZZP at the same time?
+  a: Yes, this is common in the Netherlands. You register an eenmanszaak at the KvK and freelance alongside your employment. Your freelance income adds to your total Box 1 income for tax purposes. Check your employment contract — some contracts prohibit moonlighting or require prior approval. Non-EU citizens should verify their residence permit conditions with the IND, as some permits restrict or prohibit additional self-employment.
+- q: What insurance do I need as a freelancer in the Netherlands?
+  a: 'Basic health insurance (zorgverzekering) is mandatory for everyone in the Netherlands — you arrange this yourself as a freelancer. Professional liability insurance (beroepsaansprakelijkheid) is not legally required but is expected by most Dutch corporate clients. Disability insurance (arbeidsongeschiktheidsverzekering / AOV) is the most important one many freelancers skip: without it, if you cannot work due to illness or injury, there is no safety net. AOV costs €50–€200/month depending on age, health, and coverage level.'
+- q: How do I find my first freelance clients in the Netherlands?
+  a: 'The most effective early routes are: (1) your existing professional network on LinkedIn, (2) direct outreach to former employers or colleagues, (3) freelance platforms such as Malt, Freelancer.nl, and Marktplaats Diensten, (4) sector-specific job boards where companies post interim/freelance roles, and (5) expat and professional communities in Amsterdam, Rotterdam, and Eindhoven. Building a focused LinkedIn profile in both Dutch and English and setting your status to ''Open to freelance work'' generates inbound interest faster than most people expect.'
+schema_type: Article
 ---
 
 I have helped over 50 expats register as freelancers in the Netherlands. Here is everything I wish someone had told me when I did it myself.

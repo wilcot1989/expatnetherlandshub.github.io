@@ -1,40 +1,51 @@
 ---
-title: "Best Ways to Send Money from the Netherlands in 2026"
-date: 2026-05-18T10:00:00+01:00
-lastmod: 2026-04-23T10:00:00+01:00
-description: "Best ways to send money from the Netherlands in 2026. Compare Wise, Revolut, bank transfers, and Remitly on real cost, speed, and hidden fees."
-categories: ["finance"]
-tags: ["money transfer", "Wise", "Revolut", "remittance", "international transfer"]
-keywords: ["send money from netherlands", "best money transfer netherlands", "cheapest way send money abroad", "wise vs bank transfer netherlands"]
+title: Best Ways to Send Money from the Netherlands in 2026
+date: 2026-05-18 10:00:00+01:00
+lastmod: 2026-04-23 10:00:00+01:00
+description: Best ways to send money from the Netherlands in 2026. Compare Wise, Revolut, bank transfers, and Remitly on real cost, speed, and hidden fees.
+categories:
+- finance
+tags:
+- money transfer
+- Wise
+- Revolut
+- remittance
+- international transfer
+keywords:
+- send money from netherlands
+- best money transfer netherlands
+- cheapest way send money abroad
+- wise vs bank transfer netherlands
 affiliate: true
-author: "Sarah van den Berg"
-author_bio: "Expat coach and relocation specialist. Half Dutch, half British, living in the Netherlands for over 10 years."
-featured_image: "/images/categories/finance.svg"
+author: Sarah van den Berg
+author_bio: Expat coach and relocation specialist. Half Dutch, half British, living in the Netherlands for over 10 years.
+featured_image: /images/categories/finance.svg
 products:
-  - name: "Wise"
-    url: "https://go.expatnetherlandshub.com/wise?ref=/guides/finance/best-way-send-money-from-netherlands-2026/"
-    price: "0.00"
-  - name: "bunq"
-    url: "https://www.bunq.com/"
-    price: "2.99"
-  - name: "ING"
-    url: "https://www.ing.nl/particulier"
-    price: "0.00"
+- name: Wise
+  url: https://go.expatnetherlandshub.com/wise?ref=/guides/finance/best-way-send-money-from-netherlands-2026/
+  price: '0.00'
+- name: bunq
+  url: https://www.bunq.com/
+  price: '2.99'
+- name: ING
+  url: https://www.ing.nl/particulier
+  price: '0.00'
 faq:
-  - q: "What is the cheapest way to send money from the Netherlands?"
-    a: "For most destinations and amounts, Wise offers the lowest total cost. It uses the mid-market exchange rate (the rate you see on Google) and charges a small transparent fee, typically 0.3–0.6% of the transfer amount. For euro transfers within the EU and EEA, SEPA bank transfers through your Dutch bank are free or cost under EUR 1 — but only for euro-denominated payments. For non-EUR transfers, avoid your bank and use Wise or Revolut instead."
-  - q: "How much does it cost to send EUR 1,000 from the Netherlands to the UK?"
-    a: "Using Wise, sending EUR 1,000 to a British pound account typically costs around EUR 5–8 in fees, and you receive the mid-market rate. Using ING or ABN AMRO for the same transfer costs around EUR 15–25 in fees plus an exchange rate markup of 1–2.5%, meaning the total hidden cost can reach EUR 35–50. Revolut (on a free plan) can match Wise in cost if you transfer during weekday market hours, but adds a 1% fee on weekends."
-  - q: "Is Wise safe to use for large transfers?"
-    a: "Yes. Wise is regulated as an Electronic Money Institution (EMI) by De Nederlandsche Bank (DNB) and the UK Financial Conduct Authority (FCA), and it safeguards customer funds in ring-fenced accounts. Millions of people use Wise for large transfers. For transfers over EUR 50,000, you may want to verify your Wise account in advance so the transfer processes without delay, and consider a dedicated foreign exchange broker for very large, one-off sums."
-  - q: "What is the maximum amount I can transfer from the Netherlands?"
-    a: "There is no legal cap on international transfers from the Netherlands. However, transfers of EUR 10,000 or more may trigger anti-money-laundering reporting at your bank or transfer service, and you may be asked to document the source of funds. Wise and Revolut have their own limits depending on your verification tier. Most verified Wise accounts can send up to EUR 1,000,000 per transfer. For very large transfers, contact the provider in advance."
-  - q: "How long does an international transfer from the Netherlands take?"
-    a: "Speed varies by service and corridor. Wise typically delivers in 1–2 business days for most currency pairs, and same-day for many EUR transfers. Revolut is instant between Revolut accounts and 1–3 business days externally. SEPA transfers within Europe arrive within 1 business day, often in hours. Traditional SWIFT bank transfers (for non-EUR transfers through ING or ABN AMRO) take 3–5 business days. Western Union and Remitly offer same-day or next-day options to many countries at higher cost."
-  - q: "Do I need to declare international transfers to Dutch authorities?"
-    a: "You do not need to file a separate declaration for most transfers, but Dutch banks are required to report suspicious transactions and transfers over EUR 10,000 to the Financial Intelligence Unit (FIU) under anti-money-laundering regulations. If you are regularly sending large amounts abroad, keep documentation of the purpose (for example, supporting family, paying for property, business payments). Your bank may ask questions; being prepared with a clear explanation avoids delays."
-  - q: "What is the difference between a SEPA and a SWIFT transfer?"
-    a: "SEPA (Single Euro Payments Area) is a European payment network for euro-denominated transfers between the 36 participating countries. SEPA transfers are fast (same day to next business day), cheap or free, and do not involve exchange rate conversion. SWIFT is the global interbank messaging system used for international transfers outside SEPA, or whenever a currency conversion is involved. SWIFT transfers are slower (3–5 business days), more expensive, and often involve unfavourable exchange rates from one or more banks in the chain."
+- q: What is the cheapest way to send money from the Netherlands?
+  a: For most destinations and amounts, Wise offers the lowest total cost. It uses the mid-market exchange rate (the rate you see on Google) and charges a small transparent fee, typically 0.3–0.6% of the transfer amount. For euro transfers within the EU and EEA, SEPA bank transfers through your Dutch bank are free or cost under EUR 1 — but only for euro-denominated payments. For non-EUR transfers, avoid your bank and use Wise or Revolut instead.
+- q: How much does it cost to send EUR 1,000 from the Netherlands to the UK?
+  a: Using Wise, sending EUR 1,000 to a British pound account typically costs around EUR 5–8 in fees, and you receive the mid-market rate. Using ING or ABN AMRO for the same transfer costs around EUR 15–25 in fees plus an exchange rate markup of 1–2.5%, meaning the total hidden cost can reach EUR 35–50. Revolut (on a free plan) can match Wise in cost if you transfer during weekday market hours, but adds a 1% fee on weekends.
+- q: Is Wise safe to use for large transfers?
+  a: Yes. Wise is regulated as an Electronic Money Institution (EMI) by De Nederlandsche Bank (DNB) and the UK Financial Conduct Authority (FCA), and it safeguards customer funds in ring-fenced accounts. Millions of people use Wise for large transfers. For transfers over EUR 50,000, you may want to verify your Wise account in advance so the transfer processes without delay, and consider a dedicated foreign exchange broker for very large, one-off sums.
+- q: What is the maximum amount I can transfer from the Netherlands?
+  a: There is no legal cap on international transfers from the Netherlands. However, transfers of EUR 10,000 or more may trigger anti-money-laundering reporting at your bank or transfer service, and you may be asked to document the source of funds. Wise and Revolut have their own limits depending on your verification tier. Most verified Wise accounts can send up to EUR 1,000,000 per transfer. For very large transfers, contact the provider in advance.
+- q: How long does an international transfer from the Netherlands take?
+  a: Speed varies by service and corridor. Wise typically delivers in 1–2 business days for most currency pairs, and same-day for many EUR transfers. Revolut is instant between Revolut accounts and 1–3 business days externally. SEPA transfers within Europe arrive within 1 business day, often in hours. Traditional SWIFT bank transfers (for non-EUR transfers through ING or ABN AMRO) take 3–5 business days. Western Union and Remitly offer same-day or next-day options to many countries at higher cost.
+- q: Do I need to declare international transfers to Dutch authorities?
+  a: You do not need to file a separate declaration for most transfers, but Dutch banks are required to report suspicious transactions and transfers over EUR 10,000 to the Financial Intelligence Unit (FIU) under anti-money-laundering regulations. If you are regularly sending large amounts abroad, keep documentation of the purpose (for example, supporting family, paying for property, business payments). Your bank may ask questions; being prepared with a clear explanation avoids delays.
+- q: What is the difference between a SEPA and a SWIFT transfer?
+  a: SEPA (Single Euro Payments Area) is a European payment network for euro-denominated transfers between the 36 participating countries. SEPA transfers are fast (same day to next business day), cheap or free, and do not involve exchange rate conversion. SWIFT is the global interbank messaging system used for international transfers outside SEPA, or whenever a currency conversion is involved. SWIFT transfers are slower (3–5 business days), more expensive, and often involve unfavourable exchange rates from one or more banks in the chain.
+schema_type: Article
 ---
 
 I have transferred money from the Netherlands to the UK, the United States, India, Morocco, and half a dozen other countries over the past decade. I have also made expensive mistakes doing it — including one painful early transfer through ABN AMRO that cost me close to EUR 80 in total fees and rate markup on a EUR 2,000 transfer. I did not even realise how much I had lost until I compared the rate I got to the mid-market rate afterwards.

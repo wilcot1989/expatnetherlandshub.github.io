@@ -1,36 +1,47 @@
 ---
-title: "Bunq vs N26 for Expats in the Netherlands: 2026 Guide"
-date: 2026-03-11T10:00:00+01:00
-lastmod: 2026-04-23T10:00:00+01:00
-description: "Bunq vs N26 compared for expats living in the Netherlands. IBAN type, iDEAL support, fees, features, and which digital bank to pick in 2026."
-categories: ["finance"]
-tags: ["bunq", "N26", "digital bank", "neobank", "expat banking"]
-keywords: ["bunq vs N26 Netherlands", "best digital bank expats NL", "bunq or N26 expats", "neobank Netherlands comparison"]
+title: 'Bunq vs N26 for Expats in the Netherlands: 2026 Guide'
+date: 2026-03-11 10:00:00+01:00
+lastmod: 2026-04-23 10:00:00+01:00
+description: Bunq vs N26 compared for expats living in the Netherlands. IBAN type, iDEAL support, fees, features, and which digital bank to pick in 2026.
+categories:
+- finance
+tags:
+- bunq
+- N26
+- digital bank
+- neobank
+- expat banking
+keywords:
+- bunq vs N26 Netherlands
+- best digital bank expats NL
+- bunq or N26 expats
+- neobank Netherlands comparison
 affiliate: true
-author: "Sarah van den Berg"
-author_bio: "Expat coach and relocation specialist. Half Dutch, half British, living in the Netherlands for over 10 years."
-featured_image: "/images/featured/bunq-vs-n26-expats-netherlands-2026.webp"
+author: Sarah van den Berg
+author_bio: Expat coach and relocation specialist. Half Dutch, half British, living in the Netherlands for over 10 years.
+featured_image: /images/featured/bunq-vs-n26-expats-netherlands-2026.webp
 products:
-  - name: "Wise"
-    url: "https://go.expatnetherlandshub.com/wise?ref=/guides/finance/bunq-vs-n26-expats-netherlands-2026/"
-    price: "0.00"
-  - name: "bunq"
-    url: "https://www.bunq.com/"
-    price: "2.99"
-  - name: "ING"
-    url: "https://www.ing.nl/particulier"
-    price: "0.00"
+- name: Wise
+  url: https://go.expatnetherlandshub.com/wise?ref=/guides/finance/bunq-vs-n26-expats-netherlands-2026/
+  price: '0.00'
+- name: bunq
+  url: https://www.bunq.com/
+  price: '2.99'
+- name: ING
+  url: https://www.ing.nl/particulier
+  price: '0.00'
 faq:
-  - q: "Does bunq or N26 offer a Dutch IBAN?"
-    a: "Bunq provides a Dutch IBAN (NL prefix), which is necessary for many Dutch services, employers, and landlords. N26 provides a German IBAN (DE prefix), which can cause issues in the Netherlands due to IBAN discrimination — even though this is technically illegal under EU regulations."
-  - q: "Which is cheaper, bunq or N26?"
-    a: "N26 wins on price with a genuinely free basic account (Standard plan). Bunq's cheapest plan is Easy Bank at EUR 2.99 per month. However, bunq includes features in its base plan that N26 only offers on paid tiers. For daily banking in the Netherlands specifically, bunq's iDEAL support alone can justify the monthly fee."
-  - q: "Can I use iDEAL with bunq or N26?"
-    a: "Bunq fully supports iDEAL, the dominant Dutch online payment system. N26 does not support iDEAL at all. This is a significant limitation for daily life in the Netherlands, as nearly every Dutch webshop uses iDEAL as the primary payment method."
-  - q: "Do I need a BSN to open a bunq or N26 account?"
-    a: "N26 requires a BSN for Dutch tax reporting purposes. Bunq may allow you to start the registration process before receiving your BSN, but full account functionality requires it. For a bank account without a BSN, consider Wise."
-  - q: "Who is this for?"
-    a: "See the section above on who benefits most from this service or guide."
+- q: Does bunq or N26 offer a Dutch IBAN?
+  a: Bunq provides a Dutch IBAN (NL prefix), which is necessary for many Dutch services, employers, and landlords. N26 provides a German IBAN (DE prefix), which can cause issues in the Netherlands due to IBAN discrimination — even though this is technically illegal under EU regulations.
+- q: Which is cheaper, bunq or N26?
+  a: N26 wins on price with a genuinely free basic account (Standard plan). Bunq's cheapest plan is Easy Bank at EUR 2.99 per month. However, bunq includes features in its base plan that N26 only offers on paid tiers. For daily banking in the Netherlands specifically, bunq's iDEAL support alone can justify the monthly fee.
+- q: Can I use iDEAL with bunq or N26?
+  a: Bunq fully supports iDEAL, the dominant Dutch online payment system. N26 does not support iDEAL at all. This is a significant limitation for daily life in the Netherlands, as nearly every Dutch webshop uses iDEAL as the primary payment method.
+- q: Do I need a BSN to open a bunq or N26 account?
+  a: N26 requires a BSN for Dutch tax reporting purposes. Bunq may allow you to start the registration process before receiving your BSN, but full account functionality requires it. For a bank account without a BSN, consider Wise.
+- q: Who is this for?
+  a: See the section above on who benefits most from this service or guide.
+schema_type: Article
 ---
 
 When I first moved back to the Netherlands — after years in London — I made the classic expat mistake of assuming any European digital bank would do. I opened an N26 account because it was free and I already had one. Simple, right?

@@ -1,46 +1,59 @@
 ---
-title: "The 30% Ruling in the Netherlands 2026: Complete Guide"
-date: 2026-03-06T10:00:00+01:00
-lastmod: 2026-04-23T10:00:00+01:00
-description: "Complete guide to the 30% ruling in the Netherlands for 2026. Eligibility, salary thresholds, application process, recent changes, and tax savings."
-categories: ["finance"]
-tags: ["30 percent ruling", "dutch taxes", "expat tax benefit", "highly skilled migrant", "netherlands tax", "30% ruling"]
-keywords: ["30 percent ruling netherlands", "30% ruling 2026", "dutch tax ruling expats", "30 percent ruling eligibility", "30 percent ruling salary threshold"]
+title: 'The 30% Ruling in the Netherlands 2026: Complete Guide'
+date: 2026-03-06 10:00:00+01:00
+lastmod: 2026-04-23 10:00:00+01:00
+description: Complete guide to the 30% ruling in the Netherlands for 2026. Eligibility, salary thresholds, application process, recent changes, and tax savings.
+categories:
+- finance
+tags:
+- 30 percent ruling
+- dutch taxes
+- expat tax benefit
+- highly skilled migrant
+- netherlands tax
+- 30% ruling
+keywords:
+- 30 percent ruling netherlands
+- 30% ruling 2026
+- dutch tax ruling expats
+- 30 percent ruling eligibility
+- 30 percent ruling salary threshold
 affiliate: true
-author: "Sarah van den Berg"
-author_bio: "Expat coach and relocation specialist. Half Dutch, half British, living in the Netherlands for over 10 years."
-featured_image: "/images/featured/30-percent-ruling-netherlands-2026.webp"
+author: Sarah van den Berg
+author_bio: Expat coach and relocation specialist. Half Dutch, half British, living in the Netherlands for over 10 years.
+featured_image: /images/featured/30-percent-ruling-netherlands-2026.webp
 products:
-  - name: "Wise"
-    url: "https://go.expatnetherlandshub.com/wise?ref=/guides/finance/30-percent-ruling-netherlands-2026/"
-    price: "0.00"
-  - name: "Expatax"
-    url: "https://www.expatax.nl/"
-    price: "0.00"
-  - name: "Blue Umbrella"
-    url: "https://www.blueumbrella.nl/"
-    price: "0.00"
+- name: Wise
+  url: https://go.expatnetherlandshub.com/wise?ref=/guides/finance/30-percent-ruling-netherlands-2026/
+  price: '0.00'
+- name: Expatax
+  url: https://www.expatax.nl/
+  price: '0.00'
+- name: Blue Umbrella
+  url: https://www.blueumbrella.nl/
+  price: '0.00'
 faq:
-  - q: "What is the 30% ruling in the Netherlands?"
-    a: "The 30% ruling is a Dutch tax benefit for highly skilled migrants recruited from abroad. It allows your employer to pay up to 30% of your gross salary as a tax-free allowance, intended to compensate for the additional costs of relocating to and living in the Netherlands. This effectively reduces your taxable income by 30%, resulting in significant tax savings."
-  - q: "What is the minimum salary for the 30% ruling in 2026?"
-    a: "In 2026, the minimum taxable salary (after applying the 30% reduction) is EUR 46,107 per year for standard applicants aged 30 and over. For employees under 30 who hold a qualifying master's degree, the reduced threshold is EUR 35,048. Scientific researchers at designated institutions face no minimum threshold. These figures are adjusted annually by the Belastingdienst. To find the required gross salary, divide the taxable threshold by 0.7: EUR 46,107 / 0.7 = approximately EUR 65,867 gross."
-  - q: "What percentage is the 30% ruling in each year?"
-    a: "For applicants who started their ruling on or after 1 January 2024, the tax-free percentage is not a flat 30% for the full five years. It steps down in three phases: 30% for the first 20 months, 20% for months 21 to 40, and 10% for the final 20 months (months 41 to 60). This gives an effective average of 20% over the full five-year period. Expats who had an active ruling before 1 January 2024 may be protected by transitional rules that preserve the original 30% rate."
-  - q: "Does the 30% ruling apply to Box 3 wealth tax?"
-    a: "Yes, indirectly and very favourably. Holders of the 30% ruling can elect partial non-resident taxpayer status, which means they are exempt from Dutch Box 3 wealth tax on foreign savings and investments. Only Dutch real estate is included in their Box 3 assessment. Foreign bank accounts, share portfolios, and savings held abroad are entirely outside the Dutch tax net for the duration of the ruling. This can be worth thousands of euros per year for expats with meaningful savings or investments at home."
-  - q: "What happens to the 30% ruling if I get divorced?"
-    a: "Divorce does not automatically end your 30% ruling. The ruling is tied to the employment relationship, not your personal circumstances. However, if your salary drops below the minimum threshold as part of a divorce settlement (for example, due to reduced hours or a career change), the ruling can lapse. Your ex-partner's 30% ruling status is entirely separate and will depend on whether they hold their own ruling in their own name through their own employer."
-  - q: "Can I still get the 30% ruling if I change employers?"
-    a: "Yes. You can transfer the 30% ruling to a new employer, provided there is no gap longer than 3 months between jobs and your new employer submits a fresh application within 4 months of your new start date. The remaining duration of your original 5-year period carries over — it does not restart. Your new salary must also still meet the current year's minimum threshold."
-  - q: "How long does the 30% ruling last?"
-    a: "The 30% ruling applies for a maximum of 5 years (60 months). This was reduced from 8 years in 2019. Time previously spent living or working in the Netherlands may be deducted from this 5-year period. For applicants from 1 January 2024, the benefit also steps down from 30% to 20% to 10% across the five years. Transitional rules may apply if your ruling predates 2024."
-  - q: "Can I apply for the 30% ruling if I am already living in the Netherlands?"
-    a: "No. One of the key requirements is that you must be recruited or transferred from abroad. Specifically, you must have been living more than 150 kilometres from the Dutch border for at least 16 of the 24 months before your Dutch employment started. If you were already living in the Netherlands when you were hired, you do not qualify."
-  - q: "What happens to the 30% ruling if I leave and return to the Netherlands?"
-    a: "If you leave the Netherlands and return, you may still be eligible for the remaining duration of your original 30% ruling period, provided you return within the validity window and meet all other conditions. However, each case is assessed individually by the Belastingdienst. Breaks in residence and employment can complicate the situation, so consult a tax advisor before making decisions."
-  - q: "Should I hire a tax advisor for the 30% ruling?"
-    a: "While it is possible to handle the 30% ruling application through your employer's HR department, hiring a tax advisor who specialises in expat taxation is strongly recommended if your situation involves income from multiple countries, a partner who also works, investment income, or real estate abroad. A good tax advisor typically costs EUR 150-500 for an initial consultation and can save you thousands in optimised tax planning."
+- q: What is the 30% ruling in the Netherlands?
+  a: The 30% ruling is a Dutch tax benefit for highly skilled migrants recruited from abroad. It allows your employer to pay up to 30% of your gross salary as a tax-free allowance, intended to compensate for the additional costs of relocating to and living in the Netherlands. This effectively reduces your taxable income by 30%, resulting in significant tax savings.
+- q: What is the minimum salary for the 30% ruling in 2026?
+  a: 'In 2026, the minimum taxable salary (after applying the 30% reduction) is EUR 46,107 per year for standard applicants aged 30 and over. For employees under 30 who hold a qualifying master''s degree, the reduced threshold is EUR 35,048. Scientific researchers at designated institutions face no minimum threshold. These figures are adjusted annually by the Belastingdienst. To find the required gross salary, divide the taxable threshold by 0.7: EUR 46,107 / 0.7 = approximately EUR 65,867 gross.'
+- q: What percentage is the 30% ruling in each year?
+  a: 'For applicants who started their ruling on or after 1 January 2024, the tax-free percentage is not a flat 30% for the full five years. It steps down in three phases: 30% for the first 20 months, 20% for months 21 to 40, and 10% for the final 20 months (months 41 to 60). This gives an effective average of 20% over the full five-year period. Expats who had an active ruling before 1 January 2024 may be protected by transitional rules that preserve the original 30% rate.'
+- q: Does the 30% ruling apply to Box 3 wealth tax?
+  a: Yes, indirectly and very favourably. Holders of the 30% ruling can elect partial non-resident taxpayer status, which means they are exempt from Dutch Box 3 wealth tax on foreign savings and investments. Only Dutch real estate is included in their Box 3 assessment. Foreign bank accounts, share portfolios, and savings held abroad are entirely outside the Dutch tax net for the duration of the ruling. This can be worth thousands of euros per year for expats with meaningful savings or investments at home.
+- q: What happens to the 30% ruling if I get divorced?
+  a: Divorce does not automatically end your 30% ruling. The ruling is tied to the employment relationship, not your personal circumstances. However, if your salary drops below the minimum threshold as part of a divorce settlement (for example, due to reduced hours or a career change), the ruling can lapse. Your ex-partner's 30% ruling status is entirely separate and will depend on whether they hold their own ruling in their own name through their own employer.
+- q: Can I still get the 30% ruling if I change employers?
+  a: Yes. You can transfer the 30% ruling to a new employer, provided there is no gap longer than 3 months between jobs and your new employer submits a fresh application within 4 months of your new start date. The remaining duration of your original 5-year period carries over — it does not restart. Your new salary must also still meet the current year's minimum threshold.
+- q: How long does the 30% ruling last?
+  a: The 30% ruling applies for a maximum of 5 years (60 months). This was reduced from 8 years in 2019. Time previously spent living or working in the Netherlands may be deducted from this 5-year period. For applicants from 1 January 2024, the benefit also steps down from 30% to 20% to 10% across the five years. Transitional rules may apply if your ruling predates 2024.
+- q: Can I apply for the 30% ruling if I am already living in the Netherlands?
+  a: No. One of the key requirements is that you must be recruited or transferred from abroad. Specifically, you must have been living more than 150 kilometres from the Dutch border for at least 16 of the 24 months before your Dutch employment started. If you were already living in the Netherlands when you were hired, you do not qualify.
+- q: What happens to the 30% ruling if I leave and return to the Netherlands?
+  a: If you leave the Netherlands and return, you may still be eligible for the remaining duration of your original 30% ruling period, provided you return within the validity window and meet all other conditions. However, each case is assessed individually by the Belastingdienst. Breaks in residence and employment can complicate the situation, so consult a tax advisor before making decisions.
+- q: Should I hire a tax advisor for the 30% ruling?
+  a: While it is possible to handle the 30% ruling application through your employer's HR department, hiring a tax advisor who specialises in expat taxation is strongly recommended if your situation involves income from multiple countries, a partner who also works, investment income, or real estate abroad. A good tax advisor typically costs EUR 150-500 for an initial consultation and can save you thousands in optimised tax planning.
+schema_type: Article
 ---
 
 I still remember the look on my face when I first saw my Dutch payslip and realised how much of my salary was going to the Belastingdienst. If only I had known about the 30% ruling sooner. Over the past decade, I have helped dozens of expat clients manage this tax benefit -- and I have watched the rules change more times than I can count. This guide breaks down everything you need to know about the 30% ruling in 2026: who qualifies, how to apply, what has changed, and how to avoid the mistakes I see people make every year.

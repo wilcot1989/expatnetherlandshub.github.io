@@ -1,38 +1,48 @@
 ---
-title: "Housing Discrimination Netherlands: Know Your Rights"
-date: 2026-05-24T10:00:00+01:00
-lastmod: 2026-04-23T10:00:00+01:00
-description: "Facing housing discrimination as an expat in the Netherlands? Know your rights on IBAN rejection, nationality-based refusals, and how to report it."
-categories: ["legal"]
-tags: ["housing discrimination", "rental rights", "IBAN discrimination", "expat rights"]
-keywords: ["housing discrimination netherlands", "rental discrimination expats", "IBAN discrimination netherlands", "report discrimination netherlands"]
+title: 'Housing Discrimination Netherlands: Know Your Rights'
+date: 2026-05-24 10:00:00+01:00
+lastmod: 2026-04-23 10:00:00+01:00
+description: Facing housing discrimination as an expat in the Netherlands? Know your rights on IBAN rejection, nationality-based refusals, and how to report it.
+categories:
+- legal
+tags:
+- housing discrimination
+- rental rights
+- IBAN discrimination
+- expat rights
+keywords:
+- housing discrimination netherlands
+- rental discrimination expats
+- IBAN discrimination netherlands
+- report discrimination netherlands
 affiliate: true
 products:
-  - name: "Expatax"
-    url: "https://www.expatax.nl/"
-    price: "0.00"
-  - name: "Blue Umbrella"
-    url: "https://www.blueumbrella.nl/"
-    price: "0.00"
-  - name: "IND"
-    url: "https://ind.nl/en"
-    price: "0.00"
-author: "Sarah van den Berg"
-author_bio: "Expat coach and relocation specialist. Half Dutch, half British, living in the Netherlands for over 10 years."
-featured_image: "/images/categories/legal.svg"
+- name: Expatax
+  url: https://www.expatax.nl/
+  price: '0.00'
+- name: Blue Umbrella
+  url: https://www.blueumbrella.nl/
+  price: '0.00'
+- name: IND
+  url: https://ind.nl/en
+  price: '0.00'
+author: Sarah van den Berg
+author_bio: Expat coach and relocation specialist. Half Dutch, half British, living in the Netherlands for over 10 years.
+featured_image: /images/categories/legal.svg
 faq:
-  - q: "Is it legal for a Dutch landlord to refuse a tenant because of their nationality?"
-    a: "No. Refusing to rent to someone because of their nationality is prohibited under the Wet gelijke behandeling op grond van nationaliteit and the broader Equal Treatment Act (Algemene wet gelijke behandeling). A landlord who explicitly states 'no foreigners', 'Dutch only', or 'no internationals' in a listing or during a viewing is acting unlawfully. You can report this to Meldpunt Discriminatie Regio Amsterdam (or the equivalent in your region), to the Antidiscriminatievoorziening (ADV) in your municipality, or file a complaint with the College voor de Rechten van de Mens. The College can issue a binding opinion, and if the matter goes to court, a discriminating landlord can face significant liability."
-  - q: "Can a landlord legally refuse to accept my foreign IBAN for rent payments?"
-    a: "This is a grey area, but the short answer is: usually no, and often it is discrimination. Under EU SEPA regulation, landlords in the Netherlands are required to accept IBAN accounts from all EU/EEA member states for payment purposes. Refusing a German, Belgian, or French IBAN is therefore a violation of EU law. Non-EU IBANs (UK, US, etc.) fall outside SEPA rules, which is why getting a Dutch or EU bank account shortly after arrival is strongly advisable. If you are refused because of a foreign EU IBAN, you can report this to the Autoriteit Consument en Markt (ACM) as well as file a discrimination complaint. Switching to a Dutch bank account — even a basic one — removes this barrier quickly."
-  - q: "What is the College voor de Rechten van de Mens and what can it do?"
-    a: "The College voor de Rechten van de Mens (Netherlands Institute for Human Rights) is an independent government body that assesses whether discrimination has occurred. You can file a free complaint online or by post. The College investigates your case, can call parties in for a hearing, and issues a formal opinion stating whether discrimination took place. While a College opinion is not legally binding in the way a court verdict is, it carries significant weight — landlords, estate agents, and housing corporations take it seriously. A finding of discrimination by the College can also be used as evidence if you decide to pursue the matter in court. The process is free and available in Dutch or with assistance in English."
-  - q: "A rental listing said 'no internationals' or required a Dutch guarantor. What can I do?"
-    a: "Save a screenshot or photograph of the listing immediately — listings can be deleted quickly once a complaint is filed. Then report it to your regional Antidiscriminatievoorziening (ADV) or to the College voor de Rechten van de Mens. You can also report directly to the housing platform where the listing appeared — Funda, Kamernet, Pararius, and others have discrimination reporting mechanisms. Include the URL, date, the exact text of the discriminatory clause, and your personal details. You do not need to prove intent; the discriminatory phrasing itself is sufficient to open a complaint. Your complaint helps build a pattern that regulators use to take broader enforcement action."
-  - q: "Does the 30% ruling count as income for rental purposes?"
-    a: "Legally speaking, the 30% ruling is a tax facility — it does not increase your gross salary, it reduces the amount you are taxed on. Some landlords and rental agencies try to calculate affordability only on your net taxable salary after the ruling is applied, which can make your income appear significantly lower than it really is. This practice is not necessarily illegal, but if an agency applies a rule that systematically disadvantages foreign workers compared to Dutch residents, it can constitute indirect discrimination. If you encounter this, ask the agency or landlord to confirm in writing how they are calculating income. Document everything and consult the Juridisch Loket if you believe the approach is being used to exclude you specifically because of your expat status."
-  - q: "How long does a discrimination complaint take to resolve?"
-    a: "Timelines vary by route. Filing a complaint with your local Antidiscriminatievoorziening (ADV) is the fastest first step — they usually make initial contact within a few days and can offer mediation or advice within a few weeks. A formal procedure at the College voor de Rechten van de Mens takes longer: from filing to a final written opinion, expect roughly three to six months. If you pursue the matter through the courts (rechtbank), the timeline stretches further — often a year or more. Most cases do not need to go that far. The combination of an ADV complaint and a College procedure is usually enough to achieve an apology, compensation, or a change in the landlord or agent's behaviour."
+- q: Is it legal for a Dutch landlord to refuse a tenant because of their nationality?
+  a: No. Refusing to rent to someone because of their nationality is prohibited under the Wet gelijke behandeling op grond van nationaliteit and the broader Equal Treatment Act (Algemene wet gelijke behandeling). A landlord who explicitly states 'no foreigners', 'Dutch only', or 'no internationals' in a listing or during a viewing is acting unlawfully. You can report this to Meldpunt Discriminatie Regio Amsterdam (or the equivalent in your region), to the Antidiscriminatievoorziening (ADV) in your municipality, or file a complaint with the College voor de Rechten van de Mens. The College can issue a binding opinion, and if the matter goes to court, a discriminating landlord can face significant liability.
+- q: Can a landlord legally refuse to accept my foreign IBAN for rent payments?
+  a: 'This is a grey area, but the short answer is: usually no, and often it is discrimination. Under EU SEPA regulation, landlords in the Netherlands are required to accept IBAN accounts from all EU/EEA member states for payment purposes. Refusing a German, Belgian, or French IBAN is therefore a violation of EU law. Non-EU IBANs (UK, US, etc.) fall outside SEPA rules, which is why getting a Dutch or EU bank account shortly after arrival is strongly advisable. If you are refused because of a foreign EU IBAN, you can report this to the Autoriteit Consument en Markt (ACM) as well as file a discrimination complaint. Switching to a Dutch bank account — even a basic one — removes this barrier quickly.'
+- q: What is the College voor de Rechten van de Mens and what can it do?
+  a: The College voor de Rechten van de Mens (Netherlands Institute for Human Rights) is an independent government body that assesses whether discrimination has occurred. You can file a free complaint online or by post. The College investigates your case, can call parties in for a hearing, and issues a formal opinion stating whether discrimination took place. While a College opinion is not legally binding in the way a court verdict is, it carries significant weight — landlords, estate agents, and housing corporations take it seriously. A finding of discrimination by the College can also be used as evidence if you decide to pursue the matter in court. The process is free and available in Dutch or with assistance in English.
+- q: A rental listing said 'no internationals' or required a Dutch guarantor. What can I do?
+  a: Save a screenshot or photograph of the listing immediately — listings can be deleted quickly once a complaint is filed. Then report it to your regional Antidiscriminatievoorziening (ADV) or to the College voor de Rechten van de Mens. You can also report directly to the housing platform where the listing appeared — Funda, Kamernet, Pararius, and others have discrimination reporting mechanisms. Include the URL, date, the exact text of the discriminatory clause, and your personal details. You do not need to prove intent; the discriminatory phrasing itself is sufficient to open a complaint. Your complaint helps build a pattern that regulators use to take broader enforcement action.
+- q: Does the 30% ruling count as income for rental purposes?
+  a: Legally speaking, the 30% ruling is a tax facility — it does not increase your gross salary, it reduces the amount you are taxed on. Some landlords and rental agencies try to calculate affordability only on your net taxable salary after the ruling is applied, which can make your income appear significantly lower than it really is. This practice is not necessarily illegal, but if an agency applies a rule that systematically disadvantages foreign workers compared to Dutch residents, it can constitute indirect discrimination. If you encounter this, ask the agency or landlord to confirm in writing how they are calculating income. Document everything and consult the Juridisch Loket if you believe the approach is being used to exclude you specifically because of your expat status.
+- q: How long does a discrimination complaint take to resolve?
+  a: 'Timelines vary by route. Filing a complaint with your local Antidiscriminatievoorziening (ADV) is the fastest first step — they usually make initial contact within a few days and can offer mediation or advice within a few weeks. A formal procedure at the College voor de Rechten van de Mens takes longer: from filing to a final written opinion, expect roughly three to six months. If you pursue the matter through the courts (rechtbank), the timeline stretches further — often a year or more. Most cases do not need to go that far. The combination of an ADV complaint and a College procedure is usually enough to achieve an apology, compensation, or a change in the landlord or agent''s behaviour.'
+schema_type: Article
 ---
 
 The first time I saw a rental listing in Amsterdam with the words "only suitable for Dutch nationals" in the description, I assumed it was a mistake. It was 2014, I had just arrived, and I genuinely could not believe a landlord would put that in writing so openly. I took a screenshot and sent it to my relocation contact. She was not surprised. "It happens all the time," she told me. "Most people just move on."

@@ -1,37 +1,48 @@
 ---
-title: "Dutch Driving Licence: CBR Guide for Expats 2026"
-slug: "dutch-driving-license-cbr-guide-2026"
-date: 2026-05-16T10:00:00+01:00
-lastmod: 2026-04-23T10:00:00+01:00
-author: "Sarah van den Berg"
-author_bio: "Expat coach and relocation specialist. Half Dutch, half British, living in the Netherlands for over 10 years."
-categories: ["daily-life"]
-type: "guide"
-featured_image: "/images/categories/daily-life.svg"
+title: 'Dutch Driving Licence: CBR Guide for Expats 2026'
+slug: dutch-driving-license-cbr-guide-2026
+date: 2026-05-16 10:00:00+01:00
+lastmod: 2026-04-23 10:00:00+01:00
+author: Sarah van den Berg
+author_bio: Expat coach and relocation specialist. Half Dutch, half British, living in the Netherlands for over 10 years.
+categories:
+- daily-life
+type: guide
+featured_image: /images/categories/daily-life.svg
 affiliate: true
 products:
-  - name: "Swapfiets"
-    url: "https://swapfiets.nl/"
-    price: "16.90"
-  - name: "NS"
-    url: "https://www.ns.nl/"
-    price: "0.00"
-description: "How to get a Dutch driving licence as an expat in 2026. Step-by-step CBR process: theory exam, driving lessons, practical test, costs, and timelines."
-tags: ["driving license", "rijbewijs", "CBR", "driving test", "theory exam"]
-keywords: ["dutch driving license expat", "CBR driving test netherlands", "get driving license netherlands", "rijbewijs expat 2026"]
+- name: Swapfiets
+  url: https://swapfiets.nl/
+  price: '16.90'
+- name: NS
+  url: https://www.ns.nl/
+  price: '0.00'
+description: 'How to get a Dutch driving licence as an expat in 2026. Step-by-step CBR process: theory exam, driving lessons, practical test, costs, and timelines.'
+tags:
+- driving license
+- rijbewijs
+- CBR
+- driving test
+- theory exam
+keywords:
+- dutch driving license expat
+- CBR driving test netherlands
+- get driving license netherlands
+- rijbewijs expat 2026
 faq:
-  - q: "Which countries must get a Dutch driving licence from scratch?"
-    a: "If your country does not have an exchange agreement with the Netherlands, you must pass the full CBR process. Countries without agreements include India, China, Brazil, Indonesia, Philippines, Thailand, Turkey, Russia, Mexico, Egypt, and Nigeria, among others. Always verify your country's status on the RDW website before assuming."
-  - q: "How much does it cost to get a Dutch driving licence from scratch?"
-    a: "The total cost ranges from roughly €2,000 to €3,500. This includes the health declaration (€41.50), theory exam (€39.50), driving lessons (typically 30–40 lessons at €50–70 each), and the practical exam (€130.50). The number of lessons varies significantly depending on your prior experience."
-  - q: "How long does it take to get a Dutch driving licence from scratch?"
-    a: "Most expats complete the process in 3 to 6 months. This includes a few weeks to prepare for the theory exam, the time between booking and sitting the exam (usually 2–4 weeks), lesson time, and then the wait for a practical exam slot. Starting promptly after your 185-day window begins is advisable."
-  - q: "Is the CBR theory exam available in English?"
-    a: "Yes. The CBR theory exam is available in Dutch, English, and several other languages including Turkish and Arabic. You can select your preferred language when booking on the CBR website. The English version is identical in content to the Dutch one."
-  - q: "How do I find an English-speaking driving school in the Netherlands?"
-    a: "Search for 'rijschool English' in your city, or check platforms like Rijschool Vind or Autorijschool Gids. Ask driving schools specifically whether their instructors teach in English and have experience with expats. Cities like Amsterdam, Rotterdam, The Hague, Eindhoven, and Utrecht have multiple English-speaking schools."
-  - q: "Can I drive on my foreign licence while going through the CBR process?"
-    a: "Yes, for the first 185 days after registering at your Dutch municipality. After that point, you must hold a valid Dutch licence. The CBR process typically takes 3–6 months, so you should start as early as possible to avoid a gap where you cannot legally drive."
+- q: Which countries must get a Dutch driving licence from scratch?
+  a: If your country does not have an exchange agreement with the Netherlands, you must pass the full CBR process. Countries without agreements include India, China, Brazil, Indonesia, Philippines, Thailand, Turkey, Russia, Mexico, Egypt, and Nigeria, among others. Always verify your country's status on the RDW website before assuming.
+- q: How much does it cost to get a Dutch driving licence from scratch?
+  a: The total cost ranges from roughly €2,000 to €3,500. This includes the health declaration (€41.50), theory exam (€39.50), driving lessons (typically 30–40 lessons at €50–70 each), and the practical exam (€130.50). The number of lessons varies significantly depending on your prior experience.
+- q: How long does it take to get a Dutch driving licence from scratch?
+  a: Most expats complete the process in 3 to 6 months. This includes a few weeks to prepare for the theory exam, the time between booking and sitting the exam (usually 2–4 weeks), lesson time, and then the wait for a practical exam slot. Starting promptly after your 185-day window begins is advisable.
+- q: Is the CBR theory exam available in English?
+  a: Yes. The CBR theory exam is available in Dutch, English, and several other languages including Turkish and Arabic. You can select your preferred language when booking on the CBR website. The English version is identical in content to the Dutch one.
+- q: How do I find an English-speaking driving school in the Netherlands?
+  a: Search for 'rijschool English' in your city, or check platforms like Rijschool Vind or Autorijschool Gids. Ask driving schools specifically whether their instructors teach in English and have experience with expats. Cities like Amsterdam, Rotterdam, The Hague, Eindhoven, and Utrecht have multiple English-speaking schools.
+- q: Can I drive on my foreign licence while going through the CBR process?
+  a: Yes, for the first 185 days after registering at your Dutch municipality. After that point, you must hold a valid Dutch licence. The CBR process typically takes 3–6 months, so you should start as early as possible to avoid a gap where you cannot legally drive.
+schema_type: Article
 ---
 
 A colleague of mine moved here from Mumbai with fifteen years of driving experience. She could handle a car in Indian city traffic — which, trust me, is an entirely different sport compared to Dutch motorways — and assumed that getting a Dutch licence would be a formality. A quick test, a stamp, done.

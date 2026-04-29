@@ -1,32 +1,48 @@
 ---
-title: "Dutch Food Culture Explained for Expats 2026"
-date: 2026-03-18T10:00:00+01:00
-lastmod: 2026-04-23T10:00:00+01:00
-description: "An honest guide to Dutch food culture for expats. From hagelslag and stamppot to Albert Heijn vs Jumbo, borrels, and why lunch is a broodje at your desk."
-categories: ["daily-life"]
-tags: ["dutch food culture", "dutch food expat", "stamppot", "hagelslag", "dutch supermarkets", "borrel", "bitterballen", "dutch meal times"]
-keywords: ["dutch food culture expats", "dutch food guide 2026", "what do dutch people eat", "dutch supermarkets comparison", "dutch meal times", "hagelslag netherlands"]
+title: Dutch Food Culture Explained for Expats 2026
+date: 2026-03-18 10:00:00+01:00
+lastmod: 2026-04-23 10:00:00+01:00
+description: An honest guide to Dutch food culture for expats. From hagelslag and stamppot to Albert Heijn vs Jumbo, borrels, and why lunch is a broodje at your desk.
+categories:
+- daily-life
+tags:
+- dutch food culture
+- dutch food expat
+- stamppot
+- hagelslag
+- dutch supermarkets
+- borrel
+- bitterballen
+- dutch meal times
+keywords:
+- dutch food culture expats
+- dutch food guide 2026
+- what do dutch people eat
+- dutch supermarkets comparison
+- dutch meal times
+- hagelslag netherlands
 affiliate: true
 products:
-  - name: "KPN"
-    url: "https://www.kpn.com/"
-    price: "0.00"
-author: "Sarah van den Berg"
-author_bio: "Expat coach and relocation specialist. Half Dutch, half British, living in the Netherlands for over 10 years."
-featured_image: "/images/categories/daily-life.svg"
+- name: KPN
+  url: https://www.kpn.com/
+  price: '0.00'
+author: Sarah van den Berg
+author_bio: Expat coach and relocation specialist. Half Dutch, half British, living in the Netherlands for over 10 years.
+featured_image: /images/categories/daily-life.svg
 faq:
-  - q: "What is typical Dutch food?"
-    a: "Dutch cuisine is practical rather than elaborate. The traditional staples are stamppot (mashed potato mixed with vegetables like kale or sauerkraut, served with rookworst sausage), erwtensoep (thick pea soup), broodje (bread-based lunches), herring (haring), cheese (especially Gouda and Edam), and a wide variety of baked goods including stroopwafels and speculaas. The traditional Dutch dinner follows the AVG formula — aardappelen (potatoes), vlees (meat), and groente (vegetables). Modern Dutch cooking has become significantly more varied, and cities like Amsterdam and Rotterdam have excellent international restaurant scenes."
-  - q: "What time do Dutch people eat dinner?"
-    a: "Early. Dutch dinner is typically eaten between 5:30pm and 6:30pm. This surprises many expats who are accustomed to later meal times — in Southern Europe, dinner before 9pm is unusual. The early dinner tradition is deeply embedded in Dutch culture and linked to the historical structure of the working day, with workers returning home on bicycles in the late afternoon. Children's school days often end at 3pm, and the family dinner at 6pm is very common. Restaurants in the Netherlands typically open for dinner from 5:30pm or 6pm and may stop taking orders by 9pm in smaller cities."
-  - q: "Is hagelslag really sprinkles on bread?"
-    a: "Yes, completely seriously. Hagelslag — chocolate sprinkles applied to a layer of butter on bread — is a genuine Dutch breakfast and lunch staple that has been eaten since the 1930s. It is not considered a treat or something unusual. Dutch children grow up eating hagelslag on bread, and many adults continue eating it well into their forties and beyond. There are many varieties: pure (dark chocolate), melk (milk chocolate), wit (white chocolate), and fruit flavours. It is also available in flaked chocolate (vlokken) varieties. Expats typically either find it charming or bewildering, but it is entirely worth trying."
-  - q: "What is a borrel?"
-    a: "A borrel is a Dutch social gathering centred around drinks and snacks, usually in the late afternoon or early evening (roughly 5-7pm). The word itself refers to both the gathering and a glass of Dutch gin (jenever) — though borrels now typically involve beer, wine, or soft drinks. The borrel is a fundamental Dutch social institution: it happens after work on Fridays, after meetings, at birthdays, and at any occasion where people want to socialise informally. The snacks served at a borrel — collectively called borrelhapjes — are the main event for many people. Bitterballen (deep-fried crispy balls filled with beef ragout) are the quintessential borrel snack."
-  - q: "Albert Heijn or Jumbo — which supermarket is better?"
-    a: "Albert Heijn (AH) and Jumbo are the two dominant Dutch supermarkets, together accounting for roughly 60% of the market. Albert Heijn generally has more locations (especially in cities), a wider premium own-brand range (AH Excellent), better prepared foods and hot food counters, and a more urban-focused feel. Jumbo is typically slightly cheaper, has larger stores with more variety, and has a generally family-friendly reputation. Most expats shop primarily at Albert Heijn for convenience, particularly in cities. Lidl and Aldi offer significantly lower prices on basics. For specialty and international food, Marqt, Dirk, and ethnic supermarkets fill gaps that AH and Jumbo do not."
-  - q: "Is tipping expected in the Netherlands?"
-    a: "Tipping in the Netherlands is appreciated but not obligatory or expected to the same degree as in the US or UK. The standard approach: round up to a convenient number (e.g., if the bill is EUR 43, leave EUR 47 or EUR 50). For good service at a restaurant, 10% is a generous tip. For bad service, tipping is not expected. At cafés and bars, tipping is uncommon for drinks. Delivery drivers and hairdressers are typically tipped a small amount. The Netherlands does not have the tipping culture that makes service industry wages dependent on gratuities — staff are paid decent wages and tips are genuinely a bonus rather than a necessity."
+- q: What is typical Dutch food?
+  a: Dutch cuisine is practical rather than elaborate. The traditional staples are stamppot (mashed potato mixed with vegetables like kale or sauerkraut, served with rookworst sausage), erwtensoep (thick pea soup), broodje (bread-based lunches), herring (haring), cheese (especially Gouda and Edam), and a wide variety of baked goods including stroopwafels and speculaas. The traditional Dutch dinner follows the AVG formula — aardappelen (potatoes), vlees (meat), and groente (vegetables). Modern Dutch cooking has become significantly more varied, and cities like Amsterdam and Rotterdam have excellent international restaurant scenes.
+- q: What time do Dutch people eat dinner?
+  a: Early. Dutch dinner is typically eaten between 5:30pm and 6:30pm. This surprises many expats who are accustomed to later meal times — in Southern Europe, dinner before 9pm is unusual. The early dinner tradition is deeply embedded in Dutch culture and linked to the historical structure of the working day, with workers returning home on bicycles in the late afternoon. Children's school days often end at 3pm, and the family dinner at 6pm is very common. Restaurants in the Netherlands typically open for dinner from 5:30pm or 6pm and may stop taking orders by 9pm in smaller cities.
+- q: Is hagelslag really sprinkles on bread?
+  a: 'Yes, completely seriously. Hagelslag — chocolate sprinkles applied to a layer of butter on bread — is a genuine Dutch breakfast and lunch staple that has been eaten since the 1930s. It is not considered a treat or something unusual. Dutch children grow up eating hagelslag on bread, and many adults continue eating it well into their forties and beyond. There are many varieties: pure (dark chocolate), melk (milk chocolate), wit (white chocolate), and fruit flavours. It is also available in flaked chocolate (vlokken) varieties. Expats typically either find it charming or bewildering, but it is entirely worth trying.'
+- q: What is a borrel?
+  a: 'A borrel is a Dutch social gathering centred around drinks and snacks, usually in the late afternoon or early evening (roughly 5-7pm). The word itself refers to both the gathering and a glass of Dutch gin (jenever) — though borrels now typically involve beer, wine, or soft drinks. The borrel is a fundamental Dutch social institution: it happens after work on Fridays, after meetings, at birthdays, and at any occasion where people want to socialise informally. The snacks served at a borrel — collectively called borrelhapjes — are the main event for many people. Bitterballen (deep-fried crispy balls filled with beef ragout) are the quintessential borrel snack.'
+- q: Albert Heijn or Jumbo — which supermarket is better?
+  a: Albert Heijn (AH) and Jumbo are the two dominant Dutch supermarkets, together accounting for roughly 60% of the market. Albert Heijn generally has more locations (especially in cities), a wider premium own-brand range (AH Excellent), better prepared foods and hot food counters, and a more urban-focused feel. Jumbo is typically slightly cheaper, has larger stores with more variety, and has a generally family-friendly reputation. Most expats shop primarily at Albert Heijn for convenience, particularly in cities. Lidl and Aldi offer significantly lower prices on basics. For specialty and international food, Marqt, Dirk, and ethnic supermarkets fill gaps that AH and Jumbo do not.
+- q: Is tipping expected in the Netherlands?
+  a: 'Tipping in the Netherlands is appreciated but not obligatory or expected to the same degree as in the US or UK. The standard approach: round up to a convenient number (e.g., if the bill is EUR 43, leave EUR 47 or EUR 50). For good service at a restaurant, 10% is a generous tip. For bad service, tipping is not expected. At cafés and bars, tipping is uncommon for drinks. Delivery drivers and hairdressers are typically tipped a small amount. The Netherlands does not have the tipping culture that makes service industry wages dependent on gratuities — staff are paid decent wages and tips are genuinely a bonus rather than a necessity.'
+schema_type: Article
 ---
 
 One of the first things that strikes most expats in the Netherlands is the apparent lack of a food culture. The Dutch are not, by reputation, a nation obsessed with cuisine. There is no Dutch equivalent of the Italian culinary identity, the French gastronomic tradition, or the Spanish obsession with meal time as a social institution. My first Dutch lunch was bread with cheese. My second Dutch lunch was also bread with cheese. My third Dutch lunch, I was starting to worry.

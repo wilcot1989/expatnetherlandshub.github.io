@@ -1,38 +1,49 @@
 ---
-title: "Best Expat Insurance in the Netherlands 2026: Complete Guide"
-date: 2026-03-06T10:00:00+01:00
-lastmod: 2026-04-23T10:00:00+01:00
-description: "Complete guide to expat insurance in the Netherlands. Health insurance, liability, home contents, and international coverage options for expats in 2026."
-categories: ["insurance"]
-tags: ["expat insurance", "health insurance Netherlands", "zorgverzekering", "liability insurance", "expat life"]
-keywords: ["expat insurance Netherlands", "health insurance expats NL", "best insurance for expats", "zorgverzekering international"]
+title: 'Best Expat Insurance in the Netherlands 2026: Complete Guide'
+date: 2026-03-06 10:00:00+01:00
+lastmod: 2026-04-23 10:00:00+01:00
+description: Complete guide to expat insurance in the Netherlands. Health insurance, liability, home contents, and international coverage options for expats in 2026.
+categories:
+- insurance
+tags:
+- expat insurance
+- health insurance Netherlands
+- zorgverzekering
+- liability insurance
+- expat life
+keywords:
+- expat insurance Netherlands
+- health insurance expats NL
+- best insurance for expats
+- zorgverzekering international
 affiliate: true
 products:
-  - name: "SafetyWing"
-    url: "https://go.expatnetherlandshub.com/safetywing?ref=/guides/health/best-expat-insurance-netherlands-2026/"
-    price: "45.08"
-  - name: "CZ"
-    url: "https://www.cz.nl/"
-    price: "0.00"
-  - name: "Zilveren Kruis"
-    url: "https://www.zilverenkruis.nl/"
-    price: "0.00"
-author: "Sarah van den Berg"
-author_bio: "Expat coach and relocation specialist. Half Dutch, half British, living in the Netherlands for over 10 years."
-featured_image: "/images/featured/best-expat-insurance-netherlands-2026.webp"
+- name: SafetyWing
+  url: https://go.expatnetherlandshub.com/safetywing?ref=/guides/health/best-expat-insurance-netherlands-2026/
+  price: '45.08'
+- name: CZ
+  url: https://www.cz.nl/
+  price: '0.00'
+- name: Zilveren Kruis
+  url: https://www.zilverenkruis.nl/
+  price: '0.00'
+author: Sarah van den Berg
+author_bio: Expat coach and relocation specialist. Half Dutch, half British, living in the Netherlands for over 10 years.
+featured_image: /images/featured/best-expat-insurance-netherlands-2026.webp
 faq:
-  - q: "Is health insurance mandatory for expats in the Netherlands?"
-    a: "Yes, if you live and work in the Netherlands, you are legally required to have Dutch basic health insurance (basisverzekering) within 4 months of arriving. This applies to employees, self-employed workers, and their dependents. Students from EU countries may be exempt if they have a European Health Insurance Card (EHIC)."
-  - q: "How much does health insurance cost for expats in the Netherlands?"
-    a: "Basic health insurance (basisverzekering) costs €140-€175 per month in 2026 depending on the insurer. On top of that, you pay a mandatory deductible (eigen risico) of €385 per year. Supplementary insurance costs €10-€80 per month extra. Low-income earners may qualify for healthcare allowance (zorgtoeslag) of up to approximately €130/month."
-  - q: "Can I keep my international health insurance instead of Dutch insurance?"
-    a: "Generally no. If you work in the Netherlands (employed or self-employed), you must take out Dutch basic health insurance. Exceptions include posted workers (detachering) from EU countries and some international organization employees. Students with an EHIC may also be exempt."
-  - q: "What does Dutch basic health insurance cover?"
-    a: "Basisverzekering covers GP visits, hospital care, prescription medication, mental health care, maternity care, dental care for children under 18, and ambulance transport. It does NOT cover dental care for adults, physiotherapy (first sessions), glasses/contact lenses, or alternative medicine. You need supplementary insurance for these."
-  - q: "Do I need liability insurance (aansprakelijkheidsverzekering) in the Netherlands?"
-    a: "While not legally required, liability insurance is considered a must in the Netherlands. It covers damage you accidentally cause to others or their property. Premiums start at just €3-€5 per month and cover damages up to €1.25-€2.5 million. Most Dutch residents have this insurance."
-  - q: "What insurance do I need as a freelancer/ZZP in the Netherlands?"
-    a: "As a ZZP (freelancer), you need: basic health insurance (mandatory), liability insurance (strongly recommended), professional liability insurance (beroepsaansprakelijkheidsverzekering), and disability insurance (arbeidsongeschiktheidsverzekering). Disability insurance is the most expensive but critical since ZZPers have no employer safety net."
+- q: Is health insurance mandatory for expats in the Netherlands?
+  a: Yes, if you live and work in the Netherlands, you are legally required to have Dutch basic health insurance (basisverzekering) within 4 months of arriving. This applies to employees, self-employed workers, and their dependents. Students from EU countries may be exempt if they have a European Health Insurance Card (EHIC).
+- q: How much does health insurance cost for expats in the Netherlands?
+  a: Basic health insurance (basisverzekering) costs €140-€175 per month in 2026 depending on the insurer. On top of that, you pay a mandatory deductible (eigen risico) of €385 per year. Supplementary insurance costs €10-€80 per month extra. Low-income earners may qualify for healthcare allowance (zorgtoeslag) of up to approximately €130/month.
+- q: Can I keep my international health insurance instead of Dutch insurance?
+  a: Generally no. If you work in the Netherlands (employed or self-employed), you must take out Dutch basic health insurance. Exceptions include posted workers (detachering) from EU countries and some international organization employees. Students with an EHIC may also be exempt.
+- q: What does Dutch basic health insurance cover?
+  a: Basisverzekering covers GP visits, hospital care, prescription medication, mental health care, maternity care, dental care for children under 18, and ambulance transport. It does NOT cover dental care for adults, physiotherapy (first sessions), glasses/contact lenses, or alternative medicine. You need supplementary insurance for these.
+- q: Do I need liability insurance (aansprakelijkheidsverzekering) in the Netherlands?
+  a: While not legally required, liability insurance is considered a must in the Netherlands. It covers damage you accidentally cause to others or their property. Premiums start at just €3-€5 per month and cover damages up to €1.25-€2.5 million. Most Dutch residents have this insurance.
+- q: What insurance do I need as a freelancer/ZZP in the Netherlands?
+  a: 'As a ZZP (freelancer), you need: basic health insurance (mandatory), liability insurance (strongly recommended), professional liability insurance (beroepsaansprakelijkheidsverzekering), and disability insurance (arbeidsongeschiktheidsverzekering). Disability insurance is the most expensive but critical since ZZPers have no employer safety net.'
+schema_type: Article
 ---
 
 I learned about Dutch liability insurance the hard way -- my bicycle knocked over a parked scooter in my first month, and suddenly I owed someone several hundred euros. Turns out, nearly every Dutch person has a three-euro-per-month policy that would have covered it. That was just one of many insurance surprises in a system that works brilliantly once you understand it. Here is the full breakdown of every insurance you need as an expat, from the mandatory to the "technically optional but you really should."

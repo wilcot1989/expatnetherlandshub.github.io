@@ -1,35 +1,46 @@
 ---
-title: "Claiming Your Dutch Pension from Abroad: Step-by-Step Guide 2026"
-date: 2026-03-26T10:00:00+01:00
-lastmod: 2026-04-23T10:00:00+01:00
-description: "How to claim your Dutch pension from abroad. AOW application, occupational pension, small pension refunds, tax treaties and receiving payments via Wise."
-categories: ["finance"]
-tags: ["pension", "AOW", "retirement abroad", "SVB", "pension transfer"]
-keywords: ["claiming Dutch pension abroad", "Dutch pension UK", "AOW abroad", "Dutch pension after leaving Netherlands"]
+title: 'Claiming Your Dutch Pension from Abroad: Step-by-Step Guide 2026'
+date: 2026-03-26 10:00:00+01:00
+lastmod: 2026-04-23 10:00:00+01:00
+description: How to claim your Dutch pension from abroad. AOW application, occupational pension, small pension refunds, tax treaties and receiving payments via Wise.
+categories:
+- finance
+tags:
+- pension
+- AOW
+- retirement abroad
+- SVB
+- pension transfer
+keywords:
+- claiming Dutch pension abroad
+- Dutch pension UK
+- AOW abroad
+- Dutch pension after leaving Netherlands
 affiliate: true
-author: "Sarah van den Berg"
-author_bio: "Expat coach and writer at ExpatNetherlandsHub.com"
-featured_image: "/images/categories/finance.svg"
+author: Sarah van den Berg
+author_bio: Expat coach and writer at ExpatNetherlandsHub.com
+featured_image: /images/categories/finance.svg
 products:
-  - name: "Wise"
-    url: "https://go.expatnetherlandshub.com/wise?ref=/blog/claiming-dutch-pension-abroad-2026/"
-    price: "0.00"
-    tag: "Currency Transfer"
+- name: Wise
+  url: https://go.expatnetherlandshub.com/wise?ref=/blog/claiming-dutch-pension-abroad-2026/
+  price: '0.00'
+  tag: Currency Transfer
 faq:
-  - q: "Can I claim my Dutch AOW pension if I live abroad?"
-    a: "Yes. The Dutch AOW state pension is payable worldwide. There is no requirement to live in the Netherlands to receive it. You apply through the SVB (Sociale Verzekeringsbank) and can receive payments directly into a foreign bank account. The only thing that matters is how many years you were insured under Dutch social security — each full year of residence or employment in the Netherlands gives you 2% of the full AOW amount."
-  - q: "How much AOW pension do I build up per year in the Netherlands?"
-    a: "You accrue 2% of the full AOW amount for each year you were insured under Dutch social security (AOW-verzekerd). This means you need exactly 50 years of insurance to receive the full AOW pension. The full AOW for a single person in 2026 is approximately EUR 1,450 net per month. If you worked in the Netherlands for 10 years, you would receive 20% of that full amount — roughly EUR 290 net per month."
-  - q: "Is my Dutch pension taxed abroad or in the Netherlands?"
-    a: "It depends on the tax treaty between the Netherlands and your country of residence. For many countries including Germany, France, and most EU states, the Netherlands retains the right to tax AOW and occupational pension payments. For the UK, the Netherlands-UK tax treaty also generally allows the Netherlands to tax Dutch pensions. For the US, the rules are different and depend on the type of pension. You should always check the specific treaty and consult a cross-border tax advisor for your situation."
-  - q: "Can I get a lump sum for a small Dutch pension?"
-    a: "Yes, under Dutch law, pension funds are permitted to pay out small pensions as a lump sum if the annual amount is below EUR 600 (the 'afkoop kleine pensioenen' rule). This often happens automatically when you leave the Netherlands and your employment ends. If your pension is above this threshold, it remains in the fund until your retirement age. Some funds may also apply this rule if the pension value is below a higher threshold — check directly with your fund."
-  - q: "Can I access mijnpensioenoverzicht.nl from abroad?"
-    a: "Yes, but you need a DigiD to log in to mijnpensioenoverzicht.nl. If you no longer have a Dutch address, renewing or activating a DigiD can be complicated. The best approach is to contact the SVB and any pension funds directly by email or phone. Many Dutch pension fund websites also have English-language contact options, and they are legally required to provide your pension statement on request."
-  - q: "Can I use Wise to receive my Dutch pension abroad?"
-    a: "Yes, and for many expats it is the most cost-effective option. Wise gives you a local EUR account number (with IBAN) that the SVB and pension funds can pay into, plus the ability to convert and transfer in your local currency at mid-market exchange rates. This is particularly useful if you are living in the UK, US, Australia, or another non-euro country. You can set up a Wise account before you leave the Netherlands and use the same account details for all Dutch pension payments."
-  - q: "Can I voluntarily contribute to fill AOW gaps?"
-    a: "Yes. If you have gaps in your AOW build-up — years when you were not insured in the Netherlands — you can voluntarily continue your AOW insurance (vrijwillige verzekering AOW) through the SVB, under certain conditions. This option is typically available for people who move abroad after having been insured in the Netherlands and who want to maintain their pension accrual. The deadline to apply is generally within one year of moving abroad, so it is important to act quickly."
+- q: Can I claim my Dutch AOW pension if I live abroad?
+  a: Yes. The Dutch AOW state pension is payable worldwide. There is no requirement to live in the Netherlands to receive it. You apply through the SVB (Sociale Verzekeringsbank) and can receive payments directly into a foreign bank account. The only thing that matters is how many years you were insured under Dutch social security — each full year of residence or employment in the Netherlands gives you 2% of the full AOW amount.
+- q: How much AOW pension do I build up per year in the Netherlands?
+  a: You accrue 2% of the full AOW amount for each year you were insured under Dutch social security (AOW-verzekerd). This means you need exactly 50 years of insurance to receive the full AOW pension. The full AOW for a single person in 2026 is approximately EUR 1,450 net per month. If you worked in the Netherlands for 10 years, you would receive 20% of that full amount — roughly EUR 290 net per month.
+- q: Is my Dutch pension taxed abroad or in the Netherlands?
+  a: It depends on the tax treaty between the Netherlands and your country of residence. For many countries including Germany, France, and most EU states, the Netherlands retains the right to tax AOW and occupational pension payments. For the UK, the Netherlands-UK tax treaty also generally allows the Netherlands to tax Dutch pensions. For the US, the rules are different and depend on the type of pension. You should always check the specific treaty and consult a cross-border tax advisor for your situation.
+- q: Can I get a lump sum for a small Dutch pension?
+  a: Yes, under Dutch law, pension funds are permitted to pay out small pensions as a lump sum if the annual amount is below EUR 600 (the 'afkoop kleine pensioenen' rule). This often happens automatically when you leave the Netherlands and your employment ends. If your pension is above this threshold, it remains in the fund until your retirement age. Some funds may also apply this rule if the pension value is below a higher threshold — check directly with your fund.
+- q: Can I access mijnpensioenoverzicht.nl from abroad?
+  a: Yes, but you need a DigiD to log in to mijnpensioenoverzicht.nl. If you no longer have a Dutch address, renewing or activating a DigiD can be complicated. The best approach is to contact the SVB and any pension funds directly by email or phone. Many Dutch pension fund websites also have English-language contact options, and they are legally required to provide your pension statement on request.
+- q: Can I use Wise to receive my Dutch pension abroad?
+  a: Yes, and for many expats it is the most cost-effective option. Wise gives you a local EUR account number (with IBAN) that the SVB and pension funds can pay into, plus the ability to convert and transfer in your local currency at mid-market exchange rates. This is particularly useful if you are living in the UK, US, Australia, or another non-euro country. You can set up a Wise account before you leave the Netherlands and use the same account details for all Dutch pension payments.
+- q: Can I voluntarily contribute to fill AOW gaps?
+  a: Yes. If you have gaps in your AOW build-up — years when you were not insured in the Netherlands — you can voluntarily continue your AOW insurance (vrijwillige verzekering AOW) through the SVB, under certain conditions. This option is typically available for people who move abroad after having been insured in the Netherlands and who want to maintain their pension accrual. The deadline to apply is generally within one year of moving abroad, so it is important to act quickly.
+schema_type: Article
 ---
 
 You've worked in the Netherlands, built up pension rights, and now you're moving on. Can you still claim your Dutch pension? Yes — here's exactly how.

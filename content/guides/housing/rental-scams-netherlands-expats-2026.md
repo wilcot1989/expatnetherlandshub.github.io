@@ -1,38 +1,48 @@
 ---
-title: "Rental Scams Netherlands: How to Stay Safe 2026"
-date: 2026-05-12T10:00:00+01:00
-lastmod: 2026-04-23T10:00:00+01:00
-description: "The 8 most common rental scams targeting expats in the Netherlands — real examples, red flag checklists, and advice if you've been defrauded."
-categories: ["housing"]
-tags: ["rental scam", "housing fraud", "safety", "rental market"]
-keywords: ["rental scams netherlands", "housing scam amsterdam", "fake rental netherlands", "avoid rental fraud netherlands"]
+title: 'Rental Scams Netherlands: How to Stay Safe 2026'
+date: 2026-05-12 10:00:00+01:00
+lastmod: 2026-04-23 10:00:00+01:00
+description: The 8 most common rental scams targeting expats in the Netherlands — real examples, red flag checklists, and advice if you've been defrauded.
+categories:
+- housing
+tags:
+- rental scam
+- housing fraud
+- safety
+- rental market
+keywords:
+- rental scams netherlands
+- housing scam amsterdam
+- fake rental netherlands
+- avoid rental fraud netherlands
 affiliate: true
-author: "Sarah van den Berg"
-author_bio: "Expat coach and relocation specialist. Half Dutch, half British, living in the Netherlands for over 10 years."
-featured_image: "/images/categories/housing.svg"
+author: Sarah van den Berg
+author_bio: Expat coach and relocation specialist. Half Dutch, half British, living in the Netherlands for over 10 years.
+featured_image: /images/categories/housing.svg
 faq:
-  - q: "How common are rental scams in the Netherlands?"
-    a: "Rental fraud is widespread and growing. The Dutch police (politie) and consumer watchdog Fraudehelpdesk receive thousands of reports annually. Expats are disproportionately targeted because they are often searching from abroad, unfamiliar with Dutch market prices, and under time pressure to secure housing before arrival. During peak months — June to September, when students and internationally mobile workers are relocating — scam activity spikes noticeably."
-  - q: "What is the safest way to pay a rental deposit in the Netherlands?"
-    a: "Always pay a deposit via bank transfer to a verified business account (IBAN starting with NL), never to a personal account, and never via cash, cryptocurrency, gift cards, or money transfer services like Western Union or MoneyGram. Request a written rental contract before paying anything. If a landlord or agency insists on cash or an unusual payment method, treat it as a serious red flag. A legitimate landlord or agency will always provide a receipt and a formal rental agreement."
-  - q: "How can I verify that a landlord actually owns a property in the Netherlands?"
-    a: "Use the Kadaster (Dutch Land Registry) at kadaster.nl. For a small fee (around EUR 3–5), you can check who legally owns any property in the Netherlands. Cross-reference the owner's name with the name on the rental contract. If they do not match, ask why in writing before signing or paying anything. Checking Kadaster takes roughly ten minutes and can save you thousands of euros."
-  - q: "What should I do if I have been scammed on a Dutch rental listing?"
-    a: "Act immediately: contact your bank to attempt a recall of any transferred funds (SEPA recall must be requested within 24 hours for the best chance of recovery), file a police report (aangifte) at politie.nl or at your local station, report the listing to the platform where you found it, and file a report with the Fraudehelpdesk at fraudehelpdesk.nl. Keep all evidence — screenshots, emails, WhatsApp messages, payment confirmations. Do not delete any correspondence."
-  - q: "Are Funda and Pararius listings safe from scams?"
-    a: "Funda and Pararius have verification processes and are significantly safer than platforms like Craigslist, Facebook Marketplace, or generic classifieds sites. However, no platform is completely immune. Scammers do occasionally post fake listings on reputable platforms, particularly during busy periods. Even on Funda or Pararius, you should verify landlord ownership via Kadaster, never pay before a physical or verified video viewing, and always insist on a formal written contract."
-  - q: "Is it safe to rent a room via WhatsApp or social media in the Netherlands?"
-    a: "Renting via WhatsApp, Instagram, or Facebook groups carries significant risk. These channels have no verification, no payment protection, and no formal dispute resolution. I am not saying all social media listings are fraudulent — student housing networks and legitimate landlords do sometimes use these channels — but you should never transfer money based solely on a social media conversation. Always escalate to a formal contract and a verified bank transfer, and try to view the property in person before paying."
+- q: How common are rental scams in the Netherlands?
+  a: Rental fraud is widespread and growing. The Dutch police (politie) and consumer watchdog Fraudehelpdesk receive thousands of reports annually. Expats are disproportionately targeted because they are often searching from abroad, unfamiliar with Dutch market prices, and under time pressure to secure housing before arrival. During peak months — June to September, when students and internationally mobile workers are relocating — scam activity spikes noticeably.
+- q: What is the safest way to pay a rental deposit in the Netherlands?
+  a: Always pay a deposit via bank transfer to a verified business account (IBAN starting with NL), never to a personal account, and never via cash, cryptocurrency, gift cards, or money transfer services like Western Union or MoneyGram. Request a written rental contract before paying anything. If a landlord or agency insists on cash or an unusual payment method, treat it as a serious red flag. A legitimate landlord or agency will always provide a receipt and a formal rental agreement.
+- q: How can I verify that a landlord actually owns a property in the Netherlands?
+  a: Use the Kadaster (Dutch Land Registry) at kadaster.nl. For a small fee (around EUR 3–5), you can check who legally owns any property in the Netherlands. Cross-reference the owner's name with the name on the rental contract. If they do not match, ask why in writing before signing or paying anything. Checking Kadaster takes roughly ten minutes and can save you thousands of euros.
+- q: What should I do if I have been scammed on a Dutch rental listing?
+  a: 'Act immediately: contact your bank to attempt a recall of any transferred funds (SEPA recall must be requested within 24 hours for the best chance of recovery), file a police report (aangifte) at politie.nl or at your local station, report the listing to the platform where you found it, and file a report with the Fraudehelpdesk at fraudehelpdesk.nl. Keep all evidence — screenshots, emails, WhatsApp messages, payment confirmations. Do not delete any correspondence.'
+- q: Are Funda and Pararius listings safe from scams?
+  a: Funda and Pararius have verification processes and are significantly safer than platforms like Craigslist, Facebook Marketplace, or generic classifieds sites. However, no platform is completely immune. Scammers do occasionally post fake listings on reputable platforms, particularly during busy periods. Even on Funda or Pararius, you should verify landlord ownership via Kadaster, never pay before a physical or verified video viewing, and always insist on a formal written contract.
+- q: Is it safe to rent a room via WhatsApp or social media in the Netherlands?
+  a: Renting via WhatsApp, Instagram, or Facebook groups carries significant risk. These channels have no verification, no payment protection, and no formal dispute resolution. I am not saying all social media listings are fraudulent — student housing networks and legitimate landlords do sometimes use these channels — but you should never transfer money based solely on a social media conversation. Always escalate to a formal contract and a verified bank transfer, and try to view the property in person before paying.
 products:
-  - name: "HousingAnywhere"
-    url: "https://housinganywhere.com/"
-    price: "0.00"
-  - name: "Pararius"
-    url: "https://www.pararius.com/"
-    price: "0.00"
-  - name: "Funda"
-    url: "https://www.funda.nl/"
-    price: "0.00"
+- name: HousingAnywhere
+  url: https://housinganywhere.com/
+  price: '0.00'
+- name: Pararius
+  url: https://www.pararius.com/
+  price: '0.00'
+- name: Funda
+  url: https://www.funda.nl/
+  price: '0.00'
+schema_type: Article
 ---
 
 Three years ago, a client of mine — I'll call her Priya — arrived in Amsterdam after flying in from Bangalore. She had paid a £1,200 deposit two weeks earlier for a "fully furnished apartment" in De Pijp. The address she had was a real street. The photos were convincing. The landlord had replied promptly to every message. When she turned up at the door with two suitcases, a different family answered. They had lived there for six years. No one had ever listed the flat.

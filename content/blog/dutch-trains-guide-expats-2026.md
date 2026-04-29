@@ -1,33 +1,44 @@
 ---
-title: "Dutch Trains Guide: NS, OV and Rail Passes"
-date: 2026-03-22T10:00:00+01:00
-lastmod: 2026-04-23T10:00:00+01:00
-description: "Complete guide to Dutch trains for expats: NS app, OV-chipkaart, subscription options, pricing, and how to get around the Netherlands cheaply."
-categories: ["daily-life"]
-tags: ["Dutch trains", "NS trains", "OV-chipkaart", "Netherlands public transport", "train Netherlands"]
-keywords: ["Dutch trains guide expats 2026", "NS trains Netherlands expat", "OV-chipkaart guide", "Netherlands public transport guide expat"]
+title: 'Dutch Trains Guide: NS, OV and Rail Passes'
+date: 2026-03-22 10:00:00+01:00
+lastmod: 2026-04-23 10:00:00+01:00
+description: 'Complete guide to Dutch trains for expats: NS app, OV-chipkaart, subscription options, pricing, and how to get around the Netherlands cheaply.'
+categories:
+- daily-life
+tags:
+- Dutch trains
+- NS trains
+- OV-chipkaart
+- Netherlands public transport
+- train Netherlands
+keywords:
+- Dutch trains guide expats 2026
+- NS trains Netherlands expat
+- OV-chipkaart guide
+- Netherlands public transport guide expat
 affiliate: false
-author: "Sarah van den Berg"
-author_bio: "Expat coach and writer at ExpatNetherlandsHub.com"
-featured_image: "/images/categories/daily-life.svg"
+author: Sarah van den Berg
+author_bio: Expat coach and writer at ExpatNetherlandsHub.com
+featured_image: /images/categories/daily-life.svg
 faq:
-  - q: "What is the OV-chipkaart and do I need one?"
-    a: "The OV-chipkaart (openbaar vervoer chipkaart — public transport chip card) is the primary contactless payment card used on Dutch trains, trams, metros, and buses. You check in (inchecken) at the start of your journey and check out (uitchecken) at the end. It deducts the correct fare automatically based on the distance travelled. Most regular commuters and residents in the Netherlands use an OV-chipkaart. Visitors can now also pay with a standard contactless bank card or phone (Apple Pay, Google Pay) on NS trains and most other services, so an OV-chipkaart is not strictly required for occasional use — but for regular travel it offers subscriptions and discounts not available to contactless bank card users."
-  - q: "How much do trains cost in the Netherlands?"
-    a: "NS charges based on distance. A single journey Amsterdam Centraal to Rotterdam Centraal (60 km, ~40 minutes on Intercity Direct) costs around EUR 16–17 for a standard single ticket at full price. Amsterdam to Utrecht (35 minutes) is around EUR 8–9. These prices are for second class without any discount card or subscription. The NS weekend and evening discount (40% off) and the NS Flex subscription significantly reduce these for regular travellers. The most expensive route is Amsterdam to Eindhoven via Intercity Direct (~75 minutes, around EUR 22–25 single). Prices increase annually — check ns.nl for current fares."
-  - q: "What is NS Flex and is it worth it for expats?"
-    a: "NS Flex is NS's pay-as-you-go subscription service that gives you automatic discounts when you travel off-peak. With NS Flex Dal Vrij (Dal = off-peak, Vrij = free), you pay a fixed monthly fee (around EUR 107/month in 2026) for unlimited off-peak train travel across the Netherlands — weekday journeys starting after 9:00 and before 16:00, and all weekend journeys. There is no yearly commitment if you pay monthly. For expats who commute a few times a week or travel regularly at weekends, Dal Vrij often pays for itself within 5–6 train trips per month. There is also NS Flex Vrij for unlimited travel at all hours (around EUR 400+/month), which is only cost-effective for very frequent commuters."
-  - q: "Can I use contactless payment instead of an OV-chipkaart on Dutch trains?"
-    a: "Yes. NS introduced contactless bank card and mobile payment (OV-pay) across its network. You can now check in and out at NS gates using your Mastercard or Visa debit/credit card, or your phone via Apple Pay or Google Pay. The fare charged is the standard single fare. You cannot access NS subscriptions, student OV, or the Dal discount using OV-pay — those require an OV-chipkaart. For other transport operators (GVB trams in Amsterdam, RET in Rotterdam, buses), contactless payment acceptance varies — check each operator. The OV-chipkaart works across virtually all Dutch public transport."
-  - q: "How do I get from Amsterdam Schiphol Airport to the city centre by train?"
-    a: "Schiphol Airport has a direct NS train station below the arrivals hall (follow yellow NS signs or take the escalators/lift down from arrivals). Trains run to Amsterdam Centraal every 10–15 minutes, with the journey taking approximately 17 minutes. A single ticket costs around EUR 5.30 (2026 fare). You can buy at NS ticket machines (cash and card), use the NS app, or check in with a contactless card or OV-chipkaart. Direct trains also run from Schiphol to Rotterdam, Utrecht, The Hague, Eindhoven, and other major cities without needing to change at Amsterdam Centraal — useful for expats arriving for the first time heading to cities other than Amsterdam."
-  - q: "What is the difference between Intercity Direct, Intercity, and Sprinter trains?"
-    a: "NS operates three main service types. Intercity Direct (IC Direct) is the fastest service, running between major cities with few or no intermediate stops — Amsterdam to Rotterdam takes about 40 minutes. A supplement (toeslag) of around EUR 2.80 per journey is charged for Intercity Direct on the Amsterdam–Rotterdam route via the high-speed HSL track; you must either have a valid toeslag or use a subscription that includes it. Intercity (IC) trains stop at main stations between cities — Amsterdam to Rotterdam Intercity takes about 65 minutes but avoids the supplement. Sprinter trains are regional, stopping at every station along a line. They are cheaper and slower, appropriate for shorter local journeys."
+- q: What is the OV-chipkaart and do I need one?
+  a: The OV-chipkaart (openbaar vervoer chipkaart — public transport chip card) is the primary contactless payment card used on Dutch trains, trams, metros, and buses. You check in (inchecken) at the start of your journey and check out (uitchecken) at the end. It deducts the correct fare automatically based on the distance travelled. Most regular commuters and residents in the Netherlands use an OV-chipkaart. Visitors can now also pay with a standard contactless bank card or phone (Apple Pay, Google Pay) on NS trains and most other services, so an OV-chipkaart is not strictly required for occasional use — but for regular travel it offers subscriptions and discounts not available to contactless bank card users.
+- q: How much do trains cost in the Netherlands?
+  a: NS charges based on distance. A single journey Amsterdam Centraal to Rotterdam Centraal (60 km, ~40 minutes on Intercity Direct) costs around EUR 16–17 for a standard single ticket at full price. Amsterdam to Utrecht (35 minutes) is around EUR 8–9. These prices are for second class without any discount card or subscription. The NS weekend and evening discount (40% off) and the NS Flex subscription significantly reduce these for regular travellers. The most expensive route is Amsterdam to Eindhoven via Intercity Direct (~75 minutes, around EUR 22–25 single). Prices increase annually — check ns.nl for current fares.
+- q: What is NS Flex and is it worth it for expats?
+  a: NS Flex is NS's pay-as-you-go subscription service that gives you automatic discounts when you travel off-peak. With NS Flex Dal Vrij (Dal = off-peak, Vrij = free), you pay a fixed monthly fee (around EUR 107/month in 2026) for unlimited off-peak train travel across the Netherlands — weekday journeys starting after 9:00 and before 16:00, and all weekend journeys. There is no yearly commitment if you pay monthly. For expats who commute a few times a week or travel regularly at weekends, Dal Vrij often pays for itself within 5–6 train trips per month. There is also NS Flex Vrij for unlimited travel at all hours (around EUR 400+/month), which is only cost-effective for very frequent commuters.
+- q: Can I use contactless payment instead of an OV-chipkaart on Dutch trains?
+  a: Yes. NS introduced contactless bank card and mobile payment (OV-pay) across its network. You can now check in and out at NS gates using your Mastercard or Visa debit/credit card, or your phone via Apple Pay or Google Pay. The fare charged is the standard single fare. You cannot access NS subscriptions, student OV, or the Dal discount using OV-pay — those require an OV-chipkaart. For other transport operators (GVB trams in Amsterdam, RET in Rotterdam, buses), contactless payment acceptance varies — check each operator. The OV-chipkaart works across virtually all Dutch public transport.
+- q: How do I get from Amsterdam Schiphol Airport to the city centre by train?
+  a: Schiphol Airport has a direct NS train station below the arrivals hall (follow yellow NS signs or take the escalators/lift down from arrivals). Trains run to Amsterdam Centraal every 10–15 minutes, with the journey taking approximately 17 minutes. A single ticket costs around EUR 5.30 (2026 fare). You can buy at NS ticket machines (cash and card), use the NS app, or check in with a contactless card or OV-chipkaart. Direct trains also run from Schiphol to Rotterdam, Utrecht, The Hague, Eindhoven, and other major cities without needing to change at Amsterdam Centraal — useful for expats arriving for the first time heading to cities other than Amsterdam.
+- q: What is the difference between Intercity Direct, Intercity, and Sprinter trains?
+  a: NS operates three main service types. Intercity Direct (IC Direct) is the fastest service, running between major cities with few or no intermediate stops — Amsterdam to Rotterdam takes about 40 minutes. A supplement (toeslag) of around EUR 2.80 per journey is charged for Intercity Direct on the Amsterdam–Rotterdam route via the high-speed HSL track; you must either have a valid toeslag or use a subscription that includes it. Intercity (IC) trains stop at main stations between cities — Amsterdam to Rotterdam Intercity takes about 65 minutes but avoids the supplement. Sprinter trains are regional, stopping at every station along a line. They are cheaper and slower, appropriate for shorter local journeys.
 products:
-  - name: "Wise"
-    url: "https://go.expatnetherlandshub.com/wise?ref=/blog/dutch-trains-guide-expats-2026/"
-    price: "0.00"
-    tag: "Currency Transfer"
+- name: Wise
+  url: https://go.expatnetherlandshub.com/wise?ref=/blog/dutch-trains-guide-expats-2026/
+  price: '0.00'
+  tag: Currency Transfer
+schema_type: Article
 ---
 
 I use Dutch trains almost every day. They are genuinely one of the better parts of living in the Netherlands — frequent, fast between major cities, and covering the entire country. The Netherlands is compact enough that the furthest major city (Groningen from Amsterdam) is 2 hours by direct train.

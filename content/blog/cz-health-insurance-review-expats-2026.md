@@ -1,33 +1,45 @@
 ---
-title: "CZ Health Insurance Review for Expats 2026"
-date: 2026-03-22T08:05:00+01:00
-lastmod: 2026-04-23T10:00:00+01:00
-description: "CZ health insurance reviewed for expats in 2026. Premiums, English support, coverage options, and how CZ compares to other Dutch insurers."
-categories: ["health"]
-tags: ["cz health insurance", "basisverzekering", "expat insurance", "dutch health insurance", "zorgverzekering", "cz groep"]
-keywords: ["CZ health insurance expats", "CZ zorgverzekering review", "CZ health insurance netherlands 2026", "CZ expat review"]
+title: CZ Health Insurance Review for Expats 2026
+date: 2026-03-22 08:05:00+01:00
+lastmod: 2026-04-23 10:00:00+01:00
+description: CZ health insurance reviewed for expats in 2026. Premiums, English support, coverage options, and how CZ compares to other Dutch insurers.
+categories:
+- health
+tags:
+- cz health insurance
+- basisverzekering
+- expat insurance
+- dutch health insurance
+- zorgverzekering
+- cz groep
+keywords:
+- CZ health insurance expats
+- CZ zorgverzekering review
+- CZ health insurance netherlands 2026
+- CZ expat review
 affiliate: true
-author: "Sarah van den Berg"
-author_bio: "Expat coach and relocation specialist. Half Dutch, half British, living in the Netherlands for over 10 years."
-featured_image: "/images/featured/cz-health-insurance-review-expats-2026.webp"
+author: Sarah van den Berg
+author_bio: Expat coach and relocation specialist. Half Dutch, half British, living in the Netherlands for over 10 years.
+featured_image: /images/featured/cz-health-insurance-review-expats-2026.webp
 faq:
-  - q: "Is CZ good for expats in the Netherlands?"
-    a: "CZ is one of the larger Dutch health insurers and operates nationally, so the contracted care network covers the whole country. Customer satisfaction scores are solid. CZ offers moderate English support — better than purely regional insurers but not as robust as Zilveren Kruis. For most expats without a strong preference for a specific regional insurer, CZ is a reliable middle-ground choice: competitive premiums, good coverage, and a reasonably accessible digital experience."
-  - q: "What is CZ's basic insurance premium in 2026?"
-    a: "CZ's basisverzekering premiums in 2026 are approximately EUR 148/month for the natura policy and EUR 155/month for the restitutie policy. CZ also sells budget labels such as Just and Nationale Nederlanden Zorg, which use the CZ care network but offer slightly lower premiums in exchange for a more limited service offering."
-  - q: "Does CZ offer English language support?"
-    a: "CZ has a partial English-language offer. Their main website (cz.nl) is in Dutch, but CZ operates an English-language information page and customer service representatives often speak English. For simple queries — signing up, checking coverage, submitting a claim — you can usually manage in English. CZ also has a functional English-language version of their MijnCZ member portal."
-  - q: "What supplementary insurance does CZ offer for expats?"
-    a: "CZ offers several supplementary (aanvullende) packages at different price points, covering physiotherapy sessions, dental care, glasses, travel vaccinations, and alternative therapies. The mid-range CZ Aanvullend 2 or CZ Aanvullend Plus packages are most popular with expats. CZ also sells a dedicated dental package (tandverzekering) if you want significant dental coverage."
-  - q: "How does CZ handle care abroad for expats who travel?"
-    a: "Under CZ's restitutie policy, medically necessary care received abroad is generally reimbursed up to Dutch market rates. Coverage for care outside the EU is more limited under the basic policy. If you travel frequently, consider adding a reisverzekering (travel insurance) or ensuring your supplementary package includes adequate abroad coverage. CZ's higher supplementary tiers often include better abroad coverage."
-  - q: "Can I switch to CZ mid-year?"
-    a: "You can only switch your basic health insurer during the annual open enrollment period, which runs from mid-November to 31 December. The new policy takes effect on 1 January. If you are new to the Netherlands and registering for the first time, you can take out CZ at any point in the year — your coverage starts from your municipality registration date."
+- q: Is CZ good for expats in the Netherlands?
+  a: 'CZ is one of the larger Dutch health insurers and operates nationally, so the contracted care network covers the whole country. Customer satisfaction scores are solid. CZ offers moderate English support — better than purely regional insurers but not as robust as Zilveren Kruis. For most expats without a strong preference for a specific regional insurer, CZ is a reliable middle-ground choice: competitive premiums, good coverage, and a reasonably accessible digital experience.'
+- q: What is CZ's basic insurance premium in 2026?
+  a: CZ's basisverzekering premiums in 2026 are approximately EUR 148/month for the natura policy and EUR 155/month for the restitutie policy. CZ also sells budget labels such as Just and Nationale Nederlanden Zorg, which use the CZ care network but offer slightly lower premiums in exchange for a more limited service offering.
+- q: Does CZ offer English language support?
+  a: CZ has a partial English-language offer. Their main website (cz.nl) is in Dutch, but CZ operates an English-language information page and customer service representatives often speak English. For simple queries — signing up, checking coverage, submitting a claim — you can usually manage in English. CZ also has a functional English-language version of their MijnCZ member portal.
+- q: What supplementary insurance does CZ offer for expats?
+  a: CZ offers several supplementary (aanvullende) packages at different price points, covering physiotherapy sessions, dental care, glasses, travel vaccinations, and alternative therapies. The mid-range CZ Aanvullend 2 or CZ Aanvullend Plus packages are most popular with expats. CZ also sells a dedicated dental package (tandverzekering) if you want significant dental coverage.
+- q: How does CZ handle care abroad for expats who travel?
+  a: Under CZ's restitutie policy, medically necessary care received abroad is generally reimbursed up to Dutch market rates. Coverage for care outside the EU is more limited under the basic policy. If you travel frequently, consider adding a reisverzekering (travel insurance) or ensuring your supplementary package includes adequate abroad coverage. CZ's higher supplementary tiers often include better abroad coverage.
+- q: Can I switch to CZ mid-year?
+  a: You can only switch your basic health insurer during the annual open enrollment period, which runs from mid-November to 31 December. The new policy takes effect on 1 January. If you are new to the Netherlands and registering for the first time, you can take out CZ at any point in the year — your coverage starts from your municipality registration date.
 products:
-  - name: "SafetyWing"
-    url: "https://go.expatnetherlandshub.com/safetywing?ref=/blog/cz-health-insurance-review-expats-2026/"
-    price: "0.00"
-    tag: "Expat Insurance"
+- name: SafetyWing
+  url: https://go.expatnetherlandshub.com/safetywing?ref=/blog/cz-health-insurance-review-expats-2026/
+  price: '0.00'
+  tag: Expat Insurance
+schema_type: Review
 ---
 
 When I advise expats on choosing Dutch health insurance, CZ comes up frequently. It sits in an interesting position: large enough to have a national contracted care network, but still more personalised in customer service than the very biggest players like VGZ. For expats who want a reliable, nationally available insurer without necessarily paying the top premium, CZ deserves a thorough look.

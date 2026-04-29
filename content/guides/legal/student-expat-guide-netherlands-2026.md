@@ -1,40 +1,51 @@
 ---
-title: "Student Expat Guide Netherlands 2026"
-date: 2026-05-10T10:00:00+01:00
-lastmod: 2026-04-23T10:00:00+01:00
-description: "Complete guide for international students moving to the Netherlands 2026. Visas, tuition, housing, DUO finance, health insurance, and working rights."
-categories: ["legal"]
-tags: ["student", "university", "visa", "housing", "student finance"]
-keywords: ["student expat netherlands", "international student netherlands guide", "study netherlands 2026", "student visa netherlands"]
+title: Student Expat Guide Netherlands 2026
+date: 2026-05-10 10:00:00+01:00
+lastmod: 2026-04-23 10:00:00+01:00
+description: Complete guide for international students moving to the Netherlands 2026. Visas, tuition, housing, DUO finance, health insurance, and working rights.
+categories:
+- legal
+tags:
+- student
+- university
+- visa
+- housing
+- student finance
+keywords:
+- student expat netherlands
+- international student netherlands guide
+- study netherlands 2026
+- student visa netherlands
 affiliate: true
 products:
-  - name: "Expatax"
-    url: "https://www.expatax.nl/"
-    price: "0.00"
-  - name: "Blue Umbrella"
-    url: "https://www.blueumbrella.nl/"
-    price: "0.00"
-  - name: "IND"
-    url: "https://ind.nl/en"
-    price: "0.00"
-author: "Sarah van den Berg"
-author_bio: "Expat coach and relocation specialist. Half Dutch, half British, living in the Netherlands for over 10 years."
-featured_image: "/images/categories/legal.svg"
+- name: Expatax
+  url: https://www.expatax.nl/
+  price: '0.00'
+- name: Blue Umbrella
+  url: https://www.blueumbrella.nl/
+  price: '0.00'
+- name: IND
+  url: https://ind.nl/en
+  price: '0.00'
+author: Sarah van den Berg
+author_bio: Expat coach and relocation specialist. Half Dutch, half British, living in the Netherlands for over 10 years.
+featured_image: /images/categories/legal.svg
 faq:
-  - q: "Do EU students need a visa to study in the Netherlands?"
-    a: "No. Citizens of EU/EEA member states and Switzerland do not need a visa or residence permit to study in the Netherlands. You simply register at your university and at your local municipality (gemeente) within five days of arrival. You will receive a BSN (citizen service number) through the registration process."
-  - q: "How much does it cost to study in the Netherlands as an international student in 2026?"
-    a: "EU/EEA students who qualify for the statutory tuition fee pay EUR 2,530 per year in 2026. Non-EU international students pay institutional fees set by each university, which typically range from EUR 8,000 to EUR 20,000 per year depending on the programme. MBA and specialist master's programmes at top business schools can exceed EUR 25,000."
-  - q: "Can EU students get DUO student finance in the Netherlands?"
-    a: "Yes, EU/EEA students who work at least 32 hours per month in the Netherlands are eligible for DUO studiefinanciering. This includes a basic student grant (basisbeurs), a supplementary grant based on parental income (aanvullende beurs), and a student travel card (OV-studentenkaart). Non-EU students are not eligible for DUO finance."
-  - q: "What is the housing situation like for students in the Netherlands?"
-    a: "Extremely tight. The Netherlands has a severe student housing shortage, particularly in Amsterdam, Utrecht, Delft, and Leiden. Social student housing has waiting lists of 3-7 years. Most students use platforms like HousingAnywhere or Kamernet to find private rooms. Budget EUR 500-1,000 per month for a room in a shared house in a student city. Apply for housing as soon as you receive your offer letter — do not wait until you have confirmed your place."
-  - q: "How many hours can non-EU students work in the Netherlands?"
-    a: "Non-EU students on a study residence permit can work a maximum of 16 hours per week, or full-time during the summer months of June, July, and August. Your employer must apply for a work permit (TWV) from the UWV. Working more than the allowed hours puts your residence permit at risk, so it is important to track your hours carefully."
-  - q: "Do international students need Dutch health insurance?"
-    a: "It depends on your situation. Non-EU students are not required to take out Dutch basic health insurance (zorgverzekering), but they must have some form of health coverage. Many choose international student health insurance. EU students who work and register in the Netherlands may become liable for Dutch health insurance. Students under 30 have access to good-value options including SafetyWing's Nomad Insurance."
-  - q: "What is the OV-studentenkaart and who qualifies?"
-    a: "The OV-studentenkaart is a free public transport pass provided by DUO that allows students to travel by train, bus, tram, and metro in the Netherlands. It is only available to students who receive DUO student finance, which means it is accessible to Dutch students and EU students who meet the work requirement. Non-EU students do not qualify. The card covers either weekday or weekend travel for free, with discounted rates at other times."
+- q: Do EU students need a visa to study in the Netherlands?
+  a: No. Citizens of EU/EEA member states and Switzerland do not need a visa or residence permit to study in the Netherlands. You simply register at your university and at your local municipality (gemeente) within five days of arrival. You will receive a BSN (citizen service number) through the registration process.
+- q: How much does it cost to study in the Netherlands as an international student in 2026?
+  a: EU/EEA students who qualify for the statutory tuition fee pay EUR 2,530 per year in 2026. Non-EU international students pay institutional fees set by each university, which typically range from EUR 8,000 to EUR 20,000 per year depending on the programme. MBA and specialist master's programmes at top business schools can exceed EUR 25,000.
+- q: Can EU students get DUO student finance in the Netherlands?
+  a: Yes, EU/EEA students who work at least 32 hours per month in the Netherlands are eligible for DUO studiefinanciering. This includes a basic student grant (basisbeurs), a supplementary grant based on parental income (aanvullende beurs), and a student travel card (OV-studentenkaart). Non-EU students are not eligible for DUO finance.
+- q: What is the housing situation like for students in the Netherlands?
+  a: Extremely tight. The Netherlands has a severe student housing shortage, particularly in Amsterdam, Utrecht, Delft, and Leiden. Social student housing has waiting lists of 3-7 years. Most students use platforms like HousingAnywhere or Kamernet to find private rooms. Budget EUR 500-1,000 per month for a room in a shared house in a student city. Apply for housing as soon as you receive your offer letter — do not wait until you have confirmed your place.
+- q: How many hours can non-EU students work in the Netherlands?
+  a: Non-EU students on a study residence permit can work a maximum of 16 hours per week, or full-time during the summer months of June, July, and August. Your employer must apply for a work permit (TWV) from the UWV. Working more than the allowed hours puts your residence permit at risk, so it is important to track your hours carefully.
+- q: Do international students need Dutch health insurance?
+  a: It depends on your situation. Non-EU students are not required to take out Dutch basic health insurance (zorgverzekering), but they must have some form of health coverage. Many choose international student health insurance. EU students who work and register in the Netherlands may become liable for Dutch health insurance. Students under 30 have access to good-value options including SafetyWing's Nomad Insurance.
+- q: What is the OV-studentenkaart and who qualifies?
+  a: The OV-studentenkaart is a free public transport pass provided by DUO that allows students to travel by train, bus, tram, and metro in the Netherlands. It is only available to students who receive DUO student finance, which means it is accessible to Dutch students and EU students who meet the work requirement. Non-EU students do not qualify. The card covers either weekday or weekend travel for free, with discounted rates at other times.
+schema_type: Article
 ---
 
 When I first started advising international students on their move to the Netherlands, I assumed the process would be simple — apply to university, get a visa, find a room, done. But after years of helping students from dozens of countries, I can tell you it is far more layered than that. The Netherlands has some of the best universities in the world, a genuinely international student culture, and a surprisingly liveable lifestyle on a student budget. But there are also serious pitfalls: a housing crisis that catches students off-guard, financial support rules that most people never know exist, and a visa process that varies enormously depending on where you come from.

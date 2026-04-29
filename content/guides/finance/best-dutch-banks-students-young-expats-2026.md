@@ -1,38 +1,50 @@
 ---
-title: "Best Banks for Students in Netherlands 2026"
-date: 2026-06-13T10:00:00+01:00
-lastmod: 2026-04-23T10:00:00+01:00
-description: "ING free until 28, ABN AMRO free until 30, bunq for budgeting — which bank works best for students and young expats, including DUO compatibility."
-categories: ["finance"]
-tags: ["student bank", "youth account", "bunq", "N26", "ING"]
-keywords: ["best bank students netherlands", "student bank account netherlands", "young expat bank netherlands", "DUO bank account", "ING student account netherlands 2026"]
+title: Best Banks for Students in Netherlands 2026
+date: 2026-06-13 10:00:00+01:00
+lastmod: 2026-04-23 10:00:00+01:00
+description: ING free until 28, ABN AMRO free until 30, bunq for budgeting — which bank works best for students and young expats, including DUO compatibility.
+categories:
+- finance
+tags:
+- student bank
+- youth account
+- bunq
+- N26
+- ING
+keywords:
+- best bank students netherlands
+- student bank account netherlands
+- young expat bank netherlands
+- DUO bank account
+- ING student account netherlands 2026
 affiliate: true
-author: "Sarah van den Berg"
-author_bio: "Expat coach and relocation specialist. Half Dutch, half British, living in the Netherlands for over 10 years."
-featured_image: "/images/categories/finance.svg"
+author: Sarah van den Berg
+author_bio: Expat coach and relocation specialist. Half Dutch, half British, living in the Netherlands for over 10 years.
+featured_image: /images/categories/finance.svg
 products:
-  - name: "Wise"
-    url: "https://go.expatnetherlandshub.com/wise?ref=/guides/finance/best-dutch-banks-students-young-expats-2026/"
-    price: "0.00"
-  - name: "bunq"
-    url: "https://www.bunq.com/"
-    price: "2.99"
-  - name: "ING"
-    url: "https://www.ing.nl/particulier"
-    price: "0.00"
+- name: Wise
+  url: https://go.expatnetherlandshub.com/wise?ref=/guides/finance/best-dutch-banks-students-young-expats-2026/
+  price: '0.00'
+- name: bunq
+  url: https://www.bunq.com/
+  price: '2.99'
+- name: ING
+  url: https://www.ing.nl/particulier
+  price: '0.00'
 faq:
-  - q: "Which bank is free for students in the Netherlands?"
-    a: "ING offers a free current account for students and anyone under 28. ABN AMRO's Studentenpakket is free until age 30. Both require a BSN and proof of enrolment to activate the free tier. After the age limit, the account automatically switches to a standard paid account unless you cancel or switch."
-  - q: "Can I receive DUO student finance payments into a Wise or N26 account?"
-    a: "No. DUO (Dienst Uitvoering Onderwijs) requires a Dutch IBAN starting with NL for all student loan and grant payments. N26 provides a German IBAN (DE), and while Wise gives you a European IBAN, it does not issue NL IBANs. You need an account with ING, ABN AMRO, Rabobank, or bunq to receive DUO payments."
-  - q: "Does N26 work in the Netherlands for everyday banking?"
-    a: "N26 works for most daily purchases using the Mastercard debit card, and for receiving salary payments into a DE IBAN from most employers. However, N26 does not support iDEAL, which is the dominant Dutch online payment system. This means you cannot use it for many Dutch webshops, subscription payments, or government services. It is best used as a secondary account."
-  - q: "What is the best bank account for a student arriving from outside the EU?"
-    a: "Open a Wise account before you travel — no BSN required and you get a European IBAN immediately. Once you have your BSN (usually within a week of registering at your municipality), open an ING or ABN AMRO student account for Dutch payments including DUO. Run both accounts in parallel: Wise for international transfers, ING or ABN AMRO for Dutch daily life."
-  - q: "Can I use bunq sub-accounts for student budgeting?"
-    a: "Yes, and it works extremely well. bunq allows you to create up to 25 separate sub-accounts (called Money tabs) under one subscription. You can set up dedicated accounts for rent, groceries, going out, and savings — money sits physically in each account, not just in a virtual category. This is more effective than most budgeting apps because the separation is real."
-  - q: "Do Dutch banks offer overdraft facilities for students?"
-    a: "ING and ABN AMRO both offer optional overdraft (rood staan) on student accounts, typically up to EUR 1,000 to EUR 1,500. The interest rate is usually around 12-14% per year, so use it only in genuine emergencies. bunq and N26 do not offer overdraft facilities. Wise accounts cannot go into a negative balance."
+- q: Which bank is free for students in the Netherlands?
+  a: ING offers a free current account for students and anyone under 28. ABN AMRO's Studentenpakket is free until age 30. Both require a BSN and proof of enrolment to activate the free tier. After the age limit, the account automatically switches to a standard paid account unless you cancel or switch.
+- q: Can I receive DUO student finance payments into a Wise or N26 account?
+  a: No. DUO (Dienst Uitvoering Onderwijs) requires a Dutch IBAN starting with NL for all student loan and grant payments. N26 provides a German IBAN (DE), and while Wise gives you a European IBAN, it does not issue NL IBANs. You need an account with ING, ABN AMRO, Rabobank, or bunq to receive DUO payments.
+- q: Does N26 work in the Netherlands for everyday banking?
+  a: N26 works for most daily purchases using the Mastercard debit card, and for receiving salary payments into a DE IBAN from most employers. However, N26 does not support iDEAL, which is the dominant Dutch online payment system. This means you cannot use it for many Dutch webshops, subscription payments, or government services. It is best used as a secondary account.
+- q: What is the best bank account for a student arriving from outside the EU?
+  a: 'Open a Wise account before you travel — no BSN required and you get a European IBAN immediately. Once you have your BSN (usually within a week of registering at your municipality), open an ING or ABN AMRO student account for Dutch payments including DUO. Run both accounts in parallel: Wise for international transfers, ING or ABN AMRO for Dutch daily life.'
+- q: Can I use bunq sub-accounts for student budgeting?
+  a: Yes, and it works extremely well. bunq allows you to create up to 25 separate sub-accounts (called Money tabs) under one subscription. You can set up dedicated accounts for rent, groceries, going out, and savings — money sits physically in each account, not just in a virtual category. This is more effective than most budgeting apps because the separation is real.
+- q: Do Dutch banks offer overdraft facilities for students?
+  a: ING and ABN AMRO both offer optional overdraft (rood staan) on student accounts, typically up to EUR 1,000 to EUR 1,500. The interest rate is usually around 12-14% per year, so use it only in genuine emergencies. bunq and N26 do not offer overdraft facilities. Wise accounts cannot go into a negative balance.
+schema_type: Article
 ---
 
 I moved to the Netherlands at 22 as an international student, and nobody warned me that my British bank account was basically useless here. No iDEAL support, no DUO compatibility, and a 3% foreign transaction fee every time I tapped my card at the supermarket. I eventually had five different accounts before I figured out which combination actually worked. If you are a student or a young expat under 30, here is the honest breakdown of your banking options — including the free ones most people miss.

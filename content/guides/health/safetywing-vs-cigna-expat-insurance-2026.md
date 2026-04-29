@@ -1,36 +1,47 @@
 ---
-title: "SafetyWing vs Cigna Global: Expat Insurance Compared (2026)"
-date: 2026-03-25T10:00:00+01:00
-lastmod: 2026-04-23T10:00:00+01:00
-description: "Honest comparison of SafetyWing and Cigna Global for expats in the Netherlands. Coverage, costs, claims process, and which one fits your situation in 2026."
-categories: ["health"]
-tags: ["SafetyWing", "Cigna", "expat insurance", "international insurance", "health coverage"]
-keywords: ["SafetyWing vs Cigna expats", "best expat insurance Netherlands", "SafetyWing review", "Cigna Global review"]
+title: 'SafetyWing vs Cigna Global: Expat Insurance Compared (2026)'
+date: 2026-03-25 10:00:00+01:00
+lastmod: 2026-04-23 10:00:00+01:00
+description: Honest comparison of SafetyWing and Cigna Global for expats in the Netherlands. Coverage, costs, claims process, and which one fits your situation in 2026.
+categories:
+- health
+tags:
+- SafetyWing
+- Cigna
+- expat insurance
+- international insurance
+- health coverage
+keywords:
+- SafetyWing vs Cigna expats
+- best expat insurance Netherlands
+- SafetyWing review
+- Cigna Global review
 affiliate: true
 products:
-  - name: "SafetyWing"
-    url: "https://go.expatnetherlandshub.com/safetywing?ref=/guides/health/safetywing-vs-cigna-expat-insurance-2026/"
-    price: "45.08"
-  - name: "CZ"
-    url: "https://www.cz.nl/"
-    price: "0.00"
-  - name: "Zilveren Kruis"
-    url: "https://www.zilverenkruis.nl/"
-    price: "0.00"
-author: "Sarah van den Berg"
-author_bio: "Expat coach and relocation specialist. Half Dutch, half British, living in the Netherlands for over 10 years."
-featured_image: "/images/featured/safetywing-vs-cigna-expat-insurance-2026.webp"
+- name: SafetyWing
+  url: https://go.expatnetherlandshub.com/safetywing?ref=/guides/health/safetywing-vs-cigna-expat-insurance-2026/
+  price: '45.08'
+- name: CZ
+  url: https://www.cz.nl/
+  price: '0.00'
+- name: Zilveren Kruis
+  url: https://www.zilverenkruis.nl/
+  price: '0.00'
+author: Sarah van den Berg
+author_bio: Expat coach and relocation specialist. Half Dutch, half British, living in the Netherlands for over 10 years.
+featured_image: /images/featured/safetywing-vs-cigna-expat-insurance-2026.webp
 faq:
-  - q: "Can SafetyWing replace Dutch health insurance (basisverzekering)?"
-    a: "No. SafetyWing is travel and emergency medical insurance, not a regulated health insurance product under Dutch law. If you are legally required to have a Dutch basisverzekering — which applies to most residents working in the Netherlands — SafetyWing does not fulfil that obligation. Using SafetyWing instead of basisverzekering will leave you exposed to fines from the CAK (Centraal Administratie Kantoor) and potentially large uninsured medical bills. SafetyWing can work as a short-term supplement while you are in the process of registering or for people who are legally exempt from the Dutch system (such as certain posted workers or international organisation employees), but it should not be treated as a permanent replacement."
-  - q: "Is Cigna Global accepted by Dutch hospitals and GPs?"
-    a: "Yes, in most cases. Cigna Global is a well-recognised international insurer and most Dutch private clinics and hospitals are familiar with it. However, the standard Dutch healthcare pathway still applies: you typically register with a huisarts (GP) first and receive a referral before seeing a specialist. Cigna Global does not bypass the GP referral system in practice, even if the policy technically allows direct specialist access. For planned private treatment, always confirm with the clinic in advance that they accept Cigna Global direct billing, as not every provider does."
-  - q: "Which is cheaper — SafetyWing or Cigna Global?"
-    a: "SafetyWing is significantly cheaper. A standard SafetyWing Nomad Insurance plan costs roughly $45-60 USD per month for someone under 40, while Cigna Global premiums typically start around EUR 150-200 per month for a basic plan and can exceed EUR 400 per month for full coverage including the USA. The price difference reflects a fundamental difference in what each product is: SafetyWing covers emergencies and acute illness while travelling; Cigna Global covers ongoing primary care, specialist treatment, chronic conditions, mental health, and much more. You are comparing a travel insurance product with a full international health insurance policy."
-  - q: "What should a digital nomad or remote worker moving to the Netherlands actually do about health insurance?"
-    a: "It depends on your legal status. If you register as a resident (ingeschreven in the BRP) and work from the Netherlands — including as a freelancer or ZZP'er — you will generally be required to take out Dutch basisverzekering. In that case, SafetyWing is not sufficient, and Cigna Global, while excellent, also does not substitute for the Dutch legal requirement. You would typically need a Dutch basisverzekering plus optionally an aanvullende verzekering (supplementary plan) for extras. If you are genuinely nomadic, spending fewer than four months per year in the Netherlands without registering as a resident, SafetyWing may be a practical short-term option — but once you register and intend to stay, you must sort out the Dutch system."
-  - q: "Who is this for?"
-    a: "See the section above on who benefits most from this service or guide."
+- q: Can SafetyWing replace Dutch health insurance (basisverzekering)?
+  a: No. SafetyWing is travel and emergency medical insurance, not a regulated health insurance product under Dutch law. If you are legally required to have a Dutch basisverzekering — which applies to most residents working in the Netherlands — SafetyWing does not fulfil that obligation. Using SafetyWing instead of basisverzekering will leave you exposed to fines from the CAK (Centraal Administratie Kantoor) and potentially large uninsured medical bills. SafetyWing can work as a short-term supplement while you are in the process of registering or for people who are legally exempt from the Dutch system (such as certain posted workers or international organisation employees), but it should not be treated as a permanent replacement.
+- q: Is Cigna Global accepted by Dutch hospitals and GPs?
+  a: 'Yes, in most cases. Cigna Global is a well-recognised international insurer and most Dutch private clinics and hospitals are familiar with it. However, the standard Dutch healthcare pathway still applies: you typically register with a huisarts (GP) first and receive a referral before seeing a specialist. Cigna Global does not bypass the GP referral system in practice, even if the policy technically allows direct specialist access. For planned private treatment, always confirm with the clinic in advance that they accept Cigna Global direct billing, as not every provider does.'
+- q: Which is cheaper — SafetyWing or Cigna Global?
+  a: 'SafetyWing is significantly cheaper. A standard SafetyWing Nomad Insurance plan costs roughly $45-60 USD per month for someone under 40, while Cigna Global premiums typically start around EUR 150-200 per month for a basic plan and can exceed EUR 400 per month for full coverage including the USA. The price difference reflects a fundamental difference in what each product is: SafetyWing covers emergencies and acute illness while travelling; Cigna Global covers ongoing primary care, specialist treatment, chronic conditions, mental health, and much more. You are comparing a travel insurance product with a full international health insurance policy.'
+- q: What should a digital nomad or remote worker moving to the Netherlands actually do about health insurance?
+  a: It depends on your legal status. If you register as a resident (ingeschreven in the BRP) and work from the Netherlands — including as a freelancer or ZZP'er — you will generally be required to take out Dutch basisverzekering. In that case, SafetyWing is not sufficient, and Cigna Global, while excellent, also does not substitute for the Dutch legal requirement. You would typically need a Dutch basisverzekering plus optionally an aanvullende verzekering (supplementary plan) for extras. If you are genuinely nomadic, spending fewer than four months per year in the Netherlands without registering as a resident, SafetyWing may be a practical short-term option — but once you register and intend to stay, you must sort out the Dutch system.
+- q: Who is this for?
+  a: See the section above on who benefits most from this service or guide.
+schema_type: Article
 ---
 
 When I first started working as a relocation consultant, one of my earliest clients was a freelance UX designer from Canada who had just arrived in Amsterdam on a one-year working holiday arrangement. She had SafetyWing, she was proud of it, and she was absolutely convinced it was all she needed. I had to break it to her, gently, that it was not — and watching her expression shift from confident to horrified when I explained the Dutch fines system is something I have never quite forgotten.

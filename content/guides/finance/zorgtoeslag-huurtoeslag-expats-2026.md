@@ -1,37 +1,52 @@
 ---
-title: "Zorgtoeslag & Huurtoeslag: Dutch Benefits for Expats (2026)"
-slug: "zorgtoeslag-huurtoeslag-expats-2026"
-date: 2026-04-13T10:00:00+01:00
-lastmod: 2026-04-23T10:00:00+01:00
-description: "Zorgtoeslag and huurtoeslag explained for expats in the Netherlands. Income limits, eligibility rules, how to apply at Belastingdienst, and the 30% ruling impact."
-categories: ["finance"]
-tags: ["zorgtoeslag", "huurtoeslag", "dutch benefits", "toeslagen", "expat netherlands", "healthcare allowance", "rent allowance"]
-keywords: ["zorgtoeslag expat netherlands", "huurtoeslag expat 2026", "dutch benefits expats", "toeslagen netherlands 2026", "healthcare allowance netherlands", "rent allowance netherlands expat"]
+title: 'Zorgtoeslag & Huurtoeslag: Dutch Benefits for Expats (2026)'
+slug: zorgtoeslag-huurtoeslag-expats-2026
+date: 2026-04-13 10:00:00+01:00
+lastmod: 2026-04-23 10:00:00+01:00
+description: Zorgtoeslag and huurtoeslag explained for expats in the Netherlands. Income limits, eligibility rules, how to apply at Belastingdienst, and the 30% ruling impact.
+categories:
+- finance
+tags:
+- zorgtoeslag
+- huurtoeslag
+- dutch benefits
+- toeslagen
+- expat netherlands
+- healthcare allowance
+- rent allowance
+keywords:
+- zorgtoeslag expat netherlands
+- huurtoeslag expat 2026
+- dutch benefits expats
+- toeslagen netherlands 2026
+- healthcare allowance netherlands
+- rent allowance netherlands expat
 affiliate: true
-author: "Sarah van den Berg"
-author_bio: "Expat coach and relocation specialist. Half Dutch, half British, living in the Netherlands for over 10 years."
-featured_image: "/images/featured/zorgtoeslag-huurtoeslag-expats-2026.webp"
+author: Sarah van den Berg
+author_bio: Expat coach and relocation specialist. Half Dutch, half British, living in the Netherlands for over 10 years.
+featured_image: /images/featured/zorgtoeslag-huurtoeslag-expats-2026.webp
 products:
-  - name: "Wise"
-    url: "https://go.expatnetherlandshub.com/wise?ref=/guides/finance/zorgtoeslag-huurtoeslag-expats-2026/"
-    price: "0.00"
-  - name: "bunq"
-    url: "https://www.bunq.com/"
-    price: "2.99"
-  - name: "ING"
-    url: "https://www.ing.nl/particulier"
-    price: "0.00"
+- name: Wise
+  url: https://go.expatnetherlandshub.com/wise?ref=/guides/finance/zorgtoeslag-huurtoeslag-expats-2026/
+  price: '0.00'
+- name: bunq
+  url: https://www.bunq.com/
+  price: '2.99'
+- name: ING
+  url: https://www.ing.nl/particulier
+  price: '0.00'
 faq:
-  - q: "Can expats claim zorgtoeslag in the Netherlands?"
-    a: "Yes. If you are registered in the Netherlands, have a BSN, hold Dutch basic health insurance (zorgverzekering), and your income is below the threshold, you are entitled to zorgtoeslag regardless of nationality. In 2026, the income limit is roughly EUR 38,520 for singles and around EUR 48,224 for partners combined."
-  - q: "What is the maximum huurtoeslag in 2026?"
-    a: "The maximum huurtoeslag in 2026 depends on your income, age, and rent. For tenants under 23, the rent ceiling is around EUR 454 per month. For tenants aged 23 and over, the maximum qualifying rent (liberalisatiegrens) is approximately EUR 880 per month. The maximum monthly allowance for a low-income single person can reach around EUR 375-415, but most expats receive less."
-  - q: "Does the 30% ruling affect my right to toeslagen?"
-    a: "Yes, significantly. The 30% ruling reduces your taxable income, which is the income used in toeslag calculations. This means your toeslagen entitlement is calculated on a lower income figure, which can increase your allowances. However, your actual gross income still determines whether certain other thresholds apply, so it is worth checking with a tax advisor."
-  - q: "How do I apply for zorgtoeslag and huurtoeslag as an expat?"
-    a: "You apply through Mijn Toeslagen on the Belastingdienst website. You need a DigiD account and a BSN to log in. Applications can be filed at any point during the year and are backdated up to 12 months if you apply late."
-  - q: "What happens if I receive too much toeslag?"
-    a: "If your actual annual income turns out to be higher than your estimated income, the Belastingdienst will reclaim the overpayment (terugvordering). This is one of the most common and painful surprises for expats. Always update your income estimate immediately if your salary changes."
+- q: Can expats claim zorgtoeslag in the Netherlands?
+  a: Yes. If you are registered in the Netherlands, have a BSN, hold Dutch basic health insurance (zorgverzekering), and your income is below the threshold, you are entitled to zorgtoeslag regardless of nationality. In 2026, the income limit is roughly EUR 38,520 for singles and around EUR 48,224 for partners combined.
+- q: What is the maximum huurtoeslag in 2026?
+  a: The maximum huurtoeslag in 2026 depends on your income, age, and rent. For tenants under 23, the rent ceiling is around EUR 454 per month. For tenants aged 23 and over, the maximum qualifying rent (liberalisatiegrens) is approximately EUR 880 per month. The maximum monthly allowance for a low-income single person can reach around EUR 375-415, but most expats receive less.
+- q: Does the 30% ruling affect my right to toeslagen?
+  a: Yes, significantly. The 30% ruling reduces your taxable income, which is the income used in toeslag calculations. This means your toeslagen entitlement is calculated on a lower income figure, which can increase your allowances. However, your actual gross income still determines whether certain other thresholds apply, so it is worth checking with a tax advisor.
+- q: How do I apply for zorgtoeslag and huurtoeslag as an expat?
+  a: You apply through Mijn Toeslagen on the Belastingdienst website. You need a DigiD account and a BSN to log in. Applications can be filed at any point during the year and are backdated up to 12 months if you apply late.
+- q: What happens if I receive too much toeslag?
+  a: If your actual annual income turns out to be higher than your estimated income, the Belastingdienst will reclaim the overpayment (terugvordering). This is one of the most common and painful surprises for expats. Always update your income estimate immediately if your salary changes.
+schema_type: Article
 ---
 
 When I first moved to the Netherlands, I had no idea the Dutch government would effectively pay part of my health insurance premium and help with my rent. I assumed benefits were for Dutch citizens, not for someone like me who had arrived from abroad with a work permit. I was wrong — and that misunderstanding cost me several months of allowances I could have been receiving.

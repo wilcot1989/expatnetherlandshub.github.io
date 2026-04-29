@@ -1,39 +1,49 @@
 ---
-title: "Average Salary in the Netherlands 2026: By City & Industry"
+title: 'Average Salary in the Netherlands 2026: By City & Industry'
 date: 2026-03-26
-lastmod: 2026-04-23T10:00:00+01:00
+lastmod: 2026-04-23 10:00:00+01:00
 draft: false
-author: "Sarah van den Berg"
-author_bio: "Expat coach and writer at ExpatNetherlandsHub.com"
-authorBio: "Expat coach and writer at ExpatNetherlandsHub.com"
-description: "Average salary in the Netherlands 2026 by age, city and industry. What expats actually earn, how Dutch pay compares, and salary negotiation tips."
-featured_image: "/images/categories/work.svg"
-category: "work"
-tags: ["salary Netherlands", "average salary", "expat salary", "Dutch wages", "salary comparison"]
-keywords: ["average salary Netherlands 2026", "salary Netherlands by industry", "Dutch salary expats", "average wage Netherlands"]
+author: Sarah van den Berg
+author_bio: Expat coach and writer at ExpatNetherlandsHub.com
+authorBio: Expat coach and writer at ExpatNetherlandsHub.com
+description: Average salary in the Netherlands 2026 by age, city and industry. What expats actually earn, how Dutch pay compares, and salary negotiation tips.
+featured_image: /images/categories/work.svg
+category: work
+tags:
+- salary Netherlands
+- average salary
+- expat salary
+- Dutch wages
+- salary comparison
+keywords:
+- average salary Netherlands 2026
+- salary Netherlands by industry
+- Dutch salary expats
+- average wage Netherlands
 products:
-  - name: "Wise"
-    url: "https://go.expatnetherlandshub.com/wise?ref=/guides/work/average-salary-netherlands-2026/"
-    price: "0.00"
-    tag: "Currency Transfer"
+- name: Wise
+  url: https://go.expatnetherlandshub.com/wise?ref=/guides/work/average-salary-netherlands-2026/
+  price: '0.00'
+  tag: Currency Transfer
 faq:
-  - q: "What is the average salary in the Netherlands in 2026?"
-    a: "The average gross salary in the Netherlands is approximately €44,000 per year, which works out to around €3,667 per month gross and roughly €2,800 net after taxes and social contributions."
-  - q: "Is a Dutch salary good compared to other European countries?"
-    a: "The Netherlands consistently ranks among the top five highest-paying countries in Europe. Salaries are lower than in the United States or Switzerland for many professions, but the combination of generous benefits, shorter working hours, and strong social protections makes total compensation very competitive."
-  - q: "How much tax do you pay on your salary in the Netherlands?"
-    a: "In 2026, the Dutch income tax rate is 36.97% on earnings up to €38,441 and 49.5% on everything above that threshold. However, most employees also benefit from deductions and credits that reduce the effective tax rate considerably."
-  - q: "How does the 30% ruling affect your salary?"
-    a: "The 30% ruling allows eligible expats to receive 30% of their gross salary tax-free. This can increase your net take-home pay by several hundred euros per month, making a significant difference especially for mid- to senior-level professionals."
-  - q: "What is the minimum wage in the Netherlands in 2026?"
-    a: "The statutory minimum wage (minimumloon) in the Netherlands as of January 2026 is €13.68 per hour for adults aged 21 and over, which translates to approximately €2,070 per month based on a standard 36-hour week."
-  - q: "What is holiday allowance and how does it work?"
-    a: "Holiday allowance (vakantiegeld) is a mandatory extra payment of 8% of your annual gross salary, paid in May or June. On a €44,000 salary that is roughly €3,520 extra — think of it as a built-in savings mechanism that Dutch employers are legally required to pay."
-  - q: "How do I negotiate a higher salary as an expat in the Netherlands?"
-    a: "Research salary benchmarks on CBS (Statistics Netherlands), Glassdoor, and Loonwijzer before any negotiation. Dutch employers respond well to data-driven conversations. Always negotiate on total package — pension contribution, training budget, and extra leave days all have real monetary value."
-  - q: "Which industries pay the highest salaries in the Netherlands?"
-    a: "IT/Tech, Finance/Banking, and Legal consistently pay the highest salaries in the Netherlands. Senior software engineers and finance professionals regularly earn €70,000–€90,000 in major cities."
+- q: What is the average salary in the Netherlands in 2026?
+  a: The average gross salary in the Netherlands is approximately €44,000 per year, which works out to around €3,667 per month gross and roughly €2,800 net after taxes and social contributions.
+- q: Is a Dutch salary good compared to other European countries?
+  a: The Netherlands consistently ranks among the top five highest-paying countries in Europe. Salaries are lower than in the United States or Switzerland for many professions, but the combination of generous benefits, shorter working hours, and strong social protections makes total compensation very competitive.
+- q: How much tax do you pay on your salary in the Netherlands?
+  a: In 2026, the Dutch income tax rate is 36.97% on earnings up to €38,441 and 49.5% on everything above that threshold. However, most employees also benefit from deductions and credits that reduce the effective tax rate considerably.
+- q: How does the 30% ruling affect your salary?
+  a: The 30% ruling allows eligible expats to receive 30% of their gross salary tax-free. This can increase your net take-home pay by several hundred euros per month, making a significant difference especially for mid- to senior-level professionals.
+- q: What is the minimum wage in the Netherlands in 2026?
+  a: The statutory minimum wage (minimumloon) in the Netherlands as of January 2026 is €13.68 per hour for adults aged 21 and over, which translates to approximately €2,070 per month based on a standard 36-hour week.
+- q: What is holiday allowance and how does it work?
+  a: Holiday allowance (vakantiegeld) is a mandatory extra payment of 8% of your annual gross salary, paid in May or June. On a €44,000 salary that is roughly €3,520 extra — think of it as a built-in savings mechanism that Dutch employers are legally required to pay.
+- q: How do I negotiate a higher salary as an expat in the Netherlands?
+  a: Research salary benchmarks on CBS (Statistics Netherlands), Glassdoor, and Loonwijzer before any negotiation. Dutch employers respond well to data-driven conversations. Always negotiate on total package — pension contribution, training budget, and extra leave days all have real monetary value.
+- q: Which industries pay the highest salaries in the Netherlands?
+  a: IT/Tech, Finance/Banking, and Legal consistently pay the highest salaries in the Netherlands. Senior software engineers and finance professionals regularly earn €70,000–€90,000 in major cities.
 affiliate: true
+schema_type: Article
 ---
 
 The first question most expats ask before moving to the Netherlands is not about tulips or cycling distances — it's "will I actually be able to afford living here?" Fair enough. Amsterdam is one of the most expensive cities in Europe, and Dutch rent prices have climbed steeply over the past few years.

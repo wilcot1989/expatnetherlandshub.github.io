@@ -1,40 +1,51 @@
 ---
-title: "Companies Hiring Internationals in NL 2026"
-date: 2026-03-18T10:00:00+01:00
-lastmod: 2026-04-23T10:00:00+01:00
-description: "Top companies in the Netherlands hiring international talent in 2026. Sectors, cities, English-language roles, 30% ruling eligibility, and how to apply."
-categories: ["work"]
-tags: ["jobs netherlands", "english speaking jobs", "expat jobs", "international companies netherlands", "30% ruling"]
-keywords: ["companies hiring internationals netherlands", "english speaking jobs netherlands", "international companies netherlands 2026", "expat jobs amsterdam"]
+title: Companies Hiring Internationals in NL 2026
+date: 2026-03-18 10:00:00+01:00
+lastmod: 2026-04-23 10:00:00+01:00
+description: Top companies in the Netherlands hiring international talent in 2026. Sectors, cities, English-language roles, 30% ruling eligibility, and how to apply.
+categories:
+- work
+tags:
+- jobs netherlands
+- english speaking jobs
+- expat jobs
+- international companies netherlands
+- 30% ruling
+keywords:
+- companies hiring internationals netherlands
+- english speaking jobs netherlands
+- international companies netherlands 2026
+- expat jobs amsterdam
 affiliate: true
 products:
-  - name: "LinkedIn Premium"
-    url: "https://www.linkedin.com/premium/"
-    price: "29.99"
-  - name: "Undutchables"
-    url: "https://undutchables.nl/"
-    price: "0.00"
-  - name: "Together Abroad"
-    url: "https://www.togetherabroad.nl/"
-    price: "0.00"
-author: "Sarah van den Berg"
-author_bio: "Expat coach and relocation specialist. Half Dutch, half British, living in the Netherlands for over 10 years."
-featured_image: "/images/categories/work.svg"
+- name: LinkedIn Premium
+  url: https://www.linkedin.com/premium/
+  price: '29.99'
+- name: Undutchables
+  url: https://undutchables.nl/
+  price: '0.00'
+- name: Together Abroad
+  url: https://www.togetherabroad.nl/
+  price: '0.00'
+author: Sarah van den Berg
+author_bio: Expat coach and relocation specialist. Half Dutch, half British, living in the Netherlands for over 10 years.
+featured_image: /images/categories/work.svg
 faq:
-  - q: "Which Dutch companies hire the most internationals?"
-    a: "The largest employers of internationals in the Netherlands include ASML (semiconductors, Eindhoven), Booking.com (tech, Amsterdam), Adyen (fintech, Amsterdam), Shell (energy, The Hague), ASML, Unilever, Philips, ING International, NN Group, TomTom, and DHL. The common factor is that these companies operate globally and use English as the working language, making Dutch language skills less critical — at least for the hiring stage."
-  - q: "Do I need to speak Dutch to work in the Netherlands?"
-    a: "Not necessarily, depending on the sector and role. Tech companies, international financial firms, and multinationals typically work in English and will hire you without Dutch. However, roles in client-facing positions, government, healthcare, education, and most SMEs require Dutch. Learning basic Dutch significantly expands your opportunities, even in English-language companies, and improves your day-to-day integration."
-  - q: "What is the minimum salary for the highly skilled migrant visa in 2026?"
-    a: "For the highly skilled migrant (kennismigrant) visa in 2026, the minimum gross monthly salary for applicants aged 30 and over is EUR 5,331. For applicants under 30, it is EUR 3,909. For graduates of Dutch institutions (orientation year/zoekjaar holders), it is EUR 2,801. These amounts are updated annually. Your employer must be an IND-recognised sponsor to hire you under this route."
-  - q: "Which cities in the Netherlands have the most international job opportunities?"
-    a: "Amsterdam has the highest concentration of international companies and English-language roles, followed by Eindhoven (ASML cluster, tech manufacturing), The Hague (Shell, international organisations, legal/finance), Rotterdam (shipping, logistics, energy), and Utrecht (healthcare, tech, startups). Smaller clusters exist in Delft (tech/research), Leiden (pharma/biotech), and Groningen (energy transition)."
-  - q: "Is the 30% ruling available when moving to the Netherlands for work?"
-    a: "The 30% ruling is available to expats recruited from abroad with specific expertise that is scarce in the Dutch labour market. In 2026, the ruling provides a tax-free allowance of up to 30% of gross salary for the first 5 years (reducing to 20% and then 10% in subsequent periods after 2024 changes). To qualify, you must have been living more than 150km from the Dutch border for 16 out of the 24 months before your Dutch employment starts."
-  - q: "What are the best job boards for finding English-language work in the Netherlands?"
-    a: "The most effective job boards for international candidates are: LinkedIn (the dominant platform for professional hiring in NL), IamExpat Jobs (specifically targeting internationals), Undutchables (specialist recruiter for expats), Together Abroad (international jobs and immigration), Glassdoor Netherlands (for company research and salaries), Indeed Netherlands (broad, but many Dutch-only listings), and direct company career pages for the large multinationals."
-  - q: "How does the Dutch interview process differ from other countries?"
-    a: "Dutch interviews tend to be more direct and egalitarian than in many other cultures. Interviewers will expect you to be honest about your weaknesses as well as strengths, to question them back about the role, and to avoid over-formal language or excessive flattery. Multiple interview rounds (typically 2-4) and assessment exercises are normal for senior roles. Salary discussion often happens earlier than in Anglo-Saxon processes. See the full guide on job interview tips for practical preparation."
+- q: Which Dutch companies hire the most internationals?
+  a: The largest employers of internationals in the Netherlands include ASML (semiconductors, Eindhoven), Booking.com (tech, Amsterdam), Adyen (fintech, Amsterdam), Shell (energy, The Hague), ASML, Unilever, Philips, ING International, NN Group, TomTom, and DHL. The common factor is that these companies operate globally and use English as the working language, making Dutch language skills less critical — at least for the hiring stage.
+- q: Do I need to speak Dutch to work in the Netherlands?
+  a: Not necessarily, depending on the sector and role. Tech companies, international financial firms, and multinationals typically work in English and will hire you without Dutch. However, roles in client-facing positions, government, healthcare, education, and most SMEs require Dutch. Learning basic Dutch significantly expands your opportunities, even in English-language companies, and improves your day-to-day integration.
+- q: What is the minimum salary for the highly skilled migrant visa in 2026?
+  a: For the highly skilled migrant (kennismigrant) visa in 2026, the minimum gross monthly salary for applicants aged 30 and over is EUR 5,331. For applicants under 30, it is EUR 3,909. For graduates of Dutch institutions (orientation year/zoekjaar holders), it is EUR 2,801. These amounts are updated annually. Your employer must be an IND-recognised sponsor to hire you under this route.
+- q: Which cities in the Netherlands have the most international job opportunities?
+  a: Amsterdam has the highest concentration of international companies and English-language roles, followed by Eindhoven (ASML cluster, tech manufacturing), The Hague (Shell, international organisations, legal/finance), Rotterdam (shipping, logistics, energy), and Utrecht (healthcare, tech, startups). Smaller clusters exist in Delft (tech/research), Leiden (pharma/biotech), and Groningen (energy transition).
+- q: Is the 30% ruling available when moving to the Netherlands for work?
+  a: The 30% ruling is available to expats recruited from abroad with specific expertise that is scarce in the Dutch labour market. In 2026, the ruling provides a tax-free allowance of up to 30% of gross salary for the first 5 years (reducing to 20% and then 10% in subsequent periods after 2024 changes). To qualify, you must have been living more than 150km from the Dutch border for 16 out of the 24 months before your Dutch employment starts.
+- q: What are the best job boards for finding English-language work in the Netherlands?
+  a: 'The most effective job boards for international candidates are: LinkedIn (the dominant platform for professional hiring in NL), IamExpat Jobs (specifically targeting internationals), Undutchables (specialist recruiter for expats), Together Abroad (international jobs and immigration), Glassdoor Netherlands (for company research and salaries), Indeed Netherlands (broad, but many Dutch-only listings), and direct company career pages for the large multinationals.'
+- q: How does the Dutch interview process differ from other countries?
+  a: Dutch interviews tend to be more direct and egalitarian than in many other cultures. Interviewers will expect you to be honest about your weaknesses as well as strengths, to question them back about the role, and to avoid over-formal language or excessive flattery. Multiple interview rounds (typically 2-4) and assessment exercises are normal for senior roles. Salary discussion often happens earlier than in Anglo-Saxon processes. See the full guide on job interview tips for practical preparation.
+schema_type: Article
 ---
 
 The Netherlands is one of the most international labour markets in Europe. More than 2.5 million people living in the Netherlands were born abroad, and in cities like Amsterdam and Eindhoven, you will find entire office floors where the only working language is English. Finding the right company is the key to making this work in your favour.

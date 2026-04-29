@@ -1,38 +1,50 @@
 ---
-title: "Dutch Culture & Humor Explained for Expats"
-date: 2026-03-18T10:00:00+01:00
-lastmod: 2026-04-23T10:00:00+01:00
-description: "Dutch directness and humor for expats: why Dutch people say exactly what they think, what doe maar gewoon means, and how Dutch social norms work."
-categories: ["integration"]
-tags: ["dutch culture", "directness", "humor", "social norms", "integration", "expat life"]
-keywords: ["dutch directness expats", "dutch culture humor explained", "why dutch people are so direct", "dutch social norms expats"]
+title: Dutch Culture & Humor Explained for Expats
+date: 2026-03-18 10:00:00+01:00
+lastmod: 2026-04-23 10:00:00+01:00
+description: 'Dutch directness and humor for expats: why Dutch people say exactly what they think, what doe maar gewoon means, and how Dutch social norms work.'
+categories:
+- integration
+tags:
+- dutch culture
+- directness
+- humor
+- social norms
+- integration
+- expat life
+keywords:
+- dutch directness expats
+- dutch culture humor explained
+- why dutch people are so direct
+- dutch social norms expats
 affiliate: false
-author: "Sarah van den Berg"
-author_bio: "Expat coach and relocation specialist. Half Dutch, half British, living in the Netherlands for over 10 years."
-featured_image: "/images/categories/integration.svg"
+author: Sarah van den Berg
+author_bio: Expat coach and relocation specialist. Half Dutch, half British, living in the Netherlands for over 10 years.
+featured_image: /images/categories/integration.svg
 faq:
-  - q: "Why are Dutch people so direct?"
-    a: "Dutch directness is rooted in a cultural value called 'doe maar gewoon, dan doe je al gek genoeg' (just act normal, that is already crazy enough). It reflects a deep egalitarianism — status and rank do not change what is true, so there is no need to soften truth for social reasons. Directness is considered honest and respectful in Dutch culture. It is not intended as rudeness, even when it feels that way to people from less direct cultures."
-  - q: "What is Dutch humor like?"
-    a: "Dutch humor tends to be dry, self-deprecating, and often involves understatement. The Dutch frequently joke about their own country's weather, bureaucracy, and cultural quirks. Irony and sarcasm are common. Teasing (plagen) is a sign of affection in Dutch social groups. Dutch humor is rarely flamboyant or performance-driven — it often slides by subtly, and if you miss it, no one will point it out."
-  - q: "What does 'doe maar gewoon' mean in practice?"
-    a: "'Doe maar gewoon, dan doe je al gek genoeg' means 'just act normally — that is already crazy enough.' It captures the Dutch cultural resistance to showing off, boasting, or drawing unnecessary attention to yourself. Modesty is valued. Bragging is frowned upon even when it would be socially normal elsewhere. This applies to wealth, achievements, and opinions."
-  - q: "Is it rude to ask about someone's salary in the Netherlands?"
-    a: "Less taboo than in many other cultures. The Dutch are generally open about money and income — in many social groups, discussing what you earn or what you paid for something is unremarkable. This openness connects to the broader egalitarian culture: if everyone is equal, there is less shame around money. However, boasting about your wealth is still frowned upon."
-  - q: "How do I make Dutch friends if they seem cold at first?"
-    a: "Dutch people often appear reserved or even unfriendly in initial encounters — particularly in larger cities. This is not hostility; it is the Dutch preference for established, stable social circles (vriendenkring). Once you are in, however, Dutch friendships are loyal and long-lasting. Joining a sports club, choir, hobby group, or volunteer organisation is one of the best ways to build these connections gradually."
-  - q: "What is the 'Dutch treat' (ieder betaalt zijn eigen rekening) culture?"
-    a: "In the Netherlands, splitting the bill (ieder betaalt zijn eigen) is the norm — not just with acquaintances but even among close friends. This is not stinginess; it reflects independence and equality. Nobody should feel obligated to others financially. Expecting someone to pay for you, or insisting on paying for others, can both feel slightly awkward in Dutch social settings."
+- q: Why are Dutch people so direct?
+  a: Dutch directness is rooted in a cultural value called 'doe maar gewoon, dan doe je al gek genoeg' (just act normal, that is already crazy enough). It reflects a deep egalitarianism — status and rank do not change what is true, so there is no need to soften truth for social reasons. Directness is considered honest and respectful in Dutch culture. It is not intended as rudeness, even when it feels that way to people from less direct cultures.
+- q: What is Dutch humor like?
+  a: Dutch humor tends to be dry, self-deprecating, and often involves understatement. The Dutch frequently joke about their own country's weather, bureaucracy, and cultural quirks. Irony and sarcasm are common. Teasing (plagen) is a sign of affection in Dutch social groups. Dutch humor is rarely flamboyant or performance-driven — it often slides by subtly, and if you miss it, no one will point it out.
+- q: What does 'doe maar gewoon' mean in practice?
+  a: '''Doe maar gewoon, dan doe je al gek genoeg'' means ''just act normally — that is already crazy enough.'' It captures the Dutch cultural resistance to showing off, boasting, or drawing unnecessary attention to yourself. Modesty is valued. Bragging is frowned upon even when it would be socially normal elsewhere. This applies to wealth, achievements, and opinions.'
+- q: Is it rude to ask about someone's salary in the Netherlands?
+  a: 'Less taboo than in many other cultures. The Dutch are generally open about money and income — in many social groups, discussing what you earn or what you paid for something is unremarkable. This openness connects to the broader egalitarian culture: if everyone is equal, there is less shame around money. However, boasting about your wealth is still frowned upon.'
+- q: How do I make Dutch friends if they seem cold at first?
+  a: Dutch people often appear reserved or even unfriendly in initial encounters — particularly in larger cities. This is not hostility; it is the Dutch preference for established, stable social circles (vriendenkring). Once you are in, however, Dutch friendships are loyal and long-lasting. Joining a sports club, choir, hobby group, or volunteer organisation is one of the best ways to build these connections gradually.
+- q: What is the 'Dutch treat' (ieder betaalt zijn eigen rekening) culture?
+  a: In the Netherlands, splitting the bill (ieder betaalt zijn eigen) is the norm — not just with acquaintances but even among close friends. This is not stinginess; it reflects independence and equality. Nobody should feel obligated to others financially. Expecting someone to pay for you, or insisting on paying for others, can both feel slightly awkward in Dutch social settings.
 products:
-  - name: "Babbel"
-    url: "https://www.babbel.com/"
-    price: "6.99"
-  - name: "Meetup"
-    url: "https://www.meetup.com/"
-    price: "0.00"
-  - name: "DutchPod101"
-    url: "https://www.dutchpod101.com/"
-    price: "0.00"
+- name: Babbel
+  url: https://www.babbel.com/
+  price: '6.99'
+- name: Meetup
+  url: https://www.meetup.com/
+  price: '0.00'
+- name: DutchPod101
+  url: https://www.dutchpod101.com/
+  price: '0.00'
+schema_type: Article
 ---
 
 When I first moved to the Netherlands, a Dutch colleague told me within 10 minutes of meeting her that my Dutch was terrible and she hoped I intended to improve it. She then offered me a coffee and a perfectly timed joke about Dutch rain. By the end of the conversation I liked her enormously. That is Dutch culture in a nutshell.

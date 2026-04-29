@@ -1,35 +1,46 @@
 ---
-title: "Driving in the Netherlands: License, Rules & Expat Tips"
-date: 2026-04-15T10:00:00+01:00
-lastmod: 2026-04-23T10:00:00+01:00
-description: "Complete guide to driving in the Netherlands as an expat. License exchange, Dutch driving rules, car ownership costs, and practical tips for 2026."
-categories: ["transport"]
-tags: ["driving Netherlands", "driver's license", "car ownership", "Dutch traffic rules", "expat transport"]
-keywords: ["driving in Netherlands expat", "exchange driver's license NL", "Dutch driving rules", "car costs Netherlands"]
+title: 'Driving in the Netherlands: License, Rules & Expat Tips'
+date: 2026-04-15 10:00:00+01:00
+lastmod: 2026-04-23 10:00:00+01:00
+description: Complete guide to driving in the Netherlands as an expat. License exchange, Dutch driving rules, car ownership costs, and practical tips for 2026.
+categories:
+- transport
+tags:
+- driving Netherlands
+- driver's license
+- car ownership
+- Dutch traffic rules
+- expat transport
+keywords:
+- driving in Netherlands expat
+- exchange driver's license NL
+- Dutch driving rules
+- car costs Netherlands
 affiliate: true
 products:
-  - name: "Swapfiets"
-    url: "https://swapfiets.nl/"
-    price: "16.90"
-  - name: "NS"
-    url: "https://www.ns.nl/"
-    price: "0.00"
-author: "Sarah van den Berg"
-author_bio: "Expat coach and relocation specialist. Half Dutch, half British, living in the Netherlands for over 10 years."
-featured_image: "/images/featured/driving-in-netherlands-guide-2026.webp"
+- name: Swapfiets
+  url: https://swapfiets.nl/
+  price: '16.90'
+- name: NS
+  url: https://www.ns.nl/
+  price: '0.00'
+author: Sarah van den Berg
+author_bio: Expat coach and relocation specialist. Half Dutch, half British, living in the Netherlands for over 10 years.
+featured_image: /images/featured/driving-in-netherlands-guide-2026.webp
 faq:
-  - q: "Can I drive with my foreign license in the Netherlands?"
-    a: "EU/EEA licenses are valid indefinitely. Non-EU licenses are valid for 185 days after registration. After that, you must exchange your license (if your country has an agreement) or take the Dutch driving exam. Some countries (USA, Canada, Japan, South Korea) have exchange agreements."
-  - q: "How do I exchange my driver's license in the Netherlands?"
-    a: "If your country has an exchange agreement with the Netherlands: apply at your municipality (gemeente), submit your foreign license, ID, and recent passport photo, pay approximately €40, and receive your Dutch license within 1-4 weeks. If no agreement exists, you must take the Dutch driving exam."
-  - q: "How much does it cost to own a car in the Netherlands?"
-    a: "Monthly costs average €400-€700 including: insurance (€50-€150), road tax (€30-€100), fuel (€150-€250), maintenance (€50-€100), and parking (€50-€200 in cities). The Netherlands is one of the most expensive countries in Europe for car ownership due to high taxes."
-  - q: "Do I need a car in the Netherlands?"
-    a: "In most Dutch cities, no. Public transport, cycling, and car-sharing cover most needs. A car is useful if you live in rural areas, have a long commute not served by public transport, have small children, or frequently travel to areas outside the Randstad."
-  - q: "What are the main differences in Dutch driving rules?"
-    a: "Key differences: cyclists have priority in most situations, right has priority at unmarked intersections, speed limits are strictly enforced by cameras, the maximum alcohol limit is 0.5‰ (0.2‰ for new drivers), and winter tires are not mandatory but recommended."
-  - q: "Is an electric car worth it in the Netherlands?"
-    a: "Yes, electric cars have significant tax advantages in the Netherlands: no road tax (BPM), lower bijtelling (company car tax), free or discounted parking in many cities, and lower fuel costs. With dense charging infrastructure and short distances, the Netherlands is ideal for EVs."
+- q: Can I drive with my foreign license in the Netherlands?
+  a: EU/EEA licenses are valid indefinitely. Non-EU licenses are valid for 185 days after registration. After that, you must exchange your license (if your country has an agreement) or take the Dutch driving exam. Some countries (USA, Canada, Japan, South Korea) have exchange agreements.
+- q: How do I exchange my driver's license in the Netherlands?
+  a: 'If your country has an exchange agreement with the Netherlands: apply at your municipality (gemeente), submit your foreign license, ID, and recent passport photo, pay approximately €40, and receive your Dutch license within 1-4 weeks. If no agreement exists, you must take the Dutch driving exam.'
+- q: How much does it cost to own a car in the Netherlands?
+  a: 'Monthly costs average €400-€700 including: insurance (€50-€150), road tax (€30-€100), fuel (€150-€250), maintenance (€50-€100), and parking (€50-€200 in cities). The Netherlands is one of the most expensive countries in Europe for car ownership due to high taxes.'
+- q: Do I need a car in the Netherlands?
+  a: In most Dutch cities, no. Public transport, cycling, and car-sharing cover most needs. A car is useful if you live in rural areas, have a long commute not served by public transport, have small children, or frequently travel to areas outside the Randstad.
+- q: What are the main differences in Dutch driving rules?
+  a: 'Key differences: cyclists have priority in most situations, right has priority at unmarked intersections, speed limits are strictly enforced by cameras, the maximum alcohol limit is 0.5‰ (0.2‰ for new drivers), and winter tires are not mandatory but recommended.'
+- q: Is an electric car worth it in the Netherlands?
+  a: 'Yes, electric cars have significant tax advantages in the Netherlands: no road tax (BPM), lower bijtelling (company car tax), free or discounted parking in many cities, and lower fuel costs. With dense charging infrastructure and short distances, the Netherlands is ideal for EVs.'
+schema_type: Article
 ---
 
 I resisted getting a car in the Netherlands for years -- the cycling is great, the trains are excellent, and owning a car here is eye-wateringly expensive. But when I started needing to visit clients outside the Randstad, I finally had to figure out Dutch driving rules, license exchange, and why everyone seems to be in a traffic jam on the A2 at the same time. Here is what I have learned.

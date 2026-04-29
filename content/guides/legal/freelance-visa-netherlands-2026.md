@@ -1,36 +1,47 @@
 ---
-title: "Freelance Visa Netherlands 2026: Options for Non-EU Entrepreneurs"
-slug: "freelance-visa-netherlands-2026"
-date: 2026-03-26T10:00:00+01:00
-lastmod: 2026-04-23T10:00:00+01:00
-description: "How to get a freelance visa for the Netherlands in 2026. Requirements, DAFT treaty, application process, costs, and alternatives for non-EU freelancers."
-categories: ["legal"]
-tags: ["visa", "freelance", "self-employed", "DAFT", "entrepreneur visa"]
-keywords: ["freelance visa Netherlands", "self-employed visa Netherlands", "DAFT treaty", "entrepreneur residence permit"]
-author: "Sarah van den Berg"
-author_bio: "Expat coach and writer at ExpatNetherlandsHub.com"
-featured_image: "/images/categories/legal.svg"
+title: 'Freelance Visa Netherlands 2026: Options for Non-EU Entrepreneurs'
+slug: freelance-visa-netherlands-2026
+date: 2026-03-26 10:00:00+01:00
+lastmod: 2026-04-23 10:00:00+01:00
+description: How to get a freelance visa for the Netherlands in 2026. Requirements, DAFT treaty, application process, costs, and alternatives for non-EU freelancers.
+categories:
+- legal
+tags:
+- visa
+- freelance
+- self-employed
+- DAFT
+- entrepreneur visa
+keywords:
+- freelance visa Netherlands
+- self-employed visa Netherlands
+- DAFT treaty
+- entrepreneur residence permit
+author: Sarah van den Berg
+author_bio: Expat coach and writer at ExpatNetherlandsHub.com
+featured_image: /images/categories/legal.svg
 affiliate: true
 products:
-  - name: "Wise"
-    url: "https://go.expatnetherlandshub.com/wise?ref=/guides/legal/freelance-visa-netherlands-2026/"
-    price: "0.00"
-    tag: "Business Banking"
+- name: Wise
+  url: https://go.expatnetherlandshub.com/wise?ref=/guides/legal/freelance-visa-netherlands-2026/
+  price: '0.00'
+  tag: Business Banking
 faq:
-  - q: "Can I freelance in the Netherlands without an EU passport?"
-    a: "Yes, but you need the right residence permit. Non-EU/EEA citizens have three main routes: the DAFT visa (US citizens only), the self-employment residence permit (all nationalities, points-based), and the startup visa (all nationalities, requires a facilitator and an innovative business). Without one of these permits, working as a freelancer is not legally permitted."
-  - q: "What are the DAFT visa requirements?"
-    a: "You must hold US citizenship, have a business plan for a genuine business you will run in the Netherlands, deposit €4,500 into a Dutch business bank account as working capital, register your business with the KvK (Chamber of Commerce), and have your own health insurance. You do not need a Dutch employer or a minimum turnover guarantee."
-  - q: "How much deposit do I need for the DAFT visa?"
-    a: "Exactly €4,500, deposited into a Dutch business bank account. This money stays yours — it is not a fee paid to any authority. It needs to be demonstrably available as working capital at the time of application and at each two-year renewal. The IND has kept this amount stable for several years, but check the current IND website before applying."
-  - q: "How long does the DAFT application take?"
-    a: "Typically two to three months from initial application to receiving your residence permit in the Netherlands. If you are applying from outside the Netherlands, add four to eight weeks for the provisional residence permit (MVV) from your nearest Dutch consulate. Total timeline from abroad is usually four to six months."
-  - q: "Can I bring my family on a freelance visa?"
-    a: "Yes. On both the DAFT visa and the self-employment residence permit, your spouse or registered partner can apply for a dependent residence permit, which also gives them the right to work in the Netherlands. Children under 18 can come as dependents. Your family's permits are tied to yours, so if your permit lapses, theirs do too."
-  - q: "What is the difference between the startup visa and the self-employment residence permit?"
-    a: "The startup visa is a one-year permit for people developing an innovative product or service, and requires an approved facilitator (an accelerator, incubator, or business development organisation approved by RVO). After that year, you apply for the self-employment permit. The self-employment residence permit is a direct, longer-term route for any non-EU entrepreneur with an existing or planned business — no facilitator required, but you must score at least 300 points on the IND assessment."
-  - q: "What happens if my application is rejected?"
-    a: "You have the right to object (bezwaar) within four weeks of the rejection decision. If that is also rejected, you can appeal to the court (beroep). The most common rejection reasons are an insufficient business plan, low IND points score, or missing documents — all of which are avoidable. Getting a rejection does not permanently bar you from reapplying, but it delays your plans by months. An immigration lawyer is worth the cost if you are close to the 300-point threshold."
+- q: Can I freelance in the Netherlands without an EU passport?
+  a: 'Yes, but you need the right residence permit. Non-EU/EEA citizens have three main routes: the DAFT visa (US citizens only), the self-employment residence permit (all nationalities, points-based), and the startup visa (all nationalities, requires a facilitator and an innovative business). Without one of these permits, working as a freelancer is not legally permitted.'
+- q: What are the DAFT visa requirements?
+  a: You must hold US citizenship, have a business plan for a genuine business you will run in the Netherlands, deposit €4,500 into a Dutch business bank account as working capital, register your business with the KvK (Chamber of Commerce), and have your own health insurance. You do not need a Dutch employer or a minimum turnover guarantee.
+- q: How much deposit do I need for the DAFT visa?
+  a: Exactly €4,500, deposited into a Dutch business bank account. This money stays yours — it is not a fee paid to any authority. It needs to be demonstrably available as working capital at the time of application and at each two-year renewal. The IND has kept this amount stable for several years, but check the current IND website before applying.
+- q: How long does the DAFT application take?
+  a: Typically two to three months from initial application to receiving your residence permit in the Netherlands. If you are applying from outside the Netherlands, add four to eight weeks for the provisional residence permit (MVV) from your nearest Dutch consulate. Total timeline from abroad is usually four to six months.
+- q: Can I bring my family on a freelance visa?
+  a: Yes. On both the DAFT visa and the self-employment residence permit, your spouse or registered partner can apply for a dependent residence permit, which also gives them the right to work in the Netherlands. Children under 18 can come as dependents. Your family's permits are tied to yours, so if your permit lapses, theirs do too.
+- q: What is the difference between the startup visa and the self-employment residence permit?
+  a: The startup visa is a one-year permit for people developing an innovative product or service, and requires an approved facilitator (an accelerator, incubator, or business development organisation approved by RVO). After that year, you apply for the self-employment permit. The self-employment residence permit is a direct, longer-term route for any non-EU entrepreneur with an existing or planned business — no facilitator required, but you must score at least 300 points on the IND assessment.
+- q: What happens if my application is rejected?
+  a: You have the right to object (bezwaar) within four weeks of the rejection decision. If that is also rejected, you can appeal to the court (beroep). The most common rejection reasons are an insufficient business plan, low IND points score, or missing documents — all of which are avoidable. Getting a rejection does not permanently bar you from reapplying, but it delays your plans by months. An immigration lawyer is worth the cost if you are close to the 300-point threshold.
+schema_type: Article
 ---
 
 If you're a non-EU citizen dreaming of freelancing in the Netherlands, the good news is it's possible — but the visa route matters enormously. Picking the wrong option, or applying without the right documentation, costs months of delays and real money. I've helped dozens of expat clients work through this process, and the single biggest mistake I see is people not understanding which route actually applies to them before they start.

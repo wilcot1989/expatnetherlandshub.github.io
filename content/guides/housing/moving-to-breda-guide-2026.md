@@ -1,38 +1,45 @@
 ---
-title: "Moving to Breda as an Expat: Complete City Guide 2026"
-slug: "moving-to-breda-guide-2026"
-date: 2026-03-07T10:00:00+01:00
-lastmod: 2026-04-23T10:00:00+01:00
-categories: ["housing"]
-tags: ["breda", "city guide", "expat", "brabant", "relocation", "north brabant"]
-author: "Sarah van den Berg"
-author_bio: "Expat coach and relocation specialist. Half Dutch, half British, living in the Netherlands for over 10 years."
-featured_image: "/images/featured/moving-to-breda-guide-2026.webp"
-description: "Moving to Breda as an expat? This complete city guide covers housing, neighbourhoods, cost of living, transport and registration in 2026."
+title: 'Moving to Breda as an Expat: Complete City Guide 2026'
+slug: moving-to-breda-guide-2026
+date: 2026-03-07 10:00:00+01:00
+lastmod: 2026-04-23 10:00:00+01:00
+categories:
+- housing
+tags:
+- breda
+- city guide
+- expat
+- brabant
+- relocation
+- north brabant
+author: Sarah van den Berg
+author_bio: Expat coach and relocation specialist. Half Dutch, half British, living in the Netherlands for over 10 years.
+featured_image: /images/featured/moving-to-breda-guide-2026.webp
+description: Moving to Breda as an expat? This complete city guide covers housing, neighbourhoods, cost of living, transport and registration in 2026.
 affiliate: false
-type: "city-guide"
-
+type: city-guide
 faq:
-  - q: "Is Breda a good city for expats?"
-    a: "Yes. Breda offers a very good quality of life at a fraction of the cost of Amsterdam or Utrecht. It has a warm Brabant culture, good transport links, and a growing international community. English is widely spoken, especially in the tech and logistics sectors."
-  - q: "How far is Breda from Amsterdam?"
-    a: "By direct Intercity train, Breda is about 1 hour and 10 minutes from Amsterdam Centraal. Rotterdam is just 25 minutes away, and Eindhoven is around 45 minutes. The location makes Breda a realistic base for people working in multiple cities."
-  - q: "What is the average rent in Breda in 2026?"
-    a: "A furnished two-bedroom apartment in or near Breda city centre typically costs between €1,200 and €1,700 per month. Studios start from around €850. Suburban districts and smaller apartments in areas like Princenhage tend to be cheaper than the central neighbourhoods."
-  - q: "Do I need to speak Dutch to live in Breda?"
-    a: "Not for everyday life. English is widely understood and most services, shops, and employers in Breda are used to working in English. That said, making an effort with Dutch — even a handful of phrases — is appreciated and will open more doors socially."
-  - q: "How do I register and get a BSN number in Breda?"
-    a: "You register at the Gemeente Breda with your passport, rental contract, and a booked appointment. Your BSN (citizen service number) is issued at or shortly after registration. You cannot open a bank account or access most services without it, so this should be your first priority."
+- q: Is Breda a good city for expats?
+  a: Yes. Breda offers a very good quality of life at a fraction of the cost of Amsterdam or Utrecht. It has a warm Brabant culture, good transport links, and a growing international community. English is widely spoken, especially in the tech and logistics sectors.
+- q: How far is Breda from Amsterdam?
+  a: By direct Intercity train, Breda is about 1 hour and 10 minutes from Amsterdam Centraal. Rotterdam is just 25 minutes away, and Eindhoven is around 45 minutes. The location makes Breda a realistic base for people working in multiple cities.
+- q: What is the average rent in Breda in 2026?
+  a: A furnished two-bedroom apartment in or near Breda city centre typically costs between €1,200 and €1,700 per month. Studios start from around €850. Suburban districts and smaller apartments in areas like Princenhage tend to be cheaper than the central neighbourhoods.
+- q: Do I need to speak Dutch to live in Breda?
+  a: Not for everyday life. English is widely understood and most services, shops, and employers in Breda are used to working in English. That said, making an effort with Dutch — even a handful of phrases — is appreciated and will open more doors socially.
+- q: How do I register and get a BSN number in Breda?
+  a: You register at the Gemeente Breda with your passport, rental contract, and a booked appointment. Your BSN (citizen service number) is issued at or shortly after registration. You cannot open a bank account or access most services without it, so this should be your first priority.
 products:
-  - name: "HousingAnywhere"
-    url: "https://housinganywhere.com/"
-    price: "0.00"
-  - name: "Pararius"
-    url: "https://www.pararius.com/"
-    price: "0.00"
-  - name: "Funda"
-    url: "https://www.funda.nl/"
-    price: "0.00"
+- name: HousingAnywhere
+  url: https://housinganywhere.com/
+  price: '0.00'
+- name: Pararius
+  url: https://www.pararius.com/
+  price: '0.00'
+- name: Funda
+  url: https://www.funda.nl/
+  price: '0.00'
+schema_type: Article
 ---
 
 People ask me all the time where to move in the Netherlands if they want a proper Dutch city life without the price tag that comes with Amsterdam or Utrecht. And more and more often, I find myself saying: have you looked at Breda?

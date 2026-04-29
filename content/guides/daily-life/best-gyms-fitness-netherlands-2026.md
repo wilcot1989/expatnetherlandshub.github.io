@@ -1,32 +1,43 @@
 ---
-title: "Best Gyms and Fitness Options in the Netherlands 2026"
-date: 2026-04-28T10:00:00+01:00
-lastmod: 2026-04-23T10:00:00+01:00
-description: "Complete guide to gyms and fitness in the Netherlands for expats. Best gym chains, pricing, sports clubs, and how to stay active the Dutch way."
-categories: ["lifestyle"]
-tags: ["gym Netherlands", "fitness", "sports club", "Basic-Fit", "expat fitness"]
-keywords: ["best gym Netherlands", "fitness Netherlands expat", "gym membership NL", "sports clubs Netherlands"]
+title: Best Gyms and Fitness Options in the Netherlands 2026
+date: 2026-04-28 10:00:00+01:00
+lastmod: 2026-04-23 10:00:00+01:00
+description: Complete guide to gyms and fitness in the Netherlands for expats. Best gym chains, pricing, sports clubs, and how to stay active the Dutch way.
+categories:
+- lifestyle
+tags:
+- gym Netherlands
+- fitness
+- sports club
+- Basic-Fit
+- expat fitness
+keywords:
+- best gym Netherlands
+- fitness Netherlands expat
+- gym membership NL
+- sports clubs Netherlands
 affiliate: true
 products:
-  - name: "KPN"
-    url: "https://www.kpn.com/"
-    price: "0.00"
-author: "Sarah van den Berg"
-author_bio: "Expat coach and relocation specialist. Half Dutch, half British, living in the Netherlands for over 10 years."
-featured_image: "/images/featured/best-gyms-fitness-netherlands-2026.webp"
+- name: KPN
+  url: https://www.kpn.com/
+  price: '0.00'
+author: Sarah van den Berg
+author_bio: Expat coach and relocation specialist. Half Dutch, half British, living in the Netherlands for over 10 years.
+featured_image: /images/featured/best-gyms-fitness-netherlands-2026.webp
 faq:
-  - q: "How much does a gym membership cost in the Netherlands?"
-    a: "Gym membership costs range from €15-€80/month. Budget gyms: Basic-Fit (€20-€30), Fit For Free (€15-€25). Mid-range: Trainmore (€30-€50), Sportcity (€35-€50). Premium: David Lloyd (€80-€120), Virgin Active (€60-€80). Most gyms have no registration fee if you commit to 12 months."
-  - q: "What is the best gym chain in the Netherlands?"
-    a: "Basic-Fit is the largest and most affordable (900+ locations, €20-€30/month). Trainmore is best for quality facilities with a premium feel at mid-range prices. David Lloyd is best for families (pools, tennis, kids' programs). For yoga/boutique fitness, Urban Sports Club gives access to hundreds of studios for one subscription."
-  - q: "Can I cancel my gym membership easily?"
-    a: "By Dutch law, gym memberships with a minimum contract period (usually 12 months) can be cancelled with 1 month notice after the initial period. Monthly contracts can be cancelled anytime with 1 month notice. Always cancel in writing (email or letter). Many gyms make cancellation deliberately difficult — be persistent."
-  - q: "What sports are popular in the Netherlands?"
-    a: "Most popular: football (soccer), cycling, running, fitness/gym, swimming, tennis, hockey (field hockey is huge in NL), skating, and rowing. The Netherlands has a strong club culture — joining a local sports club (sportvereniging) is one of the best ways to integrate and make Dutch friends."
-  - q: "How do I join a sports club in the Netherlands?"
-    a: "Search for local clubs at sportindebuurt.nl or your municipality's sports page. Most clubs welcome beginners and offer trial sessions. Membership costs €15-€50/month (much cheaper than commercial gyms). Popular expat-friendly sports: hockey, tennis, running clubs, and rowing. Many clubs have English-speaking members."
-  - q: "Is cycling enough exercise in the Netherlands?"
-    a: "Daily cycling for transport provides a great baseline of cardio fitness — the average Dutch person cycles 3 km/day. However, cycling at commuting pace doesn't fully replace strength training, flexibility work, or intense cardio. Many Dutch people combine daily cycling with gym, running, or sports club membership."
+- q: How much does a gym membership cost in the Netherlands?
+  a: 'Gym membership costs range from €15-€80/month. Budget gyms: Basic-Fit (€20-€30), Fit For Free (€15-€25). Mid-range: Trainmore (€30-€50), Sportcity (€35-€50). Premium: David Lloyd (€80-€120), Virgin Active (€60-€80). Most gyms have no registration fee if you commit to 12 months.'
+- q: What is the best gym chain in the Netherlands?
+  a: Basic-Fit is the largest and most affordable (900+ locations, €20-€30/month). Trainmore is best for quality facilities with a premium feel at mid-range prices. David Lloyd is best for families (pools, tennis, kids' programs). For yoga/boutique fitness, Urban Sports Club gives access to hundreds of studios for one subscription.
+- q: Can I cancel my gym membership easily?
+  a: By Dutch law, gym memberships with a minimum contract period (usually 12 months) can be cancelled with 1 month notice after the initial period. Monthly contracts can be cancelled anytime with 1 month notice. Always cancel in writing (email or letter). Many gyms make cancellation deliberately difficult — be persistent.
+- q: What sports are popular in the Netherlands?
+  a: 'Most popular: football (soccer), cycling, running, fitness/gym, swimming, tennis, hockey (field hockey is huge in NL), skating, and rowing. The Netherlands has a strong club culture — joining a local sports club (sportvereniging) is one of the best ways to integrate and make Dutch friends.'
+- q: How do I join a sports club in the Netherlands?
+  a: 'Search for local clubs at sportindebuurt.nl or your municipality''s sports page. Most clubs welcome beginners and offer trial sessions. Membership costs €15-€50/month (much cheaper than commercial gyms). Popular expat-friendly sports: hockey, tennis, running clubs, and rowing. Many clubs have English-speaking members.'
+- q: Is cycling enough exercise in the Netherlands?
+  a: Daily cycling for transport provides a great baseline of cardio fitness — the average Dutch person cycles 3 km/day. However, cycling at commuting pace doesn't fully replace strength training, flexibility work, or intense cardio. Many Dutch people combine daily cycling with gym, running, or sports club membership.
+schema_type: Article
 ---
 
 When I first moved here, I assumed all the cycling would keep me fit. It does help, but after a year of only biking to the supermarket, I realised I needed something more. I have since tried everything from Basic-Fit to a local hockey club -- yes, field hockey, the Dutch obsession I never expected to love. Here is my guide to staying fit in the Netherlands as an expat.

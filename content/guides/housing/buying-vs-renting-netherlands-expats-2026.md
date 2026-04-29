@@ -1,40 +1,51 @@
 ---
-title: "Buying vs Renting Netherlands: Expat Guide 2026"
-date: 2026-05-21T10:00:00+01:00
-lastmod: 2026-04-23T10:00:00+01:00
-description: "Buy or rent in the Netherlands as an expat? Real mortgage calculations, break-even analysis, and the 30% ruling impact for 2026."
-categories: ["housing"]
-tags: ["buying", "renting", "housing", "mortgage", "koopwoning"]
-keywords: ["buying vs renting netherlands expat", "should I buy house netherlands", "rent or buy netherlands 2026", "expat mortgage netherlands"]
+title: 'Buying vs Renting Netherlands: Expat Guide 2026'
+date: 2026-05-21 10:00:00+01:00
+lastmod: 2026-04-23 10:00:00+01:00
+description: Buy or rent in the Netherlands as an expat? Real mortgage calculations, break-even analysis, and the 30% ruling impact for 2026.
+categories:
+- housing
+tags:
+- buying
+- renting
+- housing
+- mortgage
+- koopwoning
+keywords:
+- buying vs renting netherlands expat
+- should I buy house netherlands
+- rent or buy netherlands 2026
+- expat mortgage netherlands
 affiliate: true
-author: "Sarah van den Berg"
-author_bio: "Expat coach and relocation specialist. Half Dutch, half British, living in the Netherlands for over 10 years."
-featured_image: "/images/categories/housing.svg"
+author: Sarah van den Berg
+author_bio: Expat coach and relocation specialist. Half Dutch, half British, living in the Netherlands for over 10 years.
+featured_image: /images/categories/housing.svg
 faq:
-  - q: "How long do I need to stay in the Netherlands to make buying worth it?"
-    a: "Based on typical transaction costs and market conditions in 2026, you need to stay at least 3 to 5 years to break even on a purchase. The exact timeline depends on house price appreciation, your mortgage rate, and local transaction costs. If there is any real chance you will leave within 3 years, renting is almost certainly the better financial decision."
-  - q: "Can I get a Dutch mortgage with the 30% ruling?"
-    a: "Yes, but it gets complicated. Some banks include your 30% ruling allowance in the income calculation, others exclude it entirely. If your bank excludes the ruling, your borrowing capacity drops significantly. The safest approach is to apply for a mortgage based only on your taxable salary (without the ruling), so you are not overexposed if your ruling expires or you change employers."
-  - q: "What is overdrachtsbelasting and how much does it cost in 2026?"
-    a: "Overdrachtsbelasting is transfer tax paid when you buy property in the Netherlands. In 2026, first-time buyers under 35 buying a home costing up to €510,000 pay 0%. For most expat buyers who do not qualify for the exemption, the rate is 2% of the purchase price. On a €350,000 home that is €7,000 — money you will not get back when you sell."
-  - q: "Is it true that Dutch renters have very strong legal protections?"
-    a: "Yes, particularly in the social housing sector. In the private rental sector (vrije sector), protections are more limited but still meaningful. A landlord cannot evict you without good reason, must give proper notice, and cannot raise rent more than a set percentage per year. Since the Affordable Rent Act (Wet betaalbare huur) took effect in 2024, the social/private boundary moved, bringing more properties under rent regulation. For expats renting in the private sector, your main protections concern eviction terms and deposit rules."
-  - q: "Does hypotheekrenteaftrek (mortgage interest deduction) still make buying attractive in 2026?"
-    a: "It helps, but less than it used to. The maximum rate at which you can deduct mortgage interest has been capped and is now linked to the basic income tax rate (box 1), which reduces the benefit for higher earners. For someone in the top tax bracket, this means the deduction is worth less than it was ten years ago. It still makes owning cheaper on paper, but you should not base your entire buy decision on this tax break alone."
-  - q: "Can I rent out my Dutch home if I move abroad temporarily?"
-    a: "In theory yes, but your mortgage contract typically prohibits renting without bank consent. You must inform your mortgage lender and get written approval. Short-term rental via Airbnb may also require local authority permission. If you plan to leave temporarily and rent out the property, discuss this explicitly with your mortgage adviser before you buy."
-  - q: "What happens to my mortgage if my highly skilled migrant visa is not renewed?"
-    a: "Your mortgage obligation does not disappear if your visa situation changes. If you lose your right to stay in the Netherlands, you would typically need to sell the property or make alternative arrangements. Banks are aware of this risk and some require a minimum period of legal residence before approving a mortgage. This visa dependency is one of the strongest arguments for renting during your first years in the country."
+- q: How long do I need to stay in the Netherlands to make buying worth it?
+  a: Based on typical transaction costs and market conditions in 2026, you need to stay at least 3 to 5 years to break even on a purchase. The exact timeline depends on house price appreciation, your mortgage rate, and local transaction costs. If there is any real chance you will leave within 3 years, renting is almost certainly the better financial decision.
+- q: Can I get a Dutch mortgage with the 30% ruling?
+  a: Yes, but it gets complicated. Some banks include your 30% ruling allowance in the income calculation, others exclude it entirely. If your bank excludes the ruling, your borrowing capacity drops significantly. The safest approach is to apply for a mortgage based only on your taxable salary (without the ruling), so you are not overexposed if your ruling expires or you change employers.
+- q: What is overdrachtsbelasting and how much does it cost in 2026?
+  a: Overdrachtsbelasting is transfer tax paid when you buy property in the Netherlands. In 2026, first-time buyers under 35 buying a home costing up to €510,000 pay 0%. For most expat buyers who do not qualify for the exemption, the rate is 2% of the purchase price. On a €350,000 home that is €7,000 — money you will not get back when you sell.
+- q: Is it true that Dutch renters have very strong legal protections?
+  a: Yes, particularly in the social housing sector. In the private rental sector (vrije sector), protections are more limited but still meaningful. A landlord cannot evict you without good reason, must give proper notice, and cannot raise rent more than a set percentage per year. Since the Affordable Rent Act (Wet betaalbare huur) took effect in 2024, the social/private boundary moved, bringing more properties under rent regulation. For expats renting in the private sector, your main protections concern eviction terms and deposit rules.
+- q: Does hypotheekrenteaftrek (mortgage interest deduction) still make buying attractive in 2026?
+  a: It helps, but less than it used to. The maximum rate at which you can deduct mortgage interest has been capped and is now linked to the basic income tax rate (box 1), which reduces the benefit for higher earners. For someone in the top tax bracket, this means the deduction is worth less than it was ten years ago. It still makes owning cheaper on paper, but you should not base your entire buy decision on this tax break alone.
+- q: Can I rent out my Dutch home if I move abroad temporarily?
+  a: In theory yes, but your mortgage contract typically prohibits renting without bank consent. You must inform your mortgage lender and get written approval. Short-term rental via Airbnb may also require local authority permission. If you plan to leave temporarily and rent out the property, discuss this explicitly with your mortgage adviser before you buy.
+- q: What happens to my mortgage if my highly skilled migrant visa is not renewed?
+  a: Your mortgage obligation does not disappear if your visa situation changes. If you lose your right to stay in the Netherlands, you would typically need to sell the property or make alternative arrangements. Banks are aware of this risk and some require a minimum period of legal residence before approving a mortgage. This visa dependency is one of the strongest arguments for renting during your first years in the country.
 products:
-  - name: "Funda"
-    url: "https://www.funda.nl/"
-    price: "0.00"
-  - name: "Hypotheek Visie"
-    url: "https://www.hypotheekvisie.nl/"
-    price: "0.00"
-  - name: "Pararius"
-    url: "https://www.pararius.com/"
-    price: "0.00"
+- name: Funda
+  url: https://www.funda.nl/
+  price: '0.00'
+- name: Hypotheek Visie
+  url: https://www.hypotheekvisie.nl/
+  price: '0.00'
+- name: Pararius
+  url: https://www.pararius.com/
+  price: '0.00'
+schema_type: Article
 ---
 
 I bought my apartment in Utrecht in 2019 after four years of renting, and I still think about whether I made the right call. At the time, prices were rising fast, my relationship was stable, and my Dutch employer had just offered me a permanent contract. The numbers made sense. But for many of the expats I work with today, the calculus looks very different — higher interest rates, tighter lending rules, and genuine uncertainty about how long they will actually stay.

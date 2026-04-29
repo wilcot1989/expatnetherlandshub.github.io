@@ -1,31 +1,41 @@
 ---
-title: "Best Health Insurance Add-Ons Netherlands 2026"
-description: "Which health insurance add-ons are worth it for expats in the Netherlands? Dental, physio, mental health, and travel extras reviewed for 2026 — real costs."
+title: Best Health Insurance Add-Ons Netherlands 2026
+description: Which health insurance add-ons are worth it for expats in the Netherlands? Dental, physio, mental health, and travel extras reviewed for 2026 — real costs.
 date: 2026-03-22
-lastmod: 2026-04-23T10:00:00+01:00
-author: "Sarah van den Berg"
-author_bio: "Expat coach and writer at ExpatNetherlandsHub.com"
-categories: ["health"]
-tags: ["health insurance", "add-ons", "aanvullende verzekering", "netherlands", "expats", "dental", "physio", "mental health"]
-featured_image: "/images/categories/health.svg"
+lastmod: 2026-04-23 10:00:00+01:00
+author: Sarah van den Berg
+author_bio: Expat coach and writer at ExpatNetherlandsHub.com
+categories:
+- health
+tags:
+- health insurance
+- add-ons
+- aanvullende verzekering
+- netherlands
+- expats
+- dental
+- physio
+- mental health
+featured_image: /images/categories/health.svg
 affiliate: true
 draft: false
 faq:
-  - q: "What does the basic Dutch health insurance not cover?"
-    a: "The basic package (basisverzekering) does not cover dental care for adults over 18 (except oral surgery), most physiotherapy sessions, glasses and contact lenses, most mental health care beyond a set number of sessions, alternative medicine, and many cosmetic or elective treatments. These are covered by optional supplementary insurance (aanvullende verzekering)."
-  - q: "Is dental insurance worth it for expats in the Netherlands?"
-    a: "For most expats, yes — especially if you have ongoing dental needs or anticipate needing work done. Dutch dental care is not cheap: a routine check-up is around €30–€50, a filling €80–€150, and a crown €500–€1,000. Dental add-ons typically cost €8–€25 per month and cover a percentage of costs up to an annual maximum."
-  - q: "Does basic Dutch health insurance cover physiotherapy?"
-    a: "The basic package covers physiotherapy only for certain chronic conditions listed on the so-called 'chronic conditions list' (chronische aandoeningenlijst). For other physiotherapy needs, you'll pay out of pocket unless you have supplementary (aanvullende) insurance that includes physiotherapy sessions."
-  - q: "What is aanvullende verzekering?"
-    a: "Aanvullende verzekering means supplementary or additional insurance. It is optional insurance that you take alongside your mandatory basic health insurance (basisverzekering) to cover things not included in the basic package — most commonly dental care, physiotherapy, glasses, and mental health sessions."
-  - q: "Can I change my health insurance add-ons during the year?"
-    a: "No. In the Netherlands, health insurance (both basic and supplementary) can only be changed between 1 November and 31 December each year, with changes taking effect on 1 January the following year. The one exception is if you move to a new address or have a major life change that triggers a mid-year switch right."
+- q: What does the basic Dutch health insurance not cover?
+  a: The basic package (basisverzekering) does not cover dental care for adults over 18 (except oral surgery), most physiotherapy sessions, glasses and contact lenses, most mental health care beyond a set number of sessions, alternative medicine, and many cosmetic or elective treatments. These are covered by optional supplementary insurance (aanvullende verzekering).
+- q: Is dental insurance worth it for expats in the Netherlands?
+  a: 'For most expats, yes — especially if you have ongoing dental needs or anticipate needing work done. Dutch dental care is not cheap: a routine check-up is around €30–€50, a filling €80–€150, and a crown €500–€1,000. Dental add-ons typically cost €8–€25 per month and cover a percentage of costs up to an annual maximum.'
+- q: Does basic Dutch health insurance cover physiotherapy?
+  a: The basic package covers physiotherapy only for certain chronic conditions listed on the so-called 'chronic conditions list' (chronische aandoeningenlijst). For other physiotherapy needs, you'll pay out of pocket unless you have supplementary (aanvullende) insurance that includes physiotherapy sessions.
+- q: What is aanvullende verzekering?
+  a: Aanvullende verzekering means supplementary or additional insurance. It is optional insurance that you take alongside your mandatory basic health insurance (basisverzekering) to cover things not included in the basic package — most commonly dental care, physiotherapy, glasses, and mental health sessions.
+- q: Can I change my health insurance add-ons during the year?
+  a: No. In the Netherlands, health insurance (both basic and supplementary) can only be changed between 1 November and 31 December each year, with changes taking effect on 1 January the following year. The one exception is if you move to a new address or have a major life change that triggers a mid-year switch right.
 products:
-  - name: "SafetyWing"
-    url: "https://go.expatnetherlandshub.com/safetywing?ref=/blog/best-health-insurance-add-ons-netherlands-2026/"
-    price: "0.00"
-    tag: "Expat Insurance"
+- name: SafetyWing
+  url: https://go.expatnetherlandshub.com/safetywing?ref=/blog/best-health-insurance-add-ons-netherlands-2026/
+  price: '0.00'
+  tag: Expat Insurance
+schema_type: Article
 ---
 
 When I first got my Dutch health insurance, I ticked the basic package and assumed I was done. It took a cracked molar and a €580 dental bill to make me rethink.

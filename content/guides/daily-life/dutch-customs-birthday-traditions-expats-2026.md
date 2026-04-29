@@ -1,32 +1,45 @@
 ---
-title: "Dutch Customs & Birthday Traditions for Expats"
-date: 2026-03-18T10:00:00+01:00
-lastmod: 2026-04-23T10:00:00+01:00
-description: "Dutch birthday customs for expats: the verjaardagskring, bringing your own cake to work, congratulating the whole family, birthday songs, and name days."
-categories: ["daily-life"]
-tags: ["birthday", "dutch customs", "traditions", "culture", "integration", "verjaardagskring"]
-keywords: ["dutch birthday traditions expats", "verjaardagskring explained", "dutch birthday customs", "bring cake to work netherlands", "dutch birthday circle"]
+title: Dutch Customs & Birthday Traditions for Expats
+date: 2026-03-18 10:00:00+01:00
+lastmod: 2026-04-23 10:00:00+01:00
+description: 'Dutch birthday customs for expats: the verjaardagskring, bringing your own cake to work, congratulating the whole family, birthday songs, and name days.'
+categories:
+- daily-life
+tags:
+- birthday
+- dutch customs
+- traditions
+- culture
+- integration
+- verjaardagskring
+keywords:
+- dutch birthday traditions expats
+- verjaardagskring explained
+- dutch birthday customs
+- bring cake to work netherlands
+- dutch birthday circle
 affiliate: true
 products:
-  - name: "KPN"
-    url: "https://www.kpn.com/"
-    price: "0.00"
-author: "Sarah van den Berg"
-author_bio: "Expat coach and relocation specialist. Half Dutch, half British, living in the Netherlands for over 10 years."
-featured_image: "/images/categories/daily-life.svg"
+- name: KPN
+  url: https://www.kpn.com/
+  price: '0.00'
+author: Sarah van den Berg
+author_bio: Expat coach and relocation specialist. Half Dutch, half British, living in the Netherlands for over 10 years.
+featured_image: /images/categories/daily-life.svg
 faq:
-  - q: "Is it true that in the Netherlands you bring your own cake to work on your birthday?"
-    a: "Yes, completely true — and one of the things that surprises every new expat. In the Netherlands, the birthday person (the jarige) brings cake, pastries, or snacks to the office to treat their colleagues. You are not brought cake by your team; you bring it yourself. This reflects the Dutch cultural value of celebrating by giving rather than receiving. Traktatie is the word for this tradition of bringing treats for others on your own special occasion."
-  - q: "What is the verjaardagskring (birthday circle)?"
-    a: "The verjaardagskring is a Dutch birthday seating arrangement unique to the Netherlands (and the Dutch-speaking part of Belgium). Chairs are arranged in a circle in the living room, and guests sit in the circle throughout the party, rotating through conversations. The birthday person's family receives congratulations from arriving guests before the birthday person themselves — a particular Dutch custom that confuses many foreigners on first encounter."
-  - q: "Why do Dutch people congratulate everyone at a birthday party, not just the birthday person?"
-    a: "In the Netherlands, when you arrive at a birthday party, you congratulate not only the person celebrating, but also their parents, siblings, and partner. The phrase is 'Gefeliciteerd met je vader/moeder/broer/zus' (Congratulations on your father/mother/brother/sister). The logic is that a birthday is good news for the whole family, so the whole family deserves congratulations. This ritual can take several minutes on arrival."
-  - q: "What is the Dutch birthday song (lang zal ze/hij leven)?"
-    a: "The Dutch birthday song is 'Lang zal ze leven' (for a woman) or 'Lang zal hij leven' (for a man), meaning 'long may she/he live.' It ends with 'Hiep hiep hiep, hoera!' (three times), often accompanied by the birthday person being lifted in their chair. The song is enthusiastic, shouted rather than sung gently, and typically performed multiple times during the party."
-  - q: "Do the Dutch celebrate name days (naamdag)?"
-    a: "Name days (naamdagen) exist in the Dutch calendar and were historically significant, especially in Catholic regions and families. They are now largely obsolete in mainstream Dutch culture — most Dutch people do not celebrate their name day. In contrast to some other European countries (Poland, Hungary, Spain), the name day is not a major occasion in the Netherlands. The birthday (verjaardag) is the primary personal celebration."
-  - q: "Do Dutch people open gifts immediately at a birthday party?"
-    a: "This varies. Traditionally, Dutch people did not open gifts immediately in front of guests — gifts were sometimes set aside to open later. The reasoning was to avoid making other guests feel their gift was being compared or judged. This tradition is less strict now, particularly among younger Dutch people and in international circles, but you may still encounter it. If a Dutch person puts your gift aside, do not be offended — it is not rudeness."
+- q: Is it true that in the Netherlands you bring your own cake to work on your birthday?
+  a: Yes, completely true — and one of the things that surprises every new expat. In the Netherlands, the birthday person (the jarige) brings cake, pastries, or snacks to the office to treat their colleagues. You are not brought cake by your team; you bring it yourself. This reflects the Dutch cultural value of celebrating by giving rather than receiving. Traktatie is the word for this tradition of bringing treats for others on your own special occasion.
+- q: What is the verjaardagskring (birthday circle)?
+  a: The verjaardagskring is a Dutch birthday seating arrangement unique to the Netherlands (and the Dutch-speaking part of Belgium). Chairs are arranged in a circle in the living room, and guests sit in the circle throughout the party, rotating through conversations. The birthday person's family receives congratulations from arriving guests before the birthday person themselves — a particular Dutch custom that confuses many foreigners on first encounter.
+- q: Why do Dutch people congratulate everyone at a birthday party, not just the birthday person?
+  a: In the Netherlands, when you arrive at a birthday party, you congratulate not only the person celebrating, but also their parents, siblings, and partner. The phrase is 'Gefeliciteerd met je vader/moeder/broer/zus' (Congratulations on your father/mother/brother/sister). The logic is that a birthday is good news for the whole family, so the whole family deserves congratulations. This ritual can take several minutes on arrival.
+- q: What is the Dutch birthday song (lang zal ze/hij leven)?
+  a: The Dutch birthday song is 'Lang zal ze leven' (for a woman) or 'Lang zal hij leven' (for a man), meaning 'long may she/he live.' It ends with 'Hiep hiep hiep, hoera!' (three times), often accompanied by the birthday person being lifted in their chair. The song is enthusiastic, shouted rather than sung gently, and typically performed multiple times during the party.
+- q: Do the Dutch celebrate name days (naamdag)?
+  a: Name days (naamdagen) exist in the Dutch calendar and were historically significant, especially in Catholic regions and families. They are now largely obsolete in mainstream Dutch culture — most Dutch people do not celebrate their name day. In contrast to some other European countries (Poland, Hungary, Spain), the name day is not a major occasion in the Netherlands. The birthday (verjaardag) is the primary personal celebration.
+- q: Do Dutch people open gifts immediately at a birthday party?
+  a: This varies. Traditionally, Dutch people did not open gifts immediately in front of guests — gifts were sometimes set aside to open later. The reasoning was to avoid making other guests feel their gift was being compared or judged. This tradition is less strict now, particularly among younger Dutch people and in international circles, but you may still encounter it. If a Dutch person puts your gift aside, do not be offended — it is not rudeness.
+schema_type: Article
 ---
 
 My first Dutch birthday party was a revelation. I arrived at a friend's house, was handed a glass of juice, and guided toward a ring of chairs in the living room. I spent the next two hours in the circle, rotating between conversations, watching the birthday boy circulate with an enormous tray of pre-sliced cake. Before I left, I dutifully congratulated his parents, his sister, and I believe also a confused-looking neighbour.

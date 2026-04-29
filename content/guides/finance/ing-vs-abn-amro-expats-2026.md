@@ -1,36 +1,47 @@
 ---
-title: "ING vs ABN AMRO for Expats 2026: Which Is Better?"
-date: 2026-03-07T10:00:00+01:00
-lastmod: 2026-04-23T10:00:00+01:00
-description: "ING or ABN AMRO? I tested both as an expat. Real fees, English app quality, mortgage options, and which bank actually serves expats better."
-categories: ["finance"]
-tags: ["ING", "ABN AMRO", "dutch bank", "expat banking", "bank comparison"]
-keywords: ["ING vs ABN AMRO expats", "best dutch bank expats", "ING ABN AMRO comparison", "dutch bank account expat"]
+title: 'ING vs ABN AMRO for Expats 2026: Which Is Better?'
+date: 2026-03-07 10:00:00+01:00
+lastmod: 2026-04-23 10:00:00+01:00
+description: ING or ABN AMRO? I tested both as an expat. Real fees, English app quality, mortgage options, and which bank actually serves expats better.
+categories:
+- finance
+tags:
+- ING
+- ABN AMRO
+- dutch bank
+- expat banking
+- bank comparison
+keywords:
+- ING vs ABN AMRO expats
+- best dutch bank expats
+- ING ABN AMRO comparison
+- dutch bank account expat
 affiliate: true
-author: "Sarah van den Berg"
-author_bio: "Expat coach and relocation specialist. Half Dutch, half British, living in the Netherlands for over 10 years."
-featured_image: "/images/featured/ing-vs-abn-amro-expats-2026.webp"
+author: Sarah van den Berg
+author_bio: Expat coach and relocation specialist. Half Dutch, half British, living in the Netherlands for over 10 years.
+featured_image: /images/featured/ing-vs-abn-amro-expats-2026.webp
 products:
-  - name: "Wise"
-    url: "https://go.expatnetherlandshub.com/wise?ref=/guides/finance/ing-vs-abn-amro-expats-2026/"
-    price: "0.00"
-  - name: "bunq"
-    url: "https://www.bunq.com/"
-    price: "2.99"
-  - name: "ING"
-    url: "https://www.ing.nl/particulier"
-    price: "0.00"
+- name: Wise
+  url: https://go.expatnetherlandshub.com/wise?ref=/guides/finance/ing-vs-abn-amro-expats-2026/
+  price: '0.00'
+- name: bunq
+  url: https://www.bunq.com/
+  price: '2.99'
+- name: ING
+  url: https://www.ing.nl/particulier
+  price: '0.00'
 faq:
-  - q: "Is ING or ABN AMRO better for expats?"
-    a: "ING generally offers a better experience for expats due to its fully English app and website, larger ATM network, and slightly more intuitive digital banking. However, ABN AMRO has a dedicated international desk that can be very helpful for complex questions about mortgages or investments as an expat."
-  - q: "Can I open an ING or ABN AMRO account without a BSN?"
-    a: "No, both ING and ABN AMRO require a BSN (burgerservicenummer) to open an account. You need to register at your local gemeente first. If you need a bank account before getting your BSN, consider Wise which offers a European IBAN without a BSN."
-  - q: "Which bank has lower fees, ING or ABN AMRO?"
-    a: "Both charge approximately EUR 2.45 per month for a basic current account. The real difference is in international transfer fees, where both are expensive (EUR 5-15 per transfer). For international transfers, we recommend using Wise alongside either bank."
-  - q: "Can I get a mortgage from ING or ABN AMRO as an expat?"
-    a: "Yes, both banks offer mortgages to expats, including those with a 30% ruling. ABN AMRO is often considered slightly more expat-friendly for mortgages due to their international desk, though ING has competitive rates. Both require a permanent employment contract or proof of stable income."
-  - q: "Who is this for?"
-    a: "See the section above on who benefits most from this service or guide."
+- q: Is ING or ABN AMRO better for expats?
+  a: ING generally offers a better experience for expats due to its fully English app and website, larger ATM network, and slightly more intuitive digital banking. However, ABN AMRO has a dedicated international desk that can be very helpful for complex questions about mortgages or investments as an expat.
+- q: Can I open an ING or ABN AMRO account without a BSN?
+  a: No, both ING and ABN AMRO require a BSN (burgerservicenummer) to open an account. You need to register at your local gemeente first. If you need a bank account before getting your BSN, consider Wise which offers a European IBAN without a BSN.
+- q: Which bank has lower fees, ING or ABN AMRO?
+  a: Both charge approximately EUR 2.45 per month for a basic current account. The real difference is in international transfer fees, where both are expensive (EUR 5-15 per transfer). For international transfers, we recommend using Wise alongside either bank.
+- q: Can I get a mortgage from ING or ABN AMRO as an expat?
+  a: Yes, both banks offer mortgages to expats, including those with a 30% ruling. ABN AMRO is often considered slightly more expat-friendly for mortgages due to their international desk, though ING has competitive rates. Both require a permanent employment contract or proof of stable income.
+- q: Who is this for?
+  a: See the section above on who benefits most from this service or guide.
+schema_type: Article
 ---
 
 When I moved to the Netherlands from the UK over a decade ago, one of the first practical decisions I had to make was which Dutch bank to open an account with. I had no idea what I was doing. I walked into an ING branch in Amsterdam with my passport, my rental contract, and a hopeful expression. The lady at the desk looked at me, smiled, and immediately switched to perfect English. That interaction alone made me feel less like a fish out of water.

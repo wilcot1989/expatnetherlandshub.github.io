@@ -1,35 +1,46 @@
 ---
-title: "KvK Business Register: Registration & Search Guide 2026"
-date: 2026-03-26T10:00:00+01:00
-lastmod: 2026-04-23T10:00:00+01:00
-description: "KvK business register guide: how to register, search companies, get an uittreksel and what it costs. Updated for 2026 with step-by-step instructions."
-categories: ["legal"]
-tags: ["KvK", "Chamber of Commerce", "business register", "handelsregister", "company registration"]
-keywords: ["KvK business register", "KvK registration Netherlands", "handelsregister search", "Chamber of Commerce Netherlands"]
+title: 'KvK Business Register: Registration & Search Guide 2026'
+date: 2026-03-26 10:00:00+01:00
+lastmod: 2026-04-23 10:00:00+01:00
+description: 'KvK business register guide: how to register, search companies, get an uittreksel and what it costs. Updated for 2026 with step-by-step instructions.'
+categories:
+- legal
+tags:
+- KvK
+- Chamber of Commerce
+- business register
+- handelsregister
+- company registration
+keywords:
+- KvK business register
+- KvK registration Netherlands
+- handelsregister search
+- Chamber of Commerce Netherlands
 affiliate: true
 products:
-  - name: "Wise"
-    url: "https://go.expatnetherlandshub.com/wise?ref=/guides/legal/kvk-business-register-complete-guide-2026/"
-    price: "0.00"
-    tag: "Business Banking"
-author: "Sarah van den Berg"
-author_bio: "Expat coach and writer at ExpatNetherlandsHub.com"
-featured_image: "/images/categories/legal.svg"
+- name: Wise
+  url: https://go.expatnetherlandshub.com/wise?ref=/guides/legal/kvk-business-register-complete-guide-2026/
+  price: '0.00'
+  tag: Business Banking
+author: Sarah van den Berg
+author_bio: Expat coach and writer at ExpatNetherlandsHub.com
+featured_image: /images/categories/legal.svg
 faq:
-  - q: "How much does KvK registration cost in the Netherlands?"
-    a: "The one-time KvK registration fee is €75.75 in 2026. There are no annual renewal fees — you pay once and your business stays registered until you deregister. The fee covers all legal structures: eenmanszaak, VOF, BV, and others. Your BTW (VAT) number is issued separately by the Belastingdienst at no additional cost."
-  - q: "How long does KvK registration take?"
-    a: "The in-person appointment runs 30–60 minutes for a standard eenmanszaak. You receive your KvK number at the end of the appointment — you walk out with it the same day. Your BTW number arrives by post within 10–14 working days. Allow roughly three weeks from appointment to having both numbers in hand."
-  - q: "Do I need to make an appointment at the KvK?"
-    a: "Yes. KvK registration requires an in-person appointment at a KvK office. You cannot complete full registration entirely online, although the KvK online pre-registration tool lets you fill in your details in advance, which significantly speeds up the appointment. Book at kvk.nl — the website is available in English."
-  - q: "What is the difference between a KvK number and a BTW number?"
-    a: "Your KvK number (8 digits) is your business registration number in the handelsregister — it identifies your company. Your BTW number (starting with NL, ending in B01 for sole traders) is your VAT identification number for tax purposes. You receive the KvK number immediately at the appointment; the BTW number arrives by post 10–14 working days later from the Belastingdienst."
-  - q: "Can I search the KvK register for free?"
-    a: "Yes. Basic company searches at kvk.nl/zoeken/ are free. You can find a company's KvK number, registered address, legal structure, and SBI codes at no cost. A full official extract (uittreksel) costs €2.95 and is a paid digital document with legal status."
-  - q: "Do I need a KvK uittreksel to open a business bank account?"
-    a: "Most Dutch banks accept your KvK number directly without requiring a formal uittreksel. However, some banks, larger clients, and government tenders do request an official extract. A digital uittreksel costs €2.95 and can be ordered online at kvk.nl within minutes — it is never an expensive or time-consuming task."
-  - q: "Can I change my SBI code after registration?"
-    a: "Yes. You can update your SBI code (business activity classification) at any time through the KvK online portal or by contacting the KvK directly. There is no fee for updating your SBI code. If your business activities have changed significantly since registration, it is worth keeping your SBI codes current, as they affect how certain organisations and banks categorise your business."
+- q: How much does KvK registration cost in the Netherlands?
+  a: 'The one-time KvK registration fee is €75.75 in 2026. There are no annual renewal fees — you pay once and your business stays registered until you deregister. The fee covers all legal structures: eenmanszaak, VOF, BV, and others. Your BTW (VAT) number is issued separately by the Belastingdienst at no additional cost.'
+- q: How long does KvK registration take?
+  a: The in-person appointment runs 30–60 minutes for a standard eenmanszaak. You receive your KvK number at the end of the appointment — you walk out with it the same day. Your BTW number arrives by post within 10–14 working days. Allow roughly three weeks from appointment to having both numbers in hand.
+- q: Do I need to make an appointment at the KvK?
+  a: Yes. KvK registration requires an in-person appointment at a KvK office. You cannot complete full registration entirely online, although the KvK online pre-registration tool lets you fill in your details in advance, which significantly speeds up the appointment. Book at kvk.nl — the website is available in English.
+- q: What is the difference between a KvK number and a BTW number?
+  a: Your KvK number (8 digits) is your business registration number in the handelsregister — it identifies your company. Your BTW number (starting with NL, ending in B01 for sole traders) is your VAT identification number for tax purposes. You receive the KvK number immediately at the appointment; the BTW number arrives by post 10–14 working days later from the Belastingdienst.
+- q: Can I search the KvK register for free?
+  a: Yes. Basic company searches at kvk.nl/zoeken/ are free. You can find a company's KvK number, registered address, legal structure, and SBI codes at no cost. A full official extract (uittreksel) costs €2.95 and is a paid digital document with legal status.
+- q: Do I need a KvK uittreksel to open a business bank account?
+  a: Most Dutch banks accept your KvK number directly without requiring a formal uittreksel. However, some banks, larger clients, and government tenders do request an official extract. A digital uittreksel costs €2.95 and can be ordered online at kvk.nl within minutes — it is never an expensive or time-consuming task.
+- q: Can I change my SBI code after registration?
+  a: Yes. You can update your SBI code (business activity classification) at any time through the KvK online portal or by contacting the KvK directly. There is no fee for updating your SBI code. If your business activities have changed significantly since registration, it is worth keeping your SBI codes current, as they affect how certain organisations and banks categorise your business.
+schema_type: Article
 ---
 
 The KvK (Kamer van Koophandel) is where every Dutch business begins — and understanding the business register gives you powers most expats do not realise they have.

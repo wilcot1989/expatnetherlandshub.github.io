@@ -1,34 +1,45 @@
 ---
-title: "Moving to Delft as an Expat: Complete Guide 2026"
-date: 2026-03-07T10:00:00+01:00
-lastmod: 2026-04-23T10:00:00+01:00
-description: "Everything you need to know about moving to Delft as an expat. Neighbourhoods, rent prices, registration, transport, TU Delft, and daily life in 2026."
-categories: ["housing"]
-tags: ["Delft", "moving to Delft", "expat Delft", "TU Delft", "South Holland"]
-keywords: ["moving to Delft expat", "living in Delft Netherlands", "Delft expat guide", "Delft rent prices 2026"]
+title: 'Moving to Delft as an Expat: Complete Guide 2026'
+date: 2026-03-07 10:00:00+01:00
+lastmod: 2026-04-23 10:00:00+01:00
+description: Everything you need to know about moving to Delft as an expat. Neighbourhoods, rent prices, registration, transport, TU Delft, and daily life in 2026.
+categories:
+- housing
+tags:
+- Delft
+- moving to Delft
+- expat Delft
+- TU Delft
+- South Holland
+keywords:
+- moving to Delft expat
+- living in Delft Netherlands
+- Delft expat guide
+- Delft rent prices 2026
 affiliate: false
-author: "Sarah van den Berg"
-author_bio: "Expat coach and relocation specialist. Half Dutch, half British, living in the Netherlands for over 10 years."
-featured_image: "/images/featured/moving-to-delft-guide-2026.webp"
+author: Sarah van den Berg
+author_bio: Expat coach and relocation specialist. Half Dutch, half British, living in the Netherlands for over 10 years.
+featured_image: /images/featured/moving-to-delft-guide-2026.webp
 faq:
-  - q: "How much does it cost to rent in Delft?"
-    a: "A one-bedroom apartment in Delft city centre costs between EUR 900 and EUR 1,300 per month in 2026. Outside the centre, expect EUR 750-1,100. Shared student housing near TU Delft starts around EUR 450-600 per room. Delft is cheaper than Amsterdam, Rotterdam, or The Hague, but prices have risen significantly due to demand from TU Delft students and staff."
-  - q: "Is Delft a good city for expats?"
-    a: "Yes, Delft is excellent for expats, especially those working at TU Delft or in the tech sector. The city has a large international community, most people speak English, and the historic centre is beautiful and walkable. The main downside is the limited housing supply, which makes finding an apartment competitive."
-  - q: "How do I get from Delft to other cities?"
-    a: "Delft has excellent train connections. Rotterdam Centraal is 12 minutes away, The Hague Centraal is 15 minutes, and Amsterdam Centraal takes about 55 minutes. The city is also well-connected by bus and has extensive cycling infrastructure."
-  - q: "Do I need to register at the gemeente in Delft?"
-    a: "Yes, if Delft is your primary residence, you must register at Gemeente Delft within 5 days of moving in. You can book an appointment online at gemeente.delft.nl. Registration gives you your BSN number, which you need for a bank account, health insurance, and tax purposes."
+- q: How much does it cost to rent in Delft?
+  a: A one-bedroom apartment in Delft city centre costs between EUR 900 and EUR 1,300 per month in 2026. Outside the centre, expect EUR 750-1,100. Shared student housing near TU Delft starts around EUR 450-600 per room. Delft is cheaper than Amsterdam, Rotterdam, or The Hague, but prices have risen significantly due to demand from TU Delft students and staff.
+- q: Is Delft a good city for expats?
+  a: Yes, Delft is excellent for expats, especially those working at TU Delft or in the tech sector. The city has a large international community, most people speak English, and the historic centre is beautiful and walkable. The main downside is the limited housing supply, which makes finding an apartment competitive.
+- q: How do I get from Delft to other cities?
+  a: Delft has excellent train connections. Rotterdam Centraal is 12 minutes away, The Hague Centraal is 15 minutes, and Amsterdam Centraal takes about 55 minutes. The city is also well-connected by bus and has extensive cycling infrastructure.
+- q: Do I need to register at the gemeente in Delft?
+  a: Yes, if Delft is your primary residence, you must register at Gemeente Delft within 5 days of moving in. You can book an appointment online at gemeente.delft.nl. Registration gives you your BSN number, which you need for a bank account, health insurance, and tax purposes.
 products:
-  - name: "HousingAnywhere"
-    url: "https://housinganywhere.com/"
-    price: "0.00"
-  - name: "Kamernet"
-    url: "https://kamernet.nl/"
-    price: "0.00"
-  - name: "Pararius"
-    url: "https://www.pararius.com/"
-    price: "0.00"
+- name: HousingAnywhere
+  url: https://housinganywhere.com/
+  price: '0.00'
+- name: Kamernet
+  url: https://kamernet.nl/
+  price: '0.00'
+- name: Pararius
+  url: https://www.pararius.com/
+  price: '0.00'
+schema_type: Article
 ---
 
 I first visited Delft on a grey Tuesday in November, seven years before I eventually helped a client move there — and the city still surprised me. I had grown up hearing my Dutch mother talk about the blue-and-white pottery and Vermeer's paintings, which honestly made me expect a glorified tourist trap. What I found instead was a city that gets on with itself quietly and confidently. The canals are genuinely beautiful, the old church tower leans at a worrying angle (this is normal, nobody panics), and within about twenty minutes of walking I counted six different nationalities having coffee at the same café terrace.

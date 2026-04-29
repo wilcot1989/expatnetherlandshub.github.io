@@ -1,40 +1,57 @@
 ---
-title: "Dutch Employment Law Basics Every Expat Should Know 2026"
-date: 2026-03-18T10:00:00+01:00
-lastmod: 2026-04-23T10:00:00+01:00
-description: "Dutch employment law for expats. Proeftijd, opzegtermijn, transitievergoeding, CAO, ontslagbescherming, and what to do if you are fired in the Netherlands."
-categories: ["legal"]
-tags: ["dutch employment law", "proeftijd", "opzegtermijn", "ontslagbescherming", "transitievergoeding", "CAO netherlands", "fired netherlands expat", "dutch labor law"]
-keywords: ["dutch employment law expats 2026", "proeftijd netherlands", "notice period netherlands", "transitievergoeding expat", "CAO collective agreement netherlands", "fired in netherlands expat", "dutch dismissal protection"]
+title: Dutch Employment Law Basics Every Expat Should Know 2026
+date: 2026-03-18 10:00:00+01:00
+lastmod: 2026-04-23 10:00:00+01:00
+description: Dutch employment law for expats. Proeftijd, opzegtermijn, transitievergoeding, CAO, ontslagbescherming, and what to do if you are fired in the Netherlands.
+categories:
+- legal
+tags:
+- dutch employment law
+- proeftijd
+- opzegtermijn
+- ontslagbescherming
+- transitievergoeding
+- CAO netherlands
+- fired netherlands expat
+- dutch labor law
+keywords:
+- dutch employment law expats 2026
+- proeftijd netherlands
+- notice period netherlands
+- transitievergoeding expat
+- CAO collective agreement netherlands
+- fired in netherlands expat
+- dutch dismissal protection
 affiliate: false
 products:
-  - name: "Expatax"
-    url: "https://www.expatax.nl/"
-    price: "0.00"
-  - name: "Blue Umbrella"
-    url: "https://www.blueumbrella.nl/"
-    price: "0.00"
-  - name: "IND"
-    url: "https://ind.nl/en"
-    price: "0.00"
-author: "Sarah van den Berg"
-author_bio: "Expat coach and relocation specialist. Half Dutch, half British, living in the Netherlands for over 10 years."
-featured_image: "/images/categories/legal.svg"
+- name: Expatax
+  url: https://www.expatax.nl/
+  price: '0.00'
+- name: Blue Umbrella
+  url: https://www.blueumbrella.nl/
+  price: '0.00'
+- name: IND
+  url: https://ind.nl/en
+  price: '0.00'
+author: Sarah van den Berg
+author_bio: Expat coach and relocation specialist. Half Dutch, half British, living in the Netherlands for over 10 years.
+featured_image: /images/categories/legal.svg
 faq:
-  - q: "How long is the trial period (proeftijd) in the Netherlands?"
-    a: "The proeftijd (trial period) in the Netherlands is limited by law. For contracts of 6 months to 2 years, the maximum trial period is 1 month. For contracts of 2 years or more, the maximum is 2 months. For temporary contracts shorter than 6 months, a trial period is not legally permitted at all. During the proeftijd, either party can terminate the employment without notice and without reason — though terminating for discriminatory reasons is still unlawful. A trial period must be agreed in writing in the employment contract. Verbal trial periods are not legally valid."
-  - q: "What is the notice period (opzegtermijn) in the Netherlands?"
-    a: "The statutory notice period for employers in the Netherlands is based on the employee's length of service: up to 5 years = 1 month notice; 5-10 years = 2 months; 10-15 years = 3 months; 15+ years = 4 months. Employees typically have a 1-month notice period regardless of tenure, unless the employment contract specifies otherwise. CAO (collective labour agreement) rules may override statutory minimums. Notice must be given in writing and counts from the end of the calendar month unless the contract states otherwise. Notice periods can be agreed longer in the employment contract but not shorter than the statutory minimum."
-  - q: "What is a transitievergoeding and am I entitled to one?"
-    a: "A transitievergoeding is statutory severance pay that you are entitled to in most cases when your employer terminates your employment or does not renew a fixed-term contract. The amount is 1/3 of a monthly salary for each full year worked, plus a proportional amount for partial years. There is no minimum service period required — you are entitled to transitievergoeding from day one (though in practice the amount for very short tenure is small). The maximum transitievergoeding in 2026 is approximately EUR 98,000 or one year's salary (whichever is lower). You are not entitled to transitievergoeding if you resign voluntarily, if you are dismissed for urgent reasons (ontslag op staande voet), or if you have reached retirement age."
-  - q: "What is a CAO and does it apply to me?"
-    a: "A CAO (Collectieve Arbeidsovereenkomst) is a collective labour agreement negotiated between employers (or employer associations) and trade unions. CAOs set minimum standards for wages, working hours, holiday entitlement, pension contributions, and other employment conditions in a specific sector or at a specific company. If your employer is bound by a CAO relevant to your sector, those terms apply to your employment — often providing better conditions than the statutory minimum. Your employer must inform you which CAO (if any) applies to your employment. CAOs are publicly available; the key terms are often summarised in your employment contract."
-  - q: "How strong is dismissal protection in the Netherlands?"
-    a: "Very strong. Dutch employment law provides substantial protection against unfair dismissal (onrechtmatig ontslag). An employer cannot simply terminate your employment because they want to. Dismissal requires a legally recognised ground: economic reasons (UWV route), personal functioning issues (kantonrechter route), or other specific grounds. The process has mandatory steps: a performance improvement period for functioning issues, consultation with UWV or court involvement for economic dismissals. Even when dismissal is justified, the employer typically owes a transitievergoeding. Employers who dismiss employees without proper grounds risk being ordered to reinstate the employee or pay a fair compensation (billijke vergoeding) on top of the transitievergoeding."
-  - q: "What should I do if I am fired in the Netherlands?"
-    a: "First, do not sign anything immediately. You typically have time to consider your options. Second, check whether proper procedure was followed — was the correct dismissal route used? Was your proeftijd over? Were you warned and given opportunity to improve? Third, consider whether to engage a lawyer (arbeidsrechtadvocaat) to review the situation. Legal aid (rechtsbijstand) may be available if you have insurance. Fourth, check your transitievergoeding calculation — employers sometimes get this wrong. Fifth, register with the UWV (the Dutch employment agency) as soon as possible to preserve your right to WW (unemployment benefit). You have 26 weeks of employment history required to claim WW."
-  - q: "What are my rights regarding holiday and sick leave in the Netherlands?"
-    a: "Holiday: the statutory minimum is 4 times your weekly working hours per year — for full-time employees (5 days/week), this is 20 days. Most Dutch employment contracts and CAOs provide 25 days. Unused holiday entitlement accumulates and must be paid out on termination. Sick leave: you are entitled to at least 70% of your salary during the first 2 years of illness — most employers pay 100% in the first year. Your employer cannot dismiss you during the first 2 years of illness (the 'opzijgingsverbod'). After 2 years of illness, a dismissal process may begin."
+- q: How long is the trial period (proeftijd) in the Netherlands?
+  a: The proeftijd (trial period) in the Netherlands is limited by law. For contracts of 6 months to 2 years, the maximum trial period is 1 month. For contracts of 2 years or more, the maximum is 2 months. For temporary contracts shorter than 6 months, a trial period is not legally permitted at all. During the proeftijd, either party can terminate the employment without notice and without reason — though terminating for discriminatory reasons is still unlawful. A trial period must be agreed in writing in the employment contract. Verbal trial periods are not legally valid.
+- q: What is the notice period (opzegtermijn) in the Netherlands?
+  a: 'The statutory notice period for employers in the Netherlands is based on the employee''s length of service: up to 5 years = 1 month notice; 5-10 years = 2 months; 10-15 years = 3 months; 15+ years = 4 months. Employees typically have a 1-month notice period regardless of tenure, unless the employment contract specifies otherwise. CAO (collective labour agreement) rules may override statutory minimums. Notice must be given in writing and counts from the end of the calendar month unless the contract states otherwise. Notice periods can be agreed longer in the employment contract but not shorter than the statutory minimum.'
+- q: What is a transitievergoeding and am I entitled to one?
+  a: A transitievergoeding is statutory severance pay that you are entitled to in most cases when your employer terminates your employment or does not renew a fixed-term contract. The amount is 1/3 of a monthly salary for each full year worked, plus a proportional amount for partial years. There is no minimum service period required — you are entitled to transitievergoeding from day one (though in practice the amount for very short tenure is small). The maximum transitievergoeding in 2026 is approximately EUR 98,000 or one year's salary (whichever is lower). You are not entitled to transitievergoeding if you resign voluntarily, if you are dismissed for urgent reasons (ontslag op staande voet), or if you have reached retirement age.
+- q: What is a CAO and does it apply to me?
+  a: A CAO (Collectieve Arbeidsovereenkomst) is a collective labour agreement negotiated between employers (or employer associations) and trade unions. CAOs set minimum standards for wages, working hours, holiday entitlement, pension contributions, and other employment conditions in a specific sector or at a specific company. If your employer is bound by a CAO relevant to your sector, those terms apply to your employment — often providing better conditions than the statutory minimum. Your employer must inform you which CAO (if any) applies to your employment. CAOs are publicly available; the key terms are often summarised in your employment contract.
+- q: How strong is dismissal protection in the Netherlands?
+  a: 'Very strong. Dutch employment law provides substantial protection against unfair dismissal (onrechtmatig ontslag). An employer cannot simply terminate your employment because they want to. Dismissal requires a legally recognised ground: economic reasons (UWV route), personal functioning issues (kantonrechter route), or other specific grounds. The process has mandatory steps: a performance improvement period for functioning issues, consultation with UWV or court involvement for economic dismissals. Even when dismissal is justified, the employer typically owes a transitievergoeding. Employers who dismiss employees without proper grounds risk being ordered to reinstate the employee or pay a fair compensation (billijke vergoeding) on top of the transitievergoeding.'
+- q: What should I do if I am fired in the Netherlands?
+  a: First, do not sign anything immediately. You typically have time to consider your options. Second, check whether proper procedure was followed — was the correct dismissal route used? Was your proeftijd over? Were you warned and given opportunity to improve? Third, consider whether to engage a lawyer (arbeidsrechtadvocaat) to review the situation. Legal aid (rechtsbijstand) may be available if you have insurance. Fourth, check your transitievergoeding calculation — employers sometimes get this wrong. Fifth, register with the UWV (the Dutch employment agency) as soon as possible to preserve your right to WW (unemployment benefit). You have 26 weeks of employment history required to claim WW.
+- q: What are my rights regarding holiday and sick leave in the Netherlands?
+  a: 'Holiday: the statutory minimum is 4 times your weekly working hours per year — for full-time employees (5 days/week), this is 20 days. Most Dutch employment contracts and CAOs provide 25 days. Unused holiday entitlement accumulates and must be paid out on termination. Sick leave: you are entitled to at least 70% of your salary during the first 2 years of illness — most employers pay 100% in the first year. Your employer cannot dismiss you during the first 2 years of illness (the ''opzijgingsverbod''). After 2 years of illness, a dismissal process may begin.'
+schema_type: Article
 ---
 
 Dutch employment law is, by the standards of most countries expats move from, remarkably employee-protective. The idea that an employer can simply end your employment without reason, with minimal notice, and with no financial obligation — the norm in the US and not uncommon in some other countries — is not the Dutch reality. The Netherlands has a detailed framework of dismissal rules, notice periods, severance entitlements, and protections against unfair treatment that have been built up over decades.

@@ -1,38 +1,49 @@
 ---
-title: "Dutch Housing Crisis Explained for Expats 2026"
-date: 2026-06-19T10:00:00+01:00
-lastmod: 2026-04-23T10:00:00+01:00
-description: "The Dutch housing crisis explained for expats: puntensysteem, regulated vs free sector rental market, and what housing scarcity means for you."
-categories: ["housing"]
-tags: ["housing crisis", "rental market", "woningnood", "housing shortage"]
-keywords: ["dutch housing crisis expat", "netherlands housing shortage 2026", "woningnood netherlands", "puntensysteem netherlands", "rental market netherlands expat"]
+title: Dutch Housing Crisis Explained for Expats 2026
+date: 2026-06-19 10:00:00+01:00
+lastmod: 2026-04-23 10:00:00+01:00
+description: 'The Dutch housing crisis explained for expats: puntensysteem, regulated vs free sector rental market, and what housing scarcity means for you.'
+categories:
+- housing
+tags:
+- housing crisis
+- rental market
+- woningnood
+- housing shortage
+keywords:
+- dutch housing crisis expat
+- netherlands housing shortage 2026
+- woningnood netherlands
+- puntensysteem netherlands
+- rental market netherlands expat
 affiliate: true
-author: "Sarah van den Berg"
-author_bio: "Expat coach and relocation specialist. Half Dutch, half British, living in the Netherlands for over 10 years."
-featured_image: "/images/categories/housing.svg"
+author: Sarah van den Berg
+author_bio: Expat coach and relocation specialist. Half Dutch, half British, living in the Netherlands for over 10 years.
+featured_image: /images/categories/housing.svg
 faq:
-  - q: "Why is housing in the Netherlands so expensive?"
-    a: "The Dutch housing crisis has multiple causes that have compounded over decades. The core issue is structural underbuilding: the Netherlands built far fewer homes than population growth and household formation required, particularly from the 1990s onwards. At the same time, the rental market is split between a heavily regulated social sector (where rents are capped and waiting lists stretch 10-15 years) and a free sector where market forces apply unchecked. The result is extreme scarcity in the middle: very little genuinely affordable market-rate housing for people who earn too much for social housing but cannot afford or do not want to buy. For expats, who generally cannot access the social sector, this is the market you are competing in."
-  - q: "What is the liberalisatiegrens and how does it affect me?"
-    a: "The liberalisatiegrens (liberalisation threshold) is the monthly rent level that separates regulated social housing from the free rental sector. In 2026 it is €879.66 per month. Properties with a rent at or below this threshold are in the social sector — subject to maximum rent rules, rent increase caps, and the puntensysteem (points system). Properties above €879.66 per month are in the free sector, where landlords can charge market rate. As an expat, you will almost always be renting in the free sector — partly because you are unlikely to qualify for social housing, and partly because free-sector properties are more commonly available through the regular market."
-  - q: "What is the puntensysteem (points system)?"
-    a: "The puntensysteem (woningwaarderingsstelsel, or WWS) is a points-based system that determines the maximum rent for social housing and, since 2024, also for mid-market rentals. Points are assigned based on property characteristics: size (m²), energy label, facilities, WOZ value (municipal property valuation), and location. Each point corresponds to a rent value. Social housing cannot exceed 145 points (the liberalisatiegrens at current values). The 2024 Wet betaalbare huur extended the points system to the 'middle segment' up to approximately 186 points — this covers properties that under the old system would have been in the free sector. It has significantly reduced the legal maximum rent for many mid-market properties and forced some landlords to sell rather than rent."
-  - q: "How long are the waiting lists for social housing in the Netherlands?"
-    a: "Social housing (sociale huurwoning) waiting lists in the Netherlands are notoriously long. In Amsterdam, the average waiting time for social housing was 14-15 years as of 2025. In Utrecht it is 10-12 years; in The Hague around 8-10 years; in smaller cities 4-8 years. These are not bureaucratic delays — there are simply far more people on the list than properties becoming available each year. For expats, the practical answer is: social housing is not a realistic option for your first years in the Netherlands. You will be renting in the free sector, buying, or using employer-arranged housing."
-  - q: "Is the government actually doing anything about the housing crisis?"
-    a: "The government has set a target of building 900,000 new homes by 2030 — roughly 100,000 per year. In practice, actual completions have run at 70,000-80,000 per year, well below target. The 2024 Wet betaalbare huur (Affordable Rent Act) tightened rent controls in the mid-market segment. Hugo de Jonge (Housing Minister 2022-2024) and subsequent ministers have pushed for faster planning approvals, public land release, and incentives for housing corporations. Progress is real but slow — the gap between target and reality remains large, and the structural causes (land scarcity, construction costs, planning processes) cannot be resolved quickly."
-  - q: "What is the best strategy for finding housing as an expat in this market?"
-    a: "The strategies that work in a tight market: (1) Start your search before you arrive — many platforms allow remote applications and video viewings. (2) Use all platforms simultaneously — Funda, Pararius, Kamernet, Facebook expat groups, and direct landlord networks. (3) Be financially ready — having a deposit (1-3 months rent) transferable immediately gives you an edge. Use Wise to transfer from abroad without losing money on exchange rates. (4) Consider smaller cities — Arnhem, Breda, Nijmegen, Groningen have meaningful shortages but not to the same degree as Amsterdam or Utrecht. (5) Accept a short-term furnished rental for the first 3-6 months while searching for your longer-term place. Speed matters — respond within hours of a new listing appearing."
+- q: Why is housing in the Netherlands so expensive?
+  a: 'The Dutch housing crisis has multiple causes that have compounded over decades. The core issue is structural underbuilding: the Netherlands built far fewer homes than population growth and household formation required, particularly from the 1990s onwards. At the same time, the rental market is split between a heavily regulated social sector (where rents are capped and waiting lists stretch 10-15 years) and a free sector where market forces apply unchecked. The result is extreme scarcity in the middle: very little genuinely affordable market-rate housing for people who earn too much for social housing but cannot afford or do not want to buy. For expats, who generally cannot access the social sector, this is the market you are competing in.'
+- q: What is the liberalisatiegrens and how does it affect me?
+  a: The liberalisatiegrens (liberalisation threshold) is the monthly rent level that separates regulated social housing from the free rental sector. In 2026 it is €879.66 per month. Properties with a rent at or below this threshold are in the social sector — subject to maximum rent rules, rent increase caps, and the puntensysteem (points system). Properties above €879.66 per month are in the free sector, where landlords can charge market rate. As an expat, you will almost always be renting in the free sector — partly because you are unlikely to qualify for social housing, and partly because free-sector properties are more commonly available through the regular market.
+- q: What is the puntensysteem (points system)?
+  a: 'The puntensysteem (woningwaarderingsstelsel, or WWS) is a points-based system that determines the maximum rent for social housing and, since 2024, also for mid-market rentals. Points are assigned based on property characteristics: size (m²), energy label, facilities, WOZ value (municipal property valuation), and location. Each point corresponds to a rent value. Social housing cannot exceed 145 points (the liberalisatiegrens at current values). The 2024 Wet betaalbare huur extended the points system to the ''middle segment'' up to approximately 186 points — this covers properties that under the old system would have been in the free sector. It has significantly reduced the legal maximum rent for many mid-market properties and forced some landlords to sell rather than rent.'
+- q: How long are the waiting lists for social housing in the Netherlands?
+  a: 'Social housing (sociale huurwoning) waiting lists in the Netherlands are notoriously long. In Amsterdam, the average waiting time for social housing was 14-15 years as of 2025. In Utrecht it is 10-12 years; in The Hague around 8-10 years; in smaller cities 4-8 years. These are not bureaucratic delays — there are simply far more people on the list than properties becoming available each year. For expats, the practical answer is: social housing is not a realistic option for your first years in the Netherlands. You will be renting in the free sector, buying, or using employer-arranged housing.'
+- q: Is the government actually doing anything about the housing crisis?
+  a: The government has set a target of building 900,000 new homes by 2030 — roughly 100,000 per year. In practice, actual completions have run at 70,000-80,000 per year, well below target. The 2024 Wet betaalbare huur (Affordable Rent Act) tightened rent controls in the mid-market segment. Hugo de Jonge (Housing Minister 2022-2024) and subsequent ministers have pushed for faster planning approvals, public land release, and incentives for housing corporations. Progress is real but slow — the gap between target and reality remains large, and the structural causes (land scarcity, construction costs, planning processes) cannot be resolved quickly.
+- q: What is the best strategy for finding housing as an expat in this market?
+  a: 'The strategies that work in a tight market: (1) Start your search before you arrive — many platforms allow remote applications and video viewings. (2) Use all platforms simultaneously — Funda, Pararius, Kamernet, Facebook expat groups, and direct landlord networks. (3) Be financially ready — having a deposit (1-3 months rent) transferable immediately gives you an edge. Use Wise to transfer from abroad without losing money on exchange rates. (4) Consider smaller cities — Arnhem, Breda, Nijmegen, Groningen have meaningful shortages but not to the same degree as Amsterdam or Utrecht. (5) Accept a short-term furnished rental for the first 3-6 months while searching for your longer-term place. Speed matters — respond within hours of a new listing appearing.'
 products:
-  - name: "HousingAnywhere"
-    url: "https://housinganywhere.com/"
-    price: "0.00"
-  - name: "Pararius"
-    url: "https://www.pararius.com/"
-    price: "0.00"
-  - name: "Funda"
-    url: "https://www.funda.nl/"
-    price: "0.00"
+- name: HousingAnywhere
+  url: https://housinganywhere.com/
+  price: '0.00'
+- name: Pararius
+  url: https://www.pararius.com/
+  price: '0.00'
+- name: Funda
+  url: https://www.funda.nl/
+  price: '0.00'
+schema_type: Article
 ---
 
 I spend a significant part of my working life helping expats find housing in the Netherlands. The conversation often starts the same way: they have done their research, they know the Dutch rental market is tight, and they arrive armed with a budget they consider reasonable by international standards — say, €1,500/month for a one-bedroom apartment. Then they start searching.

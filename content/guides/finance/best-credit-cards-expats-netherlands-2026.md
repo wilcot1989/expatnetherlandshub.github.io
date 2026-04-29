@@ -1,40 +1,56 @@
 ---
-title: "Best Credit Cards in the Netherlands 2026 for Expats"
-date: 2026-03-18T10:00:00+01:00
-lastmod: 2026-04-23T10:00:00+01:00
-description: "English-language guide: best credit cards in the Netherlands for expats in 2026. No annual fee options, real approval odds, fees, cards that work without."
-categories: ["finance"]
-tags: ["credit cards", "expat banking", "bunq", "revolut", "n26", "amex", "ICS visa"]
-keywords: ["credit cards expats netherlands", "dutch credit card expat", "credit card no dutch credit history", "best credit card netherlands 2026", "best credit card no annual fee netherlands", "credit card netherlands no fees", "free credit card netherlands expat"]
+title: Best Credit Cards in the Netherlands 2026 for Expats
+date: 2026-03-18 10:00:00+01:00
+lastmod: 2026-04-23 10:00:00+01:00
+description: 'English-language guide: best credit cards in the Netherlands for expats in 2026. No annual fee options, real approval odds, fees, cards that work without.'
+categories:
+- finance
+tags:
+- credit cards
+- expat banking
+- bunq
+- revolut
+- n26
+- amex
+- ICS visa
+keywords:
+- credit cards expats netherlands
+- dutch credit card expat
+- credit card no dutch credit history
+- best credit card netherlands 2026
+- best credit card no annual fee netherlands
+- credit card netherlands no fees
+- free credit card netherlands expat
 affiliate: true
-author: "Sarah van den Berg"
-author_bio: "Expat coach and relocation specialist. Half Dutch, half British, living in the Netherlands for over 10 years."
-featured_image: "/images/categories/finance.svg"
+author: Sarah van den Berg
+author_bio: Expat coach and relocation specialist. Half Dutch, half British, living in the Netherlands for over 10 years.
+featured_image: /images/categories/finance.svg
 products:
-  - name: "Wise"
-    url: "https://go.expatnetherlandshub.com/wise?ref=/guides/finance/best-credit-cards-expats-netherlands-2026/"
-    price: "0.00"
-  - name: "bunq"
-    url: "https://www.bunq.com/"
-    price: "2.99"
-  - name: "ING"
-    url: "https://www.ing.nl/particulier"
-    price: "0.00"
+- name: Wise
+  url: https://go.expatnetherlandshub.com/wise?ref=/guides/finance/best-credit-cards-expats-netherlands-2026/
+  price: '0.00'
+- name: bunq
+  url: https://www.bunq.com/
+  price: '2.99'
+- name: ING
+  url: https://www.ing.nl/particulier
+  price: '0.00'
 faq:
-  - q: "Can I get a credit card in the Netherlands as a new expat?"
-    a: "It is genuinely difficult. Dutch credit card issuers use the BKR (Bureau Krediet Registratie) to assess creditworthiness, and if you have no Dutch credit history, most applications will be rejected. Your best options as a new arrival are an Amex Gold or Green card (which uses income rather than Dutch BKR history), a bunq Metal or Revolut Metal card with virtual credit features, or a prepaid card to cover your immediate needs while you build Dutch credit history over 6-12 months."
-  - q: "What credit cards actually approve expats in the Netherlands?"
-    a: "American Express Netherlands is the most expat-friendly traditional credit card, as it bases decisions primarily on income rather than Dutch BKR history. ICS Visa cards (via ABN AMRO or ING) are accessible once you have a Dutch bank account and 6-12 months of transaction history. Bunq Metal and Revolut Metal offer credit-like features without a hard credit check."
-  - q: "Does the Wise card work as a credit card?"
-    a: "The Wise card is a debit card, not a credit card. However, it is accepted almost everywhere Visa and Mastercard are accepted and is an excellent bridge solution while you wait for credit card approval. It has no foreign transaction fees and works in 170+ currencies. For expats who mainly need a card that works internationally, Wise often covers the use case without needing credit at all."
-  - q: "What is the BKR and why does it matter for expats?"
-    a: "BKR (Bureau Krediet Registratie) is the Dutch credit registration bureau. All Dutch lenders check your BKR file before approving credit. As a new expat, your BKR file is empty — which most banks treat as a red flag rather than a clean slate. Building a positive BKR history takes 6-12 months of responsible borrowing or account management. Until then, ICS and most traditional Dutch credit card issuers are likely to decline you."
-  - q: "Are there prepaid credit cards available in the Netherlands?"
-    a: "Yes. Prepaid Visa and Mastercard options include the Cashbuster prepaid card, reloadable prepaid cards from MediaMarkt and some supermarkets, and virtual prepaid cards via fintech apps. These are not true credit cards — they use your own money — but they work everywhere cards are accepted and require no credit check. They are a practical stopgap while you establish Dutch credit history."
-  - q: "What annual fee should I expect for a credit card in the Netherlands?"
-    a: "Dutch credit card fees vary widely. ICS Visa World Card: EUR 25-40/year. Amex Green: EUR 71/year. Amex Gold: EUR 140/year. Bunq Metal (which includes credit card features): EUR 20.99/month. Revolut Metal: EUR 15.99/month. N26 Metal: EUR 16.90/month. Budget option: prepaid cards typically have no annual fee but charge per transaction or monthly maintenance fees of EUR 2-5."
-  - q: "Does Revolut count as a credit card in the Netherlands?"
-    a: "Revolut's standard and premium plans are debit cards. Revolut Metal includes a credit feature (Pay Later/Credit in some markets), but this is not universally available in the Netherlands and depends on your individual eligibility assessment by Revolut. For practical purposes, treat Revolut as a debit/prepaid card unless you have specifically been approved for the credit feature."
+- q: Can I get a credit card in the Netherlands as a new expat?
+  a: It is genuinely difficult. Dutch credit card issuers use the BKR (Bureau Krediet Registratie) to assess creditworthiness, and if you have no Dutch credit history, most applications will be rejected. Your best options as a new arrival are an Amex Gold or Green card (which uses income rather than Dutch BKR history), a bunq Metal or Revolut Metal card with virtual credit features, or a prepaid card to cover your immediate needs while you build Dutch credit history over 6-12 months.
+- q: What credit cards actually approve expats in the Netherlands?
+  a: American Express Netherlands is the most expat-friendly traditional credit card, as it bases decisions primarily on income rather than Dutch BKR history. ICS Visa cards (via ABN AMRO or ING) are accessible once you have a Dutch bank account and 6-12 months of transaction history. Bunq Metal and Revolut Metal offer credit-like features without a hard credit check.
+- q: Does the Wise card work as a credit card?
+  a: The Wise card is a debit card, not a credit card. However, it is accepted almost everywhere Visa and Mastercard are accepted and is an excellent bridge solution while you wait for credit card approval. It has no foreign transaction fees and works in 170+ currencies. For expats who mainly need a card that works internationally, Wise often covers the use case without needing credit at all.
+- q: What is the BKR and why does it matter for expats?
+  a: BKR (Bureau Krediet Registratie) is the Dutch credit registration bureau. All Dutch lenders check your BKR file before approving credit. As a new expat, your BKR file is empty — which most banks treat as a red flag rather than a clean slate. Building a positive BKR history takes 6-12 months of responsible borrowing or account management. Until then, ICS and most traditional Dutch credit card issuers are likely to decline you.
+- q: Are there prepaid credit cards available in the Netherlands?
+  a: Yes. Prepaid Visa and Mastercard options include the Cashbuster prepaid card, reloadable prepaid cards from MediaMarkt and some supermarkets, and virtual prepaid cards via fintech apps. These are not true credit cards — they use your own money — but they work everywhere cards are accepted and require no credit check. They are a practical stopgap while you establish Dutch credit history.
+- q: What annual fee should I expect for a credit card in the Netherlands?
+  a: 'Dutch credit card fees vary widely. ICS Visa World Card: EUR 25-40/year. Amex Green: EUR 71/year. Amex Gold: EUR 140/year. Bunq Metal (which includes credit card features): EUR 20.99/month. Revolut Metal: EUR 15.99/month. N26 Metal: EUR 16.90/month. Budget option: prepaid cards typically have no annual fee but charge per transaction or monthly maintenance fees of EUR 2-5.'
+- q: Does Revolut count as a credit card in the Netherlands?
+  a: Revolut's standard and premium plans are debit cards. Revolut Metal includes a credit feature (Pay Later/Credit in some markets), but this is not universally available in the Netherlands and depends on your individual eligibility assessment by Revolut. For practical purposes, treat Revolut as a debit/prepaid card unless you have specifically been approved for the credit feature.
+schema_type: Article
 ---
 
 The credit card situation in the Netherlands is one of the more frustrating discoveries for new expats. You arrive, you open a Dutch bank account, and then you try to apply for a credit card — only to be told that your application cannot be processed because you have no Dutch credit history. No Dutch credit history because you just arrived. The classic catch-22.

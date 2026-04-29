@@ -1,36 +1,47 @@
 ---
-title: "Wise vs Revolut Netherlands 2026: Expat Guide"
-date: 2026-03-09T10:00:00+01:00
-lastmod: 2026-04-23T10:00:00+01:00
-description: "Wise gives a European IBAN accepted by Dutch employers. Revolut's Lithuanian IBAN causes problems. Breakdown of fees, exchange rates, and which to use."
-categories: ["finance"]
-tags: ["Wise", "Revolut", "money transfer", "fintech", "expat banking"]
-keywords: ["Wise vs Revolut Netherlands", "Wise or Revolut expats", "best money transfer Netherlands", "Wise Revolut comparison"]
+title: 'Wise vs Revolut Netherlands 2026: Expat Guide'
+date: 2026-03-09 10:00:00+01:00
+lastmod: 2026-04-23 10:00:00+01:00
+description: Wise gives a European IBAN accepted by Dutch employers. Revolut's Lithuanian IBAN causes problems. Breakdown of fees, exchange rates, and which to use.
+categories:
+- finance
+tags:
+- Wise
+- Revolut
+- money transfer
+- fintech
+- expat banking
+keywords:
+- Wise vs Revolut Netherlands
+- Wise or Revolut expats
+- best money transfer Netherlands
+- Wise Revolut comparison
 affiliate: true
-author: "Sarah van den Berg"
-author_bio: "Expat coach and relocation specialist. Half Dutch, half British, living in the Netherlands for over 10 years."
-featured_image: "/images/featured/wise-vs-revolut-netherlands-2026.webp"
+author: Sarah van den Berg
+author_bio: Expat coach and relocation specialist. Half Dutch, half British, living in the Netherlands for over 10 years.
+featured_image: /images/featured/wise-vs-revolut-netherlands-2026.webp
 products:
-  - name: "Wise"
-    url: "https://go.expatnetherlandshub.com/wise?ref=/guides/finance/wise-vs-revolut-netherlands-2026/"
-    price: "0.00"
-  - name: "bunq"
-    url: "https://www.bunq.com/"
-    price: "2.99"
-  - name: "ING"
-    url: "https://www.ing.nl/particulier"
-    price: "0.00"
+- name: Wise
+  url: https://go.expatnetherlandshub.com/wise?ref=/guides/finance/wise-vs-revolut-netherlands-2026/
+  price: '0.00'
+- name: bunq
+  url: https://www.bunq.com/
+  price: '2.99'
+- name: ING
+  url: https://www.ing.nl/particulier
+  price: '0.00'
 faq:
-  - q: "Does Wise or Revolut offer a European IBAN accepted in the Netherlands?"
-    a: "Wise provides a European IBAN that is accepted by most Dutch employers for salary payments and supports direct debits. Revolut provides a Lithuanian IBAN (starting with LT), which can cause issues with some Dutch employers and services due to IBAN discrimination."
-  - q: "Which is cheaper for sending money abroad, Wise or Revolut?"
-    a: "For large or regular international transfers, Wise is typically cheaper because it always uses the real mid-market exchange rate with a transparent fee (usually 0.3-0.7%). Revolut offers fee-free exchange up to a monthly limit (around EUR 1,000 on the free plan), but uses a markup on weekends and for less common currencies."
-  - q: "Can I use Wise or Revolut as my main bank in the Netherlands?"
-    a: "Neither is a full replacement for a Dutch bank. Wise works well as a primary account for receiving salary (European IBAN accepted by most Dutch employers) and international transfers, but lacks iDEAL integration and physical branches. Revolut's Lithuanian IBAN makes it problematic as a primary account in the Netherlands. Most expats pair either one with a traditional Dutch bank like ING."
-  - q: "Do I need a BSN to open a Wise or Revolut account?"
-    a: "No, neither Wise nor Revolut requires a BSN. Both can be opened before you arrive in the Netherlands using just a passport and proof of address from your home country. This makes them ideal first accounts for new expats."
-  - q: "Who is this for?"
-    a: "See the section above on who benefits most from this service or guide."
+- q: Does Wise or Revolut offer a European IBAN accepted in the Netherlands?
+  a: Wise provides a European IBAN that is accepted by most Dutch employers for salary payments and supports direct debits. Revolut provides a Lithuanian IBAN (starting with LT), which can cause issues with some Dutch employers and services due to IBAN discrimination.
+- q: Which is cheaper for sending money abroad, Wise or Revolut?
+  a: For large or regular international transfers, Wise is typically cheaper because it always uses the real mid-market exchange rate with a transparent fee (usually 0.3-0.7%). Revolut offers fee-free exchange up to a monthly limit (around EUR 1,000 on the free plan), but uses a markup on weekends and for less common currencies.
+- q: Can I use Wise or Revolut as my main bank in the Netherlands?
+  a: Neither is a full replacement for a Dutch bank. Wise works well as a primary account for receiving salary (European IBAN accepted by most Dutch employers) and international transfers, but lacks iDEAL integration and physical branches. Revolut's Lithuanian IBAN makes it problematic as a primary account in the Netherlands. Most expats pair either one with a traditional Dutch bank like ING.
+- q: Do I need a BSN to open a Wise or Revolut account?
+  a: No, neither Wise nor Revolut requires a BSN. Both can be opened before you arrive in the Netherlands using just a passport and proof of address from your home country. This makes them ideal first accounts for new expats.
+- q: Who is this for?
+  a: See the section above on who benefits most from this service or guide.
+schema_type: Article
 ---
 
 I currently use both Wise and Revolut. That is not a fence-sitting answer — it is the honest result of ten years of living in the Netherlands and moving money between at least four currencies on a regular basis. My situation is not unusual for expats here: I receive some income in British pounds, pay Dutch rent and bills in euros, and send money to family occasionally. For years I tried to make one app do everything. It does not work. But I have also watched dozens of clients waste money by using the wrong tool for the wrong job, so this comparison is going to be very specific about which one wins where.

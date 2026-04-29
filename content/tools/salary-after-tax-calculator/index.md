@@ -1,25 +1,41 @@
 ---
-title: "Netherlands Salary After-Tax Calculator 2026 (with 30% Ruling)"
-date: 2026-04-29T08:00:00+02:00
-lastmod: 2026-04-29T08:00:00+02:00
-description: "Calculate your real take-home pay in the Netherlands. Includes 30% ruling, AOW, ZVW and box 1 tax brackets for 2026."
-type: "tools"
-layout: "single"
-author: "Sarah van den Berg"
-author_bio: "Expat coach and writer at ExpatNetherlandsHub.com"
-categories: ["finance", "tools"]
-tags: ["Netherlands salary calculator", "Dutch tax calculator 2026", "30% ruling calculator", "take home pay Netherlands", "loonheffing calculator", "AOW premium Netherlands", "ZVW Netherlands"]
-keywords: ["Netherlands salary after tax calculator 2026", "Dutch take home pay calculator", "30% ruling tax saving calculator", "loonheffing 2026", "net salary Netherlands", "gross to net Netherlands"]
+title: Netherlands Salary After-Tax Calculator 2026 (with 30% Ruling)
+date: 2026-04-29 08:00:00+02:00
+lastmod: 2026-04-29 08:00:00+02:00
+description: Calculate your real take-home pay in the Netherlands. Includes 30% ruling, AOW, ZVW and box 1 tax brackets for 2026.
+type: tools
+layout: single
+author: Sarah van den Berg
+author_bio: Expat coach and writer at ExpatNetherlandsHub.com
+categories:
+- finance
+- tools
+tags:
+- Netherlands salary calculator
+- Dutch tax calculator 2026
+- 30% ruling calculator
+- take home pay Netherlands
+- loonheffing calculator
+- AOW premium Netherlands
+- ZVW Netherlands
+keywords:
+- Netherlands salary after tax calculator 2026
+- Dutch take home pay calculator
+- 30% ruling tax saving calculator
+- loonheffing 2026
+- net salary Netherlands
+- gross to net Netherlands
 affiliate: true
 products:
-  - name: "Wise"
-    url: "https://go.expatnetherlandshub.com/wise?ref=/tools/salary-after-tax-calculator/"
-    price: "0.00"
-    tag: "International Transfers"
-  - name: "Independer Zorgverzekering"
-    url: "https://go.expatnetherlandshub.com/independer-zorg?ref=/tools/salary-after-tax-calculator/"
-    price: "0.00"
-    tag: "Health Insurance"
+- name: Wise
+  url: https://go.expatnetherlandshub.com/wise?ref=/tools/salary-after-tax-calculator/
+  price: '0.00'
+  tag: International Transfers
+- name: Independer Zorgverzekering
+  url: https://go.expatnetherlandshub.com/independer-zorg?ref=/tools/salary-after-tax-calculator/
+  price: '0.00'
+  tag: Health Insurance
+schema_type: Article
 ---
 
 <script type="application/ld+json">

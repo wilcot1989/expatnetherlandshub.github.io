@@ -1,38 +1,52 @@
 ---
-title: "Religion & Faith in Netherlands: Expat Guide"
-date: 2026-03-18T10:00:00+01:00
-lastmod: 2026-04-23T10:00:00+01:00
-description: "Religion in the Netherlands for expats 2026: secular Dutch society, finding churches, mosques, synagogues, and your religious rights at work."
-categories: ["integration"]
-tags: ["religion", "faith", "community", "church", "mosque", "expat", "integration"]
-keywords: ["religion netherlands expats", "international church netherlands", "mosque netherlands expat", "faith community netherlands", "religious life netherlands"]
+title: 'Religion & Faith in Netherlands: Expat Guide'
+date: 2026-03-18 10:00:00+01:00
+lastmod: 2026-04-23 10:00:00+01:00
+description: 'Religion in the Netherlands for expats 2026: secular Dutch society, finding churches, mosques, synagogues, and your religious rights at work.'
+categories:
+- integration
+tags:
+- religion
+- faith
+- community
+- church
+- mosque
+- expat
+- integration
+keywords:
+- religion netherlands expats
+- international church netherlands
+- mosque netherlands expat
+- faith community netherlands
+- religious life netherlands
 affiliate: false
-author: "Sarah van den Berg"
-author_bio: "Expat coach and relocation specialist. Half Dutch, half British, living in the Netherlands for over 10 years."
-featured_image: "/images/categories/integration.svg"
+author: Sarah van den Berg
+author_bio: Expat coach and relocation specialist. Half Dutch, half British, living in the Netherlands for over 10 years.
+featured_image: /images/categories/integration.svg
 faq:
-  - q: "Is the Netherlands a religious country?"
-    a: "The Netherlands has become one of the least religious countries in Europe. As of 2026, more than half the population identifies as non-religious (niet-religieus). Among those who do identify with a religion, Christianity (Catholic and Protestant) remains the largest group, followed by Islam, and smaller communities of Judaism, Hinduism, and Buddhism. The trend toward secularisation has been consistent for decades."
-  - q: "Is religion respected in the Netherlands?"
-    a: "Yes. Freedom of religion is a constitutionally protected right. While Dutch society is broadly secular and publicly religion-neutral, religious communities of all faiths operate freely. People can wear religious clothing, observe religious holidays, and practice their faith without discrimination. At the same time, Dutch culture values a clear separation between private faith and public life."
-  - q: "Are there international churches in the Netherlands?"
-    a: "Yes. Most major Dutch cities have English-language and international churches. Amsterdam has multiple English-language Protestant, Catholic, and evangelical congregations. Rotterdam, The Hague, Eindhoven, and Utrecht all have international worship communities. The Hague has a particularly large international community due to the concentration of embassies and international organisations."
-  - q: "Can I find a mosque as a Muslim expat in the Netherlands?"
-    a: "Yes. The Netherlands has a significant Muslim population (approximately 5-6% of the total, largely from Moroccan and Turkish background, plus newer arrivals from various countries). Mosques are present in all major and many medium-sized cities. There are also English-speaking Islamic communities in larger cities catering specifically to internationally mobile Muslims."
-  - q: "Are Jewish communities present in the Netherlands?"
-    a: "Yes. The Netherlands has a Jewish community of approximately 30,000-40,000 people, centred mainly in Amsterdam. Amsterdam has several active synagogues including the famous Portuguese-Israelite Synagogue (Esnoga) and Ashkenazi congregations. The community includes both longstanding Dutch Jewish families and internationally mobile Jews working in the Netherlands."
-  - q: "How does Dutch secularism affect daily work life for religious expats?"
-    a: "Dutch employers are generally required to accommodate reasonable religious practice. You can request time off for religious holidays, space for prayers, and dietary accommodations in work settings. However, Dutch directness means you should simply request these accommodations clearly — Dutch colleagues are unlikely to anticipate your needs. The Dutch work culture respects personal choices while not necessarily being familiar with all religious practices."
+- q: Is the Netherlands a religious country?
+  a: The Netherlands has become one of the least religious countries in Europe. As of 2026, more than half the population identifies as non-religious (niet-religieus). Among those who do identify with a religion, Christianity (Catholic and Protestant) remains the largest group, followed by Islam, and smaller communities of Judaism, Hinduism, and Buddhism. The trend toward secularisation has been consistent for decades.
+- q: Is religion respected in the Netherlands?
+  a: Yes. Freedom of religion is a constitutionally protected right. While Dutch society is broadly secular and publicly religion-neutral, religious communities of all faiths operate freely. People can wear religious clothing, observe religious holidays, and practice their faith without discrimination. At the same time, Dutch culture values a clear separation between private faith and public life.
+- q: Are there international churches in the Netherlands?
+  a: Yes. Most major Dutch cities have English-language and international churches. Amsterdam has multiple English-language Protestant, Catholic, and evangelical congregations. Rotterdam, The Hague, Eindhoven, and Utrecht all have international worship communities. The Hague has a particularly large international community due to the concentration of embassies and international organisations.
+- q: Can I find a mosque as a Muslim expat in the Netherlands?
+  a: Yes. The Netherlands has a significant Muslim population (approximately 5-6% of the total, largely from Moroccan and Turkish background, plus newer arrivals from various countries). Mosques are present in all major and many medium-sized cities. There are also English-speaking Islamic communities in larger cities catering specifically to internationally mobile Muslims.
+- q: Are Jewish communities present in the Netherlands?
+  a: Yes. The Netherlands has a Jewish community of approximately 30,000-40,000 people, centred mainly in Amsterdam. Amsterdam has several active synagogues including the famous Portuguese-Israelite Synagogue (Esnoga) and Ashkenazi congregations. The community includes both longstanding Dutch Jewish families and internationally mobile Jews working in the Netherlands.
+- q: How does Dutch secularism affect daily work life for religious expats?
+  a: Dutch employers are generally required to accommodate reasonable religious practice. You can request time off for religious holidays, space for prayers, and dietary accommodations in work settings. However, Dutch directness means you should simply request these accommodations clearly — Dutch colleagues are unlikely to anticipate your needs. The Dutch work culture respects personal choices while not necessarily being familiar with all religious practices.
 products:
-  - name: "Babbel"
-    url: "https://www.babbel.com/"
-    price: "6.99"
-  - name: "Meetup"
-    url: "https://www.meetup.com/"
-    price: "0.00"
-  - name: "DutchPod101"
-    url: "https://www.dutchpod101.com/"
-    price: "0.00"
+- name: Babbel
+  url: https://www.babbel.com/
+  price: '6.99'
+- name: Meetup
+  url: https://www.meetup.com/
+  price: '0.00'
+- name: DutchPod101
+  url: https://www.dutchpod101.com/
+  price: '0.00'
+schema_type: Article
 ---
 
 Moving to the Netherlands as a person of faith involves a particular kind of adjustment. Dutch society is secular in a way that goes beyond just low church attendance — religion genuinely has a smaller footprint in daily public life here than in most of the world. At the same time, the Netherlands has a long tradition of tolerance, constitutional freedom of religion, and a diverse immigrant population that has brought and sustained religious communities from every tradition.

@@ -1,38 +1,49 @@
 ---
-title: "Best Energy Providers for Expats in the Netherlands 2026"
-date: 2026-04-18T10:00:00+01:00
-lastmod: 2026-04-23T10:00:00+01:00
-description: "How to choose an energy provider in the Netherlands as an expat. Fixed vs dynamic contracts, best providers, and tips to save on your bill."
-categories: ["housing"]
-tags: ["energy provider", "gas electricity", "Vattenfall", "Eneco", "expat utilities"]
-keywords: ["energy provider Netherlands expat", "Dutch energy contract", "cheapest energy Netherlands", "gas electricity NL"]
+title: Best Energy Providers for Expats in the Netherlands 2026
+date: 2026-04-18 10:00:00+01:00
+lastmod: 2026-04-23 10:00:00+01:00
+description: How to choose an energy provider in the Netherlands as an expat. Fixed vs dynamic contracts, best providers, and tips to save on your bill.
+categories:
+- housing
+tags:
+- energy provider
+- gas electricity
+- Vattenfall
+- Eneco
+- expat utilities
+keywords:
+- energy provider Netherlands expat
+- Dutch energy contract
+- cheapest energy Netherlands
+- gas electricity NL
 affiliate: true
-author: "Sarah van den Berg"
-author_bio: "Expat coach and relocation specialist. Half Dutch, half British, living in the Netherlands for over 10 years."
-featured_image: "/images/featured/energy-providers-expats-netherlands-2026.webp"
+author: Sarah van den Berg
+author_bio: Expat coach and relocation specialist. Half Dutch, half British, living in the Netherlands for over 10 years.
+featured_image: /images/featured/energy-providers-expats-netherlands-2026.webp
 faq:
-  - q: "How do I choose an energy provider in the Netherlands?"
-    a: "Compare providers on comparison sites like Gaslicht.com, Pricewise.nl, or Independer.nl. Key factors: contract type (fixed vs variable vs dynamic), price per kWh, monthly fixed costs, and contract duration. Most contracts are monthly cancellable. Switch anytime for free."
-  - q: "How much does energy cost in the Netherlands in 2026?"
-    a: "Average costs for a household are €150-€250/month (gas + electricity). Electricity costs €0.25-€0.40/kWh depending on contract type. Gas costs €1.20-€1.60/m³. Dynamic contracts can be cheaper but prices fluctuate hourly."
-  - q: "What is a dynamic energy contract?"
-    a: "A dynamic contract charges the real-time hourly electricity price from the European energy exchange (EPEX). Prices change every hour and are known a day in advance. You can save 10-25% by shifting consumption to cheaper hours (night, sunny afternoons). Providers: Tibber, Frank Energie, ANWB Energie."
-  - q: "Can I switch energy providers easily in the Netherlands?"
-    a: "Yes, switching is very easy and free. Most contracts are monthly cancellable. When you choose a new provider, they handle the entire switch process including notifying your old provider. The switch takes 1-3 weeks with no interruption in supply."
-  - q: "Do I need to arrange energy when I move to a new home?"
-    a: "Yes, you should arrange an energy contract before or on the day you move in. If you do not choose a provider, you will be assigned to the default supplier at higher rates. Compare and sign up at least 1 week before your move date."
-  - q: "What is a smart meter and do I need one?"
-    a: "A smart meter (slimme meter) sends your consumption data digitally to your provider, enabling accurate billing (no estimates) and is required for dynamic contracts. Your network operator installs it for free upon request. Over 90% of Dutch households now have one."
+- q: How do I choose an energy provider in the Netherlands?
+  a: 'Compare providers on comparison sites like Gaslicht.com, Pricewise.nl, or Independer.nl. Key factors: contract type (fixed vs variable vs dynamic), price per kWh, monthly fixed costs, and contract duration. Most contracts are monthly cancellable. Switch anytime for free.'
+- q: How much does energy cost in the Netherlands in 2026?
+  a: Average costs for a household are €150-€250/month (gas + electricity). Electricity costs €0.25-€0.40/kWh depending on contract type. Gas costs €1.20-€1.60/m³. Dynamic contracts can be cheaper but prices fluctuate hourly.
+- q: What is a dynamic energy contract?
+  a: 'A dynamic contract charges the real-time hourly electricity price from the European energy exchange (EPEX). Prices change every hour and are known a day in advance. You can save 10-25% by shifting consumption to cheaper hours (night, sunny afternoons). Providers: Tibber, Frank Energie, ANWB Energie.'
+- q: Can I switch energy providers easily in the Netherlands?
+  a: Yes, switching is very easy and free. Most contracts are monthly cancellable. When you choose a new provider, they handle the entire switch process including notifying your old provider. The switch takes 1-3 weeks with no interruption in supply.
+- q: Do I need to arrange energy when I move to a new home?
+  a: Yes, you should arrange an energy contract before or on the day you move in. If you do not choose a provider, you will be assigned to the default supplier at higher rates. Compare and sign up at least 1 week before your move date.
+- q: What is a smart meter and do I need one?
+  a: A smart meter (slimme meter) sends your consumption data digitally to your provider, enabling accurate billing (no estimates) and is required for dynamic contracts. Your network operator installs it for free upon request. Over 90% of Dutch households now have one.
 products:
-  - name: "HousingAnywhere"
-    url: "https://housinganywhere.com/"
-    price: "0.00"
-  - name: "Pararius"
-    url: "https://www.pararius.com/"
-    price: "0.00"
-  - name: "Funda"
-    url: "https://www.funda.nl/"
-    price: "0.00"
+- name: HousingAnywhere
+  url: https://housinganywhere.com/
+  price: '0.00'
+- name: Pararius
+  url: https://www.pararius.com/
+  price: '0.00'
+- name: Funda
+  url: https://www.funda.nl/
+  price: '0.00'
+schema_type: Article
 ---
 
 I accidentally left my energy contract on the default provider for six months after moving into my apartment and massively overpaid. Turns out, switching energy providers in the Netherlands is free and takes five minutes -- I just did not know that. It is one of those things nobody tells you when you arrive. Here is how to choose the right energy contract from the start so you do not repeat my expensive mistake.

@@ -1,41 +1,48 @@
 ---
-title: "Dutch Mortgage for Expats 2026: Requirements & Process"
-date: 2026-03-26T10:00:00+01:00
-lastmod: 2026-04-23T10:00:00+01:00
-description: "Everything expats need to know about getting a Dutch mortgage in 2026: requirements, costs, the step-by-step process, and what to watch out for with the 30% ruling."
-categories: ["housing"]
-tags: ["mortgage", "housing", "buying property", "hypotheek", "expat housing"]
+title: 'Dutch Mortgage for Expats 2026: Requirements & Process'
+date: 2026-03-26 10:00:00+01:00
+lastmod: 2026-04-23 10:00:00+01:00
+description: 'Everything expats need to know about getting a Dutch mortgage in 2026: requirements, costs, the step-by-step process, and what to watch out for with the 30% ruling.'
+categories:
+- housing
+tags:
+- mortgage
+- housing
+- buying property
+- hypotheek
+- expat housing
 keywords:
-  - "Dutch mortgage expat"
-  - "mortgage Netherlands foreigner"
-  - "hypotheek expat"
-  - "buying house Netherlands expat"
+- Dutch mortgage expat
+- mortgage Netherlands foreigner
+- hypotheek expat
+- buying house Netherlands expat
 affiliate: true
-author: "Sarah van den Berg"
-author_bio: "Expat coach and writer at ExpatNetherlandsHub.com"
-featured_image: "/images/categories/housing.svg"
+author: Sarah van den Berg
+author_bio: Expat coach and writer at ExpatNetherlandsHub.com
+featured_image: /images/categories/housing.svg
 faq:
-  - q: "Can expats get a mortgage in the Netherlands?"
-    a: "Yes, expats can get a Dutch mortgage, even without Dutch nationality. Banks assess your application based on income stability, contract type, residency status, and financial history. EU citizens generally face fewer restrictions. Non-EU expats need a valid residence permit with enough remaining validity to cover the initial mortgage period. A BSN number and Dutch bank account are mandatory for all applicants."
-  - q: "How much can I borrow for a Dutch mortgage?"
-    a: "In 2026, most lenders allow you to borrow up to 4.5 times your gross annual income. So on a €60,000 salary, you could borrow up to €270,000. Couples can combine their incomes, though some lenders only count a percentage of the second income. Existing debts (student loans, car finance, credit cards) reduce your borrowing capacity. The Dutch Nibud guidelines set a maximum monthly payment as a percentage of income, which tightens further as interest rates rise."
-  - q: "Does the 30% ruling affect my mortgage?"
-    a: "It complicates things. Some banks calculate your borrowing capacity based on your full gross salary including the 30% tax-free allowance, which gives you the maximum borrowing power. Others only count your taxable income (70% of salary), which can reduce your maximum mortgage by 20-30%. Always ask a mortgage advisor which approach the lender uses before applying. Also important: the 30% ruling has a five-year cap, so banks factor in whether it will expire before your mortgage term ends."
-  - q: "What is NHG and do I qualify?"
-    a: "NHG stands for Nationale Hypotheek Garantie (National Mortgage Guarantee). It is a government-backed guarantee on mortgages up to €435,000 (2026 limit). If you qualify, you get a lower interest rate — typically 0.5-0.7% less than standard rates — because the government backs the loan if you default due to circumstances outside your control (job loss, divorce, disability). Expats can qualify for NHG as long as they have a valid residence permit and meet the income requirements. The one-off NHG premium is 0.6% of the loan amount, added to your mortgage at the start."
-  - q: "What does it cost to buy a house in the Netherlands?"
-    a: "Buyer's costs (kosten koper) typically add 4-6% on top of the purchase price. For a €350,000 property, expect €14,000-€21,000 in additional costs. This includes: transfer tax (2% for most buyers, 0% for first-time buyers under 35 on properties up to €510,000), notary fees (€1,500-€3,000), mortgage advisor (€2,000-€3,500), building survey (€300-€600), and bank valuation (€400-€700). These costs cannot be financed through the mortgage; they must come from your own savings."
-  - q: "Do I need a permanent contract to get a Dutch mortgage?"
-    a: "A permanent contract (vast contract) makes the process significantly easier, but it is not strictly required. Lenders also accept: a declaration of intent (intentieverklaring) from your employer to offer a permanent contract; temporary contracts with good prospects; and self-employment with at least three years of consistent income history and tax returns. Some lenders are more flexible than others for non-permanent employment, so it pays to shop around via a mortgage advisor."
-  - q: "Which banks are best for expat mortgages in the Netherlands?"
-    a: "ING, Rabobank, and ABN AMRO are the three largest Dutch banks and all have experience with expat mortgage applications. Rabobank is often cited as expat-friendly. Specialist lenders like Hypotrust and Vista Hypotheken also work well with complex cases including 30% ruling holders and international income. Using an independent mortgage advisor (hypotheekadviseur) who specialises in expats is usually the best approach — they know which lenders are currently most flexible."
-  - q: "How long does the Dutch mortgage process take?"
-    a: "From starting your mortgage application to getting the keys, typically 6-10 weeks. Pre-approval (hypotheekcheck) takes a few days to two weeks. Once you have an accepted offer on a property, you usually have 4-6 weeks to arrange final mortgage approval before the notary appointment. The notary signing can be arranged within days once all documents are in order. In a competitive market, getting pre-approval before you start house hunting puts you in a much stronger position."
+- q: Can expats get a mortgage in the Netherlands?
+  a: Yes, expats can get a Dutch mortgage, even without Dutch nationality. Banks assess your application based on income stability, contract type, residency status, and financial history. EU citizens generally face fewer restrictions. Non-EU expats need a valid residence permit with enough remaining validity to cover the initial mortgage period. A BSN number and Dutch bank account are mandatory for all applicants.
+- q: How much can I borrow for a Dutch mortgage?
+  a: In 2026, most lenders allow you to borrow up to 4.5 times your gross annual income. So on a €60,000 salary, you could borrow up to €270,000. Couples can combine their incomes, though some lenders only count a percentage of the second income. Existing debts (student loans, car finance, credit cards) reduce your borrowing capacity. The Dutch Nibud guidelines set a maximum monthly payment as a percentage of income, which tightens further as interest rates rise.
+- q: Does the 30% ruling affect my mortgage?
+  a: 'It complicates things. Some banks calculate your borrowing capacity based on your full gross salary including the 30% tax-free allowance, which gives you the maximum borrowing power. Others only count your taxable income (70% of salary), which can reduce your maximum mortgage by 20-30%. Always ask a mortgage advisor which approach the lender uses before applying. Also important: the 30% ruling has a five-year cap, so banks factor in whether it will expire before your mortgage term ends.'
+- q: What is NHG and do I qualify?
+  a: NHG stands for Nationale Hypotheek Garantie (National Mortgage Guarantee). It is a government-backed guarantee on mortgages up to €435,000 (2026 limit). If you qualify, you get a lower interest rate — typically 0.5-0.7% less than standard rates — because the government backs the loan if you default due to circumstances outside your control (job loss, divorce, disability). Expats can qualify for NHG as long as they have a valid residence permit and meet the income requirements. The one-off NHG premium is 0.6% of the loan amount, added to your mortgage at the start.
+- q: What does it cost to buy a house in the Netherlands?
+  a: 'Buyer''s costs (kosten koper) typically add 4-6% on top of the purchase price. For a €350,000 property, expect €14,000-€21,000 in additional costs. This includes: transfer tax (2% for most buyers, 0% for first-time buyers under 35 on properties up to €510,000), notary fees (€1,500-€3,000), mortgage advisor (€2,000-€3,500), building survey (€300-€600), and bank valuation (€400-€700). These costs cannot be financed through the mortgage; they must come from your own savings.'
+- q: Do I need a permanent contract to get a Dutch mortgage?
+  a: 'A permanent contract (vast contract) makes the process significantly easier, but it is not strictly required. Lenders also accept: a declaration of intent (intentieverklaring) from your employer to offer a permanent contract; temporary contracts with good prospects; and self-employment with at least three years of consistent income history and tax returns. Some lenders are more flexible than others for non-permanent employment, so it pays to shop around via a mortgage advisor.'
+- q: Which banks are best for expat mortgages in the Netherlands?
+  a: ING, Rabobank, and ABN AMRO are the three largest Dutch banks and all have experience with expat mortgage applications. Rabobank is often cited as expat-friendly. Specialist lenders like Hypotrust and Vista Hypotheken also work well with complex cases including 30% ruling holders and international income. Using an independent mortgage advisor (hypotheekadviseur) who specialises in expats is usually the best approach — they know which lenders are currently most flexible.
+- q: How long does the Dutch mortgage process take?
+  a: From starting your mortgage application to getting the keys, typically 6-10 weeks. Pre-approval (hypotheekcheck) takes a few days to two weeks. Once you have an accepted offer on a property, you usually have 4-6 weeks to arrange final mortgage approval before the notary appointment. The notary signing can be arranged within days once all documents are in order. In a competitive market, getting pre-approval before you start house hunting puts you in a much stronger position.
 products:
-  - name: "Wise"
-    url: "https://go.expatnetherlandshub.com/wise?ref=/guides/housing/dutch-mortgage-expats-guide-2026/"
-    price: "0.00"
-    tag: "Currency Transfer"
+- name: Wise
+  url: https://go.expatnetherlandshub.com/wise?ref=/guides/housing/dutch-mortgage-expats-guide-2026/
+  price: '0.00'
+  tag: Currency Transfer
+schema_type: Article
 ---
 
 I bought my first apartment in the Netherlands after years of renting — and the Dutch mortgage process was nothing like what I expected. Coming from the UK, I thought I had a rough idea of how property purchases worked. I did not. The Dutch system has its own terminology, its own bureaucracy, and its own set of traps for expats who assume it works the same way back home.

@@ -1,37 +1,48 @@
 ---
-title: "Find an English-Speaking Doctor in the Netherlands (2026)"
-date: 2026-05-01T10:00:00+01:00
-lastmod: 2026-04-23T10:00:00+01:00
-type: "guide"
-description: "How to find and register with an English-speaking GP (huisarts) in the Netherlands. Tips for Amsterdam, Rotterdam, The Hague, and other Dutch cities."
-categories: ["health"]
-tags: ["doctor", "huisarts", "GP", "English-speaking", "healthcare Netherlands"]
-keywords: ["english speaking doctor netherlands", "find huisarts netherlands expat", "english GP amsterdam", "how to register huisarts netherlands"]
+title: Find an English-Speaking Doctor in the Netherlands (2026)
+date: 2026-05-01 10:00:00+01:00
+lastmod: 2026-04-23 10:00:00+01:00
+type: guide
+description: How to find and register with an English-speaking GP (huisarts) in the Netherlands. Tips for Amsterdam, Rotterdam, The Hague, and other Dutch cities.
+categories:
+- health
+tags:
+- doctor
+- huisarts
+- GP
+- English-speaking
+- healthcare Netherlands
+keywords:
+- english speaking doctor netherlands
+- find huisarts netherlands expat
+- english GP amsterdam
+- how to register huisarts netherlands
 affiliate: true
 products:
-  - name: "SafetyWing"
-    url: "https://go.expatnetherlandshub.com/safetywing?ref=/guides/health/find-english-speaking-doctor-netherlands-2026/"
-    price: "45.08"
-  - name: "CZ"
-    url: "https://www.cz.nl/"
-    price: "0.00"
-  - name: "Zilveren Kruis"
-    url: "https://www.zilverenkruis.nl/"
-    price: "0.00"
-author: "Sarah van den Berg"
-author_bio: "Expat coach and relocation specialist. Half Dutch, half British, living in the Netherlands for over 10 years."
-featured_image: "/images/categories/health.svg"
+- name: SafetyWing
+  url: https://go.expatnetherlandshub.com/safetywing?ref=/guides/health/find-english-speaking-doctor-netherlands-2026/
+  price: '45.08'
+- name: CZ
+  url: https://www.cz.nl/
+  price: '0.00'
+- name: Zilveren Kruis
+  url: https://www.zilverenkruis.nl/
+  price: '0.00'
+author: Sarah van den Berg
+author_bio: Expat coach and relocation specialist. Half Dutch, half British, living in the Netherlands for over 10 years.
+featured_image: /images/categories/health.svg
 faq:
-  - q: "Can I see a doctor in English in the Netherlands?"
-    a: "Yes. Many GPs (huisartsen) in the Netherlands speak English, especially in major cities like Amsterdam, Rotterdam, The Hague, and Eindhoven. Some practices specifically cater to international patients. Use Zorgkaart Nederland to filter for English-speaking doctors in your area."
-  - q: "How do I register with a huisarts in the Netherlands?"
-    a: "Contact the practice directly by phone or online form. You need your BSN (burgerservicenummer) and proof of Dutch health insurance. Many practices have waiting lists, especially in Amsterdam and Utrecht. Register as soon as you move — do not wait until you are ill."
-  - q: "What if no huisarts near me accepts new patients?"
-    a: "If you cannot find a GP accepting patients, contact your health insurer — they are legally required to help you find one within a reasonable distance. You can also try Zorgkaart Nederland or ask your gemeente for a list of practices with availability."
-  - q: "Who is this for?"
-    a: "See the section above on who benefits most from this service or guide."
-  - q: "What does it cost in 2026?"
-    a: "Pricing varies — see the comparison table above for current rates."
+- q: Can I see a doctor in English in the Netherlands?
+  a: Yes. Many GPs (huisartsen) in the Netherlands speak English, especially in major cities like Amsterdam, Rotterdam, The Hague, and Eindhoven. Some practices specifically cater to international patients. Use Zorgkaart Nederland to filter for English-speaking doctors in your area.
+- q: How do I register with a huisarts in the Netherlands?
+  a: Contact the practice directly by phone or online form. You need your BSN (burgerservicenummer) and proof of Dutch health insurance. Many practices have waiting lists, especially in Amsterdam and Utrecht. Register as soon as you move — do not wait until you are ill.
+- q: What if no huisarts near me accepts new patients?
+  a: If you cannot find a GP accepting patients, contact your health insurer — they are legally required to help you find one within a reasonable distance. You can also try Zorgkaart Nederland or ask your gemeente for a list of practices with availability.
+- q: Who is this for?
+  a: See the section above on who benefits most from this service or guide.
+- q: What does it cost in 2026?
+  a: Pricing varies — see the comparison table above for current rates.
+schema_type: Article
 ---
 
 Finding a doctor in the Netherlands was not something I thought about before I moved. I assumed it would be simple — look up a GP, book an appointment, done. What I did not expect was to spend three weeks calling practices, being told they had a waiting list, and eventually discovering that the whole system works nothing like what I was used to in the UK. If you are new here and need to register with a GP, this guide will save you a lot of frustration.

@@ -1,30 +1,44 @@
 ---
-title: "Shopping in Netherlands: Expat Store Guide"
-date: 2026-03-18T10:00:00+01:00
-lastmod: 2026-04-23T10:00:00+01:00
-description: "Shopping guide for expats in the Netherlands. HEMA, Action, Coolblue, Bol.com, kringloopwinkels, Marktplaats — where to buy everything and what it costs."
-categories: ["daily-life"]
-tags: ["shopping Netherlands", "HEMA", "Bol.com", "Coolblue", "expat shopping", "kringloopwinkel"]
-keywords: ["shopping Netherlands expat", "HEMA Netherlands", "Bol.com expat", "Coolblue Netherlands", "kringloopwinkel", "Marktplaats expat guide"]
+title: 'Shopping in Netherlands: Expat Store Guide'
+date: 2026-03-18 10:00:00+01:00
+lastmod: 2026-04-23 10:00:00+01:00
+description: Shopping guide for expats in the Netherlands. HEMA, Action, Coolblue, Bol.com, kringloopwinkels, Marktplaats — where to buy everything and what it costs.
+categories:
+- daily-life
+tags:
+- shopping Netherlands
+- HEMA
+- Bol.com
+- Coolblue
+- expat shopping
+- kringloopwinkel
+keywords:
+- shopping Netherlands expat
+- HEMA Netherlands
+- Bol.com expat
+- Coolblue Netherlands
+- kringloopwinkel
+- Marktplaats expat guide
 affiliate: true
 products:
-  - name: "KPN"
-    url: "https://www.kpn.com/"
-    price: "0.00"
-author: "Sarah van den Berg"
-author_bio: "Expat coach and relocation specialist. Half Dutch, half British, living in the Netherlands for over 10 years."
-featured_image: "/images/categories/daily-life.svg"
+- name: KPN
+  url: https://www.kpn.com/
+  price: '0.00'
+author: Sarah van den Berg
+author_bio: Expat coach and relocation specialist. Half Dutch, half British, living in the Netherlands for over 10 years.
+featured_image: /images/categories/daily-life.svg
 faq:
-  - q: "Is Bol.com better than Amazon in the Netherlands?"
-    a: "For most purchases, yes — Bol.com is faster, has better Dutch customer service, and is fully integrated with Dutch payment methods including iDEAL. Amazon does operate in the Netherlands (amazon.nl) and has a reasonably good selection, but Bol.com has broader coverage of Dutch-market products, Dutch-language manuals and packaging (which matters for electronics warranties), and faster delivery from Dutch distribution centres. The main advantages of Amazon are its international marketplace selection for niche items and its streaming service (separate from the retail platform). For everyday purchases, household goods, books, and electronics, Bol.com is the better choice for Netherlands-based expats."
-  - q: "Are Dutch shops closed on Sundays?"
-    a: "It depends on the municipality and the size of the retailer. In the Randstad — Amsterdam, Rotterdam, Utrecht, The Hague — most shops are open on Sundays, typically from 11:00 or 12:00 to 17:00 or 18:00. Larger retailers in city centres often have Koopzondag (shopping Sunday) hours. HEMA, Action, and Coolblue stores in major cities are typically open seven days a week. In smaller towns and villages, Sunday opening is less consistent — some shops do not open at all on Sundays. Supermarkets in most areas are open on Sundays with reduced hours. Check Google Maps for specific shop hours before making a special trip."
-  - q: "What is iDEAL and will my foreign card work in Dutch shops?"
-    a: "iDEAL is the dominant Dutch online payment system — a bank transfer system that accounts for the majority of Dutch e-commerce transactions. When shopping online in the Netherlands, iDEAL is always an option and is often the default. To use iDEAL, you need a Dutch bank account. In physical shops, Dutch retailers accept Maestro/Visa Debit, Mastercard, and Visa — contactless payment is widespread and standard. American Express is less universally accepted (maybe 60% of larger retailers). Some smaller Dutch shops are still cash-only or cash-preferred, particularly markets and independent traders. For online shopping without a Dutch bank account, PayPal is accepted on most major Dutch platforms."
-  - q: "Where is the best place to furnish an apartment cheaply in the Netherlands?"
-    a: "The combination that works best: Marktplaats.nl for large furniture (sofas, beds, wardrobes) at 20-50% of new prices; IKEA for basics that Marktplaats does not have cheaply; kringloopwinkels (charity/thrift shops) for everything else. Action for textiles, storage, and small household items. HEMA for kitchen basics, bedding, and bathroom essentials. For electronics, Coolblue's refurbished section or Marktplaats are the best value. Avoid Blokker for furnishing — their prices are not especially competitive and the range is limited. If you have time to search, a furnished apartment from a platform like HousingAnywhere is often cheaper over 6 months than furnishing from scratch."
-  - q: "What is a kringloopwinkel?"
-    a: "A kringloopwinkel is a Dutch charity or community thrift shop — the equivalent of a British Oxfam or American Goodwill. Kringloopwinkels sell second-hand furniture, clothing, books, kitchen items, electronics, and household goods, typically at very low prices. Quality varies considerably: well-run kringloops in affluent neighbourhoods (Amsterdam South, Wassenaar, Bloemendaal) receive high-quality donations and price accordingly. Larger kringloops — Humana, Emmaus — have multiple locations and consistent stock. Many have a dedicated furniture section with sofas, dining tables, and wardrobes at a fraction of retail prices. Most are cash or PIN (Dutch debit) only. Visiting a good kringloopwinkel within your first week of arrival is one of the most cost-effective things you can do as an expat in the Netherlands."
+- q: Is Bol.com better than Amazon in the Netherlands?
+  a: For most purchases, yes — Bol.com is faster, has better Dutch customer service, and is fully integrated with Dutch payment methods including iDEAL. Amazon does operate in the Netherlands (amazon.nl) and has a reasonably good selection, but Bol.com has broader coverage of Dutch-market products, Dutch-language manuals and packaging (which matters for electronics warranties), and faster delivery from Dutch distribution centres. The main advantages of Amazon are its international marketplace selection for niche items and its streaming service (separate from the retail platform). For everyday purchases, household goods, books, and electronics, Bol.com is the better choice for Netherlands-based expats.
+- q: Are Dutch shops closed on Sundays?
+  a: It depends on the municipality and the size of the retailer. In the Randstad — Amsterdam, Rotterdam, Utrecht, The Hague — most shops are open on Sundays, typically from 11:00 or 12:00 to 17:00 or 18:00. Larger retailers in city centres often have Koopzondag (shopping Sunday) hours. HEMA, Action, and Coolblue stores in major cities are typically open seven days a week. In smaller towns and villages, Sunday opening is less consistent — some shops do not open at all on Sundays. Supermarkets in most areas are open on Sundays with reduced hours. Check Google Maps for specific shop hours before making a special trip.
+- q: What is iDEAL and will my foreign card work in Dutch shops?
+  a: iDEAL is the dominant Dutch online payment system — a bank transfer system that accounts for the majority of Dutch e-commerce transactions. When shopping online in the Netherlands, iDEAL is always an option and is often the default. To use iDEAL, you need a Dutch bank account. In physical shops, Dutch retailers accept Maestro/Visa Debit, Mastercard, and Visa — contactless payment is widespread and standard. American Express is less universally accepted (maybe 60% of larger retailers). Some smaller Dutch shops are still cash-only or cash-preferred, particularly markets and independent traders. For online shopping without a Dutch bank account, PayPal is accepted on most major Dutch platforms.
+- q: Where is the best place to furnish an apartment cheaply in the Netherlands?
+  a: 'The combination that works best: Marktplaats.nl for large furniture (sofas, beds, wardrobes) at 20-50% of new prices; IKEA for basics that Marktplaats does not have cheaply; kringloopwinkels (charity/thrift shops) for everything else. Action for textiles, storage, and small household items. HEMA for kitchen basics, bedding, and bathroom essentials. For electronics, Coolblue''s refurbished section or Marktplaats are the best value. Avoid Blokker for furnishing — their prices are not especially competitive and the range is limited. If you have time to search, a furnished apartment from a platform like HousingAnywhere is often cheaper over 6 months than furnishing from scratch.'
+- q: What is a kringloopwinkel?
+  a: 'A kringloopwinkel is a Dutch charity or community thrift shop — the equivalent of a British Oxfam or American Goodwill. Kringloopwinkels sell second-hand furniture, clothing, books, kitchen items, electronics, and household goods, typically at very low prices. Quality varies considerably: well-run kringloops in affluent neighbourhoods (Amsterdam South, Wassenaar, Bloemendaal) receive high-quality donations and price accordingly. Larger kringloops — Humana, Emmaus — have multiple locations and consistent stock. Many have a dedicated furniture section with sofas, dining tables, and wardrobes at a fraction of retail prices. Most are cash or PIN (Dutch debit) only. Visiting a good kringloopwinkel within your first week of arrival is one of the most cost-effective things you can do as an expat in the Netherlands.'
+schema_type: Article
 ---
 
 The first thing I bought in the Netherlands — before I even had a bed delivered — was a box of stroopwafels and a set of tea towels from HEMA. Standing in the queue at the Amsterdam Centraal branch with my two purchases, I felt an irrational but powerful sense of arrival. HEMA does that to people. It is inescapably Dutch, warm, slightly chaotic, and somehow exactly what you need.

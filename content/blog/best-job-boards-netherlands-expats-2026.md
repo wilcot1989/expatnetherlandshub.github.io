@@ -1,33 +1,44 @@
 ---
-title: "Best Job Boards Netherlands for Expats 2026"
-date: 2026-03-22T10:00:00+01:00
-lastmod: 2026-04-23T10:00:00+01:00
-description: "The best job boards in the Netherlands for expats in 2026: LinkedIn, Pararius, IamExpat Jobs, Indeed NL, and sector-specific platforms reviewed honestly."
-categories: ["work"]
-tags: ["job boards Netherlands", "expat jobs Netherlands", "English jobs Netherlands", "LinkedIn Netherlands", "IamExpat"]
-keywords: ["best job boards Netherlands expats 2026", "English job boards Netherlands", "find job Netherlands expat", "job search Netherlands 2026"]
+title: Best Job Boards Netherlands for Expats 2026
+date: 2026-03-22 10:00:00+01:00
+lastmod: 2026-04-23 10:00:00+01:00
+description: 'The best job boards in the Netherlands for expats in 2026: LinkedIn, Pararius, IamExpat Jobs, Indeed NL, and sector-specific platforms reviewed honestly.'
+categories:
+- work
+tags:
+- job boards Netherlands
+- expat jobs Netherlands
+- English jobs Netherlands
+- LinkedIn Netherlands
+- IamExpat
+keywords:
+- best job boards Netherlands expats 2026
+- English job boards Netherlands
+- find job Netherlands expat
+- job search Netherlands 2026
 affiliate: true
-author: "Sarah van den Berg"
-author_bio: "Expat coach and writer at ExpatNetherlandsHub.com"
-featured_image: "/images/categories/work.svg"
+author: Sarah van den Berg
+author_bio: Expat coach and writer at ExpatNetherlandsHub.com
+featured_image: /images/categories/work.svg
 faq:
-  - q: "Which job board has the most English-language jobs in the Netherlands?"
-    a: "LinkedIn is the largest single source of English-language professional roles in the Netherlands by volume. The majority of international companies and multinationals in the Netherlands post roles there, and many English-language jobs are filled through LinkedIn sourcing rather than public advertising. For roles specifically labelled as English-friendly, IamExpat Jobs (iamexpat.nl/jobs) is the most focused platform. Indeed Netherlands (indeed.nl) is the largest aggregator, pulling from multiple sources including company websites, other boards, and direct postings."
-  - q: "Are there job boards specifically for expats in the Netherlands?"
-    a: "Yes. IamExpat Jobs (iamexpat.nl/jobs) is the most focused English-language expat job board in the Netherlands, listing roles that are explicitly open to non-Dutch candidates. The Undutchables is a specialist recruiter (not a job board as such) focused entirely on English-speaking and multilingual placements. HireExpats.nl is a smaller niche platform. Most major international recruitment platforms (LinkedIn, Indeed, Glassdoor) are widely used by expats because they aggregate English-language roles effectively."
-  - q: "Is it possible to find a job in the Netherlands without speaking Dutch?"
-    a: "Yes, in many sectors. Technology, finance, logistics, consulting, international NGOs and government organisations, and multinationals all hire in English extensively. IamExpat Jobs specifically filters for English-friendly roles. That said, Dutch language ability opens up significantly more opportunities — particularly in client-facing, healthcare, education, legal, and government roles. Even basic Dutch (A2 level) improves your chances and your networking. Roles that genuinely require no Dutch at all tend to be clustered in Amsterdam, The Hague (international organisations), and technology sectors across the major cities."
-  - q: "Do Dutch job boards require a Dutch CV?"
-    a: "Most Dutch job boards accept applications in English, and many explicitly advertise that applications in English are welcome. If a job posting is in Dutch, writing your application in Dutch is usually better — but if your Dutch is limited, a strong English application is still acceptable at many companies. IamExpat Jobs and The Undutchables are entirely in English. LinkedIn accepts applications in any language. For Dutch-language boards like Nationale Vacaturebank or Monsterboard, Dutch applications are the norm."
-  - q: "How much does it cost to use Dutch job boards as a candidate?"
-    a: "All major job boards in the Netherlands are free for candidates. LinkedIn (free tier) allows job applications without a paid subscription; LinkedIn Premium is useful for seeing who has viewed your profile and for InMail access but is not required to apply to roles. Indeed, IamExpat Jobs, Glassdoor, and most other platforms are entirely free for candidates. Recruitment agencies are free for candidates — agencies are paid by the employer upon successful placement. No legitimate job board charges candidates a fee to apply or view listings."
-  - q: "What is The Undutchables and how does it work?"
-    a: "The Undutchables is a Dutch recruitment agency specialising in placing multilingual and English-speaking professionals in the Netherlands. They work across sectors including finance, HR, marketing, legal, customer service, and operations. Unlike a job board, you register with them (free) and are matched with roles. They also advertise specific openings on their website. Their specialisation in expat placements means their consultants understand the Dutch work permit and Kennismigrant system, which is useful for non-EU candidates. They have offices in Amsterdam, Rotterdam, The Hague, and Utrecht."
+- q: Which job board has the most English-language jobs in the Netherlands?
+  a: LinkedIn is the largest single source of English-language professional roles in the Netherlands by volume. The majority of international companies and multinationals in the Netherlands post roles there, and many English-language jobs are filled through LinkedIn sourcing rather than public advertising. For roles specifically labelled as English-friendly, IamExpat Jobs (iamexpat.nl/jobs) is the most focused platform. Indeed Netherlands (indeed.nl) is the largest aggregator, pulling from multiple sources including company websites, other boards, and direct postings.
+- q: Are there job boards specifically for expats in the Netherlands?
+  a: Yes. IamExpat Jobs (iamexpat.nl/jobs) is the most focused English-language expat job board in the Netherlands, listing roles that are explicitly open to non-Dutch candidates. The Undutchables is a specialist recruiter (not a job board as such) focused entirely on English-speaking and multilingual placements. HireExpats.nl is a smaller niche platform. Most major international recruitment platforms (LinkedIn, Indeed, Glassdoor) are widely used by expats because they aggregate English-language roles effectively.
+- q: Is it possible to find a job in the Netherlands without speaking Dutch?
+  a: Yes, in many sectors. Technology, finance, logistics, consulting, international NGOs and government organisations, and multinationals all hire in English extensively. IamExpat Jobs specifically filters for English-friendly roles. That said, Dutch language ability opens up significantly more opportunities — particularly in client-facing, healthcare, education, legal, and government roles. Even basic Dutch (A2 level) improves your chances and your networking. Roles that genuinely require no Dutch at all tend to be clustered in Amsterdam, The Hague (international organisations), and technology sectors across the major cities.
+- q: Do Dutch job boards require a Dutch CV?
+  a: Most Dutch job boards accept applications in English, and many explicitly advertise that applications in English are welcome. If a job posting is in Dutch, writing your application in Dutch is usually better — but if your Dutch is limited, a strong English application is still acceptable at many companies. IamExpat Jobs and The Undutchables are entirely in English. LinkedIn accepts applications in any language. For Dutch-language boards like Nationale Vacaturebank or Monsterboard, Dutch applications are the norm.
+- q: How much does it cost to use Dutch job boards as a candidate?
+  a: All major job boards in the Netherlands are free for candidates. LinkedIn (free tier) allows job applications without a paid subscription; LinkedIn Premium is useful for seeing who has viewed your profile and for InMail access but is not required to apply to roles. Indeed, IamExpat Jobs, Glassdoor, and most other platforms are entirely free for candidates. Recruitment agencies are free for candidates — agencies are paid by the employer upon successful placement. No legitimate job board charges candidates a fee to apply or view listings.
+- q: What is The Undutchables and how does it work?
+  a: The Undutchables is a Dutch recruitment agency specialising in placing multilingual and English-speaking professionals in the Netherlands. They work across sectors including finance, HR, marketing, legal, customer service, and operations. Unlike a job board, you register with them (free) and are matched with roles. They also advertise specific openings on their website. Their specialisation in expat placements means their consultants understand the Dutch work permit and Kennismigrant system, which is useful for non-EU candidates. They have offices in Amsterdam, Rotterdam, The Hague, and Utrecht.
 products:
-  - name: "Wise"
-    url: "https://go.expatnetherlandshub.com/wise?ref=/blog/best-job-boards-netherlands-expats-2026/"
-    price: "0.00"
-    tag: "Currency Transfer"
+- name: Wise
+  url: https://go.expatnetherlandshub.com/wise?ref=/blog/best-job-boards-netherlands-expats-2026/
+  price: '0.00'
+  tag: Currency Transfer
+schema_type: Article
 ---
 
 When I arrived in the Netherlands and started my job search, I spent the first two weeks applying through every platform I could find. I was doing it inefficiently — posting the same CV to every board and hoping something would come back.

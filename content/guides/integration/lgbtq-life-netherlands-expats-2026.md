@@ -1,39 +1,53 @@
 ---
-title: "LGBTQ+ Life in the Netherlands: Expat Guide"
-date: 2026-03-18T10:00:00+01:00
-lastmod: 2026-04-23T10:00:00+01:00
-type: "guide"
-description: "LGBTQ+ expat guide to the Netherlands: rights, Amsterdam scene, Pride events, trans healthcare, workplace protections, and community life in 2026."
-categories: ["integration"]
-tags: ["LGBTQ+", "gay Netherlands", "expat integration", "Amsterdam", "same-sex marriage", "trans healthcare"]
-keywords: ["lgbtq netherlands expats", "gay life netherlands", "amsterdam lgbtq", "same-sex marriage netherlands", "trans healthcare netherlands", "lgbtq expat guide"]
+title: 'LGBTQ+ Life in the Netherlands: Expat Guide'
+date: 2026-03-18 10:00:00+01:00
+lastmod: 2026-04-23 10:00:00+01:00
+type: guide
+description: 'LGBTQ+ expat guide to the Netherlands: rights, Amsterdam scene, Pride events, trans healthcare, workplace protections, and community life in 2026.'
+categories:
+- integration
+tags:
+- LGBTQ+
+- gay Netherlands
+- expat integration
+- Amsterdam
+- same-sex marriage
+- trans healthcare
+keywords:
+- lgbtq netherlands expats
+- gay life netherlands
+- amsterdam lgbtq
+- same-sex marriage netherlands
+- trans healthcare netherlands
+- lgbtq expat guide
 affiliate: true
-author: "Sarah van den Berg"
-author_bio: "Expat coach and relocation specialist. Half Dutch, half British, living in the Netherlands for over 10 years."
-featured_image: "/images/categories/integration.svg"
+author: Sarah van den Berg
+author_bio: Expat coach and relocation specialist. Half Dutch, half British, living in the Netherlands for over 10 years.
+featured_image: /images/categories/integration.svg
 faq:
-  - q: "Is the Netherlands safe for LGBTQ+ expats?"
-    a: "The Netherlands is one of the most LGBTQ+-friendly countries in the world. Same-sex marriage has been legal since 2001, anti-discrimination law covers sexual orientation and gender identity, and Amsterdam is globally recognised as an LGBTQ+ hub. Urban areas are generally very safe. That said, hate crimes do occur — the national police registered around 400 LGBTQ-related incidents in 2023 — and rural areas tend to be more conservative than cities."
-  - q: "Can same-sex couples bring a partner to the Netherlands on a visa?"
-    a: "Yes. Same-sex couples have equal rights to opposite-sex couples for the partner visa. A registered partnership or marriage is sufficient. The IND (Immigration and Naturalisation Service) treats same-sex partnerships identically to opposite-sex partnerships for residency purposes."
-  - q: "How long is the waiting list for trans healthcare at VUmc?"
-    a: "As of 2026, the waiting time at the VUmc Gender Clinic in Amsterdam is typically 2–4 years from referral to first intake appointment. This is a known problem. Some expats seek treatment in Belgium, Germany, or via private clinics to reduce waiting times. The Transvisie and TNN organisations provide guidance on navigating the system."
-  - q: "Do I need to be out at work in the Netherlands?"
-    a: "No. The Netherlands has strong anti-discrimination protections in employment, but coming out is always a personal choice. The Dutch workplace culture tends to be direct and open, and larger international companies typically have active LGBTQ+ employee resource groups. You are protected by law from discrimination based on sexual orientation and gender identity, but you are never obligated to disclose."
-  - q: "Which Dutch cities are most LGBTQ+-friendly for expats?"
-    a: "Amsterdam is the undisputed leader, with a dedicated LGBTQ+ neighbourhood around Reguliersdwarsstraat and the Amstel. Utrecht, Rotterdam, and The Hague have active communities and annual Pride events. Eindhoven and Groningen are university cities with progressive cultures. Smaller towns and rural areas are significantly more conservative."
-  - q: "Are there LGBTQ+ expat community groups in the Netherlands?"
-    a: "Yes. COC Nederland is the national LGBTQ+ organisation with local chapters in most cities. Amsterdam has dedicated expat LGBTQ+ meetups through Meetup.com, Facebook groups, and venues like Cafe Reality and Soho. ILGA-Europe also maintains a resource list for LGBTQ+ migrants and asylum seekers."
+- q: Is the Netherlands safe for LGBTQ+ expats?
+  a: The Netherlands is one of the most LGBTQ+-friendly countries in the world. Same-sex marriage has been legal since 2001, anti-discrimination law covers sexual orientation and gender identity, and Amsterdam is globally recognised as an LGBTQ+ hub. Urban areas are generally very safe. That said, hate crimes do occur — the national police registered around 400 LGBTQ-related incidents in 2023 — and rural areas tend to be more conservative than cities.
+- q: Can same-sex couples bring a partner to the Netherlands on a visa?
+  a: Yes. Same-sex couples have equal rights to opposite-sex couples for the partner visa. A registered partnership or marriage is sufficient. The IND (Immigration and Naturalisation Service) treats same-sex partnerships identically to opposite-sex partnerships for residency purposes.
+- q: How long is the waiting list for trans healthcare at VUmc?
+  a: As of 2026, the waiting time at the VUmc Gender Clinic in Amsterdam is typically 2–4 years from referral to first intake appointment. This is a known problem. Some expats seek treatment in Belgium, Germany, or via private clinics to reduce waiting times. The Transvisie and TNN organisations provide guidance on navigating the system.
+- q: Do I need to be out at work in the Netherlands?
+  a: No. The Netherlands has strong anti-discrimination protections in employment, but coming out is always a personal choice. The Dutch workplace culture tends to be direct and open, and larger international companies typically have active LGBTQ+ employee resource groups. You are protected by law from discrimination based on sexual orientation and gender identity, but you are never obligated to disclose.
+- q: Which Dutch cities are most LGBTQ+-friendly for expats?
+  a: Amsterdam is the undisputed leader, with a dedicated LGBTQ+ neighbourhood around Reguliersdwarsstraat and the Amstel. Utrecht, Rotterdam, and The Hague have active communities and annual Pride events. Eindhoven and Groningen are university cities with progressive cultures. Smaller towns and rural areas are significantly more conservative.
+- q: Are there LGBTQ+ expat community groups in the Netherlands?
+  a: Yes. COC Nederland is the national LGBTQ+ organisation with local chapters in most cities. Amsterdam has dedicated expat LGBTQ+ meetups through Meetup.com, Facebook groups, and venues like Cafe Reality and Soho. ILGA-Europe also maintains a resource list for LGBTQ+ migrants and asylum seekers.
 products:
-  - name: "Babbel"
-    url: "https://www.babbel.com/"
-    price: "6.99"
-  - name: "Meetup"
-    url: "https://www.meetup.com/"
-    price: "0.00"
-  - name: "DutchPod101"
-    url: "https://www.dutchpod101.com/"
-    price: "0.00"
+- name: Babbel
+  url: https://www.babbel.com/
+  price: '6.99'
+- name: Meetup
+  url: https://www.meetup.com/
+  price: '0.00'
+- name: DutchPod101
+  url: https://www.dutchpod101.com/
+  price: '0.00'
+schema_type: Article
 ---
 
 I moved to Amsterdam with my partner in 2016 and spent the first week half-expecting someone to notice us holding hands and react badly. Nobody did. A week in, we realised that our very public affection was utterly unremarkable in this city. That normalcy — that quiet, confident inclusion — is one of the things I love most about the Netherlands, and it is one of the things I hear most from LGBTQ+ expats who choose to stay long-term. But the Netherlands is not uniformly progressive, and there are still real challenges here that no relocation guide should gloss over. This is the honest version.

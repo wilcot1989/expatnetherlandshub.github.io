@@ -1,35 +1,47 @@
 ---
-title: "How to Buy a Car in the Netherlands 2026"
-date: 2026-06-12T10:00:00+01:00
-lastmod: 2026-04-23T10:00:00+01:00
-description: "Buying a car in the Netherlands as an expat in 2026: new vs used, BPM tax, motorrijtuigenbelasting, APK, RDW registration, and insurance options explained."
-categories: ["daily-life"]
-tags: ["car", "buying car", "RDW", "BPM", "motorrijtuigenbelasting"]
-keywords: ["buy car Netherlands expat", "BPM Netherlands", "RDW car registration", "used car Netherlands", "APK Netherlands"]
+title: How to Buy a Car in the Netherlands 2026
+date: 2026-06-12 10:00:00+01:00
+lastmod: 2026-04-23 10:00:00+01:00
+description: 'Buying a car in the Netherlands as an expat in 2026: new vs used, BPM tax, motorrijtuigenbelasting, APK, RDW registration, and insurance options explained.'
+categories:
+- daily-life
+tags:
+- car
+- buying car
+- RDW
+- BPM
+- motorrijtuigenbelasting
+keywords:
+- buy car Netherlands expat
+- BPM Netherlands
+- RDW car registration
+- used car Netherlands
+- APK Netherlands
 affiliate: true
 products:
-  - name: "Swapfiets"
-    url: "https://swapfiets.nl/"
-    price: "16.90"
-  - name: "NS"
-    url: "https://www.ns.nl/"
-    price: "0.00"
-author: "Sarah van den Berg"
-author_bio: "Expat coach and relocation specialist. Half Dutch, half British, living in the Netherlands for over 10 years."
-featured_image: "/images/categories/daily-life.svg"
+- name: Swapfiets
+  url: https://swapfiets.nl/
+  price: '16.90'
+- name: NS
+  url: https://www.ns.nl/
+  price: '0.00'
+author: Sarah van den Berg
+author_bio: Expat coach and relocation specialist. Half Dutch, half British, living in the Netherlands for over 10 years.
+featured_image: /images/categories/daily-life.svg
 faq:
-  - q: "Do I need a Dutch driver's license to buy a car in the Netherlands?"
-    a: "No. Anyone can purchase a car in the Netherlands regardless of the license they hold. However, you do need a valid driver's license to drive it, and as a non-EU national you have 185 days from registration to exchange your foreign license or take the Dutch driving exam. The car purchase process itself — signing a purchase agreement, registering at the RDW, arranging insurance — does not require a Dutch license."
-  - q: "What is BPM and how much will it cost me?"
-    a: "BPM (belasting van personenauto's en motorrijwielen) is a registration tax paid when a car is first registered in the Netherlands, calculated based on CO2 emissions. For a used car being imported from abroad, you pay a reduced BPM proportional to the car's remaining value. On a typical used car bought domestically, BPM is already paid by the original Dutch purchaser and is reflected in the asking price. For a car imported from Germany or Belgium, expect to pay €500-€5,000+ in BPM depending on the vehicle's age, value, and emissions. High-emission petrol and diesel cars attract the most."
-  - q: "What is the APK and when does it need to happen?"
-    a: "The APK (Algemene Periodieke Keuring) is the Dutch vehicle roadworthiness inspection — equivalent to the UK MOT or German TÜV. New cars are exempt for the first 4 years. After that, APK is required annually for cars older than 4 years. A basic APK inspection costs €25-€50 at an RDW-approved garage. Failing the APK means you must repair the faults and re-test before legally driving the car. When buying a used car, always check the APK expiry date — ideally buy a car that has just passed its APK."
-  - q: "Can I import a car from Germany or Belgium to save money?"
-    a: "It is possible and some expats do it, but the savings are often smaller than expected once you factor in BPM, RDW registration fees, transport costs, and the hassle of managing paperwork in a foreign language. German-spec cars often have different equipment configurations than Dutch-market cars. If you are buying a rare or specific model, importing can make sense. For a standard used car, buying domestically on Marktplaats or AutoTrack is usually simpler and comparably priced after all costs."
-  - q: "What types of car insurance are available in the Netherlands?"
-    a: "There are three tiers: WA (wettelijke aansprakelijkheid) is the legally required minimum — it covers damage you cause to others but nothing for your own car. WA+ (also called beperkt casco) adds cover for theft, fire, storm damage, and collision with animals. Allrisk (also called volledig casco) adds cover for damage to your own car in any accident, including collisions where you are at fault. For cars under 6-7 years old, allrisk is worth the premium. For older cars worth under €5,000, WA or WA+ is usually sufficient."
-  - q: "Is a car worth it in the Netherlands as an expat?"
-    a: "It depends entirely on where you live and work. In Amsterdam, Rotterdam, or Utrecht, a car is an expensive liability — parking alone can cost €200-€400/month, and public transport and cycling cover everything. In smaller cities, commuter towns, or areas outside the Randstad, a car can make daily life significantly easier. The honest calculation is: total annual car ownership cost (insurance + road tax + APK + maintenance + fuel + parking) divided by how often you actually use it versus what alternatives cost. For many expats in cities with good OV coverage, the number does not add up."
+- q: Do I need a Dutch driver's license to buy a car in the Netherlands?
+  a: No. Anyone can purchase a car in the Netherlands regardless of the license they hold. However, you do need a valid driver's license to drive it, and as a non-EU national you have 185 days from registration to exchange your foreign license or take the Dutch driving exam. The car purchase process itself — signing a purchase agreement, registering at the RDW, arranging insurance — does not require a Dutch license.
+- q: What is BPM and how much will it cost me?
+  a: BPM (belasting van personenauto's en motorrijwielen) is a registration tax paid when a car is first registered in the Netherlands, calculated based on CO2 emissions. For a used car being imported from abroad, you pay a reduced BPM proportional to the car's remaining value. On a typical used car bought domestically, BPM is already paid by the original Dutch purchaser and is reflected in the asking price. For a car imported from Germany or Belgium, expect to pay €500-€5,000+ in BPM depending on the vehicle's age, value, and emissions. High-emission petrol and diesel cars attract the most.
+- q: What is the APK and when does it need to happen?
+  a: The APK (Algemene Periodieke Keuring) is the Dutch vehicle roadworthiness inspection — equivalent to the UK MOT or German TÜV. New cars are exempt for the first 4 years. After that, APK is required annually for cars older than 4 years. A basic APK inspection costs €25-€50 at an RDW-approved garage. Failing the APK means you must repair the faults and re-test before legally driving the car. When buying a used car, always check the APK expiry date — ideally buy a car that has just passed its APK.
+- q: Can I import a car from Germany or Belgium to save money?
+  a: It is possible and some expats do it, but the savings are often smaller than expected once you factor in BPM, RDW registration fees, transport costs, and the hassle of managing paperwork in a foreign language. German-spec cars often have different equipment configurations than Dutch-market cars. If you are buying a rare or specific model, importing can make sense. For a standard used car, buying domestically on Marktplaats or AutoTrack is usually simpler and comparably priced after all costs.
+- q: What types of car insurance are available in the Netherlands?
+  a: 'There are three tiers: WA (wettelijke aansprakelijkheid) is the legally required minimum — it covers damage you cause to others but nothing for your own car. WA+ (also called beperkt casco) adds cover for theft, fire, storm damage, and collision with animals. Allrisk (also called volledig casco) adds cover for damage to your own car in any accident, including collisions where you are at fault. For cars under 6-7 years old, allrisk is worth the premium. For older cars worth under €5,000, WA or WA+ is usually sufficient.'
+- q: Is a car worth it in the Netherlands as an expat?
+  a: 'It depends entirely on where you live and work. In Amsterdam, Rotterdam, or Utrecht, a car is an expensive liability — parking alone can cost €200-€400/month, and public transport and cycling cover everything. In smaller cities, commuter towns, or areas outside the Randstad, a car can make daily life significantly easier. The honest calculation is: total annual car ownership cost (insurance + road tax + APK + maintenance + fuel + parking) divided by how often you actually use it versus what alternatives cost. For many expats in cities with good OV coverage, the number does not add up.'
+schema_type: Article
 ---
 
 I resisted getting a car in the Netherlands for nearly five years after moving here. The cycling infrastructure is excellent, the train network covers most of the country, and every Dutch person I knew kept telling me I did not need one. They were right, until they were not.

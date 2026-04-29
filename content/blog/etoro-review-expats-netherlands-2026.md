@@ -1,31 +1,40 @@
 ---
-title: "eToro Review for Expats Netherlands 2026"
-description: "Is eToro the right investing platform for expats in the Netherlands? My honest review covering fees, accounts, and what works — and what doesn't."
+title: eToro Review for Expats Netherlands 2026
+description: Is eToro the right investing platform for expats in the Netherlands? My honest review covering fees, accounts, and what works — and what doesn't.
 date: 2026-03-22
-lastmod: 2026-04-23T10:00:00+01:00
-author: "Sarah van den Berg"
-author_bio: "Expat coach and writer at ExpatNetherlandsHub.com"
-categories: ["finance"]
-tags: ["etoro", "investing", "expats", "netherlands", "stocks", "crypto", "review"]
-featured_image: "/images/categories/finance.svg"
+lastmod: 2026-04-23 10:00:00+01:00
+author: Sarah van den Berg
+author_bio: Expat coach and writer at ExpatNetherlandsHub.com
+categories:
+- finance
+tags:
+- etoro
+- investing
+- expats
+- netherlands
+- stocks
+- crypto
+- review
+featured_image: /images/categories/finance.svg
 affiliate: true
 draft: false
 faq:
-  - q: "Can expats open an eToro account in the Netherlands?"
-    a: "Yes. eToro is available to residents of the Netherlands, including expats with a BSN and a Dutch address. You will need to complete identity verification before you can deposit funds or trade."
-  - q: "What is the minimum deposit on eToro in the Netherlands?"
-    a: "The minimum first deposit is USD 50 (approximately €46). Subsequent deposits have a minimum of USD 50 as well, but amounts vary by payment method."
-  - q: "Does eToro charge currency conversion fees for euro deposits?"
-    a: "Yes. eToro accounts are denominated in USD, so euro deposits are converted at the prevailing rate plus a currency conversion fee of around 0.5%. This adds up over time if you deposit frequently."
-  - q: "Is eToro regulated in the Netherlands?"
-    a: "eToro (Europe) Ltd is regulated by the Cyprus Securities and Exchange Commission (CySEC) and operates under MiFID II across the EU, including the Netherlands. Dutch users are covered under EU investor protection rules."
-  - q: "What happens to my eToro account if I leave the Netherlands?"
-    a: "You can generally continue using eToro if you move within the EU. Moving outside the EU may require you to update your account details. eToro is not available in all countries, so check availability before relocating."
+- q: Can expats open an eToro account in the Netherlands?
+  a: Yes. eToro is available to residents of the Netherlands, including expats with a BSN and a Dutch address. You will need to complete identity verification before you can deposit funds or trade.
+- q: What is the minimum deposit on eToro in the Netherlands?
+  a: The minimum first deposit is USD 50 (approximately €46). Subsequent deposits have a minimum of USD 50 as well, but amounts vary by payment method.
+- q: Does eToro charge currency conversion fees for euro deposits?
+  a: Yes. eToro accounts are denominated in USD, so euro deposits are converted at the prevailing rate plus a currency conversion fee of around 0.5%. This adds up over time if you deposit frequently.
+- q: Is eToro regulated in the Netherlands?
+  a: eToro (Europe) Ltd is regulated by the Cyprus Securities and Exchange Commission (CySEC) and operates under MiFID II across the EU, including the Netherlands. Dutch users are covered under EU investor protection rules.
+- q: What happens to my eToro account if I leave the Netherlands?
+  a: You can generally continue using eToro if you move within the EU. Moving outside the EU may require you to update your account details. eToro is not available in all countries, so check availability before relocating.
 products:
-  - name: "Wise"
-    url: "https://go.expatnetherlandshub.com/wise?ref=/blog/etoro-review-expats-netherlands-2026/"
-    price: "0.00"
-    tag: "Currency Transfer"
+- name: Wise
+  url: https://go.expatnetherlandshub.com/wise?ref=/blog/etoro-review-expats-netherlands-2026/
+  price: '0.00'
+  tag: Currency Transfer
+schema_type: Review
 ---
 
 I opened my eToro account about three years ago, shortly after moving to the Netherlands from the UK. I was looking for something that felt familiar — an English-language interface, access to US stocks, and low barriers to getting started. eToro ticked those boxes. But I've also had frustrations that I wish someone had warned me about before I signed up.

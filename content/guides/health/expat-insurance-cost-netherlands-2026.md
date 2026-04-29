@@ -1,37 +1,48 @@
 ---
-title: "Expat Insurance Cost Netherlands 2026: Full Breakdown"
-description: "What does health insurance actually cost in the Netherlands? Monthly premiums, eigen risico, add-ons and total annual costs for expats in 2026."
+title: 'Expat Insurance Cost Netherlands 2026: Full Breakdown'
+description: What does health insurance actually cost in the Netherlands? Monthly premiums, eigen risico, add-ons and total annual costs for expats in 2026.
 date: 2026-03-26
-lastmod: 2026-04-23T10:00:00+01:00
-author: "Sarah van den Berg"
-author_bio: "Expat coach and writer at ExpatNetherlandsHub.com"
-authorBio: "Expat coach and writer at ExpatNetherlandsHub.com"
-featured_image: "/images/categories/health.svg"
-categories: ["health"]
-tags: ["health insurance", "expat insurance", "insurance cost", "zorgverzekering", "Dutch healthcare"]
-keywords: ["expat insurance cost Netherlands", "health insurance Netherlands price", "how much health insurance Netherlands", "zorgverzekering kosten expat"]
-type: "guide"
+lastmod: 2026-04-23 10:00:00+01:00
+author: Sarah van den Berg
+author_bio: Expat coach and writer at ExpatNetherlandsHub.com
+authorBio: Expat coach and writer at ExpatNetherlandsHub.com
+featured_image: /images/categories/health.svg
+categories:
+- health
+tags:
+- health insurance
+- expat insurance
+- insurance cost
+- zorgverzekering
+- Dutch healthcare
+keywords:
+- expat insurance cost Netherlands
+- health insurance Netherlands price
+- how much health insurance Netherlands
+- zorgverzekering kosten expat
+type: guide
 products:
-  - name: "SafetyWing"
-    url: "https://go.expatnetherlandshub.com/safetywing?ref=/guides/health/expat-insurance-cost-netherlands-2026/"
-    price: "0.00"
-    tag: "Expat Insurance"
+- name: SafetyWing
+  url: https://go.expatnetherlandshub.com/safetywing?ref=/guides/health/expat-insurance-cost-netherlands-2026/
+  price: '0.00'
+  tag: Expat Insurance
 faq:
-  - q: "What is the average cost of health insurance in the Netherlands in 2026?"
-    a: "The average premium for Dutch basisverzekering (basic health insurance) in 2026 is around €150 per month. Cheaper options like DSW start at €130/month, while more extensive policies from VGZ or Menzis reach €175/month. Add the mandatory eigen risico of €385/year and you are looking at roughly €2,185/year before any allowances."
-  - q: "Which is the cheapest health insurer in the Netherlands for expats?"
-    a: "DSW, ONVZ, and CZ consistently offer the lowest basic premiums, typically in the €130–€140/month range. DSW in particular is well-regarded for its no-frills, competitive pricing. Always use the official vergelijker at zorgwijzer.nl or independer.nl to compare current rates for your specific situation."
-  - q: "Can expats get zorgtoeslag (healthcare allowance) in the Netherlands?"
-    a: "Yes — if you are legally residing in the Netherlands, pay Dutch income tax, and earn below the threshold (roughly €37,496 for singles in 2026), you qualify for zorgtoeslag. The allowance can reach up to €150/month, which significantly reduces your net insurance cost."
-  - q: "Is it worth raising the eigen risico to save money?"
-    a: "Raising your voluntary eigen risico above the mandatory €385 saves you roughly €5–€15/month in premium, depending on the insurer. If you are young, healthy, and rarely visit a specialist, raising it to €585 or €885 can make financial sense. But if you have a chronic condition, physiotherapy needs, or are planning to start a family, keep it at the mandatory minimum."
-  - q: "Is dental insurance worth it in the Netherlands?"
-    a: "For adults, basic dental is not covered by basisverzekering. A tandarts check-up plus cleaning costs roughly €80–€130 out of pocket. Supplementary dental insurance runs €10–€25/month. If you visit the dentist twice a year and occasionally need a filling, supplementary dental insurance usually pays for itself within 12–18 months."
-  - q: "How much does health insurance cost for a family in the Netherlands?"
-    a: "Children under 18 are insured free of charge under the Dutch system — you only pay for adults. For a couple, expect €260–€350/month in combined basic premiums. Adding supplementary cover (dental, physio, glasses) for both adults brings the total to €300–€450/month, or €3,600–€5,400/year."
-  - q: "When do I need international insurance instead of Dutch basisverzekering?"
-    a: "You need international insurance if you are not yet registered in the Netherlands (no BSN), if you are a digital nomad spending fewer than 4 months per year in the Netherlands, or if your employer requires global coverage. Once you are a full resident paying Dutch taxes, basisverzekering is both mandatory and the better financial choice for most people."
+- q: What is the average cost of health insurance in the Netherlands in 2026?
+  a: The average premium for Dutch basisverzekering (basic health insurance) in 2026 is around €150 per month. Cheaper options like DSW start at €130/month, while more extensive policies from VGZ or Menzis reach €175/month. Add the mandatory eigen risico of €385/year and you are looking at roughly €2,185/year before any allowances.
+- q: Which is the cheapest health insurer in the Netherlands for expats?
+  a: DSW, ONVZ, and CZ consistently offer the lowest basic premiums, typically in the €130–€140/month range. DSW in particular is well-regarded for its no-frills, competitive pricing. Always use the official vergelijker at zorgwijzer.nl or independer.nl to compare current rates for your specific situation.
+- q: Can expats get zorgtoeslag (healthcare allowance) in the Netherlands?
+  a: Yes — if you are legally residing in the Netherlands, pay Dutch income tax, and earn below the threshold (roughly €37,496 for singles in 2026), you qualify for zorgtoeslag. The allowance can reach up to €150/month, which significantly reduces your net insurance cost.
+- q: Is it worth raising the eigen risico to save money?
+  a: Raising your voluntary eigen risico above the mandatory €385 saves you roughly €5–€15/month in premium, depending on the insurer. If you are young, healthy, and rarely visit a specialist, raising it to €585 or €885 can make financial sense. But if you have a chronic condition, physiotherapy needs, or are planning to start a family, keep it at the mandatory minimum.
+- q: Is dental insurance worth it in the Netherlands?
+  a: For adults, basic dental is not covered by basisverzekering. A tandarts check-up plus cleaning costs roughly €80–€130 out of pocket. Supplementary dental insurance runs €10–€25/month. If you visit the dentist twice a year and occasionally need a filling, supplementary dental insurance usually pays for itself within 12–18 months.
+- q: How much does health insurance cost for a family in the Netherlands?
+  a: Children under 18 are insured free of charge under the Dutch system — you only pay for adults. For a couple, expect €260–€350/month in combined basic premiums. Adding supplementary cover (dental, physio, glasses) for both adults brings the total to €300–€450/month, or €3,600–€5,400/year.
+- q: When do I need international insurance instead of Dutch basisverzekering?
+  a: You need international insurance if you are not yet registered in the Netherlands (no BSN), if you are a digital nomad spending fewer than 4 months per year in the Netherlands, or if your employer requires global coverage. Once you are a full resident paying Dutch taxes, basisverzekering is both mandatory and the better financial choice for most people.
 affiliate: true
+schema_type: Article
 ---
 
 The cost question I get asked more than any other: how much should I budget for health insurance in the Netherlands? Whether you have just accepted a job in Amsterdam, you are researching the move from London, or you are six months in and wondering why your bank account looks thinner than expected — the answer matters enormously for your budget planning.

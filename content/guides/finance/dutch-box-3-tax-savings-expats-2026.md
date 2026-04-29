@@ -1,37 +1,48 @@
 ---
-title: "Dutch Box 3 Tax 2026: How Savings and Investments Are Taxed"
-date: 2026-03-26T09:00:00+02:00
-lastmod: 2026-04-23T10:00:00+01:00
-description: "How Box 3 tax works on savings and investments in the Netherlands. 2026 rates, thresholds, worked examples and legal ways to reduce your tax bill."
-categories: ["finance"]
-tags: ["tax", "Box 3", "savings tax", "investment tax", "wealth tax Netherlands"]
-keywords: ["Dutch Box 3 tax", "savings tax Netherlands", "Box 3 expats", "investment tax Netherlands 2026"]
+title: 'Dutch Box 3 Tax 2026: How Savings and Investments Are Taxed'
+date: 2026-03-26 09:00:00+02:00
+lastmod: 2026-04-23 10:00:00+01:00
+description: How Box 3 tax works on savings and investments in the Netherlands. 2026 rates, thresholds, worked examples and legal ways to reduce your tax bill.
+categories:
+- finance
+tags:
+- tax
+- Box 3
+- savings tax
+- investment tax
+- wealth tax Netherlands
+keywords:
+- Dutch Box 3 tax
+- savings tax Netherlands
+- Box 3 expats
+- investment tax Netherlands 2026
 affiliate: true
-author: "Sarah van den Berg"
-author_bio: "Expat coach and writer at ExpatNetherlandsHub.com"
-featured_image: "/images/categories/finance.svg"
+author: Sarah van den Berg
+author_bio: Expat coach and writer at ExpatNetherlandsHub.com
+featured_image: /images/categories/finance.svg
 products:
-  - name: "Wise"
-    url: "https://go.expatnetherlandshub.com/wise?ref=/guides/finance/dutch-box-3-tax-savings-expats-2026/"
-    price: "0.00"
-    tag: "Currency Transfer"
+- name: Wise
+  url: https://go.expatnetherlandshub.com/wise?ref=/guides/finance/dutch-box-3-tax-savings-expats-2026/
+  price: '0.00'
+  tag: Currency Transfer
 faq:
-  - q: "How much tax do I pay on €100,000 in Dutch savings?"
-    a: "In 2026, the tax-free threshold is €57,000 per person. On €100,000 savings, your taxable wealth is €43,000. Applying the deemed savings return of ~1.03% gives a deemed return of €443. At the 36% tax rate, you owe approximately €159 in Box 3 tax. The amount is modest for savings-heavy portfolios because the savings deemed return (1.03%) is much lower than the investment deemed return (6.04%)."
-  - q: "Is crypto taxed in Box 3?"
-    a: "Yes. Since 2023 the Belastingdienst has been explicit: Bitcoin, Ethereum and all other crypto-assets are Box 3 assets. You report the market value of your holdings on January 1 of the tax year. The investment deemed return of ~6.04% is applied, and tax is charged at 36% on that deemed return. Major exchanges now share data with Dutch tax authorities under EU agreements, so non-reporting carries real risk."
-  - q: "Does the 30% ruling exempt me from Box 3?"
-    a: "Yes — and this is the biggest Box 3 benefit most expats miss. With the 30% ruling you can elect partial non-resident status for Box 3 purposes. This means only Dutch-source assets (Dutch real estate, Dutch company stakes) are included in your Box 3. Foreign savings accounts, foreign investment portfolios, and foreign property are excluded entirely. An expat with €200,000 in a foreign account and €40,000 in a Dutch account would owe zero Box 3 tax under this election — their Dutch wealth is below the €57,000 threshold."
-  - q: "What is the peildatum and why does January 1 matter?"
-    a: "The peildatum (reference date) is January 1 of each tax year. Box 3 tax is calculated based on your wealth on that single date — not an average, not year-end. This creates a legitimate planning opportunity: large purchases made before January 1 reduce your measured wealth. If you were going to buy a car in January, buying it in December instead keeps that cash out of your Box 3 assessment."
-  - q: "How can I legally reduce my Box 3 tax?"
-    a: "The most effective strategies: (1) Elect partial non-resident status if you have the 30% ruling. (2) Invest in green funds — up to €71,251 per person is exempt from Box 3. (3) Time large purchases before January 1 to reduce measured wealth. (4) Contribute to banksparen or lijfrente pension vehicles — amounts held there are excluded from Box 3. (5) Use fiscal partnership to double the threshold to €114,000 and split assets optimally."
-  - q: "How do couples split Box 3 assets?"
-    a: "Fiscal partners (married, registered partnership, or cohabiting partners meeting the criteria) can split their combined Box 3 wealth in any proportion between them — from 0/100 to 100/0. Each partner gets the €57,000 threshold. The most tax-efficient split depends on whether the partners have different asset mixes. You decide the split annually when filing. A 50/50 split is common, but it is worth calculating the optimal allocation."
-  - q: "When will the Box 3 reform take effect?"
-    a: "The Dutch government is working toward a new system based on actual returns (werkelijk rendement) rather than deemed returns. Current target is 2027, though the timeline has already shifted once. Until then, the 2026 system uses updated deemed returns that more closely reflect actual market averages — savings at ~1.03%, investments at ~6.04%. If the 2027 implementation goes ahead, investment returns, dividends and rental income will be taxed as actually earned."
-  - q: "Is foreign property included in Box 3?"
-    a: "Generally yes — if you own a property abroad, its value goes into Box 3 on January 1. However, two exceptions apply. First, if a tax treaty between the Netherlands and the country where the property is located allocates taxing rights to that country, the Netherlands may exempt the property (though it can still affect the rate via the progression reservation). Second, if you have the 30% ruling and elect partial non-resident status, foreign real estate is excluded from your Box 3 entirely."
+- q: How much tax do I pay on €100,000 in Dutch savings?
+  a: In 2026, the tax-free threshold is €57,000 per person. On €100,000 savings, your taxable wealth is €43,000. Applying the deemed savings return of ~1.03% gives a deemed return of €443. At the 36% tax rate, you owe approximately €159 in Box 3 tax. The amount is modest for savings-heavy portfolios because the savings deemed return (1.03%) is much lower than the investment deemed return (6.04%).
+- q: Is crypto taxed in Box 3?
+  a: 'Yes. Since 2023 the Belastingdienst has been explicit: Bitcoin, Ethereum and all other crypto-assets are Box 3 assets. You report the market value of your holdings on January 1 of the tax year. The investment deemed return of ~6.04% is applied, and tax is charged at 36% on that deemed return. Major exchanges now share data with Dutch tax authorities under EU agreements, so non-reporting carries real risk.'
+- q: Does the 30% ruling exempt me from Box 3?
+  a: Yes — and this is the biggest Box 3 benefit most expats miss. With the 30% ruling you can elect partial non-resident status for Box 3 purposes. This means only Dutch-source assets (Dutch real estate, Dutch company stakes) are included in your Box 3. Foreign savings accounts, foreign investment portfolios, and foreign property are excluded entirely. An expat with €200,000 in a foreign account and €40,000 in a Dutch account would owe zero Box 3 tax under this election — their Dutch wealth is below the €57,000 threshold.
+- q: What is the peildatum and why does January 1 matter?
+  a: 'The peildatum (reference date) is January 1 of each tax year. Box 3 tax is calculated based on your wealth on that single date — not an average, not year-end. This creates a legitimate planning opportunity: large purchases made before January 1 reduce your measured wealth. If you were going to buy a car in January, buying it in December instead keeps that cash out of your Box 3 assessment.'
+- q: How can I legally reduce my Box 3 tax?
+  a: 'The most effective strategies: (1) Elect partial non-resident status if you have the 30% ruling. (2) Invest in green funds — up to €71,251 per person is exempt from Box 3. (3) Time large purchases before January 1 to reduce measured wealth. (4) Contribute to banksparen or lijfrente pension vehicles — amounts held there are excluded from Box 3. (5) Use fiscal partnership to double the threshold to €114,000 and split assets optimally.'
+- q: How do couples split Box 3 assets?
+  a: Fiscal partners (married, registered partnership, or cohabiting partners meeting the criteria) can split their combined Box 3 wealth in any proportion between them — from 0/100 to 100/0. Each partner gets the €57,000 threshold. The most tax-efficient split depends on whether the partners have different asset mixes. You decide the split annually when filing. A 50/50 split is common, but it is worth calculating the optimal allocation.
+- q: When will the Box 3 reform take effect?
+  a: The Dutch government is working toward a new system based on actual returns (werkelijk rendement) rather than deemed returns. Current target is 2027, though the timeline has already shifted once. Until then, the 2026 system uses updated deemed returns that more closely reflect actual market averages — savings at ~1.03%, investments at ~6.04%. If the 2027 implementation goes ahead, investment returns, dividends and rental income will be taxed as actually earned.
+- q: Is foreign property included in Box 3?
+  a: Generally yes — if you own a property abroad, its value goes into Box 3 on January 1. However, two exceptions apply. First, if a tax treaty between the Netherlands and the country where the property is located allocates taxing rights to that country, the Netherlands may exempt the property (though it can still affect the rate via the progression reservation). Second, if you have the 30% ruling and elect partial non-resident status, foreign real estate is excluded from your Box 3 entirely.
+schema_type: Article
 ---
 
 Box 3 is the part of Dutch tax that catches most expats off guard — you pay tax on your savings even if you earned nothing on them. I have explained this to dozens of people over the years and the reaction is almost always the same: disbelief, then slowly dawning acceptance that yes, this is real.

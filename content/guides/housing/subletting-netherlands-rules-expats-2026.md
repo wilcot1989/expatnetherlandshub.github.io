@@ -1,39 +1,51 @@
 ---
-title: "Subletting in Netherlands: Rules for Expats 2026"
-date: 2026-03-18T10:00:00+01:00
-lastmod: 2026-04-23T10:00:00+01:00
-type: "guide"
-description: "When subletting is legal in the Netherlands, Airbnb city rules, how to sublet with permission, and what happens if you sublet illegally. Expat guide 2026."
-categories: ["housing"]
-tags: ["subletting netherlands", "onderonderverhuur", "airbnb amsterdam", "subletting expat", "housing rules netherlands"]
-keywords: ["subletting netherlands", "can i sublet my apartment netherlands", "airbnb rules amsterdam netherlands", "illegal subletting netherlands", "onderonderverhuur netherlands expat"]
+title: 'Subletting in Netherlands: Rules for Expats 2026'
+date: 2026-03-18 10:00:00+01:00
+lastmod: 2026-04-23 10:00:00+01:00
+type: guide
+description: When subletting is legal in the Netherlands, Airbnb city rules, how to sublet with permission, and what happens if you sublet illegally. Expat guide 2026.
+categories:
+- housing
+tags:
+- subletting netherlands
+- onderonderverhuur
+- airbnb amsterdam
+- subletting expat
+- housing rules netherlands
+keywords:
+- subletting netherlands
+- can i sublet my apartment netherlands
+- airbnb rules amsterdam netherlands
+- illegal subletting netherlands
+- onderonderverhuur netherlands expat
 affiliate: true
-author: "Sarah van den Berg"
-author_bio: "Expat coach and relocation specialist. Half Dutch, half British, living in the Netherlands for over 10 years."
-featured_image: "/images/categories/housing.svg"
+author: Sarah van den Berg
+author_bio: Expat coach and relocation specialist. Half Dutch, half British, living in the Netherlands for over 10 years.
+featured_image: /images/categories/housing.svg
 faq:
-  - q: "Is subletting legal in the Netherlands?"
-    a: "Subletting is legal in the Netherlands only with your landlord's explicit written permission. Without that permission, subletting — even for a single room, even temporarily — is a breach of your rental contract and can result in immediate eviction. Social housing tenants face additional restrictions and often cannot sublet at all. Private sector tenants must always obtain written consent from their landlord before subletting any portion of their property."
-  - q: "What are the Airbnb rules in Amsterdam?"
-    a: "In Amsterdam, short-term rental (including Airbnb) is limited to a maximum of 30 nights per calendar year for the entire property. You must be registered as your primary residence, you must notify the municipality, you may accommodate a maximum of 4 guests simultaneously, and you must pay tourist tax. Amsterdam actively enforces these rules — Airbnb shares data with the municipality, and violations result in fines starting at €10,000 and potential eviction. The 30-night limit applies per property, not per booking platform."
-  - q: "What happens if I am caught subletting illegally in the Netherlands?"
-    a: "Illegal subletting in the Netherlands is taken seriously by courts and can have severe consequences: immediate termination of your rental contract (eviction), fines from the municipality (particularly for short-term rentals), in social housing cases, potential criminal prosecution for housing fraud, loss of your right to social housing for a period of years, and the subtenant also has no legal protection and can be evicted. The consequences are more severe than in many countries — Dutch housing law treats unlawful subletting as a significant breach."
-  - q: "Can I sublet my apartment while I am on assignment abroad?"
-    a: "Potentially yes, but only with written landlord permission. Many private landlords grant temporary subletting permission if you are on a confirmed work assignment abroad — it is in their interest to have someone responsible looking after the property. The permission must be explicit and in writing, specify the subletting period, and identify the subtenant. You remain legally responsible for rent, damages, and contract compliance for the entire period. Some contracts contain a diplomatic clause that addresses temporary absence — check yours."
-  - q: "What is anti-kraak housing and is it subletting?"
-    a: "Anti-kraak (anti-squatting) is not subletting in the conventional sense. It is a temporary occupancy arrangement where a company (like Camelot or Ad Hoc) places residents in otherwise-empty properties (vacant offices, institutional buildings, homes awaiting demolition or sale) to deter squatting. Anti-kraak residents pay a low licence fee rather than rent, have very limited security, and can be asked to leave with as little as 28 days' notice. It is a legally distinct arrangement and the property owner (not the anti-kraak company) retains control. It is a separate path, not a subletting mechanism."
-  - q: "Can I rent out a room in my apartment while I am still living there?"
-    a: "Room rental within your own home (where you remain the primary resident) is treated differently from subletting the whole property. In the private sector, you still need your landlord's written permission to bring in a room-mate. In social housing, there are specific income and relationship rules, and many housing associations prohibit it entirely. Even if your contract is silent on the matter, common law requires consent. Ask your landlord explicitly before placing any room-mate advertisement."
+- q: Is subletting legal in the Netherlands?
+  a: Subletting is legal in the Netherlands only with your landlord's explicit written permission. Without that permission, subletting — even for a single room, even temporarily — is a breach of your rental contract and can result in immediate eviction. Social housing tenants face additional restrictions and often cannot sublet at all. Private sector tenants must always obtain written consent from their landlord before subletting any portion of their property.
+- q: What are the Airbnb rules in Amsterdam?
+  a: In Amsterdam, short-term rental (including Airbnb) is limited to a maximum of 30 nights per calendar year for the entire property. You must be registered as your primary residence, you must notify the municipality, you may accommodate a maximum of 4 guests simultaneously, and you must pay tourist tax. Amsterdam actively enforces these rules — Airbnb shares data with the municipality, and violations result in fines starting at €10,000 and potential eviction. The 30-night limit applies per property, not per booking platform.
+- q: What happens if I am caught subletting illegally in the Netherlands?
+  a: 'Illegal subletting in the Netherlands is taken seriously by courts and can have severe consequences: immediate termination of your rental contract (eviction), fines from the municipality (particularly for short-term rentals), in social housing cases, potential criminal prosecution for housing fraud, loss of your right to social housing for a period of years, and the subtenant also has no legal protection and can be evicted. The consequences are more severe than in many countries — Dutch housing law treats unlawful subletting as a significant breach.'
+- q: Can I sublet my apartment while I am on assignment abroad?
+  a: Potentially yes, but only with written landlord permission. Many private landlords grant temporary subletting permission if you are on a confirmed work assignment abroad — it is in their interest to have someone responsible looking after the property. The permission must be explicit and in writing, specify the subletting period, and identify the subtenant. You remain legally responsible for rent, damages, and contract compliance for the entire period. Some contracts contain a diplomatic clause that addresses temporary absence — check yours.
+- q: What is anti-kraak housing and is it subletting?
+  a: Anti-kraak (anti-squatting) is not subletting in the conventional sense. It is a temporary occupancy arrangement where a company (like Camelot or Ad Hoc) places residents in otherwise-empty properties (vacant offices, institutional buildings, homes awaiting demolition or sale) to deter squatting. Anti-kraak residents pay a low licence fee rather than rent, have very limited security, and can be asked to leave with as little as 28 days' notice. It is a legally distinct arrangement and the property owner (not the anti-kraak company) retains control. It is a separate path, not a subletting mechanism.
+- q: Can I rent out a room in my apartment while I am still living there?
+  a: Room rental within your own home (where you remain the primary resident) is treated differently from subletting the whole property. In the private sector, you still need your landlord's written permission to bring in a room-mate. In social housing, there are specific income and relationship rules, and many housing associations prohibit it entirely. Even if your contract is silent on the matter, common law requires consent. Ask your landlord explicitly before placing any room-mate advertisement.
 products:
-  - name: "HousingAnywhere"
-    url: "https://housinganywhere.com/"
-    price: "0.00"
-  - name: "Pararius"
-    url: "https://www.pararius.com/"
-    price: "0.00"
-  - name: "Funda"
-    url: "https://www.funda.nl/"
-    price: "0.00"
+- name: HousingAnywhere
+  url: https://housinganywhere.com/
+  price: '0.00'
+- name: Pararius
+  url: https://www.pararius.com/
+  price: '0.00'
+- name: Funda
+  url: https://www.funda.nl/
+  price: '0.00'
+schema_type: Article
 ---
 
 A client called me from Schiphol airport last spring. She had a three-month assignment in Singapore starting the following week, had listed her Eindhoven flat on Airbnb to cover the rent, and had just received a registered letter from her landlord threatening immediate eviction. She had assumed that because she owned all her furniture and the rent was paid, subletting was her right. It is not. Not in the Netherlands.

@@ -1,38 +1,51 @@
 ---
-title: "Dutch Divorce Law for Expats 2026"
-date: 2026-06-21T10:00:00+01:00
-lastmod: 2026-04-23T10:00:00+01:00
-description: "Divorcing in the Netherlands as an expat: jurisdiction rules, process, costs (€250-5000+), children, international aspects, and mediators vs advocaat."
-categories: ["legal"]
-tags: ["dutch divorce", "divorce netherlands expats", "expat family law", "international divorce", "scheiding nederland", "divorce costs netherlands"]
-keywords: ["dutch divorce law expats", "divorce netherlands 2026", "divorce costs netherlands", "international divorce netherlands", "expat divorce dutch law"]
+title: Dutch Divorce Law for Expats 2026
+date: 2026-06-21 10:00:00+01:00
+lastmod: 2026-04-23 10:00:00+01:00
+description: 'Divorcing in the Netherlands as an expat: jurisdiction rules, process, costs (€250-5000+), children, international aspects, and mediators vs advocaat.'
+categories:
+- legal
+tags:
+- dutch divorce
+- divorce netherlands expats
+- expat family law
+- international divorce
+- scheiding nederland
+- divorce costs netherlands
+keywords:
+- dutch divorce law expats
+- divorce netherlands 2026
+- divorce costs netherlands
+- international divorce netherlands
+- expat divorce dutch law
 affiliate: false
 products:
-  - name: "Expatax"
-    url: "https://www.expatax.nl/"
-    price: "0.00"
-  - name: "Blue Umbrella"
-    url: "https://www.blueumbrella.nl/"
-    price: "0.00"
-  - name: "IND"
-    url: "https://ind.nl/en"
-    price: "0.00"
-author: "Sarah van den Berg"
-author_bio: "Expat coach and relocation specialist. Half Dutch, half British, living in the Netherlands for over 10 years."
-featured_image: "/images/categories/legal.svg"
+- name: Expatax
+  url: https://www.expatax.nl/
+  price: '0.00'
+- name: Blue Umbrella
+  url: https://www.blueumbrella.nl/
+  price: '0.00'
+- name: IND
+  url: https://ind.nl/en
+  price: '0.00'
+author: Sarah van den Berg
+author_bio: Expat coach and relocation specialist. Half Dutch, half British, living in the Netherlands for over 10 years.
+featured_image: /images/categories/legal.svg
 faq:
-  - q: "Do I need a Dutch lawyer to get divorced in the Netherlands?"
-    a: "Yes, in the Netherlands a divorce (echtscheiding) must be requested through a rechtbank (district court) and this requires a licensed Dutch advocaat (lawyer) to submit the petition. You cannot file for divorce directly yourself. Both parties can use the same lawyer in an uncontested divorce (gemeenschappelijk verzoek), which reduces costs significantly. However, if the divorce is contested or complex, each party should have independent legal representation."
-  - q: "How long does a Dutch divorce take?"
-    a: "An uncontested divorce (where both parties agree on all terms) typically takes 6-12 weeks from filing to court order. A contested divorce — where there is disagreement about assets, maintenance, or children — can take 1-3 years or more, depending on complexity. Most divorces settle before trial, often through mediation, which significantly shortens the timeline."
-  - q: "Can Dutch courts handle my divorce if I am not Dutch?"
-    a: "Dutch courts have jurisdiction over your divorce if you are habitually resident in the Netherlands. You do not need to be a Dutch citizen. If you and your spouse are both registered as residents in the Netherlands, or one of you is a Dutch national, the Dutch courts will generally accept the case. The EU Brussels IIb Regulation governs jurisdiction for EU citizens; for non-EU nationals, Dutch private international law applies."
-  - q: "Which country's law applies to my divorce — Dutch law or my home country's law?"
-    a: "This is one of the most complex aspects of international divorce. Jurisdiction (which court handles it) and applicable law (which country's rules apply) are separate questions. EU couples can choose the applicable law under the Rome III Regulation. Non-EU couples follow Dutch conflict-of-law rules. In practice, Dutch courts often apply Dutch law to divorces heard in the Netherlands, but this depends on nationality and treaty obligations. A specialist expat family lawyer should advise on your specific situation."
-  - q: "What happens to our Dutch property and assets in a divorce?"
-    a: "This depends on when you married and whether you have a prenuptial agreement (huwelijkse voorwaarden). Couples married in the Netherlands before 1 January 2018 are subject to full community of property (algehele gemeenschap van goederen), meaning all assets and debts are split 50/50. Couples married after 1 January 2018 are subject to limited community of property (beperkte gemeenschap van goederen), excluding assets owned before the marriage and gifts/inheritance. If you signed a prenuptial agreement, its terms govern the division."
-  - q: "How are children and custody handled in a Dutch divorce?"
-    a: "In the Netherlands, shared parental authority (gezamenlijk ouderlijk gezag) is the default position after divorce. Both parents retain legal responsibility for major decisions about the child's life. Physical custody arrangements (where the child lives) are agreed between parents or decided by the court. The court prioritises the child's best interests. An important restriction for expats: you generally cannot relocate a child abroad without the other parent's consent or a court order."
+- q: Do I need a Dutch lawyer to get divorced in the Netherlands?
+  a: Yes, in the Netherlands a divorce (echtscheiding) must be requested through a rechtbank (district court) and this requires a licensed Dutch advocaat (lawyer) to submit the petition. You cannot file for divorce directly yourself. Both parties can use the same lawyer in an uncontested divorce (gemeenschappelijk verzoek), which reduces costs significantly. However, if the divorce is contested or complex, each party should have independent legal representation.
+- q: How long does a Dutch divorce take?
+  a: An uncontested divorce (where both parties agree on all terms) typically takes 6-12 weeks from filing to court order. A contested divorce — where there is disagreement about assets, maintenance, or children — can take 1-3 years or more, depending on complexity. Most divorces settle before trial, often through mediation, which significantly shortens the timeline.
+- q: Can Dutch courts handle my divorce if I am not Dutch?
+  a: Dutch courts have jurisdiction over your divorce if you are habitually resident in the Netherlands. You do not need to be a Dutch citizen. If you and your spouse are both registered as residents in the Netherlands, or one of you is a Dutch national, the Dutch courts will generally accept the case. The EU Brussels IIb Regulation governs jurisdiction for EU citizens; for non-EU nationals, Dutch private international law applies.
+- q: Which country's law applies to my divorce — Dutch law or my home country's law?
+  a: This is one of the most complex aspects of international divorce. Jurisdiction (which court handles it) and applicable law (which country's rules apply) are separate questions. EU couples can choose the applicable law under the Rome III Regulation. Non-EU couples follow Dutch conflict-of-law rules. In practice, Dutch courts often apply Dutch law to divorces heard in the Netherlands, but this depends on nationality and treaty obligations. A specialist expat family lawyer should advise on your specific situation.
+- q: What happens to our Dutch property and assets in a divorce?
+  a: This depends on when you married and whether you have a prenuptial agreement (huwelijkse voorwaarden). Couples married in the Netherlands before 1 January 2018 are subject to full community of property (algehele gemeenschap van goederen), meaning all assets and debts are split 50/50. Couples married after 1 January 2018 are subject to limited community of property (beperkte gemeenschap van goederen), excluding assets owned before the marriage and gifts/inheritance. If you signed a prenuptial agreement, its terms govern the division.
+- q: How are children and custody handled in a Dutch divorce?
+  a: 'In the Netherlands, shared parental authority (gezamenlijk ouderlijk gezag) is the default position after divorce. Both parents retain legal responsibility for major decisions about the child''s life. Physical custody arrangements (where the child lives) are agreed between parents or decided by the court. The court prioritises the child''s best interests. An important restriction for expats: you generally cannot relocate a child abroad without the other parent''s consent or a court order.'
+schema_type: Article
 ---
 
 Going through a divorce is hard enough without the added confusion of navigating a foreign legal system. In my years as an expat coach in the Netherlands, divorce is one of the most emotionally and administratively challenging situations I see people face. The Dutch legal system is fair and relatively efficient by international standards — but if your marriage has international elements, the complications multiply fast.

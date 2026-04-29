@@ -1,38 +1,50 @@
 ---
-title: "Exchange Student Netherlands Guide 2026"
-date: 2026-03-18T10:00:00+01:00
-lastmod: 2026-04-23T10:00:00+01:00
-description: "Exchange student Netherlands 2026: visas, health insurance, housing, Erasmus grants, banking, and practical tips for your semester abroad."
-categories: ["legal"]
-tags: ["exchange student", "erasmus", "visa", "student", "housing", "health insurance"]
-keywords: ["exchange student netherlands 2026", "erasmus netherlands guide", "exchange student visa netherlands", "semester abroad netherlands"]
+title: Exchange Student Netherlands Guide 2026
+date: 2026-03-18 10:00:00+01:00
+lastmod: 2026-04-23 10:00:00+01:00
+description: 'Exchange student Netherlands 2026: visas, health insurance, housing, Erasmus grants, banking, and practical tips for your semester abroad.'
+categories:
+- legal
+tags:
+- exchange student
+- erasmus
+- visa
+- student
+- housing
+- health insurance
+keywords:
+- exchange student netherlands 2026
+- erasmus netherlands guide
+- exchange student visa netherlands
+- semester abroad netherlands
 affiliate: true
 products:
-  - name: "Expatax"
-    url: "https://www.expatax.nl/"
-    price: "0.00"
-  - name: "Blue Umbrella"
-    url: "https://www.blueumbrella.nl/"
-    price: "0.00"
-  - name: "IND"
-    url: "https://ind.nl/en"
-    price: "0.00"
-author: "Sarah van den Berg"
-author_bio: "Expat coach and relocation specialist. Half Dutch, half British, living in the Netherlands for over 10 years."
-featured_image: "/images/categories/legal.svg"
+- name: Expatax
+  url: https://www.expatax.nl/
+  price: '0.00'
+- name: Blue Umbrella
+  url: https://www.blueumbrella.nl/
+  price: '0.00'
+- name: IND
+  url: https://ind.nl/en
+  price: '0.00'
+author: Sarah van den Berg
+author_bio: Expat coach and relocation specialist. Half Dutch, half British, living in the Netherlands for over 10 years.
+featured_image: /images/categories/legal.svg
 faq:
-  - q: "Do exchange students need a visa to study in the Netherlands?"
-    a: "It depends on your nationality. EU/EEA and Swiss nationals do not need any visa or residence permit — you simply register at the local gemeente with your address. Non-EU nationals coming for a semester of 90 days or less may be covered by a short-stay visa exemption if their country qualifies (US, Canada, Australia, Japan, and others). Non-EU students staying longer than 90 days need a short-term residence permit arranged through their Dutch host university."
-  - q: "How does the Erasmus+ grant work in the Netherlands?"
-    a: "Erasmus+ grants are awarded by your home university based on destination costs. In 2026, the Netherlands falls in Programme Group B (medium cost), attracting a monthly grant of approximately EUR 540-560. Grants cover a portion of extra costs — not all of them. You can apply for a top-up grant if you have a disability, dependent children, or a lower income. Contact your home university's international office for exact amounts."
-  - q: "How do exchange students find housing in the Netherlands?"
-    a: "This is the hardest part of an exchange in the Netherlands. Many universities have limited international student housing reserved for exchange students — apply immediately upon receiving your exchange placement. If university housing is unavailable, use platforms like Kamernet and HousingAnywhere. Budget EUR 500-900 per month for a room. Apply as early as possible — do not wait until three months before arrival."
-  - q: "Do exchange students need Dutch health insurance?"
-    a: "Not necessarily. Non-EU exchange students are not required to take out Dutch basic health insurance (basisverzekering). However, you must have valid health coverage. Many exchange students use international student health insurance. SafetyWing's Nomad Insurance is popular because it covers the Netherlands and the rest of Europe for a reasonable monthly rate — useful for students travelling on weekends."
-  - q: "Can exchange students work in the Netherlands?"
-    a: "EU/EEA students can work without restriction. Non-EU students on a residence permit can work up to 16 hours per week (full-time in June, July, August), provided their employer obtains a TWV work permit. Non-EU students on a short-stay visa exemption (90 days or less) cannot work. In practice, most exchange students are too busy with their semester programme to work significantly."
-  - q: "What bank account should an exchange student use?"
-    a: "For a short semester stay, a Dutch bank account may not be necessary. Many exchange students use Wise — it gives you a European bank account number (IBAN) that you can use for rent payments and local transfers, without needing to open a Dutch bank account. It also handles currency conversion at excellent rates when you spend or withdraw in euros."
+- q: Do exchange students need a visa to study in the Netherlands?
+  a: It depends on your nationality. EU/EEA and Swiss nationals do not need any visa or residence permit — you simply register at the local gemeente with your address. Non-EU nationals coming for a semester of 90 days or less may be covered by a short-stay visa exemption if their country qualifies (US, Canada, Australia, Japan, and others). Non-EU students staying longer than 90 days need a short-term residence permit arranged through their Dutch host university.
+- q: How does the Erasmus+ grant work in the Netherlands?
+  a: Erasmus+ grants are awarded by your home university based on destination costs. In 2026, the Netherlands falls in Programme Group B (medium cost), attracting a monthly grant of approximately EUR 540-560. Grants cover a portion of extra costs — not all of them. You can apply for a top-up grant if you have a disability, dependent children, or a lower income. Contact your home university's international office for exact amounts.
+- q: How do exchange students find housing in the Netherlands?
+  a: This is the hardest part of an exchange in the Netherlands. Many universities have limited international student housing reserved for exchange students — apply immediately upon receiving your exchange placement. If university housing is unavailable, use platforms like Kamernet and HousingAnywhere. Budget EUR 500-900 per month for a room. Apply as early as possible — do not wait until three months before arrival.
+- q: Do exchange students need Dutch health insurance?
+  a: Not necessarily. Non-EU exchange students are not required to take out Dutch basic health insurance (basisverzekering). However, you must have valid health coverage. Many exchange students use international student health insurance. SafetyWing's Nomad Insurance is popular because it covers the Netherlands and the rest of Europe for a reasonable monthly rate — useful for students travelling on weekends.
+- q: Can exchange students work in the Netherlands?
+  a: EU/EEA students can work without restriction. Non-EU students on a residence permit can work up to 16 hours per week (full-time in June, July, August), provided their employer obtains a TWV work permit. Non-EU students on a short-stay visa exemption (90 days or less) cannot work. In practice, most exchange students are too busy with their semester programme to work significantly.
+- q: What bank account should an exchange student use?
+  a: For a short semester stay, a Dutch bank account may not be necessary. Many exchange students use Wise — it gives you a European bank account number (IBAN) that you can use for rent payments and local transfers, without needing to open a Dutch bank account. It also handles currency conversion at excellent rates when you spend or withdraw in euros.
+schema_type: Article
 ---
 
 A semester in the Netherlands is one of the best exchange experiences Europe offers. Dutch universities are international by default, the country is small enough to explore on weekends, and the English-language environment makes academic and social life accessible from day one.

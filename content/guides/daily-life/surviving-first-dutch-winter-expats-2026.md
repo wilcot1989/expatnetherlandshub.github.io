@@ -1,38 +1,50 @@
 ---
-title: "Surviving Your First Dutch Winter as an Expat (2026 Guide)"
-date: 2026-05-31T10:00:00+01:00
-lastmod: 2026-04-23T10:00:00+01:00
-description: "Dark by 4:30pm, constant rain, everyone still cycling. What to expect from a Dutch winter as an expat — and how to get through it well."
-categories: ["daily-life"]
-tags: ["winter", "weather", "SAD", "cycling", "practical tips"]
-keywords: ["dutch winter expats", "netherlands winter tips", "surviving winter netherlands", "SAD netherlands expats", "cycling netherlands winter"]
+title: Surviving Your First Dutch Winter as an Expat (2026 Guide)
+date: 2026-05-31 10:00:00+01:00
+lastmod: 2026-04-23 10:00:00+01:00
+description: Dark by 4:30pm, constant rain, everyone still cycling. What to expect from a Dutch winter as an expat — and how to get through it well.
+categories:
+- daily-life
+tags:
+- winter
+- weather
+- SAD
+- cycling
+- practical tips
+keywords:
+- dutch winter expats
+- netherlands winter tips
+- surviving winter netherlands
+- SAD netherlands expats
+- cycling netherlands winter
 affiliate: true
 products:
-  - name: "Vattenfall"
-    url: "https://www.vattenfall.nl/"
-    price: "0.00"
-  - name: "Eneco"
-    url: "https://www.eneco.nl/"
-    price: "0.00"
-  - name: "KPN"
-    url: "https://www.kpn.com/"
-    price: "0.00"
-author: "Sarah van den Berg"
-author_bio: "Expat coach and relocation specialist. Half Dutch, half British, living in the Netherlands for over 10 years."
-featured_image: "/images/categories/daily-life.svg"
+- name: Vattenfall
+  url: https://www.vattenfall.nl/
+  price: '0.00'
+- name: Eneco
+  url: https://www.eneco.nl/
+  price: '0.00'
+- name: KPN
+  url: https://www.kpn.com/
+  price: '0.00'
+author: Sarah van den Berg
+author_bio: Expat coach and relocation specialist. Half Dutch, half British, living in the Netherlands for over 10 years.
+featured_image: /images/categories/daily-life.svg
 faq:
-  - q: "How dark does it get in the Netherlands in winter?"
-    a: "Very dark. In December, sunset in Amsterdam is around 4:20pm and sunrise is around 8:45am — that is only about 7.5 hours of daylight. On overcast days (which is most days), you may only see pale grey light even during those hours. Many expats from sunnier climates find this genuinely difficult and are not prepared for it."
-  - q: "Do Dutch people really cycle in winter?"
-    a: "Yes, and in large numbers. The Netherlands has cycling infrastructure so good that it remains practical even in rain and cold. Dutch people wear waterproof layers, accept that they will arrive slightly damp, and keep cycling year-round. As an expat, you can absolutely do the same — the main adjustment is investing in proper waterproof gear and accepting that perfect comfort is not the goal."
-  - q: "What is SAD and is it common among expats in the Netherlands?"
-    a: "SAD (Seasonal Affective Disorder) is a form of depression triggered by reduced daylight. It is more common in the Netherlands than in many expats' home countries, particularly for people from Southern Europe, North Africa, Asia, or the Americas. Symptoms include low energy, increased sleep, low mood, and withdrawal. A daylight lamp (10,000 lux) used for 20-30 minutes each morning is the most evidence-backed non-medical intervention."
-  - q: "What is gezelligheid and why does it matter in winter?"
-    a: "Gezelligheid (roughly pronounced: heh-SELL-ikh-hite) is a Dutch concept meaning warmth, cosiness, and togetherness. It is the feeling of being in a well-lit room with candles, good company, and something warm to drink. Dutch winter culture is built around creating gezelligheid indoors to counterbalance the grey outside. Embracing this mindset shift — from resisting winter to building warmth within it — is one of the most effective coping strategies for expats."
-  - q: "How much do Dutch heating costs increase in winter?"
-    a: "Natural gas heating costs in the Netherlands have risen significantly since 2022. A typical apartment heating bill increases by EUR 60-150 per month in winter compared to summer. District heating (stadsverwarming) is more common in newer buildings and can be more predictable in pricing. Check your energy contract before winter — fixed-rate contracts protect against price spikes, and variable-rate contracts can be expensive in cold snaps."
-  - q: "When can you ice skate on natural ice in the Netherlands?"
-    a: "Natural ice skating (schaatsen op natuurijs) is a genuinely special event in the Netherlands — the country has a deep cultural connection to skating on frozen canals and lakes. It does not happen every year; you typically need temperatures of -5°C or below for at least a week. When it does happen, it becomes national news, offices empty out early, and oliebollen stands appear near the ice. The Elfstedentocht (a 200km race across eleven Frisian cities) has not been held since 1997 due to insufficient ice."
+- q: How dark does it get in the Netherlands in winter?
+  a: Very dark. In December, sunset in Amsterdam is around 4:20pm and sunrise is around 8:45am — that is only about 7.5 hours of daylight. On overcast days (which is most days), you may only see pale grey light even during those hours. Many expats from sunnier climates find this genuinely difficult and are not prepared for it.
+- q: Do Dutch people really cycle in winter?
+  a: Yes, and in large numbers. The Netherlands has cycling infrastructure so good that it remains practical even in rain and cold. Dutch people wear waterproof layers, accept that they will arrive slightly damp, and keep cycling year-round. As an expat, you can absolutely do the same — the main adjustment is investing in proper waterproof gear and accepting that perfect comfort is not the goal.
+- q: What is SAD and is it common among expats in the Netherlands?
+  a: SAD (Seasonal Affective Disorder) is a form of depression triggered by reduced daylight. It is more common in the Netherlands than in many expats' home countries, particularly for people from Southern Europe, North Africa, Asia, or the Americas. Symptoms include low energy, increased sleep, low mood, and withdrawal. A daylight lamp (10,000 lux) used for 20-30 minutes each morning is the most evidence-backed non-medical intervention.
+- q: What is gezelligheid and why does it matter in winter?
+  a: 'Gezelligheid (roughly pronounced: heh-SELL-ikh-hite) is a Dutch concept meaning warmth, cosiness, and togetherness. It is the feeling of being in a well-lit room with candles, good company, and something warm to drink. Dutch winter culture is built around creating gezelligheid indoors to counterbalance the grey outside. Embracing this mindset shift — from resisting winter to building warmth within it — is one of the most effective coping strategies for expats.'
+- q: How much do Dutch heating costs increase in winter?
+  a: Natural gas heating costs in the Netherlands have risen significantly since 2022. A typical apartment heating bill increases by EUR 60-150 per month in winter compared to summer. District heating (stadsverwarming) is more common in newer buildings and can be more predictable in pricing. Check your energy contract before winter — fixed-rate contracts protect against price spikes, and variable-rate contracts can be expensive in cold snaps.
+- q: When can you ice skate on natural ice in the Netherlands?
+  a: Natural ice skating (schaatsen op natuurijs) is a genuinely special event in the Netherlands — the country has a deep cultural connection to skating on frozen canals and lakes. It does not happen every year; you typically need temperatures of -5°C or below for at least a week. When it does happen, it becomes national news, offices empty out early, and oliebollen stands appear near the ice. The Elfstedentocht (a 200km race across eleven Frisian cities) has not been held since 1997 due to insufficient ice.
+schema_type: Article
 ---
 
 My first Dutch winter nearly broke me. I moved from Cape Town to Amsterdam in October, and by mid-November I was sitting in my apartment at 4:15pm wondering why it was already dark, why my legs were wet from cycling in the rain, and whether this had been a mistake. It was not a mistake. But nobody had told me what to expect.

@@ -1,42 +1,58 @@
 ---
-title: "TV & Streaming in Netherlands: Expat Guide"
-date: 2026-03-18T10:00:00+01:00
-lastmod: 2026-04-23T10:00:00+01:00
-description: "TV and streaming in the Netherlands for expats: Netflix NL, Videoland, NPO Start, BBC, sports, Dutch radio, and a VPN to access home content."
-categories: ["daily-life"]
-tags: ["streaming netherlands", "netflix netherlands", "vpn streaming", "dutch tv expats", "videoland", "npo start", "ziggo sport", "expat entertainment"]
-keywords: ["streaming netherlands expats", "netflix netherlands library", "bbc iplayer netherlands vpn", "dutch tv english subtitles", "videoland expat", "tv netherlands expats 2026"]
+title: 'TV & Streaming in Netherlands: Expat Guide'
+date: 2026-03-18 10:00:00+01:00
+lastmod: 2026-04-23 10:00:00+01:00
+description: 'TV and streaming in the Netherlands for expats: Netflix NL, Videoland, NPO Start, BBC, sports, Dutch radio, and a VPN to access home content.'
+categories:
+- daily-life
+tags:
+- streaming netherlands
+- netflix netherlands
+- vpn streaming
+- dutch tv expats
+- videoland
+- npo start
+- ziggo sport
+- expat entertainment
+keywords:
+- streaming netherlands expats
+- netflix netherlands library
+- bbc iplayer netherlands vpn
+- dutch tv english subtitles
+- videoland expat
+- tv netherlands expats 2026
 affiliate: true
 products:
-  - name: "NordVPN"
-    url: "https://go.expatnetherlandshub.com/nordvpn?ref=/guides/daily-life/tv-streaming-entertainment-netherlands-expats-2026/"
-    price: "3.09"
-  - name: "NordPass"
-    url: "https://go.expatnetherlandshub.com/nordvpn?ref=/guides/daily-life/tv-streaming-entertainment-netherlands-expats-2026/"
-    price: "1.29"
-  - name: "KPN"
-    url: "https://www.kpn.com/"
-    price: "0.00"
-author: "Sarah van den Berg"
-author_bio: "Expat coach and relocation specialist. Half Dutch, half British, living in the Netherlands for over 10 years."
-featured_image: "/images/categories/daily-life.svg"
+- name: NordVPN
+  url: https://go.expatnetherlandshub.com/nordvpn?ref=/guides/daily-life/tv-streaming-entertainment-netherlands-expats-2026/
+  price: '3.09'
+- name: NordPass
+  url: https://go.expatnetherlandshub.com/nordvpn?ref=/guides/daily-life/tv-streaming-entertainment-netherlands-expats-2026/
+  price: '1.29'
+- name: KPN
+  url: https://www.kpn.com/
+  price: '0.00'
+author: Sarah van den Berg
+author_bio: Expat coach and relocation specialist. Half Dutch, half British, living in the Netherlands for over 10 years.
+featured_image: /images/categories/daily-life.svg
 faq:
-  - q: "Is Netflix different in the Netherlands than the US or UK?"
-    a: "Yes. Netflix libraries vary by country due to licensing agreements. The Dutch Netflix library is substantial — over 5,000 titles — but differs from the US library (which is larger, typically 6,000+ titles) and the UK library. Popular shows and films licensed to local broadcasters may not be available on Dutch Netflix. Critically, many English-language films and series that are on US Netflix are also on NL Netflix, so the differences are less dramatic than they used to be, but gap titles do exist. A VPN connected to the US or UK will show you those libraries instead."
-  - q: "Can I watch BBC iPlayer from the Netherlands?"
-    a: "Not without a VPN. BBC iPlayer is geo-blocked to UK IP addresses. From a Dutch IP address, you will see a 'not available in your region' message. With a VPN connected to a UK server, iPlayer works normally — the BBC's detection has improved but good VPNs like NordVPN consistently bypass it. Technically, the BBC licence fee funds iPlayer and it is intended for UK residents. Many expats use it anyway."
-  - q: "What is Videoland and is it worth it for expats?"
-    a: "Videoland is the largest Dutch streaming platform, owned by RTL Group. It has a significant library of Dutch original series, reality TV, Dutch movies, and popular international series (including HBO content licensed for the Netherlands). For expats learning Dutch or wanting to understand Dutch popular culture, Videoland is excellent. For expats who only want English content, it is less relevant. Cost is around EUR 5.99-9.99/month. There is a free trial."
-  - q: "What is NPO Start?"
-    a: "NPO Start is the free streaming platform of NPO — Nederlandse Publieke Omroep, the Dutch public broadcaster. It gives access to all NPO channels (NPO 1, NPO 2, NPO 3) and a large archive of Dutch television going back years. It is completely free with registration. For expats interested in Dutch current affairs, news, and culture — and for learning Dutch through immersion — it is invaluable. Many Dutch news programmes, documentaries, and dramas are available with Dutch subtitles."
-  - q: "Can I use a VPN to watch my home country streaming services from the Netherlands?"
-    a: "Yes, in most cases. A VPN lets you connect to a server in your home country, making streaming platforms see you as a local visitor. This works for BBC iPlayer (UK server), Hulu (US server), Australian ABC iView, Canadian CBC Gem, and many others. NordVPN is the most reliable VPN for streaming in 2026 and consistently works with Netflix multiple regions, BBC iPlayer, and most major platforms."
-  - q: "Is there English language TV in the Netherlands?"
-    a: "Yes. The Netherlands does not dub foreign TV — English-language films and series are broadcast with Dutch subtitles, not dubbed. This means most international content is watchable in its original language. Many Dutch people have excellent English partly because of this. On streaming platforms, most English-language content has the option of English audio and multiple subtitle languages."
-  - q: "What sports streaming is available in the Netherlands?"
-    a: "Formula 1 is on Ziggo Sport, which is included with some Ziggo internet/TV packages or available as an add-on (around EUR 15-20/month). Eredivisie (Dutch football) is primarily on ESPN NL, available via most pay-TV providers. Champions League is on Ziggo Sport and RTL. The Dutch football national team (Oranje) games are typically on public television. International sports can also be accessed through VPN for home country broadcasters (e.g., Sky Sports via VPN for UK football coverage)."
-  - q: "What Dutch podcasts can help me learn the language?"
-    a: "Several good options exist for different levels. 'Hoe Zeg Je Dat?' (NTR) is designed for Dutch learners at various levels. 'Nederlands leren' podcasts are available on Spotify and Apple Podcasts. For intermediate learners, Dutch radio programmes — particularly NPO Radio 1 (news) and NPO Radio 2 (music/talk) — are excellent passive listening practice. The trick is to start with content on topics you already know (Dutch news you have already read in English) so context aids comprehension."
+- q: Is Netflix different in the Netherlands than the US or UK?
+  a: Yes. Netflix libraries vary by country due to licensing agreements. The Dutch Netflix library is substantial — over 5,000 titles — but differs from the US library (which is larger, typically 6,000+ titles) and the UK library. Popular shows and films licensed to local broadcasters may not be available on Dutch Netflix. Critically, many English-language films and series that are on US Netflix are also on NL Netflix, so the differences are less dramatic than they used to be, but gap titles do exist. A VPN connected to the US or UK will show you those libraries instead.
+- q: Can I watch BBC iPlayer from the Netherlands?
+  a: Not without a VPN. BBC iPlayer is geo-blocked to UK IP addresses. From a Dutch IP address, you will see a 'not available in your region' message. With a VPN connected to a UK server, iPlayer works normally — the BBC's detection has improved but good VPNs like NordVPN consistently bypass it. Technically, the BBC licence fee funds iPlayer and it is intended for UK residents. Many expats use it anyway.
+- q: What is Videoland and is it worth it for expats?
+  a: Videoland is the largest Dutch streaming platform, owned by RTL Group. It has a significant library of Dutch original series, reality TV, Dutch movies, and popular international series (including HBO content licensed for the Netherlands). For expats learning Dutch or wanting to understand Dutch popular culture, Videoland is excellent. For expats who only want English content, it is less relevant. Cost is around EUR 5.99-9.99/month. There is a free trial.
+- q: What is NPO Start?
+  a: NPO Start is the free streaming platform of NPO — Nederlandse Publieke Omroep, the Dutch public broadcaster. It gives access to all NPO channels (NPO 1, NPO 2, NPO 3) and a large archive of Dutch television going back years. It is completely free with registration. For expats interested in Dutch current affairs, news, and culture — and for learning Dutch through immersion — it is invaluable. Many Dutch news programmes, documentaries, and dramas are available with Dutch subtitles.
+- q: Can I use a VPN to watch my home country streaming services from the Netherlands?
+  a: Yes, in most cases. A VPN lets you connect to a server in your home country, making streaming platforms see you as a local visitor. This works for BBC iPlayer (UK server), Hulu (US server), Australian ABC iView, Canadian CBC Gem, and many others. NordVPN is the most reliable VPN for streaming in 2026 and consistently works with Netflix multiple regions, BBC iPlayer, and most major platforms.
+- q: Is there English language TV in the Netherlands?
+  a: Yes. The Netherlands does not dub foreign TV — English-language films and series are broadcast with Dutch subtitles, not dubbed. This means most international content is watchable in its original language. Many Dutch people have excellent English partly because of this. On streaming platforms, most English-language content has the option of English audio and multiple subtitle languages.
+- q: What sports streaming is available in the Netherlands?
+  a: Formula 1 is on Ziggo Sport, which is included with some Ziggo internet/TV packages or available as an add-on (around EUR 15-20/month). Eredivisie (Dutch football) is primarily on ESPN NL, available via most pay-TV providers. Champions League is on Ziggo Sport and RTL. The Dutch football national team (Oranje) games are typically on public television. International sports can also be accessed through VPN for home country broadcasters (e.g., Sky Sports via VPN for UK football coverage).
+- q: What Dutch podcasts can help me learn the language?
+  a: Several good options exist for different levels. 'Hoe Zeg Je Dat?' (NTR) is designed for Dutch learners at various levels. 'Nederlands leren' podcasts are available on Spotify and Apple Podcasts. For intermediate learners, Dutch radio programmes — particularly NPO Radio 1 (news) and NPO Radio 2 (music/talk) — are excellent passive listening practice. The trick is to start with content on topics you already know (Dutch news you have already read in English) so context aids comprehension.
+schema_type: Article
 ---
 
 The first evening I spent in my new Amsterdam apartment, I tried to watch something familiar while surrounded by boxes. My UK streaming apps were geo-blocked. Dutch Netflix had different content than I was used to. I eventually found a Dutch quiz show I could not understand a word of and gave up. That was ten years ago, and I have had time to figure it all out since.

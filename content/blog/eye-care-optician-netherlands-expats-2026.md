@@ -1,33 +1,47 @@
 ---
-title: "Eye Care in Netherlands: Optician Expat Guide"
-date: 2026-03-22T08:15:00+01:00
-lastmod: 2026-04-23T10:00:00+01:00
-description: "Eye care in the Netherlands for expats: opticians, ophthalmologists, insurance coverage, contact lens costs, and finding English-speaking eye care."
-categories: ["health"]
-tags: ["eye care", "optician", "opticien", "dutch healthcare", "expat health", "glasses netherlands", "contact lenses netherlands"]
-keywords: ["eye care netherlands expats", "optician netherlands", "glasses contact lenses netherlands", "english speaking optician netherlands", "ophthalmologist netherlands expat"]
+title: 'Eye Care in Netherlands: Optician Expat Guide'
+date: 2026-03-22 08:15:00+01:00
+lastmod: 2026-04-23 10:00:00+01:00
+description: 'Eye care in the Netherlands for expats: opticians, ophthalmologists, insurance coverage, contact lens costs, and finding English-speaking eye care.'
+categories:
+- health
+tags:
+- eye care
+- optician
+- opticien
+- dutch healthcare
+- expat health
+- glasses netherlands
+- contact lenses netherlands
+keywords:
+- eye care netherlands expats
+- optician netherlands
+- glasses contact lenses netherlands
+- english speaking optician netherlands
+- ophthalmologist netherlands expat
 affiliate: false
-author: "Sarah van den Berg"
-author_bio: "Expat coach and relocation specialist. Half Dutch, half British, living in the Netherlands for over 10 years."
-featured_image: "/images/featured/eye-care-optician-netherlands-expats-2026.webp"
+author: Sarah van den Berg
+author_bio: Expat coach and relocation specialist. Half Dutch, half British, living in the Netherlands for over 10 years.
+featured_image: /images/featured/eye-care-optician-netherlands-expats-2026.webp
 faq:
-  - q: "Does Dutch health insurance cover glasses and contact lenses?"
-    a: "Standard Dutch basic health insurance (basisverzekering) does not cover glasses or contact lenses for adults. For children under 18, the basisverzekering covers glasses and lenses when medically necessary. Adults can get a partial contribution towards glasses or contact lenses through supplementary insurance (aanvullende verzekering), which typically provides EUR 50-150 every one or two years depending on the package. If you have a medical eye condition that causes your vision impairment, your GP may be able to arrange a referral to an ophthalmologist, whose care is covered by basic insurance."
-  - q: "Do I need a referral to see an optician in the Netherlands?"
-    a: "No. You can visit an optician (opticien) directly without a referral for routine eye tests and prescription glasses or contact lenses. Opticians in the Netherlands also perform basic eye examinations as part of their service — often at no charge, particularly if you buy glasses from them. If the optician identifies a medical problem (such as glaucoma, cataracts, or signs of retinal disease), they will refer you to an ophthalmologist (oogarts). To see an ophthalmologist you do need a GP referral."
-  - q: "How much does an eye test cost in the Netherlands?"
-    a: "A basic eye test (oogmeting) at an optician is often free, particularly at larger chains like Hans Anders, Specsavers, ECI, or GrandOptical if you intend to buy glasses or contact lenses. Standalone paid eye examinations range from EUR 30-60 at independent practices. A full optometrist examination that includes health screening (beyond just refraction for spectacles) typically costs EUR 40-80. Medical eye examinations at an oogarts (ophthalmologist) via the healthcare system are covered by basic insurance, subject to the eigen risico."
-  - q: "Are there English-speaking opticians in the Netherlands?"
-    a: "Yes. Most optical chains (Specsavers, Hans Anders) have staff who speak English, particularly in larger cities. Specsavers in particular has a strong UK presence and the format is familiar to British expats. In cities with large expat communities — Amsterdam, The Hague, Rotterdam, Utrecht — finding an English-speaking optician is generally not difficult. The Hague has a number of practices specifically serving the expat and diplomatic community."
-  - q: "What is the difference between an opticien and an oogarts in the Netherlands?"
-    a: "An opticien (optician) measures your vision and prescribes and fits glasses and contact lenses. They are not medically qualified and cannot diagnose or treat eye disease. An oogarts (ophthalmologist) is a medical specialist who diagnoses and treats eye diseases and conditions. You see an opticien for routine vision correction; you see an oogarts for medical problems. There is also an optometrist (optometrist) — some practices employ these, who can perform more detailed health checks than a standard opticien but are not full medical specialists."
-  - q: "Can I bring my existing glasses prescription from another country?"
-    a: "Yes. If you have a valid glasses prescription from another country, Dutch opticians will generally use it to make new glasses or fit contact lenses. However, most Dutch opticians will do a quick check to verify the prescription is current (typically valid for 1-2 years) before making expensive eyewear. If your prescription is more than two years old, they may recommend a new eye test."
+- q: Does Dutch health insurance cover glasses and contact lenses?
+  a: Standard Dutch basic health insurance (basisverzekering) does not cover glasses or contact lenses for adults. For children under 18, the basisverzekering covers glasses and lenses when medically necessary. Adults can get a partial contribution towards glasses or contact lenses through supplementary insurance (aanvullende verzekering), which typically provides EUR 50-150 every one or two years depending on the package. If you have a medical eye condition that causes your vision impairment, your GP may be able to arrange a referral to an ophthalmologist, whose care is covered by basic insurance.
+- q: Do I need a referral to see an optician in the Netherlands?
+  a: No. You can visit an optician (opticien) directly without a referral for routine eye tests and prescription glasses or contact lenses. Opticians in the Netherlands also perform basic eye examinations as part of their service — often at no charge, particularly if you buy glasses from them. If the optician identifies a medical problem (such as glaucoma, cataracts, or signs of retinal disease), they will refer you to an ophthalmologist (oogarts). To see an ophthalmologist you do need a GP referral.
+- q: How much does an eye test cost in the Netherlands?
+  a: A basic eye test (oogmeting) at an optician is often free, particularly at larger chains like Hans Anders, Specsavers, ECI, or GrandOptical if you intend to buy glasses or contact lenses. Standalone paid eye examinations range from EUR 30-60 at independent practices. A full optometrist examination that includes health screening (beyond just refraction for spectacles) typically costs EUR 40-80. Medical eye examinations at an oogarts (ophthalmologist) via the healthcare system are covered by basic insurance, subject to the eigen risico.
+- q: Are there English-speaking opticians in the Netherlands?
+  a: Yes. Most optical chains (Specsavers, Hans Anders) have staff who speak English, particularly in larger cities. Specsavers in particular has a strong UK presence and the format is familiar to British expats. In cities with large expat communities — Amsterdam, The Hague, Rotterdam, Utrecht — finding an English-speaking optician is generally not difficult. The Hague has a number of practices specifically serving the expat and diplomatic community.
+- q: What is the difference between an opticien and an oogarts in the Netherlands?
+  a: An opticien (optician) measures your vision and prescribes and fits glasses and contact lenses. They are not medically qualified and cannot diagnose or treat eye disease. An oogarts (ophthalmologist) is a medical specialist who diagnoses and treats eye diseases and conditions. You see an opticien for routine vision correction; you see an oogarts for medical problems. There is also an optometrist (optometrist) — some practices employ these, who can perform more detailed health checks than a standard opticien but are not full medical specialists.
+- q: Can I bring my existing glasses prescription from another country?
+  a: Yes. If you have a valid glasses prescription from another country, Dutch opticians will generally use it to make new glasses or fit contact lenses. However, most Dutch opticians will do a quick check to verify the prescription is current (typically valid for 1-2 years) before making expensive eyewear. If your prescription is more than two years old, they may recommend a new eye test.
 products:
-  - name: "SafetyWing"
-    url: "https://go.expatnetherlandshub.com/safetywing?ref=/blog/eye-care-optician-netherlands-expats-2026/"
-    price: "0.00"
-    tag: "Expat Insurance"
+- name: SafetyWing
+  url: https://go.expatnetherlandshub.com/safetywing?ref=/blog/eye-care-optician-netherlands-expats-2026/
+  price: '0.00'
+  tag: Expat Insurance
+schema_type: Article
 ---
 
 Sorting out eye care was one of the first practical things I had to do when I moved to the Netherlands. My glasses prescription was expiring, I had no idea which optician chains were reliable, and I was unsure what my new Dutch insurance would cover. It turned out to be much simpler than I expected — but the coverage situation for glasses is surprisingly different from what many expats assume.

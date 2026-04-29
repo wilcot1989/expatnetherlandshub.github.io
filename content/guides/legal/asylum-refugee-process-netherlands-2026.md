@@ -1,38 +1,51 @@
 ---
-title: "Asylum Process Netherlands 2026 Guide"
-date: 2026-03-18T10:00:00+01:00
-lastmod: 2026-04-23T10:00:00+01:00
-description: "Asylum process in the Netherlands 2026: how to apply, the IND procedure, COA reception, your rights, appeals, and what happens after a decision."
-categories: ["legal"]
-tags: ["asylum", "refugee", "IND", "COA", "immigration", "legal rights"]
-keywords: ["asylum netherlands 2026", "refugee netherlands process", "IND asylum application", "how to apply asylum netherlands", "refugee rights netherlands"]
+title: Asylum Process Netherlands 2026 Guide
+date: 2026-03-18 10:00:00+01:00
+lastmod: 2026-04-23 10:00:00+01:00
+description: 'Asylum process in the Netherlands 2026: how to apply, the IND procedure, COA reception, your rights, appeals, and what happens after a decision.'
+categories:
+- legal
+tags:
+- asylum
+- refugee
+- IND
+- COA
+- immigration
+- legal rights
+keywords:
+- asylum netherlands 2026
+- refugee netherlands process
+- IND asylum application
+- how to apply asylum netherlands
+- refugee rights netherlands
 affiliate: false
 products:
-  - name: "Expatax"
-    url: "https://www.expatax.nl/"
-    price: "0.00"
-  - name: "Blue Umbrella"
-    url: "https://www.blueumbrella.nl/"
-    price: "0.00"
-  - name: "IND"
-    url: "https://ind.nl/en"
-    price: "0.00"
-author: "Sarah van den Berg"
-author_bio: "Expat coach and relocation specialist. Half Dutch, half British, living in the Netherlands for over 10 years."
-featured_image: "/images/categories/legal.svg"
+- name: Expatax
+  url: https://www.expatax.nl/
+  price: '0.00'
+- name: Blue Umbrella
+  url: https://www.blueumbrella.nl/
+  price: '0.00'
+- name: IND
+  url: https://ind.nl/en
+  price: '0.00'
+author: Sarah van den Berg
+author_bio: Expat coach and relocation specialist. Half Dutch, half British, living in the Netherlands for over 10 years.
+featured_image: /images/categories/legal.svg
 faq:
-  - q: "How do I apply for asylum in the Netherlands?"
-    a: "To apply for asylum in the Netherlands, you must present yourself at a registration centre (aanmeldcentrum). The main registration point is Ter Apel in Groningen, though there are also locations in Budel and other cities. You tell officials that you want to apply for asylum (asiel aanvragen). You will be registered, given medical screening, and begin the IND (Immigration and Naturalisation Service) process. You do not need to have a legal entry document to apply."
-  - q: "How long does the Dutch asylum process take in 2026?"
-    a: "Processing times have increased significantly due to high application volumes. In 2026, the general asylum procedure (algemene asielprocedure or AA) takes a minimum of a few weeks for an initial decision in clear-cut cases. Extended procedures (verlengde asielprocedure or VA) can take months or even years. The COA (Central Agency for the Reception of Asylum Seekers) provides housing during the entire period."
-  - q: "What is the difference between a refugee and an asylum seeker in the Netherlands?"
-    a: "An asylum seeker (asielzoeker) is someone who has applied for asylum but whose application has not yet been decided. A refugee (vluchteling) is someone who has been granted a refugee status (vluchtelingenstatus) under the 1951 Geneva Convention — i.e., facing persecution on grounds of race, religion, nationality, political opinion, or membership of a particular social group. The Netherlands also grants subsidiary protection (subsidiaire bescherming) to those facing serious harm but not meeting the strict Geneva definition."
-  - q: "What rights do asylum seekers have during the process in the Netherlands?"
-    a: "During the asylum procedure, you have the right to housing in a COA reception centre (opvanglocatie), basic living costs (food, clothing, and a small weekly allowance), access to a lawyer (rechtsbijstand) — appointed free of charge, healthcare access, and the right to school for children. You do not have the right to work during the general procedure, though specific waiting-period exemptions exist after 26 weeks."
-  - q: "What happens if the asylum application is rejected?"
-    a: "If your application is rejected, you receive a negative decision (afwijzend besluit). You have the right to appeal (beroep) to a Dutch court within four weeks. During the appeal period, you typically may remain in the Netherlands. If the appeal is also rejected, you may be required to leave the Netherlands. You can appeal further to the Council of State (Raad van State) in some circumstances. Legal aid is available for appeals."
-  - q: "What happens after a successful asylum application?"
-    a: "If granted asylum, you receive a residence permit for asylum purposes (verblijfsvergunning asiel voor bepaalde tijd) — valid for five years initially. After five years, you can apply for an indefinite asylum residence permit (asiel voor onbepaalde tijd). You have the right to work, access social services, bring eligible family members through family reunification, and eventually apply for Dutch naturalisation."
+- q: How do I apply for asylum in the Netherlands?
+  a: To apply for asylum in the Netherlands, you must present yourself at a registration centre (aanmeldcentrum). The main registration point is Ter Apel in Groningen, though there are also locations in Budel and other cities. You tell officials that you want to apply for asylum (asiel aanvragen). You will be registered, given medical screening, and begin the IND (Immigration and Naturalisation Service) process. You do not need to have a legal entry document to apply.
+- q: How long does the Dutch asylum process take in 2026?
+  a: Processing times have increased significantly due to high application volumes. In 2026, the general asylum procedure (algemene asielprocedure or AA) takes a minimum of a few weeks for an initial decision in clear-cut cases. Extended procedures (verlengde asielprocedure or VA) can take months or even years. The COA (Central Agency for the Reception of Asylum Seekers) provides housing during the entire period.
+- q: What is the difference between a refugee and an asylum seeker in the Netherlands?
+  a: An asylum seeker (asielzoeker) is someone who has applied for asylum but whose application has not yet been decided. A refugee (vluchteling) is someone who has been granted a refugee status (vluchtelingenstatus) under the 1951 Geneva Convention — i.e., facing persecution on grounds of race, religion, nationality, political opinion, or membership of a particular social group. The Netherlands also grants subsidiary protection (subsidiaire bescherming) to those facing serious harm but not meeting the strict Geneva definition.
+- q: What rights do asylum seekers have during the process in the Netherlands?
+  a: During the asylum procedure, you have the right to housing in a COA reception centre (opvanglocatie), basic living costs (food, clothing, and a small weekly allowance), access to a lawyer (rechtsbijstand) — appointed free of charge, healthcare access, and the right to school for children. You do not have the right to work during the general procedure, though specific waiting-period exemptions exist after 26 weeks.
+- q: What happens if the asylum application is rejected?
+  a: If your application is rejected, you receive a negative decision (afwijzend besluit). You have the right to appeal (beroep) to a Dutch court within four weeks. During the appeal period, you typically may remain in the Netherlands. If the appeal is also rejected, you may be required to leave the Netherlands. You can appeal further to the Council of State (Raad van State) in some circumstances. Legal aid is available for appeals.
+- q: What happens after a successful asylum application?
+  a: If granted asylum, you receive a residence permit for asylum purposes (verblijfsvergunning asiel voor bepaalde tijd) — valid for five years initially. After five years, you can apply for an indefinite asylum residence permit (asiel voor onbepaalde tijd). You have the right to work, access social services, bring eligible family members through family reunification, and eventually apply for Dutch naturalisation.
+schema_type: Article
 ---
 
 This guide provides factual, clear information about the Dutch asylum process for people who need it. Whether you are helping someone work through the system, working in refugee support, or seeking information for yourself, understanding how the process works — step by step — is the foundation for making informed decisions.

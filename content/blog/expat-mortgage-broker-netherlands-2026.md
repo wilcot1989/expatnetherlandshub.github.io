@@ -1,31 +1,41 @@
 ---
-title: "Finding a Mortgage Broker Netherlands: Expat Guide"
-description: "How to find a good mortgage broker in the Netherlands as an expat. What brokers do, what they cost, and what to expect when buying property in 2026."
+title: 'Finding a Mortgage Broker Netherlands: Expat Guide'
+description: How to find a good mortgage broker in the Netherlands as an expat. What brokers do, what they cost, and what to expect when buying property in 2026.
 date: 2026-03-22
-lastmod: 2026-04-23T10:00:00+01:00
-author: "Sarah van den Berg"
-author_bio: "Expat coach and writer at ExpatNetherlandsHub.com"
-categories: ["housing"]
-tags: ["mortgage", "broker", "hypotheek", "netherlands", "expats", "housing", "property", "buying"]
-featured_image: "/images/categories/housing.svg"
+lastmod: 2026-04-23 10:00:00+01:00
+author: Sarah van den Berg
+author_bio: Expat coach and writer at ExpatNetherlandsHub.com
+categories:
+- housing
+tags:
+- mortgage
+- broker
+- hypotheek
+- netherlands
+- expats
+- housing
+- property
+- buying
+featured_image: /images/categories/housing.svg
 affiliate: true
 draft: false
 faq:
-  - q: "Do expats need a mortgage broker to buy a home in the Netherlands?"
-    a: "You are not legally required to use a broker, but most expats benefit significantly from having one. Dutch mortgage rules are complex, lenders have specific requirements for non-Dutch income and employment types, and the documentation burden is high. A broker who works with expats can save time and improve your chances of approval."
-  - q: "How much does a mortgage broker cost in the Netherlands?"
-    a: "Independent mortgage advisers (hypotheekadviseurs) typically charge between €1,500 and €3,500 as a flat advisory fee. Some charge on a percentage basis. Banks and lenders offering their own mortgage products may provide free advice but are limited to their own products. Always clarify fee structure upfront."
-  - q: "Can expats get a mortgage in the Netherlands?"
-    a: "Yes. Expats with stable Dutch employment income can generally access Dutch mortgages, including those on highly skilled migrant permits. Key factors are your income level, employment contract type, length of residence, and whether your income is in euros. Self-employed expats face higher scrutiny."
-  - q: "What is the maximum mortgage I can get as an expat in the Netherlands?"
-    a: "Dutch mortgage rules limit borrowing to a multiple of your annual gross income (the loan-to-income ratio). In 2026, most borrowers can borrow up to approximately 4.5x gross annual income for a single income, or up to 5x for couples depending on their combined income. Energy-efficient homes may allow slightly higher multiples."
-  - q: "Do I need a permanent contract to get a Dutch mortgage?"
-    a: "A permanent contract (vaste contract) makes the mortgage application significantly easier. Temporary contracts are possible — some lenders accept them with an employer's statement of intent to continue. Self-employed income requires at least 3 years of accounts. Expats on temporary permits may face additional scrutiny depending on the lender."
+- q: Do expats need a mortgage broker to buy a home in the Netherlands?
+  a: You are not legally required to use a broker, but most expats benefit significantly from having one. Dutch mortgage rules are complex, lenders have specific requirements for non-Dutch income and employment types, and the documentation burden is high. A broker who works with expats can save time and improve your chances of approval.
+- q: How much does a mortgage broker cost in the Netherlands?
+  a: Independent mortgage advisers (hypotheekadviseurs) typically charge between €1,500 and €3,500 as a flat advisory fee. Some charge on a percentage basis. Banks and lenders offering their own mortgage products may provide free advice but are limited to their own products. Always clarify fee structure upfront.
+- q: Can expats get a mortgage in the Netherlands?
+  a: Yes. Expats with stable Dutch employment income can generally access Dutch mortgages, including those on highly skilled migrant permits. Key factors are your income level, employment contract type, length of residence, and whether your income is in euros. Self-employed expats face higher scrutiny.
+- q: What is the maximum mortgage I can get as an expat in the Netherlands?
+  a: Dutch mortgage rules limit borrowing to a multiple of your annual gross income (the loan-to-income ratio). In 2026, most borrowers can borrow up to approximately 4.5x gross annual income for a single income, or up to 5x for couples depending on their combined income. Energy-efficient homes may allow slightly higher multiples.
+- q: Do I need a permanent contract to get a Dutch mortgage?
+  a: A permanent contract (vaste contract) makes the mortgage application significantly easier. Temporary contracts are possible — some lenders accept them with an employer's statement of intent to continue. Self-employed income requires at least 3 years of accounts. Expats on temporary permits may face additional scrutiny depending on the lender.
 products:
-  - name: "Wise"
-    url: "https://go.expatnetherlandshub.com/wise?ref=/blog/expat-mortgage-broker-netherlands-2026/"
-    price: "0.00"
-    tag: "Currency Transfer"
+- name: Wise
+  url: https://go.expatnetherlandshub.com/wise?ref=/blog/expat-mortgage-broker-netherlands-2026/
+  price: '0.00'
+  tag: Currency Transfer
+schema_type: Article
 ---
 
 Buying a property in the Netherlands as an expat involves layers of complexity that don't apply in every country. The Dutch mortgage market is heavily regulated, the documentation requirements are significant, and there are specific considerations for non-Dutch income, foreign employment contracts, and temporary residency permits.

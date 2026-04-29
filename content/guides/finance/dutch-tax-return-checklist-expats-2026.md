@@ -1,36 +1,47 @@
 ---
-title: "Dutch Tax Return Checklist for Expats 2026: Before You File"
-date: 2026-03-07T10:00:00+01:00
-lastmod: 2026-04-23T10:00:00+01:00
-description: "Complete checklist for your Dutch tax return as an expat. Documents, deadlines, deductions, and when to hire a tax advisor. Updated for the 2025 tax year."
-categories: ["finance"]
-tags: ["tax return", "belastingaangifte", "tax checklist", "30% ruling", "tax deductions"]
-keywords: ["dutch tax return checklist expat", "tax return netherlands checklist", "documents tax return netherlands", "expat tax preparation netherlands"]
+title: 'Dutch Tax Return Checklist for Expats 2026: Before You File'
+date: 2026-03-07 10:00:00+01:00
+lastmod: 2026-04-23 10:00:00+01:00
+description: Complete checklist for your Dutch tax return as an expat. Documents, deadlines, deductions, and when to hire a tax advisor. Updated for the 2025 tax year.
+categories:
+- finance
+tags:
+- tax return
+- belastingaangifte
+- tax checklist
+- 30% ruling
+- tax deductions
+keywords:
+- dutch tax return checklist expat
+- tax return netherlands checklist
+- documents tax return netherlands
+- expat tax preparation netherlands
 affiliate: true
-author: "Sarah van den Berg"
-author_bio: "Expat coach and relocation specialist. Half Dutch, half British, living in the Netherlands for over 10 years."
-featured_image: "/images/featured/dutch-tax-return-checklist-expats-2026.webp"
+author: Sarah van den Berg
+author_bio: Expat coach and relocation specialist. Half Dutch, half British, living in the Netherlands for over 10 years.
+featured_image: /images/featured/dutch-tax-return-checklist-expats-2026.webp
 products:
-  - name: "Wise"
-    url: "https://go.expatnetherlandshub.com/wise?ref=/guides/finance/dutch-tax-return-checklist-expats-2026/"
-    price: "0.00"
-  - name: "Expatax"
-    url: "https://www.expatax.nl/"
-    price: "0.00"
-  - name: "Blue Umbrella"
-    url: "https://www.blueumbrella.nl/"
-    price: "0.00"
+- name: Wise
+  url: https://go.expatnetherlandshub.com/wise?ref=/guides/finance/dutch-tax-return-checklist-expats-2026/
+  price: '0.00'
+- name: Expatax
+  url: https://www.expatax.nl/
+  price: '0.00'
+- name: Blue Umbrella
+  url: https://www.blueumbrella.nl/
+  price: '0.00'
 faq:
-  - q: "What documents do I need for my Dutch tax return?"
-    a: "Your jaaropgave (annual income statement from employer), DigiD login credentials, BSN number, bank statements showing savings on January 1st, mortgage annual statement (if applicable), health insurance premium summary, pension contribution overview, and any receipts for deductible expenses (charitable donations, study costs, medical expenses above threshold)."
-  - q: "When is the deadline for filing my Dutch tax return in 2026?"
-    a: "The deadline for filing your 2025 tax return is May 1, 2026. Online filing opens March 1, 2026. You can request a free extension until September 1, 2026 via Mijn Belastingdienst. If you use a tax advisor, the deadline may extend to May 1, 2027."
-  - q: "Do I need a tax advisor as an expat?"
-    a: "You likely need one if: it is your first or last year in the Netherlands (M-form required), you have the 30% ruling, you earned income in multiple countries, you own property abroad, or you are self-employed (ZZP). Expat-specialised tax advisors charge EUR 150-500 for a standard return. They typically find deductions that more than cover their fee."
-  - q: "What can I deduct on my Dutch tax return as an expat?"
-    a: "Common deductions: mortgage interest (hypotheekrenteaftrek), pension contributions (lijfrente), healthcare costs above the threshold (EUR 143 in 2025), charitable donations to ANBI organisations, study costs related to your profession, and specific medical transport costs. With the 30% ruling, you can also elect partial non-resident status to avoid Box 3 wealth tax on foreign assets."
-  - q: "What is the M-form and do I need it?"
-    a: "The M-form (M-biljet) is a special tax return for the year you arrived in or left the Netherlands. It covers worldwide income and is more complex than a regular return. You must file an M-form for your first and last calendar year in the Netherlands. It cannot be filed online — you need the paper form or a tax advisor."
+- q: What documents do I need for my Dutch tax return?
+  a: Your jaaropgave (annual income statement from employer), DigiD login credentials, BSN number, bank statements showing savings on January 1st, mortgage annual statement (if applicable), health insurance premium summary, pension contribution overview, and any receipts for deductible expenses (charitable donations, study costs, medical expenses above threshold).
+- q: When is the deadline for filing my Dutch tax return in 2026?
+  a: The deadline for filing your 2025 tax return is May 1, 2026. Online filing opens March 1, 2026. You can request a free extension until September 1, 2026 via Mijn Belastingdienst. If you use a tax advisor, the deadline may extend to May 1, 2027.
+- q: Do I need a tax advisor as an expat?
+  a: 'You likely need one if: it is your first or last year in the Netherlands (M-form required), you have the 30% ruling, you earned income in multiple countries, you own property abroad, or you are self-employed (ZZP). Expat-specialised tax advisors charge EUR 150-500 for a standard return. They typically find deductions that more than cover their fee.'
+- q: What can I deduct on my Dutch tax return as an expat?
+  a: 'Common deductions: mortgage interest (hypotheekrenteaftrek), pension contributions (lijfrente), healthcare costs above the threshold (EUR 143 in 2025), charitable donations to ANBI organisations, study costs related to your profession, and specific medical transport costs. With the 30% ruling, you can also elect partial non-resident status to avoid Box 3 wealth tax on foreign assets.'
+- q: What is the M-form and do I need it?
+  a: The M-form (M-biljet) is a special tax return for the year you arrived in or left the Netherlands. It covers worldwide income and is more complex than a regular return. You must file an M-form for your first and last calendar year in the Netherlands. It cannot be filed online — you need the paper form or a tax advisor.
+schema_type: Article
 ---
 
 My first Dutch tax season, I spent three evenings hunting for documents I did not know I needed. My jaaropgave was buried in a portal I had forgotten existed. My DigiD had expired. And I had absolutely no idea what "Box 3" meant, let alone that I needed to report my savings on January 1st specifically.

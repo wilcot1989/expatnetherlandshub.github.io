@@ -1,38 +1,50 @@
 ---
-title: "Netherlands vs Italy for Expats 2026"
-date: 2026-03-18T10:00:00+01:00
-lastmod: 2026-04-23T10:00:00+01:00
-description: "Netherlands vs Italy for expats 2026: salaries, taxes, costs, bureaucracy, healthcare, language, and quality of life compared side by side."
-categories: ["integration"]
-tags: ["netherlands vs italy", "expat comparison", "cost of living", "tax", "quality of life", "europe"]
-keywords: ["netherlands vs italy expats 2026", "move netherlands or italy", "italy vs netherlands expat", "best country expats europe comparison"]
+title: Netherlands vs Italy for Expats 2026
+date: 2026-03-18 10:00:00+01:00
+lastmod: 2026-04-23 10:00:00+01:00
+description: 'Netherlands vs Italy for expats 2026: salaries, taxes, costs, bureaucracy, healthcare, language, and quality of life compared side by side.'
+categories:
+- integration
+tags:
+- netherlands vs italy
+- expat comparison
+- cost of living
+- tax
+- quality of life
+- europe
+keywords:
+- netherlands vs italy expats 2026
+- move netherlands or italy
+- italy vs netherlands expat
+- best country expats europe comparison
 affiliate: true
-author: "Sarah van den Berg"
-author_bio: "Expat coach and relocation specialist. Half Dutch, half British, living in the Netherlands for over 10 years."
-featured_image: "/images/categories/integration.svg"
+author: Sarah van den Berg
+author_bio: Expat coach and relocation specialist. Half Dutch, half British, living in the Netherlands for over 10 years.
+featured_image: /images/categories/integration.svg
 faq:
-  - q: "Which country is more expensive — the Netherlands or Italy?"
-    a: "They are more similar than most people expect, with important regional differences. Amsterdam is more expensive than Rome or Milan for rent; Dutch salaries are significantly higher. In southern Italy (Sicily, Calabria, Puglia), costs are much lower than anywhere in the Netherlands. In northern Italy (Milan, Bologna), costs approach Dutch levels but salaries remain lower. The Netherlands offers better value in terms of salary-to-cost ratio for most professional expats."
-  - q: "How do salaries compare between the Netherlands and Italy?"
-    a: "Dutch salaries are considerably higher. An experienced software engineer earns EUR 65,000-90,000 in the Netherlands vs EUR 35,000-55,000 in Italy. Finance and consulting roles show similar gaps. Italy has pockets of exception — major international companies in Milan sometimes pay near-Dutch rates — but on average, the Netherlands pays 40-60% more across professional sectors."
-  - q: "Which country has better expat tax incentives?"
-    a: "The Netherlands offers the 30% ruling (five years, 30% of salary tax-free for qualifying internationally recruited employees). Italy has the Lavoratori Impatriati regime — a 50% income tax exemption (70% in some southern regions) for employees and self-employed who move to Italy. For the right candidate, Italy's impatriati regime can be more generous on paper, but requires meeting specific conditions including no Italian tax residency in the past two to three years."
-  - q: "Which country is easier for non-EU expats to get a visa?"
-    a: "The Netherlands is simpler for employment-based visas — the highly skilled migrant (kennismigrant) route is fast and employer-led. Italy has a Decreto Flussi quota system that caps non-EU work immigration annually and is notoriously slow. However, Italy has a Digital Nomad Visa (launched 2024) and a startup visa that provide alternative routes. For most skilled employees, the Netherlands is easier."
-  - q: "Which country has better healthcare for expats?"
-    a: "The Netherlands has more consistent, better-organised healthcare. The Dutch system requires basic health insurance (basisverzekering) and provides good to excellent access in all parts of the country. Italian public healthcare (SSN — Servizio Sanitario Nazionale) is excellent in northern Italy and patchy in the south. English-speaking healthcare is more widely available in the Netherlands."
-  - q: "Which is better for quality of life as an expat?"
-    a: "It depends entirely on what you value. Italy offers exceptional food, culture, architecture, climate (especially in the south), and a lifestyle centred on enjoying life. The Netherlands offers efficiency, cycling culture, English-friendly society, strong work-life balance, and excellent infrastructure. Both score well in international quality-of-life indices but for different reasons."
+- q: Which country is more expensive — the Netherlands or Italy?
+  a: They are more similar than most people expect, with important regional differences. Amsterdam is more expensive than Rome or Milan for rent; Dutch salaries are significantly higher. In southern Italy (Sicily, Calabria, Puglia), costs are much lower than anywhere in the Netherlands. In northern Italy (Milan, Bologna), costs approach Dutch levels but salaries remain lower. The Netherlands offers better value in terms of salary-to-cost ratio for most professional expats.
+- q: How do salaries compare between the Netherlands and Italy?
+  a: Dutch salaries are considerably higher. An experienced software engineer earns EUR 65,000-90,000 in the Netherlands vs EUR 35,000-55,000 in Italy. Finance and consulting roles show similar gaps. Italy has pockets of exception — major international companies in Milan sometimes pay near-Dutch rates — but on average, the Netherlands pays 40-60% more across professional sectors.
+- q: Which country has better expat tax incentives?
+  a: The Netherlands offers the 30% ruling (five years, 30% of salary tax-free for qualifying internationally recruited employees). Italy has the Lavoratori Impatriati regime — a 50% income tax exemption (70% in some southern regions) for employees and self-employed who move to Italy. For the right candidate, Italy's impatriati regime can be more generous on paper, but requires meeting specific conditions including no Italian tax residency in the past two to three years.
+- q: Which country is easier for non-EU expats to get a visa?
+  a: The Netherlands is simpler for employment-based visas — the highly skilled migrant (kennismigrant) route is fast and employer-led. Italy has a Decreto Flussi quota system that caps non-EU work immigration annually and is notoriously slow. However, Italy has a Digital Nomad Visa (launched 2024) and a startup visa that provide alternative routes. For most skilled employees, the Netherlands is easier.
+- q: Which country has better healthcare for expats?
+  a: The Netherlands has more consistent, better-organised healthcare. The Dutch system requires basic health insurance (basisverzekering) and provides good to excellent access in all parts of the country. Italian public healthcare (SSN — Servizio Sanitario Nazionale) is excellent in northern Italy and patchy in the south. English-speaking healthcare is more widely available in the Netherlands.
+- q: Which is better for quality of life as an expat?
+  a: It depends entirely on what you value. Italy offers exceptional food, culture, architecture, climate (especially in the south), and a lifestyle centred on enjoying life. The Netherlands offers efficiency, cycling culture, English-friendly society, strong work-life balance, and excellent infrastructure. Both score well in international quality-of-life indices but for different reasons.
 products:
-  - name: "Babbel"
-    url: "https://www.babbel.com/"
-    price: "6.99"
-  - name: "Meetup"
-    url: "https://www.meetup.com/"
-    price: "0.00"
-  - name: "DutchPod101"
-    url: "https://www.dutchpod101.com/"
-    price: "0.00"
+- name: Babbel
+  url: https://www.babbel.com/
+  price: '6.99'
+- name: Meetup
+  url: https://www.meetup.com/
+  price: '0.00'
+- name: DutchPod101
+  url: https://www.dutchpod101.com/
+  price: '0.00'
+schema_type: Article
 ---
 
 The Netherlands and Italy are both popular expat destinations in Europe, and they represent genuinely different models of European life. After working with expats choosing between a wide range of European countries, I can tell you that the Netherlands–Italy choice tends to come down to one fundamental question: do you optimise for career and earning power, or for lifestyle and daily pleasure?

@@ -1,32 +1,43 @@
 ---
-title: "Dutch Childcare System 2026: Guide for Expat Parents"
-date: 2026-04-12T10:00:00+01:00
-lastmod: 2026-04-23T10:00:00+01:00
-description: "Complete guide to childcare in the Netherlands for expat parents. Types, costs, subsidies, and how to find the best daycare, BSO, or childminder."
-categories: ["family"]
-tags: ["childcare", "kinderopvang", "daycare", "BSO", "expat family"]
-keywords: ["childcare Netherlands expat", "kinderopvang costs", "Dutch daycare", "childcare subsidy Netherlands"]
+title: 'Dutch Childcare System 2026: Guide for Expat Parents'
+date: 2026-04-12 10:00:00+01:00
+lastmod: 2026-04-23 10:00:00+01:00
+description: Complete guide to childcare in the Netherlands for expat parents. Types, costs, subsidies, and how to find the best daycare, BSO, or childminder.
+categories:
+- family
+tags:
+- childcare
+- kinderopvang
+- daycare
+- BSO
+- expat family
+keywords:
+- childcare Netherlands expat
+- kinderopvang costs
+- Dutch daycare
+- childcare subsidy Netherlands
 affiliate: true
 products:
-  - name: "KPN"
-    url: "https://www.kpn.com/"
-    price: "0.00"
-author: "Sarah van den Berg"
-author_bio: "Expat coach and relocation specialist. Half Dutch, half British, living in the Netherlands for over 10 years."
-featured_image: "/images/featured/dutch-childcare-expat-guide-2026.webp"
+- name: KPN
+  url: https://www.kpn.com/
+  price: '0.00'
+author: Sarah van den Berg
+author_bio: Expat coach and relocation specialist. Half Dutch, half British, living in the Netherlands for over 10 years.
+featured_image: /images/featured/dutch-childcare-expat-guide-2026.webp
 faq:
-  - q: "How much does childcare cost in the Netherlands?"
-    a: "Before subsidy, daycare costs €8-€10 per hour (€1,200-€2,000/month for 3 days/week). After kinderopvangtoeslag (childcare subsidy), you pay €200-€800/month depending on your income. Lower-income families pay as little as €100-€200/month after subsidy."
-  - q: "What childcare subsidy can I get?"
-    a: "Kinderopvangtoeslag covers 33-96% of childcare costs, depending on your combined household income. For a family earning €60,000/year, the subsidy covers about 70% of costs. Both parents must work or study to qualify. Apply via toeslagen.nl with your DigiD."
-  - q: "What types of childcare exist in the Netherlands?"
-    a: "Four main types: kinderdagverblijf (daycare, 0-4 years), gastouderopvang (childminder, 0-12 years), buitenschoolse opvang/BSO (after-school care, 4-12 years), and peuterspeelzaal (playgroup, 2-4 years, 2-4 mornings/week). All registered types qualify for childcare subsidy."
-  - q: "How do I find good childcare in the Netherlands?"
-    a: "Search on kinderopvang.nl or kidsnavigator.nl for registered providers. Visit at least 3 options, check GGD inspection reports (landelijkregisterkinderopvang.nl), ask about staff ratios, educational approach, and waiting lists. Register early — popular daycare centers have waiting lists of 6-12 months."
-  - q: "Do I need to register on a waiting list for daycare?"
-    a: "Yes, in most Dutch cities, popular daycare centers have waiting lists of 6-12 months. Register as soon as you know you are pregnant or planning to move. Some areas (Amsterdam, Utrecht, Eindhoven) have particularly long waiting lists."
-  - q: "Can I get childcare in English for my children?"
-    a: "Some daycare centers offer bilingual (Dutch/English) programs, especially in expat-heavy areas like Amsterdam, The Hague, and Eindhoven. Fully English-only daycare is rare. Most experts recommend Dutch-language childcare to help children integrate and learn the language."
+- q: How much does childcare cost in the Netherlands?
+  a: Before subsidy, daycare costs €8-€10 per hour (€1,200-€2,000/month for 3 days/week). After kinderopvangtoeslag (childcare subsidy), you pay €200-€800/month depending on your income. Lower-income families pay as little as €100-€200/month after subsidy.
+- q: What childcare subsidy can I get?
+  a: Kinderopvangtoeslag covers 33-96% of childcare costs, depending on your combined household income. For a family earning €60,000/year, the subsidy covers about 70% of costs. Both parents must work or study to qualify. Apply via toeslagen.nl with your DigiD.
+- q: What types of childcare exist in the Netherlands?
+  a: 'Four main types: kinderdagverblijf (daycare, 0-4 years), gastouderopvang (childminder, 0-12 years), buitenschoolse opvang/BSO (after-school care, 4-12 years), and peuterspeelzaal (playgroup, 2-4 years, 2-4 mornings/week). All registered types qualify for childcare subsidy.'
+- q: How do I find good childcare in the Netherlands?
+  a: Search on kinderopvang.nl or kidsnavigator.nl for registered providers. Visit at least 3 options, check GGD inspection reports (landelijkregisterkinderopvang.nl), ask about staff ratios, educational approach, and waiting lists. Register early — popular daycare centers have waiting lists of 6-12 months.
+- q: Do I need to register on a waiting list for daycare?
+  a: Yes, in most Dutch cities, popular daycare centers have waiting lists of 6-12 months. Register as soon as you know you are pregnant or planning to move. Some areas (Amsterdam, Utrecht, Eindhoven) have particularly long waiting lists.
+- q: Can I get childcare in English for my children?
+  a: Some daycare centers offer bilingual (Dutch/English) programs, especially in expat-heavy areas like Amsterdam, The Hague, and Eindhoven. Fully English-only daycare is rare. Most experts recommend Dutch-language childcare to help children integrate and learn the language.
+schema_type: Article
 ---
 
 If there is one thing I tell expat parents immediately, it is this: register for daycare now. Not when you arrive, not when you are settled -- now. Waiting lists in Dutch cities can be over a year, and I have seen families scramble for emergency childcare because they did not register in time. The Dutch childcare system is actually excellent once you understand it, and the subsidies can save you thousands. Here is the guide I wish I could hand to every expat parent at the airport.

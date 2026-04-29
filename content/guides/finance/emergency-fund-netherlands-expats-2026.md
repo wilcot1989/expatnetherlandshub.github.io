@@ -1,38 +1,51 @@
 ---
-title: "Emergency Fund Netherlands: Expat Guide 2026"
-date: 2026-06-25T10:00:00+01:00
-lastmod: 2026-04-23T10:00:00+01:00
-description: "How much emergency fund do expats in the Netherlands need? The 3-6 month rule, where to save (bunq, Raisin), box 3 tax on savings, and repatriation costs."
-categories: ["finance"]
-tags: ["emergency fund netherlands", "expat savings netherlands", "bunq savings", "raisin netherlands", "box 3 savings tax", "expat financial planning"]
-keywords: ["emergency fund netherlands expats", "how much savings expat netherlands", "where to save money netherlands expat", "box 3 savings tax netherlands", "bunq raisin savings"]
+title: 'Emergency Fund Netherlands: Expat Guide 2026'
+date: 2026-06-25 10:00:00+01:00
+lastmod: 2026-04-23 10:00:00+01:00
+description: How much emergency fund do expats in the Netherlands need? The 3-6 month rule, where to save (bunq, Raisin), box 3 tax on savings, and repatriation costs.
+categories:
+- finance
+tags:
+- emergency fund netherlands
+- expat savings netherlands
+- bunq savings
+- raisin netherlands
+- box 3 savings tax
+- expat financial planning
+keywords:
+- emergency fund netherlands expats
+- how much savings expat netherlands
+- where to save money netherlands expat
+- box 3 savings tax netherlands
+- bunq raisin savings
 affiliate: true
-author: "Sarah van den Berg"
-author_bio: "Expat coach and relocation specialist. Half Dutch, half British, living in the Netherlands for over 10 years."
-featured_image: "/images/categories/finance.svg"
+author: Sarah van den Berg
+author_bio: Expat coach and relocation specialist. Half Dutch, half British, living in the Netherlands for over 10 years.
+featured_image: /images/categories/finance.svg
 products:
-  - name: "Wise"
-    url: "https://go.expatnetherlandshub.com/wise?ref=/guides/finance/emergency-fund-netherlands-expats-2026/"
-    price: "0.00"
-  - name: "bunq"
-    url: "https://www.bunq.com/"
-    price: "2.99"
-  - name: "ING"
-    url: "https://www.ing.nl/particulier"
-    price: "0.00"
+- name: Wise
+  url: https://go.expatnetherlandshub.com/wise?ref=/guides/finance/emergency-fund-netherlands-expats-2026/
+  price: '0.00'
+- name: bunq
+  url: https://www.bunq.com/
+  price: '2.99'
+- name: ING
+  url: https://www.ing.nl/particulier
+  price: '0.00'
 faq:
-  - q: "How many months of expenses should my emergency fund cover as an expat in the Netherlands?"
-    a: "The standard advice is 3-6 months of core expenses. For expats, I recommend 6 months as a minimum, for two reasons: first, the job market for international professionals can be slower to move than locals expect; second, expats face unique costs that locals do not, such as flights home for family emergencies, supporting family abroad, and potential repatriation costs if your situation in the Netherlands changes. If your income is variable (ZZP, commission-based, or contract), 9-12 months provides much stronger security."
-  - q: "Where should I keep my emergency fund in the Netherlands?"
-    a: "Your emergency fund needs to be accessible within 1-3 business days, not locked in a long-term product. In 2026, the best options in the Netherlands are: high-yield savings accounts at Dutch banks (ING, ABN AMRO, Rabobank offer around 1.5-2.5% on regular savings), bunq (which offers competitive interest on savings via their Easy Savings product), or Raisin's Dutch partner banks for slightly higher rates. Avoid investing your emergency fund in stocks or index funds — the point is stability, not growth."
-  - q: "Is money in a Dutch savings account taxed?"
-    a: "Yes. Dutch tax residents pay vermogensrendementsheffing (box 3 wealth tax) on savings and investments above a threshold. In 2026, the box 3 tax-free threshold is approximately €57,000 per person (€114,000 for couples). Above that amount, a fictitious return is calculated and taxed at 36%. If your emergency fund is below this threshold, you pay no box 3 tax on it."
-  - q: "What is Raisin and is it safe to use in the Netherlands?"
-    a: "Raisin is a European savings marketplace that connects savers with deposit accounts at banks across the EU. Each deposit is protected under that country's national deposit guarantee scheme (up to €100,000 per bank per depositor). The banks available through Raisin vary in their rates and nationalities; some offer 2.5-3.5% on fixed-term deposits in 2026. It is a legitimate and regulated platform, but you should check the deposit guarantee applies in the relevant country before placing large sums."
-  - q: "How much should I set aside for repatriation costs as an expat?"
-    a: "Repatriation costs — if you had to leave the Netherlands unexpectedly — can be significant: shipping household goods (€2,000-8,000 depending on destination and volume), flights (€500-3,000 per person), breaking a Dutch rental lease (typically 1-3 months' rent in notice or penalty), and costs of setting up in a new country. A realistic figure for a single person is €5,000-10,000; for a family with furniture and multiple flights, €15,000-25,000. Many expats keep this as a separate earmarked fund within their emergency savings."
-  - q: "Does Wise work as a savings account for expats?"
-    a: "Wise is primarily a multi-currency account and money transfer service, not a savings account. It does offer interest on some currency balances (EUR, GBP, USD) through their assets feature, but rates are variable and depend on underlying money market funds. It is excellent for holding money across currencies and for international transfers, but not a replacement for a dedicated savings account with deposit protection. Many expats use both: Wise for day-to-day cross-border finance, and a Dutch savings account for their emergency fund."
+- q: How many months of expenses should my emergency fund cover as an expat in the Netherlands?
+  a: 'The standard advice is 3-6 months of core expenses. For expats, I recommend 6 months as a minimum, for two reasons: first, the job market for international professionals can be slower to move than locals expect; second, expats face unique costs that locals do not, such as flights home for family emergencies, supporting family abroad, and potential repatriation costs if your situation in the Netherlands changes. If your income is variable (ZZP, commission-based, or contract), 9-12 months provides much stronger security.'
+- q: Where should I keep my emergency fund in the Netherlands?
+  a: 'Your emergency fund needs to be accessible within 1-3 business days, not locked in a long-term product. In 2026, the best options in the Netherlands are: high-yield savings accounts at Dutch banks (ING, ABN AMRO, Rabobank offer around 1.5-2.5% on regular savings), bunq (which offers competitive interest on savings via their Easy Savings product), or Raisin''s Dutch partner banks for slightly higher rates. Avoid investing your emergency fund in stocks or index funds — the point is stability, not growth.'
+- q: Is money in a Dutch savings account taxed?
+  a: Yes. Dutch tax residents pay vermogensrendementsheffing (box 3 wealth tax) on savings and investments above a threshold. In 2026, the box 3 tax-free threshold is approximately €57,000 per person (€114,000 for couples). Above that amount, a fictitious return is calculated and taxed at 36%. If your emergency fund is below this threshold, you pay no box 3 tax on it.
+- q: What is Raisin and is it safe to use in the Netherlands?
+  a: Raisin is a European savings marketplace that connects savers with deposit accounts at banks across the EU. Each deposit is protected under that country's national deposit guarantee scheme (up to €100,000 per bank per depositor). The banks available through Raisin vary in their rates and nationalities; some offer 2.5-3.5% on fixed-term deposits in 2026. It is a legitimate and regulated platform, but you should check the deposit guarantee applies in the relevant country before placing large sums.
+- q: How much should I set aside for repatriation costs as an expat?
+  a: 'Repatriation costs — if you had to leave the Netherlands unexpectedly — can be significant: shipping household goods (€2,000-8,000 depending on destination and volume), flights (€500-3,000 per person), breaking a Dutch rental lease (typically 1-3 months'' rent in notice or penalty), and costs of setting up in a new country. A realistic figure for a single person is €5,000-10,000; for a family with furniture and multiple flights, €15,000-25,000. Many expats keep this as a separate earmarked fund within their emergency savings.'
+- q: Does Wise work as a savings account for expats?
+  a: 'Wise is primarily a multi-currency account and money transfer service, not a savings account. It does offer interest on some currency balances (EUR, GBP, USD) through their assets feature, but rates are variable and depend on underlying money market funds. It is excellent for holding money across currencies and for international transfers, but not a replacement for a dedicated savings account with deposit protection. Many expats use both: Wise for day-to-day cross-border finance, and a Dutch savings account for their emergency fund.'
+schema_type: Article
 ---
 
 When I first arrived in the Netherlands, I had roughly six weeks of runway saved and no plan beyond that. Looking back, that was not a strategy — it was luck that nothing went wrong in those first months. Over the years, I have watched expat clients face genuine emergencies with no buffer: sudden job loss, family illness abroad requiring flights, a relationship breakdown that required finding new accommodation at short notice, and once, a deportation scare that required urgent legal costs.

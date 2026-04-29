@@ -1,40 +1,53 @@
 ---
-title: "Dutch Healthcare System Explained for Expats 2026"
-date: 2026-05-08T10:00:00+01:00
-lastmod: 2026-04-23T10:00:00+01:00
-description: "How Dutch healthcare actually works: from the huisarts gatekeeper to emergency rooms, pharmacies, and waiting lists — practical guide for expats."
-categories: ["health"]
-tags: ["healthcare", "huisarts", "GP", "specialist", "hospital", "emergency"]
-keywords: ["dutch healthcare system expats", "how dutch healthcare works", "huisarts netherlands", "dutch hospital expat", "emergency netherlands"]
+title: Dutch Healthcare System Explained for Expats 2026
+date: 2026-05-08 10:00:00+01:00
+lastmod: 2026-04-23 10:00:00+01:00
+description: 'How Dutch healthcare actually works: from the huisarts gatekeeper to emergency rooms, pharmacies, and waiting lists — practical guide for expats.'
+categories:
+- health
+tags:
+- healthcare
+- huisarts
+- GP
+- specialist
+- hospital
+- emergency
+keywords:
+- dutch healthcare system expats
+- how dutch healthcare works
+- huisarts netherlands
+- dutch hospital expat
+- emergency netherlands
 affiliate: true
 products:
-  - name: "SafetyWing"
-    url: "https://go.expatnetherlandshub.com/safetywing?ref=/guides/health/dutch-healthcare-system-explained-2026/"
-    price: "45.08"
-  - name: "CZ"
-    url: "https://www.cz.nl/"
-    price: "0.00"
-  - name: "Zilveren Kruis"
-    url: "https://www.zilverenkruis.nl/"
-    price: "0.00"
-author: "Sarah van den Berg"
-author_bio: "Expat coach and relocation specialist. Half Dutch, half British, living in the Netherlands for over 10 years."
-featured_image: "/images/categories/health.svg"
+- name: SafetyWing
+  url: https://go.expatnetherlandshub.com/safetywing?ref=/guides/health/dutch-healthcare-system-explained-2026/
+  price: '45.08'
+- name: CZ
+  url: https://www.cz.nl/
+  price: '0.00'
+- name: Zilveren Kruis
+  url: https://www.zilverenkruis.nl/
+  price: '0.00'
+author: Sarah van den Berg
+author_bio: Expat coach and relocation specialist. Half Dutch, half British, living in the Netherlands for over 10 years.
+featured_image: /images/categories/health.svg
 faq:
-  - q: "Do I need to register with a specific GP (huisarts) in the Netherlands?"
-    a: "Yes. In the Netherlands you must register with a single huisarts practice in your local area. You cannot simply walk into any GP surgery. When you move or register with the municipality, finding and registering with a huisarts should be one of your first tasks. Without a registered huisarts you have no formal route into the healthcare system for non-emergency care."
-  - q: "What is a verwijzing and why do I need one?"
-    a: "A verwijzing is a GP referral letter. In the Netherlands, you almost always need a written referral from your huisarts before you can see a specialist (specialist) or get hospital-based treatment. Without it, your health insurance will generally not cover the specialist appointment. The exception is accident and emergency care, where you go directly to the SEH (spoedeisende hulp) at a hospital."
-  - q: "What is the huisartsenpost and when should I use it?"
-    a: "The huisartsenpost (HAP) is an out-of-hours GP service that operates evenings, weekends, and public holidays. It is for medical problems that cannot wait until your regular huisarts reopens but are not serious enough for an ambulance. You must always call the huisartsenpost first — it is not a walk-in clinic. The phone triage nurse will assess your situation and tell you whether to come in, give you advice over the phone, or direct you elsewhere."
-  - q: "When should I call 112 vs the huisartsenpost?"
-    a: "Call 112 immediately for life-threatening emergencies: chest pain suggesting a heart attack, stroke symptoms (facial drooping, arm weakness, speech difficulty), serious accidents, difficulty breathing, loss of consciousness, or severe allergic reactions. Call the huisartsenpost number for urgent but non-life-threatening issues outside your GP's opening hours — for example, a high fever in a young child, a wound that may need stitches, or severe ear pain that cannot wait until Monday."
-  - q: "Are prescription medications expensive in the Netherlands?"
-    a: "Prescription medications covered under the basisverzekering are paid for by your insurance once you have met your eigen risico (EUR 385 in 2026). However, some medications require you to try a cheaper generic equivalent first before the branded version is covered. Many items that are available over the counter in the UK or USA are prescription-only in the Netherlands, which can surprise new arrivals."
-  - q: "How long are specialist waiting times in the Netherlands?"
-    a: "Waiting times for specialist appointments vary considerably by specialty and region. Common wait times are 4 to 10 weeks for many outpatient specialists, but for some areas — such as dermatology, orthopaedics, and certain mental health services — waits of 3 to 6 months or more are not unusual. For urgent referrals, your huisarts can mark the verwijzing as urgent and contact the specialist directly to request faster scheduling."
-  - q: "Is dental care covered by Dutch health insurance?"
-    a: "Dental care for adults is not covered by the standard basisverzekering. You need aanvullende verzekering (supplementary dental insurance) or you pay out of pocket. Routine check-ups and cleaning typically cost EUR 60 to EUR 120 without insurance. Children under 18 have dental care fully covered. Finding a tandarts accepting new patients can be difficult in busy cities — it is worth searching early after arrival."
+- q: Do I need to register with a specific GP (huisarts) in the Netherlands?
+  a: Yes. In the Netherlands you must register with a single huisarts practice in your local area. You cannot simply walk into any GP surgery. When you move or register with the municipality, finding and registering with a huisarts should be one of your first tasks. Without a registered huisarts you have no formal route into the healthcare system for non-emergency care.
+- q: What is a verwijzing and why do I need one?
+  a: A verwijzing is a GP referral letter. In the Netherlands, you almost always need a written referral from your huisarts before you can see a specialist (specialist) or get hospital-based treatment. Without it, your health insurance will generally not cover the specialist appointment. The exception is accident and emergency care, where you go directly to the SEH (spoedeisende hulp) at a hospital.
+- q: What is the huisartsenpost and when should I use it?
+  a: The huisartsenpost (HAP) is an out-of-hours GP service that operates evenings, weekends, and public holidays. It is for medical problems that cannot wait until your regular huisarts reopens but are not serious enough for an ambulance. You must always call the huisartsenpost first — it is not a walk-in clinic. The phone triage nurse will assess your situation and tell you whether to come in, give you advice over the phone, or direct you elsewhere.
+- q: When should I call 112 vs the huisartsenpost?
+  a: 'Call 112 immediately for life-threatening emergencies: chest pain suggesting a heart attack, stroke symptoms (facial drooping, arm weakness, speech difficulty), serious accidents, difficulty breathing, loss of consciousness, or severe allergic reactions. Call the huisartsenpost number for urgent but non-life-threatening issues outside your GP''s opening hours — for example, a high fever in a young child, a wound that may need stitches, or severe ear pain that cannot wait until Monday.'
+- q: Are prescription medications expensive in the Netherlands?
+  a: Prescription medications covered under the basisverzekering are paid for by your insurance once you have met your eigen risico (EUR 385 in 2026). However, some medications require you to try a cheaper generic equivalent first before the branded version is covered. Many items that are available over the counter in the UK or USA are prescription-only in the Netherlands, which can surprise new arrivals.
+- q: How long are specialist waiting times in the Netherlands?
+  a: Waiting times for specialist appointments vary considerably by specialty and region. Common wait times are 4 to 10 weeks for many outpatient specialists, but for some areas — such as dermatology, orthopaedics, and certain mental health services — waits of 3 to 6 months or more are not unusual. For urgent referrals, your huisarts can mark the verwijzing as urgent and contact the specialist directly to request faster scheduling.
+- q: Is dental care covered by Dutch health insurance?
+  a: Dental care for adults is not covered by the standard basisverzekering. You need aanvullende verzekering (supplementary dental insurance) or you pay out of pocket. Routine check-ups and cleaning typically cost EUR 60 to EUR 120 without insurance. Children under 18 have dental care fully covered. Finding a tandarts accepting new patients can be difficult in busy cities — it is worth searching early after arrival.
+schema_type: Article
 ---
 
 My second month in the Netherlands, I woke up with a chest infection. The kind where you feel like someone has wrapped your ribcage in a wet blanket. Back in the UK, I would have rung the GP, mentioned the productive cough and the rattling when I breathed, and walked out twenty minutes later with a prescription for amoxicillin.

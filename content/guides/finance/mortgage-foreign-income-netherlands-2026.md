@@ -1,40 +1,53 @@
 ---
-title: "Dutch Mortgage with Foreign Income 2026"
-date: 2026-06-23T10:00:00+01:00
-lastmod: 2026-04-23T10:00:00+01:00
-description: "Dutch mortgage with foreign income 2026: banks accepting foreign contracts, ZZP mortgages, intentieverklaring, 30% ruling impact."
-categories: ["finance"]
-tags: ["dutch mortgage", "mortgage netherlands expats", "foreign income mortgage", "zzp mortgage netherlands", "30 ruling mortgage", "hypotheek expats"]
-keywords: ["dutch mortgage foreign income", "mortgage netherlands expat 2026", "hypotheek buitenlands inkomen", "zzp mortgage netherlands", "expat home loan netherlands"]
+title: Dutch Mortgage with Foreign Income 2026
+date: 2026-06-23 10:00:00+01:00
+lastmod: 2026-04-23 10:00:00+01:00
+description: 'Dutch mortgage with foreign income 2026: banks accepting foreign contracts, ZZP mortgages, intentieverklaring, 30% ruling impact.'
+categories:
+- finance
+tags:
+- dutch mortgage
+- mortgage netherlands expats
+- foreign income mortgage
+- zzp mortgage netherlands
+- 30 ruling mortgage
+- hypotheek expats
+keywords:
+- dutch mortgage foreign income
+- mortgage netherlands expat 2026
+- hypotheek buitenlands inkomen
+- zzp mortgage netherlands
+- expat home loan netherlands
 affiliate: true
-author: "Sarah van den Berg"
-author_bio: "Expat coach and relocation specialist. Half Dutch, half British, living in the Netherlands for over 10 years."
-featured_image: "/images/categories/finance.svg"
+author: Sarah van den Berg
+author_bio: Expat coach and relocation specialist. Half Dutch, half British, living in the Netherlands for over 10 years.
+featured_image: /images/categories/finance.svg
 products:
-  - name: "Wise"
-    url: "https://go.expatnetherlandshub.com/wise?ref=/guides/finance/mortgage-foreign-income-netherlands-2026/"
-    price: "0.00"
-  - name: "bunq"
-    url: "https://www.bunq.com/"
-    price: "2.99"
-  - name: "ING"
-    url: "https://www.ing.nl/particulier"
-    price: "0.00"
+- name: Wise
+  url: https://go.expatnetherlandshub.com/wise?ref=/guides/finance/mortgage-foreign-income-netherlands-2026/
+  price: '0.00'
+- name: bunq
+  url: https://www.bunq.com/
+  price: '2.99'
+- name: ING
+  url: https://www.ing.nl/particulier
+  price: '0.00'
 faq:
-  - q: "Can I get a Dutch mortgage if I earn income from abroad?"
-    a: "Yes, it is possible but more difficult than for Dutch residents with Dutch employment. Lenders assess foreign income on a case-by-case basis. Generally, you need a permanent contract (or its local equivalent), at least 2-3 years of documented income history, and in many cases a specialist mortgage advisor who works with international cases. Some lenders, including ING and ABN AMRO, have specific international mortgage desks."
-  - q: "Does the 30% ruling count toward my mortgage capacity?"
-    a: "This varies by lender. Some Dutch banks include the 30% tax-free allowance in their maximum mortgage calculation; others only count your base taxable salary. Given that the 30% ruling now phases down over 5 years, lenders who include it often apply a discount or cap. A mortgage advisor can tell you which lenders are most favourable for your specific ruling situation."
-  - q: "Can a ZZP freelancer get a mortgage in the Netherlands?"
-    a: "Yes, though it is harder than for employed workers. Most lenders require at least 3 years of filed tax returns (aangiftes) and use an average of your last 1-3 years of net profit. Some specialist lenders accept 1-year self-employment history under certain conditions. An intentieverklaring (letter of intent) from your accountant does not replace income history for most mainstream lenders."
-  - q: "How much deposit do I need for a Dutch mortgage as an expat?"
-    a: "In the Netherlands, the maximum mortgage is 100% of the appraised property value (marktwaarde). This means you do not need a down payment on the mortgage itself, but you do need to cover transaction costs out of pocket: buyer's agent fee (makelaar, roughly 1%), notary costs (€1,000-2,500), and transfer tax (overdrachtsbelasting, 2% for most buyers or 0% for first-time buyers under 35 on properties below €510,000 in 2026). Total closing costs are typically 3-5% of the purchase price."
-  - q: "What is an intentieverklaring and do I need one?"
-    a: "An intentieverklaring is a letter from your employer stating their intention to offer you a permanent contract when your current temporary contract expires. It is used by expats on initial fixed-term contracts to demonstrate employment security to lenders. Not all lenders accept it with the same weight — some require an actual permanent contract. The letter's value depends heavily on the employer's credibility and the lender's policy."
-  - q: "Can my partner's foreign income be included in our joint mortgage?"
-    a: "Yes, dual-income mortgages where one or both partners earn abroad are possible, but the foreign income is assessed more conservatively. Lenders typically require documentation in the form of tax returns from the relevant country, employment contracts translated to Dutch or English, and sometimes a confirmation from a local accountant. The maximum mortgage for dual-income international couples is calculated based on the income lenders are willing to include."
-  - q: "Which banks are most expat-friendly for mortgages in the Netherlands?"
-    a: "ABN AMRO and ING have dedicated international teams with experience in expat mortgage applications. Rabobank is strong in many regions but less specialised for international cases. Several specialist mortgage advisors (hypotheekadviseurs) work specifically with expats and know which lenders are flexible on foreign income, temporary contracts, and 30% ruling calculations. Independer can connect you with advisors experienced in expat cases."
+- q: Can I get a Dutch mortgage if I earn income from abroad?
+  a: Yes, it is possible but more difficult than for Dutch residents with Dutch employment. Lenders assess foreign income on a case-by-case basis. Generally, you need a permanent contract (or its local equivalent), at least 2-3 years of documented income history, and in many cases a specialist mortgage advisor who works with international cases. Some lenders, including ING and ABN AMRO, have specific international mortgage desks.
+- q: Does the 30% ruling count toward my mortgage capacity?
+  a: This varies by lender. Some Dutch banks include the 30% tax-free allowance in their maximum mortgage calculation; others only count your base taxable salary. Given that the 30% ruling now phases down over 5 years, lenders who include it often apply a discount or cap. A mortgage advisor can tell you which lenders are most favourable for your specific ruling situation.
+- q: Can a ZZP freelancer get a mortgage in the Netherlands?
+  a: Yes, though it is harder than for employed workers. Most lenders require at least 3 years of filed tax returns (aangiftes) and use an average of your last 1-3 years of net profit. Some specialist lenders accept 1-year self-employment history under certain conditions. An intentieverklaring (letter of intent) from your accountant does not replace income history for most mainstream lenders.
+- q: How much deposit do I need for a Dutch mortgage as an expat?
+  a: 'In the Netherlands, the maximum mortgage is 100% of the appraised property value (marktwaarde). This means you do not need a down payment on the mortgage itself, but you do need to cover transaction costs out of pocket: buyer''s agent fee (makelaar, roughly 1%), notary costs (€1,000-2,500), and transfer tax (overdrachtsbelasting, 2% for most buyers or 0% for first-time buyers under 35 on properties below €510,000 in 2026). Total closing costs are typically 3-5% of the purchase price.'
+- q: What is an intentieverklaring and do I need one?
+  a: An intentieverklaring is a letter from your employer stating their intention to offer you a permanent contract when your current temporary contract expires. It is used by expats on initial fixed-term contracts to demonstrate employment security to lenders. Not all lenders accept it with the same weight — some require an actual permanent contract. The letter's value depends heavily on the employer's credibility and the lender's policy.
+- q: Can my partner's foreign income be included in our joint mortgage?
+  a: Yes, dual-income mortgages where one or both partners earn abroad are possible, but the foreign income is assessed more conservatively. Lenders typically require documentation in the form of tax returns from the relevant country, employment contracts translated to Dutch or English, and sometimes a confirmation from a local accountant. The maximum mortgage for dual-income international couples is calculated based on the income lenders are willing to include.
+- q: Which banks are most expat-friendly for mortgages in the Netherlands?
+  a: ABN AMRO and ING have dedicated international teams with experience in expat mortgage applications. Rabobank is strong in many regions but less specialised for international cases. Several specialist mortgage advisors (hypotheekadviseurs) work specifically with expats and know which lenders are flexible on foreign income, temporary contracts, and 30% ruling calculations. Independer can connect you with advisors experienced in expat cases.
+schema_type: Article
 ---
 
 Buying a home in the Netherlands as an expat is one of the most financially significant — and practically complex — things you can do here. The Dutch mortgage market is large, reasonably competitive, and in theory open to anyone with sufficient income. In practice, foreign income, temporary contracts, and international complexity create real obstacles that trip up many expats who think they have sorted their finances only to be rejected at the final stage. Understanding the broader housing market context is also useful — the [Dutch housing crisis explained for expats](/guides/housing/dutch-housing-crisis-explained-expats-2026/) covers why properties sell quickly and how the regulatory framework affects what you can buy and borrow.

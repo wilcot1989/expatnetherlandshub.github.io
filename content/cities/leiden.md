@@ -1,11 +1,13 @@
 ---
-title: "Leiden Expat Guide 2026: Living, Working & Costs"
-description: "Complete expat guide to Leiden in 2026. Historic university town near The Hague, rent prices, best neighbourhoods, bio-science jobs, and practical expat tips."
-date: 2026-03-06T10:00:00+01:00
-lastmod: 2026-04-23T10:00:00+01:00
-featured_image: "/images/featured/leiden.webp"
-author: "Sarah van den Berg"
-categories: ["cities"]
+title: 'Leiden Expat Guide 2026: Living, Working & Costs'
+description: Complete expat guide to Leiden in 2026. Historic university town near The Hague, rent prices, best neighbourhoods, bio-science jobs, and practical expat tips.
+date: 2026-03-06 10:00:00+01:00
+lastmod: 2026-04-23 10:00:00+01:00
+featured_image: /images/featured/leiden.webp
+author: Sarah van den Berg
+categories:
+- cities
+schema_type: Article
 ---
 
 ## Leiden at a Glance

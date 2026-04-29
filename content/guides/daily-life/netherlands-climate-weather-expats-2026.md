@@ -1,32 +1,43 @@
 ---
-title: "Netherlands Climate and Weather: The Honest Expat Guide 2026"
-date: 2026-05-23T10:00:00+01:00
-lastmod: 2026-04-23T10:00:00+01:00
-description: "The honest truth about Dutch weather for expats: seasons, rain, grey winters, and how to survive — even enjoy — it all. Practical tips included."
-categories: ["daily-life"]
-tags: ["weather", "climate", "seasons", "winter", "rain"]
-keywords: ["netherlands weather expats", "dutch climate guide", "weather netherlands year round", "dutch winter expat"]
+title: 'Netherlands Climate and Weather: The Honest Expat Guide 2026'
+date: 2026-05-23 10:00:00+01:00
+lastmod: 2026-04-23 10:00:00+01:00
+description: 'The honest truth about Dutch weather for expats: seasons, rain, grey winters, and how to survive — even enjoy — it all. Practical tips included.'
+categories:
+- daily-life
+tags:
+- weather
+- climate
+- seasons
+- winter
+- rain
+keywords:
+- netherlands weather expats
+- dutch climate guide
+- weather netherlands year round
+- dutch winter expat
 affiliate: true
 products:
-  - name: "KPN"
-    url: "https://www.kpn.com/"
-    price: "0.00"
-author: "Sarah van den Berg"
-author_bio: "Expat coach and relocation specialist. Half Dutch, half British, living in the Netherlands for over 10 years."
-featured_image: "/images/categories/daily-life.svg"
+- name: KPN
+  url: https://www.kpn.com/
+  price: '0.00'
+author: Sarah van den Berg
+author_bio: Expat coach and relocation specialist. Half Dutch, half British, living in the Netherlands for over 10 years.
+featured_image: /images/categories/daily-life.svg
 faq:
-  - q: "Does it rain a lot in the Netherlands?"
-    a: "It rains more frequently than you might expect, but the total amount is less dramatic than the reputation suggests. Amsterdam receives around 800mm of rain per year — compared to London's 600mm, yes, but spread over many more rain days (around 130 per year). Dutch rain tends to be light drizzle rather than heavy downpours. Expect grey skies and occasional showers most months."
-  - q: "How cold are Dutch winters?"
-    a: "Dutch winters are grey and damp more than they are cold. Temperatures typically range from 0°C to 7°C from December through February. Frost is common overnight, but heavy snowfall is rare — perhaps one or two days per year in most areas. The wind makes it feel significantly colder than the thermometer suggests."
-  - q: "Does it snow in the Netherlands?"
-    a: "Yes, but not reliably. Most winters see a few days of light snow that often melts within hours. A proper snowfall that stays on the ground for more than a day or two happens perhaps once every few years. The Dutch have a near-mythical relationship with snow because of its rarity."
-  - q: "What is the Elfstedentocht?"
-    a: "The Elfstedentocht (Eleven Cities Tour) is a 200km ice skating race through the canals of Friesland. It can only take place when the ice is at least 15cm thick across the entire route — a rare event. The last one was held in 1997. It has become a symbol of Dutch winter nostalgia, and when conditions look promising, the entire country goes into a kind of collective excitement."
-  - q: "What should I pack for Dutch weather?"
-    a: "The key is layering and waterproofing. A good quality waterproof jacket is more useful than an umbrella (wind makes umbrellas impractical on a bike). Pack a mid-layer fleece, thermal underlayers for winter, and waterproof trousers if you cycle. Light summer clothing is useful for July and August. Good waterproof cycling shoes are worth the investment."
-  - q: "Is Seasonal Affective Disorder (SAD) common among expats in the Netherlands?"
-    a: "Very common. The combination of grey skies, limited daylight (as few as 8 hours in December), and often overcast conditions means many expats experience low mood, fatigue, and sleep disruption in winter. Vitamin D supplements, a daylight lamp, and keeping active outdoors — even on grey days — all help. If symptoms are serious, speak to a huisarts (GP)."
+- q: Does it rain a lot in the Netherlands?
+  a: It rains more frequently than you might expect, but the total amount is less dramatic than the reputation suggests. Amsterdam receives around 800mm of rain per year — compared to London's 600mm, yes, but spread over many more rain days (around 130 per year). Dutch rain tends to be light drizzle rather than heavy downpours. Expect grey skies and occasional showers most months.
+- q: How cold are Dutch winters?
+  a: Dutch winters are grey and damp more than they are cold. Temperatures typically range from 0°C to 7°C from December through February. Frost is common overnight, but heavy snowfall is rare — perhaps one or two days per year in most areas. The wind makes it feel significantly colder than the thermometer suggests.
+- q: Does it snow in the Netherlands?
+  a: Yes, but not reliably. Most winters see a few days of light snow that often melts within hours. A proper snowfall that stays on the ground for more than a day or two happens perhaps once every few years. The Dutch have a near-mythical relationship with snow because of its rarity.
+- q: What is the Elfstedentocht?
+  a: The Elfstedentocht (Eleven Cities Tour) is a 200km ice skating race through the canals of Friesland. It can only take place when the ice is at least 15cm thick across the entire route — a rare event. The last one was held in 1997. It has become a symbol of Dutch winter nostalgia, and when conditions look promising, the entire country goes into a kind of collective excitement.
+- q: What should I pack for Dutch weather?
+  a: The key is layering and waterproofing. A good quality waterproof jacket is more useful than an umbrella (wind makes umbrellas impractical on a bike). Pack a mid-layer fleece, thermal underlayers for winter, and waterproof trousers if you cycle. Light summer clothing is useful for July and August. Good waterproof cycling shoes are worth the investment.
+- q: Is Seasonal Affective Disorder (SAD) common among expats in the Netherlands?
+  a: Very common. The combination of grey skies, limited daylight (as few as 8 hours in December), and often overcast conditions means many expats experience low mood, fatigue, and sleep disruption in winter. Vitamin D supplements, a daylight lamp, and keeping active outdoors — even on grey days — all help. If symptoms are serious, speak to a huisarts (GP).
+schema_type: Article
 ---
 
 I moved to the Netherlands in early October. Nobody told me what was coming.

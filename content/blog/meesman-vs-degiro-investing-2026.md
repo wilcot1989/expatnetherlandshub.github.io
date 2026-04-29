@@ -1,31 +1,41 @@
 ---
-title: "Meesman vs DEGIRO: Best Dutch Investing 2026"
-description: "Meesman vs DEGIRO compared: fees, funds, ease of use, and which platform suits expats in the Netherlands best for long-term index fund investing in 2026."
+title: 'Meesman vs DEGIRO: Best Dutch Investing 2026'
+description: 'Meesman vs DEGIRO compared: fees, funds, ease of use, and which platform suits expats in the Netherlands best for long-term index fund investing in 2026.'
 date: 2026-03-22
-lastmod: 2026-04-23T10:00:00+01:00
-author: "Sarah van den Berg"
-author_bio: "Expat coach and writer at ExpatNetherlandsHub.com"
-categories: ["finance"]
-tags: ["meesman", "degiro", "investing", "netherlands", "expats", "ETF", "index funds", "comparison"]
-featured_image: "/images/categories/finance.svg"
+lastmod: 2026-04-23 10:00:00+01:00
+author: Sarah van den Berg
+author_bio: Expat coach and writer at ExpatNetherlandsHub.com
+categories:
+- finance
+tags:
+- meesman
+- degiro
+- investing
+- netherlands
+- expats
+- ETF
+- index funds
+- comparison
+featured_image: /images/categories/finance.svg
 affiliate: true
 draft: false
 faq:
-  - q: "Is Meesman or DEGIRO better for beginners?"
-    a: "Meesman is simpler — you choose a fund, set up a recurring investment, and leave it. DEGIRO gives more control but requires you to choose your own funds and manage purchases. For total beginners who want a hands-off approach, Meesman is typically the better starting point."
-  - q: "What are the fees on Meesman compared to DEGIRO?"
-    a: "Meesman charges an ongoing annual management fee of approximately 0.5% including all costs. DEGIRO has no annual fee but charges small transaction fees per order (typically €1–€3 per trade) plus ETF fund management fees (which vary by fund, often 0.07%–0.25%). For small monthly investments, Meesman can actually be cheaper."
-  - q: "Can expats with a temporary Dutch residence permit use Meesman and DEGIRO?"
-    a: "Both platforms require a Dutch address and bank account. DEGIRO accepts most EU residents. Meesman requires a Dutch bank account (such as ING, ABN AMRO, or Rabobank). Expats with a valid residence permit and registered address can generally use both."
-  - q: "Are Meesman and DEGIRO safe for my money?"
-    a: "Both are regulated in the Netherlands. DEGIRO is supervised by the Dutch AFM and DNB. Meesman funds are invested via Northern Trust and are legally separated from the company's own assets. Under EU investor compensation rules, investments are protected up to €20,000 per person in the event of insolvency."
-  - q: "Does DEGIRO offer Dutch-domiciled index funds like Meesman?"
-    a: "No. Meesman specifically offers Dutch-domiciled index funds, which have tax advantages for Dutch residents under Box 3 (the funds are classified as beleggingsfondsen rather than securities). DEGIRO offers ETFs and other exchange-traded products, which are treated differently under Dutch tax rules."
+- q: Is Meesman or DEGIRO better for beginners?
+  a: Meesman is simpler — you choose a fund, set up a recurring investment, and leave it. DEGIRO gives more control but requires you to choose your own funds and manage purchases. For total beginners who want a hands-off approach, Meesman is typically the better starting point.
+- q: What are the fees on Meesman compared to DEGIRO?
+  a: Meesman charges an ongoing annual management fee of approximately 0.5% including all costs. DEGIRO has no annual fee but charges small transaction fees per order (typically €1–€3 per trade) plus ETF fund management fees (which vary by fund, often 0.07%–0.25%). For small monthly investments, Meesman can actually be cheaper.
+- q: Can expats with a temporary Dutch residence permit use Meesman and DEGIRO?
+  a: Both platforms require a Dutch address and bank account. DEGIRO accepts most EU residents. Meesman requires a Dutch bank account (such as ING, ABN AMRO, or Rabobank). Expats with a valid residence permit and registered address can generally use both.
+- q: Are Meesman and DEGIRO safe for my money?
+  a: Both are regulated in the Netherlands. DEGIRO is supervised by the Dutch AFM and DNB. Meesman funds are invested via Northern Trust and are legally separated from the company's own assets. Under EU investor compensation rules, investments are protected up to €20,000 per person in the event of insolvency.
+- q: Does DEGIRO offer Dutch-domiciled index funds like Meesman?
+  a: No. Meesman specifically offers Dutch-domiciled index funds, which have tax advantages for Dutch residents under Box 3 (the funds are classified as beleggingsfondsen rather than securities). DEGIRO offers ETFs and other exchange-traded products, which are treated differently under Dutch tax rules.
 products:
-  - name: "Wise"
-    url: "https://go.expatnetherlandshub.com/wise?ref=/blog/meesman-vs-degiro-investing-2026/"
-    price: "0.00"
-    tag: "Currency Transfer"
+- name: Wise
+  url: https://go.expatnetherlandshub.com/wise?ref=/blog/meesman-vs-degiro-investing-2026/
+  price: '0.00'
+  tag: Currency Transfer
+schema_type: Article
 ---
 
 I've been investing in the Netherlands for several years now, and the Meesman vs DEGIRO question is one I see asked constantly in expat forums. They're two of the most popular platforms for long-term, passive investing in the Netherlands, but they work quite differently and suit different investing styles.

@@ -1,31 +1,41 @@
 ---
-title: "Diploma Recognition Netherlands: Expat Guide"
-description: "How to get your foreign diploma recognised in the Netherlands. I cover IDW, Nuffic, regulated professions, and practical steps for expats in 2026."
+title: 'Diploma Recognition Netherlands: Expat Guide'
+description: How to get your foreign diploma recognised in the Netherlands. I cover IDW, Nuffic, regulated professions, and practical steps for expats in 2026.
 date: 2026-03-22
-lastmod: 2026-04-23T10:00:00+01:00
-author: "Sarah van den Berg"
-author_bio: "Expat coach and writer at ExpatNetherlandsHub.com"
-categories: ["work"]
-tags: ["diploma recognition", "Netherlands", "expats", "Nuffic", "IDW", "credentials", "work", "qualifications"]
-featured_image: "/images/categories/work.svg"
+lastmod: 2026-04-23 10:00:00+01:00
+author: Sarah van den Berg
+author_bio: Expat coach and writer at ExpatNetherlandsHub.com
+categories:
+- work
+tags:
+- diploma recognition
+- Netherlands
+- expats
+- Nuffic
+- IDW
+- credentials
+- work
+- qualifications
+featured_image: /images/categories/work.svg
 affiliate: false
 draft: false
 faq:
-  - q: "How do I get my foreign degree recognised in the Netherlands?"
-    a: "For most jobs, you don't need formal recognition — you can simply explain your qualifications to employers. For regulated professions (medicine, law, nursing, teaching, etc.), recognition through the relevant Dutch authority is required. For other purposes, Nuffic's IDW service provides a credential evaluation that many employers and institutions accept."
-  - q: "What is Nuffic and what does IDW mean?"
-    a: "Nuffic is the Dutch organisation for internationalisation in education. IDW stands for Internationaal Diplomawaardering, which is Nuffic's diploma evaluation service. An IDW statement compares your foreign qualification to the Dutch equivalent, helping employers and institutions understand your educational level."
-  - q: "How long does diploma recognition take in the Netherlands?"
-    a: "An IDW evaluation from Nuffic typically takes 4–6 weeks for the standard service. Urgent processing takes approximately 3 weeks at additional cost. Recognition for regulated professions is handled by separate bodies and timelines vary — BIG registration for healthcare workers can take 3–12 months."
-  - q: "Is there a fee for diploma recognition in the Netherlands?"
-    a: "Yes. Nuffic's IDW statement costs approximately €100–€150 depending on the service level. Regulated profession recognition has separate fees set by the relevant authorities. BIG registration (healthcare) has different fee structures depending on the profession."
-  - q: "Do EU diplomas need to be recognised in the Netherlands?"
-    a: "EU diplomas are generally recognised under EU mutual recognition directives, particularly for regulated professions. For non-regulated work, Dutch employers typically accept EU qualifications based on the country and institution. However, some employers and institutions still request a Nuffic IDW statement for clarity."
+- q: How do I get my foreign degree recognised in the Netherlands?
+  a: For most jobs, you don't need formal recognition — you can simply explain your qualifications to employers. For regulated professions (medicine, law, nursing, teaching, etc.), recognition through the relevant Dutch authority is required. For other purposes, Nuffic's IDW service provides a credential evaluation that many employers and institutions accept.
+- q: What is Nuffic and what does IDW mean?
+  a: Nuffic is the Dutch organisation for internationalisation in education. IDW stands for Internationaal Diplomawaardering, which is Nuffic's diploma evaluation service. An IDW statement compares your foreign qualification to the Dutch equivalent, helping employers and institutions understand your educational level.
+- q: How long does diploma recognition take in the Netherlands?
+  a: An IDW evaluation from Nuffic typically takes 4–6 weeks for the standard service. Urgent processing takes approximately 3 weeks at additional cost. Recognition for regulated professions is handled by separate bodies and timelines vary — BIG registration for healthcare workers can take 3–12 months.
+- q: Is there a fee for diploma recognition in the Netherlands?
+  a: Yes. Nuffic's IDW statement costs approximately €100–€150 depending on the service level. Regulated profession recognition has separate fees set by the relevant authorities. BIG registration (healthcare) has different fee structures depending on the profession.
+- q: Do EU diplomas need to be recognised in the Netherlands?
+  a: EU diplomas are generally recognised under EU mutual recognition directives, particularly for regulated professions. For non-regulated work, Dutch employers typically accept EU qualifications based on the country and institution. However, some employers and institutions still request a Nuffic IDW statement for clarity.
 products:
-  - name: "Wise"
-    url: "https://go.expatnetherlandshub.com/wise?ref=/blog/diploma-recognition-netherlands-expats-2026/"
-    price: "0.00"
-    tag: "Currency Transfer"
+- name: Wise
+  url: https://go.expatnetherlandshub.com/wise?ref=/blog/diploma-recognition-netherlands-expats-2026/
+  price: '0.00'
+  tag: Currency Transfer
+schema_type: Article
 ---
 
 When I moved to the Netherlands, one of my first practical concerns was whether my qualifications would be understood and valued by Dutch employers. It turned out the answer depended a lot on what kind of work I wanted to do — and the same is true for most expats I speak to.

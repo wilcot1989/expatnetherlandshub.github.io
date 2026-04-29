@@ -1,34 +1,48 @@
 ---
-title: "Moving to Haarlem as an Expat: Complete City Guide 2026"
-date: 2026-03-07T10:00:00+01:00
-lastmod: 2026-04-23T10:00:00+01:00
-description: "Moving to Haarlem as an expat? Learn about neighbourhoods, housing costs, transport links, and schools in this charming Dutch city near Amsterdam."
-categories: ["housing"]
-tags: ["Haarlem", "city guide", "moving to Haarlem", "expat Haarlem"]
-keywords: ["moving to Haarlem as expat", "living in Haarlem Netherlands", "Haarlem expat guide 2026", "Haarlem housing costs", "Haarlem vs Amsterdam expats", "Haarlem neighbourhoods", "expat life Haarlem", "Haarlem rent prices 2026"]
+title: 'Moving to Haarlem as an Expat: Complete City Guide 2026'
+date: 2026-03-07 10:00:00+01:00
+lastmod: 2026-04-23 10:00:00+01:00
+description: Moving to Haarlem as an expat? Learn about neighbourhoods, housing costs, transport links, and schools in this charming Dutch city near Amsterdam.
+categories:
+- housing
+tags:
+- Haarlem
+- city guide
+- moving to Haarlem
+- expat Haarlem
+keywords:
+- moving to Haarlem as expat
+- living in Haarlem Netherlands
+- Haarlem expat guide 2026
+- Haarlem housing costs
+- Haarlem vs Amsterdam expats
+- Haarlem neighbourhoods
+- expat life Haarlem
+- Haarlem rent prices 2026
 affiliate: false
-author: "Sarah van den Berg"
-author_bio: "Expat coach and relocation specialist. Half Dutch, half British, living in the Netherlands for over 10 years."
-featured_image: "/images/featured/moving-to-haarlem-guide-2026.webp"
+author: Sarah van den Berg
+author_bio: Expat coach and relocation specialist. Half Dutch, half British, living in the Netherlands for over 10 years.
+featured_image: /images/featured/moving-to-haarlem-guide-2026.webp
 faq:
-  - q: "Is Haarlem a good place to live for expats?"
-    a: "Haarlem is an excellent choice for expats, particularly those who want Amsterdam's quality of life without the chaos and cost. The city has a growing international community, good transport links (15 minutes by direct train to Amsterdam Centraal), excellent cycling infrastructure, and a beautiful historic centre. English is widely spoken in shops, restaurants, and services. The main drawbacks are that the housing market has tightened significantly in recent years, and Haarlem lacks the depth of expat-specific services you find in Amsterdam or The Hague."
-  - q: "How much does it cost to rent an apartment in Haarlem in 2026?"
-    a: "Rent in Haarlem is noticeably lower than Amsterdam but has risen sharply in recent years due to demand from Amsterdam-priced-out renters. In 2026, expect to pay EUR 1,100-1,600 per month for a one-bedroom apartment in or near the Centrum, EUR 900-1,300 for a one-bedroom in outer neighbourhoods like Schalkwijk or Haarlem-Noord, and EUR 1,400-2,200 for a two-bedroom family apartment. Deposit is typically one to two months' rent. Budget EUR 3,000-4,000 upfront (first month plus deposit) for a typical one-bedroom."
-  - q: "How do I get from Haarlem to Amsterdam?"
-    a: "The train from Haarlem Centraal to Amsterdam Centraal runs every 10-15 minutes throughout the day and takes approximately 15-17 minutes. A single journey costs around EUR 4.70 with your OV-chipkaart. Monthly or annual train subscriptions significantly reduce the cost — a monthly subscription (Dal Vrij) costs around EUR 112 and gives unlimited off-peak travel. Cycling from Haarlem to Amsterdam via the dedicated cycle paths takes around 35-40 minutes for those who enjoy a longer ride."
-  - q: "Do I need to register at Haarlem gemeente separately if I am moving from another Dutch city?"
-    a: "Yes. If you are already registered in the Netherlands (with a BSN) and moving to Haarlem from another city, you must notify your new gemeente within 5 days of moving. Visit Gemeente Haarlem (Stadskantoor on Zijlweg) or use the online reporting system at haarlem.nl if you have a DigiD. Your registration transfers automatically. If you are arriving from abroad, you must register in person — bring your passport, rental contract, and birth certificate (apostilled). See our full guide to BSN registration."
+- q: Is Haarlem a good place to live for expats?
+  a: Haarlem is an excellent choice for expats, particularly those who want Amsterdam's quality of life without the chaos and cost. The city has a growing international community, good transport links (15 minutes by direct train to Amsterdam Centraal), excellent cycling infrastructure, and a beautiful historic centre. English is widely spoken in shops, restaurants, and services. The main drawbacks are that the housing market has tightened significantly in recent years, and Haarlem lacks the depth of expat-specific services you find in Amsterdam or The Hague.
+- q: How much does it cost to rent an apartment in Haarlem in 2026?
+  a: Rent in Haarlem is noticeably lower than Amsterdam but has risen sharply in recent years due to demand from Amsterdam-priced-out renters. In 2026, expect to pay EUR 1,100-1,600 per month for a one-bedroom apartment in or near the Centrum, EUR 900-1,300 for a one-bedroom in outer neighbourhoods like Schalkwijk or Haarlem-Noord, and EUR 1,400-2,200 for a two-bedroom family apartment. Deposit is typically one to two months' rent. Budget EUR 3,000-4,000 upfront (first month plus deposit) for a typical one-bedroom.
+- q: How do I get from Haarlem to Amsterdam?
+  a: The train from Haarlem Centraal to Amsterdam Centraal runs every 10-15 minutes throughout the day and takes approximately 15-17 minutes. A single journey costs around EUR 4.70 with your OV-chipkaart. Monthly or annual train subscriptions significantly reduce the cost — a monthly subscription (Dal Vrij) costs around EUR 112 and gives unlimited off-peak travel. Cycling from Haarlem to Amsterdam via the dedicated cycle paths takes around 35-40 minutes for those who enjoy a longer ride.
+- q: Do I need to register at Haarlem gemeente separately if I am moving from another Dutch city?
+  a: Yes. If you are already registered in the Netherlands (with a BSN) and moving to Haarlem from another city, you must notify your new gemeente within 5 days of moving. Visit Gemeente Haarlem (Stadskantoor on Zijlweg) or use the online reporting system at haarlem.nl if you have a DigiD. Your registration transfers automatically. If you are arriving from abroad, you must register in person — bring your passport, rental contract, and birth certificate (apostilled). See our full guide to BSN registration.
 products:
-  - name: "HousingAnywhere"
-    url: "https://housinganywhere.com/"
-    price: "0.00"
-  - name: "Pararius"
-    url: "https://www.pararius.com/"
-    price: "0.00"
-  - name: "Funda"
-    url: "https://www.funda.nl/"
-    price: "0.00"
+- name: HousingAnywhere
+  url: https://housinganywhere.com/
+  price: '0.00'
+- name: Pararius
+  url: https://www.pararius.com/
+  price: '0.00'
+- name: Funda
+  url: https://www.funda.nl/
+  price: '0.00'
+schema_type: Article
 ---
 
 The first time I visited Haarlem, I came on a Saturday afternoon from Amsterdam on a whim. I had been living in the Netherlands for about six months and was starting to feel like Amsterdam was slightly suffocating — the tourists, the noise, the rent. A colleague mentioned Haarlem in passing and I thought: it is fifteen minutes away, why not have a look?

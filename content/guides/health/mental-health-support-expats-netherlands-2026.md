@@ -1,37 +1,46 @@
 ---
-title: "Mental Health Support for Expats in the Netherlands (2026)"
-slug: "mental-health-support-expats-netherlands-2026"
-date: 2026-04-07T10:00:00+01:00
-lastmod: 2026-04-23T10:00:00+01:00
-categories: ["health"]
-type: "guide"
-author: "Sarah van den Berg"
-author_bio: "Expat coach and relocation specialist. Half Dutch, half British, living in the Netherlands for over 10 years."
-featured_image: "/images/featured/mental-health-support-expats-netherlands-2026.webp"
+title: Mental Health Support for Expats in the Netherlands (2026)
+slug: mental-health-support-expats-netherlands-2026
+date: 2026-04-07 10:00:00+01:00
+lastmod: 2026-04-23 10:00:00+01:00
+categories:
+- health
+type: guide
+author: Sarah van den Berg
+author_bio: Expat coach and relocation specialist. Half Dutch, half British, living in the Netherlands for over 10 years.
+featured_image: /images/featured/mental-health-support-expats-netherlands-2026.webp
 affiliate: true
 products:
-  - name: "SafetyWing"
-    url: "https://go.expatnetherlandshub.com/safetywing?ref=/guides/health/mental-health-support-expats-netherlands-2026/"
-    price: "45.08"
-  - name: "Cigna"
-    url: "https://www.cigna.nl/"
-    price: "0.00"
-  - name: "CZ"
-    url: "https://www.cz.nl/"
-    price: "0.00"
-description: "Mental health support for expats in the Netherlands: how the system works, English-speaking therapists, insurance, and crisis lines."
-tags: ["mental health", "expat", "therapy", "GGZ", "Netherlands", "health insurance", "English-speaking therapist"]
+- name: SafetyWing
+  url: https://go.expatnetherlandshub.com/safetywing?ref=/guides/health/mental-health-support-expats-netherlands-2026/
+  price: '45.08'
+- name: Cigna
+  url: https://www.cigna.nl/
+  price: '0.00'
+- name: CZ
+  url: https://www.cz.nl/
+  price: '0.00'
+description: 'Mental health support for expats in the Netherlands: how the system works, English-speaking therapists, insurance, and crisis lines.'
+tags:
+- mental health
+- expat
+- therapy
+- GGZ
+- Netherlands
+- health insurance
+- English-speaking therapist
 faq:
-  - q: "Can I see a therapist in English in the Netherlands?"
-    a: "Yes. Many therapists in the Netherlands offer sessions in English, particularly in cities like Amsterdam, Rotterdam, The Hague, and Eindhoven. Directories like the NVPA, OpenUp, and expat-specific platforms list English-speaking practitioners."
-  - q: "Does Dutch health insurance cover therapy?"
-    a: "Yes, but with conditions. A referral from your huisarts (GP) is required. Basic Dutch insurance (basisverzekering) covers GGZ treatment once you have met your annual deductible (eigen risico, €385 in 2026). Short-term counselling through a POH-GGZ at your GP practice is free of additional charge."
-  - q: "What should I do if I am in a mental health crisis in the Netherlands?"
-    a: "Call 113 (Zelfmoordpreventie / Suicide Prevention) for free, 24/7. You can also call or chat on 0800-0113. For immediate danger to life, call 112. Sensoor offers emotional support at 0900-0767 (charged at standard rate)."
-  - q: "How long is the waiting list for mental health treatment in the Netherlands?"
-    a: "Waiting times vary widely. Short-term support via your GP's POH-GGZ can often start within a few weeks. Specialist GGZ (outpatient mental health care) has waiting times ranging from a few weeks to over six months at some providers. Private therapists tend to have shorter waiting times."
-  - q: "Can I use online therapy in the Netherlands?"
-    a: "Yes. Platforms such as OpenUp, iPractice, and Therapieland offer online or blended (online + in-person) therapy. Some are covered by basic insurance with a GP referral. OpenUp in particular targets international professionals and offers English-language sessions."
+- q: Can I see a therapist in English in the Netherlands?
+  a: Yes. Many therapists in the Netherlands offer sessions in English, particularly in cities like Amsterdam, Rotterdam, The Hague, and Eindhoven. Directories like the NVPA, OpenUp, and expat-specific platforms list English-speaking practitioners.
+- q: Does Dutch health insurance cover therapy?
+  a: Yes, but with conditions. A referral from your huisarts (GP) is required. Basic Dutch insurance (basisverzekering) covers GGZ treatment once you have met your annual deductible (eigen risico, €385 in 2026). Short-term counselling through a POH-GGZ at your GP practice is free of additional charge.
+- q: What should I do if I am in a mental health crisis in the Netherlands?
+  a: Call 113 (Zelfmoordpreventie / Suicide Prevention) for free, 24/7. You can also call or chat on 0800-0113. For immediate danger to life, call 112. Sensoor offers emotional support at 0900-0767 (charged at standard rate).
+- q: How long is the waiting list for mental health treatment in the Netherlands?
+  a: Waiting times vary widely. Short-term support via your GP's POH-GGZ can often start within a few weeks. Specialist GGZ (outpatient mental health care) has waiting times ranging from a few weeks to over six months at some providers. Private therapists tend to have shorter waiting times.
+- q: Can I use online therapy in the Netherlands?
+  a: Yes. Platforms such as OpenUp, iPractice, and Therapieland offer online or blended (online + in-person) therapy. Some are covered by basic insurance with a GP referral. OpenUp in particular targets international professionals and offers English-language sessions.
+schema_type: Article
 ---
 
 When I moved from London to Rotterdam eleven years ago, I thought I had it all sorted. I had a job lined up, a flat, a Dutch boyfriend who could translate anything I didn't understand. What I hadn't planned for was the particular flavour of loneliness that arrives about three months in — after the novelty wears off and before the roots have grown in. I didn't feel sad exactly. I felt invisible.

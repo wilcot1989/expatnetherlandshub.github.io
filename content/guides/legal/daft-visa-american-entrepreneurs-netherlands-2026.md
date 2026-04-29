@@ -1,40 +1,42 @@
 ---
-title: "DAFT Visa Netherlands: American Entrepreneurs"
-slug: "daft-visa-american-entrepreneurs-netherlands-2026"
-date: 2026-03-18T10:00:00+01:00
-lastmod: 2026-04-23T10:00:00+01:00
-description: "The DAFT visa lets American entrepreneurs live and work in the Netherlands self-employed. Requirements, costs, process, and common mistakes explained."
-categories: ["legal"]
-type: "guide"
-author: "Sarah van den Berg"
-author_bio: "Expat coach and relocation specialist. Half Dutch, half British, living in the Netherlands for over 10 years."
-featured_image: "/images/categories/legal.svg"
+title: 'DAFT Visa Netherlands: American Entrepreneurs'
+slug: daft-visa-american-entrepreneurs-netherlands-2026
+date: 2026-03-18 10:00:00+01:00
+lastmod: 2026-04-23 10:00:00+01:00
+description: The DAFT visa lets American entrepreneurs live and work in the Netherlands self-employed. Requirements, costs, process, and common mistakes explained.
+categories:
+- legal
+type: guide
+author: Sarah van den Berg
+author_bio: Expat coach and relocation specialist. Half Dutch, half British, living in the Netherlands for over 10 years.
+featured_image: /images/categories/legal.svg
 affiliate: true
 products:
-  - name: "Expatax"
-    url: "https://www.expatax.nl/"
-    price: "0.00"
-  - name: "Blue Umbrella"
-    url: "https://www.blueumbrella.nl/"
-    price: "0.00"
-  - name: "IND"
-    url: "https://ind.nl/en"
-    price: "0.00"
+- name: Expatax
+  url: https://www.expatax.nl/
+  price: '0.00'
+- name: Blue Umbrella
+  url: https://www.blueumbrella.nl/
+  price: '0.00'
+- name: IND
+  url: https://ind.nl/en
+  price: '0.00'
 faq:
-  - q: "Who qualifies for the DAFT visa?"
-    a: "Only United States citizens. The Dutch-American Friendship Treaty (DAFT) is a bilateral agreement between the Netherlands and the USA. It is not available to other nationalities. US passport holders of any background qualify — you do not need to be born in the US, only hold US citizenship."
-  - q: "How much money do I need for the DAFT visa?"
-    a: "You must deposit €4,500 into a Dutch business bank account and show it as working capital for your business. This amount has been stable for several years but is subject to IND review. The deposit remains yours — it is not a fee — but must stay in the account and be demonstrably available as business capital."
-  - q: "Can I work for a Dutch employer on a DAFT visa?"
-    a: "No. The DAFT visa is specifically for self-employed entrepreneurs. You cannot use it to take a job as an employee. You must operate your own business, registered with the KvK (Chamber of Commerce). If you want to work as an employee, you need a different route — typically the highly skilled migrant visa, which requires an IND-recognised sponsor employer."
-  - q: "How long does the DAFT application take?"
-    a: "The full process typically takes three to six months from initial application to receiving your residence permit. The first step — the provisional residence permit (MVV) from the US consulate — takes four to eight weeks. The IND then processes the residence permit application within 90 days. Plan for at least four months and ideally six before you need to start operating."
-  - q: "Can my spouse or partner come with me on a DAFT visa?"
-    a: "Yes. Your spouse or registered partner can apply for a dependent residence permit. This gives them the right to live in the Netherlands and to work — either employed or self-employed — without needing their own work permit. Children under 18 can also come as dependents."
-  - q: "Does the DAFT visa lead to permanent residency?"
-    a: "Yes. After five years of continuous legal residence in the Netherlands, you can apply for permanent residency. After five years of residence you can also apply for Dutch citizenship, provided you meet the language and integration requirements. The DAFT visa years count toward both."
-  - q: "What happens to the €4,500 deposit?"
-    a: "The €4,500 stays in your Dutch business bank account as working capital. It does not get paid to any authority — it is your money. The IND needs to see that it is there and available. You can use the business account normally as your business operates, but the working capital needs to be demonstrable at the time of application and at renewals."
+- q: Who qualifies for the DAFT visa?
+  a: Only United States citizens. The Dutch-American Friendship Treaty (DAFT) is a bilateral agreement between the Netherlands and the USA. It is not available to other nationalities. US passport holders of any background qualify — you do not need to be born in the US, only hold US citizenship.
+- q: How much money do I need for the DAFT visa?
+  a: You must deposit €4,500 into a Dutch business bank account and show it as working capital for your business. This amount has been stable for several years but is subject to IND review. The deposit remains yours — it is not a fee — but must stay in the account and be demonstrably available as business capital.
+- q: Can I work for a Dutch employer on a DAFT visa?
+  a: No. The DAFT visa is specifically for self-employed entrepreneurs. You cannot use it to take a job as an employee. You must operate your own business, registered with the KvK (Chamber of Commerce). If you want to work as an employee, you need a different route — typically the highly skilled migrant visa, which requires an IND-recognised sponsor employer.
+- q: How long does the DAFT application take?
+  a: The full process typically takes three to six months from initial application to receiving your residence permit. The first step — the provisional residence permit (MVV) from the US consulate — takes four to eight weeks. The IND then processes the residence permit application within 90 days. Plan for at least four months and ideally six before you need to start operating.
+- q: Can my spouse or partner come with me on a DAFT visa?
+  a: Yes. Your spouse or registered partner can apply for a dependent residence permit. This gives them the right to live in the Netherlands and to work — either employed or self-employed — without needing their own work permit. Children under 18 can also come as dependents.
+- q: Does the DAFT visa lead to permanent residency?
+  a: Yes. After five years of continuous legal residence in the Netherlands, you can apply for permanent residency. After five years of residence you can also apply for Dutch citizenship, provided you meet the language and integration requirements. The DAFT visa years count toward both.
+- q: What happens to the €4,500 deposit?
+  a: The €4,500 stays in your Dutch business bank account as working capital. It does not get paid to any authority — it is your money. The IND needs to see that it is there and available. You can use the business account normally as your business operates, but the working capital needs to be demonstrable at the time of application and at renewals.
+schema_type: Article
 ---
 
 The Dutch-American Friendship Treaty is one of the most accessible routes for American entrepreneurs who want to move to the Netherlands and run their own business. It does not require a Dutch employer, a minimum salary, or a degree. It requires a business plan, a KvK registration, and €4,500 of working capital. If you are a US citizen with a real business idea and the willingness to deal with Dutch bureaucracy, this visa is achievable.

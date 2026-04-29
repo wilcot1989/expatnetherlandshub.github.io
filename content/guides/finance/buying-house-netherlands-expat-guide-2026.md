@@ -1,40 +1,61 @@
 ---
-title: "Buying a House in the Netherlands: Expat Guide 2026"
-date: 2026-03-18T10:00:00+01:00
-lastmod: 2026-04-23T10:00:00+01:00
-description: "Buying a house in the Netherlands as an expat in 2026: the full process, costs, overbidding, mortgages, and the mistakes to avoid."
-categories: ["finance"]
-tags: ["buying house netherlands", "expat property", "koopwoning", "dutch housing market", "expat mortgage", "makelaar", "notaris", "overbieden"]
-keywords: ["buying house netherlands expat 2026", "overdrachtsbelasting 2026", "koopovereenkomst netherlands", "overbieden netherlands 2026", "aankoopmakelaar expat", "bouwkundige keuring netherlands", "notaris costs buying house netherlands", "expat buying property netherlands", "NHG 2026 house purchase", "ontbindende voorwaarden explained", "first time buyer netherlands expat"]
+title: 'Buying a House in the Netherlands: Expat Guide 2026'
+date: 2026-03-18 10:00:00+01:00
+lastmod: 2026-04-23 10:00:00+01:00
+description: 'Buying a house in the Netherlands as an expat in 2026: the full process, costs, overbidding, mortgages, and the mistakes to avoid.'
+categories:
+- finance
+tags:
+- buying house netherlands
+- expat property
+- koopwoning
+- dutch housing market
+- expat mortgage
+- makelaar
+- notaris
+- overbieden
+keywords:
+- buying house netherlands expat 2026
+- overdrachtsbelasting 2026
+- koopovereenkomst netherlands
+- overbieden netherlands 2026
+- aankoopmakelaar expat
+- bouwkundige keuring netherlands
+- notaris costs buying house netherlands
+- expat buying property netherlands
+- NHG 2026 house purchase
+- ontbindende voorwaarden explained
+- first time buyer netherlands expat
 affiliate: true
-author: "Sarah van den Berg"
-author_bio: "Expat coach and relocation specialist. Half Dutch, half British, living in the Netherlands for over 10 years."
-featured_image: "/images/categories/finance.svg"
+author: Sarah van den Berg
+author_bio: Expat coach and relocation specialist. Half Dutch, half British, living in the Netherlands for over 10 years.
+featured_image: /images/categories/finance.svg
 products:
-  - name: "Wise"
-    url: "https://go.expatnetherlandshub.com/wise?ref=/guides/finance/buying-house-netherlands-expat-guide-2026/"
-    price: "0.00"
-  - name: "bunq"
-    url: "https://www.bunq.com/"
-    price: "2.99"
-  - name: "ING"
-    url: "https://www.ing.nl/particulier"
-    price: "0.00"
+- name: Wise
+  url: https://go.expatnetherlandshub.com/wise?ref=/guides/finance/buying-house-netherlands-expat-guide-2026/
+  price: '0.00'
+- name: bunq
+  url: https://www.bunq.com/
+  price: '2.99'
+- name: ING
+  url: https://www.ing.nl/particulier
+  price: '0.00'
 faq:
-  - q: "Can expats buy property in the Netherlands?"
-    a: "Yes, absolutely. The Netherlands places no restrictions on foreign nationals buying property. Whether you are an EU citizen or hold a non-EU residence permit, you have the same right to purchase as a Dutch citizen. The only practical requirements are the financial ones: sufficient income and savings to qualify for a mortgage and cover the purchase costs. You do not need a permanent residence permit or Dutch nationality."
-  - q: "How much does it cost to buy a house in the Netherlands beyond the purchase price?"
-    a: "Budget for roughly 4–6% of the purchase price in additional costs. The main items are: overdrachtsbelasting (transfer tax) at 2% of the purchase price for a primary residence; notary fees of approximately €1,500–€2,500; a valuation report (taxatierapport) at €400–€600; and optionally a structural survey (bouwkundige keuring) at €300–€500 and a buyer's agent fee (aankoopmakelaar) of 1–2% plus VAT. None of these costs can be rolled into your mortgage — they must come from your own savings."
-  - q: "What is overbieden and how much should I bid over the asking price?"
-    a: "Overbieden means bidding above the asking price. In the Netherlands, asking prices are often set below market value deliberately, and the final sale price is determined by what buyers are willing to pay. In competitive cities like Amsterdam, Utrecht, and The Hague, winning bids regularly come in 10–20% above the asking price. In smaller cities and quieter markets, overbidding is less extreme, but still common. There is no universal rule for how much to bid — your buyer's agent (aankoopmakelaar) will advise based on comparable sales in the area."
-  - q: "What are ontbindende voorwaarden and why are they important?"
-    a: "Ontbindende voorwaarden are 'resolutive conditions' built into the preliminary purchase agreement (koopovereenkomst). The most important for most buyers are the financing clause (financieringsvoorbehoud), which lets you withdraw without penalty if you cannot secure your mortgage within the agreed period, and the structural survey clause (bouwkundige keuring), which allows withdrawal if the survey reveals problems beyond a pre-agreed cost threshold. Without these clauses, you risk losing your 10% deposit if the mortgage falls through or serious structural problems emerge. Never sign without them unless you have expert advice saying otherwise."
-  - q: "Does the 30% ruling affect my ability to buy a house in the Netherlands?"
-    a: "Yes, indirectly. The 30% ruling reduces your taxable income to 70% of your gross salary, and most standard Dutch banks calculate your mortgage borrowing capacity based on taxable income rather than gross income. This can reduce your maximum mortgage by a significant amount. However, specialist expat mortgage advisors have access to lenders who calculate on full gross salary for 30% ruling holders. This is one of the most important reasons to use a specialist advisor rather than going directly to your bank. See our full guide on the 30% ruling for details."
-  - q: "Do I need a BSN number to buy a house in the Netherlands?"
-    a: "Yes, you need a BSN (Burgerservicenummer) before you can complete a property purchase. Your BSN is required by the notary for the property transfer, by the mortgage lender for the application, and for registering the purchase with the Kadaster (Dutch Land Registry). If you do not have a BSN yet, read our BSN registration guide before you begin your property search."
-  - q: "Is it better to rent or buy as an expat in the Netherlands in 2026?"
-    a: "It depends entirely on your situation. Buying generally makes more financial sense than renting if you plan to stay for at least 4–5 years, because the transaction costs (around 4–6% of the purchase price) need time to be recouped through price appreciation and the savings from not paying rent. If you are unsure about staying, or if your income is variable, renting gives you flexibility that has real value. The Dutch rental market has tightened significantly in recent years, so renting is increasingly expensive — but that does not automatically make buying the right decision for everyone."
+- q: Can expats buy property in the Netherlands?
+  a: 'Yes, absolutely. The Netherlands places no restrictions on foreign nationals buying property. Whether you are an EU citizen or hold a non-EU residence permit, you have the same right to purchase as a Dutch citizen. The only practical requirements are the financial ones: sufficient income and savings to qualify for a mortgage and cover the purchase costs. You do not need a permanent residence permit or Dutch nationality.'
+- q: How much does it cost to buy a house in the Netherlands beyond the purchase price?
+  a: 'Budget for roughly 4–6% of the purchase price in additional costs. The main items are: overdrachtsbelasting (transfer tax) at 2% of the purchase price for a primary residence; notary fees of approximately €1,500–€2,500; a valuation report (taxatierapport) at €400–€600; and optionally a structural survey (bouwkundige keuring) at €300–€500 and a buyer''s agent fee (aankoopmakelaar) of 1–2% plus VAT. None of these costs can be rolled into your mortgage — they must come from your own savings.'
+- q: What is overbieden and how much should I bid over the asking price?
+  a: Overbieden means bidding above the asking price. In the Netherlands, asking prices are often set below market value deliberately, and the final sale price is determined by what buyers are willing to pay. In competitive cities like Amsterdam, Utrecht, and The Hague, winning bids regularly come in 10–20% above the asking price. In smaller cities and quieter markets, overbidding is less extreme, but still common. There is no universal rule for how much to bid — your buyer's agent (aankoopmakelaar) will advise based on comparable sales in the area.
+- q: What are ontbindende voorwaarden and why are they important?
+  a: Ontbindende voorwaarden are 'resolutive conditions' built into the preliminary purchase agreement (koopovereenkomst). The most important for most buyers are the financing clause (financieringsvoorbehoud), which lets you withdraw without penalty if you cannot secure your mortgage within the agreed period, and the structural survey clause (bouwkundige keuring), which allows withdrawal if the survey reveals problems beyond a pre-agreed cost threshold. Without these clauses, you risk losing your 10% deposit if the mortgage falls through or serious structural problems emerge. Never sign without them unless you have expert advice saying otherwise.
+- q: Does the 30% ruling affect my ability to buy a house in the Netherlands?
+  a: Yes, indirectly. The 30% ruling reduces your taxable income to 70% of your gross salary, and most standard Dutch banks calculate your mortgage borrowing capacity based on taxable income rather than gross income. This can reduce your maximum mortgage by a significant amount. However, specialist expat mortgage advisors have access to lenders who calculate on full gross salary for 30% ruling holders. This is one of the most important reasons to use a specialist advisor rather than going directly to your bank. See our full guide on the 30% ruling for details.
+- q: Do I need a BSN number to buy a house in the Netherlands?
+  a: Yes, you need a BSN (Burgerservicenummer) before you can complete a property purchase. Your BSN is required by the notary for the property transfer, by the mortgage lender for the application, and for registering the purchase with the Kadaster (Dutch Land Registry). If you do not have a BSN yet, read our BSN registration guide before you begin your property search.
+- q: Is it better to rent or buy as an expat in the Netherlands in 2026?
+  a: It depends entirely on your situation. Buying generally makes more financial sense than renting if you plan to stay for at least 4–5 years, because the transaction costs (around 4–6% of the purchase price) need time to be recouped through price appreciation and the savings from not paying rent. If you are unsure about staying, or if your income is variable, renting gives you flexibility that has real value. The Dutch rental market has tightened significantly in recent years, so renting is increasingly expensive — but that does not automatically make buying the right decision for everyone.
+schema_type: Article
 ---
 
 My clients Priya and David had been renting in Utrecht for two years when they decided to buy. Both worked at a tech company — good salaries, stable contracts, a reasonable savings pot. They found a house they loved, went to a viewings afternoon, and came away convinced they would make an offer.

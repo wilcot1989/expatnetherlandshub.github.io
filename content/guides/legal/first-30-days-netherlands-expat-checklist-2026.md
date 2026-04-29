@@ -1,40 +1,52 @@
 ---
-title: "First 30 Days in the Netherlands: Checklist 2026"
-date: 2026-05-07T10:00:00+01:00
-lastmod: 2026-04-23T10:00:00+01:00
-description: "Arrived in the Netherlands? The exact day-by-day checklist: gemeente registration, BSN, DigiD, health insurance, banking, and more — for every new expat."
-categories: ["legal"]
-tags: ["checklist", "first days", "moving", "registration", "BSN", "DigiD"]
-keywords: ["first 30 days netherlands expat", "what to do first netherlands", "expat checklist netherlands 2026", "settling in netherlands"]
+title: 'First 30 Days in the Netherlands: Checklist 2026'
+date: 2026-05-07 10:00:00+01:00
+lastmod: 2026-04-23 10:00:00+01:00
+description: 'Arrived in the Netherlands? The exact day-by-day checklist: gemeente registration, BSN, DigiD, health insurance, banking, and more — for every new expat.'
+categories:
+- legal
+tags:
+- checklist
+- first days
+- moving
+- registration
+- BSN
+- DigiD
+keywords:
+- first 30 days netherlands expat
+- what to do first netherlands
+- expat checklist netherlands 2026
+- settling in netherlands
 affiliate: true
 products:
-  - name: "IND"
-    url: "https://ind.nl/en"
-    price: "0.00"
-  - name: "Expatax"
-    url: "https://www.expatax.nl/"
-    price: "0.00"
-  - name: "Wise"
-    url: "https://go.expatnetherlandshub.com/wise?ref=/guides/legal/first-30-days-netherlands-expat-checklist-2026/"
-    price: "0.00"
-author: "Sarah van den Berg"
-author_bio: "Expat coach and relocation specialist. Half Dutch, half British, living in the Netherlands for over 10 years."
-featured_image: "/images/categories/legal.svg"
+- name: IND
+  url: https://ind.nl/en
+  price: '0.00'
+- name: Expatax
+  url: https://www.expatax.nl/
+  price: '0.00'
+- name: Wise
+  url: https://go.expatnetherlandshub.com/wise?ref=/guides/legal/first-30-days-netherlands-expat-checklist-2026/
+  price: '0.00'
+author: Sarah van den Berg
+author_bio: Expat coach and relocation specialist. Half Dutch, half British, living in the Netherlands for over 10 years.
+featured_image: /images/categories/legal.svg
 faq:
-  - q: "What is the very first thing I should do when I arrive in the Netherlands?"
-    a: "Book your gemeente (municipality) registration appointment on day one, even before you have unpacked. In cities like Amsterdam and Rotterdam, appointments can be 4-6 weeks out. The earlier you book it, the sooner you get your BSN — and everything else depends on your BSN: your bank account, DigiD, health insurance, and GP registration."
-  - q: "How long does it take to get a BSN number in the Netherlands?"
-    a: "You receive your BSN immediately at the end of your registration appointment. The wait is getting the appointment itself. In Amsterdam, waits of 4-6 weeks are common. Smaller cities like Delft, Breda, or Groningen can often accommodate you within 1-2 weeks. Book the earliest slot available as soon as you have a confirmed address."
-  - q: "Do I need health insurance from day one in the Netherlands?"
-    a: "Yes, if you are working in the Netherlands from day one. Dutch law requires you to take out a Dutch basisverzekering (basic health insurance) within 4 months of becoming legally resident or starting work. However, that 4-month window does not mean you should wait — I recommend sorting it in week one. In the gap before your Dutch insurance starts, a temporary policy from SafetyWing gives you coverage."
-  - q: "Can I open a Dutch bank account before I have a BSN?"
-    a: "Most traditional Dutch banks (ING, ABN AMRO, Rabobank) require a BSN. However, Wise allows you to open an account and receive your Dutch IBAN before you have a BSN, which is extremely useful in the first weeks. Bunq also has a more flexible onboarding. My full recommendation is in the best bank accounts for expats guide."
-  - q: "What is DigiD and why do I need it?"
-    a: "DigiD is the Dutch digital identity system used to log in to virtually every government website: health insurance portals, the Belastingdienst (tax authority), housing benefit applications, and more. You can only apply for DigiD after you have your BSN, and it takes around 5 business days to receive the activation letter by post. Apply the same day you get your BSN."
-  - q: "What is the 30% ruling and when should I apply?"
-    a: "The 30% ruling is a tax benefit for highly skilled migrants recruited from abroad, allowing your employer to pay 30% of your salary as a tax-free allowance. Your employer must apply within 4 months of your start date — if they miss this window, you lose the benefit permanently. Raise it with your HR department in week one, not week eight."
-  - q: "Do I need to register for inburgering (civic integration) as an expat?"
-    a: "It depends on your nationality and permit type. Non-EU nationals who are not highly skilled migrants or family members of EU citizens are typically required to complete an inburgeringstraject (civic integration programme). EU citizens and highly skilled migrants are generally exempt. Check your letter from the IND or ask your gemeente — the obligation and deadlines are personal to your situation."
+- q: What is the very first thing I should do when I arrive in the Netherlands?
+  a: 'Book your gemeente (municipality) registration appointment on day one, even before you have unpacked. In cities like Amsterdam and Rotterdam, appointments can be 4-6 weeks out. The earlier you book it, the sooner you get your BSN — and everything else depends on your BSN: your bank account, DigiD, health insurance, and GP registration.'
+- q: How long does it take to get a BSN number in the Netherlands?
+  a: You receive your BSN immediately at the end of your registration appointment. The wait is getting the appointment itself. In Amsterdam, waits of 4-6 weeks are common. Smaller cities like Delft, Breda, or Groningen can often accommodate you within 1-2 weeks. Book the earliest slot available as soon as you have a confirmed address.
+- q: Do I need health insurance from day one in the Netherlands?
+  a: Yes, if you are working in the Netherlands from day one. Dutch law requires you to take out a Dutch basisverzekering (basic health insurance) within 4 months of becoming legally resident or starting work. However, that 4-month window does not mean you should wait — I recommend sorting it in week one. In the gap before your Dutch insurance starts, a temporary policy from SafetyWing gives you coverage.
+- q: Can I open a Dutch bank account before I have a BSN?
+  a: Most traditional Dutch banks (ING, ABN AMRO, Rabobank) require a BSN. However, Wise allows you to open an account and receive your Dutch IBAN before you have a BSN, which is extremely useful in the first weeks. Bunq also has a more flexible onboarding. My full recommendation is in the best bank accounts for expats guide.
+- q: What is DigiD and why do I need it?
+  a: 'DigiD is the Dutch digital identity system used to log in to virtually every government website: health insurance portals, the Belastingdienst (tax authority), housing benefit applications, and more. You can only apply for DigiD after you have your BSN, and it takes around 5 business days to receive the activation letter by post. Apply the same day you get your BSN.'
+- q: What is the 30% ruling and when should I apply?
+  a: The 30% ruling is a tax benefit for highly skilled migrants recruited from abroad, allowing your employer to pay 30% of your salary as a tax-free allowance. Your employer must apply within 4 months of your start date — if they miss this window, you lose the benefit permanently. Raise it with your HR department in week one, not week eight.
+- q: Do I need to register for inburgering (civic integration) as an expat?
+  a: It depends on your nationality and permit type. Non-EU nationals who are not highly skilled migrants or family members of EU citizens are typically required to complete an inburgeringstraject (civic integration programme). EU citizens and highly skilled migrants are generally exempt. Check your letter from the IND or ask your gemeente — the obligation and deadlines are personal to your situation.
+schema_type: Article
 ---
 
 When I first arrived in the Netherlands, I made every mistake there was to make. I spent my first two days unpacking and exploring the city before I even thought about the gemeente. The result: a five-week wait for a BSN appointment, no bank account for six weeks, and a very expensive lesson in Dutch administrative sequencing.

@@ -1,34 +1,47 @@
 ---
-title: "Moving to NL with Kids: School Guide 2026"
-date: 2026-03-18T10:00:00+01:00
-lastmod: 2026-04-23T10:00:00+01:00
-description: "Schooling guide when moving to the Netherlands with children 2026. Dutch vs international schools, costs, waiting lists, and what expat parents need."
-categories: ["daily-life"]
-tags: ["schools Netherlands", "international schools", "Dutch schools", "expat kids", "basisschool", "education Netherlands"]
-keywords: ["moving netherlands with kids schools", "international school netherlands", "dutch school expat child", "basisschool expat netherlands", "school waiting list netherlands"]
+title: 'Moving to NL with Kids: School Guide 2026'
+date: 2026-03-18 10:00:00+01:00
+lastmod: 2026-04-23 10:00:00+01:00
+description: Schooling guide when moving to the Netherlands with children 2026. Dutch vs international schools, costs, waiting lists, and what expat parents need.
+categories:
+- daily-life
+tags:
+- schools Netherlands
+- international schools
+- Dutch schools
+- expat kids
+- basisschool
+- education Netherlands
+keywords:
+- moving netherlands with kids schools
+- international school netherlands
+- dutch school expat child
+- basisschool expat netherlands
+- school waiting list netherlands
 affiliate: true
 products:
-  - name: "KPN"
-    url: "https://www.kpn.com/"
-    price: "0.00"
-author: "Sarah van den Berg"
-author_bio: "Expat coach and relocation specialist. Half Dutch, half British, living in the Netherlands for over 10 years."
-featured_image: "/images/categories/daily-life.svg"
+- name: KPN
+  url: https://www.kpn.com/
+  price: '0.00'
+author: Sarah van den Berg
+author_bio: Expat coach and relocation specialist. Half Dutch, half British, living in the Netherlands for over 10 years.
+featured_image: /images/categories/daily-life.svg
 faq:
-  - q: "What age do Dutch children start school?"
-    a: "Dutch children can start basisschool (primary school) at age 4. Attendance is compulsory from age 5. Most children start at 4, as schools typically accept 4-year-olds on a rolling basis throughout the year — children often start the week after their fourth birthday rather than waiting for the academic year to begin. Secondary school (middelbare school) starts at age 12 after completing basisschool."
-  - q: "How long are waiting lists for international schools in the Netherlands?"
-    a: "Waiting lists at established international schools in Amsterdam, The Hague, and Rotterdam can be very long — often 1–3 years for popular schools. The British School in the Netherlands (BSN), Amsterdam International Community School (AICS), the International School of The Hague (ISH), and similar institutions regularly have waiting lists running years ahead. Register as early as possible — some parents register before their child is born if they know they will be moving to the Netherlands. For a move with less than 12 months notice, be prepared for the possibility that your first-choice international school may not have space."
-  - q: "Do Dutch state schools teach in English?"
-    a: "Most Dutch state schools (basisscholen) teach in Dutch. There are some bilingual schools (tweetalige scholen) that offer half Dutch, half English instruction, which are popular with expat families but also have waiting lists. The international schools (primarily in Amsterdam, The Hague, Utrecht, Eindhoven, and Rotterdam) teach in English or other languages and follow international curricula (IB, British, American). Outside major expat cities, international schooling options are limited."
-  - q: "How much does a Dutch international school cost?"
-    a: "Dutch international schools charge tuition fees typically ranging from EUR 5,000–25,000 per year per child depending on school, level, and year group. The British School in the Netherlands charges approximately EUR 14,000–22,000 per year. The Amsterdam International Community School is approximately EUR 12,000–18,000. The International School of The Hague is approximately EUR 11,000–20,000. State Dutch schools are free. Some international schools also charge registration fees (EUR 200–2,000) and may require a deposit."
-  - q: "What is the Cito toets and how does it affect expat children?"
-    a: "The Cito toets (officially the Eindtoets Basisonderwijs) is a standardised test taken by Dutch children in their final year of basisschool (typically age 11–12). Results, combined with the teacher's school advice (schooladvies), determine which level of middelbare school the child is recommended for: VMBO (vocational), HAVO (general), or VWO (university preparatory). For expat children who have been in the Dutch school system, the Cito test applies equally. For children joining at secondary level from abroad, placement is typically assessed individually by the receiving school."
-  - q: "What is BSO and do expat families need it?"
-    a: "BSO (Buitenschoolse Opvang) is organised after-school care in the Netherlands, typically running from school pick-up (around 15:00) until 18:30 or later. It is run by registered childcare providers (kinderopvang) and is subsidised by the Dutch government via kinderopvangtoeslag (childcare benefit) for parents who both work. BSO is not part of the school itself but is usually closely linked to specific schools. Registration needs to happen well in advance — BSO places at popular locations near good schools fill up quickly. For working expat parents, BSO is a practical necessity."
-  - q: "What is the Dutch school lunch tradition?"
-    a: "One of the most surprising cultural discoveries for expat parents: Dutch children go home for lunch. Dutch primary school hours are approximately 8:30–15:00 with a lunch break from around 12:00–13:00. During this break, most Dutch children go home or are picked up. Some schools have a 'continuous school day' (continurooster) where children eat lunch at school in the classroom, and this format is growing in popularity. However, the 'lunch at home' tradition remains common, especially in smaller cities and towns. Expat parents working full-time often find this the most logistically challenging aspect of Dutch school culture."
+- q: What age do Dutch children start school?
+  a: Dutch children can start basisschool (primary school) at age 4. Attendance is compulsory from age 5. Most children start at 4, as schools typically accept 4-year-olds on a rolling basis throughout the year — children often start the week after their fourth birthday rather than waiting for the academic year to begin. Secondary school (middelbare school) starts at age 12 after completing basisschool.
+- q: How long are waiting lists for international schools in the Netherlands?
+  a: Waiting lists at established international schools in Amsterdam, The Hague, and Rotterdam can be very long — often 1–3 years for popular schools. The British School in the Netherlands (BSN), Amsterdam International Community School (AICS), the International School of The Hague (ISH), and similar institutions regularly have waiting lists running years ahead. Register as early as possible — some parents register before their child is born if they know they will be moving to the Netherlands. For a move with less than 12 months notice, be prepared for the possibility that your first-choice international school may not have space.
+- q: Do Dutch state schools teach in English?
+  a: Most Dutch state schools (basisscholen) teach in Dutch. There are some bilingual schools (tweetalige scholen) that offer half Dutch, half English instruction, which are popular with expat families but also have waiting lists. The international schools (primarily in Amsterdam, The Hague, Utrecht, Eindhoven, and Rotterdam) teach in English or other languages and follow international curricula (IB, British, American). Outside major expat cities, international schooling options are limited.
+- q: How much does a Dutch international school cost?
+  a: Dutch international schools charge tuition fees typically ranging from EUR 5,000–25,000 per year per child depending on school, level, and year group. The British School in the Netherlands charges approximately EUR 14,000–22,000 per year. The Amsterdam International Community School is approximately EUR 12,000–18,000. The International School of The Hague is approximately EUR 11,000–20,000. State Dutch schools are free. Some international schools also charge registration fees (EUR 200–2,000) and may require a deposit.
+- q: What is the Cito toets and how does it affect expat children?
+  a: 'The Cito toets (officially the Eindtoets Basisonderwijs) is a standardised test taken by Dutch children in their final year of basisschool (typically age 11–12). Results, combined with the teacher''s school advice (schooladvies), determine which level of middelbare school the child is recommended for: VMBO (vocational), HAVO (general), or VWO (university preparatory). For expat children who have been in the Dutch school system, the Cito test applies equally. For children joining at secondary level from abroad, placement is typically assessed individually by the receiving school.'
+- q: What is BSO and do expat families need it?
+  a: BSO (Buitenschoolse Opvang) is organised after-school care in the Netherlands, typically running from school pick-up (around 15:00) until 18:30 or later. It is run by registered childcare providers (kinderopvang) and is subsidised by the Dutch government via kinderopvangtoeslag (childcare benefit) for parents who both work. BSO is not part of the school itself but is usually closely linked to specific schools. Registration needs to happen well in advance — BSO places at popular locations near good schools fill up quickly. For working expat parents, BSO is a practical necessity.
+- q: What is the Dutch school lunch tradition?
+  a: 'One of the most surprising cultural discoveries for expat parents: Dutch children go home for lunch. Dutch primary school hours are approximately 8:30–15:00 with a lunch break from around 12:00–13:00. During this break, most Dutch children go home or are picked up. Some schools have a ''continuous school day'' (continurooster) where children eat lunch at school in the classroom, and this format is growing in popularity. However, the ''lunch at home'' tradition remains common, especially in smaller cities and towns. Expat parents working full-time often find this the most logistically challenging aspect of Dutch school culture.'
+schema_type: Article
 ---
 
 The question I get asked most often by expat families, by a significant margin, is: "What do I do about schools?"

@@ -1,30 +1,49 @@
 ---
-title: "Netherlands Salary Comparison by City and Sector 2026"
-date: 2026-03-17T10:00:00+01:00
-lastmod: 2026-04-23T10:00:00+01:00
-description: "Compare average salaries across Dutch cities and sectors in 2026. Free salary data for expats, recruiters, and HR professionals, including net pay and 30% ruling."
-categories: ["finance", "work"]
-tags: ["salary netherlands", "dutch salary 2026", "expat salary comparison", "salary by city netherlands", "30 percent ruling", "minimum wage netherlands", "vakantiegeld", "net salary"]
-keywords: ["netherlands salary comparison 2026", "average salary netherlands by city", "dutch salary by sector", "expat salary amsterdam rotterdam eindhoven", "minimum wage netherlands 2026", "vakantiegeld calculation", "30 percent ruling salary", "net salary netherlands calculator"]
+title: Netherlands Salary Comparison by City and Sector 2026
+date: 2026-03-17 10:00:00+01:00
+lastmod: 2026-04-23 10:00:00+01:00
+description: Compare average salaries across Dutch cities and sectors in 2026. Free salary data for expats, recruiters, and HR professionals, including net pay and 30% ruling.
+categories:
+- finance
+- work
+tags:
+- salary netherlands
+- dutch salary 2026
+- expat salary comparison
+- salary by city netherlands
+- 30 percent ruling
+- minimum wage netherlands
+- vakantiegeld
+- net salary
+keywords:
+- netherlands salary comparison 2026
+- average salary netherlands by city
+- dutch salary by sector
+- expat salary amsterdam rotterdam eindhoven
+- minimum wage netherlands 2026
+- vakantiegeld calculation
+- 30 percent ruling salary
+- net salary netherlands calculator
 affiliate: true
-author: "Sarah van den Berg"
-author_bio: "Expat coach and relocation specialist. Half Dutch, half British, living in the Netherlands for over 10 years."
-featured_image: "/images/categories/finance.svg"
+author: Sarah van den Berg
+author_bio: Expat coach and relocation specialist. Half Dutch, half British, living in the Netherlands for over 10 years.
+featured_image: /images/categories/finance.svg
 faq:
-  - q: "What is the average salary in the Netherlands in 2026?"
-    a: "The average gross annual salary in the Netherlands in 2026 is approximately EUR 47,000–52,000 depending on the city and sector. Amsterdam is the highest at around EUR 52,000, while Groningen is lower at around EUR 42,000. Tech and finance roles in cities like Eindhoven and Amsterdam can exceed EUR 80,000 at the senior level. These are pre-tax figures; net take-home is typically 60–70% of gross, depending on your income level and whether you hold the 30% ruling."
-  - q: "How much tax do you pay on salary in the Netherlands?"
-    a: "The Netherlands uses a two-bracket income tax system in 2026. Gross earnings up to approximately EUR 76,817 are taxed at around 36.97% (including social security contributions). Earnings above that are taxed at around 49.50%. In practice, a EUR 50,000 gross salary results in a net take-home of approximately EUR 32,000–35,000 after wage tax and social contributions. The 30% ruling can significantly increase your net pay if you qualify."
-  - q: "Does Amsterdam pay higher salaries than other Dutch cities?"
-    a: "Amsterdam generally has the highest nominal gross salaries in the Netherlands, at roughly EUR 52,000 on average. However, when adjusted for cost of living — particularly rent, which can easily cost EUR 1,800–2,500 per month for a one-bedroom apartment — the real purchasing power in Amsterdam is often lower than in cities like Eindhoven or Groningen, where salaries are only slightly lower but housing costs significantly less."
-  - q: "What is the minimum wage in the Netherlands in 2026?"
-    a: "The Dutch statutory minimum wage (wettelijk minimumloon) in 2026 is EUR 14.06 per hour for workers aged 21 and over. This equates to approximately EUR 2,437 gross per month based on a 40-hour working week. Workers aged 18–20 receive age-scaled minimums. The Netherlands moved to an hourly minimum wage system in 2024, replacing the previous monthly system, making it easier to calculate for part-time workers."
-  - q: "What is vakantiegeld and do expats receive it?"
-    a: "Vakantiegeld (holiday allowance) is a mandatory annual payment of at least 8% of your gross annual salary. It is typically paid in May or June as a lump sum, though some employers pay it monthly. Yes, all employees in the Netherlands are entitled to vakantiegeld regardless of nationality. On a EUR 50,000 salary, this means an extra EUR 4,000 per year. It is taxed as normal income in the month it is paid, so expect a higher deduction in May."
-  - q: "How does the 30% ruling affect my take-home pay?"
-    a: "The 30% ruling allows your employer to pay up to 30% of your gross salary as a tax-free allowance. This effectively reduces your taxable income to 70% of your gross salary. For a EUR 70,000 gross salary, this saves approximately EUR 8,000–10,000 per year in income tax. Note that since 2024 the benefit steps down: 30% for the first 20 months, 20% for months 21–40, and 10% for months 41–60."
-  - q: "Is salary negotiation normal in the Netherlands?"
-    a: "Yes. Salary negotiation is standard practice in the Netherlands, particularly for professional and managerial roles. Dutch employers generally expect candidates to negotiate. The typical approach is direct and factual — come prepared with market data (such as this page), your years of experience, and a specific number rather than a vague request. It is perfectly acceptable to ask for 10–15% above the initial offer for senior or specialised roles."
+- q: What is the average salary in the Netherlands in 2026?
+  a: The average gross annual salary in the Netherlands in 2026 is approximately EUR 47,000–52,000 depending on the city and sector. Amsterdam is the highest at around EUR 52,000, while Groningen is lower at around EUR 42,000. Tech and finance roles in cities like Eindhoven and Amsterdam can exceed EUR 80,000 at the senior level. These are pre-tax figures; net take-home is typically 60–70% of gross, depending on your income level and whether you hold the 30% ruling.
+- q: How much tax do you pay on salary in the Netherlands?
+  a: The Netherlands uses a two-bracket income tax system in 2026. Gross earnings up to approximately EUR 76,817 are taxed at around 36.97% (including social security contributions). Earnings above that are taxed at around 49.50%. In practice, a EUR 50,000 gross salary results in a net take-home of approximately EUR 32,000–35,000 after wage tax and social contributions. The 30% ruling can significantly increase your net pay if you qualify.
+- q: Does Amsterdam pay higher salaries than other Dutch cities?
+  a: Amsterdam generally has the highest nominal gross salaries in the Netherlands, at roughly EUR 52,000 on average. However, when adjusted for cost of living — particularly rent, which can easily cost EUR 1,800–2,500 per month for a one-bedroom apartment — the real purchasing power in Amsterdam is often lower than in cities like Eindhoven or Groningen, where salaries are only slightly lower but housing costs significantly less.
+- q: What is the minimum wage in the Netherlands in 2026?
+  a: The Dutch statutory minimum wage (wettelijk minimumloon) in 2026 is EUR 14.06 per hour for workers aged 21 and over. This equates to approximately EUR 2,437 gross per month based on a 40-hour working week. Workers aged 18–20 receive age-scaled minimums. The Netherlands moved to an hourly minimum wage system in 2024, replacing the previous monthly system, making it easier to calculate for part-time workers.
+- q: What is vakantiegeld and do expats receive it?
+  a: Vakantiegeld (holiday allowance) is a mandatory annual payment of at least 8% of your gross annual salary. It is typically paid in May or June as a lump sum, though some employers pay it monthly. Yes, all employees in the Netherlands are entitled to vakantiegeld regardless of nationality. On a EUR 50,000 salary, this means an extra EUR 4,000 per year. It is taxed as normal income in the month it is paid, so expect a higher deduction in May.
+- q: How does the 30% ruling affect my take-home pay?
+  a: 'The 30% ruling allows your employer to pay up to 30% of your gross salary as a tax-free allowance. This effectively reduces your taxable income to 70% of your gross salary. For a EUR 70,000 gross salary, this saves approximately EUR 8,000–10,000 per year in income tax. Note that since 2024 the benefit steps down: 30% for the first 20 months, 20% for months 21–40, and 10% for months 41–60.'
+- q: Is salary negotiation normal in the Netherlands?
+  a: Yes. Salary negotiation is standard practice in the Netherlands, particularly for professional and managerial roles. Dutch employers generally expect candidates to negotiate. The typical approach is direct and factual — come prepared with market data (such as this page), your years of experience, and a specific number rather than a vague request. It is perfectly acceptable to ask for 10–15% above the initial offer for senior or specialised roles.
+schema_type: Article
 ---
 
 When I moved to the Netherlands, I spent weeks trying to piece together reliable salary data. Every source gave different numbers, most were outdated, and none showed how salaries compared across cities once you factored in rent and cost of living. That missing picture cost me real money in my first job negotiation.

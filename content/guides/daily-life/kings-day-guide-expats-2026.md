@@ -1,38 +1,39 @@
 ---
-title: "King's Day 2026: Your Complete Expat Guide to Koningsdag"
-slug: "kings-day-guide-expats-2026"
-date: 2026-04-20T10:00:00+01:00
-lastmod: 2026-04-23T10:00:00+01:00
-author: "Sarah van den Berg"
-author_bio: "Expat coach and relocation specialist. Half Dutch, half British, living in the Netherlands for over 10 years."
-description: "Your complete expat guide to King's Day 2026 in the Netherlands. Date, tips, best cities, what to wear, vrijmarkt, and more."
-featured_image: "/images/featured/kings-day-guide-expats-2026.webp"
-categories: ["daily-life"]
-type: "seasonal guide"
+title: 'King''s Day 2026: Your Complete Expat Guide to Koningsdag'
+slug: kings-day-guide-expats-2026
+date: 2026-04-20 10:00:00+01:00
+lastmod: 2026-04-23 10:00:00+01:00
+author: Sarah van den Berg
+author_bio: Expat coach and relocation specialist. Half Dutch, half British, living in the Netherlands for over 10 years.
+description: Your complete expat guide to King's Day 2026 in the Netherlands. Date, tips, best cities, what to wear, vrijmarkt, and more.
+featured_image: /images/featured/kings-day-guide-expats-2026.webp
+categories:
+- daily-life
+type: seasonal guide
 affiliate: true
 products:
-  - name: "KPN"
-    url: "https://www.kpn.com/"
-    price: "0.00"
+- name: KPN
+  url: https://www.kpn.com/
+  price: '0.00'
 tags:
-  - "kings day"
-  - "koningsdag"
-  - "dutch culture"
-  - "expat life"
-  - "netherlands events"
-  - "amsterdam"
-
+- kings day
+- koningsdag
+- dutch culture
+- expat life
+- netherlands events
+- amsterdam
 faq:
-  - q: "When is King's Day 2026?"
-    a: "King's Day is officially on 27 April, King Willem-Alexander's birthday. In 2026, the 27th falls on a Monday — so the celebration is on Monday 27 April 2026. The rule that shifts the date to Saturday only applies when 27 April falls on a Sunday."
-  - q: "Do shops open on King's Day?"
-    a: "Most supermarkets and shops are closed on King's Day. The vrijmarkt (free market) is everywhere, but if you need supplies, stock up the day before. Some Albert Heijn and convenience stores may open for limited hours."
-  - q: "Is King's Day free to attend?"
-    a: "The street celebrations, vrijmarkt, and most outdoor music are completely free. Some ticketed club events and Koningsnacht parties require a ticket, which can range from €10 to €30+."
-  - q: "Can I bring my children to King's Day?"
-    a: "Yes, and it is actually a wonderful day for families. The morning vrijmarkt is particularly child-friendly. Cities like Utrecht and Eindhoven have family zones. City centres do get very crowded and boisterous by the afternoon, so keep that in mind."
-  - q: "What should I wear on King's Day?"
-    a: "Orange, orange, and more orange. It is the Dutch national colour and everyone wears it. You do not need to go overboard — even a simple orange scarf or headband will do. Fancy dress is popular too. Comfortable shoes are non-negotiable."
+- q: When is King's Day 2026?
+  a: King's Day is officially on 27 April, King Willem-Alexander's birthday. In 2026, the 27th falls on a Monday — so the celebration is on Monday 27 April 2026. The rule that shifts the date to Saturday only applies when 27 April falls on a Sunday.
+- q: Do shops open on King's Day?
+  a: Most supermarkets and shops are closed on King's Day. The vrijmarkt (free market) is everywhere, but if you need supplies, stock up the day before. Some Albert Heijn and convenience stores may open for limited hours.
+- q: Is King's Day free to attend?
+  a: The street celebrations, vrijmarkt, and most outdoor music are completely free. Some ticketed club events and Koningsnacht parties require a ticket, which can range from €10 to €30+.
+- q: Can I bring my children to King's Day?
+  a: Yes, and it is actually a wonderful day for families. The morning vrijmarkt is particularly child-friendly. Cities like Utrecht and Eindhoven have family zones. City centres do get very crowded and boisterous by the afternoon, so keep that in mind.
+- q: What should I wear on King's Day?
+  a: Orange, orange, and more orange. It is the Dutch national colour and everyone wears it. You do not need to go overboard — even a simple orange scarf or headband will do. Fancy dress is popular too. Comfortable shoes are non-negotiable.
+schema_type: Article
 ---
 
 The first time I experienced King's Day in the Netherlands, I had no idea what I was walking into. I stepped out of my front door in [Amsterdam](/cities/amsterdam/) at 9 in the morning, and the entire city had already turned orange. There were people selling toys from blankets on the pavement, children belting out Dutch songs on makeshift stages, and boats so densely packed on the canals that I genuinely could not see the water. I stood there in my sensible beige coat and thought: I need to get orange, immediately.

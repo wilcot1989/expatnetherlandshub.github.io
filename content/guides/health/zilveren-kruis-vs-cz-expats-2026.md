@@ -1,36 +1,47 @@
 ---
-title: "Zilveren Kruis vs CZ for Expats: Health Insurance (2026)"
-date: 2026-03-14T10:00:00+01:00
-lastmod: 2026-04-23T10:00:00+01:00
-description: "Zilveren Kruis vs CZ health insurance compared for expats in the Netherlands. Premiums, coverage, English support, dental, and which to choose in 2026."
-categories: ["health"]
-tags: ["Zilveren Kruis", "CZ", "health insurance", "zorgverzekering", "insurance comparison"]
-keywords: ["Zilveren Kruis vs CZ expats", "best health insurance expats Netherlands", "Zilveren Kruis CZ comparison", "Dutch health insurance 2026"]
+title: 'Zilveren Kruis vs CZ for Expats: Health Insurance (2026)'
+date: 2026-03-14 10:00:00+01:00
+lastmod: 2026-04-23 10:00:00+01:00
+description: Zilveren Kruis vs CZ health insurance compared for expats in the Netherlands. Premiums, coverage, English support, dental, and which to choose in 2026.
+categories:
+- health
+tags:
+- Zilveren Kruis
+- CZ
+- health insurance
+- zorgverzekering
+- insurance comparison
+keywords:
+- Zilveren Kruis vs CZ expats
+- best health insurance expats Netherlands
+- Zilveren Kruis CZ comparison
+- Dutch health insurance 2026
 affiliate: true
 products:
-  - name: "SafetyWing"
-    url: "https://go.expatnetherlandshub.com/safetywing?ref=/guides/health/zilveren-kruis-vs-cz-expats-2026/"
-    price: "45.08"
-  - name: "CZ"
-    url: "https://www.cz.nl/"
-    price: "0.00"
-  - name: "Zilveren Kruis"
-    url: "https://www.zilverenkruis.nl/"
-    price: "0.00"
-author: "Sarah van den Berg"
-author_bio: "Expat coach and relocation specialist. Half Dutch, half British, living in the Netherlands for over 10 years."
-featured_image: "/images/featured/zilveren-kruis-vs-cz-expats-2026.webp"
+- name: SafetyWing
+  url: https://go.expatnetherlandshub.com/safetywing?ref=/guides/health/zilveren-kruis-vs-cz-expats-2026/
+  price: '45.08'
+- name: CZ
+  url: https://www.cz.nl/
+  price: '0.00'
+- name: Zilveren Kruis
+  url: https://www.zilverenkruis.nl/
+  price: '0.00'
+author: Sarah van den Berg
+author_bio: Expat coach and relocation specialist. Half Dutch, half British, living in the Netherlands for over 10 years.
+featured_image: /images/featured/zilveren-kruis-vs-cz-expats-2026.webp
 faq:
-  - q: "Which is cheaper, Zilveren Kruis or CZ?"
-    a: "In 2026, basic health insurance (basisverzekering) premiums are very similar between the two: Zilveren Kruis charges around EUR 140-145 per month and CZ around EUR 138-143 per month for their standard natura policies. The price difference is minimal, so your choice should be based on coverage type, network, and additional insurance rather than just the base premium."
-  - q: "Do Zilveren Kruis and CZ offer English-language support?"
-    a: "Both offer some English support, but neither is fully English-oriented. Zilveren Kruis has English-speaking customer service agents and parts of their website in English. CZ has more limited English support. For the best English-language experience, consider using Independer.nl to compare and sign up, as they offer expat-friendly guidance."
-  - q: "What is eigen risico and does it differ between Zilveren Kruis and CZ?"
-    a: "Eigen risico (own risk/deductible) is the mandatory annual deductible of EUR 385 in 2026. This is set by the government and is the same for all insurers, including both Zilveren Kruis and CZ. You can optionally increase it to EUR 485, 585, 685, 785, or 885 for a lower monthly premium. GP visits and maternity care are exempt from the eigen risico."
-  - q: "Can I switch between Zilveren Kruis and CZ?"
-    a: "Yes, you can switch health insurers once per year during the open enrolment period in November-December (for coverage starting January 1). You can also switch if you are new to the Netherlands — you must arrange health insurance within 4 months of registering. Switching is free and insurers cannot refuse you for basic coverage."
-  - q: "Who is this for?"
-    a: "See the section above on who benefits most from this service or guide."
+- q: Which is cheaper, Zilveren Kruis or CZ?
+  a: 'In 2026, basic health insurance (basisverzekering) premiums are very similar between the two: Zilveren Kruis charges around EUR 140-145 per month and CZ around EUR 138-143 per month for their standard natura policies. The price difference is minimal, so your choice should be based on coverage type, network, and additional insurance rather than just the base premium.'
+- q: Do Zilveren Kruis and CZ offer English-language support?
+  a: Both offer some English support, but neither is fully English-oriented. Zilveren Kruis has English-speaking customer service agents and parts of their website in English. CZ has more limited English support. For the best English-language experience, consider using Independer.nl to compare and sign up, as they offer expat-friendly guidance.
+- q: What is eigen risico and does it differ between Zilveren Kruis and CZ?
+  a: Eigen risico (own risk/deductible) is the mandatory annual deductible of EUR 385 in 2026. This is set by the government and is the same for all insurers, including both Zilveren Kruis and CZ. You can optionally increase it to EUR 485, 585, 685, 785, or 885 for a lower monthly premium. GP visits and maternity care are exempt from the eigen risico.
+- q: Can I switch between Zilveren Kruis and CZ?
+  a: Yes, you can switch health insurers once per year during the open enrolment period in November-December (for coverage starting January 1). You can also switch if you are new to the Netherlands — you must arrange health insurance within 4 months of registering. Switching is free and insurers cannot refuse you for basic coverage.
+- q: Who is this for?
+  a: See the section above on who benefits most from this service or guide.
+schema_type: Article
 ---
 
 When I arrived in the Netherlands from the UK over a decade ago, the Dutch healthcare system was one of the things that confused me most. Back home, you simply registered with the NHS and that was that. Here, you have to actively choose a private insurer, pay a monthly premium, deal with a mandatory deductible — and there are dozens of providers to choose from. I spent hours comparing options during my first open enrolment period and ended up with Zilveren Kruis almost by accident, because a Dutch colleague swore by them. A few years later, I switched to CZ. Then I switched back.

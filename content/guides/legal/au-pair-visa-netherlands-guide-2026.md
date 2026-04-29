@@ -1,38 +1,49 @@
 ---
-title: "Au Pair Visa Netherlands 2026 Guide"
-date: 2026-03-18T10:00:00+01:00
-lastmod: 2026-04-23T10:00:00+01:00
-description: "Au pair visa Netherlands 2026: eligibility, application steps, host family rules, pocket money, working hours, and health insurance explained."
-categories: ["legal"]
-tags: ["au pair", "visa", "residence permit", "host family", "young adults"]
-keywords: ["au pair visa netherlands", "au pair netherlands 2026", "au pair application netherlands", "host family netherlands au pair"]
+title: Au Pair Visa Netherlands 2026 Guide
+date: 2026-03-18 10:00:00+01:00
+lastmod: 2026-04-23 10:00:00+01:00
+description: 'Au pair visa Netherlands 2026: eligibility, application steps, host family rules, pocket money, working hours, and health insurance explained.'
+categories:
+- legal
+tags:
+- au pair
+- visa
+- residence permit
+- host family
+- young adults
+keywords:
+- au pair visa netherlands
+- au pair netherlands 2026
+- au pair application netherlands
+- host family netherlands au pair
 affiliate: true
 products:
-  - name: "Expatax"
-    url: "https://www.expatax.nl/"
-    price: "0.00"
-  - name: "Blue Umbrella"
-    url: "https://www.blueumbrella.nl/"
-    price: "0.00"
-  - name: "IND"
-    url: "https://ind.nl/en"
-    price: "0.00"
-author: "Sarah van den Berg"
-author_bio: "Expat coach and relocation specialist. Half Dutch, half British, living in the Netherlands for over 10 years."
-featured_image: "/images/categories/legal.svg"
+- name: Expatax
+  url: https://www.expatax.nl/
+  price: '0.00'
+- name: Blue Umbrella
+  url: https://www.blueumbrella.nl/
+  price: '0.00'
+- name: IND
+  url: https://ind.nl/en
+  price: '0.00'
+author: Sarah van den Berg
+author_bio: Expat coach and relocation specialist. Half Dutch, half British, living in the Netherlands for over 10 years.
+featured_image: /images/categories/legal.svg
 faq:
-  - q: "Who qualifies for the au pair visa in the Netherlands?"
-    a: "You must be between 18 and 30 years old, come from a country that has a cultural exchange agreement with the Netherlands, and have no dependent children. You must not have previously worked as an au pair in the Netherlands. The host family must be registered with the IND and meet income requirements."
-  - q: "How much pocket money does an au pair receive in the Netherlands?"
-    a: "Dutch law sets the minimum au pair pocket money at EUR 340 per month in 2026. Many host families pay slightly more. In addition to pocket money, the host family must provide free room and board, pay for your health insurance, and cover the cost of a public transport card for work-related travel."
-  - q: "How many hours per week can an au pair work in the Netherlands?"
-    a: "A maximum of 30 hours per week, with at least one full day off per week. Au pairs may not work more than 8 hours on any single day. Au pair work is considered a cultural exchange arrangement, not regular employment, so standard Dutch labour law protections do not apply in the same way."
-  - q: "Do I need health insurance as an au pair in the Netherlands?"
-    a: "Yes. Your host family is legally required to arrange health insurance for you for the duration of your stay. In practice, many host families use international health insurance plans such as SafetyWing rather than Dutch basic insurance (zorgverzekering), particularly for non-EU au pairs who are not required to take out Dutch insurance."
-  - q: "Can I extend my au pair stay or switch host families?"
-    a: "Your au pair residence permit is valid for a maximum of one year and cannot be extended for a second year with a new host family. However, if your current arrangement breaks down, you may be able to switch to a different host family within the same permit period, subject to IND approval and provided the new family also meets all the requirements."
-  - q: "What happens if the host family arrangement breaks down?"
-    a: "Contact the IND immediately. You have limited time to arrange an alternative placement or leave the Netherlands. If you are in a difficult or unsafe situation with your host family, contact the Dutch police or a support organisation immediately. Do not wait for the IND to act — your safety comes first."
+- q: Who qualifies for the au pair visa in the Netherlands?
+  a: You must be between 18 and 30 years old, come from a country that has a cultural exchange agreement with the Netherlands, and have no dependent children. You must not have previously worked as an au pair in the Netherlands. The host family must be registered with the IND and meet income requirements.
+- q: How much pocket money does an au pair receive in the Netherlands?
+  a: Dutch law sets the minimum au pair pocket money at EUR 340 per month in 2026. Many host families pay slightly more. In addition to pocket money, the host family must provide free room and board, pay for your health insurance, and cover the cost of a public transport card for work-related travel.
+- q: How many hours per week can an au pair work in the Netherlands?
+  a: A maximum of 30 hours per week, with at least one full day off per week. Au pairs may not work more than 8 hours on any single day. Au pair work is considered a cultural exchange arrangement, not regular employment, so standard Dutch labour law protections do not apply in the same way.
+- q: Do I need health insurance as an au pair in the Netherlands?
+  a: Yes. Your host family is legally required to arrange health insurance for you for the duration of your stay. In practice, many host families use international health insurance plans such as SafetyWing rather than Dutch basic insurance (zorgverzekering), particularly for non-EU au pairs who are not required to take out Dutch insurance.
+- q: Can I extend my au pair stay or switch host families?
+  a: Your au pair residence permit is valid for a maximum of one year and cannot be extended for a second year with a new host family. However, if your current arrangement breaks down, you may be able to switch to a different host family within the same permit period, subject to IND approval and provided the new family also meets all the requirements.
+- q: What happens if the host family arrangement breaks down?
+  a: Contact the IND immediately. You have limited time to arrange an alternative placement or leave the Netherlands. If you are in a difficult or unsafe situation with your host family, contact the Dutch police or a support organisation immediately. Do not wait for the IND to act — your safety comes first.
+schema_type: Article
 ---
 
 When I help young people plan their year abroad in the Netherlands, the au pair route often comes up. It is genuinely one of the most accessible ways to live in the Netherlands for an extended period — you get accommodation, meals, a modest income, and real daily exposure to Dutch life. But the visa process is more specific than most people expect, and the host family relationship requires careful vetting on both sides.

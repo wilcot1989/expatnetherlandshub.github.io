@@ -1,44 +1,56 @@
 ---
-title: "Best Mobile Phone Plans Netherlands Expats 2026"
-slug: "mobile-phone-plans-netherlands-expats-2026"
-date: 2026-04-26T10:00:00+01:00
-lastmod: 2026-04-23T10:00:00+01:00
+title: Best Mobile Phone Plans Netherlands Expats 2026
+slug: mobile-phone-plans-netherlands-expats-2026
+date: 2026-04-26 10:00:00+01:00
+lastmod: 2026-04-23 10:00:00+01:00
 draft: false
-type: "guide"
-categories: ["daily-life"]
-description: "Compare mobile phone plans in the Netherlands for expats 2026. KPN, T-Mobile, Lebara, Simyo reviewed — prices, coverage, and best pick per situation."
-featured_image: "/images/categories/daily-life.svg"
+type: guide
+categories:
+- daily-life
+description: Compare mobile phone plans in the Netherlands for expats 2026. KPN, T-Mobile, Lebara, Simyo reviewed — prices, coverage, and best pick per situation.
+featured_image: /images/categories/daily-life.svg
 affiliate: true
 products:
-  - name: "KPN"
-    url: "https://www.kpn.com/"
-    price: "0.00"
-  - name: "T-Mobile"
-    url: "https://www.t-mobile.nl/"
-    price: "0.00"
-  - name: "Ziggo"
-    url: "https://www.ziggo.nl/"
-    price: "0.00"
-author: "Sarah van den Berg"
-author_bio: "Expat coach and relocation specialist. Half Dutch, half British, living in the Netherlands for over 10 years."
-tags: ["phone plan", "SIM card", "KPN", "T-Mobile", "Odido", "Lebara", "mobile"]
-keywords: ["best phone plan netherlands expat", "mobile plan netherlands 2026", "KPN vs T-Mobile netherlands", "cheapest phone plan netherlands"]
-
+- name: KPN
+  url: https://www.kpn.com/
+  price: '0.00'
+- name: T-Mobile
+  url: https://www.t-mobile.nl/
+  price: '0.00'
+- name: Ziggo
+  url: https://www.ziggo.nl/
+  price: '0.00'
+author: Sarah van den Berg
+author_bio: Expat coach and relocation specialist. Half Dutch, half British, living in the Netherlands for over 10 years.
+tags:
+- phone plan
+- SIM card
+- KPN
+- T-Mobile
+- Odido
+- Lebara
+- mobile
+keywords:
+- best phone plan netherlands expat
+- mobile plan netherlands 2026
+- KPN vs T-Mobile netherlands
+- cheapest phone plan netherlands
 faq:
-  - q: "What is the cheapest mobile phone plan in the Netherlands for expats?"
-    a: "Simyo and Youfone are currently the cheapest SIM-only plans, starting from around €8–9 per month for a modest data bundle on the KPN network. Lebara and Ben are close behind at €10–12. If you just need something to survive your first week, a Lebara prepaid SIM from Albert Heijn costs about €10 and gets you going immediately."
-  - q: "Do I need a BSN to get a Dutch phone plan?"
-    a: "For a postpaid monthly contract you will typically need a BSN (Burgerservicenummer) and a Dutch bank account for the direct debit. Prepaid SIM cards do not require a BSN — you only need to show a valid passport or ID card for identity verification, which has been required under Dutch law since September 2023."
-  - q: "Which Dutch mobile network has the best coverage?"
-    a: "KPN has the best overall coverage in the Netherlands, particularly in rural areas and inside older buildings. T-Mobile (which also runs the Odido brand) is the second-largest network and has invested heavily in 5G. Vodafone is solid in cities. Budget MVNOs like Simyo, Lebara and Youfone all run on KPN, so they offer the same coverage for less money."
-  - q: "Is KPN or T-Mobile better for expats in the Netherlands?"
-    a: "It depends on what you value. KPN is better for coverage, particularly outside the big cities, and has good English-language customer support. T-Mobile offers better value on mid-range data plans and its 5G network is fast. For most expats living in Amsterdam, Rotterdam, Utrecht or The Hague, T-Mobile is perfectly fine and cheaper. If you travel around the Netherlands regularly, I'd lean towards KPN."
-  - q: "Can I use an eSIM in the Netherlands?"
-    a: "Yes. KPN, T-Mobile and Vodafone all support eSIM for both contract and prepaid plans. This is very convenient if you have a dual-SIM phone and want to keep your home country SIM active alongside a Dutch number. Simyo also introduced eSIM support in 2026. Lebara, Ben and Youfone still use physical SIM cards only."
-  - q: "Can I keep my existing phone number when I switch Dutch providers?"
-    a: "Yes. Number porting (nummeroverdracht) in the Netherlands is fast and easy. You submit a port request to your new provider, and your number transfers within one working day. You do not need to contact your old provider first — the new provider handles the whole process. Your old contract ends automatically once the number has moved."
-  - q: "Which Dutch mobile provider is best for international calls?"
-    a: "Lebara is the clear winner for international calling, particularly to South Asia, the Middle East, Africa, and Eastern Europe. Their bundles include significant international minutes as standard. Lyca Mobile is also worth considering. For calling within the EU, all Dutch plans include EU roaming at no extra cost under standard fair-use rules, so any provider works fine for European travel."
+- q: What is the cheapest mobile phone plan in the Netherlands for expats?
+  a: Simyo and Youfone are currently the cheapest SIM-only plans, starting from around €8–9 per month for a modest data bundle on the KPN network. Lebara and Ben are close behind at €10–12. If you just need something to survive your first week, a Lebara prepaid SIM from Albert Heijn costs about €10 and gets you going immediately.
+- q: Do I need a BSN to get a Dutch phone plan?
+  a: For a postpaid monthly contract you will typically need a BSN (Burgerservicenummer) and a Dutch bank account for the direct debit. Prepaid SIM cards do not require a BSN — you only need to show a valid passport or ID card for identity verification, which has been required under Dutch law since September 2023.
+- q: Which Dutch mobile network has the best coverage?
+  a: KPN has the best overall coverage in the Netherlands, particularly in rural areas and inside older buildings. T-Mobile (which also runs the Odido brand) is the second-largest network and has invested heavily in 5G. Vodafone is solid in cities. Budget MVNOs like Simyo, Lebara and Youfone all run on KPN, so they offer the same coverage for less money.
+- q: Is KPN or T-Mobile better for expats in the Netherlands?
+  a: It depends on what you value. KPN is better for coverage, particularly outside the big cities, and has good English-language customer support. T-Mobile offers better value on mid-range data plans and its 5G network is fast. For most expats living in Amsterdam, Rotterdam, Utrecht or The Hague, T-Mobile is perfectly fine and cheaper. If you travel around the Netherlands regularly, I'd lean towards KPN.
+- q: Can I use an eSIM in the Netherlands?
+  a: Yes. KPN, T-Mobile and Vodafone all support eSIM for both contract and prepaid plans. This is very convenient if you have a dual-SIM phone and want to keep your home country SIM active alongside a Dutch number. Simyo also introduced eSIM support in 2026. Lebara, Ben and Youfone still use physical SIM cards only.
+- q: Can I keep my existing phone number when I switch Dutch providers?
+  a: Yes. Number porting (nummeroverdracht) in the Netherlands is fast and easy. You submit a port request to your new provider, and your number transfers within one working day. You do not need to contact your old provider first — the new provider handles the whole process. Your old contract ends automatically once the number has moved.
+- q: Which Dutch mobile provider is best for international calls?
+  a: Lebara is the clear winner for international calling, particularly to South Asia, the Middle East, Africa, and Eastern Europe. Their bundles include significant international minutes as standard. Lyca Mobile is also worth considering. For calling within the EU, all Dutch plans include EU roaming at no extra cost under standard fair-use rules, so any provider works fine for European travel.
+schema_type: Article
 ---
 
 When I arrived in the Netherlands from the UK, I bought a Lebara prepaid SIM from the Albert Heijn near my flat before I had even unpacked my suitcase. It was the right call at the time — no BSN, no Dutch bank account, no hassle. I just handed over a tenner, showed my passport, and had a Dutch number within ten minutes.

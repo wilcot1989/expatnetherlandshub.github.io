@@ -1,34 +1,45 @@
 ---
-title: "Dutch Employment Contracts: What Every Expat Must Know"
-date: 2026-03-29T10:00:00+01:00
-lastmod: 2026-04-23T10:00:00+01:00
-description: "Dutch employment contracts explained for expats. Contract types, notice periods, probation rules, holiday allowance (vakantiegeld), and your legal rights as an employee."
-categories: ["work"]
-tags: ["employment contract", "arbeidsovereenkomst", "labour law", "work rights", "vakantiegeld"]
-keywords: ["Dutch employment contract expat", "arbeidsovereenkomst explained", "Dutch labour law expats", "contract types Netherlands"]
+title: 'Dutch Employment Contracts: What Every Expat Must Know'
+date: 2026-03-29 10:00:00+01:00
+lastmod: 2026-04-23 10:00:00+01:00
+description: Dutch employment contracts explained for expats. Contract types, notice periods, probation rules, holiday allowance (vakantiegeld), and your legal rights as an.
+categories:
+- work
+tags:
+- employment contract
+- arbeidsovereenkomst
+- labour law
+- work rights
+- vakantiegeld
+keywords:
+- Dutch employment contract expat
+- arbeidsovereenkomst explained
+- Dutch labour law expats
+- contract types Netherlands
 affiliate: false
 products:
-  - name: "LinkedIn Premium"
-    url: "https://www.linkedin.com/premium/"
-    price: "29.99"
-  - name: "Undutchables"
-    url: "https://undutchables.nl/"
-    price: "0.00"
-  - name: "Together Abroad"
-    url: "https://www.togetherabroad.nl/"
-    price: "0.00"
-author: "Sarah van den Berg"
-author_bio: "Expat coach and relocation specialist. Half Dutch, half British, living in the Netherlands for over 10 years."
-featured_image: "/images/featured/dutch-employment-contract-explained-2026.webp"
+- name: LinkedIn Premium
+  url: https://www.linkedin.com/premium/
+  price: '29.99'
+- name: Undutchables
+  url: https://undutchables.nl/
+  price: '0.00'
+- name: Together Abroad
+  url: https://www.togetherabroad.nl/
+  price: '0.00'
+author: Sarah van den Berg
+author_bio: Expat coach and relocation specialist. Half Dutch, half British, living in the Netherlands for over 10 years.
+featured_image: /images/featured/dutch-employment-contract-explained-2026.webp
 faq:
-  - q: "What is the difference between a bepaalde tijd and onbepaalde tijd contract?"
-    a: "A bepaalde tijd contract is a fixed-term contract with a defined end date. An onbepaalde tijd contract is a permanent contract with no end date. Under the ketenregeling (chain rule), after three consecutive fixed-term contracts or three years of employment with the same employer — whichever comes first — you are legally entitled to a permanent contract. Most employers offer onbepaalde tijd after this threshold is reached, though many will offer it sooner to retain good employees."
-  - q: "How does vakantiegeld (holiday allowance) work in the Netherlands?"
-    a: "Vakantiegeld is a mandatory holiday allowance of at least 8% of your gross annual salary. It is usually paid out in May or June in one lump sum, though some employers pay it monthly on top of your regular salary. It is calculated over the period June to May of the following year. The allowance is intended to cover holiday costs, but in practice most expats simply treat it as a welcome annual bonus. It is taxed as regular income."
-  - q: "Can my Dutch employer include a non-compete clause in my contract?"
-    a: "Yes, but there are strict rules. A concurrentiebeding (non-compete clause) must be in writing and agreed to by the employee. For fixed-term contracts, the employer must provide written justification explaining why the clause is necessary, given the substantial interests at stake. For permanent contracts, a written agreement is sufficient. Courts in the Netherlands regularly set aside or limit non-compete clauses if they are considered disproportionately restrictive. Always read this clause carefully and consider taking legal advice before signing."
-  - q: "What happens if I am sick — how long does my employer have to keep paying me?"
-    a: "Under Dutch law, your employer is required to continue paying your salary during illness for a period of up to two years (104 weeks). In the first year you must receive at least 70% of your last-earned wage, and many CAOs (collective labour agreements) top this up to 100% in the first year and 70% in the second. After two years of illness the UWV (Employee Insurance Agency) takes over via the WIA disability benefit. This is one of the most protective sick pay regimes in Europe."
+- q: What is the difference between a bepaalde tijd and onbepaalde tijd contract?
+  a: A bepaalde tijd contract is a fixed-term contract with a defined end date. An onbepaalde tijd contract is a permanent contract with no end date. Under the ketenregeling (chain rule), after three consecutive fixed-term contracts or three years of employment with the same employer — whichever comes first — you are legally entitled to a permanent contract. Most employers offer onbepaalde tijd after this threshold is reached, though many will offer it sooner to retain good employees.
+- q: How does vakantiegeld (holiday allowance) work in the Netherlands?
+  a: Vakantiegeld is a mandatory holiday allowance of at least 8% of your gross annual salary. It is usually paid out in May or June in one lump sum, though some employers pay it monthly on top of your regular salary. It is calculated over the period June to May of the following year. The allowance is intended to cover holiday costs, but in practice most expats simply treat it as a welcome annual bonus. It is taxed as regular income.
+- q: Can my Dutch employer include a non-compete clause in my contract?
+  a: Yes, but there are strict rules. A concurrentiebeding (non-compete clause) must be in writing and agreed to by the employee. For fixed-term contracts, the employer must provide written justification explaining why the clause is necessary, given the substantial interests at stake. For permanent contracts, a written agreement is sufficient. Courts in the Netherlands regularly set aside or limit non-compete clauses if they are considered disproportionately restrictive. Always read this clause carefully and consider taking legal advice before signing.
+- q: What happens if I am sick — how long does my employer have to keep paying me?
+  a: Under Dutch law, your employer is required to continue paying your salary during illness for a period of up to two years (104 weeks). In the first year you must receive at least 70% of your last-earned wage, and many CAOs (collective labour agreements) top this up to 100% in the first year and 70% in the second. After two years of illness the UWV (Employee Insurance Agency) takes over via the WIA disability benefit. This is one of the most protective sick pay regimes in Europe.
+schema_type: Article
 ---
 
 When I signed my first Dutch employment contract, I thought I had a reasonable grasp of what I was agreeing to. I had worked in the UK, done a stint in Germany, and considered myself fairly contract-savvy. Twenty minutes into that first conversation with an employment lawyer friend, I realised I had missed at least four things that mattered enormously — including a non-compete clause that would have seriously limited where I could work next, and a probation period that was twice as long as it should have been for the type of contract I was signing.

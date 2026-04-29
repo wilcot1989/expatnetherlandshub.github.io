@@ -1,48 +1,61 @@
 ---
-title: "Complete Guide to Moving to the Netherlands in 2026"
-date: 2026-02-24T10:00:00+01:00
-lastmod: 2026-04-23T10:00:00+01:00
-description: "Everything you need to know about moving to the Netherlands in 2026: visas, housing, BSN, health insurance, banking, and more."
-categories: ["relocation"]
-tags: ["moving to netherlands", "expat relocation", "netherlands visa", "BSN number", "dutch housing", "expat checklist"]
-keywords: ["moving to netherlands", "relocating to netherlands 2026", "expat guide netherlands", "how to move to netherlands", "netherlands relocation checklist"]
+title: Complete Guide to Moving to the Netherlands in 2026
+date: 2026-02-24 10:00:00+01:00
+lastmod: 2026-04-23 10:00:00+01:00
+description: 'Everything you need to know about moving to the Netherlands in 2026: visas, housing, BSN, health insurance, banking, and more.'
+categories:
+- relocation
+tags:
+- moving to netherlands
+- expat relocation
+- netherlands visa
+- BSN number
+- dutch housing
+- expat checklist
+keywords:
+- moving to netherlands
+- relocating to netherlands 2026
+- expat guide netherlands
+- how to move to netherlands
+- netherlands relocation checklist
 affiliate: true
 products:
-  - name: "IND"
-    url: "https://ind.nl/en"
-    price: "0.00"
-  - name: "Expatax"
-    url: "https://www.expatax.nl/"
-    price: "0.00"
-  - name: "Wise"
-    url: "https://go.expatnetherlandshub.com/wise?ref=/guides/legal/complete-guide-moving-to-netherlands-2026/"
-    price: "0.00"
-author: "Sarah van den Berg"
-author_bio: "Expat coach and relocation specialist. Half Dutch, half British, living in the Netherlands for over 10 years."
-featured_image: "/images/featured/complete-guide-moving-to-netherlands-2026.webp"
+- name: IND
+  url: https://ind.nl/en
+  price: '0.00'
+- name: Expatax
+  url: https://www.expatax.nl/
+  price: '0.00'
+- name: Wise
+  url: https://go.expatnetherlandshub.com/wise?ref=/guides/legal/complete-guide-moving-to-netherlands-2026/
+  price: '0.00'
+author: Sarah van den Berg
+author_bio: Expat coach and relocation specialist. Half Dutch, half British, living in the Netherlands for over 10 years.
+featured_image: /images/featured/complete-guide-moving-to-netherlands-2026.webp
 faq:
-  - q: "How long does it take to get a BSN number in the Netherlands?"
-    a: "You typically receive your BSN (Burgerservicenummer) immediately at the end of your registration appointment at the gemeente. However, booking the appointment itself can take 2-6 weeks depending on the municipality. In Amsterdam and Rotterdam, waiting times are often longer."
-  - q: "Do I need a visa to move to the Netherlands as an EU citizen?"
-    a: "No. EU/EEA citizens can move to the Netherlands freely and do not need a visa or work permit. You do need to register at your local municipality (gemeente) within 5 days of finding a permanent address."
-  - q: "What is the 30% ruling and how do I qualify?"
-    a: "The 30% ruling is a Dutch tax benefit for highly skilled migrants recruited from abroad. It allows employers to pay 30% of the employee's salary as a tax-free allowance. To qualify in 2026, you must earn a minimum taxable salary of approximately EUR 46,107 (or EUR 35,048 for those under 30 with a master's degree), be recruited from outside the Netherlands, and have specific expertise not readily available in the Dutch labor market."
-  - q: "Is health insurance mandatory in the Netherlands?"
-    a: "Yes. Everyone legally residing and working in the Netherlands must take out a basic health insurance policy (basisverzekering) within 4 months of arriving. Failure to do so results in a fine from the CAK (Central Administration Office). Read our full guide on Dutch health insurance for expats."
-  - q: "How much does it cost to rent an apartment in the Netherlands?"
-    a: "Rental costs vary significantly by city. In Amsterdam, expect to pay EUR 1,500-2,500 per month for a one-bedroom apartment. In cities like Utrecht, The Hague, or Eindhoven, prices are somewhat lower at EUR 1,000-1,800. Smaller cities and towns can be considerably more affordable at EUR 800-1,200."
-  - q: "Can I open a Dutch bank account without a BSN?"
-    a: "Traditional Dutch banks like ING, ABN AMRO, and Rabobank require a BSN to open an account. However, online banks like Wise and Bunq may allow you to start the process before receiving your BSN. We recommend setting up a Wise account before your move to handle international transfers. See our guide to the best bank accounts for expats in the Netherlands."
-  - q: "What is the best time of year to move to the Netherlands?"
-    a: "Spring (April-May) and early autumn (September) are ideal. The weather is milder, and the housing market tends to have slightly more availability. Avoid moving in July-August when many landlords and officials are on vacation, potentially slowing down administrative processes."
-  - q: "How much money do I need to move to the Netherlands?"
-    a: "Plan for a minimum of EUR 5,000-10,000 in savings before you move. This covers your rental deposit (typically 1-2 months' rent), first month's rent, health insurance, and day-to-day costs while you wait for your first Dutch salary. In Amsterdam or another major city, budget toward the higher end. If you are arriving without a job lined up, you will need considerably more — at least 3-6 months of living expenses as a buffer."
-  - q: "What are the pros and cons of moving to the Netherlands?"
-    a: "Pros: excellent English proficiency, high quality of life, strong job market especially in tech and international business, world-class infrastructure, central European location, 30% ruling tax benefit for qualifying expats, generous parental leave and healthcare system. Cons: housing market is fiercely competitive and expensive, Dutch can be difficult to integrate socially at first, the weather is grey and wet for much of the year, income tax rates are high (up to 49.5%), and bureaucracy — though efficient — requires patience and preparation."
-  - q: "Can I move to the Netherlands with my non-EU partner?"
-    a: "Yes, but the process requires preparation. Your non-EU partner will need a MVV (Machtiging tot Voorlopig Verblijf) entry visa before arriving, followed by a residence permit. The sponsoring partner (you, if you are already in the Netherlands) must meet an income threshold — currently at least 100% of the applicable social assistance norm, which in 2026 is roughly EUR 1,800 net per month for a couple. Processing typically takes 3-6 months. See our full partner visa guide for step-by-step details."
-  - q: "Do I need to pay tax on my car when moving to the Netherlands?"
-    a: "Yes, in most cases. The BPM (Belasting van Personenauto's en Motorrijwielen) is a Dutch vehicle registration tax that applies when you import a car. The amount depends on the CO₂ emissions and the residual value of the vehicle. Some exemptions exist — notably if you have owned and used the car in your home country for at least 6 months before your move — but even then, an RDW inspection and registration are required. Budget for several hundred to several thousand euros depending on your vehicle."
+- q: How long does it take to get a BSN number in the Netherlands?
+  a: You typically receive your BSN (Burgerservicenummer) immediately at the end of your registration appointment at the gemeente. However, booking the appointment itself can take 2-6 weeks depending on the municipality. In Amsterdam and Rotterdam, waiting times are often longer.
+- q: Do I need a visa to move to the Netherlands as an EU citizen?
+  a: No. EU/EEA citizens can move to the Netherlands freely and do not need a visa or work permit. You do need to register at your local municipality (gemeente) within 5 days of finding a permanent address.
+- q: What is the 30% ruling and how do I qualify?
+  a: The 30% ruling is a Dutch tax benefit for highly skilled migrants recruited from abroad. It allows employers to pay 30% of the employee's salary as a tax-free allowance. To qualify in 2026, you must earn a minimum taxable salary of approximately EUR 46,107 (or EUR 35,048 for those under 30 with a master's degree), be recruited from outside the Netherlands, and have specific expertise not readily available in the Dutch labor market.
+- q: Is health insurance mandatory in the Netherlands?
+  a: Yes. Everyone legally residing and working in the Netherlands must take out a basic health insurance policy (basisverzekering) within 4 months of arriving. Failure to do so results in a fine from the CAK (Central Administration Office). Read our full guide on Dutch health insurance for expats.
+- q: How much does it cost to rent an apartment in the Netherlands?
+  a: Rental costs vary significantly by city. In Amsterdam, expect to pay EUR 1,500-2,500 per month for a one-bedroom apartment. In cities like Utrecht, The Hague, or Eindhoven, prices are somewhat lower at EUR 1,000-1,800. Smaller cities and towns can be considerably more affordable at EUR 800-1,200.
+- q: Can I open a Dutch bank account without a BSN?
+  a: Traditional Dutch banks like ING, ABN AMRO, and Rabobank require a BSN to open an account. However, online banks like Wise and Bunq may allow you to start the process before receiving your BSN. We recommend setting up a Wise account before your move to handle international transfers. See our guide to the best bank accounts for expats in the Netherlands.
+- q: What is the best time of year to move to the Netherlands?
+  a: Spring (April-May) and early autumn (September) are ideal. The weather is milder, and the housing market tends to have slightly more availability. Avoid moving in July-August when many landlords and officials are on vacation, potentially slowing down administrative processes.
+- q: How much money do I need to move to the Netherlands?
+  a: Plan for a minimum of EUR 5,000-10,000 in savings before you move. This covers your rental deposit (typically 1-2 months' rent), first month's rent, health insurance, and day-to-day costs while you wait for your first Dutch salary. In Amsterdam or another major city, budget toward the higher end. If you are arriving without a job lined up, you will need considerably more — at least 3-6 months of living expenses as a buffer.
+- q: What are the pros and cons of moving to the Netherlands?
+  a: 'Pros: excellent English proficiency, high quality of life, strong job market especially in tech and international business, world-class infrastructure, central European location, 30% ruling tax benefit for qualifying expats, generous parental leave and healthcare system. Cons: housing market is fiercely competitive and expensive, Dutch can be difficult to integrate socially at first, the weather is grey and wet for much of the year, income tax rates are high (up to 49.5%), and bureaucracy — though efficient — requires patience and preparation.'
+- q: Can I move to the Netherlands with my non-EU partner?
+  a: Yes, but the process requires preparation. Your non-EU partner will need a MVV (Machtiging tot Voorlopig Verblijf) entry visa before arriving, followed by a residence permit. The sponsoring partner (you, if you are already in the Netherlands) must meet an income threshold — currently at least 100% of the applicable social assistance norm, which in 2026 is roughly EUR 1,800 net per month for a couple. Processing typically takes 3-6 months. See our full partner visa guide for step-by-step details.
+- q: Do I need to pay tax on my car when moving to the Netherlands?
+  a: Yes, in most cases. The BPM (Belasting van Personenauto's en Motorrijwielen) is a Dutch vehicle registration tax that applies when you import a car. The amount depends on the CO₂ emissions and the residual value of the vehicle. Some exemptions exist — notably if you have owned and used the car in your home country for at least 6 months before your move — but even then, an RDW inspection and registration are required. Budget for several hundred to several thousand euros depending on your vehicle.
+schema_type: Article
 ---
 
 When I moved to the Netherlands over ten years ago, I thought having a Dutch mother would make everything easy. Spoiler: it did not. The bureaucracy, the housing market, the endless paperwork -- I had to figure it all out the hard way. Now, as a relocation specialist, I walk expats through this process every single week. This guide is everything I wish someone had told me before I arrived.

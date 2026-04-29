@@ -1,38 +1,51 @@
 ---
-title: "Dutch Toeslagen for Expats: How to Claim 2026"
-date: 2026-06-26T10:00:00+01:00
-lastmod: 2026-04-23T10:00:00+01:00
-description: "Dutch toeslagen for expats 2026: zorgtoeslag, huurtoeslag, kinderopvangtoeslag, kindgebonden budget. Income limits and how to apply via Mijn Toeslagen."
-categories: ["finance"]
-tags: ["dutch toeslagen", "zorgtoeslag expats", "huurtoeslag netherlands", "kinderopvangtoeslag", "kindgebonden budget", "dutch benefits expats"]
-keywords: ["dutch benefits expats toeslagen", "zorgtoeslag 2026", "huurtoeslag expat netherlands", "kinderopvangtoeslag how to apply", "mijn toeslagen expats"]
+title: 'Dutch Toeslagen for Expats: How to Claim 2026'
+date: 2026-06-26 10:00:00+01:00
+lastmod: 2026-04-23 10:00:00+01:00
+description: 'Dutch toeslagen for expats 2026: zorgtoeslag, huurtoeslag, kinderopvangtoeslag, kindgebonden budget. Income limits and how to apply via Mijn Toeslagen.'
+categories:
+- finance
+tags:
+- dutch toeslagen
+- zorgtoeslag expats
+- huurtoeslag netherlands
+- kinderopvangtoeslag
+- kindgebonden budget
+- dutch benefits expats
+keywords:
+- dutch benefits expats toeslagen
+- zorgtoeslag 2026
+- huurtoeslag expat netherlands
+- kinderopvangtoeslag how to apply
+- mijn toeslagen expats
 affiliate: true
-author: "Sarah van den Berg"
-author_bio: "Expat coach and relocation specialist. Half Dutch, half British, living in the Netherlands for over 10 years."
-featured_image: "/images/categories/finance.svg"
+author: Sarah van den Berg
+author_bio: Expat coach and relocation specialist. Half Dutch, half British, living in the Netherlands for over 10 years.
+featured_image: /images/categories/finance.svg
 products:
-  - name: "Wise"
-    url: "https://go.expatnetherlandshub.com/wise?ref=/guides/finance/how-expats-claim-dutch-benefits-toeslagen-2026/"
-    price: "0.00"
-  - name: "bunq"
-    url: "https://www.bunq.com/"
-    price: "2.99"
-  - name: "ING"
-    url: "https://www.ing.nl/particulier"
-    price: "0.00"
+- name: Wise
+  url: https://go.expatnetherlandshub.com/wise?ref=/guides/finance/how-expats-claim-dutch-benefits-toeslagen-2026/
+  price: '0.00'
+- name: bunq
+  url: https://www.bunq.com/
+  price: '2.99'
+- name: ING
+  url: https://www.ing.nl/particulier
+  price: '0.00'
 faq:
-  - q: "What are toeslagen and who can claim them?"
-    a: "Toeslagen (allowances) are income-dependent government subsidies paid by the Belastingdienst (Dutch tax authority) to help people with specific costs: health insurance, rent, childcare, and children's costs. Any resident of the Netherlands who meets the income and eligibility criteria can claim them — you do not need to be a Dutch citizen. Expats registered with the BRP (citizen register) and paying Dutch taxes are generally entitled to the same toeslagen as Dutch nationals, provided their household income is within the applicable limits."
-  - q: "How much is zorgtoeslag in 2026?"
-    a: "In 2026, the maximum zorgtoeslag (healthcare allowance) for a single person is approximately €131/month, and for couples it is approximately €257/month. The exact amount depends on your income: it begins to phase out above approximately €23,000 of annual income for singles and €29,000 for couples. At higher incomes it drops to zero. You must have Dutch basisverzekering (basic health insurance) to qualify."
-  - q: "What is the income limit for huurtoeslag in 2026?"
-    a: "The income limit for huurtoeslag (rent allowance) in 2026 is approximately €31,340 for a single person under 65, and similar for couples. Your rent must also fall below the liberalisatiegrens — approximately €879/month in 2026. Both conditions must be met: your income must be below the limit AND your rent must be below the ceiling. The maximum huurtoeslag for a single person in 2026 is approximately €415/month."
-  - q: "Is kinderopvangtoeslag available to expats?"
-    a: "Yes, provided you and your partner both work or study, or one of you follows a recognised Dutch integration pathway (inburgeringstraject). Kinderopvangtoeslag covers a percentage of registered childcare costs — up to 96% for lower incomes in 2026, scaling down as income rises. The childcare provider must be registered in the Landelijk Register Kinderopvang (LRK). Informal childcare arrangements do not qualify."
-  - q: "Can I claim toeslagen while receiving the 30% ruling?"
-    a: "Yes and no — it depends on the toeslag. Toeslagen are based on your toetsingsinkomen (assessment income). For zorgtoeslag and most other toeslagen, the relevant income is your Box 1 taxable income. The 30% ruling reduces your taxable income (Box 1), which may mean your assessment income falls below toeslag thresholds, making you eligible. However, the Belastingdienst uses your actual taxable income after the ruling — so at higher salaries, even with the ruling, income may still exceed toeslag limits."
-  - q: "How do I apply for toeslagen as an expat?"
-    a: "You apply via Mijn Toeslagen at toeslagen.nl, which requires a DigiD login. Get your DigiD first (at digid.nl or via the Basisregistratie Personen/gemeente). Once you have DigiD, log into Mijn Toeslagen, review which toeslagen you are eligible for, and submit applications. Applications can be submitted retroactively up to the 1st of September in the year following the claim year (e.g., for 2025 toeslagen, apply by 1 September 2026). Report any income changes immediately to avoid repayment demands."
+- q: What are toeslagen and who can claim them?
+  a: 'Toeslagen (allowances) are income-dependent government subsidies paid by the Belastingdienst (Dutch tax authority) to help people with specific costs: health insurance, rent, childcare, and children''s costs. Any resident of the Netherlands who meets the income and eligibility criteria can claim them — you do not need to be a Dutch citizen. Expats registered with the BRP (citizen register) and paying Dutch taxes are generally entitled to the same toeslagen as Dutch nationals, provided their household income is within the applicable limits.'
+- q: How much is zorgtoeslag in 2026?
+  a: 'In 2026, the maximum zorgtoeslag (healthcare allowance) for a single person is approximately €131/month, and for couples it is approximately €257/month. The exact amount depends on your income: it begins to phase out above approximately €23,000 of annual income for singles and €29,000 for couples. At higher incomes it drops to zero. You must have Dutch basisverzekering (basic health insurance) to qualify.'
+- q: What is the income limit for huurtoeslag in 2026?
+  a: 'The income limit for huurtoeslag (rent allowance) in 2026 is approximately €31,340 for a single person under 65, and similar for couples. Your rent must also fall below the liberalisatiegrens — approximately €879/month in 2026. Both conditions must be met: your income must be below the limit AND your rent must be below the ceiling. The maximum huurtoeslag for a single person in 2026 is approximately €415/month.'
+- q: Is kinderopvangtoeslag available to expats?
+  a: Yes, provided you and your partner both work or study, or one of you follows a recognised Dutch integration pathway (inburgeringstraject). Kinderopvangtoeslag covers a percentage of registered childcare costs — up to 96% for lower incomes in 2026, scaling down as income rises. The childcare provider must be registered in the Landelijk Register Kinderopvang (LRK). Informal childcare arrangements do not qualify.
+- q: Can I claim toeslagen while receiving the 30% ruling?
+  a: Yes and no — it depends on the toeslag. Toeslagen are based on your toetsingsinkomen (assessment income). For zorgtoeslag and most other toeslagen, the relevant income is your Box 1 taxable income. The 30% ruling reduces your taxable income (Box 1), which may mean your assessment income falls below toeslag thresholds, making you eligible. However, the Belastingdienst uses your actual taxable income after the ruling — so at higher salaries, even with the ruling, income may still exceed toeslag limits.
+- q: How do I apply for toeslagen as an expat?
+  a: You apply via Mijn Toeslagen at toeslagen.nl, which requires a DigiD login. Get your DigiD first (at digid.nl or via the Basisregistratie Personen/gemeente). Once you have DigiD, log into Mijn Toeslagen, review which toeslagen you are eligible for, and submit applications. Applications can be submitted retroactively up to the 1st of September in the year following the claim year (e.g., for 2025 toeslagen, apply by 1 September 2026). Report any income changes immediately to avoid repayment demands.
+schema_type: Article
 ---
 
 One of the most consistent things I see with expat clients: they have been living in the Netherlands for a year or two, paying for health insurance, rent, childcare — and nobody has told them they could have been receiving hundreds of euros per month in government allowances.

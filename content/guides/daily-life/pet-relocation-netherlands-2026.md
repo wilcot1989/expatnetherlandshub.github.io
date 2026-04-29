@@ -1,31 +1,43 @@
 ---
-title: "Moving to the Netherlands with Pets: Expat Guide 2026"
-date: 2026-05-03T10:00:00+01:00
-lastmod: 2026-04-23T10:00:00+01:00
-type: "guide"
-description: "How to bring your dog, cat, or other pet to the Netherlands. EU pet passport, microchipping, rabies vaccination, airline rules, and vet registration 2026."
-categories: ["daily-life"]
-tags: ["pets", "pet relocation", "moving with pets", "dog Netherlands", "cat Netherlands"]
-keywords: ["pet relocation netherlands", "moving to netherlands with dog", "bring pet to netherlands", "EU pet passport", "vet registration netherlands"]
+title: 'Moving to the Netherlands with Pets: Expat Guide 2026'
+date: 2026-05-03 10:00:00+01:00
+lastmod: 2026-04-23 10:00:00+01:00
+type: guide
+description: How to bring your dog, cat, or other pet to the Netherlands. EU pet passport, microchipping, rabies vaccination, airline rules, and vet registration 2026.
+categories:
+- daily-life
+tags:
+- pets
+- pet relocation
+- moving with pets
+- dog Netherlands
+- cat Netherlands
+keywords:
+- pet relocation netherlands
+- moving to netherlands with dog
+- bring pet to netherlands
+- EU pet passport
+- vet registration netherlands
 affiliate: true
 products:
-  - name: "KPN"
-    url: "https://www.kpn.com/"
-    price: "0.00"
-author: "Sarah van den Berg"
-author_bio: "Expat coach and relocation specialist. Half Dutch, half British, living in the Netherlands for over 10 years."
-featured_image: "/images/categories/daily-life.svg"
+- name: KPN
+  url: https://www.kpn.com/
+  price: '0.00'
+author: Sarah van den Berg
+author_bio: Expat coach and relocation specialist. Half Dutch, half British, living in the Netherlands for over 10 years.
+featured_image: /images/categories/daily-life.svg
 faq:
-  - q: "Can I bring my dog to the Netherlands?"
-    a: "Yes. Dogs, cats, and ferrets can enter the Netherlands with an EU pet passport (or equivalent veterinary certificate for non-EU countries), a microchip, and a valid rabies vaccination given at least 21 days before travel. Some breeds require additional documentation."
-  - q: "Do I need a pet passport to bring my pet to the Netherlands?"
-    a: "If moving from within the EU, yes — your pet needs an EU pet passport issued by an authorised vet. From non-EU countries, you need an official veterinary health certificate issued within 10 days of travel, plus proof of rabies vaccination and microchip."
-  - q: "How much does it cost to relocate a pet to the Netherlands?"
-    a: "Costs vary widely. DIY with airline cabin: €50-200 for the flight fee plus €100-300 for vet certificates and vaccinations. Professional pet relocation service: €800-3,000+ depending on origin country and animal size. Quarantine is not required for most pets entering from EU or listed third countries."
-  - q: "Who is this for?"
-    a: "See the section above on who benefits most from this service or guide."
-  - q: "What does it cost in 2026?"
-    a: "Pricing varies — see the comparison table above for current rates."
+- q: Can I bring my dog to the Netherlands?
+  a: Yes. Dogs, cats, and ferrets can enter the Netherlands with an EU pet passport (or equivalent veterinary certificate for non-EU countries), a microchip, and a valid rabies vaccination given at least 21 days before travel. Some breeds require additional documentation.
+- q: Do I need a pet passport to bring my pet to the Netherlands?
+  a: If moving from within the EU, yes — your pet needs an EU pet passport issued by an authorised vet. From non-EU countries, you need an official veterinary health certificate issued within 10 days of travel, plus proof of rabies vaccination and microchip.
+- q: How much does it cost to relocate a pet to the Netherlands?
+  a: 'Costs vary widely. DIY with airline cabin: €50-200 for the flight fee plus €100-300 for vet certificates and vaccinations. Professional pet relocation service: €800-3,000+ depending on origin country and animal size. Quarantine is not required for most pets entering from EU or listed third countries.'
+- q: Who is this for?
+  a: See the section above on who benefits most from this service or guide.
+- q: What does it cost in 2026?
+  a: Pricing varies — see the comparison table above for current rates.
+schema_type: Article
 ---
 
 When I first moved to the Netherlands, I brought my cat Noor with me from the UK. I will not pretend it was simple. There were vet appointments, paperwork, a stressful check-in process at the airport, and a very unhappy cat for about 48 hours. But she settled in beautifully, and nearly a decade later she still rules our Amsterdam apartment.

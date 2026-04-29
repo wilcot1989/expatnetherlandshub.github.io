@@ -1,33 +1,45 @@
 ---
-title: "How to Register a Car in the Netherlands as an Expat (2026)"
-date: 2026-04-01T10:00:00+01:00
-lastmod: 2026-04-23T10:00:00+01:00
-description: "Step-by-step guide to registering a car in the Netherlands as an expat. RDW, APK, BPM tax, insurance, and all the costs explained for 2026."
-categories: ["daily-life"]
-tags: ["car registration Netherlands", "RDW registration", "BPM tax", "APK inspection", "expat car Netherlands"]
-keywords: ["register car Netherlands expat", "RDW car registration", "BPM tax import car Netherlands", "APK inspection expat", "car insurance Netherlands expat 2026"]
+title: How to Register a Car in the Netherlands as an Expat (2026)
+date: 2026-04-01 10:00:00+01:00
+lastmod: 2026-04-23 10:00:00+01:00
+description: Step-by-step guide to registering a car in the Netherlands as an expat. RDW, APK, BPM tax, insurance, and all the costs explained for 2026.
+categories:
+- daily-life
+tags:
+- car registration Netherlands
+- RDW registration
+- BPM tax
+- APK inspection
+- expat car Netherlands
+keywords:
+- register car Netherlands expat
+- RDW car registration
+- BPM tax import car Netherlands
+- APK inspection expat
+- car insurance Netherlands expat 2026
 affiliate: true
 products:
-  - name: "Swapfiets"
-    url: "https://swapfiets.nl/"
-    price: "16.90"
-  - name: "NS"
-    url: "https://www.ns.nl/"
-    price: "0.00"
-author: "Sarah van den Berg"
-author_bio: "Expat coach and relocation specialist. Half Dutch, half British, living in the Netherlands for over 10 years."
-featured_image: "/images/featured/register-car-netherlands-expat-2026.webp"
+- name: Swapfiets
+  url: https://swapfiets.nl/
+  price: '16.90'
+- name: NS
+  url: https://www.ns.nl/
+  price: '0.00'
+author: Sarah van den Berg
+author_bio: Expat coach and relocation specialist. Half Dutch, half British, living in the Netherlands for over 10 years.
+featured_image: /images/featured/register-car-netherlands-expat-2026.webp
 faq:
-  - q: "Do I need a BSN to register a car in the Netherlands?"
-    a: "Yes, you need a BSN (citizen service number) to register a vehicle in your name with the RDW. You also need a Dutch home address. If you have just arrived, get your BSN sorted first at your gemeente before starting the car registration process."
-  - q: "How long does RDW car registration take in the Netherlands?"
-    a: "Registering a car you buy within the Netherlands can take as little as one day — the dealer or notary handles the transfer digitally. Importing a car from abroad takes longer: typically 2-6 weeks once you account for the RDW inspection, BPM tax assessment, and licence plate issue."
-  - q: "How much is BPM tax when importing a car into the Netherlands?"
-    a: "BPM (belasting van personenauto's en motorrijwielen) is calculated based on the vehicle's CO2 emissions and its depreciated value. For a petrol car with average emissions, BPM can easily run to €3,000–€10,000 or more. Electric vehicles are currently exempt. Always get a BPM calculation from the Belastingdienst before deciding to import."
-  - q: "Can I drive a foreign-registered car in the Netherlands long-term?"
-    a: "Once you are registered as a resident in the Netherlands, you are generally allowed to drive a foreign-registered car for a maximum of 6 months. After that, you must either re-register it in the Netherlands or export it. Driving beyond that window risks fines and complications with insurance."
-  - q: "Is car insurance mandatory in the Netherlands?"
-    a: "Yes. Third-party liability insurance (WA-verzekering) is the legal minimum for any car driven on Dutch roads. Without it, you can be fined heavily and held personally liable for any damages you cause. You cannot register a car or get licence plates without proof of insurance."
+- q: Do I need a BSN to register a car in the Netherlands?
+  a: Yes, you need a BSN (citizen service number) to register a vehicle in your name with the RDW. You also need a Dutch home address. If you have just arrived, get your BSN sorted first at your gemeente before starting the car registration process.
+- q: How long does RDW car registration take in the Netherlands?
+  a: 'Registering a car you buy within the Netherlands can take as little as one day — the dealer or notary handles the transfer digitally. Importing a car from abroad takes longer: typically 2-6 weeks once you account for the RDW inspection, BPM tax assessment, and licence plate issue.'
+- q: How much is BPM tax when importing a car into the Netherlands?
+  a: BPM (belasting van personenauto's en motorrijwielen) is calculated based on the vehicle's CO2 emissions and its depreciated value. For a petrol car with average emissions, BPM can easily run to €3,000–€10,000 or more. Electric vehicles are currently exempt. Always get a BPM calculation from the Belastingdienst before deciding to import.
+- q: Can I drive a foreign-registered car in the Netherlands long-term?
+  a: Once you are registered as a resident in the Netherlands, you are generally allowed to drive a foreign-registered car for a maximum of 6 months. After that, you must either re-register it in the Netherlands or export it. Driving beyond that window risks fines and complications with insurance.
+- q: Is car insurance mandatory in the Netherlands?
+  a: Yes. Third-party liability insurance (WA-verzekering) is the legal minimum for any car driven on Dutch roads. Without it, you can be fined heavily and held personally liable for any damages you cause. You cannot register a car or get licence plates without proof of insurance.
+schema_type: Article
 ---
 
 A client of mine — I'll call her Priya — moved from India to Utrecht with her husband and two young children. They had a car in mind: a three-year-old diesel hatchback they were going to ship over from the UK where they had been living previously. Simple enough, she thought. Then she discovered BPM tax.

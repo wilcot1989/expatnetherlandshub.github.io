@@ -1,11 +1,13 @@
 ---
-title: "Haarlem Expat Guide 2026: Living, Working & Costs"
-description: "Expat guide to Haarlem in 2026. Rent prices, neighbourhoods, jobs, registration, healthcare, and tips for moving to this Dutch city near Amsterdam."
-date: 2026-03-07T10:00:00+01:00
-lastmod: 2026-04-23T10:00:00+01:00
-featured_image: "/images/featured/haarlem.webp"
-author: "Sarah van den Berg"
-categories: ["cities"]
+title: 'Haarlem Expat Guide 2026: Living, Working & Costs'
+description: Expat guide to Haarlem in 2026. Rent prices, neighbourhoods, jobs, registration, healthcare, and tips for moving to this Dutch city near Amsterdam.
+date: 2026-03-07 10:00:00+01:00
+lastmod: 2026-04-23 10:00:00+01:00
+featured_image: /images/featured/haarlem.webp
+author: Sarah van den Berg
+categories:
+- cities
+schema_type: Article
 ---
 
 ## Haarlem at a Glance

@@ -1,33 +1,47 @@
 ---
-title: "Childcare in Netherlands: Costs + Options 2026"
-date: 2026-03-22T08:20:00+01:00
-lastmod: 2026-04-23T10:00:00+01:00
-description: "Full guide to childcare in the Netherlands for expats in 2026: daycare, after-school care, costs, kinderopvangtoeslag, and how to find a place."
-categories: ["health"]
-tags: ["childcare", "kinderopvang", "daycare", "expat family", "netherlands family", "kinderopvangtoeslag", "BSO"]
-keywords: ["childcare netherlands expats", "daycare netherlands cost 2026", "kinderopvang expat", "kinderopvangtoeslag expats", "childcare costs netherlands"]
+title: 'Childcare in Netherlands: Costs + Options 2026'
+date: 2026-03-22 08:20:00+01:00
+lastmod: 2026-04-23 10:00:00+01:00
+description: 'Full guide to childcare in the Netherlands for expats in 2026: daycare, after-school care, costs, kinderopvangtoeslag, and how to find a place.'
+categories:
+- health
+tags:
+- childcare
+- kinderopvang
+- daycare
+- expat family
+- netherlands family
+- kinderopvangtoeslag
+- BSO
+keywords:
+- childcare netherlands expats
+- daycare netherlands cost 2026
+- kinderopvang expat
+- kinderopvangtoeslag expats
+- childcare costs netherlands
 affiliate: true
-author: "Sarah van den Berg"
-author_bio: "Expat coach and relocation specialist. Half Dutch, half British, living in the Netherlands for over 10 years."
-featured_image: "/images/featured/childcare-netherlands-cost-expats-2026.webp"
+author: Sarah van den Berg
+author_bio: Expat coach and relocation specialist. Half Dutch, half British, living in the Netherlands for over 10 years.
+featured_image: /images/featured/childcare-netherlands-cost-expats-2026.webp
 faq:
-  - q: "How much does childcare cost in the Netherlands in 2026?"
-    a: "Dutch childcare (kinderopvang) costs vary by provider, city, and hours. The maximum hourly rate for daycare (dagopvang) set by the government in 2026 is approximately EUR 9.65 per hour. In practice, many providers charge close to this maximum. For a child in full-time daycare (4-5 days per week, around 40 hours), the gross monthly cost before subsidy is typically EUR 1,500-2,000. The childcare allowance (kinderopvangtoeslag) can reimburse a significant portion of this cost — in some cases up to 96% — depending on your income."
-  - q: "What is kinderopvangtoeslag and who is eligible?"
-    a: "Kinderopvangtoeslag is a government childcare subsidy paid by the Belastingdienst (Tax Authority) to help working parents afford registered childcare. Both parents must work or be in education/retraining to qualify. EU/EEA citizens registered in the Netherlands and eligible for toeslagen (allowances) can apply. Non-EU citizens with a work permit and legal residence status are also generally eligible. The subsidy is income-dependent — lower incomes receive a higher percentage back, up to 96% of the hourly rate up to the government maximum."
-  - q: "What types of childcare are available in the Netherlands?"
-    a: "The main types are: dagopvang (daycare for children aged 0-4), gastouderopvang (registered home childminder for ages 0-12), BSO (buitenschoolse opvang, after-school care for 4-12 year olds), and peuteropvang (pre-school sessions for 2-4 year olds, often half-days). In addition, some municipalities offer VVE peuterspeelzalen (early education playgroups). International schools sometimes have integrated childcare and after-school programmes."
-  - q: "How do I find a childcare place in the Netherlands?"
-    a: "Finding a place — particularly for babies and toddlers in larger cities — can take 6-12 months or longer. The main steps are: register on childcare provider waiting lists as early as possible (some allow registration during pregnancy), search via landelijk register kinderopvang (LRK) which lists all registered providers, check local municipal childcare waiting list databases, and ask expat community groups for recommendations. Starting the search before you relocate is strongly advisable."
-  - q: "Is Dutch childcare high quality?"
-    a: "Generally yes. All registered childcare providers in the Netherlands must meet government quality standards set out in the Wet kinderopvang. Providers are inspected by the GGD (public health authority) and must employ qualified staff. The maximum group sizes are set by law — for example, no more than 3 children per supervisor for babies under 1, and no more than 8 per supervisor for toddlers aged 1-4. The LRK register shows inspection reports for every registered provider."
-  - q: "What is the difference between a KDV and a BSO?"
-    a: "A KDV (kinderdagverblijf, daycare centre) cares for children aged 0-4, typically during full working days. A BSO (buitenschoolse opvang, after-school care) is for school-age children aged 4-12, providing care before school, after school, and during school holidays. Both are covered by kinderopvangtoeslag. Some organisations offer both types in the same building, which is practical if you have children of different ages."
+- q: How much does childcare cost in the Netherlands in 2026?
+  a: Dutch childcare (kinderopvang) costs vary by provider, city, and hours. The maximum hourly rate for daycare (dagopvang) set by the government in 2026 is approximately EUR 9.65 per hour. In practice, many providers charge close to this maximum. For a child in full-time daycare (4-5 days per week, around 40 hours), the gross monthly cost before subsidy is typically EUR 1,500-2,000. The childcare allowance (kinderopvangtoeslag) can reimburse a significant portion of this cost — in some cases up to 96% — depending on your income.
+- q: What is kinderopvangtoeslag and who is eligible?
+  a: Kinderopvangtoeslag is a government childcare subsidy paid by the Belastingdienst (Tax Authority) to help working parents afford registered childcare. Both parents must work or be in education/retraining to qualify. EU/EEA citizens registered in the Netherlands and eligible for toeslagen (allowances) can apply. Non-EU citizens with a work permit and legal residence status are also generally eligible. The subsidy is income-dependent — lower incomes receive a higher percentage back, up to 96% of the hourly rate up to the government maximum.
+- q: What types of childcare are available in the Netherlands?
+  a: 'The main types are: dagopvang (daycare for children aged 0-4), gastouderopvang (registered home childminder for ages 0-12), BSO (buitenschoolse opvang, after-school care for 4-12 year olds), and peuteropvang (pre-school sessions for 2-4 year olds, often half-days). In addition, some municipalities offer VVE peuterspeelzalen (early education playgroups). International schools sometimes have integrated childcare and after-school programmes.'
+- q: How do I find a childcare place in the Netherlands?
+  a: 'Finding a place — particularly for babies and toddlers in larger cities — can take 6-12 months or longer. The main steps are: register on childcare provider waiting lists as early as possible (some allow registration during pregnancy), search via landelijk register kinderopvang (LRK) which lists all registered providers, check local municipal childcare waiting list databases, and ask expat community groups for recommendations. Starting the search before you relocate is strongly advisable.'
+- q: Is Dutch childcare high quality?
+  a: Generally yes. All registered childcare providers in the Netherlands must meet government quality standards set out in the Wet kinderopvang. Providers are inspected by the GGD (public health authority) and must employ qualified staff. The maximum group sizes are set by law — for example, no more than 3 children per supervisor for babies under 1, and no more than 8 per supervisor for toddlers aged 1-4. The LRK register shows inspection reports for every registered provider.
+- q: What is the difference between a KDV and a BSO?
+  a: A KDV (kinderdagverblijf, daycare centre) cares for children aged 0-4, typically during full working days. A BSO (buitenschoolse opvang, after-school care) is for school-age children aged 4-12, providing care before school, after school, and during school holidays. Both are covered by kinderopvangtoeslag. Some organisations offer both types in the same building, which is practical if you have children of different ages.
 products:
-  - name: "Wise"
-    url: "https://go.expatnetherlandshub.com/wise?ref=/blog/childcare-netherlands-cost-expats-2026/"
-    price: "0.00"
-    tag: "Currency Transfer"
+- name: Wise
+  url: https://go.expatnetherlandshub.com/wise?ref=/blog/childcare-netherlands-cost-expats-2026/
+  price: '0.00'
+  tag: Currency Transfer
+schema_type: Article
 ---
 
 Childcare in the Netherlands was one of the biggest planning challenges I faced when my daughter was born here. The waitlists are long, the costs are high on paper, and the subsidy system looks confusing at first glance. But once you understand how it all fits together — and importantly, once you are receiving the kinderopvangtoeslag — it becomes far more manageable.

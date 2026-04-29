@@ -1,38 +1,48 @@
 ---
-title: "Moving to Tilburg: Expat Guide 2026"
-date: 2026-06-11T10:00:00+01:00
-lastmod: 2026-04-23T10:00:00+01:00
-description: "Expat guide to Tilburg 2026: neighbourhoods, rent prices, major employers, Brabant culture, and daily life in this affordable university city."
-categories: ["housing"]
-tags: ["Tilburg", "moving", "housing", "city guide"]
-keywords: ["moving to Tilburg expat", "Tilburg expat guide", "living in Tilburg", "Tilburg housing rent"]
+title: 'Moving to Tilburg: Expat Guide 2026'
+date: 2026-06-11 10:00:00+01:00
+lastmod: 2026-04-23 10:00:00+01:00
+description: 'Expat guide to Tilburg 2026: neighbourhoods, rent prices, major employers, Brabant culture, and daily life in this affordable university city.'
+categories:
+- housing
+tags:
+- Tilburg
+- moving
+- housing
+- city guide
+keywords:
+- moving to Tilburg expat
+- Tilburg expat guide
+- living in Tilburg
+- Tilburg housing rent
 affiliate: true
-author: "Sarah van den Berg"
-author_bio: "Expat coach and relocation specialist. Half Dutch, half British, living in the Netherlands for over 10 years."
-featured_image: "/images/categories/cities.svg"
+author: Sarah van den Berg
+author_bio: Expat coach and relocation specialist. Half Dutch, half British, living in the Netherlands for over 10 years.
+featured_image: /images/categories/cities.svg
 faq:
-  - q: "Is Tilburg a good city for expats?"
-    a: "Tilburg works well for expats connected to Tilburg University, the logistics and manufacturing sector, or those looking for genuinely affordable housing in the south of the Netherlands. It has a warm, unpretentious Brabant social culture, a growing creative scene rooted in its textile industry heritage, and good rail connections to Eindhoven, Den Bosch, and Breda. The international community is smaller than in Amsterdam or The Hague but is growing, especially around the university. English is widely spoken in professional and academic environments."
-  - q: "How much does rent cost in Tilburg?"
-    a: "Tilburg is one of the most affordable cities in the Netherlands for renters. Expect to pay €750-€1,050 per month for a one-bedroom apartment, €950-€1,400 for a two-bedroom, and €1,200-€1,700 for a three-bedroom house. Centrum and the university district are at the higher end; Reeshof and outer neighbourhoods offer the best value for families. These figures are roughly 35-45% below Amsterdam."
-  - q: "What are the best neighbourhoods in Tilburg for expats?"
-    a: "The main options are: Centrum (central, vibrant, highest rents), Oud-Noord (the most character-rich neighbourhood, former textile factories converted to apartments and studios), Quirijnstok and Wandelbos (family-friendly southern residential areas, good schools), and Reeshof (modern family district, lowest rents, car-dependent). Most single expats and young professionals choose Centrum or Oud-Noord; families tend to settle in Quirijnstok or Reeshof."
-  - q: "What is the Tilburg Kermis and should I know about it?"
-    a: "The Tilburg Kermis is the largest travelling funfair in the Benelux and one of the biggest in Europe — running for ten days each July. The entire city centre transforms, accommodation becomes scarce, and the city buzzes with a local festivity that Tilburgers take seriously. If you are planning to move in late July, book accommodation well in advance. If you are already living there, it is worth experiencing at least once: the scale and the local atmosphere are genuinely impressive."
-  - q: "How are the train connections from Tilburg?"
-    a: "Tilburg is on the main Intercity line between Amsterdam and Eindhoven via Den Bosch. Direct trains to Den Bosch take 20 minutes, to Eindhoven 20 minutes, to Breda 20 minutes, and to Amsterdam 1 hour 25 minutes. Utrecht is about 55 minutes away. For expats working in the Eindhoven tech cluster (ASML, NXP, DAF) or in Den Bosch, Tilburg is a realistic base with meaningfully lower rents."
-  - q: "Is Dutch required to live in Tilburg?"
-    a: "In daily life, Dutch is more commonly used in Tilburg than in Amsterdam — shop staff, neighbours, and service providers will often default to Dutch first. In professional and academic environments, English is standard. Most expats in Tilburg invest in basic Dutch fairly quickly, not because it is strictly required but because it makes social life in a Brabant city considerably more enjoyable. Tilburgers are friendly and will meet you halfway, but learning even conversational Dutch opens doors in a way that does not apply as strongly in Amsterdam."
+- q: Is Tilburg a good city for expats?
+  a: Tilburg works well for expats connected to Tilburg University, the logistics and manufacturing sector, or those looking for genuinely affordable housing in the south of the Netherlands. It has a warm, unpretentious Brabant social culture, a growing creative scene rooted in its textile industry heritage, and good rail connections to Eindhoven, Den Bosch, and Breda. The international community is smaller than in Amsterdam or The Hague but is growing, especially around the university. English is widely spoken in professional and academic environments.
+- q: How much does rent cost in Tilburg?
+  a: Tilburg is one of the most affordable cities in the Netherlands for renters. Expect to pay €750-€1,050 per month for a one-bedroom apartment, €950-€1,400 for a two-bedroom, and €1,200-€1,700 for a three-bedroom house. Centrum and the university district are at the higher end; Reeshof and outer neighbourhoods offer the best value for families. These figures are roughly 35-45% below Amsterdam.
+- q: What are the best neighbourhoods in Tilburg for expats?
+  a: 'The main options are: Centrum (central, vibrant, highest rents), Oud-Noord (the most character-rich neighbourhood, former textile factories converted to apartments and studios), Quirijnstok and Wandelbos (family-friendly southern residential areas, good schools), and Reeshof (modern family district, lowest rents, car-dependent). Most single expats and young professionals choose Centrum or Oud-Noord; families tend to settle in Quirijnstok or Reeshof.'
+- q: What is the Tilburg Kermis and should I know about it?
+  a: 'The Tilburg Kermis is the largest travelling funfair in the Benelux and one of the biggest in Europe — running for ten days each July. The entire city centre transforms, accommodation becomes scarce, and the city buzzes with a local festivity that Tilburgers take seriously. If you are planning to move in late July, book accommodation well in advance. If you are already living there, it is worth experiencing at least once: the scale and the local atmosphere are genuinely impressive.'
+- q: How are the train connections from Tilburg?
+  a: Tilburg is on the main Intercity line between Amsterdam and Eindhoven via Den Bosch. Direct trains to Den Bosch take 20 minutes, to Eindhoven 20 minutes, to Breda 20 minutes, and to Amsterdam 1 hour 25 minutes. Utrecht is about 55 minutes away. For expats working in the Eindhoven tech cluster (ASML, NXP, DAF) or in Den Bosch, Tilburg is a realistic base with meaningfully lower rents.
+- q: Is Dutch required to live in Tilburg?
+  a: In daily life, Dutch is more commonly used in Tilburg than in Amsterdam — shop staff, neighbours, and service providers will often default to Dutch first. In professional and academic environments, English is standard. Most expats in Tilburg invest in basic Dutch fairly quickly, not because it is strictly required but because it makes social life in a Brabant city considerably more enjoyable. Tilburgers are friendly and will meet you halfway, but learning even conversational Dutch opens doors in a way that does not apply as strongly in Amsterdam.
 products:
-  - name: "HousingAnywhere"
-    url: "https://housinganywhere.com/"
-    price: "0.00"
-  - name: "Pararius"
-    url: "https://www.pararius.com/"
-    price: "0.00"
-  - name: "Funda"
-    url: "https://www.funda.nl/"
-    price: "0.00"
+- name: HousingAnywhere
+  url: https://housinganywhere.com/
+  price: '0.00'
+- name: Pararius
+  url: https://www.pararius.com/
+  price: '0.00'
+- name: Funda
+  url: https://www.funda.nl/
+  price: '0.00'
+schema_type: Article
 ---
 
 I have sent a number of clients to Tilburg over the years — most of them initially resistant to the idea. They had heard of Amsterdam, Utrecht, maybe Eindhoven, but Tilburg? The tenth-largest city in the Netherlands does not get much attention in expat circles, and I have never quite understood why. Once they settled in, most of them told me some version of the same thing: I expected it to be a stopgap. It turned out to be a place I actually want to live.

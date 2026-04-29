@@ -1,38 +1,50 @@
 ---
-title: "Dutch Disability Benefits for Expats 2026"
-date: 2026-06-17T10:00:00+01:00
-lastmod: 2026-04-23T10:00:00+01:00
-description: "Dutch disability and social security for expats 2026: Ziektewet, WIA, WGA, IVA, WW, and bijstand — what you're entitled to, amounts, and how to apply."
-categories: ["legal"]
-tags: ["disability", "social security", "WIA", "ZW", "benefits"]
-keywords: ["dutch disability benefits expat", "WIA uitkering expat", "ziektewet expat", "dutch social security expats", "UWV uitkering"]
+title: Dutch Disability Benefits for Expats 2026
+date: 2026-06-17 10:00:00+01:00
+lastmod: 2026-04-23 10:00:00+01:00
+description: 'Dutch disability and social security for expats 2026: Ziektewet, WIA, WGA, IVA, WW, and bijstand — what you''re entitled to, amounts, and how to apply.'
+categories:
+- legal
+tags:
+- disability
+- social security
+- WIA
+- ZW
+- benefits
+keywords:
+- dutch disability benefits expat
+- WIA uitkering expat
+- ziektewet expat
+- dutch social security expats
+- UWV uitkering
 affiliate: false
 products:
-  - name: "Expatax"
-    url: "https://www.expatax.nl/"
-    price: "0.00"
-  - name: "Blue Umbrella"
-    url: "https://www.blueumbrella.nl/"
-    price: "0.00"
-  - name: "IND"
-    url: "https://ind.nl/en"
-    price: "0.00"
-author: "Sarah van den Berg"
-author_bio: "Expat coach and relocation specialist. Half Dutch, half British, living in the Netherlands for over 10 years."
-featured_image: "/images/categories/legal.svg"
+- name: Expatax
+  url: https://www.expatax.nl/
+  price: '0.00'
+- name: Blue Umbrella
+  url: https://www.blueumbrella.nl/
+  price: '0.00'
+- name: IND
+  url: https://ind.nl/en
+  price: '0.00'
+author: Sarah van den Berg
+author_bio: Expat coach and relocation specialist. Half Dutch, half British, living in the Netherlands for over 10 years.
+featured_image: /images/categories/legal.svg
 faq:
-  - q: "Am I entitled to Dutch disability benefits as an expat?"
-    a: "Yes, if you work in the Netherlands and pay Dutch social security contributions (premies), you build up entitlement to the same benefits as Dutch nationals. The Netherlands has a contributory social insurance system, meaning entitlement is based on working and paying premiums, not on nationality or permanent residency. If you become sick or disabled while employed in the Netherlands, you are covered by Ziektewet and potentially WIA — regardless of your passport. The only exception is for expats working under a posting arrangement from abroad who may remain covered by their home country's social security system under an EU regulation or bilateral treaty."
-  - q: "How does the Ziektewet (ZW) work for expats?"
-    a: "Ziektewet is the Dutch sick pay system. For the first two years of illness, your employer is legally required to continue paying at least 70% of your last-earned salary (most collective agreements top this up to 100% in the first year). You report sick to your employer and they involve the Arbo-dienst (occupational health service). After two years of continuous illness, if you remain unable to work, you move to the WIA assessment. If your employer goes bankrupt during your illness, UWV takes over the Ziektewet payment."
-  - q: "What is the WIA and how much does it pay?"
-    a: "The WIA (Wet werk en inkomen naar arbeidsvermogen) is the long-term disability benefit that kicks in after two years of illness. It pays a percentage of your dagloon (daily wage, calculated from your last 12 months of earnings). The WGA component (partial disability) pays 70% of your lost income initially, tapering after a period. The IVA component (full, permanent disability) pays 75% of your last dagloon as a percentage basis. The maximum dagloon in 2026 is €282.50 per day, so the maximum WIA benefit is approximately €197.75/day (IVA, 75%) or €197.75/day (WGA initial phase). Most expats receive less than the maximum, based on their actual salary history."
-  - q: "What is the WW unemployment benefit and who qualifies?"
-    a: "WW (Werkloosheidswet) provides unemployment benefit if you lose your job involuntarily. To qualify you need to have worked in at least 26 of the last 36 weeks before becoming unemployed (the 26-week rule). The benefit lasts from 3 months minimum up to 24 months, depending on your work history — 1 month of WW for each year worked, up to 24 months. WW pays 75% of your last daily wage for the first two months, then 70%. You must register as unemployed with UWV immediately when your contract ends and actively search for work to maintain the benefit."
-  - q: "What is bijstand and can expats claim it?"
-    a: "Bijstand (Participatiewet) is the last-resort social assistance benefit, means-tested and paid by your local municipality. It covers those with no other income and insufficient savings. The current bijstand level is approximately €1,175/month for a single person and €1,678 for couples (2026 figures). For expats, access to bijstand depends on your residency status — EU citizens have the right to bijstand after five years of legal residence or if they are a worker or self-employed person. Non-EU expats on work permits generally do not qualify for bijstand. It is not a benefit to plan around; it is a safety net for the most extreme situations."
-  - q: "How do I apply for UWV benefits?"
-    a: "All WIA, WW, and Ziektewet claims go through UWV (Uitvoeringsinstituut Werknemersverzekeringen), the Dutch social security agency. You apply via the UWV website (uwv.nl) or by calling 088 898 2000. Most processes require a DigiD — the Dutch digital identity system. For WIA specifically, UWV will schedule a re-integration assessment (WIA-keuring) involving a verzekeringsarts (insurance doctor) who assesses your functional limitations and a arbeidsdeskundige who assesses what work you can still do. The process takes 6-8 weeks from application. Documents typically required: employment contract, recent loonstroken (payslips), medical documentation, and BSN."
+- q: Am I entitled to Dutch disability benefits as an expat?
+  a: Yes, if you work in the Netherlands and pay Dutch social security contributions (premies), you build up entitlement to the same benefits as Dutch nationals. The Netherlands has a contributory social insurance system, meaning entitlement is based on working and paying premiums, not on nationality or permanent residency. If you become sick or disabled while employed in the Netherlands, you are covered by Ziektewet and potentially WIA — regardless of your passport. The only exception is for expats working under a posting arrangement from abroad who may remain covered by their home country's social security system under an EU regulation or bilateral treaty.
+- q: How does the Ziektewet (ZW) work for expats?
+  a: Ziektewet is the Dutch sick pay system. For the first two years of illness, your employer is legally required to continue paying at least 70% of your last-earned salary (most collective agreements top this up to 100% in the first year). You report sick to your employer and they involve the Arbo-dienst (occupational health service). After two years of continuous illness, if you remain unable to work, you move to the WIA assessment. If your employer goes bankrupt during your illness, UWV takes over the Ziektewet payment.
+- q: What is the WIA and how much does it pay?
+  a: The WIA (Wet werk en inkomen naar arbeidsvermogen) is the long-term disability benefit that kicks in after two years of illness. It pays a percentage of your dagloon (daily wage, calculated from your last 12 months of earnings). The WGA component (partial disability) pays 70% of your lost income initially, tapering after a period. The IVA component (full, permanent disability) pays 75% of your last dagloon as a percentage basis. The maximum dagloon in 2026 is €282.50 per day, so the maximum WIA benefit is approximately €197.75/day (IVA, 75%) or €197.75/day (WGA initial phase). Most expats receive less than the maximum, based on their actual salary history.
+- q: What is the WW unemployment benefit and who qualifies?
+  a: WW (Werkloosheidswet) provides unemployment benefit if you lose your job involuntarily. To qualify you need to have worked in at least 26 of the last 36 weeks before becoming unemployed (the 26-week rule). The benefit lasts from 3 months minimum up to 24 months, depending on your work history — 1 month of WW for each year worked, up to 24 months. WW pays 75% of your last daily wage for the first two months, then 70%. You must register as unemployed with UWV immediately when your contract ends and actively search for work to maintain the benefit.
+- q: What is bijstand and can expats claim it?
+  a: Bijstand (Participatiewet) is the last-resort social assistance benefit, means-tested and paid by your local municipality. It covers those with no other income and insufficient savings. The current bijstand level is approximately €1,175/month for a single person and €1,678 for couples (2026 figures). For expats, access to bijstand depends on your residency status — EU citizens have the right to bijstand after five years of legal residence or if they are a worker or self-employed person. Non-EU expats on work permits generally do not qualify for bijstand. It is not a benefit to plan around; it is a safety net for the most extreme situations.
+- q: How do I apply for UWV benefits?
+  a: 'All WIA, WW, and Ziektewet claims go through UWV (Uitvoeringsinstituut Werknemersverzekeringen), the Dutch social security agency. You apply via the UWV website (uwv.nl) or by calling 088 898 2000. Most processes require a DigiD — the Dutch digital identity system. For WIA specifically, UWV will schedule a re-integration assessment (WIA-keuring) involving a verzekeringsarts (insurance doctor) who assesses your functional limitations and a arbeidsdeskundige who assesses what work you can still do. The process takes 6-8 weeks from application. Documents typically required: employment contract, recent loonstroken (payslips), medical documentation, and BSN.'
+schema_type: Article
 ---
 
 One of the most common questions I get from expats in their first year in the Netherlands is some version of: "If something goes wrong — I get sick, I lose my job, I can't work — what actually happens?" It is a reasonable thing to want to understand before you need it.

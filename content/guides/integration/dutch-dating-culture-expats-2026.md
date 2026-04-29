@@ -1,38 +1,48 @@
 ---
-title: "Dutch Dating Culture: What Expats Need to Know"
-date: 2026-05-28T10:00:00+01:00
-lastmod: 2026-04-23T10:00:00+01:00
-description: "Dutch dating culture for expats: going Dutch, the Tikkie after dinner, directness in relationships, and why living together before marriage is the norm."
-categories: ["integration"]
-tags: ["dating", "Dutch culture", "relationships", "social life"]
-keywords: ["dutch dating culture expats", "dating in netherlands", "dating dutch people", "dutch relationship culture"]
+title: 'Dutch Dating Culture: What Expats Need to Know'
+date: 2026-05-28 10:00:00+01:00
+lastmod: 2026-04-23 10:00:00+01:00
+description: 'Dutch dating culture for expats: going Dutch, the Tikkie after dinner, directness in relationships, and why living together before marriage is the norm.'
+categories:
+- integration
+tags:
+- dating
+- Dutch culture
+- relationships
+- social life
+keywords:
+- dutch dating culture expats
+- dating in netherlands
+- dating dutch people
+- dutch relationship culture
 affiliate: false
-author: "Sarah van den Berg"
-author_bio: "Expat coach and relocation specialist. Half Dutch, half British, living in the Netherlands for over 10 years."
-featured_image: "/images/categories/integration.svg"
+author: Sarah van den Berg
+author_bio: Expat coach and relocation specialist. Half Dutch, half British, living in the Netherlands for over 10 years.
+featured_image: /images/categories/integration.svg
 faq:
-  - q: "Do Dutch people really split the bill on dates?"
-    a: "Yes, and they do it cheerfully. Splitting a bill 50/50 is the default in the Netherlands, including on a first date. It is not a sign of disinterest — it is simply how Dutch people handle money. Many Dutch daters will send a Tikkie (a payment request app) the same evening. If you are from a culture where the person who asked for the date pays, this can feel jarring. Try to see it as a sign of equality rather than stinginess."
-  - q: "How do I know if a Dutch person is interested in me romantically?"
-    a: "They will tell you. Dutch people are direct about attraction in a way that can feel almost clinical to people from cultures with more elaborate courtship rituals. If a Dutch person asks you on a second date, they are interested. If they are not, they will say so — or not reply. The ambiguous grey zone that many daters are used to simply does not exist here in the same way."
-  - q: "What dating apps are popular in the Netherlands?"
-    a: "Tinder, Bumble, and Hinge all have large user bases in Dutch cities. Lexa.nl is the most popular local Dutch dating app and tends to attract users looking for more serious relationships. Happn has some users in Amsterdam and other major cities. For expats, Tinder and Bumble are the fastest ways to meet people who speak English."
-  - q: "Is it true Dutch people date fewer people but commit faster?"
-    a: "This is broadly true compared to, for example, American or British dating culture. Dutch daters often date one person at a time and move relatively quickly from casual dates to a defined relationship. The 'talking stage' culture of keeping multiple options open simultaneously is less common. Once commitment happens, it tends to be serious."
-  - q: "How important is it to speak Dutch when dating in the Netherlands?"
-    a: "In major cities like Amsterdam, Rotterdam, and Utrecht, you can date entirely in English without difficulty. Most Dutch people in their 20s and 30s are fluent. That said, learning even basic Dutch earns significant goodwill and shows you take the country seriously — which Dutch people genuinely appreciate. See our guide on the best apps to learn Dutch for a practical starting point."
-  - q: "What do Dutch people find attractive in a partner?"
-    a: "Independence is probably number one. Dutch culture places enormous value on self-sufficiency, and someone who has their own life, their own opinions, and their own plans is far more appealing than someone who revolves entirely around their partner. Directness, a dry sense of humor, and not taking yourself too seriously also go a long way."
+- q: Do Dutch people really split the bill on dates?
+  a: Yes, and they do it cheerfully. Splitting a bill 50/50 is the default in the Netherlands, including on a first date. It is not a sign of disinterest — it is simply how Dutch people handle money. Many Dutch daters will send a Tikkie (a payment request app) the same evening. If you are from a culture where the person who asked for the date pays, this can feel jarring. Try to see it as a sign of equality rather than stinginess.
+- q: How do I know if a Dutch person is interested in me romantically?
+  a: They will tell you. Dutch people are direct about attraction in a way that can feel almost clinical to people from cultures with more elaborate courtship rituals. If a Dutch person asks you on a second date, they are interested. If they are not, they will say so — or not reply. The ambiguous grey zone that many daters are used to simply does not exist here in the same way.
+- q: What dating apps are popular in the Netherlands?
+  a: Tinder, Bumble, and Hinge all have large user bases in Dutch cities. Lexa.nl is the most popular local Dutch dating app and tends to attract users looking for more serious relationships. Happn has some users in Amsterdam and other major cities. For expats, Tinder and Bumble are the fastest ways to meet people who speak English.
+- q: Is it true Dutch people date fewer people but commit faster?
+  a: This is broadly true compared to, for example, American or British dating culture. Dutch daters often date one person at a time and move relatively quickly from casual dates to a defined relationship. The 'talking stage' culture of keeping multiple options open simultaneously is less common. Once commitment happens, it tends to be serious.
+- q: How important is it to speak Dutch when dating in the Netherlands?
+  a: In major cities like Amsterdam, Rotterdam, and Utrecht, you can date entirely in English without difficulty. Most Dutch people in their 20s and 30s are fluent. That said, learning even basic Dutch earns significant goodwill and shows you take the country seriously — which Dutch people genuinely appreciate. See our guide on the best apps to learn Dutch for a practical starting point.
+- q: What do Dutch people find attractive in a partner?
+  a: Independence is probably number one. Dutch culture places enormous value on self-sufficiency, and someone who has their own life, their own opinions, and their own plans is far more appealing than someone who revolves entirely around their partner. Directness, a dry sense of humor, and not taking yourself too seriously also go a long way.
 products:
-  - name: "Babbel"
-    url: "https://www.babbel.com/"
-    price: "6.99"
-  - name: "Meetup"
-    url: "https://www.meetup.com/"
-    price: "0.00"
-  - name: "DutchPod101"
-    url: "https://www.dutchpod101.com/"
-    price: "0.00"
+- name: Babbel
+  url: https://www.babbel.com/
+  price: '6.99'
+- name: Meetup
+  url: https://www.meetup.com/
+  price: '0.00'
+- name: DutchPod101
+  url: https://www.dutchpod101.com/
+  price: '0.00'
+schema_type: Article
 ---
 
 I met my Dutch partner at a borrel. For anyone unfamiliar with this concept, a borrel is essentially a standing-around-drinking-wine-while-pretending-to-network social event that the Dutch have elevated into a full cultural institution. He approached me, said he liked my accent, asked where I was from, and then — before I could even answer — told me that he had heard British people were terrible at direct communication and wanted to know if I was going to be one of those.

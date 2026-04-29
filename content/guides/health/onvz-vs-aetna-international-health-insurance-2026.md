@@ -1,36 +1,51 @@
 ---
-title: "ONVZ vs Aetna International: Expat Health Insurance (2026)"
-date: 2026-03-20T10:00:00+01:00
-lastmod: 2026-04-23T10:00:00+01:00
-description: "ONVZ vs Aetna International health insurance compared for expats in the Netherlands. Premiums, coverage, and which to choose in 2026."
-categories: ["health"]
-tags: ["ONVZ", "Aetna", "health insurance", "international insurance", "expat insurance"]
-keywords: ["ONVZ vs Aetna expats Netherlands", "international health insurance Netherlands 2026", "ONVZ expat plan review", "Aetna International Netherlands", "best international health insurance expats Netherlands", "who needs Dutch health insurance expat", "ONVZ Vrij plan", "Aetna International expat coverage"]
+title: 'ONVZ vs Aetna International: Expat Health Insurance (2026)'
+date: 2026-03-20 10:00:00+01:00
+lastmod: 2026-04-23 10:00:00+01:00
+description: ONVZ vs Aetna International health insurance compared for expats in the Netherlands. Premiums, coverage, and which to choose in 2026.
+categories:
+- health
+tags:
+- ONVZ
+- Aetna
+- health insurance
+- international insurance
+- expat insurance
+keywords:
+- ONVZ vs Aetna expats Netherlands
+- international health insurance Netherlands 2026
+- ONVZ expat plan review
+- Aetna International Netherlands
+- best international health insurance expats Netherlands
+- who needs Dutch health insurance expat
+- ONVZ Vrij plan
+- Aetna International expat coverage
 affiliate: true
 products:
-  - name: "SafetyWing"
-    url: "https://go.expatnetherlandshub.com/safetywing?ref=/guides/health/onvz-vs-aetna-international-health-insurance-2026/"
-    price: "45.08"
-  - name: "CZ"
-    url: "https://www.cz.nl/"
-    price: "0.00"
-  - name: "Zilveren Kruis"
-    url: "https://www.zilverenkruis.nl/"
-    price: "0.00"
-author: "Sarah van den Berg"
-author_bio: "Expat coach and relocation specialist. Half Dutch, half British, living in the Netherlands for over 10 years."
-featured_image: "/images/featured/onvz-vs-aetna-international-health-insurance-2026.webp"
+- name: SafetyWing
+  url: https://go.expatnetherlandshub.com/safetywing?ref=/guides/health/onvz-vs-aetna-international-health-insurance-2026/
+  price: '45.08'
+- name: CZ
+  url: https://www.cz.nl/
+  price: '0.00'
+- name: Zilveren Kruis
+  url: https://www.zilverenkruis.nl/
+  price: '0.00'
+author: Sarah van den Berg
+author_bio: Expat coach and relocation specialist. Half Dutch, half British, living in the Netherlands for over 10 years.
+featured_image: /images/featured/onvz-vs-aetna-international-health-insurance-2026.webp
 faq:
-  - q: "Do I have to take Dutch health insurance (zorgverzekering) or can I use Aetna International instead?"
-    a: "It depends on your situation. If you live and work in the Netherlands under Dutch social insurance (most employees and self-employed residents), you are legally required to have a Dutch basisverzekering. An international plan like Aetna International does not fulfil this legal obligation. However, if you are posted to the Netherlands by a foreign employer and covered by their home-country social security (typically via an A1 or certificate of coverage), you may be exempt from the Dutch system. Highly paid assignees on specific visa categories and employees of certain international organisations (UN, NATO, diplomatic missions) are also often exempt. If in doubt, check with the SVB (Sociale Verzekeringsbank) or a Dutch employment lawyer."
-  - q: "What is the premium difference between ONVZ and Aetna International for someone in the Netherlands?"
-    a: "For most expats, ONVZ's international plans (e.g. ONVZ Vrij or ONVZ Expat) run from roughly EUR 150-220 per month depending on age, coverage tier, and deductible choice. Aetna International premiums for a standard plan in the Netherlands typically range from approximately EUR 180-350 per month, again depending heavily on age band, coverage level, and whether you include the US in your coverage area. Aetna tends to be more expensive at equivalent coverage levels, particularly for older expats, but the global portability and broader coverage geography can justify the cost for globally mobile professionals."
-  - q: "Does ONVZ cover me if I travel outside the Netherlands?"
-    a: "ONVZ's international plans (ONVZ Vrij, ONVZ Expat) provide worldwide coverage including emergency care abroad. However, ONVZ is fundamentally a Dutch insurer and its primary design is for people based in the Netherlands. Coverage quality for extended periods abroad varies by plan. If you spend more than a few months per year outside the Netherlands, or if you want smooth access to private hospitals in multiple countries, Aetna International is better suited — it is built from the ground up for globally mobile people. Always read the exact territorial conditions of any ONVZ plan before assuming worldwide coverage is equivalent to Aetna's global network."
-  - q: "Can I use ONVZ or Aetna International to see a specialist in the Netherlands without a GP referral?"
-    a: "In the Dutch system, you generally need a huisarts (GP) referral to see a specialist, regardless of your insurer. ONVZ's Dutch-law plans follow this model. ONVZ's international plans and Aetna International, which operate outside the regulated basisverzekering framework, may offer direct specialist access in their policy terms — but in practice, most Dutch specialists still expect a referral as standard procedure. If direct access matters to you, confirm with the specific specialist or clinic, not just with the insurer."
-  - q: "Who is this for?"
-    a: "See the section above on who benefits most from this service or guide."
+- q: Do I have to take Dutch health insurance (zorgverzekering) or can I use Aetna International instead?
+  a: It depends on your situation. If you live and work in the Netherlands under Dutch social insurance (most employees and self-employed residents), you are legally required to have a Dutch basisverzekering. An international plan like Aetna International does not fulfil this legal obligation. However, if you are posted to the Netherlands by a foreign employer and covered by their home-country social security (typically via an A1 or certificate of coverage), you may be exempt from the Dutch system. Highly paid assignees on specific visa categories and employees of certain international organisations (UN, NATO, diplomatic missions) are also often exempt. If in doubt, check with the SVB (Sociale Verzekeringsbank) or a Dutch employment lawyer.
+- q: What is the premium difference between ONVZ and Aetna International for someone in the Netherlands?
+  a: For most expats, ONVZ's international plans (e.g. ONVZ Vrij or ONVZ Expat) run from roughly EUR 150-220 per month depending on age, coverage tier, and deductible choice. Aetna International premiums for a standard plan in the Netherlands typically range from approximately EUR 180-350 per month, again depending heavily on age band, coverage level, and whether you include the US in your coverage area. Aetna tends to be more expensive at equivalent coverage levels, particularly for older expats, but the global portability and broader coverage geography can justify the cost for globally mobile professionals.
+- q: Does ONVZ cover me if I travel outside the Netherlands?
+  a: ONVZ's international plans (ONVZ Vrij, ONVZ Expat) provide worldwide coverage including emergency care abroad. However, ONVZ is fundamentally a Dutch insurer and its primary design is for people based in the Netherlands. Coverage quality for extended periods abroad varies by plan. If you spend more than a few months per year outside the Netherlands, or if you want smooth access to private hospitals in multiple countries, Aetna International is better suited — it is built from the ground up for globally mobile people. Always read the exact territorial conditions of any ONVZ plan before assuming worldwide coverage is equivalent to Aetna's global network.
+- q: Can I use ONVZ or Aetna International to see a specialist in the Netherlands without a GP referral?
+  a: In the Dutch system, you generally need a huisarts (GP) referral to see a specialist, regardless of your insurer. ONVZ's Dutch-law plans follow this model. ONVZ's international plans and Aetna International, which operate outside the regulated basisverzekering framework, may offer direct specialist access in their policy terms — but in practice, most Dutch specialists still expect a referral as standard procedure. If direct access matters to you, confirm with the specific specialist or clinic, not just with the insurer.
+- q: Who is this for?
+  a: See the section above on who benefits most from this service or guide.
+schema_type: Article
 ---
 
 A few years ago a colleague of mine — a senior software engineer who had relocated from Singapore to Amsterdam on a three-year corporate assignment — called me in something close to panic. She had been in the Netherlands for six months, had dutifully kept her Aetna International policy from her previous posting in London, and had just received a letter from the Belastingdienst informing her that she owed nearly EUR 2,000 in fines for failing to take out Dutch health insurance. She had assumed, reasonably enough, that her existing international plan would simply carry over. It did not.

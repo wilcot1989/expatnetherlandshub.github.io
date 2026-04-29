@@ -1,38 +1,48 @@
 ---
-title: "Expat Relocation Services NL: Worth It? (2026)"
-date: 2026-05-25T10:00:00+01:00
-lastmod: 2026-04-23T10:00:00+01:00
-description: "Honest review of expat relocation services in the Netherlands: what they actually do, what they cost, and when you should skip them entirely."
-categories: ["legal"]
-tags: ["relocation", "relocation service", "moving", "expat service"]
-keywords: ["expat relocation services netherlands", "relocation company netherlands", "is relocation service worth it", "best relocation service netherlands"]
+title: 'Expat Relocation Services NL: Worth It? (2026)'
+date: 2026-05-25 10:00:00+01:00
+lastmod: 2026-04-23 10:00:00+01:00
+description: 'Honest review of expat relocation services in the Netherlands: what they actually do, what they cost, and when you should skip them entirely.'
+categories:
+- legal
+tags:
+- relocation
+- relocation service
+- moving
+- expat service
+keywords:
+- expat relocation services netherlands
+- relocation company netherlands
+- is relocation service worth it
+- best relocation service netherlands
 affiliate: true
 products:
-  - name: "Expatax"
-    url: "https://www.expatax.nl/"
-    price: "0.00"
-  - name: "Blue Umbrella"
-    url: "https://www.blueumbrella.nl/"
-    price: "0.00"
-  - name: "IND"
-    url: "https://ind.nl/en"
-    price: "0.00"
-author: "Sarah van den Berg"
-author_bio: "Expat coach and relocation specialist. Half Dutch, half British, living in the Netherlands for over 10 years."
-featured_image: "/images/categories/legal.svg"
+- name: Expatax
+  url: https://www.expatax.nl/
+  price: '0.00'
+- name: Blue Umbrella
+  url: https://www.blueumbrella.nl/
+  price: '0.00'
+- name: IND
+  url: https://ind.nl/en
+  price: '0.00'
+author: Sarah van den Berg
+author_bio: Expat coach and relocation specialist. Half Dutch, half British, living in the Netherlands for over 10 years.
+featured_image: /images/categories/legal.svg
 faq:
-  - q: "What does a relocation service in the Netherlands actually do?"
-    a: "Relocation services typically cover some combination of: visa and residence permit support, housing search and rental contract negotiation, school search for children, gemeente registration, bank account opening, orientation tours, and administrative setup. The exact scope depends on the package you purchase. Basic packages usually focus on immigration and housing. Full-service packages add schooling, insurance guidance, car import, and post-arrival settling-in support."
-  - q: "How much does a relocation service in the Netherlands cost?"
-    a: "Basic packages for a single person or couple typically run €1,500–€3,000. Mid-range packages covering housing, immigration support, and registration come in at €3,000–€7,000. Full-service family packages, which include school search and extended settling-in support, range from €7,000–€15,000 or more. Employer-sponsored packages are often negotiated at higher rates because the company is paying."
-  - q: "Is a relocation service worth it for an EU citizen moving to the Netherlands?"
-    a: "In most cases, no — at least not a full-service package. EU citizens do not need visa support, can use the free gemeente registration process, and the Dutch housing market is difficult but manageable with research. A targeted service like a housing search specialist or a single session with an expat coach is more cost-effective than a full relocation package."
-  - q: "What is the difference between a relocation company and an expat coach?"
-    a: "A relocation company is typically a business offering packaged services: housing, immigration admin, school search. An expat coach is usually an individual who helps you understand the system, prepare your documents, and make decisions — but does less of the doing for you. Coaches tend to be more affordable (€100–€250 per session) and better suited to people who want guidance rather than full outsourcing."
-  - q: "How do I know if a relocation company in the Netherlands is reliable?"
-    a: "Check for membership in EuRA (European Relocation Association) or SARA (the Dutch relocation industry association). Read Google and Trustpilot reviews, and pay attention to reviews left by people in your specific situation (family vs. single, your nationality, your city). Ask the company directly for client references and for a written breakdown of exactly which services are included."
-  - q: "Can my employer pay for relocation services in the Netherlands?"
-    a: "Yes, and this is the most common way relocation services get used. Most international companies offer a relocation allowance or contract directly with a relocation company on the employee's behalf. If your employer is bringing you to the Netherlands on a highly skilled migrant visa, it is worth asking HR what relocation support they offer — many companies provide more than they advertise upfront."
+- q: What does a relocation service in the Netherlands actually do?
+  a: 'Relocation services typically cover some combination of: visa and residence permit support, housing search and rental contract negotiation, school search for children, gemeente registration, bank account opening, orientation tours, and administrative setup. The exact scope depends on the package you purchase. Basic packages usually focus on immigration and housing. Full-service packages add schooling, insurance guidance, car import, and post-arrival settling-in support.'
+- q: How much does a relocation service in the Netherlands cost?
+  a: Basic packages for a single person or couple typically run €1,500–€3,000. Mid-range packages covering housing, immigration support, and registration come in at €3,000–€7,000. Full-service family packages, which include school search and extended settling-in support, range from €7,000–€15,000 or more. Employer-sponsored packages are often negotiated at higher rates because the company is paying.
+- q: Is a relocation service worth it for an EU citizen moving to the Netherlands?
+  a: In most cases, no — at least not a full-service package. EU citizens do not need visa support, can use the free gemeente registration process, and the Dutch housing market is difficult but manageable with research. A targeted service like a housing search specialist or a single session with an expat coach is more cost-effective than a full relocation package.
+- q: What is the difference between a relocation company and an expat coach?
+  a: 'A relocation company is typically a business offering packaged services: housing, immigration admin, school search. An expat coach is usually an individual who helps you understand the system, prepare your documents, and make decisions — but does less of the doing for you. Coaches tend to be more affordable (€100–€250 per session) and better suited to people who want guidance rather than full outsourcing.'
+- q: How do I know if a relocation company in the Netherlands is reliable?
+  a: Check for membership in EuRA (European Relocation Association) or SARA (the Dutch relocation industry association). Read Google and Trustpilot reviews, and pay attention to reviews left by people in your specific situation (family vs. single, your nationality, your city). Ask the company directly for client references and for a written breakdown of exactly which services are included.
+- q: Can my employer pay for relocation services in the Netherlands?
+  a: Yes, and this is the most common way relocation services get used. Most international companies offer a relocation allowance or contract directly with a relocation company on the employee's behalf. If your employer is bringing you to the Netherlands on a highly skilled migrant visa, it is worth asking HR what relocation support they offer — many companies provide more than they advertise upfront.
+schema_type: Article
 ---
 
 I want to start with a confession: I work in relocation. I am one of the people you might hire when you move to the Netherlands. I help expats with housing searches, gemeente registration, IND paperwork, school selection, and all the administrative chaos that comes with arriving in a new country. I have been doing this for nearly eight years.

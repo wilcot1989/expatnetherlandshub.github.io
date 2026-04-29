@@ -1,38 +1,49 @@
 ---
-title: "DigiD for Expats 2026: What It Is and How to Get It"
-date: 2026-03-06T10:00:00+01:00
-lastmod: 2026-04-23T10:00:00+01:00
-description: "Everything expats need to know about DigiD in the Netherlands: what it is, why you need it, how to apply step by step, and setting up the DigiD app."
-categories: ["daily-life"]
-tags: ["DigiD", "digital identity", "Dutch bureaucracy", "government services", "BSN"]
-keywords: ["DigiD Netherlands", "DigiD expat", "how to get DigiD", "Dutch digital identity"]
+title: 'DigiD for Expats 2026: What It Is and How to Get It'
+date: 2026-03-06 10:00:00+01:00
+lastmod: 2026-04-23 10:00:00+01:00
+description: 'Everything expats need to know about DigiD in the Netherlands: what it is, why you need it, how to apply step by step, and setting up the DigiD app.'
+categories:
+- daily-life
+tags:
+- DigiD
+- digital identity
+- Dutch bureaucracy
+- government services
+- BSN
+keywords:
+- DigiD Netherlands
+- DigiD expat
+- how to get DigiD
+- Dutch digital identity
 affiliate: true
 products:
-  - name: "IND"
-    url: "https://ind.nl/en"
-    price: "0.00"
-  - name: "Expatax"
-    url: "https://www.expatax.nl/"
-    price: "0.00"
-  - name: "Wise"
-    url: "https://go.expatnetherlandshub.com/wise?ref=/guides/legal/digid-guide-expats-2026/"
-    price: "0.00"
-author: "Sarah van den Berg"
-author_bio: "Expat coach and relocation specialist. Half Dutch, half British, living in the Netherlands for over 10 years."
-featured_image: "/images/featured/digid-guide-expats-2026.webp"
+- name: IND
+  url: https://ind.nl/en
+  price: '0.00'
+- name: Expatax
+  url: https://www.expatax.nl/
+  price: '0.00'
+- name: Wise
+  url: https://go.expatnetherlandshub.com/wise?ref=/guides/legal/digid-guide-expats-2026/
+  price: '0.00'
+author: Sarah van den Berg
+author_bio: Expat coach and relocation specialist. Half Dutch, half British, living in the Netherlands for over 10 years.
+featured_image: /images/featured/digid-guide-expats-2026.webp
 faq:
-  - q: "What is DigiD?"
-    a: "DigiD (Digital Identity) is the Dutch government's online identification system. It is a username and password that verifies your identity when accessing government services online, similar to a digital passport for the internet. You need it to file taxes, access healthcare portals, check your pension, and interact with most government agencies."
-  - q: "Do I need a BSN to get DigiD?"
-    a: "Yes, you need a BSN (Burgerservicenummer/citizen service number) to apply for DigiD. You receive your BSN when you register at your local municipality (gemeente). Without a BSN, you cannot create a DigiD account."
-  - q: "How long does it take to get DigiD?"
-    a: "The online application takes 5 minutes. After applying, you receive an activation code by post within 3-5 business days (within the Netherlands). International mail takes 1-3 weeks. You must activate your account within 20 days of receiving the code."
-  - q: "Can I use DigiD from outside the Netherlands?"
-    a: "Yes, you can use DigiD from anywhere in the world. This is useful for filing Dutch tax returns or checking pension information while abroad. However, the activation letter can only be sent to a Dutch address. If you need DigiD from abroad, you must apply at a Dutch embassy or consulate."
-  - q: "What if I forgot my DigiD password?"
-    a: "You can reset your password on digid.nl by clicking 'Forgot password.' You will need your BSN and the email address linked to your account. A new activation code will be sent to your registered Dutch address."
-  - q: "Is the DigiD app mandatory?"
-    a: "No, the app is not mandatory, but it is highly recommended. The app provides a higher security level and allows you to log in by scanning a QR code instead of entering your password. Some government services now require the DigiD app or SMS verification for extra security."
+- q: What is DigiD?
+  a: DigiD (Digital Identity) is the Dutch government's online identification system. It is a username and password that verifies your identity when accessing government services online, similar to a digital passport for the internet. You need it to file taxes, access healthcare portals, check your pension, and interact with most government agencies.
+- q: Do I need a BSN to get DigiD?
+  a: Yes, you need a BSN (Burgerservicenummer/citizen service number) to apply for DigiD. You receive your BSN when you register at your local municipality (gemeente). Without a BSN, you cannot create a DigiD account.
+- q: How long does it take to get DigiD?
+  a: The online application takes 5 minutes. After applying, you receive an activation code by post within 3-5 business days (within the Netherlands). International mail takes 1-3 weeks. You must activate your account within 20 days of receiving the code.
+- q: Can I use DigiD from outside the Netherlands?
+  a: Yes, you can use DigiD from anywhere in the world. This is useful for filing Dutch tax returns or checking pension information while abroad. However, the activation letter can only be sent to a Dutch address. If you need DigiD from abroad, you must apply at a Dutch embassy or consulate.
+- q: What if I forgot my DigiD password?
+  a: You can reset your password on digid.nl by clicking 'Forgot password.' You will need your BSN and the email address linked to your account. A new activation code will be sent to your registered Dutch address.
+- q: Is the DigiD app mandatory?
+  a: No, the app is not mandatory, but it is highly recommended. The app provides a higher security level and allows you to log in by scanning a QR code instead of entering your password. Some government services now require the DigiD app or SMS verification for extra security.
+schema_type: Article
 ---
 
 The first time someone asked me "Do you have a DigiD?" I had absolutely no idea what they were talking about. Turns out, it is the key to basically everything official in the Netherlands -- taxes, health insurance, subsidies, you name it. I put off setting mine up for weeks and regretted it immediately. Do not make my mistake. Here is how to get your DigiD sorted quickly and painlessly.

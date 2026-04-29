@@ -1,33 +1,45 @@
 ---
-title: "Physiotherapy in Netherlands: Expat Guide 2026"
-date: 2026-03-22T08:10:00+01:00
-lastmod: 2026-04-23T10:00:00+01:00
-description: "How physiotherapy works in the Netherlands for expats: referrals, costs, insurance coverage, finding an English-speaking physio, and what to expect."
-categories: ["health"]
-tags: ["physiotherapy", "fysiotherapie", "dutch healthcare", "expat health", "health insurance", "physical therapy netherlands"]
-keywords: ["physiotherapy netherlands expats", "fysiotherapie expat guide", "english speaking physiotherapist netherlands", "physiotherapy cost netherlands 2026"]
+title: 'Physiotherapy in Netherlands: Expat Guide 2026'
+date: 2026-03-22 08:10:00+01:00
+lastmod: 2026-04-23 10:00:00+01:00
+description: 'How physiotherapy works in the Netherlands for expats: referrals, costs, insurance coverage, finding an English-speaking physio, and what to expect.'
+categories:
+- health
+tags:
+- physiotherapy
+- fysiotherapie
+- dutch healthcare
+- expat health
+- health insurance
+- physical therapy netherlands
+keywords:
+- physiotherapy netherlands expats
+- fysiotherapie expat guide
+- english speaking physiotherapist netherlands
+- physiotherapy cost netherlands 2026
 affiliate: false
-author: "Sarah van den Berg"
-author_bio: "Expat coach and relocation specialist. Half Dutch, half British, living in the Netherlands for over 10 years."
-featured_image: "/images/featured/physiotherapy-netherlands-expats-2026.webp"
+author: Sarah van den Berg
+author_bio: Expat coach and relocation specialist. Half Dutch, half British, living in the Netherlands for over 10 years.
+featured_image: /images/featured/physiotherapy-netherlands-expats-2026.webp
 faq:
-  - q: "Do I need a referral for physiotherapy in the Netherlands?"
-    a: "No. In the Netherlands you can go directly to a physiotherapist (fysiotherapeut) without a GP referral. This is called direct access (directe toegang fysiotherapie). You simply book an appointment at any registered practice. A GP referral is only required if you want the treatment to count towards your basic health insurance (basisverzekering) coverage in certain cases. Referrals can also help physiotherapists understand your medical history, so some practices do prefer them."
-  - q: "Does Dutch health insurance cover physiotherapy?"
-    a: "The basic health insurance (basisverzekering) has limited physiotherapy coverage. For conditions on the government's chronic list (chronische lijst) — such as COPD, multiple sclerosis, and Parkinson's — coverage starts from the first session. For all other conditions, the basic policy only covers sessions from the 21st session onward, meaning you pay the first 20 out of pocket. Most expats with regular physiotherapy needs buy supplementary insurance (aanvullende verzekering), which typically covers 9-18 additional sessions per year."
-  - q: "How much does physiotherapy cost in the Netherlands without insurance?"
-    a: "An initial physiotherapy consultation in the Netherlands costs approximately EUR 45-60. Follow-up sessions are typically EUR 35-50 per session. Prices vary by practice, region, and specialisation. Practices in Amsterdam or other major cities tend to charge more than those in smaller towns. Manual therapy or sports physiotherapy may cost slightly more than standard sessions."
-  - q: "Are there English-speaking physiotherapists in the Netherlands?"
-    a: "Yes, especially in larger cities. Amsterdam, The Hague, Rotterdam, Utrecht, and Eindhoven all have practices with English-speaking physiotherapists. Many Dutch physiotherapists trained partly in English and are comfortable communicating in it. To find one, search 'English speaking physiotherapist [city]' or look on expat community forums. Some practices specifically advertise as expat-friendly."
-  - q: "What conditions do physiotherapists in the Netherlands treat?"
-    a: "Dutch physiotherapists treat a wide range of conditions including back and neck pain, sports injuries, post-operative rehabilitation, joint problems, headaches, repetitive strain injuries, balance issues, and breathing problems. Many also specialise in pelvic floor physiotherapy (bekkenbodemfysiotherapie), which is commonly referred to during and after pregnancy. Neurological rehabilitation and oncological physiotherapy are handled by specialist centres."
-  - q: "What is the difference between a fysiotherapeut and a manueel therapeut?"
-    a: "A fysiotherapeut (physiotherapist) is a general physical therapy practitioner. A manueel therapeut (manual therapist) has completed additional post-graduate training in manipulative therapy of the spine and joints. Manual therapists are often sought for chronic neck and back problems where spinal manipulation is indicated. Both are registered under the BIG register in the Netherlands. Manual therapy sessions are covered by some supplementary insurance packages but not all — check your policy before booking."
+- q: Do I need a referral for physiotherapy in the Netherlands?
+  a: No. In the Netherlands you can go directly to a physiotherapist (fysiotherapeut) without a GP referral. This is called direct access (directe toegang fysiotherapie). You simply book an appointment at any registered practice. A GP referral is only required if you want the treatment to count towards your basic health insurance (basisverzekering) coverage in certain cases. Referrals can also help physiotherapists understand your medical history, so some practices do prefer them.
+- q: Does Dutch health insurance cover physiotherapy?
+  a: The basic health insurance (basisverzekering) has limited physiotherapy coverage. For conditions on the government's chronic list (chronische lijst) — such as COPD, multiple sclerosis, and Parkinson's — coverage starts from the first session. For all other conditions, the basic policy only covers sessions from the 21st session onward, meaning you pay the first 20 out of pocket. Most expats with regular physiotherapy needs buy supplementary insurance (aanvullende verzekering), which typically covers 9-18 additional sessions per year.
+- q: How much does physiotherapy cost in the Netherlands without insurance?
+  a: An initial physiotherapy consultation in the Netherlands costs approximately EUR 45-60. Follow-up sessions are typically EUR 35-50 per session. Prices vary by practice, region, and specialisation. Practices in Amsterdam or other major cities tend to charge more than those in smaller towns. Manual therapy or sports physiotherapy may cost slightly more than standard sessions.
+- q: Are there English-speaking physiotherapists in the Netherlands?
+  a: Yes, especially in larger cities. Amsterdam, The Hague, Rotterdam, Utrecht, and Eindhoven all have practices with English-speaking physiotherapists. Many Dutch physiotherapists trained partly in English and are comfortable communicating in it. To find one, search 'English speaking physiotherapist [city]' or look on expat community forums. Some practices specifically advertise as expat-friendly.
+- q: What conditions do physiotherapists in the Netherlands treat?
+  a: Dutch physiotherapists treat a wide range of conditions including back and neck pain, sports injuries, post-operative rehabilitation, joint problems, headaches, repetitive strain injuries, balance issues, and breathing problems. Many also specialise in pelvic floor physiotherapy (bekkenbodemfysiotherapie), which is commonly referred to during and after pregnancy. Neurological rehabilitation and oncological physiotherapy are handled by specialist centres.
+- q: What is the difference between a fysiotherapeut and a manueel therapeut?
+  a: A fysiotherapeut (physiotherapist) is a general physical therapy practitioner. A manueel therapeut (manual therapist) has completed additional post-graduate training in manipulative therapy of the spine and joints. Manual therapists are often sought for chronic neck and back problems where spinal manipulation is indicated. Both are registered under the BIG register in the Netherlands. Manual therapy sessions are covered by some supplementary insurance packages but not all — check your policy before booking.
 products:
-  - name: "SafetyWing"
-    url: "https://go.expatnetherlandshub.com/safetywing?ref=/blog/physiotherapy-netherlands-expats-2026/"
-    price: "0.00"
-    tag: "Expat Insurance"
+- name: SafetyWing
+  url: https://go.expatnetherlandshub.com/safetywing?ref=/blog/physiotherapy-netherlands-expats-2026/
+  price: '0.00'
+  tag: Expat Insurance
+schema_type: Article
 ---
 
 My first sports injury in the Netherlands left me confused. Back home, I would have been referred by my GP and then waited weeks. Here I walked into a physiotherapy practice the same afternoon without a referral and was seen within the hour. That direct access system was a revelation — and understanding it properly can save you time, money, and unnecessary pain.
