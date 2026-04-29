@@ -28,6 +28,10 @@ products:
   - name: "DutchPod101"
     url: "https://www.dutchpod101.com/"
     price: "0.00"
+  - q: "Who is this for?"
+    a: "See the section above on who benefits most from this service or guide."
+  - q: "What does it cost in 2026?"
+    a: "Pricing varies — see the comparison table above for current rates."
 ---
 
 I have one foot in each country. My mother is Dutch, my father is British, and I grew up shuttling between Rotterdam and South London. When I moved to the Netherlands full-time in 2015, I thought I knew exactly what to expect. Ten years later, I still catch myself surprised by the differences — some obvious, some completely invisible until you are living them. This comparison is the article I wish I had before I made the move. Whether you are a British expat considering the Netherlands or comparing both options from somewhere else entirely, here is an honest side-by-side of what life actually looks like in 2026.

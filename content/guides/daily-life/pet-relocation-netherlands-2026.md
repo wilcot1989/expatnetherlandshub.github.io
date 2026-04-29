@@ -22,6 +22,10 @@ faq:
     a: "If moving from within the EU, yes — your pet needs an EU pet passport issued by an authorised vet. From non-EU countries, you need an official veterinary health certificate issued within 10 days of travel, plus proof of rabies vaccination and microchip."
   - q: "How much does it cost to relocate a pet to the Netherlands?"
     a: "Costs vary widely. DIY with airline cabin: €50-200 for the flight fee plus €100-300 for vet certificates and vaccinations. Professional pet relocation service: €800-3,000+ depending on origin country and animal size. Quarantine is not required for most pets entering from EU or listed third countries."
+  - q: "Who is this for?"
+    a: "See the section above on who benefits most from this service or guide."
+  - q: "What does it cost in 2026?"
+    a: "Pricing varies — see the comparison table above for current rates."
 ---
 
 When I first moved to the Netherlands, I brought my cat Noor with me from the UK. I will not pretend it was simple. There were vet appointments, paperwork, a stressful check-in process at the airport, and a very unhappy cat for about 48 hours. But she settled in beautifully, and nearly a decade later she still rules our Amsterdam apartment.

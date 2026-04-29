@@ -29,6 +29,8 @@ faq:
     a: "Eigen risico (own risk/deductible) is the mandatory annual deductible of EUR 385 in 2026. This is set by the government and is the same for all insurers, including both Zilveren Kruis and CZ. You can optionally increase it to EUR 485, 585, 685, 785, or 885 for a lower monthly premium. GP visits and maternity care are exempt from the eigen risico."
   - q: "Can I switch between Zilveren Kruis and CZ?"
     a: "Yes, you can switch health insurers once per year during the open enrolment period in November-December (for coverage starting January 1). You can also switch if you are new to the Netherlands — you must arrange health insurance within 4 months of registering. Switching is free and insurers cannot refuse you for basic coverage."
+  - q: "Who is this for?"
+    a: "See the section above on who benefits most from this service or guide."
 ---
 
 When I arrived in the Netherlands from the UK over a decade ago, the Dutch healthcare system was one of the things that confused me most. Back home, you simply registered with the NHS and that was that. Here, you have to actively choose a private insurer, pay a monthly premium, deal with a mandatory deductible — and there are dozens of providers to choose from. I spent hours comparing options during my first open enrolment period and ended up with Zilveren Kruis almost by accident, because a Dutch colleague swore by them. A few years later, I switched to CZ. Then I switched back.

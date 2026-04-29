@@ -2,7 +2,7 @@
 title: "Best Prepaid SIM Cards in the Netherlands 2026 for Expats"
 date: 2026-03-26T10:00:00+01:00
 lastmod: 2026-04-23T10:00:00+01:00
-description: "Best prepaid SIM cards in the Netherlands for expats 2026: Lebara, Lycamobile, KPN Prepaid, Vodafone, Simyo and Ben compared on price, data, network and registration."
+description: "Best prepaid SIM cards in the Netherlands for expats 2026: Lebara, Lycamobile, KPN Prepaid, Vodafone, Simyo and Ben compared on price, data, network and."
 categories: ["daily-life"]
 tags: ["SIM card", "prepaid", "mobile phone", "telecom", "expat essentials"]
 keywords: ["best prepaid SIM Netherlands", "prepaid SIM card Netherlands expat", "Dutch SIM card tourist", "cheapest mobile Netherlands"]

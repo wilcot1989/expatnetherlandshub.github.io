@@ -29,6 +29,8 @@ faq:
     a: "The appointment itself takes 30–60 minutes. You receive your KvK number immediately at the end of the appointment. Your BTW (VAT) number arrives by post within 10–14 working days. Most banks require both numbers before opening a business account, so factor in roughly three weeks from appointment to having everything fully operational."
   - q: "Do I need a BSN before registering at the KvK?"
     a: "Yes. Your BSN (burgerservicenummer) is a required piece of information for KvK registration. You also need your residence permit if you are a non-EU citizen. EU/EEA citizens need a valid passport or national ID. If you have not yet obtained your BSN, read the BSN registration guide first and complete that step before booking your KvK appointment."
+  - q: "Who is this for?"
+    a: "See the section above on who benefits most from this service or guide."
 ---
 
 Priya arrived in my office on a Tuesday morning, nine months after moving from Mumbai to Amsterdam on a highly skilled migrant visa. She had been working as a data consultant for a Dutch tech company the whole time, but three of her former clients — companies she had worked with before relocating — kept asking if she could do project work for them on the side. Her employer had given the green light. She had the clients, the skills, and the time. What she did not have was a KvK registration.

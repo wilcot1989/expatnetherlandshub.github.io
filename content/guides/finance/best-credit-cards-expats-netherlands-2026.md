@@ -1,8 +1,8 @@
 ---
-title: "Best Credit Cards in the Netherlands 2026 for Expats (English Guide)"
+title: "Best Credit Cards in the Netherlands 2026 for Expats"
 date: 2026-03-18T10:00:00+01:00
 lastmod: 2026-04-23T10:00:00+01:00
-description: "English-language guide: best credit cards in the Netherlands for expats in 2026. No annual fee options, real approval odds, fees, cards that work without Dutch credit history. Bunq, Revolut, N26, Amex and ICS Visa compared."
+description: "English-language guide: best credit cards in the Netherlands for expats in 2026. No annual fee options, real approval odds, fees, cards that work without."
 categories: ["finance"]
 tags: ["credit cards", "expat banking", "bunq", "revolut", "n26", "amex", "ICS visa"]
 keywords: ["credit cards expats netherlands", "dutch credit card expat", "credit card no dutch credit history", "best credit card netherlands 2026", "best credit card no annual fee netherlands", "credit card netherlands no fees", "free credit card netherlands expat"]

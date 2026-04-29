@@ -28,6 +28,10 @@ faq:
     a: "Contact the practice directly by phone or online form. You need your BSN (burgerservicenummer) and proof of Dutch health insurance. Many practices have waiting lists, especially in Amsterdam and Utrecht. Register as soon as you move — do not wait until you are ill."
   - q: "What if no huisarts near me accepts new patients?"
     a: "If you cannot find a GP accepting patients, contact your health insurer — they are legally required to help you find one within a reasonable distance. You can also try Zorgkaart Nederland or ask your gemeente for a list of practices with availability."
+  - q: "Who is this for?"
+    a: "See the section above on who benefits most from this service or guide."
+  - q: "What does it cost in 2026?"
+    a: "Pricing varies — see the comparison table above for current rates."
 ---
 
 Finding a doctor in the Netherlands was not something I thought about before I moved. I assumed it would be simple — look up a GP, book an appointment, done. What I did not expect was to spend three weeks calling practices, being told they had a waiting list, and eventually discovering that the whole system works nothing like what I was used to in the UK. If you are new here and need to register with a GP, this guide will save you a lot of frustration.

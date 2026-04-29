@@ -29,6 +29,8 @@ faq:
     a: "Bunq fully supports iDEAL, the dominant Dutch online payment system. N26 does not support iDEAL at all. This is a significant limitation for daily life in the Netherlands, as nearly every Dutch webshop uses iDEAL as the primary payment method."
   - q: "Do I need a BSN to open a bunq or N26 account?"
     a: "N26 requires a BSN for Dutch tax reporting purposes. Bunq may allow you to start the registration process before receiving your BSN, but full account functionality requires it. For a bank account without a BSN, consider Wise."
+  - q: "Who is this for?"
+    a: "See the section above on who benefits most from this service or guide."
 ---
 
 When I first moved back to the Netherlands — after years in London — I made the classic expat mistake of assuming any European digital bank would do. I opened an N26 account because it was free and I already had one. Simple, right?

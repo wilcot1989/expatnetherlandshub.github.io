@@ -29,6 +29,8 @@ faq:
     a: "Both charge approximately EUR 2.45 per month for a basic current account. The real difference is in international transfer fees, where both are expensive (EUR 5-15 per transfer). For international transfers, we recommend using Wise alongside either bank."
   - q: "Can I get a mortgage from ING or ABN AMRO as an expat?"
     a: "Yes, both banks offer mortgages to expats, including those with a 30% ruling. ABN AMRO is often considered slightly more expat-friendly for mortgages due to their international desk, though ING has competitive rates. Both require a permanent employment contract or proof of stable income."
+  - q: "Who is this for?"
+    a: "See the section above on who benefits most from this service or guide."
 ---
 
 When I moved to the Netherlands from the UK over a decade ago, one of the first practical decisions I had to make was which Dutch bank to open an account with. I had no idea what I was doing. I walked into an ING branch in Amsterdam with my passport, my rental contract, and a hopeful expression. The lady at the desk looked at me, smiled, and immediately switched to perfect English. That interaction alone made me feel less like a fish out of water.

@@ -28,6 +28,10 @@ faq:
     a: "If you are a Dutch national or have lived in the Netherlands, Dutch inheritance tax may still apply to your estate for up to 10 years after you leave the country. This means that even after emigrating, your worldwide assets could be subject to Dutch erfbelasting. Double taxation treaties may provide relief."
   - q: "How much can you inherit tax-free in the Netherlands?"
     a: "In 2026, the tax-free exemption for partners is approximately €795,000. For children, the exemption is approximately €25,000. For grandchildren and others, it is approximately €2,500. These amounts are adjusted annually for inflation."
+  - q: "Who is this for?"
+    a: "See the section above on who benefits most from this service or guide."
+  - q: "What does it cost in 2026?"
+    a: "Pricing varies — see the comparison table above for current rates."
 ---
 
 When I sat down with a couple who had just relocated from the US to Amsterdam, one of the first questions they asked had nothing to do with healthcare or housing. It was: "What happens to our estate if one of us dies here?" They had spent years building a portfolio back home, and nobody had warned them that living in the Netherlands would bring their entire worldwide estate into the Dutch tax net. That conversation is why I now cover erfbelasting — Dutch inheritance tax — with every client I work with, no exceptions.

@@ -1,5 +1,5 @@
 ---
-title: "Best Dutch Health Insurance for Expats 2026: All 10 Insurers Compared"
+title: "Best Dutch Health Insurance for Expats 2026: All 10"
 date: 2026-05-01T08:00:00+02:00
 lastmod: 2026-05-01T08:00:00+02:00
 description: "Compare all 10 NL health insurers — Independer, Zilveren Kruis, CZ, Menzis, etc. Premium, deductible, English support."

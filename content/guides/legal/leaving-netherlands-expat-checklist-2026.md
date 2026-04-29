@@ -28,6 +28,10 @@ faq:
     a: "Yes. You must file an M-form (migratieaangifte) for the year you leave. This covers your income from January 1 until your departure date. You may be entitled to a refund, especially if you leave mid-year. The M-form can be filed online via the Belastingdienst after the tax year ends."
   - q: "Can I keep my Dutch bank account after leaving?"
     a: "It depends on the bank. Some banks (ABN AMRO, ING) allow non-residents to keep accounts with restrictions. Others (bunq, N26) may close your account if you are no longer a Dutch resident. Contact your bank before leaving to understand your options."
+  - q: "Who is this for?"
+    a: "See the section above on who benefits most from this service or guide."
+  - q: "What does it cost in 2026?"
+    a: "Pricing varies — see the comparison table above for current rates."
 ---
 
 When I moved to the Netherlands, I had a clear checklist of things to arrange. When I left for a year abroad, I assumed leaving would be simpler. It was not. Deregistering alone triggered a chain reaction: health insurance cancelled automatically, my DigiD access changed, and the Belastingdienst needed a special tax form I had never heard of. Missing even one item cost me months of back-and-forth from a different country.

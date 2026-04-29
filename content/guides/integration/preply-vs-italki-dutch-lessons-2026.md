@@ -29,6 +29,8 @@ products:
   - name: "italki"
     url: "https://www.italki.com/"
     price: "0.00"
+  - q: "Who is this for?"
+    a: "See the section above on who benefits most from this service or guide."
 ---
 
 When I first moved to the Netherlands, my Dutch was, charitably speaking, terrible. I had grown up with a Dutch mother who largely refused to speak Dutch at home — "You need proper English," she would say, as if our Midlands town were under threat of a Dutch linguistic invasion. So I arrived in Amsterdam with roughly fifteen words, all of them related to food.

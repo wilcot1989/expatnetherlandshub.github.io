@@ -29,6 +29,8 @@ faq:
     a: "Neither is a full replacement for a Dutch bank. Wise works well as a primary account for receiving salary (European IBAN accepted by most Dutch employers) and international transfers, but lacks iDEAL integration and physical branches. Revolut's Lithuanian IBAN makes it problematic as a primary account in the Netherlands. Most expats pair either one with a traditional Dutch bank like ING."
   - q: "Do I need a BSN to open a Wise or Revolut account?"
     a: "No, neither Wise nor Revolut requires a BSN. Both can be opened before you arrive in the Netherlands using just a passport and proof of address from your home country. This makes them ideal first accounts for new expats."
+  - q: "Who is this for?"
+    a: "See the section above on who benefits most from this service or guide."
 ---
 
 I currently use both Wise and Revolut. That is not a fence-sitting answer — it is the honest result of ten years of living in the Netherlands and moving money between at least four currencies on a regular basis. My situation is not unusual for expats here: I receive some income in British pounds, pay Dutch rent and bills in euros, and send money to family occasionally. For years I tried to make one app do everything. It does not work. But I have also watched dozens of clients waste money by using the wrong tool for the wrong job, so this comparison is going to be very specific about which one wins where.
