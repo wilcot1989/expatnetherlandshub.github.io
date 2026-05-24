@@ -40,7 +40,6 @@ products:
   tag: Currency Transfer
 schema_type: Article
 ---
-
 When I moved to the Netherlands, I had a CV that worked perfectly well in the UK and a set of assumptions about job hunting that turned out to be almost entirely wrong. Dutch employers do not want the same things. Dutch recruiters operate differently. The job boards I knew were mostly irrelevant.
 
 It took me longer than I would have liked to work this out. This guide is what I wish I had had — a complete, honest breakdown of how the Dutch labour market actually works, where to find jobs as an expat, what you need to know about visas and permits, and how to make your application stand out when competing with locals who know the system.
@@ -56,6 +55,9 @@ I have updated this for 2026, with current salary benchmarks, the latest 30% rul
 
 
 🇳🇱 *Looking for NL-specific tools? See also [Best CRM for freelancers in the Netherlands](https://bedrijfssoftwaregids.nl/blog/beste-crm-software-zzp-freelancer-2026/).*
+
+
+> **Quick answer:** Complete guide to finding a job in the Netherlands as an expat. Job boards, visa rules, salary norms, Dutch CV tips, and what recruiters actually want.
 
 ## The Dutch Labour Market in 2026: What You Need to Know
 
@@ -435,3 +437,7 @@ Technology (software, data, AI), life sciences and pharma (Philips, ASML, Qiagen
 **What should I expect from a Dutch job interview?**
 
 Dutch interviews are typically direct, informal by comparison to UK or US standards, and consensus-oriented. You will often meet multiple team members across two to three interview rounds. Dutch hiring managers value concrete examples over general statements — use the STAR method (Situation, Task, Action, Result) consistently. Salary negotiation is expected and acceptable. Do not oversell yourself with superlatives; Dutch culture values understatement and honesty. Arriving on time (or one minute early) is non-negotiable.
+
+---
+
+**External source:** [IND — Residence permits](https://ind.nl/en/residence-permits) — independent information on this topic.

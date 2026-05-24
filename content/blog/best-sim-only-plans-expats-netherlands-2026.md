@@ -38,7 +38,6 @@ products:
     price: "0.00"
     tag: "Comparison"
 ---
-
 In my first three months in the Netherlands I used a prepaid Lebara SIM. It was fine — until I realized I was paying €20 for 5 GB and could be paying €12 for 25 GB on a SIM-only plan. The switch took 30 minutes. The trick is knowing which provider matches your actual usage rather than defaulting to whichever one your colleague uses.
 
 This guide covers the SIM-only landscape in the Netherlands for 2026: the three networks, the dozen-plus brands that resell on those networks, and how to pick a plan that doesn't waste money.
@@ -46,6 +45,11 @@ This guide covers the SIM-only landscape in the Netherlands for 2026: the three 
 *Disclosure: some links in this article are affiliate links. If you sign up via them, I may earn a small commission at no extra cost to you. All recommendations are based on my own usage and current 2026 plan comparisons.*
 
 💡 *Just arrived in the Netherlands? Check the [first year in the Netherlands pillar](/blog/first-year-netherlands-expat-pillar-2026/) and the [BSN application guide](/blog/expat-bsn-application-guide-2026/) — you'll need a BSN for most postpaid Dutch SIM contracts.*
+
+
+> **Quick answer:** I compared the best SIM-only plans in the Netherlands for expats in 2026: KPN, T-Mobile, Odido, Lebara, Simyo, and which fits your data, calls, and budget.
+>
+> Prepaid SIM cards are pay-as-you-go with no contract — you top up credit and use it. SIM-only plans are monthly subscriptions, typically 1, 12, or 24 months, with fixed monthly costs and bundled data, calls, and SMS. SIM-only is significantly cheaper per GB once you commit to a contract, while prepaid is better for short stays under 3 months.
 
 ## The Three Dutch Mobile Networks
 
@@ -260,3 +264,7 @@ My calendar reminder strategy:
 - Either way, repeat annually.
 
 Friends who follow this religiously save €60–€150/year on telecom alone, year over year.
+
+---
+
+**External source:** [IND — Residence permits](https://ind.nl/en/residence-permits) — independent information on this topic.

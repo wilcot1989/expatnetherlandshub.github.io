@@ -34,7 +34,6 @@ products:
     price: "0.00"
     tag: "International Health"
 ---
-
 I went four years without supplementary health insurance in the Netherlands, then added a basic dental + physio package after a frustrating €380 dental cleaning bill and a six-week back issue that exceeded my basisverzekering's 9-physio-session limit. The €19/month I now pay covers both, and I run roughly €100/year ahead. Most expats I know either skip aanvullende entirely (and regret a specific bill) or buy a maxi-package they don't fully use.
 
 This guide covers what supplementary Dutch health insurance actually does, when it's worth buying, what to skip, and how to pick a 2026 plan that matches real usage.
@@ -42,6 +41,9 @@ This guide covers what supplementary Dutch health insurance actually does, when 
 *Disclosure: this article contains affiliate links. If you sign up via them I may earn a small commission at no extra cost to you. All views are based on my own experience and 2026 plan comparisons.*
 
 💡 *For the foundational basic insurance question, see [DSW health insurance review](/blog/dsw-health-insurance-review-expats-2026/), [Menzis review](/blog/menzis-health-insurance-review-expats-2026/), and [VGZ review](/blog/vgz-health-insurance-review-expats-2026/) — all the basisverzekering options I've actually used or evaluated.*
+
+
+> **Quick answer:** Do expats need aanvullende verzekering on top of basic Dutch health insurance? My 2026 comparison of dental, physio, and supplementary packages worth paying for.
 
 ## How Dutch Health Insurance Layers Work
 
@@ -380,3 +382,7 @@ For more on the process, see [What happens to your pension if you leave the Neth
 **Are you a freelancer with employer benefits gone?** Account for the value of insurance you'd have had as an employee. Aanvullende plus AOV (disability) covers gaps.
 
 For the broader expat budgeting picture, see [first year in the Netherlands](/blog/first-year-netherlands-expat-pillar-2026/), [tax filing as a freelance expat](/blog/tax-filing-freelance-expat-netherlands-2026/), and the [Independer comparison](https://go.expatnetherlandshub.com/independer-zorg?ref=/blog/aanvullende-supplemental-health-insurance-expats-2026/) for current 2026 plan rates at your specific birth year.
+
+---
+
+**External source:** [Zorgverzekeringslijn — onafhankelijke info](https://www.zorgverzekeringslijn.nl/) — independent information on this topic.

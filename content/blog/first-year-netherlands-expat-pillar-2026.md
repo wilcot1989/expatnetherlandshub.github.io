@@ -78,6 +78,8 @@ products:
 schema_type: Article
 ---
 
+> **Quick answer:** Month-by-month roadmap for new Dutch expats. BSN, housing, banking, insurance, taxes, integration.
+
 ## When I Moved Here From Madrid in 2018, Nobody Gave Me a Roadmap
 
 I landed at Schiphol on a Tuesday in October with two suitcases, a job contract starting the following Monday, and a vague plan that involved "sorting everything out" in the first week.
@@ -466,3 +468,7 @@ Missing the 30% ruling window, ignoring the M-form, using a home bank for all tr
 - [The 30% Ruling in the Netherlands 2026: Complete Guide](/guides/finance/30-percent-ruling-netherlands-2026/)
 - [Best Bank in the Netherlands 2026 for Expats (English Guide)](/guides/finance/best-bank-account-expats-netherlands-2026/)
 - [Best Credit Cards in the Netherlands 2026 for Expats](/guides/finance/best-credit-cards-expats-netherlands-2026/)
+
+---
+
+**External source:** [Belastingdienst — BTW info](https://www.belastingdienst.nl/wps/wcm/connect/nl/btw/btw) — independent information on this topic.

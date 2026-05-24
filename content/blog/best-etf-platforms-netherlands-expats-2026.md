@@ -42,7 +42,6 @@ products:
   tag: Currency Transfer
 schema_type: Article
 ---
-
 When I first arrived in the Netherlands, I spent several weeks trying to work out where to invest. Back home in the UK, I had an ISA with a low-cost tracker fund and never thought about it. In the Netherlands, I had to research platforms that accepted Dutch residents, understand Box 3 wealth tax, and work out whether my existing ISA was still the right vehicle. It took longer than it should have.
 
 This guide is what I wish I had found in those early weeks. I have used or thoroughly researched all the platforms listed here, and I have helped expat clients in Amsterdam, Eindhoven, and Rotterdam work through the same decision. The Dutch investing market has specific quirks — and the right platform for one person is not necessarily right for another.
@@ -51,6 +50,11 @@ This guide is what I wish I had found in those early weeks. I have used or thoro
 
 
 💡 *Looking for a complete banking comparison? Read [Best banking for expats in the Netherlands 2026](/blog/best-banking-expats-netherlands-2026/) — covers ABN, ING, Bunq, Wise, Revolut & 5 others by expat use case.*
+
+> **Quick answer:** Best ETF platforms for expats in the Netherlands 2026: DEGIRO, Interactive Brokers, Trading 212, ABN AMRO, fees, Box 3 tax, and core fund selection.
+>
+> Yes. DEGIRO is headquartered in Amsterdam and is fully available to Dutch residents, including expats. The platform supports English and accepts BSN numbers. You will need a Dutch bank account (or a bank account in an EU country) and a verified address in the Netherlands to complete registration. DEGIRO is regulated by the AFM (Dutch Authority for the Financial Markets) and DNB.
+
 ## Why ETF Investing Makes Sense for Expats in the Netherlands
 
 Before comparing platforms, it is worth understanding why ETFs (Exchange-Traded Funds) are particularly well-suited to expats.
@@ -454,3 +458,7 @@ This means expat investors in the Netherlands can rebalance their portfolios whe
 *This article is for information purposes only and does not constitute financial advice. Consult a licensed financial advisor and a Dutch tax professional for advice specific to your situation.*
 
 <a href="https://go.expatnetherlandshub.com/wise" class="cta-affiliate" rel="nofollow noopener sponsored" target="_blank">Try Wise</a>
+
+---
+
+**External source:** [Belastingdienst — BTW info](https://www.belastingdienst.nl/wps/wcm/connect/nl/btw/btw) — independent information on this topic.

@@ -34,7 +34,6 @@ products:
     price: "0.00"
     tag: "Multi-currency"
 ---
-
 I've held N26, Bunq, and Revolut accounts simultaneously for two-plus years, switched my primary account between them twice, and helped a dozen expat friends figure out which one to choose first when they arrive. The honest answer is that the three are not really competing for the same role — once you understand what each is best at, the comparison stops being "which one wins" and becomes "which combination fits your life."
 
 This guide covers the 2026 reality of using N26, Bunq, and Revolut as an expat in the Netherlands: real fees, IBAN issues that actually matter, savings rates, app quality, and the decision framework I use when friends ask.
@@ -42,6 +41,9 @@ This guide covers the 2026 reality of using N26, Bunq, and Revolut as an expat i
 *Disclosure: this article contains affiliate links. If you sign up through them I may earn a small commission at no extra cost to you. I personally hold and use all three accounts.*
 
 💡 *For the broader banking landscape including ABN AMRO and ING, see my [best banking for expats](/blog/best-bank-account-expats-netherlands-2026/) pillar. For two-way comparisons, see [Bunq vs N26](/blog/bunq-vs-n26-expats-netherlands-2026/), [Wise vs Revolut](/blog/wise-vs-revolut-netherlands-2026/), and [ING vs Rabobank](/blog/ing-vs-rabobank-expats-2026/).*
+
+
+> **Quick answer:** Three-way comparison of N26, Bunq, and Revolut for expats in the Netherlands 2026: fees, IBANs, savings rates, app quality, and which to pick when.
 
 ## What Each Bank Actually Is
 
@@ -357,3 +359,7 @@ Every January I revisit:
 This 30-minute exercise has saved me €200–€400/year on banking fees over the past 3 years. Worth the time.
 
 For complete expat finance setup including investments, taxes, and insurance, see my [first year in the Netherlands pillar](/blog/first-year-netherlands-expat-pillar-2026/), [DEGIRO vs Trade Republic](/blog/degiro-vs-trade-republic-expats-2026/), [tax filing as a freelance expat](/blog/tax-filing-freelance-expat-netherlands-2026/), and [aanvullende health insurance](/blog/aanvullende-supplemental-health-insurance-expats-2026/).
+
+---
+
+**External source:** [Belastingdienst — BTW info](https://www.belastingdienst.nl/wps/wcm/connect/nl/btw/btw) — independent information on this topic.

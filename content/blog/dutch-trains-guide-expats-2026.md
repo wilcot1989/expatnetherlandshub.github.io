@@ -40,7 +40,6 @@ products:
   tag: Currency Transfer
 schema_type: Article
 ---
-
 I use Dutch trains almost every day. They are genuinely one of the better parts of living in the Netherlands — frequent, fast between major cities, and covering the entire country. The Netherlands is compact enough that the furthest major city (Groningen from Amsterdam) is 2 hours by direct train.
 
 Getting the most out of the system does require knowing how it works: the OV-chipkaart, subscription options, which train type to take, and what the ticket machines are actually asking you (they default to Dutch). This guide covers all of it.
@@ -49,6 +48,9 @@ Getting the most out of the system does require knowing how it works: the OV-chi
 
 
 💡 *Looking for a complete banking comparison? Read [Best banking for expats in the Netherlands 2026](/blog/best-banking-expats-netherlands-2026/) — covers ABN, ING, Bunq, Wise, Revolut & 5 others by expat use case.*
+
+> **Quick answer:** Complete guide to Dutch trains for expats: NS app, OV-chipkaart, subscription options, pricing, and how to get around the Netherlands cheaply.
+
 ## The NS Network: An Overview
 
 **NS (Nederlandse Spoorwegen)** is the main Dutch national rail operator, running intercity and regional services across the country. It is supplemented by a few regional operators (Connexxion, Arriva, Keolis) in less-served areas.
@@ -337,3 +339,7 @@ Schiphol Airport has a direct NS train station below the arrivals hall (follow y
 NS operates three main service types. Intercity Direct (IC Direct) is the fastest service, running between major cities with few or no intermediate stops — Amsterdam to Rotterdam takes about 40 minutes. A supplement (toeslag) of around EUR 2.80 per journey is charged for Intercity Direct on the Amsterdam–Rotterdam route via the high-speed HSL track; you must either have a valid toeslag or use a subscription that includes it. Intercity (IC) trains stop at main stations between cities — Amsterdam to Rotterdam Intercity takes about 65 minutes but avoids the supplement. Sprinter trains are regional, stopping at every station along a line. They are cheaper and slower, appropriate for shorter local journeys.
 
 <a href="https://go.expatnetherlandshub.com/wise" class="cta-affiliate" rel="nofollow noopener sponsored" target="_blank">Try Wise</a>
+
+---
+
+**External source:** [IND — Residence permits](https://ind.nl/en/residence-permits) — independent information on this topic.

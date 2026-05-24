@@ -45,7 +45,6 @@ faq:
 - q: 'What happens to my lease if I leave the Netherlands early?'
   a: Standard private leases are typically 36 to 60 months. Breaking the lease early triggers an early termination fee of typically 30 to 50 percent of the remaining contract value. Some providers offer "expat lease" products with shorter minimum terms or transfer options. Always read the early-termination clause carefully before signing.
 ---
-
 *This article contains affiliate links. If you click through and sign up I may receive a small commission at no extra cost to you. I only recommend services I have personally used or rigorously researched.*
 
 A friend of mine, freshly arrived in Amsterdam from Bangalore on a tech job, asked me last year whether he should buy a used car or lease. He had a 5-year contract, no driving licence yet for the Dutch system, and zero appetite for the secondhand car market. Within six weeks he had a private lease on a Volvo XC40, paid €640 a month, and never thought about cars again.
@@ -59,6 +58,11 @@ This guide is what I wish someone had explained when I was deciding. I will tell
 ---
 
 💡 *Considering buying instead? Read [best Dutch second-hand car platforms for expats 2026](/blog/best-second-hand-car-platforms-netherlands-2026/) — covers Marktplaats, AutoTrack, and what to inspect.*
+
+
+> **Quick answer:** I compared private leasing, business leasing, and short-term subscriptions for expats. Here's the honest 2026 guide with prices, providers, and the catches.
+>
+> Private lease is paid by you personally and the monthly cost includes everything — insurance, road tax, maintenance, tyres. Business lease is contracted through a company (your employer or your own ZZP) and may have tax advantages. Most expat employees do not have access to business lease unless their employer specifically offers it as a benefit.
 
 ## How car leasing works in the Netherlands
 
@@ -331,3 +335,7 @@ The mistake to avoid is signing a 60-month lease in your first 6 months in the N
 For the broader expat first-year setup, see [first year in the Netherlands as an expat](/blog/first-year-netherlands-expat-pillar-2026/) and the city choice guidance in [Eindhoven vs Utrecht for expats 2026](/blog/eindhoven-vs-utrecht-expats-2026/) and [Amsterdam vs Rotterdam cost of living](/blog/cost-of-living-amsterdam-vs-rotterdam-2026/).
 
 *Last updated: 2026-07-09. I review this guide every six months as Dutch lease rates and EV options shift.*
+
+---
+
+**External source:** [KvK — starten met een bedrijf](https://www.kvk.nl/starten/) — independent information on this topic.

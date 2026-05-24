@@ -41,7 +41,6 @@ products:
   tag: Currency Transfer
 schema_type: Article
 ---
-
 I get a version of this question at least once a week: "I have some crypto — do I need to declare it in the Netherlands?"
 
 The honest answer is: almost certainly yes, probably more simply than you think, and the window for quietly ignoring it is closing fast.
@@ -56,6 +55,9 @@ I am not a tax advisor. For complex situations — large holdings, professional 
 
 
 💡 *Looking for a complete banking comparison? Read [Best banking for expats in the Netherlands 2026](/blog/best-banking-expats-netherlands-2026/) — covers ABN, ING, Bunq, Wise, Revolut & 5 others by expat use case.*
+
+> **Quick answer:** How crypto is taxed in the Netherlands in 2026: Box 3 rules, reporting requirements, staking, DeFi, NFTs, and the mistakes that get expats into trouble.
+
 ## The Core Rule: Crypto Is Box 3 in the Netherlands
 
 The Dutch tax system divides income and assets into three "boxes":
@@ -363,3 +365,7 @@ The key principle is transparency and documented reasoning. Errors in good faith
 <a href="https://go.expatnetherlandshub.com/wise" class="cta-affiliate" rel="nofollow noopener sponsored" target="_blank">Try Wise</a>
 
 And protect your stay in the Netherlands with flexible expat insurance: <a href="https://go.expatnetherlandshub.com/safetywing" class="cta-affiliate" rel="nofollow noopener sponsored" target="_blank">Get Expat Coverage with SafetyWing</a>
+
+---
+
+**External source:** [Belastingdienst — BTW info](https://www.belastingdienst.nl/wps/wcm/connect/nl/btw/btw) — independent information on this topic.

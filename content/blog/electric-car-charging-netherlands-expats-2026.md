@@ -40,7 +40,6 @@ products:
     price: "0.00"
     tag: "Energy Provider"
 ---
-
 I drove an EV for the first time as a long-weekend rental in the Netherlands in 2022. By 2024 I had switched my own car to an electric Hyundai Kona. I have logged 28,000 km on it across the Netherlands, Germany, and Belgium since. The charging experience in NL is genuinely good — but it has quirks that catch new expats off guard, and the cost calculation is more nuanced than the "EVs are cheap to run" headline suggests.
 
 This guide is what I would tell an expat colleague who is considering electric for their next car in the Netherlands.
@@ -48,6 +47,9 @@ This guide is what I would tell an expat colleague who is considering electric f
 *Disclosure: this article contains affiliate links. If you sign up via them I may earn a small commission at no extra cost to you. All views are based on my own experience.*
 
 💡 *For broader vehicle context see my [driving in the Netherlands guide](/guides/daily-life/driving-in-netherlands-guide-2026/) and [car leasing options for expats](/blog/car-leasing-options-expats-netherlands-2026/).*
+
+
+> **Quick answer:** How EV charging works in the Netherlands in 2026: home, public, fast charging, costs, charge cards, and what to know before buying or leasing an electric car as an expat.
 
 ## The Dutch EV Market in 2026
 
@@ -347,3 +349,7 @@ For comprehensive moving and settling support see my [first 30 days checklist](/
 The Dutch EV experience in 2026 is mature. The chargers exist, the apps work, the cars are good, and the running costs are competitive. The friction has shifted from infrastructure (which is solved) to personal logistics (parking, charging access, financing). Match your decision to your real driving pattern, not the headline TCO numbers, and the answer becomes clear.
 
 I am keeping my Hyundai Kona for at least another two years. The total cost of ownership has been roughly EUR 1,200 / year better than my previous diesel for similar mileage, and the day-to-day experience is meaningfully nicer. For most expats with stable Dutch life, that calculus works.
+
+---
+
+**External source:** [Belastingdienst — BTW info](https://www.belastingdienst.nl/wps/wcm/connect/nl/btw/btw) — independent information on this topic.

@@ -35,7 +35,6 @@ products:
     price: "0.00"
     tag: "Energy Comparison"
 ---
-
 I lived in Amsterdam for three years before moving to Rotterdam in 2024. My monthly fixed costs dropped by roughly €650 the day I signed the new lease. Two years in, I have a clearer picture of what the actual cost difference looks like across every category — not the touristy version, the lived version.
 
 This guide compares 2026 cost of living in Amsterdam versus Rotterdam across rent, groceries, utilities, transport, eating out, lifestyle, and tax/legal context for expats. I'll give you real numbers, not municipal averages.
@@ -43,6 +42,9 @@ This guide compares 2026 cost of living in Amsterdam versus Rotterdam across ren
 *Disclosure: this article contains affiliate links. If you sign up via them I may earn a small commission at no extra cost to you. All numbers below are from my own bills, my partner's bills, friends in both cities, and 2026 market data.*
 
 💡 *For city-specific guides see my [Amsterdam expat guide](/blog/amsterdam-expat-guide-2026/), [Rotterdam expat guide](/blog/rotterdam-expat-guide-2026/), and [Den Haag expat guide](/blog/den-haag-expat-guide-2026/).*
+
+
+> **Quick answer:** Amsterdam vs Rotterdam cost of living 2026: real numbers for rent, groceries, transport, utilities, and lifestyle as an expat. Which city actually fits your budget?
 
 ## The Headline Numbers
 
@@ -255,3 +257,7 @@ If your job is Amsterdam-anchored and remote-flexible, **live in Rotterdam, comm
 If your job is Amsterdam-required, full-time in-office, and pays a real Amsterdam premium of €15K+ above the Rotterdam equivalent: stay in Amsterdam, but optimize hard on housing search through tools like <a href="https://go.expatnetherlandshub.com/housing-anywhere?ref=/blog/cost-of-living-amsterdam-vs-rotterdam-2026/" target="_blank" rel="nofollow sponsored noopener">HousingAnywhere</a> and accept that life will be more expensive.
 
 For deeper city-by-city guidance see my [Amsterdam guide](/blog/amsterdam-expat-guide-2026/), [Rotterdam guide](/blog/rotterdam-expat-guide-2026/), [Den Haag guide](/blog/den-haag-expat-guide-2026/), [renting vs buying](/blog/renting-vs-buying-netherlands-expat-2026/), and [salary expectations Netherlands](/blog/salary-comparison-netherlands-expats-2026/) for the income side of the equation.
+
+---
+
+**External source:** [IND — Residence permits](https://ind.nl/en/residence-permits) — independent information on this topic.

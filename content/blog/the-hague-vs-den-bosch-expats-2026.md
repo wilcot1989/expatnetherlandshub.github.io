@@ -44,7 +44,6 @@ products:
     price: "0.00"
     tag: "International Banking"
 ---
-
 When I moved to the Netherlands from the UK, The Hague was my first base. I lived in Bezuidenhout for two and a half years before relocating, and I have visited Den Bosch dozens of times since — both for work with clients in the south, and because my partner's family is Brabant. So when expats ask me about these two cities, I am answering from real experience in both.
 
 The Hague and Den Bosch are an unusual pairing. They are not often compared — most expats weighing cities consider Amsterdam, Rotterdam, and Utrecht. But I get this specific question more than you might expect, because the two cities offer genuinely different propositions: The Hague as the international, English-friendly capital of governance; Den Bosch as a quieter, more authentically Dutch southern city with a lower cost of living.
@@ -54,6 +53,11 @@ This is my 2026 comparison.
 *Disclosure: this article contains affiliate links. If you sign up via them I may earn a small commission at no extra cost to you. All views are based on my own experience.*
 
 💡 *For more city comparisons see [Cost of living Amsterdam vs Rotterdam](/blog/cost-of-living-amsterdam-vs-rotterdam-2026/) and [Eindhoven vs Utrecht for expats](/blog/eindhoven-vs-utrecht-expats-2026/).*
+
+
+> **Quick answer:** I've lived in the Hague and visited Den Bosch dozens of times. My honest 2026 comparison of cost, jobs, housing, schools, and expat life across both cities.
+>
+> Yes, materially. In 2026 a one-bedroom apartment in The Hague city centre runs roughly EUR 1,650 to EUR 2,100 per month, versus EUR 1,150 to EUR 1,450 in Den Bosch. Groceries are similar. Eating out is around 15 to 20 percent more expensive in The Hague. The single biggest gap is housing, which more than offsets the slightly higher salaries you might find in The Hague's international job market.
 
 ## The Quick Verdict
 
@@ -358,3 +362,7 @@ For a complete first-month checklist, see my [first 30 days in the Netherlands c
 I made the move from The Hague to a smaller Dutch town partly for cost-of-living reasons, partly because my Dutch had progressed enough that I no longer needed the international scaffolding. That progression is real for many expats: The Hague as a soft-landing first city, smaller cities like Den Bosch as a longer-term home once Dutch fluency is reasonable.
 
 Both cities are excellent. Pick the one that matches where you are now, not where you imagine yourself being in five years. You can always move later.
+
+---
+
+**External source:** [IND — Residence permits](https://ind.nl/en/residence-permits) — independent information on this topic.

@@ -41,7 +41,6 @@ products:
   tag: Expat Insurance
 schema_type: Review
 ---
-
 I have been reviewing Dutch health insurers for expats for several years now, and DSW is one that often gets overlooked in favour of the larger national brands. That is a shame, because for certain expats — particularly those living in or near Rotterdam — DSW can be genuinely excellent value.
 
 This review covers everything you need to know about DSW as an expat: premiums, coverage options, English support, how the claims process works, and how DSW stacks up against the competition.
@@ -50,6 +49,9 @@ This review covers everything you need to know about DSW as an expat: premiums, 
 
 
 💡 *Looking for a complete banking comparison? Read [Best banking for expats in the Netherlands 2026](/blog/best-banking-expats-netherlands-2026/) — covers ABN, ING, Bunq, Wise, Revolut & 5 others by expat use case.*
+
+> **Quick answer:** DSW health insurance reviewed for expats in 2026. Premiums, coverage, English support, and how it compares to other Dutch insurers.
+
 ## What Is DSW?
 
 DSW (De Samenwerking Westland) is a regional Dutch health insurer based in Schiedam, near Rotterdam. Founded in 1917 as a workers' mutual, it is one of the oldest health insurers in the Netherlands. Today DSW serves approximately 650,000 members, making it mid-sized compared to giants like VGZ or Menzis.
@@ -468,3 +470,7 @@ You register online at dsw.nl. You will need your BSN (Burger Service Number), b
 **Can I use DSW insurance at any hospital in the Netherlands?**
 
 With the restitutie (reimbursement) policy, you can use any hospital in the Netherlands, including non-contracted ones, and DSW reimburses you for the reasonable cost. With the natura (in-kind) policy, you get full coverage only at contracted hospitals. Contracted care is strongest in DSW's home region of south-west Netherlands. Check the DSW website or contact your preferred hospital before choosing a policy type.
+
+---
+
+**External source:** [Zorgverzekeringslijn — onafhankelijke info](https://www.zorgverzekeringslijn.nl/) — independent information on this topic.

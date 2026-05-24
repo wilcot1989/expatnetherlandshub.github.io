@@ -35,7 +35,6 @@ products:
   tag: Expat Insurance
 schema_type: Article
 ---
-
 When I first arrived in the Netherlands, life insurance was not on my list of priorities. I was focused on getting my BSN, finding a GP, and working out the public transport system. It was only when I started looking at buying a flat that the topic came up — and I realised I'd been ignoring something that many expats need to think about earlier than they do.
 
 This guide covers what life insurance means in the Dutch context, who needs it as an expat, how much it costs, and how to find a policy that works for your situation.
@@ -44,6 +43,11 @@ This guide covers what life insurance means in the Dutch context, who needs it a
 💡 *Looking for a complete banking comparison? Read [Best banking for expats in the Netherlands 2026](/blog/best-banking-expats-netherlands-2026/) — covers ABN, ING, Bunq, Wise, Revolut & 5 others by expat use case.*
 
 🇳🇱 *Need NL-specific software? See also [Best NL accounting software for freelancers](https://bedrijfssoftwaregids.nl/blog/beste-boekhoudsoftware-zzp-mkb-2026-pillar/).*
+
+
+> **Quick answer:** Do expats in the Netherlands need life insurance? What's covered, what isn't, and how to find the right policy in 2026 — including mortgage-linked options.
+>
+> It depends on your situation. If you have a mortgage, most lenders require a term life insurance policy (overlijdensrisicoverzekering). If you have dependents relying on your income, life insurance provides important protection. Single expats without dependents or mortgages often don't need it.
 
 ## What is Life Insurance in the Netherlands?
 
@@ -295,3 +299,7 @@ Premiums depend on age, health, coverage amount, and policy term. A healthy 35-y
 **What happens to my Dutch life insurance policy if I leave the Netherlands?**
 
 This depends on the policy terms. Many Dutch policies allow you to maintain coverage if you move to another country, but you should check your insurer's terms carefully. Some policies become void if you no longer reside in the Netherlands. Notify your insurer before relocating.
+
+---
+
+**External source:** [IND — Residence permits](https://ind.nl/en/residence-permits) — independent information on this topic.

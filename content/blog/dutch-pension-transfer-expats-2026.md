@@ -34,7 +34,6 @@ products:
     price: "0.00"
     tag: "Banking"
 ---
-
 When I first moved to the Netherlands I had a UK workplace pension worth about £18,000 and was told (incorrectly) by a friend that I should "transfer it across" before settling in. After three months of paperwork and a near-miss on a £4,000 tax charge, I left it in the UK. Best decision I made in my first expat year.
 
 Pension transfers between the Netherlands and other countries are one of the most misunderstood topics in expat finance. The defaults — leave most pensions where they are, accept that you'll have multi-country pension income at retirement, plan around that — are rarely what people initially want to do. This guide explains the actual rules in 2026 and how to think about your situation.
@@ -42,6 +41,9 @@ Pension transfers between the Netherlands and other countries are one of the mos
 *Disclosure: this guide contains affiliate links. I may earn a small commission if you sign up via them at no extra cost to you. This is informational, not pension advice. For your specific situation, consult a qualified Dutch fiscal pension adviser.*
 
 💡 *For the broader pension picture, see [Dutch pension complete guide](/blog/dutch-pension-complete-guide-expats-2026/), [Dutch pension system explained](/blog/dutch-pension-system-expats-2026/), and [What happens to your pension if you leave the Netherlands](/blog/dutch-pension-leaving-netherlands-2026/).*
+
+
+> **Quick answer:** How to transfer pensions in and out of the Netherlands as an expat in 2026: rules, tax treatment, common mistakes, and when transfer beats leaving it.
 
 ## The Three Pillars of Dutch Pension
 
@@ -335,3 +337,7 @@ If you're returning to the Netherlands after time abroad:
 3. **Don't try to consolidate everything** — keep historical Dutch pension funds separate and untouched.
 
 The pension landscape rewards patience and minimal action. The default of "leave it where it is, track it, plan around it" is the right answer 80% of the time.
+
+---
+
+**External source:** [IND — Residence permits](https://ind.nl/en/residence-permits) — independent information on this topic.

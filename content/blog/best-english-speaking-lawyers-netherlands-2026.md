@@ -40,7 +40,6 @@ products:
     price: "0.00"
     tag: "International Payments"
 ---
-
 I have referred clients to Dutch lawyers (advocaten) for all kinds of situations: an employment termination dispute that turned into a EUR 38,000 settlement, an IND visa rejection that had to be appealed in three weeks, a custody negotiation, a landlord trying to evict a tenant illegally, a small business contract dispute. Each of these had a different specialist, a different fee structure, and a different process.
 
 What I have learned: the right Dutch lawyer at the right moment is one of the highest-leverage purchases an expat can make. The wrong one — too generalist, too expensive, too unfamiliar with the international context — can waste five-figure sums and produce worse outcomes. This guide is what I wish all my expat clients knew before they had to choose.
@@ -48,6 +47,9 @@ What I have learned: the right Dutch lawyer at the right moment is one of the hi
 *Disclosure: this article contains affiliate links. If you sign up via them I may earn a small commission at no extra cost to you. All views are based on my own experience.*
 
 💡 *For the related institution see my [English-speaking notaris guide](/blog/best-english-speaking-notaris-netherlands-2026/) — the Dutch legal system splits these roles cleanly.*
+
+
+> **Quick answer:** When expats need a Dutch lawyer (advocaat), how to find an English-speaking one, what they charge in 2026, and how to avoid the common mistakes.
 
 ## When Expats Actually Need a Lawyer
 
@@ -350,3 +352,7 @@ Two practical pieces of advice:
 2. For employment terminations specifically, never sign a settlement on day one. Take 48 hours, consult a specialist, and then respond. The market expects this; employers rarely withdraw offers because you took two days.
 
 For broader Dutch admin orientation see my [bureaucracy survival guide](/guides/integration/dutch-bureaucracy-survival-guide-2026/) and [first 30 days checklist](/guides/legal/first-30-days-netherlands-expat-checklist-2026/).
+
+---
+
+**External source:** [Belastingdienst — BTW info](https://www.belastingdienst.nl/wps/wcm/connect/nl/btw/btw) — independent information on this topic.

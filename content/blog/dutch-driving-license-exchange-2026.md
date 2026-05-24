@@ -45,12 +45,14 @@ products:
   tag: Car Insurance Comparison
 schema_type: Article
 ---
-
 When I exchanged my Australian driving license for a Dutch one in 2020, I assumed it would take a week, maybe two. In the end it took eleven weeks — not because of bureaucratic inefficiency, but because I did not understand the sequence, missed a step in the RDW document requirements, and did not know that my Australian license entitled me to a direct exchange without tests.
 
 That experience prompted me to write what I wish I had found on the internet before I started: a complete, honest guide to the Dutch driving license exchange process for expats in 2026. I will cover country eligibility, the 30% ruling connection, medical exams, the CBR test route for non-agreement countries, and — crucially — what happens to your car insurance in the transition.
 
 ---
+
+
+> **Quick answer:** Exchange your foreign license for Dutch RDW license: 30% ruling exemption, country-list eligibility, and the practical timeline 2026.
 
 ## Why You Need a Dutch Driving License (Even If Your Foreign One Is Valid)
 
@@ -331,3 +333,7 @@ The Dutch driving license exchange is genuinely one of the more straightforward 
 - [Dutch Divorce Law for Expats 2026](/guides/legal/dutch-divorce-law-expats-2026/)
 - [Dutch Employment Law Basics Every Expat Should Know 2026](/guides/legal/dutch-employment-law-basics-expats-2026/)
 - [Dutch Inheritance Law for Expats 2026](/guides/legal/dutch-inheritance-law-wills-expats-2026/)
+
+---
+
+**External source:** [IND — Residence permits](https://ind.nl/en/residence-permits) — independent information on this topic.

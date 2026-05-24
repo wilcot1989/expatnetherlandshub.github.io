@@ -40,7 +40,6 @@ products:
   tag: Expat Insurance
 schema_type: Review
 ---
-
 VGZ is one of those Dutch insurers that most expats end up considering at some point — either because a colleague mentions it, because their employer has a collective scheme with them, or because they show up prominently in price comparison results.
 
 I have spoken to many expats who have had VGZ insurance, and the reviews tend to be "fine" or "it does what I need" rather than passionately positive or negative. That is broadly accurate in my view. VGZ is a large, competent, mainstream Dutch insurer that does its job reliably without particularly distinguishing itself in either direction.
@@ -51,6 +50,9 @@ This review covers what matters for expats specifically.
 
 
 💡 *Looking for a complete banking comparison? Read [Best banking for expats in the Netherlands 2026](/blog/best-banking-expats-netherlands-2026/) — covers ABN, ING, Bunq, Wise, Revolut & 5 others by expat use case.*
+
+> **Quick answer:** Honest VGZ health insurance review for expats in 2026. Premiums, sub-brands, supplementary cover, employer schemes, and how VGZ compares to rivals.
+
 ## VGZ at a Glance
 
 | Feature | Detail |
@@ -453,3 +455,7 @@ VGZ offers a tiered supplementary insurance system branded as Aanvullend 1, 2, 3
 **How does VGZ handle employer collective insurance schemes?**
 
 VGZ is one of the most common collective insurance scheme partners for Dutch employers, alongside Zilveren Kruis and CZ. If your employer has a VGZ collective scheme, you may receive a discount of 5–15% on your VGZ premium — sometimes including supplementary insurance discounts too. This is offered as part of your employment benefits. To check: ask your HR department whether your company has a collective VGZ scheme and what the discounted premium would be. Then compare this discounted price to the current best individual policy price on Independer. If the collective scheme is still competitive after comparison, take it. If a competitor's individual policy is cheaper even without a collective discount, the collective scheme may not represent the best value.
+
+---
+
+**External source:** [Zorgverzekeringslijn — onafhankelijke info](https://www.zorgverzekeringslijn.nl/) — independent information on this topic.

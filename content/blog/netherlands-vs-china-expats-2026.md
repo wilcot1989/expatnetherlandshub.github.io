@@ -44,7 +44,6 @@ products:
   tag: Expat Insurance
 schema_type: Article
 ---
-
 Comparing the Netherlands and China as expat destinations is not a simple ranking exercise. These are profoundly different environments that suit profoundly different people and situations. I have met expats who thrived in Shanghai for a decade and found moving back to Europe a genuine loss. I have also met people who lasted six months in Beijing and left with lasting respect for internet access and grey Dutch skies.
 
 This comparison is honest about both. It is aimed at professionals weighing an international assignment or voluntary relocation between these two destinations — or people who have been offered a choice and are genuinely trying to decide.
@@ -53,6 +52,9 @@ This comparison is honest about both. It is aimed at professionals weighing an i
 
 
 💡 *Looking for a complete banking comparison? Read [Best banking for expats in the Netherlands 2026](/blog/best-banking-expats-netherlands-2026/) — covers ABN, ING, Bunq, Wise, Revolut & 5 others by expat use case.*
+
+> **Quick answer:** Netherlands vs China for expats 2026: salaries, cost of living, internet freedom, healthcare, and quality of life compared honestly.
+
 ## Quick Overview
 
 | Factor | Netherlands | China (Shanghai/Beijing) |
@@ -419,3 +421,7 @@ The Netherlands Kennismigrant permit is employer-sponsored, processes in 2–4 w
 **Do I need a VPN in China and which ones work?**
 
 Most expats living or working in China use a VPN to access blocked services. The challenge is that China actively blocks VPN traffic, and not all VPNs work consistently. VPNs with obfuscation technology — which disguises VPN traffic as regular HTTPS traffic — are generally more reliable in China than standard VPN protocols. NordVPN includes obfuscated servers and is used by many expats in China as part of their toolkit. Download and configure your VPN before arriving in China — once you are inside the country, downloading VPN software itself can be difficult because many VPN provider websites are also blocked.
+
+---
+
+**External source:** [EFF — Privacy issues](https://www.eff.org/issues/privacy) — independent information on this topic.

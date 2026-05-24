@@ -40,7 +40,6 @@ products:
   tag: Expat Insurance
 schema_type: Article
 ---
-
 I want to start this piece with something I do not say often enough in my work: moving to the Netherlands and feeling genuinely lonely — sometimes devastatingly so — is one of the most common experiences I hear about from expat clients, and one of the least talked about.
 
 People come here for exciting jobs, for partners, for new starts. They often find a beautiful country, a well-functioning society, and a peculiar, growing sense that something is missing. The loneliness does not announce itself loudly. It creeps in. It arrives somewhere around week six or month four, when the novelty has worn off and the practicalities are sorted and you realise you have not had a real conversation with a friend in weeks.
@@ -51,6 +50,9 @@ I have been there. I have helped dozens of clients through it. And I want to wri
 
 
 💡 *Looking for a complete banking comparison? Read [Best banking for expats in the Netherlands 2026](/blog/best-banking-expats-netherlands-2026/) — covers ABN, ING, Bunq, Wise, Revolut & 5 others by expat use case.*
+
+> **Quick answer:** Expat loneliness in the Netherlands is real. An honest guide to why it happens, what Dutch social culture means for you, and how to build a real life.
+
 ## Why Expat Loneliness in the Netherlands Is a Real Thing
 
 Before I get into practical steps, I want to address why this happens — because understanding the why matters for not blaming yourself.
@@ -312,3 +314,7 @@ Loneliness peaks at certain specific moments in the expat experience that are wo
 <a href="https://go.expatnetherlandshub.com/wise" class="cta-affiliate" rel="nofollow noopener sponsored" target="_blank">Try Wise</a>
 
 Speaking Dutch opens doors to real friendships — start learning today: <a href="https://go.expatnetherlandshub.com/preply" class="cta-affiliate" rel="nofollow noopener sponsored" target="_blank">Find a Dutch Tutor on Preply</a>
+
+---
+
+**External source:** [EFF — Privacy issues](https://www.eff.org/issues/privacy) — independent information on this topic.

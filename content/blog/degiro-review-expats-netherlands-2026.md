@@ -41,7 +41,6 @@ products:
   tag: Currency Transfer
 schema_type: Review
 ---
-
 The first time I opened a Dutch brokerage account, I went with DeGiro out of a combination of recommendation overload and the fact that every expat finance forum I could find seemed to end up saying the same thing: it's the cheapest, just use it.
 
 That was a few years ago. Since then I have helped dozens of expat clients think through their investing setup in the Netherlands, and I have seen DeGiro used well, used badly, and occasionally misunderstood in ways that cost real money. What I have not seen is an honest review written from the perspective of someone who actually moved here, had to figure out the BSN requirement, wondered about Box 3, and had to decide between the Basic and Custody account types without entirely understanding what either meant.
@@ -52,6 +51,11 @@ This review is that. It is long. It covers the details other reviews skip. If yo
 
 
 💡 *Looking for a complete banking comparison? Read [Best banking for expats in the Netherlands 2026](/blog/best-banking-expats-netherlands-2026/) — covers ABN, ING, Bunq, Wise, Revolut & 5 others by expat use case.*
+
+> **Quick answer:** DeGiro is the cheapest broker in the Netherlands. Honest review covering BSN, Box 3 tax, ETF selection, and account setup for expats.
+>
+> Yes. DeGiro requires a Dutch BSN (Burgerservicenummer) to open an account as a Dutch resident. You will also need to complete identity verification (a valid EU passport or national ID card). Once you have your BSN after registering with your municipality, the account application is simple and usually approved within one working day.
+
 ## DeGiro at a Glance
 
 | Feature | Detail |
@@ -413,3 +417,7 @@ For expats who are genuinely new to investing and ask me where to start, here is
 ---
 
 *Related reading: [Investing in the Netherlands as an Expat](/guides/finance/investing-netherlands-expats-2026/) | [30% Ruling Guide](/guides/finance/30-percent-ruling-eligibility-guide-2026/) | [Dutch Tax Return Checklist](/guides/finance/dutch-tax-return-checklist-expats-2026/) | [Best Finance Apps for Expats](/guides/finance/best-finance-apps-expats-netherlands-2026/) | [Wise vs Revolut Netherlands](/guides/finance/wise-vs-revolut-netherlands-2026/)*
+
+---
+
+**External source:** [Belastingdienst — BTW info](https://www.belastingdienst.nl/wps/wcm/connect/nl/btw/btw) — independent information on this topic.

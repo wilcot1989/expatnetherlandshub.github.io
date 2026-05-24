@@ -40,13 +40,17 @@ products:
   tag: Expat Insurance
 schema_type: Article
 ---
-
 I've spoken to expats who've lived in both countries, and the contrast between Japan and the Netherlands is striking enough to be worth a dedicated comparison. Both are wealthy, orderly, and with strong civic cultures — but they are profoundly different in their relationship to foreigners, their day-to-day rhythms, and what living there actually demands of you.
 
 This comparison is aimed at people actively choosing between the two destinations, or trying to understand what each offers relative to the other.
 
 
 💡 *Looking for a complete banking comparison? Read [Best banking for expats in the Netherlands 2026](/blog/best-banking-expats-netherlands-2026/) — covers ABN, ING, Bunq, Wise, Revolut & 5 others by expat use case.*
+
+> **Quick answer:** Netherlands vs Japan for expats: an honest comparison of costs, visas, culture, healthcare, and day-to-day life for those choosing between the two in 2026.
+>
+> Tokyo is broadly comparable to Amsterdam in cost of living, though Japan has become noticeably cheaper for Western expats due to yen depreciation since 2022. Outside major Japanese cities, costs drop significantly. The Netherlands is more uniform in pricing across cities.
+
 ## Country Overview
 
 **The Netherlands** is a small, flat, densely populated country of 17.9 million people in Northern Europe. It is one of the world's most open economies, deeply integrated into global trade and finance. Dutch society is secular, liberal, and historically shaped by trade and immigration.
@@ -384,3 +388,7 @@ Both countries have high-quality universal healthcare systems. Japan's system is
 **Can British or Australian expats easily move to either Japan or the Netherlands?**
 
 For the Netherlands, EU freedom of movement does not apply to British or Australian citizens post-Brexit, so a residence permit is needed. For Japan, working holiday visas are available for Australians and some other nationalities. Both countries require employer sponsorship or specific visa categories for professional long-term stays.
+
+---
+
+**External source:** [IND — Residence permits](https://ind.nl/en/residence-permits) — independent information on this topic.

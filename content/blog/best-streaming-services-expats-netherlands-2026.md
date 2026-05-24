@@ -45,7 +45,6 @@ faq:
 - q: 'How do I cancel a Dutch streaming subscription?'
   a: Dutch consumer law requires monthly auto-renewal subscriptions to allow cancellation with one month notice after the initial term. You cancel through the service's account settings (Mijn account or My account). Some services like Ziggo Movies & Series tie to broadband contracts and require cancelling the broadband bundle separately.
 ---
-
 *This article contains affiliate links. If you click through and sign up I may receive a small commission at no extra cost to you. I only recommend services I have personally used or rigorously researched.*
 
 When I moved to Amsterdam, the first weekend in my new flat I tried to watch a film I had been waiting weeks for on Netflix. It was not on Dutch Netflix. It was on US Netflix. My UK-issued Netflix account suddenly only showed Dutch and EU content. The HBO show I was halfway through? Not on HBO Max in the Netherlands at the time. The BBC iPlayer documentary my mother had recommended? Geo-blocked.
@@ -59,6 +58,11 @@ Streaming is one of those small daily-life choices that affects your evenings, y
 ---
 
 💡 *Setting up your home? Read [best broadband internet providers for expats Netherlands 2026](/blog/best-broadband-internet-providers-expats-netherlands-2026/) — covers KPN, Ziggo, Odido, fibre vs cable, and TV bundles.*
+
+
+> **Quick answer:** Tested every major streaming service from a Dutch IP. Here's the no-nonsense expat guide for 2026 with prices, libraries, sports, and home country access.
+>
+> Yes, significantly. Netflix Netherlands has roughly 5,500 titles compared to 6,000+ in the US, and the mix is different. Many US-only titles (especially older HBO content, Disney back-catalogue, and certain Sony films) are not on Netherlands Netflix. A reverse-direction VPN connection can unlock the US library, although Netflix actively blocks many VPN IP ranges.
 
 ## What changes when you become a Dutch resident
 
@@ -269,3 +273,7 @@ The streaming question is part of the broader "what does my Dutch life look like
 For the broader expat onboarding, see [first year in the Netherlands as an expat](/blog/first-year-netherlands-expat-pillar-2026/) and the practical tools in [Dutch utilities explained for expats](/blog/dutch-utilities-explained-expats-2026/).
 
 *Last updated: 2026-07-07. I review this guide every six months as Dutch streaming rights and pricing shift.*
+
+---
+
+**External source:** [EFF — Privacy issues](https://www.eff.org/issues/privacy) — independent information on this topic.

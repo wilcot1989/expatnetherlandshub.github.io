@@ -43,7 +43,6 @@ products:
     price: "0.00"
     tag: "International Health"
 ---
-
 I bought my first Dutch insurance through a broker in 2021 — recommended by an expat colleague, English-speaking, comprehensive, and 12% more expensive than the equivalent on Independer. I bought my second-year insurance via Independer after I noticed the cost gap. By 2024 I had a hybrid setup: comparison platforms for simple things, an English-speaking broker for the complex ZZP-liability and international-asset coverage. Both have a place. Most expats need one or the other depending on situation.
 
 This guide compares brokers, comparison platforms, direct insurers, and international specialists for 2026 expats in the Netherlands — when each makes sense, what they actually cost, and how to pick.
@@ -51,6 +50,9 @@ This guide compares brokers, comparison platforms, direct insurers, and internat
 *Disclosure: this article contains affiliate links. If you sign up via them I may earn a small commission at no extra cost to you. All recommendations come from my own experience and from talking to other expats about their broker setups.*
 
 💡 *For specific insurance categories see [aanvullende health insurance](/blog/aanvullende-supplemental-health-insurance-expats-2026/), [DSW health insurance review](/blog/dsw-health-insurance-review-expats-2026/), [car insurance for expats](/blog/car-insurance-netherlands-expats-2026/), and [life insurance Netherlands](/blog/life-insurance-expats-netherlands-2026/).*
+
+
+> **Quick answer:** Independent insurance broker vs comparison platform vs direct insurer for expats in NL 2026 — when each makes sense, who I recommend, and the cost difference.
 
 ## The Three Routes to Insurance in NL
 
@@ -255,3 +257,7 @@ For most expats in 2026, **the right answer is a comparison platform for 80% of 
 Don't pay broker markups on simple products. Don't skip a broker for AOV or international health. The hybrid approach is cheaper and gets you better coverage than either pure approach.
 
 For specific insurance types see [aanvullende health insurance](/blog/aanvullende-supplemental-health-insurance-expats-2026/), [DSW health insurance review](/blog/dsw-health-insurance-review-expats-2026/), [car insurance for expats](/blog/car-insurance-netherlands-expats-2026/), [life insurance Netherlands](/blog/life-insurance-expats-netherlands-2026/), and [ZZP registration guide](/blog/zzp-registration-netherlands-step-by-step-2026/) if you're going freelance and need ZZP-specific coverage.
+
+---
+
+**External source:** [KvK — starten met een bedrijf](https://www.kvk.nl/starten/) — independent information on this topic.

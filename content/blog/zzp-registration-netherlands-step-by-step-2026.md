@@ -35,7 +35,6 @@ products:
     price: "0.00"
     tag: "Health Insurance"
 ---
-
 I registered as ZZP in 2022, on a Tuesday, in 47 minutes at the Utrecht KvK office. I left with a registration number, paid €76, biked home, and sent my first invoice three days later. The process is genuinely manageable — but only if you understand what you're walking into. Most expats who struggle with ZZP registration didn't fail at the registration; they failed at the prep work that should have happened before the appointment.
 
 This guide is the exact step-by-step I'd give my sister if she were registering this week, with 2026 numbers, real timelines, and the prep checklist I wish I'd had.
@@ -43,6 +42,9 @@ This guide is the exact step-by-step I'd give my sister if she were registering 
 *Disclosure: this article contains affiliate links. If you sign up via them I may earn a small commission at no extra cost to you. All recommendations come from my own experience as a registered ZZP since 2022.*
 
 💡 *For broader self-employment context see [tax filing for freelance expats](/blog/tax-filing-freelance-expat-netherlands-2026/), [side hustle and passive income NL](/blog/side-hustle-passive-income-netherlands-2026/), and [business bank ZZP](/blog/business-bank-zzp-netherlands-2026/).*
+
+
+> **Quick answer:** How to register as a ZZP self-employed in the Netherlands in 2026 — complete step-by-step guide for expats: KvK, BTW, banking, insurance, and first invoice.
 
 ## What ZZP Actually Is
 

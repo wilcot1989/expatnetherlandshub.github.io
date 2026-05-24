@@ -40,7 +40,6 @@ products:
   tag: Currency Transfer
 schema_type: Article
 ---
-
 The first thing you discover about housing in the Netherlands as an expat is that it is genuinely hard. The vacancy rate in Amsterdam hovers around 1%. In some city-centre postcodes it is effectively zero. The waiting list for social housing (which you cannot access as a new arrival anyway) runs to years, sometimes decades.
 
 Short-stay furnished housing is the practical answer for most expats in their first three to twelve months — while you look for a long-term place, while you figure out which neighbourhood suits you, or while you wait out a job transition. This guide covers how the short-stay market works, what it costs, where to find options, and the things that catch people off guard.
@@ -49,6 +48,9 @@ Short-stay furnished housing is the practical answer for most expats in their fi
 
 
 💡 *Looking for a complete banking comparison? Read [Best banking for expats in the Netherlands 2026](/blog/best-banking-expats-netherlands-2026/) — covers ABN, ING, Bunq, Wise, Revolut & 5 others by expat use case.*
+
+> **Quick answer:** Short-stay furnished housing in the Netherlands for expats: platforms, typical costs, tenant rights, scam warnings, and how to find something fast.
+
 ## Why Short-Stay Housing Matters for Expats
 
 When you arrive in the Netherlands, you are often trying to do several things simultaneously: register with your gemeente (which requires an address), get a BSN (which requires registration), open a bank account (which requires a BSN), and start your job (which needs all of the above). The housing situation underpins everything else.
@@ -348,3 +350,7 @@ When leaving a short-stay furnished rental, a few things to manage carefully:
 **Deregistration:** When you move out permanently, deregister at the gemeente (uitschrijven). This matters for your BRP record and for ending municipal tax (gemeentebelasting) obligations at your old address.
 
 **Forwarding address:** The Dutch postal system (PostNL) offers mail forwarding. Set this up before you move to ensure important correspondence reaches your new address.
+
+---
+
+**External source:** [IND — Residence permits](https://ind.nl/en/residence-permits) — independent information on this topic.

@@ -40,7 +40,6 @@ products:
     price: "0.00"
     tag: "Travel and Expat Insurance"
 ---
-
 The Sunday I cut my hand badly chopping vegetables in my Hague apartment, I did not know what to do. I did not need an ambulance. I did need stitches. It was 4pm on a Sunday so my GP was closed. I sat on the kitchen floor for ten minutes pressing a tea towel against the cut, googling "where do you go for stitches in the Netherlands on a Sunday" before my partner arrived home and called the huisartsenpost for me.
 
 That is how most expats learn the Dutch emergency system: in the moment, badly, while bleeding or panicking. This guide is what I wish I had known going in.
@@ -48,6 +47,9 @@ That is how most expats learn the Dutch emergency system: in the moment, badly, 
 *Disclosure: this article contains affiliate links. If you sign up via them I may earn a small commission at no extra cost to you. All views are based on my own experience.*
 
 💡 *For broader healthcare context see [navigate Dutch healthcare in English](/guides/health/navigate-dutch-healthcare-english-2026/) and [find an English-speaking doctor](/guides/health/find-english-speaking-doctor-netherlands-2026/).*
+
+
+> **Quick answer:** All Dutch emergency numbers, what they actually do, and what to expect when you call 112 or your GP at night as an expat in the Netherlands in 2026.
 
 ## The Numbers You Need
 
@@ -306,3 +308,7 @@ You probably will not need 112 in your first year in the Netherlands. You will p
 Save the numbers now. Practise saying your address. Know which line is for which problem. The five minutes spent setting this up before you need it is worth more than I can tell you.
 
 For the broader picture of settling in, see my [first 30 days in the Netherlands checklist](/guides/legal/first-30-days-netherlands-expat-checklist-2026/) — emergency awareness is one of the items I include in the first-week section.
+
+---
+
+**External source:** [IND — Residence permits](https://ind.nl/en/residence-permits) — independent information on this topic.

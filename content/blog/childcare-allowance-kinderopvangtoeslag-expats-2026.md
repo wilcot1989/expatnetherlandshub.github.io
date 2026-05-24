@@ -41,7 +41,6 @@ faq:
 - q: 'What happens if my income changes mid-year?'
   a: You must update Mijn Toeslagen as soon as possible. The system recalculates your monthly advance from the change date forward. If you forget, the year-end reconciliation can produce a clawback (terugvordering) which you must repay. I have seen expats hit with €3,000 to €8,000 clawbacks because they did not update for a salary change.
 ---
-
 *This article contains affiliate links. If you click through and sign up I may receive a small commission at no extra cost to you. I only recommend services I have personally used or rigorously researched.*
 
 When my friend Kavita moved to Amsterdam from Bangalore with her husband and two-year-old, the daycare quote made them both freeze. Eleven hundred euros a month for full-time daycare, three days a week. Six months later, after they finally figured out the kinderopvangtoeslag system, that figure dropped to around €420 net.
@@ -55,6 +54,11 @@ If you have moved to the Netherlands with kids, this is one of the most valuable
 ---
 
 💡 *New to the Netherlands with kids? Read [childcare costs Netherlands for expats 2026](/blog/childcare-netherlands-cost-expats-2026/) — covers raw daycare prices, types of care, and waiting lists.*
+
+
+> **Quick answer:** Claiming Dutch kinderopvangtoeslag as an expat is confusing. My step-by-step guide for 2026 covers eligibility, hourly caps, and the application portal.
+>
+> Yes. To claim kinderopvangtoeslag, both parents (or the single parent in a single-parent household) must be working, studying, or following a recognised reintegration programme. Hours of allowance are tied to the lower-earning parent's hours of work or study.
 
 ## What kinderopvangtoeslag actually is
 

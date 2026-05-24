@@ -45,7 +45,6 @@ faq:
 - q: What documents do I need on collection day?
   a: Bring your BSN, passport or residence permit, proof of address, a Dutch bank account or Wise account ready to transfer, and an active car insurance policy starting that day. The seller hands over the registration card (kentekenbewijs deel 1B) and the transfer code (tenaamstellingscode). Both of you go to the post office or PostNL point with RDW services to complete the transfer.
 ---
-
 *This article contains affiliate links. If you click through and sign up I may receive a small commission at no extra cost to you. I only recommend services I have personally used or rigorously researched. My editorial picks come first; commissions never decide which platforms make this list.*
 
 When I bought my first Dutch car in 2022 I made every mistake possible. I trusted a Marktplaats seller who had "just done a full APK", paid €5,800 for a Volkswagen Polo, and discovered three weeks later that the timing belt was overdue and the rear suspension was on its last legs. The repair quote was €2,200. I sold the car six months later for €3,400 and called it tuition.
@@ -57,6 +56,11 @@ This guide is what I wish someone had handed me three years ago. I will tell you
 ---
 
 💡 *New to driving in the Netherlands? Read [Driving in the Netherlands as an expat 2026](/blog/dutch-driving-license-exchange-2026/) — covers licence exchange, insurance basics, and parking rules.*
+
+
+> **Quick answer:** I tested every Dutch second-hand car platform as an expat. Here's where to actually find honest sellers, fair prices, and English-friendly listings in 2026.
+>
+> Marktplaats has the largest inventory but mixes private sellers with dealers and quality varies wildly. AutoTrack is dealer-focused, more curated, and almost every listing has a proper inspection report. As an expat I usually start on Gaspedaal (which aggregates both) and finish the deal on whichever platform the specific car is listed.
 
 ## Why the Dutch second-hand car market is different
 

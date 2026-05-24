@@ -40,7 +40,6 @@ products:
     price: "0.00"
     tag: "International Transfers"
 ---
-
 The first time I needed a Dutch notaris was for a will after my partner and I bought our first apartment in 2019. I went into that meeting expecting a 30-minute formality. It took 90 minutes, generated a 14-page document I needed to read carefully, and cost EUR 540. I left understanding things about Dutch inheritance law I had never thought about.
 
 Most expats encounter the notaris exactly once — at house purchase. A smaller number need one for wills, marriage contracts, or business incorporation. For all of these, the institution is unfamiliar and the stakes are real. This guide covers what a notaris actually does, what to expect, what it costs, and how to find an English-speaking one who genuinely handles expat work.
@@ -48,6 +47,9 @@ Most expats encounter the notaris exactly once — at house purchase. A smaller 
 *Disclosure: this article contains affiliate links. If you sign up via them I may earn a small commission at no extra cost to you. All views are based on my own experience.*
 
 💡 *For broader Dutch legal context, see my [Dutch bureaucracy survival guide](/guides/integration/dutch-bureaucracy-survival-guide-2026/) and [inheritance law for expats](/guides/legal/dutch-inheritance-law-wills-expats-2026/).*
+
+
+> **Quick answer:** When you need a Dutch notary as an expat, what to expect, what it costs, and how to find an English-speaking notaris in 2026 for property, marriage and wills.
 
 ## What a Dutch Notaris Is
 
@@ -264,3 +266,7 @@ Two practical steps:
 2. For property purchases, always compare three quotes. The savings are real, the work is identical, and the difference between EUR 1,300 and EUR 2,000 on the same act is pure overpayment if you do not shop.
 
 For the broader picture of Dutch admin and legal life, my [first 30 days checklist](/guides/legal/first-30-days-netherlands-expat-checklist-2026/), [moving to NL guide](/guides/legal/complete-guide-moving-to-netherlands-2026/), [Dutch nationality guide](/guides/legal/dutch-nationality-guide-expats-2026/), and [bureaucracy survival guide](/guides/integration/dutch-bureaucracy-survival-guide-2026/) cover the surrounding territory. The notaris is a single, infrequent, high-stakes interaction — worth understanding before you need one.
+
+---
+
+**External source:** [IND — Residence permits](https://ind.nl/en/residence-permits) — independent information on this topic.

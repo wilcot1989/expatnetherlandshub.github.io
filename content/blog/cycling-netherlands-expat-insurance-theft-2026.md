@@ -41,7 +41,6 @@ faq:
 - q: Will my home country bike insurance cover me in the Netherlands?
   a: Almost never. UK, US, and most EU bike insurance policies have territorial limits that exclude long-term residence abroad. Once you become a Dutch resident (registered at the gemeente) you need a Dutch policy.
 ---
-
 *This article contains affiliate links. If you click through and sign up I may receive a small commission at no extra cost to you. I only recommend services I have personally used or rigorously researched.*
 
 In my first year in the Netherlands I had two bikes stolen. The first was a €120 second-hand omafiets I bought from a sketchy guy near Centraal Station — I still believe he stole it back from me three weeks later. The second was a proper €600 Gazelle I locked outside the supermarket with a single ring lock. Gone in under ten minutes.
@@ -53,6 +52,11 @@ This is the guide I wish someone had given me on my first day. It covers what a 
 ---
 
 💡 *New to the Netherlands? Read [first year in the Netherlands as an expat](/blog/first-year-netherlands-expat-pillar-2026/) — covers all the essentials including transport, banking, and BSN registration.*
+
+
+> **Quick answer:** I have lost two bikes to theft and learned the hard way how Dutch bike insurance, locks, and registration actually work. Practical guide for expats in 2026.
+>
+> No. Bike insurance is optional in the Netherlands. However, given that approximately 500,000 bikes are stolen every year and most are never recovered, it is one of the most cost-effective insurances expats can take out. A standard policy costs €60 to €180 per year depending on bike value.
 
 ## What kind of bike should you actually buy?
 

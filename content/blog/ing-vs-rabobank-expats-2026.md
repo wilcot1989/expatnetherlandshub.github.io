@@ -42,7 +42,6 @@ faq:
   a: In 2026, Dutch savings rates have settled following the European Central Bank's rate adjustments. ING's standard savings account (Oranje Spaarrekening) offers around 1.50–1.75% AER on balances up to €1 million, with promotional rates sometimes reaching higher for new customers. Rabobank's savings account offers comparable rates, typically around 1.50% AER. Both are below what you can get through dedicated savings platforms or government bonds. If maximising interest is a priority, platforms like Raisin (available in the Netherlands) aggregate better rates from European banks.
 schema_type: Article
 ---
-
 I've had accounts at both ING and Rabobank during my time in the Netherlands. Here's what I wish I'd known before opening either.
 
 When I arrived, I did what most expats do: I asked colleagues which bank they used, got two completely different answers, and then spent an afternoon trying to work out the difference from two websites that seemed determined not to explain things clearly. I ended up opening ING first because the application was in English. A year later I added Rabobank because my employer used it and I wanted to understand it firsthand.
@@ -60,6 +59,9 @@ The short version: **ING is better for most newly arrived expats**. Rabobank has
 
 
 🇳🇱 *Looking for NL-specific tools? See also [Best CRM for freelancers in the Netherlands](https://bedrijfssoftwaregids.nl/blog/beste-crm-software-zzp-freelancer-2026/).*
+
+
+> **Quick answer:** ING vs Rabobank for expats: honest comparison of fees, apps, English support, mortgage services, and international transfers to help you choose.
 
 ## ING vs Rabobank: Quick Comparison
 
@@ -334,3 +336,7 @@ The ING vs Rabobank decision is less critical than expats sometimes make it. Bot
 ---
 
 *Have questions about banking in the Netherlands? Check out our [best bank account guide for expats in 2026](/guides/finance/best-bank-account-netherlands-expats-2026/) for a broader overview including neobanks and digital-only options.*
+
+---
+
+**External source:** [IND — Residence permits](https://ind.nl/en/residence-permits) — independent information on this topic.

@@ -42,7 +42,6 @@ products:
   tag: Currency Transfer
 schema_type: Article
 ---
-
 Losing a job is stressful in any country, but doing it in a foreign country with an unfamiliar social security system adds a layer of anxiety. I have helped numerous expats through this process, and the Dutch WW (Werkloosheidswet) system is actually one of the better unemployment insurance systems in the world — if you know how to use it.
 
 This guide explains exactly how Dutch unemployment benefits work for expats: who qualifies, how much you receive, how long it lasts, and the practical steps to claim it.
@@ -51,6 +50,9 @@ This guide explains exactly how Dutch unemployment benefits work for expats: who
 
 
 💡 *Looking for a complete banking comparison? Read [Best banking for expats in the Netherlands 2026](/blog/best-banking-expats-netherlands-2026/) — covers ABN, ING, Bunq, Wise, Revolut & 5 others by expat use case.*
+
+> **Quick answer:** How Dutch unemployment benefits (WW-uitkering) work for expats in 2026: eligibility, how much you get, how long, and how to apply via UWV.
+
 ## What Is WW (Werkloosheidswet)?
 
 WW stands for Werkloosheidswet — the Dutch Unemployment Insurance Act. It is a social insurance scheme funded by premiums paid by both employers and employees during employment. When you work legally in the Netherlands, you automatically build up WW entitlement through these contributions.
@@ -344,3 +346,7 @@ Getting these first steps right in the correct sequence matters more than it mig
 <a href="https://go.expatnetherlandshub.com/wise" class="cta-affiliate" rel="nofollow noopener sponsored" target="_blank">Try Wise</a>
 
 During this period, make sure your health coverage doesn't lapse: <a href="https://go.expatnetherlandshub.com/independer-zorg" class="cta-affiliate" rel="nofollow noopener sponsored" target="_blank">Compare Health Insurance at Independer</a>
+
+---
+
+**External source:** [IND — Residence permits](https://ind.nl/en/residence-permits) — independent information on this topic.

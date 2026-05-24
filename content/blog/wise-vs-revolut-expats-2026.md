@@ -35,7 +35,6 @@ products:
     price: "0.00"
     tag: "All-in-one Finance"
 ---
-
 I have used Wise since 2018 and Revolut since 2020. Both currently sit on my phone with active balances. They are not the same product despite competing for the same headlines, and "which is better" is the wrong question — the right question is "which one for what." After hundreds of transactions across both, here's the 2026 reality for expats in the Netherlands.
 
 This guide covers the cost difference for real transfers, the IBAN issue that finally got resolved, salary support, savings, travel features, and the exact split I use between the two.
@@ -43,6 +42,9 @@ This guide covers the cost difference for real transfers, the IBAN issue that fi
 *Disclosure: this article contains affiliate links. If you sign up via them I may earn a small commission at no extra cost to you. I personally hold and actively use both accounts.*
 
 💡 *For the broader banking landscape see [best bank account for expats](/blog/best-bank-account-expats-netherlands-2026/), [N26 vs Bunq vs Revolut](/blog/n26-vs-bunq-vs-revolut-expats-netherlands-2026/), and [ING vs Rabobank](/blog/ing-vs-rabobank-expats-2026/).*
+
+
+> **Quick answer:** Wise vs Revolut compared for expats in the Netherlands 2026: real exchange rates, hidden fees, IBAN access, salary support, and which I actually use for what.
 
 ## What Each One Actually Is
 
@@ -248,3 +250,7 @@ Wise is the precision tool for international money movement. Revolut is the Swis
 Total cost on the free tiers: zero. Total practical benefit: hundreds of euros saved per year on FX, easier travel, less friction. Easiest two-account decision in expat banking.
 
 For broader banking context see my [bank account pillar](/blog/best-bank-account-expats-netherlands-2026/), [N26 vs Bunq vs Revolut](/blog/n26-vs-bunq-vs-revolut-expats-netherlands-2026/) for the neobank trio, and [tax filing for freelance expats](/blog/tax-filing-freelance-expat-netherlands-2026/) if you receive client payments through Wise.
+
+---
+
+**External source:** [IND — Residence permits](https://ind.nl/en/residence-permits) — independent information on this topic.

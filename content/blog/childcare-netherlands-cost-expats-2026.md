@@ -43,7 +43,6 @@ products:
   tag: Currency Transfer
 schema_type: Article
 ---
-
 Childcare in the Netherlands was one of the biggest planning challenges I faced when my daughter was born here. The waitlists are long, the costs are high on paper, and the subsidy system looks confusing at first glance. But once you understand how it all fits together — and importantly, once you are receiving the kinderopvangtoeslag — it becomes far more manageable.
 
 This guide covers everything expat parents need to know: the types of care available, what things actually cost in 2026, how the subsidy system works, and the practical steps to finding a place.
@@ -52,6 +51,9 @@ This guide covers everything expat parents need to know: the types of care avail
 
 
 💡 *Looking for a complete banking comparison? Read [Best banking for expats in the Netherlands 2026](/blog/best-banking-expats-netherlands-2026/) — covers ABN, ING, Bunq, Wise, Revolut & 5 others by expat use case.*
+
+> **Quick answer:** Full guide to childcare in the Netherlands for expats in 2026: daycare, after-school care, costs, kinderopvangtoeslag, and how to find a place.
+
 ## Overview: The Dutch Childcare System
 
 The Netherlands has a regulated, market-based childcare system. This means childcare providers are private businesses, but they must register with the government, meet quality standards, and be inspected annually. In exchange, working parents can claim kinderopvangtoeslag (childcare allowance) to offset costs.
@@ -361,3 +363,7 @@ Children with additional care needs or disabilities can access adapted childcare
 One thing worth noting for recently arrived expats: kinderopvangtoeslag is considered a toeslag (benefit) and is paid via the Belastingdienst portal at toeslagen.nl using your DigiD. If you do not yet have a DigiD, getting this set up is the single most important administrative task before your child starts childcare — without it, you cannot apply for the subsidy, and retroactive claims have strict time limits.
 
 <a href="https://go.expatnetherlandshub.com/preply" class="cta-affiliate" rel="nofollow noopener sponsored" target="_blank">Try Preply</a>
+
+---
+
+**External source:** [Belastingdienst — BTW info](https://www.belastingdienst.nl/wps/wcm/connect/nl/btw/btw) — independent information on this topic.

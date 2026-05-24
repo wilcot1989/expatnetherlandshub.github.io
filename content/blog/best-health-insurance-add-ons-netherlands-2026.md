@@ -37,7 +37,6 @@ products:
   tag: Expat Insurance
 schema_type: Article
 ---
-
 When I first got my Dutch health insurance, I ticked the basic package and assumed I was done. It took a cracked molar and a €580 dental bill to make me rethink.
 
 The Dutch basic health insurance (basisverzekering) is genuinely good for medical care. Hospital treatment, specialist visits after GP referral, prescription medication — all covered. But several categories of care that expats commonly need are not included. Dental is the biggest one. Physiotherapy is another. Mental health, glasses, and travel coverage are others.
@@ -46,6 +45,11 @@ This guide covers the main supplementary insurance options (aanvullende verzeker
 
 
 💡 *Looking for a complete banking comparison? Read [Best banking for expats in the Netherlands 2026](/blog/best-banking-expats-netherlands-2026/) — covers ABN, ING, Bunq, Wise, Revolut & 5 others by expat use case.*
+
+> **Quick answer:** Which health insurance add-ons are worth it for expats in the Netherlands? Dental, physio, mental health, and travel extras reviewed for 2026 — real costs.
+>
+> The basic package (basisverzekering) does not cover dental care for adults over 18 (except oral surgery), most physiotherapy sessions, glasses and contact lenses, most mental health care beyond a set number of sessions, alternative medicine, and many cosmetic or elective treatments. These are covered by optional supplementary insurance (aanvullende verzekering).
+
 ## How Dutch Health Insurance Works
 
 Before getting into add-ons, it's useful to know the structure:
@@ -446,3 +450,7 @@ Every November, Dutch health insurance comparisons open and you have until Decem
 ---
 
 The combination that works for most expats is a sound basic policy with a moderate dental supplement and a physiotherapy add-on. This covers the two highest-probability expense categories for most working adults. Review it each November using Independer, adjusting based on what you actually claimed the previous year. Insurance is not set-and-forget — your healthcare needs change, insurer pricing changes annually, and the supplementary landscape shifts. A yearly review takes 30 minutes and consistently saves money or improves coverage for those who do it.
+
+---
+
+**External source:** [Zorgverzekeringslijn — onafhankelijke info](https://www.zorgverzekeringslijn.nl/) — independent information on this topic.

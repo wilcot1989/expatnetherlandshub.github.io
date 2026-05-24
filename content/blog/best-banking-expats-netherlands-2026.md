@@ -63,7 +63,6 @@ products:
   tag: Digital Banking
 schema_type: Article
 ---
-
 When I moved to the Netherlands in 2018, my Spanish bank charged me €2.50 every time I used an ATM in Amsterdam. Every time. On top of that, they added a 2.75% foreign transaction fee on every card purchase. I was going to the supermarket, the pharmacy, the bakery — all in euros, all somehow "foreign" to a bank in Madrid. In my first three months, I paid over €180 in fees for the privilege of using my own money in a country I now lived in.
 
 Nobody warned me about this. My relocation package covered flights and the first month's rent. It said nothing about banking. I spent two weeks waiting for a BSN before I could open a Dutch account, and for those two weeks I was trapped in a fee spiral with no obvious exit.
@@ -77,6 +76,9 @@ This guide is what I wish someone had given me on arrival day. I have now helped
 
 
 🇳🇱 *Looking for NL-specific tools? See also [Best CRM for freelancers in the Netherlands](https://bedrijfssoftwaregids.nl/blog/beste-crm-software-zzp-freelancer-2026/).*
+
+
+> **Quick answer:** The honest guide to banking in the Netherlands as an expat: Dutch banks vs fintech, BSN-free options, real fee comparisons, and a year-by-year strategy that.
 
 ## First: Which Type of Expat Are You?
 
@@ -544,3 +546,7 @@ I spent €180 in banking fees in my first three months. You do not have to.
 - [Crypto Tax Netherlands 2026: Expat Guide](/blog/crypto-tax-netherlands-expats-2026/)
 - [DeGiro Review for Expats in Netherlands 2026](/blog/degiro-review-expats-netherlands-2026/)
 - [Best Ways to Transfer Money to/from the Netherlands 2026](/guides/finance/best-international-money-transfer-netherlands-2026/)
+
+---
+
+**External source:** [Belastingdienst — BTW info](https://www.belastingdienst.nl/wps/wcm/connect/nl/btw/btw) — independent information on this topic.

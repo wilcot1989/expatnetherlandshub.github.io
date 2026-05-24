@@ -45,7 +45,6 @@ faq:
 - q: What is the BKR check and does it affect my credit card application?
   a: BKR (Bureau Krediet Registratie) is the Dutch credit bureau. Every credit card, loan, and overdraft above €500 is registered. When you apply for a credit card, the issuer checks BKR for negative records (missed payments, defaults) and current credit commitments. As an expat with no BKR history, you are not negative, but you also have no positive track record, which is why income proof and bank statements weigh heavily.
 ---
-
 *This article contains affiliate links. If you click through and sign up I may receive a small commission at no extra cost to you. I only recommend services I have personally used or rigorously researched.*
 
 When I moved to the Netherlands in 2022 I assumed getting a credit card would take twenty minutes online. I had a perfect UK credit history, a job offer in hand, and a Dutch bank account opened on day three. ABN AMRO rejected me. ING ignored me. ICS asked for three months of Dutch payslips that I did not yet have. I ended up using my UK credit card for everything for nine months and paying around 3 percent in FX fees on every transaction.
@@ -57,6 +56,11 @@ This guide is what I would tell a newly arrived expat asking me which credit car
 ---
 
 💡 *Setting up your finances? Read [best banking for expats in the Netherlands 2026](/blog/best-banking-expats-netherlands-2026/) — covers debit accounts, salary banking, and the fastest setup options.*
+
+
+> **Quick answer:** Dutch credit cards confused me for months. Here is the no-nonsense expat guide for 2026: which cards actually approve newcomers, fees, and FX rates that matter.
+>
+> The Netherlands runs primarily on debit cards (Maestro and V Pay). Credit cards are seen as a niche product, often used only for travel and online shopping. Banks require a Dutch bank account, BSN, registered address, and usually proof of regular Dutch income before issuing one. New arrivals frequently get rejected on their first application.
 
 ## Why the Netherlands does not love credit cards
 
@@ -249,3 +253,7 @@ The mistake to avoid is applying for multiple cards in the first six months, get
 Treat the Dutch credit card system as designed: cautious, conservative, and modest. It is not the US or the UK. Once you accept that, the system is actually fine.
 
 *Last updated: 2026-07-04. I review this guide every six months as Dutch credit card terms and FX fees evolve.*
+
+---
+
+**External source:** [IND — Residence permits](https://ind.nl/en/residence-permits) — independent information on this topic.

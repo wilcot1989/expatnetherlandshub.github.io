@@ -41,7 +41,6 @@ faq:
 - q: 'Should I hire a tax advisor or file myself?'
   a: For a straightforward employee return with no foreign income, the Belastingdienst online portal (Mijn Belastingdienst) is fully usable in Dutch and the pre-filled data covers most fields. For your first year (M form), expat-specific situations like the 30% ruling, foreign rental income, US tax obligations, or self-employment alongside employment, a specialist tax advisor (around €250 to €600) usually pays for itself.
 ---
-
 *This article contains affiliate links. If you click through and sign up I may receive a small commission at no extra cost to you. I only recommend services I have personally used or rigorously researched.*
 
 My first Dutch tax return took me four evenings, a phone call to a friend, and one panicked WhatsApp to my employer's HR department. I had not realised I needed to file an M form, I had no idea what the eigenwoningforfait was, and I spent two hours trying to work out whether my UK savings counted as Box 3 assets (yes, they did).
@@ -53,6 +52,9 @@ This guide is what I would tell a fellow expat employee asking me where to start
 ---
 
 💡 *New to the Dutch tax system? Read [Dutch tax basics for expats](/blog/dutch-tax-basics-expats-2026/) — covers Box 1, Box 2, Box 3, and how the system fits together.*
+
+
+> **Quick answer:** Filing your Dutch employee tax return for the first time? My step-by-step guide for 2026 expats covering Box 1, 30% ruling, deductions, and refund timing.
 
 ## Why Dutch employee tax returns matter
 

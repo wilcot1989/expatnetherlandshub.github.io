@@ -43,7 +43,6 @@ products:
   tag: Expat Insurance
 schema_type: Article
 ---
-
 Sorting out eye care was one of the first practical things I had to do when I moved to the Netherlands. My glasses prescription was expiring, I had no idea which optician chains were reliable, and I was unsure what my new Dutch insurance would cover. It turned out to be much simpler than I expected — but the coverage situation for glasses is surprisingly different from what many expats assume.
 
 This guide covers everything you need to know about eye care in the Netherlands: the difference between an opticien and an oogarts, how the insurance works, what things cost, and how to find English-speaking care.
@@ -52,6 +51,9 @@ This guide covers everything you need to know about eye care in the Netherlands:
 
 
 💡 *Looking for a complete banking comparison? Read [Best banking for expats in the Netherlands 2026](/blog/best-banking-expats-netherlands-2026/) — covers ABN, ING, Bunq, Wise, Revolut & 5 others by expat use case.*
+
+> **Quick answer:** Eye care in the Netherlands for expats: opticians, ophthalmologists, insurance coverage, contact lens costs, and finding English-speaking eye care.
+
 ## The Dutch Eye Care System: Who Does What
 
 Understanding the different types of eye care providers in the Netherlands saves confusion:
@@ -346,3 +348,7 @@ For expats who wear glasses or contact lenses, the Dutch optical market offers g
 <a href="https://go.expatnetherlandshub.com/nordvpn" class="cta-affiliate" rel="nofollow noopener sponsored" target="_blank">Try Nordvpn</a>
 
 And check if your Dutch health insurance covers glasses and eye care: <a href="https://go.expatnetherlandshub.com/independer-zorg" class="cta-affiliate" rel="nofollow noopener sponsored" target="_blank">Compare Health Insurance at Independer</a>
+
+---
+
+**External source:** [Zorgverzekeringslijn — onafhankelijke info](https://www.zorgverzekeringslijn.nl/) — independent information on this topic.

@@ -36,13 +36,17 @@ products:
   tag: Currency Transfer
 schema_type: Review
 ---
-
 I opened my eToro account about three years ago, shortly after moving to the Netherlands from the UK. I was looking for something that felt familiar — an English-language interface, access to US stocks, and low barriers to getting started. eToro ticked those boxes. But I've also had frustrations that I wish someone had warned me about before I signed up.
 
 This review is based on my personal experience using eToro as an expat in the Netherlands, along with research I've done into the platform's fees, features, and limitations for 2026. I'm not going to sugarcoat anything.
 
 
 💡 *Looking for a complete banking comparison? Read [Best banking for expats in the Netherlands 2026](/blog/best-banking-expats-netherlands-2026/) — covers ABN, ING, Bunq, Wise, Revolut & 5 others by expat use case.*
+
+> **Quick answer:** Is eToro the right investing platform for expats in the Netherlands? My honest review covering fees, accounts, and what works — and what doesn't.
+>
+> Yes. eToro is available to residents of the Netherlands, including expats with a BSN and a Dutch address. You will need to complete identity verification before you can deposit funds or trade.
+
 ## What is eToro?
 
 eToro is a Tel Aviv-founded online trading platform that operates across the EU, UK, and many other markets. It launched in 2007 and now has over 30 million registered users. The platform offers stocks, ETFs, cryptocurrencies, commodities, forex, and indices.
@@ -373,3 +377,7 @@ eToro (Europe) Ltd is regulated by the Cyprus Securities and Exchange Commission
 **What happens to my eToro account if I leave the Netherlands?**
 
 You can generally continue using eToro if you move within the EU. Moving outside the EU may require you to update your account details. eToro is not available in all countries, so check availability before relocating.
+
+---
+
+**External source:** [IND — Residence permits](https://ind.nl/en/residence-permits) — independent information on this topic.

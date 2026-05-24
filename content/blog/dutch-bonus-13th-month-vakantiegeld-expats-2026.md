@@ -40,7 +40,6 @@ products:
     price: "0.00"
     tag: "Multi-Currency Account"
 ---
-
 When my first vakantiegeld arrived on my Dutch payslip in May 2018, I thought there had been a mistake. My salary was suddenly EUR 2,800 higher than usual, and the payslip itemisation looked wrong. It took a colleague's explanation over coffee — and an hour reading my CAO — to understand what I was actually being paid, why, and how it would be taxed.
 
 Most expats arriving in the Netherlands encounter the same confusion. Dutch payroll is structured very differently from US, UK, or German equivalents. The base salary on your contract is not the full picture. Vakantiegeld, 13th month, performance bonuses, and various allowances each have their own rules, timing, and tax treatment. This guide unpacks them.
@@ -48,6 +47,9 @@ Most expats arriving in the Netherlands encounter the same confusion. Dutch payr
 *Disclosure: this article contains affiliate links. If you sign up via them I may earn a small commission at no extra cost to you. All views are based on my own experience.*
 
 💡 *For the broader Dutch payslip see my [Dutch payslip loonstrook explained](/guides/work/dutch-pay-slip-loonstrook-explained-2026/) and [average salary in NL](/guides/work/average-salary-netherlands-2026/).*
+
+
+> **Quick answer:** Holiday allowance, 13th month, end-of-year bonus and performance pay in the Netherlands explained for expats: how it works, when you get paid, tax treatment 2026.
 
 ## What Your Dutch "Salary" Actually Means
 
@@ -348,3 +350,7 @@ Dutch compensation structure rewards understanding it. A salary that looks "norm
 When evaluating offers, when negotiating, and when planning your year — model the full picture. The May lump sum and December bonus are not surprises; they are predictable, plannable income that expats who understand the system manage effectively and those who do not tend to spend reactively.
 
 For ongoing financial planning context see my [emergency fund guide](/blog/emergency-fund-netherlands-expats-2026.md), [investing in NL](/guides/finance/investing-netherlands-expats-2026/), and [average salary by sector](/guides/work/average-salary-netherlands-2026/) — together they form the financial foundation for an expat working in the Dutch system.
+
+---
+
+**External source:** [Belastingdienst — BTW info](https://www.belastingdienst.nl/wps/wcm/connect/nl/btw/btw) — independent information on this topic.

@@ -38,7 +38,6 @@ products:
     price: "0.00"
     tag: "Comparison"
 ---
-
 When I first moved into a flat in Amsterdam-West, I assumed I'd have a choice of providers and ended up with whatever the previous tenant had been using because that was easiest. A year later I switched and saved €18/month on a faster plan. The lesson: in Dutch broadband, "what was already there" is rarely the best deal.
 
 This guide covers the Dutch broadband landscape for expats in 2026 — the actual networks, the providers, what to expect at typical price points, and how to pick a plan that doesn't quietly overcharge you.
@@ -46,6 +45,9 @@ This guide covers the Dutch broadband landscape for expats in 2026 — the actua
 *Disclosure: this article contains affiliate links. If you sign up via them I may earn a small commission at no extra cost to you. All evaluations are based on my own usage, current 2026 plan rates, and feedback from the expat communities I'm part of.*
 
 💡 *Just settled into a Dutch home? Pair this with [Dutch utilities explained](/blog/dutch-utilities-explained-expats-2026/) for the gas/electricity setup and [Best SIM-only plans](/blog/best-sim-only-plans-expats-netherlands-2026/) for the mobile equivalent.*
+
+
+> **Quick answer:** I compared Dutch home internet providers in 2026 — KPN, Ziggo, Odido, Delta, Freedom, fiber vs cable, contracts, and which fits expats best.
 
 ## The Dutch Broadband Networks
 
@@ -378,3 +380,7 @@ If you have a smart-home setup (Hue, smart thermostats, video doorbells, securit
 - **Static IP / port forwarding.** For home security camera remote access, you may need provider configuration changes.
 
 For most expats with modest smart-home setups (5–20 devices), default consumer-grade fiber is fine. For heavy smart-home users, upgrading the router is more impactful than upgrading the internet plan.
+
+---
+
+**External source:** [IND — Residence permits](https://ind.nl/en/residence-permits) — independent information on this topic.

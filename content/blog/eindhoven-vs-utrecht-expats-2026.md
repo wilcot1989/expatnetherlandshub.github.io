@@ -45,7 +45,6 @@ faq:
 - q: 'I am a software engineer at ASML. Should I live in Eindhoven or Utrecht?'
   a: Live in Eindhoven. ASML is in Veldhoven, a short cycle from central Eindhoven. Utrecht is 90 minutes by train each way, which destroys quality of life. The "live in Utrecht and commute" pattern only works for people whose employer is genuinely on the Utrecht-Den Bosch line. ASML is not.
 ---
-
 *This article contains affiliate links. If you click through and sign up I may receive a small commission at no extra cost to you. I only recommend services I have personally used or rigorously researched.*
 
 I have lived in both Eindhoven and Utrecht. Eindhoven first, for fourteen months, while I was contracting for a Philips spinoff. Utrecht second, for two and a half years, while my partner was at a consultancy.
@@ -57,6 +56,11 @@ This is the comparison I wish someone had given me before I made my own decision
 ---
 
 💡 *Considering different Dutch cities? Read [Amsterdam vs Rotterdam cost of living for expats 2026](/blog/cost-of-living-amsterdam-vs-rotterdam-2026/) — covers the two largest cities side by side.*
+
+
+> **Quick answer:** I lived in both. Here's the honest expat comparison of Eindhoven vs Utrecht for 2026: jobs, rent, English-friendliness, schools, and lifestyle.
+>
+> Eindhoven is meaningfully cheaper. A 2-bedroom apartment in central Eindhoven typically rents for €1,400 to €1,800 in 2026; the equivalent in central Utrecht is €1,800 to €2,400. Groceries, transport, and entertainment costs are broadly similar, but housing alone makes Eindhoven 20 to 30 percent cheaper for a similar lifestyle.
 
 ## The big picture
 
@@ -293,3 +297,7 @@ If your work is in the Randstad or you are a generalist who could take a job any
 For broader expat orientation, see [first year in the Netherlands as an expat](/blog/first-year-netherlands-expat-pillar-2026/) and the cost-of-living comparison in [Amsterdam vs Rotterdam for expats 2026](/blog/cost-of-living-amsterdam-vs-rotterdam-2026/).
 
 *Last updated: 2026-07-08. I review this guide every six months as Dutch city dynamics shift.*
+
+---
+
+**External source:** [IND — Residence permits](https://ind.nl/en/residence-permits) — independent information on this topic.

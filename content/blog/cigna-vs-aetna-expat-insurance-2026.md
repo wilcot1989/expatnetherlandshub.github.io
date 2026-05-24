@@ -46,7 +46,6 @@ products:
   tag: Currency Transfer
 schema_type: Article
 ---
-
 If you need international health insurance in the Netherlands — before registration, during a transition, or alongside your Dutch policy — Cigna and Aetna are the two names you will hear most. Both are large, established global insurers with decades of expat experience. Both cover you in the Netherlands and across dozens of other countries. And both charge premiums that, frankly, make you stop and think before clicking "buy."
 
 This comparison gives you an honest look at what each insurer actually offers for **Cigna vs Aetna expat** insurance in 2026: plans, pricing, coverage scope, claims experience, and the situations where one makes more sense than the other. I also cover when you do not need international insurance at all — because in the Netherlands, most registered residents are better served by the Dutch system.
@@ -55,6 +54,11 @@ This comparison gives you an honest look at what each insurer actually offers fo
 
 
 💡 *Looking for a complete banking comparison? Read [Best banking for expats in the Netherlands 2026](/blog/best-banking-expats-netherlands-2026/) — covers ABN, ING, Bunq, Wise, Revolut & 5 others by expat use case.*
+
+> **Quick answer:** Cigna vs Aetna for expats in the Netherlands 2026. Compare coverage, costs, networks, claims process and which international health plan fits you best.
+>
+> Aetna International generally starts slightly lower — around EUR 130/month for younger applicants on its entry-level Navigator plan versus Cigna's Silver plan at approximately EUR 150/month. However, pricing varies significantly by age, region, and the coverage tier you choose. Request quotes from both directly and compare the same coverage level, not just the headline monthly figure.
+
 ## Quick Comparison: Cigna vs Aetna at a Glance
 
 | | **Cigna Global** | **Aetna International** |
@@ -396,3 +400,7 @@ The single most important step before buying is getting a personalised quote fro
 For more on the expat insurance market in the Netherlands, see my guides on [the best expat insurance options](/blog/best-expat-insurance-netherlands-2026/), [health insurance add-ons](/blog/best-health-insurance-add-ons-netherlands-2026/), and the [Amsterdam vs Rotterdam comparison for expats](/guides/daily-life/amsterdam-vs-rotterdam-expats-2026/) — location affects which hospital networks matter most to you in practice. You can also use the [tools on this site](/tools/) to estimate your likely healthcare costs and compare coverage options.
 
 The right international health insurance is the one that covers your actual needs without charging you for benefits you will not use. Get the quotes, read the exclusions, and make the decision with real numbers in front of you.
+
+---
+
+**External source:** [IND — Residence permits](https://ind.nl/en/residence-permits) — independent information on this topic.

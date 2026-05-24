@@ -43,7 +43,6 @@ products:
   tag: Currency Transfer
 schema_type: Article
 ---
-
 I furnished my first Dutch apartment almost entirely second-hand. It was not out of necessity — I could have bought new — but because the quality of second-hand goods in the Netherlands is genuinely impressive, and the prices are a fraction of IKEA. My dining table came from Marktplaats for €40. My bike came from a neighbour's Facebook post for €90. My kitchen equipment came from a kringloopwinkel on a Saturday morning. Ten years on, I still use most of it.
 
 The Netherlands has a deeply embedded second-hand culture. The Dutch are pragmatic about money, environmentally conscious, and uncomfortable with waste. The result is a thriving ecosystem of platforms and shops where expats can furnish a home, kit out a kitchen, and find a decent bike for a fraction of retail prices — if they know where to look.
@@ -54,6 +53,9 @@ This guide covers every major platform and shop type, with practical tips for ea
 
 
 💡 *Looking for a complete banking comparison? Read [Best banking for expats in the Netherlands 2026](/blog/best-banking-expats-netherlands-2026/) — covers ABN, ING, Bunq, Wise, Revolut & 5 others by expat use case.*
+
+> **Quick answer:** Buy second-hand in the Netherlands as an expat: Marktplaats, Vinted, 2dehands, Facebook Marketplace, kringloopwinkel, bikes, furniture, avoiding scams.
+
 ## Why Second-Hand Makes Sense for Expats
 
 Before diving into the platforms, a quick note on why second-hand is especially worth considering as an expat.
@@ -374,3 +376,7 @@ Yes, Vinted is very active in the Netherlands for clothing, shoes, and accessori
 - [Dutch food and culture for expats](/guides/daily-life/dutch-food-culture-expats-2026/)
 
 <a href="https://go.expatnetherlandshub.com/wise" class="cta-affiliate" rel="nofollow noopener sponsored" target="_blank">Try Wise</a>
+
+---
+
+**External source:** [IND — Residence permits](https://ind.nl/en/residence-permits) — independent information on this topic.

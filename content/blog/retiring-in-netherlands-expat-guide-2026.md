@@ -47,7 +47,6 @@ products:
   tag: Expat Insurance
 schema_type: Article
 ---
-
 Most of the expats I work with are in their thirties or forties — mid-career, planning ahead. But I have worked with an increasing number of people who are either retiring in the Netherlands having lived here for years, or who are considering the Netherlands as a retirement destination after careers that took them elsewhere.
 
 The questions are different from those of a new arrival. It is less about getting a BSN and finding a flat, and more about: will I have enough income? What happens to my foreign pension? Will the Dutch state pay me anything? Will the healthcare system serve me well in my seventies?
@@ -58,6 +57,9 @@ This guide addresses those questions directly.
 
 
 💡 *Looking for a complete banking comparison? Read [Best banking for expats in the Netherlands 2026](/blog/best-banking-expats-netherlands-2026/) — covers ABN, ING, Bunq, Wise, Revolut & 5 others by expat use case.*
+
+> **Quick answer:** Retiring in the Netherlands as an expat: AOW entitlement, pension transfer, healthcare, US Social Security, cost of living, and tax implications explained.
+
 ## Is the Netherlands a Good Place to Retire?
 
 Let me give an honest picture before getting into the mechanics.
@@ -388,3 +390,7 @@ Box 3 applies to all Dutch residents' worldwide savings and investments above ap
 ---
 
 *This article is for information purposes only and does not constitute financial, legal, or immigration advice. Always consult qualified professionals for advice specific to your situation.*
+
+---
+
+**External source:** [IND — Residence permits](https://ind.nl/en/residence-permits) — independent information on this topic.

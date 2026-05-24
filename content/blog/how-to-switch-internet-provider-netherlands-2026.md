@@ -44,7 +44,6 @@ products:
     price: "0.00"
     tag: "Cable Internet"
 ---
-
 The first internet contract I had in the Netherlands was a default Ziggo bundle the previous tenant had set up that I never bothered to change. Two years in, I realised I was paying EUR 67 a month for a 200 Mbps connection while my colleague at work was paying EUR 49 for 1 Gbps fibre at her address. Switching took me about 30 minutes online and saved roughly EUR 220 a year. The new connection was, predictably, faster.
 
 Most expats in the Netherlands are paying more than they need to for internet. The market is competitive, switching is straightforward, and a 20-minute comparison usually finds savings. This guide covers the practicalities.
@@ -52,6 +51,9 @@ Most expats in the Netherlands are paying more than they need to for internet. T
 *Disclosure: this article contains affiliate links. If you sign up via them I may earn a small commission at no extra cost to you. All views are based on my own experience.*
 
 💡 *For the deeper market overview see my [best broadband providers for expats](/blog/best-broadband-internet-providers-expats-netherlands-2026/) — this guide focuses specifically on the switching process.*
+
+
+> **Quick answer:** Step-by-step guide to switching Dutch internet provider in 2026. KPN, Ziggo, Odido and the alt-fibre providers compared, plus how to time the switch and avoid downtime.
 
 ## The Dutch Internet Market in 2026
 
@@ -305,3 +307,7 @@ Internet is one of the few Dutch admin items that genuinely rewards regular revi
 Most expats either overpay by sitting on default contracts or under-spec by chasing the cheapest. The right approach is matching real usage to a competitively-priced contract with a 12-month term, then doing it again next year. Boring, predictable, profitable.
 
 For complete utility coverage see my [Dutch utilities explained guide](/blog/dutch-utilities-explained-expats-2026/) and the related [energy switching guide](/blog/dutch-energy-contract-switching-guide-2026/) — internet, energy, and mobile follow similar patterns.
+
+---
+
+**External source:** [IND — Residence permits](https://ind.nl/en/residence-permits) — independent information on this topic.

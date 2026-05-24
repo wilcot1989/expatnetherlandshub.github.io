@@ -38,7 +38,6 @@ products:
     price: "0.00"
     tag: "Temporary Stay"
 ---
-
 I've moved internationally three times in my adult life, and twice it involved shipping a full household across borders. The first time I picked the cheapest quote and ended up with two broken antique chairs, a missing box of books, and three weeks of customs limbo because the company filed the wrong TOR form. The second time I paid more, hired carefully, and the experience was almost boring. That's exactly what you want.
 
 This guide walks through the international moving companies I'd actually recommend to fellow expats heading to the Netherlands in 2026, what each one is good (and bad) at, and the questions you should ask before signing anything.
@@ -46,6 +45,9 @@ This guide walks through the international moving companies I'd actually recomme
 *Disclosure: some links in this article are affiliate links. If you book through them, I may earn a small commission at no extra cost to you. I only recommend services I would use myself.*
 
 💡 *Already in the Netherlands and looking for a home? Read [Finding housing in the Netherlands as an expat](/blog/finding-housing-netherlands-expats-2026/) — covers rentals, deposits, and discrimination protections.*
+
+
+> **Quick answer:** I compared the top international moving companies for relocating to the Netherlands in 2026 — costs, services, insurance, and which ones actually deliver.
 
 ## How International Moving to the Netherlands Actually Works
 
@@ -276,3 +278,7 @@ Looking back on my last international move, three things I'd change:
 3. **Pack jewelry, important documents, and irreplaceables in carry-on luggage.** Not the shipment. Items that go missing in shipment are usually unrecoverable.
 
 Final perspective: international moving is one of the few life events where paying for quality genuinely pays back. The cheapest mover almost always becomes the most expensive once you factor in damaged items, customs delays, and stress costs. Spend the extra 15–25% for a FIDI/FAIM accredited operator and stop worrying about it.
+
+---
+
+**External source:** [IND — Residence permits](https://ind.nl/en/residence-permits) — independent information on this topic.

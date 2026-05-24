@@ -40,7 +40,6 @@ products:
   tag: Expat Insurance
 schema_type: Article
 ---
-
 When I first arrived in the Netherlands, I was handed a list of Dutch health insurers and told to pick one within four months. Nobody explained what the difference was between them, what eigen risico meant, or what supplementary cover was actually worth buying.
 
 I picked almost at random. I later spent two hours on hold trying to get a physiotherapy referral approved by an insurer whose customer service turned out to be genuinely poor. I switched the following January.
@@ -58,6 +57,9 @@ I use <a href="https://go.expatnetherlandshub.com/independer-zorg?ref=/blog/best
 
 
 🇳🇱 *Looking for NL-specific tools? See also [Best CRM for freelancers in the Netherlands](https://bedrijfssoftwaregids.nl/blog/beste-crm-software-zzp-freelancer-2026/).*
+
+
+> **Quick answer:** Compare the best Dutch health insurance plans for expats in 2026. Premiums, coverage, eigen risico, and which insurer suits your situation.
 
 ## How Dutch Health Insurance Works
 
@@ -432,3 +434,7 @@ After a decade in the Netherlands and hundreds of conversations with expats navi
 **For mental health care:** Dutch basic health insurance covers mental health care (ggz) after GP referral, but access has been constrained by long waiting lists in recent years. Many expats who need mental health support find that the waiting times for Dutch-language care are long, and that English-language therapy is often available faster through private providers or through platforms like Open Up (widely offered through Dutch employers). Check whether your employer's health or wellness package includes any mental health support — many Dutch multinationals include this in their employee benefits.
 
 You can switch health insurer once per year during the open enrolment period, which runs from 1 November to 31 December. Your new insurance starts on 1 January. Outside this window, you can only switch if you change jobs and your collective insurance scheme changes, or in a few other specific circumstances. It is worth comparing annually — premiums change every year, and the insurer that was cheapest in 2024 may not be the best value in 2026.
+
+---
+
+**External source:** [Zorgverzekeringslijn — onafhankelijke info](https://www.zorgverzekeringslijn.nl/) — independent information on this topic.

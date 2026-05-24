@@ -55,7 +55,6 @@ products:
   affiliate: true
 schema_type: Article
 ---
-
 I moved to the Netherlands in 2018. I came from Madrid with two suitcases, a job offer, and absolutely no idea what I was getting into.
 
 Within the first three weeks I made four expensive mistakes: I picked the wrong health insurer (had to switch after one month, losing my no-claims discount), I missed the 30% ruling application window by six days because my employer's HR department was on holiday, I signed a rental contract without reading the service costs clause, and I spent two weeks on a prepaid SIM without realising I could have been on a €15/month plan with full data coverage.
@@ -69,6 +68,9 @@ This pillar is my attempt to put everything in one place: a sequenced, ordered f
 Let's start from the beginning.
 
 ---
+
+
+> **Quick answer:** Banking, health, utilities, insurance, taxes — the complete 10-step decision framework for moving to and living in the Netherlands.
 
 ## The 10-Step Expat Life Framework
 
@@ -734,3 +736,7 @@ You'll figure it out. The Dutch system rewards people who take it seriously.
 Good luck. And welcome to the Netherlands.
 
 — *Sarah van den Berg, ExpatNetherlandsHub*
+
+---
+
+**External source:** [Zorgverzekeringslijn — onafhankelijke info](https://www.zorgverzekeringslijn.nl/) — independent information on this topic.

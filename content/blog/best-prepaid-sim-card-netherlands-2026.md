@@ -42,7 +42,6 @@ faq:
   a: You cannot use your home number on a Dutch SIM — they are two separate numbers on two separate networks. You have two practical options. First, put your home SIM on a travel plan or suspend the contract so you are not paying a full monthly fee while using a Dutch number. Second, use a dual-SIM phone and keep both SIMs active simultaneously. Many modern smartphones support dual-SIM (or SIM + eSIM), which is by far the most convenient solution for expats who still need to receive calls on their home number.
 schema_type: Article
 ---
-
 Your first week in the Netherlands and you need a working phone number — for DigiD, for your bank, for everything. Finding the best prepaid SIM card in the Netherlands is one of those logistical tasks that sounds minor until you are standing in an unfamiliar city, trying to handle Dutch government websites without mobile data. I have been there, and I have helped dozens of expat clients sort this out.
 
 The good news: getting a Dutch number takes about 20 minutes once you know which SIM to buy. The tricky part is that the Netherlands has around a dozen prepaid options, most of them decent, and the differences are not obvious from the packaging in a supermarket aisle.
@@ -53,6 +52,11 @@ This guide cuts through the noise. The best overall prepaid SIM for most expats 
 
 
 💡 *Looking for a complete banking comparison? Read [Best banking for expats in the Netherlands 2026](/blog/best-banking-expats-netherlands-2026/) — covers ABN, ING, Bunq, Wise, Revolut & 5 others by expat use case.*
+
+> **Quick answer:** Best prepaid SIM cards in the Netherlands for expats 2026: Lebara, Lycamobile, KPN Prepaid, Vodafone, Simyo and Ben compared on price, data, network and.
+>
+> Lebara is the most popular choice for expats in the Netherlands. It offers a €10 starter pack with a Dutch number, a solid 4G/5G network, and cheap international call add-ons for over 40 countries. Setup takes about 15 minutes online after you receive the SIM. If you primarily need local data and the lowest possible price, Lycamobile is the better budget pick.
+
 ## Why a Dutch SIM Card Matters More Than You Think
 
 Before getting into the comparison, it is worth understanding why a local Dutch number is not just convenient — it is often required.
@@ -344,3 +348,7 @@ The SIM card itself is almost never the bottleneck in settling in the Netherland
 ---
 
 *Prices listed reflect typical retail rates as of mid-2026. Bundle pricing changes regularly — always check the provider's website for current offers before purchasing.*
+
+---
+
+**External source:** [EFF — Privacy issues](https://www.eff.org/issues/privacy) — independent information on this topic.

@@ -42,7 +42,6 @@ faq:
   a: Yes. If you have gaps in your AOW build-up — years when you were not insured in the Netherlands — you can voluntarily continue your AOW insurance (vrijwillige verzekering AOW) through the SVB, under certain conditions. This option is typically available for people who move abroad after having been insured in the Netherlands and who want to maintain their pension accrual. The deadline to apply is generally within one year of moving abroad, so it is important to act quickly.
 schema_type: Article
 ---
-
 You've worked in the Netherlands, built up pension rights, and now you're moving on. Can you still claim your Dutch pension? Yes — here's exactly how.
 
 This is one of the questions I get asked most often by people leaving the Netherlands, and it's also one of the areas where I see the most unnecessary confusion and mistakes. People assume they'll lose their pension when they leave. Others assume it all transfers automatically. Neither is true.
@@ -55,6 +54,9 @@ I am not a pension advisor or tax professional. For complex situations — large
 
 
 💡 *Looking for a complete banking comparison? Read [Best banking for expats in the Netherlands 2026](/blog/best-banking-expats-netherlands-2026/) — covers ABN, ING, Bunq, Wise, Revolut & 5 others by expat use case.*
+
+> **Quick answer:** How to claim your Dutch pension from abroad. AOW application, occupational pension, small pension refunds, tax treaties and receiving payments via Wise.
+
 ## The Three Types of Dutch Pension You May Have
 
 Before getting into how to claim, it helps to understand what you may actually be entitled to. Dutch pension is built up in three distinct layers, and each requires a different process to access.

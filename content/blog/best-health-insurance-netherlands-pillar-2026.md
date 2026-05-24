@@ -60,6 +60,8 @@ products:
 schema_type: Article
 ---
 
+> **Quick answer:** Compare all 10 NL health insurers — Independer, Zilveren Kruis, CZ, Menzis, etc. Premium, deductible, English support.
+
 ## Why Most Expats Pick the Wrong Dutch Health Insurer
 
 When I moved to the Netherlands from Madrid in 2018, I spent about twelve minutes choosing my health insurer.
@@ -568,3 +570,7 @@ For short-stay expats or those not yet BRP-registered, <a href="https://go.expat
 - [Best Dutch Health Insurance Plans 2026 Compared](/blog/best-dutch-health-insurance-plans-2026/)
 - [DSW Health Insurance Review for Expats 2026](/blog/dsw-health-insurance-review-expats-2026/)
 - [Menzis Health Insurance Review for Expats 2026](/blog/menzis-health-insurance-review-expats-2026/)
+
+---
+
+**External source:** [Zorgverzekeringslijn — onafhankelijke info](https://www.zorgverzekeringslijn.nl/) — independent information on this topic.

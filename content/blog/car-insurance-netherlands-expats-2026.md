@@ -40,7 +40,6 @@ products:
   tag: Expat Insurance
 schema_type: Article
 ---
-
 When I arrived in the Netherlands and bought my first car here, I spent about two hours on an insurance comparison website trying to figure out what WA, WA+, and allrisk actually meant, why my UK no-claims history was being treated with mild suspicion, and whether the price I was looking at was reasonable or completely excessive.
 
 No one had warned me that Dutch car insurance had its own vocabulary, its own no-claims ladder system, and its own quirks around how foreign driving history is recognised. I eventually figured it out — overpaid for the first year, then sorted it properly after that.
@@ -51,6 +50,9 @@ This guide is what I wish I had had. It covers the three coverage types in plain
 
 
 💡 *Looking for a complete banking comparison? Read [Best banking for expats in the Netherlands 2026](/blog/best-banking-expats-netherlands-2026/) — covers ABN, ING, Bunq, Wise, Revolut & 5 others by expat use case.*
+
+> **Quick answer:** WA, WA+, allrisk explained. How to transfer your no-claims bonus from abroad, average costs, and the best providers for expats in the Netherlands in 2026.
+
 ## The Dutch Car Insurance System at a Glance
 
 | Coverage Type | Covers damage to others? | Covers own car? | Required by law? |
@@ -362,3 +364,7 @@ If you are bringing a car from another country, the process depends on your situ
 ---
 
 *Related reading: [Register a Car in the Netherlands as an Expat](/guides/daily-life/register-car-netherlands-expat-2026/) | [Driving in the Netherlands Guide](/guides/daily-life/driving-in-netherlands-guide-2026/) | [Exchange Your Driving Licence in the Netherlands](/guides/daily-life/exchange-driving-license-netherlands-2026/) | [Best Internet Providers Netherlands](/guides/daily-life/best-internet-providers-netherlands-2026/) | [OV Chipkaart Guide for Expats](/guides/daily-life/ov-chipkaart-guide-expats-2026/)*
+
+---
+
+**External source:** [IND — Residence permits](https://ind.nl/en/residence-permits) — independent information on this topic.

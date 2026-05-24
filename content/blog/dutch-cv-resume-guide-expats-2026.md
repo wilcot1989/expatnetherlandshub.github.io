@@ -40,7 +40,6 @@ products:
   tag: Currency Transfer
 schema_type: Article
 ---
-
 When I moved to the Netherlands and started applying for jobs, my CV was good. I had spent years in the UK market, I knew how to write a strong application, and I had been told by multiple UK recruiters that my CV worked well.
 
 Within two weeks I had sent out twelve applications and heard back from one. I asked a Dutch recruiter friend to look at my CV. She came back with seven specific things to change. After changing them, my response rate roughly tripled over the following two weeks.
@@ -51,6 +50,9 @@ This guide covers what she told me — plus everything else I have learned since
 
 
 💡 *Looking for a complete banking comparison? Read [Best banking for expats in the Netherlands 2026](/blog/best-banking-expats-netherlands-2026/) — covers ABN, ING, Bunq, Wise, Revolut & 5 others by expat use case.*
+
+> **Quick answer:** Write a Dutch CV that gets interviews. Expat guide covering format, photo rules, length, cover letters, and what Dutch recruiters actually look for.
+
 ## The Dutch CV in Context
 
 The Netherlands is not the UK, and it is not the US. Dutch professional culture has specific conventions around CVs that differ meaningfully from other markets. The good news is that the differences are not complicated — once you know what they are, adapting is easy.
@@ -331,3 +333,7 @@ Be brief and honest. Dutch culture values direct, factual communication — a sh
 <a href="https://go.expatnetherlandshub.com/preply" class="cta-affiliate" rel="nofollow noopener sponsored" target="_blank">Try Preply</a>
 
 And polish your Dutch language skills to stand out in the job market: <a href="https://go.expatnetherlandshub.com/mondly" class="cta-affiliate" rel="nofollow noopener sponsored" target="_blank">Learn Dutch with Mondly</a>
+
+---
+
+**External source:** [IND — Residence permits](https://ind.nl/en/residence-permits) — independent information on this topic.

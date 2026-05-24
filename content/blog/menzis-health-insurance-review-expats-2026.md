@@ -40,7 +40,6 @@ products:
   tag: Expat Insurance
 schema_type: Review
 ---
-
 I have had two Dutch health insurers since moving to the Netherlands. My first was a random choice made under time pressure. My second — and current — insurer is Menzis, and I switched to them based on a specific combination of lower premium and a very honest assessment from a Dutch colleague who had used them for six years.
 
 This review covers what I have actually found, what the data shows, and what I think expats specifically should know before choosing Menzis.
@@ -49,6 +48,9 @@ This review covers what I have actually found, what the data shows, and what I t
 
 
 💡 *Looking for a complete banking comparison? Read [Best banking for expats in the Netherlands 2026](/blog/best-banking-expats-netherlands-2026/) — covers ABN, ING, Bunq, Wise, Revolut & 5 others by expat use case.*
+
+> **Quick answer:** Honest Menzis health insurance review for expats in 2026. Premiums, coverage, supplementary options, and how it compares to other Dutch health insurers.
+
 ## Menzis at a Glance
 
 | Feature | Detail |
@@ -425,3 +427,7 @@ Menzis has contracted agreements with the vast majority of Dutch hospitals, whic
 **How does Menzis compare to CZ and Zilveren Kruis for expats?**
 
 Menzis, CZ, and Zilveren Kruis are all mainstream Dutch insurers at a comparable service level, with premiums within EUR 5–15/month of each other. Menzis tends to have slightly lower premiums than Zilveren Kruis but a slightly smaller national network. CZ is strong in North Brabant and Zeeland; Menzis is stronger in northern and eastern Netherlands. All three have adequate English support. For expats in Amsterdam or Rotterdam, the practical differences are small — hospital networks, coverage, and service quality are broadly comparable. The most meaningful factors are premium cost (check annually, as it shifts), supplementary package quality relative to your personal needs, and whether your employer offers a collective discount with any of them.
+
+---
+
+**External source:** [Zorgverzekeringslijn — onafhankelijke info](https://www.zorgverzekeringslijn.nl/) — independent information on this topic.

@@ -37,13 +37,17 @@ products:
   tag: Currency Transfer
 schema_type: Article
 ---
-
 When I moved to the Netherlands, one of my first practical concerns was whether my qualifications would be understood and valued by Dutch employers. It turned out the answer depended a lot on what kind of work I wanted to do — and the same is true for most expats I speak to.
 
 This guide walks through how diploma recognition works in the Netherlands, who needs formal recognition, and how to manage the process without unnecessary delays.
 
 
 💡 *Looking for a complete banking comparison? Read [Best banking for expats in the Netherlands 2026](/blog/best-banking-expats-netherlands-2026/) — covers ABN, ING, Bunq, Wise, Revolut & 5 others by expat use case.*
+
+> **Quick answer:** How to get your foreign diploma recognised in the Netherlands. I cover IDW, Nuffic, regulated professions, and practical steps for expats in 2026.
+>
+> For most jobs, you don't need formal recognition — you can simply explain your qualifications to employers. For regulated professions (medicine, law, nursing, teaching, etc.), recognition through the relevant Dutch authority is required. For other purposes, Nuffic's IDW service provides a credential evaluation that many employers and institutions accept.
+
 ## Two Different Situations
 
 Before getting into the mechanics, it's worth distinguishing two very different scenarios:
@@ -336,3 +340,7 @@ For expats working in regulated professions, the recognition pathway is more for
 <a href="https://go.expatnetherlandshub.com/preply" class="cta-affiliate" rel="nofollow noopener sponsored" target="_blank">Try Preply</a>
 
 And start learning Dutch to strengthen your professional integration: <a href="https://go.expatnetherlandshub.com/mondly" class="cta-affiliate" rel="nofollow noopener sponsored" target="_blank">Learn Dutch with Mondly</a>
+
+---
+
+**External source:** [IND — Residence permits](https://ind.nl/en/residence-permits) — independent information on this topic.

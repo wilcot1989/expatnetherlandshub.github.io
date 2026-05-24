@@ -43,7 +43,6 @@ products:
     price: "0.00"
     tag: "Flexible Tutors"
 ---
-
 I started learning Dutch from absolute zero in 2021 with Duolingo. Three years later I held a B1 conversation with my mother-in-law about plumbing problems — a victory I'll measure against any work achievement. Along the way I tested every major online Dutch platform: Babbel, Mondly, Preply, iTalki, NedLes, Direct Dutch online, Duolingo, Pimsleur, and a few smaller ones. Some were worth every euro, some weren't, and the right answer depends entirely on what level you're at.
 
 This guide compares the actual platforms in 2026, what each does well, what each fails at, and the realistic price-and-time commitment to get from "hallo" to "I can survive a Dutch dinner party."
@@ -51,6 +50,9 @@ This guide compares the actual platforms in 2026, what each does well, what each
 *Disclosure: this article contains affiliate links. If you sign up via them I may earn a small commission at no extra cost to you. All opinions are based on my own use of these platforms and what I've watched dozens of expat friends try.*
 
 💡 *For broader Dutch-learning context see my [learning Dutch as expat](/blog/learn-dutch-expat-guide-2026/) pillar, [inburgering exam guide](/blog/inburgering-exam-netherlands-2026/), and [Dutch immersion strategies](/blog/dutch-immersion-tips-expats-2026/).*
+
+
+> **Quick answer:** I tested the major online Dutch language platforms in 2026. Real comparison of Preply, iTalki, Babbel, Mondly, and traditional online schools for expats.
 
 ## What "Online Dutch Course" Actually Means
 
@@ -257,3 +259,7 @@ The biggest 2026 mistake is treating Dutch learning as one product. It's three: 
 Start with <a href="https://go.expatnetherlandshub.com/babbel?ref=/blog/best-dutch-language-schools-online-2026/" target="_blank" rel="nofollow sponsored noopener">Babbel</a> or <a href="https://go.expatnetherlandshub.com/mondly?ref=/blog/best-dutch-language-schools-online-2026/" target="_blank" rel="nofollow sponsored noopener">Mondly</a> for habit. Add <a href="https://go.expatnetherlandshub.com/preply?ref=/blog/best-dutch-language-schools-online-2026/" target="_blank" rel="nofollow sponsored noopener">Preply</a> at month 4 for tutoring. Switch your phone to Dutch immediately. Watch Het Klokhuis. Don't switch tutors. Speak before you feel ready.
 
 For broader Dutch context see my [learning Dutch as expat](/blog/learn-dutch-expat-guide-2026/) pillar, [inburgering exam guide](/blog/inburgering-exam-netherlands-2026/), [Dutch immersion strategies](/blog/dutch-immersion-tips-expats-2026/), and [free Dutch language resources](/blog/free-dutch-resources-expats-2026/) for budget-friendly options.
+
+---
+
+**External source:** [IND — Residence permits](https://ind.nl/en/residence-permits) — independent information on this topic.

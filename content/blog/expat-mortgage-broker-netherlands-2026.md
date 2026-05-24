@@ -37,13 +37,17 @@ products:
   tag: Currency Transfer
 schema_type: Article
 ---
-
 Buying a property in the Netherlands as an expat involves layers of complexity that don't apply in every country. The Dutch mortgage market is heavily regulated, the documentation requirements are significant, and there are specific considerations for non-Dutch income, foreign employment contracts, and temporary residency permits.
 
 A good mortgage broker makes the difference between a smooth process and months of frustration. This guide explains what mortgage brokers do in the Netherlands, how to find one who works with expats, and what to expect throughout the process.
 
 
 💡 *Looking for a complete banking comparison? Read [Best banking for expats in the Netherlands 2026](/blog/best-banking-expats-netherlands-2026/) — covers ABN, ING, Bunq, Wise, Revolut & 5 others by expat use case.*
+
+> **Quick answer:** How to find a good mortgage broker in the Netherlands as an expat. What brokers do, what they cost, and what to expect when buying property in 2026.
+>
+> You are not legally required to use a broker, but most expats benefit significantly from having one. Dutch mortgage rules are complex, lenders have specific requirements for non-Dutch income and employment types, and the documentation burden is high. A broker who works with expats can save time and improve your chances of approval.
+
 ## How Dutch Mortgages Work
 
 The Netherlands has a regulated mortgage market with strict lending rules set by the Dutch Authority for the Financial Markets (AFM) and the national government.
@@ -315,3 +319,7 @@ After speaking with expats who have been through the Dutch mortgage process, a f
 **Underestimating additional purchase costs.** Beyond the purchase price, Dutch property buyers typically pay: overdrachtsbelasting (transfer tax, 2% for owner-occupiers), estate agent fees if you use a buyer's agent (typically 1–1.5% + VAT), mortgage adviser fee (€1,500–3,500), notary fees (€1,000–2,000), and building inspection (bouwkundig rapport, €300–500). On a €400,000 purchase, these costs add up to approximately €15,000–20,000 on top of the purchase price. The rule of thumb is to budget 4–6% of the purchase price in additional costs.
 
 **Waiting too long to request pre-approval.** Dutch sellers do not generally accept offers with long financing conditions. Having a pre-approval (hypotheekaanbieding in principle) from a lender before you bid signals that your financing is reliable, which matters in competitive markets. A broker can arrange this typically within one to two weeks.
+
+---
+
+**External source:** [IND — Residence permits](https://ind.nl/en/residence-permits) — independent information on this topic.

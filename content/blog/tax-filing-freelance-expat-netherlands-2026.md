@@ -34,7 +34,6 @@ products:
     price: "0.00"
     tag: "Banking"
 ---
-
 I went freelance in the Netherlands in my third year as an expat and immediately discovered that Dutch self-employed taxation is more generous than employment taxation in some ways and a procedural minefield in others. The deadlines are inflexible. The deductions are real money. And the difference between filing well and filing carelessly is often €2,000–€5,000 a year in actual euro outcomes.
 
 This guide covers what freelance expats in the Netherlands actually need to know about taxes in 2026: which forms, which deductions, when to DIY vs. hire help, and the specific traps for non-Dutch nationals.
@@ -42,6 +41,11 @@ This guide covers what freelance expats in the Netherlands actually need to know
 *Disclosure: this article contains affiliate links. If you sign up via them I may earn a small commission at no extra cost to you. I'm not a tax advisor — this is informational only based on my own freelance experience in the Netherlands. For your specific situation, consult a qualified Dutch tax adviser.*
 
 💡 *New to ZZP/freelance in the Netherlands? Start with [KvK registration for expats](/blog/kvk-registration-expat-guide-2026/) and [Tax for freelancers / ZZP in the Netherlands](/blog/tax-freelancers-zzp-netherlands-2026/) for the foundational setup steps.*
+
+
+> **Quick answer:** How freelance expats file Dutch taxes in 2026: ZZP income, VAT, deductions, the 30% ruling, deadlines, and when to hire a tax advisor versus DIY.
+>
+> The standard deadline is 1 May for the previous tax year (so 1 May 2027 for the 2026 tax year). You can request an automatic extension via Mijn Belastingdienst until 1 September. If you use a registered tax advisor, they can typically extend further to roughly 1 May of the year after that under the 'belastingconsulentenregeling.' Late filing penalties start at €385 plus interest on tax owed.
 
 ## What Tax Filings a Freelance Expat Owes
 
@@ -382,3 +386,7 @@ Common conversion thresholds:
 - **Multi-shareholder situations.** BV structure is needed for partners, investors, employees with equity.
 
 Conversion is a one-way move in practice — you can revert eenmanszaak to BV but not easily back. Plan it carefully with a [tax advisor](/blog/best-tax-advisors-expats-netherlands-2026/) who runs the projections both ways.
+
+---
+
+**External source:** [Belastingdienst — BTW info](https://www.belastingdienst.nl/wps/wcm/connect/nl/btw/btw) — independent information on this topic.

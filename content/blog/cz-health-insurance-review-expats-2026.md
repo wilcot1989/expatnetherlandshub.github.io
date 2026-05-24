@@ -41,7 +41,6 @@ products:
   tag: Expat Insurance
 schema_type: Review
 ---
-
 When I advise expats on choosing Dutch health insurance, CZ comes up frequently. It sits in an interesting position: large enough to have a national contracted care network, but still more personalised in customer service than the very biggest players like VGZ. For expats who want a reliable, nationally available insurer without necessarily paying the top premium, CZ deserves a thorough look.
 
 This review covers CZ's premiums, coverage, English-language support, the claims process, supplementary packages, and how it compares to other Dutch insurers.
@@ -50,6 +49,9 @@ This review covers CZ's premiums, coverage, English-language support, the claims
 
 
 💡 *Looking for a complete banking comparison? Read [Best banking for expats in the Netherlands 2026](/blog/best-banking-expats-netherlands-2026/) — covers ABN, ING, Bunq, Wise, Revolut & 5 others by expat use case.*
+
+> **Quick answer:** CZ health insurance reviewed for expats in 2026. Premiums, English support, coverage options, and how CZ compares to other Dutch insurers.
+
 ## What Is CZ?
 
 CZ (CZ Groep) is one of the four largest health insurers in the Netherlands, alongside VGZ, Menzis, and Zilveren Kruis. Based in Tilburg, CZ serves approximately 3.3 million members across the country. It is a non-profit insurer (onderlinge waarborgmaatschappij), meaning profits are reinvested rather than distributed to shareholders.
@@ -466,3 +468,7 @@ For an expat deciding between Dutch health insurers, the meaningful comparison i
 **Bottom line:** CZ is in the solid middle tier — not the most expensive, not the cheapest, with national coverage, reasonable English support, and a reliable service record. For expats who are not in a region where a specialist insurer has a clear advantage, and who want a mainstream option with a full supplementary menu, CZ is a defensible choice. It is rarely the single best option for any specific profile, but it is rarely the wrong choice either.
 
 One final practical note: if you are comparing CZ against other insurers and want a concrete number to work with, use Independer's comparison tool at the end of the open enrollment window when all 2026 premiums are confirmed. Final premiums are sometimes slightly lower than the indicative amounts published earlier in the year, and running the comparison in late November or December ensures you are working with the exact figure. Small differences in the basic premium compound meaningfully over 12 months.
+
+---
+
+**External source:** [Zorgverzekeringslijn — onafhankelijke info](https://www.zorgverzekeringslijn.nl/) — independent information on this topic.

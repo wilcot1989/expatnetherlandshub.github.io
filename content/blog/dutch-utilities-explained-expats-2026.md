@@ -43,7 +43,6 @@ products:
   tag: Currency Transfer
 schema_type: Article
 ---
-
 The first utility bill I received in the Netherlands made no sense to me. It had three different organisations listed on it, a column of acronyms (ODE, SDE+, VFT), and an amount that I could not reconcile with anything I understood about how much gas and electricity I was using. I eventually asked a Dutch colleague to explain it over lunch.
 
 Ten years later, the Dutch utility system feels completely familiar. But it took longer than it should have. This guide is my attempt to save you that time.
@@ -52,6 +51,9 @@ Ten years later, the Dutch utility system feels completely familiar. But it took
 
 
 💡 *Looking for a complete banking comparison? Read [Best banking for expats in the Netherlands 2026](/blog/best-banking-expats-netherlands-2026/) — covers ABN, ING, Bunq, Wise, Revolut & 5 others by expat use case.*
+
+> **Quick answer:** Dutch utilities for expats 2026: water bills, energy contracts, waste collection, internet providers, reading your energy bill, and switching suppliers.
+
 ## Overview: How Dutch Utilities Work
 
 The Dutch utility system has one important structural quirk that confuses many expats: **your energy supplier (leverancier) and your grid operator (netbeheerder) are different organisations, and you pay both separately**.
@@ -344,3 +346,7 @@ Switching is handled almost entirely by your new supplier — you sign up online
 <a href="https://go.expatnetherlandshub.com/wise" class="cta-affiliate" rel="nofollow noopener sponsored" target="_blank">Try Wise</a>
 
 Or compare internet and energy providers: <a href="https://go.expatnetherlandshub.com/independer-internet" class="cta-affiliate" rel="nofollow noopener sponsored" target="_blank">Compare Internet Plans at Independer</a>
+
+---
+
+**External source:** [IND — Residence permits](https://ind.nl/en/residence-permits) — independent information on this topic.

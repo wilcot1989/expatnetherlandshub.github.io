@@ -41,7 +41,6 @@ products:
   tag: Expat Insurance
 schema_type: Article
 ---
-
 My first sports injury in the Netherlands left me confused. Back home, I would have been referred by my GP and then waited weeks. Here I walked into a physiotherapy practice the same afternoon without a referral and was seen within the hour. That direct access system was a revelation — and understanding it properly can save you time, money, and unnecessary pain.
 
 This guide covers everything expats need to know about physiotherapy in the Netherlands: how the referral system works, what your insurance covers, what things cost, how to find English-speaking practitioners, and what to expect during a Dutch physiotherapy session.
@@ -50,6 +49,9 @@ This guide covers everything expats need to know about physiotherapy in the Neth
 
 
 💡 *Looking for a complete banking comparison? Read [Best banking for expats in the Netherlands 2026](/blog/best-banking-expats-netherlands-2026/) — covers ABN, ING, Bunq, Wise, Revolut & 5 others by expat use case.*
+
+> **Quick answer:** How physiotherapy works in the Netherlands for expats: referrals, costs, insurance coverage, finding an English-speaking physio, and what to expect.
+
 ## How Physiotherapy Works in the Netherlands: The Basics
 
 The Dutch healthcare system gives you more direct access to physiotherapy than many expats are used to. Here is how it works:
@@ -346,3 +348,7 @@ Beyond the standard musculoskeletal treatment most people associate with physiot
 **Sports physiotherapy.** Dutch sports clubs and sports medicine clinics offer specialist sports physiotherapy for injury rehabilitation, performance optimisation, and injury prevention. These services are available privately and are not always covered by basic supplementary packages. Major Dutch sports medicine centres (SportMedisch Centrum) in all large cities offer combined orthopaedic and physiotherapy assessment for sports injuries.
 
 <a href="https://go.expatnetherlandshub.com/preply" class="cta-affiliate" rel="nofollow noopener sponsored" target="_blank">Try Preply</a>
+
+---
+
+**External source:** [Zorgverzekeringslijn — onafhankelijke info](https://www.zorgverzekeringslijn.nl/) — independent information on this topic.

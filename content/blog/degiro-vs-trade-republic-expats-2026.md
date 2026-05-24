@@ -34,7 +34,6 @@ products:
     price: "0.00"
     tag: "Banking"
 ---
-
 I opened my DEGIRO account in 2019 and my Trade Republic account in 2022, originally to compare them side by side and decide which to consolidate on. Three years later I'm still using both, for different things, and I think most expats in the Netherlands should know what each platform is good at before defaulting to one.
 
 This comparison covers the realities of using both as a Dutch tax resident in 2026: fees, ETF selection, savings plans, tax statements, and the small operational differences that actually matter.
@@ -42,6 +41,11 @@ This comparison covers the realities of using both as a Dutch tax resident in 20
 *Disclosure: some links in this article are affiliate links. If you sign up via them, I may earn a small commission at no extra cost to you. I only recommend platforms I personally use.*
 
 💡 *New to investing in the Netherlands? Start with [Best banking for expats in the Netherlands 2026](/blog/best-banking-expats-netherlands-2026/) and the [Meesman vs DEGIRO](/blog/meesman-vs-degiro-investing-2026/) comparison for context on the broader landscape.*
+
+
+> **Quick answer:** DEGIRO vs Trade Republic compared for expats in the Netherlands: fees, ETF selection, tax handling, and which broker actually saves you money in 2026.
+>
+> Yes. Trade Republic is licensed in Germany under BaFin supervision and passported across the EU under MiFID II, including the Netherlands. You need a Dutch (or other EU) address, a valid ID, and an EU-issued IBAN. Verification takes 10–30 minutes via video identification.
 
 ## What DEGIRO and Trade Republic Actually Are
 
@@ -296,3 +300,7 @@ These aren't endorsements — just patterns that show how the same two brokers f
 Whichever you pick, the most important investing decision is starting. The expense difference between DEGIRO and Trade Republic over a 30-year investing career is small relative to the cost of waiting another 6 months because you couldn't decide.
 
 If you're new to investing, open Trade Republic this weekend, set up a €100/month savings plan into VWCE or IWDA, and revisit in a year. The difference between "perfect choice" and "good choice" is rounding error. The difference between "investing now" and "investing later" is enormous.
+
+---
+
+**External source:** [IND — Residence permits](https://ind.nl/en/residence-permits) — independent information on this topic.

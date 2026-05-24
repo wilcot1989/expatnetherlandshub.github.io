@@ -42,7 +42,6 @@ products:
   tag: Currency Transfer
 schema_type: Article
 ---
-
 I started my first side hustle in the Netherlands without really understanding what I was doing from a tax perspective. I was doing some freelance writing on the side of my main job, getting paid into my regular bank account, and telling myself I would "sort out the tax side later." A Dutch accountant friend eventually sat me down and explained, very patiently, that I was operating a commercial activity without being registered with the KvK, which was not a good position to be in.
 
 It did not need to be complicated. Once I understood the framework, it was fine. But the framework matters — and for expats specifically, there are a few layers on top of the standard Dutch rules that are worth understanding before you start earning.
@@ -53,6 +52,9 @@ This guide covers the legal framework, the tax rules, the best side hustle optio
 
 
 💡 *Looking for a complete banking comparison? Read [Best banking for expats in the Netherlands 2026](/blog/best-banking-expats-netherlands-2026/) — covers ABN, ING, Bunq, Wise, Revolut & 5 others by expat use case.*
+
+> **Quick answer:** Earn extra income in the Netherlands as an expat: legal rules, bijverdienste tax, KvK, the best side hustles, and passive income options explained.
+
 ## The Legal Framework: Bijverdienste vs ZZP
 
 There are two distinct categories of extra income in the Netherlands, and they are treated very differently.
@@ -325,3 +327,7 @@ Yes, up to approximately EUR 5,998 per year in rental income is exempt under the
 <a href="https://go.expatnetherlandshub.com/wise" class="cta-affiliate" rel="nofollow noopener sponsored" target="_blank">Try Wise</a>
 
 Stay secure online while managing your freelance income: <a href="https://go.expatnetherlandshub.com/nordvpn" class="cta-affiliate" rel="nofollow noopener sponsored" target="_blank">Protect Yourself with NordVPN</a>
+
+---
+
+**External source:** [Belastingdienst — BTW info](https://www.belastingdienst.nl/wps/wcm/connect/nl/btw/btw) — independent information on this topic.

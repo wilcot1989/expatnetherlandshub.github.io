@@ -40,13 +40,17 @@ products:
   tag: Expat Insurance
 schema_type: Article
 ---
-
 Family reunification — bringing your partner, spouse, or children to join you in the Netherlands — is one of the most emotionally important immigration processes you'll go through. It's also one of the more bureaucratically involved.
 
 I've helped several expat friends manage this process, and I've seen the frustration caused by missing documents, income shortfalls, and unclear procedures. This guide is my attempt to give you a clear picture of what the process actually involves, what the requirements are, and how to avoid common mistakes.
 
 
 💡 *Looking for a complete banking comparison? Read [Best banking for expats in the Netherlands 2026](/blog/best-banking-expats-netherlands-2026/) — covers ABN, ING, Bunq, Wise, Revolut & 5 others by expat use case.*
+
+> **Quick answer:** How does family reunification work in the Netherlands? I explain the MVV visa, who qualifies, what the process involves, and what to expect in 2026.
+>
+> MVV stands for Machtiging tot Voorlopig Verblijf, or Provisional Residence Permit. It is a long-stay visa sticker placed in your passport that allows you to enter the Netherlands and then apply for a residence permit. Most people applying from outside the EU to join family in the Netherlands need an MVV before they travel.
+
 ## What is an MVV?
 
 MVV stands for **Machtiging tot Voorlopig Verblijf** — Provisional Residence Permit. It is a long-stay visa sticker (valid for 90 days) placed in the passport of the family member who wants to come to the Netherlands.
@@ -339,3 +343,7 @@ The required level for the inburgering is **A2 Dutch** (on the CEFR scale), with
 Start early. Many families underestimate the time commitment required.
 
 <a href="https://go.expatnetherlandshub.com/preply" class="cta-affiliate" rel="nofollow noopener sponsored" target="_blank">Try Preply</a>
+
+---
+
+**External source:** [IND — Residence permits](https://ind.nl/en/residence-permits) — independent information on this topic.

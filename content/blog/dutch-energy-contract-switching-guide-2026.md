@@ -44,7 +44,6 @@ products:
     price: "0.00"
     tag: "Green Energy"
 ---
-
 I have switched my Dutch energy supplier three times in the eight years I have lived here. The first time I did not switch for two years and overpaid by what I later calculated was about EUR 600. The second and third switches each saved me EUR 200 to EUR 350 versus staying put. The process took about 20 minutes each time.
 
 Most expats I work with overpay for energy in the Netherlands not because they pick the wrong supplier, but because they never switch. Default variable rates with the same supplier you signed up with on day one are almost always more expensive than a contract you would get switching today. This guide walks through the switch process, what to compare, and how to avoid the small mistakes that cost real money.
@@ -52,6 +51,9 @@ Most expats I work with overpay for energy in the Netherlands not because they p
 *Disclosure: this article contains affiliate links. If you sign up via them I may earn a small commission at no extra cost to you. All views are based on my own experience.*
 
 💡 *For a broader overview see my [Dutch utilities explained guide](/blog/dutch-utilities-explained-expats-2026/) — energy, water, gas and trash all in one place.*
+
+
+> **Quick answer:** How to switch energy supplier in the Netherlands as an expat in 2026. My step-by-step on contracts, fixed vs variable, exit fees and how to actually save money.
 
 ## How the Dutch Energy Market Works
 
@@ -321,3 +323,7 @@ You should switch energy supplier today if:
 Energy is one of those Dutch admin items that rewards a small amount of attention every year. EUR 250 to EUR 500 in annual savings, repeatedly captured, compounds meaningfully over a five or ten year stay. The switch process is genuinely easy in 2026. The only thing standing between you and the savings is sitting down to do it.
 
 Set a recurring calendar reminder: "Compare energy contract" — once a year, ideally in October before winter. Twenty minutes a year, EUR 250 to EUR 500 saved. There are very few items on your Dutch admin list with that ratio.
+
+---
+
+**External source:** [IND — Residence permits](https://ind.nl/en/residence-permits) — independent information on this topic.
