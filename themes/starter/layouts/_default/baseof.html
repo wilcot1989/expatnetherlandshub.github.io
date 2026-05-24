@@ -160,6 +160,26 @@
 
   <!-- BreadcrumbList JSON-LD -->
   {{ if not .IsHome }}
+  {{/* HowTo schema for guides/stappenplan/tutorial */}}
+  {{ if and .File (or (in .File.BaseFileName "stappenplan") (in .File.BaseFileName "how-to") (in .File.BaseFileName "guide") (in .File.BaseFileName "tutorial") (in .File.BaseFileName "step-by-step")) }}
+  <script type="application/ld+json">
+  {
+    "@context": "https://schema.org",
+    "@type": "HowTo",
+    "name": {{ .Title | jsonify }},
+    "description": {{ .Description | jsonify }},
+    "datePublished": "{{ .Date.Format "2006-01-02" }}",
+    "dateModified": "{{ .Lastmod.Format "2006-01-02" }}",
+    "totalTime": "PT30M",
+    "step": [
+      {{ $h2s := findRESubmatch `(?m)^## (.+)$` .RawContent }}
+      {{ range $i, $m := $h2s }}{{ if $i }},{{ end }}
+      { "@type": "HowToStep", "position": {{ add $i 1 }}, "name": {{ index $m 1 | jsonify }} }
+      {{ end }}
+    ]
+  }
+  </script>
+  {{ end }}
   <script type="application/ld+json">
   {
     "@context": "https://schema.org",
