@@ -28,7 +28,7 @@ faq:
   a: Significantly, yes — but not just for the obvious linguistic reasons. Learning Dutch changes how Dutch people respond to you. It signals commitment and respect. It opens access to social spaces — clubs, neighbourhood groups, volunteer organisations — that run in Dutch. And the process of learning, if you find a good class, creates its own social network of other learners.
 products:
 - name: Babbel
-  url: https://www.babbel.com/
+  url: https://go.expatnetherlandshub.com/babbel
   price: '6.99'
 - name: Meetup
   url: https://www.meetup.com/

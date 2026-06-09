@@ -39,7 +39,7 @@ faq:
   a: 'The Dutch-American Friendship Treaty (DAFT) was extended to cover British nationals as part of the Brexit negotiations — a specific arrangement that gives British self-employed people access to a route that many other third-country nationals do not have. The DAFT permit allows British citizens to establish or work in their own business in the Netherlands. Requirements include: a viable business plan, meeting a scoring system on various criteria (education, business plan quality, financial resources, value to the Netherlands), and sufficient personal finances to support yourself. The DAFT permit is one of the more accessible routes for British freelancers and small business owners.'
 products:
 - name: Babbel
-  url: https://www.babbel.com/
+  url: https://go.expatnetherlandshub.com/babbel
   price: '6.99'
 - name: Meetup
   url: https://www.meetup.com/

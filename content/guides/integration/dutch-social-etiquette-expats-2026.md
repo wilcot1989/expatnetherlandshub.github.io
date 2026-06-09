@@ -34,7 +34,7 @@ faq:
   a: Very. Arriving on time — or even a minute or two early — is expected for both professional and social appointments. Showing up 20 minutes late to a dinner invitation without warning is genuinely considered disrespectful. If you are running late, a quick message is the bare minimum.
 products:
 - name: Babbel
-  url: https://www.babbel.com/
+  url: https://go.expatnetherlandshub.com/babbel
   price: '6.99'
 - name: Meetup
   url: https://www.meetup.com/

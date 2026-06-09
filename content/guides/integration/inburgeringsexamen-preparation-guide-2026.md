@@ -41,7 +41,7 @@ faq:
   a: No. The inburgeringsexamen tests Dutch at A2-B1 level as part of civic integration requirements. The NT2 (Nederlands als Tweede Taal) is a separate, higher-level exam at B1-B2 level, recognized by Dutch educational institutions and employers. Passing NT2 State Exam I or II can exempt you from the language components of the inburgeringsexamen. If you plan to study at a Dutch university or need formal proof of Dutch proficiency for employment, NT2 is the more widely recognized qualification.
 products:
 - name: Babbel
-  url: https://www.babbel.com/
+  url: https://go.expatnetherlandshub.com/babbel
   price: '6.99'
 - name: DutchPod101
   url: https://www.dutchpod101.com/
@@ -213,9 +213,9 @@ Under the Wi2021 system, you complete ONA activities as part of your integration
 
 ### Months 1-3: Build Your Foundation
 
-1. **Start learning Dutch immediately** when you arrive (or even before you move). Use a structured app like [Babbel](https://www.babbel.com/) to build vocabulary and grammar from day one. Babbel's Dutch course is designed by linguists and focuses on practical conversation skills, making it ideal for building the foundation you need for the exam.
+1. **Start learning Dutch immediately** when you arrive (or even before you move). Use a structured app like [Babbel](https://go.expatnetherlandshub.com/babbel) to build vocabulary and grammar from day one. Babbel's Dutch course is designed by linguists and focuses on practical conversation skills, making it ideal for building the foundation you need for the exam.
 
-<a href="https://www.babbel.com/" target="_blank" rel="noopener noreferrer" class="cta-affiliate">Start learning Dutch with Babbel →</a>
+<a href="https://go.expatnetherlandshub.com/babbel" target="_blank" rel="noopener noreferrer" class="cta-affiliate">Start learning Dutch with Babbel →</a>
 
 2. **Register with your municipality** and attend the broad intake assessment. This determines your learning route.
 
@@ -265,7 +265,7 @@ Under the Wi2021 system, you complete ONA activities as part of your integration
 
 | Resource | Best For | Cost |
 |----------|----------|------|
-| [Babbel](https://www.babbel.com/) | Structured Dutch course, grammar, vocabulary | ~EUR 7-13/month |
+| [Babbel](https://go.expatnetherlandshub.com/babbel) | Structured Dutch course, grammar, vocabulary | ~EUR 7-13/month |
 | [Pimsleur](https://www.pimsleur.com/) | Speaking and listening practice | ~EUR 15-20/month |
 | "Naar Nederland" package | Official preparation for all exam components | ~EUR 100-150 |
 | "De Delftse Methode" textbook | Structured self-study Dutch textbook | ~EUR 35-50 |
@@ -321,7 +321,7 @@ For newcomers who are unlikely to reach B1 level within the deadline, often due 
 |-----------|--------|
 | Week 1-4 | Register at municipality, attend broad intake assessment |
 | Month 1-2 | PIP (Personal Integration and Participation Plan) created |
-| Month 1-3 | Begin language classes and start self-study with [Babbel](https://www.babbel.com/) or [Pimsleur](https://www.pimsleur.com/) |
+| Month 1-3 | Begin language classes and start self-study with [Babbel](https://go.expatnetherlandshub.com/babbel) or [Pimsleur](https://www.pimsleur.com/) |
 | Month 3-6 | Intensive language learning, begin KNM study |
 | Month 6-12 | Continue language learning, start taking practice exams |
 | Month 12-18 | Take KNM exam, continue language preparation |

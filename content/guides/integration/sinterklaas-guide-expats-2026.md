@@ -35,7 +35,7 @@ faq:
   a: Zwarte Piet (Black Pete) is the traditional helper figure of Sinterklaas, historically depicted with black face paint, curly hair, red lips, and colourful clothing. In recent years there has been a significant and sometimes heated public debate about whether this depiction is a racist caricature rooted in the history of enslavement. Many municipalities, schools, broadcasters, and businesses have shifted to 'roetveegpiet' — a sooty Pete whose face is smudged with chimney soot rather than painted black. This remains a sensitive subject in Dutch society, with strong feelings on multiple sides.
 products:
 - name: Babbel
-  url: https://www.babbel.com/
+  url: https://go.expatnetherlandshub.com/babbel
   price: '6.99'
 - name: Meetup
   url: https://www.meetup.com/

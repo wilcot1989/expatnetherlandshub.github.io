@@ -37,7 +37,7 @@ faq:
   a: 'The Dutch housing market is one of the tightest in Europe — low inventory, high demand, fast-moving, with average house prices in Amsterdam exceeding EUR 500,000. Renting is competitive and expensive. Spain''s housing market is more varied: Madrid and Barcelona have seen strong price growth, but other cities (Valencia, Seville, Malaga) remain more affordable. Property is easier to buy as a foreigner in Spain than in the Netherlands, where limited supply creates barriers even for Dutch nationals.'
 products:
 - name: Babbel
-  url: https://www.babbel.com/
+  url: https://go.expatnetherlandshub.com/babbel
   price: '6.99'
 - name: Meetup
   url: https://www.meetup.com/

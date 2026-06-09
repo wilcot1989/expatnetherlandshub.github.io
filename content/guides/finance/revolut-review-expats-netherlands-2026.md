@@ -261,7 +261,7 @@ If you have decided to use Revolut — even as a secondary account — the setup
 
 You need: a smartphone, a valid passport or ID card, and about ten minutes.
 
-1. Download the Revolut app ([revolut.com](https://www.revolut.com/))
+1. Download the Revolut app ([revolut.com](https://go.expatnetherlandshub.com/revolut))
 2. Enter your mobile number and verify it
 3. Complete identity verification (photo of ID + selfie — usually processed within minutes)
 4. Order your physical card (delivered in 3–5 business days to a Netherlands address)
@@ -338,7 +338,7 @@ If you are ready to add Revolut to your setup:
 
 2. **Open a Wise account if you send money internationally.** Do this before Revolut. It will serve more of your banking needs and causes fewer headaches with Dutch systems.
 
-3. **Download Revolut and complete verification.** Use [revolut.com](https://www.revolut.com/) and have your passport or ID ready. Takes about ten minutes.
+3. **Download Revolut and complete verification.** Use [revolut.com](https://go.expatnetherlandshub.com/revolut) and have your passport or ID ready. Takes about ten minutes.
 
 4. **Start with the free Standard plan.** There is no reason to pay for Premium until you have actually tested whether Revolut fits your usage patterns. Give it three months and then decide.
 

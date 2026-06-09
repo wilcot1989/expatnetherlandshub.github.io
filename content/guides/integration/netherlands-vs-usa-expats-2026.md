@@ -38,7 +38,7 @@ faq:
   a: 'Yes, though it requires either Dutch residency through another route (family, long-term residence) or sufficient passive income. Americans who have built savings and want a high-quality European retirement find the Netherlands attractive: excellent healthcare, safe cities, strong infrastructure, and proximity to the rest of Europe. The pension treaty between the US and the Netherlands prevents double taxation of US Social Security benefits and Dutch AOW pension payments.'
 products:
 - name: Babbel
-  url: https://www.babbel.com/
+  url: https://go.expatnetherlandshub.com/babbel
   price: '6.99'
 - name: Meetup
   url: https://www.meetup.com/

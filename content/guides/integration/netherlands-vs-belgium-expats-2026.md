@@ -41,7 +41,7 @@ faq:
   a: Yes. Wise is ideal for cross-border transfers within Europe, including between Dutch and Belgian bank accounts. With real exchange rate transfers for EUR-to-EUR or multi-currency accounts, it is used by expats in both countries for salary transfers, rent payments, and sending money home. You can hold both EUR and GBP (or other currencies) in one Wise account.
 products:
 - name: Babbel
-  url: https://www.babbel.com/
+  url: https://go.expatnetherlandshub.com/babbel
   price: '6.99'
 - name: Meetup
   url: https://www.meetup.com/

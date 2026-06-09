@@ -36,7 +36,7 @@ faq:
   a: In the Netherlands, splitting the bill (ieder betaalt zijn eigen) is the norm — not just with acquaintances but even among close friends. This is not stinginess; it reflects independence and equality. Nobody should feel obligated to others financially. Expecting someone to pay for you, or insisting on paying for others, can both feel slightly awkward in Dutch social settings.
 products:
 - name: Babbel
-  url: https://www.babbel.com/
+  url: https://go.expatnetherlandshub.com/babbel
   price: '6.99'
 - name: Meetup
   url: https://www.meetup.com/

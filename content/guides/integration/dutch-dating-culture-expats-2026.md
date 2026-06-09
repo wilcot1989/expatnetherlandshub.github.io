@@ -34,7 +34,7 @@ faq:
   a: Independence is probably number one. Dutch culture places enormous value on self-sufficiency, and someone who has their own life, their own opinions, and their own plans is far more appealing than someone who revolves entirely around their partner. Directness, a dry sense of humor, and not taking yourself too seriously also go a long way.
 products:
 - name: Babbel
-  url: https://www.babbel.com/
+  url: https://go.expatnetherlandshub.com/babbel
   price: '6.99'
 - name: Meetup
   url: https://www.meetup.com/

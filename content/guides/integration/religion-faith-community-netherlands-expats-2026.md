@@ -38,7 +38,7 @@ faq:
   a: Dutch employers are generally required to accommodate reasonable religious practice. You can request time off for religious holidays, space for prayers, and dietary accommodations in work settings. However, Dutch directness means you should simply request these accommodations clearly — Dutch colleagues are unlikely to anticipate your needs. The Dutch work culture respects personal choices while not necessarily being familiar with all religious practices.
 products:
 - name: Babbel
-  url: https://www.babbel.com/
+  url: https://go.expatnetherlandshub.com/babbel
   price: '6.99'
 - name: Meetup
   url: https://www.meetup.com/

@@ -39,7 +39,7 @@ faq:
   a: Yes. Wise supports EUR-to-TRY transfers and is particularly useful for this corridor given Turkey's exchange rate volatility. You lock in the rate at the time of transfer and avoid the hidden margins that banks typically apply. This is especially valuable when the lira fluctuates significantly, as it has in recent years.
 products:
 - name: Babbel
-  url: https://www.babbel.com/
+  url: https://go.expatnetherlandshub.com/babbel
   price: '6.99'
 - name: Meetup
   url: https://www.meetup.com/

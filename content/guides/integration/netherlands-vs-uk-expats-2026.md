@@ -29,7 +29,7 @@ faq:
   a: Pricing varies — see the comparison table above for current rates.
 products:
 - name: Babbel
-  url: https://www.babbel.com/
+  url: https://go.expatnetherlandshub.com/babbel
   price: '6.99'
 - name: Meetup
   url: https://www.meetup.com/

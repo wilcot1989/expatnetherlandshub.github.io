@@ -39,7 +39,7 @@ faq:
   a: Yes, a well-established one. The SA expat community is particularly concentrated in Eindhoven (ASML, Philips), Amsterdam (tech, finance, media), and Den Haag. The South African Society Netherlands organises events, and SA-specific Facebook groups and WhatsApp networks are active. Braai culture is very much alive — you will find South Africans gathering in parks and gardens every summer. SA products including biltong, boerewors, and Mrs Ball's chutney are available at specialist shops and increasingly in mainstream supermarkets.
 products:
 - name: Babbel
-  url: https://www.babbel.com/
+  url: https://go.expatnetherlandshub.com/babbel
   price: '6.99'
 - name: Meetup
   url: https://www.meetup.com/

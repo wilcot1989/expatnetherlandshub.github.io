@@ -38,7 +38,7 @@ faq:
   a: Yes. The Netherlands consistently ranks among the safest countries in Europe. Crime rates are low, the rule of law is strong, and Indian expat communities are well established in cities like Eindhoven, Amsterdam, and Den Haag. Racism and discrimination do exist, as in any country, but institutional protections are strong and most Indian expats report feeling safe and welcome. The Indian community is large enough — particularly in Eindhoven, home to the ASML and Philips clusters — that newcomers rarely feel isolated for long.
 products:
 - name: Babbel
-  url: https://www.babbel.com/
+  url: https://go.expatnetherlandshub.com/babbel
   price: '6.99'
 - name: Meetup
   url: https://www.meetup.com/

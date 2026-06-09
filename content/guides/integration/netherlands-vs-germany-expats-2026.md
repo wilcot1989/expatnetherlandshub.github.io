@@ -43,7 +43,7 @@ faq:
   a: The Netherlands is significantly easier. Around 95% of Dutch professionals speak fluent English, and in cities like Amsterdam, Rotterdam, and Eindhoven, a large share of job postings in tech, finance, and logistics list English as the primary working language. In Germany, even at international companies, German is often required internally; Berlin's tech scene is the main exception. Studies by EF English Proficiency Index consistently rank the Netherlands in the global top 2, while Germany ranks around 10th.
 products:
 - name: Babbel
-  url: https://www.babbel.com/
+  url: https://go.expatnetherlandshub.com/babbel
   price: '6.99'
 - name: Meetup
   url: https://www.meetup.com/

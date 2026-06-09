@@ -39,7 +39,7 @@ faq:
   a: Babbel has noticeably better speech recognition technology for Dutch. It provides feedback on your pronunciation and requires you to speak words and phrases aloud in most exercises. Duolingo also includes speaking exercises, but they are less frequent and the speech recognition is less precise, particularly for challenging Dutch sounds like the hard g and the ui diphthong. For the best pronunciation practice, consider adding Pimsleur to either app.
 products:
 - name: Babbel
-  url: https://www.babbel.com/
+  url: https://go.expatnetherlandshub.com/babbel
   price: '6.99'
 - name: DutchPod101
   url: https://www.dutchpod101.com/
@@ -161,9 +161,9 @@ Duolingo's free tier is genuinely generous. You can complete the entire Dutch co
 
 **Duolingo wins** on price, clearly. If budget is your primary concern, Duolingo is the obvious choice. However, the cost difference between Duolingo Super and Babbel's annual plan is small (about EUR 2 per month), and Babbel delivers significantly more value at that price point.
 
-[Start your Babbel Dutch course here](https://www.babbel.com/) -- plans start at approximately EUR 7 per month on the annual subscription.
+[Start your Babbel Dutch course here](https://go.expatnetherlandshub.com/babbel) -- plans start at approximately EUR 7 per month on the annual subscription.
 
-<a href="https://www.babbel.com/" target="_blank" rel="noopener noreferrer" class="cta-affiliate">Start your Babbel Dutch course →</a>
+<a href="https://go.expatnetherlandshub.com/babbel" target="_blank" rel="noopener noreferrer" class="cta-affiliate">Start your Babbel Dutch course →</a>
 
 ---
 
@@ -259,7 +259,7 @@ Both apps have expanded beyond basic lessons in recent years.
 
 ## Who Should Choose Babbel?
 
-[Babbel](https://www.babbel.com/) is the right choice if you:
+[Babbel](https://go.expatnetherlandshub.com/babbel) is the right choice if you:
 
 - Are serious about reaching a conversational level in Dutch
 - Prefer structured lessons with clear grammar explanations
@@ -269,7 +269,7 @@ Both apps have expanded beyond basic lessons in recent years.
 - Value strong speech recognition for pronunciation practice
 - Plan to complement the app with real-world practice or italki tutoring
 
-[Start your Babbel Dutch course here](https://www.babbel.com/).
+[Start your Babbel Dutch course here](https://go.expatnetherlandshub.com/babbel).
 
 ## Who Should Choose Duolingo?
 
@@ -286,7 +286,7 @@ Duolingo is the right choice if you:
 
 Here is the strategy I recommend for most expats learning Dutch in the Netherlands:
 
-1. **Use [Babbel](https://www.babbel.com/) as your primary learning tool**: Dedicate 15-20 minutes per day to structured lessons
+1. **Use [Babbel](https://go.expatnetherlandshub.com/babbel) as your primary learning tool**: Dedicate 15-20 minutes per day to structured lessons
 2. **Use Duolingo as a daily supplement**: Spend 5 minutes on Duolingo during breaks to reinforce vocabulary and maintain your streak
 3. **Add conversation practice**: Book weekly sessions on italki or join a Dutch conversation group at your local library
 4. **Immerse yourself**: Watch Dutch TV on NPO Start, read NOS.nl, and set your phone to Dutch
@@ -299,7 +299,7 @@ This combined approach gives you the structured depth of Babbel, the daily motiv
 
 If Babbel's structured approach sounds right for you, getting started takes less than two minutes. If you prefer human feedback on your speaking, a tutor on Preply can help you reach conversational Dutch faster. For a detailed look at how Preply compares to italki for Dutch lessons, see our [Preply vs italki comparison](/guides/integration/preply-vs-italki-dutch-lessons-2026/).
 
-<a href="https://www.babbel.com/" target="_blank" rel="noopener noreferrer" class="cta-affiliate">Try Babbel Dutch for free →</a>
+<a href="https://go.expatnetherlandshub.com/babbel" target="_blank" rel="noopener noreferrer" class="cta-affiliate">Try Babbel Dutch for free →</a>
 
 <a href="https://go.expatnetherlandshub.com/preply?ref=/guides/integration/babbel-vs-duolingo-learn-dutch-2026/" target="_blank" rel="nofollow noopener noreferrer sponsored" class="cta-affiliate">Find a Dutch tutor on Preply →</a>
 
@@ -396,4 +396,4 @@ Duolingo is an excellent free supplement, and its gamification keeps you consist
 
 Whatever you choose, the most important thing is to start and to be consistent. Fifteen minutes a day, every day, with either app will get you further than one hour a week with the world's best teacher.
 
-[Start learning Dutch with Babbel today](https://www.babbel.com/). Whichever app you choose, the most important habit is consistency — even ten minutes every day will move you forward faster than a two-hour session once a week.
+[Start learning Dutch with Babbel today](https://go.expatnetherlandshub.com/babbel). Whichever app you choose, the most important habit is consistency — even ten minutes every day will move you forward faster than a two-hour session once a week.

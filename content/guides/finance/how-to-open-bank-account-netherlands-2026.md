@@ -260,7 +260,7 @@ The bunq Easy Money plan starts at approximately €2.99/month. If you need a Du
 
 ### Option 3: Revolut
 
-<a href="https://www.revolut.com" target="_blank" rel="noopener nofollow">Revolut</a> also allows sign-up without a BSN. Like Wise, Revolut issues a European IBAN (Lithuanian for EU accounts). It is free to open at the standard tier, though the most useful features — higher ATM limits, multi-currency accounts, better exchange rates — are on paid plans (€2.99–€13.99/month).
+<a href="https://go.expatnetherlandshub.com/revolut" target="_blank" rel="noopener nofollow">Revolut</a> also allows sign-up without a BSN. Like Wise, Revolut issues a European IBAN (Lithuanian for EU accounts). It is free to open at the standard tier, though the most useful features — higher ATM limits, multi-currency accounts, better exchange rates — are on paid plans (€2.99–€13.99/month).
 
 Revolut is useful if you already have a Revolut account from your home country, as you can simply activate the EUR account details and start using it immediately.
 
@@ -395,7 +395,7 @@ Wise does not require a Dutch address, a Dutch BSN, or any Dutch documentation. 
 
 ### Revolut for non-residents
 
-<a href="https://www.revolut.com" target="_blank" rel="noopener nofollow">Revolut</a> is similarly accessible to non-residents and works well for spending in the Netherlands, paying Dutch invoices, and holding EUR. Its business account option is useful if you are a non-resident running a business with Dutch activity.
+<a href="https://go.expatnetherlandshub.com/revolut" target="_blank" rel="noopener nofollow">Revolut</a> is similarly accessible to non-residents and works well for spending in the Netherlands, paying Dutch invoices, and holding EUR. Its business account option is useful if you are a non-resident running a business with Dutch activity.
 
 ### N26 and bunq limitations for non-residents
 

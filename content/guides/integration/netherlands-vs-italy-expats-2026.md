@@ -36,7 +36,7 @@ faq:
   a: It depends entirely on what you value. Italy offers exceptional food, culture, architecture, climate (especially in the south), and a lifestyle centred on enjoying life. The Netherlands offers efficiency, cycling culture, English-friendly society, strong work-life balance, and excellent infrastructure. Both score well in international quality-of-life indices but for different reasons.
 products:
 - name: Babbel
-  url: https://www.babbel.com/
+  url: https://go.expatnetherlandshub.com/babbel
   price: '6.99'
 - name: Meetup
   url: https://www.meetup.com/

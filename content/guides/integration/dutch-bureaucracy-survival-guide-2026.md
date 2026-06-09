@@ -40,7 +40,7 @@ faq:
   a: 'The general rule in Dutch bureaucracy: call first to check if you actually need to come in person; most things can now be done online or by post. When you do need to go in person, always book an appointment (afspraak) in advance — walk-ins are not accepted at most Dutch government offices. Bring original documents plus copies; Dutch civil servants will often not accept photocopies as the primary document. Be precise, factual, and patient. Dutch civil servants are generally professional but follow rules closely — if a document is missing, the application will not proceed regardless of how reasonable your explanation is.'
 products:
 - name: Babbel
-  url: https://www.babbel.com/
+  url: https://go.expatnetherlandshub.com/babbel
   price: '6.99'
 - name: Meetup
   url: https://www.meetup.com/

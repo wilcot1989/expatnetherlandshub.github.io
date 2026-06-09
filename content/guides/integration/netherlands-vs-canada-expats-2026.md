@@ -43,7 +43,7 @@ faq:
   a: SafetyWing Nomad Insurance covers international travel and temporary stays globally, including both the Netherlands and Canada. It is widely used by expats on the NL-Canada corridor during travel, probationary periods before health insurance kicks in, or when visiting family. It does not replace mandatory Dutch health insurance (basisverzekering) for NL residents, but it is excellent as a gap-filler or for travel periods.
 products:
 - name: Babbel
-  url: https://www.babbel.com/
+  url: https://go.expatnetherlandshub.com/babbel
   price: '6.99'
 - name: Meetup
   url: https://www.meetup.com/

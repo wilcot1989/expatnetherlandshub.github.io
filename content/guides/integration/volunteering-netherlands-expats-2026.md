@@ -36,7 +36,7 @@ faq:
   a: Absolutely. Skill-based volunteering is well-developed in the Netherlands. Legal professionals volunteer at rechtswinkels (free legal advice shops), accountants help non-profits with their books, marketers support charities' communications. Platforms like Thuisafgesproken.nl and ProDeo facilitate skill-based volunteering for professionals.
 products:
 - name: Babbel
-  url: https://www.babbel.com/
+  url: https://go.expatnetherlandshub.com/babbel
   price: '6.99'
 - name: Meetup
   url: https://www.meetup.com/

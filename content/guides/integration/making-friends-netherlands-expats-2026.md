@@ -24,7 +24,7 @@ faq:
   a: Very. Surveys consistently show expats in the Netherlands rate social connection as one of their biggest challenges, despite loving the country in most other respects. You are not doing something wrong if you feel isolated in your first year. It is a known pattern.
 products:
 - name: Babbel
-  url: https://www.babbel.com/
+  url: https://go.expatnetherlandshub.com/babbel
   price: '6.99'
 - name: Meetup
   url: https://www.meetup.com/

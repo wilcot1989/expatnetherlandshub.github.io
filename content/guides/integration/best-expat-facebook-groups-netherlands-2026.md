@@ -37,7 +37,7 @@ faq:
   a: Stick to groups with active admins and clear rules. Never pay deposits without meeting in person. Be suspicious of deals that seem unusually cheap. Do not click links sent by private message from people you just met in a group. If someone asks you to use Tikkie, iDEAL, or bank transfer for a large sum before any formal agreement, that is a red flag.
 products:
 - name: Babbel
-  url: https://www.babbel.com/
+  url: https://go.expatnetherlandshub.com/babbel
   price: '6.99'
 - name: Meetup
   url: https://www.meetup.com/

@@ -30,7 +30,7 @@ faq:
     a: "Yes. Wise works in both countries and is particularly useful for expats who have financial ties in multiple European countries — paying French landlords, receiving Dutch salaries, managing euros across multiple accounts. The EUR-to-EUR transfer is less relevant within the eurozone (as both countries use the euro), but Wise's multi-currency accounts and borderless banking features are useful for anyone with income or expenses in non-euro currencies."
 products:
   - name: "Babbel"
-    url: "https://www.babbel.com/"
+    url: "https://go.expatnetherlandshub.com/babbel"
     price: "6.99"
   - name: "Meetup"
     url: "https://www.meetup.com/"

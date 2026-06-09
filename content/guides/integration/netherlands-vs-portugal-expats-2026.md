@@ -36,7 +36,7 @@ faq:
   a: Portugal has vastly better weather. The Algarve and Alentejo receive 280-300 days of sunshine per year. Lisbon averages 2800 hours of sunshine. The Netherlands averages around 1700 hours of sunshine and is known for grey, rainy winters. If weather quality is a significant factor in your decision, Portugal wins without contest.
 products:
 - name: Babbel
-  url: https://www.babbel.com/
+  url: https://go.expatnetherlandshub.com/babbel
   price: '6.99'
 - name: Meetup
   url: https://www.meetup.com/

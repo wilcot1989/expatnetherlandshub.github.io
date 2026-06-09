@@ -42,7 +42,7 @@ faq:
   a: For English speakers, Dutch is one of the easiest languages to learn. With consistent daily study (30-60 minutes), most learners reach basic conversational level (A2) within 3-6 months and comfortable conversational level (B1) within 6-12 months. The Foreign Service Institute classifies Dutch as a Category I language, estimating approximately 600-750 hours of study to reach proficiency. Your speed depends on study intensity, exposure to Dutch in daily life, and whether you practice speaking regularly.
 products:
 - name: Babbel
-  url: https://www.babbel.com/
+  url: https://go.expatnetherlandshub.com/babbel
   price: '6.99'
 - name: DutchPod101
   url: https://www.dutchpod101.com/
@@ -79,7 +79,7 @@ Language apps are the most accessible starting point for learning Dutch. They wo
 
 ### Babbel -- Best Structured App for Dutch
 
-[Babbel](https://www.babbel.com/) is our top recommendation among language apps for learning Dutch. Its Dutch course is purpose-built by linguists and language teachers, with thorough grammar explanations, practical vocabulary, and real-world scenarios relevant to life in the Netherlands.
+[Babbel](https://go.expatnetherlandshub.com/babbel) is our top recommendation among language apps for learning Dutch. Its Dutch course is purpose-built by linguists and language teachers, with thorough grammar explanations, practical vocabulary, and real-world scenarios relevant to life in the Netherlands.
 
 #### Key Features
 
@@ -117,9 +117,9 @@ Language apps are the most accessible starting point for learning Dutch. They wo
 
 #### Our Verdict
 
-[Babbel](https://www.babbel.com/) is the best app for expats who are serious about building a solid Dutch foundation. Pair it with conversation practice on italki or Preply for the fastest progress. [Start your Babbel Dutch course here](https://www.babbel.com/).
+[Babbel](https://go.expatnetherlandshub.com/babbel) is the best app for expats who are serious about building a solid Dutch foundation. Pair it with conversation practice on italki or Preply for the fastest progress. [Start your Babbel Dutch course here](https://go.expatnetherlandshub.com/babbel).
 
-<a href="https://www.babbel.com/" target="_blank" rel="noopener noreferrer" class="cta-affiliate">Start your Babbel Dutch course →</a>
+<a href="https://go.expatnetherlandshub.com/babbel" target="_blank" rel="noopener noreferrer" class="cta-affiliate">Start your Babbel Dutch course →</a>
 
 For a detailed comparison with Duolingo, read our [Babbel vs Duolingo for Learning Dutch](/guides/integration/babbel-vs-duolingo-learn-dutch-2026/) guide.
 
@@ -416,7 +416,7 @@ The NT2 Staatsexamen (State Exam Dutch as a Second Language) comes in two levels
 1. **Start early**: Give yourself at least 6-12 months of preparation for NT2-I, longer for NT2-II
 2. **Practice all four skills equally**: Reading, writing, listening, and speaking are all tested separately
 3. **Use official practice exams**: Available at inburgeren.nl and duo.nl
-4. **Supplement with apps**: Use [Babbel](https://www.babbel.com/) for grammar and vocabulary building
+4. **Supplement with apps**: Use [Babbel](https://go.expatnetherlandshub.com/babbel) for grammar and vocabulary building
 5. **Book tutoring sessions**: Practice speaking with a tutor on [Preply](https://go.expatnetherlandshub.com/preply?ref=/guides/integration/best-dutch-language-courses-2026/) or [italki](https://www.italki.com/) in the months before the exam
 6. **Join conversation groups**: Libraries and community centers often host free Dutch conversation practice
 
@@ -430,7 +430,7 @@ For expats who want to reach conversational Dutch as efficiently as possible, he
 
 ### Months 1-3: Build Your Foundation
 
-- **Daily**: 15-20 minutes on [Babbel](https://www.babbel.com/) for structured grammar and vocabulary
+- **Daily**: 15-20 minutes on [Babbel](https://go.expatnetherlandshub.com/babbel) for structured grammar and vocabulary
 - **Daily**: 5 minutes on Duolingo for extra vocabulary practice and streak motivation
 - **Weekly**: 1-2 sessions on [italki](https://www.italki.com/) with a community tutor for basic conversation practice
 - **Daily**: Set your phone language to Dutch, listen to Dutch radio, read signs and menus
@@ -571,7 +571,7 @@ The good news: almost all Dutch people under 60 can and will switch to standard 
 
 The best Dutch language course is the one you will actually use consistently. Here is our bottom line:
 
-- **Best app for structured self-study**: [Babbel](https://www.babbel.com/)
+- **Best app for structured self-study**: [Babbel](https://go.expatnetherlandshub.com/babbel)
 - **Best free option**: Duolingo
 - **Best for personalized online tutoring**: [Preply](https://go.expatnetherlandshub.com/preply?ref=/guides/integration/best-dutch-language-courses-2026/) — see our [Preply vs iTalki comparison](/guides/integration/preply-vs-italki-dutch-lessons-2026/) if you are weighing both platforms
 - **Best for affordable conversation practice**: [italki](https://www.italki.com/)
@@ -597,7 +597,7 @@ The sweet spot is somewhere between these: learn enough Dutch to handle basic da
 
 **The integration examination requirement:** Non-EU expats in the Netherlands who have certain types of residence permits must pass the inburgeringsexamen within three years of arrival. This is not optional. The exam covers Dutch language at A2 level, Dutch society (ONA), and labour market knowledge (MAP). Treating Dutch language learning as a deliberate preparation for this exam — rather than a casual side project — is the practical approach if the inburgering requirement applies to you. Check with the IND whether your permit requires it.
 
-Most successful Dutch learners combine multiple methods: an app for daily practice, a tutor for speaking, and real-world immersion for everything else. Start with [Babbel](https://www.babbel.com/) today, book your first [italki](https://www.italki.com/) session this week, and commit to speaking a little Dutch every day. In six months, you will be amazed at your progress.
+Most successful Dutch learners combine multiple methods: an app for daily practice, a tutor for speaking, and real-world immersion for everything else. Start with [Babbel](https://go.expatnetherlandshub.com/babbel) today, book your first [italki](https://www.italki.com/) session this week, and commit to speaking a little Dutch every day. In six months, you will be amazed at your progress.
 
 ---
 

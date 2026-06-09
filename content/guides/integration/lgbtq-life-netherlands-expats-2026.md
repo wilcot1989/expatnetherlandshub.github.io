@@ -39,7 +39,7 @@ faq:
   a: Yes. COC Nederland is the national LGBTQ+ organisation with local chapters in most cities. Amsterdam has dedicated expat LGBTQ+ meetups through Meetup.com, Facebook groups, and venues like Cafe Reality and Soho. ILGA-Europe also maintains a resource list for LGBTQ+ migrants and asylum seekers.
 products:
 - name: Babbel
-  url: https://www.babbel.com/
+  url: https://go.expatnetherlandshub.com/babbel
   price: '6.99'
 - name: Meetup
   url: https://www.meetup.com/

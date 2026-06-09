@@ -43,7 +43,7 @@ faq:
   a: While you can survive in the Netherlands with English, especially in Amsterdam, Rotterdam, and The Hague, learning Dutch significantly improves your quality of life. It helps you read official letters and documents, connect more deeply with Dutch colleagues, deal with healthcare and government services more easily, and feel more at home. Most expats who plan to stay long-term find that learning at least basic Dutch is a must.
 products:
 - name: Babbel
-  url: https://www.babbel.com/
+  url: https://go.expatnetherlandshub.com/babbel
   price: '6.99'
 - name: DutchPod101
   url: https://www.dutchpod101.com/
@@ -75,7 +75,7 @@ Even with a Dutch mother, I spent my first year in the Netherlands smiling and n
 
 ## 1. Babbel -- Best Overall for Learning Dutch
 
-[Babbel](https://www.babbel.com/) is our top pick for expats serious about learning Dutch. Unlike one-size-fits-all apps, Babbel builds each language course from the ground up, and its Dutch course is genuinely well-crafted.
+[Babbel](https://go.expatnetherlandshub.com/babbel) is our top pick for expats serious about learning Dutch. Unlike one-size-fits-all apps, Babbel builds each language course from the ground up, and its Dutch course is genuinely well-crafted.
 
 ### What Makes Babbel Stand Out
 
@@ -106,9 +106,9 @@ The app teaches grammar in context rather than through abstract rules. You learn
 
 ### Verdict
 
-If you are going to invest in one paid app, make it Babbel. The quality of the Dutch-specific content justifies the price. [Start your Babbel Dutch course here](https://www.babbel.com/).
+If you are going to invest in one paid app, make it Babbel. The quality of the Dutch-specific content justifies the price. [Start your Babbel Dutch course here](https://go.expatnetherlandshub.com/babbel).
 
-<a href="https://www.babbel.com/" target="_blank" rel="noopener noreferrer" class="cta-affiliate">Start learning Dutch with Babbel →</a>
+<a href="https://go.expatnetherlandshub.com/babbel" target="_blank" rel="noopener noreferrer" class="cta-affiliate">Start learning Dutch with Babbel →</a>
 
 ---
 
@@ -333,7 +333,7 @@ Based on my testing, here is the combination I recommend for expats learning Dut
 
 ### For Serious Learners (Best Results)
 
-1. **[Babbel](https://www.babbel.com/)** for daily structured lessons (15 minutes per day)
+1. **[Babbel](https://go.expatnetherlandshub.com/babbel)** for daily structured lessons (15 minutes per day)
 2. **[Pimsleur](https://www.pimsleur.com/)** for pronunciation and speaking practice (30 minutes, 3-4 times per week)
 3. **italki** for weekly conversation practice with a tutor (1 hour per week)
 4. **Dutch podcasts and TV** for passive immersion (whenever possible)
@@ -481,7 +481,7 @@ After more than a decade living in the Netherlands and working with hundreds of 
 
 There is no single "best" app for everyone. The right choice depends on your learning style, budget, and goals. What matters most is consistency: 15 minutes of daily practice with any of these apps will deliver meaningful results over time.
 
-For most expats in the Netherlands, I recommend starting with [Babbel](https://www.babbel.com/) as your primary learning tool. It offers the best balance of structure, practical content, and Dutch-specific material. Supplement it with [Pimsleur](https://www.pimsleur.com/) for speaking practice and Duolingo for quick daily review sessions.
+For most expats in the Netherlands, I recommend starting with [Babbel](https://go.expatnetherlandshub.com/babbel) as your primary learning tool. It offers the best balance of structure, practical content, and Dutch-specific material. Supplement it with [Pimsleur](https://www.pimsleur.com/) for speaking practice and Duolingo for quick daily review sessions.
 
 Whatever you choose, start today. Your future Dutch-speaking self will thank you.
 

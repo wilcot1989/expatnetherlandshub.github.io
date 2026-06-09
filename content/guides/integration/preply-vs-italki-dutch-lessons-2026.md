@@ -25,7 +25,7 @@ faq:
   a: See the section above on who benefits most from this service or guide.
 products:
 - name: Babbel
-  url: https://www.babbel.com/
+  url: https://go.expatnetherlandshub.com/babbel
   price: '6.99'
 - name: DutchPod101
   url: https://www.dutchpod101.com/
