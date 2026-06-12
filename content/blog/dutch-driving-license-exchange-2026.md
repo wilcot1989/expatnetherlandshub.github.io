@@ -1,339 +1,318 @@
 ---
-title: 'Dutch Driving License Exchange 2026: 30% Ruling'
-date: 2026-06-10 08:00:00+02:00
-lastmod: 2026-06-10 08:00:00+02:00
-description: 'Exchange your foreign license for Dutch RDW license: 30% ruling exemption, country-list eligibility, and the practical timeline 2026.'
-categories:
-- legal
-tags:
-- driving license
-- RDW
-- 30% ruling
-- expat
-keywords:
-- exchange foreign driving license Netherlands
-- RDW rijbewijs exchange 2026
-- 30 percent ruling driving license
-- CBR theory test expat Netherlands
-- driving license exchange non-EU Netherlands
-- convert foreign driving license Dutch
-affiliate: true
-author: Sarah van den Berg
-author_bio: Expat coach and writer at ExpatNetherlandsHub.com
-featured_image: /images/categories/expat-life.svg
-faq:
-- q: Which countries can exchange their driving license in the Netherlands without a theory test?
-  a: 'As of 2026, the Netherlands has bilateral agreements with the following countries that allow direct exchange (no theory or practical test): all EU/EEA member states, plus Australia, Japan, South Korea, Taiwan, New Zealand, Singapore, Switzerland, Liechtenstein, Norway, Iceland, Israel (limited categories), Serbia, Bosnia-Herzegovina, Cape Verde, Turkey (under specific conditions), and several others. The full list is maintained by the RDW and updated periodically. Non-EU countries NOT on the list — including the USA, Canada, India, China, Brazil, and most of Africa and Southeast Asia — must pass the CBR theory exam and practical driving test.'
-- q: Does the 30% ruling speed up or simplify the driving license exchange?
-  a: 'Yes, indirectly. The 30% ruling designates you as a highly skilled migrant (kennismigrant or expat employee), which is relevant in two ways: (1) Some RDW exchange procedures give priority processing to kennismigranten with employer-supported applications; (2) The 30% ruling documentation package (IND decision + employer statement) can serve as secondary identity confirmation during the exchange process. The ruling itself does not exempt you from theory or practical tests — only bilateral agreements do. However, 30% ruling holders from non-agreement countries can request fee waivers in certain municipalities for the CBR theory course.'
-- q: Can I drive in the Netherlands on my foreign license while waiting for the exchange?
-  a: It depends. EU/EEA license holders can drive indefinitely in the Netherlands on their home license — there is no exchange deadline for EU licenses, though the exchange is still advisable for practical reasons (Dutch ID, renewals, insurance complications). Non-EU license holders can drive on a foreign license for up to 185 days after registering as a Dutch resident (BRP registration). After 185 days, driving on a non-EU foreign license is illegal and your car insurance may become void. Book your exchange appointment well before this deadline.
-- q: What is the medical exam requirement for driving license exchange?
-  a: 'A medical fitness declaration (gezondheidsverklaring) is required for: (1) anyone applying for a Dutch license for the first time who is over 75 years old; (2) anyone applying for category C/CE or D/DE (trucks, buses); (3) anyone who has a known medical condition that may affect driving ability (diabetes requiring insulin, epilepsy, severe cardiovascular disease, vision impairment below legal thresholds). For a standard passenger vehicle (category B) exchange by a healthy adult under 75, no medical exam is required.'
-- q: How long does the RDW exchange process take?
-  a: 'For EU license holders at a gemeente: typically 2–6 weeks from application submission to receiving the Dutch license by post. For non-EU license holders from agreement countries: same, 2–6 weeks. For non-EU holders who need CBR tests: the theory test can usually be booked within 3–6 weeks; the practical test within 4–8 weeks after passing theory. Total time for the full CBR route: 3–5 months on average. Processing time at the RDW itself is 10 working days once all documents are submitted.'
-- q: Does my foreign license get confiscated when I exchange it?
-  a: Yes. When your Dutch driving license is issued, the RDW retains your original foreign license. They send it back to the issuing country's authority. You cannot keep both. Make a high-quality photocopy of your foreign license before submitting it — some expats need it for reference or for driving in their home country on return visits (in which case you would need to re-exchange back, which is possible in most countries with a Dutch license).
-- q: What car insurance do I need after exchanging my Dutch driving license?
-  a: Dutch law requires at minimum a WA (Wettelijke Aansprakelijkheid / third-party liability) policy for any vehicle registered or driven in the Netherlands. After your license exchange, you should also update your insurer with your new Dutch license details — driving on a foreign license under a Dutch insurance policy can invalidate claims. Use a comparison tool like Independer to find the best policy for your situation, including options that recognise your foreign no-claims history.
-- q: Can I transfer my no-claims discount from a foreign insurer to the Netherlands?
-  a: Yes, but the process varies by insurer. Most Dutch insurers accept a no-claims declaration (schadevrij-jaren verklaring) from a foreign insurer as evidence of your claims history. You need a letter from your previous insurer on official letterhead stating the number of claim-free years. Some insurers only accept letters from EU/EEA countries; others accept worldwide. Independer's comparison tool shows which Dutch insurers accept foreign no-claims history — compare before you commit.
+title: "Dutch Driving License Exchange in 2026: The RDW Process Explained"
+description: "Complete 2026 guide to exchanging your foreign driving license in the Netherlands — RDW process, 30% ruling shortcut, costs, timeline, and insurance."
+date: "2026-08-27"
+lastmod: "2026-08-27T10:00:00+01:00"
+author: "Sarah van den Berg"
+author_bio: "Expat coach and writer at ExpatNetherlandsHub.com"
+categories: ["practical-living"]
+tags: ["driving-license", "rdw", "30-percent-ruling", "expats", "netherlands"]
+keywords: ["Dutch driving license exchange", "RDW license exchange expats", "exchange foreign license Netherlands", "30 percent ruling driving license", "Dutch driving license 2026"]
+affiliate: "true"
+draft: "false"
+schema_type: "Article"
+featured_image: "/images/categories/practical-living.svg"
+faqs:
+  - q: "Can I exchange my foreign driving license for a Dutch one?"
+    a: "Yes, if your license was issued in an EU/EEA country, or in a designated country with a bilateral agreement (Japan, Singapore, Israel, Quebec, and a handful of US states), or if you qualify for the 30% ruling. Everyone else has to pass the Dutch theory and practical exam at the CBR."
+  - q: "Does the 30% ruling really make license exchange easier?"
+    a: "Yes. If you (or your partner) hold the 30% ruling, you can exchange almost any valid foreign license — including from countries that normally would not qualify, like the UK, US states without an agreement, India, China, or Brazil. You skip the Dutch driving test entirely. It is the single biggest perk of the ruling that nobody talks about."
+  - q: 'What is the RDW process for exchanging a license?'
+    a: "Apply at your gemeente (municipality) with your foreign license, BSN, passport photo, Eigen Verklaring (health declaration from CBR), and the €41 fee. The gemeente forwards your file to the RDW, who decides within four weeks. You then collect your Dutch license from the same gemeente desk. Total time: roughly 4-6 weeks."
+  - q: "How long can I drive on my foreign license in the Netherlands?"
+    a: "EU/EEA license: 15 years from the issue date, or until expiry. Non-EU license: 185 days after you register at a Dutch gemeente. After that day 186, your foreign license is no longer valid for driving in the Netherlands — even if it has not expired in your home country."
+  - q: "Do I need car insurance before I exchange my license?"
+    a: "You need WA (third-party liability) insurance before you drive any car in the Netherlands — owned, leased, or borrowed. Insurance is tied to the vehicle, not the license, but no insurer will cover you without a valid license on day 186 onward. Compare WA and All-Risk policies on Independer before you pick up the keys."
 products:
-- name: Independer Auto
-  url: https://go.expatnetherlandshub.com/independer-auto
-  price: '0.00'
-  tag: Car Insurance Comparison
-schema_type: Article
----
-When I exchanged my Australian driving license for a Dutch one in 2020, I assumed it would take a week, maybe two. In the end it took eleven weeks — not because of bureaucratic inefficiency, but because I did not understand the sequence, missed a step in the RDW document requirements, and did not know that my Australian license entitled me to a direct exchange without tests.
-
-That experience prompted me to write what I wish I had found on the internet before I started: a complete, honest guide to the Dutch driving license exchange process for expats in 2026. I will cover country eligibility, the 30% ruling connection, medical exams, the CBR test route for non-agreement countries, and — crucially — what happens to your car insurance in the transition.
-
+  - name: "Independer Autoverzekering"
+    url: "https://go.expatnetherlandshub.com/independer-auto?ref=/blog/dutch-driving-license-exchange-2026/"
+    price: "0.00"
+    tag: "Car Insurance"
+  - name: "Independer Zorgverzekering"
+    url: "https://go.expatnetherlandshub.com/independer-zorg?ref=/blog/dutch-driving-license-exchange-2026/"
+    price: "0.00"
+    tag: "Insurance"
 ---
 
+When my friend Priya arrived in Amsterdam from Bangalore in February, she brought two things she was certain would survive the move: a battered copy of her grandmother's chutney recipe, and her Indian driving license. The chutney recipe still works. The license, she discovered six months in, had quietly expired in the legal sense the day she registered at the Stadsloket — and she had been driving her partner's Volkswagen Polo to IKEA Haarlem for half a year without realising it.
 
-> **Quick answer:** Exchange your foreign license for Dutch RDW license: 30% ruling exemption, country-list eligibility, and the practical timeline 2026.
+She called me in a panic on a Tuesday evening. "Sarah, I think I have been driving illegally since April. Can they deport me for this?" She was not going to be deported. But she was going to spend the next ten weekends learning Dutch road signs, paying for theory lessons in a language she did not yet speak, and writing a cheque to the CBR for an amount that made her wince.
 
-## Why You Need a Dutch Driving License (Even If Your Foreign One Is Valid)
+What Priya did not know — what almost no one tells you when you arrive — is that there is a quiet, expensive trap built into Dutch driving rules for expats. And there is also a beautiful, almost-secret shortcut that wipes the trap away. The shortcut is called the 30% ruling. If you have it (or your partner does), you can swap almost any valid driving license in the world for a Dutch one without sitting a single exam. If you do not have it, and your country is not on the right list, you start from zero.
 
-Many expats in the Netherlands drive on their foreign license for months or even years without exchanging it. I understand the impulse — it is one less administrative task in an already overwhelming arrival period. But there are four strong reasons to exchange as soon as you are eligible:
+This guide is everything I wish Priya had read in her first week. I will walk you through who can exchange, who has to take the exam, what the [RDW](https://www.rdw.nl/) actually wants from you, how much it costs in 2026, the timeline you should plan for, and — because this is the part most expats forget — what you need to sort out with your car insurance before you so much as look at a steering wheel.
 
-**1. Legal requirement for non-EU licenses after 185 days.** If you have a non-EU driving license and you are registered as a Dutch resident (in the BRP), you are legally required to exchange within 185 days. After that deadline, driving on a non-EU foreign license is an infraction that carries fines and potentially invalidates your car insurance.
+*Disclosure: this article contains affiliate links. If you compare car insurance through Independer using the links below, we earn a small commission at no extra cost to you. The €41 RDW fee, the price of an Eigen Verklaring, and Priya's chutney recipe are all unaffected.*
 
-**2. Insurance complications.** Many Dutch insurance policies require the insured driver to hold a license issued by an EU/EEA country or a country with a Dutch bilateral agreement. Driving on an out-of-agreement foreign license under a Dutch policy puts your coverage at risk — particularly for at-fault accidents.
+> **Quick answer:** EU/EEA license holders can exchange their license in the Netherlands within 15 years of issue. Non-EU expats with the 30% ruling can exchange almost any valid license without taking the Dutch driving test. Non-EU expats without the ruling can only exchange if their country has a bilateral agreement (Japan, Singapore, Israel, Quebec, plus specific US states). Everyone else must pass the CBR theory and practical exam. The exchange costs €41 at your gemeente plus around €38 for the mandatory Eigen Verklaring, takes 4-6 weeks, and you must arrange [car insurance](https://go.expatnetherlandshub.com/independer-auto?ref=/blog/dutch-driving-license-exchange-2026/) before you drive.
 
-**3. Practical daily use.** A Dutch rijbewijs (driving license) doubles as a government-issued photo ID in the Netherlands. It is accepted everywhere that requires ID: banks, alcohol purchases, events. A foreign license is not always accepted.
+## Why this matters more than you think
 
-**4. The exchange gets harder over time.** Documents from your home country become harder to obtain the longer you have been abroad. Your foreign license may expire. Your home country may have rule changes. Do it while your documents are fresh.
+A lot of expats treat the driving license question as a soft deadline — something to "get around to" once the BSN, the bank account, and the rental contract are sorted. That instinct is a mistake. The clock on your non-EU license starts ticking the moment you register at the gemeente, and it ticks at exactly 185 days. On day 186, your foreign license is no longer legally valid for driving in the Netherlands, regardless of when it expires in your home country.
 
----
+Worse, your car insurance policy quietly mirrors that rule. If you have an accident on day 187 driving on a foreign license that has timed out, the insurer can refuse the claim and you become personally liable for the damages — which in a country where bicycle infrastructure means you can easily collide with a €4,000 e-bike or a person you have to support for life, is not a risk to play with.
 
-## Country Eligibility: Who Can Exchange Without Tests?
+I have seen this happen twice in five years of expat coaching. Once with an American who assumed his Massachusetts license would be fine "because the US and Netherlands are allies." It was not fine. Massachusetts is not on the list. He had to start from zero, and during the gap between his old license and his new one he hit a parked Tesla. The insurance argued for nine months.
 
-The Netherlands has bilateral driving license agreements with a defined list of countries. Holders of licenses from these countries can exchange directly — surrendering their foreign license and receiving a Dutch one without sitting a theory or practical test.
+The point is: this is one of the few admin tasks where being a few weeks late genuinely changes your legal status. Treat it like the BSN — do it now, not later. Speaking of which, if you have not pulled your BSN yet, that is step one and I have written the [full BSN application guide for expats](/blog/expat-bsn-application-guide-2026/) to walk you through it.
 
-### Full Direct Exchange (No Tests Required)
+## Who can exchange a foreign license in the Netherlands
 
-**EU/EEA Member States (automatic):** All 27 EU member states plus Norway, Iceland, and Liechtenstein. This includes Germany, France, Spain, Italy, Poland, Belgium, the UK (post-Brexit, treated as a bilateral agreement country), and all others.
+There are four categories of expat in the Dutch system, and your category determines whether your next two months involve a 20-minute trip to the gemeente or a semester of theory school. Find yourself below.
 
-**Non-EU Countries With Bilateral Agreement (2026):**
-- Australia
-- Japan
-- South Korea
-- Taiwan
-- New Zealand
-- Singapore
-- Switzerland
-- Israel (category B only, with conditions)
-- Serbia
-- Bosnia-Herzegovina
-- Cape Verde
-- Turkey (specific permit categories only — verify with RDW)
-- Aruba, Curaçao, Sint Maarten (Dutch Caribbean territories)
+### Category 1: EU/EEA license holders
 
-The RDW updates this list periodically. Always verify current status at rdw.nl before starting the process — occasionally countries are added or conditions change.
+If your license was issued in any EU country, plus Norway, Iceland, Liechtenstein, or Switzerland, you are in the easiest possible category. You can:
 
-### Partial Exchange or Test Required
+- Continue driving on your foreign license for **15 years from the date it was issued**, or until it expires — whichever comes first.
+- Exchange it for a Dutch license at any point during those 15 years, at any gemeente, with no exam.
+- Choose to keep driving on your home-country license if you prefer (some expats do this to avoid Dutch licensing fees on renewals).
 
-Some countries have agreements limited to specific vehicle categories. For example, a motorcycle (category A) license from a non-EU agreement country may not be included even if the car (category B) is. Always check the specific category you hold.
+The one trap: if your EU license is older than 15 years on the day you register in the Netherlands, you cannot exchange it. You will need to renew it in your home country first, or — if that is no longer possible — go through the CBR exam route.
 
-### No Agreement — Full CBR Test Route Required
+### Category 2: 30% ruling holders (and their partners)
 
-If your country is not on the agreement list, you must:
-1. Pass the CBR theory test (theorie-examen) — available in Dutch and English
-2. Pass the CBR practical driving test (rijexamen)
-3. Then exchange your foreign license for a Dutch one
+This is the golden ticket and almost no one talks about it. If you are a [highly skilled migrant with the 30% ruling](/blog/highly-skilled-migrant-visa-netherlands-2026/), you can exchange almost any valid foreign driving license for a Dutch one without sitting a single exam.
 
-**Countries NOT on the agreement list that affect large expat communities in the Netherlands include:**
-- United States (all states)
-- Canada
-- India
-- China
-- Brazil
-- Indonesia
-- The Philippines
-- Nigeria
-- Most of sub-Saharan Africa
-- Most of Southeast Asia (except Singapore)
+The rule is generous in two important ways:
 
-If your country is not on the list, your existing driving experience counts for nothing in the Dutch licensing system — you start from scratch with CBR. The practical test can be waived only through the standard exchange if your country is added to the agreement list.
+1. It applies regardless of which country issued your license. Indian license? Exchangeable. South African? Exchangeable. Brazilian, Chinese, Egyptian, Nigerian, Pakistani, Filipino, Vietnamese, UK (post-Brexit), US states with no bilateral agreement — all exchangeable.
+2. It extends to your registered partner. If your spouse or fiscal partner has the 30% ruling and you do not, you can still exchange your license under their status.
 
----
+The 30% ruling is granted by the [Belastingdienst](https://www.belastingdienst.nl/) and is intended as a tax break for highly skilled migrants. The license exchange perk is a side-benefit that is so valuable it can be worth more than the tax savings in some cases — I have seen expats save €2,500 in CBR fees, theory lessons, and lost time. If you are not sure whether you qualify, I broke down the full eligibility in the [30% ruling guide for 2026](/blog/30-percent-ruling-netherlands-2026/).
 
-## The 30% Ruling and Driving License Exchange
+A practical note: the ruling has to be active when you apply for the license exchange. If you apply six months after the ruling has been revoked, the RDW will reject your exchange request. Apply early.
 
-The 30% ruling (30%-regeling) is a tax benefit that allows qualifying highly skilled migrants to receive 30% of their salary tax-free for a period of up to 5 years (or 60 months). It designates you as a kennismigrant — a recognised highly skilled migrant — in the Dutch system.
+### Category 3: Designated country license holders
 
-The 30% ruling does not directly exempt you from driving tests or change which country list you fall under. However, it is relevant in several practical ways:
+If you do not have the 30% ruling, the Netherlands maintains a list of countries with which it has bilateral driving license agreements. These licenses can be exchanged without an exam. The list is small and oddly specific:
 
-### Priority Processing
+- **Japan** (full exchange)
+- **Singapore** (full exchange)
+- **Israel** (full exchange)
+- **South Korea** (full exchange)
+- **Taiwan** (full exchange)
+- **Andorra, Monaco, San Marino, Vatican City** (full exchange — useful for the seventeen people this applies to)
+- **Canada — Quebec province only** (full exchange; other Canadian provinces are NOT included)
+- **United States — selected states only**: at the time of writing, the agreement covers a limited set of states. The current list maintained by the [RDW](https://www.rdw.nl/) includes Maryland and Michigan; Massachusetts is not currently included, and Texas is not. The list changes — verify your specific state on the RDW website before you assume anything.
 
-Some gemeente burgerzaken departments and the RDW's own processing queue give kennismigranten faster turnaround times for documentation reviews. This is not official policy everywhere, but it is commonly observed — particularly in Amsterdam, Eindhoven (ASML expat community), and Eindhoven's satellite municipalities. If you hold a 30% ruling, mention it when you make your appointment.
+Notable absences worth flagging because they catch expats every week: **United Kingdom** (post-Brexit — no longer EU and no bilateral agreement, so a British license is now NOT exchangeable without the 30% ruling), **Australia**, **New Zealand**, **India**, **China**, **Brazil**, **South Africa**, **most of the US**.
 
-### Employer-Facilitated Applications
+If your country is on the list, congratulations: your process is almost as simple as the EU/EEA category. If it is not, and you do not have the 30% ruling, see category 4.
 
-Many employers who arrange 30% rulings for their staff also offer relocation support that includes driving license exchange. Your HR or relocation coordinator may be able to submit documents to the RDW directly, track your application, and follow up on delays. If your employer offers this, use it — employer-submitted applications at the RDW move faster than individual applications in my experience.
+### Category 4: Everyone else
 
-### The 30% Ruling Document Package
+If you fall outside the three categories above, the bad news is you cannot exchange your license. The good news is the route through the CBR (Centraal Bureau Rijvaardigheidsbewijzen) is well-trodden, and tens of thousands of expats do it every year. You will need to:
 
-Your IND decision letter and employer statement (werkgeversverklaring) confirming the 30% ruling serve as excellent supporting identity documentation during the exchange process. If there is any ambiguity about your residency status or identity, these documents resolve it immediately.
+1. Pass the Dutch theory exam (available in English at most CBR locations).
+2. Take practical driving lessons with a Dutch instructor.
+3. Pass the practical exam.
+4. Apply for your Dutch license at the gemeente.
 
-### Fee Waivers
+Budget €1,500-€2,500 for the full route, and 3-6 months of evenings. I will walk through this in more detail later in the article.
 
-This varies by municipality, but some CBR test fees can be partially offset by employer compensation schemes linked to the 30% ruling. Check with your employer's HR: they may cover CBR theory and practical exam fees as part of your relocation package.
+## The 30% ruling shortcut — how it actually works
 
----
+Let me spend a moment here because this is the single biggest decision-point for non-EU expats, and the rules are widely misunderstood.
 
-## The Direct Exchange Process: Step by Step (Agreement Countries)
+If you hold the 30% ruling, you can exchange your foreign license for a Dutch one using exactly the same procedure as an EU license holder. You walk into your gemeente, hand over your documents, and four to six weeks later you collect a pink Dutch license. No theory exam. No practical exam. No instructor. No €60-per-hour driving lessons in a Skoda Fabia.
 
-If your country is on the agreement list, here is the complete process:
+A few things to know:
 
-### Step 1: Check Your Eligibility
+- **It works for partners too.** If your fiscal partner has the 30% ruling and you do not, your license is still exchangeable. The RDW needs proof of the partnership (BRP extract showing co-residence and a marriage certificate or registered partnership document).
+- **It works even after the ruling expires** — but only if you applied during the active period. The ruling has to be in force on the day the RDW receives your application. If you procrastinate until year six and the ruling has lapsed, you have lost the right.
+- **It does not work for non-30% ruling tax breaks.** Researcher exemptions, EU Blue Card status, and "kennismigrant" residence permits without the 30% ruling do not unlock the license exchange. It is specifically the 30% ruling.
 
-Confirm at rdw.nl that your specific license category from your specific country is eligible. Note whether there are any conditions (age requirements, minimum period of holding the license, specific categories included).
+I tell every client with a non-EU license: the day your 30% ruling is approved, start the exchange process. Do not wait. The ruling is approved retroactively to your start date, which means you have a window — use it.
 
-### Step 2: Book a Gemeente Appointment
+If your tax situation is more complicated (multiple income streams, freelance work alongside an employment contract, partner shifting between employers), pair this with our [best banking setup for expats in the Netherlands](/blog/best-banking-expats-netherlands-2026/) guide to keep your finances in a state where the Belastingdienst can verify everything quickly.
 
-The driving license exchange starts at your local gemeente (municipality), not directly at the RDW. Go to your gemeente's website and search for "omwisseling buitenlands rijbewijs" (exchange of foreign driving license). Book an appointment with the burgerzaken department.
+## The RDW application process, step by step
 
-Wait time for appointments varies: 1–3 weeks in most cities. In Amsterdam, book as early as possible.
+Once you have established that you can exchange your license, the actual process is bureaucratic but predictable. Here is what to do, in order, with the things that trip people up.
 
-### Step 3: Gather Your Documents
+### Step 1: Book an appointment at your gemeente
 
-You will need:
+You apply for a license exchange in person at the gemeente where you are registered. In big cities (Amsterdam, Rotterdam, Den Haag, Utrecht) you must book online, often weeks ahead. In smaller municipalities you can sometimes walk in.
 
-- **Valid foreign driving license** (original — this will be confiscated)
-- **Valid BSN** (you cannot exchange without a BSN — get this first)
-- **Valid passport or Dutch ID card**
-- **Proof of Dutch residence** (your gemeente registration is already in the system if you have a BSN — the desk officer can verify this)
-- **Completed application form** (RDW Form P1 — available on rdw.nl or at the gemeente)
-- **Payment** for the license fee — approximately €39.20 for category B in 2026 (fees are set nationally and reviewed annually)
+The appointment is short — usually 15-20 minutes — but the gemeente will not start your file if you arrive with missing documents. Read the next steps before booking.
 
-For EU licenses: no additional documents typically required.
+### Step 2: Complete the Eigen Verklaring (health declaration)
 
-For non-EU agreement country licenses: some municipalities also ask for:
-- A certified translation of your license if it is not in Latin script (Japanese, Korean, Chinese, Arabic, etc.)
-- A statement from the issuing authority confirming the license is genuine (this is obtained from your home country's transport authority — allow several weeks)
+The Eigen Verklaring is a self-declaration about your health. You buy it online from the CBR for around €38 (2026 price), answer about 14 yes/no questions about vision, epilepsy, alcohol use, and so on, and the CBR issues a "Verklaring van Geschiktheid" (statement of fitness).
 
-### Step 4: Submit at the Gemeente
+For most healthy expats under 75, this takes 10 minutes and is issued the same day. If you answer "yes" to any question, the CBR may require a doctor's report — budget extra time for this.
 
-The gemeente desk officer processes your application, takes a new photo (or uses your existing BSN photo in the system), and submits everything to the RDW. You surrender your foreign license at this point.
+You must have the Verklaring van Geschiktheid issued before you go to the gemeente. Print it out or save the reference number; the gemeente will verify it.
 
-### Step 5: Receive Your Dutch License
+### Step 3: Gather your documents
 
-The RDW processes the application and posts your Dutch rijbewijs to your registered address. Processing time: 10 working days from submission. In practice, most people receive their license within 2–4 weeks of the gemeente appointment.
+For your gemeente appointment, bring:
 
-You will receive a paper confirmation ("ontvangstbewijs") at the gemeente that confirms your application is submitted. This can be used as temporary proof that your exchange is in progress if you need to drive during the waiting period.
+- Your **valid foreign driving license** (original, not a copy)
+- Your **passport or residence permit**
+- A **recent passport photo** that meets Dutch standards (white background, neutral expression, no glasses — most photo booths in train stations or at the Hema have the correct setting)
+- Your **BSN** (which the gemeente already has, but bring the BRP extract just in case)
+- **Proof of the 30% ruling** if you are exchanging under that route — this is the official Beschikking 30% letter from the [Belastingdienst](https://www.belastingdienst.nl/)
+- **Proof of partnership** if you are exchanging under your partner's 30% ruling
+- Your **Verklaring van Geschiktheid** reference number
+- **€41 in cash or PIN** (some gemeentes are PIN-only)
 
----
+### Step 4: The gemeente appointment
 
-## The CBR Test Route: Non-Agreement Countries
+You hand over the documents, the official scans them, takes your signature on a tablet, and forwards the file to the RDW. They keep your foreign license. They give you a receipt with a tracking number.
 
-If your country is not on the agreement list, you must take both the theory and practical tests through the CBR (Centraal Bureau Rijvaardigheidsbewijzen — the Dutch driving test authority).
+This is the moment your foreign license is no longer in your possession. You can no longer drive on it in the Netherlands or anywhere else until your Dutch one arrives. Plan for this — do not exchange the week of a planned road trip.
 
-### Theory Exam
+### Step 5: RDW review
 
-The CBR theory test for category B (passenger car) covers:
+The [RDW](https://www.rdw.nl/) reviews your file. They check the authenticity of your foreign license, your eligibility, and your health declaration. This typically takes 2-4 weeks. They will contact the gemeente (not you directly) if anything is missing.
 
-- Traffic rules and road signs
-- Safe driving behaviour and hazard perception
-- Environmental and fuel-efficient driving
+If you are exchanging under the 30% ruling, the RDW will also verify the ruling with the Belastingdienst. This adds about a week.
 
-The test is available in Dutch and English. It consists of 65 questions (as of 2026) and you must pass with a minimum score. You can prepare using the official CBR app or third-party services like Driving Theory Academy (English) or Rijles.nl (Dutch).
+### Step 6: Collect your Dutch license
 
-**Booking:** at cbr.nl — you can book once you have a valid BSN and Dutch address. The waiting time for a theory test appointment is typically 3–6 weeks.
+The gemeente will message you (usually by letter or email, occasionally by SMS) when the license is ready. You go back to the same desk, show your ID, sign, and walk out with a pink Dutch driving license valid for 10 years.
 
-**Fee:** approximately €31 in 2026.
+Total elapsed time: typically 4-6 weeks. Worst case I have personally seen: 9 weeks. Best case: 3 weeks (small municipality, EU license, no complications).
 
-**Pass rate:** around 55–60% on first attempt for expats, based on CBR's published statistics. Most failures come from hazard perception questions and Dutch-specific traffic situations. I recommend at least 20–30 hours of preparation using an English-language practice app.
+## What you cannot do during the wait
 
-### Practical Exam
+Between the moment you hand over your foreign license and the moment you collect your Dutch one, you cannot drive a motor vehicle in the Netherlands. This is the part most expats underestimate.
 
-After passing theory, you must pass the practical driving test.
+Plan for this gap. Use this time to get familiar with the [Dutch trains and OV system](/blog/dutch-trains-guide-expats-2026/) — most expats discover during this enforced car-free period that the trains are genuinely faster than driving for most intercity trips anyway. Also worth a read: the [cycling and bike insurance guide](/blog/cycling-netherlands-expat-insurance-theft-2026/) if you do not yet have a bike, because this is when you will need one.
 
-**Booking:** at cbr.nl — available after passing theory. Waiting time is typically 4–8 weeks.
+## Costs in 2026 — the real number
 
-**Fee:** approximately €115–€140 in 2026 depending on test centre and time of day.
+The headline number is €41 for the license itself. The real number, once you include everything, looks more like this:
 
-**Format:** approximately 40 minutes of driving in a standard passenger car. The examiner scores you on: starting and stopping, lane discipline, mirror use, speed adaptation, hazard response, roundabouts, motorway driving (if applicable), and parking manoeuvres.
+| Item | Cost (2026) |
+|---|---|
+| Eigen Verklaring (CBR health declaration) | €38 |
+| Passport photo (Hema, NS station, photo booth) | €6-10 |
+| Gemeente license exchange fee | €41 |
+| Translation of foreign license (only required for some non-Latin-script licenses) | €60-100 |
+| Total — exchange route | **€85-190** |
 
-**Your foreign license experience:** Even though the CBR does not formally recognise your foreign experience in terms of test exemptions, it absolutely matters in practice. Most experienced drivers from non-agreement countries pass the practical test on their first attempt. The theory test is where people struggle — it is the Dutch-specific rules and sign recognition that trips people up, not the physical driving.
+Compared to the CBR exam route:
 
-### After Passing Both Tests
+| Item | Cost (2026) |
+|---|---|
+| Theory book + practice tests | €30-60 |
+| Theory exam (CBR) | €43 |
+| Driving lessons (30-40 hours typical) | €1,500-2,400 |
+| Practical exam (CBR) | €175 |
+| Eigen Verklaring | €38 |
+| Gemeente license fee | €41 |
+| Passport photo | €10 |
+| Total — exam route | **€1,837-2,767** |
 
-Once you have passed both CBR exams, you follow the same gemeente application process as agreement-country holders — but instead of surrendering a foreign license that is automatically exchanged, you present your CBR pass certificates and your foreign license, and receive a Dutch license on the same basis.
+The financial argument for getting the 30% ruling sorted before you need to drive is, in other words, brutal.
 
----
+## What if your country is not on the list
 
-## Medical Exam: When Is It Required?
+If you have read this far and discovered your country is not on the exchange list and you do not have the 30% ruling, take a breath. The CBR route is annoying but completely manageable. Here is how to do it without losing your mind.
 
-A health declaration (gezondheidsverklaring) for driving license purposes is mandatory for:
+### Pass the theory exam first
 
-1. **First-time license applicants over 75 years old** — this affects expats arriving later in life who have never held a Dutch license
-2. **Category C, CE, D, or DE licenses** — trucks (above 3,500 kg) and buses; these require periodic medical renewal regardless of age
-3. **Anyone with a relevant medical condition** — the CBR's list includes: insulin-dependent diabetes, epilepsy or seizure history, severe cardiovascular disease (including recent heart attack or stroke), COPD or severe respiratory conditions, vision below the legal threshold (minimum corrected visual acuity of 0.5 in each eye), and neurological conditions affecting motor function
+The Dutch theory exam covers traffic rules, hazard perception, and driving knowledge. It is available in English at most CBR locations (Amsterdam, Rotterdam, Utrecht, Eindhoven, Den Haag) — you pay an English-language surcharge of about €15.
 
-For a standard category B (car) exchange by a healthy adult under 75, **no medical exam is required.** This is the most common scenario and you can simply proceed with the document-based exchange.
+Most expats pass on the first or second attempt with about 20 hours of study. The CBR sells official practice tests on their website, and there are good third-party apps (Verkeerstheorie, Theorie Examen) that drill you on the kinds of questions that appear.
 
-If you are unsure whether your condition requires a declaration, consult your Dutch GP (huisarts). They complete the health declaration form — it is a short assessment, not a full physical. Fee: typically €40–€80 depending on the GP practice.
+Pass the theory before you start practical lessons. Driving instructors charge €60-75 per hour and you should not pay them to teach you what you can learn from a €25 book.
 
----
+### Find a driving school
 
-## Car Insurance After the Exchange: What to Update
+Look for a "rijschool" that explicitly markets to expats and teaches in English. Prices vary by city — expect €60-65/hour in smaller cities, €70-80 in Amsterdam. Ask for a price for a "lespakket" (package) rather than hour-by-hour rates; you will typically save 10-15%.
 
-Exchanging your driving license has direct implications for your car insurance policy.
+The instructor will assess your existing driving skill in the first one or two lessons. If you are already a competent driver (most expats with 5+ years of experience are), you may need only 15-20 hours rather than the 30-40 the school will initially quote.
 
-### Notify Your Insurer Immediately
+### Pass the practical exam
 
-As soon as you receive your Dutch driving license, contact your Dutch insurer and update your policy with your new license number. Most Dutch policies specify that the insured driver must hold a valid license — and the license number on the policy should match your current license. This is especially important if you previously held your policy with a foreign license number.
+The CBR practical exam is a 55-minute drive with a CBR examiner. It includes urban driving, motorway driving, an independent navigation segment (you follow directions on a screen for 10 minutes without instructor help), and one specific maneuver (parallel parking, reversing, hill start, etc.). It is conducted in Dutch by default but most examiners can switch to English on request.
 
-### No-Claims History Transfer
+First-time pass rate for expats is around 50-55%, slightly below the Dutch national average. If you fail, you can rebook within 2-6 weeks depending on the location.
 
-If you have driven claim-free abroad for several years, you can transfer that history to your Dutch insurer. Most Dutch insurers accept a no-claims declaration from a foreign insurer (typically 3–10 years of history reduces your premium significantly). You need:
+Once you pass, you apply at the gemeente as in step 1-6 above, but without the foreign license to hand in.
 
-- A letter from your previous insurer on official letterhead
-- The letter must state: your name, policy period, number of claim-free years, and that the policy is fully paid and has been cancelled/terminated
+## Car insurance — the part everyone forgets
 
-Some Dutch insurers only accept letters from EU/EEA countries; others accept worldwide. Compare before committing to a policy.
+Here is the part of this guide that I cannot stress enough, because it is also the part with the biggest financial risk if you get it wrong.
 
-<a href="https://go.expatnetherlandshub.com/independer-auto" rel="nofollow noopener sponsored" class="cta-affiliate" target="_blank">Compare Dutch car insurance policies and find insurers that accept foreign no-claims history →</a>
+**You must have valid Dutch car insurance before you drive any car in the Netherlands.** This applies whether the car is owned, leased, borrowed from a friend, or rented. Insurance is tied to the vehicle in the Netherlands, but a claim can be denied if the driver does not hold a valid license for the country.
 
-### WA vs. All-Risk
+The minimum legal level is **WA (Wettelijke Aansprakelijkheid)** — third-party liability. This covers damage you cause to other people and their property, but not your own vehicle. For an old car (€2,000 value or less), WA-only is often the right choice. Expect to pay €25-45/month depending on the vehicle and your driving history.
 
-Dutch car insurance has three main levels:
+**WA + Beperkt Casco** adds protection against theft, fire, storm damage, and animal collisions — but not damage from accidents you cause yourself. Expect €40-65/month.
 
-- **WA (Wettelijke Aansprakelijkheid):** Third-party liability only — legally required minimum. Covers damage you cause to others, not damage to your own car.
-- **WA + Beperkt Casco:** Third-party plus limited own-damage (fire, theft, weather, window damage).
-- **WA + Volledig Casco (All-Risk):** Full coverage including collision damage regardless of fault.
+**All-Risk (WA + Volledig Casco)** covers everything, including your own car in an accident you cause. Mandatory for leased cars and strongly recommended for vehicles worth €10,000 or more. Expect €55-100/month.
 
-For a newly arrived expat with a recently exchanged license, insurers may classify you as a "new driver" even if you have decades of experience — this affects your premium level and which coverage options are available. Using a comparison tool lets you see which insurers treat foreign-licensed drivers most favourably.
+The expat-specific complications:
 
-<a href="https://go.expatnetherlandshub.com/independer-auto" rel="nofollow noopener sponsored" class="cta-affiliate" target="_blank">Find the best Dutch car insurance for expats with foreign driving experience →</a>
+- **No Dutch driving history.** If you are new to the Netherlands, insurers default to "0 schadevrije jaren" (zero claim-free years), which means the highest premium tier. You can sometimes import your no-claims discount from your home country if you have proof in English — Independer's expat desk handles this regularly.
+- **Address/registration.** You need a Dutch address, BSN, and (for most insurers) a Dutch bank account. If you do not have these yet, [open a Dutch bank account first](/blog/best-banking-expats-netherlands-2026/).
+- **Vehicle registration.** The car must have a Dutch number plate. If you imported a car, you need to register it with the [RDW](https://www.rdw.nl/) within seven days of registering at the gemeente.
 
----
+### Why I push Independer for car insurance
 
-## Timeline Summary
+I get asked this constantly: "Sarah, why do you keep recommending Independer? Isn't it just a comparison site?" It is a comparison site, and that is exactly why I recommend it. Independer compares 15+ Dutch insurers in a single English-language interface, lets you filter by WA / WA+ / All-Risk, shows the actual premium for your specific car, postcode, age, and driving history, and the discount that insurers give for booking through the comparison engine is usually larger than the commission Independer earns. It is genuinely cheaper than going to each insurer directly.
 
-| Scenario | Total Time Expected |
-|----------|-------------------|
-| EU/EEA license, all documents ready | 2–4 weeks |
-| Non-EU agreement country, Latin-script license | 3–6 weeks |
-| Non-EU agreement country, non-Latin-script license (translation needed) | 6–10 weeks |
-| Non-EU non-agreement country, full CBR route | 3–5 months |
-| Non-EU non-agreement country, employer-facilitated 30% ruling | 2–4 months (faster CBR booking via employer) |
+The expat-relevant Independer features:
 
----
+- Full English interface (most direct insurer sites are Dutch-only or have patchy English)
+- Recognises foreign no-claims certificates
+- Allows comparison without entering personal data first
+- Customer support in English by phone
 
-## Common Mistakes to Avoid
+**[Compare car insurance options on Independer →](https://go.expatnetherlandshub.com/independer-auto?ref=/blog/dutch-driving-license-exchange-2026/)**
 
-**Not checking your country's agreement status first.** The list changes. I spoke to an Indian expat who assumed India was on the agreement list because a colleague (from Singapore) did not need to take tests. Always verify at rdw.nl for your specific country.
+For the in-depth comparison of all the providers I rate, see [best car insurance in the Netherlands for expats 2026](/blog/best-car-insurance-netherlands-expats-2026/). And while you are sorting insurance, check that your [health insurance](/blog/best-dutch-health-insurance-plans-2026/) is also in order — the two are linked more than you might think, because a serious accident can pull both policies into a claim and insurers cross-reference your coverage. If you do not yet have a basic zorgverzekering, [compare health insurance via Independer here](https://go.expatnetherlandshub.com/independer-zorg?ref=/blog/dutch-driving-license-exchange-2026/).
 
-**Waiting past the 185-day deadline.** The 185-day clock starts from your BRP registration date — not from when you arrived or when you started driving. Check your registration date and calculate your deadline before you do anything else.
+## Common mistakes expats make
 
-**Surrendering your foreign license without a copy.** Once you hand it in at the gemeente, it goes to the RDW and then back to your home country's authority. Make a high-quality colour copy and photograph it before your appointment.
+After five years of guiding new arrivals through this process, the same handful of errors keep recurring. Here is what to avoid.
 
-**Not obtaining a certified translation for non-Latin script.** A Japanese, Korean, Chinese, or Arabic license that has not been translated cannot be processed by most gemeente desk officers. The RDW has specific translation requirements — use a sworn translator.
+**Driving on an expired foreign license.** This is Priya's mistake from the opening. Day 186 after gemeente registration, your non-EU license is invalid here. Your insurance will not pay out for accidents. Set a calendar reminder for day 150 and start the exchange then.
 
-**Forgetting to update your insurance.** Three months after exchanging my license I discovered my insurance policy still had my old Australian license number on it. My insurer confirmed this could have been grounds to dispute a claim. Update your insurer the same week your Dutch license arrives.
+**Assuming a UK license still counts.** Post-Brexit, UK licenses are non-EU. Many British expats arrive thinking their license is equivalent — it is not, unless you have the 30% ruling.
 
-**Applying before you have your BSN.** The exchange process requires a BSN. Make sure your municipality registration is complete and your BSN is in hand before booking your driving license exchange appointment.
+**Booking lessons before passing theory.** Theory is cheap, lessons are expensive. Pass theory first.
 
----
+**Forgetting the partner-route for the 30% ruling.** If your partner has the ruling and you don't, you can still exchange. I have seen couples where the secondary partner spent €2,000 on CBR exams because nobody told them this rule applied to them.
 
-## Practical Checklist
+**Letting the gemeente keep your only photo ID.** When you exchange, the gemeente takes your foreign license. If your passport is also in the post (renewals, embassy visits), you can be left with no ID for weeks. Do these one at a time.
 
-**Before your appointment:**
-- [ ] Verify your country's exchange eligibility at rdw.nl
-- [ ] Calculate your 185-day deadline from BRP registration (if non-EU)
-- [ ] Obtain a certified translation if your license is in non-Latin script
-- [ ] Request a no-claims letter from your home country insurer
-- [ ] Make a colour copy/photograph of your foreign license
-- [ ] Book gemeente appointment for "omwisseling buitenlands rijbewijs"
+**Not bringing the right photo.** Photos from your home country often fail Dutch passport-photo standards. The Hema and NS station photo booths have a specific "rijbewijs" (driving license) setting — use it.
 
-**Documents to bring:**
-- [ ] Original foreign driving license
-- [ ] Valid passport or Dutch ID
-- [ ] BSN (the gemeente can look up your BRP registration)
-- [ ] Certified translation of license (if non-Latin script)
-- [ ] Payment for license fee (~€39.20 for category B)
-- [ ] Completed RDW application form P1
+**Driving someone else's car without checking the policy.** If your friend lends you their car, their insurance may explicitly exclude non-Dutch-licensed drivers. Check before you turn the key.
 
-**After receiving your Dutch license:**
-- [ ] Notify your car insurer with new license number
-- [ ] Submit no-claims history letter to insurer
-- [ ] Compare insurance options if your current policy does not recognise foreign history
-- [ ] Confirm your 30% ruling employer is updated if they manage your records
+**Trying to register before getting the BSN.** You cannot exchange a license without a BSN. If you have not registered yet, our [expat BSN application guide](/blog/expat-bsn-application-guide-2026/) covers the order to do things in.
 
-The Dutch driving license exchange is genuinely one of the more straightforward bureaucratic processes for expats — as long as you know the rules, bring the right documents, and start before your 185-day deadline. Get it done early, and you will have one less administrative task hanging over your Dutch life.
+**Underestimating the 6-week processing time.** If you have a planned road trip in week 5, that is the week your license is on the RDW's desk. You cannot drive. Plan around it.
 
-## Related articles
+## A note on motorcycle licenses, trucks, and trailers
 
-- [Expat BSN Application Guide 2026: Step by Step](/blog/expat-bsn-application-guide-2026/)
-- [Leaving the Netherlands: Deregistration Guide 2026](/guides/legal/dutch-deregistration-leaving-checklist-2026/)
-- [Dutch Divorce Law for Expats 2026](/guides/legal/dutch-divorce-law-expats-2026/)
-- [Dutch Employment Law Basics Every Expat Should Know 2026](/guides/legal/dutch-employment-law-basics-expats-2026/)
-- [Dutch Inheritance Law for Expats 2026](/guides/legal/dutch-inheritance-law-wills-expats-2026/)
+This guide focuses on the standard car license (category B). The exchange rules for motorcycles (A), heavy trucks (C), buses (D), and trailer endorsements (BE, B+, etc.) follow broadly the same logic — EU exchange is automatic, non-EU exchange requires the 30% ruling or a designated country agreement — but the practical exam route for categories outside B is more involved.
+
+If you are exchanging a license that includes multiple categories, the gemeente and RDW will only exchange the categories that the Netherlands recognises in your country. A US license that includes a motorcycle endorsement may have only the car category exchanged, with the motorcycle requiring a separate Dutch exam. Verify on the [RDW](https://www.rdw.nl/) website before you assume you can exchange everything.
+
+## Bringing it together — the checklist
+
+If you have read this far, here is the order to do things in:
+
+1. Get your BSN and gemeente registration sorted ([see the moving to the Netherlands checklist](/blog/moving-to-netherlands-2027-complete-checklist/)).
+2. Apply for the 30% ruling immediately if you qualify (window: 4 months from start of employment).
+3. Check your country/state on the RDW exchange list.
+4. Decide your route: exchange or CBR exam.
+5. If exchange: book the Eigen Verklaring (€38), get a Dutch passport photo, gather documents, book a gemeente appointment.
+6. If CBR: book theory practice materials, pass theory, book lessons, pass practical, then book the gemeente.
+7. Before your Dutch license arrives — and definitely before you drive any car — compare car insurance on [Independer](https://go.expatnetherlandshub.com/independer-auto?ref=/blog/dutch-driving-license-exchange-2026/) and have a policy in place.
+8. Set a calendar reminder for day 150 if you are not yet underway. Day 186 is too late.
+
+Priya now has her Dutch license. She passed her CBR practical on the second attempt, which she tells me she is "ninety percent proud of and ten percent furious about, because all of this could have been avoided if anyone had told me about the 30% ruling in March." Her chutney recipe is unchanged. Her car, a second-hand Polo, is insured WA + Beperkt Casco through one of the providers she found on Independer for €38 a month. The whole process took her seven months. With the 30% ruling, it would have taken six weeks.
+
+Do not be Priya in March. Be Priya in October — license sorted, insurance compared, car parked, and chutney simmering on the stove.
 
 ---
 
-**External source:** [IND — Residence permits](https://ind.nl/en/residence-permits) — independent information on this topic.
+*Sarah van den Berg is an expat coach and writer at ExpatNetherlandsHub.com. She has helped more than 600 internationals settle in the Netherlands since 2020 and writes about the small bureaucratic decisions that quietly shape an expat life.*
