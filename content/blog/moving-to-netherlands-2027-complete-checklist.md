@@ -2,7 +2,8 @@
 title: "Moving to the Netherlands 2027: Complete Checklist"
 description: "The exact step-by-step I'd give anyone moving to the Netherlands in 2027 — visa, BSN, housing, banking, insurance, work, and timing."
 date: 2026-08-14
-lastmod: 2026-08-14T10:00:00+01:00
+lastmod: 2026-06-15T10:00:00+01:00
+last_updated: 2026-06-15
 author: "Sarah van den Berg"
 author_bio: "Expat coach and writer at ExpatNetherlandsHub.com"
 categories: ["relocation"]
@@ -248,6 +249,10 @@ If you are moving in January or February 2027 and reading this in summer or autu
 3. **Bookmark [HousingAnywhere](https://go.expatnetherlandshub.com/housinganywhere?ref=/blog/moving-to-netherlands-2027-complete-checklist/){:target="_blank" rel="nofollow sponsored noopener"} for mid-term housing** and start the search no later than 90 days before your flight, and line up a [SafetyWing](https://go.expatnetherlandshub.com/safetywing?ref=/blog/moving-to-netherlands-2027-complete-checklist/){:target="_blank" rel="nofollow sponsored noopener"} policy to cover the gap between arrival and your Dutch zorgverzekering kicking in.
 
 Do those three things this week and you will sleep better for the next six months. Everything else in this guide flows from them.
+
+### One tool to hold the whole timeline
+
+The checklist above is long. The real version, with sub-tasks per gemeente and per family member, is even longer — I usually end up with somewhere between 50 and 80 individual to-dos by the time everything is mapped out. For tracking all of that without losing a thread, I now point readers at [verhuisplanner.app](https://verhuisplanner.app). It is a free Dutch relocation planning tool that breaks the move into a timeline checklist by week, with reminders for the items that have legal deadlines (gemeente registration within 5 days, zorgverzekering within 4 months, 30% ruling within 4 months of contract start). It will not replace the judgement calls — those are still yours — but it stops the small things from falling between the cracks.
 
 I will not pretend the Dutch system is friction-free. It is not. But it is one of the most navigable in Europe if you respect the order of operations, and the country itself is — once you are past the paperwork — one of the genuinely good places to build a life. I have lived here long enough to be unromantic about it, and I still would not choose anywhere else.
 
