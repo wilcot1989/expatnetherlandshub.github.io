@@ -1,8 +1,8 @@
 ---
-title: Best ETF Platforms Netherlands for Expats 2026
+title: 'Best ETF Platforms Netherlands 2026: 6 Compared (Fees)'
 date: 2026-03-22 10:00:00+01:00
-lastmod: 2026-04-23 10:00:00+01:00
-description: 'Best ETF platforms for expats in the Netherlands 2026: DEGIRO, Interactive Brokers, Trading 212, ABN AMRO, fees, Box 3 tax, and core fund selection.'
+lastmod: 2026-08-07 10:00:00+02:00
+description: 'Best ETF platforms for expats in the Netherlands 2026: DEGIRO, Interactive Brokers, Trading 212 and 3 more compared on fees, Box 3 tax, and English support.'
 categories:
 - finance
 tags:

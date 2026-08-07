@@ -1,8 +1,8 @@
 ---
 title: 'Preply vs iTalki for Dutch Lessons: Which Is Better? (2026)'
 date: 2026-03-30 10:00:00+01:00
-lastmod: 2026-04-23 10:00:00+01:00
-description: Preply vs iTalki for learning Dutch as an expat. Pricing, tutor quality, lesson structure, and which platform suits your learning style.
+lastmod: 2026-08-07 10:00:00+02:00
+description: Preply vs iTalki for learning Dutch as an expat — which is really better? Pricing, tutor vetting, lesson structure, and who each platform suits.
 categories:
 - integration
 tags:
@@ -16,13 +16,23 @@ keywords:
 - best Dutch tutor online
 - learn Dutch online expat
 - Preply review Dutch lessons
+- wat is beter preply of italki
+- voor wie is preply beter geschikt
+- wat doet preply beter dan italki
+- waarom kiezen sommige mensen liever voor italki
 affiliate: true
 author: Sarah van den Berg
 author_bio: Expat coach and relocation specialist. Half Dutch, half British, living in the Netherlands for over 10 years.
 featured_image: /images/featured/preply-vs-italki-dutch-lessons-2026.webp
 faq:
-- q: Who is this for?
-  a: See the section above on who benefits most from this service or guide.
+- q: What is better, Preply or italki?
+  a: It depends on your level. Preply is better for beginners who want a vetted tutor, built-in progress tracking, and a first-lesson satisfaction guarantee. Italki is better once you are past the beginner stage and want a larger, cheaper pool of tutors and more flexibility in how lessons run.
+- q: Who is Preply better suited for?
+  a: Preply suits complete beginners, learners who want a pre-vetted tutor, and anyone who benefits from having lesson history, vocabulary, and homework tracked automatically in one place rather than managing it themselves.
+- q: What does Preply do better than italki?
+  a: Three things stand out — tutor vetting (every tutor goes through an approval process with a video introduction), built-in learning tools (whiteboard, vocabulary tracker, lesson notes), and a genuine satisfaction guarantee if your trial lesson disappoints.
+- q: Why do some people choose italki instead of Preply?
+  a: Mainly price and choice. Italki gives you access to community tutors — native Dutch speakers offering informal conversation practice from around EUR 8-20/hour — alongside professional teachers, plus the freedom to run lessons on whatever video platform you already use.
 products:
 - name: Babbel
   url: https://go.expatnetherlandshub.com/babbel
@@ -348,6 +358,24 @@ What sustains motivation over the long term:
 - Celebrating real-world milestones rather than app metrics
 - Finding Dutch friends who will speak Dutch with you and correct you rather than switching to English
 - Connecting your Dutch learning to something you genuinely care about — your professional life, your neighbourhood relationships, your children's school community
+
+---
+
+## Frequently Asked Questions (Including the Questions I Get Asked in Dutch)
+
+This comparison gets searched almost as often in Dutch as in English, so here are direct answers to the specific questions people keep asking.
+
+**What is better, Preply or italki?** *(Wat is beter, Preply of italki?)*
+Short answer: it depends on your level and how much structure you want. Preply is the better choice for beginners who want a vetted tutor, built-in progress tracking, and a first-lesson satisfaction guarantee. Italki is the better choice once you are past the beginner stage and want a wider, cheaper pool of tutors and more say over how lessons run.
+
+**Who is Preply better suited for?** *(Voor wie is Preply beter geschikt?)*
+Preply suits complete beginners, learners who want a pre-vetted tutor, and anyone who benefits from having lesson history, vocabulary, and homework tracked automatically in one place. If self-organisation feels like a chore on top of learning a new language, Preply removes that burden.
+
+**What does Preply do better than italki?** *(Wat doet Preply beter dan italki?)*
+Three things stand out: tutor vetting (every Preply tutor goes through an approval process with a video introduction), built-in learning tools (whiteboard, vocabulary tracker, lesson notes that persist in your account), and a genuine satisfaction guarantee — if your trial lesson disappoints, Preply gives you credit to try a different tutor for free.
+
+**Why do some people choose italki instead of Preply?** *(Waarom kiezen sommige mensen liever voor italki?)*
+Mainly price and choice. Italki gives you access to community tutors — native or near-native Dutch speakers offering informal conversation practice from roughly EUR 8-20 per hour — alongside professional teachers, so the total pool is bigger and cheaper at the entry level. You also keep the freedom to run lessons on whatever video platform you already use, rather than being tied to Preply's built-in tools.
 
 ---
 

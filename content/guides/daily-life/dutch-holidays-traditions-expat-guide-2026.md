@@ -1,7 +1,7 @@
 ---
 title: 'Dutch Holidays & Traditions 2026: What Expats Should Know'
 date: 2026-04-25 10:00:00+01:00
-lastmod: 2026-04-23 10:00:00+01:00
+lastmod: 2026-08-07 10:00:00+02:00
 description: Complete guide to Dutch holidays and traditions for expats. King's Day, Sinterklaas, Carnival, and all public holidays in 2026.
 categories:
 - culture
@@ -16,6 +16,8 @@ keywords:
 - Netherlands public holidays
 - King's Day guide
 - Dutch traditions expats
+- expats netherlands august 2026
+- what's happening in the netherlands august
 affiliate: true
 products:
 - name: KPN
@@ -69,6 +71,22 @@ New to the Netherlands? Start with our [complete expat guide](/guides/legal/comp
 Want to explore the Netherlands during public holidays without language barriers? Booking travel from your home country is easier with geo-restrictions removed — NordVPN lets you access your familiar booking platforms wherever you are.
 
 <a href="https://go.expatnetherlandshub.com/nordvpn?ref=/guides/daily-life/dutch-holidays-traditions-expat-guide-2026/" target="_blank" rel="nofollow noopener sponsored" class="cta-affiliate">Access home-country travel deals with NordVPN →</a>
+
+## What's Happening in the Netherlands in August
+
+If you landed on this guide wondering what's actually going on this month, here's the short version. August has no public holidays, but it's one of the quietest — and most disrupted — months to be an expat in the Netherlands, for reasons that have nothing to do with the calendar of official days off.
+
+**Bouwvak (construction shutdown).** The construction industry takes a collective summer break, staggered across three regions (north, central, south) similar to the school holiday system. If you're renovating, waiting on a delivery, or dealing with a contractor, expect radio silence for a stretch of weeks — this is normal and not a sign your job has been forgotten.
+
+**Zomervakantie is still running (and ending).** The six-week school summer holiday spans most of July and August, staggered by region — see the school holiday table further down for the exact 2026 dates. Depending on your region, your kids either go back to school in the second half of August or the first days of September. This is also why the country feels emptier: a large share of Dutch families are away for at least part of the month.
+
+**Business runs slower.** Many offices are thinly staffed as colleagues take their remaining vacation days before the school year restarts. Expect slower replies from municipalities, banks, and service providers — plan appointments (BSN, DigiD, viewings) with that in mind, or push urgent admin to September.
+
+**Pride Amsterdam.** The canal parade and the wider Pride week are an established annual fixture in Amsterdam every August, drawing large crowds to the city centre. Expect the usual King's Day-style disruption around the Prinsengracht — busy terraces, crowded public transport, and a genuinely festive atmosphere.
+
+**Festival season is still going.** August is peak season for the outdoor festivals mentioned below — book accommodation and transport early if you're heading to one, since the same weekends draw both Dutch holidaymakers and international visitors.
+
+**The practical takeaway:** nothing officially closes in August, but the rhythm of the country changes — slower admin, fuller trains on festival weekends, and a general sense that everyone who can be away, is. If you need something done urgently (a repair, a bureaucratic sign-off), expect it to take longer than usual and build in buffer time.
 
 ## The Big Celebrations
 

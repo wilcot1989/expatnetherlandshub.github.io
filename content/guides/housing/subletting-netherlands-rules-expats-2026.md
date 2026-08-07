@@ -1,9 +1,9 @@
 ---
-title: 'Subletting in Netherlands: Rules for Expats 2026'
+title: 'Is Subletting Legal in the Netherlands? (2026 Rules)'
 date: 2026-03-18 10:00:00+01:00
-lastmod: 2026-04-23 10:00:00+01:00
+lastmod: 2026-08-07 10:00:00+02:00
 type: guide
-description: When subletting is legal in the Netherlands, Airbnb city rules, how to sublet with permission, and what happens if you sublet illegally. Expat guide 2026.
+description: Is subletting legal in the Netherlands? Only with written landlord permission. Airbnb city rules, illegal subletting penalties, and how to sublet safely.
 categories:
 - housing
 tags:
@@ -18,6 +18,7 @@ keywords:
 - airbnb rules amsterdam netherlands
 - illegal subletting netherlands
 - onderonderverhuur netherlands expat
+- is subletting legal in the netherlands
 affiliate: true
 author: Sarah van den Berg
 author_bio: Expat coach and relocation specialist. Half Dutch, half British, living in the Netherlands for over 10 years.
@@ -49,6 +50,8 @@ schema_type: Article
 ---
 
 A client called me from Schiphol airport last spring. She had a three-month assignment in Singapore starting the following week, had listed her Eindhoven flat on Airbnb to cover the rent, and had just received a registered letter from her landlord threatening immediate eviction. She had assumed that because she owned all her furniture and the rent was paid, subletting was her right. It is not. Not in the Netherlands.
+
+**Is subletting legal in the Netherlands? No — not without your landlord's explicit written permission.** Subletting without that permission is a breach of your rental contract, even if it is just one room or a few weeks, and it can result in eviction. With written permission, subletting is entirely legal and commonly done.
 
 Subletting rules in the Netherlands are strict, actively enforced, and considerably less permissive than many expats — particularly those arriving from countries with lighter-touch rental regulation — expect. Getting this wrong can cost you your housing. This guide explains exactly what is legal, what is not, and how to manage your property lawfully if you need to be away or want to generate income from a spare room.
 

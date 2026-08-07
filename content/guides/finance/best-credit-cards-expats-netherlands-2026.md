@@ -1,8 +1,8 @@
 ---
-title: Best Credit Cards in the Netherlands 2026 for Expats
+title: 'Best Credit Card Netherlands 2026: 7 Options for Expats'
 date: 2026-03-18 10:00:00+01:00
-lastmod: 2026-04-23 10:00:00+01:00
-description: 'English-language guide: best credit cards in the Netherlands for expats in 2026. No annual fee options, real approval odds, fees, cards that work without.'
+lastmod: 2026-08-07 10:00:00+02:00
+description: 'Best credit card Netherlands 2026 for expats: which cards approve you with no BKR history, real annual fees compared, plus my top pick for day one.'
 categories:
 - finance
 tags:
@@ -17,7 +17,9 @@ keywords:
 - credit cards expats netherlands
 - dutch credit card expat
 - credit card no dutch credit history
+- best credit card netherlands
 - best credit card netherlands 2026
+- best credit card
 - best credit card no annual fee netherlands
 - credit card netherlands no fees
 - free credit card netherlands expat
@@ -50,12 +52,16 @@ faq:
   a: 'Dutch credit card fees vary widely. ICS Visa World Card: EUR 25-40/year. Amex Green: EUR 71/year. Amex Gold: EUR 140/year. Bunq Metal (which includes credit card features): EUR 20.99/month. Revolut Metal: EUR 15.99/month. N26 Metal: EUR 16.90/month. Budget option: prepaid cards typically have no annual fee but charge per transaction or monthly maintenance fees of EUR 2-5.'
 - q: Does Revolut count as a credit card in the Netherlands?
   a: Revolut's standard and premium plans are debit cards. Revolut Metal includes a credit feature (Pay Later/Credit in some markets), but this is not universally available in the Netherlands and depends on your individual eligibility assessment by Revolut. For practical purposes, treat Revolut as a debit/prepaid card unless you have specifically been approved for the credit feature.
+- q: What is the best credit card in the Netherlands overall?
+  a: 'There is no single best credit card in the Netherlands -- it depends on how long you have been here. For new expats with no Dutch credit history, American Express Green (EUR 71/year) is the most realistic option because Amex assesses your income rather than your Dutch BKR file. For expats with 6-12 months of Dutch banking history, the ICS Visa World Card (EUR 29/year) is the standard choice and cheaper long-term. If you mainly need a card that works internationally rather than true credit, the Wise card covers most of the same use cases with no credit check at all.'
 schema_type: Article
 ---
 
 The credit card situation in the Netherlands is one of the more frustrating discoveries for new expats. You arrive, you open a Dutch bank account, and then you try to apply for a credit card — only to be told that your application cannot be processed because you have no Dutch credit history. No Dutch credit history because you just arrived. The classic catch-22.
 
 I went through this myself. I had a solid credit history in the UK, a good salary in the Netherlands, and I still got rejected by two Dutch issuers in my first year. Here is everything I learned, plus what has changed since then.
+
+> **Quick answer:** My pick for most new expats is American Express Green (EUR 71/year) -- it approves based on income rather than Dutch credit history, so you can realistically get one within your first six months instead of waiting 6-12 months for a BKR record. If you have been here over a year, the ICS Visa World Card (EUR 29/year) is the cheaper standard option.
 
 ---
 

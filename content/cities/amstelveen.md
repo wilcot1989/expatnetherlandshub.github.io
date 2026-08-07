@@ -1,8 +1,8 @@
 ---
-title: 'Expats in Amstelveen 2026: Complete Guide for Internationals'
-description: 'Guide for expats in Amstelveen 2026: rent prices, expat community, best neighbourhoods, international schools, commute to Amsterdam, and honest tips. Why so.'
+title: 'Amstelveen Expat Guide 2026: Population, Rent, Schools'
+description: "Amstelveen has 95,840 residents (2026). Guide for expats: rent prices, top neighbourhoods, international schools, commute to Amsterdam, and honest advice."
 date: 2026-03-07 10:00:00+01:00
-lastmod: 2026-04-23 10:00:00+01:00
+lastmod: 2026-08-07 10:00:00+02:00
 featured_image: /images/categories/cities.svg
 author: Sarah van den Berg
 categories:
@@ -12,31 +12,36 @@ tags:
 - expat city guide
 - amsterdam suburbs
 - expat community
+- amstelveen population
 keywords:
 - expats in amstelveen
 - expat amstelveen
 - expats amstelveen
+- amstelveen population
 - amstelveen expat guide
 - living in amstelveen expat
 - amstelveen expat community
 - amstelveen rent prices
 - amstelveen international schools
 - amstelveen netherlands
+- is amstelveen part of amsterdam
 schema_type: Article
 ---
 
 ## Amstelveen at a Glance
 
 
-- **Population:** approximately 92,000
+- **Population:** 95,840 (municipality, 2026)
 - **Expat population:** one of the highest concentrations in the Netherlands — significant Japanese, Korean, Indian, and broader international communities driven by corporate relocations
 - **Main languages spoken:** Dutch, English (widely spoken in professional and business contexts); Japanese is notably common in certain neighbourhoods and shops
 - **Key industries:** financial services, management consulting, corporate headquarters, Schiphol-related logistics and aviation
 - **Average commute:** 20–30 minutes by metro or tram to central Amsterdam; 15–20 minutes by road to Schiphol Airport
 
+**How many people live in Amstelveen?** The municipality has a population of 95,840 as of 2026. That is small compared to Amsterdam next door, but the town has grown steadily over recent years, partly through housing development and partly through continued corporate relocation activity. Is Amstelveen part of Amsterdam? No — despite sitting directly against the city border and functioning as a de facto suburb, Amstelveen is its own municipality with its own council, services, and registration process.
+
 Amstelveen sits directly south of Amsterdam, separated from the city by the Amsterdamse Bos — a large forested park — and bordered to the west by the Schiphol area. Administratively it is its own municipality, part of the Amstelland-Meerlanden region, though in practice it functions as a suburban extension of Amsterdam for most of the people who live there.
 
-What makes Amstelveen unusual among Dutch towns of its size is how genuinely international it is. KPMG and ABN AMRO have significant operations here, and a cluster of multinational corporate headquarters has created sustained demand from internationally mobile professionals. The result is a town that has built infrastructure — international schools, international supermarkets, multilingual services — that you do not typically find in a municipality of 92,000 people.
+What makes Amstelveen unusual among Dutch towns of its size is how genuinely international it is. KPMG and ABN AMRO have significant operations here, and a cluster of multinational corporate headquarters has created sustained demand from internationally mobile professionals. The result is a town that has built infrastructure — international schools, international supermarkets, multilingual services — that you do not typically find in a municipality of fewer than 100,000 people.
 
 The trade-off, which most long-term residents will mention, is character. Amstelveen is comfortable and well-organised, with good facilities and reasonable prices by Amsterdam standards. It is also unambiguously suburban. The Stadshart shopping centre in the centre is functional rather than charming. If you are expecting the atmosphere of a historic Dutch city, you will not find it here. What you will find is good transport links, excellent schools for families, a large expat peer group, and direct access to the Amsterdamse Bos on your doorstep.
 
@@ -182,6 +187,24 @@ The Westwijk and Groenelaan areas are the most practical for families with schoo
 7. Apply for DigiD after BSN
 
 Corporate relocations to Amstelveen are typically handled by the employer's relocation agency, which simplifies most of these steps. Independent arrivals should note that the municipality is genuinely experienced with international residents and the process is more straightforward than in many Dutch municipalities.
+
+## Frequently Asked Questions
+
+### What is the population of Amstelveen?
+
+Amstelveen has a population of 95,840 as of 2026, according to municipal registration figures. That makes it one of the larger municipalities in the Amsterdam metropolitan area, despite feeling like a suburb rather than a city in its own right.
+
+### Is Amstelveen part of Amsterdam?
+
+No. Amstelveen is a separate municipality with its own council, its own registration process (Gemeente Amstelveen, not Gemeente Amsterdam), and its own local services. It borders Amsterdam directly and functions socially and economically as a suburb of it, but administratively the two are entirely distinct — you register, pay municipal taxes, and vote locally in Amstelveen, not Amsterdam.
+
+### Is Amstelveen safe?
+
+Yes — Amstelveen is generally considered one of the safer municipalities in the Amsterdam region, with lower reported crime rates than central Amsterdam. Its suburban layout, lower population density, and family-oriented character are part of why it attracts corporate relocations with children.
+
+### Is Amstelveen a good place for expats to live?
+
+For families and professionals working in Amsterdam or at Schiphol, yes — the combination of international schools, an established Japanese, Korean, and Indian community, direct metro access to Amsterdam, and lower rents than the city centre makes it a practical choice. It is not the place to go for historic Dutch character or nightlife; residents who want that commute into Amsterdam for it.
 
 ## Related Guides
 

@@ -1,8 +1,8 @@
 ---
-title: Best Banking Options for Expats in the Netherlands 2026
+title: 'Dutch Banking Setup for Expats 2026: First Week Guide'
 date: 2026-04-29 08:00:00+02:00
-lastmod: 2026-04-29 08:00:00+02:00
-description: 'The honest guide to banking in the Netherlands as an expat: Dutch banks vs fintech, BSN-free options, real fee comparisons, and a year-by-year strategy that.'
+lastmod: 2026-08-07 10:00:00+02:00
+description: 'Setting up Dutch banking in your first week: which accounts to open before and after your BSN arrives, real fees, and the mistake that cost me EUR180.'
 categories:
 - finance
 tags:
@@ -21,6 +21,8 @@ keywords:
 - bunq expat Netherlands
 - ABN AMRO expat account
 - ING bank expat Netherlands 2026
+- dutch banking setup first week
+- banking Netherlands expats 2026
 affiliate: true
 author: Sarah van den Berg
 author_bio: Expat coach and writer at ExpatNetherlandsHub.com
@@ -68,6 +70,8 @@ When I moved to the Netherlands in 2018, my Spanish bank charged me €2.50 ever
 Nobody warned me about this. My relocation package covered flights and the first month's rent. It said nothing about banking. I spent two weeks waiting for a BSN before I could open a Dutch account, and for those two weeks I was trapped in a fee spiral with no obvious exit.
 
 This guide is what I wish someone had given me on arrival day. I have now helped dozens of expats through the Dutch banking maze — in Amsterdam, Eindhoven, The Hague, and Rotterdam — and I have personally tested or researched all ten banks listed here. I will give you honest numbers, no marketing language, and a practical path from day one to permanent resident banking.
+
+This article focuses specifically on the *setup sequence* — what to open in your first week, what comes after your BSN arrives, and how the timeline works month by month. If you have already sorted your first-week banking and want a head-to-head comparison of which specific bank suits you long-term, see my [full comparison of the 7 best banks for expats](/guides/finance/best-bank-account-expats-netherlands-2026/) instead.
 
 ---
 

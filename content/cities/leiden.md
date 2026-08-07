@@ -1,12 +1,24 @@
 ---
-title: 'Leiden Expat Guide 2026: Living, Working & Costs'
-description: Complete expat guide to Leiden in 2026. Historic university town near The Hague, rent prices, best neighbourhoods, bio-science jobs, and practical expat tips.
+title: 'Leiden Population & Expat Guide 2026: Costs, Jobs'
+description: "Leiden's population is 130,328 (2026). Complete expat guide: rent prices, best neighbourhoods, biotech jobs near The Hague, and practical living tips."
 date: 2026-03-06 10:00:00+01:00
-lastmod: 2026-04-23 10:00:00+01:00
+lastmod: 2026-08-07 10:00:00+02:00
 featured_image: /images/featured/leiden.webp
 author: Sarah van den Berg
 categories:
 - cities
+tags:
+- leiden
+- expat city guide
+- leiden population
+- living in leiden
+keywords:
+- leiden population
+- population of leiden
+- living in leiden netherlands
+- leiden netherlands population
+- leiden expat guide
+- how many people live in leiden
 schema_type: Article
 ---
 
@@ -15,11 +27,13 @@ schema_type: Article
 ![Leiden city view](/images/cities/leiden.webp)
 *Photo: Leiden, the Netherlands. Source: Wikimedia Commons.*
 
-- **Population:** 125,000 (city proper)
+- **Population:** 130,328 (municipality, 2026)
 - **Expat population:** approximately 15,000 — around 12% of residents
 - **Main languages spoken:** Dutch, English (very widely spoken given the academic and life sciences sector; Leiden University is one of the most internationally recruited in the country)
 - **Key industries:** biotech, pharmaceutical research, higher education, medical research
 - **Average commute:** 15–25 minutes by bike within the city; train to The Hague 15 minutes, Amsterdam 35 minutes
+
+**How many people live in Leiden?** The municipality of Leiden has a population of 130,328 as of 2026, which puts it in the same size bracket as Delft and Zoetermeer — noticeably smaller than Rotterdam or The Hague, but large enough to feel like a proper city rather than a town. The population has grown steadily over the past decade, driven partly by the university and Bio Science Park pulling in international staff and students, and partly by new housing developments on the edges of the city.
 
 Leiden is a university city in the South Holland province, positioned between The Hague and Amsterdam on the main rail line. It is smaller and quieter than either, and for a certain type of expat — particularly those arriving for research, biotech, or pharma roles — it can be exactly the right size.
 
@@ -169,6 +183,24 @@ The cycling connection to The Hague and to Schiphol Airport means that Leiden fu
 7. Apply for DigiD after BSN is confirmed
 
 Schiphol Airport being 20 minutes away is a practical quality-of-life factor that affects Leiden differently from other Dutch cities. If your family remains abroad while you settle in, or if you travel internationally for work frequently, the airport proximity reduces travel friction considerably compared to cities in the east or north.
+
+## Frequently Asked Questions
+
+### What is the population of Leiden?
+
+Leiden has a population of 130,328 as of 2026, according to municipal registration figures. That includes the whole gemeente, not just the historic centre. Around 12% of residents are non-Dutch, a share driven largely by the university, LUMC, and the Bio Science Park pulling in international staff, researchers, and students.
+
+### Is Leiden bigger or smaller than you'd expect?
+
+Smaller than most people assume, given how much the city has going on. Leiden's roughly 130,000 residents put it in the same bracket as Delft or Zoetermeer — a fraction of Amsterdam or Rotterdam. What throws people off is the disproportionate number of museums, the size of Leiden University, and the density of the Bio Science Park, all of which make the city punch above its population.
+
+### How many people live in Leiden compared to Amsterdam or The Hague?
+
+Leiden's 130,328 residents are a small fraction of Amsterdam's (roughly 940,000) or The Hague's (roughly 570,000). Leiden sits between the two on the rail line but is much closer in size to Delft or Zoetermeer than to either of its larger neighbours.
+
+### Is Leiden a good place to live as an expat?
+
+For researchers, academics, and biotech or pharma professionals, yes — the Bio Science Park and LUMC create a genuine international hiring market, and the city is compact and easy to navigate. Outside those sectors the job market is more limited, and many residents commute to The Hague or Amsterdam. If you want big-city amenities, Leiden's size will feel restrictive; if you want a manageable, well-connected university city, it works well.
 
 ## Related Guides
 
