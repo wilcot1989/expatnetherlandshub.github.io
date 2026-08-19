@@ -395,4 +395,10 @@ A few things I have learned after years of using Dutch delivery apps that do not
 
 For a broader view of Dutch grocery shopping — including the physical supermarkets, specialty stores, and weekly markets that complement delivery — see the [complete guide to grocery shopping in the Netherlands for expats](/guides/daily-life/best-grocery-delivery-netherlands-2026/). And if you are still in the process of setting up your Dutch bank account for iDEAL payments, the [bank account guide](/guides/finance/best-bank-account-expats-netherlands-2026/) walks through which account to open first.
 
-<a href="https://go.expatnetherlandshub.com/wise" class="cta-affiliate" rel="nofollow noopener sponsored" target="_blank">Try Wise</a>
+## New in the Netherlands?
+
+Delivery apps are a nice-to-have. These three are the ones that actually cost or save you money in your first months:
+
+- [Cost of living calculator](/tools/cost-of-living-calculator/) — what groceries, rent, and transport come to in your city
+- [Best bank account for expats](/guides/finance/best-bank-account-expats-netherlands-2026/) — you need iDEAL to pay for most of this, and that needs a Dutch account
+- [Dutch health insurance guide](/guides/health/dutch-health-insurance-guide-expats-2026/) — the one deadline with a fine attached

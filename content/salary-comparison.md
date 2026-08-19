@@ -263,7 +263,9 @@ Many expats in the Netherlands receive salary components from abroad, support fa
 
 <a href="https://go.expatnetherlandshub.com/wise?ref=/salary-comparison/" target="_blank" rel="nofollow noopener sponsored" class="cta-affiliate">Check real exchange rates with Wise →</a>
 
-Wise uses the mid-market exchange rate (the real rate, without markup) and charges a small transparent fee typically below 1%. For regular salary transfers or sending money home to family, the difference adds up quickly over a year. I have used it personally for transfers to the UK and can confirm the rates hold up.
+Wise uses the mid-market exchange rate — the rate you see on Google, without a markup — and charges a separate, visible fee instead. On common corridors such as EUR to GBP or USD that fee is typically well under 1%, though it varies by currency and payment method, so check the quote for your own route before committing. The point is that the cost is on the screen rather than hidden in the rate, which makes a recurring monthly transfer easy to compare against your bank.
+
+<a href="https://go.expatnetherlandshub.com/wise?ref=/salary-comparison/" target="_blank" rel="noopener nofollow sponsored" class="cta-affiliate">Compare your transfer cost on Wise →</a>
 
 ---
 

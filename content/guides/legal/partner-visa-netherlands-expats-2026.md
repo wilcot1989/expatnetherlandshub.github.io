@@ -255,7 +255,7 @@ Once your partner has arrived and converted their MVV to a residence permit:
 
 While your partner's application is being processed, they are not yet a Dutch resident and cannot take out Dutch zorgverzekering. If your partner is in their home country during this period, they need travel or short-stay health insurance.
 
-SafetyWing's Nomad Insurance is a practical option for this interim period. It provides worldwide medical coverage on a monthly subscription basis with no long-term commitment. Your partner can activate it from day one and cancel when Dutch health insurance kicks in after arrival.
+SafetyWing's Nomad Insurance is one option for this interim period. It is a travel medical policy on a monthly subscription with no long-term commitment, so your partner can start it before travelling and cancel once the Dutch policy is in place. Two things to be clear about: it is not a Dutch basisverzekering and does not satisfy the Dutch insurance obligation once your partner is registered as a resident, and travel medical policies typically exclude pre-existing conditions — read the policy document if that applies.
 
 <a href="https://go.expatnetherlandshub.com/safetywing?ref=/guides/legal/partner-visa-netherlands-expats-2026/" target="_blank" rel="nofollow noopener sponsored" class="cta-affiliate">Check SafetyWing coverage →</a>
 

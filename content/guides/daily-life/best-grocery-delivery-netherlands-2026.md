@@ -545,4 +545,10 @@ One thing that surprises many new expats is how well-stocked Dutch supermarkets 
 
 For more practical guides on settling into Dutch daily life, read our articles on the [best internet providers](/guides/daily-life/best-internet-providers-netherlands-2026/), [cost of living](/guides/housing/cost-of-living-netherlands-2026/), and [best SIM cards for expats](/guides/daily-life/best-sim-card-netherlands-expats-2026/). If you're still figuring out your budget before arrival, our [cost of living guide](/guides/housing/cost-of-living-netherlands-2026/) breaks down what groceries, housing, and transport actually cost month to month. And once you've sorted your shopping routine, our [cycling guide](/guides/daily-life/cycling-netherlands-expat-guide-2026/) covers the other daily-life must-have in the Netherlands.
 
-<a href="https://go.expatnetherlandshub.com/preply" class="cta-affiliate" rel="nofollow noopener sponsored" target="_blank">Try Preply</a>
+## New in the Netherlands?
+
+If you are still setting up rather than optimising your weekly shop, these are the three that matter first:
+
+- [Cost of living calculator](/tools/cost-of-living-calculator/) — a realistic monthly grocery and household budget per city
+- [Best bank account for expats](/guides/finance/best-bank-account-expats-netherlands-2026/) — every delivery service here bills by iDEAL or Dutch direct debit
+- [Energy providers for expats](/guides/housing/energy-providers-expats-netherlands-2026/) — the household bill with the biggest gap between cheapest and default

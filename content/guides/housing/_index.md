@@ -39,3 +39,13 @@ Beyond the big decisions, these guides also cover:
 - How to get your deposit back when you move out
 
 Housing is stressful, but it is manageable when you know the rules. Start with the city guide for where you are planning to live, then work through the renting or buying guide that fits your situation.
+
+## Two Practical Starting Points
+
+If you are still searching, room and studio listings move fastest on the Dutch rental platforms. Kamernet is one of the larger listing sites for rooms, studios, and shared apartments, and it is a common route for students and new arrivals who need something before a permanent contract. Worth knowing before you start: browsing listings is free, but responding to an advertiser requires a paid Premium membership, sold in blocks of weeks or months.
+
+<a href="https://go.expatnetherlandshub.com/kamernet?ref=/guides/housing/" class="cta-affiliate" rel="noopener nofollow sponsored" target="_blank">Search rooms and studios on Kamernet →</a>
+
+Once you have the keys, contents insurance (inboedelverzekering) is the one policy most Dutch tenants take out. It covers your own belongings against fire, water damage, and burglary — the landlord's building insurance does not. Premiums are modest, but cover levels and excess differ per insurer, so it is worth comparing before you sign.
+
+<a href="https://go.expatnetherlandshub.com/independer-inboedel?ref=/guides/housing/" class="cta-affiliate" rel="noopener nofollow sponsored" target="_blank">Compare contents insurance on Independer →</a>

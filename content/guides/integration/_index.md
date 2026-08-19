@@ -28,6 +28,10 @@ I compare the main options based on how quickly they get you to functional Dutch
 
 Apps alone rarely get people to B1 level. Structured classes with a teacher and classmates accelerate progress significantly. I cover the main language school options in the major Dutch cities, online alternatives, and how to choose between group classes, private tuition, and intensive courses depending on your timeline and budget.
 
+If a fixed evening class does not fit your schedule, one-to-one online tutoring is the flexible alternative. Preply is a marketplace of independent Dutch tutors who set their own rates and schedules, so you can book conversation practice around your working week and filter for tutors who specifically prepare students for the inburgering exam. Rates vary by tutor rather than being fixed by the platform, so compare a few profiles before booking.
+
+<a href="https://go.expatnetherlandshub.com/preply?ref=/guides/integration/" class="cta-affiliate" rel="noopener nofollow sponsored" target="_blank">Find a Dutch tutor on Preply →</a>
+
 ## Building a Life Beyond the Expat Bubble
 
 Integration is about more than language. It is about building genuine connections with Dutch people and the country's culture, institutions, and community life. These guides cover joining local clubs and associations, volunteering as a route into Dutch social life, and understanding the cultural rhythms — from Sinterklaas to the AVG privacy culture — that shape everyday life in the Netherlands.

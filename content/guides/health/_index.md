@@ -24,11 +24,19 @@ The difference between the cheapest and most expensive basic policies in 2026 is
 
 Use the [health insurance wizard](/tools/health-insurance-wizard/) to compare the main options based on your personal situation — family size, preferred hospitals, budget, and whether you have specific ongoing treatments.
 
+Independer is the comparison site most Dutch residents use for this. It lists the basic policies from every approved insurer side by side, including policy type and premium, so you can see the actual spread before choosing.
+
+<a href="https://go.expatnetherlandshub.com/independer-zorg?ref=/guides/health/" class="cta-affiliate" rel="noopener nofollow sponsored" target="_blank">Compare Dutch health insurers on Independer →</a>
+
 ## Supplementary and Expat Insurance
 
 The basic package does not cover dental care for adults, physiotherapy beyond a limited number of sessions, or most mental health care beyond a basic threshold. Supplementary insurance (aanvullende verzekering) fills some of these gaps.
 
 If you are in the Netherlands on a short-term assignment or not yet registered as a resident, international expat insurance may be a better option than the Dutch system. I compare the main expat insurance providers and explain exactly when each option makes sense.
+
+SafetyWing is one of the options in that comparison. It is a travel medical policy rather than a Dutch basisverzekering, so it does not satisfy the Dutch insurance obligation once you are a resident — but it is a common choice for the weeks between arriving and having your BSN and Dutch policy in place.
+
+<a href="https://go.expatnetherlandshub.com/safetywing?ref=/guides/health/" class="cta-affiliate" rel="noopener nofollow sponsored" target="_blank">Check SafetyWing coverage and pricing →</a>
 
 ## The Huisarts System
 

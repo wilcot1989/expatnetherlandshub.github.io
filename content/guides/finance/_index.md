@@ -28,7 +28,11 @@ Dutch pension law is complex, especially if you move between countries mid-caree
 
 ## Money Transfers
 
-Sending money between the Netherlands and your home country regularly? The difference between using your bank and a dedicated transfer service like Wise can add up to hundreds of euros per year. Start with my overview of the [best international money transfer services from the Netherlands](/guides/finance/best-international-money-transfer-netherlands-2026/) and the [best way to send money from the Netherlands](/guides/finance/best-way-send-money-from-netherlands-2026/), plus the three-way comparison [Wise vs Revolut vs Bunq for expats](/guides/finance/wise-vs-revolut-vs-bunq-expats-2026/).
+Sending money between the Netherlands and your home country regularly? The difference between using your bank and a dedicated transfer service like Wise can add up to hundreds of euros per year. Wise converts at the mid-market rate and shows the fee up front, where most banks build a margin into the exchange rate itself — which is why the true cost of a bank transfer is hard to see on the statement.
+
+<a href="https://go.expatnetherlandshub.com/wise?ref=/guides/finance/" class="cta-affiliate" rel="noopener nofollow sponsored" target="_blank">Check the real exchange rate with Wise →</a>
+
+Start with my overview of the [best international money transfer services from the Netherlands](/guides/finance/best-international-money-transfer-netherlands-2026/) and the [best way to send money from the Netherlands](/guides/finance/best-way-send-money-from-netherlands-2026/), plus the three-way comparison [Wise vs Revolut vs Bunq for expats](/guides/finance/wise-vs-revolut-vs-bunq-expats-2026/).
 
 ## Savings and Emergency Funds
 

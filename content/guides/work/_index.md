@@ -27,6 +27,10 @@ The guides cover:
 
 If you are considering the switch from employment to freelancing, the work section has the full financial comparison so you can make the decision with clear numbers rather than rough guesses.
 
+One practical detail that catches out freelancers with foreign clients: getting paid in another currency. If you invoice in pounds, dollars, or Swedish krona, your Dutch bank will convert at its own rate and the margin is rarely visible on the statement. A Wise account gives you local account details in several currencies and converts at the mid-market rate with the fee shown separately, which makes the cost of each payment easy to put on the books.
+
+<a href="https://go.expatnetherlandshub.com/wise?ref=/guides/work/" class="cta-affiliate" rel="noopener nofollow sponsored" target="_blank">Get paid in other currencies with Wise →</a>
+
 ## Coworking Spaces in the Netherlands
 
 Working from home is not always practical or desirable, especially when you are new to a city and want to build a professional network. The Netherlands has a well-developed coworking market, with strong options in Amsterdam, Rotterdam, The Hague, Utrecht, and Eindhoven.

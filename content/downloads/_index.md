@@ -528,7 +528,7 @@ Print this checklist
 <strong>Compare all Dutch health insurers side by side</strong>
 Independer is the Netherlands' largest comparison platform — free, takes 10 minutes, shows exact premiums for your age and preferred own risk.
 </div>
-<a href="https://go.expatnetherlandshub.com/independer-zorg?ref=/downloads/" rel="nofollow noopener sponsored" target="_blank" class="aff-cta">Compare on Independer →</a>
+<a href="https://go.expatnetherlandshub.com/independer-zorg?ref=/downloads/" rel="nofollow noopener sponsored" target="_blank" class="aff-cta cta-affiliate">Compare on Independer →</a>
 </div>
 </div>
 
@@ -803,7 +803,7 @@ Print this checklist
 <strong>Wise — multi-currency account, works from day one</strong>
 No BSN required, holds 40+ currencies, Dutch IBAN available, low international transfer fees.
 </div>
-<a href="https://go.expatnetherlandshub.com/wise?ref=/downloads/" rel="nofollow noopener sponsored" target="_blank" class="aff-cta">Open a Wise account →</a>
+<a href="https://go.expatnetherlandshub.com/wise?ref=/downloads/" rel="nofollow noopener sponsored" target="_blank" class="aff-cta cta-affiliate">Open a Wise account →</a>
 </div>
 </div>
 
@@ -874,6 +874,13 @@ Print this checklist
 <li><span class="cl-check" aria-hidden="true"></span><span><strong>Expat Center / relocation agency</strong> — if your employer offers a relocation package, ask HR to activate it</span></li>
 <li><span class="cl-check" aria-hidden="true"></span><span>Set up email alerts on Funda and Pararius for your criteria — good apartments in Amsterdam and The Hague go within 24–48 hours</span></li>
 </ul>
+<div class="cl-affiliate-box">
+<div class="aff-text">
+<strong>Kamernet — rooms, studios and shared flats</strong>
+Useful if you need something before a permanent contract. Contacting advertisers requires a paid membership; listings themselves are free to browse.
+</div>
+<a href="https://go.expatnetherlandshub.com/kamernet?ref=/downloads/" rel="noopener nofollow sponsored" target="_blank" class="aff-cta cta-affiliate">Search on Kamernet →</a>
+</div>
 </div>
 
 <div class="cl-section">

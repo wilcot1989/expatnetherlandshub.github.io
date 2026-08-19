@@ -175,11 +175,11 @@ This is one of the most common areas of confusion. Here is how it works:
 
 **Non-EU au pairs** are generally not required to take out Dutch basic health insurance (basisverzekering). Instead, your host family must arrange a suitable insurance policy that covers you for the duration of your stay.
 
-Many host families use international health insurance for this purpose. <a href="https://go.expatnetherlandshub.com/safetywing?ref=/guides/legal/au-pair-visa-netherlands-guide-2026/" rel="nofollow noopener sponsored" class="cta-affiliate" target="_blank">SafetyWing's Nomad Insurance</a> is popular with au pairs and host families because it provides solid medical coverage across the Netherlands and surrounding countries at a reasonable monthly cost. It covers doctor visits, hospitalisation, and emergency care — more than enough for a healthy young adult on a year-long cultural exchange.
+International health insurance is one route host families use for this. SafetyWing's Nomad Insurance is a travel medical policy sold on a monthly subscription with no fixed term, which fits a stay of a defined length: it covers doctor visits, hospitalisation, and emergency care, and it applies in other countries you visit as well — something a Dutch basisverzekering does not do. Check the policy document for the exclusions (pre-existing conditions and routine or preventive care are the usual ones) against what you actually need.
 
-If you travel to other European countries during your weekends or holidays, SafetyWing also covers you there, which a Dutch basic insurance policy would not.
+<a href="https://go.expatnetherlandshub.com/safetywing?ref=/guides/legal/au-pair-visa-netherlands-guide-2026/" rel="noopener nofollow sponsored" class="cta-affiliate" target="_blank">Check SafetyWing coverage and monthly price →</a>
 
-Make sure the insurance your host family arranges is active before you travel. You may be asked to show proof of coverage at the IND appointment when collecting your residence permit card.
+Whatever your host family arranges, make sure it is active before you travel, and confirm with your sponsor agency that the policy meets the IND's requirements for your permit. You may be asked to show proof of coverage at the IND appointment when collecting your residence permit card.
 
 For context on how Dutch healthcare works more broadly, see our [Dutch healthcare system guide](/guides/health/dutch-healthcare-system-explained-2026/).
 

@@ -68,9 +68,9 @@ New to the Netherlands? Start with our [complete expat guide](/guides/legal/comp
 
 **Bridge days tip:** Ascension Day is always a Thursday — most Dutch workers take Friday off too ("brugdag"). Plan your trips around these long weekends.
 
-Want to explore the Netherlands during public holidays without language barriers? Booking travel from your home country is easier with geo-restrictions removed — NordVPN lets you access your familiar booking platforms wherever you are.
+One small practical note if you travel during the long weekends: some home-country services — bank apps, streaming subscriptions, and government portals — restrict access by country, which is a nuisance on the road. A VPN such as NordVPN routes your connection through a server in your home country so those services behave normally. It will not make flights or hotels cheaper, whatever the internet says; the use case here is access and staying on a private connection on hotel and airport wifi.
 
-<a href="https://go.expatnetherlandshub.com/nordvpn?ref=/guides/daily-life/dutch-holidays-traditions-expat-guide-2026/" target="_blank" rel="nofollow noopener sponsored" class="cta-affiliate">Access home-country travel deals with NordVPN →</a>
+<a href="https://go.expatnetherlandshub.com/nordvpn?ref=/guides/daily-life/dutch-holidays-traditions-expat-guide-2026/" target="_blank" rel="noopener nofollow sponsored" class="cta-affiliate">Check NordVPN plans and pricing →</a>
 
 ## What's Happening in the Netherlands in August
 
@@ -391,6 +391,16 @@ Food is deeply connected to Dutch seasonal traditions. A few highlights that you
 One tradition that confuses most expats on first encounter is the Dutch birthday celebration (verjaardag). The custom is for the birthday person to arrange their own celebration — not to be surprised or treated. They typically bring cake or treats to the office or school. At home celebrations, the guests sit in a circle (the infamous Dutch circle) and congratulate not just the birthday person but also all their family members ("Gefeliciteerd met je vrouw!", "Congratulations with your wife" — said to a husband on his wife's birthday).
 
 If you are invited to a Dutch birthday party, bring a small gift and expect to join the circle, drink coffee and eat cake, and make conversation with people you may not know. The format can feel formal to expats used to more fluid party styles, but it is warm in its way once you understand the conventions.
+
+---
+
+## Planning Your First Dutch Year
+
+Holidays and traditions are the part of the calendar that makes the Netherlands feel like home. The part that makes it *work* is duller and comes first. If you are still in your opening months here, these three are the ones with deadlines or real money attached:
+
+- [Cost of living calculator](/tools/cost-of-living-calculator/) — what a month actually costs in your city, including the May vakantiegeld swing
+- [Best bank account for expats](/guides/finance/best-bank-account-expats-netherlands-2026/) — which accounts you can open before your BSN arrives
+- [Dutch health insurance guide](/guides/health/dutch-health-insurance-guide-expats-2026/) — the four-month deadline that starts when you register with your gemeente
 
 ---
 

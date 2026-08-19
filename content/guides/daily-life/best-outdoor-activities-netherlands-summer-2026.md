@@ -446,7 +446,13 @@ The Netherlands looks uniform from a map but divides into quite distinct outdoor
 **Sunscreen for summer.** Dutch summer sun is often underestimated by people who associate the Netherlands with grey weather. In June and July particularly, UV levels are significant and sunscreen at the beach or on a long cycle is as necessary here as anywhere in Western Europe.
 - [Rijkswaterstaat: Waterways information](https://www.rijkswaterstaat.nl)
 
-<a href="https://go.expatnetherlandshub.com/wise" class="cta-affiliate" rel="nofollow noopener sponsored" target="_blank">Try Wise</a>
+## New in the Netherlands?
+
+If this is your first Dutch summer, the admin side is worth clearing before the good weather goes:
+
+- [Cost of living calculator](/tools/cost-of-living-calculator/) — what a month here costs, city by city
+- [Best bank account for expats](/guides/finance/best-bank-account-expats-netherlands-2026/) — needed for OV-fiets, campsite bookings, and almost every ticket
+- [Dutch health insurance guide](/guides/health/dutch-health-insurance-guide-expats-2026/) — mandatory within four months of registering with your gemeente
 
 ## Related articles
 

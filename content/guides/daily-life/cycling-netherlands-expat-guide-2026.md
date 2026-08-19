@@ -254,6 +254,14 @@ Bicycle theft is a significant issue in the Netherlands. Approximately 500,000 b
 3. If you have home insurance (inboedelverzekering) or bicycle insurance, file a claim
 4. Check online marketplaces (Marktplaats) for your bike -- sometimes stolen bikes are listed for sale
 
+### What Insurance Actually Covers
+
+This is the part expats consistently get wrong, so it is worth being precise. A Dutch contents insurance policy (inboedelverzekering) generally covers a bike stolen from inside your home or from a locked shed or garage on your property. It does **not** cover a bike stolen from the street, from the office bike rack, or from a station parking facility — and the optional "buitenshuis" (outside-the-home) extension that some insurers sell usually excludes bicycles specifically. For theft away from home you need a separate bicycle insurance policy (fietsverzekering), or a Swapfiets subscription, which handles theft within its own terms.
+
+Terms differ per insurer, so check the policy wording rather than assuming. If you do not yet have contents insurance at all, comparing is the quickest way to see what the shed-theft cover and the excess look like across providers.
+
+<a href="https://go.expatnetherlandshub.com/independer-inboedel?ref=/guides/daily-life/cycling-netherlands-expat-guide-2026/" class="cta-affiliate" rel="noopener nofollow sponsored" target="_blank">Compare contents insurance on Independer →</a>
+
 ---
 
 ## Types of Dutch Bicycles
@@ -344,8 +352,6 @@ The Netherlands is exceptionally bike-friendly for families:
 ---
 
 
-
-<a href="https://go.expatnetherlandshub.com/wise" class="cta-affiliate" rel="nofollow noopener sponsored" target="_blank">Try Wise</a>
 
 ## Related Guides
 

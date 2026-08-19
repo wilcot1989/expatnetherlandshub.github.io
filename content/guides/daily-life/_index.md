@@ -12,6 +12,14 @@ Getting connected is the first practical task after you have the keys to your ne
 
 For mobile, I compare the main SIM-only options on price, coverage, and data allowances, with specific recommendations for expats who need to make frequent international calls or roam in other EU countries.
 
+## Energy and Utility Contracts
+
+Gas and electricity are the other contract you sort out in your first weeks. The Dutch energy market is fully deregulated, so you pick your own supplier — and unlike your rent, this is a cost you can change at any time. The gap between the cheapest fixed contract and the default variable tariff runs into hundreds of euros a year for an average household, and switching is handled by the new supplier.
+
+Comparison sites show the full field including the annual standing charge, which is where the real difference between offers usually sits.
+
+<a href="https://go.expatnetherlandshub.com/independer-energie?ref=/guides/daily-life/" class="cta-affiliate" rel="noopener nofollow sponsored" target="_blank">Compare Dutch energy contracts on Independer →</a>
+
 ## VPN: What You Need to Know
 
 A VPN is worth considering for two reasons as an expat. First, if you access streaming services from your home country, a VPN lets you continue watching content that is geographically restricted to your home country. Second, if you work remotely or handle sensitive business data, a VPN provides an additional layer of security on public networks. I compare the main providers on speed, reliability, and privacy credentials.

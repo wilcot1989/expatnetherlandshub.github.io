@@ -35,3 +35,11 @@ DigiD is the Dutch digital identity system. You need it to file your taxes, acce
 ## The Complete Moving Checklist
 
 The legal guides culminate in a complete moving checklist that covers every administrative step in the right order — from before you leave your home country to your first three months in the Netherlands. It is the starting point I recommend to every expat who is planning a move.
+
+## After the Paperwork
+
+The permit and the BSN are the gate. The three things that follow immediately afterwards, in this order, are:
+
+- [Opening a Dutch bank account](/guides/finance/best-bank-account-expats-netherlands-2026/) — needed for rent, salary, and almost every direct debit
+- [Arranging your health insurance](/guides/health/dutch-health-insurance-guide-expats-2026/) — the four-month deadline starts the day you register with your gemeente
+- [Setting up energy and internet](/guides/housing/energy-providers-expats-netherlands-2026/) — the two contracts that come with your first address
