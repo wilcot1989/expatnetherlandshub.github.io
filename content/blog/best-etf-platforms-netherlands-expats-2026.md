@@ -227,7 +227,7 @@ For a passive investor making one trade per month of €500 into VWRL, DEGIRO co
 
 ## What ETFs Should Expats in the Netherlands Buy?
 
-This is personal advice territory — always consult a financial advisor for your specific situation. That said, here is what I see most commonly among expat investors I know in the Netherlands.
+This is personal advice territory — always consult a financial advisor for your specific situation. That said, here are the setups that come up most often in expat communities and forums in the Netherlands.
 
 ### The Classic Single-Fund Approach
 

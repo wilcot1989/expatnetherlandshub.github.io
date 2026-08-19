@@ -358,7 +358,7 @@ For most mid-to-senior professionals in tech, finance, or engineering, the Dutch
 
 ## Practical First Steps Regardless of Your Choice
 
-If you are moving to the Netherlands, the immediate priorities are: BSN registration at the gemeente, Dutch bank account, health insurance (mandatory within four months), and GP registration. The [First 30 Days Netherlands checklist](/guides/admin/first-30-days-netherlands-expat-checklist-2026/) covers this sequence in detail.
+If you are moving to the Netherlands, the immediate priorities are: BSN registration at the gemeente, Dutch bank account, health insurance (mandatory within four months), and GP registration. The [First 30 Days Netherlands checklist](/guides/legal/first-30-days-netherlands-expat-checklist-2026/) covers this sequence in detail.
 
 If you are moving to Portugal, the immediate priorities are: residency registration at the câmara municipal (or the SEF appointment for non-EU citizens), codice fiscal equivalent (NIF — Número de Identificação Fiscal) from Finanças, Portuguese bank account, and SNS registration for healthcare.
 

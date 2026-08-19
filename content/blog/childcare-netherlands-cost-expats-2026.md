@@ -264,8 +264,7 @@ Some expat families use an au pair as an alternative or supplement to formal chi
 - [Dutch employment contract explained for expats](/guides/work/dutch-employment-contract-explained-2026/)
 - [Sick leave rights in the Netherlands](/blog/sick-leave-rights-netherlands-expats-2026/)
 - [How to open a bank account in the Netherlands](/guides/finance/open-bank-account-netherlands-expats-2026/)
-- [Registering at the gemeente: expat guide](/guides/admin/registering-gemeente-netherlands-2026/)
-- [First 30 days in the Netherlands checklist](/guides/admin/first-30-days-netherlands-expat-checklist-2026/)
+- [First 30 days in the Netherlands checklist (incl. gemeente registration)](/guides/legal/first-30-days-netherlands-expat-checklist-2026/)
 
 ---
 
@@ -358,7 +357,7 @@ Children with additional care needs or disabilities can access adapted childcare
 
 ---
 
-*Related reading: [Maternity and Paternity Leave Netherlands](/guides/work/maternity-paternity-leave-netherlands-expats-2026/) | [Dutch Health Insurance for Expats](/guides/health/dutch-health-insurance-guide-expats-2026/) | [International Schools Netherlands](/guides/daily-life/international-schools-netherlands-2026/) | [Registering at the Gemeente](/guides/admin/registering-gemeente-netherlands-2026/)*
+*Related reading: [Maternity and Paternity Leave Netherlands](/guides/work/maternity-paternity-leave-netherlands-expats-2026/) | [Dutch Health Insurance for Expats](/guides/health/dutch-health-insurance-guide-expats-2026/) | [International Schools Netherlands](/guides/daily-life/international-schools-netherlands-2026/) | [First 30 Days Checklist](/guides/legal/first-30-days-netherlands-expat-checklist-2026/)*
 
 One thing worth noting for recently arrived expats: kinderopvangtoeslag is considered a toeslag (benefit) and is paid via the Belastingdienst portal at toeslagen.nl using your DigiD. If you do not yet have a DigiD, getting this set up is the single most important administrative task before your child starts childcare — without it, you cannot apply for the subsidy, and retroactive claims have strict time limits.
 
