@@ -1,6 +1,7 @@
 ---
 title: 30% Ruling Calculator Netherlands 2026
-description: Calculate your exact 30% ruling tax benefit for 2026. Free calculator with step-down phases, salary cap, and 5-year projection. Updated March 2026.
+description: Calculate your 30% ruling tax benefit for 2026. Free calculator using the flat 30% rate, the 27% rate announced for 2027, the salary cap, and a 5-year projection.
+lastmod: 2026-08-19 10:00:00+02:00
 type: tools
 layout: single
 affiliate: true
@@ -15,7 +16,7 @@ schema_type: Article
 "@type": "WebApplication",
 "name": "30% Ruling Calculator Netherlands 2026",
 "url": "https://expatnetherlandshub.com/tools/30-percent-ruling-calculator/",
-"description": "Calculate your exact 30% ruling tax benefit for 2026. Free calculator with step-down phases, salary cap, and 5-year projection.",
+"description": "Calculate your 30% ruling tax benefit for 2026. Free calculator using the flat 30% rate, the 27% rate announced for 2027, the salary cap, and a 5-year projection.",
 "applicationCategory": "FinanceApplication",
 "operatingSystem": "Any",
 "inLanguage": "en",
@@ -42,7 +43,7 @@ schema_type: Article
 "name": "What is the 30% ruling in the Netherlands?",
 "acceptedAnswer": {
 "@type": "Answer",
-"text": "The 30% ruling (30%-regeling) is a Dutch tax incentive for highly skilled migrants recruited from abroad. It allows a portion of your salary to be paid as a tax-free allowance to cover the extra costs of living in the Netherlands. Since 2024, the percentage steps down over time: 30% for the first 20 months, 20% for months 21–40, and 10% for months 41–60."
+"text": "The 30% ruling (30%-regeling) is a Dutch tax incentive for highly skilled migrants recruited from abroad. It allows a portion of your salary to be paid as a tax-free allowance to cover the extra costs of living in the Netherlands. The percentage is a flat 30% in 2025 and 2026. From 1 January 2027 the maximum drops to 27%, unless the ruling was already applied to your salary on or before 31 December 2023, in which case transitional rules keep you at 30%. The 30/20/10 step-down announced in the 2024 Tax Plan was repealed before it took effect."
 }
 },
 {
@@ -50,7 +51,7 @@ schema_type: Article
 "name": "Who qualifies for the 30% ruling in 2026?",
 "acceptedAnswer": {
 "@type": "Answer",
-"text": "To qualify for the 30% ruling in 2026 you must: (1) be recruited from abroad by a Dutch employer, (2) have specific expertise that is scarce in the Dutch labour market, (3) meet the salary threshold — €46.107 gross per year for most workers, or €35.048 for workers under 30 with a master's degree or higher. You must also have lived more than 150 km from the Dutch border in the 24 months before starting the job."
+"text": "To qualify for the 30% ruling in 2026 you must: (1) be recruited from abroad by a Dutch employer, (2) have specific expertise that is scarce in the Dutch labour market, (3) meet the salary threshold — €48.013 taxable per year for most workers, or €36.497 for workers under 30 with a master's degree or higher. You must also have lived more than 150 km from the Dutch border in the 24 months before starting the job."
 }
 },
 {
@@ -58,7 +59,7 @@ schema_type: Article
 "name": "What is the salary threshold for the 30% ruling in 2026?",
 "acceptedAnswer": {
 "@type": "Answer",
-"text": "In 2026 the taxable salary after applying the 30% ruling must be at least €46.107 (standard) or €35.048 (reduced threshold for workers under 30 with a master's degree or PhD). Note: these are the taxable minimums, meaning your gross salary must be higher — approximately €65.867 or €50.069 respectively — for the ruling to apply at the 30% rate."
+"text": "In 2026 the taxable salary after applying the 30% ruling must be at least €48.013 (standard) or €36.497 (reduced threshold for workers under 30 with a master's degree or PhD). Note: these are the taxable minimums, meaning your gross salary must be higher — approximately €68.590 or €52.138 respectively — for the ruling to apply at the 30% rate."
 }
 },
 {
@@ -66,15 +67,15 @@ schema_type: Article
 "name": "What is the salary cap (Balkenendenorm) for the 30% ruling?",
 "acceptedAnswer": {
 "@type": "Answer",
-"text": "Since 2024 the 30% ruling is capped at the Balkenendenorm, which is €233.000 gross per year in 2026. This means that if you earn more than €233.000, the tax-free allowance is still calculated on €233.000. Any salary above that cap is fully taxable."
+"text": "Since 2024 the 30% ruling is capped at the Balkenendenorm, which is €262.000 gross per year in 2026, giving a maximum tax-free allowance of €78.600. This means that if you earn more than €262.000, the tax-free allowance is still calculated on €262.000. Any salary above that cap is fully taxable."
 }
 },
 {
 "@type": "Question",
-"name": "How does the step-down rule work since 2024?",
+"name": "Is there a 30/20/10 step-down for the 30% ruling?",
 "acceptedAnswer": {
 "@type": "Answer",
-"text": "For people who started the 30% ruling on or after 1 January 2024, the tax-free percentage steps down: 30% for the first 20 months, 20% for months 21–40, and 10% for months 41–60. After 60 months the ruling expires. People who already had the ruling before 1 January 2024 benefit from a transitional arrangement and keep the original 30% for the full 5-year period."
+"text": "No. The 30/20/10 step-down was legislated in the 2024 Tax Plan but repealed in the 2025 Tax Plan before it ever applied to anyone, so it is not part of Dutch law. The percentage is a flat 30% in every month of 2025 and 2026, and drops to a maximum of 27% from 1 January 2027. Holders whose ruling was already applied on or before 31 December 2023 keep 30% for the full remaining duration. After 60 months the ruling expires."
 }
 },
 {
@@ -616,8 +617,7 @@ font-size: 0.78rem;
 font-weight: 700;
 }
 .phase-badge.p30 { background: #D1FAE5; color: #065F46; }
-.phase-badge.p20 { background: #FEF3C7; color: #92400E; }
-.phase-badge.p10 { background: #FEE2E2; color: #991B1B; }
+.phase-badge.p27 { background: #FEF3C7; color: #92400E; }
 
 /* Total 5Y card */
 .total-5y-card {
@@ -949,7 +949,7 @@ MOBILE RESPONSIVE
 <div class="tool-hero-text">
 <span class="hero-badge">Free Tool &bull; Updated March 2026</span>
 <h1>30% Ruling Calculator Netherlands 2026</h1>
-<p class="hero-subtitle">Calculate your exact tax benefit with step-down phases, salary cap, and 5-year projection.</p>
+<p class="hero-subtitle">Calculate your tax benefit using the flat 30% rate, the 27% rate announced for 2027, the salary cap, and a 5-year projection.</p>
 <div class="meta">Free &middot; No signup required &middot; By Sarah van den Berg</div>
 </div>
 <div class="tool-hero-icon" aria-hidden="true">
@@ -1007,7 +1007,7 @@ aria-label="Salary slider"
 </div>
 <div class="salary-warning" id="salaryWarning">
 Your salary may be below the minimum threshold for the 30% ruling.
-The minimum taxable salary after applying the ruling is <strong>€46.107</strong> (standard) or <strong>€35.048</strong> (under 30 with master's/PhD).
+The minimum taxable salary after applying the ruling is <strong>€48.013</strong> (standard, 2026) or <strong>€36.497</strong> (under 30 with master's/PhD).
 <a href="/tools/salary-checker/">Check the HSM salary requirement</a>.
 </div>
 </div>
@@ -1054,7 +1054,7 @@ Did you already have the 30% ruling before 1 January 2024?
 <input type="checkbox" id="before2024" aria-label="Had 30% ruling before 2024">
 <span class="toggle-slider"></span>
 </label>
-<span class="toggle-label" id="before2024Label">No — step-down rule applies</span>
+<span class="toggle-label" id="before2024Label">No — 27% applies from 2027</span>
 </div>
 </div>
 
@@ -1079,21 +1079,21 @@ Calculate my tax benefit &rarr;
 <span class="fact-icon" aria-hidden="true">&#10003;</span>
 <div>
 <strong>Salary cap (Balkenendenorm)</strong>
-Max. €233.000/year
+Max. €262.000/year (max. allowance €78.600)
 </div>
 </li>
 <li>
 <span class="fact-icon" aria-hidden="true">&#10003;</span>
 <div>
-<strong>Step-down rule (since 2024)</strong>
-30% → 20% → 10%
+<strong>Percentage</strong>
+Flat 30% in 2025–2026 → 27% from 2027
 </div>
 </li>
 <li>
 <span class="fact-icon" aria-hidden="true">&#10003;</span>
 <div>
-<strong>Minimum salary threshold</strong>
-€46.107 taxable / €35.048 (under 30 + master's)
+<strong>Minimum salary threshold (2026)</strong>
+€48.013 taxable / €36.497 (under 30 + master's)
 </div>
 </li>
 <li>
@@ -1133,7 +1133,7 @@ RESULTS
 <div class="benefit-hero-card">
 <div class="benefit-label">Your annual tax benefit</div>
 <div class="benefit-amount" id="annualBenefitAmount">€0</div>
-<div class="benefit-period" id="benefitPeriodLabel">in the first 20 months</div>
+<div class="benefit-period" id="benefitPeriodLabel">per year at the applicable rate</div>
 <div class="monthly-amount" id="monthlyBenefitAmount">= €0 per month</div>
 </div>
 
@@ -1165,7 +1165,7 @@ RESULTS
 <div class="result-card total-5y-card">
 <h3>Total 5-Year Benefit</h3>
 <div class="big-number" id="total5yBenefit">€0</div>
-<div class="sub-text" id="total5ySubtext">across all three phases</div>
+<div class="sub-text" id="total5ySubtext">across the 5-year period</div>
 </div>
 
 <!-- Effective tax rate -->
@@ -1275,63 +1275,58 @@ On a salary of €80.000, the 30% ruling saves approximately €8.000–€10.00
 <tbody>
 <tr>
 <td>Standard (30 years or older)</td>
-<td>€46.107</td>
-<td>approx. €65.867</td>
+<td>€48.013</td>
+<td>approx. €68.590</td>
 </tr>
 <tr>
 <td>Under 30 with master's degree or PhD</td>
-<td>€35.048</td>
-<td>approx. €50.069</td>
+<td>€36.497</td>
+<td>approx. €52.138</td>
 </tr>
 </tbody>
 </table>
 <p>
-These thresholds are updated annually. Note that the <em>gross</em> salary required is higher than the taxable minimum because the ruling itself reduces the taxable base.
+These are the 2026 thresholds; they are updated annually for inflation. Note that the <em>gross</em> salary required is higher than the taxable minimum because the ruling itself reduces the taxable base. A higher salary norm has been announced for 2027 for anyone whose ruling first applied on or after 1 January 2025, but it has not yet been enacted, so the exact 2027 amounts are not yet known.
 </p>
 
-<h2>The step-down rule explained (2024–2026)</h2>
+<h2>The percentage: 30% now, 27% from 2027</h2>
 <p>
-Since 1 January 2024, the Dutch government introduced a step-down schedule for new 30% ruling applications. Instead of receiving 30% tax-free for the full five years, the percentage decreases in three phases:
+There is a persistent myth that the ruling steps down from 30% to 20% to 10% across the five years. It does not. That schedule was introduced by the 2024 Tax Plan but <strong>repealed by the 2025 Tax Plan before it ever took effect</strong>, so no one has ever been paid on the 20% or 10% basis. Any calculator or article still applying it will understate your benefit substantially.
+</p>
+<p>
+What actually applies:
 </p>
 
-<table class="info-table" aria-label="30% ruling step-down percentages from 2024">
+<table class="info-table" aria-label="30% ruling percentage per year">
 <thead>
 <tr>
-<th>Phase</th>
-<th>Duration</th>
-<th>Tax-free percentage</th>
+<th>Period</th>
+<th>Maximum tax-free percentage</th>
 </tr>
 </thead>
 <tbody>
 <tr>
-<td>Phase 1</td>
-<td>Months 1–20 (approx. years 1–2)</td>
-<td>30%</td>
+<td>2025 and 2026</td>
+<td>30% — flat, in every month of the ruling</td>
 </tr>
 <tr>
-<td>Phase 2</td>
-<td>Months 21–40 (approx. years 2–4)</td>
-<td>20%</td>
-</tr>
-<tr>
-<td>Phase 3</td>
-<td>Months 41–60 (approx. years 4–5)</td>
-<td>10%</td>
+<td>2027 onwards</td>
+<td>27% (announced in the 2025 Tax Plan for 1 January 2027)</td>
 </tr>
 </tbody>
 </table>
 
 <div class="callout warning">
 <strong>Transitional arrangement for ruling holders before 2024</strong>
-If you already had an approved 30% ruling before 1 January 2024, you are not affected by the step-down. You continue to receive the full 30% tax-free allowance for the remainder of your original 5-year period. Select "Yes" on the toggle above to see this calculation.
+If the ruling was already being applied to your salary on or before 31 December 2023, you keep the full 30% for the remainder of your original 5-year period and never move to 27%. Select "Yes" on the toggle above to see this calculation. Note that this protection ends if your status as an ingekomen werknemer is interrupted after 2023 (a job gap of up to three months does not count as an interruption). Holders whose ruling first applied in 2024 or later move to 27% in 2027; if it first applied in 2025 or later, a higher salary norm is also announced for 2027.
 </div>
 
 <h2>Salary cap: the Balkenendenorm</h2>
 <p>
-From 2024 onwards, the 30% tax-free allowance can only be applied to the portion of your salary up to the so-called <em>Balkenendenorm</em> — the public sector salary norm for senior officials. In 2026 this cap is <strong>€233.000 gross per year</strong>.
+From 2024 onwards, the 30% tax-free allowance can only be applied to the portion of your salary up to the so-called <em>Balkenendenorm</em> — the public sector salary norm for senior officials. In 2026 this cap is <strong>€262.000 gross per year</strong>, which puts the maximum tax-free allowance at <strong>€78.600</strong>.
 </p>
 <p>
-If your annual salary exceeds €233.000, the ruling still applies, but only on the first €233.000. Any amount above the cap is fully subject to Dutch income tax at the highest rate (49.50%).
+If your annual salary exceeds €262.000, the ruling still applies, but only on the first €262.000. Any amount above the cap is fully subject to Dutch income tax at the highest rate (49.50%).
 </p>
 <p>
 For most expats this cap has no practical impact, since the vast majority earn below this threshold.
@@ -1394,7 +1389,7 @@ In addition, the <strong>general tax credit</strong> (<em>algemene heffingskorti
 <summary>What is the 30% ruling in the Netherlands?</summary>
 <div class="faq-answer">
 <p>The 30% ruling (<em>30%-regeling</em>) is a Dutch tax incentive for highly skilled migrants recruited from abroad. It allows a portion of your salary to be paid as a tax-free allowance to cover the extra costs of living in the Netherlands ("extraterritorial costs").</p>
-<p>Since 2024, the percentage steps down over time: 30% for the first 20 months, 20% for months 21–40, and 10% for months 41–60. After 60 months the ruling expires automatically.</p>
+<p>The percentage is a flat 30% in 2025 and 2026, dropping to a maximum of 27% from 1 January 2027 (30% throughout if the ruling was already applied on or before 31 December 2023). The 30/20/10 step-down announced in 2024 was repealed before it took effect. After 60 months the ruling expires automatically.</p>
 </div>
 </details>
 </li>
@@ -1403,7 +1398,7 @@ In addition, the <strong>general tax credit</strong> (<em>algemene heffingskorti
 <details>
 <summary>Who qualifies for the 30% ruling in 2026?</summary>
 <div class="faq-answer">
-<p>To qualify you must: (1) be recruited from abroad by a Dutch employer, (2) have specific expertise that is scarce in the Dutch labour market, (3) meet the salary threshold (€46.107 taxable for most workers, or €35.048 for workers under 30 with a master's or higher), and (4) have lived more than 150 km from the Dutch border in at least 16 of the 24 months before starting your Dutch job.</p>
+<p>To qualify you must: (1) be recruited from abroad by a Dutch employer, (2) have specific expertise that is scarce in the Dutch labour market, (3) meet the salary threshold (€48.013 taxable for most workers in 2026, or €36.497 for workers under 30 with a master's or higher), and (4) have lived more than 150 km from the Dutch border in at least 16 of the 24 months before starting your Dutch job.</p>
 </div>
 </details>
 </li>
@@ -1412,7 +1407,7 @@ In addition, the <strong>general tax credit</strong> (<em>algemene heffingskorti
 <details>
 <summary>What is the minimum salary for the 30% ruling in 2026?</summary>
 <div class="faq-answer">
-<p>In 2026 the <em>taxable</em> salary after applying the ruling must be at least <strong>€46.107</strong> (standard) or <strong>€35.048</strong> (workers under 30 with a master's degree or PhD). These are after-ruling minimums. Your gross salary must therefore be at least approximately €65.867 or €50.069 respectively.</p>
+<p>In 2026 the <em>taxable</em> salary after applying the ruling must be at least <strong>€48.013</strong> (standard) or <strong>€36.497</strong> (workers under 30 with a master's degree or PhD). These are after-ruling minimums. Your gross salary must therefore be at least approximately €68.590 or €52.138 respectively.</p>
 </div>
 </details>
 </li>
@@ -1421,23 +1416,19 @@ In addition, the <strong>general tax credit</strong> (<em>algemene heffingskorti
 <details>
 <summary>What is the Balkenendenorm salary cap?</summary>
 <div class="faq-answer">
-<p>Since 2024 the 30% ruling is capped at the <em>Balkenendenorm</em> — the maximum public sector salary norm. In 2026 this is <strong>€233.000 gross per year</strong>. If you earn more, the ruling still applies but only on the first €233.000. Above this cap your salary is fully taxable.</p>
-<p>For most expats this cap has no practical effect, as the vast majority earn below €233.000.</p>
+<p>Since 2024 the 30% ruling is capped at the <em>Balkenendenorm</em> — the maximum public sector salary norm. In 2026 this is <strong>€262.000 gross per year</strong>, so the maximum tax-free allowance is €78.600. If you earn more, the ruling still applies but only on the first €262.000. Above this cap your salary is fully taxable.</p>
+<p>For most expats this cap has no practical effect, as the vast majority earn below €262.000.</p>
 </div>
 </details>
 </li>
 
 <li class="faq-item">
 <details>
-<summary>How does the step-down rule work?</summary>
+<summary>Is there a 30/20/10 step-down?</summary>
 <div class="faq-answer">
-<p>For anyone whose 30% ruling started on or after 1 January 2024, the tax-free percentage decreases in three phases:</p>
-<ul>
-<li>Months 1–20: 30% of salary is tax-free</li>
-<li>Months 21–40: 20% of salary is tax-free</li>
-<li>Months 41–60: 10% of salary is tax-free</li>
-</ul>
-<p>If you had an approved ruling before 1 January 2024, you benefit from a transitional arrangement: the original 30% rate applies for the full remaining 5-year period.</p>
+<p>No. A step-down of 30% → 20% → 10% across the five years was legislated in the 2024 Tax Plan, but it was repealed in the 2025 Tax Plan before it ever applied to anyone. It is not part of Dutch law, and sources still describing it as current are out of date.</p>
+<p>The percentage is a flat <strong>30%</strong> in every month of 2025 and 2026. From <strong>1 January 2027</strong> the maximum becomes <strong>27%</strong>.</p>
+<p>Whether that drop hits you depends on when the ruling was first applied to your salary: on or before 31 December 2023 means you keep 30% for your full remaining duration; in 2024 means 27% from 2027 on the current salary norm; in 2025 or later means 27% from 2027 with an announced higher salary norm as well.</p>
 </div>
 </details>
 </li>
@@ -1587,26 +1578,40 @@ var salary = parseFloat(document.getElementById('salary').value) || 0;
 var age = document.getElementById('age').value;
 var hasDegree = document.getElementById('hasDegree').checked;
 var before2024 = document.getElementById('before2024').checked;
+var startYear = parseInt(document.getElementById('arrivalYear').value, 10) || 2026;
 
 // Fire GA4 event: tool_start
 if (typeof gtag === 'function') {
 gtag('event', 'tool_start', { tool_name: '30_percent_ruling_calculator' });
 }
 
-// Determine ruling phases
-var phases;
-if (before2024) {
-phases = [{ label: 'Full 5 years (transitional)', months: 60, pct: 0.30 }];
-} else {
-phases = [
-{ label: 'Months 1–20 (Years 1–2)', months: 20, pct: 0.30 },
-{ label: 'Months 21–40 (Years 2–4)', months: 20, pct: 0.20 },
-{ label: 'Months 41–60 (Years 4–5)', months: 20, pct: 0.10 }
-];
+// Determine the ruling percentage per calendar year.
+// The 30/20/10 step-down from the 2024 Tax Plan was repealed by the 2025 Tax Plan
+// before it ever took effect, so the percentage is flat within each year:
+//   2025 and 2026            -> 30%
+//   2027 onwards             -> 27% (announced; art. 31a lid 8 Wet LB 1964 per 1-1-2027)
+// Transitional rule: if the ruling was already applied on or before 31-12-2023,
+// the holder keeps 30% for the full remaining duration.
+function pctForYear(year) {
+if (before2024) return 0.30;
+return year >= 2027 ? 0.27 : 0.30;
 }
 
-// Apply salary cap (Balkenendenorm)
-var CAP = 233000;
+// Build one row per calendar year of the 5-year entitlement
+var phases = [];
+for (var y = 0; y < 5; y++) {
+var calYear = startYear + y;
+phases.push({
+label: 'Year ' + (y + 1) + ' (' + calYear + ')',
+months: 12,
+pct: pctForYear(calYear),
+year: calYear
+});
+}
+
+// Apply salary cap (Balkenendenorm): allowance is calculated on salary up to this
+// amount. 2026: €262.000, giving a maximum tax-free allowance of €78.600.
+var CAP = 262000;
 var effectiveSalary = Math.min(salary, CAP);
 
 // Tax without ruling (on full effective salary)
@@ -1650,16 +1655,17 @@ var rateWith = effectiveSalary > 0 ? (taxWith30 / effectiveSalary) * 100 : 0;
 document.getElementById('annualBenefitAmount').textContent = fmtEUR(phase1AnnualBenefit);
 document.getElementById('monthlyBenefitAmount').textContent = '= ' + fmtEUR(monthlyBenefit) + ' per month';
 if (before2024) {
-document.getElementById('benefitPeriodLabel').textContent = 'per year (full 5-year transitional arrangement)';
+document.getElementById('benefitPeriodLabel').textContent = 'per year (30% for the full 5 years under the transitional rule)';
 } else {
-document.getElementById('benefitPeriodLabel').textContent = 'per year in the first 20 months';
+document.getElementById('benefitPeriodLabel').textContent = 'per year at the ' +
+Math.round(pctForYear(startYear) * 100) + '% rate that applies in ' + startYear;
 }
 
 // Breakdown table
 var tbody = document.getElementById('breakdownBody');
 tbody.innerHTML = '';
 phaseResults.forEach(function (pr, idx) {
-var pctClass = pr.pct === 0.30 ? 'p30' : (pr.pct === 0.20 ? 'p20' : 'p10');
+var pctClass = pr.pct === 0.30 ? 'p30' : 'p27';
 var pctLabel = Math.round(pr.pct * 100) + '%';
 var tr = document.createElement('tr');
 if (idx === 0) tr.className = 'phase-active';
@@ -1674,8 +1680,9 @@ tbody.appendChild(tr);
 // Total 5Y
 document.getElementById('total5yBenefit').textContent = fmtEUR(total5yBenefit);
 document.getElementById('total5ySubtext').textContent = before2024
-? 'over 5 years (full 30% transitional)'
-: 'across all three phases';
+? 'over 5 years (30% throughout, transitional rule)'
+: 'over ' + startYear + '–' + (startYear + 4) +
+(startYear + 4 >= 2027 ? ' (30% through 2026, 27% from 2027)' : ' at 30%');
 
 // Effective tax rates
 document.getElementById('rateWithout').textContent = fmtNL(rateWithout, 1) + '%';
@@ -1789,7 +1796,7 @@ updateSalaryWarning();
 document.getElementById('before2024').addEventListener('change', function () {
 document.getElementById('before2024Label').textContent = this.checked
 ? 'Yes — full 30% for complete 5-year period (transitional)'
-: 'No — step-down rule applies';
+: 'No — 27% applies from 2027';
 });
 
 /* ── Calculate button ─────────────────────────────────────── */

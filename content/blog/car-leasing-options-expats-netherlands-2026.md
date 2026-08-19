@@ -243,7 +243,7 @@ Lease is the wrong answer when:
 
 **You can wait 6 to 12 months and have €8,000 to €15,000 in cash**. Buying second-hand cash, properly inspected, is the cheapest long-term option in the Netherlands.
 
-For the buying alternative, see [best Dutch second-hand car platforms 2026](/blog/best-second-hand-car-platforms-netherlands-2026/).
+For the buying alternative, see [best Dutch second-hand car platforms 2026](/blog/best-second-hand-car-platforms-netherlands-2026/). For the full total-cost comparison — depreciation curves, Nibud ownership figures, break-even by length of stay and the BKR consequence for your mortgage — see [leasing vs buying a car as an expat in the Netherlands](/blog/leasing-vs-buying-car-expat-netherlands-2026/).
 
 ---
 

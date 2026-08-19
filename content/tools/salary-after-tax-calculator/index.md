@@ -1,7 +1,7 @@
 ---
 title: Netherlands Salary After-Tax Calculator 2026 (with 30% Ruling)
 date: 2026-04-29 08:00:00+02:00
-lastmod: 2026-04-29 08:00:00+02:00
+lastmod: 2026-08-19 10:00:00+02:00
 description: Calculate your real take-home pay in the Netherlands. Includes 30% ruling, AOW, ZVW and box 1 tax brackets for 2026.
 type: tools
 layout: single
@@ -132,7 +132,7 @@ schema_type: Article
         <div id="with-ruling" style="font-size:1.3rem;font-weight:700;color:#198754;">—</div>
       </div>
     </div>
-    <p style="margin:12px 0 0 0;font-size:0.85rem;color:#2e7d32;">The 30% ruling converts 30% of your gross salary into a tax-free allowance for the first 20 months, then steps down to 20% and 10%.</p>
+    <p style="margin:12px 0 0 0;font-size:0.85rem;color:#2e7d32;">The 30% ruling converts 30% of your gross salary into a tax-free allowance. This is a flat 30% for the whole ruling in 2026 — the 30/20/10 step-down announced in 2024 was scrapped before it took effect. From 1 January 2027 the maximum drops to 27% unless your ruling was already applied on or before 31 December 2023.</p>
   </div>
 
   <p style="font-size:0.8rem;color:#868e96;margin-top:16px;">Estimates based on 2026 tax rates. Does not include Arbeidskorting (employment tax credit) in detail, pension contributions, or sector-specific levies. Actual payslip may differ. Consult a Dutch tax advisor for a precise calculation.</p>
@@ -398,12 +398,12 @@ The 30% ruling (30%-regeling) is the most valuable tax benefit available to expa
 
 The ruling allows your employer to pay 30% of your gross salary as a tax-free allowance to cover "extraterritorial costs" — the extra expenses of being an expat in the Netherlands (housing, double household costs, travel home, etc.).
 
-Since January 2024, the ruling operates on a step-down schedule:
-- **Months 1–20:** 30% of gross salary tax-free
-- **Months 21–40:** 20% of gross salary tax-free
-- **Months 41–60:** 10% of gross salary tax-free
+A step-down schedule (30% / 20% / 10% across the five years) was legislated in the 2024 Tax Plan, but it was repealed in the 2025 Tax Plan before it ever took effect. It is not the law, and any source still describing it as current is out of date. The percentage today is:
 
-The ruling runs for a maximum of 5 years (60 months).
+- **2025 and 2026:** a flat 30% of gross salary tax-free, for every month of the ruling
+- **From 1 January 2027:** a maximum of 27% — unless the ruling was already being applied to your salary on or before 31 December 2023, in which case transitional rules keep you at 30%. Rulings that first applied on or after 1 January 2025 also face a higher salary norm from 2027.
+
+The ruling runs for a maximum of 5 years (60 months). The calculator above applies the flat 30% rate.
 
 ### Example: €6,000 Gross Monthly Salary
 
@@ -411,7 +411,7 @@ Without the 30% ruling:
 - Taxable income: €6,000/month (€72,000/year)
 - Estimated net monthly: ~€3,820
 
-With the 30% ruling (first 20 months):
+With the 30% ruling:
 - Tax-free allowance: €1,800/month
 - Taxable income: €4,200/month (€50,400/year)
 - Estimated net monthly: ~€4,510
@@ -527,7 +527,7 @@ The Netherlands sits between Germany and the UK on total tax burden at most sala
 
 4. **Check your payslip** — verify that loonheffing, ZVW, and any pension contributions match what you expected.
 5. **File your annual tax return** — even if your employer withholds correctly, you may be entitled to refunds (e.g., mortgage interest deduction, healthcare deductions). The annual M-form (for partial-year residents) or C-form (for non-residents) may apply in your first year.
-6. **If you have the 30% ruling** — request the partial non-resident status (partieel buitenlandse belastingplicht) if you have significant savings or investments abroad. This can exclude those from Dutch Box 3 wealth tax.
+6. **If you have the 30% ruling** — do not count on the partial non-resident status (partieel buitenlandse belastingplicht) to shelter foreign savings from Dutch Box 3 tax. It was abolished as of 1 January 2025 and can no longer be elected from the 2025 return onwards; only expats who were already using the ruling before 2024 can still claim it, up to and including their 2026 return.
 
 ### Sending Money Home
 

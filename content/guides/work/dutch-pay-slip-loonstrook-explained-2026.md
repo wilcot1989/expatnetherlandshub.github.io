@@ -105,10 +105,10 @@ This is one of the most important lines for expats on the [30% ruling](/guides/f
 
 Loonheffing is the largest single deduction on almost every Dutch pay slip, and it is the one that causes the most confusion. The name is slightly misleading: it is not simply income tax. It is a combined withholding that covers:
 
-- **Inkomstenbelasting (income tax)** — taxed at 36.97% up to €75,518, and 49.50% above that threshold in 2026
+- **Inkomstenbelasting (income tax)** — in 2026 taxed in three brackets: 35.75% up to €38,883, 37.56% up to €78,426, and 49.50% above that
 - **Volksverzekeringen (national insurance contributions)** — covering AOW (state pension), ANW (survivor's benefit), and WLZ (long-term care), which are levied as part of box 1 income tax at the lower rate bracket
 
-The volksverzekeringen component is why the lower income tax rate in the Netherlands (36.97%) looks higher than the headline rate in, say, the UK (20%). In the UK, national insurance is a separate charge; in the Netherlands it is folded into the loonheffing.
+The volksverzekeringen component is why the lower Dutch income tax rates (35.75%–37.56% in 2026) look higher than the headline rate in, say, the UK (20%). In the UK, national insurance is a separate charge; in the Netherlands it is folded into the loonheffing.
 
 Your employer applies a loonheffingstabel (tax table) to calculate your monthly withholding. This table incorporates your personal allowances, including the arbeidskorting (employment tax credit) and the algemene heffingskorting (general tax credit). These credits reduce the amount withheld and are applied automatically by your employer once you have submitted a loonbelastingverklaring (payroll tax declaration form) — make sure you complete this when you start a new job.
 
@@ -309,7 +309,7 @@ To close the loop, here is a quick-reference summary of the key deduction rates 
 
 | Deduction | Who pays | Approximate rate |
 |---|---|---|
-| Loonheffing (income tax + volksverzekeringen) | Employee | 36.97% up to €75,518 / 49.50% above |
+| Loonheffing (income tax + volksverzekeringen) | Employee | 35.75% to €38,883 / 37.56% to €78,426 / 49.50% above (2026) |
 | ZVW-bijdrage (healthcare) | Employer on behalf of employee | 6.51% of fiscaal loon |
 | Pensioenpremie (employee share) | Employee | 4–8% of pensioengrondslag (varies by scheme) |
 | WW-premie — permanent contract | Employee (small share) | 2.74% |
