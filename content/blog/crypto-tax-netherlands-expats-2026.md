@@ -1,7 +1,7 @@
 ---
 title: 'Crypto Tax Netherlands 2026: Expat Guide'
 date: 2026-03-22 10:00:00+01:00
-lastmod: 2026-04-23 10:00:00+01:00
+lastmod: 2026-08-19 10:00:00+02:00
 description: 'How crypto is taxed in the Netherlands in 2026: Box 3 rules, reporting requirements, staking, DeFi, NFTs, and the mistakes that get expats into trouble.'
 categories:
 - finance
@@ -241,9 +241,11 @@ Old exchange accounts, small amounts on multiple platforms, early test wallets â
 
 This has been a dangerous assumption since DAC8 came into force. Major exchanges including Coinbase, Kraken, and others are now required to report EU user data to their home country tax authorities, which then share it with other EU member states including the Netherlands. The practical net is widening every year.
 
-### 5. Misunderstanding the Partial Non-Resident Status Under the 30% Ruling
+### 5. Assuming the Partial Non-Resident Status Under the 30% Ruling Still Applies
 
-If you receive the 30% ruling and opted for partial non-resident status, you may be exempt from Dutch Box 3 tax on foreign assets during the ruling period. However, crypto held on a Dutch-registered exchange (like Bitvavo) is generally considered a Dutch asset, not a foreign one. Crypto on a non-Dutch exchange might be treated differently. This is genuinely complex and worth specific advice from a tax advisor familiar with both the 30% ruling and crypto.
+Partial non-resident status used to exempt 30% ruling holders from Dutch Box 3 tax on foreign assets. It was abolished per 1 January 2025 â€” as of the 2025 tax return you can no longer opt for partial foreign tax liability. Only expats who were already using the ruling before 2024 may still elect it, up to and including the 2026 return, after which it is gone for everyone. If your ruling started in 2024 or later, your crypto is in Box 3 regardless of where you hold it.
+
+For the transitional group there is a further wrinkle: crypto held on a Dutch-registered exchange (like Bitvavo) is generally considered a Dutch asset, not a foreign one, so the exemption would not reach it anyway. Crypto on a non-Dutch exchange might be treated differently. This is genuinely complex and worth specific advice from a tax advisor familiar with both the 30% ruling and crypto.
 
 ---
 

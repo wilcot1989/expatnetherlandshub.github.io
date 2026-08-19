@@ -1,7 +1,7 @@
 ---
 title: 'Dutch Tax Return Checklist for Expats 2026: Before You File'
 date: 2026-03-07 10:00:00+01:00
-lastmod: 2026-04-23 10:00:00+01:00
+lastmod: 2026-08-19 10:00:00+02:00
 description: Complete checklist for your Dutch tax return as an expat. Documents, deadlines, deductions, and when to hire a tax advisor. Updated for the 2025 tax year.
 categories:
 - finance
@@ -38,7 +38,7 @@ faq:
 - q: Do I need a tax advisor as an expat?
   a: 'You likely need one if: it is your first or last year in the Netherlands (M-form required), you have the 30% ruling, you earned income in multiple countries, you own property abroad, or you are self-employed (ZZP). Expat-specialised tax advisors charge EUR 150-500 for a standard return. They typically find deductions that more than cover their fee.'
 - q: What can I deduct on my Dutch tax return as an expat?
-  a: 'Common deductions: mortgage interest (hypotheekrenteaftrek), pension contributions (lijfrente), healthcare costs above the threshold (EUR 143 in 2025), charitable donations to ANBI organisations, study costs related to your profession, and specific medical transport costs. With the 30% ruling, you can also elect partial non-resident status to avoid Box 3 wealth tax on foreign assets.'
+  a: 'Common deductions: mortgage interest (hypotheekrenteaftrek), pension contributions (lijfrente), healthcare costs above the threshold (EUR 143 in 2025), charitable donations to ANBI organisations, study costs related to your profession, and specific medical transport costs. Note that the partial non-resident status that used to keep foreign assets out of Box 3 for 30% ruling holders was abolished per 1 January 2025 — only expats who were already using the ruling before 2024 may still elect it, up to and including the 2026 return.'
 - q: What is the M-form and do I need it?
   a: The M-form (M-biljet) is a special tax return for the year you arrived in or left the Netherlands. It covers worldwide income and is more complex than a regular return. You must file an M-form for your first and last calendar year in the Netherlands. It cannot be filed online — you need the paper form or a tax advisor.
 schema_type: Article
@@ -164,11 +164,13 @@ For a detailed look at how the pension system works, see [expat pension guide Ne
 
 ## The 30% Ruling Tax Return: What Changes
 
-If you have the 30% ruling, your tax return is slightly more complex — and slightly more advantageous.
+If you have the 30% ruling, your tax return is slightly more complex — but no longer more advantageous in Box 3, for most people.
 
-The most important option is **partial non-resident status**. With this election, you are treated as a resident for Box 1 (income) but as a non-resident for Box 2 (substantial interest) and Box 3 (savings and investments). This means foreign savings, investments, and property are not subject to Dutch wealth tax.
+**Partial non-resident status** used to be the big one. With that election you were treated as a resident for Box 1 (income) but as a non-resident for Box 2 (substantial interest) and Box 3 (savings and investments), so foreign savings, investments and property stayed outside Dutch wealth tax. It was **abolished with effect from 1 January 2025** — as of the 2025 return you can no longer opt for partial foreign tax liability.
 
-You make this election each year in your tax return. It is not automatic. If you forget to elect it, you will be taxed as a full resident and your foreign assets will fall into Box 3.
+One transitional group is left: if you were already using the 30% ruling **before 2024**, you may still elect the status **up to and including your 2026 return** (filed in spring 2027), after which it is gone for everyone. That election is made each year in the return and is not automatic — forget it and your foreign assets fall into Box 3.
+
+If your ruling first applied in 2024 or later, the status was never open to you. Declare your worldwide savings and investments in Box 3 like any other resident; the 2026 Box 3 rate is 36% on the deemed return.
 
 Use the [30% Ruling Calculator](/tools/30-percent-ruling-calculator/) to see whether the ruling is still beneficial in your situation, and read the [30% ruling guide](/guides/finance/30-percent-ruling-netherlands-2026/) for the full picture.
 
@@ -182,7 +184,7 @@ I will be honest: not everyone needs one. But some situations genuinely call for
 
 - **It is your first year in the Netherlands.** You need an M-form, which is significantly more complex than the standard return and cannot be filed online. Most expat tax advisors handle these routinely.
 - **It is your last year in the Netherlands.** Same reason — M-form required for the year of departure.
-- **You have the 30% ruling.** Especially if you have foreign assets, pension rights abroad, or income from multiple countries. The partial non-resident election alone can be worth hundreds of euros.
+- **You have the 30% ruling.** Especially if you have foreign assets, pension rights abroad, or income from multiple countries. And if you were already using the ruling before 2024, an advisor can check whether the partial non-resident election was correctly made in the years it was still available to you — through the 2026 return.
 - **You are self-employed.** The ZZP tax return involves profit calculation, depreciation, VAT reconciliation, and various entrepreneur deductions. Worth getting right.
 - **You earn income from multiple countries.** Double tax treaties apply differently depending on your situation, employer, and the countries involved.
 - **You own property abroad.** Even if it generates no income, it may need to be reported, and the treaty treatment varies.
@@ -209,7 +211,7 @@ If you are managing money across countries — receiving income from abroad, tra
 
 **Not claiming deductions because "it seems complicated."** The mortgage interest deduction is pre-filled for many filers. The healthcare cost deduction requires a bit of adding up. Neither is especially difficult, and both can produce meaningful refunds.
 
-**Putting foreign assets in the wrong box.** Foreign savings belong in Box 3 — unless you have elected partial non-resident status via the 30% ruling, in which case they may be exempt. Reporting them incorrectly (or not at all) is one of the more common audit triggers for expats.
+**Putting foreign assets in the wrong box.** Foreign savings belong in Box 3. The old exception — partial non-resident status via the 30% ruling — no longer applies unless you were already using the ruling before 2024, and even then only through the 2026 return. Reporting foreign assets incorrectly (or not at all) is one of the more common audit triggers for expats.
 
 **Using the wrong bank balance date for Box 3.** It is specifically 1 January. Not your most recent statement. Not the end of the year. January 1st. If you had a large sum in savings on that date and it has since been spent, you are still taxed on it.
 
@@ -258,7 +260,7 @@ The honest answer depends on your situation:
 
 **Seriously consider a tax advisor if:**
 - You are in your first or last year of Dutch residency (M-form required)
-- You have the 30% ruling and are navigating the partial non-resident status for Box 3
+- You have the 30% ruling and were using it before 2024, so the partial non-resident status for Box 3 is still in play for your 2026 return
 - You have foreign assets (bank accounts, investments, property outside the Netherlands)
 - You are self-employed or have freelance income alongside employment
 - You received a significant inheritance or made substantial gifts during the year
@@ -291,7 +293,7 @@ The most commonly missed deductions for expats:
 - Study costs (specific conditions apply post-2022 changes)
 
 **Step 5: Box 3 declaration.**
-Declare all assets above the heffingvrij vermogen (tax-free threshold — €57,000 per person in 2026). This includes Dutch savings accounts, investments, and second properties. If you have the partial non-resident status from the 30% ruling, only Dutch assets are declared.
+Declare all assets above the heffingvrij vermogen (tax-free threshold — €57,000 per person in 2026). This includes Dutch savings accounts, investments, and second properties, plus your foreign savings and investments. Only if you are in the transitional group still entitled to partial non-resident status (30% ruling in use before 2024, 2026 return at the latest) do you declare Dutch assets alone.
 
 **Step 6: Submit and receive aanslag (assessment).**
 The deadline is May 1 (or later with extension). After submission, you receive a voorlopige aanslag (provisional assessment) within a few weeks and a definitive aanslag usually within 3 months. If you are owed a refund (teruggave), it is paid within 6 weeks.

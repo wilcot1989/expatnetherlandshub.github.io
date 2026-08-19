@@ -36,7 +36,7 @@ faq:
 - q: What is the 30% ruling in the Netherlands?
   a: The 30% ruling is a Dutch tax benefit for highly skilled migrants recruited from abroad. It allows your employer to pay up to 30% of your gross salary as a tax-free allowance, intended to compensate for the additional costs of relocating to and living in the Netherlands. This effectively reduces your taxable income by 30%, resulting in significant tax savings.
 - q: What is the minimum salary for the 30% ruling in 2026?
-  a: 'In 2026, the minimum taxable salary (after applying the 30% reduction) is EUR 46,107 per year for standard applicants aged 30 and over. For employees under 30 who hold a qualifying master''s degree, the reduced threshold is EUR 35,048. Scientific researchers at designated institutions face no minimum threshold. These figures are adjusted annually by the Belastingdienst. To find the required gross salary, divide the taxable threshold by 0.7: EUR 46,107 / 0.7 = approximately EUR 65,867 gross.'
+  a: 'In 2026, the minimum taxable salary (after applying the 30% reduction) is EUR 48,013 per year for standard applicants aged 30 and over. For employees under 30 who hold a qualifying master''s degree, the reduced threshold is EUR 36,497. Scientific researchers at designated institutions face no minimum threshold. These figures are adjusted annually by the Belastingdienst. To find the required gross salary, divide the taxable threshold by 0.7: EUR 48,013 / 0.7 = approximately EUR 68,590 gross.'
 - q: What percentage is the 30% ruling in each year?
   a: 'In 2025 and 2026 the maximum tax-free allowance is a flat 30% for every holder of the ruling. The 30/20/10 step-down that was announced in the 2024 Tax Plan was scrapped again before it ever took effect, so it is not part of Dutch law. From 1 January 2027 the maximum drops to 27%, and a higher salary norm applies. Transitional rules decide what you get: if the ruling was applied to your salary on or before 31 December 2023 you keep 30% and the current salary norm for the rest of your five years; if it first applied in 2024 you move to 27% in 2027 but keep the current salary norm; if it first applied on or after 1 January 2025 you move to 27% in 2027 under the new, higher salary norm.'
 - q: Does the 30% ruling apply to Box 3 wealth tax?
@@ -111,13 +111,13 @@ Your taxable salary (after the 30% reduction) must meet or exceed the minimum th
 
 | Category | Approximate Annual Taxable Salary (2026) |
 |----------|------------------------------------------|
-| Standard applicants (30 and older) | EUR 46,107 |
-| Applicants under 30 with a qualifying master's degree | EUR 35,048 |
+| Standard applicants (30 and older) | EUR 48,013 |
+| Applicants under 30 with a qualifying master's degree | EUR 36,497 |
 | Scientific researchers at designated institutions | No minimum threshold |
 
 These figures are adjusted annually for inflation. Always check the latest thresholds on the Belastingdienst website or with your tax advisor.
 
-To work out the required gross salary, divide the threshold by 0.7. For the standard threshold: EUR 46,107 / 0.7 = approximately EUR 65,867 gross annual salary.
+To work out the required gross salary, divide the threshold by 0.7. For the standard threshold: EUR 48,013 / 0.7 = approximately EUR 68,590 gross annual salary.
 
 ### 4. Employer Must Be a Withholding Agent
 
@@ -137,15 +137,15 @@ The salary threshold is one of the most misunderstood parts of the 30% ruling, s
 
 | Category | Minimum Taxable Salary (after 30% deduction) | Minimum Required Gross Salary |
 |----------|----------------------------------------------|-------------------------------|
-| Standard applicants (age 30+) | EUR 46,107 | ~EUR 65,867 |
-| Under 30 with qualifying master's degree | EUR 35,048 | ~EUR 50,069 |
+| Standard applicants (age 30+) | EUR 48,013 | ~EUR 68,590 |
+| Under 30 with qualifying master's degree | EUR 36,497 | ~EUR 52,138 |
 | Scientific researchers at designated institutions | No minimum | N/A |
 
 These figures are adjusted annually in line with statutory minimum wage changes. The Belastingdienst publishes the updated amounts each January.
 
 ### The Under-30 Master's Degree Exception
 
-If you are under 30 years old and hold a master's degree (or equivalent) from a recognised institution, the lower threshold of EUR 35,048 (taxable) applies. This is a meaningful discount: it opens the ruling to junior professionals in tech, finance, and the sciences who might otherwise fall just short on salary.
+If you are under 30 years old and hold a master's degree (or equivalent) from a recognised institution, the lower threshold of EUR 36,497 (taxable) applies. This is a meaningful discount: it opens the ruling to junior professionals in tech, finance, and the sciences who might otherwise fall just short on salary.
 
 The degree must be genuine and verifiable. The Belastingdienst does not maintain a fixed list of recognised institutions, but degrees from accredited universities in EU/EEA countries, the UK, the US, Canada, and Australia are routinely accepted. Unusual or non-accredited qualifications may require additional documentation.
 
@@ -276,7 +276,7 @@ Use my [30% ruling calculator](/tools/30-percent-ruling-calculator/) to model yo
 
 ## Tax Savings Calculation by Salary Level
 
-To give you a realistic picture of the financial impact, here is how the 30% ruling affects take-home pay at various salary levels. These calculations use 2026 approximate tax rates and apply the first-20-months rate of 30%.
+To give you a realistic picture of the financial impact, here is how the 30% ruling affects take-home pay at various salary levels. These calculations use 2026 approximate tax rates and the flat 30% that applies through 2026.
 
 | Gross Annual Salary | Taxable Without Ruling | Taxable With 30% Ruling | Approximate Annual Tax Saving |
 |---------------------|----------------------|------------------------|-------------------------------|
@@ -368,7 +368,7 @@ Divorce does not end your 30% ruling. The ruling is tied to your employment cont
 
 #### Salary Threshold After Separation
 
-In some divorce scenarios, income can shift. If you agree to reduce your working hours, take unpaid leave, or change roles as part of a separation agreement, your salary may drop below the minimum threshold. If your taxable salary falls below EUR 46,107 (or EUR 35,048 for the under-30 master's track), the ruling lapses -- and once it lapses due to insufficient salary, it cannot be reinstated.
+In some divorce scenarios, income can shift. If you agree to reduce your working hours, take unpaid leave, or change roles as part of a separation agreement, your salary may drop below the minimum threshold. If your taxable salary falls below EUR 48,013 (or EUR 36,497 for the under-30 master's track), the ruling lapses -- and once it lapses due to insufficient salary, it cannot be reinstated.
 
 I have seen this happen to clients who negotiated part-time arrangements thinking it would give them flexibility during a difficult period, without realising the ruling would be at risk. If your gross salary is going to drop significantly, calculate the post-ruling impact on your net income first.
 
@@ -509,13 +509,13 @@ Use my [30% ruling calculator](/tools/30-percent-ruling-calculator/) to model th
 
 The minimum **taxable salary** (after the 30% reduction has been applied) is:
 
-- **EUR 46,107** for standard applicants aged 30 and over
-- **EUR 35,048** for applicants under 30 who hold a qualifying master's degree
+- **EUR 48,013** for standard applicants aged 30 and over
+- **EUR 36,497** for applicants under 30 who hold a qualifying master's degree
 - **No minimum** for scientific researchers at designated institutions
 
 To find the required **gross salary**, divide by 0.7:
-- Standard: EUR 46,107 ÷ 0.7 = **~EUR 65,867 gross**
-- Under-30 master's track: EUR 35,048 ÷ 0.7 = **~EUR 50,069 gross**
+- Standard: EUR 48,013 ÷ 0.7 = **~EUR 68,590 gross**
+- Under-30 master's track: EUR 36,497 ÷ 0.7 = **~EUR 52,138 gross**
 
 These thresholds are updated annually by the Belastingdienst. Always check the current figures before applying.
 
@@ -533,7 +533,7 @@ See the full [Partial Non-Resident Status section](#partial-non-resident-status-
 
 Divorce does not end your 30% ruling. The ruling is attached to your employment, not your marital status. As long as your employment continues, your salary stays above the threshold, and you remain in the Netherlands, the ruling is unaffected.
 
-The key risk is a post-divorce salary reduction. If reduced hours or a role change pushes your gross salary below ~EUR 65,867 (standard threshold), the ruling lapses. Once lost for insufficient salary, it cannot be reinstated. Your ex-partner's own ruling (if they had one through their employer) is entirely separate and unaffected.
+The key risk is a post-divorce salary reduction. If reduced hours or a role change pushes your gross salary below ~EUR 68,590 (standard threshold), the ruling lapses. Once lost for insufficient salary, it cannot be reinstated. Your ex-partner's own ruling (if they had one through their employer) is entirely separate and unaffected.
 
 ### Can I still get the 30% ruling if I change employers?
 

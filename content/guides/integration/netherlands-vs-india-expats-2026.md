@@ -1,7 +1,7 @@
 ---
 title: Netherlands vs India for Expats 2026
 date: 2026-04-22 10:00:00+01:00
-lastmod: 2026-04-23 10:00:00+01:00
+lastmod: 2026-08-19 10:00:00+01:00
 type: guide
 description: Moving from India to the Netherlands? Honest comparison of cost of living, salaries, tax, healthcare, and work culture for Indian knowledge migrants.
 categories:
@@ -27,7 +27,7 @@ faq:
 - q: Do I need to speak Dutch to work in the Netherlands?
   a: For most knowledge migrant roles, no. Companies like ASML, Philips, IMEC, and the major Amsterdam tech firms operate largely in English at team level. However, Dutch is very useful for daily life — dealing with the municipality, understanding housing contracts, and social integration all become easier once you have some Dutch. Many Indian expats find the DuoLingo route insufficient and opt for structured evening courses.
 - q: How does the 30% ruling work for Indian expats?
-  a: The 30% ruling allows your Dutch employer to pay 30% of your gross salary as a tax-free allowance, provided you were recruited from abroad and meet the salary threshold (€46,107 gross in 2026 for most roles). For Indian knowledge migrants, this is typically simple to claim. It applies for up to five years and can significantly reduce your effective income tax rate — from around 37–49% to something closer to 26–34% depending on your salary level.
+  a: The 30% ruling allows your Dutch employer to pay 30% of your gross salary as a tax-free allowance, provided you were recruited from abroad and meet the salary threshold (in 2026, €48,013 taxable salary after the 30% deduction — roughly €68,590 gross; €36,497 taxable, roughly €52,138 gross, if you are under 30 with a qualifying master's). For Indian knowledge migrants, this is typically simple to claim. It applies at a flat 30% for up to five years — the 30/20/10% step-down announced in 2024 was scrapped before it took effect, though the maximum drops to 27% for rulings running from 2027 — and can significantly reduce your effective income tax rate — from around 37–49% to something closer to 26–34% depending on your salary level.
 - q: Is healthcare in the Netherlands better than in India?
   a: Dutch healthcare is universally accessible and consistently high quality. Waiting times are shorter than Indian government hospitals but longer than top-tier private hospitals in Mumbai or Bengaluru. The key difference is that in the Netherlands, you pay €130–175/month for mandatory basic insurance that covers GP, specialist, hospital, and most prescription costs. Dental is not included in basic insurance — this surprises many Indian expats used to corporate dental plans.
 - q: What is the biggest cultural adjustment for Indian expats in the Netherlands?
@@ -103,7 +103,7 @@ At current exchange rates (roughly 1 EUR = 92 INR), €70,000 gross converts to 
 
 ### The 30% Ruling Multiplier
 
-The [30% ruling](/guides/finance/30-percent-ruling-netherlands-2026/) is the single most significant financial benefit available to Indian knowledge migrants in the Netherlands. If you were recruited from abroad and meet the salary threshold — €46,107 gross in 2026 — your employer can designate 30% of your salary as a tax-free allowance for up to five years.
+The [30% ruling](/guides/finance/30-percent-ruling-netherlands-2026/) is the single most significant financial benefit available to Indian knowledge migrants in the Netherlands. If you were recruited from abroad and meet the salary threshold — in 2026, €48,013 taxable salary once the 30% is deducted, which works out at roughly €68,590 gross (€36,497 taxable, roughly €52,138 gross, if you are under 30 with a qualifying master's) — your employer can designate 30% of your salary as a tax-free allowance for up to five years. The allowance is a flat 30% in 2025 and 2026; from 1 January 2027 the maximum becomes 27%, unless your ruling was already being applied on or before 31 December 2023.
 
 What this means in practice:
 
@@ -205,7 +205,7 @@ These rates look alarming if you are used to India's 30% top rate. But the compa
 
 **The India-Netherlands Double Tax Treaty** means you will not be taxed twice on the same income. India and the Netherlands have had a tax treaty in place since 1988 (updated since). If you remain tax resident in India for part of the year, or have Indian income streams (rental property, FDs, dividends), the treaty determines where and how each source is taxed. It is worth getting advice from an expat tax specialist in your first year — this is one area where a €200 consultation saves you far more than it costs.
 
-**Foreign assets and the 30% ruling:** One often-overlooked benefit is that with the 30% ruling, you can opt out of the Dutch wealth tax (box 3) on your foreign assets. If you have significant investments or property in India, this can be very valuable. The moment the 30% ruling expires, box 3 tax on those assets kicks in, so plan accordingly.
+**Foreign assets and box 3:** The 30% ruling used to come with partial non-resident taxpayer status, which kept foreign savings and investments out of the Dutch wealth tax (box 3). That option was abolished on 1 January 2025. Only people who already used the 30% ruling before 2024 can still choose it, and only up to and including their 2026 tax return. If your ruling started in 2024 or later, your Indian investments and property income fall under the normal Dutch box 3 rules (36% in 2026) from day one, so budget for it.
 
 For a full breakdown of the Dutch tax system, see our [Dutch Tax System Guide for Expats](/guides/finance/dutch-tax-system-expats-guide-2026/).
 

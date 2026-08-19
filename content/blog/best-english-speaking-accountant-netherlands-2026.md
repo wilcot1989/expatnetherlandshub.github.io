@@ -1,6 +1,7 @@
 ---
 title: "Best English-Speaking Accountant Netherlands 2026: ZZP and Expat Tax"
 date: 2026-08-03
+lastmod: 2026-08-19
 author: "Sarah van den Berg"
 categories: ["finance", "freelance"]
 tags: ["accountant", "expat tax", "zzp", "30 ruling", "bookkeeping"]
@@ -56,7 +57,7 @@ This guide is who-fits-what. I will be specific about prices, what each firm act
 The Dutch market is full of accountants who tick "English" on their website. The bar should be higher than that. For an expat freelancer or business owner you want:
 
 1. **Native or near-native English written communication** — your annual letter, BTW reminders, audit responses. Translation lag kills response time.
-2. **Familiarity with the 30% ruling** — including the tax-free reimbursement option, the partial non-resident status (until 2027 transition), and the M-form interaction.
+2. **Familiarity with the 30% ruling** — including the tax-free reimbursement option, the abolished partial non-resident status (gone since 1 January 2025, transitional group only through the 2026 return), and the M-form interaction.
 3. **Cross-border income literacy** — Upwork, Toptal, US/UK clients, dividend treaties, freelance work performed abroad on a Dutch BTW number.
 4. **eHerkenning + cloud bookkeeping setup** — if they are still asking you to courier paper receipts, run.
 5. **A response SLA you can quote back to them.** ExpataX promises 48 hours. Blue Umbrella's senior advisors do same-day for clients on the Premium tier. Mr K. promised nothing.
@@ -140,7 +141,7 @@ Mister Tax (Dutch: De Boekhoudvriend, branded as Mister Tax for English-speaking
 
 **What they cost:** roughly in line with Blue Umbrella, perhaps 10-15% cheaper on most line items.
 
-**Where they shine:** the personal touch. If you want to know your accountant's name and dog's name, Mister Tax is closer to that experience than the bigger firms. They are particularly strong on residency status questions and partial non-resident filings.
+**Where they shine:** the personal touch. If you want to know your accountant's name and dog's name, Mister Tax is closer to that experience than the bigger firms. They are particularly strong on residency status questions, including the remaining partial non-resident filings for pre-2024 ruling holders.
 
 **Where they fall short:** capacity. Tax season (March-April) can mean longer response times. Their service catalogue is also narrower — they do tax brilliantly, but for full-service bookkeeping with monthly reporting you will get more polish elsewhere.
 
@@ -241,7 +242,7 @@ The moment you cross into BV territory, or you have an unusually international s
 
 A quick look ahead, because the Dutch tax landscape moves:
 
-- The partial non-resident option for 30% ruling holders is being phased out for new arrivals; existing rulings have transition rules running through 2027. Your accountant should be running this calculation for you now if you arrived in 2024 or earlier.
+- The partial non-resident option for 30% ruling holders is already gone — abolished per 1 January 2025, so it cannot be chosen from the 2025 return onwards. Only expats who were using the ruling before 2024 keep it, and only through the 2026 return (filed spring 2027). If that is you, your accountant should be running this calculation now and planning for the step-up in your Box 3 bill from the 2027 return.
 - Box 3 (savings and investments) is moving to a real-rendement system. Expect more disclosure work and possibly a benefit for low-yield savers.
 - BTW reporting frequency may shift for small ZZP'ers — expect annual rather than quarterly for revenue below ~€20k.
 

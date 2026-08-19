@@ -1,7 +1,7 @@
 ---
 title: 'Best Dutch Health Insurance for Expats 2026: All 10'
 date: 2026-05-01 08:00:00+02:00
-lastmod: 2026-05-01 08:00:00+02:00
+lastmod: 2026-08-19 10:00:00+02:00
 description: Compare all 10 NL health insurers — Independer, Zilveren Kruis, CZ, Menzis, etc. Premium, deductible, English support.
 categories:
 - health
@@ -41,7 +41,7 @@ faq:
 - q: When can I switch Dutch health insurer?
   a: 'Once per year, during the open enrolment period: 1 November to 31 December. New coverage starts on 1 January. This window is fixed — outside of it, you can only switch if your employer''s collective insurance scheme changes, or in a small number of other specific circumstances. Premium prices change every year, and the insurer that offered the best value in 2023 may not be the best value in 2026. Put a November comparison reminder in your calendar now.'
 - q: Does the 30% ruling affect which health insurance I should choose?
-  a: The 30% ruling's partial non-resident status (if elected) affects your Box 3 wealth tax position, not your health insurance obligation. You are still required to have Dutch basisverzekering regardless of 30% ruling status. The ruling does not affect which insurer is best for you. However, if you are using partial non-resident status to exclude foreign assets from Box 3, and those assets include an active foreign health policy, note that the foreign policy does not substitute for Dutch basisverzekering — these are separate obligations.
+  a: The 30% ruling's partial non-resident status affected your Box 3 wealth tax position, never your health insurance obligation — and it was abolished per 1 January 2025 anyway, surviving only for expats who were already using the ruling before 2024 and only through their 2026 return. Either way, you are required to have Dutch basisverzekering regardless of 30% ruling status, and the ruling does not affect which insurer is best for you. A foreign health policy never substitutes for Dutch basisverzekering — these are separate obligations.
 - q: Is there a government subsidy toward Dutch health insurance premiums?
   a: Yes — the zorgtoeslag. If your income is below approximately €37,496 (single) or €47,368 (fiscal partners combined) in 2026, you may qualify for a monthly subsidy of up to approximately €130 per month toward your premium. Apply via the Belastingdienst using your DigiD. Many expats with lower salaries or those in their first months of work in the Netherlands qualify for this. It is worth checking even if you think you earn too much — the threshold includes the tax-free portion of the 30% ruling if applicable.
 - q: What is aanvullende verzekering and do I need it as an expat?
@@ -451,7 +451,7 @@ Many employers have collective contracts with one insurer at a 5–15% discount.
 
 The 30% ruling does not exempt you from the health insurance obligation. Regardless of ruling status, if you are BRP-registered in the Netherlands and working for a Dutch employer, you need Dutch basisverzekering.
 
-However, the 30% ruling's **partial non-resident status** does affect your Box 3 tax position. If you elect partial non-resident status, foreign savings and investments may be excluded from Dutch wealth tax. This is separate from your health insurance and does not affect your premium or coverage.
+The 30% ruling's **partial non-resident status** used to affect your Box 3 tax position by excluding foreign savings and investments from Dutch wealth tax. It was abolished per 1 January 2025 and only expats who were already using the ruling before 2024 can still elect it, through the 2026 return. Either way it is separate from your health insurance and does not affect your premium or coverage.
 
 **Zorgtoeslag and the 30% ruling:** If you have the 30% ruling, your taxable income is reduced by the 30% tax-free allowance. This means your taxable income for zorgtoeslag eligibility purposes may be lower than your gross salary — potentially making you eligible for the healthcare subsidy even on a nominally high salary. Run the calculation at mijntoeslagen.nl using your DigiD.
 

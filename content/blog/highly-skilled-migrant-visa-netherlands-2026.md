@@ -143,7 +143,8 @@ The **30% ruling** (*30%-regeling*) allows your employer to pay up to 30% of you
 
 - You must have lived more than 150 kilometres from the Dutch border for at least 16 of the 24 months before starting Dutch employment (the *afstandseis* — distance rule). Workers from border regions of Belgium and Germany sometimes do not qualify.
 - Your employer must apply to the Belastingdienst within four months of your start date. Applications submitted late are processed, but apply only from the application date — not retrospectively. Missing this window by even a day costs you months of the benefit.
-- Your salary must meet the separate minimum income threshold for the ruling itself (around €46,107 gross including the facility in 2026 for most roles).
+- Your salary must meet the separate minimum income threshold for the ruling itself — a different figure from the IND one. In 2026 that is €48,013 in *taxable* salary, meaning what is left after the 30% is deducted, so roughly €68,590 gross. Under 30 with a qualifying master's degree: €36,497 taxable, roughly €52,138 gross. Scientific researchers at designated institutions have no salary norm.
+- The percentage is a flat 30% throughout 2025 and 2026 (the 30/20/10 step-down announced in the 2024 Tax Plan was scrapped before it ever applied), and drops to a maximum of 27% from 1 January 2027 unless the ruling was already being applied to your salary on or before 31 December 2023.
 
 **On the salary threshold interaction:** the IND checks your kennismigrant threshold against your full contractual gross salary. The 30% facility does not reduce the salary figure the IND sees. So a salary of €5,500/month gross qualifies for the kennismigrant threshold (€5,331) even if 30% is paid as a tax-free component. Both checks are independent.
 

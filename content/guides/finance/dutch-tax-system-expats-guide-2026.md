@@ -1,7 +1,7 @@
 ---
 title: Dutch Tax System Explained for Expats 2026
 date: 2026-03-06 10:00:00+01:00
-lastmod: 2026-04-23 10:00:00+01:00
+lastmod: 2026-08-19 10:00:00+02:00
 description: Complete guide to the Dutch tax system for expats in 2026. Box 1, 2, and 3 explained, tax brackets, deductions, DigiD, and annual returns.
 categories:
 - finance
@@ -56,7 +56,7 @@ faq:
 - q: Do American expats pay double tax in the Netherlands?
   a: 'American expats are subject to US taxation on their worldwide income regardless of where they live, which creates potential double taxation with Dutch income tax. The US-Netherlands tax treaty and the Foreign Tax Credit (FTC) mechanism are the primary tools for avoiding actual double taxation: US taxes owed are typically reduced by the Dutch taxes already paid. The Foreign Earned Income Exclusion (FEIE) can exclude a portion of foreign earned income (USD 126,500 in 2025), though it cannot be combined with the FTC on the same income. Additionally, Americans with foreign bank accounts must file FBAR (FinCEN 114) if total foreign account balances exceed USD 10,000 at any point in the year. US expats in the Netherlands are strongly advised to use a dual-qualified (US and Dutch) tax adviser.'
 - q: What tax deductions can expats claim in the Netherlands?
-  a: 'Expats in the Netherlands can claim several deductions depending on their situation: the 30% ruling (up to 30% of gross salary tax-free, for qualifying highly skilled migrants); mortgage interest deduction (hypotheekrenteaftrek) for owner-occupiers; zorgtoeslag (healthcare allowance) and huurtoeslag (rent allowance) based on income; study and professional development costs; alimony and maintenance payments (alimentatie) paid to a former partner; gifts to ANBI-registered charities; and certain healthcare costs exceeding the statutory threshold. Box 3 partial non-residence status (for the year you arrive or leave) can also significantly reduce your wealth tax base.'
+  a: 'Expats in the Netherlands can claim several deductions depending on their situation: the 30% ruling (up to 30% of gross salary tax-free, for qualifying highly skilled migrants); mortgage interest deduction (hypotheekrenteaftrek) for owner-occupiers; zorgtoeslag (healthcare allowance) and huurtoeslag (rent allowance) based on income; study and professional development costs; alimony and maintenance payments (alimentatie) paid to a former partner; gifts to ANBI-registered charities; and certain healthcare costs exceeding the statutory threshold. part-year Box 3 treatment in the year you arrive or leave can also significantly reduce your wealth tax base.'
 - q: Is there a wealth tax in the Netherlands?
   a: Yes. Box 3 in the Dutch income tax system functions as a wealth tax. Rather than taxing actual investment returns, the Belastingdienst calculates a deemed (fictitious) return on your net assets above the tax-free threshold (approximately EUR 57,684 per person in 2026) and taxes that deemed return at 36%. This covers savings accounts, investment portfolios, second properties, and other assets, minus qualifying debts. The legislation remains subject to legal challenges since the Dutch Supreme Court ruled the previous flat-rate system unlawful in December 2021, and further reforms are expected.
 schema_type: Article
@@ -172,8 +172,10 @@ The 30% ruling is the most significant tax benefit available to qualifying expat
 We cover the 30% ruling in full detail in our dedicated guide: [The 30% Ruling in the Netherlands 2026: Complete Guide](/guides/finance/30-percent-ruling-netherlands-2026/). Key points:
 
 - Available to highly skilled migrants recruited from abroad
-- Minimum salary threshold applies (approximately EUR 46,107 in 2026, or EUR 35,048 for under-30s with a qualifying master's degree)
-- Maximum duration of 5 years, with a phased reduction
+- Minimum salary threshold applies to your taxable salary (EUR 48,013 in 2026, or EUR 36,497 for under-30s with a qualifying master's degree — roughly EUR 68,590 and EUR 52,138 in gross terms)
+- Maximum duration of 5 years. The percentage is a flat 30% for every month in 2025 and 2026; the 30/20/10 step-down announced in the 2024 Tax Plan was scrapped before it took effect
+- From 1 January 2027 the maximum drops to 27%, unless the ruling was already applied to your salary on or before 31 December 2023
+- The allowance is calculated on salary up to EUR 262,000 (2026), capping it at EUR 78,600 per year
 - Must be applied for by your employer within 4 months of your start date
 - Can be transferred to a new employer with no gap exceeding 3 months
 
@@ -492,9 +494,11 @@ Many expats are caught out by the breadth of what Box 3 covers:
 
 As a Dutch tax resident, you must report all worldwide assets in Box 3, including foreign savings accounts, investment portfolios, and properties. The Belastingdienst has extensive data-sharing agreements with other countries under CRS (Common Reporting Standard) and FATCA, so undeclared foreign accounts are increasingly detectable. Report everything accurately — the penalties for non-disclosure are disproportionate to the tax saved.
 
-### Partial Non-Residence: A Key Benefit for the Year You Arrive or Leave
+### Part-Year Residence: What Still Helps in the Year You Arrive or Leave
 
-In the year you arrive in or depart from the Netherlands, you are only a Dutch tax resident for part of the year. For Box 3 purposes, you may be treated as a partial non-resident for the period you were not a Dutch tax resident, which can significantly reduce your Box 3 taxable base. Discuss this with a tax adviser for your first and final Dutch tax years.
+In the year you arrive in or depart from the Netherlands, you are only a Dutch tax resident for part of the year. For Box 3 purposes, you are not taxed on your worldwide assets for the period in which you were not a Dutch tax resident, which can significantly reduce your Box 3 taxable base. Discuss this with a tax adviser for your first and final Dutch tax years.
+
+This is separate from the 30% ruling's *partiële buitenlandse belastingplicht*, which exempted foreign assets for the ruling's full duration and was **abolished with effect from 1 January 2025** (with one transitional group: rulings already in use before 2024 may still elect it up to and including the 2026 return). If your ruling started in 2024 or later, your worldwide savings and investments are in Box 3 from the start.
 
 ---
 
@@ -507,16 +511,21 @@ The Dutch tax system contains more deductions and allowances than most expats re
 The most impactful expat-specific tax benefit. If you are a highly skilled migrant recruited from abroad, your employer can pay up to 30% of your gross salary as a tax-free allowance. The result is a substantially lower effective income tax rate.
 
 **Key facts for 2026:**
-- Minimum salary threshold: approximately EUR 46,107 gross per year (EUR 35,048 for qualifying under-30s with a master's degree)
-- Maximum duration: 5 years (the previous 7-year duration was reduced; a 3-year/2-year phased reduction applies to newer approvals)
+- Minimum salary threshold: EUR 48,013 in taxable salary per year, which is roughly EUR 68,590 gross (EUR 36,497 taxable, roughly EUR 52,138 gross, for qualifying under-30s with a master's degree)
+- Maximum duration: 5 years, reduced from 8 years in 2019
+- Percentage: a flat 30% for every month in 2025 and 2026. The 30/20/10 step-down announced in the 2024 Tax Plan was scrapped by the 2025 Tax Plan before it ever applied — it is not Dutch law
+- From 1 January 2027 the maximum falls to 27%, unless the ruling was already applied to your salary on or before 31 December 2023; rulings first applied in 2024 keep the current salary norm, those first applied from 2025 will face a higher, not-yet-enacted norm
+- The allowance is calculated on salary up to EUR 262,000 (2026), giving a maximum tax-free allowance of EUR 78,600 per year
 - Must be applied for within 4 months of the start date
 - Can be transferred to a new Dutch employer with a gap of no more than 3 months
 
 See our [30% Ruling Complete Guide](/guides/finance/30-percent-ruling-netherlands-2026/) for full eligibility criteria and application steps.
 
-### 2. Box 3 Partial Non-Residence (Partial Foreign Tax Liability)
+### 2. Part-Year Residence in Your Arrival and Departure Years
 
-In the year you arrive in the Netherlands or the year you leave, you are a tax resident for only part of the year. For the non-resident portion of that year, you are not subject to Box 3 on your worldwide assets. This can produce a significant reduction in Box 3 liability in your first and final Dutch tax years. File a partial-year return and clearly state your arrival or departure date.
+In the year you arrive in the Netherlands or the year you leave, you are a tax resident for only part of the year. For the non-resident portion of that year, you are not subject to Box 3 on your worldwide assets. This can produce a significant reduction in Box 3 liability in your first and final Dutch tax years. File a partial-year return (Form M) and clearly state your arrival or departure date.
+
+Do not confuse this with the *partiële buitenlandse belastingplicht* that used to come with the 30% ruling — the election that kept foreign savings and investments out of Box 3 for the whole duration of the ruling. **That option was abolished with effect from 1 January 2025** and can no longer be chosen from the 2025 tax return onwards. Only one transitional group remains: if you were already using the 30% ruling before 2024, you may still elect it up to and including your 2026 return (filed in spring 2027). Part-year residence in your arrival and departure years is unaffected and still applies to everyone.
 
 ### 3. Mortgage Interest Deduction (Hypotheekrenteaftrek)
 
@@ -608,7 +617,7 @@ In most cases, no — but Americans do have to file two sets of returns. The US 
 
 **What tax deductions can expats claim in the Netherlands?**
 
-The main deductions available to expats include: the 30% ruling (up to 30% of gross salary tax-free for qualifying highly skilled migrants); mortgage interest deduction (hypotheekrenteaftrek) for owner-occupiers; zorgtoeslag and huurtoeslag (income-dependent government allowances for healthcare and rent); study and professional development costs; alimony payments to a former partner; charitable donations to ANBI-registered organisations; qualifying healthcare costs above the statutory threshold; and Box 3 partial non-residence status in the year you arrive or leave. General tax credits (algemene heffingskorting and arbeidskorting) are applied automatically.
+The main deductions available to expats include: the 30% ruling (up to 30% of gross salary tax-free for qualifying highly skilled migrants); mortgage interest deduction (hypotheekrenteaftrek) for owner-occupiers; zorgtoeslag and huurtoeslag (income-dependent government allowances for healthcare and rent); study and professional development costs; alimony payments to a former partner; charitable donations to ANBI-registered organisations; qualifying healthcare costs above the statutory threshold; and part-year Box 3 treatment in the year you arrive or leave. General tax credits (algemene heffingskorting and arbeidskorting) are applied automatically.
 
 **Is there a wealth tax in the Netherlands?**
 

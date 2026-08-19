@@ -433,7 +433,7 @@ In practice, most expats with average balances pay minimal Box 3 tax on their ba
 
 ### The 30% Ruling and Banking
 
-If you have the 30% ruling, you can elect partial non-resident status (partieel buitenlandse belastingplicht) for Box 2 and Box 3. This means your bank accounts and investments held outside the Netherlands may be excluded from Box 3 entirely. This is a significant benefit if you have substantial savings in your home country.
+The partial non-resident status (partieel buitenlandse belastingplicht) that excluded foreign bank accounts and investments from Box 3 for 30% ruling holders was abolished per 1 January 2025 — you can no longer opt for it from the 2025 tax return onwards. Only one group is left: if you were already using the ruling before 2024, you may still elect it up to and including your 2026 return, filed in spring 2027. If your ruling started in 2024 or later, savings held in your home country count in Box 3 like any other resident's, taxed at 36% on the deemed return in 2026.
 
 **Action:** Discuss this election with a Dutch tax advisor before your first Dutch tax filing. The choice must be made on the annual return and affects all Box 3 assets.
 
@@ -473,7 +473,7 @@ US citizens in the Netherlands face additional obligations regardless of the Dut
 ### Month 6 (First Tax Year Approaching)
 
 1. **Declare all foreign accounts** in your annual Dutch tax return (even if balance is below threshold).
-2. **Check Box 3 position** — if you have the 30% ruling, consider the partial non-resident election.
+2. **Check Box 3 position** — and only count on the partial non-resident election if you were already using the 30% ruling before 2024, in which case it runs through the 2026 return.
 3. **US expats:** File FBAR by April 15 (US deadline) — do not miss this.
 4. **Review transfer costs** — if you are sending money home monthly, calculate what you paid in fees and switch to Wise or Revolut if you have not already.
 

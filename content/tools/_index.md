@@ -1,6 +1,7 @@
 ---
 title: "Free Expat Tools Netherlands 2026"
 description: "11 free tools for expats in the Netherlands: salary calculator, health insurance comparison, visa check, rent affordability calculator, and more."
+lastmod: 2026-08-19 10:00:00+02:00
 type: "tools"
 layout: "list"
 aliases:
@@ -198,7 +199,7 @@ margin-bottom: 1rem;
 <span class="badge-live">Live</span>
 <div class="tool-card-icon">&#128200;</div>
 <div class="tool-card-title">30% Ruling Calculator</div>
-<div class="tool-card-desc">Calculate your tax-free allowance with the 2026 step-down schedule (30% &rarr; 20% &rarr; 10%). Includes Balkenendenorm cap, 5-year breakdown, and net income comparison.</div>
+<div class="tool-card-desc">Calculate your tax-free allowance at the flat 30% rate for 2026 and the 27% rate that applies from 2027. Includes the transitional rules, the Balkenendenorm cap, a 5-year breakdown, and net income comparison.</div>
 <div class="tool-card-cta">Calculate now &rarr;</div>
 </a>
 <a href="/tools/salary-checker/" class="tool-card">
@@ -292,7 +293,7 @@ margin-bottom: 1rem;
 
 <h2>What Each Tool Does</h2>
 <h3>30% Ruling Calculator</h3>
-<p>The <a href="/tools/30-percent-ruling-calculator/">30% ruling calculator</a> computes your exact tax benefit under the 2026 step-down schedule. Since January 2024, new ruling holders receive 30% tax-free for months 1-20, 20% for months 21-40, and 10% for months 41-60. The calculator handles both new and grandfathered (pre-2024) rulings, applies the Balkenendenorm salary cap at &euro;233,000, and generates a 5-year breakdown with net income comparisons.</p>
+<p>The <a href="/tools/30-percent-ruling-calculator/">30% ruling calculator</a> computes your exact tax benefit under the rules that actually apply. The allowance is a flat 30% in every month of 2025 and 2026 &mdash; the 30/20/10 step-down announced in the 2024 Tax Plan was scrapped in the 2025 Tax Plan before it ever took effect. From 1 January 2027 the maximum drops to 27%, unless the ruling was already being applied to your salary on or before 31 December 2023. The calculator handles all three transitional cohorts, applies the Balkenendenorm salary cap at &euro;262,000 (a maximum allowance of &euro;78,600), and generates a 5-year breakdown with net income comparisons.</p>
 <h3>Net Salary Calculator</h3>
 <p>The <a href="/tools/salary-checker/">Net Salary Calculator</a> instantly verifies whether your salary meets the IND kennismigrant threshold. It covers all five categories (30+, under 30, orientation year, EU Blue Card, scientific researcher), adjusts for holiday allowance inclusion, and shows what happens with the 30% ruling threshold reduction. If you fail, it tells you exactly how much more you need.</p>
 <h3>Housing, Integration &amp; Diploma Tools</h3>

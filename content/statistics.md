@@ -140,13 +140,16 @@ The first bracket rate includes national insurance contributions (premies volksv
 
 | Parameter | 2026 figure |
 |-----------|------------|
-| Minimum salary threshold (under 30) | €35,048 gross/year |
-| Minimum salary threshold (30 and older) | €46,107 gross/year |
+| Minimum salary norm (under 30 with qualifying master's) | €36,497 taxable/year (~€52,138 gross) |
+| Minimum salary norm (30 and older) | €48,013 taxable/year (~€68,590 gross) |
+| Scientific researchers at designated institutions | No minimum norm |
+| Maximum tax-free percentage | 30% (flat, 2025 and 2026); 27% from 1 January 2027 |
+| Salary cap (Balkenendenorm) | €262,000, so max €78,600 tax-free per year |
 | Maximum duration | 5 years |
 | Effective tax benefit | Roughly 10–15% more net salary |
 | Estimated % of knowledge migrants who qualify | ~70–80% |
 
-The 30% ruling allows qualifying expat employees to receive 30% of their gross salary tax-free, as compensation for extraterritorial costs. The ruling was tightened in 2024 (reduced from 5+2 partial years to a flat 5 years) but remains one of the most generous expat tax incentives in Europe.
+The 30% ruling allows qualifying expat employees to receive up to 30% of their gross salary tax-free, as compensation for extraterritorial costs. The salary norms above apply to taxable salary -- the salary that remains after the 30% allowance has been deducted -- so the gross salary needed is the norm divided by 0.7. The 30/20/10 step-down announced in the 2024 Tax Plan was repealed in the 2025 Tax Plan before it ever applied, so the percentage is a flat 30% throughout 2025 and 2026. From 1 January 2027 the maximum falls to 27%, except for holders whose ruling was already being applied on or before 31 December 2023. Even after that cut it remains one of the most generous expat tax incentives in Europe.
 
 Full details: [30% Ruling Netherlands — Complete Guide](/guides/finance/30-percent-ruling-netherlands-2026/) · [30% Ruling Calculator](/tools/30-percent-ruling-calculator/)
 
@@ -438,7 +441,7 @@ Related: [Best International Money Transfers Netherlands](/guides/finance/best-i
 |-------|-----------|
 | Expat population | ~1.2 million |
 | Average gross salary | €44,000/year |
-| 30% ruling minimum salary | €46,107/year |
+| 30% ruling minimum salary norm | €48,013 taxable/year (~€68,590 gross) |
 | Average Amsterdam rent (1-bed) | €1,500–2,000/month |
 | Health insurance premium | €130–175/month |
 | Eigen risico | €385/year |

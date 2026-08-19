@@ -1,7 +1,7 @@
 ---
 title: 'Investing in the Netherlands as an Expat: 2026 Guide'
 date: 2026-03-27 10:00:00+01:00
-lastmod: 2026-04-23 10:00:00+01:00
+lastmod: 2026-08-19 10:00:00+02:00
 description: A practical guide to investing as an expat in the Netherlands. Tax implications, best platforms, Box 3 tax, and common mistakes to avoid in 2026.
 categories:
 - finance
@@ -36,7 +36,7 @@ faq:
 - q: What is the best investment platform for expats in the Netherlands?
   a: The best platform depends on your situation. DEGIRO is excellent for cost-conscious investors who want broad access to ETFs and individual stocks at very low fees, with a reasonable English interface. Meesman is ideal for passive investors who want fully managed index fund portfolios without any decision-making. Interactive Brokers suits experienced investors with larger portfolios and complex needs. ABN AMRO and ING are convenient if you already bank with them and prefer everything under one roof, but their fees are considerably higher. For most expats starting out, DEGIRO combined with a simple globally diversified ETF is a solid and affordable choice.
 - q: How does the 30% ruling affect my Box 3 tax?
-  a: The 30% ruling itself does not directly reduce your Box 3 tax. It reduces your taxable income in Box 1, not your wealth tax. However, the 30% ruling includes a partial non-resident status option (partieel buitenlandse belastingplicht) that, if elected, means you are treated as a non-resident for Box 2 and Box 3 purposes. In practice, this means your foreign savings and investments outside the Netherlands may not be subject to Dutch Box 3 tax during your ruling period. This is a significant benefit that many expats are unaware of. You should discuss this option with a tax advisor before it expires.
+  a: The 30% ruling does not reduce your Box 3 tax. It reduces your taxable income in Box 1, not your wealth tax. The partial non-resident status option (partieel buitenlandse belastingplicht), which treated you as a non-resident for Box 2 and Box 3 and kept foreign savings and investments out of Dutch wealth tax, was abolished with effect from 1 January 2025 and cannot be chosen from the 2025 return onwards. Only expats who were already using the ruling before 2024 may still elect it, up to and including the 2026 return filed in spring 2027. If your ruling started in 2024 or later, your worldwide investments fall in Box 3 like any other resident's, taxed at 36% on the deemed return in 2026.
 - q: Can American expats invest normally in the Netherlands?
   a: American expats face significant restrictions due to US tax law. The main issues are FATCA (Foreign Account Tax Compliance Act) reporting requirements and the PFIC (Passive Foreign Investment Company) rules. Most non-US ETFs and mutual funds are classified as PFICs, and investing in them triggers punitive US tax treatment — often meaning the IRS taxes gains at the highest ordinary income rate plus an interest charge. As a result, US persons in the Netherlands are generally limited to US-listed ETFs (such as those on NYSE Arca) or individual stocks. Interactive Brokers is one of the few platforms that will accept US persons. Before investing anything, US expats should consult a dual-qualified US-Dutch tax advisor.
 - q: Who is this for?
@@ -59,7 +59,7 @@ The Netherlands is an excellent place to build wealth. The cost of living is man
 But there are a few things that catch expats off guard:
 
 - **Box 3 wealth tax**: The Netherlands taxes your savings and investments on a deemed return basis, not on actual gains. This is unlike most countries expats come from.
-- **The 30% ruling partial non-resident option**: A significant — and often missed — benefit that may exempt your foreign investments from Dutch Box 3 tax.
+- **The 30% ruling no longer shelters foreign investments**: the partial non-resident option that used to keep them out of Box 3 was abolished per 1 January 2025. Only a small transitional group still has it.
 - **Platform access**: Not all investment platforms accept Dutch residents, and some international platforms will close your account once they know you have moved to the Netherlands.
 - **US persons**: Americans face unique and serious complications involving FATCA and PFIC rules that fundamentally change which investments are available to them.
 
@@ -135,23 +135,21 @@ The actual calculation uses official Belastingdienst percentages applied to prop
 
 ---
 
-## The 30% Ruling and Box 3: A Major Benefit You Must Not Miss
+## The 30% Ruling and Box 3: What Changed in 2025
 
-If you qualify for the [30% ruling](/guides/finance/30-percent-ruling-netherlands-2026/), you likely have access to one of the most valuable tax benefits available to expats in the Netherlands — and it goes beyond your salary.
+If you qualify for the [30% ruling](/guides/finance/30-percent-ruling-netherlands-2026/), it still cuts your salary tax substantially. What it no longer does, for most people, is shelter your investments.
 
-The 30% ruling includes the option to be treated as a **partial non-resident** (partieel buitenlandse belastingplichtige) for tax purposes. If you elect this status, you are treated as a non-resident for Box 2 and Box 3 purposes only.
+The ruling used to include the option to be treated as a **partial non-resident** (partieel buitenlandse belastingplichtige), which made you a non-resident for Box 2 and Box 3 purposes and kept foreign savings and investments out of Dutch wealth tax. That option was **abolished with effect from 1 January 2025**. The Belastingdienst is explicit — as of your tax return 2025 you can no longer opt for partial foreign tax liability.
 
-What does this mean in practice?
+Where that leaves you:
 
-- Your **foreign savings and investments** (held outside the Netherlands) are **not subject to Dutch Box 3 tax** during your ruling period
-- Dutch assets and accounts are still taxable in Box 3 as normal
-- Your Box 1 income (salary) remains fully taxable in the Netherlands
+- **Ruling first applied in 2024 or later**: the status was never available to you. Your worldwide investments — a UK ISA, a US brokerage account, property abroad — go into Box 3 like any other resident's, taxed at 36% on the deemed return in 2026
+- **Already using the ruling before 2024**: you are in the transitional group and may still elect the status up to and including your **2026 return**, filed in spring 2027. Foreign savings and investments stay outside Box 3 until then; Dutch assets remain taxable as normal. The election is not automatic — you select it on your annual return
+- Either way, your Box 1 income (salary) remains fully taxable in the Netherlands
 
-This can be an enormous saving if you have, say, a UK ISA, a US brokerage account, or property abroad. The key is that you must actively elect this status — it is not automatic. It is selected on your annual tax return.
+Use our [30% ruling calculator](/tools/30-percent-ruling-calculator/) to estimate your salary benefit, and if you think you are in the transitional group, have a tax advisor confirm it before you file.
 
-Use our [30% ruling calculator](/tools/30-percent-ruling-calculator/) to estimate your overall tax benefit, then discuss the partial non-resident option with a tax advisor.
-
-**Important**: Once the 30% ruling expires, you revert to full Box 3 taxation on worldwide assets. This is the moment to reassess your portfolio structure.
+**Important**: from the 2027 return onwards, everyone pays Box 3 on worldwide assets. If you have been relying on the exemption, that is the moment to reassess your portfolio structure — and to budget for the tax bill.
 
 ---
 
@@ -307,9 +305,9 @@ If your total savings and investments are under EUR 57,000 (or EUR 114,000 with 
 
 I have seen expats with ten different ETFs, three brokers, accounts in two countries, and no clear strategy. A single globally diversified ETF will outperform most complex home-brew portfolios over time, and it is far easier to manage and declare in Box 3.
 
-### 4. Missing the 30% Ruling Partial Non-Resident Benefit
+### 4. Assuming the 30% Ruling Still Exempts Your Foreign Assets
 
-As discussed above, electing partial non-resident status under the 30% ruling can exempt your foreign assets from Box 3. Many expats — and even some tax advisors unfamiliar with expat situations — overlook this. Check it before your first tax return.
+As discussed above, partial non-resident status was abolished per 1 January 2025. Plenty of expats — and plenty of articles still online — treat it as a live option. If your ruling started in 2024 or later, it is not, and budgeting on an exemption you do not have is an expensive mistake. If you were already using the ruling before 2024, check that the election was actually made in the returns where it still applied, through 2026.
 
 ### 5. Not Getting Tax Advice in Year One
 
@@ -329,7 +327,7 @@ If you have just arrived in the Netherlands and want to start investing sensibly
 
 2. **Get DigiD and understand your tax situation** — review our [Dutch tax system guide](/guides/finance/dutch-tax-system-expats-guide-2026/) and confirm whether you qualify for the 30% ruling (use the [30% ruling calculator](/tools/30-percent-ruling-calculator/)).
 
-3. **Check your 30% ruling status** — if you have it, read about the partial non-resident option and discuss it with a tax advisor before filing your first return.
+3. **Check your 30% ruling status** — and assume your foreign investments are in Box 3. The partial non-resident option was abolished per 1 January 2025 and only applies if you were already using the ruling before 2024, through the 2026 return at the latest. Confirm with a tax advisor rather than with older articles.
 
 4. **Decide on a platform** — for most expats, DEGIRO (for flexibility and low cost) or Meesman (for fully passive, zero-effort investing) are the sensible starting points. US persons should go to Interactive Brokers.
 

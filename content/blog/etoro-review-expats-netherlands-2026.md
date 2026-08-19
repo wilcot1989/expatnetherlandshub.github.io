@@ -2,7 +2,7 @@
 title: eToro Review for Expats Netherlands 2026
 description: Is eToro the right investing platform for expats in the Netherlands? My honest review covering fees, accounts, and what works — and what doesn't.
 date: 2026-03-22
-lastmod: 2026-04-23 10:00:00+01:00
+lastmod: 2026-08-19 10:00:00+02:00
 author: Sarah van den Berg
 author_bio: Expat coach and writer at ExpatNetherlandsHub.com
 categories:
@@ -350,7 +350,7 @@ Since eToro does not auto-report to the Belastingdienst, you need to manually in
 
 If you receive the Dutch 30% ruling, your tax position is more favourable than for most Dutch residents. But the ruling does not change how eToro works for Box 3 purposes.
 
-The key ruling interaction: the 30% ruling allows you to opt for partial non-resident status (partieel buitenlandse belastingplicht). If you exercise this option, your foreign assets — including foreign bank accounts, investment accounts abroad, foreign property — can be exempt from Dutch Box 3. However, eToro is Cyprus-regulated but you are using it as a Dutch resident. The classification of eToro holdings as "foreign assets" is not straightforward and I would not rely on the non-resident status exemption for eToro holdings without specific tax advice.
+The key ruling interaction used to be partial non-resident status (partieel buitenlandse belastingplicht), which kept foreign assets — foreign bank accounts, investment accounts abroad, foreign property — outside Dutch Box 3. That option was abolished per 1 January 2025 and cannot be chosen from the 2025 return onwards. Only expats who were already using the 30% ruling before 2024 may still elect it, up to and including the 2026 return. And even for them it would be a stretch here: eToro is Cyprus-regulated but you are using it as a Dutch resident, the classification of eToro holdings as "foreign assets" is not straightforward, and I would not rely on the exemption for eToro holdings without specific tax advice. If your ruling started in 2024 or later, treat your eToro portfolio as ordinary Box 3 wealth.
 
 For most 30% ruling holders, eToro holdings are treated the same as DeGiro holdings — Dutch Box 3 applies to the 1 January balance. The 30% ruling reduces your income tax but does not affect Box 3.
 

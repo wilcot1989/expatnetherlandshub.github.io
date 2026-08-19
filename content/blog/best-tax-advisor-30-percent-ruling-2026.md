@@ -1,7 +1,7 @@
 ---
 title: "Best Tax Advisors for 30% Ruling Expats in the Netherlands 2026"
 date: 2026-07-26
-lastmod: 2026-07-26T09:00:00+01:00
+lastmod: 2026-08-19T10:00:00+02:00
 author: Sarah van den Berg
 author_bio: Expat coach and writer at ExpatNetherlandsHub.com
 description: "The 30% ruling is worth tens of thousands of euros if handled correctly. I compared the best English-speaking tax advisors who specialize in expat 30% ruling cases."
@@ -19,8 +19,8 @@ faq:
     a: "Not always. Your employer's HR or payroll department submits the initial application to the Belastingdienst. However, if your employer isn't familiar with the process, you arrived mid-year and want retroactive benefit, or your situation is complex (freelance, multiple countries, foreign assets), a specialist tax advisor is worth the fee several times over."
   - q: "How long does the 30% ruling application take?"
     a: "The Belastingdienst typically processes applications within 10–13 weeks from the date of submission. The ruling can be applied retroactively to your start date if you apply within 4 months of starting your job in the Netherlands, so there's no penalty for a brief delay."
-  - q: "What is partial non-residency (keuzerecht) and should I use it?"
-    a: "Partial non-residency lets 30% ruling holders choose to be treated as a non-resident for Box 2 and Box 3 purposes. This means foreign savings, investments, and business interests are excluded from Dutch wealth tax. It's a significant benefit if you have assets abroad, but it must be actively elected in your tax return — many expats miss it entirely."
+  - q: "Can I still elect partial non-residency (keuzerecht) with the 30% ruling?"
+    a: "Almost certainly not. Partial non-residency let 30% ruling holders be treated as a non-resident for Box 2 and Box 3, keeping foreign savings and investments out of Dutch wealth tax. It was abolished with effect from 1 January 2025: as of the 2025 tax return you can no longer opt for partial foreign tax liability. Only one transitional group is left — if you were already using the 30% ruling before 2024 you may still elect it up to and including your 2026 return, filed in spring 2027. If your ruling started in 2024 or later it was never available to you, and your worldwide savings and investments fall in Dutch Box 3."
   - q: "Can I apply for the 30% ruling retroactively?"
     a: "Yes, if you apply within 4 months of starting your job in the Netherlands, the ruling applies from your first day. After 4 months, the ruling starts from the first day of the month after the application date — so earlier is always better."
   - q: "What happens to my 30% ruling when I leave the Netherlands?"
@@ -64,7 +64,7 @@ The rationale is that working abroad comes with real costs — relocation, highe
 
 In practice, it's simply one of the most valuable tax benefits available to expats anywhere in Europe.
 
-The ruling used to last 8 years. The 2024 legislation reduced it to 5 years for new applicants, which was a significant change — and one that makes planning even more important. If you're already on the ruling from before 2024, different transitional rules may apply. See my article on [the 2024 changes and what they mean for your ruling](/blog/30-percent-ruling-extension-2024-changes-2026/) for the full picture.
+The ruling used to last 8 years; that was cut to 5 years back in 2019, and 5 years is still the maximum today. The percentage has had a noisier history. A 30/20/10 step-down (30% for months 1–20, then 20%, then 10%) was legislated in the 2024 Tax Plan but **scrapped again by the 2025 Tax Plan before it ever took effect** — it never reduced anyone's allowance and it is not Dutch law, whatever older articles and HR decks still say. In 2025 and 2026 the allowance is a flat 30% for every month of the ruling. From 1 January 2027 the maximum drops to 27%, unless the ruling was already applied to your salary on or before 31 December 2023, in which case transitional rules keep you at 30%. See my article on [the 2024 changes and what they mean for your ruling](/blog/30-percent-ruling-extension-2024-changes-2026/) for the full picture.
 
 ---
 
@@ -87,7 +87,7 @@ With the 30% ruling:
 
 **The difference: roughly €10,000–€12,000 per year.**
 
-Over the 5-year ruling period, that's €50,000–€60,000 in total savings — before accounting for the partial non-residency benefit on foreign assets (more on that below).
+Over the 5-year ruling period at the flat 30% rate, that's €50,000–€60,000 in total savings. Anyone whose allowance drops to 27% from January 2027 should shave roughly a tenth off the annual figure from that point on.
 
 Keep in mind that your employer must actively apply this benefit and pass it on to you in your payslip. Some employers administer it correctly from day one; others need prompting. And some genuinely don't know how it works. That's one of the situations where a tax advisor earns their fee within the first month.
 
@@ -103,10 +103,12 @@ The main eligibility criteria:
 
 **You must have a specific skill or expertise that is scarce in the Dutch labor market.** In practice, this is assessed primarily through the salary threshold rather than by evaluating your skills individually.
 
-**Salary thresholds for 2026:**
-- General threshold: **€46,107 gross per year** (excluding the 30% allowance itself)
-- For employees under 30 with a master's degree: **€35,048 gross per year**
-- Scientists and medical specialists in training may qualify regardless of salary
+**Salary thresholds for 2026** (these apply to your *taxable* salary — what remains after the 30% allowance is deducted, not your gross):
+- General threshold: **€48,013 taxable per year**, which means roughly €68,590 gross
+- For employees under 30 with a qualifying master's degree: **€36,497 taxable per year**, roughly €52,138 gross
+- Scientific researchers at designated institutions may qualify regardless of salary
+
+Note that the allowance itself is also capped: it is calculated on salary up to €262,000 in 2026, giving a maximum tax-free allowance of €78,600 per year.
 
 **Your employer must be a Dutch payroll entity** — a Dutch registered company or a foreign company with a permanent establishment in the Netherlands.
 
@@ -127,7 +129,7 @@ The application goes to the Belastingdienst tax office handling your employer's 
 If your employer submits a perfect application with complete documentation, the process is straightforward. The complications arise when:
 - The HR team is filling out the form for the first time and makes mistakes
 - Your situation has any non-standard elements (partial year, previous stays in the Netherlands, foreign spouse, etc.)
-- You want to claim the partial non-residency option alongside the ruling
+- You are in the small transitional group that can still elect partial non-residency (ruling in use before 2024), or you need to work out what Dutch Box 3 now costs you on foreign assets
 
 For a broader orientation on settling in and what to tackle first, see my [first year in the Netherlands guide](/blog/first-year-netherlands-expat-pillar-2026/).
 
@@ -145,8 +147,8 @@ A surprising number of Dutch employers — especially smaller companies hiring t
 **2. You arrived mid-year and want retroactive application.**
 If a few months have already passed, the retroactive calculation matters. A specialist will make sure the backdating is correctly claimed and that you don't lose months you're entitled to.
 
-**3. You want to elect partial non-residency (keuzerecht).**
-This is probably the single most underused benefit available to 30% ruling holders. I'll explain it in detail below, but briefly: if you have savings, investments, property, or business interests outside the Netherlands, this election can save you substantial additional tax. It's easy to miss entirely if you're doing your own return, and the window to claim it is your annual tax filing.
+**3. You have savings or investments outside the Netherlands.**
+This used to be the "don't forget the keuzerecht" item on every checklist. It no longer is: partial non-residency was abolished from 1 January 2025 (see the section below), so for nearly everyone worldwide savings and investments now sit in Dutch Box 3. If you have a portfolio, foreign property, or a business interest abroad, the useful question has shifted from "how do I keep it out of Box 3?" to "what does it actually cost me in Box 3, and is there anything legitimate I can do about the timing?" That is a conversation worth having with an adviser, particularly if you are in the transitional group whose last election is the 2026 return.
 
 **4. You have complex income.**
 Multiple income sources, freelance income alongside employment, investments in multiple countries, a spouse with foreign employment — any of these add complexity. See also my piece on [side income and passive income as an expat](/blog/side-hustle-passive-income-netherlands-2026/) for the implications.
@@ -162,7 +164,7 @@ The final year of the ruling is a planning opportunity. When the ruling ends, yo
 
 Blue Umbrella is the name I hear most often in expat communities, and for good reason. They've built their entire service model around English-speaking expats in the Netherlands.
 
-**What they do:** Annual income tax returns, 30% ruling applications and queries, advice on partial non-residency, and M-form filing (for arrival and departure years). Everything is online — you fill in your details through their portal, they handle the Belastingdienst side, and you get updates by email.
+**What they do:** Annual income tax returns, 30% ruling applications and queries, Box 3 treatment of foreign assets (including the remaining partial non-residency transitional cases), and M-form filing (for arrival and departure years). Everything is online — you fill in your details through their portal, they handle the Belastingdienst side, and you get updates by email.
 
 **Pricing:** Fixed-price packages starting around €199/year for a basic employed-person return. 30% ruling application assistance is typically an add-on. The fixed pricing is a genuine advantage: you know your cost upfront, no hourly billing surprises.
 
@@ -176,7 +178,7 @@ Blue Umbrella is the name I hear most often in expat communities, and for good r
 
 Expatax is a smaller, boutique firm that handles more complex expat cases. They've been operating for over 20 years and have a reputation for knowing the edge cases.
 
-**What they do:** The full range of expat tax services — 30% ruling applications, annual returns, M-forms, partial non-residency, and more complex situations involving multiple countries, business interests, or stock options. They also handle cases where the 30% ruling application has run into problems.
+**What they do:** The full range of expat tax services — 30% ruling applications, annual returns, M-forms, Box 3 and foreign-asset questions, and more complex situations involving multiple countries, business interests, or stock options. They also handle cases where the 30% ruling application has run into problems.
 
 **Pricing:** Higher than Blue Umbrella, and typically not fixed-price for complex cases. Expect to pay more, but for a complicated situation, that's often the right call.
 
@@ -202,7 +204,7 @@ Direct Tax positions itself in the mid-complexity space — more personalized th
 
 The TaxSavers is a smaller firm that focuses specifically on expat tax, including 30% ruling applications. They have a strong following among expats in Amsterdam and Rotterdam.
 
-**What they do:** 30% ruling applications, annual returns, advice on partial non-residency. They work entirely in English and emphasize a personal approach with clear communication.
+**What they do:** 30% ruling applications, annual returns, advice on Box 3 and foreign assets. They work entirely in English and emphasize a personal approach with clear communication.
 
 **Pricing:** Comparable to the mid-range, with transparent pricing for defined services.
 
@@ -222,31 +224,31 @@ If you're a senior executive, have significant global assets, work for a multina
 
 ## Cost Comparison
 
-| Option | Annual tax return | 30% ruling help | Partial non-residency | Complex cases |
+| Option | Annual tax return | 30% ruling help | Box 3 / foreign assets | Complex cases |
 |---|---|---|---|---|
-| DIY (Belastingdienst portal) | Free | N/A (employer submits) | Possible but easy to miss | Not recommended |
+| DIY (Belastingdienst portal) | Free | N/A (employer submits) | Easy to get wrong | Not recommended |
 | Blue Umbrella | From ~€199 | Add-on fee | Included in higher tiers | Limited |
 | Expat Tax Netherlands | Higher, case-based | Included | Included | Yes |
 | Direct Tax | Mid-range | Included | Included | Yes |
 | Big 4 | €300–500+/hr | Included | Included | Full service |
 
-The DIY option looks attractive on price, but the partial non-residency election alone — which many expats miss — can be worth thousands of euros per year if you have foreign assets. The cost of a specialist typically pays for itself within the first year.
+The DIY option looks attractive on price, but Box 3 on foreign savings and investments is where self-filed expat returns most often go wrong — and since partial non-residency was abolished, those assets are in scope for almost everyone. On a meaningful foreign portfolio, getting the valuation, the exemption, and any treaty relief right can easily be worth more than the fee.
 
 ---
 
-## Partial Non-Residency: The Benefit That Most Expats Miss
+## Partial Non-Residency: The Benefit That Has Been Abolished
 
-Let me spend a moment on this because it's important and genuinely underappreciated.
+Let me spend a moment on this, because it is the single most common piece of outdated advice still circulating in expat groups.
 
-When you hold the 30% ruling, you have the option to elect **partial non-residency status** (*keuzerecht partiële buitenlandse belastingplicht*) in your annual tax return. This means you're treated as a Dutch resident for Box 1 (employment income) but as a non-resident for Box 2 (substantial shareholdings) and Box 3 (savings, investments, and other assets).
+The old rule: holders of the 30% ruling could elect **partial non-residency status** (*keuzerecht partiële buitenlandse belastingplicht*) in the annual tax return, and be treated as a Dutch resident for Box 1 (employment income) but as a non-resident for Box 2 (substantial shareholdings) and Box 3 (savings, investments, and other assets). Foreign savings and portfolios stayed outside the Dutch wealth tax entirely.
 
-**Why does this matter?** Box 3 is the Dutch wealth tax on savings and investments. In 2026, the Dutch system taxes your notional return on assets held in the Netherlands. If you have significant savings, investment portfolios, or property outside the Netherlands, those assets would normally be included in your Dutch Box 3 assessment. Partial non-residency removes them from that calculation entirely.
+**That option was abolished with effect from 1 January 2025.** The Belastingdienst's own wording: as of your tax return 2025, you can no longer opt for partial foreign tax liability.
 
-If you have a €150,000 investment portfolio back home, or a house in another country, or a business interest abroad, this election can save you thousands of euros per year in Dutch wealth tax — on top of the income tax saving from the 30% ruling itself.
+There is exactly one transitional group left. If you were already using the 30% ruling **before 2024**, you may still elect partial non-residency up to and including your **2026 tax return** — the one you file in the spring of 2027. After that it is gone for everyone. If your ruling started in 2024 or later, the election was never available to you at all.
 
-**The catch:** you have to actively choose it in your annual tax return. The Belastingdienst does not apply it automatically. If you do your own return and don't know to look for it, you'll miss it every year.
+**What this means in practice.** If you have a €150,000 investment portfolio back home, or savings in another country, those assets are now part of your Dutch Box 3 base (the 2026 Box 3 rate is 36%, applied to a notional return, above a per-person exemption of roughly €57,000). The planning question is no longer whether to tick a box — it is how the assets are valued and reported, what the treaty with your home country does about double taxation, and how that interacts with any Dutch property you own.
 
-This is one of the clearest cases for using a specialist for your annual return, even if your 30% ruling application was handled by your employer's HR. My [tax return guide for employed expats](/blog/tax-return-netherlands-employee-expats-2026/) covers the return process in detail.
+That is genuinely harder than the old election, which is why a specialist return is worth more now than it was two years ago, not less. If any adviser or forum post still tells you the 30% ruling exempts your foreign wealth, treat everything else they say with caution. My [tax return guide for employed expats](/blog/tax-return-netherlands-employee-expats-2026/) covers the return process in detail.
 
 If you have foreign investments that might come into scope here, my [DeGiro review for expats](/blog/degiro-review-expats-netherlands-2026/) and [crypto tax guide](/blog/crypto-tax-netherlands-expats-2026/) are both relevant reading for understanding what counts in Box 3 and Box 2.
 
@@ -297,7 +299,7 @@ If your employer covers tax support as part of your relocation package, or if yo
 
 Jana's story still sits with me. Fourteen months, €800/month, and the only thing stopping her was not knowing where to start. The 30% ruling isn't complicated to benefit from once you understand how it works — but you do have to actually do something about it.
 
-If you arrived in the Netherlands in the last four months, the retroactive window is still open. If you've been here longer and haven't sorted it, it's still worth checking whether you're getting the full benefit, especially the partial non-residency election.
+If you arrived in the Netherlands in the last four months, the retroactive window is still open. If you've been here longer and haven't sorted it, it's still worth checking whether you're getting the full benefit — and, separately, whether your foreign savings are being reported correctly in Box 3 now that partial non-residency is gone.
 
 A one-hour consultation with Blue Umbrella or Expatax will tell you exactly where you stand. The fee is a rounding error compared to what the ruling is worth.
 

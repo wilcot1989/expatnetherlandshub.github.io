@@ -1,7 +1,7 @@
 ---
 title: 'Netherlands vs Belgium for Expats: Cost & Life (2026)'
 date: 2026-06-20 10:00:00+01:00
-lastmod: 2026-04-23 10:00:00+01:00
+lastmod: 2026-08-19 10:00:00+01:00
 description: Netherlands vs Belgium cost of living, taxes, healthcare, and housing compared for expats. An honest side-by-side to help you pick the right country in 2026.
 categories:
 - integration
@@ -82,7 +82,7 @@ Belgium does offer an expat tax regime — the **Special Tax Status for Foreign 
 
 ### The Netherlands: 30% Ruling
 
-The Netherlands offers the **30% ruling** (30%-regeling) for highly skilled migrants. This allows your employer to pay 30% of your gross salary as a tax-free allowance — though from 2024, this phases down in a 30/20/10% step-down over a 5-year period. For a detailed breakdown of what the ruling actually saves at different salary levels, and an honest assessment of whether it is still worth it after the 2024 reform, see the [30% ruling analysis for 2026](/guides/finance/30-percent-ruling-still-worth-it-2026/).
+The Netherlands offers the **30% ruling** (30%-regeling) for highly skilled migrants. This allows your employer to pay 30% of your gross salary as a tax-free allowance for up to five years, at a flat 30% in both 2025 and 2026. The 30/20/10% step-down announced in 2024 was scrapped before it ever took effect; what does happen is a drop to a maximum of 27% from 1 January 2027, with transitional rules that keep 30% for anyone whose ruling was already applied on or before 31 December 2023. The 2026 salary threshold is €48,013 taxable salary after the 30% deduction (roughly €68,590 gross), or €36,497 taxable (roughly €52,138 gross) if you are under 30 with a qualifying master's. For a detailed breakdown of what the ruling actually saves at different salary levels, and an honest assessment of whether it is still worth it, see the [30% ruling analysis for 2026](/guides/finance/30-percent-ruling-still-worth-it-2026/).
 
 The Dutch standard income tax rates: 36.97% on income up to €75,518, and 49.50% above that threshold (2026 figures). Without the 30% ruling, the Dutch tax burden is substantial but below Belgian levels.
 

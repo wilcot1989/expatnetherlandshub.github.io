@@ -1,7 +1,7 @@
 ---
 title: Netherlands vs Australia for Expats 2026
 date: 2026-03-22 10:00:00+01:00
-lastmod: 2026-04-23 10:00:00+01:00
+lastmod: 2026-08-19 10:00:00+01:00
 description: 'Netherlands vs Australia for expats 2026: cost of living, salaries, healthcare, visas, and quality of life compared honestly.'
 categories:
 - integration
@@ -82,7 +82,7 @@ This comparison covers the things that genuinely matter: salary and tax, cost of
 
 ### The Netherlands: Kennismigrant Route
 
-The most common route for professional expats is the Kennismigrant (Highly Skilled Migrant) permit. Your employer must be a recognised IND sponsor (there are several thousand of these). You need a salary above the threshold (around EUR 46,107 in 2026, lower for under-30 graduates). Processing takes 2–4 weeks.
+The most common route for professional expats is the Kennismigrant (Highly Skilled Migrant) permit. Your employer must be a recognised IND sponsor (there are several thousand of these). You need a salary above the IND threshold for this permit, which is indexed every January and published on ind.nl — over EUR 5,700 gross per month excluding holiday allowance if you are 30 or older, lower for under-30s with a Dutch or EU master's degree. Processing takes 2–4 weeks.
 
 The Kennismigrant permit is tied to your employer, not to you personally. If you change jobs, your new employer applies for a new permit — this is usually smooth but requires planning. After 5 years of legal residency, you can apply for permanent residency (permanent verblijfsvergunning). After 5 years including Kennismigrant residency, you can apply for Dutch citizenship (along with a language requirement at B1 Dutch level).
 

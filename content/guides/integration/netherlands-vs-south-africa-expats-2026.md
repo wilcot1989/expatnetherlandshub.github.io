@@ -1,7 +1,7 @@
 ---
 title: Netherlands vs South Africa for Expats 2026
 date: 2026-03-18 10:00:00+01:00
-lastmod: 2026-04-23 10:00:00+01:00
+lastmod: 2026-08-19 10:00:00+01:00
 type: guide
 description: Moving from South Africa to the Netherlands? Honest comparison of salaries, cost of living, safety, healthcare, and the growing SA→NL tech corridor.
 categories:
@@ -26,7 +26,7 @@ faq:
 - q: Is moving from South Africa to the Netherlands worth it financially?
   a: For skilled professionals in tech, engineering, or finance, almost certainly yes. Dutch salaries for senior knowledge migrant roles run €55,000–90,000 gross per year. After the 30% ruling tax benefit, your effective take-home is significantly higher than equivalent South African salaries. The Netherlands is 2–3 times more expensive for day-to-day costs, but salaries are 3–5 times higher in comparable fields. Most SA expats build meaningful savings within the first two years.
 - q: Do South Africans need a visa to work in the Netherlands?
-  a: Yes. South Africans are non-EU citizens and need a work permit to be employed in the Netherlands. The most common route is the highly skilled migrant visa (kennismigrant), which requires a Dutch employer to sponsor you and pay at least €46,107 gross per year (2026 threshold). The process typically takes 2–4 weeks once the employer submits the application to the IND. South Africans with EU ancestry may qualify for an EU passport, which eliminates the visa requirement entirely.
+  a: Yes. South Africans are non-EU citizens and need a work permit to be employed in the Netherlands. The most common route is the highly skilled migrant visa (kennismigrant), which requires a Dutch employer to sponsor you and pay at least the IND highly skilled migrant salary threshold — indexed every January and published on ind.nl, currently over €5,700 gross per month excluding holiday allowance for applicants aged 30 and over, and lower for under-30s with a Dutch or EU master's degree. This is a different figure from the 30% ruling salary threshold. The process typically takes 2–4 weeks once the employer submits the application to the IND. South Africans with EU ancestry may qualify for an EU passport, which eliminates the visa requirement entirely.
 - q: Can Afrikaans speakers learn Dutch more easily?
   a: Yes, significantly. Afrikaans evolved directly from 17th-century Dutch, and the two languages share roughly 90% of their core vocabulary. Afrikaans speakers typically reach conversational Dutch level in 3–4 months of dedicated study, compared to 8–12 months for English-only speakers. Grammar in Dutch is more complex than Afrikaans (Dutch retained grammatical gender; Afrikaans simplified it), but the vocabulary head start is enormous. Many SA expats describe understanding Dutch television within weeks of arrival.
 - q: Is the Netherlands safe compared to South Africa?
@@ -102,7 +102,7 @@ The gross salary difference is real — typically 1.5–2x in EUR terms for equi
 
 ### The 30% Ruling: The Critical Multiplier
 
-The [30% ruling](/guides/finance/30-percent-ruling-netherlands-2026/) is the single most significant financial benefit for incoming knowledge migrants. If your Dutch employer recruited you from abroad and your salary meets the threshold (€46,107 gross in 2026), they can designate 30% of your salary as a tax-free allowance for up to five years.
+The [30% ruling](/guides/finance/30-percent-ruling-netherlands-2026/) is the single most significant financial benefit for incoming knowledge migrants. If your Dutch employer recruited you from abroad and your salary meets the threshold (in 2026: €48,013 taxable salary after the 30% deduction, roughly €68,590 gross, or €36,497 taxable — roughly €52,138 gross — if you are under 30 with a qualifying master's), they can designate 30% of your salary as a tax-free allowance for up to five years. It stays a flat 30% throughout 2025 and 2026; the 30/20/10% step-down announced in 2024 was scrapped before it applied, and the maximum falls to 27% only for rulings running from 2027.
 
 What this means in practice:
 

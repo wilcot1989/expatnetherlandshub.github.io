@@ -1,7 +1,7 @@
 ---
 title: Best Ways to Transfer Money to/from the Netherlands 2026
 date: 2026-03-06 10:00:00+01:00
-lastmod: 2026-04-23 10:00:00+01:00
+lastmod: 2026-08-19 10:00:00+02:00
 description: Compare the best ways to transfer money to and from the Netherlands in 2026. Wise, Revolut, OFX, Remitly, and more compared on fees and speed.
 categories:
 - finance
@@ -446,7 +446,7 @@ Based on our experience and research, here is the combination I recommend for ex
 International transfers themselves are not taxed, but the underlying income or assets may have tax implications:
 
 - **Income from abroad**: Must be declared in your Dutch tax return if you are a Dutch tax resident
-- **Foreign assets**: Reported in Box 3 of your tax return (unless you have the [30% ruling](/guides/finance/30-percent-ruling-netherlands-2026/) with partial non-resident status)
+- **Foreign assets**: Reported in Box 3 of your tax return. The old exemption for [30% ruling](/guides/finance/30-percent-ruling-netherlands-2026/) holders who elected partial non-resident status was abolished per 1 January 2025; only expats who were already using the ruling before 2024 can still elect it, and only through the 2026 return
 - **Large transfers**: May trigger anti-money-laundering questions from your bank. Keep documentation of the source and purpose of large transfers.
 - **Gifts**: Receiving large gifts from abroad may be subject to Dutch gift tax (schenkbelasting). Consult a tax advisor for specifics.
 

@@ -2,7 +2,7 @@
 title: "Netherlands vs France for Expats 2026"
 slug: "netherlands-vs-france-expats-2026"
 date: 2026-06-06T10:00:00+01:00
-lastmod: 2026-04-23T10:00:00+01:00
+lastmod: 2026-08-19T10:00:00+01:00
 author: "Sarah van den Berg"
 author_bio: "Expat coach and relocation specialist. Half Dutch, half British, living in the Netherlands for over 10 years."
 description: "Netherlands vs France for expats 2026: cost of living, taxes, healthcare, work culture, housing, and quality of life compared side by side."
@@ -91,13 +91,13 @@ These figures are illustrative — individual circumstances vary significantly. 
 
 ### The Dutch 30% Ruling
 
-The 30% ruling is the Netherlands' flagship expat tax benefit. If you are recruited from abroad to work in the Netherlands and meet the criteria (salary threshold: €46,107 gross for 2026; higher for researchers), your employer can pay 30% of your gross salary as a tax-free allowance for up to five years.
+The 30% ruling is the Netherlands' flagship expat tax benefit. If you are recruited from abroad to work in the Netherlands and meet the criteria (2026 salary threshold: €48,013 taxable salary after the 30% deduction, roughly €68,590 gross — €36,497 taxable, roughly €52,138 gross, if you are under 30 with a qualifying master's; no threshold at all for academic researchers at designated institutions), your employer can pay 30% of your gross salary as a tax-free allowance for up to five years.
 
 In practice, this means an effective tax rate 10–15 percentage points lower than a Dutch national in the same position. For someone earning €80,000, the annual saving is roughly €8,000–€12,000.
 
 France has no equivalent for most expats. The *régime des impatriés* (impatriate regime) offers some relief on expat bonuses and specific international income, but it is significantly harder to qualify for and less generous for most professionals. This is perhaps the single biggest financial advantage the Netherlands has over France for internationally mobile workers.
 
-The ruling has been reformed since 2024, now phasing down in a 30/20/10% step-down over the five-year period rather than remaining a flat 30%. The [30% ruling analysis for 2026](/guides/finance/30-percent-ruling-still-worth-it-2026/) gives an honest breakdown of what the ruling actually saves after the reform and whether it still tips the balance in the Netherlands' favour.
+A 30/20/10% step-down was announced in 2024, but parliament scrapped it in the 2025 Tax Plan before it ever applied — the allowance is a flat 30% throughout 2025 and 2026. From 1 January 2027 the maximum drops to 27%, with transitional rules: if the ruling was first applied to your salary on or before 31 December 2023 you keep 30%; if it started in 2024 you move to 27% on the current salary threshold; if it started in or after 2025 you move to 27% on a higher threshold that still has to be set. The [30% ruling analysis for 2026](/guides/finance/30-percent-ruling-still-worth-it-2026/) gives an honest breakdown of what the ruling actually saves and whether it still tips the balance in the Netherlands' favour.
 
 ### Dutch Taxes in Detail
 

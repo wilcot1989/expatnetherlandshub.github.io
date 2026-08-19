@@ -1,7 +1,7 @@
 ---
 title: Best Tax Advisors for Expats in the Netherlands 2026
 date: 2026-05-15 10:00:00+01:00
-lastmod: 2026-04-23 10:00:00+01:00
+lastmod: 2026-08-19 10:00:00+02:00
 description: 'Best English-speaking tax advisors for expats in the Netherlands 2026: who needs one, which firms specialise in expat tax, and what it costs.'
 categories:
 - finance
@@ -284,7 +284,7 @@ As with any professional service, there are people in this space who are not wor
 When you contact a firm for a quote or initial consultation, these questions will help you assess whether they are the right fit:
 
 1. **How many expat returns do you handle per year?** (The answer should be in the hundreds at minimum for a firm that specialises in this area)
-2. **Do you have experience with the 30% ruling, including the Box 3 partial non-residence election?**
+2. **Do you have experience with the 30% ruling, including the transitional rules for the Box 3 partial non-residence election?** (It was abolished per 1 January 2025 and only pre-2024 ruling holders can still use it, through the 2026 return — an advisor who does not know that is out of date)
 3. **What is the fixed fee for my situation, and what does it include?**
 4. **What is your typical turnaround time for the return once I submit my documents?**
 5. **Are you registered with the Belastingdienst as a belastingconsulent, so you can request a filing extension on my behalf?**

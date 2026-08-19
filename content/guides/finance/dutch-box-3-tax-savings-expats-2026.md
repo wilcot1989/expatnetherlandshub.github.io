@@ -1,7 +1,7 @@
 ---
 title: 'Dutch Box 3 Tax 2026: How Savings and Investments Are Taxed'
 date: 2026-03-26 09:00:00+02:00
-lastmod: 2026-04-23 10:00:00+01:00
+lastmod: 2026-08-19 10:00:00+02:00
 description: How Box 3 tax works on savings and investments in the Netherlands. 2026 rates, thresholds, worked examples and legal ways to reduce your tax bill.
 categories:
 - finance
@@ -31,17 +31,17 @@ faq:
 - q: Is crypto taxed in Box 3?
   a: 'Yes. Since 2023 the Belastingdienst has been explicit: Bitcoin, Ethereum and all other crypto-assets are Box 3 assets. You report the market value of your holdings on January 1 of the tax year. The investment deemed return of ~6.04% is applied, and tax is charged at 36% on that deemed return. Major exchanges now share data with Dutch tax authorities under EU agreements, so non-reporting carries real risk.'
 - q: Does the 30% ruling exempt me from Box 3?
-  a: Yes — and this is the biggest Box 3 benefit most expats miss. With the 30% ruling you can elect partial non-resident status for Box 3 purposes. This means only Dutch-source assets (Dutch real estate, Dutch company stakes) are included in your Box 3. Foreign savings accounts, foreign investment portfolios, and foreign property are excluded entirely. An expat with €200,000 in a foreign account and €40,000 in a Dutch account would owe zero Box 3 tax under this election — their Dutch wealth is below the €57,000 threshold.
+  a: No, not any more. The partial non-resident taxpayer status that used to exclude foreign assets from Box 3 was abolished with effect from 1 January 2025. The Belastingdienst is explicit — as of your 2025 tax return you can no longer opt for partial foreign tax liability. One transitional group remains — if you were already using the 30% ruling before 2024, you may still elect the status up to and including your 2026 return (filed in spring 2027), after which it is gone for everyone. If your ruling started in 2024 or later, the status was never available to you and your worldwide savings and investments fall in Box 3 like any other resident's, taxed at 36% in 2026.
 - q: What is the peildatum and why does January 1 matter?
   a: 'The peildatum (reference date) is January 1 of each tax year. Box 3 tax is calculated based on your wealth on that single date — not an average, not year-end. This creates a legitimate planning opportunity: large purchases made before January 1 reduce your measured wealth. If you were going to buy a car in January, buying it in December instead keeps that cash out of your Box 3 assessment.'
 - q: How can I legally reduce my Box 3 tax?
-  a: 'The most effective strategies: (1) Elect partial non-resident status if you have the 30% ruling. (2) Invest in green funds — up to €71,251 per person is exempt from Box 3. (3) Time large purchases before January 1 to reduce measured wealth. (4) Contribute to banksparen or lijfrente pension vehicles — amounts held there are excluded from Box 3. (5) Use fiscal partnership to double the threshold to €114,000 and split assets optimally.'
+  a: 'The most effective strategies: (1) Invest in green funds — up to €71,251 per person is exempt from Box 3. (2) Time large purchases before January 1 to reduce measured wealth. (3) Contribute to banksparen or lijfrente pension vehicles — amounts held there are excluded from Box 3. (4) Use fiscal partnership to double the threshold to €114,000 and split assets optimally. Note that the partial non-resident election for 30% ruling holders is no longer on this list: it was abolished per 1 January 2025, and only expats who were already using the ruling before 2024 can still elect it, up to and including the 2026 return.'
 - q: How do couples split Box 3 assets?
   a: Fiscal partners (married, registered partnership, or cohabiting partners meeting the criteria) can split their combined Box 3 wealth in any proportion between them — from 0/100 to 100/0. Each partner gets the €57,000 threshold. The most tax-efficient split depends on whether the partners have different asset mixes. You decide the split annually when filing. A 50/50 split is common, but it is worth calculating the optimal allocation.
 - q: When will the Box 3 reform take effect?
   a: The Dutch government is working toward a new system based on actual returns (werkelijk rendement) rather than deemed returns. Current target is 2027, though the timeline has already shifted once. Until then, the 2026 system uses updated deemed returns that more closely reflect actual market averages — savings at ~1.03%, investments at ~6.04%. If the 2027 implementation goes ahead, investment returns, dividends and rental income will be taxed as actually earned.
 - q: Is foreign property included in Box 3?
-  a: Generally yes — if you own a property abroad, its value goes into Box 3 on January 1. However, two exceptions apply. First, if a tax treaty between the Netherlands and the country where the property is located allocates taxing rights to that country, the Netherlands may exempt the property (though it can still affect the rate via the progression reservation). Second, if you have the 30% ruling and elect partial non-resident status, foreign real estate is excluded from your Box 3 entirely.
+  a: Generally yes — if you own a property abroad, its value goes into Box 3 on January 1. The main exception is a tax treaty — if the treaty between the Netherlands and the country where the property is located allocates taxing rights to that country, the Netherlands may exempt the property (though it can still affect the rate via the progression reservation). The old second exception — electing partial non-resident status under the 30% ruling — was abolished per 1 January 2025 and now only applies to expats who were already using the ruling before 2024, and only up to their 2026 return.
 schema_type: Article
 ---
 
@@ -49,7 +49,7 @@ Box 3 is the part of Dutch tax that catches most expats off guard — you pay ta
 
 Dutch Box 3 tax works differently from anything most expats have encountered before. It does not tax your actual interest, dividends, or investment gains. It assumes you earned a certain return on your wealth — a deemed return — and taxes that assumption at 36%. If you earned more than the assumed rate, lucky you. If you earned less, that is your problem.
 
-The good news: there are meaningful legal ways to reduce your Box 3 exposure, and expats with the 30% ruling have a particularly powerful option available to them. This guide covers everything — how the calculation works, three concrete examples with actual euro figures, what counts as a Box 3 asset, the 30% ruling exemption, the ongoing legal reform, and how to file.
+The good news: there are meaningful legal ways to reduce your Box 3 exposure. The bad news for 30% ruling holders: the one option that used to wipe out Box 3 on foreign assets — partial non-resident taxpayer status — was abolished per 1 January 2025 and now survives only for a shrinking transitional group. This guide covers everything — how the calculation works, three concrete examples with actual euro figures, what counts as a Box 3 asset, where the 30% ruling now stands, the ongoing legal reform, and how to file.
 
 ---
 
@@ -200,29 +200,40 @@ Compare this to Example 2 where a single person with €200,000 mixed assets pai
 
 ---
 
-## The 30% Ruling Box 3 Advantage
+## The 30% Ruling and Box 3: What Is Left
 
-This is the part I want every expat with the 30% ruling to read twice, because it is consistently the most financially significant and most frequently missed benefit of that arrangement.
+This used to be the section I told every ruling holder to read twice. It is now mostly a historical note, and getting that wrong is expensive — because a lot of expats are still budgeting on an exemption that no longer exists.
 
-### Partial Non-Resident Status
+### Partial Non-Resident Status Has Been Abolished
 
-When you hold the 30% ruling, you are entitled to elect **partial non-resident taxpayer status** for Box 2 and Box 3. This election is made annually on your Dutch tax return (aangifte inkomstenbelasting). You remain a full Dutch resident for Box 1 — income tax on your salary, freelance income, etc. is entirely unaffected. But for Box 3, you are treated as if you are a non-resident.
+Partial non-resident taxpayer status for Box 2 and Box 3 was **abolished with effect from 1 January 2025**. The Belastingdienst states it plainly: as of your tax return 2025, you can no longer opt for partial foreign tax liability.
 
-What partial non-resident status means for Box 3: only **Dutch-source assets** are included in your calculation. Dutch-source assets for Box 3 purposes means Dutch real estate and substantial interests in Dutch companies. Everything else — foreign savings accounts, foreign investment portfolios, foreign property — is simply not counted.
+There is one transitional group. If you were already using the 30% ruling **before 2024**, you may still elect the status **up to and including your 2026 tax return** — the return filed in spring 2027. After that it is gone for everybody.
 
-### A Concrete Illustration
+| Your situation | Partial non-resident status |
+|---|---|
+| Used the 30% ruling before 2024 | Available up to and including the **2026** return |
+| Ruling first applied in 2024 or later | **Not available** — already gone from the 2025 return onwards |
 
-You moved to Amsterdam from London two years ago and you have the 30% ruling. You have:
+So if you arrived recently, this is background rather than a planning option: your worldwide savings and investments go into Box 3 exactly like any other Dutch resident's, taxed at 36% on the deemed return in 2026. If you are in the transitional group, you have one filing left in which to use it, and it is worth making sure you do.
+
+### How It Worked — And What It Is Worth to the Transitional Group
+
+When the election was available, it treated you as a non-resident for Box 3: only **Dutch-source assets** counted — Dutch real estate and substantial interests in Dutch companies. Everything else was simply not included.
+
+The illustration below therefore applies only if you were already using the ruling before 2024, and only up to your 2026 return.
+
+You moved to Amsterdam from London and have held the 30% ruling since 2023. You have:
 - £180,000 in a UK ISA (roughly €210,000)
 - €45,000 in a Dutch ING savings account
 
-**Without the partial non-resident election:**
+**Filing as a normal resident:**
 Total Box 3 wealth: ~€255,000. After the €57,000 threshold, taxable wealth is ~€198,000. With a mixed savings/investment profile, your annual Box 3 tax could easily exceed €2,000–3,000.
 
-**With the partial non-resident election:**
-Your UK ISA is foreign — excluded entirely. Your Dutch savings: €45,000. This is below the €57,000 threshold. Box 3 tax: **zero**.
+**Electing partial non-resident status (transitional group, up to the 2026 return):**
+Your UK ISA is foreign — excluded entirely. Your Dutch savings: €45,000, below the €57,000 threshold. Box 3 tax: **zero**.
 
-For someone with significant savings in their home country, this can mean thousands of euros saved every year of the 30% ruling's duration.
+From the 2027 return onwards that same person pays the full resident amount. If that is you, plan for the step-up now rather than discovering it when the assessment lands.
 
 For a full explanation of the 30% ruling and how to apply, see our [complete 30% ruling guide](/guides/finance/30-percent-ruling-netherlands-2026/). If you want to calculate the financial value of your ruling, the [30% ruling calculator guide](/guides/finance/30-percent-ruling-calculator-guide-2026/) walks through the numbers.
 
@@ -265,9 +276,9 @@ The 2027 target has already shifted once. As of mid-2026, the legislative proces
 
 ## Legal Strategies to Reduce Box 3 Tax
 
-### 1. Use the 30% Ruling Partial Non-Resident Election
+### 1. Use the Partial Non-Resident Election — Only If You Are Still Eligible
 
-If you have the 30% ruling, this is point one, two, and three. Check with your tax advisor or on your previous tax returns whether you have been electing partial non-resident status. If not, correct it going forward. The potential saving is real money.
+This used to be point one, two and three for anyone with the 30% ruling. It is not any more: the election was abolished per 1 January 2025. It is only still worth checking if you were already using the ruling before 2024, because that transitional group can elect it up to and including the 2026 return. If that is you, check your previous returns and make sure the election was actually made — and plan for Box 3 to apply in full from the 2027 return. If your ruling started in 2024 or later, skip this and go to the strategies below.
 
 ### 2. Invest in Green Funds (Groene Beleggingen)
 
@@ -321,7 +332,7 @@ Box 3 assets and liabilities are reported in Section 8 (Vermogen / Savings and I
 3. Handle to Section 8 — Inkomen uit sparen en beleggen (Box 3)
 4. Enter each asset category at its January 1 value in euros
 5. Enter any qualifying debts
-6. If you have the 30% ruling and are electing partial non-resident status, indicate this in the relevant section (typically Section 1 of the return, regarding residency status for Box 2/3)
+6. If you are in the transitional group still entitled to partial non-resident status (30% ruling in use before 2024, 2026 return at the latest), indicate this in the relevant section — typically Section 1 of the return, regarding residency status for Box 2/3. Everyone else declares worldwide assets here.
 7. The system calculates the tax automatically
 
 **Converting foreign assets to euros:**
@@ -352,10 +363,11 @@ Box 3 does not exist in isolation. It connects to other areas of your Dutch fina
 |---|---|
 | Single, under €57,000 in total assets | No Box 3 tax owed |
 | Couple, under €114,000 combined | No Box 3 tax owed |
-| Have 30% ruling, elect partial non-resident | Foreign assets excluded; usually zero Dutch Box 3 |
+| 30% ruling first applied in 2024 or later | Worldwide assets in Box 3; no partial non-resident option |
+| 30% ruling in use before 2024 | May elect partial non-resident up to the 2026 return; foreign assets excluded until then |
 | Crypto holdings on Jan 1 | Investment rate (6.04%) applies |
 | Second property in Netherlands | Included at WOZ value (property register value) |
-| Property in home country | Included unless tax treaty or 30% ruling exempts it |
+| Property in home country | Included unless a tax treaty exempts it |
 | Banksparen/lijfrente balance | Excluded from Box 3 |
 | Green fund investment up to €71,251 | Exempt from Box 3 |
 | Savings account interest rate above 1.03% | Still taxed at 1.03% deemed rate |
@@ -374,7 +386,7 @@ Yes. Since 2023 the Belastingdienst has been explicit: Bitcoin, Ethereum and all
 
 ### Does the 30% ruling exempt me from Box 3?
 
-Yes — and this is the biggest Box 3 benefit most expats miss. With the 30% ruling you can elect partial non-resident status for Box 3 purposes. This means only Dutch-source assets (Dutch real estate, Dutch company stakes) are included in your Box 3. Foreign savings accounts, foreign investment portfolios, and foreign property are excluded entirely. An expat with €200,000 in a foreign account and €40,000 in a Dutch account would owe zero Box 3 tax under this election — their Dutch wealth is below the €57,000 threshold.
+No, not any more. The partial non-resident taxpayer status that used to exclude foreign assets from Box 3 was abolished with effect from 1 January 2025. The Belastingdienst is explicit — as of your 2025 tax return you can no longer opt for partial foreign tax liability. One transitional group remains — if you were already using the 30% ruling before 2024, you may still elect the status up to and including your 2026 return (filed in spring 2027), after which it is gone for everyone. If your ruling started in 2024 or later, the status was never available to you and your worldwide savings and investments fall in Box 3 like any other resident's, taxed at 36% in 2026.
 
 ### What is the peildatum and why does January 1 matter?
 
@@ -382,7 +394,7 @@ The peildatum (reference date) is January 1 of each tax year. Box 3 tax is calcu
 
 ### How can I legally reduce my Box 3 tax?
 
-The most effective strategies: (1) Elect partial non-resident status if you have the 30% ruling. (2) Invest in green funds — up to €71,251 per person is exempt from Box 3. (3) Time large purchases before January 1 to reduce measured wealth. (4) Contribute to banksparen or lijfrente pension vehicles — amounts held there are excluded from Box 3. (5) Use fiscal partnership to double the threshold to €114,000 and split assets optimally.
+The most effective strategies: (1) Invest in green funds — up to €71,251 per person is exempt from Box 3. (2) Time large purchases before January 1 to reduce measured wealth. (3) Contribute to banksparen or lijfrente pension vehicles — amounts held there are excluded from Box 3. (4) Use fiscal partnership to double the threshold to €114,000 and split assets optimally. Note that the partial non-resident election for 30% ruling holders is no longer on this list: it was abolished per 1 January 2025, and only expats who were already using the ruling before 2024 can still elect it, up to and including the 2026 return.
 
 ### How do couples split Box 3 assets?
 
@@ -394,7 +406,7 @@ The Dutch government is working toward a new system based on actual returns (wer
 
 ### Is foreign property included in Box 3?
 
-Generally yes — if you own a property abroad, its value goes into Box 3 on January 1. However, two exceptions apply. First, if a tax treaty between the Netherlands and the country where the property is located allocates taxing rights to that country, the Netherlands may exempt the property (though it can still affect the rate via the progression reservation). Second, if you have the 30% ruling and elect partial non-resident status, foreign real estate is excluded from your Box 3 entirely.
+Generally yes — if you own a property abroad, its value goes into Box 3 on January 1. The main exception is a tax treaty — if the treaty between the Netherlands and the country where the property is located allocates taxing rights to that country, the Netherlands may exempt the property (though it can still affect the rate via the progression reservation). The old second exception — electing partial non-resident status under the 30% ruling — was abolished per 1 January 2025 and now only applies to expats who were already using the ruling before 2024, and only up to their 2026 return.
 
 ---
 
@@ -404,7 +416,7 @@ Box 3 is genuinely one of the more unusual tax mechanisms you will encounter as 
 
 The three numbers to keep in mind for 2026: €57,000 threshold per person, 1.03% deemed return on savings, 6.04% deemed return on investments, and 36% tax rate on those deemed returns. Run those through a quick calculation with your own figures and you will know roughly what you owe before you even open the Belastingdienst portal.
 
-For expats with the 30% ruling: the partial non-resident election is not optional — it is important. If you have been filing without it and have foreign assets, check your previous returns. For everyone else: green funds, pension contributions, and the peildatum timing effect are your main tools.
+For expats with the 30% ruling: do not plan around the partial non-resident election unless you were already using the ruling before 2024. It was abolished per 1 January 2025, and even the transitional group has only the 2026 return left. If you are in that group, check your previous returns and make sure the election was made. For everyone else — which now includes every recent arrival — green funds, pension contributions, the fiscal partnership split, and the peildatum timing effect are your main tools.
 
 Box 3 reform is coming, but not yet here. The 2026 system is still deemed-return based. When actual return taxation arrives — most likely 2027 — the planning picture will change significantly. I will update this guide when that happens.
 

@@ -1,7 +1,7 @@
 ---
 title: Netherlands Salary Comparison by City and Sector 2026
 date: 2026-03-17 10:00:00+01:00
-lastmod: 2026-04-23 10:00:00+01:00
+lastmod: 2026-08-19 10:00:00+02:00
 description: Compare average salaries across Dutch cities and sectors in 2026. Free salary data for expats, recruiters, and HR professionals, including net pay and 30% ruling.
 categories:
 - finance
@@ -40,7 +40,7 @@ faq:
 - q: What is vakantiegeld and do expats receive it?
   a: Vakantiegeld (holiday allowance) is a mandatory annual payment of at least 8% of your gross annual salary. It is typically paid in May or June as a lump sum, though some employers pay it monthly. Yes, all employees in the Netherlands are entitled to vakantiegeld regardless of nationality. On a EUR 50,000 salary, this means an extra EUR 4,000 per year. It is taxed as normal income in the month it is paid, so expect a higher deduction in May.
 - q: How does the 30% ruling affect my take-home pay?
-  a: 'The 30% ruling allows your employer to pay up to 30% of your gross salary as a tax-free allowance. This effectively reduces your taxable income to 70% of your gross salary. For a EUR 70,000 gross salary, this saves approximately EUR 8,000–10,000 per year in income tax. Note that since 2024 the benefit steps down: 30% for the first 20 months, 20% for months 21–40, and 10% for months 41–60.'
+  a: 'The 30% ruling allows your employer to pay up to 30% of your gross salary as a tax-free allowance. This effectively reduces your taxable income to 70% of your gross salary. For a EUR 70,000 gross salary, this saves approximately EUR 8,000–10,000 per year in income tax. The allowance is a flat 30% in every month of 2025 and 2026 -- the 30/20/10 step-down announced in the 2024 Tax Plan was scrapped before it ever took effect. From 1 January 2027 the maximum drops to 27%, unless the ruling was already being applied to your salary on or before 31 December 2023.'
 - q: Is salary negotiation normal in the Netherlands?
   a: Yes. Salary negotiation is standard practice in the Netherlands, particularly for professional and managerial roles. Dutch employers generally expect candidates to negotiate. The typical approach is direct and factual — come prepared with market data (such as this page), your years of experience, and a specific number rather than a vague request. It is perfectly acceptable to ask for 10–15% above the initial offer for senior or specialised roles.
 schema_type: Article
@@ -165,9 +165,9 @@ Use these free tools for a personalised calculation:
 
 If you are a highly skilled migrant recruited from abroad, the 30% ruling can be one of the most significant financial factors in your Dutch career. The table below shows how it changes net pay at different gross salary levels.
 
-*Note: Since 2024, the 30% ruling steps down over time — 30% for months 1–20, 20% for months 21–40, and 10% for months 41–60. The table below shows the Phase 1 (30%) calculation.*
+*Note: the allowance is a flat 30% in every month of 2025 and 2026. The 30/20/10 step-down announced in the 2024 Tax Plan was repealed in the 2025 Tax Plan before it applied to anyone, so there is no 20% or 10% phase. From 1 January 2027 the maximum becomes 27% unless your ruling was already being applied on or before 31 December 2023. The table below uses the flat 30%.*
 
-| Gross Annual Salary | Taxable Income (Phase 1) | Est. Tax (Phase 1) | Net Without Ruling | Net With Ruling (Phase 1) | Annual Saving |
+| Gross Annual Salary | Taxable Income (30%) | Est. Tax | Net Without Ruling | Net With Ruling | Annual Saving |
 |--------------------|--------------------------|--------------------|-------------------|--------------------------|---------------|
 | €40,000 | €28,000 | €8,700 | €27,900 | €31,300 | +€3,400 |
 | €50,000 | €35,000 | €11,200 | €34,000 | €38,800 | +€4,800 |
@@ -176,7 +176,7 @@ If you are a highly skilled migrant recruited from abroad, the 30% ruling can be
 | €80,000 | €56,000 | €19,700 | €52,100 | €60,300 | +€8,200 |
 | €100,000 | €70,000 | €31,500 | €62,000 | €68,500 | +€6,500 |
 
-*Estimates based on 2026 Box 1 tax tables, standard deductions, no other income. The salary cap (Balkenende norm) limits the ruling for very high earners. These are illustrative figures — use the [30% Ruling Calculator](/tools/30-percent-ruling-calculator/) for your exact numbers.*
+*Estimates based on 2026 Box 1 tax tables, standard deductions, no other income. The salary cap (Balkenendenorm) limits the ruling for very high earners: the allowance is calculated on salary up to €262,000 in 2026, giving a maximum tax-free amount of €78,600 per year. These are illustrative figures — use the [30% Ruling Calculator](/tools/30-percent-ruling-calculator/) for your exact numbers.*
 
 ### The Phase Step-Down Effect
 
@@ -307,7 +307,7 @@ The [Dutch Pay Slip Guide (Loonstrook Explained)](/guides/work/dutch-pay-slip-lo
 | Resource | What It Does |
 |----------|-------------|
 | [Net Salary Calculator](/tools/salary-checker/) | Gross-to-net calculation, HSM threshold check |
-| [30% Ruling Calculator](/tools/30-percent-ruling-calculator/) | Full 5-year tax saving projection with phase step-down |
+| [30% Ruling Calculator](/tools/30-percent-ruling-calculator/) | Full 5-year tax saving projection, including the 27% rate from 2027 |
 | [Cost of Living Calculator](/tools/cost-of-living-calculator/) | Monthly budget by city, single or family |
 | [Salary Negotiation Guide](/guides/work/salary-negotiation-netherlands-expats-2026/) | Tactics, scripts, full package negotiation |
 | [30% Ruling Guide](/guides/finance/30-percent-ruling-netherlands-2026/) | Eligibility, application, changes since 2024 |

@@ -1,8 +1,8 @@
 ---
 title: "30% Ruling Extension After 2024 Changes (2026 Guide)"
-description: "What the 30% ruling looks like in 2026 after the 2024 reforms: eligibility, salary thresholds, the 5-year cap, partial benefits, and how to plan your finances around it."
+description: "What the 30% ruling actually looks like in 2026: the flat 30% rate, the scrapped 30/20/10 step-down, the 27% rate from 2027, the 2026 salary norms, and how to plan around the 5-year window."
 date: 2026-06-29
-lastmod: 2026-06-29T10:00:00+01:00
+lastmod: 2026-08-19T10:00:00+02:00
 author: "Sarah van den Berg"
 author_bio: "Expat coach and writer at ExpatNetherlandsHub.com"
 categories: ["tax"]
@@ -14,15 +14,15 @@ draft: false
 schema_type: "Article"
 faq:
   - q: "Did the 30% ruling get cancelled in the 2024 reforms?"
-    a: "No, but it was significantly reduced. The 2024 reforms cut the maximum duration from 5 to a tiered system (30% for 20 months, 20% for 20 months, 10% for the final 20 months) — but parts of this were partially walked back in late 2024. As of 2026, the ruling exists but is less generous than 2023 and earlier. New applicants get a flat ~27% benefit for up to 5 years, with stricter salary thresholds and partial benefits in years 4 and 5 depending on when you applied."
+    a: "No. The 2024 Tax Plan legislated a 30/20/10 step-down (30% for months 1-20, 20% for months 21-40, 10% for months 41-60), but that step-down was repealed in the 2025 Tax Plan before it ever applied to anyone. In 2025 and 2026 the tax-free allowance is a flat 30% in every month of the ruling, for a maximum of 5 years. From 1 January 2027 the maximum drops to 27%, except for holders whose ruling was already being applied to their salary on or before 31 December 2023 — they keep 30% for their remaining duration."
   - q: "What is the salary threshold for the 30% ruling in 2026?"
-    a: "For 2026, the minimum taxable annual salary (after the ruling deduction) is approximately €46,800 for most employees and €35,500 for employees under 30 holding a master's degree. These thresholds increase yearly with inflation. If your gross salary is below the threshold even before the 30% deduction, you don't qualify. Always check the current year's threshold on the Belastingdienst website."
+    a: "For 2026 the minimum taxable annual salary — the salary that remains after the 30% allowance has been deducted — is €48,013 for most employees and €36,497 for employees under 30 holding a qualifying master's degree. Scientific researchers at designated institutions face no minimum. To find the gross salary you need, divide by 0.7: roughly €68,590 and €52,138 respectively. The norms are indexed every year, so check the current figure on the Belastingdienst website before you rely on it."
   - q: "Can the 30% ruling be extended beyond 5 years in 2026?"
-    a: "No. The ruling is capped at 5 years total (60 months). The 2024 reforms reduced this from 8 years (pre-2019) and 5 years (2019–2023). There is no extension mechanism — once your 5 years end, you transition to standard Dutch taxation. The previous duration cuts (5→3 years discussed in 2023) were partially reversed; in 2026 the standard duration is 5 years for new applicants."
+    a: "No. The ruling is capped at 5 years total (60 months) — it was cut from 10 years before 2012, to 8 years in 2012, to 5 years in 2019. There is no extension mechanism: once your 60 months end, you transition to standard Dutch taxation. What changes from 2027 is the percentage, not the duration."
   - q: "Do I lose my 30% ruling if I change jobs?"
     a: "Not automatically. If you change jobs within 3 months and your new employer applies for transfer, you can keep the ruling for the remaining duration. If the gap exceeds 3 months, you lose it permanently. Both old and new employer plus you must file the transfer application — this is where most ruling losses happen, through paperwork delays. Plan job changes carefully and have your new employer ready to file day one."
   - q: "Are partner / spouse benefits included in the 30% ruling?"
-    a: "The ruling applies only to the employee with the residence permit and qualifying employment — not the partner. However, your tax-resident-non-domiciled status (the 'partial non-resident' option) lets you exclude foreign-held investments and certain other foreign income from Dutch Box 2 and Box 3 taxation. This option was scaled back in 2024 — for new applicants from 2025+, the partial non-resident option is no longer available, only the salary-based 30% deduction remains."
+    a: "The ruling applies only to the employee with the residence permit and qualifying employment — not the partner. The old partial foreign tax liability option ('partial non-resident status'), which excluded foreign savings and investments from Dutch Box 2 and Box 3, was abolished with effect from 1 January 2025 and can no longer be elected from the 2025 tax return onwards. One transitional group remains: if you were already using the 30% ruling before 2024, you may still claim it up to and including your 2026 tax return. If your ruling started in 2024 or later you never had access to it, and your worldwide savings and investments fall in Dutch Box 3."
   - q: "Can I still claim the 30% ruling as a self-employed (ZZP) freelancer?"
     a: "Generally no. The 30% ruling requires an employment relationship — an employer applies for it on your behalf. ZZP'ers (self-employed) cannot claim it directly. If you have a hybrid setup (part-time employee + part-time freelance), the ruling applies to your employed income only. Some expats lose the ruling when transitioning to full ZZP — plan this carefully against your tax savings."
 products:
@@ -33,20 +33,20 @@ products:
 ---
 The 30% ruling cost me €11,400 in extra net income last year alone. It's the single biggest financial benefit available to skilled expats in the Netherlands, and the 2024 reforms left a lot of confused people wondering whether they still qualify, whether to apply now, and what to plan around. Two years post-reform, I have a clear picture of what the 2026 reality actually looks like.
 
-This guide covers exactly what the 30% ruling is in 2026, what changed in 2024 (and what got walked back), eligibility, partial benefits, salary thresholds, the application process, and how to plan your finances around the 5-year window.
+This guide covers exactly what the 30% ruling is in 2026, what was announced in 2024 and then scrapped, what genuinely changes in 2027, eligibility, the 2026 salary norms, the application process, and how to plan your finances around the 5-year window.
 
 *Disclosure: this article contains affiliate links. If you sign up via them I may earn a small commission at no extra cost to you. I am not a tax advisor — for individual tax advice consult a Dutch tax professional. The information below is based on Belastingdienst publications and my own experience with the ruling.*
 
 💡 *For broader tax context see [tax filing for freelance expats](/blog/tax-filing-freelance-expat-netherlands-2026/), [crypto tax Netherlands](/blog/crypto-tax-netherlands-expats-2026/), and [salary expectations Netherlands](/guides/work/average-salary-netherlands-2026/).*
 
 
-> **Quick answer:** What the 30% ruling looks like in 2026 after the 2024 reforms: eligibility, salary thresholds, the 5-year cap, partial benefits, and how to plan your finances around it.
+> **Quick answer:** in 2025 and 2026 the allowance is a flat **30%** of gross salary for the full 60 months. The 30/20/10 step-down from the 2024 Tax Plan was repealed before it took effect and is not law. From **1 January 2027** the maximum becomes **27%**, unless your ruling was already being applied on or before 31 December 2023. The 2026 salary norm is **€48,013** of taxable salary (€36,497 for under-30s with a qualifying master's), and the allowance is capped at a salary of €262,000.
 
 ## What the 30% Ruling Actually Is
 
 The 30% ruling (30%-regeling) is a Dutch tax facility that lets qualifying expats receive 30% of their gross salary tax-free as a "reimbursement for extraterritorial costs" — without having to prove those costs actually exist. In effect, it converts 30% of your salary into a tax-free allowance, dramatically reducing your effective tax rate.
 
-Pre-2024, this was a flat 30% for the entire duration. After the 2024 reforms (and the 2024 partial walk-back), the situation in 2026 is more nuanced.
+It has been a flat 30% for the entire duration for years, and it still is in 2026. What changed is the timeline ahead of it: a step-down was legislated in 2024 and then repealed, and a real cut to 27% arrives in 2027.
 
 ### Why the 30% Ruling Exists
 
@@ -54,34 +54,45 @@ The Dutch government created the ruling in the 1970s/80s to attract internationa
 
 In practice, it's a tool to make Dutch employer offers competitive against offers in lower-tax cities (Singapore, Dublin, Berlin, Switzerland).
 
-## What Changed in 2024
+## The Step-Down That Was Announced and Then Scrapped
 
-In late 2023, the Dutch parliament passed a reform that would have phased the 30% ruling down significantly:
+In late 2023 the Dutch parliament passed a reform that would have phased the 30% ruling down significantly:
 - First 20 months at 30%
 - Next 20 months at 20%
 - Final 20 months at 10%
-- Plus a stricter salary threshold
 
-This was the most aggressive reduction since the ruling existed. After significant employer and industry pushback (especially from tech companies and consultancies), part of the reform was walked back in late 2024.
+It was the most aggressive reduction in the history of the ruling, it was reported everywhere, and plenty of expat blogs and HR intranets still describe it as the law. **It is not.** After sustained pushback about the Netherlands' ability to attract skilled staff, the step-down was **repealed in the 2025 Tax Plan before it ever produced a lower percentage for anyone.** Rijksoverheid states it plainly: in 2025 and 2026 the tax-free allowance remains a maximum of 30%.
 
-### The 2026 Reality (After Walk-Back)
+So there is no 20% phase and no 10% phase. If you hold the ruling today, your allowance does not drop in month 21.
 
-For people applying for the 30% ruling in 2026:
+### The 2026 Reality
 
-**Duration:** 5 years (60 months), unchanged from 2019–2023 era.
+For people holding or applying for the 30% ruling in 2026:
 
-**Percentage:** Approximately 27% (slight reduction from the historical 30%) for the full 5 years. Some sources still call it "30% ruling" colloquially, but the actual deduction is roughly 27% in 2026 due to the partial walk-back compromise.
+**Duration:** 5 years (60 months), unchanged since 2019.
 
-**Salary threshold (2026):**
-- General: ~€46,800 taxable salary (after 27% deduction)
-- Under 30 with master's degree: ~€35,500
-- Researchers and PhD candidates: lower thresholds apply
+**Percentage:** a flat **30%** in every month of 2025 and 2026.
 
-**Cap:** Salary above ~€233,000 (the so-called "Balkenende-norm" plus indexing) cannot benefit from the ruling — only the first ~€233,000 qualifies.
+**Salary norm (2026)** — applies to your *taxable* salary, i.e. what remains after the 30% allowance:
+- General: **€48,013** taxable (~€68,590 gross)
+- Under 30 with a qualifying master's degree: **€36,497** taxable (~€52,138 gross)
+- Scientific researchers at designated institutions: no minimum norm
 
-**Partial non-resident option (Box 2 / Box 3):** Removed for new applicants from 2025 onward. Existing ruling-holders keep this benefit until their ruling ends.
+**Cap:** the allowance is calculated on salary up to **€262,000** (the Balkenendenorm, 2026), so the tax-free amount stops at **€78,600 per year**. Above that salary the ruling adds nothing further.
 
-For people whose ruling started before 2024, **transitional rules** apply — most existing ruling-holders keep their original (more generous) terms until expiration.
+**Partial foreign tax liability (Box 2 / Box 3):** abolished with effect from 1 January 2025 and no longer available from the 2025 tax return onwards. Only expats who were already using the ruling *before 2024* can still elect it, and only up to and including their **2026** tax return. If your ruling started in 2024 or later, your worldwide savings and investments sit in Dutch Box 3.
+
+### What Actually Changes in 2027
+
+From **1 January 2027** the maximum percentage becomes **27%**. Which version of the rules hits you depends on when the ruling was *first applied to your salary* — not when you applied, and not when your employment started:
+
+| Ruling first applied | 2025 and 2026 | 2027 onwards |
+|----------------------|---------------|--------------|
+| On or before 31 December 2023 | 30%, current salary norm | **30%, current salary norm** |
+| During 2024 | 30%, current salary norm | **27%, current salary norm** |
+| On or after 1 January 2025 | 30%, current salary norm | **27%, new (higher) salary norm** |
+
+Two caveats worth knowing. First, the grandfathering in the top row lapses if your status as an *ingekomen werknemer* is interrupted after 31 December 2023 and then restarts; a job gap of up to three months does not count as an interruption. Second, the higher 2027 salary norm is a stated intention that still has to be set by decree — the figures circulating online (€50,436 and €38,338) are expressed in 2024 price levels and will be indexed upwards, so do not plan around them as final numbers. The date the ruling was first applied is on your *beschikking*.
 
 ## Who Qualifies for the 30% Ruling
 
@@ -93,7 +104,7 @@ You must meet **all** of the following:
 
 3. **Employee relationship:** You must be a regular employee (loondienst). Self-employed (ZZP) doesn't qualify on its own.
 
-4. **Salary threshold:** Your taxable salary after the 27% deduction must exceed the annual threshold (€46,800 for general workers, €35,500 for young master's grads in 2026).
+4. **Salary norm:** your taxable salary after the 30% deduction must meet the annual norm (€48,013 for general workers, €36,497 for under-30s with a qualifying master's degree, in 2026).
 
 5. **Lived 16 of the past 24 months at least 150km from the Dutch border:** Confirms you actually came from abroad.
 
@@ -123,7 +134,7 @@ The application form is filed via your employer to the Belastingdienst. Most emp
 
 ### Step 4: Onboard with the deduction
 
-Once approved, your monthly payslip shows the 27% as a tax-free reimbursement. Your effective marginal tax rate drops by 9–12 percentage points.
+Once approved, your monthly payslip shows the 30% as a tax-free reimbursement (27% from 2027 for most holders). Your effective marginal tax rate drops by roughly 10–13 percentage points.
 
 ## What the 30% Ruling Is Worth in Real Money
 
@@ -133,20 +144,22 @@ For a €70,000 gross salary in 2026:
 - Income tax + social charges: ~€26,500
 - Net income: ~€43,500/year (~€3,625/month)
 
-**With 30% ruling:**
-- Tax-free portion (27%): €18,900
-- Taxable portion: €51,100
-- Tax + charges on taxable: ~€16,800
-- Net income: ~€53,200/year (~€4,433/month)
+**With the 30% ruling (2026 rate):**
+- Tax-free portion (30%): €21,000
+- Taxable portion: €49,000
+- Tax + charges on taxable: ~€18,000
+- Net income: ~€52,000/year (~€4,333/month)
 
-**Annual savings: ~€9,700** or roughly €810/month.
+**Annual savings: ~€8,500** or roughly €700/month, in every month of the ruling — there is no drop in month 21.
 
-Over 5 years (the full duration): **~€48,500 in extra net income**.
+Over five years at the 2026 rules that is **~€42,500 in extra net income**.
 
 For higher salaries the absolute savings rise:
-- €100,000 gross: ~€13,500/year savings, ~€67,500 over 5 years
-- €150,000 gross: ~€18,000/year savings, ~€90,000 over 5 years
-- €233,000+ gross: capped — savings flatline at the upper limit
+- €100,000 gross: ~€14,800/year savings, ~€74,000 over 5 years
+- €150,000 gross: ~€21,000/year savings, ~€105,000 over 5 years
+- Above €262,000 gross: capped — the allowance stops at €78,600, so the saving flatlines
+
+If you move to 27% in 2027, each of those annual figures drops by a few hundred to roughly a thousand euros: about €800 less per year at €70,000 gross and about €1,100 less at €100,000. Noticeable, but nothing like the collapse the cancelled 30/20/10 model would have caused. These are simplified estimates — run your own numbers through the [30% ruling calculator](/tools/30-percent-ruling-calculator/).
 
 ## Planning Around the 5-Year Window
 
@@ -189,7 +202,7 @@ If staying long-term, you transition to standard Dutch tax — still livable, ju
 
 **Switching jobs without filing transfer in time.** 3-month gap maximum. Plan job transitions carefully. If you receive a job offer and resign, ensure the new employer commits to filing the transfer immediately.
 
-**Misunderstanding "salary threshold."** The threshold applies to the **post-ruling taxable salary**, not the gross. So a €60,000 gross salary becomes ~€43,800 taxable — below the 2026 €46,800 threshold for general workers. You'd fail the threshold despite having a "good" gross salary. Calculate carefully.
+**Misunderstanding the "salary norm."** The norm applies to the **post-ruling taxable salary**, not the gross. A €60,000 gross salary becomes €42,000 taxable — below the 2026 norm of €48,013 for general workers. You would fail the test despite having a "good" gross salary. You need roughly €68,590 gross to clear the standard norm. Calculate carefully.
 
 **Going ZZP and assuming the ruling continues.** It doesn't. ZZP-only income kills the ruling. Hybrid (part-time employee + part-time ZZP) keeps it on the employee portion only.
 
@@ -220,7 +233,7 @@ Be aware: when your ruling ends, your effective net income drops. If you stretch
 The 30% ruling doesn't cover:
 - BTW on personal purchases (still 21%)
 - Property tax (OZB — based on home value)
-- Capital gains beyond the partial-non-resident provisions (which were scaled back in 2024)
+- Foreign savings and investments in Box 3 (the partial foreign tax liability that used to exclude them was abolished from 1 January 2025, with a transitional group running to the 2026 return)
 - Estate tax or inheritance tax
 - Local municipal taxes (waterschap, afvalstoffenheffing)
 
@@ -237,7 +250,7 @@ What's worth optimizing:
 
 ## My Bottom Line
 
-The 30% ruling in 2026 is less generous than it was in 2020 but still extraordinarily valuable — €40,000–€90,000 in extra net income over its 5-year life for a typical skilled-expat salary. Apply on time, plan for the cliff, invest the savings rather than inflating your lifestyle, and treat the ruling as a one-time accelerator rather than a permanent feature of your finances.
+The 30% ruling in 2026 is worth more than most people think, because the step-down everyone remembers reading about never happened: it is a flat 30% for the full 60 months, worth roughly €40,000–€105,000 in extra net income over five years at typical skilled-expat salaries. The real diary entries are the 27% rate from January 2027 and the loss of the Box 3 exemption, not a month-21 cliff. Apply on time, check your *beschikking* for the date the ruling was first applied so you know which transitional row you are in, plan for the end of the 60 months, and invest the savings rather than inflating your lifestyle.
 
 For broader expat-tax planning see [tax filing for freelance expats](/blog/tax-filing-freelance-expat-netherlands-2026/), [crypto tax Netherlands](/blog/crypto-tax-netherlands-expats-2026/), [salary expectations](/guides/work/average-salary-netherlands-2026/), and [renting vs buying as expat](/blog/renting-vs-buying-netherlands-expat-2026/) for the housing piece of the equation. Compare your <a href="https://go.expatnetherlandshub.com/independer-zorg?ref=/blog/30-percent-ruling-extension-2024-changes-2026/" target="_blank" rel="nofollow sponsored noopener">health insurance</a> annually since the ruling-period cash flow lets you choose more flexibly.
 

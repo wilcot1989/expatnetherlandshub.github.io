@@ -1,7 +1,7 @@
 ---
 title: Dutch Mortgage with Foreign Income 2026
 date: 2026-06-23 10:00:00+01:00
-lastmod: 2026-04-23 10:00:00+01:00
+lastmod: 2026-08-19 10:00:00+02:00
 description: 'Dutch mortgage with foreign income 2026: banks accepting foreign contracts, ZZP mortgages, intentieverklaring, 30% ruling impact.'
 categories:
 - finance
@@ -36,7 +36,7 @@ faq:
 - q: Can I get a Dutch mortgage if I earn income from abroad?
   a: Yes, it is possible but more difficult than for Dutch residents with Dutch employment. Lenders assess foreign income on a case-by-case basis. Generally, you need a permanent contract (or its local equivalent), at least 2-3 years of documented income history, and in many cases a specialist mortgage advisor who works with international cases. Some lenders, including ING and ABN AMRO, have specific international mortgage desks.
 - q: Does the 30% ruling count toward my mortgage capacity?
-  a: This varies by lender. Some Dutch banks include the 30% tax-free allowance in their maximum mortgage calculation; others only count your base taxable salary. Given that the 30% ruling now phases down over 5 years, lenders who include it often apply a discount or cap. A mortgage advisor can tell you which lenders are most favourable for your specific ruling situation.
+  a: This varies by lender. Some Dutch banks include the 30% tax-free allowance in their maximum mortgage calculation; others only count your base taxable salary. The allowance is a flat 30% throughout 2026 and drops to 27% for most holders from 1 January 2027, and it ends with the ruling after at most five years, so lenders who do include it often apply a discount or cap. A mortgage advisor can tell you which lenders are most favourable for your specific ruling situation.
 - q: Can a ZZP freelancer get a mortgage in the Netherlands?
   a: Yes, though it is harder than for employed workers. Most lenders require at least 3 years of filed tax returns (aangiftes) and use an average of your last 1-3 years of net profit. Some specialist lenders accept 1-year self-employment history under certain conditions. An intentieverklaring (letter of intent) from your accountant does not replace income history for most mainstream lenders.
 - q: How much deposit do I need for a Dutch mortgage as an expat?
@@ -144,10 +144,12 @@ The question for mortgage purposes is: **does the lender include the 30% allowan
 |---|---|
 | Include full 30% allowance | Highest mortgage capacity |
 | Include allowance but cap at 5 years | Medium capacity — then drops when ruling expires |
-| Include allowance with phased reduction (matching the 30/27/20% step-down from 2024) | More conservative capacity |
+| Include allowance but at the lower 27% that applies from 2027 | More conservative capacity |
 | Ignore 30% allowance, base only on taxable salary | Lowest capacity |
 
 Different banks have materially different policies. This is exactly where a specialist mortgage advisor earns their fee — they know which lenders are most generous with 30% ruling income in your specific situation.
+
+One point worth raising with your advisor if a lender's model looks unusually conservative: the 30/20/10 step-down that was announced in 2024 (30% falling to 20% and then 10% during the five years) was **scrapped again before it ever took effect** and is not Dutch law. The allowance is a flat 30% for every month in 2025 and 2026. The only reduction actually coming is the drop to 27% from 1 January 2027, and holders whose ruling was already applied on or before 31 December 2023 keep 30%. If a lender is modelling a staircase down to 10%, they are working from withdrawn legislation.
 
 ### Practical Example
 
@@ -263,7 +265,7 @@ The transfer of property and mortgage takes place at a Dutch notaris. The notary
 
 **3. Not registering in the Netherlands.** Most lenders require you to be formally registered as a resident (BRP registration). If you have been living here without registering, sort this first.
 
-**4. Ignoring the 30% ruling expiry.** If your ruling expires in 2 years, a lender may reduce your maximum mortgage based on post-ruling taxable income. Plan your purchase timing accordingly. If you are still deciding whether the 30% ruling significantly changes your financial picture, the [30% ruling analysis for 2026](/guides/finance/30-percent-ruling-still-worth-it-2026/) breaks down exactly how much the ruling saves at different salary levels and how the step-down affects long-term planning.
+**4. Ignoring the 30% ruling expiry.** If your ruling expires in 2 years, a lender may reduce your maximum mortgage based on post-ruling taxable income. Plan your purchase timing accordingly. If you are still deciding whether the 30% ruling significantly changes your financial picture, the [30% ruling analysis for 2026](/guides/finance/30-percent-ruling-still-worth-it-2026/) breaks down exactly how much the ruling saves at different salary levels and how the 2027 drop to 27% affects long-term planning.
 
 **5. Assuming the process takes days.** A Dutch mortgage application typically takes 4-8 weeks from application to offer. The full process from first viewing to key handover can take 3-6 months.
 

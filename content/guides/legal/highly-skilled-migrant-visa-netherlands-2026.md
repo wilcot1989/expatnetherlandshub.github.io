@@ -1,7 +1,7 @@
 ---
 title: 'Highly Skilled Migrant Visa Netherlands 2026: Full Guide'
 date: 2026-03-06 10:00:00+01:00
-lastmod: 2026-04-23 10:00:00+01:00
+lastmod: 2026-08-19 10:00:00+02:00
 description: Complete guide to the Dutch Highly Skilled Migrant (Kennismigrant) visa in 2026. Salary requirements, application process, and timeline explained.
 categories:
 - relocation
@@ -132,7 +132,7 @@ With your BSN and residence permit, you can:
 
 ## The 30% Ruling: Do Not Miss This
 
-If you qualify for the highly skilled migrant visa, you almost certainly qualify for the [30% ruling](/guides/finance/30-percent-ruling-netherlands-2026/). This tax benefit makes 30% of your gross salary tax-free for up to 5 years, significantly increasing your take-home pay.
+If you qualify for the highly skilled migrant visa, you almost certainly qualify for the [30% ruling](/guides/finance/30-percent-ruling-netherlands-2026/). This tax benefit makes 30% of your gross salary tax-free for up to 5 years, significantly increasing your take-home pay. It is a flat 30% in 2025 and 2026; from 1 January 2027 the maximum falls to 27% for everyone whose ruling was not already being applied on or before 31 December 2023.
 
 **Example:** On a €70,000 gross salary, the 30% ruling saves you approximately €8,000-€10,000 per year in taxes.
 
@@ -327,10 +327,12 @@ If you qualify as a highly skilled migrant, you very likely also qualify for the
 **Requirements:**
 - You are recruited from abroad (or transferred within a multinational)
 - You have a specific expertise that is scarce in the Dutch labour market
-- Your salary meets the minimum threshold (€46,660 gross in 2026, or €35,468 for researchers under 30)
+- Your salary meets the minimum threshold — and note this is a different figure from the IND salary threshold above. In 2026 it is €48,013 in *taxable* salary (what remains after the 30% is deducted), which works out at roughly €68,590 gross. For employees under 30 with a qualifying master's degree it is €36,497 taxable, roughly €52,138 gross. Scientific researchers at designated institutions have no salary norm at all
 - You have not lived within 150km of the Dutch border in the 16 months before employment
 
 **How to apply:** Your employer applies to the Belastingdienst on your behalf. The application is straightforward if done promptly. The 30% ruling is granted for up to 5 years.
+
+**The percentage:** a flat 30% for every month of the ruling in 2025 and 2026. The 30/20/10 step-down announced in the 2024 Tax Plan was scrapped again before it ever took effect, so it is not part of Dutch law. From 1 January 2027 the maximum drops to 27%, unless the ruling was already being applied to your salary on or before 31 December 2023 — those holders keep 30% and the current salary norm for their remaining duration.
 
 **What it means financially:** On a €80,000 gross salary, the 30% ruling reduces your taxable income to €56,000. At Dutch tax rates, this saves approximately €7,000–€10,000 per year depending on your personal situation. Over 5 years, this is a significant benefit.
 

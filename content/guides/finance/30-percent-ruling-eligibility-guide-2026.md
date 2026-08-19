@@ -1,7 +1,7 @@
 ---
 title: '30% Ruling Eligibility: Do You Qualify? (2026)'
 date: 2026-04-29 10:00:00+01:00
-lastmod: 2026-04-23 10:00:00+01:00
+lastmod: 2026-08-19 10:00:00+02:00
 description: Find out if you qualify for the Dutch 30% ruling in 2026. I cover all 5 eligibility requirements, the 150km rule, salary thresholds, and a decision tree.
 categories:
 - finance
@@ -32,7 +32,7 @@ products:
   price: '0.00'
 faq:
 - q: What is the minimum salary to qualify for the 30% ruling in 2026?
-  a: In 2026, the minimum taxable salary threshold for the 30% ruling is EUR 46,107 gross per year for most applicants. For employees under 30 with a qualifying master's degree, the threshold is EUR 35,048 gross. These are the gross figures BEFORE the 30% allowance is deducted. The Belastingdienst adjusts these figures annually, so always verify the current year's threshold.
+  a: In 2026, the minimum threshold for the 30% ruling is EUR 48,013 in taxable salary per year for most applicants. For employees under 30 with a qualifying master's degree, the threshold is EUR 36,497 taxable. These figures apply to your taxable salary — the amount left after the 30% allowance is deducted — so the equivalent gross salary is roughly EUR 68,590 and EUR 52,138 respectively. The Belastingdienst adjusts these figures annually, so always verify the current year's threshold.
 - q: Does the 150km rule apply if I lived in Belgium?
   a: Almost certainly yes, which means you likely do NOT qualify. Most of Belgium, including Brussels, Ghent, Bruges, and Antwerp, lies within 150km of the Dutch border. If you lived in Belgium for the majority of the 24 months before starting work in the Netherlands, you will fail the 150km test. The city of Arlon, in the very south of Belgium, is borderline. If you lived in Belgium, get an address check done before assuming you qualify.
 - q: Can I apply for the 30% ruling as a self-employed person or ZZP'er?
@@ -58,7 +58,7 @@ Mina had planned her rent, her pension contributions, and her family's internati
 
 I tell this story not to frighten you, but because it illustrates something I see repeatedly: people assume they qualify when the details say otherwise. Or they assume they do not qualify when actually they do. The rules have real edges, and those edges matter.
 
-This article is specifically about eligibility. If you want to understand how the ruling works once you have it — the calculation, the phased reduction, what it covers — read my [complete guide to the 30% ruling](/guides/finance/30-percent-ruling-netherlands-2026/). This guide answers a different question: do you actually meet the requirements?
+This article is specifically about eligibility. If you want to understand how the ruling works once you have it — the calculation, the drop to 27% from 2027, what it covers — read my [complete guide to the 30% ruling](/guides/finance/30-percent-ruling-netherlands-2026/). This guide answers a different question: do you actually meet the requirements?
 
 ---
 
@@ -106,52 +106,52 @@ This is the requirement that trips people up most often — not because the numb
 
 **The 2026 thresholds:**
 
-| Category | Minimum Gross Salary (2026) |
-|---|---|
-| Standard (all employees) | EUR 46,107 per year |
-| Under 30, with qualifying master's degree | EUR 35,048 per year |
-| Scientific researchers at certain institutions | No minimum (separate rules apply) |
+| Category | Minimum Taxable Salary (2026) | Equivalent Gross Salary |
+|---|---|---|
+| Standard (all employees) | EUR 48,013 per year | approx. EUR 68,590 |
+| Under 30, with qualifying master's degree | EUR 36,497 per year | approx. EUR 52,138 |
+| Scientific researchers at certain institutions | No minimum (separate rules apply) | — |
 
 These figures are adjusted annually by the Belastingdienst, usually in January. The figures above are the 2026 amounts. Check the [Belastingdienst website](https://www.belastingdienst.nl) at the start of each year to confirm the current threshold.
 
 ### The Salary Threshold Trap
 
-Here is the critical detail that Mina's employer also got wrong for another candidate: **the EUR 46,107 threshold applies to your taxable salary, not your total gross salary.**
+Here is the critical detail that Mina's employer also got wrong for another candidate: **the EUR 48,013 threshold applies to your taxable salary, not your total gross salary.**
 
-Under the 30% ruling, 30% of your gross salary is paid as a tax-free allowance. Your "taxable salary" (loon uit tegenwoordige dienstbetrekking) is therefore 70% of your gross salary. The threshold of EUR 46,107 refers to this taxable portion.
+Under the 30% ruling, 30% of your gross salary is paid as a tax-free allowance. Your "taxable salary" (loon uit tegenwoordige dienstbetrekking) is therefore 70% of your gross salary. The threshold of EUR 48,013 refers to this taxable portion.
 
 This means your actual gross salary must be at least:
 
-EUR 46,107 ÷ 0.70 = **EUR 65,867 gross per year**
+EUR 48,013 ÷ 0.70 = **EUR 68,590 gross per year**
 
-If your employment contract says EUR 60,000 gross, the taxable portion under the ruling would be EUR 42,000. That is below the EUR 46,107 threshold, and you would not qualify.
+If your employment contract says EUR 60,000 gross, the taxable portion under the ruling would be EUR 42,000. That is below the EUR 48,013 threshold, and you would not qualify.
 
 Let me make this even clearer:
 
-| Gross Salary | Taxable Salary (70%) | Meets EUR 46,107 threshold? |
+| Gross Salary | Taxable Salary (70%) | Meets EUR 48,013 threshold? |
 |---|---|---|
 | EUR 55,000 | EUR 38,500 | No |
 | EUR 60,000 | EUR 42,000 | No |
-| EUR 65,867 | EUR 46,107 | Yes (exactly) |
+| EUR 68,590 | EUR 48,013 | Yes (exactly) |
 | EUR 70,000 | EUR 49,000 | Yes |
 | EUR 80,000 | EUR 56,000 | Yes |
 
-**For the under-30 master's threshold (EUR 35,048):**
+**For the under-30 master's threshold (EUR 36,497):**
 
-EUR 35,048 ÷ 0.70 = **EUR 50,069 gross per year**
+EUR 36,497 ÷ 0.70 = **EUR 52,138 gross per year**
 
 ### Part-Time Workers
 
 If you work part-time, the threshold is pro-rated. A 0.8 FTE contract needs 80% of the threshold. The math:
 
-- Standard threshold at 0.8 FTE: EUR 46,107 × 0.8 = EUR 36,886 taxable salary minimum
-- Which means gross salary of at least EUR 52,694
+- Standard threshold at 0.8 FTE: EUR 48,013 × 0.8 = EUR 38,410 taxable salary minimum
+- Which means gross salary of at least EUR 54,872
 
 This makes the 30% ruling harder to access on part-time contracts, and practically impossible for very low FTE arrangements.
 
 ### Does Holiday Allowance (Vakantiegeld) Count?
 
-Yes. Vakantiegeld (typically 8% of gross annual salary, usually paid in May) counts towards the salary threshold calculation. Your employer will include it when calculating your qualifying salary for the ruling. This is positive news: if your base salary is EUR 62,000 and your holiday allowance is EUR 4,960, your total qualifying gross is EUR 66,960 — above the EUR 65,867 threshold.
+Yes. Vakantiegeld (typically 8% of gross annual salary, usually paid in May) counts towards the salary threshold calculation. Your employer will include it when calculating your qualifying salary for the ruling. This is positive news: if your base salary is EUR 65,000 and your holiday allowance is EUR 5,200, your total qualifying gross is EUR 70,200 — above the EUR 68,590 threshold.
 
 ### End-of-Year Bonuses
 
@@ -339,23 +339,40 @@ If you end up in the bezwaar process, work with a specialist expat tax lawyer. T
 
 ---
 
-## The 2024 Changes: What Has Changed for 2026
+## Recent Changes: Where the Percentage Actually Stands
 
-The 30% ruling has undergone significant legislative changes that you need to understand, even if you are applying for the first time in 2026.
+The 30% ruling has been through several rounds of legislative change, and the reporting around it has left a lot of misinformation in circulation. Here is what is actually in force.
 
-### The 30/20/10 Phased Reduction
+### The 30/20/10 Step-Down Was Announced and Then Scrapped
 
-As of 1 January 2024, new applicants for the 30% ruling receive the benefit in a phased structure across the 5-year period:
+You will still find articles, HR presentations, and forum posts describing a phased structure in which the allowance dropped from 30% for the first 20 months to 20% for months 21–40 and 10% for months 41–60. That step-down was introduced in the 2024 Tax Plan, but it was **withdrawn again by the 2025 Tax Plan (Stb. 2024, 434) before it ever took effect.** It never applied to a single payslip and it is not Dutch law.
 
-| Year of the Ruling | Tax-Free Allowance |
+What applies instead:
+
+| Period | Maximum Tax-Free Allowance |
 |---|---|
-| Years 1–3 (months 1–36) | 30% of gross salary |
-| Year 4 (months 37–48) | 20% of gross salary |
-| Year 5 (months 49–60) | 10% of gross salary |
+| 2025 and 2026 | **30%**, flat, for every month of the ruling |
+| 2027 onwards | **27%** — unless transitional rules keep you at 30% |
 
-This means the benefit is front-loaded. In the first three years, you receive the full 30% allowance. In year four, it drops to 20%, and in year five to 10%.
+Rijksoverheid states it directly: in 2025 and 2026 the tax-free allowance remains a maximum of 30%. There is no month-21 cliff.
 
-**What this means practically:** The total benefit over 5 years is less than it was under the old flat 30% structure, but the first three years are unchanged. If you are likely to leave the Netherlands after 3 years, the change is less impactful for you. If you plan to stay for the full 5 years, you will notice the reduction in years 4 and 5.
+### The 2027 Change and the Three Transitional Cohorts
+
+From 1 January 2027 the maximum drops to 27%. What you get depends on **when the ruling was first applied to your salary** — not when you applied, and not when your employment started:
+
+| Ruling first applied | 2025 and 2026 | 2027 onwards |
+|---|---|---|
+| On or before 31 December 2023 | 30%, current salary norm | **30%, current salary norm** |
+| During 2024 | 30%, current salary norm | **27%, current salary norm** |
+| On or after 1 January 2025 | 30%, current salary norm | **27%, new (higher) salary norm** |
+
+If you are applying for the first time in 2026, you fall in the bottom row: a flat 30% for the rest of 2026, then 27% from January 2027, and you will have to meet the higher 2027 salary norm. That higher norm has been announced but is not yet enacted — it has to be set by decree, normally published in the end-of-year decree the December before. The figures circulating online (EUR 50,436 and EUR 38,338) are stated in **2024 price levels** and the norms are indexed annually, so do not treat them as final. The 2026 amounts above are the enacted ones.
+
+One trap in the top row: the protection at 30% ends if your status as an *ingekomen werknemer* is interrupted after 31 December 2023 and then starts again. A job gap of up to three months does not count as an interruption — the same three-month window that applies when transferring the ruling to a new employer.
+
+### The Cap on the Benefit
+
+The allowance is calculated on salary up to EUR 262,000 (2026), which caps the tax-free allowance at EUR 78,600 per year. Above that salary level the ruling adds nothing further. For most applicants this cap is irrelevant to the eligibility question.
 
 ### Maximum Duration: 5 Years
 
@@ -375,7 +392,7 @@ Because the 30% ruling is not guaranteed until approved, I always advise clients
 
 This is not pessimism — it is prudent planning.
 
-The difference matters enormously. On a EUR 80,000 gross salary, the ruling saves you approximately EUR 11,000–EUR 14,000 per year in the first three years (depending on your exact tax rate and deductions). Over a full five-year period with the phased reduction, total savings might be EUR 45,000–EUR 60,000. That is not a minor footnote in your financial plan.
+The difference matters enormously. On a EUR 80,000 gross salary, the ruling saves you approximately EUR 11,000–EUR 14,000 per year at the flat 30% rate (depending on your exact tax rate and deductions). Over a full five-year period that adds up to roughly EUR 55,000–EUR 70,000, a little less for anyone who moves to 27% from January 2027. That is not a minor footnote in your financial plan.
 
 Use the [30% ruling calculator](/tools/30-percent-ruling-calculator/) to model your specific situation before committing to any financial decisions based on the ruling.
 
@@ -393,11 +410,11 @@ For a broader picture of expat finances in the Netherlands — including how to 
 
 ## The Highly Skilled Migrant Visa and the 30% Ruling
 
-There is an important connection between the highly skilled migrant visa (kennismigrant visa) and the 30% ruling: they share the same salary threshold.
+There is an important connection between the highly skilled migrant visa (kennismigrant visa) and the 30% ruling — but it is not the one most people assume. **The two salary thresholds are different, and they are set by different bodies.**
 
-If your employer is sponsoring your visa as a kennismigrant, the Dutch Immigration Service (IND) requires your salary to meet the same minimum threshold as the 30% ruling — EUR 46,107 (taxable) in 2026 for most applicants. This means if you qualify for the kennismigrant visa on salary grounds, you should also meet the salary threshold for the 30% ruling.
+The IND applies its own salary norm for highly skilled migrants: a gross monthly amount excluding holiday allowance, indexed every January and published on [ind.nl](https://ind.nl) (comfortably over EUR 5,700 gross per month for applicants aged 30 and over, and lower for under-30s with a Dutch or EU master's degree). The 30% ruling threshold, by contrast, is an annual **taxable** salary figure set by the Belastingdienst — EUR 48,013 in 2026, or EUR 36,497 for qualifying under-30s.
 
-However, the visa and the ruling are applied for separately through different bodies (IND vs. Belastingdienst). Read more about the [highly skilled migrant visa process](/guides/legal/highly-skilled-migrant-visa-netherlands-2026/) if you are still in the visa application stage.
+In practice, a salary that clears the IND norm will usually clear the 30% ruling threshold as well, but you have to check both separately rather than assuming one implies the other. Both the visa and the ruling are applied for separately through different bodies (IND vs. Belastingdienst). Read more about the [highly skilled migrant visa process](/guides/legal/highly-skilled-migrant-visa-netherlands-2026/) if you are still in the visa application stage.
 
 Also, if you are at the very beginning of your relocation planning, my [complete guide to moving to the Netherlands](/guides/legal/complete-guide-moving-to-netherlands-2026/) covers the full sequence: visa, BSN, housing, and employment — with a clear chronology of what you need to do and when.
 
@@ -417,8 +434,8 @@ Use this as a quick reference before speaking with your HR department or a tax a
    - No → You do not qualify. Stop here.
    - Yes → Continue.
 
-3. **Is your gross annual salary (including holiday allowance) at least EUR 65,867?**
-   (Or EUR 50,069 if you are under 30 with a master's degree?)
+3. **Is your gross annual salary (including holiday allowance) at least EUR 68,590?**
+   (Or EUR 52,138 if you are under 30 with a master's degree?)
    - No → You do not qualify. (Consider negotiating your salary — see Step 3b.)
    - Yes → Continue.
 
@@ -444,7 +461,7 @@ The 30% ruling is one of the most valuable financial benefits available to expat
 The questions I would want every potential applicant to answer before assuming they qualify:
 
 1. Where exactly was I living for the past 24 months, and is each of those addresses more than 150km from the Dutch border?
-2. What is my actual gross salary including all contractual elements, and does 70% of that figure exceed EUR 46,107?
+2. What is my actual gross salary including all contractual elements, and does 70% of that figure exceed EUR 48,013?
 3. Was I offered this job before I physically moved to the Netherlands, or was I hired within 4 months of my arrival?
 4. Am I an employee of a Dutch-registered company with a Dutch payroll — not a freelancer, ZZP'er, or foreign employee?
 

@@ -1,7 +1,7 @@
 ---
 title: How to Find a Job in the Netherlands 2026
 date: 2026-03-22 10:00:00+01:00
-lastmod: 2026-04-23 10:00:00+01:00
+lastmod: 2026-08-19 10:00:00+02:00
 description: Complete guide to finding a job in the Netherlands as an expat. Job boards, visa rules, salary norms, Dutch CV tips, and what recruiters actually want.
 categories:
 - work
@@ -22,13 +22,13 @@ author_bio: Expat coach and writer at ExpatNetherlandsHub.com
 featured_image: /images/categories/work.svg
 faq:
 - q: Do I need a work permit to work in the Netherlands as a non-EU citizen?
-  a: Yes, if you are a non-EU/EEA citizen you generally need a work permit (TWV) or a combined permit for residence and work (MVVM). Your employer typically sponsors this and applies on your behalf. EU/EEA citizens have the right to work in the Netherlands without a permit. Highly skilled migrants with a salary above the IND threshold (around EUR 46,107 for most applicants in 2026) can apply for the Highly Skilled Migrant (Kennismigrant) permit, which is faster and more flexible.
+  a: Yes, if you are a non-EU/EEA citizen you generally need a work permit (TWV) or a combined permit for residence and work (MVVM). Your employer typically sponsors this and applies on your behalf. EU/EEA citizens have the right to work in the Netherlands without a permit. Highly skilled migrants whose salary is above the IND salary threshold — indexed every January and published on ind.nl, just over EUR 5,700 gross per month excluding holiday allowance for applicants aged 30 and over, lower for under-30s — can apply for the Highly Skilled Migrant (Kennismigrant) permit, which is faster and more flexible.
 - q: What is a realistic salary for an expat professional in the Netherlands in 2026?
   a: 'Salaries in the Netherlands vary significantly by sector and experience. A junior software engineer earns roughly EUR 40,000–55,000 gross per year. A mid-level financial analyst: EUR 55,000–75,000. A senior product manager: EUR 75,000–110,000. Amsterdam and The Hague tend to pay 10–15% above other cities. The Netherlands has a minimum wage of around EUR 2,070 gross per month (2026 rate). Always check Glassdoor Netherlands and Salary.com NL for benchmarks in your specific field.'
 - q: Is it hard for expats to find jobs in the Netherlands without speaking Dutch?
   a: It depends heavily on the sector. In technology, finance, logistics, consulting, and international organisations, English is the working language and Dutch is not required for most roles. In healthcare, education, legal, government, and client-facing retail roles, Dutch is usually essential. Amsterdam has the highest density of English-language roles. That said, learning even basic Dutch (A2 level) noticeably improves your job chances and makes networking much easier.
 - q: How does the 30% ruling affect my job search in the Netherlands?
-  a: The 30% ruling is a Dutch tax benefit that allows qualifying expat employees to receive 30% of their gross salary tax-free. To qualify, you must be recruited from abroad, have specific expertise, and earn above the salary threshold (around EUR 46,107 in 2026). Not every employer is registered to apply the ruling. When negotiating job offers, always ask whether the company can apply the 30% ruling and factor this into your effective net salary comparison.
+  a: The 30% ruling is a Dutch tax benefit that allows qualifying expat employees to receive 30% of their gross salary tax-free. To qualify, you must be recruited from abroad, have specific expertise, and have a taxable salary above the threshold (EUR 48,013 in 2026, or EUR 36,497 if you are under 30 with a qualifying master's degree). The percentage is a flat 30% in 2025 and 2026 and drops to a maximum of 27% from 1 January 2027 for holders whose ruling was not already running on 31 December 2023. Not every employer is registered to apply the ruling. When negotiating job offers, always ask whether the company can apply the 30% ruling and factor this into your effective net salary comparison.
 - q: Which industries are hiring expats most actively in the Netherlands in 2026?
   a: Technology (software, data, AI), life sciences and pharma (Philips, ASML, Qiagen), logistics and supply chain (Rotterdam port region), finance and fintech (Amsterdam), international organisations and NGOs (The Hague), and agriculture/food tech (Wageningen region). The Netherlands is also a European hub for multinationals such as KPMG, Deloitte, Shell, Unilever, and ING, all of which hire internationally.
 - q: What should I expect from a Dutch job interview?
@@ -92,7 +92,7 @@ If you are an EU or EEA citizen, you have the right to live and work in the Neth
 **Highly Skilled Migrant (Kennismigrant) permit**
 This is the main route for expat professionals. Requirements in 2026:
 - A job offer from a recognised IND sponsor employer
-- Gross salary at or above EUR 46,107/year (reduced threshold of EUR 33,195 for graduates under 30)
+- A gross salary at or above the IND salary threshold for knowledge migrants. The IND indexes this every January and publishes the current amounts on ind.nl: it sits just over EUR 5,700 gross per month excluding holiday allowance for applicants aged 30 and over, and lower for under-30s and for graduates coming out of a Dutch orientation year. Check ind.nl for the exact figure that applies to your start date — do not rely on a number you read in an article
 - The employer applies to the IND; processing typically takes 2–4 weeks
 - Permit duration: up to 5 years, renewable
 
@@ -274,12 +274,14 @@ It allows your employer to pay 30% of your gross salary as a tax-free allowance,
 
 - You were recruited from outside the Netherlands (or from more than 150km from the Dutch border)
 - You have specific expertise that is scarce in the Dutch labour market (salary threshold is the practical test)
-- Your gross salary exceeds EUR 46,107/year (general threshold) or EUR 33,195/year (under-30 graduates)
+- Your taxable salary — what is left after the 30% is deducted — exceeds EUR 48,013 in 2026, which means roughly EUR 68,590 gross. Under 30 with a qualifying master's degree: EUR 36,497 taxable, roughly EUR 52,138 gross. Scientific researchers at designated institutions have no salary norm. Note that this threshold is a separate test from the IND salary threshold for the kennismigrant permit
 - You apply within four months of your employment start date
 
-### Duration
+### Duration and percentage
 
-The 30% ruling was originally granted for five years. From 2024, it is being phased out gradually: 30% in years 1–3, 20% in years 4–5, 10% in year 6. Check the latest Belastingdienst guidance for the current phase-in schedule.
+The ruling runs for a maximum of five years (60 months). The percentage is a flat 30% for every one of those months in 2025 and 2026 — the 30/20/10 step-down announced in the 2024 Tax Plan was scrapped again before it ever took effect, so it never applied to anyone.
+
+From 1 January 2027 the maximum drops to 27%. Which version you land on depends on when the ruling was first applied to your salary: on or before 31 December 2023 means you keep 30% and the current salary norm for your remaining duration; during 2024 means 27% from 2027 with the current norm; on or after 1 January 2025 means 27% from 2027 under a new, higher norm that still has to be set.
 
 ### What to do
 
@@ -416,7 +418,7 @@ Get those things right, and the Dutch market rewards persistence and capability 
 
 **Do I need a work permit to work in the Netherlands as a non-EU citizen?**
 
-Yes, if you are a non-EU/EEA citizen you generally need a work permit (TWV) or a combined permit for residence and work (MVVM). Your employer typically sponsors this and applies on your behalf. EU/EEA citizens have the right to work in the Netherlands without a permit. Highly skilled migrants with a salary above the IND threshold (around EUR 46,107 for most applicants in 2026) can apply for the Highly Skilled Migrant (Kennismigrant) permit, which is faster and more flexible.
+Yes, if you are a non-EU/EEA citizen you generally need a work permit (TWV) or a combined permit for residence and work (MVVM). Your employer typically sponsors this and applies on your behalf. EU/EEA citizens have the right to work in the Netherlands without a permit. Highly skilled migrants whose salary is above the IND salary threshold — indexed every January and published on ind.nl, just over EUR 5,700 gross per month excluding holiday allowance for applicants aged 30 and over, lower for under-30s — can apply for the Highly Skilled Migrant (Kennismigrant) permit, which is faster and more flexible.
 
 **What is a realistic salary for an expat professional in the Netherlands in 2026?**
 
@@ -428,7 +430,7 @@ It depends heavily on the sector. In technology, finance, logistics, consulting,
 
 **How does the 30% ruling affect my job search in the Netherlands?**
 
-The 30% ruling is a Dutch tax benefit that allows qualifying expat employees to receive 30% of their gross salary tax-free. To qualify, you must be recruited from abroad, have specific expertise, and earn above the salary threshold (around EUR 46,107 in 2026). Not every employer is registered to apply the ruling. When negotiating job offers, always ask whether the company can apply the 30% ruling and factor this into your effective net salary comparison.
+The 30% ruling is a Dutch tax benefit that allows qualifying expat employees to receive 30% of their gross salary tax-free. To qualify, you must be recruited from abroad, have specific expertise, and have a taxable salary above the threshold (EUR 48,013 in 2026, or EUR 36,497 if you are under 30 with a qualifying master's degree). The percentage is a flat 30% in 2025 and 2026 and drops to a maximum of 27% from 1 January 2027 for holders whose ruling was not already running on 31 December 2023. Not every employer is registered to apply the ruling. When negotiating job offers, always ask whether the company can apply the 30% ruling and factor this into your effective net salary comparison.
 
 **Which industries are hiring expats most actively in the Netherlands in 2026?**
 

@@ -1,7 +1,7 @@
 ---
 title: 'Expat Tax Return Netherlands 2026: How to File Step by Step'
 date: 2026-04-30 10:00:00+01:00
-lastmod: 2026-04-23 10:00:00+01:00
+lastmod: 2026-08-19 10:00:00+02:00
 description: Step-by-step guide to filing your Dutch tax return as an expat. Deadlines, deductions, 30% ruling, M-form, online filing, and when you need a tax advisor.
 categories:
 - finance
@@ -40,7 +40,7 @@ faq:
 - q: What deductions can expats claim?
   a: 'Common deductions: mortgage interest (hypotheekrenteaftrek), pension contributions (lijfrente), healthcare costs above threshold, charitable donations (ANBI), study costs related to your profession, and commuting costs if not reimbursed. The 30% ruling affects which deductions you can claim — get advice if applicable.'
 - q: How does the 30% ruling affect my tax return?
-  a: With the 30% ruling, 30% of your salary is tax-free. On your tax return, only 70% of your salary is declared as taxable income. You can also choose to be treated as a 'partial non-resident taxpayer' (partieel buitenlands belastingplichtig), which means you're only taxed on Dutch income — not worldwide assets (Box 3).
+  a: With the 30% ruling, 30% of your salary is tax-free, so only 70% of your salary is declared as taxable income. The old option to be treated as a 'partial non-resident taxpayer' (partieel buitenlands belastingplichtig), which kept worldwide assets out of Box 3, was abolished per 1 January 2025 and can no longer be chosen from the 2025 return onwards. Only expats who were already using the ruling before 2024 may still elect it, up to and including the 2026 return.
 - q: Should I hire a tax advisor as an expat?
   a: 'Recommended in these situations: your first year in the Netherlands (M-form is complex), you have the 30% ruling, you have income from multiple countries, you own property in the Netherlands or abroad, or you''re a freelancer (ZZP). Tax advisors specialized in expats cost €150-€500 for a standard return. They often find deductions that more than cover their fee.'
 schema_type: Article
@@ -132,7 +132,7 @@ The M-form is required for the year you arrived in or left the Netherlands. It's
 |--------|------|--------------------------|-------------------|
 | **Resident (binnenlands)** | Lived in NL most of the year | Yes | Yes, all |
 | **Non-resident (buitenlands)** | Lived outside NL most of the year | No, NL only | Limited |
-| **Partial non-resident** (with 30% ruling) | 30% ruling active | No (Box 3 exempt) | Limited |
+| **Partial non-resident** (30% ruling in use before 2024 only) | Abolished per 1-1-2025; transitional group may elect it up to the 2026 return | No (Box 3 exempt) while still available | Limited |
 
 ## 30% Ruling and Your Tax Return
 
@@ -144,15 +144,14 @@ If you have the 30% ruling:
 
 ### What Changes
 1. Only 70% of your gross salary is taxable
-2. You can opt for "partial non-resident" status
-3. Box 3: Only taxed on Dutch assets (not worldwide savings)
-4. Some deductions are limited or unavailable
+2. Box 3 works as normal — worldwide savings and investments are declared
+3. Some deductions are limited or unavailable
 
-### Partial Non-Resident Status
-This is often the biggest tax advantage of the 30% ruling:
-- Your foreign bank accounts, investments, and property are **exempt from Box 3 tax**
-- Only Dutch bank accounts and Dutch property are taxed in Box 3
-- Choose this status on your tax return (it's not automatic!)
+### Partial Non-Resident Status: Abolished
+This used to be the biggest tax advantage of the 30% ruling. It was **abolished with effect from 1 January 2025** — from the 2025 tax return onwards you can no longer opt for partial foreign tax liability.
+
+- Ruling first applied in **2024 or later** → the status is not available to you at all. Foreign bank accounts, investments and property go into Box 3 like any other resident's, taxed at 36% on the deemed return in 2026
+- Already using the ruling **before 2024** → you may still elect it **up to and including the 2026 return** (filed in spring 2027). Until then only Dutch bank accounts and Dutch property are taxed in Box 3, and the election is not automatic — you must choose it on the return
 
 ## Common Deductions for Expats
 
@@ -214,13 +213,13 @@ Missing a deadline costs money. Here is the complete picture:
 ## Common Mistakes
 
 1. **Not filing the M-form** — Required for arrival/departure year
-2. **Forgetting partial non-resident status** — Must actively choose it
+2. **Assuming partial non-resident status is still available** — Abolished per 1 January 2025; only pre-2024 ruling holders can still choose it, up to the 2026 return
 3. **Missing mortgage deduction** — File even if not invited
-4. **Wrong Box 3 declaration** — Report worldwide assets (unless partial non-resident)
+4. **Wrong Box 3 declaration** — Report worldwide assets, unless you are in the transitional group still entitled to partial non-resident status
 5. **Missing the deadline** — File or request extension before May 1
 6. **Not checking pre-filled data** — The tax authority's data can be incomplete
 7. **Underestimating toeslagen income** — If you receive childcare subsidy or rent allowance, the tax authority reconciles based on your actual income. Underestimating leads to a repayment demand
-8. **Ignoring the 30% ruling election** — If you qualify, you must actively choose partial non-resident status on each return. It is not automatic. See our [30% ruling guide](/guides/finance/30-percent-ruling-netherlands-2026/) for detail
+8. **Ignoring the 30% ruling election if you are still in scope** — Only expats who were using the ruling before 2024 can still choose partial non-resident status, and only through the 2026 return. If that is you, you must actively choose it on each return; it is not automatic. See our [30% ruling guide](/guides/finance/30-percent-ruling-netherlands-2026/) for detail
 9. **Not using a DigiD** — Everything in the Dutch tax system requires DigiD authentication. If you do not have one yet, our [DigiD guide](/guides/legal/digid-guide-expats-2026/) walks you through the setup
 
 If you are managing money across borders — paying foreign taxes, transferring savings, or receiving income from your home country — Wise is the most cost-effective way to move money internationally. Far cheaper than Dutch bank wire fees.
@@ -289,7 +288,7 @@ The key decision within the M-form is your taxpayer status for the partial year:
 - **Buitenlands belastingplichtige (non-resident):** Taxed only on Dutch income; limited deductions
 - **Kwalificerend buitenlands belastingplichtige:** Non-resident who earns 90%+ of worldwide income in the Netherlands — entitled to resident-level deductions
 
-If you had the 30% ruling in your arrival or departure year, there is an additional layer: you may be able to opt for partial non-resident status, which exempts your foreign assets from Box 3 tax. See our [30% ruling guide](/guides/finance/30-percent-ruling-netherlands-2026/) for detail on how this interacts with the M-form.
+If you had the 30% ruling in your arrival or departure year, there is an additional layer — but a much narrower one than it used to be. Partial non-resident status, which exempted foreign assets from Box 3 tax, was abolished per 1 January 2025; only expats who were already using the ruling before 2024 can still opt for it, and only through the 2026 return. See our [30% ruling guide](/guides/finance/30-percent-ruling-netherlands-2026/) for detail on how this interacts with the M-form.
 
 ### One More Thing: You Cannot Undo a Filed M-Form Easily
 
@@ -346,7 +345,7 @@ Before you sit down to file in March or April, gather these documents. Missing a
 **Savings and investments (Box 3):**
 - Bank account balances on 1 January 2025 — specifically the first of January, not the most recent statement
 - Investment account statement as of 1 January 2025
-- Foreign savings account balances and investment values (unless you elected partial non-resident status)
+- Foreign savings account balances and investment values (unless you are in the transitional group that can still elect partial non-resident status)
 
 **Deductions:**
 - Mortgage annual statement (hypotheekoverzicht) if you own property

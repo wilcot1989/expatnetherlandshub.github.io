@@ -299,11 +299,11 @@ There's a heavily subsidised social housing sector, but waiting lists are 5–15
 
 The 30% ruling (30%-regeling) allows you to receive 30% of your gross salary as a tax-free allowance to cover "extraterritorial costs" of living abroad. For someone earning €70,000 gross, this is worth approximately €10,500/year in tax savings.
 
-In 2024, the Dutch government temporarily reduced this to a sliding scale: 30% in years 1–2, 20% in years 3–4, 10% in year 5. The new coalition government has proposed reverting to the flat 30% rate, but check current legislation as this may still be in flux in 2026.
+The 30/20/10 sliding scale announced in the 2024 Tax Plan (30% for months 1–20, then 20%, then 10%) was scrapped again before it ever took effect, so ignore it: in 2025 and 2026 the percentage is a flat 30% for every month of the ruling. From 1 January 2027 the maximum drops to 27%, except for holders whose ruling was already being applied to their salary on or before 31 December 2023 — they keep 30% for their remaining duration.
 
 ### Eligibility criteria (2026)
 1. Recruited from abroad (lived more than 150km from the Dutch border for at least 16 of the 24 months before your first Dutch working day)
-2. Gross salary above €46,107 (standard threshold 2026) — reduced threshold for under-30 researchers
+2. Taxable salary (what is left after the 30% is deducted) above €48,013 — roughly €68,590 gross. Under 30 with a qualifying master's degree: €36,497 taxable, roughly €52,138 gross. Scientific researchers at designated institutions have no salary norm at all
 3. Your employer must be a recognised IND sponsor
 4. Applied within 4 months of your first working day
 
@@ -319,7 +319,7 @@ Your employer handles the formal application to the Belastingdienst. Your role i
 
 ### What it covers
 With 30% ruling active, you can also:
-- Convert to a "partial non-resident taxpayer" — beneficial for savings and investments held abroad
+- Nothing on the Box 3 side any more: the "partial non-resident taxpayer" election that used to keep foreign savings and investments out of Dutch wealth tax was abolished on 1 January 2025. Only people who were already using the ruling before 2024 can still claim it, and only up to and including their 2026 return
 - Exchange a foreign driving licence without a test in most cases
 - Keep certain foreign pension arrangements outside Dutch taxation
 
@@ -682,7 +682,7 @@ Not always. Wise and Revolut work without a Dutch BSN. However, for a traditiona
 You have 4 months from the date you register in the BRP (municipality register). Missing this window can result in a fine and backdated premiums. Don't delay — apply within the first month if possible.
 
 **What is the 30% ruling and am I eligible?**
-The 30% ruling allows qualifying expats to receive 30% of their gross salary tax-free. You must be recruited from abroad, earn above the income threshold (€46,107 in 2026 for most), and have lived more than 150km from the Dutch border for at least 16 of the 24 months before your first day of work.
+The 30% ruling allows qualifying expats to receive 30% of their gross salary tax-free — a flat 30% in 2025 and 2026, dropping to 27% from 1 January 2027 for most holders. You must be recruited from abroad, have a taxable salary above the threshold (€48,013 in 2026 for most, or €36,497 if you are under 30 with a qualifying master's degree), and have lived more than 150km from the Dutch border for at least 16 of the 24 months before your first day of work.
 
 **Can I work as a freelancer (ZZP) in the Netherlands without Dutch citizenship?**
 Yes, EU/EEA citizens can register as ZZP'er freely. Non-EU expats need a work permit that covers self-employment, or must apply for a self-employment residence permit. Register at the KVK (Chamber of Commerce) to get your KVK number.

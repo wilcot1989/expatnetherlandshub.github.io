@@ -1,7 +1,7 @@
 ---
 title: Netherlands vs China for Expats 2026
 date: 2026-03-22 10:00:00+01:00
-lastmod: 2026-04-23 10:00:00+01:00
+lastmod: 2026-08-19 10:00:00+01:00
 description: 'Netherlands vs China for expats 2026: salaries, cost of living, internet freedom, healthcare, and quality of life compared honestly.'
 categories:
 - integration
@@ -78,7 +78,7 @@ This comparison is honest about both. It is aimed at professionals weighing an i
 
 ### The Netherlands: Kennismigrant
 
-As covered in detail elsewhere on this site, the Dutch Kennismigrant permit requires employer sponsorship from a recognised IND sponsor company, a salary above EUR 46,107 (2026), and processes in 2–4 weeks. It gives you full Schengen area travel rights and leads to permanent residency after 5 years.
+As covered in detail elsewhere on this site, the Dutch Kennismigrant permit requires employer sponsorship from a recognised IND sponsor company, and a salary above the IND threshold for the permit — indexed each January and published on ind.nl, currently over EUR 5,700 gross per month excluding holiday allowance for applicants aged 30 and over, lower for under-30s with a Dutch or EU master's degree. It processes in 2–4 weeks and gives you full Schengen area travel rights and leads to permanent residency after 5 years.
 
 The system is efficient, predictable, and employer-friendly — which is part of why the Netherlands attracts so many international companies and their staff.
 

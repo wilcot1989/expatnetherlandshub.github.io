@@ -2,7 +2,7 @@
 title: 'How to File Your Dutch Tax Return: Expat Guide (2026)'
 slug: dutch-tax-return-how-to-file-2026
 date: 2026-04-05 10:00:00+01:00
-lastmod: 2026-04-23 10:00:00+01:00
+lastmod: 2026-08-19 10:00:00+02:00
 author: Sarah van den Berg
 author_bio: Expat coach and relocation specialist. Half Dutch, half British, living in the Netherlands for over 10 years.
 categories:
@@ -220,7 +220,7 @@ The 30% ruling allows your employer to pay 30% of your gross salary tax-free as 
 - Your jaaropgave will show the taxable income after the 30% exclusion has been applied
 - The excluded amount appears separately on the form
 - You don't need to "apply" for the ruling again each year — it continues automatically until it expires
-- If you opted into the partial non-resident status (partiële buitenlandse belastingplicht), your Box 2 and Box 3 foreign income may also be excluded
+- Partial non-resident status (partiële buitenlandse belastingplicht), which kept foreign Box 2 and Box 3 assets out of the Dutch calculation, was abolished per 1 January 2025. For the 2025 return it can only be elected by expats who were already using the 30% ruling before 2024 — that transitional group may use it through the 2026 return, and then it is gone for everyone. If your ruling first applied in 2024 or later, declare your worldwide savings and investments in Box 3 as normal
 
 **Partial year:** If your ruling started or ended during 2025, the calculation is pro-rated. The system handles this, but double-check the months are correct.
 

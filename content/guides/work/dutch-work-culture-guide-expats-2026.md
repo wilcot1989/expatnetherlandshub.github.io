@@ -1,7 +1,7 @@
 ---
 title: 'Dutch Work Culture: 15 Things Every Expat Should Know'
 date: 2026-03-13 10:00:00+01:00
-lastmod: 2026-04-23 10:00:00+01:00
+lastmod: 2026-08-19 10:00:00+02:00
 description: Guide to Dutch work culture for expats. Direct feedback, flat hierarchy, borrels, holiday allowance and unwritten office rules.
 categories:
 - work
@@ -293,9 +293,10 @@ In short: if you are a skilled worker recruited from abroad, your employer can p
 
 **Key conditions:**
 - You must have lived more than 150 km from the Dutch border in the 24 months before starting your role in the Netherlands.
-- You must meet a minimum salary threshold (adjusted annually — in 2026 this is approximately €46,107 gross, or around €35,048 for workers under 30 who completed specific degrees).
+- You must meet a minimum salary threshold, adjusted annually, and it applies to your taxable salary — what is left after the 30% is deducted. In 2026 that is €48,013 (roughly €68,590 gross), or €36,497 for workers under 30 with a qualifying master's degree (roughly €52,138 gross). Scientific researchers at designated institutions have no salary norm.
 - Your employer must apply on your behalf within four months of your start date. Miss this window and you lose the ruling.
 - The ruling currently runs for a maximum of five years (reduced from eight in 2024).
+- The percentage is a flat 30% for every month in 2025 and 2026 — the 30/20/10 step-down announced in the 2024 Tax Plan was scrapped again before it ever took effect. From 1 January 2027 the maximum drops to 27%, unless the ruling was already being applied to your salary on or before 31 December 2023.
 
 This is one of those things that is worth sorting properly from day one. Our detailed [30% ruling guide](/guides/finance/30-percent-ruling-netherlands-2026/) covers the application process, eligibility edge cases, and what happens when the ruling ends.
 

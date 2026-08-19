@@ -2,7 +2,7 @@
 title: "Netherlands Tax Deadline 2027: Expat Checklist"
 description: "Everything I prepared before my 2027 Dutch tax filing — deadlines, Form M, 30% ruling, Box 3 changes, and when to hire an English-speaking adviser."
 date: 2026-08-12
-lastmod: 2026-08-12T10:00:00+01:00
+lastmod: 2026-08-19T10:00:00+02:00
 author: "Sarah van den Berg"
 author_bio: "Expat coach and writer at ExpatNetherlandsHub.com"
 categories: ["finance"]
@@ -18,7 +18,7 @@ faq:
   - question: "Do I need to file a Form M for 2027?"
     answer: "You need Form M if you migrated to or from the Netherlands during 2026. It covers the partial-year you were a Dutch tax resident. Form M cannot be filed online through the standard portal — you either request a paper version or use tax software/an adviser that supports it."
   - question: "How does the 30% ruling affect my 2027 filing?"
-    answer: "If you still have the 30% ruling in 2026, 30% of your eligible salary is tax-free, and you can opt for partial non-resident status for Box 2 and Box 3 — meaning Dutch savings and investments outside qualifying assets are not taxed in the Netherlands. From 2027 the partial non-resident option is being phased out for new entrants, but transitional rules apply."
+    answer: "If you still have the 30% ruling in 2026, a flat 30% of your eligible salary is tax-free for every month of the year — the 30/20/10 step-down announced in 2024 was scrapped before it ever applied. The allowance is calculated on salary up to €262,000, capping it at €78,600. Partial non-resident status for Box 2 and Box 3 is a different story: it was abolished with effect from 1 January 2025. The only people who can still elect it on the 2026 return are those who were already using the 30% ruling before 2024, and for them the 2026 return is the last one. Separately, from 1 January 2027 the maximum allowance drops from 30% to 27% for most holders."
   - question: "What changes in Box 3 for tax year 2026 (filed in 2027)?"
     answer: "Box 3 is moving toward a system based on actual returns rather than deemed returns. For tax year 2026 a transitional regime still applies, but you can file a counter-calculation if your real return was lower than the deemed return. The Belastingdienst published updated forfaitaire percentages in late 2026."
   - question: "Can I file my Dutch taxes in English?"
@@ -29,7 +29,7 @@ The week I finally understood Dutch taxes, I was sitting on the floor of my Utre
 
 *Disclosure: This article contains affiliate links. If you sign up for a tax service through one of my links, I may earn a commission at no extra cost to you. I only recommend services I have either used myself or vetted through reader feedback. My editorial opinions are my own.*
 
-> **Quick answer:** The standard Dutch tax deadline for tax year 2026 is **1 May 2027**. If you arrived in or left the Netherlands during 2026, you need **Form M** instead of the standard return. Request an **extension until 1 September** before 1 May if you need more time, or use a registered tax adviser to push the filing into 2028. The 30% ruling, Box 3 reform, and partial non-resident status all change how — and how much — you owe.
+> **Quick answer:** The standard Dutch tax deadline for tax year 2026 is **1 May 2027**. If you arrived in or left the Netherlands during 2026, you need **Form M** instead of the standard return. Request an **extension until 1 September** before 1 May if you need more time, or use a registered tax adviser to push the filing into 2028. The 30% ruling, Box 3 reform, and the abolition of partial non-resident status all change how — and how much — you owe.
 
 I'm writing this in the late summer of 2026 specifically because the worst time to learn about Dutch taxes is in March 2027 when the Belastingdienst portal goes live and you're suddenly remembering that you never opened that envelope from January. Below is the checklist I wish someone had handed me eight years ago, updated for tax year 2026 (the one you file in 2027).
 
@@ -67,15 +67,15 @@ If your Dutch is limited and your arrival year involved foreign income, a reloca
 
 The 30% ruling has been through three rounds of political knife-fighting in the last two years. As of tax year 2026, the position is:
 
-- **Existing rulings issued before 1 January 2024**: largely grandfathered. Five-year maximum, 30% tax-free allowance on qualifying salary, full partial non-resident status available.
-- **Rulings issued from 1 January 2024 onward**: the tiered "30%–20%–10%" reduction that was briefly proposed has been **reversed**, and the flat 30% for five years has been restored, but with a salary cap based on the *Balkenende-norm* (around €246,000 for 2026).
-- **Partial non-resident status**: this is the big change. From 1 January 2027 onwards, **new** 30%-ruling holders can no longer opt for partial non-resident status for Box 2 and Box 3. For those of us already in the ruling on 31 December 2026, transitional rules let us keep partial non-resident status until our ruling expires.
+- **The percentage**: a flat **30%** for every month of 2026, for everyone who holds the ruling. The tiered "30%–20%–10%" step-down that was legislated in the 2024 Tax Plan was **scrapped again by the 2025 Tax Plan (Stb. 2024, 434) before it ever took effect** — it never reduced anyone's allowance and it is not Dutch law. From **1 January 2027** the maximum drops to **27%**, except for holders whose ruling was already applied to their salary on or before 31 December 2023, who keep 30% for their remaining duration. Rulings first applied during 2024 move to 27% on the current salary norm; those first applied from 1 January 2025 move to 27% under a higher salary norm that has been announced but not yet enacted.
+- **The cap**: the allowance is calculated on salary up to the *Balkenende-norm*, which is **€262,000 in 2026**, giving a maximum tax-free allowance of **€78,600** for the year.
+- **Partial non-resident status**: this is the change that actually bites, and it has already happened. The *partieel buitenlandse belastingplicht* election was **abolished with effect from 1 January 2025**. In the Belastingdienst's own words: as of your tax return 2025, you can no longer opt for partial foreign tax liability. One transitional group survives — if you were already using the 30% ruling **before 2024**, you may still elect it up to and including your **2026 return**, the one covered by this checklist. After that it is gone for everyone.
 
 What this means for your 2027 filing:
 
-- **If your ruling started in 2026** and you opted for partial non-resident treatment for that year, you tick the "*kiezen voor partieel buitenlands belastingplichtig*" option on your return. This usually wipes out Box 3 wealth tax on foreign assets and excludes most foreign Box 2 dividends from Dutch tax.
-- **If your ruling expired during 2026** you split the year and only get partial non-resident benefit for the months the ruling applied.
-- **If you're applying for a new ruling that takes effect from 2027**, the partial non-resident door is closed. You will be a full Dutch resident for all three boxes.
+- **If you were already using the ruling before 2024**, this is your last return with the option. Tick "*kiezen voor partieel buitenlands belastingplichtig*" if it benefits you, and plan for the 2027 return without it: your worldwide savings and investments come into Box 3 from tax year 2027.
+- **If your ruling was first applied in 2024 or later**, the election is not available to you and never was. Your worldwide Box 3 assets — foreign savings, ETFs, crypto, second properties abroad — all belong on the 2026 return.
+- **If you are applying for a new ruling now**, budget for full Dutch taxation in all three boxes, plus the drop to 27% from January 2027. On the plus side, no 30/20/10 staircase: the percentage stays flat while it lasts.
 
 For deep history and what changed in 2024 vs 2026, I covered it in detail in my [30% ruling extension changes piece](/blog/30-percent-ruling-extension-2024-changes-2026/).
 
@@ -129,7 +129,7 @@ I wrote a longer breakdown of how this works in my [Box 3 wealth tax explainer](
 Two practical Box 3 traps for expats:
 
 1. **Foreign bank accounts and ETFs count.** Even if your Schwab IRA, your German Tagesgeldkonto, or your Trading 212 account is held outside the Netherlands, it goes in Box 3 if you're a Dutch tax resident. (Pension accounts often qualify for an exemption — check on a case-by-case basis.)
-2. **Partial non-resident status under the 30% ruling exempts most of this.** If you have the 30% ruling and you tick partial non-resident, your Box 3 worldwide assets — except Dutch real estate — fall out of the Dutch base. Choosing not to tick that box, or not having the ruling, means worldwide wealth is in play.
+2. **The 30% ruling no longer keeps them out.** Partial non-resident status used to pull worldwide Box 3 assets — everything except Dutch real estate — out of the Dutch base. It was abolished with effect from 1 January 2025. The only exception on this return is the transitional group who were already using the ruling before 2024, for whom the 2026 return is the final year the election exists. For everyone else, holding the 30% ruling makes no difference to Box 3 at all: worldwide wealth is in play.
 
 If you invest, my [ETF platforms for expats guide](/blog/best-etf-platforms-netherlands-expats-2026/) covers which brokers issue Box 3-friendly year-end statements.
 
@@ -143,7 +143,7 @@ Every January I get the same email from readers: "Can I do this myself?" The hon
 - Your income is from a single Dutch employer with a standard *jaaropgaaf*
 - You do not own a substantial shareholding (no Box 2 issues)
 - Your wealth in Box 3 is under the threshold, or just over and entirely in straightforward Dutch savings
-- You do not have the 30% ruling, OR you have it and are comfortable making the partial non-resident choice yourself
+- You do not have the 30% ruling, OR you have it but started it in 2024 or later, so the partial non-resident question does not arise at all
 - You speak enough Dutch to navigate the portal, or you're willing to use Google Translate carefully
 
 **You almost certainly need an adviser if any of these are true:**
@@ -152,7 +152,7 @@ Every January I get the same email from readers: "Can I do this myself?" The hon
 - You have foreign self-employment income, US citizenship (FATCA/PFIC complications), or foreign rental property
 - You sold significant stock, exercised RSUs, or had a liquidity event
 - You hold a substantial shareholding (5%+) in any company
-- You are weighing whether to opt for partial non-resident status
+- You are in the transitional group whose final partial non-resident election falls on this return (30% ruling in use before 2024), or you are working out what the loss of that status costs you from tax year 2027
 - You have complex Box 3 holdings and want to file a counter-calculation
 - You received the dreaded *vragenbrief* (questionnaire letter) from the Belastingdienst last year
 

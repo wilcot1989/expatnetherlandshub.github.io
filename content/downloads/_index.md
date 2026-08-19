@@ -1,6 +1,7 @@
 ---
 title: "Free Expat Checklists & Templates"
 description: "Download free printable checklists for moving to the Netherlands. BSN registration, first 30 days, tax return, leaving NL — all in one place."
+lastmod: 2026-08-19 10:00:00+02:00
 featured_image: "/images/categories/legal.svg"
 type: "page"
 layout: "single"
@@ -653,7 +654,7 @@ Print this checklist
 <li><span class="cl-check" aria-hidden="true"></span><span>You are recruited from abroad (not already living in the Netherlands)</span></li>
 <li><span class="cl-check" aria-hidden="true"></span><span>You have a specific expertise that is scarce in the Dutch labour market</span></li>
 <li><span class="cl-check" aria-hidden="true"></span><span>Your taxable salary (after the 30% exclusion) meets the minimum threshold:
-  <div class="cl-note">2026 threshold: €46,107 gross/year (taxable after ruling). Under 30 with a qualifying master's degree: €35,048. Adjust upwards — your actual salary must be ~€65,867 or ~€50,069 respectively.</div></span></li>
+  <div class="cl-note">2026 threshold: €48,013/year of taxable salary (i.e. after the 30% allowance has been deducted). Under 30 with a qualifying master's degree: €36,497. Adjust upwards — your gross salary must be at least ~€68,590 or ~€52,138 respectively. Scientific researchers at designated institutions face no minimum.</div></span></li>
 <li><span class="cl-check" aria-hidden="true"></span><span>You lived more than 150 km from the Dutch border for 16 of the 24 months before your start date<div class="cl-note">This is the "distance criterion" — it disqualifies people who lived in Belgium, Luxembourg, or near the German/French border</div></span></li>
 <li><span class="cl-check" aria-hidden="true"></span><span>Your employer is a Dutch payroll entity (registered with Belastingdienst)</span></li>
 <li><span class="cl-check" aria-hidden="true"></span><span>This is your first time applying (or you meet the recalculation rules for prior Dutch work)</span></li>
@@ -685,11 +686,11 @@ Print this checklist
 </div>
 
 <div class="cl-section">
-<div class="cl-section-title">2026 step-down schedule (new rulings from 2024 onward)</div>
+<div class="cl-section-title">Percentage schedule (2026 rules)</div>
 <ul class="cl-items">
-<li><span class="cl-check" aria-hidden="true"></span><span><strong>Months 1–20:</strong> 30% of your salary is tax-free</span></li>
-<li><span class="cl-check" aria-hidden="true"></span><span><strong>Months 21–40:</strong> 20% of your salary is tax-free</span></li>
-<li><span class="cl-check" aria-hidden="true"></span><span><strong>Months 41–60:</strong> 10% of your salary is tax-free</span></li>
+<li><span class="cl-check" aria-hidden="true"></span><span><strong>2025 and 2026:</strong> a flat 30% of your salary is tax-free in every month of the ruling<div class="cl-note">The 30/20/10 step-down announced in the 2024 Tax Plan was scrapped in the 2025 Tax Plan before it ever applied to anyone. There is no 20% or 10% phase.</div></span></li>
+<li><span class="cl-check" aria-hidden="true"></span><span><strong>From 1 January 2027:</strong> the maximum drops to 27% — unless the ruling was already being applied to your salary on or before 31 December 2023, in which case transitional rules keep you at 30%<div class="cl-note">First applied in 2024: 27% from 2027 on the current salary norm. First applied on or after 1 January 2025: 27% from 2027 plus a higher salary norm (announced, still to be set by decree).</div></span></li>
+<li><span class="cl-check" aria-hidden="true"></span><span><strong>Salary cap:</strong> the allowance is calculated on salary up to €262,000 (2026), so the tax-free amount stops at €78,600 per year</span></li>
 <li><span class="cl-check" aria-hidden="true"></span><span>Maximum ruling duration: 5 years (previous time in NL within last 25 years is subtracted)</span></li>
 </ul>
 </div>

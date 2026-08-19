@@ -1,7 +1,7 @@
 ---
 title: DeGiro Review for Expats in Netherlands 2026
 date: 2026-03-22 10:00:00+01:00
-lastmod: 2026-04-23 10:00:00+01:00
+lastmod: 2026-08-19 10:00:00+02:00
 description: DeGiro is the cheapest broker in the Netherlands. Honest review covering BSN, Box 3 tax, ETF selection, and account setup for expats.
 categories:
 - finance
@@ -211,7 +211,7 @@ That said, I always recommend checking the pre-filled amount against your actual
 
 ### The 30% Ruling and Box 3
 
-If you receive the 30% ruling and opted for **partial non-resident status** (partieel buitenlandse belastingplicht), your foreign assets may be exempt from Dutch Box 3 tax. This does not affect assets held in DeGiro (which is a Dutch platform holding Dutch-resident assets), but it can affect your ISA, foreign pension, or investment accounts in your home country. I cover this in detail in my [30% ruling guide](/guides/finance/30-percent-ruling-eligibility-guide-2026/).
+**Partial non-resident status** (partieel buitenlandse belastingplicht) used to exempt your foreign assets from Dutch Box 3 tax if you held the 30% ruling. It was abolished per 1 January 2025 and can no longer be chosen from the 2025 return onwards; only expats who were already using the ruling before 2024 may still elect it, up to and including the 2026 return. It never affected assets held in DeGiro (a Dutch platform holding Dutch-resident assets) — only things like an ISA, a foreign pension, or investment accounts in your home country, all of which now fall in Box 3 for everyone outside that transitional group. I cover this in detail in my [30% ruling guide](/guides/finance/30-percent-ruling-eligibility-guide-2026/).
 
 ### Dividend Withholding Tax
 

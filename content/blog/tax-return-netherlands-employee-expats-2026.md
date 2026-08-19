@@ -1,7 +1,7 @@
 ---
 title: Tax Return Netherlands as Employee for Expats 2026
 date: 2026-07-05 09:00:00+02:00
-lastmod: 2026-07-05 09:00:00+02:00
+lastmod: 2026-08-19 10:00:00+02:00
 draft: false
 description: "Filing your Dutch employee tax return for the first time? My step-by-step guide for 2026 expats covering Box 1, 30% ruling, deductions, and refund timing."
 keywords:
@@ -171,11 +171,11 @@ Three things to check:
 
 **The ruling period must match what the Belastingdienst has on file**. If your ruling started in March, the return must reflect 10 months at the reduced base rather than 12.
 
-**Partial non-resident election (partieel buitenlandse belastingplicht)** is selected within the return. This treats you as non-resident for Box 2 and Box 3 purposes, which can mean your foreign savings and investments escape Dutch wealth tax. The election is annual — you can choose each year. For most expats with significant foreign assets, election is the right answer.
+**Partial non-resident election (partieel buitenlandse belastingplicht)** has been abolished. It used to treat you as a non-resident for Box 2 and Box 3, keeping foreign savings and investments out of Dutch wealth tax, but the option ended on 1 January 2025 — as the Belastingdienst puts it, from the 2025 return onwards you can no longer opt for partial foreign tax liability. One transitional group remains: if you were already using the 30% ruling before 2024, you may still elect it up to and including your 2026 return, the one you file in spring 2027. If your ruling started in 2024 or later, the option was never available to you and your worldwide savings and investments simply fall in Dutch Box 3 (36% in 2026).
 
-**The 2024 cap (€233,000 base salary in 2026 figures)** limits the income that can benefit from the ruling. High earners hit this and the return calculates the cap automatically.
+**The salary cap (€262,000 in 2026, the Balkenende norm)** limits the income the allowance is calculated on, giving a maximum tax-free allowance of €78,600 per year. High earners hit this and the return calculates the cap automatically.
 
-If your 30% ruling was extended or reduced mid-year (for example, due to the 2024 phasing rule), the return is where the year-end reconciliation happens. I covered the phasing rules in [30% ruling extension and 2024 changes for 2026](/blog/30-percent-ruling-extension-2024-changes-2026.md).
+The percentage itself needs no reconciliation in the 2026 return: it is a flat 30% for every month of the ruling. The 30/20/10 step-down announced in the 2024 Tax Plan was scrapped before it ever took effect, so no one has ever been paid at 20% or 10%. From 1 January 2027 the maximum drops to 27%, except for holders whose ruling was already being applied on or before 31 December 2023 — so a mid-year change is something to expect in the 2027 return, not this one.
 
 ---
 
@@ -218,7 +218,7 @@ What does not count:
 
 The deemed return rates change each year. In 2026, savings have a deemed return of around 1.0% and investments around 5.88%. Box 3 tax is then 36% of the deemed return.
 
-Tip: If you have the 30% ruling and elected partial non-resident status, your foreign-held assets may not be subject to Box 3. This is one of the largest financial benefits of the ruling for asset-rich expats.
+Tip: only the transitional group — expats who were already using the 30% ruling before 2024 — can still keep foreign-held assets out of Box 3 by electing partial non-resident status, and only through the 2026 return. Everyone whose ruling started in 2024 or later declares worldwide savings and investments in Box 3 like any other Dutch resident. If you have meaningful assets abroad, this is worth a conversation with a tax adviser before you file rather than after.
 
 I covered investing under Box 3 in detail in [best ETF platforms Netherlands for expats](/blog/best-etf-platforms-netherlands-expats-2026/) and crypto reporting in [crypto tax in the Netherlands for expats](/blog/crypto-tax-netherlands-expats-2026/).
 

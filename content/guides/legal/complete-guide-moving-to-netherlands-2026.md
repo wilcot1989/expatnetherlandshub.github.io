@@ -1,7 +1,7 @@
 ---
 title: Complete Guide to Moving to the Netherlands in 2026
 date: 2026-02-24 10:00:00+01:00
-lastmod: 2026-04-23 10:00:00+01:00
+lastmod: 2026-08-19 10:00:00+02:00
 description: 'Everything you need to know about moving to the Netherlands in 2026: visas, housing, BSN, health insurance, banking, and more.'
 categories:
 - relocation
@@ -38,7 +38,7 @@ faq:
 - q: Do I need a visa to move to the Netherlands as an EU citizen?
   a: No. EU/EEA citizens can move to the Netherlands freely and do not need a visa or work permit. You do need to register at your local municipality (gemeente) within 5 days of finding a permanent address.
 - q: What is the 30% ruling and how do I qualify?
-  a: The 30% ruling is a Dutch tax benefit for highly skilled migrants recruited from abroad. It allows employers to pay 30% of the employee's salary as a tax-free allowance. To qualify in 2026, you must earn a minimum taxable salary of approximately EUR 46,107 (or EUR 35,048 for those under 30 with a master's degree), be recruited from outside the Netherlands, and have specific expertise not readily available in the Dutch labor market.
+  a: The 30% ruling is a Dutch tax benefit for highly skilled migrants recruited from abroad. It allows employers to pay 30% of the employee's salary as a tax-free allowance. To qualify in 2026, you must earn a minimum taxable salary — the amount left after the 30% is deducted — of EUR 48,013, roughly EUR 68,590 gross (or EUR 36,497 taxable, roughly EUR 52,138 gross, if you are under 30 with a qualifying master's degree; scientific researchers at designated institutions have no salary norm), be recruited from outside the Netherlands, and have specific expertise not readily available in the Dutch labor market. The percentage is a flat 30% in 2025 and 2026 and falls to a maximum of 27% from 1 January 2027 for everyone whose ruling was not already being applied on or before 31 December 2023.
 - q: Is health insurance mandatory in the Netherlands?
   a: Yes. Everyone legally residing and working in the Netherlands must take out a basic health insurance policy (basisverzekering) within 4 months of arriving. Failure to do so results in a fine from the CAK (Central Administration Office). Read our full guide on Dutch health insurance for expats.
 - q: How much does it cost to rent an apartment in the Netherlands?

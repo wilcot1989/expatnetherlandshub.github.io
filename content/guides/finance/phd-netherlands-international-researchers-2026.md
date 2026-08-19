@@ -1,7 +1,7 @@
 ---
 title: 'PhD in the Netherlands: Researcher Guide 2026'
 date: 2026-03-18 10:00:00+01:00
-lastmod: 2026-04-23 10:00:00+01:00
+lastmod: 2026-08-19 10:00:00+02:00
 description: 'International PhD candidates in the Netherlands 2026: employment contract, salary, 30% ruling, tax, banking, health insurance, and visa explained.'
 categories:
 - finance
@@ -37,7 +37,7 @@ faq:
 - q: What is the salary for a PhD candidate in the Netherlands in 2026?
   a: PhD candidates employed under the Dutch university collective labour agreement (CAO Nederlandse Universiteiten) receive a gross salary starting at EUR 2,872 per month in year one, rising to EUR 3,670 per month in year four. After tax and social security deductions, take-home pay is roughly EUR 2,100-2,700 per month depending on your personal situation.
 - q: Do PhD candidates in the Netherlands get the 30% ruling?
-  a: Potentially yes. If you are recruited from abroad, have specific expertise, and your salary meets the threshold (EUR 46,107 gross per year in 2026 for researchers under 30, EUR 46,107 for others), you may qualify for the 30% ruling. Many PhD candidates in years 3 and 4 meet the salary threshold. The benefit reduces your taxable income significantly. Check with your university's HR department or a tax advisor.
+  a: 'Often yes. Scientific researchers employed by a designated research institution — which covers Dutch universities, university medical centres, and KNAW and NWO institutes — face no minimum salary threshold at all, so a PhD salary is not a barrier. You do still need to be recruited from abroad and meet the 150km distance rule, and your employer must apply within four months of your start date. If your employer is not a designated research institution, the ordinary 2026 thresholds apply: EUR 48,013 in taxable salary (roughly EUR 68,590 gross), or EUR 36,497 taxable (roughly EUR 52,138 gross) if you are under 30 with a qualifying master''s degree. Check with your university''s HR department or a tax advisor.'
 - q: Do I need a residence permit to do a PhD in the Netherlands?
   a: 'EU/EEA nationals and Swiss citizens do not need a residence permit. Non-EU nationals need a residence permit. In most cases, your university arranges this as a highly skilled migrant (kennismigrant) permit because you are employed, not as a student permit. The distinction matters: the highly skilled migrant permit has different rights and requirements than a student permit.'
 - q: What bank account should I open as a PhD researcher in the Netherlands?
@@ -101,10 +101,13 @@ The [30% ruling](/guides/finance/30-percent-ruling-netherlands-2026/) is a Dutch
 **Eligibility for PhD researchers:**
 
 - You must have been living more than 150km from the Dutch border for at least 16 of the 24 months before starting your Dutch role
-- Your taxable salary (70% of gross) must meet the minimum threshold — in 2026, EUR 46,107 gross per year for most employees, or EUR 35,048 for researchers under 30 with a master's degree or equivalent
+- Your taxable salary (what is left after the 30% is deducted, so 70% of gross) must meet the minimum threshold — in 2026, EUR 48,013 taxable for most employees, which means roughly EUR 68,590 gross, or EUR 36,497 taxable (roughly EUR 52,138 gross) if you are under 30 with a qualifying master's degree
+- Scientific researchers employed by designated research institutions face no salary norm at all. Dutch universities, university medical centres, KNAW and NWO institutes fall under this category, so most PhD candidates and postdocs at a Dutch university are exempt from the threshold entirely. Ask your HR department to confirm your employer's status before assuming either way
 - Your employer (the university) must agree to apply for it
 
-PhD candidates in years 3 and 4 often meet the salary threshold. Year one and two candidates typically fall just below the standard threshold but may qualify for the reduced threshold if they have a master's and are under 30.
+Because of that exemption, the salary threshold is usually not the obstacle for PhD candidates at a Dutch university — the distance rule and the four-month application deadline are. If you are employed by an organisation that is *not* a designated research institution (a company-funded PhD, for instance), the ordinary thresholds above apply, and first- and second-year PhD salaries typically fall short of the standard one.
+
+The percentage is a flat 30% for every month of the ruling in 2025 and 2026; the 30/20/10 step-down announced in the 2024 Tax Plan was scrapped before it ever took effect. From 1 January 2027 the maximum drops to 27% unless the ruling was already being applied to your salary on or before 31 December 2023.
 
 Talk to your university's HR department in the first few weeks. The application has a strict deadline — if you do not apply within four months of starting, you lose the right to benefit for the early part of your contract.
 
@@ -317,7 +320,7 @@ On a year-one PhD gross salary of approximately EUR 2,872 per month, your net in
 
 Most PhD researchers receive a tax refund each year. Because the payroll withholding (loonheffing) is based on conservative assumptions, and because PhD researchers often have legitimate deductions — study costs, professional literature, specialist equipment — the actual tax due is usually lower than what was withheld.
 
-Filing a tax return (even when it is not strictly required) is worth doing. In my experience, first-year PhD researchers with no mortgage and no complex deductions typically receive refunds of EUR 200-600. Once you add mortgage interest (if you buy) or the 30% ruling partial non-resident election, the amount can be considerably higher.
+Filing a tax return (even when it is not strictly required) is worth doing. In my experience, first-year PhD researchers with no mortgage and no complex deductions typically receive refunds of EUR 200-600. Once you add mortgage interest (if you buy), the amount can be considerably higher. Do not count on the old partial non-resident election that used to come with the 30% ruling: it was abolished on 1 January 2025 and now only applies to people who were already using the ruling before 2024, and only up to and including their 2026 return.
 
 ### Banking Practical Tips
 

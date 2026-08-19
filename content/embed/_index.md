@@ -1,6 +1,7 @@
 ---
 title: "Embed Our Free Expat Tools on Your Website"
 description: "Add our free calculators and comparison tools to your website for free. Copy the embed code and paste it into your HTML — no registration required."
+lastmod: 2026-08-19 10:00:00+02:00
 layout: "embed"
 type: "page"
 ---
@@ -45,7 +46,7 @@ type: "page"
 <!-- ===== TOOL 1 ===== -->
 <div class="embed-tool-card">
   <h2>1. 30% Ruling Calculator</h2>
-  <p class="tool-desc">Calculates the exact 30% ruling tax benefit, step-down phases, and 5-year net salary projection for expats in the Netherlands. Updated for 2026 rules and the salary threshold.</p>
+  <p class="tool-desc">Calculates the exact 30% ruling tax benefit, the drop to 27% from 2027, and a 5-year net salary projection for expats in the Netherlands. Updated for the 2026 rules, salary norms, and the Balkenendenorm cap.</p>
   <details class="embed-preview-wrap">
     <summary>&#9654; Preview tool</summary>
     <iframe src="https://expatnetherlandshub.com/tools/30-percent-ruling-calculator/?embed=true" title="30% Ruling Calculator — ExpatNetherlandsHub.com" loading="lazy"></iframe>

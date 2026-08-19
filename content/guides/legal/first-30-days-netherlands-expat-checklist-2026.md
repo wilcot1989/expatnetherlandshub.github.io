@@ -1,7 +1,7 @@
 ---
 title: 'First 30 Days in the Netherlands: Checklist 2026'
 date: 2026-05-07 10:00:00+01:00
-lastmod: 2026-04-23 10:00:00+01:00
+lastmod: 2026-08-19 10:00:00+02:00
 description: 'Arrived in the Netherlands? The exact day-by-day checklist: gemeente registration, BSN, DigiD, health insurance, banking, and more — for every new expat.'
 categories:
 - legal
@@ -417,12 +417,13 @@ Key facts for 2026:
 
 - The ruling applies for a maximum of **5 years** (formerly 8)
 - Your employer must apply via the Belastingdienst **within 4 months of your start date** — missing this deadline means losing the benefit permanently
-- Minimum salary requirements apply (approximately €46,107 gross per year for those 30 and over; €35,048 for under-30s with a master's degree)
+- Minimum salary requirements apply to the *taxable* salary that remains after the 30% is deducted: €48,013 in 2026 for those 30 and over (roughly €68,590 gross), or €36,497 for under-30s with a qualifying master's degree (roughly €52,138 gross). Scientific researchers at designated institutions have no salary norm
+- The percentage is a flat 30% in 2025 and 2026 — the 30/20/10 step-down announced in the 2024 Tax Plan was scrapped before it ever applied — and drops to a maximum of 27% from 1 January 2027 unless the ruling was already being applied to your salary on or before 31 December 2023
 - You must have lived at least 150 km from the Dutch border for at least 16 of the 24 months before starting work
 
 This is your most time-sensitive financial item. If you think you might qualify, raise it with your HR or payroll team this week — not next month. I have spoken to expats who lost out on tens of thousands of euros because their employer did not apply in time.
 
-My detailed [30% ruling guide for the Netherlands](/guides/finance/30-percent-ruling-netherlands-2026/) covers eligibility in full, the application process, what happens if you change employer, and the partial ruling that applies after year 3.
+My detailed [30% ruling guide for the Netherlands](/guides/finance/30-percent-ruling-netherlands-2026/) covers eligibility in full, the application process, what happens if you change employer, and how the transitional rules decide whether you keep 30% or move to 27% in 2027.
 
 **Checklist:**
 - [ ] Check whether you meet the eligibility criteria

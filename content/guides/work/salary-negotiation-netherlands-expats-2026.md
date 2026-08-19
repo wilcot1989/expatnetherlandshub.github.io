@@ -1,7 +1,7 @@
 ---
 title: 'Salary Negotiation Netherlands: Expat Guide 2026'
 date: 2026-04-27 10:00:00+01:00
-lastmod: 2026-04-23 10:00:00+01:00
+lastmod: 2026-08-19 10:00:00+02:00
 description: How to negotiate salary in the Netherlands as an expat. Average salaries by sector, gross vs net, the 30% ruling, what's negotiable, and scripts to use.
 categories:
 - work
@@ -163,7 +163,7 @@ The [30% ruling](/guides/finance/30-percent-ruling-netherlands-2026/) allows qua
 
 - Be recruited from abroad (living more than 150km from the Dutch border in the 24 months before your first Dutch working day)
 - Have specialised skills that are scarce on the Dutch labour market
-- Earn at least EUR 46,107 gross per year (or EUR 35,048 for employees under 30 with a master's degree)
+- Have a taxable salary — what is left after the 30% is deducted — of at least EUR 48,013 in 2026, which means roughly EUR 68,590 gross (or EUR 36,497 taxable, roughly EUR 52,138 gross, for employees under 30 with a qualifying master's degree)
 
 If you qualify, here is what it actually does to that EUR 70,000 salary:
 
@@ -173,6 +173,8 @@ If you qualify, here is what it actually does to that EUR 70,000 salary:
 - Net monthly income jumps from approximately EUR 3,400 to approximately EUR 4,100
 
 That is roughly EUR 8,400 more per year in your pocket. On a EUR 100,000 salary, the benefit can exceed EUR 14,000 annually.
+
+One thing to build into your own numbers: the percentage is a flat 30% for every month in 2025 and 2026 (the 30/20/10 step-down announced in the 2024 Tax Plan was scrapped before it ever applied), but from 1 January 2027 the maximum drops to 27% unless the ruling was already being applied to your salary on or before 31 December 2023. If you are negotiating a package that starts in 2026, model the slightly smaller exempt slice from 2027 onwards rather than assuming 30% for the full five years.
 
 **How to use this in negotiation:**
 

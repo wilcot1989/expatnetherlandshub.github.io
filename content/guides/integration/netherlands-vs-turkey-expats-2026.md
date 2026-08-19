@@ -1,7 +1,7 @@
 ---
 title: Netherlands vs Turkey for Expats 2026
 date: 2026-03-18 10:00:00+01:00
-lastmod: 2026-04-23 10:00:00+01:00
+lastmod: 2026-08-19 10:00:00+01:00
 description: 'Netherlands vs Turkey for expats 2026: salary, tax, healthcare, housing, culture, and dual nationality compared with real numbers.'
 categories:
 - integration
@@ -302,7 +302,7 @@ Turkey's climate is a major draw: Istanbul has genuine four-season weather with 
 
 ### Turkey → Netherlands
 
-1. Find a job with a Dutch employer (for non-EU citizens, a kennismigrant salary threshold of €46,107 gross in 2026 is required)
+1. Find a job with a Dutch employer (for non-EU citizens, the salary must meet the IND kennismigrant threshold — indexed each January and published on ind.nl, currently over €5,700 gross per month excluding holiday allowance for those aged 30 and over, lower for under-30s with a Dutch or EU master's degree)
 2. Apply for MVV and residence permit via IND
 3. Register at your gemeente within five days of arrival
 4. Get your [BSN number](/guides/legal/bsn-registration-guide-2026/)

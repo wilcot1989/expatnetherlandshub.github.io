@@ -1,7 +1,7 @@
 ---
 title: Netherlands vs Canada for Expats 2026
 date: 2026-03-18 10:00:00+01:00
-lastmod: 2026-04-23 10:00:00+01:00
+lastmod: 2026-08-19 10:00:00+01:00
 description: 'Netherlands vs Canada for expats 2026: cost of living, tax, healthcare, housing, weather, and immigration compared to help you choose.'
 categories:
 - integration
@@ -115,11 +115,11 @@ This is the single most important financial distinction for internationally mobi
 
 ### The Dutch 30% Ruling
 
-The Netherlands offers a significant tax benefit for highly skilled migrants: the **30% ruling** (30%-regeling). Under this arrangement, your employer can pay 30% of your gross salary as a tax-free allowance for the first two years, reducing to 20% in years 3-4 and 10% in year 5.
+The Netherlands offers a significant tax benefit for highly skilled migrants: the **30% ruling** (30%-regeling). Under this arrangement, your employer can pay 30% of your gross salary as a tax-free allowance for up to five years — a flat 30% every month, not a declining percentage. A 30/20/10% step-down was announced in 2024 but scrapped in the 2025 Tax Plan before it was ever applied. From 1 January 2027 the maximum becomes 27%, unless the ruling was already applied to your salary on or before 31 December 2023.
 
-To qualify, you typically need to meet a salary minimum (EUR 46,107 gross in 2026 for professionals under 30 with a master's degree; EUR 46,107 for most other qualifying workers), have been living more than 150km from the Dutch border before being recruited, and be recruited from abroad by a Dutch employer.
+To qualify, you typically need to meet a salary minimum (in 2026: EUR 48,013 taxable salary after the 30% deduction, roughly EUR 68,590 gross; EUR 36,497 taxable, roughly EUR 52,138 gross, for professionals under 30 with a qualifying master's degree), have been living more than 150km from the Dutch border before being recruited, and be recruited from abroad by a Dutch employer.
 
-For a concrete example: on a EUR 80,000 gross salary, the 30% ruling saves roughly EUR 8,000-12,000 per year in income tax in the first two years. Even with the phased reductions introduced in 2024, it remains one of Europe's most valuable expat tax benefits. For a detailed calculation, see the [30% ruling complete guide](/guides/finance/30-percent-ruling-netherlands-2026/).
+For a concrete example: on a EUR 80,000 gross salary, the 30% ruling saves roughly EUR 8,000-12,000 per year in income tax, and it does so for the whole five-year term. It remains one of Europe's most valuable expat tax benefits. For a detailed calculation, see the [30% ruling complete guide](/guides/finance/30-percent-ruling-netherlands-2026/).
 
 ### Canadian Tax: No Equivalent Benefit
 
@@ -245,7 +245,7 @@ For expats who define quality of life significantly through outdoor recreation, 
 
 ### Dutch Highly Skilled Migrant Visa (Kennismigrant)
 
-The Dutch kennismigrant visa is designed for skilled workers recruited from abroad. Requirements: a job offer from an employer recognised by the IND (the Dutch immigration authority), and a gross salary meeting the applicable minimum (EUR 46,107 in 2026 for most workers; EUR 36,889 for migrants under 30 with an EU master's degree). Processing time is typically 2-4 weeks for recognised sponsors.
+The Dutch kennismigrant visa is designed for skilled workers recruited from abroad. Requirements: a job offer from an employer recognised by the IND (the Dutch immigration authority), and a gross salary meeting the IND highly skilled migrant threshold, which is indexed each January and published on ind.nl — over EUR 5,700 gross per month excluding holiday allowance for applicants aged 30 and over, lower for under-30s with a Dutch or EU master's degree. Note that this is a separate figure from the 30% ruling salary threshold; meeting one does not automatically mean you meet the other. Processing time is typically 2-4 weeks for recognised sponsors.
 
 The kennismigrant visa is a temporary residence permit tied to your employer. After 5 years of continuous legal residence, you can apply for permanent residence. After that, Dutch naturalisation requires 5 years of permanent residency (or 3 years for some categories). EU/EEA citizens do not require a visa and can move freely.
 

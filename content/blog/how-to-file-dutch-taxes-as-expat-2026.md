@@ -1,7 +1,7 @@
 ---
 title: "How to File Dutch Taxes as an Expat in 2026"
 date: 2026-07-27
-lastmod: 2026-07-27T09:00:00+01:00
+lastmod: 2026-08-19T10:00:00+02:00
 author: Sarah van den Berg
 author_bio: Expat coach and writer at ExpatNetherlandsHub.com
 description: "Dutch tax filing confused me my first year. Now I file my own every April. Here's the full walkthrough — Belastingdienst portal, Box 1/2/3, deductions, and when to hire help."
@@ -24,7 +24,7 @@ faq:
   - q: "How do I get a DigiD to file Dutch taxes?"
     a: "DigiD is the Dutch government digital identity system required to file taxes and access most government services. You can apply at digid.nl. If you have a Dutch phone number, you can verify by SMS. If you're newly arrived without a Dutch number, you can request a letter code or use the DigiD app with identity document scanning."
   - q: "When should I hire a tax advisor instead of filing myself?"
-    a: "File yourself if your situation is straightforward — salaried employment, no significant foreign assets, no own business. Hire a specialist if you have the 30% ruling and want partial non-residency (keuzerecht), significant foreign savings or investments, freelance income in multiple countries, or if you're leaving the Netherlands mid-year and need an exit tax return."
+    a: "File yourself if your situation is straightforward — salaried employment, no significant foreign assets, no own business. Hire a specialist if you have significant foreign savings or investments, freelance income in multiple countries, you're leaving the Netherlands mid-year and need an exit tax return, or you were already using the 30% ruling before 2024 and are still entitled to partial non-residency (keuzerecht) — that option was abolished per 1 January 2025 and runs out after the 2026 return."
 products:
   - name: Wise
     url: https://go.expatnetherlandshub.com/wise
@@ -36,7 +36,7 @@ products:
     tag: "Best for learning Dutch"
 ---
 
-My first Dutch tax return was a disaster — not catastrophically, but enough to cost me money and months of stress. I filed as a partial non-resident (buitenlandse belastingplichtige) when I should have filed as a full resident (binnenlandse belastingplichtige). At the time, I genuinely thought I was doing the right thing. I'd moved to Amsterdam in September of the year before, still had my UK bank account, my parents' address was still listed somewhere. Partial non-resident seemed logical.
+My first Dutch tax return was a disaster — not catastrophically, but enough to cost me money and months of stress. I filed as a non-resident taxpayer (buitenlandse belastingplichtige) when I should have filed as a full resident (binnenlandse belastingplichtige). At the time, I genuinely thought I was doing the right thing. I'd moved to Amsterdam in September of the year before, still had my UK bank account, my parents' address was still listed somewhere. Non-resident seemed logical.
 
 Eighteen months later, a correction letter (naheffingsaanslag) arrived in my mailbox. The Belastingdienst had reassessed my return, applied the correct status, and I owed an additional €840 plus interest. Not world-ending, but completely avoidable. I spent a week on the phone with a tax advisor sorting it out, paid her €380 for the privilege, and came out the other side determined to actually understand this system.
 
@@ -236,11 +236,13 @@ For pension matters specifically, the rules differ depending on tax treaties wit
 If you have the 30% ruling, your taxable salary is already reduced at source — your employer applies it monthly. But you still need to check a few things on your tax return:
 
 1. The ruling period is correctly reflected (it has a start and end date)
-2. The partial non-residency option (*keuzerecht*) — whether to use it — is actively considered, not just defaulted
+2. Whether the partial non-residency option (*keuzerecht*) is even still open to you — for most people it is not
 
-The keuzerecht is complex. Electing partial non-residency means your Box 3 wealth is only taxed on Dutch assets, not your foreign savings. That sounds great, but it also limits some deductions (like mortgage interest). Whether it helps you depends entirely on your balance sheet.
+That second point is the one that has changed. Partial non-residency was abolished with effect from 1 January 2025: as of your 2025 return you can no longer opt for partial foreign tax liability. The only exception is expats who were already using the 30% ruling before 2024 — that group may still elect it up to and including the 2026 return, filed in spring 2027, and then it disappears for everyone.
 
-This is a genuine calculation exercise, not an obvious default. The [30% ruling changes guide](/blog/30-percent-ruling-extension-2024-changes-2026/) covers the 2024 changes that affected many expat holders, and what that means for your 2025 filing.
+If you are in that transitional group, it remains a genuine calculation exercise rather than an obvious default: electing it means your Box 3 wealth is taxed only on Dutch assets, not your foreign savings, but it also limits some deductions (like mortgage interest). Whether it helps you depends entirely on your balance sheet.
+
+If your ruling first applied in 2024 or later, skip the calculation — your worldwide savings and investments go into Box 3 like any other resident's. The [30% ruling changes guide](/blog/30-percent-ruling-extension-2024-changes-2026/) covers what else changed for ruling holders and what it means for your 2025 filing.
 
 ---
 
@@ -261,12 +263,12 @@ Here's my honest assessment after several years of doing this myself and having 
 - You don't own property or have a simple mortgage situation
 - Your savings and investments are modest and straightforward
 - You don't have significant foreign assets
-- You don't have the 30% ruling (or have it but don't want to optimise the keuzerecht)
+- You don't have the 30% ruling, or you have it but the keuzerecht no longer applies to you (ruling first applied in 2024 or later)
 - Your partner, if applicable, has a similarly simple situation
 
 **Hire a specialist if:**
 - You arrived or left mid-year (M form)
-- You want to optimise the 30% ruling keuzerecht calculation
+- You were using the 30% ruling before 2024 and want the keuzerecht calculation optimised for your final eligible returns
 - You have significant foreign savings, investments, or property
 - You're self-employed or have a BV
 - You earn income in multiple countries

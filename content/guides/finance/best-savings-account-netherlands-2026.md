@@ -57,7 +57,7 @@ faq:
 - q: What is the difference between a spaarrekening and a deposito?
   a: A spaarrekening is a regular savings account with flexible access — you can withdraw anytime. A deposito (fixed-term deposit) locks your money for a set period (usually 1 to 10 years) in exchange for a higher interest rate. Early withdrawal from a deposito usually incurs a penalty.
 - q: How does the 30% ruling affect savings tax?
-  a: If you have the 30% ruling, you can opt for partial non-resident taxpayer status, which exempts your box 3 assets (including savings) from Dutch taxation. This is a significant benefit. However, this option disappears when your 30% ruling ends, so plan ahead for the transition.
+  a: It barely does any more. The partial non-resident taxpayer status that used to exempt your box 3 assets from Dutch tax was abolished per 1 January 2025 and cannot be chosen from the 2025 tax return onwards. Only one group is left — expats who were already using the 30% ruling before 2024 may still elect it up to and including the 2026 return, filed in spring 2027. If your ruling started in 2024 or later, your savings sit in box 3 like any other resident's, taxed at 36 percent on the deemed return.
 - q: Which savings account has the highest interest rate in the Netherlands in 2026?
   a: For flexible savings, NIBC Direct offers around 2.65 percent. Through Raisin, you can access EU banks offering up to 3.10 percent on flexible savings and up to 3.50 percent on 1-year fixed deposits. Among the big three Dutch banks, ING and ABN AMRO offer between 1.50 and 1.75 percent.
 - q: Can I have savings accounts at multiple Dutch banks?
@@ -417,21 +417,24 @@ If you still receive income in GBP, USD, or another currency, do not automatical
 
 ## How the 30% Ruling Affects Your Savings
 
-If you have the [30% ruling](/guides/finance/30-percent-ruling-netherlands-2026/), you have a significant advantage when it comes to savings tax.
+If you have the [30% ruling](/guides/finance/30-percent-ruling-netherlands-2026/), the savings-tax advantage it used to bring has largely gone — and that is worth knowing before you plan around it.
 
-### Partial Non-Resident Taxpayer Status
+### Partial Non-Resident Taxpayer Status Has Been Abolished
 
-Under the 30% ruling, you can opt for partial non-resident taxpayer status (partieel buitenlands belastingplichtige). This means:
+Partial non-resident taxpayer status (partieel buitenlands belastingplichtige) exempted your foreign box 3 assets from Dutch tax. It was **abolished with effect from 1 January 2025**. The Belastingdienst puts it plainly — as of your tax return 2025 you can no longer opt for partial foreign tax liability.
 
-- Your box 3 assets (savings, investments, property outside the Netherlands) are **exempt** from Dutch taxation
-- You only pay box 3 tax on Dutch real estate (if you own property in the Netherlands other than your primary residence)
-- This applies for the duration of your 30% ruling (currently up to 5 years, with the rate stepping down after 20 months)
+One transitional group remains:
 
-### The Catch: Plan for the End
+- Already using the 30% ruling **before 2024** → you may still elect the status **up to and including your 2026 return** (filed in spring 2027). Foreign savings, investments and property stay outside box 3 until then; you pay box 3 only on Dutch-source assets such as Dutch real estate other than your primary residence.
+- Ruling first applied in **2024 or later** → the status was never available to you. Your worldwide savings go into box 3 like any other resident's, taxed at 36 percent on the deemed return in 2026.
 
-When your 30% ruling ends, all your savings suddenly fall into box 3 and become taxable. If you have accumulated significant savings during the ruling period, the transition can be a shock. I have seen clients go from zero box 3 tax to EUR 2,000+ overnight.
+The ruling percentage itself is a flat 30 percent in 2025 and 2026, dropping to 27 percent from January 2027 for most holders. There is no step-down after 20 months — that 30/20/10 schedule was announced and then scrapped before it ever applied.
 
-**My advice:** Start treating your savings as if they were taxable before the ruling ends. Set aside money for the tax bill, or consider restructuring your assets (moving money into pension products, paying down your mortgage, or investing in your primary residence) before the ruling expires.
+### The Catch: Plan for the Step-Up
+
+For most expats reading this, savings are already fully in box 3, so the number you should be checking is the tax-free threshold, not the ruling. If you are in the transitional group, the step-up hits at the 2027 return — everything that was excluded suddenly counts. Going from zero box 3 tax to EUR 2,000 or more in one filing year is an unpleasant surprise if you have not budgeted for it.
+
+**My advice:** treat your savings as taxable well before the transition. Set aside money for the tax bill, or consider restructuring your assets (moving money into pension products, paying down your mortgage, or investing in your primary residence) before the exemption lapses.
 
 For more on the 30% ruling, including the latest 2026 changes, read my [detailed guide](/guides/finance/30-percent-ruling-netherlands-2026/).
 
@@ -497,7 +500,7 @@ After helping hundreds of expats with their finances, these are the mistakes I s
 
 **3. Ignoring box 3 thresholds.** If you and your partner together have savings just above EUR 114,000, restructuring (contributing to a pension, paying down mortgage) could bring you below the threshold and eliminate box 3 tax entirely.
 
-**4. Not using the 30% ruling advantage.** If you have the 30% ruling and are not using the partial non-resident status for box 3 exemption, you are leaving money on the table. Check with your tax advisor.
+**4. Assuming the 30% ruling still shelters your savings.** The partial non-resident status was abolished per 1 January 2025. Only expats who were already using the ruling before 2024 can still elect it, and only up to the 2026 return — worth checking with your tax advisor if that is you. Everyone else should plan on box 3 applying in full.
 
 **5. Keeping all savings in one bank.** Beyond the DGS protection argument, having savings at multiple banks gives you access to different rates and products. It takes minimal effort and provides real diversification.
 
@@ -547,7 +550,7 @@ A spaarrekening is a flexible savings account with instant or near-instant acces
 
 ### How does the 30% ruling affect savings tax?
 
-With the 30% ruling, you can opt for partial non-resident taxpayer status, which exempts your box 3 assets from Dutch tax. This is a significant benefit that disappears when the ruling ends — plan your transition carefully.
+It barely does any more. The partial non-resident taxpayer status that used to exempt your box 3 assets from Dutch tax was abolished per 1 January 2025 and cannot be chosen from the 2025 tax return onwards. Only expats who were already using the 30% ruling before 2024 may still elect it, up to and including the 2026 return filed in spring 2027. If your ruling started in 2024 or later, your savings sit in box 3 like any other resident's.
 
 ### Which savings account has the highest interest rate in the Netherlands?
 

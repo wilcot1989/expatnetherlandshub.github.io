@@ -1,7 +1,7 @@
 ---
 title: Netherlands vs Italy for Expats 2026
 date: 2026-03-18 10:00:00+01:00
-lastmod: 2026-04-23 10:00:00+01:00
+lastmod: 2026-08-19 10:00:00+01:00
 description: 'Netherlands vs Italy for expats 2026: salaries, taxes, costs, bureaucracy, healthcare, language, and quality of life compared side by side.'
 categories:
 - integration
@@ -107,7 +107,7 @@ Italian companies tend to pay less than international multinationals operating i
 
 ### Netherlands: 30% Ruling
 
-The Dutch [30% ruling](/guides/finance/30-percent-ruling-netherlands-2026/) allows qualifying expats to receive 30% of their gross salary as a tax-free allowance for up to five years. Requirements: recruited from abroad (lived 150km+ from Dutch border for 16 of the 24 months before starting), salary above the threshold (EUR 46,107 in 2026).
+The Dutch [30% ruling](/guides/finance/30-percent-ruling-netherlands-2026/) allows qualifying expats to receive 30% of their gross salary as a tax-free allowance for up to five years. Requirements: recruited from abroad (lived 150km+ from Dutch border for 16 of the 24 months before starting), salary above the threshold (in 2026: EUR 48,013 taxable salary after the 30% deduction, roughly EUR 68,590 gross; EUR 36,497 taxable, roughly EUR 52,138 gross, for under-30s with a qualifying master's). The allowance is a flat 30% in 2025 and 2026 — the 30/20/10% step-down announced in 2024 was scrapped before it applied — and drops to a maximum of 27% from 1 January 2027, apart from rulings already applied on or before 31 December 2023.
 
 Standard Dutch income tax: 36.97% on income up to EUR 75,518; 49.5% above.
 

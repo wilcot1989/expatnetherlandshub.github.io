@@ -1,7 +1,7 @@
 ---
 title: Netherlands vs Germany for Expats 2026
 date: 2026-04-10 10:00:00+01:00
-lastmod: 2026-04-23 10:00:00+01:00
+lastmod: 2026-08-19 10:00:00+01:00
 description: 'Netherlands vs Germany for expats: comparison of salary, taxes, housing, healthcare, and quality of life to help you decide where to move.'
 categories:
 - relocation
@@ -24,7 +24,7 @@ faq:
 - q: Is it better to live in the Netherlands or Germany as an expat?
   a: It depends on your priorities. The Netherlands offers higher English proficiency, the 30% tax ruling for skilled migrants, and a more international work culture. Germany offers lower housing costs (outside Munich and Frankfurt), higher salaries in engineering and manufacturing, and more job opportunities due to its larger economy.
 - q: Are salaries higher in the Netherlands or Germany?
-  a: Base salaries are generally comparable, but the Netherlands has a significant tax advantage through the 30% ruling, which makes a portion of your salary tax-free (30% in years 1-2, then stepping down to 20% and 10%). This effectively increases take-home pay by 10-20% compared to a similar gross salary in Germany.
+  a: Base salaries are generally comparable, but the Netherlands has a significant tax advantage through the 30% ruling, which makes a portion of your salary tax-free (a flat 30% for up to five years in 2025 and 2026; a maximum of 27% for rulings running from 2027 onwards). This effectively increases take-home pay by 10-20% compared to a similar gross salary in Germany.
 - q: Is housing cheaper in Germany than the Netherlands?
   a: Generally yes. Average rent in German cities (excluding Munich) is 20-40% lower than comparable Dutch cities. A 2-bedroom apartment in Berlin costs around EUR 1,200/month versus EUR 1,800 in Amsterdam. However, the Dutch rental market is more regulated with stronger tenant protections.
 - q: Do I need to learn Dutch or German to work?
@@ -69,7 +69,7 @@ Before diving into the details, here is a side-by-side overview of the key diffe
 | **Official language** | Dutch | German |
 | **English proficiency** | Very high (95%+ in business) | Moderate (varies by region) |
 | **Average gross salary (skilled)** | EUR 55,000-75,000 | EUR 55,000-80,000 |
-| **Key tax benefit** | 30% ruling (30/20/10% tax-free over 5 years) | No equivalent expat tax ruling |
+| **Key tax benefit** | 30% ruling (flat 30% tax-free for 5 years; max 27% from 2027) | No equivalent expat tax ruling |
 | **Income tax (top rate)** | 49.50% | 45% (+5.5% solidarity surcharge) |
 | **Rent (2-bed, major city)** | EUR 1,400-2,500 | EUR 900-2,000 |
 | **Health insurance** | Mandatory private (~EUR 150/month) | Public-private dual system (~14.6% of salary) |
@@ -90,7 +90,7 @@ However, comparing gross salaries alone is misleading. What matters is what ends
 
 ### The Dutch 30% Ruling Advantage
 
-The Netherlands offers the 30% ruling, one of the most generous expat tax benefits in Europe. If you qualify as a highly skilled migrant recruited from abroad, your employer can pay a percentage of your gross salary as a tax-free allowance. For new applications from 2024 onward, the benefit is 30% in years 1-2, 20% in year 3, and 10% in years 4-5.
+The Netherlands offers the 30% ruling, one of the most generous expat tax benefits in Europe. If you qualify as a highly skilled migrant recruited from abroad, your employer can pay part of your gross salary as a tax-free allowance. In 2025 and 2026 that is a flat 30% for every month of the five-year term — the 30/20/10% step-down announced in 2024 was scrapped in the 2025 Tax Plan before it was ever applied. From 1 January 2027 the maximum falls to 27%, except for people whose ruling was already applied on or before 31 December 2023, who keep 30%.
 
 Here is what that looks like in practice:
 
@@ -234,7 +234,7 @@ German work culture is more structured and hierarchical, with a strong emphasis 
 The Netherlands' highly skilled migrant visa (kennismigrant) is known for its speed and simplicity:
 
 - Processing time: 2-4 weeks (employer must be an IND-recognized sponsor)
-- Minimum salary: approximately EUR 5,008/month gross (age 30+) or EUR 3,672 (under 30) in 2026
+- Minimum salary: the IND highly skilled migrant threshold, indexed every January and published on ind.nl — over EUR 5,700 gross per month excluding holiday allowance for those aged 30 and over, lower for under-30s with a Dutch or EU master's degree
 - Your employer handles most paperwork
 - Spouse/partner receives an open work permit
 - Path to permanent residency after 5 years

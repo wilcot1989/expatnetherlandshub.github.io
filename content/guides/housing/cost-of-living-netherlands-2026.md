@@ -1,7 +1,7 @@
 ---
 title: 'Cost of Living in the Netherlands 2026: Complete Breakdown'
 date: 2026-03-04 10:00:00+01:00
-lastmod: 2026-04-23 10:00:00+01:00
+lastmod: 2026-08-19 10:00:00+02:00
 description: Complete breakdown of living costs in the Netherlands for 2026. Rent, groceries, transport, insurance, and monthly budgets for expats.
 categories:
 - relocation
@@ -507,7 +507,7 @@ These are the categories that genuinely surprise Indian expats:
 1. **Send money home with Wise, not your bank**: If you are supporting family in India or maintaining savings there, bank wire transfers lose 3-5% to exchange rate markups. <a href="https://go.expatnetherlandshub.com/wise?ref=/guides/housing/cost-of-living-netherlands-2026/" rel="nofollow noopener sponsored" target="_blank">Wise</a> uses the real mid-market rate with fees typically under 1%. On a EUR 1,000 monthly transfer that saves EUR 20-40 every single month
 2. **Cook Indian food at home**: Indian grocery stores exist in all major Dutch cities (Toko's, speciality Asian supermarkets, and even dedicated South Asian stores in cities like Amsterdam, The Hague, and Rotterdam). Stock up on rice, dal, spices, and frozen goods to keep food costs down
 3. **Apply for kinderopvangtoeslag if you have children**: The Dutch government covers 30-95% of daycare costs. Many Indian expats I have spoken to simply did not know this benefit existed in the first year
-4. **Check your eligibility for the 30% ruling**: If you were recruited from outside the Netherlands and your salary exceeds the threshold (approximately EUR 46,107 gross in 2026), this ruling lets your employer pay 30% of your salary tax-free. The net monthly benefit can be EUR 500-1,500+
+4. **Check your eligibility for the 30% ruling**: If you were recruited from outside the Netherlands and your taxable salary (what remains after the 30% is deducted) exceeds EUR 48,013 in 2026 — roughly EUR 68,590 gross, or EUR 36,497 taxable if you are under 30 with a qualifying master's degree — this ruling lets your employer pay 30% of your salary tax-free. It is a flat 30% in 2025 and 2026, dropping to a maximum of 27% from 1 January 2027 for holders whose ruling was not already running on 31 December 2023. The net monthly benefit can be EUR 500-1,500+
 
 For a detailed comparison of life in both countries, see our [Netherlands vs India: Life and Work Comparison](/guides/integration/netherlands-vs-india-expats-2026/).
 

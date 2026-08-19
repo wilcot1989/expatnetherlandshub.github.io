@@ -1,7 +1,7 @@
 ---
 title: Netherlands vs Portugal for Expats 2026
 date: 2026-03-18 10:00:00+01:00
-lastmod: 2026-04-23 10:00:00+01:00
+lastmod: 2026-08-19 10:00:00+01:00
 description: 'Netherlands vs Portugal for expats 2026: costs, salaries, taxes, healthcare, visa routes, language, climate, and quality of life compared honestly.'
 categories:
 - integration
@@ -118,8 +118,10 @@ The exception is international companies that pay global salary scales regardles
 
 The Dutch [30% ruling](/guides/finance/30-percent-ruling-netherlands-2026/) allows qualifying expats recruited from abroad to have 30% of their gross salary paid tax-free for up to five years. To qualify:
 - You must have been living more than 150km from the Dutch border for 16+ of the 24 months before starting
-- Your salary must meet the minimum threshold (EUR 46,107 gross in 2026; lower for under-30s with a master's degree)
+- Your salary must meet the minimum threshold (in 2026: EUR 48,013 taxable salary after the 30% deduction, roughly EUR 68,590 gross; EUR 36,497 taxable, roughly EUR 52,138 gross, for under-30s with a qualifying master's degree)
 - Your employer must apply
+
+The allowance is a flat 30% in 2025 and 2026 — the 30/20/10% step-down announced in 2024 was scrapped before it ever applied — and drops to a maximum of 27% from 1 January 2027, except for rulings already applied on or before 31 December 2023.
 
 The effective tax rate impact: a gross salary of EUR 80,000 is taxed as if it were EUR 56,000. This is a significant benefit for mid-to-senior professionals.
 

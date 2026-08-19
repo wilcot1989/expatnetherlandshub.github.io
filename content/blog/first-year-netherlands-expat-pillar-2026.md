@@ -31,7 +31,7 @@ faq:
 - q: Do I need a BSN before I can open a bank account in the Netherlands?
   a: For traditional Dutch banks (ABN AMRO, ING, Rabobank), yes — a BSN is required. However, Wise gives you a real NL IBAN without a BSN, which means you can receive salary from day one even before your municipality registration appointment. Bunq also accepts registrations with just a passport and an address. Use Wise as your bridge account in week one, then open a full Dutch bank account once your BSN is issued.
 - q: What is the 30% ruling and who qualifies?
-  a: 'The 30% ruling is a Dutch tax advantage for employees recruited from abroad. It allows your employer to pay 30% of your gross salary tax-free, provided you meet the criteria: you were recruited outside the Netherlands, you have specific expertise that is scarce in the Dutch labour market, and your taxable salary (after the 30% exclusion) exceeds €46,107 in 2026. The ruling lasts up to 5 years. Your employer must apply for it through the Belastingdienst — you cannot apply yourself. Apply as early as possible: if approved within 4 months of your start date, the ruling is backdated to your first working day.'
+  a: 'The 30% ruling is a Dutch tax advantage for employees recruited from abroad. It allows your employer to pay 30% of your gross salary tax-free, provided you meet the criteria: you were recruited outside the Netherlands, you have specific expertise that is scarce in the Dutch labour market, and your taxable salary (after the 30% exclusion) exceeds €48,013 in 2026 (€36,497 if you are under 30 with a qualifying master''s degree; scientific researchers at designated institutions have no salary norm). The percentage is a flat 30% in 2025 and 2026 — the announced 30/20/10 step-down was scrapped before it took effect — and drops to a maximum of 27% from 1 January 2027 for everyone whose ruling was not already being applied on or before 31 December 2023. The ruling lasts up to 5 years. Your employer must apply for it through the Belastingdienst — you cannot apply yourself. Apply as early as possible: if approved within 4 months of your start date, the ruling is backdated to your first working day.'
 - q: Is health insurance mandatory in the Netherlands for expats?
   a: Yes. Once you are registered in the Dutch municipal records (BRP), you are legally required to take out Dutch basic health insurance (basisverzekering) within four months of registration. If you miss this window, the CAK will assign you an insurer and charge a surcharge. The basic package is identical across all insurers — only the price and service quality differ. Use Independer to compare current premiums.
 - q: How much should I save before moving to the Netherlands?
@@ -395,12 +395,14 @@ Even A1-level Dutch changes your experience dramatically. Locals notice and appr
 
 If you qualify, the 30% ruling allows your employer to pay 30% of your agreed salary as a tax-free allowance. On a €90,000 gross salary, that is €27,000 tax-free — saving roughly €13,000–€15,000 per year in income tax at the top rate.
 
-The ruling also allows you to elect **partial non-resident status**, meaning your Box 3 savings and investments held abroad may not be subject to Dutch wealth tax. This is particularly valuable if you have significant savings in your home country.
+The percentage is a flat 30% for every month of the ruling in 2025 and 2026 — the 30/20/10 step-down announced in the 2024 Tax Plan was scrapped before it ever applied. From 1 January 2027 the maximum falls to 27%, unless the ruling was already being applied to your salary on or before 31 December 2023, in which case you keep 30% for the rest of your five years.
+
+The ruling used to let you elect **partial non-resident status**, keeping foreign savings and investments out of Dutch Box 3 wealth tax. That option was abolished on 1 January 2025. Only expats who were already using the ruling before 2024 can still elect it, and only up to and including their 2026 tax return. If your ruling started in 2024 or later, your worldwide savings and investments fall under Dutch Box 3 from day one.
 
 **Qualification criteria in 2026:**
 - Recruited from outside the Netherlands (more than 150km from the Dutch border in the 2 years before employment)
 - Specific expertise scarce in the Dutch labour market
-- Taxable salary (after the 30% exclusion) above €46,107 in 2026
+- Taxable salary (after the 30% exclusion) above €48,013 in 2026 — roughly €68,590 gross. Under 30 with a qualifying master's degree: €36,497 taxable (roughly €52,138 gross). Scientific researchers at designated institutions have no salary norm
 
 **Duration:** Maximum 5 years (reduced from 8 years for rulings started from 2024 onwards).
 
@@ -434,7 +436,7 @@ You receive your BSN at your gemeente registration appointment — usually the s
 For traditional Dutch banks, yes. But <a href="https://go.expatnetherlandshub.com/wise" rel="nofollow noopener sponsored" class="cta-affiliate" target="_blank">Wise</a> gives you an NL IBAN without a BSN, letting you receive salary from day one. Bunq also accepts new accounts with a passport only.
 
 **What is the 30% ruling and who qualifies?**
-A tax-free allowance worth up to 30% of your gross salary for skilled expats recruited from abroad. Salary threshold: €46,107 taxable in 2026. Duration: 5 years. Apply through your employer within 4 months of starting work.
+A tax-free allowance worth up to 30% of your gross salary for skilled expats recruited from abroad — a flat 30% in 2026, falling to 27% from 2027 for most holders. Salary threshold: €48,013 taxable in 2026 (€36,497 if you are under 30 with a qualifying master's degree). Duration: 5 years. Apply through your employer within 4 months of starting work.
 
 **Is health insurance mandatory in the Netherlands for expats?**
 Yes. Once BRP-registered, you must have Dutch basisverzekering within four months. Use <a href="https://go.expatnetherlandshub.com/independer-zorg" rel="nofollow noopener sponsored" class="cta-affiliate" target="_blank">Independer</a> to compare. Short-stay expats not yet BRP-registered can use <a href="https://go.expatnetherlandshub.com/safetywing" rel="nofollow noopener sponsored" class="cta-affiliate" target="_blank">SafetyWing</a> as an interim solution.

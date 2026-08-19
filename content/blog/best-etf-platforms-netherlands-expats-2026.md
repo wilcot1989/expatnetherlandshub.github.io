@@ -30,7 +30,7 @@ faq:
 - q: How does Box 3 tax affect ETF investing in the Netherlands?
   a: Box 3 does not tax your actual investment gains or dividends. Instead, it applies a deemed (fictional) return to your total net assets above the tax-free threshold of approximately €57,000 per person (€114,000 for fiscal partners). For investments, the deemed return rate for 2026 is approximately 5.88%, and the Box 3 tax rate is 36%. This means that for every €100,000 of ETF holdings above the threshold, you pay roughly €2,117 per year in Box 3 tax, regardless of whether your portfolio actually returned 5.88%. The Belastingdienst publishes final rates after the tax year ends.
 - q: Does the 30% ruling exempt my ETF investments from Dutch tax?
-  a: Potentially yes — but only if you elect the partial non-resident status (partieel buitenlandse belastingplicht) as part of your 30% ruling. This option treats you as a non-resident for Box 2 and Box 3 purposes, meaning your foreign-held savings and investments may not be subject to Dutch wealth tax. However, this must be actively elected and it does not apply to ETFs held on Dutch platforms such as DEGIRO or ABN AMRO. Speak to a Dutch tax advisor before your ruling expires, as this decision is time-sensitive.
+  a: Almost certainly not any more. The partial non-resident status (partieel buitenlandse belastingplicht) that treated you as a non-resident for Box 2 and Box 3 was abolished per 1 January 2025 and cannot be chosen from the 2025 return onwards. Only expats who were already using the 30% ruling before 2024 may still elect it, up to and including the 2026 return. Even then it never applied to ETFs held on Dutch platforms such as DEGIRO or ABN AMRO — only to foreign-held assets. If your ruling started in 2024 or later, all your investments sit in Box 3, taxed at 36% on the deemed return in 2026.
 - q: What is the core ETF selection (kernassortiment) on DEGIRO?
   a: DEGIRO offers a free trades list (previously called kernassortiment or core selection), which allows one free trade per ETF per day in a curated list of ETFs. This typically includes major index ETFs such as iShares Core MSCI World, Vanguard FTSE All-World (VWRL), and iShares Core S&P 500. The list changes periodically. Subsequent trades in the same ETF on the same day cost a small fee (around €1). Non-free-list ETFs cost a standard commission of €2 + 0.02% of the transaction value.
 - q: Can American expats use Dutch ETF platforms?
@@ -266,8 +266,8 @@ Box 3 looks at your net wealth on 1 January. If you are planning a large purchas
 **2. The fiscal partner threshold doubles**
 If you have a fiscal partner (geregistreerd partner or spouse), your combined tax-free threshold is approximately €114,000. Spreading investments across both partners' names (each holding their portion of the shared portfolio) can reduce or eliminate Box 3 liability at lower wealth levels.
 
-**3. Partial non-resident status with the 30% ruling**
-As noted in the FAQ, this is the single biggest Box 3 benefit available to expats with the ruling, and it is chronically underused. Speak to a tax advisor. Our [30% ruling guide](/guides/finance/30-percent-ruling-netherlands-2026/) explains who qualifies.
+**3. Partial non-resident status with the 30% ruling — abolished**
+This used to be the single biggest Box 3 benefit available to ruling holders. It was abolished per 1 January 2025 and is only still open to expats who were already using the ruling before 2024, through the 2026 return at the latest. If that is you, speak to a tax advisor while it lasts; if your ruling started in 2024 or later, do not plan around it. Our [30% ruling guide](/guides/finance/30-percent-ruling-netherlands-2026/) sets out who is still in scope.
 
 **4. Box 3 does not apply during the year of arrival or departure**
 When you arrive in or leave the Netherlands part-way through a year, Box 3 applies only for the period of residency. This is relevant for expats planning a move.
@@ -319,7 +319,7 @@ If you are still setting up your Dutch bank account, our [guide to opening a ban
 
 For most expats I work with, DEGIRO or Trading 212 is the right starting point. Both are free or near-free for monthly ETF investing, both work well in English, and both give access to the core VWRL/IWDA ETFs that form the backbone of a sensible passive portfolio.
 
-Once your portfolio grows, or if your tax situation becomes more complex (particularly with the 30% ruling partial non-resident election), it is worth revisiting. But getting started with a simple, low-cost global ETF is almost always the right first move.
+Once your portfolio grows, or if your tax situation becomes more complex (for example if you are in the transitional group that can still use the 30% ruling partial non-resident election through the 2026 return), it is worth revisiting. But getting started with a simple, low-cost global ETF is almost always the right first move.
 
 ---
 
@@ -339,7 +339,7 @@ Box 3 does not tax your actual gains. Instead, it applies a deemed return to you
 
 ### Does the 30% ruling exempt my ETF investments from Dutch tax?
 
-Potentially yes, but only if you actively elect partial non-resident status as part of your 30% ruling. This treats you as a non-resident for Box 3 purposes, meaning foreign-held investments may not be subject to Dutch wealth tax. It must be elected deliberately and does not apply to ETFs held on Dutch platforms like DEGIRO. Speak to a tax advisor before your ruling expires.
+Almost certainly not any more. Partial non-resident status, which treated you as a non-resident for Box 3 so that foreign-held investments fell outside Dutch wealth tax, was abolished per 1 January 2025. Only expats who were already using the 30% ruling before 2024 can still elect it, up to and including the 2026 return, and it never applied to ETFs held on Dutch platforms like DEGIRO. If your ruling started in 2024 or later, your investments are in Box 3 like any other resident's.
 
 ### What is the core ETF selection (kernassortiment) on DEGIRO?
 
@@ -407,7 +407,7 @@ A question I get regularly: should I wait until I have permanent residency, or u
 
 The general principle: start as early as you are ready, even if the amounts are small. The compound growth benefit of starting earlier almost always outweighs the benefit of waiting for perfect circumstances.
 
-The 30% ruling partial non-resident status is worth taking if you qualify and hold significant foreign assets — but this decision point should not delay you from starting to invest in general. You can invest on platforms like DEGIRO or Trading 212 from the moment you have a Dutch address and BSN, regardless of your ruling status.
+The 30% ruling partial non-resident status is no longer a decision point for most people — it was abolished per 1 January 2025 and only pre-2024 ruling holders can still use it, through the 2026 return. Either way it should not delay you from starting to invest. You can invest on platforms like DEGIRO or Trading 212 from the moment you have a Dutch address and BSN, regardless of your ruling status.
 
 Box 3 kicks in above the €57,000 threshold per person. If you are starting from scratch, it will be years before you hit this threshold. In the meantime, there is no tax on your investment growth — which is the correct framing: Box 3 is a wealth tax at scale, not an immediate barrier to starting out.
 

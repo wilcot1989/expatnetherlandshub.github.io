@@ -1,7 +1,7 @@
 ---
 title: Moving to NL from UK Post-Brexit 2026
 date: 2026-03-18 10:00:00+01:00
-lastmod: 2026-04-23 10:00:00+01:00
+lastmod: 2026-08-19 10:00:00+01:00
 description: Post-Brexit guide for British expats in the Netherlands 2026. Visa options, driving licence, healthcare, banking, pension, and tax explained.
 categories:
 - integration
@@ -80,7 +80,7 @@ If you are moving to the Netherlands for employment with a Dutch employer or a c
 Your employer applies on your behalf — you cannot apply independently. The employer must be registered as a "recognised sponsor" with the IND. Most larger Dutch employers already have this status; smaller companies may need to apply for it first.
 
 **Salary requirements (2026):**
-The HSM permit requires minimum salary thresholds that are updated each year. For those aged 30 and over: approximately EUR 6,200 gross per month (excluding holiday allowance). For those under 30: approximately EUR 4,550 gross per month. There are lower thresholds for specific categories including graduates fresh from a Dutch university.
+The HSM permit requires minimum salary thresholds that the IND indexes every January and publishes on ind.nl. For those aged 30 and over the threshold is over EUR 5,700 gross per month (excluding holiday allowance); it is lower for under-30s with a Dutch or EU master's degree. Check the current figures on ind.nl before you negotiate, and note that this IND threshold is a separate test from the 30% ruling salary norm. There are lower thresholds for specific categories including graduates fresh from a Dutch university.
 
 **Timeline:**
 Once your employer submits the application, IND processing typically takes 2–4 weeks for recognised sponsors. The permit initially lasts for the duration of your employment contract, up to a maximum of five years.
@@ -283,7 +283,8 @@ The 30% ruling (30%-regeling) allows your Dutch employer to pay 30% of your sala
 **Eligibility requirements for British nationals:**
 - You must be recruited or transferred from outside the Netherlands (moving from the UK qualifies)
 - You must have lived more than 150 km from the Dutch border in the 24 months before your first working day in the Netherlands (most UK addresses qualify easily)
-- Your taxable salary (after the 30% exclusion) must be at least EUR 46,107 (2026 figure, adjusted annually)
+- Your taxable salary (after the 30% exclusion) must be at least EUR 48,013 in 2026 — roughly EUR 68,590 gross — or EUR 36,497 taxable, roughly EUR 52,138 gross, if you are under 30 with a qualifying master's degree. Both figures are adjusted annually
+- The percentage is a flat 30% in 2025 and 2026 (the 30/20/10% step-down announced in 2024 was scrapped before it applied); from 1 January 2027 the maximum drops to 27%, unless your ruling was already applied on or before 31 December 2023
 - Your role must require specific expertise that is scarce in the Dutch market (interpreted broadly; most professional roles qualify)
 - You must have a Dutch employer who agrees to apply for it
 

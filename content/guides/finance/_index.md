@@ -2,6 +2,7 @@
 title: "Finance Guides for Expats in the Netherlands 2026"
 description: "Expert guides on Dutch taxes, 30% ruling, pensions, banking, and money transfers for expats. Save thousands with the right financial decisions."
 date: 2026-03-06T10:00:00+01:00
+lastmod: 2026-08-19T10:00:00+02:00
 ---
 
 The financial system in the Netherlands is generous to expats who know how to work through it — and punishing to those who do not. I learned this the hard way in my first year, when I left thousands of euros on the table by not applying for the 30% ruling quickly enough. These guides exist so you do not make the same mistakes.
@@ -10,7 +11,7 @@ The financial system in the Netherlands is generous to expats who know how to wo
 
 If you are an internationally recruited employee, the 30% ruling is the single most valuable tax benefit available to you in the Netherlands. It allows your employer to pay up to 30% of your salary tax-free, in recognition of the extra costs of relocating from abroad. On a gross salary of €70,000, that can mean a net gain of €10,000 or more per year.
 
-The rules changed in 2024 and 2025, so guides written before those dates may give you outdated information. I cover the current income threshold, the five-year time limit, the partial non-resident taxpayer status, and the step-by-step application process. Use the [30% ruling calculator](/tools/30-percent-ruling-calculator/) to see your personal saving before reading the full guide.
+The rules changed in 2024 and 2025, so guides written before those dates may give you outdated information — including the partial non-resident taxpayer status, which was abolished per 1 January 2025 and now survives only for a transitional group. I cover the current income threshold, the five-year time limit, where that abolished status still applies, and the step-by-step application process. Use the [30% ruling calculator](/tools/30-percent-ruling-calculator/) to see your personal saving before reading the full guide.
 
 ## Dutch Tax System for Expats
 

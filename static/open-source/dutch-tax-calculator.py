@@ -60,14 +60,21 @@ ZVW_MAX_BASE = 71_628             # EUR — maximum grondslag
 VAKANTIEGELD_RATE = 0.08          # 8% of gross annual salary (statutory minimum)
 
 # ─────────────────────────────────────────────────────────────────────────────
-# 30% Ruling Phase-Down
-# Introduced 2024; the tax-free portion steps down over the 5-year period.
+# 30% Ruling percentage (2026)
+# The tax-free portion is a FLAT 30% for every month of the 60-month period.
+# The 30/20/10 step-down legislated in the 2024 Tax Plan was repealed in the
+# 2025 Tax Plan before it ever took effect, so it is not part of Dutch law.
+# From 1 January 2027 the maximum drops to 27%, except for holders whose
+# ruling was already being applied on or before 31 December 2023.
+# The allowance is also capped: it is calculated on salary up to EUR 262,000
+# (2026), giving a maximum tax-free amount of EUR 78,600 per year.
 # ─────────────────────────────────────────────────────────────────────────────
 RULING_PHASES = [
-    (20, 0.30),  # Months  1–20: 30% of gross is tax-free
-    (20, 0.20),  # Months 21–40: 20% of gross is tax-free
-    (20, 0.10),  # Months 41–60: 10% of gross is tax-free
+    (60, 0.30),  # Months 1–60: a flat 30% of gross is tax-free (2025 and 2026)
 ]
+RULING_RATE_2027 = 0.27           # Maximum from 1 January 2027 for most holders
+RULING_SALARY_CAP = 262_000       # EUR — Balkenendenorm 2026
+RULING_MAX_EXEMPT = 78_600        # EUR — 30% of the cap
 
 
 # ─────────────────────────────────────────────────────────────────────────────
@@ -123,7 +130,7 @@ class TaxResult:
         ruling_label = ""
         if self.has_30_percent_ruling:
             phase_pct = _ruling_exempt_fraction(self.ruling_months_elapsed) * 100
-            ruling_label = f"  30% Ruling phase:       {phase_pct:.0f}% exempt\n"
+            ruling_label = f"  30% Ruling rate:        {phase_pct:.0f}% exempt\n"
             ruling_label += f"  30% Ruling exemption:   € {self.ruling_exempt_amount:>10,.2f}\n"
 
         lines = [
@@ -179,7 +186,9 @@ def _ruling_exempt_fraction(months_elapsed: int) -> float:
     Returns
     -------
     float
-        0.30, 0.20, 0.10, or 0.0 depending on the phase.
+        0.30 while the 60-month ruling period runs, 0.0 once it has expired.
+        (There are no intermediate phases: the 30/20/10 step-down announced in
+        the 2024 Tax Plan was repealed before it took effect.)
     """
     if months_elapsed < 0:
         raise ValueError("months_elapsed cannot be negative.")
@@ -326,7 +335,8 @@ def calculate_dutch_tax(
         Whether the employee has been granted the 30% ruling (expatregeling).
     ruling_months_elapsed : int
         Number of months already used in the 60-month 30% ruling period.
-        0 = just started (full 30% applies), 20 = second phase (20%), etc.
+        The rate is a flat 30% throughout; past 60 months the ruling has
+        expired and no exemption applies.
     age : int
         Employee age. Currently used for informational purposes; AOW
         (state pension) premium exceptions for 65+ are not yet modelled.
@@ -369,11 +379,13 @@ def calculate_dutch_tax(
 
     # ── Step 2: 30% Ruling Exemption ────────────────────────────────────────
     # The 30% ruling allows a portion of the gross salary to be paid as a
-    # tax-free expense reimbursement. The fraction steps down over 5 years.
+    # tax-free expense reimbursement. In 2026 the fraction is a flat 30% for
+    # all 60 months; it becomes 27% from 2027 for most holders. The allowance
+    # is capped at RULING_MAX_EXEMPT (30% of the RULING_SALARY_CAP).
     ruling_exempt_amount = 0.0
     if has_30_percent_ruling:
         fraction = _ruling_exempt_fraction(ruling_months_elapsed)
-        ruling_exempt_amount = gross_annual * fraction
+        ruling_exempt_amount = min(gross_annual, RULING_SALARY_CAP) * fraction
 
     taxable_income = gross_annual - ruling_exempt_amount
 
@@ -465,7 +477,7 @@ def _parse_args():
         metavar="N",
         help=(
             "Months already elapsed in the 60-month ruling period "
-            "(0=first phase 30%%, 20=second phase 20%%, 40=third phase 10%%)."
+            "(the rate is a flat 30%% throughout; over 60 = expired)."
         ),
     )
     parser.add_argument(
@@ -507,13 +519,13 @@ def _run_demo():
             "gross_annual": 60_000,
             "has_30_percent_ruling": True,
             "ruling_months_elapsed": 0,
-            "label": "€60,000 — 30% ruling (phase 1)",
+            "label": "€60,000 — 30% ruling (month 1)",
         },
         {
             "gross_annual": 60_000,
             "has_30_percent_ruling": True,
             "ruling_months_elapsed": 20,
-            "label": "€60,000 — 20% ruling (phase 2)",
+            "label": "€60,000 — 30% ruling (month 21, same flat rate)",
         },
     ]
 

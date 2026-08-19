@@ -2,8 +2,8 @@
 title: "Moving to the Netherlands 2027: Complete Checklist"
 description: "The exact step-by-step I'd give anyone moving to the Netherlands in 2027 — visa, BSN, housing, banking, insurance, work, and timing."
 date: 2026-08-14
-lastmod: 2026-06-15T10:00:00+01:00
-last_updated: 2026-06-15
+lastmod: 2026-08-19T10:00:00+02:00
+last_updated: 2026-08-19
 author: "Sarah van den Berg"
 author_bio: "Expat coach and writer at ExpatNetherlandsHub.com"
 categories: ["relocation"]
@@ -23,7 +23,7 @@ faq:
   - question: 'What does it actually cost to move to the Netherlands in 2027?'
     answer: "Plan for roughly 8,000 to 15,000 euro in upfront costs for a single person and 15,000 to 25,000 euro for a family. That includes deposit and first month rent, shipping, insurance setup, registration fees, and a buffer for the first six weeks before your Dutch salary lands."
   - question: "Can I get the 30% ruling if I move in 2027?"
-    answer: "Yes, but the rules tightened in 2024 and again from 2027. You still need to be recruited from abroad, meet the salary threshold (which is indexed annually), and apply within four months of starting work. The percentage and duration are no longer the generous version older expats remember, so model your net salary carefully."
+    answer: "Yes. You still need to be recruited from abroad, meet the salary threshold (indexed annually — €48,013 in taxable salary in 2026, roughly €68,590 gross, with a lower figure for under-30s holding a qualifying master's), and have your employer apply within four months of your start date. Two things to model: the maximum tax-free allowance is 27% rather than 30% for rulings first applied from 2024 onwards once 2027 starts, and a higher salary norm has been announced for rulings first applied from 1 January 2025 (not yet enacted). The duration is five years. There is no 30/20/10 step-down — that was announced in 2024 and scrapped before it took effect."
   - question: 'Do I need to speak Dutch to move to the Netherlands?'
     answer: "No, you can absolutely land, work, bank, and live in English in the Randstad. But every official letter, every utility contract, every doctor's portal is still primarily in Dutch, and learning even A2 within your first year removes more friction than you can imagine."
   - question: "Should I bring my car or buy one in the Netherlands?"
@@ -87,7 +87,7 @@ If you are non-EU, the dominant routes for 2027 are:
 Three things to lock down at T-minus-6 months regardless of route:
 
 1. **Get your employer to confirm in writing that they are a recognised sponsor.** If they are not, your timeline doubles.
-2. **Run a 30% ruling pre-check** with a Dutch tax advisor before you sign anything. The post-2024 reforms made the ruling less generous, and from 2027 the phased reduction continues. If you negotiate gross salary on the assumption of the old 30% net, you will be furious in March. I wrote a full breakdown of [what changed in the 30% ruling and what it means now](/blog/30-percent-ruling-extension-2024-changes-2026/) — read it before your final negotiation call.
+2. **Run a 30% ruling pre-check** with a Dutch tax advisor before you sign anything. If you are moving in 2027, the maximum tax-free allowance is **27%, not 30%** — that reduction takes effect on 1 January 2027 for everyone except holders whose ruling was already applied on or before 31 December 2023. A higher salary norm has also been announced for rulings first applied from 2025 onwards, though it has not been enacted yet, so ask your advisor for the published 2027 figure rather than the one circulating online. What you should *not* budget for is the old 30/20/10 staircase down to 10% — that was legislated in 2024 and scrapped again before it ever applied. If you negotiate gross salary on the assumption of a 30% net uplift, you will be furious in March. I wrote a full breakdown of [what changed in the 30% ruling and what it means now](/blog/30-percent-ruling-extension-2024-changes-2026/) — read it before your final negotiation call.
 3. **Decide on city.** Amsterdam is not the only answer. Utrecht, Rotterdam, The Hague, Eindhoven, Haarlem and Den Bosch all have working expat infrastructure and dramatically different rental markets. The Hague is the friendliest for non-Dutch speakers; Eindhoven is the friendliest for tech salaries; Utrecht is the friendliest for "I want to live here forever".
 
 ## Three months before: housing, money, gap insurance
