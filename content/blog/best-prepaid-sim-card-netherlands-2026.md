@@ -29,7 +29,7 @@ faq:
 - q: What is the best prepaid SIM card for expats in the Netherlands?
   a: Lebara is the most popular choice for expats in the Netherlands. It offers a €10 starter pack with a Dutch number, a solid 4G/5G network, and cheap international call add-ons for over 40 countries. Setup takes about 15 minutes online after you receive the SIM. If you primarily need local data and the lowest possible price, Lycamobile is the better budget pick.
 - q: Do I need a BSN to buy a prepaid SIM in the Netherlands?
-  a: No — you do not need a BSN (Burger Service Nummer) to buy a prepaid SIM. However, since new Dutch telecom regulations that came into full effect in 2022, all prepaid SIMs must be registered with a valid ID (passport or EU identity card) and a residential address. This is purely for registration purposes; a temporary address such as a hotel, Airbnb, or expat housing works fine. You cannot activate a prepaid SIM anonymously.
+  a: No — you do not need a BSN (Burger Service Nummer) to buy a prepaid SIM. Unlike Germany, the Netherlands has no general legal requirement to register prepaid SIMs with ID; some providers or shops ask for identification or an address as their own policy, but many prepaid SIMs can be bought and activated without paperwork. A temporary address such as a hotel or expat housing is fine where a provider does ask.
 - q: Is prepaid better than a postpaid contract for expats?
   a: Prepaid is the right starting point for most expats. You get a Dutch number within hours, without a credit check, a Dutch bank account, or a fixed address. Once you have your DigiD, a Dutch bank account, and know you are staying longer than six months, switching to a postpaid subscription makes sense. Monthly contracts typically cost €15–25 and include significantly more data — often unlimited — for similar or lower monthly spend once you factor in top-up costs.
 - q: What is the cheapest prepaid SIM option in the Netherlands?
@@ -225,7 +225,7 @@ A good comparison of postpaid providers and internet plans for your home setup c
 
 ## Activation and Registration: What to Expect
 
-Since 2022, Dutch law requires all prepaid SIM cards to be registered with a valid ID. This was introduced to reduce anonymous phone use in criminal activity. For expats, the process is straightforward.
+The Netherlands has no blanket legal ID-registration requirement for prepaid SIMs (unlike Germany or Spain). Individual providers may ask for ID or an address when you activate, as their own policy. For expats, the process is straightforward either way.
 
 **What you need:**
 - A valid passport or EU national identity card

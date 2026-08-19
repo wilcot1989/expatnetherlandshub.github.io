@@ -225,7 +225,7 @@ All Dutch residents, regardless of age, must purchase basic health insurance fro
 
 **Monthly premium (2026)**: approximately €130–165/month depending on insurer. Comparing providers at Zorgverzekeringslijn.nl or Independer takes 10 minutes and can save €300–500/year.
 
-<a href="https://www.independer.nl/zorgverzekering/intro.aspx" target="_blank" rel="noopener nofollow sponsored" class="cta-affiliate">Compare Dutch health insurers at Independer →</a>
+<a href="https://go.expatnetherlandshub.com/independer-zorg?ref=/blog/retiring-in-netherlands-expat-guide-2026/" target="_blank" rel="noopener nofollow sponsored" class="cta-affiliate">Compare Dutch health insurers at Independer →</a>
 
 ### Supplementary Insurance (Aanvullende Verzekering)
 

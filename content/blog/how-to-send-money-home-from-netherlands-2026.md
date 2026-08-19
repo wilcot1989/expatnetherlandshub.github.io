@@ -97,7 +97,7 @@ That chain is where the costs come from.
 
 Each correspondent bank in the chain can deduct a fee. If your Dutch bank sends via SWIFT and the message passes through two correspondent banks before reaching the destination bank, each of those banks may take a small cut — typically $10–20 or equivalent. You might send €1,000 and your recipient gets €970. No warning. No itemised breakdown.
 
-On top of correspondent bank fees, Dutch banks apply their own foreign exchange margin. When ABN AMRO converts your euros to US dollars or Indian rupees, they don't use the mid-market rate. They use a rate that's typically 1.5–3% worse than the real rate. That margin is profit for the bank — and they don't advertise it.
+On top of correspondent bank fees, Dutch banks apply their own foreign exchange margin. When ABN AMRO converts your euros to US dollars or Indian rupees, they don't use the mid-market rate. They use a rate that's typically 1.5–3% worse than the real rate. That margin is profit for the bank — and they don't advertise it. For transfers to the United States specifically, <a href="https://go.expatnetherlandshub.com/wise-usd?ref=/blog/how-to-send-money-home-from-netherlands-2026/" target="_blank" rel="noopener nofollow sponsored">Wise's USD route</a> converts at the mid-market rate.
 
 Here's the actual math on a €1,000 transfer from the Netherlands to a USD account in the USA via ABN AMRO:
 

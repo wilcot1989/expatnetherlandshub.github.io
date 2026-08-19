@@ -73,6 +73,7 @@ In 2026, the major suppliers are:
 - Greenchoice (smaller, fully green)
 - Vrienden van Energie
 - Budget Energie / Energiedirect (low-cost subsidiaries)
+- <a href="https://go.expatnetherlandshub.com/budget-thuis-energie?ref=/blog/dutch-energy-contract-switching-guide-2026/" target="_blank" rel="noopener nofollow sponsored">Budget Thuis</a> (bundles energy with internet and mobile — one bill)
 - Pure Energie, OM (small green providers)
 
 Independer's [energy comparison tool](https://go.expatnetherlandshub.com/independer-energie) <a href="https://go.expatnetherlandshub.com/independer-energie" target="_blank" rel="nofollow sponsored noopener">(see the comparison)</a> is the standard expat starting point. It pulls live tariffs, lets you filter by green/grey, fixed/variable, and contract length, and handles the switch in one form.

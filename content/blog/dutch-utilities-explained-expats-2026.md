@@ -88,7 +88,7 @@ For most expats arriving in the Netherlands:
 
 Compare current rates at **Independer.nl** (full English version available) or **Gaslicht.com**. Always compare the kWh/m³ rate and the standing charge (vastrecht) — both contribute to your total bill.
 
-<a href="https://www.independer.nl/energie/intro.aspx" target="_blank" rel="noopener nofollow sponsored" class="cta-affiliate">Compare energy contracts at Independer →</a>
+<a href="https://go.expatnetherlandshub.com/independer-energie?ref=/blog/dutch-utilities-explained-expats-2026/" target="_blank" rel="noopener nofollow sponsored" class="cta-affiliate">Compare energy contracts at Independer →</a>
 
 ### Registration Process
 

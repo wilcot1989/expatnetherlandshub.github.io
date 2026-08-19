@@ -97,7 +97,7 @@ This is where Groningen earns its reputation. Here is what a single expat or PhD
 
 Total: roughly **EUR 1,700 to 2,700 per month** for a single expat with a real social life. A couple sharing a two-bedroom in Helpman or Oranjewijk often lands around EUR 3,000 to 3,800 combined, which is genuinely 20 to 30 percent below an equivalent life in Amsterdam.
 
-For sending money home or keeping a multi-currency account during the first months when your Dutch bank is not yet set up, I still recommend Wise. <a href="https://wise.com/invite/ihpc/willemt52" rel="sponsored noopener" target="_blank">Open a Wise account here</a> — it saved me hundreds of euros in conversion fees during my own first year. And when you are ready to switch to a proper Dutch bank, my [banking guide for expats](/blog/best-banking-expats-netherlands-2026/) walks through the ABN, ING, Bunq, and Revolut options.
+For sending money home or keeping a multi-currency account during the first months when your Dutch bank is not yet set up, I still recommend Wise. <a href="https://go.expatnetherlandshub.com/wise?ref=/blog/living-in-groningen-as-an-expat-2026/" rel="sponsored noopener" target="_blank">Open a Wise account here</a> — conversion happens at the mid-market rate, which typically beats bank FX margins. And when you are ready to switch to a proper Dutch bank, my [banking guide for expats](/blog/best-banking-expats-netherlands-2026/) walks through the ABN, ING, Bunq, and Revolut options.
 
 ## The neighborhoods, ranked honestly
 

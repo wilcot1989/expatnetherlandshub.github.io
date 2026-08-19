@@ -94,7 +94,7 @@ What I like about Cigna:
 - English-language member portal, 24/7 phone line that actually answers
 - Direct settlement with most Dutch private hospitals (Bergman Clinics, Anadolu, OLVG-PrivateCare wings)
 - Honest about waiting periods — maternity is 10 months, pre-existing conditions are 24 months
-- Wise integration: I pay my own Cigna policy via <a href="https://wise.com/invite/ihpc/willemt52" target="_blank" rel="nofollow sponsored noopener">a Wise multi-currency account</a> and skip the 3% bank FX markup. Saves me about €110/year.
+- Wise integration: paying an international policy via <a href="https://go.expatnetherlandshub.com/wise?ref=/blog/private-healthcare-netherlands-cost-2026/" target="_blank" rel="nofollow sponsored noopener">a Wise multi-currency account</a> avoids the typical 1.5–3% bank FX markup on every premium payment.
 
 What I don't like:
 - Pricing escalates aggressively after age 50 (expect +40% per decade)
