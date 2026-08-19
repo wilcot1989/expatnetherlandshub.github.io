@@ -1,6 +1,7 @@
 ---
 title: "Cost of Having a Baby in the Netherlands 2026: Full Expat Breakdown"
 date: 2026-07-29
+lastmod: 2026-08-19 12:00:00+02:00
 author: "Sarah van den Berg"
 description: "What it really costs to have a baby in the Netherlands as an expat in 2026. Kraamzorg co-pays, hospital fees, kinderbijslag, daycare allowance, private insurance — every number from someone who walked through it with a friend."
 categories: ["family", "healthcare"]
@@ -82,7 +83,7 @@ This is where the Dutch system surprises most expats. The default assumption is 
 
 **Hospital birth without medical indication ("poliklinische bevalling"):** This is the famous one. Co-pay around **€690** in 2026. The number changes slightly each year. If your midwife refers you for medical reasons, this drops to zero.
 
-**Hospital birth with medical indication:** Fully covered by basic insurance, minus your eigen risico (deductible) of €395 for the year if you haven't used it yet.
+**Hospital birth with medical indication:** Fully covered by basic insurance, minus your eigen risico (deductible) of €385 for the year if you haven't used it yet.
 
 Mei chose a hospital birth in Utrecht because she felt safer there as a first-time mother who did not speak Dutch fluently. No medical indication. She paid €690 for that choice and considered it money well spent. Other friends of mine have given birth at home and described it as the best experience of their lives. There is no wrong answer, but the price tag varies.
 
@@ -157,7 +158,7 @@ Every child living in the Netherlands receives kinderbijslag, paid by the SVB. Y
 
 For a newborn, that is around €1,120 per year. Not life-changing, but it covers nappies and formula with money to spare.
 
-To receive it cleanly, you need a Dutch IBAN. If your salary is in a different currency or you receive money from family abroad, a multi-currency account like <a href="https://go.expatnetherlandshub.com/wise?ref=/blog/cost-of-having-a-baby-netherlands-2026/" target="_blank" rel="nofollow sponsored noopener">Wise</a> is genuinely useful — see my comparison in [Wise vs Revolut for expats](/blog/wise-vs-revolut-expats-2026/) and the wider [best bank account for expats](/blog/best-bank-account-expats-netherlands-2026/) review.
+To receive it cleanly, you need a Dutch IBAN. If your salary is in a different currency or you receive money from family abroad, a multi-currency account like <a href="https://go.expatnetherlandshub.com/wise?ref=/blog/cost-of-having-a-baby-netherlands-2026/" target="_blank" rel="nofollow sponsored noopener">Wise</a> is genuinely useful — see my comparison in [Wise vs Revolut for expats](/guides/finance/wise-vs-revolut-netherlands-2026/) and the wider [best bank account for expats](/guides/finance/best-bank-account-expats-netherlands-2026/) review.
 
 ## Kinderopvangtoeslag: the real money saver
 
@@ -281,7 +282,7 @@ Most expats do not need both. Add Cigna or SafetyWing only if you specifically w
 **What if I am self-employed (ZZP) — do I still get paid maternity leave?**
 Yes. Self-employed mothers receive ZEZ (Zelfstandig en Zwanger), a UWV benefit of at least 16 weeks at minimum-wage level. Self-employed partners do not receive paid partner leave.
 
-**Is the eigen risico of €395 charged for the birth itself?**
+**Is the eigen risico of €385 charged for the birth itself?**
 Not for an uncomplicated birth attended by a midwife. It is charged if you use hospital care under a medical indication. Most pregnancies trigger at least some eigen risico through ultrasounds, blood work, or specialist consults.
 
 ---

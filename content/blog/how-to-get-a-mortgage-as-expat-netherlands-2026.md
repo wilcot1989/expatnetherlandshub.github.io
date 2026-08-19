@@ -234,9 +234,9 @@ Total time: **11 weeks**. Total kosten koper: **€5,800** (I was a first-time b
 
 If your closing-cost money is sitting in a UK, US or Australian account, **do not just SWIFT it via your home bank**. The hidden FX margin can cost you 2-4% on a €20,000 transfer.
 
-I moved my closing costs in three tranches via <a href="https://go.expatnetherlandshub.com/wise?ref=/blog/how-to-get-a-mortgage-as-expat-netherlands-2026/" target="_blank" rel="nofollow sponsored noopener">Wise</a> — mid-market rate, tiny fee. Saved me about £600 compared to my HSBC quote. See the full [Wise vs Revolut comparison for expats](/blog/wise-vs-revolut-expats-2026/) for which to pick.
+I moved my closing costs in three tranches via <a href="https://go.expatnetherlandshub.com/wise?ref=/blog/how-to-get-a-mortgage-as-expat-netherlands-2026/" target="_blank" rel="nofollow sponsored noopener">Wise</a> — mid-market rate, tiny fee. Saved me about £600 compared to my HSBC quote. See the full [Wise vs Revolut comparison for expats](/guides/finance/wise-vs-revolut-netherlands-2026/) for which to pick.
 
-While you are setting up the Dutch financial side, make sure your [bank account is sorted](/blog/best-bank-account-expats-netherlands-2026/) — most notaries refuse to wire keys-money to a foreign IBAN.
+While you are setting up the Dutch financial side, make sure your [bank account is sorted](/guides/finance/best-bank-account-expats-netherlands-2026/) — most notaries refuse to wire keys-money to a foreign IBAN.
 
 ## Step 8: Mortgage Insurance and Life Cover
 

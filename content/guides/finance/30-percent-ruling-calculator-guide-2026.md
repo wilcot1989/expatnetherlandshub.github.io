@@ -77,7 +77,7 @@ Before calculating savings, you need to confirm your salary meets the minimum. T
 
 **Why the gross figures are higher:** To find the minimum gross salary you need, divide the taxable threshold by 0.7. So for standard applicants: €46,107 ÷ 0.7 = €65,867 gross. The taxable minimum is set at this level because after the 30% ruling reduces your salary by 30%, you need to still be earning at least the threshold amount.
 
-These thresholds are updated by the Belastingdienst each year. The figures above are the 2026 values. Check the [Dutch tax return guide for expats](/guides/finance/dutch-tax-return-expats-guide-2026/) for how these thresholds interact with your annual tax filing.
+These thresholds are updated by the Belastingdienst each year. The figures above are the 2026 values. Check the [Dutch tax return guide for expats](/guides/finance/dutch-tax-return-how-to-file-2026/) for how these thresholds interact with your annual tax filing.
 
 **The 2024 cap:** Since 1 January 2024, the 30% ruling is capped at the "Balkenende norm" — the maximum salary for public sector executives — which sits at approximately €233,000 gross in 2026. If you earn above this level, the 30% exemption applies only up to that cap, not on the full salary. For most expats, this cap does not affect the calculation.
 
@@ -244,7 +244,7 @@ For an expat with €100,000 in foreign savings and investments, this can easily
 
 You elect this status on your annual Dutch tax return. It is not automatic — you have to actively choose it each year. If you have been filing returns without claiming partial non-resident status, it is worth reviewing with a tax adviser whether you can amend previous years. See [Box 3 tax and savings for expats](/guides/finance/dutch-box-3-tax-savings-expats-2026/) for the full picture.
 
-For context on how the Netherlands compares as a destination for expat wealth-building, the [Netherlands vs Germany expats comparison](/guides/finance/netherlands-vs-germany-expats-2026/) covers the tax treatment side by side.
+For context on how the Netherlands compares as a destination for expat wealth-building, the [Netherlands vs Germany expats comparison](/guides/integration/netherlands-vs-germany-expats-2026/) covers the tax treatment side by side.
 
 ---
 
@@ -264,7 +264,7 @@ Here is what changes simultaneously when the ruling expires:
 - Consider whether building assets in a Dutch pension structure (lijfrente) makes sense at this point
 - If you are considering leaving the Netherlands, the timing relative to the ruling's expiry matters significantly
 
-The [Dutch pension system for expats guide](/guides/finance/dutch-pension-system-expats-2026/) covers how pension structures interact with taxable income. For a broader view of post-ruling financial planning, [cost of living in the Netherlands 2026](/guides/finance/cost-of-living-netherlands-2026/) helps calibrate how much income you actually need.
+The [Dutch pension system for expats guide](/guides/finance/dutch-pension-system-expats-2026/) covers how pension structures interact with taxable income. For a broader view of post-ruling financial planning, [cost of living in the Netherlands 2026](/guides/housing/cost-of-living-netherlands-2026/) helps calibrate how much income you actually need.
 
 ---
 
@@ -274,7 +274,7 @@ One reason the 30% ruling is so valuable is that it leaves more money in your po
 
 If you are regularly transferring money out of the Netherlands — to a savings account, investment platform, or family members abroad — transfer costs add up. I use [Wise](https://go.expatnetherlandshub.com/wise?ref=/guides/finance/30-percent-ruling-calculator-guide-2026/) for international transfers from my Dutch account. The mid-market exchange rate and transparent fee structure mean I pay substantially less than the bank charges. On a regular €1,000 monthly transfer, that difference is often €20–€40 per transfer.
 
-See the [Wise review for expats](/guides/finance/wise-review-expats-2026/) for a full breakdown of what Wise costs versus bank transfers on common currency pairs including EUR/GBP, EUR/USD, and EUR/INR.
+See the [Wise review for expats](/guides/finance/wise-review-expats-netherlands-2026/) for a full breakdown of what Wise costs versus bank transfers on common currency pairs including EUR/GBP, EUR/USD, and EUR/INR.
 
 ---
 
@@ -332,7 +332,7 @@ The combination of these elements means the net saving is always slightly differ
 
 You can also cross-check your salary against Dutch benchmarks using the [salary comparison tool](/salary-comparison/) and browse all our tax and finance tools at [/tools/](/tools/).
 
-For those building a longer-term financial picture in the Netherlands, [investing in the Netherlands as an expat](/guides/finance/dutch-savings-investment-expats-2026/) covers what happens to savings and investment returns under the Dutch system both during and after the ruling period.
+For those building a longer-term financial picture in the Netherlands, [investing in the Netherlands as an expat](/guides/finance/investing-netherlands-expats-2026/) covers what happens to savings and investment returns under the Dutch system both during and after the ruling period.
 
 ---
 
@@ -380,4 +380,4 @@ The mechanics are not complicated once you run through the calculation once. The
 
 [Run your personalised calculation in our 30% ruling calculator](/tools/30-percent-ruling-calculator/) — it takes under a minute and gives you the monthly and annual net income difference for your specific salary and situation.
 
-If you are also planning your broader financial setup in the Netherlands, the guides on [Dutch taxes for expats](/guides/finance/dutch-tax-system-expats-guide-2026/), [pension planning](/guides/finance/dutch-pension-system-expats-2026/), and [investing as an expat](/guides/finance/dutch-savings-investment-expats-2026/) cover the wider picture. And if you are sending money internationally — whether remittances home or building savings in another currency — [Wise](https://go.expatnetherlandshub.com/wise?ref=/guides/finance/30-percent-ruling-calculator-guide-2026/) remains the most cost-effective option I have found for moving euros across borders.
+If you are also planning your broader financial setup in the Netherlands, the guides on [Dutch taxes for expats](/guides/finance/dutch-tax-system-expats-guide-2026/), [pension planning](/guides/finance/dutch-pension-system-expats-2026/), and [investing as an expat](/guides/finance/investing-netherlands-expats-2026/) cover the wider picture. And if you are sending money internationally — whether remittances home or building savings in another currency — [Wise](https://go.expatnetherlandshub.com/wise?ref=/guides/finance/30-percent-ruling-calculator-guide-2026/) remains the most cost-effective option I have found for moving euros across borders.

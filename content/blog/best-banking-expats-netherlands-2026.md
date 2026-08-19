@@ -1,8 +1,8 @@
 ---
 title: 'Dutch Banking Setup for Expats 2026: First Week Guide'
 date: 2026-04-29 08:00:00+02:00
-lastmod: 2026-08-07 10:00:00+02:00
-description: 'Setting up Dutch banking in your first week: which accounts to open before and after your BSN arrives, real fees, and the mistake that cost me EUR180.'
+lastmod: 2026-08-19 10:00:00+02:00
+description: 'Dutch banking for expats in 2026: which account to open before your BSN arrives, what Dutch banks now cost per month, and a first-week setup for EUR 0.'
 categories:
 - finance
 tags:
@@ -43,7 +43,7 @@ faq:
 - q: What is the cheapest way to send money from the Netherlands to the US?
   a: Wise is consistently the cheapest for EUR–USD transfers. On a €1,000 transfer to USD, Wise typically charges around €4–6 in fees (0.4–0.6%) compared to €20–40 at ABN AMRO or ING. Revolut is competitive if you transfer on weekdays (inter-bank rate) and stay within your plan's monthly limit. Both are dramatically cheaper than a traditional Dutch bank wire.
 - q: What is the monthly fee for Dutch banks in 2026?
-  a: ING charges €3.35/month for a basic current account. ABN AMRO charges €2.95/month for Studentenpakket or €5.40/month for Betaalpakket. Rabobank charges €3.70/month. KNAB charges €5/month. Bunq charges €2.99/month for its basic Easy Bank plan. Wise and N26 (standard) have no monthly fee. Triodos charges €6/month and ASN Bank charges €1.20/month for a basic account.
+  a: Dutch banks raised their prices on 1 January 2026. ING's OranjePakket costs €4.00/month and ABN AMRO's Basisbetaalpakket €4.30/month. Rabobank restructured its packages in January 2026 (Rabo Standaard), starting from around €3.60/month. ASN Bank — which absorbed SNS Bank and RegioBank — is around €4/month and is the cheapest full-service Dutch account. Bunq starts at €2.99/month for Easy Bank, Triodos is €5/month from age 26, and Wise and N26 (standard) have no monthly fee.
 - q: Which bank has the best English customer service?
   a: ABN AMRO Expat Banking has a dedicated English phone line and an expat-specific onboarding process. Bunq is entirely English-first (Dutch is secondary). N26 offers English live chat through the app. ING's main customer service is in Dutch, though English is available if you ask. Rabobank and ASN Bank are Dutch-primary. Wise's English support is good for digital queries but has no phone support.
 - q: Is Triodos Bank good for expats in the Netherlands?
@@ -56,7 +56,7 @@ products:
   price: '0.00'
   tag: International Transfers
 - name: Revolut
-  url: https://go.expatnetherlandshub.com/revolut?ref=/blog/best-banking-expats-netherlands-2026/
+  url: https://www.revolut.com/
   price: '0.00'
   tag: Multi-Currency Account
 - name: N26
@@ -176,7 +176,7 @@ Wise is not a Dutch bank — it is a UK-licensed e-money institution with a Euro
 
 **Best for:** Day-one banking before BSN, international transfers permanently, expats who want a low-cost EUR account alongside a Dutch bank.
 
-**[Open a Wise account →](https://go.expatnetherlandshub.com/wise)**
+<a href="https://go.expatnetherlandshub.com/wise?ref=/blog/best-banking-expats-netherlands-2026/" class="cta-affiliate" rel="nofollow noopener sponsored" target="_blank">Open a free Wise account (NL IBAN, no BSN) →</a>
 
 ---
 
@@ -188,7 +188,7 @@ Revolut is the most downloaded fintech in Europe, and for good reason: it does a
 
 **Best for:** Secondary card for travel and currency spending, not as a primary Dutch account.
 
-**[Open a Revolut account →](https://go.expatnetherlandshub.com/revolut)**
+You can sign up directly at [revolut.com](https://www.revolut.com/) — we have no commercial relationship with Revolut, so this is a plain link.
 
 ---
 
@@ -271,9 +271,9 @@ KNAB (spelled backwards: bank) is a Dutch online bank owned by Aegon. They targe
 
 ### 9. ASN Bank
 
-ASN Bank is a sustainability-focused Dutch bank (owned by De Volksbank group, same parent as SNS Bank). They finance renewable energy projects and social housing and publish annual reports on where every euro of deposits goes.
+ASN Bank is a sustainability-focused Dutch bank (part of De Volksbank, which merged SNS Bank and RegioBank into ASN in 2025). They finance renewable energy projects and social housing and publish annual reports on where every euro of deposits goes.
 
-**The honest trade-off:** ASN is the most ethical Dutch bank, but also one of the least practical for expats. No Apple Pay. Limited English. €1.20/month fee is the lowest of any Dutch bank, but the app and service quality reflect that.
+**The honest trade-off:** ASN is the most ethical Dutch bank, but also one of the least practical for expats: limited English in the app and support. At around €4/month it is priced in line with the big banks since the 2025 SNS/RegioBank merger.
 
 **Best for:** Long-term residents who prioritise ethics in their banking and are comfortable with Dutch-language service.
 
@@ -303,7 +303,7 @@ Triodos is a Dutch bank with a mission-driven model — they finance sustainable
 | **ING** | Yes | 4.5 ★ | €3.35 | 1.75% | Yes/Yes | Yes | Limited | Yes |
 | **Rabobank** | Yes | 4.3 ★ | €3.70 | 2.00% | Yes/Yes | Yes | Limited | Yes |
 | **KNAB** | Yes | 4.0 ★ | €5.00 | 1.50% | Yes/Yes | Yes | No | No |
-| **ASN Bank** | Yes | 3.8 ★ | €1.20 | 1.75% | No/No | Yes | No | Yes |
+| **ASN Bank** | Yes | 3.8 ★ | ±€4.00 | 1.75% | No/No | Yes | No | Yes |
 | **Triodos** | Yes | 3.9 ★ | €6.00 | 2.00% | Yes/Yes | Yes | No | Yes |
 
 *Bunq collects BSN during onboarding but does not require it before opening the account.
@@ -515,7 +515,7 @@ Yes with: Wise, Revolut, N26, bunq, ABN AMRO, ING, Rabobank, Triodos. No with: A
 Wise (€4–6 on €1,000) or Revolut (free within plan limits on weekdays). Never use your Dutch bank for international wires.
 
 **What is the monthly fee for Dutch banks in 2026?**
-ING €3.35, ABN AMRO €5.40, Rabobank €3.70, KNAB €5, bunq €2.99, Triodos €6, ASN €1.20.
+After the 1 January 2026 price rises: ING €4.00 (OranjePakket), ABN AMRO €4.30 (Basisbetaalpakket), Rabobank from around €3.60 (Rabo Standaard), ASN Bank around €4, bunq from €2.99, Triodos €5 from age 26. Wise and N26 standard: €0.
 
 **Which bank has the best English customer service?**
 ABN AMRO Expat Banking and bunq are the clear leaders for English support.
@@ -539,9 +539,11 @@ That is it. The rest is optimisation. Once these four accounts are in place, you
 
 I spent €180 in banking fees in my first three months. You do not have to.
 
+<a href="https://go.expatnetherlandshub.com/wise?ref=/blog/best-banking-expats-netherlands-2026/" class="cta-affiliate" rel="nofollow noopener sponsored" target="_blank">Open your Wise account before you fly →</a>
+
 ---
 
-*This article was last updated April 2026. Fee figures are correct to the best of my research as of that date but may change — always verify current fees directly with the bank before opening an account.*
+*This article was last updated August 2026. Fee figures are correct to the best of my research as of that date but may change — always verify current fees directly with the bank before opening an account.*
 
 ## Related articles
 

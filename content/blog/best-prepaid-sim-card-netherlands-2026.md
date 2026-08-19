@@ -117,7 +117,7 @@ The registration process works in English, though the website is not quite as po
 
 KPN runs the Netherlands' largest and most reliable mobile network. If you are living or working outside the major cities — in agricultural areas, smaller towns, or regularly travelling between cities by train — KPN Prepaid gives you consistently the best signal. Coverage reaches around 99.5% of the Netherlands.
 
-KPN Prepaid is also the clearest eSIM option for prepaid in the Netherlands. If you have an iPhone 14 or later, a recent Samsung, or another eSIM-compatible device, you can activate a KPN Prepaid eSIM entirely online — no waiting for physical delivery. This is a genuine advantage for expats arriving at Schiphol who want a Dutch number before leaving the airport. See the [first 30 days checklist](/guides/daily-life/first-30-days-netherlands-checklist-2026/) for the full list of things to sort out alongside your SIM card.
+KPN Prepaid is also the clearest eSIM option for prepaid in the Netherlands. If you have an iPhone 14 or later, a recent Samsung, or another eSIM-compatible device, you can activate a KPN Prepaid eSIM entirely online — no waiting for physical delivery. This is a genuine advantage for expats arriving at Schiphol who want a Dutch number before leaving the airport. See the [first 30 days checklist](/guides/legal/first-30-days-netherlands-expat-checklist-2026/) for the full list of things to sort out alongside your SIM card.
 
 KPN's prepaid bundles are slightly more expensive than Lycamobile's, but you get what you pay for: faster data, more consistent speed, and a well-maintained app in English. Bundles typically run €10–15/month for 5–10 GB with unlimited domestic calls and texts.
 
@@ -264,7 +264,7 @@ While you are spending your first weeks in cafes, libraries, co-working spaces, 
 
 A VPN solves this cleanly. I use [NordVPN](https://go.expatnetherlandshub.com/nordvpn?ref=/blog/best-prepaid-sim-card-netherlands-2026/) (from €3.09/month) to protect my data on public Wi-Fi while getting set up in a new place. The Dutch government's DigiD portal and your banking app transmit sensitive credentials — using them on unencrypted public networks is a risk that takes about five minutes to eliminate. NordVPN works on all major devices, supports up to 10 simultaneous connections, and does not throttle speeds on the Dutch servers.
 
-More on managing finances securely is covered in the [cost of living Netherlands 2026 guide](/guides/finance/cost-of-living-netherlands-2026/).
+More on managing finances securely is covered in the [cost of living Netherlands 2026 guide](/guides/housing/cost-of-living-netherlands-2026/).
 
 ---
 
@@ -291,7 +291,7 @@ To give you a sense of where prepaid fits into your overall budget, here is a qu
 - **Postpaid monthly contracts (sim-only):** €15–35/month (unlimited data plans from around €25–30)
 - **Postpaid with handset:** €30–60/month depending on phone model
 
-For a single expat living in Amsterdam, Rotterdam, or another major city, budget roughly €10–20/month for mobile costs in the first 3–6 months (prepaid), then €20–30/month once you switch to a postpaid contract. This sits within the broader cost-of-living picture covered in the [cost of living Netherlands 2026](/guides/finance/cost-of-living-netherlands-2026/) guide.
+For a single expat living in Amsterdam, Rotterdam, or another major city, budget roughly €10–20/month for mobile costs in the first 3–6 months (prepaid), then €20–30/month once you switch to a postpaid contract. This sits within the broader cost-of-living picture covered in the [cost of living Netherlands 2026](/guides/housing/cost-of-living-netherlands-2026/) guide.
 
 The Netherlands is mid-range for European mobile prices — cheaper than the UK and Scandinavia, slightly more expensive than some Eastern European markets. If you are coming from the US, Dutch mobile plans will feel very affordable for what you get.
 

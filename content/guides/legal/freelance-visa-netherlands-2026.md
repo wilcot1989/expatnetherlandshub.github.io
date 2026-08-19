@@ -101,7 +101,7 @@ The MVV (Machtiging tot Voorlopig Verblijf) is a provisional residence permit th
 This can happen before or after arriving, but the account must be in your name and registered to your Dutch address (or your intended Dutch address). Use Wise to transfer the funds cheaply.
 
 **Step 4: Register with the KvK**
-Register your business with the [KvK (Chamber of Commerce)](/guides/legal/kvk-registration-expat-guide-2026/) once you arrive in the Netherlands. This gives you a KvK number, which you'll need for the IND application. See the full [ZZP registration guide](/guides/work/freelancer-zzp-registration-netherlands-2026/) for exactly what to expect.
+Register your business with the [KvK (Chamber of Commerce)](/guides/work/kvk-registration-expat-guide-2026/) once you arrive in the Netherlands. This gives you a KvK number, which you'll need for the IND application. See the full [ZZP registration guide](/guides/work/freelancer-zzp-registration-netherlands-2026/) for exactly what to expect.
 
 **Step 5: Submit the IND application**
 Submit your residence permit application to the IND online or at an IND desk. You'll need: your passport, MVV (if applicable), KvK registration, business plan, and bank statement showing the €4,500 deposit.
@@ -227,7 +227,7 @@ Processing time is typically two to three months. The permit is valid for one ye
 
 ## EU and EEA Citizens: No Visa Needed
 
-If you hold a passport from an EU or EEA country (including Switzerland), you have the right to live and work in the Netherlands without a visa or residence permit. You do still need to register with your local municipality (gemeente) and register your business with the KvK, but no IND application is required. The [KvK registration process](/guides/legal/kvk-registration-expat-guide-2026/) takes about a day.
+If you hold a passport from an EU or EEA country (including Switzerland), you have the right to live and work in the Netherlands without a visa or residence permit. You do still need to register with your local municipality (gemeente) and register your business with the KvK, but no IND application is required. The [KvK registration process](/guides/work/kvk-registration-expat-guide-2026/) takes about a day.
 
 ---
 
@@ -264,7 +264,7 @@ Here's a summary of what you're looking at financially across all three routes:
 
 Health insurance is mandatory in the Netherlands. The [Dutch health insurance guide](/guides/health/dutch-health-insurance-guide-expats-2026/) covers what you need to know about choosing a provider as a self-employed person.
 
-Budget for [cost of living](/guides/finance/cost-of-living-netherlands-2026/) separately — accommodation, particularly in Amsterdam and the Randstad area, can be €1,500–2,500/month for a one-bedroom flat.
+Budget for [cost of living](/guides/housing/cost-of-living-netherlands-2026/) separately — accommodation, particularly in Amsterdam and the Randstad area, can be €1,500–2,500/month for a one-bedroom flat.
 
 ---
 
@@ -321,7 +321,7 @@ You can object (bezwaar) within four weeks, and if that fails, appeal to the cou
 
 Once your freelance visa is in place, the admin work isn't over — it's just shifting from IND bureaucracy to Dutch business admin. Here's what comes next:
 
-1. **KvK registration** — [full guide here](/guides/legal/kvk-registration-expat-guide-2026/)
+1. **KvK registration** — [full guide here](/guides/work/kvk-registration-expat-guide-2026/)
 2. **ZZP setup** — invoicing, VAT, and tax registration: [freelancer guide](/guides/work/freelancer-zzp-guide-netherlands-2026/)
 3. **Business bank account** — [Wise](https://go.expatnetherlandshub.com/wise?ref=/guides/legal/freelance-visa-netherlands-2026/) works well for international transactions; Dutch banks like Bunq and ING are options for a local account
 4. **30% ruling check** — if you were previously on a highly skilled migrant permit, check eligibility: [30% ruling guide](/guides/finance/30-percent-ruling-netherlands-2026/)
@@ -332,4 +332,4 @@ The [tools section](/tools/) has calculators for tax, net income, and cost of li
 
 Freelancing in the Netherlands as a non-EU citizen is absolutely doable. The process is slower and more document-heavy than for EU citizens, but it's not unreasonably hard if you prepare properly. The DAFT visa is genuinely one of the best self-employment immigration deals in Europe for Americans — the bar is low and the permit is stable. For everyone else, a strong points application gets you there too.
 
-If you're at the point of comparing the financial side, check the [Wise review for expats](/guides/finance/wise-review-expats-2026/) — for moving the €4,500 DAFT deposit or handling international client payments, the difference in fees versus a traditional bank adds up fast.
+If you're at the point of comparing the financial side, check the [Wise review for expats](/guides/finance/wise-review-expats-netherlands-2026/) — for moving the €4,500 DAFT deposit or handling international client payments, the difference in fees versus a traditional bank adds up fast.

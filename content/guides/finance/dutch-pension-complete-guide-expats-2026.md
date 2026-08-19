@@ -213,11 +213,11 @@ First, if you have an employer pension (Pillar 2), your jaarruimte is reduced si
 
 Second, if you leave the Netherlands with a lijfrente that has not yet paid out, you face complex cross-border tax issues. The Dutch Belastingdienst may claim the deducted contributions back if the product does not meet the requirements of your new country's tax authority.
 
-**For most expats, investing in Box 3 is simpler and more flexible** than Pillar 3 products. Box 3 (savings and investment income) is taxed on a deemed return basis, not on actual gains, which has its own advantages and complications. See my [Dutch savings and investment guide for expats](/guides/finance/dutch-savings-investment-expats-2026/) for more on Box 3 strategies.
+**For most expats, investing in Box 3 is simpler and more flexible** than Pillar 3 products. Box 3 (savings and investment income) is taxed on a deemed return basis, not on actual gains, which has its own advantages and complications. See my [Dutch savings and investment guide for expats](/guides/finance/investing-netherlands-expats-2026/) for more on Box 3 strategies.
 
 If you are a ZZP or self-employed expat with no employer pension and you plan to stay in the Netherlands long-term, Pillar 3 is worth exploring properly with a financial advisor. The tax deduction is real and meaningful if your jaarruimte is large.
 
-For broader context on Dutch tax, see my [Dutch tax return guide for expats](/guides/finance/dutch-tax-return-expats-guide-2026/).
+For broader context on Dutch tax, see my [Dutch tax return guide for expats](/guides/finance/dutch-tax-return-how-to-file-2026/).
 
 ---
 
@@ -262,7 +262,7 @@ The Netherlands has tax treaties with most countries, and these treaties determi
 
 The practical implication: before you retire abroad, get advice from a tax advisor who knows both Dutch tax and the tax system of your country of residence. Getting this wrong means paying tax twice — or not paying where required and facing penalties later.
 
-For detailed tax implications, see my [Dutch tax return guide for expats](/guides/finance/dutch-tax-return-expats-guide-2026/) and my [guide on the 30% ruling](/guides/finance/30-percent-ruling-netherlands-2026/).
+For detailed tax implications, see my [Dutch tax return guide for expats](/guides/finance/dutch-tax-return-how-to-file-2026/) and my [guide on the 30% ruling](/guides/finance/30-percent-ruling-netherlands-2026/).
 
 ### Lump Sum Options for Small Pensions
 
@@ -367,7 +367,7 @@ Think of it this way: if you spend 15 years in the Netherlands, you accumulate:
 - Employer pension: perhaps €300–400/month depending on salary and fund
 - Total from Dutch sources: ~€700–800/month
 
-If that is part of a broader international retirement picture, it can be a meaningful contribution. If it is your only source, it is not enough for most European countries' cost of living. Use the [cost of living guide](/guides/finance/cost-of-living-netherlands-2026/) to calibrate what retirement in the Netherlands would actually require.
+If that is part of a broader international retirement picture, it can be a meaningful contribution. If it is your only source, it is not enough for most European countries' cost of living. Use the [cost of living guide](/guides/housing/cost-of-living-netherlands-2026/) to calibrate what retirement in the Netherlands would actually require.
 
 ---
 

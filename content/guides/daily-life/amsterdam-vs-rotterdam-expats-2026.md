@@ -78,7 +78,7 @@ Rotterdam is genuinely different. A one-bedroom in areas like Kralingen, Hillege
 
 Over a year, that difference is €7,200–9,600 in rent alone. Over two years, that is the equivalent of a decent used car or a significant emergency fund.
 
-For more detail on what you can expect to pay across different Dutch cities, my [cost of living Netherlands guide](/guides/finance/cost-of-living-netherlands-2026/) breaks it down neighbourhood by neighbourhood.
+For more detail on what you can expect to pay across different Dutch cities, my [cost of living Netherlands guide](/guides/housing/cost-of-living-netherlands-2026/) breaks it down neighbourhood by neighbourhood.
 
 ### Groceries and Supermarkets
 
@@ -128,7 +128,7 @@ The dominant sectors are:
 
 If your career is in any of these sectors, Rotterdam is arguably the better job market — not because Amsterdam lacks these roles, but because Rotterdam has the critical mass that creates deeper career progression opportunities.
 
-For finding roles, the [best job boards for expats in the Netherlands](/guides/work/best-job-boards-netherlands-expats-2026/) covers the platforms that actually work in both cities.
+For finding roles, the [best job boards for expats in the Netherlands](/blog/best-job-boards-netherlands-expats-2026/) covers the platforms that actually work in both cities.
 
 ---
 
@@ -334,6 +334,6 @@ The choice usually comes down to four questions:
 3. **Do you want a large expat bubble or faster local integration?** Amsterdam makes it easy to stay international. Rotterdam gently pushes you toward the Netherlands.
 4. **What kind of city atmosphere suits you?** Historic, dense, tourist-heavy but beautiful versus modern, bold, quieter, and more grounded.
 
-Both cities have excellent public transport, good food, strong job markets in their respective sectors, international communities, and everything you need to build a good life. Use this guide, check the [cost of living details](/guides/finance/cost-of-living-netherlands-2026/), look at the [salary comparison](/salary-comparison/) for your sector, and make the decision with real numbers in hand rather than impressions.
+Both cities have excellent public transport, good food, strong job markets in their respective sectors, international communities, and everything you need to build a good life. Use this guide, check the [cost of living details](/guides/housing/cost-of-living-netherlands-2026/), look at the [salary comparison](/salary-comparison/) for your sector, and make the decision with real numbers in hand rather than impressions.
 
 Wherever you land — welcome to the Netherlands.

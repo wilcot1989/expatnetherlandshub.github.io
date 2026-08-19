@@ -403,7 +403,7 @@ For expats, I consistently recommend **[Wise Business](https://go.expatnetherlan
 
 If you work with international clients or receive payments in non-EUR currencies, Wise Business can save you hundreds of euros per year compared to traditional bank conversion rates. You can use it alongside a Dutch bank account for iDEAL payments to Dutch clients.
 
-For a full comparison of business banking options, the [best bank account for expats guide](/guides/finance/best-bank-account-expats-netherlands-2026/) and the dedicated [Wise review](/guides/finance/wise-review-expats-2026/) cover the details.
+For a full comparison of business banking options, the [best bank account for expats guide](/guides/finance/best-bank-account-expats-netherlands-2026/) and the dedicated [Wise review](/guides/finance/wise-review-expats-netherlands-2026/) cover the details.
 
 ---
 
@@ -415,7 +415,7 @@ The 30% ruling applies to your employment income from your Dutch employer. Incom
 
 There are also hours-worked considerations: to claim the self-employment deductions (zelfstandigenaftrek), you must work at least 1,225 hours per year in your business. If your side business occupies relatively few hours, verify whether you meet this threshold before claiming the deduction.
 
-For the full picture of how the 30% ruling interacts with other income, see the [30% ruling guide](/guides/finance/30-percent-ruling-netherlands-2026/). For the tax implications of self-employment income, the [Dutch tax return guide for expats](/guides/finance/dutch-tax-return-expats-guide-2026/) is important reading.
+For the full picture of how the 30% ruling interacts with other income, see the [30% ruling guide](/guides/finance/30-percent-ruling-netherlands-2026/). For the tax implications of self-employment income, the [Dutch tax return guide for expats](/guides/finance/dutch-tax-return-how-to-file-2026/) is important reading.
 
 ---
 
@@ -468,9 +468,9 @@ The KvK registration is not a hurdle — it is a starting point. Once you unders
 
 The essentials: book your appointment at kvk.nl, bring your ID and BSN, pay €75.75, and walk out with an 8-digit number that makes you a legitimate Dutch business owner. Your BTW number follows by post within two weeks. After that, open a business bank account, set up your accounting, and start trading.
 
-The KvK is the beginning of the Dutch business journey, not the complicated part. What comes next — taxes, VAT, clients, insurance, deductions — takes more thought. But you have built-in tools to help: use the [KvK search](https://kvk.nl/zoeken/) for due diligence, the [30% ruling guide](/guides/finance/30-percent-ruling-netherlands-2026/) for tax optimisation, the [Dutch tax return guide](/guides/finance/dutch-tax-return-expats-guide-2026/) for filing season, and the [interactive tools](/tools/) on this site for calculators and checklists that make Dutch bureaucracy less intimidating.
+The KvK is the beginning of the Dutch business journey, not the complicated part. What comes next — taxes, VAT, clients, insurance, deductions — takes more thought. But you have built-in tools to help: use the [KvK search](https://kvk.nl/zoeken/) for due diligence, the [30% ruling guide](/guides/finance/30-percent-ruling-netherlands-2026/) for tax optimisation, the [Dutch tax return guide](/guides/finance/dutch-tax-return-how-to-file-2026/) for filing season, and the [interactive tools](/tools/) on this site for calculators and checklists that make Dutch bureaucracy less intimidating.
 
-If you are still working out your freelance setup more broadly, the [ZZP freelancer guide](/guides/work/freelancer-zzp-guide-netherlands-2026/) and the [KvK registration expat guide](/guides/legal/kvk-registration-expat-guide-2026/) cover the full picture.
+If you are still working out your freelance setup more broadly, the [ZZP freelancer guide](/guides/work/freelancer-zzp-guide-netherlands-2026/) and the [KvK registration expat guide](/guides/work/kvk-registration-expat-guide-2026/) cover the full picture.
 
 ---
 

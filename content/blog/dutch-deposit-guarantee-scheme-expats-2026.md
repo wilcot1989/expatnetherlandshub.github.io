@@ -2,7 +2,7 @@
 title: "Dutch Deposit Guarantee Scheme Explained for Expats 2026"
 description: "How the Dutch deposit guarantee scheme (depositogarantiestelsel) protects your money in 2026 — the €100,000 limit, joint accounts, one licence covering several brands, what is not covered, and how neobanks and payment providers differ."
 date: 2026-08-26
-lastmod: 2026-08-26T10:00:00+01:00
+lastmod: 2026-08-19 12:00:00+02:00
 author: "Sarah van den Berg"
 author_bio: "Expat coach and writer at ExpatNetherlandsHub.com"
 categories: ["finance"]
@@ -18,7 +18,7 @@ faq:
   - q: "Do joint accounts get double protection?"
     a: "Yes. Each holder of a joint account is covered separately, so a joint account held by two people is protected up to €200,000 provided neither holder has other deposits at the same bank. If either of you also holds a personal account there, all of your eligible deposits at that bank are added together against your individual €100,000 limit."
   - q: "Does the guarantee apply per brand or per banking licence?"
-    a: "Per licence. Several familiar Dutch brands sit under one banking licence — for example de Volksbank holds a single licence covering SNS, ASN Bank, RegioBank and BLG Wonen. Balances across those brands are added together for one €100,000 limit. If you are deliberately spreading savings above €100,000, check which licence each brand sits under rather than assuming different names mean different banks."
+    a: "Per licence. Several familiar Dutch brands sit under one banking licence — for example de Volksbank holds a single licence covering ASN Bank and BLG Wonen — the SNS and RegioBank brands were folded into ASN Bank on 1 July 2025 and 1 December 2025. Balances across the brands under one licence are added together for one €100,000 limit. If you are deliberately spreading savings above €100,000, check which licence each brand sits under rather than assuming different names mean different banks."
   - q: "How quickly would I get my money back?"
     a: "The scheme is designed to give depositors access to their guaranteed money within seven working days of the bank being declared unable to repay. Depositors also have five years in which to claim. In practice DNB uses the bank's own records to pay out, which is one reason your address and identification details at the bank should be current."
   - q: "Are Revolut, N26 and similar accounts covered by the Dutch scheme?"
@@ -65,7 +65,7 @@ Two consequences worth internalising:
 
 **It is per person, not per account.** If you hold a current account with €20,000, an instant-access savings account with €60,000 and a term deposit with €40,000 at the same bank, that is €120,000 of eligible deposits against one €100,000 limit. The €20,000 above the ceiling is not guaranteed.
 
-**It is per bank — meaning per banking licence.** This is the trap for anyone deliberately spreading money. Several well-known Dutch brands operate under a single licence. De Volksbank holds one banking licence covering **SNS, ASN Bank, RegioBank and BLG Wonen**; balances at those brands are aggregated for one €100,000 limit. Splitting €150,000 between SNS and ASN Bank does not double your protection — it leaves €50,000 unguaranteed. Before spreading savings, check the licence, not the logo. Banks publish this in their depositor information sheet, and the sheet is the authoritative document for your specific provider.
+**It is per bank — meaning per banking licence.** This is the trap for anyone deliberately spreading money. Several well-known Dutch brands operate under a single licence. De Volksbank holds one banking licence covering **ASN Bank and BLG Wonen** (the SNS brand was folded into ASN Bank on 1 July 2025 and RegioBank followed on 1 December 2025); balances at those brands are aggregated for one €100,000 limit. Splitting €150,000 between ASN Bank and BLG Wonen does not double your protection — it leaves €50,000 unguaranteed. Before spreading savings, check the licence, not the logo. Banks publish this in their depositor information sheet, and the sheet is the authoritative document for your specific provider.
 
 **There is no lower threshold.** Protection runs from one cent up to the ceiling.
 
@@ -160,7 +160,7 @@ Each holder is covered separately, so a two-person joint account can be protecte
 
 ### Does the guarantee apply per brand or per banking licence?
 
-Per licence. De Volksbank's single licence covers SNS, ASN Bank, RegioBank and BLG Wonen, and balances across those brands are added together against one €100,000 ceiling. Always check the licence before spreading savings.
+Per licence. De Volksbank's single licence covers ASN Bank (which absorbed the SNS and RegioBank brands in 2025) and BLG Wonen, and balances across those brands are added together against one €100,000 ceiling. Always check the licence before spreading savings.
 
 ### How quickly would I get my money back?
 

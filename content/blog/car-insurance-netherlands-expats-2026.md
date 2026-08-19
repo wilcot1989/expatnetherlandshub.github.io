@@ -1,8 +1,8 @@
 ---
 title: Car Insurance Netherlands for Expats 2026
 date: 2026-03-22 10:00:00+01:00
-lastmod: 2026-04-23 10:00:00+01:00
-description: WA, WA+, allrisk explained. How to transfer your no-claims bonus from abroad, average costs, and the best providers for expats in the Netherlands in 2026.
+lastmod: 2026-08-19 10:00:00+02:00
+description: "What car insurance costs in the Netherlands in 2026, WA vs WA+ vs allrisk, transferring no-claims years, and how to find cheap cover that pays out."
 categories:
 - daily-life
 tags:
@@ -16,6 +16,10 @@ keywords:
 - WA allrisk Netherlands
 - no claims bonus transfer Netherlands
 - auto verzekering expat
+- car insurance in netherlands
+- cheapest car insurance netherlands
+- car insurance cost netherlands
+- schadevrije jaren expat
 affiliate: true
 author: Sarah van den Berg
 author_bio: Expat coach and writer at ExpatNetherlandsHub.com
@@ -26,14 +30,22 @@ faq:
 - q: Can I transfer my no-claims bonus from abroad to the Netherlands?
   a: Yes, but the process depends on your country of origin and the insurer. Most major Dutch insurers accept a no-claims discount statement (schadevrije jaren verklaring) from foreign insurers, though they may apply it differently. A UK or Belgian no-claims history is generally accepted readily. Some non-EU countries face more scepticism and may need additional documentation. Each insurer has its own policy; always ask explicitly before assuming your full years of bonus will be recognised.
 - q: How much does car insurance cost in the Netherlands for expats?
-  a: 'Car insurance costs in the Netherlands vary significantly based on coverage type, vehicle, driver age, and no-claims history. As a rough guide: WA (basic third-party) costs EUR 30–70 per month for a typical family car; WA+ (WA plus limited casco) costs EUR 50–100 per month; Allrisk (comprehensive) costs EUR 80–180 per month. Newly arrived expats without a recognised Dutch no-claims history typically pay at the higher end. Younger drivers (under 25) pay substantially more. Using a comparison tool like Independer typically saves EUR 15–50 per month versus going directly to a single insurer.'
+  a: 'Car insurance costs in the Netherlands vary significantly based on coverage type, vehicle, driver age, and no-claims history. As a rough guide: WA (basic third-party) costs EUR 30–70 per month for a typical family car; WA+ (WA plus limited casco) costs EUR 50–100 per month; Allrisk (comprehensive) costs EUR 80–180 per month. Newly arrived expats without a recognised Dutch no-claims history typically pay at the higher end. Younger drivers (under 25) pay substantially more. Comparing all insurers at once, rather than buying direct from one, is the biggest single lever on what you pay.'
 - q: What is the difference between WA, WA+, and allrisk in the Netherlands?
   a: 'WA (Wettelijke Aansprakelijkheid) is basic third-party liability — it covers damage you cause to others'' property and injuries to third parties. It does not cover damage to your own car. WA+ (also called WA Beperkt Casco or WA Limited) adds limited own-damage coverage: typically fire, theft, storm, hail, glass breakage, and collision with animals. It does not cover collision damage to your own vehicle. Allrisk (also called WA Volledig Casco or WA All In) adds comprehensive coverage — it covers collision damage to your own vehicle regardless of fault, vandalism, and most other risks. Allrisk is the most expensive but covers you most completely.'
 - q: Can I insure a car in the Netherlands with a foreign driving licence?
   a: Yes, in most cases. EU/EEA driving licences are fully recognised in the Netherlands with no exchange required. Non-EU licences from countries with exchange agreements (including the UK post-Brexit, US, Canada, Australia, Japan, and others) can generally be exchanged for a Dutch licence. During the exchange process and for a period on a foreign licence, most Dutch insurers will accept your foreign licence, though some may apply a surcharge or limit no-claims recognition. Read my [driving licence exchange guide](/guides/daily-life/exchange-driving-license-netherlands-2026/) for the full process.
 - q: How does the Dutch no-claims ladder (schadevrije jaren) work?
   a: The schadevrije jaren system gives you a discount on your premium for each claim-free year. After one claim-free year you are placed at step 1; after five years at step 5, and so on, up to around step 14–15 with most insurers, where the maximum discount (typically 60–75% off the base premium) applies. Each time you make a fault claim, you are moved back several steps and your premium increases. When switching insurers, your schadevrije jaren follow you via a central database (Roy-Data) that all Dutch insurers query. Foreign years are added to your starting step when your foreign history is accepted.
+- q: Where can I get the cheapest car insurance with good coverage in the Netherlands?
+  a: 'There is no single cheapest Dutch insurer, because premiums are priced on your postcode, car, age, annual mileage and schadevrije jaren. The method that works: pick the coverage level your car''s value justifies (allrisk above roughly EUR 15,000 or under five years old, WA+ between EUR 5,000 and EUR 15,000, WA below that), then compare the whole market in one pass instead of buying direct from one insurer, make sure your foreign claim-free years are formally recognised, set the eigen risico (excess) at an amount you could pay tomorrow, and strip add-ons you already have elsewhere. Re-compare at every renewal — Dutch insurers price new customers more aggressively than existing ones.'
+- q: How much is car insurance in the Netherlands per month?
+  a: Geld.nl's 2026 comparison monitor reports average monthly premiums of EUR 109.57 for WA, EUR 100.17 for WA+ and EUR 111.49 for allrisk in the first half of 2026, after increases of 11.6% to 17.9% over 2025. Those averages include young drivers and high-risk postcodes. An experienced driver with recognised claim-free years pays below them; a newly arrived expat whose foreign history has not been recognised pays above them.
 products:
+- name: Independer (car insurance comparison)
+  url: https://go.expatnetherlandshub.com/independer-auto?ref=/blog/car-insurance-netherlands-expats-2026/
+  price: '0.00'
+  tag: Compare all Dutch insurers
 - name: SafetyWing
   url: https://go.expatnetherlandshub.com/safetywing?ref=/blog/car-insurance-netherlands-expats-2026/
   price: '0.00'
@@ -51,7 +63,9 @@ This guide is what I wish I had had. It covers the three coverage types in plain
 
 💡 *Looking for a complete banking comparison? Read [Best banking for expats in the Netherlands 2026](/blog/best-banking-expats-netherlands-2026/) — covers ABN, ING, Bunq, Wise, Revolut & 5 others by expat use case.*
 
-> **Quick answer:** WA, WA+, allrisk explained. How to transfer your no-claims bonus from abroad, average costs, and the best providers for expats in the Netherlands in 2026.
+> **Direct answer:** Car insurance in the Netherlands comes in three levels. **WA** (third-party liability) is legally mandatory for every registered vehicle. **WA+** adds theft, fire, hail and glass cover. **Allrisk** adds collision damage to your own car whatever the cause. Across all driver profiles, Geld.nl's 2026 comparison data puts the average premium at about EUR 110 per month for WA, EUR 100 for WA+ and EUR 111 for allrisk — premiums rose 12–18% during 2026, so old quotes are misleading. Newly arrived expats pay at the top of those ranges until their foreign claim-free years (schadevrije jaren) are recognised. The cheapest cover that still pays out properly is usually WA+ on a car worth under about EUR 15,000, and allrisk above that — bought after comparing every Dutch insurer at once rather than going direct to one.
+>
+> <a href="https://go.expatnetherlandshub.com/independer-auto?ref=/blog/car-insurance-netherlands-expats-2026/" target="_blank" rel="nofollow noopener sponsored" class="cta-affiliate">Compare all Dutch car insurers on Independer →</a>
 
 ## The Dutch Car Insurance System at a Glance
 
@@ -186,12 +200,36 @@ These figures are approximate for 2026 and based on a typical family car (mid-ra
 | **WA+** | EUR 70–110/month | EUR 55–85/month | EUR 40–70/month |
 | **Allrisk** | EUR 110–180/month | EUR 85–140/month | EUR 65–120/month |
 
+**2026 market context:** premiums rose sharply this year. Geld.nl, which publishes a monitor based on its own comparison volume, reports average monthly premiums of EUR 109.57 for WA, EUR 100.17 for WA+ and EUR 111.49 for allrisk in the first half of 2026 — increases of 11.6%, 17.9% and 12.2% respectively over 2025. Those averages cover all driver profiles, including young drivers and city dwellers, so they sit above the figures a 35-year-old with recognised claim-free years in a mid-sized town would be quoted. The direction of travel is what matters: if you have not re-compared since 2025, the renewal quote in your inbox is probably not competitive.
+
 Premium factors that raise your cost:
 - **Vehicle age <3 years**: Higher theft risk
 - **Driver age <25**: Significantly higher (often 2x–3x)
 - **City of residence**: Amsterdam and Rotterdam have higher theft rates; premiums reflect this
 - **Annual mileage**: Lower mileage can reduce premium
 - **Excess (eigen risico)**: Choosing a higher voluntary excess reduces premium
+
+---
+
+## Where Can I Get the Cheapest Car Insurance With Good Coverage?
+
+The honest answer is that there is no single cheapest insurer in the Netherlands. Dutch insurers price by postcode, car, age, mileage and schadevrije jaren, so the cheapest provider for your neighbour is often not the cheapest for you. What does work is a repeatable method.
+
+**1. Pick the right coverage level first, not the lowest price.** Cheap cover that does not pay out is not cheap. The rule of thumb Dutch insurers themselves use: allrisk while your car is worth more than roughly EUR 15,000 or is under five years old, WA+ between roughly EUR 5,000 and EUR 15,000, WA below that. Downgrading from allrisk to WA on a EUR 25,000 car saves you EUR 50 a month and exposes you to a EUR 25,000 loss.
+
+**2. Compare every insurer in one pass.** Direct quotes only tell you what one company thinks. A comparison run covers the whole mainstream market in about ten minutes, and it is the only way to see whether your current premium is mid-market or an outlier.
+
+<a href="https://go.expatnetherlandshub.com/independer-auto?ref=/blog/car-insurance-netherlands-expats-2026/" target="_blank" rel="nofollow noopener sponsored" class="cta-affiliate">Compare car insurance quotes on Independer →</a>
+
+**3. Get your schadevrije jaren counted before you buy.** This is the biggest single discount available to you and the one expats most often leave on the table. Ask each insurer, in writing, how many years of your foreign history they will recognise — the difference between step 0 and step 5 is commonly 35–45% of the premium.
+
+**4. Raise the eigen risico (excess) deliberately.** A higher voluntary excess lowers the premium. Set it at an amount you could actually pay tomorrow without borrowing, and pocket the difference.
+
+**5. Check what you are paying twice for.** Breakdown assistance duplicates ANWB membership. Legal assistance duplicates a standalone rechtsbijstandverzekering. Passenger accident cover overlaps with some employer or disability policies. Strip the add-ons you already own.
+
+**6. Re-compare at every renewal.** Dutch insurers price new customers more aggressively than existing ones, and 2026's increases were not applied evenly across the market.
+
+**What to check before you click "buy" on the cheapest result:** whether repairs go through a contracted garage network (usually faster), whether the policy covers you elsewhere in Europe, how a claim affects your schadevrije jaren, and the notice period for cancellation. A policy that is EUR 4 a month cheaper but pays out on original-parts repairs only at a workshop 40 kilometres away is a poor trade.
 
 ---
 
@@ -229,7 +267,7 @@ Independer is the largest and most detailed insurance comparison platform in the
 4. Compare the results — pay attention to the excess (eigen risico) as well as the monthly premium
 5. Click through to the insurer's site to complete the application
 
-Independer typically shows EUR 15–50 per month cheaper options than going directly to a single insurer for an equivalent policy. The comparison takes about 10 minutes.
+Because it queries every mainstream insurer at once, Independer regularly surfaces cheaper equivalent policies than you would find by going direct to one insurer — how much cheaper depends entirely on your car, postcode and schadevrije jaren, so treat any headline saving figure with scepticism and compare your own quotes. The comparison takes about 10 minutes.
 
 ---
 
@@ -303,6 +341,14 @@ WA = third-party liability only (legal minimum). WA+ = WA plus limited own-damag
 
 Yes. EU licences are fully recognised. Non-EU licences from countries with exchange agreements are generally accepted. Some insurers may apply a surcharge or limit no-claims recognition on a foreign licence.
 
+**Where can I get the cheapest car insurance with good coverage?**
+
+There is no single cheapest Dutch insurer — pricing depends on your postcode, car, age and claim-free years. The reliable method is: choose the coverage level your car's value justifies (allrisk above roughly EUR 15,000, WA+ between EUR 5,000 and EUR 15,000, WA below), compare the whole market in one pass rather than going direct to one insurer, make sure your foreign schadevrije jaren are counted, set the eigen risico at a level you could actually pay, and re-compare every renewal.
+
+**How much is car insurance in the Netherlands per month?**
+
+Geld.nl's 2026 comparison monitor puts the average at around EUR 110 per month for WA, EUR 100 for WA+ and EUR 111 for allrisk, after increases of 12–18% during 2026. Those averages include young and city drivers; an experienced driver with recognised claim-free years in a mid-sized town pays less, a newly arrived expat with no recognised history pays more.
+
 **How does the Dutch no-claims ladder work?**
 
 Each claim-free year moves you up a step, increasing your discount. A fault claim drops you back several steps. The Roy-Data system tracks your Dutch history automatically across insurers.
@@ -321,7 +367,7 @@ If you are already insured and want to switch, the process is straightforward. M
 - After one or two claim-free years push you up the ladder significantly
 - When your circumstances change (more experience, lower mileage, new address with lower theft risk)
 
-Using Independer at renewal each year takes about 10 minutes and regularly finds cheaper equivalent coverage. I have saved EUR 20–40 per month doing this after my first year here. The Dutch market is competitive and insurers price for new customers more aggressively than for renewals.
+Running a comparison at renewal each year takes about 10 minutes and regularly finds cheaper equivalent coverage. The Dutch market is competitive and insurers price new customers more aggressively than renewals, so the policy you bought two years ago is rarely still the cheapest one available to you.
 
 ---
 

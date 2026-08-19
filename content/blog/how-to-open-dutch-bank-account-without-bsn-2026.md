@@ -125,7 +125,7 @@ That's it. No BSN. No municipality appointment. No waiting.
 - **iDEAL**: This is the big one. iDEAL is the dominant online payment system for Dutch webshops — Bol.com, Coolblue, train tickets on NS.nl, government payments. iDEAL only works with NL IBANs. Your Belgian Wise IBAN will not work for iDEAL payments. This is a meaningful gap in day-to-day Dutch life.
 - **Some Dutch direct debits**: A handful of Dutch service providers still configure their systems to accept only NL IBANs for automatic debits. This is becoming less common but it still happens.
 
-For a deeper comparison of Wise against other options, I've covered it in [/blog/wise-vs-revolut-expats-2026/](/blog/wise-vs-revolut-expats-2026/) and in the broader banking roundup at [/blog/best-banking-expats-netherlands-2026/](/blog/best-banking-expats-netherlands-2026/).
+For a deeper comparison of Wise against other options, I've covered it in [/guides/finance/wise-vs-revolut-netherlands-2026/](/guides/finance/wise-vs-revolut-netherlands-2026/) and in the broader banking roundup at [/blog/best-banking-expats-netherlands-2026/](/blog/best-banking-expats-netherlands-2026/).
 
 ---
 

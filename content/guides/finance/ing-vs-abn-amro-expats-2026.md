@@ -1,8 +1,8 @@
 ---
 title: 'ING vs ABN AMRO for Expats 2026: Which Is Better?'
 date: 2026-03-07 10:00:00+01:00
-lastmod: 2026-04-23 10:00:00+01:00
-description: ING or ABN AMRO? I tested both as an expat. Real fees, English app quality, mortgage options, and which bank actually serves expats better.
+lastmod: 2026-08-19 10:00:00+02:00
+description: 'ING vs ABN AMRO for expats in 2026: ING costs EUR 4.00/month, ABN AMRO EUR 4.30. Compare English app, expat mortgage desk and transfer fees.'
 categories:
 - finance
 tags:
@@ -36,7 +36,7 @@ faq:
 - q: Can I open an ING or ABN AMRO account without a BSN?
   a: No, both ING and ABN AMRO require a BSN (burgerservicenummer) to open an account. You need to register at your local gemeente first. If you need a bank account before getting your BSN, consider Wise which offers a European IBAN without a BSN.
 - q: Which bank has lower fees, ING or ABN AMRO?
-  a: Both charge approximately EUR 2.45 per month for a basic current account. The real difference is in international transfer fees, where both are expensive (EUR 5-15 per transfer). For international transfers, we recommend using Wise alongside either bank.
+  a: Since 1 January 2026 ING's OranjePakket costs EUR 4.00 per month and ABN AMRO's Basisbetaalpakket EUR 4.30 per month, so the difference is 30 cents. The real difference is in international transfer fees, where both are expensive (EUR 5-15 per transfer plus an exchange rate markup). For international transfers, we recommend using Wise alongside either bank.
 - q: Can I get a mortgage from ING or ABN AMRO as an expat?
   a: Yes, both banks offer mortgages to expats, including those with a 30% ruling. ABN AMRO is often considered slightly more expat-friendly for mortgages due to their international desk, though ING has competitive rates. Both require a permanent employment contract or proof of stable income.
 - q: Who is this for?
@@ -78,10 +78,10 @@ If you are still unsure after reading this, try our [Bank Account Chooser tool](
 
 | Feature | ING | ABN AMRO |
 |---|---|---|
-| Monthly fee (basic current account) | €2.45 | €2.45 |
-| Monthly fee (premium/Plus account) | €5.99 | €6.50 |
+| Monthly fee (basic package, from 1 Jan 2026) | €4.00 (OranjePakket) | €4.30 (Basisbetaalpakket) |
+| Monthly fee (larger package) | €7.00 (OranjePakket Extra) | Higher tiers available |
 | Debit card included | Yes | Yes |
-| Credit card (separate) | From €2.08/month | From €2.25/month |
+| Credit card (separate) | From €2.00/month | Separate monthly fee applies |
 | English app | Yes (fully English) | Yes (mostly English) |
 | English website | Yes | Yes |
 | English telephone support | Yes | Yes (international desk) |
@@ -188,14 +188,11 @@ The ABN AMRO website also has a section in English, and their "New to the Nether
 
 ### Monthly Account Fees
 
-Both banks charge €2.45 per month for a basic Betaalrekening (current account) with a standard debit card. There is no way around this — Dutch banks do not offer free current accounts for adults the way some challenger banks do.
+Both banks raised their prices on 1 January 2026. ING's OranjePakket now costs €4.00 per month (€3.55 with the discount tier), and ABN AMRO's Basisbetaalpakket costs €4.30 per month — a 16% increase on the €3.70 it cost in 2025. There is no way around this: Dutch banks do not offer free current accounts for adults the way some challenger banks do.
 
-If you want additional features, both banks offer premium tiers:
+Both banks also sell larger packages with extras such as insurance add-ons and priority service — ING's OranjePakket Extra is €7.00 per month, for example. I rarely recommend these to expats unless you specifically need the included insurance. The basic package does everything you need.
 
-- **ING Oranje Pakket:** €5.99/month — includes basic insurance, travel insurance extras, and some discount deals
-- **ABN AMRO Comfort Pakket:** €6.50/month — includes some insurance add-ons and priority service
-
-I rarely recommend these packages to expats unless you have a specific reason to need the included insurance. The basic account does everything you need.
+On the monthly fee alone the two banks are within 30 cents of each other, so this should not be your deciding factor. What actually costs you money is international transfers, covered below.
 
 ### Debit Card & ATM Fees
 
@@ -227,8 +224,8 @@ For a full comparison of international transfer options, see my guide on [Wise v
 
 Neither ING nor ABN AMRO includes a credit card with the basic account. You apply separately:
 
-- **ING credit card:** from €2.08/month for a basic Mastercard with a €2,500 limit
-- **ABN AMRO credit card:** from €2.25/month for a basic Mastercard
+- **ING credit card:** €2.00/month for a standard Mastercard (raised from €1.90 in January 2026)
+- **ABN AMRO credit card:** a separate monthly fee on top of your payment package
 
 Credit limits for expats can be lower initially, particularly if you have limited Dutch credit history. Both banks typically offer a starter limit of €1,500–€2,500 and increase it after 6–12 months of responsible use. Getting a credit card in the Netherlands as an expat is also worth doing for one practical reason: many hotel and car rental bookings require a credit card (not debit) as a security deposit.
 
@@ -293,7 +290,7 @@ ABN AMRO has also invested in its in-branch experience for international clients
 - Faster, smoother account opening process
 - Potjes savings pots are a genuinely useful budgeting tool
 - Consistent English across app, website, and telephone support
-- Slightly lower premium account fee (€5.99 vs €6.50)
+- Slightly lower monthly package fee (€4.00 vs €4.30)
 
 **Cons:**
 - No dedicated expat/international desk
@@ -326,6 +323,8 @@ After more than a decade of living here and helping hundreds of expats sort out 
 **Switch to ABN AMRO, or open an ABN AMRO account as your second Dutch account, if you are planning to buy a home within the next 1–2 years or if you have a particularly complex financial situation.** The international desk is worth the occasional longer hold time when you are dealing with a mortgage application or trying to understand how your 30% ruling interacts with your gross salary calculation.
 
 And regardless of which bank you choose: open a <a href="https://go.expatnetherlandshub.com/wise?ref=/guides/finance/ing-vs-abn-amro-expats-2026/" rel="nofollow noopener sponsored" target="_blank">Wise</a> account alongside it. Both ING and ABN AMRO will charge you a significant markup for international transfers. Wise will not. This is not a criticism unique to these two banks — it is true of virtually every traditional Dutch bank — but it is a real cost that adds up over months and years.
+
+<a href="https://go.expatnetherlandshub.com/wise?ref=/guides/finance/ing-vs-abn-amro-expats-2026/" target="_blank" rel="nofollow noopener sponsored" class="cta-affiliate">Open a free Wise account for transfers →</a>
 
 If you are just starting your research into banking options in the Netherlands, my guide on [best bank accounts for expats](/guides/finance/best-bank-account-expats-netherlands-2026/) covers all the main players including Rabobank, Bunq, and N26, so you can make an informed choice. And if you are still early in the relocation process, my [complete guide to moving to the Netherlands](/guides/legal/complete-guide-moving-to-netherlands-2026/) covers the full checklist of what to sort out in what order, including banking, housing, and registration.
 

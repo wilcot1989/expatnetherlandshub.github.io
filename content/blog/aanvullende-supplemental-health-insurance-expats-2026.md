@@ -288,7 +288,7 @@ Aanvullende packages for children typically extend:
 
 If your child is at orthodontic age (typically 11–15), check whether your aanvullende covers braces and at what level. This single coverage area can be worth €1,500–€3,000 over the treatment period.
 
-For maternity-related care, see [pregnancy and maternity care in the Netherlands](/blog/pregnancy-maternity-care-netherlands-expats-2026/). For broader childcare planning, see [childcare in the Netherlands](/blog/childcare-netherlands-cost-expats-2026/) and [Dutch childcare expat guide](/blog/dutch-childcare-expat-guide-2026/).
+For maternity-related care, see [pregnancy and maternity care in the Netherlands](/guides/health/pregnancy-maternity-care-netherlands-expats-2026/). For broader childcare planning, see [childcare in the Netherlands](/blog/childcare-netherlands-cost-expats-2026/) and [Dutch childcare expat guide](/guides/daily-life/dutch-childcare-expat-guide-2026/).
 
 ## Mental Health Coverage
 
@@ -367,7 +367,7 @@ If you leave Dutch residence, you must cancel basisverzekering (and aanvullende)
 
 Don't simply stop paying. Insurers will pursue unpaid premiums even after you've left, and unpaid debts become collection issues for any future Dutch return.
 
-For more on the process, see [What happens to your pension if you leave the Netherlands](/blog/dutch-pension-leaving-netherlands-2026/) — many of the de-registration steps overlap.
+For more on the process, see [What happens to your pension if you leave the Netherlands](/guides/finance/dutch-pension-leaving-netherlands-2026/) — many of the de-registration steps overlap.
 
 ## Summary Decision Tree
 

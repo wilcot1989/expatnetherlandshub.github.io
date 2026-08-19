@@ -200,7 +200,7 @@ This does not mean estate agents never discriminate. But the professional framew
 
 ### Be aware of scams as well as discrimination
 
-The pressured, opaque rental market that creates conditions for discrimination also creates conditions for fraud. Seeing a below-market listing and feeling you need to decide instantly is exactly the psychology scammers exploit. Read the guide on [rental scams in the Netherlands](/guides/housing/rental-scams-netherlands-2026/) alongside this one — the documentation habits that protect you from discrimination (keeping records of everything, not paying before signing) also protect you from fraud.
+The pressured, opaque rental market that creates conditions for discrimination also creates conditions for fraud. Seeing a below-market listing and feeling you need to decide instantly is exactly the psychology scammers exploit. Read the guide on [rental scams in the Netherlands](/guides/housing/rental-scams-netherlands-expats-2026/) alongside this one — the documentation habits that protect you from discrimination (keeping records of everything, not paying before signing) also protect you from fraud.
 
 ---
 

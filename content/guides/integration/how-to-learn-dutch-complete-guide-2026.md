@@ -178,7 +178,7 @@ Babbel's Dutch course is subscription-based (around €7-13/month depending on p
 
 What Babbel does well: explanations of why grammar rules work, not just how. The speaking exercises are basic but present. I recommend Babbel as a structured complement to free resources once you are past the absolute beginner stage.
 
-For a direct comparison, see our article on [Babbel vs Duolingo for learning Dutch](/blog/babbel-vs-duolingo-learn-dutch-2026/).
+For a direct comparison, see our article on [Babbel vs Duolingo for learning Dutch](/guides/integration/babbel-vs-duolingo-learn-dutch-2026/).
 
 ### Online Courses: Rosetta Stone
 
@@ -393,4 +393,4 @@ The Netherlands is a much richer place when you can hear what everyone around yo
 
 ---
 
-*For practical daily life guidance, see our [cost of living in the Netherlands guide](/guides/finance/cost-of-living-netherlands-2026/), [freelancer ZZP registration guide](/guides/work/freelancer-zzp-registration-netherlands-2026/), and our collection of [interactive tools](/tools/) for expats in the Netherlands.*
+*For practical daily life guidance, see our [cost of living in the Netherlands guide](/guides/housing/cost-of-living-netherlands-2026/), [freelancer ZZP registration guide](/guides/work/freelancer-zzp-registration-netherlands-2026/), and our collection of [interactive tools](/tools/) for expats in the Netherlands.*

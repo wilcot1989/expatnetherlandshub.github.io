@@ -130,7 +130,7 @@ I use Wise for anything over €300. For smaller amounts, the percentage fee sti
 
 One thing worth knowing: you fund your Wise transfer via a SEPA bank transfer from your Dutch bank account. That SEPA transfer is free. Wise then converts and sends internationally. The whole process, including your SEPA funding transfer, typically takes a few hours to 1–2 business days depending on the corridor.
 
-For a detailed comparison of Wise versus Revolut, see my piece on [Wise vs Revolut for expats in 2026](/blog/wise-vs-revolut-expats-2026/).
+For a detailed comparison of Wise versus Revolut, see my piece on [Wise vs Revolut for expats in 2026](/guides/finance/wise-vs-revolut-netherlands-2026/).
 
 ### 2. Revolut — Good for Existing Users
 

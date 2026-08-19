@@ -783,7 +783,7 @@ Print this checklist
 <div class="cl-section">
 <div class="cl-section-title">Before you can open a Dutch bank account</div>
 <ul class="cl-items">
-<li><span class="cl-check" aria-hidden="true"></span><span>BSN number — required by all major Dutch banks (ING, ABN AMRO, Rabobank, SNS)<div class="cl-note">Without a BSN, your options are Bunq (accepts foreign address), or Wise (no BSN needed at all)</div></span></li>
+<li><span class="cl-check" aria-hidden="true"></span><span>BSN number — required by all major Dutch banks (ING, ABN AMRO, Rabobank, ASN Bank)<div class="cl-note">Without a BSN, your options are Bunq (accepts foreign address), or Wise (no BSN needed at all)</div></span></li>
 <li><span class="cl-check" aria-hidden="true"></span><span>Dutch home address registered at gemeente</span></li>
 <li><span class="cl-check" aria-hidden="true"></span><span>Valid passport or ID card</span></li>
 <li><span class="cl-check" aria-hidden="true"></span><span>Dutch phone number (for SMS verification)</span></li>

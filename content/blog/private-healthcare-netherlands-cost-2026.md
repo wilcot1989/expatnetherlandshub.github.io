@@ -1,6 +1,7 @@
 ---
 title: "Private Healthcare Netherlands Cost 2026: Cigna vs Aetna vs Allianz"
 date: 2026-07-31
+lastmod: 2026-08-19 12:00:00+02:00
 author: "Sarah van den Berg"
 categories: ["healthcare", "finance"]
 tags: ["private healthcare", "cigna", "aetna", "allianz", "expat insurance", "healthcare netherlands"]
@@ -56,7 +57,7 @@ Everyone else needs Dutch basis. Then private becomes an *add-on*.
 
 ## What Dutch basisverzekering actually covers (and what it doesn't)
 
-In 2026 the basic Dutch package costs around €155/month with a yearly own-risk (eigen risico) of €405. It covers:
+In 2026 the basic Dutch package costs around €159/month on average with a yearly own-risk (eigen risico) of €385. It covers:
 
 - GP visits (huisarts) — no own-risk applied
 - Hospital stays (shared rooms only — usually 4–6 beds)

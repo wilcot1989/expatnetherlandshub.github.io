@@ -63,7 +63,7 @@ The Netherlands taxes income through three separate boxes:
 - **Box 2** — Income from a substantial interest in a company (owning 5%+ of the shares)
 - **Box 3** — Savings and investments (wealth tax on assets above the threshold)
 
-This guide focuses entirely on Box 3. For the full picture across all three boxes, the [Dutch tax return guide for expats](/guides/finance/dutch-tax-return-expats-guide-2026/) is a good companion read. If you are also thinking about the long-term financial picture, our [Dutch pension guide](/guides/finance/dutch-pension-complete-guide-expats-2026/) covers how pension savings interact with Box 3.
+This guide focuses entirely on Box 3. For the full picture across all three boxes, the [Dutch tax return guide for expats](/guides/finance/dutch-tax-return-how-to-file-2026/) is a good companion read. If you are also thinking about the long-term financial picture, our [Dutch pension guide](/guides/finance/dutch-pension-complete-guide-expats-2026/) covers how pension savings interact with Box 3.
 
 ---
 
@@ -329,7 +329,7 @@ Foreign accounts must be converted at the EUR exchange rate on January 1. For ex
 
 If you use [Wise](https://go.expatnetherlandshub.com/wise?ref=/guides/finance/dutch-box-3-tax-savings-expats-2026/) to hold foreign currencies or make international transfers, the Wise account history gives you precise balance statements by date — useful for pulling the exact January 1 figure for reporting purposes. This is particularly handy if you hold multiple currencies.
 
-For help filing a Dutch tax return from scratch, the [Dutch tax return guide](/guides/finance/dutch-tax-return-expats-guide-2026/) covers the full process step by step.
+For help filing a Dutch tax return from scratch, the [Dutch tax return guide](/guides/finance/dutch-tax-return-how-to-file-2026/) covers the full process step by step.
 
 ---
 
@@ -337,10 +337,10 @@ For help filing a Dutch tax return from scratch, the [Dutch tax return guide](/g
 
 Box 3 does not exist in isolation. It connects to other areas of your Dutch financial life:
 
-- **Cost of living planning:** Understanding Box 3 affects how you think about keeping large cash reserves. See the [cost of living Netherlands guide](/guides/finance/cost-of-living-netherlands-2026/) for context on what savings levels are typical for expats.
+- **Cost of living planning:** Understanding Box 3 affects how you think about keeping large cash reserves. See the [cost of living Netherlands guide](/guides/housing/cost-of-living-netherlands-2026/) for context on what savings levels are typical for expats.
 - **Salary and savings rate:** Whether you are building Box 3 exposure quickly depends on your income. The [average salary Netherlands guide](/guides/work/average-salary-netherlands-2026/) gives context on typical income levels and savings potential.
-- **Savings and investment strategy:** Our [Dutch savings and investment guide for expats](/guides/finance/dutch-savings-investment-expats-2026/) covers account types and investment options in more detail.
-- **Sending money internationally:** If you have assets split across countries, keeping track of currency values is part of Box 3 management. Wise is a practical tool for this — see the [Wise review for expats](/guides/finance/wise-review-expats-2026/) for a detailed breakdown of its features and fees.
+- **Savings and investment strategy:** Our [guide to the best savings accounts in the Netherlands](/guides/finance/best-savings-account-netherlands-2026/) covers account types and interest rates in more detail.
+- **Sending money internationally:** If you have assets split across countries, keeping track of currency values is part of Box 3 management. Wise is a practical tool for this — see the [Wise review for expats](/guides/finance/wise-review-expats-netherlands-2026/) for a detailed breakdown of its features and fees.
 - **ETF investing in the Netherlands:** For expats who want to invest within the Netherlands rather than keeping savings parked, see our [guide to the best ETF platforms](/blog/best-etf-platforms-netherlands-expats-2026/).
 - **Tax calculators and tools:** Our [expat tools](/tools/) section includes calculators that can help with Box 3 and overall tax planning.
 

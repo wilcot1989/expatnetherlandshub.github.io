@@ -1,7 +1,7 @@
 ---
 title: 'Expat Statistics Netherlands 2026: Key Data & Figures'
 date: 2026-03-17 10:00:00+01:00
-lastmod: 2026-04-23 10:00:00+01:00
+lastmod: 2026-08-19 12:00:00+02:00
 description: 'Key statistics about expats in the Netherlands: population, salaries, cost of living, housing, and healthcare costs. Free to cite with attribution.'
 featured_image: /images/categories/finance.svg
 affiliate: false
@@ -406,8 +406,8 @@ Related: [Best Dutch Language Courses 2026](/guides/integration/best-dutch-langu
 
 | Metric | Figure |
 |--------|--------|
-| Largest Dutch banks by customers | ING, Rabobank, ABN AMRO, SNS |
-| Average bank account monthly fee | €2–6/month |
+| Largest Dutch banks by customers | ING, Rabobank, ABN AMRO, de Volksbank (ASN Bank) |
+| Average bank account monthly fee | €3.60–€4.30/month at the big banks (2026) |
 | Average savings interest rate (major banks) | 1.5–2.5% (2026) |
 | Contactless payment adoption | ~92% of POS transactions |
 | iDEAL transactions per year | ~1.4 billion (2024) |

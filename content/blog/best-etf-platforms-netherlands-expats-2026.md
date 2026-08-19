@@ -1,8 +1,8 @@
 ---
 title: 'Best ETF Platforms Netherlands 2026: 6 Compared (Fees)'
 date: 2026-03-22 10:00:00+01:00
-lastmod: 2026-08-07 10:00:00+02:00
-description: 'Best ETF platforms for expats in the Netherlands 2026: DEGIRO, Interactive Brokers, Trading 212 and 3 more compared on fees, Box 3 tax, and English support.'
+lastmod: 2026-08-19 10:00:00+02:00
+description: 'Best ETF platforms in the Netherlands 2026: 6 compared on real trading fees, English support and Box 3 wealth tax, plus which ones US expats can use.'
 categories:
 - finance
 tags:
@@ -106,7 +106,7 @@ DEGIRO does not offer a DRIP (dividend reinvestment plan), so dividends land in 
 
 **Best for:** Expats who want low fees, a wide fund selection, and are comfortable with a basic web/app interface.
 
-<a href="https://www.degiro.nl" target="_blank" rel="noopener nofollow sponsored" class="cta-affiliate">Open a DEGIRO account →</a>
+You can compare the current conditions yourself at [degiro.nl](https://www.degiro.nl) — we earn nothing from investment platforms and do not recommend any specific broker.
 
 ---
 
@@ -457,7 +457,9 @@ This means expat investors in the Netherlands can rebalance their portfolios whe
 
 *This article is for information purposes only and does not constitute financial advice. Consult a licensed financial advisor and a Dutch tax professional for advice specific to your situation.*
 
-<a href="https://go.expatnetherlandshub.com/wise" class="cta-affiliate" rel="nofollow noopener sponsored" target="_blank">Try Wise</a>
+One thing we do have a view on: funding a euro investment account from a foreign-currency salary or savings pot is where expats quietly lose the most money. Bank exchange-rate markups of 2-4% dwarf any trading commission on this list.
+
+<a href="https://go.expatnetherlandshub.com/wise?ref=/blog/best-etf-platforms-netherlands-expats-2026/" class="cta-affiliate" rel="nofollow noopener sponsored" target="_blank">Convert currency at the real rate with Wise →</a>
 
 ---
 

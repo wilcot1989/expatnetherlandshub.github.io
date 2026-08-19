@@ -195,7 +195,7 @@ For families, school options matter.
 
 For most expat families both cities work. Utrecht has slightly more choice but Eindhoven's options are well-funded and well-regarded. Waiting lists exist in both cities for international schools — apply 12 to 18 months ahead if possible.
 
-For broader family setup, see [moving to the Netherlands with kids](/blog/moving-netherlands-with-kids-expat-2026/) and [Dutch primary school for expats](/blog/dutch-primary-school-expats-2026/).
+For broader family setup, see [moving to the Netherlands with kids](/guides/daily-life/expat-family-guide-raising-kids-netherlands-2026/) and [Dutch primary school for expats](/guides/daily-life/moving-to-netherlands-with-kids-school-guide-2026/).
 
 ---
 

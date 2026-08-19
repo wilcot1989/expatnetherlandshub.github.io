@@ -139,7 +139,7 @@ This is the cultural baseline:
 
 Coming from cultures with always-on expectations — US tech, UK consulting, much of Indian IT — this can feel uncomfortable at first. I have had clients confess they felt "lazy" leaving at 17:00. They were not lazy. They were finally working at a sustainable cadence, in a country whose productivity per hour is among the highest in the world precisely because nobody is exhausted.
 
-The unspoken rule: outwork your colleagues during working hours, not after them. Use the [30% ruling tax advantages](/blog/30-percent-ruling-netherlands-2026/) to fund a better quality of life outside work, not to subsidise a workaholic habit you brought with you.
+The unspoken rule: outwork your colleagues during working hours, not after them. Use the [30% ruling tax advantages](/guides/finance/30-percent-ruling-netherlands-2026/) to fund a better quality of life outside work, not to subsidise a workaholic habit you brought with you.
 
 ## Borrel culture: Friday afternoon is for beer
 
@@ -231,7 +231,7 @@ After years of coaching, the same patterns repeat. Here are the four most common
 
 **Japanese consultant, sixth month, struggling with the lack of formal hierarchy markers.** They do not know how senior anyone actually is, who they should defer to, when. Fix: we work on internal mapping — who has decision rights on what, regardless of title — and on the cultural acceptance that influence here does not flow neatly down an org chart.
 
-Whatever cluster you fall into, two things are universal: it takes six months to find the rhythm, and it changes how you work forever after. Read [networking as an expat in the Netherlands](/blog/networking-as-expat-netherlands-2026/) for the relationship-building piece that runs alongside the workplace adjustment.
+Whatever cluster you fall into, two things are universal: it takes six months to find the rhythm, and it changes how you work forever after. Read [networking as an expat in the Netherlands](/guides/work/professional-networking-netherlands-expats-2026/) for the relationship-building piece that runs alongside the workplace adjustment.
 
 ## The 30% ruling, your contract, and the onboarding admin maze
 

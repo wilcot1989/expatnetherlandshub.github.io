@@ -124,7 +124,7 @@ Where you work matters almost as much as what you do. Dutch cities are not as dr
 
 ### Amsterdam
 
-Amsterdam is the financial and creative capital, and salaries reflect that. Average gross salary across all sectors: **€48,000–€52,000**. Tech and finance roles can reach €70,000–€90,000 for experienced professionals. The catch: [Amsterdam rent and cost of living](/guides/finance/cost-of-living-netherlands-2026/) are roughly 20–30% higher than in other Dutch cities, which erodes part of the salary advantage.
+Amsterdam is the financial and creative capital, and salaries reflect that. Average gross salary across all sectors: **€48,000–€52,000**. Tech and finance roles can reach €70,000–€90,000 for experienced professionals. The catch: [Amsterdam rent and cost of living](/guides/housing/cost-of-living-netherlands-2026/) are roughly 20–30% higher than in other Dutch cities, which erodes part of the salary advantage.
 
 ### Eindhoven
 
@@ -140,7 +140,7 @@ The Hague is the seat of government and home to a dense cluster of international
 
 ### Rotterdam
 
-Rotterdam is the industrial and logistics capital. Port, shipping, engineering, and logistics drive the economy. Average gross salary: **€42,000–€46,000**. Salaries are slightly below Amsterdam but the city has become increasingly attractive for younger expats due to much lower housing costs. I looked at this in more detail in [Amsterdam vs Rotterdam for expats](/blog/amsterdam-vs-rotterdam-expats-2026/).
+Rotterdam is the industrial and logistics capital. Port, shipping, engineering, and logistics drive the economy. Average gross salary: **€42,000–€46,000**. Salaries are slightly below Amsterdam but the city has become increasingly attractive for younger expats due to much lower housing costs. I looked at this in more detail in [Amsterdam vs Rotterdam for expats](/guides/daily-life/amsterdam-vs-rotterdam-expats-2026/).
 
 ---
 
@@ -198,7 +198,7 @@ The Netherlands introduced hourly minimum wage legislation in 2024, replacing th
 
 Young workers (under 21) receive a percentage of the adult minimum wage: 80% at 20, 60% at 18, etc.
 
-If you receive a job offer at or near minimum wage — and you're coming from outside the Netherlands — I'd strongly recommend cross-referencing it against the [cost of living guide](/guides/finance/cost-of-living-netherlands-2026/) first. Life on minimum wage in Amsterdam is very tight.
+If you receive a job offer at or near minimum wage — and you're coming from outside the Netherlands — I'd strongly recommend cross-referencing it against the [cost of living guide](/guides/housing/cost-of-living-netherlands-2026/) first. Life on minimum wage in Amsterdam is very tight.
 
 ---
 
@@ -374,7 +374,7 @@ Wise transfers money using the real mid-market exchange rate with a small transp
 
 <a href="https://go.expatnetherlandshub.com/wise?ref=/guides/work/average-salary-netherlands-2026/" target="_blank" rel="nofollow noopener sponsored" class="cta-affiliate">Try Wise for international transfers →</a>
 
-Read my full [Wise review for expats in the Netherlands](/guides/finance/wise-review-expats-2026/) for a detailed breakdown of fees, supported currencies, and how it compares to Revolut.
+Read my full [Wise review for expats in the Netherlands](/guides/finance/wise-review-expats-netherlands-2026/) for a detailed breakdown of fees, supported currencies, and how it compares to Revolut.
 
 ---
 
@@ -393,7 +393,7 @@ A number only means something in context. Here is a rough reality check for 2026
 **On €3,800+ net/month (roughly €65,000+ gross):**
 - Comfortable in Amsterdam. You can afford a decent apartment, save meaningfully, and enjoy the city.
 
-The [cost of living guide for the Netherlands](/guides/finance/cost-of-living-netherlands-2026/) goes into monthly budget breakdowns for Amsterdam, Utrecht, and Rotterdam in full detail.
+The [cost of living guide for the Netherlands](/guides/housing/cost-of-living-netherlands-2026/) goes into monthly budget breakdowns for Amsterdam, Utrecht, and Rotterdam in full detail.
 
 If you're a freelancer or ZZP'er, the salary comparison is different — gross revenue is not the same as salary. The [ZZP guide for expats](/guides/work/freelancer-zzp-guide-netherlands-2026/) explains how to calculate your effective hourly rate and benchmark it against employment.
 
@@ -419,7 +419,7 @@ The tradeoffs that make the Netherlands worth considering despite the salary gap
 - Universal healthcare with low premiums
 - Very safe environment with excellent public infrastructure
 
-For a head-to-head country comparison, see [Netherlands vs Germany for expats](/guides/finance/netherlands-vs-germany-expats-2026/).
+For a head-to-head country comparison, see [Netherlands vs Germany for expats](/guides/integration/netherlands-vs-germany-expats-2026/).
 
 ---
 
@@ -429,7 +429,7 @@ None of this matters if you can't find the right role. The Dutch job market is a
 
 The best job boards for English-speaking expats in the Netherlands are [covered in this dedicated guide](/blog/best-job-boards-netherlands-expats-2026/), including LinkedIn, Indeed, Glassdoor, Welcome to the Jungle, and Dutch-specific boards.
 
-For expats interested in freelance or contract work, the [Dutch tax return guide for expats](/guides/finance/dutch-tax-return-expats-guide-2026/) explains how self-employment income is taxed differently from employment income — an important read before signing a contract.
+For expats interested in freelance or contract work, the [Dutch tax return guide for expats](/guides/finance/dutch-tax-return-how-to-file-2026/) explains how self-employment income is taxed differently from employment income — an important read before signing a contract.
 
 ---
 
@@ -477,7 +477,7 @@ The average gross salary in the Netherlands is €44,000 — a solid benchmark, 
 
 If you're sending part of your salary home, set up a [Wise account](https://go.expatnetherlandshub.com/wise?ref=/guides/work/average-salary-netherlands-2026/) before your first payday — the savings on exchange rates add up fast.
 
-For a full picture of your personal finances as an expat in the Netherlands, use the [salary comparison tool](/salary-comparison/) and work through the [expat tax return guide](/guides/finance/dutch-tax-return-expats-guide-2026/). And if you're weighing up a freelance career versus employment, the [ZZP guide](/guides/work/freelancer-zzp-guide-netherlands-2026/) will help you make that call with actual numbers.
+For a full picture of your personal finances as an expat in the Netherlands, use the [salary comparison tool](/salary-comparison/) and work through the [expat tax return guide](/guides/finance/dutch-tax-return-how-to-file-2026/). And if you're weighing up a freelance career versus employment, the [ZZP guide](/guides/work/freelancer-zzp-guide-netherlands-2026/) will help you make that call with actual numbers.
 
 ### One Final Thought on Dutch Salaries
 

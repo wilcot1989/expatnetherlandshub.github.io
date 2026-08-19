@@ -396,7 +396,7 @@ I have written a dedicated guide to [rental scams in the Netherlands](/guides/ho
 
 **Group impersonation** is increasing — fake accounts set up to look like official group admin accounts, messaging new members with "verification links" or "group rules" that are actually phishing attempts. Official group admin posts appear in the group feed, not your DMs.
 
-Understanding [Dutch social etiquette](/guides/dutch-social-etiquette-expats-2026/) helps here too — the Dutch are generally direct and transactional in a way that can seem brusque but is usually honest. When an interaction feels unusually warm and hurried at the same time, pay attention to that signal.
+Understanding [Dutch social etiquette](/guides/integration/dutch-social-etiquette-expats-2026/) helps here too — the Dutch are generally direct and transactional in a way that can seem brusque but is usually honest. When an interaction feels unusually warm and hurried at the same time, pay attention to that signal.
 
 ---
 

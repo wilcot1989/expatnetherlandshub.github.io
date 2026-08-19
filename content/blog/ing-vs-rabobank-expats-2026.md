@@ -1,7 +1,7 @@
 ---
 title: 'ING vs Rabobank for Expats 2026: Which Dutch Bank Is Better?'
 date: 2026-03-26 10:00:00+01:00
-lastmod: 2026-04-23 10:00:00+01:00
+lastmod: 2026-08-19 12:00:00+02:00
 description: 'ING vs Rabobank for expats: honest comparison of fees, apps, English support, mortgage services, and international transfers to help you choose.'
 categories:
 - finance
@@ -33,7 +33,7 @@ faq:
 - q: Does ING have an English app and English customer service?
   a: Yes. ING's mobile app is available in English, and the language toggle is prominent and works well across all main features. ING's phone and chat support can be conducted in English — this is not always guaranteed with every agent, but the bank officially supports English-language service. Rabobank's app is predominantly Dutch, though basic navigation is manageable if you are comfortable using translation tools. Rabobank's phone support is primarily in Dutch.
 - q: Which Dutch bank is cheapest for expats?
-  a: Rabobank's basic current account costs €2.30 per month. ING's basic account is free (€0/month), which makes ING the cheaper option for day-to-day banking. ING also offers a Plus account at €4.95/month with extras including travel insurance. For international transfers, both banks are expensive compared to Wise — ING charges around €5–€10 for SWIFT transfers, and Rabobank is similar. If you regularly send money abroad, Wise will save you more than the monthly fee difference between the two banks.
+  a: Since the Dutch banks raised prices on 1 January 2026, Rabobank's basic current account starts at around €3.60 per month and ING's OranjePakket costs €4.00 per month, so the two are close with Rabobank marginally cheaper. ING also offers the Extra package at €7.00/month with extras including travel insurance. For international transfers, both banks are expensive compared to Wise — ING charges around €5–€10 for SWIFT transfers, and Rabobank is similar. If you regularly send money abroad, Wise will save you more than the monthly fee difference between the two banks.
 - q: Which bank is better for getting a Dutch mortgage as an expat?
   a: Rabobank has a stronger mortgage reputation, particularly for expats with permanent residence or Dutch employment contracts. The bank has more advisers with experience of international income documentation. ING also offers mortgages to expats, but the process has historically been slower and their advisers less versed in 30% ruling income calculations. That said, most expats use an independent mortgage broker regardless of which bank they use for daily banking — the two decisions do not need to be linked.
 - q: Can I open an ING or Rabobank account entirely online?
@@ -67,8 +67,8 @@ The short version: **ING is better for most newly arrived expats**. Rabobank has
 
 | Feature | ING | Rabobank |
 |---|---|---|
-| **Monthly fee (basic)** | €0 | €2.30 |
-| **Monthly fee (premium)** | €4.95 (Plus) | €4.75 (Premium) |
+| **Monthly fee (basic)** | €4.00 (OranjePakket) | From around €3.60 |
+| **Monthly fee (premium)** | €7.00 (Extra) | Higher tier with travel insurance, priced above the basic package |
 | **Account opening** | Fully online, English | Partly online, Dutch-heavy |
 | **BSN required upfront** | Flexible | Usually required |
 | **English app** | Yes | Limited |
@@ -89,9 +89,9 @@ ING is the largest retail bank in the Netherlands by customer numbers, and its i
 
 ### Account Types and Fees
 
-ING's standard current account (Betaalrekening) costs **€0 per month**. There are no hidden fees for basic use: you get a debit card (Maestro/Visa Debit), access to online banking and the mobile app, and the ability to make Dutch and SEPA transfers at no charge.
+ING's standard current account (OranjePakket) costs **€4.00 per month** since the price increase on 1 January 2026. There are no hidden fees on top for basic use: you get a debit card (Maestro/Visa Debit), access to online banking and the mobile app, and the ability to make Dutch and SEPA transfers at no charge.
 
-The ING Plus account costs **€4.95 per month** and adds travel insurance, purchase protection, and some extras. For most expats who already have travel insurance through their employer or health insurer, the Plus account is not worth it unless you specifically want the insurance bundled.
+The ING Extra package costs **€7.00 per month** and adds travel insurance, purchase protection, and some extras. For most expats who already have travel insurance through their employer or health insurer, the Extra package is not worth it unless you specifically want the insurance bundled.
 
 ### Opening an Account
 
@@ -133,9 +133,9 @@ Rabobank is a cooperative bank — meaning it is technically owned by its member
 
 ### Account Types and Fees
 
-Rabobank's standard current account costs **€2.30 per month**. The bank scrapped its previously free basic account in recent years, which drew criticism. There is a Premium account at around **€4.75 per month** that adds travel insurance and other benefits.
+Rabobank's standard current account starts at around **€3.60 per month**. The bank scrapped its previously free basic account years ago, which drew criticism. More extensive packages that add travel insurance and other benefits cost more.
 
-The €2.30 monthly fee is not a huge amount, but it is €27.60 per year for a service that ING provides free. Over multiple years, and especially when you add the generally slightly higher transaction fees for some services, Rabobank is the more expensive day-to-day option for basic banking.
+At around €3.60 per month — roughly €43 per year — Rabobank's basic package is marginally cheaper than ING's €4.00 (€48 per year) since both banks raised prices on 1 January 2026. On monthly fees alone the two are close enough that price should not decide it; transaction fees for some services are slightly higher at Rabobank.
 
 ### Opening an Account
 
@@ -185,7 +185,7 @@ For a newly arrived expat, the practicality gap here is significant. You need a 
 
 ### 2. Monthly Fees
 
-**ING wins.** €0 for the basic account versus €2.30 at Rabobank.
+**Roughly a draw, marginally Rabobank.** €4.00 for ING's OranjePakket versus around €3.60 at Rabobank.
 
 Over 12 months, that is €27.60 saved. Over three years, €82.80. Not a life-changing amount, but ING provides a better feature set at zero cost.
 
@@ -201,7 +201,7 @@ Over 12 months, that is €27.60 saved. Over three years, €82.80. Not a life-c
 
 Both ING and Rabobank charge €5–€10 for SWIFT transfers plus an undisclosed exchange rate spread. For a regular transfer of €500 to the UK, you might pay an effective €15–€20 in combined fees and rate margin at either bank.
 
-[Wise](https://go.expatnetherlandshub.com/wise?ref=/blog/ing-vs-rabobank-expats-2026/) transfers the same €500 for around €3–€8 total (depending on currency), using the mid-market rate. The saving is real and consistent. I use Wise for everything outside the SEPA zone — it is not a replacement for your Dutch current account, but a complement to it. See our full [Wise review for expats](/guides/finance/wise-review-expats-2026/) for a detailed breakdown of fees and use cases.
+[Wise](https://go.expatnetherlandshub.com/wise?ref=/blog/ing-vs-rabobank-expats-2026/) transfers the same €500 for around €3–€8 total (depending on currency), using the mid-market rate. The saving is real and consistent. I use Wise for everything outside the SEPA zone — it is not a replacement for your Dutch current account, but a complement to it. See our full [Wise review for expats](/guides/finance/wise-review-expats-netherlands-2026/) for a detailed breakdown of fees and use cases.
 
 ### 5. Mortgage Services
 
@@ -235,7 +235,7 @@ Neither rate is outstanding. If optimising savings interest is a priority, a pla
 
 ## ABN AMRO as an Alternative
 
-ABN AMRO is the third large Dutch retail bank and deserves a mention. Its fees sit between ING and Rabobank — around €1.70/month for a basic account — and the English language experience is better than Rabobank but not quite as polished as ING. ABN AMRO has a stronger private banking offering and is often recommended for high-income expats or those with complex wealth management needs.
+ABN AMRO is the third large Dutch retail bank and deserves a mention. Its Basisbetaalpakket costs €4.30/month, slightly above both ING and Rabobank, and the English language experience is better than Rabobank but not quite as polished as ING. ABN AMRO has a stronger private banking offering and is often recommended for high-income expats or those with complex wealth management needs.
 
 For standard expat banking, ABN AMRO is a reasonable choice but does not clearly outperform ING on any metric that matters for most people in the first year or two of living in the Netherlands. ING remains the practical first choice; ABN AMRO is worth revisiting if you develop more specific financial needs later.
 
@@ -255,7 +255,7 @@ But your Dutch bank account does not need to handle everything. Here are the cas
 
 **You are still waiting for your Dutch bank account.** Wise can be opened quickly with a passport, before you have a BSN, and gives you a Dutch IBAN. This is not a full current account replacement — iDEAL support is limited — but it provides an emergency payment option while you wait for your ING or Rabobank account.
 
-Read our full [Wise review for expats in the Netherlands](/guides/finance/wise-review-expats-2026/) for a detailed account of fees, limits, and how it fits into your overall financial setup here.
+Read our full [Wise review for expats in the Netherlands](/guides/finance/wise-review-expats-netherlands-2026/) for a detailed account of fees, limits, and how it fits into your overall financial setup here.
 
 ---
 
@@ -267,13 +267,13 @@ Your current account is just one part of your financial picture in the Netherlan
 
 **The 30% ruling:** If you qualify, the [30% ruling tax benefit](/guides/finance/30-percent-ruling-netherlands-2026/) affects your net salary and how your income is treated in mortgage calculations. Rabobank is more experienced with this than ING in practice.
 
-**Pension:** Understanding [the Dutch pension system](/guides/dutch-pension-complete-guide-expats-2026/) matters from the moment you start working here — your employer contributions, your state pension accrual, and how your banking setup fits around long-term savings.
+**Pension:** Understanding [the Dutch pension system](/guides/finance/dutch-pension-complete-guide-expats-2026/) matters from the moment you start working here — your employer contributions, your state pension accrual, and how your banking setup fits around long-term savings.
 
 **Housing:** Whether you are renting or buying, the comparison between [Funda and Pararius](/guides/housing/funda-vs-pararius-housing-2026/) and the mortgage broker market is closely linked to which bank relationship you build.
 
 **ZZP:** If you are freelancing, [ZZP registration](/guides/work/freelancer-zzp-registration-netherlands-2026/) affects your banking needs — Rabobank's business account offering is stronger than ING's for sole traders.
 
-**Cost of living:** The full breakdown of [cost of living in the Netherlands in 2026](/guides/finance/cost-of-living-netherlands-2026/) helps you understand what your banking fees represent within your monthly budget.
+**Cost of living:** The full breakdown of [cost of living in the Netherlands in 2026](/guides/housing/cost-of-living-netherlands-2026/) helps you understand what your banking fees represent within your monthly budget.
 
 **City choice:** If you are still deciding where to live, our [Amsterdam vs Rotterdam comparison](/guides/daily-life/amsterdam-vs-rotterdam-expats-2026/) covers factors beyond banking that affect financial planning.
 
@@ -297,7 +297,7 @@ Yes. ING's app has a full English mode that works across all features. Phone and
 
 **Which Dutch bank is cheapest for expats?**
 
-ING's basic account is free (€0/month). Rabobank's basic account is €2.30/month. For international transfers, both banks are expensive — use Wise for non-SEPA transfers regardless of which bank you choose.
+ING's OranjePakket costs €4.00/month and Rabobank's basic package starts at around €3.60/month, so day-to-day costs are close. For international transfers, both banks are expensive — use Wise for non-SEPA transfers regardless of which bank you choose.
 
 **Which bank is better for a Dutch mortgage as an expat?**
 
@@ -315,7 +315,7 @@ ING's Oranje Spaarrekening offers approximately 1.50–1.75% AER. Rabobank's sav
 
 ## Conclusion: Which Dutch Bank Should Expats Choose?
 
-For most expats arriving in the Netherlands, **ING is the better starting point**. It is free, fully English, opens quickly, and works well as a day-to-day account. The app is excellent. English customer service is available. You can open it before you have a BSN sorted. There is no meaningful reason to start with Rabobank unless you have a specific reason to.
+For most expats arriving in the Netherlands, **ING is the better starting point**. At €4.00/month it is priced in line with Rabobank, it is fully English, opens quickly, and works well as a day-to-day account. The app is excellent. English customer service is available. You can open it before you have a BSN sorted. There is no meaningful reason to start with Rabobank unless you have a specific reason to.
 
 **Choose Rabobank if:**
 - You are buying property within the next 1–2 years and want a bank with stronger mortgage expertise
@@ -325,7 +325,7 @@ For most expats arriving in the Netherlands, **ING is the better starting point*
 
 **Choose ING if:**
 - You are newly arrived and need an account fast
-- You want a free account with a great English-language app
+- You want a competitively priced account with a great English-language app
 - English customer service is important to you
 - You are not buying property in the near term
 
@@ -335,7 +335,7 @@ The ING vs Rabobank decision is less critical than expats sometimes make it. Bot
 
 ---
 
-*Have questions about banking in the Netherlands? Check out our [best bank account guide for expats in 2026](/guides/finance/best-bank-account-netherlands-expats-2026/) for a broader overview including neobanks and digital-only options.*
+*Have questions about banking in the Netherlands? Check out our [best bank account guide for expats in 2026](/guides/finance/best-bank-account-expats-netherlands-2026/) for a broader overview including neobanks and digital-only options.*
 
 ---
 

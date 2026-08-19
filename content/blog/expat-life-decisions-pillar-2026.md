@@ -2,6 +2,7 @@
 title: 'Expat Life Decisions Pillar 2026: Your 10-Step Framework'
 description: Banking, health, utilities, insurance, taxes — the complete 10-step decision framework for moving to and living in the Netherlands.
 date: 2026-04-30
+lastmod: 2026-08-19 12:00:00+02:00
 author: Sarah van den Berg
 author_bio: Expat coach and writer at ExpatNetherlandsHub.com
 featured_image: /images/categories/expat-life.svg
@@ -147,7 +148,7 @@ The BSN unlocks the entire Dutch system. Get it as fast as possible.
 ### After registration
 Within 1–2 weeks you'll receive your BSN by post. Set up your DigiD account (digid.nl) immediately after. DigiD is your digital signature for all Dutch government websites — Belastingdienst, zorginstituut, MijnOverheid. It's non-negotiable.
 
-Guide: [BSN Registration Step-by-Step](/guides/legal/expat-bsn-application-guide-2026/)
+Guide: [BSN Registration Step-by-Step](/blog/expat-bsn-application-guide-2026/)
 
 ### Time estimate
 Municipality appointment: 15–30 minutes. Waiting time for appointment: 1–4 weeks depending on city. Amsterdam is slowest; smaller cities often have slots within a week.
@@ -173,7 +174,7 @@ UNDER 6 MONTHS
 6–24 MONTHS
 → Wise as primary account + local Dutch account for salary
 → bunq (opens in 5 min, no BSN needed to start)
-→ ING (free basic account, requires BSN)
+→ ING (OranjePakket €4.00/month, requires BSN)
 
 PERMANENT SETTLER (2+ years)
 → ABN AMRO or Rabobank (needed for mortgage, pension integration)
@@ -236,7 +237,7 @@ If you're here for under 4 months and not registered in the BRP, you may use int
 ### The zorgtoeslag (health subsidy)
 If your income is below approximately €37,000 (single) you may be entitled to a monthly healthcare allowance from the Belastingdienst. Apply via the toeslagen portal using your DigiD. Many expats miss this — it can save €70–€150/month.
 
-Guide: [Best Dutch Health Insurance Plans 2026](/guides/health/best-health-insurance-netherlands-pillar-2026/)
+Guide: [Best Dutch Health Insurance Plans 2026](/blog/best-health-insurance-netherlands-pillar-2026/)
 
 ### Time estimate
 Comparing and signing up: 30–60 minutes. Coverage starts from the date you choose (you can backdate to your registration date within the 4-month window).
@@ -654,7 +655,7 @@ The practical stuff is manageable. The hardest part of expat life is the social 
 
 | Step | Recommended Service | Link |
 |------|--------------------|----|
-| Step 2: BSN | BSN Registration Guide | [Read guide](/guides/legal/expat-bsn-application-guide-2026/) |
+| Step 2: BSN | BSN Registration Guide | [Read guide](/blog/expat-bsn-application-guide-2026/) |
 | Step 3: Banking | Wise (international transfers) | [/go/wise](https://go.expatnetherlandshub.com/wise) |
 | Step 3: Banking | Revolut (travel spending) | [/go/revolut](https://go.expatnetherlandshub.com/revolut) |
 | Step 4: Health insurance | Independer Zorgverzekering | [/go/independer-zorg](https://go.expatnetherlandshub.com/independer-zorg) |

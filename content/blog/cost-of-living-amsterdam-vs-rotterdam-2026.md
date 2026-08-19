@@ -41,7 +41,7 @@ This guide compares 2026 cost of living in Amsterdam versus Rotterdam across ren
 
 *Disclosure: this article contains affiliate links. If you sign up via them I may earn a small commission at no extra cost to you. All numbers below are from my own bills, my partner's bills, friends in both cities, and 2026 market data.*
 
-💡 *For city-specific guides see my [Amsterdam expat guide](/blog/amsterdam-expat-guide-2026/), [Rotterdam expat guide](/blog/rotterdam-expat-guide-2026/), and [Den Haag expat guide](/blog/den-haag-expat-guide-2026/).*
+💡 *For city-specific guides see my [Amsterdam expat guide](/cities/amsterdam/), [Rotterdam expat guide](/cities/rotterdam/), and [Den Haag expat guide](/cities/the-hague/).*
 
 
 > **Quick answer:** Amsterdam vs Rotterdam cost of living 2026: real numbers for rent, groceries, transport, utilities, and lifestyle as an expat. Which city actually fits your budget?
@@ -78,7 +78,7 @@ Two-bedroom central: €2,800–€4,000.
 Studios: €1,500–€2,000.
 Houses (rare in city) start at €3,500.
 
-The market is brutal. Average time on the market for a desirable apartment is days, not weeks. Bidding above asking is normal. Many landlords filter for "no expats" or for "Dutch tax residency required" (which is illegal but happens). Furnished short-stay rentals via [HousingAnywhere](/blog/housinganywhere-review-expats-2026/) typically run 10–25% above the equivalent unfurnished market rate.
+The market is brutal. Average time on the market for a desirable apartment is days, not weeks. Bidding above asking is normal. Many landlords filter for "no expats" or for "Dutch tax residency required" (which is illegal but happens). Furnished short-stay rentals via [HousingAnywhere](/guides/housing/housinganywhere-vs-kamernet-vs-funda-2026/) typically run 10–25% above the equivalent unfurnished market rate.
 
 ### Rotterdam Rent Reality 2026
 
@@ -256,7 +256,7 @@ If your job is Amsterdam-anchored and remote-flexible, **live in Rotterdam, comm
 
 If your job is Amsterdam-required, full-time in-office, and pays a real Amsterdam premium of €15K+ above the Rotterdam equivalent: stay in Amsterdam, but optimize hard on housing search through tools like <a href="https://go.expatnetherlandshub.com/housing-anywhere?ref=/blog/cost-of-living-amsterdam-vs-rotterdam-2026/" target="_blank" rel="nofollow sponsored noopener">HousingAnywhere</a> and accept that life will be more expensive.
 
-For deeper city-by-city guidance see my [Amsterdam guide](/blog/amsterdam-expat-guide-2026/), [Rotterdam guide](/blog/rotterdam-expat-guide-2026/), [Den Haag guide](/blog/den-haag-expat-guide-2026/), [renting vs buying](/blog/renting-vs-buying-netherlands-expat-2026/), and [salary expectations Netherlands](/blog/salary-comparison-netherlands-expats-2026/) for the income side of the equation.
+For deeper city-by-city guidance see my [Amsterdam guide](/cities/amsterdam/), [Rotterdam guide](/cities/rotterdam/), [Den Haag guide](/cities/the-hague/), [renting vs buying](/blog/renting-vs-buying-netherlands-expat-2026/), and [salary expectations Netherlands](/guides/work/average-salary-netherlands-2026/) for the income side of the equation.
 
 ---
 

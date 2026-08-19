@@ -57,7 +57,7 @@ schema_type: Article
 
 When I first moved to the Netherlands, I assumed Germany would be basically the same. Neighboring countries, shared borders, both in the EU. How different could they really be? Then a German friend showed me her rent bill in Düsseldorf and I nearly spilled my coffee. She was paying EUR 850 for a two-bedroom apartment. I was paying EUR 1,650 for a one-bedroom in Rotterdam. That moment made me realize the cost gap between these two countries is far bigger than most expats expect.
 
-I have spent over a decade helping expats relocate to the Netherlands, and Germany is always the comparison that comes up most. Both countries attract highly skilled workers. Both have strong economies and good infrastructure. But the day-to-day cost of living can differ by hundreds of euros per month depending on where you settle and whether you qualify for the Dutch [30% ruling](/guides/work/30-percent-ruling-guide-2026/).
+I have spent over a decade helping expats relocate to the Netherlands, and Germany is always the comparison that comes up most. Both countries attract highly skilled workers. Both have strong economies and good infrastructure. But the day-to-day cost of living can differ by hundreds of euros per month depending on where you settle and whether you qualify for the Dutch [30% ruling](/guides/finance/30-percent-ruling-netherlands-2026/).
 
 This article is the breakdown I wish someone had given me before I signed my first Dutch lease. I am comparing real 2026 numbers — rent, groceries, healthcare, taxes, transport, childcare, energy — so you can make a clear financial decision.
 
@@ -123,7 +123,7 @@ Frankfurt is about 15-20% cheaper than Rotterdam, but not as dramatically differ
 
 If you plan to stay long term, buying changes the equation. German mortgage interest is not tax-deductible, while in the Netherlands your mortgage interest (hypotheekrenteaftrek) reduces your taxable income. German property transfer tax (Grunderwerbsteuer) varies by state from 3.5% to 6.5%. Dutch overdrachtsbelasting is 2% for primary residences under EUR 510,000 (first-time buyers get an exemption).
 
-The bottom line on housing: unless you target Munich, Germany gives you more square meters for less money. For a detailed look at Dutch rents and what to expect, see my [renting guide for expats](/guides/housing/renting-netherlands-expat-guide-2026/).
+The bottom line on housing: unless you target Munich, Germany gives you more square meters for less money. For a detailed look at Dutch rents and what to expect, see my [renting guide for expats](/guides/housing/finding-housing-netherlands-expats-2026/).
 
 
 ## Groceries and Daily Expenses
@@ -159,7 +159,7 @@ The Dutch love their koffie, but a flat white in a good Amsterdam café will set
 
 ## Healthcare: Two Different Systems, Two Different Price Tags
 
-Both countries have excellent healthcare, but the systems are structured very differently. Understanding the costs is one of the first things I tell new expats to figure out. I have written a [full guide to Dutch health insurance](/guides/finance/dutch-health-insurance-expats-2026/) if you want the deep dive, but here is the comparison.
+Both countries have excellent healthcare, but the systems are structured very differently. Understanding the costs is one of the first things I tell new expats to figure out. I have written a [full guide to Dutch health insurance](/guides/health/dutch-health-insurance-guide-expats-2026/) if you want the deep dive, but here is the comparison.
 
 ### The Netherlands: Mandatory Private Insurance
 
@@ -234,7 +234,7 @@ A car that costs EUR 30,000 in Germany might cost EUR 33,000-36,000 in the Nethe
 
 ## Taxes and Net Salary: Where the Real Comparison Happens
 
-This is the section that matters most. I have a full breakdown of the [Dutch tax system for expats](/guides/finance/dutch-tax-system-expats-2026/), but here is the head-to-head comparison.
+This is the section that matters most. I have a full breakdown of the [Dutch tax system for expats](/guides/finance/dutch-tax-system-expats-guide-2026/), but here is the head-to-head comparison.
 
 ### Income Tax Rates (2026)
 
@@ -253,7 +253,7 @@ Germany's tax-free allowance and progressive structure mean that on lower-to-mid
 
 ### The 30% Ruling: The Biggest Tax Advantage
 
-I keep coming back to this because it genuinely changes the math. The [30% ruling](/guides/work/30-percent-ruling-guide-2026/) lets qualifying skilled migrants treat a portion of their gross salary as a tax-free allowance:
+I keep coming back to this because it genuinely changes the math. The [30% ruling](/guides/finance/30-percent-ruling-netherlands-2026/) lets qualifying skilled migrants treat a portion of their gross salary as a tax-free allowance:
 
 - **Years 1-2:** 30% tax-free
 - **Year 3:** 20% tax-free
@@ -277,7 +277,7 @@ Let me show you what EUR 70,000 gross actually means in each country.
 
 With the 30% ruling, the Netherlands gives you EUR 823 more per month than Germany. Without it, Germany gives you EUR 219 more. That is a significant swing.
 
-For a broader look at what expats earn in the Netherlands, check my [salary guide](/guides/work/salary-guide-expats-netherlands-2026/).
+For a broader look at what expats earn in the Netherlands, check my [salary guide](/guides/work/average-salary-netherlands-2026/).
 
 ### Transferring Money Between Countries
 
@@ -354,7 +354,7 @@ If you only speak English, the Netherlands is dramatically easier. About 95% of 
 
 Germany requires more German. Even in Berlin's international bubble, many everyday situations — dealing with bureaucracy, seeing a doctor, joining a sports club — require at least basic German. This is a genuine consideration for your quality of life and one that the cost-of-living numbers do not capture.
 
-For tips on settling into the Netherlands, see my [guide to the best cities for expats](/guides/integration/best-cities-expats-netherlands-2026/).
+For tips on settling into the Netherlands, see my [guide to the best cities for expats](/guides/housing/best-cities-netherlands-expats-2026/).
 
 ### Safety and Infrastructure
 
@@ -415,7 +415,7 @@ After ten years of helping expats make this choice, here is how I frame it.
 
 I know several expats who moved to the Netherlands first to benefit from the 30% ruling, saved aggressively for five years, and then moved to Germany when the tax benefit expired. It is not for everyone, but if you are flexible about where you live, it is a financially sound strategy.
 
-For a broader look at your finances as a new arrival, see my [guide to the best bank accounts for expats](/guides/finance/best-bank-account-expats-netherlands-2026/) and my [full Netherlands cost of living breakdown](/guides/finance/cost-of-living-netherlands-2026/).
+For a broader look at your finances as a new arrival, see my [guide to the best bank accounts for expats](/guides/finance/best-bank-account-expats-netherlands-2026/) and my [full Netherlands cost of living breakdown](/guides/housing/cost-of-living-netherlands-2026/).
 
 
 ## Frequently Asked Questions
@@ -471,6 +471,6 @@ My personal take after a decade in the Netherlands: I would not trade the work-l
 
 Start by running the numbers for your specific salary, family size, and target city. Look at what you actually spend money on. And remember that the biggest financial decision is not which country you move to — it is whether you negotiate the right salary and tax setup before you sign the contract.
 
-For more on building your financial life in the Netherlands, check out my [complete guide to the Dutch tax system](/guides/finance/dutch-tax-system-expats-2026/) and the [Netherlands vs UK comparison](/guides/integration/netherlands-vs-uk-expats-2026/) if you are weighing other options.
+For more on building your financial life in the Netherlands, check out my [complete guide to the Dutch tax system](/guides/finance/dutch-tax-system-expats-guide-2026/) and the [Netherlands vs UK comparison](/guides/integration/netherlands-vs-uk-expats-2026/) if you are weighing other options.
 
 <a href="https://go.expatnetherlandshub.com/wise?ref=/guides/integration/netherlands-vs-germany-cost-of-living-2026/" target="_blank" rel="nofollow noopener sponsored" class="cta-affiliate">Try Wise for free transfers →</a>

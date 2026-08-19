@@ -1,8 +1,8 @@
 ---
 title: 'Leiden Population & Expat Guide 2026: Costs, Jobs'
-description: "Leiden's population is 130,328 (2026). Complete expat guide: rent prices, best neighbourhoods, biotech jobs near The Hague, and practical living tips."
+description: "Leiden's population is 130,328 (2026). Expat guide: rents from EUR 1,050, Bio Science Park jobs, best neighbourhoods and how to register."
 date: 2026-03-06 10:00:00+01:00
-lastmod: 2026-08-07 10:00:00+02:00
+lastmod: 2026-08-19 10:00:00+02:00
 featured_image: /images/featured/leiden.webp
 author: Sarah van den Berg
 categories:
@@ -12,6 +12,22 @@ tags:
 - expat city guide
 - leiden population
 - living in leiden
+affiliate: true
+products:
+- name: Independer Zorgverzekering
+  url: https://go.expatnetherlandshub.com/independer-zorg?ref=/cities/leiden/
+  price: '0.00'
+  description: Free comparison in English. Dutch health insurance is mandatory from
+    day one and averages EUR 159 per month in 2026.
+- name: Wise
+  url: https://go.expatnetherlandshub.com/wise?ref=/cities/leiden/
+  price: '0.00'
+  description: European IBAN before your BSN arrives, plus transfers at the real exchange
+    rate.
+- name: SafetyWing
+  url: https://go.expatnetherlandshub.com/safetywing?ref=/cities/leiden/
+  price: '0.00'
+  description: Global cover for the gap before Dutch insurance starts.
 keywords:
 - leiden population
 - population of leiden
@@ -98,7 +114,7 @@ LUMC is the main hospital and one of the leading academic medical centres in the
 
 Finding a GP can take 2–4 weeks. The international community associated with the university and Bio Science Park means there is reasonable English-language GP capacity, but Leiden is small enough that availability is limited compared to Amsterdam or The Hague.
 
-Health insurance is mandatory from your first day as a Dutch resident. Premiums start around €140/month with a €385 annual deductible. Use the [Health Insurance Wizard](/tools/health-insurance-wizard/) to compare policies. Compare Dutch and international expat insurance options with the [Insurance Comparison](/tools/insurance-chooser/).
+Health insurance is mandatory from your first day as a Dutch resident. In 2026 the average basic policy costs about €159 per month, the cheapest policies start around €142, and the standard annual deductible (eigen risico) is €385. The gap between the cheapest and most expensive basic policy is over €500 a year for identical statutory cover, so comparing is worth the ten minutes. <a href="https://go.expatnetherlandshub.com/independer-zorg?ref=/cities/leiden/" target="_blank" rel="nofollow noopener sponsored" class="cta-affiliate">Compare Dutch health insurers in English →</a> Use the [Health Insurance Wizard](/tools/health-insurance-wizard/) to compare policies. Compare Dutch and international expat insurance options with the [Insurance Comparison](/tools/insurance-chooser/).
 
 ## Transport
 

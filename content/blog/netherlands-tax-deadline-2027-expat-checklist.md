@@ -124,7 +124,7 @@ The threshold for tax-free wealth in 2026 is around **â‚¬57,000 per person** (â‚
 
 The change you need to know about: **as of tax year 2027 onwards**, the Netherlands is moving to an actual-return system (*werkelijk rendement*). For tax year 2026 you're still under the transitional regime, but you have the right to file a **counter-calculation** (*tegenbewijsregeling*) if your actual return was lower than the deemed return. This is huge for anyone who held a flat year of stocks, lost on crypto, or had cash sitting at 1.5% while the deemed rate assumed 6%.
 
-I wrote a longer breakdown of how this works in my [Box 3 wealth tax explainer](/blog/box-3-tax-netherlands-2026/), including how to gather the documentation needed for a counter-calculation.
+I wrote a longer breakdown of how this works in my [Box 3 wealth tax explainer](/guides/finance/dutch-box-3-tax-savings-expats-2026/), including how to gather the documentation needed for a counter-calculation.
 
 Two practical Box 3 traps for expats:
 

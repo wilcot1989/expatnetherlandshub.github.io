@@ -1,7 +1,7 @@
 ---
 title: 'Your First Year in the Netherlands 2026: Complete Survival Pillar'
 date: 2026-04-30 08:00:00+02:00
-lastmod: 2026-04-30 08:00:00+02:00
+lastmod: 2026-08-19 12:00:00+02:00
 description: Month-by-month roadmap for new Dutch expats. BSN, housing, banking, insurance, taxes, integration.
 categories:
 - expat-life
@@ -173,7 +173,7 @@ Once you have your BSN, open a traditional Dutch bank account. The three most ex
 
 **ABN AMRO Expat Banking** — Dedicated English-language service, phone support in English, strong branch network. Requires an appointment. Takes longer to set up but is a full-service bank.
 
-**ING** — Largest Dutch bank by customers, solid app, most ATMs, Dutch-primary but English available if you ask. Basic account costs €3.35/month.
+**ING** — Largest Dutch bank by customers, solid app, most ATMs, Dutch-primary but English available if you ask. The OranjePakket costs €4.00/month since 1 January 2026.
 
 Your <a href="https://go.expatnetherlandshub.com/wise" rel="nofollow noopener sponsored" class="cta-affiliate" target="_blank">Wise NL IBAN</a> covers you until your Dutch bank account is active. After that, Wise becomes your international transfer tool — significantly cheaper than Dutch banks for sending money abroad.
 

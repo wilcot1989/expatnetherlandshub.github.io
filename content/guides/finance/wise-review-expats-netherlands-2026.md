@@ -1,7 +1,7 @@
 ---
 title: 'Wise Review Netherlands 2026: Full Verdict'
 date: 2026-03-18 10:00:00+01:00
-lastmod: 2026-04-23 10:00:00+01:00
+lastmod: 2026-08-19 12:00:00+02:00
 description: Full Wise review for expats in the Netherlands 2026. Belgian IBAN, real exchange rates, fees, savings, and comparison with ING, ABN AMRO, Revolut, bunq.
 categories:
 - finance
@@ -174,7 +174,7 @@ ING is the most expat-friendly Dutch bank. Free current account (Gratis Betaalre
 
 My recommendation: open both. Use ING (or ABN AMRO — essentially identical for basic use) for Dutch-specific payments. Use Wise for international money movement, multi-currency needs, and as your primary day-to-day account if your employer accepts the BE IBAN.
 
-Opening a basic ING account is free and takes about 15 minutes. There is no reason not to have both.
+Opening a basic ING account takes about 15 minutes and costs EUR 4.00/month. There is no reason not to have both.
 
 <a href="https://go.expatnetherlandshub.com/wise?ref=/guides/finance/wise-review-expats-netherlands-2026/" target="_blank" rel="nofollow noopener sponsored" class="cta-affiliate">Open a Wise account →</a>
 
@@ -184,7 +184,7 @@ Opening a basic ING account is free and takes about 15 minutes. There is no reas
 
 ABN AMRO is the other major Dutch bank popular with expats, particularly those with corporate relocation packages. ABN AMRO offers good English-language support and international services through its Expat Banking desk.
 
-The differences: ABN AMRO has higher monthly fees than ING (EUR 4.75/month for the standard package), better customer service for complex expat banking needs, and full Dutch NL IBAN. Wise is cheaper, much better for international transfers, and perfectly adequate for most day-to-day needs where a Dutch IBAN is not strictly required.
+The differences: ABN AMRO has slightly higher monthly fees than ING (EUR 4.30/month for the Basisbetaalpakket versus EUR 4.00 for ING's OranjePakket, both as of 1 January 2026), better customer service for complex expat banking needs, and full Dutch NL IBAN. Wise is cheaper, much better for international transfers, and perfectly adequate for most day-to-day needs where a Dutch IBAN is not strictly required.
 
 If your employer offers an ABN AMRO relocation package or you have complex international banking needs, ABN AMRO makes sense as your Dutch anchor account. Wise remains the better tool for moving money internationally.
 
@@ -220,7 +220,7 @@ My verdict: if you strongly prefer a single app for everything and do not mind p
 
 | Feature | Wise | ING | ABN AMRO | Revolut | bunq |
 |---|---|---|---|---|---|
-| **Monthly fee** | None | None | EUR 4.75 | Free–EUR 15.99 | EUR 3.99–17.99 |
+| **Monthly fee** | None | EUR 4.00 | EUR 4.30 | Free–EUR 15.99 | EUR 3.99–17.99 |
 | **IBAN** | BE (Belgian) | NL (Dutch) | NL (Dutch) | LT (Lithuanian) | NL (Dutch) |
 | **iDEAL** | No | Yes | Yes | No | Yes |
 | **International transfers** | Excellent | Poor (high fees) | Moderate | Good | Good |
@@ -262,7 +262,7 @@ I use Wise as my primary account for international transactions, client payments
 For a newly arrived expat, my standard recommendation:
 
 1. Open a Wise account before you arrive — it takes minutes and you get a BE IBAN immediately.
-2. Open a free ING account once you have your BSN (required for Dutch bank account opening). The ING Gratis Betaalrekening has no monthly fees and covers everything Wise does not.
+2. Open an ING account once you have your BSN (required for Dutch bank account opening). The OranjePakket costs €4.00 per month since 1 January 2026 and covers everything Wise does not.
 3. Use Wise for salary if your employer accepts BE IBAN. Use ING for iDEAL, Tikkie, and Dutch-specific payments.
 
 This setup costs nothing extra compared to Wise alone, gives you complete coverage of Dutch payment systems, and keeps your international finances in the most cost-effective tool available.

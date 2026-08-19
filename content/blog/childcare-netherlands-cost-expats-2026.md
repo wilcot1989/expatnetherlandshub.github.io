@@ -262,8 +262,8 @@ Some expat families use an au pair as an alternative or supplement to formal chi
 - [Pregnancy and maternity care in the Netherlands](/guides/health/pregnancy-maternity-care-netherlands-expats-2026/)
 - [Maternity and paternity leave in the Netherlands](/guides/work/maternity-paternity-leave-netherlands-expats-2026/)
 - [Dutch employment contract explained for expats](/guides/work/dutch-employment-contract-explained-2026/)
-- [Sick leave rights in the Netherlands](/blog/sick-leave-rights-netherlands-expats-2026/)
-- [How to open a bank account in the Netherlands](/guides/finance/open-bank-account-netherlands-expats-2026/)
+- [Sick leave and dismissal rights: Dutch employment law basics](/guides/legal/dutch-employment-law-basics-expats-2026/)
+- [How to open a bank account in the Netherlands](/guides/finance/how-to-open-bank-account-netherlands-2026/)
 - [First 30 days in the Netherlands checklist (incl. gemeente registration)](/guides/legal/first-30-days-netherlands-expat-checklist-2026/)
 
 ---

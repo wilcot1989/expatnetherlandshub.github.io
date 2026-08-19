@@ -345,7 +345,7 @@ This is not for everyone — the operational challenges are real — but the opp
 
 ## Internal Resources
 
-- [Moving to the Netherlands: What to Expect](/blog/moving-to-netherlands-expat-guide-2026/)
+- [Moving to the Netherlands: What to Expect](/guides/legal/complete-guide-moving-to-netherlands-2026/)
 - [Netherlands vs Philippines for Expats 2026](/blog/netherlands-vs-philippines-expats-2026/)
 - [Netherlands vs Japan for Expats 2026](/blog/netherlands-vs-japan-expats-2026/)
 - [Car Insurance Netherlands for Expats 2026](/blog/car-insurance-netherlands-expats-2026/)

@@ -1,7 +1,7 @@
 ---
 title: Best Finance Apps for Expats in Netherlands 2026
 date: 2026-03-28 10:00:00+01:00
-lastmod: 2026-04-23 10:00:00+01:00
+lastmod: 2026-08-19 12:00:00+02:00
 description: 'From Tikkie to YNAB: finance apps that actually work for expats in the Netherlands. My personal stack after 10 years managing money across two countries.'
 categories:
 - finance
@@ -67,8 +67,8 @@ If you are still figuring out which bank account to open first, start with my gu
 
 | App | Category | Price | Dutch IBAN | Multi-Currency | Best For |
 |-----|----------|-------|------------|----------------|----------|
-| ING | Banking | €2.45/mo | Yes | No | Full-service Dutch banking |
-| ABN AMRO | Banking | €2.45/mo | Yes | No | Dutch banking + good app |
+| ING | Banking | €4.00/mo | Yes | No | Full-service Dutch banking |
+| ABN AMRO | Banking | €4.30/mo | Yes | No | Dutch banking + good app |
 | bunq | Banking | €2.99/mo+ | Yes | Limited | Budgeting, sub-accounts |
 | Wise | Banking/Transfer | Free | EU IBAN | Yes (40+ currencies) | International transfers, multi-currency |
 | Revolut | Banking | Free–€13.99/mo | No (EU IBAN) | Yes | Spending categories, travel |

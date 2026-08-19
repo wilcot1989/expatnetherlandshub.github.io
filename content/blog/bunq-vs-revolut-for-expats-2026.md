@@ -173,7 +173,7 @@ I want to be fair here because I use Revolut regularly and there are several thi
 
 **Travel.** I travel about 8 times a year. Revolut Premium at €9.99/month gives me trip delay insurance, overseas medical insurance, and €400/month in fee-free ATM withdrawals. That travel insurance has real value — I've seen estimates that equivalent standalone travel insurance would cost €120–150/year. The Premium plan essentially breaks even on insurance alone.
 
-**Currency exchange.** Revolut's interbank exchange rate is still among the best I've seen. On Standard and Plus, you get fee-free exchange in 150+ currencies during weekday hours (a 1% fee applies on weekends — watch out for this). If you're regularly sending or receiving money in multiple currencies, Revolut's rates are competitive. That said, for dedicated international transfers I recommend [Wise for international transfers](https://go.expatnetherlandshub.com/wise) — I've compared them in detail in my [Wise vs Revolut article](/blog/wise-vs-revolut-expats-2026/).
+**Currency exchange.** Revolut's interbank exchange rate is still among the best I've seen. On Standard and Plus, you get fee-free exchange in 150+ currencies during weekday hours (a 1% fee applies on weekends — watch out for this). If you're regularly sending or receiving money in multiple currencies, Revolut's rates are competitive. That said, for dedicated international transfers I recommend [Wise for international transfers](https://go.expatnetherlandshub.com/wise) — I've compared them in detail in my [Wise vs Revolut article](/guides/finance/wise-vs-revolut-netherlands-2026/).
 
 **Investing.** Revolut offers access to stocks and ETFs directly in the app from the Plus plan. The selection isn't as wide as a dedicated broker, and you're buying fractional shares through Revolut's own system (not holding them in a proper custody account at a regulated securities firm). For long-term serious investing, I still use DEGIRO — but for dipping a toe in with small amounts, Revolut's interface is extremely simple. Read my full [DEGIRO review for expats](/blog/degiro-review-expats-netherlands-2026/) if you want a proper brokerage comparison.
 
@@ -255,7 +255,7 @@ For most expats making a life in the Netherlands, I recommend Bunq as your prima
 
 If you travel regularly, add a Revolut Premium account alongside it. Use Bunq for your Dutch life — salary, direct debits, Dutch spending. Use Revolut when you're abroad or when you want the better exchange rate for international spending.
 
-For international transfers back home, neither Bunq nor Revolut beats Wise on large amounts. <a href="https://go.expatnetherlandshub.com/wise" target="_blank" rel="nofollow sponsored noopener">Wise for international transfers</a> remains my recommendation for sending money between countries, which I've covered in detail in my [Wise vs Revolut comparison](/blog/wise-vs-revolut-expats-2026/).
+For international transfers back home, neither Bunq nor Revolut beats Wise on large amounts. <a href="https://go.expatnetherlandshub.com/wise" target="_blank" rel="nofollow sponsored noopener">Wise for international transfers</a> remains my recommendation for sending money between countries, which I've covered in detail in my [Wise vs Revolut comparison](/guides/finance/wise-vs-revolut-netherlands-2026/).
 
 **Ready to open an account?**
 

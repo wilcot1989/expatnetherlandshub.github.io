@@ -96,7 +96,7 @@ Compared to the cost of living in the Netherlands, a PhD salary is liveable — 
 
 ## The 30% Ruling for PhD Researchers
 
-The [30% ruling](/guides/legal/30-percent-ruling-netherlands-2026/) is a Dutch tax benefit for employees recruited from abroad with specific expertise. If you qualify, 30% of your gross salary is treated as a tax-free reimbursement of extraterritorial costs. In practice, this significantly increases your net income.
+The [30% ruling](/guides/finance/30-percent-ruling-netherlands-2026/) is a Dutch tax benefit for employees recruited from abroad with specific expertise. If you qualify, 30% of your gross salary is treated as a tax-free reimbursement of extraterritorial costs. In practice, this significantly increases your net income.
 
 **Eligibility for PhD researchers:**
 

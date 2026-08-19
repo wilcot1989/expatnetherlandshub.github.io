@@ -1,9 +1,9 @@
 ---
 title: 'Is Subletting Legal in the Netherlands? (2026 Rules)'
 date: 2026-03-18 10:00:00+01:00
-lastmod: 2026-08-07 10:00:00+02:00
+lastmod: 2026-08-19 10:00:00+02:00
 type: guide
-description: Is subletting legal in the Netherlands? Only with written landlord permission. Airbnb city rules, illegal subletting penalties, and how to sublet safely.
+description: 'Is subletting legal in the Netherlands? Only with written landlord permission. Amsterdam''s 30-night Airbnb cap, EUR 10,000 fines and how to sublet legally.'
 categories:
 - housing
 tags:
@@ -37,15 +37,15 @@ faq:
 - q: Can I rent out a room in my apartment while I am still living there?
   a: Room rental within your own home (where you remain the primary resident) is treated differently from subletting the whole property. In the private sector, you still need your landlord's written permission to bring in a room-mate. In social housing, there are specific income and relationship rules, and many housing associations prohibit it entirely. Even if your contract is silent on the matter, common law requires consent. Ask your landlord explicitly before placing any room-mate advertisement.
 products:
-- name: HousingAnywhere
-  url: https://housinganywhere.com/
+- name: Independer Inboedelverzekering
+  url: https://go.expatnetherlandshub.com/independer-inboedel?ref=/guides/housing/subletting-netherlands-rules-expats-2026/
   price: '0.00'
-- name: Pararius
-  url: https://www.pararius.com/
+  description: Free comparison. Contents insurance is the one thing you must check
+    before a subtenant moves in -- many policies limit cover during subletting.
+- name: Independer Energie
+  url: https://go.expatnetherlandshub.com/independer-energie?ref=/guides/housing/subletting-netherlands-rules-expats-2026/
   price: '0.00'
-- name: Funda
-  url: https://www.funda.nl/
-  price: '0.00'
+  description: Compare Dutch energy contracts for the property you are letting out.
 schema_type: Article
 ---
 
@@ -315,11 +315,13 @@ Do a documented check-in: photograph every room, note any existing damage, and b
 Your subtenant's rent should cover your own rent. Charging materially more than your own rent, purely for profit, is legally questionable — the Huurcommissie can order you to repay overcharged amounts. Charging a modest supplement for furniture and services is permitted.
 
 **Step 7: Inform your insurer.**
-Check whether your inboedelverzekering (contents insurance) covers a subletting situation. Some policies exclude or limit coverage when a subtenant is in residence. Update your policy if needed before handing over the keys.
+Check whether your inboedelverzekering (contents insurance) covers a subletting situation. Some policies exclude or limit coverage when a subtenant is in residence. Update your policy if needed before handing over the keys. If your current policy will not cover it, comparing is faster than negotiating with your existing insurer.
+
+<a href="https://go.expatnetherlandshub.com/independer-inboedel?ref=/guides/housing/subletting-netherlands-rules-expats-2026/" class="cta-affiliate" rel="nofollow noopener sponsored" target="_blank">Compare contents insurance that allows subletting →</a>
 
 **Step 8: Plan the end of the sublet.**
 Give your subtenant a clear written notice schedule. Under Dutch law, your subtenant has protection rights — you cannot simply ask them to leave on short notice if the agreement does not specify an end date. Fixed-duration agreements are safer for this reason. For stays under 2 years, a fixed-term contract with a clear end date is the standard approach. When the sublet ends, do a documented check-out together — photograph the property, note any changes from the check-in condition report, and settle the deposit formally in writing. Keeping the process documented at every stage protects both parties and avoids the ambiguity that leads to Huurcommissie disputes after the fact.
 
-<a href="https://go.expatnetherlandshub.com/wise" class="cta-affiliate" rel="nofollow noopener sponsored" target="_blank">Try Wise</a>
+If you are the one going abroad, collecting euro rent while your own costs are in another currency is where the money quietly leaks. <a href="https://go.expatnetherlandshub.com/wise?ref=/guides/housing/subletting-netherlands-rules-expats-2026/" class="cta-affiliate" rel="nofollow noopener sponsored" target="_blank">Hold and convert euro rent with Wise →</a>
 
-And compare energy contracts for your Dutch home: <a href="https://go.expatnetherlandshub.com/independer-energie" class="cta-affiliate" rel="nofollow noopener sponsored" target="_blank">Compare Energy Plans at Independer</a>
+And for the property itself: <a href="https://go.expatnetherlandshub.com/independer-energie?ref=/guides/housing/subletting-netherlands-rules-expats-2026/" class="cta-affiliate" rel="nofollow noopener sponsored" target="_blank">compare Dutch energy contracts on Independer →</a>

@@ -140,7 +140,7 @@ Trade Republic's cash interest rate has been a major draw — up to 4% APY on un
 
 DEGIRO pays no interest on cash. The platform's traditional default has been to invest cash in money market funds, which had their own structure changes in 2023–2024. Most users now hold cash on DEGIRO at zero interest — fine for working capital between trades, terrible as a savings account.
 
-If you keep €5,000–€20,000 of buffer cash within your investing platform, Trade Republic's interest can earn you €200–€800/year more. That said, you'd usually be better off with that cash in [Bunq's savings account](/blog/bunq-review-expats-netherlands-2026/) or another high-interest Dutch savings option.
+If you keep €5,000–€20,000 of buffer cash within your investing platform, Trade Republic's interest can earn you €200–€800/year more. That said, you'd usually be better off with that cash in [Bunq's savings account](/guides/finance/bunq-review-expats-netherlands-2026/) or another high-interest Dutch savings option.
 
 ## Tax Reporting for Dutch Residents
 
@@ -152,7 +152,7 @@ Both platforms produce annual tax statements (jaaroverzicht) that align with Dut
 
 For dividend tax, both broker statements show withholding tax credits where applicable.
 
-If you have a [tax advisor](/blog/best-tax-advisors-expats-netherlands-2026/), either platform's statement is straightforward for them to work with.
+If you have a [tax advisor](/guides/finance/best-tax-advisors-expats-netherlands-2026/), either platform's statement is straightforward for them to work with.
 
 ## Funding and Withdrawing
 
@@ -210,7 +210,7 @@ I wouldn't lose sleep over either.
 
 ## My Honest Setup as of 2026
 
-I keep my long-term ETF accumulation in Trade Republic via savings plans (set, forget, automated). I keep individual stock holdings and a couple of niche ETFs in DEGIRO. Cash buffer (anything above what I want to invest) sits in [Bunq](/blog/bunq-review-expats-netherlands-2026/) for higher interest plus Dutch banking features that DEGIRO and Trade Republic don't offer.
+I keep my long-term ETF accumulation in Trade Republic via savings plans (set, forget, automated). I keep individual stock holdings and a couple of niche ETFs in DEGIRO. Cash buffer (anything above what I want to invest) sits in [Bunq](/guides/finance/bunq-review-expats-netherlands-2026/) for higher interest plus Dutch banking features that DEGIRO and Trade Republic don't offer.
 
 If I were starting from zero in mid-2026 with €500/month to invest and no existing portfolio, I'd open Trade Republic, set up a savings plan into a world index UCITS ETF, and not bother with anything else for the first 12–24 months.
 

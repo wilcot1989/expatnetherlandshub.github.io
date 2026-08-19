@@ -114,7 +114,7 @@ Profile: Just landed, BSN application in progress, need a Dutch number now.
 
 **Best pick:** Lebara or Lyca prepaid SIM, then switch to SIM-only once you have your BSN and Dutch IBAN. Both can be activated with a passport and a foreign IBAN.
 
-For prepaid options specifically, see [Best prepaid SIM cards in the Netherlands](/blog/best-prepaid-sim-card-netherlands-2026/) and the broader [SIM card guide for expats](/blog/best-sim-card-netherlands-expats-2026/).
+For prepaid options specifically, see [Best prepaid SIM cards in the Netherlands](/blog/best-prepaid-sim-card-netherlands-2026/) and the broader [SIM card guide for expats](/guides/daily-life/best-sim-card-netherlands-expats-2026/).
 
 ## What Actually Differs Between Providers
 

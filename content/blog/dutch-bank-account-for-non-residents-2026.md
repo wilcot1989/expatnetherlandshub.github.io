@@ -1,7 +1,7 @@
 ---
 title: "Dutch Bank Account for Non-Residents: 2026 Guide"
 date: 2026-08-07
-lastmod: 2026-08-07T08:00:00+01:00
+lastmod: 2026-08-19 12:00:00+02:00
 author: "Sarah van den Berg"
 author_bio: "Expat coach and writer at ExpatNetherlandsHub.com"
 description: "You can open a Dutch-usable bank account before you have a BSN or Dutch address. Here are the routes that actually work in 2026 — and their trade-offs."
@@ -51,7 +51,7 @@ This guide is what I told her, laid out properly. You will know exactly which ac
 
 ## Why Traditional Dutch Banks Cannot Help You (Yet)
 
-ING, ABN AMRO, Rabobank, and SNS all require a BSN (Burgerservicenummer) before they will open a current account. The BSN is the Dutch citizen service number — it is assigned when you register at your local municipality (gemeente), which requires a confirmed Dutch address, which requires you to physically be in the Netherlands.
+ING, ABN AMRO, Rabobank, and ASN Bank all require a BSN (Burgerservicenummer) before they will open a current account. The BSN is the Dutch citizen service number — it is assigned when you register at your local municipality (gemeente), which requires a confirmed Dutch address, which requires you to physically be in the Netherlands.
 
 The [Dutch National Bank (DNB)](https://www.dnb.nl/en/) imposes anti-money-laundering identification standards that these banks implement by requiring a BSN. There is no workaround. If you try to book an appointment without one, you will be turned away or told to come back later.
 
@@ -90,7 +90,7 @@ Your account is active and usable for transfers the moment it is verified. You d
 
 **Cost:** Opening and holding a Wise account is free. You pay a small fee (typically 0.4–0.7%) when converting between currencies, and there is a modest fee for ATM withdrawals beyond the free monthly limit (two withdrawals up to €200/month are free). Sending euros within SEPA is free or very cheap.
 
-For a thorough comparison of Wise against Revolut, see my full [Wise vs Revolut for expats guide](/blog/wise-vs-revolut-for-expats-2026/).
+For a thorough comparison of Wise against Revolut, see my full [Wise vs Revolut for expats guide](/guides/finance/wise-vs-revolut-netherlands-2026/).
 
 ---
 

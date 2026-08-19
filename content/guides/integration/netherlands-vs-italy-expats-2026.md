@@ -107,7 +107,7 @@ Italian companies tend to pay less than international multinationals operating i
 
 ### Netherlands: 30% Ruling
 
-The Dutch [30% ruling](/guides/legal/30-percent-ruling-netherlands-2026/) allows qualifying expats to receive 30% of their gross salary as a tax-free allowance for up to five years. Requirements: recruited from abroad (lived 150km+ from Dutch border for 16 of the 24 months before starting), salary above the threshold (EUR 46,107 in 2026).
+The Dutch [30% ruling](/guides/finance/30-percent-ruling-netherlands-2026/) allows qualifying expats to receive 30% of their gross salary as a tax-free allowance for up to five years. Requirements: recruited from abroad (lived 150km+ from Dutch border for 16 of the 24 months before starting), salary above the threshold (EUR 46,107 in 2026).
 
 Standard Dutch income tax: 36.97% on income up to EUR 75,518; 49.5% above.
 

@@ -40,7 +40,7 @@ Pension transfers between the Netherlands and other countries are one of the mos
 
 *Disclosure: this guide contains affiliate links. I may earn a small commission if you sign up via them at no extra cost to you. This is informational, not pension advice. For your specific situation, consult a qualified Dutch fiscal pension adviser.*
 
-💡 *For the broader pension picture, see [Dutch pension complete guide](/blog/dutch-pension-complete-guide-expats-2026/), [Dutch pension system explained](/blog/dutch-pension-system-expats-2026/), and [What happens to your pension if you leave the Netherlands](/blog/dutch-pension-leaving-netherlands-2026/).*
+💡 *For the broader pension picture, see [Dutch pension complete guide](/guides/finance/dutch-pension-complete-guide-expats-2026/), [Dutch pension system explained](/guides/finance/dutch-pension-system-expats-2026/), and [What happens to your pension if you leave the Netherlands](/guides/finance/dutch-pension-leaving-netherlands-2026/).*
 
 
 > **Quick answer:** How to transfer pensions in and out of the Netherlands as an expat in 2026: rules, tax treatment, common mistakes, and when transfer beats leaving it.
@@ -226,7 +226,7 @@ Hire a Dutch pension/fiscal adviser if any of these apply:
 
 Specialist fees: €300–€800 for a one-off consultation, €1,500–€3,500 for full pension planning including modeling and treaty optimization.
 
-For more on the broader Dutch retirement framework, see [Retiring in the Netherlands](/blog/retiring-in-netherlands-expat-guide-2026/), [Claiming Dutch pension abroad](/blog/claiming-dutch-pension-abroad-2026/), and [Dutch pension complete guide](/blog/dutch-pension-complete-guide-expats-2026/).
+For more on the broader Dutch retirement framework, see [Retiring in the Netherlands](/blog/retiring-in-netherlands-expat-guide-2026/), [Claiming Dutch pension abroad](/blog/claiming-dutch-pension-abroad-2026/), and [Dutch pension complete guide](/guides/finance/dutch-pension-complete-guide-expats-2026/).
 
 ## My Take on the Default Decision
 
@@ -288,7 +288,7 @@ Pension entitlements pass to heirs differently than other assets:
 
 For expats with multi-country pension situations, an estate-planning consult with a fiscal lawyer who understands cross-border issues is worthwhile. Costs €500–€1,500 for a one-off consultation; well worth it for complex situations.
 
-For Dutch inheritance specifically, see [Dutch inheritance tax for expats](/blog/dutch-inheritance-tax-expats-2026/) and [Dutch inheritance law and wills](/blog/dutch-inheritance-law-wills-expats-2026/).
+For Dutch inheritance specifically, see [Dutch inheritance tax for expats](/guides/finance/dutch-inheritance-tax-expats-2026/) and [Dutch inheritance law and wills](/guides/legal/dutch-inheritance-law-wills-expats-2026/).
 
 ## Brexit and UK Pensioners
 

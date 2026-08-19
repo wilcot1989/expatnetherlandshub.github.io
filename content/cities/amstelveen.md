@@ -1,8 +1,8 @@
 ---
 title: 'Amstelveen Expat Guide 2026: Population, Rent, Schools'
-description: "Amstelveen has 95,840 residents (2026). Guide for expats: rent prices, top neighbourhoods, international schools, commute to Amsterdam, and honest advice."
+description: "Amstelveen has 95,840 residents (2026). Expat guide: rents from EUR 1,200, international schools, 20-minute commute to Amsterdam, registration."
 date: 2026-03-07 10:00:00+01:00
-lastmod: 2026-08-07 10:00:00+02:00
+lastmod: 2026-08-19 10:00:00+02:00
 featured_image: /images/categories/cities.svg
 author: Sarah van den Berg
 categories:
@@ -13,6 +13,22 @@ tags:
 - amsterdam suburbs
 - expat community
 - amstelveen population
+affiliate: true
+products:
+- name: Independer Zorgverzekering
+  url: https://go.expatnetherlandshub.com/independer-zorg?ref=/cities/amstelveen/
+  price: '0.00'
+  description: Free comparison in English. Dutch health insurance is mandatory from
+    day one and averages EUR 159 per month in 2026.
+- name: Wise
+  url: https://go.expatnetherlandshub.com/wise?ref=/cities/amstelveen/
+  price: '0.00'
+  description: European IBAN before your BSN arrives, plus transfers at the real exchange
+    rate.
+- name: SafetyWing
+  url: https://go.expatnetherlandshub.com/safetywing?ref=/cities/amstelveen/
+  price: '0.00'
+  description: Global cover for the gap before Dutch insurance starts.
 keywords:
 - expats in amstelveen
 - expat amstelveen
@@ -106,7 +122,7 @@ English-speaking GPs are available, and the high expat population means several 
 
 For Japanese-speaking residents specifically, there are healthcare providers in the Amstelveen area with Japanese-language capability, which reflects how embedded that community is in the town.
 
-Health insurance is mandatory from your first day as a Dutch resident. Premiums start around €140–€175 per month with a €385 annual deductible. If you arrive mid-year, you are still required to take out cover from day one of residence. Use the [Health Insurance Wizard](/tools/health-insurance-wizard/) to compare plans and check what supplementary cover makes sense for your situation. Compare Dutch and international expat insurance options with the [Insurance Comparison](/tools/insurance-chooser/).
+Health insurance is mandatory from your first day as a Dutch resident. In 2026 the average basic policy costs about €159 per month, the cheapest start around €142 and the most expensive run to €185, all with the same statutory €385 deductible (eigen risico) — a spread of over €500 a year for identical basic cover. <a href="https://go.expatnetherlandshub.com/independer-zorg?ref=/cities/amstelveen/" target="_blank" rel="nofollow noopener sponsored" class="cta-affiliate">Compare Dutch health insurers in English →</a> If you arrive mid-year, you are still required to take out cover from day one of residence. Use the [Health Insurance Wizard](/tools/health-insurance-wizard/) to compare plans and check what supplementary cover makes sense for your situation. Compare Dutch and international expat insurance options with the [Insurance Comparison](/tools/insurance-chooser/).
 
 See the [Health Insurance guide](/guides/health/) for a full explanation of how the Dutch insurance system works.
 

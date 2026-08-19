@@ -1,7 +1,7 @@
 ---
 title: Best Savings Account Netherlands 2026 for Expats
 date: 2026-07-16 10:00:00+01:00
-lastmod: 2026-04-23 10:00:00+01:00
+lastmod: 2026-08-19 12:00:00+02:00
 description: I compared 7 savings accounts in the Netherlands for expats. Actual 2026 interest rates, tax rules, and which spaarrekening is worth opening.
 categories:
 - finance
@@ -341,7 +341,7 @@ So your total box 3 tax on EUR 80,000 in savings is EUR 85 per year. That is man
 
 **The key takeaway:** For most expats with savings under EUR 200,000, the tax burden is modest enough that earning interest is still very much worthwhile. Do not let box 3 scare you out of saving.
 
-For a deeper explanation of the Dutch tax system, read my [full expat tax guide](/guides/finance/dutch-tax-system-expats-2026/).
+For a deeper explanation of the Dutch tax system, read my [full expat tax guide](/guides/finance/dutch-tax-system-expats-guide-2026/).
 
 ### The Box 3 Legal Saga
 
@@ -369,7 +369,7 @@ The Dutch Deposit Guarantee Scheme (Depositogarantiestelsel, DGS) protects your 
 
 ### Important Detail for Expats
 
-Some banks in the Netherlands share a banking licence. For example, KNAB and ASN Bank both operate under the de Volksbank licence. If you have EUR 80,000 at ASN Bank and EUR 80,000 at KNAB, you are only protected up to EUR 100,000 in total across both, not EUR 100,000 at each.
+Some banks in the Netherlands share a banking licence. For example, ASN Bank and BLG Wonen both operate under the de Volksbank licence — and the SNS and RegioBank brands were folded into ASN Bank on 1 July 2025 and 1 December 2025 respectively. If you have EUR 80,000 at ASN Bank and EUR 80,000 at BLG Wonen, you are only protected up to EUR 100,000 in total across both, not EUR 100,000 at each.
 
 The big three — ING, ABN AMRO, and Rabobank — each have their own separate licence, so EUR 100,000 at each of them means EUR 300,000 in total protection.
 
@@ -405,7 +405,7 @@ The money moves before I can spend it, which is the entire point.
 
 ### 4. Emergency Fund First
 
-Before chasing the highest rates, build an emergency fund of 3-6 months of living expenses in a flexible, instantly accessible account. For the Netherlands, I recommend at least EUR 5,000-8,000 for a single person or EUR 10,000-15,000 for a family. The [cost of living in the Netherlands](/guides/finance/cost-of-living-netherlands-2026/) guide can help you calculate your specific number.
+Before chasing the highest rates, build an emergency fund of 3-6 months of living expenses in a flexible, instantly accessible account. For the Netherlands, I recommend at least EUR 5,000-8,000 for a single person or EUR 10,000-15,000 for a family. The [cost of living in the Netherlands](/guides/housing/cost-of-living-netherlands-2026/) guide can help you calculate your specific number.
 
 ### 5. Consider Your Currency Mix
 
@@ -417,7 +417,7 @@ If you still receive income in GBP, USD, or another currency, do not automatical
 
 ## How the 30% Ruling Affects Your Savings
 
-If you have the [30% ruling](/guides/work/30-percent-ruling-guide-2026/), you have a significant advantage when it comes to savings tax.
+If you have the [30% ruling](/guides/finance/30-percent-ruling-netherlands-2026/), you have a significant advantage when it comes to savings tax.
 
 ### Partial Non-Resident Taxpayer Status
 
@@ -433,7 +433,7 @@ When your 30% ruling ends, all your savings suddenly fall into box 3 and become 
 
 **My advice:** Start treating your savings as if they were taxable before the ruling ends. Set aside money for the tax bill, or consider restructuring your assets (moving money into pension products, paying down your mortgage, or investing in your primary residence) before the ruling expires.
 
-For more on the 30% ruling, including the latest 2026 changes, read my [detailed guide](/guides/work/30-percent-ruling-guide-2026/).
+For more on the 30% ruling, including the latest 2026 changes, read my [detailed guide](/guides/finance/30-percent-ruling-netherlands-2026/).
 
 ---
 
@@ -481,7 +481,7 @@ A savings account is the right choice for money you need within the next 1-3 yea
 
 If you have built your emergency fund, have no high-interest debt, and have savings you will not need for 5+ years, consider moving some money into a low-cost index fund. The long-term average stock market return is roughly 7-8 percent per year — dramatically more than any savings account.
 
-I cover this in detail in my [investing guide for expats](/guides/finance/investing-netherlands-expat-guide-2026/), including tax-efficient options and how to use platforms like DeGiro. If you are curious about DeGiro specifically, read my [DeGiro review](/guides/finance/degiro-review-expats-2026/).
+I cover this in detail in my [investing guide for expats](/guides/finance/investing-netherlands-expats-2026/), including tax-efficient options and how to use platforms like DeGiro. If you are curious about DeGiro specifically, read my [DeGiro review](/blog/degiro-review-expats-netherlands-2026/).
 
 The point is not "do not save" — it is "save first, then invest the rest." Your savings account is your foundation, not your entire financial strategy.
 
@@ -503,7 +503,7 @@ After helping hundreds of expats with their finances, these are the mistakes I s
 
 **6. Converting currency unnecessarily.** If you have GBP or USD savings, check whether the interest rate in that currency (especially via Wise) beats what you would earn converting to euros. Often it does.
 
-**7. Not having an emergency fund.** I cannot count the number of expats who have come to me after an unexpected job loss or medical bill with zero accessible savings. Before optimising interest rates, make sure you have 3-6 months of expenses in a flexible account. The [salary guide](/guides/work/salary-guide-expats-netherlands-2026/) can help you benchmark your income against typical expenses.
+**7. Not having an emergency fund.** I cannot count the number of expats who have come to me after an unexpected job loss or medical bill with zero accessible savings. Before optimising interest rates, make sure you have 3-6 months of expenses in a flexible account. The [salary guide](/guides/work/average-salary-netherlands-2026/) can help you benchmark your income against typical expenses.
 
 ---
 

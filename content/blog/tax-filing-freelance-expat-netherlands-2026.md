@@ -40,7 +40,7 @@ This guide covers what freelance expats in the Netherlands actually need to know
 
 *Disclosure: this article contains affiliate links. If you sign up via them I may earn a small commission at no extra cost to you. I'm not a tax advisor — this is informational only based on my own freelance experience in the Netherlands. For your specific situation, consult a qualified Dutch tax adviser.*
 
-💡 *New to ZZP/freelance in the Netherlands? Start with [KvK registration for expats](/blog/kvk-registration-expat-guide-2026/) and [Tax for freelancers / ZZP in the Netherlands](/blog/tax-freelancers-zzp-netherlands-2026/) for the foundational setup steps.*
+💡 *New to ZZP/freelance in the Netherlands? Start with [KvK registration for expats](/guides/work/kvk-registration-expat-guide-2026/) and [Tax for freelancers / ZZP in the Netherlands](/guides/finance/tax-freelancers-zzp-netherlands-2026/) for the foundational setup steps.*
 
 
 > **Quick answer:** How freelance expats file Dutch taxes in 2026: ZZP income, VAT, deductions, the 30% ruling, deadlines, and when to hire a tax advisor versus DIY.
@@ -232,7 +232,7 @@ Typical fees:
 - Mid-complexity (multiple revenue streams, deductions): €800–€1,500
 - Complex (BV, US citizen, multi-country): €1,500–€4,000
 
-For finding one, my [best tax advisors for expats](/blog/best-tax-advisors-expats-netherlands-2026/) guide covers what to look for and which firms have strong expat track records.
+For finding one, my [best tax advisors for expats](/guides/finance/best-tax-advisors-expats-netherlands-2026/) guide covers what to look for and which firms have strong expat track records.
 
 ## Provisional Tax Assessments (Voorlopige Aanslag)
 
@@ -291,7 +291,7 @@ For investment income that lands in Box 3 alongside your freelance Box 1 income,
 - **BTW:** Quarterly, DIY via the portal
 - **Hours tracking:** Toggl, exported monthly to spreadsheet for the urencriterium
 
-For more on the foundations, see [KvK registration for expats](/blog/kvk-registration-expat-guide-2026/), [tax for freelancers / ZZP](/blog/tax-freelancers-zzp-netherlands-2026/), and the [first year in the Netherlands pillar](/blog/first-year-netherlands-expat-pillar-2026/).
+For more on the foundations, see [KvK registration for expats](/guides/work/kvk-registration-expat-guide-2026/), [tax for freelancers / ZZP](/guides/finance/tax-freelancers-zzp-netherlands-2026/), and the [first year in the Netherlands pillar](/blog/first-year-netherlands-expat-pillar-2026/).
 
 ## VAR-Style Status: Are You Really a Freelancer?
 
@@ -385,7 +385,7 @@ Common conversion thresholds:
 - **Liability concerns.** BV provides legal liability separation that eenmanszaak doesn't.
 - **Multi-shareholder situations.** BV structure is needed for partners, investors, employees with equity.
 
-Conversion is a one-way move in practice — you can revert eenmanszaak to BV but not easily back. Plan it carefully with a [tax advisor](/blog/best-tax-advisors-expats-netherlands-2026/) who runs the projections both ways.
+Conversion is a one-way move in practice — you can revert eenmanszaak to BV but not easily back. Plan it carefully with a [tax advisor](/guides/finance/best-tax-advisors-expats-netherlands-2026/) who runs the projections both ways.
 
 ---
 

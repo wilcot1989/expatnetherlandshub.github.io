@@ -1,7 +1,7 @@
 ---
 title: 'Bunq Review 2026: Is It Worth It for Expats?'
 date: 2026-05-29 10:00:00+01:00
-lastmod: 2026-04-23 10:00:00+01:00
+lastmod: 2026-08-19 12:00:00+02:00
 description: A full bunq review from an expat perspective — pricing, features, sub-accounts, iDEAL, and how it compares to ING, ABN AMRO, Wise, and Revolut.
 categories:
 - finance
@@ -80,7 +80,7 @@ The entry plan. You get:
 - The bunq app
 - Up to 3 sub-accounts
 
-This plan works for basic Dutch banking. If you just want a Dutch account for salary, rent, and day-to-day spending, Easy Bank does the job. The EUR 2.99 monthly fee is comparable to ING's basic account (EUR 2.45) and ABN AMRO (EUR 2.45).
+This plan works for basic Dutch banking. If you just want a Dutch account for salary, rent, and day-to-day spending, Easy Bank does the job. The EUR 2.99 monthly fee is actually below ING's OranjePakket (EUR 4.00 since 1 January 2026) and ABN AMRO's Basisbetaalpakket (EUR 4.30).
 
 ### Easy Savings — EUR 2.99/month
 
@@ -211,7 +211,7 @@ See our [detailed ING vs ABN AMRO comparison](/guides/finance/ing-vs-abn-amro-ex
 
 ## Bunq vs ABN AMRO
 
-ABN AMRO is the most common recommendation for expats who want a traditional Dutch bank — their international desk is experienced with expat onboarding and they have a solid English app. But ABN AMRO charges EUR 2.45/month for a basic account, is restrictive about opening accounts for non-residents, and the savings rates are low.
+ABN AMRO is the most common recommendation for expats who want a traditional Dutch bank — their international desk is experienced with expat onboarding and they have a solid English app. But ABN AMRO charges EUR 4.30/month for the Basisbetaalpakket (price as of 1 January 2026), is restrictive about opening accounts for non-residents, and the savings rates are low.
 
 For day-to-day digital banking in the Netherlands, bunq Easy Money genuinely outperforms ABN AMRO's standard account in terms of features. ABN AMRO wins on branches, mortgage integration, and long-term relationship banking.
 
@@ -320,7 +320,7 @@ Bunq does not require an in-person appointment and does not have branches. Every
 Being honest about a product I use means acknowledging its limitations:
 
 **1. Price**
-EUR 8.99/month for Easy Money is notably more expensive than ING's EUR 2.45 or Rabobank's EUR 1.95. Over a year, that difference is EUR 77. The sub-accounts and features are genuinely good, but you are paying for them.
+EUR 8.99/month for Easy Money is notably more expensive than ING's OranjePakket at EUR 4.00 or Rabobank's basic package from around EUR 3.60. Over a year, that difference is roughly EUR 60 to EUR 65. The sub-accounts and features are genuinely good, but you are paying for them.
 
 **2. Customer service**
 This is the most common complaint I hear from expats using bunq. The in-app chat starts with an AI assistant. Getting to a human takes persistence. For routine questions (how do I do X?) this is fine. For anything involving a disputed transaction, a blocked account, or a technical error, the process is frustrating. There is no phone number. There are no branches. You are at the mercy of the chat queue.
@@ -409,7 +409,7 @@ Rabobank is a Dutch cooperative bank with strong rural and agricultural roots th
 | Physical branches | No | Yes |
 | Deposit guarantee | EUR 100,000 (DNB) | EUR 100,000 (DNB) |
 
-Rabobank's main advantage over bunq is cost and branches. At EUR 1.95/month for the basic Betaalpakket, it is substantially cheaper. The English app experience is adequate but not bunq's level.
+Rabobank's main advantage over bunq is cost and branches. From around EUR 3.60/month for the basic Betaalpakket, it is cheaper than Easy Money. The English app experience is adequate but not bunq's level.
 
 For expats in non-urban areas who value local branch access for occasional in-person banking needs, Rabobank is worth considering alongside ING. For expats in cities who want a digital-first experience, bunq or ING are more natural fits.
 
@@ -446,15 +446,15 @@ A question I get from expats on one or two-year contracts: is bunq worth it for 
 The honest answer depends on your definition of "worth it."
 
 If you are here for 12 months:
-- Easy Bank at EUR 2.99/month costs EUR 35.88 for the year — essentially the same as ING's basic account (EUR 2.45/month = EUR 29.40/year)
-- The premium over ING is EUR 6.48 for the year. If bunq's English app and iDEAL support are marginally better for you, the cost difference is negligible
+- Easy Bank at EUR 2.99/month costs EUR 35.88 for the year — less than ING's OranjePakket (EUR 4.00/month = EUR 48.00/year since 1 January 2026)
+- On price alone bunq Easy Bank now undercuts ING by roughly EUR 12 per year, so the cost argument no longer counts against bunq. Choose on app quality, English support and iDEAL needs instead
 - Easy Money at EUR 8.99/month is EUR 107.88 for the year — worth it if sub-accounts are valuable to you; not worth it if you will not use them
 
 If you are here for 6 months or less:
-- Traditional banks with free or low-cost accounts may be simpler. ING's standard account is easy to open, fully functional, and cheap
+- Traditional banks may be simpler. ING's OranjePakket is easy to open and fully functional, at EUR 4.00/month since 1 January 2026
 - The registration process for bunq is similarly quick, so there is no real onboarding advantage either way
 
-My actual recommendation for short-stay expats: start with a free or low-cost Dutch account (ING), add <a href="https://go.expatnetherlandshub.com/wise?ref=/guides/finance/bunq-review-expats-netherlands-2026/" target="_blank" rel="nofollow noopener sponsored" class="cta-affiliate">Wise for international transfers →</a>, and assess whether you want to add bunq for its sub-account features after a month or two.
+My actual recommendation for short-stay expats: start with a low-cost Dutch account (ING or bunq Easy Bank), add <a href="https://go.expatnetherlandshub.com/wise?ref=/guides/finance/bunq-review-expats-netherlands-2026/" target="_blank" rel="nofollow noopener sponsored" class="cta-affiliate">Wise for international transfers →</a>, and assess whether you want to add bunq for its sub-account features after a month or two.
 
 ---
 

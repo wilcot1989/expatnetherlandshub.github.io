@@ -168,7 +168,7 @@ One thing specific to Groningen: the earthquake damage compensation programme (f
 
 ## Related Guides
 
-- [Moving to Groningen: Complete Expat Guide 2026](/guides/housing/moving-to-groningen-expat-guide-2026/)
+- [Moving to Groningen: Complete Expat Guide 2026](/guides/housing/moving-to-groningen-guide-2026/)
 - [Finding Housing in the Netherlands](/guides/housing/)
 - [Working in the Netherlands](/guides/work/)
 - [Health Insurance for Expats 2026](/guides/health/)

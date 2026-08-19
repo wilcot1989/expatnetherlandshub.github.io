@@ -161,7 +161,7 @@ For moving money between your Dutch account and accounts abroad, <a href="https:
 
 Wise also lets you receive salary or consultancy payments in other currencies if you have any foreign income — though on a kennismigrant permit, check with your employer about secondary income, as the permit ties you to the recognised sponsor.
 
-For a full comparison of Dutch banking options as an expat, see [best banking for expats Netherlands](/blog/best-banking-expats-netherlands-2026/) and the [Wise vs Revolut comparison](/blog/wise-vs-revolut-for-expats-2026/).
+For a full comparison of Dutch banking options as an expat, see [best banking for expats Netherlands](/blog/best-banking-expats-netherlands-2026/) and the [Wise vs Revolut comparison](/guides/finance/wise-vs-revolut-netherlands-2026/).
 
 ---
 

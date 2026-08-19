@@ -323,7 +323,7 @@ For long-term residents I recommend a basic rechtsbijstandverzekering — the co
 
 If your income is in another currency or you are paying from a foreign bank, <a href="https://go.expatnetherlandshub.com/wise" target="_blank" rel="nofollow sponsored noopener">Wise</a> is significantly cheaper for cross-currency lawyer payments than traditional bank transfers. I have used it for a client paying a Dutch lawyer from US dollars and the saving on a EUR 8,000 fee was approximately EUR 280 versus a traditional wire.
 
-For broader transfer context see [Wise vs Revolut](/blog/wise-vs-revolut-expats-2026/).
+For broader transfer context see [Wise vs Revolut](/guides/finance/wise-vs-revolut-netherlands-2026/).
 
 ## Specialism Quick Guide
 

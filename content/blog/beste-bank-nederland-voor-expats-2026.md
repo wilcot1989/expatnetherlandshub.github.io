@@ -1,7 +1,7 @@
 ---
 title: "Beste Bank Nederland voor Expats 2026"
 date: 2026-08-09
-lastmod: 2026-08-09T08:00:00+01:00
+lastmod: 2026-08-19 12:00:00+02:00
 author: "Sarah van den Berg"
 author_bio: "Expat coach en schrijver bij ExpatNetherlandsHub.com"
 description: "ING, ABN AMRO, Bunq of Revolut — welke bank werkt het best voor internationale bewoners? Sarah testte ze allemaal na haar verhuizing vanuit het VK."
@@ -20,7 +20,7 @@ faq:
   - q: "Kan ik een bankrekening openen bij ING als expat zonder BSN?"
     a: "Nee. ING vereist een BSN (Burgerservicenummer), een geldig identiteitsdocument en een geregistreerd Nederlands adres. Zonder BSN kun je niet terecht bij ING, ABN AMRO of Rabobank. Alternatieven die zonder BSN werken zijn Wise, N26 en (deels) Bunq — ideaal terwijl je je BSN regelt."
   - q: "Wat kost een ING-rekening per maand?"
-    a: "ING Oranje Rekening is gratis voor particulieren die hun salaris ontvangen of minimaal €1.500/maand storten. Zonder deze voorwaarde kost de rekening €2,95/maand. Internationale overboekingen kosten extra: €6–€25 afhankelijk van bestemming en valuta."
+    a: "Sinds de prijsverhoging van 1 januari 2026 kost het ING OranjePakket €4,00 per maand; het uitgebreidere Extra-pakket kost €7,00 per maand. Een ING-creditcard kost €2,00 per maand extra. Internationale overboekingen kosten extra: €6–€25 afhankelijk van bestemming en valuta."
   - q: "Is Bunq een echte bank in Nederland?"
     a: "Ja. Bunq is volledig gelicenseerd door De Nederlandsche Bank (DNB) en valt onder het Nederlandse depositogarantiestelsel (tot €100.000). Bunq biedt echte NL IBAN-rekeningen, directe incasso-mogelijkheden en is geaccepteerd door de meeste Nederlandse werkgevers voor salarisbetaling."
   - q: "Welke bank geeft het snelst een rekening aan nieuwe expats?"
@@ -94,9 +94,9 @@ Na drie weken eindelijk mijn BSN in handen, was de afspraak bij ING geregeld in 
 
 | Onderdeel | Prijs |
 |---|---|
-| Maandelijkse kosten | Gratis bij salarisstorting of €1.500+/maand; anders €2,95 |
-| Pas (debit) | Gratis |
-| Creditcard | Vanaf €2,50/maand |
+| Maandelijkse kosten | €4,00 (OranjePakket, per 1 januari 2026); Extra-pakket €7,00 |
+| Pas (debit) | Inbegrepen |
+| Creditcard | €2,00/maand |
 | SEPA overboeking | Gratis |
 | Internationale overboeking | €6–€25 afhankelijk van bestemming |
 | Geld opnemen NL | Gratis |
@@ -132,7 +132,7 @@ ABN AMRO is de tweede grote speler in Nederland. Qua dienstverlening lijkt het s
 
 | Onderdeel | Prijs |
 |---|---|
-| Maandelijkse kosten | €2,95 standaard; gratis bij Preferred Banking (min. €500.000 vermogen) |
+| Maandelijkse kosten | €4,30 (Basisbetaalpakket, per 1 januari 2026) |
 | Pas (debit) | €0,99/maand |
 | Creditcard | Vanaf €2,25/maand |
 | SEPA overboeking | Gratis |
@@ -167,7 +167,7 @@ Rabobank is een coöperatieve bank met een sterke positie buiten de grote steden
 
 | Onderdeel | Prijs |
 |---|---|
-| Maandelijkse kosten | €3,20 |
+| Maandelijkse kosten | Vanaf circa €3,60 |
 | Betaalpas | Inbegrepen |
 | Creditcard | Vanaf €2,75/maand |
 | SEPA overboeking | Gratis |
@@ -238,7 +238,7 @@ Revolut ken je misschien al uit je vorige land. De app is slim, de wisselkoersen
 
 Revolut heeft een Litouwse banklicentie. Dat betekent dat je IBAN begint met LT — en sommige Nederlandse werkgevers, verhuurders en instanties weigeren een niet-NL IBAN. Niet altijd, maar regelmatig genoeg om problemen te geven.
 
-Lees ook: [Wise vs. Revolut voor expats — welke kies je?](/blog/wise-vs-revolut-for-expats-2026/)
+Lees ook: [Wise vs. Revolut voor expats — welke kies je?](/guides/finance/wise-vs-revolut-netherlands-2026/)
 
 ### Revolut-plannen (2026)
 
@@ -313,9 +313,9 @@ Lees meer in mijn gids over [bankieren zonder BSN in Nederland](/blog/how-to-ope
 
 | Bank | BSN nodig? | NL IBAN | iDEAL | Maandkosten | Internationale transfers | Depositogarantie |
 |---|---|---|---|---|---|---|
-| ING | Ja | Ja | Ja | Gratis (voorwaarden) | Duur | DNB (€100k) |
-| ABN AMRO | Ja | Ja | Ja | €2,95 + €0,99 pas | Duur | DNB (€100k) |
-| Rabobank | Ja | Ja | Ja | €3,20 | Duurste | DNB (€100k) |
+| ING | Ja | Ja | Ja | €4,00 | Duur | DNB (€100k) |
+| ABN AMRO | Ja | Ja | Ja | €4,30 | Duur | DNB (€100k) |
+| Rabobank | Ja | Ja | Ja | Vanaf ±€3,60 | Duurste | DNB (€100k) |
 | Bunq | Deels | Ja | Ja | Vanaf gratis | Redelijk | DNB (€100k) |
 | Revolut | Nee | LT-IBAN | Nee | Vanaf gratis | Goed | Litouwen (€100k) |
 | Wise | Nee | Ja | Nee | Gratis | Beste | Beperkt |

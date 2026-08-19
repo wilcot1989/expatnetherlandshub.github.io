@@ -193,7 +193,7 @@ Three scenarios:
 
 If you're negotiating an expat package, the line you want in the contract is: *"School fees for [child name] at an international school will be reimbursed up to €X per child per year as a tax-free extraterritorial cost."*
 
-For a more thorough breakdown of how money flows in and out of expat households, my piece on [the best bank account for expats](/blog/best-bank-account-expats-netherlands-2026/) covers the practical mechanics. And paying international invoices in EUR from a non-EUR salary is one of the few cases where I genuinely recommend <a href="https://go.expatnetherlandshub.com/wise?ref=/blog/international-school-netherlands-cost-2026/" target="_blank" rel="nofollow sponsored noopener">opening a Wise account</a> — the saving on a €25,000 transfer at real exchange rate vs a high-street bank is roughly €600-€900.
+For a more thorough breakdown of how money flows in and out of expat households, my piece on [the best bank account for expats](/guides/finance/best-bank-account-expats-netherlands-2026/) covers the practical mechanics. And paying international invoices in EUR from a non-EUR salary is one of the few cases where I genuinely recommend <a href="https://go.expatnetherlandshub.com/wise?ref=/blog/international-school-netherlands-cost-2026/" target="_blank" rel="nofollow sponsored noopener">opening a Wise account</a> — the saving on a €25,000 transfer at real exchange rate vs a high-street bank is roughly €600-€900.
 
 ## What about tax deductibility for parents?
 
@@ -263,7 +263,7 @@ Mia's parents went through this filter in about an hour. Most families do.
 
 International schools invoice in euros. If your salary is paid in another currency, or if the employer reimburses you in another currency, the FX cost adds up fast. On a €25k annual fee, a 2.5% bank FX markup is €625/year — every year, per kid. I move my own family's larger transfers through <a href="https://go.expatnetherlandshub.com/wise?ref=/blog/international-school-netherlands-cost-2026/" target="_blank" rel="nofollow sponsored noopener">Wise</a> for exactly this reason; the real exchange rate plus a flat fee is usually 1.5-2% cheaper than ING or ABN.
 
-For families comparing money tools beyond Wise, I wrote a head-to-head on [Wise vs Revolut for expats](/blog/wise-vs-revolut-expats-2026/) that goes deeper.
+For families comparing money tools beyond Wise, I wrote a head-to-head on [Wise vs Revolut for expats](/guides/finance/wise-vs-revolut-netherlands-2026/) that goes deeper.
 
 ## FAQ
 

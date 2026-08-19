@@ -43,7 +43,7 @@
 {{ else if eq $slug "cost-of-living-calculator" }}
   {{ $rec = slice
     (dict "name" "Wise" "desc" "Save on international transfers when sending money home" "url" "https://go.expatnetherlandshub.com/wise" "tag" "Currency Transfer" "price" "0.00")
-    (dict "name" "bunq" "desc" "Smart budgeting features and sub-accounts for expats" "url" "https://www.bunq.com/" "tag" "Banking" "price" "2.99")
+    (dict "name" "Independer" "desc" "Compare Dutch energy contracts — often the biggest fixed cost to cut" "url" "https://go.expatnetherlandshub.com/independer-energie" "tag" "Energy Comparison" "price" "")
   }}
 {{ else if eq $slug "bsn-planner" }}
   {{ $rec = slice
@@ -52,8 +52,8 @@
   }}
 {{ else if eq $slug "inburgering-route-builder" }}
   {{ $rec = slice
-    (dict "name" "Babbel" "desc" "Start learning Dutch online before your inburgering exam" "url" "https://www.babbel.com/" "tag" "Language Learning" "price" "")
-    (dict "name" "DutchPod101" "desc" "Audio-based Dutch lessons for busy expats" "url" "https://www.dutchpod101.com/" "tag" "Audio Lessons" "price" "")
+    (dict "name" "Preply" "desc" "1-on-1 Dutch lessons with a tutor — fastest route to exam level" "url" "https://go.expatnetherlandshub.com/preply" "tag" "Language Tutoring" "price" "")
+    (dict "name" "Mondly" "desc" "Self-paced Dutch app to build vocabulary before your exam" "url" "https://go.expatnetherlandshub.com/mondly" "tag" "Language App" "price" "")
   }}
 {{ else if eq $slug "diploma-evaluator" }}
   {{ $rec = slice
@@ -105,7 +105,10 @@
           <div class="tool-rec-name">{{ $p.name }}</div>
           <p class="tool-rec-desc">{{ $p.desc }}</p>
           {{ with $p.price }}<div class="tool-rec-price">{{ if eq . "0.00" }}Free{{ else }}From &euro;{{ . }}/mo{{ end }}</div>{{ end }}
-          <a href="{{ $p.url }}" class="tool-rec-cta cta-affiliate" target="_blank" rel="noopener noreferrer sponsored">
+          {{/* sponsored + ref alleen voor echte affiliate-go-links; overige aanbevelingen zijn onbetaald */}}
+          {{ $isAff := hasPrefix $p.url "https://go.expatnetherlandshub.com" }}
+          {{ $href := $p.url }}{{ if $isAff }}{{ $href = printf "%s?ref=/tools/%s/" $p.url $slug }}{{ end }}
+          <a href="{{ $href }}" class="tool-rec-cta{{ if $isAff }} cta-affiliate{{ end }}" target="_blank" rel="noopener noreferrer{{ if $isAff }} sponsored{{ end }}">
             Try {{ $p.name }} &rarr;
           </a>
         </div>

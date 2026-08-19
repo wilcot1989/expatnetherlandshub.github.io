@@ -1,8 +1,8 @@
 ---
 title: 'Preply vs iTalki for Dutch Lessons: Which Is Better? (2026)'
 date: 2026-03-30 10:00:00+01:00
-lastmod: 2026-08-07 10:00:00+02:00
-description: Preply vs iTalki for learning Dutch as an expat — which is really better? Pricing, tutor vetting, lesson structure, and who each platform suits.
+lastmod: 2026-08-19 10:00:00+02:00
+description: 'Preply or iTalki for Dutch lessons? Preply tutors run EUR 15-40/hour with a trial guarantee, iTalki community tutors from EUR 8. Which fits your level.'
 categories:
 - integration
 tags:
@@ -34,15 +34,19 @@ faq:
 - q: Why do some people choose italki instead of Preply?
   a: Mainly price and choice. Italki gives you access to community tutors — native Dutch speakers offering informal conversation practice from around EUR 8-20/hour — alongside professional teachers, plus the freedom to run lessons on whatever video platform you already use.
 products:
-- name: Babbel
-  url: https://go.expatnetherlandshub.com/babbel
-  price: '6.99'
-- name: DutchPod101
-  url: https://www.dutchpod101.com/
+- name: Preply
+  url: https://go.expatnetherlandshub.com/preply?ref=/guides/integration/preply-vs-italki-dutch-lessons-2026/
   price: '0.00'
+  description: Free to sign up. Dutch tutors charge EUR 15-40 per hour, trial lesson
+    at about half price.
+- name: Mondly
+  url: https://go.expatnetherlandshub.com/mondly?ref=/guides/integration/preply-vs-italki-dutch-lessons-2026/
+  price: '9.99'
+  description: Self-study app for the days between tutor sessions.
 - name: italki
   url: https://www.italki.com/
   price: '0.00'
+  description: Community tutors from EUR 8 per hour. No affiliate arrangement.
 schema_type: Article
 ---
 
@@ -72,6 +76,10 @@ Here is what I found.
 | **Payment model** | Buy lesson packages | Pay per lesson or package |
 | **Best for** | Structured learners, beginners | Flexible learners, intermediate+, budget-conscious |
 | **Our rating** | 8.5/10 | 8/10 |
+
+**Short answer:** beginners are usually better off on Preply — every tutor is vetted, the platform tracks your vocabulary and homework for you, and if your trial lesson disappoints you get credits to try someone else. Once you can hold a conversation, iTalki's community tutors (from EUR 8/hour) are the cheaper way to keep practising.
+
+<a href="https://go.expatnetherlandshub.com/preply?ref=/guides/integration/preply-vs-italki-dutch-lessons-2026/" class="cta-affiliate" rel="nofollow noopener sponsored" target="_blank">Browse Dutch tutors on Preply →</a>
 
 ---
 
@@ -389,7 +397,7 @@ Both Preply and iTalki are legitimate, well-run platforms with genuine Dutch tut
 
 **Choose iTalki** if you are at an intermediate level, want more tutor choice at a broader price range, and are comfortable taking a more active role in managing your own learning. The community tutor option offers outstanding value if you find the right person.
 
-<a href="https://www.italki.com/" class="cta-affiliate" rel="noopener nofollow sponsored" target="_blank">Browse Dutch Tutors on iTalki →</a>
+You can browse the Dutch tutor listings directly at [italki.com](https://www.italki.com/) — we have no affiliate arrangement with iTalki, so that is a plain link.
 
 My personal verdict after testing both: I got more out of my Preply sessions as a beginner because the structure kept me on track. Once my Dutch reached a functional conversational level, I found more value in iTalki's diverse tutor pool for practising different contexts — work conversations, informal chats, formal writing. The platforms suit different stages of the learning journey, which is why so many serious Dutch learners end up using both at some point.
 

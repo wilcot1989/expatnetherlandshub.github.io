@@ -182,7 +182,7 @@ Let me walk through three scenarios:
 
 My own average over six months was around €600–900 per month in ATM withdrawals. I travel enough that in two of those six months I hit well over €800. In those months, Bunq Easy Green was unambiguously cheaper despite the higher headline price.
 
-If you're a frequent traveler comparing Revolut specifically for transfers, my [Wise vs Revolut comparison](/blog/wise-vs-revolut-expats-2026/) covers international transfer costs in more depth.
+If you're a frequent traveler comparing Revolut specifically for transfers, my [Wise vs Revolut comparison](/guides/finance/wise-vs-revolut-netherlands-2026/) covers international transfer costs in more depth.
 
 ---
 
@@ -310,7 +310,7 @@ If Revolut Metal sounds like the better fit for your lifestyle, you can explore 
 
 - [Best banking accounts for expats in the Netherlands 2026](/blog/best-banking-expats-netherlands-2026/) — full market overview including free tiers
 - [N26 vs Bunq vs Revolut for expats in the Netherlands](/blog/n26-vs-bunq-vs-revolut-expats-netherlands-2026/) — three-way comparison including N26
-- [Wise vs Revolut for expats 2026](/blog/wise-vs-revolut-expats-2026/) — if international transfers are your main concern
+- [Wise vs Revolut for expats 2026](/guides/finance/wise-vs-revolut-netherlands-2026/) — if international transfers are your main concern
 - [Your first year in the Netherlands: the complete guide](/blog/first-year-netherlands-expat-pillar-2026/) — everything you need to set up your Dutch financial life
 
 ---

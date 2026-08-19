@@ -40,7 +40,7 @@ This guide covers the 2026 reality of using N26, Bunq, and Revolut as an expat i
 
 *Disclosure: this article contains affiliate links. If you sign up through them I may earn a small commission at no extra cost to you. I personally hold and use all three accounts.*
 
-💡 *For the broader banking landscape including ABN AMRO and ING, see my [best banking for expats](/blog/best-bank-account-expats-netherlands-2026/) pillar. For two-way comparisons, see [Bunq vs N26](/blog/bunq-vs-n26-expats-netherlands-2026/), [Wise vs Revolut](/blog/wise-vs-revolut-netherlands-2026/), and [ING vs Rabobank](/blog/ing-vs-rabobank-expats-2026/).*
+💡 *For the broader banking landscape including ABN AMRO and ING, see my [best banking for expats](/guides/finance/best-bank-account-expats-netherlands-2026/) pillar. For two-way comparisons, see [Bunq vs N26](/guides/finance/bunq-vs-n26-expats-netherlands-2026/), [Wise vs Revolut](/guides/finance/wise-vs-revolut-netherlands-2026/), and [ING vs Rabobank](/blog/ing-vs-rabobank-expats-2026/).*
 
 
 > **Quick answer:** Three-way comparison of N26, Bunq, and Revolut for expats in the Netherlands 2026: fees, IBANs, savings rates, app quality, and which to pick when.
@@ -221,7 +221,7 @@ Pricing changes — always verify before committing.
 
 ## Tax Reporting for Dutch Residents
 
-All three provide annual tax statements (jaaroverzicht) showing 1 January balances for Box 3 reporting. Bunq's is most Dutch-tax-aligned. N26 and Revolut provide statements you'll need to convert into the right Box 3 format manually or with your [tax advisor](/blog/best-tax-advisors-expats-netherlands-2026/).
+All three provide annual tax statements (jaaroverzicht) showing 1 January balances for Box 3 reporting. Bunq's is most Dutch-tax-aligned. N26 and Revolut provide statements you'll need to convert into the right Box 3 format manually or with your [tax advisor](/guides/finance/best-tax-advisors-expats-netherlands-2026/).
 
 For freelancers, see my [tax filing as a freelance expat](/blog/tax-filing-freelance-expat-netherlands-2026/) guide for the full picture.
 
@@ -245,9 +245,9 @@ Total cost: about €19/month for the active premium accounts plus €0 for the 
 
 **For a high-balance expat (€50K+ in cash):** Use Bunq for daily, Trade Republic/Raisin for savings yield, and a traditional Dutch bank for redundancy. Spread €100K+ across institutions for deposit insurance.
 
-For the broader Dutch banking comparison including traditional banks like ABN, ING, Rabobank, see my pillar [best bank account for expats](/blog/best-bank-account-expats-netherlands-2026/) and the foundational [first year in the Netherlands](/blog/first-year-netherlands-expat-pillar-2026/) guide.
+For the broader Dutch banking comparison including traditional banks like ABN, ING, Rabobank, see my pillar [best bank account for expats](/guides/finance/best-bank-account-expats-netherlands-2026/) and the foundational [first year in the Netherlands](/blog/first-year-netherlands-expat-pillar-2026/) guide.
 
-For specific deeper dives: [Bunq review](/blog/bunq-review-expats-netherlands-2026/), [N26 review](/blog/n26-review-expats-netherlands-2026/), [Revolut review](/blog/revolut-review-expats-netherlands-2026/), [Wise vs Revolut vs Bunq](/blog/wise-vs-revolut-vs-bunq-expats-2026/).
+For specific deeper dives: [Bunq review](/guides/finance/bunq-review-expats-netherlands-2026/), [N26 review](/guides/finance/n26-review-expats-netherlands-2026/), [Revolut review](/guides/finance/revolut-review-expats-netherlands-2026/), [Wise vs Revolut vs Bunq](/guides/finance/wise-vs-revolut-vs-bunq-expats-2026/).
 
 ## Card Quality and Acceptance
 

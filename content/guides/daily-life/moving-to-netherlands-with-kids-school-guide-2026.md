@@ -1,8 +1,8 @@
 ---
-title: 'Moving to NL with Kids: School Guide 2026'
+title: 'Moving to the Netherlands with Kids: School Guide 2026'
 date: 2026-03-18 10:00:00+01:00
-lastmod: 2026-04-23 10:00:00+01:00
-description: Schooling guide when moving to the Netherlands with children 2026. Dutch vs international schools, costs, waiting lists, and what expat parents need.
+lastmod: 2026-08-19 10:00:00+02:00
+description: "Every school and kindergarten option in the Netherlands 2026 — daycare, basisschool, bilingual and international — with costs, subsidies and waiting lists."
 categories:
 - daily-life
 tags:
@@ -18,11 +18,21 @@ keywords:
 - dutch school expat child
 - basisschool expat netherlands
 - school waiting list netherlands
+- best kindergarten options netherlands
+- kindergarten netherlands expat
+- daycare costs netherlands 2026
+- peuteropvang expat
+- kinderopvangtoeslag expat
 affiliate: true
 products:
-- name: KPN
-  url: https://www.kpn.com/
+- name: Independer (health insurance comparison)
+  url: https://go.expatnetherlandshub.com/independer-zorg?ref=/guides/daily-life/moving-to-netherlands-with-kids-school-guide-2026/
   price: '0.00'
+  tag: Children under 18 insured at no extra premium
+- name: SafetyWing
+  url: https://go.expatnetherlandshub.com/safetywing?ref=/guides/daily-life/moving-to-netherlands-with-kids-school-guide-2026/
+  price: '0.00'
+  tag: Cover for the arrival gap
 author: Sarah van den Berg
 author_bio: Expat coach and relocation specialist. Half Dutch, half British, living in the Netherlands for over 10 years.
 featured_image: /images/categories/daily-life.svg
@@ -35,6 +45,12 @@ faq:
   a: Most Dutch state schools (basisscholen) teach in Dutch. There are some bilingual schools (tweetalige scholen) that offer half Dutch, half English instruction, which are popular with expat families but also have waiting lists. The international schools (primarily in Amsterdam, The Hague, Utrecht, Eindhoven, and Rotterdam) teach in English or other languages and follow international curricula (IB, British, American). Outside major expat cities, international schooling options are limited.
 - q: How much does a Dutch international school cost?
   a: Dutch international schools charge tuition fees typically ranging from EUR 5,000–25,000 per year per child depending on school, level, and year group. The British School in the Netherlands charges approximately EUR 14,000–22,000 per year. The Amsterdam International Community School is approximately EUR 12,000–18,000. The International School of The Hague is approximately EUR 11,000–20,000. State Dutch schools are free. Some international schools also charge registration fees (EUR 200–2,000) and may require a deposit.
+- q: What are the best kindergarten options in the Netherlands for 2026?
+  a: 'There are three distinct options and they are funded differently. Kinderdagverblijf (full daycare, ages 0-4) costs roughly EUR 10-12 per hour and is subsidised through kinderopvangtoeslag up to a maximum hourly rate of EUR 11.23 in 2026 for households where both parents work. Peuteropvang or voorschool (a part-time playgroup for ages 2-4) is subsidised directly by your municipality on an income-based scale and is the route for single-earner households. From age 4, groep 1 and 2 of basisschool are the Dutch equivalent of kindergarten and are free, play-based, and joinable the day after a child turns 4. There is no national ranking of Dutch childcare, so judge a specific location on its published GGD inspection report in the Landelijk Register Kinderopvang, its language policy, staff stability, and whether it feeds into the school you want.'
+- q: How much does daycare cost in the Netherlands in 2026?
+  a: 'List prices are typically EUR 10-12 per hour per child. What you actually pay depends on kinderopvangtoeslag: for 2026 the government reimburses a share of the cost up to a maximum hourly rate of EUR 11.23 for daycare, EUR 9.98 for after-school care (BSO) and EUR 8.49 for a registered childminder. Households with a joint income up to EUR 56,412 receive 96% of the cost up to that cap, tapering down as income rises, and anything the provider charges above the cap is not subsidised at all. Two days a week of daycare commonly works out at EUR 100-250 net per month for a mid-income dual-earner household. Both parents must work or study, you need a BSN, and the provider must be registered in the LRK.'
+- q: Do expat families pay for children's health insurance in the Netherlands?
+  a: No. Children under 18 pay no premium and have no deductible under the Dutch basisverzekering. They are not enrolled automatically, though — each child must be registered with an insurer, normally added to a parent's policy. That means the only variable in a family's health insurance cost is the adults' premiums, which differ by tens of euros per month between insurers for identical statutory cover.
 - q: What is the Cito toets and how does it affect expat children?
   a: 'The Cito toets (officially the Eindtoets Basisonderwijs) is a standardised test taken by Dutch children in their final year of basisschool (typically age 11–12). Results, combined with the teacher''s school advice (schooladvies), determine which level of middelbare school the child is recommended for: VMBO (vocational), HAVO (general), or VWO (university preparatory). For expat children who have been in the Dutch school system, the Cito test applies equally. For children joining at secondary level from abroad, placement is typically assessed individually by the receiving school.'
 - q: What is BSO and do expat families need it?
@@ -43,6 +59,19 @@ faq:
   a: 'One of the most surprising cultural discoveries for expat parents: Dutch children go home for lunch. Dutch primary school hours are approximately 8:30–15:00 with a lunch break from around 12:00–13:00. During this break, most Dutch children go home or are picked up. Some schools have a ''continuous school day'' (continurooster) where children eat lunch at school in the classroom, and this format is growing in popularity. However, the ''lunch at home'' tradition remains common, especially in smaller cities and towns. Expat parents working full-time often find this the most logistically challenging aspect of Dutch school culture.'
 schema_type: Article
 ---
+
+**Direct answer — the options, by age:**
+
+| Age | Option | Language | Cost (2026) |
+|---|---|---|---|
+| 0–4 | Kinderdagverblijf (daycare) | Dutch, some bilingual | Subsidised up to €11.23/hour via kinderopvangtoeslag if both parents work |
+| 2–4 | Peuteropvang / voorschool (preschool playgroup) | Dutch | Municipality-subsidised; free or income-based for families without kinderopvangtoeslag |
+| 4–12 | Basisschool, groep 1–8 (groep 1–2 is the Dutch equivalent of kindergarten) | Dutch | Free; voluntary contribution €50–200/year |
+| 4–12 | Bilingual basisschool (tweetalig) | 50% Dutch / 50% English | Free, but waiting lists |
+| 3–18 | International school (IB, British, American) | English | €5,000–25,000/year tuition, plus registration and deposit |
+| 12–18 | Middelbare school (VMBO / HAVO / VWO) | Dutch | Free, books included |
+
+School is compulsory from age 5; children may start basisschool the day they turn 4. The single most important thing on this page is timing: waiting lists at popular international schools in Amsterdam and The Hague run **1–3 years**, so registrations should go in as soon as the move is likely, not once it is confirmed. Jump to [kindergarten and preschool options](#kindergarten-and-preschool-options-in-the-netherlands-ages-04) or [waiting lists](#school-waiting-lists-the-most-important-section-of-this-guide).
 
 The question I get asked most often by expat families, by a significant margin, is: "What do I do about schools?"
 
@@ -79,6 +108,54 @@ This is the first question every expat family faces, and the right answer depend
 **Your employer pays education costs.** Many large Dutch employers and international organisations (Shell, ASML, ING, Unilever) include international school fees in relocation packages, particularly at senior levels. If fees are covered, the financial argument for Dutch school largely disappears.
 
 **Your children have been in a specific curriculum.** A child who has completed Year 6 of the English national curriculum has been building toward specific year 7 content. An IB or British curriculum international school provides genuine continuity; a Dutch school does not.
+
+---
+
+## Kindergarten and Preschool Options in the Netherlands (Ages 0–4)
+
+If you are searching for "kindergarten" you may mean one of three different Dutch things, and they are funded and organised completely differently. Here is the map.
+
+### 1. Kinderdagverblijf — full daycare, ages 0–4
+
+The Dutch equivalent of a nursery or daycare centre. Open roughly 07:30–18:30, staffed by qualified pedagogisch medewerkers, and regulated and inspected by the GGD (municipal health service). You buy days or half-days, not hours, at most providers.
+
+The list price is typically €10–€12 per hour per child, but what matters is the net cost after **kinderopvangtoeslag** (childcare benefit), which is available to households where both parents work or study. For 2026 the government reimburses a percentage of the cost up to a maximum hourly rate of **€11.23 for daycare**, **€9.98 for after-school care (BSO)** and **€8.49 for a registered childminder (gastouder)**. Households with a joint income up to €56,412 get 96% of the cost up to that cap reimbursed; the percentage tapers down as income rises. Anything your provider charges above the cap is entirely yours to pay, so compare hourly rates against the €11.23 ceiling when choosing.
+
+Expat families qualify for kinderopvangtoeslag on the same terms as Dutch families, provided you are registered, have a BSN, both partners work (or one works and the other studies or is in an integration programme), and the provider is registered in the national childcare register (LRK). Apply via Mijn Toeslagen within three months of the month the costs start — the deadline is strict and cannot be extended backwards further than that.
+
+### 2. Peuteropvang / voorschool — preschool playgroup, ages 2–4
+
+A part-time playgroup, usually two or three mornings a week, focused on socialisation and language development before basisschool. This is the route for families who do not qualify for kinderopvangtoeslag (for example a single-earner household): municipalities subsidise peuteropvang places directly on an income-based scale, and children identified as needing language support are offered extra hours under the VVE (voor- en vroegschoolse educatie) programme. Availability and cost are set per municipality, so the gemeente website — not a national one — is the place to check.
+
+For expat children who will go on to a Dutch basisschool, a couple of mornings of peuteropvang in the year before they turn 4 is the single most effective thing you can do for their Dutch. Children arrive at groep 1 already used to the room, the routine and the language.
+
+### 3. Groep 1 and 2 of basisschool — the actual Dutch "kindergarten", ages 4–6
+
+This is the part that confuses newly arrived parents most. There is no separate kindergarten in the Netherlands: what other countries call kindergarten is the first two years of primary school, groep 1 and groep 2, and it is **free**. Children may start the day after their fourth birthday and can join mid-year rather than waiting for September. School attendance only becomes compulsory at 5.
+
+Groep 1 and 2 are play-based. There is no formal reading or arithmetic instruction, little to no homework, and a great deal of outdoor time. Parents from systems that begin formal literacy at 4 or 5 often find this a surprise; Dutch children start formal reading in groep 3, at 6.
+
+### What "best" actually means when choosing
+
+There is no national ranking of Dutch daycare or kindergarten, and any site that claims to rank them is guessing. What you can check, in order of usefulness:
+
+1. **The GGD inspection report.** Every registered childcare location is inspected and the reports are published in the Landelijk Register Kinderopvang (LRK) at landelijkregisterkinderopvang.nl. Read the most recent report for the specific location, not the chain.
+2. **Registration in the LRK.** No LRK number means no kinderopvangtoeslag — this is a hard requirement, not a formality.
+3. **Language policy.** Ask explicitly: Dutch-only, bilingual, or English-led? Bilingual daycare is common in Amsterdam, The Hague, Utrecht, Eindhoven and Rotterdam, and considerably rarer elsewhere. An English-led nursery is comfortable in the short term but slows Dutch acquisition if the plan is a Dutch basisschool.
+4. **Continuity with your school choice.** International schools generally run their own early-years programme from age 3 or 4 (British EYFS, IB PYP), and starting there is often the smoothest route into a place at the school itself. Dutch daycare next door to your target basisschool has the same advantage for the Dutch route.
+5. **Staff turnover and group size.** Ask how long the current staff in your child's group have been there. Statutory child-to-staff ratios are set nationally, so the differentiator is stability, not the ratio.
+6. **Waiting lists.** Popular daycare in the Randstad routinely runs 6–12 months. Register while you are still house-hunting; you can always decline.
+
+### Kindergarten and preschool: realistic budget
+
+| Option | Gross cost | After subsidy |
+|---|---|---|
+| Kinderdagverblijf, 2 days/week | roughly €500–700/month | commonly €100–250/month for a mid-income dual-earner household |
+| Gastouder (childminder), 2 days/week | roughly €400–550/month | lower gross, capped at €8.49/hour for subsidy purposes |
+| Peuteropvang, 2 mornings/week | €50–200/month | income-based via the gemeente |
+| Groep 1–2 basisschool | free | free |
+
+Those net figures depend entirely on your joint income and the provider's hourly rate — run your own numbers with the Belastingdienst's proefberekening before committing to a contract. Our [childcare cost guide for the Netherlands](/blog/childcare-netherlands-cost-expats-2026/) goes through the calculation in detail.
 
 ---
 
@@ -256,7 +333,11 @@ If your child is joining a Dutch school, particularly a basisschool, some practi
 
 Moving to the Netherlands with children means getting the whole family onto Dutch basisverzekering — read our [Dutch health insurance guide for expats](/guides/health/dutch-health-insurance-guide-expats-2026/) for the full details. Children under 18 are covered free under the Dutch system — their healthcare is bundled into a parent's policy at no extra monthly cost. This is one of the genuinely child-friendly features of the Dutch healthcare system.
 
-During the gap period before your family's Dutch health insurance is active, SafetyWing's family pricing is notably good: children under 10 are covered free when a parent is insured.
+Two points worth getting right. First, children under 18 pay no premium and have no deductible (eigen risico) under the Dutch basisverzekering — but they are not covered automatically: you have to register each child with an insurer, usually on a parent's policy. Second, because children are premium-free, the only variable in your family's health insurance bill is the adults' policies, which makes an annual comparison genuinely worth the ten minutes. Premiums differ by tens of euros per month for identical statutory cover, and you can switch insurer once a year, before 1 January.
+
+<a href="https://go.expatnetherlandshub.com/independer-zorg?ref=/guides/daily-life/moving-to-netherlands-with-kids-school-guide-2026/" target="_blank" rel="nofollow noopener sponsored" class="cta-affiliate">Compare family health insurance premiums on Independer →</a>
+
+During the gap period before your family's Dutch health insurance is active, SafetyWing's family pricing is worth checking: their published policy covers young children at no extra cost alongside an insured parent, with the age limit and conditions stated on their site.
 
 <a href="https://go.expatnetherlandshub.com/safetywing?ref=/guides/daily-life/moving-to-netherlands-with-kids-school-guide-2026/" target="_blank" rel="nofollow noopener sponsored" class="cta-affiliate">Check SafetyWing family coverage →</a>
 
@@ -314,6 +395,14 @@ Most Dutch state schools (basisscholen) teach in Dutch. There are some bilingual
 ### How much does a Dutch international school cost?
 
 Dutch international schools charge tuition fees typically ranging from EUR 5,000–25,000 per year per child depending on school, level, and year group. The British School in the Netherlands charges approximately EUR 14,000–22,000 per year. The Amsterdam International Community School is approximately EUR 12,000–18,000. The International School of The Hague is approximately EUR 11,000–20,000. State Dutch schools are free. Some international schools also charge registration fees (EUR 200–2,000) and may require a deposit.
+
+### What are the best kindergarten options in the Netherlands for 2026?
+
+There are three separate things people mean by "kindergarten" here. **Kinderdagverblijf** is full daycare for ages 0–4, typically €10–12 per hour, subsidised via kinderopvangtoeslag up to a maximum hourly rate of €11.23 in 2026 when both parents work. **Peuteropvang** (or voorschool) is a part-time playgroup for ages 2–4, subsidised directly by your municipality on an income-based scale — the route for single-earner households. From age 4, **groep 1 and 2 of basisschool** are the Dutch equivalent of kindergarten: free, play-based, and your child can start the day after their fourth birthday rather than waiting for September. There is no national ranking of Dutch childcare; judge a specific location on its published GGD inspection report in the Landelijk Register Kinderopvang, its language policy (Dutch, bilingual or English-led), staff stability, and whether it feeds into the school you eventually want.
+
+### How much does daycare cost in the Netherlands in 2026?
+
+Providers charge roughly €10–12 per hour per child. The subsidy caps for 2026 are €11.23 per hour for daycare, €9.98 for after-school care and €8.49 for a registered childminder; households with a joint income up to €56,412 get 96% of the cost up to those caps reimbursed, with the percentage tapering as income rises, and anything charged above the cap is unsubsidised. In practice two days a week commonly lands at €100–250 net per month for a mid-income dual-earner household. You need a BSN, both parents working or studying, and a provider registered in the LRK.
 
 ### What is the Cito toets and how does it affect expat children?
 

@@ -1,8 +1,8 @@
 ---
 title: Best Bank in the Netherlands 2026 for Expats (English Guide)
 date: 2026-02-24 10:00:00+01:00
-lastmod: 2026-08-07 10:00:00+02:00
-description: 'Best bank in the Netherlands 2026 for expats: I compared 7 banks on regional fees, English support, and no-BSN accounts. Wise, ING, Bunq, Rabobank reviewed.'
+lastmod: 2026-08-19 10:00:00+02:00
+description: 'Which Dutch bank has the lowest fees and best service in 2026? 7 banks compared: ASN approx EUR 4, ING EUR 4.00, ABN EUR 4.30, plus no-BSN options.'
 categories:
 - finance
 tags:
@@ -48,13 +48,13 @@ faq:
 - q: Do I need a Dutch bank account to receive my salary?
   a: Most Dutch employers require a bank account with a Dutch or European IBAN for salary payments. A Wise account with a European IBAN fulfills this requirement for most employers. Some employers may specifically ask for a traditional Dutch bank account (NL IBAN), but this is becoming less common.
 - q: What fees do Dutch banks charge?
-  a: 'Traditional Dutch banks charge between EUR 1.95 and EUR 5.95 per month for a basic account. Most also charge fees for international transfers (EUR 5-15 per transfer). Digital banks vary: Bunq starts at EUR 2.99 per month, N26 has a free basic tier, Wise charges no monthly fee but takes a small percentage on currency conversions, and Revolut offers a free basic plan.'
+  a: 'Since the January 2026 price rises, traditional Dutch banks charge roughly EUR 3.60 to EUR 5 per month for a basic account (ING OranjePakket EUR 4.00, ABN AMRO basisbetaalpakket EUR 4.30, ASN Bank around EUR 4). Most also charge fees for international transfers (EUR 5-15 per transfer). Digital banks vary: Bunq starts at EUR 2.99 per month, N26 has a free basic tier, Wise charges no monthly fee but takes a small percentage on currency conversions, and Revolut offers a free basic plan.'
 - q: Can I use my foreign bank account in the Netherlands?
   a: You can use a foreign bank account temporarily, but it is impractical long-term. Many Dutch services (salary payments, rent, subscriptions, government payments) require a Dutch or European IBAN. Additionally, using a foreign card for daily purchases may incur currency conversion fees. We recommend setting up a Dutch banking option within your first two weeks.
 - q: Is Wise a real bank account for the Netherlands?
   a: Wise is not a traditional bank, but an authorized Electronic Money Institution regulated in Europe. Your Wise account comes with a European IBAN that works for salary deposits, direct debits, and all standard banking functions in the Netherlands for most employers and services. For most expats, it functions identically to a traditional bank account for daily use.
 - q: Which regional banks have the lowest fees and best English support?
-  a: 'Rabobank has the lowest monthly fee of the traditional banks at approximately EUR 1.95 -- it also has the strongest regional branch network outside the Randstad (Amsterdam, Rotterdam, The Hague, Utrecht). The trade-off is English-language support: Rabobank''s app and online banking have only partial English translation, and customer service is Dutch-primary. ING and ABN AMRO both charge around EUR 2.45/month and offer the best English support among traditional banks -- ING has a fully English app, website, and customer service, while ABN AMRO adds a dedicated international/expat desk. If you live outside the Randstad and English support matters more than saving a euro a month, ING or ABN AMRO (both have national coverage) beat Rabobank on this specific trade-off. If you are based in a smaller city and are comfortable navigating some Dutch, Rabobank is the cheapest full-service option.'
+  a: 'The Dutch regional banks have merged: SNS Bank became ASN Bank on 1 July 2025 and RegioBank followed on 1 December 2025, so ASN Bank is now the regional-network brand. ASN is also the cheapest full-service Dutch current account at around EUR 4 per month, and RegioBank topped the Consumentenbond Bankenmonitor for customer satisfaction seven years running before the merger, with ASN, Knab and Triodos still scoring above the big three. The trade-off for expats is language: those banks are Dutch-first. Among the nationwide banks, ING (EUR 4.00/month) has the best English app, website and phone support, and ABN AMRO (EUR 4.30/month) adds a dedicated international desk. Rabobank restructured its packages in January 2026 (Rabo Standaard) with pricing from around EUR 3.60/month and partial English support.'
 schema_type: Article
 ---
 
@@ -63,6 +63,25 @@ When I arrived in the Netherlands, I spent two weeks without a functioning bank 
 
 
 💡 *Looking for a complete banking comparison? Read [Best banking for expats in the Netherlands 2026](/blog/best-banking-expats-netherlands-2026/) — covers ABN, ING, Bunq, Wise, Revolut & 5 others by expat use case.*
+
+## Which Regional Banks Have the Lowest Fees and Best Customer Service?
+
+**Short answer: the Dutch regional banks no longer exist as separate brands. SNS Bank became ASN Bank on 1 July 2025 and RegioBank followed on 1 December 2025, so ASN Bank is now the regional-network bank — and it is also the cheapest full-service Dutch current account at around EUR 4 per month (raised from EUR 3.65 in early 2026). On customer service, RegioBank had topped the Consumentenbond Bankenmonitor for seven consecutive years before the merger, with ASN, Knab and Triodos also scoring above the big three. The catch for expats: ASN and Triodos are Dutch-language first. If you need English, ING (EUR 4.00/month OranjePakket) is the best-served option, with ABN AMRO (EUR 4.30/month basisbetaalpakket) close behind thanks to its international desk.**
+
+What that means in practice, depending on what you optimise for:
+
+- **Lowest monthly fee with local branches/advisers:** ASN Bank (formerly RegioBank/SNS), around EUR 4/month. Best if you speak some Dutch and live outside the Randstad.
+- **Highest customer-satisfaction scores:** ASN Bank, Knab and Triodos consistently rank above ING, ABN AMRO and Rabobank in Consumentenbond's annual bank survey. All three are Dutch-primary in their apps and support.
+- **Best English service among the nationwide banks:** ING (fully English app, website and phone support) at EUR 4.00/month; ABN AMRO at EUR 4.30/month adds a dedicated international desk for mortgages and 30%-ruling questions.
+- **Cooperative with the widest rural branch network:** Rabobank, which restructured its packages in January 2026 (Rabo Standaard replaced the DirectPakket and BasisPakket); pricing starts around EUR 3.60/month depending on the package. English support is partial.
+- **No BSN yet, or you need an account before you land:** none of the above will open an account for you. A <a href="https://go.expatnetherlandshub.com/wise?ref=/guides/finance/best-bank-account-expats-netherlands-2026/" target="_blank" rel="nofollow noopener sponsored">Wise</a> account gives you a European IBAN with no BSN and no Dutch address, and no monthly fee at all.
+
+Fees on Dutch current accounts rose sharply on 1 January 2026 across the board, so the difference between the cheapest and the most expensive mainstream package is now roughly EUR 1 per month — far less than what a single international transfer at bank exchange rates will cost you. Optimise for language support and transfer costs before you optimise for the monthly fee.
+
+<a href="https://go.expatnetherlandshub.com/wise?ref=/guides/finance/best-bank-account-expats-netherlands-2026/" class="cta-affiliate" rel="nofollow noopener sponsored" target="_blank">Open a free Wise account (no BSN needed) →</a>
+
+---
+
 ## Quick Comparison Table
 
 | Bank | Type | Monthly Fee | BSN Required? | English App | International Transfers | iDEAL Support | Best For |
@@ -70,9 +89,9 @@ When I arrived in the Netherlands, I spent two weeks without a functioning bank 
 | **Wise** | Digital | EUR 0 | No | Yes | Excellent (low fees) | Via direct debit | First account, international transfers |
 | **Bunq** | Digital | EUR 2.99+ | Yes* | Yes | Good | Yes | Tech-savvy expats, green banking |
 | **N26** | Digital | EUR 0-16.90 | Yes | Yes | Good (via Wise integration) | Limited | Free basic banking, European use |
-| **ING** | Traditional | EUR 2.45+ | Yes | Yes | Standard (higher fees) | Yes | Full-service Dutch banking |
-| **ABN AMRO** | Traditional | EUR 2.45+ | Yes | Yes | Standard | Yes | Full-service, mortgage planning |
-| **Rabobank** | Traditional | EUR 1.95+ | Yes | Partial | Standard | Yes | Outside Randstad, cooperative model |
+| **ING** | Traditional | EUR 4.00+ | Yes | Yes | Standard (higher fees) | Yes | Full-service Dutch banking |
+| **ABN AMRO** | Traditional | EUR 4.30+ | Yes | Yes | Standard | Yes | Full-service, mortgage planning |
+| **Rabobank** | Traditional | EUR 3.60+ | Yes | Partial | Standard | Yes | Outside Randstad, cooperative model |
 | **Revolut** | Digital | EUR 0-13.99 | No | Yes | Good | Limited | Multi-currency, travel |
 
 *Bunq may allow initial sign-up before BSN, but full functionality requires it.
@@ -390,7 +409,7 @@ After a decade helping expats navigate Dutch banking, here are the things that r
 
 iDEAL is not just an online payment option — it is infrastructure. Dutch government portals (Belastingdienst, DUO, CAK) use iDEAL for payments. Municipal registrations, health insurance portals, and utility companies use iDEAL. If your primary Dutch banking option does not fully support iDEAL, you will face friction constantly.
 
-Banks with full iDEAL support: ING, ABN AMRO, Rabobank, Bunq, SNS, Knab.
+Banks with full iDEAL support: ING, ABN AMRO, Rabobank, Bunq, ASN Bank, Knab.
 Banks with limited or no iDEAL: N26, Revolut, Wise (iDEAL sometimes works via direct debit but not natively).
 
 This is the primary reason I recommend having a traditional Dutch bank or Bunq alongside Wise, rather than relying on Wise alone.

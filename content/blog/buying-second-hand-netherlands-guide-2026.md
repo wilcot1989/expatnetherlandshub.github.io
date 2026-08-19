@@ -314,7 +314,7 @@ One advantage of buying second-hand in the Netherlands: you can often sell at a 
 - Donate items that are too low-value to list — kringloopwinkels and neighbours via Nextdoor will appreciate them.
 - For a full apartment clear-out, some kringloopwinkels will send a van to collect everything in one trip.
 
-For your general moving and departure logistics, see our [moving back home from the Netherlands guide](/guides/relocation/). For selling a car before you leave, see our [guide to buying and selling a car in the Netherlands](/guides/daily-life/how-to-buy-car-netherlands-expat-2026/).
+For your general moving and departure logistics, see our [moving back home from the Netherlands guide](/guides/legal/leaving-netherlands-expat-checklist-2026/). For selling a car before you leave, see our [guide to buying and selling a car in the Netherlands](/guides/daily-life/how-to-buy-car-netherlands-expat-2026/).
 
 ---
 

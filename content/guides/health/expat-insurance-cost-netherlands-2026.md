@@ -169,7 +169,7 @@ Dutch basisverzekering is the right choice once you are a full resident. But the
 
 ### SafetyWing — budget option for nomads and transitional expats
 
-[SafetyWing](https://go.expatnetherlandshub.com/safetywing?ref=/guides/health/expat-insurance-cost-netherlands-2026/) is designed for people who are between residencies, moving countries frequently, or in that awkward pre-registration gap. It is not a replacement for Dutch basisverzekering once you are a registered resident — but for the transition period, it fills the gap well. For a full roundup of all international options, see [best expat insurance Netherlands 2026](/blog/best-expat-insurance-netherlands-2026/).
+[SafetyWing](https://go.expatnetherlandshub.com/safetywing?ref=/guides/health/expat-insurance-cost-netherlands-2026/) is designed for people who are between residencies, moving countries frequently, or in that awkward pre-registration gap. It is not a replacement for Dutch basisverzekering once you are a registered resident — but for the transition period, it fills the gap well. For a full roundup of all international options, see [best expat insurance Netherlands 2026](/guides/health/best-expat-insurance-netherlands-2026/).
 
 **Prices (2026):**
 - Age 18–39: from **€45–€55/month**
@@ -395,7 +395,7 @@ For budget planning, here is what I tell people:
 
 The Dutch system is predictable. Unlike the US, there are no surprise bills in the tens of thousands. Your maximum out-of-pocket for covered care is €385/year — full stop.
 
-For everything else in your expat budget, see [cost of living in the Netherlands 2026](/guides/finance/cost-of-living-netherlands-2026/) and [average salary Netherlands 2026](/guides/work/average-salary-netherlands-2026/).
+For everything else in your expat budget, see [cost of living in the Netherlands 2026](/guides/housing/cost-of-living-netherlands-2026/) and [average salary Netherlands 2026](/guides/work/average-salary-netherlands-2026/).
 
 If you are eligible for the 30% ruling, your taxable income drops significantly — check whether that affects your zorgtoeslag eligibility with the [30% ruling calculator guide](/guides/finance/30-percent-ruling-calculator-guide-2026/).
 

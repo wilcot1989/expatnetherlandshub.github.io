@@ -1,6 +1,6 @@
 ---
 title: "Overstapservice Explained: Switching Dutch Banks as an Expat"
-description: "The Dutch bank Switching Service in plain English: which banks take part, what the 13 months actually cover, what it never moves for you, and the switch checklist expats need."
+description: "The Dutch bank Switching Service in plain English: which banks take part, what the 13 months cover, what it never moves, and the expat checklist."
 date: 2026-08-23
 lastmod: 2026-08-23T10:00:00+01:00
 author: "Sarah van den Berg"
@@ -136,7 +136,7 @@ Once a full month passes with no traffic and your inventory is fully accounted f
 
 One decision that has nothing to do with the Switching Service but saves more money than any of it: do not use a Dutch high-street bank for cross-border transfers. Traditional banks charge a fixed fee per international payment plus a margin on the exchange rate, and both are visible in the total you receive at the other end.
 
-Keep a separate low-cost transfer account for that traffic. <a href="https://go.expatnetherlandshub.com/wise?ref=/blog/overstapservice-bank-switching-netherlands-expats-2026/" target="_blank" rel="nofollow sponsored noopener">Wise</a> is the option most expats in the Netherlands end up with, because it gives you Dutch IBAN details and converts at the mid-market rate with a stated fee. It is not part of the Overstapservice and it is not a full bank, which is precisely why it works best as a companion to your Dutch account rather than a replacement. Our [international money transfer comparison](/guides/finance/best-international-money-transfer-netherlands-2026/) and the [Wise versus Revolut](/blog/wise-vs-revolut-expats-2026/) breakdown go into the numbers.
+Keep a separate low-cost transfer account for that traffic. <a href="https://go.expatnetherlandshub.com/wise?ref=/blog/overstapservice-bank-switching-netherlands-expats-2026/" target="_blank" rel="nofollow sponsored noopener">Wise</a> is the option most expats in the Netherlands end up with, because it gives you Dutch IBAN details and converts at the mid-market rate with a stated fee. It is not part of the Overstapservice and it is not a full bank, which is precisely why it works best as a companion to your Dutch account rather than a replacement. Our [international money transfer comparison](/guides/finance/best-international-money-transfer-netherlands-2026/) and the [Wise versus Revolut](/guides/finance/wise-vs-revolut-netherlands-2026/) breakdown go into the numbers.
 
 ## Is switching worth it?
 

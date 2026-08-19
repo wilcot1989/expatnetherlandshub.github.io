@@ -170,7 +170,7 @@ If this is your first Dutch December, here's the short version:
 - Move your bike indoors on 30 December
 - Plan one day-trip to Valkenburg, Maastricht, or Aachen
 
-For more on settling in long-term, my guides on [retiring in the Netherlands](/blog/retiring-in-netherlands-expat-guide-2026/), [the single expat experience](/blog/single-expat-netherlands-guide-2026/), [Dutch language schools online](/blog/best-dutch-language-schools-online-2026/), [cycling year-round](/blog/cycling-netherlands-expats-2026/), and [streaming services to keep you sane through dark evenings](/blog/best-streaming-services-expats-netherlands-2026/) cover the rest of the picture.
+For more on settling in long-term, my guides on [retiring in the Netherlands](/blog/retiring-in-netherlands-expat-guide-2026/), [the single expat experience](/blog/single-expat-netherlands-guide-2026/), [Dutch language schools online](/blog/best-dutch-language-schools-online-2026/), [cycling year-round](/guides/daily-life/cycling-netherlands-expat-guide-2026/), and [streaming services to keep you sane through dark evenings](/blog/best-streaming-services-expats-netherlands-2026/) cover the rest of the picture.
 
 For the official tourism perspective and event calendars, [Holland.com's tourism portal](https://www.holland.com/global/tourism.htm) lists most major regional Christmas events with English-language descriptions and dates.
 

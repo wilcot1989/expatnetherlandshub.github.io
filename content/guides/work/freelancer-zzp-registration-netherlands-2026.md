@@ -125,7 +125,7 @@ Bring all of the following to your appointment:
 
 - **Valid passport or national ID** (EU citizens: national ID card is sufficient)
 - **Residence permit** (non-EU citizens — your original card, not a photo)
-- **BSN (burgerservicenummer)** — your Dutch citizen service number (you need this before you can register; if you do not have one yet, see our [BSN guide](/guides/legal/kvk-registration-expat-guide-2026/))
+- **BSN (burgerservicenummer)** — your Dutch citizen service number (you need this before you can register; if you do not have one yet, see our [BSN guide](/guides/work/kvk-registration-expat-guide-2026/))
 - **Proof of Dutch address** — a recent utility bill, rental contract, or municipality registration (BRP)
 - **Business address** — this can be your home address. If you do not want your home address publicly visible in the KvK register, you can use a registered address service (coworking spaces often provide this for €10–€30/month)
 - **Description of your business activities** — you do not need a formal business plan for an eenmanszaak. A clear one-sentence description is enough
@@ -233,7 +233,7 @@ When you register as a ZZP, you automatically become a BTW entrepreneur. The sta
 
 **0% BTW:** If you invoice clients outside the Netherlands (non-EU), or B2B clients within the EU who provide their VAT number, you typically invoice at 0% BTW (intracommunity supply or export). Your accountant or accounting software will guide you on this.
 
-For a full breakdown of Dutch taxes as an expat, see the [Dutch tax return guide](/guides/finance/dutch-tax-return-expats-guide-2026/).
+For a full breakdown of Dutch taxes as an expat, see the [Dutch tax return guide](/guides/finance/dutch-tax-return-how-to-file-2026/).
 
 ---
 
@@ -283,7 +283,7 @@ Most Dutch banks offer business accounts: ABN AMRO, ING, Rabobank, and Bunq all 
 
 If you invoice clients in other currencies — euros from EU clients, pounds from UK clients, dollars from US clients — Wise Business is worth serious consideration. It lets you receive and hold multiple currencies, convert at the mid-market rate with transparent fees, and pay out to your Dutch account. For expat freelancers with international client bases, it is often significantly cheaper than routing everything through a Dutch bank.
 
-[Open a Wise Business account](https://go.expatnetherlandshub.com/wise?ref=/guides/work/freelancer-zzp-registration-netherlands-2026/) — and see the full [Wise review for expats](/guides/finance/wise-review-expats-2026/) if you want a detailed comparison before deciding.
+[Open a Wise Business account](https://go.expatnetherlandshub.com/wise?ref=/guides/work/freelancer-zzp-registration-netherlands-2026/) — and see the full [Wise review for expats](/guides/finance/wise-review-expats-netherlands-2026/) if you want a detailed comparison before deciding.
 
 ### What Every Invoice Must Include
 
@@ -318,7 +318,7 @@ The fastest path to a first client is almost always someone who already knows yo
 
 LinkedIn is the dominant professional network in the Netherlands. Update your profile, add "Available for freelance" to your headline, and activate the "Open to Work" feature. Write in English but consider adding Dutch descriptions — it increases visibility in local searches.
 
-For job search strategies, see the [best job boards for expats in the Netherlands](/guides/work/best-job-boards-netherlands-expats-2026/).
+For job search strategies, see the [best job boards for expats in the Netherlands](/blog/best-job-boards-netherlands-expats-2026/).
 
 ### Freelance Platforms
 
@@ -387,7 +387,7 @@ Mandatory: basic health insurance (*zorgverzekering*). Strongly recommended: pro
 
 ### How do I find my first freelance clients?
 
-Start with your existing professional network. Update your LinkedIn profile and activate the "Open to Work" feature. Use platforms like Malt, Freelancer.nl, or Jellow for project-based work. For a broader job search strategy, see the [best job boards for expats](/guides/work/best-job-boards-netherlands-expats-2026/).
+Start with your existing professional network. Update your LinkedIn profile and activate the "Open to Work" feature. Use platforms like Malt, Freelancer.nl, or Jellow for project-based work. For a broader job search strategy, see the [best job boards for expats](/blog/best-job-boards-netherlands-expats-2026/).
 
 ---
 
@@ -401,8 +401,8 @@ The expats I have coached who thrive as ZZP freelancers in the Netherlands are t
 
 Do that, and the administrative side of Dutch freelancing becomes genuinely manageable.
 
-For more on the financial side of life as an expat in the Netherlands, read the [cost of living guide](/guides/finance/cost-of-living-netherlands-2026/) and the [Dutch pension system explained for expats](/guides/finance/dutch-pension-system-expats-2026/). To benchmark your freelance earnings against employed salaries, the [average salary in the Netherlands](/guides/work/average-salary-netherlands-2026/) is a good reference point.
+For more on the financial side of life as an expat in the Netherlands, read the [cost of living guide](/guides/housing/cost-of-living-netherlands-2026/) and the [Dutch pension system explained for expats](/guides/finance/dutch-pension-system-expats-2026/). To benchmark your freelance earnings against employed salaries, the [average salary in the Netherlands](/guides/work/average-salary-netherlands-2026/) is a good reference point.
 
-And if you have questions about the registration process itself that go beyond what this guide covers — the [KvK registration guide](/guides/legal/kvk-registration-expat-guide-2026/) goes deep on the specific documents, the appointment format, and what to do if things do not go smoothly.
+And if you have questions about the registration process itself that go beyond what this guide covers — the [KvK registration guide](/guides/work/kvk-registration-expat-guide-2026/) goes deep on the specific documents, the appointment format, and what to do if things do not go smoothly.
 
 Good luck with the registration. It is simpler than you think.

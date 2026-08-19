@@ -194,7 +194,7 @@ Three things will sneak up on you:
 
 Your accountant is only as good as the data you feed them. The smoothest setup I have seen, and what I run now:
 
-- **Business bank:** I use Wise for invoicing in multiple currencies. Some expats prefer Bunq Business for the Dutch IBAN, some use both. See [our full bank account comparison](/blog/best-bank-account-expats-netherlands-2026/) and [Wise vs Revolut breakdown](/blog/wise-vs-revolut-expats-2026/) for the trade-offs.
+- **Business bank:** I use Wise for invoicing in multiple currencies. Some expats prefer Bunq Business for the Dutch IBAN, some use both. See [our full bank account comparison](/guides/finance/best-bank-account-expats-netherlands-2026/) and [Wise vs Revolut breakdown](/guides/finance/wise-vs-revolut-netherlands-2026/) for the trade-offs.
 - **Bookkeeping:** Moneybird if you want clean, expat-friendly Dutch software. e-Boekhouden if your accountant insists on it. Both integrate with Wise via API.
 - **Receipts:** Dext or Hubdoc snapshots straight into the bookkeeping platform. No more paper.
 

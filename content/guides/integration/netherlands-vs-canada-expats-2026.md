@@ -165,7 +165,7 @@ The Netherlands has some of the lowest housing stock per capita in Western Europ
 
 For expats, the typical trajectory is: company housing or an Airbnb for the first 1-3 months while searching for permanent accommodation, followed by a medium-term furnished rental (expensive but available), then eventually a long-term unfurnished contract. The government introduced rent control measures in 2024 that have had mixed effects on availability.
 
-Buying is difficult. Average property prices in Amsterdam are EUR 5,000-8,000/m², and prices remain high despite some softening. The mortgage system is reasonably accessible for permanent residents, but expats on temporary permits face restrictions. For details, see the [expat guide to buying a house in the Netherlands](/guides/housing/buying-house-netherlands-expat-guide-2026/).
+Buying is difficult. Average property prices in Amsterdam are EUR 5,000-8,000/m², and prices remain high despite some softening. The mortgage system is reasonably accessible for permanent residents, but expats on temporary permits face restrictions. For details, see the [expat guide to buying a house in the Netherlands](/guides/finance/buying-house-netherlands-expat-guide-2026/).
 
 ### The Canadian Housing Market in 2026
 

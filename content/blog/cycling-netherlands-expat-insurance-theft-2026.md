@@ -132,7 +132,7 @@ Three things to check before buying any bike-related policy:
 - Does it cover theft at train stations and from public bike racks?
 - What is the excess (eigen risico)?
 
-I also covered the broader insurance picture in [home contents insurance Netherlands for expats 2026](/blog/home-contents-insurance-netherlands-expats-2026/).
+I also covered the broader insurance picture in [home contents insurance Netherlands for expats 2026](/blog/dutch-home-contents-liability-insurance-expats-2026/).
 
 ---
 

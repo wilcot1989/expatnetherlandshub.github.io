@@ -269,7 +269,7 @@ If you anticipate needing complex case management — for a chronic condition, s
 
 Both policies move with you between countries, which is one of the main reasons expats buy international insurance over local policies. Your plan remains active when you relocate, your medical history stays with the policy, and you do not start from zero with underwriting each time you move.
 
-This is a genuine advantage over Dutch basisverzekering if you are not planning to stay in the Netherlands long-term. See my [cost of living guide for the Netherlands](/guides/finance/cost-of-living-netherlands-2026/) for context on the financial planning decisions that often go alongside international insurance choices.
+This is a genuine advantage over Dutch basisverzekering if you are not planning to stay in the Netherlands long-term. See my [cost of living guide for the Netherlands](/guides/housing/cost-of-living-netherlands-2026/) for context on the financial planning decisions that often go alongside international insurance choices.
 
 ---
 
@@ -397,7 +397,7 @@ My practical guidance:
 
 The single most important step before buying is getting a personalised quote from both insurers. Pricing is individual. A 45-year-old with a pre-existing condition will see very different numbers than a 28-year-old with a clean medical history. Use the quotes, compare the same tier side by side, and factor in whether you need mental health, dental, or maternity modules in your actual situation.
 
-For more on the expat insurance market in the Netherlands, see my guides on [the best expat insurance options](/blog/best-expat-insurance-netherlands-2026/), [health insurance add-ons](/blog/best-health-insurance-add-ons-netherlands-2026/), and the [Amsterdam vs Rotterdam comparison for expats](/guides/daily-life/amsterdam-vs-rotterdam-expats-2026/) — location affects which hospital networks matter most to you in practice. You can also use the [tools on this site](/tools/) to estimate your likely healthcare costs and compare coverage options.
+For more on the expat insurance market in the Netherlands, see my guides on [the best expat insurance options](/guides/health/best-expat-insurance-netherlands-2026/), [health insurance add-ons](/blog/best-health-insurance-add-ons-netherlands-2026/), and the [Amsterdam vs Rotterdam comparison for expats](/guides/daily-life/amsterdam-vs-rotterdam-expats-2026/) — location affects which hospital networks matter most to you in practice. You can also use the [tools on this site](/tools/) to estimate your likely healthcare costs and compare coverage options.
 
 The right international health insurance is the one that covers your actual needs without charging you for benefits you will not use. Get the quotes, read the exclusions, and make the decision with real numbers in front of you.
 

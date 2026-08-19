@@ -183,7 +183,7 @@ For expats whose home country is non-eurozone and who may want to send bonus mon
 
 I use <a href="https://go.expatnetherlandshub.com/wise" target="_blank" rel="nofollow sponsored noopener">Wise</a> for these transfers — typical fees are EUR 15 to EUR 70 for the same amount, and the exchange rate is the actual mid-market rate. For a EUR 30,000 bonus transfer to USD, this typically saves EUR 200 to EUR 500. For multi-currency holding (e.g., paying USD investments from EUR salary), <a href="https://go.expatnetherlandshub.com/revolut" target="_blank" rel="nofollow sponsored noopener">Revolut</a> with multi-currency wallets is also strong.
 
-For broader transfer context see my [Wise vs Revolut comparison](/blog/wise-vs-revolut-expats-2026/).
+For broader transfer context see my [Wise vs Revolut comparison](/guides/finance/wise-vs-revolut-netherlands-2026/).
 
 ## Other Common Allowances
 
@@ -249,7 +249,7 @@ The May vakantiegeld and December 13th month are large, predictable cash injecti
 
 ### 1. Build Emergency Fund
 
-If you do not have 3-6 months expenses saved, the May lump sum is the natural target. See my [emergency fund for expats in NL](/blog/emergency-fund-netherlands-expats-2026.md) for sizing.
+If you do not have 3-6 months expenses saved, the May lump sum is the natural target. See my [emergency fund for expats in NL](/guides/finance/emergency-fund-netherlands-expats-2026/) for sizing.
 
 ### 2. Tax-Optimal Investing
 
@@ -289,11 +289,11 @@ A EUR 10,000 bonus parked in a 0 percent current account loses purchasing power.
 
 ### Mistake 5: Sending Bonuses Abroad Inefficiently
 
-If your home country uses non-EUR currency and you transfer regularly, traditional bank transfers can lose 1.5 to 3 percent on each move. Switching to <a href="https://go.expatnetherlandshub.com/wise" target="_blank" rel="nofollow sponsored noopener">Wise</a> or [other multi-currency tools](/blog/best-international-money-transfer-netherlands-2026.md) saves real money.
+If your home country uses non-EUR currency and you transfer regularly, traditional bank transfers can lose 1.5 to 3 percent on each move. Switching to <a href="https://go.expatnetherlandshub.com/wise" target="_blank" rel="nofollow sponsored noopener">Wise</a> or [other multi-currency tools](/guides/finance/best-international-money-transfer-netherlands-2026/) saves real money.
 
 ### Mistake 6: Not Modelling 30 Percent Ruling Implications
 
-For 30 percent ruling holders, vakantiegeld and 13th month also benefit from the partial tax exemption. The arithmetic is non-trivial. A tax advisor can model the exact effect — see my [tax advisors for expats guide](/blog/best-tax-advisors-expats-netherlands-2026/).
+For 30 percent ruling holders, vakantiegeld and 13th month also benefit from the partial tax exemption. The arithmetic is non-trivial. A tax advisor can model the exact effect — see my [tax advisors for expats guide](/guides/finance/best-tax-advisors-expats-netherlands-2026/).
 
 ## Special Situations
 
@@ -349,7 +349,7 @@ Dutch compensation structure rewards understanding it. A salary that looks "norm
 
 When evaluating offers, when negotiating, and when planning your year — model the full picture. The May lump sum and December bonus are not surprises; they are predictable, plannable income that expats who understand the system manage effectively and those who do not tend to spend reactively.
 
-For ongoing financial planning context see my [emergency fund guide](/blog/emergency-fund-netherlands-expats-2026.md), [investing in NL](/guides/finance/investing-netherlands-expats-2026/), and [average salary by sector](/guides/work/average-salary-netherlands-2026/) — together they form the financial foundation for an expat working in the Dutch system.
+For ongoing financial planning context see my [emergency fund guide](/guides/finance/emergency-fund-netherlands-expats-2026/), [investing in NL](/guides/finance/investing-netherlands-expats-2026/), and [average salary by sector](/guides/work/average-salary-netherlands-2026/) — together they form the financial foundation for an expat working in the Dutch system.
 
 ---
 

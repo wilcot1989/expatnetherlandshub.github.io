@@ -269,7 +269,7 @@ Practical sequence for expats who need to furnish quickly and cheaply:
 3. Vinted for clothing
 4. Xenos or HEMA for decorative items and soft furnishings
 
-**Cost estimate for a basic one-person apartment setup using this approach:** approximately €800-1,500 for furniture, appliances (not included), bedding, kitchen equipment, and basics. Using Marktplaats aggressively can bring this down considerably. Buying everything new from IKEA would typically cost €2,500-4,000. For a more detailed breakdown of what to budget for your first months in the Netherlands, the [first 30 days in the Netherlands checklist](/guides/integration/first-30-days-netherlands-expats-2026/) covers the full admin and spending sequence from arrival.
+**Cost estimate for a basic one-person apartment setup using this approach:** approximately €800-1,500 for furniture, appliances (not included), bedding, kitchen equipment, and basics. Using Marktplaats aggressively can bring this down considerably. Buying everything new from IKEA would typically cost €2,500-4,000. For a more detailed breakdown of what to budget for your first months in the Netherlands, the [first 30 days in the Netherlands checklist](/guides/legal/first-30-days-netherlands-expat-checklist-2026/) covers the full admin and spending sequence from arrival.
 
 For context on what to budget overall for Dutch life, the [cost of living in the Netherlands guide](/guides/housing/cost-of-living-netherlands-2026/) covers everything from rent and groceries to transport and healthcare. And if you are still choosing which Dutch city to base yourself in, our [best cities for expats guide](/guides/housing/best-cities-netherlands-expats-2026/) compares quality of life, rental markets, and community across the major options.
 

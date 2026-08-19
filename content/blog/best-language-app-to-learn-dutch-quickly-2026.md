@@ -257,7 +257,7 @@ If you are settling into Dutch life, these are the companion reads I most often 
 - [Best job boards Netherlands for expats 2026](/blog/best-job-boards-netherlands-expats-2026/) — B1 Dutch unlocks roughly five times more job listings
 - [ZZP registration Netherlands step-by-step 2026](/blog/zzp-registration-netherlands-step-by-step-2026/) — KvK forms are Dutch-only
 - [Dutch winter prep guide for expats 2026](/blog/dutch-winter-prep-guide-for-expats-2026/) — small-talk vocabulary you will need by November
-- [Cycling in the Netherlands for expats 2026](/blog/cycling-netherlands-expats-2026/) — the bike-shop vocabulary is its own dialect
+- [Cycling in the Netherlands for expats 2026](/guides/daily-life/cycling-netherlands-expat-guide-2026/) — the bike-shop vocabulary is its own dialect
 - [Moving to the Netherlands 2027 complete checklist](/blog/moving-to-netherlands-2027-complete-checklist/) — language planning should be on your pre-arrival list
 
 ## The honest bottom line

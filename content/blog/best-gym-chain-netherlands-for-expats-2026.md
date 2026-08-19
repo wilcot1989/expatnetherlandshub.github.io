@@ -202,7 +202,7 @@ If you're on a 12-month contract and your relocation gets cut short, the only re
 
 All Dutch gyms use SEPA direct debit (incasso) as the default payment method. This means you'll need a Dutch IBAN, not just an EU IBAN. Wise and Revolut Dutch IBANs work with OneFit and Basic-Fit; some smaller chains still occasionally reject N26 or non-NL Revolut accounts.
 
-If you haven't sorted your banking yet, see [best bank accounts for expats](/blog/best-bank-account-expats-netherlands-2026/). For the Wise vs Revolut question specifically, my [head-to-head comparison](/blog/wise-vs-revolut-expats-2026/) covers which one's IBAN gets accepted most reliably.
+If you haven't sorted your banking yet, see [best bank accounts for expats](/guides/finance/best-bank-account-expats-netherlands-2026/). For the Wise vs Revolut question specifically, my [head-to-head comparison](/guides/finance/wise-vs-revolut-netherlands-2026/) covers which one's IBAN gets accepted most reliably.
 
 You can also pay OneFit and ClassPass on credit card, which is handy in your first few weeks before your Dutch bank account is fully active.
 

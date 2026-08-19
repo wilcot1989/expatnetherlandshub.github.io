@@ -37,7 +37,7 @@ This guide covers exactly what the 30% ruling is in 2026, what changed in 2024 (
 
 *Disclosure: this article contains affiliate links. If you sign up via them I may earn a small commission at no extra cost to you. I am not a tax advisor — for individual tax advice consult a Dutch tax professional. The information below is based on Belastingdienst publications and my own experience with the ruling.*
 
-💡 *For broader tax context see [tax filing for freelance expats](/blog/tax-filing-freelance-expat-netherlands-2026/), [crypto tax Netherlands](/blog/crypto-tax-netherlands-expats-2026/), and [salary expectations Netherlands](/blog/salary-comparison-netherlands-expats-2026/).*
+💡 *For broader tax context see [tax filing for freelance expats](/blog/tax-filing-freelance-expat-netherlands-2026/), [crypto tax Netherlands](/blog/crypto-tax-netherlands-expats-2026/), and [salary expectations Netherlands](/guides/work/average-salary-netherlands-2026/).*
 
 
 > **Quick answer:** What the 30% ruling looks like in 2026 after the 2024 reforms: eligibility, salary thresholds, the 5-year cap, partial benefits, and how to plan your finances around it.
@@ -239,7 +239,7 @@ What's worth optimizing:
 
 The 30% ruling in 2026 is less generous than it was in 2020 but still extraordinarily valuable — €40,000–€90,000 in extra net income over its 5-year life for a typical skilled-expat salary. Apply on time, plan for the cliff, invest the savings rather than inflating your lifestyle, and treat the ruling as a one-time accelerator rather than a permanent feature of your finances.
 
-For broader expat-tax planning see [tax filing for freelance expats](/blog/tax-filing-freelance-expat-netherlands-2026/), [crypto tax Netherlands](/blog/crypto-tax-netherlands-expats-2026/), [salary expectations](/blog/salary-comparison-netherlands-expats-2026/), and [renting vs buying as expat](/blog/renting-vs-buying-netherlands-expat-2026/) for the housing piece of the equation. Compare your <a href="https://go.expatnetherlandshub.com/independer-zorg?ref=/blog/30-percent-ruling-extension-2024-changes-2026/" target="_blank" rel="nofollow sponsored noopener">health insurance</a> annually since the ruling-period cash flow lets you choose more flexibly.
+For broader expat-tax planning see [tax filing for freelance expats](/blog/tax-filing-freelance-expat-netherlands-2026/), [crypto tax Netherlands](/blog/crypto-tax-netherlands-expats-2026/), [salary expectations](/guides/work/average-salary-netherlands-2026/), and [renting vs buying as expat](/blog/renting-vs-buying-netherlands-expat-2026/) for the housing piece of the equation. Compare your <a href="https://go.expatnetherlandshub.com/independer-zorg?ref=/blog/30-percent-ruling-extension-2024-changes-2026/" target="_blank" rel="nofollow sponsored noopener">health insurance</a> annually since the ruling-period cash flow lets you choose more flexibly.
 
 ---
 

@@ -224,7 +224,7 @@ Two related benefits often confuse expats:
 
 You can claim all three if you qualify. Most expat families qualify for kinderbijslag automatically (it is universal) but need to apply for the means-tested ones.
 
-For the broader expat family setup, see [moving to the Netherlands with kids](/blog/moving-netherlands-with-kids-expat-2026/) and [Dutch primary school for expats](/blog/dutch-primary-school-expats-2026/).
+For the broader expat family setup, see [moving to the Netherlands with kids](/guides/daily-life/expat-family-guide-raising-kids-netherlands-2026/) and [Dutch primary school for expats](/guides/daily-life/moving-to-netherlands-with-kids-school-guide-2026/).
 
 ---
 

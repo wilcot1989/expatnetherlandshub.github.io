@@ -7,6 +7,22 @@ affiliate: true
 author: Sarah van den Berg
 author_bio: Expat coach and writer at ExpatNetherlandsHub.com
 schema_type: Article
+lastmod: 2026-08-19 10:00:00+02:00
+keywords:
+- cost of living netherlands
+- cost of living calculator netherlands
+- monthly living costs netherlands 2026
+- cost of living amsterdam vs rotterdam
+- how much money do i need to live in the netherlands
+faq:
+- q: What is the cost of living in the Netherlands per month?
+  a: 'A single person renting a one-bedroom flat on an average lifestyle needs roughly EUR 1,900 to EUR 2,750 per month all-in, depending on the city: about EUR 2,714 in Amsterdam, EUR 2,362 in Utrecht, EUR 2,229 in Rotterdam and The Hague, EUR 2,081 in Eindhoven and EUR 1,909 in Maastricht, based on our own dataset of rent, health insurance, transport, groceries, dining out, gym, phone/internet and utilities. Sharing a flat instead of renting alone cuts EUR 500 to EUR 800 off those totals. Rent is 50-60% of the bill everywhere, which is why the city you choose matters more than any other single decision.'
+- q: Is Amsterdam much more expensive than the rest of the Netherlands?
+  a: Yes, and almost entirely because of rent. A one-bedroom flat runs around EUR 1,650 per month in Amsterdam against roughly EUR 1,250 in Rotterdam or The Hague and EUR 1,025 in Maastricht. Groceries, dining out and gym memberships are 10-25% higher in Amsterdam, while nationally fixed costs such as health insurance, phone and internet are identical wherever you live. On an equivalent lifestyle, moving from Amsterdam to Rotterdam saves roughly EUR 480 a month, and to Groningen or Maastricht around EUR 800.
+- q: Which living costs are the same everywhere in the Netherlands?
+  a: Health insurance is a national system, so the basisverzekering premium does not vary by city — the 2026 average is about EUR 159 per month per adult, with children under 18 free. Phone and internet pricing is national. Energy is nationally priced too, though your actual bill depends far more on the house than on the postcode, since a poorly insulated pre-1970 property can cost double what a modern flat costs to heat. What genuinely varies by city is rent, and to a smaller degree groceries, eating out and gym membership.
+- q: How much salary do I need to live comfortably in the Netherlands?
+  a: 'As a rule of thumb, budget your net monthly costs plus 20-25% for savings, holidays and irregular expenses. For a single person on an average lifestyle that implies a net income of roughly EUR 2,400-2,600 per month outside Amsterdam and EUR 3,200-3,400 in Amsterdam. The figures in this calculator are net monthly outgoings, so compare them with your net salary after Dutch payroll tax rather than your gross — and if you hold the 30% ruling your net figure will be considerably higher than the gross would suggest.'
 ---
 
 <style>
@@ -556,7 +572,7 @@ Open a Wise account <span class="cta-arrow">&rarr;</span>
 var COST_DATA = {
 amsterdam:   {
 rent1bed: 1650, rent2bed: 2200, shared: 850, mortgage: 1400,
-health: 130,
+health: 159,
 ov: 110,
 groceriesBudget: 250, groceriesAvg: 350, groceriesComfortable: 450,
 diningBudget: 50,  diningAvg: 150,  diningComfortable: 300,
@@ -566,7 +582,7 @@ utilitiesBudget: 150, utilitiesAvg: 200, utilitiesComfortable: 250
 },
 rotterdam:   {
 rent1bed: 1250, rent2bed: 1700, shared: 650, mortgage: 1000,
-health: 130,
+health: 159,
 ov: 100,
 groceriesBudget: 230, groceriesAvg: 320, groceriesComfortable: 420,
 diningBudget: 45,  diningAvg: 130,  diningComfortable: 250,
@@ -576,7 +592,7 @@ utilitiesBudget: 140, utilitiesAvg: 180, utilitiesComfortable: 220
 },
 'the-hague': {
 rent1bed: 1250, rent2bed: 1700, shared: 650, mortgage: 1050,
-health: 130,
+health: 159,
 ov: 100,
 groceriesBudget: 230, groceriesAvg: 320, groceriesComfortable: 420,
 diningBudget: 45,  diningAvg: 130,  diningComfortable: 250,
@@ -586,7 +602,7 @@ utilitiesBudget: 140, utilitiesAvg: 180, utilitiesComfortable: 220
 },
 utrecht:     {
 rent1bed: 1350, rent2bed: 1800, shared: 700, mortgage: 1100,
-health: 130,
+health: 159,
 ov: 100,
 groceriesBudget: 240, groceriesAvg: 330, groceriesComfortable: 430,
 diningBudget: 45,  diningAvg: 140,  diningComfortable: 270,
@@ -596,7 +612,7 @@ utilitiesBudget: 145, utilitiesAvg: 190, utilitiesComfortable: 230
 },
 eindhoven:   {
 rent1bed: 1150, rent2bed: 1500, shared: 600, mortgage: 900,
-health: 130,
+health: 159,
 ov: 95,
 groceriesBudget: 220, groceriesAvg: 300, groceriesComfortable: 400,
 diningBudget: 40,  diningAvg: 120,  diningComfortable: 220,
@@ -606,7 +622,7 @@ utilitiesBudget: 135, utilitiesAvg: 170, utilitiesComfortable: 210
 },
 leiden:      {
 rent1bed: 1225, rent2bed: 1600, shared: 625, mortgage: 1000,
-health: 130,
+health: 159,
 ov: 95,
 groceriesBudget: 230, groceriesAvg: 320, groceriesComfortable: 420,
 diningBudget: 45,  diningAvg: 130,  diningComfortable: 250,
@@ -616,7 +632,7 @@ utilitiesBudget: 140, utilitiesAvg: 180, utilitiesComfortable: 220
 },
 groningen:   {
 rent1bed: 1050, rent2bed: 1400, shared: 550, mortgage: 800,
-health: 130,
+health: 159,
 ov: 90,
 groceriesBudget: 210, groceriesAvg: 290, groceriesComfortable: 380,
 diningBudget: 35,  diningAvg: 100,  diningComfortable: 180,
@@ -626,7 +642,7 @@ utilitiesBudget: 130, utilitiesAvg: 160, utilitiesComfortable: 195
 },
 maastricht:  {
 rent1bed: 1025, rent2bed: 1350, shared: 525, mortgage: 750,
-health: 130,
+health: 159,
 ov: 90,
 groceriesBudget: 210, groceriesAvg: 290, groceriesComfortable: 380,
 diningBudget: 35,  diningAvg: 100,  diningComfortable: 180,
@@ -836,6 +852,78 @@ total: Math.round(total)
 }
 }
 </script>
+
+
+## Cost of Living in the Netherlands: The Short Answer
+
+If you only want the number, here it is. These are single-person monthly totals from the dataset behind the calculator above — a one-bedroom rental on an average lifestyle, including rent, health insurance, an OV season ticket, groceries, eating out, gym, phone and internet, and utilities.
+
+| City | Rent (1-bed) | Total, renting alone | Total, sharing a flat |
+|---|---|---|---|
+| Amsterdam | €1,650 | €2,714 | €1,914 |
+| Utrecht | €1,350 | €2,362 | €1,712 |
+| Rotterdam | €1,250 | €2,229 | €1,629 |
+| The Hague | €1,250 | €2,229 | €1,629 |
+| Leiden | €1,225 | €2,199 | €1,599 |
+| Eindhoven | €1,150 | €2,081 | €1,531 |
+| Groningen | €1,050 | €1,934 | €1,434 |
+| Maastricht | €1,025 | €1,909 | €1,409 |
+
+Three things to take from that table:
+
+1. **Rent is 50–60% of your total everywhere.** Every other line is small by comparison. Choosing Rotterdam over Amsterdam saves about €480 a month on an identical lifestyle; choosing Groningen or Maastricht saves closer to €800.
+2. **Sharing is the biggest lever after the city.** A room in a shared flat rather than your own one-bedroom takes €500–800 a month off the total, which is why so many new arrivals share for the first year.
+3. **Some costs do not move at all.** Health insurance, phone and internet are nationally priced. Only rent, groceries, restaurants and gyms differ meaningfully between Dutch cities.
+
+Use the calculator above to run your own combination of city, household and lifestyle — it also shows the difference against Amsterdam automatically.
+
+### What is included, and what is not
+
+The totals cover the recurring monthly costs almost everyone has. They deliberately do **not** include income tax (these are net outgoings, so compare them with your net salary), childcare, private school fees, a car, debt repayments, or one-off arrival costs. Budget separately for the move itself: a deposit of one to two months' rent, an agency fee where one applies, furniture, and a bicycle.
+
+### The 2026 numbers behind the model
+
+- **Health insurance:** the average Dutch basisverzekering premium for 2026 is about **€159 per month** per adult, with the cheapest policies from roughly €142 and the most expensive around €185. Children under 18 pay no premium. Depending on your income you may also qualify for zorgtoeslag, which is not deducted in the figures above.
+- **Energy and utilities:** priced nationally, but the property matters far more than the city. An older, poorly insulated house can cost twice as much to heat as a modern flat of the same size, so treat the utilities line as the most variable item in the table.
+- **Transport:** the OV figures assume a monthly public transport pass. Many people in Dutch cities cycle and pay per journey instead, which usually works out cheaper.
+- **Rent:** market rent in the private sector. Rents in the regulated (social) sector are far lower but effectively unavailable to new arrivals because of years-long waiting lists.
+
+### Practical ways to lower the number
+
+Two of the fixed lines in the table are worth actively shopping for rather than accepting.
+
+**Energy.** Dutch energy contracts are switchable and the gap between the cheapest and the most expensive supplier for identical delivery is real money over a year. Comparing before you sign your first contract, and again when a fixed term ends, is the highest-value twenty minutes on this list.
+
+<a href="https://go.expatnetherlandshub.com/independer-energie?ref=/tools/cost-of-living-calculator/" target="_blank" rel="nofollow noopener sponsored" class="cta-affiliate">Compare Dutch energy contracts on Independer →</a>
+
+**Internet and mobile.** The €55 phone-and-internet line in the model is an average, not a floor. Bundles vary widely and promotional pricing for new customers is common.
+
+<a href="https://go.expatnetherlandshub.com/independer-internet?ref=/tools/cost-of-living-calculator/" target="_blank" rel="nofollow noopener sponsored" class="cta-affiliate">Compare internet providers on Independer →</a>
+
+**If part of your money lives in another currency.** Whether you are moving savings to the Netherlands, paying a deposit before your Dutch account exists, or sending money home each month, the exchange-rate margin a bank adds is a recurring cost that never shows up in a budget spreadsheet. Wise charges an upfront fee at the mid-market rate instead, which makes the true cost visible.
+
+<a href="https://go.expatnetherlandshub.com/wise?ref=/tools/cost-of-living-calculator/" target="_blank" rel="nofollow noopener sponsored" class="cta-affiliate">Check Wise transfer costs →</a>
+
+*Affiliate disclosure: the three links above are affiliate links. We earn a commission if you take out a product through them, at no extra cost to you. It does not change the figures in this calculator or which providers we mention.*
+
+## Frequently Asked Questions
+
+### What is the cost of living in the Netherlands per month?
+
+A single person renting a one-bedroom flat on an average lifestyle needs roughly €1,900–2,750 per month all-in, depending on the city: about €2,714 in Amsterdam, €2,362 in Utrecht, €2,229 in Rotterdam and The Hague, €2,081 in Eindhoven and €1,909 in Maastricht. Sharing a flat instead of renting alone cuts €500–800 off those totals.
+
+### Is Amsterdam much more expensive than the rest of the Netherlands?
+
+Yes, and almost entirely because of rent: around €1,650 for a one-bedroom against roughly €1,250 in Rotterdam or The Hague and €1,025 in Maastricht. Groceries, restaurants and gyms run 10–25% higher in Amsterdam; nationally priced items such as health insurance and phone contracts are identical. On an equivalent lifestyle, Amsterdam to Rotterdam saves about €480 per month, and Amsterdam to Groningen or Maastricht around €800.
+
+### Which living costs are the same everywhere in the Netherlands?
+
+Health insurance (a national system — about €159 per month per adult in 2026, children under 18 free), phone and internet. Energy is nationally priced but your bill depends on the building's insulation far more than on the city. Rent is what really varies, followed at a distance by groceries, eating out and gym membership.
+
+### How much salary do I need to live comfortably in the Netherlands?
+
+Take your net monthly costs from the calculator and add 20–25% for savings, holidays and irregular expenses. For a single person on an average lifestyle that means a net income of roughly €2,400–2,600 per month outside Amsterdam, or €3,200–3,400 in Amsterdam. Compare against your **net** salary after Dutch payroll tax — and note that the 30% ruling, if you qualify, raises your net figure substantially.
+
 
 <h2>Related Guides</h2>
 <ul>

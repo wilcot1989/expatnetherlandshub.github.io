@@ -45,7 +45,7 @@ This guide walks through the 2026 financial reality of renting vs buying in the 
 
 *Disclosure: this article contains affiliate links. If you sign up via them I may earn a small commission at no extra cost to you. I am not a mortgage advisor — for individual advice consult a Dutch hypotheekadviseur. Numbers below are 2026 market data plus my own purchase experience.*
 
-💡 *For housing context see [HousingAnywhere review](/blog/housinganywhere-review-expats-2026/), [Amsterdam vs Rotterdam cost](/blog/cost-of-living-amsterdam-vs-rotterdam-2026/), and [short-stay furnished housing](/blog/short-stay-furnished-housing-netherlands-2026/).*
+💡 *For housing context see [HousingAnywhere review](/guides/housing/housinganywhere-vs-kamernet-vs-funda-2026/), [Amsterdam vs Rotterdam cost](/blog/cost-of-living-amsterdam-vs-rotterdam-2026/), and [short-stay furnished housing](/blog/short-stay-furnished-housing-netherlands-2026/).*
 
 
 > **Quick answer:** Should expats rent or buy in the Netherlands in 2026? My financial breakdown of both paths — mortgage rules, hidden costs, the 30% ruling angle, and the real break-even.
@@ -107,7 +107,7 @@ Rent if any of these apply:
 
 **7. The market in your city is overvalued.** Buying in Amsterdam Centrum at €11,000/m² is a different bet than buying in Rotterdam Centrum at €5,500/m². See [Amsterdam vs Rotterdam comparison](/blog/cost-of-living-amsterdam-vs-rotterdam-2026/).
 
-For temporary or first-year housing, [HousingAnywhere](/blog/housinganywhere-review-expats-2026/) is the standard expat option for furnished short-stay rentals — <a href="https://go.expatnetherlandshub.com/housing-anywhere?ref=/blog/renting-vs-buying-netherlands-expat-2026/" target="_blank" rel="nofollow sponsored noopener">browse listings here</a>.
+For temporary or first-year housing, [HousingAnywhere](/guides/housing/housinganywhere-vs-kamernet-vs-funda-2026/) is the standard expat option for furnished short-stay rentals — <a href="https://go.expatnetherlandshub.com/housing-anywhere?ref=/blog/renting-vs-buying-netherlands-expat-2026/" target="_blank" rel="nofollow sponsored noopener">browse listings here</a>.
 
 ## When Buying Definitely Wins
 
@@ -272,7 +272,7 @@ Buying in NL as an expat works financially when you commit to 5+ years, have tra
 
 If you're early-stage, rent through <a href="https://go.expatnetherlandshub.com/housing-anywhere?ref=/blog/renting-vs-buying-netherlands-expat-2026/" target="_blank" rel="nofollow sponsored noopener">HousingAnywhere</a> for your first year, scout the city, then revisit the buying question with eyes open and savings ready. Once settled in a property, sort <a href="https://go.expatnetherlandshub.com/independer-inboedel?ref=/blog/renting-vs-buying-netherlands-expat-2026/" target="_blank" rel="nofollow sponsored noopener">contents insurance</a> and switch to a <a href="https://go.expatnetherlandshub.com/independer-energie?ref=/blog/renting-vs-buying-netherlands-expat-2026/" target="_blank" rel="nofollow sponsored noopener">competitive energy provider</a>.
 
-For more housing context see [HousingAnywhere review](/blog/housinganywhere-review-expats-2026/), [Amsterdam vs Rotterdam cost of living](/blog/cost-of-living-amsterdam-vs-rotterdam-2026/), [short-stay furnished housing](/blog/short-stay-furnished-housing-netherlands-2026/), [30% ruling guide](/blog/30-percent-ruling-extension-2024-changes-2026/), and [tax filing for freelance expats](/blog/tax-filing-freelance-expat-netherlands-2026/) for related tax topics.
+For more housing context see [HousingAnywhere review](/guides/housing/housinganywhere-vs-kamernet-vs-funda-2026/), [Amsterdam vs Rotterdam cost of living](/blog/cost-of-living-amsterdam-vs-rotterdam-2026/), [short-stay furnished housing](/blog/short-stay-furnished-housing-netherlands-2026/), [30% ruling guide](/blog/30-percent-ruling-extension-2024-changes-2026/), and [tax filing for freelance expats](/blog/tax-filing-freelance-expat-netherlands-2026/) for related tax topics.
 
 ---
 

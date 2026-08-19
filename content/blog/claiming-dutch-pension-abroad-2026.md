@@ -353,9 +353,9 @@ Understanding your Dutch pension is one piece of a larger financial picture when
 - [Dutch Pension Complete Guide for Expats 2026](/guides/finance/dutch-pension-complete-guide-expats-2026/) — full overview of the Dutch pension system
 - [Dutch Pension System Explained for Expats](/guides/finance/dutch-pension-system-expats-2026/) — how the three-pillar system works
 - [Leaving the Netherlands: What Happens to Your Pension](/guides/finance/dutch-pension-leaving-netherlands-2026/) — key decisions when you move away
-- [Dutch Tax Return Guide for Expats 2026](/guides/finance/dutch-tax-return-expats-guide-2026/) — filing your annual return
+- [Dutch Tax Return Guide for Expats 2026](/guides/finance/dutch-tax-return-how-to-file-2026/) — filing your annual return
 - [30% Ruling Netherlands 2026: Complete Guide](/guides/finance/30-percent-ruling-netherlands-2026/) — tax facility for qualifying expats
-- [Wise Review for Expats 2026](/guides/finance/wise-review-expats-2026/) — detailed review of Wise for international transfers
+- [Wise Review for Expats 2026](/guides/finance/wise-review-expats-netherlands-2026/) — detailed review of Wise for international transfers
 - [Dutch Box 3 Tax and Savings for Expats](/guides/finance/dutch-box-3-tax-savings-expats-2026/) — how Dutch wealth tax works
 - [Average Salary Netherlands 2026](/guides/work/average-salary-netherlands-2026/) — income benchmarks for planning
 - [Expat Salary Comparison Tool](/salary-comparison/) — interactive tool to compare salaries

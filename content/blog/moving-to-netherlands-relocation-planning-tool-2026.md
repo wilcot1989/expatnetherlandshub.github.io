@@ -73,7 +73,7 @@ This is the phase where most people either do too little or panic and do everyth
 
 If you are a non-EU citizen, your employer or sponsor will usually start the MVV (Machtiging tot Voorlopig Verblijf) process for you through the [IND](https://ind.nl). Confirm in writing which steps are theirs and which are yours. Ask specifically: who books the biometrics appointment, who picks up the residence permit card, and what the reference number is. I have seen too many people assume HR is handling something HR thinks they are handling themselves.
 
-EU citizens can skip the MVV but still need to register at the gemeente within five days of arriving if they intend to stay longer than four months. More on that in the arrival section, and in my [BSN number guide](/blog/bsn-number-netherlands-guide-2026/).
+EU citizens can skip the MVV but still need to register at the gemeente within five days of arriving if they intend to stay longer than four months. More on that in the arrival section, and in my [BSN number guide](/guides/legal/bsn-registration-guide-2026/).
 
 ### 2. Document apostille and translation
 
@@ -96,7 +96,7 @@ Instead, book a short-term furnished place for the first four to eight weeks. Th
 
 <a href="https://go.expatnetherlandshub.com/housing-anywhere?ref=/blog/moving-to-netherlands-relocation-planning-tool-2026/" target="_blank" rel="nofollow sponsored noopener">Browse expat-friendly short-term rentals on HousingAnywhere</a>
 
-I cover the longer-term search in detail in my [housing guide for expats](/blog/finding-housing-netherlands-expats-2026/), including how to spot scams and what "huurtoeslag" actually means for your eligibility.
+I cover the longer-term search in detail in my [housing guide for expats](/guides/housing/finding-housing-netherlands-expats-2026/), including how to spot scams and what "huurtoeslag" actually means for your eligibility.
 
 ### 4. Book your BSN/gemeente appointment
 
@@ -177,7 +177,7 @@ With a BSN in hand, you can open a real Dutch bank account. The big three (ING, 
 
 <a href="https://go.expatnetherlandshub.com/bunq?ref=/blog/moving-to-netherlands-relocation-planning-tool-2026/" target="_blank" rel="nofollow sponsored noopener">Open a Bunq account online</a>
 
-I have a deeper comparison in my [Dutch bank account guide](/blog/dutch-bank-account-expats-2026/), including which banks play well with the Belastingdienst and which integrate with payroll fastest.
+I have a deeper comparison in my [Dutch bank account guide](/guides/finance/how-to-open-bank-account-netherlands-2026/), including which banks play well with the Belastingdienst and which integrate with payroll fastest.
 
 ### Day 6–7: First admin sweep
 
@@ -196,7 +196,7 @@ This is the phase where it feels like things are calming down, and that is exact
 
 DigiD is the Dutch government's single-sign-on for almost every official service: tax filings, health insurance enrolment, GP portals, gemeente services, parking permits. You apply online with your BSN, then a letter with an activation code arrives at your registered address within five working days.
 
-Do not let this letter sit unopened. The code expires. I cover the activation steps in my [DigiD guide](/blog/digid-netherlands-expats-2026/).
+Do not let this letter sit unopened. The code expires. I cover the activation steps in my [DigiD guide](/guides/legal/digid-guide-expats-2026/).
 
 ### 2. Health insurance (mandatory within 4 months)
 
@@ -204,13 +204,13 @@ This is the deadline I almost missed. Every resident of the Netherlands is legal
 
 If you do not enrol, the CAK steps in, signs you up automatically, and adds a fine of around 130% of the monthly premium per month of delay. It is not worth the gamble.
 
-Compare basisverzekering policies through Zorgwijzer or Independer once you have your BSN. Premiums in 2026 hover around €145–€170 per month for basic cover. My deeper breakdown is in my [Dutch health insurance guide for expats](/blog/dutch-health-insurance-expats-2026/).
+Compare basisverzekering policies through Zorgwijzer or Independer once you have your BSN. Premiums in 2026 hover around €145–€170 per month for basic cover. My deeper breakdown is in my [Dutch health insurance guide for expats](/guides/health/dutch-health-insurance-guide-expats-2026/).
 
 ### 3. 30% ruling application
 
 If you are a highly skilled migrant earning above the salary threshold, you may qualify for the 30% ruling, which lets your employer pay 30% of your gross salary tax-free as a reimbursement for the costs of moving abroad. The rules changed in 2024 and tightened again in 2026, so the headline number is now lower and tapers over time, but it is still worth tens of thousands of euros over five years for most qualifying expats.
 
-Your employer files the application with the Belastingdienst. You provide the supporting documents. File it within four months of starting work and the ruling applies from your first working day. File it later and you lose the back-period. Full eligibility detail is in my [30% ruling guide](/blog/30-percent-ruling-netherlands-2026/).
+Your employer files the application with the Belastingdienst. You provide the supporting documents. File it within four months of starting work and the ruling applies from your first working day. File it later and you lose the back-period. Full eligibility detail is in my [30% ruling guide](/guides/finance/30-percent-ruling-netherlands-2026/).
 
 ### 4. Energy and internet
 

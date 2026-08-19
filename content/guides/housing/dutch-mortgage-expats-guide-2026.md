@@ -297,7 +297,7 @@ If you are bringing money from another country to fund the deposit or buyer's co
 
 [Transfer money via Wise](https://go.expatnetherlandshub.com/wise?ref=/guides/housing/dutch-mortgage-expats-guide-2026/)
 
-For a full review, see the [Wise review for expats](/guides/finance/wise-review-expats-2026/).
+For a full review, see the [Wise review for expats](/guides/finance/wise-review-expats-netherlands-2026/).
 
 ### Banking Setup
 
@@ -324,7 +324,7 @@ Look for advisors who explicitly state experience with:
 
 Expect to pay **€2,000-€3,500** for a full advisory and application service. Some advisors charge less for simple cases, more for complex international income situations.
 
-The [cost of living guide](/guides/finance/cost-of-living-netherlands-2026/) gives useful context on budgeting for property costs alongside other living expenses.
+The [cost of living guide](/guides/housing/cost-of-living-netherlands-2026/) gives useful context on budgeting for property costs alongside other living expenses.
 
 ---
 
@@ -375,4 +375,4 @@ Getting a mortgage as an expat in the Netherlands is entirely achievable — and
 
 The two things that make the biggest difference: **get pre-approved before you start looking seriously**, and **use a mortgage advisor who genuinely understands expat cases**. Both of these save time, money, and stress.
 
-For the financial side of life in the Netherlands beyond housing, the [cost of living guide](/guides/finance/cost-of-living-netherlands-2026/) is a good next read. And if you are still deciding where in the country to settle, the [Amsterdam vs Rotterdam comparison](/guides/daily-life/amsterdam-vs-rotterdam-expats-2026/) covers how the property markets differ between the two biggest cities.
+For the financial side of life in the Netherlands beyond housing, the [cost of living guide](/guides/housing/cost-of-living-netherlands-2026/) is a good next read. And if you are still deciding where in the country to settle, the [Amsterdam vs Rotterdam comparison](/guides/daily-life/amsterdam-vs-rotterdam-expats-2026/) covers how the property markets differ between the two biggest cities.

@@ -1,8 +1,8 @@
 ---
 title: Unemployment Benefits (WW) Netherlands 2026
 date: 2026-03-22 08:25:00+01:00
-lastmod: 2026-04-23 10:00:00+01:00
-description: 'How Dutch unemployment benefits (WW-uitkering) work for expats in 2026: eligibility, how much you get, how long, and how to apply via UWV.'
+lastmod: 2026-08-19 10:00:00+02:00
+description: 'Dutch unemployment benefit explained: 75% of your daily wage for two months then 70%, 3 to 24 months long, 26-of-36-weeks rule, and how to apply at UWV on day one.'
 categories:
 - work
 tags:
@@ -18,6 +18,10 @@ keywords:
 - UWV unemployment claim
 - dutch unemployment 2026
 - job loss netherlands expat
+- unemployment benefit netherlands
+- ww uitkering
+- how much is ww uitkering
+- uwv ww application
 affiliate: false
 author: Sarah van den Berg
 author_bio: Expat coach and relocation specialist. Half Dutch, half British, living in the Netherlands for over 10 years.
@@ -28,14 +32,20 @@ faq:
 - q: How many weeks do I need to have worked to qualify for WW?
   a: 'The basic requirement is the weeks-eis (weeks requirement): you must have worked at least 26 out of the 36 weeks immediately preceding your unemployment. There is also a years requirement (jaren-eis): for a longer WW period (more than 3 months), you must have worked in at least 4 of the last 5 years, with each year counting if you worked at least 208 hours. Most expats on standard employment contracts meet the weeks requirement from around six months of working in the Netherlands.'
 - q: How much is the WW benefit in the Netherlands?
-  a: WW benefit is calculated as 75% of your average daily wage (dagloon) for the first two months, then 70% thereafter. The daily wage is based on your earnings in the year before you became unemployed. There is a maximum daily wage that can be used in the calculation — in 2026 this is approximately EUR 267/day (around EUR 5,735/month). So the maximum WW benefit is approximately EUR 200/day (75%) for the first two months, dropping to EUR 187/day (70%) after that.
+  a: WW benefit is calculated as 75% of your average daily wage (dagloon) for the first two months, then 70% thereafter. The daily wage is based on your earnings in the year before you became unemployed. There is a statutory maximum daily wage (maximumdagloon) used in the calculation. UWV publishes it at EUR 309.91 gross per day for 2026, which works out to a maximum monthly wage of roughly EUR 6,740 (UWV multiplies the daily figure by 21.75 benefit days per month). The maximum WW benefit is therefore around EUR 232 per day — roughly EUR 5,055 per month — for the first two months, dropping to about EUR 217 per day, or roughly EUR 4,718 per month, from month three.
 - q: How long can I receive WW benefits in the Netherlands?
   a: The duration of your WW depends on your employment history. The basic duration is 3 months. For every year you worked (above the minimum 4 years required), you earn one additional month of WW, up to a maximum of 24 months. Most people with a full employment history of 10+ years receive WW for up to 24 months. Expats who have worked in the Netherlands for a shorter period typically receive WW for 3-12 months depending on their history.
 - q: How do I apply for WW in the Netherlands?
   a: Apply via the UWV website (uwv.nl) as soon as you become unemployed — ideally on the first day of unemployment. You need a DigiD to access the UWV portal. The process involves submitting your employment history, reason for unemployment, and banking details. UWV will verify your eligibility and contact you if they need more information. First payment typically arrives within 4-6 weeks of a successful application. Register as a job seeker at werk.nl simultaneously.
+- q: What is a WW-uitkering?
+  a: 'WW-uitkering is the Dutch term for unemployment benefit, paid by UWV under the Werkloosheidswet. It is an insurance payment rather than welfare: it is funded by employer and employee premiums paid while you were working, so entitlement depends on your work history and not on your savings. It pays 75% of your dagloon for two months and 70% after that, lasts between 3 and 24 months, is taxed as income, and comes with an obligation to look for work and report your activities to UWV. When WW runs out, the means-tested bijstand from your municipality is the next layer.'
 - q: Does receiving WW affect my residence permit?
   a: This depends on your residence permit type. EU/EEA citizens do not need a separate residence permit and WW entitlement is not affected by benefit receipt. For non-EU citizens, the situation is more complex. Most work permits (kennismigrant/highly skilled migrant permits) require you to be employed — if you lose your job, you typically have a period of 3 months (or longer for highly skilled migrants) to find new employment before your permit status may be affected. Contact IND (Immigratie en Naturalisatiedienst) and your immigration lawyer promptly if you lose your job on a work-based permit.
 products:
+- name: Independer (health insurance comparison)
+  url: https://go.expatnetherlandshub.com/independer-zorg?ref=/blog/unemployment-benefits-ww-netherlands-2026/
+  price: '0.00'
+  tag: Keep cover affordable on a lower income
 - name: Wise
   url: https://go.expatnetherlandshub.com/wise?ref=/blog/unemployment-benefits-ww-netherlands-2026/
   price: '0.00'
@@ -51,7 +61,12 @@ This guide explains exactly how Dutch unemployment benefits work for expats: who
 
 💡 *Looking for a complete banking comparison? Read [Best banking for expats in the Netherlands 2026](/blog/best-banking-expats-netherlands-2026/) — covers ABN, ING, Bunq, Wise, Revolut & 5 others by expat use case.*
 
-> **Quick answer:** How Dutch unemployment benefits (WW-uitkering) work for expats in 2026: eligibility, how much you get, how long, and how to apply via UWV.
+> **Direct answer:** The Dutch unemployment benefit is called WW (WW-uitkering) and is paid by UWV.
+> - **How much:** 75% of your average daily wage (dagloon) for the first two months, then 70%. The calculation is capped at the maximumdagloon, which UWV puts at EUR 309.91 gross per day for 2026 (about EUR 6,740 per month), so the highest possible WW is roughly EUR 5,055 per month for two months and about EUR 4,718 per month after that.
+> - **How long:** a minimum of 3 months. If you worked in at least 4 of the last 5 years you gain one extra month per qualifying year, up to a maximum of 24 months.
+> - **Who qualifies:** employees (not ZZP'ers) who lost at least 5 hours of work per week through no fault of their own and worked at least 26 of the 36 weeks before becoming unemployed. Nationality does not matter; a valid right to work does.
+> - **How to apply:** online at uwv.nl with your DigiD, no later than your first day of unemployment, and register as a jobseeker at werk.nl the same day. A decision usually follows within 4 to 6 weeks.
+> - **If you quit voluntarily** or were dismissed for serious misconduct, you are normally not entitled to WW.
 
 ## What Is WW (Werkloosheidswet)?
 
@@ -115,7 +130,7 @@ WW is calculated based on your **dagloon** (daily wage) — essentially your ave
 
 ### The Maximum Daily Wage
 
-There is a statutory maximum dagloon — in 2026, approximately EUR 267/day (EUR 5,735/month). If you earned above this, your WW is still based on the maximum, not your actual higher salary.
+There is a statutory maximum dagloon. For 2026, UWV publishes it as EUR 309.91 gross per day, equivalent to a maximum monthly wage of roughly EUR 6,740 (UWV counts 21.75 benefit days per month). If you earned above that, your WW is calculated on the maximum, not on your actual higher salary. The ministry reviews the figure twice a year, so check uwv.nl for the amount that applies on your first day of unemployment.
 
 ### Practical Examples
 
@@ -123,7 +138,7 @@ There is a statutory maximum dagloon — in 2026, approximately EUR 267/day (EUR
 |-------------------------|---------------------|-----------------|---------------|
 | EUR 3,000/month | No | ~EUR 1,688/month | ~EUR 1,575/month |
 | EUR 5,000/month | No | ~EUR 2,813/month | ~EUR 2,625/month |
-| EUR 7,000/month | Yes (capped at EUR 5,735) | ~EUR 3,226/month | ~EUR 3,011/month |
+| EUR 7,000/month | Yes (capped at EUR 6,740) | ~EUR 5,055/month | ~EUR 4,718/month |
 
 ### What Is Deducted?
 
@@ -231,7 +246,7 @@ EU/EEA citizens living in the Netherlands have full rights to WW without restric
 
 **Network actively**: The Dutch job market relies heavily on networking. Dutch expat professional groups, LinkedIn, and industry events are worth the time investment.
 
-**Consider STAP subsidy**: The Dutch STAP (Stimulering Arbeidsmarktpositie) subsidy system provides up to EUR 1,000 for retraining or education. UWV advisors can help identify relevant courses.
+**Ask UWV about funded training**: The STAP budget that many older guides mention was scrapped on 1 January 2024 and no longer exists. What does exist is UWV's own scholing route: if a course is genuinely necessary to get you back into work, UWV can give you permission to follow it while keeping your WW, and in some cases buys the course and reimburses learning materials and travel costs. You must apply through the UWV werkmap and wait for written approval before starting, courses run for a maximum of one year, and you have to resume job seeking two months before the course ends.
 
 **Update your DigiD**: Your DigiD must be active for the UWV portal to work. If your DigiD has expired or your phone number has changed, update it immediately.
 
@@ -243,14 +258,12 @@ EU/EEA citizens living in the Netherlands have full rights to WW without restric
 
 ## Internal Links
 
-- [Dutch employment contract explained for expats](/guides/work/dutch-employment-contract-explained-2026/)
-- [Dutch contract types explained for expats 2026](/blog/dutch-contract-types-explained-2026/)
-- [How to quit your job in the Netherlands](/blog/quit-job-netherlands-expats-2026/)
-- [Sick leave rights in the Netherlands for expats](/blog/sick-leave-rights-netherlands-expats-2026/)
-- [Probation period Netherlands: what to know](/blog/probation-period-netherlands-expats-2026/)
+- [Dutch employment contracts, contract types and probation periods explained](/guides/work/dutch-employment-contract-explained-2026/)
+- [Changing jobs and careers in the Netherlands](/guides/work/career-change-netherlands-expats-2026/)
+- [Sick leave and dismissal rights: Dutch employment law basics](/guides/legal/dutch-employment-law-basics-expats-2026/)
 - [Freelancer and ZZP guide for the Netherlands](/guides/work/freelancer-zzp-guide-netherlands-2026/)
 - [Dutch pay slip (loonstrook) explained](/guides/work/dutch-pay-slip-loonstrook-explained-2026/)
-- [Working from home tax in the Netherlands](/blog/working-from-home-tax-netherlands-2026/)
+- [Remote work and working from home in the Netherlands](/guides/work/remote-work-netherlands-expats-2026/)
 - [Dutch work culture guide for expats](/guides/work/dutch-work-culture-guide-expats-2026/)
 
 ---
@@ -265,7 +278,7 @@ WW is a time-limited benefit. When it expires, you have several options dependin
 
 **If you are non-EU and your work permit expires:** Your permit is linked to employment. If WW has ended and you have not found new qualifying employment, you will need to leave the Netherlands or apply for a different type of residence permit. The options depend on your personal circumstances — consult an immigration lawyer before your permit expires.
 
-**Upskilling while on WW:** If your job search is taking longer than expected, investing in new skills or certifications during the WW period is worthwhile. Employers in the Netherlands respond well to candidates who have used a gap period productively. STAP subsidies (up to EUR 1,000 for approved training programmes) are available to WW recipients.
+**Upskilling while on WW:** If your job search is taking longer than expected, a certification or retraining course during the WW period is worth considering. Note that the STAP budget was abolished on 1 January 2024 — the current route is to request permission from UWV for training that is needed to find work, which can be followed with your benefit intact and, if UWV purchases the course, at their cost. Approval must be in writing before you start.
 
 ## Summary
 
@@ -287,11 +300,15 @@ The basic requirement is the weeks-eis (weeks requirement): you must have worked
 
 **How much is the WW benefit in the Netherlands?**
 
-WW benefit is calculated as 75% of your average daily wage (dagloon) for the first two months, then 70% thereafter. The daily wage is based on your earnings in the year before you became unemployed. There is a maximum daily wage that can be used in the calculation — in 2026 this is approximately EUR 267/day (around EUR 5,735/month). So the maximum WW benefit is approximately EUR 200/day (75%) for the first two months, dropping to EUR 187/day (70%) after that.
+WW benefit is calculated as 75% of your average daily wage (dagloon) for the first two months, then 70% thereafter. The daily wage is based on your earnings in the year before you became unemployed. The calculation is capped at the maximumdagloon, which UWV publishes as EUR 309.91 gross per day for 2026 — about EUR 6,740 per month. The maximum WW benefit is therefore roughly EUR 5,055 per month for the first two months and about EUR 4,718 per month from month three, however much you earned before.
 
 **How long can I receive WW benefits in the Netherlands?**
 
 The duration of your WW depends on your employment history. The basic duration is 3 months. For every year you worked (above the minimum 4 years required), you earn one additional month of WW, up to a maximum of 24 months. Most people with a full employment history of 10+ years receive WW for up to 24 months. Expats who have worked in the Netherlands for a shorter period typically receive WW for 3-12 months depending on their history.
+
+**What is a WW-uitkering?**
+
+WW-uitkering is the Dutch term for unemployment benefit. It is an insurance payment, not welfare: employer and employee premiums paid during your employment fund it, which is why entitlement depends on how long you worked rather than on your savings. It is administered by UWV, taxed as income, and it ends when you find work, when your entitlement period runs out, or when you stop meeting the job-seeking obligations. If it runs out and you still have no work, the next step is means-tested social assistance (bijstand) from your municipality, which is only open to residents with a qualifying residence status.
 
 **How do I apply for WW in the Netherlands?**
 
@@ -343,9 +360,11 @@ The first 48–72 hours after losing your job are the most important for protect
 
 Getting these first steps right in the correct sequence matters more than it might seem. A late WW application — even by a day or two — can result in a deduction of your benefit. The Dutch system is structured, rule-based, and will apply those rules precisely, including to your disadvantage if you miss a deadline. Taking the 30 minutes on day one to apply via uwv.nl and register at werk.nl protects weeks of benefit income.
 
-<a href="https://go.expatnetherlandshub.com/wise" class="cta-affiliate" rel="nofollow noopener sponsored" target="_blank">Try Wise</a>
+One bill that does not pause when your income does: Dutch basic health insurance stays compulsory for as long as you live here, and WW counts as income for zorgtoeslag purposes. If your premium is a stretch on a reduced income, this is a sensible moment to check whether a cheaper basisverzekering covers the same care, and to apply for zorgtoeslag if you now qualify.
 
-During this period, make sure your health coverage doesn't lapse: <a href="https://go.expatnetherlandshub.com/independer-zorg" class="cta-affiliate" rel="nofollow noopener sponsored" target="_blank">Compare Health Insurance at Independer</a>
+<a href="https://go.expatnetherlandshub.com/independer-zorg?ref=/blog/unemployment-benefits-ww-netherlands-2026/" class="cta-affiliate" rel="nofollow noopener sponsored" target="_blank">Compare Dutch health insurance premiums on Independer →</a>
+
+See also our guide to [zorgtoeslag and huurtoeslag for expats](/guides/finance/zorgtoeslag-huurtoeslag-expats-2026/) — a drop in income often opens up allowances you were not eligible for while employed.
 
 ---
 

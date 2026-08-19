@@ -79,7 +79,7 @@ The rule is generous in two important ways:
 1. It applies regardless of which country issued your license. Indian license? Exchangeable. South African? Exchangeable. Brazilian, Chinese, Egyptian, Nigerian, Pakistani, Filipino, Vietnamese, UK (post-Brexit), US states with no bilateral agreement — all exchangeable.
 2. It extends to your registered partner. If your spouse or fiscal partner has the 30% ruling and you do not, you can still exchange your license under their status.
 
-The 30% ruling is granted by the [Belastingdienst](https://www.belastingdienst.nl/) and is intended as a tax break for highly skilled migrants. The license exchange perk is a side-benefit that is so valuable it can be worth more than the tax savings in some cases — I have seen expats save €2,500 in CBR fees, theory lessons, and lost time. If you are not sure whether you qualify, I broke down the full eligibility in the [30% ruling guide for 2026](/blog/30-percent-ruling-netherlands-2026/).
+The 30% ruling is granted by the [Belastingdienst](https://www.belastingdienst.nl/) and is intended as a tax break for highly skilled migrants. The license exchange perk is a side-benefit that is so valuable it can be worth more than the tax savings in some cases — I have seen expats save €2,500 in CBR fees, theory lessons, and lost time. If you are not sure whether you qualify, I broke down the full eligibility in the [30% ruling guide for 2026](/guides/finance/30-percent-ruling-netherlands-2026/).
 
 A practical note: the ruling has to be active when you apply for the license exchange. If you apply six months after the ruling has been revoked, the RDW will reject your exchange request. Apply early.
 
@@ -266,7 +266,7 @@ The expat-relevant Independer features:
 
 **[Compare car insurance options on Independer →](https://go.expatnetherlandshub.com/independer-auto?ref=/blog/dutch-driving-license-exchange-2026/)**
 
-For the in-depth comparison of all the providers I rate, see [best car insurance in the Netherlands for expats 2026](/blog/best-car-insurance-netherlands-expats-2026/). And while you are sorting insurance, check that your [health insurance](/blog/best-dutch-health-insurance-plans-2026/) is also in order — the two are linked more than you might think, because a serious accident can pull both policies into a claim and insurers cross-reference your coverage. If you do not yet have a basic zorgverzekering, [compare health insurance via Independer here](https://go.expatnetherlandshub.com/independer-zorg?ref=/blog/dutch-driving-license-exchange-2026/).
+For the in-depth comparison of all the providers I rate, see [best car insurance in the Netherlands for expats 2026](/blog/car-insurance-netherlands-expats-2026/). And while you are sorting insurance, check that your [health insurance](/blog/best-dutch-health-insurance-plans-2026/) is also in order — the two are linked more than you might think, because a serious accident can pull both policies into a claim and insurers cross-reference your coverage. If you do not yet have a basic zorgverzekering, [compare health insurance via Independer here](https://go.expatnetherlandshub.com/independer-zorg?ref=/blog/dutch-driving-license-exchange-2026/).
 
 ## Common mistakes expats make
 

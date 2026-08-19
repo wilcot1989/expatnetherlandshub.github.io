@@ -93,7 +93,7 @@ Just as important as what relocation companies do is what they do not do. The li
 
 I have seen clients add €2,000 in line-item extras to a quoted €5,500 package because none of these were in the original scope. Read the inclusions list line by line before you sign.
 
-💡 *Visa logistics specifically: my deep dive on [the 30% ruling in 2026](/blog/30-percent-ruling-netherlands-2026/) covers what your employer needs to file and when relocation costs sit outside the ruling.*
+💡 *Visa logistics specifically: my deep dive on [the 30% ruling in 2026](/guides/finance/30-percent-ruling-netherlands-2026/) covers what your employer needs to file and when relocation costs sit outside the ruling.*
 
 ## Cost Comparison: Full-Service vs DIY
 
@@ -131,7 +131,7 @@ After comparing dozens of quotes with clients, four situations consistently just
 
 **1. Your employer is paying for it.** This is the obvious one but worth stating: if a relocation package is part of your offer and reimbursed tax-free as extraterritorial costs, take it. Do not be polite and decline. The cost is not coming out of your salary, and the time savings are real.
 
-**2. You are moving with a family.** Two adults plus children multiply every administrative step. School waiting lists in Amsterdam-Zuid and The Hague's international districts open and close in cycles you cannot predict from abroad. School search alone — done well — is worth €1,500–€2,500 of the package. Add partner career support and you justify another €1,500. See [Dutch schools for expat children in 2026](/blog/dutch-schools-expat-children-2026/) for what the school search actually involves.
+**2. You are moving with a family.** Two adults plus children multiply every administrative step. School waiting lists in Amsterdam-Zuid and The Hague's international districts open and close in cycles you cannot predict from abroad. School search alone — done well — is worth €1,500–€2,500 of the package. Add partner career support and you justify another €1,500. See [Dutch schools for expat children in 2026](/guides/daily-life/international-schools-netherlands-2026/) for what the school search actually involves.
 
 **3. You have a tight start date.** If your employer needs you on the ground in six weeks and you are still abroad with no Dutch network, the home-search bottleneck will eat the timeline. A relocation company has agent relationships that compress a four-month housing search into two to four weeks. That alone can save you from a corporate housing bill of €3,000–€5,000 per month.
 
@@ -143,7 +143,7 @@ I did my own move and I would do it again in three of the following four scenari
 
 **1. Solo move, EU/EEA passport.** No IND application, no MVV, no visa fee. Walk into a *gemeente*, register, walk out with a BSN appointment, and you are 60% of the way there. Spending €3,500 to manage what is essentially a one-day administrative task is overpaying.
 
-**2. Flexible timeline (3+ months).** If you can stay with a friend, sublet, or use a HousingAnywhere mid-term rental for the first two months, you can run the housing search at your own pace. The Dutch [housing market for expats](/blog/finding-housing-netherlands-expats-2026/) rewards patience and physical presence more than budget.
+**2. Flexible timeline (3+ months).** If you can stay with a friend, sublet, or use a HousingAnywhere mid-term rental for the first two months, you can run the housing search at your own pace. The Dutch [housing market for expats](/guides/housing/finding-housing-netherlands-expats-2026/) rewards patience and physical presence more than budget.
 
 **3. Basic Dutch literacy or strong English.** Every *gemeente*, IND office, and *Belastingdienst* desk staff member in major cities now operates in English. The bureaucracy is far more accessible than its reputation suggests, especially if you can read signage and forms with the help of a translation app.
 
@@ -177,9 +177,9 @@ Pricing in 2026 sits at €1,200–€2,500 depending on city and complexity. Be
 
 The other tasks — BSN, bank account, health insurance, DigiD, *huurtoeslag* — you handle yourself with the guides in this resource hub. Specifically:
 
-- [BSN number guide](/blog/bsn-number-netherlands-guide-2026/) for the *gemeente* appointment
-- [Dutch bank account for expats](/blog/dutch-bank-account-expats-2026/) for opening an account before or after you have a BSN
-- [Dutch health insurance](/blog/dutch-health-insurance-expats-2026/) for the mandatory *basisverzekering*
+- [BSN number guide](/guides/legal/bsn-registration-guide-2026/) for the *gemeente* appointment
+- [Dutch bank account for expats](/guides/finance/how-to-open-bank-account-netherlands-2026/) for opening an account before or after you have a BSN
+- [Dutch health insurance](/guides/health/dutch-health-insurance-guide-expats-2026/) for the mandatory *basisverzekering*
 - [Moving to the Netherlands complete checklist](/blog/moving-to-netherlands-2027-complete-checklist/) as a master timeline
 
 If you want a single payment account that works internationally on day one and converts to a Dutch IBAN later, <a href="https://go.expatnetherlandshub.com/bunq?ref=/blog/relocation-companies-vs-diy-netherlands-2026/" target="_blank" rel="nofollow sponsored noopener">bunq's Easy Bank account</a> opens entirely online with a non-Dutch address and gives you a Dutch IBAN within a few days — useful for receiving your first salary and paying a deposit before you even land.

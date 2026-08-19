@@ -51,7 +51,7 @@ This guide is what I would tell a fellow expat employee asking me where to start
 
 ---
 
-💡 *New to the Dutch tax system? Read [Dutch tax basics for expats](/blog/dutch-tax-basics-expats-2026/) — covers Box 1, Box 2, Box 3, and how the system fits together.*
+💡 *New to the Dutch tax system? Read [Dutch tax basics for expats](/guides/finance/dutch-tax-system-expats-guide-2026/) — covers Box 1, Box 2, Box 3, and how the system fits together.*
 
 
 > **Quick answer:** Filing your Dutch employee tax return for the first time? My step-by-step guide for 2026 expats covering Box 1, 30% ruling, deductions, and refund timing.

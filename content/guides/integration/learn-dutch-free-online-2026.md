@@ -233,7 +233,7 @@ Real Dutch TV is genuinely hard for beginners. Even with subtitles, the speed an
 
 ### Who It's Best For
 
-B1+ learners who want to improve listening comprehension and learn natural spoken Dutch. Start with children's programs or NOS Journaal, then gradually move to talk shows and series. This is also a brilliant way to learn about [Dutch culture](/guides/integration/dutch-culture-guide-expats-2026/) and pick up the kind of language you need to actually [make friends with Dutch people](/guides/integration/making-dutch-friends-guide-2026/).
+B1+ learners who want to improve listening comprehension and learn natural spoken Dutch. Start with children's programs or NOS Journaal, then gradually move to talk shows and series. This is also a brilliant way to learn about [Dutch culture](/guides/integration/dutch-culture-humor-directness-explained-2026/) and pick up the kind of language you need to actually [make friends with Dutch people](/guides/integration/making-friends-netherlands-expats-2026/).
 
 
 ## 8. Dutch Online by TU Delft (Coursera) — University-Quality for Free
@@ -468,7 +468,7 @@ If you live with Dutch speakers (or other learners), agree on one hour per day w
 
 This is the tip that expats who successfully learned Dutch always mention, and the one that expats who gave up always missed. You will sound like a child. You will make embarrassing mistakes. You will struggle to express thoughts that are effortless in English. This is normal, temporary, and the only path to fluency. The expats who learn Dutch are the ones who tolerate being uncomfortable.
 
-For more on integrating into Dutch life while you learn the language, see my [guide to making Dutch friends](/guides/integration/making-dutch-friends-guide-2026/) and the [Dutch culture guide for expats](/guides/integration/dutch-culture-guide-expats-2026/).
+For more on integrating into Dutch life while you learn the language, see my [guide to making Dutch friends](/guides/integration/making-friends-netherlands-expats-2026/) and the [Dutch culture guide for expats](/guides/integration/dutch-culture-humor-directness-explained-2026/).
 
 
 ---

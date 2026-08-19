@@ -1,8 +1,8 @@
 ---
 title: How to Open a Dutch Bank Account as an Expat (2026 Guide)
 date: 2026-03-07 10:00:00+01:00
-lastmod: 2026-04-23 10:00:00+01:00
-description: Open a Dutch bank account without a BSN — here is how. Options for expats before and after BSN registration, including Wise, bunq, ING, and ABN AMRO.
+lastmod: 2026-08-19 12:00:00+02:00
+description: How to open a Dutch bank account step by step — with or without a BSN, as a non-resident, from abroad, or as a business. Wise, bunq, ING and ABN AMRO compared.
 categories:
 - finance
 tags:
@@ -26,6 +26,10 @@ keywords:
 - open bank account without bsn
 - dutch bank account no bsn
 - nederlandse bankrekening openen als expat
+- open bank account netherlands non resident
+- opening a business bank account in the netherlands
+- open netherlands business bank account from overseas
+- dutch business bank account non resident
 affiliate: true
 author: Sarah van den Berg
 author_bio: Expat coach and relocation specialist. Half Dutch, half British, living in the Netherlands for over 10 years.
@@ -61,8 +65,18 @@ faq:
   a: Yes, for most employers. Wise gives you a European IBAN (beginning with BE for the Belgian IBAN they currently issue), and Dutch employers are generally required to accept any valid EU IBAN for salary payments. A small number of employers — particularly in the public sector or older payroll systems — may insist on a Dutch NL IBAN specifically. If you are unsure, check with HR before your first pay date. If they require an NL IBAN, you will need to open a bunq or traditional bank account.
 - q: Are Dutch savings account interest payments taxable?
   a: In the Netherlands, savings interest is not taxed directly as income. Instead, it falls under Box 3 (sparen en beleggen — savings and investments) in your annual tax return. The Dutch tax authority applies a deemed return on your total savings and investment assets above a threshold (approximately €57,000 for individuals in 2026), and you pay 36% tax on that deemed return — not on the actual interest received. In practice, if your total savings are modest, you may owe nothing. Consult a Dutch tax advisor (belastingadviseur) if you hold significant savings.
+- q: How do I open a Dutch bank account?
+  a: 'In four steps: (1) open a digital account with a European IBAN — Wise works from anywhere and needs no BSN; (2) register at your gemeente and receive your BSN; (3) apply online at ING, ABN AMRO or Rabobank with your passport, BSN and gemeente registration document (3-10 business days); (4) activate iDEAL and your direct debits in the bank app. Traditional Dutch banks cannot be opened before you have a BSN and a registered Dutch address.'
+- q: Can a non-resident open a bank account in the Netherlands?
+  a: 'Not at a traditional Dutch bank. ING, ABN AMRO and Rabobank all require registration in the Dutch population register (BRP), so a Dutch address is mandatory. Non-residents realistically use an EU e-money account instead: Wise gives you a European IBAN and euro payments without a Dutch address or BSN, and Revolut works similarly. N26 and bunq require an EU/EEA residential address, which may be in another EU country.'
+- q: How do I open a Netherlands business bank account from overseas?
+  a: Dutch banks will normally only take a business application once the company is registered with the KVK (Chamber of Commerce) and has a Dutch business address, and they apply extra checks on the UBO structure under the Dutch anti-money-laundering act (Wwft). Directors living outside the Netherlands are frequently asked to appear in person, and applications can take several weeks. Many overseas founders therefore start with a Wise Business account — eligibility depends on the country where the business is registered rather than where the director lives, and the application is fully online — and then apply to a Dutch bank once the company has Dutch substance.
+- q: Can I open a business bank account in the Netherlands as a foreigner living here?
+  a: 'Yes. If you are registered in the Netherlands and have a BSN plus a KVK number, ING, ABN AMRO, Rabobank, bunq and Knab all accept business (zakelijke) accounts from foreign nationals. You need your KVK extract (uittreksel), passport, BSN and business address. Processing is typically a few days to a few weeks, longer for BVs with multiple shareholders because each UBO is verified.'
 schema_type: Article
 ---
+
+**Direct answer:** To open a Dutch bank account you need a passport, a BSN and proof of a registered Dutch address — in that order. Register at your gemeente first, then apply online at ING, ABN AMRO or Rabobank (3–10 business days, roughly €3.60–€4.30/month). Because the BSN takes 1–3 weeks, almost every expat opens a <a href="https://go.expatnetherlandshub.com/wise?ref=/guides/finance/how-to-open-bank-account-netherlands-2026/" target="_blank" rel="nofollow noopener sponsored">Wise</a> account first: a European IBAN in 10–30 minutes, no BSN, no Dutch address, and it can be opened from abroad. Non-residents and overseas business owners cannot use a traditional Dutch bank at all — jump to [non-residents](#dutch-bank-accounts-for-non-residents) or [business accounts](#opening-a-dutch-business-bank-account-including-from-overseas) below.
 
 When I arrived in the Netherlands, I had exactly one financial problem I hadn't anticipated: iDEAL.
 
@@ -172,7 +186,7 @@ Once you have your BSN, you can apply for an account with ING, ABN AMRO, or Rabo
 
 ### ING
 
-ING is the largest retail bank in the Netherlands and often the first recommendation for expats. Their app is good, the English support is decent, and the basic account (Betaalrekening) costs approximately €2.45/month.
+ING is the largest retail bank in the Netherlands and often the first recommendation for expats. Their app is good, the English support is decent, and the basic account (OranjePakket) costs €4.00/month since 1 January 2026.
 
 **How to open an ING account:**
 
@@ -186,7 +200,7 @@ ING may ask for an employment contract if you do not yet have a Dutch income. If
 
 ### ABN AMRO
 
-ABN AMRO's basic account is called the Betaalrekening and costs around €2.45/month. Their onboarding for expats is generally considered smoother than ING's, particularly for people on expat packages or with non-Dutch employment situations.
+ABN AMRO's basic account is called the Basisbetaalpakket and costs €4.30/month as of 1 January 2026. Their onboarding for expats is generally considered smoother than ING's, particularly for people on expat packages or with non-Dutch employment situations.
 
 **How to open an ABN AMRO account:**
 
@@ -260,7 +274,7 @@ The bunq Easy Money plan starts at approximately €2.99/month. If you need a Du
 
 ### Option 3: Revolut
 
-<a href="https://go.expatnetherlandshub.com/revolut" target="_blank" rel="noopener nofollow">Revolut</a> also allows sign-up without a BSN. Like Wise, Revolut issues a European IBAN (Lithuanian for EU accounts). It is free to open at the standard tier, though the most useful features — higher ATM limits, multi-currency accounts, better exchange rates — are on paid plans (€2.99–€13.99/month).
+Revolut also allows sign-up without a BSN. Like Wise, Revolut issues a European IBAN (Lithuanian for EU accounts). It is free to open at the standard tier, though the most useful features — higher ATM limits, multi-currency accounts, better exchange rates — are on paid plans (€2.99–€13.99/month).
 
 Revolut is useful if you already have a Revolut account from your home country, as you can simply activate the EUR account details and start using it immediately.
 
@@ -373,6 +387,8 @@ For a more detailed comparison of banking options for students and young expats,
 
 ## Dutch Bank Accounts for Non-Residents
 
+**Short answer:** a non-resident cannot open an account at ING, ABN AMRO or Rabobank — they all require registration in the Dutch population register. What works instead is an EU account with a European IBAN, opened online: Wise for most people, Revolut as an alternative.
+
 This is one of the harder banking questions for the Netherlands. If you do not live in the Netherlands — either because you have not yet moved, you are a frequent visitor, or you are a foreign business owner with Dutch clients — your options are more limited than for residents.
 
 ### What "non-resident" means in Dutch banking
@@ -395,7 +411,7 @@ Wise does not require a Dutch address, a Dutch BSN, or any Dutch documentation. 
 
 ### Revolut for non-residents
 
-<a href="https://go.expatnetherlandshub.com/revolut" target="_blank" rel="noopener nofollow">Revolut</a> is similarly accessible to non-residents and works well for spending in the Netherlands, paying Dutch invoices, and holding EUR. Its business account option is useful if you are a non-resident running a business with Dutch activity.
+Revolut is similarly accessible to non-residents and works well for spending in the Netherlands, paying Dutch invoices, and holding EUR. Its business account option is useful if you are a non-resident running a business with Dutch activity.
 
 ### N26 and bunq limitations for non-residents
 
@@ -404,6 +420,50 @@ Both N26 and bunq require an EU/EEA residential address. If you do not have a re
 ### Non-residents running Dutch businesses
 
 If you are a non-resident operating a registered Dutch business (eenmanszaak, BV, or similar), you will likely need a Dutch business bank account eventually. This is a specialist area — see the [non-resident business bank account guide for the Netherlands](/guides/finance/non-resident-business-bank-account-netherlands-2026/) for the full picture, including which banks accept non-resident business clients.
+
+---
+
+## Opening a Dutch Business Bank Account (Including from Overseas)
+
+**Short answer:** a Dutch bank will only open a business account (zakelijke rekening) once your company is registered with the KVK — the Dutch Chamber of Commerce — and has a Dutch business address. If you are living abroad and the company has no Dutch presence yet, expect extra checks and a realistic chance of rejection; a <a href="https://go.expatnetherlandshub.com/wise?ref=/guides/finance/how-to-open-bank-account-netherlands-2026/" target="_blank" rel="nofollow noopener sponsored">Wise Business</a> account is the usual interim solution.
+
+### If you live in the Netherlands (freelancer, eenmanszaak, or BV)
+
+This is the straightforward case. Once you have a BSN and a KVK number, all the major banks accept business applications from foreign nationals.
+
+What you need:
+
+- KVK extract (uittreksel Handelsregister), usually no older than a few months
+- Valid passport or EU ID card for every director and every ultimate beneficial owner (UBO)
+- Your BSN and your Dutch business address
+- For a BV: the notarial deed of incorporation and the shareholder structure
+
+Fees for a basic business account are higher than for a private account — typically in the €5–€15 per month range depending on the bank and the number of transactions. ING, ABN AMRO, Rabobank, bunq and Knab all offer business accounts; bunq and Knab are the fastest to open because onboarding is entirely in-app.
+
+Our dedicated guide covers the comparison in detail: [Dutch business bank account for zzp'ers and freelancers](/guides/finance/dutch-business-bank-account-zzp-2026/).
+
+### If you are opening from overseas as a non-resident
+
+This is genuinely harder, and it is worth knowing why before you start.
+
+Dutch banks apply the Wet ter voorkoming van witwassen en financieren van terrorisme (Wwft) — the Dutch anti-money-laundering act. For a company whose directors live outside the Netherlands, the bank has to verify identities, the UBO structure and the economic purpose of the account remotely, and many banks simply prefer not to. In practice that means:
+
+- **A KVK registration comes first.** You cannot apply for a Dutch business account for a company that does not yet exist in the Handelsregister. Registering a BV requires a Dutch notary; an eenmanszaak requires a Dutch address.
+- **Physical presence is often requested.** Several banks ask at least one director to complete identification in the Netherlands, in person, before approving the account.
+- **Timelines are weeks, not days.** Business onboarding at ING, ABN AMRO and Rabobank is commonly quoted at two to six weeks, and non-resident files sit at the slow end of that range.
+- **Substance matters.** A Dutch address, Dutch customers or suppliers, and a plausible reason for needing a Dutch IBAN all make approval more likely.
+
+### The practical route most overseas founders take
+
+<a href="https://go.expatnetherlandshub.com/wise?ref=/guides/finance/how-to-open-bank-account-netherlands-2026/" target="_blank" rel="nofollow noopener sponsored">Wise Business</a> is the account most non-resident founders start with. Eligibility is based on the country where your business is registered rather than where you personally live, the application is completed entirely online, and you get euro account details you can invoice Dutch clients with. Wise charges a one-time setup fee for business accounts (check the current amount for your region on their site — it is in the £50/€50 range) and there is no monthly fee. Sole traders, limited companies and partnerships are all eligible; some industries, including gambling, crypto trading and pharmaceuticals, are excluded.
+
+<a href="https://go.expatnetherlandshub.com/wise?ref=/guides/finance/how-to-open-bank-account-netherlands-2026/" class="cta-affiliate" rel="nofollow noopener sponsored" target="_blank">Open a Wise Business Account Online →</a>
+
+Revolut Business is a comparable alternative, also opened remotely, with a tiered monthly subscription.
+
+What neither can do: act as a Dutch NL IBAN for the small number of Dutch counterparties (mostly government bodies and some payroll systems) that insist on one, or provide business credit. When you reach that point, apply to a Dutch bank with your KVK extract in hand.
+
+For the full picture on which banks accept non-resident business clients, see the [non-resident business bank account guide](/guides/finance/non-resident-business-bank-account-netherlands-2026/).
 
 ---
 
@@ -429,9 +489,9 @@ This depends on your situation:
 
 **EU citizen, want a full Dutch bank from day one:** Bunq allows remote sign-up for EU citizens and functions as a proper Dutch bank account. More expensive, but fully Dutch.
 
-**Have your BSN, want a standard Dutch bank:** ING Betaalrekening costs approximately €2.45/month. Good app, English support. Apply online.
+**Have your BSN, want a standard Dutch bank:** ING OranjePakket costs €4.00/month. Good app, English support. Apply online.
 
-**Have your BSN, want English-first experience:** ABN AMRO tends to have a slightly more expat-friendly onboarding. Also approximately €2.45/month.
+**Have your BSN, want English-first experience:** ABN AMRO tends to have a slightly more expat-friendly onboarding. The Basisbetaalpakket costs €4.30/month.
 
 **International student:** ING Student Account once you have your BSN, with Wise covering you in the meantime.
 
@@ -458,6 +518,12 @@ No. The Netherlands uses IBAN and BIC/SWIFT codes. Dutch IBANs start with "NL" f
 
 **Can I receive my salary in a Wise account in the Netherlands?**
 Yes, for most employers. Wise gives you a European IBAN and Dutch employers are generally required to accept any valid EU IBAN for salary payments. A small number of employers — particularly in the public sector — may require a Dutch NL IBAN specifically. Confirm with HR before your first pay date if you are unsure.
+
+**Can a non-resident open a bank account in the Netherlands?**
+Not at ING, ABN AMRO or Rabobank — all three require registration in the Dutch population register (BRP), which means a Dutch address. Non-residents use an EU e-money account instead: Wise gives you a European IBAN with no Dutch address or BSN, and Revolut works the same way. N26 and bunq need an EU/EEA residential address, so they only help if you live elsewhere in the EU.
+
+**How do I open a Netherlands business bank account from overseas?**
+Register the company with the KVK first — no Dutch bank will process a business application without a KVK number and a Dutch business address. After that, expect enhanced due diligence under the Wwft, a possible request for a director to identify in person in the Netherlands, and a timeline of several weeks. Most overseas founders open a Wise Business account in the meantime, since eligibility follows the country of business registration rather than the director's residence.
 
 **Are Dutch savings account interest payments taxable?**
 Savings interest in the Netherlands is not taxed as direct income. It falls under Box 3 (savings and investments) in your annual Dutch tax return. The tax authority applies a deemed return on assets above approximately €57,000 (2026 figure) and you pay 36% on that deemed return, not on actual interest received. For modest savings, the tax impact is often zero. A Dutch tax advisor can clarify your specific situation.

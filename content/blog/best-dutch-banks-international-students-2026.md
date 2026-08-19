@@ -45,7 +45,7 @@ This guide ranks the actual bank options, what each does well for students speci
 
 *Disclosure: this article contains affiliate links. If you sign up through them I may earn a small commission at no extra cost to you. All recommendations come from my own experience and what I've watched dozens of student expats do.*
 
-💡 *For the broader banking landscape see my [best bank account for expats](/blog/best-bank-account-expats-netherlands-2026/) pillar. For neobank specifics see [N26 vs Bunq vs Revolut](/blog/n26-vs-bunq-vs-revolut-expats-netherlands-2026/), [ING vs Rabobank](/blog/ing-vs-rabobank-expats-2026/), and the [BSN application guide](/blog/expat-bsn-application-guide-2026/).*
+💡 *For the broader banking landscape see my [best bank account for expats](/guides/finance/best-bank-account-expats-netherlands-2026/) pillar. For neobank specifics see [N26 vs Bunq vs Revolut](/blog/n26-vs-bunq-vs-revolut-expats-netherlands-2026/), [ING vs Rabobank](/blog/ing-vs-rabobank-expats-2026/), and the [BSN application guide](/blog/expat-bsn-application-guide-2026/).*
 
 
 > **Quick answer:** Which Dutch bank should an international student open in 2026? My ranked comparison of fees, IBAN issues, BSN-less options, and the pick I'd make today.
@@ -236,7 +236,7 @@ If I had to pick exactly one bank and only one, it would be **ABN AMRO Student**
 
 Don't overthink this. Open <a href="https://go.expatnetherlandshub.com/bunq?ref=/blog/best-dutch-banks-international-students-2026/" target="_blank" rel="nofollow sponsored noopener">Bunq</a> the day you land, open <a href="https://go.expatnetherlandshub.com/revolut?ref=/blog/best-dutch-banks-international-students-2026/" target="_blank" rel="nofollow sponsored noopener">Revolut</a> the day after, open <a href="https://go.expatnetherlandshub.com/wise?ref=/blog/best-dutch-banks-international-students-2026/" target="_blank" rel="nofollow sponsored noopener">Wise</a> when your parents ask how to send money, and open ABN AMRO Student the moment your BSN arrives. That's the whole playbook.
 
-For broader expat banking context see my [bank account pillar](/blog/best-bank-account-expats-netherlands-2026/), [N26 vs Bunq vs Revolut comparison](/blog/n26-vs-bunq-vs-revolut-expats-netherlands-2026/), [ING vs Rabobank for expats](/blog/ing-vs-rabobank-expats-2026/), and the [BSN application guide](/blog/expat-bsn-application-guide-2026/) for the BSN sequence that unlocks everything else.
+For broader expat banking context see my [bank account pillar](/guides/finance/best-bank-account-expats-netherlands-2026/), [N26 vs Bunq vs Revolut comparison](/blog/n26-vs-bunq-vs-revolut-expats-netherlands-2026/), [ING vs Rabobank for expats](/blog/ing-vs-rabobank-expats-2026/), and the [BSN application guide](/blog/expat-bsn-application-guide-2026/) for the BSN sequence that unlocks everything else.
 
 ---
 

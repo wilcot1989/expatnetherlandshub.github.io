@@ -1,7 +1,7 @@
 ---
 title: "Getting a Dutch Bank Account: Step-by-Step 2026"
 date: 2026-08-10
-lastmod: 2026-08-10T08:00:00+01:00
+lastmod: 2026-08-19 12:00:00+02:00
 author: "Sarah van den Berg"
 author_bio: "Expat coach and writer at ExpatNetherlandsHub.com"
 description: "I walked through the Dutch banking process from day one — no BSN, no address proof — to a full NL IBAN in 3 weeks. Here's the exact step-by-step."
@@ -79,7 +79,7 @@ Here's the mental model that makes everything clear:
 |-------|---------|---------|-----------|------|
 | 1 — Before you arrive | Nothing. Just a passport. | Wise | BE (Belgian) | Free to open, fees per transfer |
 | 2 — After Dutch address | Rental contract / BRP registration | Bunq | NL (Dutch) | From free (Easy Bank) |
-| 3 — After BSN | Gemeente registration complete | ING / ABN AMRO / Rabobank | NL (Dutch) | From €0–€3/month |
+| 3 — After BSN | Gemeente registration complete | ING / ABN AMRO / Rabobank | NL (Dutch) | About €3.60–€4.30/month |
 
 You don't have to go through all three. Plenty of expats stop at Bunq and never bother with ING. Others use Wise permanently for international transfers and Bunq as their Dutch daily driver. The point is that each stage is independent — you don't need stage 3 to do stage 2, and you don't need stage 2 to do stage 1.
 
@@ -119,7 +119,7 @@ The Belgian IBAN works fine for most purposes — online shopping, European bank
 
 The physical card takes longer, but you can start making online payments and bank transfers immediately after verification.
 
-**Cost reality check**: Wise is free to open and hold funds in. Currency conversion uses the mid-market rate plus a small fee (typically 0.35–1.5% depending on currency pair). Sending euros to euros is essentially free. ATM withdrawals are free up to €200/month, then 1.75% above that. For a [detailed comparison of Wise vs Revolut for expats](/blog/wise-vs-revolut-for-expats-2026/), I've done a full breakdown.
+**Cost reality check**: Wise is free to open and hold funds in. Currency conversion uses the mid-market rate plus a small fee (typically 0.35–1.5% depending on currency pair). Sending euros to euros is essentially free. ATM withdrawals are free up to €200/month, then 1.75% above that. For a [detailed comparison of Wise vs Revolut for expats](/guides/finance/wise-vs-revolut-netherlands-2026/), I've done a full breakdown.
 
 ---
 
@@ -221,9 +221,10 @@ Once you have a BSN, you can apply for DigiD — the Dutch government digital id
 4. Account is created same day; card arrives by post in 5–7 days
 
 **ING costs:**  
-- Standard Oranje Betaalrekening: free for the first year, then €0–€2.95/month depending on age and conditions
-- Students under 27: free
-- Seniors 60+: free
+- OranjePakket (standard current account): €4.00/month since the price increase on 1 January 2026
+- Extra package (travel insurance and extras included): €7.00/month
+- Credit card: €2.00/month on top of the package
+- Students: ING's student account is still free — check the current age and enrolment conditions on ing.nl
 
 For a detailed comparison of ING vs the other traditional Dutch banks, see [ING vs Rabobank for expats](/blog/ing-vs-rabobank-expats-2026/).
 

@@ -247,7 +247,7 @@ I have written about the broader [loneliness experience for expats in NL](/blog/
 
 ## Banking and Finance
 
-The banking decision is the same in both cities — it does not really vary by location. My [best banking for expats](/blog/best-banking-expats-netherlands-2026/) and [Wise vs Revolut](/blog/wise-vs-revolut-expats-2026/) coverage applies equally.
+The banking decision is the same in both cities — it does not really vary by location. My [best banking for expats](/blog/best-banking-expats-netherlands-2026/) and [Wise vs Revolut](/guides/finance/wise-vs-revolut-netherlands-2026/) coverage applies equally.
 
 What differs is the local branch density: The Hague has every major Dutch bank branch within easy reach. Den Bosch has the same coverage but fewer English-speaking staff at the counter.
 

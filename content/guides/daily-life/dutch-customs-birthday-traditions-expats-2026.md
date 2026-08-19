@@ -192,7 +192,7 @@ Other significant birthdays with special status in Dutch culture:
 
 Name days (**naamdagen**) exist in the Dutch Catholic calendar. Each day of the year is associated with a saint's name, and people with that name traditionally mark the day.
 
-However: **name days are largely irrelevant in modern Dutch life.** Unlike Poland, Hungary, or Greece where name days are celebrated similarly to birthdays, in the Netherlands the name day is barely acknowledged by most people. The main Dutch children's celebration is [Sinterklaas](/guides/daily-life/sinterklaas-guide-expats-2026/) in December — a very different occasion from a birthday. You may see it printed in diaries or mentioned by older Catholic families, but you will not be expected to know or celebrate name days as part of Dutch social life.
+However: **name days are largely irrelevant in modern Dutch life.** Unlike Poland, Hungary, or Greece where name days are celebrated similarly to birthdays, in the Netherlands the name day is barely acknowledged by most people. The main Dutch children's celebration is [Sinterklaas](/guides/integration/sinterklaas-guide-expats-2026/) in December — a very different occasion from a birthday. You may see it printed in diaries or mentioned by older Catholic families, but you will not be expected to know or celebrate name days as part of Dutch social life.
 
 If you come from a culture where name days are significant, your Dutch colleagues are unlikely to know or remember yours. Do not be offended — it is simply not part of Dutch social currency.
 
@@ -236,7 +236,7 @@ Dutch birthday customs are not isolated quirks — they are expressions of the b
 
 Understanding Dutch birthdays is a window into Dutch social values more broadly. For how those values show up in work settings, see our [Dutch work culture guide](/guides/work/dutch-work-culture-guide-expats-2026/).
 
-Birthdays also connect to the Dutch calendar of celebrations. Beyond personal birthdays, the Netherlands has distinctive public celebrations worth knowing: [King's Day](/guides/daily-life/kings-day-guide-expats-2026/), [Sinterklaas](/guides/daily-life/sinterklaas-guide-expats-2026/), and the Dutch [holidays and traditions guide](/guides/daily-life/dutch-holidays-traditions-expat-guide-2026/) give the full seasonal picture.
+Birthdays also connect to the Dutch calendar of celebrations. Beyond personal birthdays, the Netherlands has distinctive public celebrations worth knowing: [King's Day](/guides/daily-life/kings-day-guide-expats-2026/), [Sinterklaas](/guides/integration/sinterklaas-guide-expats-2026/), and the Dutch [holidays and traditions guide](/guides/daily-life/dutch-holidays-traditions-expat-guide-2026/) give the full seasonal picture.
 
 For the social side of building relationships in the Netherlands — including using birthday parties as opportunities — see our [making friends in the Netherlands guide](/guides/integration/making-friends-netherlands-expats-2026/).
 

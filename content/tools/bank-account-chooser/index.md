@@ -57,7 +57,7 @@ schema_type: Article
 "name": "How much does a Dutch bank account cost per month?",
 "acceptedAnswer": {
 "@type": "Answer",
-"text": "Basic accounts cost between €0 and €3.90 per month. ING has a free basic account. Rabobank starts at €1.70, ABN AMRO at €1.90. Digital banks bunq starts at €2.99, N26 is free for the standard tier. Wise has no monthly fee."
+"text": "Since the price increases of 1 January 2026, the traditional banks charge roughly €3.60 to €4.30 per month: ING OranjePakket €4.00, ABN AMRO Basisbetaalpakket €4.30, Rabobank from around €3.60. Digital banks: bunq starts at €2.99, N26 is free for the standard tier. Wise has no monthly fee."
 }
 },
 {
@@ -715,7 +715,7 @@ Filter banks
 
 <h3>Traditional Banks (ING, ABN AMRO, Rabobank)</h3>
 <p>Traditional banks offer the full Dutch banking experience: physical branches, ATMs across the country, mortgage services, and local customer support. ING has the largest ATM network in the Netherlands with over 3,000 machines. ABN AMRO is popular with expats because many branches have English-speaking staff.</p>
-<p>The downside: monthly fees (typically €1.70–€3.90), BSN required, and slower account opening (1–5 business days). International transfers are expensive: €6–€7 or more for non-SEPA transactions.</p>
+<p>The downside: monthly fees (typically €3.60–€4.30), BSN required, and slower account opening (1–5 business days). International transfers are expensive: €6–€7 or more for non-SEPA transactions.</p>
 
 <h3>Digital Banks (bunq, N26, Wise)</h3>
 <p>Digital banks work entirely through apps. No branches, no in-person service, but also no paperwork queues. They're often faster, cheaper for international use, and fully English-first.</p>
@@ -727,9 +727,9 @@ Filter banks
 <tr><th>Bank</th><th>Basic plan</th><th>Mid-tier</th><th>BSN required</th></tr>
 </thead>
 <tbody>
-<tr><td>ING</td><td>€0</td><td>€1.95</td><td>Yes</td></tr>
-<tr><td>ABN AMRO</td><td>€1.90</td><td>€3.90</td><td>Yes</td></tr>
-<tr><td>Rabobank</td><td>€1.70</td><td>€3.50</td><td>Yes</td></tr>
+<tr><td>ING</td><td>€4.00 (OranjePakket)</td><td>€7.00 (Extra)</td><td>Yes</td></tr>
+<tr><td>ABN AMRO</td><td>€4.30 (Basisbetaalpakket)</td><td>—</td><td>Yes</td></tr>
+<tr><td>Rabobank</td><td>From ±€3.60</td><td>—</td><td>Yes</td></tr>
 <tr><td>bunq</td><td>€2.99</td><td>€8.99</td><td>No</td></tr>
 <tr><td>Wise</td><td>€0</td><td>—</td><td>No</td></tr>
 <tr><td>N26</td><td>€0</td><td>€4.90</td><td>No</td></tr>
@@ -747,7 +747,7 @@ Filter banks
 <p>Based on common expat experiences, here's the approach we recommend:</p>
 <ol>
 <li><strong>Before you arrive:</strong> Open a free Wise account or N26 Standard. Use it for your first weeks and to receive your first Dutch salary if needed.</li>
-<li><strong>After getting your BSN:</strong> Open a Dutch bank account. ING is the best all-round choice for most expats (free, large ATM network, full English app). ABN AMRO is better if you want in-person English support.</li>
+<li><strong>After getting your BSN:</strong> Open a Dutch bank account. ING is the best all-round choice for most expats (€4.00/month, large ATM network, full English app). ABN AMRO is better if you want in-person English support.</li>
 <li><strong>Keep Wise for international use:</strong> Even after opening a Dutch bank account, Wise is worth keeping for any international transfers or travel outside the eurozone.</li>
 <li><strong>If you need business banking:</strong> Most Dutch banks offer business accounts. bunq's business tiers are popular with freelancers and ZZP'ers (self-employed).</li>
 </ol>
@@ -794,7 +794,7 @@ How much does a Dutch bank account cost per month?
 <span class="faq-icon">+</span>
 </button>
 <div class="faq-answer">
-<p>Basic accounts cost between €0 and €3.90 per month. ING has a free basic account. Rabobank starts at €1.70, ABN AMRO at €1.90. Digital banks: bunq starts at €2.99, N26 is free for the standard tier. Wise has no monthly fee.</p>
+<p>Since the price increases of 1 January 2026, the traditional banks charge roughly €3.60 to €4.30 per month: ING OranjePakket €4.00, ABN AMRO Basisbetaalpakket €4.30, Rabobank from around €3.60. Digital banks: bunq starts at €2.99, N26 is free for the standard tier. Wise has no monthly fee.</p>
 </div>
 </div>
 
@@ -838,8 +838,8 @@ var banks = [
 {
 name: "ING",
 type: "traditional",
-monthlyFee: "€0 (basic) / €1.95 (Plus)",
-lowestFee: 0,
+monthlyFee: "€4.00 (OranjePakket) / €7.00 (Extra)",
+lowestFee: 4.0,
 englishSupport: true,
 appRating: "4.5/5",
 internationalTransfers: "SEPA free, non-SEPA €7+",
@@ -857,8 +857,8 @@ score: 0
 {
 name: "ABN AMRO",
 type: "traditional",
-monthlyFee: "€1.90 (basic) / €3.90 (Plus)",
-lowestFee: 1.9,
+monthlyFee: "€4.30 (Basisbetaalpakket)",
+lowestFee: 4.3,
 englishSupport: true,
 appRating: "4.4/5",
 internationalTransfers: "SEPA free, non-SEPA €6+",
@@ -876,8 +876,8 @@ score: 0
 {
 name: "Rabobank",
 type: "traditional",
-monthlyFee: "€1.70 (basic) / €3.50 (Plus)",
-lowestFee: 1.7,
+monthlyFee: "From ±€3.60 (basic package)",
+lowestFee: 3.6,
 englishSupport: "partial",
 appRating: "4.3/5",
 internationalTransfers: "SEPA free, non-SEPA €7+",

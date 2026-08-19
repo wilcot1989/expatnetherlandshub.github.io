@@ -204,7 +204,7 @@ A Wise card charges:
 
 For a travel spend of €5,000 in foreign currency, the difference is around €100 per year. Not enormous, but meaningful. This is why most savvy expats I know carry a Dutch credit card for chargeback protection on big purchases and a Wise card for everything else.
 
-I covered the broader currency and transfer landscape in [Wise vs Revolut for expats in the Netherlands](/blog/wise-vs-revolut-expats-2026/) and the wider expat banking comparison in [best banking for expats in the Netherlands 2026](/blog/best-banking-expats-netherlands-2026/).
+I covered the broader currency and transfer landscape in [Wise vs Revolut for expats in the Netherlands](/guides/finance/wise-vs-revolut-netherlands-2026/) and the wider expat banking comparison in [best banking for expats in the Netherlands 2026](/blog/best-banking-expats-netherlands-2026/).
 
 ---
 
@@ -218,7 +218,7 @@ Common gotchas:
 - **Medical excess**. Most cards have a €100 to €250 excess on medical claims.
 - **Pre-existing conditions**. Almost universally excluded unless declared in advance.
 
-For long-term expats, dedicated travel insurance is usually better. I covered the standalone options in [best expat travel insurance Netherlands 2026](/blog/best-expat-travel-insurance-netherlands-2026/) and the SafetyWing-style nomad insurance in [SafetyWing review for expats in the Netherlands](/blog/safetywing-vs-cigna-expats-netherlands-2026/).
+For long-term expats, dedicated travel insurance is usually better. I covered the standalone options in [best expat travel insurance Netherlands 2026](/blog/travel-insurance-vs-health-insurance-netherlands-2026/) and the SafetyWing-style nomad insurance in [SafetyWing review for expats in the Netherlands](/guides/health/safetywing-vs-cigna-expat-insurance-2026/).
 
 ---
 

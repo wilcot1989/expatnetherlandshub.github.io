@@ -126,7 +126,7 @@ If your employer offers a pension scheme — and most medium and large Dutch emp
 
 Dutch pension contributions are typically split between employer and employee. The employee share commonly ranges from 4% to 8% of your pensionable salary (pensioengrondslag), which is usually your bruto loon minus a franchise (a lower threshold that corresponds roughly to the state pension). The employer pays a larger share on top.
 
-Your pension accrual appears separately on your annual pension statement (pensioenoverzicht), not on your pay slip. But the monthly premium deduction is real money leaving your salary — and it is building up future income, not disappearing. The [Dutch pension system guide](/guides/finance/dutch-pension-system-expats-guide-2026/) covers what happens to your pension if you leave the Netherlands before retirement.
+Your pension accrual appears separately on your annual pension statement (pensioenoverzicht), not on your pay slip. But the monthly premium deduction is real money leaving your salary — and it is building up future income, not disappearing. The [Dutch pension system guide](/guides/finance/dutch-pension-system-expats-2026/) covers what happens to your pension if you leave the Netherlands before retirement.
 
 ### WW-Premie — Unemployment Insurance Premium
 

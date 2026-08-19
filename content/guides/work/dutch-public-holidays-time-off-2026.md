@@ -78,7 +78,7 @@ Easter Monday. This is the official public holiday. Dutch Easter involves a lot 
 
 ### Koningsdag — 27 April 2026 (Monday)
 
-King's Day. One of the most recognisable days in the Dutch calendar — the entire country turns orange. Amsterdam becomes a floating flea market. If you have not yet experienced Koningsdag, [read the full guide](/guides/daily-life/kings-day-guide-exprats-2026/) before you go. Everyone is off. Everything is orange. It is genuinely one of the best public holidays in Europe.
+King's Day. One of the most recognisable days in the Dutch calendar — the entire country turns orange. Amsterdam becomes a floating flea market. If you have not yet experienced Koningsdag, [read the full guide](/guides/daily-life/kings-day-guide-expats-2026/) before you go. Everyone is off. Everything is orange. It is genuinely one of the best public holidays in Europe.
 
 Koningsdag normally falls on 27 April (King Willem-Alexander's birthday), but when that falls on a Sunday, it moves to 26 April. In 2026, 27 April is a Monday, so you get a genuine long weekend.
 

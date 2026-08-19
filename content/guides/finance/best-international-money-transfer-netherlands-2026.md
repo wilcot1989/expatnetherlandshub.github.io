@@ -484,7 +484,7 @@ Property transactions involve the largest transfers most expats will ever make. 
 
 For a Dutch property purchase, the transfer typically goes from your home-country account to a Dutch notary's account in EUR. If you are transferring from a non-EUR account, OFX and a dedicated FX broker (Global Reach, Moneycorp) are worth comparing. The forward contract feature — locking in an exchange rate weeks or months before the transfer — is genuinely valuable when a €10,000 rate swing is possible before your notary appointment.
 
-For the property buying process itself, see the [buying property in the Netherlands guide](/guides/housing/buying-property-netherlands-expats-2026/).
+For the property buying process itself, see the [buying property in the Netherlands guide](/guides/finance/buying-house-netherlands-expat-guide-2026/).
 
 ### Repatriating Money When Leaving the Netherlands
 

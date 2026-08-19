@@ -98,7 +98,7 @@ The key advantage is how Wise handles currency. You hold euros in a Wise account
 
 **Who Wise is best for:** Expats in their first 3–12 months who need a card that works immediately, handles international transfers cheaply, and doesn't require any Dutch financial history. Also good as a permanent secondary card for anyone who sends money internationally.
 
-For a detailed head-to-head of these two fintech giants, read my [Wise vs Revolut for expats comparison](/blog/wise-vs-revolut-for-expats-2026/).
+For a detailed head-to-head of these two fintech giants, read my [Wise vs Revolut for expats comparison](/guides/finance/wise-vs-revolut-netherlands-2026/).
 
 ---
 
@@ -312,7 +312,7 @@ Ana, my friend from the opening story, eventually got her ABN AMRO credit card a
 
 *Related reading:*
 - [Best banking options for expats in the Netherlands 2026](/blog/best-banking-expats-netherlands-2026/)
-- [Wise vs Revolut for expats — full comparison](/blog/wise-vs-revolut-for-expats-2026/)
+- [Wise vs Revolut for expats — full comparison](/guides/finance/wise-vs-revolut-netherlands-2026/)
 - [Bunq vs Revolut for expats 2026](/blog/bunq-vs-revolut-for-expats-2026/)
 - [N26 vs Bunq for expats Netherlands](/blog/n26-vs-bunq-for-expats-2026/)
 - [How to open a Dutch bank account without BSN](/blog/how-to-open-dutch-bank-account-without-bsn-2026/)

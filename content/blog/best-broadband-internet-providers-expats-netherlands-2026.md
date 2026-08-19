@@ -241,7 +241,7 @@ If you receive client invoices in multiple currencies (e.g., as a [freelance exp
 
 For comparison shopping all major Dutch services in one place, [Independer's internet tool](https://go.expatnetherlandshub.com/independer-internet?ref=/blog/best-broadband-internet-providers-expats-netherlands-2026/) is the fastest way to surface every available option for your specific Dutch postcode.
 
-For broader expat onboarding context, see [the first year in the Netherlands pillar](/blog/first-year-netherlands-expat-pillar-2026/) and [complete guide to moving to the Netherlands](/blog/complete-guide-moving-to-netherlands-2026/).
+For broader expat onboarding context, see [the first year in the Netherlands pillar](/blog/first-year-netherlands-expat-pillar-2026/) and [complete guide to moving to the Netherlands](/guides/legal/complete-guide-moving-to-netherlands-2026/).
 
 ## What About 5G Home Internet?
 

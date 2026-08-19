@@ -278,7 +278,7 @@ The DUO basisbeurs (EUR 319/month uitwonend) covers roughly 20–30% of typical 
 
 Use our [Cost of Living Calculator](/tools/cost-of-living-calculator/) to build a personalised budget estimate for your chosen Dutch city.
 
-Housing is typically the biggest challenge. Finding a student room in Dutch university cities is genuinely difficult. Read our [finding housing in the Netherlands guide](/guides/housing/finding-netherlands-expats-2026/) for strategies that actually work in the current market.
+Housing is typically the biggest challenge. Finding a student room in Dutch university cities is genuinely difficult. Read our [finding housing in the Netherlands guide](/guides/housing/finding-housing-netherlands-expats-2026/) for strategies that actually work in the current market.
 
 Health insurance is mandatory from age 18. Students often make the mistake of assuming their European Health Insurance Card (EHIC) covers them long-term. It does not for a longer-term stay. See our [Dutch health insurance guide](/guides/health/dutch-health-insurance-guide-expats-2026/) for the options available to students.
 

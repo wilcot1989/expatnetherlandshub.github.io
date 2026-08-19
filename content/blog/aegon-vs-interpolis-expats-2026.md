@@ -74,7 +74,7 @@ Aegon offers:
 
 Interpolis offers a more limited pension product range and routes most pension advice through Rabobank's wealth management arm. If you want a self-directed lijfrente, Aegon is the practical choice between these two.
 
-I cover the broader retirement landscape in [retiring in the Netherlands: an expat guide](/blog/retiring-in-netherlands-expat-guide-2026/), and if you would rather invest your jaarruimte through low-cost ETFs you can compare brokers in [ETF investing platforms Netherlands for expats](/blog/etf-investing-platforms-netherlands-expats-2026/).
+I cover the broader retirement landscape in [retiring in the Netherlands: an expat guide](/blog/retiring-in-netherlands-expat-guide-2026/), and if you would rather invest your jaarruimte through low-cost ETFs you can compare brokers in [ETF investing platforms Netherlands for expats](/blog/best-etf-platforms-netherlands-expats-2026/).
 
 ### Costs
 
@@ -161,7 +161,7 @@ I called both insurers twice during this comparison. Notes:
 
 **Written communication** — both send all policy documents in Dutch. Both have Dutch-only customer portals. Aegon has more English explanatory material on their corporate site; Interpolis has essentially none.
 
-For paying premiums from a foreign income source while you settle in, [Wise](https://go.expatnetherlandshub.com/wise?ref=/blog/aegon-vs-interpolis-expats-2026/) <a href="https://go.expatnetherlandshub.com/wise?ref=/blog/aegon-vs-interpolis-expats-2026/" target="_blank" rel="nofollow sponsored noopener">multi-currency account</a> works for SEPA direct debit from both insurers, though some processes — particularly mortgage-linked life insurance — still prefer a Dutch IBAN. I cover the broader banking choice in [best bank account for expats in the Netherlands](/blog/best-bank-account-expats-netherlands-2026/).
+For paying premiums from a foreign income source while you settle in, [Wise](https://go.expatnetherlandshub.com/wise?ref=/blog/aegon-vs-interpolis-expats-2026/) <a href="https://go.expatnetherlandshub.com/wise?ref=/blog/aegon-vs-interpolis-expats-2026/" target="_blank" rel="nofollow sponsored noopener">multi-currency account</a> works for SEPA direct debit from both insurers, though some processes — particularly mortgage-linked life insurance — still prefer a Dutch IBAN. I cover the broader banking choice in [best bank account for expats in the Netherlands](/guides/finance/best-bank-account-expats-netherlands-2026/).
 
 ## Health insurance note
 

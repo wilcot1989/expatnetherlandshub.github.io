@@ -81,7 +81,7 @@ Studios (typically 25–45m²) are the standard solo option. They include a priv
 
 These figures are for the private rental sector. Social housing (woningcorporatie) is significantly cheaper but has waiting lists of 5–15 years in most cities. As an expat, social housing is rarely a realistic option.
 
-For platforms to find rentals, see our [complete guide to housing in the Netherlands for expats](/guides/housing/buying-house-netherlands-expat-guide-2026/).
+For platforms to find rentals, see our [complete guide to housing in the Netherlands for expats](/guides/finance/buying-house-netherlands-expat-guide-2026/).
 
 ### Shared Housing: Cheaper and More Social
 
@@ -247,7 +247,7 @@ Beyond Internations and Meetup, these communities are specifically valuable for 
 
 Based on conversations with hundreds of single expats over the years, here is the order that tends to work:
 
-**Weeks 1–2:** Secure housing (even temporary), register at your gemeente, get a BSN, set up a bank account. See our [first 30 days in the Netherlands checklist](/guides/relocation/) for the full sequence.
+**Weeks 1–2:** Secure housing (even temporary), register at your gemeente, get a BSN, set up a bank account. See our [first 30 days in the Netherlands checklist](/guides/legal/first-30-days-netherlands-expat-checklist-2026/) for the full sequence.
 
 **Weeks 2–4:** Join one recurring social activity (sports club, language course, or Meetup group). One is enough — consistency matters more than volume.
 
@@ -289,7 +289,7 @@ Your GP (huisarts) is the first port of call — they can refer you to a psychol
 
 ## Useful Links
 
-- [Housing in the Netherlands for expats](/guides/housing/buying-house-netherlands-expat-guide-2026/)
+- [Housing in the Netherlands for expats](/guides/finance/buying-house-netherlands-expat-guide-2026/)
 - [30% ruling Netherlands 2026](/guides/finance/30-percent-ruling-netherlands-2026/)
 - [Emergency fund guide for expats](/guides/finance/emergency-fund-netherlands-expats-2026/)
 - [Dutch toeslagen for expats](/guides/finance/how-expats-claim-dutch-benefits-toeslagen-2026/)

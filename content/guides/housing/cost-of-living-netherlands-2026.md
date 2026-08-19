@@ -107,7 +107,7 @@ Housing is by far the largest expense for expats in the Netherlands, and prices 
 
 ### Tips for Reducing Housing Costs
 
-1. **Look beyond the Randstad**: Cities like Eindhoven, [Groningen](/cities/groningen/), [Tilburg](/cities/tilburg/), [Arnhem](/cities/arnhem/), [Nijmegen](/cities/nijmegen/), and [Almere](/cities/almere/) offer significantly lower rents with good quality of life. [Amstelveen](/cities/amstelveen/) is pricier but offers good value compared to central Amsterdam with easy metro access. See our [guide to the best cities for expats in the Netherlands](/guides/housing/best-cities-expats-netherlands-2026/) for a full cost and lifestyle comparison.
+1. **Look beyond the Randstad**: Cities like Eindhoven, [Groningen](/cities/groningen/), [Tilburg](/cities/tilburg/), [Arnhem](/cities/arnhem/), [Nijmegen](/cities/nijmegen/), and [Almere](/cities/almere/) offer significantly lower rents with good quality of life. [Amstelveen](/cities/amstelveen/) is pricier but offers good value compared to central Amsterdam with easy metro access. See our [guide to the best cities for expats in the Netherlands](/guides/housing/best-cities-netherlands-expats-2026/) for a full cost and lifestyle comparison.
 2. **Consider suburban areas**: Towns near major cities often offer 20-30% lower rents with good train connections
 3. **House-sharing**: Common among young expats, especially in Amsterdam, and can cut housing costs by 30-50%
 4. **Social housing (sociale huur)**: If your income qualifies, regulated housing is much cheaper, though waiting lists can be years long

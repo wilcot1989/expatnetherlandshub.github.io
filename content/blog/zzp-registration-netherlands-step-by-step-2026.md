@@ -41,7 +41,7 @@ This guide is the exact step-by-step I'd give my sister if she were registering 
 
 *Disclosure: this article contains affiliate links. If you sign up via them I may earn a small commission at no extra cost to you. All recommendations come from my own experience as a registered ZZP since 2022.*
 
-💡 *For broader self-employment context see [tax filing for freelance expats](/blog/tax-filing-freelance-expat-netherlands-2026/), [side hustle and passive income NL](/blog/side-hustle-passive-income-netherlands-2026/), and [business bank ZZP](/blog/business-bank-zzp-netherlands-2026/).*
+💡 *For broader self-employment context see [tax filing for freelance expats](/blog/tax-filing-freelance-expat-netherlands-2026/), [side hustle and passive income NL](/blog/side-hustle-passive-income-netherlands-2026/), and [business bank ZZP](/guides/finance/dutch-business-bank-account-zzp-2026/).*
 
 
 > **Quick answer:** How to register as a ZZP self-employed in the Netherlands in 2026 — complete step-by-step guide for expats: KvK, BTW, banking, insurance, and first invoice.
@@ -250,4 +250,4 @@ If you're considering going freelance, the registration is not the obstacle. The
 
 Open <a href="https://go.expatnetherlandshub.com/bunq?ref=/blog/zzp-registration-netherlands-step-by-step-2026/" target="_blank" rel="nofollow sponsored noopener">Bunq Business</a> the same day you register. Compare your <a href="https://go.expatnetherlandshub.com/independer-zorg?ref=/blog/zzp-registration-netherlands-step-by-step-2026/" target="_blank" rel="nofollow sponsored noopener">health insurance options</a> while you're at it.
 
-For broader context see [tax filing for freelance expats](/blog/tax-filing-freelance-expat-netherlands-2026/), [side hustle and passive income](/blog/side-hustle-passive-income-netherlands-2026/), [business banking for ZZP](/blog/business-bank-zzp-netherlands-2026/), and [crypto tax Netherlands](/blog/crypto-tax-netherlands-expats-2026/) if you also do crypto on the side.
+For broader context see [tax filing for freelance expats](/blog/tax-filing-freelance-expat-netherlands-2026/), [side hustle and passive income](/blog/side-hustle-passive-income-netherlands-2026/), [business banking for ZZP](/guides/finance/dutch-business-bank-account-zzp-2026/), and [crypto tax Netherlands](/blog/crypto-tax-netherlands-expats-2026/) if you also do crypto on the side.

@@ -2,6 +2,7 @@
 title: "Best Bank for International Students Netherlands 2026"
 description: "Compare ABN AMRO Student, ING Orange, Bunq, Rabobank, Revolut and N26 for international students in the Netherlands. BSN, DigiD, fees and English support compared."
 date: 2026-08-02
+lastmod: 2026-08-19 12:00:00+02:00
 author: "Sarah van den Berg"
 categories: ["finance", "students"]
 tags: ["student bank", "international students", "bunq", "abn amro", "ing", "revolut"]
@@ -38,7 +39,7 @@ This guide is the long version of that text message. I have spent four years wri
 
 ## TL;DR — Quick answer
 
-The best student bank setup in the Netherlands for 2026 is **Bunq Easy Bank Student** as your day-one account (instant Dutch IBAN, no BSN needed) plus **[ABN AMRO Studentenpakket](/blog/best-bank-account-expats-netherlands-2026/)** opened in week two or three once you have your BSN (free, English app, free credit card, accepted by every Dutch service). Add **Revolut** as a travel/backup card and **Wise** if your parents send tuition from outside the eurozone. ING Studenten is a strong runner-up to ABN. Skip N26 as a primary because its German IBAN occasionally trips up Dutch landlords and DUO.
+The best student bank setup in the Netherlands for 2026 is **Bunq Easy Bank Student** as your day-one account (instant Dutch IBAN, no BSN needed) plus **[ABN AMRO Studentenpakket](/guides/finance/best-bank-account-expats-netherlands-2026/)** opened in week two or three once you have your BSN (free, English app, free credit card, accepted by every Dutch service). Add **Revolut** as a travel/backup card and **Wise** if your parents send tuition from outside the eurozone. ING Studenten is a strong runner-up to ABN. Skip N26 as a primary because its German IBAN occasionally trips up Dutch landlords and DUO.
 
 <a href="https://go.expatnetherlandshub.com/bunq?ref=/blog/best-bank-for-international-students-netherlands-2026/" target="_blank" rel="nofollow sponsored noopener">Open Bunq Easy Bank for students</a> — free with student verification, instant Dutch IBAN, fully English.
 
@@ -50,7 +51,7 @@ The catch is that "student" status has to be proven, and proving it requires Dut
 
 The second peculiarity is BSN. Your *burgerservicenummer* is your Dutch citizen number, issued after you register at the *gemeente* (municipality). Most students wait two to six weeks for that appointment depending on the city. Amsterdam in September is notoriously slow. Utrecht is faster. The Hague depends on which week you arrive. During that gap you still need money, food, a transit card, a phone, and ideally a deposit for your room. That gap is what Bunq and Revolut are built to fill.
 
-For the bigger picture on Dutch banking outside the student bracket, my [full guide to the best bank account for expats](/blog/best-bank-account-expats-netherlands-2026/) covers the adult-tier options. This article zooms in on the under-30, in-education subset.
+For the bigger picture on Dutch banking outside the student bracket, my [full guide to the best bank account for expats](/guides/finance/best-bank-account-expats-netherlands-2026/) covers the adult-tier options. This article zooms in on the under-30, in-education subset.
 
 ## Aarav's first three weeks: what actually happened
 
@@ -80,7 +81,7 @@ ING runs the second-largest international-student welcome flow in the Netherland
 
 If your university partners with ING — and many do — you can sometimes open the account at an on-campus desk in 30 minutes. You walk in with your passport, enrollment letter, and BSN slip from the *gemeente*. You walk out with a temporary card and a Dutch IBAN that is live immediately. The permanent card arrives by post within a week.
 
-Where ING falls behind ABN is the credit card. ING does not include a free credit card with the student account. You can request a credit card separately but it costs EUR 1.50 to EUR 3.00 per month depending on the tier, and approval for first-year students with no Dutch credit history is hit-and-miss. For students who do not need a credit card, ING is arguably the better choice because the app is slightly cleaner and the in-person support during freshers' week is unbeatable. For students who want a credit card included, ABN wins.
+Where ING falls behind ABN is the credit card. ING does not include a free credit card with the student account. You can request a credit card separately but it costs EUR 2.00 per month, and approval for first-year students with no Dutch credit history is hit-and-miss. For students who do not need a credit card, ING is arguably the better choice because the app is slightly cleaner and the in-person support during freshers' week is unbeatable. For students who want a credit card included, ABN wins.
 
 ## Bunq Easy Bank — the day-one account
 
@@ -112,7 +113,7 @@ That said, Revolut is excellent as a bridge account. Open it from your home coun
 
 What you should not do is use Revolut as your only Dutch account. You will eventually hit something that rejects the LT IBAN. Pair it with Bunq day one, ABN week three, and you have all bases covered.
 
-For the full Revolut comparison, see [Wise vs Revolut for expats](/blog/wise-vs-revolut-expats-2026/) — Wise wins for inbound transfers, Revolut wins for everyday spending.
+For the full Revolut comparison, see [Wise vs Revolut for expats](/guides/finance/wise-vs-revolut-netherlands-2026/) — Wise wins for inbound transfers, Revolut wins for everyday spending.
 
 ## N26 — skip as a primary, optional as a tertiary
 
@@ -126,7 +127,7 @@ DUO is the Dutch student finance authority. If you are an EU national, an EU-equ
 
 DUO pays out to Dutch IBANs only. Officially the rules say "SEPA IBANs accepted" but in practice DUO's compliance team flags non-NL IBANs for manual review and rejects roughly 30% of them on first pass. Students appeal, win, and get paid eventually, but it takes four to eight weeks. If you are budgeting on DUO arriving on the 25th of every month, you cannot afford that gap.
 
-The safe DUO IBANs in 2026 are: ABN AMRO, ING, Rabobank, SNS, ASN, RegioBank, Triodos, Knab, and Bunq (which transitioned from "fintech with NL IBAN" to "DUO-accepted" status in 2023 and has stayed there). Revolut, N26, Wise — not safe for DUO.
+The safe DUO IBANs in 2026 are: ABN AMRO, ING, Rabobank, ASN Bank (which absorbed SNS Bank on 1 July 2025 and RegioBank on 1 December 2025), Triodos, Knab, and Bunq (which transitioned from "fintech with NL IBAN" to "DUO-accepted" status in 2023 and has stayed there). Revolut, N26, Wise — not safe for DUO.
 
 If you might apply for DUO funding at any point in your studies, open one of the DUO-safe accounts. ABN AMRO Studentenpakket is the default recommendation for this reason alone.
 

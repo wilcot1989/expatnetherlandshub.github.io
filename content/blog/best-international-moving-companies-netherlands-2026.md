@@ -45,7 +45,7 @@ This guide walks through the international moving companies I'd actually recomme
 
 *Disclosure: some links in this article are affiliate links. If you book through them, I may earn a small commission at no extra cost to you. I only recommend services I would use myself.*
 
-💡 *Already in the Netherlands and looking for a home? Read [Finding housing in the Netherlands as an expat](/blog/finding-housing-netherlands-expats-2026/) — covers rentals, deposits, and discrimination protections.*
+💡 *Already in the Netherlands and looking for a home? Read [Finding housing in the Netherlands as an expat](/guides/housing/finding-housing-netherlands-expats-2026/) — covers rentals, deposits, and discrimination protections.*
 
 
 > **Quick answer:** I compared the top international moving companies for relocating to the Netherlands in 2026 — costs, services, insurance, and which ones actually deliver.
@@ -204,7 +204,7 @@ For ongoing expat finance, see my full [best banking for expats](/blog/best-bank
 
 **2 weeks out:** Notify utilities, banks, doctors. Start your [BSN application](/blog/expat-bsn-application-guide-2026/) preparation.
 
-**1 week out:** Pack carry-luggage essentials separately (3+ weeks of clothing, important documents, prescriptions, chargers). Confirm Dutch arrival logistics, including [BSN registration](/blog/expat-bsn-application-guide-2026/) and [setting up a Dutch bank account](/blog/best-bank-account-expats-netherlands-2026/).
+**1 week out:** Pack carry-luggage essentials separately (3+ weeks of clothing, important documents, prescriptions, chargers). Confirm Dutch arrival logistics, including [BSN registration](/blog/expat-bsn-application-guide-2026/) and [setting up a Dutch bank account](/guides/finance/best-bank-account-expats-netherlands-2026/).
 
 **Move day:** Walk the inventory with the lead packer. Photograph everything that goes into boxes. Don't sign the inventory until you've reviewed it.
 
@@ -228,7 +228,7 @@ For European moves, Sirelo's comparison engine is genuinely useful and you'll of
 
 Avoid the temptation to save money on insurance. A €350 premium that covers €30,000 of household goods is the cheapest peace of mind in the entire process.
 
-For the rest of your move planning, see my [complete guide to moving to the Netherlands](/blog/complete-guide-moving-to-netherlands-2026/) and the [first year in the Netherlands pillar](/blog/first-year-netherlands-expat-pillar-2026/) which covers everything from BSN to setting up utilities once your shipment arrives.
+For the rest of your move planning, see my [complete guide to moving to the Netherlands](/guides/legal/complete-guide-moving-to-netherlands-2026/) and the [first year in the Netherlands pillar](/blog/first-year-netherlands-expat-pillar-2026/) which covers everything from BSN to setting up utilities once your shipment arrives.
 
 ## Special Cases Worth Calling Out
 
@@ -236,7 +236,7 @@ For the rest of your move planning, see my [complete guide to moving to the Neth
 
 If you're shipping pets along with household goods, this is almost always a separate logistics flow. International pet relocation specialists (Animal Express, Jet Pets, IPATA-registered movers) handle veterinary documentation, EU pet passport / health certificates, IATA-compliant crating, and door-to-door delivery. Costs run €800–€2,500 for a single pet from Europe, €2,500–€5,000+ from intercontinental origins. Don't try to bundle pets with your household mover unless they explicitly offer pet relocation as a specialty — it almost always goes wrong.
 
-For full pet-specific planning, see my [pet relocation to the Netherlands](/blog/pet-relocation-netherlands-2026/) guide.
+For full pet-specific planning, see my [pet relocation to the Netherlands](/guides/daily-life/pet-relocation-netherlands-2026/) guide.
 
 ### Vehicles
 

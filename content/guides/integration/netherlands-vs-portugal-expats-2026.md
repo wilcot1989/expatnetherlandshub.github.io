@@ -116,7 +116,7 @@ The exception is international companies that pay global salary scales regardles
 
 ### The Netherlands: 30% Ruling
 
-The Dutch [30% ruling](/guides/legal/30-percent-ruling-netherlands-2026/) allows qualifying expats recruited from abroad to have 30% of their gross salary paid tax-free for up to five years. To qualify:
+The Dutch [30% ruling](/guides/finance/30-percent-ruling-netherlands-2026/) allows qualifying expats recruited from abroad to have 30% of their gross salary paid tax-free for up to five years. To qualify:
 - You must have been living more than 150km from the Dutch border for 16+ of the 24 months before starting
 - Your salary must meet the minimum threshold (EUR 46,107 gross in 2026; lower for under-30s with a master's degree)
 - Your employer must apply

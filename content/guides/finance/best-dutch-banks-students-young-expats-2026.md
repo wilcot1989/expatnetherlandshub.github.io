@@ -1,7 +1,7 @@
 ---
 title: Best Banks for Students in Netherlands 2026
 date: 2026-06-13 10:00:00+01:00
-lastmod: 2026-04-23 10:00:00+01:00
+lastmod: 2026-08-19 12:00:00+02:00
 description: ING free until 28, ABN AMRO free until 30, bunq for budgeting — which bank works best for students and young expats, including DUO compatibility.
 categories:
 - finance
@@ -88,7 +88,7 @@ What I like about ING is how invisible it is. The app works, contactless payment
 
 ### The Catch: Age 28
 
-On your 28th birthday, the account automatically converts to a standard account at EUR 2.45 per month. You get a notification in advance, but if you do nothing, you start paying. Most students from outside the Netherlands graduate and leave before 28, so this is rarely an issue — but international PhD students and those who start a Master's later should be aware.
+On your 28th birthday, the account automatically converts to the standard OranjePakket at EUR 4.00 per month (price as of 1 January 2026). You get a notification in advance, but if you do nothing, you start paying. Most students from outside the Netherlands graduate and leave before 28, so this is rarely an issue — but international PhD students and those who start a Master's later should be aware.
 
 **My take:** For most students in the Netherlands, ING is the default for a reason. It is free, reliable, and fully English. Start here if you want the path of least resistance.
 

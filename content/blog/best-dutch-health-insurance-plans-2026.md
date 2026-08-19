@@ -382,7 +382,7 @@ The basic package covers most prescription medicines, but not all, and the cover
 
 - [Menzis health insurance review for expats](/blog/menzis-health-insurance-review-expats-2026/)
 - [VGZ health insurance review for expats](/blog/vgz-health-insurance-review-expats-2026/)
-- [How to register with a GP in the Netherlands](/blog/register-gp-netherlands-expat-guide-2026/)
+- [How to register with a GP in the Netherlands](/guides/health/find-english-speaking-doctor-netherlands-2026/)
 - [Car insurance in the Netherlands for expats](/blog/car-insurance-netherlands-expats-2026/)
 - [How to find a job in the Netherlands](/blog/how-to-find-job-netherlands-expat-2026/)
 - [Dutch utilities explained for expats](/blog/dutch-utilities-explained-expats-2026/)

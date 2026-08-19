@@ -403,10 +403,10 @@ Get those things right, and the Dutch market rewards persistence and capability 
 
 - [How to write a Dutch CV as an expat](/blog/dutch-cv-resume-guide-expats-2026/)
 - [Best job boards in the Netherlands for expats](/blog/best-job-boards-netherlands-expats-2026/)
-- [Opening a Dutch bank account as a newcomer](/blog/open-dutch-bank-account-expat-guide-2026/)
-- [The 30% ruling explained](/blog/30-percent-ruling-netherlands-expats-guide-2026/)
+- [Opening a Dutch bank account as a newcomer](/guides/finance/how-to-open-bank-account-netherlands-2026/)
+- [The 30% ruling explained](/guides/finance/30-percent-ruling-netherlands-2026/)
 - [Dutch health insurance for expats](/blog/best-dutch-health-insurance-plans-2026/)
-- [How to rent a flat in the Netherlands](/blog/renting-in-netherlands-expat-guide-2026/)
+- [How to rent a flat in the Netherlands](/guides/housing/finding-housing-netherlands-expats-2026/)
 - [Short-stay furnished housing options](/blog/short-stay-furnished-housing-netherlands-2026/)
 - [Retiring in the Netherlands](/blog/retiring-in-netherlands-expat-guide-2026/)
 

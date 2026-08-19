@@ -74,7 +74,7 @@ Practical pointers:
 
 Try to negotiate two to four weeks of overlap between the old and new contract. Yes, you pay double rent for that period. Yes, it is worth it. You will need time to clean, paint, hand back keys, and recover. Trying to do a same-day handover with two landlords and a removal van in Dutch city traffic is the closest I have come to crying in public.
 
-If you are still looking for the new place, [HousingAnywhere](/blog/finding-housing-netherlands-expats-2026/) and Pararius are the two platforms I would start with. Most landlord-side agents on Funda do not respond to expat enquiries, in my experience.
+If you are still looking for the new place, [HousingAnywhere](/guides/housing/finding-housing-netherlands-expats-2026/) and Pararius are the two platforms I would start with. Most landlord-side agents on Funda do not respond to expat enquiries, in my experience.
 
 <p style="background:#f4f1ec;padding:1rem;border-left:4px solid #c89b6a;margin:1.5rem 0;">Still hunting for the next place? <a href="https://go.expatnetherlandshub.com/housing-anywhere?ref=/blog/house-moving-checklist-netherlands-expats-2026/" target="_blank" rel="nofollow sponsored noopener">HousingAnywhere has English-language listings and verified landlords</a> across all the major Dutch cities, which is what I used when I moved to Utrecht.</p>
 
@@ -88,7 +88,7 @@ A bad inspection report costs people their deposit. The Huurcommissie (rent trib
 
 Dutch law (as of July 2023) caps rental deposits at two months' rent and requires landlords to return the deposit within 14 days of the contract ending, minus any agreed deductions. They must itemise deductions. If they do not respond within 30 days they owe you the full amount plus statutory interest.
 
-I now refuse to pay a deposit in cash and I always transfer through a bank that gives me a clear transaction reference. If your current bank's app makes that messy, this is one of the reasons I switched to [bunq](/blog/dutch-bank-account-expats-2026/) two years ago.
+I now refuse to pay a deposit in cash and I always transfer through a bank that gives me a clear transaction reference. If your current bank's app makes that messy, this is one of the reasons I switched to [bunq](/guides/finance/how-to-open-bank-account-netherlands-2026/) two years ago.
 
 ## Three weeks before: the booking week
 
@@ -137,7 +137,7 @@ Things to do regardless of route:
 - Send the readings (meterstanden) to your provider within 5 working days.
 - If you are moving into a place that was vacant, you may be on a "leveranciersloze periode" tariff for the first few days. This is fine and gets reconciled later.
 
-Honestly, I would also use the move as an excuse to compare prices. I switched to a cheaper green provider during my Utrecht move and saved roughly EUR 28 per month. See my [Dutch energy providers comparison](/blog/dutch-energy-providers-comparison-2026/) for current rates.
+Honestly, I would also use the move as an excuse to compare prices. I switched to a cheaper green provider during my Utrecht move and saved roughly EUR 28 per month. See my [Dutch energy providers comparison](/guides/housing/energy-providers-expats-netherlands-2026/) for current rates.
 
 ### Internet
 
@@ -146,7 +146,7 @@ KPN, Ziggo, T-Mobile (now Odido), and Delta all offer a free verhuisservice. You
 - If the new address is not on your current provider's network (for example, your old flat had Ziggo coax but the new flat is fibre-only), you have the legal right to cancel without an early-termination fee. They will try to talk you out of this. Be polite but firm.
 - Returning the old modem/router is your responsibility. Keep the PostNL return tracking code for two years. I cannot stress this enough.
 
-My full breakdown sits at [Dutch internet providers for expats](/blog/dutch-internet-providers-expats-2026/).
+My full breakdown sits at [Dutch internet providers for expats](/guides/daily-life/best-internet-providers-netherlands-expats-2026/).
 
 ### Water
 
@@ -191,7 +191,7 @@ You still have to update manually:
 - Any subscriptions you receive physical post for
 - Your DigiD profile (yes, even though it logged you in to do all this, the postal address is separate)
 
-For DigiD specifically, the postal address gets updated automatically from BRP, but if you have set a different correspondence address you need to change it. My [DigiD guide](/blog/digid-netherlands-expats-2026/) walks through this. Your [BSN](/blog/bsn-number-netherlands-guide-2026/) itself does not change, only the address linked to it.
+For DigiD specifically, the postal address gets updated automatically from BRP, but if you have set a different correspondence address you need to change it. My [DigiD guide](/guides/legal/digid-guide-expats-2026/) walks through this. Your [BSN](/guides/legal/bsn-registration-guide-2026/) itself does not change, only the address linked to it.
 
 For banks, the process varies. ING and Rabobank pick up the BRP change within a week. ABN AMRO usually wants you to confirm in the app. Revolut, Wise, and bunq do not get the BRP feed and must be updated manually in-app.
 

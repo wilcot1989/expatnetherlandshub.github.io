@@ -1,7 +1,7 @@
 ---
 title: Wise vs Revolut vs bunq for Expats 2026
 date: 2026-06-07 10:00:00+01:00
-lastmod: 2026-04-23 10:00:00+01:00
+lastmod: 2026-08-19 12:00:00+02:00
 description: Wise, Revolut, or bunq for expats in the Netherlands? I compare IBAN acceptance, fees, and real banking capability so you can choose the right one.
 categories:
 - finance
@@ -232,7 +232,7 @@ Note: bunq is the most expensive of the three for its primary plan. You are payi
 
 ### bunq's Weaknesses for Netherlands Expats
 
-**Cost:** €10.99 per month for the main plan is the highest monthly fee of the three. Compared to free accounts at ING or ABN AMRO (if you can open one), this is a real consideration.
+**Cost:** €10.99 per month for the main plan is the highest monthly fee of the three. Compared to €4.00 at ING or €4.30 at ABN AMRO (if you can open one), this is a real consideration.
 
 **International transfer fees:** bunq charges 2% on foreign currency transactions. For sending money abroad, Wise is significantly cheaper.
 

@@ -49,7 +49,7 @@ This guide compares the actual platforms in 2026, what each does well, what each
 
 *Disclosure: this article contains affiliate links. If you sign up via them I may earn a small commission at no extra cost to you. All opinions are based on my own use of these platforms and what I've watched dozens of expat friends try.*
 
-💡 *For broader Dutch-learning context see my [learning Dutch as expat](/blog/learn-dutch-expat-guide-2026/) pillar, [inburgering exam guide](/blog/inburgering-exam-netherlands-2026/), and [Dutch immersion strategies](/blog/dutch-immersion-tips-expats-2026/).*
+💡 *For broader Dutch-learning context see my [learning Dutch as expat](/guides/integration/how-to-learn-dutch-complete-guide-2026/) pillar, [inburgering exam guide](/guides/integration/inburgeringsexamen-preparation-guide-2026/), and [Dutch immersion strategies](/guides/integration/how-to-learn-dutch-complete-guide-2026/).*
 
 
 > **Quick answer:** I tested the major online Dutch language platforms in 2026. Real comparison of Preply, iTalki, Babbel, Mondly, and traditional online schools for expats.
@@ -258,7 +258,7 @@ The biggest 2026 mistake is treating Dutch learning as one product. It's three: 
 
 Start with <a href="https://go.expatnetherlandshub.com/babbel?ref=/blog/best-dutch-language-schools-online-2026/" target="_blank" rel="nofollow sponsored noopener">Babbel</a> or <a href="https://go.expatnetherlandshub.com/mondly?ref=/blog/best-dutch-language-schools-online-2026/" target="_blank" rel="nofollow sponsored noopener">Mondly</a> for habit. Add <a href="https://go.expatnetherlandshub.com/preply?ref=/blog/best-dutch-language-schools-online-2026/" target="_blank" rel="nofollow sponsored noopener">Preply</a> at month 4 for tutoring. Switch your phone to Dutch immediately. Watch Het Klokhuis. Don't switch tutors. Speak before you feel ready.
 
-For broader Dutch context see my [learning Dutch as expat](/blog/learn-dutch-expat-guide-2026/) pillar, [inburgering exam guide](/blog/inburgering-exam-netherlands-2026/), [Dutch immersion strategies](/blog/dutch-immersion-tips-expats-2026/), and [free Dutch language resources](/blog/free-dutch-resources-expats-2026/) for budget-friendly options.
+For broader Dutch context see my [learning Dutch as expat](/guides/integration/how-to-learn-dutch-complete-guide-2026/) pillar, [inburgering exam guide](/guides/integration/inburgeringsexamen-preparation-guide-2026/), [Dutch immersion strategies](/guides/integration/how-to-learn-dutch-complete-guide-2026/), and [free Dutch language resources](/guides/integration/learn-dutch-free-online-2026/) for budget-friendly options.
 
 ---
 

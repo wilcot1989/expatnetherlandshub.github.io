@@ -193,7 +193,7 @@ Bunq wins on almost every metric. The NL IBAN compounds in value the longer you 
 
 If you are unsure, start with Bunq and add Wise for international transfers. This covers the two main financial needs of most expats: Dutch daily banking and sending money internationally.
 
-For a detailed comparison including Revolut, read my [Wise vs Revolut comparison for expats](/blog/wise-vs-revolut-expats-2026/).
+For a detailed comparison including Revolut, read my [Wise vs Revolut comparison for expats](/guides/finance/wise-vs-revolut-netherlands-2026/).
 
 ## ZZP Freelancers and Business Accounts
 
