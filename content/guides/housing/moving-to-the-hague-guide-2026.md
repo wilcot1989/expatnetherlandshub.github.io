@@ -161,7 +161,7 @@ Benoordenhout is where many ambassadors and diplomats live. It borders the Haags
 
 ### Rental Process
 1. **Prepare documents** — Employment contract, ID/passport, last 3 payslips, employer statement
-2. **Search online** — Funda.nl, Pararius.nl, <a href="https://ds1.nl/c/?si=447&li=26287&wi=418902&ws=&dl=" target="_blank" rel="noopener nofollow sponsored">Kamernet.nl</a>, Facebook expat groups
+2. **Search online** — Funda.nl, Pararius.nl, <a href="https://go.expatnetherlandshub.com/kamernet?ref=/guides/housing/moving-to-the-hague-guide-2026/" target="_blank" rel="noopener nofollow sponsored">Kamernet.nl</a>, Facebook expat groups
 3. **Register with agents** — Consider real estate agents specializing in expat housing
 4. **View quickly** — Good properties are gone within days
 5. **Expect a deposit** — Usually 1-2 months rent as a deposit

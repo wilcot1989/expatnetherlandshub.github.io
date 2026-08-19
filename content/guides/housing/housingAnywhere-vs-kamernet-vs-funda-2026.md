@@ -166,7 +166,7 @@ Volume. If you are looking for a room in Amsterdam, Rotterdam, Utrecht, or any D
 
 It is also one of the few platforms where you can realistically find a room for under €900/month in major cities — though even that is becoming rare in Amsterdam.
 
-<a href="https://ds1.nl/c/?si=447&li=26287&wi=418902&ws=&dl=" target="_blank" rel="noopener nofollow sponsored" class="cta-affiliate">Search rooms on Kamernet →</a>
+<a href="https://go.expatnetherlandshub.com/kamernet?ref=/guides/housing/housinganywhere-vs-kamernet-vs-funda-2026/" target="_blank" rel="noopener nofollow sponsored" class="cta-affiliate">Search rooms on Kamernet →</a>
 
 **Where Kamernet falls short:**
 

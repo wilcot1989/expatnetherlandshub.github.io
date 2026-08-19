@@ -216,7 +216,7 @@ Most Dutch business schools do not guarantee housing. This is a genuine challeng
 
 What to do:
 - **Contact the school's housing office immediately** after acceptance — some have limited reserved housing for international students
-- **Use Kamernet** — a Dutch platform for student rooms and apartments. Search early; good listings go within hours. Access the platform at <a href="https://ds1.nl/c/?si=447&li=26287&wi=418902&ws=&dl=" rel="noopener nofollow sponsored" class="cta-affiliate">Kamernet</a>
+- **Use Kamernet** — a Dutch platform for student rooms and apartments. Search early; good listings go within hours. Access the platform at <a href="https://go.expatnetherlandshub.com/kamernet?ref=/guides/finance/mba-netherlands-international-students-2026/" rel="noopener nofollow sponsored" class="cta-affiliate">Kamernet</a>
 - **HousingAnywhere:** International student-focused rental platform, good for medium-term furnished rooms
 - **Facebook groups:** "Amsterdam Expats," "Rotterdam International Housing," and similar groups often have room listings
 - Budget EUR 700-1,000 per month for a private room in a shared house in Rotterdam or Amsterdam

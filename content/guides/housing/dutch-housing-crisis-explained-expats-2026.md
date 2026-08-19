@@ -181,7 +181,7 @@ Understanding the crisis structurally is useful. Here is what it means practical
 
 **Consider smaller cities.** The housing crisis is worst in the Randstad — Amsterdam, Utrecht, Rotterdam, The Hague. Mid-sized cities have shortages too, but the competition is less extreme and prices are meaningfully lower. The [best cities for expats guide](/guides/housing/best-cities-netherlands-expats-2026/) covers the trade-offs. The [cost of living comparison](/guides/housing/cost-of-living-netherlands-2026/) shows the rent differences in hard numbers.
 
-**Temporary housing is a strategy, not a failure.** Taking a short-term furnished rental for the first 3-6 months while you search for a longer-term place is standard practice for many expats. <a href="https://ds1.nl/c/?si=447&li=26287&wi=418902&ws=&dl=" target="_blank" rel="noopener nofollow sponsored">Kamernet</a> is well-suited for this — it has a good supply of furnished short-term listings aimed at people in exactly this situation.
+**Temporary housing is a strategy, not a failure.** Taking a short-term furnished rental for the first 3-6 months while you search for a longer-term place is standard practice for many expats. <a href="https://go.expatnetherlandshub.com/kamernet?ref=/guides/housing/dutch-housing-crisis-explained-expats-2026/" target="_blank" rel="noopener nofollow sponsored">Kamernet</a> is well-suited for this — it has a good supply of furnished short-term listings aimed at people in exactly this situation.
 
 ## Renting vs Buying in This Market
 

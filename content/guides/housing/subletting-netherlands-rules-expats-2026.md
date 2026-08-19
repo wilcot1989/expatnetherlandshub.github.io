@@ -186,7 +186,7 @@ If you are going abroad on a [highly skilled migrant visa assignment](/guides/le
 
 Many landlords will agree if approached professionally and the situation is credibly temporary. Refusing to ask and simply doing it anyway is the mistake that results in eviction proceedings.
 
-For finding a reliable subtenant for a medium-term (3–12 month) sublet, platforms designed for the Netherlands are better than Airbnb. <a href="https://ds1.nl/c/?si=447&li=26287&wi=418902&ws=&dl=" target="_blank" rel="noopener nofollow sponsored" class="cta-affiliate">Find medium-term tenants on Kamernet →</a>
+For finding a reliable subtenant for a medium-term (3–12 month) sublet, platforms designed for the Netherlands are better than Airbnb. <a href="https://go.expatnetherlandshub.com/kamernet?ref=/guides/housing/subletting-netherlands-rules-expats-2026/" target="_blank" rel="noopener nofollow sponsored" class="cta-affiliate">Find medium-term tenants on Kamernet →</a>
 
 Kamernet is the Netherlands' largest platform for room and short-to-medium-term rentals, used heavily by students and young professionals. If you are subletting a furnished room or a flat for a semester or a few months, it reaches the right audience.
 
@@ -260,7 +260,7 @@ Before subletting any part of your Dutch rental property:
 - [ ] Ensure your home insurance covers the subletting period
 - [ ] Confirm your [BSN and address registration](/guides/legal/bsn-registration-guide-2026/) remain compliant
 
-For finding tenants for a legitimate sublet, <a href="https://ds1.nl/c/?si=447&li=26287&wi=418902&ws=&dl=" target="_blank" rel="noopener nofollow sponsored" class="cta-affiliate">use Kamernet to reach the right audience →</a>
+For finding tenants for a legitimate sublet, <a href="https://go.expatnetherlandshub.com/kamernet?ref=/guides/housing/subletting-netherlands-rules-expats-2026/" target="_blank" rel="noopener nofollow sponsored" class="cta-affiliate">use Kamernet to reach the right audience →</a>
 
 ---
 

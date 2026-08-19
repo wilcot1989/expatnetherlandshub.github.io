@@ -101,7 +101,7 @@ Key statistics for 2026:
 
 - **Funda.nl**: The largest Dutch real estate platform. A must for any housing search.
 - **Pararius.com**: Focused on the expat rental market. Listings are in English.
-- **<a href="https://ds1.nl/c/?si=447&li=26287&wi=418902&ws=&dl=" target="_blank" rel="noopener nofollow sponsored">Kamernet.nl</a>**: Good for rooms and shared housing.
+- **<a href="https://go.expatnetherlandshub.com/kamernet?ref=/guides/housing/moving-to-amsterdam-guide-2026/" target="_blank" rel="noopener nofollow sponsored">Kamernet.nl</a>**: Good for rooms and shared housing.
 - **HousingAnywhere.com**: Platform specifically for internationals.
 - **Facebook groups**: "Amsterdam Apartments for Rent" and similar groups can yield results.
 - **Relocation agents**: Consider hiring an agent if budget allows (fee is typically one month's rent).

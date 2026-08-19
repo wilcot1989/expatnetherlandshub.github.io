@@ -180,7 +180,7 @@ A Dutch or EU IBAN removes the most common grounds for rejection. [Dutch banks f
 
 ### Use platforms with verification systems
 
-Some housing platforms do more to screen landlords and listings than others. Using a platform with active moderation reduces your exposure to discriminatory listings in the first place. <a href="https://ds1.nl/c/?si=447&li=26287&wi=418902&ws=&dl=" target="_blank" rel="noopener nofollow sponsored" class="cta-affiliate">Search verified listings on Kamernet →</a>
+Some housing platforms do more to screen landlords and listings than others. Using a platform with active moderation reduces your exposure to discriminatory listings in the first place. <a href="https://go.expatnetherlandshub.com/kamernet?ref=/guides/legal/housing-discrimination-netherlands-expats-2026/" target="_blank" rel="noopener nofollow sponsored" class="cta-affiliate">Search verified listings on Kamernet →</a>
 
 Kamernet verifies listings and has a reporting mechanism for discrimination. When you are looking for a room or apartment as an expat, starting on platforms that actively moderate listings is a better use of time than trawling unmoderated classified sites where discriminatory listings are more common.
 

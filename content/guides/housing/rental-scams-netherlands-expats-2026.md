@@ -291,7 +291,7 @@ Not all places to search for housing carry the same level of risk.
 
 For the room and shared-housing market, Kamernet has significantly better verification than most alternatives — landlords are required to verify their identity and property ownership before listing. That does not make it scam-proof, but it is a meaningful filter.
 
-<a href="https://ds1.nl/c/?si=447&li=26287&wi=418902&ws=&dl=" target="_blank" rel="noopener nofollow sponsored" class="cta-affiliate">Search verified rooms on Kamernet →</a>
+<a href="https://go.expatnetherlandshub.com/kamernet?ref=/guides/housing/rental-scams-netherlands-expats-2026/" target="_blank" rel="noopener nofollow sponsored" class="cta-affiliate">Search verified rooms on Kamernet →</a>
 
 ### Higher Risk (Use With Caution)
 

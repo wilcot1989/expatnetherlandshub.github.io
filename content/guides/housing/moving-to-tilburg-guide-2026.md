@@ -149,7 +149,7 @@ For context: the [cost of living guide](/guides/housing/cost-of-living-netherlan
 
 The Tilburg rental market is competitive for good properties in Centrum and Oud-Noord, though less frantic than Amsterdam or Utrecht. Standard platforms:
 
-- **<a href="https://ds1.nl/c/?si=447&li=26287&wi=418902&ws=&dl=" target="_blank" rel="noopener nofollow sponsored">Kamernet</a>** — particularly strong for rooms and studios in Tilburg, widely used by students and young professionals. The Tilburg University connection means there is a constant supply of listings
+- **<a href="https://go.expatnetherlandshub.com/kamernet?ref=/guides/housing/moving-to-tilburg-guide-2026/" target="_blank" rel="noopener nofollow sponsored">Kamernet</a>** — particularly strong for rooms and studios in Tilburg, widely used by students and young professionals. The Tilburg University connection means there is a constant supply of listings
 - **Funda** — for the main rental market across all property types
 - **Pararius** — strong for professional expat-level rentals
 - **Facebook groups** — "Expats in Tilburg" and "Housing Tilburg" groups on Facebook are active and can surface listings before they hit the main platforms

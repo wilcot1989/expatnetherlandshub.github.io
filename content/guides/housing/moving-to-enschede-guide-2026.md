@@ -188,7 +188,7 @@ Online platforms:
 - **Pararius** — rental platform with many professional listings
 - **UT Housing** — the University of Twente's own housing portal for affiliated staff and students
 
-<a href="https://ds1.nl/c/?si=447&li=26287&wi=418902&ws=&dl=" target="_blank" rel="noopener nofollow sponsored">Find rooms and apartments on Kamernet</a>
+<a href="https://go.expatnetherlandshub.com/kamernet?ref=/guides/housing/moving-to-enschede-guide-2026/" target="_blank" rel="noopener nofollow sponsored">Find rooms and apartments on Kamernet</a>
 
 For new arrivals without a Dutch guarantor or credit history, some landlords and agencies can be hesitant. The UT Housing service and larger management companies are more accustomed to international tenants and require less background documentation.
 
@@ -336,7 +336,7 @@ The city has a clear industrial and design heritage — the textile industry tha
 
 - [Gemeente Enschede: Registration and services](https://www.enschede.nl/en)
 - [University of Twente Housing](https://www.utwente.nl/en/housing/)
-- <a href="https://ds1.nl/c/?si=447&li=26287&wi=418902&ws=&dl=" target="_blank" rel="noopener nofollow sponsored">Kamernet: Rooms and apartments</a>
+- <a href="https://go.expatnetherlandshub.com/kamernet?ref=/guides/housing/moving-to-enschede-guide-2026/" target="_blank" rel="noopener nofollow sponsored">Kamernet: Rooms and apartments</a>
 - [Funda: Property portal](https://www.funda.nl)
 - [Kennispark Twente: Tech park jobs](https://www.kennispark.nl)
 - [FC Twente: Tickets and info](https://www.fctwente.nl)

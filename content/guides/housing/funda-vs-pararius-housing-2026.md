@@ -316,7 +316,7 @@ HousingAnywhere is a platform specifically designed for international students a
 
 The platform includes a verification system for both landlords and tenants, an online contract signing process, and rent payment through the platform. For expats arriving without furniture and needing a first accommodation for 3–6 months while they settle, HousingAnywhere fills a gap that neither Funda nor Pararius addresses well.
 
-<a href="https://ds1.nl/c/?si=447&li=26287&wi=418902&ws=&dl=" target="_blank" rel="noopener nofollow sponsored">Find short-stay furnished housing on HousingAnywhere →</a>
+<a href="https://housinganywhere.com/" target="_blank" rel="noopener nofollow">Find short-stay furnished housing on HousingAnywhere →</a>
 
 ### Kamernet
 
@@ -400,6 +400,6 @@ Yes, Funda covers both the rental (huur) and purchase (koop) markets. It is by f
 
 **Which platform is better for finding a room or shared housing?**
 
-Neither Funda nor Pararius focuses primarily on room rentals or shared housing. For rooms and house-shares, <a href="https://ds1.nl/c/?si=447&li=26287&wi=418902&ws=&dl=" target="_blank" rel="noopener nofollow sponsored">Kamernet</a> and HousingAnywhere are more suitable. Funda and Pararius are both geared towards self-contained apartments and houses. If you are a student or looking for a room in a shared flat, start with <a href="https://ds1.nl/c/?si=447&li=26287&wi=418902&ws=&dl=" target="_blank" rel="noopener nofollow sponsored">Kamernet</a> or HousingAnywhere instead, and use Pararius once you are ready for your own place.
+Neither Funda nor Pararius focuses primarily on room rentals or shared housing. For rooms and house-shares, <a href="https://go.expatnetherlandshub.com/kamernet?ref=/guides/housing/funda-vs-pararius-housing-2026/" target="_blank" rel="noopener nofollow sponsored">Kamernet</a> and HousingAnywhere are more suitable. Funda and Pararius are both geared towards self-contained apartments and houses. If you are a student or looking for a room in a shared flat, start with <a href="https://go.expatnetherlandshub.com/kamernet?ref=/guides/housing/funda-vs-pararius-housing-2026/" target="_blank" rel="noopener nofollow sponsored">Kamernet</a> or HousingAnywhere instead, and use Pararius once you are ready for your own place.
 
 

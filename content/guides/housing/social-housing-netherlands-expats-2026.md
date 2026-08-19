@@ -219,7 +219,7 @@ See the full [benefits guide for expats](/guides/finance/how-expats-claim-dutch-
 Given the reality of the Dutch housing market, here is what the evidence supports for different expat situations:
 
 **Short-term stay (0-3 years):**
-Register on WoningNet on arrival for free — it costs nothing and the waiting time accumulates — but do not count on it for your actual housing. Use [Kamernet](https://ds1.nl/c/?si=447&li=26287&wi=418902&ws=&dl=), Pararius, Funda, or a relocation agency for the private market. Budget realistically based on [actual rent levels](/guides/housing/cost-of-living-netherlands-2026/).
+Register on WoningNet on arrival for free — it costs nothing and the waiting time accumulates — but do not count on it for your actual housing. Use [Kamernet](https://go.expatnetherlandshub.com/kamernet?ref=/guides/housing/social-housing-netherlands-expats-2026/), Pararius, Funda, or a relocation agency for the private market. Budget realistically based on [actual rent levels](/guides/housing/cost-of-living-netherlands-2026/).
 
 **Medium-term stay (3-7 years):**
 Register on WoningNet in your city plus one or two other regional platforms. Simultaneously pursue private rental. If your income is below the ceiling and you plan to stay, social housing becomes more realistic in smaller cities after 4-6 years. Use the [housing budget checker](/tools/housing-budget-checker/) to understand what rent level makes financial sense for your situation.
@@ -230,7 +230,7 @@ Register on WoningNet immediately on arrival and maintain your registration cons
 **Income above €55,000:**
 Social housing is not legally available to you. Focus on the private middenhuur market and, if you plan to stay longer term, consider whether buying makes financial sense given Dutch mortgage accessibility for expats — read [buying vs renting in the Netherlands](/guides/housing/buying-vs-renting-netherlands-expats-2026/) and the [expat mortgage guide](/guides/housing/expat-mortgage-options-netherlands-2026/).
 
-For finding private rentals right now, <a href="https://ds1.nl/c/?si=447&li=26287&wi=418902&ws=&dl=" rel="noopener nofollow sponsored" class="cta-affiliate">Kamernet</a> is the largest Dutch platform for private rooms and apartments, with thousands of listings across all Dutch cities and English-language support. It is the first practical step while you build up social housing waiting time in the background.
+For finding private rentals right now, <a href="https://go.expatnetherlandshub.com/kamernet?ref=/guides/housing/social-housing-netherlands-expats-2026/" rel="noopener nofollow sponsored" class="cta-affiliate">Kamernet</a> is the largest Dutch platform for private rooms and apartments, with thousands of listings across all Dutch cities and English-language support. It is the first practical step while you build up social housing waiting time in the background.
 
 Before you start your search, read the [rental scams guide](/guides/housing/rental-scams-netherlands-expats-2026/) — the Dutch rental market has specific fraud patterns that catch unprepared expats, and knowing them in advance prevents serious financial harm.
 
@@ -268,7 +268,7 @@ A corporatiewoning is a social housing property managed by a woningcorporatie (h
 
 Social housing in the Netherlands is legally accessible to expats who meet the income ceiling and are registered in the BRP. The registration process via WoningNet or regional equivalents is free and takes about 15 minutes. The hard reality is that waiting times of 5-14 years in most desirable cities mean that social housing is not a near-term solution for most internationally mobile professionals.
 
-Register on WoningNet when you arrive — it costs nothing and you start building waiting time immediately. But plan your actual housing through the private market, focusing on the middenhuur segment if your income is in the €35,000-80,000 range. Use <a href="https://ds1.nl/c/?si=447&li=26287&wi=418902&ws=&dl=" rel="noopener nofollow sponsored" class="cta-affiliate">Kamernet</a> to search for private rentals now, check the [best cities for expats](/guides/housing/best-cities-netherlands-expats-2026/) if you have flexibility on location, and use the [housing budget checker](/tools/housing-budget-checker/) to make sure your target rent is financially realistic.
+Register on WoningNet when you arrive — it costs nothing and you start building waiting time immediately. But plan your actual housing through the private market, focusing on the middenhuur segment if your income is in the €35,000-80,000 range. Use <a href="https://go.expatnetherlandshub.com/kamernet?ref=/guides/housing/social-housing-netherlands-expats-2026/" rel="noopener nofollow sponsored" class="cta-affiliate">Kamernet</a> to search for private rentals now, check the [best cities for expats](/guides/housing/best-cities-netherlands-expats-2026/) if you have flexibility on location, and use the [housing budget checker](/tools/housing-budget-checker/) to make sure your target rent is financially realistic.
 
 For context on why the Dutch housing market is this tight and what is being done about it, the [Dutch housing crisis explained](/guides/housing/dutch-housing-crisis-explained-expats-2026/) is the next article to read.
 

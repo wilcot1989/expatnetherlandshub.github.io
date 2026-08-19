@@ -127,7 +127,7 @@ Pararius is a dedicated rental platform that is particularly popular with expats
 
 **Best for**: Expats looking for private-sector rentals in English.
 
-### 3. <a href="https://ds1.nl/c/?si=447&li=26287&wi=418902&ws=&dl=" target="_blank" rel="noopener nofollow sponsored">Kamernet</a> (kamernet.nl)
+### 3. <a href="https://go.expatnetherlandshub.com/kamernet?ref=/guides/housing/finding-housing-netherlands-expats-2026/" target="_blank" rel="noopener nofollow sponsored">Kamernet</a> (kamernet.nl)
 
 Kamernet specializes in room rentals, studios, and shared housing.
 
@@ -137,7 +137,7 @@ Kamernet specializes in room rentals, studios, and shared housing.
 
 **Best for**: Budget-conscious expats, students, or those looking for shared housing.
 
-<a href="https://ds1.nl/c/?si=447&li=26287&wi=418902&ws=&dl=" target="_blank" rel="noopener nofollow sponsored" class="cta-affiliate">Search Rooms on Kamernet →</a>
+<a href="https://go.expatnetherlandshub.com/kamernet?ref=/guides/housing/finding-housing-netherlands-expats-2026/" target="_blank" rel="noopener nofollow sponsored" class="cta-affiliate">Search Rooms on Kamernet →</a>
 
 ### 4. HousingAnywhere (housinganywhere.com)
 
@@ -308,7 +308,7 @@ Arriving in the Netherlands without permanent housing is stressful but sometimes
 
 - **Short-stay apartments**: HousingAnywhere, Holland2Stay, and The Student Hotel offer furnished short-term rentals
 - **Aparthotels**: Zoku, The Social Hub (formerly The Student Hotel), and Cityden offer monthly rates
-- **Subletting**: Facebook groups and <a href="https://ds1.nl/c/?si=447&li=26287&wi=418902&ws=&dl=" target="_blank" rel="noopener nofollow sponsored">Kamernet</a> sometimes have sublets available
+- **Subletting**: Facebook groups and <a href="https://go.expatnetherlandshub.com/kamernet?ref=/guides/housing/finding-housing-netherlands-expats-2026/" target="_blank" rel="noopener nofollow sponsored">Kamernet</a> sometimes have sublets available
 
 Temporary housing gives you time to search for a permanent place from within the Netherlands, which is significantly easier than searching from abroad.
 

@@ -125,7 +125,7 @@ Dutch housing for exchange students is the area where most people face problems.
 
 **Step 1: Check your host university's exchange housing.** Most universities reserve a limited number of rooms specifically for incoming exchange students. These are typically cheaper than the private market and come furnished. Apply immediately upon receiving your acceptance letter — not when you receive your visa confirmation.
 
-**Step 2: Use Kamernet.** If university housing is unavailable or full, <a href="https://ds1.nl/c/?si=447&li=26287&wi=418902&ws=&dl=" rel="noopener nofollow sponsored" class="cta-affiliate">Kamernet</a> is the largest Dutch platform for student room rentals. Many rooms are listed by landlords and existing tenants. Set up an alert so you are notified the moment a room in your target city is listed. Good listings in university cities disappear within hours.
+**Step 2: Use Kamernet.** If university housing is unavailable or full, <a href="https://go.expatnetherlandshub.com/kamernet?ref=/guides/legal/exchange-student-netherlands-guide-2026/" rel="noopener nofollow sponsored" class="cta-affiliate">Kamernet</a> is the largest Dutch platform for student room rentals. Many rooms are listed by landlords and existing tenants. Set up an alert so you are notified the moment a room in your target city is listed. Good listings in university cities disappear within hours.
 
 **Step 3: HousingAnywhere.** This international platform is specifically designed for students and young expats and allows you to book accommodation in advance from abroad, with secure payments and clear contracts.
 

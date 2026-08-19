@@ -278,14 +278,14 @@ International student housing provided directly by universities is typically res
 
 ### Private Market Solutions
 
-<a href="https://ds1.nl/c/?si=447&li=26287&wi=418902&ws=&dl=" rel="noopener nofollow sponsored" class="cta-affiliate">Kamernet</a> is the largest Dutch rental platform for private rooms and student accommodation. It lists thousands of shared houses, student apartments, and private studios across all Dutch student cities. Landlords post directly and students apply. The platform has a verification system to reduce scams (a persistent problem in this market — read the [rental scams guide](/guides/housing/rental-scams-netherlands-expats-2026/) before you start your search).
+<a href="https://go.expatnetherlandshub.com/kamernet?ref=/guides/legal/study-netherlands-university-guide-international-2026/" rel="noopener nofollow sponsored" class="cta-affiliate">Kamernet</a> is the largest Dutch rental platform for private rooms and student accommodation. It lists thousands of shared houses, student apartments, and private studios across all Dutch student cities. Landlords post directly and students apply. The platform has a verification system to reduce scams (a persistent problem in this market — read the [rental scams guide](/guides/housing/rental-scams-netherlands-expats-2026/) before you start your search).
 
 For fully furnished short-term stays while you search for a permanent room, HousingAnywhere is popular with international students and allows landlords to advertise in English. Read the [HousingAnywhere vs Kamernet vs Funda comparison](/guides/housing/housinganywhere-vs-kamernet-vs-funda-2026/) for a direct platform breakdown.
 
 **Practical housing strategy:**
 
 1. Apply for university-linked housing immediately when you receive your offer letter
-2. Simultaneously start searching on <a href="https://ds1.nl/c/?si=447&li=26287&wi=418902&ws=&dl=" rel="noopener nofollow sponsored" class="cta-affiliate">Kamernet</a> for private rooms
+2. Simultaneously start searching on <a href="https://go.expatnetherlandshub.com/kamernet?ref=/guides/legal/study-netherlands-university-guide-international-2026/" rel="noopener nofollow sponsored" class="cta-affiliate">Kamernet</a> for private rooms
 3. Book a short-term Airbnb or HousingAnywhere listing as a base for your first 2-4 weeks
 4. Arrive early (late August) before the September rush makes competition even fiercer
 5. Budget at least €600-900 per month for a private room in Amsterdam, Utrecht, Delft, or Leiden; €500-700 in Groningen, Maastricht, or Nijmegen
@@ -391,7 +391,7 @@ Once you have a BSN and address, ING and ABN AMRO have the most student-friendly
 
 **6-9 months before start:**
 - Follow up with university on admission decision
-- If admitted: begin private housing search on <a href="https://ds1.nl/c/?si=447&li=26287&wi=418902&ws=&dl=" rel="noopener nofollow sponsored" class="cta-affiliate">Kamernet</a>
+- If admitted: begin private housing search on <a href="https://go.expatnetherlandshub.com/kamernet?ref=/guides/legal/study-netherlands-university-guide-international-2026/" rel="noopener nofollow sponsored" class="cta-affiliate">Kamernet</a>
 - Non-EU students: apply for MVV / residence permit through IND (via university's IND liaison service or independently)
 
 **1-3 months before start:**
@@ -443,7 +443,7 @@ EU students can work without restriction. Non-EU students can work 16 hours per 
 
 Studying in the Netherlands is one of the best decisions many international students make — but the gap between expectation and reality, particularly on housing and finances, can turn a great opportunity into a stressful experience if you are not prepared.
 
-The key points to carry away: apply early (earlier than you think necessary for competitive programmes), start your housing search immediately on <a href="https://ds1.nl/c/?si=447&li=26287&wi=418902&ws=&dl=" rel="noopener nofollow sponsored" class="cta-affiliate">Kamernet</a> and HousingAnywhere the moment you submit your application, understand whether you qualify for the statutory tuition fee or will pay institutional rates, and build your financial buffer accordingly — particularly for the first expensive months in Amsterdam or Utrecht.
+The key points to carry away: apply early (earlier than you think necessary for competitive programmes), start your housing search immediately on <a href="https://go.expatnetherlandshub.com/kamernet?ref=/guides/legal/study-netherlands-university-guide-international-2026/" rel="noopener nofollow sponsored" class="cta-affiliate">Kamernet</a> and HousingAnywhere the moment you submit your application, understand whether you qualify for the statutory tuition fee or will pay institutional rates, and build your financial buffer accordingly — particularly for the first expensive months in Amsterdam or Utrecht.
 
 Use <a href="https://go.expatnetherlandshub.com/wise?ref=/guides/legal/study-netherlands-university-guide-international-2026/" rel="nofollow noopener sponsored" class="cta-affiliate" target="_blank">Wise</a> for managing money before your Dutch bank account is set up, and read the [student expat guide](/guides/legal/student-expat-guide-netherlands-2026/) for the full legal and administrative picture.
 
