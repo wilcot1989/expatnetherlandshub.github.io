@@ -2,7 +2,7 @@
 title: "Orientation Year Visa Netherlands 2026: Zoekjaar Complete Guide"
 description: "Complete guide to the Dutch orientation year visa (zoekjaar hoogopgeleiden) in 2026 — who qualifies, documents, the IND process, the transition to a knowledge migrant permit, and banking for the job search year."
 date: 2026-08-20
-lastmod: 2026-08-20T10:00:00+01:00
+lastmod: 2026-08-20T18:00:00+01:00
 author: "Sarah van den Berg"
 author_bio: "Expat coach and writer at ExpatNetherlandsHub.com"
 categories: ["visa"]
@@ -42,7 +42,7 @@ This guide is the one I wish had existed when I first started advising on the zo
 
 💡 *Related: [highly skilled migrant visa Netherlands 2026](/blog/highly-skilled-migrant-visa-netherlands-2026/), [BSN application guide for expats](/blog/expat-bsn-application-guide-2026/), [ZZP registration Netherlands step by step](/blog/zzp-registration-netherlands-step-by-step-2026/).*
 
-> **Quick answer:** The Dutch orientation year visa (zoekjaar hoogopgeleiden) is a one-year residence permit for graduates of Dutch universities or top-200 world universities who apply within three years of graduation. During the year you can work any job with no restrictions. If you find qualifying employment, you transition to a knowledge migrant (kennismigrant) permit — with a lower salary threshold of approximately €2,801/month in 2026. The IND fee is around €243. The 30% ruling only applies after you transition to the kennismigrant permit, not during the zoekjaar itself.
+> **Quick answer:** The Dutch orientation year visa (zoekjaar hoogopgeleiden) is a one-year residence permit for graduates of Dutch universities or top-200 world universities who apply within three years of graduation. During the year you can work any job with no restrictions. If you find qualifying employment, you transition to a knowledge migrant (kennismigrant) permit — with a reduced salary threshold of €3,122/month (IND figure valid 1 July – 31 December 2026; thresholds change every 1 January and 1 July, so check ind.nl). The IND fee is around €243. The 30% ruling only applies after you transition to the kennismigrant permit, not during the zoekjaar itself.
 
 ---
 
@@ -52,7 +52,7 @@ The *zoekjaar hoogopgeleiden* — literally "search year for highly educated per
 
 The rationale behind the visa is simple: the Netherlands wants to attract and retain internationally educated talent. Rather than requiring graduates to secure an employer before arriving, the orientation year gives them time to job search while being physically present in the country. Being present is a real advantage — Dutch hiring culture is heavily relationship and network based, and being locally available for face-to-face interviews, networking events, and informal conversations makes a significant difference compared to applying remotely from abroad.
 
-The visa is a bridge, not an endpoint. The goal is to use the year to secure employment that qualifies for a kennismigrant (knowledge migrant or highly skilled migrant) permit, which then gives you ongoing legal residence tied to that employment. If you find work during the orientation year, the transition to a kennismigrant permit is one of the smoothest processes in the Dutch immigration system — and because you are transitioning from a zoekjaar, you benefit from a reduced salary threshold of approximately €2,801/month rather than the standard €3,909 or €5,331.
+The visa is a bridge, not an endpoint. The goal is to use the year to secure employment that qualifies for a kennismigrant (knowledge migrant or highly skilled migrant) permit, which then gives you ongoing legal residence tied to that employment. If you find work during the orientation year, the transition to a kennismigrant permit is one of the smoothest processes in the Dutch immigration system — and because you are transitioning from a zoekjaar, you benefit from a reduced salary threshold of €3,122/month rather than the standard €4,357 (under 30) or €5,942 (30 and over) — IND figures valid 1 July – 31 December 2026, updated twice a year on ind.nl.
 
 For everything on the kennismigrant permit itself — salary thresholds, the recognised sponsor system, family rights, and permanent residency — see my [highly skilled migrant visa Netherlands 2026 guide](/blog/highly-skilled-migrant-visa-netherlands-2026/).
 
@@ -231,7 +231,7 @@ As a ZZP (sole proprietor), you pay BTW (VAT) quarterly and income tax annually 
 
 The whole point of the zoekjaar is to find employment that qualifies for the kennismigrant permit. When you do, the transition is one of the smoother processes in the Dutch immigration system.
 
-**The lower salary threshold:** because you are transitioning from a zoekjaar, the kennismigrant salary threshold is approximately **€2,801/month** (2026 approximate figure, excluding the 8% holiday allowance) rather than the standard €3,909 for under-30s or €5,331 for 30-and-over. This is a significant difference — it opens up entry-level professional roles that would not meet the standard threshold.
+**The lower salary threshold:** because you are transitioning from a zoekjaar, the kennismigrant salary threshold is **€3,122/month** (IND figure valid 1 July – 31 December 2026, excluding the 8% holiday allowance) rather than the standard €4,357 for under-30s or €5,942 for 30-and-over — the IND adjusts these amounts every 1 January and 1 July, so always confirm the current figure on ind.nl. This is a significant difference — it opens up entry-level professional roles that would not meet the standard threshold.
 
 **The process:**
 1. You find a qualifying employer (who must be a recognised sponsor — check the IND list)
@@ -273,7 +273,7 @@ If you reach the end of the orientation year without a kennismigrant-qualifying 
 - **Re-applying for the zoekjaar** is not an option — the permit is once per qualification
 - **Partner's residence** could be a basis if your partner has their own Dutch residence permit that covers family members
 
-Not finding a qualifying job is genuinely common in certain sectors. Fields like hospitality, arts, NGO work, and parts of education often do not reach the €2,801 salary threshold even for professional roles. Be clear-eyed early in the year about whether your target roles will qualify on salary, and adjust your search accordingly if they do not.
+Not finding a qualifying job is genuinely common in certain sectors. Fields like hospitality, arts, NGO work, and parts of education often do not reach the reduced salary threshold (€3,122/month, second half of 2026) even for professional roles. Be clear-eyed early in the year about whether your target roles will qualify on salary, and adjust your search accordingly if they do not.
 
 The orientation year is not the only path into Dutch employment — there are also sector-specific permits, intra-company transfer routes, and EU Blue Card provisions — but the zoekjaar is the most flexible for graduates, and transitioning to kennismigrant is by far the most straightforward outcome.
 
