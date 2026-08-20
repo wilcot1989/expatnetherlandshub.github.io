@@ -3,7 +3,7 @@
 {{/* JSON-LD is handled in baseof.html — no duplicates here */}}
 
 {{/* ── Collect content for homepage sections ── */}}
-{{ $allGuides := where .Site.RegularPages "Type" "guides" }}
+{{ $allGuides := where .Site.RegularPages "Type" "in" (slice "guides" "blog") }}
 {{ $latestGuides := first 6 ($allGuides.ByDate.Reverse) }}
 {{ $financeGuides := first 4 (where $allGuides ".Params.categories" "intersect" (slice "finance")).ByDate.Reverse }}
 {{ $healthGuides := first 4 (where $allGuides ".Params.categories" "intersect" (slice "health")).ByDate.Reverse }}
@@ -318,7 +318,7 @@
         </a>
         {{ end }}
       </div>
-      <div class="hub-more"><a href="/guides/" class="cta cta-outline-green">View all {{ len $allGuides }} guides &rarr;</a></div>
+      <div class="hub-more"><a href="/blog/" class="cta cta-outline-green">View all {{ len $allGuides }} guides &amp; articles &rarr;</a></div>
     </div>
 
     <!-- Finance tab -->
