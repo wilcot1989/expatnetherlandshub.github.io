@@ -1,7 +1,7 @@
 ---
 title: Work Permit Netherlands Non-EU Guide 2026
 date: 2026-03-18 10:00:00+01:00
-lastmod: 2026-04-23 10:00:00+01:00
+lastmod: 2026-08-21 10:00:00+02:00
 description: 'Dutch work permits for non-EU nationals in 2026: TWV vs GVVA explained, employer responsibilities, costs, timelines, and how to avoid common delays.'
 categories:
 - legal
@@ -109,9 +109,9 @@ The salary thresholds for 2026 are:
 
 | Category | Minimum gross monthly salary |
 |----------|------------------------------|
-| **Age 30 and over** | €5,331 (excl. 8% holiday allowance) |
-| **Under 30** | €3,909 |
-| **Recent Dutch university graduates** | €2,801 (orientation year) |
+| **Age 30 and over** | €5,942 (excl. 8% holiday allowance) |
+| **Under 30** | €4,357 |
+| **Reduced criterion (incl. recent Dutch graduates)** | €3,122 (orientation year) |
 | **Scientific researchers / EU Blue Card** | Separate criteria |
 
 If your salary meets this threshold and your employer is an IND-recognised sponsor, your employer applies for a kennismigrant residence permit — not a GVVA or TWV. Processing time is 2-4 weeks. This is the route I see most technology, finance, and professional services expats use.
@@ -415,7 +415,7 @@ The goal of the permit is to allow graduates to search for a suitable job or sta
 
 **Non-Dutch university graduates:** If you completed your degree abroad, you may also qualify — but only if your degree was awarded by a university ranked in the top 200 of a recognised global ranking (such as the QS World University Rankings or Times Higher Education). The IND assesses this on a case-by-case basis.
 
-**Age and salary requirements for highly skilled migrant follow-on:** Note that if you plan to transition from the orientation year to a kennismigrant (highly skilled migrant) permit, there is a reduced salary threshold specifically for recent Dutch graduates. In 2026 this is €2,801 per month gross — significantly lower than the standard threshold.
+**Age and salary requirements for highly skilled migrant follow-on:** Note that if you plan to transition from the orientation year to a kennismigrant (highly skilled migrant) permit, there is a reduced salary criterion specifically for recent Dutch graduates. From 1 July to 31 December 2026 this is €3,122 per month gross — significantly lower than the standard threshold. The IND revises the amount every six months ([required amounts](https://ind.nl/en/required-amounts-income-requirements), checked 21 August 2026).
 
 ### How to Apply
 
@@ -529,7 +529,7 @@ It depends on the nature of the internship. Unpaid internships (stages) that are
 
 | Your Situation | Recommended Route |
 |---------------|-------------------|
-| High salary (€5,331+/month, age 30+) with IND-recognised employer | Highly skilled migrant (kennismigrant) |
+| High salary (€5,942+/month, age 30+) with IND-recognised employer | Highly skilled migrant (kennismigrant) |
 | Regular employment, staying 90+ days | GVVA |
 | Short-term work under 90 days | TWV |
 | Posted worker from non-EU company | ICT permit or TWV |

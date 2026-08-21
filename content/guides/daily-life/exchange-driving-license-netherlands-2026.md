@@ -2,7 +2,7 @@
 title: Exchange Your Driving Licence in the Netherlands (2026)
 slug: exchange-driving-license-netherlands-2026
 date: 2026-04-09 10:00:00+01:00
-lastmod: 2026-04-23 10:00:00+01:00
+lastmod: 2026-08-21 10:00:00+02:00
 author: Sarah van den Berg
 author_bio: Expat coach and relocation specialist. Half Dutch, half British, living in the Netherlands for over 10 years.
 categories:
@@ -17,18 +17,20 @@ products:
 - name: NS
   url: https://www.ns.nl/
   price: '0.00'
-description: How to exchange your foreign driving licence in the Netherlands. EU and non-EU rules, documents, costs, and what to do if your country is not listed.
+description: How to exchange your foreign driving licence in the Netherlands. EU and non-EU rules, the short RDW designated-country list, documents, costs, and the 30% ruling route.
 faq:
 - q: Can I drive in the Netherlands on my foreign driving licence?
   a: Yes, but only temporarily. EU/EEA licence holders can drive indefinitely. Non-EU licence holders can drive for 185 days after registering in the Netherlands. After that, you must have exchanged your licence or passed the Dutch driving exam.
 - q: Which countries can exchange their driving licence without a Dutch driving exam?
-  a: Over 30 countries have an exchange agreement with the Netherlands, including the UK, USA, Canada, Australia, Japan, South Korea, and many others. If your country is on the list, you skip the theory and practical tests entirely.
+  a: 'The RDW list of designated countries outside the EU/EEA is short — 16 entries as published on rdw.nl (checked 21 August 2026): Andorra, the Canadian provinces of Alberta and Québec only, Gibraltar, Great Britain, Guernsey, the Isle of Man, Israel, Japan, Jersey, Monaco, Northern Ireland, Singapore, Chinese Taipei, South Korea, and the former Netherlands Antilles. The United States, Australia and Canada as a whole are not on it.'
+- q: Can Americans or Australians exchange their driving licence in the Netherlands?
+  a: 'Not on the country list — the United States and Australia are not designated countries. The route that does work is the 30% ruling: if you (or your partner) hold the 30% facility, the RDW allows you to exchange almost any valid foreign licence without taking the Dutch exams. Without the 30% ruling, you take the CBR theory and practical tests.'
 - q: How long does the driving licence exchange take in the Netherlands?
   a: Processing time is typically 4 to 8 weeks after you submit your application at the gemeente. During this period, you receive a temporary driving permit so you can still drive legally.
 - q: How much does it cost to exchange a driving licence in the Netherlands?
   a: The municipality fee is usually between €40 and €50. You also pay a national CBR/RDW fee of around €42. Total costs are typically €80–€100, though municipalities vary slightly.
 - q: What if my country is NOT on the exchange list?
-  a: You will need to pass the full Dutch driving exam — a theory test (theorie-examen) and a practical driving test (rijexamen) administered by the CBR. Most expats in this situation take a course of 10–20 lessons.
+  a: There are two routes. If you hold the 30% ruling (or are the family member of someone who does), the RDW lets you exchange your licence anyway, without tests. If you do not, you pass the full Dutch driving exam — a theory test (theorie-examen) and a practical driving test (rijexamen) at the CBR. Most expats in this situation take 10–20 lessons.
 tags:
 - driving licence
 - expat
@@ -92,50 +94,72 @@ The one thing that catches people out: you hand over your original foreign licen
 
 ---
 
-## Non-EU Licence Exchange (Recognised Countries)
+## Non-EU Licence Exchange (Designated Countries)
 
-The Netherlands has bilateral exchange agreements with over 30 countries outside the EU/EEA. If your country is on the list, you can exchange your licence without sitting any Dutch tests — exactly the same outcome as an EU exchange, just with slightly more paperwork.
+This is the part that trips up more expats than anything else in this guide, because the internet is full of outdated claims about "over 30 countries" having an exchange agreement with the Netherlands. The actual RDW list of designated countries (*aangewezen landen*) outside the EU/EEA is much shorter than that.
 
-### Countries on the exchange list (as of 2026)
+### The RDW designated-country list
 
-The following non-EU countries have an exchange agreement with the Netherlands:
+As published on the RDW's own page on [exchanging a foreign driving licence](https://www.rdw.nl/en/driving-licence/foreign-driving-licence/exchanging-a-foreign-driving-licence) and checked on **21 August 2026**, the list has 16 entries:
 
-- **Americas:** United States, Canada
-- **Oceania:** Australia, New Zealand
-- **Asia:** Japan, South Korea, Taiwan, Singapore, Hong Kong, Israel
-- **Europe (non-EEA):** United Kingdom, Switzerland, Serbia, North Macedonia, Bosnia and Herzegovina, Kosovo
-- **Africa/Middle East:** South Africa, Zimbabwe, Morocco, Tunisia, Cape Verde, Suriname, Aruba, Curaçao, Sint Maarten, Bonaire, Saba, Sint Eustatius
-- **Other:** Andorra, Monaco, San Marino, Vatican City
+- Andorra
+- Alberta (Canada — this province only)
+- Québec (Canada — this province only)
+- Gibraltar
+- Great Britain
+- Guernsey
+- Isle of Man
+- Israel
+- Japan
+- Jersey
+- Monaco
+- Northern Ireland
+- Singapore
+- Chinese Taipei
+- South Korea
+- The former Netherlands Antilles
 
-The RDW (the Dutch vehicle authority) maintains the official and current version of this list. I strongly recommend checking the [RDW website](https://www.rdw.nl) directly before your appointment, as agreements can be updated.
+If your licence was issued in one of those places, you can exchange it at the gemeente without sitting any Dutch test — the same outcome as an EU exchange, just with slightly more paperwork.
 
-For UK licence holders specifically: the exchange agreement has remained in place post-Brexit. The process works the same way it did before; the UK is treated as a recognised non-EU country.
+### What is explicitly not on the list
 
-**The exchange process for recognised non-EU countries is identical to the EU process** described above. You book at the gemeente, bring your documents, hand over your original licence, and wait for your Dutch rijbewijs.
+Three assumptions cause the most disappointment at the gemeente desk:
+
+- **The United States is not on the list.** No state qualifies. See my [guide to moving to the Netherlands from the USA](/guides/legal/moving-to-netherlands-from-usa-2026/), which walks through the 30% ruling route described below.
+- **Australia is not on the list.** Neither is New Zealand.
+- **Canada is only partly on the list.** Alberta and Québec qualify; a licence from Ontario, British Columbia or any other province does not.
+
+Also not designated, despite frequently appearing on expat forums: Switzerland, South Africa, Taiwan-as-"Taiwan" (the RDW uses "Chinese Taipei"), Hong Kong, Morocco, Turkey, Serbia, San Marino and Vatican City.
+
+For UK licence holders: **Great Britain and Northern Ireland are both on the list**, and that survived Brexit — as do Gibraltar, Guernsey, Jersey and the Isle of Man, which the RDW lists separately.
+
+### The 30% ruling route for everyone else
+
+There is a second, much less well-known route that does not depend on the country list at all. If you hold the 30% ruling — the Dutch tax facility for incoming employees with specific expertise — or you are the partner or family member of someone who does, the RDW allows you to exchange a valid foreign driving licence without taking the Dutch theory and practical exams, regardless of where it was issued.
+
+This is why so many American, Australian and Indian expats in Amsterdam have a Dutch licence without ever having sat a CBR exam: they exchanged under the 30% facility, not under a country agreement. The gemeente will ask for evidence of the ruling (the Belastingdienst decision letter, or a statement from your employer). If you are in the middle of a relocation and the 30% ruling is on the table, this is a real, concrete reason to get it applied for early.
+
+Two caveats worth knowing before you count on it. The exchange has to happen while the ruling applies to you, and the licence you hand in must still be valid — an expired foreign licence cannot be exchanged under any route.
+
+The RDW maintains the authoritative version of both the country list and the 30% ruling conditions, and it does change. Check the [RDW exchange page](https://www.rdw.nl/en/driving-licence/foreign-driving-licence/exchanging-a-foreign-driving-licence) yourself before you book, rather than trusting a list in a blog post — including this one.
+
+**The exchange process for designated countries and 30% ruling holders is identical to the EU process** described above. You book at the gemeente, bring your documents, hand over your original licence, and wait for your Dutch rijbewijs.
 
 One difference worth noting: some municipalities are less experienced with non-EU exchanges and may require additional verification. If a clerk seems uncertain, ask them to consult the RDW directly. You have every right to do this.
 
 ---
 
-## Countries NOT on the Exchange List — What Then?
+## Not on the List and No 30% Ruling — What Then?
 
-If your licence was issued by a country without an agreement with the Netherlands, there is no shortcut. You will need to pass the full Dutch driving exam.
+If your licence was issued outside the EU/EEA, your country is not one of the 16 designated entries, and you do not have the 30% ruling, there is no shortcut. You will need to pass the full Dutch driving exam.
 
-I know. It is not what anyone wants to hear.
+I know. It is not what anyone wants to hear — particularly if you have been driving for twenty years.
 
 The good news is that you are still allowed to drive on your foreign licence for those 185 days, giving you time to prepare. And in practice, most expats with driving experience find the process manageable — it just takes time and money.
 
-### Countries commonly NOT on the list (check RDW for current status)
+Because the designated list is so short, this is the default situation for most non-EU expats, including licence holders from the United States, Australia, New Zealand, Canada outside Alberta and Québec, India, China, Brazil, South Africa, Turkey, Switzerland and almost everywhere else. If you fall into this group, the single most valuable thing to check first is whether the 30% ruling applies to you or your partner, because that decides whether you spend an afternoon at the gemeente or several months at a driving school.
 
-- India, Pakistan, Bangladesh, Sri Lanka
-- China (mainland), Indonesia, Thailand, Philippines
-- Brazil, Mexico, Colombia, Argentina
-- Egypt, Nigeria, Kenya, Ghana
-- Russia, Ukraine, Turkey
-
-Again, verify with the RDW directly. The list changes, and some countries that were not on it in 2024 may have been added.
-
-If your country is not listed, skip ahead to the section on the Dutch driving exam.
+If neither route is open to you, skip ahead to the section on the Dutch driving exam.
 
 ---
 
@@ -206,7 +230,7 @@ Your new Dutch licence will arrive by post to your registered address. This is o
 
 ## The Dutch Driving Exam (If You Need It)
 
-If your country is not on the exchange list, you will need to pass the Dutch driving exam administered by the CBR (Centraal Bureau Rijvaardigheidsbewijzen).
+If your country is not one of the RDW's designated countries and you cannot exchange under the 30% ruling, you will need to pass the Dutch driving exam administered by the CBR (Centraal Bureau Rijvaardigheidsbewijzen).
 
 The exam has two parts:
 
@@ -235,7 +259,7 @@ You are not required to take lessons before the practical test, but almost all e
 - Practical test: ~€130
 - Lessons: typically €50–€70 per lesson × 10–20 lessons
 
-It adds up, but there is no way around it if your country is not on the exchange list.
+It adds up, but there is no way around it if neither the designated-country list nor the 30% ruling applies to you.
 
 One practical tip: if you are going down this route, consider using public transport and cycling while you prepare. The Netherlands has exceptional [OV-chipkaart public transport coverage](/guides/daily-life/ov-chipkaart-guide-expats-2026/) and the [cycling culture is unlike anywhere else](/guides/daily-life/cycling-netherlands-expat-guide-2026/). Many expats discover they barely need a car at all, particularly in urban areas.
 
@@ -247,7 +271,7 @@ An International Driving Permit is a document that translates your licence detai
 
 **Do you need one for the Netherlands?**
 
-Not if you have an EU licence. Not if your licence is in Roman script and your country is on the exchange list.
+Not if you have an EU licence. Not if your licence is in Roman script and you are exchanging it as a designated-country or 30% ruling holder.
 
 You may be asked to show an IDP if:
 
@@ -266,8 +290,8 @@ After years of helping expats through this process, these are the errors I see m
 **1. Waiting too long to start**
 The 185-day rule catches people off guard. Mark the date of your municipality registration on your calendar and start the licence exchange process within the first month. Do not wait.
 
-**2. Not checking the exchange list before making plans**
-Some expats assume their country will be on the list (it may not be) or assume it will not be (it might have been added). Check the RDW website directly.
+**2. Assuming your country is on the exchange list**
+This is the big one. The list has 16 entries, not "over 30 countries", and the United States, Australia and most of Canada are not among them. Check the RDW page directly, and check whether the 30% ruling gives you an alternative route.
 
 **3. Bringing an untranslated licence**
 If your licence is not in Roman script, bring a certified translation. Turning up without one means a wasted appointment and a fresh wait for the next slot.
@@ -290,9 +314,9 @@ Each gemeente has slightly different procedures, slightly different forms, and s
 
 Exchanging your driving licence is one of those relocation tasks that sounds more daunting than it is — as long as you start on time and have the right documents. The biggest mistake is inaction. The clock starts when you register at the gemeente, not when you feel ready.
 
-If your country is on the exchange list, the whole process is manageable in a single municipality appointment plus a few weeks of waiting. If you need the full Dutch exam, budget several months and take proper lessons. Either way, it is entirely doable.
+If your licence is from a designated country, or you can exchange under the 30% ruling, the whole process is manageable in a single municipality appointment plus a few weeks of waiting. If you need the full Dutch exam, budget several months and take proper lessons. Either way, it is entirely doable.
 
-The one thing to do first: check the [RDW exchange list](https://www.rdw.nl) to confirm whether your country is on it. That single check determines your entire path — either a gemeente appointment and a few weeks' wait, or a CBR exam that takes months to prepare for. Once you know which route you are on, book your gemeente appointment immediately. Waiting lists in larger cities run two to four weeks, and the 185-day clock does not pause while you wait.
+The one thing to do first: check the [RDW exchange page](https://www.rdw.nl/en/driving-licence/foreign-driving-licence/exchanging-a-foreign-driving-licence) to confirm whether your licence qualifies, either through the designated-country list or the 30% ruling. That single check determines your entire path — either a gemeente appointment and a few weeks' wait, or a CBR exam that takes months to prepare for. Once you know which route you are on, book your gemeente appointment immediately. Waiting lists in larger cities run two to four weeks, and the 185-day clock does not pause while you wait.
 
 For related expat admin, I recommend my guides on [getting your BSN number](/guides/legal/bsn-registration-guide-2026/), [setting up DigiD](/guides/legal/digid-guide-expats-2026/), and [registering your car](/guides/daily-life/register-car-netherlands-expat-2026/). And if you are still working through the financial side of settling in, the [cost of living guide for the Netherlands](/guides/housing/cost-of-living-netherlands-2026/) is a useful reference.
 
@@ -306,7 +330,7 @@ Good luck — and enjoy the roads (when they are not clogged with cycling lanes,
 
 Exchanging your driving licence in the Netherlands is not expensive — but the costs add up when you include everything.
 
-**If your country is on the exchange list:**
+**If you can exchange (designated country or 30% ruling):**
 - Municipality (gemeente) application fee: approximately EUR 40–55
 - Passport-style photo: EUR 5–10 at a photo booth
 - Certified translation (if your licence is not in a Roman alphabet or is in a less common language): EUR 50–100

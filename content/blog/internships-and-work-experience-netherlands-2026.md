@@ -2,7 +2,7 @@
 title: "Internships and Work Experience in the Netherlands 2026: Stagevergoeding, BSN, and the International Student Guide"
 description: "Complete 2026 guide to internships in the Netherlands for international students. Average stagevergoeding, BSN process, non-EU rules, and how to find a stage."
 date: "2026-08-28"
-lastmod: "2026-08-28T10:00:00+01:00"
+lastmod: 2026-08-21 10:00:00+02:00
 author: "Sarah van den Berg"
 author_bio: "Expat coach and writer at ExpatNetherlandsHub.com"
 categories: ["work-career"]
@@ -120,7 +120,7 @@ This is why the stage-overeenkomst matters so much. Without it, your employer is
 
 For students on the [orientation year visa (zoekjaar)](/blog/orientation-year-visa-netherlands-2026/), the rules are different and much more permissive — you can work and intern freely without a TWV, which is one of the reasons the zoekjaar is such a powerful bridge into the Dutch labor market. If you're approaching the end of your studies and considering staying, this is the visa to know about.
 
-If your stage leads to a job offer and you're hoping to stay, the [highly skilled migrant visa](/blog/highly-skilled-migrant-visa-netherlands-2026/) is usually the route. The salary thresholds for 2026 are €5,331/month for migrants under 30 and €7,273/month over 30 (gross, excluding holiday pay) — high but very achievable in tech and consulting. The IND publishes current thresholds at [ind.nl](https://www.ind.nl/).
+If your stage leads to a job offer and you're hoping to stay, the [highly skilled migrant visa](/blog/highly-skilled-migrant-visa-netherlands-2026/) is usually the route. The salary thresholds for the second half of 2026 are €4,357/month for migrants under 30 and €5,942/month for those aged 30 and over (gross, excluding holiday pay; ind.nl, checked 21 August 2026, revised every six months) — high but very achievable in tech and consulting. The IND publishes current thresholds at [ind.nl](https://www.ind.nl/).
 
 ## EU/EEA student rules: much simpler
 

@@ -39,7 +39,7 @@ schema_type: Article
 "name": "What is the HSM salary threshold for 2026 in the Netherlands?",
 "acceptedAnswer": {
 "@type": "Answer",
-"text": "In 2026, the highly skilled migrant (kennismigrant) salary thresholds are: €5,331 per month for applicants aged 30 and older, €3,909 per month for those under 30, and €3,909 per month for scientific researchers regardless of age. Orientation year graduates need a minimum of €2,801 per month. All amounts are gross, excluding holiday allowance."
+"text": "From 1 July to 31 December 2026, the highly skilled migrant (kennismigrant) salary thresholds are €5,942 per month for applicants aged 30 and older and €4,357 per month for those under 30. A reduced criterion of €3,122 per month applies to orientation year graduates. Scientific researchers under Directive (EU) 2016/801 have no fixed minimum, but the salary must be adequate. All amounts are gross, excluding holiday allowance. Source: ind.nl/en/required-amounts-income-requirements, checked 21 August 2026; the IND revises the amounts every six months, on 1 January and 1 July."
 }
 },
 {
@@ -55,7 +55,7 @@ schema_type: Article
 "name": "How does the 30% ruling affect the HSM salary threshold?",
 "acceptedAnswer": {
 "@type": "Answer",
-"text": "If you have or will apply for the 30% ruling, the IND applies a reduced threshold. For those aged 30 and older, the effective threshold is €3,732 per month (€5,331 × 70%). For those under 30, it is €2,736 per month (€3,909 × 70%). This is because 30% of your salary is treated as a tax-free expense allowance."
+"text": "The 30% ruling does not lower the IND salary threshold. The IND assesses your full contractual gross salary, so the tax-free component still counts toward the threshold. The 30% ruling has its own separate income condition, set by the Belastingdienst, and the two checks are independent — you can meet one and fail the other."
 }
 },
 {
@@ -71,7 +71,7 @@ schema_type: Article
 "name": "What is the difference between the regular HSM permit and the orientation year permit?",
 "acceptedAnswer": {
 "@type": "Answer",
-"text": "The regular highly skilled migrant permit requires meeting the standard salary threshold (€5,331 for 30+ or €3,909 for under 30 in 2026). The orientation year (zoekjaar/oriëntatiejaar) permit is for graduates who recently finished a degree at a Dutch or top-100 international university. The salary threshold is lower at €2,801 per month, giving graduates time to find a suitable position."
+"text": "The regular highly skilled migrant permit requires meeting the standard salary threshold (€5,942 for 30+ or €4,357 for under 30, valid 1 July to 31 December 2026). The orientation year (zoekjaar/oriëntatiejaar) permit is for graduates who recently finished a degree at a Dutch or top-100 international university. The reduced criterion is lower at €3,122 per month, giving graduates time to find a suitable position."
 }
 },
 {
@@ -815,7 +815,7 @@ line-height: 1.7;
 <div class="toggle-row">
 <div>
 <div class="toggle-label-text">Do you have (or will you apply for) the 30% ruling?</div>
-<div class="toggle-label-sub">Reduces the applicable salary threshold</div>
+<div class="toggle-label-sub">Does not change the IND threshold &mdash; shown for context only</div>
 </div>
 <label class="toggle-switch" aria-label="Toggle: 30% ruling">
 <input type="checkbox" id="has30ruling">
@@ -866,32 +866,32 @@ line-height: 1.7;
 <!-- SIDEBAR -->
 <aside aria-label="Quick reference thresholds">
 <div class="card sidebar-card">
-<h2>2026 HSM Thresholds</h2>
+<h2>HSM Thresholds (1 Jul&ndash;31 Dec 2026)</h2>
 <ul class="threshold-list" aria-label="Salary thresholds by category">
 <li>
 <span class="th-label">30 or older</span>
-<span class="th-value">&euro;5,331/mo</span>
+<span class="th-value">&euro;5,942/mo</span>
 </li>
 <li>
 <span class="th-label">Under 30</span>
-<span class="th-value">&euro;3,909/mo</span>
+<span class="th-value">&euro;4,357/mo</span>
+</li>
+<li>
+<span class="th-label">Reduced criterion</span>
+<span class="th-value">&euro;3,122/mo</span>
 </li>
 <li>
 <span class="th-label">Scientific researcher</span>
-<span class="th-value">&euro;3,909/mo</span>
-</li>
-<li>
-<span class="th-label">Orientation year</span>
-<span class="th-value">&euro;2,801/mo</span>
+<span class="th-value">No fixed minimum</span>
 </li>
 </ul>
 <p class="sidebar-source">
-Source: <a href="https://ind.nl/en/work/working_in_the_Netherlands/Pages/Highly-skilled-migrants.aspx" target="_blank" rel="noopener noreferrer">IND.nl</a> &bull; Effective 1 Jan 2026 &bull; Excl. holiday allowance
+Source: <a href="https://ind.nl/en/required-amounts-income-requirements" target="_blank" rel="noopener noreferrer">IND required amounts</a> &bull; Valid 1 Jul&ndash;31 Dec 2026, checked 21 Aug 2026 &bull; Excl. holiday allowance &bull; Revised every six months
 </p>
 
 <div class="sidebar-tip">
 <strong>With 30% ruling?</strong>
-Threshold drops to &euro;3,732/mo (30+) or &euro;2,736/mo (&lt;30). The IND taxes only 70% of your salary.
+The threshold does not change. The IND assesses your full contractual gross salary; the 30% ruling has its own separate income condition at the Belastingdienst.
 </div>
 </div>
 
@@ -928,27 +928,27 @@ HSM Visa Guide 2026 <span class="cta-arrow">&rarr;</span>
 <tbody>
 <tr>
 <td class="bold">Regular HSM, age 30+</td>
-<td class="bold">&euro;5,331</td>
-<td>&euro;63,972</td>
+<td class="bold">&euro;5,942</td>
+<td>&euro;71,304</td>
 <td>Excl. holiday allowance</td>
 </tr>
 <tr>
 <td class="bold">Regular HSM, under 30</td>
-<td class="bold">&euro;3,909</td>
-<td>&euro;46,908</td>
+<td class="bold">&euro;4,357</td>
+<td>&euro;52,284</td>
+<td>Excl. holiday allowance</td>
+</tr>
+<tr>
+<td class="bold">Reduced criterion (incl. orientation year graduate)</td>
+<td class="bold">&euro;3,122</td>
+<td>&euro;37,464</td>
 <td>Excl. holiday allowance</td>
 </tr>
 <tr>
 <td class="bold">Scientific researcher</td>
-<td class="bold">&euro;3,909</td>
-<td>&euro;46,908</td>
-<td>Any age; EU Directive</td>
-</tr>
-<tr>
-<td class="bold">Orientation year graduate</td>
-<td class="bold">&euro;2,801</td>
-<td>&euro;33,612</td>
-<td>Excl. holiday allowance</td>
+<td class="bold">No fixed minimum</td>
+<td>&mdash;</td>
+<td>Directive (EU) 2016/801; salary must be adequate</td>
 </tr>
 </tbody>
 </table>
@@ -959,21 +959,20 @@ HSM Visa Guide 2026 <span class="cta-arrow">&rarr;</span>
 <p>In the Netherlands, employers are legally required to pay at least 8% of your annual gross salary as holiday allowance (vakantiegeld). This is typically paid in May or June, but some employers spread it across 12 monthly payments by rolling it into the monthly salary figure.</p>
 <p>If your contract states that your salary is <strong>inclusive of holiday allowance</strong>, your effective base salary is lower than the stated amount. To compare against the IND threshold, divide your monthly salary by 1.08. For example:</p>
 <ul>
-<li>Stated salary: &euro;5,757/month (incl. holiday allowance)</li>
-<li>Effective base salary: &euro;5,757 / 1.08 = <strong>&euro;5,330/month</strong></li>
-<li>Required for 30+: &euro;5,331 &mdash; <strong>just short!</strong></li>
+<li>Stated salary: &euro;6,416/month (incl. holiday allowance)</li>
+<li>Effective base salary: &euro;6,416 / 1.08 = <strong>&euro;5,941/month</strong></li>
+<li>Required for 30+: &euro;5,942 &mdash; <strong>just short!</strong></li>
 </ul>
 <p>This is a common trap. Many applicants assume their total pay qualifies, not realising the IND strips out the holiday allowance component before comparing. Our checker handles this automatically when you toggle "including holiday allowance".</p>
 
 <h2>The 30% ruling and HSM threshold</h2>
 <p>The <a href="/guides/finance/30-percent-ruling-netherlands-2026/">30% ruling</a> is a Dutch tax incentive for highly skilled migrants recruited from abroad. Under this scheme, 30% of your gross salary is treated as a tax-free expense allowance, significantly boosting your net take-home pay.</p>
-<p>The IND recognises the 30% ruling when assessing the salary threshold. Because only 70% of your salary is effectively "wage", the threshold is also reduced to 70%:</p>
+<p>A widespread myth says the IND drops your salary threshold to 70% if you have the 30% ruling. It does not. The IND assesses the <strong>full contractual gross salary</strong> in your employment contract, and the part paid out as a tax-free allowance still counts toward the threshold. The two systems run independently:</p>
 <ul>
-<li>Age 30+: &euro;5,331 &times; 70% = <strong>&euro;3,732/month</strong></li>
-<li>Under 30: &euro;3,909 &times; 70% = <strong>&euro;2,736/month</strong></li>
-<li>Scientific researcher: &euro;3,909 &times; 70% = <strong>&euro;2,736/month</strong></li>
-<li>Orientation year: &euro;2,801 &times; 70% = <strong>&euro;1,961/month</strong></li>
+<li><strong>IND check:</strong> your gross contractual monthly salary against the kennismigrant threshold (&euro;5,942 for 30+, &euro;4,357 for under 30, 1 Jul&ndash;31 Dec 2026)</li>
+<li><strong>Belastingdienst check:</strong> a separate minimum taxable-salary condition for the 30% ruling itself</li>
 </ul>
+<p>It is entirely possible to qualify for one and not the other, which is why you should confirm both before signing.</p>
 <p>Important: the 30% ruling must be applied for separately. Your employer submits the application to the Dutch Tax Authority (Belastingdienst). You can apply retroactively within four months of starting your job. Use our <a href="/tools/30-percent-ruling-calculator/">30% ruling calculator</a> to estimate how much you can save.</p>
 
 <h2>How to apply for an HSM visa: step by step</h2>
@@ -993,7 +992,7 @@ HSM Visa Guide 2026 <span class="cta-arrow">&rarr;</span>
 <details>
 <summary>What is the HSM salary threshold for 2026 in the Netherlands?</summary>
 <div class="faq-answer">
-<p>In 2026, the highly skilled migrant (kennismigrant) salary thresholds are: <strong>&euro;5,331 per month</strong> for applicants aged 30 and older, <strong>&euro;3,909 per month</strong> for those under 30, and <strong>&euro;3,909 per month</strong> for scientific researchers regardless of age. Orientation year graduates need a minimum of <strong>&euro;2,801 per month</strong>. All amounts are gross, excluding holiday allowance.</p>
+<p>From 1 July to 31 December 2026, the highly skilled migrant (kennismigrant) salary thresholds are <strong>&euro;5,942 per month</strong> for applicants aged 30 and older and <strong>&euro;4,357 per month</strong> for those under 30. Scientific researchers under Directive (EU) 2016/801 have no fixed minimum. Orientation year graduates fall under the reduced criterion of <strong>&euro;3,122 per month</strong>. All amounts are gross, excluding holiday allowance.</p>
 </div>
 </details>
 
@@ -1007,7 +1006,7 @@ HSM Visa Guide 2026 <span class="cta-arrow">&rarr;</span>
 <details>
 <summary>How does the 30% ruling affect the HSM salary threshold?</summary>
 <div class="faq-answer">
-<p>If you have or will apply for the 30% ruling, the IND applies a reduced threshold. For those aged 30 and older, the effective threshold is <strong>&euro;3,732 per month</strong> (&euro;5,331 &times; 70%). For those under 30, it is <strong>&euro;2,736 per month</strong> (&euro;3,909 &times; 70%). This is because 30% of your salary is treated as a tax-free expense allowance, so only 70% counts as taxable wage.</p>
+<p>No. The IND does not apply a reduced threshold to 30% ruling holders: it assesses your full contractual gross salary, tax-free component included. The 30% ruling carries its own separate minimum taxable-salary condition at the Belastingdienst, and the two checks are independent. This is one of the most common pieces of misinformation about the kennismigrant permit. Note also that 30% of your salary being treated as a tax-free expense allowance, so only 70% counts as taxable wage.</p>
 </div>
 </details>
 
@@ -1021,7 +1020,7 @@ HSM Visa Guide 2026 <span class="cta-arrow">&rarr;</span>
 <details>
 <summary>What is the difference between the regular HSM permit and the orientation year permit?</summary>
 <div class="faq-answer">
-<p>The regular highly skilled migrant permit requires meeting the standard salary threshold (&euro;5,331 for 30+ or &euro;3,909 for under 30 in 2026). The <strong>orientation year (zoekjaar/oriëntatiejaar)</strong> permit is for graduates who recently finished a degree at a Dutch or top-100 internationally ranked university. The salary threshold is lower at &euro;2,801 per month, giving graduates time to find a qualifying position before transitioning to a full HSM permit.</p>
+<p>The regular highly skilled migrant permit requires meeting the standard salary threshold (&euro;5,942 for 30+ or &euro;4,357 for under 30, valid 1 July to 31 December 2026). The <strong>orientation year (zoekjaar/oriëntatiejaar)</strong> permit is for graduates who recently finished a degree at a Dutch or top-100 internationally ranked university. The salary threshold is lower at &euro;3,122 per month, giving graduates time to find a qualifying position before transitioning to a full HSM permit.</p>
 </div>
 </details>
 
@@ -1053,11 +1052,14 @@ HSM Visa Guide 2026 <span class="cta-arrow">&rarr;</span>
 <script>
 // ── Thresholds 2026 ──
 const THRESHOLDS = {
-regular_30plus:  { normal: 5331, with30ruling: 3732 },
-regular_under30: { normal: 3909, with30ruling: 2736 },
-bluecard:        { normal: 6245, with30ruling: 4372 },
+// IND required amounts, valid 1 Jul-31 Dec 2026 (ind.nl/en/required-amounts-income-requirements,
+// checked 21 Aug 2026). Revised every six months, on 1 Jan and 1 Jul.
+// The 30% ruling does NOT lower the IND threshold: the IND assesses full contractual gross salary.
+regular_30plus:  { normal: 5942, with30ruling: 5942 },
+regular_under30: { normal: 4357, with30ruling: 4357 },
+bluecard:        { normal: 5942, with30ruling: 5942 },
 researcher:      { normal: 0,    with30ruling: 0 },
-orientation:     { normal: 2801, with30ruling: 1961 }
+orientation:     { normal: 3122, with30ruling: 3122 }
 };
 
 // ── Format currency ──
@@ -1201,14 +1203,9 @@ if (!r.passes) {
 tipBox.style.display = 'block';
 let tipContent = '';
 if (!r.has30ruling && r.thresholdKey !== 'orientation') {
-const reducedThreshold = r.thresholdSet.with30ruling;
-if (r.monthly >= reducedThreshold) {
-tipContent = `<strong>Tip:</strong> With the 30% ruling, the applicable threshold drops to ${formatEur(reducedThreshold)}/month \u2014 and your salary <strong>would qualify</strong>. Ask your employer about applying for the 30% ruling. <a href="/tools/30-percent-ruling-calculator/">Calculate your benefit \u2192</a>`;
-} else {
-tipContent = `<strong>Tip:</strong> With the 30% ruling, the threshold drops to ${formatEur(reducedThreshold)}/month. Your salary is still ${formatEur(reducedThreshold - r.monthly)} below that level. You need a salary increase of at least ${formatEur(r.applicableThreshold - r.monthly)}/month to qualify without the ruling.`;
-}
+tipContent = `<strong>Tip:</strong> You need a salary increase of at least ${formatEur(Math.abs(r.margin))}/month to reach the ${formatEur(r.applicableThreshold)}/month threshold. Note that the 30% ruling does <strong>not</strong> lower this threshold \u2014 the IND assesses your full contractual gross salary. <a href="/tools/30-percent-ruling-calculator/">Calculate your 30% ruling benefit \u2192</a>`;
 } else if (r.has30ruling) {
-tipContent = `<strong>Note:</strong> These figures already reflect the reduced threshold with the 30% ruling applied. You need a salary increase of at least ${formatEur(Math.abs(r.margin))}/month to qualify.`;
+tipContent = `<strong>Note:</strong> The 30% ruling does not reduce the IND threshold, so the ${formatEur(r.applicableThreshold)}/month figure still applies. You need a salary increase of at least ${formatEur(Math.abs(r.margin))}/month to qualify.`;
 } else {
 tipContent = `<strong>Tip:</strong> The orientation year threshold is ${formatEur(r.applicableThreshold)}/month. You need ${formatEur(Math.abs(r.margin))} more per month to qualify.`;
 }

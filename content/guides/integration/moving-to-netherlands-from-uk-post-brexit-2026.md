@@ -1,7 +1,7 @@
 ---
 title: Moving to NL from UK Post-Brexit 2026
 date: 2026-03-18 10:00:00+01:00
-lastmod: 2026-08-19 10:00:00+01:00
+lastmod: 2026-08-21 10:00:00+02:00
 description: Post-Brexit guide for British expats in the Netherlands 2026. Visa options, driving licence, healthcare, banking, pension, and tax explained.
 categories:
 - integration
@@ -24,19 +24,19 @@ author_bio: Expat coach and relocation specialist. Half Dutch, half British, liv
 featured_image: /images/categories/integration.svg
 faq:
 - q: Do British citizens need a visa to move to the Netherlands after Brexit?
-  a: 'Yes. Since January 2021 when the Brexit transition period ended, British citizens are treated as third-country nationals for immigration purposes in the Netherlands. You are no longer entitled to free movement. The specific visa you need depends on why you are moving: DAFT (Dutch-American Friendship Treaty, which also applies to British nationals) for self-employment, an HSM (Highly Skilled Migrant) permit for employed work, or a partner/family visa if moving to join a Dutch or EU/EEA partner. You must apply before arriving — you cannot enter as a tourist and then change status.'
+  a: 'Yes. Since January 2021 when the Brexit transition period ended, British citizens are treated as third-country nationals for immigration purposes in the Netherlands. You are no longer entitled to free movement. The specific route depends on why you are moving: the self-employed residence permit (verblijf als zelfstandige) for freelancers and business owners, an HSM (Highly Skilled Migrant) permit for employed work, or a partner/family visa if moving to join a Dutch or EU/EEA partner. Note that the DAFT treaty route is for US nationals only and does not apply to British citizens — check the current conditions on ind.nl. British citizens do not need an MVV entry visa, but you do need the residence permit.'
 - q: Can a British citizen still exchange their UK driving licence for a Dutch one?
-  a: 'Yes, but with conditions. The UK and Netherlands have a bilateral agreement allowing UK driving licence holders to exchange their licence for a Dutch one without retaking the driving test. The exchange must be done at the CBR (Centraal Bureau Rijvaardigheidsbewijzen) and you must be a Dutch resident. You need to complete the exchange within 10 years of receiving your UK licence. Note: you cannot drive on a UK licence indefinitely in the Netherlands — after 185 days of Dutch residency, you must either exchange it or hold a valid Dutch licence.'
+  a: 'Yes, but with conditions. The UK and Netherlands have a bilateral agreement allowing UK driving licence holders to exchange their licence for a Dutch one without retaking the driving test. You apply at your gemeente and the RDW processes the exchange — not the CBR, which only administers driving tests. You must be registered as a Dutch resident and your UK licence must still be valid. Note: you cannot drive on a UK licence indefinitely in the Netherlands — after 185 days of Dutch residency, you must either exchange it or hold a valid Dutch licence.'
 - q: Is the European Health Insurance Card (EHIC) still valid for British expats in the Netherlands?
   a: No. British citizens' EHIC entitlement ended with Brexit. The UK issued a Global Health Insurance Card (GHIC) as a replacement for UK residents travelling to EU countries, but the GHIC is for UK residents travelling temporarily — it does not apply to British citizens who are residents in the Netherlands. As a British resident in the Netherlands, you are required to take out Dutch health insurance (basisverzekering) just like any other Dutch resident. The GHIC/EHIC gives you no rights in the country where you are a resident.
 - q: What happens to my UK state pension if I move to the Netherlands?
-  a: Your UK state pension entitlement is preserved. National Insurance contributions you made in the UK continue to count toward your state pension entitlement, and you will receive your UK state pension when you reach UK state pension age. Since Brexit, UK state pension payments to the Netherlands are no longer uprated annually (unlike pensions paid to residents of the EU). This means if you move to the Netherlands before claiming your UK pension, the amount may be frozen at the rate applicable when you first become resident in the Netherlands. This is a significant financial consideration worth discussing with a pension specialist.
+  a: 'Your UK state pension entitlement is preserved. National Insurance contributions you made in the UK continue to count toward your entitlement, and you can claim your UK state pension from abroad when you reach UK state pension age. Whether your pension is uprated each year depends on where you live: the UK applies annual uprating in some countries and freezes payments in others, and the position for EEA residents is governed by the Withdrawal Agreement and the UK-EU social security arrangements. Do not take a general claim either way at face value — check your own position on gov.uk (International Pension Centre) before you plan around it.'
 - q: Can I keep my UK bank account after moving to the Netherlands?
   a: 'Possibly, but it is getting harder. Many UK banks have been closing or restricting accounts held by EU-resident British nationals since Brexit. The rules vary by bank: some allow it if you have had the account for many years, others require you to prove continued UK ties. Lloyds, Halifax, and Barclays have all sent account closure notices to some EU-resident customers at various points since 2021. Check with your specific UK bank. For Netherlands-based banking, Wise provides an excellent account that gives you both a British sort code and a Belgian IBAN — useful for maintaining financial connections to both countries.'
 - q: How long can I stay in the Netherlands as a British tourist before needing a visa?
   a: British citizens can enter the Netherlands (and the broader Schengen area) without a visa for short stays of up to 90 days in any 180-day period. This is the standard Schengen tourist rule. After 90 days, you must either have a valid residence permit or leave. Working during a tourist stay is not permitted. If you plan to live and work in the Netherlands, you must obtain the appropriate residence permit before or shortly after arrival — overstaying the 90-day limit has serious consequences for future permit applications.
-- q: What is the DAFT visa and does it apply to British nationals?
-  a: 'The Dutch-American Friendship Treaty (DAFT) was extended to cover British nationals as part of the Brexit negotiations — a specific arrangement that gives British self-employed people access to a route that many other third-country nationals do not have. The DAFT permit allows British citizens to establish or work in their own business in the Netherlands. Requirements include: a viable business plan, meeting a scoring system on various criteria (education, business plan quality, financial resources, value to the Netherlands), and sufficient personal finances to support yourself. The DAFT permit is one of the more accessible routes for British freelancers and small business owners.'
+- q: Does the DAFT visa apply to British nationals?
+  a: 'No. DAFT is the Dutch-American Friendship Treaty, and the residence permit built on it is open to nationals of the United States (a comparable treaty route exists for Japanese nationals). It was not extended to British citizens as part of the Brexit negotiations, and you should treat any claim that it was as incorrect. The route British freelancers and business owners actually use is the ordinary self-employed residence permit (verblijf als zelfstandige), which is assessed against a points system covering personal experience, the business plan and the added value of the business to the Netherlands. Conditions and required amounts are published on ind.nl.'
 products:
 - name: Babbel
   url: https://go.expatnetherlandshub.com/babbel
@@ -54,7 +54,9 @@ I moved to the Netherlands before Brexit. I had free movement. I walked into a m
 
 My clients moving from the UK in 2026 have a considerably more complicated journey. Not impossible — not even especially difficult if you know what you are doing — but genuinely different from what it was before 2021, and very different from what it is for EU citizens moving here today.
 
-I have worked with dozens of British expats navigating post-Brexit relocation to the Netherlands. This guide is everything I wish I could hand them on day one: what you need, what has changed, and what has not changed as much as you might fear. For the general relocation process, see my [complete guide to moving to the Netherlands](/guides/legal/complete-guide-moving-to-netherlands-2026/) and use our [visa permit finder tool](/tools/visa-permit-finder/) to check your specific situation.
+I have worked with dozens of British expats navigating post-Brexit relocation to the Netherlands. This guide is everything I wish I could hand them on day one: what you need, what has changed, and what has not changed as much as you might fear.
+
+**Which UK guide do you need?** This one answers *should I, and what has Brexit changed* — the permit routes, the Withdrawal Agreement, the 90/180 rule, pensions, healthcare, banking. Once you have decided to go, [moving to the Netherlands from the UK (step-by-step)](/guides/legal/moving-to-netherlands-from-uk-2026/) is the execution checklist: what to do in which order, and when. For the general relocation process, see my [complete guide to moving to the Netherlands](/guides/legal/complete-guide-moving-to-netherlands-2026/), and use our [visa permit finder tool](/tools/visa-permit-finder/) to check your specific situation.
 
 ---
 
@@ -87,24 +89,26 @@ Once your employer submits the application, IND processing typically takes 2–4
 
 **The 30% ruling:** British nationals on an HSM permit may qualify for the 30% ruling, which allows your employer to pay 30% of your salary tax-free for up to five years. This is one of the most valuable tax benefits in the Dutch system and well worth exploring if you earn above the minimum threshold. See our separate guide on the 30% ruling for full details.
 
-### Route 2: DAFT — The British Entrepreneur and Freelancer Route
+### Route 2: The Self-Employed Permit — For British Freelancers and Business Owners
 
-The Dutch-American Friendship Treaty permit is the primary route for British self-employed people, freelancers, and entrepreneurs. Its extension to British nationals was a specific post-Brexit arrangement, and it is considerably more accessible than many people realise.
+First, a correction you will need if you have been reading expat forums: **DAFT does not apply to British nationals.** DAFT is the Dutch-American Friendship Treaty, and the low-threshold permit it creates is for US citizens (Japanese nationals have a comparable treaty route). It was not extended to Britons in the Brexit negotiations, however often that claim circulates. If a relocation adviser tells you otherwise, ask them to show you the IND page.
 
-**Who DAFT is for:**
+What British self-employed people use instead is the ordinary residence permit for self-employed persons (*verblijf als zelfstandige*). It is a real route, and plenty of British freelancers hold one — it is simply a higher bar than DAFT, because there is no treaty doing the heavy lifting.
+
+**Who it is for:**
 Self-employed professionals, freelancers (ZZP'ers in Dutch terminology), consultants, and people starting or expanding a business in the Netherlands.
 
 **The application process:**
-Applications go to the IND and are assessed against a points system. Points are awarded for:
-- Education level (degree, postgraduate)
-- Business plan viability and income projections
-- Relevant experience in your field
-- Personal finances (savings to support yourself during startup)
-- Value added to the Netherlands
+Applications go to the IND, which asks the Netherlands Enterprise Agency (RVO) to score your business against a points system. Points are awarded across three blocks:
+- Personal experience: education, entrepreneurial and work experience
+- Business plan: market analysis, product or service, pricing, financing
+- Added value for the Netherlands: innovation, job creation, investment
 
-You do not need to be a startup founder or tech entrepreneur. A freelance designer, accountant, writer, consultant, or trainer with a reasonable business plan can meet the requirements. Many of my British clients have gone this route.
+You need a passing score in each block, not just a good total. You must also be registered with the KvK and be able to support yourself from the business. The IND publishes the current conditions and the fee; check them directly rather than relying on figures in any guide, including this one.
 
-**Timeline:** 3–6 months from application to permit. Apply before you need to be in the Netherlands.
+A freelance designer, accountant, writer, consultant, or trainer can meet the requirements, but the business plan does real work here — a thin one-pager will not score. Budget for professional help with it if the business is your route in.
+
+**Timeline:** 3–6 months from application to permit, and the RVO assessment is the slow part. Apply before you need to be in the Netherlands.
 
 ### Route 3: Family/Partner Visa
 
@@ -127,14 +131,16 @@ Your partner must earn above a minimum income threshold (approximately EUR 1,800
 
 This is an area where British expats are genuinely better off than most non-EU nationals.
 
-**The bilateral agreement:**
-The Netherlands and the UK have maintained a reciprocal driving licence exchange agreement post-Brexit. This means you can exchange your UK licence for a Dutch one without retaking the theory test or practical driving test.
+**Why you are better off:**
+Great Britain and Northern Ireland both appear on the RDW list of designated countries for direct licence exchange, and that survived Brexit — as do Gibraltar, Guernsey, Jersey and the Isle of Man, which the RDW lists separately (rdw.nl, checked 21 August 2026). The list is short: 16 entries, which is why Americans and Australians cannot do what you can. You exchange your UK licence for a Dutch one without retaking the theory or practical test.
 
 **The process:**
 1. Register as a Dutch resident (get your BSN)
-2. Apply to the CBR (Centraal Bureau Rijvaardigheidsbewijzen) for an exchange
+2. Apply at your gemeente — the RDW processes the exchange (the CBR only runs driving tests)
 3. Surrender your UK licence
 4. Receive a Dutch driving licence
+
+Full details, documents and fees are in my [driving licence exchange guide](/guides/daily-life/exchange-driving-license-netherlands-2026/).
 
 **Cost:** Approximately EUR 40–50 for the exchange process.
 
@@ -177,14 +183,16 @@ As a Dutch resident, you are no longer entitled to NHS treatment as a UK residen
 
 Your UK National Insurance contributions do not disappear when you move to the Netherlands. Your state pension entitlement continues to accrue any years you were contracted in the UK.
 
-**The frozen pensions issue:**
-Before Brexit, UK state pensions paid to EU-resident British nationals were uprated annually (increased in line with inflation/earnings). This was a reciprocal agreement.
+**Annual uprating — check your own position, do not assume:**
+Whether a UK state pension rises each year depends on where the pensioner lives. The UK applies annual uprating in the EEA, Switzerland, Gibraltar and countries with a reciprocal agreement, and freezes payments in many others — Canada and Australia being the best-known frozen cases. For people covered by the Withdrawal Agreement and the subsequent UK-EU social security arrangements, uprating in the EEA has continued to be applied.
 
-Since Brexit, the Netherlands is not on the list of countries where UK pensions are uprated. This means:
-- If you are already receiving your UK state pension and move to the Netherlands, it is likely to be frozen at the rate on the date you became a non-UK resident
-- If you have not yet reached state pension age, your eventual pension will be frozen from the point you claim it as a Netherlands resident
+You will still find confident posts online claiming Brexit froze UK pensions for Netherlands residents. That is not a claim to plan around, in either direction. What to do instead:
 
-This is a significant financial planning consideration. The longer you remain in the Netherlands drawing a frozen pension, the further behind inflation it falls. Get advice from a pension specialist who understands both UK and Dutch pension systems before making decisions.
+- Ask the UK International Pension Centre in writing how uprating applies to your case, and check the current position on [gov.uk](https://www.gov.uk/state-pension-if-you-retire-abroad)
+- Get a State Pension forecast before you move, so you have a baseline
+- If you are within ten years of state pension age, take advice from a pension specialist who works across both the UK and Dutch systems
+
+The reason to confirm rather than guess is the compounding: over a twenty-year retirement, the difference between an uprated and a frozen pension is large enough to change where you can afford to live.
 
 **Dutch state pension (AOW):**
 The Dutch state pension system (Algemene Ouderdomswet) accrues entitlement at 2% per year of Dutch residency. To receive a full AOW pension, you need 50 years of Dutch residency. For every year short of 50, your AOW payment is reduced by 2%. British expats who arrive in their 30s or 40s will build up partial AOW entitlement. The Netherlands and UK have a social security coordination agreement that may affect how your entitlements interact.
@@ -229,7 +237,7 @@ Once you are a Dutch resident, you are subject to Dutch income tax on your world
 Moving to the Netherlands does not automatically end your UK tax obligations. Under HMRC's Statutory Residence Test, you may remain UK tax resident in the year of departure or partially tax resident depending on your circumstances. UK rental income continues to be taxable in the UK. UK pension income may be taxable in both countries subject to the UK-Netherlands double tax treaty.
 
 **The UK-Netherlands double tax treaty:**
-The treaty prevents double taxation on most types of income. In general, employment income is taxed where you work; pension income is complex. The treaty does not help with the frozen pensions problem, which is an entitlement issue rather than a taxation issue.
+The treaty prevents double taxation on most types of income. In general, employment income is taxed where you work; pension income is complex. Note that the treaty says nothing about pension uprating — that is an entitlement question for the DWP, not a tax question, so a tax adviser is the wrong person to ask about it.
 
 **30% ruling eligibility for British nationals:**
 Yes, British nationals can qualify for the 30% ruling. The requirements (recruited from abroad, specific salary threshold, scarce skills) apply regardless of nationality. If you qualify, the ruling provides a meaningful reduction in your effective Dutch tax rate for up to five years.
@@ -239,9 +247,9 @@ Yes, British nationals can qualify for the 30% ruling. The requirements (recruit
 ## Practical Timeline for British Expats
 
 **Before departure:**
-- Apply for residence permit (DAFT, HSM, or family) — start 3–6 months before intended move
+- Apply for residence permit (self-employed, HSM, or family) — start 3–6 months before intended move
 - Research UK bank account situation and open Wise account
-- Consult a pension specialist if within 10 years of UK state pension age
+- Confirm your UK state pension uprating position with the International Pension Centre, and consult a pension specialist if within 10 years of state pension age
 - Research Dutch health insurers (you cannot sign up until you have a BSN but knowing the options helps)
 
 **First week in the Netherlands:**
@@ -256,7 +264,7 @@ Yes, British nationals can qualify for the 30% ruling. The requirements (recruit
 - Consider SafetyWing for gap coverage until Dutch insurance starts
 
 **Within three months:**
-- Exchange UK driving licence at CBR
+- Exchange UK driving licence at your gemeente (RDW processes it)
 - File with HMRC regarding UK tax residency status
 - Investigate 30% ruling eligibility with your employer
 
@@ -270,7 +278,7 @@ My answer: for most people who genuinely want to live in the Netherlands, yes. T
 
 The immigration process is more work than it was before 2021. But it is manageable, and once you have your residence permit, daily life in the Netherlands is essentially the same for British expats as it is for EU expats. You shop at the same supermarkets, cycle the same paths, and work through the same bureaucracy (which is considerable regardless of nationality).
 
-What has genuinely changed and requires more attention: healthcare coverage during the transition, the pension frozen uprating issue, and UK banking. All of these have solutions — they just require more active management than free movement allowed.
+What has genuinely changed and requires more attention: healthcare coverage during the transition, confirming how your state pension uprating is treated, and UK banking. All of these have solutions — they just require more active management than free movement allowed.
 
 ---
 
@@ -337,7 +345,7 @@ The British community in the Netherlands is substantial — estimates suggest 40
 ## Key Resources for British Expats in the Netherlands
 
 - **IND (Immigration and Naturalisation Service):** [ind.nl/en](https://ind.nl/en) — official permit information
-- **CBR (Driving licence exchange):** [cbr.nl](https://cbr.nl) — Dutch driving authority
+- **RDW (Driving licence exchange):** [rdw.nl](https://www.rdw.nl/en/driving-licence/foreign-driving-licence/exchanging-a-foreign-driving-licence) — the authority that processes licence exchanges
 - **Expatcenter Netherlands:** [expatcenter.org](https://www.expatcenter.org) — services for international residents in Amsterdam and other cities
 - **British Embassy The Hague:** [gov.uk/world/netherlands](https://www.gov.uk/world/netherlands) — UK government resources for British nationals in the Netherlands
 - **Belastingdienst (Dutch Tax Authority):** [belastingdienst.nl/en](https://www.belastingdienst.nl/wps/wcm/connect/en/home/home)
@@ -354,11 +362,11 @@ For gap health coverage during your first weeks before Dutch insurance starts:
 
 ### Do British citizens need a visa to move to the Netherlands after Brexit?
 
-Yes. Since January 2021 when the Brexit transition period ended, British citizens are treated as third-country nationals for immigration purposes in the Netherlands. You are no longer entitled to free movement. The specific visa you need depends on why you are moving: DAFT (Dutch-American Friendship Treaty, which also applies to British nationals) for self-employment, an HSM (Highly Skilled Migrant) permit for employed work, or a partner/family visa if moving to join a Dutch or EU/EEA partner. You must apply before arriving — you cannot enter as a tourist and then change status.
+Yes. Since January 2021 when the Brexit transition period ended, British citizens are treated as third-country nationals for immigration purposes in the Netherlands. You are no longer entitled to free movement. The specific route depends on why you are moving: the self-employed residence permit (verblijf als zelfstandige) for freelancers and business owners, an HSM (Highly Skilled Migrant) permit for employed work, or a partner/family visa if moving to join a Dutch or EU/EEA partner. The DAFT treaty route is for US nationals only and does not apply to British citizens. British citizens do not need an MVV entry visa, but the residence permit is still required.
 
 ### Can a British citizen still exchange their UK driving licence for a Dutch one?
 
-Yes, but with conditions. The UK and Netherlands have a bilateral agreement allowing UK driving licence holders to exchange their licence for a Dutch one without retaking the driving test. The exchange must be done at the CBR (Centraal Bureau Rijvaardigheidsbewijzen) and you must be a Dutch resident. You need to complete the exchange within 10 years of receiving your UK licence. Note: you cannot drive on a UK licence indefinitely in the Netherlands — after 185 days of Dutch residency, you must either exchange it or hold a valid Dutch licence.
+Yes, but with conditions. The UK and Netherlands have a bilateral agreement allowing UK driving licence holders to exchange their licence for a Dutch one without retaking the driving test. You apply at your gemeente and the RDW processes the exchange — not the CBR, which only administers driving tests. You must be registered as a Dutch resident and your UK licence must still be valid. Note: you cannot drive on a UK licence indefinitely in the Netherlands — after 185 days of Dutch residency, you must either exchange it or hold a valid Dutch licence.
 
 ### Is the European Health Insurance Card (EHIC) still valid for British expats in the Netherlands?
 
@@ -366,7 +374,7 @@ No. British citizens' EHIC entitlement ended with Brexit. The UK issued a Global
 
 ### What happens to my UK state pension if I move to the Netherlands?
 
-Your UK state pension entitlement is preserved. National Insurance contributions you made in the UK continue to count toward your state pension entitlement, and you will receive your UK state pension when you reach UK state pension age. Since Brexit, UK state pension payments to the Netherlands are no longer uprated annually (unlike pensions paid to residents of the EU). This means if you move to the Netherlands before claiming your UK pension, the amount may be frozen at the rate applicable when you first become resident in the Netherlands. This is a significant financial consideration worth discussing with a pension specialist.
+Your UK state pension entitlement is preserved. National Insurance contributions you made in the UK continue to count toward your entitlement, and you can claim your UK state pension from abroad when you reach UK state pension age. Whether the payment is uprated each year depends on your country of residence and on the Withdrawal Agreement and UK-EU social security arrangements — the UK uprates in some countries and freezes in others. Confirm your own position with the UK International Pension Centre and on gov.uk rather than relying on general claims, and take specialist advice if you are close to state pension age.
 
 ### Can I keep my UK bank account after moving to the Netherlands?
 
@@ -376,6 +384,10 @@ Possibly, but it is getting harder. Many UK banks have been closing or restricti
 
 British citizens can enter the Netherlands (and the broader Schengen area) without a visa for short stays of up to 90 days in any 180-day period. This is the standard Schengen tourist rule. After 90 days, you must either have a valid residence permit or leave. Working during a tourist stay is not permitted. If you plan to live and work in the Netherlands, you must obtain the appropriate residence permit before or shortly after arrival — overstaying the 90-day limit has serious consequences for future permit applications.
 
-### What is the DAFT visa and does it apply to British nationals?
+### Does the DAFT visa apply to British nationals?
 
-The Dutch-American Friendship Treaty (DAFT) was extended to cover British nationals as part of the Brexit negotiations — a specific arrangement that gives British self-employed people access to a route that many other third-country nationals do not have. The DAFT permit allows British citizens to establish or work in their own business in the Netherlands. Requirements include: a viable business plan, meeting a scoring system on various criteria (education, business plan quality, financial resources, value to the Netherlands), and sufficient personal finances to support yourself. The DAFT permit is one of the more accessible routes for British freelancers and small business owners.
+No. DAFT is the Dutch-American Friendship Treaty, and the residence permit built on it is open to nationals of the United States (a comparable treaty route exists for Japanese nationals). It was not extended to British citizens as part of the Brexit negotiations, and the widely repeated claim that it was is simply wrong. The route British freelancers and business owners actually use is the ordinary self-employed residence permit (verblijf als zelfstandige), assessed by the RVO against a points system covering personal experience, the business plan, and the added value of the business to the Netherlands. Conditions, required documents and fees are published on ind.nl.
+
+---
+
+*Next step: work through the [UK-to-Netherlands moving checklist](/guides/legal/moving-to-netherlands-from-uk-2026/) — the practical order of operations once you have chosen your permit route.*

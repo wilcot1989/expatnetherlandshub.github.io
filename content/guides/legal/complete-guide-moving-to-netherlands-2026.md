@@ -1,7 +1,7 @@
 ---
 title: Complete Guide to Moving to the Netherlands in 2026
 date: 2026-02-24 10:00:00+01:00
-lastmod: 2026-08-19 10:00:00+02:00
+lastmod: 2026-08-21 10:00:00+02:00
 description: 'Everything you need to know about moving to the Netherlands in 2026: visas, housing, BSN, health insurance, banking, and more.'
 categories:
 - relocation
@@ -91,7 +91,7 @@ If you hold a passport from an EU or EEA country, or from Switzerland, you have 
 
 This is the most common route for non-EU professionals moving to the Netherlands for work. Your employer must be a recognized sponsor (erkend referent) with the IND (Immigration and Naturalisation Service). Key requirements in 2026:
 
-- **Minimum salary**: Approximately EUR 5,331 per month (gross, excluding holiday allowance) for applicants aged 30 and over, or EUR 3,909 for those under 30
+- **Minimum salary**: EUR 5,942 per month (gross, excluding holiday allowance) for applicants aged 30 and over, or EUR 4,357 for those under 30 — thresholds valid 1 July to 31 December 2026 (ind.nl, checked 21 August 2026; revised every six months)
 - **Employer sponsorship**: Your employer handles most of the application process
 - **Processing time**: Usually 2-4 weeks after the employer submits the application
 
@@ -378,8 +378,11 @@ India is one of the largest source countries for expats in the Netherlands, part
 For the vast majority of Indian professionals moving to the Netherlands, the Highly Skilled Migrant (HSM) visa — known in Dutch as the Kennismigrantvergunning — is the standard route. Your Dutch employer must be a recognised IND sponsor. The good news is that most large Dutch tech and multinationals (ASML, Booking.com, Philips, ING, Shell) are already on the IND's recognised sponsor list, so the administrative burden falls mainly on your employer rather than on you. For a full breakdown of eligibility and the step-by-step process, see my [highly skilled migrant visa guide for the Netherlands](/guides/legal/highly-skilled-migrant-visa-netherlands-2026/).
 
 **Key salary thresholds for 2026:**
-- Age 30 and over: approximately EUR 5,331 gross per month (excluding holiday allowance)
-- Under age 30: approximately EUR 3,909 gross per month
+- Age 30 and over: EUR 5,942 gross per month (excluding holiday allowance)
+- Under age 30: EUR 4,357 gross per month
+- Reduced criterion (including orientation-year graduates): EUR 3,122 gross per month
+
+These are the amounts valid from 1 July to 31 December 2026 ([IND required amounts](https://ind.nl/en/required-amounts-income-requirements), checked 21 August 2026). The IND sets new figures every six months, on 1 January and 1 July.
 
 ### Using a Relocation Firm
 

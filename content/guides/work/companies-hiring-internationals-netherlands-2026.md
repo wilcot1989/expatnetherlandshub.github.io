@@ -1,7 +1,7 @@
 ---
 title: Companies Hiring Internationals in NL 2026
 date: 2026-03-18 10:00:00+01:00
-lastmod: 2026-04-23 10:00:00+01:00
+lastmod: 2026-08-21 10:00:00+02:00
 description: Top companies in the Netherlands hiring international talent in 2026. Sectors, cities, English-language roles, 30% ruling eligibility, and how to apply.
 categories:
 - work
@@ -36,7 +36,7 @@ faq:
 - q: Do I need to speak Dutch to work in the Netherlands?
   a: Not necessarily, depending on the sector and role. Tech companies, international financial firms, and multinationals typically work in English and will hire you without Dutch. However, roles in client-facing positions, government, healthcare, education, and most SMEs require Dutch. Learning basic Dutch significantly expands your opportunities, even in English-language companies, and improves your day-to-day integration.
 - q: What is the minimum salary for the highly skilled migrant visa in 2026?
-  a: For the highly skilled migrant (kennismigrant) visa in 2026, the minimum gross monthly salary for applicants aged 30 and over is EUR 5,331. For applicants under 30, it is EUR 3,909. For graduates of Dutch institutions (orientation year/zoekjaar holders), it is EUR 2,801. These amounts are updated annually. Your employer must be an IND-recognised sponsor to hire you under this route.
+  a: 'For the highly skilled migrant (kennismigrant) visa, the minimum gross monthly salary from 1 July to 31 December 2026 is EUR 5,942 for applicants aged 30 and over, EUR 4,357 for applicants under 30, and EUR 3,122 under the reduced criterion that covers graduates of Dutch institutions (orientation year/zoekjaar holders). Source: ind.nl/en/required-amounts-income-requirements, checked 21 August 2026. The IND revises these amounts every six months, on 1 January and 1 July. Your employer must be an IND-recognised sponsor to hire you under this route.'
 - q: Which cities in the Netherlands have the most international job opportunities?
   a: Amsterdam has the highest concentration of international companies and English-language roles, followed by Eindhoven (ASML cluster, tech manufacturing), The Hague (Shell, international organisations, legal/finance), Rotterdam (shipping, logistics, energy), and Utrecht (healthcare, tech, startups). Smaller clusters exist in Delft (tech/research), Leiden (pharma/biotech), and Groningen (energy transition).
 - q: Is the 30% ruling available when moving to the Netherlands for work?

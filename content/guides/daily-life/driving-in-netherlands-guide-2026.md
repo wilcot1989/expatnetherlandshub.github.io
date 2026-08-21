@@ -1,7 +1,7 @@
 ---
 title: 'Driving in the Netherlands: License, Rules & Expat Tips'
 date: 2026-04-15 10:00:00+01:00
-lastmod: 2026-04-23 10:00:00+01:00
+lastmod: 2026-08-21 10:00:00+02:00
 description: Complete guide to driving in the Netherlands as an expat. License exchange, Dutch driving rules, car ownership costs, and practical tips for 2026.
 categories:
 - transport
@@ -29,9 +29,9 @@ author_bio: Expat coach and relocation specialist. Half Dutch, half British, liv
 featured_image: /images/featured/driving-in-netherlands-guide-2026.webp
 faq:
 - q: Can I drive with my foreign license in the Netherlands?
-  a: EU/EEA licenses are valid indefinitely. Non-EU licenses are valid for 185 days after registration. After that, you must exchange your license (if your country has an agreement) or take the Dutch driving exam. Some countries (USA, Canada, Japan, South Korea) have exchange agreements.
+  a: 'EU/EEA licenses are valid indefinitely. Non-EU licenses are valid for 185 days after registration. After that, you must exchange your license (if it was issued in one of the 16 RDW designated countries, or you hold the 30% ruling) or take the Dutch driving exam. The designated list includes Great Britain, Northern Ireland, Japan, South Korea, Singapore and Israel — but not the USA or Australia (rdw.nl, checked 21 August 2026).'
 - q: How do I exchange my driver's license in the Netherlands?
-  a: 'If your country has an exchange agreement with the Netherlands: apply at your municipality (gemeente), submit your foreign license, ID, and recent passport photo, pay approximately €40, and receive your Dutch license within 1-4 weeks. If no agreement exists, you must take the Dutch driving exam.'
+  a: 'If your licence qualifies for exchange — issued in an RDW designated country, or you hold the 30% ruling: apply at your municipality (gemeente), submit your foreign license, ID, and recent passport photo, pay approximately €40, and receive your Dutch license within 1-4 weeks. If neither route applies, you must take the Dutch driving exam.'
 - q: How much does it cost to own a car in the Netherlands?
   a: 'Monthly costs average €400-€700 including: insurance (€50-€150), road tax (€30-€100), fuel (€150-€250), maintenance (€50-€100), and parking (€50-€200 in cities). The Netherlands is one of the most expensive countries in Europe for car ownership due to high taxes.'
 - q: Do I need a car in the Netherlands?
@@ -193,9 +193,9 @@ One of the most common questions I get from newly arrived expats is how long the
 | Processing | 1-4 weeks | — |
 | Total | **3-8 weeks** | **~€40** |
 
-**US license holders:** Only certain US states have exchange agreements with the Netherlands. Check the full list at the RDW website before assuming you qualify. States without an agreement (e.g., many southern states) require you to take the full Dutch exam.
+**US license holders:** The United States is not on the RDW list of designated countries, and no individual state qualifies either (rdw.nl, checked 21 August 2026). Your route is either the 30% ruling exchange described below, or the full CBR exam. See the [licence exchange guide](/guides/daily-life/exchange-driving-license-netherlands-2026/) for the complete list.
 
-**UK license holders:** The post-Brexit exchange agreement is in place. You can exchange your UK license directly at your gemeente — the process is the same as for other exchange-eligible countries.
+**UK license holders:** Great Britain and Northern Ireland are both on the RDW designated list, and that survived Brexit. You can exchange your UK license directly at your gemeente.
 
 **If you need to take the Dutch exam:** Budget €1,500-€3,000 and 3-6 months. Most expats take 25-35 lessons at €55-€70/hour. The theory exam (€40) is available in English, which helps significantly.
 
@@ -227,13 +227,13 @@ The only exception: if your licence was issued by a country that has since left 
 
 ### 30% Ruling Holders with Non-EU Licences
 
-This is a question I get constantly: does having the 30% ruling affect my licence exchange? The short answer is no — the 30% ruling is a tax arrangement and has no bearing on your driving licence status. What matters is your country of origin.
+This is a question I get constantly, and the answer surprises people: yes, the 30% ruling does affect your licence exchange, and in your favour. The RDW allows holders of the 30% facility — and their partners and family members — to exchange a valid foreign driving licence without taking the Dutch theory or practical exam, whatever country issued it. It is the main route open to American, Australian, Indian and Canadian licence holders, none of whom qualify through the designated-country list. Bring evidence of the ruling to your gemeente appointment (the Belastingdienst decision letter or an employer statement).
 
-However, 30% ruling holders are typically highly skilled migrants on a residence permit, which means they have full residence rights. That residence is what triggers the 185-day window: you have 185 days from your first BRP registration to either exchange your licence (if eligible) or take the Dutch exam. Many expats do not realise the clock starts at BRP registration, not at the date they start driving.
+30% ruling holders are typically highly skilled migrants on a residence permit, which means they have full residence rights. That residence is what triggers the 185-day window: you have 185 days from your first BRP registration to either exchange your licence (if eligible) or take the Dutch exam. Many expats do not realise the clock starts at BRP registration, not at the date they start driving.
 
 ### Countries Without Exchange Agreements: What the Exam Involves
 
-If your country does not have an exchange agreement with the Netherlands — Australia, India, Brazil, most African countries, and many others — you must take the full Dutch driving exam. This is what it involves in 2026:
+If your licence is not from an RDW designated country and you cannot exchange under the 30% ruling — this covers the United States, Australia, India, Brazil, South Africa, most of Canada, most African countries and many others — you must take the full Dutch driving exam. This is what it involves in 2026:
 
 **Theory exam (Theorieexamen)**
 - Booked at CBR (Centraal Bureau Rijvaardigheidsbewijzen) via cbr.nl

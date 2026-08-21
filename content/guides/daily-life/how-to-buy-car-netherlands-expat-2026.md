@@ -1,7 +1,7 @@
 ---
 title: How to Buy a Car in the Netherlands 2026
 date: 2026-06-12 10:00:00+01:00
-lastmod: 2026-04-23 10:00:00+01:00
+lastmod: 2026-08-21 10:00:00+02:00
 description: 'Buying a car in the Netherlands as an expat in 2026: new vs used, BPM tax, motorrijtuigenbelasting, APK, RDW registration, and insurance options explained.'
 categories:
 - daily-life
@@ -268,7 +268,7 @@ If you are in the Netherlands for fewer than 2 years, leasing (private lease) or
 
 Your foreign driving license is valid in the Netherlands for 185 days after you register in the country. After that:
 
-- If your country has a license exchange agreement (US states, Canada, UK, Japan, South Korea), you can exchange at your gemeente
+- If your licence is from an RDW designated country (Great Britain, Northern Ireland, Japan, South Korea, Singapore, Israel, Alberta, Québec and a few others) or you hold the 30% ruling, you can exchange at your gemeente — the US and Australia are not designated
 - If not, you must take the Dutch driving exam (theory + practical)
 
 See the full process in our [driving license exchange guide](/guides/daily-life/exchange-driving-license-netherlands-2026/) and the [CBR driving exam guide](/guides/daily-life/dutch-driving-license-cbr-guide-2026/).

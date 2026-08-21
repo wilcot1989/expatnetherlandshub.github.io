@@ -1,7 +1,7 @@
 ---
 title: 'Highly Skilled Migrant Visa Netherlands 2026: Full Guide'
 date: 2026-03-06 10:00:00+01:00
-lastmod: 2026-08-19 10:00:00+02:00
+lastmod: 2026-08-21 10:00:00+02:00
 description: Complete guide to the Dutch Highly Skilled Migrant (Kennismigrant) visa in 2026. Salary requirements, application process, and timeline explained.
 categories:
 - relocation
@@ -32,7 +32,7 @@ author_bio: Expat coach and relocation specialist. Half Dutch, half British, liv
 featured_image: /images/featured/highly-skilled-migrant-visa-netherlands-2026.webp
 faq:
 - q: What is the salary requirement for a highly skilled migrant visa in 2026?
-  a: For applicants aged 30 and over, the minimum gross monthly salary is €5,331 (excluding 8% holiday allowance). For those under 30, it is €3,909. Reduced rates apply for certain categories like researchers and recent graduates from Dutch universities. These amounts are adjusted annually by the IND.
+  a: 'From 1 July to 31 December 2026, the minimum gross monthly salary is €5,942 for applicants aged 30 and over and €4,357 for those under 30, both excluding the 8% holiday allowance. A reduced criterion of €3,122 applies to categories such as recent graduates from Dutch universities coming out of the orientation year. Source: ind.nl/en/required-amounts-income-requirements, checked 21 August 2026 — the IND revises these amounts every six months, on 1 January and 1 July.'
 - q: How long does it take to get a highly skilled migrant visa?
   a: The standard processing time is 2-4 weeks after the employer submits the application. However, if additional documents are needed or during busy periods, it can take up to 6-8 weeks. Employers with recognized sponsor status benefit from faster processing.
 - q: Can I change employers on a highly skilled migrant visa?
@@ -58,9 +58,9 @@ Planning your move? Read our [complete guide to moving to the Netherlands](/guid
 | Requirement | Details |
 |-------------|---------|
 | **Employer** | Must be an IND-recognized sponsor |
-| **Salary (30+)** | Minimum €5,331/month gross (excl. holiday allowance) |
-| **Salary (under 30)** | Minimum €3,909/month gross (excl. holiday allowance) |
-| **Salary (graduates NL uni)** | Reduced: €2,801/month (search year visa) |
+| **Salary (30+)** | Minimum €5,942/month gross (excl. holiday allowance) |
+| **Salary (under 30)** | Minimum €4,357/month gross (excl. holiday allowance) |
+| **Salary (reduced criterion)** | €3,122/month, incl. graduates leaving the orientation year |
 | **Contract** | Employment contract for at least the visa duration |
 | **Nationality** | Non-EU/EEA/Swiss citizens |
 | **Education** | No formal requirement, but salary must meet threshold |
@@ -219,7 +219,7 @@ If you are a non-EU national considering a move to the Netherlands, you may have
 | | HSM Permit | EU Blue Card |
 |---|---|---|
 | **Issued by** | Netherlands only | EU-wide (valid in NL) |
-| **Salary requirement (2026)** | €5,331/month (30+) | ~€5,331/month (same threshold in NL) |
+| **Salary requirement (H2 2026)** | €5,942/month (30+) | Separate Blue Card criterion — check ind.nl |
 | **Education requirement** | None | University degree or 5+ years experience |
 | **EU mobility** | ❌ No | ✅ After 12 months |
 | **Processing time** | 2-4 weeks | 2-4 weeks |
@@ -263,20 +263,22 @@ The short answer is: your residence permit does not disappear, but you cannot si
 
 Not sure whether your Dutch salary is competitive for your role and experience level? Use our [salary checker](/tools/salary-checker/) to benchmark your offer, and our [30% ruling calculator](/tools/30-percent-ruling-calculator/) to understand your take-home pay.
 
-## HSM Salary Thresholds 2026: All Categories
+## HSM Salary Thresholds: The Amounts That Apply Now
 
-The salary requirement is the single most important eligibility criterion for the highly skilled migrant permit, and it is reviewed and adjusted annually by the IND. The amounts below are the gross monthly figures excluding the 8% holiday allowance (vakantiegeld) — so your actual total monthly compensation can be higher.
+The salary requirement is the single most important eligibility criterion for the highly skilled migrant permit, and this is where most outdated advice online goes wrong: the IND does not review these figures annually, it revises them **every six months**, on 1 January and 1 July. The amounts below are the gross monthly figures excluding the 8% holiday allowance (vakantiegeld) — so your actual total monthly compensation can be higher.
 
-| Category | Minimum Gross Monthly Salary (2026) |
+| Category | Minimum gross monthly salary, 1 Jul–31 Dec 2026 |
 |----------|--------------------------------------|
-| **HSM aged 30 and over** | €5,331 |
-| **HSM under 30** | €3,909 |
-| **Orientation year visa (zoekjaar) graduates** | €2,801 |
-| **EU Blue Card** | €5,331 (same as HSM 30+ in NL) |
+| **HSM aged 30 and over** | €5,942 |
+| **HSM under 30** | €4,357 |
+| **Reduced criterion (incl. orientation year graduates)** | €3,122 |
+| **EU Blue Card** | Separate criterion — check ind.nl |
 | **Researchers (directive 2016/801)** | No minimum salary — must be adequate |
 | **Medical training (AIOS/arts-assistent)** | Separate scale applies |
 
-**A note on the 8% holiday allowance:** Dutch employers are required by law to pay a holiday allowance (vakantiegeld) of at least 8% of annual gross salary, typically paid in May. The IND threshold is exclusive of this amount. So if your contract states €5,331/month, the holiday allowance on top brings your effective annual salary well above the minimum. However, if you are moving from a country where holiday allowance is included in the monthly figure, make sure your Dutch contract separates it correctly — otherwise you may inadvertently fall below the threshold.
+Source: [IND required amounts and income requirements](https://ind.nl/en/required-amounts-income-requirements), checked 21 August 2026. Because the figures change twice a year, verify the amount that applies on the date your permit application is submitted — not the date you read about it.
+
+**A note on the 8% holiday allowance:** Dutch employers are required by law to pay a holiday allowance (vakantiegeld) of at least 8% of annual gross salary, typically paid in May. The IND threshold is exclusive of this amount. So if your contract states €5,942/month, the holiday allowance on top brings your effective annual salary well above the minimum. However, if you are moving from a country where holiday allowance is included in the monthly figure, make sure your Dutch contract separates it correctly — otherwise you may inadvertently fall below the threshold.
 
 **The age cut-off matters:** The under-30 threshold applies to your age at the time of application, not at the start of employment. If you turn 30 during the permit period, the higher threshold does not automatically kick in mid-permit. But if you change employers or renew your permit after your 30th birthday, the higher rate will apply to your new application.
 

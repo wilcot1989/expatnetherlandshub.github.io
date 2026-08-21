@@ -2,7 +2,7 @@
 title: 'Expat Life Decisions Pillar 2026: Your 10-Step Framework'
 description: Banking, health, utilities, insurance, taxes — the complete 10-step decision framework for moving to and living in the Netherlands.
 date: 2026-04-30
-lastmod: 2026-08-19 12:00:00+02:00
+lastmod: 2026-08-21 10:00:00+02:00
 author: Sarah van den Berg
 author_bio: Expat coach and writer at ExpatNetherlandsHub.com
 featured_image: /images/categories/expat-life.svg
@@ -709,7 +709,7 @@ No. SafetyWing is travel medical insurance — useful for short stays or while w
 Energy (gas + electricity) averages €100–€180/month depending on home size and provider. Internet runs €25–€45/month. Mobile plans start at around €10/month for SIM-only. In Amsterdam, add about 20–30% to these estimates due to higher living costs.
 
 **Can I use my foreign driving licence in the Netherlands?**
-EU/EEA licence holders can drive indefinitely. Most other nationalities can drive for up to 6 months, after which they must exchange for a Dutch licence. Some countries have exchange agreements (USA, Canada, Japan, South Korea). Check the RDW website for your specific country.
+EU/EEA licence holders can drive indefinitely. Most other nationalities can drive for 185 days after BRP registration, after which they need a Dutch licence. Direct exchange is limited to the 16 RDW designated countries (Great Britain, Northern Ireland, Japan, South Korea, Singapore, Israel and others — not the USA or Australia) plus anyone holding the 30% ruling. Check rdw.nl for your specific case.
 
 **What is the AOW and will I receive a Dutch pension?**
 AOW is the Dutch state pension. You build up 2% per year of legal residence in the Netherlands. If you live here for 50 years, you get a full pension. Gaps in coverage can be purchased. Many expats also have pension through their employer (second pillar) and private investments (third pillar).

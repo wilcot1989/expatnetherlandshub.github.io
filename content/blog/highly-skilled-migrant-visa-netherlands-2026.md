@@ -2,7 +2,7 @@
 title: "Knowledge Migrant Visa Netherlands 2026: Complete Guide"
 description: "Everything you need to know about the Dutch kennismigrant (highly skilled migrant) visa in 2026 — salary thresholds, recognised sponsors, the 30% ruling, and the path to permanent residency."
 date: 2026-08-19
-lastmod: 2026-08-19T10:00:00+01:00
+lastmod: 2026-08-21 10:00:00+02:00
 author: "Sarah van den Berg"
 author_bio: "Expat coach and writer at ExpatNetherlandsHub.com"
 categories: ["visa"]
@@ -14,7 +14,7 @@ draft: false
 schema_type: "Article"
 faq:
   - q: "What is the salary threshold for the highly skilled migrant visa in 2026?"
-    a: "The IND 2026 salary thresholds (approximate, excluding the 8% holiday allowance) are: €5,331 per month for applicants aged 30 and over, €3,909 per month for applicants under 30, and €2,801 per month for graduates who recently completed an orientation year (zoekjaar) in the Netherlands. Salaries are checked against your actual gross monthly pay excluding the vacation allowance."
+    a: "The IND thresholds valid from 1 July to 31 December 2026 (excluding the 8% holiday allowance) are: €5,942 per month for applicants aged 30 and over, €4,357 per month for applicants under 30, and €3,122 per month under the reduced criterion, which covers graduates who recently completed an orientation year (zoekjaar) in the Netherlands. Source: ind.nl/en/required-amounts-income-requirements, checked 21 August 2026. The IND revises these amounts every six months, on 1 January and 1 July, so confirm the current figure before you sign a contract. Salaries are checked against your actual gross monthly pay excluding the vacation allowance."
   - q: "Can my employer sponsor me for a kennismigrant visa?"
     a: "Only employers who appear on the IND recognised sponsor list can sponsor a highly skilled migrant. Most large multinationals and universities are on the list. Smaller companies can apply to become a recognised sponsor — the process takes 8–12 weeks and costs around €2,935. If your employer is not on the list, they must complete this step before you can apply."
   - q: "Can I combine the kennismigrant visa with the 30% ruling?"
@@ -42,7 +42,7 @@ This guide walks through the full kennismigrant process as it stands in 2026: sa
 
 💡 *Related: [BSN application guide for expats](/blog/expat-bsn-application-guide-2026/), [how to file Dutch taxes as an expat](/blog/how-to-file-dutch-taxes-as-expat-2026/), [best tax advisor for 30% ruling](/blog/best-tax-advisor-30-percent-ruling-2026/).*
 
-> **Quick answer:** The Dutch kennismigrant (highly skilled migrant) visa lets non-EU workers with a qualifying salary live and work in the Netherlands under employer sponsorship. In 2026 the approximate salary thresholds are €5,331/month (age 30+) and €3,909/month (under 30), or €2,801/month for graduates transitioning from an orientation year permit. Only employers on the IND recognised-sponsor list can apply on your behalf. Processing via the fast track takes 2–4 weeks. After five years of continuous legal residence you can apply for permanent residency.
+> **Quick answer:** The Dutch kennismigrant (highly skilled migrant) visa lets non-EU workers with a qualifying salary live and work in the Netherlands under employer sponsorship. From 1 July to 31 December 2026 the salary thresholds are €5,942/month (age 30+) and €4,357/month (under 30), or €3,122/month under the reduced criterion for graduates transitioning from an orientation year permit — amounts the IND revises every six months. Only employers on the IND recognised-sponsor list can apply on your behalf. Processing via the fast track takes 2–4 weeks. After five years of continuous legal residence you can apply for permanent residency.
 
 ---
 
@@ -76,13 +76,15 @@ You can verify whether a specific employer is on the list via the <a href="https
 
 The IND sets salary thresholds annually. They apply to your gross monthly salary excluding the 8% *vakantiegeld* (holiday allowance) that Dutch employers pay on top of the monthly amount. Most Dutch contracts state the monthly salary and the vacation allowance separately — the threshold applies to the monthly figure only.
 
-The approximate 2026 thresholds are:
+The thresholds valid from 1 July to 31 December 2026 are:
 
 | Age group | Monthly gross threshold (excl. 8% holiday allowance) |
 |---|---|
-| 30 years and older | €5,331 |
-| Under 30 years | €3,909 |
-| Orientation-year graduates (reduced threshold) | €2,801 |
+| 30 years and older | €5,942 |
+| Under 30 years | €4,357 |
+| Reduced criterion (incl. orientation-year graduates) | €3,122 |
+
+Source: [IND required amounts](https://ind.nl/en/required-amounts-income-requirements), checked 21 August 2026. **These amounts change every six months** — the IND publishes new figures on 1 January and 1 July each year, so a threshold quoted in an older article or in a recruiter's email is very likely out of date. Always check the IND page against the date your contract starts.
 
 The lower threshold for graduates applies specifically to people who have completed the Dutch *zoekjaar* (orientation year visa) and transition to a kennismigrant permit afterward. If you fall into this category — you have a Dutch master's degree or a master's from a top-200 world university — the significantly lower salary threshold opens up roles that would otherwise not qualify under the standard thresholds.
 
@@ -146,7 +148,7 @@ The **30% ruling** (*30%-regeling*) allows your employer to pay up to 30% of you
 - Your salary must meet the separate minimum income threshold for the ruling itself — a different figure from the IND one. In 2026 that is €48,013 in *taxable* salary, meaning what is left after the 30% is deducted, so roughly €68,590 gross. Under 30 with a qualifying master's degree: €36,497 taxable, roughly €52,138 gross. Scientific researchers at designated institutions have no salary norm.
 - The percentage is a flat 30% throughout 2025 and 2026 (the 30/20/10 step-down announced in the 2024 Tax Plan was scrapped before it ever applied), and drops to a maximum of 27% from 1 January 2027 unless the ruling was already being applied to your salary on or before 31 December 2023.
 
-**On the salary threshold interaction:** the IND checks your kennismigrant threshold against your full contractual gross salary. The 30% facility does not reduce the salary figure the IND sees. So a salary of €5,500/month gross qualifies for the kennismigrant threshold (€5,331) even if 30% is paid as a tax-free component. Both checks are independent.
+**On the salary threshold interaction:** the IND checks your kennismigrant threshold against your full contractual gross salary. The 30% facility does not reduce the salary figure the IND sees. So a salary of €6,100/month gross qualifies for the kennismigrant threshold (€5,942 in the second half of 2026) even if 30% is paid as a tax-free component. Both checks are independent.
 
 The ruling runs for a maximum of five years under the post-2024 rules. If you have been in the Netherlands under this ruling since before 2019, check the [30% ruling extension and 2024 changes guide](/blog/30-percent-ruling-extension-2024-changes-2026/) to understand the transition provisions that apply to your case.
 
@@ -226,7 +228,7 @@ If your employer's HR department does not apply for the ruling within four month
 
 ### Assuming the orientation-year reduced threshold applies
 
-The €2,801/month reduced threshold applies only to people transitioning from an orientation year permit. If you completed a master's abroad and came directly to a Dutch employer without first doing a zoekjaar, the standard thresholds apply (€3,909 or €5,331 depending on age). Confirm which threshold applies to your specific situation before the contract is signed.
+The €3,122/month reduced criterion applies only to people transitioning from an orientation year permit. If you completed a master's abroad and came directly to a Dutch employer without first doing a zoekjaar, the standard thresholds apply (€4,357 or €5,942 depending on age, as of the second half of 2026). Confirm which threshold applies to your specific situation before the contract is signed.
 
 ### Diploma recognition for regulated professions
 
@@ -288,7 +290,7 @@ If freelancing is part of your future plans, understand the ZZP route in advance
 
 ### What is the salary threshold for the highly skilled migrant visa in 2026?
 
-The approximate IND 2026 thresholds (excluding the 8% holiday allowance) are: €5,331 per month for applicants aged 30 and over, €3,909 per month for those under 30, and €2,801 per month for graduates transitioning from a zoekjaar (orientation year) permit. The salary must appear as the base amount in your employment contract — allowances and bonuses generally do not count.
+The IND thresholds for 1 July to 31 December 2026 (excluding the 8% holiday allowance) are: €5,942 per month for applicants aged 30 and over, €4,357 per month for those under 30, and €3,122 per month under the reduced criterion, which covers graduates transitioning from a zoekjaar (orientation year) permit. The IND updates these figures every six months — check [ind.nl](https://ind.nl/en/required-amounts-income-requirements) for the amounts that apply on your start date. The salary must appear as the base amount in your employment contract — allowances and bonuses generally do not count.
 
 ### Can my employer sponsor me for a kennismigrant visa?
 

@@ -2,7 +2,7 @@
 title: 'Dutch Driving Licence: CBR Guide for Expats 2026'
 slug: dutch-driving-license-cbr-guide-2026
 date: 2026-05-16 10:00:00+01:00
-lastmod: 2026-04-23 10:00:00+01:00
+lastmod: 2026-08-21 10:00:00+02:00
 author: Sarah van den Berg
 author_bio: Expat coach and relocation specialist. Half Dutch, half British, living in the Netherlands for over 10 years.
 categories:
@@ -31,7 +31,7 @@ keywords:
 - rijbewijs expat 2026
 faq:
 - q: Which countries must get a Dutch driving licence from scratch?
-  a: If your country does not have an exchange agreement with the Netherlands, you must pass the full CBR process. Countries without agreements include India, China, Brazil, Indonesia, Philippines, Thailand, Turkey, Russia, Mexico, Egypt, and Nigeria, among others. Always verify your country's status on the RDW website before assuming.
+  a: If your licence is not from one of the 16 RDW designated countries and you cannot exchange under the 30% ruling, you must pass the full CBR process. Non-designated countries include the United States, Australia, India, China, Brazil, South Africa, Indonesia, Philippines, Thailand, Turkey, Russia, Mexico, Egypt and Nigeria, among others. Always verify your status on rdw.nl before assuming.
 - q: How much does it cost to get a Dutch driving licence from scratch?
   a: The total cost ranges from roughly €2,000 to €3,500. This includes the health declaration (€41.50), theory exam (€39.50), driving lessons (typically 30–40 lessons at €50–70 each), and the practical exam (€130.50). The number of lessons varies significantly depending on your prior experience.
 - q: How long does it take to get a Dutch driving licence from scratch?
@@ -49,9 +49,9 @@ A colleague of mine moved here from Mumbai with fifteen years of driving experie
 
 Six months and roughly €2,600 later, she had her rijbewijs. It took far longer and cost far more than she had expected. Not because she was a bad driver. She was brilliant. But because the Netherlands has a specific, structured process for granting driving licences, and no amount of prior driving experience skips you past it if your country is not on the exchange list.
 
-This guide is for everyone in that situation. If you come from India, China, Brazil, Indonesia, Thailand, most of Africa, or any of the many countries that do not have a driving licence exchange agreement with the Netherlands — this is your roadmap. I will walk you through every step of the CBR process, what it costs, how long it takes, and how to avoid the mistakes that trip people up.
+This guide is for everyone in that situation. If you come from the United States, Australia, India, China, Brazil, Indonesia, Thailand, most of Africa, or any of the many countries the RDW has not designated for direct exchange — and you do not hold the 30% ruling, which opens a separate exchange route — this is your roadmap. I will walk you through every step of the CBR process, what it costs, how long it takes, and how to avoid the mistakes that trip people up.
 
-If you are not sure whether your country has an exchange agreement, read my [exchange driving licence guide](/guides/daily-life/exchange-driving-license-netherlands-2026/) first. That guide covers which countries can skip the tests entirely. If your country is not on that list, come back here.
+If you are not sure whether your country has an exchange agreement, read my [exchange driving licence guide](/guides/daily-life/exchange-driving-license-netherlands-2026/) first. That guide covers the 16 designated countries and the 30% ruling route, either of which lets you skip the tests entirely. If neither applies to you, come back here.
 
 ---
 
@@ -61,7 +61,7 @@ If you are not sure whether your country has an exchange agreement, read my [exc
 
 Let me be clear about who this article is for, because it is a question I get wrong answers to constantly — including on expat forums.
 
-The Netherlands has exchange agreements with over 30 non-EU countries. If your country is on that list (the UK, USA for most states, Canada, Japan, South Korea, Australia, and others), you can exchange your foreign licence without sitting any tests. The process takes a few weeks and costs around €80–€100.
+The RDW list of designated countries outside the EU/EEA has 16 entries (rdw.nl, checked 21 August 2026): Andorra, Alberta, Québec, Gibraltar, Great Britain, Guernsey, the Isle of Man, Israel, Japan, Jersey, Monaco, Northern Ireland, Singapore, Chinese Taipei, South Korea and the former Netherlands Antilles. If your licence comes from one of those, you can exchange it without sitting any tests, for around €80–€100. So can holders of the 30% ruling, regardless of country. The United States, Australia and Canada outside Alberta and Québec are not on the list.
 
 If your country is **not** on the list, you must complete the full CBR process: a health declaration, a theory exam, driving lessons, and a practical test. There is no partial credit for years of driving experience. There is no simplified version for people who already drive. You do the whole thing.
 
