@@ -109,6 +109,8 @@ New to the Netherlands? Start with our [complete expat guide](/guides/legal/comp
 
 **Our recommendation for expats:** Start with **Vattenfall** or **Eneco** (fixed or variable) for English support and simplicity. Once settled, consider switching to a dynamic provider like **Tibber** for potential savings.
 
+<a href="https://go.expatnetherlandshub.com/eneco?ref=/guides/housing/energy-providers-expats-netherlands-2026/" rel="nofollow noopener sponsored" target="_blank" class="cta-affiliate">See Eneco's current contracts and tariffs →</a>
+
 Not sure which provider suits your situation? Independer is the Netherlands' most-used comparison platform and covers all major energy suppliers in one place.
 
 <a href="https://go.expatnetherlandshub.com/independer-energie?ref=/guides/housing/energy-providers-expats-netherlands-2026/" rel="nofollow noopener sponsored" target="_blank" class="cta-affiliate">Compare Energy Providers on Independer →</a>
@@ -269,7 +271,7 @@ Prices change hourly based on the real-time European energy exchange (EPEX SPOT)
 
 ### My Recommendation
 
-For most expats arriving in the Netherlands: start with a **variable contract** from Vattenfall or Eneco for simplicity and English support. After your first year — once you understand your consumption patterns and have a smart meter — consider whether a dynamic contract from Tibber makes financial sense.
+For most expats arriving in the Netherlands: start with a **variable contract** from Vattenfall or <a href="https://go.expatnetherlandshub.com/eneco?ref=/guides/housing/energy-providers-expats-netherlands-2026/" rel="nofollow noopener sponsored" target="_blank">Eneco</a> for simplicity and English support. After your first year — once you understand your consumption patterns and have a smart meter — consider whether a dynamic contract from Tibber makes financial sense.
 
 Whichever contract type you choose, comparing prices before you sign takes just a few minutes and can save you EUR 200-400 per year. Independer shows live prices for all contract types side by side.
 

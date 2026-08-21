@@ -36,6 +36,10 @@ products:
     url: "https://go.expatnetherlandshub.com/independer-telecom?ref=/blog/unlimited-data-plans-netherlands-compared-2026/"
     price: "0.00"
     tag: "Compare plans"
+  - name: "Budget Thuis Energie"
+    url: "https://go.expatnetherlandshub.com/budget-thuis-energie?ref=/blog/unlimited-data-plans-netherlands-compared-2026/"
+    price: "0.00"
+    tag: "Energy"
   - name: "Budget Thuis Internet"
     url: "https://go.expatnetherlandshub.com/budget-thuis-internet?ref=/blog/unlimited-data-plans-netherlands-compared-2026/"
     price: "0.00"
@@ -123,7 +127,7 @@ The constraint is the speed tier, not the volume. An unlimited plan capped aroun
 
 If you are bridging a few weeks before installation, tethering an unlimited plan is a perfectly sensible move. If it is going to be your permanent setup, compare it honestly against a real broadband contract — <a href="https://go.expatnetherlandshub.com/budget-thuis-internet?ref=/blog/unlimited-data-plans-netherlands-compared-2026/" target="_blank" rel="nofollow sponsored noopener">Budget Thuis internet</a> is one of the budget options, and our [Dutch broadband provider comparison](/blog/best-broadband-internet-providers-expats-netherlands-2026/) covers fibre versus cable and which providers deal well with English-speaking customers.
 
-One more thing worth knowing: several Dutch providers, Budget Thuis included, apply a combination discount if you take mobile and internet or energy at the same address. It is usually a couple of euros a month per service, which is not life-changing but is free money if you were going to buy both anyway.
+One more thing worth knowing: several Dutch providers, Budget Thuis included, apply a combination discount if you take mobile and internet or <a href="https://go.expatnetherlandshub.com/budget-thuis-energie?ref=/blog/unlimited-data-plans-netherlands-compared-2026/" target="_blank" rel="nofollow sponsored noopener">energy</a> at the same address. It is usually a couple of euros a month per service, which is not life-changing but is free money if you were going to buy both anyway. Check the discount on the provider's own page before assuming it applies to your combination — the terms differ per pairing.
 
 ## What you need before you can buy one
 

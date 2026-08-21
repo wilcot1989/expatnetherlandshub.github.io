@@ -32,6 +32,10 @@ products:
     url: "https://go.expatnetherlandshub.com/budget-thuis-mobiel?ref=/blog/best-sim-card-tourists-new-arrivals-netherlands-2026/"
     price: "0.00"
     tag: "Sim-only"
+  - name: "Mobiel.nl"
+    url: "https://go.expatnetherlandshub.com/mobiel-nl?ref=/blog/best-sim-card-tourists-new-arrivals-netherlands-2026/"
+    price: "0.00"
+    tag: "Phones & Plans"
   - name: "Independer Telecom"
     url: "https://go.expatnetherlandshub.com/independer-telecom?ref=/blog/best-sim-card-tourists-new-arrivals-netherlands-2026/"
     price: "0.00"
@@ -113,6 +117,8 @@ Once both exist, moving from prepaid to sim-only takes about half an hour, and n
 Budget brands that resell capacity on the big three networks are where the value sits. <a href="https://go.expatnetherlandshub.com/budget-thuis-mobiel?ref=/blog/best-sim-card-tourists-new-arrivals-netherlands-2026/" target="_blank" rel="nofollow sponsored noopener">Budget Thuis Mobiel</a>, for instance, runs on the KPN network and lists an unlimited data, calls and SMS plan at €20 per month at standard pricing, with smaller bundles from a few euros — and, at the time of writing, an introductory rate for the first eight months on a two-year term. Introductory pricing rolls off, so read the post-promotion price before you sign; check the current offer directly.
 
 If you would rather see several providers side by side before committing, <a href="https://go.expatnetherlandshub.com/independer-telecom?ref=/blog/best-sim-card-tourists-new-arrivals-netherlands-2026/" target="_blank" rel="nofollow sponsored noopener">Independer's telecom comparison</a> lists Dutch sim-only plans with current pricing in one table.
+
+If you also need a phone at that point — a common situation when a handset locked to a home-country carrier turns out to be a problem — <a href="https://go.expatnetherlandshub.com/mobiel-nl?ref=/blog/best-sim-card-tourists-new-arrivals-netherlands-2026/" target="_blank" rel="nofollow sponsored noopener">Mobiel.nl</a> sells handsets outright alongside handset-plus-plan bundles and sim-only plans, so you can check whether the bundle is genuinely cheaper than buying the phone and taking sim-only separately. It is Dutch-only, and a financed handset above €250 counts as consumer credit here and is registered at BKR.
 
 ## Networks, coverage and what actually differs
 

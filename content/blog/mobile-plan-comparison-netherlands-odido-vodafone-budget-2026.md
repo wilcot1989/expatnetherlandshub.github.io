@@ -30,6 +30,10 @@ products:
     url: "https://go.expatnetherlandshub.com/budget-thuis-mobiel?ref=/blog/mobile-plan-comparison-netherlands-odido-vodafone-budget-2026/"
     price: "0.00"
     tag: "Budget sim-only"
+  - name: "Mobiel.nl"
+    url: "https://go.expatnetherlandshub.com/mobiel-nl?ref=/blog/mobile-plan-comparison-netherlands-odido-vodafone-budget-2026/"
+    price: "0.00"
+    tag: "Phones & Plans"
   - name: "Independer Mobiel"
     url: "https://go.expatnetherlandshub.com/independer-telecom?ref=/blog/mobile-plan-comparison-netherlands-odido-vodafone-budget-2026/"
     price: "0.00"
@@ -135,7 +139,7 @@ Then the part that costs expats the most money: **nothing improves automatically
 
 Dutch carriers will happily sell you a phone on instalments alongside your plan. Legally this is not a bundle discount; it is consumer credit. Following Dutch case law and AFM supervision, a financed handset above €250 triggers a creditworthiness assessment and a registration at BKR, the national credit register in Tiel. That registration then sits against your borrowing capacity for as long as the credit runs — including when a mortgage lender assesses you.
 
-The clean alternatives are to pay for the handset outright, or to keep the financed portion below the €250 threshold, and pair either with a sim-only plan. We go through the mechanics in [Dutch phone contracts and BKR](/blog/dutch-phone-contracts-bkr-credit-registration-2026/) and the wider context in [how to build a credit history in the Netherlands](/blog/how-to-build-credit-history-netherlands-expats-2026/).
+The clean alternatives are to pay for the handset outright, or to keep the financed portion below the €250 threshold, and pair either with a sim-only plan. Comparing those routes honestly means seeing the cash price of the phone and the instalment plan in the same view, which provider sites are not designed to show you. <a href="https://go.expatnetherlandshub.com/mobiel-nl?ref=/blog/mobile-plan-comparison-netherlands-odido-vodafone-budget-2026/" target="_blank" rel="nofollow sponsored noopener">Mobiel.nl</a> sells handsets outright, handset-plus-plan bundles and sim-only plans across Odido, Vodafone, KPN, Ben, Simyo, Youfone and the budget brands, so the two totals sit next to each other. It is a Dutch-language shop, so browser translation is part of the process. We go through the mechanics in [Dutch phone contracts and BKR](/blog/dutch-phone-contracts-bkr-credit-registration-2026/) and the wider context in [how to build a credit history in the Netherlands](/blog/how-to-build-credit-history-netherlands-expats-2026/).
 
 ## Roaming: what is free and what is not
 

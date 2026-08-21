@@ -246,6 +246,10 @@ The key thing to understand: these providers do not own their own network. They 
 
 My view: budget providers make sense if you have someone who can help you in Dutch (a colleague, a partner, a Dutch friend), if you are confident enough in Dutch to handle a support call, or if you are only staying for a defined period and want to keep costs down. For most newly arrived expats still finding their feet, the €10–15 monthly saving is not worth the potential headache of dealing with a Dutch-only support chain when your internet goes down.
 
+If you have decided the trade-off is worth it, Budget Thuis is the one of the three with the broadest cable footprint, since it rides on Ziggo's network — check what it can deliver at your address before comparing prices.
+
+<a href="https://go.expatnetherlandshub.com/budget-thuis-internet?ref=/guides/daily-life/best-internet-providers-netherlands-expats-2026/" target="_blank" rel="nofollow noopener sponsored" class="cta-affiliate">See Budget Thuis internet packages →</a>
+
 <a href="https://go.expatnetherlandshub.com/independer-internet?ref=/guides/daily-life/best-internet-providers-netherlands-expats-2026/" target="_blank" rel="nofollow noopener sponsored" class="cta-affiliate">Compare internet deals on Independer →</a>
 
 ---
@@ -383,7 +387,11 @@ I use Independer for almost every utility comparison I do with clients, and inte
 
 It is genuinely the most efficient way to find what is actually available at your specific address — which, as I have explained, determines your real options more than any general provider ranking does.
 
+One caveat worth knowing: comparison sites do not all carry the same providers or the same promotions, so the "best deal" you see depends partly on which site you asked. Internetten.nl is a second Dutch comparison site (not a provider — the contract is still with KPN, Ziggo, Odido, Budget Thuis or whoever you choose) that runs the same postcode check and advertises its own cashback on subscriptions taken through it. It is Dutch-only, so browser translation is part of the exercise, but running your postcode past both takes two minutes and occasionally turns up a package the other one did not list.
+
 <a href="https://go.expatnetherlandshub.com/independer-internet?ref=/guides/daily-life/best-internet-providers-netherlands-expats-2026/" target="_blank" rel="nofollow noopener sponsored" class="cta-affiliate">Compare internet deals on Independer →</a>
+
+<a href="https://go.expatnetherlandshub.com/internetten?ref=/guides/daily-life/best-internet-providers-netherlands-expats-2026/" target="_blank" rel="nofollow noopener sponsored" class="cta-affiliate">Check your postcode on Internetten.nl →</a>
 
 ---
 

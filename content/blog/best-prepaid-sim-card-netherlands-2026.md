@@ -25,6 +25,10 @@ products:
   url: https://go.expatnetherlandshub.com/nordvpn?ref=/blog/best-prepaid-sim-card-netherlands-2026/
   price: '3.09'
   tag: VPN
+- name: Mobiel.nl
+  url: https://go.expatnetherlandshub.com/mobiel-nl?ref=/blog/best-prepaid-sim-card-netherlands-2026/
+  price: '0.00'
+  tag: 'Phones & Plans'
 faq:
 - q: What is the best prepaid SIM card for expats in the Netherlands?
   a: Lebara is the most popular choice for expats in the Netherlands. It offers a €10 starter pack with a Dutch number, a solid 4G/5G network, and cheap international call add-ons for over 40 countries. Setup takes about 15 minutes online after you receive the SIM. If you primarily need local data and the lowest possible price, Lycamobile is the better budget pick.
@@ -194,7 +198,7 @@ But prepaid has real limitations:
 
 **Data is expensive per GB.** A prepaid bundle giving you 5 GB costs roughly €10–15. A postpaid subscription with unlimited data typically costs €20–30/month. Once you are using a phone regularly for maps, streaming, video calls, and work email, you will consistently hit prepaid data limits.
 
-**No device financing.** Postpaid contracts in the Netherlands often bundle in a subsidised handset. This is irrelevant if you already own a phone, but worth knowing.
+**No device financing.** Postpaid contracts in the Netherlands often bundle in a subsidised handset. This is irrelevant if you already own a phone, but worth knowing. If you do need a phone as well as a plan, a retailer such as <a href="https://go.expatnetherlandshub.com/mobiel-nl?ref=/blog/best-prepaid-sim-card-netherlands-2026/" target="_blank" rel="nofollow sponsored noopener">Mobiel.nl</a> lists handsets outright, handset-plus-plan bundles and sim-only plans in one place, which is the only practical way to see whether the bundle is actually cheaper. It is a Dutch-language shop, and note that a financed handset above €250 is consumer credit in the Netherlands and gets registered at BKR — see [Dutch phone contracts and BKR registration](/blog/dutch-phone-contracts-bkr-credit-registration-2026/).
 
 **Some services still prefer postpaid.** A handful of Dutch services ask for a subscription contract number rather than a prepaid number for verification. This is rare but does happen.
 

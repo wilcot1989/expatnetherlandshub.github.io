@@ -31,6 +31,10 @@ faq:
   - q: "What happens if I move house mid-contract?"
     a: "You typically transfer (verhuizen) your contract to the new address rather than cancel and start again. Cost: usually EUR 35 to EUR 75 transfer fee. Most providers waive this if you commit to renewing the contract. If your new address is outside your current provider's coverage (e.g., fibre area when you had cable, or a smaller alt-net not present at the new location), you can cancel without penalty — moving outside coverage is a recognised reason for early termination."
 products:
+  - name: "Internetten.nl"
+    url: "https://go.expatnetherlandshub.com/internetten?ref=/blog/how-to-switch-internet-provider-netherlands-2026/"
+    price: "0.00"
+    tag: "Comparison"
   - name: "Independer Internet"
     url: "https://go.expatnetherlandshub.com/independer-internet?ref=/blog/how-to-switch-internet-provider-netherlands-2026/"
     price: "0.00"
@@ -79,6 +83,10 @@ In 2026 the alt-net landscape has consolidated. Major players:
 If your address is on alt-net fibre, you typically have a choice of resellers offering service over the same physical fibre — sometimes 5 to 10 options. This is where switching saves the most.
 
 For a current comparison on your address, [Independer's internet comparison](https://go.expatnetherlandshub.com/independer-internet) <a href="https://go.expatnetherlandshub.com/independer-internet" target="_blank" rel="nofollow sponsored noopener">(see the comparison)</a> is the standard expat starting point — it pulls live tariffs by postal code.
+
+Worth running the same postcode past a second comparison site before you commit, because the two do not list identical providers or identical promotions. <a href="https://go.expatnetherlandshub.com/internetten?ref=/blog/how-to-switch-internet-provider-netherlands-2026/" target="_blank" rel="nofollow sponsored noopener">Internetten.nl</a> is a comparison site rather than a provider — you sign with KPN, Ziggo, Odido, Budget Thuis or whoever you pick, and it advertises its own cashback on subscriptions taken through it. The interface is Dutch-only, so expect to use browser translation.
+
+<p><a href="https://go.expatnetherlandshub.com/internetten?ref=/blog/how-to-switch-internet-provider-netherlands-2026/" target="_blank" rel="nofollow sponsored noopener"><strong>Compare packages at your postcode on Internetten.nl &rarr;</strong></a></p>
 
 ## The Three Things That Determine Your Best Switch
 

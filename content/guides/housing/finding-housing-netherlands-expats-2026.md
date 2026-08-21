@@ -361,7 +361,7 @@ In practice, most expats earning highly skilled migrant salaries do not qualify 
 Once you have secured your housing, handle these tasks quickly:
 
 1. **Register at the gemeente**: You need your rental contract and address to register and receive your BSN. See our [complete guide to moving to the Netherlands](/guides/legal/complete-guide-moving-to-netherlands-2026/) for the full registration process.
-2. **Set up utilities**: If utilities are not included, arrange gas, electricity, and water with a provider like Vattenfall, Eneco, or Budget Energie. Comparing before you sign takes five minutes and can save EUR 200-400 per year. See our [guide to the best energy providers in the Netherlands](/guides/housing/energy-providers-expats-netherlands-2026/) for a current comparison.
+2. **Set up utilities**: If utilities are not included, arrange gas, electricity, and water with a provider like Vattenfall, <a href="https://go.expatnetherlandshub.com/eneco?ref=/guides/housing/finding-housing-netherlands-expats-2026/" target="_blank" rel="nofollow noopener sponsored">Eneco</a>, or Budget Energie. Comparing before you sign takes five minutes and can save EUR 200-400 per year. See our [guide to the best energy providers in the Netherlands](/guides/housing/energy-providers-expats-netherlands-2026/) for a current comparison.
 
    <a href="https://go.expatnetherlandshub.com/independer-energie?ref=/guides/housing/finding-housing-netherlands-expats-2026/" rel="nofollow noopener sponsored" target="_blank" class="cta-affiliate">Compare Energy Providers on Independer →</a>
 

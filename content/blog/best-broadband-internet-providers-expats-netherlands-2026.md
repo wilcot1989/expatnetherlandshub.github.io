@@ -37,6 +37,10 @@ products:
     url: "https://go.expatnetherlandshub.com/independer-internet?ref=/blog/best-broadband-internet-providers-expats-netherlands-2026/"
     price: "0.00"
     tag: "Comparison"
+  - name: "Internetten.nl"
+    url: "https://go.expatnetherlandshub.com/internetten?ref=/blog/best-broadband-internet-providers-expats-netherlands-2026/"
+    price: "0.00"
+    tag: "Comparison"
 ---
 When I first moved into a flat in Amsterdam-West, I assumed I'd have a choice of providers and ended up with whatever the previous tenant had been using because that was easiest. A year later I switched and saved €18/month on a faster plan. The lesson: in Dutch broadband, "what was already there" is rarely the best deal.
 
@@ -125,10 +129,28 @@ Slower speeds (typically 50–100 Mbps), older copper infrastructure. Avoid if a
 Three options:
 
 1. **Comparison tool.** Use [Independer's internet checker](https://go.expatnetherlandshub.com/independer-internet?ref=/blog/best-broadband-internet-providers-expats-netherlands-2026/) — enter your address, see all providers and current prices.
-2. **Provider websites.** Each provider's homepage has an address checker. Useful for confirming specific provider pricing.
-3. **Glasvezel Buitenaf website.** Shows fiber availability across the country including upcoming rollouts.
+2. **A second comparison site.** [Internetten.nl](https://go.expatnetherlandshub.com/internetten?ref=/blog/best-broadband-internet-providers-expats-netherlands-2026/) runs the same kind of postcode check against its own set of providers (see the section below).
+3. **Provider websites.** Each provider's homepage has an address checker. Useful for confirming specific provider pricing.
+4. **Glasvezel Buitenaf website.** Shows fiber availability across the country including upcoming rollouts.
 
 If your address is being upgraded to fiber soon (within 3–6 months), it's worth waiting before signing a new contract — fiber pricing is often promotional and you can lock in a better long-term deal once it's live.
+
+## Internetten.nl: What It Is (and Isn't)
+
+Worth being precise about this one, because the name suggests otherwise: **Internetten.nl is a comparison site, not an internet provider.** You never become a customer of Internetten.nl — you compare packages there and the subscription itself is with KPN, Ziggo, Odido, Budget Thuis, Online.nl, Youfone or whichever provider you pick.
+
+What it does:
+
+- **Postcode check first.** You enter postcode and house number, and it lists only the packages actually deliverable at that address — the same starting point as any other Dutch comparison tool.
+- **Internet, TV and landline together.** Filtering is built around the bundles Dutch providers actually sell, so you can see internet-only next to internet-plus-TV instead of pricing them separately.
+- **Its own cashback offers.** The site advertises cashback on subscriptions completed through it, on top of whatever the provider is running. The amount depends on the package and changes, so treat the figure on the page as the number to verify, not one to plan around.
+- **Same operator as Gaslicht.com**, the energy comparison site, which is why the two look and behave similarly.
+
+The catch for expats: **the site is Dutch-only.** There is no English version, so plan on browser translation. The comparison is mostly tables of speeds, prices and contract terms, which survives machine translation reasonably well — but if you want to read every term in English before signing, that is a reason to compare here and then confirm the details on an English-language provider page.
+
+Practically: it is a second opinion. Comparison sites do not all list the same providers or the same promotions, so checking two is a cheap way to find out whether the deal you were about to take is actually the best one at your address.
+
+<p><a href="https://go.expatnetherlandshub.com/internetten?ref=/blog/best-broadband-internet-providers-expats-netherlands-2026/" target="_blank" rel="nofollow sponsored noopener"><strong>Check available internet packages at your address on Internetten.nl &rarr;</strong></a></p>
 
 ## Bundle Decisions: Internet + TV + Mobile
 
@@ -314,7 +336,7 @@ KPN and Ziggo have the most reliable repair operations. MVNOs can take longer be
 
 For most expats moving to the Netherlands or settling in for the long term:
 
-1. **Check what's available** at your specific address via [Independer](https://go.expatnetherlandshub.com/independer-internet?ref=/blog/best-broadband-internet-providers-expats-netherlands-2026/).
+1. **Check what's available** at your specific address via [Independer](https://go.expatnetherlandshub.com/independer-internet?ref=/blog/best-broadband-internet-providers-expats-netherlands-2026/), and cross-check the result on [Internetten.nl](https://go.expatnetherlandshub.com/internetten?ref=/blog/best-broadband-internet-providers-expats-netherlands-2026/) — the promotions listed differ.
 2. **Pick fiber** if available, even if cable is also available.
 3. **Pick the mid-tier (200–500 Mbps) plan** unless you're a heavy gamer/4K streamer/uploader.
 4. **Skip TV bundle** unless you watch live Dutch TV. Streaming services cover most needs.

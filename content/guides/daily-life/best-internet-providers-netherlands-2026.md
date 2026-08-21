@@ -300,6 +300,10 @@ Budget Thuis is a no-frills provider that uses the Ziggo cable network. It offer
 
 Budget Thuis is the cheapest way to get cable internet in the Netherlands. If you do not need English support and just want a working internet connection at the lowest price, it delivers. Ideal for expats who have settled in and are comfortable with Dutch-language services.
 
+Because it resells Ziggo's cable, availability follows the Ziggo footprint — if Ziggo reaches your address, Budget Thuis almost certainly does too. Check the current plans and promotional pricing before signing, as the introductory rates change regularly.
+
+<a href="https://go.expatnetherlandshub.com/budget-thuis-internet?ref=/guides/daily-life/best-internet-providers-netherlands-2026/" rel="nofollow noopener sponsored" target="_blank" class="cta-affiliate">Check Budget Thuis internet prices →</a>
+
 ---
 
 ## 6. Online.nl -- Cheapest Fiber Internet
@@ -459,6 +463,10 @@ Check what is available at your address, pick the plan that matches your househo
 The quickest way to find the best available deal at your specific address is to run a comparison on Independer — it checks live prices from all major providers in one place.
 
 <a href="https://go.expatnetherlandshub.com/independer-internet?ref=/guides/daily-life/best-internet-providers-netherlands-2026/" rel="nofollow noopener sponsored" target="_blank" class="cta-affiliate">Compare Internet Providers on Independer →</a>
+
+Internetten.nl is a second comparison site worth running the same postcode through. It is a comparison platform rather than a provider — your subscription is still with KPN, Ziggo, Odido, Budget Thuis or whichever provider you select — and it advertises its own cashback on subscriptions completed through it. The site is Dutch-only, so use browser translation; the value is that its provider list and active promotions do not perfectly overlap with Independer's.
+
+<a href="https://go.expatnetherlandshub.com/internetten?ref=/guides/daily-life/best-internet-providers-netherlands-2026/" rel="nofollow noopener sponsored" target="_blank" class="cta-affiliate">Compare packages on Internetten.nl →</a>
 
 Internet is just one piece of your monthly budget — see our [cost of living in the Netherlands guide](/guides/housing/cost-of-living-netherlands-2026/) for a full breakdown of what to expect.
 

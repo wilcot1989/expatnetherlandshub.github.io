@@ -33,6 +33,10 @@ products:
     url: "https://go.expatnetherlandshub.com/t-mobile?ref=/blog/best-sim-only-plans-expats-netherlands-2026/"
     price: "0.00"
     tag: "Telecom"
+  - name: "Mobiel.nl"
+    url: "https://go.expatnetherlandshub.com/mobiel-nl?ref=/blog/best-sim-only-plans-expats-netherlands-2026/"
+    price: "0.00"
+    tag: "Phones & Plans"
   - name: "Independer Telecom"
     url: "https://go.expatnetherlandshub.com/independer-telecom?ref=/blog/best-sim-only-plans-expats-netherlands-2026/"
     price: "0.00"
@@ -212,6 +216,10 @@ Math reality: phone-plus-plans are usually 10–20% more expensive over the cont
 Exception: aggressive promotional deals (€1 phone with high-data plan) can occasionally beat the standalone math, especially for top-tier flagship phones. Run the numbers before signing.
 
 For most expats, **buy the phone separately and pair with SIM-only.** You save money and you keep flexibility to switch SIM-only plans annually.
+
+To actually run that comparison you need both halves priced side by side, which is where a retailer beats a provider website. <a href="https://go.expatnetherlandshub.com/mobiel-nl?ref=/blog/best-sim-only-plans-expats-netherlands-2026/" target="_blank" rel="nofollow sponsored noopener">Mobiel.nl</a> is a Dutch phone shop and plan comparison in one: it sells handsets outright, handset-plus-plan bundles, and SIM-only plans from Odido, Vodafone, KPN, Ben, Simyo, Youfone, Lebara, Budget Thuis and others. Because all three options sit in the same place, you can put the outright handset price next to the 24-month bundle and see the real difference rather than guessing at it. Two caveats: the site is Dutch-only, so expect browser translation, and a financed handset is consumer credit under Dutch rules — above €250 it means a BKR registration that counts against your future mortgage capacity ([details here](/blog/dutch-phone-contracts-bkr-credit-registration-2026/)).
+
+<p><a href="https://go.expatnetherlandshub.com/mobiel-nl?ref=/blog/best-sim-only-plans-expats-netherlands-2026/" target="_blank" rel="nofollow sponsored noopener"><strong>Compare handsets and SIM-only plans at Mobiel.nl &rarr;</strong></a></p>
 
 ## Staying Connected During the BSN Wait
 

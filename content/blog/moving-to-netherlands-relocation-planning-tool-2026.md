@@ -216,7 +216,7 @@ Your employer files the application with the Belastingdienst. You provide the su
 
 Once you sign a long-term rental, you usually choose your own energy supplier (electricity and gas) and internet provider. If the previous tenant left an active contract, you have 30 days to switch or take over.
 
-For energy, the cheapest contracts in 2026 are still variable-tariff with Vandebron, Eneco, or Greenchoice. For internet, KPN, Odido, and Ziggo dominate; in apartments with fibre, you usually get a better deal through a smaller reseller like Freedom Internet.
+For energy, the cheapest contracts in 2026 are still variable-tariff with Vandebron, <a href="https://go.expatnetherlandshub.com/eneco?ref=/blog/moving-to-netherlands-relocation-planning-tool-2026/" target="_blank" rel="nofollow sponsored noopener">Eneco</a>, or Greenchoice. For internet, KPN, Odido, and Ziggo dominate; in apartments with fibre, you usually get a better deal through a smaller reseller like Freedom Internet.
 
 This is the kind of detail [verhuisplanner.app](https://verhuisplanner.app) flags automatically based on your postcode, which saves me from having to look up which providers actually cover each street.
 

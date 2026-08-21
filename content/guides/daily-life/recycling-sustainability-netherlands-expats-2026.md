@@ -19,13 +19,13 @@ keywords:
 - statiegeld bottles netherlands
 - kringloop netherlands
 - afvalkalender how to use
-affiliate: false
+affiliate: true
 products:
 - name: Vattenfall
   url: https://www.vattenfall.nl/
   price: '0.00'
 - name: Eneco
-  url: https://www.eneco.nl/
+  url: https://go.expatnetherlandshub.com/eneco?ref=/guides/daily-life/recycling-sustainability-netherlands-expats-2026/
   price: '0.00'
 - name: KPN
   url: https://www.kpn.com/

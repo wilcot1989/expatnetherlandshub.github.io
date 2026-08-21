@@ -107,7 +107,7 @@ You will need: name, address, BSN (or alien registration number), Dutch bank acc
 Swedish-owned, operates across the Netherlands. Consistently competitive on pricing and strong on renewable options. Good English-language customer support. Online account management is clear.
 
 **Eneco** (eneco.nl)
-Dutch-origin provider, now owned by Mitsubishi. Strong brand recognition and customer satisfaction scores. Offers home solar products (Eneco Zon Thuis), electric vehicle charging solutions, and a good Dutch-language app. English support exists but is less intuitive to find.
+Dutch-origin provider, now owned by Mitsubishi. Strong brand recognition and customer satisfaction scores. Offers home solar products (Eneco Zon Thuis), electric vehicle charging solutions, and a good Dutch-language app. English support exists but is less intuitive to find. <a href="https://go.expatnetherlandshub.com/eneco?ref=/blog/dutch-utilities-explained-expats-2026/" target="_blank" rel="noopener nofollow sponsored">Their current tariffs and contract terms are here</a> if you want to check them against a comparison result.
 
 **Essent** (essent.nl)
 RWE-owned (German). Largest customer base in the Netherlands. Frequently competitive on introductory prices. Has been criticised for customer service response times. Strong online tools.
@@ -346,6 +346,8 @@ Switching is handled almost entirely by your new supplier — you sign up online
 <a href="https://go.expatnetherlandshub.com/wise" class="cta-affiliate" rel="nofollow noopener sponsored" target="_blank">Try Wise</a>
 
 Or compare internet and energy providers: <a href="https://go.expatnetherlandshub.com/independer-internet" class="cta-affiliate" rel="nofollow noopener sponsored" target="_blank">Compare Internet Plans at Independer</a>
+
+<a href="https://go.expatnetherlandshub.com/internetten?ref=/blog/dutch-utilities-explained-expats-2026/" class="cta-affiliate" rel="nofollow noopener sponsored" target="_blank">Check internet packages at your postcode on Internetten.nl →</a>
 
 ---
 

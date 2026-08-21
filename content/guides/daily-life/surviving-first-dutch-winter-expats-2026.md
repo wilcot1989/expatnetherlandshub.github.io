@@ -23,7 +23,7 @@ products:
   url: https://www.vattenfall.nl/
   price: '0.00'
 - name: Eneco
-  url: https://www.eneco.nl/
+  url: https://go.expatnetherlandshub.com/eneco?ref=/guides/daily-life/surviving-first-dutch-winter-expats-2026/
   price: '0.00'
 - name: KPN
   url: https://www.kpn.com/
@@ -190,7 +190,7 @@ These are averages and depend heavily on insulation quality. Older Dutch buildin
 - Check that all rooms have working radiators before the cold arrives
 - Draught-excluding tape for old window frames costs EUR 5 and reduces heat loss noticeably
 - In a rental, report heating problems to your landlord early — you have a legal right to a properly functioning heating system
-- Consider a fixed-price energy contract if you are on a variable tariff — it removes the risk of price spikes in cold months
+- Consider a fixed-price energy contract if you are on a variable tariff — it removes the risk of price spikes in cold months. Suppliers publish their fixed and variable tariffs side by side; <a href="https://go.expatnetherlandshub.com/eneco?ref=/guides/daily-life/surviving-first-dutch-winter-expats-2026/" target="_blank" rel="nofollow noopener sponsored">Eneco</a> is one of the larger ones and a reasonable place to see what a current fixed contract costs before you compare more widely. Our [energy providers guide](/guides/housing/energy-providers-expats-netherlands-2026/) covers the full field, including the English-support question.
 
 ---
 
