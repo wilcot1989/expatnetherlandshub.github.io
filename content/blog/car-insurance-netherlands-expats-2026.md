@@ -1,8 +1,8 @@
 ---
-title: Car Insurance Netherlands for Expats 2026
+title: 'Car Insurance Netherlands 2026: Costs, WA vs WA+ vs Allrisk'
 date: 2026-03-22 10:00:00+01:00
-lastmod: 2026-08-19 10:00:00+02:00
-description: "What car insurance costs in the Netherlands in 2026, WA vs WA+ vs allrisk, transferring no-claims years, and how to find cheap cover that pays out."
+lastmod: 2026-08-21 10:00:00+02:00
+description: "What car insurance costs in the Netherlands in 2026: averages of about EUR 100-111 a month, how to get foreign no-claims years recognised, and which cover level to pick."
 categories:
 - daily-life
 tags:
@@ -41,6 +41,10 @@ faq:
   a: 'There is no single cheapest Dutch insurer, because premiums are priced on your postcode, car, age, annual mileage and schadevrije jaren. The method that works: pick the coverage level your car''s value justifies (allrisk above roughly EUR 15,000 or under five years old, WA+ between EUR 5,000 and EUR 15,000, WA below that), then compare the whole market in one pass instead of buying direct from one insurer, make sure your foreign claim-free years are formally recognised, set the eigen risico (excess) at an amount you could pay tomorrow, and strip add-ons you already have elsewhere. Re-compare at every renewal — Dutch insurers price new customers more aggressively than existing ones.'
 - q: How much is car insurance in the Netherlands per month?
   a: Geld.nl's 2026 comparison monitor reports average monthly premiums of EUR 109.57 for WA, EUR 100.17 for WA+ and EUR 111.49 for allrisk in the first half of 2026, after increases of 11.6% to 17.9% over 2025. Those averages include young drivers and high-risk postcodes. An experienced driver with recognised claim-free years pays below them; a newly arrived expat whose foreign history has not been recognised pays above them.
+- q: How much does comprehensive (allrisk) car insurance cost per month in the Netherlands?
+  a: Geld.nl's 2026 comparison monitor puts the average allrisk premium at about EUR 111.49 per month over the first half of 2026, against EUR 109.57 for WA and EUR 100.17 for WA+, after premium increases of 11.6% to 17.9% over 2025. Those averages include young drivers and high-risk postcodes, so an experienced driver with recognised schadevrije jaren pays below them while a newly arrived expat whose foreign history has not been recognised pays above them. Allrisk is generally only justified on a car worth roughly EUR 15,000 or more, or under five years old.
+- q: Do I need insurance before I can register a car in the Netherlands?
+  a: Yes. WA third-party liability insurance is legally mandatory for every vehicle registered in the Netherlands, and the RDW verifies insurance coverage at the time of registration, so you cannot register or drive a car without it. Driving without WA cover is a criminal offence that can result in fines, vehicle seizure and personal liability for all damage you cause. Arrange the policy first and complete the registration afterwards.
 products:
 - name: Independer (car insurance comparison)
   url: https://go.expatnetherlandshub.com/independer-auto?ref=/blog/car-insurance-netherlands-expats-2026/
@@ -52,6 +56,8 @@ products:
   tag: Expat Insurance
 schema_type: Article
 ---
+**Short answer:** Car insurance is compulsory in the Netherlands — every registered vehicle needs at least WA (third-party liability) — and Geld.nl's 2026 monitor puts average monthly premiums at roughly EUR 109.57 for WA, EUR 100.17 for WA+ and EUR 111.49 for allrisk over the first half of 2026. Newly arrived expats pay above those averages until their foreign claim-free years are formally recognised.
+
 When I arrived in the Netherlands and bought my first car here, I spent about two hours on an insurance comparison website trying to figure out what WA, WA+, and allrisk actually meant, why my UK no-claims history was being treated with mild suspicion, and whether the price I was looking at was reasonable or completely excessive.
 
 No one had warned me that Dutch car insurance had its own vocabulary, its own no-claims ladder system, and its own quirks around how foreign driving history is recognised. I eventually figured it out — overpaid for the first year, then sorted it properly after that.

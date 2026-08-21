@@ -1,8 +1,8 @@
 ---
-title: Best Food Delivery Apps Netherlands 2026
+title: 'Best Food Delivery Apps Netherlands 2026: 6 Compared'
 date: 2026-03-18 10:00:00+01:00
-lastmod: 2026-04-23 10:00:00+01:00
-description: Food and grocery delivery in the Netherlands 2026. Thuisbezorgd, Uber Eats, Flink, Picnic, and Crisp compared — prices, delivery areas, and expat tips.
+lastmod: 2026-08-21 10:00:00+01:00
+description: 'Food delivery in the Netherlands 2026: Thuisbezorgd, Uber Eats, Picnic, Flink, Crisp and Albert Heijn compared on delivery fee, minimum order, speed and English support.'
 categories:
 - daily-life
 tags:
@@ -40,8 +40,14 @@ faq:
   a: Gorillas was acquired by Getir in 2022. Getir then went through significant financial difficulties and exited most European markets including the Netherlands in 2024. As of 2026, neither Gorillas nor Getir is operating in the Netherlands. The main quick grocery delivery option remaining is Flink, which has weathered the consolidation wave better than its competitors.
 - q: Do Dutch food delivery apps accept iDEAL?
   a: Yes. All major food delivery apps operating in the Netherlands accept iDEAL, which matters greatly in a market where iDEAL is the dominant payment method. Thuisbezorgd, Uber Eats, Picnic, Flink, and Crisp all accept iDEAL. They also accept credit and debit cards.
+- q: What food delivery apps work in the Netherlands in 2026?
+  a: 'Six main options. For restaurants there is Thuisbezorgd (the largest platform by a wide margin) and Uber Eats. For groceries there is Picnic for a scheduled weekly shop, Albert Heijn Online for the full supermarket range, Flink for 15-30 minute top-ups, and Crisp for premium and organic. Three names you may remember are gone: Deliveroo exited the Netherlands in November 2022, Gorillas was acquired by Getir in 2022, and Getir itself left the Dutch market in 2024.'
+- q: Which food delivery app is best in Amsterdam?
+  a: 'For restaurant delivery, Thuisbezorgd has the widest selection nationwide and in Amsterdam runs to thousands of options, while Uber Eats is strongest in the major cities and often lists newer and more upmarket restaurants that Thuisbezorgd does not have. Many expats keep both and use whichever has what they want that evening. For quick groceries, Flink covers Amsterdam and the other large cities with 15-30 minute delivery; for a planned shop, Picnic and Albert Heijn Online both deliver in the city.'
 schema_type: Article
 ---
+
+**Short answer:** Use Thuisbezorgd for restaurant delivery — it has the widest selection and covers every Dutch city and most towns. For a planned weekly grocery shop, Picnic is the best value, with free delivery above its EUR 35 minimum. For a 15-30 minute top-up when you have run out of something, Flink is the one that survived the quick-commerce shakeout.
 
 Food delivery in the Netherlands has changed a lot in the past few years. Deliveroo has gone. Gorillas has gone. Getir has gone. The quick-commerce boom of 2020–2022 went through a shakeout, and what remains in 2026 is a leaner, more stable market.
 

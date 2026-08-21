@@ -1,8 +1,8 @@
 ---
-title: 'N26 Review Netherlands 2026: Honest Verdict'
+title: 'N26 Netherlands Review 2026: German IBAN, Tikkie, iDEAL'
 date: 2026-03-18 10:00:00+01:00
-lastmod: 2026-08-19 12:00:00+02:00
-description: Full N26 review for expats in the Netherlands 2026. German IBAN, free and premium plans, honest assessment of what works and what does not for life here.
+lastmod: 2026-08-21 10:00:00+02:00
+description: 'N26 review for the Netherlands 2026: what a German DE IBAN does and does not get you, why iDEAL and Tikkie do not work, and plan costs from free to EUR 16.90 a month.'
 categories:
 - finance
 tags:
@@ -42,14 +42,18 @@ faq:
   a: N26 and Revolut are both fintech apps targeting similar customers, but they take different approaches. N26 is a licensed bank (regulated by BaFin, Germany's banking regulator) with proper deposit insurance up to EUR 100,000 through Germany's deposit guarantee scheme. Revolut's banking licence is newer and more limited. N26 offers a cleaner, more minimal interface focused on core banking. Revolut offers more features (crypto, budgeting vaults, stock trading) but has historically had more customer service complaints. For safety, N26 wins. For features, Revolut wins. For the Netherlands specifically, Wise's Belgian IBAN beats both.
 - q: Can I receive Dutch salary into N26?
   a: You can try. Some Dutch employers will accept a German DE IBAN without issue — particularly larger international companies or tech firms familiar with fintech accounts. However, some Dutch payroll systems reject non-NL IBANs automatically, and DE IBANs are rejected more frequently than BE IBANs. I have had fewer client complaints about N26 IBAN rejection than Revolut's LT IBAN, but it still happens often enough that I would not recommend relying solely on N26 for salary reception.
+- q: Can I use Tikkie with N26?
+  a: No — Tikkie is not supported by N26. Tikkie requires an NL IBAN held at a participating Dutch bank, so a German DE IBAN cannot be registered with it, and the same limitation applies to iDEAL. This matters more than it sounds, because Tikkie is used constantly in Dutch social situations for splitting bills. The practical answer is to keep a second account with an NL IBAN — a Dutch bank or bunq — purely for Tikkie and iDEAL, and use N26 for everything else.
+- q: Is N26 available in the Netherlands?
+  a: 'Yes, N26 is available to Dutch residents and works fine as an everyday account. What you cannot get is a Dutch IBAN: N26 is a German bank regulated by BaFin, so every account it issues carries a German DE prefix regardless of which EU country you live in. Deposits are protected up to EUR 100,000 through the German deposit guarantee scheme. A DE IBAN is accepted by many Dutch employers and providers but rejected by some, which is the main thing to weigh before making it your primary account.'
 - q: What are N26's plans and what do you get for each?
   a: 'N26 Standard is free: Mastercard debit card, basic account, 5 free ATM withdrawals/month. N26 Smart at EUR 4.90/month adds: sub-accounts (Spaces), shared spaces with a partner, 5 free ATM withdrawals in foreign currencies. N26 You at EUR 9.90/month adds: travel insurance, ski insurance, purchase protection, winter sports coverage — useful if you travel frequently from the Netherlands. N26 Metal at EUR 16.90/month adds: a metal Mastercard, higher ATM limits, phone insurance, and premium customer service with a dedicated line.'
 schema_type: Review
 ---
 
-N26 is a good bank. I want to be clear about that before I say the rest, because "good bank with a specific problem in the Netherlands" is a more accurate description than the sometimes dramatic assessments you find online.
+N26 is a good bank with three specific problems in the Netherlands: it gives you a German DE IBAN rather than a Dutch one, and it supports neither iDEAL nor Tikkie. I want to be clear about that up front, because "good bank with a specific problem here" is a more accurate description than the sometimes dramatic assessments you find online — but those three gaps are exactly the ones that decide whether N26 can be your primary account.
 
-The problem is the German IBAN. Not as severe as Revolut's Lithuanian IBAN situation, but real enough that it matters for how you use the account and whether it can serve as your primary banking in the Netherlands.
+Take the IBAN first. Not as severe as Revolut's Lithuanian IBAN situation, but real enough that it matters for how you use the account and whether it can serve as your primary banking in the Netherlands.
 
 I have tested N26. Several of my clients use it. Here is the full picture. For a broader overview of banking options, see my [best bank accounts for expats comparison](/guides/finance/best-bank-account-expats-netherlands-2026/).
 

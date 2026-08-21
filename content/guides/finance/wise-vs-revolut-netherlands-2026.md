@@ -1,8 +1,8 @@
 ---
-title: 'Wise vs Revolut Netherlands 2026: Which Is Better?'
+title: 'Wise vs Revolut Netherlands 2026: Which IBAN Actually Works'
 date: 2026-03-09 10:00:00+01:00
-lastmod: 2026-08-19 12:00:00+02:00
-description: 'Wise vs Revolut in the Netherlands 2026: Wise''s IBAN works with Dutch employers, Revolut''s Lithuanian one often does not. Fees and daily use compared.'
+lastmod: 2026-08-21 10:00:00+02:00
+description: 'Wise vs Revolut in the Netherlands 2026: Wise''s IBAN is accepted by Dutch employers and direct debits, Revolut''s Lithuanian one often is not. Fees and daily use compared.'
 categories:
 - finance
 tags:
@@ -40,6 +40,10 @@ faq:
   a: Neither is a full replacement for a Dutch bank. Wise works well as a primary account for receiving salary (European IBAN accepted by most Dutch employers) and international transfers, but lacks iDEAL integration and physical branches. Revolut's Lithuanian IBAN makes it problematic as a primary account in the Netherlands. Most expats pair either one with a traditional Dutch bank like ING.
 - q: Do I need a BSN to open a Wise or Revolut account?
   a: No, neither Wise nor Revolut requires a BSN. Both can be opened before you arrive in the Netherlands using just a passport and proof of address from your home country. This makes them ideal first accounts for new expats.
+- q: How do Wise and Revolut exchange rates compare for everyday spending?
+  a: Wise always uses the real mid-market rate and charges a transparent fee on top, usually in the 0.3-0.7% range depending on the currency, so the cost is the same whichever day you spend. Revolut's free plan converts without a fee up to a monthly allowance of around EUR 1,000, which makes it cheaper for small, frequent conversions, but it applies a markup at weekends and on less common currencies. For occasional travel spending on weekdays Revolut can win; for regular or larger transfers the predictable Wise pricing works out cheaper.
+- q: Where does bunq fit next to Wise and Revolut?
+  a: Bunq is a different category — a Dutch-licensed bank with a Dutch NL IBAN and a monthly fee, rather than a free multi-currency account. That makes it the option to look at if your problem is specifically that Dutch employers, landlords or direct debits keep rejecting a foreign IBAN, since an NL IBAN removes that question entirely. Wise and Revolut remain the better tools for currency conversion and international transfers. For the full line-up alongside the traditional Dutch banks, see the [banking comparison for expats](/blog/best-banking-expats-netherlands-2026/).
 - q: Which is better, Wise or Revolut, in the Netherlands?
   a: 'Wise is better for anyone who needs a European IBAN that works reliably with Dutch employers, landlords, and direct debits, or who transfers larger amounts internationally -- its consistent mid-market rate and lack of a weekend markup make it cheaper for regular transfers. Revolut is better as a secondary travel card, thanks to its multi-currency features, budgeting tools, and EU banking licence with deposit protection up to EUR 100,000. Most of my clients end up using both -- Wise for anything Dutch-facing or transfer-related, Revolut for travel spending on top.'
 schema_type: Article
@@ -47,6 +51,8 @@ aliases:
   - /blog/wise-vs-revolut-expats-2026/
   - /blog/wise-vs-revolut-for-expats-2026/
 ---
+
+**Short answer:** Wise is the one to open if you only open one — its European IBAN is accepted by most Dutch employers, landlords and direct debits, and it uses the mid-market rate with no weekend markup. Revolut's Lithuanian LT IBAN is regularly rejected by Dutch systems, which makes it a good second card for travel and multi-currency spending rather than your Dutch-facing account.
 
 I currently use both Wise and Revolut. That is not a fence-sitting answer — it is the honest result of ten years of living in the Netherlands and moving money between at least four currencies on a regular basis. My situation is not unusual for expats here: I receive some income in British pounds, pay Dutch rent and bills in euros, and send money to family occasionally. For years I tried to make one app do everything. It does not work. But I have also watched dozens of clients waste money by using the wrong tool for the wrong job, so this comparison is going to be very specific about which one wins where.
 

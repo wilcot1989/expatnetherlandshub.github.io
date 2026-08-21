@@ -1,8 +1,8 @@
 ---
-title: 'Amstelveen Expat Guide 2026: Population, Rent, Schools'
-description: "Amstelveen has 95,840 residents (2026). Expat guide: rents from EUR 1,200, international schools, 20-minute commute to Amsterdam, registration."
+title: 'Amstelveen Expat Guide 2026: Rent, Schools, Population'
+description: "Amstelveen has 95,840 residents (2026) and one of the highest expat shares in the Netherlands. Rents from EUR 1,200, international schools, and a 20-minute commute to Amsterdam."
 date: 2026-03-07 10:00:00+01:00
-lastmod: 2026-08-19 10:00:00+02:00
+lastmod: 2026-08-21 10:00:00+02:00
 featured_image: /images/categories/cities.svg
 author: Sarah van den Berg
 categories:
@@ -43,6 +43,8 @@ keywords:
 - is amstelveen part of amsterdam
 schema_type: Article
 ---
+
+Expats live in Amstelveen because it has one of the highest concentrations of internationals in the Netherlands — the product of corporate relocations, a cluster of international schools, rents below Amsterdam city-centre levels, and a 20 to 30 minute metro or tram ride into central Amsterdam. The municipality has 95,840 residents as of 2026 and is its own municipality with its own council and registration process, not part of Amsterdam. Below: rents by neighbourhood, the school options, and the practical steps after arrival.
 
 ## Amstelveen at a Glance
 
@@ -217,6 +219,14 @@ No. Amstelveen is a separate municipality with its own council, its own registra
 ### Is Amstelveen safe?
 
 Yes — Amstelveen is generally considered one of the safer municipalities in the Amsterdam region, with lower reported crime rates than central Amsterdam. Its suburban layout, lower population density, and family-oriented character are part of why it attracts corporate relocations with children.
+
+### Is Amstelveen a city or a village?
+
+Amstelveen is its own municipality, part of the Amstelland-Meerlanden region, and in practice functions as a suburban extension of Amsterdam. With 95,840 residents it sits just below the 100,000 mark, so it is neither a village nor a large city. What makes it unusual for a Dutch municipality of that size is the international infrastructure — international schools, international supermarkets and multilingual services — that you would normally only find in a much larger city.
+
+### How long does it take to get from Amstelveen to Amsterdam?
+
+Reaching central Amsterdam takes 20 to 30 minutes by metro or tram. Schiphol Airport is closer still at 15 to 20 minutes by road, which is one reason the municipality attracts frequent business travellers and Schiphol-related employers. The two are separated by the Amsterdamse Bos, so the trip feels longer on a map than it does in practice.
 
 ### Is Amstelveen a good place for expats to live?
 

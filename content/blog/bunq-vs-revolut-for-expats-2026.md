@@ -1,10 +1,10 @@
 ---
-title: "Bunq vs Revolut for Expats in the Netherlands 2026"
+title: "Bunq vs Revolut 2026: Which Works Better in the Netherlands?"
 date: 2026-07-19
-lastmod: 2026-07-19T08:00:00+01:00
+lastmod: 2026-08-21T10:00:00+01:00
 author: Sarah van den Berg
 author_bio: Expat coach and writer at ExpatNetherlandsHub.com
-description: "Bunq is a Dutch bank with Dutch IBAN. Revolut is a Lithuanian bank popular with expats. I compared both for expats in the Netherlands — here's the 2026 verdict."
+description: "Bunq is a Dutch-licensed bank with a real NL IBAN and Dutch deposit protection; Revolut is Lithuanian-licensed and better for travel. Fees and salary payments compared."
 categories: ["finance"]
 tags: ["bunq", "revolut", "comparison", "banking", "dutch bank", "expats", "netherlands", "neobank"]
 keywords: ["bunq vs revolut", "bunq revolut netherlands expat", "dutch bank expat 2026", "best neobank netherlands", "bunq iban netherlands", "revolut netherlands 2026"]
@@ -25,6 +25,10 @@ faq:
     a: "Bunq wins clearly for salary deposits. Because Bunq gives a real Dutch NL IBAN and is a Dutch bank, Dutch HR and payroll systems accept it without any issues. Revolut's NL IBAN opt-in works in most cases, but some Dutch payroll systems still flag non-Dutch-licensed banks. If your employer's HR system is strict, Bunq is the safer choice."
   - q: "Does Revolut or Bunq offer investing features in the Netherlands?"
     a: "Revolut offers stocks and ETFs through the app (limited selection, available from Plus plan). Bunq does not have built-in investing features. For serious investing in the Netherlands, both banks fall short — I recommend using DEGIRO for a proper brokerage account."
+  - q: "Bunq vs N26 vs Revolut: which suits expats in the Netherlands?"
+    a: "The deciding factor is which IBAN the Dutch systems around you will accept. Bunq is the only one of the three with a Dutch banking licence from DNB and a genuine NL IBAN, which is why Dutch payroll, landlords and direct debits accept it without question. Revolut can hand Dutch residents an NL IBAN by opt-in, but the licence behind it is Lithuanian and stricter HR systems sometimes reject it on the BIC. N26 is a German bank with a DE IBAN, so it sits in the same non-Dutch-licence category as Revolut for Dutch-facing use — the [broader banking guide](/blog/best-banking-expats-netherlands-2026/) covers all of them side by side."
+  - q: "Where does Wise fit alongside Bunq and Revolut?"
+    a: "Wise is the tool for moving money between countries rather than a replacement for a Dutch bank account. For large international transfers back home, neither Bunq nor Revolut beats it, which is why plenty of expats keep Wise alongside one of the two. For the Dutch side of your life — salary, rent, direct debits, the Belastingdienst — you still want an account that Dutch institutions read as Dutch, and that is what Bunq's DNB licence and NL IBAN give you. See the [banking guide](/blog/best-banking-expats-netherlands-2026/) for how the pieces stack together."
 products:
   - name: Bunq
     url: https://go.expatnetherlandshub.com/bunq
@@ -36,11 +40,11 @@ products:
     tag: Best for travel and multi-currency
 ---
 
-Disclosure: this article contains affiliate links. If you sign up via my links I may earn a small commission at no extra cost to you. I hold accounts with both Bunq and Revolut and have used both as an expat living in the Netherlands.
-
 > **Quick answer:** Bunq is the better choice if you want a real Dutch bank account with an NL IBAN, Dutch deposit insurance, and deep integration with Dutch systems. Revolut wins if you travel frequently and want stocks, crypto, and a broad feature set at a lower entry price.
 >
 > New arrivals without a BSN yet can open both online immediately — a huge advantage over traditional Dutch banks.
+
+Disclosure: this article contains affiliate links. If you sign up via my links I may earn a small commission at no extra cost to you. I hold accounts with both Bunq and Revolut and have used both as an expat living in the Netherlands.
 
 ## The Problem Most Expat Banking Guides Don't Address
 
@@ -267,6 +271,17 @@ Both accounts take under 15 minutes to open with just a passport. If you're a ne
 
 For the full picture of expat banking in the Netherlands — including traditional banks, credit cards, and building a complete Dutch financial setup — see my [guide to the best banking options for expats in the Netherlands](/blog/best-banking-expats-netherlands-2026/) and my [cost of living comparison between Amsterdam and Rotterdam](/blog/cost-of-living-amsterdam-vs-rotterdam-2026/) to understand what your banking setup actually needs to support.
 
+## What Expats on Reddit Say
+
+These are the points that come up repeatedly in expat threads on forums like r/Netherlands, r/expats and r/Amsterdam. They are **commonly repeated forum opinions, not our measurements** — we have not verified individual posters' claims, and we deliberately do not repeat specific amounts or fees quoted in forum posts, because those are unverifiable and go out of date fast. Check current terms with the provider.
+
+- **Most people end up with both rather than picking one.** The recurring conclusion in these threads is that the "vs" framing is wrong: posters describe running one account for Dutch life and the other for travel, and treat the monthly cost of the Dutch-facing one as the price of avoiding friction.
+- **Anything Dutch-facing gets pointed at Bunq.** When someone asks where to receive salary, set up a standing order for rent, or attach a direct debit, the usual answer is the Dutch-licensed account with the NL IBAN, precisely because it does not raise questions with employers, landlords or insurers.
+- **Revolut is the travel and multi-currency recommendation.** Threads about holidays, spending abroad and juggling several currencies lean towards Revolut, and posters generally frame it as a card you carry alongside a main account rather than as your main account.
+- **Support at both is app-chat only, and people complain about it.** A steady theme is that neither bank gives you a branch or a straightforward phone route on the cheaper plans, so anything unusual has to be resolved through in-app chat — fine for simple questions, frustrating when something is genuinely stuck.
+- **New arrivals are told to open a neobank immediately, not to wait.** The standard advice to anyone posting that a Dutch branch turned them away for lacking a BSN is to open a neobank from their phone the same day, because waiting for a BSN appointment can push you past your first salary date or lease start.
+- **The licence behind the IBAN comes up more than the IBAN itself.** Experienced posters keep pointing out that a Dutch-looking IBAN is not the same as a Dutch banking licence, and that stricter payroll and institutional systems can look at the bank behind the number.
+
 ---
 
-*Last updated July 2026. Prices and plans are subject to change — verify current pricing directly with Bunq and Revolut before signing up.*
+*Last updated August 2026. Prices and plans are subject to change — verify current pricing directly with Bunq and Revolut before signing up.*

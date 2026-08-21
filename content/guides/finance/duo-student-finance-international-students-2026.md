@@ -1,9 +1,9 @@
 ---
-title: DUO Student Finance Netherlands 2026 Guide
+title: 'DUO Student Finance 2026: Can International Students Get It?'
 date: 2026-03-18 10:00:00+01:00
-lastmod: 2026-04-23 10:00:00+01:00
+lastmod: 2026-08-21 10:00:00+01:00
 type: guide
-description: 'Can international students get DUO finance in the Netherlands? Full 2026 guide: basisbeurs, OV-kaart, loans, repayment, and how to apply via MijnDUO.'
+description: 'Can international students get DUO finance in 2026? EU students qualify by working 56 hours a month (basisbeurs EUR 319.05 uitwonend); non-EU students can only borrow.'
 categories:
 - finance
 tags:
@@ -47,8 +47,14 @@ faq:
   a: DUO gives you 35 years to repay your student loan, with repayments based on your income. If your income is below the minimum threshold, you pay nothing in that period and the clock still runs. After 35 years, any remaining balance is written off. The repayment threshold is reviewed annually.
 - q: What happens if I don't finish my degree within 10 years?
   a: If you do not complete your degree within 10 years of first receiving the basisbeurs, the full amount of the basisbeurs is automatically converted into a loan that must be repaid. This is one of the most important DUO rules and catches students who take long breaks or switch programmes multiple times.
+- q: Do I need a Dutch bank account to receive DUO payments?
+  a: DUO pays into a Dutch bank account, and that is what we recommend. You can in principle give DUO a foreign IBAN, but a Dutch account avoids transfer delays and fees. Most major banks (ING, Rabobank, ABN AMRO) require a BSN and a Dutch address, which you need for the DUO application anyway; bunq and Revolut are popular with students because they are easier to open before all the Dutch documentation is in place.
+- q: Can international students get the tuition fee loan (collegegeldkrediet)?
+  a: The collegegeldkrediet is a separate DUO loan that pays your tuition fees directly rather than your living costs, and it exists for students who cannot pay the fees upfront. For EU students at a Dutch institution on the regulated tuition fee, that is around EUR 2,530 per year in 2026; programmes with institutional tuition fees, including many master's degrees, can be considerably more expensive. Non-EU students are excluded from the grants and the OV-studentenkaart, and their DUO borrowing takes the form of the student loan of up to EUR 1,091 per month. Either way it is a loan and has to be repaid.
 schema_type: Article
 ---
+
+**Short answer:** it depends on your nationality. EU/EEA students enrolled at an accredited Dutch institution can get the full studiefinanciering package — basisbeurs (EUR 319.05 per month uitwonend, EUR 110.27 living with parents), supplementary grant, OV-studentenkaart and loan — but only if they work at least 56 hours per month, averaged across the academic year. Non-EU students get no grants and no OV-card; with a valid Dutch residence permit they can only borrow, up to EUR 1,091 per month.
 
 When I first explained to a non-Dutch friend how the Dutch student finance system works, her jaw dropped at the OV-studentenkaart. Free travel across the entire country, for the duration of your studies, because you are a student. I have lived in the Netherlands long enough that this no longer surprises me — but it is, objectively, remarkable. The DUO system is genuinely generous, and international students can access significant parts of it. The rules are also specific, the mistakes are costly, and almost nobody explains them clearly before you arrive. This guide fixes that.
 

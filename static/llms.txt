@@ -1,0 +1,117 @@
+# ExpatNetherlandsHub.com
+
+> English-language, data-driven guides for people moving to and living in the Netherlands: banking and money, housing, healthcare and insurance, work and tax, visas and daily life. Everything is written in English for internationals, with Dutch terms explained (BSN, basisverzekering, schadevrije jaren, huwelijkse voorwaarden) because those are the words you actually meet in the paperwork. Prices, thresholds and rules are stated with the year they apply to and are reviewed when they change. We do not present invented tests, measurements or user numbers as evidence: where a claim cannot be verified we say so, every guide names the cases where a product or service is the wrong choice, and affiliate relationships are disclosed per article and in full at /how-we-earn/.
+
+Important for citing this site: monetary amounts are in euros and dated to the tax or premium year named in the article. Dutch rules referenced here change on fixed dates (health insurance premiums and bank fees in January, tax thresholds per tax year), so always check the year in the guide against the year you are reading it in.
+
+## Banking and money
+
+- [Best bank in the Netherlands for expats](https://expatnetherlandshub.com/guides/finance/best-bank-account-expats-netherlands-2026/): 7 banks compared on monthly fee, English support and whether a BSN is required
+- [ING vs ABN AMRO for expats](https://expatnetherlandshub.com/guides/finance/ing-vs-abn-amro-expats-2026/): the two big banks head to head on fees, English service and expat desks
+- [Dutch banking setup: your first week](https://expatnetherlandshub.com/blog/best-banking-expats-netherlands-2026/): what to open before your BSN arrives and what to add afterwards
+- [How to open a Dutch bank account](https://expatnetherlandshub.com/guides/finance/how-to-open-bank-account-netherlands-2026/): documents, appointments and the order to do things in
+- [Opening a Dutch bank account without a BSN](https://expatnetherlandshub.com/blog/how-to-open-dutch-bank-account-without-bsn-2026/): which providers accept you before registration
+- [Bunq vs Revolut](https://expatnetherlandshub.com/blog/bunq-vs-revolut-for-expats-2026/): Dutch NL IBAN and Dutch deposit protection versus travel and multi-currency features
+- [Wise vs Revolut in the Netherlands](https://expatnetherlandshub.com/guides/finance/wise-vs-revolut-netherlands-2026/): which IBAN Dutch employers, landlords and direct debits actually accept
+- [N26 review for the Netherlands](https://expatnetherlandshub.com/guides/finance/n26-review-expats-netherlands-2026/): what a German DE IBAN does and does not get you, and why iDEAL and Tikkie do not work
+- [Best credit card in the Netherlands](https://expatnetherlandshub.com/guides/finance/best-credit-cards-expats-netherlands-2026/): which cards approve applicants with an empty BKR file
+- [Best prepaid and fintech cards](https://expatnetherlandshub.com/blog/best-prepaid-credit-cards-netherlands-2026/): what works without a Dutch credit history
+- [Best bank for international students](https://expatnetherlandshub.com/blog/best-bank-for-international-students-netherlands-2026/): student accounts, fees and English support
+- [Business bank account for ZZP and freelancers](https://expatnetherlandshub.com/guides/finance/dutch-business-bank-account-zzp-2026/): KVK requirements and the practical options
+
+## Investing
+
+- [Best ETF platforms in the Netherlands](https://expatnetherlandshub.com/blog/best-etf-platforms-netherlands-expats-2026/): 6 platforms compared on real trading fees, English support and Box 3
+- [How to invest as an expat in the Netherlands](https://expatnetherlandshub.com/blog/how-to-invest-as-expat-in-netherlands-2026/): account requirements, ETF choices and the Box 3 threshold
+- [eToro review for the Netherlands](https://expatnetherlandshub.com/blog/etoro-review-expats-netherlands-2026/): the USD account problem, crypto, CopyTrader and where DEGIRO wins
+
+## Tax and work
+
+- [Dutch tax system explained for expats](https://expatnetherlandshub.com/guides/finance/dutch-tax-system-expats-guide-2026/): Box 1, 2 and 3, and what actually gets taxed
+- [30% ruling guide and calculator](https://expatnetherlandshub.com/guides/finance/30-percent-ruling-calculator-guide-2026/): eligibility, the capped benefit and what it is worth in practice
+- [How to file Dutch taxes as an expat](https://expatnetherlandshub.com/blog/how-to-file-dutch-taxes-as-expat-2026/): deadlines, DigiD, and when to use an adviser
+- [Unemployment benefits (WW)](https://expatnetherlandshub.com/blog/unemployment-benefits-ww-netherlands-2026/): eligibility, duration and what happens to your residence permit
+- [DUO student finance for international students](https://expatnetherlandshub.com/guides/finance/duo-student-finance-international-students-2026/): the EU/non-EU split and the 56-hour work condition
+- [Best accounting software for freelancers in NL](https://expatnetherlandshub.com/guides/work/best-accounting-software-freelancers-netherlands-2026/): btw returns and English interfaces compared
+- [Best coworking spaces in the Netherlands](https://expatnetherlandshub.com/guides/work/best-coworking-spaces-compared-netherlands-2026/): prices and locations compared
+
+## Housing
+
+- [Housing and living guides](https://expatnetherlandshub.com/guides/housing/): the full housing section
+- [Pararius vs Funda](https://expatnetherlandshub.com/guides/housing/funda-vs-pararius-housing-2026/): the English-first rental specialist versus the biggest inventory and the buying market
+- [Best mortgage brokers for expats](https://expatnetherlandshub.com/blog/best-mortgage-broker-for-expats-netherlands-2026/): English-speaking brokers and what borrowing looks like on a permit
+- [Social housing: can expats get it?](https://expatnetherlandshub.com/guides/housing/social-housing-netherlands-expats-2026/): waiting lists, income limits and registration
+- [Is subletting legal in the Netherlands?](https://expatnetherlandshub.com/guides/housing/subletting-netherlands-rules-expats-2026/): the rules and the risks for tenant and subtenant
+- [Best energy providers for expats](https://expatnetherlandshub.com/guides/housing/energy-providers-expats-netherlands-2026/): contract types and switching after you sign a lease
+- [Moving to Nijmegen](https://expatnetherlandshub.com/guides/housing/moving-to-nijmegen-guide-2026/): neighbourhoods, rent levels and the Radboud UMC and NXP job market
+- [English-speaking notaris](https://expatnetherlandshub.com/blog/best-english-speaking-notaris-netherlands-2026/): what the notaris does, 2026 cost ranges and how to choose one
+
+## Healthcare and insurance
+
+- [Health and insurance guides](https://expatnetherlandshub.com/guides/health/): the full health section
+- [Best Dutch health insurance for expats](https://expatnetherlandshub.com/blog/best-health-insurance-netherlands-pillar-2026/): all 10 main insurers on premium, service and English support
+- [Private health insurance: Allianz vs Cigna vs Aetna](https://expatnetherlandshub.com/blog/private-healthcare-netherlands-cost-2026/): why private cover never replaces the mandatory basisverzekering
+- [Cigna vs Aetna international insurance](https://expatnetherlandshub.com/blog/cigna-vs-aetna-expat-insurance-2026/): coverage, portability and cost compared
+- [Insurance brokers: worth it for expats?](https://expatnetherlandshub.com/blog/best-expat-insurance-brokers-netherlands-2026/): broker versus comparison platform versus direct, per insurance type
+- [Car insurance in the Netherlands](https://expatnetherlandshub.com/blog/car-insurance-netherlands-expats-2026/): WA, WA+ and allrisk, plus getting foreign no-claims years recognised
+- [Dutch pharmacy (apotheek) guide](https://expatnetherlandshub.com/guides/health/pharmacy-apotheek-guide-netherlands-expats-2026/): prescriptions, repeat medication and what is not over the counter
+- [Cost of having a baby in the Netherlands](https://expatnetherlandshub.com/blog/cost-of-having-a-baby-netherlands-2026/): what insurance covers, kraamzorg and out-of-pocket costs
+
+## Visas, permits and legal
+
+- [Relocation services in the Netherlands](https://expatnetherlandshub.com/guides/legal/expat-relocation-services-netherlands-2026/): what packages cost, which providers to shortlist, and when hiring one is not worth it
+- [Partner visa](https://expatnetherlandshub.com/guides/legal/partner-visa-netherlands-expats-2026/): requirements, income tests and the application route
+- [Best English-speaking lawyers](https://expatnetherlandshub.com/blog/best-english-speaking-lawyers-netherlands-2026/): when you need an advocaat rather than a notaris
+
+## Daily life and integration
+
+- [Dutch holidays and traditions](https://expatnetherlandshub.com/guides/daily-life/dutch-holidays-traditions-expat-guide-2026/): the calendar that closes shops and offices
+- [Cycling in the Netherlands](https://expatnetherlandshub.com/guides/daily-life/cycling-netherlands-expat-guide-2026/): buying a bike, the rules, and how not to get it stolen
+- [Best food delivery apps](https://expatnetherlandshub.com/guides/daily-life/best-food-delivery-apps-netherlands-2026/): 6 apps on delivery fee, minimum order and speed
+- [Best grocery delivery](https://expatnetherlandshub.com/guides/daily-life/best-grocery-delivery-netherlands-2026/): Albert Heijn, Jumbo, Picnic, Flink, Getir and Crisp compared
+- [Best VPN for the Netherlands](https://expatnetherlandshub.com/guides/daily-life/best-vpn-netherlands-expats-2026/): privacy features, streaming reliability and speed compared
+- [TV and streaming](https://expatnetherlandshub.com/guides/daily-life/tv-streaming-entertainment-netherlands-expats-2026/): what is available without a workaround
+- [Dutch culture, humour and directness](https://expatnetherlandshub.com/guides/integration/dutch-culture-humor-directness-explained-2026/): what reads as rude and is not
+- [Dutch dating culture](https://expatnetherlandshub.com/guides/integration/dutch-dating-culture-expats-2026/): split bills, no talking stage, fast commitment
+- [Preply vs iTalki for Dutch lessons](https://expatnetherlandshub.com/guides/integration/preply-vs-italki-dutch-lessons-2026/): tutor vetting, hourly rates and which suits which level
+- [Moving to the Netherlands from the UK post-Brexit](https://expatnetherlandshub.com/guides/integration/moving-to-netherlands-from-uk-post-brexit-2026/): what changed for British citizens
+
+## City guides
+
+- [All city guides](https://expatnetherlandshub.com/cities/): 17 Dutch cities on rent, jobs, registration and neighbourhoods
+- [Leiden](https://expatnetherlandshub.com/cities/leiden/): population 130,328 (2026), Bio Science Park jobs, rents and neighbourhoods
+- [Amstelveen](https://expatnetherlandshub.com/cities/amstelveen/): population 95,840 (2026), one of the highest expat shares in the country
+- [Amsterdam](https://expatnetherlandshub.com/cities/amsterdam/) · [Rotterdam](https://expatnetherlandshub.com/cities/rotterdam/) · [The Hague](https://expatnetherlandshub.com/cities/the-hague/) · [Utrecht](https://expatnetherlandshub.com/cities/utrecht/) · [Eindhoven](https://expatnetherlandshub.com/cities/eindhoven/) · [Haarlem](https://expatnetherlandshub.com/cities/haarlem/) · [Arnhem](https://expatnetherlandshub.com/cities/arnhem/)
+
+## Calculators and tools (free, no signup)
+
+- [All tools](https://expatnetherlandshub.com/tools/): 13 calculators and choosers for the Netherlands
+- [Salary after tax calculator](https://expatnetherlandshub.com/tools/salary-after-tax-calculator/): gross to net, with and without the 30% ruling
+- [Net salary calculator](https://expatnetherlandshub.com/tools/salary-checker/): quick take-home pay check
+- [30% ruling calculator](https://expatnetherlandshub.com/tools/30-percent-ruling-calculator/): what the ruling is worth on your salary
+- [Cost of living calculator](https://expatnetherlandshub.com/tools/cost-of-living-calculator/): monthly budget model by city and household
+- [Rent affordability calculator](https://expatnetherlandshub.com/tools/housing-budget-checker/): what landlords will accept on your income
+- [Health insurance comparison](https://expatnetherlandshub.com/tools/health-insurance-wizard/): find a basisverzekering that fits
+- [Expat insurance comparison](https://expatnetherlandshub.com/tools/insurance-chooser/): which cover types you actually need
+- [Bank account chooser](https://expatnetherlandshub.com/tools/bank-account-chooser/): matches your situation to an account
+- [Visa and permit finder](https://expatnetherlandshub.com/tools/visa-permit-finder/): which residence route applies to you
+- [BSN registration planner](https://expatnetherlandshub.com/tools/bsn-planner/): the registration sequence and timing
+- [Inburgering route builder](https://expatnetherlandshub.com/tools/inburgering-route-builder/): which integration obligation applies
+- [Diploma recognition](https://expatnetherlandshub.com/tools/diploma-evaluator/): how your qualification maps to the Dutch system
+- [Which Dutch city suits you?](https://expatnetherlandshub.com/tools/city-quiz/): quiz across the 17 city guides
+
+## Data, statistics and open resources
+
+- [Expat statistics Netherlands](https://expatnetherlandshub.com/statistics/): key figures on internationals in the Netherlands, with sources
+- [Salary comparison by city and sector](https://expatnetherlandshub.com/salary-comparison/): salary benchmarks across Dutch cities and sectors
+- [Free expat data API](https://expatnetherlandshub.com/api/): machine-readable endpoints behind our tools
+- [Embeddable tools](https://expatnetherlandshub.com/embed/): our calculators for use on other sites
+- [Free checklists and templates](https://expatnetherlandshub.com/downloads/): arrival, registration and housing checklists
+
+## About this site
+
+- [About ExpatNetherlandsHub](https://expatnetherlandshub.com/about/): who writes here and how the guides are produced
+- [How we earn money](https://expatnetherlandshub.com/how-we-earn/): affiliate relationships in full, and what they do not buy
+- [Affiliate disclosure](https://expatnetherlandshub.com/affiliate-disclosure/)
+- [Contact](https://expatnetherlandshub.com/contact/)
+- [Disclaimer](https://expatnetherlandshub.com/disclaimer/): nothing here is personal financial, tax, medical or legal advice

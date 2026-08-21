@@ -1,8 +1,8 @@
 ---
-title: 'Best ETF Platforms Netherlands 2026: 6 Compared (Fees)'
+title: 'Best ETF Platforms Netherlands 2026: 6 Compared on Fees'
 date: 2026-03-22 10:00:00+01:00
-lastmod: 2026-08-19 10:00:00+02:00
-description: 'Best ETF platforms in the Netherlands 2026: 6 compared on real trading fees, English support and Box 3 wealth tax, plus which ones US expats can use.'
+lastmod: 2026-08-21 10:00:00+02:00
+description: 'Best ETF platforms in the Netherlands 2026: 6 compared on real trading fees, English support and Box 3 wealth tax, plus which ones US persons can actually use.'
 categories:
 - finance
 tags:
@@ -35,6 +35,10 @@ faq:
   a: DEGIRO offers a free trades list (previously called kernassortiment or core selection), which allows one free trade per ETF per day in a curated list of ETFs. This typically includes major index ETFs such as iShares Core MSCI World, Vanguard FTSE All-World (VWRL), and iShares Core S&P 500. The list changes periodically. Subsequent trades in the same ETF on the same day cost a small fee (around €1). Non-free-list ETFs cost a standard commission of €2 + 0.02% of the transaction value.
 - q: Can American expats use Dutch ETF platforms?
   a: American expats face serious restrictions. Most non-US ETFs (including European UCITS ETFs traded on DEGIRO, Trading 212, or ABN AMRO) are classified as Passive Foreign Investment Companies (PFICs) under US tax law. Investing in PFICs triggers punitive US tax treatment. Interactive Brokers is the primary platform that accepts US persons in the Netherlands and provides access to US-listed ETFs (such as those on NYSE Arca), which are not subject to PFIC rules. US expats should consult a dual-qualified US-Dutch tax advisor before investing anything.
+- q: Which platform is best for buying an S&P 500 ETF from the Netherlands?
+  a: For a euro-denominated UCITS tracker, DEGIRO is usually the cheapest route — its free trades list covers major index ETFs including iShares Core S&P 500, with one free trade per ETF per day. Trading 212 is the alternative if you would rather buy commission-free in fractional amounts than in whole units. If you are a US person, or you specifically want the US-listed version of the ETF, Interactive Brokers is the platform that accepts US persons and provides access to US-listed funds.
+- q: 'DEGIRO or Interactive Brokers: which should an expat pick?'
+  a: DEGIRO is the cheaper choice for smaller, regular ETF buying. It is Dutch, AFM-regulated, and its free trades list makes a monthly purchase of a core index ETF effectively free beyond the fund's own ongoing charge. Interactive Brokers is the better fit for larger portfolios, multi-currency investing, and anyone who is a US person, because it accepts US persons and gives access to US-listed ETFs that are not caught by the PFIC rules.
 products:
 - name: Wise
   url: https://go.expatnetherlandshub.com/wise?ref=/blog/best-etf-platforms-netherlands-expats-2026/
@@ -42,6 +46,8 @@ products:
   tag: Currency Transfer
 schema_type: Article
 ---
+**Short answer:** For most expats in the Netherlands, DEGIRO is the cheapest platform for buying ETFs — its free trades list covers the major index trackers, including iShares Core S&P 500, at €0 for one trade per ETF per day. Interactive Brokers is the platform to use for larger portfolios, US-listed ETFs and US persons, and Trading 212 for commission-free buying in fractional amounts. Whichever you pick, holdings above roughly €57,000 per person fall under Dutch Box 3 wealth tax.
+
 When I first arrived in the Netherlands, I spent several weeks trying to work out where to invest. Back home in the UK, I had an ISA with a low-cost tracker fund and never thought about it. In the Netherlands, I had to research platforms that accepted Dutch residents, understand Box 3 wealth tax, and work out whether my existing ISA was still the right vehicle. It took longer than it should have.
 
 This guide is what I wish I had found in those early weeks. I have used or thoroughly researched all the platforms listed here, and I have helped expat clients in Amsterdam, Eindhoven, and Rotterdam work through the same decision. The Dutch investing market has specific quirks — and the right platform for one person is not necessarily right for another.
@@ -51,9 +57,7 @@ This guide is what I wish I had found in those early weeks. I have used or thoro
 
 💡 *Looking for a complete banking comparison? Read [Best banking for expats in the Netherlands 2026](/blog/best-banking-expats-netherlands-2026/) — covers ABN, ING, Bunq, Wise, Revolut & 5 others by expat use case.*
 
-> **Quick answer:** Best ETF platforms for expats in the Netherlands 2026: DEGIRO, Interactive Brokers, Trading 212, ABN AMRO, fees, Box 3 tax, and core fund selection.
->
-> Yes. DEGIRO is headquartered in Amsterdam and is fully available to Dutch residents, including expats. The platform supports English and accepts BSN numbers. You will need a Dutch bank account (or a bank account in an EU country) and a verified address in the Netherlands to complete registration. DEGIRO is regulated by the AFM (Dutch Authority for the Financial Markets) and DNB.
+> **Quick answer:** DEGIRO, Interactive Brokers, Trading 212 and the bank platforms (ABN AMRO, Rabobank) all accept Dutch residents and work in English, but they differ enormously on cost: DEGIRO and Trading 212 are effectively free for monthly ETF buying, while the bank platforms add an annual custody fee on top of higher per-trade commissions. Interactive Brokers is the one platform here that accepts US persons and gives access to US-listed ETFs, which matters because European UCITS ETFs count as PFICs under US tax law.
 
 ## Why ETF Investing Makes Sense for Expats in the Netherlands
 

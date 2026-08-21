@@ -1,10 +1,10 @@
 ---
-title: "How to Invest as an Expat in the Netherlands in 2026"
+title: "Expat Investing Netherlands 2026: Platforms, ETFs, Box 3"
 date: 2026-07-24
-lastmod: 2026-07-24T09:00:00+01:00
+lastmod: 2026-08-21T10:00:00+01:00
 author: Sarah van den Berg
 author_bio: Expat coach and writer at ExpatNetherlandsHub.com
-description: "I started investing in the Netherlands three years ago. Here's the full guide — DEGIRO, ETFs, Box 3 tax, and the mistakes I made so you don't have to."
+description: "How to start investing in the Netherlands as an expat in 2026: which platforms accept you, which ETFs expats actually hold, and how Box 3 works above the EUR 57,000 threshold."
 categories: ["finance", "investing"]
 tags: ["investing", "degiro", "etf", "box 3", "netherlands", "expats", "index funds", "tax"]
 keywords: ["invest expat netherlands", "how to invest netherlands expat", "degiro expat netherlands", "box 3 investing netherlands", "etf netherlands expat", "index fund netherlands expat"]
@@ -25,6 +25,10 @@ faq:
     a: "The 30% ruling only reduces your Box 1 income tax — it has no effect on Box 3 wealth tax. However, if you opt for partial non-residency (keuzerecht), you may be able to exclude certain foreign assets from Box 3. This is a complex area and worth discussing with a tax advisor."
   - q: "What happens to my investments if I leave the Netherlands?"
     a: "Your investments in DEGIRO or other platforms stay yours — you can keep the account or transfer assets. There is no exit tax on unrealised gains in the Netherlands (unlike some other countries). You will need to update your address and check whether the platform operates in your new country of residence."
+  - q: "What do I need to open an investment account in the Netherlands as an expat?"
+    a: "Four things: a valid Dutch residence permit, a registered Dutch address in the BRP (the municipality register), a Dutch or EU bank account, and a BSN. You do not need to be a Dutch citizen or a permanent resident, and you do not need to speak Dutch — most platforms are fully available in English. The sign-up process is online and takes about fifteen minutes."
+  - q: "How much can I invest before Box 3 tax applies?"
+    a: "The Box 3 tax-free threshold in 2026 is €57,000 per person, or €114,000 for fiscal partners. Below that you pay no Box 3 tax on your investments. Above it, the Belastingdienst applies a deemed return to your net assets rather than taxing your actual gains and dividends, and that deemed return is taxed at around 36%."
 products:
   - name: DEGIRO
     url: https://go.expatnetherlandshub.com/degiro
@@ -36,6 +40,8 @@ products:
     tag: "Best for currency transfers"
 ---
 
+**Short answer:** You can invest in the Netherlands as an expat as soon as you have a Dutch residence permit, a registered address in the BRP, a Dutch or EU bank account and a BSN — no Dutch citizenship, permanent residence or Dutch language skills required. Most expats do it through an AFM-regulated broker such as DEGIRO, buying one global index ETF each month, and only start paying Box 3 wealth tax on net assets above €57,000 per person (€114,000 for fiscal partners).
+
 For the first two years I lived in the Netherlands, I did nothing with my savings except let them sit in a Dutch bank account earning next to nothing. I told myself I'd figure out investing "later" — once I understood the tax system, once my Dutch was better, once I felt more settled. Later never came on its own.
 
 What actually changed things was a conversation with a colleague, a software engineer from India who had been living in Amsterdam for five years. I mentioned that I still hadn't started investing. He looked genuinely baffled. "I started in month three," he said. "It's not complicated at all — I just opened DEGIRO, bought VWRL every month, and that was it." He walked me through it over lunch. By the time I got back to my desk, I had already downloaded the DEGIRO app.
@@ -44,9 +50,7 @@ That conversation was three years ago. Since then I've invested consistently, na
 
 This article contains affiliate links. If you open an account through one of my links, I may earn a commission at no extra cost to you. I only link to platforms I have personally used or thoroughly researched.
 
-> **Quick answer:** I started investing in the Netherlands three years ago. Here's the full guide — DEGIRO, ETFs, Box 3 tax, and the mistakes I made so you don't have to.
->
-> The Netherlands uses a Box 3 wealth tax system. Rather than taxing actual investment returns, the tax authority (Belastingdienst) imputes a fictional yield on your net assets above the threshold. In 2026 the threshold is €57,000 per person (€114,000 for couples). Below that threshold, you pay no Box 3 tax on your investments. Above it, a deemed return is calculated and taxed at around 36%.
+> **Quick answer:** Investing as an expat in the Netherlands comes down to three decisions. Which platform: DEGIRO for low-cost ETFs, Meesman if you want it hands-off, Trade Republic for fractional shares, Interactive Brokers for portfolios over €50,000. What to buy: most expats hold a single global index tracker such as VWRL or IWDA. And how it is taxed: Box 3 applies a deemed return to net assets above €57,000 per person (€114,000 for fiscal partners), taxed at around 36%, instead of taxing your actual gains.
 
 ---
 

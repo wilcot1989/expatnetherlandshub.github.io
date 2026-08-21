@@ -1,8 +1,8 @@
 ---
-title: eToro Review for Expats Netherlands 2026
-description: Is eToro the right investing platform for expats in the Netherlands? My honest review covering fees, accounts, and what works — and what doesn't.
+title: 'eToro Netherlands Review 2026: Fees, Crypto, Verdict'
+description: 'eToro in the Netherlands 2026: a USD account with a conversion fee on every euro deposit, zero-commission stocks and ETFs, crypto and CopyTrader — and where DEGIRO wins.'
 date: 2026-03-22
-lastmod: 2026-08-19 10:00:00+02:00
+lastmod: 2026-08-21 10:00:00+02:00
 author: Sarah van den Berg
 author_bio: Expat coach and writer at ExpatNetherlandsHub.com
 categories:
@@ -29,6 +29,10 @@ faq:
   a: eToro (Europe) Ltd is regulated by the Cyprus Securities and Exchange Commission (CySEC) and operates under MiFID II across the EU, including the Netherlands. Dutch users are covered under EU investor protection rules.
 - q: What happens to my eToro account if I leave the Netherlands?
   a: You can generally continue using eToro if you move within the EU. Moving outside the EU may require you to update your account details. eToro is not available in all countries, so check availability before relocating.
+- q: Can I buy crypto on eToro in the Netherlands?
+  a: Yes. eToro has a broader crypto offering than most EU-regulated brokers, covering Bitcoin, Ethereum and most major altcoins, and it lets you move coins to your own eToro Money Wallet rather than offering CFD exposure only. In the Netherlands you trade through eToro (Europe) Ltd, which is regulated by CySEC and passported across the EU under MiFID II. Two caveats — withdrawing crypto to an external wallet carries relatively high fees, and eToro does not report to the Belastingdienst, so you declare the holdings yourself in Box 3.
+- q: Is eToro cheaper than DEGIRO for ETFs?
+  a: Usually not, despite the zero-commission headline. eToro charges no commission on stock and ETF trades, but the account is denominated in USD, so every euro deposit is converted at a fee of around 0.5% — on EUR 6,000 paid in over a year that is roughly EUR 30 before any other cost. DEGIRO is euro-denominated, has a free trades list on which many popular ETFs cost EUR 0 per trade, and offers a wider range of European-listed funds. For a long-term passive ETF portfolio, DEGIRO is the better fit.
 products:
 - name: Wise
   url: https://go.expatnetherlandshub.com/wise?ref=/blog/etoro-review-expats-netherlands-2026/
@@ -36,6 +40,8 @@ products:
   tag: Currency Transfer
 schema_type: Review
 ---
+**Short answer:** eToro works for expats in the Netherlands: eToro (Europe) Ltd is CySEC-regulated and passported under MiFID II, the whole platform and its support are in English, and stocks and ETFs trade at zero commission with fractional shares. The catch is that the account is denominated in USD, so every euro deposit costs around 0.5% in currency conversion — which is why DEGIRO stays the cheaper home for a long-term euro ETF portfolio, while eToro earns its place for crypto, CopyTrader and English usability.
+
 I opened my eToro account about three years ago, shortly after moving to the Netherlands from the UK. I was looking for something that felt familiar — an English-language interface, access to US stocks, and low barriers to getting started. eToro ticked those boxes. But I've also had frustrations that I wish someone had warned me about before I signed up.
 
 This review is based on my personal experience using eToro as an expat in the Netherlands, along with research I've done into the platform's fees, features, and limitations for 2026. I'm not going to sugarcoat anything.
@@ -43,9 +49,7 @@ This review is based on my personal experience using eToro as an expat in the Ne
 
 💡 *Looking for a complete banking comparison? Read [Best banking for expats in the Netherlands 2026](/blog/best-banking-expats-netherlands-2026/) — covers ABN, ING, Bunq, Wise, Revolut & 5 others by expat use case.*
 
-> **Quick answer:** Is eToro the right investing platform for expats in the Netherlands? My honest review covering fees, accounts, and what works — and what doesn't.
->
-> Yes. eToro is available to residents of the Netherlands, including expats with a BSN and a Dutch address. You will need to complete identity verification before you can deposit funds or trade.
+> **Quick answer:** eToro is open to Dutch residents, including expats with a BSN and a Dutch address, and runs entirely in English through eToro (Europe) Ltd, regulated by CySEC and passported across the EU under MiFID II. Its strengths are zero-commission stocks and ETFs, fractional shares from small amounts, a wide crypto range and CopyTrader. Its weaknesses are the USD-denominated account, a narrower ETF selection than dedicated ETF brokers, and slow customer support.
 
 ## What is eToro?
 

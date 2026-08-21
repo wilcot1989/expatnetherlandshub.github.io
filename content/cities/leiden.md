@@ -1,8 +1,8 @@
 ---
-title: 'Leiden Population & Expat Guide 2026: Costs, Jobs'
-description: "Leiden's population is 130,328 (2026). Expat guide: rents from EUR 1,050, Bio Science Park jobs, best neighbourhoods and how to register."
+title: 'Leiden Population 2026: 130,328 Residents (Expat Guide)'
+description: "Leiden's population is 130,328 in 2026, roughly 15,000 of them internationals. How the city compares in size, what living there costs, and the expat basics."
 date: 2026-03-06 10:00:00+01:00
-lastmod: 2026-08-19 10:00:00+02:00
+lastmod: 2026-08-21 10:00:00+02:00
 featured_image: /images/featured/leiden.webp
 author: Sarah van den Berg
 categories:
@@ -37,6 +37,8 @@ keywords:
 - how many people live in leiden
 schema_type: Article
 ---
+
+Leiden has a population of 130,328 as of 2026, counted across the whole municipality rather than just the historic centre. Approximately 15,000 of those residents are internationals, around 12% of the total, a share driven largely by Leiden University, the LUMC teaching hospital and the Bio Science Park. The rest of this guide covers how Leiden compares in size to other Dutch cities, what living there costs, where expats tend to settle, and the practical registration steps after you arrive.
 
 ## Leiden at a Glance
 
@@ -213,6 +215,14 @@ Smaller than most people assume, given how much the city has going on. Leiden's 
 ### How many people live in Leiden compared to Amsterdam or The Hague?
 
 Leiden's 130,328 residents are a small fraction of Amsterdam's (roughly 940,000) or The Hague's (roughly 570,000). Leiden sits between the two on the rail line but is much closer in size to Delft or Zoetermeer than to either of its larger neighbours.
+
+### How many internationals live in Leiden?
+
+Approximately 15,000 of Leiden's 130,328 residents are internationals — around 12% of the population. That concentration comes mainly from Leiden University, the LUMC medical centre and the Bio Science Park, which together recruit academics, researchers and life sciences staff from across the world. It is why English is very widely spoken in the city despite Leiden being much smaller than Amsterdam or Rotterdam.
+
+### Is Leiden bigger than Delft or Zoetermeer?
+
+Leiden's 130,328 residents put it in the same size bracket as Delft and Zoetermeer rather than clearly above or below them. It is noticeably smaller than Rotterdam or The Hague, but large enough to function as a proper city rather than a town. What makes Leiden feel bigger than its numbers is the concentration of museums, the scale of Leiden University, and the Bio Science Park on the city's edge.
 
 ### Is Leiden a good place to live as an expat?
 

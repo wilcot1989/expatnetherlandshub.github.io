@@ -1,9 +1,9 @@
 ---
-title: "Best English-Speaking Notaris in the Netherlands 2026"
+title: "English-Speaking Notaris Netherlands 2026: What It Costs"
 date: 2026-07-12
-lastmod: 2026-07-12T10:00:00+01:00
+lastmod: 2026-08-21T10:00:00+01:00
 draft: false
-description: "When you need a Dutch notary as an expat, what to expect, what it costs, and how to find an English-speaking notaris in 2026 for property, marriage and wills."
+description: "What a Dutch notaris does, what it costs in 2026 (house deed EUR 700-1,400, will EUR 350-700), and how to find an English-speaking notaris who genuinely handles expat work."
 keywords:
 - english speaking notaris netherlands
 - notary netherlands expat
@@ -30,6 +30,10 @@ faq:
     a: "A notaris (notary) is impartial and handles official acts — deeds, wills, incorporation. An advocaat (lawyer) represents one party in a dispute, contract negotiation, court case, or advisory matter. For buying a house you need a notaris. For an employment dispute or divorce, you need an advocaat. For a will, you need a notaris. For tax planning around inheritance, you may need both. The roles do not overlap."
   - q: "Can I sign notarial documents remotely or do I need to be physically present?"
     a: "Most notarial signings still happen in person at the notaris office in the Netherlands. Some have introduced remote signing for specific document types (powers of attorney, simple wills) using video and digital ID — but property deeds and marriage contracts almost always require physical presence. If you cannot be in NL on the signing date, you can grant power of attorney (volmacht) to your notaris or another person to sign on your behalf. This is standard practice for buyers signing remotely."
+  - q: "What is a 'notaris' in English?"
+    a: "The closest English terms are civil-law notary or notary public, but neither maps cleanly onto the Dutch role. A notaris is a state-appointed legal officer, appointed by the Crown after rigorous training, who holds a monopoly on certain official acts (notariele akten). Crucially, a notaris is impartial: unlike a UK or US lawyer, they do not represent one side but ensure the deed is legally correct, that both parties understand what they are signing, and that the public record is accurate. A single notaris therefore handles the deed for both buyer and seller in a Dutch property sale."
+  - q: "Which acts legally require a notaris in the Netherlands?"
+    a: "Property transfer (leveringsakte) for every house, apartment or land transfer; the mortgage deed (hypotheekakte) for every mortgage on Dutch property; a marriage contract (huwelijkse voorwaarden) or the equivalent civil partnership contract; a notarial will (testament); BV or NV incorporation; certain VOF and Maatschap partnership amendments; a donation deed (schenkingsakte) for gifts above the annual exemption; and an inheritance declaration (verklaring van erfrecht), typically needed to access a deceased person's accounts. If your situation involves any of these, a notaris is not optional."
 products:
   - name: "Independer Inboedelverzekering"
     url: "https://go.expatnetherlandshub.com/independer-inboedel?ref=/blog/best-english-speaking-notaris-netherlands-2026/"
@@ -40,6 +44,8 @@ products:
     price: "0.00"
     tag: "International Transfers"
 ---
+**Short answer:** A Dutch notaris is a state-appointed, impartial legal officer with a monopoly on certain official deeds — property transfers, mortgages, marriage contracts, wills and company incorporation — and is not a lawyer representing one side. In 2026 expect roughly EUR 700 to EUR 1,400 for a house purchase deed, EUR 1,300 to EUR 2,400 for a house plus mortgage package, and EUR 350 to EUR 700 for a will. Fees are not regulated, so request written quotes: prices for identical work vary by 30 to 60 percent.
+
 The first time I needed a Dutch notaris was for a will after my partner and I bought our first apartment in 2019. I went into that meeting expecting a 30-minute formality. It took 90 minutes, generated a 14-page document I needed to read carefully, and cost EUR 540. I left understanding things about Dutch inheritance law I had never thought about.
 
 Most expats encounter the notaris exactly once — at house purchase. A smaller number need one for wills, marriage contracts, or business incorporation. For all of these, the institution is unfamiliar and the stakes are real. This guide covers what a notaris actually does, what to expect, what it costs, and how to find an English-speaking one who genuinely handles expat work.
@@ -49,7 +55,7 @@ Most expats encounter the notaris exactly once — at house purchase. A smaller 
 💡 *For broader Dutch legal context, see my [Dutch bureaucracy survival guide](/guides/integration/dutch-bureaucracy-survival-guide-2026/) and [inheritance law for expats](/guides/legal/dutch-inheritance-law-wills-expats-2026/).*
 
 
-> **Quick answer:** When you need a Dutch notary as an expat, what to expect, what it costs, and how to find an English-speaking notaris in 2026 for property, marriage and wills.
+> **Quick answer:** You need a notaris for any property transfer, mortgage deed, marriage contract, notarial will or BV incorporation in the Netherlands, and as the buyer in a house purchase you choose which one — the fee comes out of your kosten koper budget. Pick one that handles a high volume of expat work so the deed is explained to you in plain English, and get at least two written quotes, since the same job can differ by EUR 400 to EUR 800.
 
 ## What a Dutch Notaris Is
 

@@ -1,8 +1,8 @@
 ---
-title: 'Best Credit Card Netherlands 2026: 7 Options for Expats'
+title: 'Best Credit Card Netherlands 2026: Which Ones Accept Expats'
 date: 2026-03-18 10:00:00+01:00
-lastmod: 2026-08-19 10:00:00+02:00
-description: 'Best credit card in the Netherlands 2026: which 7 cards approve expats with an empty BKR file, annual fees from EUR 29, and what works from day one.'
+lastmod: 2026-08-21 10:00:00+02:00
+description: 'Best credit card in the Netherlands 2026: which cards approve you with an empty BKR file, annual fees from EUR 25 (ICS Visa) to EUR 140 (Amex Gold), and what works from day one.'
 categories:
 - finance
 tags:
@@ -54,8 +54,14 @@ faq:
   a: Revolut's standard and premium plans are debit cards. Revolut Metal includes a credit feature (Pay Later/Credit in some markets), but this is not universally available in the Netherlands and depends on your individual eligibility assessment by Revolut. For practical purposes, treat Revolut as a debit/prepaid card unless you have specifically been approved for the credit feature.
 - q: What is the best credit card in the Netherlands overall?
   a: 'There is no single best credit card in the Netherlands -- it depends on how long you have been here. For new expats with no Dutch credit history, American Express Green (EUR 71/year) is the most realistic option because Amex assesses your income rather than your Dutch BKR file. For expats with 6-12 months of Dutch banking history, the ICS Visa World Card (EUR 29/year) is the standard choice and cheaper long-term. If you mainly need a card that works internationally rather than true credit, the Wise card covers most of the same use cases with no credit check at all.'
+- q: Is there a free credit card in the Netherlands?
+  a: Not a true one. Every Dutch credit card in this guide carries an annual fee, from around EUR 25-40 for the ICS Visa World Card up to EUR 140 for Amex Gold, and the metal fintech cards charge a monthly subscription instead. Prepaid cards and fintech debit cards such as Wise have no annual fee, but they spend your own money and are not credit, so they do not build a BKR history either.
+- q: How long do I need to wait before a Dutch credit card application succeeds?
+  a: Plan on roughly 6-12 months of Dutch banking and BKR history before traditional issuers such as ICS will approve you. The fastest way to start that clock is a postpaid Dutch mobile subscription in your own name, which creates an actual BKR entry. If you need a working card sooner, American Express assesses income rather than your BKR file, and a Wise card covers international spending in the meantime.
 schema_type: Article
 ---
+
+**Short answer:** If you have just arrived, American Express Green is the realistic option because Amex approves on income rather than a Dutch BKR file; once you have 6-12 months of Dutch banking history, the cheaper ICS Visa World Card becomes accessible. Until either lands, a Wise card bridges the gap for everyday and international spending.
 
 The credit card situation in the Netherlands is one of the more frustrating discoveries for new expats. You arrive, you open a Dutch bank account, and then you try to apply for a credit card — only to be told that your application cannot be processed because you have no Dutch credit history. No Dutch credit history because you just arrived. The classic catch-22.
 

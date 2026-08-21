@@ -1,12 +1,12 @@
 ---
-title: "Private Healthcare Netherlands Cost 2026: Cigna vs Aetna vs Allianz"
+title: "Private Health Insurance Netherlands 2026: Allianz vs Cigna"
 date: 2026-07-31
-lastmod: 2026-08-19 12:00:00+02:00
+lastmod: 2026-08-21 10:00:00+02:00
 author: "Sarah van den Berg"
 categories: ["healthcare", "finance"]
 tags: ["private healthcare", "cigna", "aetna", "allianz", "expat insurance", "healthcare netherlands"]
 featured_image: "/images/categories/health.svg"
-description: "Honest 2026 breakdown of private healthcare in the Netherlands for expats. Cigna vs Aetna vs Allianz pricing (€120-€450/month), when private makes sense on top of basisverzekering, and how zorgtoeslag fits in."
+description: "Allianz Care, Cigna and Aetna compared for expats in the Netherlands 2026 (roughly EUR 150-450 a month), and why private cover never replaces the mandatory basisverzekering."
 affiliate: true
 products:
   - name: "SafetyWing Nomad Insurance"
@@ -22,6 +22,8 @@ products:
     url: "https://wise.com/invite/ihpc/willemt52"
     cta: "Open a Wise account"
 ---
+
+**Short answer:** private international cover from Allianz Care, Cigna or Aetna does not satisfy the Dutch Zvw obligation, because the basisverzekering has to come from a Dutch-licensed insurer. If you live here with a BSN and gemeente registration you need a Dutch basisverzekering as well, and private works as a top-up on top of it — private rooms, faster specialist access, dental and global cover — at roughly €150-€450 a month plus the €155 Dutch basis premium.
 
 A friend of mine — let's call her Diane — flew in from Boston last spring on a two-year executive assignment for a semiconductor company in Eindhoven. Her HR package included "international private health insurance, fully covered." She arrived, signed her rental contract, registered at the gemeente, and three weeks later got a letter from CAK telling her she was uninsured and owed a fine. She was furious. She had a Cigna Global policy on her laptop screen. How could she be uninsured?
 
@@ -254,6 +256,12 @@ The lesson she learned, and the one I'd hammer home: **assume nothing about Dutc
 
 - q: 'Which is best for families - Cigna, Aetna, or Allianz?'
   a: 'For families, Allianz Care often offers the best value because of structured family discounts (15-20% cheaper than Cigna for a spouse plus two kids). Cigna wins if you travel to the US frequently. Aetna is most common when offered through corporate group plans.'
+
+- q: 'Does Allianz Care count as health insurance in the Netherlands?'
+  a: 'Not as your mandatory cover. Dutch law requires a Dutch-licensed insurer to provide the basisverzekering, and international policies like Allianz Care are not Dutch-licensed, so they do not satisfy the Zvw obligation. If you are a Dutch resident with a BSN and gemeente registration, you need a Dutch basisverzekering as well, with Allianz Care layered on top for private rooms, dental, or global coverage.'
+
+- q: 'What does Allianz Care cost per month?'
+  a: 'Roughly €150-€380 per month depending on tier and age, which is the lowest of the three international insurers covered here (Cigna €180-€350, Aetna €200-€400). If you are a Dutch resident, add the Dutch basisverzekering premium of around €155/month on top, because the private policy does not replace it. Zorgtoeslag never applies to the Allianz premium — only to the Dutch policy.'
 
 - q: 'Do I need private insurance for pregnancy and childbirth?'
   a: 'No - Dutch basisverzekering covers maternity well, including kraamzorg (postnatal home care). Private insurance can add private room access and faster scans, but is not necessary. Read our full breakdown in our cost-of-having-a-baby guide for the actual numbers.'
