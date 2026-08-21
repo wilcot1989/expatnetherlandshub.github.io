@@ -2,11 +2,15 @@
 title: 'Eindhoven Expat Guide 2026: Living, Working & Costs'
 description: Complete expat guide to Eindhoven in 2026. Brainport tech jobs, rent prices by neighbourhood, ASML and Philips area, registration, and practical tips for expats.
 date: 2026-03-06 10:00:00+01:00
-lastmod: 2026-04-23 10:00:00+01:00
+lastmod: 2026-08-21 10:00:00+02:00
 featured_image: /images/featured/eindhoven.webp
 author: Sarah van den Berg
 categories:
 - cities
+keywords:
+- cost of living eindhoven
+- eindhoven rent prices 2026
+- eindhoven waste tax 2026
 schema_type: Article
 ---
 
@@ -27,7 +31,13 @@ The practical upside is significant: rents are lower than in the Randstad cities
 
 ## Cost of Living
 
-Eindhoven offers meaningfully lower costs than Amsterdam, Utrecht, or The Hague, which makes a substantial difference to take-home quality of life on comparable salaries.
+Eindhoven offers meaningfully lower costs than Amsterdam, Utrecht or The Hague, which makes a substantial difference to take-home quality of life on comparable salaries. On base rent, a one-bedroom here comes out around 33% cheaper than the Amsterdam equivalent and a two-bedroom around 34% cheaper. Combined with Brainport salaries that are competitive with Randstad tech pay, that gap is the single strongest financial argument for the city.
+
+But the rent saving is not the only one, and this is where Eindhoven is genuinely unusual: it also has the lowest local charges of any city covered on this site. That is not a rounding difference. A single tenant pays €374.54 a year here against €665.40 in The Hague — the same two statutory bills, roughly €24 a month apart.
+
+It helps to be clear about what varies between Dutch cities and what does not. Rent varies a lot, but nobody can give you a precise average for it; what follows is an editorial market indication, not a measured figure. The national fixed costs — health insurance, groceries, utilities, internet and transport — are effectively the same wherever you live, because they are national markets. The only genuinely city-specific numbers that can be checked line by line are the municipal charges and the regional water authority charges, both published in tax ordinances that anyone can read. This section is built in those three layers so you can re-add the total yourself.
+
+### Rent (base rent, editorial market indication)
 
 | Item | Estimated monthly cost |
 |------|----------------------|
@@ -38,9 +48,81 @@ Eindhoven offers meaningfully lower costs than Amsterdam, Utrecht, or The Hague,
 | Dinner out (mid-range, two people) | €50–€70 |
 | Gym membership | €25–€40 |
 
+*Editorial market indication for private-sector rentals, ExpatNetherlandsHub, August 2026 — base rent excluding servicekosten and utilities. Individual listings vary widely by neighbourhood, energy label and furnishing.*
+
 The most desirable areas (Strijp-S, Centrum) command higher rents. More residential neighbourhoods like Gestel and parts of Woensel are noticeably cheaper and still well-connected.
 
-Use the [Housing Budget Checker](/tools/housing-budget-checker/) to model your Eindhoven budget before you start looking.
+If you are arriving before your household does — a common pattern for ASML and NXP hires — a room or studio is a practical first step while you look for a longer lease from inside the city rather than from abroad.
+
+*Disclosure: the link below is an affiliate link. If you sign up we may earn a commission, at no extra cost to you — see [how we earn](/how-we-earn/).*
+
+<a href="https://go.expatnetherlandshub.com/kamernet?ref=/cities/eindhoven/" target="_blank" rel="nofollow noopener sponsored" class="cta-affiliate">Search rooms and studios on Kamernet →</a>
+
+### The costs that are the same in every Dutch city
+
+These ranges come from this site's own [Cost of Living in the Netherlands 2026](/guides/housing/cost-of-living-netherlands-2026/) guide and apply nationally — they are not adjusted for Eindhoven, because in practice they do not vary by city.
+
+| Component | Single | Couple | Family (2 adults + 2 children) |
+|---|---|---|---|
+| Health insurance (basic policy, per adult) | €159 | €318 | €318 (children under 18 free) |
+| Groceries | €250–€350 | €400–€550 | €600–€850 |
+| Utilities (gas, electricity, water) | €150–€250 | €180–€280 | €220–€350 |
+| Internet + mobile | €50–€80 | €70–€110 | €80–€130 |
+| Transport (OV + bike) | €100–€200 | €150–€300 | €200–€400 |
+
+The totals further down use the midpoints of those ranges:
+
+- **Single: €874/month** = 159 + 300 + 200 + 65 + 150
+- **Couple: €1,338/month** = 318 + 475 + 230 + 90 + 225
+- **Family: €1,733/month** = 318 + 725 + 285 + 105 + 300
+
+On health insurance: in 2026 the average basic policy costs about €159 per month, the cheapest policies start around €142, and the statutory deductible (eigen risico) is €385 per year. The basic package is identical by law between insurers, so the only real variables are price and service quality.
+
+### Local charges: the one number that really is city-specific
+
+Two separate annual bills reach a tenant in Eindhoven: one from the gemeente, one from Waterschap De Dommel. They arrive separately and they are not the same thing.
+
+| Charge 2026 | 1 person | 2 persons | 3 persons | 4+ persons | Ordinance |
+|---|---|---|---|---|---|
+| Afvalstoffenheffing (waste levy) | €229.46 | €287.07 | €344.68 | €420.00 | [Verordening reinigingsheffingen 2026, tarieventabel 1.1](https://lokaleregelgeving.overheid.nl/CVDR746874) |
+| Rioolheffing — owner | €202.00 | €202.00 | €202.00 | €202.00 | [Verordening rioolheffing Eindhoven 2026](https://lokaleregelgeving.overheid.nl/CVDR746872) |
+| Rioolheffing — tenant | €0 | €0 | €0 | €0 | as above |
+| Watersysteemheffing ingezetenen (De Dommel) | €66.60 | €66.60 | €66.60 | €66.60 | [Belastingverordening watersysteemheffing De Dommel 2026](https://lokaleregelgeving.overheid.nl/CVDR748235) |
+| Zuiveringsheffing (De Dommel, €78.48 per v.e.) | €78.48 | €235.44 | €235.44 | €235.44 | [Belastingverordening zuiveringsheffing De Dommel 2026](https://lokaleregelgeving.overheid.nl/CVDR748238) |
+
+The waste levy is the tenant's bill, and Eindhoven is the only city on this site that keeps stepping it up all the way to five or more occupants — €229.46, €287.07, €344.68, then €420.00 for four or more. The reinigingsheffingen ordinance also sets separate tariffs for an additional residual-waste container, so a household that asks the gemeente for a second grey bin pays for it; the rate is in the tarieventabel and we are not quoting a figure here that our own source table does not carry, so check the current ordinance if that applies to you.
+
+The sewerage charge is where new arrivals routinely budget for a bill they will never receive. In Eindhoven the rioolheffing is levied on the property **owner**, at €202.00 a year for 2026. As a tenant you pay €0 and your landlord pays it. There is a user portion in the ordinance, but it applies at €280 per full unit of 500 m³ of water, and an ordinary household does not reach the first full unit. Say plainly to any agent who tells you otherwise: which article?
+
+The waterschap bill is separate from the gemeente bill and a tenant pays both of its parts. The watersysteemheffing ingezetenen (€66.60) is a flat charge per home. The zuiveringsheffing is charged per pollution unit — "vervuilingseenheid", v.e. — under a blunt statutory rule: one occupant counts as 1 v.e., more than one occupant counts as 3 v.e., however many more. That is why the step from single to couple is so steep: €78.48 becomes €235.44 the moment a second person registers, and it does not increase again for a third or fourth.
+
+The contrast between water authorities is worth seeing in numbers. De Dommel charges Eindhoven residents €78.48 per pollution unit; the Hoogheemraadschap van Delfland charges The Hague residents €115.33 for the same statutory levy. And Eindhoven's watersysteemheffing of €66.60 is the lowest of the ten cities on this site, while Delfland's Hague bill is among the highest. Identical charges under identical national law, very different money — it reflects the cost of the water system being managed, not anything the resident does.
+
+Combined, what a tenant in Eindhoven actually pays:
+
+| Household | Per year | Per month |
+|---|---|---|
+| Single | €374.54 | €31 |
+| Couple | €589.11 | €49 |
+| Family of four | €722.04 | €60 |
+
+If an assessment looks wrong, or your income is low enough that a waiver (kwijtschelding) might apply, [municipal taxes in the Netherlands](/blog/municipal-taxes-netherlands-expats-2026/) explains how objection and remission actually work.
+
+### Monthly total by household profile
+
+| Profile | Rent | National fixed costs | Local charges | Total |
+|---|---|---|---|---|
+| Single, 1-bedroom | €1,100 | €874 | €31 | **€2,005** |
+| Couple, 1-bedroom | €1,100 | €1,338 | €49 | **€2,487** |
+| Family of four, 2-bedroom | €1,450 | €1,733 | €60 | **€3,243** |
+
+The arithmetic, so you can re-add it: 1,100 + 874 + 31 = €2,005; 1,100 + 1,338 + 49 = €2,487; 1,450 + 1,733 + 60 = €3,243. Rent uses the midpoint of the indicative bands above.
+
+What these totals exclude, and you should budget for separately: income tax and any effect of the 30% ruling; one-off setup costs, meaning the deposit, furnishing an unfurnished Dutch rental and any agency fee; childcare; international school fees, which for two children at ISE will dwarf every other line on this page; and a car.
+
+*Municipal and water authority tariffs above are the 2026 rates as adopted in each body's own tax ordinance, retrieved from lokaleregelgeving.overheid.nl on 21 August 2026. Rent figures are an editorial market indication, not a measured average. Local rates are reset every year — check your own assessment.*
+
+Model it for yourself with the [Housing Budget Checker](/tools/housing-budget-checker/), the [Cost of Living Calculator](/tools/cost-of-living-calculator/), the [Salary Checker](/tools/salary-checker/) and the [30% Ruling Calculator](/tools/30-percent-ruling-calculator/). For the practical side of getting into a property, see [Moving to Eindhoven: Full Guide 2026](/guides/housing/moving-to-eindhoven-guide-2026/) and [finding housing in the Netherlands](/guides/housing/finding-housing-netherlands-expats-2026/).
 
 ## Best Neighbourhoods for Expats
 
@@ -169,6 +251,28 @@ The outdoor options around Eindhoven are underrated. The Dommel river runs throu
 7. Apply for DigiD after BSN
 
 The IWCN (International Welcome Centre) appointment, if your employer uses it, replaces several individual municipality appointments and is considerably more efficient. Worth confirming with your employer before arrival.
+
+## Frequently Asked Questions
+
+### How much is the waste tax in Eindhoven in 2026?
+
+The afvalstoffenheffing in Eindhoven for 2026 is €229.46 a year for one person, €287.07 for two, €344.68 for three and €420.00 for four or more. The rates are in the Verordening reinigingsheffingen 2026, tarieventabel 1.1, published on lokaleregelgeving.overheid.nl. That single-person rate is the lowest of the ten cities covered on this site — Amsterdam charges €352.00 and The Hague €412.56 for the same household. The bill goes to the household using the property, so as a tenant it is yours to pay.
+
+### Why is my Eindhoven water board bill so much lower than a friend's in The Hague?
+
+Because you are in different water authorities and their tariffs differ sharply. Eindhoven falls under Waterschap De Dommel: €66.60 watersysteemheffing plus €78.48 per pollution unit. The Hague falls under the Hoogheemraadschap van Delfland: €137.51 plus €115.33 per unit. For a couple — both households count as 3 v.e. — that is €302.04 in Eindhoven against €483.50 in The Hague. Same two statutory charges under the same national law; the difference is what each authority's water system costs to run. Both figures are from the 2026 belastingverordeningen.
+
+### Do tenants pay rioolheffing in Eindhoven?
+
+No. Eindhoven levies the sewerage charge on the property owner at €202.00 a year for 2026, so a tenant pays €0 and the landlord pays it. The ordinance (CVDR746872) does include a user portion of €280 per full unit of 500 m³ of water, but a normal household never reaches the first full unit. Budgeting €200 a year for this is one of the most common mistakes new arrivals make — the bill simply does not come to you.
+
+### What does a single expat need per month in Eindhoven?
+
+On our 2026 figures, roughly €2,005 a month: €1,100 base rent (the midpoint of an indicative €1,000–€1,200 one-bedroom band), €874 in national fixed costs — health insurance, groceries, utilities, connectivity and transport, from our [Cost of Living in the Netherlands 2026](/guides/housing/cost-of-living-netherlands-2026/) guide — and €31 a month in gemeente and De Dommel charges. It excludes income tax and the 30% ruling, deposit and furnishing, childcare, international school fees and any car.
+
+### Is Eindhoven cheaper than Amsterdam for an expat?
+
+Yes, and on more than one line. Base rent for a one-bedroom is around 33% below Amsterdam on our indicative bands and a two-bedroom around 34% below. Local charges are lower too: €374.54 a year for a single tenant against €631.64 in Amsterdam. The national fixed costs are identical, because health insurance, groceries and utilities are national markets. For a single person the modelled monthly total is €2,005 in Eindhoven against €2,577 in Amsterdam.
 
 ## Related Guides
 

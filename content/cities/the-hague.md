@@ -2,11 +2,15 @@
 title: 'The Hague Expat Guide 2026: Living, Working & Costs'
 description: Complete expat guide to The Hague in 2026. International organisations, embassy jobs, rent prices by neighbourhood, beach life, and practical tips for expats.
 date: 2026-03-06 10:00:00+01:00
-lastmod: 2026-04-23 10:00:00+01:00
+lastmod: 2026-08-21 10:00:00+02:00
 featured_image: /images/featured/the-hague.webp
 author: Sarah van den Berg
 categories:
 - cities
+keywords:
+- cost of living the hague
+- the hague rent prices 2026
+- the hague waste tax 2026
 schema_type: Article
 ---
 
@@ -29,7 +33,13 @@ The city sits 25 minutes from Rotterdam by train and has a coastline — Scheven
 
 ## Cost of Living
 
-The Hague is more affordable than Amsterdam but more expensive than Rotterdam, and the cost gap has narrowed in recent years as demand has grown.
+The Hague is more affordable than Amsterdam but more expensive than Rotterdam, and the cost gap with Amsterdam has narrowed in recent years as demand has grown. On base rent, a one-bedroom here comes out around 26% cheaper than the equivalent in Amsterdam, and a two-bedroom around 28% cheaper. That is a real saving, but it is smaller than the gap you would get from moving to Eindhoven or Groningen — and it is almost entirely a rent effect, not a general "cheaper city" effect.
+
+It is worth being clear about what actually varies between Dutch cities, because most cost-of-living comparisons blur it. Rent varies a great deal, but no honest source can give you a precise average for it — what follows is an editorial market indication, not a measured figure. The national fixed costs (health insurance, groceries, utilities, connectivity, transport) are effectively identical wherever you live: the same insurers, the same supermarkets, the same energy market, the same NS fares. The only genuinely city-specific numbers that can be verified line by line are the municipal charges and the regional water authority charges — and those are set out in published tax ordinances that anyone can read.
+
+So this section is built in three layers: an indicative rent band, the national baseline that does not move, and the local charges that do. Add them together and you get a monthly figure you can re-derive yourself.
+
+### Rent (base rent, editorial market indication)
 
 | Item | Estimated monthly cost |
 |------|----------------------|
@@ -40,9 +50,81 @@ The Hague is more affordable than Amsterdam but more expensive than Rotterdam, a
 | Dinner out (mid-range, two people) | €55–€80 |
 | Gym membership | €25–€50 |
 
+*Editorial market indication for private-sector rentals, ExpatNetherlandsHub, August 2026 — base rent excluding servicekosten and utilities. Individual listings vary widely by neighbourhood, energy label and furnishing.*
+
 The Archipelbuurt and Statenkwartier command the highest rents in the city. Areas further from the centre — Laak, Moerwijk — are substantially cheaper but less commonly chosen by international arrivals. Scheveningen is a premium address given the beach access.
 
-Use the [Housing Budget Checker](/tools/housing-budget-checker/) to work out what your budget can realistically cover here.
+If a whole apartment is out of budget for your first months, the room and studio market is a realistic bridge — many arrivals in the international-organisations corridor start in a room while they wait for a longer lease.
+
+*Disclosure: the link below is an affiliate link. If you sign up we may earn a commission, at no extra cost to you — see [how we earn](/how-we-earn/).*
+
+<a href="https://go.expatnetherlandshub.com/kamernet?ref=/cities/the-hague/" target="_blank" rel="nofollow noopener sponsored" class="cta-affiliate">Search rooms and studios on Kamernet →</a>
+
+### The costs that are the same in every Dutch city
+
+These ranges come from this site's own [Cost of Living in the Netherlands 2026](/guides/housing/cost-of-living-netherlands-2026/) guide and apply nationally — they are not adjusted for The Hague, because in practice they do not vary by city.
+
+| Component | Single | Couple | Family (2 adults + 2 children) |
+|---|---|---|---|
+| Health insurance (basic policy, per adult) | €159 | €318 | €318 (children under 18 free) |
+| Groceries | €250–€350 | €400–€550 | €600–€850 |
+| Utilities (gas, electricity, water) | €150–€250 | €180–€280 | €220–€350 |
+| Internet + mobile | €50–€80 | €70–€110 | €80–€130 |
+| Transport (OV + bike) | €100–€200 | €150–€300 | €200–€400 |
+
+The totals further down use the midpoints of those ranges:
+
+- **Single: €874/month** = 159 + 300 + 200 + 65 + 150
+- **Couple: €1,338/month** = 318 + 475 + 230 + 90 + 225
+- **Family: €1,733/month** = 318 + 725 + 285 + 105 + 300
+
+On health insurance specifically: in 2026 the average basic policy costs about €159 per month, the cheapest policies start around €142, and the statutory deductible (eigen risico) is €385 per year. Cover is mandatory from your first day of Dutch residency and the statutory package is identical between insurers, so the only thing you are choosing on is price and service.
+
+### Local charges: the one number that really is city-specific
+
+Two separate annual bills land on a tenant in The Hague: one from the gemeente, one from the Hoogheemraadschap van Delfland. They are not the same bill and they do not arrive together.
+
+| Charge 2026 | 1 person | 2 persons | 3 persons | 4+ persons | Ordinance |
+|---|---|---|---|---|---|
+| Afvalstoffenheffing (waste levy) | €412.56 | €463.80 | €507.48 | €507.48 | [Verordening afvalstoffenheffing Den Haag 2021, art. 4 (2026 rates)](https://lokaleregelgeving.overheid.nl/CVDR650905) |
+| Rioolheffing — owner | €195.40 | €195.40 | €195.40 | €195.40 | [Verordening rioolheffing Den Haag](https://lokaleregelgeving.overheid.nl/CVDR650733) |
+| Rioolheffing — tenant | €0 | €0 | €0 | €0 | as above |
+| Watersysteemheffing ingezetenen (Delfland) | €137.51 | €137.51 | €137.51 | €137.51 | [Belastingverordening watersysteemheffing Delfland 2026](https://lokaleregelgeving.overheid.nl/CVDR748834) |
+| Zuiveringsheffing (Delfland, €115.33 per v.e.) | €115.33 | €345.99 | €345.99 | €345.99 | [Belastingverordening zuiveringsheffing Delfland 2026](https://lokaleregelgeving.overheid.nl/CVDR748833) |
+
+The waste levy is the tenant's bill. The Hague charges the full rate of €507.48 to households of three or more and gives a reduction of €94.92 to a one-person household and €43.68 to a two-person household, which is how you get to €412.56 and €463.80.
+
+The sewerage charge is where expats routinely budget for a bill they will never receive. In The Hague the rioolheffing is levied on the property **owner**, at €195.40 per year. As a tenant you pay €0 for it — your landlord pays it. There is a user portion in the ordinance, but it only bites at €267.35 per unit of 500 m³ of water above the first 500 m³, and a normal household does not come close to that consumption. If a letting agent tells you to budget for rioolheffing on top of your rent, ask which line of the ordinance they mean.
+
+The waterschap bill is separate from the gemeente bill, and a tenant pays both of its parts. The watersysteemheffing ingezetenen (€137.51) is a flat charge per home. The zuiveringsheffing is charged per pollution unit — "vervuilingseenheid", v.e. — and the statutory rule is blunt: a home occupied by one person counts as 1 v.e., a home occupied by more than one person counts as 3 v.e., however many more there are. That is why the jump from single to couple is so steep here: €115.33 becomes €345.99 the moment a second person registers at the address, and it does not rise again for a third or fourth.
+
+The contrast between water authorities is striking, and The Hague is on the expensive end of it. Delfland charges its residents €115.33 per pollution unit; De Dommel charges Eindhoven residents €78.48 for the same statutory levy. And where Eindhoven's watersysteemheffing (€66.60) is the lowest of the ten cities covered on this site, Delfland's Hague bill is among the highest. Same two charges, very different money — which is a function of the water system being defended, not of anything you do.
+
+Combined, what a tenant in The Hague actually pays in local charges:
+
+| Household | Per year | Per month |
+|---|---|---|
+| Single | €665.40 | €55 |
+| Couple | €947.30 | €79 |
+| Family of four | €990.98 | €83 |
+
+If you think an assessment is wrong, or your income is low enough that a waiver (kwijtschelding) may apply, see [municipal taxes in the Netherlands](/blog/municipal-taxes-netherlands-expats-2026/) for how objection and remission actually work.
+
+### Monthly total by household profile
+
+| Profile | Rent | National fixed costs | Local charges | Total |
+|---|---|---|---|---|
+| Single, 1-bedroom | €1,225 | €874 | €55 | **€2,154** |
+| Couple, 1-bedroom | €1,225 | €1,338 | €79 | **€2,642** |
+| Family of four, 2-bedroom | €1,575 | €1,733 | €83 | **€3,391** |
+
+The arithmetic is deliberately visible: 1,225 + 874 + 55 = €2,154; 1,225 + 1,338 + 79 = €2,642; 1,575 + 1,733 + 83 = €3,391. Rent uses the midpoint of the indicative bands above.
+
+What these totals exclude, and you should plan separately for: income tax and any effect of the 30% ruling; one-off setup costs, meaning the deposit, furnishing an unfurnished Dutch rental and any agency fee; childcare; international school fees, which in The Hague can exceed everything else on this page combined; and a car.
+
+*Municipal and water authority tariffs above are the 2026 rates as adopted in each body's own tax ordinance, retrieved from lokaleregelgeving.overheid.nl on 21 August 2026. Rent figures are an editorial market indication, not a measured average. Local rates are reset every year — check your own assessment.*
+
+Run your own numbers with the [Housing Budget Checker](/tools/housing-budget-checker/), the [Cost of Living Calculator](/tools/cost-of-living-calculator/), the [Salary Checker](/tools/salary-checker/) and the [30% Ruling Calculator](/tools/30-percent-ruling-calculator/). For the practical side of getting into a property, see [Moving to The Hague: Full Guide 2026](/guides/housing/moving-to-the-hague-guide-2026/) and [finding housing in the Netherlands](/guides/housing/finding-housing-netherlands-expats-2026/).
 
 ## Best Neighbourhoods for Expats
 
@@ -173,6 +255,28 @@ The city's park system is generous. The Westbroekpark, the Scheveningse Bosjes, 
 5. Register for health insurance — diplomatic personnel should confirm with their employer whether Dutch state insurance applies or whether organisational coverage takes precedence
 6. Register with an English-speaking GP — several practices in Bezuidenhout and Statenkwartier cater specifically to international patients
 7. Apply for DigiD after BSN is in hand
+
+## Frequently Asked Questions
+
+### How much is the waste tax in The Hague in 2026?
+
+The afvalstoffenheffing in The Hague for 2026 is €412.56 a year for a one-person household, €463.80 for two people and €507.48 for three or more. The €507.48 is the base rate; single and two-person households receive a reduction of €94.92 and €43.68 respectively. The figures come from the Verordening afvalstoffenheffing Den Haag 2021, article 4, as amended for the 2026 rates and published on lokaleregelgeving.overheid.nl. It is billed to the household using the property, so as a tenant this one is yours.
+
+### Do tenants pay rioolheffing in The Hague?
+
+No. In The Hague the sewerage charge is levied on the property owner at €195.40 per year for 2026, so as a tenant you pay €0 and your landlord pays it. The ordinance (CVDR650733) does contain a user portion, but it only applies at €267.35 per unit of 500 m³ of water above the first 500 m³ — far beyond normal household consumption. This is one of the most common budgeting mistakes new arrivals make: setting aside roughly €200 a year for a bill that will never arrive.
+
+### Why is my water board bill in The Hague higher than a friend's in Eindhoven?
+
+Because you are in different water authorities. The Hague falls under the Hoogheemraadschap van Delfland, which charges €115.33 per pollution unit for the zuiveringsheffing in 2026; Eindhoven falls under Waterschap De Dommel, at €78.48. Delfland's watersysteemheffing is €137.51 against De Dommel's €66.60 — the lowest of the ten cities on this site. For a couple that is €483.50 in The Hague against €302.04 in Eindhoven, for identical statutory charges. Both sets of rates come from each authority's own 2026 belastingverordening.
+
+### What does a single expat need per month in The Hague?
+
+On our 2026 figures, roughly €2,154 a month: €1,225 base rent (the midpoint of an indicative €1,100–€1,350 one-bedroom band), €874 in national fixed costs — health insurance, groceries, utilities, connectivity and transport, from our [Cost of Living in the Netherlands 2026](/guides/housing/cost-of-living-netherlands-2026/) guide — and €55 a month in gemeente and Delfland charges. It excludes income tax, the 30% ruling, deposit and furnishing costs, childcare, international school fees and any car.
+
+### Is The Hague cheaper than Amsterdam?
+
+On rent, clearly: our indicative bands put a one-bedroom in The Hague around 26% below Amsterdam and a two-bedroom around 28% below. On everything else the gap mostly disappears — health insurance, groceries and utilities are national markets. Local charges actually run slightly higher in The Hague than in Amsterdam for a single tenant (€665.40 against €631.64 a year), largely because Delfland's zuiveringsheffing is expensive. The saving is a rent saving, not a general discount.
 
 ## Related Guides
 

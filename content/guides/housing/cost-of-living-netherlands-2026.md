@@ -1,7 +1,7 @@
 ---
 title: 'Cost of Living in the Netherlands 2026: Complete Breakdown'
 date: 2026-03-04 10:00:00+01:00
-lastmod: 2026-08-19 10:00:00+02:00
+lastmod: 2026-08-21 10:00:00+02:00
 description: Complete breakdown of living costs in the Netherlands for 2026. Rent, groceries, transport, insurance, and monthly budgets for expats.
 categories:
 - relocation
@@ -626,6 +626,41 @@ The figures below are for a single person renting alone (not shared housing) wit
 If you work remotely or have flexibility, moving from Amsterdam to Groningen could save you EUR 600-1,200 per month on rent alone — EUR 7,200-14,400 per year. Even Rotterdam or Eindhoven versus Amsterdam typically saves EUR 400-700 per month.
 
 For a detailed guide to choosing between Dutch cities including job markets, social life, and family considerations, see our [Best Cities for Expats in the Netherlands 2026](/guides/housing/best-cities-netherlands-expats-2026/).
+
+### Local Taxes by City: The 2026 Numbers, From the Ordinances
+
+Almost every cost on this page is national. Rent varies by city, but groceries, health insurance, internet and the OV tariff barely do. There is one exception, and it is the one nobody publishes: the two annual local tax bills a tenant receives.
+
+The first comes from your municipality (afvalstoffenheffing, the waste levy, and in some places a share of the rioolheffing). The second comes from your regional water authority (watersysteemheffing plus zuiveringsheffing). Both are set locally, every year, in a published tax ordinance — so unlike a rent estimate, these are exact figures you can check.
+
+The table below is the combined amount a **tenant** actually pays, per year, taken from each body's own 2026 ordinance.
+
+| City | Single | Couple | Family of four | Municipal waste levy (single) | Tenant pays sewerage charge? |
+|------|--------|--------|----------------|-------------------------------|------------------------------|
+| [Amsterdam](/cities/amsterdam/#cost-of-living) | EUR 632 | EUR 934 | EUR 934 | EUR 352.00 | No — owner pays |
+| [Rotterdam](/cities/rotterdam/#cost-of-living) | EUR 613 | EUR 848 | EUR 886 | EUR 381.90 | No — owner pays |
+| [Utrecht](/cities/utrecht/#cost-of-living) | EUR 552 | EUR 806 | EUR 962 | EUR 346.25 | No — owner pays |
+| [Den Haag](/cities/the-hague/#cost-of-living) | EUR 665 | EUR 947 | EUR 991 | EUR 412.56 | No — owner pays |
+| [Eindhoven](/cities/eindhoven/#cost-of-living) | EUR 375 | EUR 589 | EUR 722 | EUR 229.46 | No — owner pays |
+| [Groningen](/cities/groningen/#cost-of-living) | EUR 518 | EUR 779 | EUR 850 | EUR 283.08 | No — owner pays |
+| [Leiden](/cities/leiden/#cost-of-living) | EUR 596 | EUR 936 | EUR 1,086 | EUR 269.52 | **Yes** — EUR 67.68 to EUR 129.84 |
+| [Delft](/cities/delft/#cost-of-living) | EUR 536 | EUR 928 | EUR 928 | EUR 283.59 | In practice no — check your assessment |
+| [Haarlem](/cities/haarlem/#cost-of-living) | EUR 583 | EUR 907 | EUR 1,007 | EUR 324.48 | No — owner pays |
+| [Maastricht](/cities/maastricht/#cost-of-living) | EUR 619 | EUR 823 | EUR 823 | EUR 357.12 flat | **Yes** — EUR 60.12 |
+
+Four things in that table are worth knowing before you sign a lease.
+
+**The sewerage charge is usually not yours.** In eight of these ten municipalities the rioolheffing is levied on the owner of the property, and the user portion only starts at a water consumption level (250 to 500 cubic metres a year) that no household reaches. Expats routinely budget for a bill that will never arrive. Leiden and Maastricht are the exceptions, and both charge tenants a real amount.
+
+**The water authority bill jumps when a second person moves in.** The zuiveringsheffing is charged per pollution unit (vervuilingseenheid). A home occupied by one person counts as one unit; a home occupied by more than one person counts as three, however many more. That is why a couple pays roughly three times what a single occupant pays for the same treatment charge, and why a family of four pays exactly the same as a couple.
+
+**Where you live decides the tariff, not how much water you use.** Delfland charges The Hague and Delft residents EUR 115.33 per unit; De Dommel charges Eindhoven residents EUR 78.48. Same statutory charge, same service, 47% difference.
+
+**Maastricht is the only city where sorting your rubbish changes the bill.** The Maastricht waste levy is a flat EUR 357.12 per property regardless of household size, plus EUR 1.19 per municipal 50-litre bag or per deposit in an access-controlled underground container. Everywhere else, the band you fall into is set by how many people are registered at the address on 1 January and nothing you do afterwards affects it.
+
+Each city guide linked above has the full 2026 breakdown with a link to the ordinance it came from, plus a total monthly budget for a single person, a couple and a family. For how these bills arrive, how to object within the six-week window, and the remission scheme almost nobody applies for, see [municipal taxes in the Netherlands](/blog/municipal-taxes-netherlands-expats-2026/).
+
+*Municipal and water authority tariffs above are the 2026 rates as adopted in each body's own tax ordinance, retrieved from lokaleregelgeving.overheid.nl on 21 August 2026. Local rates are reset every year — check your own assessment.*
 
 ---
 
